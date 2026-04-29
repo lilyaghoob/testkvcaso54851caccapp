@@ -1,3 +1,49 @@
+src :@ClashReport
+[عکس]
+‏Trump:
+‏
+‏Jerome “Too Late” Powell wants to stay at the Fed because he can’t get a job anywhere else — Nobody wants him.
+01:30
+1405/02/10
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️رویترز به نقل از منابع امنیتی عراق گزارش داد بامداد پنجشنبه یک پهپاد تجسسی که در نزدیکی سفارت آمریکا در بغداد پرواز می‌کرد، سرنگون شد.
+‏بر اساس این گزارش، هنوز مشخص نیست این پهپاد چگونه سرنگون شده است. در پی این حادثه، سامانه‌های پدافندی عراق و سفارت آمریکا فعال شدند.
+‏@indypersian
+01:29
+1405/02/10
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 آمریکا به دنبال کاهش نیروهای نظامی در آلمان است / دونالد ترامپ:
+‏
+‏«ایالات متحده در حال بررسی کاهش احتمالی نیروها در آلمان است و تصمیمی در این مورد در کوتاه مدت اتخاذ خواهد شد. از توجه شما به این موضوع متشکرم!»
+‏ 
+‏🆔 @Americana_ir
+01:27
+1405/02/10
+
+
+
+
+src :@World_Newsly
+‏🔴 ترامپ: آمریکا امکان کاهش تعداد نیروهای خود در آلمان را بررسی می‌کند.
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+01:26
+1405/02/10
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇺🇸🇩🇪⚡️- "The United States is studying and reviewing the possible reduction of Troops in Germany, with a determination to be made over the next short period of time. Thank you for your attention to this matter! President DONALD J. TRUMP"- President Trump on Truth Social.
@@ -13,7 +59,7 @@ src :@tabzlive
 ‏
 ‏➡️ The campaign, which began in January, accessed 68 officials’ accounts—including senior diplomatic staff—by exploiting outdated Microsoft Exchange vulnerabilities, allowing attackers to extract entire inboxes. 
 ‏
-‏➡️ The Chinese hackers also targeted Venezuelan government systems and other global servers.
+‏➡️ The Chinese hackers also targeted Venezuelan government systems and other global servers around the same time.
 ‏
 ‏➡️ Researchers said the attack reflects a broader pattern of state-linked cyber espionage, using known software flaws to rapidly gather intelligence.
 01:26
@@ -1532,22 +1578,6 @@ src :@ScorchSword
 
 
 
-src :@IranintlTV
-[عکس]
-‏خبرگزاری فرانسه به نقل از «گروه اطلاعاتی سایت» اعلام کرد که یک گروه کمتر شناخته‌شده به نام «حرکت اصحاب الیمین الاسلامیه» که گمان می‌رود با جمهوری اسلامی ارتباط داشته باشد، مسئولیت حمله تروریستی ظهر چهارشنبه در شمال لندن را بر عهده گرفت. این حمله به زخمی شدن دو مرد یهودی انجامید.
-‏
-‏به گفته این نهاد آمریکاییِ خصوصی که فعالیت گروه‌های افراطی و تروریستی را در فضای آنلاین رصد و تحلیل می‌کند، این حمله به‌طور انفرادی انجام شده است.
-‏
-‏بر اساس گزارش «سایت»، «حرکت اصحاب الیمین الاسلامیه» با نام اختصاری HAYI، در بیانیه‌ای که به‌صورت آنلاین منتشر شد، اعلام کرد: «صهیونیست‌ها از سوی گرگ‌های تنهای ما در منطقه گولدرز گرین لندن هدف قرار گرفتند.»
-‏
-‏این گروه طی دو ماه گذشته مسئولیت مجموعه‌ای از حملات به اهداف مرتبط با یهودیان در سراسر اروپا را بر عهده گرفته است. پلیس لندن پس از دستگیری فردی که با چاقو به شهروندان حمله کرده بود، این حادثه را تروریستی اعلام کرد.
-‏https://iranintl.com/202604295050
-22:51
-1405/02/09
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ واشنگتن‌پست به نقل از مقامات آمریکایی اعلام کرد که ناو هواپیمابر «یواس‌اس جرالد فورد» طی روزهای آینده خاورمیانه را به مقصد ویرجینیا ترک خواهد کرد. این خروج در حالی صورت می‌گیرد که مذاکرات صلح میان جمهوری اسلامی و آمریکا متوقف شده است، اما بازگشت این ناو برای حدود ۴۵۰۰ خدمه آن که با رکورد ۳۰۹ روز دریانوردی طولانی‌ترین استقرار یک ناو هواپیمابر مدرن را تجربه کرده‌اند، ضروری است.
@@ -1639,19 +1669,6 @@ src :@naya_foriraq
 ‏
 ‏🇺🇸تعرضت طائرة درون للمراقبة من طراز MQ-4C Triton تابعة للبحرية الأمريكية (تبلغ قيمتها حوالي 240 مليون دولار أمريكي) لأضرار أثناء تحليقها فوق الخليج الفارسي في 27 أبريل. يأتي ذلك بعد أسابيع فقط من تحطم طائرة Triton أخرى (في 9 أبريل) في نفس المنطقة.
 22:39
-1405/02/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A U.S. Navy MQ-4C Triton surveillance drone was damaged mid-flight over the Persian Gulf on April 27, but managed to land safely with no injuries.
-‏
-‏This comes just weeks after a separate Triton crash (April 9) in the same region.
-‏
-‏Significant because Tritons are rare, high-value (~$240M) ISR assets.
-22:38
 1405/02/09
 
 
@@ -4691,21 +4708,6 @@ src :@Minas_Tirith2024
 src :@iran_jahan_darlahze
 ‏🔴 #خبر_فوری دلار در بازار آزاد تهران وارد کانال 170هزار تومان شد. @iran_jahan_darlahze
 10:59
-1405/02/09
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 ترامپ گسترش محاصره دریایی را به ادامه بمباران ایران ترجیح می‌دهد
-‏
-‏🔹وال استریت ژورنال در گزارشی جدید اعلام کرد که ترامپ به دستیارانش دستور داده تا برای محاصره گسترده‌تر ایران آماده شوند، که هدف آن محدود کردن بیشتر صادرات نفت و فعالیت اقتصادی ایران برای فشار بر تهران در برنامه هسته‌ای‌اش است.
-‏
-‏🔹در جلسات اخیر با مشاوران، ترامپ تصمیم گرفته به جای از سرگیری بمباران یا کنار کشیدن از درگیری، به فشار بر اقتصاد و صادرات نفت ایران با هدف جلوگیری از حمل و نقل به بنادر، ادامه دهد.
-‏
-‏🆔 @Americana_ir
-10:50
 1405/02/09
 
 
