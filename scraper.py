@@ -91,7 +91,7 @@ def run_scraper_logic(input_file, output_file):
     # ساخت محتوای فایل
     output_content = ""
     for post in all_posts:
-        entry = f"منبع :@{post['channel']}\n"
+        entry = f"src :@{post['channel']}\n"
         if post['media']: entry += f"{post['media']}\n"
         if post['text']: entry += f"{format_text(post['text'])}\n"
         entry += f"{post['time_str']}\n"
