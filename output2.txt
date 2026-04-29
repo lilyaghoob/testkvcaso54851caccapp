@@ -1,3 +1,47 @@
+src :@selena_updates
+[عکس]
+‏U.S. President Donald Trump spoke with Russia’s Vladimir Putin in a roughly one and a half hour long phone call, with discussions focusing around Iran and the ongoing situation in the Middle East.
+‏
+‏Russian President Vladimir Putin welcomed President Trump’s decision to extend the ceasefire with Iran, while warning of extremely harmful consequences if Israel and the United States resumed strikes against the Islamic Republic.
+22:10
+1405/02/09
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ترامپ درباره ایران:
+‏
+‏آنها باید تسلیم شوند—فقط بگویند،ما تسلیم می‌شویم
+22:10
+1405/02/09
+
+
+
+
+src :@World_Newsly
+‏🔴 وزیر جنگ آمریکا: ایران را به‌طور 24 ساعته زیر نظر گرفته‌ایم. ایران همچنان دارای جاه‌طلبی‌های هسته‌ای است.
+‏
+‏✍🏻 Queen
+‏▪️@World_Newsly
+22:10
+1405/02/09
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏⚜مقامات به واشنگتن پست گفتند که ناو هواپیمابر یو اس اس جرالد آر. فورد (CVN-78) و گروه ضربت ناو هواپیمابر آن که اکنون بیش از 300 روز است که در این منطقه مستقر هستند و رکورد طولانی‌ترین مدت استقرار ناو هواپیمابر از زمان جنگ ویتنام را به مراتب پشت سر گذاشته‌اند، در روزهای آینده از دریای سرخ حرکت خواهند کرد تا سفر بازگشت به بندرگاه خود در ایستگاه دریایی نورفولک در ویرجینیا را آغاز کنند. این سفر پس از ورود ناو هواپیمابر یو اس اس جورج اچ. دبلیو. بوش (CVN-77) در هفته گذشته به خاورمیانه، نزدیک ایران، انجام شده است.
+‏
+‏✒️#LT
+‏📃@Cataphract1
+22:09
+1405/02/09
+
+
+
+
 src :@jangaavaran1390
 ‏ترامپ:
 ‏پوتین هم نمی‌خواهد ایران سلاح هسته‌ای داشته باشد.
@@ -1232,26 +1276,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-‏Kremlin:
-‏
-‏Trump and Putin expressed similar assessments of the behavior of the government led by Volodymyr Zelensky, which they said is prolonging the conflict.
-20:58
-1405/02/09
-
-
-
-
-src :@ClashReport
-‏Kremlin:
-‏
-‏Putin and Trump said goodbye warmly at the end of the phone call.
-20:58
-1405/02/09
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏The price of Brent Crude Oil skyrocketed above $119 following media reports that US President Donald Trump is planning a long-term blockade of the Strait of Hormuz.
@@ -1365,14 +1389,6 @@ src :@World_Newsly
 
 
 
-src :@wfwitness
-‏⚡️🇮🇱🇺🇸🇮🇷 Against the backdrop of U.S. President Trump’s decision to reject the Iranian proposal, Israeli Prime Minister Netanyahu will speak with Trump in the coming hour.    @wfwitness
-20:49
-1405/02/09
-
-
-
-
 src :@IranintlTV
 ‏🔻جنگ خاموش جمهوری اسلامی؛ تهدید سایبری تهران علیه زندگی 
 ‏روزمره مردم جهان
@@ -1460,23 +1476,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱 Kan: An expose has revealed that Shin Bet chief David Zini appointed an external advisor, known as “Y”, who has no prior experience in the organisation. 
-‏
-‏According to multiple sources, Y effectively manages the agency, clashing with senior officials and telling them they “do not understand their work”.
-‏
-‏The internal crisis is linked to Zini’s handling of the smuggling affair involving his brother, Bezalel Zini. 
-‏
-‏Senior officials wanted the agency to issue a statement distancing itself from family members who questioned the investigation, but Zini ignored their request, leaving staff feeling abandoned.
-‏
-‏@wfwitness
-20:45
-1405/02/09
-
-
-
-
 src :@IranintlTV
 ‏🔻کنفدراسیون کار ایران: جمهوری اسلامی، جامعه ایران را به مرز فروپاشی اجتماعی کشانده است
 ‏کنفدراسیون کار ایران- خارج از کشور، در بیانیه‌ای در آستانه اول ماه مه و روز جهانی کارگر، وضعیت کنونی طبقه کارگر در ایران را یکی از تاریک‌ترین و بحرانی‌ترین دوره‌های تاریخی توصیف کرده که در آن استثمار، فقر، سرکوب و جنگ به‌طور هم‌زمان بر زندگی میلیون‌ها کارگر سایه انداخته است.
@@ -1515,14 +1514,6 @@ src :@IranintlTV
 
 
 
-src :@naya_foriraq
-‏ترامب: نعمل لمنع انهيار وقف إطلاق النار في لبنان خلال الأسبوعين المقبلين وما بعدهما
-20:43
-1405/02/09
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ پیت هگست، وزیر جنگ آمریکا، اعلام کرد که با گذشت دو ماه از حمله مرگبار به مدرسه ابتدایی میناب که منجر به کشته شدن بیش از ۱۶۵ نفر شد، این حادثه همچنان در دست تحقیق است.
@@ -1532,17 +1523,6 @@ src :@Indypersian
 ‏ماه گذشته، هگست به خبرنگاران گفته بود که ارتش یکی از ژنرال‌های خارج از فرماندهی مرکزی (سنتکام) را برای بررسی این حادثه مامور کرده است؛ با این حال، او از پاسخ به سوالات درباره علت وقوع حمله خودداری کرد و تکرار کرد که ایالات متحده غیرنظامیان را هدف قرار نمی‌دهد. 
 ‏@indypersian
 20:42
-1405/02/09
-
-
-
-
-src :@World_Newsly
-‏🔴 الجزیره: عمان با وجود برگزاری جلساتی با ایران درباره تنگه هرمز، در اجلاس سران شورای همکاری خلیج فارس در عربستان شرکت نکرد!
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-20:40
 1405/02/09
 
 
@@ -2816,20 +2796,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏سی‌ان‌ان:
-‏
-‏تأخیر در ارائه پیشنهاد اصلاح‌شده ایران به کندی تصمیمات داخلی مربوط است از جمله دسترسی به رهبری عالی ایران
-‏
-‏پاکستان انتظار دارد امروز یا حداکثر جمعه پیشنهاد اصلاح‌شده‌ای از ایران دریافت کند.
-‏
-‏نخست‌وزیر پاکستان گفت که عراقچی به او اطمینان داده است که پیشنهادهای جدیدی ارائه خواهد داد.
-18:59
-1405/02/09
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏'سقوط درخت روی خودروها در بلوار کشاورز #تهران در اثر وزش شدید باد'
@@ -2959,23 +2925,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:37
-1405/02/09
-
-
-
-
-src :@Indypersian
-‏⭕️فوتبال ایران در آستانه جام جهانی؛ تعطیلی لیگ، لغو بازی‌های دوستانه و بحران ویزا
-‏
-‏📌هنوز ویزای بازیکنان تیم ملی برای سفر به آمریکا صادر نشده است
-‏
-‏
-‏♦️در حالی که تنها یک ماه و ۱۳ روز تا آغاز جام جهانی فوتبال ۲۰۲۶ باقی مانده، مجموعه‌ای از بحران‌های هم‌زمان، از غیبت در نشست‌های رسمی بین‌المللی گرفته تا لغو دیدارهای تدارکاتی و تعطیلی کامل لیگ‌های داخلی، فوتبال ایران و تیم ملی را در وضعیتی بی‌سابقه قرار داده است.
-‏بیشتر بخوانید...
-‏
-‏
-‏@INDYPERSIAN
-18:36
 1405/02/09
 
 
@@ -3249,37 +3198,6 @@ src :@intelslava
 
 src :@P_raetorio
 ‏💰 با ما خیالت از نت ملی راحت باشه ✅ 🔔 فروش سرویس با ضمانت بازگشت وجه  | اقتصادی🔥 | |تانل😀🔥  فعال در نت ملی و اختلالات مناسب تلگرام | واتساپ | اینستاگرام  بدون‌محدودیت کاربر و بدون محدودیت زمان 🕒  قابل استفاده روی آیفون و اندروید 📱 » پشتیبانی سریع 🚀 » دارای…
-17:38
-1405/02/09
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏💰 با ما خیالت از نت ملی راحت باشه ✅
-‏
-‏🔔 فروش سرویس با ضمانت بازگشت وجه
-‏
-‏| اقتصادی🔥 | |تانل😀🔥
-‏
-‏فعال در نت ملی و اختلالات
-‏مناسب تلگرام | واتساپ | اینستاگرام
-‏
-‏بدون‌محدودیت کاربر و بدون محدودیت زمان 🕒
-‏
-‏قابل استفاده روی آیفون و اندروید 📱
-‏» پشتیبانی سریع 🚀
-‏» دارای چندین کشور متنوع 🌍
-‏» پینگ و سرعت بالا ⚡
-‏» بدون قطعی! 🛡️
-‏» مخصوص گیم 🎮
-‏»مخصوص ترید 📈
-‏
-‏گیگی 500برای خرید بالای 5گیگ در روز قیمت همکاری زده میشه
-‏
-‏خرید👇
-‏@Bow_devil
 17:38
 1405/02/09
 
@@ -3702,22 +3620,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 15:43
-1405/02/09
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Israel carried out a series of targeted strikes on motorcycles this morning in various villages in southern Lebanon.
-‏
-‏2 terrorists were eliminated - one in the village of Shaiteya and the other in Barj Qalawiyah.
-‏
-‏Separately, a Lebanese soldier, Hussein Ahmad Sultan, and his brother Mohammed, were killed in the village of Khirbet Selm.
-‏
-‏***
-‏For context, around 40% of the Lebanese army forces are shi'a and many of them are part of Hezbollah as well. Most of the LAF soldiers killed in Israeli attacks were shi'a. Just as with the so called gazan and lebanese journalists, this context is needed. Unfortunately, until now, the IDF refrained from pointing out with proof that LAF soldiers are also Hezbollah terrorists.
-15:42
 1405/02/09
 
 
