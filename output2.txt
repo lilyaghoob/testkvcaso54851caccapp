@@ -1,3 +1,17 @@
+src :@World_Newsly
+[عکس]
+‏🔴  ادعای ارتش اسرائیلی: ۲۱ کشتی ناوگان «الصمود» در مسیر حرکت به سمت غزه توقیف شده‌اند
+‏
+‏🔹 رادیو ارتش اسرائیل ادعا کرد که ۲۱ کشتی از مجموع ۵۸ کشتی ناوگان الصمود (پایداری) در مسیر حرکت به سمت غزه، توقیف شده اند.
+‏
+‏✍🏻 Hector
+‏▪️@World_Newsly
+14:40
+1405/02/10
+
+
+
+
 src :@ClashReport
 ‏Hungary’s incoming leader Péter Magyar wants stronger rights for ethnic Hungarians in Ukraine before supporting Ukraine’s EU membership talks. 
 ‏
@@ -1242,19 +1256,6 @@ src :@IranintlTV
 
 
 
-src :@selena_updates
-[عکس]
-‏Pakistan opened 6 land transport routes for overland trade with neighboring Iran, a move that somewhat undermines the effectiveness of the blockade and provides Tehran with a limited lifeline. 
-‏
-‏However, the overall impact remains limited, as more than 90% of Iran’s exports - primarily oil and petroleum products - are transported by sea. The newly opened land crossings are not used for oil shipments. 
-‏
-‏Considering the fact that Pakistan is acting as a mediator between the United States and Iran while maintaining good relations with the current U.S. administration, this suggests that the move was likely made with Washington’s awareness.
-13:01
-1405/02/10
-
-
-
-
 src :@rnintel
 ‏🇪🇺⚡️- Eurozone inflation reached 3% in April and Q1 growth is at 0.1%. This means the Eurozone has officially re-entered a stagflation situation for the first time since 2023.
 13:00
@@ -1500,20 +1501,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 قیمت گوگرد از ۵۰۰ به ۹۰۰ دلار در هر تن افزایش یافته است.
-‏
-‏🔴 بیش از ۲۴ درصد از گوگرد صنایع دفاعی، هوش مصنوعی و میکرو جهان از جنوب غرب آسیا تامین می‌شود و کمبود آن، تهدیدی جدی است.
-‏
-‏✍🏻 Cyrus
-‏▪️@World_Newsly
-12:37
-1405/02/10
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏⭕️ارتش هند به تازگی چهارمین هنگ پدافندی S-400 خود را از روسیه تحویل گرفته است؛ این کشور مجموعا 5 هنگ (شامل 10 آتشبار) سامانه S-400 را سفارش داده بود و احتمال سفارش تعداد بیشتر در سالهای آینده نیز وجود دارد
@@ -1738,19 +1725,6 @@ src :@IranintlTV
 ‏
 ‏🔗وب‌سایت ایران‌اینترنشنال
 ‏@iranintltv
-12:10
-1405/02/10
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Pentagon is requesting $55 billion for drone and autonomous warfare in its fiscal year 2027 budget, marking a significant increase from $225 million the previous year. This shift reflects a change in doctrine, favoring large numbers of low-cost, AI-enabled drones over a few high-cost platforms. 
-‏
-‏Recent conflicts, particularly in the Middle East and Ukraine, have highlighted the need to defend against swarms of inexpensive drones.
-‏
-‏Defense Secretary Pete Hegseth addressed Congress about this budget, which aims to enhance military capabilities through swift production and comprehensive drone systems. The new approach emphasizes coordinated drone swarms that can overwhelm defenses, signaling a transformation in modern warfare as adversaries also advance their drone technologies.
 12:10
 1405/02/10
 
@@ -2157,33 +2131,9 @@ src :@Minas_Tirith2024
 
 
 
-src :@IranintlTV
-[عکس]
-‏بلومبرگ گزارش داد سنتکام، ستاد فرماندهی مرکزی آمریکا درخواست کرده است موشک مافوق صوت «عقاب سیاه» متعلق به نیروی زمینی این کشور برای احتمال استفاده علیه جمهوری اسلامی به خاورمیانه منتقل شود. هدف از این اقدام، دستیابی به سامانه‌ای با برد بیشتر برای هدف قرار دادن پرتابگرهای موشک‌های بالستیک در عمق خاک ایران عنوان شده است.
-‏
-‏بر اساس این گزارش، در صورت تایید این درخواست، این نخستین بار خواهد بود که آمریکا موشک مافوق صوت خود را مستقر می‌کند. این سامانه با وجود تاخیرهای طولانی در برنامه توسعه و اعلام نشدن آمادگی عملیاتی کامل، در شرایطی مطرح شده که روسیه و چین پیش‌تر نسخه‌های مشابه خود را مستقر کرده‌اند.
-‏
-‏یک منبع آگاه گفت جمهوری اسلامی پرتابگرهای خود را از برد موشک «پرسیژن استرایک»، یک موشک حمله دقیق آمریکا، خارج کرده است.این موشک توان هدف قرار دادن اهدافی در فاصله بیش از ۳۰۰ مایل را دارد.
-‏https://iranintl.com/202604305551
-11:31
-1405/02/10
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇶ناقلة نفط ثالثة تبدأ بتحميل 2 مليون برميل من النفط الخام في ميناء البصرة
 11:29
-1405/02/10
-
-
-
-
-src :@ClashReport
-‏Belgium plans to buy nuclear assets from Engie (including 7 reactors run by Electrabel) to secure energy supply.
-‏
-‏The government says the move will ensure stable, affordable, low-carbon energy and pause nuclear shutdown plans.
-11:19
 1405/02/10
 
 
@@ -2319,19 +2269,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:53
-1405/02/10
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Russia launched one Iskander-M ballistic missile and 206 drones at Ukraine overnight, with air defenses neutralizing 172 of the aerial threats, while strikes that penetrated defenses caused injuries and infrastructure damage in multiple regions. 
-‏
-‏In Odesa, Russian forces carried out several waves of drone attacks, injuring 18 people, 9 of whom required hospitalization, and damaging residential buildings, a hotel, a kindergarten, and administrative facilities, with fires breaking out in parts of the city. 
-‏
-‏In the Kharkiv region, a separate strike hit a private home in the settlement of Velykyi Burluk, leaving a woman injured.
-10:51
 1405/02/10
 
 
