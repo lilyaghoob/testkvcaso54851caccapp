@@ -1,3 +1,46 @@
+src :@ScorchSword
+‏🚨 اسرائیل همراه با سیستم دفاعی گنبد آهنین، سامانه‌های پیشرفته دفاع هوایی لیزری را به امارات متحده عربی فرستاد تا در برابر موشک‌ها و پهپادهای ایرانی دفاع کند.
+‏
+‏▪︎فایننشال تایمز
+‏
+‏✏️N vard
+‏
+‏⚔@ScorchSword
+00:41
+1405/02/11
+
+
+
+
+src :@rnintel
+‏🇱🇧🇵🇸🇮🇱⚡- "88% of Israelis believe that the Israeli army should resume military operations in Lebanon.
+‏
+‏77% Israelis support stopping the delivery of humanitarian aid to the Gaza Strip until Hamas disarms," - Israeli Channel 14.
+00:39
+1405/02/11
+
+
+
+
+src :@iran_jahan_darlahze
+‏🔴 #خبر_فوری امارات متحده عربی سفر شهروندان خود به ایران، لبنان و عراق را ممنوع کرده است، امارات همچنین از شهروندان خود که در حال حاضر در ایران هستند خواسته فوراً ایران ترک کنند و به خانه بازگردند. @iran_jahan_darlahze
+00:38
+1405/02/11
+
+
+
+
+src :@World_Newsly
+‏🔴 دونالد ترامپ، رئیس جمهوری آمریکا: برای علی الزیدی در تشکیل دولت عراقی جدید عاری از تروریسم آرزوی توفیق می‌کنیم. خواهان روابطی جدید، قوی و ثمربخش میان عراق و آمریکا هستیم و آرزومندیم علی الزیدی دولت جدید عراق را برای بنای آینده‌ای بهتر برای این کشور تشکیل دهد.
+‏
+‏✍🏻 Danger
+‏▪️@World_Newsly
+00:37
+1405/02/11
+
+
+
+
 src :@rnintel
 ‏🇮🇷🇦🇪🇮🇱⚡- Along with the Iron Dome defense system, Israel also rushed sophisticated laser-based air defenses to the UAE to fend off Iranian missiles and drones, the Financial Times reports.
 00:37
@@ -2094,20 +2137,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iranian Parliament Speaker Ghalibaf:
-‏If you build two walls, one from NYC to the West Coast and another from LA to the East Coast, the total length will be 7,755 km, which is still about 1,000 km short of Iran’s total borders. 
-‏
-‏Good luck blockading a country with those borders.
-‏
-‏P.S. For Pete Hegseth: 1 km = 0.62 mi
-22:39
-1405/02/10
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇷🏆🇺🇸 — FIFA President Confirms Iran Will Participate in 2026 World Cup with Matches in the USA
@@ -2132,20 +2161,6 @@ src :@Minas_Tirith2024
 ‏-محمد‌باقر قالیباف،رئیس مجلس شورای اسلامی
 ‏
 ‏@P_raetorio
-22:37
-1405/02/10
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇪🇸🇮🇱🇵🇸⚡️ — Spanish Prime Minister Pedro Sánchez:
-‏Israel is once again violating international law by assaulting a civilian flotilla in waters that do not belong to it.
-‏
-‏Our Government is doing everything necessary to protect and assist the detained Spaniards.
-‏
-‏But that is not enough. The EU must suspend the association agreement NOW and demand that Netanyahu comply with the law of our seas.
 22:37
 1405/02/10
 
@@ -2745,23 +2760,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 21:44
-1405/02/10
-
-
-
-
-src :@ScorchSword
-[عکس]
-‏⭕️ پزشکیان:
-‏
-‏جهان شاهد تحمل و مداراگری ایران بوده است.
-‏
-‏آنچه تحت عنوان محاصره دریایی انجام می‌شود، ادامه عملیات نظامی علیه ملتی است که به خاطر مقاومت و استقلال خود هزینه می‌پردازد. ادامه این رویکرد سرکوبگرانه غیرقابل تحمل است.
-‏
-‏✏️N vard
-‏
-‏⚔@ScorchSword
-21:43
 1405/02/10
 
 
@@ -4204,16 +4202,6 @@ src :@didarnews1
 
 
 
-src :@iran_jahan_darlahze
-‏🔴 #خبر_فوری
-‏ارتش اسرائیل خواستار تخلیه فوری 15 روستا در جنوب لبنان شد.
-‏@iran_jahan_darlahze
-16:20
-1405/02/10
-
-
-
-
 src :@rnintel
 [عکس]
 ‏A Lockheed C-130 of the Nigeren Air Force landed in Bamako earlier today 
@@ -4473,14 +4461,6 @@ src :@DEJradio
 ‏#ترامپ #اژه_ای #اعدام
 ‏@DEJradio
 14:30
-1405/02/10
-
-
-
-
-src :@rnintel
-‏🇮🇷⚡️- Mojtaba Khamenei will publish a message shortly, per Iranian medias.
-14:06
 1405/02/10
 
 
@@ -5160,12 +5140,4 @@ src :@rus_cosmos
 [عکس]
 ‏خبرگزاری تاس گزارش داد که پوتین در یک مکالمه تلفنی به ترامپ گفت که در صورت حمله مجدد آمریکا و اسرائیل به ایران، «عواقب بسیار بدی» را پیش‌بینی می‌کند و هرگونه عملیات زمینی یا تهاجم را «بسیار خطرناک و غیرقابل قبول» خواند.
 01:06
-1405/02/10
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇵🇸🇬🇷 — The Israeli Navy has begun intercepting a Gaza-bound flotilla currently located near the Greek island of Crete.  The crew has reportedly been ordered to kneel, communications have been jammed, an SOS has been sent, and drones are overhead.  @TheWarReporter
-00:40
 1405/02/10
