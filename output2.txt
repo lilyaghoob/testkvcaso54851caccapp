@@ -1,3 +1,11 @@
+src :@naya_foriraq
+‏🤔النفط  يستمر بالارتفاع ليصل سعر البرميل الواحد  إلى 124 دولار
+07:57
+1405/02/10
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 واکنش قالیباف به ادعای سه روز پیش ترامپ و وزیر خزانه‌داری آمریکا:
@@ -2018,14 +2026,6 @@ src :@iran_jahan_darlahze
 ‏ایران پاسخ خواهد داد.
 ‏@iran_jahan_darlahze
 00:15
-1405/02/10
-
-
-
-
-src :@naya_foriraq
-‏🏴‍☠️🇺🇸اعلام العدو: إسرائيل أبلغت البيت الأبيض أنه لا يمكن مواصلة شن هجمات محدودة ضد حزب الله بسبب قيود واشنطن وابلغتها أن خروقات حزب الله تقوض إمكانية إجراء مفاوضات والتوصل إلى تفاهمات وأن الوضع الحالي يؤدي إلى تآكل قوة الردع الإسرائيلية.
-00:09
 1405/02/10
 
 
@@ -4322,20 +4322,6 @@ src :@ircfspace
 
 
 
-src :@intelslava
-‏🇬🇧🇺🇸🇺🇦🇷🇺The Middle East is engulfed in ongoing conflicts
-‏
-‏US troops surge in the region, Iran strikes back, and Israeli airstrikes continue nonstop  tensions keep escalating sharply.
-‏
-‏Traditional safe-haven assets have lost effectiveness entirely, and global capital is pouring into the crypto market.We provide in-depth Middle East situation analysis, real-time market forecasts, and accurate Bitcoin entry & exit signals every day.Join us to discuss ideas and seize market opportunities together
-‏
-‏https://chat.whatsapp.com/ELhs11lKeaL18cnYEeHsaA
-17:45
-1405/02/09
-
-
-
-
 src :@ircfspace
 [عکس]
 ‏تو نسخه جدید CFScanner، دامنه‌ها آپدیت شدن و هسته ایکس‌ری به نسخه جدید ارتقا پیدا کرده. یه قابلیت هم اضافه شده که می‌تونی خودت دامنه‌ای که برای Fronting می‌خوای رو انتخاب کنی. همینطور پشتیبانی از Xray توی اسکریپت bash اضافه شده و نسخه Xray تو بخش پایتون بروز شده، تا همه‌چی هماهنگ‌تر و روون‌تر کار کنه.
@@ -5142,6 +5128,16 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 10:03
+1405/02/09
+
+
+
+
+src :@intelslava
+‏🇺🇸🇨🇺The US Senate, led by Republicans, blocked the Democrats' attempt to prevent Trump from taking military action against Cuba without Congress's approval.
+‏
+‏@Intelslava
+10:02
 1405/02/09
 
 
