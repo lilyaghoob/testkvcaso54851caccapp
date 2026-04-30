@@ -1,3 +1,17 @@
+src :@rnintel
+[عکس]
+‏🇲🇱⚡️- Bamako's blockade has been confirmed to be in effect in numerous access points around the capital.
+‏
+‏Per the map released by Le Monde, nearly half the capital's entry national roads are blocked.
+‏
+‏In green, the roads with no reported blockades.
+‏In red, the roads with reported and confirmed blockades by the JNIM.
+10:15
+1405/02/10
+
+
+
+
 src :@Military_Times_Blog
 ‏امروز آدمیرال برد کوپر برای توجیح ترامپ درباره وضعیت منطقه خاورمیانه و ارائه سه راهکار در رابطه با جمهوری اسلامی به غیر از اهرم محاصره دریایی جمهوری اسلامی در اطاق وضعیت کاخ سفید حاضر میشود. 
 ‏
@@ -3469,14 +3483,6 @@ src :@VahidOnline
 
 
 
-src :@rnintel
-‏🇺🇸🇷🇺⚡️- President Trump and Vladimir Putin spoke on the phone earlier today.
-21:21
-1405/02/09
-
-
-
-
 src :@Military_Times_Blog
 ‏ترامپ طرح پیشنهادی جمهوری اسلامی را در رابطه با بازگشایی تنگه هرمز رد کرد و آنرا مشروط به توافق هسته‌ای کرد. 
 ‏
@@ -4996,14 +5002,4 @@ src :@Minas_Tirith2024
 ‏
 ‏@SNTankograd
 11:10
-1405/02/09
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇱🇧 - The IDF has decided to deploy various types of radars on a wide scale inside Lebanon.
-‏
-‏- Israeli Army Radio | @TheWarReporter
-10:13
 1405/02/09
