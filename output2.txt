@@ -1,3 +1,25 @@
+src :@WAR_ROOM_NEWS
+‏درود و صبح شما بخیر 🌹
+08:05
+1405/02/10
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 دریادار ایرانی: به‌زودی از سلاح وحشتناکی علیه دشمن رونمایی می‌کنیم
+‏
+‏💢فرمانده نیروی دریایی ارتش: ان‌شاءالله در همین روزهای بسیار نزدیک، این توانمندی‌ها در عرصه دریا به نمایش گذاشته خواهد شد و دشمنان همان‌جا «آن سلاحی را که خیلی از آن وحشت دارند» در بیخ گوش خود مشاهده خواهند کرد؛ فقط امیدوارم سکته نکنند.
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+08:03
+1405/02/10
+
+
+
+
 src :@intelslava
 [عکس]
 07:59
@@ -1568,36 +1590,9 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇩🇪 U.S. President Trump:
-‏
-‏The United States is studying and reviewing the possible reduction of Troops in Germany, with a determination to be made over the next short period of time. Thank you for your attention to this matter! President DONALD J. TRUMP
-‏
-‏@wfwitness
-01:20
-1405/02/10
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇱🇧⚡️ — President Trump told Axios that he likes Lebanon and its leadership and thinks the country can "make a comeback."
-01:19
-1405/02/10
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇨🇺🇨🇳Bloomberg: Chinese hackers hacked into Cuba’s Embassy in Washington to spy on communications. 
-‏
-‏Cyber security firm Gambit Security reports that the campaign began back in January and compromised the emails of 68 Cuban officials. 
-‏
-‏The hackers were able to download the entire inboxes of diplomatic and intelligence personnel by exploiting two five-year-old vulnerabilities in outdated Microsoft Exchange email servers.
-‏
-‏@wfwitness
 01:19
 1405/02/10
 
@@ -1695,17 +1690,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇪🇨🇨🇴 Ecuador’s President Daniel Noboa said Colombian guerrillas carried out a cross-border incursion into northern Ecuador, blaming Colombia’s government and vowing to protect the country’s borders and population.
-‏
-‏@wfwitness
-01:06
-1405/02/10
-
-
-
-
 src :@naya_foriraq
 ‏المقاومة الاسلامية رجال البأس الشديد – رجال البأس
 01:06
@@ -1761,14 +1745,6 @@ src :@Minas_Tirith2024
 src :@iran_jahan_darlahze
 ‏🔴 #خبر_فوری گزارش ها از فعال شدن سامانه های پدافند هوایی در سفارت آمریکا در بغداد. @iran_jahan_darlahze
 01:04
-1405/02/10
-
-
-
-
-src :@wfwitness
-‏⚡️🇦🇪UAE Energy Minister Al Mazroui reassured that the UAE will not shock the oil market by drastically increasing production.   "And one of the questions that I did put to the minister here is once things normalize on the Straits, can we expect a huge uptick…
-01:02
 1405/02/10
 
 
