@@ -1,3 +1,43 @@
+src :@tglobaleye
+[عکس]
+‏Pakistan opened 6 land transport routes for overland trade with neighboring Iran, a move that somewhat undermines the effectiveness of the blockade and provides Tehran with a limited lifeline. 
+‏
+‏However, the overall impact remains limited, as more than 90% of Iran’s exports - primarily oil and petroleum products - are transported by sea. The newly opened land crossings are not used for oil shipments. 
+‏
+‏Considering the fact that Pakistan is acting as a mediator between the United States and Iran while maintaining good relations with the current U.S. administration, this suggests that the move was likely made with Washington’s awareness.
+13:37
+1405/02/10
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻سایت کنفدراسیون فوتبال آسیا گزارش داد که با تصویب سازوکار جدید لیگ نخبگان آسیا، سهمیه فوتبال ایران در این رقابت‌ها افزایش یافته است. در چارچوب این تغییرات، دو تیم از ایران در لیگ نخبگان آسیا حضور خواهند داشت و یک تیم دیگر نیز در مرحله گروهی لیگ قهرمانان آسیا ۲ شرکت می‌کند.
+‏
+‏🔹این تصمیم در نشست کمیته اجرایی AFC در ونکوور و در چارچوب بررسی مسائل تجاری و اقتصادی اتخاذ شد.
+‏
+‏🔹بر اساس آیین‌نامه جدید، در فصل آینده لیگ نخبگان آسیا ۳۲ تیم حضور خواهند داشت که به‌صورت جداگانه در دو منطقه غرب و شرق (هر کدام ۱۶ تیم) رقابت می‌کنند. در مرحله نخست، هر تیم چهار بازی خانگی و چهار دیدار خارج از خانه برگزار می‌کند و با تیمی از کشور خود روبه‌رو نمی‌شود.
+‏
+‏🔹طبق این ساختار، از میان ۱۶ تیم هر منطقه، هشت تیم برتر به مرحله یک‌هشتم نهایی صعود می‌کنند. در این مرحله، تیم‌های اول و دوم جدول به‌ترتیب با تیم‌های هشتم و هفتم دیدار خواهند کرد و تیم‌های سوم و چهارم نیز به مصاف تیم‌های ششم و پنجم می‌روند.
+‏
+‏🔹پیشتر سهمیه فوتبال ایران در لیگ نخبگان آسیا ۱+۱ بود و یک تیم راهی لیگ قهرمانان آسیا ۲ می‌شد.
+‏
+‏@iranintltvsport
+13:32
+1405/02/10
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷الرئيس الايراني مسعود بزشكيان: في حرب رمضان رأينا أن وجود القواعد العسكرية الأمريكية لم يكن مصدر أمان للدول المضيفة فحسب، بل عرض سلامتها وأمنها للخطر، مما أتاح لنا استهداف مصادر الهجوم على أرضنا كأهداف مشروعة.
+13:32
+1405/02/10
+
+
+
+
 src :@World_Newsly
 ‏🔴 کانال ۱۴
 ‏قیمت نفت به تازگی به ۱۲۰ دلار رسید و ممکن است تا ۱۵۰ دلار افزایش یابد زیرا آمریکا  ممکن است دوباره جنگ را از سر بگیرد
@@ -2145,16 +2185,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار بامدادی | پنجشنبه ۱۰ اردیبهشت
-‏@iranintlTV
-09:34
-1405/02/10
-
-
-
-
 src :@rnintel
 ‏🛢⚡️- Despite oil prices skyrocketing since the war in Iran, TotalEnergies recorded a 50% increase in benefits in Q1 2026 thanks to repeated accurate speculations on the oil market.
 09:26
@@ -3020,14 +3050,6 @@ src :@ScorchSword
 ‏✏️N vard
 ‏
 ‏⚔@ScorchSword
-03:17
-1405/02/10
-
-
-
-
-src :@naya_foriraq
-‏‏وول ستريت جورنال: بعد فشل اميركا بفتح مضيق هرمز واستمرار ارتفاع السريع لاسعار النفط عالميا واشنطن تقترح  تحالفا جديدا لإعادة حركة السفن في مضيق هرمز.
 03:17
 1405/02/10
 
@@ -4170,25 +4192,6 @@ src :@tglobaleye
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇷🇺 🇺🇸 — Kremlin:
-‏
-‏Putin held a phone call with Trump that lasted more than 1.5 hours. 
-‏
-‏Putin told Trump he is ready to declare a ceasefire during the Victory Day period, and Trump supported it.
-‏
-‏Putin told Trump that he foresees extremely damaging consequences if the United States and Israel resort to military actions again in the Middle East.
-‏
-‏Trump told Putin that a deal to resolve the conflict in Ukraine is already close.
-‏
-‏The Global Eye | Subscribe
-20:57
-1405/02/09
-
-
-
-
 src :@cataphract1
 ‏⚜به گزارش کانال ۱۲ اسرائیل ترامپ گفته است از نتانیاهو خواستم در لبنان با احتیاط بیشتری عمل کند و از تخریب ساختمان‌ها خودداری کند، زیرا به وجهه اسرائیل آسیب می‌رساند.
 ‏من عاشق لبنان و رهبری آن هستم، اما مشکل حزب‌الله است.
@@ -4977,17 +4980,4 @@ src :@MilitiaNews
 src :@warmonitors
 ‏⚡️ Iran's national rial currency hits record low of 1.8 million to $1 as shaky ceasefire with US and Israel still holds
 13:50
-1405/02/09
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇦🇿🇦🇲 — An Azerbaijan Airlines aircraft landed today at Zvartnots International Airport in Yerevan.
-‏
-‏The plane was reportedly carrying an Azerbaijani delegation led by Deputy PM Shahin Mustafayev.
-‏
-‏@TheWarReporter
-13:33
 1405/02/09
