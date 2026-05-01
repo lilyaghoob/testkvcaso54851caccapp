@@ -1,3 +1,16 @@
+src :@Indypersian
+[عکس]
+‏♦️به گزارش ان‌بی‌سی نیوز، یک مقام آمریکایی و دو منبع آگاه دیگر می‌گویند دونالد ترامپ، رئیس‌جمهوری ایالات متحده، انتظار می‌رود در روزهای آینده درباره مسیر اقدامات در قبال ایران تصمیم‌گیری کند.
+‏این گزارش می‌افزاید در حالی که آتش‌بس میان ایران و آمریکا ادامه دارد، مقام‌های آمریکایی گفتند جمهوری اسلامی تلاش‌ها برای خارج کردن موشک‌ها و مهمات از زیرزمین و مناطق آسیب‌دیده را افزایش داده است.
+‏بر اساس این گزارش، واشنگتن معتقد است تهران در تلاش است توان پهپادی و موشکی خود را بازسازی کند تا در صورت ازسرگیری عملیات نظامی، امکان حمله در منطقه را داشته باشد.
+‏
+‏@indypersian
+04:49
+1405/02/11
+
+
+
+
 src :@World_Newsly
 ‏🔴 مقامات آمریکایی می‌گویند جنگ با ایران احتمالاً هزینه‌ای نزدیک به ۵۰ میلیارد دلار داشته است؛ حدود دو برابر ۲۵ میلیارد دلاری که پنتاگون به‌طور عمومی اعلام کرده است. رقم پایین‌تر هزینه‌های بزرگ مانند تجهیزات تخریب‌شده و پایگاه‌های آسیب‌دیده را شامل نمی‌شد. بخش بزرگی از هزینه اضافی ناشی از جایگزینی مهمات و دارایی‌های از دست رفته، از جمله ده‌ها پهپاد MQ-9 ریپر است. منبع: سی‌بی‌اس نیوز
 ‏
@@ -1105,17 +1118,6 @@ src :@P_raetorio
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇦🇪🇮🇷⚡️ — Israel quietly supplied the UAE with a compact drone-detection system known as “Spectro” during the Iran war in an effort to boost early-warning capabilities, FT reports.
-‏
-‏➡️ The assistance also included the deployment of advanced air defense systems such as Iron Beam and Iron Dome, along with Israeli personnel and real-time intelligence sharing, enabling detection of incoming drones from distances of around 20 kilometers.
-00:21
-1405/02/11
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏🇷🇺🛢⚡️—  OilX: Russian oil refining fell to 4.6 million bpd in a week.
@@ -1146,15 +1148,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 00:18
-1405/02/11
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — A White House official told the Washington Examiner that the administration is in “active conversations” with Congress about potentially seeking authorization for the Iran war.
-00:16
 1405/02/11
 
 
