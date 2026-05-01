@@ -1,3 +1,60 @@
+src :@MilitarryWorld
+‏⭕️خوش چشم کارشناس سیاسی ارشد صدا‌و‌سیما:
+‏
+‏با مهندسی معکوس و هوش مصنوعی میتونیم موشکهای تاماهاوک بهتر از خود آمریکایی ها بسازیم
+‏
+‏@MilitarryWorld | Parsa
+15:31
+1405/02/11
+
+
+
+
+src :@Mena_Live
+‏There is effectively no ceasefire in southern Lebanon anymore. Israeli forces continue large-scale demolition operations, while exchanges between Israel and Hezbollah persist with daily fighter jet strikes, drone attacks, and artillery fire. Civilians are still being killed daily by Israeli fire.
+‏
+‏@Mena_Live
+15:30
+1405/02/11
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli drone activity detected over Beirut and Dahieh at a high altitude.
+‏
+‏@wfwitness
+15:30
+1405/02/11
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli airstrike on the outskirts of the town of Ghandourieh, southern Lebanon.
+‏
+‏@wfwitness
+15:29
+1405/02/11
+
+
+
+
+src :@World_Newsly
+‏🔴 پسر کو ندارد نشان از پدر
+‏
+‏📌مجتبی نیز مثل پدر، حال که بین دو جهان گیر کرده، توهم‌هایی دارد و به‌گفته پسر دایی‌اش، خواب خلافت علوی می‌بیند
+‏
+‏♦️در بین چهار پسر سیدعلی خامنه‌ای، مصطفی از همان ابتدا راه‌ورسمی جدا از پدر و برادرانش داشت و می‌گویند سخت مجذوب پدربزرگش میرزاجواد بود. لباده پوشید و به قم رفت تا میراث اجدادی حفظ کند و اوقات گرانبهای زندگی را با مباحث حوزوی تلف کند.
+‏
+‏✍🏻 King
+‏▪️@World_Newsly
+15:27
+1405/02/11
+
+
+
+
 src :@IRRadar
 ‏🔴 اختلال سراسری در هاست‌های سی‌پنل ایران  از شب گذشته، بسیاری از هاستینگ‌های داخلی مبتنی بر سی‌پنل (cPanel) دچار اختلال شده و از دسترس خارج شده‌اند؛ موضوعی که باعث قطعی گسترده وب‌سایت‌های داخلی شده است.  این اختلال به‌صورت هم‌زمان در چندین ارائه‌دهنده گزارش…
 15:26
@@ -480,19 +537,6 @@ src :@P_raetorio
 ‏لشکر 98 ارتش اسرائیل تصاویری از تسلیحات و راکت‌انداز(درون خانه!) بتازگی کشف شده در شهر بنت جبیل منتشر کرد.
 ‏
 ‏@P_raetorio
-14:57
-1405/02/11
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇹🇷🇪🇬🇸🇦🇶🇦 Iranian Foreign Minister Abbas Araghchi held phone calls this morning with his counterparts from Turkey, Egypt, Qatar, Saudi Arabia, Iraq and Azerbaijan. 
-‏
-‏He briefed them on Tehran’s latest positions and initiatives regarding the end of the war and the US‑Israeli aggression.
-‏
-‏@wfwitness
 14:57
 1405/02/11
 
@@ -1521,21 +1565,6 @@ src :@IRRadar
 ‏✍ پ.ن: در شرایط فعلی اینترنت، بسیاری از آنلاین‌شاپ‌هایی که از اینستاگرام به سایت‌های شخصی مهاجرت کرده بودند، مجدداً با اختلال و توقف فعالیت مواجه شده‌اند.
 ‏
 ‏📡 @IRRadar
-13:05
-1405/02/11
-
-
-
-
-src :@World_Newsly
-‏🔴ادعای کانال ۱۲ اسرائیل: 
-‏
-‏💢مقامات اسرائیلی دارن خودشون رو برای این احتمال آماده میکنن که مذاکرات ایران و آمریکا همین اوایل هفته آینده شکست بخورد.
-‏
-‏💢وزرای کابینه که در جریان امور هستن، ارزیابی میکنن که ممکنه آمریکا لازم باشه با حملات نظامی به تاسیسات گاز، انرژی و زیرساخت‌های دولتی ایران، یه هولِ اساسی به کارزار فشار خودش در تنگه هرمز بده.
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
 13:05
 1405/02/11
 
@@ -3281,27 +3310,6 @@ src :@mwarmonitor
 
 
 
-src :@intelslava
-‏🇮🇷🇺🇸❗️Something is concerning. Trump today had a meeting with Pentagon Officials and Hegseth regarding Iran's Epic Fury operation. We can't predict the specific time of resuming the strike, but the war is inevitable. The probability is increased this weekend.
-‏
-‏@IntelSlava
-01:00
-1405/02/11
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇮🇷❗️Real-time: Iranian skies are emptying.
-‏
-‏@IntelSlava
-00:56
-1405/02/11
-
-
-
-
 src :@naya_foriraq
 ‏انفجار عنيف ونيران كبيرة داخل مقر تابع للمعارضة الكردية الإرهابية في قضاء كويا بمحافظة أربيل بعد دكه بمسيرات انتحارية
 00:56
@@ -3463,16 +3471,6 @@ src :@tglobaleye
 ‏Overall, from April 1 to 22, the average utilization rate at Russian refineries was just over 4.7 million bpd, 630,000 bpd lower than the levels recorded throughout most of March.
 ‏
 ‏🇪🇺 Legion Europa | Group Chat 🇪🇺
-00:19
-1405/02/11
-
-
-
-
-src :@MilitarryWorld
-‏🚨مجلس سنای آمریکا پیش‌نویس قطعنامه‌ای درباره توقف عملیات نظامی علیه ایران را رد کرد.
-‏
-‏@MilitarryWorld | Parsa
 00:19
 1405/02/11
 
@@ -3646,27 +3644,9 @@ src :@iran_jahan_darlahze
 
 
 
-src :@intelslava
-‏🇮🇷❗️CONFIRMED: Iranian drone attack targets the Democratic Party of Iranian Kurdistan camp near Kuysinjaq.
-‏
-‏@IntelSlava
-23:47
-1405/02/10
-
-
-
-
 src :@iran_jahan_darlahze
 ‏🔴 #خبر_فوری صدای فعالیت توپ های ضد هوایی در نقاط مختلف تهران در حال شنیده شدن است. @iran_jahan_darlahze
 23:46
-1405/02/10
-
-
-
-
-src :@intelslava
-‏🇮🇱🇮🇷❗️Possible use of Iraqi airspace for standoff strikes against Iran by the Israeli Air Forces  Still not confirmed.  @IntelSlava
-23:45
 1405/02/10
 
 
@@ -4895,16 +4875,4 @@ src :@rus_cosmos
 ‏
 ‏بنابراین، سرمایه‌گذاری روی موشک‌های بالستیک برای ایران اشتباه کامل نبود، چون برای بازدارندگی و پاسخ دوربرد مفید است؛ اما تضعیف یا کنار گذاشتن جدیِ برنامه توسعه جنگنده‌های مدرن باعث شد ایران از نظر حمله دقیق، کنترل آسمان، دفاع هوایی فعال و قدرت راهبردی انعطاف‌پذیرتر عقب بماند.
 15:35
-1405/02/10
-
-
-
-
-src :@rus_cosmos
-‏اکسیوس:
-‏
-‏ترامپ قرار است امروز توسط فرمانده سنتکام، در مورد گزینه‌های احتمالی نظامی جدید علیه ایران مطلع بشود.
-‏
-‏این طرح‌ها شامل یک کمپین حمله کوتاه و شدید و احتمال استفاده از نیروی زمینی برای کنترل تنگه هرمز برای بازگرداندن حمل‌و‌نقل دریایی و حتی یک مأموریت نیروهای ویژه با هدف بدست آوردن اورانیوم غنی شده است.
-15:30
 1405/02/10
