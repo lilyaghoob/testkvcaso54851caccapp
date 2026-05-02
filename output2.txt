@@ -1,3 +1,38 @@
+src :@mwarmonitor
+‏🚨 «خبر فوری: در آوریل ۲۰۲۶، کویت برای نخستین بار از پایان جنگ خلیج فارس اول تاکنون، هیچ بشکه‌ای نفت خام صادر نکرد.»
+‏
+‏@mwarmonitor
+20:10
+1405/02/12
+
+
+
+
+src :@tabzlive
+[عکس]
+‏📣 We’re looking for new admins to join our team. 
+‏
+‏At the moment we need people who can help cover the news throughout the day to improve the consistency and quality of the channel.
+‏
+‏DM us via channel DMs or the support bot!
+20:10
+1405/02/12
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 امارات متحده عربی پس از لغو محدودیت‌های ناشی از درگیری در خاورمیانه، حریم هوایی خود را به طور کامل بازگشایی کرد
+‏
+‏✍🏻 Victor
+‏▪️@World_Newsly
+20:10
+1405/02/12
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 شرکت ملی پخش فرآورده‌های نفتی ایران: شهروندان حتماً کارت سوخت شخصی خود را به همراه داشته باشند؛ کارت‌های سوخت جایگاه‌ها برای شرایط اضطراری در نظر گرفته شده‌اند!
@@ -2048,16 +2083,6 @@ src :@tglobaleye
 
 
 
-src :@mwarmonitor
-‏🔴 وزارت امور خارجه جمهوری اسلامی ایران عباس عراقچی در تماس تلفنی با همتای خود در کره جنوبی درباره ابتکارات برای پایان دادن به جنگ آمریکا و اسرائیل گفت‌وگو کرده است.
-‏
-‏@mwarmonitor
-16:03
-1405/02/12
-
-
-
-
 src :@Indypersian
 ‏⭕️ جنگ، تورم و قطع اینترنت؛ سه ضربه به کالاهای فرهنگی و صنایع دستی ایران
 ‏
@@ -3349,19 +3374,6 @@ src :@KayhanLondonChannel
 
 src :@BellumActaNews
 [عکس]
-‏🇺🇸🇩🇪🇮🇷 — The Pentagon plans to withdraw 5,000 American troops from Germany.
-‏
-‏The withdrawal is linked to President Trump's dissatisfaction with the level of NATO support in the war against Iran.
-‏
-‏— CBS News | @TheWarReporter
-11:57
-1405/02/12
-
-
-
-
-src :@BellumActaNews
-[عکس]
 ‏🇮🇱🇮🇷 — Iran has executed two individuals accused of spying for the Israeli intelligence service Mossad.
 ‏
 ‏The individuals reportedly gathered sensitive information on key sites and figures, including areas near Natanz — home to Iran's nuclear facilities — and passed it to Mossad officers.
@@ -4045,27 +4057,6 @@ src :@ircfspace
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇺🇸🇮🇱🇵🇸❗️🇺🇸 — The Board of Peace has denied reports that the Civil-Military Coordination Center (CMCC) was set to be closed down.
-‏
-‏🇺🇸 Full statement:
-‏
-‏Any claim that the CMCC is closing is wrong. The CMCC is advancing its efforts every day to continue delivering aid at a level unprecedented in modern history:
-‏
-‏- Food aid is reaching 3x more people than before
-‏-Aid diversion has dwindled from 90% to less than 1%
-‏- According to the United Nations, nutrition has improved dramatically
-‏
-‏The CMCC also has played a critical role in advancing security. The ceasefire has continued to hold despite all the predictions from so-called experts. We now have a pathway to the establishment of a transitional  government in Gaza and the International Stabilization Force. Quite simply, life for the people of Gaza gets better on a daily basis. The CMCC has been an essential part of this story and will continue to be mission critical to our efforts.
-‏
-‏📱 Board of Peace
-08:25
-1405/02/12
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏درود و صبح همراهان عزیز بخیر
@@ -4082,23 +4073,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 07:30
-1405/02/12
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇶🇦🇰🇼🇮🇱🇦🇪⚡️ — The U.S. State Department has bypassed congressional review to approve military ‌sales for more than $8.6 billion to Middle Eastern allies:
-‏
-‏— Qatar: $4.01 billion (Patriot air and missile defense replenishment services) + $992.4 million (APKWS)
-‏
-‏— Kuwait: $2.5 billion (integrated battle command system)
-‏
-‏— Israel: $992.4 million (APKWS)
-‏
-‏— UAE: $147.6 million (APKWS)
-07:24
 1405/02/12
 
 
@@ -5227,22 +5201,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 20:16
-1405/02/11
-
-
-
-
-src :@KayhanLondonChannel
-‏برگزاری نشست «همبستگی اقوام در دوران سلسله پهلوی» در لندن
-‏
-‏«کانون فرهنگی پارس» در لندن روز شنبه پنجم اردیبهشت ۱۴۰۵ برابر با ۲۵ آوریل ۲۰۲۶ نشستی با عنوان «همبستگی اقوام ایران در دوران سلسله پهلوی» و به مناسبت صدمین سالگرد تأسیس پادشاهی پهلوی برگزار کرد.
-‏
-‏در این نشست دکتر فرهنگ مهیمی طی سخنانی با یادی از جاویدنامان انقلاب ملی شیرو خورشید، درباره پایبندی رضاشاه پهلوی به اصل تمامیت ارضی ایران و از سه دوره زندگی اقوام و پیروان مختلف در دوران باستان، دوران اسلام و دوران معاصر توضیح داد.
-‏
-‏دکتر فرهنگ مهیمی تأکید کرد در زمان هجوم بیگانگان و تلاش برای جداسازی سرزمینی در دوران مشروطه، طوایف ایرانی شرق، غرب، شمال و جنوب در کنار ارتش شاهنشاهی، چه نقشی در حفاظت از مرزهای ایران داشتند.
-‏
-‏احمدوحدت‌خواه و دکتر نامدار بقایی یزدی از دیگر سخنرانان این نشست بودند. در بخشی این نشست مستند آموزشی ادیان  مربوط به زندگی ایرانیان یهودی در قبل و بعد از انقلاب ۵۷ به نمایش درآمد.
-‏
-‏https://kayhan.london/1405/02/11/401413/
-20:07
 1405/02/11
