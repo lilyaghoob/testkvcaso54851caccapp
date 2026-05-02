@@ -1,3 +1,42 @@
+src :@ClashReport
+[عکس]
+‏Zelensky is increasingly preparing for a future with less U.S. support.
+‏
+‏After spending much of the past year trying to win over Trump, he is now shifting strategy—looking to partners like Türkiye for negotiations and relying more on Europe.
+‏
+‏Source: POLITICO
+12:05
+1405/02/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏نت‌بلاکس اعلام کرد قطع گسترده اینترنت در ایران وارد دهمین هفته شده و ۶۴ روز است که این کشور تقریبا به‌طور کامل از شبکه‌های بین‌المللی جدا مانده است.
+‏
+‏نت‌بلاکس با اشاره به گزارش‌ها درباره کشته شدن حسام علاءالدین به دلیل استفاده از استارلینک نوشت: «این اختلال سراسری همزمان با تشدید برخورد حکومت با استفاده از وی‌پی‌ان‌ها و پایانه‌های اینترنت ماهواره‌ای ادامه داشته است.»
+‏https://iranintl.com/202605027471
+12:03
+1405/02/12
+
+
+
+
+src :@didarnews1
+‏🔴شبکه CBS آمریکا: تا وقتی تنگه هرمز بسته است، قیمت بنزین کاهش نخواهد یافت
+‏
+‏🔹 حتی با احتمال کاهش تنش‌ها، بازگشت به شرایط عادی زمان‌بر خواهد بود. تحلیلگران هشدار می‌دهند که تا زمانی که جریان عبور نفت در تنگه به حالت پایدار برنگردد، مصرف‌کنندگان نباید انتظار کاهش قیمت بنزین را داشته باشند.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+12:03
+1405/02/12
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️وزیر دفاع آلمان به عقب‌نشینی نیروهای آمریکایی از کشور اشاره کرد: «اروپایی‌ها باید مسئولیت امنیت خود را بر عهده بگیرند. انتظار می‌رفت که آمریکا نیروهایش را از اروپا عقب بکشد»
 ‏
@@ -1467,18 +1506,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@IranintlTV
-[عکس]
-‏حساب ایکس سنتکام، فرماندهی مرکزی ایالات متحده، با انتشار تصاویری نوشت: «ملوانان نیروی دریایی ایالات متحده در حال انجام تعمیر و نگهداری‌های دوره‌ای بر روی بالگردهای «ام‌اچ-۶۰ سی‌هاوک» در عرشه ناو هواپیمابر «آبراهام لینکلن» (سی‌وی‌ان ۷۲) هستند.»
-‏
-‏سنتکام توضیح داد: «بالگرد «ام‌اچ-۶۰»، بالگرد اصلی ناونشین نیروی دریایی آمریکا به شمار می‌رود و از ناوشکن‌ها، شناورهای آبی‌خاکی و ناوهای هواپیمابر در منطقه به انجام عملیات می‌پردازد.»
-‏https://iranintl.com/202605023806
-09:04
-1405/02/12
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏درود خدمت همراهان عزیز
@@ -1741,17 +1768,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 07:51
-1405/02/12
-
-
-
-
-src :@World_Newsly
-‏🔴 سفارت ایالات متحده در لندن آمریکاییان مقیم بریتانیا را پس از ارتقای سطح تهدید تروریستی بریتانیا به «شدید» (دومین سطح بالاتر) به هوشیاری فراخواند.
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-07:45
 1405/02/12
 
 
@@ -2120,19 +2136,6 @@ src :@naya_foriraq
 src :@rnintel
 ‏🇺🇸🇶🇦⚡️- The U.S. approves a 4B$ sale of Patriot missiles to Qatar.
 02:40
-1405/02/12
-
-
-
-
-src :@ClashReport
-‏NEW: The U.S. State Department approved over $8.6 billion in military sales to Middle Eastern allies:
-‏
-‏Qatar: $4.01 B (Patriot defense) + $992 M (APKWS)
-‏Kuwait: $2.5 B (battle command system)
-‏Israel: $992 M (APKWS)
-‏UAE: $147 M (APKWS)
-02:34
 1405/02/12
 
 
@@ -5015,25 +5018,4 @@ src :@IRRadar
 ‏
 ‏📡 @IRRadar
 12:12
-1405/02/11
-
-
-
-
-src :@tglobaleye
-‏#BREAKING | 🏴 🇲🇱 — JNIM (Jama'at Nusrat al-Islam wal-Muslimin) urges Malians to join their side to "overthrow the terrorist junta."
-‏
-‏The Global Eye | Subscribe
-12:06
-1405/02/11
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇺🇸 — House passes DHS funding bill to end a record-breaking partial shutdown for most of the agency (including Secret Service and TSA).  
-‏ 
-‏The Global Eye | Subscribe
-12:01
 1405/02/11
