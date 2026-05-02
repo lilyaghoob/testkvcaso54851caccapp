@@ -1,5 +1,17 @@
 src :@World_Newsly
 [عکس]
+‏🔴 ناو هواپیمابر آبراهام لینکلن در ۱۵۰ مایلی بندر چابهار 
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+01:47
+1405/02/13
+
+
+
+
+src :@World_Newsly
+[عکس]
 ‏🔴 نفتکش «ویگور» با عبور از محاصره دریایی آمریکا، هم‌اکنون مشغول بارگیری نفت خام ایران است
 ‏
 ‏🔹 این کشتی در حالی محموله خود را بار می‌زند که تنگه هرمز تحت محاصره شدید نیروهای آمریکایی قرار دارد.
@@ -771,19 +783,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-00:27
-1405/02/13
-
-
-
-
-src :@World_Newsly
-‏🔴 صادرات نفت کویت به صفر رسید
-‏
-‏🔹 تانکر ترکرز نوشت: در طول آوریل ۲۰۲۶ برای نخستین بار پس از پایان جنگ اول خلیج فارس، صادرات نفت خام کویت به صفر رسید.
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
 00:27
 1405/02/13
 
@@ -4999,26 +4998,4 @@ src :@rnintel
 ‏- Modibo Koné, head of the Malian Intelligence services, is confirmed to have been wounded and is incapacitated at home.
 ‏- The Russians are preparing to retreat all their leftover forces from the Kidal region.
 02:00
-1405/02/12
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇮🇷 US military says Iranian hackers are sending American personnel threatening text messages.
-‏
-‏@BRICSNews
-01:50
-1405/02/12
-
-
-
-
-src :@MilitiaNews
-‏⚡️🇺🇸🇩🇪🇮🇷 ایالات متحده به دلیل اختلاف بر سر جنگ ایران، ۵۰۰۰ سرباز خود را از آلمان، متحد ناتو، خارج می‌کند. یک مقام پنتاگون لفاظی‌های آلمان را نامناسب و بی‌فایده توصیف کرد.
-‏
-‏- لامحمد لامکه
-‏@MilitiaNews | میلیشا را دنبال کنید
-01:48
 1405/02/12
