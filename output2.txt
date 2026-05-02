@@ -1,3 +1,14 @@
+src :@World_Newsly
+‏🔴 اولین واکنش وزیر صمت به گران شدن خودرو: از افزایش جهشی و بدون دلیل قیمت خودرو خودداری کنید
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+18:50
+1405/02/12
+
+
+
+
 src :@jangaavaran1390
 ‏نیروهای روسی روز جمعه و شب گذشته مجموعه‌ای از حملات پهپادی گسترده را در سراسر اوکراین انجام دادند که باعث تلفات غیرنظامیان و خسارات گسترده به زیرساخت‌ها در مناطق مختلف شد. بین ساعت ۸ صبح تا ۱۵:۳۰، در مجموع ۴۰۹ پهپاد تهاجمی به پرواز درآمدند که پدافند هوایی اوکراین مدعی این است که  ۳۸۸ فروند از آنها را سرنگون کرده. با این حال، ۱۶ پهپاد به اهدافی در شش مکان حمله کردند و گزارش شد که بقایای آنها در ۱۱ منطقه سقوط کرده است.
 18:45
@@ -1424,17 +1435,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-‏🔴 الجزیره: بیش از نیمی از کشتی‌های عبوری از تنگه هرمز، تحریم‌های آمریکا علیه ایران را نادیده گرفته‌اند!
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-16:10
-1405/02/12
-
-
-
-
 src :@Indypersian
 ‏⭕️ ایالات متحده با این سه روش می‌تواند جمهوری اسلامی را از پا دربیاورد
 ‏
@@ -2756,14 +2756,6 @@ src :@MilitarryWorld
 ‏⭕️رویترز: محاصره ایران احتمالا چندین ماه ادامه دارد
 ‏
 ‏@MilitarryWorld | Parsa
-13:05
-1405/02/12
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 A vehicle was just targeted in the town of Mafeidoun, southern Lebanon.  @wfwitness
 13:05
 1405/02/12
 
@@ -5228,19 +5220,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 19:03
-1405/02/11
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇮🇱🇸🇾 — An Israeli Air Force officer told The Jerusalem Post:
-‏
-‏"Syria is gradually rebuilding its military capabilities, including its radar and air defenses.
-‏
-‏The return of Syrian air defenses could have a significant strategic impact on Israel's security, depending on how far Syria goes and the state of relations between the two countries".
-‏
-‏@TheWarReporter
-18:48
 1405/02/11
