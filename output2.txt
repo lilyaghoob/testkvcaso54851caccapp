@@ -1,3 +1,49 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇷🇺 Russian President Putin orders scientists to develop "world's first" anti-aging vaccine.
+‏
+‏@BRICSNews
+00:40
+1405/02/13
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 شبکه ۱۲ عبری: مهمات آمریکا به اندازه "۶۵۰۰ تن" تو ۲۴ ساعت به اسرائیل رسید!
+‏
+‏✍🏻 Queen
+‏▪️@World_Newsly
+00:40
+1405/02/13
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴کانال ۱۳ اسرائیل: ترامپ پیشنهاد ایران رو مجدد رد کرد!
+‏
+‏✍🏻 Hector
+‏▪️@World_Newsly
+00:40
+1405/02/13
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇻🇪🇬🇫Venezuela has announced that they will attend the International Court of Justice’s hearing on the disputed Esquiboo region despite not recognizing the Court as having jurisdiction in the matter.
+‏
+‏@wfwitness
+00:38
+1405/02/13
+
+
+
+
 src :@naya_foriraq
 ‏دوي انفجار في مدينة بانياس السورية
 00:36
@@ -1179,16 +1225,6 @@ src :@jangaavaran1390
 
 
 
-src :@wfwitness
-‏⚡️🇸🇾🇮🇱 Intensive Israeli jet presence over Southern Syria.
-‏
-‏@wfwitness
-23:23
-1405/02/12
-
-
-
-
 src :@jangaavaran1390
 ‏واشنگتن به شرکای کلیدی از جمله بریتانیا، لهستان، استونی و لیتوانی اطلاع داده است که انتظار تأخیرهای قابل توجهی در تحویل سلاح‌های قبلاً خریداری شده را داشته باشند، زیرا موجودی‌ها به منظور حمایت از دور بعدی جنگ با ایران به سمت دیگری هدایت می‌شوند.
 23:21
@@ -1511,14 +1547,6 @@ src :@Parvazdaroj
 
 src :@tabzlive
 ‏🇮🇱❌🇱🇧 — Footage shows Israeli forces destroying the monastery and nuns’ school in the border village of Yaroun earlier today.
-22:52
-1405/02/12
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli airstrikes on Blat, southern Lebanon.  @wfwitness
 22:52
 1405/02/12
 
@@ -1861,18 +1889,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 22:24
-1405/02/12
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 ️سیتنا: خریداران آیفون و آیپد برای راه‌اندازی اولیه دستگاه و تایید اپل‌آیدی ناچارند از اینترنت‌های موسوم به «خط سفید» یا «اینترنت پرو» برخی از فروشندگان موبایل استفاده کنند و برای ۱۰ دقیقه اتصال، ۳۰۰ تا ۵۰۰ هزار تومان بپردازند.
-‏
-‏✍🏻 Master
-‏▪️@World_Newsly
-22:21
 1405/02/12
 
 
@@ -5154,13 +5170,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 00:49
-1405/02/12
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️Red alert in the north
-00:40
 1405/02/12
