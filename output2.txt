@@ -1,3 +1,44 @@
+src :@MilitarryWorld
+‏⭕️ایالات متحده یک پیش‌نویس اصلاح‌شده دیگر برای توافقنامه پایان جنگ را روز یکشنبه در پاسخ به آخرین پیشنهاد ایران ارسال کرد، طبق گزارش Axios و به نقل از منابع.
+‏
+‏@MilitarryWorld | Parsa
+01:32
+1405/02/14
+
+
+
+
+src :@tabzlive
+‏🇮🇷🇺🇸🇵🇰⚡️ — NEW: Iranian Foreign Ministry spokesperson Esmaeil Baqaei: The Americans have responded to Iran's 14-point plan through the Pakistani side, and we are reviewing it.
+01:31
+1405/02/14
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 Axios: The U.S. sent another revised draft on Sunday for an agreement with Iran to end the war, in response to Tehran’s latest proposal. 
+‏
+‏@wfwitness
+01:27
+1405/02/14
+
+
+
+
+src :@World_Newsly
+‏🔴 کانال ۱۲ اسرائیل به نقل از منابع مطلع:
+‏
+‏اسرائیل برای مقابله با چندین سناریوی احتمالی که ممکنه واشینگتن برای پاسخ به ایران به اون‌ها متوسل بشه، در حالت آماده‌باش کامل قرار داره
+‏
+‏✍🏻 Master
+‏▪️@World_Newsly
+01:27
+1405/02/14
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 دیلی میل: دبی روزانه ۵۰۰ میلیون پوند از جنگ علیه ایران ضرر می‌کند
@@ -1435,18 +1476,6 @@ src :@ClashReport
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 حجم دریاچه ارومیه رکورد 5 ساله را شکست
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-23:40
-1405/02/13
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- IRGC-affiliated outlets claim that there are “initial actions” ongoing to lift the naval blockade, likely referring to the US Navy’s blockade of Iranian ports.
 23:39
@@ -2082,20 +2111,6 @@ src :@IranintlTV
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷🇱🇧 The Iranian Embassy in Beirut announced that:
-‏
-‏Following the Lebanese government's decision to cancel the entry facilitation agreement between the two countries, the visa requirement system for Lebanese citizens has been reinstated.
-‏
-‏Visas can be facilitated via arrival at Iranian airports. 10€ for religious visit and 20€ for tourism.
-‏
-‏@wfwitness
-22:35
-1405/02/13
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Two U.S. Army soldiers are missing in southwestern Morocco after disappearing during the African Lion 2026 joint military exercise near the Cap Draa training area, close to Tan Tan. 
@@ -2329,7 +2344,7 @@ src :@selena_updates
 
 src :@tabzlive
 [عکس]
-‏🇩🇪🇺🇸⚡️ — German Chancellor Friedrich Merz to WELT on the U.S. troop withdrawal: It may be a bit exaggerated, but it’s nothing new.  But that doesn't change the fact that I remain convinced that the Americans are our most important partners in the North Atlantic…
+‏🇩🇪🇺🇸⚡️ — German Chancellor Friedrich Merz to ARD on the U.S. troop withdrawal: It may be a bit exaggerated, but it’s nothing new.  But that doesn't change the fact that I remain convinced that the Americans are our most important partners in the North Atlantic…
 22:13
 1405/02/13
 
@@ -2377,7 +2392,7 @@ src :@BellumActaNews
 
 src :@tabzlive
 [عکس]
-‏🇩🇪🇺🇸⚡️ — German Chancellor Friedrich Merz to WELT on the U.S. troop withdrawal:
+‏🇩🇪🇺🇸⚡️ — German Chancellor Friedrich Merz to ARD on the U.S. troop withdrawal:
 ‏It may be a bit exaggerated, but it’s nothing new.
 ‏
 ‏But that doesn't change the fact that I remain convinced that the Americans are our most important partners in the North Atlantic Alliance.
@@ -3364,16 +3379,6 @@ src :@tabzlive
 
 
 
-src :@MilitarryWorld
-‏⭕️ترامپ به سازمان پخش اسرائیل: مذاکرات با ایران متوقف شده است
-‏
-‏@MilitarryWorld | Parsa
-20:41
-1405/02/13
-
-
-
-
 src :@naya_foriraq
 ‏🌟🏴‍☠️حزب الله يعلن عن استهداف آلية نميرا الصهيونية كانت تحمل طاقماً قيادياً ضمن جيش العدو في بلدة البياضة بجنوب لبنان.
 20:40
@@ -3408,14 +3413,6 @@ src :@tabzlive
 [عکس]
 ‏🇮🇷🇺🇸⚡️ — Iranian Foreign Ministry spokesperson Esmaeil Baqaei: No nuclear issue is raised in Iran's plan to end the war.  Claims about Iran's commitment to mine clearance in the Strait of Hormuz are media fantasies.
 20:39
-1405/02/13
-
-
-
-
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Iranian Foreign Ministry spokesperson Esmaeil Baqaei: Iran's plan is exclusively conditional on the end of the war.  Other issues raised are partly related to the history of negotiations with the U.S., and currently Iran's 14-point plan is focused…
-20:37
 1405/02/13
 
 
@@ -5376,16 +5373,4 @@ src :@bricsnews
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- BREAKING: Iran has responded to the United States' 9-point proposal with its own 14-point proposal. The United States offered a two-month ceasefire to work out the details, but Iran rejected it and instead listed the following requirements, according…
 02:16
-1405/02/13
-
-
-
-
-src :@mamlekate
-‏📝 گزارش تلگراف از «فعالیت آشکار» شبکه پروپاگاندای مرتبط با سپاه پاسداران در بریتانیا
-‏
-‏روزنامه بریتانیایی تلگراف در گزارشی نوشت که یک شبکه پروپاگاندای «مرتبط با سپاه پاسداران انقلاب اسلامی» به‌صورت علنی در بریتانیا فعالیت می‌کند.
-‏
-‏@mamlekate
-01:28
 1405/02/13
