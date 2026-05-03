@@ -1,3 +1,26 @@
+src :@P_raetorio
+[عکس]
+‏اوکراینی ها با تغییر کاربری و نصب تجهیزاتی جدید بر روی خودرو مهندسی رزمی BTM-3 خود‌ آن را تبدیل به دستگاهی برای نصب سریع سیم‌خاردار در جبهه نبرد کرده اند!
+‏
+‏@P_raetorio
+09:54
+1405/02/13
+
+
+
+
+src :@ClashReport
+‏Kuwait exported no crude oil in April—the first time since 1991. 
+‏
+‏Production continued, but oil was stored or refined instead, as exports were halted by the Strait of Hormuz blockade.
+‏
+‏Source: TankerTrackers
+09:53
+1405/02/13
+
+
+
+
 src :@naya_foriraq
 ‏دويلة الامارات ترحل 15 ألف باكستاني شيعي وتصادر حساباتهم البنكية ومدّخراتهم التي جمعوها أثناء إقامتهم في الامارات.
 09:48
@@ -733,21 +756,6 @@ src :@tabzlive
 ‏
 ‏➡️ Officials said the trip followed an “arrive then announce” approach to reduce the risk of interference.
 06:51
-1405/02/13
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 در ادامه روند صعودی نرخ ارز در بازار آزاد ایران، روز شنبه ۱۲ اردیبهشت قیمت هر پوند بریتانیا از مرز ۲۵۰ هزار تومان عبور کرد و به بالاترین سطوح خود رسید.
-‏هم‌زمان، بهای هر دلار آمریکا در بازار آزاد تهران به حدود ۱۸۴ هزار تومان رسیده است. همچنین درهم امارات از ۵۰ هزار تومان عبور کرده و لیر ترکیه نیز از ۴۱۰۰ تومان فراتر رفته است.
-‏این افزایش هم‌زمان در نرخ ارزهای اصلی، نشان‌دهنده تداوم نوسانات شدید در بازار آزاد و افزایش فشار بر ارزش ریال است؛ روندی که در هفته‌های اخیر شتاب بیشتری گرفته و توجه فعالان اقتصادی و افکار عمومی را به خود جلب کرده است.
-‏
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
-06:45
 1405/02/13
 
 
@@ -3101,27 +3109,6 @@ src :@Military_Times_Blog
 
 
 
-src :@P_raetorio
-[عکس]
-‏✨ به فروشگاه Atlas Relay خوش آمدید!
-‏
-‏🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی
-‏✅ تضمین امنیت ارتباطات شما
-‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
-‏تعرفه ها :
-‏یک گیگ ۳۲۵
-‏دو گیگ ۶۰۰
-‏سه گیگ ۸۵۰
-‏چهار گیگ ۱.۱۰۰
-‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند
-‏
-‏@AtlasRelayFastbot
-21:15
-1405/02/12
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏🇮🇶🇮🇷المواكب الحسينية العراقية تستمر في تقديم الخدمات للشعب الإيراني وسط العاصمة طهران.
@@ -3193,17 +3180,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 20:48
-1405/02/12
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏تصویری از نیرو‌های ارتش اسرائیل در جنوب لبنان
-‏
-‏@P_raetorio
-20:41
 1405/02/12
 
 
@@ -4774,28 +4750,6 @@ src :@Americana_ir
 ‏🔗 لینک منبع  
 ‏🆔 @Americana_ir
 11:17
-1405/02/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏How Iran Moves Money Despite Blackouts?
-‏
-‏Nobitex, Iran’s largest crypto platform, was founded in 2018 by two brothers from the powerful Kharrazi family, closely tied to Iran’s ruling elite.
-‏
-‏Using an alternative surname, they built Nobitex into a dominant exchange handling ~70% of Iran’s crypto transactions and serving ~11 million users.
-‏
-‏Nobitex has become a key financial hub helping Iran bypass Western sanctions.
-‏
-‏It processes tens to hundreds of millions of dollars linked to sanctioned entities; used by the Islamic Revolutionary Guard Corps and Iran’s central bank.
-‏
-‏It enables both state actors and ordinary citizens to move money globally, continued operating during internet shutdowns and power outages.
-‏Total processed crypto: ~$11 billion
-‏
-‏Source: Reuters
-11:14
 1405/02/12
 
 
