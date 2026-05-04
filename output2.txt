@@ -1,3 +1,28 @@
+src :@ClashReport
+[عکس]
+‏Donald Trump’s team added Nick Stewart, an Iran hawk from pro-Israel lobbying think tank FDD Action, to Iran nuclear negotiations.
+‏
+‏Stewart supports strong pressure tactics (sanctions + possible military force).
+‏
+‏The negotiation team includes D Vance, Jared Kushner, and envoy Steve Witkoff.
+‏
+‏SOURCE
+10:46
+1405/02/14
+
+
+
+
+src :@mwarmonitor
+‏⏱ساعت ۰۸:۰۵ به وقت زرلو— پرواز RCH 2001 با هواپیمای ترابری فوق سنگین C-5M به شماره 85-0008 از پایگاه میلدنهال به مقصد ETAR (رامشتاین) به پرواز درآمده و با کنترل لندن روی فرکانس 121.230 در ارتباط است.
+‏
+‏@mwarmonitor
+10:44
+1405/02/14
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴| سناتور لیندزی گراهام: 
@@ -3184,21 +3209,6 @@ src :@tglobaleye
 
 
 
-src :@ClashReport
-[عکس]
-‏Three people have died after a suspected Hantavirus outbreak on the MV Hondius cruise ship, according to the World Health Organization. 
-‏
-‏One case is confirmed and five more are being investigated.
-‏
-‏The ship, operated by Oceanwide Expeditions, was sailing from Argentina to Cape Verde.
-‏
-‏Source: BBC
-23:41
-1405/02/13
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- IRGC-affiliated outlets claim that there are “initial actions” ongoing to lift the naval blockade, likely referring to the US Navy’s blockade of Iranian ports.
 23:39
@@ -3231,14 +3241,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:35
-1405/02/13
-
-
-
-
-src :@ClashReport
-‏Steve Witkoff told CNN the US is “in conversation” with Iran as potential negotiations are considered.
-23:33
 1405/02/13
 
 
@@ -3529,16 +3531,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 22:26
-1405/02/13
-
-
-
-
-src :@intelslava
-‏🇺🇦🇷🇺A drone of the Armed Forces of Ukraine hit a car with a family in the Belgorod region. Two civilians were killed and one was injured.
-‏
-‏@Intelslava
-22:25
 1405/02/13
 
 
@@ -3837,21 +3829,6 @@ src :@VahidOnline
 ‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
-21:40
-1405/02/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Germany's Chancellor Merz on Tomahawk missiles:
-‏
-‏The Americans currently do not have enough themselves.
-‏
-‏There is currently hardly any possibility for the United States to provide weapons systems of this kind.
-‏
-‏Source: Welt
 21:40
 1405/02/13
 
