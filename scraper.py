@@ -10,36 +10,35 @@ import os
 tehran_tz = pytz.timezone('Asia/Tehran')
 
 def get_media_tag(msg_div):
-    """
-    بررسی دقیق انواع مدیا در پست تلگرام.
-    سلکتورها برای پوشش کامل انواع نمایش ویدیو در نسخه وب به‌روزرسانی شدند.
-    """
     # تشخیص عکس
     has_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None
     
-    # --- اصلاح اصلی: تشخیص جامع ویدیو ---
-    # تلگرام وب از کلاس‌های مختلفی برای ویدیو استفاده می‌کند. ما همه را چک می‌کنیم:
+    # تشخیص ویدئو (نسخه تقویت شده)
+    # تمام کلاس‌ها و المان‌هایی که تلگرام برای انواع ویدئو (با کپشن یا بدون کپشن) استفاده می‌کند
     has_video = (
-        msg_div.select_one('.tgme_widget_message_video') is not None or          # کلاس استاندارد ویدیو
-        msg_div.select_one('.tgme_widget_message_video_player') is not None or   # مدیاپلیر اختصاصی
-        msg_div.select_one('video') is not None or                                # تگ خام ویدیوی HTML5
-        msg_div.select_one('.tgme_widget_message_roundvideo_wrap') is not None   # ویدیوی نوت (دایره‌ای)
+        msg_div.select_one('.tgme_widget_message_video') is not None or 
+        msg_div.select_one('.tgme_widget_message_video_player') is not None or
+        msg_div.select_one('video') is not None or
+        msg_div.select_one('.tgme_widget_message_roundvideo_wrap') is not None or
+        # این مورد برای ویدئوهایی است که در گرید یا همراه متن هستند:
+        msg_div.select_one('.message_video_not_played') is not None or
+        msg_div.select_one('.tgme_widget_message_video_wrap') is not None
     )
     
-    # تشخیص نظرسنجی، فایل و گیف
+    # تشخیص گیف (معمولاً کلاس اختصاصی دارد)
+    has_gif = msg_div.select_one('.videogif') is not None
+
+    # تشخیص سایر موارد
     has_poll = msg_div.select_one('.tgme_widget_message_poll') is not None
     has_doc = msg_div.select_one('.tgme_widget_message_document') is not None
-    has_gif = msg_div.select_one('.videogif') is not None # گیف‌ها معمولاً کلاس اختصاصی دارند
-    
-    # تشخیص پیام صوتی (Voice)
     has_voice = msg_div.select_one('.tgme_widget_message_voice_player') is not None
 
     # اولویت‌بندی خروجی
     if has_photo and has_video: return "[عکس و ویدئو]"
     if has_voice: return "[پیام صوتی]"
     if has_gif: return "[گیف]"
-    if has_photo: return "[عکس]"
     if has_video: return "[ویدئو]"
+    if has_photo: return "[عکس]"
     if has_poll: return "[نظرسنجی]"
     if has_doc: return "[فایل]"
     return ""
@@ -66,16 +65,14 @@ def run_scraper_logic(input_file, output_file):
         print(f"در حال استخراج از {input_file}: {channel}...")
         url = f"https://t.me/s/{channel}"
         try:
-            # ارسال درخواست با User-Agent برای شبیه‌سازی مرورگر واقعی
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
+            # استفاده از هدر برای جلوگیری از بلاک شدن و دریافت نسخه کامل سایت
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
             res = requests.get(url, headers=headers, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
             messages = soup.select('.tgme_widget_message')
             
             for msg in messages:
-                # نادیده گرفتن پیام‌های سیستمی (مثل "Pinned a photo")
+                # حذف پیام‌های پین شده و سیستمی
                 if msg.select_one('.tgme_widget_message_service'):
                     continue
 
@@ -90,15 +87,13 @@ def run_scraper_logic(input_file, output_file):
                 text_div = msg.select_one('.tgme_widget_message_text')
                 if text_div:
                     for br in text_div.find_all("br"): br.replace_with("\n")
-                    # حفظ ساختار HTML ساده برای برخی متن‌ها اگر لازم بود، اما get_text امن‌تر است
                     post_text = text_div.get_text()
                 else:
                     post_text = ""
 
-                # فراخوانی تابع اصلاح شده
                 media_tag = get_media_tag(msg)
 
-                # اگر پست متنی بود یا مدیای قابل تشخیصی داشت، آن را ذخیره کن
+                # اصلاح: حتی اگر متن نبود ولی مدیا (مثل ویدئو) بود، پست را قبول کن
                 if post_text.strip() or media_tag:
                     dt_tehran = post_dt_utc.astimezone(tehran_tz)
                     shamsi_date = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
@@ -134,12 +129,8 @@ def run_scraper_logic(input_file, output_file):
     print(f"خروجی در {output_file} با {len(all_posts)} پست ذخیره شد.")
 
 def main():
-    # اجرای اسکرپر برای لیست اول
     run_scraper_logic('channels1.txt', 'output1.txt')
-    
-    # اجرای اسکرپر برای لیست دوم
     run_scraper_logic('channels2.txt', 'output2.txt')
 
-# اصلاح: سینتکس استاندارد پایتون برای اجرای اصلی
 if __name__ == "__main__":
     main()
