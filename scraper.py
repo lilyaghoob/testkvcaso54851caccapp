@@ -10,15 +10,31 @@ import os
 tehran_tz = pytz.timezone('Asia/Tehran')
 
 def get_media_tag(msg_div):
+    """
+    بررسی دقیق انواع مدیا در پست تلگرام.
+    سلکتورها برای پوشش کامل انواع نمایش ویدیو در نسخه وب به‌روزرسانی شدند.
+    """
+    # تشخیص عکس
     has_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None
-    # اصلاح: اضافه کردن کلاس‌های واقعی و تگ video برای تشخیص دقیق‌تر ویدئوها
-    has_video = msg_div.select_one('.tgme_widget_message_video') is not None or msg_div.select_one('.tgme_widget_message_video_player') is not None or msg_div.select_one('video') is not None
+    
+    # --- اصلاح اصلی: تشخیص جامع ویدیو ---
+    # تلگرام وب از کلاس‌های مختلفی برای ویدیو استفاده می‌کند. ما همه را چک می‌کنیم:
+    has_video = (
+        msg_div.select_one('.tgme_widget_message_video') is not None or          # کلاس استاندارد ویدیو
+        msg_div.select_one('.tgme_widget_message_video_player') is not None or   # مدیاپلیر اختصاصی
+        msg_div.select_one('video') is not None or                                # تگ خام ویدیوی HTML5
+        msg_div.select_one('.tgme_widget_message_roundvideo_wrap') is not None   # ویدیوی نوت (دایره‌ای)
+    )
+    
+    # تشخیص نظرسنجی، فایل و گیف
     has_poll = msg_div.select_one('.tgme_widget_message_poll') is not None
     has_doc = msg_div.select_one('.tgme_widget_message_document') is not None
-    has_gif = msg_div.select_one('.videogif') is not None
-    # اصلاح: اضافه شدن تشخیص پیام‌های صوتی
-    has_voice = msg_div.select_one('.tgme_widget_message_voice_player') is not None or msg_div.select_one('audio') is not None
+    has_gif = msg_div.select_one('.videogif') is not None # گیف‌ها معمولاً کلاس اختصاصی دارند
+    
+    # تشخیص پیام صوتی (Voice)
+    has_voice = msg_div.select_one('.tgme_widget_message_voice_player') is not None
 
+    # اولویت‌بندی خروجی
     if has_photo and has_video: return "[عکس و ویدئو]"
     if has_voice: return "[پیام صوتی]"
     if has_gif: return "[گیف]"
@@ -50,12 +66,16 @@ def run_scraper_logic(input_file, output_file):
         print(f"در حال استخراج از {input_file}: {channel}...")
         url = f"https://t.me/s/{channel}"
         try:
-            res = requests.get(url, timeout=15)
+            # ارسال درخواست با User-Agent برای شبیه‌سازی مرورگر واقعی
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
+            res = requests.get(url, headers=headers, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
             messages = soup.select('.tgme_widget_message')
             
             for msg in messages:
-                # اصلاح: نادیده گرفتن پیام‌های سیستمی کانال (مثل پین شدن پیام)
+                # نادیده گرفتن پیام‌های سیستمی (مثل "Pinned a photo")
                 if msg.select_one('.tgme_widget_message_service'):
                     continue
 
@@ -70,13 +90,16 @@ def run_scraper_logic(input_file, output_file):
                 text_div = msg.select_one('.tgme_widget_message_text')
                 if text_div:
                     for br in text_div.find_all("br"): br.replace_with("\n")
+                    # حفظ ساختار HTML ساده برای برخی متن‌ها اگر لازم بود، اما get_text امن‌تر است
                     post_text = text_div.get_text()
                 else:
                     post_text = ""
 
+                # فراخوانی تابع اصلاح شده
                 media_tag = get_media_tag(msg)
 
-                if post_text or media_tag:
+                # اگر پست متنی بود یا مدیای قابل تشخیصی داشت، آن را ذخیره کن
+                if post_text.strip() or media_tag:
                     dt_tehran = post_dt_utc.astimezone(tehran_tz)
                     shamsi_date = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
                     
@@ -117,6 +140,6 @@ def main():
     # اجرای اسکرپر برای لیست دوم
     run_scraper_logic('channels2.txt', 'output2.txt')
 
-# اصلاح: سینتکس صحیح اجرای مستقیم در پایتون
+# اصلاح: سینتکس استاندارد پایتون برای اجرای اصلی
 if __name__ == "__main__":
     main()
