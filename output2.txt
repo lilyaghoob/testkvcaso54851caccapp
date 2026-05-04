@@ -3405,23 +3405,6 @@ src :@cataphract1
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇹🇼🤝🇸🇿❗️ — Taiwanese president Lai Ching-te is currently visiting the Kingdom of Eswatini, after repeated attempts by Beijing to block the trip.
-‏
-‏▶️ The visit reinforces the Taiwanese to engage in international relations despite Chinese pressure. Eswatini is one of the 12 countries that officially recognizes Taiwan as a state.
-‏
-‏▶️ China condemned the visit, even calling the Taiwanese president a "rat".
-‏
-‏🇸🇿💬 Statement by the Eswatini government on X:
-‏
-‏"His Majesty King Mswati III today warmly received H.E. President @ChingteLai of the Republic of China (Taiwan) at Mandvulo Grand Hall. President Lai's visit reaffirms the longstanding friendship and strong diplomatic ties that exist between Eswatini and Taiwan."
-22:01
-1405/02/13
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇬🇧🇮🇷 — Several Iranian dual nationals speaking to The Sunday Times claimed they had been approached by Iranian intelligence services over the past year in the UK and while traveling in Europe, Turkey, and Iran.
