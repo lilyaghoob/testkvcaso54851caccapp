@@ -17,7 +17,6 @@ DEJradio
 rus_cosmos
 MilitiaNews
 ircfspace
-Military_Times_Blog
 OfficialRezaPahlavi
 guard_warriors
 USAMRYDATA
