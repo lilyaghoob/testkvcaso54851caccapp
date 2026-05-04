@@ -1,3 +1,40 @@
+src :@mwarmonitor
+[عکس]
+‏🔴به نظر می‌رسد ال‌پی‌جی ایرانی بدون هیچ دردسری از حلقه محاصره نیروی دریایی آمریکا خارج شده است. ما سه هفته پیش کشتی XAVIA (9052331) تحت تحریم آمریکا را در حال بارگیری محموله‌اش در عسلوئیه ایران مشاهده کردیم. این کشتی آخرین بار دو روز پیش در موقعیت اعلام‌شده AIS خود در نزدیکی صحار عمان دیده شد. TANKER TRACKER 
+‏
+‏@mwarmonitor
+15:04
+1405/02/14
+
+
+
+
+src :@tabzlive
+‏🇴🇲🇮🇷⚡️ — BREAKING: ADNOC Logistics & Services says its crude oil tanker Barakah was struck by two Iranian drones off the coast of Oman.  ➡️ No injuries were reported, and the vessel carried no cargo at the time.
+15:04
+1405/02/14
+
+
+
+
+src :@P_raetorio
+‏گزارش‌های تایید نشده از هدف قرار گرفتن یک نفتکش در نزدیکی سواحل امارات متحده عربی  @P_raetorio
+15:03
+1405/02/14
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏تایید نشده
+‏
+‏🔴یک نفتکش وابسته به شرکت ملی نفت ابوظبی در سواحل عمان هدف حمله دو پهپاد منتسب به ایران قرار گرفت
+15:02
+1405/02/14
+
+
+
+
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Several Israeli airstrikes targeted several towns in southern Lebanon today:
 ‏
@@ -2326,7 +2363,7 @@ src :@wfwitness
 
 
 src :@MilitiaNews
-‏🇺🇸🇮🇷🇵🇰⚡️  سخنگوی سنتکام به ای‌بی‌سی نیوز گفت کشتی ایرانی M/V Touska که به دلیل تلاش برای نقض محاصره دریایی ایالات متحده توقیف شده بود، به همراه خدمه‌اش برای بازگرداندن به ایران به پاکستان منتقل شده است. 
+‏🇺🇸🇮🇷🇵🇰⚡️سخنگوی سنتکام به ای‌بی‌سی نیوز گفت کشتی ایرانی M/V Touska که به دلیل تلاش برای نقض محاصره دریایی ایالات متحده توقیف شده بود، به همراه خدمه‌اش برای بازگرداندن به ایران به پاکستان منتقل شده است. 
 ‏
 ‏ نیروهای آمریکایی ۲۲ خدمه را به پاکستان منتقل کردند، در حالی که شش نفر دیگر هفته گذشته برای بازگرداندن به «یک کشور منطقه‌ای» منتقل شده بودند. 
 ‏
@@ -2670,19 +2707,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 12:28
-1405/02/14
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏✈️📡 پهپاد نیروی دریایی آمریکا MQ-4C Triton (169804) در حال عملیات بر فراز خلیج فارس است.
-‏
-‏✈️چندین هواپیمای تانکر سوخت رسان نیروی هوایی آمریکا نیز فعال هستند و جنگنده‌هایی را که از پایگاه هوایی الظفره و ناو USS Lincoln به پرواز درآمده‌اند، سوخت‌گیری می‌کنند.
-‏
-‏@mwarmonitor
-12:26
 1405/02/14
 
 
@@ -3529,16 +3553,6 @@ src :@didarnews1
 
 
 
-src :@P_raetorio
-‏⭕️ مرکز عملیات تجارت دریایی بریتانیا اعلام کرد آمریکا منطقه امنیتی تقویت شده در تنگه هرمز در جنوب طرح تقسیم ترافیک ایجاد کرده است 
-‏
-‏📃@Cataphract1
-09:30
-1405/02/14
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The UK Maritime Trade Operations reported a security incident according to which an oil tanker was struck by Iran 78 nautical miles north of Fujairah, UAE.
@@ -4017,15 +4031,6 @@ src :@tabzlive
 [عکس]
 ‏🇮🇷🇺🇸⚡️ — Six Iranian crew members from the Iranian-flagged container ship Touska have been released after the vessel was seized by the U.S., while 22 others remain on the ship, with Iranian efforts ongoing to secure their release, Tasnim reports.
 05:30
-1405/02/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — NEW: U.S. Central Command: U.S. Central Command forces will begin supporting Project Freedom, May 4, to restore freedom of navigation for commercial shipping through the Strait of Hormuz.  The mission, directed by the President, will support merchant…
-05:23
 1405/02/14
 
 
@@ -5467,22 +5472,4 @@ src :@DEJradio
 src :@warmonitors
 ‏Got heart surgery this week wish me luck chat🙏
 15:10
-1405/02/13
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇦🇪 UAE oil giant ADNOC to invest $55 billion in new projects by 2028.
-‏
-‏@BRICSNews
-15:05
-1405/02/13
-
-
-
-
-src :@warmonitors
-‏⚡️ Lebanese Ministry of Health: 5 injured, including 4 paramedics, in Israeli airstrikes on the town of Srifa in southern Lebanon
-15:05
 1405/02/13
