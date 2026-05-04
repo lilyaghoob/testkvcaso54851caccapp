@@ -891,16 +891,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: ایران و امارات در آستانه جنگ؟
-‏@iranintlTV
-23:36
-1405/02/14
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏nasertorkan
