@@ -11,16 +11,12 @@ tehran_tz = pytz.timezone('Asia/Tehran')
 
 def get_media_tag(msg_div):
     has_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None
-    # اصلاح: اضافه کردن کلاس‌های واقعی و تگ video برای تشخیص دقیق‌تر ویدئوها
-    has_video = msg_div.select_one('.tgme_widget_message_video') is not None or msg_div.select_one('.tgme_widget_message_video_player') is not None or msg_div.select_one('video') is not None
+    has_video = msg_div.select_one('.tgme_widget_message_video') is not None
     has_poll = msg_div.select_one('.tgme_widget_message_poll') is not None
     has_doc = msg_div.select_one('.tgme_widget_message_document') is not None
     has_gif = msg_div.select_one('.videogif') is not None
-    # اصلاح: اضافه شدن تشخیص پیام‌های صوتی
-    has_voice = msg_div.select_one('.tgme_widget_message_voice_player') is not None or msg_div.select_one('audio') is not None
 
     if has_photo and has_video: return "[عکس و ویدئو]"
-    if has_voice: return "[پیام صوتی]"
     if has_gif: return "[گیف]"
     if has_photo: return "[عکس]"
     if has_video: return "[ویدئو]"
@@ -55,10 +51,6 @@ def run_scraper_logic(input_file, output_file):
             messages = soup.select('.tgme_widget_message')
             
             for msg in messages:
-                # اصلاح: نادیده گرفتن پیام‌های سیستمی کانال (مثل پین شدن پیام)
-                if msg.select_one('.tgme_widget_message_service'):
-                    continue
-
                 time_tag = msg.select_one('time')
                 if not time_tag or not time_tag.has_attr('datetime'):
                     continue
@@ -99,10 +91,10 @@ def run_scraper_logic(input_file, output_file):
     # ساخت محتوای فایل
     output_content = ""
     for post in all_posts:
-        entry = f"src :@{post['channel']}\n"
+        entry = f"منبع :@{post['channel']}\n"
         if post['media']: entry += f"{post['media']}\n"
         if post['text']: entry += f"{format_text(post['text'])}\n"
-            entry += f"{post['time_str']}\n"
+        entry += f"{post['time_str']}\n"
         entry += f"{post['date_str']}\n"
         output_content += entry + "\n\n\n\n"
 
@@ -117,6 +109,5 @@ def main():
     # اجرای اسکرپر برای لیست دوم
     run_scraper_logic('channels2.txt', 'output2.txt')
 
-# اصلاح: سینتکس صحیح اجرای مستقیم در پایتون
-if name == "__main__":
+if __name__ == "__main__":
     main()
