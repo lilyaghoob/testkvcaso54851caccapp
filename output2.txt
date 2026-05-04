@@ -1,3 +1,14 @@
+src :@P_raetorio
+[عکس]
+‏به گزارش رویترز یک کشتی خودروبر (Alliance Fairfax) متعلق به کمپانی مشهور MAERSK امروز با اسکورت نیروی دریایی امریکا موفق به خروج از خلیج فارس و عبور از مسیر امن تنگه هرمز شده است، بنابراین تا این لحظه عبور یکی از دو کشتی ادعا شده توسط سنتکام تایید می شود.
+‏
+‏@Minas_Tirith2024
+00:43
+1405/02/15
+
+
+
+
 src :@naya_foriraq
 ‏مصر للطيران تعلق رحلاتها إلى مطارات دبي وأبوظبي والشارقة حتى إشعار آخر.
 00:41
@@ -46,17 +57,6 @@ src :@Indypersian
 ‏در این تماس، ولیعهد عربستان سعودی با ابراز «محکومیت شدید» این حملات، بر حمایت ریاض از ابوظبی در حفظ امنیت و ثبات آن تاکید کرد.
 ‏دو طرف همچنین آخرین تحولات منطقه‌ای را بررسی کرده و درباره راه‌های تقویت امنیت و ثبات در منطقه گفتگو کردند. 
 ‏@indypersian
-00:36
-1405/02/15
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏به گزارش رویترز یک کشتی کانتینربر(Alliance Fairfax) متعلق به کمپانی مشهور MAERSK امروز با اسکورت نیروی دریایی امریکا موفق به خروج از خلیج فارس و عبور از مسیر امن تنگه هرمز شده است، بنابراین تا این لحظه عبور یکی از دو کشتی ادعا شده توسط سنتکام تایید می شود.
-‏
-‏@Minas_Tirith2024
 00:36
 1405/02/15
 
@@ -199,7 +199,7 @@ src :@Mena_Live
 
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸The U.S. Secret Service reports that one person was shot by law enforcement near the intersection of 15th Street and Independence Avenue in Washington DC. 
+‏⚡️🇺🇸The U.S. Secret Service reports that one person was shot by law enforcement near the Washington Monument in Washington DC. 
 ‏
 ‏The condition of the shooting victim is currently unknown.
 ‏
@@ -1671,15 +1671,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇦🇪🇮🇷⚡️ — President Trump stopped short of saying that Iran had violated the ceasefire with today's attacks in his interview with ABC News.
-22:48
-1405/02/14
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸🇦🇪🇮🇷⚡️ — President Trump to ABC News on the Iranian attacks that targeted the UAE:
@@ -2834,15 +2825,6 @@ src :@mwarmonitor
 ‏دریادار برد کوپر، فرمانده سنتکام (CENTCOM)
 ‏
 ‏@mwarmonitor
-21:32
-1405/02/14
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇦🇪- Authorities in the UAE have declared that all schools across the country will transition to remote learning until May 8th and then the decision will be reviewed.
 21:32
 1405/02/14
 
