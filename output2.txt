@@ -1,3 +1,37 @@
+src :@naya_foriraq
+‏مصر للطيران تعلق رحلاتها إلى مطارات دبي وأبوظبي والشارقة حتى إشعار آخر.
+00:41
+1405/02/15
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️به گزارش رویترز، شرکت کشتیرانی «مرسک» روز دوشنبه اعلام کرد که یک کشتی خودروبر با پرچم ایالات متحده که توسط شرکت تابعه آن، «فرل لاینز»، اداره می‌شود، با همراهی ارتش آمریکا از تنگه هرمز عبور کرده و از خلیج فارس خارج شده است. طبق بیانیه مرسک، این عملیات عبور بدون هیچ‌گونه حادثه‌ای به پایان رسیده و تمامی خدمه کشتی در سلامت کامل به سر می‌برند.
+‏
+‏@IndyPersian
+00:40
+1405/02/15
+
+
+
+
+src :@ClashReport
+[عکس]
+‏U.S. intelligence says recent fighting has not significantly slowed Iran’s nuclear program. 
+‏
+‏Officials still estimate Iran would need about 9–12 months to build a nuclear weapon if it chose to do so—roughly unchanged from last year.
+‏
+‏Iran’s stockpile of highly enriched uranium remains largely intact and unaccounted for, which experts say is key to any weapons timeline.
+‏
+‏Source: Reuters
+00:37
+1405/02/15
+
+
+
+
 src :@tabzlive
 ‏🇮🇱❌🇱🇧 — An Israeli attack on Kfarkila in southern Lebanon injured a Lebanese police officer and soldier, according to the Lebanese army.
 00:36
@@ -57,7 +91,7 @@ src :@MilitarryWorld
 
 src :@Minas_Tirith2024
 [عکس]
-‏به گزارش رویترز یک کشتی کانتینربر(Alliance Fairfax) متعلق به کمپانی مشهور MAERSK امروز با اسکورت نیروی دریایی امریکا موفق به خروج از خلیج فارس و عبور از مسیر امن تنگه هرمز شده است، بنابراین تا این لحظه عبور یکی از دو کشتی ادعا شده توسط سنتکام تایید می شود.
+‏به گزارش رویترز یک کشتی خودروبر (Alliance Fairfax) متعلق به کمپانی مشهور MAERSK امروز با اسکورت نیروی دریایی امریکا موفق به خروج از خلیج فارس و عبور از مسیر امن تنگه هرمز شده است، بنابراین تا این لحظه عبور یکی از دو کشتی ادعا شده توسط سنتکام تایید می شود.
 ‏
 ‏@Minas_Tirith2024
 00:28
@@ -107,14 +141,6 @@ src :@warmonitors
 
 src :@rnintel
 ‏🇮🇷🇦🇪⚡- Bahrain, Jordan, and Egypt have condemned Iran's attacks on the UAE, and stand in solidarity with the Emirati State.
-00:24
-1405/02/15
-
-
-
-
-src :@mwarmonitor
-‏📝 سوالی دارید دایرکت جواب میدم
 00:24
 1405/02/15
 
@@ -440,14 +466,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 00:04
-1405/02/15
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏RASTAKHIZ pinned a photo
-00:03
 1405/02/15
 
 
@@ -1633,15 +1651,6 @@ src :@GeoPWatch
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 قیمت نفت برنت به بالای ۱۱۹ دلار رسید.  #خبر  @RASTAKHIZ_PERSIAN
-22:51
-1405/02/14
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏وزارت دفاع امارات متحده عربی اعلام کرد سامانه‌های پدافند هوایی این کشور روز دوشنبه ۱۲ موشک بالستیک، ۳ موشک کروز و ۴ پهپاد پرتاب‌شده از سوی ایران را رهگیری کرده‌اند که در نتیجه آن ۳ نفر به‌طور متوسط زخمی شدند.
@@ -1675,15 +1684,6 @@ src :@rnintel
 [عکس]
 ‏🇺🇸🇦🇪🇮🇷⚡️ — President Trump to ABC News on the Iranian attacks that targeted the UAE:
 ‏They were shot down for the most part. One got through. Not huge damage.
-22:47
-1405/02/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇦🇪🇮🇷⚡️ — President Trump to ABC News on the Iranian attacks that targeted the UAE: They were shot down for the most part. One got through. Not huge damage.
 22:47
 1405/02/14
 
@@ -4095,17 +4095,6 @@ src :@Mena_Live
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️در پی حملات موشکی و پهپادی جمهوری اسلامی ایران به مناطقی در امارات متحده عربی، داده‌های وب‌سایت «فلایت‌رادار۲۴» نشان می‌دهد که چندین پرواز در مسیر امارات متحده عربی به سمت مسقط، پایتخت عمان، تغییر مسیر داده‌اند.
-‏
-‏@INDYPERSIAN
-20:38
-1405/02/14
-
-
-
-
 src :@MilitiaNews
 ‏🇺🇸🇮🇷⚡️ ترامپ به فاکس نیوز گفت که اگر جمهوری اسلامی به کشتی‌های آمریکایی که تحت «پروژه آزادی» از تنگه هرمز عبور می‌کنند حمله کند، «از صفحه زمین محو خواهد شد
 ‏
@@ -4470,19 +4459,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Minas_Tirith2024
-‏#فوری
-‏
-‏یک کشتی ناشناس سیگنال اضطراری در نزدیکی تنگه هرمز ارسال کرد.
-‏
-‏
-‏@P_raetorio
-20:17
-1405/02/14
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇱 Israeli army placed on high alert.
 ‏
@@ -4728,16 +4704,6 @@ src :@intelslava
 
 
 
-src :@Minas_Tirith2024
-‏نتانیاهو وزرای کابینه را برای جلسه روز چهارشنبه فراخواند
-‏
-‏@Minas_Tirith2024
-20:03
-1405/02/14
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏طبق گفته برد کوپر، فرمانده سنتکام صبح امروز شش قایق کوچک سپاه را که قصد مختل کردن تردد در تنگه هرمز را داشتند نابود کردند
 ‏
@@ -4766,18 +4732,6 @@ src :@cataphract1
 ‏
 ‏@P_raetorio
 20:01
-1405/02/14
-
-
-
-
-src :@Minas_Tirith2024
-‏فوری 
-‏
-‏ژنرال برد کوپر فرمانده سنتکام مدعی است نیروی دریایی امریکا 6 قایق رزمی کوچک سپاه را هدف قرار داده است 
-‏
-‏@Minas_Tirith2024
-20:00
 1405/02/14
 
 
@@ -5809,6 +5763,18 @@ src :@thewarreporter
 
 
 
+src :@RASTAKHIZ_PERSIAN
+‏🔶 آتش سوزی در مجتمع پتروشیمی فجیره در نتیجه حمله پهپادی ایران گزارش شده است. 
+‏
+‏#خبر
+‏
+‏@RASTAKHIZ_PERSIAN
+18:56
+1405/02/14
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏وزارت دفاع امارات متحده عربی اعلام کرد چهار موشک کروز از ایران به سمت این کشور شلیک شده که سه فروند بر فراز آب‌ها رهگیری شد و یک موشک در دریا سقوط کرد.
@@ -5826,6 +5792,19 @@ src :@VahidOnline
 src :@thewarreporter
 ‏🇦🇪 — Emirati Emergency and Crisis Management Authority:   "Air defenses are currently dealing with a missile threat".  @TheWarReporter
 18:55
+1405/02/14
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 هشدارهای اضطراری جدید در امارات متحده عربی به عنوان واکنش پدافند هوایی به تهدید موشکی ارسال شد.
+‏
+‏#خبر
+‏
+‏@RASTAKHIZ_PERSIAN
+18:54
 1405/02/14
 
 
