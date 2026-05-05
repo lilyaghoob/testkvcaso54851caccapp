@@ -1,3 +1,34 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸🇮🇷 US says Iran placed additional mines in the Strait of Hormuz during ceasefire.
+‏
+‏@BRICSNews
+20:32
+1405/02/15
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸‏مسؤولون أميركيون: ترامب سينفذ ضربة قصيرة وقاتلة ضد إيران إذا فشلت المفاوضات.
+20:31
+1405/02/15
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏«🚁🇺🇸 یک فروند بالگرد UH-60 بلک‌هاوک ارتش آمریکا از پایگاه هوایی در امارات متحده عربی به پرواز درآمد و به سمت حرکت کرد.
+‏🔸پایگاه هوایی الظفره پایگاه اصلی پشتیبانی برای «پروژه آزادی» است و همین موضوع توضیح می‌دهد که چرا پرتابه‌ها امارات را هدف قرار داده‌اند.»
+‏
+‏@mwarmonitor
+20:27
+1405/02/15
+
+
+
+
 src :@rus_cosmos
 [عکس]
 ‏تصاویر ماهواره‌ سنتینل-۲ در روز ۵ می ۲۰۲۶ نشان می‌دهد دو ناو از تنگه هرمز عبور کردند.
@@ -45,13 +76,13 @@ src :@didarnews1
 
 src :@cataphract1
 [عکس]
-‏⚜ترکیه از اولین موشک بالستیک فضایی (قاره پیما) خود در نمایشگاه SAHA 2026 استانبول رونمایی کرد.
+‏⚜️ترکیه از اولین موشک بالستیک فضایی (قاره پیما) خود در نمایشگاه SAHA 2026 استانبول رونمایی کرد.
 ‏مرکز تحقیق و توسعه وزارت دفاع ترکیه، موشک بالستیک قاره‌پیمای ییلدیریمهان را تولید کرده است.
 ‏مشخصات اعلام شده:
 ‏برد: ۶۰۰۰ کیلومتر
 ‏سرعت: ۹ تا ۲۵ ماخ
 ‏نیروی محرکه: ۴ موتور
-‏سوخت: مایع (تتراکسید نیتروژن)
+‏سوخت: مایع (تتراکسید نیتروژن — البته در واقعیت این ماده یک اکسیدایزر است، اصلا سوخت نیست !)
 ‏وزن کلاهک قابل حمل : ۳تن
 ‏
 ‏✒️#MS3
@@ -2877,14 +2908,6 @@ src :@intelslava
 
 
 
-src :@mwarmonitor
-‏«این نیروها متشکل از بیش از ۱۵,۰۰۰ نیروی نظامی آمریکایی هستند و کنترل موضعی هوایی و دریایی را برای محافظت در برابر تهدیدات ایران برقرار کرده‌اند.» «شناورهای تجاری که از این منطقه عبور می‌کنند، قدرت رزمی ایالات متحده را در اطراف خود، در دریا، در آسمان و روی…
-16:59
-1405/02/15
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇪🇹 🇪🇹 — The TPLF Central Committee has elected Debretsion Gebremichael as leader of the Tigray Interim Administration in northern Ethiopia.
@@ -3270,21 +3293,6 @@ src :@rnintel
 
 
 
-src :@selena_updates
-[عکس]
-‏Hezbollah unsuccessfully attempted to launch a surface-to-air missile toward an Israeli Air Force aircraft. No damage was caused, and no IDF troops were injured.
-‏
-‏In addition, the Israeli Air Force successfully intercepted a hostile aerial target before it crossed into Israeli territory. No sirens were sounded in accordance with protocol. 
-‏
-‏The Israeli Air Force continues to support IDF troops operating on the ground, in both offensive and defensive operations, at all times.
-‏
-‏In a number of additional incidents earlier today (Tuesday), Hezbollah launched several explosive UAVs and an anti-tank missile toward the area in which IDF soldiers are operating, and several explosive devices were detonated in proximity to IDF troops in southern Lebanon. No injuries.
-16:14
-1405/02/15
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ژنرال دن کین، رئیس ستاد مشترک نیروهای مسلح آمریکا، روز سه‌شنبه ۱۵ اردیبهشت در نشست خبری مشترک با پیت هگست، وزیر جنگ ایالات متحده گفت: «اگر دستور صادر شود، نیروهای مسلح آمریکا آماده از سرگیری عملیات بزرگ علیه ایران هستند.»
@@ -3466,17 +3474,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@selena_updates
-[عکس]
-‏Mohammad Jamal al-Ghandour, a senior operative in the Hamas security apparatus with a rank equivalent to lieutenant colonel, was eliminated this morning in an Israeli strike on his vehicle in Gaza City, north Gaza.
-‏
-‏Hamas's Ministry of Interior confirmed the assassination.
-15:45
-1405/02/15
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸🚫🇮🇷- Dan Caine: 
 ‏We are ready to resume major combat operations against Iran if ordered to do so.
@@ -3498,19 +3495,6 @@ src :@GeoPWatch
 ‏🇺🇸🚫🇮🇷- US Secretary of Defence, Pete Hegseth: 
 ‏We're not seeking a fight, but we can't allow Iran to prevent innocent countries from navigating an international waterway.
 15:40
-1405/02/15
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️یک منبع اسرائیلی روز سه‌شنبه ۱۵ اردیبهشت به شبکه سی‌ان‌ان گفت تل‌آویو در حال هماهنگی با ایالات متحده برای آمادگی در برابر دور دیگری از حملات احتمالی به جمهوری اسلامی است؛ حملاتی که به گفته این منبع می‌تواند زیرساخت‌های انرژی و مقامات ارشد حکومتی را هدف قرار دهد.
-‏
-‏ به گفته این منبع، هدف از این اقدام افزایش فشار برای کسب امتیاز در مذاکرات عنوان شده است. همچنین تاکید شده تصمیم نهایی برای ازسرگیری درگیری‌ها با دونالد ترامپ، رئیس‌جمهوری آمریکا خواهد بود؛ در حالی که بنیامین نتانیاهو در روزهای اخیر نشست‌های امنیتی محرمانه برگزار کرده و از وزیران خود خواسته درباره این موضوع سکوت کنند.
-‏
-‏@indypersian
-15:38
 1405/02/15
 
 
@@ -3841,15 +3825,6 @@ src :@Mena_Live
 
 
 
-src :@selena_updates
-[عکس]
-‏Over two dozen House Democrats are urging the Trump administration to acknowledge Israel’s long-suspected nuclear weapons program, breaking decades of U.S. policy and confirming an open secret known since the 1960s.
-14:46
-1405/02/15
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇺🇦🇷🇺A video of the launch of 6 FP-5 "Flamingo" missiles at a facility in Cheboksary, of which one reportedly hit the target.   For air defense, this is not an ideal outcome, but a good result. It managed to avoid much greater potential damage that could have…
@@ -4060,19 +4035,6 @@ src :@didarnews1
 
 
 
-src :@selena_updates
-[عکس]
-‏Coordinator of Government Activities in the Territories (COGAT):
-‏
-‏So far, about 44,000 Gazans have left the Gaza Strip for a third country via the land crossings. Updates and changes are expected in the process of Gazans leaving for a third country.
-‏
-‏Gazans who hold dual citizenship or exit visas, as well as their family members, are invited to contact the relevant embassies.
-14:03
-1405/02/15
-
-
-
-
 src :@cataphract1
 [فایل]
 ‏حجم زیادی از کانفیگ رو مصرف کردم اما فکر کنم ارزششو داشت... 🫠
@@ -4130,21 +4092,6 @@ src :@tglobaleye
 ‏WHO notes that human-to-human transmission of hantavirus is extremely rare but is being considered in this cluster. The ship operator and authorities are coordinating medical evacuations and further testing.
 ‏
 ‏The Global Eye | Subscribe
-13:34
-1405/02/15
-
-
-
-
-src :@selena_updates
-[عکس]
-‏A cruise voyage from Argentina toward Cape Verde has come under international health scrutiny after an onboard cluster of suspected hantavirus infections left 3 passengers dead and several others ill, prompting monitoring by the World Health Organization. 
-‏
-‏According to preliminary findings, 7 cases have been identified, while authorities in Cape Verde have restricted disembarkation as a precaution. 
-‏
-‏Hantaviruses are typically transmitted to humans through exposure to infected rodents, and while rare instances of limited human-to-human transmission have been documented, particularly involving the Andes virus in South America, health officials stress that no definitive evidence yet confirms such spread aboard the vessel. 
-‏
-‏Investigations remain ongoing to determine whether the infections originated during earlier stops in South America or from exposure onboard, with global health authorities assessing the situation but maintaining that the broader public health risk currently appears low.
 13:34
 1405/02/15
 
@@ -4694,19 +4641,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@selena_updates
-[عکس]
-‏Ukraine launched a large-scale overnight strike involving drones and missiles against targets deep inside Russia, triggering air defenses across multiple regions. In Leningrad Region, 29 drones were intercepted, , while a fire broke out in an industrial zone in Kirishi, home to the Kinef oil refinery - one of the country’s largest refining facilities.
-‏
-‏Additional strikes were reported in Cheboksary, roughly 1,000 km from Ukraine, where drones and missiles targeted the VNIIR-Progress plant, a manufacturer of electronics used in Russian military systems. The scale of the operation extended further, with missile alerts issued in the Khanty-Mansi Autonomous Okrug, nearly 2,000 km from Ukraine and located in western Siberia.
-‏
-‏Russian forces also attacked Ukraine with 11 Iskander-M missiles and 175 UAVs. Air defense forces destroyed 1 missile and 149 drones. Impacts were recorded from 8 ballistic missiles and 14 attack UAVs across 14 locations. Debris from intercepted targets fell in 10 additional locations.
-11:07
-1405/02/15
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏هشدار صندوق بین‌المللی پول درباره اثرات تداوم جنگ خاورمیانه بر اقتصاد جهان
@@ -4924,17 +4858,6 @@ src :@Military_Times_Blog
 ‏
 ‏🆔@Military_Times_Blog
 08:04
-1405/02/15
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇮🇷 2 US Navy destroyers alongside Apache helicopters successfully cross the Strait of Hormuz.
-‏
-‏@BRICSNews
-06:12
 1405/02/15
 
 
@@ -5540,17 +5463,4 @@ src :@KayhanLondonChannel
 ‏
 ‏به گفته این شرکت، این شناور در زمان وقوع حمله بدون محموله بود و در این حادثه هیچ‌یک از خدمه آسیب ندیدند.
 20:33
-1405/02/14
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏قیمت دلار از ۱۹۰ هزار تومان گذشت؛ شرایط امنیتی در بازار ارز کشور
-‏
-‏قیمت دلار روز دوشنبه ۱۴ اردیبهشت ۱۴۰۵ از مرز ۱۹۰ هزار تومان عبور کرد. هر دلار آمریکا در بازار آزاد بین ۱۹۱ هزار تا ۱۹۱ هزار و ۴۰۰ تومان به فروش می‌رسد. 
-‏قیمت دیگر ارزها نیز با افزایش روبرو شده و همزمان جو امنیتی بر بازار حاکم، و با فشار نهادهای امنیتی اعلام نرخ ارز و طلا از سوی صرافی‌ها با تأخیر و توقف روبرو شده است.
-‏در بازار طلا هم قیمت‌ها افزایشی است و قیمت هر سکه کامل طلا از مرز ۲۰۷ میلیون تومان عبور کرده و قیمت هر گرم طلای ۱۸ عیار هم به مرز ۲۱ میلیون تومان نزدیک شده است.
-20:30
 1405/02/14
