@@ -1,3 +1,61 @@
+src :@didarnews1
+‏🔴رئیس ستاد ارتش آمریکا:
+‏
+‏🔹 به دنبال رویارویی نیستیم، بلکه به دنبال حفاظت از کشتیرانی در تنگه هرمز هستیم. 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+16:04
+1405/02/15
+
+
+
+
+src :@ClashReport
+[عکس]
+‏🥷 Türkiye’s Ninja Missile
+‏
+‏📸 ROKETSAN unveils Neşter smart gliding munition at SAHA 2026 in Istanbul. 
+‏
+‏— A variant of the MAM-L, it minimizes collateral damage by using a proximity sensor and a unique warhead with deployable cutting blades that activate just before impact. 
+‏
+‏— Instead of using explosives, it neutralizes targets through direct, high-precision kinetic action, making it suitable for pinpoint strikes rather than area destruction.
+16:04
+1405/02/15
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇱🇧🇮🇷🇮🇱 Hezbollah has released additional statements in relations to operations against Israeli forces:  “In response to the Israeli ceasefire violations and attacks on villages in southern Lebanon causing civilian casualties, we targeted an Israeli army D9…
+16:03
+1405/02/15
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡- Two US destroyers crossed the Strait of Hormuz and have entered the Persian Gulf, CBS reports.
+16:02
+1405/02/15
+
+
+
+
+src :@ManotoTV
+[عکس]
+‏سازمان جهانی بهداشت از احتمال انتقال انسان‌به‌انسان ویروس هانتا در یک کشتی کروز خبر داده؛ موضوعی نادر که نگرانی‌هایی تازه ایجاد کرده، هرچند گفته می‌شود خطر برای عموم پایین است.
+‏بر پایه گزارش‌ها هفت مورد ابتلا یا مشکوک در این کشتی ثبت شده و سه نفر، از جمله یک زوج هلندی و یک شهروند آلمانی، جان خود را از دست داده‌اند. یک مسافر بریتانیایی نیز به آفریقای جنوبی منتقل شده و در بخش مراقبت‌های ویژه تحت درمان است.
+‏این کشتی لوکس با حدود ۱۵۰ سرنشین، در نزدیکی کیپ‌ورد در اقیانوس اطلس سرگردان مانده و اجازه پهلوگیری ندارد؛ مسافرانی که در انتظار تصمیم مقام‌ها برای تخلیه و ادامه مسیر به جزایر قناری هستند.
+‏سازمان جهانی بهداشت می‌گوید منشأ اولیه ویروس احتمالا خارج از کشتی بوده، اما تماس نزدیک میان مسافران از جمله هم‌اتاقی‌ها ممکن است به انتقال محدود آن در داخل کشتی منجر شده باشد. این ویروس معمولا از طریق جوندگان منتقل می‌شود و سرایت انسانی در آن بسیار نادر است.
+16:02
+1405/02/15
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏سی‌بی‌اس نیوز: 
@@ -49,7 +107,9 @@ src :@rnintel
 
 
 src :@wfwitness
-‏⚡️🇱🇧🇮🇱 KAN: Hezbollah attempted to launch a SAM at an Israeli Air Force helicopter operating in southern Lebanon. The attack resulted in no damage or casualties.
+‏⚡️🇱🇧🇱🇧🇮🇱 IDF announced that Hezbollah unsuccessfully attempted to launch a SAM at an helicopter operating in southern Lebanon. The attack resulted in no damage or casualties.
+‏
+‏Hezbollah claimed responsibility for that, "achieving a confirmed hit".
 ‏
 ‏@wfwitness
 15:54
@@ -2223,24 +2283,6 @@ src :@defence_news
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇷🇦🇪 The Lebanese foreign minister Yussef Raji has condemned the Iranian attack on the United Arab Emirates.
-‏
-‏@wfwitness
-13:24
-1405/02/15
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli airstrike on the town of Zawtar Al sharqiya, southern Lebanon simultaneously Israeli artillery strike targets the town of Harouf.  @wfwitness
-13:23
-1405/02/15
-
-
-
-
 src :@didarnews1
 ‏🔴درخواست پاسخگویی درباره اینترنت به نمایندگی از ۴۵۰ هزار امضا
 ‏
@@ -2260,14 +2302,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-13:22
-1405/02/15
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 A wave of Israeli airstrikes on southern Lebanon.  @wfwitness
 13:22
 1405/02/15
 
@@ -2810,23 +2844,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 12:18
-1405/02/15
-
-
-
-
-src :@ClashReport
-[عکس]
-‏📸 Türkiye showcases its TAYFUN Block 4 hypersonic ballistic missile at SAHA 2026 in Istanbul.
-‏
-‏Developed by ROKETSAN, this is the largest and most powerful version of the TAYFUN family, and Türkiye’s longest-range domestic ballistic missile (range undisclosed).
-‏
-‏• Length: ~10 m
-‏• Weight: ~7.2 tons
-‏• Speed: Mach 5+ (hypersonic)
-‏
-‏First unveiled at IDEF 2025, now displayed on its 8x8 launcher at SAHA.
-12:17
 1405/02/15
 
 
@@ -3907,27 +3924,6 @@ src :@cataphract1
 src :@rnintel
 ‏🇺🇸⚡- The alleged Palisades arsonist, Jonathan Rinderknecht, ignited the fires “out of resentment of the rich” and in an effort to copycat Luigi Mangione, where he ranted to his Uber customers about the killing of Brian Thompson and queried “Free Luigi Mangione” frequently online.
 08:32
-1405/02/15
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴اینترنت طبقاتی ، فساد و تبعیض شدید به همراه می آورد/ در «میدان نت» با لشکر بزرگ میلیونی مردم باید مبارزه کرد!
-‏
-‏
-‏عباس عبدی در روزنامه اعتماد نوشت: 
-‏🔹این میدان به طرز عجیبی از ابتدای آمدن اینترنت فعال بود و جنگی دایمی در آن قرار داشت و با اطمینان می‌توان گفت که بیشترین خسارت به رابطه حکومت و مردم و حتی در اقتصاد در این میدان زده شده، زیرا پیش از دو دهه است که با شدت هر چه تمام‌تر ادامه داشته و به جنگ بی‌پایان میان دو طرف تبدیل شده است.
-‏
-‏🔹تردیدی نیست که تلفات سیاسی، عاطفی، اقتصادی آن از هر میدان دیگری بیشتر بوده و بدتر از همه اینکه طی سه ماه اخیر آتش این جنگ شعله‌ورتر شده و در حال گرفتن قربانیان و خسارت بیشتری است.
-‏
-‏🔹سود حاصل از فروش اینترنت طبقاتی در برابر سود ناشی از باز بودن اینترنت بسیار بسیار اندک است ولی مهم‌تر از آن، هزینه و منافع سیاسی و روانی است که در «میدان نت» با لشکر بزرگ ده‌ها میلیونی مردم باید مبارزه کرد و طبقاتی کردن آن آثار وحشتناکی دارد که باز کردنش برعکس بسیار سودمند است
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:28
 1405/02/15
 
 
