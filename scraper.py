@@ -10,18 +10,17 @@ import os
 tehran_tz = pytz.timezone('Asia/Tehran')
 
 def get_media_tag(msg_div):
-    # بررسی انواع رسانه با سلکتورهای آپدیت شده
-    has_video = msg_div.select_one('.tgme_widget_message_video_player, .tgme_widget_message_video, .js-message_video') is not None
-    has_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None
-    has_gif = msg_div.select_one('.videogif, .js-message_video_player.videogif') is not None
-    has_doc = msg_div.select_one('.tgme_widget_message_document') is not None
-    
-    # اولویت‌بندی نمایش تگ
-    if has_photo and has_video: return "[عکس و ویدئو]"
-    if has_gif: return "[گیف]"
-    if has_video: return "[ویدئو]"
-    if has_photo: return "[عکس]"
-    if has_doc: return "[فایل]"
+    # بررسی دقیق ویدئو با استفاده از HTML ارسالی شما
+    is_video = msg_div.select_one('.tgme_widget_message_video_player, .tgme_widget_message_video, video, .message_video_duration') is not None
+    is_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None
+    is_gif = msg_div.select_one('.videogif') is not None
+    is_doc = msg_div.select_one('.tgme_widget_message_document') is not None
+
+    if is_photo and is_video: return "[عکس و ویدئو]"
+    if is_gif: return "[گیف]"
+    if is_video: return "[ویدئو]"
+    if is_photo: return "[عکس]"
+    if is_doc: return "[فایل]"
     return ""
 
 def format_text(text):
@@ -32,7 +31,7 @@ def format_text(text):
 
 def run_scraper_logic(input_file, output_file):
     if not os.path.exists(input_file):
-        print(f"فایل {input_file} پیدا نشد. صرف‌نظر شد.")
+        print(f"فایل {input_file} پیدا نشد.")
         return
 
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -42,21 +41,25 @@ def run_scraper_logic(input_file, output_file):
     now_utc = datetime.now(pytz.utc)
     cutoff_time = now_utc - timedelta(hours=24)
 
+    # هدر برای دور زدن محدودیت تلگرام و دریافت نسخه کامل سایت
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept-Language': 'en-US,en;q=0.9'
+    }
+
     for channel in channels:
-        print(f"در حال استخراج از {input_file}: {channel}...")
+        print(f"در حال استخراج از: {channel}...")
         url = f"https://t.me/s/{channel}"
         try:
-            res = requests.get(url, timeout=15)
+            res = requests.get(url, headers=headers, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
+            
+            # پیدا کردن تمام بلاک‌های پیام
             messages = soup.select('.tgme_widget_message')
             
             for msg in messages:
-                # ۱. فیلتر نظرسنجی (خط قرمز)
-                if msg.select_one('.tgme_widget_message_poll'):
-                    continue
-                
-                # ۲. فیلتر پیام‌های سرویس مثل Pinned photo یا Join (خط قرمز)
-                if msg.select_one('.tgme_widget_message_service'):
+                # خط قرمز: حذف نظرسنجی و پیام‌های سیستمی (Pinned و غیره)
+                if msg.select_one('.tgme_widget_message_poll') or msg.select_one('.tgme_widget_message_service'):
                     continue
 
                 time_tag = msg.select_one('time')
@@ -67,18 +70,19 @@ def run_scraper_logic(input_file, output_file):
                 if post_dt_utc < cutoff_time:
                     continue
 
-                # استخراج متن پست
+                # استخراج متن (کپشن ویدئو یا متن عادی)
                 text_div = msg.select_one('.tgme_widget_message_text')
+                post_text = ""
                 if text_div:
-                    for br in text_div.find_all("br"): br.replace_with("\n")
+                    # جایگزینی <br> با خط جدید برای حفظ ساختار متن
+                    for br in text_div.find_all("br"):
+                        br.replace_with("\n")
                     post_text = text_div.get_text().strip()
-                else:
-                    post_text = ""
 
-                # تشخیص نوع رسانه
+                # تشخیص نوع رسانه با متد جدید
                 media_tag = get_media_tag(msg)
 
-                # ذخیره پست اگر متن یا رسانه داشته باشد
+                # اگر متن داشت یا رسانه بود، ذخیره کن
                 if post_text or media_tag:
                     dt_tehran = post_dt_utc.astimezone(tehran_tz)
                     shamsi_date = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
@@ -93,13 +97,11 @@ def run_scraper_logic(input_file, output_file):
                     })
 
         except Exception as e:
-            print(f"خطا در کانال {channel}: {e}")
-        time.sleep(1.2)
+            print(f"خطا در {channel}: {e}")
+        time.sleep(1.5)
 
-    # مرتب‌سازی (جدیدترین اول)
     all_posts.sort(key=lambda x: x['timestamp'], reverse=True)
 
-    # ساخت محتوای خروجی
     output_content = ""
     for post in all_posts:
         entry = f"src :@{post['channel']}\n"
@@ -111,7 +113,7 @@ def run_scraper_logic(input_file, output_file):
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(output_content.strip())
-    print(f"خروجی در {output_file} با {len(all_posts)} پست ذخیره شد.")
+    print(f"خروجی در {output_file} با {len(all_posts)} پست آماده شد.")
 
 def main():
     run_scraper_logic('channels1.txt', 'output1.txt')
