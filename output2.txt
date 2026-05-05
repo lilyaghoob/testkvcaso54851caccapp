@@ -1267,19 +1267,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇦🇪🇸🇦🇮🇷The Saudi Foreign Ministry announced that Saudi Crown Prince Mohammed bin Salman held a phone call with President of the UAE Sheikh Mohamed bin Zayed Al Nahyan. 
-‏
-‏Bin Salman condemned the Iranian strikes on the UAE today, reaffirming Saudi support for Emirati security and stability.
-‏
-‏@wfwitness
-01:00
-1405/02/15
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️شرکت هواپیمایی مصر پروازهای خود به فرودگاه‌های دبی، ابوظبی و شارجه را تا اطلاع ثانوی به حالت تعلیق درآورد
 ‏
