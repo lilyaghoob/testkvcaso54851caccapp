@@ -1,6 +1,14 @@
+src :@rnintel
+‏🇷🇺🇺🇦⚡- Russia announces it will cease fire on the 8th and 9th of May for Victory Day, and hopes Ukraine does the same.  Russia's Ministry of Defense warns it will strike Kiev, which Moscow already does every other day, if Ukraine breaks the ceasefire.
+00:43
+1405/02/16
+
+
+
+
 src :@GeoPWatch
 [عکس]
-‏🇮🇶🇮🇷- Residents in northern and eastern Iraq, as well as residents in western Iran, experienced a magnitude 4.8 earthquake that occured near Sarpol-e Zahab, Iran, about 20 minutes ago. There are no reports of casualties as of yet.
+‏🇮🇶🇮🇷- Residents in northern and eastern Iraq, as well as residents in western Iran, experienced a magnitude 4.8 earthquake that occured near Sarpol-e Zahab, Iran, about 25 minutes ago. There are no reports of casualties as of yet.
 ‏
 ‏@GeoPWatch
 00:40
@@ -49,6 +57,7 @@ src :@BellumActaNews
 
 src :@MilitiaNews
 ‏🇮🇷 به گزارش NYT، حدود 1600 کشتی در شرایط خطرناک در نزدیکی تنگه هرمز سرگردان هستند و تقریباً 20000 دریانورد همچنان در نتیجه محاصره در کشتی هستند
+‏
 ‏- Patrick
 ‏@MilitiaNews | میلیشا را دنبال کنید
 00:32
@@ -296,14 +305,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 00:17
-1405/02/16
-
-
-
-
-src :@mwarmonitor
-‏📝 نظر یا پیشنهادی دارید خوشحال می‌شوم بشنوم
-00:14
 1405/02/16
 
 
@@ -2136,21 +2137,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@P_raetorio
-[عکس]
-‏⚜بر اساس تصاویر ماهواره ای تایید شده که دو ناوشکن آمریکایی از تنگه هرمز گذشته و در نزدیکی امارات هستند
-‏
-‏موقعیت دو ناوشکن:
-‏25.4042, 54.7606
-‏25.4562, 54.7382
-‏✒️#LT
-‏📃@Cataphract1
-21:54
-1405/02/15
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️سخنگوی قرارگاه خاتم الانبیاء:
 ‏
@@ -3375,6 +3361,16 @@ src :@Military_Times_Blog
 
 
 
+src :@mwarmonitor
+‏🚨 بلومبرگ به نقل از داده‌های تانکر ترکِرز: یک نفتکش ایرانی احتمالاً موفق شده محاصره آمریکا را دور بزند. 
+‏
+‏@mwarmonitor
+18:39
+1405/02/15
+
+
+
+
 src :@Mena_Live
 [عکس]
 ‏🇲🇦⚡️🏴 Polisario Terrorist Group backed by Algeria launched missiles that landed in the city of Smara, preliminary reports indicate the Missiles are Iranian made.
@@ -3782,14 +3778,6 @@ src :@intelslava
 src :@rus_cosmos
 ‏مقامات امارات متحده عربی گزارش می‌دهند که در حال رهگیری پهپادها و موشک‌های ایران هستند.
 17:59
-1405/02/15
-
-
-
-
-src :@rnintel
-‏🇦🇪🇮🇷⚡️- Reports of ongoing interceptions over the UAE.
-17:58
 1405/02/15
 
 
