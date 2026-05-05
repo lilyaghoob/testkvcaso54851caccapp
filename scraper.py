@@ -10,34 +10,37 @@ import os
 tehran_tz = pytz.timezone('Asia/Tehran')
 
 def get_media_tag(msg_div):
-    # ۱. نشانه‌های ویدئو (بسیار دقیق‌تر: جستجوی لیبل زمان یا آیکون ویدئو)
-    is_video = (
+    # ۱. شناسایی دقیق ویدئو (حتی در آلبوم‌ها و پست‌های ترکیبی)
+    # جستجو برای لیبل زمان، آیکون پلی، یا تگ ویدئو در تمام زیرلایه‌ها
+    has_video = (
+        msg_div.select_one('.tgme_widget_message_video_duration') is not None or 
         msg_div.select_one('.tgme_widget_message_video_player') is not None or
-        msg_div.select_one('.tgme_widget_message_video') is not None or
-        msg_div.select_one('.tgme_widget_message_video_duration') is not None or  # لیبل زمان ویدئو
-        msg_div.select_one('.tgme_widget_message_roundvideo_wrap') is not None or # ویدئو دایره‌ای
-        msg_div.select_one('video') is not None
+        msg_div.select_one('.tgme_widget_message_video_icon') is not None or
+        msg_div.select_one('video') is not None or
+        msg_div.select_one('.tgme_widget_message_roundvideo_wrap') is not None
     )
     
-    # ۲. نشانه‌های عکس
-    is_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None
+    # ۲. شناسایی عکس (در پست تکی یا آلبوم)
+    has_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None or msg_div.select_one('.tgme_widget_message_grouped_layer') is not None
     
-    # ۳. نشانه‌های گیف (تلگرام وب کلاس اختصاصی دارد)
-    is_gif = msg_div.select_one('.videogif') is not None or msg_div.select_one('.tgme_widget_message_videogif') is not None
+    # ۳. شناسایی گیف
+    has_gif = msg_div.select_one('.videogif') is not None or msg_div.select_one('.tgme_widget_message_videogif') is not None
     
-    # ۴. سایر رسانه‌ها
-    is_voice = msg_div.select_one('.tgme_widget_message_voice_player') is not None
-    is_poll = msg_div.select_one('.tgme_widget_message_poll') is not None
-    is_doc = msg_div.select_one('.tgme_widget_message_document') is not None
+    # ۴. شناسایی پیام صوتی (Voice)
+    has_voice = msg_div.select_one('.tgme_widget_message_voice_player') is not None
+    
+    # ۵. سایر موارد
+    has_poll = msg_div.select_one('.tgme_widget_message_poll') is not None
+    has_doc = msg_div.select_one('.tgme_widget_message_document') is not None
 
     # اولویت‌بندی خروجی طبق درخواست شما
-    if is_photo and is_video: return "[عکس و ویدئو]"
-    if is_voice: return "[پیام صوتی]"
-    if is_gif: return "[گیف]"
-    if is_video: return "[ویدئو]"
-    if is_photo: return "[عکس]"
-    if is_poll: return "[نظرسنجی]"
-    if is_doc: return "[فایل]"
+    if has_photo and has_video: return "[عکس و ویدئو]"
+    if has_voice: return "[پیام صوتی]"
+    if has_gif: return "[گیف]"
+    if has_video: return "[ویدئو]"
+    if has_photo: return "[عکس]"
+    if has_poll: return "[نظرسنجی]"
+    if has_doc: return "[فایل]"
     return ""
 
 def format_text(text):
@@ -62,15 +65,15 @@ def run_scraper_logic(input_file, output_file):
         print(f"در حال استخراج از {input_file}: {channel}...")
         url = f"https://t.me/s/{channel}"
         try:
-            # هدر مرورگر برای دریافت محتوای کامل
+            # اضافه کردن User-Agent برای اینکه تلگرام نسخه کامل HTML رو بفرسته
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
             res = requests.get(url, headers=headers, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
             messages = soup.select('.tgme_widget_message')
             
             for msg in messages:
-                # حذف پیام‌های پین شده (Service Messages)
-                if msg.select_one('.tgme_widget_message_service') is not None:
+                # اصلاح: نادیده گرفتن پیام‌های پین‌شدن یا تغییر عکس کانال (Service Messages)
+                if msg.select_one('.tgme_widget_message_service'):
                     continue
 
                 time_tag = msg.select_one('time')
@@ -90,7 +93,7 @@ def run_scraper_logic(input_file, output_file):
 
                 media_tag = get_media_tag(msg)
 
-                # ذخیره پست اگر متن دارد یا شامل رسانه است
+                # ذخیره پست در صورتی که متن یا رسانه داشته باشد
                 if post_text.strip() or media_tag:
                     dt_tehran = post_dt_utc.astimezone(tehran_tz)
                     shamsi_date = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
