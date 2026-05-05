@@ -9,21 +9,6 @@ import os
 # تنظیمات زمان
 tehran_tz = pytz.timezone('Asia/Tehran')
 
-def get_media_tag(msg_div):
-    has_photo = msg_div.select_one('.tgme_widget_message_photo_wrap') is not None
-    has_video = msg_div.select_one('.tgme_widget_message_video') is not None
-    has_poll = msg_div.select_one('.tgme_widget_message_poll') is not None
-    has_doc = msg_div.select_one('.tgme_widget_message_document') is not None
-    has_gif = msg_div.select_one('.videogif') is not None
-
-    if has_photo and has_video: return "[عکس و ویدئو]"
-    if has_gif: return "[گیف]"
-    if has_photo: return "[عکس]"
-    if has_video: return "[ویدئو]"
-    if has_poll: return "[نظرسنجی]"
-    if has_doc: return "[فایل]"
-    return ""
-
 def format_text(text):
     if not text: return ""
     rlm = "\u200F"
@@ -51,6 +36,14 @@ def run_scraper_logic(input_file, output_file):
             messages = soup.select('.tgme_widget_message')
             
             for msg in messages:
+                # خط قرمز ۱: فیلتر کردن پست‌های نظرسنجی
+                if msg.select_one('.tgme_widget_message_poll'):
+                    continue
+                
+                # خط قرمز ۲: فیلتر کردن پیام‌های سرویس (مثل Pinned a photo یا ایجاد کانال)
+                if msg.select_one('.tgme_widget_message_service'):
+                    continue
+
                 time_tag = msg.select_one('time')
                 if not time_tag or not time_tag.has_attr('datetime'):
                     continue
@@ -59,23 +52,22 @@ def run_scraper_logic(input_file, output_file):
                 if post_dt_utc < cutoff_time:
                     continue
 
+                # استخراج متن
                 text_div = msg.select_one('.tgme_widget_message_text')
                 if text_div:
                     for br in text_div.find_all("br"): br.replace_with("\n")
-                    post_text = text_div.get_text()
+                    post_text = text_div.get_text().strip()
                 else:
                     post_text = ""
 
-                media_tag = get_media_tag(msg)
-
-                if post_text or media_tag:
+                # چون فرمودید "مهم متنه"، فقط در صورتی که متن وجود داشته باشد پست را اضافه می‌کنیم
+                if post_text:
                     dt_tehran = post_dt_utc.astimezone(tehran_tz)
                     shamsi_date = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
                     
                     all_posts.append({
                         'timestamp': post_dt_utc,
                         'channel': channel,
-                        'media': media_tag,
                         'text': post_text,
                         'time_str': dt_tehran.strftime('%H:%M'),
                         'date_str': shamsi_date.strftime('%Y/%m/%d')
@@ -92,8 +84,8 @@ def run_scraper_logic(input_file, output_file):
     output_content = ""
     for post in all_posts:
         entry = f"src :@{post['channel']}\n"
-        if post['media']: entry += f"{post['media']}\n"
-        if post['text']: entry += f"{format_text(post['text'])}\n"
+        # بخش تگ رسانه کاملاً از خروجی حذف شد
+        entry += f"{format_text(post['text'])}\n"
         entry += f"{post['time_str']}\n"
         entry += f"{post['date_str']}\n"
         output_content += entry + "\n\n\n\n"
