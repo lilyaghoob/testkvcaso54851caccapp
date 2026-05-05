@@ -1,3 +1,42 @@
+src :@rus_cosmos
+[عکس]
+‏دو انفجار در جزیره قشم گزارش شده است.
+‏
+‏این جزیره مستقیماً در تنگه هرمز قرار دارد و بزرگترین جزیره منفرد در این آبراه باریک است. علت انفجارها مشخص نیست.
+01:40
+1405/02/16
+
+
+
+
+src :@GeoPWatch
+‏⚡️🇱🇧🇱🇧❌🇮🇱 - Hezbollah announced targeting an IDF Infantry gathering using an FPV drone in southern Lebanon's 'Qantara' at 23:45.
+‏
+‏@GeoPWatch
+01:39
+1405/02/16
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، در ایکس نوشت: «رییس‌جمهور آمریکا، وزیر جنگ و رئیس ستاد ارتش آمریکا یک ویژگی مشترک دارند: خیالبافی‌هایشان را به‌جای دستاورد جا می‌زنند.»
+‏https://iranintl.com/202605059557
+01:39
+1405/02/16
+
+
+
+
+src :@BellumActaNews
+‏🇮🇷💥❗️ — 2x blasts heard in Qeshm Island, Southern Iran
+01:39
+1405/02/16
+
+
+
+
 src :@Mena_Live
 ‏‼️🇮🇷 Explosions heard in Qashem Island, Iran.
 ‏
@@ -1032,19 +1071,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran has launched a new system regulating vessel passage through the Strait of Hormuz, according to state TV.
-‏
-‏Ships must first notify Iranian authorities, then receive an electronic message outlining navigation rules. After accepting these terms, they are granted a transit permit.
-‏
-‏Permits will be issued by a newly established government body.
-23:46
-1405/02/15
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏هند از پهپاد تهاجمی جدید «دیویسترا Mk-2» با بردی در حدود ۱۵۰۰ تا ۲۰۰۰ کیلومتر رونمایی کرده است.
@@ -1878,16 +1904,6 @@ src :@jangaavaran1390
 ‏
 ‏تقریباً ۲۳٬۰۰۰ غیرنظامی از ۸۷ کشور مختلف که در خلیج فارس گرفتار شده‌اند
 ‏می‌دانید، بیش از دو ماه است که این ملوانان بی‌گناه و اعضای خدمه تجاری در دریا سرگردان مانده‌اند."
-22:53
-1405/02/15
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی چشم‌انداز: پایان قلدری و باج‌گیری سپاه در تنگه هرمز؟!
-‏@iranintlTV
 22:53
 1405/02/15
 
@@ -2807,17 +2823,6 @@ src :@ircfspace
 
 
 
-src :@ClashReport
-[عکس]
-‏The White House privately warned Iran before launching the U.S. operation to escort ships through the Strait of Hormuz, aiming to avoid escalation.
-‏
-‏Source: Axios
-20:48
-1405/02/15
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷 🇮🇷 IRGC Navy:
@@ -3181,29 +3186,6 @@ src :@WAR_ROOM_NEWS
 ‏فارسی: 
 ‏https://kiwix.bokhary.fun/viewer#wikipedia_fa_all_maxi_2026-01/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C
 19:38
-1405/02/15
-
-
-
-
-src :@GeoPWatch
-[ویدئو]
-‏— Dear subscribers, join our affiliates folder: WAR FILES
-‏
-‏WAR FILES is a curated collective of independent news channels and conflict monitors — united by one mission: accurate, fast, and uncompromising coverage of global conflicts and geopolitical developments.
-‏
-‏We don’t chase headlines — we document, verify, and expose.
-‏Every channel in this folder shares a commitment to truth over trend, facts over propaganda, and depth over noise.
-‏
-‏Our network spans multiple regions and perspectives — military analysts, field observers, journalists, and open-source researchers — giving you a 360° understanding of events as they unfold.
-‏Diversity of thought is encouraged; misinformation is not tolerated.
-‏
-‏Expect real-time updates, field reports, verified intelligence, and analytical breakdowns of ongoing wars, defense movements, and regional flashpoints.
-‏
-‏If you seek clarity amid chaos — if you want coverage that cuts through bias and distortion — then WAR FILES is for you.
-‏
-‏Join WAR FILES 👉 [https://t.me/addlist/PNefmPQS3CJhZGUy]
-19:36
 1405/02/15
 
 
@@ -5403,15 +5385,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/02/14/401582
 10:24
-1405/02/15
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏یک هواپیمای سوخترسان آمریکایی در خلیج فارس کد اضطراری ۷۷۰۰ برای فرود اضطراری ارسال کرد.
-10:09
 1405/02/15
 
 
