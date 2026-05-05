@@ -1,10 +1,99 @@
+src :@tglobaleye
+[عکس]
+‏#NEWS | 🇺🇸 🇷🇺 — Russian Foreign Minister Sergey Lavrov held a telephone conversation with US Secretary of State Marco Rubio today.
+‏
+‏According to the Russian Foreign Ministry, the ministers discussed the current international situation, Russian-American relations, and the timetable for future bilateral contacts. The call was described as constructive.
+‏
+‏The Global Eye | Subscribe
+20:51
+1405/02/15
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏نیروی دریایی سپاه پاسداران روز سه‌شنبه در بیانیه‌ای خطاب به شناورهایی که قصد عبور از تنگه هرمز را دارند اعلام کرد تنها مسیر ایمن عبور از تنگه هرمز «کریدور اعلام‌شده از سوی جمهوری اسلامی» است و هرگونه انحراف با برخورد قاطع نیروی دریایی سپاه مواجه خواهد شد.
+‏https://iranintl.com/202605052960
+20:50
+1405/02/15
+
+
+
+
+src :@MilitarryWorld
+‏⭕️کان: اسرائیل و ایالات متحده در حال هماهنگی گام‌ها در پیش‌بینی احتمال از سرگیری درگیری‌ها با ایران هستند.
+‏
+‏مقامات آمریکایی به طور علنی می‌گویند که حملات ایرانی بهانه‌ای برای حمله به ایران نیست، اما سطح هشدار بالا باقی مانده است.
+‏
+‏@MilitarryWorld | Parsa
+20:50
+1405/02/15
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸حادث إطلاق نار بالقرب من ساحة كي تاون بلازا في كارولتون، بولاية تكساس؛ إصابة 5 أشخاص كحصيلة أولية.
+20:49
+1405/02/15
+
+
+
+
+src :@ircfspace
+[عکس]
+‏نسخه ۲ از اپ متن‌باز و رایگان TeleMirror برای دریافت آخرین مطالب کانال‌های تلگرام در شرایط محدودیت شدید اینترنت منتشر شد. 
+‏در این‌نسخه بیلد لینوکس و مک هم در کنار ویندوز اضافه شده، برنامه چندزبانه شده و یه سری از مشکلات برطرف شدن. 
+‏
+‏این برنامه فیلترشکن نیست و به وایت‌لیست فعلی اینترنت متکیه، بنابراین ممکنه روی یکسری از اینترنت‌ها کار نکنه.
+‏
+‏👉 github.com/ircfspace/teleMirror/releases/latest
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+20:49
+1405/02/15
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The White House privately warned Iran before launching the U.S. operation to escort ships through the Strait of Hormuz, aiming to avoid escalation.
+‏
+‏Source: Axios
+20:48
+1405/02/15
+
+
+
+
+src :@jangaavaran1390
+‏سپاه پاسداران انقلاب اسلامی هشدار جدیدی به شناورها در تنگه هرمز صادر کرد: «تنها مسیر عبور امن در تنگه هرمز، مسیر تعیین شده قبلی ایران است. انحراف به مسیرهای دیگر ناامن تلقی شده و با واکنش قاطع سپاه پاسداران مواجه خواهد شد»
+20:48
+1405/02/15
+
+
+
+
+src :@jangaavaran1390
+‏کان: اسرائیل و ایالات متحده در حال هماهنگی گام‌ها در پیش‌بینی احتمال از سرگیری درگیری‌ها با ایران هستند.
+‏
+‏مقامات آمریکایی به طور علنی می‌گویند که حملات ایرانی بهانه‌ای برای حمله به ایران نیست، اما سطح هشدار بالا باقی مانده است.
+20:47
+1405/02/15
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷 🇮🇷 IRGC Navy:
 ‏
 ‏‘We once again warn all vessels intending to pass through the Strait that the only safe route for passing the Strait of Hormuz is through the corridor previously announced by the Islamic Republic of Iran. 
 ‏
-‏Deviation of vessels to other routes will be considered unsafe, and will face a decisive response from the Islamic Revolutionary Guard Corps Navy.’
+‏Deviation of vessels to other routes is unsafe and will face a decisive response from the Islamic Revolutionary Guard Corps Navy.’
 ‏
 ‏@Middle_East_Spectatoe
 20:47
@@ -371,17 +460,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 20:14
-1405/02/15
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇱🇧🇱🇧 Images of Israeli airstrikes targeting Zawtar El Charqiyeh (North of the Litani) and Habbouch (South of the Litani).
-‏
-‏@wfwitness
-20:13
 1405/02/15
 
 
@@ -1162,16 +1240,6 @@ src :@P_raetorio
 
 
 
-src :@IranintlTV
-[عکس]
-‏محمد بن زاید آل نهیان، رییس امارات متحده عربی، اعلام کرد که این کشور با تکیه بر توانمندی نیروهای مسلح، انسجام اجتماعی و قدرت الگوی حکمرانی خود، قادر است هرگونه تجاوز را با کارآمدی پاسخ دهد. امارات متحده عربی در برابر هر تهدید علیه حاکمیت، امنیت و سلامت شهروندان و ساکنان خود با قاطعیت و قدرت برخورد خواهد کرد.
-‏https://iranintl.com/202605057411
-19:04
-1405/02/15
-
-
-
-
 src :@ManotoTV
 [عکس]
 ‏پریسا، خواهر پرهام آقامحمدی، جان‌باخته دی ۱۴۰۴ تصویری از خود در لباس فارغ‌التحصیلی در کنار مزار برادر منتشر کرده و نوشته است: «آرزوم بود تو جلسه دفاع‌ام باشی؛ آرزوم بود کلاه فارغ التحصیلی رو تو روی سرم بذاری. الان آرزوم نابودی هرکسی هست که تورو از من گرفت» این خواهر دست‌نوشته‌ای در دست دارد که برآن نوشته شده «تو جونت را گذاشتی برای آزادی، من عمرم را می‌گذارم برای آزادی» پرهام آقامحمدی متولد ۱۳۷۲ کارشناس معماری بود که ۱۹ دی ۱۴۰۴ در تهران با شلیک مستقیم ماموران جمهوری‌اسلامی کشته شد.
@@ -1586,14 +1654,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-[عکس]
-18:36
-1405/02/15
-
-
-
-
 src :@P_raetorio
 ‏«دولت ترامپ برای جلوگیری از نفوذ جمهوری اسلامی ایران بر دریای سرخ قرار است روابط خود را دولت اریتره مجددا برقرار و تحریم های این کشور را امروز برداشت. اریتره 700 کیلومتر مرز در دریای سرخ دارد و در روبروی منطقه تحت کنترل حوثی ها قرار دارد و احتمالا آمریکایی ها می‌خواهند با افزایش نفوذ در این کشور به این طرح مقابله کنند.حکومت اریتره پیشتر به دلیل حمایت از گروه‌هایی مانند الشباب در لیست تحریم های بین‌المللی آمریکایی‌ها قرار گرفته بود.»
 ‏
@@ -1845,14 +1905,6 @@ src :@Indypersian
 ‏
 ‏روز دوشنبه نیز امارات هدف ۱۲ موشک بالستیک، ۳ موشک کروز و ۴ پهپاد قرار گرفته بود. 
 ‏@indypersian
-18:20
-1405/02/15
-
-
-
-
-src :@jangaavaran1390
-‏یکی از بزرگ‌ترین شرکت‌های کشتیرانی جهان اعلام کرد که عبور از تنگه هرمز هنوز ممکن نیست، طبق گزارش اشیوتپرس. در بیانیه‌ای از سوی این شرکت که مقر آن در آلمان است، آمده است: «در این مرحله ارزیابی ریسک ما بدون تغییر باقی مانده است. عبور از تنگه هرمز در حال حاضر برای کشتی‌های ما ممکن نیست»
 18:20
 1405/02/15
 
@@ -2560,14 +2612,6 @@ src :@P_raetorio
 
 
 
-src :@naya_foriraq
-‏هجوم مزدوج صاروخي ومسير
-17:45
-1405/02/15
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇦🇪- Alerts in the UAE.
 17:45
@@ -2587,14 +2631,6 @@ src :@WAR_ROOM_NEWS
 src :@GeoPWatch
 [عکس]
 ‏🇮🇷❌🇦🇪- Alerts in the UAE.
-17:45
-1405/02/15
-
-
-
-
-src :@naya_foriraq
-‏انفجارات تهز الامارات
 17:45
 1405/02/15
 
@@ -2814,19 +2850,6 @@ src :@ClashReport
 ‏• Thrust: 42,000 lbf
 ‏• Diameter: ~465 in
 ‏• Airflow: 330 lb/s
-17:24
-1405/02/15
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭕️آتش‌سوزی در پاساژ ارغوان فاز ۴ اندیشه
-‏
-‏دود ناشی از این آتش‌سوزی از سمت غرب تهران و حوالی کرج قابل رویت است.
-‏
-‏@MilitarryWorld | Maverick
 17:24
 1405/02/15
 
@@ -3917,15 +3940,6 @@ src :@DEJradio
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱⚡️ — 29 House Democrats are calling on the Trump administration to acknowledge Israel’s undeclared nuclear weapons program, potentially breaking with decades of U.S. policy over what has been an open secret since the 1960s, WaPo reports.
-14:27
-1405/02/15
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜️ به گفته نیروی هوایی ایالات متحده و بویینگ موتورهای نسل جدید F-130 رولز-رویس به بمب‌افکنهای ‌B-52 این امکان را میدهند که با مصرف سوخت کمتر و برد بسیار بیشتر عملیاتهای خود را انجام دهند.
@@ -4833,19 +4847,6 @@ src :@Military_Times_Blog
 ‏
 ‏🆔@Military_Times_Blog
 09:42
-1405/02/15
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇷🇺 🇺🇦⚡️— The Kinef oil refinery in Kirishi, Leningrad Region, was attacked by drones last night.
-‏
-‏According to Leningrad Region Governor Drozdenchko, 29 drones were shot down. 
-‏
-‏🇪🇺 Legion Europa | Group Chat 🇪🇺
-09:37
 1405/02/15
 
 
