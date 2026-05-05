@@ -1,3 +1,48 @@
+src :@GeoPWatch
+‏🇮🇷 — Initial reports of an explosion in Bushehr.
+02:03
+1405/02/16
+
+
+
+
+src :@Mena_Live
+‏Iraqi Customs Authority:
+‏
+‏The entry of the first three commercial shipments coming from the Syrian side through the Rabia (Al-Yarubiyah) border crossing
+‏
+‏The step reflects the resumption of commercial activity and the enhancement of economic exchange between the two countries.
+‏
+‏@Mena_Live
+02:02
+1405/02/16
+
+
+
+
+src :@World_Newsly
+‏🔴  گزارش از انفجار در بوشهر و بندرعباس
+‏
+‏✍🏻 Master
+‏▪️@World_Newsly
+02:00
+1405/02/16
+
+
+
+
+src :@World_Newsly
+‏🔴 دو انفجار در جزیره قشم، ایران گزارش شده است.
+‏این جزیره مستقیماً در تنگه هرمز قرار دارد و بزرگترین جزیره در این مسیر آبی باریک است. علت انفجارها نامشخص است.
+‏
+‏✍🏻 Master
+‏▪️@World_Newsly
+01:59
+1405/02/16
+
+
+
+
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی سیاست با مراد ویسی: انتظار برای تصمیم ترامپ؛ حمله یا ادامه محاصره؟
@@ -1433,29 +1478,6 @@ src :@GeoPWatch
 
 
 
-src :@World_Newsly
-‏🔴 مارکو روبیو: هیچ مشکلی بین دولت لبنان و دولت اسرائیل وجود ندارد.
-‏اسرائیل هیچ ادعایی بر سر زمین در لبنان ندارد.
-‏
-‏✍🏻 Hector
-‏▪️@World_Newsly
-23:28
-1405/02/15
-
-
-
-
-src :@World_Newsly
-‏🔴 روبیو : عملیات «خشم حماسی» تمام شده؛ ما از آن فاز عبور کرده ایم
-‏
-‏✍🏻 Hector
-‏▪️@World_Newsly
-23:28
-1405/02/15
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏یک کشتی تجاری دیگر در تنگه هرمز هدف اصابت پرتابه ناشناس قرار گرفته است 
@@ -2371,21 +2393,6 @@ src :@defence_news
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️پرس‌تی‌وی، شبکه انگلیسی‌زبان صداوسیمای جمهوری اسلامی، سه‌شنبه ۱۵ اردیبهشت اعلام کرد تهران یک سازوکار جدید برای مدیریت عبور کشتی‌ها از تنگه هرمز ایجاد کرده است.
-‏
-‏بر اساس این گزارش، کشتی‌هایی که قصد عبور از تنگه هرمز را دارند از طریق یک آدرس ایمیل از ضوابط عبور مطلع می‌شوند و پس از تطبیق با این چارچوب، مجوز عبور دریافت می‌کنند.
-‏
-‏این وضعیت در حالی است که هم‌زمان با محاصره دریایی آمریکا علیه ایران، تهران نیز تنگه هرمز را بسته و محدودیت‌های سخت‌گیرانه‌تری بر تردد دریایی اعمال کرده است.
-‏ 
-‏@indypersian
-21:55
-1405/02/15
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏⚜بر اساس تصاویر ماهواره ای تایید شده که دو ناوشکن آمریکایی از تنگه هرمز گذشته و در نزدیکی امارات هستند  موقعیت دو ناوشکن: 25.4042, 54.7606 25.4562, 54.7382 ✒️#LT 📃@Cataphract1
 21:54
@@ -3163,14 +3170,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@GeoPWatch
-‏⚡️🇱🇧🇱🇧❌🇮🇱 - Hezbollah announced destroying an IDF "Merkava" tank using an ATGM, setting it ablaze in southern Lebanon's 'Bayada' at 23:45.  @GeoPWatch
-19:48
-1405/02/15
-
-
-
-
 src :@Minas_Tirith2024
 ‏Minas Tirith pinned a photo
 19:42
@@ -3844,20 +3843,6 @@ src :@VahidOnline
 ‏Vahid
 ‏
 ‏📡 @VahidOnline
-18:06
-1405/02/15
-
-
-
-
-src :@Mena_Live
-‏Syrian Ministry of Interior:
-‏
-‏We thwarted a large-scale terrorist plot and dismantled a cell that aimed to destabilize the country.
-‏
-‏Internal security forces simultaneously carried out meticulous security operations in several governorates and arrested all members of the cell, seizing weapons in their possession.
-‏
-‏@Mena_Live
 18:06
 1405/02/15
 
