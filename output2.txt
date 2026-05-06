@@ -1,3 +1,141 @@
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli airstrikes were carried out on Shaaitiyeh and Kherbet Selem in southern Lebanon.
+18:12
+1405/02/16
+
+
+
+
+src :@ircfspace
+[عکس]
+‏برای آسیب پذیری اخیر کرنل (Copy Fail) فارغ از اینکه آسیب پذیر هستید یا نه، آپدیت کردید یا نه و کدوم لینوکس و چه ورژنی هستید، همین دوتا دستور رو واسه محکم کاری بزنید و تمام:
+‏
+‏echo "install algif_aead /bin/false" > /etc/modprobe.d/disable-algif.conf
+‏
+‏rmmod algif_aead 2>/dev/null
+‏ریبوت لازم نداره، ضرری هم نداره؛ چون به صورت معمول شما به این ماژول کرنل نیازی ندارید.
+‏
+‏© tiosus
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+18:11
+1405/02/16
+
+
+
+
+src :@tabzlive
+‏🇮🇱🇺🇸🇮🇷⚡️ — Israel was not aware that President Trump was nearing a possible agreement with Iran to end the war and reopen shipping through the Strait of Hormuz, according to Reuters, citing an Israeli source.  ➡️ Instead, Israel had been preparing for an escalation.
+18:11
+1405/02/16
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Footage from the Israeli airstrike on the town of Khirbet Selem.  @wfwitness
+18:10
+1405/02/16
+
+
+
+
+src :@naya_foriraq
+‏اليابان تقرر شراء 20 مليون برميل من النفط الإماراتي لتجاوز حصار هرمز
+18:10
+1405/02/16
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇺🇸/🇮🇷/🇮🇱 NEW: An Israeli source tells CNN the U.S. is seriously considering removing sanctions on Iran, and Israel is ‘concerned’ about it
+‏
+‏@Middle_East_Spectator
+18:10
+1405/02/16
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏پکن خواستار بازگشایی کامل و فوری تنگه هرمز شد! 
+‏
+‏بر اساس گزارش شبکه خبری CNBC،چین به ایران فشار می‌آورد تا از از سرگیری جنگ و افزایش تنش‌ها  خودداری و بر بازگشایی تنگه هرمز تأکید می‌کند.
+‏
+‏در آستانه دیدار  شی جین‌پینگ،رئیس جمهور چین با دونالد ترامپ،رئیس‌جمهور آمریکا، وانگ یی وزیر امور خارجه این کشور در دیدار با همتای ایرانی خود اعلام کرد که باید فوراً تنگه باید باز باشد و عواقب باز نشدن آزاد عبور و مرور بر عهده تهران است.با این حال، وزارت امور خارجه ایران نارضایتی شدید چین درباره تنگه هرمز را در صفحه ایکس خود منتشر نکرد و این دیدار را دوستانه نامید.
+‏
+‏@P_raetorio
+18:10
+1405/02/16
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrikes targeted the town of Khirbet Selem, southern Lebanon.  @wfwitness
+18:09
+1405/02/16
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇮🇱🇮🇷Reuters: There was no awareness in Israel that U.S. President Trump may be close to a deal with Iran, even as diplomatic efforts intensify.  Israeli officials were instead preparing for a possible escalation in fighting, highlighting a gap between…
+18:09
+1405/02/16
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱🇮🇷 - An Israeli source told CNN:
+‏
+‏"Israel is concerned about potential last minute US concessions aimed at securing an agreement to end the war with Iran.
+‏
+‏Israel is particularly worried about the possible lifting of economic sanctions on Iran. 
+‏
+‏Israel wants to ensure that any agreement preserves the IDF's freedom of action against regional threats".
+‏
+‏@TheWarReporter
+18:09
+1405/02/16
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — U.S. Central Command:
+‏So far, 52 commercial vessels have been directed to turn around or return to port in order to comply.
+18:08
+1405/02/16
+
+
+
+
+src :@jangaavaran1390
+‏جنگاوران pinned a photo
+18:08
+1405/02/16
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇮🇷المتحدث باسم وزارة الخارجية الايرانية: ‏يتطلب مفهوم "المفاوضات"، على أقل تقدير، محاولة جادة للدخول في مناقشات بهدف حل النزاع (محكمة العدل الدولية، حكم 1 أبريل 2011، الفقرة 157). وبالتالي، فهو يحتاج إلى "حسن النية"، مما يعني أن "المفاوضات" ليست "نزاعاً"؛ وليست أيضاً "إملاءً" أو "خداعاً" أو "ابتزازاً" أو "إكراهاً".
+18:06
+1405/02/16
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏🔂 تعرفه سرویس های تانل به شرح زیر میباشد
@@ -640,34 +778,9 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 Reuters: The United States and Iran are finalising a one‑page memorandum to end the war, according to a Pakistani source.   @wfwitness
-17:31
-1405/02/16
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Several Israeli airstrikes have targeted southern Lebanon:  -Mansourie (x2) -Yahmar Al Shaqif -Kounin -Kafr Jouz -Chamaa -Al Rihan -Al Bazourieh -Wadi Jilo -Ansarieh -Kawthariyet Al Siyed -Ghassaniyeh -Jibshit -Saksakiyeh  -Mazraat Al Dawoudieh  @wfwitness
-17:28
-1405/02/16
-
-
-
-
 src :@tabzlive
 ‏🇮🇱🇺🇸🇮🇷⚡️ — An Israeli source to the Israeli Army Radio: 
 ‏We were unaware of the American intention to end the operation (Project Freedom) in the Strait of Hormuz — we prepared for escalation.
-17:27
-1405/02/16
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧🇮🇷🇮🇱 Hezbollah has released multiple statements in relation to new operations against Israeli forces:  “In response to the Israeli ceasefire violations and attacks on villages in southern Lebanon causing civilian casualties, we targeted a gathering of Israeli…
 17:27
 1405/02/16
 
@@ -1601,15 +1714,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-[عکس]
-‏مجددا.. جندي صهيوني يسيء لتمثال السيدة مريم العذراء في جنوب لبنان
-16:16
-1405/02/16
-
-
-
-
 src :@IranintlTV
 ‏منبع مطلع: آمریکا از نخست‌وزیر عراق انتظار «اقدام عملی» علیه گروه‌های نزدیک به تهران دارد
 ‏
@@ -1795,17 +1899,6 @@ src :@MilitiaNews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷🇵🇰⚡️ — President Trump told NYP it is “too soon” to consider direct peace talks with Iran.
-‏
-‏Asked if NYP should send a reporter to Islamabad, he replied, “I don’t think so,” before abruptly ending the call, saying he had an appointment with “the generals.”
-16:00
-1405/02/16
-
-
-
-
 src :@didarnews1
 ‏🔴ادعای العربیه به نقل از منابع پاکستانی: 
 ‏
@@ -1845,14 +1938,6 @@ src :@selena_updates
 ‏6. All vessels must pass through the designated maritime corridors as specified by Iran, and must comply with instructions of the Iranian Armed Forces.
 ‏
 ‏7. Vessels belonging to the Zionist regime, originating in any of the ports of occupied Palestine (Israel) - Haifa, Ashdod, Eilat, or heading to any of its ports, are banned from passage through the Strait.
-15:59
-1405/02/16
-
-
-
-
-src :@naya_foriraq
-‏وزارة القوات المسلحة الفرنسية: ‏عبرت السفينة الحربية الفرنسية "شارل ديغول"، برفقة مرافقة، قناة السويس في 6 مايو في طريقها إلى جنوب البحر الأحمر استعدادا لمهمة عسكرية مع بريطانيا في هرمز
 15:59
 1405/02/16
 
@@ -3754,14 +3839,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@jangaavaran1390
-‏یک منبع پاکستانی به رویترز گفته است که ایالات متحده و ایران در حال نهایی کردن یک یادداشت تفاهم یک صفحه‌ای برای پایان دادن به جنگ هستند.
-13:15
-1405/02/16
-
-
-
-
 src :@Mena_Live
 ‏Reuters/Axios:
 ‏
@@ -4236,23 +4313,6 @@ src :@DEJradio
 
 
 
-src :@Indypersian
-[عکس]
-‏⭕️قدردانی شهباز شریف از ترامپ برای توقف «پروژه آزادی»؛ «رئیس جمهوری آمریکا به درخواست پاکستان و عربستان سعودی پاسخ مثبت داد»
-‏
-‏♦️شهباز شریف، نخست وزیر پاکستان، روز چهارشنبه ۱۶ اردیبهشت با انتشار پیامی در اکس از دونالد ترامپ، رئیس جمهوری آمریکا به‌دلیل متوقف کردن عملیات «پروژه آزادی تنگه هرمز» سپاسگزاری و ابراز امیدواری کرد که تلاش‌های جاری به صلحی پایدار در منطقه منتهی شود.
-‏
-‏شهباز شریف در این پیام نوشت: «من از رئیس جمهوری دونالد ترامپ به خاطر رهبری شجاعانه و اعلام به موقع ایشان در مورد توقف پروژه آزادی در تنگه هرمز سپاسگزارم. پاسخ سخاوتمندانه رئیس جمهوری ترامپ به درخواست پاکستان و سایر کشورهای برادر، به ویژه پادشاهی عربستان سعودی و برادر عزیزم، ولیعهد و نخست وزیر عربستان سعودی، شاهزاده محمد بن سلمان، در این دوره حساس، به پیشبرد صلح، ثبات و آشتی منطقه‌ای کمک زیادی خواهد کرد.»
-‏
-‏شهباز شریف که در کنار عاصم منیر، فرمانده ارتش پاکستان، میانجی گفتگوهای آتش‌بس تهران و واشنگتن است در پایان این پیام نوشت: «پاکستان همچنان قاطعانه متعهد به حمایت از تمام تلاش‌هایی است که خویشتنداری و حل مسالمت‌آمیز درگیری‌ها را از طریق گفتگو و دیپلماسی گسترش می‌دهد. ما بسیار امیدواریم که روند فعلی به توافقی پایدار منجر شود که صلح و ثبات پایدار را برای منطقه و فراتر از آن تضمین کند.»
-‏
-‏@indypersian
-12:25
-1405/02/16
-
-
-
-
 src :@intelslava
 ‏🇮🇷🇫🇷It has been reported that a French cargo ship was attacked near Dubai yesterday.
 ‏
@@ -4372,14 +4432,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 12:02
-1405/02/16
-
-
-
-
-src :@P_raetorio
-‏Praetorio pinned a photo
-12:01
 1405/02/16
 
 
@@ -5437,19 +5489,6 @@ src :@BellumActaNews
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷/🇨🇳 NEW: Iran’s Foreign Minister, Abbas Araqchi, has landed in Beijing
-‏
-‏For the first time ever that I’ve seen him not wearing a suit.
-‏
-‏@Middle_East_Spectator
-03:08
-1405/02/16
-
-
-
-
 src :@rnintel
 ‏🇺🇸⚡️- Polls have closed in Ohio. Vivek Ramaswamy has been selected as the GOP nominee for governor, defeating Casey Putsch.
 ‏
@@ -5976,23 +6015,6 @@ src :@Minas_Tirith2024
 ‏@Godzilla_VPN
 ‏کف ترین قیمت بازار و بالاترین کیفیت و پایداری
 23:13
-1405/02/15
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏قرارگاه مرکزی خاتم‌الانبیا که امور مربوط به جنگ در ایران را مدیریت می‌کند گفته است که «ایران در روزهای گذشته هیچگونه عملیات موشکی و پهپادی علیه کشور امارات انجام نداده‌ است.»
-‏
-‏سرهنگ ابراهیم ذوالفقاری، سخنگوی این قرارگاه گفته است «هشدار می‌دهیم اگر از خاک امارات، اقدامی علیه جزایر ایرانی، بنادر و سواحل کشور ما صورت پذیرد، پاسخ کوبنده و پشیمان‌کننده خواهیم داد.»
-‏
-‏این اظهارات پس از آن مطرح می‌شود که وزارت دفاع امارات روز سه‌شنبه اعلام کرد در حال رهگیری موشک‌ها و پهپادهای شلیک‌شده از سوی ایران است.
-‏امارات همچنین گزارش داده که روز گذشته ۱۵ موشک و چهار پهپاد ایرانی را رهگیری کرده است.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-23:10
 1405/02/15
 
 
@@ -6543,43 +6565,4 @@ src :@MilitiaNews
 ‏- لامحمد لامکه
 ‏@MilitiaNews | میلیشا را دنبال کنید
 18:13
-1405/02/15
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 توییت دقایقی پیش رئیس کمیسیون امنیت ملی مجلس
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-18:11
-1405/02/15
-
-
-
-
-src :@mamlekate
-[عکس]
-‏📝 امارات متحده عربی: در حال مقابله با حملات موشکی و پهپادی جمهوری اسلامی هستیم
-‏
-‏وزارت دفاع امارات متحده عربی اعلام کرد سامانه های پدافند هوایی این کشور در حال مقابله با حملات موشکی و پهپادی هستند که از سوی ایران انجام می شود و صداهای شنیده شده در سراسر کشور ناشی از عملیات سامانه های پدافندی امارات برای مقابله با موشک های بالستیک، کروز و پهپادها است.
-‏
-‏@mamlekate
-18:08
-1405/02/15
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 مردم محلی خبر از انفجاراتی در نزدیکی بندر کنارک، استان سیستان و بلوچستان، می‌دهند.
-‏
-‏#تایید_نشده
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-18:07
 1405/02/15
