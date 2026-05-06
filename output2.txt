@@ -1,3 +1,51 @@
+src :@RASTAKHIZ_PERSIAN
+‏🔶 ارتش فرانسه: یک ناو هواپیمابر در یک ماموریت احتمالی به عنوان بخشی از طرح فرانسوی و بریتانیایی برای تامین امنیت تنگه هرمز به سمت دریای سرخ حرکت می کند.
+‏
+‏#خبر
+‏
+‏@RASTAKHIZ_PERSIAN
+16:21
+1405/02/16
+
+
+
+
+src :@Mena_Live
+‏Contract between TAI and TAF to deliver 20 Block 10 KAAN fighters equipped with U.S-made F110 engines starting in 2028 until 2030.
+‏
+‏@Mena_Live
+16:21
+1405/02/16
+
+
+
+
+src :@P_raetorio
+‏«ناو هواپیمابر فرانسوی(شارل دوگل) به سمت دریای سرخ حرکت می‌کند تا مأموریتی احتمالی در چارچوب طرح فرانسه-بریتانیا برای تنگه هرمز انجام دهد.»
+‏
+‏کاترین ووترن،وزیر دفاع فرانسه 
+‏
+‏@P_raetorio
+16:17
+1405/02/16
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ دونالد ترامپ، رئیس‌جمهوری آمریکا، صبح چهارشنبه ۱۶ اردیبهشت، در گفتگو با نیویورک‌پست اعلام کرد که هنوز برای فکر کردن به مذاکرات صلح حضوری میان ایالات متحده و جمهوری اسلامی «خیلی زود» است. علیرغم گزارش‌های خوش‌بینانه مبنی بر نزدیک شدن دو کشور به چارچوبی برای پایان دادن به جنگ ۶۷ روزه، ترامپ در پاسخ به احتمال اعزام خبرنگاران به پاکستان برای دور جدید گفتگوها گفت: «فکر نمی‌کنم؛ هنوز خیلی زود است».
+‏
+‏او لحظاتی پیش از این تماس، در «تروث سوشال» نوشت: «به شرط آنکه ایران با آنچه توافق شده موافقت کند—که البته فرض بزرگی است—عملیات حماسی خشم (Epic Fury) به پایان می‌رسد و محاصره پایان یافته تا تنگه هرمز به روی همه، از جمله ایران، باز شود». او با این حال هشدار داد که در صورت موافقت نکردن تهران، بمباران‌ها با «شدت و سطحی بسیار بالاتر از قبل» آغاز خواهد شد.
+‏
+‏ترامپ که پیش‌تر برای سفر به پاکستان جهت امضای توافق ابراز تمایل کرده بود، تماس خود را با این جمله که قراری با «ژنرال‌ها» دارد، به طور ناگهانی قطع کرد.
+‏@indypersian
+16:17
+1405/02/16
+
+
+
+
 src :@naya_foriraq
 [عکس]
 ‏مجددا.. جندي صهيوني يسيء لتمثال السيدة مريم العذراء في جنوب لبنان
@@ -4226,17 +4274,6 @@ src :@defence_news
 
 
 
-src :@P_raetorio
-[عکس]
-‏روند تخلیه ساکنان جنوب لبنان پس ازهشدار ارتش اسرائیل آغاز شده است. 
-‏
-‏@P_raetorio
-11:09
-1405/02/16
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️قوه قضائیه جمهوری اسلامی روز چهارشنبه ۱۶ اردیبهشت ماه از توقیف اموال ۴۰ نفر در استان همدان به‌اتهام «خیانت به وطن» خبر داد.
@@ -5169,19 +5206,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇮🇷🇺🇸⚡️ — Iran's Tasnim News Agency:
-‏Achievements of the so-called "Freedom Project":
-‏
-‏— Several missiles hit a U.S. military patrol boat
-‏— Attack from an unknown origin on the port of Fujairah, UAE
-‏— Increase in gasoline prices in the U.S.
-02:58
-1405/02/16
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇮🇷 NEW: After just one day, President Trump announces the suspension of ‘Project Freedom’
@@ -5907,18 +5931,6 @@ src :@Americana_ir
 src :@WAR_ROOM_NEWS
 ‏دولت اسرائیل تمدید وضعیت اضطراری سراسری در جبهه داخلی را تا ۱۹ مه تصویب کرده است
 22:10
-1405/02/15
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏Iran's IRGC Navy Command:
-‏
-‏Repeated Warning:
-‏We warn all vessels intending to pass through the strait; the only safe route for crossing the Strait of Hormuz is the corridor previously announced by the Islamic Republic of Iran. Deviation of vessels to other routes will be considered unsafe and will face a decisive response from the Islamic Revolutionary Guard Corps Navy.
-22:01
 1405/02/15
 
 
