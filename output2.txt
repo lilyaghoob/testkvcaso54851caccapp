@@ -1,3 +1,38 @@
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی تیتراول با نیوشا صارمی: ارتش اسرائیل: در آماده باش کاملیم و فهرست جدید اهداف در ایران مشخص شده
+‏@iranintlTV
+22:05
+1405/02/16
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏۲ فروند دیگر از ناوشکن‌های آمریکا 🇺🇸 امروزدر مختصات زیر مشاهده شدند:
+‏🔸تنها ۴۸ کیلومتر از پاکستان  فاصله دارد
+‏
+‏📍 24.6809, 62.1570 
+‏📍 22.9680, 61.3696
+‏
+‏این ناوشکن‌ها در حال اجرای «خط قرمز محاصره آمریکا علیه ایران » در دریای عرب هستند.
+‏
+‏@mwarmonitor
+22:04
+1405/02/16
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- "Iran has one week to reach a deal, I'm cautiously optimistic." - President Trump.
+22:02
+1405/02/16
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — President Trump told Fox News that Iran has one week to reach a deal, adding that he is "cautiously optimistic."
@@ -10,6 +45,21 @@ src :@tabzlive
 src :@rus_cosmos
 ‏ترامپ به فاکس نیوز گفت؛  
 ‏ایران یک هفته برای توافق فرصت دارد.
+22:02
+1405/02/16
+
+
+
+
+src :@World_Newsly
+‏🔴 دونالد ترامپ، رئیس‌جمهوری آمریکا در جمع مادران نظامیان در کاخ سفید اعلام کرد که ایالات متحده وضعیت ایران را «کاملا تحت کنترل» دارد و درباره احتمال دستیابی به توافق ابراز خوش‌بینی کرد.
+‏
+‏ترامپ گفت: «ما با افرادی طرف هستیم که بسیار مایل به انجام معامله هستند. خواهیم دید که آیا آن‌ها می‌توانند به توافقی که برای ما رضایت‌بخش باشد دست یابند یا خیر.» او همچنین محاصره دریایی ایران توسط نیروی دریایی آمریکا را که مانع ورود و خروج کشتی‌ها از بنادر این کشور می‌شود، به یک «دیوار فولادی» تشبیه کرد که «هیچ‌کس نمی‌تواند از آن عبور کند.»
+‏
+‏رئیس‌جمهوری آمریکا بار دیگر تاکید کرد که اگر تهران با توافقی برای پایان دادن به جنگ موافقت نکند، در نهایت مجبور به انجام این کار خواهد شد. او افزود: «باید دید که آیا آن‌ها موافقت می‌کنند یا نه؛ اگر اکنون موافقت نکنند، مدت کوتاهی پس از آن مجبور به توافق خواهند شد. وضعیت این‌گونه است.»
+‏
+‏✍🏻 Troy
+‏▪️@World_Newsly
 22:02
 1405/02/16
 
@@ -1540,18 +1590,6 @@ src :@P_raetorio
 
 
 
-src :@World_Newsly
-‏🔴 نتانیاهو:
-‏نیروی دفاع اسرائیل به تازگی فرمانده نیروی رادوان در بیروت را هدف قرار داد تا او را از بین ببرد.
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
-20:51
-1405/02/16
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🚨خبر فوری: به گفته یک بیانیه مشترک از سوی نتانیاهو و وزیر دفاع کاتس، ارتش اسرائیل (IDF) در بیروت حمله‌ای را انجام داده که هدف آن «فرمانده نیروی رضوان حزب‌الله» بوده است.
@@ -1565,18 +1603,6 @@ src :@mwarmonitor
 
 src :@rnintel
 ‏🇸🇾🇱🇧🇮🇱⚡️- IDF fighter jets are reportedly loitering over southern Syria, preparing for another round of airstrikes - possibly assassination strikes - against Beirut.
-20:50
-1405/02/16
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 بمباران سنگین بیروت توسط جنگنده های اسرائیلی
-‏
-‏✍🏻 Matador
-‏▪️@World_Newsly
 20:50
 1405/02/16
 
@@ -2394,17 +2420,6 @@ src :@Parvazdaroj
 
 
 
-src :@ClashReport
-[عکس]
-‏Türkiye signed its first KAAN serial production contract today at SAHA 2026 in Istanbul.
-‏
-‏The deal moves the fifth-generation stealth fighter jet from development into domestic production.
-20:02
-1405/02/16
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️نمایندگی ایران در سازمان ملل: تنها راه‌حل در تنگه هرمز پایان جنگ است
 ‏
@@ -2473,19 +2488,6 @@ src :@tglobaleye
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: France's Charles de Gaulle carrier strike group is transiting the Suez Canal today and repositioning south toward the Red Sea and Gulf of Aden.
-‏
-‏The move pre-positions the carrier closer to the Strait of Hormuz ahead of a possible France-UK-led multinational mission (40+ nations) to restore safe navigation through the strait.
-‏
-‏France stresses the posture is purely defensive — focused on escorting commercial shipping — and not part of direct combat operations.
-19:57
-1405/02/16
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏TAI Kaan's weapons loadouts
@@ -2506,18 +2508,6 @@ src :@Indypersian
 ‏بقایی در ادامه تصریح کرد که فرآیند مذاکره به معنای «دیکته کردن»، «فریب»، «اخاذی» یا «اجبار» نیست. این اظهارات در حالی مطرح می‌شود که تلاش‌های بین‌المللی برای بازگرداندن تهران و واشنگتن به میز مذاکره ادامه دارد و طرفین با واسطه‌گری پاکستان، طرح‌هایی را برای پایان دادن به جنگ و ادامه مذاکرات موثر به یکدیگر ارائه داده‌اند اما هنوز توافقی روی این طرح‌ها صورت نگرفته است.
 ‏@indypersian
 19:49
-1405/02/16
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏روزنامه «تایمز اسرائیل» به نقل از دفتر یکی از وزیران گزارش داد که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، چهارشنبه کابینه امنیتی تشکیل خواهد داد.
-‏
-‏به نوشته این رسانه، برگزاری این نشست در شرایطی انجام می‌شود که گزارش‌هایی از نزدیک شدن آمریکا و جمهوری اسلامی به توافق بر سر یک یادداشت تفاهم برای پایان جنگ و بازگشایی تنگه هرمز منتشر شده است.
-‏https://iranintl.com/202605061198
-19:48
 1405/02/16
 
 
@@ -3181,14 +3171,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 18:41
-1405/02/16
-
-
-
-
-src :@mwarmonitor
-‏🔴آکسیوس اختصاصی  به گفته مقام‌ها: آمریکا و ایران در آستانه توافق بر سر یک یادداشت تفاهم یک‌صفحه‌ای برای پایان دادن به جنگ هستند  📝باراک راوید  کاخ سفید بر این باور است که به توافقی با ایران بر سر یک یادداشت تفاهم (MOU) یک‌صفحه‌ای نزدیک می‌شود؛ توافقی که هدف…
-18:40
 1405/02/16
 
 
