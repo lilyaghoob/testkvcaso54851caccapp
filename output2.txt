@@ -1,16 +1,61 @@
-src :@IranintlTV
+src :@ClashReport
 [عکس]
-‏نمایندگی امارات متحده عربی در سازمان ملل، چهارشنبه ۱۶ اردیبهشت، با انتشار پستی در شبکه اجتماعی ایکس، با اشاره به مباحث کمیته‌های اول و دوم کنفرانس بازنگری پیمان منع گسترش سلاح‌های هسته‌ای، ان‌پی‌تی، اعلام کرد برنامه هسته‌ای ایران را نمی‌توان از «رفتارهای خصمانه و تروریستی» تهران در منطقه جدا دانست. 
+‏~$920M in crude oil shorts were opened at 3:40 AM ET — 70 minutes before Axios reported the US and Iran were nearing a “14-point” deal to end the war.
 ‏
-‏امارات تاکید کرد هرگونه گفت‌وگو درباره پرونده هسته‌ای جمهوری اسلامی باید تهدیدهای موجود را به‌طور کامل در نظر بگیرد. 
+‏Nearly 10,000 contracts were sold short with no major news at the time.
 ‏
-‏این کشور همچنین حملات اخیر منتسب به حکومت ایران علیه تاسیسات حیاتی غیرنظامی را محکوم کرد و آن را «تشدیدی خطرناک» خواند. 
+‏By 7:00 AM ET, oil had dropped over 12%, turning the trade into an estimated +$125M gain.
 ‏
-‏نمایندگی امارات از جامعه جهانی خواست رویکردی جامع در قبال تهران در پیش بگیرد؛ رویکردی که هم‌زمان برنامه هسته‌ای، برنامه موشکی و رفتارهای بی‌ثبات‌کننده جمهوری اسلامی را شامل شود. 
+‏Source: The Kobeissi Letter
+22:50
+1405/02/16
+
+
+
+
+src :@warmonitors
+[ویدئو]
+‏⚡️ The moment of the Israeli airstrike that targeted Haret Hreik in the southern suburbs of Beirut
+22:50
+1405/02/16
+
+
+
+
+src :@warmonitors
+‏⚡️6 Israeli airstrikes targeted the town of Yater – Bint Jbeil district
+22:50
+1405/02/16
+
+
+
+
+src :@wfwitness
+‏⚡🇮🇱🇱🇧 An image circulating online appears to show an Israeli soldier desecrating a Virgin Mary statue in the Christian village of Debel by placing a cigarette in its mouth.  The IDF said it is investigating the incident following the circulation of the photo.…
+22:49
+1405/02/16
+
+
+
+
+src :@rnintel
+‏🇯🇵🇵🇭🇨🇳⚡- "Japan will fast-track the transfer of Abukuma-class destroyers to the Philippines under a new defense agreement, as both sides seek to counter Chinese aggression in the South China Sea," - TaiwanPlus News.
+22:49
+1405/02/16
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱🇱🇧 An image circulating online appears to show an Israeli soldier desecrating a Virgin Mary statue in the Christian village of Debel by placing a cigarette in its mouth.
 ‏
-‏امارات همچنین درباره غنی‌سازی ۶۰ درصدی اورانیوم هشدار داد و گفت این سطح از غنی‌سازی تهدیدی برای امنیت منطقه‌ای و بین‌المللی است.
-‏https://iranintl.com/202605064601
-22:44
+‏The IDF said it is investigating the incident following the circulation of the photo.
+‏
+‏The case comes weeks after another incident in the same village in which an Israeli soldier was filmed damaging a statue of Jesus Christ.
+‏
+‏@wfwitness
+22:48
 1405/02/16
 
 
@@ -202,22 +247,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 22:33
-1405/02/16
-
-
-
-
-src :@naya_foriraq
-‏‏ترامب:  الساعات الـ24 الأخيرة شهدت محادثات جيدة مع الإيرانيين.  ‏ إيران وافقت على عدم الحصول على سلاح نووي ضمن أمور أخرى
-22:33
-1405/02/16
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸ترامب: في 14 يونيو، سنخوض معركة كبيرة. لن يحدث ذلك مرة أخرى أبدًا، ولم يحدث من قبل أبدًا. سيحدث ذلك مباشرةً أمام البيت الأبيض.
-22:32
 1405/02/16
 
 
@@ -493,21 +522,6 @@ src :@tabzlive
 src :@rus_cosmos
 ‏ترامپ به فاکس نیوز گفت؛  
 ‏ایران یک هفته برای توافق فرصت دارد.
-22:02
-1405/02/16
-
-
-
-
-src :@World_Newsly
-‏🔴 دونالد ترامپ، رئیس‌جمهوری آمریکا در جمع مادران نظامیان در کاخ سفید اعلام کرد که ایالات متحده وضعیت ایران را «کاملا تحت کنترل» دارد و درباره احتمال دستیابی به توافق ابراز خوش‌بینی کرد.
-‏
-‏ترامپ گفت: «ما با افرادی طرف هستیم که بسیار مایل به انجام معامله هستند. خواهیم دید که آیا آن‌ها می‌توانند به توافقی که برای ما رضایت‌بخش باشد دست یابند یا خیر.» او همچنین محاصره دریایی ایران توسط نیروی دریایی آمریکا را که مانع ورود و خروج کشتی‌ها از بنادر این کشور می‌شود، به یک «دیوار فولادی» تشبیه کرد که «هیچ‌کس نمی‌تواند از آن عبور کند.»
-‏
-‏رئیس‌جمهوری آمریکا بار دیگر تاکید کرد که اگر تهران با توافقی برای پایان دادن به جنگ موافقت نکند، در نهایت مجبور به انجام این کار خواهد شد. او افزود: «باید دید که آیا آن‌ها موافقت می‌کنند یا نه؛ اگر اکنون موافقت نکنند، مدت کوتاهی پس از آن مجبور به توافق خواهند شد. وضعیت این‌گونه است.»
-‏
-‏✍🏻 Troy
-‏▪️@World_Newsly
 22:02
 1405/02/16
 
@@ -1748,14 +1762,6 @@ src :@ManotoTV
 
 
 
-src :@wfwitness
-‏⚡️🇮🇱🇱🇧🇱🇧 Israeli Channel 14: Israeli forces have successfully eliminated Malek Blout, the commander of Hezbollah’s Radwan Force.   Several other alleged Hezbollah members were killed alongside him.  An Israeli source said:   “If there are additional opportunities…
-21:01
-1405/02/16
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇱❌🇱🇧 — Correction, this airstrike in Dahieh targeted the Radwan Force's top commander Malek Balut, announces Israel's Prime Minister Benjamin Netanyahu, and Defense Minister Israel Katz.  @GeoPWatch
 21:01
@@ -2337,14 +2343,6 @@ src :@thewarreporter
 src :@rnintel
 ‏🇲🇱⚡️- The blocus by the JNIM on certain roads leading to Bamako has forced hundreds, if not thousands, of vehicle drivers to wait for days. Moroccan truck drivers report large quantities of food have rotten.
 20:29
-1405/02/16
-
-
-
-
-src :@rnintel
-‏🇲🇱⚡️- JNIM fighters attempted to breach and seize a detention center in Kéniéroba, 60km south of Bamako. They were pushed back by local forces.
-20:27
 1405/02/16
 
 
@@ -3305,19 +3303,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 18:42
-1405/02/16
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏🇺🇸ناو هواپیمابر USS George H.W. Bush (CVN-77) در میان بخش بزرگی از ناوهای جنگی، هواپیماها و نیروهای آمریکایی قرار دارد که به‌طور کامل در حال اجرای محاصره دریایی ایالات متحده علیه ایران هستند.
-‏
-‏❌تاکنون ۵۲ فروند کشتی تجاری برای رعایت این محاصره، ملزم شده‌اند مسیر خود را تغییر دهند یا به بندر بازگردند.
-‏
-‏@mwarmonitor
-18:41
 1405/02/16
 
 
