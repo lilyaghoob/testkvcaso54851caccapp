@@ -1411,15 +1411,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧🇮🇷🇮🇱 Hezbollah has released additional statements on operations targeting Israeli forces:  “In response to the Israeli ceasefire violations and attacks on villages in southern Lebanon causing civilian casualties, we targeted a gathering of Israeli vehicles…
-01:30
-1405/02/16
-
-
-
-
 src :@BellumActaNews
 ‏⚠️#BREAKING
 ‏
