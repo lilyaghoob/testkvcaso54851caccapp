@@ -1,4 +1,52 @@
 src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦Recently, we often notice questions about why the parade in Moscow was reduced to just military equipment, since the enemy could just as easily strike at crowds of people.
+‏
+‏The answer here is that it's much easier to strike at military equipment, and it's also more impressive from a visual perspective. 
+‏
+‏Before the parade rehearsals and during the actual parade, all heavy military equipment is pre-concentrated at a certain open parking lot in Moscow, where it stays for several days, from where it departs for the event and returns.
+‏
+‏If we assume a scenario of a disrupted parade, in the event of missiles and drones flying towards Moscow, it might simply not be possible to quickly evacuate dozens of tanks, armored vehicles, missile systems, and trucks from this parking lot - it's one big stationary target. Moreover, there's a risk of a repeat of the "Web" operation - for FPV drones, the neat, stationary rows of parade equipment are also a tempting target.
+‏
+‏And it's a completely different matter with the reduced number of personnel, who can be quickly and centrally dispersed to shelters in the event of any alert, or who might simply scatter in different directions. Tanks and PGRKs from parking lots or narrow streets won't be able to scatter very far.
+‏
+‏For a clear example, we present low-quality satellite images of Moscow, analyzed by the enemy. Such a "parade parking lot" in the southwest of the capital is currently empty, whereas in 2025 and 2024, it was filled with military equipment. 
+‏
+‏First photo - how it looks now (the sector circled in yellow is empty). Second photo - how it looked in 2025, when the parade equipment was there (this same sector is now filled). Third photo - how this parking lot looked in high resolution in 2024 before the start of the parade. 
+‏
+‏@Intelslava
+08:50
+1405/02/16
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷Authorities in Iran’s Hormozgan province said the sound heard on Qeshm Island was caused by air defence activity targeting small aerial objects and reconnaissance drones.
+‏
+‏There was no collision, damage or explosion reported on the island.
+‏
+‏@wfwitness
+08:47
+1405/02/16
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏Israel will transfer jet fuel to Germany at Berlin’s request, following the crisis in Hormuz.  
+‏
+‏The Ministry of Energy confirmed that there are production surpluses available for export, and Foreign Minister Gideon Saar informed the German Minister of Economy of the decision.  
+‏
+‏In addition, the possibility of assistance regarding natural gas will be examined.
+08:46
+1405/02/16
+
+
+
+
+src :@intelslava
 ‏🇺🇦🇷🇺The "authorities" of Crimea stated that as a result of the attack by Ukrainian drones in Dzhankoy, 5 civilians were killed. 
 ‏
 ‏@Intelslava
@@ -1349,14 +1397,6 @@ src :@P_raetorio
 src :@tabzlive
 ‏🇸🇩🇦🇪🇪🇹⚡️- Sudan's government accused the UAE and Ethiopia of being involved in today's drone attack on Khartoum Airport, according to the Sudanese state news agency.  Sudanese officials say they have the right to respond to the aggression at the time and place…
 02:55
-1405/02/16
-
-
-
-
-src :@wfwitness
-‏🌮
-02:53
 1405/02/16
 
 
@@ -5140,17 +5180,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@intelslava
-[عکس]
-‏🇮🇷🇺🇸⚡️NEW: US Joint Chiefs of Staff released an image confirming Iran attacked US warships yesterday.
-‏
-‏@IntelSlava
-15:53
-1405/02/15
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏ ‏
 ‏هزینه سبد معیشت به ۷۱ میلیون تومان رسید؛ حقوق کارگران حدود ۲۴ میلیون تومان!
@@ -5170,17 +5199,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/02/15/401602/
 15:46
-1405/02/15
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇷 🇺🇸 — According to Fars News Agency (Iranian state media), two Iran-affiliated oil tankers seized by U.S. forces in the Indian Ocean near Sri Lanka have been redirected toward the U.S. military base at Diego Garcia.
-‏
-‏The Global Eye | Subscribe
-15:37
 1405/02/15
 
 
@@ -5277,25 +5295,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@intelslava
-[عکس]
-‏🇮🇷🇺🇸❗️BREAKING: U.S. calls on its citizens in Iraq to leave immediately.
-15:08
-1405/02/15
-
-
-
-
-src :@intelslava
-‏🇮🇷🇺🇸❗️BREAKING: Israel is coordinating with the U.S. to resume war as escalating tensions in the Strait of Hormuz have put the Iran ceasefire at risk. - CNN.
-‏
-‏@IntelSlava
-15:03
-1405/02/15
-
-
-
-
 src :@Military_Times_Blog
 ‏شایعات در باره ناو گروه ضربت هواپیمابر جرالد آر فورد پایان یافت و این ناو گروه به سمت لنگرگاه مادر در حال حرکت است و خاورمیانه را ترک کرده است ولی باکسر در جنوب شرق اقیانوس هند دارد به منطقه عملیاتی سنتکام نزدیک میشود و سه یا چهار روز آینده در کنار ناو گروه…
 14:59
@@ -5326,15 +5325,6 @@ src :@rus_cosmos
 ‏
 ‏این ناو هواپیمابر بیش از ۶۰ هواپیما در عرشه خود دارد.
 14:48
-1405/02/15
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺A video of the launch of 6 FP-5 "Flamingo" missiles at a facility in Cheboksary, of which one reportedly hit the target.   For air defense, this is not an ideal outcome, but a good result. It managed to avoid much greater potential damage that could have…
-14:40
 1405/02/15
 
 
