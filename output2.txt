@@ -1,3 +1,76 @@
+src :@World_Newsly
+[عکس]
+‏🔴 نیروی دریایی سپاه:
+‏با پایان تهدیدات مهاجمان و در سایه رویه‌های جدید، امکان عبور ایمن و پایدار از تنگه هرمز فراهم خواهد شد.
+‏
+‏✍🏻 Master
+‏▪️@World_Newsly
+14:21
+1405/02/16
+
+
+
+
+src :@rnintel
+‏🇺🇦🇺🇿⚡- 100 of the largest Uzbekistan and Ukrainian companies met jointly to discuss further economic integration between the two countries.
+14:19
+1405/02/16
+
+
+
+
+src :@cataphract1
+‏⭕️نیروی دریایی سپاه پاسداران:
+‏
+‏⚜«از کاپیتان‌ها و مالکان کشتی‌ها در خلیج فارس و دریای عمان به خاطر همکاری با دستورالعمل‌های ایران در تنگه هرمز و مشارکت آنها در حفظ ایمنی دریانوردی تشکر می‌کنیم. به محض پایان تهدیدات متجاوزان و اجرای رویه‌های جدید، عبور ایمن و پایدار از تنگه هرمز امکان‌پذیر خواهد بود.»
+‏✒️#LT
+‏📃@Cataphract1
+14:19
+1405/02/16
+
+
+
+
+src :@MilitarryWorld
+‏🚨فوری/مرندی عضو تیم مذاکره کننده ایران:
+‏
+‏مذاکرات شوخی است، ایران قبل از سفر ترامپ به چین کاملاً برای یک حمله بزرگ احتمالی آماده است.
+‏
+‏@MilitarryWorld | Parsa
+14:17
+1405/02/16
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷⚓️- The IRGC Navy has released a statement regarding passage through the Strait of Hormuz: 
+‏We thank captains & shipowners in Persian Gulf & Gulf of Oman for complying with Iran’s Strait of Hormuz regulations & contributing to regional maritime security. 
+‏
+‏With aggressor's threats neutralized & new protocols in place, safe, stable passage through SOH will be ensured.
+14:17
+1405/02/16
+
+
+
+
+src :@rnintel
+‏🇰🇿🇷🇺⚡- In yet another blow to Kazakhstan-Russia relations, Kazakh's Energy Ministry announces it will curb all Russian electricity imports by 2027, with state-owned KEGOC seeking to increase domestic power generation and cut reliance on Moscow.
+14:17
+1405/02/16
+
+
+
+
+src :@naya_foriraq
+‏انفجار يهز شمال العاصمة بغداد منطقة النباعي
+14:16
+1405/02/16
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇶🇺🇸🇮🇷⚡️ — U.S. facilities in Iraq have faced more than 600 attacks following the outbreak of the war on February 28, according to CBS News, citing a senior U.S. official.
@@ -1323,22 +1396,6 @@ src :@rus_cosmos
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 سفیر اسرائیل: روابط ما با امارات در حال گسترش است
-‏
-‏▪یوسی شلی، سفیر اسرائیل در امارات: ماراتی‌ها امیدوارند که آمریکایی‌ها و اسرائیلی‌ها ماموریت مربوط به پرونده هسته‌ای و موشکی ایران را به سرانجام برسانند؛ روابط ما این روزها به دلیل منافع مشترک در حال تقویت است.
-‏
-‏▪حجم تبادلات تجاری میان اسرائیل و امارات در سال گذشته به ۱۱ میلیارد دلار رسید که عمدتا در حوزه‌های نوآوری و امور دفاعی متمرکز بوده است.
-‏
-‏✍🏻 Taylor
-‏▪️@World_Newsly
-12:38
-1405/02/16
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏اکسیوس در گزارشی از پیش‌نویس یک توافق یک صفحه‌ای برای پایان دادن به جنگ ایران خبر داد و افزود که آمریکا انتظار دارد جمهوری اسلامی در ۴۸ ساعت آینده به چند نکته کلیدی پاسخ دهد.
@@ -1642,18 +1699,6 @@ src :@selena_updates
 [عکس]
 ‏US President Donald Trump announced that, at Pakistan’s request, Project Freedom, whose goal is to enable movement in the Strait of Hormuz, will be suspended for a short period in an effort to reach an agreement with Iran.
 12:20
-1405/02/16
-
-
-
-
-src :@World_Newsly
-‏🔴 قیمت دلار در بازار آزاد به زیر ۱۸۰ هزار تومان برگشت.
-‏آخرین قیمت: ۱۷۹۰۰۰ تومان
-‏
-‏✍🏻 Taylor
-‏▪️@World_Newsly
-12:19
 1405/02/16
 
 
@@ -4331,19 +4376,6 @@ src :@bricsnews
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🚨فوری؛ ترامپ: فعلاً عملیات «پروژه آزادی» که چند روز پیش شروع کردیم رو متوقف می‌کنیم، چون مذاکرات با ایران داره جلو میره :
-‏- به درخواست پاکستان و چند کشور دیگه، و با توجه به موفقیت خفنی که تو عملیات علیه ایران داشتیم
-‏- همین‌طور پیشرفت زیادی که تو رسیدن به یه توافق کامل با نماینده‌های ایران حاصل شده،
-‏- تصمیم گرفتیم با اینکه تحریم‌ها همچنان کامل سر جاشه، این عملیات رو یه مدت کوتاه نگه داریم ببینیم میشه توافق رو نهایی و امضا کرد یا نه
-‏@MilitarryWorld | Maverick
-02:36
-1405/02/16
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷🤝🇨🇳- The Iranian Foreign Minister Abbas Araghchi arrived in Beijing, China, approximately 4 hours ago and should meet with the Chinese Foreign Minister Wang Yi later today.
 ‏
@@ -4474,15 +4506,6 @@ src :@rus_cosmos
 ‏
 ‏گزارش‌های اولیه رسانه‌های محلی حاکی از آن است که یک کشتی باری مورد اصابت قرار گرفته و در حال سوختن است.
 02:22
-1405/02/16
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷- At least 2 explosions have reportedly been heard near Qeshm Island, southern Iran.  @GeoPWatch
-02:19
 1405/02/16
 
 
@@ -4803,18 +4826,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@rnintel
-‏🇷🇺🇲🇬⚡- After a series of setbacks in Africa, Russia is now courting a new stronghold on the continent: Madagascar, Le Monde reports.
-‏
-‏Moscow has heavily invested in relations with the new President Michael Randrianirina, a former commander of the elite CAPSAT unit that seized power last year. President Randrianirina has already paid Russia a visit.
-‏
-‏Russia has supplied Antananarivo with military equipment and has begun a large-scale media campaign at influencing the locals, which includes radio channels, a new pro-Russian political party, and more. Moscow has also expressed interest in a strategic port in the north of the country.
-00:18
-1405/02/16
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏وزارت خارجه ایران بیانیه داده که حملات به امارات متحده عربی با رعایت حسن همجواری و احترام به منشور سازمان ملل متحد انجام شده و مقصر هم خود امارات متحده عربی هست.
@@ -4896,17 +4907,6 @@ src :@ClashReport
 ‏
 ‏Permits will be issued by a newly established government body.
 23:46
-1405/02/15
-
-
-
-
-src :@cataphract1
-‏بار دیگر فورت لینک قبول زحمت کرده و اسپانسری کاتافراکت را برای اتصال پایدار برای پوشش وقایع را برعهده گرفته است. 
-‏در صورت تمایل با توجه به ناپایداری های موجود اینترنت، میتوانید از سرویس های این مجموعه بهره ببرید. 
-‏
-‏📃@Cataphract1
-23:45
 1405/02/15
 
 
@@ -5012,17 +5012,6 @@ src :@Military_Times_Blog
 ‏
 ‏
 ‏🆔@Military_Times_Blog
-23:27
-1405/02/15
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇮🇷⚡️ — NEW: A cargo vessel was struck by an unknown projectile in the Strait of Hormuz, according to UKMTO, citing a verified source.
-‏
-‏➡️ No details on crew or environmental impact.
 23:27
 1405/02/15
 
