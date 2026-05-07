@@ -1,3 +1,11 @@
+src :@warmonitors
+‏⚡CNN report: Iran will deliver its response today
+09:10
+1405/02/17
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏⭕️وال استریت ژورنال به نقل از مقامات آمریکایی لیست درخواست های جدید آمریکایی ها را برای توافق با ایران منتشر کرد:
@@ -12,6 +20,10 @@ src :@P_raetorio
 ‏5-ممنوعیت تمام فعالیت‌های هسته‌ای زیرزمینی
 ‏
 ‏6-بازرسی های فوری به درخواست‌های آژانس/ تحریم‌ها برای تخلفات
+‏
+‏7-تحریم های ایران حتی پس از امضای توافق لغو نمی‌شود و باید روند ایران در حوزه بررسی شود.
+‏
+‏8-پول های بلوکه شده تهران پس از توافق ازاد می‌شوند.
 ‏
 ‏@P_raetorio
 09:04
@@ -1329,7 +1341,7 @@ src :@GeoPWatch
 
 src :@Mena_Live
 [عکس]
-‏🇩🇿🇪🇬 Algerian National Oil company Sonatrach signs a contract of over one billion USD with Egypt to Import Crude Oil from Algeria to Enhance Energy Security.
+‏🇩🇿🇪🇬 Algerian National Oil company Sonatrach signs a contract of over one billion USD with Egypt to Export Crude Oil from Algeria to Enhance Energy Security in Egypt.
 ‏
 ‏Algeria signed a new energy contract with Egypt after the visit of the Egyptian Energy minister to Algeria. This framework agreement enables crude oil future supplies from Algeria to Egypt, alongside a separate contract for a USD 1.1 billion oil field development project in southern Algeria, the project involves the construction of a new crude oil processing unit with a capacity of 31,500 barrels per day.
 ‏
@@ -3896,18 +3908,6 @@ src :@BellumActaNews
 src :@BellumActaNews
 ‏🇮🇱❌🇱🇧🇱🇧❗️ — Video shared on social media shows the aftermath of the Israeli strikes on Dahyeh minutes ago
 20:58
-1405/02/16
-
-
-
-
-src :@ManotoTV
-[عکس]
-‏برای نخستین‌بار از زمان جنگ جهانی دوم، ژاپن نیروهای رزمی خود را در خاک فیلیپین مستقر کرد؛ حدود ۱۴۰۰ نیروی نظامی در چارچوب رزمایش «بالیکاتان ۲۰۲۶» که بزرگ‌ترین دوره این مانور مشترک میان آمریکا و فیلیپین تا امروز به‌شمار می‌رود.
-‏در جریان این رزمایش، نیروهای زمینی دفاع از خود ژاپن با شلیک موشک‌های ضدکشتی Type 88 از منطقه ایلوکوس نورته، یک ناو از رده خارج فیلیپینی به نام BRP Quezon را در فاصله حدود ۵۰ تا ۷۵ کیلومتری از ساحل غرق کردند. این نخستین‌بار است که ژاپن از این سامانه خارج از قلمرو خود استفاده می‌کند.
-‏این مانور با مشارکت نیروهای آمریکا، فیلیپین و استرالیا برگزار می‌شود و سناریوی آن شبیه‌سازی مقابله با یک تهاجم آبی‌-خاکی در دریای جنوبی چین است. چین این رزمایش را «نظامی‌سازی مجدد» و «بازی با آتش» توصیف کرده است.
-‏رزمایش از ۲۰ آوریل آغاز شده و تا ۸ مه ادامه دارد و حدود ۱۷ هزار نیروی نظامی از هفت کشور در آن حضور دارند.
-20:57
 1405/02/16
 
 
@@ -6522,27 +6522,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 09:12
-1405/02/16
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏Syrian Internal security forces in Tartous arrested Brigadier General Khardal Diab, who was the head of the Air Force Intelligence branch in Daraa during the ruling of the Assad regime.
-‏
-‏@Mena_Live
-09:08
-1405/02/16
-
-
-
-
-src :@Military_Times_Blog
-[عکس]
-‏عراقچی وارد پکن شد. 
-‏
-‏
-‏🆔@Military_Times_Blog
-09:06
 1405/02/16
