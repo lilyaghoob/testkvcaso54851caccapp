@@ -1,5 +1,159 @@
+src :@MilitarryWorld
+‏🚨مهر: شنیده شدن مجدد صدای انفجار در بندرعباس
+‏
+‏@MilitarryWorld | Parsa
+00:17
+1405/02/18
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — An explosion was heard again in Bandar Abbas, southern Iran, according to Mehr News Agency.
+00:16
+1405/02/18
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌⁉️- Renewed explosions in central Tehran and Bandar Abbas.
+00:16
+1405/02/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش انفجار مجدد در بندرعباس
+00:15
+1405/02/18
+
+
+
+
+src :@wfwitness
+‏A luminous aircraft over Sirik around the time explosions were heard in the area.
+00:15
+1405/02/18
+
+
+
+
+src :@naya_foriraq
+‏دوي انفجار في بندر عباس
+00:15
+1405/02/18
+
+
+
+
+src :@cataphract1
+‏#فوری  ⭕️ آمریکا حملات خود به بندر عباس و قشم را تأیید کرد. در ادامه مقام آمریکایی اعلام کرد این حملات به معنی از سرگیری جنگ نیست   📃@Cataphract1
+00:15
+1405/02/18
+
+
+
+
+src :@intelslava
+‏🇺🇸🇮🇷❗️Heavy explosions heard in central Tehran.
+‏
+‏@IntelSlava
+00:14
+1405/02/18
+
+
+
+
+src :@naya_foriraq
+‏استمرار تفعيل الدفاعات الجوية الإيراني في سماء غرب طهران
+00:14
+1405/02/18
+
+
+
+
+src :@naya_foriraq
+‏استمرار تفعيل الدفاعات الجوية الإيراني في سماء غرب طهران
+00:14
+1405/02/18
+
+
+
+
+src :@intelslava
+‏🇮🇷🇺🇸❗️BREAKING: The U.S. military carried out strikes on Iran’s Qeshm Port and Bandar Abba -  Fox News.
+‏
+‏@IntelSlava
+00:14
+1405/02/18
+
+
+
+
+src :@Minas_Tirith2024
+‏طی همین درگیری ۱ ساعته میان دو طرف (ایران با امریکا یا امارات) ده‌ها پرتابه مختلف شلیک شده است اما احتمالا فردا اعلام. میشود هیچ آتش بسی نقض نشده است !  @Minas_Tirith2024
+00:12
+1405/02/18
+
+
+
+
+src :@wfwitness
+‏⚡️🇸🇾🇮🇱 Israeli artillery fired 5 shells on the outskirts of Jamla village in western Daraa countryside.
+‏
+‏@wfwitness
+00:12
+1405/02/18
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 خبرنگار فاکس‌نیوز به نقل از یک منبع ارشد آمریکایی اعلام کرد که ایالات متحده به بندر قشم و بندرعباس ایران حمله کرد، اما این به معنای شروع مجدد جنگ نیست!
+‏
+‏🆔 @Americana_ir
+00:12
+1405/02/18
+
+
+
+
+src :@Minas_Tirith2024
+‏#مهم
+‏
+‏به گزارش فاکس‌نیوز و به نقل از یک یک مقام ارشد آمریکایی، ارتش ایالات متحده حملاتی را علیه جزیره قشم و بندرعباس ایران انجام داده است.
+00:12
+1405/02/18
+
+
+
+
 src :@mwarmonitor
 ‏⚠️خبر فوری: به گفته یک مقام ارشد آمریکایی، ارتش ایالات متحده حملاتی را علیه جزیره قشم و بندرعباس ایران انجام داده است — به نقل از فاکس نیوز.  @mwarmonitor
+00:12
+1405/02/18
+
+
+
+
+src :@BellumActaNews
+‏🇺🇸❌🇮🇷❗️ — Explosion heard in Sirik, Hormozgan province, Southern Iran
+‏
+‏@BellumActaNews
+00:12
+1405/02/18
+
+
+
+
+src :@World_Newsly
+‏🔴 ظاهرا بندرعباس رو دقایقی پیش بازم زدن.
+‏
+‏✍🏻 Danger
+‏▪️@World_Newsly
 00:12
 1405/02/18
 
@@ -59,14 +213,6 @@ src :@DEJradio
 
 
 
-src :@cataphract1
-‏#فوری  ⭕️ آمریکا حملات خود به بندر عباس و قشم را تأیید کرد. در ادامه مقام آمریکایی اعلام کرد این حملات به معنی از سرگیری جنگ نیست   📃@Cataphract1
-00:11
-1405/02/18
-
-
-
-
 src :@World_Newsly
 ‏🔴 خبر فوری: یک مقام ارشد آمریکایی می‌گوید ایالات متحده به بندر قشم و بندرعباس ایران حمله کرد، اما تأکید کرد که این حملات نشانه‌ای از شروع جنگ جدید نیستند.
 ‏
@@ -100,9 +246,7 @@ src :@WAR_ROOM_NEWS
 
 
 src :@jangaavaran1390
-‏یک مقام ارشد آمریکایی می‌گوید که ایالات متحده به بندر قشم و بندرعباس در ایران حمله کرده است، اما تأکید کرد که این حملات نشانه آغاز مجدد جنگ نیست.
-‏
-‏منبع: فاکس نیوز
+‏یک مقام ارشد آمریکایی به فاکس نیوز گفت که ارتش آمریکا به بندر قشم و بندرعباس ایران حمله کرده است، اما افزود که این حملات نشانه آغاز مجدد جنگ نیست.
 00:11
 1405/02/18
 
@@ -1874,18 +2018,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴 تسنیم رسماً حمله رو تکذیب کرد
-‏
-‏
-‏✍🏻 Tayson
-‏▪️@World_Newsly
-23:34
-1405/02/17
-
-
-
-
 src :@Minas_Tirith2024
 ‏ماجرا در حال ماست مالی شدن است؟!
 ‏
@@ -2140,24 +2272,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli jets break the sound barrier over southern Lebanon.
-‏
-‏@wfwitness
-23:27
-1405/02/17
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸IRIB: A senior Iranian military official said US forces operating in the Strait of Hormuz came under Iranian missile fire after what Tehran described as an attack by the “US invading army” on an Iranian oil tanker.  The add the targeted US units sustained…
-23:27
-1405/02/17
-
-
-
-
 src :@MilitarryWorld
 ‏🚨صداوسیما: ایران با موشک به یگان‌های نیروی دریایی آمریکا در تنگه هرمز حمله کرد.  @MilitarryWorld | Parsa
 23:27
@@ -2325,14 +2439,6 @@ src :@P_raetorio
 ‏منابع محلی می گویند تعدادی موشک از جنوب ایران شلیک شده است 
 ‏
 ‏@Minas_Tirith2024
-23:23
-1405/02/17
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌⁉️- Iran has launched 8 missiles from Hormozgan Province, southeastern Iran, towards the Strait of Hormuz.
 23:23
 1405/02/17
 
@@ -2528,15 +2634,6 @@ src :@DEJradio
 
 
 
-src :@naya_foriraq
-[عکس]
-‏خلو تام للطيران المدني في سماء العراق
-23:20
-1405/02/17
-
-
-
-
 src :@rnintel
 ‏🇮🇷⚡️- BREAKING: Several missiles have reportedly been launched from Hormozgan, Iran, into the Strait of Hormuz, according to local Iranian sources.
 23:19
@@ -2547,14 +2644,6 @@ src :@rnintel
 
 src :@tabzlive
 ‏🇮🇷🇦🇪⚡️ — Iran's Mehr News Agency reports that the UAE has attacked Iran.
-23:19
-1405/02/17
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌⁉️- Reports of Air Defence activity in western Tehran.
 23:19
 1405/02/17
 
@@ -2736,14 +2825,6 @@ src :@rnintel
 
 
 
-src :@naya_foriraq
-‏🇮🇷مصدر إيراني مطلع: لم تقع أي انفجارات في مقاطعة ملارد وقرية بيدجانه بالعاصمة طهران.
-23:12
-1405/02/17
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏https://t.me/WAR_ROOM_NEWS/56517
 23:11
@@ -2805,14 +2886,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 23:09
-1405/02/17
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷وكالة تسنيم: مؤشرات على عمل عدائي إماراتي في رصيف بهمن بقشم ؛ تشير بعض المصادر إلى أن دوي عدة انفجارات في بندر عباس كان مرتبطًا برد فعل دفاعي على طائرتين صغيرتين. كما أفادت بعض المصادر بوجود عمل عدائي من جانب حكومة الإمارات، كأداة في يد الكيان الصهيوني،…
-23:08
 1405/02/17
 
 
@@ -2999,14 +3072,6 @@ src :@rus_cosmos
 
 
 
-src :@tabzlive
-‏🇮🇷🇦🇪⚡️ — Fars News Agency says a "thorough investigation" is underway to find out whether the UAE was involved in tonight's incident.
-23:05
-1405/02/17
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏نماینده کویت در سازمان ملل در نشست شورای امنیت گفت حمایت گسترده از پیش‌نویس قطعنامه تنگه هرمز بیانگر تعهد مشترک کشورها به آزادی ناوبری، امنیت مسیرهای دریایی و احترام به حقوق بین‌الملل است. او تاکید کرد این اصول مسئولیت‌هایی جمعی هستند که مستقیما با حفظ صلح و امنیت بین‌المللی ارتباط دارند.
@@ -3037,14 +3102,6 @@ src :@mwarmonitor
 ‏🇺🇸آمریکا شروع به لغو گذرنامه والدینی خواهد کرد که بیش از ۱۰۰٬۰۰۰ دلار بدهی پرداخت‌نشده نفقه فرزند دارند و به‌زودی این سقف را به ۲٬۵۰۰ دلار نیز گسترش خواهد داد — آسوشیتدپرس
 ‏
 ‏@mwarmonitor
-23:04
-1405/02/17
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏خبرگزاری فارس گمانه‌زنی‌ها و شایعاتی را نقل می‌کند که منبع انفجارها به فعالیت هواپیما های امارات متحده عربی مرتبط است
 23:04
 1405/02/17
 
@@ -3346,19 +3403,6 @@ src :@MilitiaNews
 ‏Neocon ✍
 ‏
 ‏@Khashateria_Ca
-22:53
-1405/02/17
-
-
-
-
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷 — Iranian State Media Fars News Agency says that an exchange of fire between Iranian Armed Forces and an "unknown enemy" led to damage of commercial areas of Bahman Pier
-‏Investigations by Fars in Bandar Abbas show that during the exchange of fire between the armed forces of Iran and "the enemy", commercial parts of Bahman Piers were targeted.
-‏
-‏Additional news will be announced later
-‏
-‏https://t.me/farsna/434148
 22:53
 1405/02/17
 
@@ -4305,16 +4349,6 @@ src :@rus_cosmos
 
 
 
-src :@Middle_East_Spectator
-‏❗️🇦🇪 Possible Emirati aggression
-‏
-‏Qeshm, Siri, Bandar Abbas, Hormuz.
-22:25
-1405/02/17
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏✈️برخاست سریع تانکرها؟
@@ -4413,35 +4447,12 @@ src :@intelslava
 
 
 
-src :@P_raetorio
-[عکس]
-‏در بروزرسانی جدید تصاویر گوگل مپ، سایت موشکی زیر زمینی الحریق 3 عربستان سعودی توسعه یافته و سه تونل موشکی جدید در آن ساخته شده است.
-‏
-‏این فعالیت‌ها بخشی از برنامه گسترده‌ای است که در سال‌های اخیر محمد بن سلمان برای گسترش سامانه موشکی استراتژیک حکومت سعودی تحت محرمانگی گسترده پیش می‌رود و همچنان از نوع،تعداد و تولید دقیق دارایی های سعودی ها در چندین سایت زیرزمینی شناسایی شده خود مشخص نیست! پیشتر سعودی‌ها موشک‌های بالستیک DF-3 وDF-21 چینی را نیز طی دهه‌های اخیر در زرادخانه خود در اختیار دارند.
-‏
-‏@P_raetorio
-22:21
-1405/02/17
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏خبرگزاری فارس، وابسته به سپاه پاسداران، از شنیده شدن صدای چند انفجار در بندرعباس در شامگاه پنجشنبه خبر داد و اعلام کرد که هنوز منشا و محل دقیق این صداها مشخص نیست.
 ‏همزمان اسکان‌نیوز نوشت گزارش‌ها از شنیده‌شدن صدای ۶ انفجار با فاصله ۴۰ ثانیه از یکدیگر در سیریک در استان هرمزگان خبر می‌دهند.
 ‏وحید آنلاین نیز از شنیده شدن صداهای انفجار در قشم، میناب، بندرعباس، بندر خمیر، و سیریک در شامگاه پنجشنبه خبر داد.
 ‏https://iranintl.com/202605074248
-22:21
-1405/02/17
-
-
-
-
-src :@MilitarryWorld
-‏🚨فوری/صدای انفجارهایی در جزیره قشم ایران شنیده شده است، طبق گزارش مهر
-‏
-‏@MilitarryWorld | Parsa
 22:21
 1405/02/17
 
@@ -4540,17 +4551,6 @@ src :@ClashReport
 ‏
 ‏Source: Fars
 22:16
-1405/02/17
-
-
-
-
-src :@P_raetorio
-‏#مهم
-‏⭕️گزارش‌های تایید نشده از شنیده شدن چندین انفجار در بندر عباس و کرمانشاه 
-‏
-‏@P_raetorio
-22:12
 1405/02/17
 
 
@@ -5341,28 +5341,6 @@ src :@MilitiaNews
 
 
 
-src :@Minas_Tirith2024
-‏Minas Tirith pinned a photo
-19:57
-1405/02/17
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏⚠️ در پی افزایش تنش‌ها، نیروهای نظامی منطقه 🚨
-‏احتمال قطعی مجدد اینترنت بالا هست 
-‏پیشنهاد میشه که پروکسی‌های رایگان و کانفیگ‌های این کانال داشته باشید 🛡️💻
-‏هزینه بیخودی نکنید، سرعت‌های عالی‌ داره 🚀📶
-‏
-‏@TondarServer
-19:57
-1405/02/17
-
-
-
-
 src :@didarnews1
 ‏🔴سازمان سیا: ایران می‌تواند ۳ تا ۴ ماه در برابر محاصره دریایی آمریکا مقاومت کند
 ‏
@@ -5612,21 +5590,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 18:29
-1405/02/17
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏به گزارش رویترز، ایالات متحده و ایران در حال حرکت به سمت یک توافق موقت برای توقف درگیری‌ها هستند، 
-‏
-‏اگرچه اختلافات عمده‌ای هنوز حل نشده باقی مانده‌اند. تهران در حال بررسی یک پیشنهاد یک صفحه‌ای است که بر پایان جنگ، بازگشایی تنگه هرمز و آغاز ۳۰ روز مذاکرات گسترده‌تر تمرکز دارد.
-‏
-‏پیش‌نویس از خواسته‌های کلیدی آمریکا درباره برنامه هسته‌ای ایران، موشک‌ها و نیروهای نیابتی منطقه‌ای اجتناب می‌کند.
-‏
-‏مقامات رژیم جمهوری اسلامی همچنان بدبین هستند و این پیشنهاد را بیشتر «فهرست آرزوهای آمریکایی تا واقعیت» می‌نامند.
-18:25
 1405/02/17
 
 
@@ -5926,20 +5889,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/02/16/401681/
 15:29
-1405/02/17
-
-
-
-
-src :@intelslava
-‏🇵🇸🇺🇸🇮🇷The American press reports that Trump voluntarily interrupted the conduct of Operation "Project Freedom".
-‏
-‏He suspended the mission after Washington's key ally in the Persian Gulf - Saudi Arabia - prohibited the US from using its military bases and airspace for the operation, NBC News reports, citing sources.
-‏
-‏According to the TV channel, the Saudi leadership was angry about the US decision to launch the operation.
-‏
-‏@Intelslava
-15:25
 1405/02/17
 
 
