@@ -1,3 +1,32 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: WHO says there are now 7 confirmed hantavirus cases.
+‏
+‏@BRICSNews
+17:00
+1405/02/17
+
+
+
+
+src :@MilitarryWorld
+‏⭕️وزیر خارجه فرانسه: لغو تحریم‌های ایران منتفی است مگر آنکه تنگه هرمز بازگشایی شود!
+‏
+‏@MilitarryWorld | Parsa
+16:59
+1405/02/17
+
+
+
+
+src :@naya_foriraq
+‏استهداف قوة عسكرية إسرائيلية جنوب لبنان
+16:59
+1405/02/17
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇮🇱- The mayor of Nahariyya has canceled all upcoming public gatherings within the city as a result of the current security climate. This decision, as reported by Channel 15, comes at the request of the IDF to ensure civilian safety due.
@@ -3205,18 +3234,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-[عکس]
-‏هل تعرضت لإطلاق نار قرب حدود العراق مع السعودية ؟ 
-‏
-‏طائرة مسيرة أمريكية من طراز MQ4 
-‏تطلق رمز النداء للحالة الطارئة قرب الحدود العراقية السعودية كانت قد أنطلقت من الأراضي الأردنية
-11:04
-1405/02/17
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Austrian drug kingpin Elias Bensoltane, wanted by INTERPOL with a red notice, was detained in a joint dawn raid by Turkish intelligence (MİT) and Istanbul narcotics police at his home in Yenişehir, Mersin. 
@@ -4353,16 +4370,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@MilitarryWorld
-‏⭕️زنگنه، عضو کمیسیون برنامه و بودجه: با بشکه‌ای ۵۴ دلار بودجه را بسته بودیم و الآن بیش از ۹۰ دلار از هر بشکه درآمد داریم
-‏
-‏@MilitarryWorld | Parsa
-00:31
-1405/02/17
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏در صورت شروع جنگ، ج.ا میتواند با اولین آفند سنگین موشکی مواجه شود که تاکنون در خاک ایران تجربه نشده است. در یک سناریوی محافظه کارانه میتوان استعداد پرتاب 600-800 موشک را دید که با آرایش تهاجمی سنگین تر VLS ها میتوان آنرا افزایش داد، اضافه شدن ادوات دیگر مانند…
@@ -5265,17 +5272,6 @@ src :@defence_news
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇨🇳🇮🇷 China tells companies to ignore US sanctions and continue buying Iranian oil.
-‏
-‏@BRICSNews
-19:11
-1405/02/16
-
-
-
-
 src :@defence_news
 [عکس]
 ‏واشنگتن‌پست: تصاویر منتشر شده توسط رسانه‌های وابسته به دولت ایران که توسط واشنگتن پست تأیید شده است، نشان می‌دهد که حداقل ۲۲۸ سازه یا قطعه از تجهیزات در سایت‌های نظامی ایالات متحده آسیب دیده‌اند. میزان تخریب بسیار بیشتر از آن چیزی است که دولت ایالات متحده علناً اذعان کرده یا قبلاً گزارش کرده است.
@@ -5510,17 +5506,6 @@ src :@DEJradio
 ‏#حملات_هدفمند #جمهوری_اسلامی
 ‏@DEJradio
 18:28
-1405/02/16
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇮🇷 President Trump says a deal with Iran may be reached before his China visit.
-‏
-‏@BRICSNews
-18:25
 1405/02/16
 
 
