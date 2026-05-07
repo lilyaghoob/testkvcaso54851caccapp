@@ -1,3 +1,34 @@
+src :@tabzlive
+[عکس]
+‏🇮🇳⚡️ — Recent elections in four Indian states highlighted deepening religious polarization, with Muslim voters increasingly backing the opposition Indian National Congress while Hindu voters largely supported Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP), Reuters writes.
+‏
+‏Analysts say the BJP’s Hindu nationalist platform has contributed to a consolidation of Muslim voters behind Congress and other secular or regional parties, creating what some describe as “reverse polarization.”
+‏
+‏Political observers say the divide reflects a broader ideological struggle over India’s secular identity and the growing influence of Hindutva, the Hindu nationalist ideology associated with the BJP.
+16:36
+1405/02/17
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Deir ez-Zahrani in southern Lebanon a few moments ago.
+16:33
+1405/02/17
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli airstrikes targeted Zefta in southern Lebanon a short while ago.
+16:32
+1405/02/17
+
+
+
+
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Israeli drone activity over Beirut and Dahieh at a very low activity.  @wfwitness
 16:31
@@ -518,20 +549,6 @@ src :@World_Newsly
 src :@naya_foriraq
 ‏🌟وزارة ‏الخارجية الباكستانية: نتوقع توصل أميركا وإيران لاتفاق في أقرب وقت.
 15:52
-1405/02/17
-
-
-
-
-src :@wfwitness
-‏⚡🇦🇿🇬🇪 APA: Azerbaijan and Georgia held a meeting between military cybersecurity specialists in Baku as part of the 2026 bilateral military cooperation plan.  
-‏
-‏The discussions focused on expanding cooperation in information security and cybersecurity between the armed forces of both countries, alongside exchanging operational experience and expertise.  
-‏
-‏The meeting reflects ongoing defense coordination between Baku and Tbilisi amid increasing regional focus on cyber defense and military digital security.  
-‏
-‏@wfwitness
-15:51
 1405/02/17
 
 
@@ -1069,41 +1086,12 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇷🇺🇺🇦⚡️ — Kremlin spokesman Dmitry Peskov:
-‏The only thing that concerns the Russian leadership is a short-term silence in Red Square.
-‏
-‏Russian special services are taking additional measures to ensure President Putin's safety ahead of May 9 in light of terrorist threats from Kyiv.
-15:03
-1405/02/17
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏حملات ارتش اسرائیل به جنوب لبنان 
 ‏
 ‏@P_raetorio
 15:03
-1405/02/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇪🇺🇺🇦🇷🇺⚡️ — Western intelligence officials say Russia has intensified assassination plots and sabotage operations across Europe since the 2022 invasion of Ukraine, going after defectors, activists, military figures, and supporters of Ukraine, according to AP.
-‏
-‏➡️ Authorities in several European countries have disrupted or investigated plots involving bomb plans, surveillance, shootings, and assassinations tied to Moscow. 
-‏
-‏➡️ Russia has increasingly turned to criminal intermediaries and locally recruited individuals instead of traditional intelligence operatives.
-‏
-‏➡️ European intelligence officials believe the plots are intended not only to eliminate opponents but also to intimidate critics abroad and strain European security services.
-‏
-‏An European intelligence official said it’s clear Russia’s security services can kill someone in Europe if they really want to, adding that "targets will never be safe."
-15:00
 1405/02/17
 
 
@@ -1129,21 +1117,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 14:58
-1405/02/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇬🇧🇺🇦⚡️ — 22-year-old Ukrainian national Roman Lavrynovych, who is accused of setting fire to properties of the prime minister, told police he had never heard of Keir Starmer, according to the BBC.
-‏
-‏Lavrynovych allegedly carried out the arson attacks after being recruited online by Russian-speaking Telegram user "El Money," who promised him payment.
-‏
-‏During a police interview, Lavrynovych was asked several times if he knew who Sir Keir was and whether he held a grudge against him, to which he repeatedly answered no.
-‏
-‏Lavrynovych was also asked his thoughts about Putin and responded: "Nothing good. He's a terrorist."
-14:52
 1405/02/17
 
 
@@ -1297,15 +1270,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 Queen
 ‏▪️@World_Newsly
-14:43
-1405/02/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇻🇦⚡️ — Secretary of State Marco Rubio has arrived at the Vatican for high-level talks with the Holy See.
 14:43
 1405/02/17
 
@@ -4702,7 +4666,7 @@ src :@Minas_Tirith2024
 ‏ترامپ در مصاحبه با فاکس نیوز: 
 ‏ایران یک هفته برای توافق فرصت دارد 
 ‏
-‏@Minas_Tirith2025
+‏@Minas_Tirith2024
 21:49
 1405/02/16
 
