@@ -1,5 +1,25 @@
+src :@MilitiaNews
+‏🇮🇱⚡️ کانال 12 اسرائیل: ترامپ بدون خروج اورانیوم غنی‌شده از ایران، توافق نخواهد کرد
+‏
+‏- لامحمد لامکه
+‏@MilitiaNews | میلیشا را دنبال کنید
+17:30
+1405/02/17
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Blat, southern Lebanon, a few moments ago.
+17:27
+1405/02/17
+
+
+
+
 src :@naya_foriraq
-‏‏مصادر أميركية لـ CNN : من المتوقع أن ترد إيران اليوم على المقترح الأميركي لإنهاء الحرب
+‏‏مصادر أميركية لـCNN: من المتوقع أن ترد إيران اليوم على المقترح الأميركي لإنهاء الحرب
 17:26
 1405/02/17
 
@@ -8,7 +28,7 @@ src :@naya_foriraq
 
 src :@mwarmonitor
 [عکس]
-‏✈️🇮🇷«هواپیمای تسلیحاتی» ایران از نوع بوئینگ ۷۴۷ (جامبو)، با رجیستر EP-FAB، که درست پیش از آغاز عملیات در ماه فوریه در چارچوب «شگات هآری» از تهران به سمت مسکو پرواز کرده بود، امروز به فرودگاه مهرآباد تهران بازگشت.
+‏✈️🇮🇷«هواپیمای تسلیحاتی» ایران از نوع بوئینگ ۷۴۷ (جامبو)، با رجیستر EP-FAB، که درست پیش از آغاز عملیات در ماه فوریه در چارچوب «عملیات غرش شیران» از تهران به سمت مسکو پرواز کرده بود، امروز به فرودگاه مهرآباد تهران بازگشت.
 ‏
 ‏✈️این هواپیما سال‌ها توسط نیروی قدس سپاه پاسداران استفاده می‌شد و محموله‌های تسلیحاتی را از ایران به نیروهای وابسته‌اش در منطقه منتقل می‌کرد: در عراق، لبنان و سوریه (پیش از سقوط حکومت اسد).
 ‏
@@ -1440,32 +1460,12 @@ src :@P_raetorio
 
 
 
-src :@tabzlive
-[عکس]
-‏🇱🇧🇸🇾⚡️ — Lebanese Prime Minister Nawaf Salam is expected to visit Damascus next Saturday for talks with Syrian President Ahmed al-Sharaa, according to Al-Araby Al-Jadeed.
-‏
-‏➡️ The visit will focus on strengthening cooperation between Lebanon and Syria in the areas of security, trade, and the economy, as well as addressing unresolved bilateral issues.
-15:11
-1405/02/17
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏✈️🇺🇸یک جنگنده F/A-18 بر روی ناو هواپیمابر USS Abraham Lincoln (CVN-72) فرود می‌آید. هنگام فرود روی ناو هواپیمابر، جنگنده‌ها از قلاب دُم استفاده می‌کنند تا یکی از چندین کابل مهارکننده روی عرشه پرواز را بگیرند. این روش باعث می‌شود هواپیما در فاصله‌ای حدود ۳۰۰ فوت (نزدیک به ۹۰ متر) به‌سرعت و به‌طور کامل متوقف شود.
 ‏
 ‏@mwarmonitor
 15:10
-1405/02/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli airstrikes have also targeted Aadshit al-Qusayr, Qaaqaait al-Jisr, Al-Qusaibah, and Kfar Sir in southern Lebanon.
-15:08
 1405/02/17
 
 
@@ -3870,19 +3870,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-[عکس]
-‏— 🇹🇷🇺🇬 Uganda's Chief of Defence Forces (CDF), General Muhoozi Kainerugaba:
-‏
-‏"I'm done talking about Turkey. I conquered them after a few tweets. They should never talk about Uganda again!."
-‏
-‏🌍 | @duckdiaries
-08:44
-1405/02/17
-
-
-
-
 src :@cataphract1
 ‏⚜وال‌استریت ژورنال جزئیات تازه‌ای از چارچوب پیشنهادی آمریکا به ایران منتشر کرده؛ پیشنهادی که به نوشته این روزنامه، در صورت پذیرش تهران، وارد مذاکرات ۳۰ روزه برای توافق نهایی خواهد شد.
 ‏
@@ -4151,21 +4138,6 @@ src :@BellumActaNews
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇰🇵- North Korean state media, KCNA, reported earlier today that North Korea is not bound by the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). 
-‏
-‏➡️ Kim Song, North Korea’s permanent representative to the UN, stated that the U.S. and other nations are "tarnishing the atmosphere" at the 11th NPT review conference by raising issues regarding Pyongyang's nuclear program.  
-‏
-‏➡️ Mr. Song asserted that North Korea's status as a nuclear weapons state is a "permanent reality" that will not change based on the "unilateral desire of outsiders."
-‏
-‏@GeoPWatch
-04:33
-1405/02/17
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏🇩🇿🇪🇬 Algerian National Oil company Sonatrach signs a contract of over one billion dollars to Export Crude Oil from Algeria to Egypt to Enhance Energy Security.
@@ -4176,16 +4148,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_live
 04:32
-1405/02/17
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇮🇱- Unconfirmed reports of Iranian air defences shooting down a hostile drone over western Tehran following explosions. Mutiple reports suggest the drone could belong to the Israeli Air Force but everything is highly speculative. This incident reportedly took place approximately 1 hour and 30 minutes ago.
-‏
-‏@GeoPWatch
-04:14
 1405/02/17
 
 
