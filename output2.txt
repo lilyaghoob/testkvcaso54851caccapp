@@ -1,3 +1,14 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇫🇷 France moves aircraft carrier toward the Strait of Hormuz.
+‏
+‏@BRICSNews
+03:53
+1405/02/17
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️تانکر ترکرز، سامانه رصد موقعیت نفتکش‌ها در جهان، اعلام کرد نفتکش‌های خالیِ تحت تحریم آمریکا همچنان وارد محدوده محاصره دریایی می‌شوند.
@@ -5848,17 +5859,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 09:49
-1405/02/16
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇨🇳🇺🇸 China orders its oil refineries to ignore US sanctions and continue buying Iranian oil.
-‏
-‏@BRICSNews
-09:37
 1405/02/16
 
 
