@@ -1,3 +1,11 @@
+src :@GeoPWatch
+‏📝- Footage of an Iranian anti-ship missile and drone launch currently circulating is old footage from during the the full-scale war which went into a ceasefire on April 7th.
+02:33
+1405/02/18
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش بلومبرگ، مارکو روبیو، وزیر خارجه آمریکا، فروش صدها موشک رهگیر پیشرفته پدافند هوایی و دیگر تسلیحات به شرکای آمریکا در خاورمیانه را در قالب قراردادهایی به ارزش ۲۵.۸ میلیارد دلار تأیید کرد؛ رقمی که سه برابر مبلغی است که دولت آمریکا هفته گذشته هنگام اعلام اولیه این توافق‌ها منتشر کرده بود.
@@ -2845,16 +2853,6 @@ src :@ClashReport
 
 
 
-src :@GeoPWatch
-‏🇦🇪 An unknown operator in the UAE said:
-‏'"How do you use this thing?"
-‏... referencing to the radio he is using.
-00:43
-1405/02/18
-
-
-
-
 src :@intelslava
 ‏🇮🇷🇺🇸⚡️Reuters confirms that US ships are currently under attack from the IRGC.
 00:42
@@ -3224,14 +3222,6 @@ src :@Military_Times_Blog
 
 
 
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — A source tells Tasnim News Agency that some U.S. destroyers were successfully damaged as a result of the attack by the Iranian Navy.
-00:37
-1405/02/18
-
-
-
-
 src :@ClashReport
 ‏Iran's Tasnim:
 ‏
@@ -3263,14 +3253,6 @@ src :@Middle_East_Spectator
 
 src :@DEJradio
 ‏💣 خبرگزاری‌های محلی از وقوع انفجار در شهر ابوظبی خبر میدهند. #انفجار #ابوظبی  @DEJradio
-00:36
-1405/02/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸🇦🇪 The spokesperson for Iran’s Khatam al‑Anbiya Central Headquarters has accused the United States of violating the ceasefire by attacking an Iranian oil tanker near Jask and another vessel off the coast of Fujairah, while simultaneously conducting air…
 00:36
 1405/02/18
 
@@ -3348,15 +3330,6 @@ src :@Minas_Tirith2024
 ‏گزارش شده که تعدادی موشک ضد کشتی دیگر از سواحل ایران به سمت شناورهایی در اطراف تنگه هرمز شلیک شده است 
 ‏
 ‏@Minas_Tirith2024
-00:34
-1405/02/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇧🇷⚡️ — President Trump via Truth Social: Just concluded my meeting with Luiz Inácio Lula da Silva, the very dynamic President of Brazil.   We discussed many topics, including Trade and, specifically, Tariffs. The meeting went very well. Our Representatives…
 00:34
 1405/02/18
 
