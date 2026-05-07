@@ -2786,14 +2786,6 @@ src :@defence_news
 
 
 
-src :@GeoPWatch
-‏🇮🇷 — Air defenses activated in western Tehran.
-00:45
-1405/02/18
-
-
-
-
 src :@P_raetorio
 ‏با گذشت حدود دو ساعت از رخداد های اخیر همچنان ویدیویی از اصابت‌ها،انفجار‌ها و شلیک‌های ادعایی در نیامده است! 
 ‏
