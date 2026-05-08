@@ -1,5 +1,26 @@
+src :@tabzlive
+[عکس]
+‏🇹🇷🇬🇷⚡️ — Turkey is preparing legislation to submit to parliament that would assert maritime jurisdiction claims in disputed parts of the Aegean Sea and Mediterranean Sea, according to Bloomberg.
+‏
+‏➡️ The draft law is intended to formalize Turkey’s territorial claims and strengthen its position over potential offshore natural gas resources in the contested areas.
+15:26
+1405/02/18
+
+
+
+
+src :@ClashReport
+‏Türkiye is preparing legislation to formally claim disputed maritime zones in the Aegean and Mediterranean.
+‏
+‏Source: Bloomberg
+15:22
+1405/02/18
+
+
+
+
 src :@WAR_ROOM_NEWS
-‏گزارشات از دو کشته و یک زخمی در پی هدف قرار گرفتن دو موتورسیکلت متعلق به نیروی های حزب الله توسط پهپاد اسرائیلی در اطراف حومین التحتا در جنوب لبنان
+‏گزارشات از دو کشته و یک زخمی در پی هدف قرار گرفتن دو موتورسیکلت متعلق به نیروهای حزب الله توسط پهپاد اسرائیلی در اطراف حومین التحتا در جنوب لبنان
 15:20
 1405/02/18
 
@@ -826,30 +847,12 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧🇱🇧⚡️ — The IDF says it is preparing for the possibility that Hezbollah could launch rockets from Lebanon toward northern Israel in the coming hours “against the backdrop of recent developments.”
-14:35
-1405/02/18
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Hezbollah fires 3 long-range missiles at Haifa, Northern Israel.
 ‏
 ‏@Mena_Live
 14:35
-1405/02/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧🇱🇧⚡️ — The IDF says it is preparing for the possibility that Hezbollah could launch rockets from Lebanon toward northern Israel in the coming hours “against the backdrop of recent developments.”
-14:34
 1405/02/18
 
 
@@ -893,15 +896,6 @@ src :@P_raetorio
 src :@naya_foriraq
 ‏صافرات الانذار تدوي في المستوطنات الشمالية بعد هجوم صاروخي لحزب الله
 14:32
-1405/02/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli airstrikes targeted Yahmar al-Shaqif and Zawtar al-Gharbiyah in southern Lebanon.
-14:31
 1405/02/18
 
 
@@ -1041,14 +1035,6 @@ src :@P_raetorio
 ‏ارتش اسرائیل اعلام کرد چندین راکت‌انداز را به سوی اسرائیل شناسایی کرده است و در حال سرکوب حمله است با این حال ممکن است طی ساعات اینده موجی از راکت‌های حزب‌الله به سمت شمال این کشور شلیک شود. 
 ‏
 ‏@P_raetorio
-14:23
-1405/02/18
-
-
-
-
-src :@tabzlive
-‏🇱🇧❌🇮🇱 — Three IDF soldiers have been injured, including one seriously, by FPV drones launched by Hezbollah today.
 14:23
 1405/02/18
 
@@ -4078,14 +4064,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 01:27
-1405/02/18
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- According to Iranian media, no deaths have resulted from the US strikes on the south of the country.
-01:26
 1405/02/18
 
 
