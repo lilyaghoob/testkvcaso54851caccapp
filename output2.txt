@@ -1,3 +1,88 @@
+src :@ClashReport
+‏Scattered clashes are reportedly ongoing in the Strait of Hormuz between Iranian and U.S. forces.
+‏
+‏Source: Fars
+18:01
+1405/02/18
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️رسانه های وابسته به جمهوری اسلامی اعلام کردند روز جمعه ۱۸ اردیبهشت در محدوده شهرستان سیریک صدای انفجار شنیده شده، اما تاکنون ماهیت این صداها مشخص نشده و هیچ‌یک از نهادهای رسمی درباره آن توضیحی ارائه نکرده‌اند.
+‏@indypersian
+18:01
+1405/02/18
+
+
+
+
+src :@World_Newsly
+‏🔴 ایالات متحده آمریکا چین ایران سفیر آمریکا در سازمان ملل مایک والتز:
+‏ایران این هفته به یک نفتکش چینی در سواحل امارات حمله کرد.
+‏
+‏✍🏻 Danger
+‏▪️@World_Newsly
+18:00
+1405/02/18
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏🇮🇷🇺🇸| BREAKING: Fars reports sporadic clashes in the Strait of Hormoz between Iran-US forces
+‏
+‏For the past hour, sporadic clashes took place between Iran’s armed forces and US Navy vessels.
+‏
+‏This comes after CENTCOM “disabled” 2 empty VLCC tankers returning to Iran.
+‏
+‏The earlier reports where Sirik locals heard explosions are therefore related to this event. 
+‏
+‏@FotrosResistancee
+17:59
+1405/02/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏خبرگزاری موثق معتبر و کار درست فارس: در ساعات گذشته گزارش‌هایی از درگیری‌های پراکنده بین نیروهای مسلح ایران و شناورهای آمریکایی در تنگه هرمز منتشر شده است
+17:59
+1405/02/18
+
+
+
+
+src :@MilitarryWorld
+‏🚨چندین رسانه داخلی از درگیری‌های تازه بین آمریکا و ایران در تنگه هرمز گزارش می‌دهند.
+‏
+‏@MilitarryWorld | Parsa
+17:57
+1405/02/18
+
+
+
+
+src :@intelslava
+‏🇺🇸🇮🇷❗️BREAKING: Several Iranian outlets report renewed clashes between the US and Iran in the Strait of Hormuz.
+‏
+‏@IntelSlava
+17:57
+1405/02/18
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡- Several Iranian outlets report renewed clashes between the US and Iran in the Strait of Hormuz over the past few hours.
+17:57
+1405/02/18
+
+
+
+
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Fars News Agency: Sporadic clashes have been reported between Iranian armed forces and U.S. vessels in the Strait of Hormuz over the past hours.
 ‏ 
@@ -1316,28 +1401,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴فوری / شنیده شدن صدای انفجارهایی در محدوده شهرستان سیریک از سوی ساکنان محلی گزارش شده است
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-16:38
-1405/02/18
-
-
-
-
-src :@World_Newsly
-‏🔴هنوز هیچ‌یک از نهادهای رسمی درباره علت وقوع این صداها اظهارنظر نکرده‌اند
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-16:38
-1405/02/18
-
-
-
-
 src :@wfwitness
 ‏⚡️🇱🇧🇺🇸🇮🇱 MTV sources on the third round of negotiations:  Exceptional efforts and intensive communications are being carried out by President Joseph Aoun to secure the ceasefire before Thursday, in order to provide a comfortable atmosphere for the negotiating…
 16:37
@@ -2215,16 +2278,6 @@ src :@tabzlive
 
 
 
-src :@ClashReport
-‏Türkiye is preparing legislation to formally claim disputed maritime zones in the Aegean and Mediterranean.
-‏
-‏Source: Bloomberg
-15:22
-1405/02/18
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏گزارشات از دو کشته و یک زخمی در پی هدف قرار گرفتن دو موتورسیکلت متعلق به نیروهای حزب الله توسط پهپاد اسرائیلی در اطراف حومین التحتا در جنوب لبنان
 15:20
@@ -2369,14 +2422,6 @@ src :@MilitiaNews
 ‏- لامحمد لامکه
 ‏@MilitiaNews | میلیشا را دنبال کنید
 15:00
-1405/02/18
-
-
-
-
-src :@ClashReport
-‏Iran launched two ballistic missiles and three drones at the UAE today, injuring three people.
-14:59
 1405/02/18
 
 
@@ -2898,17 +2943,6 @@ src :@mwarmonitor
 
 
 
-src :@P_raetorio
-[عکس]
-‏حمله ارتش اسرائیل به جنوب لبنان
-‏
-‏@P_raetorio
-14:07
-1405/02/18
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🚢تانکر نفتی ایران با نام "HASNA" که گفته می‌شود توسط یک فروند جنگنده F/A-18 آمریکا به آن شلیک شده بود، حدود ۱۲ ساعت پیش با استفاده از سیگنال AIS در نزدیکی تنگه هرمز مشاهده شده است.
@@ -3062,17 +3096,6 @@ src :@Mena_Live
 
 
 
-src :@mwarmonitor
-[عکس]
-‏✈️🇫🇷یک فروند هواپیمای سوخت‌رسان A330 نیروی هوایی فرانسه که از جیبوتی برخاسته، در نزدیکی امارات متحده عربی در حال سوخت‌رسانی هوایی به جنگنده‌ها است.
-‏
-‏@mwarmonitor
-13:41
-1405/02/18
-
-
-
-
 src :@didarnews1
 ‏🔴 احمد خاتمی: 
 ‏
@@ -3117,19 +3140,6 @@ src :@jangaavaran1390
 [عکس]
 ‏تصویر منتشر شده توسط منابع اسرائیلی که مدعی شده اند متعلق به یک پهپاد حزب الله است که بی سر و صدا روی سقف یک مدرسه در شمال اسرائیل برای خودش خوابیده بوده.
 13:33
-1405/02/18
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️سازمان جهانی بهداشت روز جمعه اعلام کرد خطر شیوع سویه مرگبار ویروس هانتا برای عموم مردم «بسیار پایین» است، چرا که این ویروس تنها از طریق «تماس بسیار نزدیک» منتقل می‌شود.
-‏کریستین لیندمایر، سخنگوی سازمان جهانی بهداشت، در نشست خبری ژنو گفت: «این ویروس خطرناک است، اما فقط برای فردی که واقعا آلوده شده و خطر آن برای عموم مردم همچنان بسیار پایین باقی می‌ماند.»
-‏او با اشاره به کشتی کروز «ام‌وی هوندیوس» افزود، در برخی موارد حتی افرادی که در یک کابین با مبتلایان اقامت داشته‌اند، به این بیماری خطرناک مبتلا نشده‌اند.
-‏
-‏@indypersian
-13:30
 1405/02/18
 
 
@@ -3336,16 +3346,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 12:37
-1405/02/18
-
-
-
-
-src :@MilitarryWorld
-‏⭕️ارتش اسرائیل به ساکنان روستای العباسیه در جنوب لبنان هشدار داد تا منطقه‌ای به شعاع حداقل ۱۰۰۰ متر را تخلیه کنند.
-‏
-‏@MilitarryWorld | Parsa
-12:32
 1405/02/18
 
 
@@ -4103,21 +4103,6 @@ src :@Military_Times_Blog
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — U.S. Trade Court Rules Trump’s 10% Global Tariffs Unlawful
-‏
-‏The U.S. Court of International Trade ruled 2-1 on May 7 that President Trump’s 10% across-the-board tariffs on imports, imposed under Section 122 of the Trade Act of 1974, exceed presidential authority. The decision came in challenges brought by small businesses and states. 
-‏
-‏While the court declared the tariffs unlawful, it issued a narrow injunction blocking collection only for the specific plaintiffs. The administration is expected to appeal. The tariffs, which took effect in February as a temporary measure, are set to expire in July.
-‏
-‏The Global Eye | Subscribe
-08:26
-1405/02/18
-
-
-
-
 src :@Military_Times_Blog
 ‏حملات به امارات متحده عربی بوسیله پهپاد و موشک بالستیک و کروز. 
 ‏
@@ -4412,14 +4397,6 @@ src :@Americana_ir
 src :@rnintel
 ‏🇬🇧⚡️- Labour party activists are telling media that tonight's results are reaching "worst case" territory.
 03:43
-1405/02/18
-
-
-
-
-src :@rnintel
-‏🇬🇧⚡️- Greens score their first flip from Labour tonight in Charley South West.
-03:40
 1405/02/18
 
 
@@ -4954,16 +4931,6 @@ src :@intelslava
 
 
 
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷 — The area surrounding the Taherieh pier in Sirik was attacked by "the enemy", Iranian media reports
-‏
-‏@BellumActaNews
-00:55
-1405/02/18
-
-
-
-
 src :@warmonitors
 ‏⚡The Khatem al-Anbiya Commander of the Iranian Armed Forces in an official statement: The US violated the ceasefire by attacking Iranian ships. We will respond to any attack with force and without any hesitation.
 00:55
@@ -5017,14 +4984,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 00:54
-1405/02/18
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇷❗️BREAKING: "The ceasefire has collapsed." - Israel Channel 14.
-00:53
 1405/02/18
 
 
@@ -5289,16 +5248,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 00:26
-1405/02/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏منابع عربی از حمله ایران به ناوهای آمریکایی با پهپاد و موشک خبر می‌دهند 
-‏
-‏😐
-00:24
 1405/02/18
 
 
