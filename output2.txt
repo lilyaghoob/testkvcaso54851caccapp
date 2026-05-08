@@ -1,3 +1,21 @@
+src :@MilitarryWorld
+‏⭕️شبکه کان اسرائیل: واشنگتن و تهران فعلا تمایلی به درگیری دوباره ندارن؛ ترامپ میتونست یه حمله دیگه دست و پا کنه ولی از انجام دادنش خودداری کرد
+‏
+‏@MilitarryWorld | Parsa
+00:40
+1405/02/19
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇶☀️🇮🇷 Footage from Khalifan in the Kurdistan Region of Iraq shows a fighter jet flying with its afterburner engaged on route to the drone incursion area.  @wfwitness
+00:40
+1405/02/19
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 نیروی هوایی آمریکا اعلام کرد سامانه «دراگون کارت» برای شلیک موشک‌های کروز از هواپیماهای ترابری تا سال ۲۰۲۷ عملیاتی خواهد شد. این برنامه امکان تبدیل هواپیماهای ترابری مانند سی-۱۷ و سی-۱۳۰ به سکوی حمله موشکی را فراهم می‌کند.
@@ -805,15 +823,6 @@ src :@MilitiaNews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧🇮🇷🇮🇱 Hezbollah has released new statements in regards to operations against Israeli forces:  “In response to the Israeli ceasefire violations, the targeting of Beirut’s southern suburbs, and attacks on villages and civilians in southern Lebanon, we targeted…
-23:15
-1405/02/18
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️وزارت خارجه قطر خطاب به معاون رئیس‌جمهور امریکا: ما حملات ایران به امارات را محکوم می‌کنیم و بر همبستگی و حمایت خود از اقدامات انجام شده توسط امارات متحده عربی برای حفظ حاکمیت خود تأکید داریم
 ‏
@@ -1404,19 +1413,6 @@ src :@rnintel
 
 
 
-src :@World_Newsly
-‏🔴 زلنسکی: جان اسرا مهم‌تر از میدان سرخ است
-‏
-‏رئیس‌جمهور اوکراین اعلام کرد میدان سرخ مسکو برای اوکراین اهمیتی کمتر از جان اسرای اوکراینی دارد که می‌توانند به کشور بازگردند.
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-22:16
-1405/02/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ دونالد ترامپ، رئیس‌جمهوری آمریکا، روز جمعه ۱۸ اردیبهشت، اعلام کرد که روسیه و اوکراین بر سر یک آتش‌بس سه روزه که از شنبه آغاز می‌شود و همچنین تبادل متقابل ۲۰۰۰ اسیر (۱۰۰۰ نفر از هر طرف) به توافق رسیده‌اند. ترامپ در پیامی ابراز امیدواری کرد که این آتش‌بس در روزهای شنبه، یکشنبه و دوشنبه، «آغازی بر پایان این جنگ طولانی، مرگبار و سخت» باشد.
@@ -1426,22 +1422,6 @@ src :@Indypersian
 ‏روسیه پیش از این به مناسبت ۹ مه، سالگرد پیروزی در جنگ جهانی دوم، یک آتش‌بس دو روزه یک‌جانبه اعلام کرده بود، اما اکنون با توافق جدید، این مدت به سه روز افزایش یافته و شامل تبادل گسترده اسرا نیز می‌شود. این تحول دیپلماتیک که با نقش‌آفرینی مستقیم واشنگتن حاصل شده، امیدها را برای کاهش تنش‌ها در جبهه‌های نبرد تقویت کرده است.
 ‏@indypersian
 22:15
-1405/02/18
-
-
-
-
-src :@World_Newsly
-‏🔴 وال استریت ژورنال: هیچ کشتی تجاری بزرگ از سه‌شنبه از تنگه هرمز عبور نکرده است
-‏
-‏وال‌استریت ژورنال گزارش داده از روز سه‌شنبه تاکنون هیچ کشتی تجاری متعلق به شرکت‌های ثبت‌شده بین‌المللی از تنگه هرمز عبور نکرده است.
-‏
-‏بر اساس این گزارش، بیشتر ترددهای اخیر مربوط به ناوگان سایه، کشتی‌های متعلق به ایران یا شناورهای کوچک محلی بوده است.
-‏
-‏ 
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-22:14
 1405/02/18
 
 
@@ -1461,26 +1441,6 @@ src :@naya_foriraq
 ‏🇮🇷الجيش الإيراني:
 ‏صباح يوم الجمعة 8 مايو/أيار، بينما كانت البحرية الأمريكية تحاول إبعاد مدمراتها الثلاث المعتدية بدعم جوي من مضيق هرمز باتجاه بحر عُمان، شنت البحرية الإيرانية هجومًا مشتركًا بالصواريخ والطائرات المسيرة، مستخدمةً 8 صواريخ كروز و24 طائرة مسيرة انتحارية. نتيجةً لهذه العملية، ورغم الجهود الحثيثة التي بذلتها البحرية الأمريكية لصد الهجوم، أصاب صاروخ كروز واحد و3 طائرات مسيرة انتحارية المدمرات الأمريكية بنجاح، مما أدى إلى اندلاع حريق.  تجدر الإشارة إلى أن هذه العملية سُميت تيمنًا بالقائد الشهير لمدمرة جماران التابعة للجمهورية الإسلامية الإيرانية، النقيب "أمير بهادر مايوان"، أي عملية الشهيد مايوان.
 22:14
-1405/02/18
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 ترامپ: ایران هنوز انعطاف‌پذیرتر شده، اما اگر توافق نکند عملیات نظامی برمی‌گردد
-‏
-‏ترامپ در تازه‌ترین اظهاراتش گفته مقام‌های ایرانی نسبت به گذشته «انعطاف‌پذیرتر» شده‌اند، اما هشدار داده اگر تهران وارد یک توافق واقعی نشود، عملیات نظامی می‌تواند دوباره از سر گرفته شود.
-‏
-‏او هم‌زمان تأکید کرده آمریکا همچنان کنترل کامل عملیات در منطقه را در دست دارد و فشار بر ایران ادامه خواهد داشت.
-‏
-‏تحلیل:
-‏این موضع نشان می‌دهد کاخ سفید فعلاً به‌دنبال پایان سریع جنگ نیست، بلکه می‌خواهد با ترکیب فشار نظامی و اقتصادی، ایران را به توافقی از موضع ضعف بکشاند. برای جمهوری اسلامی، زمان علیه اقتصاد کشور حرکت می‌کند؛ و برای مردم ایران، ادامه این وضعیت یعنی تورم، گرانی و نااطمینانی بیشتر.
-‏
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-22:13
 1405/02/18
 
 
@@ -2342,17 +2302,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The U.S. jobs report for April "blew past expectations," with an addition of 115,000 jobs, surpassing the 55,000 gain projected by economists, WSJ reports.
-‏
-‏➡️ The unemployment rate remains unchanged.
-21:07
-1405/02/18
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏⚜تصویر ماهواره ای از دیگو گارسیا که یک مورد جالب دارد.
@@ -2363,19 +2312,6 @@ src :@MilitiaNews
 ‏✒️#LT
 ‏📃@Cataphract1
 21:06
-1405/02/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — The IRGC Navy warned ships to stay at least 10 miles away from U.S. warships in the Strait of Hormuz following overnight clashes, saying in a radio transmission that sometimes it needs to teach the “Yankees” a lesson using “missiles and drones,” according to CNN.
-‏
-‏➡️ A maritime industry source told CNN that Iranian authorities instructed ships in the northern part of the strait to move closer to Dubai, while “intense gunfire” was heard in the area on Thursday.
-‏
-‏➡️ Another industry source said prospects for a peaceful resolution remain slim, warning there are growing concerns that wider conflict could erupt soon.
-21:04
 1405/02/18
 
 
@@ -3534,18 +3470,6 @@ src :@selena_updates
 [عکس]
 ‏The IDF Southern Command is building a military outpost on the ruins of the former Bani Suhaila Square area, in southern Gaza.
 18:35
-1405/02/18
-
-
-
-
-src :@MilitarryWorld
-‏⭕️کاظمی، نماینده مجلس: 
-‏
-‏ترامپ با حملات دیشب به‌دنبال دستاوردسازی بود اما شکست دیگری خورد
-‏
-‏@MilitarryWorld | Parsa
-18:31
 1405/02/18
 
 
@@ -5963,23 +5887,4 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:42
-1405/02/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴برخی گزارشات از شلیک 15 موشک بالستیک توسط سپاه پاسداران به سمت بندر نفتی الفجیره.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-00:38
-1405/02/18
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — A senior Iranian military official told IRIB:  "After an American attack on an Iranian oil tanker, we launched missiles at enemy units in Hormuz".  @TheWarReporter
-00:38
 1405/02/18
