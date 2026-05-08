@@ -1,3 +1,67 @@
+src :@mwarmonitor
+‏🔴«به گزارش وال‌استریت ژورنال (WSJ)، از روز سه‌شنبه تاکنون هیچ کشتی تجاریِ متعلق به شرکت‌های کشتیرانی ثبت‌شده از تنگه هرمز عبور نکرده است؛ هم‌زمان با تشدید درگیری‌ها میان ایران و ایالات متحده.»
+‏
+‏@mwarmonitor
+21:21
+1405/02/18
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Apple and Intel have reached a preliminary agreement under which Intel would manufacture some chips for Apple devices, WSJ reports.
+‏
+‏The companies have been engaged in discussions for more than a year, with a formal arrangement taking shape in recent months. 
+‏
+‏A $9 billion U.S. government grant and a 10% government stake in Intel helped encourage the deal, while Trump personally urged Apple CEO Tim Cook to work with Intel.
+‏
+‏It remains unclear which Apple products would use chips manufactured by Intel under the proposed agreement.
+21:21
+1405/02/18
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، در تماسی تلفنی با همتای ترکیه‌ای خود، هاکان فیدان، آخرین تحولات منطقه‌ای را مورد بحث و تبادل نظر قرار داد.
+‏
+‏عراقچی در این تماس گزارشی از آخرین وضعیت مذاکرات و آنچه «نقض مکرر آتش‌بس توسط ایالات متحده» خوانده، ارائه کرده است. او همچنین اختلال در تردد دریایی تنگه هرمز را نتیجه «قانون‌گریزی و ماجراجویی‌های نظامی آمریکا» دانست.
+‏
+‏هم‌زمان، فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که نیروهایش از ورود دو نفتکش دیگر ایرانی که قصد شکستن محاصره بنادر ایران را داشتند، جلوگیری کرده و آن‌ها را از کار انداخته‌اند. این اقدامات فشارها بر آتش‌بس لرزان کنونی را بیش از پیش افزایش داده است.
+‏@indypersian
+21:20
+1405/02/18
+
+
+
+
+src :@tglobaleye
+‏🇷🇺⚡️— The broadcast of the parade on May 9th in Moscow will not be live, but will take place with a time delay, — Kremlin. 
+‏
+‏🇪🇺 Legion Europa | Group Chat 🇪🇺
+21:20
+1405/02/18
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇺🇸⚡️ — Commissioners in Palm Beach County approved a trademark and licensing agreement with The Trump Organization, clearing the way for Palm Beach International Airport to be renamed “President Donald J. Trump International Airport,” NYT reports.
+‏
+‏Under the deal, the Trump family business will not receive profits from branded merchandise sold inside the airport, though outside sales are not restricted.
+‏
+‏The agreement also grants the Trump family control over biographical materials displayed at the airport and requires airport officials to choose merchandise vendors from a list approved by the Trump business.
+‏
+‏The new name will take effect on July 1, pending certain administrative changes by the Federal Aviation Administration.
+21:17
+1405/02/18
+
+
+
+
 src :@Middle_East_Spectator
 ‏🇺🇸🇮🇷 — The MV Ocean Trader Special Warfare Support vessel has been spotted anchored at Naval Support Facility Diego Garcia in the Indian Ocean. The MV Ocean Trader is a covert special operations vessel designed to blend in to conventional naval traffic, and can host ~159 special forces troops for insertion/extraction commando missions that can be conducted via various small boats and helicopters present on the ship.
 21:16
@@ -51,7 +115,7 @@ src :@World_Newsly
 
 
 src :@GeoPWatch
-‏🇺🇸🇮🇷 — The MV Ocean Trader Special Warfare Support vessel has been spotted anchored at Naval Support Facility Diego Garcia in the Indian Ocean. The MV Ocean Trader is a covert special operations vessel designed to blend in to conventional naval traffic, and can host ~159 special forces troops for insertion/extraction commando missions that can be conducted via various small boats and helicopters present on the ship, and has enough storage to support 45 days of operations before needing replenishment.
+‏🇺🇸🇮🇷 — The MV Ocean Trader Special Warfare Support vessel has been spotted anchored at Naval Support Facility Diego Garcia in the Indian Ocean. The MV Ocean Trader is a covert special operations vessel designed to blend in to conventional naval traffic, and can host ~159 special forces troops for insertion/extraction commando missions that can be conducted via various small boats and helicopters present on the ship.
 21:14
 1405/02/18
 
@@ -2181,21 +2245,6 @@ src :@GeoPWatch
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🚢یک نفتکش بسیار بزرگ (VLCC) با طول حدود ۳۴۰ متر که هویت آن مشخص نشده، دیروز در تنگه هرمز در مختصات 26.528، 56.594 در ساعت 0647 به وقت UTC مشاهده شد.
-‏
-‏🔴گزارش شده که احتمالاً از بخش موتورخانه آن نشت نفت رخ داده است، احتمالاً به دلیل یک حادثه مرتبط با ایران 🇮🇷، و این اتفاق تنها ۴ مایل دریایی شمال‌شرقی جزایر «السلامه» در عمان 🇴🇲 رخ داده است.
-‏
-‏🚤همچنین فعالیت شدید قایق‌های کوچک با سرعت بالا مشاهده شده که به سمت شمال‌شرق در حال حرکت هستند.
-‏
-‏@mwarmonitor
-18:05
-1405/02/18
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Fars News Agency: Sporadic clashes have been reported between Iranian armed forces and U.S. vessels in the Strait of Hormuz over the past hours.    @wfwitness
 18:04
@@ -2612,19 +2661,6 @@ src :@rus_cosmos
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️خبرگزاری مهر، وابسته به سازمان تبلیغات اسلامی، روز جمعه ۱۸ اردیبهشت گزارش داد که نیروی دریایی ایالات متحده شب گذشته به یک لنج با پرچم ایران حمله کرده است که در پی آن ۱۰ ملوان مجروح شده و ۵ نفر دیگر همچنان مفقودند.
-‏
-‏گزارش‌ها حاکی از آن است که این حمله در محدوده آب‌های تنگه هرمز و دریای مکران (دریای عمان) رخ داده و این لنج باری در نزدیکی سواحل شهرستان میناب هدف قرار گرفته و دچار آتش‌سوزی شده است. به گزارش مهر، این شناور در مجموع ۱۵ سرنشین داشته که ۱۰ تن از آنان پس از مجروح شدن به بیمارستان منتقل شده‌اند و گروه‌های بومی و تیم‌های امداد و نجات همچنان در تلاش برای یافتن وضعیت سایر ملوانان مفقودشده هستند.
-‏
-‏@indypersian
-17:21
-1405/02/18
-
-
-
-
 src :@ircfspace
 [عکس]
 ‏آپدیت جدید کلاینت ZedSecure از طریق گوگل‌پلی در دسترس قرار گرفت. 
@@ -2685,19 +2721,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇸 US strikes several tankers trying to break the Strait of Hormuz blockade, Fox reports.
 ‏
 ‏@BRICSNews
-17:05
-1405/02/18
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️روح‌الله مومن‌نسب، دبیر ستاد امر به معروف تهران، روز جمعه ۱۸ اردیبهشت با تاکید بر ضرورت تدوین و اجرای «نظام حقوقی جدید برای اینترنت» گفت که وضعیت فضای مجازی نباید به حالت قبل قبل برگردد. او این شرایط را به کشته شدن علی خامنه‌ای، دانش‌آموزان دبستان میناب و سایر کشته‌شدگان این جنگ مرتبط دانست و گفت همان‌طور که این افراد باز نمی‌گردند، فضای مجازی نیز نیازمند تغییر است.
-‏
-‏مومن‌نسب با تکرار ادعای «پیروزی نظامی» جمهوری اسلامی در مقابله با ایالات متحده و اسرائیل، گفت: «بدون شک اگر نظام حقوقی جدید برای اینترنت تدوین و محکم اجرا نشود، با همین فضای مجازیِ ول، همه پیروزی‌های کشورمان را تبدیل به شکست می‌کنند و شکست‌های تلخ اطلاعاتی‌مان هم تثبیت و تعمیق می‌شود.»
-‏
-‏@indypersian
 17:05
 1405/02/18
 
@@ -3731,16 +3754,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 14:53
-1405/02/18
-
-
-
-
-src :@cataphract1
-‏⭕️ وزارت دفاع امارات اعلام کرده ایران امروز 2 موشک و 3 پهپاد به سمت این کشور پرتاب کرده که منجر به زخمی شدن 3 نفر با جراحت متوسط شده 
-‏
-‏📃@Cataphract1
-14:51
 1405/02/18
 
 
