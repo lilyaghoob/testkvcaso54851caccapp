@@ -1,3 +1,75 @@
+src :@Mena_Live
+[عکس]
+‏The Syrian Arab Republic's flag was raised above the water tank in the Gweran neighborhood of the city of Al-Hasakah.
+‏
+‏@Mena_Live
+20:47
+1405/02/18
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ترامپ : قیمت داروها رو 90 درصد آوردیم پایین،البته اگه بخوای یه‌جوری بگی، میشه گفت 500٪ یا 600٪ هم کم شده!
+‏
+‏@MilitarryWorld | Parsa
+20:45
+1405/02/18
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇱/🇮🇷 NEW: Israel has detected another missile from Iran   @Middle_East_Spectator
+20:44
+1405/02/18
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇱/🇮🇷 NEW: Israel has detected another missile from Iran 
+‏
+‏@Middle_East_Spectator
+20:44
+1405/02/18
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸The Pentagon has begun declassifying its UFO-related materials.
+‏
+‏Among the 162 documents already published are old reports, photos, videos, witness statements, and materials from various agencies, including NASA, the FBI, and the Pentagon itself.
+‏
+‏As an example, there is the testimony of a drone operator who reported a "linear object" with a very bright light in the sky in September 2023. There is also a photo from the moon in 1972, which shows three points in a triangular arrangement.
+‏
+‏@Intelslava
+20:43
+1405/02/18
+
+
+
+
+src :@GeoPWatch
+‏🇮🇱🇮🇷 — The IDF's missile detection radar system malfunctioned minutes ago, causing a false detection of two ballistic missile launches from Iran towards southern Israel.
+20:43
+1405/02/18
+
+
+
+
+src :@intelslava
+‏🇺🇸Trump declared May 8 as Victory Day in the Second World War in the USA, according to the White House website.
+‏
+‏@Intelslava
+20:42
+1405/02/18
+
+
+
+
 src :@GeoPWatch
 ‏🇱🇧❌🇮🇱 — Hezbollah announces hitting a gathering of IDF soldiers in the town of Al-Bayada, central southern Lebanon, with a FPV drone at 17:50, 8th of May.
 20:41
@@ -1017,17 +1089,6 @@ src :@KayhanLondonChannel
 
 
 src :@World_Newsly
-‏🔴 دیوان عالی ویرجینیا رأی موفقیت‌آمیز بازتقسیم حوزه‌های انتخاباتی ایالت را که چهار کرسی بیشتر به دموکرات‌ها در مجلس می‌داد، لغو کرده است.
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-19:16
-1405/02/18
-
-
-
-
-src :@World_Newsly
 [عکس]
 ‏🔴روس‌اتم : فعالیت‌های نیروگاه هسته‌ای بوشهر داره کم‌کم دوباره راه می‌افته
 ‏
@@ -1078,20 +1139,6 @@ src :@naya_foriraq
 ‏
 ‏مع ذلك، إذا أراد الأمريكيون دخول الخليج الفارسي مجدداً أو تسببوا بإزعاج للسفن الإيرانية، فسيتلقون رداً حاسماً مرة أخرى. لذلك لا يزال هناك احتمال لحدوث صراعات من هذا النوع في هذه المنطقة.
 19:15
-1405/02/18
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 در مورد وعده من به شما، وزارت جنگ اولین دسته از پرونده‌های یوفو/ی‌ا‌پی را برای بررسی و مطالعه عمومی منتشر کرده است. در تلاش برای شفافیت کامل و حداکثری، افتخار داشتم که به دولت خود دستور دهم تا پرونده‌های دولتی مربوط به موجودات فضایی و حیات فرازمینی، پدیده‌های هوایی شناسایی‌نشده و اشیاء پروازی شناسایی‌نشده را شناسایی و ارائه دهد.
-‏
-‏در حالی که دولت‌های قبلی در این موضوع و با این اسناد و ویدیوها شفاف نبوده‌اند، مردم می‌توانند خودشان تصمیم بگیرند که «دقیقاً چه خبر است؟» لذت ببرید و از آن لذت ببرید!
-‏
-‏✍🏻 Master
-‏▪️@World_Newsly
-19:14
 1405/02/18
 
 
@@ -1739,19 +1786,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-‏🔴 گزارش‌ها حاکی از درگیری‌های پراکنده در حال وقوع در تنگه هرمز بین نیروهای ایرانی و آمریکایی است.
-‏
-‏منبع: فارس
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-18:11
-1405/02/18
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️ آمریکا ۱.۷ تن اورانیوم غنی‌شده با عیار بالا از ژاپن دریافت کرده است/ این بزرگترین محموله بین‌المللی اورانیوم در تاریخ اداره ملی امنیت هسته‌ای امریکا (NNSA) است
 ‏
@@ -1955,18 +1989,6 @@ src :@P_raetorio
 ‏تصاویری ماهواره‌ای حاکی از نشت شدید نفت در جزیره خارک و ریختن آن به خلیج فارس است. علت دقیق این رویداد مشخص نیست اما احتمال پر شدن ذخایر نفتی می‌رود. 
 ‏
 ‏@P_raetorio
-17:54
-1405/02/18
-
-
-
-
-src :@mwarmonitor
-‏📝شرایط جوریه که اگه اسرائیل یه ترقه تو بیروت در کنه، جمهوری اسلامی می‌گه «نقض فاحش آتش‌بس» رخ داده و باید انتقام گرفت؛ اما اگه کل سواحل جنوب خودمون زیر آتیش بره، احتمالاً میگن «این‌ها صدای تمرینات نورافشانی برای جشن پیروزی مقاومت بوده، نگران نباشید!»
-‏
-‏🔸در واقع استراتژی اینه: «خط قرمز ما امنیت حزب‌الله‌ه، اما امنیت بندرعباس و قشم جزو موارد اختیاری و آپشنال سیستم محسوب میشه که فعلاً بهش بودجه تعلق نگرفته.»
-‏
-‏@mwarmonitor
 17:54
 1405/02/18
 
@@ -3178,18 +3200,6 @@ src :@cataphract1
 
 
 
-src :@MilitarryWorld
-‏🚨 وزیر امور خارجه آمریکا: 
-‏
-‏منتظر پاسخ ایران در مورد مذاکرات امروز هستیم و امیدواریم پاسخ منطقی دریافت کنیم
-‏
-‏@MilitarryWorld | Parsa
-15:41
-1405/02/18
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏وزیر امور خارجه آمریکا: امروز منتظر پاسخ ایران هستیم و امیدواریم که منجر به آغاز یک روند مذاکره جدی شود
 15:40
@@ -3378,22 +3388,6 @@ src :@tabzlive
 src :@WAR_ROOM_NEWS
 ‏گزارشات از دو کشته و یک زخمی در پی هدف قرار گرفتن دو موتورسیکلت متعلق به نیروهای حزب الله توسط پهپاد اسرائیلی در اطراف حومین التحتا در جنوب لبنان
 15:20
-1405/02/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Ukrainian President Zelensky:
-‏Throughout the past night, the Russian army continued to strike Ukrainian positions. 
-‏
-‏As of 7 AM, more than 140 shellings of frontline positions had been recorded. The Russians conducted 10 assault operations that night, the majority of which were in the Slavyansk direction. 
-‏
-‏They also launched more than 850 strikes with various types of drones: FPV, "Lancet," and others. There were also attack drones. The use of reconnaissance drones in the skies of frontline communities also continued unabated.
-‏
-‏There was not even an attempt to imitate a ceasefire at the front. As with the results of the previous day, Ukraine will respond symmetrically today.
-15:12
 1405/02/18
 
 
@@ -4984,17 +4978,6 @@ src :@Americana_ir
 
 
 
-src :@intelslava
-[عکس]
-‏🇪🇬🇦🇪 Egyptian President Abdel Fattah El-Sisi visited the United Arab Emirates, where he met with Emirati President Mohammed bin Zayed and inspected a squadron of Egyptian Air Force (EAF) Rafale multirole fighters deployed in the country.
-‏
-‏@IntelSlava
-01:55
-1405/02/18
-
-
-
-
 src :@BellumActaNews
 ‏🇹🇩 — Chad’s government declares a state of emergency in Lac Province following attacks by Boko Haram (statement)
 01:51
@@ -5599,16 +5582,6 @@ src :@thewarreporter
 
 
 
-src :@Mena_Live
-‏‼️🇮🇷🇺🇸 IRGC Navy engaged US naval units in the Strait of Hormuz according to Iranian state media.
-‏
-‏@Mena_Live
-23:26
-1405/02/17
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 امروز تصاویری از استقرار جنگنده های رافال مصری در خاک امارات و ملاقات سیسی رئیس جمهوری مصر با مقامات امارات منتشر شده بود. 
 ‏
@@ -5745,45 +5718,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 21:58
-1405/02/17
-
-
-
-
-src :@mamlekate
-‏📝 استاندار تهران اعلام کرد از روز شنبه ۱۹ اردیبهشت ۱۴۰۵، حضور کارکنان همه وزارتخانه‌ها، سازمان‌ها و دستگاه‌های اجرایی مستقر در استان تهران به‌صورت ۱۰۰ درصدی خواهد بود.
-‏
-‏محمدصادق معتمدیان همچنین گفت فعالیت مدارس و دانشگاه‌ها نیز طبق تصمیم وزارت آموزش و پرورش و وزارت علوم، به شکل حضوری و طبق روال اعلام‌شده ادامه خواهد داشت.
-‏
-‏ManotoTV
-‏@mamlekate
-20:45
-1405/02/17
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 به گزارش واشنگتن‌ پست به نقل از منابع مطلع، آژانس اطلاعات مرکزی آمریکا (CIA) در یک ارزیابی محرمانه به این جمع‌بندی رسیده است که ایران در صورت قرار گرفتن تحت شرایط فشار شدید تحریمی و محاصره دریایی گسترده آمریکا، می‌تواند حدود سه تا چهار ماه تاب‌آوری عملیاتی و ساختاری خود را حفظ کند. 
-‏
-‏🔹 در این ارزیابی همچنین تأکید شده که با وجود حملات آمریکا و اسرائیل به برخی زیرساخت‌ها، بخش قابل توجهی از توان موشکی ایران همچنان دست‌نخورده باقی مانده و حدود ۷۵ درصد از پرتابگرهای متحرک و نزدیک به ۷۰ درصد از ذخایر موشک‌های بالستیک پیش از جنگ همچنان در اختیار ایران است، موضوعی که نشان می‌دهد ظرفیت نظامی این کشور در حوزه موشکی به‌طور کامل تضعیف نشده است.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-20:44
-1405/02/17
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‏ ‏
-‏آخرین وضعیت آمریکا و جمهوری اسلامی؛ هفتاد روز پس از شروع جنگ
-‏
-‏کارتون از بهنام محمدی
-‏https://kayhan.london/1405/02/17/401684/
-20:42
 1405/02/17
