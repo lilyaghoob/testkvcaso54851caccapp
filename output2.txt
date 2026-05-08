@@ -1,7 +1,27 @@
 src :@GeoPWatch
-‏🇮🇷🇮🇶 — Interception of a drone, likely en route to strike Kurdish militia targets, above Soran District, Erbil Governorate, Iraqi Kurdistan.
+‏🇮🇷❌🇺🇸 — Public Relations of the Islamic Republic of Iran Army announces that, during last night's clash between Iran and the U.S. Navy, they launched 8 cruise missiles and 24 suicide drones towards U.S. Navy destroyers. They claim that one cruise missile and three suicide drones impacted U.S. Navy destroyers.
 ‏
 ‏@GeoPWatch
+00:52
+1405/02/19
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷🇮🇶 — Interception of a drone by a fighter jet above Soran District, Erbil Governorate, Iraqi Kurdistan. This drone was likely intended to strike Kurdish militia infrastructure.
+‏
+‏@GeoPWatch
+00:47
+1405/02/19
+
+
+
+
+src :@ClashReport
+‏France has sent its ambassador back to Algeria and dispatched a senior official to attend ceremonies commemorating the 1945 Sétif massacre.
+‏
+‏Source: AFP
 00:47
 1405/02/19
 
@@ -2199,15 +2219,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🦠💉 — Moderna says it has conducted early-stage hantavirus vaccine research in cooperation with the U.S. Army Medical Research Institute of Infectious Diseases.
-21:13
-1405/02/18
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Syrian President Ahmad al‑Sharaa removed his brothers from top government roles to counter nepotism accusations and distance his rule from the Assad family model.
@@ -3778,16 +3789,6 @@ src :@MilitiaNews
 
 
 
-src :@ClashReport
-‏The US military launched more airstrikes today, targeting several empty oil tankers attempting to break the blockade.
-‏
-‏Source: Fox News
-17:32
-1405/02/18
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 — The U.S. Department of War has released the first tranche of declassified files on Unidentified Anomalous Phenomena (UAP), as part of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE).
@@ -4087,18 +4088,6 @@ src :@Minas_Tirith2024
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 16:32
-1405/02/18
-
-
-
-
-src :@ClashReport
-‏The Pentagon has started releasing new UFO/UAP files, saying the public can decide what to believe. 
-‏
-‏The effort involves the White House, NASA, FBI, Energy Department, and intelligence agencies.
-‏
-‏The Pentagon has been declassifying UFO material for years, but its 2024 report found no confirmed evidence of alien technology or extraterrestrial life.
-16:31
 1405/02/18
 
 
@@ -5782,55 +5771,4 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:51
-1405/02/18
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏‼️🇮🇱🇱🇧 IDF vehicles on fire in the town of Beit Al-Said in southern Lebanon.
-‏
-‏@Mena_Live
-00:50
-1405/02/18
-
-
-
-
-src :@Military_Times_Blog
-‏🔴انگار حملاتی به دبی در کار نبوده است.   🆔@Military_Times_Blog
-00:48
-1405/02/18
-
-
-
-
-src :@Mena_Live
-‏🇺🇸🇮🇷⚡️- BREAKING: Massive explosions reported in Bandar Abbas, southern Iran. Air defenses are active over the city.
-‏
-‏Likely a US Navy / US Air Force raid.
-00:48
-1405/02/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴انگار حملاتی به دبی در کار نبوده است.
-‏
-‏
-‏🆔@Military_Times_Blog
-00:47
-1405/02/18
-
-
-
-
-src :@Military_Times_Blog
-‏🔴انگار حملاتی به دبی در کار نبوده است.
-‏
-‏
-‏🆔@Military_Times_Blog
-00:47
 1405/02/18
