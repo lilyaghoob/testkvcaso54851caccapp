@@ -1,6 +1,62 @@
+src :@tabzlive
+‏🇱🇧❌🇮🇱 — Iron Dome interceptions in the western Galilee, northern Israel.
+14:46
+1405/02/18
+
+
+
+
+src :@MilitarryWorld
+‏🚨وزارت دفاع امارات مدعی حمله جدید ایران با دو موشک و سه پهپاد شد
+‏
+‏@MilitarryWorld | Parsa
+14:45
+1405/02/18
+
+
+
+
+src :@tabzlive
+‏🇦🇪🇮🇷⚡️ — NEW: The UAE's MoD reports that air defenses have engaged two ballistic missiles and three drones launched from Iran today.
+‏
+‏➡️ Three minor injuries have been reported.
+14:44
+1405/02/18
+
+
+
+
+src :@wfwitness
+‏Images of interceptions
+14:44
+1405/02/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇦🇪🇮🇷 The UAE Ministry of Defence announced that UAE air defense systems engaged two ballistic missiles and three drones launched from Iran on May 8, resulting in three moderate injuries.
+‏
+‏@wfwitness
+14:44
+1405/02/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏هشدار حملات راکتی در کریات و عکا و خلیج حیفا در شمال اسرائیل   این حمله احتمالا در تلافی ترور فرمانده ارشد یگان رضوان حزب‌الله در ضاحیه بیروت است
+14:43
+1405/02/18
+
+
+
+
 src :@GeoPWatch
 [عکس]
-‏🇮🇷🚫🇦🇪-Iran targeted the UAE with 2 Ballistic missiles and 3 Drones .
+‏🇮🇷🚫🇦🇪-Iran targeted the UAE with 2 Ballistic missiles, and 3 Drones during this morning's attacks.
 14:42
 1405/02/18
 
@@ -20,6 +76,14 @@ src :@mwarmonitor
 ‏🔹وزارت دفاع تأکید می‌کند که در آمادگی کامل برای مقابله با هرگونه تهدید قرار دارد و با قاطعیت با هر چیزی که امنیت کشور را هدف قرار دهد برخورد می‌کند، تا از حاکمیت، امنیت، ثبات و منافع و مقدرات ملی محافظت نماید.
 ‏
 ‏@mwarmonitor
+14:42
+1405/02/18
+
+
+
+
+src :@wfwitness
+‏All clear has been sent; no reports of impacts.
 14:42
 1405/02/18
 
@@ -52,7 +116,7 @@ src :@naya_foriraq
 
 src :@WAR_ROOM_NEWS
 [عکس]
-‏هشدار حملات هوایی در کریات و عکا در شمال اسرائیل 
+‏هشدار حملات راکتی در کریات و عکا و خلیج حیفا در شمال اسرائیل 
 ‏
 ‏این حمله احتمالا در تلافی ترور فرمانده ارشد یگان رضوان حزب‌الله در ضاحیه بیروت است
 14:40
@@ -2882,18 +2946,6 @@ src :@VahidOnline
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷WSJ: strikes reportedly hit military facilities on Qeshm Island, Bandar Abbas, Garuk and other locations after Iran launched missiles, drones and small-boat attacks against U.S. warships operating in the area.
-‏
-‏U.S. officials described the operation as “defensive”, while Iranian state media said Iranian forces had acted in retaliation for an earlier U.S. attack on an Iranian oil tanker accused by Washington of attempting to breach the blockade.
-‏
-‏@wfwitness
-06:43
-1405/02/18
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⭕️ سردرگمی پروازهای خطوط هوایی امارات در آسمان این کشور در پی هشدارها و شلیک پدافند.
@@ -3024,15 +3076,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏ALERTS UAE
-06:05
-1405/02/18
-
-
-
-
 src :@mamlekate
 ‏📝 ترامپ پس از حمله متقابل به بنادر جنوبی ایران: نوازشی دوستانه بود، در حال مذاکره هستیم
 ‏
@@ -3073,21 +3116,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 05:21
-1405/02/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇻🇳⚡️ — Vietnam's ruling Communist Party is planning a major overhaul of its propaganda strategy by incorporating social media influencers, artificial intelligence experts, podcasts, and short-form video content, according to internal documents reviewed by Reuters.
-‏
-‏➡️ The draft strategy aims to build a network of at least 1,000 influencers and 5,000 AI specialists by 2030 to spread what authorities describe as “positive” content and strengthen “ideological immunity” against harmful or false information.
-‏
-‏➡️ The draft calls for AI systems developed by Vietnamese technology companies to monitor online discussions and remove at least 90% of the content deemed to violate party guidelines within 24 hours.
-‏
-‏➡️ It also sets a goal for at least 80% of Vietnamese-language online content to be considered “positive” by the end of the decade.
-05:20
 1405/02/18
 
 
@@ -3137,15 +3165,6 @@ src :@Military_Times_Blog
 ‏
 ‏🆔@Military_Times_Blog
 05:11
-1405/02/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — NEW: President Trump told ABC News that the retaliatory strikes against Iranian targets are just a "love tap" and that the ceasefire is still in effect.  It's just a love tap.  The ceasefire is going. It's in effect.
-05:10
 1405/02/18
 
 
@@ -4219,18 +4238,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@MilitarryWorld
-‏⭕️تمام شبکه‌های تلویزیونی اسرائیل به دلیل تشدیدهای جاری ، توسط یک پخش اضطراری که هنوز ناشناخته است، قطع شده‌اند.
-‏
-‏فرماندهی جبهه داخلی اسرائیل از همه ساکنان خواسته است که در نزدیکی پناهگاه‌ها بمانند.
-‏
-‏@MilitarryWorld | Maverick
-00:56
-1405/02/18
-
-
-
-
 src :@rus_cosmos
 ‏ترامپ سه روز پیش گفت: «اگر ایران به کشتی‌های آمریکایی حمله کند، نابود خواهد شد»
 00:56
@@ -5009,14 +5016,6 @@ src :@WAR_ROOM_NEWS
 ‏خبر فوری: یک مقام ارشد آمریکایی می‌گوید که ایالات متحده به بندر قشم و بندرعباس در ایران حمله کرده است، اما تأکید کرد که این حملات نشانه آغاز مجدد جنگ نیست.
 ‏
 ‏منبع: فاکس نیوز
-00:10
-1405/02/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏گزارش‌هایی از انفجار در بندرعباس چند دقیقه پیش
 00:10
 1405/02/18
 
