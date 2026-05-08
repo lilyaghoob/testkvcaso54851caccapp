@@ -31,3 +31,5 @@ OmidIranAzad
 Library_Telegram
 mwarmonitor
 mamlekate
+RASTAKHIZ_PERSIAN
+defence_news
