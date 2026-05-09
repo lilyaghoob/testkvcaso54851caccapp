@@ -1,3 +1,13 @@
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- According to Axios, as of early Saturday afternoon, the United States is still awaiting Iran's response to the latest peace proposal aimed at ending the ongoing conflict.
+‏
+‏@GeoPWatch
+01:01
+1405/02/20
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️مهدی طائب، فرمانده قرارگاه عمار روز شنبه در جمع حامیان حکومت در اراک گفت: «تا زمانی که تنگه هرمز در کنترل ما باشد و اجازه عبور آزادانه به دشمن داده نشود، نشانه‌ای از سازش وجود ندارد. در گذشته برخی تصور می‌کردند اگر دشمن حمله‌ای انجام دهد همه چیز از بین خواهد رفت، اما امروز نگاه جامعه تغییر کرده است». او گفت: «دشمنان به این نتیجه رسیدند که برای مقابله با این جریان باید مرکز اسلام انقلابی را از بین ببرند و به همین دلیل در دوره‌های مختلف روسای جمهور آمریکا هر کدام بخشی از این برنامه را پیش بردند.»
@@ -3198,16 +3208,6 @@ src :@ManotoTV
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌⁉️- Air Defences were reportedly activated in central Israel moments ago.
-‏
-‏@GeoPWatch
-20:10
-1405/02/19
-
-
-
-
 src :@jangaavaran1390
 ‏خداییش راست میگه سیستم انرژی جهانی با یک قایق موتوری با یه دوشکا روش می‌چرخید
 20:06
@@ -5585,14 +5585,4 @@ src :@Artemis_Force
 ‏🖥 @aja_media
 ‏zil.ink/ajamedia_ir
 01:27
-1405/02/19
-
-
-
-
-src :@Mena_Live
-‏Maariv: The Syrian army is focusing on rehabilitating its air force and building heavy fire systems, including armored vehicles, artillery, and missiles, with direct support from Turkey
-‏
-‏@Mena_Live
-00:56
 1405/02/19
