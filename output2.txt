@@ -1,3 +1,20 @@
+src :@WAR_ROOM_NEWS
+‏ظاهراً بی بی پس از مصرف چندین لیوان شیرموز کمر همت به نوازش نیابتی های جمهوری اسلامی بسته
+15:44
+1405/02/19
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇱❌🇱🇧– Mass casualty event reported in Saksakiyeh, South Lebanon.  ➡️Dozens are feared dead following an Israeli airstrike on a building housing displaced families. The victims were reportedly refugees from the town of Jebchit. Rescue teams are currently on…
+15:42
+1405/02/19
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah said it fired a surface‑to‑air missile at an Israeli army drone in the skies over Abbasieh at 10:30 on Saturday, 9 May.
@@ -4029,14 +4046,6 @@ src :@MilitarryWorld
 
 
 
-src :@GeoPWatch
-‏⚡️🇱🇧🇱🇧❌🇮🇱 - Hezbollah announced targeting an IDF Infantry gathering using an FPV drone in southern Lebanon's 'Labnouneh' at 11:20.  @GeoPWatch
-00:00
-1405/02/19
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️نماینده آمریکا در سازمان ملل : 
 ‏ایران کشتی‌های غیرنظامی را تهدید به استفاده از سلاح می‌کند
@@ -5561,46 +5570,4 @@ src :@tglobaleye
 src :@WAR_ROOM_NEWS
 ‏وزیر امور خارجه آمریکا: امروز منتظر پاسخ ایران هستیم و امیدواریم که منجر به آغاز یک روند مذاکره جدی شود
 15:47
-1405/02/18
-
-
-
-
-src :@selena_updates
-[عکس]
-‏U.S. Central Command (CENTCOM) has announced that at least 73 tankers have been denied the opportunity to transport Iranian oil, reducing Iranian revenue by $13 billion. 
-‏
-‏To date, at least 50 vessels have been redirected on their way to/from an Iranian port of call, with 2 vessels that refused to stop and were disabled by U.S. forces.
-15:46
-1405/02/18
-
-
-
-
-src :@thewarreporter
-‏🇦🇪🇮🇷 — The Emirati Defense Ministry says Iran launched two ballistic missiles and three drones at the UAE today, injuring three people.
-‏
-‏@TheWarReporter
-15:44
-1405/02/18
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇷 — 
-‏
-‏@TheWarReporter
-15:42
-1405/02/18
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US Military says it is blocking more than 70 tankers from entering or leaving Iranian ports.
-‏
-‏@BRICSNews
-15:42
 1405/02/18
