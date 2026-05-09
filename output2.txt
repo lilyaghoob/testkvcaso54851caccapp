@@ -1,3 +1,39 @@
+src :@wfwitness
+‏Drone incursion into the Western Galilee
+20:46
+1405/02/19
+
+
+
+
+src :@wfwitness
+[عکس]
+‏Drone incursion into the Western Galilee
+20:46
+1405/02/19
+
+
+
+
+src :@naya_foriraq
+‏إطلاق رشقة صاروخية من لبنان نحو مستوطنات الشمال الفلسطيني المحتل.
+20:44
+1405/02/19
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏تصویر ماهواره‌ای با کیفیت بالا از نتیجه حمله پهپاد‌های اوکراینی به مرکز تحقیقات و توسعه رادار روس‌ها در منطقه روستوف این کشور
+‏
+‏@P_raetorio
+20:41
+1405/02/19
+
+
+
+
 src :@Minas_Tirith2024
 ‏Minas Tirith pinned a photo
 20:38
@@ -139,6 +175,8 @@ src :@GeoPWatch
 
 src :@naya_foriraq
 ‏🇺🇸‏ترامب: إيران لا تزال ترغب بشدة في إبرام اتفاق.
+‏
+‏ نتوقع رداً من إيران قريبا جداً.
 20:20
 1405/02/19
 
@@ -1631,25 +1669,6 @@ src :@VahidOnline
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇹🇷☀️🇮🇶 Iraqi Kurdistan Region Prime Minister Masrour Barzani met Turkish President Recep Tayyip Erdogan in Istanbul on 9 May, in a high‑level meeting that also included Turkish Foreign Minister Hakan Fidan, Defence Minister Yasar Guler, Energy Minister Alparslan Bayraktar and MIT chief Ibrahim Kalin. 
-‏
-‏Erdogan expressed solidarity with the Kurdistan Region and said Turkey opposes the spread of the US‑Iran conflict to other countries, expressing sadness over attacks on Iraqi territory including Erbil.  
-‏
-‏The two leaders discussed strengthening bilateral ties in trade, transportation and energy, as well as the formation of a new federal government in Iraq. 
-‏
-‏Barzani reiterated support for the PKK disarmament process and the peace initiative in Turkey. 
-‏
-‏Erdogan praised the role of KDP President Masoud Barzani and the KRG as a factor for regional peace and stability, and underlined the importance of the Development Road project for Iraq and the Gulf region.  
-‏
-‏@wfwitness
-18:29
-1405/02/19
-
-
-
-
 src :@rus_cosmos
 ‏فرماندهی مرکزی ایالات متحده سنتکام  تأیید کرد که محاصره دریایی آن همچنان به قوت خود باقی است.
 18:28
@@ -1783,20 +1802,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-‏⚡️🇮🇱🇱🇧🇱🇧 A reserve IDF soldier was seriously wounded and two others moderately wounded by an explosive drone strike this morning in Shlomi, inside Israeli territory, the IDF said. 
-‏
-‏In several other incidents today, Hezbollah drones fell inside Israeli territory near the Lebanese border.  
-‏
-‏In a separate incident, an explosive drone struck an unmanned IDF engineering vehicle, causing damage but no injuries.  
-‏
-‏@wfwitness
-18:19
-1405/02/19
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏روز جمعه،‌ ۱۸ اردیبهشت، یک خبرنگار در کاخ سفید از دونالد ترامپ درباره نتیجه تحقیقات دولت آمریکا درباره حمله به مدرسه میناب پرسید.
@@ -1837,14 +1842,6 @@ src :@tabzlive
 src :@mwarmonitor
 ‏🇺🇸ترامپ ؛ «ما مسیر متفاوتی نسبت به بقیه رفتیم تا همه‌چیز امضا و قطعی شود. این بهترین مسیر ممکن بود. از ما خواسته شد که آن کار را توسط دادستان کل ویلیام بار و بقیه انجام ندهیم؛ آن‌ها نمی‌خواستند همزمان با معامله با بار، از پروژه آزادی (Project Freedom) هم استفاده…
 18:16
-1405/02/19
-
-
-
-
-src :@tabzlive
-‏🇱🇧❌🇮🇱 — Hezbollah reports targeting an Israeli military vehicle in Deir Sryan, southern Lebanon.
-18:13
 1405/02/19
 
 
@@ -5257,22 +5254,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 20:47
-1405/02/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇱/🇮🇷 NEW: Israel has detected another missile from Iran   @Middle_East_Spectator
-20:44
-1405/02/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇱/🇮🇷 NEW: Israel has detected another missile from Iran 
-‏
-‏@Middle_East_Spectator
-20:44
 1405/02/18
