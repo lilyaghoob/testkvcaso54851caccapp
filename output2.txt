@@ -1453,14 +1453,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — An Israeli attack targeted a car near the entrance of the town of Houmin al-Tahta in southern Lebanon, killing all three of the vehicle’s passengers, according to Lebanon’s National News Agency.
-23:39
-1405/02/18
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🐸 — Global Discord outage reported. Platform confirms errors in API systems.
