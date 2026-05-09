@@ -2691,19 +2691,6 @@ src :@MilitiaNews
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇱🇧- Today, two wanted individuals ambushed a Lebanese Army patrol in the Al-Sharawna neighborhood of Baalbek as it headed to raid a drug manufacturing facility. 
-‏
-‏➡️ During the exchange of fire, the suspects' jeep caught fire due to onboard ammunition. Soldiers evacuated one suspect (a Syrian national) for medical treatment, but the other remained trapped due to heavy gunfire. 
-‏
-‏➡️ One soldier and five civilians sustained minor injuries. Following the clash, the patrol successfully raided the facility, seizing machinery and a large quantity of drugs, which were handed over to authorities.
-21:03
-1405/02/18
-
-
-
-
 src :@defence_news
 [عکس]
 ‏⚜تصویر ماهواره ای از دیگو گارسیا که یک مورد جالب دارد.
