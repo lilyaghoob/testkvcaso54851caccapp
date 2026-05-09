@@ -1,3 +1,23 @@
+src :@tabzlive
+‏🇷🇺⚡️ — Russian President Vladimir Putin: Foreign leaders who came to Moscow for Victory Day showed personal courage.
+21:46
+1405/02/19
+
+
+
+
+src :@MilitarryWorld
+‏⭕️فاکس نیوز:
+‏
+‏اگر پیشنهاد امشب تهران برای توافق با آمریکا منفی باشد جنگ به سرعت آغاز خواهد شد.
+‏
+‏@MilitarryWorld | Parsa
+21:44
+1405/02/19
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️نشریه آتلانتیک: 
 ‏
@@ -6,6 +26,18 @@ src :@MilitarryWorld
 ‏چین نارضایتی خود را از جنگ و بسته شدن تنگه. ترامپ می‌خواهد این امکان را داشته باشد که ادعا کند جنگ در حال پایان یافتن است، در حالی که به دنبال معاملات تجاری و تجاری جدید با شی است
 ‏
 ‏@MilitarryWorld | Parsa
+21:43
+1405/02/19
+
+
+
+
+src :@tabzlive
+‏🇮🇱🇮🇷⚡️ — The Israeli military and Mossad presented Netanyahu with aggressive positions on Iran during discussions, according to Channel 13, citing an Israeli source.
+‏
+‏The military believes Iran's current weakened state presents an operational opportunity to return and complete the mission.
+‏
+‏Mossad believes resuming war would accelerate the deterioration of the Iranian regime and lead to its overthrow.
 21:43
 1405/02/19
 
@@ -1508,19 +1540,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Ukraine’s General Staff says Russian forces have carried out 51 attacks since the start of the day despite Moscow’s declared truce.
-‏
-‏➡️ The heaviest fighting was reported in the Pokrovsk (17), Huliaipole (13), Yuzhno-Slobozhansky (7), and Kostyantynivka sectors (7). 
-‏
-‏➡️ Russian forces shelled border areas in the Sumy region and launched attacks in the Lyman, Kramatorsk, and Kursk directions.
-19:20
-1405/02/19
-
-
-
-
 src :@mamlekate
 ‏📝 اذعان وزارت ارتباطات به «شوک اقتصادی» قطع سراسری اینترنت
 ‏
@@ -1562,14 +1581,6 @@ src :@bricsnews
 ‏JUST IN: 🇭🇺 Péter Magyar officially becomes Prime Minister of Hungary, replacing Viktor Orbán.
 ‏
 ‏@BRICSNews
-19:16
-1405/02/19
-
-
-
-
-src :@tabzlive
-‏🦠⚡️ — WHO calls for monitoring of all Hondius ship passengers considered to have had contact with Hantavirus-infected individuals.
 19:16
 1405/02/19
 
@@ -2445,17 +2456,6 @@ src :@Indypersian
 ‏ویروس هانتا (Hantavirus) به‌طور معمول از طریق جوندگان به انسان منتقل می‌شود و می‌تواند باعث بیماری‌های تنفسی شدید یا تب هموراژیک شود که در صورت درمان نشدن، نرخ مرگ‌ومیر بالایی دارد. در پی شناسایی مواردی از ابتلا به این ویروس در این کشتی تفریحی که سرنشینانی از چندین کشور دارد، تلاش‌های بین‌المللی برای تخلیه ایمن مسافران و جلوگیری از انتقال ویروس به خارج از کشتی آغاز شد.
 ‏@indypersian
 17:32
-1405/02/19
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏قابی از 10 سرباز کشته شده روسی جبهه ژاپورژیا
-‏
-‏@P_raetorio
-17:30
 1405/02/19
 
 
@@ -3660,22 +3660,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 13:17
-1405/02/19
-
-
-
-
-src :@mwarmonitor
-‏🔴نیویورک تایمز به نقل از مقام‌های آمریکایی:
-‏
-‏🇷🇺🇮🇷روسیه از طریق دریای خزر قطعات و اجزای پهپادها را به ایران صادر می‌کند؛ اقدامی که به بازسازی و تقویت توانمندی‌های پهپادی ایران کمک می‌کند.
-‏
-‏🇷🇺روسیه کالاهایی را در اختیار ایران قرار می‌دهد که پیش‌تر معمولاً از تنگه هرمز عبور می‌کردند.
-‏
-‏🇷🇺در ماه‌های اخیر، افزایش چشمگیری در تردد و حمل‌ونقل دریایی به ایران از طریق دریای خزر مشاهده شده است.
-‏
-‏@mwarmonitor
-13:13
 1405/02/19
 
 
@@ -5159,30 +5143,4 @@ src :@warmonitors
 [عکس]
 ‏womp womp
 21:55
-1405/02/18
-
-
-
-
-src :@MilitiaNews
-‏🇺🇸🇮🇷⚡️پرزیدنت ترامپ:
-‏
-‏  خوشحالم اعلام کنم که در جنگ بین روسیه و اوکراین، یک آتش‌بس سه روزه (9، 10 و 11 می) برقرار خواهد شد. جشن در روسیه به مناسبت روز پیروزی است، اما در اوکراین نیز چون آنها نقش و سهم بزرگی در جنگ جهانی دوم داشتند، این روز مهم است.
-‏
-‏  این آتش‌بس شامل توقف کامل همه فعالیت‌های نظامی خواهد بود و همچنین تبادل 1000 زندانی از هر کشور انجام خواهد شد. این درخواست مستقیماً توسط من مطرح شده است و از توافق رئیس‌جمهور ولادیمیر پوتین و رئیس‌جمهور ولودیمیر زلنسکی بسیار قدردانی می‌کنم.
-‏
-‏  امیدوارم این آغازی باشد برای پایان این جنگ بسیار طولانی، خونین و پرزحمت. مذاکرات برای پایان دادن به این درگیری بزرگ، بزرگ‌ترین جنگ پس از جنگ جهانی دوم، ادامه دارد و هر روز به آن نزدیک‌تر می‌شویم. 
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-21:43
-1405/02/18
-
-
-
-
-src :@Minas_Tirith2024
-‏«خوشحالم اعلام کنم که آتش‌بس سه روزه‌ای(9 الی 11 می) در جنگ بین روسیه و اوکراین برقرار خواهد شد.جشن در روسیه به مناسبت روز پیروزی است اما به همین ترتیب در اوکراین نیز، زیرا آن‌ها نیز بخش بزرگی از جنگ جهانی دوم بودند.این آتش‌بس شامل تعلیق تمام فعالیت‌های نظامی و همچنین تبادل 1000 اسیر از هر کشور خواهد بود. این درخواست مستقیماً توسط من مطرح شده و من از موافقت رئیس‌جمهور ولادیمیر پوتین و رئیس‌جمهور ولادیمیر زلنسکی بسیار قدردانی می‌کنم.امیدوارم این آغاز پایان جنگی بسیار طولانی، مرگبار و سخت باشد.مذاکرات برای پایان دادن به این درگیری بزرگ، بزرگ‌ترین از زمان جنگ جهانی دوم، ادامه دارد و هر روز به هم نزدیک‌تر می‌شویم.»
-‏
-‏-دونالد ترامپ،رئیس جمهور آمریکا
-21:42
 1405/02/18
