@@ -1,3 +1,14 @@
+src :@P_raetorio
+[عکس]
+‏قابی از 10 سرباز کشته شده روسی جبهه ژاپورژیا
+‏
+‏@P_raetorio
+17:30
+1405/02/19
+
+
+
+
 src :@thewarreporter
 ‏🇬🇧🇮🇷 - British Defense Ministry: 
 ‏
@@ -4471,16 +4482,6 @@ src :@tglobaleye
 
 
 
-src :@mwarmonitor
-‏🛢 (رویترز) — بهای معاملات آتی نفت خام برنت روز جمعه تا ۳ درصد افزایش یافت؛ یک روز پس از آن‌که ایالات متحده و ایران حملات هوایی متقابل انجام دادند. با این حال، با کاهش نگرانی‌ها و امید معامله‌گران به توقفی طولانی‌تر در درگیری‌ها، بخشی از این رشد از دست رفت؛ درگیری‌هایی که باعث توقف کشتیرانی در تنگه هرمز شده است.
-‏
-‏@mwarmonitor
-23:34
-1405/02/18
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇮🇱🇸🇾🇸🇾 — Major General Ghassan Alian, the IDF's coordinator for Druze affairs, visited the village of Al-Rima in Syria's Jabal al-Sheikh region yesterday, where he had lunch and met with local Druze dignitaries.
@@ -5502,30 +5503,4 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 17:36
-1405/02/18
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — The U.S. Department of War has released the first tranche of declassified files on Unidentified Anomalous Phenomena (UAP), as part of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE).
-‏
-‏The Global Eye | Subscribe
-17:31
-1405/02/18
-
-
-
-
-src :@ircfspace
-[عکس]
-‏اگه گوگل براتون باز میشه و در وایت‌لیست اینترنتتون قرار داره، می‌تونین خیلی راحت با نصب این کلاینت اپن‌سورس به گوگل درایو در اندروید دسترسی داشته باشین.
-‏
-‏👉 github.com/aleskxyz/Round-Sync/releases/latest
-‏💡 t.me/PersianGithubMirror/4489
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-17:26
 1405/02/18
