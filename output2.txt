@@ -3306,14 +3306,6 @@ src :@MilitarryWorld
 
 
 
-src :@cataphract1
-[نظرسنجی]
-19:47
-1405/02/18
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 - Sporadic clashes have been taking place for hours between Iranian forces and US warships in the Strait of Hormuz.  - Fars News Agency | @TheWarReporter
 19:46
