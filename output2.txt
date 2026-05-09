@@ -1682,18 +1682,6 @@ src :@didarnews1
 
 
 
-src :@IranintlTV
-[عکس]
-‏اسماعیل سقاب اصفهانی، معاون مسعود پزشکیان و رییس سازمان بهینه‌سازی انرژی گفت: «واقع‌بینانه که نگاه کنیم آسیب‌هایی به زیرساخت‌های کشور و شبکه گاز و سوخت ما وارد شده و در کنار تلاش مسئولان چاره‌ای جز صرفه‌جویی در یک‌ونیم تا دو سال آینده نداریم.»
-‏
-‏او افزود: «قسمتی از ظرفیت تولید بنزین ما با مشکل مواجه شده و صنایع فولادی و پتروشیمی دچار خسارت شدند.»
-‏https://iranintl.com/202605096101
-23:12
-1405/02/19
-
-
-
-
 src :@rnintel
 ‏🇮🇶🇮🇱⚡- Israel had established a forward operating military base in western Iraq, the Wall Street Journal reports. The base housed special forces, and acted as a logistical hub for the Israeli Air Force in its campaign against Iran.
 ‏
@@ -5600,15 +5588,4 @@ src :@Middle_East_Spectator
 [عکس]
 ‏— NOTE: Contrary to claims by the Iranian military, there is currently no evidence to support that any U.S. warship ship was hit by projectiles  We will update you if it changes.  Unfortunately despite many attempts to make Iranian media and official statements…
 01:55
-1405/02/19
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏Syria has finished restoring Homs’ largest bridge, the Al-Rastan highway Bridge.
-‏
-‏@Mena_Live
-01:46
 1405/02/19
