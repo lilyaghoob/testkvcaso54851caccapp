@@ -90,37 +90,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴رائفی پور:
-‏
-‏آمریکا تمام شد
-‏
-‏✍🏻 Horizon
-‏▪️@World_Newsly
-05:08
-1405/02/19
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 وزارت خزانه‌داری ایالات متحده تحریم‌های مرتبط با ایران و عدم اشاعه را اعمال کرده و چندین فرد و نهاد در چین، بلاروس، هنگ‌کنگ و امارات متحده عربی را به دلیل مشارکت در تأمین برنامه‌های تسلیحاتی ایران، تعیین‌شده کرده است.
-‏
-‏در میان افراد و نهادهای تعیین‌شده، یک شرکت مستقر در بلاروس که به یک دفتر همکاری فناوری ایرانی تحت تحریم مرتبط است، و شرکت‌های چینی که به شرکت‌های الکترونیکی و عایق‌کاری ایرانی پ۶یوند دارند، قرار دارند.
-‏
-‏تمامی اموال و منافع افراد تعیین‌شده در ایالات متحده مسدود شده‌اند.
-‏
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-05:07
-1405/02/19
-
-
-
-
 src :@rnintel
 ‏🇺🇸⚡️- DNC officials and national Democrats are preparing for a final push on redistricting this year in response to the Virginia map failing. Democrats plan to pressure New York, New Jersey, Michigan, and Colorado to advance new maps.
 05:05
