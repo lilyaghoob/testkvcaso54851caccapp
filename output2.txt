@@ -1,3 +1,16 @@
+src :@IranintlTV
+[عکس]
+‏تجربه یا مشاهدات شما از فشار یا تهدید بانک‌ها به شهروندان برای بازپرداخت وام و تسهیلات چیست؟ روی لینک مدیابات کلیک کنید و پیام‌های خود از طریق آن برای ما بفرستید. 
+‏
+‏https://t.me/intlmedia_bot
+‏
+‏پیام‌های شما به صورت زیر‌نویس در تلویزیون و همچنین در بخش‌های مختلف‌ خبری منتشر خواهد شد
+10:55
+1405/02/19
+
+
+
+
 src :@mwarmonitor
 ‏⏰«ساعت 08:07 به وقت زرلو، پرواز CMB 551 با هواپیمای بوئینگ 747 باری (744F) به رجیستر N706CK از فرودگاه KLCK آمریکا برخاست و به سمت فرفورد (Fairford) انگلستان در حال پرواز است. این پرواز روی فرکانس Brize 133.750 در حال مکالمه بوده و برای دریافت وکتور جهت تقرب ILS باند 09 فرودگاه فرفورد درخواست داده است.»
 ‏
@@ -1373,34 +1386,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@IranintlTV
-[عکس]
-‏این ۸ نفر، فقط ۸ نام از یک فهرست بلندند؛
-‏فهرستی که از ۳۶ هزار جان عزیز از دست‌رفته فراتر رفته است.
-‏در میان این نام‌ها،
-‏دانشجوی میکروبیولوژی هست، راننده پیک، سرباز وظیفه، دانشجوی حقوق و جوانی که برای ادامه تحصیل، رویای رفتن داشت.
-‏الینا حجتی، عرفان صاحبی، ابوالفضل اسکندری، آرش نجفی، محمدحسین اصغری، مصطفی نوری شیرازی، آریانا ارجمندی و دانیال دیانی
-‏جاویدنامان انقلاب ملی ایرانیان؛
-‏افرادی با زندگی‌های واقعی، خانواده، شغل، درس، رویا و آینده.
-‏نام‌هایی که نباید فقط عدد باشند.
-‏#جاویدنامان_انقلاب_ملی_ایرانیان
-03:33
-1405/02/19
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در گفتگو با خبرنگاران هشدار داد که اگر تمامی مفاد توافق‌نامه صلح با تهران به طور کامل امضا و نهایی نشود، واشنگتن مسیر متفاوتی را در پیش خواهد گرفت. ترامپ با اشاره به احتمال ازسرگیری عملیات‌های نظامی تحت عنوان «پروژه آزادی» تاکید کرد که در صورت شکست مذاکرات، ایالات متحده با رویکردی تهاجمی‌تر به میدان بازمی‌گردد. او در این باره گفت: اگر مسائل طبق برنامه پیش نرود، ممکن است به پروژه آزادی بازگردیم؛ اما این بار نسخه «پلاس» آن خواهد بود؛ یعنی پروژه آزادی به علاوه اقدامات سخت‌گیرانه دیگر.
-‏
-‏@IndyPersian
-03:10
-1405/02/19
-
-
-
-
 src :@tabzlive
 ‏🇮🇱❌🇱🇧 — At least 31 people, including a rescue worker, were killed on Friday in Israeli attacks on southern Lebanon, according to Lebanon's National News Agency.
 03:08
@@ -1459,24 +1444,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 02:24
-1405/02/19
-
-
-
-
-src :@BellumActaNews
-‏⚡️🇸🇾🇮🇱 Israeli forces targeted the area surrounding Tell al-Ahmar al-Sharqi in the Quneitra countryside with more than 8 shells.
-‏
-‏@wfwitness
-02:14
-1405/02/19
-
-
-
-
-src :@BellumActaNews
-‏⚡️🇸🇾🇮🇱 Israeli forces targeted the area surrounding Tell al-Ahmar al-Sharqi in the Quneitra countryside with more than 8 shells.  @wfwitness
-02:14
 1405/02/19
 
 
@@ -1633,57 +1600,6 @@ src :@Artemis_Force
 src :@naya_foriraq
 ‏انفجارات في محافظة اربيل شمالي العراق نتيجة هجوم بطائرات مسيرة على مقر الاحزاب المعارضة الايرانية.
 01:24
-1405/02/19
-
-
-
-
-src :@BellumActaNews
-‏🕯 🇱🇻 🪦 Upcoming Memorial in Latvia for Ņikita Sļadzevkis 
-‏
-‏Date: 13 May 2026
-‏Time: 12:00–13:00
-‏Location: Jaunciems Cemetery, Riga, Latvia
-‏Meeting point: Main entrance
-‏
-‏A year ago in Ukraine, the Latvian volunteer soldier Nikita "Tarenovs" - Callsign: “Latvietis” / “Латвієць” — literally, “Latvian” - fell. 
-‏
-‏Ņikita Sļadzevskis was a Latvian volunteer soldier. Although he had a Russian surname, Latvian was his first language, and Latvian identity was a deliberate choice for him.
-‏
-‏In Memoriam: Ņikita Sļadzevskis
-‏
-‏• Ņikita went to Ukraine in 2017 and joined the fight in Donbas at the age of 19. This was years before the full-scale invasion, when much of the West still treated the war as someone else’s problem.
-‏
-‏• At the start of the full-scale invasion, he defended Kharkiv as part of Kraken, a unit under Ukraine’s military intelligence directorate, GUR.
-‏
-‏• At some point later on, he joined the reconnaissance/sabotage unit “Hatred” of the 3rd Separate Assault Brigade, a well-known elite formation originally built from Azov veterans.
-‏
-‏• His time in Ukraine consisted of eight uninterrupted years on the front line.
-‏
-‏• On the 13th of May, 2025, Ņikita Sļadzevskis was Killed in Action while serving in Ukraine. He was 27 years old.
-‏
-‏The man, according to his closest friend:
-‏
-‏Kārlis Apalups, a Latvian Zemessardze / National Guard reservist, gave a Latvian TV interview after Ņikita's death. A few points stood out:
-‏
-‏• Ņikita visited his home country for the last time around Easter 2025:
-‏“He said he was very happy to be back, and very tired after eight years.”
-‏
-‏• On Latvian society’s relationship to people like him:
-‏“Here’s Ņikita Sļadzevskis, a Latvian whose first language is also Latvian.”
-‏
-‏Apalups’ point was that Latvia often overlooks Russian-speaking Latvians who fight for the right side.
-‏
-‏• On the injustice that stayed with him: people like Ņikita, who went and fought out of conviction, were demonized in Latvian discourse for years, while pro-Russian figures often received softer treatment. Ņikita can no longer defend his own name; they can.
-‏
-‏His unit:
-‏
-‏• Towards the end of his life, he was associated with Nord Storm, an international, Latvian-linked formation.
-‏﻿
-‏Last year his fiancée and both of their familes were completely devastated because only a few people could attend his memorial. If anyone would like to pay their respects for a fallen Nationalist, you are welcome to attend this year's memorial in Jaunciems Cemetery. 
-‏
-‏📎 NST - Nacionālā Savienība Taisnīgums
-01:22
 1405/02/19
 
 
