@@ -4273,16 +4273,6 @@ src :@GeoPWatch
 
 
 
-src :@ClashReport
-‏France has sent its ambassador back to Algeria and dispatched a senior official to attend ceremonies commemorating the 1945 Sétif massacre.
-‏
-‏Source: AFP
-00:47
-1405/02/19
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️شبکه کان اسرائیل: واشنگتن و تهران فعلا تمایلی به درگیری دوباره ندارن؛ ترامپ میتونست یه حمله دیگه دست و پا کنه ولی از انجام دادنش خودداری کرد
 ‏
