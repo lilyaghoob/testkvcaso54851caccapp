@@ -1,3 +1,21 @@
+src :@BellumActaNews
+‏🇸🇦 — Saudi Aramco says its East-West Pipeline has proven to be a “critical supply artery” during the conflict (release)
+00:56
+1405/02/21
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇺🇸/🇮🇷 NEW: In a phone call with Axios reporter Barak Ravid, Trump said he doesn’t like Iran’s response and called it ‘very inappropriate’
+‏
+‏@Middle_East_Spectator
+00:56
+1405/02/21
+
+
+
+
 src :@warmonitors
 ‏⚡Barak Ravid: President Trump told me in a phone call that he "doesn't like" Iran's latest response to the draft agreement to end the war. "Their response is inappropriate," he said.
 00:50
@@ -52,13 +70,16 @@ src :@thewarreporter
 src :@mamlekate
 ‏📝 تهران به طرح یک‌صفحه‌ای ترامپ پاسخ داد
 ‏
-‏
-‏📝 دونالد ترامپ: پاسخ جمهوری اسلامی «کاملا غیرقابل‌قبول» است
+‏📝 ترامپ: پاسخ جمهوری اسلامی «کاملا غیرقابل‌قبول» است
 ‏
 ‏دونالد ترامپ، رئیس جمهوری آمریکا روز یکشنبه ۲۰ اردیبهشت گفت که پاسخ جمهوری اسلامی به پیشنهادات آمریکا برای چارچوب مذاکرات صلح را دریافت کرده است و این پاسخ را «کاملاً غیرقابل‌قبول» خواند.
 ‏
 ‏
 ‏📝 ترامپ: رژیم ایران ۴۷ سال است دنیا را به بازی گرفته‌‌است؛ دیگر به ما نخواهند خندید
+‏
+‏📝 نتانیاهو: جنگ با جمهوری اسلامی تمام نشده است
+‏
+‏📝 نتانیاهو: ترامپ گفت برای اورانیوم غنی‌شده وارد ایران خواهند شد
 ‏
 ‏
 ‏📝 ترامپ چهارشنبه وارد پکن می‌شود
@@ -5609,14 +5630,6 @@ src :@MilitiaNews
 
 
 
-src :@Middle_East_Spectator
-‏🇮🇷🇵🇰🇺🇸⚡️ — NEW: Iran sent its response today to the latest U.S. proposal aimed at ending the war through Pakistani mediators, according to IRNA.
-16:01
-1405/02/20
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷🇵🇰⚡- Iran has sent its response to the US proposal on ending the war to the Pakistani mediators.
 15:57
@@ -6412,20 +6425,6 @@ src :@Parvazdaroj
 [عکس]
 ‏در حالت رهاسازی چندگانه یا Multiple Release / Ripple Release، بمب‌ها با فاصله زمانی مشخص (Ripple Interval) رها می‌شوند. این فاصله ممکن است مثلاً 50 تا 200 میلی ثانیه باشد و به سرعت هواپیما بستگی دارد. نتیجه این کار ایجاد یک الگوی برخورد یا پترن روی زمین است.…
 10:00
-1405/02/20
-
-
-
-
-src :@BellumActaNews
-‏🇺🇸🇮🇱🇮🇷 — Iranian Army Spokesman Mohammad Akraminia:
-‏
-‏"We warn some regional countries of the consequences of cooperating with the US military. Any country that takes actions against us will face a firm response from our armed forces.
-‏
-‏We do not trust the enemy and we are working to strengthen our capabilities and update our target bank".
-‏
-‏@thewarreporterr
-09:42
 1405/02/20
 
 
