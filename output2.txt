@@ -3159,20 +3159,6 @@ src :@MilitarryWorld
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ طبق گزارش بلومبرگ، ذخایر جهانی نفت با سرعتی بی‌سابقه در حال کاهش است؛ چرا که جنگ ایالات متحده و اسرائیل علیه جمهوری اسلامی باعث اختلال در جریان صادرات نفت از خلیج‌فارس شده و یکی از سپرهای اصلی در برابر شوک‌های عرضه را از میان برده است.
-‏
-‏موسسه «مورگان استنلی» برآورد می‌کند که ذخایر جهانی نفت تنها در فاصله اول مارس تا ۲۵ آوریل، نزدیک به ۲۷۰ میلیون بشکه کاهش یافته است.
-‏
-‏این کاهش شدید ذخایر به این معناست که دولت‌ها و صنایع، دیگر توان چندانی برای جذب پیامدهای ناشی از اختلال در عرضه بیش از یک میلیارد بشکه نفت ندارند؛ اختلالی که از زمان شروع درگیری‌ها در ۲۸ فوریه آغاز شده و همچنان ادامه دارد.
-‏@indypersian
-21:04
-1405/02/19
-
-
-
-
 src :@rnintel
 ‏⚡️🇧🇭The Bahraini Islamic Society for National Reconciliation accused the Bahraini authorities of targeting the Shia community, claiming the “arrest of dozens of senior scholars and religious figures” in what it described as a “provocative and dangerous escalation,” according to its statement.
 ‏
