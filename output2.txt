@@ -1,3 +1,27 @@
+src :@GeoPWatch
+[عکس]
+‏🇶🇦🚢 💥 — A bulk carrier merchant ship was struck by an unknown projectile in the Persian Gulf, 23 nautical miles northeast of Doha, Qatar.
+‏
+‏@GeoPWatch
+09:04
+1405/02/20
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇮🇷❌🇶🇦🛥 — A commercial vessel was attacked early this morning off the coast of Qatar, reports UKMTO 
+‏
+‏The master of a bulk carrier reports that a projectile hit his vessel, starting a fire.
+‏
+‏@BellumActaNews
+09:04
+1405/02/20
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- 62% of Americans believe the United States lost the war in Iran, while just 13% believe the U.S. won the war, according to a YouGov poll.
 09:00
@@ -1783,18 +1807,6 @@ src :@tglobaleye
 src :@rnintel
 ‏🇺🇸🇨🇳🇮🇷⚡- The US State Department sanctioned The Earth Eye, a Chinese company which had sold a high resolution satellite to Iran last month, which Tehran used to target US assets in the Middle East, the Financial Times reveals.
 23:50
-1405/02/19
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇮🇷❌🇺🇸🇸🇦 — IRGC Navy Command issues a threat for all ships and nations across the Persian gulf:
-‏ Any aggression against the oil tankers and commercial vessels of the Islamic Republic of Iran will result in a heavy attack on one of the American centers in the region and enemy ships.
-‏
-‏@BellumActaNews
-23:49
 1405/02/19
 
 
@@ -5536,15 +5548,4 @@ src :@RASTAKHIZ_PERSIAN
 src :@rus_cosmos
 ‏به گزارش ای‌بی‌سی نیوز، ایالات متحده هنوز پاسخ قطعی از ایران در مورد پیش‌نویس یادداشت پایان جنگ دریافت نکرده است.
 09:26
-1405/02/19
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏★ صبح شما عزیزان بخیر 
-‏
-‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
-09:02
 1405/02/19
