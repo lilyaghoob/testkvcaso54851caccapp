@@ -1,3 +1,49 @@
+src :@tabzlive
+‏🇮🇱❌🇱🇧 — Hezbollah drones are often detected too late, according to Hebrew Channel 12.
+12:47
+1405/02/20
+
+
+
+
+src :@MilitarryWorld
+‏⭕️سخنگوی ارتش: جنگنده های اف-۵ ما پس از ماموریت موفق به سلامت بازگشتند. جنگنده های سوخو-۲۴ در راه برگشت مورد اصابت قرار گرفتند.
+‏
+‏سخنگوی ارتش اعلام کرد در جریان جنگ، نیروی هوایی ارتش عملیات هایی در کویت، اربیل و قطر انجام دادند.
+‏
+‏وی عملیات های انجام شده در کویت و اربیل را موفقیت آمیز اعلام کرده و از بازگشت سالم جنگنده ها خبر داد.
+‏
+‏@MilitarryWorld | Parsa
+12:46
+1405/02/20
+
+
+
+
+src :@naya_foriraq
+‏الكويت تعلن تعرضها لهجوم بمسيرات فجر اليوم.
+12:46
+1405/02/20
+
+
+
+
+src :@jangaavaran1390
+‏سخنگوی ارتش: جنگنده های اف-۵ ما پس از ماموریت موفق به سلامت بازگشتند. جنگنده های سوخو-۲۴ در راه برگشت مورد اصابت قرار گرفتند.   سخنگوی ارتش ایران اعلام کرد در جریان جنگ، نیروی هوایی ارتش عملیات هایی در کویت، اربیل و قطر انجام دادند.  وی عملیات های انجام شده…
+12:43
+1405/02/20
+
+
+
+
+src :@tabzlive
+‏🇮🇱⚡️ — Air defenses activated in the Yir'on area in Western Galilee, according to Israeli media.
+12:42
+1405/02/20
+
+
+
+
 src :@mwarmonitor
 ‏🇺🇸مارک لوین: سلام آمریکا، من مارک لوین هستم و این برنامه «زندگی، آزادی و لوین» شنبه است. به برنامه خوش آمدید.
 ‏
@@ -12,6 +58,16 @@ src :@mwarmonitor
 ‏اما اگر هدف رسیدن به یک توافق باشد، مسئله فقط این نیست که چه نوع توافقی، بلکه آیا این توافق پایدار خواهد بود؟ یعنی از کجا بدانیم که دشمن به مفاد توافق پایبند خواهد بود، به‌ویژه پس از اینکه پرزیدنت ترامپ دفتر ریاست‌جمهوری را ترک کند؟
 ‏
 ‏@mwarmonitor
+12:42
+1405/02/20
+
+
+
+
+src :@intelslava
+‏🇪🇪🇺🇦Estonian Defense Minister Hanno Pevkur called on Ukraine to keep its drones away from Estonian territory.
+‏
+‏@Intelslava
 12:42
 1405/02/20
 
@@ -1808,7 +1864,7 @@ src :@intelslava
 
 
 src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Iranian Army spokesperson says Iran does not trust the enemy and is working to strengthen its capabilities and update its target bank, warning that countries imposing US sanctions on Iran will face difficulties passing through the Strait of Hormuz.
+‏🇮🇷🇺🇸⚡️ — Iranian Army spokesperson says Iran does not trust the “enemy” and is working to strengthen its capabilities and update its target bank, warning that countries imposing US sanctions on Iran will face difficulties passing through the Strait of Hormuz.
 09:46
 1405/02/20
 
@@ -1840,14 +1896,6 @@ src :@BellumActaNews
 ‏
 ‏@thewarreporterr
 09:42
-1405/02/20
-
-
-
-
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Iranian Army spokesperson says Iran does not trust the enemy and is working to strengthen its capabilities and update its target bank, warning that countries imposing US sanctions on Iran will face difficulties passing through the Strait of Hormuz.
-09:41
 1405/02/20
 
 
@@ -2344,28 +2392,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇺🇸🇮🇱❌🇮🇷🇮🇶- According to satellite imagery, there was makeshift runway built in western Iraq similar to the one made in Isfahan, this was the runway for the Israeli military position as it was directly next to it.   ➡️ The runway spans around 1.9km in length…
 06:15
-1405/02/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇨🇳🇪🇹⚡️ — The use of electric vehicles is rapidly expanding across Africa, led by Ethiopia and supplied by China, as soaring fuel prices and shortages linked to the Iran war push countries toward cheaper and cleaner transportation alternatives, AP reports.
-06:12
-1405/02/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Americans now owe about $1.68 trillion in auto loans, more than the country’s total credit card debt and roughly equal to outstanding federal student loans, according to a report from The Century Foundation.
-‏
-‏➡️ About one in four Americans is currently paying off car debt.
-‏
-‏➡️ Average monthly car payments have climbed to around $680, up nearly 40% from about $506 in 2018, while some estimates place the average payment as high as $760 per month.
-06:08
 1405/02/20
 
 
@@ -4132,16 +4158,6 @@ src :@didarnews1
 
 
 
-src :@MilitarryWorld
-‏🚨پوتین می‌گوید ایران به روسیه در زمینه هسته‌ای اعتماد دارد و مسکو آماده است تا دوباره اورانیوم غنی‌شده ایرانی را ذخیره کند، و اشاره کرد که همه طرف‌ها در ابتدا موافقت کرده بودند قبل از اینکه واشنگتن موضع خود را سخت‌تر کند. پوتین افزود روسیه همچنان مایل است اورانیوم غنی‌شده ایرانی را در اختیار بگیرد و تهران می‌تواند به انتقال آن به یک کشور دوست اعتماد کند.
-‏
-‏@MilitarryWorld | Parsa
-22:15
-1405/02/19
-
-
-
-
 src :@naya_foriraq
 ‏🇷🇺بوتين:
 ‏مستعدون لتكرار تجربة تخزين اليورانيوم المخصب لإيران ووافق الجميع في البداية لكن واشنطن تشددت لاحقا.
@@ -4507,32 +4523,9 @@ src :@guard_warriors
 
 
 
-src :@selena_updates
-[عکس]
-‏Syrian President Ahmad al‑Sharaa removed his brothers from top government roles to counter nepotism accusations and distance his rule from the Assad family model.
-‏
-‏Brother Maher lost his powerful presidency post and was replaced.
-‏
-‏Brother Hazem also stepped down from a senior economic role.
-‏
-‏A third brother’s business activities were previously shut down for exploiting the family name.
-21:18
-1405/02/19
-
-
-
-
 src :@guard_warriors
 [ویدئو]
 21:16
-1405/02/19
-
-
-
-
-src :@naya_foriraq
-‏🌟حزب الله يعلن عن استهداف دبابة ميركافا صهيونية في بلدة البياضة بجنوب لبنان.
-21:15
 1405/02/19
 
 
@@ -4566,19 +4559,6 @@ src :@P_raetorio
 
 
 
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇪🇸 — A Madrid court has approved mandatory quarantine for Spanish passengers from the hantavirus-stricken MV Hondius cruise ship.
-‏
-‏At the Spanish government's request, the court ordered the isolation of the 14 Spanish nationals (including one crew member) upon their transfer to the Gómez Ulla Military Hospital in Madrid. The measure follows the ship's arrival in Tenerife, Canary Islands, where all remaining passengers and crew are asymptomatic.
-‏
-‏The Global Eye | Subscribe
-21:10
-1405/02/19
-
-
-
-
 src :@didarnews1
 ‏🔴الجزیره: در تنگه هرمز آرامش نسبی حاکم شده
 ‏
@@ -4590,27 +4570,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:08
-1405/02/19
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Major General Ghassan Alian, the Israeli Defense Forces’ coordinator for Druze affairs and one of the most senior Druze officers in the IDF, visited the village of Al-Rima in Syria’s Jabal al-Sheikh (Mount Hermon) region on Thursday, where he met and shared lunch with local Druze dignitaries. 
-‏
-‏Al-Rima falls within the Qatana District of Rif Dimashq Governorate, placing the meeting deep inside Syrian territory near Damascus.
-21:08
-1405/02/19
-
-
-
-
-src :@tglobaleye
-‏🇮🇹 🇷🇺⚡️— Former Italian ambassador to Uzbekistan Piergabriele di Sant’Agnese arrested in Rome for allegedly helping Russians obtain Schengen visas in exchange for money.
-‏
-‏🇪🇺 Legion Europa | Group Chat 🇪🇺
-21:06
 1405/02/19
 
 
@@ -4965,14 +4924,6 @@ src :@VahidOnline
 src :@rus_cosmos
 ‏فرماندهی مرکزی ایالات متحده سنتکام  تأیید کرد که محاصره دریایی آن همچنان به قوت خود باقی است.
 18:28
-1405/02/19
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- US CENTCOM confirms its naval blockade remains in full force.
-18:23
 1405/02/19
 
 
@@ -5555,22 +5506,4 @@ src :@defence_news
 ‏✒️#Delta_Dynamics
 ‏📃@Cataphract1
 12:51
-1405/02/19
-
-
-
-
-src :@KayhanLondonChannel
-‏لکه نفتی نزدیک جزیره خارک؛ نشت لوله‌ها یا پسماند کشتی‌ها؟
-‏
-‏-رویترز با استناد به تصاویر ماهواره‌ای، در نزدیکی جزیره خارک، گزارش داد احتمال نشت نفت در دریا وجود دارد. در این تصاویر که بین ۱۶ تا ۱۸ اردیبهشت ۱۴۰۵ توسط ماهواره‌های «کاپرنیکوس» ثبت شده، لکه‌ای خاکستری و سفید در آب‌های غرب این جزیره دیده می‌شود.
-‏
-‏-لویی گودارد، از بنیان‌گذاران شرکت مشاوره‌ای «دیتا دسک»، که بر آب و هوا تمرکز دارد، موافق است که تصاویر احتمالاً یک لکه نفتی را نشان می‌دهند، که به گفته او احتمالاً بزرگترین لکه نفتی است که از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران در ۷۰ روز پیش تاکنون رویت شده است.
-‏
-‏-در واکنش به این خبر، نماینده بوشهر در مجلس شورای اسلامی ادعا کرده «لکه‌های مشاهده شده در تصاویر ماهواره‌ای در اطراف جزیره خارک مربوط به روغن و پسماند آب توازن نفتکش‌ها است که به زیان محیط زیست توسط نفتکش اروپایی به دریا ریخته شده است.»
-‏
-‏-همزمان شرکت «ویندوارد» اعلام کرده لکه نفتی مشاهده‌شده در نزدیکی جزیره خارک با سرعت حدود دو کیلومتر در ساعت به سمت جنوب‌شرق حرکت می‌کند و ممکن است طی روزهای آینده به آب‌های قطر و سپس امارات متحده عربی برسد.
-‏
-‏https://kayhan.london/1405/02/19/401773/
-12:43
 1405/02/19
