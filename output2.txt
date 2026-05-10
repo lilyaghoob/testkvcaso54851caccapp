@@ -1,3 +1,59 @@
+src :@tglobaleye
+[عکس]
+‏US President Donald Trump shared an interview with Fox News’ Mark Levin in which he said there is no avoiding another round of fighting with Iran in order to achieve a stronger position ahead of the negotiations that will follow.
+18:10
+1405/02/20
+
+
+
+
+src :@mwarmonitor
+‏📝این آخرین تلاش‌هایِ دولتِ اِستامر قبل از کله‌پا شدنِ
+18:09
+1405/02/20
+
+
+
+
+src :@tabzlive
+‏🇱🇧❌🇮🇱 — WATCH: Hezbollah released footage of two FPV drone strikes targeting the same Iron Dome battery at the Israeli Jal Al-Alam site on the border.  — FPV drone directly strikes and destroys an Iron Dome battery (May 7)  — FPV drone directly strikes a group…
+18:08
+1405/02/20
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇮🇷🇶🇦An IRGC drone-kamikaze attacked a bulk carrier in Qatar's territorial waters northeast of the port of Mesaieed,
+‏
+‏As a result of the strike, a small fire broke out on board the vessel, but there were no casualties.
+‏
+‏At the same time, through the Strait of Hormuz, on the so-called northern route, approved by Tehran, a Qatari tanker Al Kharaitiyat, loaded with LNG at a plant in Ras Laffan, passed for the first time. The ship's destination is Pakistan.
+‏
+‏@Intelslava
+18:08
+1405/02/20
+
+
+
+
+src :@KayhanLondonChannel
+[عکس]
+‏‏ ‏
+‏سرقت مسلحانه از یک طلافروشی در بلوار اندرزگو تهران 
+‏
+‏ظهر روز یکشنبه ۲۰ اردیبهشت ۱۴۰۵ یک طلافروشی در بلوار اندرزگو تهران هدف سرقت مسلحانه قرار گرفت. 
+‏
+‏رسانه‌های داخلی گزارش دادند سارقان پس از سرقت، با یک دستگاه اتومبیل «سراتو» مشکی‌رنگ از محل متواری شدند. 
+‏
+‏هنوز جزییات بیشتری از این سرقت مسلحانه منتشر نشده است.
+18:07
+1405/02/20
+
+
+
+
 src :@tabzlive
 ‏🇮🇱❌🇱🇧 — Israeli artillery strikes an electricity distribution substation in the vicinity of Kafr Rumman, southern Lebanon, according to an Al Jazeera reporter.
 18:07
@@ -34,12 +90,14 @@ src :@intelslava
 
 src :@RASTAKHIZ_PERSIAN
 [عکس]
-‏🔶 اسرائیل در حال استفاده از یک سیستم هدف‌گیری مبتنی بر هوش مصنوعی است که داده‌ها را از گوشی‌های هوشمند، پهپادها، دوربین‌های ترافیک و امنیتی، سیگنال‌های وای‌فای و شبکه‌های اجتماعی دریافت کرده و  ترکیب می‌کند تا بتواند اعضای حزب‌الله در لبنان را ردیابی و سپس هدف قرار دهد.
+‏🔶 لوس انجلس تایمز: اسرائیل در حال استفاده از یک سیستم هدف‌گیری مبتنی بر هوش مصنوعی است که داده‌ها را از گوشی‌های هوشمند، پهپادها، دوربین‌های ترافیک و امنیتی، سیگنال‌های وای‌فای و شبکه‌های اجتماعی دریافت کرده و  ترکیب می‌کند تا بتواند اعضای حزب‌الله در لبنان را ردیابی و سپس هدف قرار دهد.
 ‏
 ‏🔹 این سیستم که بر روی پلتفرم‌هایی مانند Maven شرکت Palantir ساخته شده، جریان‌های عظیم داده را دریافت و کنترل می‌کند، شبکه‌های ارتباطی را ترسیم می‌کند و تهدید های موجود را در عرض چند ثانیه شناسایی و دسته بندی می‌کند؛ کاری که قبلاً هفته‌ ها طول می‌کشید!
 ‏
 ‏🔹 مقاله روزنامه لس‌آنجلس تایمز بر احمد ترموس، یک عضو ۶۲ ساله حزب‌الله، تمرکز دارد که تماسی را از یک افسر اسرائیلی دریافت کرده بود؛ از او پرسیده شده بود می‌خواهی با خانوده  بمیری یا تنها؟
 ‏ترموس بلافاصله از اطرافیانش فاصله گرفته بود و ۳۰ ثانیه پس از دور شدن با خودرو هدف موشک قرار گرفت
+‏
+‏#هوش_مصنوعی
 ‏
 ‏@RASTAKHIZ_PERSIAN
 18:06
@@ -2083,33 +2141,11 @@ src :@naya_foriraq
 
 
 
-src :@mwarmonitor
-‏🔴(عاموس هارل Amos Harel. او یکی از شناخته‌شده‌ترین تحلیل‌گران نظامی و امنیتی اسرائیل است و سال‌هاست در روزنامه Haaretz می‌نویسد. هارل معمولاً به‌خاطر نگاه انتقادی، حرفه‌ای و غیرجناحی‌اش به ارتش اسرائیل، جنگ‌ها، سیاست‌های امنیتی و عملکرد دولت‌ها—از جمله نتانیاهو—شناخته می‌شود. تحلیل‌های او اغلب در رسانه‌های بین‌المللی هم بازتاب پیدا می‌کند و منبع مهمی برای فهم فضای امنیتی و نظامی اسرائیل محسوب می‌شود.)
-‏
-‏📝عاموس هارل می‌نویسد
-‏
-‏«نتانیاهو هرچه بیشتر در ترمیم تناقض‌های مواضع خود ناتوان می‌شود. پیروزی مطلقی که وعده داده بود مدت‌هاست رنگ باخته است. به نظر می‌رسد تنها حامیان دوآتشه‌اش با طفره رفتن او از انجام یک تحقیق مستقل درباره بدترین شکست تاریخ کشور کنار آمده‌اند. در حالی که کمتر از شش ماه تا انتخابات باقی مانده، وضعیت نخست‌وزیر آن‌گونه که در نظرسنجی‌ها بازتاب یافته، به‌هیچ‌وجه امیدوارکننده نیست. دقیقاً به همین دلایل است که هرچه به موعد انتخابات نزدیک می‌شویم، باید تصمیمات او در حوزه‌های امنیتی و سیاسی را با نگاهی شکاکانه‌تر از همیشه بررسی کرد.»
-‏
-‏@mwarmonitor
-15:53
-1405/02/20
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️نایب رئیس مجلس: ایران رسماً به چهارمین ابرقدرت جهان تبدیل شده.
 ‏
 ‏@MilitarryWorld | Parsa
 15:48
-1405/02/20
-
-
-
-
-src :@tabzlive
-‏🇱🇧❌🇮🇱 — Hezbollah reports targeting an Israeli D-9 bulldozer in Bint Jbeil, claiming a confirmed hit.
-15:46
 1405/02/20
 
 
