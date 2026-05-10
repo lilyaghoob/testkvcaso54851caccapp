@@ -2195,21 +2195,6 @@ src :@tabzlive
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏We just secured the release of three Polish, and two Moldovan, prisoners from Belarusian and Russian detention. Thanks to my Special Presidential Envoy, John Coale, we were able to push hard to make this release happen.
-‏
-‏My friend, President Karol Nawrocki, of Poland, met with me last September, and asked me to help secure Andrzej Poczobut from Belarusian prison. Today, Poczobut is free due to our efforts. The United States delivers for our Allies, and Friends. 
-‏
-‏Thank you to President Aleksandr Lukashenko for his cooperation and friendship. So nice!
-23:34
-1405/02/20
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜تصویری که اخیرا سنتکام از حضور خودرو های رزمی سواره نظام بردلی M3A3 به همراه خودرو تیم پشتیبانی آتش بردلی BFIST M7A3 در منطقه خاورمیانه منتشر کرده است.
@@ -2339,20 +2324,6 @@ src :@tglobaleye
 ‏#BREAKING | 🇺🇸 🇮🇱 — U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu held a phone call.
 ‏
 ‏The Global Eye | Subscribe
-23:26
-1405/02/20
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸- According to an informed source cited by Tasnim, the Wall Street Journal's reporting on Iran's proposed negotiating text is largely inaccurate, particularly regarding nuclear materials. 
-‏
-‏➡️ The source states that Iran's proposal centers on an immediate end to the war, guarantees against future aggression, the lifting of US sanctions, and an end to hostilities on all fronts.
-‏
-‏➡️ Iran has also stressed Iranian management of the Strait of Hormuz contingent on US commitments, the immediate lifting of its maritime blockade upon signing an initial agreement, the removal of OFAC sanctions on Iranian oil sales within 30 days, and the release of frozen Iranian assets alongside concrete US actions within that same timeframe.
-‏
-‏@GeoPWatch
 23:26
 1405/02/20
 
@@ -2649,14 +2620,6 @@ src :@cataphract1
 ‏⚜ایران همچنین خواستار پایان فوری درگیری‌ها و بازگشایی تدریجی تنگه هرمز، همگام با لغو محاصره توسط ایالات متحده، و مذاکره در مورد مسائل هسته‌ای طی ۳۰ روز آینده است.
 ‏✒️#LT
 ‏📃@Cataphract1
-23:06
-1405/02/20
-
-
-
-
-src :@tabzlive
-‏🇮🇱📞🇺🇸 — Israeli Prime Minister Benjamin Netanyahu and President Trump are expected to speak tonight, according to Israeli Channel 12.
 23:06
 1405/02/20
 
