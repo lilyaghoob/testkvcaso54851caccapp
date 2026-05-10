@@ -3524,15 +3524,6 @@ src :@Parvazdaroj
 
 
 
-src :@ClashReport
-[عکس]
-‏Unexploded Hezbollah FPV drone was caught in an Israeli anti-drone protective net.
-22:01
-1405/02/20
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️ترامپ چهارشنبه برای دیدار با شی جین پین رئیس جمهور چین وارد پکن میشود
 ‏
@@ -3550,19 +3541,6 @@ src :@jangaavaran1390
 ‏و آسیب‌پذیرترین افراد روی کره زمین اولین قربانیان آن هستند، اما امروز همه ما قربانی آنچه اتفاق می‌افتد هستیم.
 ‏
 ‏شهروندان هم‌وطن ما در فرانسه نیز هر روز بهای این جنگی را می‌پردازند که ما نمی‌خواستیم.
-22:00
-1405/02/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏BIG: A CNN analysis of public flight-tracking data shows U.S. military intelligence-gathering flights are surging off Cuba's coast — at least 25 since February 4, mostly P-8A Poseidons, RC-135V Rivet Joints, and MQ-4C Triton drones operating near Havana and Santiago, some within 40 miles of shore.
-‏
-‏The pattern mirrors the run-up to U.S. military action in Venezuela and Iran, and because the aircraft could mask their tracks but don't, analysts suggest Washington may be deliberately signaling its presence to Cuba.
-‏
-‏Source: CNN
 22:00
 1405/02/20
 
