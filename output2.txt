@@ -1,3 +1,56 @@
+src :@WAR_ROOM_NEWS
+‏ترامپ: اگر توافق حاصل نشود، ما ایران را به گونه‌ای هدف قرار خواهیم داد که قبلاً ندیده‌ اند
+19:26
+1405/02/21
+
+
+
+
+src :@MilitarryWorld
+‏🚨ترامپ: اگر توافقی حاصل نشود، ما ایران را به گونه‌ای هدف قرار خواهیم داد که قبلاً ندیده‌ اند
+‏
+‏@MilitarryWorld | Parsa
+19:25
+1405/02/21
+
+
+
+
+src :@warmonitors
+‏⚡Trump: Ceasefire with Iran is "on life support"
+19:25
+1405/02/21
+
+
+
+
+src :@didarnews1
+‏🔴ترامپ در مورد ایران:
+‏
+‏🔹 فکر میکنند که، خب، من از این قضیه خسته می‌شوم، حوصله‌ام سر می‌رود، تحت فشار قرار می‌گیرم.
+‏
+‏🔹اصلاً هیچ فشاری روی من نیست. ما پیروزی کاملی به دست خواهیم آورد. ما از نظر تئوری، از منظر نظامی، همین الان هم پیروزی کامل داریم. 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+19:24
+1405/02/21
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌☀️🇮🇷- Donald Trump: 
+‏The Kurds take, take, take.
+‏
+‏@GeoPWatch
+19:23
+1405/02/21
+
+
+
+
 src :@mwarmonitor
 ‏🚨ترامپ: کردها ما را ناامید کردند؛ با سلاح‌هایی که برایشان فرستادیم هیچ کاری انجام ندادند.
 ‏
@@ -95,14 +148,6 @@ src :@GeoPWatch
 ‏The ceasefire is unbelievably weak, after reading that, it's the weakest, it's on life support, it's on massive life support.
 ‏
 ‏@GeoPWatch
-19:16
-1405/02/21
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸‏ترامب: الإيرانيون حاولوا إعادة بناء قدراتهم في الأسابيع الماضية.  ‏وقف إطلاق النار في إيران على أجهزة الإنعاش.  انتظرنا عدة أيام للحصول على الرد الإيراني وكان يمكن أن يكون جاهزا خلال 10 دقائق.  مقترح إيران قطعة من القمامة ولم أكمل قراءته.
 19:16
 1405/02/21
 
@@ -1105,29 +1150,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-[عکس]
-‏Palestinian men, women, and children have described systematic rape and sexual abuse by Israeli prison guards, soldiers, settlers, and Shin Bet interrogators.
-‏
-‏Detainees recount being raped with batons, carrots, and metal objects.
-‏
-‏Female prisoners describe being stripped, beaten, and filmed.
-‏
-‏Child detainees report widespread sexual abuse, with a Save the Children survey finding over half of detained minors witnessed or experienced it.
-‏
-‏Charges against soldiers in the high-profile Sde Teiman abuse case were dropped, and Netanyahu called the dropping a victory over "blood libel."
-‏
-‏A former Israeli PM Ehud Olmert told Kristof:
-‏
-‏"Do I believe it happens? Definitely."
-‏
-‏Source: NYT
-18:16
-1405/02/21
-
-
-
-
 src :@Mena_Live
 ‏The governor of the Turkish province of Şanlıurfa:
 ‏
@@ -1586,14 +1608,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — The Israeli army reports destroying a 120-meter-long Hezbollah tunnel in southern Lebanon using more than 20 tons of explosives.
-17:46
-1405/02/21
-
-
-
-
 src :@jangaavaran1390
 ‏به گزارش تلگراف، اطلاعات ایالات متحده می‌گوید پکن ارسال سامانه‌های دفاع هوایی به ایران از طریق کشورهای دیگر را برای پنهان کردن دخالت خود در نظر گرفته است.
 ‏
@@ -1936,27 +1950,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🏴❌🇸🇾— IS silently ramp up attacks in Syria, with over 10 attacks occuring across the country on average daily.
-‏
-‏➡️ Yesterday: 
-‏Damascus - A bus carrying Shias was targeted with an IED.
-‏
-‏Rural Damascus - A Shia cleric was killed in an attack.
-‏
-‏Homs - An officer was killed, and another soldier in the same attack.
-‏
-‏Al-Hasakah - 4 killed and others injured in an attack on a night bus of Syrian Army soldiers.
-‏
-‏Deir ez-Zor - An officer of the 66th Division was critically injured, alongside another soldier in a separate attack.
-‏
-‏@GeoPWatch
-17:06
-1405/02/21
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏ویکتور کلمپرر می‌نویسد:«رایش سوم یک شبه نابود شد و به همان سرعت نیز به فراموشی سپرده شد.یک مرد آلمانی مدت ها فکر کرده بود که مردم به مرگ رهبرشان چه واکنشی خواهند داشت از بی تفاوتی ها و خمیازه‌ها پس از اعلام رادیویی خبر شگفت زده شدند»
@@ -2051,17 +2044,6 @@ src :@jangaavaran1390
 src :@defence_news
 ‏📸 #عکس_روز | تمرین پرواز با پهپاد FPV در نیروی زمینی ارتش ایران  🔹بعد از جنگ ۱۲ روزه توسعه استفاده از FPVها به صورت ویژه در دستورکار نیروی زمینی ارتش قرار گرفت به طوری که می‌توان گفت در هر یگان عملیاتی در سطح تیپ، تیم‌هایی برای بکارگیری FPV فعال شده‌اند! با…
 16:57
-1405/02/21
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏🇺🇸ناوشکن USS Delbert D. Black (DDG-119) در حال عبور از دریای عرب، در چارچوب اجرای محاصره ایالات متحده علیه ایران، بر آب‌های منطقه‌ای نظارت می‌کند. نیروهای فرماندهی مرکزی آمریکا (سنتکام) برای اطمینان از رعایت این محاصره، مسیر ۶۲ کشتی تجاری را تغییر داده و ۴ کشتی را از کار انداخته‌اند.
-‏
-‏@mwarmonitor
-16:56
 1405/02/21
 
 
@@ -2730,18 +2712,6 @@ src :@Americana_ir
 ‏🔗 لینک منبع  
 ‏🆔 @Americana_ir
 15:06
-1405/02/21
-
-
-
-
-src :@MilitarryWorld
-‏⭕️وزیر خارجه سوریه:
-‏
-‏امیدواریم در آینده «روابطی باثبات و آرام» میان ما با اسرائیل شکل بگیرد.
-‏
-‏@MilitarryWorld | Parsa
-15:04
 1405/02/21
 
 
@@ -3983,20 +3953,6 @@ src :@cataphract1
 
 
 
-src :@didarnews1
-‏🔴الجزیره:
-‏
-‏🔹 واکنش اولیه رئیس جمهور آمریکا به طرح پیشنهادی ایران، درهای مذاکره را به طور کامل نبست. با این حال، همزمان گزینه‌های رویارویی نظامی را که واشنگتن و تهران به دنبال اجتناب از آن بودند، تقویت کرد. 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-09:20
-1405/02/21
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇨🇳 🇺🇸 — China’s Foreign Ministry has confirmed that U.S. President Donald Trump will pay a state visit to China from May 13 to 15 at the invitation of President Xi Jinping.
@@ -4970,14 +4926,6 @@ src :@cataphract1
 
 
 
-src :@WAR_ROOM_NEWS
-‏با توجه به پاسخ ایران به آمریکا بنظر می‌رسد خواسته اصلی آمریکا که همان برچیدن کامل برنامه هسته ای و تحویل آن ۴۶۰ کیلو اورانیوم غنی سازی شده است محقق نمی‌شود ینی مجدد برگشتیم به همان وضعیت قبلی بدون هیچ تغییر در رویکرد و مواضع جمهوری اسلامی حال باید دید پاسخ ترامپ به این موضوع چگونه است
-22:49
-1405/02/20
-
-
-
-
 src :@Military_Times_Blog
 [عکس]
 ‏یک فروند زیردریایی استراتژیک اتمی کلاس اوهایو متعلق به ایالات متحده آمریکا امروز در حال گذر از تنگه جبل‌الطارق و ورود به دریای مدیترانه مشاهده شده است. 
@@ -5577,23 +5525,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 19:26
-1405/02/20
-
-
-
-
-src :@guard_warriors
-‏✪فرد نادان اعتراض میکند که چرا جیبش سوراخ است 
-‏
-‏فرد حکیم از آن برای خاراندن توپ هایش استفاده میکند.
-‏@Guard_Warriors | Mipo
-19:24
-1405/02/20
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇶🇮🇷 - An Iraqi security source told Al Jazeera:  "We did not detect any Israeli forces in the country's western desert during the war, and it is more likely that the forces were American.  Jamming and alarm devices were detected in Wadi Shanan in western…
-19:21
 1405/02/20
