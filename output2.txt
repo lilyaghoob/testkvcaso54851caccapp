@@ -1,3 +1,71 @@
+src :@DEJradio
+[عکس]
+‏🔺📌 نقش پلیس‌های افتخاری در سرکوب مردم
+‏
+‏📝 یادداشت: فریبرز کرمی‌زند، افسر پیشین پلیس
+‏
+‏در ابتدای دهه ۹۰، اسماعیل احمدی ‌مقدم، فرمانده وقت ناجا (فراجا)، پس از رخدادهای سال ۱۳۸۸ و آسیب ‌شناسی‌های انجام‌شده توسط رده‌های نظارتی سازمان، در قالب یک کمیسیون به این جمع بندی رسید که یکی از ضعف‌های اصلی نیروی انتظامی، نبود شبکه گسترده منابع و مخبرین اجتماعی است؛ زیرا منابع و مخبرین موجود عمدتاً در حوزه جرائم و بزهکاری‌ها فعالیت داشتند.
+‏از همین رو، اعضای این کمیسیون به فکر ایجاد ساختاری مشابه بسیج در سپاه پاسداران افتادند که پس از مدتی تحت عنوان «پلیس افتخاری» شکل گرفت. این طرح در ابتدا با وعده‌هایی همچون اولویت در استخدام، پرداخت حق مأموریت، ارائه دفترچه خدمات درمانی و مزایای مشابه آغاز به عضوگیری کرد.
+‏
+‏برابر اخبار و اطلاعات رسیده، این نیروها در اعتراضات سراسری سال‌های ۱۳۹۶، ۱۳۹۸ و ۱۴۰۱ و همچنین در «انقلاب ملی شیروخورشید»، به‌عنوان بازوی شناسایی و بخشی مهم از شبکه منابع و مخبرین ماشین سرکوب، حضور فعالی داشته‌اند در واقع می‌توان آنان را بخشی از نیروهای لباس‌شخصی دانست که در ماموریت های دستگیری معترضان حضور داشته اند..
+‏تمام اسامی و مشخصات این افراد تحت عنوان پرونده‌های پلیس افتخاری در معاونت نیروی انسانی ثبت و ضبط شده است. افزون بر آن، اسامی آنان در لوحه‌های تنظیمی و احکام مأموریت مرتبط با اعتراضات نیز ثبت گردیده است.
+‏
+‏#پلیس_افتخاری #سرکوبگران
+‏@DEJradio
+12:21
+1405/02/21
+
+
+
+
+src :@MilitarryWorld
+‏⭕️یدیعوت آحارونوت:در پی بحران بین مذاکرات تهران و واشینگتن، امروز بعدازظهر نتانیاهو جلسه امنیتی برگزار خواهد کرد.
+‏
+‏@MilitarryWorld | Maverick
+12:21
+1405/02/21
+
+
+
+
+src :@tabzlive
+‏🇮🇷🇺🇸⚡️ — Iran's Foreign Ministry says its response to the US includes reasonable demands serving the entire region's interests, describing its proposals as generous and responsible, with Iran only seeking its right to end the war. 
+‏
+‏The Ministry expressed regret over Washington's insistence on unilateral and harsh demands, stating that US and Israeli actions are the root cause of regional instability and disruption to maritime navigation, and that the release of frozen Iranian funds is a restoration of legitimate rights, not a privilege.
+‏
+‏➡️ Iran also briefed the Chinese side that US actions are increasing instability in the region.
+12:20
+1405/02/21
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏🇩🇪 🇺🇦⚡️— German Defense Minister Pistorius has arrived in Kyiv for a visit - DPA
+‏
+‏The minister plans to discuss expanding cooperation with Ukraine in the defense industry. According to Pistorius himself, the new projects will focus on the joint development of advanced unmanned aerial systems. 
+‏
+‏🇪🇺 Legion Europa | Group Chat 🇪🇺
+12:20
+1405/02/21
+
+
+
+
+src :@P_raetorio
+‏در پی بحران بین مذاکرات تهران و واشینگتن، امروز بعدازظهر نتانیاهو جلسه امنیتی برگزار خواهد کرد.
+‏
+‏ ➖یدیعوت آحارونوت
+‏
+‏
+‏@P_raetorio
+12:20
+1405/02/21
+
+
+
+
 src :@didarnews1
 ‏🔴بقایی سخنگوی وزارت خارجه:
 ‏
@@ -344,7 +412,7 @@ src :@mwarmonitor
 
 
 src :@tabzlive
-‏🇮🇱🇮🇷🇺🇸⚡️ — New: Netanyahu will hold a security meeting this afternoon against the backdrop of the crisis in talks between Iran and Washington, according to Yediot Ahronot.
+‏🇮🇱🇮🇷🇺🇸⚡️ — NEW: Netanyahu will hold a security meeting this afternoon against the backdrop of the crisis in talks between Iran and Washington, according to Yediot Ahronot.
 12:03
 1405/02/21
 
@@ -2891,14 +2959,6 @@ src :@defence_news
 
 
 
-src :@P_raetorio
-‏Praetorio pinned a photo
-00:01
-1405/02/21
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 - US President Trump:
@@ -3924,19 +3984,6 @@ src :@tglobaleye
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇨🇺 — US intelligence-gathering flights have surged off Cuba’s coast since early February, according to a CNN analysis of public aviation data.
-‏
-‏At least 25 missions by US Navy and Air Force aircraft—including P-8A Poseidon patrol planes, RC-135V Rivet Joint signals intelligence aircraft, and MQ-4C Triton drones—have been conducted near Havana and Santiago de Cuba, some within 40 miles of the shore.
-‏
-‏The Global Eye | Subscribe
-22:18
-1405/02/20
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇱 — Israeli PM Netanyahu has left a Druze community conference in the Dead Sea region and is returning to Jerusalem for a phone call with U.S. President Trump.
 ‏
@@ -4384,18 +4431,6 @@ src :@rus_cosmos
 src :@cataphract1
 [عکس]
 ‏پایگاه موقت در صحرای کربلا🇮🇱 ⚜بر اساس گزارش اختصاصی روزنامه وال استریت ژورنال، اسرائیل در آستانه آغاز جنگ گسترده با ایران، یک پایگاه نظامی مخفی در صحرای غربی عراق ایجاد کرده بود؛ پایگاهی که نقش کلیدی در پشتیبانی از عملیات هوایی اسرائیل علیه اهداف ایرانی ایفا…
-21:31
-1405/02/20
-
-
-
-
-src :@MilitarryWorld
-‏⭕️ترامپ:
-‏
-‏ایران به مدت ۴۷ سال با ایالات متحده و بقیه جهان بازی کرده است (تأخیر، تأخیر، تأخیر!) و سرانجام زمانی که باراک حسین اوباما رئیس‌جمهور شد، به «برد بزرگ» رسید. 
-‏
-‏@MilitarryWorld | Parsa
 21:31
 1405/02/20
 
@@ -5714,44 +5749,4 @@ src :@thewarreporter
 ‏
 ‏— The Telegraph | @TheWarReporter
 12:25
-1405/02/20
-
-
-
-
-src :@ircfspace
-‏این هفت کابل اینترنت جهانی در خلیج فارس رو اگه قطع کنید خیلی خوبه، اونا هم مثل ما اینترنت نداشته باشن، بلکه دکان‌های حقوق حشری صداشون برای اونا دربیاد و یه نگاهی هم اینور بندازن و دل ما هم خنک بشه!
-‏قطع کنید.
-‏
-‏© ehsan_369
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-12:21
-1405/02/20
-
-
-
-
-src :@mamlekate
-‏❗️ بندرعباس ۲۰ اردیبهشت ساعت ۱۲:۰۰  هواپیمای مسافری بلند شد بعد ۱۵ دقیقه بعد صدای ۲ انفجار شدید از سمت پایگاه هوایی و فرودگاه اومد.
-‏
-‏❗️ توی قشم هم احساس شد
-‏
-‏📝 همین الان باز داره صدای هواپیما داره میاد و خبری نیست. مهمات عمل نکرده بوده احتمالا. ما میدون تره و بار بودیم دقیقا اون دست پایگاه هوایی
-‏
-‏@mamlekate
-12:17
-1405/02/20
-
-
-
-
-src :@ircfspace
-[عکس]
-‏تسنیم نوشته تنگه هرمز فقط مسیر نفت و کشتی نیست؛ بخش بزرگی از اینترنت و تبادلات مالی دنیا هم از کابل‌های زیردریا رد میشه، که از اونجا عبور می‌کنن. پیشنهاد داده ایران از این مسیر پول و کنترل بیشتری بگیره؛ یعنی برای عبور کابل‌ها مجوز و هزینه تعیین بشه، شرکت‌های بزرگی مثل متا و مایکروسافت مجبور بشن تحت قوانین ایران کار کنن و تعمیر کابل‌ها هم فقط دست شرکت‌های داخلی باشه.
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-12:17
 1405/02/20
