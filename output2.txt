@@ -1,9 +1,30 @@
+src :@Mena_Live
+[عکس]
+‏Senior White House officials: Trump tends to order the resumption of the war in Iran — N12 Hebrew
+‏
+‏@Mena_Live
+02:37
+1405/02/22
+
+
+
+
 src :@GeoPWatch
 [عکس]
-‏🇺🇸🇺🇸- U.S. Central Command has released an image of a U.S. Air Force B-1B Lancer flying over an unknown location in West Asia, most likely after taking off from Diego Garcia in the Chagos Islands. The date for the image is May 9th.
-‏
-‏@GeoPWatch
+‏🇺🇸🇺🇸- U.S. Central Command has released an image of a U.S. Air Force B-1B Lancer flying over an unknown location in West Asia during a training exercise, most likely after taking off from Diego Garcia in the Chagos Islands. The date for the image is May 9th.
 02:37
+1405/02/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏وزارت خارجه آمریکا بر اساس برنامه «پاداش برای عدالت» این وزارتخانه تا سقف ۱۵ میلیون دلار برای اطلاعاتی که به مختل شدن سازوکارهای مالی سپاه و شاخه‌های مختلف آن منجر شود، پاداش تعیین کرد.
+‏پیش‌تر در روز دوشنبه، دولت آمریکا تحریم‌های جدیدی مرتبط با جمهوری اسلامی علیه سه فرد و ۹ نهاد، از جمله چهار نهاد مستقر در هنگ‌کنگ، چهار نهاد در امارات متحده عربی و یک نهاد در عمان وضع کرد.
+‏
+‏https://iranintl.com/202605119344
+02:36
 1405/02/22
 
 
@@ -2322,19 +2343,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇨🇳WaPo: The Trump Administration is facing an internal dispute over who should oversee advanced artificial intelligence systems, with US intelligence agencies pushing for a greater role instead of the Commerce Department ahead of Trump’s visit to Beijing. 
-‏
-‏The report said officials are debating whether national security concerns linked to powerful AI models should shift oversight toward the Office of the Director of National Intelligence, particularly after fears that advanced systems could be exploited for cyberattacks.
-‏
-‏@wfwitness
-23:09
-1405/02/21
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️طبق گزارش سی بی اس نیوز، پاکستان با وجود نقش خود به عنوان میانجی، به هواپیماهای نظامی ایران اجازه داده است در پایگاههای هوایی این کشور مستقر شوند و احتمالاً آنها را از حملات هوایی ایالات متحده محافظت کند.
 ‏
@@ -2491,18 +2499,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:49
-1405/02/21
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏ایالات متحده تحریم‌های جدیدی مرتبط با جمهوری اسلامی علیه سه فرد و ۹ نهاد، از جمله چهار نهاد مستقر در هنگ‌کنگ، ۴ نهاد در امارات متحده عربی و یک نهاد در عمان وضع کرد.
-‏
-‏طبق این گزارش، محمدرضا اشرفی، صمد فتحی سلامی و احمد محمدی‌زاده به دلیل ارتباط با سپاه پاسداران تحریم شده‌اند.
-‏https://iranintl.com/202605111289
-22:48
 1405/02/21
 
 
