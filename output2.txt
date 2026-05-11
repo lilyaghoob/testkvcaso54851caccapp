@@ -1,3 +1,22 @@
+src :@MilitarryWorld
+‏⭕️الجزیره: واکنش اولیه رئیس جمهور آمریکا به طرح پیشنهادی ایران، درهای مذاکره را به طور کامل نبست. با این حال، همزمان گزینه‌های رویارویی نظامی را که واشنگتن و تهران به دنبال اجتناب از آن بودند، تقویت کرد. 
+‏
+‏@MilitarryWorld | Parsa
+09:17
+1405/02/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏IDF Reserve Sgt. Maj. Alexander Glovanyov, 47 years old, was killed in a Hezbollah drone attack near the Lebanon border yesterday.
+09:15
+1405/02/21
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏خبرگزاری میزان، رسانه قوه قضاییه جمهوری اسلامی، صبح دوشنبه، ۲۱ اردیبهشت از اجرای حکم اعدام عرفان شکورزاده، زندانی سیاسی، با اتهام «همکاری با سرویس‌های اطلاعاتی آمریکا و اسرائیل» خبر داد.
@@ -1611,18 +1630,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 00:08
-1405/02/21
-
-
-
-
-src :@ClashReport
-‏Trump told Axios he'll reject Iran's response to the latest draft agreement aimed at ending the war, after the U.S. waited 10 days for Tehran's reply.
-‏
-‏"I don't like their letter. It's inappropriate. I don't like their response," he said, adding that Iran has "been tapping along many nations for 47 years."
-‏
-‏He confirmed he spoke with Netanyahu on Sunday — "a very nice call" — but stressed the Iran talks are "my situation, not everybody else's."
-00:06
 1405/02/21
 
 
@@ -4046,19 +4053,6 @@ src :@Mena_Live
 
 
 
-src :@MilitarryWorld
-‏⭕️شاهزاده سعودی:
-‏اگر به ایران حمله می کردیم تاسیسات نفتی و حیاتی کشورمان مورد هدف قرار می گرفت.
-‏
-‏همکاری با پاکستان برای کاهش تنش‌، ریاض عقلانیت را انتخاب کرد. 
-‏
-‏@MilitarryWorld | Parsa
-19:27
-1405/02/20
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 - US President Trump:
 ‏
@@ -5724,30 +5718,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 09:39
-1405/02/20
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🛳️🇶🇦🇮🇷 — The UK Maritime Trade Organization (UKMTO) says it has received a report of an incident 23 nautical miles northeast of Doha, Qatar.
-‏
-‏The crew of a bulk carrier reported that the vessel was struck by an unknown projectile. 
-‏
-‏A small fire broke out but was later extinguished, and no casualties were reported.
-‏
-‏@TheWarReporter
-09:34
-1405/02/20
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏صبح بخیر 
-‏
-‏@PARVAZDAROJ | A.E
-09:15
 1405/02/20
