@@ -1,3 +1,21 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏درود، وقت عزیزان همراه بخیر
+10:40
+1405/02/21
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏ارتش اسرائیل به نصب توری‌های بلند محافظ زرهی خود برای مقابله با کواد‌های FPV حزب‌الله در حالت پارک روی آورده است.   @P_raetorio
+10:39
+1405/02/21
+
+
+
+
 src :@thewarreporter
 ‏🇰🇷🇮🇷 — Iranian Embassy in Seoul:  "Iran firmly rejects and categorically denies any allegations regarding the involvement of the Iranian Armed Forces in the incident involving damage to a Korean vessel in the Strait of Hormuz".  @TheWarReporter
 10:35
@@ -7,7 +25,6 @@ src :@thewarreporter
 
 
 src :@Americana_ir
-[عکس]
 ‏🔴 لیست دموکرات‌هایی که خواستار آشکار شدن جزئیات برنامه هسته‌ای اسرائیل شده‌اند!
 ‏
 ‏🆔 @Americana_ir
@@ -4112,17 +4129,6 @@ src :@VahidOnline
 
 
 
-src :@selena_updates
-[عکس]
-‏Iranian President, Masoud Pezeshkian:
-‏
-‏We will never bow down to the enemy, and if talk of dialogue or negotiation is raised, it does not mean surrender or retreat,  but rather the goal is to realize the rights of the Iranian people and defend national interests with authority.
-20:30
-1405/02/20
-
-
-
-
 src :@didarnews1
 ‏🔴شبکه CNN: ارزیابی اطلاعاتی آمریکا این است که رهبر عالی ایران اگرچه جراحت برداشت اما همچنان به دور از انظار، راهبردهای کشور را تعیین می‌کند
 ‏
@@ -4459,16 +4465,6 @@ src :@tglobaleye
 ‏
 ‏🇪🇺 Legion Europa | Group Chat 🇪🇺
 18:57
-1405/02/20
-
-
-
-
-src :@P_raetorio
-‏⚜سنتکام اعلام کرد از زمان آغاز محاصره دریایی جنوب ایران ۶۱ کشتی تجاری مجبور به تغییر مسیر شده‌اند. چهار کشتی نیز در پی حملات نیروهای آمریکایی از کار افتاده و متوقف شده‌اند. بیش از ۲۰ کشتی جنگی متعلق به ایالات متحده آمریکا در حال اجرای عملیات در این منطقه هستند.
-‏✒️#LT
-‏📃@Cataphract1
-18:56
 1405/02/20
 
 
@@ -5239,16 +5235,6 @@ src :@Military_Times_Blog
 ‏
 ‏🆔@Military_Times_Blog
 14:52
-1405/02/20
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏اسرائیل از یک سامانه هدف‌گیری مبتنی بر هوش مصنوعی استفاده می‌کند که با ترکیب داده‌های گوشی‌های هوشمند، پهپادها، دوربین‌های ترافیکی و نظارتی، سیگنال‌های وای‌فای و شبکه‌های اجتماعی، نیروهای حزب‌الله در لبنان را شناسایی و ردیابی می‌کند. این سیستم که بر پایه پلتفرم‌هایی مانند Maven متعلق به Palantir Technologies توسعه یافته، حجم عظیمی از اطلاعات را به‌صورت لحظه‌ای یکپارچه کرده، شبکه ارتباطات افراد را ترسیم می‌کند و ظرف چند ثانیه «پروفایل تهدید» می‌سازد؛ کاری که پیش‌تر هفته‌ها زمان می‌برد. گزارش Los Angeles Times به احمد ترمس، رابط ۶۲ ساله حزب‌الله، اشاره دارد که گفته می‌شود پیش از حمله تماس تلفنی از یک افسر اسرائیلی دریافت کرده بود. افسر به او گفته بود: «می‌خواهی همراه بقیه کشته شوی یا تنها؟» بر اساس این گزارش، ترمس تنها ۳۰ ثانیه پس از ترک محل با خودرویش، در حمله موشکی کشته شد. 
-‏
-‏منبع: Los Angeles Times
-14:48
 1405/02/20
 
 
