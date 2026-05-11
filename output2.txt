@@ -1,3 +1,67 @@
+src :@GeoPWatch
+‏🇮🇱❌🇱🇧- According to the Lebanese Ministry of Health, since March 2nd at least 2,869 people have been killed in Lebanon from IDF attacks and more than 8,730 have been injured.
+16:02
+1405/02/21
+
+
+
+
+src :@Indypersian
+[عکس]
+‏⭕️ رایزنی عمان و سازمان بین‌المللی دریانوردی درباره امنیت تنگه هرمز
+‏
+‏♦️وزارت خارجه عمان اعلام کرد بدر بن حمد البوسعیدی، وزیر خارجه این کشور، در مسقط میزبان آرسنیو دومینگز، دبیرکل سازمان بین‌المللی دریانوردی (IMO) بوده و دو طرف درباره چالش‌های کنونی کشتیرانی در منطقه و عبور و مرور دریایی در تنگه هرمز گفتگو کرده‌اند.
+‏بر اساس بیانیه رسمی منتشرشده، طرفین در این دیدار درباره تلاش‌های جاری برای حل‌وفصل مشکلات مرتبط با ناوبری دریایی از طریق روش‌های مسالمت‌آمیز و همکاری با تمامی طرف‌های ذی‌ربط رایزنی کردند.
+‏وزیر خارجه عمان در این نشست بر ضرورت پایبندی به قوانین بین‌المللی و حقوق دریاها تاکید کرد و خواستار احترام همه کشورها به حاکمیت دولت‌ها بر آب‌های سرزمینی‌شان شد.
+‏دبیرکل سازمان بین‌المللی دریانوردی نیز ضمن قدردانی از همکاری‌های عمان، ابراز امیدواری کرد رایزنی‌ها برای اجرای ایمن ابتکار بشردوستانه این سازمان درباره عبور نفتکش‌ها و شناورهای گرفتار در خلیج فارس ادامه یابد.
+‏جمهوری اسلامی می‌گوید برای تامین امنیت کشتیرانی در تنگه هرمز با مقام‌های عمان در حال رایزنی است.
+‏
+‏@indypersian
+16:00
+1405/02/21
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇮🇷🇴🇲⚡- A Qatari LNG tankers and an Emirati LPG tanker have departed from their ports, and are currently sailing through the Strait of Hormuz.
+15:59
+1405/02/21
+
+
+
+
+src :@mwarmonitor
+‏🇸🇦مدیرعامل شرکت Saudi Aramco، Amin Nasser می‌گوید اگر تنگه هرمز امروز باز شود، باز هم چند ماه زمان لازم خواهد بود تا بازار به تعادل دوباره برسد.
+‏
+‏@mwarmonitor
+15:58
+1405/02/21
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏الرقيب أول احتياط في الجيش الصهيوني إيتان هود بامس الحاجة الى دعائكم بعدما خضع لعملية بتر ساقه على اثر عملية لحزب الله وقعت قرب قرية الناقورة في جنوب لبنان
+15:58
+1405/02/21
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇶🇦 🇦🇪 🇴🇲 — Three tankers — two Qatari LNG carriers and one Emirati LPG vessel — are currently transiting the Strait of Hormuz through Omani waters.
+‏
+‏The Global Eye | Subscribe
+15:57
+1405/02/21
+
+
+
+
 src :@IranintlTV
 ‏🔻در آستانه سفر ترامپ به چین، پکن تحریم‌ها علیه شرکت‌های مرتبط با تهران را رد کرد
 ‏
@@ -174,7 +238,7 @@ src :@IranintlTV
 
 
 src :@rnintel
-‏🇮🇷🇴🇲⚡- Two Qatari LNG tankers and an Emirati LPG tanker have departed from their ports, and are currently sailing through the Strait of Hormuz. All three vessels are transiting through Oman's water-spaces.
+‏🇮🇷🇴🇲⚡- A Qatari LNG tankers and an Emirati LPG tanker have departed from their ports, and are currently sailing through the Strait of Hormuz.
 15:45
 1405/02/21
 
@@ -1681,17 +1745,6 @@ src :@tglobaleye
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇱🇧 The IDF has begun using dummy figures in southern Lebanon.
-‏
-‏@wfwitness
-13:30
-1405/02/21
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️کیر استارمر، نخست وزیر بریتانیا : می‌دونم مردم و حتی کشور ازم ناراضی شدن
 ‏
@@ -2900,29 +2953,6 @@ src :@didarnews1
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ کاخ آبی، دفتر ریاست جمهوری کره جنوبی روز دوشنبه ۲۱ اردیبهشت ماه با تائید خبر حمله به یکی ازکشتی‌‌ها باری این کشور در تنگه هرمز اعلام کرد به «برنامه دارد تا به عامل این تهاجم» پاسخ دهد.
-‏
-‏به گزارش خبرگزاری رویترز در بیانیه ریاست جمهوری کره جنوبی آمده است برخورد یک «پرتابه به کشتی باری اچ‌ام‌ام نامو/ HMM NAMU را به شدت محکوم می‌کند اما در این مرحله از تحقیقات هنوز معلوم نیست این پرتابه از کجا شلیک شده و آیا ایران در آن نقشی داشته است یا نه.»
-‏
-‏ساعاتی پیش وزارت خارجه کره‌جنوبی روز یکشنبه اعلام کرده بود که کشتی باری متعلق به این کشور که پیشتر در تنگه هرمز دچار حادثه شده بود،  هدف حمله «هواگردهای ناشناس» قرار گرفته است.
-‏پارک ایل، سخنگوی وزارت خارجه کره‌جنوبی، در یک نشست خبری گفت دو هواگرد ناشناس بخش بیرونی مخزن تعادل سمت چپ در قسمت عقب کشتی «اچ‌ام‌ام نامو» را با فاصله حدود یک دقیقه هدف قرار دادند که در پی آن آتش و دود ایجاد شد.
-‏او بدون اشاره به نوع این هواگردها گفت تصاویر آن‌ها در دوربین‌های مداربسته ثبت شده، اما «محدودیت‌هایی برای شناسایی دقیق نوع، مبدا پرتاب و اندازه فیزیکی این اشیا وجود دارد.»
-‏به گفته مقام‌های کره‌جنوبی، بررسی‌های بیشتری روی بقایای موتور و دیگر قطعات به‌جا مانده انجام خواهد شد.
-‏سخنگوی وزارت خارجه کره‌جنوبی افزود آسیب وارد شده به این کشتی باری که ۲۴ خدمه در آن حضور داشتند، حدود پنج متر عرض داشته و تا حدود هفت متر در بدنه کشتی در بخش عقب سمت چپ امتداد یافته است.
-‏او همچنین گفت آتش‌سوزی در اتاق موتور احتمالا در اثر نخستین حمله آغاز شده و حمله دوم باعث گسترش سریع آتش شده است.
-‏دولت کره‌جنوبی روز دوشنبه ۱۴ اردیبهشت اعلام کرد در حال بررسی اطلاعاتی است که نشان می‌دهد یک کشتی با پرچم این کشور در تنگه هرمز هدف حمله قرار گرفته است.
-‏دونالد ترامپ، رئیس‌جمهوری آمریکا، پس از این حادثه گفت ایران به این کشتی با پرچم پاناما «شلیک‌هایی» انجام داده و از کره‌جنوبی خواست به عملیات آمریکا برای بازگرداندن امنیت کشتیرانی در تنگه هرمز بپیوندد.
-‏جمهوری اسلامی دخالت در این حمله را رد کرده است. سفارت ایران در سئول در بیانیه‌ای اعلام کرد تهران «هرگونه ادعا درباره دخالت نیروهایش» را قاطعانه تکذیب می‌کند.
-‏
-‏@indypersian
-10:22
-1405/02/21
-
-
-
-
 src :@didarnews1
 ‏🔴 نتانیاهو: 
 ‏
@@ -3356,19 +3386,6 @@ src :@rnintel
 
 
 
-src :@mwarmonitor
-[عکس]
-‏✈️دو فروند هواپیمای سوخت‌رسان KC-135R استراتوتانکر نیروی هوایی ایالات متحده که از پایگاه هوایی الظفره به پرواز درآمده‌اند، در حال حاضر بر فراز دریای عمان فعال هستند.
-‏
-‏✈️همچنین یک فروند هواپیمای گشت دریایی P-8A پوزیدون نیروی دریایی آمریکا در حال انجام عملیات بر فراز خلیج فارس و در سواحل امارات متحده عربی است.
-‏
-‏@mwarmonitor
-07:23
-1405/02/21
-
-
-
-
 src :@rnintel
 ‏🇮🇷⚡️- A statement from Islamic Republic of Iran Broadcasting (Iranian state media) last night: "An enemy drone in the southwest of Iran was shot down by the Iranian Army's air defense.".
 07:19
@@ -3518,28 +3535,9 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇺🇸⚡️- Six dead bodies were found in a train cargo carriage in Laredo, Texas. 
-‏
-‏The police have yet to comment on the circumstances of the deaths, but there have been several instances in the past of illegal migrants using train carriages for smuggling in to the United States, and dying during transit.
-06:00
-1405/02/21
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸🇬🇮- An Ohio-class missile submarine was observed entering Gibraltar today on it's way into the Mediterranean Sea.   ➡️ The Ohio class are among the largest and most powerful submarines in the US Navy, capable of carrying up to 24 Trident II D5 ballistic…
 05:57
-1405/02/21
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇫🇷🇮🇱🇮🇷⚡️- The French aircraft carrier Charles de Gaulle has passed the Gibraltar Strait and has entered the Mediterranean Sea.
-05:47
 1405/02/21
 
 
@@ -3576,20 +3574,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:48
-1405/02/21
-
-
-
-
-src :@BellumActaNews
-‏📣 Do you want buy ads on Bellum Acta and don't know how? 📣
-‏
-‏Talk with @reguluz for inquiries
-‏
-‏👀  We are now making a special offer related to AD PACKAGES, for a limited time 👀
-‏
-‏https://t.me/bellumactanews
-03:10
 1405/02/21
 
 
@@ -3919,6 +3903,15 @@ src :@guard_warriors
 ‏بخاطر این که مملکت به خودارضایی هم نیازمنده 
 ‏@Guard_Warriors | Mipo
 00:35
+1405/02/21
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇺🇸❌🇮🇷 — United States Senator Lindsey Graham:  I appreciate President Trump’s earnest efforts to seek a diplomatic solution to change the behavior of the Iranian terrorist regime.   However, between their constant attacks on international shipping, the persistent…
+00:34
 1405/02/21
 
 
@@ -4417,14 +4410,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇱🇧❌🇮🇱 — Hezbollah rocket launches towards the same area along the Israeli-Lebanese border near the occupied Golan Heights.  @GeoPWatch
-23:25
-1405/02/20
-
-
-
-
 src :@Americana_ir
 ‏🔴 هوش مصنوعی؛ میدان جدید رقابت آمریکا و چین در آستانه نشست پکن
 ‏
@@ -4558,19 +4543,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 22:59
-1405/02/20
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇬🇮 — A U.S. Navy Ohio-class submarine was observed entering the Bay of Gibraltar today, en route into the Mediterranean Sea.
-‏
-‏Ohio-class vessels are among the largest and most capable submarines in the U.S. fleet. They can carry up to 24 Trident II D5 ballistic missiles (in SSBN configuration) or, in their guided-missile (SSGN) variant, up to 154 Tomahawk cruise missiles. They form a key element of America’s strategic nuclear deterrent and power projection capabilities.
-‏
-‏The Global Eye | Subscribe
-22:49
 1405/02/20
 
 
