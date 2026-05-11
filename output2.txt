@@ -38,7 +38,7 @@ src :@cataphract1
 
 
 src :@tabzlive
-‏🇳🇱🦠⚡️ — Staff of a hospital in the Netherlands have been isolated after a mistaken procedure involving a Hantavirus patient, according to AFP.
+‏🇳🇱🦠⚡️ — Staff of a hospital in the Netherlands have been isolated after procedural errors involving a Hantavirus patient, according to AFP.
 23:31
 1405/02/21
 
@@ -46,7 +46,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏طيران مسير من لبنان يخترق مستوطنة مجدل الشمس بالشمال الفلسطيني المحتل
+‏طيران مسير من لبنان يخترق مستوطنة مجدل شمس في الجولان الشمالي المحتل وصافرات الرعب تدوي.
 23:31
 1405/02/21
 
@@ -366,6 +366,8 @@ src :@IranintlTV
 
 src :@jangaavaran1390
 ‏گزارش CBS: چند روز پس از آتش‌بس در جنگ در اوایل آوریل - پاکستان، که میانجی مذاکرات است، به ایران اجازه داد هواپیماهای ایرانی، از جمله یک هواپیمای شناسایی و اطلاعاتی RC-130 را به آن منتقل کند. این به این دلیل است که در صورت تلاش ایالات متحده برای بمباران آنها، از آنها محافظت شود. این هواپیماها در پایگاه مرکزی نورخان در نزدیکی شهر راولپندی مستقر بودند. علاوه بر این، ایران هواپیماهای غیرنظامی را نیز به دلیل مشابهی به افغانستان منتقل کرده است. یک مقام ارشد پاکستانی این گزارش را تکذیب کرد.
+‏پ.ن
+‏ار سی۱۳۰ نسخه شنود و جاسوس الکترونیک هواپیمای سی۱۳۰ هرکولس است
 23:15
 1405/02/21
 
@@ -4297,14 +4299,6 @@ src :@tglobaleye
 
 
 
-src :@rnintel
-‏🇱🇧🇮🇱⚡- Israeli Channel 12 reports the IDF is preparing to expand group military operations in southern Lebanon, citing continuous Hezbollah ceasefire violations.
-15:31
-1405/02/21
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴در گفت‌وگوی دیدار با سفیر پیشین ایران در فرانسه مطرح شد
@@ -4403,14 +4397,6 @@ src :@selena_updates
 ‏
 ‏The move comes amid growing concerns over the long-term viability of the UK steel sector, energy costs, and the strategic importance of maintaining domestic steel production for infrastructure, defense, and manufacturing industries.
 15:03
-1405/02/21
-
-
-
-
-src :@rnintel
-‏🇬🇧⚡- Labour's David Smith has called for the resignation of Prime Minister Keir Starmer.
-14:55
 1405/02/21
 
 
@@ -4767,14 +4753,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 12:15
-1405/02/21
-
-
-
-
-src :@rnintel
-‏🇫🇷🦠⚡️ — France has recorded its first Hantavirus case, according to the Health Minister, per AFP.
-12:14
 1405/02/21
 
 
@@ -5274,15 +5252,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 08:13
-1405/02/21
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸⚡️- Seven people have been injured in Paterson, New Jersey after a drive by shooting.
-07:45
 1405/02/21
 
 
