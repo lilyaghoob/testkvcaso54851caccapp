@@ -1,3 +1,35 @@
+src :@defence_news
+[عکس]
+‏زیردریایی USS Alaska از کلاس اوهایو حامل موشک های قاره پیمای اتمی بالستیک از تنگه جبل الطارق عبور کرده و وارد دریای مدیترانه شده است. 
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+21:17
+1405/02/21
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸 — This Ohio-class submarine has been identified as the USS Alaska. The USS Alaska is part of the United States' nuclear triad and carries twenty Trident II D5 ballistic missiles equipped with multiple nuclear warheads. Its purpose is purely nuclear, it…
+21:14
+1405/02/21
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇸🇾 🏴❌🇺🇿 — The Syrian regime is targeting Uzbek fighters that don't belong to the HTS-run Ministry of Defense, saying they're "ISIS" justifying their arrests.
+‏
+‏Uzbek groups have rejected this and are defending those who don't belong to the ministry of defense.
+‏
+‏Civil war looming in Idlib.
+21:11
+1405/02/21
+
+
+
+
 src :@cataphract1
 [عکس]
 ‏آیزنهاور جایگزین فورد می شود؟🇺🇸⚓️
@@ -2037,16 +2069,6 @@ src :@IranintlTV
 
 
 
-src :@GeoPWatch
-‏🇺🇸🇻🇪 — President Trump has pushed Canada and Greenland aside. He's now telling Fox News that he wants to make Venezuela the United States' 51st state.
-‏
-‏@GeoPWatch
-18:45
-1405/02/21
-
-
-
-
 src :@ClashReport
 ‏Trump said Iran’s hardline leaders “are going to fold.”
 ‏
@@ -2111,16 +2133,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 18:39
-1405/02/21
-
-
-
-
-src :@mwarmonitor
-‏⚪️ (رویترز) - JPMorgan Chase انتظار دارد قیمت نفت برنت در بیشتر سال ۲۰۲۶ در محدوده پایین ۱۰۰ دلار باقی بماند، حتی اگر تنگه هرمز در ماه ژوئن دوباره باز شود، زیرا کاهش سریع ذخایر و گلوگاه‌های لجستیکی باعث می‌شود بازار نفت همچنان محدود و تحت فشار باقی بماند، این بانک در یک یادداشت اعلام کرد.
-‏
-‏@mwarmonitor
-18:37
 1405/02/21
 
 
@@ -4547,16 +4559,6 @@ src :@bricsnews
 
 
 
-src :@BellumActaNews
-‏🇮🇷🪖 — Iranian AA activity over northwestern Tehran, Tehran Province
-‏
-‏@BellumActaNews
-02:23
-1405/02/21
-
-
-
-
 src :@warmonitors
 ‏⚡#BREAKING Iran rejected the American offer - according to Iranian Press TV
 02:00
@@ -5070,22 +5072,6 @@ src :@defence_news
 
 
 
-src :@defence_news
-[عکس]
-‏📸 #عکس_روز | تمرین پرواز با پهپاد FPV در نیروی زمینی ارتش ایران
-‏
-‏🔹بعد از جنگ ۱۲ روزه توسعه استفاده از FPVها به صورت ویژه در دستورکار نیروی زمینی ارتش قرار گرفت به طوری که می‌توان گفت در هر یگان عملیاتی در سطح تیپ، تیم‌هایی برای بکارگیری FPV فعال شده‌اند!
-‏با حمایت موثر جهاد خودکفایی ارتش و وزارت دفاع، در خصوص تامین FPV و مهمات مربوطه نیز، اساسا موضوعیتی وجود ندارد و در ماه‌های اخیر ده‌هزار فروند از این پرنده‌های انتحاری تامین شده‌اند.
-‏📌  در حال حاضر تمرکز صرفا به سمت افزایش آموزش تعداد اپراتورها و مهارت‌های پروازی آن‌هاست.
-‏
-‏🖥 @aja_media
-‏zil.ink/ajamedia_ir
-22:25
-1405/02/20
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇱 — Israeli PM Netanyahu has left a Druze community conference in the Dead Sea region and is returning to Jerusalem for a phone call with U.S. President Trump.
 ‏
@@ -5364,16 +5350,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ A.E
 21:28
-1405/02/20
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇱🇧 — The next round of talks between Israel and Lebanon is scheduled for this week and will also be attended by military officials.
-‏
-‏The head of the IDF Strategy Directorate, Amichai Levin, will represent Israel, while Lebanese military attaché in Washington, Oliver Hakmeh, will represent Lebanon.
-‏
-‏— Israeli Broadcasting Authority | @TheWarReporter
-21:14
 1405/02/20
