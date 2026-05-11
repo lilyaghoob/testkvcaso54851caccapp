@@ -1,3 +1,50 @@
+src :@GeoPWatch
+[عکس]
+‏🇱🇧❌🇮🇱- One interceptor missile was launched.
+‏
+‏@GeoPWatch
+16:11
+1405/02/21
+
+
+
+
+src :@defence_news
+[عکس]
+‏به نظر می رسد اف پی وی های حزب الله لبنان اولین شکار واقعا مهم خود را به ثبت رساندند. پرتاب گرهای سامانه گنبد آهنین و پرسنل آن مورد هدف FPV های حزب الله قرار گرفته است.  🇮🇷📝 @defence_news 📝🇮🇷
+16:10
+1405/02/21
+
+
+
+
+src :@warmonitors
+‏⚡ Channel 12, citing Israeli military sources: The army is preparing to expand its operation in Lebanon to enable the political leadership to make a decision.
+16:10
+1405/02/21
+
+
+
+
+src :@wfwitness
+[عکس]
+‏Launch of an interceptor at a UAV
+16:09
+1405/02/21
+
+
+
+
+src :@mwarmonitor
+‏🇱🇧وزارت بهداشت می‌گوید: در حملات اسرائیل به لبنان، دست‌کم ۲٬۸۶۹ نفر کشته شده‌اند.
+‏
+‏@mwarmonitor
+16:08
+1405/02/21
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷/🇶🇦 NEW: A Singapore-flagged LNG tanker originating in Qatar tried to cross the Strait of Hormuz, but was instructed to turn back by Iran
@@ -2514,17 +2561,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🔴 کرانه باختری: یک تروریست مسلح پس از تلاش برای تیراندازی به نیروهای پلیس مرزی اسرائیل، از پا درآمد.
-‏
-‏@mwarmonitor
-11:47
-1405/02/21
-
-
-
-
 src :@ircfspace
 ‏قبل از شروع جنگ و قطعی اینترنت درخواست فیبر نوری دادم و حالا اومدن نصب و فعالش کردن.
 ‏با تشکر از شاتل بابت سرویس خوبشون؛ در واقع قبل از نصب اینترنت نداشتم، ولی الان با سرعت خیلی بیشتری اینترنت ندارم.
@@ -4276,17 +4312,6 @@ src :@rus_cosmos
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷- Donald Trump doesn't like Iran's new proposal:I have just read the response from Iran’s so-called “Representatives.” I don’t like it — TOTALLY UNACCEPTABLE! Thank you for your attention to this matter. President DONALD J. TRUMP
-‏
-‏@GeoPWatch
-23:44
-1405/02/20
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇮🇷 US President Trump says Iran's newest proposal to end the war is "TOTALLY UNACCEPTABLE."
@@ -4383,18 +4408,6 @@ src :@cataphract1
 ‏✒️#Crash
 ‏📃@Cataphract1
 23:34
-1405/02/20
-
-
-
-
-src :@GeoPWatch
-‏🇮🇱🚫🇵🇸🇵🇸 Channel 🔳 reported that a top-secret document submitted to Israel’s political leadership last week warns of Hamas rebuilding its capabilities in Gaza, including intelligence gathering on Israeli forces, recruitment of dozens of fighters per battalion, and the production of hundreds of explosive devices, mortar shells, and anti-tank rockets each month.
-‏
-‏The document also says Hamas is continuing training despite the presence of the Israel Defense Forces, holding dozens to hundreds of training sessions since the ceasefire, while strengthening existing infrastructure without currently digging new tunnels. Security sources cited in the report assess these developments could significantly improve Hamas’s future operational capabilities over time.
-‏
-‏@Alsaa_plus_EN
-23:31
 1405/02/20
 
 
@@ -5678,22 +5691,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@defence_news
-[عکس]
-‏🔶 اسرائیل در حال استفاده از یک سیستم هدف‌گیری مبتنی بر هوش مصنوعی است که داده‌ها را از گوشی‌های هوشمند، پهپادها، دوربین‌های ترافیک و امنیتی، سیگنال‌های وای‌فای و شبکه‌های اجتماعی دریافت کرده و  ترکیب می‌کند تا بتواند اعضای حزب‌الله در لبنان را ردیابی و سپس هدف قرار دهد.
-‏
-‏🔹 این سیستم که بر روی پلتفرم‌هایی مانند Maven شرکت Palantir ساخته شده  جریان‌های عظیم داده را دریافت و کنترل می‌کند، شبکه‌های ارتباطی را ترسیم می‌کند و تهدید های موجود را در عرض چند ثانیه شناسایی می‌کند؛ کاری که قبلاً هفته‌ها طول می‌کشید!
-‏
-‏🔹 مقاله روزنامه لس‌آنجلس تایمز بر احمد ترموس، یک عضو ۶۲ ساله حزب‌الله، تمرکز دارد که تماسی را از یک افسر اسرائیلی دریافت کرده بود؛ از او پرسیده شده بود می‌خواهی با خانوده  بمیری یا تنها؟
-‏ترموس بلافاصله از اطرافیانش فاصله گرفته بود و ۳۰ ثانیه پس از دور شدن با خودرو هدف موشک قرار گرفت
-‏
-‏@RASTAKHIZ_PERSIAN
-18:06
-1405/02/20
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 لوس انجلس تایمز: اسرائیل در حال استفاده از یک سیستم هدف‌گیری مبتنی بر هوش مصنوعی است که داده‌ها را از گوشی‌های هوشمند، پهپادها، دوربین‌های ترافیک و امنیتی، سیگنال‌های وای‌فای و شبکه‌های اجتماعی دریافت کرده و  ترکیب می‌کند تا بتواند اعضای حزب‌الله در لبنان را ردیابی و سپس هدف قرار دهد.
@@ -5898,26 +5895,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@DEJradio
-[عکس]
-‏📝⭕️ یادداشت؛ 
-‏ترامپ سیاست را با عینک تجارت می‌بیند
-‏
-‏پرسشی که شاید ذهن بسیاری را درگیر کرده باشد این است که آیا ارتش آمریکا نمی‌تواند مانع اقدامات ایذایی سـ.ـپاه در تنگه هرمز شود؟
-‏از نظر نظامی و تجهیزاتی، فاصله میان ارتش آمریکا و سـ.ـپاه پاسداران بسیار زیاد است و عملاً آمریکا توان مقابله با اقدامات ایذایی سـ.ـپاه را دارد؛ هرچند این مسئله ممکن است نسبت به برخی عملیات‌های دیگر پیچیدگی‌های متفاوتی داشته باشد، اما در نهایت چالش بزرگی برای آمریکا محسوب نمی‌شود.
-‏اما پرسش اصلی اینجاست که چرا ترامپ عجله‌ای برای پایان دادن سریع به این وضعیت ندارد؟ او به‌عنوان یک تاجر، ممکن است از تهدید مسدود شدن تنگه هرمز به‌عنوان ابزاری برای فشار اقتصادی و سیاسی بر اروپا و چین استفاده کند.
-‏اروپایی که از نگاه ترامپ حاضر نیست هزینه کافی برای تأمین امنیت خود بپردازد و در ناتو نیز گاه ساز مخالف می‌زند، باری اضافی بر دوش آمریکا محسوب می‌شود. اکنون نیز با اختلال در جریان انتقال نفت از تنگه هرمز، اروپا تحت فشار اقتصادی سنگینی قرار گرفته است و ترامپ امیدوار است این فشار باعث شود کشورهای اروپایی سهم بیشتری در هزینه‌های امنیتی پرداخت کنند و حتی ناوگان دریایی خود را به منطقه اعزام نمایند؛ یعنی کشورهایی که تا دیروز منتقد مقابله نظامی با جمهوری اسلامی بودند، ناچار شوند در این تقابل نقش فعال‌تری ایفا کنند.
-‏از سوی دیگر، چین به‌عنوان بزرگ‌ترین خریدار نفت ارزان ایران و کشوری که نزدیک به نیمی از نفت مصرفی خود را از خلیج فارس تأمین می‌کند نیز تحت فشار قرار می‌گیرد؛ چراکه هرگونه محدودیت در تنگه هرمز می‌تواند صادرات نفت به چین را مختل کند. همزمان، ترامپ نیز با محاصره دریایی جمهوری اسلامی ، تلاش می‌کند مانع انتقال نفت جمهوری اسلامی به چین شود.
-‏ترامپ می‌خواهد همه هزینه‌های امنیت و منافع خود را بپردازند. حتی کره جنوبی و ژاپن نیز از نگاه او دور نمانده‌اند؛ شاید اولویت نخستش نباشند، اما قطعاً فراموششان نکرده است. او در نهایت با ذهنیت یک تاجر به سیاست نگاه می‌کند.
-‏
-‏#ترامپ #خاورمیانه 
-‏@DEJradio
-17:16
-1405/02/20
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran sends response to US proposal to end the war through Pakistan.
 ‏
@@ -5991,14 +5968,4 @@ src :@Military_Times_Blog
 ‏
 ‏🆔@Military_Times_Blog
 16:28
-1405/02/20
-
-
-
-
-src :@rus_cosmos
-‏سخنگوی سپاه به تلویزیون ایران گفت: «ما پاسخ خود را به پیشنهاد آمریکا برای پایان دادن به جنگ از طریق پاکستان ابلاغ کردیم. پاسخ ما در این مرحله فقط مربوط به پایان جنگ است و چیزی فراتر از آن نیست.»
-‏
-‏به نظر که هیچ یک از خواسته‌های رئیس جمهور ترامپ در پاسخ ایران برآورده نشده است و تهران قصد ندارد برنامه هسته‌ای خود را برچیند.
-16:07
 1405/02/20
