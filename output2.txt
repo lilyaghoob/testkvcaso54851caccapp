@@ -2345,19 +2345,6 @@ src :@rnintel
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️لین جیان، سخنگوی وزارت خارجه چین، روز دوشنبه اعلام کرد دونالد ترامپ، رئیس‌جمهوری آمریکا، به دعوت شی جین‌پینگ، رئیس‌جمهوری چین، در بازه زمانی ۲۳ تا ۲۵ اردیبهشت در سفری رسمی به چین خواهد رفت.
-‏
-‏خبرگزاری شین‌هوا گزارش داد این سفر در چارچوب دیدار رسمی میان رهبران دو کشور انجام می‌شود.
-‏ 
-‏@indypersian
-05:19
-1405/02/21
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷- Air Defence activity has been reported in west/northwest Tehran in the past 5 minutes.  @GeoPWatch
 04:46
@@ -3995,19 +3982,6 @@ src :@defence_news
 
 src :@MilitarryWorld
 ‏⭕️ترامپ:  ایران به مدت ۴۷ سال با ایالات متحده و بقیه جهان بازی کرده است (تأخیر، تأخیر، تأخیر!) و سرانجام زمانی که باراک حسین اوباما رئیس‌جمهور شد، به «برد بزرگ» رسید.   @MilitarryWorld | Parsa
-22:24
-1405/02/20
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇱🇻⚡️— Latvian Defence Minister Andris Sprūds has resigned.
-‏
-‏Prime Minister Evika Silina requested his resignation on Sunday, citing a loss of trust following recent drone incursions into Latvian airspace. She has appointed Latvian Army Colonel Raivis Melnis as the new Defence Minister.
-‏
-‏🇪🇺 Legion Europa | Group Chat 🇪🇺
 22:24
 1405/02/20
 
