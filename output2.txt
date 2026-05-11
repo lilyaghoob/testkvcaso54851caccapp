@@ -1,3 +1,34 @@
+src :@Parvazdaroj
+[عکس]
+‏◆ روس ها برای ترکیب گشت هوایی سوخو 35 مفهوم جدیدی به کار می‌برند .
+‏در بسته تسلیحاتی حداقل یک تیر موشک ضد رادار خا 31 جای می‌گیرد،با هدف اینکه اگر در گشت، تهدیدی پدافندی هم مشاهده شد مثلا بیرون آمدن یک تلار پدافند از موضع،خلبان بتواند آنرا هم سرکوب کند .
+‏
+‏◆ این مزیت رادار های آرایه فازی ( فعال / غیر فعال ) است که رادار میتواند همزمان آسمان را اسکن کند و همچنان تهدید های زمینی هم شناسایی بکند و به این شکل میشود که طی یک سورتی پرواز هم مفهوم CAP و هم SEAD
+‏
+‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
+10:01
+1405/02/21
+
+
+
+
+src :@selena_updates
+[عکس]
+‏😔💔🕯
+‏
+‏An IDF reservist was killed in a Hezbollah drone attack in northern Israel yesterday, the military announces.
+‏
+‏He is 
+‏
+‏Warrant Officer (res.) Alexander Glovanyov, 47, a driver in the Transport Center's 6924th Battalion, from Petah Tikva.
+‏__
+‏During the attack, several explosive drones launched by Hezbollah struck in Israeli territory, close to the border with Lebanon. One of the drones killed Glovanyov.
+10:00
+1405/02/21
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏⚜در چنین روزی در سال ۱۹۴۳،لشکر ۷ پیاده نظام وارد جزیره Attu در آلاسکا شد.اکثر مدافعین ژاپنی طی این نبرد کشته شدند.(۲۳۵۰ نفر)فقط ۲۸ نفر اسیر شدند.این تنها نبردی بود که در خاک آمریکا اتفاق افتاد.
@@ -794,28 +825,6 @@ src :@rnintel
 ‏🇺🇸🇮🇷 - "USS John Finn (DDG 113) sails behind USS Milius (DDG 69), USNS Carl Brashear (T-AKE-7), and USS George H.W. Bush (CVN 77) in the Arabian Sea. 
 ‏
 ‏Over 20 U.S. warships are enforcing the blockade against Iran. CENTCOM forces have redirected 61 commercial vessels and disabled 4 to ensure compliance." - U.S. Central Command
-06:46
-1405/02/21
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏یک مقام ارشد امنیتی عراق گزارش‌های منتشرشده درباره ایجاد پایگاه نظامی مخفی اسرائیل در صحرای غربی این کشور برای پشتیبانی از حملات علیه ایران را رد کرد و آن‌ها را «نادرست» خواند. 
-‏
-‏به گزارش آناتولی، این مقام که نامش فاش نشده، گفت ادعاها درباره فعالیت کنونی یک سایت نظامی اسرائیل در خاک عراق صحت ندارد.
-‏
-‏این واکنش پس از گزارش وال‌استریت ژورنال مطرح شد که مدعی بود اسرائیل پیش از حملات ۹ اسفند، با اطلاع آمریکا پایگاهی مخفی در صحرای عراق ایجاد کرده است. 
-‏
-‏بر اساس آن گزارش، این پایگاه محل استقرار نیروهای ویژه و مرکز پشتیبانی لجستیکی بوده و نزدیک بود در ماه مارس پس از گزارش یک چوپان درباره فعالیت‌های مشکوک فاش شود.
-‏
-‏مقام‌های عراقی پیش‌تر از درگیری با یک «عملیات هوایی مرموز» در منطقه النخیب خبر داده بودند که به کشته و زخمی شدن چند نظامی انجامید. 
-‏
-‏ارتش اسرائیل درباره این ادعاها اظهار نظر نکرده و تنش‌های منطقه‌ای همچنان ادامه دارد.
-‏بیشتر بخوانید
-‏
-‏https://iranintl.com/202605114193
 06:46
 1405/02/21
 
@@ -4295,19 +4304,6 @@ src :@thewarreporter
 
 
 
-src :@selena_updates
-[عکس]
-‏Sirens sounded across northern Israel amid a Hezbollah UAV attack from Lebanon towards IDF soldiers operating in southern Lebanon. Alerts were activated due to concerns of falling debris from the interceptor.
-‏
-‏Separately, a fire broke out in the Margaliot area in the Upper Galilee due to the crash of a Hezbollah explosive drone.
-‏
-‏No injuries.
-19:16
-1405/02/20
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏تصویری که امروز رئیس جمهور ایالات متحده، دونالد ترامپ در کنار بنیامین نتانیاهو در تروث‌سوشیال خود منتشر کرد.
@@ -5788,13 +5784,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 10:02
-1405/02/20
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏در حالت رهاسازی چندگانه یا Multiple Release / Ripple Release، بمب‌ها با فاصله زمانی مشخص (Ripple Interval) رها می‌شوند. این فاصله ممکن است مثلاً 50 تا 200 میلی ثانیه باشد و به سرعت هواپیما بستگی دارد. نتیجه این کار ایجاد یک الگوی برخورد یا پترن روی زمین است.…
-10:00
 1405/02/20
