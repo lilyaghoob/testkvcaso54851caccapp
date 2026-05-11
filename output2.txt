@@ -1,3 +1,68 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸🇺🇸- U.S. Central Command has released an image of the USS Delbert D. Black (DDG 119) in the Arabian sea enforcing the Naval blockade on Iran.
+‏
+‏➡️ CENTCOM claims to have redirected 62 commercial ships and disabled 4 since April 13th.
+‏
+‏@GeoPWatch
+16:57
+1405/02/21
+
+
+
+
+src :@defence_news
+‏📸 #عکس_روز | تمرین پرواز با پهپاد FPV در نیروی زمینی ارتش ایران  🔹بعد از جنگ ۱۲ روزه توسعه استفاده از FPVها به صورت ویژه در دستورکار نیروی زمینی ارتش قرار گرفت به طوری که می‌توان گفت در هر یگان عملیاتی در سطح تیپ، تیم‌هایی برای بکارگیری FPV فعال شده‌اند! با…
+16:57
+1405/02/21
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🇺🇸ناوشکن USS Delbert D. Black (DDG-119) در حال عبور از دریای عرب، در چارچوب اجرای محاصره ایالات متحده علیه ایران، بر آب‌های منطقه‌ای نظارت می‌کند. نیروهای فرماندهی مرکزی آمریکا (سنتکام) برای اطمینان از رعایت این محاصره، مسیر ۶۲ کشتی تجاری را تغییر داده و ۴ کشتی را از کار انداخته‌اند.
+‏
+‏@mwarmonitor
+16:56
+1405/02/21
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏⚜نیروی دریایی سلطنتی بریتانیا امروز اعلام کرد که ناو اچ‌ام‌اس دراگون (HMS Dragon) ماموریت خود را از ماموریت‌های دفاعی در نزدیکی قبرس به ماموریتی در تنگه هرمز تغییر خواهد داد، چرا که شناورهای رزمی اروپایی، از جمله ناو هواپیمابر شارل دوگل فرانسه، همچنان در حال تجمع در منطقه محلی هستند تا برای یک ماموریت دریایی اروپایی با هدف تامین امنیت عبور و مرور دریایی از طریق تنگه مورد مناقشه، آماده شوند.
+‏✒️#LT
+‏📃@Cataphract1
+16:56
+1405/02/21
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏.ناو هواپیمابر فرانسوی شارل دوگل در ۸ مه پس از عبور از کانال سوئز در دریای سرخ مشاهده شد.
+‏
+‏این گروه ضربت ناو هواپیمابر به عنوان بخشی از تلاش مشترک فرانسه و بریتانیا  به سمت منطقه خلیج فارس در حرکت است.
+16:54
+1405/02/21
+
+
+
+
+src :@cataphract1
+[عکس]
+‏⚜نیروی دریایی سلطنتی بریتانیا امروز اعلام کرد که ناو اچ‌ام‌اس دراگون (HMS Dragon) ماموریت خود را از ماموریت‌های دفاعی در نزدیکی قبرس به ماموریتی در تنگه هرمز تغییر خواهد داد، چرا که شناورهای رزمی اروپایی، از جمله ناو هواپیمابر شارل دوگل فرانسه، همچنان در حال تجمع در منطقه محلی هستند تا برای یک ماموریت دریایی اروپایی با هدف تامین امنیت عبور و مرور دریایی از طریق تنگه مورد مناقشه، آماده شوند.
+‏✒️#LT
+‏📃@Cataphract1
+16:53
+1405/02/21
+
+
+
+
 src :@cataphract1
 ‏⚜کوین هاست، مدیر شورای اقتصاد ملی، با اشاره به مشکلات اقتصادی ایران در نتیجه محاصره مداوم و حملات مشترک آمریکا و اسرائیل، گفته است که «هیچ عجله‌ای» برای مذاکرات با ایران وجود ندارد.
 ‏✒️#LT
@@ -1667,15 +1732,6 @@ src :@Mena_Live
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧⚡️ — Labour MP David Smith has called for British Prime Minister Keir Starmer to resign following his speech.
-14:33
-1405/02/21
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Indian markets plunged today after Prime Minister Narendra Modi warned of the economic risks posed by surging global energy prices and called on citizens to reduce fuel consumption, avoid unnecessary foreign travel, and limit imports such as gold.
@@ -1684,14 +1740,6 @@ src :@selena_updates
 ‏
 ‏The Sensex fell by more than 1,000 points while the Nifty dropped over 1%, with aviation, automobile, tourism, jewellery, and consumer sectors among the hardest hit as investors feared mounting pressure on India’s import bill, inflation, and the rupee.
 14:33
-1405/02/21
-
-
-
-
-src :@tabzlive
-‏🇬🇧⚡️ — British Prime Minister Keir Starmer: I'm not going to walk away.  I don't think Britain is ungovernable.
-14:31
 1405/02/21
 
 
@@ -2725,16 +2773,6 @@ src :@defence_news
 
 
 
-src :@mwarmonitor
-‏🇺🇸مسافران آمریکایی کشتی تفریحی که به هانتاویروس دچار شده بود — از جمله یک نفر که احتمالاً آزمایش مثبت دارد — برای انجام ارزیابی‌های پزشکی وارد ایالت نبراسکا شدند. CNN 
-‏
-‏@mwarmonitor
-11:48
-1405/02/21
-
-
-
-
 src :@defence_news
 [عکس]
 ‏تصویری از یک عضو سرویس حفاظت فدرال (FSO) روسیه، با مود Russian style در جریان رژه پیروزی میدان سرخ مسکو ، مسلح به دو قبضه لانچر RPG-26 و قبضه AK-105 کاستوم‌ zenitco
@@ -3090,17 +3128,6 @@ src :@naya_foriraq
 ‏🇮🇷الخارجية الإيرانية: ردنا على الجانب الأمريكي تتضمن مطالب معقولة ومنطقية وتأخذ مصالح المنطقة كلها في الاعتبار
 ‏
 ‏الصين حليف استراتيجي
-10:54
-1405/02/21
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏حملات هوایی ارتش اسرائیل به جنوب لبنان 
-‏
-‏@P_raetorio
 10:54
 1405/02/21
 
@@ -4059,14 +4086,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇺🇸❌🇮🇷 — United States Senator Lindsey Graham:  I appreciate President Trump’s earnest efforts to seek a diplomatic solution to change the behavior of the Iranian terrorist regime.   However, between their constant attacks on international shipping, the persistent…
 00:34
-1405/02/21
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Donald Trump doesn't like Iran's new proposal:I have just read the response from Iran’s so-called “Representatives.” I don’t like it — TOTALLY UNACCEPTABLE! Thank you for your attention to this matter. President DONALD J. TRUMP  @GeoPWatch
-00:25
 1405/02/21
 
 
@@ -5238,16 +5257,6 @@ src :@thewarreporter
 
 
 
-src :@cataphract1
-‏⚜شرکت ایر فرانس اعلام کرد با توجه به شرایط امنیتی در خاورمیانه، تعلیق پروازهای خود به چند مقصد را تمدید کرده است. بر این اساس، پروازها به و از ریاض تا ۲۲ اردیبهشت، دبی، تل‌آویو و بیروت تا ۳۰ اردیبهشت، متوقف می‌شود.
-‏✒️#LT
-‏📃@Cataphract1
-20:58
-1405/02/20
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏بخش پهپادی ج.ا پس از محو شدنش در درگیری با اسرائیل، در جنگ 39 روزه خود را کاملا بازیابی کرده است. فاصله نزدیک کشورهای منطقه و دقت بالاتر اصابت آن موجب توجه مجدد به تاثیر حملات پهپادی شده است. کشورهای عربی شبکه پدافندی متناسب تضمین شده‌ای برای مقابله با پهپادها ندارند، اما درصدد رفع این عیوب هستند. متوقف کردن ماشین تولید و پرتاب پهپاد حتی از موشکهای بالستیک سخت تر است و تولید آن در سایتهای زیر زمینی بسی راحت تر و خرید قطعات آن از منابع خارجی ممکن‌تر. از اینرو ج.ا احتمالا تولیدات پهپادی را بسی افزایش خواهد داد. ج.ا از تجربیات فنی روسیه استفاده خواهد. ج.ا در پی اجرای موجهای پهپادی بزرگتری خواهد رفت یا حداقل طرح هایی که پرتابهای پهپادی را در بازه ای بلند مدت تضمین کند.
 ‏
@@ -5427,22 +5436,6 @@ src :@VahidOnline
 
 src :@MilitiaNews
 [نظرسنجی]
-19:34
-1405/02/20
-
-
-
-
-src :@defence_news
-‏نکته فاجعه بار تر داستان این است که یک چوپان محلی عراقی حرکت غیر عادی افراد و بالگرد ها در این منطقه را از دور مشاهده کرده و به مقامات عراقی گزارش می دهد. ارتش عراق تیمی را برای جستجو به این محل ارسال می کند که به آنها حمله شده و یکی از آنها نیز کشته می شود !
-‏
-‏عراقی ها آمریکا را مقصر اعلام می کنند ولی آمریکایی ها اعلام می کنند که کار آنها نبوده و ......
-‏
-‏با وجود این همه تحولات باز هم ما نفهمیدیم !
-‏
-‏به قول یک دوستی ! فلانی عراق را ول کن ، بریم بگردیم ببینیم در ایران چند پایگاه پروازی تاسیس کردند !
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
 19:34
 1405/02/20
 
