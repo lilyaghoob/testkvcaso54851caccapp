@@ -1851,29 +1851,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Senator Graham:
-‏
-‏I am certain that Iran’s refusal to destroy their enrichment capability will be soundly rejected.
-01:31
-1405/02/21
-
-
-
-
-src :@ClashReport
-‏BIG: Iran rejected the latest US proposal and submitted its own counterproposal. 
-‏
-‏Tehran called for sanctions relief, the release of frozen Iranian assets, compensation for war-related damages, and recognition of Iran’s role in the Strait of Hormuz, while the US said the response was “unacceptable.”
-‏
-‏Source: IRIB
-01:26
-1405/02/21
-
-
-
-
 src :@MilitiaNews
 ‏🇮🇷⚡️ارتش ایران می گوید یک «پهپاد شناسایی دشمن» توسط پدافند هوایی ایران در جنوب غربی ایران منهدم شده است.
 ‏
