@@ -1,3 +1,11 @@
+src :@GeoPWatch
+‏🇮🇷- Air Defence activity has been reported in west/northwest Tehran in the past 5 minutes.  @GeoPWatch
+04:46
+1405/02/21
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏بنیامین نتانیاهو در گفت‌وگو با برنامه «۶۰ دقیقه» شبکه سی‌بی‌اس گفت جنگ اخیر با ایران «دستاوردهای بزرگی» داشته اما هنوز پایان نیافته است، زیرا به گفته او همچنان اورانیوم غنی‌شده، تأسیسات هسته‌ای، برنامه موشک‌های بالستیک و شبکه نیروهای نیابتی ایران باید مهار شوند. 
@@ -401,15 +409,6 @@ src :@BellumActaNews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇲🇦⚡️ —  A U.S. security official told WSJ that the disappearance of two American soldiers in southwestern Morocco during the African Lion military exercise is not related to terrorism.   ➡️ The official added that initial reports suggest the soldiers may…
-02:21
-1405/02/21
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷- Air Defence activity has been reported in west/northwest Tehran in the past 5 minutes.
 ‏
@@ -433,14 +432,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 02:20
-1405/02/21
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇵🇸 — Israeli airstrikes killed at least ‌three Palestinians in Gaza on Sunday, including two police officers.
-02:13
 1405/02/21
 
 
@@ -2684,21 +2675,6 @@ src :@mwarmonitor
 src :@WAR_ROOM_NEWS
 ‏بر اساس گزارش روزنامه وال‌استریت ژورنال، موضوعات هسته‌ای تنها پس از دستیابی به توافقی برای پایان جنگ بررسی خواهند شد،ایران آمادگی دارد اورانیوم را به یک کشور ثالث منتقل کند، به شرط آنکه در صورت شکست مذاکرات یا خروج آمریکا از توافق، تضمین‌هایی برای بازگرداندن…
 22:42
-1405/02/20
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🇬🇮- An Ohio-class missile submarine was observed entering Gibraltar today on it's way into the Mediterranean Sea. 
-‏
-‏➡️ The Ohio class are among the largest and most powerful submarines in the US Navy, capable of carrying up to 24 Trident II D5 ballistic missiles with a range of over 7,000 miles, and can be armed with nuclear warheads. 
-‏
-‏➡️ The class serves as a cornerstone of the United States' nuclear deterrent. Also, some vessels have been converted to carry conventional Tomahawk cruise missiles in a guided missile submarine (SSGN) configuration.
-‏
-‏@GeoPWatch
-22:39
 1405/02/20
 
 
