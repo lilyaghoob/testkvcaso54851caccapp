@@ -1,3 +1,22 @@
+src :@mwarmonitor
+[عکس]
+‏✈️یک فروند جنگنده F-35A لایتنینگ II نیروی هوایی ایالات متحده هنگام پرواز بر فراز دریای عمان در مسیر حرکت به سمت امارات متحده عربی وضعیت اضطراری در حین پرواز اعلام کرده و کد اسکواک ۷۷۰۰ را ارسال کرده است.
+‏
+‏@mwarmonitor
+06:29
+1405/02/21
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸 — USAF F-35A "Lightning II" stealth fighter jet squawks emergency code 7700 above the UAE. It flew in from the Gulf of Oman, east of the Strait of Hormuz.  @GeoPWatch
+06:29
+1405/02/21
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏نیویورک‌تایمز در گزارشی از موج اخراج‌ها پس از جنگ نهم اسفند خبر داد و نوشت حملات آمریکا و اسرائیل به صنایع فولاد و پتروشیمی، اختلال در واردات به‌دلیل محاصره بنادر و نیز سیاست‌هایی مانند قطع اینترنت، فشار سنگینی بر اقتصاد ایران وارد کرده است. 
@@ -2428,14 +2447,6 @@ src :@P_raetorio
 
 
 
-src :@GeoPWatch
-‏🇮🇱📞🇺🇸- According to Israeli media, Prime Minister Benjamin Netanyahu departed a conference of Druze and Circassian local authority heads at the Dead Sea early, informing attendees that he needed to return to Jerusalem for an urgent call with Donald Trump,…
-22:59
-1405/02/20
-
-
-
-
 src :@cataphract1
 ‏⚜بر اساس گزارش کانال ۱۲ اسرائیل،تماس تلفنی بین نتانیاهو و ترامپ به پایان رسیده است.ظاهرا این مکالمه حدودا یک ساعت طول کشیده است.
 ‏✒️#LT
@@ -2856,21 +2867,6 @@ src :@defence_news
 src :@jangaavaran1390
 [عکس]
 ‏پهپاد FPV حزب‌الله که منفجر نشده بود، در توری محافظ ضد پهپاد اسرائیل گرفتار شد.
-22:28
-1405/02/20
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏🔴«تصاویر از حمله ایران در تنگه هرمز: این‌گونه اصابت به کشتی باری کره‌ای HMM NAMU دیده می‌شود؛ کشتی‌ای که هفته گذشته توسط سپاه پاسداران انقلاب اسلامی ایران و با استفاده از دو «شیء پرنده» مورد حمله قرار گرفت. در کره جنوبی ارزیابی می‌شود که این‌ها پهپاد بوده‌اند، نه موشک‌های کروز، که به‌صورت پیاپی اصابت کرده‌اند.
-‏
-‏🔸محل‌های اصابت: برخورد به مخزن تعادل عقب (مخزن آب برای حفظ پایداری کشتی)، اصابت به بخش عقبیِ سمت چپ کشتی به عرض ۵ متر و نفوذ ۷ متری به داخل بدنه، و همچنین اصابت به اتاق ماشین که منجر به آتش‌سوزی داخلی شد.
-‏
-‏🔸این کشتی در آب‌های امارات متحده عربی مورد حمله قرار گرفت و پس از آن‌که دیگر قابلیت دریانوردی نداشت، به یدک کشیده شده و به یک کشتی‌سازی تعمیراتی در دبی منتقل شد. در زمان حادثه ۲۴ نفر خدمه در کشتی حضور داشتند که شش نفر از آنان کره‌ای بودند.»
-‏
-‏@mwarmonitor
 22:28
 1405/02/20
 
@@ -4004,17 +4000,6 @@ src :@intelslava
 
 
 
-src :@rnintel
-[عکس]
-‏In regards to territorial changes, the IDF has fully cleared what remains of the city of Bint Jbeil and demolishing the few remaining structures
-‏
-‏They continue to strike Hezbollah members and civilians in the rear daily in what i assume is them looking for FPV drone operators
-19:36
-1405/02/20
-
-
-
-
 src :@MilitiaNews
 [نظرسنجی]
 19:34
@@ -5112,14 +5097,6 @@ src :@MilitiaNews
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷🇵🇰⚡- Iran has sent its response to the US proposal on ending the war to the Pakistani mediators.
-15:57
-1405/02/20
-
-
-
-
 src :@intelslava
 ‏🇦🇲🇷🇺Armenia has the right to hold any events, including a summit with the EU, but in Moscow, they consider it unacceptable for Yerevan to provide a platform for Zelensky's Russophobic statements. This is not in line with the spirit of relations between Russia and Armenia - Dmitry Peskov.
 ‏
@@ -5165,14 +5142,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏آتش‌سوزی یک قایق تفریحی در دبی؛ گزارش‌های تأییدنشده‌ای نیز درباره هدف قرار گرفتن آن توسط پهپادهای ایرانی منتشر شده است
 15:29
-1405/02/20
-
-
-
-
-src :@rnintel
-‏🇮🇷🇦🇪🇵🇰⚡- UAE detained and deported thousands of Pakistani workers, mainly Shia, after Pakistan helped broker a US-Iran ceasefire deal, the New York Times reports.
-15:25
 1405/02/20
 
 
@@ -5395,14 +5364,6 @@ src :@cataphract1
 ‏تیم کاتافراکت.
 ‏
 ‏📃@Cataphract1
-12:56
-1405/02/20
-
-
-
-
-src :@rnintel
-‏🇰🇼⚡- Kuwait's defense ministry says it engaged with hostile drones early morning.
 12:56
 1405/02/20
 
