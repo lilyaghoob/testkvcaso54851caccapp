@@ -1,3 +1,44 @@
+src :@ClashReport
+[عکس]
+‏Checkmate in Iran
+‏
+‏Robert Kagan — a prominent American neoconservative — argues in The Atlantic that the U.S. is heading toward total defeat in its war with Iran, with consequences that "can neither be repaired nor ignored."
+‏
+‏Despite 37 days of devastating U.S. and Israeli strikes that killed much of Iran's leadership and crippled its military, Tehran made no concessions, and Trump halted attacks after Iran's March 18 retaliation on Qatar's Ras Laffan gas plant caused damage that will take years to repair.
+‏
+‏Kagan says Iran will keep control of the Strait of Hormuz — gaining global leverage over energy supplies, dictating terms to Gulf states, and emerging stronger alongside allies China and Russia.
+‏
+‏He warns the war has exposed America as a "paper tiger," depleted weapons stocks, and accelerated a "post-American world," potentially encouraging Xi Jinping on Taiwan and Putin in Europe.
+12:51
+1405/02/21
+
+
+
+
+src :@P_raetorio
+‏⭕️ارتش اسرائیل اعلام کرد روز گذشته یک سرگرد ارتش این کشور در اثر اصابت کواد FPV حزب‌الله کشته شد و همچنین صبح امروز در اثر برخورد این کواد ها سه سرباز دیگر زخمی شدند. 
+‏
+‏@P_raetorio
+12:50
+1405/02/21
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ چین به تحریم‌های جدید آمریکا علیه سه شرکت مستقر در چین واکنش نشان داد و آن را اقدامی «غیرقانونی و یک‌جانبه» توصیف کرد. واشنگتن می‌گوید این شرکت‌ها به حملات ایران در جنگ با آمریکا و اسرائیل کمک کرده‌اند.
+‏گو جیاکون، سخنگوی وزارت خارجه چین، در نشست خبری روزانه گفت: «ما همواره از شرکت‌های چینی خواسته‌ایم فعالیت‌های تجاری خود را مطابق قوانین و مقررات انجام دهند و قاطعانه از حقوق و منافع مشروع شرکت‌های چینی دفاع خواهیم کرد.»
+‏او افزود اولویت فوری باید جلوگیری از بازگشت دوباره درگیری‌ها باشد، نه اینکه از جنگ برای «مرتبط کردن بدخواهانه و بدنام کردن دیگر کشورها» استفاده شود.
+‏این موضع‌گیری در حالی مطرح می‌شود که قرار است دونالد ترامپ، رئیس‌جمهوری آمریکا، و شی جین‌پینگ، رهبر چین، این هفته دیدار کنند.
+‏
+‏@indypersian
+12:50
+1405/02/21
+
+
+
+
 src :@naya_foriraq
 ‏جيش الاحتلال: إصابة 3 جنود صهاينة جراء سقوط مسيّرة مفخخة جنوبي لبنان
 12:45
@@ -2344,26 +2385,6 @@ src :@rnintel
 ‏
 ‏The police have yet to comment on the circumstances of the deaths, but there have been several instances in the past of illegal migrants using train carriages for smuggling in to the United States, and dying during transit.
 06:00
-1405/02/21
-
-
-
-
-src :@Indypersian
-‏⭕️مالکیت، ویزا و شغل دانشگاهی: ردپای اسحاق، پسر محمدباقر قالیباف در ملبورن
-‏
-‏📌اسحاق قالیباف، کارفرمای خود را در ایران، سید ابوذر خزرایی افضلی معرفی کرده که داماد قاسم سلیمانی است
-‏
-‏♦️گاردین با اشاره به اینکه اسحاق، پسر محمدباقر قالیباف که این روزها بیشتر نامش در سیاست رژیم ایران شنیده می‌شود، در ملبورن زندگی و کار کرده می‌نویسد که این موضوع پرسش‌هایی درباره امنیت ملی و تحریم‌ها در استرالیا ایجاد کرده است.
-‏
-‏به گزارش گاردین، قالیباف در بیش از از یک دهه، روابط گسترده‌ای با استرالیا ایجاد کرده است؛ از جمله درآمد اجاره‌ای از دست‌کم یک ملک سرمایه‌گذاری که توسط پسرش دریافت می‌شده است.
-‏
-‏به گزارش گاردین استرالیا، رئیس مجلس شورای اسلامی و پسرش با یک مرکز تحقیقاتی در دانشگاه ملبورن ارتباط داشته‌اند. پسر ۳۸ ساله او، اسحاق قالیباف، همچنین موفق به دریافت اقامت بلندمدت استرالیا شده، در حالی که کانادا دو بار درخواست ویزای او را رد کرده بود.
-‏
-‏ بیشتر بخوانید...
-‏
-‏@IndyPersian
-05:59
 1405/02/21
 
 
@@ -5743,15 +5764,4 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 12:56
-1405/02/20
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏تصاویر ماهواره سنتینل-۲ از مکان مورد ادعای پایگاه اسرائیل در صحرای نجف عراق در ماه می و آپریل، هیچ نشانه‌ای از استقرار تجهیزات نظامی در این پایگاه را نشان نمی‌دهد هر چند وجود باند پرواز را می‌توان دید.
-‏
-‏کیفیت تصاویر سنتینل-۲ بسیار پایین است و نمی توان با قاطعیت درباره این پایگاه صحبت کرد.
-12:50
 1405/02/20
