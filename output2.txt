@@ -1383,14 +1383,6 @@ src :@mwarmonitor
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli airstrike on Sajd, southern Lebanon.  @wfwitness
-00:03
-1405/02/21
-
-
-
-
 src :@defence_news
 [عکس]
 ‏💢تبلیغات در کانال وقایع
@@ -2353,16 +2345,6 @@ src :@tglobaleye
 src :@rnintel
 ‏🇲🇱 - Current situation in Mali.  Map key: - Purple: FLA + JNIM areas of control, - Orange: FAMa, - Green: Platforme (pro-FAMa), - Grey: Islamic State of the Sahel region areas of operations.  Unmarked territory indicates JNIM areas of operations / influence…
 23:11
-1405/02/20
-
-
-
-
-src :@BellumActaNews
-‏🇮🇷🪖📝 — Iranian AA activity was reported a while ago over Andimeshk, Khuzestan Province of Southern Iran
-‏
-‏@BellumActaNews
-23:09
 1405/02/20
 
 
