@@ -1,6 +1,57 @@
+src :@World_Newsly
+[عکس]
+‏🔴 دبیر: تو جنگ بالای ۱۰۰تا موشک اطراف من خورد اما شهید نشیدم، اما من عاشق شهادتم
+‏
+‏✍🏻 Matador
+‏▪️@World_Newsly
+18:34
+1405/02/22
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷/🇻🇦NEW: Pope Leo XIV presented Iran’s ambassador to the Vatican, Ayatollah Hossein Mokhtari, with the highest diplomatic honor of the Vatican, the ‘Order of Pius’
+‏
+‏The medal was awarded for Iran’s extraordinary contributions to peace and interfaith cooperation between Christians and Muslims.
+‏
+‏@Middle_East_Spectator
+18:33
+1405/02/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏پیت هگست، وزیر جنگ آمریکا، سه‌شنبه در کنگره این کشور درباره جنگ علیه جمهوری اسلامی اعلام کرد که ارتش ایالات متحده برنامه‌ای برای خروج نیروها از منطقه خاورمیانه دارد، اما در عین حال برای تشدید درگیری یا جابه‌جایی تجهیزات در صورت لزوم نیز برنامه‌ریزی کرده است. 
+‏او افزود: «ما دقیقا می‌دانیم چه چیزی در اختیار داریم. هر آنچه نیاز داریم به اندازه کافی داریم.»
+‏او گفت به صنایع دفاعی گفته شده است که «بیشتر و سریع‌تر تولید کنند»، و در عین حال ظرفیت ناکافی مجتمع‌های صنعتی-نظامی را ناشی از دولت‌های پیشین و کمک‌های آمریکا به اوکراین در جنگش با روسیه دانست.
+‏https://iranintl.com/202605122781
+18:32
+1405/02/22
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ خواجه محمد آصف، وزیر دفاع پاکستان، از احتمال گسترش پیمان دفاعی مشترک این کشور با عربستان سعودی و پیوستن ترکیه و قطر به عنوان شرکای جدید خبر داد. به گفته او، سازوکار حضور این اعضای جدید تا حد زیادی نهایی شده و هدف آن شکل‌گیری یک ائتلاف قدرتمند دفاعی و اقتصادی در منطقه است.
+‏
+‏وزیر دفاع پاکستان تاکید کرد که چنین ائتلافی می‌تواند وابستگی به قدرت‌های فرامنطقه‌ای را به حداقل رسانده و صلح و ثبات را در منطقه تقویت کند. آصف تصریح کرد: «این پیمان علیه هیچ کشوری نیست، اما تاثیری حیاتی در محافظت از صلح ایفا خواهد کرد.»
+‏
+‏پاکستان و عربستان سعودی در سپتامبر ۲۰۲۵ پیمانی را امضا کردند که طبق آن، حمله به هر یک از دو کشور، حمله به طرف دیگر تلقی می‌شود. پیوستن ترکیه و قطر به این پیمان، می‌تواند منجر به تشکیل یک «برادری بین‌المللی» با توان نظامی و اقتصادی بالا شود که معادلات امنیتی منطقه را تغییر خواهد داد.
+‏@indypersian
+18:32
+1405/02/22
+
+
+
+
 src :@GeoPWatch
 [عکس]
-‏🇺🇸 — President Trump posts AI-generated images of the Arleigh Burke-class destroyer USS Oscar Austin firing a laser weapon it doesn't actually have, and a MQ-9A "Reaper" combat UAV flying ridiculously low to strike IRGCN fast attack boats.
+‏🇺🇸🇮🇷 — President Trump posts AI-generated images of the Arleigh Burke-class destroyer USS Oscar Austin firing a laser weapon it doesn't actually have, and a MQ-9A "Reaper" combat UAV flying ridiculously low to strike IRGCN fast attack boats.
 ‏
 ‏@GeoPWatch
 18:32
@@ -10,7 +61,7 @@ src :@GeoPWatch
 
 
 src :@tabzlive
-‏🇮🇷❌🇮🇱 — Iran's IRGC intelligence agency says it dismantled five alleged weapons-smuggling networks it linked to Israel.
+‏🇮🇷❌🇮🇱 — Iran's IRGC intelligence agency says it dismantled five weapons-smuggling networks linked to Israel.
 ‏
 ‏➡️ 20 individuals connected to what it described as organized “insecurity networks” tied to "terrorist groups and arms smugglers" were identified and arrested following intelligence and operational measures monitoring unauthorized weapons shipments.
 ‏
@@ -26,7 +77,7 @@ src :@wfwitness
 ‏
 ‏The decision concerns schools following the French educational curriculum abroad, including French and francophone schools in Lebanon that prepare students for the French Baccalauréat system, separate from Lebanon’s official state exams.
 ‏
-‏@wfwitnes
+‏@wfwitness
 18:32
 1405/02/22
 
@@ -1671,17 +1722,6 @@ src :@GeoPWatch
 
 
 
-src :@World_Newsly
-‏🔴فرماندهی مرکزی ایالات متحده: نیروهای سنتکام ۶۵ کشتی تجاری را تغییر مسیر داده و ۴ کشتی را از کار انداخته‌اند.
-‏
-‏✍🏻 Master
-‏▪️@World_Newsly
-16:27
-1405/02/22
-
-
-
-
 src :@MilitarryWorld
 ‏🚨پیت هگست وزیر جنگ آمریکا:
 ‏
@@ -2146,15 +2186,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇶🌟🚫🇮🇱🇺🇸- The Commander of Middle Euphrates Operations within the Popular Mobilization Forces Commission, Major General Ali Al-Hamdani, stated in an official release received by the INA that "a military operation named 'Imposing Sovereignty' commenced today…
-15:48
-1405/02/22
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 سران وزارت جنگ آمریکا به کنگره رفتند
@@ -2262,19 +2293,6 @@ src :@ClashReport
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷 NEW: Iran has filed a lawsuit against America at the International Court of Justice (ICJ)
-‏
-‏The lawsuit cites unlawful military aggression Iran, the imposition of inhumane economic sanctions, and threats of resorting to force during an ongoing negotiation process.
-‏
-‏@Middle_East_Spectator
-15:41
-1405/02/22
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴پست ترامپ درباره ایران
@@ -2324,21 +2342,6 @@ src :@P_raetorio
 ‏
 ‏
 ‏@P_raetorio
-15:39
-1405/02/22
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: Trump continues to post AI content about Iran
-‏
-‏‘BYE BYE, ‘Fast Boats’!
-‏
-‏Lasers: ‘Bing, bing, GONE!’
-‏
-‏@Middle_East_Spectator
 15:39
 1405/02/22
 
@@ -2930,29 +2933,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 14:46
-1405/02/22
-
-
-
-
-src :@Indypersian
-‏⭕️فاکس‌نیوز: مقام‌های جمهوری اسلامی ممکن است در صورت شکست مذاکرات به روسیه فرار کنند
-‏
-‏📌برخی کارشناسان پیش‌بینی می‌کنند مقام‌های ارشد رژیم حاکم بر ایران مانند قالیباف ممکن است به مسکو بروند، در حالی که افرادی در رده‌های پایین‌تر به عراق یا افغانستان پناه ببرند
-‏
-‏♦️رسانه فاکس‌نیوز روز سه‌شنبه در گزارشی با اشاره به بن‌بست مذاکرات تهران و واشنگتن، پیش‌بینی کرد اگر ترامپ تصمیم بگیرد حملات به ایران از سر گرفته شود یا اعتراض‌ها در داخل ایران بار دیگر شروع شود، بعضی از مقام‌های ارشد حکومت ایران به روسیه فرار کنند؛ مشابه کاری که برخی اطرافیان بشار اسد در سوریه انجام دادند.
-‏
-‏فاکس‌نیوز در ادامه، به وضعیت تقسیم قدرت در داخل ایران و موضوع جانشینی خامنه‌ای اشاره و این ایده را مطرح می‌کند که ساختار سیاسی جمهوری اسلامی طوری طراحی شده است که حتی در بحران‌های شدید هم بتواند ادامه پیدا کند، هرچند اختلاف و ابهام درباره آینده رهبری ممکن است بعضی جریان‌ها را به فکر خروج از کشور بیندازد.
-‏
-‏بر اساس این تحلیل، مقام‌های رده‌بالای جمهوری اسلامی ممکن است به روسیه بروند، اما افراد رده‌پایین‌تر به کشورهایی مثل عراق یا افغانستان فرار کنند. در صورت فروپاشی احتمالی جمهوری اسلامی، شبکه‌های منطقه‌ای این رژیم از جمله گروه‌های نیابتی هم تضعیف خواهند شد.
-‏
-‏این بن‌بست در مذاکرات در حالی رخ می‌دهد که بنیامین نتانیاهو نیز در برنامه «۶۰ دقیقه» شبکه سی‌بی‌اس گفت که سرنگونی حکومت ایران اکنون حتی می‌تواند به نتیجه‌ای واقع‌بینانه تبدیل شود.
-‏
-‏به گفته نتانیاهو، فروپاشی حکومت ایران «داربست» شبکه جهانی نیروهای نیابتی تهران را نیز از بین خواهد برد و ممکن است به نفوذ حزب‌الله در منطقه پایان دهد. او تصریح کرد: «اگر حکومت ایران فروبپاشد، کل داربست شبکه نیروهای نیابتی تروریستی که ساخته است، نیز فرو می‌ریزد. البته نمی‌شود زمان آن را پیش‌بینی کرد، اما این اتفاقی است که احتمال دارد رخ دهد.»
-‏
-‏بیشتر بخوانید...
-‏@IndyPersian
-14:35
 1405/02/22
 
 
