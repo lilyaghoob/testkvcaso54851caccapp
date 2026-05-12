@@ -2003,14 +2003,6 @@ src :@didarnews1
 
 
 
-src :@tabzlive
-‏🇳🇱🦠⚡️ — Staff of a hospital in the Netherlands have been isolated after procedural errors involving a Hantavirus patient, according to AFP.
-23:41
-1405/02/21
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️قیمت نفت برنت به ۱۰۴ دلار رسید
 ‏
@@ -2036,14 +2028,6 @@ src :@cataphract1
 
 
 
-src :@tabzlive
-‏🇳🇱🦠 — The MV Hondius, where a Hantavirus outbreak started, is expected to arrive in Rotterdam, Netherlands, on Sunday evening, AFP reports.
-23:39
-1405/02/21
-
-
-
-
 src :@P_raetorio
 ‏در افشاگری مستقیم و بی‌سابقه به دیوان عالی اسرائیل، رئیس موساد دیوید بارنئا تاکید می‌کند که این سازمان در وضعیت استقلال قانونی تقریباً کامل فعالیت می‌کند؛ بدون "قانون موساد" یا هیچ مکانیسم نظارتی رسمی مشابه آنچه بر سایر سازمان‌ها حاکم است.   بارنئا به صراحت…
 23:39
@@ -2061,14 +2045,6 @@ src :@P_raetorio
 ‏
 ‏
 ‏@P_raetorio
-23:37
-1405/02/21
-
-
-
-
-src :@tabzlive
-‏🇮🇶🇮🇱⚡️ —  NEW: Iraq's Joint Operations Command confirms its forces clashed in March with "unlicensed unknown units" supported by aircraft in the Karbala desert, while asserting there are currently no unauthorized forces or bases on Iraqi territory.
 23:37
 1405/02/21
 
@@ -5486,25 +5462,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔴 نتانیاهو چگونه ترامپ را به حمله به ایران راضی کرد؟
-‏
-‏🔹روزنامه گاردین در گزارشی جدید، جزئیات بسیار جالبی از نقش کلیدی نتانیاهو در راضی کردن ترامپ برای حمله به ایران، منتشر کرده است.
-‏
-‏🔹آلون پینکاس، دیپلمات سابق اسرائیلی می‌گوید: «نتانیاهو به عنوان یک کلاهبردار، از ونزوئلا به عنوان مثالی برای ترامپ استفاده کرد و به او گفت: ببین در ونزوئلا چه کار کردی. بدون دردسر و زیبا بود. تو رژیم را تغییر دادی!»
-‏
-‏🔹پس از این، نتانیاهو شروع به بمباران ترامپ با داده‌های اطلاعاتی می‌کند که نشان می‌دهد ایران تولید موشک و قابلیت‌های پرتابش را گسترش داده و ۴۵۰ کیلوگرم اورانیوم غنی‌شده با خلوص بالا دارد. همچنین نتانیاهو با کمک بارنی، مدیر موساد، حکومت تهران را به عنوان میوه‌ای بیش از حد رسیده که آماده افتادن از شاخه است، برای ترامپ به تصویر می‌کشد!
-‏
-‏🔹نتانیاهو در آخرین گفتگو به ترامپ می‌گوید: «اقتصاد ایران در حال فروپاشی است. مردم ایران در لبه پرتگاه شورش هستند. سپاه پاسداران در حال از دست دادن کنترل است. زندگی در ایران غیرقابل تحمل است. این زمان ماست. با هم می‌توانیم در سه چهار روز، در جنگ با ایران پیروز شویم!»
-‏
-‏🆔 @Americana_ir
-11:00
-1405/02/21
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏
@@ -5539,16 +5496,6 @@ src :@Parvazdaroj
 
 src :@thewarreporter
 ‏🇰🇷🇮🇷 — Iranian Embassy in Seoul:  "Iran firmly rejects and categorically denies any allegations regarding the involvement of the Iranian Armed Forces in the incident involving damage to a Korean vessel in the Strait of Hormuz".  @TheWarReporter
-10:35
-1405/02/21
-
-
-
-
-src :@Americana_ir
-‏🔴 لیست دموکرات‌هایی که خواستار آشکار شدن جزئیات برنامه هسته‌ای اسرائیل شده‌اند!
-‏
-‏🆔 @Americana_ir
 10:35
 1405/02/21
 
