@@ -1701,19 +1701,6 @@ src :@ClashReport
 
 
 
-src :@tabzlive
-[عکس]
-‏🇦🇪🇮🇷⚡️ — BREAKING: The UAE has carried out covert military strikes against Iran, including an early April attack on a refinery on Lavan Island, according to WSJ.
-‏
-‏➡️ The strike, which has not been publicly acknowledged by the UAE, caused a major fire and knocked much of the refinery's capacity offline for months. Iran later responded with missile and drone attacks against the UAE and Kuwait. 
-‏
-‏➡️ The U.S. wasn't upset by the attacks and has privately welcomed the involvement of the UAE and other Gulf states willing to join the fight.
-23:59
-1405/02/21
-
-
-
-
 src :@cataphract1
 ‏کاتافراکت pinned a photo
 23:59
