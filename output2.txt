@@ -1,13 +1,35 @@
-src :@tabzlive
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli airstrike on the town of Shaqra a few moments ago.
+‏
+‏@wfwitness
+20:01
+1405/02/22
+
+
+
+
+src :@mwarmonitor
+‏🔴«گروهی از مردان که به اتهام تلاش برای ورود به کشور از طریق دریا بازداشت شده بودند، در جریان بازجویی اعتراف کردند که عضو سپاه پاسداران انقلاب اسلامی ایران هستند، به گفته وزارت کشور کویت.»  @mwarmonitor
+19:59
+1405/02/22
+
+
+
+
+src :@wfwitness
 [عکس]
-‏🇺🇸⚡️ — Google is in talks with SpaceX for a rocket-launch agreement tied to Google’s plans to develop orbital data centers in space, according to WSJ.  
+‏⚡🇱🇧🇱🇧🇮🇱 Hezbollah has released new statements regarding operations against Israeli forces:  “In response to the Israeli ceasefire violations and attacks on villages in southern Lebanon causing civilian casualties, we targeted a Merkava tank in Al-Bayada at…
+19:58
+1405/02/22
+
+
+
+
+src :@P_raetorio
+‏ارتش اسرائیل اعلام کرد از صبح امروز چندین پهپاد انتحاری حزب‌الله را سرنگون کرده است، همچنین یک کواد FPV حزب‌الله به هدفی در مرز با لبنان اصابت کرد که تلفات جانی نداشته. 
 ‏
-‏➡️ The proposed partnership would support Project Suncatcher, an initiative to place computing infrastructure in orbit using prototype satellites expected to launch by 2027 in cooperation with Planet Labs.
-‏
-‏➡️ SpaceX sees orbital data centers as a major future business area and has already applied to launch up to one million satellites for the concept. Google currently owns about 6.1% of SpaceX and also has representation on the company’s board. 
-‏
-‏➡️ The orbital systems would rely on solar power in space to avoid Earth-based land and energy constraints, and Google is also said to be in discussions with additional launch providers.
-19:56
+‏@P_raetorio
+19:58
 1405/02/22
 
 
@@ -85,16 +107,6 @@ src :@World_Newsly
 ‏✍🏻 Admin
 ‏▪️@World_Newsly
 19:50
-1405/02/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iranian National Security and Foreign Policy Commission spokesperson, Ebrahim Rezaei:
-‏One of Iran's options in the event of another attack could be 90 percent enrichment. We will review it in the parliament.
-19:49
 1405/02/22
 
 
@@ -225,14 +237,6 @@ src :@ClashReport
 [عکس]
 ‏Israel continues exploring new ways to defend against FPV drones, with protective nets now appearing over vehicle parking areas frequently targeted by Hezbollah strikes.
 19:38
-1405/02/22
-
-
-
-
-src :@tabzlive
-‏🇱🇹🇮🇷⚡️ — Lithuania's Defence Chief Raimundas Vaikšnoras says the country could contribute minesweeping capabilities for any Strait of Hormuz mission.
-19:37
 1405/02/22
 
 
@@ -680,15 +684,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli artillery shelling and airstrikes targeted Al-Mansouri in southern Lebanon a short while ago.
-18:54
-1405/02/22
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏وزارت خارجه کویت اعلام کرد که سفیر جمهوری اسلامی را در پی نفوذ یک گروه وابسته به سپاه پاسداران به جزیره بوییان احضار کرده است.
@@ -780,14 +775,6 @@ src :@thewarreporter
 
 
 
-src :@tabzlive
-‏🇬🇧⚡️ — Over 100 Labour MPs and PPSs have signed a letter supporting Keir Starmer, saying "this is no time for a leadership contest," according to The Guardian.
-18:44
-1405/02/22
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇨🇳🇯🇲⚡- "There is no danger in it [our relationship with China]. We will have the courage and fortitude to protect our relationship with China," - Bruce Golding, Jamaica's former Prime Minister, on the growing Chinese influence in the island nation, such as the 'Beijing Highway' project.
 ‏
@@ -868,18 +855,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇮🇱 — Iran's IRGC intelligence agency says it dismantled five weapons-smuggling networks linked to Israel.
-‏
-‏➡️ 20 individuals connected to what it described as organized “insecurity networks” tied to "terrorist groups and arms smugglers" were identified and arrested following intelligence and operational measures monitoring unauthorized weapons shipments.
-‏
-‏➡️ More than 50 firearms, 70 kilograms of explosives, around 2,000 cartridges, and additional ammunition were seized during the operation.
-18:32
-1405/02/22
-
-
-
-
 src :@wfwitness
 ‏⚡🇱🇧🇫🇷 L’Orient-Le Jour: French Brevet and Baccalaureate exams have reportedly been canceled in Lebanon and several countries across the Near and Middle East amid ongoing regional tensions.
 ‏
@@ -892,37 +867,10 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🚨🇱🇧🇮🇱— Lebanese Civil Defense says two members of its Nabatiya center were killed in an Israeli strike while carrying out a rescue mission - official statement.
-‏
-‏💬Follow @MaxOsintIntel
-18:28
-1405/02/22
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 Israeli artillery shelling on Braachit, Al-Jmayjmeh, and Safad Al-Battikh, southern Lebanon.  @wfwitness
 18:28
-1405/02/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Tayr Debba in southern Lebanon a few moments ago.
-18:27
-1405/02/22
-
-
-
-
-src :@tabzlive
-‏🇰🇼🇮🇷⚡️ — Kuwait's Foreign Ministry summoned the Iranian ambassador and handed him a formal protest note following the infiltration of a Revolutionary Guards unit onto Bubiyan Island and their clash with Kuwaiti forces.
-18:26
 1405/02/22
 
 
@@ -1021,14 +969,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇺🇸🇦🇹 — Die Welt reports that the Austrian Air Force scrambled Eurofighter Typhoon Tranche 1 fighter jets twice in the past two days to intercept USAF Pilatus PC-12 [likely the U-28A "Draco" special operations aircraft] that entered Austrian airspace without permission, forcing the aircraft to turn back.
-18:21
-1405/02/22
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ مسعود پزشکیان، رئیس جمهوری اسلامی، روز سه‌شنبه ۲۲ اردیبهشت، در حالی که ۷۴ روز از قطع کامل اینترنت و ارتباطات مردم ایران با خارج از کشور گذشته، با انتشار پیامی در شبکه اجتماعی ایکس اعلام کرد که محمدرضا عارف، معاون رئیس‌جمهوری اسلامی را مامور کرده که با در  نظر گرفتن «حساسیت‌های حکمرانی و نظر رهبری»، در قالب «ساختاری چابک»، موجبات خدمت‌رسانی بهتر دولت و تحقق انتظارات عمومی را فراهم کند.
@@ -1046,21 +986,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 King
 ‏▪️@World_Newsly
-18:21
-1405/02/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Americans' anger over the economy is endangering Trump and the Republican Party's midterm prospects, according to a new CNN poll.
-‏
-‏➡️ A sharp 77% of the public — including a majority of GOP voters — say his policies have increased living costs.
-‏
-‏➡️ Trump's approval on the economy stands at a career low of 30%.
-‏
-‏➡️ Democrats are now more trusted than Republicans on core issues like the cost of living and inflation.
 18:21
 1405/02/22
 
@@ -1120,15 +1045,6 @@ src :@IranintlTV
 ‏با تداوم بحران جهانی نفت ناشی از جنگ ایران، نقش پالایشگاه‌های مستقل چین در تامین امنیت انرژی این کشور پررنگ‌تر شده است. این روند در شرایطی شدت گرفته که آمریکا با اعمال محاصره دریایی، در تلاش است از خروج نفتکش‌های حامل نفت ایران جلوگیری کند.
 ‏🔗ادامه این گزارش را اینجا بخوانید
 ‏@iranintltv
-18:19
-1405/02/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇬🇧⚡️ — British Prime Minister Keir Starmer has told his cabinet that he will not be resigning.
 18:19
 1405/02/22
 
@@ -1226,23 +1142,6 @@ src :@IranintlTV
 ‏رفیعی اضافه کرد: «بسیاری از کارکنان آموزش‌دیده دفاتر مسافرتی که سال‌ها برای آموزش آن‌ها هزینه شده است، به دلیل نبود درآمد، جذب مشاغلی مثل آرایشگری و فعالیت‌های غیرمرتبط شده‌اند.»
 ‏https://iranintl.com/202605126945
 18:13
-1405/02/22
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇺🇸🇫🇷🇮🇷 Here is the current locations (approximate) of the aircraft carriers currently deployed around the Middle-East.  The USS Gerald R. Ford crossed one last time the strait of Gibraltar last week and is coming back after a month at sea. Despite her impressive…
-18:12
-1405/02/22
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah Secretary-General Naim Qassem:  “The Iranian-American agreement that includes stopping the aggression on Lebanon is almost the strongest card to stop the aggression.  However, the responsibility of negotiating to achieve Lebanon’s sovereign…
-18:11
 1405/02/22
 
 
@@ -2538,20 +2437,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@rus_cosmos
-[عکس]
-‏انتشار برای اولین بار
-‏تصاویر اختصاصی از بویینگ نابود شده ماهان، EP-MTC...
-‏
-‏#RFZ
-‏#Aviation
-‏@Sky_Airlines
-15:44
-1405/02/22
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏ ‏
@@ -3050,35 +2935,12 @@ src :@didarnews1
 
 
 
-src :@mwarmonitor
-‏🇺🇸🇺🇦بر اساس یک یادداشت تفاهم میان United States و Ukraine، چارچوب‌های یک توافق دفاعی جدید مشخص شده است که به اوکراین اجازه می‌دهد فناوری‌های نظامی خود را به آمریکا صادر کند و از طریق سرمایه‌گذاری‌های مشترک با شرکت‌های آمریکایی، پهپاد تولید کند. — CBS
-‏
-‏@mwarmonitor
-15:01
-1405/02/22
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏ارتش کویت اعلام کرد 4 نیروی مسلح وابسته به سپاه پاسداران هنگام تلاش برای نفوذ به خاک کویت توسط نیرو دریایی این کشور شناسایی و بازداشت شدند،همچنین یک عضو ارتش کویت نیز طی درگیری زخمی شد. 
 ‏
 ‏@P_raetorio
 14:58
-1405/02/22
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏سخنگوی ارتش اسرائیل:
-‏
-‏نیروی هوایی اخیراً یک پهپاد را که از شرق پرتاب شده بود، رهگیری کرد.
-‏
-‏ارتش اسرائیل حدس میزند که ۲ پهپاد از یمن پرتاب شده است.
-14:49
 1405/02/22
 
 
@@ -3154,25 +3016,6 @@ src :@MilitiaNews
 
 
 
-src :@DEJradio
-[عکس]
-‏🚨📢 ادعای وزارت خارجه پاکستان:
-‏هواپیماهای ایرانی «موقت» در پاکستان مستقر هستند
-‏
-‏سی‌بی‌اس گزارش داده بود که جمهوری اسلامی بخشی از ناوگان نیروی هوایی [تجاری و نظامی] خود را در طی جنگ ۴۰ روزه به پایگاه هوایی «نورخان» پاکستان منتقل کرده بود. در واکنش به این گزارش وزارت خارجه پاکستان به طور رسمی این گزارش را «گمراه‌کننده» خواند و تأکید کرد که این هواپیماها صرفاً برای تسهیل رفت‌وآمد دیپلمات‌ها و به صورت موقت مستقر شده‌اند.
-‏در بیانیه وزارت خارجه پاکستان آمده «هواپیماهای نظامی ایران نه برای مصون ماندن از حملات آمریکا که در انتظار دورهای بعدی مذاکرات، در پایگاه نورخان مانده‌اند.»
-‏
-‏همچنین تأکید شده، «هواپیماهای ایرانی که هم‌اکنون در خاک ما هستند، به هیچ گونه ترتیبات نظامی مرتبط نمی‌باشند». پاکستان همچنین تصریح کرد که ارتباط منظم خود را با همه طرف‌های ذی‌نفع حفظ کرده و متعهد است از تمامی تلاش‌هایی که به تقویت گفت‌وگو، کاهش تنش و پیشبرد صلح کمک می‌کند، حمایت کند.
-‏در جریان جنگ ۱۲ روزه نیز نیروی هوایی جمهوری اسلامی بخشی از ناوگان خود را به پاکستان منتقل کرده بود تا کمتر آسیب ببینند.
-‏
-‏#جنگ۴۰روزه #جمهوری_اسلامی #جنگ۱۲روزه
-‏@DEJradio
-14:25
-1405/02/22
-
-
-
-
 src :@MilitiaNews
 ‏🇮🇷⚡️ سخنگوی کمیته امنیت ملی در مجلس :
 ‏
@@ -3214,14 +3057,6 @@ src :@thewarreporter
 src :@warmonitors
 ‏⚡Ambassador Huckabee: Israeli teams will operate iron systems on UAE soil
 14:05
-1405/02/22
-
-
-
-
-src :@rus_cosmos
-‏نیروهای حشد شعبی عراق پس از انتشار گزارش‌هایی مبنی بر ایجاد یک پایگاه نظامی مخفی اسرائیل در طول جنگ ایران و آمریکا، عملیاتی گسترده با نام «اعمال حاکمیت» را در صحراهای نجف و کربلا در غرب عراق آغاز کرده‌اند.
-13:58
 1405/02/22
 
 
@@ -3322,25 +3157,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@DEJradio
-[عکس]
-‏🚨📢 اختصاصی دژ؛
-‏استقرار نیروهای تیپ ۴۵ تکاور شوشتر اطراف سایت هسته‌ای اصفهان 
-‏
-‏منابع اختصاصی دژ از ایران گزارش دادند، بخش عمده‌ای از نیروهای تیپ ویژه ۴۵ تکاور شوشتر با ادوات و تجهیزات به اطراف سایت هسته‌ای اصفهان مستقر  شدند. 
-‏منبع نظامی دژ می‌گوید، استقرار تکاوران تیپ ۴۵ با هدف دفاع زمینی از تاسیسات هسته‌ای اصفهان صورت می‌گیرد.
-‏با افزایش احتمال عملیات مجدد علیه جمهوری اسلامی با هدف خارج کردن اورانیوم‌ها از ایران، ارتش و سـ.ـپاه لایه‌های دفاعی تاسیسات اصفهان را تقویت کنند.
-‏در جریان جنگ ۴۰ روزه هواپیماهای ترابری آمریکا در دشت مهیار اصفهان حوالی تاسیسات اتمی فرود آمدند و نیرو پیاده کردند. 
-‏بخشی از ماموریت ارتش مقابله با هلی‌برن نیروهای آمریکا یا اسرائیل است.
-‏
-‏#تاسیسات_اتمی #تاسیسات_اصفهان 
-‏@DEJradio
-13:30
-1405/02/22
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏
@@ -3415,49 +3231,12 @@ src :@thewarreporter
 
 
 
-src :@P_raetorio
-[عکس]
-‏⚜مایک والتز، سفیر آمریکا در سازمان ملل،  تأیید کرد که سامانه پدافندی گنبد آهنین اسرائیل در امارات متحده عربی مورد استفاده قرار گرفته است. 
-‏
-‏⚜وی نخستین مقام رسمی دولتی بود که به صورت علنی تأیید کرد این تجهیزات در جریان درگیری‌های اخیر در امارات مستقر و عملیاتی شده است. 
-‏
-‏⚜روزنامه اسرائیل هیوم به نقل از والتز نوشت: 
-‏«ما شاهد استفاده امارات از گنبد آهنینی بودیم که اسرائیل در اختیار آن قرار داده بود.
-‏
-‏⚜اسرائیل و امارات روابط خود را با توافق‌نامه‌های ابراهیم در سال ۲۰۲۰ عادی‌سازی کردند؛ توافقی که بخشی از انگیزه آن، مقابله با تهدید مشترک ایران بود.  
-‏ 
-‏📃@Cataphract1
-13:08
-1405/02/22
-
-
-
-
 src :@didarnews1
 ‏🔴معاون نیروی دریایی سپاه: یک قایق تندروی آمریکایی اخیراً تلاش کرد از تنگه هرمز عبور کند، اما ما آن را شناسایی کردیم و پس از شلیک هشدار، مسیر خود را تغییر داد
 ‏
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-13:00
-1405/02/22
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🚨⭕️ تا شعاع ۵۰ کیلومتری پایگاه مشترک اسرائیل و آمریکا در عراق کسی حق نزدیک شدن ندارد
-‏
-‏شاکر ابوتراب التمیمی، نماینده فراکسیون بدر [وابسته به نیروی قدس سـ.ـپاه] در پارلمان عراق، افشا کرد پایگاه مشترک اسرائیل- آمریکا در صحرای غرب عراق همچنان فعال است و نیروهای امنیتی عراق و آنها «اجازه نزدیک شدن به آن را ندارند».
-‏
-‏به گفته التمیمی، «حدود دو ماه پیش اطلاعاتی درباره وجود این کمپ در خاک عراق منتشر شده بود، اما این اردوگاه همچنان پابرجاست و بغداد عملا هیچ کنترلی بر آن ندارد و آمریکا صراحتا به دولت عراق گفته است تا شعاع ۵۰ کیلومتری آن مکان کسی حق تردد و نزدیک شدن به آنجا را ندارد.»
-‏
-‏او همچنین گفت، «دولت در ابتدا از این موضوع بی‌اطلاع بود، اما بعدها از مسیر دستگاه‌های امنیتی از وجود این پایگاه مشترک در صحرای غربی مطلع شد».
-‏پیش‌تر وال‌استریت ژورنال به نقل از منابع امنیتی از وجود یک پایگاه مخفی اسرائیلی در صحرای نجف عراق خبر داده بود. طی جنگ ۴۰ روزه این پایگاه پشتیبان حملات به رژیم ایران بود.
-‏
-‏#جنگ۴۰روزه #جمهوری_اسلامی 
-‏@DEJradio
 13:00
 1405/02/22
 
@@ -3483,16 +3262,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | DmW
 12:59
-1405/02/22
-
-
-
-
-src :@rus_cosmos
-‏ابراهیم رضایی، نماینده مجلس ایران:
-‏
-‏«یکی از گزینه‌های ایران در صورت حمله دیگر می‌تواند غنی‌سازی ۹۰ درصدی باشد. ما آن را در مجلس بررسی خواهیم کرد.»
-12:57
 1405/02/22
 
 
@@ -3896,60 +3665,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@DEJradio
-[عکس]
-‏🚨⭕️ «سی‌بی‌اس» دوشنبه، ۲۱ اردیبهشت‌ماه، گزارش داد که پاکستان برخلاف نقش خود به‌عنوان میانجی دیپلماتیک میان تهران و واشنگتن، به طور مخفیانه اجازه داده است هواپیماهای نظامی جمهوری اسلامی ایران در پایگاه‌های هوایی این کشور مستقر شوند تا از حملات هوایی آمریکا در امان بمانند.
-‏
-‏بر اساس گزارش منابع آگاه در دولت ایالات متحده، تنها چند روز پس از اعلام آتش‌بس موقت توسط دونالد ترامپ، رئیس جمهوری آمریکا، در اوایل آوریل، چندین فروند هواپیما از جمله یک هواپیمای شناسایی و جاسوسی مدل «آر-۱۳۰» (RC-130) نیروی هوایی ایران در پایگاه هوایی «نورخان» پاکستان، واقع در نزدیکی شهر راولپندی، دیده شده‌اند. هم‌زمان گزارش‌هایی از اعزام هواپیماهای غیرنظامی جمهوری اسلامی ایران به افغانستان نیز منتشر شده است که به نظر می‌رسد بخشی از تلاش گسترده تهران برای حفاظت از دارایی‌های هوانوردی و نظامی باقی‌مانده خود در میانه درگیری‌های اخیر باشد.
-‏
-‏همزمان، مقامات ارشد پاکستان این ادعاها را به شدت رد کرده‌اند. یک مقام عالی‌رتبه پاکستانی در گفت‌وگو با «سی‌بی‌اس نیوز» تاکید کرد که پایگاه هوایی نورخان در قلب شهر واقع شده و استقرار ناوگان بزرگی از هواپیماهای خارجی در چنین مکانی غیرممکن است که از دید عموم پنهان بماند. با این حال، تحلیلگران آمریکایی بر این باورند که این جابه‌جایی‌های استراتژیک نشان‌دهنده تلاش رژیم ایران برای بهره‌گیری از روابط منطقه‌ای جهت کاهش آسیب‌پذیری ناوگان هوایی خود در برابر فشارهای نظامی و محاصره اعمال شده توسط واشنگتن است.
-‏
-‏#پاکستان #جمهوری_اسلامی
-‏@DEJradio
-11:45
-1405/02/22
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺📢 شاهزاده رضا پهلوی بامداد سه‌شنبه ۲۲ اردیبهشت به‌وقت ایران در«ایکس» نوشت که جمهوری اسلامی ۴۷ سال است علیه آمریکا و متحدانش جنگ به راه انداخته، و تاکید کرد: «امروز این رژیم از همیشه ضعیف‌تر است و مردم ایران آماده‌اند تا آن را سرنگون کنند.» او نوشت که اتخاذ سیاستی درست در این لحظه، می‌تواند قرن آینده را تغییر دهد.
-‏
-‏#شاهزاده_رضا_پهلوی #جمهوری_اسلامی
-‏@DEJradio
-11:43
-1405/02/22
-
-
-
-
-src :@rus_cosmos
-‏سپاه؛ 
-‏
-‏اخیراً یک قایق تندروی آمریکایی تلاش کرد از تنگه هرمز عبور کند، اما ما آن را شناسایی کردیم.
-‏
-‏قایق آمریکایی پس از شلیک گلوله‌های هشدار دهنده، مسیر خود را تغییر داد.
-11:42
-1405/02/22
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺📢 بر اساس گزارش‌های منابع محلی، یک نفت‌کش متعلق به جمهوری اسلامی که قصد خروج از محدوده محاصره دریایی آمریکایی را داشت توسط موشک هدف قرار گرفت. 
-‏تاریخ دقیق اصابت مشخص نیست اما گفته شده ۱۹ یا ۲۰ اردیبهشت اتفاق افتاده است. بر اساس تصاویر زبانه‌های آتش و دود سیاه غلیظ از قسمت انتهایی عرضه این نفتکش کاملا پیداست اما از خدمه کسی کشته نشده است. 
-‏نام این کشتی در گذشته «سنندج» بود.
-‏
-‏#محاصره_دریایی #آتشبس 
-‏@DEJradio
-11:40
-1405/02/22
-
-
-
-
 src :@warmonitors
 ‏⚡️#UPDATE US ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE to defend country in Iran war
 11:40
@@ -4251,17 +3966,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@rus_cosmos
-[عکس]
-‏گزارش‌ها از لبنان حاکی از حملات سنگین تیپ گولانی در آن سوی رودخانه لیتانی - در یکی از عمیق‌ترین نقاطی که ارتش اسرائیل به آن رسیده است - است.
-‏
-‏پس از بسته ماندن تنگه هرمز توسط سپاه، حملات اسرائیل به لبنان هم تشدید شد.
-09:56
-1405/02/22
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏به گزارش سی ان ان ترامپ  به‌طور جدی در حال بررسی بازگشت به عملیات گسترده نظامی علیه ایران است؛ اقدامی که به‌دلیل افزایش نارضایتی او از نحوه مدیریت مذاکرات از سوی ایران برای پایان دادن به جنگ مطرح شده است. بر اساس این گزارش، ترامپ از ادامه بسته بودن تنگه هرمز و همچنین آنچه اختلافات داخلی در ساختار رهبری ایران می‌داند، خشمگین است؛ اختلافاتی که به باور او مانع ارائه امتیازهای معنادار در مذاکرات مربوط به برنامه هسته‌ای و آتش‌بس شده‌اند. سی‌ان‌ان همچنین گزارش داده است که در داخل دولت ترامپ همچنان اختلاف‌نظرهایی وجود دارد؛ به‌طوری‌که برخی مقام‌های آمریکایی خواهان انجام حملات هدفمند بیشتر برای افزایش فشار بر تهران هستند، در حالی که گروهی دیگر همچنان بر ادامه مسیر دیپلماسی تأکید دارند. این گزارش همچنین می‌افزاید که برخی مقام‌های آمریکایی از عملکرد میانجی‌گران پاکستانی ابراز نارضایتی کرده و آن‌ها را متهم کرده‌اند که تصویری بیش از حد خوش‌بینانه از مواضع ایران به واشنگتن ارائه داده‌اند
 ‏
@@ -4271,19 +3975,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 09:54
-1405/02/22
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏به گزارش سی‌ان‌ان، ترامپ به طور فزاینده‌ای از نحوه مدیریت مذاکرات ایران برای پایان دادن به جنگ ناامید شده است و برخی از دستیاران او می‌گویند که او اکنون با جدیت بیشتری نسبت به هفته‌های گذشته، از سرگیری عملیات‌های رزمی عمده را بررسی می‌کند.
-‏
-‏ ترامپ به ویژه از ادامه بسته شدن تنگه هرمز و آنچه که او به عنوان اختلاف نظر در رهبری ایران می‌بیند و مانع از امتیازات معنادار در مذاکرات هسته‌ای می‌شود، بی‌صبر است.
-‏
-‏ مقامات داخل دولت در مورد گام بعدی اختلاف نظر دارند: برخی از آنها از یک استراتژی سختگیرانه‌تر، از جمله حملات هدفمند برای تضعیف بیشتر موقعیت ایران، حمایت می‌کنند، در حالی که برخی دیگر از کاخ سفید می‌خواهند که به دنبال دیپلماسی باشد.
-09:52
 1405/02/22
 
 
@@ -4632,15 +4323,6 @@ src :@thewarreporter
 
 
 
-src :@rus_cosmos
-[عکس]
-‏صفحه نمایش فرودگاه لبنان با پیامی خطاب به حزب‌الله هک شد: «به نام خدا و مردم. فرودگاه رفیق حریری متعلق به حزب‌الله و ایران نیست. حسن نصرالله، شما پیروز نخواهید شد و اگر جنگ را به لبنان بیاورید، مسئول خواهید بود. حزب‌الله، ما (لبنانی‌ها) به نمایندگی از هیچ‌کس نخواهیم جنگید. شما ویرانی را به بندر آوردید و حالا به خاطر انتقال سلاح‌هایتان می‌خواهید همین کار را با فرودگاه بکنید. بگذارید فرودگاه از دست شما خلاص شود.»
-05:32
-1405/02/22
-
-
-
-
 src :@MilitiaNews
 ‏🇺🇸🇮🇷⚡️دموکرات‌های سنای برای هفتمین‌بار طرح محدود کردن اختیارات جنگی ترامپ و پایان دادن جنگ ایران را به رأی می‌گذارند.
 ‏
@@ -4867,18 +4549,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 00:57
-1405/02/22
-
-
-
-
-src :@DEJradio
-[عکس]
-‏👑📱  شاهزاده رضا پهلوی در نخستین دقایق بامداد سه‌شنبه،در پیامی در شبکهٔ اکس اعلام کردند جمهوری اسلامی طی ۴۷سال گذشته علیه آمریکا و متحدانش جنگ به راه انداخته است. ایشان با اشاره به تضعیف بی‌سابقهٔ رژیم،تأکید کردند مردم ایران آماده‌اند جمهوری اسلامی را سرنگون کنند. شاهزاده رضا پهلوی همچنین نوشتند اتخاذ سیاستی درست در این مقطع حساس،می‌تواند قرن آینده را تغییر دهد. ایشان افزودند که قرار است روز سه‌شنبه در «نشست امنیتی پولیتیکو» دربارهٔ این موضوع گفت‌وگو کنند.
-‏
-‏#شاهزاده_رضا_پهلوی
-‏@DEJradio
-00:54
 1405/02/22
 
 
@@ -5411,34 +5081,10 @@ src :@VahidOnline
 
 
 
-src :@rus_cosmos
-[عکس]
-‏تصاویر ماهواره سنتینل-۲ در روز شنبه ۱۱ می یک نفتکش را در تنگه هرمز نشان می‌‌دهد که در حال نشت سوخت است.
-‏
-‏در نزدیکی این نفتکش یک دسته قایق تندرو سپاه مشاهده می‌شود.
-‏
-‏این نفتکش در نزدیکی سواحل عمان و امارات قرار دارد.
-22:18
-1405/02/21
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️#BREAKING 67 Labour MPs are now calling for Keir Starmer to resign
 22:15
-1405/02/21
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏تصاویر ماهواره سنتینل-۲ در ظهر امروز یک نفتکش را در تنگه هرمز نشان می‌‌دهد که در حال نشت سوخت است.
-‏
-‏این نفتکش در فاصله حدود ۵۰ کیلومتری از بندر سیریک قرار دارد.
-22:13
 1405/02/21
 
 
@@ -5454,17 +5100,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 22:12
-1405/02/21
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏تصاویر ماهواره سنتینل-۲ در ظهر امروز نشان می‌دهد که ناو گروه آبی خاکی تریپولی، که شامل ناو هواپیمابر یو‌اس‌اس تریپولی و ناو یو‌اس‌اس نیو اورلان (است در نزدیکی ساحل قرار دارند.
-‏
-‏این ناو گروه نقش ویژه‌ای در عملیات احتمالی آتی آمریکا برای تسخیر جزایر ایرانی خواهد داشت.
-22:06
 1405/02/21
 
 
@@ -5500,16 +5135,6 @@ src :@mamlekate
 src :@Parvazdaroj
 ‏Parvaz dar oj pinned Deleted message
 21:54
-1405/02/21
-
-
-
-
-src :@rus_cosmos
-‏رئیس جمهور آمریکا، ترامپ، در حال دیدار با تیم امنیت ملی خود است تا در مورد راه‌های پیش رو در جنگ با ایران، از جمله احتمال از سرگیری اقدام نظامی، گفتگو کند.
-‏
-‏دو مقام آمریکایی گفتند که ترامپ به سمت انجام نوعی اقدام نظامی علیه ایران برای افزایش فشار بر تهران و وادار کردن آن به دادن امتیاز در مورد برنامه هسته‌ای‌اش، متمایل است.
-21:50
 1405/02/21
 
 
@@ -5702,20 +5327,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 20:53
-1405/02/21
-
-
-
-
-src :@rus_cosmos
-‏آکسیوس : ترامپ در حال بررسی دو گزینه‌ست
-‏
-‏ یا از سرگیری «پروژه آزادی» که هفته گذشته به حالت تعلیق دراومد
-‏
-‏ یا از سرگیری بمبارون و حمله به ۲۵٪ از اهدافی که آمریکا شناسایی کرده اما هنوز به اونا حمله نکرده - و امشب با ژنرال‌ها جلسه داره!
-‏
-‏🔴 @talkh79
-20:44
 1405/02/21
 
 
