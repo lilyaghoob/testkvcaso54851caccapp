@@ -1917,15 +1917,6 @@ src :@Mena_Live
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump is leaning toward resuming some form of military action against Iran, driven by growing frustration over Tehran’s conduct in negotiations, according to Israeli Channel 12, citing two U.S. officials.
-23:51
-1405/02/21
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇦🇪🇮🇷 UAE secretly carried out military strikes against Iran, WSJ reports.
@@ -5337,21 +5328,6 @@ src :@thewarreporter
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔴 پیدا شدن ۶ جسد در واگن باری قطار تگزاس 
-‏
-‏🔹 بر اساس گزارش خبرگزاری CNN، پلیس منطقه‌ای مرزی در ایالت تگزاس، روز یکشنبه شش نفر را داخل یک واگن باری در محوطه راه‌آهن این شهر مرزی لاریدو پیدا کردند. 
-‏ 
-‏🔹هویت و علت مرگ این ۶ نفر هنوز مشخص نیست اما مقامات اعلام کردند گرمای هوای منطقه لاریدو می تواند دلیل اصلی باشد. چرا که روز یکشنبه گرمای بی‌سابقه‌ای بر منطقه حاکم بود. 
-‏ 
-‏🆔 @Americana_ir
-12:05
-1405/02/21
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇱🇧 - Israeli military officials confirmed that a Hezbollah drone struck an Iron Dome system.  - Israeli Army Radio | @TheWarReporter
 11:50
@@ -5639,17 +5615,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 08:13
-1405/02/21
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏The Supreme Committee for the People's Assembly Elections issues a decision containing the final list of the subcommittee in Aleppo Governorate/Hasakah Goevrnates for the electoral districts (Ayn Al-Arab)/Kobani, Hasakah-Malikiya/Qamishli.
-‏
-‏This is the final election before the Syrian Parliament will be inaugurated and start its duty.
-‏
-‏@Mena_Live
-03:48
 1405/02/21
