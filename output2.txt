@@ -1,3 +1,48 @@
+src :@WAR_ROOM_NEWS
+‏ترامپ:ما ایران را کاملاً تحت کنترل داریم.یا یک توافق خواهیم کرد، یا آنها نابود خواهند شد. به هر صورت، ما پیروز می‌شویم
+21:51
+1405/02/22
+
+
+
+
+src :@rnintel
+‏🇾🇪 - There have been no attacks or explosions in Sana'a, Ansarullah-controlled capital of Yemen.
+21:50
+1405/02/22
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇸🇦🇮🇷 Saudi Arabia secretly launched strikes against Iran in retaliation for attacks, Reuters reports.
+‏
+‏@BRICSNews
+21:50
+1405/02/22
+
+
+
+
+src :@naya_foriraq
+‏⭐️هزة أرضية بقوة 3.4 ريختر تضرب العاصمة الإيرانية طهران.
+21:49
+1405/02/22
+
+
+
+
+src :@intelslava
+‏🇮🇷🇸🇦🇺🇸❗️BREAKING: Saudi Arabia carried out a series of unpublicized retaliatory strikes on Iran during the war. - Reuters.
+‏
+‏@IntelSlava
+21:48
+1405/02/22
+
+
+
+
 src :@mwarmonitor
 ‏🔴«گزارش فوری: عربستان سعودی در جریان جنگ، در پاسخ به حملات ایران، علیه ایران حملات هوایی انجام داده است - رویترز»  @mwarmonitor
 21:46
@@ -24,6 +69,8 @@ src :@naya_foriraq
 ‏🏴‍☠️جيش الإحتلال الصهيوني: إصابة 190 ضابطا وجنديا في معارك جنوب لبنان خلال الأسبوعين الماضيين.
 ‏
 ‏مقتل 18 ضابطا وجنديا وإصابة 910 منذ تجدد القتال في جنوب لبنان مطلع مارس الماضي.
+‏
+‏إصابة 114 ضابطا وجنديا بجروح متوسطة و52 حالتهم خطيرة.
 21:45
 1405/02/22
 
@@ -1383,15 +1430,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇦🇪🇮🇷⚡️ — BREAKING: The UAE has carried out covert military strikes against Iran, including an early April attack on a refinery on Lavan Island, according to WSJ.  ➡️ The strike, which has not been publicly acknowledged by the UAE, caused a major fire and knocked…
-20:26
-1405/02/22
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇮🇷❌🇺🇸- According to Al-Jazeera's Ali Hashem, a well informed source on the Iran/US negotiations has revealed that the Iranian negotiating team has been issued five conditions that must be met before any discussions on the nuclear file can begin. 
@@ -1431,21 +1469,6 @@ src :@Indypersian
 ‏
 ‏سفیر ایران در چین روز سه‌شنبه اظهار داشت که پکن می‌تواند «نیروی مهمی برای کاهش تنش‌ها» میان واشنگتن و تهران باشد. با این حال، دونالد ترامپ روز دوشنبه با انتقاد شدید از وضعیت فعلی، آتش‌بس با ایران را «بسیار ضعیف» توصیف کرد و گفت که این توافق «تنها با کمک دستگاه زنده است». هگست نیز تاکید کرد که ارتش آمریکا آماده است تا در صورت صدور فرمان، عملیات نظامی علیه جمهوری اسلامی را بلافاصله از سر بگیرد.
 ‏@indypersian
-20:22
-1405/02/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iran’s leadership issued five conditions to the U.S. that must be met before entering talks on the nuclear file, per Al Jazeera:
-‏
-‏— Ending the war on all fronts
-‏— Lifting all sanctions
-‏— Releasing frozen assets
-‏— Compensating for war damages and losses
-‏— Recognition of Iran’s sovereign right over the Strait of Hormuz
 20:22
 1405/02/22
 
@@ -2170,15 +2193,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-[عکس]
-‏طيران مسير من لبنان يهاجم مستوطنات الشمال الفلسطيني المحتل
-19:14
-1405/02/22
-
-
-
-
 src :@defence_news
 ‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
 19:13
@@ -2492,27 +2506,6 @@ src :@Indypersian
 ‏پزشکیان توضیح نداد که ساختار چابک مورد نظر او، شامل وصل کامل اینترنت و ارتباطات می‌شود یا قصد دارد خدمات الکترونیکی دولت را روی شبکه ملی اینترنت (نسخه محدود داخلی) گسترده‌تر کند.
 ‏@indypersian
 18:21
-1405/02/22
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏پَست‌تر از حیوانات درنده، آدم‌هایی هستند که بر قامت انسان درآمده و قوه تفکر ندارند تا یک کودک بی‌گناه را مبرا از بدی بدانند. کفتار دربرابر امثال این شخص شرف دارد.
-‏
-‏
-‏
-‏@P_raetorio
-18:19
-1405/02/22
-
-
-
-
-src :@ClashReport
-‏Over 100 Labour MPs signed a letter backing Keir Starmer.
-18:16
 1405/02/22
 
 
@@ -3503,6 +3496,19 @@ src :@cataphract1
 ‏⚜چهار مظنون دستگیر و دو نفر فرار کردند. ایران هنوز واکنشی نشان نداده است.
 ‏✒️#LT
 ‏📃@Cataphract1
+15:39
+1405/02/22
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏قمارباز همچنان به نقاشی های خود ادامه میدهد...
+‏
+‏
+‏
+‏@P_raetorio
 15:39
 1405/02/22
 
@@ -5371,14 +5377,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇬🇧⚡️⚡️- The number of Labour MP's calling for Starmer to step down has reached 67.
-00:29
-1405/02/22
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 طبق گزارش CBS News، پاکستان در حالی که خودش را میانجی بین ایران و آمریکا نشان می‌داد، به ایران اجازه داده بود برخی هواپیماهای نظامی‌اش را در پایگاه هوایی استراتژیک نورخان نزدیک راولپندی مستقر کند. 
@@ -5402,17 +5400,6 @@ src :@RASTAKHIZ_PERSIAN
 src :@thewarreporter
 ‏🇦🇪🇮🇷 — The UAE has carried out undisclosed military strikes on Iran, including an attack on an oil refinery on Lavan Island in early April around the time U.S. President Trump announced a ceasefire.  The strike triggered a large fire and disabled the refinery…
 00:20
-1405/02/22
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇬🇧 Senior UK cabinet ministers tell Prime Minister Keir Starmer to prepare a resignation timeline.
-‏
-‏@BRICSNews
-00:16
 1405/02/22
 
 
@@ -5486,17 +5473,6 @@ src :@BellumActaNews
 ‏
 ‏@BellumActaNews
 00:02
-1405/02/22
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇷🇺🇮🇷 Russia expands world's largest drone factory as it begins exporting components to Iran.
-‏
-‏@BRICSNews
-00:01
 1405/02/22
 
 
@@ -5785,14 +5761,4 @@ src :@mamlekate
 src :@Parvazdaroj
 ‏Parvaz dar oj pinned Deleted message
 21:54
-1405/02/21
-
-
-
-
-src :@rus_cosmos
-‏رئیس جمهور آمریکا، ترامپ، در حال دیدار با تیم امنیت ملی خود است تا در مورد راه‌های پیش رو در جنگ با ایران، از جمله احتمال از سرگیری اقدام نظامی، گفتگو کند.
-‏
-‏دو مقام آمریکایی گفتند که ترامپ به سمت انجام نوعی اقدام نظامی علیه ایران برای افزایش فشار بر تهران و وادار کردن آن به دادن امتیاز در مورد برنامه هسته‌ای‌اش، متمایل است.
-21:50
 1405/02/21
