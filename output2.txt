@@ -1,3 +1,33 @@
+src :@GeoPWatch
+[عکس]
+‏🇫🇷🇩🇯- The FS Charles de Gaulle aircraft carrier and its strike group has arrived in Djibouti for a short layover.
+16:28
+1405/02/22
+
+
+
+
+src :@MilitarryWorld
+‏🚨پیت هگست وزیر جنگ آمریکا:
+‏
+‏به دلیل حساسیت مموریتی که رئیس‌جمهور ترامپ بر عهده دارد و همچنین برای اطمینان از عدم دستیابی ایران به بمب هسته‌ای، گام بعدی خود علیه این کشور را فاش نخواهیم کرد
+‏
+‏@MilitarryWorld | Parsa
+16:26
+1405/02/22
+
+
+
+
+src :@ClashReport
+[عکس]
+‏UK Victims Minister Alex Davies-Jones resigns from Keir Starmer’s government.
+16:26
+1405/02/22
+
+
+
+
 src :@Parvazdaroj
 [عکس]
 ‏اویونیک اف۱۶ سه حالت عملیاتی اصلی دارد، حالت ها NAV، A/A و A/G می باشند که هر کدام مطابق نرم افزار و سخت های افزار های درگیر شده ویژگی و کاربرد متفاوتی دارند.
@@ -1773,16 +1803,6 @@ src :@naya_foriraq
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌🇾🇪- The IDF has confirmed that a drone "launched from the east" was intercepted by the IAF near Eilat. The drone is suspected to have originated from Yemen. The IDF stated that no sirens were activated in any towns, in line with protocol.
-‏
-‏@GeoPWatch
-14:21
-1405/02/22
-
-
-
-
 src :@naya_foriraq
 ‏هجوم من الشرق يتعرض له الكيان
 14:21
@@ -1810,27 +1830,6 @@ src :@wfwitness
 src :@naya_foriraq
 ‏المتحدث باسم جيش العدو: اعترضنا طائرة بدون طيار أُطلقت من جهة الشرق.
 14:19
-1405/02/22
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇱- Images of the interceptor contrail.
-‏
-‏@GeoPWatch
-14:17
-1405/02/22
-
-
-
-
-src :@GeoPWatch
-‏🇮🇱- According to Israeli N12 news, an interception attempt has taken place over Eilat, southern Israel.
-‏
-‏@GeoPWatch
-14:16
 1405/02/22
 
 
@@ -4806,16 +4805,6 @@ src :@rnintel
 
 
 
-src :@MilitarryWorld
-‏⭕️قالیباف: آمریکا هیچ راهی جز پذیرش حق و حقوق ملت ایران و پیشنهاد ۱۴ بندی ما، نداره‌.
-‏
-‏@MilitarryWorld | Parsa
-00:33
-1405/02/22
-
-
-
-
 src :@rnintel
 ‏🇮🇷🇵🇰⚡- Pakistan has begun helping Iran shield and shelter its military aircraft following the ceasefire with the US, CBS reports.  The aircraft, which includes the RC-130, have been deployed to the Nur Khan Air Base in central Pakistan to avoid being damaged…
 00:31
@@ -5966,14 +5955,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mipo
 16:46
-1405/02/21
-
-
-
-
-src :@rus_cosmos
-‏سپاه تصمیم گرفت از امروز ایست های بازرسی در معابر شهری جمع آوری شوند.
-‏
-‏اما در ورودی اصلی  شهر ها همچنان این روند ادامه دارد.
-16:26
 1405/02/21
