@@ -1,3 +1,81 @@
+src :@Parvazdaroj
+[عکس]
+‏اویونیک اف۱۶ سه حالت عملیاتی اصلی دارد، حالت ها NAV، A/A و A/G می باشند که هر کدام مطابق نرم افزار و سخت های افزار های درگیر شده ویژگی و کاربرد متفاوتی دارند.
+‏زمانی که دسته پروازی با توجه بریفینگ ناوبری که قبل از پرواز داشتند به نقطه IP می رسند، خلبان ها باید از حالت NAV وارد به حالت A/G بشوند. برای انجام این کار خلبان باید از ICP دکمه A/G را فشار دهد، حال کامپیوتر ها دستور را دریافت می کنند و خروجی اطلاعات در نمایشگر و HUD متناسب با عملیات های هوا به زمین به نمایش در می آید.
+‏نمایشگر ها در مجموع شش صفحه مرتبط با A/G را بصورت پیشفرض نشان می دهند، برای کار با سلاح دلیله، اصلی ترین صفحه ها SMS و WPN هستند.
+‏A/A : Air To Air
+‏A/G : Air To Ground 
+‏NAV : Navigation 
+‏IP : Initial Point
+‏SMS : Store Management System
+‏WPN : Weapon
+‏
+‏4/
+‏
+‏@PARVAZDAROJ | 𝑆𝐼𝐸𝑅𝑅𝐴
+16:20
+1405/02/22
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ دونالد ترامپ، رئیس‌جمهوری آمریکا، روز سه‌شنبه ۲۲ اردیبهشت‌ماه، با انتشار پیامی در شبکه اجتماعی «تروث سوشال» و در آستانه سفر به پکن نوشت: «هیچ جمهوری‌خواهی تاکنون درباره کوبا با من صحبت نکرده است؛ کشوری شکست‌خورده که فقط در یک مسیر حرکت می‌کند: سقوط!»
+‏
+‏ترامپ در ادامه افزود: «کوبا درخواست کمک کرده و ما گفتگو خواهیم کرد!!! در همین حال، من عازم چین هستم!»
+‏
+‏@indypersian
+16:20
+1405/02/22
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇮🇷/🇴🇲 NEW: Iranian and Omani officials held a joint meeting today about the future of the Strait of Hormuz
+‏
+‏Oman’s position has apparently shifted since last time, and they have recognized joint Iranian-Omani control over the Strait as sovereign territory.
+‏
+‏Iran promised the Omani side that there will be revenue sharing between both sides, as part of good neighbourly relations and Islamic friendship.
+‏
+‏@Middle_East_Spectator
+16:19
+1405/02/22
+
+
+
+
+src :@naya_foriraq
+‏وزير الحرب الأمريكي: لن نكشف عن الخطوة التالية ضد إيران لضمان عدم حصولها على قنبلة نووية
+16:19
+1405/02/22
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸 US Ambassador Mike Huckabee says Gulf countries will have to choose between Israel and Iran.
+‏
+‏@BRICSNews
+16:18
+1405/02/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، از شکایت جمهوری اسلامی علیه آمریکا به دیوان داوری لاهه خبر داد.
+‏
+‏این رسانه وابسته به سپاه، «تجاوز نظامی به تاسیسات هسته‌ای»، «اعمال تحریم‌های اقتصادی» و «تهدید به توسل به زور» را از موضوعات این شکایت عنوان کرد.
+‏https://iranintl.com/202605122290
+16:18
+1405/02/22
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏سنتکام تصویری از ناو هواپیمابر آبراهام لینکلن در دریای عرب منتشر کرد. 
@@ -855,17 +933,6 @@ src :@tabzlive
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏🇺🇸🚫🇨🇺- Donald Trump has posted on Truth Social saying "Cuba is asking for help": No Republican has ever spoken to me about Cuba, which is a failed country and only heading in one direction - down! Cuba is asking for help, and we are going to talk!!! In the meantime, I’m off to China! President DJT
-‏
-‏@GeoPWatch
-15:29
-1405/02/22
-
-
-
-
 src :@mwarmonitor
 ‏🇨🇺🇺🇸ترامپ: «کوبا درخواست کمک کرده و ما قرار است گفت‌وگو کنیم.»
 ‏
@@ -955,15 +1022,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-15:27
-1405/02/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇬🇧⚡️ — Safeguarding Minister Jess Phillips has resigned from PM Keir Starmer's government.
 15:27
 1405/02/22
 
@@ -1826,7 +1884,7 @@ src :@wfwitness
 
 src :@thewarreporter
 [عکس]
-‏🇰🇼🇮🇷 — The Kuwait Interior Ministry announced that 4 individuals arrested earlier this month during a maritime infiltration attempt confessed to belonging to the IRGC and said they had been tasked with carrying out attacks inside Kuwaiti territory.
+‏🇰🇼🇮🇷 — The Kuwaiti Interior Ministry announced that 4 individuals arrested earlier this month during a maritime infiltration attempt confessed to belonging to the IRGC and said they had been tasked with carrying out attacks inside Kuwaiti territory.
 ‏
 ‏According to the ministry, the detainees were identified as Naval Colonel Amir Hossein Abdolmohammad Zaraei, Naval Colonel Abdolsamad Yedaleh Ghanavati, Naval Captain Ahmad Jamshid Gholamreza Zolfaghari, and First Lieutenant Mohammad Hossein Sohrab Foroughi Rad. 
 ‏
@@ -2104,20 +2162,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 13:46
-1405/02/22
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏اسرائیل هیوم گزارش داد هزاران اسرائیلی از شامگاه ۲۲ اردیبهشت پیامک‌های تهدیدآمیز به زبان عبری دریافت کردند که در آن‌ها از سوی هکرهای منتسب به تهران خواسته شده با جمهوری اسلامی همکاری کنند.
-‏
-‏در این پیام‌ها آمده است: «جمهوری اسلامی شما را به همکاری اطلاعاتی دعوت می‌کند و به‌زودی خورشید را در آسمان شب خواهید دید.»
-‏
-‏اداره ملی سایبری اسرائیل اعلام کرد این پیام‌ها با هدف ایجاد هراس و جمع‌آوری اطلاعات شخصی ارسال شده و از شهروندان خواست آن‌ها را نادیده بگیرند و گزارش دهند.
-‏https://iranintl.com/202605121388
-13:44
 1405/02/22
 
 
@@ -5702,16 +5746,6 @@ src :@MilitiaNews
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran says the US is hiding the true number of casualties it suffered from the war.
-‏
-‏@BRICSNews
-20:11
-1405/02/21
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 ترامپ: بسیاری از مردم می‌پرسند: آیا او برنامه‌ای دارد؟
 ‏البته که برنامه دارم.
@@ -5942,20 +5976,4 @@ src :@rus_cosmos
 ‏
 ‏اما در ورودی اصلی  شهر ها همچنان این روند ادامه دارد.
 16:26
-1405/02/21
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 برای زدن اهداف در کشور‌های عربی، لزوما نیازی به پهپادهای انتحاری با موتور جت نیست. 
-‏
-‏🔹با توجه به فاصله کم تا کشور های عربی، پهپادهای موتور پیستونی هم بخوبی جواب می‌دهند؛ همانطور که در جنگ دیده شد. اما ممکن است در درگیری‌های بعدی میزان موفقیت پهپادها کاهش یابد. همانطور که دیده شد، در جنگ رمضان از پهپادهای رهگیر استفاده شد که احتمالا در دور بعدی مقادیر بیشتری بکار گرفته شود.‌ بنابراین شاید نیاز باشد تغییراتی در حملات پهپادی بعدی ج.ا صورت گیرد.
-‏
-‏مکپر
-‏
-‏#جنگ_رمضان #پهپاد
-‏
-‏@RASTAKHIZ_PERSIAN
-16:19
 1405/02/21
