@@ -1,6 +1,14 @@
+src :@naya_foriraq
+‏🇮🇷المتحدث باسم لجنة الأمن القومي في البرلمان: أحد خيارات إيران إذا وقع عدوان تخصيب اليورانيوم بنسبة 90%
+10:20
+1405/02/22
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
-‏نیروهای تیپ گولانی ارتش اسرائیل هفته گذشته در آن سوی رود لیتانی، در یکی از عمیق‌ترین نقاطی که ارتش اسرائیل تاکنون به آن رسیده، یک عملیات مهم انجام دادند.در جریان این درگیری، چند تروریست حزب‌ الله از یک دهانه تونل خارج شدند و تلاش کردند با نیروهای اسرائیلی درگیر شوند. برخی از آن‌ها در همان محل کشته شدند و بقیه فرار کردند. چند سرباز به‌طور متوسط زخمی شدند و یک سگ تهاجمی یگان «اوکتس» که در حال تعقیب چند تروریست بود، بر اثر آتش حزب‌الله کشته شد
+‏نیروهای تیپ گولانی ارتش اسرائیل هفته گذشته در آن سوی رود لیتانی، در یکی از عمیق‌ترین نقاطی که ارتش اسرائیل تاکنون به آن رسیده، یک عملیات مهم انجام دادند.در جریان این درگیری، چند تروریست حزب‌ الله از یک دهانه تونل خارج شدند و تلاش کردند با نیروهای اسرائیلی درگیر شوند. برخی از آن‌ها در همان محل کشته شدند و بقیه فرار کردند. ۸ سرباز به‌طور متوسط زخمی شدند و یک سگ تهاجمی یگان «اوکتس» که در حال تعقیب چند تروریست بود، بر اثر آتش حزب‌الله کشته شد
 ‏
 ‏🆔@WAR_ROOM_NEWS
 10:16
@@ -19,7 +27,7 @@ src :@P_raetorio
 
 
 src :@GeoPWatch
-‏🇺🇸 — U.S. Marine Corps Aviation will be retiring its fleet of F/A-18 "Hornet" fighter jets by August 2030, replacing them with 420 F-35B and F-35C "Lightning II" stealth fighter jets. 
+‏🇺🇸 — U.S. Marine Corps Aviation will be retiring its fleet of 138 F/A-18 "Hornet" fighter jets by August 2030, replacing them with 420 F-35B and F-35C "Lightning II" stealth fighter jets. 
 ‏
 ‏This upgrade will make the USMC Aviation's fighter jet fleet more survivable in heavily contested airspaces, allow takeoffs from America-class & Wasp-class ships as well as shorter/austere runways with the F-35B variant, and allow fighter jet integration with USMC ground and naval forces.
 ‏
@@ -3208,21 +3216,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@ClashReport
-[عکس]
-‏Ukraine's National Anti-Corruption Bureau (NABU) and the Specialized Anti-Corruption Prosecutor's Office (SAPO) have formally served former Presidential Office head Andriy Yermak — who resigned in November 2025 — with a notice of suspicion in a major money-laundering case.
-‏
-‏He is accused of being part of an organized criminal group that laundered roughly $10.5–11 million through luxury real estate developments near Kyiv.
-‏
-‏The charges tie into Operation Midas — the largest corruption probe of Zelensky's presidency, involving over $100 million in alleged Energoatom kickbacks and earlier suspects including businessman Timur Mindich, who fled to Israel.
-‏
-‏Yermak denies wrongdoing.
-23:23
-1405/02/21
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏نیروی دریایی ایالات متحده اعلام کرده است که ناوگروه ضربت هواپیمابر USS Gerald R. Ford  پس از استقرار در خاورمیانه رسماً به خانه بازمی‌گردند
@@ -3950,14 +3943,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 21:56
-1405/02/21
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸🇮🇷‏البيت الأبيض عن إيران: ترامب يضع كل الخيارات على الطاولة.
-21:55
 1405/02/21
 
 
