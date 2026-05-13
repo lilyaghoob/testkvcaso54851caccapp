@@ -1,3 +1,27 @@
+src :@Indypersian
+[عکس]
+‏♦️به گزارش رسانه‌های دولتی چین، وزیر خارجه این کشور از پاکستان خواسته است تلاش‌های میانجیگرانه خود میان رژیم ایران و ایالات متحده را افزایش دهد و به حل «مناسب» موضوع بازگشایی تنگه هرمز کمک کن.
+‏خبرگزاری دولتی شینهوا گزارش داد وانگ یی، وزیر خارجه چین، در تماس تلفنی با اسحاق دار، وزیر خارجه پاکستان، این موضوع را مطرح کرده است؛ تماسی که همزمان با سفر دونالد ترامپ، رئیس‌جمهوری آمریکا، به پکن انجام شد. ترامپ پیش‌تر گفته بود که آتش‌بس بسیار شکننده و مانند بیماری در اتاق مراقبت‌های ویژه به اکسیژن متصل است.
+‏
+‏@IndyPersian
+06:05
+1405/02/23
+
+
+
+
+src :@wfwitness
+‏⚡️🇲🇾🇳🇴 Malay Mail: Malaysia says it is “shocked” after Norway blocked the export of Naval Strike Missiles ordered in 2018 for Royal Malaysian Navy ships, halting delivery days before shipment.
+‏
+‏Defence Minister Mohamed Khaled Nordin said the issue affecting multiple vessels is being handled through diplomatic channels and talks between both governments.
+‏
+‏@wfwitness
+06:01
+1405/02/23
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏Old but gold 👻
@@ -1158,15 +1182,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇬🇧🇫🇷🇮🇷 Bloomberg: More than 40 nations will meet today to outline military contributions for a European‑led mission to escort ships through the Strait of Hormuz once a stable ceasefire is in place.   The UK and France are leading the defensive naval operation…
-02:16
-1405/02/23
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️شبکه ان‌بی‌سی نیوز روز سه‌شنبه گزارش داد که پنتاگون در حال بررسی تغییر نام جنگ علیه رژیم ایران از «عملیات خشم حماسی» به «عملیات پتک» است؛ اقدامی که در صورت تصمیم دونالد ترامپ برای ازسرگیری کارزار گسترده بمباران انجام خواهد شد.
@@ -1292,17 +1307,6 @@ src :@GeoPWatch
 src :@warmonitors
 ‏⚡Diplomatic sources to Al Jazeera: The support of 112 countries for the draft resolution on the Strait of Hormuz reflects broad support for an initiative that serves everyone.
 01:35
-1405/02/23
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️به گزارش خبرگزاری رسمی عربستان سعودی، شاهزاده محمد بن سلمان، ولیعهد این کشور، در تماس تلفنی با شیخ محمد بن‌زاید آل‌نهیان، رئیس دولت امارات متحده عربی، درباره همکاری‌های دوجانبه و تحولات منطقه گفتگو کرد. دو طرف همچنین تلاش‌های انجام‌شده برای تقویت امنیت و ثبات منطقه را بررسی کردند.
-‏
-‏@indypersian
-01:33
 1405/02/23
 
 
@@ -1579,9 +1583,7 @@ src :@mwarmonitor
 src :@VahidOnline
 [عکس]
 ‏زمین‌لرزه چهارم۰۰:۳۳
-‏
 ‏پیام‌های دریافتی:
-‏
 ‏دوباره لرزید  شرق همین الان 12:33
 ‏
 ‏بازم اومد ولی ریزتر از قبلی
@@ -1591,8 +1593,7 @@ src :@VahidOnline
 ‏من الان دوباره لرزیدم
 ‏
 ‏وحیددد نزدیک چهاربار تو پردیس #زلزله اومد نمیدونی تختم چجوری میلرزید
-‏
-‏🔄آپدیت: تصویر دریافتی بالا و متن رسانه‌های داخلی به نقل از مرکز لرزه‌نگاری:
+‏آپدیت: تصویر دریافتی بالا و متن رسانه‌های داخلی به نقل از مرکز لرزه‌نگاری:
 ‏بزرگی: ۳.۴
 ‏🔹محل وقوع: حوالی پرديس
 ‏🔹زمان وقوع: ۳۲ دقیقه بامداد 
@@ -1607,7 +1608,8 @@ src :@VahidOnline
 ‏۴۱ کیلومتری تهران
 ‏۷۶ کیلومتری كرج
 ‏
-‏🔄 پیام‌های دریافتی تایید نشده درباره لرزش پنجم در ساعت ۳:۳۰
+‏🔄 آپدیت ۳:۳۰
+‏پیام‌های دریافتی درباره لرزش پنجم
 ‏
 ‏زلزله دوباره
 ‏
@@ -1620,8 +1622,7 @@ src :@VahidOnline
 ‏سلام وحید جان
 ‏ساعت ۳.۵ باز زمین لرزه اومد پردیس، با صدایی شبیه به ترکیدن
 ‏
-‏🔄 و لرزش ششم در ساعت ۵:۵۷
-‏
+‏🔄 آپدیت: لرزش ششم ساعت ۵:۵۷
 ‏یه کوچولو دیگه زلزله سمت پردیس حس شد الان
 ‏
 ‏و الان هم دوباره لرزید
