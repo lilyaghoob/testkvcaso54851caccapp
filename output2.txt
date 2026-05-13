@@ -1,3 +1,38 @@
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇨🇳 — China Deploys 'Dark Factory' to More Than Double J-20 Stealth Fighter Component Production Efficiency
+‏
+‏According to a South China Morning Post report, a Chengdu factory has been converted into a fully autonomous "dark factory" (lights-out facility) using AI-driven machinery and autonomous vehicles operating nearly 24/7 with minimal human involvement.
+‏
+‏The plant now produces structural components for the J-20 "Mighty Dragon" — China's fifth-generation stealth fighter, comparable to the U.S. F-22 — significantly cutting costs and boosting output. Mass production of the J-20 began in 2020.
+‏
+‏The Global Eye | Subscribe
+13:01
+1405/02/23
+
+
+
+
+src :@rnintel
+‏🇺🇸🇨🇳⚡- China had to change the transliteration of Secretary of State Marco Rubio's name just so he can gain entry into the country, as China had imposed sanctions on Rubio twice several years ago.
+‏
+‏China began using the character "lu" to represent the start of Rubio's surname in an effort to bypass their own sanctions.
+13:00
+1405/02/23
+
+
+
+
+src :@mamlekate
+‏❓ ساعت ۹:۰۲ دقیقه امروز یه صدای خیلی بلند با ارتعاش زیاد اومد سمت چیذر شنیدیم ما. انگار ۷،۸ کیلومتر فاصله داشت باهامون. ۹:۶ دقیقه و ۹:۱۱ دقیقه هم‌ اومد. آسمون ابری نیست که بگم‌صدای رعد و برقه
+‏
+‏@mamlekate
+12:58
+1405/02/23
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️آژانس بین‌المللی انرژی روز چهارشنبه ۲۳ اردیبهشت در گزارش ماهانه بازار نفت خود اعلام کرد که عرضه جهانی نفت امسال پاسخگوی کل تقاضا نخواهد بود، زیرا جنگ ایران تولید نفت خاورمیانه را مختل کرده است.
@@ -31,14 +66,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Shayan
 12:54
-1405/02/23
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ارتش اسرائیل در ششمین حمله پهپادی امروز خود در لبنان مجدد خودرویی را در منطقه السعدیات نزدیک بیروت هدف قرار داد،تصاویر حملات قبلی فقط سه مورد در چنل ذکر شد   ارتش اسرائیل امروز عجیب داره حزب‌ الله رنده می‌کنه
-12:53
 1405/02/23
 
 
@@ -4775,17 +4802,6 @@ src :@bricsnews
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇮🇷 — U.S. President Donald Trump says "Iran’s leaders will either do the right thing, or we will finish the job".
-‏
-‏The Global Eye | Subscribe
-21:38
-1405/02/22
-
-
-
-
 src :@rnintel
 ‏🇮🇷🇸🇦⚡️- BREAKING: Saudi Arabia carried out a series of unpublicized retaliatory strikes on Iran during the war, according to Reuters. 
 ‏
@@ -4959,16 +4975,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/02/22/401903/
 21:02
-1405/02/22
-
-
-
-
-src :@rnintel
-‏🇮🇷🇰🇼⚡- Kuwait's Foreign Ministry has summoned the Iranian ambassador after claiming IRGC attempted to infiltrate Kuwait's Bubiyan Island.
-‏
-‏Kuwait alleges six Iranian operators attempted to land on the island on a rented fishing vessel, which was a driving force for Saddam Hussein's Project 17. Four of the armed men were arrested, the two others escaped. One Kuwaiti soldier was injured in the firefight.
-20:54
 1405/02/22
 
 
@@ -5405,19 +5411,6 @@ src :@Military_Times_Blog
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔴 سران وزارت جنگ آمریکا به کنگره رفتند
-‏
-‏🔹 هم‌اکنون پیت هگزث، به همراه مقامات عالی وزارت جنگ ایالات متحده برای دفاع از بودجه نظامی ۱.۵ تریلیون دلاری و جلسه استماع درباره جنگ ایران در کنگره حاضر شده‌اند.
-‏
-‏🆔 @Americana_ir
-15:48
-1405/02/22
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏انتشار برای اولین بار
@@ -5675,37 +5668,4 @@ src :@thewarreporter
 ‏
 ‏- Israeli Army Radio | @TheWarReporter
 13:14
-1405/02/22
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ تصویری از پدافند ساخت ترکیه کورکوت 100/25 که قطر و عربستان به دنبال خرید آن هستند.
-‏گلوله 25mm با 4 رادار ارایه فازی فعال
-‏
-‏@Guard_Warriors | DmW
-12:59
-1405/02/22
-
-
-
-
-src :@rus_cosmos
-‏ابراهیم رضایی، نماینده مجلس ایران:
-‏
-‏«یکی از گزینه‌های ایران در صورت حمله دیگر می‌تواند غنی‌سازی ۹۰ درصدی باشد. ما آن را در مجلس بررسی خواهیم کرد.»
-12:57
-1405/02/22
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪  جنگنده کره ای Kf-21 بیشتر از 16000 پرواز آزمایشی تا کنون انجام داده که به پایان مراحل تست خودش رسیده.
-‏
-‏@Guard_Warriors | DmW
-12:56
 1405/02/22
