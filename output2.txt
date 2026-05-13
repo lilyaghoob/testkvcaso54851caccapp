@@ -1796,18 +1796,6 @@ src :@MilitiaNews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇺⚡️ — U.S. State Department:
-‏Today, the Department of State is publicly restating the United States’ generous offer to provide an additional $100 million in direct humanitarian assistance to the Cuban people that would be distributed in coordination with the Catholic Church and other reliable independent humanitarian organizations. 
-‏
-‏The decision rests with the Cuban regime to accept our offer of assistance or deny critical living-saving aid and ultimately be accountable to the Cuban people for standing in the way of critical assistance.
-23:15
-1405/02/23
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏امروز خبری منتشر شده بود که ژنرال‌های روس به پوتین اطمینان داده اند تا پایان سال ۲۰۲۶ میلادی ارتش روسیه قادر به اشغال تمامی منطقه دونباس خواهد بود، یعنی اشغال ۵۳۰۰ کیلومتر مربع زمین مجهز به متراکم ترین خطوط و دژهای دفاعی اوکراین(هدفی که تقریبا غیر ممکن خواهد بود اما خواهیم دید چه خواهد شد)
