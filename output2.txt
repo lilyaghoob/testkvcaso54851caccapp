@@ -2187,14 +2187,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-‏🇮🇷- The earthquake that took place in Tehran was a 4.5 magnitude earthquake.  @GeoPWatch
-23:59
-1405/02/22
-
-
-
-
 src :@cataphract1
 ‏✨ به فروشگاه Atlas Relay خوش آمدید!  🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی ✅ تضمین امنیت ارتباطات شما 📞 پشتیبانی حرفه‌ای ۲۴ ساعته تعرفه ها : یک گیگ ۳۲۵ دو گیگ ۶۰۰ سه گیگ ۸۵۰ چهار گیگ ۱.۱۰۰ پنج گیگ ۱.۳۰۰ ⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت…
 23:59
