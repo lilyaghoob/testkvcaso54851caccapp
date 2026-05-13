@@ -2281,15 +2281,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The White House is considering having President Trump grant 250 pardons to commemorate America’s 250th anniversary, potentially on June 14 or July 4, according to WSJ.
-22:41
-1405/02/23
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸- The U.S. Senate has rejected a bill that would have required congressional approval before any military action against Iran, failing by a narrow 50-49 vote. This marks the seventh failure this year.
 ‏
@@ -2359,17 +2350,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 22:38
-1405/02/23
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇦🇪⚡️ — Israel’s Prime Minister’s Office announced that Benjamin Netanyahu secretly traveled to the United Arab Emirates during the Iran war for talks with UAE President Sheikh Mohammed bin Zayed.
-‏
-‏➡️ Bibi’s office described the meeting as leading to a “historic breakthrough” in ties between the two countries.
-22:37
 1405/02/23
 
 
