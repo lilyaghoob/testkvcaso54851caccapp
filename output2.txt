@@ -2911,23 +2911,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇱🇵🇸 Axios: The US‑led Board of Peace wants to start implementing its Gaza governance and reconstruction plan in areas outside Hamas control, after talks with the group on disarmament reached a deadlock. 
-‏
-‏Nickolay Mladenov, the board’s high representative, acknowledged that Israeli ceasefire violations continue and that for Palestinians in Gaza, “the war is not fully over”.
-‏
-‏The so‑called “Plan B” would see the Palestinian technocratic government move into those areas, alongside reconstruction and the deployment of an international stabilisation force. 
-‏
-‏The U.S. has told Israel it does not support resuming the war in Gaza as a solution.
-‏
-‏@wfwitness
-21:23
-1405/02/23
-
-
-
-
 src :@cataphract1
 ‏⭕️سنتکام:
 ‏چهار هفته پیش، ستاد فرماندهی مرکزی ایالات متحده (سنتکام) اجرای محاصره علیه کشتی‌هایی که به بنادر ایران وارد و یا از آن خارج می‌شدند را آغاز کرد. تا به امروز، نیروهای آمریکایی مسیر ۶۷ شناور تجاری را تغییر داده، به ۱۵ کشتی حامل کمک‌های بشردوستانه اجازه عبور داده و ۴ فروند را برای اطمینان از انطباق با مقررات از کار انداخته‌اند.
