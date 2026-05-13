@@ -1,9 +1,51 @@
+src :@guard_warriors
+[عکس]
+‏✪فولکس واگن و رافائل قصد دارند در آلمان گنبد آهنین تولید کنند
+‏
+‏فولکس واگن و شرکت دفاعی اسرائیلی رافائل در شرف ایجاد یک سرمایه گذاری مشترک هستند. انتظار می‌رود مشارکت برای تولید قطعات سیستم دفاع موشکی گنبد آهنین تا پایان سال منعقد شود.
+‏
+‏کارخانه فولکس واگن در اوسنابروک، که در حال حاضر با کاهش تولید دست و پنجه نرم می‌کند، قرار است از تولید خودرو به خودروهای نظامی تبدیل شود. این طرح شامل تولید کامیون برای گنبد آهنین و سیستم پرتو آهن مبتنی بر لیزر است.
+‏
+‏راکت‌ها و قطعات کلیدی دفاعی همچنان در اسرائیل تولید خواهند شد و سپس مونتاژ نهایی در آلمان انجام می‌شود. دو مکان دیگر در آلمان نیز می‌توانند از طریق زنجیره‌های تأمین در این طرح گنجانده شوند.
+‏
+‏@Guard_Warriors | Mipo
+19:46
+1405/02/23
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Ukrainian soldier spotted with Chinese FN-16 MANPADS.
+19:45
+1405/02/23
+
+
+
+
+src :@cataphract1
+[عکس]
+‏⚜یک نکته تکمیلی در مورد خمپاره 60 تانکهای مرکاوا بد نیست بدانید این است که ایده اولیه نصب یک سلاح منحی زدن در داخل تانک به ارتش آلمان نازی برمیگردد.
+‏
+‏⚜آلمان های نازی در داخل تانک های خود از جمله تانک‌های پنتر، تایگر ، جاگد پنزر، جاگد پنتر و... یک نارنجک انداز تعبیبه کرده بود تا خدمه بتواند از داخل تانک نارنجک های دودزا و یا ضد نفر را شلیک کنند.
+‏
+‏این سیستم Nahverteidigungswaffe نام داشت که برای پرتاب نارنجکها دارای دریچه سقفی بود و خدمه می توانستند به شکل چرخش 360 درجه و با حداکثر زاویه شلیک 50 درجه نارنجک ها را  از داخل تانک پرتاب کنید.
+‏
+‏✒️#Crash
+‏📃@Cataphract1
+19:42
+1405/02/23
+
+
+
+
 src :@GeoPWatch
 ‏🇱🇧❌🇮🇱 — Hezbollah announces confronting an IDF ground force and multiple armored vehicles attempting to invade the town of Haddatha from the southwestern direction, from 14:00-14:10.
 ‏
-‏At 14:00, Hezbollah fighters confronted an IDF force in the vicinity of Haddatha with small/medium arms and grenade launchers. Minutes afterwards, Hezbollah ambushed a vehicle force consisting of two Namer APCs and one D9 bulldozer, firing machineguns at the force and detonating an explosive device on one Namer. 
+‏At 14:00, Hezbollah fighters confronted an IDF force in the vicinity of Haddatha with small/medium arms, grenade launchers, and an explosive device. Minutes afterwards, Hezbollah ambushed a vehicle force consisting of two Namer APCs and one D9 bulldozer, firing machineguns at the force and detonating an explosive device on one Namer. 
 ‏
-‏At 14:10, an IDF remote-controlled explosive-laden vehicle was hit was rockets as it was attempting to reach the center of Haddatha, forcing it to detonate prematurely on the side of the road.
+‏At 14:10, an IDF remote-controlled explosive-laden vehicle was hit with a rocket as it was attempting to reach the center of Haddatha, forcing it to detonate prematurely on the side of the road.
 ‏
 ‏@GeoPWatch
 19:42
@@ -1954,14 +1996,6 @@ src :@World_Newsly
 
 
 
-src :@cataphract1
-[ویدئو]
-17:23
-1405/02/23
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Qatar joins Total Energies in oil-gas exploration in Syria
@@ -2334,20 +2368,6 @@ src :@MilitarryWorld
 ‏برای از سرگیری جنگ در هوشیاری کامل قرار داریم.
 ‏
 ‏@MilitarryWorld | Parsa
-17:04
-1405/02/23
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 شهرداری تهران: انبار کالاهای اساسی تا ۶ ماه آینده پر است
-‏
-‏🔹 معاون خدمات شهری: مردم اطمینان داشته باشند که با تأمین گسترده کالا در ۳۱۵ میدان میوه‌وتره‌بار، تا شش‌ماه آینده هیچ کمبودی در کالاهای اساسی نخواهیم داشت.
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
 17:04
 1405/02/23
 
@@ -3100,23 +3120,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏Israel's Mossad chief made at least two secret visits to the UAE to coordinate the ongoing war against Iran.
-‏
-‏The UAE has gone well beyond quiet diplomacy.
-‏
-‏It struck Iranian targets itself (including the Lavan Island refinery) and is hosting Israeli Iron Dome systems and personnel to defend against Iran.
-‏
-‏Israel's Shin Bet chief made similar visits around the same period.
-‏
-‏Source: WSJ
-15:34
-1405/02/23
-
-
-
-
 src :@mwarmonitor
 ‏🇫🇷 بنا بر این گزارش روزنامه لو فیگارو فرانسه، Emmanuel Macron طی چند ماه گذشته یک «رابطه افلاطونی» با بازیگر ایرانی گلشیفته فراهانی داشته است؛  🔸 رابطه‌ای که گفته می‌شود «پیام‌هایی داشته که تا حد زیادی پیش رفته‌اند». این موضوع ظاهرا باعث تنش در زندگی زوج ریاست‌جمهوری…
 15:33
@@ -3732,21 +3735,6 @@ src :@tglobaleye
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇨🇳 — China Deploys 'Dark Factory' to More Than Double J-20 Stealth Fighter Component Production Efficiency
-‏
-‏According to a South China Morning Post report, a Chengdu factory has been converted into a fully autonomous "dark factory" (lights-out facility) using AI-driven machinery and autonomous vehicles operating nearly 24/7 with minimal human involvement.
-‏
-‏The plant now produces structural components for the J-20 "Mighty Dragon" — China's fifth-generation stealth fighter, comparable to the U.S. F-22 — significantly cutting costs and boosting output. Mass production of the J-20 began in 2020.
-‏
-‏The Global Eye | Subscribe
-13:01
-1405/02/23
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇨🇳⚡- China had to change the transliteration of Secretary of State Marco Rubio's name just so he can gain entry into the country, as China had imposed sanctions on Rubio twice several years ago.
 ‏
@@ -3848,44 +3836,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 12:42
-1405/02/23
-
-
-
-
-src :@ClashReport
-[عکس]
-‏China quietly more than doubled production efficiency for its most advanced stealth fighter jet by converting a Chengdu factory to fully autonomous "dark factory" operations. 
-‏
-‏AI-driven machines and autonomous vehicles running nearly 24/7, no lights needed.
-‏
-‏The plant now produces structural components for the J-20 ("Mighty Dragon") — China's F-22 equivalent — with minimal human involvement, cutting costs and removing round-the-clock staffing. 
-‏
-‏Mass production of the J-20 began in 2020.
-‏
-‏Source: SCMP
-12:38
-1405/02/23
-
-
-
-
-src :@ClashReport
-[عکس]
-‏China's missile buildup is accelerating fast.
-‏
-‏Bloomberg tracked 81 listed Chinese companies supplying the country's two state missile makers (CASIC and CASC). 
-‏
-‏In 2025, nearly 40% of them hit record revenues — the highest share since Xi took power in 2013 — with combined sales up 20% to $28 billion. 
-‏
-‏That contrasts with flat or declining revenue among China's 300 largest companies overall.
-‏
-‏The Pentagon estimates China now has 3,150+ ballistic missiles — up 147% since 2015. 
-‏
-‏Its arsenal can reach Guam, Tokyo, and beyond. 
-‏
-‏Some risks: China's anti-corruption purge of top generals and defense scientists may slow procurement, and defense budget growth is at its slowest since 2022.
-12:36
 1405/02/23
 
 
