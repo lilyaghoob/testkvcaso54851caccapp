@@ -389,15 +389,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇲🇦⚡️ — The remains of one of the two U.S. soldiers who went missing on May 2 near the Cap Draa Training Area, Morocco, during the African Lion 26 training exercise have been recovered and identified as First Lieutenant Lamont Key Jr.  ➡️ Key was assigned…
-02:51
-1405/02/24
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦 — There were six Iskander-Ks. One was shot down, three likely impacted near Protsiv, Kyiv Oblast, and two are flying in Kirovohrad Oblast.  @GeoPWatch
 02:43
@@ -723,19 +714,6 @@ src :@guard_warriors
 
 
 
-src :@tabzlive
-[عکس]
-‏🇨🇳🇺🇸🇮🇷⚡️ — NEW: A confidential U.S. intelligence assessment concludes that China is gaining strategic advantages from the Iran war across diplomatic, military, economic, and informational fronts while the U.S. expends resources in the conflict, according to WaPo.
-‏
-‏➡️ Prepared for Joint Chiefs Chairman Dan Caine, the report warns that the war has depleted U.S. missile stockpiles, damaged regional military infrastructure, and provided Beijing with valuable insight into American military operations ahead of any future Taiwan scenario.
-‏
-‏➡️ The report also says China has sold weapons to Gulf states during Iranian attacks, helped countries manage energy shortages after the closure of the Strait of Hormuz, and used anti-war messaging to portray Washington as destabilizing the international order.
-01:57
-1405/02/24
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش رویترز، وزارت امور خارجه ایالات متحده اعلام کرد که واشنگتن و پکن برای جلوگیری از دریافت هرگونه «عوارض کشتیرانی» در تنگه هرمز به توافق رسیده‌اند.
@@ -744,14 +722,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 01:51
-1405/02/24
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — An Israeli airstrike on the town of Arabsalim, southern Lebanon, has killed six people, including three children, and wounded 12, according to Lebanon's National News Agency.
-01:50
 1405/02/24
 
 
