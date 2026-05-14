@@ -2294,18 +2294,6 @@ src :@MilitarryWorld
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ اصغر فرهادی، برای نمایش فیلم جدیدش با عنوان «داستان‌های موازی» در هفتاد و نهمین دوره جشنواره فیلم کن، به فرانسه سفر کرد. این ششمین حضور او در بخش مسابقه اصلی جشنواره فیلم کن است. این اثر که دهمین فیلم بلند فرهادی و دومین تجربه فیلم‌سازی او به زبان فرانسوی است، قرار است روز پنج‌شنبه ۲۴ اردیبهشت، ساعت ۲۰:۳۰ به وقت محلی در سالن لومیر کاخ جشنواره به نمایش درآید.
-‏
-‏در این درام پیچیده که مرز میان خیال و واقعیت را روایت می‌کند، ستارگان مطرح سینمای فرانسه از جمله ایزابل هوپر، کاترین دونو و ونسان کَسِل به ایفای نقش پرداخته‌اند. «داستان‌های موازی» همزمان با اکران در کن، در سینماهای سراسر فرانسه نیز روی پرده می‌رود. فرهادی که پیش از این جوایزی همچون بهترین فیلمنامه و جایزه بزرگ کن را در کارنامه دارد، امسال برای کسب نخل طلا با کارگردانان بزرگی چون پدرو آلمودوار و هیروکازو کورئیدا رقابت می‌کند.
-‏@indypersian
-22:54
-1405/02/23
-
-
-
-
 src :@cataphract1
 ‏⭕️انور قرقاش، مشاور رئیس جمهور(حاکم)امارات، همزمان با سفر ترامپ به چین:
 ‏
@@ -2878,20 +2866,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 21:53
-1405/02/23
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 Al Jazeera: A senior Iranian official has said new confrontations with the United States are possible. 
-‏
-‏Ibrahim Rezaei, spokesperson for Iran’s parliamentary national security and foreign policy committee stated: 
-‏
-‏“If pressure on us continues, we may increase the level of uranium enrichment to 90%. We are prepared for all scenarios. We have no nuclear negotiations with America.”  
-‏
-‏@wfwitness
-21:51
 1405/02/23
 
 
