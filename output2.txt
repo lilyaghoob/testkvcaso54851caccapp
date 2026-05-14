@@ -1,3 +1,26 @@
+src :@ClashReport
+[عکس]
+‏Hungarian PM Péter Magyar:
+‏
+‏As of today, after four years, the wartime state of emergency in Hungary is ending, and with it we are also putting an end to the decree-based emergency rule introduced by the Orbán government six years ago.
+‏
+‏We are returning to normality.
+22:18
+1405/02/24
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | پنجشنبه ۲۴ اردیبهشت
+‏@iranintlTV
+22:18
+1405/02/24
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️اسرائیل معتقد است که رئیس‌جمهور ترامپ پس از بازگشت از سفر به چین تصمیم خواهد گرفت که آیا عملیات نظامی علیه ایران را از سر بگیرد یا خیر، طبق گزارش کان نیوز.
 ‏
@@ -2314,16 +2337,6 @@ src :@BellumActaNews
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیم‌روزی | پنجشنبه ۲۴ اردیبهشت
-‏@iranintlTV
-18:29
-1405/02/24
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏📸 Russian drone and missile strike collapsed a 9-storey apartment building in Kyiv overnight.
@@ -2358,18 +2371,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 18:27
-1405/02/24
-
-
-
-
-src :@ClashReport
-‏The U.S. has sharply increased visible surveillance flights and drones near Cuba in recent weeks, using aircraft like the P-8, RC-135, and MQ-4. 
-‏
-‏Officials say the missions are meant to gather intelligence and pressure Cuba politically — not necessarily signal an imminent invasion.
-‏
-‏Source: NYT
-18:22
 1405/02/24
 
 
@@ -5578,16 +5579,4 @@ src :@IRRadar
 ‏
 ‏📡 @IRRadar
 22:30
-1405/02/23
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷🇨🇳 — U.S. intelligence officials say Chinese companies discussed secretly supplying weapons to Iran through third countries in an apparent effort to conceal the shipments, though officials say it remains unclear whether any weapons were ultimately delivered.
-‏
-‏According to U.S. officials, China has already provided Iran with intelligence support, satellite assistance, and dual-use technology used in drone and missile programs.  
-‏
-‏— The New York Times | @TheWarReporter
-22:20
 1405/02/23
