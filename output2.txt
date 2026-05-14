@@ -776,14 +776,6 @@ src :@warmonitors
 
 
 
-src :@tabzlive
-‏🇷🇺❌🇺🇦 — Several Russian Iskander-M ballistic missiles targeted the Kremenchuk Oil Refinery in Ukraine's Poltava region.
-01:38
-1405/02/24
-
-
-
-
 src :@GeoPWatch
 ‏🇱🇧❌🇮🇱 — Hezbollah announces striking an IDF Merkava tank in the Lebanese town of Kfarkela, directly bordering the Israeli town of Metula on the Lebanese-Israeli border to the northwest, with an ATGM at 00:10, setting the tank ablaze.
 ‏
