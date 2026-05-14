@@ -1,4 +1,12 @@
 src :@GeoPWatch
+‏🇺🇸🇨🇳 — President Trump and President Xi's meeting has begun in Beijing.  @GeoPWatch
+06:13
+1405/02/24
+
+
+
+
+src :@GeoPWatch
 ‏🇺🇸🇨🇳 — President Trump and President Xi's meeting has begun in Beijing.
 ‏
 ‏@GeoPWatch
@@ -665,14 +673,6 @@ src :@rus_cosmos
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 — Iskander-K cruise missiles detected flying above Cherkasy Oblast.  @GeoPWatch
-02:12
-1405/02/24
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ایمان خلیف، بوکسور الجزایری و قهرمان جنجالی المپیک، در نخستین حضور خود در جشنواره فیلم کن، با کت‌وشلوار رسمی مشکی مردانه روی فرش قرمز ظاهر شد.
@@ -1223,27 +1223,6 @@ src :@selena_updates
 src :@warmonitors
 ‏⚡UAE Foreign Ministry Spokesperson Denies Netanyahu Visited UAE During War Against Iran
 00:20
-1405/02/24
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️وزارت خارجه امارات متحده عربی با انتشار بیانیه‌ای، گزارش‌ها درباره سفر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به این کشور و همچنین پذیرش هرگونه هیات نظامی اسرائیلی در خاک امارات را تکذیب کرد.
-‏
-‏در این بیانیه آمده است روابط امارات و اسرائیل در چارچوب توافق ابراهیم، علنی و رسمی است و بر پایه دیدارها یا ترتیبات محرمانه شکل نگرفته است.
-‏
-‏وزارت خارجه امارات همچنین اعلام کرد هرگونه گزارش درباره سفرها یا توافق‌های اعلام‌نشده، تا زمانی که از سوی نهادهای رسمی منتشر نشود، فاقد اعتبار است.
-‏
-‏امارات در پایان از رسانه‌ها خواست از انتشار اطلاعات تاییدنشده و ایجاد برداشت‌های سیاسی خودداری کنند.
-‏
-‏حساب رسمی وزارت خارجه اسرائیل چهارشنبه ۲۳ اردیبهشت‌ماه در شبکه اجتماعی اکس، به نقل از دفتر نخست‌وزیری اسرائیل، سفر محرمانه بنیامین نتانیاهو به امارات متحده عربی هم‌زمان با حملات به جمهوری اسلامی را تایید کرده بود. دفتر نتانیاهو اعلام کرده بود او در این سفر با شیخ محمد بن زاید، رئیس امارات متحده عربی، دیدار کرده و این دیدار به «پیشرفتی تاریخی» در روابط دو کشور منجر شده است.
-‏
-‏پیش‌تر نیز گزارش‌هایی درباره انتقال سامانه دفاعی «گنبد آهنین» اسرائیل به امارات منتشر شده بود که مایک هاکبی، سفیر آمریکا در اسرائیل، آن را تایید کرده بود. همچنین گزارش‌هایی درباره مشارکت امارات در حملات علیه جمهوری اسلامی منتشر شده است.
-‏ 
-‏@indypersian
-00:18
 1405/02/24
 
 
@@ -2060,22 +2039,6 @@ src :@Military_Times_Blog
 
 
 src :@BellumActaNews
-‏—❗️🇧🇦/🇺🇸 WATCH: The United States ambassador to the UN Security Council stated that Bosnia and Herzegovina is entering a new stage, emphasizing that the Office of the High Representative (OHR) was never intended to be a permanent institution.  ➡️ The ambassador…
-23:00
-1405/02/23
-
-
-
-
-src :@BellumActaNews
-‏—❗️🇧🇦 Christian Schmidt to step down as High Representative in Bosnia  ✅ @balkanspectator — the leading Balkan news channel in English
-23:00
-1405/02/23
-
-
-
-
-src :@BellumActaNews
 [عکس]
 ‏—❗️🇧🇦 Christian Schmidt to step down as High Representative in Bosnia  ✅ @balkanspectator — the leading Balkan news channel in English
 23:00
@@ -2252,14 +2215,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 22:44
-1405/02/23
-
-
-
-
-src :@World_Newsly
-‏🔴 ونس: در مذاکرات با ایران پبشرفت‌هایی به دست آمده است  معاون دونالد ترامپ، رئیس جمهور دولت آمریکا مدعی شد که در مذاکرات با ایران پبشرفت‌هایی به دست آمده است.  ونس در ادامه مدعی شد که ترامپ گزینه‌های دیپلماتیک و نظامی بسیاری دارد.  ✍🏻 King ▪️@World_Newsly
-22:43
 1405/02/23
 
 
@@ -3018,16 +2973,6 @@ src :@MilitiaNews
 ‏
 ‏@Khashateria_Cata
 21:06
-1405/02/23
-
-
-
-
-src :@ClashReport
-‏The White House is considering having Trump issue 250 pardons to mark America’s 250th birthday, possibly on June 14 or July 4.
-‏
-‏Source: WSJ
-21:05
 1405/02/23
 
 
