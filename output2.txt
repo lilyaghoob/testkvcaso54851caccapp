@@ -1,3 +1,49 @@
+src :@intelslava
+[عکس]
+‏🇮🇷🇦🇪The British report an incident 38 nautical miles northeast of Fujairah, UAE. 
+‏
+‏It is reported that the ship, which was at anchor, was seized by "unknown individuals" and is now heading towards Iran's territorial waters.
+‏
+‏@Intelslava
+12:30
+1405/02/24
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏حملات ارتش اسرائیل به دره بقاع
+‏
+‏@P_raetorio
+12:30
+1405/02/24
+
+
+
+
+src :@intelslava
+‏🇺🇸🇷🇺🇺🇦US Secretary of State Marco Rubio stated that only the United States can act as a mediator in resolving the Russian-Ukrainian conflict.
+‏
+‏@Intelslava
+12:29
+1405/02/24
+
+
+
+
+src :@mwarmonitor
+‏🟥شرکتUKMTO  گزارشی از یک حادثه در ۳۸ مایل دریایی (38NM) شمال شرقی فجیره، امارات متحده عربی دریافت کرده است.
+‏🔸افسر امنیتی شرکت (CSO) گزارش داده است که کشتی در زمان لنگر انداختن توسط افراد غیرمجاز تصرف شده و اکنون به سمت آب‌های سرزمینی ایران در حرکت است.
+‏
+‏
+‏@mwarmonitor
+12:28
+1405/02/24
+
+
+
+
 src :@ClashReport
 ‏Russia is building a “full-fledged partnership” with Afghanistan’s Taliban government, senior Russian official Sergei Shoigu said.
 ‏
@@ -56,6 +102,8 @@ src :@DEJradio
 
 src :@WAR_ROOM_NEWS
 ‏گفته می‌شود گلشیفته فراهانی، بازیگر ایرانی، پیش از کشته شدن قاسم سلیمانی به‌طور مستقیم با او تماس داشته است.نرجس سلیمانی، دختر سلیمانی، در تلویزیون ایران تأیید کرده که فراهانی با فرمانده نیروی قدس سپاه پاسداران تلفنی تماس گرفته، از او به‌عنوان «مدافع ایران» تمجید کرده و درباره مشکلی مربوط به پدرش، بهزاد فراهانی، درخواست کمک کرده است.بر اساس روایت او، سلیمانی این مسئله را حل کرده و به او توصیه کرده است که «پرچم ایران را در خارج از کشور بالا نگه دارد»؛ جمله‌ای که بسیاری آن را به‌عنوان حمایت یا تشویق به دفاع از منافع جمهوری اسلامی در عرصه بین‌المللی تعبیر می‌کنند.برای بسیاری از ایرانیان، ارتباطات بعدی او با چهره‌هایی مانند برنار-آنری لِوی و امانوئل مکرون، ظن و تردیدها را بیشتر کرده و باعث شده برخی او را در حلقه‌های سیاسی و فکری تأثیرگذاری بدانند که نسبت به جمهوری اسلامی رویکردی نرم‌تر دارند و در حفظ وضعیت موجود پیرامون ایران نقش دارند
+‏
+‏بر اساس کتاب جدیدی از روزنامه‌نگار فلوریان تاردیف گفته شده که گلشیفته فراهانی و امانوئل مکرون به‌صورت پشت‌پرده ارتباطی صمیمی/عاطفی داشته‌اند و حتی پیام‌هایی بین آن‌ها رد و بدل شده که در آن مکرون او را «بسیار زیبا» توصیف کرده است. طبق همین روایت، گفته می‌شود همسر مکرون این پیام‌ها را دیده و این موضوع در یک ماجرای جنجالی در سفر به ویتنام هم نقش داشته است.در ادامه نیز اشاره می‌شود که فراهانی به مواضع ضد مداخله‌گرانه در قبال ایران شناخته می‌شود
 12:21
 1405/02/24
 
@@ -1675,17 +1723,6 @@ src :@rnintel
 
 
 
-src :@P_raetorio
-[عکس]
-‏نخست وزیر ژاپن اعلام کرد پس از گفت و گو با رئیس‌جمهور ایران یک کشتی با 4 خدمه این کشور از تنگه هرمز عبور کرد. 
-‏
-‏@P_raetorio
-10:01
-1405/02/24
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏Iranian Foreign Minister Abbas Araghchi landed in Delhi, India today for the BRICS (Brazil, Russia, India, China, and South Africa+) foreign ministers meeting, amidst ongoing but stalled U.S. Iran negotiations. 
@@ -3164,6 +3201,8 @@ src :@RASTAKHIZ_PERSIAN
 ‏سه گیگ ۸۵۰
 ‏چهار گیگ ۱.۱۰۰
 ‏پنج گیگ ۱.۳۰۰
+‏ده گیگ ۲.۲۰۰
+‏
 ‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند
 ‏
 ‏@AtlasRelayFastbot
@@ -4676,18 +4715,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@mwarmonitor
-‏🚨 «شورای صلح» به رهبری آمریکا قصد دارد اجرای طرح خود برای تشکیل یک حکومت جدید و بازسازی غزه را در بخش‌هایی از غزه که تحت کنترل حماس نیست آغاز کند.
-‏
-‏🚨 چرا این مهم است: تصمیم برای رفتن به «طرح B» در غزه پس از آن گرفته شد که تلاش‌ها برای متقاعد کردن حماس به کنار گذاشتن سلاح‌های سنگین خود به بن‌بست رسید. اکنون آمریکا و «شورای صلح» می‌خواهند بدون حضور حماس پیش بروند. باراک راوید خبرنگار آکسیوس 
-‏
-‏@mwarmonitor
-19:49
-1405/02/23
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜یک نکته تکمیلی در مورد خمپاره 60 تانکهای مرکاوا بد نیست بدانید این است که ایده اولیه نصب یک سلاح منحی زدن در داخل تانک به ارتش آلمان نازی برمیگردد.
@@ -5425,25 +5452,6 @@ src :@thewarreporter
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸🇮🇷The New York Times, in its new article, reports interesting figures obtained by American intelligence.
-‏
-‏Thus, it is claimed that Iran has operational access to 30 of its 33 missile bases located along the Strait of Hormuz.
-‏
-‏According to available estimates, Iran has still retained approximately 70% of its mobile launchers across the country and about 70% of its pre-war missile arsenal.
-‏
-‏Iran has already restored access to 90% of its underground missile storage facilities and launchers across the country, which, according to estimates, are in "partially or fully operational condition". These are the same storage facilities, the entrances to which were hit by enemy strikes and the missiles stored there ended up being locked underground.
-‏
-‏Thus, Iran did not waste time and maximally used its window of opportunity to restore its missile arsenal.
-‏
-‏@Intelslava
-16:05
-1405/02/23
-
-
-
-
 src :@Military_Times_Blog
 [عکس]
 ‏یه ددم وایی خاصی تو صورت ترامپ موج میزند. 
@@ -5791,22 +5799,4 @@ src :@mamlekate
 src :@warmonitors
 ‏⚡Al-Mayadeen correspondent: 4 martyrs in the initial toll of the occupation's aggression on two vehicles on the Jiyyeh road in the Chouf district of Mount Lebanon
 12:50
-1405/02/23
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺📢 یک نماینده مجلس:
-‏دولت میزان خسارت در جنگ را ۲۸.۵ میلیارد دلار اعلام کرده است
-‏
-‏میثم ظهوریان، عضو کمیسیون اقتصادی مجلس شواری اسلامی، اعلام کرد گزارش رسمی که دولت مبنا قرار داده و به رهبر جمهوری اسلامی ارائه کرده، میزان خسارت ناشی از جنگ را ۲۸.۵ میلیارد دلار برآورد کرده است.
-‏او با اشاره به جزئیات این گزارش گفت: «حدود ۱۴ میلیارد دلار از این خسارت مربوط به بخش انرژی است.»
-‏به گفته عضو کمیسیون اقتصادی مجلس، از این میزان، حدود هشت میلیارد دلار به بخش گاز مربوط می‌شود که در پی آن ظرفیت تولید کاهش یافته است. همچنین بین پنج تا شش میلیارد دلار به بخش پتروشیمی‌ها آسیب وارد شده است.
-‏میثم ظهوریان افزود: «حدود یک میلیارد دلار از خسارت‌ها نیز به مخازن و خود فرآورده‌ها مربوط است.»
-‏
-‏#جنگ۴۰روزه #جمهوری_اسلامی 
-‏@DEJradio
-12:29
 1405/02/23
