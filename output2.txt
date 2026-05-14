@@ -1,3 +1,52 @@
+src :@Middle_East_Spectator
+‏— 🇺🇸/🇨🇳/🇮🇷 President Trump: ‘Chairman Xi is a great friend of mine. They [China] have promised us they won’t send any weapons to Iran’
+‏
+‏@Middle_East_Spectator
+18:52
+1405/02/24
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇸🇦/🇺🇸/🇮🇷 NEW: Saudi Arabia has told Trump the war in Iran should be ended and the Strait of Hormuz should be opened, citing ‘immeasurable economic losses’ should the situation continue
+‏
+‏@Middle_East_Spectator
+18:50
+1405/02/24
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏⚡️🇺🇸🇮🇷🇱🇧🇵🇸🇾🇪 فرمانده سنتکام، دریادار کوپر گفت که حماس، حزب‌الله و حوثی‌ها دیگر به خطوط تأمین سلاح و پشتیبانی ایران دسترسی ندارند و ارتباط آن‌ها با حمایت‌های تسلیحاتی تهران قطع شده است
+18:49
+1405/02/24
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🇮🇷ایران ادعا می‌کند برای ایجاد آشوب بیشتر در تنگه هرمز، زیردریایی‌های کوچک خود را مستقر کرده است. نیویورک پست
+‏
+‏@mwarmonitor
+18:48
+1405/02/24
+
+
+
+
+src :@P_raetorio
+‏⭕️ارتش اسرائیل می‌گوید نیرو‌های حزب‌الله امروز دو بار تلاش کردند پهپاد اسرائیلی را سرنگون کنند که هردو دفعه شکست خوردند. مدتی بعد از شلیک موشک زمین به هوا افرادی که این عمل را انجام دادند شناسایی و هدف قرار گرفتند. 
+‏
+‏@P_raetorio
+18:47
+1405/02/24
+
+
+
+
 src :@cataphract1
 ‏⚜فایننشال تایمز گزارش داده عربستان سعودی به دنبال امضای پیمان عدم تجاوز با ایران است
 ‏با وجود حملات به پایگاه‌های نظامی عربستان، دو کشور روابط دیپلماتیک خود را حفظ کرده‌اند
@@ -1119,15 +1168,6 @@ src :@tabzlive
 ‏➡️ The anti-corruption court set bail at 140 million hryvnias ($3.2 million), allowing his release pending a final ruling.
 ‏
 ‏➡️ Yermak denied the allegations, saying he could not afford the bail and that his legal team would appeal the decision.
-17:26
-1405/02/24
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israel's Defense Minister attacks Lamine Yamal.
 17:26
 1405/02/24
 
@@ -2472,16 +2512,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 14:40
-1405/02/24
-
-
-
-
-src :@mwarmonitor
-‏🇨🇳🇺🇸دونالد ترامپ، رئیس‌جمهور چین، شی جین‌پینگ را برای بازدید از کاخ سفید در تاریخ ۲۴ سپتامبر دعوت کرد.
-‏
-‏@mwarmonitor
-14:38
 1405/02/24
 
 
@@ -4970,25 +5000,6 @@ src :@Military_Times_Blog
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏There is this LLM (Large Language Model, basically an AI) that’s only trained on pre 1930s content.  It’s so funny to see all the responses.
-22:58
-1405/02/23
-
-
-
-
-src :@Middle_East_Spectator
-‏There is this LLM (Large Language Model, basically an AI) that’s only trained on pre 1930s content.
-‏
-‏It’s so funny to see all the responses.
-22:58
-1405/02/23
-
-
-
-
 src :@MilitiaNews
 ‏🇺🇸🇮🇹⚡️ایتالیا اعلام کرد به آمریکا در تنگه هرمز کمک میکند
 ‏
@@ -5030,14 +5041,6 @@ src :@IRRadar
 ‏
 ‏📡 @IRRadar
 22:30
-1405/02/23
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏لبنان شکایتی به شورای امنیت سازمان ملل علیه ایران ارائه داد با این مضمون که ایران در امور داخلی این کشور دخالت می‌کند
-22:25
 1405/02/23
 
 
@@ -5624,21 +5627,4 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 18:56
-1405/02/23
-
-
-
-
-src :@defence_news
-‏⚜اکنون در کارخانه شرکت چنگدو، وسایل نقلیه بدون سرنشین برای حمل مواد، دستگاه‌های برش دقیق برای قطعات، سیستم‌های هوشمند اسکن و ربات‌هایی برای کنترل کیفیت محصولات و تهیه گزارش‌ها به کار گرفته شده‌اند.
-‏
-‏⚜بر اساس اطلاعات منتشر شده، بهره‌وری تولید ۱۵۰٪ افزایش یافته و حجم نیروی انسانی ۸۰٪ کاهش یافته است، اگرچه هنوز کارگران برای مونتاژ نهایی هواپیماها لازم هستند.
-‏
-‏⚜در آینده، کارخانه قصد دارد با استفاده از فناوری‌های 5G، هوش مصنوعی و سیستم‌های مدل‌سازی دیجیتال سرعت تولید را بالا ببرد.
-‏
-‏⚜در سال 2025 تعداد جنگنده‌های J-20 در خدمت ارتش چین حدود 300 فروند برآورد شده بود.اما اکنون توسعه رباتیک تا سال 2030 این تعداد ممکن است به 1000 فروند افزایش یابد.
-‏
-‏✒️#MS3
-‏📃@Cataphract1
-18:49
 1405/02/23
