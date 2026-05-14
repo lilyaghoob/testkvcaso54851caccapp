@@ -1,3 +1,14 @@
+src :@ClashReport
+[عکس]
+‏Israel is distributing anti-drone netting to its forces in southern Lebanon to counter Hezbollah FPV drones.
+‏
+‏158,000 square meters deployed so far, with another 188,000 on order.
+21:24
+1405/02/24
+
+
+
+
 src :@cataphract1
 [عکس]
 ‏⚜تصویر جدید که شرکت BAE systems از سامانه توپخانه‌ای چند دامنه (MDACS) در حال گذراندن تست منتشر کرده است. تصویر اول - به منظور بررسی این سامانه در حین انتقال با هواپیما های ترابری از جمله هواپیماهای ترابری C-130 انجام شده است.
@@ -1856,17 +1867,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:39
-1405/02/24
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇺⚡️ — The U.S. military and intelligence agencies have expanded surveillance operations around Cuba in recent weeks, deploying aircraft including the P-8 Poseidon, RC-135, and MQ-4C Triton as part of what officials expect to become a broader U.S. military buildup in the Caribbean, according to NYT.
-‏
-‏➡️ The missions are intended to gather intelligence and increase political pressure on Cuba rather than signal an imminent invasion.
-18:38
 1405/02/24
 
 
@@ -5439,36 +5439,4 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 21:32
-1405/02/23
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏تصاویر ماهواره سنتینل-۲ از جزیره خاک نشان می‌دهد که آلودگی نفتی در اطراف جزیره همچنان وجود دارد 
-‏
-‏از طرفی هیچ نفتکشی در بندر این جزیره وجود ندارد که احتمالا به مفهوم توقف صادرات نفت از این جزیره باشد.
-21:25
-1405/02/23
-
-
-
-
-src :@Military_Times_Blog
-‏در دور جدید درگیری‌ها(اگر اتفاق بیافتد) کشورهای عربی کاملا در بطن درگیری هستند. 
-‏
-‏
-‏🆔@Military_Times_Blog
-21:24
-1405/02/23
-
-
-
-
-src :@MilitiaNews
-‏🇨🇳🇮🇷⚡️به گزارش NBC به نقل از داده های ناوبری، چندین کشتی باری و نفتکش مرتبط با چین در ۲۴ ساعت گذشته از تنگه هرمز عبور کرده اند.
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-21:23
 1405/02/23
