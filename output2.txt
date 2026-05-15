@@ -2345,21 +2345,6 @@ src :@mwarmonitor
 
 
 
-src :@ClashReport
-[عکس]
-‏UAE commentator Abdulkhaleq Abdulla:
-‏
-‏The UAE categorically denies that war criminal Netanyahu ever visited the UAE at any time. 
-‏
-‏There is no welcome whatsoever for a war criminal and the killer of Gaza's children on the pure soil of the Emirates. 
-‏
-‏The visit that Netanyahu is talking about is a fabrication from his sick imagination, and it is well known that he is a prolific liar who released this lie to serve opportunistic electoral purposes.
-22:11
-1405/02/24
-
-
-
-
 src :@didarnews1
 ‏🔴رویترز: آرامش فریبنده بازار نفت دوام نخواهد داشت
 ‏
