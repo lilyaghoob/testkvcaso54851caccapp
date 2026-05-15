@@ -1,3 +1,19 @@
+src :@MilitiaNews
+‏🇺🇸🇹🇼⚡️ترامپ در مورد تایوان:
+‏
+‏ وقتی به احتمالات نگاه می‌کنید، چین یک کشور بسیار بسیار قدرتمند و بزرگ است. این یک جزیره بسیار کوچک است.
+‏
+‏ به آن فکر کنید؛ ۵۹ مایل دورتر است. ما ۹۵۰۰ مایل دورتر هستیم. این کمی مشکل است.
+‏
+‏ اگر به تاریخ نگاه کنید، تایوان توسعه یافت زیرا ما روسای جمهوری داشتیم که نمی‌دانستند چه کار می‌کنند. آنها صنعت تراشه ما را دزدیدند.
+‏
+‏@MilitiaNews | میلیشا را دنبال کنید
+02:06
+1405/02/26
+
+
+
+
 src :@BellumActaNews
 ‏🇺🇸🇮🇶🪖 — USAF Activity over Erbil, Kurdistan Region of Iraq
 ‏
@@ -1030,17 +1046,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — U.S. officials suspect Iranian-linked hackers may be behind a series of cyber intrusions targeting fuel monitoring systems at gas stations across multiple states, according to CNN.
-‏
-‏➡️ The hackers exploited automatic tank gauge systems that were connected to the internet without password protection, allowing them to manipulate displayed fuel readings — though not the actual fuel levels.
-23:42
-1405/02/25
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- Iranian hackers have breached gas station tank readers in several U.S. states. - CNN.
 23:42
@@ -1251,19 +1256,6 @@ src :@VahidOnline
 
 src :@naya_foriraq
 ‏🇺🇸سي إن إن: قراصنة يخترقون أجهزة قراءة خزانات الوقود في محطات الوقود الأمريكية؛ ويشتبه المسؤولون في أن إيران هي المسؤولة.
-23:24
-1405/02/25
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: Iranian hackers broke into U.S. gas station fuel monitors by exploiting a trivial flaw: no passwords. 
-‏
-‏They faked the readings but couldn't touch actual fuel levels. 
-‏
-‏Source: CNN
 23:24
 1405/02/25
 
@@ -1887,18 +1879,6 @@ src :@World_Newsly
 ‏✍🏻 Admin
 ‏▪️@World_Newsly
 22:04
-1405/02/25
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴  قیمت جهانی نفت هم اکنون دبه‌ای ۱۰۹ دلار!
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-22:03
 1405/02/25
 
 
@@ -2749,15 +2729,6 @@ src :@cataphract1
 src :@naya_foriraq
 [عکس]
 ‏السياسي العراقي حامد السيد يؤشر بخلل بموقع رئاسة الجمهورية !
-20:36
-1405/02/25
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇮🇳🤝🇦🇪 — Today, 15 May 2026, Indian Prime-Minister Narendra Modi did a short trip for the United Arab Emirates, where he spoke with His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates at the Emirate of Abu Dhabi  ➡️ During…
 20:36
 1405/02/25
 
@@ -3679,17 +3650,6 @@ src :@bricsnews
 
 
 
-src :@cataphract1
-[عکس]
-‏⚜به گزارش رویترز،هند و امارات متحده عربی در جریان سفر نخست وزیر مودی، بر سر یک همکاری دفاعی استراتژیک جدید توافق کرده و قراردادهای کلیدی انرژی برای نفت و گاز مایع امضا کرده‌اند. در بحبوحه جنگ ایران، دو کشور همکاری خود را در زمینه امنیت دریایی، دفاع سایبری، فناوری پیشرفته و آموزش نظامی مشترک تعمیق خواهند بخشید.
-‏✒️#LT
-‏📃@Cataphract1
-17:40
-1405/02/25
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨📢 دونالد ترامپ:
@@ -3742,24 +3702,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 17:35
-1405/02/25
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜️ اولین تصویر دیده شده از حمل موشک AIM-260 JATM توسط سوپر هورنت نیروی دریایی آمریکا. 
-‏
-‏💢https://t.me/cataphract1/52435
-‏
-‏💢https://t.me/cataphract1/9715
-‏
-‏💢https://t.me/cataphract1/52428
-‏
-‏🖋#Delta_Dynamics
-‏📃@Cataphract1
-17:30
 1405/02/25
 
 
