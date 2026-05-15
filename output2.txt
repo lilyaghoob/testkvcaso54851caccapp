@@ -1,3 +1,16 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸 — A U.S. Navy F/A-18F "Super Hornet" fighter jet belonging to Air Test and Evaluation Squadron 31 has been photographed equipped with one AIM-260A Joint Advanced Tactical Missile at Eglin Air Force Base. 
+‏
+‏The AIM-260A JATM is intended to succeed the AIM-120 AMRAAM as the next beyond-range air-to-air missile for US fighter jets. The AIM-260A's operational range is 200km, more than double than both the AIM-120 variants currently in service, and is being built as a response to advancements in beyond-range air-to-air missiles by Russia and China.
+‏
+‏@GeoPWatch
+02:26
+1405/02/26
+
+
+
+
 src :@World_Newsly
 ‏🔴 ترامپ درباره امنیت تایوان بعد از دیدار با شی: خنثی
 ‏
@@ -1266,17 +1279,6 @@ src :@BellumActaNews
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🇺🇸- Images of U.S. Navy MH-60R SeaHawk helicopters from Helicopter Maritime Strike Squadron (HSM) 50, also known as the "Valkyries," landing on the flight deck of the Arleigh Burke-class guided-missile destroyer USS Thomas Hudner (DDG 116) on May 14th, in the Arabian Sea.
-‏
-‏@GeoPWatch
-23:19
-1405/02/25
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️وزیر دفاع پاکستان : نتانیاهو مایه شرمساری بشریته. 
 ‏
@@ -2435,14 +2437,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:01
-1405/02/25
-
-
-
-
-src :@MilitarryWorld
-‏⭕️هم اکنون گزارش ها از ترور بسیار بزرگ در غزه.  @MilitarryWorld | Parsa
-20:52
 1405/02/25
 
 
