@@ -1541,19 +1541,6 @@ src :@BellumActaNews
 
 
 
-src :@IranintlTV
-[عکس]
-‏هر کدام از این نام‌ها، روایت جوانی‌ست که می‌توانست زندگی کند، کار کند، عاشق شود و آینده‌ای بسازد؛ اما گلوله سرکوب مسیر زندگی‌شان را قطع کرد.
-‏جاویدنامان انقلاب ملی ایرانیان فقط نام‌های ثبت‌شده در یک فهرست نیستند؛ حافظه زخمی نسلی‌اند که بهای آزادی را با جان خود پرداخت.
-‏عرفان علیزاده، علی‌اصغر محمدی چمستان، مبین فیلی، علیرضا موسی‌نیا، محمدامین قبادی، علی زنگنه، امیررضا حسنوند و محمدرضا سعیدی؛
-‏نام‌هایی که از خیابان‌های ایران پاک نشدند و در حافظه جمعی این سرزمین باقی خواهند ماند.
-‏#جاویدنامان_انقلاب_ملی_ایرانیان
-03:34
-1405/02/25
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇨🇴🇻🇪FBI Director Patel announced the extradition of Jose Enrique Martinez Flores, also known as “Chuqui”, describing him as the highest-ranking member of the Venezuelan gang Tren de Aragua ever brought to justice in the U.S.
