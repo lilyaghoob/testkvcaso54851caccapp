@@ -2155,15 +2155,6 @@ src :@thewarreporter
 
 
 
-src :@BellumActaNews
-[عکس]
-‏➡️ Meanwhile, Iran also seized the Honduran-flagged, Chinese-owned Hui-Chuan, a floating armory that supplied weapons to security firms conducting anti-piracy operations in the region.
-22:03
-1405/02/24
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇷 Iran calls on all BRICS nations to condemn US-Israeli war against them.
