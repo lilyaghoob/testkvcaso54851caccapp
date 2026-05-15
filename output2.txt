@@ -2295,19 +2295,6 @@ src :@MilitiaNews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇵🇱🏳️‍🌈⚡️ — Poland registered its first same-sex marriage on Thursday after EU and Polish court rulings required recognition of same-sex marriages performed abroad.
-‏
-‏“This morning we issued the first transcription of a marriage certificate for a same-sex couple, in accordance with the court rulings,” said Warsaw Mayor Rafał Trzaskowski.
-‏
-‏The Warsaw mayor also said the city would begin proactively recognizing other same-sex marriages registered elsewhere in the EU, even without separate court rulings.
-21:29
-1405/02/24
-
-
-
-
 src :@MilitiaNews
 ‏🇮🇷🇺🇸🇮🇱⚡️ کان نیوز اسرائیل :  رئیس‌جمهور ترامپ پس از بازگشت از سفر به چین تصمیم خواهد گرفت که آیا عملیات نظامی علیه ایران را از سر بگیرد یا خیر
 ‏
@@ -3181,16 +3168,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Middle_East_Spectator
-‏— 🇸🇦/🇺🇸/🇮🇷 NEW: Saudi Arabia told Trump the war in Iran should be ended and the Strait of Hormuz should be open, citing ‘immeasurable economic losses’ if the situation continues
-‏
-‏@Middle_East_Spectator
-18:50
-1405/02/24
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏⚡️🇺🇸🇮🇷🇱🇧🇵🇸🇾🇪 فرمانده سنتکام، دریادار کوپر گفت که حماس، حزب‌الله و حوثی‌ها دیگر به خطوط تأمین سلاح و پشتیبانی ایران دسترسی ندارند و ارتباط آن‌ها با حمایت‌های تسلیحاتی تهران قطع شده است
 18:49
@@ -3252,14 +3229,6 @@ src :@tglobaleye
 
 src :@mwarmonitor
 ‏🔴«یک مقام آمریکایی گفت که ایران حدود ۷۵ درصد از موجودی پیش از جنگِ پرتابگرهای متحرک خود و حدود ۷۰ درصد از ذخایر موشکی پیش از جنگ خود را همچنان حفظ کرده است.» واشنگتن پست   @mwarmonitor
-18:42
-1405/02/24
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇮🇷/🇸🇦 NEW: Saudi Arabia wants to sign a non-aggression pact with Iran  @Middle_East_Spectator
 18:42
 1405/02/24
 
