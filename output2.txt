@@ -1,6 +1,10 @@
-src :@naya_foriraq
-‏رويترز: العقود الآجلة للنفط الخام ترتفع بأكثر من دولارين للبرميل بعد إعلان ترمب التوصل لاتفاقيات مع الصين
-09:36
+src :@ClashReport
+‏Pentagon officials and NATO allies reacted with shock and confusion after Defense Secretary Pete Hegseth abruptly canceled a planned deployment of 4,000 U.S. troops to Poland.
+‏
+‏“We had no idea this was coming,” one U.S. official said, describing frantic calls between American and European officials trying to determine “if more surprises are coming.”
+‏
+‏Source: POLITICO
+09:39
 1405/02/25
 
 
@@ -1360,14 +1364,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇺🇸⚡️- President Trump’s Justice Department is considering settling a $10 billion lawsuit Trump has against the IRS, potentially resulting in a $10 billion payout to Trump from taxpayer funds, per CNN.
-04:07
-1405/02/25
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇮🇷WSJ: Senior Pentagon officials have warned that the war involving Iran is draining funds from other critical US military priorities, with operational budgets under growing strain from combat costs and expanded deployments.
@@ -2634,19 +2630,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[عکس]
-‏Hungarian PM Péter Magyar:
-‏
-‏As of today, after four years, the wartime state of emergency in Hungary is ending, and with it we are also putting an end to the decree-based emergency rule introduced by the Orbán government six years ago.
-‏
-‏We are returning to normality.
-22:18
-1405/02/24
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️اسرائیل معتقد است که رئیس‌جمهور ترامپ پس از بازگشت از سفر به چین تصمیم خواهد گرفت که آیا عملیات نظامی علیه ایران را از سر بگیرد یا خیر، طبق گزارش کان نیوز.
 ‏
@@ -2845,6 +2828,16 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 21:11
+1405/02/24
+
+
+
+
+src :@naya_foriraq
+‏🏴‍☠️النتن ياهو: نقول للعالم أجمع إن القدس ستظل عاصمتنا الأبدية والتاريخية.
+‏
+‏‏أبعدنا خطرا وجوديا يتمثل في القنابل النووية والصواريخ الباليستية الإيرانية.
+21:10
 1405/02/24
 
 
@@ -3111,16 +3104,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 20:10
-1405/02/24
-
-
-
-
-src :@MilitarryWorld
-‏⭕️ایالات متحده موفق شد اورانیوم بسیار غنی شده را از رآکتور هسته ای برای اهداف تحقیقاتی در ونزوئلا خارج کند
-‏
-‏@MilitarryWorld | Parsa
-20:09
 1405/02/24
 
 
