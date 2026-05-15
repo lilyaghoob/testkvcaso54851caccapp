@@ -2,7 +2,9 @@ src :@GeoPWatch
 [عکس]
 ‏🇺🇸 — A U.S. Navy F/A-18F "Super Hornet" fighter jet belonging to Air Test and Evaluation Squadron 31 has been photographed equipped with one AIM-260A Joint Advanced Tactical Missile at Eglin Air Force Base. 
 ‏
-‏The AIM-260A JATM is intended to succeed the AIM-120 AMRAAM as the next beyond-range air-to-air missile for US fighter jets. The AIM-260A's operational range is 200km, more than double than both the AIM-120 variants currently in service, and is being built as a response to advancements in beyond-range air-to-air missiles by Russia and China.
+‏The AIM-260A JATM is intended to succeed the AIM-120 AMRAAM as the next beyond-range air-to-air missile for US fighter jets. The AIM-260A's operational range is at least 200km, more than double than both the AIM-120 variants currently in service, and is being built as a response to advancements in beyond-range air-to-air missiles by Russia and China.
+‏
+‏Most information on the AIM-260A, other than the range increase, is classified.
 ‏
 ‏@GeoPWatch
 02:26
@@ -2314,18 +2316,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Maverick
 21:11
-1405/02/25
-
-
-
-
-src :@MilitarryWorld
-‏🚨رئیس جمهوری‌خواه مجلس نمایندگان آمریکا: عملیات «خشم حماسی» آمریکا علیه ایران به پایان رسیده و ایالات متحده هم‌اکنون به دنبال بازگشایی تنگه هرمز است.
-‏
-‏دولت آمریکا در حال حاضر به جای اقدام نظامی، در حال مذاکره با ایران است.
-‏
-‏@MilitarryWorld | Parsa
-21:09
 1405/02/25
 
 
