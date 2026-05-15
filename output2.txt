@@ -1,3 +1,37 @@
+src :@Indypersian
+[عکس]
+‏♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، در پایان نشست وزرای خارجه «بریکس» در دهلی‌نو اعلام کرد که صدور بیانیه پایانی این نشست به دلیل مخالفت یکی از اعضا که «روابط خاصی با اسرائیل دارد»، متوقف شده است. اگرچه عراقچی مستقیما نامی از امارات متحده عربی نبرد، اما تاکید کرد که این کشور به دلیل حمایت از اسرائیل و ایالات متحده در درگیری‌های اخیر، مانع تصویب بخش‌هایی از بیانیه شده است.
+‏
+‏وزیر خارجه جمهوری اسلامی با «تاسف‌بار» خواندن این اقدام، ادعا کرد که ایران در طول جنگ جاری هیچ اختلافی با امارات نداشته و تنها پایگاه‌های نظامی آمریکا را هدف قرار داده است.
+‏
+‏عراقچی در ادامه ابراز امیدواری کرد که مقامات ابوظبی تا نشست سران بریکس به این درک برسند که ایران همسایه‌ای دائمی است و دو کشور باید قرن‌ها در کنار هم زندگی کنند.
+‏
+‏همزمان با این اظهارات، بلومبرگ در گزارشی جدید به نقل از منابع آگاه اعلام کرد که امارات در دوران جنگ تلاش کرده است که با جلب حمایت عربستان سعودی و قطر، حملات مشترکی علیه ایران انجام دهد؛ پیشنهادی که با مخالفت صریح ریاض و دوحه مواجه شده است.
+‏
+‏@indypersian
+18:51
+1405/02/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏بر اساس اعلام سنتکام ،از زمان آغاز محاصره دریایی کشتی‌های مرتبط با بنادر ایران، تاکنون ۷۵ کشتی مسیر خود را تغییر داده‌اند. همچنین نیروهای آمریکایی برای اجرای روند محاصره ۴ کشتی را هدف قرار داده و از کار انداختند
+18:50
+1405/02/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli warplanes carried out airstrikes on Arab al-Jal, Arabsalim, and Kfar Tebnit in southern Lebanon a short while ago.
+18:49
+1405/02/25
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏تصویر از یک سیستم پدافند هوایی توسعه یافته در روسیه برای مقابله با پهپاده متشکل از ۴ مسلسل ۷.۶۲ میلیمتری به همراه یک سامانه اپتیکی برای هدایت آتش پشت یک کامیون
@@ -1050,17 +1084,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-[عکس]
-‏🇩🇪📞🇺🇸 — German Chancellor Friedrich Merz spoke with President Trump, with both leaders agreeing that Iran must resume negotiations, reopen the Strait of Hormuz, and be prevented from acquiring nuclear weapons.
-‏
-‏➡️ The two also coordinated on Ukraine ahead of the upcoming NATO summit in Ankara, with Merz emphasizing that the U.S. and Germany remain “strong partners in a strong NATO.”
-17:03
-1405/02/25
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏مجتبی خامنه‌ای در پیامی منتسب به او به مناسبت روز پاسداشت زبان فارسی و بزرگداشت فردوسی، زبان فارسی را یکی از پایه‌های هویت ایرانیان توصیف کرد و گفت تقویت این زبان می‌تواند به گسترش «تمدن ایرانی‌اسلامی» کمک کند. 
@@ -1218,17 +1241,6 @@ src :@World_Newsly
 ‏✍🏻 Gladiator
 ‏▪️@World_Newsly
 16:48
-1405/02/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇹🇷🇬🇷🇨🇾⚡️ — Turkey's ruling AK Party is drafting legislation that would give President Erdoğan authority to declare a 200-nautical-mile exclusive economic zone off Turkey’s coastline, according to Bloomberg.
-‏
-‏➡️ The proposed law would allow Erdoğan to assert Turkish rights over fishing, mining, drilling, and marine park development in the Aegean and Eastern Mediterranean.
-16:46
 1405/02/25
 
 
@@ -2762,20 +2774,6 @@ src :@rnintel
 ‏
 ‏The build-up consists of Emirati officers, Khalifa Haftar's run Libyan National Army elements, pro-Haftar Chadian militias, and the Rapid Support Forces. The Sudan-Chad-Libya-Egypt border point is currently under the control of the Rapid Support Forces and remains one of the key logistical support routes for the group.
 13:51
-1405/02/25
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی، روز جمعه ۲۵ اردیبهشت ماه گفت «قدرت ایمان» جنگنده اف-۵ ایران را به مواضع نیروهای آمریکایی در کویت رسانده و از «پیشرفته‌ترین سامانه‌های پدافندی زمین‌پایه و هوایی» آنها عبور کرده است.
-‏پیشتر شبکه خبری ان‌بی‌سی نیوز گزارش کرده بود که در روزهای ابتدایی جنگ یک جنگنده اف‌ــ۵ ایرانی توانسته است از سامانه‌های پدافندی عبور کند و پایگاه کمپ بوهرینگ در کویت را هدف قرار دهد.
-‏جنگنده‌های ۶۰ ساله اف-۵ ارتش ایران، در دوره محمدرضا شاه خریداری شدند.
-‏حاتمی در ادامه گفت: «نیروهای مسلح با تمام قوا از تمامیت ارضی، استقلال کشور و نظام جمهوری اسلامی ایران پاسداری خواهند کرد.»
-‏
-‏@indypersian
-13:50
 1405/02/25
 
 
@@ -5079,12 +5077,4 @@ src :@thewarreporter
 src :@warmonitors
 ‏⚡Israeli Media: “Hezbollah attempted to hit an IAF aircraft twice today using small surface-to-air missiles - and failed. In addition, the rocket and mortar launches at our fighters in southern Lebanon continued as usual.”
 18:55
-1405/02/24
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏⚡️🇺🇸🇮🇷🇱🇧🇵🇸🇾🇪 فرمانده سنتکام، دریادار کوپر گفت که حماس، حزب‌الله و حوثی‌ها دیگر به خطوط تأمین سلاح و پشتیبانی ایران دسترسی ندارند و ارتباط آن‌ها با حمایت‌های تسلیحاتی تهران قطع شده است
-18:49
 1405/02/24
