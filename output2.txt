@@ -1,5 +1,35 @@
+src :@Indypersian
+[عکس]
+‏♦️مارکو روبیو، وزیر امور خارجه ایالات متحده، روز پنجشنبه ۲۴ اردیبهشت‌ماه در گفتگو با شبکه ان‌بی‌سی نیوز، در جریان سفر خود به پکن، گفت تنگه هرمز باز خواهد شد و قیمت نفت و گاز کاهش می‌یابد، اما هشدار داد ایران هسته‌ای «بهای سنگینی» خواهد داشت.
+‏
+‏روبیو گفت: «ما اقدام‌های فوق‌العاده‌ای انجام داده‌ایم تا قیمت گاز از آنچه در برخی نقاط دیگر جهان دیده می‌شود پایین‌تر بماند، و این قیمت‌ها باز هم کاهش خواهد یافت.»
+‏
+‏او افزود: «آن تنگه‌ها باز خواهند شد و شاهد کاهش این قیمت‌ها خواهیم بود.»
+‏
+‏وزیر امور خارجه آمریکا گفت به‌دلیل متوقف ماندن صادرات و انباشت نفت جمهوری اسلامی، حجم بزرگی از نفت هنوز وارد بازار جهانی نشده و با بازگشت این نفت به بازار، قیمت جهانی انرژی کاهش خواهد یافت.
+‏
+‏روبیو همچنین هشدار داد دستیابی جمهوری اسلامی به سلاح هسته‌ای می‌تواند به تهران امکان دهد مسیرهای حیاتی کشتیرانی و انتقال نفت، از جمله تنگه هرمز، را تحت فشار یا کنترل خود قرار دهد؛ موضوعی که به گفته او می‌تواند امنیت انرژی جهان را با بحران روبه‌رو کند.
+‏
+‏ 
+‏@indypersian
+04:51
+1405/02/25
+
+
+
+
 src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷/🇨🇳 President Trump: ‘I told China that Iran cannot have a nuclear weapon, because they’re crazy people. They would have immediately nuked Israel.’
+‏— 🇺🇸/🇮🇷 President Trump: ‘Gas prices have only risen by a very small amount, and they’ll come down quickly’
+‏
+‏@Middle_East_Spectator
+04:49
+1405/02/25
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇺🇸/🇮🇷/🇨🇳 President Trump: ‘I told China that Iran cannot have a nuclear weapon, because they’re crazy people. They would have immediately nuked Israel and America.’
 ‏
 ‏@Middle_East_Spectator
 04:47
@@ -1799,21 +1829,6 @@ src :@jangaavaran1390
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دریادار برد کوپر، فرمانده ستاد مرکزی نیروهای مسلح آمریکا (سنتکام)، روز پنجشنبه ۲۴ اردیبهشت در کمیته نیروهای مسلح سنا اعلام کرد که نیروهای آمریکایی استفاده از مهمات پیشرفته و گران‌قیمت برای سرنگونی پهپادهای جمهوری اسلامی را متوقف کرده‌اند.
-‏
-‏ذخایر محدود سامانه‌های تسلیحاتی گران‌قیمت این کشور، از جمله موشک‌های رهگیر پیشرفته، در طول جنگ با جمهوری اسلامی به موضوعی بحث‌برانگیز تبدیل شده بود. پیش از این، نیروهای آمریکایی از این تسلیحات برای مقابله با پهپادهای ایرانی استفاده می‌کردند، اما کوپر می‌گوید ارتش آمریکا اکنون به استفاده از مهمات ارزان‌تر روی آورده است.
-‏
-‏این دریادار ارشد خاطرنشان کرد که تنها ۱۰ درصد از پهپادهای ایران باقی مانده است.
-‏
-‏@INDYPERSIAN
-23:21
-1405/02/24
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The Federal Bureau of Investigation (FBI) is offering a $200,000 reward for information leading to the arrest and prosecution of Monica Witt, a former U.S. service member and counterintelligence agent.
@@ -3368,16 +3383,6 @@ src :@Mena_Live
 src :@WAR_ROOM_NEWS
 ‏ترامپ: رئیس‌جمهور چین پیشنهاد کمک درباره موضوع ایران را مطرح کرد
 18:22
-1405/02/24
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇮🇷/🇸🇦 NEW: Saudi Arabia wants to sign a non-aggression pact with Iran
-‏
-‏@Middle_East_Spectator
-18:16
 1405/02/24
 
 
