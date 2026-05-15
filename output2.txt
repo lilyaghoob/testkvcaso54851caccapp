@@ -1901,16 +1901,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@BellumActaNews
-‏🇺🇸🇨🇺🛬❗️ — Netizens report that a United States Government's plane landed at the Havana International Airport, as nationwide protests against the Communist Regime and widespread energy outages grip the nation
-‏
-‏@BellumActaNews
-23:44
-1405/02/24
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⭕️ با طرح سه مرحله ای ارائه شده توسط ترامپ و روبیو ونزوئلا تمامی اورانیوم های خودش رو تسلیم آمریکا کرد‌  ☢ بر اساس گزارشات موجود ونزوئلا در حدود 13.5Kg اورانیوم غنی شده با غنای 20 درصد داشت که بعد از دستگیری مادورو توسط ارتش آمریکا پروسه خارج سازی آنها آغاز…
@@ -4346,20 +4336,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 14:35
-1405/02/24
-
-
-
-
-src :@didarnews1
-‏🔴اسکات بسنت، وزیر خزانه‌داری آمریکا  در مصاحبه با سی‌ان‌بی‌سی:
-‏
-‏🔹بازگشایی تنگه هرمز به نفع چین است و چین در پشت صحنه و تا جایی که بر جمهوری اسلامی نفوذ داشته باشد، برای بازگشایی تنگه هرمز همکاری خواهد کرد.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-14:24
 1405/02/24
 
 
