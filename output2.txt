@@ -1,3 +1,65 @@
+src :@Mena_Live
+‏Hezbollah: We intercepted an Israeli helicopter with a surface-to-air missile in the skies over the town of Al-Bayada in southern Lebanon, and forced it to withdraw.
+‏
+‏@Mena_Live
+18:15
+1405/02/25
+
+
+
+
+src :@selena_updates
+[عکس]
+‏According to U.S. Central Command, since the start of the U.S. blockade of vessels traveling to and from Iranian ports, 75 vessels have been redirected and 4 vessels have been subjected to disabling fire to ensure compliance.
+18:14
+1405/02/25
+
+
+
+
+src :@Military_Times_Blog
+[عکس]
+‏نظر آمریکایی‌ها دربارهٔ آمریکا: خیر یا شر؟
+‏
+‏▪️۵۱٪ از آمریکایی‌ها ایالات متحده را «نیرویی برای خیر در جهان» می‌دانند
+‏
+‏▪️در مقابل، ۲۴٪ آن را «نیرویی برای شر» تلقی می‌کنند
+‏
+‏تفکیک حزبی:
+‏
+‏▪️جمهوری‌خواهان: ۷۴٪ «نیروی خیر» در برابر ۱۲٪ «نیروی شر»
+‏
+‏▪️دموکرات‌ها: ۳۴٪ «خیر»، ۳۶٪ «شر»،
+‏
+‏در میان جمهوری‌خواهان، دیدگاه «نیرویی برای خیر» بسیار قوی است (اختلاف خالص +۶۲)
+‏در میان دموکرات‌ها، برعکس، تمایل اندکی به سمت «نیرویی برای شر» دیده می‌شود (اختلاف خالص +۲)
+‏
+‏یعنی یک اکثریت از دموکرات‌ها آمریکا رو نیرویی شر در جهان می‌دونند (به همین دلیل به حزب دموکرات‌ها می‌گم حزب "متنفران از آمریکا")
+‏
+‏نکته: این دیدگاه البته تحت تأثیر مسائل حزبی هم هست. یعنی اگر یک دموکرات رئیس‌جمهور بود درصد کمتری از دموکرات‌ها آمریکا رو شر می‌دونستند، منتها این قضیه در نهایت فرقی نمی‌کنه، چون یعنی آمریکا یک نیروی شره که ما دموکرات‌ها مهارش می‌کنیم، وقتی ما در قدرت نیستیم مهاری هم بر این شر نیست. در نهایت بله... حزب دموکرات حزب آمریکابیزارانه.
+‏
+‏
+‏این یک نظرسنجی رو موسسه RMG Research در تاریخ ۲۹ تا ۳۰ آوریل ۲۰۲۶ روی ۱۰۰۰ رأی‌دهنده ثبت‌نام‌شده انجام داده
+‏
+‏@Garajetadayoni | گاراژ
+18:12
+1405/02/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇬🇷🇹🇷 Proto Thema: Greece has called on the European Union to intervene over what it says is illegal fishing and maritime law violations by Turkish fishermen.
+‏
+‏Greek Maritime Affairs Minister Vasilis Kikilias accused Turkey of disregarding the law of the sea and challenging Greek sovereign rights during talks with EU Oceans and Fisheries Commissioner Kostas Kadis.
+‏
+‏@wfwitness
+18:12
+1405/02/25
+
+
+
+
 src :@mwarmonitor
 ‏🇦🇪معالی خلیفه بن شاهین المرر، وزیر مشاور، در نشست وزیران امور خارجه گروه بریکس که در دهلی نو در جمهوری هند برگزار شد، شرکت کرد.
 ‏🇦🇪وی در جریان این نشست، مخالفت قاطع دولت امارات متحده عربی را با ادعاهای طرف ایرانی و تلاش‌ها برای توجیه حملات تروریستی ایران که امارات و کشورهای برادر و دوست در منطقه را هدف قرار داده است، اعلام کرد؛ اقداماتی که نقض آشکار منشور سازمان ملل متحد، حقوق بین‌الملل و اصول حسن همجواری به‌شمار می‌آید.
@@ -84,6 +146,8 @@ src :@Mena_Live
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 وضعیت سالن ۱۲ هزارنفری آزادی پس از بمباران در جریان جنگ ۴۰ روزه
+‏
+‏#خبر
 ‏
 ‏@RASTAKHIZ_PERSIAN
 18:06
@@ -270,7 +334,7 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏🔹 ترامپ در مورد حملات سایبری چین: با شی در مورد حملات سایبری صحبت کردم و او هم درباره حملات ما به چین صحبت کرد. کاری که آن‌ها انجام می‌دهند، و البته ما هم انجام می‌دهیم.
 ‏
-‏🔹 ترامپ در مورد ایران: ممکن است مجبور شویم کمی بیصشتر ایران را پاک‌ سازی کنیم، ما یک آتش‌ بس یک‌ ماهه داشتیم.
+‏🔹 ترامپ در مورد ایران: ممکن است مجبور شویم کمی بیشتر ایران را پاک‌ سازی کنیم، ما یک آتش‌ بس یک‌ ماهه داشتیم.
 ‏واقعاً آتش‌بس به درخواست دیگر کشورها انجام شد. من که اصلا موافق آتش بس نبودم، اما به عنوان لطفی به پاکستان این کار را انجام دادیم.
 ‏پاکستانی ها مردم فوق‌ العاده‌ای هستند، فیلدمارشال و نخست‌ وزیرشان نیز همینطور هستند.
 ‏
@@ -1822,20 +1886,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 15:25
-1405/02/25
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Germany’s domestic intelligence agency, the Federal Office for the Protection of the Constitution (BfV), released a report documenting secular pro-palestinian extremism across Germany, a heterogeneous movement comprising decades-old organizations and groups formed after Hamas’s October 7 massacre, united by their denial of Israel’s right to exist and anti-Jewish agitation disguised as political criticism.
-‏
-‏The intelligence service identifies key actors, symbols, and protest patterns, warning that secular pro-palestinian extremists use Israel-hatred and antisemitism as a bridge between Islamists, German and Turkish left-wing extremists, and Turkish right-wing extremists.
-‏
-‏Read the report:
-‏https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/auslandsbezogener-extremismus/saekularer-propalaestinensischer-extremismus.html
-15:20
 1405/02/25
 
 
@@ -4812,16 +4862,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Mena_Live
-‏Netanyahu to the Haredim: We will lose the elections if the elections are in September.
-‏
-‏@Mena_Live
-20:41
-1405/02/24
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇮🇷 — Israel is raising its alert level to the highest in preparation for the possibility of a renewed war with Iran after US President Trump's return from China.
 ‏
@@ -5049,19 +5089,4 @@ src :@WAR_ROOM_NEWS
 src :@WAR_ROOM_NEWS
 ‏ترامپ: رئیس‌جمهور چین پیشنهاد کمک درباره موضوع ایران را مطرح کرد
 18:22
-1405/02/24
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏یسرائیل کاتز، وزیر دفاع اسرائیل در یک سخنرانی گفت که ماموریت ارتش این کشور درباره ایران کامل نشده و برای این احتمال آماده است که شاید دوباره ناچار به اقدام شود. 
-‏یسرائیل کاتز تاکید کرد: «اگر اهداف‌مان تامین نشود، دوباره اقدام خواهیم کرد.» 
-‏
-‏پیش از این نیز ایال زمیر، رییس ستاد کل ارتش اسرائیل، گفته بود که «نبرد به پایان نرسیده و ارتش برای ازسرگیری جنگ در صورت نیاز آماده است.»
-‏@VahidOOnLine
-‏
-‏📡 @VahidOnline
-18:16
 1405/02/24
