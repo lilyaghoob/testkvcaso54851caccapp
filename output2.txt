@@ -1,3 +1,42 @@
+src :@GeoPWatch
+[عکس]
+‏🇱🇧❌🇮🇱 — Hezbollah drone launches towards the eastern Galilee.
+‏
+‏@GeoPWatch
+19:36
+1405/02/25
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏ارتش اسرائیل  کارخانه‌ای نظامی برای ساخت هزاران پهپاد انتحاری FPV تأسیس خواهند کرد که توسط سربازان ارتدکس افراطی اداره می‌شود.( دعا هم برای افزایش کارایی این پهپادها میخونم)
+19:35
+1405/02/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴یک کشتی باری با پرچم هند پس از آسیب شدید ناشی از حمله پهپادی ایران در سواحل عمان غرق شد. تمامی ۱۴ خدمه نجات یافتند. این حادثه نشان‌دهنده گسترش حملات ایران به کشتی‌ها فراتر از محدوده تنگه هرمز است.
+19:34
+1405/02/25
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏#NEWS | 🇨🇳 🇺🇸 — Chinese President Xi Jinping announced that China and the United States have reached an important consensus on addressing issues of mutual concern.
+‏
+‏The Global Eye | Subscribe
+19:32
+1405/02/25
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.  @wfwitness
@@ -145,7 +184,7 @@ src :@wfwitness
 
 
 src :@naya_foriraq
-‏🌟🏴‍☠️هجوم مركب جديد.. إطلاق طيران مسير ورشقة صاروخية من لبنان نحو مستوطنة المطلة بالشمال الفلسطيني المحتل.
+‏🌟🏴‍☠️هجوم مركب جديد.. إطلاق طيران مسير ورشقات صاروخية من لبنان نحو مستوطنة المطلة بالشمال الفلسطيني المحتل.
 19:25
 1405/02/25
 
@@ -222,7 +261,7 @@ src :@World_Newsly
 
 
 src :@GeoPWatch
-‏🇷🇺❌🇺🇦 — Initial reports of a Russian Aerospace Forces Su-35S fighter jet shooting down a Ukrainian Air Force F-16A fighter jet above Chernihiv Oblast, northeastern Ukraine, several hours ago.
+‏🇷🇺❌🇺🇦 — Initial reports of a Russian Aerospace Forces Su-35S fighter jet shooting down a Ukrainian Air Force F-16A "Fighting Falcon" fighter jet above Chernihiv Oblast, northeastern Ukraine, several hours ago.
 ‏
 ‏@GeoPWatch
 19:18
@@ -2921,14 +2960,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏گزارش بلومبرگ: امارات متحده عربی تلاش کرده است کشورهای همسایه، از جمله عربستان سعودی و قطر، را متقاعد کند که به یک واکنش نظامی هماهنگ علیه ایران بپیوندند، اما با امتناع آنها مواجه شده است. بر اساس این گزارش، محمد بن زاید، رئیس امارات متحده عربی، اندکی پس از…
-14:24
-1405/02/25
-
-
-
-
 src :@mwarmonitor
 ‏🦠«یک شیوع جدید از ویروس بسیار مسری ابولا در استان اییتوری در شرق کنگو تأیید شده است، به گفته نهاد اصلی بهداشت عمومی آفریقا. تاکنون ۲۴۶ مورد مشکوک و ۶۵ مرگ ثبت شده است.»
 ‏
@@ -4415,14 +4446,6 @@ src :@bricsnews
 
 
 
-src :@GeoPWatch
-‏🇨🇺 — Blackouts across Havana and the eastern part of Cuba for the past several hours due to Cuba running out of fuel due to the U.S. blockade. The blackouts in at least eastern Cuba will be indefinite.
-06:46
-1405/02/25
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇨🇳 China says the Strait of Hormuz must be reopened as soon as possible.
@@ -4543,26 +4566,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇺🇸🇺🇸 📞🇨🇺🛠 — A CIA official speaking CBS News confirms CIA Director Ratcliffe led a delegation to Havana, meeting with the Cuban Communist Regime officials to initiate discussions on what Cuba must do to build a “productive relationship” with the U.S.   📝 Ratcliffe…
 03:44
-1405/02/25
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸🇨🇺🛬❗️ — Netizens report that a United States Government's plane landed at the Havana International Airport, as nationwide protests against the Communist Regime and widespread energy outages grip the nation  @BellumActaNews
-03:40
-1405/02/25
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸❌🇨🇺 — US Navy MQ-4C Triton 169659 AE7812 as BLKCAT6 monitoring the south coast of Cuba today.
-‏
-‏@BellumActaNews
-03:34
 1405/02/25
 
 
@@ -5054,14 +5057,4 @@ src :@intelslava
 ‏
 ‏@Intelslava
 19:46
-1405/02/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇨🇳 President Trump says Chinese President Xi Jinping offered to help make a deal with Iran.
-‏
-‏@BRICSNews
-19:32
 1405/02/24
