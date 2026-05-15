@@ -1,3 +1,77 @@
+src :@mwarmonitor
+[عکس]
+‏🇮🇱اسرائیل اعلام کرد که در نوار غزه یک حمله انجام داده که هدف آن عزالدین الحداد، رئیس شاخه نظامی حماس بوده است. اسرائیل او را یکی از طراحان حمله ۷ اکتبر معرفی کرده است.
+‏
+‏🇮🇱بنیامین نتانیاهو، نخست‌وزیر، و اسرائیل کاتس، وزیر دفاع، اعلام کردند که اسرائیل «به اقدامات خود علیه همه افراد دخیل ادامه خواهد داد».
+‏
+‏@mwarmonitor
+20:51
+1405/02/25
+
+
+
+
+src :@cataphract1
+‏#فوری  ⭕️ گزارشات حاکی از ترور عزالدین الحداد، فرمانده تیپ القسام غزه است   📃@Cataphract1
+20:51
+1405/02/25
+
+
+
+
+src :@GeoPWatch
+‏🇮🇱❌🇵🇸 — IAF airstrike targeting a vehicle on Al-Wahda street, western Gaza City, Palestine.
+‏
+‏@GeoPWatch
+20:51
+1405/02/25
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏#فوری 
+‏⭕️ گزارشات حاکی از ترور عزالدین الحداد، فرمانده تیپ القسام غزه است 
+‏
+‏📃@Cataphract1
+20:50
+1405/02/25
+
+
+
+
+src :@P_raetorio
+‏#فوری 
+‏⭕️ گزارشات حاکی از ترور عزالدین الحداد، فرمانده تیپ القسام غزه است 
+‏
+‏📃@Cataphract1
+20:50
+1405/02/25
+
+
+
+
+src :@Military_Times_Blog
+[عکس]
+‏🔴تصاویری از محلی که احتمالا عزالدین حداد، در آن حذف شده است.
+‏
+‏
+‏🆔@Military_Times_Blog
+20:49
+1405/02/25
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇱🇵🇸 In a joint statement, Israeli Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz announced that the IDF struck a building in the Rimal neighborhood in northern Gaza, targeting Izz al-Din al-Haddad, the head of Hamas’s military wing.…
+20:49
+1405/02/25
+
+
+
+
 src :@Mena_Live
 [عکس]
 ‏Netanyahu and Katz: The Israeli army assassinated the leader of the Al-Qassam Brigades, Azeddine Al-Haddad, in Gaza.
@@ -107,14 +181,6 @@ src :@didarnews1
 src :@GeoPWatch
 ‏🇮🇱❌🇵🇸 — Aftermath from the targeting of a residential apartment complex in the Rimal neighborhood of Gaza City, Palestine.  @GeoPWatch
 20:43
-1405/02/25
-
-
-
-
-src :@naya_foriraq
-‏⭐️‏نتنياهو يزعم: استهدفنا بغارة قائد الجناح العسكري لحماس عز الدين الحداد.
-20:41
 1405/02/25
 
 
@@ -2219,17 +2285,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇵🇰 The Baloch Liberation Army (BLA) claims its fighters killed 31 Pakistani security personnel during 18 separate operations across Balochistan between May 4 and May 14.
-‏
-‏@wfwitness
-17:11
-1405/02/25
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴 صدر اعظم آلمان: تماس خوبی با ترامپ داشتم!
@@ -3426,19 +3481,6 @@ src :@didarnews1
 
 
 
-src :@mwarmonitor
-‏🇮🇷«وزیر امور خارجه عراقچی: همه کشتی‌ها می‌توانند از تنگه هرمز عبور کنند، به‌جز آن‌هایی که با ما در حال جنگ هستند.»
-‏
-‏📝دفعه قبل که گفته بود «تنگه هرمز باز است»، سپاه هم ظاهراً در واکنشی کاملاً رسمی گفته بود:
-‏«گُه زیاد نخور، برای دستگاه گوارشت خوب نیست!»
-‏
-‏@mwarmonitor
-13:56
-1405/02/25
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇸🇩🇱🇾🇹🇩⚡- A large-scale military build-up is being observed by Sudanese monitors in the al-Kufrah region of southeast Libya, near the Sudan-Chad border point.
@@ -3652,15 +3694,6 @@ src :@warmonitors
 ‏
 ‏🇪🇺 Follow Star Union News 📰
 13:18
-1405/02/25
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🇮🇱- A USAF Boeing KC-46A has squawked 7700 (General Emergency) over central Israel. It should land at Ben Gurion Intl. Airport shortly.
-13:12
 1405/02/25
 
 
@@ -3908,22 +3941,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 12:39
-1405/02/25
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜تصاویر جدید از لیبی نشان میدهد روس‌ها همچنان در ارسال تجهیزات های نظامی به ارتش ملی لیبی و ژنرال حفتر هستند.
-‏
-‏⚜از جمله تانک های T-72B3M obr.2025 و خودرو رزمی پیاده نظام BMP-3 با زره قفسی، جمر و زره های واکنشی اضافی دیده می‌شود.
-‏
-‏📌دیگر تجهیزات ارسالی روس‌ها به لیبی
-‏
-‏✒️#Crash
-‏📃@Cataphract1
-12:38
 1405/02/25
 
 
@@ -4679,16 +4696,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 05:14
-1405/02/25
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 President Trump: ‘Gas prices have only risen by a very small amount, and they’ll come down quickly’
-‏
-‏@Middle_East_Spectator
-04:49
 1405/02/25
 
 
