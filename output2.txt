@@ -574,15 +574,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-14:57
-1405/02/25
-
-
-
-
 src :@Mena_Live
 ‏The Israeli military has either fully or nearly fully destroyed more than 30 southern Lebanese towns and villages.
 ‏
@@ -628,27 +619,6 @@ src :@World_Newsly
 src :@mwarmonitor
 ‏🔹خبرنگار: آقای رئیس‌جمهور، در شبکه "تروث سوشال" (Truth Social) گفتید که رئیس‌جمهور شی (رئیس‌جمهور چین) به افول ایالات متحده اشاره کرده است. ما نشنیدیم که او چنین چیزی بگوید، شاید چیزی بوده که در خلوت گفته است. اول از همه، او دقیقاً چه گفت که باعث شد شما آن…
 14:52
-1405/02/25
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 امروز ۲۵ اردیبهشت، روز بزرگداشت فردوسی است
-‏
-‏امروز، ۲۵ اردیبهشت، روز بزرگداشت حکیم ابوالقاسم فردوسی است، سخن سرایی که با سال‌ها رنج و ایمان به ایران، جان زبان پارسی و یاد سرزمینمان را زنده نگه داشت.
-‏
-‏فردوسی فقط یک شاعر نبود، نگهبان هویت ایرانی بود. در روزگاری که بسیاری چیزها فراموش میشد، او با شاهنامه یادآوری کرد که زبان، فرهنگ و نام ایران اگر پاس داشته شود، از هر طوفانی عبور میکند.
-‏
-‏بیــــا تا جهــــان را به بــد نسپریم
-‏به کوشش همه دست نیکی بریم
-‏نبــاشد همی نیک و بـــد، پــــایدار
-‏همـــــان به که نیکی بود یادگار
-‏
-‏✍🏻 Cyrus
-‏▪️@World_Newsly
-14:50
 1405/02/25
 
 
@@ -2765,15 +2735,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇳⚡️— President Trump Leaves China After 2 Days Of Summit.
-11:24
-1405/02/25
-
-
-
-
 src :@jangaavaran1390
 ‏کانال۱۲: رئیس ستاد ارتش اسرائیل، زمیر، در طول جنگ ایران از امارات متحده عربی بازدید کرد
 11:20
@@ -2838,14 +2799,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 11:17
-1405/02/25
-
-
-
-
-src :@tabzlive
-‏🇷🇺🇮🇷⚡️ — Russian Foreign Minister Lavrov, speaking at the end of his India visit, blamed the crisis over Iran on unjustified American-Israeli aggression, saying Iran did not provoke the Strait of Hormuz crisis and that US interests are entirely focused on oil and reopening the strait. Lavrov stressed the main task now is to end the war and reach a sustainable settlement.
-11:14
 1405/02/25
 
 
@@ -3357,16 +3310,6 @@ src :@cataphract1
 
 
 
-src :@tabzlive
-‏🇱🇧🇮🇱🇺🇸🇮🇷🇸🇦⚡️ — Lebanon's Parliament Speaker Nabih Berri:
-‏I am pessimistic... I am not in favor of direct negotiations, but I will not speak for now, and when we are finished, I will have something to say
-‏Any agreement must have an "umbrella of Saudi-Iranian-American guarantees.
-09:21
-1405/02/25
-
-
-
-
 src :@didarnews1
 ‏🔴کالابرگ دارندگان کدهای ملی ۷ ، ۸ و ۹ شارژ شد
 ‏
@@ -3498,17 +3441,6 @@ src :@rus_cosmos
 
 src :@rnintel
 ‏🇫🇮⚡️- Air traffic at Helsinki airport was briefly closed earlier due to suspected drones.
-08:09
-1405/02/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — The IDF has issued an evacuation warning for a number of towns in southern Lebanon’s Tyre district, warning of incoming Israeli attacks.
-‏
-‏➡️ Residents are urged to move at least 1 kilometer away from the designated areas.
 08:09
 1405/02/25
 
@@ -3963,17 +3895,6 @@ src :@GeoPWatch
 ‏
 ‏Two years ago, we were, in fact, a Nation in decline. On that, I fully agree with President Xi! But now, the United States is the hottest Nation anywhere in the world, and hopefully our relationship with China will be stronger and better than ever before!
 01:21
-1405/02/25
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇨🇳/🇮🇷 NEW: President Trump writes a long post praising Xi Jinping, and says Iran’s military decimation will ‘be continued’
-‏
-‏@Middle_East_Spectator
-01:20
 1405/02/25
 
 
@@ -5022,18 +4943,4 @@ src :@warmonitors
 src :@warmonitors
 ‏If Starmer wins this leadership contest he’s gonna pull a Stalin
 16:25
-1405/02/24
-
-
-
-
-src :@MilitiaNews
-‏⚡🇮🇱🇮🇷 کاتز، وزیر دفاع اسرائیل:
-‏«ماموریت ما هنوز به پایان نرسیده است.
-‏ما برای این احتمال آماده‌ایم که شاید مجبور شویم دوباره اقدام کنیم، شاید حتی خیلی زود.
-‏اگر اهداف تأمین نشوند، دوباره اقدام خواهیم کرد.»
-‏
-‏- Mr.robot
-‏@MilitiaNews | میلیشا را دنبال کنید
-15:50
 1405/02/24
