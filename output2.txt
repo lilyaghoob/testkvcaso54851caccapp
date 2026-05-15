@@ -2605,15 +2605,6 @@ src :@selena_updates
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧⚡️ — The Israeli army has begun distributing anti-drone nets to troops in Lebanon, with approximately 158,000 square meters already distributed and an additional 188,000 square meters being purchased, according to Channel 15.
-20:22
-1405/02/24
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇨🇺 — Cuba's Energy Minister Vicente de la O Levy announced today that the country has completely exhausted its reserves of diesel and fuel oil, leaving the national electricity grid in a critical state.
