@@ -1,3 +1,18 @@
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇱/🇦🇪 NEW: Israel stabs the UAE in the back for a second time, now revealing that not only Netanyahu visited Abu Dhabi, but also the IDF Chief of Staff, the head of Mossad, and the head of Shin Bet
+‏
+‏Israel’s arrogance and their need to brag is destroying the very relationship they are so proud of. 
+‏
+‏Emirati officials are reportedly ‘outraged’ with the new revelation.
+‏
+‏@Middle_East_Spectator
+15:30
+1405/02/25
+
+
+
+
 src :@mwarmonitor
 ‏🔹خبرنگار: «فکر می‌کنید "شی" (رئیس‌جمهور چین) در معاملاتش با شما، نسبت به آخرین باری که با هم در ارتباط بودید، احساس قدرت بیشتری می‌کرد؟ قبل از اینکه کووید سر و کله‌اش پیدا شود...» 🔸ترامپ: «خب، من آن‌ها را بابت آن (کووید) مقصر دانستم. گفتم که کارِ "ووهان" بود…
 15:26
@@ -860,16 +875,6 @@ src :@jangaavaran1390
 
 
 
-src :@ClashReport
-‏Iran’s Foreign Minister Abbas Araghchi:
-‏
-‏We have received messages from the United States indicating that they are seeking continued talks.
-14:24
-1405/02/25
-
-
-
-
 src :@jangaavaran1390
 ‏گزارش بلومبرگ: امارات متحده عربی تلاش کرده است کشورهای همسایه، از جمله عربستان سعودی و قطر، را متقاعد کند که به یک واکنش نظامی هماهنگ علیه ایران بپیوندند، اما با امتناع آنها مواجه شده است. بر اساس این گزارش، محمد بن زاید، رئیس امارات متحده عربی، اندکی پس از…
 14:24
@@ -1270,16 +1275,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-‏Iran’s Foreign Minister Abbas Araghchi:
-‏
-‏There are those who want to drag Washington into war once again, and I hope wisdom will prevail and that we will pursue diplomacy to negotiate a solution.
-13:46
-1405/02/25
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇶🇮🇷🇺🇸 Al‑Arabi Al‑Jadeed: The United States is imposing harsh conditions on Iraq’s prime minister‑designate Ali al‑Zaydi, demanding the disarmament of armed factions, the dismantling of Iran‑linked militias, and the prosecution of those involved in attacks on the U.S. embassy. 
@@ -1608,32 +1603,6 @@ src :@IranintlTV
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱🇺🇸 Al-Akhbar: The U.S. State Department is expected to issue a statement on Friday summarising two rounds of direct talks between Lebanon and Israel. The statement will likely extend the ceasefire and announce a “declaration of intentions” focused on…
-13:27
-1405/02/25
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷وزير الخارجية الإيراني:
-‏
-‏- وقف إطلاق النار هش للغاية
-‏
-‏- لا يوجد حل عسكري فيما يتعلق بأي شيء له علاقة بإيران
-‏
-‏‏- نحن مهتمون بالتفاوض فقط إذا كان الطرف الآخر جاداً
-‏
-‏- لا‏ نثق بالأمريكيين
-‏
-‏- نحن لا نريد أسلحة نووية، وهذه ليست سياستنا، لدينا برنامج نووي سلمي
-‏
-‏‏- يُسمح لجميع السفن بالمرور عبر مضيق هرمز باستثناء السفن التي تخوض حربًا مع الولايات المتحدة
-‏
-‏‏- إيران مهتمة بمواصلة أعمال الطاقة والنفط مع الهند
-‏
-‏‏- اتفق مع الولايات المتحدة على تأجيل المفاوضات بشأن المواد المخصبة
-‏
-‏- الرسائل المتناقضة جعلتنا مترددين بشأن النوايا الحقيقية للأمريكيين في المفاوضات
 13:27
 1405/02/25
 
@@ -2966,17 +2935,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 10:59
-1405/02/25
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🚨ترامپ لحظاتی پیش چین را ترک کرد
-‏
-‏@MilitarryWorld | Parsa
-10:55
 1405/02/25
 
 
@@ -4392,16 +4350,6 @@ src :@tglobaleye
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇮🇱/🇺🇸/🇮🇷 NEW: The IDF will enter the maximum state of alert, starting tomorrow, when Trump leaves China
-‏
-‏@Middle_East_Spectator
-23:28
-1405/02/24
-
-
-
-
 src :@cataphract1
 ‏⭕️ به گزارش کان نیوز، آمریکا و اسرائیل در حال هماهنگی برای انجام حملات علیه ایران به دستور ترامپ هستند. انتظار می‌رود در روز های پیش رو ترامپ تصمیم خود را بگیرد
 ‏
@@ -5133,24 +5081,4 @@ src :@MilitiaNews
 ‏- Mr.robot
 ‏@MilitiaNews | میلیشا را دنبال کنید
 15:50
-1405/02/24
-
-
-
-
-src :@Military_Times_Blog
-‏زیر دریایی استراتژیک اتمی آنسون از نیروی دریایی سلطنتی بریتانیا وارد تنگه جبل‌الطارق شد تا به محل مأموریت خود، خاورمیانه عزیمت کند.    🆔@Military_Times_Blog
-15:31
-1405/02/24
-
-
-
-
-src :@Military_Times_Blog
-[عکس]
-‏زیر دریایی استراتژیک اتمی آنسون از نیروی دریایی سلطنتی بریتانیا وارد تنگه جبل‌الطارق شد تا به محل مأموریت خود، خاورمیانه عزیمت کند. 
-‏
-‏
-‏🆔@Military_Times_Blog
-15:30
 1405/02/24
