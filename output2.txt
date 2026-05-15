@@ -1,5 +1,119 @@
+src :@Mena_Live
+[عکس]
+‏Netanyahu and Katz: The Israeli army assassinated the leader of the Al-Qassam Brigades, Azeddine Al-Haddad, in Gaza.
+‏
+‏@Mena_Live
+20:47
+1405/02/25
+
+
+
+
+src :@MilitarryWorld
+‏⭕️هم اکنون گزارش ها از ترور بسیار بزرگ در غزه.
+‏
+‏@MilitarryWorld | Parsa
+20:47
+1405/02/25
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇱/🇵🇸/🇵🇸 BREAKING: The IDF announces it carried out an assassination attempt against Izz Al-Din Al-Haddad, the commander of the Al-Qassam Brigades and leader of Hamas in the Gaza Strip
+‏
+‏@Middle_East_Spectator
+20:46
+1405/02/25
+
+
+
+
+src :@Military_Times_Blog
+‏🔴طبق گزارش برخی رسانه های اسرائیلی، نیرو هوایی ارتش اسرائیل طی یک حمله دقیق و هدفمند عزالدین حداد، رئیس شاخه نظامی حماس را حذف کرد.   🆔@WAR_ROOM_NEWS
+20:45
+1405/02/25
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇱/🇮🇷 Hebrew media: ‘Supreme Leader Mojtaba Khamenei is more radical than his father, and refuses to make any key concessions’
+‏
+‏@Middle_East_Spectator
+20:44
+1405/02/25
+
+
+
+
+src :@cataphract1
+‏⭕️ گزارشات اولیه نیز حاکی از انجام یک ترور در غزه توسط اسرائیل می‌باشد   📃@Cataphract1
+20:44
+1405/02/25
+
+
+
+
+src :@Military_Times_Blog
+[عکس]
+‏🔴طبق گزارش برخی رسانه های اسرائیلی، نیرو هوایی ارتش اسرائیل طی یک حمله دقیق و هدفمند عزالدین حداد، رئیس شاخه نظامی حماس را حذف کرد.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+20:44
+1405/02/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏🔴طبق گزارش برخی رسانه های اسرائیلی، نیرو هوایی ارتش اسرائیل طی یک حمله دقیق و هدفمند عزالدین حداد، رئیس شاخه نظامی حماس را حذف کرد.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+20:44
+1405/02/25
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇨🇳 🇺🇸 — Chinese President Xi Jinping will pay a state visit to the United States this fall, the Chinese Foreign Ministry announced.
+‏
+‏The Global Eye | Subscribe
+20:44
+1405/02/25
+
+
+
+
+src :@didarnews1
+‏🔴 نبویان، عضو کمیسیون امنیت ملی مجلس: رهبری در سلامت کامل قرار دارند و روند فرماندهی و تصمیم‌گیری‌ها را به‌صورت مستقیم دنبال می‌کنند
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+20:43
+1405/02/25
+
+
+
+
+src :@GeoPWatch
+‏🇮🇱❌🇵🇸 — Aftermath from the targeting of a residential apartment complex in the Rimal neighborhood of Gaza City, Palestine.  @GeoPWatch
+20:43
+1405/02/25
+
+
+
+
 src :@naya_foriraq
-‏⭐️إعلام العدو يزعم: إغتيال قائد أركان كتائب القسام عز الدين الحداد.
+‏⭐️‏نتنياهو يزعم: استهدفنا بغارة قائد الجناح العسكري لحماس عز الدين الحداد.
 20:41
 1405/02/25
 
@@ -1265,18 +1379,6 @@ src :@Americana_ir
 src :@Mena_Live
 ‏Ukrainian Intelligence Data: Russia is rapidly scaling up production of long-range strike drones and could reach a manufacturing pace of roughly 500 UAVs per day by early 2027 if current plans are fulfilled — Defense Express   @Mena_Live
 18:38
-1405/02/25
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏رسانه‌های ایران اعلام کردند نمایشگاه کتاب تهران امسال به صورت «مجازی» برگزار خواهد شد. 
-‏بر اساس این خبر، نمایشگاه کتاب تهران از روز شنبه، ۲۶ اردیبهشت و به صورت آنلاین آغاز خواهد شد. 
-‏باوجود آتش‌بس میان جمهوری اسلامی و آمریکا، بسیاری از برنامه‌های عادی در ایران همچنان تعطیل بوده یا به‌صورت مجازی برگزار می‌شود.
-‏https://iranintl.com/202605157688
-18:35
 1405/02/25
 
 
@@ -2676,14 +2778,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-‏وزير الطاقة الأمريكي رايت: أعتقد أن الصين ستكون أكبر مشتر للنفط الخام الأمريكي
-16:08
-1405/02/25
-
-
-
-
 src :@MilitarryWorld
 ‏🚨رویترز مدعی شد:
 ‏
@@ -2767,16 +2861,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 15:53
-1405/02/25
-
-
-
-
-src :@MilitarryWorld
-‏⭕️صدراعظم المان: به ترامپ زنگ زدم و گفتم ایران باید مذاکره کنه و تنگه هرمز رو هم باز کنه، سلاح هسته ای هم نباید داشته باشه.
-‏
-‏@MilitarryWorld | Parsa
-15:46
 1405/02/25
 
 
@@ -3734,15 +3818,6 @@ src :@DEJradio
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸- According to Al-Jazeera's Ali Hashem, a well informed source on the Iran/US negotiations has revealed that the Iranian negotiating team has been issued five conditions that must be met before any discussions on the nuclear file can begin.   These conditions…
-12:52
-1405/02/25
-
-
-
-
 src :@thewarreporter
 ‏🇦🇪🇸🇦🇶🇦🇪🇬🇮🇷 — The UAE attempted to persuade Saudi Arabia, Qatar, and other Gulf states to join a coordinated military response against Iran, but the proposal was rejected.
 ‏
@@ -3946,21 +4021,6 @@ src :@rnintel
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🧭 🇪🇺 — The Pentagon is reducing U.S. troop deployments in Europe in response to President Trump’s calls for greater NATO burden-sharing.
-‏
-‏War Secretary Pete Hegseth has canceled the planned rotation of approximately 4,000–4,700 soldiers from the 2nd Armored Brigade Combat Team (1st Cavalry Division) to Poland and other Eastern European countries. A separate battalion deployment with long-range missiles to Germany was also halted.
-‏
-‏The Pentagon additionally announced the withdrawal of roughly 5,000 troops from Germany over the next 6–12 months, following a review of U.S. force posture in Europe.
-‏
-‏The Global Eye | Subscribe
-12:16
-1405/02/25
-
-
-
-
 src :@rnintel
 ‏🇱🇧🇮🇱⚡️- The IDF has announced the death of the sixth soldier since the start of the ceasefire in Lebanon due to mortar fire in southern Lebanon.
 12:09
@@ -3999,28 +4059,6 @@ src :@warmonitors
 src :@rnintel
 ‏🇦🇪🇮🇱⚡- Netanyahu's Press Office claims the Israeli Prime Minister took a secret trip to UAE's Abu Dhabi, meeting President Mohamed bin Zayed. The visit occurred at the height of the war with Iran, and helped "lead to a historic breakthrough" in relations between…
 12:02
-1405/02/25
-
-
-
-
-src :@didarnews1
-‏🔴عراقچی: پیام‌های متناقض آمریکایی‌ها مهم‌ترین مشکل است
-‏
-‏🔹هیچ راه‌حل نظامی‌ای وجود ندارد و فکر می‌کنم ایالات متحده باید این واقعیت را درک کند. آن‌ها دست‌کم دو بار ما را آزموده‌اند و اکنون به این نتیجه رسیده‌اند که راه‌حل نظامی وجود ندارد.
-‏
-‏🔹مهم‌ترین مشکل، پیام‌های متناقضی است که از سوی آمریکایی‌ها از طریق اظهارنظرها، مصاحبه‌ها و مواضع مختلف دریافت می‌کنیم.
-‏
-‏🔹تا آنجا که به ما مربوط می‌شود، تنگه هرمز بسته نیست، به‌ویژه برای کشورهای دوست. این محدودیت تنها برای دشمنان ما اعمال می‌شود.
-‏
-‏🔹کشتی‌های متعلق به کشورهای دوست و سایر کشورها فقط ملزم هستند عبور خود را با نیروهای نظامی ما هماهنگ کنند تا از هرگونه مانع احتمالی جلوگیری شود و عبوری امن داشته باشند.
-‏
-‏🔹تنها راه‌حل، پایان کامل این جنگ تجاوزکارانه است و پس از آن ما اطمینان خواهیم داد که عبور امن برای تک‌تک کشتی‌ها تضمین شود.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-12:01
 1405/02/25
 
 
@@ -4123,17 +4161,6 @@ src :@DEJradio
 ‏#نیروی_انتظامی #جنگ۴۰روزه
 ‏@DEJradio
 11:48
-1405/02/25
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🤝🇨🇳- Donald Trump has officially left China and is making his way back to the United States.
-‏
-‏@GeoPWatch
-11:46
 1405/02/25
 
 
@@ -4667,35 +4694,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷/🇨🇳 President Trump: ‘I told China that Iran cannot have a nuclear weapon, because they’re crazy people. They would have immediately nuked Israel and America.’
-‏
-‏@Middle_East_Spectator
-04:47
-1405/02/25
-
-
-
-
-src :@Middle_East_Spectator
-‏Iran is the last stand.
-04:33
-1405/02/25
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇨🇺 NEW: After months of pressure, blockade, subsequent fuel shortages and threats of regime change by the United States, the CIA director was invited to Havana for direct talks with Cuban officials
-‏
-‏@Middle_East_Spectator
-04:28
-1405/02/25
-
-
-
-
 src :@mamlekate
 [عکس]
 ‏❓ جنگ اخیر، ۲۸ فوریه شروع شد و تا آتش‌بس یعنی ۸ آپریل ادامه پیدا کرد. این لیست تمامی زلزله‌های بالای ۴.۵ ریشتر تو ایران توی سایت USGS از ابتدای سال ۲۰۲۶ میلادی هست. دقیقا از تاریخ ۲۸ فوریه تا ۸ آپریل زلزله‌ای با شدت ۴.۵ و بیشتر ثبت نشده، ولی تعداد زیادی قبل و بعدش وجود داره. این همزمانی اگر چه می‌تونه «تصادفی» باشه اما می‌تونه هم مربوط به «فعالیت‌های جمهوری اسلامی» و لرزه‌خیزی القایی باشه
@@ -4833,18 +4831,6 @@ src :@Mena_Live
 src :@Mena_Live
 ‏Syrian Ministry of Interior:  We are deployong more than 11,000 field patrols to secure roads and consolidate security stability [mainly in eastern Syria to protect against ISIS, Kurdish militia/Assad remnants].  @Mena_Live
 00:15
-1405/02/25
-
-
-
-
-src :@Mena_Live
-‏Syrian Ministry of Interior:
-‏
-‏We are deployong more than 11,000 field patrols to secure roads and consolidate security stability [mainly in eastern Syria to protect against ISIS, Kurdish militia/Assad remnants].
-‏
-‏@Mena_Live
-00:13
 1405/02/25
 
 
@@ -5019,17 +5005,4 @@ src :@MilitiaNews
 ‏- لامحمد لامکه
 ‏@MilitiaNews | میلیشا را دنبال کنید
 21:28
-1405/02/24
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏10 سال قبل در چنین روزی، پرخسارت ترین روز عملیاتی ارتش روسیه در خاک سوریه رقم خورد و 4 فروند بالگرد میل24 روسی در فرودگاه T-4 در استان حمص نابود شدند.
-‏
-‏در زمان تخلیه محموله از یکی از کامیون های حامل مهمات انفجاری رخ داد که منجر به انهدام این بالگردها در فاصله حدود 200 متری شد.
-‏
-‏@Minas_Tirith2024
-20:45
 1405/02/24
