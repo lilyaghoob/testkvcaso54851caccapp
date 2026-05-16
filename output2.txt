@@ -1,3 +1,37 @@
+src :@guard_warriors
+[عکس]
+‏✪ یک هواپیمای ترابری C-2 نیروی دفاع هوایی ژاپن از اسکادران ۴۰۲، در طول آموزش تاکتیکی پیشرفته در آریزونا، ایالات متحده، مانورهای گریز از موشک‌های زمین به هوای دشمن را انجام می‌دهد. در این آموزش، خدمه هواپیما تاکتیک‌های دفاعی را در پاسخ به تهدیدهای واقع‌بینانه می‌آموزند.
+‏
+‏@Guard_Warriors | DmW
+15:42
+1405/02/26
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ رسانه های روسی ادعا می‌کنند شب گذشته یک فروند F-16 اوکراینی توسط یک فروند Su-35 روسی منهدم شده است.
+‏
+‏@Guard_Warriors | DmW
+15:41
+1405/02/26
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ اوکراین تنها هواپیمای جستجو و نجات دوزیست Beriev Be-200PS شناخته شده در خدمت روسیه را منهدم کرد
+‏
+‏
+‏@Guard_Warriors | DmW
+15:41
+1405/02/26
+
+
+
+
 src :@Indypersian
 ‏⭕️ گزارش‌ها درباره احتمال آغاز حملات آمریکا و اسرائیل علیه ایران در روزهای آینده
 ‏
@@ -98,7 +132,7 @@ src :@cataphract1
 ‏
 ‏⚜در بخش رزمایش تاخت به ساحل ، نیروهای ویژه با قایق  تندرو و تهاجمی Karayel خود را به ساحل رسانند.
 ‏
-‏⚜نیروهای پیاده نظام و زرهی با کمک شناورهای TCG Ç-158 و TCG Ç-154 به ساحل آورده شدند. در این بخش تانک های M60T مورد استفاده قرار که تمام تانک های حاضر در این رزمایش مجهز به دفاع فعال Pulat بودند
+‏⚜نیروهای پیاده نظام و زرهی با کمک شناورهای TCG Ç-158 و TCG Ç-154 به ساحل آورده شدند. در این بخش تانک های M60T مورد استفاده قرار گرفتند که تمام تانک های حاضر در این رزمایش مجهز به دفاع فعال Pulat بودند
 ‏
 ‏✒️#Crash
 ‏📃@Cataphract1
@@ -125,7 +159,7 @@ src :@ClashReport
 
 src :@Middle_East_Spectator
 [عکس]
-‏— 🇷🇺/🇸🇾 NEW: Russia has delivered two MiG-29 fighter jets to the new Free Syrian Air Force, they arrived in Khmeimim Airbase today  Deliveries were made at the request of Turkey in order to help with counter-terrorism and protection of airspace.  @Middle_East_Spectator
+‏— 🇷🇺/🇸🇾 NEW: Russia has delivered two MiG-29 fighter jets to the new Free Syrian Air Force, they arrived in Khmeimim Airbase today  Deliveries were made at the request of Turkey in order to help with counter-terrorism and protection of airspace.  This is being…
 15:26
 1405/02/26
 
@@ -220,7 +254,7 @@ src :@World_Newsly
 
 
 src :@Middle_East_Spectator
-‏— 🇷🇺/🇸🇾 NEW: Russia has delivered two MiG-29 fighter jets to the new Free Syrian Air Force, they arrived in Khmeimim Airbase today  Deliveries were made at the request of Turkey in order to help with counter-terrorism and protection of airspace.  @Middle_East_Spectator
+‏— 🇷🇺/🇸🇾 NEW: Russia has delivered two MiG-29 fighter jets to the new Free Syrian Air Force, they arrived in Khmeimim Airbase today  Deliveries were made at the request of Turkey in order to help with counter-terrorism and protection of airspace.  This is being…
 15:22
 1405/02/26
 
