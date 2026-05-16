@@ -1,3 +1,25 @@
+src :@MilitarryWorld
+‏⭕️نیویورک تایمز به نقل از مقامات کاخ سفید: 
+‏
+‏مقامات عالی رتبه آمریکایی احتمال دستگیری رائول کاسترو، رئیس جمهور سابق کوبا، را در عملیاتی مشابه سناریوی ونزوئلا رد نمی‌کنند
+‏
+‏@MilitarryWorld | Parsa
+18:35
+1405/02/26
+
+
+
+
+src :@Mena_Live
+‏Hamas: We mourn the martyred commander Azeddine Al-Haddad, the overall commander of the Al-Qassam Brigades.
+‏
+‏@Mena_Live
+18:32
+1405/02/26
+
+
+
+
 src :@KayhanLondonChannel
 [عکس]
 ‏هشدار درباره کمبود داروهای اعصاب و ترک اعتیاد
@@ -2035,16 +2057,6 @@ src :@cataphract1
 
 
 
-src :@MilitarryWorld
-‏⭕️فرماندهی کل نیروی دفاعی بحرین : برای حمله احتمالی ایران، در آماده‌باش سطح بالا قرار داریم
-‏
-‏@MilitarryWorld | Parsa
-14:32
-1405/02/26
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️فرماندهی کل نیروی دفاع بحرین، روز شنبه با انتشار بیانیه‌ای اعلام کرد تمامی یگان‌ها و تسلیحات این کشور در بالاترین سطح آمادگی و آماده‌باش دفاعی قرار دارند.
@@ -2699,25 +2711,6 @@ src :@bricsnews
 ‏JUST IN: 🇨🇳🇺🇸 China says US-proposed UN resolution on the Strait of Hormuz is "not right."
 ‏
 ‏@BRICSNews
-12:59
-1405/02/26
-
-
-
-
-src :@Indypersian
-‏⭕️ پیمان عدم تعرض با ایران؛ ابتکار ریاض برای بازتعریف صلح و امنیت در منطقه
-‏
-‏📌عربستان سعودی با طرح «پیمان عدم تعرض» درپی ایجاد چارچوبی برای امنیت پایدار و همکاری اقتصادی در خاورمیانه است
-‏
-‏♦️با آغاز جنگ آمریکا و اسرائیل علیه جمهوری اسلامی، خاورمیانه وارد مرحله‌ای تازه از تنش و نگرانی‌های ژئوپلیتیک شد. این جنگ به‌خوبی آشکار کرد که ساختار امنیتی منطقه تا چه حد شکننده و آسیب‌پذیر است و تداوم سیاست‌های مبتنی بر تقابل و درگیری مستقیم میان کشورهای همسایه، ثبات سراسر منطقه را با تهدیدهای جدی مواجه می‌کند. این تحولات همچنین بار دیگر واقعیتی را برجسته کرد که برخی بازیگران منطقه‌ای سال‌ها از پذیرش آن سر باز می‌زدند؛ اینکه جغرافیا حقیقتی تغییرناپذیر است و ملت‌ها و دولت‌های خاورمیانه، به‌رغم اختلافات سیاسی، ایدئولوژیکی و مذهبی، ناگزیرند در کنار یکدیگر زندگی کنند و راهی برای همزیستی بیابند.
-‏
-‏
-‏🖊محمد خیر ندمان 
-‏
-‏بیشتر بخوانید... 
-‏
-‏@indypersian
 12:59
 1405/02/26
 
@@ -5026,22 +5019,4 @@ src :@Americana_ir
 src :@Mena_Live
 ‏Ukrainian Intelligence Data: Russia is rapidly scaling up production of long-range strike drones and could reach a manufacturing pace of roughly 500 UAVs per day by early 2027 if current plans are fulfilled — Defense Express   @Mena_Live
 18:38
-1405/02/25
-
-
-
-
-src :@Mena_Live
-‏Ukrainian Intelligence Data: Russia is rapidly scaling up production of long-range strike drones and could reach a manufacturing pace of roughly 500 UAVs per day by early 2027 if current plans are fulfilled — Defense Express 
-‏
-‏@Mena_Live
-18:35
-1405/02/25
-
-
-
-
-src :@warmonitors
-‏⚡Sky News Arabia correspondent reports: One person killed in an Israeli airstrike on the town of Deir Qanoun al-Nahr in southern Lebanon.
-18:35
 1405/02/25
