@@ -1,3 +1,12 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏ارتش اسرائیل اعلام کرد یک افسر ۲۴ ساله تیپ گلانی به نام «معوز رکاناتی» در حمله پهپادی حزب‌الله در جنوب لبنان کشته شده است. او هفتمین نظامی اسرائیلی کشته‌شده از زمان آتش‌بس و بیستمین کشته پس از تشدید درگیری‌ها همزمان با جنگ ایران است. همچنین یک پیمانکار غیرنظامی نیز کشته شد.
+22:08
+1405/02/26
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️رهبر حماس: ما هیچوقت تسلیم دشمن نمیشیم.
 ‏
@@ -1590,15 +1599,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 An Israeli airstrike targeted the outskirts of the city of Tyre, southern Lebanon.  @wfwitness
 19:49
-1405/02/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli warplanes have carried out airstrikes on al-Housh (Tyre), Deir Qanoun an-Naher, and Batoulay in southern Lebanon.
-19:48
 1405/02/26
 
 
@@ -5191,13 +5191,4 @@ src :@DEJradio
 src :@warmonitors
 ‏⚡️ Israel and Lebanon agree to 45-day extension of ceasefire after another round of talks in the US, State Department says
 22:15
-1405/02/25
-
-
-
-
-src :@Military_Times_Blog
-[فایل]
-‏🆔@Military_Times_Blog
-22:08
 1405/02/25
