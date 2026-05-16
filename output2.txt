@@ -4521,17 +4521,6 @@ src :@guard_warriors
 
 
 
-src :@Minas_Tirith2024
-[عکس]
-‏حملات ارتش اسرائیل به جنوب لبنان 
-‏
-‏@P_raetorio
-19:26
-1405/02/25
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏پرتوی دیگر
