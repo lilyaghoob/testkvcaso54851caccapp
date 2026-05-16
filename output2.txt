@@ -3696,23 +3696,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇳🇬❌🏴 — BREAKING: President Trump says U.S. and Nigerian forces killed Abu-Bilal al-Minuki, the second-in-command of ISIS globally, in an overnight joint operation in Nigeria.
-‏
-‏Tonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly executed a meticulously planned and very complex mission to eliminate the most active terrorist in the world from the battlefield. 
-‏
-‏Abu-Bilal al-Minuki, second in command of ISIS globally, thought he could hide in Africa, but little did he know we had sources who kept us informed on what he was doing. 
-‏
-‏He will no longer terrorize the people of Africa, or help plan operations to target Americans. With his removal, ISIS’s global operation is greatly diminished. 
-‏
-‏Thank you to the Government of Nigeria for your partnership on this operation. GOD BLESS AMERICA!
-07:09
-1405/02/26
-
-
-
-
 src :@jangaavaran1390
 ‏یک ژنرال ارشد نیروی هوایی آمریکا می‌گوید که این نیرو در حال حاضر توان کافی برای مقابله با نفوذ پهپادها بر فراز پایگاه‌های خود در خاک آمریکا را ندارد.
 ‏
@@ -3758,19 +3741,6 @@ src :@jangaavaran1390
 src :@jangaavaran1390
 ‏ترامپ: ایران گفت  ما توانایی جمع‌آوری مواد هسته ای در عمق زمین را نداریم  ." من گفتم: "چرا؟" آنها گفتند: "چون خیلی سخت مورد اصابت قرار گرفته است."
 07:02
-1405/02/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇹🇼🇺🇸🇨🇳⚡️ — Taiwan says U.S. arms sales to the island remain “a cornerstone of regional peace and stability” and are protected under the Taiwan Relations Act after President Trump said he had not yet decided on future weapons sales following his summit with Xi Jinping in Beijing.
-‏
-‏Trump has suggested he may speak directly with Taiwanese President Lai Ching-te about the matter.
-‏
-‏Deputy Foreign Minister Chen Ming-chi reaffirmed that Taiwan is a “sovereign and independent country” and said only Taiwan’s 23 million people can decide their future “through democratic means.”
-06:51
 1405/02/26
 
 
@@ -3832,17 +3802,6 @@ src :@BellumActaNews
 ‏
 ‏- JOIN /SCI/ -
 05:38
-1405/02/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇩🇪⚡️ — Mercedes-Benz CEO Ola Källenius told WSJ that the company would be willing to move into defense production if it made “business sense,” adding that “the world has become a more unpredictable place” and that Europe needs to strengthen its defense capabilities.
-‏
-‏Källenius said Mercedes’ experience as a large-scale automaker could help it contribute to military manufacturing, though he added that defense operations would likely remain “a minor share of our business” while potentially becoming “a growing niche” over time.
-05:32
 1405/02/26
 
 
@@ -5153,18 +5112,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏#خبر
 ‏
 ‏@RASTAKHIZ_PERSIAN
-17:50
-1405/02/25
-
-
-
-
-src :@Military_Times_Blog
-[عکس]
-‏نخستین تصویر از موشک هوابه هوای AIM-260 که توسط سوپر هورنت حمل میشود و در پایگاه هوایی اگلین مشاهده شده است. 
-‏
-‏
-‏🆔@Military_Times_Blog
 17:50
 1405/02/25
 
