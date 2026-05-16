@@ -1,3 +1,36 @@
+src :@rnintel
+[عکس]
+‏🇺🇸⚡- A new map shows alleged plans for an unprecedented level of reconstruction at Tinian Air Base in the Pacific.  With two possible runways and an incredible 250 keyholes for aircraft, sitting on approximately 5 square miles of land.  The island is 130 miles…
+13:31
+1405/02/26
+
+
+
+
+src :@rnintel
+‏🇸🇴⚡- The three days presidential talks in Mogadishu collapsed. President Hassan Sheikh Mohamud, whose mandate expired yesterday and seeks an extension, was objected to by the Puntland-led opposition bloc.
+13:29
+1405/02/26
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏مشاهدات شما از بحران کمبود و گرانی سوخت در استان‌های مختلف ایران چیست؟ 
+‏
+‏
+‏روی لینک زیر کلیک کنید و پیام‌های خود از طریق مدیا‌بات برای ما بفرستید. 
+‏
+‏https://t.me/intlmedia_bot
+‏
+‏پیام‌های شما به صورت زیر‌نویس در تلویزیون و همچنین در بخش‌های مختلف‌ خبری منتشر خواهد شد
+13:28
+1405/02/26
+
+
+
+
 src :@defence_news
 [فایل]
 ‏در یک نگاه مختصر و کوتاه به بولپاپ های بر پایه AK 
@@ -11,9 +44,19 @@ src :@defence_news
 
 
 
+src :@naya_foriraq
+[عکس]
+‏السيد ميخائيل ميشوستين رئيس الوزراء الروسي 
+‏بعث برقية التهنئة إلى الزيدي
+13:26
+1405/02/26
+
+
+
+
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇱🇵🇸🇵🇸 The IDF and the Shin Bet now officially confirmed that the leader of the military-wing of Hamas Izz al-Din al-Haddad was eliminated.
+‏⚡️🇮🇱🇵🇸🇵🇸 The IDF and the Shin Bet now officially confirmed that the leader of the military-wing of Hamas Izz al-Din al-Haddad was eliminated in a targeted strike in the area of the City of Gaza yesterday.
 ‏
 ‏@wfwitness
 13:26
@@ -1585,22 +1628,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:41
-1405/02/26
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏مسعود پزشکیان، رییس دولت جمهوری اسلامی، در پیامی به پاپ لئو، رهبر کاتولیک‌های جهان، از آنچه «موضع اخلاقی و منطقی» او در قبال جنگ ایران خواند، قدردانی کرد.
-‏
-‏در این پیام آمده است: «حملات آمریکا و اسرائیل صرفا علیه ایران نیست، بلکه علیه حاکمیت قانون و ارزش‌های انسانی است.»
-‏
-‏پزشکیان افزود جمهوری اسلامی «در چارچوب دفاع مشروع، اهداف و منافع متجاوزین را مورد هدف قرار داد».
-‏
-‏او همچنین خواستار واکنش «مسئولانه» جامعه جهانی به «اقدامات غیرقانونی» ایالات متحده شد.
-‏https://iranintl.com/202605167385
-10:39
 1405/02/26
 
 
@@ -3584,14 +3611,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- Iranian hackers have breached gas station tank readers in several U.S. states. - CNN.
-23:42
-1405/02/25
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏با ترور عزالدین حداد، اسرائیلی ها توانستند همه فرماندهان شاخه نظامی حماس را که در حمله هفتم اکتبر(طوفان الاقصی)نقش داشته‌اند را از بین ببرند.
@@ -3637,14 +3656,6 @@ src :@WAR_ROOM_NEWS
 
 src :@naya_foriraq
 ‏مشاهد اولية لاعتقال العراقي محمد باقر السعدي من قبل جهاز ال FBI الأمريكي
-23:31
-1405/02/25
-
-
-
-
-src :@rnintel
-‏🇦🇪🇮🇱⚡- "It appears that Tel Aviv is betting on dismantling Abu Dhabi’s network of relations with its surrounding countries one after another, pushing it towards isolation that leaves it with no option but Israel–the same approach that Israel is practicing with the United States," - The Saudi Post.
 23:31
 1405/02/25
 
@@ -3749,14 +3760,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏RASTAKHIZ1010
 23:15
-1405/02/25
-
-
-
-
-src :@rnintel
-‏🇵🇭🇨🇳⚡- "Filipinos should adopt a wartime mindset.  Not yet a kinetic war, but a political war, an economic war, and more importantly, disinformation and informational war is already going on.   Philippines faces illegal, coercive, aggressive, deceptive, destructive…
-23:08
 1405/02/25
 
 
@@ -3956,14 +3959,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:45
-1405/02/25
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸وزارة الخارجية الأمريكية: سيتم تمديد وقف إطلاق النار بين إسرائيل ولبنان لمدة 45 يومًا للسماح بمزيد من التقدم.
-21:42
 1405/02/25
 
 
