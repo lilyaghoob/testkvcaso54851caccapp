@@ -50,7 +50,7 @@ src :@mamlekate
 
 
 src :@naya_foriraq
-‏ناقلة غاز ثالثة من المسال القطري ترسو في كراتشي بعد عبورها مضيق هرمز
+‏ناقلة غاز مسال قطرية - هي الثالثة خلال الأسابيع الماضية - ترسي في ميناء كراتشي قادمة عبر مضيق هرمز
 12:49
 1405/02/26
 
@@ -2686,21 +2686,6 @@ src :@rnintel
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️به گزارش فاکس‌نیوز، دولت لبنان در اقدامی بی‌سابقه، با ارسال شکایت‌نامه‌ای تند به سازمان ملل متحد، جمهوری اسلامی را به سوءاستفاده از مصونیت دیپلماتیک متهم کرده است.
-‏بر اساس این نامه که اواخر فروردین تنظیم و به‌تازگی منتشر شده است، احمد عرفه، سفیر لبنان در سازمان ملل، با انتقاد شدید از اقدامات محمدرضا شیبانی، سفیر جمهوری اسلامی در بیروت، تهران را به اعزام نیروهای سپاه پاسداران به خاک لبنان تحت پوشش فعالیت‌های دیپلماتیک متهم کرد.
-‏در این شکایت‌نامه تاکید شده است این اقدامات جمهوری اسلامی، دخالت آشکار در امور داخلی لبنان است و این کشور را به جنگی ناخواسته می‌کشاند.
-‏افشای این نامه همزمان با دومین روز گفتگوهای دوجانبه اسرائیل و لبنان در واشینگتن با میانجی‌گری آمریکا صورت می‌گیرد؛ گفتگوهایی که هدف آن عادی‌سازی روابط و برچیدن حزب‌الله عنوان شده است.
-‏سخنگوی وزارت خارجه آمریکا فضای این مذاکرات را «بسیار مثبت» و «فراتر از حد انتظار» توصیف کرد. همچنین وزارت خارجه آمریکا اعلام کرد آتش‌بس موقت میان اسرائیل و لبنان ۴۵ روز دیگر تمدید شده است.
-‏
-‏@indypersian
-07:10
-1405/02/26
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇳🇬❌🏴 — BREAKING: President Trump says U.S. and Nigerian forces killed Abu-Bilal al-Minuki, the second-in-command of ISIS globally, in an overnight joint operation in Nigeria.
@@ -5315,19 +5300,6 @@ src :@warmonitors
 
 
 
-src :@tglobaleye
-[عکس]
-‏🇩🇪 🇫🇷⚡️Germany's domestic intelligence agency selected French AI firm ChapsVision over Palantir for its data analysis platform, the first time a German federal security authority chose a European alternative. 
-‏
-‏Berlin aims to prevent US intelligence access to domestic surveillance data. Palantir's ties to US defense programs and CEO claims that the software is "used on occasion to kill people" contributed to the decision.
-‏
-‏🇪🇺 Legion Europa | Group Chat 🇪🇺
-13:03
-1405/02/25
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏◆ جزئیات حمله اشباح نیروی هوایی به مقر تجزیه طلب ها در اربیل ،تا چند روز دیگر رسانه ای خواهد شد 
@@ -5351,54 +5323,4 @@ src :@Parvazdaroj
 src :@warmonitors
 ‏⚡Al Jazeera correspondent: Israeli airstrike on the town of Burj al-Shamali in the Tyre district of southern Lebanon
 13:00
-1405/02/25
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 به گزارش بلومبرگ امارات سعی کرد عربستان سعودی، قطر و دیگر همسایگان عربی خلیج فارس را به یک پاسخ نظامی هماهنگ علیه ایران ملحق کند اما رد شد.
-‏
-‏🔹 شیخ محمد بن زاید شخصا با محمد بن سلمان و دیگر رهبران تماس گرفت 
-‏اما هیچکدام موافقت نکردند، امارات متحده عربی در نهایت به تنهایی عمل کرد.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-12:56
-1405/02/25
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺📷 پیام یک شهروند:
-‏
-‏با این گرونی‌ها تن ماهی خریدم داخلش مگس بود!
-‏
-‏یک شهروند با ارسال تصاویری نوشت: "
-‏سلام، توی این وضعیت با این قیمت‌ها،
-‏تن ماهی گرفتیم دونه‌ای ۱۹۵ تومن وجه رایج مملکت،
-‏داخلش مگس بوده با شرکت‌شون چندین مرتبه تماس گرفتیم هیچ‌کس حتی جواب تلفنو نمیده ما اول ریختیم داخل بشقاب بعد متوجه مگس کنسرو شده شدیم!!
-‏مجدد برگردوندیم داخل قوطی و بشقابو با اسید شستیم 
-‏زنگ زدم به خظ مشریان شبنم حتی جواب هم ندادن
-‏از سازمان بهداشت هم که عملا نباید توقع داشت."
-‏
-‏#تورم #سازمان_بهداشت
-‏@DEJradio
-12:52
-1405/02/25
-
-
-
-
-src :@thewarreporter
-‏🇦🇪🇸🇦🇶🇦🇪🇬🇮🇷 — The UAE attempted to persuade Saudi Arabia, Qatar, and other Gulf states to join a coordinated military response against Iran, but the proposal was rejected.
-‏
-‏Emirati President Mohamed bin Zayed Al Nahyan personally contacted Saudi Crown Prince Mohammed bin Salman and other regional leaders, though none agreed to participate, leaving the UAE to act largely on its own.  
-‏
-‏— Bloomberg | @TheWarReporter
-12:51
 1405/02/25
