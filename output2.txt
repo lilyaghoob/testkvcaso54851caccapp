@@ -1,3 +1,11 @@
+src :@ClashReport
+‏Large explosion seen near Beit Shemesh, Israel, was a controlled industrial blast — no injuries or damage.
+01:02
+1405/02/27
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏⭕️تکرار تهدید کاخ سفید با انتشار تصویری از ترامپ در اتاق جنگ
@@ -256,14 +264,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 Troy
 ‏▪️@World_Newsly
-00:35
-1405/02/27
-
-
-
-
-src :@naya_foriraq
-‏🏴‍☠️إعلام العدو: انفجار في مصنع شركة تومر. تقوم الشركة بتطوير وتصنيع محركات الصواريخ الثقيلة والخفيفة، بما في ذلك محركات الدفع لصواريخ آرو 2 وآرو 3، ومحرك صاروخ سيلفر أنكور المستهدف، ومحركات أقمار هورايزون الصناعية، ومحركات صواريخ باراك 8 وباراك إم إكس.
 00:35
 1405/02/27
 
@@ -1993,20 +1993,6 @@ src :@MilitiaNews
 
 
 
-src :@World_Newsly
-‏🔴 بلومبرگ: شوک به بازار جهانی انرژی؛ لویدز لندن پوشش بیمه‌ای کشتی‌ها در خلیج فارس را تعلیق کرد
-‏
-‏آژانس خبری بلومبرگ امروز گزارش داد که در پی تشدید تنش‌های نظامی و رونمایی ایران از طرح جدید دریافت عوارض عبور در تنگه هرمز، بزرگ‌ترین شرکت‌های بیمه دریایی جهان از جمله «لویدز لندن» پوشش بیمه‌ای خود را برای کشتی‌های تجاری در این منطقه به حالت تعلیق درآورده‌اند.
-‏این تصمیم بی‌سابقه، بسیاری از شرکت‌های بزرگ کشتیرانی را مجبور کرده است تا برای حفظ امنیت، مسیر خود را به سمت دماغه امید نیک در آفریقا تغییر دهند که این امر زمان و هزینه حمل‌ونقل را دو برابر می‌کند. به گفته کارشناسان بلومبرگ، این بحران ناگهانی باعث جهش قیمت نفت برنت به بالای ۹۵ دلار شده و در صورت تداوم بن‌بست میان واشنگتن و تهران، بازار جهانی با یک بحران جدی انرژی روبه‌رو خواهد شد.
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-21:49
-1405/02/26
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏🏴‍☠️إعلام العدو: مقتل جندي وإصابة آخرين في جنوب لبنان.
@@ -3447,21 +3433,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 17:45
-1405/02/26
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Norway canceled Naval Strike Missile system and launcher components sale to Malaysia, citing new restrictions limiting its most sensitive defense exports to allies only.
-‏
-‏Malaysia had already paid 95% of the contract and is now exploring legal options.
-‏
-‏Malaysia's PM Anwar Ibrahim:
-‏
-‏"Contracts are not confetti to be scattered in so capricious a manner."
-17:30
 1405/02/26
 
 
