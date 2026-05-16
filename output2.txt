@@ -1,9 +1,23 @@
-src :@guard_warriors
+src :@World_Newsly
 [عکس]
-‏✪ یک هواپیمای ترابری C-2 نیروی دفاع هوایی ژاپن از اسکادران ۴۰۲، در طول آموزش تاکتیکی پیشرفته در آریزونا، ایالات متحده، مانورهای گریز از موشک‌های زمین به هوای دشمن را انجام می‌دهد. در این آموزش، خدمه هواپیما تاکتیک‌های دفاعی را در پاسخ به تهدیدهای واقع‌بینانه می‌آموزند.
+‏🔴 فارس مدعی شد: یک نفتکش غول‌پیکر چینی که از تنگهٔ هرمز عبور کرده بود، خارج از خط محاصرهٔ آمریکا رویت شد
 ‏
-‏@Guard_Warriors | DmW
-15:42
+‏این نفتکش پیش از آغاز مذاکرات رئیس‌جمهور چین و ترامپ درحال عبور از مسیر تعیین‌شدهٔ ایران در تنگهٔ هرمز در کنار جزیرهٔ لارک دیده شده بود.
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+15:45
+1405/02/26
+
+
+
+
+src :@World_Newsly
+‏🔴 کانال 12 اسرائیل: ترامپ بزودی با اعضای کابینه خود جلسه اضطراری برای پایان دادن به اوضاع ایران برگزار می‌کند، حمله بسیار نزدیک است.
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+15:45
 1405/02/26
 
 
@@ -11,10 +25,32 @@ src :@guard_warriors
 
 src :@guard_warriors
 [عکس]
-‏✪ رسانه های روسی ادعا می‌کنند شب گذشته یک فروند F-16 اوکراینی توسط یک فروند Su-35 روسی منهدم شده است.
+‏✪  تصویری از نسخهٔ ناونشین  KAAN یعنی (KAAN-D) 
+‏
+‏برای ایجاد تصاویر از نرم‌افزار هوش مصنوعی استفاده شده است.
 ‏
 ‏@Guard_Warriors | DmW
-15:41
+15:43
+1405/02/26
+
+
+
+
+src :@GeoPWatch
+[ویدئو]
+‏🇺🇸🇳🇬❌🏴‍☠️ — President Trump announces that Abu-Bilal al-Minuki, a senior leader of the Islamic State's activities in west Africa and believed second-in-command of the Islamic State, was assassinated in a joint American-Nigerian operation. No further details…
+15:43
+1405/02/26
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ یک هواپیمای ترابری C-2 نیروی دفاع هوایی ژاپن از اسکادران ۴۰۲، در طول آموزش تاکتیکی پیشرفته در آریزونا، ایالات متحده، مانورهای گریز از موشک‌های زمین به هوای دشمن را انجام می‌دهد. در این آموزش، خدمه هواپیما تاکتیک‌های دفاعی را در پاسخ به تهدیدهای واقع‌بینانه می‌آموزند.
+‏
+‏@Guard_Warriors | DmW
+15:42
 1405/02/26
 
 
@@ -1683,17 +1719,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 12:59
-1405/02/26
-
-
-
-
-src :@World_Newsly
-‏🔴 نیویورک تایمز : عملیات تصرف جزیره خارک از سوی آمریکا و حمله به محل مواد هسته‌ای محتمل است!
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-12:58
 1405/02/26
 
 
@@ -3828,39 +3853,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇵🇸⚡️ — The U.S. is considering asking Israel to redirect part of the $5 billion in tax revenue it is withholding from the Palestinian Authority to the Board of Peace in support of Trump’s $70 billion postwar Gaza reconstruction plan, according to Reuters.
-‏
-‏➡️ Part of the funds could go to a U.S.-backed transitional administration in the Gaza Strip, while another portion could be released to the Palestinian Authority if it implements reforms.
-‏
-‏➡️ The Trump administration has ‌not yet decided whether to make a formal request to Israel.
-04:16
-1405/02/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇭🇺⚡️ — Hungary's Prime Minister Péter Magyar:
-‏Viktor Orbán, who, on paper, owns almost nothing, would be entitled to 38,801,013 HUF (approx. $125,000) in severance pay under the very law he introduced - for plundering our country.
-‏
-‏He will not receive it.
-04:07
-1405/02/26
-
-
-
-
-src :@tabzlive
-‏🇱🇧🇱🇧❌🇮🇱 — Hezbollah launched 33 attacks on Israeli soldiers inside southern Lebanon on Friday.
-03:50
-1405/02/26
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸 — A new poll released by Big Data Polling shows Thomas Massie slightly leading in the Kentucky-04 representative primary by 50.6% against Ed Gallrein.
 ‏
@@ -3878,15 +3870,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:24
-1405/02/26
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇬🇧🇫🇷HMS Dragon is currently operating in the Southern Red Sea after passing through the Suez Canal earlier this week.   ➡️ In order to prepare for regional operations, the ship's crew sharpened their awareness through live firing exercises in realistic, high…
-02:59
 1405/02/26
 
 
@@ -5344,18 +5327,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 16:24
-1405/02/25
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 U.S. Secretary of Energy, Chris Wright:
-‏
-‏‘The decision on the Strait of Hormuz is in Iran’s hands’
-‏
-‏@Middle_East_Spectator
-16:23
 1405/02/25
 
 
