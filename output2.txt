@@ -1,3 +1,57 @@
+src :@IRRadar
+‏🔴 آخرین اخبار وضعیت اینترنت در کشور
+‏
+‏بر اساس گزارش‌های دریافتی، طی روزهای اخیر محدودیت‌ها و اختلالات اینترنتی در بخش‌های مختلف شبکه کشور افزایش یافته است.
+‏
+‏▪️ گیت‌هاب مجدد از دسترس خارج شده است.
+‏
+‏▪️ اختلال گسترده روی پورت 53 گزارش شده که باعث از کار افتادن یا ناپایداری بسیاری از DNSها شده است.
+‏
+‏▪️ اینترنت موبایل دچار اختلال شده و کاربران همراه اول و ایرانسل و رایتل از کندی و اختلال گسترده خبر می‌دهند.
+‏
+‏▪️ کاهش مجدد پهنای باند بین‌الملل باعث کندی ساعتی و ناپایداری شبکه در ساعات پرمصرف ترافیک در روز شده است.
+‏
+‏▪️ محدودیت روی IP هاستینگ‌ها افزایش یافته تا از ایجاد تانل‌های مبتنی بر هاست، مانند تانل وردپرس، جلوگیری شود.
+‏
+‏▪️ همچنین گزارش‌هایی منتشر شده مبنی بر اینکه «شکن» برای برخی افرادی که از DNSهای این سرویس جهت ساخت یا راه‌اندازی فیلترشکن استفاده می‌کردند، پرونده قضایی تشکیل داده است.
+‏
+‏📡 @IRRadar
+14:51
+1405/02/26
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ارتش اسرائیل:
+‏حمله به زیرساخت‌های حزب‌الله در جنوب لبنان را آغاز کردیم.
+‏
+‏@MilitarryWorld | Parsa
+14:50
+1405/02/26
+
+
+
+
+src :@DEJradio
+[عکس]
+‏🔺📢 اسکات بسنت وزیرخزانه‌داری آمریکا:
+‏رژیم ایران دستمزد سربازایش را هم نمی‌تواند پرداخت کند
+‏
+‏ ‏اسکات بسنت وزیرخزانه‌داری آمریکا 
+‏در مصاحبه با سی‌ان‌بی‌سی درباره جمهوری اسلامی گفت، فقط تا اینجای امسال، آن‌ها سی تا چهل هزار تن را اعدام کرده‌اند؛ خیلی از آن‌ها هم معترضان مسالمت‌آمیز بوده‌اند. خب، با چنین رژیمی چطور باید برخورد کرد؟
+‏
+‏او افزود: باید از نظر اقتصادی حکومت ایران را تحت فشار گذاشت و ما معتقدیم به جایی رسیده‌اند که حتی دستمزد سربازهایشان هم پرداخت نمی‌شود.
+‏دیگر نمی‌توانند ذخایر تسلیحاتی‌شان را از خارج تأمین کنند. بنابراین فکر می‌کنم در آخرین نفس‌هایشان هستند.
+‏
+‏#نیروهای_مسلح #جنگ
+‏@DEJradio
+14:49
+1405/02/26
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏⭕️ عضو شورای شهر تهران: 
@@ -746,22 +800,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[عکس]
-‏مشاهدات شما از بحران کمبود و گرانی سوخت در استان‌های مختلف ایران چیست؟ 
-‏
-‏
-‏روی لینک زیر کلیک کنید و پیام‌های خود از طریق مدیا‌بات برای ما بفرستید. 
-‏
-‏https://t.me/intlmedia_bot
-‏
-‏پیام‌های شما به صورت زیر‌نویس در تلویزیون و همچنین در بخش‌های مختلف‌ خبری منتشر خواهد شد
-13:28
-1405/02/26
-
-
-
-
 src :@defence_news
 [فایل]
 ‏در یک نگاه مختصر و کوتاه به بولپاپ های بر پایه AK 
@@ -877,9 +915,9 @@ src :@tabzlive
 [عکس]
 ‏🇬🇧⚡️ — PM Starmer is fighting to survive as Streeting quits the cabinet, over 90 MPs demand his exit, and Burnham edges closer to a Westminster return — but no formal leadership challenge has been triggered yet, according to The New York Times.
 ‏
-‏➡️ Streeting resigned Thursday accusing Starmer of a "vacuum" of vision, claiming he has the 81 MPs needed; Starmer's camp says only about 44 are committed. Burnham, far more popular than Starmer, has been cleared to run for the Makerfield by-election (likely June 18), with a win giving him a direct shot at the leadership.
+‏Streeting resigned Thursday accusing Starmer of a "vacuum" of vision, claiming he has the 81 MPs needed; Starmer's camp says only about 44 are committed. Burnham, far more popular than Starmer, has been cleared to run for the Makerfield by-election (likely June 18), with a win giving him a direct shot at the leadership.
 ‏
-‏➡️ The turmoil follows devastating local elections — nearly 1,500 council seats lost, ejected from power in Wales, worst-ever Scottish result — and Reform UK's surge. Rayner cleared her tax hurdle, 100+ MPs back Starmer, and one ally still believes he'd win any head-to-head contest.
+‏The turmoil follows devastating local elections — nearly 1,500 council seats lost, ejected from power in Wales, worst-ever Scottish result — and Reform UK's surge. Rayner cleared her tax hurdle, 100+ MPs back Starmer, and one ally still believes he'd win any head-to-head contest.
 13:13
 1405/02/26
 
@@ -2596,18 +2634,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:41
-1405/02/26
-
-
-
-
-src :@MilitarryWorld
-‏⭕️منابع روسی:
-‏
-‏یک جنگنده سوخو-35 نیروی هوایی روسیه، یک جنگنده F-16 فایتینگ فالکون ناتو را سرنگون کرده است
-‏
-‏ @MilitarryWorld | Parsa
-09:40
 1405/02/26
 
 
@@ -5320,14 +5346,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 14:56
-1405/02/25
-
-
-
-
-src :@warmonitors
-[عکس]
-‏99.8% 
-‏x.com/telegraph/stat…
-14:50
 1405/02/25
