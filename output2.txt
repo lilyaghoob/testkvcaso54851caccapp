@@ -1,3 +1,60 @@
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇵🇸 — An Israeli airstrike targeted a vehicle in western Gaza City a short while ago, killing at least 3 Palestinians and injuring several others.
+20:56
+1405/02/26
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏#فأن_حزب‌الله_و_هم_الغالبون.... 
+‏#جبهه_مقاومت_اسلامی_لبنان
+‏#بنت_جبیل
+‏
+‏@P_raetorio
+20:55
+1405/02/26
+
+
+
+
+src :@warmonitors
+‏Lmaoo thats it??
+‏x.com/gbpolitcs/stat…
+20:55
+1405/02/26
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Al-Aabbassiyah in southern Lebanon a few moments ago.
+20:53
+1405/02/26
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏شرکت آمریکایی «اندوریل» قراردادی برای تولید حداقل ۳۰۰۰ موشک کروز Barracuda-500M برای ارتش آمریکا امضا کرد.
+‏
+‏این موشک‌های کروز جدید از داخل کانتینرهای استاندارد ۲۰ فوتی شلیک می‌شوند و هر کانتینر قابلیت حمل ۱۶ موشک را دارد. برد Barracuda-500M بیش از ۹۲۵ کیلومتر اعلام شده و توان حمل کلاهک ۴۵ کیلوگرمی را دارد.
+‏
+‏تحویل نخستین سری شامل ۱۰۰۰ موشک و ۶۰ سامانه پرتاب کانتینری از سال ۲۰۲۷ آغاز خواهد شد.
+‏
+‏موشک Barracuda-500M با هدف تولید انبوه ارزان‌قیمت طراحی شده و از قطعات تجاری و غیرنظامی موجود در بازار استفاده می‌کند تا سرعت تولید بالا برود. این موشک همچنین قابلیت هدایت خودکار و حمله گروهی به اهداف زمینی و دریایی را دارد.
+‏
+‏ارتش آمریکا این پروژه را بخشی از برنامه توسعه تسلیحات دوربرد ارزان‌قیمت برای نبردهای آینده و مقابله با چین و روسیه می‌داند.
+20:52
+1405/02/26
+
+
+
+
 src :@World_Newsly
 ‏🔴  کاخ سفید : همه گزینه ها درباره جمهوري اسلامي در اختیار ترامپ است 
 ‏
@@ -1346,17 +1403,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇷🇺🇲🇩⚡️ — Russian President Vladimir Putin has signed a decree creating a simplified path to Russian citizenship for residents of Transnistria, the separatist territory within Moldova’s internationally recognized borders.
-‏
-‏➡️ Under the decree, foreign nationals and stateless people aged 18 or older who permanently lived in Transnistria when the measure took effect can apply for citizenship without meeting several standard requirements, including five years of residency in Russia and tests on the Russian language, history, and legal system.
-18:59
-1405/02/26
-
-
-
-
 src :@jangaavaran1390
 ‏مقامات تایوانی به تایمز گفتند که آنها از صحبت‌های ترامپ در مورد اینکه آنها حاضر نیستند در صورت اعلام استقلال تایوان از آنها حمایت و حتی دفاع کنند بسیار دلسرد شدند. یک مقام تایوانی به این نشریه گفت که هموار جمهوری‌خواهان از دنیای آزاد در مقابل کمونیست‌ها دفاع کردند ولی به نظر می‌رسد که ترامپ منافع شخصی خود را از جهان آزاد بالاتر می‌داند
 18:58
@@ -1563,15 +1609,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇬🇨🇩⚡️- Uganda and the DRC both announced a new Ebola outbreak was underway in their countries.  66 deaths have been recorded.
-18:29
-1405/02/26
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷/🇹🇷 NEW: Turkish Foreign Minister Hakan Fidan and Ali Bagheri Kani, Deputy Secretary of Iran's Supreme National Security Council, met in Istanbul on Saturday
@@ -1614,15 +1651,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 18:21
-1405/02/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇸🇾🇺🇸⚡️ — Syrian President Ahmed al-Sharaa met with U.S. Special Envoy to Syria Thomas Barrack in Damascus today to discuss recent developments in Syria and the wider region, as well as prospects for expanding economic and trade cooperation between the two countries.
-18:20
 1405/02/26
 
 
@@ -1804,16 +1832,6 @@ src :@Minas_Tirith2024
 ‏
 ‏ https://t.me/V2ray_confing1
 18:00
-1405/02/26
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏العربیه به نقل از منابعی خبر داد که سفر محسن نقوی، وزیر کشور پاکستان، به ایران با هدف رسیدن به چارچوب یک توافق انجام شده است. بر اساس این گزارش، پیشرفت مثبتی درباره تنگه هرمز حاصل شده و درها برای مذاکره درباره موارد باقی‌مانده از جمله موضوع هسته‌ای، باز است
-‏https://iranintl.com/202605165331
-17:57
 1405/02/26
 
 
@@ -2796,15 +2814,6 @@ src :@Indypersian
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏هند تصمیم گرفته بر اساس تجارب نبردهای اخیر در روسیه و خاورمیانه ، توپ های دفاع هوایی قدیمی ۴۰ میلیمتری بوفورس که ریشه به پیش از جنگ جهانی دوم دارد ولی به دلیل نوع مهمات به شدت موثر هستند را با سامانه‌های اپتیکی و رایانه کنترل آتش برای درگیری در ارتفاع کم تجهیز کند
-14:59
-1405/02/26
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏طی یک هفته اخیر 38 نظامی و نیروی امنیتی پاکستانی طی درگیری با گروه های شبه نظامی در بلوچستان و خیبر پختونخوا کشته شده اند   @Minas_Tirith2024
 14:57
@@ -2955,14 +2964,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-‏🌟🇮🇷وكالة الأنباء الإيرانية: زيارة غير معلنة لوزير الداخلية الباكستاني لطهران للقاء المسؤولين الإيرانيين
-14:44
-1405/02/26
-
-
-
-
 src :@didarnews1
 ‏🔴 از دقایقی قبل سوپراپلیکیشن بله با اختلال مواجه شده و کار نمی کند
 ‏
@@ -3083,21 +3084,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 14:03
-1405/02/26
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏اولین دستگاه سامانه پدافند هوایی توپخانه‌ای MDACS از شرکت BAE Systems برای آزمایش به ارتش آمریکا تحویل داده شد.
-‏
-‏هر آتشبار این سامانه شامل هشت هویتزر خودکششی 155 میلی‌متری بر پایه 4 کامیون FMTV  رادار و 2 مرکز فرماندهی است MDACS از گلوله‌های 155 م.م HVP استفاده می‌کند که بردی تا 80 کیلومتر، سرعتی تا 9 ماخ و هزینه‌ هر شلیک حدود 86 هزار دلار دارند.
-‏
-‏اولین آتشبار  MDACS که قرار است علیه پهپادها و موشک‌های کروز استفاده شود  که در سال 2028 عملیاتی می‌شود. 
-‏
-‏@P_raetorio
-13:53
 1405/02/26
 
 
