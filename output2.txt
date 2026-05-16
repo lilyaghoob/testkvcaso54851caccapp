@@ -1,4 +1,76 @@
 src :@defence_news
+[فایل]
+‏در یک نگاه مختصر و کوتاه به بولپاپ های بر پایه AK 
+‏نگاهی به ظهور بولپاپ های ساخته شده در جنگ سوریه
+‏
+‏L.t
+‏@BallisticBrain
+13:27
+1405/02/26
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇱🇵🇸🇵🇸 The IDF and the Shin Bet now officially confirmed that the leader of the military-wing of Hamas Izz al-Din al-Haddad was eliminated.
+‏
+‏@wfwitness
+13:26
+1405/02/26
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇮🇱🇵🇸🇵🇸 — The IDF carried out an assassination strike in Gaza City targeting Al-Qassam Brigades commander Izz al-Din al-Haddad.  A senior Israeli security official told reporters there are 'initial indications' that the operation was successful.  @TheWarReporter
+13:24
+1405/02/26
+
+
+
+
+src :@didarnews1
+‏🔴یک مقام ارشد اسرائیلی در گفتگو با کانال ۱۲ اسرائیل: تل‌آویو در حال آماده شدن برای یک جنگ چند روزه یا چند هفته‌ای با ایران است! /فارس
+‏
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+13:24
+1405/02/26
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار بامدادی | شنبه ۲۶ اردیبهشت
+‏@iranintlTV
+13:22
+1405/02/26
+
+
+
+
+src :@IranintlTV
+‏روایت شما از زندگی در آتش‌بس- شنبه ۲۶ اردیبهشت ۱۴۰۵
+‏
+‏🔹 من یک معلول ضایعه نخاعی هستم، ۳۳ سال سن دارم. یک ساله بیکار شدم. هر جا می‌رم به خاطر معلولیتم به من کار نمی‌دن. الان هم که به خاطر شرایط جنگ، اکثر شرکت‌ها تعدیل نیرو دارن.
+‏🔹 از ماهشهر، از وضع مردم خون به جگرم، اما حال و روز نیروی انتظامی دیدن داره، کنار خیابون بساط کردن. راستی از پرداختاتون چه خبر؟ ظاهراً ولتون کردن.
+‏🔹 در حالی که سه ماهه وضع معیشتی سخت شده و بیکار شده‌ایم، قبض برق، گاز و آب گرون شده. سه ماهه مجلس هم تقریباً به‌هم ریخته. چرا نمایندگان مجلس باید حقوق آنچنانی بگیرند؟ مفت‌خورا.
+‏🔹 من با هزار بدبختی به اینترنت وصل شدم. خواستم بگم دمِ خارج از کشور گرم که هوای ما رو دارن.
+‏🔹 از بوشهر؛ جایگاه‌های سوخت بنزین ندارند. روزهای سختی با جمهوری اسلامی در راه است ولی ما تا سقوط این وضعیت تحمل می‌کنیم.
+‏🔹 تسمه دینام پژو ۴۰۵ قبل از دی‌ماه ۴۰۰ تومن بود، الان شده یک میلیون و ششصد.
+‏🔹 اولین بار که بعد از قطع نت وصل می‌شم. افزایش قیمت‌ها عجیب و غریب شده. دانش‌آموز و دانشجو بلاتکلیفن. بعضی‌ها هم از فرصت استفاده می‌کنن و دوباره زبان‌شون دراز شده. امیدوارم زودتر حمله بشه تا اینا برگردن سر جاشون. پاینده ایران.
+13:21
+1405/02/26
+
+
+
+
+src :@defence_news
 [عکس]
 ‏◆ در صبحگاه دهم اسفندماه، چهار فروند جنگنده فانتوم نیروی هوایی ایران مأموریتی علیه مواضع کردهای مسلحی که قصد نفوذ به خاک ایران را داشتند، و همچنین علیه نیروهای آمریکایی مستقر در فرودگاه اربیل، انجام دادند. در این عملیات، دو فروند فانتوم وظیفه اسکورت به عنوان تاپ کاور  یا تأمین امنیت هوایی را بر عهده داشتند و دو فروند دیگر مأمور اجرای عملیات بمباران بودند. جنگنده‌های بمب‌افکن موفق شدند مأموریت خود را به‌طور کامل انجام داده و اهداف تعیین‌شده را مورد اصابت قرار دهند.
 ‏
@@ -1518,19 +1590,6 @@ src :@didarnews1
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱 The IDF issued an urgent evacuation warning to residents of Qaqaiyat al-Sanoubar, Kawthariyat al-Sayyad, al-Marwaniyya, al-Ghasaniyya, Tuffahta, Arzi (Sidon), al-Babliya, Ansar (Nabatieh), al-Bisariya in southern Lebanon, stating that it is preparing to act against what it described as Hezbollah ceasefire violations.
-‏
-‏The IDF called on residents to leave their homes immediately and move at least 1,000 meters away to open areas, warning that anyone near Hezbollah facilities or combat infrastructure would be at risk. 
-‏
-‏@wfwitness
-10:41
-1405/02/26
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏مسعود پزشکیان، رییس دولت جمهوری اسلامی، در پیامی به پاپ لئو، رهبر کاتولیک‌های جهان، از آنچه «موضع اخلاقی و منطقی» او در قبال جنگ ایران خواند، قدردانی کرد.
@@ -2191,17 +2250,6 @@ src :@Military_Times_Blog
 src :@naya_foriraq
 ‏تسلل طيران مسير من حزب الله باتجاه شمال الكيان المحتل
 09:18
-1405/02/26
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
-‏
-‏@wfwitness
-09:17
 1405/02/26
 
 
@@ -3598,22 +3646,6 @@ src :@naya_foriraq
 src :@rnintel
 ‏🇦🇪🇮🇱⚡- "It appears that Tel Aviv is betting on dismantling Abu Dhabi’s network of relations with its surrounding countries one after another, pushing it towards isolation that leaves it with no option but Israel–the same approach that Israel is practicing with the United States," - The Saudi Post.
 23:31
-1405/02/25
-
-
-
-
-src :@didarnews1
-‏🔴فاکس‌نیوز: جایزه ۲۰۰ هزار دلاری FBI برای کسب اطلاع از افسر سابق نیروی هوایی آمریکا که به ایران پیوسته و اطلاعات نظامی حیاتی را لو داده است
-‏
-‏🔹«مونیکا ویت» متخصص سابق نیروی هوایی ظاهراً از سال ۲۰۱۳ فرار کرده و اطلاعات طبقه‌بندی شده دفاع ملی را در اختیار تهران قرار داده است.
-‏🔹او متهم است با استفاده از دسترسی‌های امنیتی خود، هویت همکاران سابق و جزئیات پروژه‌های حساس اطلاعاتی آمریکا را به مأموران ایرانی لو داده است.
-‏🔹مقامات امنیتی آمریکا معتقدند ویت پس از خروج از کشور، همکاری نزدیکی با نهادهای اطلاعاتی ایران آغاز کرده و در عملیات‌های سایبری علیه پرسنل نظامی آمریکا نقش داشته است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-23:26
 1405/02/25
 
 
@@ -5142,18 +5174,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 15:12
-1405/02/25
-
-
-
-
-src :@defence_news
-[عکس]
-‏◆ نیروی هوایی ایران برای انجام ماموریت پراکندگی،هواپیما های شنود و مدیریت میدان نبرد به خصوص فالکون هارا به عمان و پاکستان اعزام کرد.
-‏در جنگ دوازده روزه هم این کار انجام شده بود
-‏
-‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
-15:08
 1405/02/25
 
 
