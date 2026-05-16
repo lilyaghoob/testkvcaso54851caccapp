@@ -3062,21 +3062,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇮🇹❗️ — Italian media reports that an individual ran over into dozens of people on a busy pedestrian street in Modena, Italy. Several people are in serious condition. 
-‏
-‏The attacker, after leaving his car, also stabbed at least one person. 
-‏
-‏The driver was subdued by citizens and the police.
-‏
-‏@BellumActaNews
-19:45
-1405/02/26
-
-
-
-
 src :@GeoPWatch
 ‏#BREAKING ⚡️🇵🇸🇵🇸❌🇮🇱 - The AlQassam Brigades has confirmed the death of Izz ElDin AlHaddad, the replacement Chief of Staff of the group, killed in yesterday's IAF strikes alongside his wife and daughter.   📝 The full published mourning statement [click to expand]:…
 19:45
