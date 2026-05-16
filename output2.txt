@@ -1,3 +1,66 @@
+src :@mwarmonitor
+[عکس]
+‏ترامپ در سوشال تروث 
+‏
+‏«این آرامشِ پیش از طوفان بود»
+‏
+‏@mwarmonitor
+23:42
+1405/02/26
+
+
+
+
+src :@ircfspace
+[عکس]
+‏نسخه ۱۶ از فیلترشکن #MahsaNG برای گوشی‌های اندروید در دسترس قرار گرفت.
+‏در این آپدیت هسته‌های MasterDNS، GooseRelay و FlowDriver اضافه شدن، قابلیت CDN-Fronting سایفون تعبیه شده که میتونه شانس اتصال رو در برخی محدودیت‌های شدید شبکه افزایش بده، امکان وارد کردن دستی HTTP Type لحاظ شده، یه سری از مشکلات رفع شدن و اسکنر DNS حالا IPهارو بصورت تصادفی بررسی می‌کنه تا نتایج بهتری ارائه بده.
+‏
+‏👉 github.com/GFW-knocker/MahsaNG/releases/latest
+‏💡 t.me/PersianGithubMirror/5051
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+23:40
+1405/02/26
+
+
+
+
+src :@naya_foriraq
+‏🌟🏴‍☠️حزب الله يعلن عن استهداف وإحراق دبابة ميركافا تابعة لجيش الإحتلال في بلدة البياضة بجنوب لبنان.
+23:40
+1405/02/26
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇱 BREAKING: Huge explosion in Beit Shemesh, Israel  @Middle_East_Spectator
+23:39
+1405/02/26
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏ترامب: كان الهدوء الذي يسبق العاصفة.
+23:38
+1405/02/26
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇱 BREAKING: Huge explosion in Beit Shemesh, Israel  @Middle_East_Spectator
+23:38
+1405/02/26
+
+
+
+
 src :@Minas_Tirith2024
 [عکس]
 ‏گزارش‌ها از انفجار و نور بسیار شدید در بیت شِمِش در اسرائیل  #خبر    @P_raetorio
@@ -2078,16 +2141,6 @@ src :@cataphract1
 
 
 
-src :@naya_foriraq
-‏ترفيهي
-‏
-‏⭐️صنداي تلغراف: يحث مساعدو ترامب دولة الإمارات العربية المتحدة على تعميق دورها في حرب إيران - بما في ذلك الاستيلاء على جزيرة لافان الإيرانية الاستراتيجية.
-19:55
-1405/02/26
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏#NEWS | 🇺🇸 🇮🇱 — The U.S. is considering asking Israel to redirect a portion of the approximately $5 billion in withheld Palestinian Authority tax revenues toward President Trump’s post-war Gaza reconstruction plan.
@@ -3333,24 +3386,6 @@ src :@rnintel
 
 
 
-src :@mwarmonitor
-‏⚠️اطلاعیه فوری ⚠️
-‏
-‏⚠️"با نزدیک شدن به لحظه درگیری‌های مجدد، ثانیه‌ها سرنوشت‌ساز شده‌اند. اکنون زمان انتخاب میان بقا یا قربانی شدن در راه منافع سران است. از پادگان‌ها و مراکز نظامی فاصله بگیرید و جان خود را فدای وعده‌های توخالی نکنید."
-‏
-‏⚠️با توجه به نشانه‌های موجود و احتمال آغاز مجدد درگیری‌های نظامی، حفظ هوشیاری و اتخاذ تصمیمات درست در این لحظات بحرانی برای تمامی گروه‌های جامعه، از شهروندان عادی تا بدنه نیروهای مسلح، امری حیاتی و سرنوشت‌ساز است.
-‏
-‏⚠️در همین راستا، به سربازان وظیفه و کادر نظامی توصیه می‌شود که از حضور در پادگان‌ها و مراکز نظامی خودداری کنند. تجربه و تاریخ نشان داده است که در اوج بحران‌ها، سران و تصمیم‌گیرندگان اصلی ساختار با تضمین مسیرهای خروج خود به کشورهای هم‌پیمان مانند چین و روسیه، بدنه رده‌پایین و نیروهای فریب‌خورده را به عنوان سپر بلا در میدان رها می‌کنند؛ بنابراین عاقلانه‌ترین راه، فاصله گرفتن از نظام و ایستادن در سمت درست تاریخ یعنی در کنار مردم است.
-‏
-‏⚠️همچنین از تمامی شهروندان و غیرنظامیان تقاضا می‌شود برای حفظ جان خود، فوراً از نزدیکی زیرساخت‌های انرژی از جمله پالایشگاه‌ها و نیروگاه‌ها و همچنین مراکز و پادگان‌های نظامی فاصله بگیرند. در نهایت، با توجه به پیش‌بینی‌ها مبنی بر احتمال تمرکز حملات بر روی امارات متحده عربی، از هموطنان مقیم این کشور درخواست می‌شود که در بالاترین سطح آمادگی و هوشیاری قرار داشته و مراقبت‌های لازم را به عمل آورند.
-‏
-‏@mwarmonitor
-15:53
-1405/02/26
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸🇳🇬❌🏴‍☠️- U.S. Africa Command has released footage of the strike that killed the second-in-command of the Islamic State, Abu-Bilal al-Minuki, in Northeastern Nigeria.  @GeoPWatch
@@ -3487,15 +3522,6 @@ src :@warmonitors
 ‏
 ‏#ad
 15:17
-1405/02/26
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸- The "Bear Aces" of Airborne Command and Control Squadron (VAW) 124 and Strike Fighter Squadron (VFA) 213 (AKA. "Blacklions") returned to their respective home stations today, following an eleven month deployment as part of the Gerald R. Ford Carrier Strike…
-15:13
 1405/02/26
 
 
@@ -5151,16 +5177,6 @@ src :@MilitiaNews
 src :@guard_warriors
 ‏فقط در ناو هواپیمابر جرالد فورد ۲۵ فروند انواع هواگرد سوختند و نابود شدند (البته یکی از دوستان به من گفت تعداد آنها بیشتر است ولی من روی همان عدد ۲۵ فروند که پیش از این یکی از دوستان به من گفته بود تاکید می‌کنم)
 01:57
-1405/02/26
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇱🇧/🇮🇱 NEW: The ‘ceasefire’ between Israel and Hezbollah has been extended for 45 days
-‏
-‏@Middle_East_Spectator
-01:12
 1405/02/26
 
 
