@@ -1,3 +1,39 @@
+src :@naya_foriraq
+‏صافرات الانذار تدوي في المطلة بعد تسلل سرب طائرات مسيرة تابع لحزب الله
+16:09
+1405/02/26
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+16:09
+1405/02/26
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏✈️🇺🇸نیروی هوایی آمریکا (USAF) – جنگ ایران ۲۰۲۶ | ۱۶ مه
+‏
+‏✈️تعداد پروازهای ورودی هواپیماهای ترابری C-17 به منطقه فرماندهی مرکزی آمریکا (CENTCOM) و پایگاه‌های مرتبط به دست‌کم 1,320 پرواز رسیده و 10 پرواز دیگر نیز در حال انجام است.
+‏
+‏✈️8 مورد از این پروازهای جدید از پایگاه هوایی Pope Army Airfield آمریکا انجام شده‌اند و مقصد مشخصی برای آن‌ها قابل شناسایی نیست.
+‏
+‏✈️حداقل 6 پرواز جدید نیز به‌نظر می‌رسد حرکت‌های خروجی از CENTCOM به سمت پایگاه‌هایی در خاک آمریکا (CONUS) باشند؛ همان پایگاه‌هایی که بیشتر پروازها از آن‌ها آغاز شده‌اند.
+‏
+‏@mwarmonitor
+16:08
+1405/02/26
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️آسوشیتدپرس: امارات همکاری با اسرائیل را عمیق‌تر کرده، اما محتاطانه پنهان نگه میدارد
 ‏
@@ -764,22 +800,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 14:53
-1405/02/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Head of the Iranian Parliament's National Security Commission Ebrahim Azizi:
-‏Iran, within the framework of its national sovereignty and the guarantee of international trade security, has prepared a professional mechanism to manage traffic in the Strait of Hormuz along a designated route, which will be unveiled soon.
-‏
-‏In this process, only commercial vessels and parties cooperating with Iran will benefit from it.
-‏
-‏The necessary fees will be collected for the specialized services provided under this mechanism.
-‏
-‏This route will remain closed to the operators of the so‑called “freedom project.”
-14:52
 1405/02/26
 
 
@@ -1636,19 +1656,6 @@ src :@defence_news
 
 
 
-src :@World_Newsly
-‏🔴 ناو هواپیمابر جرالد فورد آمریکا پس از ۱۱ ماه ماموریت به آمریکا بازگشت
-‏این ناو ۳۲۶ روز در دریا بوده که طولانی‌ترین استقرار یک ناو هواپیمابر آمریکایی در ۵۰ سال گذشته و سومین رکورد از زمان جنگ ویتنام است
-‏در چند هفته گذشته این ناو با مشکلاتی نظیر آتش سوزی و گرفتگی فاضلاب سرویس های بهداشتی روبرو بود
-‏
-‏✍🏻 Cyrus
-‏▪️@World_Newsly
-13:16
-1405/02/26
-
-
-
-
 src :@MilitarryWorld
 ‏🚨فوری / ارتش اسرائیل: فرمانده گردان‌های القسام، عزالدین الحداد  همراه با محافظ‌هایش در غزه ترور شد  @MilitarryWorld | Parsa
 13:16
@@ -2324,15 +2331,6 @@ src :@wfwitness
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 An Israeli airstrike targeted the town of Qaqiyyat Al-Sanoubar and amother airstrike on the town Tafahat in southern Lebanon.  @wfwitness
 11:57
-1405/02/26
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 A wave of Israeli airstrikes on southern Lebanon this morning.  @wfwitness
-11:56
 1405/02/26
 
 
@@ -4062,14 +4060,6 @@ src :@bricsnews
 
 
 
-src :@naya_foriraq
-‏جهاز ال FBI الأمريكي : ألقت عناصر مكتب التحقيقات الفيدرالي القبض على محمد السعدي، وهو هدف آخر ذو قيمة عالية مسؤول عن الإرهاب العالمي الجماعي، وأعادته إلى البلاد - في أحدث نجاح في العمل التاريخي لإدارة ترامب لتقديم الإرهابيين إلى العدالة. يُزعم أن السعدي وشركائه…
-00:20
-1405/02/26
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷 NEW: Iranian hackers have gained access to gas station monitors and systems across various U.S. states  – CNN  @Middle_East_Spectator
 23:57
@@ -4816,20 +4806,6 @@ src :@KayhanLondonChannel
 ‏خاورمیانه را نمی‌توان بدون بررسی یکی از پایدارترین رقابت‌هایش درک کرد: رابطه پرتنش و اغلب بی‌ثبات جمهوری اسلامی با آمریکا و اسرائیل. 
 ‏«پرتوی دیگر» هر آدینه ساعت ۱۹:۰۰ بوقت تهران، بطور زنده از شبکه تلویزیونی «دژ»  و کانال یوتیوب کیهان لندن.
 19:21
-1405/02/25
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏🇦🇪به همین دلیل است که امارات متحده عربی با شدت به‌دنبال توسعه خط لوله حبشان است.
-‏🔹صادرات این کشور از ابوظبی و الرویس تقریباً به صفر نزدیک شده است.
-‏❗️در بیش از ۳۰ روز گذشته تعداد بسیار کمی نفتکش در این بنادر پهلو گرفته‌اند.
-‏🔸در نتیجه، برای جلوگیری از آسیب‌های ناشی از توقف تولید (shut-in)، امارات ناچار شده در چندین ایستگاه پمپاژ نفت و گاز به‌طور گسترده اقدام به سوزاندن گاز (فلرینگ) کند.
-‏
-‏@mwarmonitor
-19:16
 1405/02/25
 
 
