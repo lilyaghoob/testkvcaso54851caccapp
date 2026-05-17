@@ -1,3 +1,63 @@
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- "The Tripoli Amphibious Ready Group is enforcing the U.S. blockade against Iran. As of May 17, U.S. forces have redirected 81 commercial vessels and disabled 4 to ensure compliance." - U.S. Central Command.
+17:56
+1405/02/27
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇦🇪 — The UAE said a drone struck an electrical generator near the Barakah Nuclear Power Plant in Abu Dhabi.   The fire was quickly contained, no injuries or radiation risks were reported, and all four reactors remain operational.   No group has claimed responsibility.…
+17:53
+1405/02/27
+
+
+
+
+src :@World_Newsly
+‏🔴 یک هواپیمای ویژه C-40 Clipper نیروی دریایی ایالات متحده که از یونان حرکت کرده بود،
+‏دقایقی پیش در پایگاه هوایی شاهزاده سلطان در عربستان سعودی فرود آمده است،
+‏هواپیما حامل چندین ژنرال ارشد ارتش آمریکا می‌باشد.
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+17:53
+1405/02/27
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 برای اولین بار از نمونه اولیه جنگنده دو‌نفره Su-57 روسیه با نام Su-57D هنگام آزمایش‌های زمینی عکس منتشر شده است.
+‏اگر این موضوع تأیید شود، این هواپیما بعد از J-20S چین، دومین جنگنده نسل پنجم دونفره در جهان خواهد بود.
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+17:53
+1405/02/27
+
+
+
+
+src :@World_Newsly
+‏🔴 بحرین در آماده‌باش کامل، تهران هشدار داد
+‏
+‏به گزارش گلف نیوز همزمان با بالا رفتن تنش‌ها در خلیج فارس، رسانه‌های منطقه‌ای گزارش داده‌اند نیروهای دفاعی بحرین در «بالاترین سطح آمادگی و هشدار دفاعی» قرار گرفته‌اند. این خبر در حالی منتشر شده که یک قانونگذار ایرانی به بحرین درباره آنچه «اقدام ضدایرانی» در سازمان ملل خوانده، هشدار داده است.
+‏بحرین به دلیل میزبانی از ناوگان پنجم آمریکا، یکی از حساس‌ترین نقاط نظامی خلیج فارس است. هر افزایش آماده‌باش در منامه فقط یک خبر داخلی نیست؛ مستقیم به محاسبات تهران، واشنگتن و کشورهای خلیج فارس وصل میشود.
+‏
+‏خلیج فارس وارد مرحله‌ای شده که حتی کشورهای کوچک هم دیگر تماشاگر نیستند. بحرین میداند در صورت شعله‌ور شدن دوباره جنگ، ممکن است یکی از اولین نقاط فشار ایران باشد. از آن طرف، هشدار تهران نشان میدهد جمهوری اسلامی از فعال شدن جبهه دیپلماتیک و نظامی علیه خودش عصبی شده است.
+‏این یعنی بحران از هرمز و امارات فراتر رفته و حالا منامه هم روی نقشه تنش قرار گرفته است.
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+17:52
+1405/02/27
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸🇺🇸- U.S. Central Command has released an image of a U.S. Navy MH-60 Seahawk observing two vessels in the Arabian Sea, enforcing the naval blockade on Iran.  ➡️ CENTCOM claims to have redirected 78 commercial ships and disabled 4 since April 13th.  @GeoPWatch
@@ -1183,22 +1243,6 @@ src :@wfwitness
 ‏The sound will be heard in the surrounding areas for about a quarter of an hour.
 ‏
 ‏@wfwitness
-16:38
-1405/02/27
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 بلومبرگ: امروز یکشنبه هیچ گونه ترددی در تنگه هرمز ثبت نشده است!
-‏
-‏🔴تعداد کشتی‌های عبوری از تنگه هرمز روز شنبه به ۱۰ فروند افزایش یافته بود، در حالی که در روز قبل از آن ۵ فروند بود
-‏
-‏🔴تردد بارگیری تجاری از طریق تنگه هرمز تا حد زیادی متوقف شده و حرکت محدودی تنها برای کشتی‌هایی انجام می‌شود که بیشتر آنها با محموله‌ها یا شرکت‌های مرتبط با ایران در ارتباط هستند. 
-‏
-‏✍🏻 Troy
-‏▪️@World_Newsly
 16:38
 1405/02/27
 
@@ -4736,17 +4780,6 @@ src :@rnintel
 ‏
 ‏Released by researcher Nightmare-Eclipse, the exploit allows anyone with physical access to bypass default TPM-only encryption via a USB drive. By targeting an obscure "FsTx" framework hidden inside the Windows Recovery Environment (WinRE), attackers gain full read/write drive access. Microsoft has no patch yet. Defenders should immediately run reagentc /disable in CMD to kill WinRE.
 04:14
-1405/02/27
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇨🇩⚡️- “The World Health ​Organisation on ‌Sunday declared an Ebola ​outbreak ​caused by the ⁠Bundibugyo virus ​in the ​Democratic Republic of Congo and ​Uganda ​a public health emergency ‌of ⁠international concern.
-‏
-‏The WHO said the ​outbreak ​does ⁠not meet ​the criteria ​of ⁠pandemic emergency.” - Reuters.
-04:02
 1405/02/27
 
 
