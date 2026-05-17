@@ -1,3 +1,25 @@
+src :@P_raetorio
+[عکس]
+‏5 هواپیما ترابری C-17 در حال ورود به پایگاه های ارتش آمریکا در منطقه 
+‏
+‏@P_raetorio
+09:44
+1405/02/27
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ صبح بازماندگان تلگرام بخیر 
+‏
+‏@Gurad_Warriors
+09:42
+1405/02/27
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️حماس: هشدار می‌دهیم که همه گزینه ها روی میز است
 ‏
@@ -3376,17 +3398,6 @@ src :@didarnews1
 
 
 
-src :@P_raetorio
-[عکس]
-‏ارتش اسرائیل اعلام کرد سرگرد ماوز اسرائیل رکاناتی،از فرماندهان گردان 12 تیپ گولانی روز گذشته بر اثر اصابت کواد FPV حزب‌الله کشته شد. وی هفتمین نیروی ارتش اسرائیل است که پس از آتش‌بس کشته می‌شود. 
-‏
-‏@P_raetorio
-21:55
-1405/02/26
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏یک افسر اسرائیلی عضو تیپ گولانی روز گذشته بر اثر اصابت پهپاد حزب الله کشته شده است.
@@ -5753,15 +5764,4 @@ src :@rus_cosmos
 src :@thewarreporter
 ‏🇺🇸🇮🇶🇮🇷 — The U.S. Department of Justice announced the arrest of Mohammed Baqir al-Saadi, a senior figure in the Iran-backed Iraqi militia Kataib Hezbollah, and his transfer to the US.  According to the statement, al-Saadi directed and encouraged attacks against…
 09:46
-1405/02/26
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏وزارت دفاع فرانسه:
-‏
-‏«ناو هواپیمابر شارل دوگل در دریای عرب در ماموریتی احتمالی برای بازگرداندن ناوبری در تنگه هرمز است.»
-09:44
 1405/02/26
