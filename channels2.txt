@@ -48,3 +48,5 @@ GeoPWatch
 Middle_East_Spectator
 RASTAKHIZ_PERSIAN
 defence_news
+Shin_Persian
+Farsi_Iranwire
