@@ -1,6 +1,15 @@
-src :@GeoPWatch
-[نظرسنجی]
-01:36
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Sun, 17 May 2026 22:09:31 UTC
+‏
+‏Wael Abdel Halim, A PIJ terror commander has been eliminated following the #IAF 🇮🇱  strike on an apartment in Baalbek, Easter Lebanon
+‏
+‏فارسی
+‏
+‏وائل عبدالحلیم، یکی از فرماندهان تروریستی جهاد اسلامی فلسطین (PIJ)، در پی حمله نیروی هوایی اسرائیل (IAF) 🇮🇱 به آپارتمانی در بعلبک، در شرق لبنان حذف شد. #IAF 🇮🇱
+‏
+‏𝕏  ·  @shin_persian
+01:39
 1405/02/28
 
 
@@ -1435,6 +1444,15 @@ src :@didarnews1
 
 
 
+src :@GeoPWatch
+[عکس]
+‏🇾🇪🇾🇪❌🇺🇸- Footage from the alleged crash site.  @GeoPWatch
+23:48
+1405/02/27
+
+
+
+
 src :@naya_foriraq
 [عکس]
 ‏ترامب:
@@ -2157,18 +2175,6 @@ src :@Americana_ir
 
 
 
-src :@IranintlTV
-[عکس]
-‏وزارت خارجه عربستان سعودی حمله پهپادی به نیروگاه هسته‌ای براکه در امارات متحده عربی را محکوم کرد.
-‏
-‏همزمان وزارت خارجه بحرین اعلام کرد که این کشور حمله «تروریستی» به نیروگاه هسته‌ای براکه را به‌شدت محکوم می‌کند و بر همبستگی کشورش با امارات متحده عربی تاکید کرد.
-‏https://iranintl.com/202605174803
-22:03
-1405/02/27
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🗳 🇩🇪 📊 The AfD reaches a record-high 42% in the latest opinion poll ahead of the state election in Saxony-Anhalt.
@@ -2295,16 +2301,6 @@ src :@wfwitness
 ‏⚡️🇺🇸🇮🇷 President Trump told Axios he still believes Iran wants a deal and said he is awaiting a revised Iranian proposal, which he hopes will be better than the previous offer submitted several days ago. He declined to give a specific deadline for the negotiations.
 ‏
 ‏@wfwitness
-21:47
-1405/02/27
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ درباره ایران؛ تشدید تنش‌ها با حمله پهپادی به امارات
-‏@iranintlTV
 21:47
 1405/02/27
 
