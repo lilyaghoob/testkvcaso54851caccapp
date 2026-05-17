@@ -1,3 +1,15 @@
+src :@RASTAKHIZ_PERSIAN
+‏🔶 سخنگوی فرمانده کل نیروهای مسلح عراق: اجازه نمی‌دهیم عراق مبدأ حمله به کشورهای دیگر باشد
+‏
+‏#عراق
+‏
+‏@RASTAKHIZ_PERSIAN
+00:08
+1405/02/28
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏Sun, 17 May 2026 20:37:53 UTC
@@ -35,7 +47,7 @@ src :@wfwitness
 
 src :@GeoPWatch
 [عکس]
-‏🇺🇸🇮🇶 — Two USAF KC-46A "Pegasus" aerial refueling planes from Ben Gurion Airport are conducting refueling maneuvers above southern Iraq, close to the Iranian and Saudi borders, following Saudi claims of shooting down attack drones originating from Iraqi airspace.
+‏🇺🇸🇮🇶 — Two USAF KC-46A "Pegasus" aerial refueling planes from Ben Gurion Airport are conducting refueling maneuvers above southern Iraq, close to the Iranian and Saudi borders, following Saudi claims of shooting down attack drones originating from Iraqi airspace and Emirati claims of shooting down drones flying from the west.
 ‏
 ‏@GeoPWatch
 00:05
@@ -1763,39 +1775,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴 آکسیوس: ترامپ به ایران هشدار داد، وقت تمام میشود
-‏
-‏دونالد ترامپ در گفت‌وگو با Axios هشدار داده اگر تهران امتیازهای بزرگ هسته‌ای ندهد، «خیلی سخت‌تر» هدف قرار خواهد گرفت.
-‏او گفته ساعت برای ایران در حال تیک‌تاک است و تهران باید سریع حرکت کند؛ چون به گفته ترامپ، اگر توافقی در کار نباشد، فشار نظامی میتواند شدیدتر شود.
-‏طبق گزارش Axios، ترامپ قرار است با تیم امنیت ملی خود درباره گزینه‌های نظامی احتمالی علیه ایران گفت‌وگو کند؛ نشانه‌ای که میگوید مسیر مذاکره هنوز باز است، اما سایه حمله دوباره هم از روی میز برداشته نشده.
-‏
-‏تحلیل: ماجرا این است که واشنگتن دارد به تهران پیام دوگانه میدهد: یا امتیاز هسته‌ای بده، یا آماده ضربه سنگین‌تر باش. این همان لحظه خطرناک در بحران‌هاست، جایی که دیپلماسی و جنگ همزمان روی یک میز قرار میگیرند و یک تصمیم اشتباه میتواند کل منطقه را دوباره روشن کند.
-‏
-‏✍🏻 Danger
-‏▪️@World_Newsly
-21:28
-1405/02/27
-
-
-
-
-src :@World_Newsly
-‏🔴 جنگ ایران، اقتصاد اسرائیل را منقبض کرد
-‏
-‏اقتصاد اسرائیل در سه‌ماهه اول ۲۰۲۶ با نرخ سالانه ۳.۳ درصد کوچک شد؛ آماری که نشان میدهد هزینه جنگ فقط در میدان نظامی نیست، مستقیم به بازار، مصرف و سرمایه‌گذاری هم رسیده است.
-‏طبق گزارش منتشرشده با استناد به اداره مرکزی آمار اسرائیل، تولید ناخالص داخلی اسرائیل در سه‌ماهه اول سال افت کرده، در حالی که اقتصاد این کشور در سال ۲۰۲۵ رشد ۲.۹ درصدی داشت.
-‏این عدد برای تل‌آویو مهم است، چون جنگ ایران فقط هزینه موشک، پدافند و عملیات نظامی ندارد؛ وقتی پروازها مختل میشود، سرمایه‌گذاران عقب میکشند، مصرف داخلی افت میکند و بخش خصوصی زیر فشار امنیتی میرود، اقتصاد هم وارد فاز فرسایشی میشود.
-‏تحلیل:  اسرائیل در میدان نظامی تلاش میکند دست بالا را نشان دهد، اما آمار اقتصاد میگوید جنگ طولانی حتی برای بازیگران قدرتمند هم بدون هزینه نیست. هرچه بحران ایران طولانی‌تر شود، فشار از جبهه نظامی به جیب مردم، شرکت‌ها و بودجه دولت‌ها منتقل میشود.
-‏
-‏✍🏻 Cyrus
-‏▪️@World_Newsly
-21:26
-1405/02/27
-
-
-
-
 src :@cataphract1
 ‏آمریکایی‌ها جنگ را در حالی متوقف کردند که آسیبهای زیرساختی موجود روند فروپاشی اقتصادی آهسته و پیوسته را تضمین میکند. حمله نظامی میتواند روند چند ماهه‌ای که پیش بینی میشود را برای آنها تسریع کند. ترامپ اکنون یک کارنامه برنده در قبال جنگ اخیر ندارد. محاصره دریایی برنامه معقولی برای آنها است، اما انتهای آن نیز میتواند به درگیری منجر شود. پس آیا آنها sanction boost را به جهت درگیری مجدد محتوم تزریق می‌کنند یا منتظر اقدام ج.ا در پی فشار مضاعف در آینده می مانند؟
 ‏
@@ -1966,17 +1945,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸🇮🇷⚡️ — Israel and the U.S. are on alert for the possibility of renewed military action against Iran, and any future strikes approved by President Trump would be carried out jointly by both militaries, according to Kan News.
-‏
-‏➡️ Israel is particularly interested in targeting Iran’s national energy infrastructure if fighting resumes.
-21:13
-1405/02/27
-
-
-
-
 src :@Middle_East_Spectator
 ‏— Reminder, we take ads
 ‏
@@ -2017,15 +1985,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 21:12
-1405/02/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱📞🇺🇸 — Israeli Prime Minister Benjamin Netanyahu just held a phone call with President Trump.
-21:10
 1405/02/27
 
 
@@ -2819,19 +2778,6 @@ src :@Military_Times_Blog
 ‏
 ‏
 ‏🆔@Military_Times_Blog
-20:20
-1405/02/27
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭕️فوری/ ترامپ:
-‏
-‏ساعت برای ایران در حال تیک‌تاک است، و بهتر است خیلی سریع شروع به حرکت کنند، وگرنه هیچ چیزی از آن‌ها باقی نخواهد ماند. زمان یک عامل حیاتی است!
-‏
-‏@MilitarryWorld | Maverick
 20:20
 1405/02/27
 
@@ -5982,27 +5928,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 00:12
-1405/02/27
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇹🇷⚡️TURKEY ISSUES MASS RESERVIST CALL‑UPS IN THRACE & AEGEAN AHEAD OF YILDIRIM‑2026!
-‏
-‏Written by Spyridon Kissas Retired Greek Air Force Colonel (Logistics).
-‏
-‏From 31 August to 11 September 2026, the Turkish Ministry of National Defence will conduct the YILDIRIM‑2026 mobilization exercise, in which reserve personnel will participate.
-‏
-‏In the attached photographic material, one can see the dispatch of an Individual Call‑Up Notice (FAP) to a Turkish citizen who must report to the 1st Armored Brigade (Babaeski / near the Evros border region).
-‏
-‏The YILDIRIM (“Lightning”) mobilization exercises are annual military trainings carried out by the Turkish Armed Forces (TAF) in order to test the mobilization system, refresh the knowledge of reservists, and ensure their adaptation to new weapons systems.
-‏
-‏What raises serious questions and requires special attention from the competent authorities of our country is that, according to reports, 90% of the call‑up notices sent out concern citizens of Eastern Thrace and the western coastal regions (Aegean area).
-‏
-‏It should also be noted that the “Blue Homeland” bill is expected to be submitted to the Turkish Parliament in early June and voted on by the Plenary during the summer.
-‏
-‏📰 Militaire
-00:08
 1405/02/27
