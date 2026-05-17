@@ -1,3 +1,43 @@
+src :@ircfspace
+[عکس]
+‏سیمکارت‌های بدون فیلتر، حفره‌ی جاسوسی برای مسئولان!
+‏
+‏در رابطه با قطع سراسری اینترنت به بهانه امنیت و اعطای #سیمکارت_سفید، سیتنا در مطلبی نوشته: طبق منطق فنی، وقتی با سیمکارت سفید و بدون فیلترشکن به اینستاگرام، واتس‌اپ یا سایر پلتفرم‌های خارجی وصل می‌شوید، هیچ لایه واسطه‌ای برای مخفی‌سازی وجود ندارد. یعنی دقیقاً در همان لحظه‌ای که یک مقام مسئول درحال چک کردن دایرکت‌های خود است، اپلیکیشن‌ها لوکیشن دقیق او را با کمترین خطا رصد می‌کنند. اگر نفوذ و ردیابی، خط قرمز امنیت ملی است، پس چطور با دسترسی‌های ویژه، عملاً موقعیت مکانی لحظه‌به‌لحظه خود را تقدیم سرورهای خارجی می‌کنند؟
+‏تناقض وقتی اوج می‌گیرد که می‌بینیم مردم عادی برای اتصال به همان شبکه‌ها، مجبورند از کانفیگ و پروکسی استفاده کنند. این ابزارها با وجود تمام دردسرهایشان، حداقل یک لایه پوششی ایجاد می‌کنند که لوکیشن واقعی کاربر را تغییر می‌دهد. اینجاست که بوی یک تجارت کثیف بلند می‌شود!
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+08:49
+1405/02/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Senator Bill Cassidy lost his Republican primary in Louisiana, failing to advance to a runoff after President Trump targeted him for voting to convict in the 2021 impeachment trial, according to The New York Times.
+‏
+‏➡️ Trump-endorsed Rep. Julia Letlow led with about 45%, and former Trump official John Fleming edged out Cassidy for second with about 28%, with both advancing to a June 27 runoff. Cassidy finished with about 25%. Trump celebrated, writing his "political career is OVER!"
+‏
+‏➡️ The defeat is the latest in Trump's campaign of retribution against Republicans who defied him, following successful challenges to Indiana lawmakers and ahead of a Tuesday effort to unseat Rep. Thomas Massie of Kentucky.
+08:48
+1405/02/27
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏دولت دونالد ترامپ روز شنبه ۲۶ اردیبهشت، معافیت تحریمی مربوط به نفت روسیه ذخیره‌شده روی نفتکش‌ها را تمدید نکرد؛ معافیتی که در ماه‌های گذشته به برخی کشورها، از جمله هند، امکان خرید این نفت را می‌داد.
+‏بیشتر: https://iranwire.com/fa/news-1/152486
+‏
+‏@Farsi_Iranwire
+08:48
+1405/02/27
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏پست ترامپ ترجمه ماشین:
@@ -950,15 +990,6 @@ src :@rnintel
 ‏
 ‏Released by researcher Nightmare-Eclipse, the exploit allows anyone with physical access to bypass default TPM-only encryption via a USB drive. By targeting an obscure "FsTx" framework hidden inside the Windows Recovery Environment (WinRE), attackers gain full read/write drive access. Microsoft has no patch yet. Defenders should immediately run reagentc /disable in CMD to kill WinRE.
 04:14
-1405/02/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump blasts Congresswoman Lauren Boebert over her support for Thomas Massie: Is anyone interested in running against Weak Minded Lauren Boebert in Colorado’s Fourth Congressional District?   You remember Lauren moved to the District when…
-04:03
 1405/02/27
 
 
@@ -5305,21 +5336,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/02/26/402091/
 12:14
-1405/02/26
-
-
-
-
-src :@Farsi_Iranwire
-[فایل]
-‏📻 نسخه کامل برنامه نیمروزی رادیو ایران‌وایر - شنبه ۲۶ اردیبهشت
-‏
-‏در دو نوبت به وقت ایران، ساعت ۱۲ تا ۱۳ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز
-‏و ساعت ۲۳ تا ۲۴روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم.
-‏همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان.
-‏
-‏@Farsi_Iranwire
-12:06
 1405/02/26
 
 
