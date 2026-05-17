@@ -1,3 +1,32 @@
+src :@World_Newsly
+‏🔴 برخی منابع خبری از انفجارهای مهیب در پایتخت امارات خبر دادند ولی علت انفجارها مشخص نیست
+‏
+‏✍🏻 Gladiator
+‏▪️@World_Newsly
+14:20
+1405/02/27
+
+
+
+
+src :@World_Newsly
+‏🔴 برخی منابع خبری از انفجارهای مهیب در پایتخت امارات خبر دادند ولی علت انفجارها مشخص نیست  ✍🏻 Gladiator ▪️@World_Newsly
+14:20
+1405/02/27
+
+
+
+
+src :@ClashReport
+‏The International Criminal Court issued secret arrest warrants for five Israeli officials, including three politicians and two military officers.
+‏
+‏Source: Haaretz
+14:20
+1405/02/27
+
+
+
+
 src :@Shin_Persian
 ‏مكتب أبوظبي الإعلامي @ADMediaOffice
 ‏Sun, 17 May 2026 10:08:11 UTC
@@ -85,7 +114,7 @@ src :@guard_warriors
 ‏✪ حادثه اتش سوزی ناشی از حمله پهپادی به یه یک ژنراتور برق در نزدیکی نیروگاه هسته ای براکه در ابوظبی رخ داده 
 ‏
 ‏
-‏@Guard_Warriors
+‏@Guard_Warriors | kami
 14:11
 1405/02/27
 
@@ -3373,18 +3402,6 @@ src :@Military_Times_Blog
 
 src :@World_Newsly
 [عکس]
-‏🔴 ترامپ به انتشار پست‌هایی درباره سفرش به چین ادامه می‌دهد.
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
-06:32
-1405/02/27
-
-
-
-
-src :@World_Newsly
-[عکس]
 ‏🔴 ترامپ رئیس‌جمهور ترامپ از طریق Truth Social:
 ‏ما آمریکا را دوباره بزرگ کردیم.
 ‏
@@ -3962,19 +3979,6 @@ src :@Shin_Persian
 src :@naya_foriraq
 ‏دوي انفجارات في ريف العاصمة السورية دمشق.
 00:54
-1405/02/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏South Korean Gen Z conscripts are increasingly getting rhinoplasty and double eyelid surgery during leave, returning to base still swollen and unhealed. 
-‏
-‏Commanders must exempt them from training and guard duty for safety, dumping extra shifts on peers and straining unit readiness.
-‏
-‏Source: Korea Times
-00:46
 1405/02/27
 
 
@@ -5878,16 +5882,4 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 14:22
-1405/02/26
-
-
-
-
-src :@MilitiaNews
-‏🇺🇸⚡️ مجری فاکس نیوز: 
-‏
-‏ترامپ درحال آماده‌شدن برای دور جدیدی از حملات نظامی به ایرانه.
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-14:21
 1405/02/26
