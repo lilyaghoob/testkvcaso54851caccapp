@@ -1199,18 +1199,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[عکس]
-‏بلغارستان روز شنبه برای نخستین بار برنده مسابقه آواز یوروویژن شد. ترانه «بانگارنگا» با اجرای دارا، پس از شمارش امتیازهای رای مردمی و هیات‌های داوری ملی در رتبه اول قرار گرفت و اسرائیل نیز دوم شد. 
-‏پنج کشور فینال یوروویژن را در اعتراض به جنگ غزه تحریم کرده بودند.
-‏
-‏https://iranintl.com/202605163001
-02:46
-1405/02/27
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏⚠️🇻🇪🇺🇸🇨🇴 US Department of Justice prepares to transfer Alex Saab to a prison in Miami  After being detained for three months in El Helicoide, Saab was transferred this week to Fuerte Tiuna. From that military facility, he would be escorted by US agents who…
