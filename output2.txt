@@ -1,3 +1,15 @@
+src :@Indypersian
+[عکس]
+‏♦️به گزارش خبرگزاری رویترز، شنبه شب ۲۶ اردیبهشت در جریان فینال مسابقات آوازی یوروویژن ۲۰۲۶ که در سالن «وینر اشتادهاله» شهر وین، پایتخت اتریش برگزار شد، کشور بلغارستان برای اولین‌بار در تاریخ این مسابقات، به مقام قهرمانی دست یافت.
+‏«دارینا نیکولایوا یوتووا» معروف به «دارا»، نماینده بلغارستان، با اجرای ترانه «بنگارنگا» (Bangaranga) موفق شد پس از شمارش و تایید مجموع آرای داوران ملی و سبد رای تماشاگران، بالاتر از نماینده اسرائیل که به مقام دوم رسید، جام قهرمانی یوروویژن را بالای سر ببرد.
+‏
+‏@indypersian
+04:37
+1405/02/27
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇳🇬❌🏴 — WATCH: U.S. Africa Command: Last night's operation targeted a significant presence of ISIS fighters in Northeastern Nigeria eliminating multiple high value individuals including Abu-Bilal al-Minuki.
@@ -4991,17 +5003,6 @@ src :@ircfspace
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺 Air defense systems reportedly intercepted and destroyed 138 Ukrainian drones overnight over multiple regions, according to the Russian Defense Ministry.
-‏
-‏@IntelSlava
-09:02
-1405/02/26
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏◆ صبح شما عزیزان بخیر 
@@ -5035,23 +5036,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 08:38
-1405/02/26
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺 Russian Kh-101 cruise missiles used in the May 13–14 strikes on Kyiv reportedly contained over 100 Western-made components.
-‏
-‏Ukrainian experts said the missiles they examined were produced in Q2 2026 and included parts linked to companies like Texas Instruments, AMD, Kyocera AVX, Harting Technology Group, and Nexperia.
-‏
-‏It’s another example of how widely Western electronics still end up inside Russian systems, despite sanctions and export controls.
-‏
-‏Sanctions do work to a degree, they make procurement harder, slower, and more expensive. But they’re not watertight. Components still slip through via third countries, re-exports, intermediaries, and gray-market supply chains.
-‏
-‏@IntelSlava
-08:32
 1405/02/26
 
 
