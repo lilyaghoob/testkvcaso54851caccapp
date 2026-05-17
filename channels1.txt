@@ -33,3 +33,4 @@ mwarmonitor
 mamlekate
 RASTAKHIZ_PERSIAN
 defence_news
+Farsi_Iranwire
