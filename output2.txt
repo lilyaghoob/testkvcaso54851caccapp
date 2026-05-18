@@ -1,3 +1,42 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇱🇵🇸 Israel seizes 10 ships in Gaza-bound flotilla, with more operations ongoing.
+‏
+‏@BRICSNews
+15:15
+1405/02/28
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇷🇼🇨🇩⚡- A vessel carrying up to 500 military personnel docked in Bukavu, in M23‑controlled South Kivu in eastern Democratic Republic of the Congo. The boat is believed to have departed from Rwanda.  Meanwhile, DRC‑backed Wazalendo militias are conducting counter‑attacks…
+15:14
+1405/02/28
+
+
+
+
+src :@defence_news
+[عکس]
+‏⚜به گفته وزارت دفاع عربستان سعودی، سه پهپاد که از عراق وارد حریم هوایی عربستان شده بودند، اوایل امروز رهگیری شدند. طبق این بیانیه، «وزارت دفاع حق پاسخ در زمان و مکان مناسب را برای خود محفوظ می‌دارد.»
+‏✒️#LT
+‏📃@Cataphract1
+15:13
+1405/02/28
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷وكالة تسنيم عن مصدر مقرب من فريق التفاوض: الأمريكيين خلافاً لما ورد في نصوصهم السابقة، وافقوا في النص الجديد على رفع العقوبات عن النفط الإيراني خلال فترة المفاوضات. رفع العقوبات يعني رفعها مؤقتاً. تُصرّ إيران على أن رفع جميع العقوبات المفروضة عليها يجب أن يكون جزءاً من التزامات الولايات المتحدة.
+15:12
+1405/02/28
+
+
+
+
 src :@defence_news
 [عکس]
 ‏تصویری از یک عضو واحد عملیات ویژه روسیه مسلح به قبضه کاربین T&T 545R مجهز به کیت استاندارد M-loc سایت نشانه روی EXPS و بزرگنمایی ، چراغ قوه و سوپرسور
@@ -3240,14 +3279,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@rnintel
-‏🇳🇬⚡️- On Friday, an Islamic militant group attacked a military school that also trains police officers, leaving at least 17 dead police trainees, the spokesperson said. Nigerian soldiers were also killed, but he didn't specify how many.
-09:42
-1405/02/28
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«محسن رضایی»، عضو مجمع تشخیص مصلحت نظام و فرمانده پیشین سپاه پاسداران، مدعی شد یکی از سه ناوچه آمریکایی که از سمت عمان وارد تنگه هرمز شده بود، بر اثر حمله موشکی جمهوری اسلامی آسیب دیده است.
@@ -4080,15 +4111,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 01:03
-1405/02/28
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏ترمب ينشر محاوطة ايران بالولايات الاميركية!!
-01:02
 1405/02/28
 
 
@@ -5829,16 +5851,6 @@ src :@Americana_ir
 
 
 
-src :@bricsnews
-‏JUST IN: 🇨🇺 Cuba acquires more than 300 military drones and begins discussing plans to attack Guantanamo Bay and US military vessels, Axios reports.
-‏
-‏@BRICSNews
-17:58
-1405/02/27
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — Mike Johnson, Speaker of the US House of Representatives: 
 ‏
@@ -5992,30 +6004,6 @@ src :@defence_news
 [ویدئو]
 ‏⭕️خواسته‌های آمریکا از ایران (به نقل از خبرگزاری فارس):  — عدم پرداخت غرامت یا خسارت به ایران — انتقال ۴۰۰ کیلوگرم اورانیوم توسط ایران به آمریکا — فقط یک تأسیسات هسته‌ای اجازه فعالیت دارد — هیچ یک از دارایی‌های مسدود شده ایران آزاد نمی‌شود — آتش‌بس مشروط به…
 17:10
-1405/02/27
-
-
-
-
-src :@defence_news
-‏⭕️خواسته‌های آمریکا از ایران (به نقل از خبرگزاری فارس):
-‏
-‏— عدم پرداخت غرامت یا خسارت به ایران
-‏— انتقال ۴۰۰ کیلوگرم اورانیوم توسط ایران به آمریکا
-‏— فقط یک تأسیسات هسته‌ای اجازه فعالیت دارد
-‏— هیچ یک از دارایی‌های مسدود شده ایران آزاد نمی‌شود
-‏— آتش‌بس مشروط به مذاکره، تضمین نشده
-‏
-‏⚜پیش‌شرط‌های ایران برای هرگونه مذاکره:
-‏
-‏— آتش‌بس کامل در تمام جبهه‌ها، به‌ویژه لبنان
-‏— لغو تمام تحریم‌های ضد ایرانی
-‏— آزادسازی دارایی‌های مسدود شده ایران
-‏— جبران خسارات جنگ
-‏— به رسمیت شناختن حاکمیت ایران بر تنگه هرمز
-‏✒️#LT
-‏📃@Cataphract1
-17:09
 1405/02/27
 
 
