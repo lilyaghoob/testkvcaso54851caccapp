@@ -1125,32 +1125,12 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump posts about Iran on Truth Social.
-‏
-‏📝He has literally posted these same photos several times now.
-00:25
-1405/02/28
-
-
-
-
 src :@World_Newsly
 ‏🔴 سی‌ان‌ان: ترامپ به طور فزاینده‌ای نسبت به نحوه مدیریت مذاکرات دیپلماتیک از سوی تهران بی‌صبر شده و همچنان از تداوم بسته بودن تنگه هرمز و تأثیر آن بر قیمت جهانی نفت کلافه است.
 ‏
 ‏✍🏻 Queen
 ‏▪️@World_Newsly
 00:24
-1405/02/28
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump is currently spamming AI-generated pictures of himself on Truth Social.
-00:23
 1405/02/28
 
 
