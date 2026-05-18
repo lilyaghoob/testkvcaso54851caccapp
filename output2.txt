@@ -2926,21 +2926,6 @@ src :@cataphract1
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇪🇺 Bloomberg: Ford Motor Company is in productive talks with defence departments in Europe and North America to supply pickup trucks and software to their armed forces. 
-‏
-‏The automaker is offering to convert its F‑Series Super Duty trucks for military use.
-‏
-‏The U.S. Army has cited Ford and General Motors as companies it wants to work with to diversify defence contractors.
-‏
-‏@wfwitness
-21:51
-1405/02/28
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهور آمریکا، روز دوشنبه ۲۸ اردیبهشت ۱۴۰۵ در گفت‌وگو با نیویورک پست گفت پس از دریافت آخرین پیشنهاد ایران، «هیچ امتیازی» به تهران نخواهد داد و با لحنی تهدیدآمیز افزود که ایران می‌داند «چه اتفاقی به زودی خواهد افتاد.»
