@@ -1,3 +1,34 @@
+src :@World_Newsly
+‏🔴 اف‌بی‌آی: سه مرد بزرگسال در تیراندازی مرکز اسلامی سن دیگو کشته شدند.
+‏
+‏✍🏻 King
+‏▪️@World_Newsly
+01:00
+1405/02/29
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷- Mehr News Agency reports of Air Defence activity in Isfahan, Iran.  @GeoPWatch
+01:00
+1405/02/29
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️یک مقام عراقی در گفتگو با نشریه انتخاب اعلام کرد که حدود ۵۰ درصد از کل حملات پهپادی انجام‌شده علیه کشورهای حوزه خلیج فارس، از داخل خاک عراق صورت گرفته است.
+‏همزمان، المانیتور به نقل از یک منبع آگاه گزارش داد که مقامهای عربستان سعودی بر این باورند که تقریبا تمامی حملات پهپادی و موشکی اخیر به این کشور، به جای ایران، از خاک عراق نشات گرفته است؛ ارزیابی و تحلیلی که اکنون مورد تایید دولت دونالد ترامپ در واشنگتن نیز قرار دارد.
+‏
+‏@indypersian
+00:59
+1405/02/29
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇮🇱🇮🇷⚡️ — Shimon Riklin, a reporter for Israeli Channel 14, potentially disclosed classified information live on air today regarding operations tied to the campaign against Iran, including reports about preparations for a possible ground operation at the Isfahan nuclear site.
@@ -7,6 +38,18 @@ src :@GeoPWatch
 ‏Israeli military censors have requested the segment be removed from broadcast platforms. 
 ‏
 ‏Members of the Yesh Atid party, including Ram Ben-Barak and Elazar Stern, appealed to Boaz Bismuth, chairman of the Foreign Affairs and Security Committee, to convene an urgent discussion over the publication of "allegedly classified information that could harm the achievements of the campaign in Iran and cause strategic damage to the country's future."
+00:57
+1405/02/29
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴علی قلهکی: ترامپ «شنبه‌شب» قصد حمله داشت که صبح آن قطر به ایران هشدار داد. علت عدم حمله، پیدا نکردن لوکیشن سران نظام بوده است!
+‏
+‏✍🏻 Queen
+‏▪️@World_Newsly
 00:57
 1405/02/29
 
@@ -2799,17 +2842,6 @@ src :@cataphract1
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸🇮🇱- Iranian President Masoud Pezeshkian:Dialogue does not mean surrender. The Islamic Republic of Iran enters into dialogue with dignity, authority, and the preservation of the nation's rights, and under no circumstances will it retreat from the legal rights of the people and the country. We will serve the people with logic and with all our might, to the end, and safeguard the interests and honor of Iran.
-‏
-‏@GeoPWatch
-21:59
-1405/02/28
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏برخی از منابع توییتری مدعی هستند ایران طی این مدت آتش بس توانسته تعدادی نامشخص سامانه دوش پرتاب مانند ایگلا را وارد کند 
@@ -3117,43 +3149,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 21:33
-1405/02/28
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴جمهوری اسلامی ایران یه سرویس بیمه با پشتوانه بیت‌کوین برای شرکت‌های کشتیرانی‌ای راه‌اندازی کرد که قصد عبور از تنگه هرمز را دارند.
-‏
-‏پرداخت با بیتکوین پذیرفته خواهد شد.💰
-‏
-‏✍🏻 Hector
-‏▪️@World_Newsly
-21:31
-1405/02/28
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 استارمر: به هیچ عنوان استعفا نمیدم
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
-21:31
-1405/02/28
-
-
-
-
-src :@World_Newsly
-‏🔴وزیر کشور پاکستان که در سفری دو روزه برای آخرین میانجیگری میان ایران و آمریکا به تهران سفر کرده بود، پس از رد آخرین پیشنهاد ایران توسط آمریکا، دقایقی پیش تهران را ترک کرد.
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
-21:31
 1405/02/28
 
 
@@ -4144,20 +4139,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-‏⭕️خبرآنلاین:
-‏
-‏برخی شواهد نشان می‌دهد کشورهای عربی در کنار ترامپ در حال لابی گسترده علیه جمهوری اسلامی در چین هستند.
-‏
-‏این کشورها به چین قول داده‌اند نفت آن کشور را تامین کرده و کالاهای صادراتی آن را به قیمت‌های بالاتر و نامتعارف خریداری کنند.
-‏
-‏@MilitarryWorld | Parsa
-20:38
-1405/02/28
-
-
-
-
 src :@Military_Times_Blog
 ‏نتانیاهو هم در جلسه امنیتی با کابینه خود حضور دارد. 
 ‏
@@ -4470,20 +4451,6 @@ src :@ircfspace
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز دوشنبه ۲۸ اردیبهشت‌ماه، در گفتگو با شبکه العربیه گفت ایالات متحده در حال انجام «کاری بزرگ» است و افزود که «پیروزی در راه است.»
-‏
-‏ترامپ جزئیات بیشتری درباره منظور خود ارائه نکرد، اما این اظهارات در حالی مطرح می‌شود که تنش‌ها میان آمریکا و جمهوری اسلامی و مذاکرات مربوط به جنگ و تنگه هرمز ادامه دارد.
-‏
-‏ 
-‏@indypersian
-20:03
-1405/02/28
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پست ترامپ، ترجمه ماشین:
@@ -4655,26 +4622,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 19:51
-1405/02/28
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇵🇰| PAKISTAN's OBSESSION WITH 🇮🇳INDIA
-‏
-‏Pakistan: I will do what india(father) does
-‏
-‏Donald lu & Paki Conversation:
-‏* I also told Don that we had seen his defence of the Indian position on the Ukraine crisis during the recently held Senate Sub-Committee hearing on U.S.-India relations. It seemed that the U.S. was applying different criteria for India and Pakistan. 
-‏
-‏Don responded that the U.S. lawmakers' strong feelings about India's abstentions in the UNSC and UNGA came out clearly during the hearing. 
-‏
-‏I said that from the hearing, it appeared that the U.S. expected more from India than Pakistan, yet it appeared to be more concerned about Pakistan's position. 
-‏
-‏Don was evasive and responded that Washington looked at the U.S.-India relationship very much through the lens of what was happening in China. He added that while India had a close relationship with Moscow, “I think we will actually see a change in India's policy once all Indian students are out of Ukraine”.
-19:49
 1405/02/28
 
 
@@ -7137,12 +7084,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 01:39
-1405/02/28
-
-
-
-
-src :@warmonitors
-‏⚡️ Four crew members ejected safely after two Navy jets crash during air show in Idaho, organizer says
-01:00
 1405/02/28
