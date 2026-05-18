@@ -1539,19 +1539,6 @@ src :@wfwitness
 
 
 
-src :@rnintel
-[عکس]
-‏🇸🇩🇱🇾⚡- NASA's FIRMS shows fire marks along the Darfur (Sudan) - al-Kufrah (Libya) road. 
-‏
-‏Heavy Sudanese airstrikes were reported in the area over the past two days amid a large-scale build-up of Rapid Support Forces (and allied troops) in southeast Libya.
-‏
-‏The single road in the vast empty desert is visible on Google Maps, the point of fire is at 17.3811015, 25.4726631.
-00:05
-1405/02/28
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 عربستان اعلام کرد، طی ساعت گذشته سه پهپاد انتحاری که از فضای سرزمینی عراق وارد قلمرو این کشور شده اتد را با موفقیت ساقط کرده 
 ‏
@@ -1763,17 +1750,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@rnintel
-[ویدئو]
-‏🇾🇪⚡- An external fuel tank belonging to a drone was found in the Safer oil fields, Marib region, Saudi-backed Presidential Leadership Council controlled Yemen.
-‏
-‏The fuel tank still had its suspension points attached, indicating the drone was performing a "sudden or rapid maneuver," likely to avoid possible air defenses, Yemeni sources report.
-23:53
-1405/02/27
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Trump continues to attack Thomas Massie ahead of his primary challenge.
@@ -1790,15 +1766,6 @@ src :@Indypersian
 ‏بر اساس این گزارش‌ها، دو طرف در این تماس تلفنی درباره تحولات منطقه و روندهای دیپلماتیک جاری گفتگو کردند، اما جزئیات بیشتری از محورهای این رایزنی منتشر نشده است. 
 ‏@indypersian
 23:53
-1405/02/27
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸⚡️- President Trump once again attacks Republican Congressman Thomas Massie and calls for him to be thrown out of office ahead of his primary election on Tuesday, May 19.
-23:52
 1405/02/27
 
 
@@ -1897,14 +1864,6 @@ src :@cataphract1
 ‏⚜ ترامپ طی گفتگویی باراک راوید خبرنگار آکسیوس اعلام کرد که هنوز فکر می‌کند ایران خواهان توافق است و گفت منتظر پیشنهاد به‌روز شده ایران است، پیشنهادی که به گفته او امیدوار است از آخرین پیشنهادی که چند روز پیش ارائه شده بهتر باشد. او از تعیین ضرب‌الاجل مشخصی برای مذاکرات با ایران خودداری کرد.
 ‏✒️#LT
 ‏📃@Cataphract1
-23:43
-1405/02/27
-
-
-
-
-src :@rnintel
-‏🇦🇪⚡️- "The Ministry of Defense announced that on May 17, 2026, UAE air defenses engaged 3 drones that entered the country from the western border, where two were successfully intercepted while the third struck an electrical generator outside the inner perimeter…
 23:43
 1405/02/27
 
@@ -3332,14 +3291,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 20:23
-1405/02/27
-
-
-
-
-src :@jangaavaran1390
-‏ترامپ:  برای ایران، زمان به سرعت می‌گذرد و بهتر است هر چه سریع‌تر اقدام کنند، وگرنه چیزی از آنها باقی نخواهد ماند. زمان بسیار مهم است!
-20:22
 1405/02/27
 
 
