@@ -1,3 +1,70 @@
+src :@ircfspace
+[عکس]
+‏اپ اندروید #چشم_عقاب نه فقط یه خبرخوان، بلکه یه راه آفلاین برای دسترسی آزاد به اطلاعاته، که بدون اینترنت، بدون VPN و حتی بدون داشتن مجوز اینترنت روی گوشی، خبرها و اطلاعات رو مستقیما از ماهواره روی دستگاه شما میاره.
+‏
+‏کافیه کانالش رو روی فرکانس 10762/27500V ماهواره ترکمن‌عالم باز کنید و دوربین گوشی رو سمت کدهای QR که روی صفحه نمایش داده میشن بگیرید، تا اپ در چند ثانیه اطلاعات رو بخونه و روی گوشی ذخیره کنه.
+‏اپ فقط به دوربین دسترسی داره تا QR Codeها رو اسکن کنه و هیچ عکس یا ویدئویی ذخیره یا ارسال نمی‌کنه. تمام محتواهایی که دریافت می‌کنین، قبل از پخش با امضای رمزنگاری‌شده Ed25519 تأیید میشن تا اپ فقط اطلاعات واقعی و معتبر رو قبول کنه.
+‏
+‏👉 play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+10:02
+1405/02/28
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏اولین تصویر از نمونه دو سرنشین سوخو 57 روس ها که ظاهرا با کد Su-57D شناخته می شود.  🇮🇷📝 @defence_news 📝🇮🇷
+10:00
+1405/02/28
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏Tonight in 🇪🇸 Andalucía another defeat for Sánchez
+‏
+‏Andalucía was historically a PSOE (Sánchez's party) stronghold for decades (1982 - 2019)
+‏
+‏✍️ Polls put:
+‏
+‏😍45% for PP (centre-right, EPP in EU)
+‏
+‏😍22% PSOE (centre-left)
+‏
+‏😍13% VOX (right), and then the rest.
+‏
+‏This should be the worst result in history for PSOE in Andalucía 🛌
+10:00
+1405/02/28
+
+
+
+
+src :@MilitarryWorld
+‏🚨جروزالم پست گزارش داد: نتانیاهو خواستار لغو حضور خود در برابر دادگاه طی امروز بنا به دلایل امنیتی و سیاسی شد
+‏ 
+‏دادستانی اسرائیل با این درخواست مخالفت کرده و جلسه را به بعد از ظهر امروز موکول کرد
+‏
+‏@MilitarryWorld | Parsa
+09:58
+1405/02/28
+
+
+
+
+src :@naya_foriraq
+‏📈الرابطة الأمريكية للسيارات: ارتفاع أسعار البنزين في الولايات المتحدة ليصل معدل سعر الغالون إلى 4.5 دولار
+09:57
+1405/02/28
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏وب‌سایت رهگیری دریایی «تنکر ترکرز» گزارش داد سه نفتکش خالی تحت تحریم آمریکا، در روزهای گذشته از محدوده محاصره دریایی ایالات متحده عبور کرده‌اند.
@@ -2685,14 +2752,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏🔴🇺🇸القوات المسلحة اليمنية تسقط طائرة أمريكية من طراز MQ9 في محافظة مأرب.
-23:04
-1405/02/27
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️به نظر سر بال تجهیزات جنگ الکترونیک وجود دارد و احتمالا جنگنده F18 گراولر است
 ‏
@@ -5121,19 +5180,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@tglobaleye
-[عکس]
-‏Climate agencies and forecasters are increasingly warning that a potentially historic “super El Niño” could develop later in 2026, with some models suggesting it may become the strongest such event since the devastating 1877–1878 El Niño that contributed to global famine and the deaths of tens of millions of people across Asia, Africa, and South America. 
-‏
-‏Scientists caution that significant uncertainty remains, but warn that a major El Niño could trigger extreme weather worldwide, including severe droughts, flooding, crop failures, heatwaves, and disruptions to global food and water supplies.
-‏
-‏Modern forecasting and disaster-response systems are expected to reduce the risk of catastrophe on the scale of the 19th century event, though experts say vulnerable regions could still face major humanitarian and economic impacts if the phenomenon intensifies.
-15:15
-1405/02/27
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏سندیکای کارگران نیشکر هفت‌تپه در بیانیه‌ای با انتقاد از وضعیت اقتصادی و افزایش بیکاری در کشور، موج اخیر اخراج‌ها و کاهش امنیت شغلی را نشانه‌ای از یک «فاجعه اجتماعی» توصیف کرد.
@@ -5928,17 +5974,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
 10:01
-1405/02/27
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ گویا انگلیس تایفون های مستقر در خاورمیانه را برای مقابله با حملات پهپادی به کیت 
-‏راکت هدایت لیزری APKWS II
-‏مجهز کرده است
-‏
-‏@Gurad_Warriors | kami
-09:59
 1405/02/27
