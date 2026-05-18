@@ -1,3 +1,18 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇱🇮🇷⚡️ — Shimon Riklin, a reporter for Israeli Channel 14, potentially disclosed classified information live on air today regarding operations tied to the campaign against Iran, including reports about preparations for a possible ground operation at the Isfahan nuclear site.
+‏
+‏Riklin said drills had been conducted involving commando forces storming the site to extract enriched uranium, adding that, based on what he had heard, the material was not buried deep underground in Isfahan and that “once entry is made into the facility, the pipes can be extracted.”
+‏
+‏Israeli military censors have requested the segment be removed from broadcast platforms. 
+‏
+‏Members of the Yesh Atid party, including Ram Ben-Barak and Elazar Stern, appealed to Boaz Bismuth, chairman of the Foreign Affairs and Security Committee, to convene an urgent discussion over the publication of "allegedly classified information that could harm the achievements of the campaign in Iran and cause strategic damage to the country's future."
+00:57
+1405/02/29
+
+
+
+
 src :@cataphract1
 ‏⚜رییس پلیس سن‌دیگو اعلام کرد که سه بزرگسال در تیراندازی در مرکز اسلامی سن‌دیگو جان باختند.
 ‏‏رییس پلیس سن‌دیگو: تیراندازی در مرکز اسلامی سن‌دیگو به عنوان یک جرم ناشی از نفرت در نظر گرفته شده است.
@@ -2839,21 +2854,6 @@ src :@World_Newsly
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇱🇺🇸❌🇮🇷- According to Israel Hayom, Israeli Prime Minister Benjamin Netanyahu convened the small cabinet once again tonight, with discussions centering on the possibility of a renewed round of military action against Iran. 
-‏
-‏➡️ Israeli security sources report that preparations have already been put in place, with estimates suggesting any new round would last several days and could be the final one for the foreseeable future. Sources indicate the planned strikes would differ from previous rounds, targeting sites Trump has so far avoided.
-‏
-‏➡️ Israeli officials stressed that Trump will not abandon his core goal of removing Iran's enriched uranium stockpile, describing its continued existence as "very bad" and adding that Trump "means what he says" and "will not stop here."
-‏
-‏@GeoPWatch
-21:55
-1405/02/28
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏🇮🇷بزشكيان:‏
@@ -2869,18 +2869,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:55
-1405/02/28
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏لیندسی گراهام، سناتور جمهوری‌خواه، در شبکه ایکس نوشت: «اطمینان کامل دارم که ترامپ به‌خوبی وضعیت ایران را درک می‌کند و در برابر ادامه خودداری جمهوری اسلامی از مذاکره صادقانه، همراه با اقدامات تهاجمی این کشور در تنگه هرمز و سراسر منطقه، مماشات نخواهد کرد.»
-‏
-‏او افزود: «یک پاسخ کوتاه اما قاطع می‌تواند مسیر درگیری را به‌درستی تغییر دهد. در مواجهه با جمهوری اسلامی، ضروری است که از موضع قدرت و برتری وارد مذاکره شویم.»
-‏https://iranintl.com/202605181005
-21:53
 1405/02/28
 
 
@@ -2925,16 +2913,6 @@ src :@World_Newsly
 ‏✍🏻 Admin
 ‏▪️@World_Newsly
 21:51
-1405/02/28
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی تیتراول با نیوشا صارمی: احتمال آغاز جنگ در همین هفته با فرمان ترامپ پس از رد آخرین پیشنهاد تهران
-‏@iranintlTV
-21:50
 1405/02/28
 
 
