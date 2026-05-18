@@ -1,11 +1,49 @@
 src :@mwarmonitor
 [عکس]
+‏🔴یک عکس منتشرشده در DVIDS در تاریخ ۷ مه، یک پرتابگر سامانه THAAD ارتش آمریکا را در منطقه مسئولیت فرماندهی مرکزی آمریکا (CENTCOM) نشان می‌دهد.
+‏
+‏🔸به نظر می‌رسد این تصویر در واقع در محل استقرار THAAD در بیابان نقب اسرائیل گرفته شده باشد (مختصات: 31°30'04.5"N 34°48'33.3"E)، با توجه به تطابق زمین اطراف و دیوارهای بتنی ضد انفجار مشابه.
+‏
+‏@mwarmonitor
+16:01
+1405/02/28
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴رویترز:
+‏
+‏پاکستان در جریان جنگ ایران، تحت یک پیمان دفاعی مشترک، ۸۰۰۰ سرباز، جنگنده، پهپاد و سامانه‌های دفاع هوایی به عربستان سعودی اعزام کرده است.این نیرو شامل جنگنده‌های JF-17، سامانه‌های پدافندی چینی HQ-9 و تجهیزات تحت عملیات پاکستانی است که توسط ریاض تأمین مالی شده‌اند.این استقرار آماده رزم است و در صورت نیاز می‌تواند به ۸۰٬۰۰۰ سرباز افزایش یابد.
+16:00
+1405/02/28
+
+
+
+
+src :@mwarmonitor
+[عکس]
 ‏🔴سیستم راکت‌انداز M142 HIMARS ارتش آمریکا در تصاویری که در وب‌سایت DVIDS منتشر شده و مربوط به ۱۴ مه و ۶ مه است، در منطقه تحت مسئولیت فرماندهی مرکزی آمریکا (CENTCOM) مشاهده شده است.
 ‏
 ‏🔸این سامانه‌ها احتمالاً در بحرین یا کویت مستقر هستند؛ جایی که پیش‌تر نیز در جریان عملیات «Epic Fury» حملاتی علیه ایران انجام داده بودند.
 ‏
 ‏@mwarmonitor
-15:56
+15:59
+1405/02/28
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Pakistan has deployed 8,000 troops, fighter jets, drones and air defence systems to Saudi Arabia under a secret defence pact during the Iran war. 
+‏
+‏The force includes JF-17 jets, Chinese HQ-9 systems and Pakistani-operated equipment financed by Riyadh. 
+‏
+‏The deployment is combat-ready and could expand to 80,000 troops if needed.
+‏
+‏Source: Reuters
+15:57
 1405/02/28
 
 
@@ -4569,16 +4607,6 @@ src :@VahidOnline
 
 
 
-src :@ClashReport
-‏Trump said he still believes Iran wants a deal, but warned Tehran must quickly present a stronger proposal or face severe U.S. military action. 
-‏
-‏Source: Barak Ravid
-00:15
-1405/02/28
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 سخنگوی فرمانده کل نیروهای مسلح عراق: اجازه نمی‌دهیم عراق مبدأ حمله به کشورهای دیگر باشد
 ‏
@@ -4767,18 +4795,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 23:43
-1405/02/27
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏شاهزاده رضا پهلوی 
-‏
-‏خطاب به ترامپ گفت: «شما نمی‌توانید هر دو طرف ماجرا را همزمان بخواهید. نمی‌توانید به مردم بگویید: "فعلاً شما را معلق نگه می‌داریم تا ببینیم راه‌حل دیگری پیدا می‌کنیم." این روش سخت می‌تواند مردم را قانع کند که شما جدی هستید. در همین مسیر بمانید و کار را تمام کنید. حالا که با یک حیوان زخمی روبه‌رو هستید، این فرصتی نیست که باید از دست بدهید؛ این یک فرصت برای تمام کردن کار است.»
-‏
-‏او همچنین گفت: «اکثریت مردم ایران به این موضوع به چشم یک کارزار آزادی‌بخش نگاه می‌کنند؛ مثل زمانی که فرانسه زیر اشغال نازی‌ها بود و نیروهای متفقین در نرماندی پیاده شدند.» رضا پهلوی افزود: «آخرین پیام اینستاگرامی من بیش از ۹۰ میلیون بازدید داشت اما دو روز بعد به پنج میلیون سقوط کرد؛ این همان قطع اینترنت است.» او در پایان گفت: «فقط در ۱۰ سال نخست پس از آزادی، بیش از یک تریلیون دلار اثر اقتصادی می‌تواند از طریق تجارت و کسب‌وکار در ایران به اقتصاد آمریکا بازگردد.»
-23:41
 1405/02/27
 
 
@@ -5358,25 +5374,6 @@ src :@thewarreporter
 ‏
 ‏— Israeli Broadcasting Authority | @TheWarReporter
 20:56
-1405/02/27
-
-
-
-
-src :@mwarmonitor
-‏🔴در روزهای اخیر، سه نفتکشِ خالی از محموله که تحت تحریم‌های آمریکا هستند، از خط محاصره نیروی دریایی آمریکا عبور کرده و وارد محدوده شده‌اند.
-‏
-‏🔸یکی از آن‌ها برای مدت کوتاهی سیستم موقعیت‌یاب (AIS) را خاموش کرده بود.
-‏
-‏🔸دیگری با پرچم روسیه حرکت می‌کرد.
-‏
-‏🔸سومی در امتداد ساحل عمان حرکت کرده است.
-‏
-‏
-‏🔹این سه نفتکش در مجموع می‌توانند حدود ۱.۹ میلیون بشکه نفت ایران را جابه‌جا کنند. چنین رخدادهایی به تهران زمان بیشتری در میز مذاکرات می‌دهد، در حالی که جهان در انتظار تأمین بیشتر انرژی و کودهای شیمیایی از این منطقه است. TANKER TRACKER 
-‏
-‏@mwarmonitor
-20:55
 1405/02/27
 
 
@@ -6210,12 +6207,4 @@ src :@thewarreporter
 [عکس]
 ‏🇮🇱🇮🇶🇮🇷 — Israel built a clandestine military outpost in Iraq's western desert before its air campaign against Iran — with U.S. knowledge — to support special forces and search-and-rescue teams involved in strikes more than 1,000 miles away.  In early March…
 16:04
-1405/02/27
-
-
-
-
-src :@thewarreporter
-‏🇺🇳🇮🇱 — The International Criminal Court (ICC) has issued secret arrest warrants for 5 Israeli officials, including three politicians and two military officers.  — Haaretz | @TheWarReporter
-15:56
 1405/02/27
