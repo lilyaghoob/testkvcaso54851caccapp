@@ -1,3 +1,38 @@
+src :@MilitiaNews
+‏🇺🇸🇮🇷🇮🇱⚡️ سازمان پخش اسرائیل 
+‏
+‏نهاد نظامی اسرائیل و کاخ سفید امروز درباره احتمال حمله به ایران گفتگو کردند.
+‏
+‏@MilitiaNews | میلیشا را دنبال کنید
+22:39
+1405/02/29
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی چشم‌انداز: اولین نشانه‌ها از عقب‌نشینی حکومت ایران در مقابل آمریکا!؟
+‏@iranintlTV
+22:38
+1405/02/29
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇱/🇱🇧/🇮🇷 NEW: The IDF announces the killing of Major Itamar Sapir, 27, in southern Lebanon
+‏
+‏Killed by a Hezbollah sniper.
+‏
+‏@Middle_East_Spectator
+22:38
+1405/02/29
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️ ژنرال الکسوس گرینکویچ، فرمانده ارشد ناتو در اروپا، روز سه‌شنبه ۲۹ اردیبهشت اعلام کرد که به طور جدی در حال بررسی نحوه کمک این ائتلاف در تنگه هرمز است؛ هرچند تاکید کرد که تا زمان اتخاذ تصمیم سیاسی، برنامه‌ریزی رسمی آغاز نشده است.
@@ -1445,18 +1480,6 @@ src :@tglobaleye
 src :@Shin_Persian
 ‏نه این وری نه اون وری، oh wait
 20:33
-1405/02/29
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏سازمان عملیات تجارت دریایی بریتانیا اعلام کرد در بازه زمانی ۲۸ و ۲۹ اردیبهشت، هیچ حادثه‌ای در خلیج فارس و دریای عمان گزارش نشده است.
-‏
-‏با این حال، وضعیت امنیتی منطقه همچنان ناپایدار است و تهدید علیه کشتیرانی تجاری ادامه دارد.
-‏https://iranintl.com/202605197145
-20:30
 1405/02/29
 
 
@@ -5557,19 +5580,6 @@ src :@Military_Times_Blog
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇮🇱🇦🇪🛫 — Observers report that a Bombardier Global 5000 bizjet [tail: N410AT] made a flight from Tel Aviv to Abu Dhabi yesterday and is now heading back.
-‏
-‏The same jet was previously owned by jailed-fraudster Sam Bankman-Fried before ending up in Israel.
-‏
-‏@BellumActaNews
-06:46
-1405/02/29
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇱 NEW: In a disgusting new low, Jewish-American MAGA influencer Laura Loomer justifies the terrorist attack on San Diego Islamic Center today, claiming that the mosque is ‘evil’ and the people who attend it wanted to kill Americans
@@ -5865,61 +5875,4 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 22:42
-1405/02/28
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷 BREAKING: President Trump says he has canceled a planned attack on Iran, which was ‘scheduled for tomorrow’, at the request of Qatar, Saudi Arabia and the UAE, to allow for more diplomacy
-‏
-‏@Middle_East_Spectator
-22:39
-1405/02/28
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏ترامپ می‌گوید حمله برنامه‌ریزی‌شده به ایران که قرار بود فردا انجام شود را لغو کرده و «مذاکرات جدی» در حال انجام است.
-22:39
-1405/02/28
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇮🇷 President Trump says he will not move forward with the planned military attack on Iran tomorrow after being asked by UAE, Saudi Arabia, and Qatar.
-‏
-‏@BRICSNews
-22:38
-1405/02/28
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏☄️ ترامپ: حمله فردا را به تعویق انداختم
-‏
-‏پست ترامپ ترجمه ماشین:
-‏از سوی امیر قطر تمیم بن حمد آل ثانی، ولیعهد عربستان سعودی  محمد بن سلمان آل سعود و رئیس امارات متحده عربی محمد بن زاید آل نهیان، از من خواسته شده است حمله نظامی برنامه‌ریزی‌شده ما علیه جمهوری اسلامی ایران را که قرار بود فردا انجام شود، به تعویق بیندازم؛
-‏زیرا مذاکرات جدی اکنون در جریان است
-‏و
-‏به باور آن‌ها، به‌عنوان رهبران بزرگ و متحدان ما، توافقی حاصل خواهد شد که برای ایالات متحده آمریکا و همچنین همه کشورهای خاورمیانه و فراتر از آن بسیار قابل قبول خواهد بود.
-‏
-‏این توافق، نکته مهمی را در بر خواهد داشت: هیچ سلاح هسته‌ای برای ایران!
-‏
-‏بر اساس احترامی که برای رهبران نام‌برده قائلم، به وزیر جنگ، پیت هگست، رئیس ستاد مشترک ارتش، ژنرال دانیل کین، و ارتش ایالات متحده دستور داده‌ام که حمله برنامه‌ریزی‌شده فردا به ایران را انجام ندهیم؛ اما همچنین به آن‌ها دستور داده‌ام که آماده باشند، در صورت حاصل نشدن یک توافق قابل قبول، در یک لحظه و بدون درنگ، حمله‌ای کامل و گسترده علیه ایران را آغاز کنند.
-‏
-‏از توجه شما به این موضوع سپاسگزارم!
-‏
-‏رئیس‌جمهور دونالد جی. ترامپ
-‏realDonaldTrump
-‏
-‏📡 @VahidOnline
-22:36
 1405/02/28
