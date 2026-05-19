@@ -1,3 +1,12 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸 Early results from Kentucky’s House primary have Trump-backed Ed Gallrein with a roughly 500 vote lead over Thomas Massie.  @wfwitness
+03:11
+1405/02/30
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇺🇸🇮🇱⚡️- Track AIPAC has retracted their endorsement of Maureen Galindo in light of these comments.
@@ -1226,20 +1235,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇾🇺🇸⚡️ — Syrian President Ahmed al-Sharaa:
-‏Some meetings leave an impression; ours apparently left a fragrance. 
-‏
-‏Thank you, Mr. President Trump, for your generosity and for topping up this precious gift. 
-‏
-‏May the spirit of that meeting continue to shape a stronger relationship between Syria and the United States.
-00:16
-1405/02/30
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Syrian President Ahmed al-Sharaa posts a picture of the fragrance Trump gifted him.
@@ -1701,30 +1696,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. 
-‏
-‏I endorsed Ed Gallrein, a true American Patriot, which Massie knows full well, so the statement that he put out is fraudulent, just like HE is fraudulent. WITHDRAW YOUR FAKE STATEMENT, MASSIE, RIGHT NOW!
-23:37
-1405/02/29
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — Washington is offering up to $15 million for information exposing how the IRGC moves its money, targeting crypto accounts, front companies, and shell custodians, according to the U.S. State Department's Rewards for Justice program.
-‏
-‏➡️ The program seeks names, wallets, and networks, and is offering relocation on top of the cash reward.
-‏
-‏➡️ The move comes after sanctions alone failed to sever the IRGC's financial networks, prompting the U.S. to crowdsource intelligence with serious financial incentives.
-23:36
-1405/02/29
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️گفت وگوی وزیر خارجه آمریکا با دبیرکل سازمان ملل درباره تنگه هرمز
 ‏
@@ -1732,16 +1703,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:33
-1405/02/29
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 CBS: U.S. forces have identified at least 10 mines in the Strait of Hormuz. Earlier intelligence assessments had placed the number at around a dozen, with warnings that transit through the strait could be extremely hazardous due to mine activity.
-‏
-‏@wfwitnes
-23:31
 1405/02/29
 
 
