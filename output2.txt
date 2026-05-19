@@ -1,3 +1,22 @@
+src :@WAR_ROOM_NEWS
+‏بر اساس گزارش پلیس، حداقل پنج نفر در تیراندازی در مسجدی در سن دیگو کشته شدند. از جمله دو مهاجم که نوجوان بودند
+08:15
+1405/02/29
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇷🇺🇨🇳 Russia and China to discuss huge new gas project during President Putin's Beijing visit this week.
+‏
+‏@BRICSNews
+08:14
+1405/02/29
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇨🇺 — The U.S. Department of the Treasury’s Office of Foreign Assets Control has imposed sanctions on nine senior Cuban officials and the Directorate of Intelligence of Cuba:
@@ -4987,17 +5006,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴آکسیوس می‌گوید که آمریکا پیشنهاد جدید جمهوری اسلامی را رد کرده است و از این به بعد بمب ها مذاکره خواهند کرد.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-19:04
-1405/02/28
-
-
-
-
 src :@didarnews1
 ‏🔴رویترز: آمریکا پیشنهاد جدید ایران را رد کرد
 ‏
@@ -6036,17 +6044,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 15:19
-1405/02/28
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇱🇵🇸 Israel seizes 10 ships in Gaza-bound flotilla, with more operations ongoing.
-‏
-‏@BRICSNews
-15:15
 1405/02/28
 
 
