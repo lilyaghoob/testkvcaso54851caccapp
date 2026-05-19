@@ -1,22 +1,67 @@
-src :@Farsi_Iranwire
+src :@selena_updates
 [عکس]
-‏ولی‌الله حیاتی، معاون امنیتی و انتظامی استانداری خوزستان، روز سه‌شنبه ۲۹ اردیبهشت ۱۴۰۵ اعلام کرد سقوط پرتابه‌های ناشی از پدافند هوایی در مناطق مسکونی اندیمشک چهار شهروند را مجروح کرده است. 
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/152609
-‏@Farsi_Iranwire
-17:31
+‏A Romanian F-16 on NATO Baltic Air Policing duty shot down a stray Ukrainian drone over Estonia’s Lake Võrtsjärv after it veered off course.
+‏
+‏Latvia had issued an early warning, enabling tracking before the intercept.
+17:35
 1405/02/29
 
 
 
 
-src :@cataphract1
+src :@MilitarryWorld
 [عکس]
-‏ائتلاف نظامی پاکستان و عربستان🇵🇰🇸🇦
+‏⭕️چین گزارش فایننشال تایمز را که ادعا می‌کرد شی جین‌پینگ به ترامپ گفته است پوتین در نهایت از آغاز تهاجم به اوکراین پشیمان خواهد شد، رد کرده و آن را «کاملاً نادرست» خوانده است.
 ‏
-‏⚜در چارچوب پیمان‌نامه امنیتی بین دو کشور جمهوری اسلامی پاکستان و پادشاهی عربستان سعودی، ارتش پاکستان طبق گزارش ها چند اسکادران جنگنده و هواپیماهای ترابری حامل نیروهای پاکستانی شامل C-130H هرکولس و IL-76 را برای دفاع از عربستان در برابر هرگونه تخاصم جاری علیه این کشور ارسال کرده است.
+‏@MilitarryWorld | Parsa
+17:34
+1405/02/29
+
+
+
+
+src :@naya_foriraq
+‏‏الولايات المتحدة تفرض عقوبات جديدة على إيران
+17:34
+1405/02/29
+
+
+
+
+src :@didarnews1
+‏🔴نیویورک‌تایمز: آمریکا نتوانسته شهرهای موشکی ایران را منهدم کند
 ‏
-‏🖋#Ethan 
-‏📃@Cataphract1
+‏🔹 یک مقام نظامی آمریکایی نوشت: «بسیاری از موشک‌های بالستیک ایران از غارهای عمیق زیرزمینی و دیگر تاسیسات حفرشده در دل کوه‌های گرانیتی مستقر شده‌اند که انهدام آن‌ها برای هواپیماهای تهاجمی آمریکایی دشوار است.
+‏
+‏🔹 در نتیجه، آمریکا عمدتا ورودی‌های این سایت‌ها را بمباران کرد تا با ریزش کوه آن‌ها را دفن کند، اما خود سایت‌ها منهدم نشدند. ایران اکنون تعداد قابل توجهی از آن سایت‌ها را بازگشایی و پاکسازی کرده است.»
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+17:34
+1405/02/29
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇪🇺 🇷🇺 🇨🇳 — European intelligence agencies report that China's armed forces secretly trained approximately 200 Russian military personnel in China late last year. 
+‏
+‏The covert program, detailed in documents reviewed by Reuters, focused on drone operations, counter-drone tactics, electronic warfare, and explosives handling.
+‏
+‏The Global Eye | Subscribe
+17:33
+1405/02/29
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏ولی‌الله حیاتی، معاون امنیتی و انتظامی استانداری خوزستان، روز سه‌شنبه ۲۹ اردیبهشت ۱۴۰۵ اعلام کرد سقوط پرتابه‌های ناشی از پدافند هوایی در مناطق مسکونی اندیمشک چهار شهروند را مجروح کرده است. 
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/152609
+‏@Farsi_Iranwire
 17:31
 1405/02/29
 
@@ -3534,19 +3579,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏Israeli Finance Minister Bezalel Smotrich:
-‏
-‏The Palestinian Authority has launched a war, and it will get a war. 
-‏
-‏I signed an order for the evacuation of Khan al-Ahmar.
-13:34
-1405/02/29
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏ارتش ایران: اگر دشمن اشتباهی مرتکب شود و حمله‌ای دیگر علیه ایران عزیزمان انجام دهد، با استفاده از ابزارها و روش‌های نوین جبهه‌های جدید علیه آنها باز خواهیم کرد
 13:32
@@ -3802,14 +3834,6 @@ src :@Parvazdaroj
 ‏هماهنگی تبلیغات 
 ‏
 ‏https://t.me/ParvazdarojADS
-13:02
-1405/02/29
-
-
-
-
-src :@naya_foriraq
-‏"نيويورك تايمز": إسقاط طائرة إف-15إي وإصابة طائرة إف-35 كشفا أن تكتيكات الطيران الأميركية أصبحت قابلة للتنبؤ بشكل كبير
 13:02
 1405/02/29
 
@@ -4122,29 +4146,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🌪وقتی اینترنت طوفانیه... کافیه بادبان ها رو بکشی تا 
-‏
-‏⚫️با بالاترین کیفیت ممکن⚡️ 
-‏⚫️100 هزار تومان شارژ هدیه 🎁
-‏⚫️پایین ترین قیمت گیگی 250🌐 
-‏⚫️و ارائه پورسانت %10 در ازای هر معرفی💼
-‏
-‏بتونی یه اتصال پایدار با پشتیبانی 24 ساعته داشته باشی🚀
-‏
-‏بادبان راهتو باز می‌کنه⛵️ 
-‏
-‏R29
-‏🛡@BadBan_VPN | کانال  
-‏🤖@BadBan_VPNBot | ربات  
-‏📞@BadBan_VPNSupport | پشتیبانی
-12:31
-1405/02/29
-
-
-
-
 src :@intelslava
 [عکس]
 ‏💲💥Fujairah Becomes the New Pressure Point
@@ -4427,6 +4428,37 @@ src :@selena_updates
 ‏
 ‏Bolivia is suffering its worst economic ordeal in the past 4 decades, with year-on-year inflation hitting 14% in April.
 12:02
+1405/02/29
+
+
+
+
+src :@cataphract1
+‏✨ به فروشگاه Atlas Relay خوش آمدید!  🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی ✅ تضمین امنیت ارتباطات شما 📞 پشتیبانی حرفه‌ای ۲۴ ساعته تعرفه ها : یک گیگ ۲۷۵ دو گیگ ۵۲۵ سه گیگ ۷۷۵ چهار گیگ ۱.۰۰۰ پنج گیگ ۱.۱۵۰ ده گیگ ۲.۲۰۰ ⚜️سرور ها هیچگونه محدودیتی برای تعداد…
+11:58
+1405/02/29
+
+
+
+
+src :@cataphract1
+[عکس]
+‏✨ به فروشگاه Atlas Relay خوش آمدید!
+‏
+‏🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی
+‏✅ تضمین امنیت ارتباطات شما
+‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
+‏تعرفه ها :
+‏یک گیگ ۲۷۵
+‏دو گیگ ۵۲۵
+‏سه گیگ ۷۷۵
+‏چهار گیگ ۱.۰۰۰
+‏پنج گیگ ۱.۱۵۰
+‏ده گیگ ۲.۲۰۰
+‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند
+‏
+‏@AtlasRelayFastbot
+11:58
 1405/02/29
 
 
@@ -4782,21 +4814,6 @@ src :@P_raetorio
 
 
 
-src :@ClashReport
-[عکس]
-‏Israel has seized roughly 1,000 sq km across Gaza, Lebanon and Syria since the October 7 attacks. 
-‏
-‏Most of the land is in southern Lebanon, where Israel says it is creating a “security zone” against Hezbollah, while the rest is divided between Gaza and Syria. 
-‏
-‏The expansion has displaced millions and heightened regional fears of a long-term occupation, especially as far-right Israeli politicians and settlers push for broader territorial ambitions.
-‏
-‏Source: FT
-10:54
-1405/02/29
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏معاون وزیر امور خارجه جمهوری اسلامی می‌گوید تهران در پیشنهادهای اخیر خود به آمریکا برای پایان جنگ میان دو کشور، خواستار برخورداری از حق غنی‌سازی، خاتمه جنگ در تمام جبهه‌ها از جمله لبنان و خروج نیروهای آمریکایی از محیط پیرامونی ایران شده است.
@@ -5033,17 +5050,6 @@ src :@Farsi_Iranwire
 ‏بخوانید: https://iranwire.com/fa/news-1/152581
 ‏
 ‏@Farsi_Iranwire
-10:04
-1405/02/29
-
-
-
-
-src :@selena_updates
-[عکس]
-‏#NEWS | 🇮🇷 — Tehran’s stock market resumed trading today, Tuesday, May 19, 2026, following an approximately 80-day suspension.
-‏
-‏The Global Eye | Subscribe
 10:04
 1405/02/29
 
@@ -5335,28 +5341,6 @@ src :@guard_warriors
 
 
 
-src :@didarnews1
-‏🔴رفع محدودیت دسترسی به اینترنت بین‌الملل به کجا رسید؟
-‏
-‏سخنگوی دولت:
-‏
-‏🔹معاون اول رئیس جمهور با برگزاری جلساتی در حال پیگیری رفع محدودیت‌های دسترسی به اینترنت بین‌الملل است.
-‏
-‏🔹امیدوار هستیم که به زودی گشایش‌هایی در موضوع اینترنت حاصل شود.
-‏
-‏🔹اینترنت پرو برای کسب و کارها است.
-‏
-‏🔹در شرایط جنگی قرار داریم و بدیهی است که برخی از تصمیمات ناشی از تبعات شرایط جنگی است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:34
-1405/02/29
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇮🇷After the war with Iran, the US Army realized the danger of a huge number of flying "mopeds" and is urgently seeking cheap interceptor missiles for Patriot, so as not to waste expensive PAC-3 on mass attacks of drones and missiles.
 ‏
@@ -5607,12 +5591,34 @@ src :@BellumActaNews
 
 
 
+src :@cataphract1
+‏⭕️دونالد ترامپ:
+‏
+‏⚜«ما داشتیم برای انجام یک حمله بسیار بزرگ فردا آماده می‌شدیم. من آن را برای مدتی به تعویق انداختم، امیدوارم برای همیشه، اما احتمالاً برای مدتی کوتاه، زیرا ما مذاکرات بسیار مهمی با ایران داشته‌ایم و خواهیم دید که به چه نتیجه‌ای خواهند رسید.»
+‏✒️#LT
+‏📃@Cataphract1
+06:05
+1405/02/29
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏🔴رئیس جمهور آمریکا نهایتا به جمهوری اسلامی 3 روز فرصت برای تسلیم داد.
 ‏
 ‏
 ‏🆔@WAR_ROOM_NEWS
 06:02
+1405/02/29
+
+
+
+
+src :@cataphract1
+‏⚜به گزارش نیویورک تایمز، به نقل از مقامات آمریکایی، نیروهای ایرانی سطحی از سازگاری با میدان نبرد را به نمایش گذاشتند که قبلاً به ارتش آنها نسبت داده نمی‌شد. طبق این گزارش، احتمالاً با همکاری همتایان روسی خود، نیروهای ایرانی توانستند تاکتیک‌های پروازی ایالات متحده را بیاموزند و پدافند هوایی را در برابر هواپیماهای آمریکایی بهتر به کار گیرند، زیرا مقامات به نیویورک تایمز گفتند که معتقدند تاکتیک‌های هوایی آمریکا تا حدودی قابل پیش‌بینی شده است.
+‏✒️#LT
+‏📃@Cataphract1
+05:57
 1405/02/29
 
 
@@ -6508,19 +6514,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 21:27
-1405/02/28
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — A California federal jury has ruled against Elon Musk in his high-profile lawsuit against OpenAI, CEO Sam Altman, and Microsoft, determining that he filed his claims too late under the statute of limitations.
-‏
-‏Musk had accused OpenAI of breaching its founding nonprofit mission by shifting to a for-profit structure and partnering with Microsoft. The jury's advisory verdict recommends dismissal on timing grounds, with the judge expected to issue a final ruling.
-‏
-‏The Global Eye | Subscribe
-21:22
 1405/02/28
 
 
