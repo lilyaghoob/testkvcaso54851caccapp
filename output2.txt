@@ -1,3 +1,52 @@
+src :@ClashReport
+‏NATO is discussing a possible mission to help protect ships passing through the Strait of Hormuz if the waterway remains blocked into July. 
+‏
+‏The proposal reportedly has backing from several NATO members but not yet unanimous support.
+‏
+‏Source: Bloomberg
+22:09
+1405/02/29
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 An Israeli airstrike this afternoon claimed the lives of 11 people in the town of Deir Qanoun, Southern Lebanon.
+‏
+‏@wfwitness
+22:08
+1405/02/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏⚡️🇺🇸🇮🇷 وال‌استریت ژورنال: نیروهای آمریکا یک نفتکش مرتبط با ایران را در اقیانوس هند توقیف کرده‌اند.این نفتکش با نام «Skywave» پیش‌تر به دلیل حمل نفت ایران تحت تحریم آمریکا قرار گرفته بود
+22:08
+1405/02/29
+
+
+
+
+src :@ClashReport
+‏US Secretary of State Marco Rubio will visit India from May 23–26 for talks on trade, defence, energy and security cooperation.
+22:08
+1405/02/29
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Somaliland says it will open an embassy in Jerusalem, while Israel plans to open a mission in Hargeisa. 
+‏
+‏The move follows Israel’s recognition of Somaliland’s independence last year, making it the first country to do so.
+22:07
+1405/02/29
+
+
+
+
 src :@defence_news
 [عکس]
 ‏🚨 آپدیت مهم قیمت‌ها 🚨
@@ -952,23 +1001,6 @@ src :@DEJradio
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 فرانسه بودجه دفاعی خود را تا ۲۰۳۰ به حدود ۴۴۹ میلیارد یورو افزایش میدهد
-‏
-‏گزارش‌ها نشان میدهد فرانسه قصد دارد تا سال ۲۰۳۰ حدود ۳۶ میلیارد یورو به بودجه دفاعی خود اضافه کند تا مجموع هزینه‌های نظامی این کشور به حدود ۴۴۹ میلیارد یورو برسد.
-‏طبق این برنامه، تمرکز اصلی پاریس روی افزایش ذخایر مهمات، تقویت پدافند هوایی، توسعه توان هسته‌ای و گسترش ظرفیت پهپادی خواهد بود. بر اساس جزئیات منتشرشده، ذخیره پهپادهای فرانسه حدود ۴۰۰ درصد و تعداد موشک‌های کروز Scalp حدود ۸۵ درصد افزایش پیدا میکند.
-‏بودجه سالانه دفاعی فرانسه نیز قرار است تا سال ۲۰۳۰ به ۷۶.۳ میلیارد یورو برسد؛ رقمی که تقریبا دو برابر سطح سال ۲۰۱۷ است.
-‏
-‏تحلیل: جنگ اوکراین و تنش‌های خاورمیانه باعث شده کشورهای اروپایی دوباره روی آمادگی نظامی و ذخایر تسلیحاتی تمرکز کنند. فرانسه با این برنامه نشان میدهد اروپا دیگر نمیخواهد فقط به حمایت آمریکا تکیه کند و به دنبال بازسازی توان بازدارندگی مستقل خود است.
-‏✍🏻 Admin
-‏▪️@World_Newsly
-21:06
-1405/02/29
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇮🇷❌🇺🇸 — United States Congressional Research Service has issued a report claiming to be the total amount of US military aircrafts destroyed & damaged by Iran during the Iran War.  Destroyed: 24x MQ-9A "Reaper" UCAVs shot down by Iranian air defenses throughout…
@@ -1495,15 +1527,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏IDF announces the killing of a soldier in Lebanon: Major (Res.) Itamar Sapir, 27.
-20:17
-1405/02/29
-
-
-
-
 src :@Shin_Persian
 ‏🔁 Quoting above tweet:
 ‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
@@ -2019,21 +2042,6 @@ src :@BellumActaNews
 
 
 
-src :@ClashReport
-[عکس]
-‏Greece is replacing the Patriot battery it deployed to Karpathos during the Iran war with a pair of Mirage 2000-5 jets.
-‏
-‏The airport is being upgraded to support long-term fighter parking.
-‏
-‏Athens is also withdrawing four F-16s from Cyprus, replacing them with other Air Force assets.
-‏
-‏Source: Kathimerini
-19:51
-1405/02/29
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇮🇷❗️BREAKING: Trump has told reporters he is giving Iran until the weekend to make a deal to end the war.
 ‏
@@ -2062,21 +2070,6 @@ src :@rnintel
 ‏
 ‏Currently, Edouard Philippe is the only polled candidate capable of beating M. Le Pen or J. Bardella in the 2027 French presidential election.
 19:49
-1405/02/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Satellite imagery from May 18 shows Iran has cleared four of five entrances at its Abyek underground missile facility in Qazvin Province.
-‏
-‏The fifth is partially cleared.
-‏
-‏The site was deliberately struck during the US-Israeli air campaign to trap missiles inside.
-‏
-‏Broader US intelligence assessments suggest Iran has now restored access to ~90% of its underground missile network.
-19:48
 1405/02/29
 
 
@@ -2216,36 +2209,6 @@ src :@thewarreporter
 src :@rnintel
 ‏🇫🇷⚡️- The French National Assembly approved a 36B€ budget increase for French armies. This increase is entirely focusing on rearmament.
 19:20
-1405/02/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 Iranian authorities have set up military training kiosks in central Tehran squares to teach civilians, including women and children, how to use AK‑47 assault rifles amid fears of a resumption of war with the U.S. and Israel. The sessions include disassembling and reassembling weapons, with state TV promoting the drills as part of popular readiness.
-‏
-‏A Revolutionary Guards instructor at a kiosk in Haft-e Tir Square said the training is voluntary and aims to “strengthen the culture of martyrdom and avenge the blood of the leader” – referring to former supreme leader Ali Khamenei, killed in US‑Israeli strikes that began the war on 28 February.
-‏
-‏@wfwitness
-19:19
-1405/02/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧🇱🇧🇮🇱 Hezbollah has released the second batch of statements regarding new operations against Israeli forces today:
-‏
-‏In response to Israeli ceasefire violations and attacks on villages in southern Lebanon causing civilian casualties, we targeted a gathering of vehicles and soldiers of the Israeli army in the town of Rashaf with a rocket barrage and an Israeli army vehicle in the Misgav Am settlement and with an FPV drone and achieved a confirmed hits, both attacks occurring at 14:00.
-‏
-‏We also targeted 2 Iron dome platforms at the Jal Al-Alam site and the settlement of Margaliot with missile strikes at 13:25 and 14:30 respectively leading to their destruction.
-‏
-‏Additionally we targeted a newly established position belonging to the Israeli army in the town of Maroun al-Ras with a squadron of FPV drones.
-‏
-‏@wfwitness
-19:19
 1405/02/29
 
 
@@ -2970,20 +2933,6 @@ src :@didarnews1
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ کاظم غریب‌آبادی، معاون وزیر خارجه جمهوری اسلامی روز سه‌شنبه ۲۹ اردیبهشت با انتشار پیامی در شبکه اجتماعی ایکس به توقف موقت حمله نظامی آمریکا به ایران واکنش نشان داد. او اظهارات مقام‌های آمریکایی مبنی بر این‌که این توقف برای «فرصت دادن به مذاکره» بوده است را مورد انتقاد قرار داد و نوشت: «آمریکا می‌گوید حمله به ایران را موقتا متوقف کرده تا به مذاکره فرصت بدهد؛ اما همزمان از آمادگی برای حمله گسترده در هر لحظه سخن می‌گوید. این یعنی تهدی را فرصت صلح نامیدن!»
-‏ 
-‏غریب‌آبادی در ادامه با تاکید بر سیاست جمهوری اسلامی مبنی بر «پیروزی یا مرگ» نوشت: «ایران، یکپارچه و قاطعانه آماده مقابله با هرگونه تجاوز نظامی است. برای ما تسلیم شدن معنایی ندارد؛ یا پیروز می شویم یا شهید.» 
-‏ 
-‏این اظهارات به گفته‌های مقامات جمهوری اسلامی در دوران جنگ هشت ساله با عراق شباهت زیادی دارد، جنگی که در نهایت با کشته شدن ۲۰۰ هزار ایرانی و ده‌ها هزار مجروح و اسیر، با قطعنامه‌ای به پایان رسید که یک سال قبل در شورای امنیت سازمان ملل به تصویب رسیده بود اما رهبر وقت جمهوری اسلامی از پذیرش آن سر باز زده بود.
-‏@indypersian
-18:24
-1405/02/29
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏کاظم غریب‌آبادی، معاون وزیر امور خارجه:
 ‏
@@ -3658,17 +3607,6 @@ src :@VahidOnline
 ‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
-17:10
-1405/02/29
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇱 — An Israel-based OSINT account claims that air defenses are being deployed to sites throughout Jerusalem.
-‏
-‏@GeoPWatch
 17:10
 1405/02/29
 
@@ -4972,15 +4910,6 @@ src :@P_raetorio
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴ارتش اسرائیل در راستای نابودی مواضع حزب‌ الله به ۱۲ روستا در جنوب لبنان دستور تخلیه داد
-13:28
-1405/02/29
-
-
-
-
 src :@didarnews1
 ‏🔴اریک بروئر، مدیر سابق ارشد شورای امنیت ملی آمریکا:
 ‏
@@ -5613,23 +5542,6 @@ src :@tglobaleye
 
 
 
-src :@Americana_ir
-‏🔴 عقب‌نشینی خاموش واشنگتن: چگونه واشنگتن بی‌سروصدا آسیا را از دست می‌دهد
-‏
-‏🔹تحلیلگران هشدار می‌دهند که استراتژی‌های اخیر دولت ترامپ، از جمله ابهام در حمایت از تایوان و صدور مجوز فروش تراشه‌های پیشرفته هوش مصنوعی به چین، در حال تغییر موازنه قدرت در منطقه اندوپاسیفیک به نفع پکن است. 
-‏
-‏🔹در حالی که آمریکا با نگاهی ابزاری به تعهدات امنیتی و تجاری خود می‌نگرد، چین توانسته است با بهره‌گیری از خلأ ایجاد شده، نفوذ خود را در حوزه‌های حیاتی نظیر زیرساخت‌های دیجیتال و زنجیره‌های تأمین تقویت کند
-‏
-‏🔹 روندی که به باور کارشناسان، نه‌تنها اعتماد متحدان کلیدی واشنگتن در جنوب‌شرق آسیا را به سمت پکن متمایل کرده، بلکه با تضعیف جایگاه استراتژیک ایالات متحده، ریسک تقابل نظامی در آینده را به جای ایجاد ثبات، به‌شکل خطرناکی افزایش داده است.
-‏
-‏🔗 لینک منبع  
-‏🆔 @Americana_ir
-09:08
-1405/02/29
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏سلام وقت همگی بخیر
@@ -6251,15 +6163,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 22:16
-1405/02/28
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇷 Iranian President Masoud Pezeshkian says "entering negotiations and talks does not mean we will surrender."
-‏
-‏@BRICSNews
-22:07
 1405/02/28
