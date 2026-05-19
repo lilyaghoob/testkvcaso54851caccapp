@@ -1,3 +1,76 @@
+src :@defence_news
+[عکس]
+‏🔶 نیویورک تایمز: ایران با مطالعه الگوی حملات هوایی آمریکا، خطر را برای جنگنده‌های آنها افزایش داده
+‏
+‏🔹 به گزارش نیویورک تایمز، دونالد ترامپ به دلیل هشدار پنتاگون مبنی بر سازگازی ایران با کمپین هوایی، از انجام حملات تکمیلی خودداری کرده است. بر اساس این گزارش، فرماندهان ایرانی احتمالاً با کمک روسیه با مطالعه دقیق الگوهای پروازی جنگنده‌ها و بمب‌افکن‌های آمریکایی  عملیات های آمریکا را پیش‌بینی‌پذیرتر کرده و کارایی پدافند هوایی ایران را افزایش داده‌اند.
+‏
+‏🔹 مقامات آمریکایی در این گزارش به سرنگونی یک فروند اف-۱۵ و آسیب جدی به یک فروند اف-۳۵ به عنوان نشانه‌هایی از افزایش خطر برای جنگنده‌های این کشور اشاره کرده‌اند.
+‏
+‏🔹 این گزارش نشان می‌دهد که ایران موفق شده ضربات وارده را تحلیل کند و با استفاده از داده‌های میدانی، معماری پدافندی خود را به گونه‌ای بازتنظیم کند که هواپیماهای پیشرفته آمریکایی نیز در معرض تهدید جدی قرار گیرند.
+‏
+‏#ایران
+‏#آمریکا
+‏
+‏@RASTAKHIZ_PERSIAN
+16:37
+1405/02/29
+
+
+
+
+src :@tabzlive
+‏🇸🇾⚡️ — A car bomb targeted the Armament Management Center in Damascus.
+16:37
+1405/02/29
+
+
+
+
+src :@defence_news
+‏آلمان به عنوان بخشی از تلاش‌های ناتو برای تقویت دفاع هوایی ترکیه، سامانه دفاع هوایی پاتریوت را در این کشور مستقر خواهد کرد.
+‏
+‏این تصمیم بعد از رهگیری چند موشک بالستیک ایرانی بر فراز ترکیه طی جنگ رمضان گرفته شده است.
+16:36
+1405/02/29
+
+
+
+
+src :@ClashReport
+[عکس]
+‏NEW: Xi Jinping privately told Trump that Putin might "end up regretting" his invasion of Ukraine, going further than any of his public statements on the war.  The revelation comes just as Putin arrives in Beijing for his 25th anniversary summit with Xi. …
+16:34
+1405/02/29
+
+
+
+
+src :@defence_news
+[عکس]
+‏ظاهرا یک فروند بالگرد جنگ الکترونیک Mi-8MTPR-1 ارتش روسیه توسط آتش خودی سرنگون شده و تمام سرنشین های آن کشته شدند.
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+16:34
+1405/02/29
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇾 Al-Akhbar: Tensions are escalating between Syria’s transitional authorities and foreign jihadist factions, particularly Uzbek fighters based in the former Shia villages of Kafriya and al‑Fu’a in Idlib countryside. 
+‏
+‏Clashes have broken out after security forces arrested a fighter who fired in the air, leading to protests and fears of forced displacement.
+‏
+‏The government is pressuring foreign fighters to join the Defence Ministry individually, offering housing and salaries, but many have settled into civilian life and reject what they see as betrayal. ISIS has seized on the unrest, calling on foreign fighters to join the group, warning that otherwise they face arrest or extradition.
+‏
+‏@wfwitness
+16:34
+1405/02/29
+
+
+
+
 src :@didarnews1
 ‏🔴وال استریت ژورنال: با وجود گفته‌های ترامپ، مقامات خلیج فارس گفتند که از وجود طرح حمله آمریکا علیه ایران بی‌اطلاع بوده‌اند
 ‏
@@ -205,7 +278,8 @@ src :@tabzlive
 
 src :@jangaavaran1390
 ‏آلمان به عنوان بخشی از تلاش‌های ناتو برای تقویت دفاع هوایی ترکیه، سامانه دفاع هوایی پاتریوت را در این کشور مستقر خواهد کرد.
-‏این تصمیم بعد از رهگیری چند موشک بالستیک ایرانی بر فراز ترکیه طی جنگ رمضان گرفته شده
+‏
+‏این تصمیم بعد از رهگیری چند موشک بالستیک ایرانی بر فراز ترکیه طی جنگ رمضان گرفته شده است.
 16:21
 1405/02/29
 
@@ -1033,18 +1107,6 @@ src :@wfwitness
 ‏-Maarakeh 
 ‏
 ‏@wfwitness
-15:31
-1405/02/29
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Republican Congressman Thomas Massie:
-‏I did not see this coming, but my election has become an inflection point for our whole country.
-‏
-‏Today we make history.
 15:31
 1405/02/29
 
@@ -4342,21 +4404,6 @@ src :@mwarmonitor
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump held off on additional strikes partly because Pentagon officials warned Iran was adapting to the air campaign. 
-‏
-‏Iranian commanders had studied U.S. fighter and bomber flight patterns — possibly with Russian assistance — making American operations more predictable and increasing the effectiveness of Iran’s air defenses. 
-‏
-‏Officials cited the downing of an F-15E and damage to an F-35 as signs the risk to U.S. aircraft was rising.
-‏
-‏Source: NYT
-09:54
-1405/02/29
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏در کره جنوبی،  یک وسیله نقلیه جنگی جدید برای تفنگداران دریایی با نام KAAV-II معرفی کردند. همانطور که انتظار می‌رفت، چشمگیر به نظر می‌رسد، به نظر می‌رسد کره‌ای‌ها موفق شده‌اند کاری را که ایالات متحده آمریکا با پروژه EFV (وسیله نقلیه جنگی اعزامی) خود نتوانست انجام دهد، انجام دهند.
@@ -5303,15 +5350,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 00:26
-1405/02/29
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷قائد مقر خاتم الأنبياء التابع للحرس الثوري الإيراني:
-‏نُعلن لأمريكا وحلفائها عدم تكرار الأخطاء الاستراتيجية وسوء التقدير.  عليهم أن يعلموا أن إيران الإسلامية وقواتها المسلحة أكثر استعدادًا وقوة من ذي قبل، وأنها على أهبة الاستعداد، وسترد بسرعة وحسم وقوة وشمولية على أي عدوان متجدد من أعداء الوطن والأمة الشجاعة. لقد اختبر الأعداء الصهاينة الأمريكيون مرارًا وتكرارًا شجاعة الشعب الإيراني وقواته المسلحة الجبارة.لقد أثبتنا بعظمتنا وإرادة الله أننا سنُظهر سلطتنا وقدرتنا للأعداء في ساحة المعركة، وإذا ارتكب أعداؤنا خطأً آخر، فسنتعامل معه بقوة وقدرة تفوق بكثير حرب رمضان المفروضة، وسندافع عن حقوق الشعب الإيراني بكل ما أوتينا من قوة، وسنقطع يد أي معتدٍ.
-00:18
 1405/02/29
 
 
@@ -6872,21 +6910,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 19:22
-1405/02/28
-
-
-
-
-src :@defence_news
-[عکس]
-‏🔶 اکسیوس: پیشنهاد اصلاح شده ایران برای پایان دادن به جنگ توسط کاخ سفید ناکافی درنظر گرفته شده
-‏
-‏🔹 مقام آمریکایی هشدار می دهد اگر تهران امتیازات هسته ای عمده را رد کند، اقدام نظامی می تواند از سر گرفته شود.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-19:11
 1405/02/28
 
 
