@@ -1,3 +1,128 @@
+src :@Shin_Persian
+‏📦 mhrv-rs v1.9.31 released
+‏
+‏• Fix a Full mode pipeline regression introduced after v1.9.28 where idle sessions could generate too many empty polls and burn quota across multi-deployment setups
+‏• Make Full mode data flow steadier
+‏• Change the block_stun default to false, so STUN/TURN traffic is allowed by default; set `block_stun
+‏
+‏Files (Android APKs, Windows, macOS, Linux, OpenWRT) on the files channel:
+‏
+‏👉 v1.9.31 — all files with SHA-256
+‏
+‏Channel:
+‏https://t.me/mhrv_rs
+‏or: https://t.me/+R1OyoHX2boA1ZDgx
+‏
+‏#v1931
+22:02
+1405/02/29
+
+
+
+
+src :@defence_news
+[عکس]
+‏تصویر ماهواره‌ای منتشر شده از آبیک قزوین و تأسیسات زیرزمینی موشکی هوافضا که چهار ورودی از پنج ورودی پاکسازی شده و پنجمین ورودی نیز به صورت جزئی، گزارش شده ارزیابی اطلاعات ایالات متحده بر این باور است دسترسی هوافضا به حدود ۹۰ درصد تاسیسات زیرزمینی پس از حملات سنگین به این پایگاه ها میسر شده است.
+‏
+‏@RedLionCorps
+22:01
+1405/02/29
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸❌🇮🇷 — The U.S. seized a sanctioned Iran-linked oil tanker, Skywave, in the Indian Ocean overnight, according to WSJ.
+‏
+‏➡️ The ship was likely loaded with more than a million barrels of crude at Iran’s Kharg Island in February.
+22:00
+1405/02/29
+
+
+
+
+src :@Exciton_missile_program
+‏لیست 42 هواگرد آمریکا که در جنگ اخیر آسیب دیدند یا از بین رفتند به نقل از سرویس پژوهشهای کنگره آمریکا. (تعداد هواگردهای آسیب دیده بیشتر از 42 مورد ذکر شده است)
+‏
+‏⬅️ 4 جنگنده F-15 (3 مورد با آتش خودی ارتش کویت و یک مورد با آتش پدافند ج.ا)
+‏⬅️ 1 مورد آسیب به F-35 با پدافند ج.ا
+‏⬅️ 1 مورد ساقط کردن جنگنده پشتیبانی نزدیک A-10 به وسیله پدافند ج.ا
+‏⬅️ 2 مورد نابودی و 5 مورد آسیب به سوخت‌رسانهای KC-135 که دو مورد در خارج از فضای هوایی ایران بود و موارد دیگر در اثر حملات ج.ا به فرودگاه های منطقه به ویژه در عربستان
+‏⬅️ 1 مورد نابودی ای وکس E-3 Sentry در اثر حمله پهپادی ج.ا به عربستان (نوشته آسیب اما از این هواپیما چیزی نمانده است)
+‏⬅️ 2 مورد نابودی هواپیماهای ترابری MC-130J که در عملیات نجات خلبان آمریکایی در عمق خاک ایران گیر کردند که خود مهاجمین آنها را بمباران کردند
+‏⬅️ 1 مورد نابودی هلیکوپتر HH-60W 
+‏
+‏⬅️  24 مورد نابودی پهپاد نظارتی-رزمی MQ-9 که احتمالا عمده یا همه آنها به وسیله پدافند ج.ا ساقط شده اند. (تعداد احتمالا 26 مورد باشد)
+‏⬅️ 1 مورد نابودی پهپاد تجسسی-پایش MQ-4C
+‏
+‏موارد ذکر نشده
+‏⬅️ 1 مورد آسیب جدی به یک هلیکوپتر شینوک در کویت در اثر حمله ج.ا
+‏⬅️ آسیب به حداقل 2 هلیکوپتر بلک هاوک در جریات نجات خلبانان آمریکایی
+‏⬅️ 4 مورد هلیکوپتر MH-6 لیتل برد که این هم در داخل MC-130j به داخل ایران آورده شد برای عملیات نجات که در کنار این دو هواپیما به وسیله خود مهاجمین بمباران شد
+‏⬅️ 1 مورد آسیب به F-18 آمریکایی در اثر موشک دوش پرتاب ج.ا که با شانس بسیار آسیب محدود ماند
+‏⬅️ آسیب احتمالی به برخی از جنگنده های پشتیبانی نزدیک A-10 که در نهایت با موفقیت به پایگاه برگشتند
+‏
+‏با تشکر از کانال فعال @Minas_Tirith2024 یکی از دقیق ترین اطلاعات و پایگاه داده‌ها را از روند جنگ جاری دارند.
+‏
+‏@Exciton_missile_program 🚀
+22:00
+1405/02/29
+
+
+
+
+src :@intelslava
+[عکس]
+‏The United Aircraft Corporation (UAC) has released images from the maiden flight of the new two-seat Su-57D Multirole Fighter.
+‏
+‏@IntelSlava
+22:00
+1405/02/29
+
+
+
+
+src :@MilitarryWorld
+‏🚨وال استریت ژورنال: نیرو های آمریکایی یک ابر نفتکش ایرانی را امروز در اقیانوس هند توقیف کردند.  @MilitarryWorld | Parsa
+21:59
+1405/02/29
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 US seizes Iran-linked tanker carrying over 1 million barrels of crude oil.
+‏
+‏@BRICSNews
+21:58
+1405/02/29
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- The U.S. military seized a sanctioned Iranian-linked oil tanker overnight in the Indian Ocean, according to the Wall Street Journal. 
+‏
+‏The tanker, known as the Skywave, was likely carrying over a million barrels of crude oil that was loaded from Iran’s Kharg Island in February.
+21:58
+1405/02/29
+
+
+
+
+src :@didarnews1
+‏🔴وال استریت ژورنال به نقل از مقامات آمریکایی: نیروهای ما یک نفتکش مرتبط با ایران را شبانه در اقیانوس هند توقیف کردند
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+21:58
+1405/02/29
+
+
+
+
 src :@MilitarryWorld
 ‏🚨وال استریت ژورنال:
 ‏نیرو های آمریکایی یک ابر نفتکش ایرانی را امروز در اقیانوس هند توقیف کردند.
@@ -29,7 +154,9 @@ src :@didarnews1
 
 
 src :@mwarmonitor
-‏🔴«به گزارش وال‌استریت ژورنال، ایالات متحده بامداد امروز یک نفتکش مرتبط با ایران را در اقیانوس هند توقیف کرد؛ هم‌زمان با آن‌که دونالد ترامپ تهدید کرده است حملات نظامی علیه ایران را از سر بگیرد.»
+‏🔴«به گزارش وال‌استریت ژورنال: به گفته سه مقام آمریکایی، ایالات متحده طی شب گذشته یک نفتکش مرتبط با ایران را در اقیانوس هند توقیف کرده است؛ این در حالی است که رئیس‌جمهور ترامپ تهدید می‌کند حملات نظامی علیه ایران را از سر بگیرد.
+‏
+‏🔸این اقدام دست‌کم سومین باری است که آمریکا در چارچوب سرکوب ناوگان موسوم به «ناوگان سایه» مرتبط با ایران، یک نفتکش را توقیف می‌کند.»
 ‏
 ‏
 ‏@mwarmonitor
@@ -899,23 +1026,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 بلومبرگ: روبل روسیه بهترین عملکرد را میان ارزهای جهان ثبت کرد
-‏
-‏بلومبرگ گزارش داد روبل روسیه در این فصل با رشد حدود ۱۲ درصدی تا سطح ۷۲.۶ روبل در برابر هر دلار تقویت شده و به قوی‌ترین سطح خود از اوایل ۲۰۲۳ رسیده است.
-‏طبق این گزارش، یکی از عوامل اصلی این رشد، افزایش درآمدهای نفتی روسیه پس از آغاز جنگ آمریکا و اسرائیل علیه ایران بوده است؛ موضوعی که باعث جهش قیمت انرژی و ورود ارز بیشتر به اقتصاد روسیه شده است. بلومبرگ همچنین به نقش نرخ بهره بالای بانک مرکزی روسیه و کنترل‌های ارزی اشاره کرده است.
-‏
-‏تحلیل: جنگ خاورمیانه فقط روی ایران و اسرائیل اثر نگذاشته؛ روسیه هم از افزایش قیمت نفت سود برده و توانسته بخشی از فشار تحریم‌ها را جبران کند. با این حال، برخی اقتصاددانان میگویند تقویت بیش از حد روبل میتواند در بلندمدت برای صادرات و بودجه روسیه هم دردسرساز شود.
-‏
-‏✍🏻 Danger
-‏▪️@World_Newsly
-21:01
-1405/02/29
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ استفان دوجاریک، سخنگوی دبیرکل سازمان ملل، در نشست خبری روز سه‌شنبه ۲۹ اردیبهشت، با ابراز نگرانی شدید از شیوع مجدد ابولا در جمهوری دموکراتیک کنگو و اوگاندا، بر اهمیت حیاتی زیرساخت‌های سلامت جهانی تاکید کرد. دوجاریک با اشاره به ضرورت همکاری‌های بین‌المللی و حمایت از سازمان جهانی بهداشت (WHO)، خاطرنشان کرد که «ویروس ابولا مانند هر بحران بهداشتی دیگری، به مرزها اهمیتی نمی‌دهد.»
@@ -1146,18 +1256,6 @@ src :@IranintlTV
 ‏به گفته منابع امنیتی، جمهوری اسلامی از مارس ۲۰۲۶ کارزاری با نام «حرکت أصحاب الیمین الإسلامیه» (HAYI) راه‌اندازی کرده که از طریق شبکه‌های اجتماعی اقدام به جذب نیرو در میان محافل طرفدار جمهوری اسلامی و جریان‌های افراطی شیعه می‌کند.
 ‏https://iranintl.com/202605191606
 20:43
-1405/02/29
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🏳️⚡️ — Somaliland’s ambassador to Israel Dr. Mohamed Hagi:
-‏I am pleased to announce that the Republic of Somaliland’s Embassy will be located in Jerusalem.
-‏
-‏The Embassy will be opened soon, while Israel will also establish its Embassy in Hargeisa, reflecting growing friendship, mutual respect, and strategic cooperation between our two peoples.
-20:41
 1405/02/29
 
 
@@ -1794,19 +1892,6 @@ src :@mwarmonitor
 ‏🇮🇷«غریب‌آبادی، معاون وزیر امور خارجه ایران، ادعاهای اخیر ترامپ درباره مذاکرات را به سخره گرفت و گفت: “تسلیم شدن هیچ معنایی ندارد؛ ما یا پیروز می‌شویم یا شهید می‌شویم.”»
 ‏
 ‏@mwarmonitor
-20:00
-1405/02/29
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏با وجود آنکه از زمان انتصاب مجتبی خامنه‌ای به‌عنوان سومین رهبر جمهوری اسلامی، هیچ تصویر یا ویدیویی از او منتشر نشده، کانال تلگرامی منتسب به او پیامی منتشر کرد که در آن بر «لزوم افزایش جمعیت» و «ترویج فرهنگ فرزندآوری» تاکید شده است.
-‏در این پیام که در ادامه تلاش‌های مقام‌های جمهوری اسلامی برای تشویق ایرانیان به فرزندآوری و افزایش نرخ تولد منتشر شده، آمده است از جمله دستاوردهای جنگ ۴۰ روزه، برآمدن جمهوری اسلامی در «مُستَوای قدرتی بزرگ و تاثیرگذار» بوده است.
-‏در ادامه این پیام تاکید شده «استمرار این وضع» و رسیدن به «درجه مطلوب‌تر» از آن، «نسبت مستقیمی با مسئله جمعیت» دارد و ملت ایران با «پیگیری مجدانه سیاست صحیح و حتمی افزایش جمعیت» می‌تواند «جهش‌هایی راهبردی» را تجربه کرده و در مسیر «خلق تمدن نوین ایران اسلامی» گام بردارد.
-‏در این متن همچنین از «تلاش روزافزون فعالان حوزه جمعیت و ترویج فرهنگ فرزندآوری» تقدیر شده و موضوع افزایش جمعیت از «مهم‌ترین دغدغه‌های» علی خامنه‌ای، رهبر کشته شده جمهوری اسلامی و از مهمترین مسائل راهبردی نظام توصیف شده است.
-‏https://iranintl.com/202605191704
 20:00
 1405/02/29
 
@@ -3048,14 +3133,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@naya_foriraq
-‏‏ترامب: قد نضطر إلى توجيه ضربة أخرى لإيران، لست متأكداً.
-18:09
-1405/02/29
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏وزارت دفاع امارات متحده عربی اعلام کرد طی 48 ساعت گذشته 6 پهپاد را از مبدا عراق سرنگون کرده است! 
@@ -3153,32 +3230,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/152610
 ‏@Farsi_Iranwire
 18:00
-1405/02/29
-
-
-
-
-src :@MilitarryWorld
-‏⭕️مخالفت سازمان برنامه و بودجه با افزایش ۵۰۰ هزار تومانی کالابرگ!
-‏
-‏رئیس کمیسیون اجتماعی مجلس: وزارت کار می‌گوید که پیشنهاد افزایش بیش از ۵۰۰ هزار تومان یعنی ۴۰ تا ۵۰ درصدی نسبت به رقم فعلی کالابرگ را مطرح کرده اما سازمان برنامه و بودجه و مجموعه دولت هنوز به جمع‌بندی نهایی نرسیده‌اند.
-‏
-‏@MilitarryWorld | Parsa
-17:55
-1405/02/29
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ اسکات بسنت، وزیر خزانه‌داری آمریکا، روز سه‌شنبه ۲۹ اردیبهشت در نشست مبارزه با تامین مالی تروریسم در پاریس، از متحدان غربی و آسیایی خواست تا با جدیتی بیشتر، شبکه‌های مالی و بانکداری سایه‌ای جمهوری اسلامی را متلاشی کنند. او تاکید کرد که شرکای اروپایی باید با بستن شعب بانکی، افشای شرکت‌های صوری و تحریم حامیان مالی ایران، در کنار واشنگتن بایستند.
-‏ 
-‏این درخواست در راستای برنامه تحریمی جدید دولت ترامپ موسوم به «خشم اقتصادی» (Economic Fury) مطرح شده است؛ طرحی که هدف آن اعمال فشار بر تهران جهت بازگشایی تنگه هرمز و آزادسازی جریان نفت است. وزارت خزانه‌داری آمریکا در چارچوب این برنامه، تاکنون نزدیک به نیم میلیارد دلار ارز دیجیتال مرتبط با حکومت ایران را مسدود کرده است.
-‏ 
-‏وزیر خزانه‌داری آمریکا همچنین از بازنگری و حذف نام‌های قدیمی و منقضی‌شده از لیست تحریم‌ها (SDN) خبر داد تا بانک‌ها بتوانند روی پیچیده‌ترین شگردهای دور زدن تحریم‌ها تمرکز کنند. بسنت گفت این وزارتخانه رویکردی پویا را دنبال خواهد کرد و در صورت تغییر رفتار جبهه مقابل، آماده تعدیل تحریم‌ها خواهد بود.
-‏@indypersian
-17:55
 1405/02/29
 
 
@@ -4439,14 +4490,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@rnintel
-‏🇸🇾⚡️- A loud explosion heard in Damascus, Syria.
-15:12
-1405/02/29
-
-
-
-
 src :@didarnews1
 ‏🔴قطر: از میانجیگری‌ها حمایت کرده و با واشنگتن و تهران در تماس هستیم
 ‏
@@ -4916,38 +4959,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 19 May 2026 10:06:08 UTC
-‏
-‏Earlier today: 
-‏"AA activity in Andimeshk"
-‏Adds:
-‏"Something reportedly crashed in the Andimeshk Bazaar" 
-‏Also adds:
-‏"Apparently 2-3 citizens were severely wounded due to the AA fire" [???] 
-‏
-‏Khuzestan Province, #Iran
-‏
-‏فارسی
-‏
-‏امروز کمی پیش:
-‏«فعالیت پدافند هوایی در اندیمشک»
-‏می‌افزاید:
-‏«گزارش شده که چیزی در بازار اندیمشک سقوط کرده است»
-‏همچنین می‌افزاید:
-‏«ظاهراً ۲-۳ شهروند بر اثر شلیک پدافند هوایی به شدت مجروح شده‌اند» [؟؟؟]
-‏
-‏استان خوزستان، #Iran_
-‏
-‏𝕏  ·  @shin_persian
-13:36
-1405/02/29
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏ارتش ایران: اگر دشمن اشتباهی مرتکب شود و حمله‌ای دیگر علیه ایران عزیزمان انجام دهد، با استفاده از ابزارها و روش‌های نوین جبهه‌های جدید علیه آنها باز خواهیم کرد
 13:35
@@ -5000,28 +5011,6 @@ src :@didarnews1
 
 
 
-src :@intelslava
-‏🇷🇺🇺🇦Ukraine is preparing strikes on Russia from Latvia's territory. The main statements from the Russian Foreign Intelligence Service:
-‏
-‏- Zelensky is determined to demonstrate to Europe the preservation of the combat potential of the Ukrainian Armed Forces and their ability to damage Russia's economy;
-‏
-‏- The Kiev regime plans to launch drones from the Baltic states to attack Russia;
-‏
-‏- The Kiev authorities have convinced Riga to agree to conduct an operation against Russia;
-‏
-‏- Military personnel of the Ukrainian Armed Forces' drone systems have already been sent to Latvia to attack Russia from the republic's territory;
-‏
-‏- The coordinates of decision-making centers in Latvia are known, and the country's membership in NATO will not protect terrorist accomplices from just retribution;
-‏
-‏- Modern intelligence means allow to reliably determine the coordinates of the drone launch point if they are launched from Latvia.
-‏
-‏@Intelslava
-13:14
-1405/02/29
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏سازمان یوروپل (پلیس اتحادیه اروپا) در بیانیه‌ای اعلام کرد در قالب یک عملیات مشترک با مشارکت ۱۹ کشور، هزاران محتوای آنلاین مرتبط با سپاه پاسداران انقلاب اسلامی را در فضای مجازی هدف قرار داده و برای حذف یا محدود سازی به پلتفرم‌های دیجیتال ارجاع داده است.
@@ -5046,23 +5035,6 @@ src :@KayhanLondonChannel
 ‏
 ‏در شرایطی که احتمال ازسرگیری دوباره جنگ و حملات نظامی وجود دارد، سخنگوی وزارت آموزش و پرورش هفته گذشته اعلام کرد تصمیم‌گیری درباره حضوری یا غیرحضوری امتحانات مدارس در خردادماه به شورای تأمین استان و شورای تأمین شهرستان‌ها سپرده شده است.
 13:11
-1405/02/29
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🇨🇺The US is seriously considering the possibility of launching strikes on Cuba, writes Politico.
-‏
-‏According to a senior American official and another informed source, Trump and his administration are becoming disillusioned with the campaign of pressure on Cuba, which is not yielding the desired results.
-‏
-‏In this regard, the US is developing a plan of military actions, which could range from a single airstrike designed to intimidate local authorities, to a full-scale ground invasion aimed at overthrowing the regime.
-‏
-‏It should be noted that in recent months, a media campaign to justify an invasion of Cuba has unfolded in the US. Secretary of State Marco Rubio stated that the island has become a haven for intelligence and military bases of US opponents, the US Department of Justice is preparing charges against former Cuban leader Raul Castro, and Axios writes that Cuba is allegedly purchasing Iranian drones for attacks on US territory.
-‏
-‏@Intelslava
-13:10
 1405/02/29
 
 
@@ -5120,23 +5092,6 @@ src :@KayhanLondonChannel
 ‏
 ‏معاون مسعود پزشکیان تأکید کرد «اگر مردم از همین حالا در مصرف گاز، برق، بنزین و سایر حامل‌های انرژی کمی صرفه‌جویی کنند، کمک بزرگی به عبور از این شرایط خواهد شد. در غیر این صورت دولت ناچار خواهد شد تصمیمات سخت‌گیرانه‌تری اتخاذ کند که طبیعتاً شرایط را دشوارتر خواهد کرد.»
 12:46
-1405/02/29
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇮🇩🇫🇷 Indonesian President Prabowo Subianto attended the ceremonial handover of the first six Rafale Multirole Fighters (F4 standard), four Dassault Falcon 8X business aircraft, and one Airbus A400M Atlas military transport aircraft to the Indonesian Air Force at Halim Perdanakusuma Air Base in Jakarta on 18 May 2026.
-‏
-‏On 10 February 2022, Indonesia’s Ministry of Defense signed an agreement with Dassault Aviation for the purchase of 42 Rafale Multirole Fighters. The total value of the contract is estimated at around $7 billion, excluding armaments.
-‏
-‏In November 2021, the Ministry of Defense also signed a contract with Airbus for two A400M military transport aircraft in a tanker-transport configuration, with the first aircraft delivered in November 2025.
-‏
-‏The six Dassault Falcon 8X aircraft will be used for VIP transport within Indonesia.
-‏
-‏@IntelSlava
-12:43
 1405/02/29
 
 
@@ -5277,26 +5232,6 @@ src :@rus_cosmos
 src :@thewarreporter
 ‏🇺🇸🇸🇦🇦🇪🇶🇦🇮🇷 — US President Trump:  "I have been asked by Qatar, Saudi Arabia, and the UAE to hold off on our planned military attack of Iran, which was scheduled for tomorrow".  @TheWarReporter
 12:23
-1405/02/29
-
-
-
-
-src :@didarnews1
-‏🔴وزیر دفاع پاکستان:
-‏
-‏🔹ایرانیان عزم و روحیه فوق‌العاده ای دارند و ما از اینکه ایران برای پیشبرد دیپلماسی به پاکستان اعتماد دارد قدردانی می کنیم
-‏
-‏🔹احتمال آغاز جنگی دیگر بسیار کم است زیرا هیچ کشوری از جمله همسایگان ایران در آن سوی خلیج فارس حامی جنگ علیه تهران نیست و اسرائیل در این مسیر تنها مانده است
-‏
-‏🔹 البته اسرائیل و یا شاید دو سه کشوری بخواهند که جنگ طولانی شود و آمریکا به نیابت از آنان بجنگند
-‏
-‏🔹برای ما موضع چین و روسیه مهم است، دیدگاه آنان بسیار روشن بوده و قابل درک است که آنان در کنار دیگر کشورها هرگز حامی جنگ علیه ایران نیستند / ایرنا
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-12:21
 1405/02/29
 
 
@@ -5558,18 +5493,6 @@ src :@Military_Times_Blog
 ‏
 ‏🆔@Military_Times_Blog
 11:03
-1405/02/29
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏معاون وزیر امور خارجه جمهوری اسلامی می‌گوید تهران در پیشنهادهای اخیر خود به آمریکا برای پایان جنگ میان دو کشور، خواستار برخورداری از حق غنی‌سازی، خاتمه جنگ در تمام جبهه‌ها از جمله لبنان و خروج نیروهای آمریکایی از محیط پیرامونی ایران شده است.
-‏بخوانید: https://iranwire.com/fa/news-1/152585
-‏
-‏@Farsi_Iranwire
-10:52
 1405/02/29
 
 
