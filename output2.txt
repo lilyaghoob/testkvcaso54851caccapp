@@ -1,3 +1,24 @@
+src :@MilitarryWorld
+‏⭕️فارس: تخم‌مرغ از ۵۵۰ به زیر ۴۰۰ هزار تومان سقوط کرد، اما مرغ گرم از کیلویی ۳۸۰ به ۴۵۰ هزار تومان افزایش یافته!
+‏
+‏@MilitarryWorld | Parsa
+13:50
+1405/02/29
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇮🇱 🇱🇧 — The Israeli army has issued an evacuation order for residents of 12 villages in southern Lebanon ahead of expected strikes against Hezbollah targets.
+‏
+‏The Global Eye | Subscribe
+13:47
+1405/02/29
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏در ادامه لفاظی‌های تهدیدآمیز مقام‌های حکومت، محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، گفت در صورت حمله مجدد دشمن، «با ابزارها و شیوه‌های جدید، جبهه‌های جدیدی را علیه آنها خواهیم گشود».
@@ -3873,18 +3894,6 @@ src :@warmonitors
 
 
 
-src :@MilitarryWorld
-‏⭕️سخنگوی وزارت خارجه آمریکا در گفتگو با الجزیره: ترامپ برای رسیدن به توافقی غیرقابل قبول عجله نخواهد کرد
-‏
-‏خطوط قرمز رئیس‌جمهور روشن است و آن اینکه ایران نباید به سلاح هسته‌ای دست یابد.
-‏
-‏@MilitarryWorld | Parsa
-00:31
-1405/02/29
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸- At least one innocent individual has been confirmed to be killed by one of the shooters during the attack.  @GeoPWatch
 00:27
@@ -3899,15 +3908,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 00:26
-1405/02/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Germany will send a Patriot air defense system and 150 troops to Türkiye starting in late June.
-00:22
 1405/02/29
 
 
@@ -6310,17 +6310,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇵🇰 🇸🇦 — Pakistan has deployed approximately 8,000 troops, a squadron of around 16 JF-17 fighter jets, drone squadrons, and a Chinese HQ-9 air defence system to Saudi Arabia under a mutual defence pact signed in 2025.
-‏
-‏The Global Eye | Subscribe
-18:11
-1405/02/28
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran demands the United States release all frozen Iranian funds.
 ‏
@@ -6966,14 +6955,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 14:15
-1405/02/28
-
-
-
-
-src :@MilitiaNews
-‏🇮🇷🇵🇰⚡️خبرنگار الجزیره به نقل از منبعی در وزارت کشور پاکستان: وزیر کشور، سفر خود به تهران را برای روز سوم نیز تمدید کرده است.
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-13:47
 1405/02/28
