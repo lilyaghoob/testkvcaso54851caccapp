@@ -1,3 +1,15 @@
+src :@ClashReport
+‏Mediators say U.S.-Iran talks have made little progress, with both sides still far apart. 
+‏
+‏Iran continues demanding an end to hostilities, financial relief, and a role in the Strait of Hormuz, while rejecting key U.S. demands to shut down or suspend its nuclear program.
+‏
+‏Source: WSJ
+01:17
+1405/02/30
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🚨میانجی‌گران منطقه‌ای و مقامات آمریکایی می‌گویند موضع ایران در مذاکرات با آمریکا عمدتاً بدون تغییر نسبت به پیشنهادات قبلی باقی مانده است، که منجر به پیشرفت کمی شده است، با وجود اینکه رئیس‌جمهور ترامپ گفته است که «بحث‌های بزرگی» در جریان است، گزارش وال استریت ژورنال.
@@ -1164,16 +1176,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 23:28
-1405/02/29
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏سنتکام اعلام کرد از زمان آغاز محاصره دریایی جنوب ایران، ۸۹ کشتی تجاری ناچار به تغییر مسیر شده‌اند.این نهاد افزود نیروهای سنتکام به اجرای کامل محاصره بنادر ایران ادامه می‌دهند و مانع ورود و خروج جریان تجارت از این کشور می‌شوند.
-‏https://iranintl.com/202605198290
-23:25
 1405/02/29
 
 
