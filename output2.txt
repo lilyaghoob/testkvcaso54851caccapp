@@ -1762,17 +1762,6 @@ src :@tglobaleye
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸- An extremely large police presence can be seen around the Islamic Center of San Diego; the fate of the shooter and others that were inside the building is currently unknown.
-‏
-‏@GeoPWatch
-23:17
-1405/02/28
-
-
-
-
 src :@mwarmonitor
 ‏📝 «نظر من را می‌پرسید؟ حمله انجام خواهد شد.»
 23:17
