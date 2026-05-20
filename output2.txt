@@ -1,3 +1,58 @@
+src :@ircfspace
+‏قطع اینترنت به خاطر تأمین امنیت، یک دروغ بزرگ است
+‏
+‏گفته شده قطع اینترنت به خاطر تأمین امنیت زیرساختی، نرم‌افزاری و سخت‌افزاری است تا کمتر مورد حمله‌های سایبری قرار بگیریم، در حالی که این یک دروغ بزرگ است. حمله‌های سایبری و ناامنی زیرساخت هیچ ارتباطی به قطع اینترنت ندارد. متخصصان به این‌گونه دلیل‌تراشی‌ها پوزخند می‌زنند. البته نه به این معنا که زیرساخت مخابراتی ما یا زیرساخت شبکه ملی اطلاعات ما در حال حاضر امن است؛ نه، ناامنی وجود دارد، اما قطع اینترنت کمکی به تأمین امنیت زیرساخت نمی‌کند، بلکه لطمه بسیار جدی‌تری هم به امنیت زیرساخت می‌زند.
+‏در همین مدت دو ماه و نیم گذشته ده‌ها آپدیت امنیتی برای باگ‌های «زیرو دی» یا اصطلاحاً باگ‌های روز صفر داده شده است. این‌ها باگ‌هایی هستند که می‌توانند دسترسی بسیار بالایی برای هکرها ایجاد کنند؛ روی گوشی‌های مردم، روی مودم‌ها، روی شبکه‌های صنعتی داخلی. این‌ها هیچ‌کدام آپدیت‌ها را نگرفته‌اند. آپدیت‌های ضروری‌ای که حتی یک روز به تعویق انداختنشان گاهی باعث ایجاد ناامنی می‌شود، الان بیشتر از دو ماه و نیم است که دریافت نشده‌اند و ما با یک بمب ساعتی در ناامنی زیرساخت شبکه کشور مواجهیم.
+‏من فکر می‌کنم وقتی بحث امنیت مطرح می‌شود، بیشتر از اینکه منظور امنیت شبکه و زیرساخت باشد، منظورشان کنترل افکار عمومی و جریان آزاد اطلاعات است. اگر با این چارچوب امنیت را فهم کنیم، بنظر می‌رسد حق با این آقایان است؛ قطع اینترنت قطعاً باعث جلوگیری از جریان آزاد اطلاعات می‌شود. دلیل اینترنت پرو هم اتفاقاً همین است. اینترنت پرو نهایتاً شاید به یک یا دو میلیون نفر ارائه شود. یک یا دو میلیون نفر با ۵۰ یا ۶۰ میلیون کاربر فعال ایرانی خیلی متفاوت است و باعث می‌شود جلوی جریان آزاد اطلاعات گرفته شود و در واقع کنترل افکار عمومی و کنترل جامعه راحت‌تر شود.
+‏چطور اینستاگرام یک پلتفرم آمریکایی است و ممکن است لوکیشن و اطلاعات مردم را در اختیار مثلاً نهادهای امنیتی آمریکا بگذارد، اما سیستم‌عامل اندروید که متعلق به گوگل است، نمی‌تواند چنین کاری کند؟ اساساً منطقی که مطرح شده، پر از اشکال است. وقتی شما اینترنت را قطع می‌کنید، عملاً یعنی تمام زیرساخت‌های رشد و توسعه یک جامعه را متوقف می‌کنید. به یک معنا، ما با این مسیر داریم گام‌به‌گام به عصر حجری نزدیک می‌شویم که در آن از فناوری اثری نبوده.
+‏
+‏© hamedbd
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+08:56
+1405/02/30
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️سردار آزمون، مهاجم با سابقه تیم ملی فوتبال ایران روز سه‌‌شنبه ۲۹ اردیبهشت با انتشار یک روایتگر در اینستاگرام، برای نخستین بار به خط خوردن از فهرست کاروان ایران در جام جهانی آمریکا واکنش نشان داد.
+‏
+‏مهاجم شباب الاهلی امارات در این پیام نوشت: ««درسته پیشتون نیستم ولی رفیقام که هستین دلیلی نمیشه بهتون آرزوی موفقیت نکنم... خیلی‌ها می‌خوان خرابم کنن ولی این حرفا اصلا درست نیست، موفق باشین بچه‌ها.»
+‏
+‏سردار آزمون پس از کشتار هزاران نفر در جریان انقلاب ملی ایرانیان، عبارت معروف «از خون جوانان وطن لاله دمیده» عارف قزوینی را روی دستش خالکوبی کرد. این مهاجم باسابقه تیم ملی فوتبال ایران در دی ماه ۱۴۰۴ با انتشار ویدیویی از کشته شدگان اعتراضات نوشت: «این‌ها قصه نبودند، واقعی بودند. هیچ‌وقت شما را از یاد نمی‌بریم.»
+‏قوه قضائیه جمهوری اسلامی اموال سردار آزمون را هم پس از این وقایع و «به‌اتهام همکاری با دشمن» توقیف کرد.
+‏
+‏پس از حملات جمهوری اسلامی به امارات متحده عربی، انتشار عکسی از سردار آزمون با محمد بن رشید، آل مکتوم، امیر دبی خبرساز شد.
+‏
+‏@IndyPersian
+08:56
+1405/02/30
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏❗️🇺🇸 - Driven by infighting surrounding President Trump and the Israel issue, the 2026 US midterm primary elections are set to smash all previous spending records.
+‏
+‏➡️ The Texas primary between 4-term Senator John Cornyn and the Trump-endorsed Ken Paxton is projected to be the most expensive Senate primary race in history. The GOP collectively spends $95.1M, compared to $27.5M spent on the Texas Democratic primary.
+‏
+‏➡️ The previous record holder for the most expensive Senate primary was Arizona 2022. The Trump-Thiel ticket Blake Masters spent heavily to beat his primary opponents only to be defeated by his Democrats opponent Mark Kelly. The 2022 midterm was a widely anticipated 'red wave' that nevertheless failed to materialize.
+‏
+‏➡️ Another record was broken by the House primary involving Thomas Massie, with over $32M spent. Israel-related lobby groups alone spent nearly $12M on Gallrein's campaign. President Trump also featured heavily in the race to support his endorsee against Mr Massie. For perspective, the spending on a typical House primary does not exceed $5M.
+‏
+‏➡️ The previous record for the most expensive House primary was incidentally another AIPAC influenced race. In 2024, the lobby spent over $14M to defeat pro-Palestine Progressive Jamaal Bowman. The total spending in that primary was $24.8M.
+‏
+‏➡️ President Trump also settled score with several other political opponents in the 2026 primaries. Most notably, Senator Bill Cassidy of Louisiana, who voted to impeach Trump in 2021, has been eliminated from the race.
+08:56
+1405/02/30
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏خبرگزاری میزان، رسانه قوه قضاییه جمهوری اسلامی، اعلام کرد حکم اعدام بهمن فرزانه، قاتل الهه حسین‌نژاد، بامداد چهارشنبه اجرا شده است. الهه حسین‌نژاد در خرداد ۱۴۰۴ برای بازگشت به منزل سوار یک خودرو شده بود، اما راننده او را ربود و پیکر او را در بیابان‌های اطراف تهران رها کرد.
@@ -1546,17 +1601,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸⚡️- Polymarket odds have shot up to 90% for Ed Gallrein to defeat Thomas Massie, even as only one county has been reported, with it being nearly even. 
-‏
-‏The bets may be a reaction to the Kenton County results, which are currently at 20% counted, or insider trading from individuals with access to the ballot numbers.
-02:04
-1405/02/30
-
-
-
-
 src :@P_raetorio
 ‏سرانجام پس از ۷ تلاش ناموفق، لایحه محدودیت اختیارات جنگی ترامپ در جنگ علیه ایران، در مجلس سنا با رای ۵۰ به ۴۷ تصویب شد.   @Minas_Tirith2024
 02:03
@@ -2100,21 +2144,6 @@ src :@P_raetorio
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸- Iranian Foreign Minister Abbas Araghchi posted on X: Months after initiation of war on Iran, US Congress acknowledges loss of dozens of aircraft worth billions.
-‏
-‏Our powerful Armed Forces are confirmed as 1st to strike down a touted F-35.
-‏
-‏With lessons learned and knowledge we gained, return to war will feature many more surprises.
-‏
-‏@GeoPWatch
-00:41
-1405/02/30
-
-
-
-
 src :@mwarmonitor
 ‏🔴سناتور لیندسی گراهام ؛«من امیدوارم و انتظار دارم که پس از ماه‌ها مذاکره با ایرانی‌ها، دولت ترامپ هرگونه تلاش ایران برای به‌تعویق انداختن دوباره مذاکرات را رد کند. این رژیم ماه‌ها فرصت داشته تا به یک توافق برسد، اما به نظر من روشن است که در حال بازی دادن طرف مقابل است.
 ‏
@@ -2560,21 +2589,6 @@ src :@selena_updates
 ‏
 ‏Sapir is the 8th IDF soldier to be killed in southern Lebanon since the start of a ceasefire, and the 21st since hostilities escalated amid the Iran war.
 23:42
-1405/02/29
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، روز سه‌شنبه ۲۹ اردیبهشت، در نشست ویژه شورای امنیت سازمان ملل متحد درباره حمله پهپادی اخیر به نیروگاه هسته‌ای «برکه» در امارات، نسبت به پیامدهای فاجعه‌بار اصابت مستقیم به این تاسیسات هشدار داد.
-‏
-‏گروسی اگرچه بازگشت برق پشتیبان به این نیروگاه را گامی مهم برای امنیت هسته‌ای خواند، اما تاکید کرد: «می‌خواهم کاملا شفاف بگویم؛ در صورت حمله به نیروگاه برکه، هرگونه اصابت مستقیم می‌تواند به نشت شدید مواد رادیواکتیو در محیط زیست منجر شود.»
-‏
-‏او افزود آسیب به خطوط تامین برق نیروگاه، احتمال ذوب شدن قلب راکتورها را به شدت افزایش می‌دهد که این امر در بدترین سناریوها، اتخاذ اقدامات حفاظتی فوری نظیر تخلیه گسترده مناطق اطراف را ناگزیر می‌کند. گروسی در پایان تصریح کرد که حملات نظامی به تاسیسات هسته‌ای با اهداف صلح‌آمیز، به هیچ عنوان قابل قبول نیست.
-‏
-‏@indypersian
-23:41
 1405/02/29
 
 
