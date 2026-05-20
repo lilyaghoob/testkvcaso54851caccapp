@@ -1,3 +1,65 @@
+src :@Shin_Persian
+[عکس]
+‏سردار مادرجنده بی جنبه :( بلاک کرد
+17:43
+1405/02/30
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ترامپ گفت که نتانیاهو هر کاری را که او بخواهد انجام خواهد داد. او همچنین درباره ایران اظهار داشت که واشنگتن یک فرصت کوتاه دیگر به تهران می‌دهد و خودش عجله‌ای ندارد. ترامپ افزود که آمریکا برای باز شدن تنگه هرمز نیز عجله‌ای ندارد وی ادامه داد اکنون خشم زیادی در ایران وجود دارد، زیرا مردم در شرایط بسیار بدی زندگی می‌کنند
+17:40
+1405/02/30
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏سایت رویداد۲۴ گزارش داد یک مرد جوان مجرد از جنگ‌زدگان ساکن هتل لاله تهران، در روزهای ابتدایی جنگ و در پی فشار شدید روانی ناشی از جنگ، آوارگی و بی‌خانمانی خودکشی کرده و جان باخته است.
+‏
+‏بر اساس این گزارش، علیرضا رئیسی، معاون وزیر بهداشت، گفته بود وزارت بهداشت برای ارائه مشاوره‌های روان‌شناختی به آوارگان آمادگی کامل داشته، اما شهرداری تهران از ورود تیم‌های متخصص این وزارتخانه جلوگیری کرده است.
+‏
+‏در مقابل، محمد صاحب، مدیرکل سلامت شهرداری تهران، این صحبت‌ها را رد کرد و گفت پیشنهاد همکاری وزارت بهداشت «بسیار دیر» و پس از آتش‌بس ارائه شد؛ زمانی که به گفته او، شهرداری از قبل مقدمات خدمات‌رسانی را فراهم کرده بود.
+‏
+‏(به توصیه کارشناسان، اگر با فردی روبه‌رو شدید که از جملات یا عباراتی حاکی از افسردگی یا تمایل به پایان زندگی استفاده می‌کند، از او بخواهید با یک پزشک متخصص معتمد، نهادهای فعال در این زمینه یا فردی مورد اعتماد درباره نگرانی‌هایش صحبت کند. اگر خودتان به خودکشی فکر می‌کنید، در ایران می‌توانید با اورژانس اجتماعی با شماره ۱۲۳ تماس بگیرید.)
+‏https://iranintl.com/202605200313
+17:38
+1405/02/30
+
+
+
+
+src :@Shin_Persian
+‏📦 mhrv-rs v1.9.33 released
+‏
+‏• In Full Tunnel mode, fully idle sessions now use a stronger empty-keepalive backoff, and when every deployment is detected as legacy they stop sending repeated empty polls after going idle
+‏• For mixed fleets where at least one deployment still has healthy long-poll support, the client keeps emitting empty polls so round-robin can still reach that healthy peer and remote→client data doe…
+‏
+‏Files (Android APKs, Windows, macOS, Linux, OpenWRT) on the files channel:
+‏
+‏👉 v1.9.33 — all files with SHA-256
+‏
+‏Channel:
+‏https://t.me/mhrv_rs
+‏or: https://t.me/+R1OyoHX2boA1ZDgx
+‏
+‏#v1933
+17:38
+1405/02/30
+
+
+
+
+src :@naya_foriraq
+‏🏴‍☠️اعلام العدو تحت بند سمح بالنشر: اصيب قائد اللواء 401، بجروح خطيرة إثر انفجار طائرة مسيّرة مفخخة اخترقت المنزل الذي كان متواجدًا فيه في جنوب لبنان. كما أُصيب معه أيضًا ضابط برتبة مقدم.
+17:37
+1405/02/30
+
+
+
+
 src :@intelslava
 [عکس]
 ‏🎁❗️TODAY FREE❗️🎁
@@ -1216,18 +1278,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iran’s Foreign Minister Abbas Araghchi:
-‏Not a single one of our diplomats and local staff left their mission locations during the imposed war period.
-‏
-‏U.S. officials admitted that Iran was able to succeed in the diplomatic war, especially in public and media diplomacy.
-16:33
-1405/02/30
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Trump’s troop pullback in Europe is sparking backlash from Republican defense hawks, who say it weakens NATO and benefits Russia. 
@@ -2225,16 +2275,6 @@ src :@DEJradio
 ‏
 ‏#پهپاد #امارات 
 ‏@DEJradio
-15:06
-1405/02/30
-
-
-
-
-src :@naya_foriraq
-‏سوالف الگهوة 
-‏
-‏من منزل العامري ، طرح مبادرة اليوم تتضمن صلح وبناء الجدار المتصدع داخل الإطار التنسيقي في العراق..
 15:06
 1405/02/30
 
@@ -5070,14 +5110,6 @@ src :@VahidOnline
 
 
 
-src :@GeoPWatch
-‏🇺🇸 — DecisionDeskHQ projects Ed Gallrein defeating Thomas Massie in the KY-04 Republican primary.  @GeoPWatch
-03:31
-1405/02/30
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏زمین‌لرزه در قشم
@@ -5620,14 +5652,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@WAR_ROOM_NEWS
-‏در پی حمله هوایی امروز اسرائیل به مواضع حزب الله در شهرک دیر قانون در جنوب لبنان ۱۱ تن کشته شدند ،ظاهراً مجدد تسلیحات حزب‌ الله در اماکن غیر نظامی استتار شده بود
-22:12
-1405/02/29
-
-
-
-
 src :@Shin_Persian
 ‏📦 mhrv-rs v1.9.31 released
 ‏
@@ -5863,46 +5887,6 @@ src :@Shin_Persian
 src :@Shin_Persian
 ‏↩️ Quoted tweet: Psarantonis  @FurzFee2000 Tue, 19 May 2026 16:37:20 UTC  @hey_itsmyturn @POTUS Did anyone read every single word?  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  فارسی  @hey_itsmyturn @POTUS آیا کسی تمام کلمات را مو به مو خواند؟  𝕏…
 20:14
-1405/02/29
-
-
-
-
-src :@Shin_Persian
-‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
-‏Tue, 19 May 2026 16:23:09 UTC
-‏
-‏Tanker Swaps - Cloning? #FreeIran‌ 
-‏--- Operation EPIC FURY / Project FREEDOM ---
-‏
-‏A pair of KC-135 "Stratotanker" aircraft that had previously left the CENTCOM region (more than 2 weeks ago) back to the US arrived back at RAF Mildenhall (EGUN) this morning, and are now both airborne showing as RCH164 heading back to CENTCOM.
-‏
-‏They'll likely replace 2 airframes that left Tel Aviv Ben Gurion Airport (LLBG) early this morning and went to RAF Mildenhall.
-‏
-‏@MATA_osint
-‏
-‏فارسی
-‏
-‏تبادل تانکرها - کلونینگ؟ #FreeIran‌ 
-‏--- عملیات خشم حماسی (EPIC FURY) / پروژه آزادی (Project FREEDOM) ---
-‏
-‏یک جفت هواپیمای سوخت‌رسان KC-135 "استراتوتانکر" که پیش از این (بیش از ۲ هفته قبل) منطقه فرماندهی مرکزی ایالات متحده (سنتکام/CENTCOM) را به مقصد آمریکا ترک کرده بودند، امروز صبح به پایگاه نیروی هوایی سلطنتی میدهال (EGUN) بازگشتند و اکنون هر دو با شناسه RCH164 به صورت پروازی در حال بازگشت به سمت سنتکام هستند.
-‏
-‏آن‌ها احتمالاً جایگزین ۲ بدنه پروازی خواهند شد که اوایل صبح امروز فرودگاه بن گوریون تل‌آویو (LLBG) را ترک کرده و به پایگاه میدهال رفتند.
-‏
-‏@MATA_osint
-‏
-‏𝕏  ·  @shin_persian
-20:06
-1405/02/29
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏DefenceGeek 🇬🇧 ✓  @DefenceGeek Tue, 19 May 2026 16:23:09 UTC  Tanker Swaps - Cloning? #FreeIran‌  --- Operation EPIC FURY / Project FREEDOM ---  A pair of KC-135 "Stratotanker" aircraft that had previously left the CENTCOM region (more than 2 weeks ago) back…
-20:06
 1405/02/29
 
 
