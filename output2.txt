@@ -1,3 +1,32 @@
+src :@GeoPWatch
+‏🇺🇸 — DecisionDeskHQ projects Ed Gallrein defeating Thomas Massie in the KY-04 Republican primary.  @GeoPWatch
+03:31
+1405/02/30
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump-backed Ed Gallrein defeats Rep. Thomas Massie in Kentucky’s GOP primary.
+03:30
+1405/02/30
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏ترامپ در یک سخنرانی در کاخ سفید گفت: جمهوری اسلامی «قرار نیست به سلاح هسته‌ای دست پیدا کند. نمی‌توانند سلاح هسته‌ای داشته باشند. ما نمی‌توانیم چنین چیزی را تحمل کنیم و آن را تحمل نخواهیم کرد.»
+‏او گفت: «ما نیروی دریایی جمهوری اسلامی را نابود کردیم. نیروی هوایی آنها از بین رفته است. سامانه‌های پدافند هوایی آنها از بین رفته است. تمام تجهیزاتی که برای جنگ استفاده می‌کردند از بین رفته است. تقریبا همه چیز از بین رفته است.»
+‏ترامپ افزود: «نمی‌خواهم بگویم رهبران آنها از بین رفته‌اند، چون بیان آن چندان خوشایند نیست، اما واقعیت همین است.»
+‏https://iranintl.com/202605197914
+03:30
+1405/02/30
+
+
+
+
 src :@BellumActaNews
 [عکس]
 ‏#BREAKING
@@ -59,7 +88,12 @@ src :@tabzlive
 
 
 src :@VahidOnline
-‏زمین‌لرزه در هرمزگان
+[عکس]
+‏زمین‌لرزه در جزیره قشم
+‏
+‏آپدیت: تصویر دریافتی بالا
+‏بزرگی#زلزله: ۴٫۷
+‏مرکز: بندر لافت در جزیره قشم هرمزگان
 ‏
 ‏پیام‌های دریافتی:
 ‏سلام وحید دو زلزله شدید بندرعباس رو لرزاند
@@ -78,7 +112,6 @@ src :@VahidOnline
 ‏
 ‏چند دقیقه پیش زمین لرزه نسبتا شدید اومد دوبار تو فاصله خیلی کم بندرعباس
 ‏
-‏#زلزله
 ‏📡 @VahidOnline
 03:13
 1405/02/30
@@ -550,15 +583,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇹🇮🇳⚡️ — Italy's Prime Minister Meloni and Indian Prime Minister Modi hanging out at the Colosseum in Rome.
-01:41
-1405/02/30
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏🇩🇿🇫🇷 French minister of the Interior Laurent Nunez announces the end of the crisis between France and Algeria.
@@ -821,15 +845,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — CENTCOM Commander Adm. Brad Cooper on the deadly Minab school strike: The United States does not deliberately target civilians. Nor are the Iranian people our enemy. The IRGC is the adversary in this case.  The investigation is ongoing. It's a complex…
-01:15
-1405/02/30
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏نيوورك تايمز: يخطط الاتحاد الدولي لكرة القدم (FIFA) لحظر المشجعين مرة أخرى من إحضار علم "الأسد والشمس" قبل الثورة الإيرانية والملابس ذات الصلة إلى ملاعب كأس العالم خلال بطولة 2026.  تم أيضًا تقييد العلم في كأس العالم قطر 2022.
@@ -860,19 +875,6 @@ src :@ClashReport
 ‏
 ‏Source: NYT
 01:14
-1405/02/30
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇮🇷⚡️ — Regional mediators and U.S. officials say Iran’s stance in negotiations with the U.S. has remained largely unchanged from previous proposals, leading to little progress despite President Trump saying that “big discussions” are taking place, WSJ reports.
-‏
-‏Iran continues to demand an end to hostilities, financial relief, reparations for war damage, and a role overseeing the Strait of Hormuz, while remaining at odds with U.S. demands for the closure or long-term suspension of its nuclear program.
-‏
-‏Meanwhile, the U.S. and Israel have prepared new attacks on Iran that could still occur within days or as early as next week.
-01:12
 1405/02/30
 
 
@@ -2073,16 +2075,6 @@ src :@Farsi_Iranwire
 ‏همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان.
 ‏
 ‏@Farsi_Iranwire
-23:01
-1405/02/29
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸 — Contrary to circulating reports, there is no evidence of greater-than-normal turnout for demographics supportive of Ed Gallrein or Thomas Massie in the KY-04 primary, and insufficient data exists to make such claims.
-‏
-‏@GeoPWatch
 23:01
 1405/02/29
 
