@@ -1,3 +1,35 @@
+src :@BellumActaNews
+[عکس]
+‏🇺🇸⁉️🇨🇺 — The United States Department of Justice announced that it has called a press conference in Miami, where it is expected to present criminal charges against Cuban dictator Raúl Castro over the deaths of four pilots from the organization Brothers to the Rescue. According to reports from Miami Herald, the future of the communist ruler could be decided within hours.
+06:11
+1405/02/30
+
+
+
+
+src :@Indypersian
+‏⭕️اکسیوس به نقل از ترامپ: تهران تا جمعه یا شاید شنبه و اوایل هفته آینده مهلت دارد
+‏
+‏📌ترامپ پس از تعلیق حمله، جلسه‌ای درباره طرح‌های جنگ برگزار کرد
+‏
+‏♦️به گفته دو مقام آمریکایی به اکسیوس، دونالد ترامپ، رئیس‌جمهوری آمریکا عصر دوشنبه جلسه‌ای را با تیم ارشد امنیت ملی خود درباره ایران تشکیل داد که شامل ارائه گزارشی از گزینه‌های نظامی نیز بود.
+‏
+‏ این جلسه چند ساعت پس از آن برگزار شد که ترامپ اعلام کرد حملاتی را که قرار بود روز سه‌شنبه انجام شوند متوقف کرده است.
+‏
+‏ترامپ همچنان می‌گوید ایران فقط چند روز برای رسیدن به یک پیشرفت دیپلماتیک فرصت دارد. او روز دوشنبه گفت این ضرب‌الاجل «دو تا سه روز، شاید جمعه یا شنبه، اوایل هفته آینده» است.
+‏
+‏اکسیوس می‌نویسد، در حالی که ترامپ بارها در طول آتش‌بس تهدید به اقدام نظامی کرده اما آن را عملی نکرده، این‌که او روز دوشنبه در جریان طرح‌های نظامی قرار گرفته نشان می‌دهد که به‌طور جدی در حال بررسی ازسرگیری جنگ است.
+‏
+‏مقام‌های آمریکایی می‌گویند ترامپ پیش از اعلام تعلیق حمله، در واقع هنوز تصمیم نهایی برای حمله به ایران نگرفته بود. او روز سه‌شنبه گفت «یک ساعت مانده بود» تا دستور حمله را صادر کند.
+‏
+‏بیشتر بخوانید...
+‏@indypersian
+06:09
+1405/02/30
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Israel and the U.S. reportedly explored a plan to replace Iran’s leadership with former president Mahmoud Ahmadinejad after the killing of Ali Khamenei during the war with Iran. 
@@ -2385,20 +2417,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ ژنرال الکسوس گرینکویچ، فرمانده ارشد ناتو در اروپا، روز سه‌شنبه ۲۹ اردیبهشت اعلام کرد که به طور جدی در حال بررسی نحوه کمک این ائتلاف در تنگه هرمز است؛ هرچند تاکید کرد که تا زمان اتخاذ تصمیم سیاسی، برنامه‌ریزی رسمی آغاز نشده است.
-‏
-‏این اظهارات در حالی مطرح می‌شود که دونالد ترامپ پیش از این از واکنش ضعیف متحدان اروپایی ناتو به جنگ با جمهوری اسلامی و بسته شدن این آبراه حیاتی انتقاد کرده بود. در پاسخ، کشورهای اروپایی به رهبری بریتانیا و فرانسه در تلاشند تا طرحی را برای کمک به باز نگه داشتن این تنگه پس از پایان احتمالی جنگ تدوین کنند.
-‏
-‏با وجود فشارهای واشنگتن، ناتو تاکنون از ورود مستقیم به این درگیری خودداری کرده است. با این حال، ژنـرال گرینکویچ تاکید کرد که کشورهایی مانند بریتانیا، فرانسه، آلمان، ایتالیا و بلژیک ناوهای خود را به منطقه اعزام کرده‌اند و همگی بر سر تضمین آزادی کشتیرانی توافق دارند. دیپلمات‌های اروپایی ناتو احتمال ایفای یک نقش بزرگ را به دلیل اختلافات داخلی کم‌رنگ می‌دانند، اما معتقدند ناتو می‌تواند در عملیات‌های آتی به رهبری فرانسه یا بریتانیا مشارکت داشته باشد.
-‏@indypersian
-22:28
-1405/02/29
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴حکم پژمان جمشیدی صادر شد
@@ -2504,28 +2522,8 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-‏NATO is discussing a possible mission to help protect ships passing through the Strait of Hormuz if the waterway remains blocked into July. 
-‏
-‏The proposal reportedly has backing from several NATO members but not yet unanimous support.
-‏
-‏Source: Bloomberg
-22:09
-1405/02/29
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏⚡️🇺🇸🇮🇷 وال‌استریت ژورنال: نیروهای آمریکا یک نفتکش مرتبط با ایران را در اقیانوس هند توقیف کرده‌اند.این نفتکش با نام «Skywave» پیش‌تر به دلیل حمل نفت ایران تحت تحریم آمریکا قرار گرفته بود
-22:08
-1405/02/29
-
-
-
-
-src :@ClashReport
-‏US Secretary of State Marco Rubio will visit India from May 23–26 for talks on trade, defence, energy and security cooperation.
 22:08
 1405/02/29
 
@@ -2753,18 +2751,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@FotrosResistancee
 21:43
-1405/02/29
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇨🇴🇧🇴🇧🇴❌🇦🇷 — Colombian President Gustavo Petro stated
-‏"Milei's collaboration with the repression of the Bolivian people is similar to when Hitler helped Franco with the German Nazi bombings."
-‏
-‏He's clearly schizophrenic.
-21:41
 1405/02/29
 
 
