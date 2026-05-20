@@ -1,3 +1,16 @@
+src :@ClashReport
+[عکس]
+‏Israel and the U.S. reportedly explored a plan to replace Iran’s leadership with former president Mahmoud Ahmadinejad after the killing of Ali Khamenei during the war with Iran. 
+‏
+‏According to unnamed U.S. officials, Israel struck Ahmadinejad’s home in Tehran in an attempt to free him from house arrest and potentially position him as a new leader. He survived the strike but was injured and later reportedly distanced himself from the plan.
+‏
+‏Source: NYT
+06:02
+1405/02/30
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 زلزله ۴.۷ ریشتری بخش‌هایی از استان هرمزگان را لرزاند
@@ -1659,24 +1672,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 ترامپ: توماس مسی بدترین نماینده تاریخ آمریکاست
-‏
-‏دونالد ترامپ در حمله‌ای تند به توماس مسی، نماینده جمهوری‌خواه کنگره آمریکا، گفت مسی بیانیه‌ای قدیمی از حمایت انتخاباتی او را منتشر کرده؛ حمایتی که به گفته ترامپ مربوط به سال‌ها قبل و پیش از آن بوده که متوجه شود مسی «بدترین نماینده تاریخ آمریکا» است.
-‏ترامپ اعلام کرد اکنون از «اد گلرین» حمایت میکند و او را «میهن‌پرست واقعی آمریکایی» توصیف کرد. او همچنین مدعی شد بیانیه منتشرشده توسط مسی «جعلی» و «فریبکارانه» است.
-‏ترامپ در پایان نوشت: «همین حالا بیانیه جعلی‌ات را پس بگیر، مسی!»
-‏
-‏تحلیل: اختلاف میان ترامپ و توماس مسی در هفته‌های اخیر، به‌ویژه بر سر سیاست خارجی آمریکا و حمایت از اسرائیل، شدیدتر شده است.
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-00:16
-1405/02/30
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Syrian President Ahmed al-Sharaa posts a picture of the fragrance Trump gifted him.
@@ -1975,19 +1970,6 @@ src :@ClashReport
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 قاتل الهه حسین زاده در آستانه قصاص
-‏استوری خواهر الهه: امشب، قصاص مرهم داغ خواهرم نمی شود... اما شاید کمی از بی عدالتی این دنیا کم کند. الهه جانم...
-‏
-‏✍🏻 Troy
-‏▪️@World_Newsly
-23:42
-1405/02/29
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏😔💔🕯
@@ -2027,22 +2009,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US intelligence detects at least 10 mines in the Strait of Hormuz.
 ‏
 ‏@BRICSNews
-23:40
-1405/02/29
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 آیت‌الله مروی، تولیت آستان قدس رضوی: احتکار و گران‌فروشی فقط یک تخلف نیست؛ خیانت به مردم، شرافت و انسانیت است
-‏
-‏🔸قوه‌ قضائیه باید با قاطعیت وارد میدان شود؛ نه فقط برخورد، بلکه اعلام علنی نام محتکران و اخلالگران.
-‏
-‏🔸کسی که نان مردم را گروگان گرفته، آبرویی برای پنهان‌کردن ندارد.
-‏
-‏✍🏻 Hector
-‏▪️@World_Newsly
 23:40
 1405/02/29
 
@@ -2233,34 +2199,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:13
-1405/02/29
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 کارشناس صداوسیما : وقتی ترامپ  بگه می‌خواد حمله کنه؛ حمله نمیکنه
-‏ولی وقتی بگه داریم مذاکره میکنیم، یعنی می‌خواد حمله کنه
-‏
-‏
-‏✍🏻 Troy
-‏▪️@World_Newsly
-23:12
-1405/02/29
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 طبق گزارش وال استریت ژورنال، ایالات متحده یک نفتکش تحریم شده مرتبط با ایران را در اقیانوس هند در طول شب توقیف کرد.
-‏
-‏این کشتی احتمالا در ماه فوریه با بیش از یک میلیون بشکه نفت خام در جزیره خارگ ایران بارگیری شده است.‌‌
-‏
-‏✍🏻 Hector
-‏▪️@World_Newsly
-23:11
 1405/02/29
 
 
@@ -2589,17 +2527,6 @@ src :@WAR_ROOM_NEWS
 src :@ClashReport
 ‏US Secretary of State Marco Rubio will visit India from May 23–26 for talks on trade, defence, energy and security cooperation.
 22:08
-1405/02/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Somaliland says it will open an embassy in Jerusalem, while Israel plans to open a mission in Hargeisa. 
-‏
-‏The move follows Israel’s recognition of Somaliland’s independence last year, making it the first country to do so.
-22:07
 1405/02/29
 
 
