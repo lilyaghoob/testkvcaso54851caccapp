@@ -1,3 +1,47 @@
+src :@MilitiaNews
+‏🇵🇰🇮🇷⚡️ یک مقام دیپلماتیک به شبکه الحدث سعودی می‌گوید: همکاری بین ایران و واسطه‌ها در پاکستان در هفته‌های اخیر کاهش یافته است
+‏
+‏@MilitiaNews | میلیشا را دنبال کنید
+15:17
+1405/02/30
+
+
+
+
+src :@Shin_Persian
+‏📦 mhrv-rs v1.9.32 released
+‏
+‏• Full Tunnel batch protocol now supports zstd compression
+‏• Compression negotiation is backward compatible
+‏• To use this in Full mode, update the app, redeploy CodeFull.gs as a new Apps Script version, and redeploy tunnel-node / the Docker image on your VPS or Cloud Run.
+‏• Compressed batch logging is kept safer
+‏• Thanks to @yyoyoian-pixel for the implementation and empirical testing in PR #1314.
+‏
+‏Files (Android APKs, Windows, macOS, Linux, OpenWRT) on the files channel:
+‏
+‏👉 v1.9.32 — all files with SHA-256
+‏
+‏Channel:
+‏https://t.me/mhrv_rs
+‏or: https://t.me/+R1OyoHX2boA1ZDgx
+‏
+‏#v1932
+15:15
+1405/02/30
+
+
+
+
+src :@MilitiaNews
+‏🇵🇸🇮🇱⚡️ فعالان ناوگان جهانی صمود غزه در بندر اشدود در اسرائیل بازداشت شده‌اند.
+‏
+‏@MilitiaNews | میلیشا را دنبال کنید
+15:14
+1405/02/30
+
+
+
+
 src :@defence_news
 [عکس]
 ‏شرکت آمریکایی DZYNE از سامانه جدید «BlitzBox» رونمایی کرده؛ یک لانچر کانتینری که می‌تواند تا ۱۰۰ پهپاد مسلح را درون یک کانتینر ظاهراً عادی مخفی و شلیک کند.
@@ -11,6 +55,20 @@ src :@defence_news
 ‏این سامانه قابلیت کنترل از راه دور از طریق ارتباط ماهواره‌ای مانند استارلینک را دارد و حتی می‌تواند در مناطق دورافتاده یا پشت خطوط دشمن مستقر شود.
 ‏
 ‏ارتش آمریکا و دارپا نیز به‌شدت به سامانه‌های کانتینری پهپادی علاقه‌مند شده‌اند؛ زیرا این نوع لانچرها امکان اجرای حملات ناگهانی، اشباع پدافند و عملیات پهپادی گسترده را با هزینه پایین فراهم می‌کنند.
+15:11
+1405/02/30
+
+
+
+
+src :@didarnews1
+‏🔴صداوسیما: 
+‏
+‏🔹عبور شناورهای ملیت‌های مختلف به‌ویژه شرق آسیا از تنگۀ هرمز بیشتر شد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
 15:11
 1405/02/30
 
@@ -798,22 +856,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 14:10
-1405/02/30
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — A message from Iran’s Supreme Leader Ayatollah Mojtaba Khamenei:
-‏Commemorating the martyrs of the May Revolution, led by the martyred President Hajj al-Islam and al-Muslimeen Raisi, reminds us of the martyrdom of numerous service martyrs in the Islamic Republic of Iran; from Motahari, Beheshti, Rajaei, and Bahonar, to Raisi, Al-Hashemi, Amir Abdollahian, and Larijani, hundreds of prominent and distinguished figures who graduated from the school of the great Khomeini and the dear Khamenei - may God preserve them - who adorned the record of loyal and heroic service to the officials of the Islamic Republic with their blood-stained signatures.
-‏
-‏Among the outstanding characteristics of Martyr Raisi, we can mention his assumption of responsibility, youth renewal, concern for justice, active and beneficial diplomacy, and especially his popularity. These characteristics encouraged Iran's friends, including the Mujahideen in the strong resistance front and many loyalists to the system. All of this was combined with a spirituality deeply rooted in his soul. In the relationship between officials and the people, positive and influential characteristics lead to mutual appreciation. Thus, he was bid farewell to his master and servant, the Imam Abu al-Hasan al-Ridha - may God's prayers and peace be upon him - in a grand and rare ceremony. His unfinished presidency was a measure of effort and concern for the nation and the country while maintaining its independence.
-‏
-‏We are now facing the epic of the Iranian people in a historically unique resistance against two global terrorist armies. This increases the burden of responsibilities on the officials of the Islamic Republic - from leadership and heads of authorities to all administrative levels - more than ever. Today, we thank the grace of the cohesion of the people, the state, and all organs of the Islamic Republic in strengthening the motivation and redoubled service and jihad of the officials, solving the problems and concerns of the people, especially in the economic and living fields, direct presence in the field, and defining a serious role for the people sent on the path of the country's progress and optimistic movement towards a bright future.
-‏
-‏May God's mercy and grace be upon the martyrs of the path of service and divine victory, and may our Master - may God hasten his blessed reappearance - support the servants of the Muslim people in Iran.
-14:09
 1405/02/30
 
 
@@ -3604,21 +3646,6 @@ src :@ircfspace
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴وال‌استریت ژورنال: امریکا و اسرائیل برای حمله به ایران در هفته آینده آماده می‌شوند
-‏
-‏🔹یکی از روزنامه‌های امریکایی مدعی شد، به‌رغم تعلیق موقت حملات نظامی از سوی دونالد ترامپ رئیس جمهور امریکا، واشنگتن و تل‌آویو خود را برای اقدام نظامی علیه ایران در هفته آینده آماده می‌کنند.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:56
-1405/02/30
-
-
-
-
 src :@ircfspace
 ‏قطع اینترنت به خاطر تأمین امنیت، یک دروغ بزرگ است
 ‏
@@ -4748,14 +4775,6 @@ src :@mamlekate
 src :@P_raetorio
 ‏✨ به فروشگاه Atlas Relay خوش آمدید!  🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی ✅ تضمین امنیت ارتباطات شما 📞 پشتیبانی حرفه‌ای ۲۴ ساعته تعرفه ها : یک گیگ ۲۷۵ دو گیگ ۵۲۵ سه گیگ ۷۷۵ چهار گیگ ۱۰۰۰ پنج گیگ ۱.۱۵۰ ده گیگ ۲.۲۰۰  ⚜️سرور ها هیچگونه محدودیتی برای تعداد…
 00:11
-1405/02/30
-
-
-
-
-src :@naya_foriraq
-‏🌟🏴‍☠️قوات حزب الله البطلة تشتبك مع عناصر جيش العدو في بلدة حداثا بجنوب لبنان وتتمكن من إستهداف وإحراق دبابة ميركافا وإصابة عدد من الصهاينة والمعارك مستمرة حتى اللحظة.
-00:10
 1405/02/30
 
 
