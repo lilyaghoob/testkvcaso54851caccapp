@@ -1,3 +1,27 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸🇺🇸- U.S. Central Command has released an image of a U.S. Marine Corps AH-1Z Viper attack helicopter patrolling in the Arabian Sea near a commercial vessel.
+‏
+‏➡️ CENTCOM claims to have redirected 90 commercial vessels and disabled 4 since April 13th.
+‏
+‏@GeoPWatch
+16:41
+1405/02/30
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏#بدون_شرح
+‏
+‏@P_raetorio
+16:40
+1405/02/30
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️ظریف: ما نیاز به تضمین از قول‌شکنان و پیمان‌شکنان نداریم/ مردم و نیروهای مسلح ما بزرگ‌ترین تضمین برای ما هستند
 ‏
@@ -1200,15 +1224,6 @@ src :@naya_foriraq
 ‏سوالف الگهوة 
 ‏
 ‏من منزل العامري ، طرح مبادرة اليوم تتضمن صلح وبناء الجدار المتصدع داخل الإطار التنسيقي في العراق..
-15:06
-1405/02/30
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — Iranian state media released photos of Supreme Leader Mojtaba Khamenei alongside the late President Raisi.
 15:06
 1405/02/30
 
@@ -2519,21 +2534,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[عکس]
-‏China has banned Nvidia’s Blackwell-based RTX 5090D V2 gaming chip. 
-‏
-‏The restriction came during Trump and Jensen Huang’s visit to China.
-‏
-‏The chip was built for gaming but was also being used by AI developers because it could access Nvidia’s Blackwell architecture.
-‏
-‏Source: FT
-13:12
-1405/02/30
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️پزشکیان: اگر مصرف آب، برق، گاز و بنزین مدیریت نشود، با مشکل مواجه می‌شویم
 ‏
@@ -3285,25 +3285,6 @@ src :@rnintel
 src :@rus_cosmos
 ‏رئیس ستاد مشترک ارتش آمریکا و فرمانده سنتکام، برد کوپر، در مقر سنتکام در فلوریدا فرود آمده‌اند. کوپر آخرین بار در ۲۶ فوریه، دو روز قبل از شروع جنگ، در این مقر فرود آمده بود.
 11:44
-1405/02/30
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️سپاه پاسدران روز چهارشنبه ۳۰ اردیبهشت‌ماه با انتشار بیانیه خطاب به آمریکا و اسرائیل هشدار داد که در صورت حمله دوباره، «این بار جنگ به فراتر از منطقه کشیده خواهد شد.»
-‏
-‏سپاه در این بیانیه مدعی تحمیل «شکست‌های بزرگ و راهبردی مکرر» به آمریکا و اسرائیل شده و نوشته است: «گرچه آنها با تمام توانایی‌های دو ارتش که پر هزینه‌ترین ارتش‌های جهان هستند به ما حمله کردند اما ما همه ظرفیت‌های انقلاب اسلامی را علیه آنان وارد عمل نکردیم، اما اینک اگر تجاوز به ایران تکرار شود جنگ منطقه‌ای که وعده داده شده بود، این‌بار به فراتر از منطقه کشیده خواهد شد و ضربات کوبنده ما در جاهایی که تصور آن را ندارید شما را به خاک سیاه خواهد نشاند.»
-‏
-‏علی خامنه‌ای، رهبر پیشین جمهوری اسلامی که در موج اول حملات آمریکا و اسرائیل در بیت رهبری کشته شد، چند هفته پیش از آغاز حملات گفته بود «آمریکا بداند که در صورت حمله، این‌بار جنگ منطقه‌ای خواهد بود.»
-‏
-‏سپاه در بیانیه خود بدون اشاره مستقیم به تهدیدهای رئیس جمهوری آمریکا نوشته است: «ما مرد جنگیم و قدرت ما را در میدان نبرد خواهید دید و نه در بیانیه‌های توخالی و صفحات مجازی.»
-‏
-‏دونالد ترامپ دو روز پیش گفته بود در آستانه صدور فرمان حمله همه‌جانبه به ایران، با درخواست رهبران عربستان سعودی، قطر و امارات متحده عربی، این حمله را برای چند روز به تعویق انداخته است.
-‏
-‏@indypersian
-11:42
 1405/02/30
 
 
@@ -4954,17 +4935,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🇺🇸- Polls have officially closed in Kentucky, with results for the highly anticipated Massie vs. Gallrein race, widely considered the most closely watched contest in the country, expected to begin coming in shortly; a complete result is expected within the next few hours.
-‏
-‏@GeoPWatch
-01:52
-1405/02/30
-
-
-
-
 src :@MilitiaNews
 ‏🇮🇷🇺🇸⚡️ پس از ۷ تلاش ناموفق، سنای آمریکا طرحی را تصویب کرد که مصوبه کنگره را برای ادامه حملات نظامی به ایران الزامی می‌کند!
 ‏
@@ -5222,22 +5192,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 00:12
-1405/02/30
-
-
-
-
-src :@P_raetorio
-‏✨ به فروشگاه Atlas Relay خوش آمدید!  🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی ✅ تضمین امنیت ارتباطات شما 📞 پشتیبانی حرفه‌ای ۲۴ ساعته تعرفه ها : یک گیگ ۲۷۵ دو گیگ ۵۲۵ سه گیگ ۷۷۵ چهار گیگ ۱۰۰۰ پنج گیگ ۱.۱۵۰ ده گیگ ۲.۲۰۰  ⚜️سرور ها هیچگونه محدودیتی برای تعداد…
-00:11
-1405/02/30
-
-
-
-
-src :@P_raetorio
-‏Praetorio pinned a photo
-00:09
 1405/02/30
 
 
