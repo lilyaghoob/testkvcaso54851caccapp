@@ -907,18 +907,6 @@ src :@thewarreporter
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇧🇴⚡️ — Secretary of State Marco Rubio:
-‏Let there be no mistake: the United States stands squarely in support of Bolivia's legitimate constitutional government.
-‏
-‏We will not allow criminals and drug traffickers to overthrow democratically elected leaders in our hemisphere.
-00:32
-1405/02/31
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️خبرگزاری تسنیم، وابسته به سپاه پاسداران، چهارشنبه‌شب ۳۰ اردیبهشت‌ماه اعلام کرد «نهاد مدیریت آبراه خلیج فارس» محدوده نظارتی جمهوری اسلامی در تنگه هرمز را تعیین کرده است.
@@ -942,15 +930,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 00:31
-1405/02/31
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇦❌🇷🇺 — Ukraine has launched a large amount of drones into western Russia and Crimea.
-00:29
 1405/02/31
 
 
