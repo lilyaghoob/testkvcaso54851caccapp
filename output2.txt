@@ -1,3 +1,33 @@
+src :@ClashReport
+[عکس]
+‏Türkiye slashed its US Treasury holdings from $16 billion to $1.8 billion in March.
+‏
+‏Source: Bloomberg
+16:31
+1405/02/31
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — President Trump shared an opinion from NYP titled "Here’s how to crush Tehran in three moves."
+16:29
+1405/02/31
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ وزارت خارجۀ اسرائیل: کلیۀ فعالان ناوگان جهانی صمود از اسرائیل فلسطین اخراج شدند
+‏
+‏@MilitarryWorld | Parsa
+16:28
+1405/02/31
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇹🇷🇵🇸 The Israeli Foreign Ministry announced that all foreign activists aboard the “PR flotilla” have been deported from Israel, adding that Israel “will not permit any breach of the lawful naval blockade on Gaza.”
@@ -910,25 +940,6 @@ src :@mwarmonitor
 ‏🛢اگر کسی با هیجان خبری منتشر کرد که «جزیره خارک امروز در حال بارگیری چند نفتکش با نفت خام است»، به او بگویید ترکر تانکر می‌گوید این دو نفتکش کوچک از نوع Handymax (تقریباً 300,000 تا 350,000 بشکه نفت خام برای هر کشتی ) در حال بارگیری هستند تا محموله را برای پالایش در سایر پالایشگاه‌های داخل ایران منتقل کنند، ممنون.
 ‏
 ‏@mwarmonitor
-15:24
-1405/02/31
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇮🇷⚡️ — NEW: Iran has restarted parts of its drone production during the six-week ceasefire that began in early April, with U.S. intelligence assessments indicating Tehran is rebuilding military capabilities faster than initially expected, CNN reports.
-‏
-‏Iran is reconstituting missile sites, launchers, and weapons production infrastructure damaged by U.S.-Israeli strikes, while still retaining significant ballistic missile, drone, and air defense capabilities.
-‏
-‏One U.S. official told CNN that Iran could fully restore its drone attack capability within as little as six months, adding that “the Iranians have exceeded all timelines” previously estimated by the intelligence community. 
-‏
-‏Iran’s recovery has been aided by surviving elements of its defense industrial base as well as continued support and components from China and Russia, though some supply flows may have been affected by the ongoing U.S. blockade.
-‏
-‏U.S. intelligence estimates that roughly half of Iran’s drone inventory remains intact, along with a large share of its coastal defense cruise missiles, suggesting the war significantly degraded — but did not destroy — Iran’s military capabilities.
-‏
-‏Conclusively, the U.S. and Israel have not inflicted as much damage as the two countries had hoped.
 15:24
 1405/02/31
 
@@ -2893,23 +2904,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-[عکس]
-‏Two RAF F-35B jets have been stranded at Lajes Airport in the Azores for two months after mechanical faults on their maiden flight from Lockheed Martin's factory in Texas. 
-‏
-‏The £88m jets remain Lockheed Martin's property until repaired. 
-‏
-‏It's the latest in a string of F-35 reliability problems for the RAF.
-‏
-‏Another jet was stuck in India for a month last year, one crashed into the Mediterranean in 2021, and a 2025 audit found the fleet could only perform a third of required missions.
-‏
-‏Source: The Telegraph
-12:19
-1405/02/31
-
-
-
-
 src :@mamlekate
 ‏📝 ادعای نیویورک‌تایمز: محمود احمدی‌نژاد بخشی از طرح تغییر رژیم ایران بود
 ‏
@@ -3622,16 +3616,6 @@ src :@MilitarryWorld
 
 src :@jangaavaran1390
 ‏ترامپ دیشب اعلام کرد که با لای چینگ-ده، رئیس جمهور تایوان، صحبت خواهد کرد - اقدامی بی‌سابقه که می‌تواند بر روابط با چین تأثیر بگذارد. از سال ۱۹۷۹ تاکنون هیچ رئیس جمهور آمریکایی با رئیس جمهور تایوان صحبت نکرده است. اعلام عمومی ترامپ پس از آن صورت می‌گیرد که او چند روز پیش سفر رسمی خود به چین را به پایان رساند.
-10:23
-1405/02/31
-
-
-
-
-src :@MilitarryWorld
-‏⭕️رسانه های پاکستان: وزیر کشور پاکستان نقش فعالی را در این برهه برای اطمینان از تبادل دقیق و به موقع پیام میان تهران و واشنگتن ایفا می کند
-‏
-‏@MilitarryWorld | Parsa
 10:23
 1405/02/31
 
@@ -5866,14 +5850,4 @@ src :@Americana_ir
 [عکس]
 ‏🔴 کیشا لنس باتمز در انتخابات مقدماتی حزب دموکرات برای فرمانداری جورجیا پیروز شد. 🆔 @Americana_ir
 16:51
-1405/02/30
-
-
-
-
-src :@thewarreporter
-‏🛳️🇮🇷 — 5 giant oil tankers have passed through the Strait of Hormuz after coordinating with the IRGC.
-‏
-‏— Iranian TV | @TheWarReporter
-16:31
 1405/02/30
