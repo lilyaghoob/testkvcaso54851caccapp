@@ -2658,18 +2658,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-‏Iran’s Supreme Leader, Mojtaba Khamenei, has ordered that Iran’s highly enriched uranium remain inside the country.
-‏
-‏Before the war, Iran had signaled it might export part of its 60%-enriched uranium stockpile, but that position changed after repeated U.S. military threats.
-‏
-‏Source: Reuters
-15:54
-1405/02/31
-
-
-
-
 src :@jangaavaran1390
 ‏طبق نظرسنجی جدید نیویورک تایمز، تقریباً 75 درصد از رأی‌دهندگان دموکرات در ایالات متحده با کمک نظامی ایالات متحده به اسرائیل مخالف هستند، در حالی که این رقم 3 سال پیش 45 درصد بود. 95 درصد از دموکرات‌ها با جنگ با ایران مخالفند و 60 درصد گفتند که بیشتر با فلسطینی‌ها احساس همدردی می‌کنند تا با اسرائیلی‌ها.
 15:54
@@ -3102,19 +3090,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 15:08
-1405/02/31
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️دقایقی پس از آنکه خبرگزاری رویترز به نقل از مقام‌های جمهوری اسلامی گزارش کرد که مجتبی خامنه‌ای دستور داده است تا اورانیوم به‌شدت غنی‌شده از ایران خارج نشود، بهای نفت در بازارهای جهانی نزدیک به دو دلار افزایش یافت.
-‏
-‏قیمت هر بشکه نفت خام برنت دریای شمال بعدازظهر پنجشنبه ۳۱ اردیبهشت‌ماه در بازارهای اروپایی از ۱۰۵ دلار به بیش از ۱۰۷ دلار افزایش یافت.
-‏
-‏@indypersian
-15:04
 1405/02/31
 
 
