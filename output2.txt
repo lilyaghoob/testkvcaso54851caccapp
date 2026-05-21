@@ -1,3 +1,19 @@
+src :@GeoPWatch
+‏🇮🇷- Unconfirmed reports indicate that an explosion was heard near Qeshm Island, southern Iran, around 10 minutes ago.
+01:46
+1405/03/01
+
+
+
+
+src :@warmonitors
+[عکس]
+01:42
+1405/03/01
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏ایسنا گزارش داد تبادل پیام و متن بین جمهوری اسلامی و آمریکا با میانجی‌گری طرف پاکستانی همچنان ادامه دارد و به گفته منابع پاکستانی، سفر عاصم منیر، فرمانده ارتش پاکستان، به ایران در صورت نهایی شدن چارچوب مورد نظر دو طرف انجام خواهد شد.
@@ -1763,15 +1779,6 @@ src :@Exciton_missile_program
 src :@naya_foriraq
 ‏🇮🇷عضو لجنة الأمن القومي في البرلمان الإيراني "إسماعيل كوثري": إذا استخدمت الإمارات العربية المتحدة المواقع التي وفرتها الولايات المتحدة ضدنا، فسوف نطلق عليها صواريخنا بكل تأكيد.
 22:38
-1405/02/31
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷🇵🇰- According to a senior source cited by Al-Arabiya, Pakistani Army Chief Asim Munir will not be traveling to Iran tonight, despite having been scheduled to do so.
-22:37
 1405/02/31
 
 
