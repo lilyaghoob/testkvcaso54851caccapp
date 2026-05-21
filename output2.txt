@@ -1,3 +1,16 @@
+src :@tglobaleye
+[عکس]
+‏🔴🇨🇳 China's 6th-generation fighter jet is speculated to feature three engines—two lower and one upper air intake.
+‏
+‏🔸 According to Chinese sources, the WS-10C turbo engines are expected to power the jet.
+‏🔸 It is also rumored to serve as a primary control hub for drones.
+‏🔸 While its size is comparable to the J-20, the absence of a tail could pose a disadvantage in terms of maneuverability.
+09:50
+1405/02/31
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏ایرباس اعلام کرد اولین فروند جنگنده یوروفایتر از سری جدید Tranche 4 را به نیرو هوایی آلمان تحویل داده است. 
@@ -1420,17 +1433,6 @@ src :@IranintlTV
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇦🇺🇮🇱 Australia condemns Israel's "degrading" of Gaza flotilla activists.
-‏
-‏@BRICSNews
-03:30
-1405/02/31
-
-
-
-
 src :@rnintel
 ‏🇺🇸⚡️- “When the Justice Department neared the mid-April deadline for responding to Mr. Trump’s suit [against the I.R.S.], Mr. Trump’s personal lawyers — rather than the government — asked the judge to extend the deadline. In that filing, Mr. Trump’s lawyers…
 03:26
@@ -1442,17 +1444,6 @@ src :@rnintel
 src :@rnintel
 ‏🇺🇸⚡️- Trump has withdrawn his $10 billion lawsuit against the IRS, seeking to settle the case.   The settlement could include a $1.7 billion taxpayer fund to compensate Trump’s allies for persecution by the Biden administration, per NYT.
 03:20
-1405/02/31
-
-
-
-
-src :@bricsnews
-[عکس]
-‏🇮🇹🇮🇱 Italian Prime Minister Meloni summons Israeli ambassador and demands immediate apology from Security Minister Ben Gvir for treatment of detained Gaza flotilla activists.
-‏
-‏@BRICSNews
-03:03
 1405/02/31
 
 
@@ -1531,17 +1522,6 @@ src :@Indypersian
 ‏چهارشنبه ۳۰ اردیبهشت‌ماه نیز وزارت دادگستری آمریکا علیه رائول کاسترو، رئیس‌جمهوری پیشین کوبا، به اتهام قتل و توطئه برای کشتن شهروندان آمریکایی اعلام جرم کرد.
 ‏ش
 ‏@indypersian
-02:46
-1405/02/31
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇨🇳🇰🇵 Chinese President Xi Jinping expected to visit North Korea as early as next week.
-‏
-‏@BRICSNews
 02:46
 1405/02/31
 
@@ -1674,17 +1654,6 @@ src :@GeoPWatch
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇨🇺 US President Trump says "we're freeing Cuba."
-‏
-‏@BRICSNews
-02:01
-1405/02/31
-
-
-
-
 src :@mwarmonitor
 ‏🔴شبکه CBS گزارش داد: کار بر روی تدوین گزینه‌های نظامی علیه کوبا برای رئیس‌جمهور ترامپ آغاز شده و جامعه اطلاعاتی آمریکا در حال بررسی این است که کوبا چگونه ممکن است به یک اقدام نظامی آمریکا واکنش نشان دهد.
 ‏
@@ -1701,17 +1670,6 @@ src :@World_Newsly
 ‏✍🏻 Cyrus
 ‏▪️@World_Newsly
 01:57
-1405/02/31
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸 US Air Force releases image of bomber refueling midair from a KC-135 Stratotanker over the Middle East.
-‏
-‏@BRICSNews
-01:56
 1405/02/31
 
 
@@ -2715,16 +2673,6 @@ src :@MilitarryWorld
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 President Trump tells Netanyahu mediators are working on a letter for the US and Iran to formally end the war.
-‏
-‏@BRICSNews
-23:18
-1405/02/30
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏سوالف الگهوة   من منزل العامري ، طرح مبادرة اليوم تتضمن صلح وبناء الجدار المتصدع داخل الإطار التنسيقي في العراق..
@@ -3150,17 +3098,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 22:32
-1405/02/30
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇨🇺 US deploys aircraft carrier to the Caribbean as tensions with Cuba rise.
-‏
-‏@BRICSNews
-22:31
 1405/02/30
 
 
@@ -4032,17 +3969,6 @@ src :@didarnews1
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇷🇺🇨🇳 Russian President Putin and China's Xi Jinping implicitly say they condemn President Trump's "law of the jungle" approach to foreign policy.
-‏
-‏@BRICSNews
-20:03
-1405/02/30
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهور آمریکا، گفت نیروی دریایی و نیروی هوایی ایران «از بین رفته‌اند» و تنها سوال باقی‌مانده این است که آیا آمریکا برای «تمام کردن کار» باز خواهد گشت یا ایران توافق پایان جنگ را امضا خواهد کرد.
@@ -4568,17 +4494,6 @@ src :@VahidOnline
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇮🇱 President Trump says Israeli Prime Minister Netanyahu "will do whatever I want him to do."
-‏
-‏@BRICSNews
-17:50
-1405/02/30
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏سپاه پاسداران با انتشار بیانیه‌ای تهدید کرده که در صورت آغاز دوباره جنگ آمریکا و اسرائیل علیه ایران، جنگ «به فراتر از منطقه کشیده خواهد شد.»
@@ -4728,16 +4643,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 17:14
-1405/02/30
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷 Iran's IRGC warns any new attack on Iran would expand the war beyond the Middle East.
-‏
-‏@BRICSNews
-17:10
 1405/02/30
 
 
@@ -5397,17 +5302,6 @@ src :@selena_updates
 
 
 
-src :@tglobaleye
-[عکس]
-‏🌲 - 🇱🇧🇮🇷🇱🇧 According to a Lebanese financial source, Hezbollah has begun restructuring parts of its overseas financial networks after Israeli strikes hit Al-Qard Al-Hasan, Lebanese monetary policy disrupted liquidity channels, and Iran-linked funding came under pressure.
-‏
-‏Hezbollah is turning more to informal money brokers, cash, gold, and diaspora business networks especially in West Africa and Latin America to keep funds flowing into Lebanon.
-14:46
-1405/02/30
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏ ‏
@@ -5523,17 +5417,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/02/30/402280/
 14:24
-1405/02/30
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏The UK has issued a sanctions waiver on diesel and jet fuel that are refined using Russian origin crude, as long as the products were refined in a third party country (The product can be refined anywhere except Russia, as long as it doesn't violate other sanctions, for example Iran), as well as a waiver on sea-borne Russian liquid natural gas.
-‏
-‏The waiver on diesel and jet fuel has no expiration date. The Russian LNG waiver expires on January 1st, 2027.
-14:18
 1405/02/30
 
 
