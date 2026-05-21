@@ -4268,17 +4268,6 @@ src :@Americana_ir
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇷 Iran's IRGC says 26 ships crossed the Strait of Hormuz in the past 24 hours.
-‏
-‏@BRICSNews
-16:47
-1405/02/30
-
-
-
-
 src :@thewarreporter
 ‏🛳️🇮🇷 — 5 giant oil tankers have passed through the Strait of Hormuz after coordinating with the IRGC.
 ‏
