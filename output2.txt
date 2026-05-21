@@ -1,3 +1,17 @@
+src :@didarnews1
+[عکس]
+‏🔴 ترامپ اعلام کرد که ایالات متحده ۵۰۰۰ سرباز به لهستان اعزام می‌کند.
+‏
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+00:46
+1405/03/01
+
+
+
+
 src :@warmonitors
 ‏⚡️ Gunmen open fire in two separate attacks on the Honduras coast, killing at least 16 people, police say
 00:37
@@ -1477,15 +1491,6 @@ src :@didarnews1
 
 
 
-src :@tabzlive
-[عکس]
-‏🇹🇷⚡️ — Ankara’s Court of Appeals ruled that Turkey's main opposition, the Republican People's Party (CHP), acted unlawfully in removing longtime leader Kemal Kılıçdaroğlu during its 2023 party congress, ordering his immediate reinstatement and the removal of current party leader Özgür Özel.
-22:48
-1405/02/31
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏روز پنجشنبه ۳۱اردیبهشت۱۴۰۵ پارلمان اروپا قطعنامه‌ای درباره وضعیت حقوق بشر در ایران، افغانستان و اندونزی تصویب کرد.
@@ -1715,24 +1720,6 @@ src :@Mena_Live
 
 
 
-src :@GeoPWatch
-‏— 🇺🇸/🇮🇷 Iranian source close to the negotiating team:
-‏
-‏1. The exchange of texts has not yet reached a final draft concept.
-‏
-‏2. The U.S. insistence on nuclear negotiations has dragged the talks to a deadlock.
-‏
-‏3. Meanwhile, U.S. threats have angered Iran, and Tehran shows little desire to continue negotiations.
-‏
-‏4. The possibility of conflict starting exists at any moment.
-‏
-‏@Middle_East_Spectator
-22:23
-1405/02/31
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇫🇷🇧🇷 The Guardian: A Paris appeals court has found Air France and Airbus guilty of corporate manslaughter over the 2009 crash of Flight AF447, which killed all 228 passengers and crew onboard.
@@ -1876,16 +1863,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@GeoPWatch
-‏🇺🇸🇧🇷 — Brazilian Senator Flávio Bolsonaro, son of ex-president Jair Bolsonaro and currently running for President under Jair's political party, has been invited to the White House to meet President Trump to discuss American-Brazilian partnership should he win Brazil's presidential election on 4 October, 2026.
-‏
-‏Topics to be discussed include removing American tariffs on Brazil, American partnerships in confronting Brazilian organized crime, and allowing further American procurement of Brazilian natural resources.
-22:16
-1405/02/31
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏احتمالا به این معنی است که ج.ا اینبار سعی خواهد کرد پایگاه‌هایی را در اروپا و آفریقا مورد هدف قرار دهد. کشورهایی مثل یونان، رومانی یا حتی آلمان (!)... پایگاه‌های آمریکا در آفریقا و در صورت امکان دیگو گارسیا. ج.ا با سبک سازی سرجنگی موشکهای برد متوسط موجود یک موشک میانبرد تهیه میکند. موشک جدید؟
@@ -1983,18 +1960,6 @@ src :@P_raetorio
 ‏
 ‏@Minas_Tirith2024
 22:09
-1405/02/31
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸🇮🇱🇮🇷 — Washington Post, citing a Department of War assessment they viewed, reports that the U.S. used far more strategic interceptors to defend Israel than Israel themselves did to defend their own country during the Iran War.
-‏
-‏U.S. armed forces fired more than 200 THAAD interceptors and 100 SM-3/SM-6 interceptors in service with the ship-based Aegis Missile Defense System, totaling above 300, to defend Israel.
-‏
-‏IDF fired 90 David's Sling interceptors and less than 100 Arrow-2/Arrow-3 interceptors, totaling less than 190.
-22:08
 1405/02/31
 
 
@@ -2393,17 +2358,6 @@ src :@World_Newsly
 ‏✍🏻 Cyrus
 ‏▪️@World_Newsly
 21:40
-1405/02/31
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇬🇧🇺🇸- An F-35B Lightning II flight test aircraft conducted its first developmental test flight carrying four "SPEAR 3" missiles at the Pax River F-35 Integrated Test Force, Naval Air Station Patuxent River, Maryland, on January 20th. 
-‏
-‏➡️ The test marks a significant milestone in the integration of the UK's next-generation precision strike weapon onto the aircraft.
-21:39
 1405/02/31
 
 
@@ -5598,20 +5552,6 @@ src :@WAR_ROOM_NEWS
 src :@WAR_ROOM_NEWS
 [عکس]
 11:25
-1405/02/31
-
-
-
-
-src :@didarnews1
-‏🔴خبرگزاری CNN:
-‏
-‏🔹ایران با سرعتی فراتر از پیش‌بینی‌ها در حال بازسازی پایگاه صنعتی–نظامی خود است و تولید پهپادها را نیز از سر گرفته
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-11:22
 1405/02/31
 
 
