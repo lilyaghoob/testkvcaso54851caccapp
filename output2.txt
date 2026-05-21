@@ -1,5 +1,55 @@
 src :@tabzlive
 [عکس]
+‏Net Russian advances every month since January 2025, according to my map.
+‏
+‏These figures are calculated by subtracting Ukrainian advances from Russian advances. They do not include territorial changes in Kursk or Belgorod Oblasts.
+‏
+‏Keep in mind, recent evolutions of tactics on the frontline has resulted in massively increased grey-zones and more difficult conditions for consolidation. This, as well as recent Ukrainian counterattacks, has made increases in Russia's consolidation zone smaller. Grey-zone changes are not shown in this graph.  
+‏
+‏Additionally, as I've mentioned countless times, advances in a war of attrition are NOT linear. They come as a biproduct of successful Russian attrition. Recent Ukrainian adaptations in response to Russia's successful attrition has limited the IMMEDIATE effects of Russian attrition. This has mainly been achieved by Ukraine via high usage of FPV drones, temporarily alleviating the effects of significant Ukrainian manpower shortages (which are the result of successful Russian attrition).
+02:45
+1405/03/01
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇱 US lost half of its interceptor missiles defending Israel from Iran, The Telegraph reports.
+‏
+‏@BRICSNews
+02:43
+1405/03/01
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴  در جریان آزمایش‌های تیراندازی واقعی در ابوظبی، یک تانک اصلی ارتش فرانسه به نام Leclerc که متعلق به هنگ ۵ سواره‌نظام زرهی است، توانسته یک پهپاد را با شلیک گلوله ۱۲۰ میلی‌متری ساقط کند.
+‏این گلوله از نوع OEFC F1 (نوعی مهمات ترکش‌پاش/کانستری) بوده است.
+‏این موفقیت در ۲۰ مه توسط مقام نظامی فرانسه در استراسبورگ و فرمانده تیپ دوم زرهی تأیید شده است.
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+02:42
+1405/03/01
+
+
+
+
+src :@World_Newsly
+‏🔴 فاکس نیوز: جمهوری‌خواهان مجلس نمایندگان به دلیل نبود حد نصاب، رای‌گیری درباره اختیارات جنگ با ایران را لغو کردند
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+02:42
+1405/03/01
+
+
+
+
+src :@tabzlive
+[عکس]
 ‏🇺🇸🇮🇷⚡️ — President Trump increasingly relied on special envoys rather than traditional diplomatic channels, with Jared Kushner and Steve Witkoff taking leading roles in negotiations related to Iran, pushing out Iranian nuclear experts, Reuters reports.
 ‏
 ‏Kushner and Witkoff met Iranian representatives in Geneva in late February without U.S. nuclear specialists present, even after the administration had dismissed several Iran experts, including diplomat Nate Swanson, who helped implement the 2015 Iran nuclear agreement under former President Barack Obama.
@@ -1014,17 +1064,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Senior Iranian source told Reuters:
-‏No deal has been reached yet, but the gaps have narrowed.
-‏
-‏Iran’s uranium enrichment program and its control over the Strait of Hormuz remain key sticking points.
-00:01
-1405/03/01
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏⭕️ بر اساس گزارش اکسیوس، تنش اصلی بر سر صلح میان آمریکا و ایران، مخالفت نتانیاهو با هرگونه توافق است. او خواستار ادامه جنگ است، در حالی که ترامپ از مذاکره و آتش‌بس ۳۰ روزه حمایت می‌کند.
@@ -1276,17 +1315,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 src :@World_Newsly
-‏🔴  پزشکیان: سر خم نخواهیم کرد، وزرا و کارشناسان ما شبانه روز سرکارند، بدون حتی یک روز تعطیلی
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-23:49
-1405/02/31
-
-
-
-
-src :@World_Newsly
 ‏🔴 رئیس ارتش پاکستان، عاصم منیر، سفر خود به تهران را لغو کرده است. انتظار می‌رفت که او پیام‌هایی بین ایالات متحده و ایران رد و بدل کند.
 ‏
 ‏✍🏻 King
@@ -1316,18 +1344,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:48
-1405/02/31
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 سخنگوی وزارت خارجه روسیه: مسکو آماده حمایت فنی و دیپلماتیک از هرگونه توافق احتمالی ایران و آمریکا بر سر اورانیوم غنی‌شده است.
-‏
-‏✍🏻 Master
-‏▪️@World_Newsly
-23:47
 1405/02/31
 
 
@@ -1634,15 +1650,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:15
-1405/02/31
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 الحدث: فرمانده ارتش پاکستان امشب به تهران سفر نخواهد کرد. پیشتر احتمال سفر او برای نهایی کردن پیش‌نویس توافق ایران و آمریکا مطرح شده بود
-23:14
 1405/02/31
 
 
@@ -6199,17 +6206,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:30
-1405/02/31
-
-
-
-
-src :@bricsnews
-[عکس]
-‏🇮🇹🇮🇱 Italian Prime Minister Meloni summons Israeli ambassador and demands immediate apology from Security Minister Ben Gvir for treatment of detained Gaza flotilla activists.
-‏
-‏@BRICSNews
-03:03
 1405/02/31
 
 
