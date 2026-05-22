@@ -1177,17 +1177,6 @@ src :@BellumActaNews
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏Based on the successful Election of the now President of Poland, Karol Nawrocki, who I was proud to Endorse, and our relationship with him, I am pleased to announce that the United States will be sending an additional 5,000 Troops to Poland.
-00:09
-1405/03/01
-
-
-
-
 src :@jangaavaran1390
 ‏اولین خریدتون ازشون گیگی 😂😂1️⃣
 ‏
@@ -1451,18 +1440,6 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 23:53
-1405/02/31
-
-
-
-
-src :@ClashReport
-‏Senior Iranian source to Reuters:
-‏
-‏No deal has been reached yet, but the gaps have narrowed.
-‏
-‏Iran’s uranium enrichment program and its control over the Strait of Hormuz remain key sticking points.
-23:52
 1405/02/31
 
 
@@ -2831,21 +2808,6 @@ src :@mwarmonitor
 
 
 
-src :@ClashReport
-[عکس]
-‏BIG: The U.S. fired far more advanced missile interceptors than Israel while defending Israel during recent fighting with Iran.
-‏
-‏American forces launched over 200 THAAD interceptors — about half the U.S. stockpile — plus more than 100 naval missiles, while Israel used fewer than 200 of its own high-end interceptors combined.
-‏
-‏The imbalance highlights how heavily Washington carried Israel’s defense burden.
-‏
-‏Source: WaPo
-21:41
-1405/02/31
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏نیروی هوایی آمریکا اعلام کرد برنامه موشک کروز هسته‌ای جدید AGM-181 LRSO طبق برنامه و بدون افزایش جدی هزینه در حال پیشرفت است و اکنون وارد مرحله حساس تولید می‌شود.
@@ -3594,16 +3556,6 @@ src :@rnintel
 ‏
 ‏The French state aid to gas for fishing and farming industries has been prolonged by three months. France has unlocked 710M€ of additional public aid to lower the effects of the gas crisis.
 19:59
-1405/02/31
-
-
-
-
-src :@ClashReport
-‏Iran and Oman are discussing a permanent Strait of Hormuz transit toll system, with Iran proposing large fees on commercial ships and exemptions for allies like Russia and China.
-‏
-‏Source: Bloomberg
-19:58
 1405/02/31
 
 
@@ -4411,17 +4363,6 @@ src :@VahidOnline
 
 
 
-src :@ClashReport
-[عکس]
-‏42 aircraft. $2.6 billion in equipment. One month of war. 
-‏
-‏A new Congressional Research Service report tallies the full cost of Operation Epic Fury, America’s air campaign against Iran.
-17:42
-1405/02/31
-
-
-
-
 src :@Mena_Live
 ‏EU–Syria Trade Jumps 51% in 2025
 ‏
@@ -4466,21 +4407,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 17:23
-1405/02/31
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Saudi Arabia has paused new consultancy contracts and delayed some payments as it grapples with rising deficits and fallout from the Iran war. 
-‏
-‏Officials are tightening spending under Vision 2030, with ministries told to avoid new awards without special approval.
-‏
-‏Saudi Arabia has already been scaling back or delaying costly megaprojects such as Neom amid concerns over overspending.
-‏
-‏Source: FT
-17:17
 1405/02/31
 
 
