@@ -161,17 +161,6 @@ src :@Mena_Live
 
 
 
-src :@intelslava
-[عکس]
-‏The first Gaza Flotilla activists have arrived in Turkey following their detention in Israel. Most of the activists were severely beaten by Israeli police.
-‏
-‏At this point, repeatedly attempting these missions seems pointless when nothing is achieved, especially knowing that their own governments are unwilling to impose sanctions or take meaningful action.
-04:01
-1405/03/01
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️مجلس نمایندگان روز پنج‌شنبه رای‌گیری درباره یک قطعنامه مربوط به اختیارات جنگ را که با رهبری دموکرات‌ها و با هدف محدود کردن اقدام نظامی دونالد ترامپ علیه رژیم ایران ارائه شده بود، به تعویق انداخت.
@@ -902,15 +891,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 01:15
-1405/03/01
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇵🇱⚡️ — NEW: President Trump via Truth Social: Based on the successful Election of the now President of Poland, Karol Nawrocki, who I was proud to Endorse, and our relationship with him, I am pleased to announce that the United States will be sending an additional…
-01:13
 1405/03/01
 
 
@@ -5565,17 +5545,6 @@ src :@selena_updates
 ‏The invitation was conveyed during G7 financial meetings in Paris attended by Syrian Finance Minister Yisr Barnieh, marking Syria’s first involvement in a G7 summit since 1975. 
 ‏
 ‏Discussions are expected to center on Syria’s economic recovery, investment opportunities and its potential role in regional and global supply chains as ongoing instability linked to Iran and the Strait of Hormuz continues to disrupt trade and energy markets.
-13:24
-1405/02/31
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇱🇻🇺🇦At least one drone has again entered Latvia, according to the country's army.
-‏
-‏@Intelslava
 13:24
 1405/02/31
 
