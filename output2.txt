@@ -669,14 +669,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted an ambulance center in Hanouiyeh, southern Lebanon, killing four people, Al Jazeera reports.
-02:01
-1405/03/01
-
-
-
-
 src :@P_raetorio
 ‏نکاتی از کتاب خاطرات «قدرت و اصول» اثر زبیگنیف برژینسکی،مشاور امنیت ملی دولت کارتر(بخش 1)  @P_raetorio
 02:01
