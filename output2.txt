@@ -5839,14 +5839,6 @@ src :@thewarreporter
 
 
 
-src :@BellumActaNews
-‏🇮🇷❌🇺🇸 — Iran 'will not discuss' nuclear programme, Foreign Ministry spokesman says to Al-Jazeera
-18:16
-1405/03/02
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 آمریکا در انتظار رکود اقتصادی ناشی از شوک نفتی
@@ -6769,14 +6761,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:13
-1405/03/02
-
-
-
-
-src :@Mena_Live
-‏‼️🇮🇷🇦🇪 GPS Jamming in the UAE.
-‏
-‏@Mena_Live
-03:08
 1405/03/02
