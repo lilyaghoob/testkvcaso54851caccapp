@@ -1,3 +1,50 @@
+src :@ClashReport
+‏BREAKING: Shots were fired near the White House.
+02:30
+1405/03/03
+
+
+
+
+src :@mwarmonitor
+‏🔹یک مقام سرویس مخفی به CNN گفته است که این نهاد در حال بررسی گزارش‌هایی درباره تیراندازی در تقاطع خیابان ۱۷ و خیابان پنسیلوانیا در شمال‌غرب واشینگتن است؛ محلی که درست در خارج از مجموعه کاخ سفید قرار دارد.  @mwarmonitor
+02:29
+1405/03/03
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸⚡️ — The Secret Service shot an armed suspect after gunfire erupted on the west side of the White House, Fox News reports. 
+‏
+‏➡️ A bystander was shot during the incident, and President Trump is confirmed safe.
+02:28
+1405/03/03
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — FBI Director Kash Patel: FBI is on the scene and supporting Secret Service responding to shots fired near White House grounds — we will update the public as we’re able
+02:28
+1405/03/03
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 فاکس نیوز گزارش داد که یک رهگذر بی‌گناه در جریان تبادل آتش بین یک مرد مسلح و نیروهای امنیتی در نزدیکی کاخ سفید مورد اصابت گلوله قرار گرفته است. وضعیت او نامشخص است.
+‏ 
+‏🆔 @Americana_ir
+02:28
+1405/03/03
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸- D.C. Fire and EMS personnel are reportedly responding to two patients on the northwest corner of the White House.
 02:26
@@ -20,6 +67,7 @@ src :@GeoPWatch
 
 
 src :@wfwitness
+[عکس]
 ‏⚡️🇺🇸 Scenes from outside the White House.   @wfwitness
 02:24
 1405/03/03
@@ -973,14 +1021,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 01:19
-1405/03/03
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — NEW: The draft proposal being finalized between Iran and the U.S. includes an end to fighting on all fronts, including in Lebanon, the release of several billion dollars in blocked Iranian funds, the lifting of the U.S. naval blockade, and the reopening…
-01:18
 1405/03/03
 
 
@@ -3015,22 +3055,6 @@ src :@Mena_Live
 
 
 
-src :@mwarmonitor
-‏🚨 یک منبع منطقه‌ای گفت تمام رهبران عرب و مسلمان که روز شنبه در تماس با ترامپ بودند، از او خواستند توافق را پیش ببرد تا جنگ پایان یابد و تنش در منطقه کاهش پیدا کند.
-‏
-‏🚨 این منبع گفت: «پیام همه این بود که لطفاً جنگ را به خاطر منافع کل منطقه متوقف کنید.»
-‏
-‏🚨 به گفته این منبع منطقه‌ای، مذاکرات به‌خوبی در حال پیشرفت است و میانجی‌ها امیدوارند فردا چارچوب یک‌صفحه‌ای توافق را نهایی کرده و آن را اعلام کنند.
-‏
-‏🚨 سپس میانجی‌ها قصد دارند چند روز بعد مذاکرات برای یک توافق تفصیلی و جزئی را آغاز کنند، این منبع منطقه‌ای گفت. باراک راوید 
-‏
-‏@mwarmonitor
-23:40
-1405/03/02
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴 فاکس نیوز: «شما نوک نیزه خواهید بود.»
@@ -3307,16 +3331,6 @@ src :@cataphract1
 src :@rnintel
 ‏🇺🇸🇮🇷🇮🇱⚡- President Trump is expected to call Israeli Prime Minister Netanyahu today to discuss the memorandum of understanding with Iran.
 23:08
-1405/03/02
-
-
-
-
-src :@rnintel
-‏🇬🇧⚡️- First special election poll in Makerfield shows Labour's Andy Burnham with 43% of the vote followed by Reform at 40%. Restore UK is at 7%.
-‏
-‏The Conservative party only registers 2% of the vote.
-23:07
 1405/03/02
 
 
@@ -4569,16 +4583,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 21:31
-1405/03/02
-
-
-
-
-src :@ClashReport
-‏Trump to Israel’s Channel 12: 
-‏
-‏I will not make a deal if it is not good for Israel.
-21:30
 1405/03/02
 
 
