@@ -1,3 +1,12 @@
+src :@defence_news
+[عکس]
+‏فیلمی منتشر شده که گفته شده پهپاد آکینجی ارتش سودان به وسیله موشک هوا به هوا یک پهپاد را سرنگون می‌کند. منابع خبری ادعا کردند پهپاد متعلق به امارات بوده و از اتیوپی برخاسته بوده در سودان به پشتیبانی نیروهای شورشی واکنش سریع سودان عملیات انجام می‌داد.  @RedLionCorps
+13:22
+1405/03/02
+
+
+
+
 src :@ClashReport
 ‏EXCLUSIVE: The drone shot down by a Sudanese Bayraktar Akıncı belonged to the UAE, Sudanese sources tell Clash Report.  The aircraft took off from Ethiopia before striking targets inside Sudan.  The UAE continues to support RSF terror group.
 13:16
@@ -5031,17 +5040,6 @@ src :@defence_news
 
 
 
-src :@defence_news
-[عکس]
-‏فرمانده کل ارتش پاکستان ، ژنرال عاصم منیر وارد تهران شد و توسط وزیر کشور ایران مورد استقبال قرار گرفت.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-20:48
-1405/03/01
-
-
-
-
 src :@Shin_Persian
 ‏Iran International English ✓ @IranIntl_En
 ‏Fri, 22 May 2026 15:37:34 UTC
@@ -5407,17 +5405,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 19:45
-1405/03/01
-
-
-
-
-src :@defence_news
-[عکس]
-‏تصویری از سامانه ارتباط الکترونیک آوزتوبازا-ام که جایی در خاک ایران هدف قرار گرفته و منهدم شده است.
-‏
-‏@Minas_Tirith2024
-19:41
 1405/03/01
 
 
@@ -5850,14 +5837,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 18:22
-1405/03/01
-
-
-
-
-src :@defence_news
-‏تصویری دردناک از اصابت سنگین به ناو دیلمان در حملات اسراییل به پایگاه دریایی شمال کشور   @Navy_Iranain | #A_A
-18:21
 1405/03/01
 
 
