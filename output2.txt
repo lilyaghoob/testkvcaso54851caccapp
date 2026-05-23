@@ -3,6 +3,8 @@ src :@GeoPWatch
 ‏🇺🇸🇺🇸- One person was killed and over 30 people were injured, mostly New York City Fire Department personnel, in an explosion and fire at a Staten Island shipyard today. The fire broke out around 3:30pm est in the basement of a metal structure at a shipping dock on Richmond Terrace. 
 ‏
 ‏➡️ An explosion occurred shortly after responders arrived, resulting in one civilian death. A fire marshal sustained serious head injuries and is intubated, while a firefighter is in serious but stable condition. Over 200 responders were on scene, and the fire was controlled by 7:20pm est. The cause remains unknown.
+‏
+‏@GeoPWatch
 04:47
 1405/03/02
 
@@ -680,16 +682,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇦🇪⚡️- There is ongoing, unprecedented GPS jamming occurring in the United Arab Emirates.
-‏
-‏Multiple flights on FlightRadar24 are exhibiting irregular behavior, and almost no take-offs have been observed from any major Emirati airports.
-02:47
-1405/03/02
-
-
-
-
 src :@wfwitness
 ‏⚡️🇨🇳 Reuters: Four workers were killed and around 90 others remain trapped underground following a coal mine accident in Changzhi City, Shanxi Province in northern China.
 ‏
@@ -699,14 +691,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 02:46
-1405/03/02
-
-
-
-
-src :@rnintel
-‏🇸🇳⚡- Senegal's President Bassirou Diomaye Faye has sacked his Prime Minister, Ousmane Sonko. The move risks destabilizing the fragile west African nation.
-02:45
 1405/03/02
 
 
@@ -6326,22 +6310,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 13:08
-1405/03/01
-
-
-
-
-src :@intelslava
-‏The world watches America. 🌎🇺🇸
-‏
-‏From White House updates to global conflicts, economic shifts, and breaking headlines — @AmericaReport keeps you informed before everyone else.
-‏
-‏📰 Daily news
-‏⚡ Instant updates
-‏🎯 No fluff. Just important stories.
-‏
-‏Follow @AmericaReport
-12:42
 1405/03/01
 
 
