@@ -29,7 +29,6 @@ MilitiaNews
 tabzlive
 warmonitors
 ircfspace
-Military_Times_Blog
 Mena_Live
 OfficialRezaPahlavi
 guard_warriors
