@@ -1,3 +1,11 @@
+src :@DEJradio
+‏⭕️ خبرها از یک سلسله تیراندازی در اطراف کاخ سفید حکایت دارند. ویدئوی منتشر شده، سلینا وانگ، خبرنگار «ای‌بی‌سی نیوز»را در نزدیکی کاخ سفید در واشنگتن دی‌سی  نشان می‌دهد.  #کاخ_سفید  @DEJradio
+02:11
+1405/03/03
+
+
+
+
 src :@tabzlive
 ‏🇺🇸⚡️ — WATCH: Footage shows the moment shots were fired outside the White House.
 02:06
@@ -87,7 +95,7 @@ src :@P_raetorio
 ‏
 ‏فوروارد و کپی در میان کانال‌های عضو اتحادیه در زمینه نظامی رایج و متداول است؛ احترام بسیار زیادی برای دوستانمان در کانال‌های میلیتاری همسایه قائل هستیم.
 ‏
-‏برای جمع‌آوری و ترجمه اخبار زحمت زیادی توسط تیم‌های مرتبط اعم از پرایتوری کشیده می‌شود
+‏برای جمع‌آوری و ترجمه اخبار زحمت زیادی توسط تیم‌های مرتبط اعم از پرایتوری، کاتافراکت، تانکوگراد، خشاتریا، ساموئل، جنگاوران و ده‌ها کانال دوست دیگر کشیده می‌شود
 ‏
 ‏در صورت نیاز به اخبار حتما نام کانالی که از آن استفاده کردید را ذکر کنید تا مجبور به ریپورت نباشیم 
 ‏
@@ -2254,14 +2262,6 @@ src :@selena_updates
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — BREAKING: President Trump says an MoU with Iran has been largely negotiated and that the final details are being finalized and will be announced shortly.  I am in the Oval Office at the White House where we just had a very good call with President…
-00:09
-1405/03/03
-
-
-
-
 src :@cataphract1
 ‏#فوری 
 ‏⭕️ترامپ:
@@ -3602,24 +3602,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸🇮🇱 The 11th Nuclear Non‑Proliferation Treaty review conference has ended in New York without a final document, Iran’s deputy Foreign Minister Kazem Gharibabadi for legal and international affairs has said. 
-‏
-‏Gharibabadi accused the United States and Israel of attacking Iran’s peaceful nuclear facilities and criticised Western countries for trying to condemn Iran instead of the aggressors.
-‏
-‏“If the non‑proliferation regime is to survive, it must be built on equal security, equal sovereignty and equal accountability – not nuclear exceptionalism,” Gharibabadi stated. 
-‏
-‏
-‏He said Iran firmly prevented Western countries from achieving their political goals. The failure of the conference is the responsibility of those countries, he added.
-‏
-‏@wfwitness
-22:56
-1405/03/02
-
-
-
-
 src :@defence_news
 ‏هم جنگ ممکن است و هم صلح ! ما آرزو داریم آنچه بهترین است برای این سرزمین و مردمان آن رخ بدهد.
 ‏
@@ -3709,21 +3691,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:51
-1405/03/02
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇵🇰 Iranian Ambassador to Pakistan Reza Amiri Moghadam has said that the Pakistani Interior Minister Mohsin Raza Naqvi congratulated him on the achievements of the negotiations after returning from Tehran. 
-‏
-‏“With conservative optimism, we can hope that, if the other side is adequately committed, a positive stride is taking shape,” the ambassador stated.
-‏
-‏He expressed gratitude to the Pakistani government and army for their mediation efforts, adding that the result is due to Iran’s position based on dignity, the steadfastness of its armed forces and the resistance of the Iranian nation.
-‏
-‏@wfwitness
-22:50
 1405/03/02
 
 
@@ -3916,14 +3883,6 @@ src :@tglobaleye
 ‏
 ‏🇪🇺 Legion Europa | Group Chat
 22:37
-1405/03/02
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸📞🇸🇦- According to Axios, citing two sources of knowledge, Donald Trump will hold a conference call with Arab leaders at 8pm Jerusalem time (1pm est) to discuss the draft agreement with Iran and hear their views.
-22:36
 1405/03/02
 
 
@@ -4501,18 +4460,6 @@ src :@MilitiaNews
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ در واکنش به انتشار تصویری در حساب تروث‌سوشال ترامپ که در آن پرچم آمریکا روی سراسر ایران کشیده شده بود، کنسولگری جمهوری اسلامی در حیدرآباد هند، در نوشته‌ای طنزآمیز تصویر شلوارک کوتاهی که منقوش به پرجم آمریکا بود را منتشر کرد و نوشت: «تنها پرچم آمریکایی که داریم این است».
-‏
-‏گفته می‌شود که این شلوارک مربوط به بقایای لوازم خلبان آمریکایی است که در ایران سقوط کرده بود. در آن زمان، نیروهای نظامی جمهوری اسلامی، پس از کشف لاشه هواپیمای سقوط کرده، تصاویری از این لوازم را منتشر کرده بودند.
-‏@indypersian
-21:48
-1405/03/02
-
-
-
-
 src :@cataphract1
 ‏⚜به گزارش باراک راوید خبرنگار آکسیوس طبق گزارش‌ها، دولت ترامپ و ایران به توافقی برای پایان دادن به جنگ نزدیک شده‌اند و شکاف‌های باقی‌مانده بر سر نحوه‌ی نگارش چندین نکته متمرکز است.
 ‏
@@ -5068,15 +5015,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[عکس]
-‏IDF announces death of Staff Sergeant Noam Hamburger, 23, killed by Hezbollah.
-21:05
-1405/03/02
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏⚡️🇺🇸🇮🇷 سناتور آمریکایی لیندسی گراهام به آکسیوس گفت که برخی از رهبران منطقه‌ای از رئیس‌جمهور ترامپ خواسته‌اند تا به ایران حمله کند تا رژیم را تضعیف کرده و تهران را به پذیرش توافقی با شرایط بهتر وادار کند.
 ‏
@@ -5165,18 +5103,6 @@ src :@tglobaleye
 [عکس]
 ‏A video circulating on Hezbollah-linked TikTok accounts shows Amal-backed Risala Civil Defense at a site struck by Israel in southern Lebanon, with a rocket launcher visible inside a civilian structure.
 20:55
-1405/03/02
-
-
-
-
-src :@ClashReport
-‏Sen. Lindsey Graham says some regional leaders are urging Trump to strike Iran to weaken the regime and negotiate “from a position of strength.”
-‏
-‏Others, he said, are pushing Trump to take the deal currently on the table.
-‏
-‏Source: Axios
-20:52
 1405/03/02
 
 
@@ -5401,19 +5327,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🔴اوکراین می‌گوید روسیه احتمالاً با موشک هایپرسونیک «اورشنیک» و حملات ترکیبی، حمله بزرگی به‌ویژه علیه کی‌یف آماده می‌کند. زلنسکی از مردم خواست به پناهگاه‌ها بروند و سفارت آمریکا هم درباره احتمال حمله گسترده در ۲۴ ساعت آینده هشدار داده است
 20:34
-1405/03/02
-
-
-
-
-src :@Military_Times_Blog
-‏رویترز:
-‏
-‏مذاکرات شکست خورد. 
-‏
-‏
-‏🆔@Military_Times_Blog
-20:33
 1405/03/02
 
 
@@ -6179,15 +6092,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Minas_Tirith2024
-[عکس]
-‏دونالد ترامپ، رئیس جمهور آمریکا، عکسی از خاورمیانه منتشر کرد که پرچم ایالات متحده را در خاک ایران نشان می‌دهد و عنوان آن "ایالات متحده خاورمیانه؟" است.
-18:34
-1405/03/02
-
-
-
-
 src :@didarnews1
 ‏🔴وزیر دفاع آمریکا:
 ‏
@@ -6768,21 +6672,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@DEJradio
-‏⭕️ فرماندۀ ارتش پاکستان با پزشکیان و قالیباف دیدار کرد
-‏
-‏عاصم منیر، فرماندۀ ستاد کل ارتش پاکستان، که برای رایزنی درباره توافق آمریکا و جمهوری اسلامی به تهران سفر کرده است، روز شنبه با مسعود پزشکیان و محمدباقر قالیباف دیدارهایی جداگانه‌ را برگزار کرد.
-‏فیلد مارشال عاصم منیر،  در شامگاه شنبه با عباس عراقچی، وزیر امور خارجۀ جمهوری اسلامی، نیز دیدار کرده بود.
-‏بنا بر گزارش‌ها عاصم منیر پیام‌هایی را از سوی واشینگتن به تهران منتقل کرده که شامل هشدار درمورد احتمال ازسرگیری جنگ بوده است.
-‏
-‏#مذاکرات #پاکستان
-‏@DEJradio
-14:33
-1405/03/02
-
-
-
-
 src :@guard_warriors
 ‏✪ تایوان قصد دارد تا پایان سال ۲۰۲۶ در زرادخانه خود ۱۴۰۰ موشک ضدکشتی سری «شیونگ‌فن» برای حمله به اهداف دریایی چین در چارچوب جنگ نامتقارن در صورت تشدید اوضاع در تنگه تایوان داشته باشد. سرعت تولید در حال حاضر افزایش یافته و حدود ۲۰۰ موشک در سال است که از این میان ۱۳۰ موشک «Hsiung Feng II» و ۷۰ موشک «Hsiung Feng III» می‌باشند.
 ‏
@@ -6936,33 +6825,6 @@ src :@rus_cosmos
 ‏
 ‏وضعیت پروازها در کشور همچنان عادی است و پروازها طبق برنامهٔ تعیین‌شده انجام می‌شوند.
 12:34
-1405/03/02
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 افرادی که در انتخابات 2024 رای ندادند؛ خطری بزرگ برای ترامپ و جمهوری‌خواهان
-‏
-‏🔹شبکه خبری CNN با استناد به نظرسنجی موسسه پیو و نیویورک تایمز از آمریکایی‌هایی که در انتخابات ۲۰۲۴ رأی ندادند، وضعیت ترامپ و احتمال رأی دادن آنها در انتخابات میان‌دوره‌ای کنگره را بررسی کرد.
-‏
-‏🔹محبوبیت خالص ترامپ در میان آنها:
-‏*نوامبر ۲۰۲۴: +۴
-‏*اکنون: -۵۴
-‏
-‏🔹اعتماد به ترامپ در مدیریت اقتصاد:
-‏*نوامبر ۲۰۲۴: ۶۰٪  
-‏*اکنون: ۱۹٪  
-‏(سقوط به یک سوم)
-‏
-‏🔹دیدگاه آنها درباره انتخابات میان‌دوره‌ای ۲۰۲۶:
-‏* ۴۸٪ آنها اعلام کردند «خیلی محتمل» است در این انتخابات رأی بدهند.
-‏* با اختلاف ۳۱ درصد گفتند که به دموکرات‌ها رای خواهند داد.
-‏
-‏
-‏🆔 @Americana_ir
-12:30
 1405/03/02
 
 
