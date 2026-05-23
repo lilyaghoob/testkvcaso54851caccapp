@@ -165,7 +165,7 @@ src :@wfwitness
 ‏
 ‏Israeli officials believe the current situation, in which operational restrictions remain in place, “cannot continue.”
 ‏
-‏@wfwitne
+‏@wfwitness
 10:41
 1405/03/02
 
@@ -389,15 +389,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:21
-1405/03/02
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇮🇷✈️📝 — Airspace over western Iran has been closed until Monday morning, except for daytime-only flights, according to a NOTAM issued by Iranian authorities
-10:20
 1405/03/02
 
 
@@ -645,19 +636,6 @@ src :@P_raetorio
 [عکس]
 ‏ویدیو دن اسکاوینو،از مشاوران ترامپ از بمب‌افکن‌های آمریکایی،وی پیشتر درست یک روز قبل از حمله ایالات متحده به ایران این ویدیو را توییت کرده بود.   @P_raetorio
 09:49
-1405/03/02
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸🇮🇶🇮🇷 — According to a report by the New York Post, Mohammed Baqir al-Saadi, a senior figure in the Iran-backed Iraqi militia Kataib Hezbollah who was recently arrested and indicted in the US, allegedly planned to assassinate Ivanka Trump, daughter of US President Donald Trump, in retaliation for the 2020 killing of IRGC Quds Force commander Qasem Soleimani.
-‏
-‏The report further claims that al-Saadi possessed a blueprint of her Florida residence, which she shares with her husband Jared Kushner. It also alleges that he posted a map online showing the area of Ivanka Trump's Florida home along with Arabic threats stating that 'neither your palaces nor the Secret Service will protect you'.
-‏
-‏@TheWarReporter
-09:48
 1405/03/02
 
 
@@ -1077,29 +1055,6 @@ src :@ircfspace
 
 
 
-src :@BellumActaNews
-[عکس]
-‏François Hollande is running for president to stop corruption in the French military-industrial complex 🇫🇷
-‏
-‏Former French President François Hollande, who was described as the most unpopular head of state in the history of the Fifth Republic, has indicated that he may participate in the 2027 presidential election. In 2017, he left the Elysee Palace with an approval rating of just 4%, but now he is once again signaling his intention to return.
-‏"I'm getting ready. The presidential election is a matter of great historical significance. For France, but not only for France,"
-‏ Hollande told the magazine Marianne. 📰
-‏
-‏Hollande's political prospects are still weak, with less than 10% of voters supporting him in polls. Meanwhile, the right-wing National Rally is leading the way, with both Marine Le Pen and party leader Jordan Bardella receiving more than 30% of the vote. It was under Hollande that the far right finally became one of France's main political forces. 📉
-‏
-‏There is skepticism even within the Socialist Party, of which Hollande remains a member. One of its representatives told Marianne anonymously that he "doesn't believe in Hollande's return." Another admitted that publicly supporting the former president is still unpopular.
-‏
-‏Hollande himself is relying on his main argument: experience. Five years in the Elysée Palace, international summits, and managing the country during crises. 🏛 
-‏
-‏#France #Elections
-‏
-‏🇪🇺 Keep up with the latest Star Union News  🖥
-08:14
-1405/03/02
-
-
-
-
 src :@thewarreporter
 ‏🇮🇷 - Iran has issued a NOTAM restricting flights in the western part of its airspace until Monday morning.
 ‏
@@ -1230,16 +1185,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202605235387
 07:59
-1405/03/02
-
-
-
-
-src :@BellumActaNews
-‏🇷🇺❌🇺🇦 — From 20:00 Moscow time on Friday to 7:00 Saturday, air defense forces intercepted and destroyed 348 Ukrainian drones over Russian regions and the waters of the Azov and Black Seas, according to the Russian Defense Ministry.
-‏
-‏https://t.me/rian_ru/339106
-07:54
 1405/03/02
 
 
