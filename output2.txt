@@ -1,3 +1,11 @@
+src :@ClashReport
+‏BREAKING: Shots were fired near the White House.
+02:48
+1405/03/03
+
+
+
+
 src :@P_raetorio
 ‏فرد تیرانداز در کاخ سفید توسط سرویس مخفی کشته شده است. 
 ‏
@@ -4421,16 +4429,6 @@ src :@didarnews1
 src :@MilitiaNews
 ‏باراک راوید به نقل از یک مقام آمریکایی گزارش داد که دولت ترامپ و ایران به توافقی برای پایان دادن به جنگ نزدیک شده‌اند و اشاره کرد که اختلافات باقی‌مانده بیشتر بر سر نحوه بیان چند بند است.
 21:41
-1405/03/02
-
-
-
-
-src :@ClashReport
-‏BIG: The Trump administration and Iran are reportedly close to a deal to end the war, with remaining gaps focused on the wording of several points.
-‏
-‏Source: Axios, Barak Ravid
-21:40
 1405/03/02
 
 
