@@ -1,3 +1,41 @@
+src :@GeoPWatch
+‏🇺🇸- According to NBC News, gunshots were heard outside the White House, with approximately 20 to 30 shots fired. The Secret Service has ordered members of the press gathered on the North Lawn to run inside the briefing room.
+‏
+‏@GeoPWatch
+01:42
+1405/03/03
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡️- Several gunshots have been heard at the White House. - ABC News.
+01:40
+1405/03/03
+
+
+
+
+src :@mwarmonitor
+‏🔸هنوز مشخص نشده که امتیازهای ایران چه خواهد بود، جز بازگشایی تنگه (که خودِ ایران هم از آن منتفع می‌شود).
+‏
+‏🔹ممکن است به این دلیل باشد که درز اطلاعات فقط از یک طرف صورت می‌گیرد، یا اینکه اساساً امتیاز دیگری در کار نیست. در حال حاضر قضاوت قطعی غیرممکن است. خبرنگار نیویورک پست 
+‏
+‏@mwarmonitor
+01:40
+1405/03/03
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇦🇷🇺Reports that Russia is preparing to launch Oreshnik missiles during their combined drone and missile strike on Ukriane this evening.  @wfwitness
+01:39
+1405/03/03
+
+
+
+
 src :@tabzlive
 ‏🇺🇦🇷🇺⚡️ — NOW: At least 6 Iskander-M ballistic missiles have been launched at Kyiv.
 01:33
@@ -2924,15 +2962,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — Republican Senator Lindsey Graham: If a deal is struck to end the Iranian conflict because it is believed that the Strait of Hormuz cannot be protected from Iranian terrorism and Iran still possesses the capability to destroy major Gulf oil infrastructure…
-23:18
-1405/03/02
-
-
-
-
 src :@mwarmonitor
 ‏🔴سناتور لیندسی گراهام ؛ اگر در منطقه این برداشت وجود داشته باشد که توافق با ایران باعث می‌شود این رژیم پابرجا بماند و در طول زمان قدرتمندتر شود، ما در واقع بنزین روی آتش درگیری‌ها در لبنان و عراق ریخته‌ایم.  🔸توافقی که چنین برداشتی ایجاد کند مبنی بر اینکه…
 23:18
@@ -3295,14 +3324,6 @@ src :@defence_news
 ‏شب بخیر 
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-22:55
-1405/03/02
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇷🇸🇦⚡️ — A regional diplomat told Fox News that Trump's call with regional leaders was “very positive,” saying “good progress is being made” and that the leaders welcomed both the momentum in the negotiations and the recent “breakthrough” in the talks.
 22:55
 1405/03/02
 
@@ -3776,17 +3797,6 @@ src :@intelslava
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🔸ملوانان و تفنگداران دریایی آمریکا در ناو USS Tripoli (LHA-7) در حالی که این ناو در حال عبور از دریای عرب است، عملیات پروازی انجام می‌دهند.
-‏
-‏@mwarmonitor
-22:25
-1405/03/02
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏👑⭕️ شاهزاده رضا پهلوی در پیامی در حساب کاربری خود در شبکهٔ ایکس، از دیدار و گفت‌وگوی خود با جاش گاتهایمر، نمایندهٔ کنگره آمریکا، خبر دادند. ایشان با قدردانی از مواضع این نماینده دربارهٔ ایران، تأکید کردند در این دیدار دربارهٔ اهمیت حمایت دوحزبی از مردم ایران گفت‌وگو شده است.
@@ -3944,14 +3954,6 @@ src :@cataphract1
 [عکس]
 ‏♨️ بیست دقیقه دیگه ترامپ با رهبران این کشور ها کنفرانس داره   📃@Cataphract1
 22:17
-1405/03/02
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸🇮🇷🇵🇰- Chairman of the Joint Chiefs of Staff, General Dan Caine, also reportedly arrived at the White House around 15-20 minutes ago.  @GeoPWatch
-22:15
 1405/03/02
 
 
@@ -4170,14 +4172,6 @@ src :@P_raetorio
 ‏-باراک راوید
 ‏
 ‏@P_raetorio
-21:58
-1405/03/02
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇮🇱🇮🇷 Axios: U.S. President Donald Trump is expected to speak on Saturday with Israeli Prime Minister Benjamin Netanyahu and discuss the emerging Iran deal, an Israeli official said.  @wfwitness
 21:58
 1405/03/02
 
@@ -4583,18 +4577,6 @@ src :@guard_warriors
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- BREAKING: The U.S. and Iran are expected to announce the finalization of a draft proposal of a peace deal by Sunday afternoon, a source close to the negotiations told The Washington Times.
-‏
-‏A draft proposal was agreed to early Saturday and expected to be announced within 24 hours, the source said.
-‏
-‏Top negotiators, including Iranian Parliament Speaker Mohammad Bagher Qalifbaf, Vice President J.D. Vance, special envoy Steve Witkoff and President Trump’s son-in-law Jared Kushner, have approved the draft.
-21:36
-1405/03/02
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 آتش بس ۶۰ روزه پیروزی ایران است / مارک دوبوویتز، مدیر بنیاد دفاع از دموکراسی (FDD):  «اگر رئیس جمهور ترامپ بر اساس وعده‌های مبهم ایران برای «بحث» در مورد مسائل هسته‌ای، با تمدید آتش‌بس ۶۰ روزه موافقت کند، بازی تمام است. این امر بحران را به اواخر ژوئیه یا…
@@ -4753,29 +4735,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@P_raetorio
-[ویدئو]
-‏قضیه مردم ایران و اخبار مذاکرات یا جنگ:
-‏
-‏@P_raetorio
-21:23
-1405/03/02
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ یک مقام امنیتی پاکستان که در جریان جزئیات سفر فرمانده ارتش این کشور به تهران و دیدارهایش با مقامات جمهوری اسلامی قرار گرفته است، روز شنبه دوم خرداد، در گفتگو با رویترز اعلام کرد که «پیش‌نویس یک تفاهم‌نامه (MoU) برای پایان دادن به جنگ میان ایالات متحده و ایران در حال اصلاح و نهایی‌شدن است.»
-‏
-‏این مقام امنیتی افزود که سفر فرمانده ارتش به تهران، «پیشرفت چشمگیری» در راستای محورهای تعیین‌شده در «مذاکرات اسلام‌آباد» برای پایان دادن به این جنگ به همراه داشته است. وی جزئیات بیشتری درباره محورهای دقیق گفتگوهای اسلام‌آباد ارائه نکرد.
-‏@indypersian
-21:21
-1405/03/02
-
-
-
-
 src :@Military_Times_Blog
 ‏کلا اخبار بشدت ضد و نقیض است.
 21:20
@@ -4897,17 +4856,6 @@ src :@selena_updates
 ‏
 ‏During the incident in which Staff Sergeant Noam Hamburger fell, an IDF soldier was severely injured, and a non-commissioned officer was lightly injured.
 21:10
-1405/03/02
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏حملات هوایی به جنوب لبنان
-‏
-‏@P_raetorio
-21:09
 1405/03/02
 
 
