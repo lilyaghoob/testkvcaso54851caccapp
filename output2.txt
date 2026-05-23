@@ -1,3 +1,35 @@
+src :@P_raetorio
+[عکس]
+‏پلیس پیرامون صحنه تیراندازی در نزدیکی کاخ سفید، یک کمربند امنیتی ایجاد کرده است.
+‏
+‏@Khashateria_Cata
+02:01
+1405/03/03
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸- The Secret Service told CNN it is investigating reports of shots fired at the corner of 17th Street and Pennsylvania Avenue Northwest, just outside the White House complex.
+‏
+‏@GeoPWatch
+02:01
+1405/03/03
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: تهدید پزشکیان به استعفا
+‏@iranintlTV
+02:01
+1405/03/03
+
+
+
+
 src :@wfwitness
 ‏⚡️🇺🇸🇮🇷 U.S. President Trump says U.S. and Iran are finalizing a deal that will be announced shortly:  I am in the Oval Office at the White House where we just had a very good call with President Mohammed bin Salman Al Saud, of Saudi Arabia, Mohammed bin Zayed…
 01:56
@@ -2779,14 +2811,6 @@ src :@ClashReport
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷🇸🇦⚡️ — A regional diplomat told Fox News that Trump's call with regional leaders was “very positive,” saying “good progress is being made” and that the leaders welcomed both the momentum in the negotiations and the recent “breakthrough” in the talks.
-23:51
-1405/03/02
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏زلنسکی میگوید اطلاعات اوکراین نشان میدهد که روسیه در پی حمله با موشک اورشنیک به اوکراین است.
@@ -2935,18 +2959,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇮🇱🇺🇸🇮🇷⚡️ — Israeli Prime Minister Benjamin Netanyahu has remained in contact with U.S. officials throughout the evening and is expected to speak with Trump tonight, CNN reports.
-‏
-‏Israeli officials remain concerned that an interim agreement wi mainly extend the ceasefire, reopen the Strait of Hormuz, and gradually ease sanctions without fully addressing Iran’s nuclear program and enriched uranium stockpiles. 
-‏
-‏The U.S. has continued reassuring Israel regarding the uranium issue.
-23:43
-1405/03/02
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏بیژن کاظمی، زندانی سیاسی محبوس در زندان اوین، با حکم شعبه ۱۵ دادگاه انقلاب تهران در مجموع به ۳۷ سال و شش ماه حبس محکوم شد.
@@ -3002,14 +3014,6 @@ src :@mwarmonitor
 src :@GeoPWatch
 ‏🇺🇸📞🇸🇦- According to Axios, citing two sources of knowledge, Donald Trump will hold a conference call with Arab leaders at 8pm Jerusalem time (1pm est) to discuss the draft agreement with Iran and hear their views.
 23:39
-1405/03/02
-
-
-
-
-src :@tabzlive
-‏🇺🇸🤝🇹🇷 — President Trump thanks Turkish President Erdoğan on Truth Social.
-23:35
 1405/03/02
 
 
@@ -4753,16 +4757,6 @@ src :@MilitiaNews
 
 
 
-src :@MilitarryWorld
-‏⭕️وزیر جنگ آمریکا و رئیس کل ارتش آمریکا نیز به صورت اضطراری در حال حرکت به سمت کاخ سفید می‌باشند.
-‏
-‏@MilitarryWorld | Parsa
-21:37
-1405/03/02
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ کشتی‌سازی‌های چین با تمام توان کار می‌کنند
@@ -5031,25 +5025,6 @@ src :@defence_news
 ‏
 ‏@menhayefaghr
 21:14
-1405/03/02
-
-
-
-
-src :@selena_updates
-[عکس]
-‏😔💔🕯
-‏
-‏An IDF soldier was killed yesterday by a Hezbollah explosive drone in northern Israel, the military announces.
-‏
-‏He is
-‏
-‏Staff Sergeant Noam Hamburger, aged 23, from Atlit, a technology and maintenance combat soldier in the 9th Battalion, 401st Brigade
-‏
-‏He is the 9th IDF soldier to be killed in southern Lebanon since the start of a ceasefire, and the 22nd since hostilities escalated amid the Iran war.
-‏
-‏During the incident in which Staff Sergeant Noam Hamburger fell, an IDF soldier was severely injured, and a non-commissioned officer was lightly injured.
-21:10
 1405/03/02
 
 
@@ -7231,19 +7206,6 @@ src :@Parvazdaroj
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇷🇺🇸 Iran says President Trump has "no choice but to meet Iran's demands."
-‏
-‏"Otherwise he will suffer major losses."
-‏
-‏@BRICSNews
-09:22
-1405/03/02
-
-
-
-
 src :@Artemis_Force
 ‏شرکت General Dynamics Electric Boat در تاریخ ۱۱ مه ۲۰۲۶ قراردادی اضافی به مبلغ ۲٫۳۰۵ میلیارد دلار از وزارت جنگ آمریکا دریافت کرد که به قرارداد قبلی (N00024-24-C-2110) برای تأمین در مرحله آماده‌سازی ساخت زیردریایی‌های اتمی نوع «Virginia Block VI» افزوده شده است.
 ‏
@@ -7338,14 +7300,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:08
-1405/03/02
-
-
-
-
-src :@rus_cosmos
-‏سی‌بی‌اس نیوز: برخی از مقامات نظامی و اطلاعاتی ایالات متحده، برنامه‌های خود برای آخر هفته یادبود را به دلیل پیش‌بینی حملات احتمالی علیه ایران لغو کرده‌اند.
-‏
-‏دولت ترامپ در حال آماده شدن برای دور جدیدی از حملات نظامی است، اگرچه تا الان هنوز تصمیم نهایی گرفته نشده است.
-02:00
 1405/03/02
