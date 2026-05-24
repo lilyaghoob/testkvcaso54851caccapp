@@ -1,3 +1,60 @@
+src :@Mena_Live
+[عکس]
+‏Israeli Channel 11: Israeli Fighters turned to fishermen in the past week in search of fishing nets for defense against the drone threat in Lebanon.
+‏
+‏@Mena_Live
+01:11
+1405/03/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Syria's government sharply raised public sector salaries since the fall of Assad in late 2024.
+‏
+‏Under Assad, teachers earned as little as $18–50 a month and specialist doctors around $20–40.
+‏
+‏Presidential decrees issued in March 2026 added a 50% general raise plus targeted increases for teachers, doctors, nurses, and university professors.
+‏
+‏New pay scales now place school teachers at around $300 a month, specialist doctors at $700, and university professors at $1,000.
+‏
+‏Gulf states, including Qatar and Saudi Arabia, are contributing roughly $29 million a month to cover public sector wages.
+01:11
+1405/03/04
+
+
+
+
+src :@cataphract1
+‏⚜با بررسی گزارشات دو منبع؛
+‏https://x.com/MATA_osint
+‏https://x.com/DefenceGeek
+‏
+‏⚜می‌توان گفت از زمان انتشار اخبار مذاکرات و توافق احتمالی ، هیچ تغییر معناداری (نه افزایش و نه کاهش) در روند بلید آپ آمریکایی‌ها مشاهده نشده‌است و وضعیت عمدتاً ثابت و با روال قبلی ادامه دارد. 
+‏
+‏⚜تانکرهای مستقر در سنتکام عملیات دفاعی و آموزشی خود را ادامه می‌دهند و تانکرهای اروپایی بیشتر برای تمرین محلی یا حمل و نقل محدود استفاده می‌شوند. هیچ افزایش یا کاهش قابل توجهی گزارش نشده است.  
+‏ 
+‏📃@Cataphract1
+01:09
+1405/03/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Satellite imagery from May 24 shows Iran has fully cleared all five entrances at its Larestan underground missile facility in Fars Province, southern Iran.
+‏
+‏Iran used heavy machinery to excavate debris and reopen the tunnels, restoring full access with no apparent long-term damage to the hardened entrances.
+‏
+‏The same recovery pattern has been observed at other Iranian missile sites, including Abyek.
+01:07
+1405/03/04
+
+
+
+
 src :@MilitarryWorld
 ‏🚨نیویورک پست: 
 ‏
@@ -3303,18 +3360,6 @@ src :@bricsnews
 
 
 
-src :@IranintlTV
-[عکس]
-‏لیندزی گراهام، سناتور جمهوریخواه در پیامی در شبکه ایکس نوشت: «اگر در نتیجه مذاکرات برای پایان دادن به درگیری با ایران، متحدان عرب و مسلمان آمریکا در منطقه به توافق‌های ابراهیم بپیوندند، این توافق می‌تواند به یکی از مهم‌ترین تحولات تاریخ خاورمیانه تبدیل شود.» 
-‏
-‏او افزود پیوستن عربستان سعودی، قطر و پاکستان به توافق‌های ابراهیم تحولی بزرگ برای منطقه و جهان خواهد بود و این اقدام را حرکتی درخشان از سوی رییس جمهور ترامپ توصیف کرد. 
-‏https://iranintl.com/202605241273
-20:45
-1405/03/03
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏به گفته الجزیره دو مشکل فعلی بر سر توافق به شرح زیر است:
 ‏
@@ -4979,21 +5024,6 @@ src :@DEJradio
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran’s Revolutionary Guards allegedly used a UAE-based company to procure Chinese satellite communications equipment tied to its drone and missile programs.
-‏
-‏The equipment reportedly moved through Dubai and Ras al Khaimah before reaching Iran via an Iranian vessel that appeared to spoof its GPS location to conceal the delivery.
-‏
-‏The shipment was linked to firms connected to the IRGC Aerospace Force despite existing US sanctions on related entities.
-‏
-‏Source: FT
-17:36
-1405/03/03
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇷 Iran says 33 ships passed through the Strait of Hormuz after receiving authorization from Iran in the last 24 hours.
@@ -5039,17 +5069,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/152817
 ‏ @Farsi_Iranwire
 17:31
-1405/03/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏The Dumocrats don’t want to allow FISHING. Fighting us in Court. Bad for the environment. Amazing!
-17:30
 1405/03/03
 
 
@@ -5791,17 +5810,6 @@ src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn Sun, 24 May 2026 11:33:47 UTC  IRGC-owned Tasnim News: """ The term "ceasefire extension" is not included in the agreement.  According to reports obtained by Tasnim regarding the potential agreement, and contrary to a claim by an American…
 15:03
-1405/03/03
-
-
-
-
-src :@cataphract1
-‏♨️ تسنیم:
-‏‏بر اساس شنیده‌های تسنیم از متن تفاهم احتمالی، برخلاف گزارش یک رسانه آمریکایی که می‌گوید طبق تفاهم نامه «آتش بس میان ایران و آمریکا به مدت ۶۰ روز تمدید می‌شود»، این عبارت در متن وجود ندارد و تعبیری که به کار گرفته شده است، اعلام پایان جنگ در همه جبهه‌ها از جمله لبنان است
-‏
-‏📃@Cataphract1
-15:00
 1405/03/03
 
 
