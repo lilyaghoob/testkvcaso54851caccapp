@@ -1,3 +1,91 @@
+src :@cataphract1
+[ویدئو]
+‏وضعیت بعد خوندن اخبار
+‏
+‏📃@Cataphract1
+15:11
+1405/03/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 جروزالم پست: جنگ، ایران را فرو نپاشید، کنترل آن بر هرمز را تثبیت کرد، اتحادهایش را از نو ساخت و همان نهادهایی را که ایالات متحده هدف قرار داده بود، تقویت کرد! 
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+15:10
+1405/03/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 نخست‌وزیر اسرائیل، بنیامین نتانیاهو، به ترامپ هشدار داد که اسرائیل «آزادی عمل در برابر تهدیدها در همه عرصه‌ها، از جمله لبنان، را حفظ می‌کند»، به گزارش AP
+‏
+‏✍🏻 Cyrus
+‏▪️@World_Newsly
+15:10
+1405/03/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 ایران اعلام کرده که یک پهپاد اوربیتر (Orbiter) اسرائیلی را با سامانه پدافند هوایی بر فراز استان هرمزگان سرنگون کرده است. گزارش شده است که این پهپاد در حال انجام مأموریت شناسایی بوده است.
+‏
+‏✍🏻 Troy
+‏▪️@World_Newsly
+15:10
+1405/03/03
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ابوالحسن فیروزآبادی، دبیر اسبق شورای عالی فضای مجازی:
+‏
+‏رئیس‌جمهور اگه بخواد، می‌تونه اینترنت رو باز کنه.
+‏
+‏@MilitarryWorld | Parsa
+15:09
+1405/03/03
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇱🇧🇱🇧 — The IDF issued evacuation warnings for residents in several areas of southern and eastern Lebanon, including Mashghara, Deir Zahrani, Sharqieh, Doueir, Qlaya, Sahmar, Zibdine, Nabatieh al-Tahta, Arab Salim, and Kfar Jouz.
+‏
+‏➡️ The Israeli army is preparing attacks in response to "Hezbollah ceasefire violations."
+‏
+‏➡️ Residents are urged to move at least 1 kilometer away from the designated areas.
+15:09
+1405/03/03
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Additional Israeli airstrikes on southern Lebanon this afternoon:
+‏
+‏-Ghandourieh 
+‏-Arab Salim x3
+‏-Choukin
+‏-Srifa
+‏-Abba
+‏-Nabatieh x2
+‏
+‏@wfwitness
+15:09
+1405/03/03
+
+
+
+
 src :@tabzlive
 ‏🇮🇷🇺🇸⚡️ — Tasnim News Agency reports that the phrase “ceasefire extension” does not appear in the current draft memorandum between Iran and the U.S.
 ‏
@@ -1389,15 +1477,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇮🇱 Red alert sirens are sounding in the Confrontation Line region, Northern Israel.  @wfwitness
-13:44
-1405/03/03
-
-
-
-
 src :@World_Newsly
 ‏🔴 کانال ۱۴ اسرائیل: نتانیاهو به وزرا دستور داده درباره توافق احتمالی با ایران سکوت کنند
 ‏
@@ -1607,7 +1686,7 @@ src :@didarnews1
 ‏حذف معافیت مالیاتی رسانه‌ها فشار‌های مالی بر مطبوعات را افزایش داده و فعالان این حوزه نسبت به ورشکستگی و تعطیلی گسترده هشدار می‌دهند.
 ‏
 ‏➖جهت مشاهده ادامه مطلب کلیک کنید:
-‏
+‏https://www.didarnews.ir/fa/news/200091/
 ‏
 ‏#دیدار_نیوز
 ‏didarnews.ir
@@ -1675,19 +1754,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 13:26
-1405/03/03
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇮🇷⚡️ — The U.S. is continuously updating Israel on the negotiations of the MoU with Iran aimed at reopening the Strait of Hormuz and launching talks on unresolved issues for a final agreement, Kan News reports.
-‏
-‏During a call with President Trump last night, Prime Minister Netanyahu stressed that Israel will preserve freedom of action against threats across all fronts, including Lebanon, and Trump supported that position.
-‏
-‏Trump also reiterated that he will maintain his demand for the dismantling of Iran’s nuclear program and the removal of all enriched uranium from Iranian territory, saying no final deal will be signed without those conditions.
-13:25
 1405/03/03
 
 
@@ -1880,15 +1946,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸🇮🇷⚡️ — Israeli Prime Minister Benjamin Netanyahu has instructed ministers not to speak to the media regarding the expected agreement (memorandum of understanding) between Iran and the U.S., according to Israeli Channel 14.
-13:15
-1405/03/03
-
-
-
-
 src :@Mena_Live
 ‏Voting ends in Hasakah Governorate, Qamishli City, Ayn Al Arab City.
 ‏
@@ -1911,18 +1968,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 Admin
 ‏▪️@World_Newsly
-13:13
-1405/03/03
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏خبرگزاری فارس، وابسته به سپاه پاسداران نوشت تازه‌ترین پیگیری‌ها نشان می‌دهد آمریکا دوباره در زمینه آزاد کردن دارایی‌های بلوکه‌شده «دبه» کرده و تلاش دارد این منابع را نسیه و حواله به آینده کند، اما مسئولین جمهوری اسلامی می‌گویند از این خط قرمز کوتاه نمی‌آیند.
-‏
-‏ این خبرگزاری افزود: «جمهوری اسلامی تنها در شرایطی حاضر به مذاکره با واشینگتن می‌شود که منافع ملموس اقتصادی به همراه داشته باشد و در این راستا، یکی از محوری‌ترین این منافع، آزادسازی دارایی‌های بلوکه‌شده است.»
-‏ iranintl.com/202605249983
 13:13
 1405/03/03
 
@@ -2318,21 +2363,6 @@ src :@World_Newsly
 src :@rnintel
 ‏🇺🇸🇮🇷🇮🇱⚡- "Netanyahu instructed ministers to refrain from speaking to the media about the impending agreement [memorandum of understanding] between Tehran and Washington," - Israeli Channel 14.
 12:26
-1405/03/03
-
-
-
-
-src :@World_Newsly
-‏🔴 تسنیم: اختلاف بر سر چند بند توافق احتمالی ایران و آمریکا همچنان حل نشده است
-‏
-‏یک منبع ایرانی به خبرگزاری تسنیم گفت اختلاف‌ها بر سر یک یا دو بند از تفاهم احتمالی میان ایران و آمریکا همچنان حل نشده باقی مانده و تهران معتقد است واشنگتن در حال «ایجاد مانع» در روند مذاکرات است.
-‏طبق این گزارش، ایران به میانجی‌های پاکستانی اطلاع داده اگر آمریکا به ادامه مانع‌تراشی‌ها ادامه دهد، امکان نهایی شدن توافق وجود نخواهد داشت.
-‏این خبر در حالی منتشر میشود که طی ساعات اخیر مقام‌های آمریکایی از «پیشرفت قابل توجه» در مذاکرات صحبت کرده‌اند، اما همزمان تاکید کرده‌اند هنوز اختلاف‌های مهمی باقی مانده است. موضوع اورانیوم غنی‌شده و وضعیت تنگه هرمز همچنان از اصلی‌ترین نقاط اختلاف میان دو طرف توصیف میشود.
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-12:25
 1405/03/03
 
 
@@ -3446,16 +3476,6 @@ src :@P_raetorio
 ‏پ.ن:انفجار‌ها به حدی بوده است که زمین تا چند صد متری تیره‌پوش شده است.
 ‏
 ‏@P_raetorio
-10:16
-1405/03/03
-
-
-
-
-src :@cataphract1
-‏♨️ وزیر خارجه پاکستان طی پستی در X از همه طرفین برای طرح صلح تشکر کرد 
-‏
-‏📃@Cataphract1
 10:16
 1405/03/03
 
