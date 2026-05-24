@@ -1,3 +1,86 @@
+src :@ClashReport
+[عکس]
+‏NEW: The United States and Iran have reached an agreement in principle on a preliminary deal that would reopen the Strait of Hormuz and commit Iran to disposing of its stockpile of highly enriched uranium, enriched to 60%.
+‏
+‏The deal still requires approval from President Trump and Iran's Supreme Leader.
+‏
+‏Under the framework, Iran would clear mines from the strait and allow free passage of commercial shipping, while the US would lift its naval blockade of Iranian ports.
+‏
+‏Iran would also be allowed to resume oil sales.
+‏
+‏A 60-day ceasefire extension is part of the package, with broader nuclear issues deferred to later talks.
+‏
+‏No final agreement has been signed.
+‏
+‏Source: NYT
+01:19
+1405/03/04
+
+
+
+
+src :@MilitarryWorld
+‏⭕️محسن رضایی: انگشت ما روی ماشه نبرد چهارم است.
+‏
+‏@MilitarryWorld | Parsa
+01:19
+1405/03/04
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏مذاکره‌کنندگان ایرانی آزادسازی فوری ۱۲ میلیارد دلار از دارایی‌های مسدودشده ایران در قطر را پیش‌شرط پیشبرد مذاکرات با آمریکا اعلام کرده‌اند. 
+‏
+‏یک منبع مطلع با آگاهی مستقیم از روند گفت‌وگوها به ایران‌اینترنشنال گفت تهران اصرار دارد در مرحله اولیه یادداشت تفاهم، دسترسی واقعی و تضمین‌شده به این منابع فراهم شود و بدون آن، تفاهم دیپلماتیک مقدماتی پیش نخواهد رفت.
+‏
+‏به گفته این منبع، این مبلغ تنها بخش فوری مورد درخواست ایران برای آغاز نقشه راه دیپلماتیک است و تهران خواهان آزادسازی کامل همه دارایی‌های مسدودشده خود در جهان در چارچوب توافق جامع نهایی است.
+‏
+‏هم‌زمان، خبرگزاری تسنیم، وابسته به سپاه پاسداران، گزارش داد اختلافات تهران و واشینگتن بر سر یک یا دو بند یادداشت تفاهم احتمالی همچنان باقی است. 
+‏
+‏تسنیم نوشت ایران خواستار آزادسازی بخشی از دارایی‌های خود در گام نخست و تعیین سازوکاری برای آزادسازی باقی منابع در جریان مذاکرات شده است.
+‏
+‏این رسانه افزود آمریکا تلاش کرده آزادسازی دارایی‌ها را به توافق نهایی هسته‌ای مشروط کند و مانع‌تراشی واشینگتن در این زمینه ادامه دارد که احتمال لغو توافق را همچنان زنده نگه داشته است.
+‏http
+01:18
+1405/03/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Israeli "settlers" cut down more than 40 olive trees east of Salfit in the northern West Bank.
+‏
+‏Five days earlier, settlers vandalized and destroyed gravestones at a cemetery serving the villages of Kisan and Rashaydeh east of Bethlehem, including stones dating to the British Mandate period.
+‏
+‏Settlers also reportedly tried to prevent residents from burying a child before the vandalism took place.
+01:18
+1405/03/04
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴منابع دولتی در ایران عصبانی هستند و میگن ترامپ بعد از تماس با نتانیاهو از وعده های خودش عقب نشینی کرده و گفته تا 400 کیلوگرم اورانیوم رو از ایران خارج نکنم یک دلار از اموال بلوکه شده آزاد نمیکنم.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+01:18
+1405/03/04
+
+
+
+
+src :@P_raetorio
+‏کارخانه صنایع زرهی Heavy Vehicles Factory (HVF) هندوستان اعلام کرد روز گذشته هزارمین عراده تانک T-90 از خط مونتاژ این کارخانه بیرون آمده و به ارتش این کشور تحویل داده شد.   @P_raetorio
+01:16
+1405/03/04
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸🇺🇸- There are 3 KC-46A Pegasus and 2 KC-135R Stratotanker refueling aircraft currently operating in CENTCOM's area of responsibility, with 2 of the KC-46A Pegasus aircraft in the airspace over the Persian Gulf.
@@ -68,7 +151,7 @@ src :@cataphract1
 ‏
 ‏⚜می‌توان گفت از زمان انتشار اخبار مذاکرات و توافق احتمالی ، هیچ تغییر معناداری (نه افزایش و نه کاهش) در روند بلید آپ آمریکایی‌ها مشاهده نشده‌است و وضعیت عمدتاً ثابت و با روال قبلی ادامه دارد. 
 ‏
-‏⚜تانکرهای مستقر در سنتکام عملیات دفاعی و آموزشی خود را ادامه می‌دهند و تانکرها و بمب افکن های مستقر در اروپا نیز بیشتر برای تمرین محلی یا حمل و نقل محدود استفاده می‌شوند. هیچ افزایش یا کاهش قابل توجهی گزارش نشده است.  
+‏⚜تانکرهای مستقر در سنتکام عملیات دفاعی و آموزشی خود را ادامه می‌دهند و تانکرها و بمب افکن های مستقر در اروپا نیز بیشتر برای تمرین یا عملیات های روتین استفاده می‌شوند. هیچ افزایش یا کاهش قابل توجهی گزارش نشده است.  
 ‏ 
 ‏📃@Cataphract1
 01:09
@@ -261,18 +344,6 @@ src :@VahidOnline
 ‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
-00:42
-1405/03/04
-
-
-
-
-src :@Mena_Live
-‏U.S. State Department: We regret the failure of the states parties to the Nuclear Non-Proliferation Treaty to agree on a final document.
-‏
-‏The failure to reach an agreement is disappointing, given Iran's non-compliance with the safeguards agreement under the Nuclear Non-Proliferation Treaty.
-‏
-‏@Mena_Live
 00:42
 1405/03/04
 
@@ -3293,20 +3364,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@IranintlTV
-[عکس]
-‏ارتش اسرائیل اعلام کرد ایال زمیر، رییس ستاد کل ارتش این کشور، پس از ارزیابی وضعیت میدانی، طرح‌های ادامه عملیات علیه حزب‌الله در لبنان را تایید کرده است.
-‏
-‏زمیر گفت ارتش اسرائیل تحولات منطقه را به‌دقت زیر نظر دارد و آماده است فورا به درگیری‌های شدید بازگردد و حکومت «تروریستی» ایران و توانمندی‌های آن را بیش از پیش تضعیف کند.
-‏
-‏او افزود: «امروز طرح‌های ادامه نبرد در جبهه شمالی را تصویب کردم و مصمم هستیم ضربات به حزب‌الله را عمیق‌تر کنیم.»
-‏https://iranintl.com/202605240944
-20:48
-1405/03/03
-
-
-
-
 src :@Parvazdaroj
 ‏Parvaz dar oj pinned a photo
 20:46
@@ -3489,17 +3546,6 @@ src :@jangaavaran1390
 src :@Minas_Tirith2024
 ‏Minas Tirith pinned a photo
 20:32
-1405/03/03
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏توافق فرضی موجود با یک طرح توافق اساسی فاصله دارد. موضوعات بزرگی روی زمین است که هیچ کدام حل نشده است. بدون یک توافق اساسی، ج.ا تنها کارتهایی را میدهد که راحت بتواند آنها را پس گیرد. نگرانی اصلی اسرائیل و برخی حامیانش اینست که تعلیق فعلی دائمی شود یا با آمادگی بیشتر ج.ا همراه شود.
-‏
-‏@Exciton_missile_program 🚀
-20:31
 1405/03/03
 
 
@@ -3831,16 +3877,6 @@ src :@KayhanLondonChannel
 ‏دادستانی بحرین اعلام کرد برخی متهمان مامور رصد، تصویربرداری و جمع‌آوری اطلاعات از تاسیسات حیاتی بحرین بوده‌اند و اطلاعات را در اختیار سپاه پاسداران قرار می‌دادند.
 ‏در این بیانیه همچنین به استفاده از شبکه‌های مالی، صرافی و ارزهای دیجیتال برای تامین مالی این فعالیت‌ها اشاره شده است.
 19:47
-1405/03/03
-
-
-
-
-src :@MilitarryWorld
-‏⭕️دبیرکل حزب‌الله: اگه دولت لبنان از تامین و حفظ حاکمیت کشور عاجزه پس باید کنار بره!
-‏
-‏@MilitarryWorld | Parsa
-19:45
 1405/03/03
 
 
@@ -4343,14 +4379,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-‏Israeli President Isaac Herzog:  We are witnessing a horrific wave of violence being carried out by an anarchic mob in the West Bank.  I heard from a group of senior commanders that there are days when they are forced to spend most of their time dealing with…
-18:44
-1405/03/03
-
-
-
-
 src :@jangaavaran1390
 ‏فاکس نیوز: یک مقام ارشد دولت ترامپ گفته است که توافق ایران امروز امضا نخواهد شد، اما به پیشرفت در یک توافق اشاره کرده است.
 ‏این مقام گفت: "اگر ایرانی‌ها در مورد مسئله غنی‌سازی سازش‌های قابل توجهی انجام دهند، ما نیز در مورد لغو تحریم‌ها سازش‌های قابل توجهی انجام خواهیم داد."
@@ -4513,25 +4541,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@ClashReport
-[عکس]
-‏Netanyahu:
-‏
-‏President Trump and I agreed that any final agreement with Iran must eliminate the nuclear danger. 
-‏
-‏That means dismantling Iran’s nuclear enrichment sites and removing its enriched nuclear material from its territory.
-‏
-‏President Trump also reaffirmed Israel’s right to defend itself against threats on every front, including Lebanon.
-‏
-‏The partnership between us and our two countries has been proven on the battlefield and has never been stronger.
-‏
-‏My policy, like President Trump’s, remains unchanged: Iran will not have nuclear weapons.
-18:27
-1405/03/03
-
-
-
-
 src :@mwarmonitor
 ‏🔰بنیامین نتانیاهو:
 ‏
@@ -4568,15 +4577,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:27
-1405/03/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump reposts Iranian President Pezeshkian’s statement on nuclear weapons.
-18:26
 1405/03/03
 
 
