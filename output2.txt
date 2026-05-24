@@ -1,5 +1,183 @@
+src :@ClashReport
+[عکس]
+‏Belarus says Lukashenko and Macron spoke by phone.
+16:23
+1405/03/03
+
+
+
+
+src :@rus_cosmos
+‏بر اساس گزارش آکسیوس، تفاهم‌نامه میان آمریکا و ایران شامل موارد زیر است:
+‏
+‏✅ تمدید آتش‌بس ۶۰ روزه.
+‏
+‏✅ ایران هیچ‌گونه عوارض یا محدودیتی در تنگه هرمز اعمال نخواهد کرد.
+‏
+‏✅ ایران ابتدا تمام مین‌ها را پاک‌سازی کرده و محاصره خود را لغو می‌کند. آمریکا نیز پس از اجرای این تعهدات از سوی ایران، محاصره خود را پایان خواهد داد.
+‏
+‏✅ آمریکا برخی معافیت‌های تحریمی مرتبط با صنعت نفت ایران صادر خواهد کرد.
+‏
+‏✅ تعهد ایران به اینکه هرگز به دنبال سلاح هسته‌ای نرود.
+‏
+‏✅ ایران متعهد می‌شود درباره توقف کامل برنامه غنی‌سازی هسته‌ای و انتقال ذخایر اورانیوم غنی‌شده خود مذاکره کند.
+‏
+‏✅ آمریکا متعهد می‌شود درباره لغو تدریجی تحریم‌های ایران و همچنین دارایی‌های مسدودشده ایران مذاکره کند.
+‏
+‏✅ آمریکا هیچ نیرویی را از اطراف ایران خارج نخواهد کرد. خروج نیروهای آمریکا تنها پس از دستیابی به توافق نهایی در پایان دوره ۶۰ روزه انجام می‌شود.
+‏
+‏✅ جنگ میان حزب‌الله و اسرائیل پایان خواهد یافت — به اسرائیل اجازه داده می‌شود برای جلوگیری از تسلیح مجدد حزب‌الله، اقدامات پیشگیرانه انجام دهد؛ این اقدامات شامل حملات هوایی و حملات پهپادی به لبنان خواهد بود.
+‏  «اگر حزب‌الله بد رفتار کند، اسرائیل هم رفتار خواهد کرد.»
+16:23
+1405/03/03
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏Last night and this morning, another large-scale, combined Russian missile and drone attack was carried out on Ukraine.
+‏
+‏Missiles launched:
+‏
+‏~20 Kh-101 cruise missiles launched from 4 Tu-95MS strategic bombers at their launch lines over western Kostroma Oblast.
+‏
+‏~20 Iskander-K cruise missiles launched from OTRK installations in eastern Bryansk Oblast.
+‏
+‏~18 Kalibr cruise missiles launched from 3 surface-carriers at Novorossiysk Naval Base, Krasnodar Krai.
+‏
+‏~16 Iskander-M/S-400 ballistic missiles launched from OTRK installations near Klintsy, Bryansk Oblast.
+‏
+‏~10 Iskander-K cruise missiles launched from OTRK installations in northern Kursk Oblast.
+‏
+‏~6 Iskander-M/S-400 ballistic missiles launched from OTRK installations near Pochep, Bryansk Oblast.
+‏
+‏~6 Zircon hypersonic cruise missiles launched from ground-based installations in western Crimea.
+‏
+‏~5 Kinzhal hypersonic aeroballistic missiles launched from 5 MiG-31K fighters at their launch lines over eastern Tambov Oblast.
+‏
+‏~4 Iskander-M/S-400 ballistic missiles launched from OTRK installations in northern Kursk Oblast.
+‏
+‏~2 Iskander-M/S-400 ballistic missiles launched from OTRK installation(s) near Liski, Voronezh Oblast.
+‏
+‏~2 Iskander-M/S-400 ballistic missiles launched from OTRK installation(s) in Crimea.
+‏
+‏~2 Oreshnik Intermediate-range ballistic missiles launched from the Kapustin Yar Testing Ground, Astrakhan Oblast.
+‏
+‏-----------------------
+‏
+‏Total missiles launched:
+‏
+‏~30 Iskander-K cruise missiles
+‏~30 Iskander-M/S-400 ballistic missiles
+‏~20 Kh-101 cruise missiles
+‏~18 Kalibr cruise missiles
+‏~6 Zircon hypersonic cruise missiles
+‏~5 Kinzhal hypersonic aeroballistic missiles
+‏~2 Oreshnik Intermediate-range ballistic missiles
+‏
+‏~111 missiles in total.
+‏
+‏-----------------------
+‏
+‏Ukrainian air defence work:
+‏
+‏As of the time of writing, it appears that Ukrainian air defence was able to intercept at least 8 Kalibrs, 6 Iskander-M/S-400s, 5 Kh-101s, and 5 Iskander-Ks (minimum 24 interceptions in total).
+‏
+‏-----------------------
+‏
+‏The main targets for this strike was Ukrainian defence industries in Kyiv. The following was targeted:
+‏
+‏- "Artem" Defence Plant in Kyiv (50.46181, 30.48462)
+‏
+‏- Podilskyi District SBU Office in Kyiv (50.46565, 30.51485).
+‏
+‏- Something at/near the ship Repair depot in Kyiv (50.48148, 30.51604).
+‏
+‏- Former "Radical" chemical plant in Kyiv (50.45474, 30.65312).
+‏
+‏- Multiple targets at the Darnytsky Industrial Zone in Kyiv (50.42763, 30.69182).
+‏
+‏- "Analitprylad" Plant in Kyiv (50.45175, 30.42651).
+‏
+‏- Former "Rele i Avtomatyky" Plant in Kyiv (50.44858, 30.42187).
+‏
+‏- "Lagoda" Business Park" in Kyiv (50.4444, 30.4529).
+‏
+‏- "ATB" warehouse in Sviatopetrivske, Kyiv Oblast (50.38514, 30.29535).
+‏
+‏- "Chaika" logistics company warehouse in Chaiky, Kyiv Oblast (50.44001, 30.30379).
+‏
+‏- Starokostyantyniv Airbase, Khmelnytskyi Oblast (50.42763, 30.69182).
+‏
+‏- Unknown target near Kropyvnytskyi, Kirovohrad Oblast (possibly Kanatove Airbase).
+‏
+‏- Unknown target in southern Zhytomyr Oblast.
+‏
+‏- Unknown target in Bila Tserkva, Kyiv Oblast.
+‏
+‏- Unknown target near Mayaky, Odesa Oblast.
+‏
+‏- Unknown target in northwestern Poltava Oblast.
+‏
+‏- Unknown target south of Dnipro. 
+‏
+‏-----------------------
+‏
+‏Keep in mind, the numbers of missiles launched may be slightly higher than what I've listed, as the number of missiles detected is sometimes lower than actual launches.
+16:23
+1405/03/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 ترامپ پشت سر هم از چین و شی جین‌پینگ تمجید کرد
+‏
+‏دونالد ترامپ در چند پست متوالی بار دیگر از چین و شی جین‌پینگ تمجید کرد و نوشت رابطه بسیار خوبی با رئیس‌جمهور چین دارد.
+‏او همچنین مدعی شد چین و شی جین‌پینگ هم علاقه و احترام زیادی نسبت به او دارند. این اظهارات در حالی مطرح میشود که همزمان مذاکرات و تنش‌های آمریکا با ایران، تجارت جهانی و رقابت واشنگتن و پکن در مرکز توجه قرار گرفته است.
+‏ترامپ طی هفته‌های اخیر بارها از تماس‌ها و گفت‌وگوهای خود با شی جین‌پینگ صحبت کرده و گفته چین در برخی مسائل منطقه‌ای نقش مثبتی ایفا کرده است.
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+16:22
+1405/03/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 ترامپ تصویری جعلی از «عکس بازداشت» اوباما منتشر کرد
+‏
+‏دونالد ترامپ تصویری جعلی شبیه «ماگ‌شات» یا عکس بازداشت باراک اوباما را در شبکه‌های اجتماعی منتشر کرد.
+‏این تصویر که به نظر میرسد به صورت دیجیتالی ساخته شده، به سرعت در فضای مجازی واکنش‌های گسترده‌ای ایجاد کرد. منتقدان ترامپ این اقدام را بخشی از حملات سیاسی و رسانه‌ای او علیه رقبای دموکرات توصیف کرده‌اند.
+‏ترامپ پیشتر نیز بارها از تصاویر، ویدیوها و محتوای جنجالی در شبکه‌های اجتماعی برای حمله به مخالفان سیاسی خود استفاده کرده است.
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+16:22
+1405/03/03
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴پست جدید ترامپ
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+16:22
+1405/03/03
+
+
+
+
 src :@rnintel
-‏🇺🇸🇮🇷⚡- BREAKING: The US-Iran memorandum of understanding, as per Axios:  - 60-day ceasefire extension.  - No Iranian tolls on the Strait of Hormuz.  - Iran will clear all mines and lift its blockade first. The US will end its blockade once Iran meets these…
+‏🇺🇸🇮🇷⚡- BREAKING: The US-Iran memorandum of understanding, as per Axios:  - 60-day ceasefire extension.  - NO Iranian tolls on the Strait of Hormuz.  - Iran will clear all mines and lift its blockade first. The US will end its blockade ONCE Iran meets these…
 16:20
 1405/03/03
 
@@ -80,9 +258,9 @@ src :@rnintel
 ‏
 ‏- 60-day ceasefire extension.
 ‏
-‏- No Iranian tolls on the Strait of Hormuz.
+‏- NO Iranian tolls on the Strait of Hormuz.
 ‏
-‏- Iran will clear all mines and lift its blockade first. The US will end its blockade once Iran meets these demands. 
+‏- Iran will clear all mines and lift its blockade first. The US will end its blockade ONCE Iran meets these demands. 
 ‏
 ‏- The US will issue some sanction waivers in relation to Iran's oil industry.
 ‏
@@ -94,7 +272,7 @@ src :@rnintel
 ‏
 ‏- US will NOT withdraw any forces from around Iran. US withdrawal will occur only after a final deal is reached at the end of the 60 days.
 ‏
-‏- The war between Hezbollah and Israel will end – Israel will be ALLOWED to take preemptive action to  prevent the rearming of Hezbollah, this will include airstrikes and drone strikes on Lebanon. "If Hezbollah behaves, Israel behaves."
+‏- The war between Hezbollah and Israel will end – Israel will be ALLOWED to take preemptive action to prevent the rearming of Hezbollah, this will include airstrikes and drone strikes on Lebanon. "If Hezbollah behaves, Israel behaves."
 16:20
 1405/03/03
 
@@ -231,7 +409,7 @@ src :@intelslava
 
 src :@naya_foriraq
 [عکس]
-‏🌟ترمب ينشر مجموعة من ساسة الحزب الديمقراطية يرتدون زي المساجين!
+‏🌟ترمب ينشر مجموعة من ساسة الحزب الديمقراطي يرتدون زي المساجين!
 16:10
 1405/03/03
 
@@ -2869,22 +3047,6 @@ src :@Mena_Live
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 نخست‌وزیر بریتانیا کیر استارمر:
-‏من پیشرفت‌ها را به سوی یک توافق بین ایالات متحده و ایران خوش‌آمد می‌گویم.
-‏ما باید توافقی را ببینیم که درگیری را به پایان برساند و تنگه هرمز را با آزادی ناوبری بدون قید و شرط و بدون محدودیت دوباره باز کند. حیاتی است که هرگز به ایران اجازه داده نشود تا سلاح هسته‌ای توسعه دهد.
-‏دولت من به انجام هر کاری که می‌توانیم برای محافظت از مردم بریتانیا از تأثیرات این درگیری ادامه خواهد داد.
-‏ما با شرکای بین‌المللی خود برای بهره‌برداری از این لحظه و دستیابی به یک حل و فصل دیپلماتیک بلندمدت همکاری خواهیم کرد.
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-13:13
-1405/03/03
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ چین با سرعتی فزاینده اقتصاد خود را به سمت آمادگی برای جنگ‌های پیشرفته فناوری هدایت می‌کند. بر اساس داده‌های بلومبرگ، در دوره حکومت شی جین‌پینگ تعداد شرکت‌های مرتبط با برنامه موشکی چین از ۳۲ در سال ۲۰۱۳ به ۸۱ در سال ۲۰۲۵ افزایش یافته است. در واقع، پکن بیش از دو برابر پایه صنعتی تولید تسلیحات موشکی را گسترش داده است. در این میان، دیگر فقط غول‌های دفاعی دولتی CASIC و CASC مطرح نیستند، بلکه بخش گسترده‌ای از بخش غیرنظامی، تولیدکنندگان میکروالکترونیک، سیستم‌های هوش مصنوعی، اپتیک، کامپوزیت‌ها، ناوبری، پوشش‌های جذب‌کننده امواج رادیویی و قطعات دقیق نیز درگیر شده‌اند.
@@ -3085,37 +3247,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 12:35
-1405/03/03
-
-
-
-
-src :@World_Newsly
-‏🔴 رویترز به نقل از مقام ایرانی: تهران با خروج ذخایر اورانیوم غنی‌شده موافقت نکرده است
-‏
-‏رویترز به نقل از یک مقام ایرانی گزارش داد تهران تاکنون با انتقال ذخایر اورانیوم غنی‌شده خود به خارج از کشور موافقت نکرده است.
-‏طبق این گزارش، موضوع هسته‌ای هنوز بخشی از توافق اولیه فعلی میان ایران و آمریکا نیست و قرار است در مراحل بعدی مذاکرات درباره آن تصمیم‌گیری شود. این مقام ایرانی گفته اختلاف بر سر سرنوشت ذخایر اورانیوم غنی‌شده همچنان یکی از اصلی‌ترین موانع در مسیر توافق نهایی است.
-‏در روزهای اخیر گزارش‌های متناقضی درباره احتمال انتقال یا حفظ ذخایر اورانیوم ایران منتشر شده بود، اما منابع نزدیک به تهران تاکید دارند تصمیم نهایی درباره این موضوع هنوز گرفته نشده است.
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-12:34
-1405/03/03
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 پاشینیان: مسیر ریلی ترکیه برای صادرات و واردات ارمنستان باز شد
-‏
-‏نیکول پاشینیان، نخست‌وزیر ارمنستان، اعلام کرد پس از مسیر ریلی جمهوری آذربایجان، اکنون خط آهن ترکیه از طریق گرجستان نیز برای صادرات و واردات ارمنستان باز شده است.
-‏او این تحول را «پیشرفت مهمی» برای اقتصاد ارمنستان توصیف کرد و از همکاری ترکیه و گرجستان در این پروژه قدردانی کرد.
-‏باز شدن این مسیر ریلی میتواند نقش مهمی در تجارت منطقه‌ای، کاهش هزینه حمل‌ونقل و افزایش ارتباط اقتصادی ارمنستان با کشورهای همسایه داشته باشد؛ به‌ویژه در شرایطی که روابط ایروان با آنکارا و باکو طی سال‌های اخیر وارد مرحله تازه‌ای شده است.
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-12:34
 1405/03/03
 
 
@@ -3372,16 +3503,6 @@ src :@WAR_ROOM_NEWS
 src :@ClashReport
 ‏Russia's MoD says it carried out a retaliatory strike on Ukrainian military and industrial targets using Oreshnik, Iskander, Kinzhal, and Zircon missiles.
 12:06
-1405/03/03
-
-
-
-
-src :@ClashReport
-‏NEW: Iranian source tells Tasnim News that disagreements over one or two clauses of a potential memorandum of understanding with the US remain unresolved, accusing Washington of "creating obstacles."
-‏
-‏Iran has informed Pakistani mediators that if the US continues blocking progress, the agreement cannot be finalized.
-12:04
 1405/03/03
 
 
@@ -4077,14 +4198,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@naya_foriraq
-‏🔹 في هذه الأثناء تزور صواريخ كنجال الفرط صوتية الروسية مدينة كييف   الهجوم الروسي يندرج ضمن رد موسكو على الهجوم على بناية سكنية للطلاب في جمهورية لوغانسك التابعة لروسيا.
-10:10
-1405/03/03
-
-
-
-
 src :@didarnews1
 ‏🔴تسنیم: اسقاط تحریم‌های نفتی ایران در طول دوره مذاکره از بندهای تفاهم احتمالی است
 ‏
@@ -4484,23 +4597,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 08:34
-1405/03/03
-
-
-
-
-src :@didarnews1
-‏🔴روزنامه شرق: وقتی اینترنت را محدود می‌کنید این پیام را به دشمن می‌دهید که کشور ما در بحران است
-‏
-‏شرق نوشت:
-‏🔹حامیان محدودیت‌ها بارها و بارها رقبای سیاسی خود را به دلیل بیان نظراتشان درباره موضوعاتی چون ضرورت مذاکره، ضرورت تعامل مثبت با جهان و ضرورت جلوگیری از گسترش آتش جنگ به «ارسال پیام ضعف و تسلیم» به دشمنان متهم کرده‌اند؛ درحالی‌که اتفاقا ایجاد محدودیت بر سر راه دسترسی شهروندان به فضای مجازی پیام پرمعنی‌تری ارسال می‌کند.
-‏🔹زیرا چنین محدودیتی دشمنان را به این باور غلط می‌رساند که کشور چنان درگیر بحران است که اگر شهروندان به فضای مجازی دسترسی داشته‌ باشند و اخبار و اطلاعات را از مسیری غیر از رسانه‌های رسمی دریافت کنند، سر به شورش برخواهند داشت.
-‏🔹به‌راستی چگونه است که اینان سخن‌گفتن از مذاکره را ارسال پیام ضعف می‌دانند، اما قطع اینترنت را نشان اقتدار حکومت می‌خوانند؟
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:33
 1405/03/03
 
 
@@ -5000,16 +5096,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 02:25
-1405/03/03
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸- The lockdown at the White House has been lifted.
-‏
-‏@GeoPWatch
-02:22
 1405/03/03
 
 
@@ -6690,15 +6776,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 16:27
-1405/03/02
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏عاصم منیر فرمانده ارتش پاکستان پس از دیدار مجدد با عراقچی ایران را ترک کرده است.
-‏
-‏به نظر آخرین گفتگو‌های غیر مستقیم ایران و آمریکا انجام شده است و اکنون نوبت گرفتن تصمیم برای دو طرف است
-16:26
 1405/03/02
