@@ -1,3 +1,26 @@
+src :@P_raetorio
+‏گزارشات تأییدنشده از فعالیت جنگنده‌های ناشناس برفراز بغداد 
+‏
+‏
+‏#خبر 
+‏
+‏@P_raetorio
+01:45
+1405/03/04
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸🇮🇱🇮🇶- Unconfirmed reports of fighter jet activity over Baghdad, Iraq.
+‏
+‏@GeoPWatch
+01:43
+1405/03/04
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏⭕️اکنون یک هواپیمای هواشناسی و کنترل هوایی (AWACS) بوئینگ E-3 سنتری نیروی هوایی ایالات متحده نیز بر فراز خلیج فارس در حال عملیات است.
@@ -1893,24 +1916,6 @@ src :@GeoPWatch
 
 src :@World_Newsly
 [عکس]
-‏🔴 آکسیوس:
-‏
-‏🔹ترامپ از چندین رهبر مسلمان و عرب خواست تا در صورت پایان یافتن جنگ ایران با یک توافق، به توافقنامه‌های ابراهیم با اسرائیل بپیوندند.
-‏
-‏🔹این تلاش عمدتاً به منظور تضمین توافق عادی‌سازی بین عربستان سعودی و اسرائیل است، اگرچه موانع سیاسی عمده‌ای همچنان باقی است.
-‏
-‏🔹گزارش شده است که رهبران حاضر در تماس با تعجب و سکوت واکنش نشان دادند، به ویژه عربستان سعودی، قطر و پاکستان که اسرائیل را به رسمیت نمی‌شناسند.
-‏
-‏✍🏻 Master
-‏▪️@World_Newsly
-23:08
-1405/03/03
-
-
-
-
-src :@World_Newsly
-[عکس]
 ‏🔴 واکنش پسر ترامپ به منتقدان توافق
 ‏
 ‏دونالد ترامپ جونیور در اکس نوشت:
@@ -2948,21 +2953,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏If I make a deal with Iran, it will be a good and proper one, not like the one made by Obama, which gave Iran massive amounts of CASH, and a clear and open path to a Nuclear Weapon. 
-‏
-‏Our deal is the exact opposite, but nobody has seen it, or knows what it is. It isn’t even fully negotiated yet. So don’t listen to the losers, who are critical about something they know nothing about. 
-‏
-‏Unlike those before me who should have solved this problem many years ago, I don’t make bad deals!
-21:50
-1405/03/03
-
-
-
-
 src :@jangaavaran1390
 ‏یک مقام ارشد آمریکایی به اکسیوس گفت:
 ‏
@@ -3228,20 +3218,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:15
-1405/03/03
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏وزارت آموزش‌وپرورش اخبار منتشرشده درباره مجازی شدن امتحانات نهایی را تکذیب و اعلام کرد تاکنون هیچ تصمیمی برای برگزاری مجازی امتحانات نهایی پایه‌های یازدهم و دوازدهم گرفته نشده است.
-‏
-‏وزارت آموزش‌وپرورش اعلام کرد تا تیرماه برای فراهم شدن شرایط برگزاری امتحانات نهایی صبر می‌شود و در صورت فراهم شدن امکان برگزاری حضوری، آزمون‌های نهایی مطابق روال معمول به شکل حضوری برگزار خواهد شد.
-‏
-‏در روزهای اخیر، دانش‌آموزان در چندین شهر به برگزاری حضوری امتحانات اعتراض کردند.
-‏https://iranintl.com/202605241771
-21:13
 1405/03/03
 
 
@@ -3798,14 +3774,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 20:08
-1405/03/03
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷🇺🇸🇵🇰- According to an informed source cited by Tasnim News Agency, Iran has made the release of a specific portion of its frozen assets a firm precondition for any agreement, with a clear and guaranteed mechanism for the release of all remaining assets also…
-20:03
 1405/03/03
 
 
@@ -7127,21 +7095,4 @@ src :@MilitiaNews
 ‏
 ‏@P_raetorio
 01:47
-1405/03/03
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Sat, 23 May 2026 22:14:55 UTC
-‏
-‏Shots fired outside of the White House
-‏
-‏فارسی
-‏
-‏شلیک گلوله در بیرون از کاخ سفید
-‏
-‏𝕏  ·  @shin_persian
-01:45
 1405/03/03
