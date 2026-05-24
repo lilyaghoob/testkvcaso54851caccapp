@@ -1,3 +1,38 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸🇺🇸- There are 3 KC-46A Pegasus and 2 KC-135R Stratotanker refueling aircraft currently operating in CENTCOM's area of responsibility, with 2 of the KC-46A Pegasus aircraft in the airspace over the Persian Gulf.
+01:14
+1405/03/04
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 درخواست رسمی کاخ سفید از نمایندگان کنگره برای حمایت از توافق ترامپ / اندرو دسیدریو، خبرنگار ویژه کنگره:
+‏
+‏«کاخ سفید از قانون‌گذاران جمهوری‌خواه خواست که آخر این هفته در حمایت از توافق در حال شکل‌گیری با ایران توییت کنند. برخی این کار را انجام دادند، اما به گفته یکی از دستیاران ارشد جمهوری‌خواه، برخی دیگر از بازگشت از تعطیلات کنگره واهمه دارند، چون باید از این توافق دفاع کنند.»
+‏ 
+‏🆔 @Americana_ir
+01:13
+1405/03/04
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸🇮🇷 US intelligence believes Iranian Supreme Leader Khamenei is isolated in a secret location with no outside contact.
+‏
+‏"Even officials at the highest levels of the Iranian government don't know where he is and have no way to contact him directly," CBS reports.
+‏
+‏@BRICSNews
+01:12
+1405/03/04
+
+
+
+
 src :@Mena_Live
 [عکس]
 ‏Israeli Channel 11: Israeli Fighters turned to fishermen in the past week in search of fishing nets for defense against the drone threat in Lebanon.
@@ -33,7 +68,7 @@ src :@cataphract1
 ‏
 ‏⚜می‌توان گفت از زمان انتشار اخبار مذاکرات و توافق احتمالی ، هیچ تغییر معناداری (نه افزایش و نه کاهش) در روند بلید آپ آمریکایی‌ها مشاهده نشده‌است و وضعیت عمدتاً ثابت و با روال قبلی ادامه دارد. 
 ‏
-‏⚜تانکرهای مستقر در سنتکام عملیات دفاعی و آموزشی خود را ادامه می‌دهند و تانکرهای اروپایی بیشتر برای تمرین محلی یا حمل و نقل محدود استفاده می‌شوند. هیچ افزایش یا کاهش قابل توجهی گزارش نشده است.  
+‏⚜تانکرهای مستقر در سنتکام عملیات دفاعی و آموزشی خود را ادامه می‌دهند و تانکرها و بمب افکن های مستقر در اروپا نیز بیشتر برای تمرین محلی یا حمل و نقل محدود استفاده می‌شوند. هیچ افزایش یا کاهش قابل توجهی گزارش نشده است.  
 ‏ 
 ‏📃@Cataphract1
 01:09
@@ -3784,17 +3819,6 @@ src :@thewarreporter
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇱❌🇮🇷- IDF Chief of Staff Zamir stated that the IDF is closely monitoring regional developments surrounding the emerging US-Iran deal, adding that it remains "ready to return to intense combat immediately" to further degrade Iranian capabilities. He stressed that the IDF will maintain full readiness and flexibility for as long as necessary.
-‏
-‏@GeoPWatch
-19:49
-1405/03/03
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏ ‏
@@ -4861,23 +4885,6 @@ src :@VahidOnline
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏The negotiations are proceeding in an orderly and constructive manner, and I have informed my representatives not to rush into a deal in that time is on our side. 
-‏
-‏The Blockade will remain in full force and effect until an agreement is reached, certified, and signed. Both sides must take their time and get it right. There can be no mistakes! 
-‏
-‏Our relationship with Iran is becoming a much more professional and productive one. They must understand, however, that they cannot develop or procure a Nuclear Weapon or Bomb. 
-‏
-‏I would like to thank, thus far, all of the countries of the Middle East for their support and cooperation, which will be further enhanced and strengthened by their joining the Nations of the historic Abraham Accords and, who knows, perhaps the Islamic Republic of Iran would like to join, as well!
-17:49
-1405/03/03
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says he told US negotiators not to rush into a deal with Iran.
 ‏
@@ -5459,16 +5466,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 16:04
-1405/03/03
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇮🇱 Iranian army shoots down Israeli spy drone over Hormozgan province.
-‏
-‏@BRICSNews
-16:02
 1405/03/03
 
 
