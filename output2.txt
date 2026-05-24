@@ -1,3 +1,11 @@
+src :@tabzlive
+‏🇺🇦🇷🇺⚡️ — Current scenes in Kyiv, Ukraine.
+05:48
+1405/03/03
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇵🇰🇮🇷🇺🇸⚡️ — Pakistan's Prime Minister Shehbaz Sharif:
@@ -341,14 +349,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇺🇸⚡️ — Secret Service says the 21-year-old suspect in the shooting near the White House has died from the returning fire.  Law enforcement officials told CNN that the suspected shooter near the White House was already known to the Secret Service and had previously…
-04:23
-1405/03/03
-
-
-
-
 src :@wfwitness
 ‏⚡️🇺🇸 U.S. Secret Service says White House shooting suspect has died:  Shortly after 6:00 p.m. Saturday, an individual approached a Secret Service checkpoint in the area of 17th Street and Pennsylvania Avenue NW.   A preliminary investigation indicates that…
 04:22
@@ -364,19 +364,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 04:22
-1405/03/03
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏در پی اعتراضات دانش‌آموزی به برگزاری امتحانات به صورت حضوری، سعید شاهرخی، استاندار لرستان، با اشاره ‌به شرایط کنونی و با تاکید بر حفظ امنیت در استان، دستور داد امتحانات پایه‌های هفتم تا دهم غیرحضوری برگزار شود. 
-‏شورای هماهنگی تشکل‌های صنفی فرهنگیان ایران به نقل از مدیرکل آموزش‌وپرورش لرستان اعلام کرد اعتراض دانش‌آموزان این استان نتیجه داد و امتحانات نوبت دوم در لرستان به‌صورت مجازی برگزار می‌شود. 
-‏طبق این گزارش مدیرکل آموزش‌وپرورش لرستان در جمع دانش‌آموزان گفت: «صدای اعتراضات شما را شنیدیم» و آزمون‌ها غیرحضوری خواهد بود.
-‏
-‏https://iranintl.com/202605249059
-04:21
 1405/03/03
 
 
@@ -1157,6 +1144,16 @@ src :@GeoPWatch
 
 
 
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: تهدید پزشکیان به استعفا
+‏@iranintlTV
+02:01
+1405/03/03
+
+
+
+
 src :@Shin_Persian
 [عکس]
 ‏Faytuks Network ✓ @FaytuksNetwork
@@ -1780,14 +1777,6 @@ src :@Indypersian
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US President Trump:  "An agreement has been largely negotiated, subject to finalization between the USA, Iran, and the various other countries, as listed".  @TheWarReporter
-01:10
-1405/03/03
-
-
-
-
 src :@naya_foriraq
 ‏🇺🇸🇷🇺على غرار التحذير من العراق   السفارة الأمريكية في أوكرانيا تنشر معلوماتٍ بشأن هجوم جوي محتمل كبير وتوصي السفارة، كعادتها، المواطنين الأمريكيين بالاستعداد للاحتماء فورًا في حال صدور إنذار جوي.
 01:09
@@ -2124,28 +2113,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US President Trump has informed his aides that he reserves the right to resume bombing Iran if Tehran 'fails to comply with the framework agreement'.
-‏
-‏— The Wall Street Journal | @TheWarReporter
-00:49
-1405/03/03
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — An Israeli official told Channel 12: 
-‏
-‏"Witkoff is trying to reach an agreement at any cost and is exerting enormous pressure on Trump not to resume the war".
-‏
-‏@TheWarReporter
-00:47
-1405/03/03
-
-
-
-
 src :@Mena_Live
 ‏Complete chaos in Israeli media channels 
 ‏
@@ -2382,19 +2349,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 00:36
-1405/03/03
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇷 — US President Trump:
-‏
-‏"An agreement has been largely negotiated, subject to finalization between the USA, Iran, and the various other countries, as listed".
-‏
-‏@TheWarReporter
-00:35
 1405/03/03
 
 
@@ -3768,17 +3722,6 @@ src :@cataphract1
 
 
 
-src :@thewarreporter
-[عکس]
-‏🇦🇿🇮🇷 — The Azerbaijani Foreign Ministry says Ramil Imranov, a consul at the Azerbaijani Consulate General in Tabriz, was killed in a car accident in Iran 'while carrying out official duties'.  
-‏
-‏@TheWarReporter
-22:40
-1405/03/02
-
-
-
-
 src :@naya_foriraq
 ‏📰‏FOX NEWS: محادثة ترمب مع قادة الدول العربية كانت "إيجابية جدا"
 22:39
@@ -3903,14 +3846,6 @@ src :@Mena_Live
 
 
 
-src :@intelslava
-‏🇺🇸🇷🇺🇺🇦The US Embassy in Ukraine warns about a possible strike across the entire country within the next 24 hours.  Earlier, Zelensky announced that Russia is preparing a strike called "Orekhnik" against Ukraine.  @Intelslava
-22:26
-1405/03/02
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏👑⭕️ شاهزاده رضا پهلوی در پیامی در حساب کاربری خود در شبکهٔ ایکس، از دیدار و گفت‌وگوی خود با جاش گاتهایمر، نمایندهٔ کنگره آمریکا، خبر دادند. ایشان با قدردانی از مواضع این نماینده دربارهٔ ایران، تأکید کردند در این دیدار دربارهٔ اهمیت حمایت دوحزبی از مردم ایران گفت‌وگو شده است.
@@ -4014,14 +3949,6 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 22:22
-1405/03/02
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇵🇰🇹🇷🇸🇦🇪🇬🇦🇪🇶🇦🇮🇷 — A source told Axios:  "Trump made a call to the leaders of Pakistan, Turkey, Saudi Arabia, Egypt, the UAE, and Qatar.  A number of leaders urged Trump during the call to accept the agreement".  @TheWarReporter
-22:20
 1405/03/02
 
 
@@ -4159,26 +4086,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — A U.S. official told Axios: 
-‏
-‏"Trump has not yet made a final decision on the agreement with Iran".
-‏
-‏@TheWarReporter
-22:01
-1405/03/02
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇵🇰🇹🇷🇸🇦🇪🇬🇦🇪🇶🇦 — US President Trump will hold a call today with the leaders of Pakistan, Turkey, Saudi Arabia, Egypt, the UAE, and Qatar.  — Reuters | @TheWarReporter
-22:00
-1405/03/02
-
-
-
-
 src :@didarnews1
 ‏🔴اکسیوس:
 ‏
@@ -4200,16 +4107,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 21:59
-1405/03/02
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — The Trump administration and Iran are close to a deal to end the war, with remaining gaps focused on the wording of several points.
-‏
-‏— Axios | @TheWarReporter
-21:58
 1405/03/02
 
 
@@ -4589,18 +4486,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — US President Trump told Israeli Channel 12: 
-‏
-‏"I won't sign an agreement if it's not good for Israel".
-‏
-‏@TheWarReporter
-21:15
-1405/03/02
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇺🇸📞🇮🇷 — US President Trump told Barak Ravid in a phone call that he's "50:50" when it comes to a deal with Iran or resuming the war.
@@ -4887,18 +4772,6 @@ src :@bricsnews
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — The IDF is on high alert in anticipation of a possible collapse of talks and the resumption of fighting.
-‏
-‏The military expressed concerns about key provisions, including the failure to halt Iran's uranium enrichment and Tehran's continued development of missiles. 
-‏
-‏— Israeli Channel 13 | @TheWarReporter
-20:48
-1405/03/02
-
-
-
-
 src :@jangaavaran1390
 ‏به گزارش اکسیوس، انتظار می‌رود رئیس جمهور ترامپ ساعت ۱ بعد از ظهر به وقت شرق آمریکا، یک کنفرانس تلفنی با رهبران کشورهای خلیج فارس برگزار کند تا درباره ایران گفتگو کند.
 20:48
@@ -4941,32 +4814,9 @@ src :@BellumActaNews
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷🇵🇰 — A Pakistani official told Reuters: 
-‏
-‏"Final touches are being made to a memorandum of understanding to end the war between the US and Iran".
-‏
-‏@TheWarReporter
-20:46
-1405/03/02
-
-
-
-
 src :@jangaavaran1390
 ‏یک منبع نزدیک به تیم مذاکره‌کننده به خبرگزاری فارس گفت که مذاکرات بین ایران و آمریکا ممکن است فروپاشی کند مگر اینکه واشنگتن انعطاف‌پذیری بیشتری نشان دهد، با وجود ادعاهایی که آمریکایی‌ها قبلاً از برخی مواضع قبلی خود عقب‌نشینی کرده‌اند.
 20:46
-1405/03/02
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇹🇷 -
-‏
-‏@TheWarReporter
-20:44
 1405/03/02
 
 
@@ -5012,18 +4862,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 20:31
-1405/03/02
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — Israeli officials told Axios:
-‏
-‏"PM Netanyahu is highly concerned about the deal under discussion and has urged Trump to launch another round of strikes".
-‏
-‏@TheWarReporter
-20:29
 1405/03/02
 
 
@@ -5082,16 +4920,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 20:08
-1405/03/02
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇵🇰🇹🇷🇸🇦🇪🇬🇦🇪🇶🇦 — US President Trump will hold a call today with the leaders of Pakistan, Turkey, Saudi Arabia, Egypt, the UAE, and Qatar.
-‏
-‏— Reuters | @TheWarReporter
-20:07
 1405/03/02
 
 
@@ -5510,30 +5338,6 @@ src :@didarnews1
 
 
 
-src :@thewarreporter
-‏🇮🇱🇱🇧🇱🇧 — The IDF has informed residents in northern Israel of its intention to launch raids across the southern Lebanon frontline in the coming hours.
-‏
-‏— Israeli Channel 12 | @TheWarReporter
-19:14
-1405/03/02
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US President Trump told Axios that it is a 'solid 50/50' whether the U.S. reaches a deal with Iran or resumes the war.
-‏
-‏"Either I hit them harder than they have ever been hit, or we are going to sign a deal that is good," Trump said.
-‏
-‏Trump is expected to meet Steve Witkoff and Jared Kushner on Saturday to review Iran's latest proposal, with a decision expected by Sunday.  
-‏
-‏@TheWarReporter
-19:11
-1405/03/02
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏مارکو روبیو، وزیر خارجه آمریکا، با اشاره به روند مذاکرات با ایران گفت دونالد ترامپ ترجیح می‌دهد بحران کنونی از طریق دیپلماسی و مذاکره حل شود، اما رییس‌جمهوری آمریکا به روشنی اعلام کرده است که این مساله «به هر شکل ممکن» حل خواهد شد.
@@ -5730,18 +5534,6 @@ src :@rus_cosmos
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US Secretary of State Marco Rubio:
-‏
-‏"There may be news later today. There may not be. I hope there will be. I'm not sure yet".
-‏
-‏@TheWarReporter
-18:22
-1405/03/02
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 آمریکا در انتظار رکود اقتصادی ناشی از شوک نفتی
@@ -5878,20 +5670,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 17:34
-1405/03/02
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — Iranian Foreign Ministry Spokesman Esmail Baghaei:
-‏
-‏"We are both very far from and very close to an agreement.
-‏
-‏The views have become closer, but not to the point of an agreement — rather, to the point where we may be able to reach a solution".
-‏
-‏@TheWarReporter
-17:27
 1405/03/02
 
 
