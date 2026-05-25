@@ -683,19 +683,6 @@ src :@Mena_Live
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧🇷🇺⚡️ — A Royal Air Force aircraft carrying British Defence Secretary John Healey was targeted by an electronic warfare attack after flying near the border with Russia earlier this week, according to The Times.
-‏
-‏➡️ The aircraft’s GPS and satellite signals were jammed for the duration of the roughly three-hour return flight after Healey visited British troops in southeastern Estonia.
-‏
-‏➡️ Russia is believed to have been responsible for the interference, forcing the pilots to rely on alternative navigation systems during the flight.
-02:53
-1405/03/04
-
-
-
-
 src :@wfwitness
 ‏⚡️🇬🇧🇷🇺 BBC: An RAF jet carrying British Defence Secretary John Healey had its GPS signal jammed while flying near the Russian border after a visit to Estonia. 
 ‏
@@ -807,19 +794,6 @@ src :@BellumActaNews
 ‏🇷🇺 It is thought Russia was behind the incident on Thursday.
 ‏
 ‏@BellumActaNews
-02:30
-1405/03/04
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇷🇸⚡️ — Serbia's President Aleksandar Vučić said that he could resign in the near future, though no formal resignation has been submitted.
-‏
-‏Vučić said his political term was approaching its end but insisted he would not leave office in the same manner as former Serbian president Boris Tadić.
-‏
-‏He dismissed the recent demonstrations at Slavija Square in Belgrade as lacking substance and significance, calling it "empty."
 02:30
 1405/03/04
 
