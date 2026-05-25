@@ -1,3 +1,28 @@
+src :@didarnews1
+‏🔴رویترز:
+‏
+‏🔹 ۲ کشتی حامل نفت و گاز طبیعی، تنگه هرمز را به مقصد پاکستان و چین از طریق مسیری که ایران به کشتی‌ها دستور داده بود، ترک کردند
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+09:11
+1405/03/04
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+09:07
+1405/03/04
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️به گزارش روزنامه تایمز، یک هواپیمای نیروی هوایی سلطنتی حامل جان هیلی، وزیر دفاع بریتانیا، پس از پرواز در نزدیکی مرز روسیه در اوایل این هفته، هدف حمله جنگ الکترونیکی قرار گرفت.
 ‏
@@ -848,24 +873,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏سناتور کریس مورفی، نماینده دموکرات مجلس سنای آمریکا، اعلام کرد اگر توافق با تهران واقعی باشد، از آن استقبال می‌کند. 
-‏
-‏او در شبکه اجتماعی ایکس عنوان کرد که با ادامه جنگ، «آمریکا ضعیف‌تر می‌شود» و نوشت: «پایان دادن به جنگ دراولویت است.» 
-‏
-‏مورفی با اشاره به گزارش‌های منتشر شده در مورد مفاد توافق احتمالی افزود: «ما میلیاردها دلار به ایران می‌دهیم تا به جایی که قبل از جنگ بودیم برگردیم. و گزارش‌ها حاکی از آن است که این توافق ممکن است حق ایران برای کنترل تنگه هرمز را تثبیت کند.» 
-‏
-‏او در مورد پرونده هسته‌ای جمهوری اسلامی نیز احتمال داد که تهران «تمام مسائل هسته‌ای را به تعویق می‌اندازد» و در خصوص احتمال لغو تحریم‌ها هم اضافه کرد که در این صورت،‌ «اهرم کمتری برای وادار کردن آن‌ها [جمهوری اسلامی] به دادن امتیاز بیشتر در مذاکرات آینده داریم.»
-‏
-‏مورفی برخلاف سخنان دونالد ترامپ، رییس‌جمهوری آمریکا، در مورد نابودی توان نظامی جمهوری اسلامی، افزود: «ایران هنوز برنامه موشک‌های بالستیک و پهپاد خود را دارد. آنها هنوز نیروی دریایی دارند که می‌تواند تنگه هرمز را ببندد. یک رژیم تندرو هنوز در راس امور است.»
-‏https://iranintl.com/20
-04:54
-1405/03/04
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇷⚡️ — Satellite imagery dated May 24 of the underground missile facility in Larestan, Iran, shows the site’s main entrance fully cleared and without visible structural damage.
@@ -1502,19 +1509,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 01:19
-1405/03/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israeli "settlers" cut down more than 40 olive trees east of Salfit in the northern West Bank.
-‏
-‏Five days earlier, settlers vandalized and destroyed gravestones at a cemetery serving the villages of Kisan and Rashaydeh east of Bethlehem, including stones dating to the British Mandate period.
-‏
-‏Settlers also reportedly tried to prevent residents from burying a child before the vandalism took place.
-01:18
 1405/03/04
 
 
@@ -5719,19 +5713,6 @@ src :@rus_cosmos
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴پست جدید ترامپ
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-16:22
-1405/03/03
-
-
-
-
 src :@Shin_Persian
 ‏↩️ Quoted tweet:
 ‏Faytuks Network ✓ @FaytuksNetwork
@@ -7087,15 +7068,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 09:23
-1405/03/03
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ تصویری دیگری از پیشرفت های سازه ناو هواپیمابر Type-004 در 4 می 2026
-‏
-‏@Guard_Warriors | Mmd
-09:09
 1405/03/03
