@@ -1,3 +1,68 @@
+src :@ClashReport
+‏Several explosions were heard in Bandar Abbas and parts of the Persian Gulf, though the source remains unclear.
+‏
+‏Source: Fars
+00:09
+1405/03/05
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷 Loud explosions heard around the Strait of Hormuz, Iranian state media reports.
+‏
+‏@BRICSNews
+00:09
+1405/03/05
+
+
+
+
+src :@World_Newsly
+‏🔴 مهر: صدای انفجار در بندرعباس شنیده شد
+‏
+‏خبرگزاری مهر گزارش داد شامگاه دوشنبه صدای انفجار در شهر بندرعباس از سوی ساکنان محلی شنیده شده است.
+‏طبق این گزارش، ماهیت و علت این صداها هنوز مشخص نیست و تاکنون هیچ‌یک از نهادهای رسمی درباره منشا انفجار یا جزئیات احتمالی آن اظهارنظر نکرده‌اند.
+‏بندرعباس به دلیل موقعیت راهبردی و نزدیکی به تنگه هرمز، یکی از حساس‌ترین مناطق جنوب ایران محسوب میشود.
+‏
+‏✍🏻 Admin
+‏▪️@World_Newsly
+00:09
+1405/03/05
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸- Unconfirmed reports suggest a clash between the IRGC Navy and the U.S. Navy in the Gulf of Oman/Strait of Hormuz. Note: This is still unconfirmed.
+‏
+‏@GeoPWatch
+00:08
+1405/03/05
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷🇶🇦⚡️- The United States and Iran have reportedly reached an agreement in principle regarding frozen assets following Qatari mediation. - Al Jazeera.
+00:07
+1405/03/05
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏رسانه‌های ایران شامگاه دوشنبه از شنیده‌شدن صداهای انفجار در بندرعباس و همزمان در خلیج فارس حوالی سیریک و جاسک خبر دادند.
+‏
+‏معاون استاندار هرمزگان اعلام کرد منشا صدای انفجار در حال بررسی است.
+‏https://iranintl.com/202605254215
+00:06
+1405/03/05
+
+
+
+
 src :@mwarmonitor
 ‏💥صدای انفجارهایی در خلیج فارس در نزدیکی مقابلِ سیریک و جاسک شنیده شد.
 00:05
@@ -173,7 +238,7 @@ src :@Mena_Live
 
 
 src :@naya_foriraq
-‏⭐️الإعلام الإيراني: دوي انفجار في بندرعباس.
+‏⭐️الإعلام الإيراني: دوي انفجارات في بندرعباس.
 00:00
 1405/03/05
 
@@ -297,7 +362,7 @@ src :@Indypersian
 
 
 src :@naya_foriraq
-‏⭐️الإعلام الإيراني: دوي انفجار في بندرعباس.
+‏⭐️الإعلام الإيراني: دوي انفجارات في بندرعباس.
 23:58
 1405/03/04
 
@@ -2097,20 +2162,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[عکس]
-‏مسعود پزشکیان گفت در جریان جنگ ۱۲ روزه با علی خامنه‌ای دیدار داشته و او درباره چگونگی انجام مذاکره توضیح داده و قبول کرده که مذاکره انجام شود.
-‏پزشکیان افزود از بیان سخنی که خلاف جهت «رهبری» باشد اجتناب می‌کند، زیرا آن را «مصیبت بزرگی» می‌داند.
-‏او با بیان اینکه «وقتی تصمیمی گرفته می‌شود، باید یک‌صدا از سیستم بیرون بیاید» گفت: «من خیلی چیزها را دوست ندارم، اما وقتی تصمیم گرفته می‌شود، کوتاه می‌آیم.»
-‏پزشکیان همچنین تاکید کرد: «ما باید کاری کنیم که عزت برای زندگی همه، چه مذهبی و چه غیرمذهبی، تامین شود.»
-‏او افزود اگر بتواند معیشت و زندگی مردم را تامین کند، آمریکا و اسرائیل نمی‌توانند در داخل کشور «توطئه» کنند.
-‏https://iranintl.com/202605258464
-22:07
-1405/03/04
-
-
-
-
 src :@tabzlive
 ‏🇮🇱❌🇱🇧🇱🇧 — Israel Defense Forces: 
 ‏The IDF is striking Hezbollah infrastructure sites in the Beqaa Valley and additional areas across Lebanon.
@@ -2386,17 +2437,6 @@ src :@WAR_ROOM_NEWS
 src :@thewarreporter
 ‏🌲 — 🇱🇧⚠️ Large-scale displacement is currently being reported from the southern suburbs of Beirut.
 21:48
-1405/03/04
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇱❌🇱🇧🇱🇧- The Israeli Air Force has targeted the town of Machgharah in the western Beqaa Valley, Lebanon, with 6 consecutive airstrikes so far.
-‏
-‏@GeoPWatch
-21:47
 1405/03/04
 
 
@@ -3208,14 +3248,6 @@ src :@jangaavaran1390
 ‏
 ‏ایالات متحده سه گزینه در مورد ذخیره اورانیوم غنی‌شده ایران پیشنهاد داده است: فروش آن به آمریکا، انتقال آن به کشور ثالث یا رقیق‌سازی ماده، در حالی که گزارش شده ایران نیز ایده بازگشایی کامل تنگه هرمز تحت شرایط بدون قید و شرط که توسط رئیس‌جمهور ترامپ خواسته شده بود را رد کرده است.
 21:08
-1405/03/04
-
-
-
-
-src :@rnintel
-‏🇮🇷⚡️- Iran says it will not toll ships crossing the Strait of Hormuz, instead the IRGC will charge fees for ‘environmental protection’ in the waterway.
-21:06
 1405/03/04
 
 
@@ -4140,15 +4172,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 19:11
-1405/03/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump posts about “blowing shit up.”
-19:09
 1405/03/04
 
 
@@ -6613,17 +6636,4 @@ src :@RASTAKHIZ_PERSIAN
 src :@RASTAKHIZ_PERSIAN
 ‏RASTAKHIZ pinned Deleted message
 00:48
-1405/03/04
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷 NEW: Larestan missile base entrance has been repaired, the base is now back in operation
-‏
-‏This specific undergound complex is located in southern Iran near the Persian Gulf.  
-‏
-‏@Middle_East_Spectator
-00:06
 1405/03/04
