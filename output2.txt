@@ -1,3 +1,46 @@
+src :@P_raetorio
+‏#فوری
+‏«نیروهای آمریکا امروز در جنوب ایران حملات دفاعی انجام دادند تا از نیروهای خود در برابر تهدیدات شناسایی شده نیروهای ایرانی محافظت کنند.اهداف شامل لانچر‌های پرتاب موشک و قایق‌های تندرو ایرانی بودند که در تلاش برای کاشت مین بودند.سنتکام به دفاع از نیروهای خود ادامه می‌دهد و در حین آتش‌بس جاری، خویشتن‌داری را حفظ می‌کند.»
+‏
+‏-تیم هاوکینگز،سخنگوی سنتکام به فاکس نیوز
+‏
+‏@P_raetorio
+02:36
+1405/03/05
+
+
+
+
+src :@intelslava
+‏🇺🇸🇮🇷❗️BREAKING: CENTCOM: We carried out self-defense attacks in southern Iran on Monday.
+‏
+‏@IntelSlava
+02:35
+1405/03/05
+
+
+
+
+src :@cataphract1
+‏♨️ به گزارش فاکس نیوز آمریکا حملاتی را به جنوب ایران انجام داده است 
+‏
+‏📃@Cataphract1
+02:34
+1405/03/05
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 US military says it carried out self-defense strikes in southern Iran.
+‏
+‏@BRICSNews
+02:32
+1405/03/05
+
+
+
+
 src :@Shin_Persian
 ‏Jennifer Griffin ✓ @JenGriffinFNC
 ‏Mon, 25 May 2026 22:54:25 UTC
@@ -32,6 +75,14 @@ src :@Shin_Persian
 
 
 
+src :@naya_foriraq
+‏🇺🇸القيادة المركزية الأمريكية: ‏القوات الأمريكية تصيب أهدافاً تشمل إطلاق صواريخ و‏مواقع وسفن إيرانية تحاول زرع ألغام.
+02:32
+1405/03/05
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️سخنگوی سنتکام به فاکس نیوز:نیرو های آمریکایی در جنوب ایران حملات دفاعی انجام دادند تا از نیرو های خود در برابر تهدیدات نیرو های ایرانی محافظت کنند. اهداف شامل سایت‌ های پرتاب موشک و قایق‌ های ایرانی بودند که در تلاش برای کاشت مین بودند فرماندهی مرکزی آمریکا همچنان از نیرو های خود دفاع میکند و در عین حال در طول آتش‌ بس جاری ، خویشتن‌ داری به خرج میدهد
 ‏
@@ -55,7 +106,9 @@ src :@Middle_East_Spectator
 ‏
 ‏‘U.S. forces conducted self-defense strikes in southern Iran today to protect our troops from threats posed by Iranian forces. 
 ‏
-‏Targets included missile launch sites and Iranian boats attempting to emplace mines. U.S. Central Command continues to defend our forces while using restraint during the ongoing ceasefire’
+‏Targets included missile launch sites and Iranian boats attempting to emplace mines. 
+‏
+‏U.S. Central Command continues to defend our forces while using restraint during the ongoing ceasefire.’
 ‏
 ‏@Middle_East_Spectator
 02:28
@@ -3415,14 +3468,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@naya_foriraq
-‏🇮🇶 إبطال مفعول عبوة ناسفة في منطقة حزام بغداد بالعاصمة العراقية " جسر الرفرش " ؛ المنطقة نشطت بها خلايا عصابات داعش أعوام ٢٠١٣ - ٢٠١٦ .
-23:24
-1405/03/04
-
-
-
-
 src :@rnintel
 ‏🇱🇧🇮🇱⚡️- MANPAD missiles are being launched towards Israeli jets in southern Lebanon, according to local media.
 23:20
@@ -6525,17 +6570,6 @@ src :@Mena_Live
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇷 Iranian Parliament Speaker Mohammad Bagher Ghalibaf has been re-elected.
-‏
-‏@BRICSNews
-13:38
-1405/03/04
-
-
-
-
 src :@thewarreporter
 ‏💰🇮🇩 — Indonesia has blocked access to the online gambling platform Polymarket after a prediction market was published regarding the possibility that President Prabowo Subianto could leave office earlier than expected.
 ‏
@@ -6595,21 +6629,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 12:55
-1405/03/04
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜ نیروی دریایی ایالات متحده آمریکا 7 شرکت را برای ورود به مرحله ارزیابی نمونه اولیه ی شناور بدون سرنشین وزن متوسط (MUSV) انتخاب کرده است.
-‏
-‏⚜ بر اساس اسناد بودجه این نیرو امسال 36 و سال آینده 3 فروند خریداری خواهد کرد که همگی در 2027 تحویل میشوند همچنین تا سال 2030 تعداد موجود این شناور ها را به 70 فروند در ناوگان خود میرساند و برای چندین سال همین تعداد را حفظ می‌کند.
-‏
-‏⚜ الزامات اساسی شامل توان پیمایش 2500 مایل دریایی در سی استیت 4 با سرعت 25 گره و حمل بار 25 تنی است و باید حداقل دو کانتینر 40 فوتی حمل کرده کاملا خودکار باشد و تا 2027 تحویل شود هر چند میتواند قابلیت های شناور بیش از این باشد برای مثال نمونه های فعلی حمل تا 4 کانتینر 40 فوتی را نیز نشان میدهند(در این کانتینر ها میتوان برای مثال Mk-70 میتوان تا 4 موشک تاماهوک/SM-6 یا موارد دیگر جای داد)
-‏
-‏📃@Cataphract1
-12:54
 1405/03/04
 
 
@@ -6985,17 +7004,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 05:15
-1405/03/04
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇱🇧🇮🇱 Hezbollah began using FPV drones equipped with thermal cameras during Sunday night’s operation targeting Israeli troops in the southern Lebanese town of Al-Bayada.
-‏
-‏@IntelSlava
-04:19
 1405/03/04
 
 
