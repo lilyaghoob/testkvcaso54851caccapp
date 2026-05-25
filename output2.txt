@@ -1,6 +1,52 @@
+src :@GeoPWatch
+[عکس]
+‏❗️🇨🇳 - A coal mine explosion occured at the privately owned Liushenyu mine in Qinyuan county, Shanxi province on Friday, sparking concern of energy disruption in China. 
+‏
+‏The explosion left at least 82 dead and many more missing and is China's biggest industrial accident since 2009. The search and rescue operation for the missing victims is still ongoing.
+‏
+‏Shanxi province accounts for almost a quarter of Chinese coal production. China relies on coal for over 50% of its energy need, mainly electricy generation and steel making. The importance of the coal supply has only increased since the war in Iran disrupted the flow of other hydrocarbons from the Middle East.
+‏
+‏The accident prompted fear of nationwide investigation and crackdown on the mining industry. In the Qiyuan county alone, two other mines have been ordered to halt production. Chinese coal future contracts rose 8% as a result.
+‏
+‏@GeoPWatch
+09:42
+1405/03/04
+
+
+
+
+src :@rus_cosmos
+‏مقامات آمریکایی به فاکس نیوز گفتند:
+‏
+‏«ما امروز یا فردا با ایران توافقی امضا نخواهیم کرد و رئیس جمهور تمایل دارد چند روز به آنها فرصت دهد تا آن را نهایی کنند.
+‏
+‏تهران در ابتدا با چارچوب موافقت کرده است، ما ۹۵ درصد آن را تکمیل کرده‌ایم و در حال مذاکره در مورد متن آن هستیم.»
+09:42
+1405/03/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Belarusian opposition leader Tikhanovskaya arrived in Ukraine for her first official visit, invited by Zelensky.
+09:41
+1405/03/04
+
+
+
+
+src :@jangaavaran1390
+‏گزارش گاردین: پوتین اعتماد خود را به توانایی ترامپ برای اعمال فشار بر کیف برای واگذاری قلمرو در ازای توافق برای پایان جنگ از دست داده است. با وجود خسارات زمینی، او همچنان مطمئن است که روسیه می‌تواند تا پایان سال کل منطقه دونباس را فتح کند.
+09:40
+1405/03/04
+
+
+
+
 src :@MilitiaNews
 [عکس]
-‏🇮🇷🇺🇸⚡️منابع Osint تصاویر ماهواره‌ای به تاریخ ۲۴ می گزارش میکنند که هوافضا پنج ورودی پایگاه زیرزمینی موشکی لارستان استان فارس که در جنگ مورد حملات سنگین قرار گرفت را نیز به طور کامل پاکسازی کردند.
+‏🇮🇷🇺🇸⚡️منابع Osint با استناد به تصاویر ماهواره‌ای متعلق به تاریخ 24 May گزارش میکنند که هوافضا پنج ورودی پایگاه زیرزمینی موشکی لارستان استان فارس که در جنگ مورد حملات سنگین قرار گرفت را نیز به طور کامل پاکسازی کردند.
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 09:36
@@ -3363,18 +3409,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-‏🇺🇸🇮🇷🇮🇱🇵🇰- U.S. Secretary of State Marco Rubio acknowledged that the emerging agreement with Iran has garnered regional support but cautioned that a nuclear deal cannot be achieved "in 72 hours on the back of a napkin." 
-‏
-‏➡️ "We're not kicking it till later. Nuclear talks are highly technical matters. You can't do a nuclear thing in 72 hours on the back of a napkin," Rubio told The New York Times.
-‏
-‏@GeoPWatch
-22:00
-1405/03/03
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏لیندسی گراهام، سناتور جمهوری‌خواه آمریکا، روز یکشنبه سوم خرداد ۱۴۰۵ از دونالد ترامپ خواست در مسیر دستیابی به توافق با جمهوری اسلامی ایران بر مواضع خود پافشاری کند. او همچنین از پیوند دادن هرگونه توافق احتمالی با تهران به گسترش پیمان ابراهیم و عادی‌سازی روابط کشورهای عربی و مسلمان با اسراییل حمایت کرد.
@@ -4482,14 +4516,6 @@ src :@KayhanLondonChannel
 ‏دادستانی بحرین اعلام کرد برخی متهمان مامور رصد، تصویربرداری و جمع‌آوری اطلاعات از تاسیسات حیاتی بحرین بوده‌اند و اطلاعات را در اختیار سپاه پاسداران قرار می‌دادند.
 ‏در این بیانیه همچنین به استفاده از شبکه‌های مالی، صرافی و ارزهای دیجیتال برای تامین مالی این فعالیت‌ها اشاره شده است.
 19:47
-1405/03/03
-
-
-
-
-src :@jangaavaran1390
-‏گزارشی در سی‌بی‌اس: دولت ترامپ معتقد است که ایت الله مجتبی خامنه‌ای، رهبر ایران، طرح کلی پیش‌نویس توافق بین کشورها را تأیید کرده است. ایران به طور اصولی موافقت کرده است که در ازای لغو محاصره آمریکا، از اورانیوم غنی‌شده با غنای بالا خلاص شود. این پیش‌نویس هنوز باید از سیستم رهبری ایران، یعنی شورای عالی امنیت ملی و مرکز فرماندهی سپاه پاسداران، عبور کند.
-19:44
 1405/03/03
 
 
@@ -6798,15 +6824,6 @@ src :@thewarreporter
 
 
 
-src :@WAR_ROOM_NEWS
-‏آمریکا آمریکا ننگ ب نیرنگ تو
-‏خون جوانان ما می‌چکد از چنگ تو
-11:17
-1405/03/03
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏خدایان خرمشهر
@@ -6970,17 +6987,4 @@ src :@Americana_ir
 ‏🔗 لینک منبع  
 ‏🆔 @Americana_ir
 09:57
-1405/03/03
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏نیروی هوافضای سپاه در اواخر سال ۲۰۲۵ از شرکت تله‌سان، یک شبکه تدارکاتی مستقر در امارات متحده عربی، برای تهیه تجهیزات ماهواره‌ای پیشرفته چینی مرتبط با برنامه پهپادی خود استفاده کرد.
-‏
-‏این تجهیزات بعداً در حملات پهپادی ایران در طول جنگ مورد استفاده قرار گرفت.
-‏
-‏این شرکت مستقر در راس‌الخیمه تقریباً ۱.۸ تن تجهیزات آنتن ماهواره‌ای ساخت چین را از شانگهای از طریق بندر کانتینری جبل علی در دبی به ایران منتقل کرد.
-09:37
 1405/03/03
