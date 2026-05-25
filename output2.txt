@@ -1,7 +1,68 @@
-src :@GeoPWatch
-[ویدئو]
-‏🇮🇱❌🇱🇧- Precautionary evacuations have begun in Beirut's southern suburbs.
-22:32
+src :@tabzlive
+[عکس]
+‏🇮🇱🇺🇸🇮🇷⚡️ — Israel may be left facing three active fronts with its hands tied, as America's failure in the war with Iran risks producing an undesirable peace that postpones vital issues and deepens U.S. divisions, according to Yedioth Ahronoth.
+‏
+‏The White House failed to understand that a war without strategy leads to something between defeat and humiliation; Trump couldn't even convince American public opinion.
+‏
+‏If the ceasefire includes lifting the naval blockade, Trump will make a joke of himself.
+‏
+‏With America's failure, Israel now faces its worst strategic situation in history: three active fronts — Iran, Hezbollah, and Hamas — and no room to maneuver.
+22:36
+1405/03/04
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇺🇦⚠️ — Air Raid sirens in Eastern Ukraine
+22:36
+1405/03/04
+
+
+
+
+src :@didarnews1
+‏🔴کوثری: ایران امروز به قدرتی تعیین‌کننده در معادلات منطقه‌ای و جهانی تبدیل شده است
+‏
+‏نماینده مردم تهران در مجلس:
+‏🔹جمهوری اسلامی ایران امروز به قدرتی اثرگذار و تعیین‌کننده در معادلات منطقه‌ای و جهانی تبدیل شده است.
+‏🔹بی‌تردید دشمنان هرگز نخواهند توانست اراده این ملت بزرگ را درهم بشکنند.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+22:35
+1405/03/04
+
+
+
+
+src :@Shin_Persian
+‏📦 mhrv-rs v1.9.35 released
+‏
+‏• Improve large-download resilience and slow exit-node behavior (PR #1346)
+‏
+‏Files (Android APKs, Windows, macOS, Linux, OpenWRT) on the files channel:
+‏
+‏👉 v1.9.35 — all files with SHA-256
+‏
+‏Channel:
+‏https://t.me/mhrv_rs
+‏or: https://t.me/+R1OyoHX2boA1ZDgx
+‏
+‏#v1935
+22:33
+1405/03/04
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۴ خرداد
+‏@iranintlTV
+22:33
 1405/03/04
 
 
@@ -2468,26 +2529,6 @@ src :@DEJradio
 
 
 
-src :@IranintlTV
-[عکس]
-‏کلودیا شینباوم، رییس‌جمهوری مکزیک، دوشنبه اعلام کرد که دولت او موافقت کرده به تیم ملی فوتبال ایران اجازه دهد در طول رقابت‌های جام جهانی در مکزیک اقامت داشته باشد.
-‏
-‏او افزود که ایالات متحده تمایلی به میزبانی این تیم نداشته است.
-‏
-‏شینباوم گفت که فدراسیون بین‌المللی فوتبال (فیفا) پس از آن‌که آمریکا اعلام کرد نمی‌خواهد تیم ایران در طول مسابقات در خاک این کشور مستقر باشد، با دولت مکزیک تماس گرفته است.
-‏
-‏ایران قرار است هر سه بازی مرحله گروهی خود را در آمریکا برگزار کند.
-‏
-‏شینباوم در یک نشست خبری گفت: «ما هیچ دلیلی برای محروم کردن آنها از امکان اقامت در مکزیک نمی‌بینیم.»
-‏
-‏کاخ سفید و وزارت خارجه آمریکا هنوز در این زمینه اظهار نظر نکرده‌اند.
-‏https://iranintl.com/202605252544
-20:21
-1405/03/04
-
-
-
-
 src :@didarnews1
 ‏🔴رئیس‌جمهور مکزیک: پس از مخالفت آمریکا، مکزیک میزبان تیم ملی ایران خواهد بود
 ‏
@@ -3585,16 +3626,6 @@ src :@DEJradio
 
 
 
-src :@ClashReport
-‏Russia warned diplomats and foreign nationals to leave Kyiv ahead of planned strikes on Ukrainian command centres and defence facilities.
-‏
-‏Moscow said the attacks would target “decision-making centres” but did not specify when they would begin.
-18:14
-1405/03/04
-
-
-
-
 src :@jangaavaran1390
 ‏فروش فوری اکانت فیلتر شکن🚀 
 ‏
@@ -4044,21 +4075,6 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷 Iran says it downed a "hostile" drone over the Gulf using a new air defence system.
 ‏
 ‏@BRICSNews
-17:39
-1405/03/04
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ولادیمیر پوتین، رئیس‌جمهوری روسیه، روز دوشنبه چهارم خرداد ماه، در گفتگویی تلفنی با حمد بن عیسی آل خلیفه، پادشاه بحرین، بر ضرورت حل‌وفصل سریع بحران پیرامون ایران از طریق راهکارهای سیاسی و دیپلماتیک تاکید کرد.
-‏
-‏بر اساس بیانیه کرملین، دو طرف در این تماس بر تعهد برای تقویت همکاری‌های روسیه و بحرین در حوزه‌های تجارت، اقتصاد، امور مالی، سرمایه‌گذاری و همچنین همکاری‌های فرهنگی و بشردوستانه تاکید کردند.
-‏
-‏پوتین و پادشاه بحرین همچنین در بررسی تحولات خاورمیانه، بر لزوم راه‌حلی سریع به راه‌حلی سیاسی و دیپلماتیک برای بحران مربوط به ایران، با در نظر گرفتن کامل منافع همه کشورهای منطقه، تاکید کردند.
-‏
-‏@indypersian
 17:39
 1405/03/04
 
@@ -5820,21 +5836,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:29
-1405/03/04
-
-
-
-
-src :@didarnews1
-‏🔴انتخابات هیئت رئیسه مجلس که از ساعت ۷:۳۰ صبح امروز آغاز شد، دقایقی پیش پایان یافت| قالیباف رئیس مجلس شد
-‏
-‏🔹این انتخابات بصورت حضوری و با رای مستقیم نمایندگان برای انتخاب ۱۲ عضو هیئت رئیسه مجلس شامل یک رئیس، ۲ نایب رئیس، ۶ دبیر و ۳ ناظر بود.
-‏🔹قالیباف رئیس مجلس شد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-10:20
 1405/03/04
 
 
