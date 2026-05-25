@@ -1,5 +1,33 @@
 src :@ClashReport
 [عکس]
+‏NATO commander Adm. Pierre Vandier said Europe currently has “no real competitor for Palantir,” defending the alliance’s decision to rapidly adopt the U.S. company’s AI battlefield system while warning Europe must move faster to build its own alternatives. 
+‏
+‏“We’ll take something off the shelf that the United States used,” Vandier said, arguing that Europe needs to prove it can deliver equivalent technology “in a matter of months, years, and not a decade.”
+‏
+‏Source: POLITICO
+08:50
+1405/03/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Xi Jinping sharply criticized Japan’s military buildup during his summit with Trump in Beijing. 
+‏
+‏Xi reportedly became unusually heated while accusing Japanese PM Sanae Takaichi of “remilitarisation” and condemning Tokyo’s rising defence spending.
+‏
+‏Trump responded that Japan needed stronger defenses because of threats from North Korea.
+‏
+‏Source: FT
+08:47
+1405/03/04
+
+
+
+
+src :@ClashReport
+[عکس]
 ‏An RAF jet carrying UK defence secretary John Healey had its GPS signal jammed for the full three-hour flight home from Estonia, near the Russian border. 
 ‏
 ‏Russia is suspected of being behind the electronic interference.
@@ -824,22 +852,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏وب‌سایت حقوق بشری هرانا گزارش داد که روح‌الله کرکی، زندانی سیاسی محبوس در زندان شیبان اهواز، به اعدام محکوم شد.
-‏
-‏بر اساس این گزارش، چندی پیش، کیفرخواست پرونده کرکی بابت اتهامات «انتشار و افشای اسناد محرمانه»، «همکاری با سازمان مجاهدین خلق»، «جاسوسی برای اسرائیل و تبادل اطلاعات نظامی و امنیتی»، «توهین به مقدسات و مقامات» و «اقدام علیه امنیت ملی» صادر و به دادگاه کیفری دو اهواز ارجاع شده بود.
-‏
-‏به نوشته هرانا، این زندانی سیاسی دهم مهر سال گذشته به زندان شیبان اهواز منتقل شد. او ۱۴ مرداد سال گذشته به دست نیروهای امنیتی در اندیمشک بازداشت شده بود.
-‏
-‏این وب‌سایت اشاره کرد روح‌الله کرکی، برادر امین کرکی، از بازداشت‌شدگان اعتراضات سراسری دی‌ ۹۶ است، و افزود: «امین کرکی در فروردین ۹۷ پس از بازداشت مجدد، در شرایطی پرابهام درگذشت.»
-‏https://iranintl.com/202605256245
-04:33
-1405/03/04
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇪🇺⚡️ — The European Central Bank is urging banks to accelerate efforts to secure their IT systems amid growing concerns over cyber risks posed by advanced AI models such as Anthropic’s Claude Mythos Preview, FT reports.
@@ -1519,19 +1531,6 @@ src :@cataphract1
 ‏ 
 ‏📃@Cataphract1
 01:09
-1405/03/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Satellite imagery from May 24 shows Iran has fully cleared all five entrances at its Larestan underground missile facility in Fars Province, southern Iran.
-‏
-‏Iran used heavy machinery to excavate debris and reopen the tunnels, restoring full access with no apparent long-term damage to the hardened entrances.
-‏
-‏The same recovery pattern has been observed at other Iranian missile sites, including Abyek.
-01:07
 1405/03/04
 
 
