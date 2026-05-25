@@ -851,16 +851,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Israel carried out a double-tap strike on a building in al-Duwayr in southern Lebanon, according to Lebanon’s National News Agency.
-‏
-‏➡️ Israeli warplanes first bombed the building at around 10:20 p.m. local time on Sunday before striking the same location again roughly 30 minutes later, resulting in a number of civilian casualties.
-02:12
-1405/03/04
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏NATO's top innovation commander told Politico that the alliance has no viable alternative to Palantir's battlefield AI system.
@@ -956,23 +946,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — U.S. intelligence assessments say Iran’s Supreme Leader Mojtaba Khamenei is operating from an undisclosed secure location with extremely limited outside communication, relying on a complex courier network that obscures his whereabouts and slows internal decision-making, CBS News reports.
-‏
-‏Iranian negotiators working with the U.S. have struggled to communicate within their own system, contributing to delays in responses to proposed deal terms and broader negotiations.
-‏
-‏Officials said messages sent by Washington can take significant time to reach the supreme leader, whose replies are also delayed because information is passed through multiple intermediaries rather than direct communication channels.
-‏
-‏One official said U.S. and Israeli intelligence operations during the war enabled the identification and targeting of large parts of Iran’s senior leadership, leading many Iranian officials to remain inside fortified bunkers and sharply limit contact with one another.
-‏
-‏Even senior members of the Iranian government do not know the supreme leader’s location or have direct access to him. Instead, he communicates broad negotiating instructions through trusted intermediaries, specifying which issues can be discussed and which remain off limits.
-01:34
-1405/03/04
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Serbian President Aleksandar Vučić said "it is possible that I will submit my resignation soon."
@@ -983,23 +956,6 @@ src :@ClashReport
 ‏
 ‏No formal resignation has been submitted.
 01:30
-1405/03/04
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — A U.S. official says the U.S. and Iran have reached an agreement in principle centered on reopening the Strait of Hormuz, though major questions remain about implementation and timing, NYT reports.
-‏
-‏Iran would remove naval mines and permit unrestricted commercial shipping through the strait, while the U.S. would end its naval blockade of Iranian ports and allow Iran to resume oil exports.
-‏
-‏The proposed agreement is intended as an initial framework for future negotiations rather than a final deal. 
-‏
-‏Iran’s missile program and uranium enrichment are not part of the current arrangement and would be addressed in separate talks later. Nuclear-related negotiations are expected to take place within 30 to 60 days after the agreement is reached.
-‏
-‏The proposal still requires approval from President Trump and Iran’s Supreme Leader Mojtaba Khamenei, which could take days.
-01:29
 1405/03/04
 
 
