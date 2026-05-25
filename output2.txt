@@ -1,14 +1,72 @@
-src :@wfwitness
+src :@MilitarryWorld
 [عکس]
-‏⚡🇱🇧🇱🇧🇮🇱 Hezbollah has released their second batch of statements regarding new operations against Israeli forces today:
+‏⭕️ رئیس امور اطلاع رسانی دولت، ابلاغ رئیس جمهور برای اتصال اینترنت بین‌الملل را تایید کرد
 ‏
-‏In response to Israeli ceasefire violations and attacks on villages in southern Lebanon that caused civilian casualties, we targeted 3 gatherings of Israeli soldiers and vehicles in the towns of Qouzah and Rashaf, at 15:55 and 16:15 respectively, as well as at the newly established Balat site at 16:15 with rocket barrages
+‏@MilitarryWorld | Parsa
+22:26
+1405/03/04
+
+
+
+
+src :@MilitiaNews
+[عکس]
+‏🎀فروش  کانفیگ استارلینک🎀
 ‏
-‏We also targeted an Israeli artillery emplacement at 12:15 in the town of Al-Aadaissah with Ababil attack drones, followed by a gathering of Israeli soldiers in the Misgav Am settlement at 16:20 with an Ababil attack drone
+‏🌸همراه ساب کنترل حجم🌸 
+‏
+‏🩷سرعت فوق‌العاده بالا🩷
+‏
+‏💕تضمین اتصال 💕
 ‏
 ‏
-‏@wfwitness
-22:21
+‏جهت خرید آیدی زیر:
+‏
+‏@amirmrrbt
+22:26
+1405/03/04
+
+
+
+
+src :@MilitiaNews
+[عکس]
+‏🇮🇷⚡️توییت رسایی درباره وصل شدن اینترنت!
+‏
+‏@MilitiaNews | میلیشا را دنبال کنید
+22:25
+1405/03/04
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇸🇦🇮🇱⚡️- According to the Jerusalem Post, Saudi Crown Prince Mohammed bin Salman told Christian Evangelical leader Mike D. Evans that he was willing to recognize Israel today, but his father, King Salman, remains an obstacle to Saudi-Israeli relations and a recognition of Israel.
+22:23
+1405/03/04
+
+
+
+
+src :@jangaavaran1390
+‏اکسیوس: دولت ترامپ در پاسخ به آنچه واشنگتن نقض مکرر آتش‌بس توسط حزب‌الله توصیف کرده است، از تشدید اقدام نظامی اسرائیل حمایت خواهد کرد.
+‏
+‏حزب‌الله از ۱۷ آوریل بیش از ۱۰۰۰ پهپاد و بیش از ۷۰۰ موشک شلیک کرده است تا مذاکرات جاری بین لبنان و اسرائیل را مختل کند و افزود که وضعیت موجود غیرقابل دفاع است.
+‏
+‏یک مقام آمریکایی گفت که حزب‌الله مذاکرات مستقیم تحت حمایت آمریکا بین دولت لبنان و اسرائیل را یک تهدید وجودی می‌داند و استدلال می‌کند که یک آتش‌بس موفق و روند بازسازی، نفوذ این گروه را در لبنان تضعیف می‌کند.
+22:23
+1405/03/04
+
+
+
+
+src :@jangaavaran1390
+‏اسرائیل هیوم می‌نویسد، آمریکا هیچ تصویری از پیروزی ندارد و به هیچ یک از اهداف اعلام‌شده‌اش دست نیافته است، در حالی که ایران با بستن تنگه هرمز، بقای خود را تضمین و قدرت خود را نشان داد.
+‏
+‏
+‏تنها نتیجه ملموس تاکنون، بازگشایی متقابل تنگه است؛ تمام مسائل دیگر - از جمله برنامه هسته‌ای، موشک‌ها و نیروهای نیابتی ایران - به مذاکراتی بدون تاریخ مشخص موکول شده‌اند.
+22:23
 1405/03/04
 
 
@@ -452,6 +510,7 @@ src :@mwarmonitor
 
 
 src :@WAR_ROOM_NEWS
+[عکس]
 ‏⚡️🇱🇧🇮🇱 پس از آخرین اظهارات نخست‌وزیر اسرائیل، موج گسترده‌ای از جابه‌جایی و خروج ساکنان از ضاحیه بیروت آغاز شده است
 ‏
 ‏حملات هوایی ارتش اسرائیل به ضاحیه در راه است
@@ -2035,6 +2094,18 @@ src :@mwarmonitor
 
 
 
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 Nikkei: The U.S. and Iran are reportedly discussing a plan to reopen the Strait of Hormuz around 30 days after a deal to end hostilities is reached. 
+‏
+‏The proposal reportedly includes extending the April ceasefire by another 60 days, restoring free navigation through the strait, and Iran clearing mines from the waterway during the 30-day period.
+‏
+‏@wfwitness
+20:40
+1405/03/04
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏نکاتی از کتاب خاطرات «قدرت و اصول» اثر زبیگنیف برژینسکی،مشاور امنیت ملی دولت کارتر(بخش 2)
@@ -2153,6 +2224,16 @@ src :@IranintlTV
 ‏🔹در چهار سال گذشته، پاداش به تیم ملی بابت صعود به جام جهانی ۲۰۲۲، یک پرونده بی‌سرانجام در فوتبل ایران بود؛ پیگیری‌های رسانه‌ای درباره حواله‌های میلیاردی خودرو به بازیکنان تیم ملی و پاداش چند ۱۰ هزار دلاری به هیات رییسه فدراسیون، هیچ‌گاه به پاسخ روشنی نرسید.
 ‏
 ‏@iranintltvsport
+20:35
+1405/03/04
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇱🇱🇧 Israeli Channel 14: Following a conversation today between Prime Minister Netanyahu and Defense Minister Katz, it appears the operation in Lebanon will be significantly expanded.
+‏
+‏@wfwitness
 20:35
 1405/03/04
 
@@ -2669,6 +2750,33 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 19:41
+1405/03/04
+
+
+
+
+src :@wfwitness
+‏⚡️🇸🇾 Syrian Ministry of Emergency and Disaster Management warns of possible flooding along the Euphrates River following the opening of dam gates.
+‏
+‏The ministry called for the immediate evacuation of homes and shops located near the Euphrates River in the provinces of Deir ez-Zor and Raqqa.
+‏
+‏@wfwitness
+19:38
+1405/03/04
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇵🇰 Al Jazeera: More than 20 people were reportedly killed following a bombing targeting a train in Pakistan’s Balochistan province, amid a broader surge in separatist violence across the region.
+‏
+‏Insurgent groups such as the Baloch Liberation Army have intensified attacks against Pakistani security forces, infrastructure, and transport networks, citing political marginalization, military crackdowns, and the exploitation of Balochistan’s natural resources.
+‏
+‏The report adds that the province’s strategic importance — including Chinese-backed infrastructure projects and regional energy corridors — has further intensified the conflict and contributed to worsening instability.
+‏
+‏@wfwitness
+19:34
 1405/03/04
 
 
@@ -3691,17 +3799,6 @@ src :@mwarmonitor
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🚨فوری/وال استریت ژورنال: مذاکرات ایران رو بحث برنامه هسته‌ای و رفع تحریم‌ها به بن بست رسیده 
-‏
-‏@MilitarryWorld | Parsa
-18:01
-1405/03/04
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏‼️🇺🇸🇸🇦 NEW: Saudi Arabia and USA are working together to develop a long range strike drone called skywasp
@@ -4362,23 +4459,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇷⚡️- President Trump is now inviting Iran to join the Abraham Accords.
-‏
-‏"Negotiations with the Islamic Republic of Iran are proceeding nicely! It will only be a Great Deal for all or, no Deal at all — Back to the Battlefront and shooting, but bigger and stronger than ever before — And nobody wants that!
-‏
-‏During my discussions on Saturday with [Middle East world leaders (Removed for the sake of readability, see the screenshot for full list)], I stated that, after all the work done by the United States to try and pull this very complex puzzle together, it should be mandatory that all of these Countries, at a minimum, simultaneously, sign onto the Abraham Accords. Those Countries discussed are Saudi Arabia, The United Arab Emirates (already a Member!), Qatar, Pakistan, Türkiye, Egypt, Jordan, and Bahrain (already a Member!). It may be possible that one or two have a reason for not doing so, and that will be accepted, but most should be ready, willing, and able to make this Settlement with Iran a far more Historic Event than it would, otherwise, be. 
-‏
-‏In speaking to numerous of the Great Leaders mentioned above, they would be honored, as soon as our Document is signed, to have the Islamic Republic of Iran as part of the Abraham Accords. Wow, now that would be something special! 
-‏
-‏Therefore, I am mandatorily requesting that all Countries immediately sign the Abraham Accords, and that, if Iran signs its Agreement with me, as President of the United States of America, it would be an Honor to have them also be part of this unparalleled World Coalition" - President Trump via Truth Social.
-16:21
-1405/03/04
-
-
-
-
 src :@defence_news
 [عکس]
 ‏🚨 تخفیف واقعی برای پلن‌های V2Ray شروع شد!
@@ -4412,14 +4492,6 @@ src :@defence_news
 ‏
 ‏مقامات ارمنستان رسماً این خرید را اعلام نکرده‌اند.
 16:18
-1405/03/04
-
-
-
-
-src :@rnintel
-‏🇱🇧🇮🇱⚡️- "Israel must not normalize the reality of explosive drones. The time has come for the Prime Minister to bang on Trump’s table and tell him Israel is returning to war in Lebanon.  We need to cut off Lebanon’s electricity, seize the Zahrani area, and…
-16:12
 1405/03/04
 
 
@@ -4723,19 +4795,6 @@ src :@didarnews1
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏عربستان سعودی برای نخستین بار موشک هوا‌به‌هوای اروپایی «IRIS-T» را روی جنگنده «F-15SA» یکپارچه کرده است.
-‏تصاویر منتشرشده نشان می‌دهد این موشک آلمانی کوتاه‌برد در کنار تسلیحات آمریکایی AIM-9X وارد خدمت شده و احتمالاً با هدف افزایش تنوع تسلیحاتی و هماهنگی بیشتر با ناوگان «یوروفایتر تایفون» سعودی به کار گرفته خواهد شد.
-‏موشک IRIS-T به جستجوگر تصویری فروسرخ، مانورپذیری بالا و توان درگیری خارج از محور دید مجهز است و یکی از پیشرفته‌ترین موشک‌های کوتاه‌برد اروپایی محسوب می‌شود.
-‏#عربستان #F15 #IRIST #نیروی_هوایی #جنگاوران
-‏https://t.me/jangaavaran1390
-15:01
-1405/03/04
-
-
-
-
 src :@MilitiaNews
 ‏🇺🇸🇮🇷⚡️واشنگتن پست به نقل از یک منبع ایرانی: 
 ‏
@@ -4858,14 +4917,6 @@ src :@IRRadar
 ‏
 ‏📡 @IRRadar
 14:15
-1405/03/04
-
-
-
-
-src :@jangaavaran1390
-‏یک دیپلمات ارشد ایرانی به خبرگزاری ایسنا گفت: اگر آمریکا به تعهدات خود در چارچوب یادداشت تفاهم احتمالی عمل کند - مسئله هسته‌ای و ذخایر اورانیوم غنی‌شده پس از ۶۰ روز در ازای رفع تحریم‌ها علیه ایران و آزادسازی دارایی‌های مسدود شده ایرانی مورد بحث قرار خواهد گرفت. مدیریت عبور در تنگه هرمز یک مسئله ایرانی-عمانی است که تهران با عمان درباره آن گفتگو کرده است.
-14:12
 1405/03/04
 
 
@@ -6435,13 +6486,4 @@ src :@defence_news
 ‏
 ‏@Navy_Iranian | #A_A
 22:28
-1405/03/03
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏پس از سالهای پر کار برنامه هسته‌ای ج.ا در بخش نظامی، اسرائیلیها بدلایل مدیریت فنی فخری زاده، به سراغ او نرفتند. این عملیات جنبه سیاسی قوی داشت. سالها پیش از این، اسرائیلیها فخری زاده را بدین امر متهم میکردند که نقش یک مشوق و ترغیب کننده را برای برنامه توسعه…
-22:24
 1405/03/03
