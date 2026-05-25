@@ -1,3 +1,53 @@
+src :@mwarmonitor
+‏🔴 وزارت خارجه روسیه: اتباع خارجی فوراً کی‌یف را ترک کنند.   @mwarmonitor
+17:25
+1405/03/04
+
+
+
+
+src :@Minas_Tirith2024
+‏بمباران شهر نبطیه توسط ارتش اسرائیل   @P_raetorio
+17:25
+1405/03/04
+
+
+
+
+src :@mwarmonitor
+‏🔴 وزارت خارجه روسیه: اتباع خارجی فوراً کی‌یف را ترک کنند.
+‏
+‏
+‏@mwarmonitor
+17:24
+1405/03/04
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏تصویر دیگری از شهر نبطیه پس از بمباران 
+‏
+‏@P_raetorio
+17:24
+1405/03/04
+
+
+
+
+src :@mamlekate
+‏📝 مصوبه «اتصال اینترنت بین‌الملل» برای اجرا «در انتظار تأیید پزشکیان» است
+‏
+‏منابع داخلی ایران از تصویب مصوبه‌ای تازه درباره اتصال اینترنت بین‌الملل خبر داده‌اند؛ مصوبه‌ای که هنوز اجرا نشده و اجرای آن به تأیید نهایی مسعود پزشکیان و ابلاغ به وزارت ارتباطات و فناوری اطلاعات منوط است.
+‏
+‏@mamlekate
+17:24
+1405/03/04
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏US President Donald Trump says it should be mandatory that Saudi Arabia, Qatar, Jordan, Turkey, Egypt and Pakistan to join the Abrahan Accords - meaning fully normalize relations with Israel. He then said Iran should do that too.
@@ -2541,6 +2591,12 @@ src :@mamlekate
 ‏
 ‏📝  اولین جلسه حضوری مجلس جمهوری اسلامی پس از جنگ
 ‏
+‏
+‏📝 بقایی: به توافق نزدیک نشده‌ایم
+‏
+‏
+‏📝 ترامپ: توافق با تهران یا «بزرگ و معنادار» خواهد بود یا اصلاً در کار نخواهد بود
+‏
 ‏@mamlekate
 14:25
 1405/03/04
@@ -3357,29 +3413,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 13:01
-1405/03/04
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏🔴فایننشال تایمز گزارش می‌دهد که شی جین‌پینگ در جریان دیدار با ترامپ، هنگام صحبت درباره طرح‌های نظامی‌سازی مجدد ژاپن و افزایش هزینه‌های دفاعی تحت نخست‌وزیری سانائه تاکایچی، دچار عصبانیت شده است.
-‏
-‏🔸ترامپ گفته است که ژاپن برای دفاع از خود در برابر تهدیدهای کره شمالی به یک ارتش قوی‌تر نیاز دارد.
-‏
-‏@mwarmonitor
-13:01
-1405/03/04
-
-
-
-
-src :@mwarmonitor
-‏🔴شبکه کان اسرائیل: رئیس ستاد ارتش اسرائیل خواستار حمله به بیروت در پاسخ به پهپادهای حزب‌الله شده است.
-‏
-‏@mwarmonitor
-12:59
 1405/03/04
 
 
@@ -5368,19 +5401,6 @@ src :@thewarreporter
 
 
 
-src :@WAR_ROOM_NEWS
-‏یک مقام آمریکایی به شبکه فاکس‌نیوز:
-‏
-‏🔴دونالد ترامپ، رئیس جمهور آمریکا ممکن است به ایران هفت روز مهلت دهد تا به یک توافق قابل‌قبول برسند.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-23:19
-1405/03/03
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏پست جدید ترامپ :)) 
@@ -5469,20 +5489,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴کشته شدن یک سرباز ارتش اسرائیل در درگیری با حزب‌الله داخل جنوب لبنان.
-‏
-‏🔶تعداد نیروهای کشته شده ارتش اسرائیل از آغاز جنگ با ایران به 24 نفر رسید.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-23:13
-1405/03/03
-
-
-
-
 src :@Minas_Tirith2024
 ‏بنا به اعلام رسانه‌های اسرائیلی، امروز دو نفر دیگر هم با حملات FPV حزب‌الله کشته شده‌اند.
 23:06
@@ -5532,19 +5538,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/03/03/402468/
 23:02
-1405/03/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏نشریه CNN:
-‏
-‏🔴حکومت ایران هیچ پولی یا لغو تحریمی را در این توافق با ایالات متحده آمریکا دریافت نخواهد کرد.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-22:59
 1405/03/03
 
 
@@ -5654,19 +5647,6 @@ src :@defence_news
 ‏
 ‏@Navy_Iranian | #A_A
 22:28
-1405/03/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏مارکو روبیو، وزیر امور خارجه آمریکا:
-‏
-‏🔴نمی‌توان در 72 ساعت روی پشت یک دستمال کاغذی به توافق هسته‌ای با رژیم ایران رسید.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-22:25
 1405/03/03
 
 
@@ -5943,16 +5923,6 @@ src :@Middle_East_Spectator
 ‏1. The release of Iran’s frozen assets. Iran wants most of it up front.
 ‏
 ‏2. More importantly: Iran’s objection to Israeli ‘freedom of action’ in Lebanon in case of a ceasefire. Iran insists on an absolute ceasefire in Lebanon.
-21:08
-1405/03/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏به گفته تسنیم، با وجود مذاکرات امروز، اختلافات همچنان حل نشده باقی مانده‌اند — به ویژه در مورد آزادسازی دارایی‌های مسدود شده ایران.در نتیجه، توافق هنوز ممکن است شکست بخورد و ایران می‌گوید از خطوط قرمز خود عقب‌نشینی نخواهد کرد
-‏
-‏اینجور خبرا تسنیم دوسدارم😁
 21:08
 1405/03/03
 
@@ -6347,15 +6317,6 @@ src :@Shin_Persian
 src :@Shin_Persian
 ‏↩️ Quoted tweet: Barak Ravid ✓  @BarakRavid Sun, 24 May 2026 14:52:25 UTC  🚨A senior Trump administration official says the agreement with Iran is not expected to be signed today 🚨The official said there are still several details to close. There is still back…
 18:54
-1405/03/03
-
-
-
-
-src :@ManotoTV
-[عکس]
-‏https://studio.youtube.com/video/bQJFCVV8hCg/livestreaming
-18:30
 1405/03/03
 
 
