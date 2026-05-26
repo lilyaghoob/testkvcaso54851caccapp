@@ -1,3 +1,77 @@
+src :@rnintel
+[عکس]
+‏📈 Confirmed: Live metrics show a partial restoration to internet connectivity in #Iran on day 88, after 2093 hours of near-total isolation from international networks, the longest nationwide internet shutdown in modern history. It is unclear if the restoration will be sustained.
+16:31
+1405/03/05
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏مذکز تجارت دریایی بریتانیا اعلام کرد یک کشتی باری در نزدیکی مسقط عمان هدف حمله قرار گرفته.هنوز مشخص نیست این حمله توسط چه طرفی رخداده است.
+‏
+‏@P_raetorio
+16:31
+1405/03/05
+
+
+
+
+src :@MilitarryWorld
+‏⭕️اسموتریج: نتانیاهو ترامپ را وادار به جنگ با ایران کرد
+‏
+‏@MilitarryWorld | Parsa
+16:30
+1405/03/05
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇴🇲 Explosion reported near ship off the coast of Oman.
+‏
+‏@BRICSNews
+16:29
+1405/03/05
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷Internet monitoring group Netblocks confirms that internet connectivity is slowly being restored in Iran after over a month of connection being throttled in the country.
+‏
+‏@wfwitness
+16:29
+1405/03/05
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏محمود نبویان، عضو کمیسیون امنیت ملی مجلس در شبکه ایکس نوشت: «توافقی که بازگشایی تنگه هرمز در ازای لغو محاصره بدون اعمال حاکمیت جمهوری اسلامی و اخذ عوارض، عدم تعیین غرامت، ابهام در لغو تحریم‌ها و… باشد، خلاف منافع ملی، عبور از شروط رهبری، بیانیه شعام و خسارت محض است.»
+‏
+‏او پیش‌تر نیز گفته بود: «با وجود سابقه بدعهدی آمریکا و به ویژه حضور اصحاب توافق ذلت‌بار برجام به‌همراه قالیباف در مذاکرات، هیچ امیدی به مذاکره و توافق مطلوب برای جمهوری اسلامی وجود ندارد.»
+‏https://iranintl.com/202605266092
+16:28
+1405/03/05
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 The IDF has issued an urgent warning for the towns of Sohmor and Mashgara in Lebanon’s western Beqaa.
+‏
+‏@wfwitness
+16:27
+1405/03/05
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇴🇲 🇮🇷 — UKMTO has received a report of an incident 60NM east of Muscat, Oman. The Master of a Tanker reports of an external explosion, Port side aft close to the waterline.
@@ -178,7 +252,7 @@ src :@Middle_East_Spectator
 
 
 src :@mohem_mat
-‏از کجا بنویسیم این دو ماه که نبودیم ...
+‏از کجا بنویسیم این سه ماه که نبودیم ...
 ‏از جنگ . از صلح . از کشته ها . از خرابی ها . از اینده هراسناک
 ‏از اسکار و کن که برگزار شد و امسال اصلا نبودیم و ندیدیم و پوشش ندادیم
 ‏از نمایشگاه کتاب که گذشت و درباره ش ننوشتیم
@@ -1743,18 +1817,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[عکس]
-‏ایتامار بن‌گویر، وزیر امنیت داخلی اسرائیل، گفت: «اجازه نخواهیم داد ترامپ توافقی بد با جمهوری اسلامی امضا کند.» 
-‏
-‏بن‌گویر افزود: «با توجه به واکنش‌ها در سراسر جهان، می‌توانید یک چیز را درک کنید، اسرائیل دیگر کیسه بوکس خاورمیانه نیست و من به این افتخار می‌کنم.»
-‏ iranintl.com/202605266965
-14:26
-1405/03/05
-
-
-
-
 src :@jangaavaran1390
 ‏سیلی دیگری به صورت رئیس جمهور کشور، دستور پزشکیان برای آزادسازی اینترنت متوقف شد
 ‏
@@ -1911,21 +1973,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 14:11
-1405/03/05
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻خبرگزاری تسنیم، وابسته به سپاه پاسداران گزارش داد که باشگاه پرسپولیس در واکنش به تعیین نمایندگان ایران در رقابت‌های آسیایی بر اساس جدول فعلی لیگ برتر از سوی فدراسیون فوتبال، در حال آماده‌سازی شکایتی رسمی به کنفدراسیون فوتبال آسیا و فیفا است.
-‏
-‏🔹تسنیم نوشت، پرسپولیس معتقد است فدراسیون فوتبال در روند صدور مجوز حرفه‌ای برخی باشگاه‌ها تخلف کرده و با بعضی پرونده‌ها با مماشات برخورد شده است. این باشگاه قصد دارد مستندات خود را برای بررسی روند صدور این مجوزها به کنفدراسیون فوتبال آسیا ارائه کند.
-‏
-‏🔹همچنین نحوه تعیین سهمیه‌های آسیایی از سوی سازمان لیگ و فدراسیون فوتبال، محور دیگر شکایت پرسپولیس به فیفا خواهد بود. این باشگاه معتقد است در شرایطی که تیم‌ها تعداد بازی‌های برابری انجام نداده‌اند و هنوز حدود یک‌سوم مسابقات لیگ باقی مانده، ملاک قرار دادن جدول فعلی عادلانه نیست و فدراسیون فوتبال دست‌کم باید یکی از سهمیه‌ها را بر اساس جدول نیم‌فصل تعیین کند.
-‏
-‏@iranintltvsport
-14:08
 1405/03/05
 
 
@@ -2812,17 +2859,6 @@ src :@Indypersian
 ‏✍️دیدگاهی از استفان کالینسن
 ‏
 ‏@indypersian
-12:20
-1405/03/05
-
-
-
-
-src :@MilitarryWorld
-‏🚨رادیو اسرائیل:
-‏ارتش اسرائیل فراخوان گسترده‌ای برای ورود و آمادگی نیرو های ذخیره به لبنان و پشت مرز برای گسترش عملیات زمینی در جنوب لبنان صادر کرد.
-‏
-‏@MilitarryWorld | Parsa
 12:20
 1405/03/05
 
@@ -5619,14 +5655,6 @@ src :@defence_news
 
 
 
-src :@rnintel
-‏🇮🇷⚡️- Multiple explosions heard in Bandar Abbas, Iran.  The reason is currently unclear, according to Mehr News Agency.
-01:16
-1405/03/05
-
-
-
-
 src :@guard_warriors
 ‏جنبش قسام الکانفیگ مسئولیت حملات را گردن گرفت خخخخ
 01:14
@@ -5694,16 +5722,6 @@ src :@Shin_Persian
 ‏استان هرمزگان، #Iran_
 ‏
 ‏𝕏  ·  @shin_persian
-01:12
-1405/03/05
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US fighter jets strike IRGC naval boats in the Gulf after Iranian forces targeted a vessel near Bandar Abbas, Al Jazeera reports.
-‏
-‏@BRICSNews
 01:12
 1405/03/05
 
