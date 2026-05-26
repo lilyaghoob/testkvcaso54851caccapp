@@ -1,3 +1,65 @@
+src :@Artemis_Force
+[عکس]
+‏توسعه قابلیت‌های بدون سرنشین نيرو دریایی بریتانیا
+‏
+‏شرکت بریتانیایی Navantia UK در حال طراحی یک شناور سطحی بدون سرنشین ب اسم (LASV75)  هس و این پروژه رو معرفی کرده، که هدف آن فراهم کردن امکان عمل مداوم و قابل تطبیق به صورت خودران یا همراه با ناوشکن ها و فریگیت های تایپ ٣١، ٢۶، ٣۴ است. 
+‏
+‏این مفهوم نشان‌دهنده توجه فزاینده در برنامه‌ریزی نیروی دریایی به ادغام سیستم‌های هوشمند در عملیات ناوگان است.
+‏
+‏ ناو بدون سرنشین LASV75 دارای طول ۷۵ متر، عرض ۱۱.۸ متر و جابجایی بیش از ۱۰۰۰ تن است. 
+‏
+‏برخلاف شناور های نیروی دریایی، این کشتی از ابتدا به عنوان یک سکوی کاملاً بدون سرنشین طراحی شده است، بدون فضاهای سنتی برای خدمه و سیستم‌های پشتیبانی زندگی، تا حداکثر ظرفیت بار و استقامت در انجام مأموریت‌ها فراهم شود.
+‏
+‏ناو بدون سرنشین LASV75 برای انجام طیف گسترده‌ای از وظایف عملیاتی طراحی شده است، از جمله جمع‌آوری اطلاعات شناسایی، نظارت، همراهی، جنگ الکترونیک و عملیات ضربتی، از جمله با ادغام سیستم‌های توپخانه‌ای نصب شده روی عرشه و گویا دارای VLS نیز هس
+‏
+‏@artemis_force
+17:01
+1405/03/05
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏#BREAKING | 🇮🇷 — Live metrics show a partial restoration to internet connectivity in Iran on day 88, after 2093 hours of near-total isolation from international networks. — NetBlocks 
+‏
+‏The Global Eye | Subscribe
+16:59
+1405/03/05
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️جنوب لبنان هم اکنون
+‏
+‏@MilitarryWorld | Parsa
+16:59
+1405/03/05
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷🌐- The First Vice-President of Iran, Mohammad Reza Aref: 
+‏In line with the esteemed President's mission and in fulfillment of the government's promise, the first step toward free and regulated access to cyberspace has been taken. With the reopening of the internet, smart services will be streamlined, the demands of the people who have thus stood by the system and Iran will be fulfilled, and the obstacles to knowledge-based development and scientific authority will be removed.
+16:59
+1405/03/05
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇮🇷نائب الرئيس الايراني:‏أُعيد فتح الإنترنت وتوفير خدمات ذكية استجابةً لمطالب الشعب، مع التوجه لإزالة العقبات أمام التنمية والريادة العلمية.
+16:56
+1405/03/05
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏نت‌بلاکس، نهاد پایش وضعیت اینترنت در جهان، اعلام کرد داده‌های زنده این مجموعه نشان می‌دهد اتصال اینترنت در ایران در هشتاد و هشتمین روز قطعی گسترده، به صورت نسبی در حال بازگشت است؛ هرچند هنوز مشخص نیست این وضعیت پایدار خواهد ماند یا نه.
@@ -152,7 +214,7 @@ src :@GeoPWatch
 src :@World_Newsly
 ‏🔴 توجه اعضای قدیمی و جدید World Newsly
 ‏
-‏این کانال همان مجموعه سابق اخبار نظامی ایران جهان است که به دلیل برخی محدودیت‌ها، نام و آیدی آن تغییر کرده و اکنون با هویت جدید «World Newsly» فعالیت می‌کند.
+‏این کانال همان مجموعه سابق اخبار نظامی ایران جهان است که به دلیل برخی محدودیت‌ها، نام و آیدی آن تغییر کرده و اکنون با هویت جدید @World_Newsly فعالیت می‌کند.
 ‏
 ‏تیم، مسیر و سبک پوشش اخبار هیچ تغییری نکرده و مثل قبل، مهم‌ترین اخبار نظامی، امنیتی و بین‌المللی ایران و جهان به‌صورت لحظه‌ای منتشر خواهد شد.
 ‏
@@ -2681,16 +2743,6 @@ src :@naya_foriraq
 
 
 
-src :@MilitarryWorld
-‏⭕️خوش چشم، تحلیلگر ارشد صداسیما: می‌شود بمب هسته‌ای برای بازدارندگی ساخت، تو جمعیت نزد و توی پایگاه های نظامی زد.
-‏
-‏@MilitarryWorld | Parsa
-13:05
-1405/03/05
-
-
-
-
 src :@DEJradio
 ‏⭕️ قطر پیشنهاد ۱۲ میلیارد دلاری به جمهوری اسلامی را نادرست خواند
 ‏
@@ -4015,14 +4067,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏⭐️هجوم بالطيران المسير الانتحاري وعدة صواريخ يستهدف مقر تابع للمعارضة الكردية الإيرانية في محافظة أربيل شمالي العراق.
-10:06
-1405/03/05
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇰🇵 North Korea launches multiple close-range ballistic missiles toward the sea.
@@ -5037,14 +5081,6 @@ src :@BellumActaNews
 src :@mwarmonitor
 ‏🔴سخنگوی سنتکام، کاپیتان تیم هاوکینز به فاکس گفت:  🔴«نیروهای آمریکایی امروز در جنوب ایران حملات دفاع از خود انجام دادند تا از نیروهای ما در برابر تهدیدهای ناشی از نیروهای ایرانی محافظت کنند. اهداف شامل سایت‌های پرتاب موشک و قایق‌های ایرانی بود که در حال تلاش…
 02:39
-1405/03/05
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING 🇺🇸🇺🇸❌🇮🇷🇮🇷⚓️️- U.S. Central Command spokesperson Captain Tim Hawkins has told Fox News that U.S. forces conducted "self-defense strikes" in southern Iran today, targeting missile launch sites and Iranian boats attempting to lay mines. "U.S. Central…
-02:38
 1405/03/05
 
 
@@ -6570,16 +6606,6 @@ src :@thewarreporter
 ‏The project is part of broader efforts by Saudi Arabia to expand local defense manufacturing under Vision 2030.  
 ‏
 ‏— Semafor | @TheWarReporter
-23:09
-1405/03/04
-
-
-
-
-src :@BellumActaNews
-‏🇷🇺📞🇺🇸 — Russia's Lavrov and Rubio exchanged assessments of diplomatic initiatives on the Strait of Hormuz and regarding the situation around Cuba;
-‏
-‏https://t.me/tass_agency/377514
 23:09
 1405/03/04
 
