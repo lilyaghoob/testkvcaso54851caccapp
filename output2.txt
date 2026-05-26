@@ -1,3 +1,47 @@
+src :@RASTAKHIZ_PERSIAN
+[فایل]
+‏#موزیک
+‏
+‏@RASTAKHIZ_PERSIAN
+00:35
+1405/03/06
+
+
+
+
+src :@rnintel
+‏🇱🇧🇮🇱⚡- Today's widespread Israeli attacks on Lebanon left 31 dead and 40+ injured, the Lebanese Ministry of Health reports.
+00:34
+1405/03/06
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸🇮🇱⚡- Israeli citizen, Ori Solomon, who was arrested for operating an illegal biolab in Las Vegas, which contained HIV, Dengue Fever, and tuberculosis has had all of his federal charges dismissed.
+00:32
+1405/03/06
+
+
+
+
+src :@DEJradio
+‏⭕️ ترامپ در کمپ‌دیوید با اعضای دولت آمریکا در مورد جمهوری اسلامی گفت‌وگو می‌کند
+‏
+‏دونالد ترامپ، رئیس‌ جمهوری آمریکا، روز چهارشنبه نشستی کم‌سابقه‌ را با اعضای کابینهٔ خود در اقامتگاه کمپ‌دیوید برگزار می‌کند.
+‏به گزارش خبرگزاری فرانسه، در این نشست که همزمان با مذاکرات تهران و واشینگتن برگزار می‌شود، محور اصلی گفت‌وگوها بر سر ایران است.
+‏روزنامهٔ نیویورک‌پست نوشت همهٔ اعضای کابینه در این نشست حضور دارند و علاوه بر ایران، اقتصاد جهانی نیز در دستور کار است.
+‏ترامپ پیش‌تر گفته بود توافق با جمهوری اسلامی برای پایان دادن به جنگ «نزدیک» است، اما هشدار داد در صورت دست نیافتن به یک توافق بزرگ و معنادار، حملات آمریکا می‌تواند از سرگرفته شود.
+‏
+‏#خبر #دژ #ترامپ
+‏@DEJradio
+00:32
+1405/03/06
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏شرکت اسپیس‌ایکس قراردادی به ارزش 2.29 میلیارد دلار جهت توسعه زیرساخت‌های شبکه اطلاعات با نیروی فضایی(Space force) ایالات متحده به امضا رساند. با ورود شرکت اسپیس‌ایکس به حوزه زیرساخت اطلاعاتی ارتش آمریکا احتمالا پیشرفت و سرعت ملموسی در عملیات‌های یانکی‌ها رخ بدهد. حتی بیشتر از حال!
@@ -81,7 +125,7 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏🔹 مردم خیال می‌کنند سخت‌ترین بخش جنگ، لحظه تیراندازی و انفجار است؛
 ‏نه…
-‏سخت‌ترین بخشش وقتی است که زنده و شرمنده برمی‌گردی و باید وانمود کنی همه‌چیز عادی است.
+‏سخت‌ترین بخشش وقتی است که زنده برمی‌گردی و باید وانمود کنی همه‌چیز عادی است.
 ‏ بعضی شب‌ها دلم برای رفقایی تنگ می‌شود که همان‌جا زیر آوار ماندند؛
 ‏برای آدم‌هایی که آخرین بار صورتشان را زیر نور آتش دیدم.
 ‏ما برگشتیم، اما بخشی از روحمان هنوز میان دود، آوار و صدای گلوله و انفجار مانده است.
@@ -97,14 +141,6 @@ src :@RASTAKHIZ_PERSIAN
 
 src :@rnintel
 ‏🇺🇸🇮🇱⚡- Israeli citizen, Ori Solomon, who was arrested for operating an illegal biolab in Las Vegas, which contained HIV, Dengue Fever, and tuberculosis has had all of his federal charges dismissed.
-00:28
-1405/03/06
-
-
-
-
-src :@wfwitness
-‏WarFront Witness pinned «✨🌙 From the WFW team, we wish all those celebrating Eid al-Adha a peaceful and blessed Eid.  May this occasion bring you and your loved ones peace, comfort, safety, and moments of togetherness wherever you are. ✨🌙  @wfwitness»
 00:28
 1405/03/06
 
@@ -3643,16 +3679,6 @@ src :@cataphract1
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷🇴🇲⚡- The U.S. Navy has resumed operation Project Freedom, escorting a Greek supertanker, loaded with two million barrels, through the Strait of Hormuz, the Wall Street Journal reports.
-‏
-‏The U.S. is expected to escort several additional vessels in the coming days.
-19:56
-1405/03/05
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏تصویر ماهواره‌ای با کیفیت پایین از قبل و بعد بخشی از سایت موشکی بیدگنه تهران که حاکی از انهدام دو سازه سطحی آن طی این جنگ(قرمز) است،همچنین دو سازه(زرد) پیشتر در جنگ دوازده روزه هدف قرار گرفته بود، لازم به ذکر است این پایگاه مانند سایت موشکی یزد و سایت موشکی جنوب شیراز تا روز های آخر جنگ فعال بود. 
@@ -4240,14 +4266,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 18:25
-1405/03/05
-
-
-
-
-src :@rnintel
-‏🇷🇺🇦🇿⚡- Russia's ambassador to Baku proposes holding a joint inter-parliamentary meeting between Russia and Azerbaijan on the Karabakh territory.
-18:20
 1405/03/05
 
 
@@ -5066,23 +5084,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 16:21
-1405/03/05
-
-
-
-
-src :@DEJradio
-‏⭕️ رئیس‌ جمهوری مکزیک: آمریکا نمی‌خواست میزبان اردوی تیم جمهوری اسلامی باشد
-‏
-‏کلودیا شین‌بام، رئیس‌ جمهوری مکزیک، اعلام کرد دولت آمریکا تمایلی به میزبانی اردوی تیم ملی فوتبال جمهوری اسلامی ایران برای جام جهانی ۲۰۲۶ نداشت.
-‏او گفت در پی مخالفت واشینگتن، فیفا از مکزیک خواست میزبانی این اردو را برعهده بگیرد دولت مکزیک نیز موافقت کرد.
-‏مهدی تاج، رئیس فدراسیون فوتبال جمهوری اسلامی پیش‌تر گفته بود اردوی «تیم ملی» از آمریکا به شهر تیخوانا در مکزیک منتقل شده است.
-‏احمد دنیامالی، وزیر ورزش دولت جمهوری اسلامی مدعی شد فیفا «قول داده» همۀ بازیکنان و سایر اعضای تیم ویزای آمریکا را دریافت می‌کنند.
-‏هر سه بازی تیم ملی فوتبال جمهوری اسلامی ایران در مرحلۀ گروهی جام جهانی در خاک آمریکا برگزار می‌شود.
-‏
-‏#فوتبال #ترامپ #جام_جهانی
-‏@DEJradio
-16:20
 1405/03/05
 
 
@@ -6712,16 +6713,4 @@ src :@rus_cosmos
 src :@rus_cosmos
 ‏تابناک نوشت دو قایق تندرو نیروی دریایی سپاه در خلیج فارس توسط جنگنده‌های آمریکایی هدف قرار گرفتند و چهار سرباز کشته شدند.
 00:57
-1405/03/05
-
-
-
-
-src :@Mena_Live
-‏Secretary of Iran's Supreme National Security Council:
-‏
-‏"Iran will not stand by, the war in Lebanon has expanded"
-‏
-‏@Mena_Live
-00:33
 1405/03/05
