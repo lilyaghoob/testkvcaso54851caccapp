@@ -1,3 +1,61 @@
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷/🇦🇲 NEW: For the first time, Iranian indigenous ‘Majid’ air defense systems seen in the service of Armenian Armed Forces
+‏
+‏@Middle_East_Spectator
+22:12
+1405/03/05
+
+
+
+
+src :@mwarmonitor
+[نظرسنجی]
+22:12
+1405/03/05
+
+
+
+
+src :@MilitiaNews
+‏میلیشا | Militia pinned «اتصالتون چگونه بود؟»
+22:12
+1405/03/05
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏نت‌بلاکس اعلام کرد؛ 
+‏
+‏بخش زیادی از اینترنت ایران وصل شده و شبکه‌های تلفن همراه و سایر بخش‌ها دوباره به اینترنت جهانی متصل می‌شوند:
+‏
+‏• فیلترنت همچنان پابرجاست اما می‌توان آن را دور زد
+‏• واتس‌اپ اکنون محدود شده و نیاز به دور زدن دارد
+‏• برخی از کاربران هنوز آفلاین هستند
+22:10
+1405/03/05
+
+
+
+
+src :@rnintel
+‏🇵🇸🇮🇱⚡- Israeli assassination strike in Gaza City targeting Mohammed Awda, the new commander of the Qassem Brigades. Whether the strike was successful or not is not yet confirmed.   "We have now attacked Muhammad Adwa in Gaza - the leader of Hamas' military…
+22:09
+1405/03/05
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏یه کانفیگ فروش خوب یه کانفیگ فروش مُردس
+22:08
+1405/03/05
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️روابط عمومی نیروی دریایی سپاه پاسداران اعلام کرد طی ۲۴ ساعت گذشته، ۲۵  کشتی شامل نفتکش، کشتی‌های کانتینربر و شناورهای تجاری، پس از دریافت مجوز و با هماهنگی این نیرو از تنگه هرمز عبور کرده‌اند.
@@ -1756,15 +1814,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 20:13
-1405/03/05
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇺🇸ترامب: انتهيت للتو من الفحص الطبي الدوري الذي أجري كل ستة أشهر في المركز الطبي العسكري والتر ريد.كل شيء كان على ما يرام. شكرًا للأطباء والموظفين الرائعين! عائد إلى البيت الأبيض.
-20:12
 1405/03/05
 
 
@@ -3653,22 +3702,6 @@ src :@ircfspace
 
 
 
-src :@mwarmonitor
-‏🔴پنتاگون بر سر افزایش قیمت استارلینک در جریان جنگ ایران با اسپیس‌ایکس درگیر شده است
-‏
-‏🔰(رویترز) — در حالی که پهپادهای انتحاری آمریکا که با شبکه استارلینکِ ایلان ماسک هدایت می‌شدند، شروع به کسب دستاوردهای ملموس در جنگ علیه ایران کردند، مقامات ارشد اسپیس‌ایکس به یک جمع‌بندی رسیدند: پنتاگون باید برای دسترسی به شبکه اینترنت ماهواره‌ای آن‌ها هزینه بیشتری بپردازد.
-‏
-‏🔸به گفته دو منبع آگاه و بر اساس اسناد پنتاگون که رویترز بررسی کرده، ظرف چند هفته پس از آغاز کارزار بمباران ایالات متحده، مدیران اسپیس‌ایکس با مقام‌های پنتاگون دیدار کردند و استدلال کردند که ارتش برای هر ترمینال حدود ۵ هزار دلار پرداخت می‌کند، در حالی که عملاً از سطح بالاتری از خدمات استفاده می‌شود که ارزش آن به حدود ۲۵ هزار دلار نزدیک است.
-‏
-‏🔹این اختلاف‌نظر درباره استفاده از استارلینک روی پهپادهای انتحاری LUCAS — یک مدل ارزان آمریکایی که با پهپاد شاهد ایران قابل مقایسه است و می‌تواند بالای منطقه هدف گردش کند و سپس با شیرجه منفجر شود — بخشی از افزایش تنش‌ها میان اسپیس‌ایکس و پنتاگون بر سر قیمت‌گذاری استارلینک در ماه‌های اخیر است؛ موضوعی که بنا بر گفت‌وگو با پنج فرد مطلع و بررسی اسناد تأیید می‌شود.
-‏
-‏@mwarmonitor
-17:23
-1405/03/05
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏رسانه‌های ایران روز سه‌شنبه پنجم خرداد پیامی منسوب به مجتبی خامنه‌ای، رهبر جمهوری اسلامی، را به‌مناسبت برگزاری مراسم حج منتشر کردند که در آن می‌گوید آمریکا از این پس «نقطه امنی برای استقرار پایگاه نظامی در منطقه نخواهد داشت».
@@ -4180,15 +4213,6 @@ src :@Shin_Persian
 
 
 
-src :@rnintel
-[عکس]
-‏📈 Confirmed: Live metrics show a partial restoration to internet connectivity in #Iran on day 88, after 2093 hours of near-total isolation from international networks, the longest nationwide internet shutdown in modern history. It is unclear if the restoration will be sustained.
-16:31
-1405/03/05
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇴🇲 Explosion reported near ship off the coast of Oman.
 ‏
@@ -4207,17 +4231,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 16:26
-1405/03/05
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇴🇲/🇮🇷 NEW: The Sultan of Oman, His Highness Haytham bin Tariq, has signed an executive decree ordering Oman to increase its volume of trade and economic relations with Iran
-‏
-‏@Middle_East_Spectator
-16:22
 1405/03/05
 
 
@@ -4253,28 +4266,6 @@ src :@DEJradio
 src :@WAR_ROOM_NEWS
 ‏دلقک شکارچی:  🔶در جریان جنگ 39 روزه 1,800 اسرائیلی کشته و 9,000 اسرائیلی زخمی شدند.   🆔@WAR_ROOM_NEWS
 16:18
-1405/03/05
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏دلقک شکارچی:
-‏
-‏🔶در جریان جنگ 39 روزه 1,800 اسرائیلی کشته و 9,000 اسرائیلی زخمی شدند.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-16:18
-1405/03/05
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇮🇷🇴🇲⚡️- BREAKING: UKMTO reports that a tanker has exploded on its port side 60 nautical miles east of Muscat, directly in the Strait of Hormuz.
-16:17
 1405/03/05
 
 
@@ -4492,14 +4483,6 @@ src :@Americana_ir
 ‏#یادداشت_مهمان
 ‏🆔 @Americana_ir
 15:40
-1405/03/05
-
-
-
-
-src :@rnintel
-‏🇨🇺⚡- Amid escalating blackouts and severe fuel shortages, crowds across Havana chant "Freedom," protesting against the failed regime of Cuba.
-15:39
 1405/03/05
 
 
@@ -6293,17 +6276,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@MilitiaNews
-[عکس]
-‏نابغه بزرگ 
-‏
-‏- Gayan
-01:49
-1405/03/05
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏خبرنگار الجزیره: یک منبع ایرانی به من گفت که صدای تیراندازی شدیدی که در نزدیکی بندرعباس شنیده شد، پس از آن رخ داد که سپاه به یک کشتی  در دریا حمله کرد و پس از آن جت‌های جنگنده آمریکایی به قایق‌های نیروی دریایی سپاه در خلیج فارس حمله کردند.
@@ -6791,12 +6763,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/03/04/402504/
 22:27
-1405/03/04
-
-
-
-
-src :@IRRadar
-‏🔴 رسایی، نماینده مجلس: اینترنت قرار نیست وصل شود  حمید رسایی، نماینده مجلس، در واکنش به اخبار منتشرشده درباره بازگشایی اینترنت اعلام کرده که پزشکیان نیز می‌داند امکان وصل شدن اینترنت در شرایط فعلی وجود ندارد.  او گفته اینترنت قرار نیست وصل شود و از کاربران…
-22:09
 1405/03/04
