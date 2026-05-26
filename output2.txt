@@ -1,7 +1,42 @@
 src :@rus_cosmos
+[عکس]
+‏نت‌بلاکس، سازمان نظارت بر وضعیت اینترنت می‌گوید اینترنت ایران پس از ۲۰۸۸ ساعت همچنان قطع است.
+‏
+‏پ.ن؛ شایعات مربوط به وصل شدن جزئی نت کشور صحت ندارد.
+11:54
+1405/03/05
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ارتش اسرائیل اعلام کرد از نیمه شب تا به این لحظه توپخانه‌ و جنگنده‌های نیروی هوایی مواضع حزب الله را در لبنان هدف قرار دادند
+11:52
+1405/03/05
+
+
+
+
+src :@rus_cosmos
 ‏سپاه میگوید دیشب هواپیماهای آمریکا وارد مرز ایران شدند و با واکنش پدافند سپاه یک پهپاد ام‌کیو-۹ سقوط کرد و سپس پهپاد دیگر و جنگنده اف-۳۵ فرار کردند.
 ‏
 ‏پ.ن؛ منظور از فرار یعنی بمباران چندین نقطه و انهدام دو قایق و کشته شدن چندین سرباز
+11:51
+1405/03/05
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏قوه قضاییه جمهوری اسلامی اعلام کرد غلامرضا خانی شکراب، زندانی سیاسی با اتهام «همکاری اطلاعاتی و جاسوسی برای اسرائیل» اعدام شده است. بر اساس این گزارش، حکم او پس از تایید در دیوان عالی کشور اجرا شده است. 
+‏
+‏این گزارش پس از آن منتشر شد که نهادهای حقوق بشری درباره وضعیت خانی شکرآب، ورزشکار و زندانی سیاسی محکوم به اعدام، هشدار داده بودند. 
+‏
+‏سازمان حقوق بشر ایران ۳۱ اردیبهشت اعلام کرد خانی شکراب پس از انتقال از زندان اوین به سلول انفرادی در زندان قزل‌حصار، در معرض خطر اجرای قریب‌الوقوع حکم اعدام قرار دارد.
+‏
+‏بر اساس گزارش این نهاد، خانی شکرآب دوم مهر ۱۴۰۴ بازداشت و به اتهام «همکاری با اسرائیل و مشخصا سازمان اطلاعاتی موساد» محاکمه و به اعدام محکوم شده بود.
+‏https://iranintl.com/202605264875
 11:51
 1405/03/05
 
@@ -664,6 +699,17 @@ src :@ClashReport
 
 src :@defence_news
 ‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
+11:07
+1405/03/05
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Israeli attacks on Hezbollah from midnight until now targeted the following locations in southern Lebanon:
+‏
+‏Rayhan, Sharqiyah, Douair, Zawtar Al-Sharqiyah, Qaquaiyat Al-Jisr, Shehour, Srifa, Yater, Kafra, Housh, Selaa, Arzoun, Meifdoun, Zawtar Al-Gharbiyah, Majdal Selm, Qabrikha, Froun, Haddatha, Haris, Kfar Sir, Arnoun, Yohmor al-Shaqif, Kauthariyat al-Roz, Kafra.
 11:07
 1405/03/05
 
@@ -1872,36 +1918,12 @@ src :@Artemis_Force
 
 
 
-src :@IranintlTV
-[عکس]
-‏ابراهیم عزیزی، رییس کمیسیون امنیت ملی مجلس، با اشاره به مذاکرات با آمریکا، گفت: «تا زمانی که منافع کامل جمهوری اسلامی تامین نشود، هیچ اقدامی انجام نخواهد شد و مجلس مسائل را با حساسیت دنبال می‌کند.»
-‏
-‏او افزود: «مردم نگران نباشند، مسئولان با دقت در حال رصد و بررسی همه موضوعات هستند.»
-‏ 
-‏این نماینده مجلس ادامه داد: «روند فعلی ادامه دارد و اگر اقدامات اعتمادساز آمریکا نتایج ملموس داشته باشد، ممکن است زمینه برای گام‌های بعدی فراهم شود.»
-‏https://iranintl.com/202605264082
-09:09
-1405/03/05
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏🇺🇸🇮🇷⚡️حسابی بابت اینکه با اوباما مقایسه میکننش ناراحت شده
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 09:08
-1405/03/05
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۵ خرداد
-‏@iranintlTV
-09:06
 1405/03/05
 
 
@@ -2722,15 +2744,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump via Truth Social:
-04:54
-1405/03/05
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇮🇷 — U.S. or joint U.S.-Israeli aircraft struck two IRGC Navy speedboats near Larak Island in the Strait of Hormuz, killing at least 4 Iranian personnel.  The strike occurred roughly 48 hours before the information surfaced publicly.   Iranian media were…
 04:54
@@ -3215,16 +3228,6 @@ src :@VahidOnline
 src :@naya_foriraq
 ‏🇺🇸مسؤول أمريكي: إيران حاولت مهاجمة القوات الأمريكية على مدى الساعات الـ٢٤ الماضية.
 02:45
-1405/03/05
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — BREAKING: The U.S. military destroyed two IRGC vessels as they were laying mines in the Strait of Hormuz and also struck a SAM site in Bandar Abbas that was targeting U.S. aircraft, Fox News reports.
-‏
-‏A senior U.S. official said: “These were defensive strikes,” adding they do not mean the ceasefire has ended.
-02:42
 1405/03/05
 
 
@@ -5983,14 +5986,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 22:01
-1405/03/04
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏حملات اسرائیل به اهداف حزب‌الله در منطقه دره بقاع در عمق لبنان همچنان ادامه دارد
-21:58
 1405/03/04
 
 
