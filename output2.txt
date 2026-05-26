@@ -1,3 +1,64 @@
+src :@thewarreporter
+[عکس]
+‏🛳️🇴🇲🇮🇷 — UKMTO reported that a tanker 60 nautical miles east of the Omani capital, Muscat, experienced an external explosion near the port-side stern at the waterline.
+‏
+‏The crew and vessel were reported safe, though some fuel leaked into the sea.
+‏
+‏@TheWarReporter
+17:22
+1405/03/05
+
+
+
+
+src :@Mena_Live
+‏The Israeli Army announces the expansion of ground activity north of the Litani, southern Lebanon.  @Mena_Live
+17:21
+1405/03/05
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️سازمان عملیات تجارت دریایی بریتانیا (UKMTO) روز سه‌شنبه، پنجم خردادماه، با انتشار هشداری اعلام کرد که انفجاری در فاصله ۶۰ مایل دریایی (۱۱۱ کیلومتر) از سواحل مسقط در عمان و در نزدیکی یک نفت‌کش رخ داده است؛ بر اساس این گزارش، ناخدا این نفت‌کش از وقوع یک انفجار خارجی در بخش عقب سمت چپ کشتی و نزدیک به خط آب خبر داده، اما این سازمان تاکید کرده است که خدمه و شناور در سلامت کامل هستند، هرچند گزارش‌هایی مبنی بر نشت بخشی از سوخت کشتی به دریا دریافت شده و مقامات در حال بررسی این حادثه هستند.
+‏
+‏@IndyPersian
+17:20
+1405/03/05
+
+
+
+
+src :@ircfspace
+‏بازگشت اینترنت به وضعیت قبل از دی ۱۴۰۴ را با ذوق و شوق تیتر زده‌اند، انگار فتح‌الفتوح کرده‌اند.
+‏کدام اینترنت؟ همان اینترنت ناقصی که UDP و QUIC و IPv6 رویش عملاً بسته بود؟ همان اینترنتی که نصف سرویس‌های مدرن دنیا باهاش درست کار نمی‌کرد؟ همان اینترنتی که برای هر کار ساده باید ده جور VPN و تونل و کلک می‌زدی؟
+‏اسم این چیزی که شما تحویل مردم دادید «اینترنت» نیست؛ این یک شبکه دستکاری‌شده، محدود و مهندسی‌شده ا‌ست که هر روز بخشی از استانداردهای جهانی‌اش را قطع کرده‌اید. بعد تازه اگر همین شورای جدید واقعاً قدرت تصمیم‌گیری داشته باشد و فردا یک نهاد دیگر همه چیز را دوباره برنگرداند!
+‏این‌همه خسارت به زندگی و کار مردم زدید، حالا برگشت به وضعیت نیمه‌خراب قبلی را هم دارید مثل دستاورد ملی قالب می‌کنید.
+‏
+‏© iSegar0
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+17:19
+1405/03/05
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴عارف: گام نخست دسترسی آزاد و ضابطه‌مند به فضای مجازی برداشته شد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+17:17
+1405/03/05
+
+
+
+
 src :@Mena_Live
 [عکس]
 ‏The Israeli Army announces the expansion of ground activity north of the Litani, southern Lebanon.
@@ -4542,22 +4603,6 @@ src :@jangaavaran1390
 
 
 
-src :@didarnews1
-‏🔴مارکو روبیو:
-‏
-‏🔹امروز مذاکراتی در قطر در جریان بود،‌ و باید دید آیا می‌توانیم شاهد پیشرفتی باشیم یا خیر. فکر می‌کنم بخش زیادی از زمان صرف دقت در کلمات و واژه‌های به کار گرفته در متن اسناد می‌شود، بنابراین چند روز طول خواهد کشید.
-‏
-‏🔹رئیس‌جمهور تمایل خود را برای انجام این کار ابراز کرده است. او یا به یک توافق خوب دست خواهد یافت یا هیچ توافقی نخواهد کرد.»
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:46
-1405/03/05
-
-
-
-
 src :@MilitiaNews
 ‏🇺🇸🇮🇷🇶🇦⚡️وزیر امور خارجه امریکا مارکو روبیو:
 ‏
@@ -5256,33 +5301,9 @@ src :@mwarmonitor
 
 
 
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 U.S. Central Command (CENTCOM) spokesman to Fox News:
-‏
-‏‘U.S. forces conducted self-defense strikes in southern Iran today to protect our troops from threats posed by Iranian forces. 
-‏
-‏Targets included missile launch sites and Iranian boats attempting to emplace mines. 
-‏
-‏U.S. Central Command continues to defend our forces while using restraint during the ongoing ceasefire.’
-‏
-‏@Middle_East_Spectator
-02:28
-1405/03/05
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- BREAKING: Multiple members of the IRGC Navy were killed in attack by U.S. fighter jets on IRGC naval boats, The U.S. attack came after the IRGC targeted a vessel at sea, according to Al Jazeera.  Heavy gunfire erupted in Bandar Abbas following the…
 02:25
-1405/03/05
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 Barak Ravid of Axios:  ‘Trump’s comment seems to signal a softening in the U.S. position regarding the enriched uranium stockpile and closer to the Iranian position on this issue’  @Middle_East_Spectator
-02:16
 1405/03/05
 
 
@@ -5310,15 +5331,6 @@ src :@tglobaleye
 ‏***
 ‏In a similar way, the word 'destroyed’ can be soon changed to ‘diluted’, which has been Iran’s proposal all along. Slowly, this might head to Iran getting what it wants, which is not transfering the uranium to a 3rd country, but rather diluting it to a lower purity inside Iran.
 02:11
-1405/03/05
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 President Trump on Truth Social:  ‘The Enriched Uranium (Nuclear Dust!) will either be immediately turned over to the United States to be brought home and destroyed or, preferably, in conjunction and coordination with the Islamic Republic of Iran,…
-02:08
 1405/03/05
 
 
@@ -5363,16 +5375,6 @@ src :@MilitiaNews
 ‏
 ‏- Gayan
 01:49
-1405/03/05
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 NEW: Multiple American drones (possibly MQ-9 ‘Reaper’) were shot down about an hour ago near Bandar Abbas, likely when trying to identify the launch location of Iranian missiles towards U.S. warships
-‏
-‏@Middle_East_Spectator
-01:48
 1405/03/05
 
 
@@ -5463,20 +5465,6 @@ src :@MilitiaNews
 src :@Minas_Tirith2024
 ‏این مطلب تقریبا به معنای موافقت ترامپ با رقیق سازی اورانیوم در خاک ایران تحت نظارت آژانس خواهد بود که یکی از چالشی ترین موارد اختلاف را حل می کند.  @Minas_Tirith2024
 01:33
-1405/03/05
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 Ok, as you guys probably see the situation is very confusing, and covering these things is an ongoing process, but what I’ve gathered so far, is that yesterday night (or early hours of tonight, still unclear) two IRGC Navy speeboats were attacked
-‏
-‏Tonight, the IRGC decided to respond to that event by firing at U.S. warships, which has then led to alleged American strikes on the eastern part of Bandar Abbas & activation of air defenses.
-‏
-‏Apart from that, the situation is now mostly calm — will update if there are further developments.
-‏
-‏@Middle_East_Spectator
-01:32
 1405/03/05
 
 
@@ -7168,16 +7156,6 @@ src :@thewarreporter
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — Iran shot down a hostile drone over the Persian Gulf using a new covert defense system, warning that even stealth drones can no longer enter the area undetected.
-‏
-‏— Fars News Agency | @TheWarReporter
-18:43
-1405/03/04
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏فعال شدن پدافند در قشم
@@ -7236,14 +7214,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 17:24
-1405/03/04
-
-
-
-
-src :@guard_warriors
-‏حمله گسترده هوایی اسرائیل در جنوب لبنان 
-‏
-‏@Guard_Warriors
-17:20
 1405/03/04
