@@ -1,3 +1,60 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏✨ به فروشگاه Atlas Relay خوش آمدید!
+‏
+‏🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی
+‏✅ تضمین امنیت ارتباطات شما
+‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
+‏تعرفه ها :
+‏✅ ۲۰ گیگ ۱۶۰
+‏✅ ۳۰ گیگ ۲۳۰
+‏✅ ۴۰ گیگ ۳۰۰
+‏✅ ۵۰ گیگ ۳۷۰
+‏✅ ۱۰۰ گیگ ۷۶۰
+‏
+‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند
+‏
+‏@AtlasRelayFastbot
+00:12
+1405/03/07
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇮🇱/🇮🇷 NEW: 20-year old Israeli soldier ‘Rotem Yanai’ was killed by a Hezbollah FPV drone today in Shomera, northern Israel  @Middle_East_Spectator
+00:11
+1405/03/07
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇵🇸 — 18 Palestinians have been killed in Israeli attacks since yesterday morning.
+00:10
+1405/03/07
+
+
+
+
+src :@naya_foriraq
+‏هل قتل العراق العقل المدبر وأبرز مصنعي الأسلحة الكيماوية في داعش قبل يومين ؟! 
+‏
+‏ننتظر التأكيد الرسمي
+00:10
+1405/03/07
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇱🇵🇸 GRAPHIC: Footage of the apartment where the two high-ranking Hamas commanders were struck with bodies seen being removed.  @wfwitness
+00:07
+1405/03/07
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇱🇧❌🇮🇱 — 20-year-old Rotem Yanai from the Givati Brigade was killed today in a Hezbollah drone attack on a military base near Shomera, northern Israel.
@@ -25,7 +82,7 @@ src :@IranintlTV
 
 src :@GeoPWatch
 [عکس]
-‏🇨🇳❌🇳🇱- The Royal Netherlands Navy frigate HNLMS De Ruyter (F804) was briefly approached by a Chinese Navy (PLAN) helicopter while transiting the South China Sea during its Indo-Pacific deployment, according to its commander Roger de Wit. 
+‏🇨🇳❌🇳🇱- The Royal Netherlands Navy frigate HNLMS De Ruyter (F804) was briefly approached by a Chinese Navy (PLAN) helicopter while transiting the South China Sea during its Indo-Pacific deployment.
 ‏
 ‏➡️ The interaction was described as professional by the Dutch, with them describing the helicopter as simply identifying the vessel before departing.
 ‏
@@ -92,7 +149,7 @@ src :@didarnews1
 
 src :@Middle_East_Spectator
 [عکس]
-‏— 🇮🇱/🇮🇷 NEW: Israeli soldier ‘Rotem Yanai’ was killed by a Hezbollah FPV drone today
+‏— 🇮🇱/🇮🇷 NEW: 20-year old Israeli soldier ‘Rotem Yanai’ was killed by a Hezbollah FPV drone today in Shomera, northern Israel
 ‏
 ‏@Middle_East_Spectator
 00:00
@@ -1253,22 +1310,6 @@ src :@GeoPWatch
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴ورود فرانسه به معادله هرمز؛ پاریس از طرح اعزام مأموریت بین‌المللی برای بازگشایی مسیر انرژی خبر داد
-‏
-‏وزارت خارجه فرانسه اعلام کرد این کشور با هماهنگی شرکای بین‌المللی خود، در تلاش است تا در کوتاه‌ ترین زمان ممکن آزادی کشتیرانی در تنگه هرمز را احیا کند؛ مسیری حیاتی که به گفته پاریس، تحت تأثیر اقدامات محدودکننده ایران قرار گرفته است
-‏
-‏در همین راستا، پاسکال کونفاورو سخنگوی وزارت خارجه فرانسه، از بررسی طرح اعزام یک مأموریت بین‌المللی به منطقه خبر داد؛ مأموریتی که به‌ گفته او ماهیتی کاملاً دفاعی خواهد داشت و هدف آن اسکورت کشتی‌ های تجاری، ایجاد اطمینان برای خدمه و کاهش نگرانی شرکت‌ های بیمه دریایی است
-‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-21:54
-1405/03/06
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏مولوی عبدالحمید، امام‌جمعه اهل سنت زاهدان، در مراسم «عید قربان» ابراز امیدواری کرد مذاکرات جمهوری اسلامی و آمریکا که «قرار است جلوی جنگ را بگیرد» به نتیجه برسد و دو طرف به توافق دست یابند.
@@ -1523,16 +1564,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 21:25
-1405/03/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Violent Israeli airstrikes on the city of Tyre, southern Lebanon.
-‏
-‏@wfwitness
-21:23
 1405/03/06
 
 
