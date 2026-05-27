@@ -1,3 +1,86 @@
+src :@warmonitors
+‏⚡#LATEST Reports in Iran: Explosions heard in Bandar Abbas.
+‏
+‏Their origin is unknown at this time.
+02:17
+1405/03/07
+
+
+
+
+src :@MilitiaNews
+‏🇮🇷⚡️#فوری خبرگزاری فارس تأیید می‌کند که سه انفجار در شرق شهر بندرعباس در جنوب ایران شنیده شده است.
+‏
+‏سامانه‌های دفاع هوایی نیز فعال شدند، اگرچه علت و مکان دقیق انفجارها هنوز نامشخص است.
+‏
+‏@MilitiaNews | میلیشا را دنبال کنید
+02:15
+1405/03/07
+
+
+
+
+src :@World_Newsly
+‏#غیررسمی   درگیری میان نیروی دریایی ایران با نیروی دریایی ایالات متحده   @Dollar_Riyal
+02:15
+1405/03/07
+
+
+
+
+src :@GeoPWatch
+‏⁉️❌🇮🇷- Fars News Agency has confirmed the reports of 3 explosions coming from east Bandar Abbas with Air Defence systems also activated.
+02:15
+1405/03/07
+
+
+
+
+src :@P_raetorio
+‏#فوری 
+‏طبق اعلام خبرگزاری فارس صدای سه انفجار و فعالیت پدافند در بندرعباس به گوش رسید 
+‏
+‏
+‏@P_raetorio
+02:14
+1405/03/07
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏رسانه‌های ایران از شنیده شدن صدای ۳ انفجار از شرق شهر بندرعباس حوالی ساعت ۱:۳۰ بامداد خبر دادند. هنوز محل دقیق و منشا این صداها مشخص نیست و پیگیری‌ها برای مشخص شدن آن ادامه دارد. هم‌زمان برای دقایقی پدافند هوایی بندرعباس نیز فعال شد.
+‏https://iranintl.com/202605276527
+02:13
+1405/03/07
+
+
+
+
+src :@P_raetorio
+‏#فوری
+‏گزارش‌های تایید نشده از شنیده شدن صدای انفجاری مهیبی در اطراف بندر عباس
+‏
+‏@P_raetorio
+02:13
+1405/03/07
+
+
+
+
+src :@World_Newsly
+‏#غیررسمی 
+‏
+‏درگیری میان نیروی دریایی ایران با نیروی دریایی ایالات متحده 
+‏
+‏@Dollar_Riyal
+02:12
+1405/03/07
+
+
+
+
 src :@mwarmonitor
 ‏📝 دنیای موازیِ صداوسیما واقعاً جای قشنگیه؛ سنت‌کام بیانیه رسمی صادر کرد، پدافند بندرعباس پودر شد ، اسامی تلفات رو دارن می‌شمارن، اونوقت خبرنگارِ تیزبین اون وسط واستاده، نسیم خنک دریا رو بو می‌کشه و با آرامشِ فیلسوفانه‌ای می‌گه: «همه‌چیز عادیه، مردم هم دارن…
 02:12
@@ -253,6 +336,8 @@ src :@VahidOnline
 ‏۳تا صدای انفجار بعد صدای پدافند
 ‏
 ‏سه انفجار پشت سر هم و یکی هم ده دقیقه بعدش بندرعباس رخ داده
+‏Vahid
+‏
 ‏📡 @VahidOnline
 01:54
 1405/03/07
@@ -958,14 +1043,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏بررسی پرونده مرگ مشکوک یک زن جوان در تهران
-00:13
-1405/03/07
-
-
-
-
 src :@IRRadar
 ‏🔴 رفع محدودیت اینترنت یا آغاز فاز جدید فیلترینگ هوشمند؟
 ‏
@@ -1309,15 +1386,6 @@ src :@IranintlTV
 ‏پیش‌تر کره جنوبی اعلام کرد حمله به کشتی اچ‌ام‌ام نامو در اوایل این ماه احتمالا با استفاده از یک موشک ایرانی انجام شده است.
 ‏https://iranintl.com/202605272938
 23:29
-1405/03/06
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇱❌🇱🇧🇱🇧- The Lebanese Army has announced the death of a soldier following an Israeli airstrike targeting him on the Kfarman-Khardali road in southern Lebanon. The identity of the soldier has not been released as of yet.
-23:25
 1405/03/06
 
 
@@ -3971,16 +4039,6 @@ src :@didarnews1
 
 
 
-src :@P_raetorio
-‏بر اثر اصابت یک پهپاد/مولتی روتور انتحاری حزب الله به شهرک شومیرا در شمال اسرائیل یک سرباز اسرائیلی کشته و ۱ نفر دیگر زخمی شده است.
-‏
-‏@Minas_Tirith2024
-16:57
-1405/03/06
-
-
-
-
 src :@Minas_Tirith2024
 ‏بر اثر اصابت یک پهپاد/مولتی روتور انتحاری حزب الله به شهرک شومیرا در شمال اسرائیل یک سرباز اسرائیلی کشته و ۱ نفر دیگر زخمی شده است.
 ‏
@@ -4626,16 +4684,6 @@ src :@Farsi_Iranwire
 
 src :@rnintel
 ‏🇮🇷🇮🇱⚡️- "The edifice of evil that is the Ayatollah regime has been significantly weakened, and its future and stability are shrouded in uncertainty. Its leaders are being hunted down, most of its military capabilities have been destroyed, and its nuclear program has been set back by years; its economy is collapsing, and its citizens have yet to grasp the magnitude of the disaster to which their extremist leaders have led them." - Eyal Zamir, Israeli Chief of the General Staff.
-14:41
-1405/03/06
-
-
-
-
-src :@MilitiaNews
-‏🇺🇸🇮🇱🇮🇷⚡️ روزنامه جروزالم پست گزارش می‌دهد که ارتش اسرائیل و فرماندهی مرکزی آمریکا در حالت آماده‌ باش بالا قرار دارند زیرا احتمال دارد مذاکرات هسته‌ای با ایران شکست بخورد و دونالد ترامپ دستور اقدام نظامی بدهد 
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
 14:41
 1405/03/06
 
