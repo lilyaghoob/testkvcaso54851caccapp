@@ -1,3 +1,104 @@
+src :@mwarmonitor
+‏🔸رئیس‌جمهور ترکیه، رجب طیب اردوغان، در حال تلاش است تا هم‌زمان با برگزاری مسابقه فوتبال جام جهانی میان تیم‌های ترکیه و آمریکا در لس‌آنجلس ماه آینده، دیداری با دونالد ترامپ ترتیب دهد. بلومبرگ 
+‏
+‏@mwarmonitor
+18:22
+1405/03/06
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏Iran's internet connectivity has now been in a state of restoration for over 24 hours. 
+‏
+‏However, service remains heavily filtered, with new restrictions on messaging and app stores compared to pre-January situation.
+18:20
+1405/03/06
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇰🇷🇻🇳⚡️ — Samsung Electronics plans to invest $1.5 billion in a new semiconductor testing plant in Vietnam, according to a proposal document reviewed by Reuters.
+‏
+‏➡️ Construction has already begun 60km north of Hanoi, with operations slated to start in November 2027 — marking Samsung’s first chip testing facility in Vietnam.
+‏
+‏➡️ The plant will focus on legacy memory chips (DRAM and NAND), targeting shortages driven by major producers shifting capacity toward AI chip production.
+‏
+‏➡️ Vietnamese authorities approved the investment in March, and Samsung intends to reinvest profits of up to $2.5 billion for a potential second factory.
+18:20
+1405/03/06
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸 US government says Iranian state media released a "completely fabricated" MoU regarding negotiations.
+‏
+‏@BRICSNews
+18:19
+1405/03/06
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Iran's internet connectivity has now been in a state of restoration for over 24 hours. 
+‏
+‏However, service remains heavily filtered, with new restrictions on messaging and app stores compared to pre-January situation.
+18:19
+1405/03/06
+
+
+
+
+src :@didarnews1
+‏🔴"مئیر بن شبات"، رئیس پیشین شورای امنیت ملی اسرائیل:
+‏
+‏🔹توافقی که بین آمریکا و ایران در حال شکل‌گیری است، نگرانی‌های زیادی در سطح منطقه‌ای و امنیتی ایجاد می‌کند.
+‏
+‏🔹اگر این توافق بر اساس اخباری که منتشر شده، درست باشد، ثابت می‌کند که ایران با وجود فشارهای آمریکا قادر به مقاومت بوده است. 
+‏
+‏🔹این موضوع نفوذ ایران در خاورمیانه را تقویت کرده و به آن قدرت بیشتری برای استفاده از تنگه هرمز به عنوان اهرم فشار می‌دهد.
+‏
+‏🔹پولی که به سمت ایران سرازیر می‌شود به آن کمک می‌کند تا توانایی‌های نظامی خود را بازسازی کرده و وضعیت داخلی را از نظر اقتصادی آرام کند.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:19
+1405/03/06
+
+
+
+
+src :@MilitiaNews
+[عکس]
+‏🇺🇸🇮🇷⚡️کاخ سفید گزارش صدا و سیما را که در آن تفاهم نامه پیشنهادی ارائه شده بود، رد کرد.
+‏
+‏@MilitiaNews | میلیشا را دنبال کنید
+18:18
+1405/03/06
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 پست جدید ترامپ 
+‏
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+18:18
+1405/03/06
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Canada will buy Saab’s GlobalEye early-warning aircraft instead of Boeing’s E-7 Wedgetail, marking a shift away from U.S. defense suppliers.
@@ -1681,14 +1782,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇵🇸 — The IDF confirms the death of Mohammed Awda, the newly selected commander of Hamas’ military wing.
-16:42
-1405/03/06
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇮🇱❌🇱🇧🇱🇧- The IDF has issued an evacuation notice for the city of Tyre in southern Lebanon and its surrounding areas.
@@ -2306,17 +2399,6 @@ src :@IranintlTV
 ‏
 ‏@iranintltvsport
 16:08
-1405/03/06
-
-
-
-
-src :@World_Newsly
-‏🔴تداوم موج حملات هوایی اسرائیل در جنوب لبنان، زیرساخت های حزب‌الله در مناطق عرمتی و ملیخ مورد هدف قرار گرفتند
-‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-16:05
 1405/03/06
 
 
@@ -3727,44 +3809,6 @@ src :@P_raetorio
 
 
 
-src :@mwarmonitor
-‏🔴نگرانی تایوان از به تعویق افتادن ارسال تسلیحات توسط ایالات متحده
-‏
-‏📝نویسنده: کالین دمارست AXIOS 
-‏
-‏🔰تایپه — یک بسته تسلیحاتی ۱۴ میلیارد دلاری برای تایوان که پیش از این به تصویب قانون‌گذاران آمریکایی رسیده بود، اکنون در برزخِ دولت دوم ترامپ گیر کرده است؛ وضعیتی که مقامات تایپه را به شدت نگران و مضطرب کرده است.
-‏
-‏🔸چرا این موضوع اهمیت دارد؟ منطقه هند-آرام (ایندو‌پاسیفیک) مانند یک انبار باروت است. دولت تایوان استدلال می‌کند که تحویل این تسلیحات به حفظ صلح منطقه‌ای کمک خواهد کرد.
-‏
-‏عامل اصلی جریان: تردید و نوسان در تصمیم‌گیری‌های پرزیدنت ترامپ و پافشاری «هانگ کائو»، سرپرست وزارت نیروی دریایی آمریکا، مبنی بر اینکه جنگ ایران باعث ارزیابی مجدد مهمات موجود شده، موجی از نگرانی را در واشنگتن و سراسر جامعه دفاعی جهان ایجاد کرده است.
-‏در همین حال: هفته گذشته هزاران نفر در تایپه راهپیمایی کردند و خواستار سرمایه‌گذاری بیشتر در صنایع دفاعی داخلی شدند.
-‏این راهپیمایی پس از آن صورت گرفت که حزب اپوزیسیون «کومینتانگ» (KMT) موفق شد پیشنهاد بودجه برای هزینه‌های تسلیحاتی بیشتر را تعدیل و کم‌اثر کند؛ نشانه‌ای از اینکه این موضوع حتی در سطح داخلی تا چه حد می‌تواند بحث‌برانگیز باشد.
-‏مقامات چه می‌گویند؟
-‏«چن مینگ-چی»، معاون وزیر امور خارجه تایوان، در جریان صرف ناهار در وزارتخانه این جزیره به آکسیوس گفت:
-‏«جاه‌طلبی نظامی چین بسیار فراتر از تایوان است. اگر از دوستان ژاپنی ما بپرسید، یا از دوستانمان در فیلیپین جویا شوید، آن‌ها نیز تهدید چین را احساس می‌کنند.»
-‏پس از دیدار این ماه ترامپ و همتای چینی‌اش، شی جین‌پینگ در پکن، موجی از «بیانیه‌ها برای یادآوری اهمیت فروش تسلیحات به دولت آمریکا» سرازیر شد.
-‏چن افزود: «ما اولویت‌های خود را داریم و آن‌ها هم اولویت‌های تحویل خود را دارند. من فکر می‌کنم می‌توانیم این تلاش‌ها را همسو کنیم.»
-‏نگاه نزدیک‌تر (بررسی جزئیات)
-‏واشنگتن مدت‌هاست که علی‌رغم اعتراضات بیرونی، تایپه را مسلح کرده است.
-‏ترامپ در ماه دسامبر یک توافق ۱۱ میلیارد دلاری را تایید کرد.
-‏قراردادهای قبلی شامل جنگنده‌های F-16، هلیکوپترهای تهاجمی AH-64D، سیستم‌های پدافند هوایی پاتریوت و نسخه‌هایی از پهپاد آلتیوس (Altius) بوده است.
-‏اما یک مشکل وجود دارد: به گزارش «دیده‌بان امنیت تایوان»، حجم سفارش‌های معوقه (تحویل داده نشده) تا ماه آوریل و به‌دنبال آخرین محموله تانک‌های M1A2T آبرامز، در مرز ۳۰ میلیارد دلار قرار داشت. محموله‌های قبلی در اواخر سال ۲۰۲۴ و اواسط ۲۰۲۵ وارد شده بودند.
-‏چن گفت: «ما در حال رایزنی نزدیک با همتایان آمریکایی خود در مورد اولویت‌بندی هستیم. در این روند، نیاز ایالات متحده و ظرفیت آن در نظر گرفته می‌شود.»
-‏او همچنین اضافه کرد: «همه ما باید در پایگاه صنعتی-دفاعی سرمایه‌گذاری کنیم. ما برای مدتی طولانی از مواهب و سود صلح بهره‌مند بوده‌ایم و سرمایه‌گذاری را فراموش کرده‌ایم.»
-‏چه مواردی را زیر نظر داریم؟
-‏به گزارش خبرگزاری «فوکوس تایوان»، انتظار می‌رود «چنگ لی-وون»، رئیس حزب کومینتانگ (KMT)، ماه آینده از بوستون، نیویورک و واشنگتن بازدید کند. او در ماه آوریل با شی جین‌پینگ دیدار کرده بود.
-‏کلام آخر
-‏«فرانسوا چیه‌چونگ وو»، یکی دیگر از مقامات امور خارجه تایوان، در همان ضیافت ناهار به آکسیوس گفت:
-‏«اگر در اینجا جنگ رخ دهد، همه چیز خیلی دیر خواهد شد. بهترین کار این است که اجازه ندهیم جنگی اتفاق بیفتد.»
-‏او گفت: «سؤال شما درباره این است که آیا این پیشرفته‌ترین سلاح آمریکایی برای دفاع ما حیاتی یا کاملاً ضروری است؟ بله، هست. اما این تنها عامل نیست. ما آن‌قدر که دنیا تصور می‌کند، ضعیف نیستیم.»
-‏
-‏@mwarmonitor
-13:52
-1405/03/06
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️وزارت اطلاعات جمهوری اسلامی ایران روز چهارشنبه ششم خردادماه با صدور بیانیه‌ای معترضان و مخالفان حکومت را به پیگرد قانونی تهدید کرد.
@@ -4839,19 +4883,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 08:30
-1405/03/06
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴طبق گزارش کانال ۱۲ اسرائیل گزارش می‌شود محمد عوده رئیس دستگاه اطلاعاتی و فرمانده فعلی شاخه نظامی حماس به شهادت رسیده است
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:29
 1405/03/06
 
 
@@ -6115,18 +6146,6 @@ src :@ircfspace
 
 
 
-src :@MilitiaNews
-‏🇸🇾⚡️به گزارش رویترز، دولت انتقالی سوریه بقایای برنامه مخفی سلاح‌های شیمیایی که در زمان بشار اسد، رئیس جمهور سابق سوریه، اداره می‌شد، از جمله مواد خام و مهماتی مشابه آنچه برای انجام حملات مرگبار با گاز سمی که بیش از هزار کشته و ده‌ها هزار زخمی برجای گذاشت، در طول جنگ داخلی سوریه استفاده شد، را شناسایی کرده است.
-‏
-‏تیم‌های سوری، با همکاری بازرسان سازمان منع سلاح‌های شیمیایی (OPCW)، بیش از 70 موشک و بمب هوایی و همچنین مواد اولیه برای تولید عامل عصبی سارین را شناسایی کرده‌اند. در حالی که مقامات سوری 18 مظنون را به اتهام دست داشتن در برنامه سلاح‌های شیمیایی اسد، از جمله مقامات عالی رتبه نظامی، سیاسی و فنی که قبلاً در ارتش عربی سوریه خدمت می‌کردند، بازداشت کرده‌اند.
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-21:27
-1405/03/05
-
-
-
-
 src :@intelslava
 ‏🇺🇸🌐❗️Washington intends to significantly reduce its contribution to NATO, writes Der Spiegel.
 ‏
@@ -6206,19 +6225,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@P_raetorio
 20:21
-1405/03/05
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The United States has informed European allies it plans to significantly cut its military contributions to NATO, urging them to move quickly to close the gap, according to the German media outlet Der Spiegel. 
-‏
-‏Alexander Velez-Green, a senior advisor and envoy for U.S. Defense Secretary Pete Hegseth, briefed allies on plans during a confidential meeting last week at the NATO Headquarters in Brussels, with European officials reported to have been taken aback by the scale of the planned drawdown by the Trump Administration.
-‏
-‏As part of the drawdown, the U.S. Armed Forces plans to commit much fewer assets to NATO’s pool of readily available forces in the case of a conflict, significantly reducing the number of deployable drones, fighter jets, aerial refueling aircraft, strategic bomber, as well as warships, submarines and other naval assets, with a roughly one-third cut in just its fighter-aircraft contribution to forces in Europe.
-20:15
 1405/03/05
 
 
@@ -6314,15 +6320,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:44
-1405/03/05
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇷 — Live metrics show a partial restoration to internet connectivity in Iran on day 88, after 2093 hours of near-total isolation from international networks. — NetBlocks   The Global Eye | Subscribe
-19:37
 1405/03/05
 
 
