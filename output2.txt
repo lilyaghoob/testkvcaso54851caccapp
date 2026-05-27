@@ -1,3 +1,55 @@
+src :@GeoPWatch
+‏🇱🇧❌🇮🇱- Missile alerts have been activated in northern Israel, around Kiryat Shmona.
+04:11
+1405/03/06
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇱🇧❌🇮🇱 — Rocket alerts in the Galilee Panhandle, northern Israel.
+04:10
+1405/03/06
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇱🇧❌🇮🇱- Missile alerts have been activated in northern Israel, around Kiryat Shmona.
+04:09
+1405/03/06
+
+
+
+
+src :@wfwitness
+‏⚡🇮🇱 Red alert sirens are sounding in Kiryat Shmona, and the surrounding areas of the Confrontation Line region, Northern Israel.  @wfwitness
+04:09
+1405/03/06
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇱🇧🇮🇱⚡️- Hezbollah launches rockets to Kiryat Shmona, northern Israel.
+04:07
+1405/03/06
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Early warning alerts are in effect in Kiryat Shmona, and the surrounding areas of the Confrontation Line region, Northern Israel.  @wfwitness
+04:07
+1405/03/06
+
+
+
+
 src :@wfwitness
 ‏Its just the new warning system
 04:06
@@ -27,6 +79,8 @@ src :@wfwitness
 
 src :@GeoPWatch
 ‏🇮🇱❌🇱🇧🇱🇧- Israeli Air Force fighter jets are currently flying above Beirut and northern Lebanon.
+‏
+‏@GeoPWatch
 04:05
 1405/03/06
 
@@ -231,27 +285,6 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸🇸🇦⚡️ — Photos of a U.S. Air Force F-22 Raptor getting refueled by a KC-135 Stratotanker while flying somewhere over the Middle East.
 02:51
-1405/03/06
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇧🇴⚡️ — The U.S. State Department issued a security alert for Bolivia warning of ongoing roadblocks and demonstrations disrupting transportation and essential services across the country.
-‏
-‏The advisory warns travelers to avoid protest areas and not travel by road between cities, citing reports of violence, assaults, and vehicle damage at roadblocks. 
-‏
-‏Air travel remains operational, but access to El Alto/La Paz airport has been intermittently disrupted by blockades near the airport entrance.
-02:32
-1405/03/06
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇱⚡- Israeli citizen, Ori Solomon, who was arrested for operating an illegal biolab in Las Vegas, which contained HIV, Dengue Fever, and tuberculosis has had all of his federal charges dismissed.
-02:29
 1405/03/06
 
 
@@ -589,24 +622,6 @@ src :@DEJradio
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 A new wave of Israeli airstrikes on southern Lebanon.  @wfwitness
 01:35
-1405/03/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli jets break the sound barrier over the Bekaa region.  @wfwitness
-01:34
-1405/03/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli jets break the sound barrier over the Bekaa region.
-‏
-‏@wfwitness
-01:32
 1405/03/06
 
 
@@ -1790,14 +1805,6 @@ src :@tglobaleye
 
 
 
-src :@GeoPWatch
-‏⚡️🇮🇱❌🇵🇸🇵🇸 - Ongoing IAF UAV surveillance flights alongside "AH-64" Apache Helicopters near the targeted area.  2 civilians were killed, 10 wounded, including children. The status of Odeh is unknown.  @GeoPWatch
-23:40
-1405/03/05
-
-
-
-
 src :@cataphract1
 ‏⚜روابط عمومی نیروی دریایی سپاه پاسداران اعلام کرد که طی شبانه‌روز گذشته ۲۵ فروند کشتی اعم از نفتکش، کانتینربر و سایر کشتی‌های تجاری پس از کسب مجوز از نیروی دریایی سپاه، از تنگه هرمز عبور کردند.
 ‏✒️#LT
@@ -2769,15 +2776,6 @@ src :@Shin_Persian
 
 
 
-src :@rnintel
-[عکس]
-‏🇮🇱📞🇺🇸 — Israeli Prime Minister Benjamin Netanyahu and President Trump are currently holding a phone call, according to Israeli Channel 12.
-22:24
-1405/03/05
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️دو مقام آمریکایی روز سه‌شنبه پنجم خردادماه،‌به روزنامه نیویورک تایمز گفتند جمهوری اسلامی  دوشنبه‌شب پهپادهای تهاجمی را به سمت ناوها و کشتی‌های جنگی آمریکا در خلیج عمان و دریای عرب پرتاب کرده و همین اقدام به حملات متقابل آمریکا علیه اهدافی در جنوب ایران منجر شده است.
@@ -2884,7 +2882,7 @@ src :@naya_foriraq
 
 
 src :@Artemis_Force
-‏بازسازی نيرو دریایی در هر صورت واقعا به صرفه شده جدای از اینکه پرسنل زیادی رو از دست دادیم در نهاجا از افسران ناو تا اپراتور پهپاد نداجا، اما نداجا اگر روزگاری بتواند بازسازی کند از جنبه خریداری شناور و.... حقیقتا برایش سود دارد
+‏بازسازی نيرو دریایی در هر صورت واقعا به صرفه شده جدای از اینکه پرسنل زیادی رو از دست دادیم در نداجا از افسران ناو تا اپراتور پهپاد نداجا، اما نداجا اگر روزگاری بتواند بازسازی کند از جنبه خریداری شناور و.... حقیقتا برایش سود دارد
 ‏
 ‏ناوگان موج، الوند و بایندر و حتی الباقی تجهیزات برای نبرد های دریایی در دهه ۶٠ الی نهایت ٩٠ میلادی سال پیش هستن و واقعیتش در حد همان گشت دریایی و اسکورت شناوری بودن
 ‏
