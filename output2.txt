@@ -1,3 +1,27 @@
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+13:45
+1405/03/06
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏فرودگاه تبریز به زودی باز می‌شود.
+‏
+‏ فرودگاه بین‌المللی تبریز که در جریان جنگ اخیر هدف حمله قرار گرفته و دچار آسیب شده بود، روز چهارشنبه بازگشایی می‌شود.
+‏
+‏سخنگوی سازمان هواپیمایی کشوری جمهوری اسلامی اعلام کرده این فرودگاه پس از انجام تعمیرات، دوباره آماده فعالیت شده است.
+13:44
+1405/03/06
+
+
+
+
 src :@World_Newsly
 ‏🔴 کره جنوبی اعلام کرد سفیر ایران در سئول را در پی حمله به یک کشتی کره‌ای در تنگه هرمز احضار خواهد کرد. سئول اعلام کرد تحقیقات نشان می‌دهد حمله ماه جاری به این موشک احتمالا با یک موشک ایرانی انجام شده است.
 ‏وزارت خارجه کره جنوبی تاکید کرد ایران باید «اقدام‌های مسئولانه‌ای» با هدف جلوگیری از تکرار چنین حملاتی انجام دهد.
@@ -1455,25 +1479,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 11:37
-1405/03/06
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇱🇧 During yesterdays Israeli cabinet session on Lebanon, Israeli ministers discussed expanding pressure on Hezbollah and the Lebanese state amid continued cross-boarder tensions. Prime Minister Netanyahu and Defence Minister Katz reportedly acknowledged an American veto preventing strikes in Beirut, saying: “They are preventing it.”
-‏
-‏Katz said: “What hurts them is taking territory,” while National Security Minister Ben Gvir added: “It will hurt them when we flatten Dahieh.” Ben Gvir said Israel should “do there what we did in Rafah,” including moving populations, arguing that harm to Israeli soldiers and civilians is a “red line.”
-‏
-‏Energy and Infrastructure Minister Cohen said: 
-‏
-‏“There is no choice but to strike both Hezbollah and the Lebanese government — they must pay the price,” 
-‏
-‏Adding that Lebanon, as a sovereign state, is responsible for attacks originating from its territory and that infrastructure should also be targeted.
-‏
-‏@wfwitness
-11:36
 1405/03/06
 
 
@@ -6140,15 +6145,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 16:48
-1405/03/05
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏نت بلاکس : بعد از ۸۸ روز و حدود ۲۰۹۳ ساعت قطعی و انزوای شدید از اینترنت جهانی، اتصال اینترنت تو ایران حدودا ۳۳% برگشته است.
-16:42
 1405/03/05
 
 
