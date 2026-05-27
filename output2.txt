@@ -1,6 +1,37 @@
+src :@tabzlive
+[عکس]
+‏🇱🇧🇮🇱⚡️ — Smoke is rising from Beirut following the explosions.
+06:02
+1405/03/06
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏علی ربیعی، دستیار اجتماعی پزشکیان، گفت: «رفع محدودیت اینترنت یک بایدِ بنیادین بود. مایه تاسف است که صداوسیما در صف اول هجمه به این تصمیم ایستاده است.»
+‏پس از ۸۸ روز تاریکی دیجیتال در ایران، دسترسی به اینترنت به تدریج برقرار شده است. نت‌بلاکس در ایکس اعلام کرد اتصال اینترنت در ایران افزایش بیشتری یافته و به ۸۶ درصد رسیده است، شبکه‌های موبایل و بخش‌های دیگری از اینترنت نیز دوباره به اینترنت جهانی متصل شده‌اند. نت‌بلاکس افزود «فیلترنت» همچنان برقرار است اما امکان دور زدن آن وجود دارد. 
+‏همچنین واتس‌اپ اکنون محدود شده و برای دسترسی به آن نیازمند فیلترشکن است. از سوی دیگر، برخی کاربران همچنان به اینترنت جهانی دسترسی ندارند.
+‏
+‏https://iranintl.com/202605273087
+05:59
+1405/03/06
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇦❌🇷🇺 — Ukrainian drones are attacking Taganrong in Russia’s Rostov region.
+05:59
+1405/03/06
+
+
+
+
 src :@GeoPWatch
 [عکس]
-‏🇱🇧- 2 large explosions were heard in Beirut approximately 20 minutes ago, with smoke seen rising from Dahieh, Beirut's southern suburbs.
+‏🇱🇧- 2 large explosions were heard in Beirut approximately 20 minutes ago, with smoke seen rising from Dahieh, Beirut's southern suburbs. There is currently no indication that this was an IAF airstrike, although the situation is currently unclear.
 05:57
 1405/03/06
 
@@ -511,16 +542,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-‏🇱🇧❌🇮🇱- To counter the threat of Hezbollah's FPV drones, the IDF has now installed more than 254,000 square meters of anti-drone netting along its northern border with Lebanon, with contracts secured for an additional 280,000 square meters.
-‏
-‏@GeoPWatch
-03:11
-1405/03/06
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸🐊⚡️- President Trump doubles down on his endorsement of Congressman Byron Donalds for Governor of Florida.
@@ -546,15 +567,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 03:01
-1405/03/06
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇸🇦⚡️ — Photos of a U.S. Air Force F-22 Raptor getting refueled by a KC-135 Stratotanker while flying somewhere over the Middle East.
-02:51
 1405/03/06
 
 
