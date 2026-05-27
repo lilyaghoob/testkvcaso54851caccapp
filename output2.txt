@@ -1,3 +1,23 @@
+src :@World_Newsly
+‏۱ موز بزرگ در تهران:
+01:26
+1405/03/07
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ابراهیم عزیزی، رئیس کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی، در واکنش به اظهارات اخیر دونالد ترامپ تاکید کرد که جمهوری اسلامی با الفاظی‌های رئیس‌جمهور آمریکا، هرگز از خطوط قرمز خود از جمله «حق غنی‌سازی و حفظ اورانیوم غنی‌شده»، «مدیریت تنگه هرمز» و «لغو تحریم‌ها» عقب‌نشینی نخواهد کرد.
+‏عزیزی با انتشار پیامی در شبکه اجتماعی اکس نوشت: «دیگر همه می‌دانند ترامپ برای نجات خود از این بن‌بست راهبردی، یک روز از ابزار تهدید استفاده می‌کند و روز دیگر برای توافق التماس می‌کند.»
+‏
+‏@indypersian
+01:26
+1405/03/07
+
+
+
+
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Israeli airstrikes continue on the city of Tyre, southern Lebanon.  @wfwitness
 01:16
@@ -934,14 +954,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴گزارش ها از کشته حداقل 3 نفر در پی این حمله حکایت دارد   ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
-23:40
-1405/03/06
-
-
-
-
 src :@jangaavaran1390
 ‏واکنش ترامپ به سوال درباره کنترل تنگه هرمز توسط ایران و عمان: عمان هم مثل همه درست رفتار خواهد کرد و گرنه منفجرش می‌کنیم!
 ‏
@@ -1160,22 +1172,6 @@ src :@MilitiaNews
 
 
 
-src :@World_Newsly
-‏🔴 وزیر دفاع آمریکا: ترامپ با فشار حداکثری ایران را به سمت مذاکره سوق داد
-‏
-‏پیت هگست، وزیر دفاع آمریکا، در نشست کابینه در کاخ سفید از سیاست‌های دونالد ترامپ در قبال ایران تمجید کرد و گفت خروج ترامپ از برجام و اقدامات بعدی او باعث شد آمریکا و جهان از «تهدید ایران» دور شوند.
-‏هگست خطاب به ترامپ گفت: «چه موضوع قاسم سلیمانی باشد، چه خروج از توافق اوباما و چه جنگ ۱۲ روزه، شما شرایطی ایجاد کردید که مردم آمریکا و جهان از این تهدید در امان بمانند.»
-‏او همچنین مدعی شد آمریکا در عملیات موسوم به «Epic Fury» برخلاف جنگ‌های عراق و افغانستان با «حداکثر قدرت» عمل کرده و ایران را «به زانو درآورده است.»
-‏وزیر دفاع آمریکا در ادامه گفت واشنگتن با ایجاد «محاصره جهانی» علیه ایران فشار سنگینی بر اقتصاد این کشور وارد کرده و همین مسئله تهران را به سمت مذاکرات سوق داده است.
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-23:04
-1405/03/06
-
-
-
-
 src :@cataphract1
 ‏♨️ ارتش اسرائیل دو عضو مهم حماس را در شمال غزه هدف قرار داده است 
 ‏
@@ -1188,14 +1184,6 @@ src :@cataphract1
 
 src :@wfwitness
 ‏⚡️🇮🇱🇵🇸 Kan: The Israeli military has reportedly targeted two senior Hamas members in the northern Gaza Strip a short time ago.  @wfwitness
-23:04
-1405/03/06
-
-
-
-
-src :@World_Newsly
-‏🔴 اسرائیل یک ساختمان در غزه را احتمالا برای ترور بمباران کرد   ✍🏻 exxon ▪️@World_Newsly
 23:04
 1405/03/06
 
@@ -1555,24 +1543,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷🇮🇱🇸🇦⚡️ — Republican Senator Lindsey Graham:
-‏I very much appreciate President Trump’s desire to end the Iranian conflict with a diplomatic solution that is real and sustainable.
-‏ 
-‏I have complete confidence in President Trump and his team to achieve this shared goal.
-‏ 
-‏However, the biggest news out of the cabinet meeting is President Trump’s determination to expand the Abraham Accords, to include Saudia Arabia making peace with Isreal. This would be the biggest change in the Middle East in thousands of years, effectively ending the Arab-Israeli conflict. I am convinced that President Trump — above all others — has the ability to make this happen. He has been a good, reliable partner to Saudi Arabia and the Crown Prince, and no one has been a better friend of Israel than President Trump. 
-‏ 
-‏I have been working on normalization for years, including during the Biden administration, because I know this leads to a lasting peace and a new Middle East that could become an economic powerhouse, not a powder keg.
-‏ 
-‏I will do everything in my power, working in a bipartisan fashion, to help President Trump achieve peace between Saudi Arabia and Israel.
-22:21
-1405/03/06
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 جایگزینی تسلیحات راهبردی مصرف شده در جنگ با ایران برای آمریکا، ۳ تا ۵ سال زمان می‌خواهد!
@@ -1682,27 +1652,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 22:00
-1405/03/06
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇪🇺🤝🇺🇦- European Commission President Ursula von der Leyen spoke by phone with Ukrainian President Zelensky: On the phone with President Zelensky, I reiterated Europe’s full support for Ukraine as Russia doubles down on its brutal war of aggression.
-‏
-‏Air defence and drone and counter-drone capabilities are among Europe’s most urgent defence priorities.
-‏
-‏And Ukraine will be fully integrated into these efforts.
-‏
-‏The Ukraine Support Loan will make a vital contribution.
-‏
-‏This year alone, it will provide €28.3 billion to help cover Ukraine’s military needs.
-‏
-‏We also spoke about Ukraine’s path to EU membership. 
-‏
-‏The coming weeks will be important to take decisive steps forward in the accession process.
-21:57
 1405/03/06
 
 
@@ -1895,14 +1844,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 21:29
-1405/03/06
-
-
-
-
-src :@GeoPWatch
-‏🇮🇱❌🇱🇧🇱🇧- The Lebanese Army has announced the death of a soldier following an Israeli airstrike targeting him on the Kfarman-Khardali road in southern Lebanon. The identity of the soldier has not been released as of yet.
-21:27
 1405/03/06
 
 
@@ -2886,20 +2827,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 19:42
-1405/03/06
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️خبرگزاری فارس به نقل از «منابع آگاه» گزارش داد که دونالد ترامپ، رئیس‌جمهوری آمریکا، ممکن است در ساعات آینده به‌صورت یک‌طرفه اعلام کند که توافق میان ایران و آمریکا نهایی شده است؛ اقدامی که به گفته این منابع می‌تواند با هدف اعمال فشار سیاسی و اثرگذاری بر افکار عمومی انجام شود، پیش از آنکه اختلافات باقی‌مانده به‌طور کامل برطرف شود.
-‏بر اساس این گزارش، این سناریو در حالی مطرح شده که هنوز برخی موضوعات میان دو طرف حل‌نشده باقی مانده و روند مذاکرات به مرحله نهایی نرسیده است.
-‏در همین زمینه، یک عضو تیم مذاکره‌کننده ایرانی در گفتگو با فارس تاکید کرده است که تا زمانی که همه موارد مورد نظر ایران حل و فصل نشود، هیچ توافقی قابل اعلام نخواهد بود.
-‏به گفته این منبع، جمهوری اسلامی ایران تنها در صورتی که اختلافات به‌طور کامل برطرف شود، نتیجه مذاکرات را به‌صورت رسمی اعلام خواهد کرد و هیچ توافقی پیش از رسیدن به جمع‌بندی نهایی، مورد تایید تهران نخواهد بود.
-‏
-‏@indypersian
-19:41
 1405/03/06
 
 
@@ -5384,13 +5311,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 01:42
-1405/03/06
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇱🇧🇮🇱A fully loaded infantry armored vehicle, the HMMWV, fell victim to a Hezbollah FPV drone.   A couple of IDF soldiers managed to jump out of the vehicle before being hit, but the rest were less fortunate.   @Intelslava
-01:24
 1405/03/06
