@@ -1,6 +1,52 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — The White House Correspondents' Association is considering holding a smaller replacement event in July after its annual April dinner was abruptly cut short following an assassination attempt targeting President Trump, according to WSJ.
+‏
+‏➡️ The group is discussing a possible dinner or an alternative event focused on scholarship recipients and journalism awards. The rescheduled gathering would likely not take place at the Washington Hilton anda be significantly smaller in scale.
+‏
+‏➡️ It remains unclear whether Trump would attend.
+02:35
+1405/03/07
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrike on the city of Sidon.
+‏
+‏@wfwitness
+02:35
+1405/03/07
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Semi-official U.S. media outlet, Faytuks Network, reports that the United States has carried out another "defense operation" in Bandar Abbas, Iran, according to an official who stated that "the US will act to safeguard its regional interests, and this…
+02:34
+1405/03/07
+
+
+
+
 src :@mwarmonitor
 ‏🔴«در میان گزارش‌هایی از چندین انفجار در بندرعباس و فعال شدن پدافند هوایی ایران، فعالیت قابل توجهی از پروازهای نظامی آمریکا در خلیج فارس مشاهده شد؛ از جمله یک هواپیمای هشدار زودهنگام E-3B Sentry نیروی هوایی آمریکا (AWACS)، تانکرهای سوخت‌رسان KC-46A و هواپیمای…
 02:33
+1405/03/07
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش‌های اولیه حاکی از آن است که آمریکا عملیاتی دفاعی در بندرعباس، ایران انجام داده است
+‏
+‏🔸 یک مقام آمریکایی گفت آمریکا برای حفظ منافع منطقه‌ای خود اقدام خواهد کرد و این بر آتش‌بس تأثیری ندارد
+‏
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+02:32
 1405/03/07
 
 
@@ -58,7 +104,7 @@ src :@rus_cosmos
 
 src :@Indypersian
 [عکس]
-‏♦️به گزارش خبرگزاری فارس، حوالی ساعت ۱:۳۰ بامداد، صدای سه انفجار در شرق شهر بندرعباس شنیده شد و هم‌زمان، سامانه‌های پدافند هوایی این شهر برای دقایقی فعال گردیدند. در حال حاضر محل دقیق و منشا اصلی این صداها مشخص نیست.
+‏♦️به گزارش خبرگزاری فارس، حوالی ساعت ۱:۳۰ بامداد، صدای سه انفجار در شرق شهر بندرعباس شنیده شد و هم‌زمان، سامانه‌های پدافند هوایی این شهر برای دقایقی فعال شد. در حال حاضر محل دقیق و منشا اصلی این صداها مشخص نیست.
 ‏
 ‏@indypersian
 02:28
@@ -1101,17 +1147,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸- The head of the national security commission of the Iranian parliament, Ebrahim Azizi: Iran will not be pushed back by Trump’s rhetoric from its red lines: the right to enrich uranium, possession of enriched uranium, authority over the Strait of Hormuz, and the removal of sanctions.
-‏
-‏It is obvious Trump, seeking a way out of this strategic deadlock, alternates between issuing threats and appealing for an agreement.
-00:35
-1405/03/07
-
-
-
-
 src :@naya_foriraq
 ‏🌟🌟الجندية روتم ياناي التي قُتلت اليوم نتيجة إصابة طائرة مسيّرة مفخخة في شومِرا كانت من المفترض أن تسافر قريبًا في رحلة إلى تايلاند، لكن ذهبت سفرة الى الله.
 00:33
@@ -1284,19 +1319,6 @@ src :@IranintlTV
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇨🇳❌🇳🇱- The Royal Netherlands Navy frigate HNLMS De Ruyter (F804) was briefly approached by a Chinese Navy (PLAN) helicopter while transiting the South China Sea during its Indo-Pacific deployment.
-‏
-‏➡️ The interaction was described as professional by the Dutch, with them describing the helicopter as simply identifying the vessel before departing.
-‏
-‏➡️ China, however, took a harder stance, with a Chinese military spokesperson stating that "necessary measures," including warnings and electronic jamming, were taken after the HNLMS De Ruyter illegally intruded near the Paracel Islands and launched shipborne helicopters into Chinese airspace.
-00:04
-1405/03/07
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏روزنامه اسراییل هیوم، روز چهارشنبه ۶ خرداد ۱۴۰۵، گزارش داد دونالد ترامپ، رییس‌جمهور آمریکا، متن پیش‌نویس یک تفاهم‌نامه با ایران را برای شماری از رهبران منطقه از جمله بنیامین نتانیاهو، نخست‌وزیر اسراییل، ارسال کرده و از آن‌ها خواسته است دیدگاه‌های خود را درباره این سند بیان کنند.
@@ -1396,14 +1418,6 @@ src :@tglobaleye
 src :@naya_foriraq
 ‏🌟🌟الجندية روتم ياناي التي قُتلت اليوم نتيجة إصابة طائرة مسيّرة مفخخة في شومِرا كانت من المفترض أن تسافر قريبًا في رحلة إلى تايلاند، لكن ذهبت سفرة الى الله.
 23:57
-1405/03/06
-
-
-
-
-src :@GeoPWatch
-‏🇮🇱❌🇵🇸🇵🇸- The IDF struck the commander of Hamas' Northern Gaza Brigade and the deputy commander of the Gaza City Brigade. At least 7 have reportedly been killed and many more wounded so far, including children.
-23:53
 1405/03/06
 
 
