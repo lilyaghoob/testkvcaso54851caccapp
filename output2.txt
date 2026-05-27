@@ -710,19 +710,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇶☀️☀️🇸🇾 Kurdistan Region President Nechirvan Barzani has received Mazloum Abdi, commander of the Syrian Democratic Forces, in Erbil to discuss the situation in Syria, the status of Kurds and other components, and regional stability. 
-‏
-‏The meeting stressed the need for dialogue among Kurdish parties in Syria to resolve issues with Damascus. Abdi expressed thanks for the Kurdistan Region’s support for Kurdish rights in Syria.  
-‏
-‏@wfwitness
-01:39
-1405/03/06
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏شورای امنیت سازمان ملل روز سه‌شنبه در بیانیه‌ای حمله به نیروگاه هسته‌ای براکه در امارات متحده عربی را محکوم کرد و این حمله را نقض قوانین بین‌المللی دانست. این شورا مسئولیت این حمله را به هیچ طرفی نسبت نداد.
