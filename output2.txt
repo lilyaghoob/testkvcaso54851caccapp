@@ -1,5 +1,27 @@
+src :@VahidOnline
+[عکس]
+‏نیویورک تایمز به نقل از دو مقام آمریکایی در روز سه‌شنبه ۵ خرداد گزارش داد که حملات دوشنبه شب نظامی ایالات متحده به اهدافی در جنوب ایران پس از آن صورت گرفت که تحلیلگران اطلاعاتی، مجموعه‌ای از اقدامات نظامی بالقوه تهدیدآمیز جمهوری اسلامی را در ۲۴ ساعت منتهی به این حملات شناسایی کردند.
+‏
+‏هواپیماهای جنگی آمریکا دو قایق تندرو سپاه پاسداران انقلاب اسلامی را که سعی در مین‌گذاری در تنگه هرمز داشتند، غرق کردند.
+‏
+‏این مقامات که نخواستند نامشان فاش شود، همچنین گفتند که جمهوری اسلامی پهپادهای تهاجمی یک‌طرفه را به سمت حدود دوازده کشتی جنگی نیروی دریایی ایالات متحده که در خلیج عمان و دریای عرب یا اطراف آن هستند شلیک کرد. این کشتی‌ها در حال اعمال محاصره دریایی آمریکا علیه جمهوری اسلامی هستند.
+‏
+‏طبق این گزارش تحلیلگران نظامی آمریکا همچنین فعالیت‌هایی را در برخی از سایت‌های موشکی زمین به هوای جمهوری اسلامی در نزدیکی تنگه هرمز شناسایی کردند؛ فعالیت‌هایی که امنیت هواپیماهای جنگی آمریکایی مستقر بر روی زمین و آن‌هایی که روی ناو هواپیمابر آمریکا در منطقه به عنوان بخشی از نیروی اعمال‌کننده محاصره دریایی حضور دارند، تهدید می‌کرد.
+‏
+‏تیم هاوکینز، سخنگوی فرماندهی مرکزی ایالات متحده، روز دوشنبه در بیانیه‌ای گفت که ایالات متحده «برای محافظت از نیروهای خود در برابر تهدیدات نیروهای» جمهوری اسلامی حملاتی را به اهدافی در جنوب ایران انجام داد.
+‏
+‏سایر مقامات پنتاگون گزارش‌های رسانه‌های داخلی در ایران را که در روز سه‌شنبه مدعی شدند یک پهپاد آمریکایی «ام-کیو۹ ریپر» توسط جمهوری اسلامی سرنگون شد، رد کردند.
+‏@VahidHeadline
+‏
+‏📡 @VahidOnline
+04:14
+1405/03/06
+
+
+
+
 src :@GeoPWatch
-‏🇱🇧❌🇮🇱- Missile alerts have been activated in northern Israel, around Kiryat Shmona.
+‏🇱🇧❌🇮🇱- Rocket alerts have been activated in northern Israel, around Kiryat Shmona.
 04:11
 1405/03/06
 
@@ -17,7 +39,7 @@ src :@tabzlive
 
 src :@GeoPWatch
 [عکس]
-‏🇱🇧❌🇮🇱- Missile alerts have been activated in northern Israel, around Kiryat Shmona.
+‏🇱🇧❌🇮🇱- Rocket alerts have been activated in northern Israel, around Kiryat Shmona.
 04:09
 1405/03/06
 
@@ -143,7 +165,7 @@ src :@Indypersian
 
 src :@tabzlive
 [عکس]
-‏🇺🇸🇮🇷⚡️ — Al Jazeera's bureau chief in Tehran, Nour Eddine Edghir, says the MoU between Iran and the U.S. is done, and the only thing left is the signing of the document.
+‏🇺🇸🇮🇷⚡️ — Al Jazeera's bureau chief in Tehran, Nour Eddine Edghir, hints that the MoU between Iran and the U.S. is done, and the only thing left is the signing of the document.
 03:45
 1405/03/06
 
@@ -6531,17 +6553,6 @@ src :@Artemis_Force
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 06:01
-1405/03/05
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏realDonaldTrump
-‏
-‏📡 @VahidOnline
-05:00
 1405/03/05
 
 
