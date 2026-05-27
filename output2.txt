@@ -1,3 +1,136 @@
+src :@rus_cosmos
+[فایل]
+‏نسخه اصلی سایفون برای اندروید
+‏دانلود از اپ استور : 
+‏https://play.google.com/store/apps/details?id=com.psiphon3.subscription&pcampaignid=web_share
+16:27
+1405/03/06
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇱🇧🇱🇧 — Israeli media reports that the Air Force will attack Beirut in the coming hours.  @TheWarReporter
+16:26
+1405/03/06
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Iranian state TV reports that a draft memorandum of understanding includes a pullback of US military forces from areas near Iran and the lifting of the US naval blockade. The draft framework was mentioned by Reuters yesterday, as part of ongoing negotiations…
+16:25
+1405/03/06
+
+
+
+
+src :@World_Newsly
+‏🔴ارتش لبنان اعلام کرد که در پی حمله هوایی اسرائیل در نزدیکی یک پایگاه نظامی در اطراف سد دریاچه القرعون در منطقه بقاع غربی، یک نظامی این کشور کشته شده است
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+16:25
+1405/03/06
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏طبق تصاویر سامانهٔ پایش آتش ناسا (NASA FIRMS) چندین آتش‌سوزی در جزیره لارک هم گزارش شد.
+16:23
+1405/03/06
+
+
+
+
+src :@MilitarryWorld
+‏🚨العربیه: 
+‏
+‏به گفته منابع، احتمال دارد طی چند هفته یک توافق میان آمریکا و ایران حاصل شود
+‏
+‏@MilitarryWorld | Parsa
+16:23
+1405/03/06
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱🇮🇷 — IRGC:
+‏
+‏"The likelihood of war breaking out is low, but our forces are ready".
+‏
+‏@TheWarReporter
+16:21
+1405/03/06
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏خبرگزاری یونهاپ گزارش داد وزارت خارجه کره جنوبی چهارشنبه سعید کوزه‌چی، سفیر جمهوری اسلامی در سئول، را احضار کرد و نسبت به حمله به کشتی «اچ‌ام‌ام نامو» در تنگه هرمز اعتراض رسمی ارائه داد.
+‏
+‏پارک یون‌جو، معاون اول وزیر خارجه کره جنوبی، گفت بررسی‌های فنی نشان می‌دهد دو شیء پرنده‌ای که ۱۴ اردیبهشت به این کشتی برخورد کردند، احتمالا موشک‌های ضدکشتی «نور» ساخت ایران بوده‌اند.
+‏
+‏به گفته او، یکی از کلاهک‌ها منفجر نشد اما دیگری هنگام برخورد انفجار و آتش‌سوزی در کشتی ایجاد کرد. در این حادثه یکی از ۲۴ خدمه کشتی زخمی شد.
+‏https://iranintl.com/202605272150
+16:21
+1405/03/06
+
+
+
+
+src :@ClashReport
+‏A draft “Islamabad agreement” to end the Iran war is still being negotiated — nothing is final yet, and Iran says it still deeply distrusts the US.
+‏
+‏Key reported points:
+‏
+‏• US would ease restrictions on Iranian shipping
+‏
+‏• Iran would restore commercial shipping in the Persian Gulf & Sea of Oman within a month
+‏
+‏• Strait of Hormuz would NOT fully reopen; Iran & Oman would still control inspections/transit
+‏
+‏• Possible US military pullback near Iran, though details remain vague
+‏
+‏• A finalized deal could receive binding UN Security Council backing within 60 days
+‏
+‏• Iran says implementation depends on verification, and talks could still collapse
+‏
+‏Source: IRIB
+16:20
+1405/03/06
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 نتبلاکس: بعد از تقریبا ۲۴ ساعت بخش قابل توجهی از اینترنت در ایران در دسترس قرار گرفت است اما بسیاری از اپلیکیشن ها و اپ استور ها مانند قبل متصل نیست و دچار فیلترینگ شدید هستند
+‏
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+16:19
+1405/03/06
+
+
+
+
+src :@Mena_Live
+[عکس]
+‏Report from Iran: A preliminary draft of the framework agreement with the US has been reached
+‏
+‏@Mena_Live
+16:18
+1405/03/06
+
+
+
+
 src :@Indypersian
 ‏⭕️عربستان سعودی برای محافظت از زائران در گرمای شدید از پهپادها کمک می‌‌گیرد
 ‏
@@ -268,7 +401,7 @@ src :@IranintlTV
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Iranian state TV reports that a draft memorandum of understanding includes a pullback of US military forces from areas near Iran and the lifting of the US naval blockade. The draft framework was mentioned by Reuters yesterday, as part of ongoing negotiations aimed at ending the conflict and reopening maritime routes in the Strait of Hormuz. 
 ‏
-‏Iranian state TV says Tehran would, in return, restore commercial transit through Hormuz to pre-war levels within one month, while military vessels would remain excluded from the arrangement; shipping traffic through the Strait of Hormuz would be managed jointly by Iran and Oman, and that if a final agreement is reached within 60 days, it could be formalised through a binding UN Security Council resolution. 
+‏If agreed, Tehran would, in return, restore commercial transit through Hormuz to pre-war levels within one month, while military vessels would remain excluded from the arrangement; shipping traffic through the Strait of Hormuz would be managed jointly by Iran and Oman, and that if a final agreement is reached within 60 days, it could be formalised through a binding UN Security Council resolution. 
 ‏
 ‏Tehran added that the “Islamabad memorandum framework” is not yet finalised and that no steps will be taken without “tangible verification.”
 ‏
@@ -1771,19 +1904,6 @@ src :@mohem_mat
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱 The Israeli Air Force’s new aerial refueling aircraft, the KC-46A Pegasus “Gideon” (301), landed in Israel a short while ago.
-‏
-‏It is the first of six aircraft set to be delivered, with an option for two additional planes.
-‏
-‏@wfwitness
-14:36
-1405/03/06
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏در پاسخ به حمله روسیه به کی‌یف، نیروی هوایی اوکراین حمله گسترده‌ای با موشک کروز با استفاده از موشک بریتانیایی استورم شادو انجام داد و اهداف کلیدی هوانوردی روسیه در ورونژ، سواستوپل و تاگانروگ را هدف قرار داد.
@@ -1935,14 +2055,6 @@ src :@DEJradio
 
 
 
-src :@World_Newsly
-‏🔴گزارش حملات هوایی اسرائیل به جرود فلاوی در غرب بعلبک واقع در شرق لبنان   ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
-14:25
-1405/03/06
-
-
-
-
 src :@mohem_mat
 ‏الجزیره: 
 ‏
@@ -1950,22 +2062,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 14:24
-1405/03/06
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 آمریکا در حال کاهش نیروهای برنامه‌ریزی‌شده برای اعزام به اروپا است
-‏
-‏گزارش‌ها حاکی است ایالات متحده در حال کاهش حجم نیروهایی است که پیش‌تر برای اعزام به اروپا در شرایط بحرانی برنامه‌ریزی شده بودند.
-‏این اقدام به عنوان تازه‌ترین گام دولت ترامپ در مسیر کاهش وابستگی نظامی متحدان ناتو به آمریکا توصیف شده است. واشنگتن طی ماه‌های اخیر بارها از کشورهای اروپایی خواسته سهم بیشتری در تامین امنیت و بودجه دفاعی خود بر عهده بگیرند.
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-14:21
 1405/03/06
 
 
@@ -2672,20 +2768,6 @@ src :@jangaavaran1390
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻روزنامه آس اسپانیا در گزارشی نوشت باشگاه رئال مادرید در آستانه ثبت یک رکورد مالی بی‌سابقه در تاریخ ورزش جهان قرار دارد. بر اساس پیش‌بینی‌های اولیه، درآمد کهکشانی‌ها در سال جاری از مرز ۱ میلیارد و ۲۰۰ میلیون یورو عبور کرده است؛ رقمی که تاکنون هیچ باشگاه ورزشی در جهان به آن دست نیافته است.
-‏
-‏🔹رئال مادرید که طبق آمار «دلویت» سه فصل متوالی پردرآمدترین باشگاه جهان بوده، بخش عمده این موفقیت را مدیون جهش چشمگیر در بخش تجاری است. مادریدی‌ها در فصل ۲۵-۲۰۲۴ با رشد ۲۳ درصدی، ۵۹۴ میلیون یورو از بازاریابی و فروش محصولات باشگاه درآمد کسب کردند. همچنین بازسازی ورزشگاه سانتیاگو برنابئو باعث شد درآمد ورزشگاه به ۲۳۳ میلیون یورو برسد.
-‏
-‏🔹حضور در جام جهانی باشگاه‌ها با هدایت ژابی آلونسو و صعود به یک‌چهارم نهایی اروپا با آربلوآ نیز به این سودآوری کمک کرد. «آس» در پایان گزارش خود نوشت مادریدی‌ها با تمدید قرارداد با شرکت هواپیمایی امارات تا سال ۲۰۳۱ و مذاکره با آدیداس، به دنبال افزایش ارزش اسپانسرهای پیراهن خود به ۳۰۰ میلیون یورو در سال هستند.
-‏@iranintltvsport
-13:03
-1405/03/06
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ تصویری از ۳ فروند پهپاد CH-4 ارمنستان
@@ -2850,7 +2932,7 @@ src :@Indypersian
 
 src :@didarnews1
 [عکس]
-‏🔴پست جدید کاخ سفید:  مامویت ساده است؛صلح از طریق قدرت
+‏🔴پست جدید کاخ سفید:  ماموریت ساده است؛صلح از طریق قدرت
 ‏
 ‏#دیدار_نیوز
 ‏didarnews.ir
@@ -3866,19 +3948,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump’s “Board of Peace” has raised big pledges for Gaza reconstruction, but four months later the official fund has no money in it and no rebuilding projects have started.
-‏
-‏Donors appear to be bypassing the World Bank-managed fund, while legal, political and security disputes have left the organization stuck in limbo.
-‏
-‏Source: FT
-09:15
-1405/03/06
-
-
-
-
 src :@didarnews1
 ‏🔴خبرنگار الجزیره در تهران: 
 ‏
@@ -3888,19 +3957,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:11
-1405/03/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏CDU insiders are discussing a possible replacement of German Chancellor Friedrich Merz due to stalled reforms and very poor polling.
-‏
-‏The idea is still informal — mostly private talks among senior CDU figures, not an organized coup. Under German law, parliament could replace the chancellor without new elections via a constructive no-confidence vote.
-‏
-‏Source: BILD
-09:06
 1405/03/06
 
 
@@ -3937,23 +3993,6 @@ src :@BellumActaNews
 src :@rnintel
 ‏🇵🇸🇮🇱⚡- Israeli assassination strike in Gaza City targeting Mohammed Awda, the new commander of the Qassem Brigades. Whether the strike was successful or not is not yet confirmed.   "We have now attacked Muhammad Adwa in Gaza - the leader of Hamas' military…
 09:03
-1405/03/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Tony Blair has launched a fierce attack on Keir Starmer and Labour’s direction, warning the party will lose the next election unless it moves back to the political centre.
-‏
-‏In a 5,700-word essay, the former PM criticised Labour’s net zero agenda, welfare spending, workers’ rights reforms and restrictions on oil and gas, arguing they hurt business and economic growth. 
-‏
-‏He urged closer ties with Trump and said Labour should focus on AI, planning reform and welfare cuts instead.
-‏
-‏Blair also rejected attempts to remove Starmer, saying leadership change is pointless without a clear policy reset. He accused Labour of “self-delusion” by drifting left while losing voters to Reform UK.
-‏
-‏Source: The Guardian
-09:02
 1405/03/06
 
 
@@ -4555,21 +4594,6 @@ src :@tglobaleye
 ‏90 will be manufactured in India via a Dassault partnership, while 24 will be delivered directly from France. The request is expected within weeks, ahead of Prime Minister Modi's June visit to France.
 ‏
 ‏The Global Eye | Subscribe
-00:16
-1405/03/06
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏سایوز آماده پرواز می‌شود.
-‏
-‏به گزارش روسکاسموس، سامانه نزدیک‌شدن و اتصال فضاپیمای «سایوز ام‌اس-۲۹» با موفقیت آزمایش‌ها را پشت سر گذاشت.
-‏
-‏در جریان آزمایش‌ها، هیچ سیگنالی از بیرون وارد محفظه نمی‌شود و پوشش دیوارها امواج رادیویی را پراکنده می‌کند. به این ترتیب، هرگونه تداخل حذف شده و امکان آزمایش سازگاری الکترومغناطیسی تجهیزات، از جمله سامانه نزدیک‌شدن و اتصال فضاپیما، فراهم می‌شود.
-‏
-‏@rus_cosmos
 00:16
 1405/03/06
 
@@ -6500,14 +6524,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 16:29
-1405/03/05
-
-
-
-
-src :@Mena_Live
-‏Likud officials: "We must strike Iran a third time - otherwise we will lose the elections." (ynet)
-‏
-‏@Mena_Live
-16:21
 1405/03/05
