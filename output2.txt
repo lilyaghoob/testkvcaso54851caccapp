@@ -1,3 +1,14 @@
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+09:51
+1405/03/07
+
+
+
+
 src :@mwarmonitor
 ‏📰 بلومبرگ:
 ‏دونالد ترامپ نسخه جدیدی از شکایت قضایی ۱۰ میلیارد دلاری خود را به اتهام افترا علیه روزنامه وال استریت ژورنال و شرکت مادر آن نیوز کورپ ثبت کرده است. این شکایت به دلیل انتشار مقاله‌ای درباره روابط نزدیک ادعایی او با جفری اپستین مطرح شده است.
@@ -6064,45 +6075,4 @@ src :@tglobaleye
 ‏ 
 ‏The Global Eye | Subscribe
 09:56
-1405/03/06
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏امشب کیهان‌نوردان روسیه، سرگئی کود-سورچکوف و سرگئی میکایف، از ایستگاه فضایی بین‌المللی خارج می‌شوند، آن‌ها باید حدود پنج ساعت و نیم در فضای باز کار کنند.
-‏
-‏ ابتدا کیهان‌نوردان تجهیزات علمی آزمایش «خورشید – تراهرتز» (یک پروژه علمی روسی که برای مطالعه تابش‌های خورشید در محدودهٔ «تراهرتز» انجام می‌شود) را روی ماژول «زوزدا» نصب خواهند کرد.
-‏
-‏ وظیفه بعدی آن‌ها ادامه کار روی آزمایش «اکران-ام» خواهد بود.
-‏
-‏ سپس کیهان‌نوردان باید محفظه آزمایش فضایی «بیوریسک» را جدا کرده و به ایستگاه منتقل کنند.
-‏
-‏ آغاز راهپیمایی فضایی ساعت ۱۷:۴۵ به وقت ایران است.
-‏
-‏
-‏@rus_cosmos
-09:51
-1405/03/06
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇷🇺⚡️— Russian Telecommunications operators will collect even more data from citizens and transmit it to security authorities. 
-‏
-‏The Russian Ministry of Digital Development has expanded the list of mandatory information that must be stored and transmitted to security agencies. This now includes passport data, tax identification numbers, addresses, geolocation, domains, IP addresses, logins, and even bank account details. 
-‏
-‏🇪🇺 Legion Europa | Group Chat
-09:51
-1405/03/06
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇵🇸🇵🇸 — An Israeli strike targeted Mohammad Awda, the new leader of the al-Qassam Brigades in Gaza Strip.  The outcome of the strike remains unknown.  @TheWarReporter
-09:47
 1405/03/06
