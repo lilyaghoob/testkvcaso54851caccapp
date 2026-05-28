@@ -1,3 +1,58 @@
+src :@MilitarryWorld
+‏🚨صدا و سیما: دلیل صدای انفجار در شهر جم مقابله پدافند با هواگردهای متخاصم بوده است
+‏
+‏@MilitarryWorld | Parsa
+00:07
+1405/03/08
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷‏وكالة مهر: الدفاعات الجوية حاولت التصدي لطائرات معادية في بوشهر.
+00:06
+1405/03/08
+
+
+
+
+src :@ClashReport
+‏Iranian air defenses intercepted a U.S. drone near Bushehr.
+‏
+‏Source: Tasnim
+00:06
+1405/03/08
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷وكالة مهر: القوات المسلحة الإيرانية أطلقت نيراناً تحذيرية باتجاه 4 سفن مخالفة قرب مضيق هرمز.
+00:04
+1405/03/08
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸- Mehr News Agency reports unconfirmed claims of an American MQ-9 Reaper reconnaissance drone being intercepted.
+00:04
+1405/03/08
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏#طنز
+‏
+‏پدافند هم با اهداف متخاصم درگیر شد.
+00:04
+1405/03/08
+
+
+
+
 src :@Middle_East_Spectator
 ‏— 🇺🇸/🇮🇷 NEW: Iran shot down an American drone near Jam, Bushehr Province
 ‏
@@ -47,7 +102,7 @@ src :@World_Newsly
 
 
 src :@GeoPWatch
-‏🇮🇷❌🇺🇸- According to IRIB, the explosion heard in the city of Jam in Bushehr province approximately one hour ago was caused by air defense forces engaging hostile aircraft.
+‏🇮🇷❌🇺🇸- According to IRIB, the explosion heard in the city of Jam in Bushehr province approximately one hour ago (separate incident from the missile launch) was caused by air defense forces engaging hostile aircraft.
 23:57
 1405/03/07
 
@@ -1953,14 +2008,6 @@ src :@jangaavaran1390
 
 
 
-src :@GeoPWatch
-‏🇷🇺🇺🇦 — Russia's State Duma has passed a law allowing Russian financial institutions to shoot down hostile UAVs and install anti-UAV systems at their banks without military involvement.
-22:11
-1405/03/07
-
-
-
-
 src :@jangaavaran1390
 ‏وزیر خزانه‌داری ایالات متحده اسکات بسنت: 
 ‏رئیس‌جمهور ترامپ کاری انجام داده است که هیچ دولت دیگری نتوانسته انجام دهد.
@@ -2446,17 +2493,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@naya_foriraq
-[عکس]
-‏لاول مرة بدر تخرج عن المألوف 
-‏
-‏🌟المكتب السياسي لفيلق بدر ينشر عن تحديات التي تعرقل مضي العراق في مشروع التنمية بتفاصيل اكثر اضغط هنا
-21:28
-1405/03/07
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇮🇷 US and Iranian negotiators agreed to a draft deal 3 days ago, but delayed it after bringing it back to their leaders, NBC reports.
@@ -2863,14 +2899,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 20:59
-1405/03/07
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸مصادر أمريكية: نؤكد توصل الولايات المتحدة وإيران إلى مذكرة تفاهم بشأن مضيق هرمز والمفاوضات النووية.
-20:56
 1405/03/07
 
 
@@ -3482,16 +3510,6 @@ src :@selena_updates
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — The U.S. and Iran have agreed on a 60-day ceasefire extension and a framework for nuclear talks, but President Trump is personally delaying final approval of the agreement.  Trump has asked mediators for several days to consider the proposal before…
 19:25
-1405/03/07
-
-
-
-
-src :@MilitarryWorld
-‏⭕️حسین پاک، خبرنگار ایرانی حاضر در لبنان: جبهه مقاومت باید با فشار نظامی، اسرائیل را مجبور کند که از لبنان عقب‌نشینی کند
-‏
-‏@MilitarryWorld | Parsa
-19:23
 1405/03/07
 
 
