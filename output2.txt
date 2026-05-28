@@ -1,3 +1,85 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrikes on the southern towns of Meifedoun, Kfardounine, Al Qlayleh.
+‏
+‏@wfwitness
+11:59
+1405/03/07
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️ابوترابی، نماینده مجلس: دارند با آبنبات چوبی صندوق ۳۰۰ میلیارد دلاری فریبمان می‌دهند/ آمریکا بعد از جام جهانی و انتخابات میان‌دوره‌ای به ما حمله می‌کند
+‏‌
+‏باز کردن تنگه هرمز با ۱۲ میلیارد دلار پول خفت و خواری است.
+‏
+‏@MilitarryWorld | Parsa
+11:59
+1405/03/07
+
+
+
+
+src :@cataphract1
+‏کاتافراکت pinned a photo
+11:59
+1405/03/07
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇱🇧🇮🇱⚡- Israel has yet again issued evacuation orders for the entire south of Lebanon, which includes all areas south of the Zahrani River.
+‏
+‏(The map attached was provided by the IDF during a previous order in the past.)
+11:59
+1405/03/07
+
+
+
+
+src :@cataphract1
+[عکس]
+‏✨ به فروشگاه Atlas Relay خوش آمدید!
+‏
+‏🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی
+‏✅ تضمین امنیت ارتباطات شما
+‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
+‏تعرفه ها :
+‏✅ 20 گیگ 300
+‏✅ 30 گیگ 425
+‏✅ 40 گیگ 550
+‏✅ 50 گیگ 675
+‏✅ 100 گیگ 1300
+‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
+‏
+‏⚜ فروشگاه Atlas Relay اسپانسری کاتافراکت را با اتصال پایدار برای پوشش وقایع برعهده گرفته است. 
+‏کد تخفیف ده درصدی مخصوص 30 نفر اولی که از سمت چنل کاتافراکت خرید کنند:
+‏CATAPHRACT10
+‏
+‏@AtlasRelayFastbot
+11:59
+1405/03/07
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 NNA: An Israeli threat call reportedly targeted a vehicle near the Al-Abbasiyah junction in southern Lebanon.
+‏
+‏The vehicle’s owner abandoned the car and moved away from the area, while Civil Defense and emergency crews blocked surrounding roads fearing a possible Israeli strike.
+‏
+‏@wfwitness
+11:58
+1405/03/07
+
+
+
+
 src :@mwarmonitor
 ‏🔴«یک آژانس کشتیرانی اعلام کرد: پهپادها به سه نفتکش در دریای سیاه، در نزدیکی سواحل ترکیه، حمله کردند.»
 ‏
@@ -2315,14 +2397,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷Tasnim: A U.S. oil tanker attempted to transit the Strait of Hormuz with its radar system turned off, but was forced to stop and turn back after intervention by the IRGC Navy after they fired warning shots at the vessel.  A military source also claimed…
-06:44
-1405/03/07
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷/🇰🇼 NEW: The drones came from Iran, at least three were launched according to my sources  According to a preliminary assessment they were all successfully intercepted.  @Middle_East_Spectator
 06:44
@@ -3428,16 +3502,6 @@ src :@MilitiaNews
 
 
 
-src :@rnintel
-‏🇮🇷⚡️- Three explosions were heard in Bandar Abbas, Iran.
-‏
-‏Air defense is currently active.
-02:02
-1405/03/07
-
-
-
-
 src :@mohem_mat
 ‏هاآرتص: اسناد لو رفته از "پنتاگون" نشان‌دهنده تغییر راهبردی در موضع واشنگتن نسبت به اسرائیل در صورت ازسرگیری جنگ با ایران است
 ‏
@@ -3577,14 +3641,6 @@ src :@mohem_mat
 
 
 
-src :@MilitarryWorld
-‏🚨فرمانده تیپ شمال و مرکز حماس در غزه در حمله ای به ساختمانی در شمال غزه ترور شدند.  @MilitarryWorld | Parsa
-01:10
-1405/03/07
-
-
-
-
 src :@mohem_mat
 ‏✅ موفقیت سفر قالیباف به قطر برای آزادسازی ۱۲ میلیارد دلار از اموال بلوکه‌شده
 ‏سعید آجرلو، عضو تیم رسانه‌ای هیئت مذاکراتی ایران اعلام کرد که بر اساس پیشرفت‌های فنی در قطر، مقرر شده است بلافاصله پس از تایید تفاهم میان ایران و آمریکا، بخشی از دارایی‌های بلوکه‌شده ایران به‌صورت غیرقابل برگشت در دسترس بانک مرکزی قرار گیرد.
@@ -3649,11 +3705,11 @@ src :@RASTAKHIZ_PERSIAN
 ‏✅ تضمین امنیت ارتباطات شما
 ‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
 ‏تعرفه ها :
-‏✅ ۲۰ گیگ ۱۶۰
-‏✅ ۳۰ گیگ ۲۳۰
-‏✅ ۴۰ گیگ ۳۰۰
-‏✅ ۵۰ گیگ ۳۷۰
-‏✅ ۱۰۰ گیگ ۷۶۰
+‏✅ 20 گیگ 300
+‏✅ 30 گیگ 425
+‏✅ 40 گیگ 550
+‏✅ 50 گیگ 675
+‏✅ 100 گیگ 1300
 ‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
 ‏
 ‏@AtlasRelayFastbot
@@ -3678,32 +3734,6 @@ src :@Minas_Tirith2024
 ‏برای دریافت سرویس پیام بده
 ‏https://t.me/Asap_vpn
 ‏https://t.me/ASAP_vpnchanel
-00:59
-1405/03/07
-
-
-
-
-src :@cataphract1
-[عکس]
-‏✨ به فروشگاه Atlas Relay خوش آمدید!
-‏
-‏🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی
-‏✅ تضمین امنیت ارتباطات شما
-‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
-‏تعرفه ها :
-‏✅ ۲۰ گیگ ۱۶۰
-‏✅ ۳۰ گیگ ۲۳۰
-‏✅ ۴۰ گیگ ۳۰۰
-‏✅ ۵۰ گیگ ۳۷۰
-‏✅ ۱۰۰ گیگ ۷۶۰
-‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
-‏
-‏⚜ فروشگاه Atlas Relay اسپانسری کاتافراکت را با اتصال پایدار برای پوشش وقایع برعهده گرفته است. 
-‏کد تخفیف ده درصدی مخصوص 30 نفر اولی که از سمت چنل کاتافراکت خرید کنند:
-‏CATAPHRACT10
-‏
-‏@AtlasRelayFastbot
 00:59
 1405/03/07
 
@@ -4327,17 +4357,6 @@ src :@DEJradio
 ‏#جاویدنامان #شهین_خاکپور
 ‏@DEJradio
 21:23
-1405/03/06
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏⚡️🇺🇸🇮🇷🇸🇦🇦🇪🇶🇦 ترامپ:ما دوست داریم کشورها به توافق‌های ابراهیم بپیوندند — عربستان سعودی، امارات، قطر و دیگران فکر می‌کنم آنها به ما مدیون هستند. مطمئن نیستم اگر آنها نپیوندند، باید توافق ایران را انجام دهیم
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-21:17
 1405/03/06
 
 
