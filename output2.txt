@@ -1281,14 +1281,6 @@ src :@Indypersian
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- There are unconfirmed reports of a vehicle possibly being targeted during the attack.
-03:10
-1405/03/07
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏یک مقام آمریکایی به رویترز گفت ارتش آمریکا حملات تازه‌ای را در ایران انجام داده و این حملات یک سایت نظامی را هدف قرار داده است. طبق این گزارش، مقام‌های آمریکا این سایت را تهدیدی برای نیروهای آمریکایی و تردد تجاری دریایی در تنگه هرمز قلمداد کرده بودند.
@@ -1332,18 +1324,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202605277271
 02:58
-1405/03/07
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 BREAKING: Clashes between the U.S. and Iran in the Persian Gulf
-‏
-‏Air defenses in Bandar Abbas have been activated.
-‏
-‏@Middle_East_Spectator
-02:56
 1405/03/07
 
 
