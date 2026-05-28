@@ -1,3 +1,54 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇰🇼The Kuwaiti Army reports they’re intercepting hostile drones.
+‏
+‏@wfwitness
+06:16
+1405/03/07
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇮🇷❌🇰🇼❗️ — Kuwait Royal Army says its air defenses are operating against an Iranian ballistic missile!
+‏
+‏Kuwaiti air defenses are currently confronting hostile missile and drone attacks.
+‏
+‏The General Staff of the Army notes that any explosion sounds heard are the result of air defense systems intercepting the hostile attacks.
+‏
+‏Everyone is requested to adhere to the security and safety instructions issued by the competent authorities.
+06:15
+1405/03/07
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇮🇷🇰🇼⚡️- Confirmed to be an Iranian ballistic missile launch to Kuwait, according to local Iranian reports.
+06:13
+1405/03/07
+
+
+
+
+src :@GeoPWatch
+‏⁉️❌🇰🇼- The Kuwaiti Army has announced that it is currently under attack via hostile missiles and drones.
+06:13
+1405/03/07
+
+
+
+
+src :@rnintel
+‏🇮🇷🇰🇼⚡️- BREAKING: Sirens and alerts in Kuwait.
+06:12
+1405/03/07
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏⁉️❌🇰🇼- The Kuwaiti Army has announced that it is currently under attack via hostile missiles and drones.
@@ -19,6 +70,7 @@ src :@Middle_East_Spectator
 
 
 src :@Middle_East_Spectator
+[عکس]
 ‏—❗️🇰🇼 BREAKING: Missile alerts in Kuwait
 ‏
 ‏@Middle_East_Spectator
@@ -30,7 +82,8 @@ src :@Middle_East_Spectator
 
 src :@VahidOnline
 [عکس]
-‏از #امیدیه در خوزستان پیام‌ها و تصاویری دریافت می‌کنم درباره اینکه حدود ساعت ۵:۵۰ موشکی شلیک شده و لانچری هدف گرفته شده.
+‏از #امیدیه در خوزستان پیام‌ها و تصاویری دریافت می‌کنم  که میگن حدود ساعت ۵:۵۰ موشکی شلیک شده و سمت تونل امیدیه میانکوه صدای انفجاری شنیده.
+‏یکی نوشته لانچر هدف گرفته شده.
 ‏گویا هم‌زمان با آژیر کویت
 ‏
 ‏📡 @VahidOnline
@@ -41,7 +94,7 @@ src :@VahidOnline
 
 
 src :@naya_foriraq
-‏هجوم يستهدف الكويت
+‏دوي انفجارات في الكويت نتيجة هجوم  صاروخي وطيران مسير،تفعيل الدفاعات الجوية
 06:10
 1405/03/07
 
@@ -840,8 +893,10 @@ src :@VahidOnline
 ‏یک مقام آمریکایی در گفت‌وگو با رویترز از حملات جدید آمریکا به یک سایت نظامی در ایران خبر داد و گفت ارتش آمریکا همچنین چندین پهپاد ایرانی را رهگیری و سرنگون کرده است. هنوز به جزییات این سایت نظامی و تعداد پهپادها اشاره‌ای نشده است.
 ‏ساعتی پیش در پی شنیده شدن صدای ۳ انفجار در شرق بندرعباس، پدافند هوایی این شهر فعال شد.
 ‏@VahidOOnLine 
-‏آپدیت:
+‏🔄 آپدیت:
 ‏در همین حال، خبرگزاری تسنیم، نزدیک به سپاه پاسداران، به نقل از یک منبع آگاه نوشت: «ساعاتی پیش یک نفتکش آمریکایی با خاموش کردن سیستم راداری خود قصد عبور از تنگه هرمز را داشت که با اقدام سریع و قاطع نیروی دریایی سپاه و شلیک به سمت آن، مجبور به توقف و بازگشت شد.»
+‏
+‏تسنیم درباره حمله هوایی آمریکا به نقاطی در شرق بندرعباس نوشته نیروهای آمریکایی «به زمین سوخته‌ای در اطراف بندرعباس شلیک کرد که صدای انفجارها مربوط به این ماجرا بوده است؛ این شلیک هیچ خسارت جانی یا مالی به همراه نداشته است.»
 ‏@VahidHeadline 
 ‏
 ‏📡 @VahidOnline
@@ -5100,14 +5155,6 @@ src :@bricsnews
 
 
 
-src :@rnintel
-‏🇱🇧🇮🇱⚡️- Bezalel Smotrich, Minister of Finance and Minister in the Defense Ministry approved a 2 billion Shekel ($700 Million USD) budget for anti drone solutions, but said that defensive measures alone are not enough.  "The truth is that we will not defeat…
-14:46
-1405/03/06
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ مراسم پذیرش اولین هواپیمای سوخت‌رسان و حمل‌ونقل از نوع خود در نیروی هوایی امروز (چهارشنبه) به ریاست رئیس ستاد کل، سرلشکر ایال زمیر، و فرمانده نیروی هوایی، سرلشکر عمر تیشلر برگزار شد. این هواپیما، مدل بوئینگ KC-46 "گیدعون"، امروز در پایگاه نواتیم فرود آمد و در اسکادران سوخت‌رسان جدید که هفته گذشته افتتاح شده بود، پذیرفته شد.
@@ -5148,14 +5195,6 @@ src :@Farsi_Iranwire
 ‏بیشتر: https://iranwire.com/fa/news-1/152946
 ‏
 ‏@Farsi_Iranwire
-14:41
-1405/03/06
-
-
-
-
-src :@rnintel
-‏🇮🇷🇮🇱⚡️- "The edifice of evil that is the Ayatollah regime has been significantly weakened, and its future and stability are shrouded in uncertainty. Its leaders are being hunted down, most of its military capabilities have been destroyed, and its nuclear program has been set back by years; its economy is collapsing, and its citizens have yet to grasp the magnitude of the disaster to which their extremist leaders have led them." - Eyal Zamir, Israeli Chief of the General Staff.
 14:41
 1405/03/06
 
@@ -5832,19 +5871,4 @@ src :@intelslava
 ‏
 ‏@Intelslava
 06:18
-1405/03/06
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🌐🇪🇺The US plans to reduce its military contribution to NATO and shift a significant portion of Europe's defense to European allies, according to Spiegel.
-‏
-‏According to the publication, the US plans to reduce the contribution of fighter jets by about a third, as well as significantly reduce the number of strategic bombers in the Alliance system.
-‏
-‏In addition, Washington no longer wants to provide NATO with submarines, and it also plans to cut back on its participation in providing destroyers and drones.
-‏
-‏@Intelslava
-06:13
 1405/03/06
