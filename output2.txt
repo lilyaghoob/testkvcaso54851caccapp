@@ -1,3 +1,85 @@
+src :@MilitiaNews
+‏شرایطی رو فراهم کردیم تا شما در امنیت کامل بتونید در گروه ازادانه نظرخودتون رو بیان کنید.
+‏
+‏خوشحال می‌شیم نظرات شما عزیزان رو در گروه بشنویم پس ارسال ریکوئیست برای عضویت ایده بدی نیست
+‏لینک گروه
+22:46
+1405/03/07
+
+
+
+
+src :@tabzlive
+‏🇱🇧⚡️ — Lebanon's Ministry of Health reports 3,324 killed and 10,027 injured since the start of the current round of fighting.
+22:46
+1405/03/07
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷/🇦🇲 NEW: A clearer image of Iranian ‘Majid’ AD-08 in service with the Armenian Armed Forces
+‏
+‏@Middle_East_Spectator
+22:46
+1405/03/07
+
+
+
+
+src :@mohem_mat
+‏حاجی‌بابایی، نایب‌رئیس مجلس : ایران یک ابرقدرت شده و این کار مجلس را سخت‌تر می‌کند
+‏
+‏@mohem_mat
+22:45
+1405/03/07
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏اسکات بسنت، وزیر خزانه‌داری آمریکا، در نشست خبری خود در کاخ سفید، درباره اطلاعیه سنتکام درباره حمله تهران به کویت و شکستن آتش‌بس گفت: «ما صبور هستیم اما صبر نامحدود نداریم.»
+‏
+‏او افزود: «رییس‌جمهور همیشه یک توافق صلح را ترجیح می‌دهد، بنابراین هر کاری که تا اینجا انجام داده‌ایم صرفا حالت دفاعی داشته و در حال حاضر نیز به همین روند ادامه خواهیم داد.»
+‏
+‏وزیر خزانه‌داری آمریکا تاکید کرد: «اما اگر ترامپ فکر کند که نمی‌تواند به یک توافق صلح برسد، در آن صورت گزینه اقدام نظامی دوباره مطرح خواهد شد.»
+‏https://iranintl.com/202605286430
+22:45
+1405/03/07
+
+
+
+
+src :@GeoPWatch
+‏🇮🇱🇵🇸 — i24NEWS reports that these drones aren't believed to be equipped with an explosive payload, but are irregardless not allowed to be flown above the Israeli-occupied West Bank.
+22:43
+1405/03/07
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 تلاش دولت آمریکا برای چاپ دلار با تصویر ترامپ  🔹خبرنگار: "چقدر طول می‌کشد تا چهره ترامپ را روی اسکناس ۲۵۰ دلاری ببینیم؟"  🔹بسنت، وزیرخزانه‌داری آمریکا: "لایحه‌ای پیشنهاد شده برای تغییر الزامات به طوری که یک فرد زنده، -دونالد جی. ترامپ-، بتواند روی اسکناس…
+22:42
+1405/03/07
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏تصویر ماهواره‌ای با کیفیت پایین از دانشگاه امیرالمومنین نیرو زمینی سپاه پاسداران در جنوب اصفهان حاکی از آن است دستکم چهار سوله در این دانشگاه طی جنگ توسط جنگنده‌های آمریکایی/اسرائیلی هدف قرار گرفته است. 
+‏
+‏@P_raetorio
+22:42
+1405/03/07
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️ آتلانتیک:
 ‏
@@ -1159,19 +1241,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸🇮🇱⚡️ — New satellite images show Iran rapidly extracting large quantities of missiles from its underground facilities using only bulldozers and dump trucks, neutralizing a strategy that consumed a huge volume of Israeli and American ammunition and casting doubt on Trump's claims of having destroyed Iran's arsenal, according to CNN.
-‏
-‏➡️ During the war, joint U.S.-Israeli strikes disabled many underground complexes by blocking entry points, trapping launchers and limiting Iran's ability to fire.
-‏
-‏➡️ Iran is now re-accessing those stockpiles with simple engineering equipment, effectively undoing the blockade strategy.
-21:28
-1405/03/07
-
-
-
-
 src :@didarnews1
 ‏🔴ان‌بی‌سی:
 ‏
@@ -2211,16 +2280,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | پنجشنبه ۷ خرداد
-‏@iranintlTV
-20:10
-1405/03/07
-
-
-
-
 src :@rnintel
 ‏🇲🇦🇿🇦⚡️- Per the latest report by the African Developement Bank, Morocco has overtaken South Africa as Africa's most industrialized nation.
 ‏
@@ -2608,19 +2667,6 @@ src :@mohem_mat
 
 
 
-src :@mohem_mat
-‏توییت یغما فشخامی
-‏
-‏مدیرعامل اتحادیه لبنی گفت: 
-‏لبنیات از سبد مصرفی خانواده حذف شده و مشکلات مردم آنقدر زیاد است که صرف خرید ‌لبنیات⁩ نمی‌شود.چند روز قبل هم دبیر انجمن صنایع لبنی از افزایش قیمت ۴ قلم پرمصرف لبنی خبر داده بود. از ابتدای سال ۱۴۰۴ تا امروز این سومین موج گرانی شیر است
-‏
-‏@mohem_mat
-19:29
-1405/03/07
-
-
-
-
 src :@jangaavaran1390
 ‏دیپلمات اسرائیلی به کانال ۱۴: تا جایی که می‌دانیم، این توافق توسط ترامپ یا ایت الله مجتبی خامنه‌ای تأیید نشده است. در صورت وجود توافق، فعلاً در سطوح پایین‌تر است.
 19:29
@@ -2735,15 +2781,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 19:14
-1405/03/07
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇱❌🇱🇧- Approximately 1 hour ago, the Israeli Air Force targeted the largest dam in Lebanon, the Qaraoun Dam in the southern Beqaa Valley.  ➡️ The Qaraoun Dam serves as a vital hub for hydropower generation (190 MW), irrigation, and drinking water.  @GeoPWatch
-19:13
 1405/03/07
 
 
@@ -4133,26 +4170,6 @@ src :@MilitiaNews
 
 
 
-src :@P_raetorio
-[ویدئو]
-‏⚜حدود 60 تانکر سوخت‌رسان نیروی هوایی آمریکا از نوع KC-135R/T و KC-46A در فرودگاه بن گوریون در مرکز اسرائیل مستقر هستند و 16 تا 18 تانکر دیگر در فرودگاه ایلات در جنوب اسرائیل مستقر هستند.  📃@Cataphract1
-16:01
-1405/03/07
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏⚜حدود 60 تانکر سوخت‌رسان نیروی هوایی آمریکا از نوع KC-135R/T و KC-46A در فرودگاه بن گوریون در مرکز اسرائیل مستقر هستند و 16 تا 18 تانکر دیگر در فرودگاه ایلات در جنوب اسرائیل مستقر هستند.
-‏
-‏📃@Cataphract1
-16:01
-1405/03/07
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Sergeant Alaa Mahmoud Madlaj of the Lebanese Army was killed in an Israeli targeted attack near the Scout City junction on the Zefta–Deir al-Zahrani road.
@@ -4441,14 +4458,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 14:58
-1405/03/07
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇱/🇱🇧 BREAKING: For the first time since the ‘ceasefire’, an Israeli assassination strike in Chouaifet, just within the outskirts of southern Beirut  @Middle_East_Spectator
-14:56
 1405/03/07
 
 
@@ -5918,14 +5927,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 04:05
-1405/03/07
-
-
-
-
-src :@MilitiaNews
-‏🇺🇸🇮🇷⚡️اکسیوس به نقل از یک مقام آمریکایی: ایران ۴ پهپاد یک طرفه را به سمت یک کشتی تجاری آمریکا شلیک کرد.   ارتش آمریکا این پهپادها را سرنگون کرد و قبل از پرتاب به واحد پرتاب پهپاد ایرانی دیگر روی زمین حمله کرد.  @MilitiaNews | میلیشا را دنبال کنید
-04:04
 1405/03/07
 
 
