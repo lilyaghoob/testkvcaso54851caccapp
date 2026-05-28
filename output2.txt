@@ -1,5 +1,13 @@
 src :@GeoPWatch
 ‏🇰🇼 — Reports of an explosion in Kuwait. Separately, local Kuwaitis report feeling "vibrations".
+06:04
+1405/03/07
+
+
+
+
+src :@GeoPWatch
+‏🇰🇼 — Reports of an explosion in Kuwait. Separately, local Kuwaitis report feeling "vibrations".
 06:01
 1405/03/07
 
@@ -15,6 +23,10 @@ src :@VahidOnline
 ‏وحيد همين الان اژير كويت فعال شد 
 ‏
 ‏سلام صدای پدافند و تقریبا ۲ تا انفجار در کویت
+‏
+‏درود وحید🙋🏻‍♂️
+‏اینجا ساعت ۵:۲۰ به وقت کویت صدای اژیر اومد و رو گوشی ها هشدار اومد
+‏ولی هنوز هیچ رسانه‌ی کویتیی دلیل این اتفاقو نگفته
 ‏
 ‏📡 @VahidOnline
 05:59
@@ -769,6 +781,9 @@ src :@VahidOnline
 ‏یک مقام آمریکایی در گفت‌وگو با رویترز از حملات جدید آمریکا به یک سایت نظامی در ایران خبر داد و گفت ارتش آمریکا همچنین چندین پهپاد ایرانی را رهگیری و سرنگون کرده است. هنوز به جزییات این سایت نظامی و تعداد پهپادها اشاره‌ای نشده است.
 ‏ساعتی پیش در پی شنیده شدن صدای ۳ انفجار در شرق بندرعباس، پدافند هوایی این شهر فعال شد.
 ‏@VahidOOnLine 
+‏آپدیت:
+‏در همین حال، خبرگزاری تسنیم، نزدیک به سپاه پاسداران، به نقل از یک منبع آگاه نوشت: «ساعاتی پیش یک نفتکش آمریکایی با خاموش کردن سیستم راداری خود قصد عبور از تنگه هرمز را داشت که با اقدام سریع و قاطع نیروی دریایی سپاه و شلیک به سمت آن، مجبور به توقف و بازگشت شد.»
+‏@VahidHeadline 
 ‏
 ‏📡 @VahidOnline
 03:23
@@ -991,14 +1006,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 Initial reports suggest the US has carried out a defense operation in Bandar Abbas, Iran.  A US official said “the US will act to safeguard its regional interests, and this does not affect the ceasefire.”  @wfwitness
-02:54
-1405/03/07
-
-
-
-
 src :@World_Newsly
 ‏🔴 به گزارش رویترز، ارتش آمریکا حملات جدیدی را به یک سایت نظامی ایران انجام داد که تهدیدی برای نیروهای آمریکایی و کشتی‌های تجاری در تنگه هرمز بود
 ‏
@@ -1059,22 +1066,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 02:47
-1405/03/07
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released additional statements regarding operations targeting Israeli forces on May 26 across southern Lebanon.
-‏
-‏In response to Israeli ceasefire violations on southern Lebanon and Bekka, which led to civilian casualties, we targeted gatherings of Israeli vehicles and soldiers on the outskirts of Zoutar al-Sharqiyah twice at 13:45 and 14:50, on May 26th, using FPV drones, followed by the targeting of a gathering of Israeli soldiers with two more FPV drones at 14:45 at the riverbank near the town on the 26th of May.
-‏
-‏We also targeted gatherings of military vehicles and soldiers at 6:45 and two at 12:00 in the Hadabat al-Ajal site and the town of Odaisseh with FPV drone strikes on the 27th of May.
-‏
-‏
-‏@wfwitness
-02:43
 1405/03/07
 
 
