@@ -1,3 +1,50 @@
+src :@ClashReport
+‏Iran’s Foreign Ministry:
+‏
+‏None of the Western parties, when speaking about the Islamic Republic of Iran, can use the language of 'must.' 
+‏
+‏We make our decisions based on the interests and rights of the Iranian nation.
+21:01
+1405/03/08
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Donald Trump has posted on Truth Social:Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions. All water mines (bombs), if any…
+21:00
+1405/03/08
+
+
+
+
+src :@tabzlive
+‏🇺🇦🇷🇺⚡️ — Ukrainian President Zelensky:
+‏We have information from intelligence about Russia's preparation for a new massive strike.
+20:59
+1405/03/08
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸⚡️ — Iranian Foreign Ministry spokesperson Esmaeil Baqaei:
+‏Message exchanges between Iran and the U.S. continue, but no final understanding has been reached.
+20:59
+1405/03/08
+
+
+
+
+src :@jangaavaran1390
+‏در طول جنگ ایران، امارات متحده عربی ده‌ها حمله هوایی علیه ایران انجام داد که با هماهنگی اسرائیل و ایالات متحده صورت گرفت. این حملات از روزهای ابتدایی جنگ آغاز شده و تا روز پس از اعلام آتش‌بس جاری ادامه یافت. هدف‌های این حملات شامل زیرساخت‌های نظامی و انرژی در تنگه هرمز بود. همچنین، دخالتی بسیار عمیق‌تر در این درگیری که پیش‌تر شناخته شده نبود، مورد اشاره قرار گرفت. افرادی که با موضوع آشنا هستند، به نشریه وال استریت ژورنال این‌گونه بیان می‌کنند.
+20:59
+1405/03/08
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏🔗 شارح (@khokhlakof):
@@ -518,7 +565,7 @@ src :@ClashReport
 src :@WAR_ROOM_NEWS
 ‏وال استریت ژورنال:
 ‏
-‏امارات ده‌ها حمله هوایی مخفیانه علیه تاسیسات انرژی ایران انجام داده و این حملات از روزهای ابتدایی جنگ تا حتی بعد از اعلام آتش‌بس ادامه داشته است،طبق این گزارش، حملات با هماهنگی آمریکا و اسرائیل انجام شده و اهدافی در بندرعباس، جزایر قشم و ابوموسی، پالایشگاه لاوان و مجتمع عسلویه را شامل می‌شده‌اند
+‏امارات ده‌ها حمله هوایی مخفیانه علیه زیرساخت‌های نظامی و تاسیسات انرژی ایران انجام داده و این حملات از روزهای ابتدایی جنگ تا حتی بعد از اعلام آتش‌بس ادامه داشته است،طبق این گزارش، حملات با هماهنگی آمریکا و اسرائیل انجام شده و اهدافی در بندرعباس، جزایر قشم و ابوموسی، پالایشگاه لاوان و مجتمع عسلویه را شامل می‌شده‌اند
 ‏
 ‏امارات رویکردی بسیار تهاجمی‌تر از عربستان سعودی اتخاذ کرد که باعث تنش بین محمد بن زاید و محمد بن سلمان شد، به طوری که هر دو رهبر بر سر نحوه پاسخ به ایران و درگیری‌های منطقه‌ای گسترده‌تر با هم اختلاف داشتند
 ‏
@@ -2212,21 +2259,6 @@ src :@didarnews1
 
 
 
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Iran's Fars News Agency:
-‏Informed sources describe Trump's statements as a mix of truth and fabrication — an attempt to claim a premature victory.
-‏
-‏The most important part of the agreement is the immediate payment of $12 billion of Iran's frozen assets and a complete ceasefire in Lebanon, which Trump didn't mention.
-‏
-‏According to the agreement text, this amount must be paid immediately, and until this payment is made, Iran will not enter any further negotiation stages. 
-‏
-‏Only if these issues are resolved will Iran enter into talks in the next stage on the lifting of all sanctions and the nuclear issue, in accordance with its red lines.
-19:17
-1405/03/08
-
-
-
-
 src :@mohem_mat
 ‏ترامپ الان در تروث‌سوشال نوشت:  ایران باید بپذیرد که هرگز سلاح هسته‌ای یا بمب اتمی نخواهد داشت. تنگه هرمز باید فوراً برای تردد بی‌قیدوشرط کشتی‌ها در هر دو جهت باز شود، بدون هیچ عوارضی. تمام مین‌های دریایی (بمب‌ها)، اگر وجود داشته باشند، خنثی خواهند شد (ما…
 19:15
@@ -3631,19 +3663,6 @@ src :@MilitarryWorld
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷📞🇴🇲- Iranian Foreign Minister Abbas Araghchi spoke on the phone with his Omani counterpart, Badr bin Hamad Al Busaidi:
-‏In very productive call with FM Badr Al Busaidi, expressed Iran's solidarity with Oman in face of any threat.
-‏
-‏We discussed Hormuz and its future administration in line with our sovereign responsibilities and international law.
-‏We welcome consultation with all neighboring states.
-17:38
-1405/03/08
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏بنا بر گزارش‌های رسیده به ایران‌وایر، «نهاله شهیدی»، شهروند بهایی، برای اجرای حکم شش سال حبس احضار شده است. از او خواسته شده روز ۱۲ خرداد ۱۴۰۵ برای تحمل دوران محکومیت، خود را به دادگاه انقلاب کرمان معرفی کند.
@@ -3867,16 +3886,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 17:09
-1405/03/08
-
-
-
-
-src :@jangaavaran1390
-‏پلیس آلمان فردی یونانی ۴۶ ساله به نام بریتانیا ایوانیس آیدینیدیس را که در مونیخ ساکن است، به اتهام همکاری با یک سرویس اطلاعاتی خارجی که احتمالاً متعلق به ایران می‌باشد، دستگیر کرده است.
-‏
-‏بر اساس اعلام مقامات بریتانیایی، این اتهامات مربوط به هدف قرار دادن یک خبرنگار است که برای شبکه مخالف مستقر در لندن به نام ایران اینترنشنال فعالیت می‌کند.
-17:07
 1405/03/08
 
 
@@ -6840,17 +6849,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 21:13
-1405/03/07
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ایالات متحده و شرکت General Atomics آزمایش کنترل پهپاد MQ-20 از جنگنده F-35 را انجام دادند
-‏
-‏فرماندهی ایالات متحده به همراه شرکت General Atomics Aeronautical Systems اعلام کردند که نمایش موفقیت‌آمیز فناوری تعامل بین هواپیمای سرنشین‌دار و بدون سرنشین را انجام داده‌اند. در طول آزمایش‌ها، خلبان F-35 از موقعیت زمینی، کنترل پهپاد MQ-20 «ایونجر» را از طریق تبلت و کانال‌های ارتباطی خارج از دید مستقیم انجام داد.
-‏
-‏@artemis_force
-21:00
 1405/03/07
