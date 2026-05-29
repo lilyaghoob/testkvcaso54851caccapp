@@ -23,7 +23,6 @@ src :@P_raetorio
 ‏
 ‏پ.ن: دلیل استقرار این سامانه بر روی پشت بام ساختمان های بلند مسکو این است که در محیط متراکم شهری افق دید رادار به شدت محدود می‌شود دقیقا به مشابه محیط کوهستانی اما قرار دادن این سامانه های پدافندی در ارتفاع باعث می‌شود که افق دید بهتری داشته باشند و در نتیجه اهداف را در فاصله دور تر و ارتفاع پست تر بهتر کشف کنند.
 ‏
-‏ماهان آرمانی 
 ‏
 ‏@P_raetorio
 12:19
@@ -489,7 +488,6 @@ src :@P_raetorio
 ‏
 ‏وزارت امور خارجه رومانی اعلام کرد از ناتو خواسته است انتقال قابلیت‌های ضد پهپاد را تسریع کند و این حادثه را تشدید جدی و غیرمسئولانه تنش و نقض جدی قوانین بین‌المللی توصیف کرد
 ‏
-‏ماهان آرمانی
 ‏
 ‏@P_raetorio
 11:48
@@ -6514,21 +6512,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 13:26
-1405/03/07
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇪🇺 🇷🇺 — EU's Kaja Kallas Calls for Russian Troop Withdrawals from Frozen Conflict Zones in Ukraine Peace Framework
-‏
-‏EU High Representative for Foreign Affairs and Security Policy Kaja Kallas has circulated an internal discussion paper among member states outlining key concessions the EU believes Russia should make in any comprehensive settlement to end the war in Ukraine.
-‏
-‏The document calls for a ban on Russian military presence and deployments not only in Ukraine but also in Belarus, Moldova (including the breakaway region of Transnistria), Georgia (Abkhazia and South Ossetia), and Armenia, along with the removal of nuclear weapons from Belarus.
-‏
-‏The Global Eye | Subscribe
-13:20
 1405/03/07
 
 
