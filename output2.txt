@@ -2059,16 +2059,6 @@ src :@BellumActaNews
 
 
 
-src :@GeoPWatch
-‏🇸🇪🇺🇦 — Ukraine has reached a deal with Sweden to acquire 36 JAS 39 Gripen fighter jets, with Sweden donating 16 Gripen C/D fighter jets and selling 20 Gripen E/F fighter jets. The Gripen C/Ds will arrive in 2027, while the E/Fs will arrive in 2030.
-‏
-‏The C/Ds will already represent a good upgrade to the Ukrainian Air Force due to its capabilities in allowing takeoffs from shorter runways and having a quick maintenance time on the ground before it conducts its next sortie. The aircraft will be able to be far more dispersed than Ukraine's current jet inventory, allowing it to better avoid Russian strikes against Ukrainian air bases.
-23:10
-1405/03/07
-
-
-
-
 src :@naya_foriraq
 ‏أنباء عن انفجارات في هرمز
 23:08
@@ -2080,14 +2070,6 @@ src :@naya_foriraq
 src :@MilitiaNews
 [ویدئو]
 23:08
-1405/03/07
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷- Explosions have been heard near Bandar Kangan, southern Iran, on the coast of the Persian Gulf, according to local sources.
-23:07
 1405/03/07
 
 
@@ -2196,14 +2178,6 @@ src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇮🇷 NEW: Initial reports of explosions heard in Hormozgan Province and Bushehr Province, southern Iran near the Persian Gulf  @Middle_East_Spectator
 23:00
-1405/03/07
-
-
-
-
-src :@GeoPWatch
-‏Correction: preparation 😭😭
-22:59
 1405/03/07
 
 
