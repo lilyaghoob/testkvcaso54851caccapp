@@ -1,3 +1,27 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷-The US Treasury Department has sanctioned the Persian Gulf Strait Authority, the Iranian authority responsible for controlling vessel transit through the Strait of Hormuz.
+23:26
+1405/03/08
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏شرکت بریتانیایی OpenWorks Engineering سامانه اپتیکی مبتنی بر هوش مصنوعی ساخته است که می‌تواند پهپادها را در حال حرکت ردیابی کند.
+‏
+‏سامانه هدف‌گیری ضدپهپاد Vision Pace که توسط شرکت OpenWorks Engineering توسعه یافته، 70 کیلوگرم (154 پوند) وزن دارد و می‌تواند با استفاده از تثبیت‌سازی مبتنی بر هوش مصنوعی و سامانه موقعیت‌دهی مستقیم، در کمتر از یک ثانیه چرخش و ردیابی 180 درجه‌ای را انجام دهد.
+‏
+‏این سامانه با سلاح ضدپهپاد مایکروویوی پرقدرت Alecto متعلق به شرکت ThinKom Solutions یکپارچه شده و بر روی خودروی زرهی 4×4 ترکیه‌ای Nomad برای اجرای عملیات متحرک مقابله با پهپادها (Counter-UAS) نصب شده است.
+‏
+‏@P_raetorio
+23:22
+1405/03/08
+
+
+
+
 src :@MilitarryWorld
 ‏🚨وزیر خزانه‌داری آمریکا امروز جمعه درباره رفع محاصره اعمال‌شده بر بنادر ایران گفت هر کاری در این زمینه به آهستگی انجام خواهد شد.
 ‏
@@ -54,7 +78,7 @@ src :@mohem_mat
 
 src :@wfwitness
 [عکس]
-‏⚡🇱🇧🇮🇱 The footage released by the IDF is consitent with MLRS fire coming from the north supporting the claim that the Saint Georges orthodox church of Marjaayoun was damaged by Hezbollah fire.
+‏⚡🇱🇧🇱🇧🇮🇱 The footage released by the IDF is consitent with MLRS fire coming from the north supporting the claim that the Saint Georges orthodox church of Marjaayoun was damaged by Hezbollah fire.
 ‏
 ‏The footage was taken from the height of Khiam, to the south-east of the targeted zone. As the footage showed, the fire was mostly inaccurate and targeted the whole settlement rather than the church alone. 
 ‏
@@ -3106,14 +3130,6 @@ src :@naya_foriraq
 
 
 
-src :@GeoPWatch
-‏🇮🇷🇺🇸🇶🇦🇮🇱🇱🇧🇱🇧🇵🇰- An Iranian official told Mehr News Agency that disagreements on several issues continue and that Donald Trump's recent post merely reflects his wishes rather than the reality of the negotiations.
-19:56
-1405/03/08
-
-
-
-
 src :@didarnews1
 ‏🔴نیمه اول بازی فوتبال تیم ملی ایران و گامبیا، با نتیجه ۱-۰ به سود گامبیا پایان یافت.
 ‏
@@ -3197,14 +3213,6 @@ src :@Indypersian
 ‏این در حالی است که مقام‌های جمهوری اسلامی در هفته‌های اخیر تاکید کرده بودند که پرونده هسته‌ای در توافق کنونی مطرح نخواهد شد، بلکه بعد از نهایی شدن این توافق و پایان رسمی جنگ، گفتگوها در این‌باره ادامه خواهد یافت.
 ‏@indypersian
 19:51
-1405/03/08
-
-
-
-
-src :@naya_foriraq
-‏🇷🇺بوتين: الوضع في ساحة المعركة مع أوكرانيا يُشير إلى أن الحرب تقترب من نهايتها.
-19:50
 1405/03/08
 
 
@@ -4160,16 +4168,6 @@ src :@cataphract1
 
 src :@P_raetorio
 [ویدئو]
-18:33
-1405/03/08
-
-
-
-
-src :@P_raetorio
-‏♨️ محاصره دریایی با دستور ترامپ برداشته شده است 
-‏
-‏📃@Cataphract1
 18:33
 1405/03/08
 
