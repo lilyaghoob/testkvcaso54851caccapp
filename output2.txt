@@ -3918,14 +3918,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- Axios reports that the US and Iran have reached a memorandum of understanding on a 60 day cease fire extension, pending Trumps approval. President Trump said he wanted a a few days to make a decision.
-19:03
-1405/03/07
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پس از انتشار پیامی منسوب به مجتبی خامنه‌ای درباره «نابودی اسرائیل تا ۱۵ سال آینده»، رسانه‌های ایران تصویری از دیوارنگاره جدید در میدان فلسطین تهران منتشر کردند که بر آن جمله «اسرائیل ۱۵ سال آینده را نخواهد دید» نوشته شده است.
@@ -6220,18 +6212,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 07:12
-1405/03/07
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏از #امیدیه در خوزستان پیام‌ها و تصاویری دریافت می‌کنم  که میگن حدود ساعت ۵:۵۰ موشکی شلیک شده و سمت تونل امیدیه میانکوه صدای انفجاری شنیده شده.
-‏یکی نوشته لانچر هدف گرفته شده.
-‏
-‏دقیقا میشه هم‌زمان با شنیده شدن آژیر در کویت
-‏
-‏📡 @VahidOnline
-06:10
 1405/03/07
