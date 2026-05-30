@@ -1,3 +1,41 @@
+src :@naya_foriraq
+[عکس]
+‏🌟فوز المرشح يونس محمود لرئاسة الاتحاد العراقي لكرة القدم.
+15:00
+1405/03/09
+
+
+
+
+src :@mwarmonitor
+‏🔸ایران نشان می‌دهد که در مذاکرات هسته‌ای بر موضع اولیه خود پایبند است و انتظار نمی‌رود امتیازهای عمده‌ای بدهد. همچنین همچنان برخی خواسته‌های کلیدی آمریکا را رد می‌کند، از جمله تحویل دادن ذخایر اورانیوم بسیار غنی‌شده و ایجاد تغییر در سیاست هسته‌ای اصلی خود. نیویورک تایمز 
+‏
+‏@mwarmonitor
+14:59
+1405/03/09
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏پیت هگست، وزیر جنگ آمریکا، در حاشیه نشست «گفت‌وگوی شانگری‌لا» در سنگاپور، درباره محاصره بنادر و سواحل جنوبی ایران گفت: «محاصره دریایی ادامه دارد و این اقدام موثر بوده و کنترل تنگه هرمز در اختیار آمریکا است.»
+‏او افزود تنگه هرمز باید برای همه کشورها باز و بدون عوارض باقی بماند.
+14:58
+1405/03/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇸🇩🇦🇪⚡️ — The Sudanese army shot down a Chinese-made CH-95 combat drone operated by the UAE-backed Rapid Support Forces near Rabak, with wreckage images showing its Blue Arrow 11 anti-tank missile apparently intact.
+14:57
+1405/03/09
+
+
+
+
 src :@MilitarryWorld
 ‏🚨 نیروهای اسرائیلی از رودخانه لیتانی در جنوب لبنان عبور کرده و به حومه شهر نبطیه رسیده‌اند
 ‏
@@ -100,9 +138,7 @@ src :@MilitarryWorld
 
 src :@WAR_ROOM_NEWS
 [عکس]
-‏حزب الله تصویری منتشر کرده که لحظاتی پیش از اصابت مولتی روتور FPV خود را به خودرو حامل سربازان اسرائیلی در جنوب لبنان نشان میدهد
-‏
-‏به AI شباهت دارد در نهایت قضاوت باشما
+‏حزب الله تصویری منتشر کرده که لحظاتی پیش از اصابت مولتی روتور FPV خود را به خودرو هاموی حامل سربازان اسرائیلی در جنوب لبنان نشان میدهد
 14:50
 1405/03/09
 
@@ -2012,17 +2048,6 @@ src :@GeoPWatch
 
 
 
-src :@P_raetorio
-[عکس]
-‏تصاویر ماهواره‌ای با کیفیت پایین حاکی از انهدام دستکم 9 سازه در بخشی از سپاه ولیعصر شهر اهواز طی جنگ اخیر است. 
-‏
-‏@P_raetorio
-11:58
-1405/03/09
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Sudan's Army shot down a Chinese-made CH-95 combat drone operated by the UAE-backed RSF forces near Rabak. 
@@ -2323,19 +2348,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@P_raetorio
-‏آمریکا آماده است حملات علیه ایران را از سر بگیرد اگر توافقی حاصل نشود. رئیس‌جمهور ترامپ صبور است و می‌خواهد به توافقی عالی برسد که تضمین کند ایران به سلاح‌های هسته‌ای دست نیابد.
-‏
-‏- پیت هگست، وزیر جنگ ایالات متحده آمریکا 
-‏
-‏
-‏@P_raetorio
-11:32
-1405/03/09
-
-
-
-
 src :@naya_foriraq
 ‏🇩🇪إغلاق مطار ميونيخ في ألمانيا بعد رصد مسيّرة
 11:30
@@ -2562,14 +2574,6 @@ src :@cataphract1
 
 
 
-src :@naya_foriraq
-‏الله اكبر
-11:13
-1405/03/09
-
-
-
-
 src :@rus_cosmos
 ‏سپاه اعلام کرد؛  پس از حمله سحرگاهی آمریکا به مکانی در حومه فرودگاه بندرعباس، پایگاه هوایی آمریکا که مبدا این تجاوز بود، ساعت ۴:۵۰ بامداد هدف قرار گرفت.  این پاسخ هشداری جدی است تا دشمن بداند هرگونه تجاوز به ایران بی‌پاسخ نخواهد ماند و در صورت تکرار، پاسخ…
 11:11
@@ -2584,18 +2588,6 @@ src :@defence_news
 ‏
 ‏@Minas_Tirith2024
 11:10
-1405/03/09
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏وال‌استریت ژورنال گزارش داد برخی کشتی‌ها برای عبور از تنگه هرمز در هماهنگی با ارتش آمریکا سامانه‌های موقعیت‌یاب خود را خاموش می‌کنند تا از حملات جمهوری اسلامی در امان بمانند.
-‏به نوشته این روزنامه، نرخ بیمه کشتی‌ها در منطقه به ۲.۵ تا ۴ درصد ارزش کشتی رسیده است؛ رقمی که پیش از جنگ حدود ۰.۲۵ درصد بود.
-‏سنتکام اعلام کرد سپاه پاسداران در هفته گذشته اقدام به مین‌گذاری و شلیک پهپاد کرده و آمریکا نیز به این حملات پاسخ داده است.
-‏https://iranintl.com/202605303453
-11:09
 1405/03/09
 
 
@@ -3914,19 +3906,6 @@ src :@Artemis_Force
 
 
 
-src :@tabzlive
-[عکس]
-‏🇪🇪⚡️ — Estonia may eventually be forced to introduce mandatory military conscription for women as falling male birth rates threaten the country’s ability to meet defense manpower targets, according to TVP World.
-‏
-‏Head of Estonia’s Defense Resources Agency Anu Rannaveski says the number of boys born annually has dropped from around 15,000 in previous generations to roughly 4,000–5,000 today, raising concerns that Estonia will not be able to fill its planned 4,100 yearly conscription slots by 2040.
-‏
-‏The NATO member currently requires military service only for men, while women serve voluntarily, but Rannaveski described compulsory female conscription as increasingly becoming a question of “when, not if.”
-02:02
-1405/03/09
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 NEW: Allegedly, 
@@ -3954,15 +3933,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 02:01
-1405/03/09
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — A White House official told Al Jazeera: 
-‏President Trump will not sign any agreement with Iran unless it is beneficial for America and meets his red lines.
-01:44
 1405/03/09
 
 
@@ -5535,20 +5505,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@mwarmonitor
-‏🔴لارنس نورمن خبرنگار وال‌استریت ژورنال ؛ بار دیگر: توافق بر سر یک تفاهم‌نامه (MoU) به معنای توافق نهایی نیست که همه مسائل، از جمله موضوع هسته‌ای را پوشش دهد.
-‏
-‏🔹این بخش در واقع «بخش آسان‌تر» است، دقیقاً به این دلیل که بسیاری از مسائل به آینده موکول (به تعویق) شده‌اند.
-‏
-‏🔸اما اگر به‌طور منطقی این دیدگاه را داشته باشید که ممکن است هرگز یک توافق نهایی شکل نگیرد، این به این معنا نیست که یک چارچوب توافق یا MoU وجود نخواهد داشت.
-‏
-‏@mwarmonitor
-19:25
-1405/03/08
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏﻿ کارشناسان معتقدند آنچه در ایران بازگشایی شده «اینترنت» نیست!
@@ -6598,12 +6554,4 @@ src :@KayhanLondonChannel
 src :@KayhanLondonChannel
 ‏Kayhan.London.Channel کیهان لندن pinned a video
 15:04
-1405/03/08
-
-
-
-
-src :@KayhanLondonChannel
-‏Kayhan.London.Channel کیهان لندن pinned a video
-14:58
 1405/03/08
