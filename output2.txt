@@ -1,3 +1,16 @@
+src :@ClashReport
+[عکس]
+‏JD Vance frequently scrolls on his phone during meetings and is known for engaging directly with critics on social media. 
+‏
+‏White House Chief of Staff Susie Wiles has encouraged him to reduce his online activity, arguing that public social media feuds are beneath the office of the vice president.
+‏
+‏Source: NYT
+18:47
+1405/03/09
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏مصطفی نیلی، وکیل دادگستری، اعلام کرد شعبه اول دادگاه انقلاب شیراز بنیامین نقدی را با اتهام «افساد فی‌الارض» به اعدام محکوم کرده است.
@@ -201,8 +214,14 @@ src :@Americana_ir
 
 src :@VahidOnline
 [عکس]
-‏بنیامین نقدی، زندانی سیاسی و از معترضان دی‌ماه از سوی دادگاه انقلاب شیراز به اعدام محکوم شد
-‏masoudkazemi81
+‏مصطفی نیلی، وکیل دادگستری اعلام کرد بنیامین نقدی، زندانی سیاسی و از معترضان دی‌ماه، از سوی دادگاه انقلاب شیراز به اتهام «افسادفی‌الارض»، به اعدام محکوم شد.
+‏
+‏این وکیل دادگستری به کانال امتداد گفت که بنیامین نقدی در شب سیزدهم دی ۱۴۰۴ در شیراز، به دلیل «شعله‌ور نمودن یک دستگاه کپسول آتش‌نشانی» به سمت مامورین نیروی انتظامی بازداشت شده بود. 
+‏
+‏مصطفی نیلی افزود پس از پایان تحقیقات مقدماتی کیفرخواست بنیامین نقدی با اتهام‌های «محاربه، عضویت در گروه‌های به هم‌زننده امنیت، اجتماع و تبانی به قصد انجام جرم علیه امنیت و فعالیت تبلیغی علیه نظام» صادر شد و نسبت به اتهام ایراد صدمه جسمانی به ماموران و حمل سلاح سرد منع تعقیب صادر شد. 
+‏
+‏نیلی، وکیل دادگستری گفت که در جلسه دادگاه، قضات تمامی اتهامات را مصداق افسادفی‌الارض تشخیص دادند و بر همین مبنا حکم اعدام برای بنیامین نقدی صادر کردند.
+‏@VahidOOnLine 
 ‏
 ‏📡 @VahidOnline
 18:26
@@ -3839,17 +3858,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏A Syrian refugee family of eight — a father, mother, and their six children — were killed when an Israeli drone hit their car on the Adloun coastal highway in southern Lebanon. 
-‏
-‏The family had been fleeing after Israel issued evacuation warnings for nearby villages earlier that morning.
-12:21
-1405/03/09
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏به گزارش بلومبرگ، در جریان حمله موشکی منتسب به جمهوری اسلامی ایران به پایگاه هوایی «علی‌السالم» در کویت، دست‌کم پنج نیروی آمریکایی دچار جراحت‌های سطحی شده‌اند.
@@ -6321,36 +6329,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 18:52
-1405/03/08
-
-
-
-
-src :@Americana_ir
-‏🔴 پیام جدید ترامپ درباره ایران در شبکه اجتماعی تروث  * ترجمه کامل در پست بعدی  🆔 @Americana_ir
-18:48
-1405/03/08
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 پیام جدید ترامپ درباره ایران در شبکه اجتماعی تروث
-‏
-‏* ترجمه کامل در پست بعدی
-‏
-‏🆔 @Americana_ir
-18:48
-1405/03/08
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ متن کامل پیام ترامپ که ترجمه شو گذاشتم
-‏
-‏@Guard_Warriors | Mmd
-18:47
 1405/03/08
