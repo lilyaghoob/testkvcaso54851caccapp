@@ -1,3 +1,44 @@
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli jets broke the sound barrier over the Bekka region of eastern Lebanon.
+‏
+‏@wfwitness
+01:36
+1405/03/10
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، روز شنبه، با انتشار پیامی در شبکه اجتماعی «تروث سوشال»، به دیدار اخیر براندون جانسون، شهردار شیکاگو با رهبر کاتولیک‌های جهان در واتیکان واکنش نشان داد. ترامپ با به اشتراک گذاشتن تصاویر این دیدار، نوشت: «یک نفر باید به پاپ توضیح دهد که شهردار شیکاگو فردی بی‌فایده است و اینکه ایران نمی‌تواند سلاح هسته‌ای داشته باشد».
+‏
+‏@IndyPersian
+01:35
+1405/03/10
+
+
+
+
+src :@Middle_East_Spectator
+‏Our dear brother Hussein of the South (on X) is alive Alhamdulillah and it was a misunderstanding / rumor spread by some misinformed people.
+‏
+‏Original post has been deleted.
+01:34
+1405/03/10
+
+
+
+
+src :@Middle_East_Spectator
+‏Update: Alhamdoullilah he’s alive and well! 
+‏
+‏It was a different Hussein (his friend).
+01:33
+1405/03/10
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 تصاویر جدید از آسیب‌دیدگی یک سوخت‌رسان آمریکایی در عربستان منتشر شد
@@ -177,14 +218,6 @@ src :@wfwitness
 
 
 
-src :@Middle_East_Spectator
-‏— 🇱🇧 NEW: The owner of the Twitter account ‘Hussein of the South’, (real name Hussein Shahimi) which many of you may know and probably follow on X — has been martyred by Israel  انا لله و انا الیه راجعون  @Middle_East_Spectator
-01:17
-1405/03/10
-
-
-
-
 src :@Mena_Live
 ‏Senior Syrian Democratic Forces commander Hassan Mohammed Ali:
 ‏
@@ -257,19 +290,6 @@ src :@World_Newsly
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
 01:05
-1405/03/10
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇱🇧 NEW: The owner of the Twitter account ‘Hussein of the South’, (real name Hussein Shahimi) which many of you may know and probably follow on X — has been martyred by Israel
-‏
-‏انا لله و انا الیه راجعون
-‏
-‏@Middle_East_Spectator
-01:04
 1405/03/10
 
 
@@ -1523,26 +1543,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:01
-1405/03/09
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏⭕️ اظهارات عجیب مشاور قالیباف درباره مذاکرات ایران و آمریکا
-‏
-‏▫️توافق صرفاً یک تاکتیک برای خرید زمان و منابع است نه استراتژی صلح‌طلبانه
-‏
-‏▫️توافقی وجود ندارد
-‏
-‏🔻مهدی محمدی با بیان اینکه ایران در موضع قدرت است، نوشت: توافق صرفاً یک تاکتیک برای خرید زمان و منابع است نه استراتژی صلح‌طلبانه، و سرنوشت نبرد را ما تعیین خواهیم کرد.
-‏
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-23:00
 1405/03/09
 
 
@@ -3387,6 +3387,14 @@ src :@Middle_East_Spectator
 
 
 
+src :@Middle_East_Spectator
+‏— 🇺🇸/🇮🇷 NEW: Iran’s warning attack against Ali Al-Salam Airbase in Kuwait two days ago caused five injuries among American soldiers – Bloomberg  @Middle_East_Spectator
+19:26
+1405/03/09
+
+
+
+
 src :@ircfspace
 ‏اینترنت در یکی از بحرانی‌ترین وضعیت‌های خود قرار دارد!
 ‏
@@ -3483,21 +3491,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 19:19
-1405/03/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Marco Rubio:
-‏
-‏Ambassador Tom Barrack has been and remains a central interlocutor on Syria, and key trusted hand on Iraq.
-‏
-‏He will continue to play a vital role, not only as our Ambassador to the Republic of Türkiye, but also as we advance the President's strategic cooperation with the government in Syria and begin our work with the new government in Iraq.
-‏
-‏He is an indispensable member of the President's team, carries my full confidence, and operates with the full backing of the State Department. The American people are well served by his continued willingness to lead this work.
-19:17
 1405/03/09
 
 
@@ -6018,14 +6011,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 01:42
-1405/03/09
-
-
-
-
-src :@mwarmonitor
-‏🔴رهبران سه سازمان اقتصادی بین‌المللی روز جمعه هشدار دادند که اگر حمل‌ونقل نفت به حالت عادی بازنگردد، ممکن است با افزایش «ریسک برای امنیت سوخت، شرایط بازار و تاب‌آوری گسترده‌تر اقتصاد» مواجه شویم؛ به‌ویژه زمانی که تقاضا در تابستان افزایش پیدا کند. CBS 
-‏
-‏@mwarmonitor
-01:33
 1405/03/09
