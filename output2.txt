@@ -1,3 +1,71 @@
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+16:06
+1405/03/09
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 خلبانان یک جنگنده چندمنظوره تازه ساخته شده Su-30SM2 و یک هواپیمای آموزشی رزمی Yak-130 از کارخانه هوانوردی ایرکوتسک، یک نمایش هوایی کوچک بر فراز دریاچه بایکال برگزار کردند و مهارت‌های خود را به نمایش گذاشتند.
+‏
+‏#Su_30SM2
+‏#Yak_130
+‏
+‏@RASTAKHIZ_PERSIAN
+16:04
+1405/03/09
+
+
+
+
+src :@P_raetorio
+‏«ایران همچنان به درخواست‌های کلیدی آمریکا از جمله تحویل ذخایر اورانیوم غنی‌شده و محدود کردن غنی‌سازی پاسخ منفی می‌دهد» 
+‏
+‏➖ نیویورک تایمز
+‏
+‏
+‏#خبر 
+‏
+‏
+‏@P_raetorio
+16:04
+1405/03/09
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارشات غیررسمی و تایید نشده از درگیری مسلحانه در مرز چالدران.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+16:04
+1405/03/09
+
+
+
+
+src :@didarnews1
+‏🔴 سخنگوی دولت:
+‏
+‏🔹 دسترسی به اینترنت نباید به امتیازی ویژه برای گروهی محدود تبدیل شود
+‏
+‏🔹 هیچ وضعیت استثنایی‌‌ای نمی‌تواند به رویه‌ای دائمی تبدیل شود و هیچ مصلحتی نباید بهانه‌ای برای محدود کردن مستمر حقوق مشروع مردم باشد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+16:03
+1405/03/09
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 مرکز امنیت دریایی عمان:
@@ -2109,16 +2177,6 @@ src :@cataphract1
 
 
 
-src :@P_raetorio
-‏دقایقی پیش یک راکت حزب‌الله به منطقه الجلیل شلیک شد که رهگیری شد. 
-‏
-‏@P_raetorio
-13:19
-1405/03/09
-
-
-
-
 src :@wfwitness
 ‏⚡️🇲🇲🇮🇳 The Washington Post: Myanmar President Min Aung Hlaing has begun an official visit to India in a move seen as part of efforts to strengthen ties with New Delhi and reduce Myanmar’s growing dependence on China.
 ‏
@@ -2388,20 +2446,6 @@ src :@DEJradio
 ‏
 ‏#جنگ۴۰روزه #ارتش
 ‏@DEJradio
-13:02
-1405/03/09
-
-
-
-
-src :@wfwitness
-‏⚡️🇩🇪🇪🇺🇨🇳 Politico: Germany is reportedly moving closer to supporting tougher European Union trade measures against China amid growing concerns over industrial overcapacity, subsidized exports, and pressure on European manufacturing.
-‏
-‏Berlin’s position has increasingly shifted as concerns grow over the impact of Chinese competition on key sectors including automotive, chemicals, and clean technology industries.
-‏
-‏EU officials are reportedly discussing stronger trade defense mechanisms and new tools aimed at limiting the effects of Chinese state-backed overproduction, with Germany expected to play a key role in determining the bloc’s future approach toward Beijing.
-‏
-‏@wfwitness
 13:02
 1405/03/09
 
@@ -4750,21 +4794,6 @@ src :@didarnews1
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 دیده شدن توپ ۱۲۲ میلی متری HM40 ساخت ایران که در حقیقت کپی D30 شوروی است در رژه روز جمهوری ارمنستان 
-‏
-‏🔹 برخلاف تصور طرف ایرانی به جهت جلوگیری از تحریک جمهوری اذربایجان تسلیحات هجومی برد بلند همچون خانواده پهپاد های شاهد یا موشک های بالستیک کوتاه برد را به ارمنستان صادر نکرده؛ رقم قرارداد های نظامی ایران و ارمنستان حدود ۵۰۰ میلیون دلار تخمین زده شده 
-‏
-‏#ارمنستان
-‏
-‏@RASTAKHIZ_PERSIAN
-23:12
-1405/03/08
-
-
-
-
 src :@didarnews1
 ‏🔴خبرنگار الجزیره: معمولاً، با نزدیک شدن به نهایی شدن هر توافقی بین ایران و آمریکا، تهدید به استفاده از زور ناگهان دوباره مطرح می‌شود
 ‏
@@ -5663,18 +5692,6 @@ src :@Shin_Persian
 
 
 
-src :@didarnews1
-‏🔴نیمه اول بازی فوتبال تیم ملی ایران و گامبیا، با نتیجه ۱-۰ به سود گامبیا پایان یافت.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-19:55
-1405/03/08
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iranian official says President Trump's latest announcement reflects his wishes, not reality.
 ‏
@@ -5751,15 +5768,6 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iranian state media rejects US President Trump's announcement claiming Iran agreed to give up and destroy its enriched uranium. 
 ‏
 ‏@BRICSNews
-19:28
-1405/03/08
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏جنگنده‌های اسرائیلی همچنان مواضع حزب‌ الله را در جنوب لبنان بمباران می‌کنند
 19:28
 1405/03/08
 
