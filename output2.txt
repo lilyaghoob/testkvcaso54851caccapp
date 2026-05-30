@@ -1,3 +1,51 @@
+src :@GeoPWatch
+‏🇺🇸 — President Trump was fined $200 as a consequence for not disclosing tens of millions of dollars in stock trades within the required 45-day period. We're not sure how he's going to recover.
+18:17
+1405/03/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏A US startup sent 2 humanoid robots to Ukraine — but they’re doing logistics/supply runs, not fighting. 
+‏
+‏This is the first known humanoid deployment in a combat zone. 
+‏
+‏Company has Trump family ties and $24M in US military contracts.
+‏
+‏Source: CNBC
+18:16
+1405/03/09
+
+
+
+
+src :@naya_foriraq
+‏إستهداف دبابتي ميركافا تابعة لجيش الإحتلال الإسرائيلي في بلدة زوطر الشرقية بجنوب لبنان.
+18:15
+1405/03/09
+
+
+
+
+src :@rnintel
+‏🇻🇳🇵🇭🇮🇳⚡- After the Philippines, Vietnam is close to signing a deal with India for New Delhi's BrahMos cruise missiles.
+18:14
+1405/03/09
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🔴 مرکز امنیت دریایی عمان: از کشتی‌ها می‌خواهیم در پی مشاهده یک جسم شناور که احتمال می‌رود مین باشد، در غرب منطقه عبور در تنگه هرمز، احتیاط کنند.  @mwarmonitor
+18:12
+1405/03/09
+
+
+
+
 src :@BellumActaNews
 ‏🇷🇴❌🇷🇺❗️ — Romania is closing the Russian Federation's consulate general in Constanta, the Romanian president announced.
 18:10
@@ -3106,17 +3154,6 @@ src :@GeoPWatch
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏⭕️آخرین قیمت نفت ۹۱.۱۲ دلار 
-‏
-‏@MilitarryWorld | Parsa
-14:18
-1405/03/09
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Summary: Donald Trump has announced that the U.S. naval blockade will be lifted, allowing ships that had been held up to begin heading towards their destination.   ➡️ Donald Trump outlined the key terms he is demanding in any agreement with Iran. Iran…
 14:16
@@ -3485,14 +3522,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@naya_foriraq
-‏⚔️ كتائب حزب الله : نرحب بكل خطوة يتخذها "  الأخوة غير المنخرطين "   بحصر السلاح بيد الدولة
-13:06
-1405/03/09
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇯🇵 — Japan's 2025 census recorded 123 million people, a drop of 3.1 million (2.5%) from 2020—the largest five-year decline since 1920. 
@@ -3515,16 +3544,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 13:03
-1405/03/09
-
-
-
-
-src :@naya_foriraq
-‏⚔️ كتائب حزب الله : نرحب بكل خطوة يتخذها "  الأخوة غير المنخرطين " 
-‏
-‏بحصر السلاح بيد الدولة
-13:01
 1405/03/09
 
 
@@ -4649,14 +4668,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇺🇸 — A person on the flight reports that this was a Russian speaker. He had previously gotten into a confrontation with the flight crew after he was told to sit down after standing up as the plane was taxiing, then reached for a flight attendant at the front…
 08:01
-1405/03/09
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸 — A United Airlines Boeing 737-900 passenger plane traveling from Chicago, Illinois to Minneapolis, Minnesota was forced to divert to Madison, Wisconsin after an individual attempted to breach the cockpit. The individual was arrested and did not speak English…
-07:53
 1405/03/09
 
 
@@ -5906,16 +5917,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 20:34
-1405/03/08
-
-
-
-
-src :@mwarmonitor
-‏📌امارات متحده عربی در طول جنگ، در هماهنگی با آمریکا و اسرائیل، ده‌ها حمله هوایی علیه ایران انجام داد - وال استریت ژورنال
-‏
-‏@mwarmonitor
-20:31
 1405/03/08
 
 
