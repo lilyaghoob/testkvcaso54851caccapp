@@ -1,3 +1,53 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏نقشه‌ای شماتیک که توسط رسانه‌های لبنانی منتشر شده و تصویر کلی خوبی از وضعیت جنوب لبنان ارائه می‌دهد:
+‏
+‏🔶زرد - منطقه تحت کنترل ارتش اسرائیل در چارچوب «خط زرد».
+‏
+‏🔶قرمز - منطقه‌ای که ارتش اسرائیل پس از آتش‌بس به تصرف درآورده است.
+‏
+‏🔶نارنجی - منطقه‌ای که تحت تهدید ارتش اسرائیل است اما نیروهای زمینی به آن وارد نشده‌اند.
+‏
+‏
+‏🆔@Military_Times_Blog
+18:21
+1405/03/09
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸 — President Trump was fined $200 as a consequence for not disclosing tens of millions of dollars in stock trades within the required 45-day period. We're not sure how he's going to recover.
+18:21
+1405/03/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Crimea has a real fuel shortage — long lines, rationing (20L/day cap). 
+‏
+‏Cause: Ukrainian drone strikes on supply convoys + earlier hits on fuel depots. 
+‏
+‏Russian officials blame “logistics,” not the drones.
+18:20
+1405/03/09
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Russia recalled its ambassador to Armenia for consultations, a day after President Vladimir Putin warned the South Caucasus country against aligning with the European Union.
+‏
+‏"The Russian ambassador to the Republic of Armenia, S. Kopyrkin, has been recalled to Moscow for consultations about steps taken by the Armenian leadership on a rapprochement with the European Union, thus undermining cooperation within the Eurasian Economic Union," the foreign ministry said in an official statement, referring to the Moscow-led regional customs union.
+18:20
+1405/03/09
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸 — President Trump was fined $200 as a consequence for not disclosing tens of millions of dollars in stock trades within the required 45-day period. We're not sure how he's going to recover.
 18:17
@@ -22,7 +72,7 @@ src :@ClashReport
 
 
 src :@naya_foriraq
-‏إستهداف دبابتي ميركافا تابعة لجيش الإحتلال الإسرائيلي في بلدة زوطر الشرقية بجنوب لبنان.
+‏🌟🏴‍☠️إستهداف دبابتي ميركافا وقوة عسكرية تابعة لجيش الإحتلال الإسرائيلي في بلدة زوطر الشرقية بجنوب لبنان بعدد من الصواريخ الموجهة.
 18:15
 1405/03/09
 
@@ -3004,15 +3054,6 @@ src :@naya_foriraq
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏پهپاد اسرائیلی خودروی عوامل حزب الله را در نبطیه ،جنوب لبنان هدف قرار داد که با تلفات همراه است
-14:37
-1405/03/09
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️ وزیر جنگ آمریکا: به فشار بر ایران تا رسیدن به توافق قابل قبول ادامه خواهیم داد‌‌
 ‏
@@ -4664,15 +4705,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸 — A person on the flight reports that this was a Russian speaker. He had previously gotten into a confrontation with the flight crew after he was told to sit down after standing up as the plane was taxiing, then reached for a flight attendant at the front…
-08:01
-1405/03/09
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏ان‌بی‌سی به نقل از سه منبع آگاه گزارش داد جنگنده اف-۱۵ای آمریکا که ماه گذشته در ایران سرنگون شد، احتمالا با یک موشک دوش‌پرتاب ساخت چین هدف قرار گرفته است.
@@ -5970,14 +6002,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 20:23
-1405/03/08
-
-
-
-
-src :@Minas_Tirith2024
-‏Minas Tirith pinned Deleted message
-20:12
 1405/03/08
 
 

@@ -2489,17 +2489,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏⭕️آخرین قیمت نفت ۹۱.۱۲ دلار 
-‏
-‏@MilitarryWorld | Parsa
-14:18
-1405/03/09
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏یک سامانه پدافندی سوم خرداد منهدم شده در کرمانشاه که به تازگی در حال جمع‌آوری است و در طی جنگ اخیر منهدم شده است.
@@ -4394,14 +4383,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 20:23
-1405/03/08
-
-
-
-
-src :@Minas_Tirith2024
-‏Minas Tirith pinned Deleted message
-20:12
 1405/03/08
 
 
