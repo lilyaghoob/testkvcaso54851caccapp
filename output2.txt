@@ -377,15 +377,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Nabatieh in southern Lebanon a short while ago.
-01:20
-1405/03/10
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇱🇧 Footage of an Israeli airstrike which targeted Nabatieh, southern Lebanon.
@@ -589,16 +580,6 @@ src :@GeoPWatch
 src :@wfwitness
 [عکس]
 ‏⚡🇺🇦🇷🇺 A quick history of Ukraine's Starlink-enabled strike campaign.  Phase 0: Battle for the Black Sea. (1/4)  At the onset of the war, the Russian Black Sea fleet was the main naval power of the area. Whether it is still unclear if a landing on Odessa was…
-00:58
-1405/03/10
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏The DronePort on the roof of the White House Ballroom!
 00:58
 1405/03/10
 
