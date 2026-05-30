@@ -1,3 +1,69 @@
+src :@ClashReport
+[عکس]
+‏Trump privately questions whether JD Vance has what it takes to become the Republican Party's standard-bearer after him. 
+‏
+‏He frequently asks aides and allies for their opinions on Vance's potential, treating the issue as unresolved rather than assuming Vance is the obvious successor.
+‏
+‏Source: NYT
+18:40
+1405/03/09
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇬🇧🇬🇮- The UK's RFA Lyme Bay has departed Gibraltar, fully repurposed as a minehunting mothership ahead of a potential mission in the Strait of Hormuz.   ➡️ The vessel carries more than 100 specialist personnel from the Royal Navy's Diving and Threat Exploitation…
+18:40
+1405/03/09
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷/🇦🇲 NEW: Armenian Su-30 jets were seen with Iranian-made ‘Yasin’ and ‘Balaban’ precision glide bombs
+‏
+‏@Middle_East_Spectator
+18:39
+1405/03/09
+
+
+
+
+src :@didarnews1
+‏🔴نماینده سیستان و بلوچستان در مجلس: 
+‏
+‏🔹برخی از مناطق زاهدان ۲۴ تا ۴۸ ساعت آب ندارند/ ادامه بحران آب، استان را با چالش‌های امنیتی و اجتماعی روبه‌رو می‌کند
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:38
+1405/03/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Kanye West opens YE TOUR 2026 tonight at Atatürk Olympic Stadium, Istanbul, his first European show in 11 years.
+‏
+‏The stadium has been reconfigured with standing areas and his signature in-the-round globe stage, with organizers targeting 100K–120K attendees, potentially a record for a single ticketed concert.
+‏
+‏Why Istanbul? 
+‏
+‏It’s the only European city that would have him. 
+‏
+‏The tour lost dates across the continent over his antisemitism controversy: UK visa denied, Marseille postponed indefinitely, Poland’s Chorzów show canceled under government pressure, and Switzerland similarly blocked.
+‏
+‏Tickets are sold out.
+18:37
+1405/03/09
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷 NEW: For the first time in the history of the Tehran Stock Exchange (TSE), not a single stock declined today — all are in the green
@@ -3779,32 +3845,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏Saudi Arabia privately complained to Washington in early April that the UAE's dozens of retaliatory strikes on Iranian targets — including oil facilities at Bandar Abbas and Asaluyeh — were risking Iranian counter-attacks on Gulf energy infrastructure and spiking oil prices. 
-‏
-‏Riyadh urged the US to pressure Abu Dhabi to stop and join diplomatic efforts.
-‏
-‏Source: WSJ
-12:12
-1405/03/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Armenian Su-30SM fighter jets appeared at the Yerevan parade armed with Iranian Yasin precision-guided glide bombs, capable of striking targets up to 120km away.
-‏
-‏Yerevan accelerates its pivot away from Russian weapons.
-‏
-‏Source: Armenian Military Portal
-12:04
-1405/03/09
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏به گزارش بلومبرگ، در جریان حمله موشکی منتسب به جمهوری اسلامی ایران به پایگاه هوایی «علی‌السالم» در کویت، دست‌کم پنج نیروی آمریکایی دچار جراحت‌های سطحی شده‌اند.
@@ -4687,15 +4727,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🇵🇭 — U.S. Secretary of War Pete Hegseth announced meeting with the Philippines' Secretary of National Defense Gilbert Teodoro, amidst a push to bolster defense cooperation with island-based countries directly east of China, and has confirmed the transfer of what is likely a Reliance-class Medium Endurance Cutter previously in service with the U.S. Coast Guard to the Philippines.
-08:21
-1405/03/09
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜پرواز ۲۰۰۵ هواپیمایی یونایتد ایرلاینز از شیکاگو اوهر (ORD) به مینیاپولیس (MSP) پس از وقوع یک حادثه امنیتی سطح ۴ در هواپیما، به مدیسون، ویسکانسین (MSN) تغییر مسیر داد. ماموران انتظامی حاضر در هواپیما، فرد مظنون را تا زمان فرود تحت کنترل گرفتند و آنجا به ماموران…
@@ -4713,33 +4744,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 08:15
-1405/03/09
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇹🇷
-‏Turkish KAAN fighter is stuck.
-‏
-‏🇺🇸
-‏The production can't start since its using American F110 engine and the Congress hasn't given an approval.
-‏
-‏🇹🇷🛠
-‏Optimic timeline for "indigenous" engine is 2032. 
-‏
-‏🇬🇧🇪🇺
-‏Even with the new engine, UK and EU will still have veto powers over export.
-08:05
-1405/03/09
-
-
-
-
-src :@GeoPWatch
-‏🇱🇧❌🇮🇱 — Israeli Army Radio reports that Hezbollah launched fifteen rockets towards northern Israel the past few hours, and one impacted Kiryat Shmona.
-08:02
 1405/03/09
 
 
@@ -5586,20 +5590,6 @@ src :@Mena_Live
 
 
 
-src :@didarnews1
-‏🔴بلومبرگ:
-‏
-‏🔹 ۲۹ نفتکش از تعداد ۱۰۹ نفتکش گرفتارشده، موفق به عبور از تنگه هرمز شدند.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-21:46
-1405/03/08
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏مثل روتین همه شب‌های اخیر 
@@ -6375,52 +6365,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 18:47
-1405/03/08
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NYP Chief Foreign Policy reporter:
-‏
-‏‘President Trump is headed to the Situation Room now to decide whether to accept the deal with Iran’
-‏
-‏@Middle_East_Spectator
-18:46
-1405/03/08
-
-
-
-
-src :@Middle_East_Spectator
-‏— I suspect Iran will also soon issue a statement, and likely an MoU will be officially announced soon.
-‏
-‏Now what matters is the details.
-‏
-‏@Middle_East_Spectator
-18:41
-1405/03/08
-
-
-
-
-src :@MilitiaNews
-‏دونالد ترامپ:
-‏
-‏ایران باید موافقت کند که هرگز سلاح هسته‌ای یا بمب اتمی نخواهد داشت. تنگه هرمز باید فوراً و بدون هیچ گونه عوارضی برای تردد نامحدود کشتی‌ها در هر دو جهت باز شود. تمام مین‌های آبی (بمب‌ها)، در صورت وجود، از بین خواهند رفت (ما با مین‌روب‌های زیرآبی بزرگ خود، تعداد زیادی از این مین‌ها را از طریق انفجار خنثی کرده‌ایم.
-‏ایران بلافاصله عملیات پاکسازی و/یا انفجار هر مین باقی مانده‌ای را که تعدادشان زیاد نخواهد بود، تکمیل خواهد کرد!). کشتی‌هایی که به دلیل محاصره دریایی شگفت‌انگیز و بی‌سابقه ما که اکنون برداشته خواهد شد، در تنگه گرفتار شده‌اند، ممکن است روند "بازگشت به خانه" را آغاز کنند! از طرف من، رئیس جمهور محبوبتان، به همسران، شوهران، والدین و خانواده‌هایتان سلام برسانید!
-‏مواد غنی‌شده، که گاهی اوقات به عنوان «گرد و غبار هسته‌ای» شناخته می‌شوند، که در اعماق زمین با کوه‌های تقریباً فروریخته دفن شده‌اند، ناشی از حمله قدرتمند بمب‌افکن B2 ما در ۱۱ ماه پیش، که روی آن قرار دارد، توسط ایالات متحده (که توافق شده است، تنها کشوری است که به همراه چین، توانایی مکانیکی انجام این کار را دارد!) با هماهنگی و همکاری نزدیک با جمهوری اسلامی ایران، به علاوه آژانس بین‌المللی انرژی اتمی، از زیر خاک بیرون کشیده شده و نابود خواهند شد.
-‏تا اطلاع ثانوی هیچ پولی رد و بدل نخواهد شد. در مورد سایر اقلام، با اهمیت بسیار کمتر، توافق شده است. من اکنون در اتاق وضعیت جلسه خواهم داشت تا تصمیم نهایی را بگیرم. از توجه شما به این موضوع متشکرم!
-‏
-‏پ.ن: به نظر می‌رسد ترامپ امروز درباره امضای تفاهم‌نامه، تصمیم نهایی را اعلام کند.
-18:39
-1405/03/08
-
-
-
-
-src :@guard_warriors
-‏#فوری  ✪ با دستور دونالد ترامپ محاصره دریایی علیه ایران برداشته شده است.  @Guard_Warriors | Mmd
-18:38
 1405/03/08
