@@ -1,3 +1,140 @@
+src :@tabzlive
+‏🇺🇸🇮🇷⚡️ — The US military has stopped another merchant vessel trying to break through the American blockade of Iranian ports, a US official with knowledge of the situation tells The Associated Press.
+19:37
+1405/03/09
+
+
+
+
+src :@jangaavaran1390
+‏مقام آمریکایی: ارتش آمریکا کشتی تجاری دیگری را که در تلاش برای شکستن محاصره بنادر ایران بود، متوقف کرد.
+19:36
+1405/03/09
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏خبرگزاری آسوشیتدپرس به نقل از یک مقام آمریکایی خبر داد که ناوگان آمریکا یک کشتی تجاری با پرچم گامبیا را که تلاش داشت محاصره بنادر ایران را بشکند، متوقف کرده و از کار انداختند. 
+‏بر اساس این گزارش، این کشتی از سوی هواپیماهای آمریکایی از کار انداخته شد و نیروهای آمریکایی وارد آن نشدند. 
+‏
+‏روز شنبه پیت هگست، وزیر جنگ آمریکا، در حاشیه نشست «گفت‌وگوی شانگری‌لا» در سنگاپور، درباره محاصره بنادر و سواحل جنوبی ایران گفت که محاصره دریایی ادامه دارد و این اقدام موثر بوده و کنترل تنگه هرمز در اختیار آمریکا است.
+‏https://iranintl.com/202605306829
+19:36
+1405/03/09
+
+
+
+
+src :@ircfspace
+‏تقریبا اکثر IPهای خارجی خاکستری هستند، یعنی در هر کانکشن شما مجاز هستید حداکثر ۶ پکت به سمت سرور خارجی بفرستید؛ این محدودیت به شدت سختگیرانه است و تقریبا هیچ سرویسی نمیتواند با این محدودیت کار کند. به طور مثال برای کانکشن‌های Https صرفا میتوان یک ریسپانس ساده Http را دریافت کرد و  شما حتی نمی‌توانید درخواست دیگری بفرستید.
+‏برای بعضی از IPهای خارجی خاکستری مثل IPهای CDNها و ...، SNIهای محدودی سفید شده، یعنی اگر شما یک درخواست TLS با یک SNI سفید به یک IP خاکستری ارسال کنید، آن کانکشن سفید میشود و می‌توانید به صورت نامحدود پکت ارسال کنید! به طور مثال با اینکه الان تمام IPهای کلودفلر خاکستری هستند، ولی اگر شما یک درخواست با SNI سفیدی مثل www.speedtest.net ارسال کنید، کانکشن سفید شده و محدودیت ۶ پکت برداشته میشود.
+‏
+‏در حال حاضر SNIهای سفید به صورت وایت‌لیست بسیار محدود هستند. با وجود میلیون‌ها وبسایت میتوان گفت عملا اینترنت همچنان قطع است و صرفا دسترسی به سرویسهای خاصی امکان پذیر است. حکومت برای بهبود کیفیت اینترنت مجبور است بسیاری از دامنه‌ها را بدون بررسی دقیق به لیست وایت‌لیست اضافه کند؛ به طور مثال الان تمام دامنه‌هایی که در لیست نیم‌بها ثبت شده‌اند همگی سفید هستند. نکته‌ی قابل تامل این است که اکثر این دامنه‌ها را فیلترشکن فروشها ثبت کرده‌اند (زیرا قبلا شما می‌توانستید صرفا با بالا آوردن یک وبسایت فیک و ثبت درخواست، دامنه خود را در لیست نیم‌بها ثبت کنید). بنابراین فیلترشکن فروش هایی که دامنه‌شان را در لیست نیم‌بها ثبت کرده‌اند حالا دارند سود خوبی به جیب می‌زنند. 
+‏این سیاست‌های بستن و وایت‌لیست کردن اینترنت موجب رانت و فساد زیادی شده و شک نکنید که خشم خدا را در بر خواهد داشت.
+‏
+‏تکنیک SNI Spoofing باعث میشود که یک SNI فیک توسط فایروال دیده شود و کانکشن سفید شود و محدودیت ۶ پکت ارسال برداشته شود. روش اولی که منتشر شد اکنون در بسیاری از نت‌ها بسته شده (یعنی فایروال SNI اصلی را می‌بیند)، ولی طبق گزارشات همچنان بر روی ایرانسل و بسیاری از مناطق حاشیه‌ای برقرار است. روش دیگری که آن را Plan B نامیده‌ام، دیروز (با تشکر از دوستانی که نکات فنی خوبی را متذکر شدند و باعث جرقه ایده جدید شدند) با موفقیت تست شد، ولی به ۳ دلیل فعلا قصد انتشار ندارم؛ اول اینکه بسیاری از فیلترشکن‌های رایگان اکنون وصل میشوند (به طور مثال سایفون به راحتی با فستلی وصل میشود)، دوم اینکه همانطور که گفتم روش اول همچنان بر روی ایرانسل و بسیاری از مناطق فعال است، و سوم اینکه بسیاری از سرویس‌ها مثل اینستاگرام، واتس‌اپ، یوتیوب و ... به طور مستقیم با MITM در دسترس هستند.
+‏
+‏© patterniha
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+19:35
+1405/03/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli forces are targeting Arnoun, southern Lebanon, with white phosphorus.
+19:35
+1405/03/09
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🌲 - 🇮🇱🇱🇧 Israeli airstrike targets the outskirts of Kfar Hamam (Hasbaya District), southern Lebanon.
+19:34
+1405/03/09
+
+
+
+
+src :@BellumActaNews
+‏🌲 - 🇮🇱🇱🇧 Israeli airstrike targets Mahmoudiyeh (Jezzine District), southern Lebanon.
+19:34
+1405/03/09
+
+
+
+
+src :@BellumActaNews
+‏🌲 - 🇮🇱🇱🇧 Four Israeli airstrikes target Nabatieh city, southern Lebanon.
+19:34
+1405/03/09
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released their second batch of statements regarding operations targeting Israeli forces across southern Lebanon for the day:  In response to Israeli ceasefire violations on southern Lebanon, which resulted in civilian casualties, we…
+19:34
+1405/03/09
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏#NEW
+‏🇺🇸🇺🇸❌🇮🇷🛥- According to the Associated Press, the U.S. military has disabled the Gambia-flagged bulk carrier "Lian Star" in the Gulf of Oman after the vessel ignored multiple warnings from U.S. forces as it attempted to enter an Iranian port overnight. 
+‏
+‏➡️ The ship remains adrift and has not been boarded. With this latest action, the U.S. military has now stopped 6 vessels reportedly attempting to breach the blockade.
+19:34
+1405/03/09
+
+
+
+
+src :@mohem_mat
+‏فارس مدعی شد :
+‏
+‏آخرین نظرسنجی از ایران پس از جنگ
+‏
+‏درحالی‌که جنگ روانی دشمن بر القای فروپاشی اجتماعی، گسست نسلی و انزوای سیاسی ایران متمرکز شده است، داده‌های پیمایشی یک موسسه نظرسنجی وابسته به دانشگاه تهران، تصویر متفاوتی از واقعیت‌های میدانی ارائه می‌دهند؛ داده‌هایی که نه در رسانه‌های معاند، بلکه در دل جامعه ایران و در میانه حملات نظامی و رسانه‌ای ثبت شده‌اند:
+‏
+‏ایرانِ پساجنگ؛ افزایش غرور ملی و انسجام اجتماعی:
+‏
+‏🔸۵۸.۸٪ مردم در تجمعات مردمی یا مراسم تشییع شهدا حضور داشته‌اند.
+‏🔸۵۹٪ مردم نتیجه جنگ را به سود ایران ارزیابی کرده‌اند.
+‏🔸تنها ۱۰.۲٪ آمریکا و اسرائیل را پیروز جنگ دانسته‌اند.
+‏🔸احساس افتخار به جایگاه ایران در جهان از ۴۴.۲٪ به ۶۶.۹٪ افزایش یافته است.
+‏
+‏این اعداد نشان می‌دهد جنگ نه‌تنها باعث فروپاشی اجتماعی نشد، بلکه به تقویت هویت ملی و احساس تعلق به ایران انجامید؛ در همین مدت، تمایل به مهاجرت از ایران افزایش پیدا نکرده است
+‏
+‏@mohem_mat
+19:33
+1405/03/09
+
+
+
+
+src :@World_Newsly
+‏🔴یک کشتی تجاری که قصد نقض محاصره و حرکت به سمت یکی از بنادر ایران را داشته، توسط نیروهای آمریکایی متوقف و از ادامه مسیر بازداشته شده است
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+19:31
+1405/03/09
+
+
+
+
 src :@mohem_mat
 ‏یک مقام ارشد قطری: با عوارض دائمی ترانزیت از تنگه هرمز مخالفیم، اما عوارض موقت قابل مذاکره است./بلومبرگ
 ‏
@@ -1438,22 +1575,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 گزارش‌ها از ادامه شلیک موشک‌ها از لبنان به شمال اسرائیل خبر میدهند
-‏
-‏برخی منابع رسانه‌ای گزارش داده‌اند که از صبح امروز موشک‌هایی از خاک لبنان به سمت شمال اسرائیل شلیک شده‌اند.
-‏این گزارش‌ها این حملات را به حزب‌الله نسبت داده‌اند، اما تاکنون بیانیه رسمی و کاملی درباره تعداد موشک‌ها یا میزان خسارات احتمالی منتشر نشده است.
-‏
-‏
-‏✍🏻 Cybex
-‏▪️@World_Newsly
-17:43
-1405/03/09
-
-
-
-
 src :@DEJradio
 ‏⭕️ قطر: می‌شود در مورد عوارض موقت در تنگۀ هرمز مذاکره کرد
 ‏
@@ -1931,18 +2052,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[عکس]
-‏حسینعلی شهریاری، نماینده سیستان و بلوچستان در مجلس گفت: «الان شهر زاهدان هزار لیتر در ثانیه کمبود آب دارد؛ به‌طوری که طبق گفته بعضی از شهروندان، برخی از آنها ۲۴ تا ۴۸ ساعت آب ندارند و مناطق زیادی از زاهدان در این زمینه دچار مشکل هستند.» 
-‏
-‏او ادامه داد: «مثلا الان در زاهدان که مرکز استان است، از دولت‌های قبل، به علت کمبود آب، دو پروژه در آن شروع شد؛ یکی انتقال آب از دریای عمان که قرار بود به سیستان و بلوچستان جنوبی و خراسان رضوی برسد و دیگری هم آبی که قرار بود از دشت تهلاب برای شهر زاهدان بیاید.»
-‏https://iranintl.com/202605302542
-17:09
-1405/03/09
-
-
-
-
 src :@jangaavaran1390
 ‏به گزارش سی‌بی‌اس نیوز، دیگر انتظار نمی‌رود که  ترامپ قبل از تصمیم‌گیری در مورد فروش تسلیحات پیشنهادی ایالات متحده به تایوان، با لای چینگ-ته، رهبر تایوان، صحبت کند.
 ‏
@@ -1975,19 +2084,6 @@ src :@jangaavaran1390
 ‏
 ‏هم تندروهای جمهوری‌خواه آمریکایی و هم تندروهای ایرانی به این توافق حمله می‌کنند
 17:08
-1405/03/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 NYT: Iranian hard-liners are reportedly attempting to derail a potential agreement with the United States as negotiations enter a critical phase.
-‏
-‏According to The New York Times, hard-line factions have used rallies, state media, and public statements to undermine the talks, arguing that Iran should not compromise on key issues including its nuclear programme, sanctions relief, and control of the Strait of Hormuz.
-‏
-‏@wfwitness
-17:07
 1405/03/09
 
 
@@ -2079,14 +2175,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 16:59
-1405/03/09
-
-
-
-
-src :@wfwitness
-‏interception over the area
-16:58
 1405/03/09
 
 
@@ -2272,31 +2360,12 @@ src :@bricsnews
 
 
 
-src :@wfwitness
-‏⚡️🇮🇱🇱🇧 The IDF says that following the expansion of operations in southern Lebanon and based on the latest situation assessment, it is preparing for the possibility of attacks from Lebanese territory, particularly targeting northern Israel.
-‏
-‏@wfwitness
-16:53
-1405/03/09
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏تصاویری از حملات سنگین به جنوب لبنان
 ‏
 ‏@P_raetorio
 16:53
-1405/03/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli attacks targeted multiple areas across southern Lebanon and the western Bekaa over the last few hours:  Airstrikes targeted: Blat (Marjayoun district) ×3 Froun ×2 Yahmur al-Shaqif Al-Kfour ×3 Machghara ×2 Choukine ×2 Ansar Mayfadoun Shaqra Zebdine…
-16:52
 1405/03/09
 
 
@@ -4812,14 +4881,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 09:06
-1405/03/09
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸🇺🇸🇰🇼❌🇮🇷- U.S. Central Command has acknowledged the Iranian ballistic missile attack on Kuwait, confirming it was successfully intercepted by Kuwaiti forces.   ➡️ CENTCOM also claimed the interception of five one-way attack drones near the Strait of Hormuz…
-09:04
 1405/03/09
 
 
