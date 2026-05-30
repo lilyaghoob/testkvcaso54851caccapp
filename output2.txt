@@ -1,3 +1,105 @@
+src :@mwarmonitor
+‏🔴 مرکز امنیت دریایی عمان: از کشتی‌ها می‌خواهیم در پی مشاهده یک جسم شناور که احتمال می‌رود مین باشد، در غرب منطقه عبور در تنگه هرمز، احتیاط کنند.
+‏
+‏@mwarmonitor
+15:27
+1405/03/09
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸🇺🇸🇮🇶- Fighter jets are currently flying above Baghdad, Iraq.
+15:26
+1405/03/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli Army conducted airstrikes targeting the outskirts of the town of Choukine, Southern Lebanon.
+15:25
+1405/03/09
+
+
+
+
+src :@mwarmonitor
+‏✈️ هواپیماهای جنگی در آسمان پایتخت عراق، بغداد، در حال پرواز هستند.
+‏
+‏@mwarmonitor
+15:25
+1405/03/09
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 اولین نقشه کامل از جنوب لبنان و پیشروی ارتش اسرائیل و تصرف نیمی از جنوب لبنان:
+‏
+‏🟡 زرد: منطقه تحت کنترل ارتش اسرائیل در چارچوب خط زرد
+‏
+‏🔴 قرمز: منطقه‌ای که ارتش اسرائیل پس از آتش‌بس به تصرف زمینی آن درآمده است
+‏
+‏🟠 نارنجی: منطقه‌ای که تحت تهدید ارتش اسرائیل است اما نیروهای زمینی به آن نرسیده‌اند
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+15:25
+1405/03/09
+
+
+
+
+src :@tabzlive
+‏🇱🇧⚡️ — Lebanese President Joseph Aoun and Prime Minister Nawaf Salam discussed ongoing Israeli attacks in southern Lebanon and efforts to secure a ceasefire during a meeting at Baabda Palace, according to a statement from the Lebanese presidency.
+‏
+‏➡️ The two leaders agreed to intensify communications aimed at ending what they described as condemned Israeli practices. The meeting also included an assessment of the Washington talks between Lebanese, American, and Israeli military delegations, during which the Lebanese side reiterated its commitment to prioritizing a ceasefire.
+15:24
+1405/03/09
+
+
+
+
+src :@naya_foriraq
+‏🇮🇶طيران حربي يجوب سماء العاصمة العراقية بغداد.
+15:24
+1405/03/09
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏غلامرضا دهقان ناصرآبادی، عضو کمیسیون انرژی مجلس، اعلام کرد که در پی آسیب‌دیدگی بخشی از تأسیسات گازی کشور در جنگ اخیر، ایران حدود یک‌سوم ظرفیت تولید گاز خود را از دست داده است.
+‏
+‏او در یک نشست خبری با اشاره به بحران ناترازی انرژی گفت که کشور پیش از جنگ نیز با کمبود تولید برق و گاز مواجه بود، اما حملات اخیر به برخی زیرساخت‌های انرژی، وضعیت را پیچیده‌تر کرده است.
+‏
+‏دهقان اظهار داشت: «با وقوع جنگ ۱۲ روزه و جنگ رمضان، بخشی از صنایع تولید انرژی کشور آسیب دیدند و تعدادی از فازهای عسلویه هدف قرار گرفتند؛ به‌طوری که تقریباً ظرفیت تولید یک‌سوم گاز کشور را از دست داده‌ایم.»
+‏
+‏بخوانید:
+‏https://iranwire.com/fa/news-1/153071
+‏
+‏@Farsi_Iranwire
+15:24
+1405/03/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇷🇺🇦🇲⚡️ — Russia has recalled its ambassador to Armenia for consultations, citing Yerevan's deepening push toward European Union integration, according to Anadolu Agency.
+‏
+‏➡️ The move underscores Moscow's growing frustration with Armenia's westward pivot, which has accelerated amid strained relations between the two traditional allies. Yerevan has increasingly sought closer ties with the EU and Western institutions, a shift Russia views as a direct challenge to its influence in the South Caucasus.
+15:22
+1405/03/09
+
+
+
+
 src :@rus_cosmos
 [عکس]
 ‏در گرماگرم روزهایی که فضای خبری جهان تحت تأثیر تنش‌های سیاسی و نظامی میان ایران و آمریکا بود و هم‌زمان با قطع گسترده اینترنت در ایران، یکی از مهم‌ترین رویدادهای تاریخ معاصر اکتشافات فضایی نیز رقم خورد: مأموریت آرتمیس ۲.
@@ -2566,14 +2668,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@naya_foriraq
-‏🇩🇪إغلاق مطار ميونيخ في ألمانيا بعد رصد مسيّرة
-11:30
-1405/03/09
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏ ‏
@@ -3768,24 +3862,6 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸 — Mark Lynch, candidate for South Carolina's Republican Party federal Senate primary, challenging Lindsey Graham:
-‏Lindsey Graham has spent decades answering to the special interests, lobbyists, and donor networks that run Washington.
-‏
-‏I won’t.
-‏
-‏This campaign is not funded by political action committees or special interest groups. I don’t owe AIPAC. I don’t owe the establishment. I don’t owe the political class.
-‏
-‏I owe nothing to anyone but the people of South Carolina and the principles I refuse to compromise.
-‏
-‏On June 9, send Washington a message: South Carolina’s Senate seat is not for sale.
-05:32
-1405/03/09
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏#BREAKING
@@ -3998,19 +4074,6 @@ src :@tabzlive
 ‏
 ‏USNAVCENT has advised to mariners to collaborate with the United States when transiting the Strait of Hormuz. USNAVCENT has also announced that any vessel spotted engaging in, or supporting, mine-laying activities will be targeted by the United States.
 02:17
-1405/03/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Ukraine has begun using mid-range attack drones to deploy landmines on key Russian supply routes deep behind the frontline in southern Ukraine.
-‏
-‏➡️ The mines are said to use magnetic fuzes designed to detonate when large vehicles pass nearby or over them. 
-‏
-‏➡️ The tactic will disrupt logistics more effectively than direct drone strikes, as roads must repeatedly be shut down and cleared for mine sweeps, slowing military traffic and supply movement.
-02:15
 1405/03/09
 
 
@@ -5551,22 +5614,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@mwarmonitor
-‏🔴یک منبع مطلع به من گفت که پست ترامپ در Truth Social درباره لغو محاصره، در واقع اولین شرط قبل از رفتن به مراحل بعدی تفاهم بوده است.
-‏
-‏🔸طبق گفته این منبع، طرف ایرانی اصرار داشته که ابتدا یک اعلام عمومی رسمی انجام شود. ترامپ به نظر می‌رسد این موضوع را به‌عنوان یک مسئله فرعی مطرح کرده، در حالی که تهران آن را یک اقدام مهم برای ایجاد اعتماد قبل از ورود به پرونده‌های حساس‌تر می‌داند.
-‏
-‏🔹تا این لحظه هیچ بحث مستقیمی درباره پرونده هسته‌ای انجام نشده است. انتظار می‌رود روند به‌تدریج و از طریق یک تفاهم‌نامه (MoU) پیش برود، به‌طوری که در هر مرحله، یک اقدام متقابل از سوی طرف مقابل انجام شود.
-‏
-‏🔸همان منابع می‌گویند که اعلام آتش‌بس بین حزب‌الله و اسرائیل نیز به‌عنوان بخشی از چارچوب گسترده‌تر در حال شکل‌گیری مورد انتظار است. علی هاشم خبرنگار الجزیره 
-‏
-‏@mwarmonitor
-19:32
-1405/03/08
-
-
-
-
 src :@didarnews1
 ‏🔴خبرگزاری فارس:
 ‏
@@ -5598,14 +5645,6 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iranian state media rejects US President Trump's announcement claiming Iran agreed to give up and destroy its enriched uranium. 
 ‏
 ‏@BRICSNews
-19:28
-1405/03/08
-
-
-
-
-src :@mwarmonitor
-‏🔴 دونالد ترامپ:  ​«ایران باید موافقت کند که هرگز سلاح یا بمب هسته‌ای نخواهد داشت. تنگه هرمز باید فوراً، بدون هیچ‌گونه عوارض (حق عبور)، برای تردد نامحدود کشتیرانی در هر دو جهت باز شود. تمام مین‌های دریایی (بمب‌ها)، در صورت وجود، نابود خواهند شد (ما تعداد زیادی…
 19:28
 1405/03/08
 
@@ -6247,21 +6286,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 17:23
-1405/03/08
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏«محمدباقر قالیباف»، رییس هیات مذاکره‌‌کننده جمهوری اسلامی، روز جمعه ۸خرداد۱۴۰۵ در شبکه ایکس نوشت: «ما امتیازات را نه با گفت‌وگو، بلکه با موشک‌‌ها می‌گیریم، در مذاکره فقط آن‌ها را تفهیم می‌کنیم.»
-‏
-‏این اظهارنظر در حالی مطرح شده که در روزهای گذشته گزارش‌هایی از پیشرفت برای رسیدن به یک توافق معنادار میان آمریکا و اسراییل منتشر شده بود؛ هرچند گفته می‌شود این تفاهم‌نامه مور همچنان در انتظار تایید رییس جمهور ایالات متحده و مقامات جمهوری اسلامی است.
-‏
-‏بخوانید: https://iranwire.com/fa/news-1/153042
-‏
-‏@Farsi_Iranwire
-17:16
 1405/03/08
 
 
