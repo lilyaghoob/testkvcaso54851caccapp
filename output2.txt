@@ -1,6 +1,17 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇬🇧 UK military considers allowing AI weapons to carry out autonomous lethal strikes without human approval.
+‏
+‏@BRICSNews
+07:36
+1405/03/09
+
+
+
+
 src :@GeoPWatch
 [عکس]
-‏🇺🇸 — Physician to the President Sean Barbabella's memo on President Trump's health has been released, and it appears to give favorable results on everything. Notably, the listed height and weight puts Trump's BMI score at 29.7, which is 0.3 below obese. Also, the memo claims that Trump's cardiac age is 14 years younger than Trump's chronological age, citing an unnamed "AI-enhanced electrocardigram analysis".
+‏🇺🇸 — Physician to the President Sean Barbabella's memo on President Trump's health has been released, and it appears to give favorable results on everything. Notably, the listed height and weight puts Trump's BMI score at 29.7, which is 0.3 below obese. Also, the memo claims that Trump's cardiac age is 14 years younger than Trump's chronological age, citing an "AI-enhanced electrocardigram analysis" without naming a specific machine or software.
 07:31
 1405/03/09
 
@@ -6443,16 +6454,6 @@ src :@thewarreporter
 ‏
 ‏— CNN | @TheWarReporter
 09:05
-1405/03/08
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇷🇴🇷🇺 Romania scrambles F-16 fighter jets after Russian drone strikes apartment in Galati.
-‏
-‏@BRICSNews
-09:02
 1405/03/08
 
 
