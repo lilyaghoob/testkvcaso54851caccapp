@@ -1994,18 +1994,6 @@ src :@GeoPWatch
 
 
 
-src :@IranintlTV
-[عکس]
-‏حبیب‌الله سیاری، معاون هماهنگ‌کننده ارتش جمهوری اسلامی گفت: «امروز نیروی دریایی و دیگر نیروهای نظامی کشور از پیشرفته‌ترین تجهیزات منطبق با فناوری‌های نوین برخوردار هستند.»
-‏
-‏او افزود: «دشمن بداند هر گونه تعرض به خاک کشور پاسخ محکم‌تر از گذشته دریافت خواهد کرد.»
-‏https://iranintl.com/202605301314
-22:05
-1405/03/09
-
-
-
-
 src :@naya_foriraq
 ‏🏴‍☠️‏عقب الهجمات الصاروخية لحزب الله.. 
 ‏جيش الإحتلال الإسرائيلي يعلن عن تحديث سياسة الدفاع لقيادة الجبهة الداخلية ابتداءً من اليوم.
@@ -5656,25 +5644,6 @@ src :@Artemis_Force
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇷🇺❌🇳🇴 —  Russia will give a military-technical response to Norway’s actions, says Russian Embassy in Oslo
-‏
-‏➡️ Russia will give a military-technical response to Norway’s actions and plans that pose a threat to national security. This was stated at the Russian embassy in Oslo.
-‏
-‏➡️  This is how the diplomatic mission commented on the cooperation between Norway and France on nuclear deterrence and intelligence exchange, pointing out Oslo’s plans to deploy strike nuclear weapons in the north of the country.
-‏
-‏“Of course, such actions and plans of the Norwegian side pose a direct threat to the national security of our country and will not be left without an adequate military-technical response, the specific parameters of which are under the jurisdiction of the Russian Ministry of Defense,” the embassy said.
-‏
-‏📝 The diplomatic mission emphasized that Moscow will respond precisely to steps that affect the security of Russia. The details of the possible answer were not disclosed there.
-‏
-‏@BellumActaNews
-09:44
-1405/03/09
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 نشریه بلومبرگ گزارش داد که در جریان حملات ۳ روز قبل ایران به پایگاه ارتش آمریکا در کویت، ۵ سرباز آمریکایی زخمی شده‌اند. 
@@ -5994,21 +5963,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 02:41
-1405/03/09
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏⚜ خب بالاخره لانچ(به آب انداختن) شد هر چند شباهت کمی به تصاویر رندر دارد!
-‏
-‏⚜ شناور MUSV بدون سرنشین Marauder شرکت سارونیک در کمتر از یکسال از زمان طراحی اولیه به آب انداخته شد و چنین سرعتی در تاریخ نیروی دریایی آمریکا پس از جنگ جهانی دوم بی نظیره همچنین سرعت ساخت دومین شناور این کلاس 25 درصد افزایش یافت و کشتی سازی می‌تواند تا انتهای امسال در صورت لزوم به نرخ ساخت 20 شناور در سال برسد!
-‏
-‏⚜ هفت شرکت شامل Galliano Marine, HII, PacMar, Sea Machine's, Birdon America, Leidos و سارونیک پیش نمونه های خود را ارائه داده و الزامات مورد اشاره در پست قبل را برای عملیات با مداومت و برد بالا (10,000 کیلومتر پیمایش کروز) نشان می‌دهند.
-‏
-‏⚜ با 4 کانتینر 40 فوتی که میتواند تا 16 تاماهوک یا موشک های پدافندی سنگین و یا دو برابر کانتینرهای 20 فوتی سنسور ها یا جمر، این یک پیشرفت بزرگ در کاهش ریسک عملیاتی با حذف نیروی انسانی و افزایش توان تهاجمی و پتانسیل های لجستیکی خواهد بود و برگ برنده ی مهمی در رقابت با توسعه ی سریع ناوگان پر تعداد چین است به خصوص با قیمت هر فروند کمتر از 100 میلیون دلار یا حتی تا نیمی از این عدد!
-‏
-‏📃@Cataphract1
-02:04
 1405/03/09
