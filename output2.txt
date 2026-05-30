@@ -1,3 +1,35 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇱❌🇱🇧🇱🇧- The IDF has issued urgent evacuation warnings for multiple towns in southern Lebanon: Marwaniyeh, Loubieh, Meidoun, Ansariyeh, Ziftar, and Tefahta.
+13:46
+1405/03/09
+
+
+
+
+src :@naya_foriraq
+‏🌟انباء اولية: قوة خاصة تعتقل عدنان محمد حمود وكيل وزارة النفط العراقية ومدير عام مصافي بيجي بتهم فساد
+13:44
+1405/03/09
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇨🇳 Reuters: Former Shaolin Temple abbot Shi Yongxin has been sentenced to 24 years in prison after being convicted of embezzlement, fraud, and other criminal offenses, according to Chinese state media.
+‏
+‏Shi Yongxin, one of China’s most prominent Buddhist figures, led the Shaolin Temple for decades and became internationally known for transforming the historic monastery into a global cultural and commercial brand.
+‏
+‏The sentencing concludes a years-long corruption investigation that drew widespread attention in China and marked one of the highest-profile cases involving a senior religious figure in the country.
+‏
+‏@wfwitness
+13:43
+1405/03/09
+
+
+
+
 src :@mwarmonitor
 ‏🔴اداره عملیات تجارت دریایی بریتانیا می‌گوید:
 ‏«سطح تهدید امنیت دریایی در تنگه هرمز همچنان به‌طور بسیار بحرانی باقی مانده است، به‌دلیل محاصره.»
@@ -985,24 +1017,6 @@ src :@Artemis_Force
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Tasnim News Agency, citing sources:   The US Central Command is warning Iranian ships to stop and preventing their passage despite Trump’s announcement.  @wfwitness
 12:41
-1405/03/09
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 A new wave of Israeli airstrikes targeted southern Lebanese towns this morning:
-‏
-‏-Debbin (x2)
-‏-Haris 
-‏-Majdal Selm (x2)
-‏-Oba
-‏-Yater
-‏-Yohmor 
-‏-Kafr Tebnit 
-‏
-‏@wfwitmess
-12:40
 1405/03/09
 
 
@@ -2564,15 +2578,6 @@ src :@MilitiaNews
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇺🇸أصدر البيت الأبيض أحدث تقرير للفحص البدني الذي خضع له ترامب.
-09:59
-1405/03/09
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏تصاویری از لاشه یک تلار سیستم پدافندی سوم خرداد منهدم شده طی جنگ چهل روزه در حال انتقال روی تریلر در اطراف شهر کرمانشاه
@@ -3364,15 +3369,6 @@ src :@BellumActaNews
 ‏
 ‏@BellumActaNews
 04:50
-1405/03/09
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🌎❌💊- Today (May 29), at the direction of US Southern Command (SOUTHCOM) Commander, General Francis Donovan, Joint Task Force Southern Spear conducted a kinetic strike on a vessel operated by "designated terrorist organizations" in the Eastern Pacific.  …
-04:39
 1405/03/09
 
 
@@ -6518,32 +6514,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
 14:00
-1405/03/08
-
-
-
-
-src :@MilitiaNews
-‏🇮🇷🇺🇸⚡️نیویورک تایمز:
-‏
-‏ یکی از تازه‌ترین و شگفت‌انگیزترین عناصر در پیش‌نویس توافق صلح ایران، پیشنهاد ایجاد یک صندوق سرمایه‌گذاری برای ایران است که طبق گزارش‌ها حجمی معادل ۳۰۰ میلیارد دلار آمریکا دارد.
-‏
-‏ ایران در ابتدا این موضوع را به‌عنوان «غرامت جنگی» طبقه‌بندی کرده بود (که خود آن را بین ۳۰۰ میلیارد تا ۱ تریلیون دلار برآورد می‌کند). اما طرف آمریکایی آن را به‌عنوان یک «صندوق سرمایه‌گذاری بین‌المللی» بازتعریف می‌کند که آمریکا در تسهیل آن نقش خواهد داشت—چارچوبی نرم‌تر که از به‌کار بردن واژه «غرامت» اجتناب می‌کند.
-‏
-‏ به نظر می‌رسد این ایده در اصل از سوی استیو ویتکوف و جرد کوشنر مطرح شده است؛ آن‌ها پیشنهاد داده‌اند با تقویت پروژه‌های املاک در تهران و ایجاد یک سازوکار سرمایه‌گذاری گسترده‌تر، مشوق‌هایی برای این توافق ایجاد شود.
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-13:45
-1405/03/08
-
-
-
-
-src :@intelslava
-‏🇪🇺🇷🇺The head of the European Commission, Von der Leyen, stated that Russia "crossed another line" after the drone attack on a multi-story building in Romania.
-‏
-‏She announced the preparation of 21 sanctions packages.
-‏
-‏@Intelslava
-13:44
 1405/03/08
