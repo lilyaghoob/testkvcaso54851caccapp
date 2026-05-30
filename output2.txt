@@ -2504,15 +2504,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇮🇷⚠️ — Over the past minutes, Intense Iranian AA activity have been reported in Qeshm Island, Hormozgan Province,
-22:02
-1405/03/08
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️دو انفجار در قشم نیز گزارش شد  @MilitarryWorld | Parsa
 22:01
