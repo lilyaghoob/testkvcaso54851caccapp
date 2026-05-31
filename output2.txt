@@ -1,3 +1,37 @@
+src :@Shin_Persian
+‏متد جدید فرانتینگ توسط Patterniha: 
+‏https://github.com/patterniha/MITM-DomainFronting
+13:32
+1405/03/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇦🇷🇺 CNN: Ukraine is increasingly deploying ground robots alongside aerial drones on the battlefield as it seeks to offset manpower shortages and reduce risks to soldiers fighting Russian forces.  Unmanned ground vehicles are being used to transport supplies…
+13:30
+1405/03/10
+
+
+
+
+src :@World_Newsly
+‏🔴 آسوشیتدپرس: اوکراین نسبت به احتمال استفاده روسیه از بلاروس برای حمله جدید هشدار داد
+‏
+‏مقام‌های اوکراینی هشدار داده‌اند که بلاروس ممکن است بار دیگر به سکوی آغاز یک حمله جدید روسیه علیه اوکراین تبدیل شود.
+‏بر اساس گزارش آسوشیتدپرس، همکاری‌های نظامی میان مسکو و مینسک در حال گسترش است و بلاروس همچنان میزبان زیرساخت‌های نظامی روسیه، سامانه‌های تسلیحاتی دارای قابلیت حمل سلاح هسته‌ای و رزمایش‌های مشترک دو کشور است.
+‏در واکنش به این تحولات، اوکراین استحکامات و نیروهای خود را در مرزهای شمالی تقویت کرده است.
+‏ولودیمیر زلنسکی نیز پیش‌تر روسیه را متهم کرده بود که تلاش می‌کند بلاروس را بیش از پیش وارد جنگ کند و هشدار داده بود هرگونه عملیات جدید می‌تواند از خاک بلاروس علیه اوکراین یا حتی جناح شرقی ناتو آغاز شود.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+13:28
+1405/03/10
+
+
+
+
 src :@defence_news
 [عکس]
 ‏رییس جمهور اوکراین اعلام کرد که این کشور دهمین آتشبار از سامانه پدافند هوایی IRIS-T SLM را از آلمان دریافت کرده است. قرار است تا پایان سال جاری میلادی 2 آتشبار دیگر از این سامانه نیز به اوکراین تحویل شود.
@@ -10,6 +44,7 @@ src :@defence_news
 
 
 src :@wfwitness
+[عکس]
 ‏⚡️🇺🇦🇷🇺 The Washington Post: Ukrainian drone operators are increasingly competing to record and verify battlefield strikes against Russian forces as drones become one of the war’s most decisive weapons.  Drone units are ranked based on confirmed battlefield…
 13:26
 1405/03/10
@@ -1128,14 +1163,6 @@ src :@P_raetorio
 
 
 
-src :@wfwitness
-‏⚡️🇰🇪 Kenya has expanded mandatory Ebola screening measures to cover travelers arriving from 10 neighboring countries as authorities strengthen efforts to prevent the cross-border spread of the virus.  Health authorities said enhanced screening is being conducted…
-12:18
-1405/03/10
-
-
-
-
 src :@naya_foriraq
 ‏🌟🏴‍☠️نهاريا تحت قصف حزب الله
 12:18
@@ -1858,22 +1885,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 حمله شبانه اسرائیل به منزل خانواده هاشم صفی‌الدین در جنوب لبنان
-‏
-‏گزارش‌ها حاکی است ارتش اسرائیل بامداد امروز شهر دیرقانون النهر در جنوب لبنان را هدف حمله قرار داده است.
-‏بر اساس این گزارش‌ها، ساختمان هدف قرار گرفته منزل هاشم صفی‌الدین، دبیرکل پیشین حزب‌الله لبنان، بوده است.
-‏تاکنون جزئیات بیشتری درباره میزان خسارت یا تلفات احتمالی این حمله منتشر نشده و مقام‌های اسرائیلی نیز توضیح رسمی بیشتری ارائه نکرده‌اند.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-11:36
-1405/03/10
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏دومین  فروند دیگر از هواپیمای سوخت‌رسان KC-135  آسیب دیده، در حال عبور از پایگاه هوایی RAF Mildenhall مشاهده شد.
@@ -1979,7 +1990,7 @@ src :@jangaavaran1390
 
 src :@naya_foriraq
 [عکس]
-‏🏴‍☠️انفجارات ضخمة تهز الجليل الأحلى في الشمال المحتل.
+‏🏴‍☠️انفجارات ضخمة تهز الجليل الأعلى في الشمال المحتل.
 11:22
 1405/03/10
 
@@ -3815,17 +3826,6 @@ src :@Middle_East_Spectator
 ‏
 ‏(Fyi Iran has been clearly saying this for MONTHS)
 02:52
-1405/03/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russians are painting trucks in bold black-and-white WWI-style “dazzle” stripes to confuse Ukrainian AI-targeting drones. 
-‏
-‏Ukrainian drones use machine vision and thermal/IR imaging — completely different systems that aren’t fooled by geometric paint patterns.
-02:32
 1405/03/10
 
 
