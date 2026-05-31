@@ -2371,18 +2371,6 @@ src :@MilitarryWorld
 
 
 
-src :@GeoPWatch
-‏🇱🇧❌🇮🇱- Following Hezbollah rocket and drone barrages on northern Israel today, the IDF Home Front Command has tightened its guidelines, closing schools in communities along the Lebanon border. 
-‏
-‏➡️ In the Upper Galilee and northern Golan, including Katzrin, educational activities are permitted only inside buildings or in areas where a shelter can be reached in time. 
-‏
-‏➡️ Workplaces may operate provided adequate shelter is accessible, gatherings are restricted to 50 people outdoors and 200 indoors, and beaches are closed. The guidelines remain in effect until Monday at 9pm Jerusalem time, at which point the Home Front Command will conduct a further assessment.
-22:12
-1405/03/09
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🇺🇸 فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که نیروهای آمریکایی مستقر در دریای عمان، در چارچوب اجرای اقدامات محاصره‌ای علیه ایران، روز ۲۹ مه به یک کشتی باری با پرچم گامبیا به نام «لیان استار» شلیک کرده و آن را از کار انداختند. به گفته سنتکام، این کشتی با وجود دریافت چندین هشدار، به مسیر خود به سوی یکی از بنادر ایران در خلیج فارس ادامه داده بود. بر اساس این گزارش، یک بالگرد آپاچی با شلیک یک موشک هلفایر به موتورخانه کشتی، آن را متوقف کرده است
 22:11
@@ -2431,15 +2419,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 22:07
-1405/03/09
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸- Reports have emerged of a very loud explosion in Rhode Island, said to have been heard across many areas of Massachusetts.
-22:06
 1405/03/09
 
 
