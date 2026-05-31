@@ -1,3 +1,12 @@
+src :@rnintel
+[عکس]
+‏🇱🇧🇮🇱⚡️- The IDF has recaptured Beaufort Castle, in southern Lebanon. The IDF previously controlled this area during the Lebanon-Israeli conflict in 1985-2000, before their withdrawal in 2000.
+08:43
+1405/03/10
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 تسنیم تصویری از دیدار حسن نصرالله با فرماندهان ارشد سپاه منتشر کرد
@@ -1598,18 +1607,6 @@ src :@P_raetorio
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 تصویری از ناوبندر کردستان که از دو ناحیه مورد حمله قرار گرفته است
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-01:45
-1405/03/10
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، روز شنبه، با انتشار پیامی در شبکه اجتماعی «تروث سوشال»، به دیدار اخیر براندون جانسون، شهردار شیکاگو با رهبر کاتولیک‌های جهان در واتیکان واکنش نشان داد. ترامپ با به اشتراک گذاشتن تصاویر این دیدار، نوشت: «یک نفر باید به پاپ توضیح دهد که شهردار شیکاگو فردی بی‌فایده است و اینکه ایران نمی‌تواند سلاح هسته‌ای داشته باشد».
@@ -1636,21 +1633,6 @@ src :@Middle_East_Spectator
 ‏
 ‏It was a different Hussein (his friend).
 01:33
-1405/03/10
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 تصاویر جدید از آسیب‌دیدگی یک سوخت‌رسان آمریکایی در عربستان منتشر شد
-‏
-‏تصاویر منتشرشده نشان میدهد یک فروند هواپیمای سوخت‌رسان KC-135 نیروی هوایی آمریکا متعلق به گارد ملی آلاسکا، در جریان یکی از حملات ایران در عربستان سعودی دچار آسیب ناشی از ترکش شده است.
-‏در این تصاویر، آثار ترمیم و وصله‌کاری روی بخش دم هواپیما قابل مشاهده است. تاکنون جزئیات بیشتری درباره زمان دقیق حمله یا میزان خسارت واردشده منتشر نشده است.
-‏
-‏✍🏻 King
-‏▪️@World_Newsly
-01:31
 1405/03/10
 
 
@@ -1930,17 +1912,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏The DronePort on the roof of the White House Ballroom!
-00:39
-1405/03/10
-
-
-
-
 src :@tglobaleye
 ‏Paris Saint-Germain wins the Champions League after penalty shootout victory against Arsenal
 ‏http://www.euronews.com/my-europe/2026/05/30/paris-saint-germain-wins-the-champions-league-after-penalty-shootout-victory-against-arsen
@@ -2164,17 +2135,6 @@ src :@naya_foriraq
 [عکس]
 ‏🌟ترامب:يجب أن يشرح أحدهم للبابا أن عمدة مدينة شيكاغو عديم الفائدة، وأن إيران لا يمكنها أن تمتلك سلاحًا نوويًا!
 00:10
-1405/03/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏Someone should explain to the Pope that the Mayor of Chicago is useless, and that Iran cannot have a Nuclear Weapon!
-00:08
 1405/03/10
 
 
