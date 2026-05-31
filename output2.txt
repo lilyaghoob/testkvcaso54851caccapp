@@ -1,3 +1,59 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇷🇺🇸 Iran says US is "abusing its role as a World Cup host."
+‏
+‏"They issued heavily restricted visas to the Iranian team, which is scheduled to play on US soil."
+‏
+‏@BRICSNews
+00:41
+1405/03/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇸🇾📞🇺🇸 — Syrian President Ahmed al-Sharaa and President Trump discussed bilateral relations, regional developments, and Syria’s recovery efforts during a phone call earlier today.
+‏
+‏Al-Sharaa emphasized the importance of lifting the remaining sanctions on Syria, arguing that doing so would help revive the economy, improve living conditions, encourage investment, and support reconstruction projects across key sectors.
+‏
+‏The two leaders also discussed regional security issues, with al-Sharaa stressing the need for diplomatic solutions and dialogue to prevent further escalation.
+‏
+‏Trump reaffirmed his support for stability, recovery, and reconstruction efforts in Syria, and both sides agreed to maintain communication and coordination on issues of mutual interest.
+00:41
+1405/03/11
+
+
+
+
+src :@MilitarryWorld
+‏⭕️آژیر هشدار در چند شهر شمال اسرائیل فعال شد   @MilitarryWorld | Parsa
+00:39
+1405/03/11
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️آژیر هشدار در چند شهر شمال اسرائیل فعال شد 
+‏
+‏@MilitarryWorld | Parsa
+00:38
+1405/03/11
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 آژیر هشدار در چند شهر شمال اسرائیل فعال شد   ✍🏻 exxon ▪️@World_Newsly
+00:37
+1405/03/11
+
+
+
+
 src :@GeoPWatch
 ‏🇱🇧❌🇮🇱- Rocket alerts have been activated in Tiberias, northern Israel.  @GeoPWatch
 00:37
@@ -9,6 +65,17 @@ src :@GeoPWatch
 src :@tabzlive
 [عکس]
 ‏🇱🇧❌🇮🇱 — Rocket alerts in Tiberias, northern Israel.
+00:36
+1405/03/11
+
+
+
+
+src :@World_Newsly
+‏🔴 آژیر هشدار در چند شهر شمال اسرائیل فعال شد 
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
 00:36
 1405/03/11
 
@@ -1953,17 +2020,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-‏🔴 رضا پهلوی: ما با اسرائیل هیچ اختلافی نداریم.
-‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-21:58
-1405/03/10
-
-
-
-
 src :@mohem_mat
 ‏با باد، دلم گفت که بادا بادا
 ‏با یار بگو و هر چه بادا بادا
@@ -2378,23 +2434,6 @@ src :@tabzlive
 ‏Israeli PM Benjamin Netanyahu discussed the issue with Marco Rubio yesterday, saying Israel cannot remain passive while Hezbollah operates from Beirut and arguing that immunity for the city would undermine ongoing negotiations.
 ‏
 ‏An Israeli source said the Trump administration appears more open to the idea.
-21:25
-1405/03/10
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 ترامپ برای استیو بایر، نماینده سابق کنگره، عفو ریاست‌جمهوری صادر کرد
-‏
-‏دونالد ترامپ برای استیو بایر، سیاستمدار جمهوری‌خواه و عضو سابق کنگره آمریکا، عفو ریاست‌جمهوری صادر کرد.
-‏بایر در سال ۲۰۲۳ به اتهام استفاده از اطلاعات محرمانه برای خرید سهام (Insider Trading) مجرم شناخته شده و به ۲۲ ماه زندان محکوم شده بود.
-‏دادگاه اعلام کرده بود او پس از ترک کنگره، با اطلاع از برنامه خرید شرکت Sprint توسط T-Mobile و پیش از عمومی شدن این خبر، اقدام به خرید سهام کرده است.
-‏
-‏
-‏✍🏻 Cybex
-‏▪️@World_Newsly
 21:25
 1405/03/10
 
@@ -3240,16 +3279,6 @@ src :@MilitiaNews
 
 
 
-src :@MilitarryWorld
-‏⭕️کانال ۱۲ عبری: نتانیاهو در رابطه با لبنان نشست امنیتی برگزار می‌کند
-‏
-‏@MilitarryWorld | Parsa
-20:12
-1405/03/10
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️شبکه سی‌ان‌ان، روز یکشنبه دهم خرداد ماه، به نقل از مقام‌های آمریکایی گزارش داد دونالد ترامپ پس از نشست روز جمعه با مشاوران خود، اصلاحاتی را به متن توافق احتمالی با ایران بازگردانده و به این ترتیب روند مذاکرات برای دست‌کم یک هفته دیگر ادامه خواهد یافت.
@@ -3277,19 +3306,6 @@ src :@thewarreporter
 
 src :@GeoPWatch
 ‏🇮🇷🇮🇷❌🇺🇸🇺🇸- Iran's Khatam al-Anbiya Central Headquarters regarding the Strait of Hormuz:  Given the integrity of this route, it is emphasized that all ships, commercial vessels, and oil tankers are only required to transit through designated routes and obtain…
-20:04
-1405/03/10
-
-
-
-
-src :@MilitarryWorld
-‏🚨وزیر دفاع چین:
-‏اگرحاکمیت چین بر تایوان نقض شود پایگاه های نظامی ایالات متحده در ژاپن و کره جنوبی به اهداف مشروع  تبدیل خواهد شد
-‏
-‏پکن هیچ مداخله خارجی را نخواهد پذیرفت!
-‏
-‏@MilitarryWorld | Parsa
 20:04
 1405/03/10
 
