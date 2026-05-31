@@ -1,3 +1,69 @@
+src :@rus_cosmos
+‏شنیده شدن چندین باره صدای انفجار از نزدیک جزیره قشم.
+‏
+‏هنوز شب نشده شروع کردن
+14:31
+1405/03/10
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱🇱🇧⚡️ — An IDF soldier, Staff Sgt. Michael Tyukin, 21, of the Givati Brigade's Reconnaissance Unit, was killed and four others lightly wounded in a Hezbollah explosive drone attack in southern Lebanon. 
+‏
+‏➡️ Tyukin, an only child, had immigrated to Israel from Ukraine with his mother in 2020.
+14:30
+1405/03/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Two Israeli airstrikes targeted the town of Al Baysouriyeh, southern Lebanon.  @wfwitness
+14:29
+1405/03/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrike on the town of Ghassaniyeh, southern Lebanon.  @wfwitness
+14:28
+1405/03/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrike on the town of Ansar, southern Lebanon.  @wfwitness
+14:27
+1405/03/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Footage from Deir Il Zahrani, southern Lebanon.  @wfwitness
+14:27
+1405/03/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrikes targeted the towns of Deir El Zahrani, Ansar, and Al-Zrariyah, southern Lebanon.  @wfwitness
+14:26
+1405/03/10
+
+
+
+
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Israeli airstrikes targeted the towns of Deir El Zahrani, Ansar, and Al-Zrariyah, southern Lebanon.
 ‏
@@ -339,18 +405,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 13:58
-1405/03/10
-
-
-
-
-src :@P_raetorio
-‏رزمندگان ما به عنوان بخشی از منطقه امنیتی در لبنان در بوفور باقی خواهند ماند
-‏
-‏- کاتز، وزیر دفاع اسرائیل 
-‏
-‏@P_raetorio
-13:57
 1405/03/10
 
 
@@ -1080,23 +1134,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇮🇱 Early warning alerts are in effect near Acre, Kiryat Motzkin, and other surrounding areas in Northern Israel:  • Krayot • Upper Galilee  @wfwitness
-13:04
-1405/03/10
-
-
-
-
-src :@wfwitness
-‏Another barrage on the way
-13:01
-1405/03/10
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏گزارش از رهگیری پرتابه های حزب الله توسط پدافند اسرائیل در عکا
 13:01
@@ -1142,14 +1179,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-‏⚡🇮🇱 Red alert sirens are sounding near Acre, and other surrounding areas in Northern Israel:  • Confrontation Line • Upper Galilee  @wfwitness
-13:00
-1405/03/10
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏ ‏
@@ -1165,23 +1194,6 @@ src :@KayhanLondonChannel
 ‏
 ‏ نرگس محمدی، طیبه نظری، عالیه مطلب‌زاده، علی آدینه‌زاده، علی وثوقی‌نیا، میلاد فتاح، محمد زنگنه، محمدحسن محبی، محمدرضا بابایی، محمدرضا صالحی‌فر، محمود خانعلی، مختار کلمیشی، مهدی رسولخانی، نورا حقی، هستی امیری و جواد جلالی قمصری از دیگر بازداشت‌شدگان در مراسم خسرو علی‌کردی بودند.
 12:59
-1405/03/10
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇮🇱 Early warning alerts are in effect near Acre, Kiryat Motzkin, and other surrounding areas in Northern Israel:  • Krayot • Upper Galilee  @wfwitness
-12:59
-1405/03/10
-
-
-
-
-src :@wfwitness
-‏⚡🇮🇱 Early warning alerts are in effect near Acre, Kiryat Motzkin, and other surrounding areas in Northern Israel:  • Krayot • Upper Galilee  @wfwitness
-12:58
 1405/03/10
 
 
@@ -2325,6 +2337,26 @@ src :@selena_updates
 ‏Staff Sergeant Michael Tyukin, aged 21, from Ashkelon, a soldier in the Givati Reconnaissance Battalion (846th), Givati Brigade
 ‏
 ‏The attack took place at around 10:30 p.m. last night, in Zawtar El Charqiyeh, during which a first-person view (FPV) drone with night vision piloted by Hezbollah struck a position where Givati soldiers were operating. The blast killed Tyukin and wounded 4 other soldiers lightly.
+11:39
+1405/03/10
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏تبلیغات هدفمند؛ ابزار ایران برای ردیابی نظامیان آمریکا
+‏
+‏قانون‌گذاران ایالات متحده از پنتاگون خواستار اقدام علیه صنعت تبلیغات آنلاین به عنوان تهدید امنیت ملی شدند.
+‏
+‏در نامه‌ای که سناتور آمریکایی ران وایدن با رویترز به اشتراک گذاشت فرماندهی مرکزی آمریکا اعلام کرده گزارش‌های تهدید متعددی مبنی بر اینکه دشمن از داده‌های موقعیت مکانی تجاری برای هدف‌گیری یا نظارت بر پرسنل آمریکایی در حوزه مسئولیت سنت‌کام استفاده می‌کند دریافت کرده‌است. 
+‏
+‏
+‏#تخصصی 
+‏
+‏
+‏
+‏@P_raetorio
 11:39
 1405/03/10
 
@@ -5591,24 +5623,4 @@ src :@thewarreporter
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US President Trump announces the end of the US naval blockade on Iran.  @TheWarReporter
 14:31
-1405/03/09
-
-
-
-
-src :@rus_cosmos
-‏محاصره دریایی هنوز پابرجاست
-‏
-‏پیت هگست ، وزیر جنگ ایالات متحده، در سفر به سنگاپور و در حاشیه نشست "شانگری-لا دیالوگ" با رسانه‌ها و نیروهای آمریکایی صحبت کرده و به طور غیرمستقیم یا مستقیم به ادامه فشارهای دریایی آمریکا بر ایران اشاره داشته است.
-‏
-‏از طرفی به گزارش تسنیم، ملوانان ایرانی هم تاکید کردند که محدودیت‌های اعمال شده توسط آمریکا هنوز لغو نشده است.
-14:26
-1405/03/09
-
-
-
-
-src :@guard_warriors
-‏✪ ترامپ:  ایران باید موافقت کند که هرگز سلاح هسته‌ای یا بمب اتمی نخواهد داشت. تنگه هرمز باید فوراً و بدون هیچ گونه عوارضی برای تردد نامحدود کشتی‌ها در هر دو جهت باز شود. تمام مین‌های آبی (بمب‌ها)، در صورت وجود، از بین خواهند رفت (ما با مین‌روب‌های زیرآبی بزرگ…
-14:26
 1405/03/09
