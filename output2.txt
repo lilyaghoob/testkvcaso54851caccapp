@@ -1,3 +1,20 @@
+src :@mohem_mat
+‏محمد مهاجری، فعال سیاسی اصولگرا:
+‏
+‏برخی فضاسازی‌ها علیه دولت و روند مذاکره ریشه در جریان‌های صاحب قدرت و نفوذ دارد. این گروه را می‌توان کاسبان تحریم و کاسبان جنگ نامید؛ جریانی که با پایان جنگ و حل‌وفصل مسائل از مسیر مذاکره، نه نان اقتصادی خواهند داشت و نه نان سیاسی.
+‏
+‏ حتی برخی از این افراد، شخصیت‌هایی مانند آقای قالیباف را هم به خیانت متهم کرده‌اند؛ در حالیکه اساساً چنین اتهاماتی با سوابق و جایگاه آقای قالیباف سازگار نیست. آقای قالیباف همواره در چارچوب نظام عمل کرده و
+‏ بعید است مواضعی خارج از سیاست‌های کلی نظام اتخاذ کند.
+‏
+‏ وقتی مأموریتی از سوی شورای عالی امنیت ملی و با تأیید رهبری مقرر می‌شود و برای مذاکره می‌رود، می‌بینیم که به او هم حمله می‌کنند. این حملات همانطور که عرض کردم از طرف جریان کاسب تحریم و کاسب جنگ صورت می‌گیرد.
+‏
+‏@mohem_mat
+16:49
+1405/03/10
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇷⚡️ — Iran's IRGC Navy says 28 vessels, including oil tankers, container ships, and other commercial ships, have safely transited the Strait of Hormuz under coordination and security provided by IRGC naval forces in the past 24 hours.
@@ -65,7 +82,7 @@ src :@MilitiaNews
 
 
 src :@wfwitness
-‏⚡️🇱🇧🇺🇸🇮🇱 LBCI Information on a renewal of the so called ‘ceasefire’:
+‏⚡️🇱🇧🇺🇸🇮🇱 LBCI: An annoucement regarding the ceasefire in Lebanon is expected on June 2nd, should U.S. efforts be successful. 
 ‏
 ‏Efforts led by U.S. Secretary of State Marco Rubio are underway to secure a ceasefire in Lebanon. If these efforts succeed, an announcement is expected following the negotiation session on Tuesday, June 2
 ‏
@@ -1570,17 +1587,6 @@ src :@rus_cosmos
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧⚡️ — An IDF soldier, Staff Sgt. Michael Tyukin, 21, of the Givati Brigade's Reconnaissance Unit, was killed and four others lightly wounded in a Hezbollah explosive drone attack in southern Lebanon. 
-‏
-‏➡️ Tyukin, an only child, had immigrated to Israel from Ukraine with his mother in 2020.
-14:30
-1405/03/10
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇷سماع دوي انفجار في جزيرة قشم الايرانية.
 14:26
@@ -1691,16 +1697,6 @@ src :@MilitarryWorld
 ‏بر اساس این گزارش، هنوز ماهیت این صداها به طور دقیق مشخص نیست.
 ‏
 ‏@MilitarryWorld | Parsa
-14:23
-1405/03/10
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، گفت دستور داده استقرار ارتش اسرائیل در مواضع حزب‌الله در شمال رود لیتانی گسترش یابد و عملیات زمینی در لبنان تعمیق شود. او تصرف قلعه بوفور را «تغییری بنیادین» در سیاست اسرائیل خواند و افزود ابتکار عمل در همه جبهه‌ها در دست اسرائیل است.
-‏https://iranintl.com/202605313134
 14:23
 1405/03/10
 
@@ -2743,21 +2739,6 @@ src :@selena_updates
 
 
 
-src :@tabzlive
-‏🇮🇱🇱🇧⚡️ — Israeli Defense Minister Katz:
-‏44 years after the heroic Battle of Beaufort, and on the day of remembrance for the fallen of the Galilee Peace War, including Golani soldiers who fell in the Battle of Beaufort - IDF fighters, led by the Golani Brigade, returned to the summit of Beaufort and raised the Israeli flag and the Golani flag anew.
-‏
-‏Under the direction of Prime Minister Netanyahu and my direction, the IDF expanded the maneuver in Lebanon, crossed the Litani River and captured the Beaufort Ridge - one of the most important strategic points for the defense of the Galilee communities and maintaining the security of our forces. Today, the blackout imposed on the operation to prevent information from the enemy was lifted.
-‏
-‏This is a clear message to our enemies: Those who threaten the citizens of Israel will lose their strategic assets one by one. I salute the Golani fighters and all IDF fighters who wrote another chapter of Israeli heroism in the place where our heroes fell for the homeland.
-‏
-‏The campaign is not over yet. The IDF is strong, and we are all determined to crush Hezbollah's power and complete the mission: ensuring security for the residents of the north.
-12:31
-1405/03/10
-
-
-
-
 src :@defence_news
 [عکس]
 ‏ارتش اسرائیل اکنون در 5 کیلومتری شهر استراتژیک نبطیه قرار دارد و شواهد میدانی و اظهارات سیاسی مقامات اسرائیلی نشان می دهد قصد آنها برای اشغال مناطق شمال رودخانه لیطانی تا حاشیه رودخانه الزهرانی کاملا جدی است.
@@ -2861,14 +2842,6 @@ src :@rnintel
 ‏
 ‏Hezbollah has already adapted, firing deeper into Israel and signaling a new equation: the farther Israeli forces push north, the deeper Hezbollah's fire will reach into the home front. The ceasefire on paper bears no resemblance to the reality on the ground, where commanders say the fighting continues and the threat remains present.
 12:22
-1405/03/10
-
-
-
-
-src :@tabzlive
-‏🇮🇱🇱🇧⚡️ — The operation in southern Lebanon was planned more than a year ago, according to Israeli Broadcasting Authority.
-12:20
 1405/03/10
 
 
@@ -3694,18 +3667,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:03
-1405/03/10
-
-
-
-
-src :@mwarmonitor
-‏🔴به گزارش نیویورک‌تایمز،‌ ترامپ شرایط یک چارچوب احتمالی برای توافقی به‌منظور پایان دادن به جنگ در ایران را سخت‌گیرانه‌تر کرده و این تغییرات پیشنهادی را برای بررسی دوباره به این کشور ارسال کرده است؛ پیشنهاد جدید و سخت‌گیرانه‌تر ممکن است با هدف تسریع روند مذاکرات ارائه شده باشد؛ به این معنا که با افزایش فشار بر ایران، این کشور را به پذیرش پیشنهاد قبلی وادار کند.
-‏گزارش‌ها حاکی است که آن پیشنهاد قبلی برای تأیید نهایی به رهبر عالی ایران، مجتبی خامنه‌ای، ارسال شده است.به گفته سه مقام آگاه.
-‏
-‏
-‏@mwarmonitor
-10:02
 1405/03/10
 
 
