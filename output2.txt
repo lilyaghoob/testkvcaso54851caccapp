@@ -1,3 +1,33 @@
+src :@P_raetorio
+[عکس]
+‏حمله هوایی به شهر صور-لبنان
+‏
+‏@P_raetorio
+14:49
+1405/03/10
+
+
+
+
+src :@rnintel
+‏🇫🇷⚡️- Riots in Paris after the Champions League soccer final has led to one death, 780 arrests and 219 injuries, including 8 seriously. One group tried to break into a police station.
+14:49
+1405/03/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Red alert sirens are sounding in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+14:49
+1405/03/10
+
+
+
+
 src :@mohem_mat
 ‏تسنیم: 
 ‏
@@ -1042,20 +1072,6 @@ src :@World_Newsly
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
 13:24
-1405/03/10
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇦🇷🇺 The Washington Post: Ukrainian drone operators are increasingly competing to record and verify battlefield strikes against Russian forces as drones become one of the war’s most decisive weapons.
-‏
-‏Drone units are ranked based on confirmed battlefield results, with operators using video evidence to document strikes on Russian troops, vehicles, artillery systems, and military infrastructure.
-‏
-‏The system reflects Ukraine’s growing reliance on drone warfare, which has transformed frontline combat and made unmanned systems a central component of both offensive and defensive operations.
-‏
-‏@wfwitness
-13:23
 1405/03/10
 
 
@@ -2479,26 +2495,6 @@ src :@selena_updates
 ‏Staff Sergeant Michael Tyukin, aged 21, from Ashkelon, a soldier in the Givati Reconnaissance Battalion (846th), Givati Brigade
 ‏
 ‏The attack took place at around 10:30 p.m. last night, in Zawtar El Charqiyeh, during which a first-person view (FPV) drone with night vision piloted by Hezbollah struck a position where Givati soldiers were operating. The blast killed Tyukin and wounded 4 other soldiers lightly.
-11:39
-1405/03/10
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏تبلیغات هدفمند؛ ابزار ایران برای ردیابی نظامیان آمریکا
-‏
-‏قانون‌گذاران ایالات متحده از پنتاگون خواستار اقدام علیه صنعت تبلیغات آنلاین به عنوان تهدید امنیت ملی شدند.
-‏
-‏در نامه‌ای که سناتور آمریکایی ران وایدن با رویترز به اشتراک گذاشت فرماندهی مرکزی آمریکا اعلام کرده گزارش‌های تهدید متعددی مبنی بر اینکه دشمن از داده‌های موقعیت مکانی تجاری برای هدف‌گیری یا نظارت بر پرسنل آمریکایی در حوزه مسئولیت سنت‌کام استفاده می‌کند دریافت کرده‌است. 
-‏
-‏
-‏#تخصصی 
-‏
-‏
-‏
-‏@P_raetorio
 11:39
 1405/03/10
 
@@ -5116,14 +5112,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 18:26
-1405/03/09
-
-
-
-
-src :@rnintel
-‏🇻🇳🇵🇭🇮🇳⚡- After the Philippines, Vietnam is close to signing a deal with India for New Delhi's BrahMos cruise missiles.
-18:14
 1405/03/09
 
 
