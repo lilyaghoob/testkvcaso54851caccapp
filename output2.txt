@@ -5829,14 +5829,3 @@ src :@rnintel
 ‏O’Leary discovered the network was funding bots to flood his social media platforms with posts about a data center construction plan in Utah after the IP addresses were traced to a group called Alliance for a Better Utah, which is Sigham-affiliated and part of the Arabella network.
 07:44
 1405/03/09
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇬🇧 UK military considers allowing AI weapons to carry out autonomous lethal strikes without human approval.
-‏
-‏@BRICSNews
-07:36
-1405/03/09
