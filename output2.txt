@@ -1,3 +1,29 @@
+src :@World_Newsly
+[عکس]
+‏🔴 نیویورک تایمز: بیش از ۲۰۰ نفر در حملات آمریکا به قایق‌های مظنون به قاچاق مواد مخدر کشته شده‌اند
+‏
+‏نیویورک تایمز گزارش داد در بیش از ۶۰ حمله نظامی آمریکا علیه قایق‌های مظنون به قاچاق مواد مخدر در سواحل آمریکای جنوبی، دست‌کم ۲۰۲ نفر کشته شده‌اند.
+‏بر اساس این گزارش، جوامع ماهیگیری در کلمبیا و اکوادور میگویند این عملیات‌ها به اقتصاد محلی آسیب جدی وارد کرده، زیرا قایق‌های ماهیگیری در بسیاری موارد از نظر ظاهری شباهت زیادی به قایق‌های تندرو مورد استفاده قاچاقچیان دارند.
+‏ساکنان محلی از گسترش ترس، کاهش فعالیت‌های صیادی و آسیب شدید به معیشت شهرهای ساحلی خبر داده‌اند.
+‏نیویورک تایمز همچنین به نقل از منتقدان این سیاست نوشت هنوز شواهد کافی وجود ندارد که نشان دهد این عملیات‌ها تاثیر قابل توجهی بر کاهش قاچاق کوکائین به آمریکا داشته‌اند.
+‏
+‏✍🏻 Queen
+‏▪️@World_Newsly
+01:54
+1405/03/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli warplanes have been carrying out airstrikes on southern Lebanon in recent hours.
+01:53
+1405/03/11
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released their fifth batch of statements regarding operations targeting Israeli forces across southern Lebanon for the day:
@@ -789,7 +815,7 @@ src :@P_raetorio
 ‏
 ‏نکات جالب توجه میزان حجم قابل توجه استفاده از موشک های کروز پنهانکار JASSM و کروز مادون صوت تاماهاوک است که تاماهاوک +1000 عدد و JASSM  +1100 عدد که مجموعا با هم به عدد +2100 عدد می رسند.
 ‏
-‏بازسازی ذخایر با مشکل خاصی روبه رو نیستند و نهایتا تا 4 سال(در برخی مهمات که ظرفیت کمی داشتند البته) آینده تمامی مهمات به ظرفیت قبلی خود برمیگردند.البته رهگیر پاتریوت هم به دلیل استفاده بالا و هم تامین موجودی اوکراین که در برابر روسیه دفاع می‌کند مشکل تر است( البته آمریکا برای حل این مشکل اقداماتی برای صدور مجوز تولید رهگیر های پاتریوت در خاک لهستان انجام داده است) . موشک کروز JASSM به دلیل نرخ تولید بالا حدود 1 سال ذخایر آن بازسازی میشود و موشک بالستیک پرسام به دلیل استفاده کم، کمتر از یک سال ظرفیت آن بازسازی خواهد شد.
+‏بازسازی ذخایر ممکن است البته با چالش های مشخص و نهایتا تا 4 سال(در برخی مهمات که ظرفیت کمی داشتند البته) آینده تمامی مهمات به ظرفیت قبلی خود برمیگردند.البته رهگیر پاتریوت هم به دلیل استفاده بالا و هم تامین موجودی اوکراین که در برابر روسیه دفاع می‌کند مشکل تر است( البته آمریکا برای حل این مشکل اقداماتی برای صدور مجوز تولید رهگیر های پاتریوت در خاک لهستان انجام داده است) . موشک کروز JASSM به دلیل نرخ تولید بالا حدود 1 سال ذخایر آن بازسازی میشود و موشک بالستیک پرسام به دلیل استفاده کم، کمتر از یک سال ظرفیت آن بازسازی خواهد شد.
 ‏
 ‏سال های ذکر شده به منظور تأمین ظرفیت به حالت قبل جنگ است و نه کمبود! که اغراق هایی در رابطه با آن صورت می‌گیرد، برای مثال موشک تاماهاوک قبل از جنگ 3100 عدد موجود بود و با احتساب مصرف این مهمات در جنگ 30% درصد آن مصرف شده است که هنوز عمق ظرفیتی زیادی دارد، اما خب در مهمات پاتریوت و تاد با محدودیت های بیشتری رو به رو هستند  و SM-3 ، SM-6 هم شرایط معقولی دارند و با مشکل جدی مواجه نیستند زیرا کمتر استفاده شده اند.
 ‏
@@ -1957,33 +1983,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-[عکس]
-‏☄️فیلترینگ با فست وی پی ان معنایی نداره☄️
-‏
-‏تعرفه کانفیگامون:
-‏
-‏قابل استفاده در (v2rayng,npv.streisand.happ.v2box)
-‏
-‏یکماهه 10 گیگ کاربر نامحدود 150 💵
-‏ یکماهه 20 گیگ کاربر نامحدود 200 💵 
-‏
-‏یکماهه تک کاربر نامحدود 300 💵
-‏یکماهه دوکاربر نامحدود 400 💵 
-‏
-‏مناسب برای تمامی اپراتور ها(🛜🛜🛜🛜🛜🛜)
-‏ایدی پشتیبانی برای خرید:
-‏@supfastvpn 🌐
-‏
-‏کانال اطلاع رسانی :
-‏
-‏@fasstvp 💯
-22:31
-1405/03/10
-
-
-
-
 src :@didarnews1
 ‏🔴سرپرست وزارت دفاع: دست ما روی ماشه قرار دارد؛ شگفتانه‌های جدیدی نیز در راه است
 ‏
@@ -2866,16 +2865,6 @@ src :@defence_news
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — A knowledgeable government source rejected reports by Iran International that Iranian President Masoud Pezeshkian had submitted a resignation letter to Supreme Leader Mojtaba Khamenei, Tasnim reports.
-‏
-‏The source called the outlet a “factory of fabrications” tied to Mossad and said Pezeshkian had continued working normally and would proceed with his scheduled plans.
-21:09
-1405/03/10
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 تایوان از خودروهای جدید جنگ الکترونیک برای پشتیبانی از پدافند هوایی رونمایی کرد
@@ -2955,14 +2944,6 @@ src :@Farsi_Iranwire
 src :@WAR_ROOM_NEWS
 ‏🔴سنتکام اعلام کرد نیروهای آمریکایی از آغاز محاصره بنادر ایران از ۱۳ آوریل، ۱۱۸ کشتی تجاری را تغییر مسیر داده و ۵ کشتی را طی حملاتی از کار انداخته‌اند
 21:06
-1405/03/10
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — The IDF released footage of Israeli troops operating at the Beaufort Castle in southern Lebanon.
-21:04
 1405/03/10
 
 
@@ -6159,24 +6140,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:50
-1405/03/10
-
-
-
-
-src :@Mena_Live
-‏The EU is increasing its support for Syria through a €15 million Technical Assistance Hub, which will serve as an entry point for Syrian authorities to access technical expertise from the EU and partners, strengthen public institutions, improve service delivery…
-01:55
-1405/03/10
-
-
-
-
-src :@Mena_Live
-‏The EU is increasing its support for Syria through a €15 million Technical Assistance Hub, which will serve as an entry point for Syrian authorities to access technical expertise from the EU and partners, strengthen public institutions, improve service delivery, and enhance coordination among international actors. 
-‏
-‏The EU has also pledged €14 million to rehabilitate Al-Rastan Hospital in Homs as part of a broader €175 million socio-economic recovery package, with an additional €280 million planned for 2026–2027.
-‏
-‏@Mena_Live
-01:53
 1405/03/10
