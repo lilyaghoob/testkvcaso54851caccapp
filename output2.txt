@@ -1,6 +1,74 @@
+src :@ClashReport
+[عکس]
+‏Satellite images analysed by BBC Verify indicate that Iranian strikes have damaged at least 20 US military sites across eight Middle Eastern countries since the war began. 
+‏
+‏The attacks hit air defence systems, surveillance aircraft, fuel depots, and communications infrastructure, causing billions of dollars in damage. 
+‏
+‏Analysts say the strikes appear more precise and extensive than US officials have publicly acknowledged.
+‏
+‏Source: BBC
+10:01
+1405/03/11
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Colombia’s presidential election is headed to a June 21 runoff after no candidate won a majority. 
+‏
+‏Far-right outsider Abelardo de la Espriella finished first with 43.7% of the vote, narrowly ahead of left-wing senator Iván Cepeda, who won 40.9%.
+09:59
+1405/03/11
+
+
+
+
+src :@didarnews1
+‏🔴رئیس قوه قضائیه:
+‏
+‏🔹 اثر رفتار ما، مهم‌تر از حکم ما است
+‏
+‏🔹 «وحدت» به معنای نظر واحد داشتن نیست؛ اختلاف نظر یک امر طبیعی است
+‏
+‏🔹 نگاهی به جان‌فدایان ایران بیندازیم که از طیف‌های مختلف اجتماعی با سلایق و علایق متفاوت هستند، باید از هر آنچه موجب تجزیه‌های اجتماعی می‌شود، جداً بپرهیزیم
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+09:59
+1405/03/11
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏إسماعيل بقائي: 
+‏إن بيان الاتحاد الأوروبي الذي يُلقي باللوم على إيران لممارستها حقها في الدفاع عن النفس ضد العدوان الأمريكي الذي شُنّ من قواعد في الدول المجاورة هو درسٌ نموذجي في الغضب الأخلاقي الانتقائي؛ إنه نفاقٌ وتهور.
+‏
+‏يجب على الاتحاد الأوروبي (@eu_eeas) أن يظل وفيًا لسيادة القانون ومبادئ ميثاق الأمم المتحدة التي طالما ادعى أنه يدعمها. يجب عليه التوقف عن استرضاء المعتدين مع إلقاء اللوم على أولئك الذين يردون على الهجمات غير المشروعة.
+‏
+‏إن ضربات إيران ضد تلك القواعد والأصول التي تُستخدم لشن هجمات غير مشروعة ضد إيران هي ممارسة مشروعة للدفاع عن النفس.
+‏
+‏تقع على عاتق الدول التزامات قانونية راسخة بعدم السماح باستخدام أراضيها أو أصولها لغزو دول أخرى
+09:57
+1405/03/11
+
+
+
+
 src :@GeoPWatch
 ‏🇮🇷 — Unexploded ordnance being dealt with, there is no attack.  @GeoPWatch
 09:57
+1405/03/11
+
+
+
+
+src :@naya_foriraq
+‏📰إكسيوس: تعثرت أحدث جهود الولايات المتحدة لتأمين وقف إطلاق النار في لبنان حيث توسع إسرائيل هجومها البري وتسعى للحصول على موافقة الولايات المتحدة لشن ضربات كبيرة في بيروت.
+09:56
 1405/03/11
 
 
@@ -2253,19 +2321,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇨🇴 — Colombia's presidential election results have resulted in a runoff, with two candidates advancing:
-‏
-‏➡️ Far-right candidate Abelardo de la Espriella with 43.73% of the vote, a political outsider running as a hardliner against Colombia's drug cartels and guerrilla organizations, favoring confrontation, constructing megaprisons, and conducting airstrikes against drug infrastructure and poisoning coca crops used to make cocaine, with the support of the United States.
-‏➡️ Left-wing candidate Iván Cepeda with 40.91% of the vote, a Senator running to continue Colombia's "Total Peace" policy with Colombia's drug cartels and guerrilla organizations, favoring negotiations and non-military settlements with the armed groups.
-‏
-‏@GeoPWatch
-05:41
-1405/03/11
-
-
-
-
 src :@Indypersian
 ‏⭕️ترامپ خواستار اعمال تغییراتی در توافق با تهران شده است
 ‏
@@ -3364,14 +3419,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏انفجارات تهز وادي الانه بمحافظة اربيل في اقليم كردستان العراق بعد استهداف مقرات المعارضة الايرانية الكردية
-23:40
-1405/03/10
-
-
-
-
 src :@intelslava
 ‏🇷🇴🇺🇦🇷🇺When the Russians attack cities on the other side of the Danube, they must be sure not to harm Romanian citizens - the President of Romania.
 ‏
@@ -3526,14 +3573,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 23:18
-1405/03/10
-
-
-
-
-src :@naya_foriraq
-‏🏴‍☠️المتحدث باسم جيش العدو الإسرائيلي: في متابعة للتوجيه المسبق الذي تم توزيعه قبل وقت قصير عقب رصد إطلاق صواريخ من لبنان، تم رصد إطلاق صاروخ سقط في المنطقة التي تعمل بها قوات الجيش الإسرائيلي في جنوب لبنان.
-23:16
 1405/03/10
 
 
@@ -3790,15 +3829,6 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏حملات هوایی اسرائیل به جنوب لبنان همچنان ادامه دارد
 22:40
-1405/03/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Syrian President Ahmed al-Sharaa and Trump spoke by phone about bilateral relations, regional developments, and ways to cooperate on supporting Syria's stability and economic recovery.
-22:37
 1405/03/10
 
 
@@ -5865,24 +5895,6 @@ src :@Mena_Live
 
 
 
-src :@didarnews1
-‏🔴نایب رئیس مجلس: محاصره اقتصادی دشمن را محاصره می‌کنیم
-‏
-‏🔹باید پرقدرت مسیرهای جایگزین و کریدورهای زمینی را پیگیری و فعال کرد.
-‏
-‏🔹تفویض اختیارات به استانداران نباید موجب غفلت از مسائل ملی و بین‌المللی شود.
-‏
-‏🔹تمرکز بر عملیات بارگیری کالاهای ایرانی در عمان، پاکستان و ترکیه و سپس انتقال از طریق راه‌های زمینی، ریلی و دریایی مورد تأکید است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-15:12
-1405/03/10
-
-
-
-
 src :@Artemis_Force
 ‏در رابطه با اتفاقات کوه سیاه، هم نيرو دریایی ارتش شهدای رو تقدیم ایران کرده است  در جریان عملیات نظامی آمریکایی ها در منطقه مرکز کشور عملیات کمین و مقابله توسط نيرو زمینی ارتش و نيرو دریایی ارتش اجرا شد البته در این میان و در کنار ارتش، تعدادی نيرو مردمی (…
 15:04
@@ -6577,13 +6589,4 @@ src :@guard_warriors
 [عکس]
 ‏✪ تصویر منتشر شده از تانکر KC-135 حاضر در انگلیس که آثار وصله پینه و بخیه نقاط اسیب دیده بخاطر ترکش  انفجار روی سطوح کنترلی بال ها و انتهای هواپیما مشخص است   @Guard_Warriors | Raptor
 10:14
-1405/03/10
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏★ یک تیم از نیروی هوایی روز گذشته به روسیه سفر کرده و قرار است فردا برگردند. دستاورد سفرشان احتمالا دیر یا زود رسانه ای خواهد شد   @PARVAZDAROJ | 𝐀.𝐑.𝐀
-10:01
 1405/03/10
