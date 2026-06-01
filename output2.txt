@@ -400,14 +400,6 @@ src :@Shin_Persian
 
 
 
-src :@World_Newsly
-‏we are still here
-02:21
-1405/03/12
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇬🇧🇮🇶⚡- The British Ministry of Defense has announced the passing of a serviceman during a training session at Erbil Air Base, Iraq's Kurdistan region.
 ‏
@@ -2283,6 +2275,18 @@ src :@World_Newsly
 
 
 
+src :@World_Newsly
+[عکس]
+‏🔴 هشدار شلیک راکت در شهر متولا واقع در شمال اسرائیل
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+00:17
+1405/03/12
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- Iran has targeted the U.S.-linked tanker MSC Sariska with a cruise missile.
 00:16
@@ -2854,16 +2858,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: افزایش احتمال بازگشت درگیری‌ها پس از هشدارهای تازه تهران
-‏@iranintlTV
-23:30
-1405/03/11
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شامگاه دوشنبه ۱۱ خرداد ماه اعلام کرد در گفتگوی تلفنی با دونالد ترامپ، رئیس‌جمهوری آمریکا، به او گفته است که در صورت ادامه حملات حزب‌الله، اسرائیل اهدافی را در بیروت هدف قرار خواهد داد.
@@ -3120,17 +3114,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:11
-1405/03/11
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏ایتامار بن‌گویر، وزیر امنیت داخلی اسرائیل، در شبکه ایکس خطاب به بنیامین نتانیاهو نوشت: «آقای نخست‌وزیر، شما گفتید یک نخست‌وزیر قوی زمانی که ممکن باشد به رییس‌جمهور ایالات متحده "بله" می‌گوید و زمانی که لازم باشد "نه".»
-‏او افزود: «اکنون زمان آن است که به دوست‌مان، رییس‌جمهور ترامپ، "نه" بگویید. اکنون زمان آن است که آنچه لازم و ضروری است انجام شود؛ به حزب‌الله ضربه بزنیم، دست رزمندگان‌مان را باز بگذاریم و امنیت را به شمال بازگردانیم.»
-‏https://iranintl.com/202606019640
-23:09
 1405/03/11
 
 
@@ -7711,17 +7694,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇮🇷❌🇰🇼 — Flights are diverting from Kuwait International Airport as the country comes under Iranian missile attack this morning.
 06:53
-1405/03/11
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇰🇼❌🇮🇷❗️ — Preliminary reports of a missile interception near Ali Salem airbase in Kuwait.
-‏
-‏📝 The presence of a ballistic missile all but confirms that the Iranians were involved.
-06:48
 1405/03/11
 
 
