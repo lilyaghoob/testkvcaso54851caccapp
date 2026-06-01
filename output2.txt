@@ -1,3 +1,72 @@
+src :@mohem_mat
+‏بیمارستانی در فرانسه از الاغ‌ها در مراقبت از سلامت روان استفاده می‌کند؛ استقبال بیماران
+‏
+‏از افسردگی تا اسکیزوفرنی، تنها واحد درمان‌با‌حیوانات مستقر در بیمارستان در فرانسه نشان می‌دهد که چهارپا به جاهایی می‌رسد که دارو به‌تنهایی نمی‌رسد.
+‏وقتی زندگی به شما سخت می‌گیرد، نوازش کردن یک الاغ را امتحان کنید؛ دست‌کم این یکی از نسخه‌ها در مجموعه بیمارستانی ویل اورار در شرق پاریس است.
+‏
+‏در گوشه‌ای از محوطه این مرکز، میان ساختمان‌های مزرعه‌ای قرن نوزدهمی و میان درختان، پنج الاغ در فاصله لقمه‌زدن به کاه، بخشی از بار سنگین سلامت روان را به دوش می‌کشند.
+‏
+‏بخش درمان با کمک الاغ‌های این بیمارستان که در فرانسه بی‌همتاست، از سال ۲۰۱۶ فعال است؛ زمانی که ارملیندا هادی، پرستار روان‌پزشکی، و همسرش فرانسوا این برنامه را با این حدس راه انداختند که الاغ‌ها، که به خوی آرام و اجتماعی‌شان شناخته می‌شوند، شاید بتوانند به شیوه‌هایی با بیماران ارتباط برقرار کنند که درمان‌های مرسوم همیشه به آن نمی‌رسد./یورونیوز
+‏
+‏@mohem_mat
+16:41
+1405/03/11
+
+
+
+
+src :@naya_foriraq
+‏ايران توقف تبادل الرسائل مع الجانب الأمريكي
+16:41
+1405/03/11
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴مرندی، عضو تیم مذاکره کننده: خیلی مهم. صبر ایران دارد تمام می‌شود
+‏
+‏✍🏻 Cybex
+‏▪️@World_Newsly
+16:40
+1405/03/11
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 رسانه امنیتی ایران اینتل واچ مدعی شد تا ساعتی دیگر، پاسخ نقض آتش بس توسط جمهوری اسلامی ایران با حمله گسترده به اسرائیل، داده خواهد شد.
+‏
+‏✍🏻 Cybex
+‏▪️@World_Newsly
+16:40
+1405/03/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli warplanes carried out an attack on Harouf in southern Lebanon a short while ago.
+16:39
+1405/03/11
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+16:37
+1405/03/11
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️شاهدخت نور پهلوی، روز دوشنبه یازدهم خرداد ماه، با انتشار در پیامی در شبکه اجتماعی ایکس از اریک لائه سولبرگ، شهردار اسلو، برای میزبانی «مجمع آزادی اسلو» قدردانی کرد.
@@ -1664,21 +1733,6 @@ src :@ClashReport
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 BBC: Iran has damaged or destroyed at least 20 U.S. military sites since the start of the war, according to satellite imagery reviewed by BBC Verify.
-‏
-‏The analysis found damage at facilities across the Middle East, including sites in Qatar, Iraq, Syria, Kuwait, and the UAE. Satellite images showed strikes on air bases, radar systems, communications infrastructure, and military equipment. The most heavily affected site was Al Udeid Air Base in Qatar, where damage was observed at key communications facilities.
-‏
-‏Military analysts told BBC Verify that the attacks demonstrated Iran’s ability to target U.S. infrastructure across the region, while American officials continue assessing the operational impact of the strikes.
-‏
-‏@wfwitness
-15:02
-1405/03/11
-
-
-
-
 src :@Indypersian
 ‏⭕️حملات آمریکا به مناطقی در جنوب ایران؛ سپاه: این بار پاسخ متفاوتی می‌دهیم
 ‏
@@ -2012,15 +2066,6 @@ src :@DEJradio
 ‏
 ‏#خبر #دژ #خمینی 
 ‏@DEJradio
-14:43
-1405/03/11
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Scenes from al-Housh, Tyre district, southern Lebanon, following violent Israeli airstrikes.
 14:43
 1405/03/11
 
@@ -2674,33 +2719,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@P_raetorio
-‏🔹 ویژگی‌های فنی TOP-2:
-‏
-‏ چیدمان موتور و انتقال قدرت: در این طرح از یک ساختار فاصله‌دار استفاده کرده بودند؛ به طوری که موتور در بخش مرکزی و سیستم انتقال قدرت در بخش عقب بدنه قرار داشت. این چیدمان فضای باز و جاداری را در عقب خودرو برای خروج نیروها به همراه یک دریچه و رمپ فراهم می‌کرد.
-‏
-‏ سیستم انتقال قدرت مدرن: ارتقای این بخش شامل استفاده از یک جعبه‌دنده سیاره‌ای ۵ سرعته از نوع Wilson ČKD-NA مجهز به سلکتور دنده بود تا هدایت خودرو آسان‌تر شود، سرعت افزایش یابد و مانورپذیری بهتری حاصل گردد.
-‏
-‏ ظرفیت: این خودروی زرهی برای حمل 23 سرباز به همراه خدمه یا لود 3500 کیلوگرم محموله مفید طراحی شده بود.
-‏
-‏
-‏اما سرنوشت این نفربر چه شد؟ 
-‏پس از رایزنی‌ها در اتحاد جماهیر شوروی در ژوئن 1958 این پروژه‌ موفقِ نفربر زرهی همه‌منظوره در نسخه نهایی خود به معنای واقعی کلمه کنار گذاشته شد.
-‏
-‏چکسلواکی در سال 1959 مستندات فنی BTR-50PA را دریافت کرد و ساخت نسخه اختصاصی خود یعنی OT-62 را آغاز نمود و طرح TOP-2 به فراموشی سپرده شد.
-‏
-‏
-‏#اختصاصی 
-‏
-‏رامتین وطن‌خواه 
-‏
-‏@P_raetorio
-13:51
-1405/03/11
-
-
-
-
 src :@rnintel
 ‏🇱🇧🇮🇱⚡- Israeli Prime Minister Netanyahu has given the IDF the greenlight to carry out attacks on Beirut's southern suburbs.
 13:50
@@ -2830,20 +2848,6 @@ src :@GeoPWatch
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴امروز صبح تو دانشکده‌ دندونپزشکی قزوین، یه مرده با کلت کمری وارد دانشگاه شد و همونجا زنش رو کشت و بعدشم به خودش شلیک و خودکشی کرد...
-‏
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-13:40
-1405/03/11
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️امانوئل مکرون، رئیس جمهور فرانسه، می‌گوید با دونالد ترامپ، رئیس جمهور آمریکا، در مورد خاورمیانه صحبت کرده و از تلاش‌های مداوم برای دستیابی به توافقی بین آمریکا و ایران با هدف ایجاد یک چارچوب امنیتی جدید منطقه‌ای تمجید کرده است.
 ‏
@@ -2924,22 +2928,6 @@ src :@Minas_Tirith2024
 ‏
 ‏روی گزینه مورد نظر کلیک کنید ☝🏻
 13:31
-1405/03/11
-
-
-
-
-src :@World_Newsly
-‏🔴وزیر دفاع اسرائیل، اسرائیل کاتز:
-‏
-‏وضعیت داهییه در بیروت همانند وضعیت جوامع شمالی در اسرائیل است.
-‏
-‏اگر در شمال آرامش نباشد، در بیروت هم آرامش نخواهد بود
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-13:29
 1405/03/11
 
 
@@ -3100,18 +3088,6 @@ src :@intelslava
 ‏The intensification of hostilities dampened expectations that the US and Iran might soon announce an extension of the ceasefire agreement.
 ‏
 ‏@Intelslava
-12:52
-1405/03/11
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶 مصادر إعلامية تتحدث عن تغيرات 
-‏
-‏تسمية عبد الزهرة الهنداوي مدير اعلام مكتب رئيس الوزراء بدلا من ربيع نادر .
-‏
-‏‏ تسمية حيدر العبودي، المتحدث الرسمي بأسم الحكومة بدلا من باسم العوادي
 12:52
 1405/03/11
 
