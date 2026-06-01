@@ -1,3 +1,33 @@
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — Around 30 Russian drones are flying in Ukrainian airspace.
+00:51
+1405/03/12
+
+
+
+
+src :@rnintel
+‏🇮🇶🇱🇧🇮🇱⚡️- Iranian-backed Iraqi militias have pledged to attack Eilat if Israel attacks Beirut.
+00:50
+1405/03/12
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸⚡️- Rosario “Pete” Vasquez has been sworn in as the new Chief of U.S. Border Patrol.
+‏
+‏Vasquez has been the chief Border Patrol official on the U.S.-Canadian border and has been stationed in various regions of the country, including southwestern border states such as Arizona and California. 
+‏
+‏Vasquez has over 26 years of experience in Border Patrol and has been identified as a “straight shooter” and a rigid individual.
+00:50
+1405/03/12
+
+
+
+
 src :@naya_foriraq
 ‏🇫🇷🌟وزير الخارجية الفرنسي:‏فرنسا تطلب اجتماعا طارئا لمجلس الأمن بشأن لبنان، وفتح مضيق هرمز أولوية قصوى لأنه ليس لدينا أي نية لنواصل دفع ثمن حرب ليست حربنا.
 00:46
@@ -312,7 +342,11 @@ src :@Shin_Persian
 
 src :@wfwitness
 [عکس]
-‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏⚡️🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏UPDATE:
+‏
+‏IDF: Following the sirens that sounded a short while ago regarding a hostile aircraft infiltration in several areas in northern Israel, it was determined to be a false identification.
 ‏
 ‏@wfwitness
 00:24
@@ -3287,16 +3321,6 @@ src :@Mena_Live
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇱🇧⚡️ — President Trump via Truth Social:
-‏I had a very productive call with Prime Minister Bibi , of Israel, and there will be no Troops going to Beirut, and any Troops that are on their way, have already been turned back. Likewise, through highly placed Representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop — That Israel will not attack them, and they will not attack Israel. President DONALD J. TRUMP
-21:21
-1405/03/11
-
-
-
-
 src :@mwarmonitor
 ‏🔴رسانه‌های اسرائیلی: در حال حاضر سکوت بر دفتر نخست‌وزیر حاکم است. این واقعیت که یک رئیس‌جمهور آمریکایی—هرچقدر هم که طرفدار اسرائیل باشد—کشور را اداره می‌کند، باید همه ما را نگران کند.
 ‏
@@ -5200,16 +5224,6 @@ src :@tglobaleye
 
 
 
-src :@P_raetorio
-‏عراق پروازهای خود به بیروت را متوقف کرد.
-‏
-‏@P_raetorio
-19:41
-1405/03/11
-
-
-
-
 src :@Shin_Persian
 ‏🔁 Quoting above tweet:
 ‏Shin ✓ @hey_itsmyturn
@@ -6146,17 +6160,6 @@ src :@Mena_Live
 ‏As part of the Presidential Team's follow-up to the implementation of the January 29 agreement, 28 female fighters from the Syrian Democratic Forces (SDF) were released today, bringing the total number of those released to over 1,200.
 ‏
 ‏@Mena_Live
-16:35
-1405/03/11
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇮🇱❌🇱🇧🇱🇧 — The IDF says it has withdrawn the 146th Division from southern Lebanon after three months of operations against Hezbollah.
-‏
-‏➡️ At the peak of the campaign, five IDF divisions were operating in southern Lebanon, and now only the 91st and 36th divisions remain deployed there.
 16:35
 1405/03/11
 
