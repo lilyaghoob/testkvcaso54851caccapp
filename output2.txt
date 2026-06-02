@@ -1,3 +1,68 @@
+src :@wfwitness
+‏⚡️🇺🇸 Politico: The Pentagon has designated part of its press office as a classified area, preventing journalists from entering the space as the Defense Department continues tightening media access rules.
+‏
+‏Pentagon officials said the office was redesignated as a Sensitive Compartmented Information Facility (SCIF) because speechwriters handling classified material now work in the area.
+‏
+‏The move comes amid ongoing disputes between the Pentagon and major news organizations over press access, reporting restrictions, and transparency policies.
+‏
+‏@wfwitness
+12:21
+1405/03/12
+
+
+
+
+src :@wfwitness
+‏⚡️🇵🇸🇮🇱 Al Jazeera citing a source at Al-Aqsa Martyrs Hospital:   One dead and injured in an Israeli airstrike on a car in Deir al-Balah, in the central Gaza Strip.  @wfwitness
+12:20
+1405/03/12
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸 Politico: Senate Republicans are continuing to push back against the Trump administration’s proposed “anti-weaponization” fund, raising concerns over how the money could be distributed.
+‏
+‏Several Republican lawmakers have questioned whether the fund could benefit political allies of President Donald Trump or individuals involved in the January 6 Capitol riot, while demanding stricter limits or the complete removal of the proposal. 
+‏
+‏The dispute has become a growing source of tension between Senate Republicans and the White House, complicating efforts to advance broader immigration and border security funding legislation. 
+‏
+‏@wfwitness
+12:19
+1405/03/12
+
+
+
+
+src :@MilitiaNews
+[عکس]
+‏اختصاصی| تصاویر ماهواره‌ای از خسارات وارده به پایگاه هوایی علی السالم پادشاهی کویت در پی حملات پهپادی/موشکی و هوایی جمهوری اسلامی ایران
+‏
+‏در مجموع در طول جنگ دستکم 13 اصابت موشک/پهپاد و هوایی به این پایگاه صورت گرفته است.دستکم 3 مخزن سوخت پایگاه به طور کامل منهدم شده است،در مجموعه خوابگاهی و استراحت سربازان اصابت 3 پرتابه دیده می‌شود،همچنین دستکم 5 شلتر هدف قرار گرفته است که دستکم می‌دانیم در این بین 1 پهپاد MQ-9 ایتالیایی منهدم شده است علاوه بر این 1 ساختمان پشتیبانی و تعمیرات نیز هدف گرفته که دچار خسارت جزئی شده است با توجه به محدود بودن آسیب ها احتمالا اکثر اصابت ها با پهپاد انتحاری بوده که سرجنگی کمتر اما دقت بیشتری داشتند در مجموع با توجه به نزدیک بودن پایگاه به ایران اما آسیب وارده به آن در طول جنگ محدود بوده است.
+‏
+‏#اختصاصی
+‏
+‏@P_raetorio
+12:17
+1405/03/12
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸 Politico: New York Democrats are advancing a constitutional amendment that could allow the state to redraw congressional district maps before the next census.
+‏
+‏Supporters say the measure is intended to give New York the ability to respond if another state redraws its congressional map multiple times within a decade.
+‏
+‏Republicans have criticized the proposal, arguing it could weaken anti-gerrymandering protections and reshape the state’s electoral landscape.
+‏
+‏@wfwitness
+12:17
+1405/03/12
+
+
+
+
 src :@jangaavaran1390
 ‏گزارش در وال استریت ژورنال: در واشنگتن، رویکرد عمان با توجه به سیاست بی‌طرفی و ادعاهای ایران مبنی بر اینکه به طور مشترک هزینه‌های ترانزیت در تنگه هرمز را جمع‌آوری خواهد کرد، به عنوان رویکردی خصمانه نسبت به ایالات متحده تفسیر می‌شود. منابع آمریکایی و عربی گفتند که دولت ترامپ به عمان فشار می‌آورد تا یک طرف را انتخاب کند و روابط دیپلماتیک خود را با ایران قطع کند. منابع عربی گفتند که رهبری عمان از تهدید هفته گذشته ترامپ مبنی بر بمباران عمان در صورت موافقت واقعی با جمع‌آوری هزینه‌های ترانزیت در تنگه هرمز، شوکه شده است.
 12:16
@@ -2459,20 +2524,6 @@ src :@ircfspace
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇪🇺 FT: The US is reportedly in talks about potentially expanding nuclear weapons deployments to additional NATO European states, in a move aimed at reinforcing security guarantees amid shifting US force posture.
-‏
-‏US officials have signalled openness to more countries hosting nuclear-capable dual-use aircraft beyond the current six NATO members, with eastern flank states such as Poland and the Baltic region expressing interest. 
-‏
-‏Any expansion would build on the existing NATO nuclear-sharing framework, where US weapons remain under American control but are forward-deployed in Europe.
-‏
-‏@wfwitness.
-07:42
-1405/03/12
-
-
-
-
 src :@ircfspace
 ‏گروه Void Verge در تازه‌ترین #گزارش خود اعلام کرده: از زمانی که اینترنت ایران دوباره توسط دولت بازگشایی شده، تغییرات گسترده‌ای در شبکه داخلی کشور درحال انجام است. پس از هفته‌ها قطعی و محدودیت، تقریباً تمام روش‌هایی که در آن دوره مورد استفاده قرار می‌گرفتند مستندسازی شده و به دست نهادهای مسئول رسیده‌اند. سیستم فیلترینگ خود را برای مرحله بعدی اختلال‌ها و قطعی‌ها آماده می‌کند و روش‌هایی مانند DNS Tunneling، MITM و Domain Fronting به احتمال زیاد در قطعی‌های آینده دیگر کارایی گذشته را نخواهند داشت.
 ‏
@@ -2837,21 +2888,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 U.S. President Trump:
-‏
-‏If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close. The Dumacrats and Media have totally lost their way. They have gone absolutely CRAZY!!! President DJT
-‏
-‏Admin note: This is the third time President Trump has posted this.  
-‏
-‏@wfwitness
-05:00
-1405/03/12
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn Tue, 02 Jun 2026 01:30:28 UTC  President Trump @POTUS: "If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons…
@@ -2949,16 +2985,6 @@ src :@World_Newsly
 src :@GeoPWatch
 [عکس]
 ‏#NEW 🇺🇸❌🇮🇱- According to Axios, Donald Trump lashed out at Israeli Prime Minister Benjamin Netanyahu in an expletive-laden phone call today over Israel's escalation in Lebanon, telling him "you're fucking crazy," according to two US officials and a third source…
-04:47
-1405/03/12
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇱🇧🇮🇱 For the first time in recent days, southern Lebanon has been calm for the last few hours with the most recent Israeli strike occurring around three hours ago and the last Hezbollah attack occurring around two and a half hours ago.
-‏
-‏@wfwitness
 04:47
 1405/03/12
 
@@ -7049,20 +7075,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://www.youtube.com/watch?v=UVckHHeWXw8
 12:50
-1405/03/11
-
-
-
-
-src :@MilitiaNews
-[عکس]
-‏🇮🇷🇺🇸⚡️محمد باقر قالیباف:
-‏
-‏اعمال محاصرهٔ دریایی و تشدید جنایات جنگی در لبنان توسط رژیم نسل‌کش صهیونیستی، شواهد روشن عدم پایبندی آمریکا به آتش بس است.
-‏هر انتخابی، هزینه‌ای دارد و صورتحساب آن هم از راه میرسد؛ همه چیز در نهایت سر جای خودش قرار خواهد گرفت.
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-12:49
 1405/03/11
 
 
