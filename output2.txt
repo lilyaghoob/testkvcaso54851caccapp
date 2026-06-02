@@ -1,3 +1,70 @@
+src :@tabzlive
+[عکس]
+‏🇮🇷🇰🇼🇺🇸⚡️ — Iranian ballistic missiles are targeting Ali Al-Salem Airbase in Kuwait.
+01:46
+1405/03/13
+
+
+
+
+src :@World_Newsly
+‏🔴آتش بس چی هست اصلا ؟ آتش بس نَمَدِه 
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+01:46
+1405/03/13
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇰🇼/🇮🇷/🇺🇸 NEW: Iran’s attack targeted both Camp Arifjan and Ali Al-Salem Airbase
+‏
+‏@Middle_East_Spectator
+01:44
+1405/03/13
+
+
+
+
+src :@World_Newsly
+‏🔴هم اکنون صدای انفجار در استان فارس و اصفهان 
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+01:43
+1405/03/13
+
+
+
+
+src :@World_Newsly
+‏🔴 بعضی خبرها حاکی از آن است که اردوگاه عریفجان هدف اصلی بوده
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+01:43
+1405/03/13
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏مثلی است که می‌گوید:«نو که اومد به بازار،کهنه شود دل‌آزار…»
+‏
+‏#تنذ
+‏
+‏@P_raetorio
+01:42
+1405/03/13
+
+
+
+
 src :@rus_cosmos
 ‏دو موشک از اطراف داراب (استان فارس) به سمت کشور کویت شلیک شد.
 ‏
@@ -666,26 +733,6 @@ src :@MilitiaNews
 
 
 
-src :@IranintlTV
-[عکس]
-‏خبرگزاری مهر از شنیده شدن صداهای انفجار در محدوده قشم در بامداد چهارشنبه خبر داد. طبق این گزارش، هنوز ماهیت این صداها مشخص نیست و هیچ‌‌یک از نهادهای رسمی نظامی تاکنون درباره علت این صداها اظهارنظر نکرده‌اند.
-‏https://iranintl.com/202606023526
-01:28
-1405/03/13
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏خبرگزاری مهر از شنیده شدن صداهای انفجار در محدوده قشم در بامداد چهارشنبه خبر داد. طبق این گزارش، هنوز ماهیت این صداها مشخص نیست و هیچ‌‌یک از نهادهای رسمی نظامی تاکنون درباره علت این صداها اظهارنظر نکرده‌اند.
-‏https://iranintl.com/202606023526
-01:28
-1405/03/13
-
-
-
-
 src :@GeoPWatch
 ‏#BREAKING ⁉️❌🇰🇼- Sirens have been activated in Kuwait.  @GeoPWatch
 01:28
@@ -873,9 +920,11 @@ src :@VahidOnline
 ‏از داراب در استان فارس پیام‌هایی درباره شلیک موشک دریافت می‌کنم. هم‌زمان اسکرین‌شات‌هایی هم از کویت دریافت می‌کنم درباره اعلام هشدار چهارشنبه ۱۳ خرداد
 ‏Vahid
 ‏ارتش کویت اعلام کرد سامانه‌های دفاعی این کشور در حال مقابله با حملات موشکی و پهپادی خصمانه هستند. 
-‏دقایقی پیش نیز گزارش‌هایی از صداهای انفجار در محدوده قشم منتشر شد.
 ‏VahidOOnLine 
-‏پیام‌های دریافتی:
+‏ستاد کل نیروهای مسلح کویت با انتشار بیانیه‌ای فوری اعلام کرد که سیستم‌های پدافند هوایی این کشور، بامداد چهارشنبه، ۱۳ خردادماه، مشغول مقابله با حملات موشکی و پهپادهای متخاصم در آسمان کویت هستند. ارتش کویت در این اطلاعیه تاکید کرد که صدای انفجارهای شنیده‌شده در مناطق مختلف، ناشی از عملیات موفقیت‌آمیز سامانه‌های دفاع جوی در رهگیری و انهدام این «اهداف متخاصم» است. مقامات نظامی کویت از تمامی شهروندان و ساکنان این کشور خواسته‌اند تا آرامش خود را حفظ کرده و به طور کامل به دستورالعمل‌های امنیتی و ایمنی صادر شده از سوی مراجع مربوطه پایبند باشند.
+‏@VahidOOnLine 
+‏
+‏پیام‌های دریافتی که پیش از اخبار بالا نقل کرده بودم:
 ‏سلام همین الان ساعت ۱:۲۳ دقیقه دوتا موشک از داراب استان فارس پرتاب شد
 ‏یکیش حین رفتن ترکید
 ‏
@@ -888,6 +937,9 @@ src :@VahidOnline
 ‏
 ‏سلام آژیر در کویت
 ‏۵ انفجار بزرگ در کویت نسبت به روزهای قبل بیشتره
+‏
+‏ما بین فسا و داراب هستیم
+‏یه صدای انفجار وحشتناک اومد ولی نفهمیدیم چیشده
 ‏
 ‏📡 @VahidOnline
 01:26
@@ -1542,14 +1594,6 @@ src :@rnintel
 
 
 
-src :@World_Newsly
-‏🔴گزارش‌ها از ثبت بالاترین نرخ تورم در ایران از زمان جنگ جهانی دوم حکایت دارد  ▪️نرخ رسمی تورم ایران در اردیبهشت‌ماه ۱۴۰۵ برای سومین ماه پیاپی رکورد هشتاد و چند ساله‌اش را شکست و به ۵۷.۷ درصد رسید.  ▪️رکورد تورم در ایران از زمان جنگ جهانی دوم تاکنون شکست ·…
-00:28
-1405/03/13
-
-
-
-
 src :@cataphract1
 ‏⚜سنتکام اعلام کرد نیروهای این کشور یک نفتکش بدون بار را که در مسیر حرکت به سمت بندر خارک در خلیج فارس بود، از کار انداخته‌اند. کشتی با پرچم بوتسوانا به هشدارهای نیروهای آمریکایی توجهی نکرد و در نتیجه یک هواپیمای آمریکایی با پرتاب موشک به موتورخانه آن، کشتی را از کار انداخت و مانع ادامه مسیرش شد.
 ‏✒️#LT
@@ -1590,18 +1634,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 00:21
-1405/03/13
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 روسیه برای جلوگیری از از انهدام و خسارات ناشی از حمله با پهپاد ها بر روی زیردریایی های خود تور قرار داده است
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-00:20
 1405/03/13
 
 
@@ -1682,18 +1714,6 @@ src :@P_raetorio
 ‏🔴سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
 ‏
 ‏@AtlasRelayFastbot
-00:10
-1405/03/13
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 در تصاویر ماهواره‌ای منتشر شده ناو هواپیمابر فورد در حال تمرین مقابله با موشک با استفاده از مانور سنگین U دیده شده است
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
 00:10
 1405/03/13
 
@@ -2105,6 +2125,16 @@ src :@didarnews1
 
 
 
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: روایت‌های متضاد در تهران و واشینگتن درباره مذاکرات
+‏@iranintlTV
+23:31
+1405/03/12
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏🔹 شرکت آمریکایی Auriga Space در حال توسعه سامانه‌ای جدید برای دفاع موشکی است که به‌جای موتورهای راکتی، از شتاب‌دهنده الکترومغناطیسی برای پرتاب رهگیرها استفاده می‌کند.
@@ -2121,6 +2151,20 @@ src :@jangaavaran1390
 ‏
 ‏https://t.me/jangaavaran1390
 23:31
+1405/03/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏به گزارش رویترز، اسکات بسنت، وزیر خزانه‌داری آمریکا، درباره تحریم‌های جدید این کشور علیه جمهوری اسلامی گفت: «در حالی که اقتصاد ایران در حال سقوط آزاد است، حکومت تصمیم گرفته فناوری دارایی‌های دیجیتال را برای دستورکار فاسد خود به کار بگیرد، از جمله برای دور زدن تحریم‌ها و انتقال ثروت از کشور.»
+‏
+‏وزارت خزانه‌داری آمریکا در بیانیه خود درباره تحریم صرافی نوبیتکس اعلام کرد که این صرافی «حمایت قابل توجهی» به جمهوری اسلامی ارائه داده و تعداد «قابل توجهی» از تراکنش‌های دیجیتال مرتبط با سپاه و بانک مرکزی ایران را تسهیل کرده است.
+‏
+‏همچنین در بیانیه وزارت خزانه‌داری آمریکا آمده است: «پس از آغاز عملیات نظامی آمریکا در ایران، نوبیتکس نقش مهمی در حفاظت و جابه‌جایی دارایی‌ها و انتقال وجوه از ایران ایفا کرد تا ثروت حکومت را حتی با وجود قطعی اینترنت محفوظ نگه دارد.»
+‏https://iranintl.com/202606028099
+23:29
 1405/03/12
 
 
@@ -3224,22 +3268,6 @@ src :@tabzlive
 ‏🇺🇸🇧🇷⚡️ — President Trump via Truth Social:
 ‏It was very nice having Flávio Bolsonaro in the Oval Office of the White House — A smart young man who loves his Country, Brazil, very much!
 21:31
-1405/03/12
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏In a sign of Strength and Fortitude, it was just announced that The White House Correspondents’ Dinner, which violently ended rather abruptly on April 25th, will be rescheduled to July 24th. 
-‏
-‏This announcement is a very good thing in that we cannot allow Lunatics to change our way of life, or even its scheduling. I was asked to be there, and speak, by Weijia Jiang, President of The White House Correspondents’ Association, and have accepted.
-‏
-‏I don’t know whether or not I will give the same rather nasty statements, at least as it concerns certain people, but we will soon find out. In any event, it will be a “HOT” ticket! 
-‏
-‏Interestingly, the location will be The Waldorf Astoria, on Pennsylvania Avenue, a Building and Ballroom that I built.
-21:30
 1405/03/12
 
 
@@ -7161,12 +7189,4 @@ src :@warmonitors
 ‏
 ‏I also spoke with representatives of the Hezbollah leadership, and they agreed to cease firing at Israel and its soldiers. Accordingly, Israel also agreed to cease firing at them.
 01:47
-1405/03/12
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱 — US President Trump and Israeli PM Netanyahu are currently speaking by phone.  @TheWarReporter
-01:43
 1405/03/12
