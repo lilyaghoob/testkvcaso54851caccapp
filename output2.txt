@@ -1,3 +1,87 @@
+src :@ClashReport
+[عکس]
+‏Trump on Canada:
+‏
+‏51st State!
+16:56
+1405/03/12
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇷 — An informed source says the US and Iran are not currently exchanging messages, and talks aimed at reaching an initial understanding have been paused for several days. 
+‏
+‏This contradicts recent statements by U.S. President Trump that negotiations are moving forward quickly.  
+‏
+‏According to the source, Iran's last message to Washington concerned developments in Lebanon.
+‏
+‏— Fars News Agency | @TheWarReporter
+16:55
+1405/03/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏خبرگزاری فارس، وابسته به سپاه پاسداران، به نقل از یک منبع آگاه نوشت که تبادل پیام بین جمهوری اسلامی و آمریکا برای آنچه دست‌یابی به یادداشت تفاهم اولیه بین تهران و واشینگتن خوانده می‌شود، دست‌کم چند روز است که متوقف شده است.
+‏
+‏فارس نوشت که درحالی‌که دیشب ترامپ مدعی شده بود که گفت‌وگوها با جمهوری اسلامی با سرعت بالایی در جریان است، آخرین پیام جمهوری اسلامی به واشینگتن، پیامی آشکار در خصوص لبنان بود که بازتاب گسترده بین‌المللی یافت.
+‏https://iranintl.com/202606020029
+16:55
+1405/03/12
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Outgoing Mossad Chief David Barnea:
+‏
+‏A change of regime in Iran is both a realistic and attainable objective.
+16:54
+1405/03/12
+
+
+
+
+src :@MilitarryWorld
+‏⭕️هم اکنون ارتش اسرائیل حملات هوایی گسترده خود را علیه دومین شهر بزرگ جنوب لبنان، نبطیه آغاز کرده است.
+‏
+‏@MilitarryWorld | Parsa
+16:54
+1405/03/12
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏مریم باباجانی، از بازداشت‌شدگان اعتراضات سراسری دی‌ماه ۱۴۰۴ در ایذه، توسط شعبه یک دادگاه انقلاب اهواز به ۳۲ سال و شش ماه و دو روز حبس محکوم شده است.
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153173
+‏
+‏ @Farsi_Iranwire
+16:54
+1405/03/12
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Poverty in Germany rose to 16.1% in 2025, affecting 13.34 million people, according to the Parity Welfare Association. 
+‏
+‏The rate increased from 15.5% in 2024 and is up by about 1.2 million people since 2023.
+‏
+‏The association warned of a "crisis-like situation" and urged the government not to cut social benefits.
+16:52
+1405/03/12
+
+
+
+
 src :@World_Newsly
 ‏🔴دور چهارم مذاکرات لبنان و اسرائیل با میانجی‌ گری آمریکا آغاز شد
 ‏
@@ -118,14 +202,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 16:43
-1405/03/12
-
-
-
-
-src :@World_Newsly
-‏🔴پاسارگاد، سرزمینِ شاهِ شاهان؛ جایی که عظمت ایران از دل تاریخ فریاد می‌زند و غرور یک ملت هنوز در ستون‌هایش زنده است 🫡 📸 جهت زیبا سازی کانال   ✍🏻 Nadershah ▪️@World_Newsly
-16:41
 1405/03/12
 
 
@@ -1183,6 +1259,21 @@ src :@World_Newsly
 
 
 
+src :@World_Newsly
+‏🔴رئیس سابق موساد در مراسم خداحافظی:
+‏
+‏اردوغان ترامپ را متقاعد کرد که عملیات نظامی به رهبری کردها را که قرار بود اولین گام در یک طرح گسترده تر علیه رژیم ایران باشد، لغو کند.
+‏
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+15:38
+1405/03/12
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏‌
@@ -1664,21 +1755,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@ClashReport
-[عکس]
-‏Hackers took over high-profile Instagram accounts — including the Obama White House account, a Space Force general, and Sephora — by simply asking Meta's AI support chatbot to change the email address on the target account.
-‏
-‏The bot complied.
-‏
-‏Meta had rolled out AI support with account recovery powers to all users in March, billing it as "solutions, not just suggestions."
-‏
-‏Source: 404 Media
-14:56
-1405/03/12
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️واشنگتن‌پست: مذاکرات ایران و آمریکا در بن‌بست است
 ‏
@@ -1787,24 +1863,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@IranintlTV
-[عکس]
-‏بر اساس اطلاعات ارسالی به ایران‌اینترنشنال، جلسه واخواهی بابک شادابی، شهروند بهائی، دوچرخه‌سوار و سفیر صلح ساکن کرج، ۱۲ خرداد در شعبه سوم دادگاه انقلاب کرج به ریاست مصطفی نریمانی برگزار شد. 
-‏
-‏به گفته منابع مطلع، بابک شادابی در پی یک سانحه رانندگی مشکوک دچار شکستگی لگن و پا شده و مدارک پزشکی قانونی مربوطه نیز به دادگاه ارائه شده است. 
-‏
-‏با وجود این شرایط جسمی، او ناچار شد در جلسه واخواهی حاضر شود؛ جلسه‌ای که در طبقه دوم ساختمان دادگاه برگزار شد و حضور در آن برای او با مشقت جدی همراه بود. 
-‏
-‏اطلاعات رسیده حاکی است، پرونده این شهروند بهائی پیش‌تر برای ۲۰ دی‌ماه ۱۴۰۴ تعیین وقت شده بود، اما به‌دلیل اعتراضات ۱۸ و ۱۹ دی برگزار نشد. با این حال، در ۲۳ دی‌ماه ۱۴۰۴، بدون حضور او و بدون امکان دفاع، حکم غیابی علیه شادابی صادر شد؛ حکمی که با اعتراض او مواجه شد. 
-‏
-‏این در حالی است که حساب‌های بانکی و خطوط تلفن همراه شادابی از مهرماه ۱۴۰۴، با وجود داشتن ضامن رسمی و بدون طی تشریفات قانونی یا صدور حکم رسمی، مسدود شده و او ممنوع‌الخروج شده است. با وجود پیگیری‌های متعدد، هیچ‌یک از این محدودیت‌ها رفع نشده است.
-‏ iranintl.com/202606025276
-14:46
-1405/03/12
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷- Jets have also been reported over:  ➡️ East Tehran;  ➡️ Southwest Iran, near Ahvaz;  ➡️ Mahidasht, western Iran.  @GeoPWatch
 14:46
@@ -1817,19 +1875,6 @@ src :@selena_updates
 [عکس]
 ‏Two IDF soldiers were lightly injured in a Hezbollah explosive drone attack in southern Lebanon this morning.
 14:45
-1405/03/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A Chinese technical briefing slide claims the PL-16 next-generation air-to-air missile will reach 300+ km range using a variable-thrust rocket motor.
-‏
-‏It also features an AESA radar seeker and two-way data link.
-‏
-‏For comparison: PL-15 domestic ~200km, US AIM-120D ~180km.
-14:43
 1405/03/12
 
 
@@ -3754,18 +3799,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 11:25
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-‏⭕️یدیعوت آحارونوت: ارتش اسرائیل تحقیقاتی را درباره چگونگی موفقیت پهپادهای حزب الله در رسیدن به نیروهایش در طول شب آغاز کرده است
-‏
-‏ارتش اسرائیل تعداد وسایل نقلیه سنگین خود را در لبنان کاهش داده است پس از اینکه این وسایل به اهدافی برای پهپادهای حزب الله تبدیل شدند
-‏
-‏@MilitarryWorld | Parsa
-11:21
 1405/03/12
 
 
@@ -5935,26 +5968,6 @@ src :@Shin_Persian
 
 
 
-src :@Shin_Persian
-‏↩️ Quoted tweet:
-‏Open Source Intel ✓ @Osint613
-‏Mon, 01 Jun 2026 17:32:55 UTC
-‏
-‏Trump: “I had a very productive call with Prime Minister Bibi Netanyahu, of Israel, and there will be no Troops going to Beirut, and any Troops that are on their way, have already been turned back. Likewise, through highly placed Representatives, I had a very good call with
-‏
-‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
-‏
-‏فارسی
-‏
-‏ترامپ: «من تماس بسیار سازنده‌ای با بی‌بی نتانیاهو، نخست‌وزیر اسرائیل داشتم و هیچگونه نیروی نظامی (نیروهای ارتش) به بیروت اعزام نخواهد شد، و هر نیرویی که در راه بوده، در حال حاضر بازگردانده شده است. به همین ترتیب، از طریق نمایندگان عالی‌رتبه، تماس بسیار خوبی با...»
-‏
-‏𝕏  ·  @shin_persian
-00:44
-1405/03/12
-
-
-
-
 src :@didarnews1
 ‏🔴طبق برخی گزارش ها و علی رغم ادعای ترامپ، همچنان شلیک راکت توسط حزب الله به شمال اسرائیل و حملات هوایی اسرائیل علیه شهرهای جنوبی لبنان ادامه دارد 
 ‏
@@ -7424,33 +7437,9 @@ src :@Parvazdaroj
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏هم‌زمان با تشدید حملات نظامی اسراییل به لبنان، مقام‌های جمهوری اسلامی بار دیگر تاکید کردند که هرگونه آتش‌بس میان ایران و آمریکا باید شامل همه جبهه‌های درگیری، به‌ویژه لبنان، باشد و هشدار دادند ادامه حملات به این کشور می‌تواند پیامدهایی در پی داشته باشد.
-‏بنیامین نتانیاهو، نخست‌وزیر اسراییل، روز دوشنبه ۱۱ خرداد ۱۴۰۵، اعلام کرد که به ارتش این کشور دستور داده است اهداف متعلق به حزب‌الله در ضاحیه، حومه جنوبی بیروت، را هدف قرار دهد. او در یک پیام ویدیویی گفت: «هیچ وضعیتی وجود نخواهد داشت که حزب‌الله شهرها و شهروندان ما را هدف قرار دهد اما مقرهای تروریستی آن در ضاحیه بیروت از حمله مصون بماند.»
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153135
-‏
-‏ @Farsi_Iranwire
-17:22
-1405/03/11
-
-
-
-
 src :@MilitiaNews
 ‏🇮🇷⚡️ خبرگزاری تسنیم جمهوری اسلامی: تا زمانی که خواسته‌های ایران مبنی بر توقف عملیات اسرائیل در لبنان و غزه برآورده نشود، هیچ‌گونه مذاکره‌ای صورت نخواهد گرفت
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 16:58
-1405/03/11
-
-
-
-
-src :@rus_cosmos
-‏ایران به دلیل تهدیدهای اسرائیل برای حمله به بیروت، تمام مذاکرات با ایالات متحده را به حالت تعلیق درآورده است.
-‏
-‏ایران خواستار توقف کامل تمام عملیات نظامی در غزه و لبنان است.
-16:55
 1405/03/11
