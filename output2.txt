@@ -1,8 +1,174 @@
+src :@Artemis_Force
+‏حملات هوایی به جزیره قشم
+‏
+‏@artemis_force
+03:01
+1405/03/13
+
+
+
+
+src :@P_raetorio
+‏فعالیت پدافند عربستان    @P_raetorio
+03:01
+1405/03/13
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷- Fighter jets are active over Tehran.  @GeoPWatch
+03:00
+1405/03/13
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷🇮🇷❌🌞- The Iranian Air Force has conducted airstrikes on Iranian-Kurdish opposition groups.  @GeoPWatch
+02:59
+1405/03/13
+
+
+
+
+src :@World_Newsly
+‏🔴خبرهایی از حملات جمهوری اسلامی ایران به عربستان    ✍🏻 Nadershah ▪️@World_Newsly
+02:59
+1405/03/13
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇧🇭🚫❗️ — The Kingdom of Bahrain’s airspace has been completely closed to all air traffic from 03:30 UTC until 16:00 UTC, with only limited pre-approved departures permitted.
+02:59
+1405/03/13
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released their last statement regarding operations targeting Israeli forces across southern Lebanon for the day:
+‏
+‏In response to Israeli ceasefire violations on southern Lebanon, which resulted in civilian casualties, we targeted a second Israeli Merkava tank in the town of Bayada at 22:45 with a guided missile.
+‏
+‏@wfwitness
+02:59
+1405/03/13
+
+
+
+
+src :@mwarmonitor
+‏حمله موشکی به دبی
+02:59
+1405/03/13
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️ بحرین آسمان خود را از ساعت ۰۳:۳۰ تا ۱۶:۰۰ به وقت UTC برای تمام ترافیک هوایی بسته است.
+‏
+‏@MilitarryWorld | Maverick
+02:59
+1405/03/13
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏آسمان کویت هم کلیر شد.
+02:59
+1405/03/13
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏Tue, 02 Jun 2026 23:29:02 UTC
+‏
+‏Jet activity over Ilam Province, #Iran
+‏
+‏فارسی
+‏
+‏فعالیت جنگنده‌ها بر فراز استان ایلام، #Iran
+‏
+‏𝕏  ·  @shin_persian
+02:59
+1405/03/13
+
+
+
+
+src :@World_Newsly
+‏🔴 بحرین حریم هواییش رو بست   ✍🏻 exxon ▪️@World_Newsly
+02:58
+1405/03/13
+
+
+
+
+src :@P_raetorio
+‏کویت و امارات حریم هوایی خود را بستند 
+‏
+‏
+‏@P_raetorio
+02:58
+1405/03/13
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏إغلاق المجال الجوي كليا في الكويت
+02:58
+1405/03/13
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر
+02:57
+1405/03/13
+
+
+
+
 src :@GeoPWatch
 ‏🇮🇷❌🇧🇭🇦🇪🇰🇼🇺🇸- Kuwait and the UAE have also reportedly closed their airspace.
 ‏
 ‏@GeoPWatch
 02:57
+1405/03/13
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇬🇧⚡- More footage from the Henry Nowak protests showing trash bins and other projectiles being lobbed at the Southampton police, which leads to them fleeing from the protesters.
+02:57
+1405/03/13
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏با خیال راحت بخوابید،آتش‌بس نقض نشده است.
+‏
+‏@P_raetorio
+02:56
 1405/03/13
 
 
@@ -331,16 +497,6 @@ src :@intelslava
 
 
 
-src :@MilitiaNews
-‏حملات سپاه به امارات و دبی 
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-02:52
-1405/03/13
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️فوری از مهر/ انفجارهایی در جزیره قشم ایران در خلیج فارس.
 ‏
@@ -389,7 +545,7 @@ src :@intelslava
 
 
 src :@MilitiaNews
-‏حملات موشکی سپاه به عربستان سعودی
+‏🇸🇦🇮🇷⚡️حملات موشکی سپاه به عربستان سعودی
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 02:51
@@ -660,14 +816,6 @@ src :@naya_foriraq
 
 
 src :@rnintel
-‏🇮🇷🇸🇦⚡️- BREAKING: ALERTS IN SAUDI ARABIA!
-02:46
-1405/03/13
-
-
-
-
-src :@rnintel
 ‏🇮🇷⚡- BREAKING: Initial reports of an Iranian strike on a vessel in the Strait of Hormuz.
 02:46
 1405/03/13
@@ -677,16 +825,6 @@ src :@rnintel
 
 src :@rnintel
 ‏🇮🇷🇮🇶⚡- Iranian arrivals in Erbil, Iraq's Kurdistan region.
-02:46
-1405/03/13
-
-
-
-
-src :@wfwitness
-‏⚡️🇸🇦 Alerts in Saudi Arabia
-‏
-‏@wfwitmess
 02:46
 1405/03/13
 
@@ -829,7 +967,7 @@ src :@World_Newsly
 
 
 src :@tabzlive
-‏🇮🇷🇧🇭⚡️ — NEW: Iran has launched Shahed-136 kamikaze drones towards Bahrain.
+‏🇮🇷🇧🇭⚡️ — NEW: Iran has reportedly launched Shahed-136 kamikaze drones towards Bahrain.
 02:42
 1405/03/13
 
@@ -886,7 +1024,7 @@ src :@mwarmonitor
 
 
 src :@tabzlive
-‏🇮🇷🇧🇭⚡️ — NEW: Iran has launched Shahed-136 kamikaze drones towards Bahrain.
+‏🇮🇷🇧🇭⚡️ — NEW: Iran has reportedly launched Shahed-136 kamikaze drones towards Bahrain.
 02:41
 1405/03/13
 
@@ -905,14 +1043,6 @@ src :@wfwitness
 [عکس]
 ‏Wheres da ceasefire?
 02:41
-1405/03/13
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
-02:40
 1405/03/13
 
 
@@ -960,14 +1090,6 @@ src :@World_Newsly
 ‏✍🏻 Dangerman
 ‏▪️@World_Newsly
 02:40
-1405/03/13
-
-
-
-
-src :@naya_foriraq
-‏تجدد دوي صافرات الإنذار في البحرين
-02:39
 1405/03/13
 
 
@@ -1070,16 +1192,6 @@ src :@World_Newsly
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇰🇼/🇺🇸 BREAKING: A new wave towards Kuwait 
-‏
-‏@Middle_East_Spectator
-02:37
-1405/03/13
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇱🇱🇧 Israeli Jets over Beirut
 ‏
@@ -1106,16 +1218,6 @@ src :@ClashReport
 
 src :@rnintel
 ‏🇮🇷🇰🇼🇧🇭⚡- Renewed alerts in Kuwait and Bahrain, with sounds of interceptions ongoing over the Kuwaiti sky.
-02:36
-1405/03/13
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇰🇼🇺🇸- Renewed attack on Kuwait.
-‏
-‏@GeoPWatch
 02:36
 1405/03/13
 
@@ -1166,39 +1268,6 @@ src :@cataphract1
 src :@wfwitness
 ‏Reports of strikes in Iraqi Kurdistan
 02:35
-1405/03/13
-
-
-
-
-src :@World_Newsly
-‏🔴 آژیرهای هشدار بار دیگر در بحرین به صدا درآمد
-‏
-‏رسانه‌های منطقه‌ای گزارش دادند آژیرهای هشدار بار دیگر در مناطق مختلف بحرین فعال شده‌اند.
-‏
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
-02:35
-1405/03/13
-
-
-
-
-src :@World_Newsly
-‏🔴 بیانیه سپاه: زمان ضربه زدن و فرار کردن تمام شده است  ✍🏻 exxon ▪️@World_Newsly
-02:35
-1405/03/13
-
-
-
-
-src :@World_Newsly
-‏🔴تاکنون ۸ انفجار در بحرین گزارش شده است
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-02:34
 1405/03/13
 
 
@@ -1643,17 +1712,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@P_raetorio
-‏آژیر خطر در بحرین به صدا درآمده است 
-‏
-‏
-‏@P_raetorio
-02:23
-1405/03/13
-
-
-
-
 src :@cataphract1
 ‏#فوری 
 ‏
@@ -1714,19 +1772,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@P_raetorio
-‏#فوری 
-‏
-‏اخبار تاییدنشده از انفجار در بحرین 
-‏
-‏
-‏@P_raetorio
-02:22
-1405/03/13
-
-
-
-
 src :@wfwitness
 ‏ALERTS BAHRAIN
 02:22
@@ -1747,14 +1792,6 @@ src :@MilitarryWorld
 
 src :@mwarmonitor
 ‏💥انفجار در بحرین
-02:21
-1405/03/13
-
-
-
-
-src :@P_raetorio
-‏https://t.me/Minas_Tirith2024/11519
 02:21
 1405/03/13
 
@@ -2312,6 +2349,14 @@ src :@rnintel
 
 
 
+src :@Middle_East_Spectator
+‏There are no explosions in Esfahan.
+01:58
+1405/03/13
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏🔴وزارت دفاع کویت اعلام کرد که پدافند هوایی کویت در حال حاضر درگیر مقابله با حملات خصمانه موشکی و پهپادی است.
@@ -2448,16 +2493,6 @@ src :@IranintlTV
 ‏دقایقی پیش نیز گزارش‌هایی از صداهای انفجار در محدوده قشم منتشر شد.
 ‏
 ‏https://iranintl.com/202606022811
-01:40
-1405/03/13
-
-
-
-
-src :@MilitarryWorld
-‏🚨یک منبع کویتی به می‌گوید که چند انفجار در جنوب‌تر کویت گزارش شده است، به این معنی که پایگاه هوایی علی السالم ممکن است هدف اصلی نبوده باشد، بلکه احتمالاً کمپ عریفجان هدف بوده است.
-‏
-‏@MilitarryWorld | Parsa
 01:40
 1405/03/13
 
@@ -2974,31 +3009,6 @@ src :@IranintlTV
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 21:46:22 UTC
-‏
-‏State-owned Mehr News
-‏
-‏Explosion sounds reported in Qeshm Island area, Hormozgan Province, #Iran
-‏
-‏Local sources report multiple explosions heard early Wednesday. Nature of sounds unclear, no official statement from Islamic Regime military or police authorities.
-‏
-‏فارسی
-‏
-‏خبرگزاری دولتی مهر
-‏
-‏گزارش‌هایی از شنیده شدن صدای انفجار در محدوده جزیره قشم، استان هرمزگان، #Iran
-‏
-‏منابع محلی از شنیده شدن صدای چندین انفجار در ساعات اولیه روز چهارشنبه خبر می‌دهند. ماهیت این صداها هنوز مشخص نیست و هیچ بیانیه رسمی از سوی مقامات نظامی یا انتظامی رژیم اسلامی صادر نشده است.
-‏
-‏𝕏  ·  @shin_persian
-01:16
-1405/03/13
-
-
-
-
 src :@tabzlive
 ‏🇮🇷⚡️ — Explosions have been heard on Iran's Qeshm Island, according to Mehr News Agency.
 ‏
@@ -3094,18 +3104,6 @@ src :@DEJradio
 ‏#فردو
 ‏@DEJradio
 00:58
-1405/03/13
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏شرکت‌های مختلف چه تعداد ماهواره در فضا دارند.
-‏
-‏
-‏@rus_cosmos
-00:57
 1405/03/13
 
 
@@ -4268,17 +4266,6 @@ src :@mohem_mat
 
 
 
-src :@mwarmonitor
-‏🔴 رسانه‌های آمریکایی: سازمان اطلاعات مرکزی آمریکا (CIA) مشارکت خود را در برخی از ارزیابی‌های اطلاعاتی دفتر مدیر اطلاعات ملی آمریکا متوقف کرده است؛ از جمله ارزیابی‌هایی که به جنگ ایران مربوط می‌شود. این اقدام در پی اختلافی یک‌ساله میان دو نهاد بر سر دامنه کار و حدود وظایف انجام شده است.
-‏
-‏
-‏@mwarmonitor
-21:10
-1405/03/12
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Rep. Andy Ogles:
@@ -4580,23 +4567,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153188
 ‏
 ‏ @Farsi_Iranwire
-20:35
-1405/03/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏Fake News Reports that the Islamic Republic of Iran, and the U.S.A., stopped speaking a few days ago are false and erroneous. 
-‏
-‏The conversations between us have been going on continuously, including four days ago, three days ago, two days ago, one day ago, and today. 
-‏
-‏Where they lead, one never knows, but as I told Iran, 'It's time, one way or another, for you to make a Deal. 
-‏
-‏You've been doing this for 47 years, and it cannot be allowed to go on any longer!
 20:35
 1405/03/12
 
@@ -5533,19 +5503,6 @@ src :@defence_news
 [عکس]
 ‏بر اساس اعلام کانال تلگرامی فایتر بامبر نزدیک به نیروی هوایی روسیه ، یک فروند هواپیمای آواکس A-50U از موجودی های قدیمی تر در این کشور بعد از اورهال و انجام مدرن سازی های مربوط به نیروی هوایی این کشور تحویل شد.  🇮🇷📝 @defence_news 📝🇮🇷
 18:04
-1405/03/12
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇧🇭❌🇮🇷🇮🇶🇮🇷 — The Kingdom of Bahrain’s Ministry of the Interior announces a total a ban on its citizens travel to Iran and Iraq.
-‏
-‏Due to the continued security tensions, resulting from the Iranian aggression, and out of keenness to safeguard national security and the safety of all citizens, the Interior Ministry has announced that citizens are banned from travelling to Iran and Iraq until further notice.
-‏
-‏The Interior Ministry affirmed that the necessary legal action would be taken against violators.
-18:02
 1405/03/12
 
 
@@ -7089,19 +7046,6 @@ src :@ircfspace
 
 
 
-src :@Artemis_Force
-[عکس]
-‏خرید رهگیر «استاندارد-6» به نفع نیروی دریایی کره جنوبی 
-‏
-‏آژانس خریدهای دفاعی جمهوری کره (DAPA)  اعلام کرد رهگیر های «استاندارد-6» برای نیروی دریایی تا سال 2034 تکمیل شده است. ذکر شده است که این موشک‌ها بر روی ناوشکن‌های در حال ساخت و موجود نصب خواهند شد. هزینه تخمینی این قرارداد 351.5 میلیون دلار است.
-‏
-‏@artemis_force
-08:03
-1405/03/12
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 ۲ پاسدار در قم براثر انفجار پرتابه‌های باقی‌مانده از جنگ به شهادت رسیدند
@@ -7189,22 +7133,4 @@ src :@tglobaleye
 ‏
 ‏🇪🇺 Legion Europa | Group Chat
 07:34
-1405/03/12
-
-
-
-
-src :@Mena_Live
-‏Syrian Media: 
-‏
-‏“The appoinment of Tom Barrack as a presidential envoy to both Syria and Iraq will be:
-‏
-‏✅️ The end of Iranian influence in Syria and Iraq.
-‏✅️ Putting an end to separatist dreams and projects in the region.
-‏✅️ Strengthening the authority of the central state and imposing greater centralization in the governance of the country.
-‏✅️ Restricting weapons to the state and its official institutions only.
-‏✅️ Dealing with the Syrian and Iraqi issues as a single interconnected regional vision, rather than as two separate issues.”
-‏
-‏@Mena_Live
-02:57
 1405/03/12
