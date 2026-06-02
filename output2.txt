@@ -1,7 +1,71 @@
+src :@Artemis_Force
+[عکس]
+‏ناو هواپیمابر «نیمیتز» (CVN 68) نیروی دریایی ایالات متحده در 1 ژوئن 2026 در نزدیکی بندر شهر کینگستون (جامائیکا)
+‏
+‏
+‏@artemis_force
+09:16
+1405/03/12
+
+
+
+
+src :@ClashReport
+‏The U.S. is considering deploying nuclear-capable assets to additional NATO countries in Europe. 
+‏
+‏While no agreement is expected soon, Poland and some Baltic states are reportedly interested in hosting bases for dual-capable aircraft that can carry nuclear weapons.
+‏
+‏Source: FT
+09:13
+1405/03/12
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸🇮🇱"You're fucking crazy!" Trump sharply criticized Netanyahu after the decision to expand the military operation in Lebanon.
+‏
+‏This was reported by Axios, citing American officials.
+‏
+‏According to one of the publication's sources, the US president told the Israeli prime minister: "You're fucking crazy. You'd be in jail if it weren't for me. I'm saving your ass. Right now, everyone hates you. Everyone hates Israel because of this."
+‏
+‏As Axios reports, the conversation took place after Netanyahu ordered strikes on the southern suburbs of Beirut and expanded the ground operation in Lebanon in response to Hezbollah's attacks on northern Israel.
+‏
+‏Amid the escalation, Iran threatened to withdraw from negotiations with the US. However, according to CNN, the consultations between the parties resumed a few hours later.
+‏
+‏@Intelslava
+09:13
+1405/03/12
+
+
+
+
 src :@mwarmonitor
 ‏🔴بر اساس داده‌های ردیابی کشتی‌ها، یکی از بزرگ‌ترین اپراتورهای نفتکش یونان از پایان ماه فوریه تاکنون دست‌کم هشت کشتی را از تنگه عبور داده است. تحرکات اخیر شناورهای این شرکت چه چیزی را نشان می‌دهد؟ فیننشال تایمز 
 ‏
 ‏@mwarmonitor
+09:12
+1405/03/12
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴آخرین قیمت نفت ۹۴.۰۹ دلار 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+09:12
+1405/03/12
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱🇱🇧🇱🇧 — US President Trump:  "I had a very productive call with PM Netanyahu, and there will be no troops going to Beirut, and any troops that are on their way, have already been turned back.   Likewise, through highly placed representatives, I had a very…
 09:12
 1405/03/12
 
@@ -145,7 +209,7 @@ src :@IranintlTV
 src :@didarnews1
 ‏🔴اکسیوس:
 ‏
-‏🔹 ترامپ در تماس تلفنی با نتانیاهو یهو عصبانی شد و بهش گفت تو کاملا دیوانه ای اگر من نبودم تو زندانی بودی همه از تو متنفرند  همه بخاطر این موضوع (لبنان) از اسرائیل متنفرند
+‏🔹 ترامپ در تماس تلفنی با نتانیاهو  عصبانی شد و به او گفت تو کاملا دیوانه ای اگر من نبودم تو زندانی بودی همه از تو متنفرند  همه بخاطر این موضوع (لبنان) از اسرائیل متنفرند
 ‏
 ‏
 ‏#دیدار_نیوز
@@ -898,7 +962,7 @@ src :@Middle_East_Spectator
 
 src :@VahidOnline
 [عکس]
-‏پست ترامپ علیه بعضی از رسانه‌ها
+‏ترامپ برای سومین بار این متن رو علیه بعضی از رسانه‌ها پست کرد.
 ‏
 ‏ترجمه ماشین:
 ‏اگر ایران تسلیم شود، اعتراف کند که نیروی دریایی‌اش از بین رفته و در کف دریا آرام گرفته، و نیروی هوایی‌اش دیگر در میان ما نیست؛ و اگر تمام ارتشش از تهران بیرون بیاید، سلاح‌ها را زمین بیندازد و دست‌ها را بالا ببرد، در حالی که هرکدام فریاد می‌زنند «تسلیمم، تسلیمم» و دیوانه‌وار پرچم سفیدِ نمادین را تکان می‌دهند؛ و اگر همه رهبران باقی‌مانده‌اش تمام «اسناد تسلیم» لازم را امضا کنند و شکست خود را در برابر قدرت و نیروی عظیم ایالات متحده باشکوه آمریکا بپذیرند، نیویورک تایمزِ رو به افول، چاینا استریت ژورنال — یعنی وال‌استریت ژورنال! — سی‌ان‌انِ فاسد و حالا بی‌اهمیت، و همه اعضای دیگر رسانه‌های اخبار جعلی، تیتر خواهند زد که ایران یک پیروزی استادانه و درخشان بر ایالات متحده آمریکا به دست آورد؛ اصلا هم رقابت نزدیکی نبود. دموکرات‌های احمق و رسانه‌ها کاملا راهشان را گم کرده‌اند. آن‌ها کاملا دیوانه شده‌اند!!!
@@ -3566,29 +3630,6 @@ src :@didarnews1
 
 
 
-src :@defence_news
-‏🚨جام جهانی با چالش پنجاه میلیون تومانیی🎁  بزودی شروع میشود(هیر وی گو😂)  شرایط شرکت در چالش:1عضویت در کانال -2عضویت در گروه کانال  🇪🇸@Madridism_IR🇪🇸
-23:46
-1405/03/11
-
-
-
-
-src :@defence_news
-[عکس]
-‏🚨جام جهانی با چالش پنجاه میلیون تومانیی🎁
-‏
-‏بزودی شروع میشود(هیر وی گو😂)
-‏
-‏شرایط شرکت در چالش:1عضویت در کانال -2عضویت در گروه کانال
-‏
-‏🇪🇸@Madridism_IR🇪🇸
-23:46
-1405/03/11
-
-
-
-
 src :@rnintel
 ‏🇬🇧⚡️- Nigel Farage has called for the release of the Henry Nowak murder bodycam footage. 
 ‏
@@ -4249,18 +4290,6 @@ src :@thewarreporter
 
 src :@tglobaleye
 ‏🌲 - 🇺🇸🇱🇧 Recent reports indicate intensive US–Saudi diplomatic contacts took place over the past hours, including communication with Lebanon’s three presidencies, alongside a proposed ceasefire framework discussed at the Lebanese Embassy in Washington suggesting a halt to Israeli strikes on Beirut’s southern suburbs in exchange for Hezbollah refraining from attacks on Israel, with further negotiations scheduled for Tuesday and Wednesday to build on the reported progress.
-22:36
-1405/03/11
-
-
-
-
-src :@ClashReport
-‏The Trump administration plans to abandon a proposed $1.8 billion fund intended to compensate alleged victims of government “weaponization.”
-‏
-‏The fund, created as part of a settlement between Trump and the IRS over leaked tax returns, faced bipartisan criticism.
-‏
-‏Source: Axios
 22:36
 1405/03/11
 
@@ -6046,21 +6075,6 @@ src :@rus_cosmos
 
 
 
-src :@didarnews1
-‏🔴سنتکام:
-‏
-‏🔹 آمریکا دو موشک بالستیک ایرانی که نیروهای آمریکایی مستقر در کویت را هدف قرار داده بود، رهگیری کرد. موشک‌ها بلافاصله منهدم شدند و هیچ پرسنل آمریکایی آسیب ندید.
-‏فرماندهی مرکزی ایالات متحده ضمن حمایت از آتش‌بس، به محافظت از نیروهایش ادامه خواهد داد.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-19:19
-1405/03/11
-
-
-
-
 src :@Mena_Live
 ‏Iran's Central Military Command: If Israel carries out attacks in Beirut, we warn the residents of northern Israel to evacuate if they do not want to be harmed
 ‏
@@ -6398,20 +6412,6 @@ src :@Farsi_Iranwire
 ‏
 ‏ @Farsi_Iranwire
 17:22
-1405/03/11
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇱🇧🇱🇧🇮🇷 — Iran says it is suspending indirect message exchanges with the US over ongoing Israeli military operations in Gaza Strip and Lebanon.
-‏
-‏Tehran says talks will not resume unless Israeli operations cease and forces withdraw from areas in Lebanon.
-‏
-‏Iranian officials also said Iran and allied groups are considering increasing pressure, including possible disruption of key maritime routes such as the Strait of Hormuz and the Bab-el-Mandeb.
-‏
-‏— Tasnim News Agency | @TheWarReporter
-17:10
 1405/03/11
 
 
@@ -7337,6 +7337,28 @@ src :@rus_cosmos
 ‏
 ‏https://www.karzar.net/322722
 11:38
+1405/03/11
+
+
+
+
+src :@defence_news
+‏به نظر بنده مسئله #حجاب و #اینترنت دو بحثی است که احتمال زیاد دارد گسل آن در ماه های آینده فعال شود. به قولی در هر صورت آقایان می دانند و این مملکت ! 
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+11:17
+1405/03/11
+
+
+
+
+src :@defence_news
+‏همانگونه که آذر ماه در باب تحولات و در قالب لایو های خصوصی متذکر شده بودیم
+‏
+‏اکنون هم متذکر می‌شویم ، هیزم آتش  پخت و پز فرقه های فعال ایران، تن و جان مردم بی گناه ایران است، هیزم این آتش نباید بود
+‏
+‏و امید است که این آتش بزودی دامنگیر خود این افراد گردد
+11:16
 1405/03/11
 
 
