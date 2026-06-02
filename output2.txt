@@ -1,16 +1,105 @@
-src :@Farsi_Iranwire
-[عکس]
-‏دادستان اسلامشهر از بازداشت ۱۰۰ نفر در این شهرستان در جریان درگیری‌های نظامی اخیر خبر داد و مدعی شد این افراد به دلیل ارتباط با آنچه «شبکه‌های معاند» خوانده شده، بازداشت شده‌اند.
-‏بیشتر: https://iranwire.com/fa/news-1/153167
+src :@mohem_mat
+‏بانک مرکزی:
 ‏
-‏@Farsi_Iranwire
-14:30
+‏کارت‌به‌کارت بین‌بانکی از ۱۰ میلیون تومان به ۱۵ میلیون تومان افزایش یافت 
+‏
+‏سقف خرید با کارت بانکی به ۴۰۰ میلیون تومان رسید.
+‏
+‏در حوزه انتقال وجه غیرحضوری نیز سقف حساب‌های غیرتجاری به ۳۰۰ میلیون تومان و حساب‌های تجاری به یک میلیارد تومان افزایش یافته است. 
+‏
+‏انتقال از طریق «پایا» و «ساتنا» همچنان تا سقف ۲۰۰ میلیون تومان انجام می‌شود.
+‏
+‏سقف برداشت نقدی از خودپرداز‌ها نیز ۵۰۰ هزار تومان تعیین شده است.
+‏
+‏@mohem_mat
+14:37
 1405/03/12
 
 
 
 
-src :@defence_news
+src :@didarnews1
+‏🔴کارت‌به‌کارت بین‌بانکی از ۱۰ میلیون تومان به ۱۵ میلیون تومان افزایش یافت
+‏
+‏بانک مرکزی: 
+‏
+‏🔹سقف خرید با کارت بانکی به ۴۰۰ میلیون تومان رسید.
+‏
+‏🔹در حوزه انتقال وجه غیرحضوری نیز سقف حساب‌های غیرتجاری به ۳۰۰ میلیون تومان و حساب‌های تجاری به یک میلیارد تومان افزایش یافته است. 
+‏
+‏🔹انتقال از طریق «پایا» و «ساتنا» همچنان تا سقف ۲۰۰ میلیون تومان انجام می‌شود.
+‏
+‏🔹سقف برداشت نقدی از خودپرداز‌ها نیز ۵۰۰ هزار تومان تعیین شده است.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+14:35
+1405/03/12
+
+
+
+
+src :@Indypersian
+‏⭕️پیرترین تیم جام جهانی؛ قلعه‌نویی زیر سایه اتهام فساد مالی جوانان را کنار گذاشت
+‏
+‏📌حشمت مهاجرانی درحالی تیم ایران را به قهرمانی آسیا و جام جهانی ۱۶ تیمه رساند که معدل سنی تیمش تنها ۲۳ سال بود
+‏
+‏♦️امیر قلعه‌نویی، سرمربی تیم فوتبال ایران، سرانجام فهرست نهایی ۲۶ نفره این تیم برای حضور در جام جهانی ۲۰۲۶ را اعلام کرد؛ فهرستی که تیم ایران را در صدر فهرست پیرترین تیم‌های حاضر در میان ۴۸ تیم این رقابت‌ها قرار داده است.
+‏
+‏بیشتر بخوانید...
+‏
+‏✍️ امیرحسین میراسماعیلی
+‏@indypersian
+14:35
+1405/03/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏سایت هرانا گزارش داد مریم باباجانی، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ در ایذه، از سوی شعبه اول دادگاه انقلاب اهواز، در مجموع به ۳۲ سال و شش ماه و دو روز حبس محکوم شده است. 
+‏
+‏طبق این گزارش، باباجانی بابت دو اتهام «امنیتی» به ۲۰ سال و یک روز حبس و ۱۲ سال و شش ماه و یک روز زندان محکوم شده است. در حکم صادرشده، اتهاماتی با استناد به قانون «تشدید مجازات جاسوسی» علیه او مطرح شده است. 
+‏
+‏هرانا به نقل از یک منبع مطلع نزدیک به خانواده باباجانی، نوشت پس از صدور این حکم، حسین‌علی حاتمی، وکیل مدافع او، درخواست فرجام‌خواهی نسبت به رای صادره را ثبت کرده است. مریم باباجانی اواخر دی‌ماه ۱۴۰۴ در ایذه بازداشت شد و مدتی بعد با تودیع وثیقه ۱۰ میلیارد تومانی از زندان آزاد شد.
+‏ iranintl.com/202606028242
+14:34
+1405/03/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏وزارت خارجه اسرائیل در شبکه ایکس اعلام کرد با وجود اعلام دوباره آتش‌بس در ۱۱ خرداد، حزب‌الله همچنان آن را نقض می‌کند.
+‏
+‏این وزارتخانه اعلام کرد حزب‌الله که آن را گروه نیابتی جمهوری اسلامی خواند، شامگاه دوشنبه چندین حمله موشکی و پهپادی از لبنان علیه مناطق مسکونی اسرائیل انجام داده است.
+‏
+‏وزارت خارجه اسرائیل افزود ادامه نقض آتش‌بس از سوی حزب‌الله «غیرقابل قبول» است.
+‏https://iranintl.com/202606020197
+14:33
+1405/03/12
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴وزیر دفاع اسرائیل، اسرائیل کاتز:در لبنان، آتش‌بس وجود ندارد و نیروهای دفاعی اسرائیل به عملیات خود علیه حزب‌الله ادامه می‌دهند
+‏
+‏#اسرائیل #حزب_الله #لبنان
+‏#خاور_میانه #جنگ #ترامپ
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+14:33
+1405/03/12
+
+
+
+
+src :@P_raetorio
 [عکس]
 ‏انحلال و تحویل سلاح 
 ‏
@@ -30,7 +119,23 @@ src :@defence_news
 ‏«ما بخشی از نیروهای مسلح عراق هستیم و همیشه خواهیم بود.»
 ‏
 ‏@Minas_Tirith2024
-14:29
+14:32
+1405/03/12
+
+
+
+
+src :@World_Newsly
+‏🔴 کانال ۱۲ اسرائیل: گزارش تهدید شخصی ترامپ علیه نتانیاهو صحت ندارد
+‏
+‏شبکه ۱۲ اسرائیل به نقل از یک منبع در دفتر نخست‌وزیر اسرائیل گزارش داد ادعاها درباره اینکه دونالد ترامپ در تماس تلفنی اخیر، نتانیاهو را درباره زندان یا محبوبیت جهانی‌اش تهدید کرده، صحت ندارد.
+‏بر اساس این گزارش، تماس میان ترامپ و نتانیاهو پرتنش بوده، اما محور اصلی آن اختلاف دو طرف بر سر پیام‌هایی بوده که پس از گفت‌وگوی قبلی خود در شبکه‌های اجتماعی منتشر کرده بودند.
+‏ترامپ معتقد بوده پیام نتانیاهو این برداشت را ایجاد کرده که جنگ با همان شدت ادامه خواهد یافت، در حالی که نتانیاهو نیز از این موضوع ناراضی بوده که پیام ترامپ این تصور را به وجود آورده که اسرائیل در همه جبهه‌ها آتش‌بس را پذیرفته است.
+‏به گفته این منبع، ترامپ در جریان گفت‌وگو تاکید کرده که دفاع از مواضع اسرائیل در عرصه بین‌المللی روزبه‌روز دشوارتر می‌شود و این موضوع باعث افزایش فشارها و انتقادها علیه اسرائیل شده است.
+‏
+‏✍🏻 Cybex
+‏▪️@World_Newsly
+14:32
 1405/03/12
 
 
@@ -80,27 +185,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 14:27
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-‏⭕️کنایه معاون عراقچی به انصراف نتانیاهو از حمله به بیروت با تماس ترامپ:
-‏
-‏اگر تصمیم حمله با یک تماس تغییر می‌کند، چرا ماه‌ها نقض آتش‌بس ادامه یافت!
-‏
-‏@MilitarryWorld | Parsa
-14:25
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇱❌🇱🇧🇱🇧- Israel continues to bombard southern Lebanon, with Nabatieh al-Fawqa struck within the past 10 minutes and numerous other towns also coming under attack in recent hours.
-14:25
 1405/03/12
 
 
@@ -184,22 +268,6 @@ src :@Mena_Live
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌🇱🇧🇱🇧- Israel continues to bombard southern Lebanon, with Nabatieh al-Fawqa struck within the past 10 minutes and numerous other towns also coming under attack in recent hours.
-14:22
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-‏🔴بر اساس گفته‌ی یک منبع از تیم بنیامین نتانیاهو که در این تماس حضور داشته، تماس تلفنی پرتنشی در طول شب میان بنیامین نتانیاهو و دونالد ترامپ برقرار شد که محور آن، گلایه‌های متقابل درباره پست‌های منتشرشده در شبکه‌های اجتماعی درباره گفت‌وگوی قبلی‌شان بود.  🔸ترامپ…
-14:22
-1405/03/12
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺📌 علی خامنه‌ای ۱۰ سال پس از اینکه گفت اسرائیل ۲۵ سال آینده را نخواهد دید، توسط اسرائیل کشته شد.
@@ -240,21 +308,6 @@ src :@World_Newsly
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌🇱🇧🇱🇧- Israeli Defense Minister, Israel Katz: 
-‏Prime Minister Netanyahu and I, together with the IDF, led a move aimed at establishing a new equation: Beirut’s Dahiyeh district will be treated the same as Israel’s northern communities.
-‏
-‏If Israeli towns continue to come under attack, we will evacuate and strike Beirut’s Shiite Dahiyeh district, Hezbollah’s main stronghold. We issued public warnings and the IDF published an evacuation notice. The immediate result was the evacuation of hundreds of thousands of residents — 600,000 out of 950,000 by last night — creating significant pressure on Hezbollah and the Lebanese government
-‏
-‏The United States endorsed this principle and conveyed it to the Lebanese government and all relevant parties. The test of this policy will become clear in the coming days: either the attacks on Israeli communities stop, or if they continue and we strike Dahiyeh, the equation will have been enforced. 
-‏
-‏There will be no situation in which our communities are attacked without a powerful response against Dahiyeh. IDF operations inside Lebanon will continue regardless
-14:14
-1405/03/12
-
-
-
-
 src :@jangaavaran1390
 ‏به گزارش اکسیوس، رئیس جمهور ترامپ در تماس تلفنی روز دوشنبه با نخست وزیر اسرائیل، نتانیاهو، به دلیل تشدید تنش‌ها در لبنان، به شدت از کوره در رفت.  گفته می‌شود ترامپ از تلفات غیرنظامیان و تهدیدهای اسرائیل برای حمله به بیروت خشمگین بوده و به نتانیاهو هشدار داده…
 14:14
@@ -266,18 +319,6 @@ src :@jangaavaran1390
 src :@naya_foriraq
 ‏🌟🌟جيش الاحتلال الإسرائيلي: إصابة جنديين بجروح إثر استهداف قوة إسرائيلية بمسيرة في جنوب لبنان من قبل حزب الله صباح اليوم.
 14:13
-1405/03/12
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏بر اساس اطلاعات منتشرشده، محل «رستوران پلو» از رستوران‌های شناخته‌شده شهر زنجان، از سوی مؤسسه خاتم‌الانبیا زنجان به مزایده عمومی گذاشته شده است. در آگهی منتشرشده، اجاره ماهانه این ملک تجاری ۵۰۰ میلیون تومان اعلام شده است.
-‏بیشتر: https://iranwire.com/fa/news-1/153166
-‏
-‏@Farsi_Iranwire
-14:11
 1405/03/12
 
 
@@ -335,22 +376,6 @@ src :@World_Newsly
 ‏✍🏻 Dangerman
 ‏▪️@World_Newsly
 14:06
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-‏🔴بر اساس گفته‌ی یک منبع از تیم بنیامین نتانیاهو که در این تماس حضور داشته، تماس تلفنی پرتنشی در طول شب میان بنیامین نتانیاهو و دونالد ترامپ برقرار شد که محور آن، گلایه‌های متقابل درباره پست‌های منتشرشده در شبکه‌های اجتماعی درباره گفت‌وگوی قبلی‌شان بود.
-‏
-‏🔸ترامپ استدلال کرده بود که پست نتانیاهو این‌گونه القا می‌کند که جنگ با تمام قوا ادامه دارد، به‌جز حملات در بیروت؛ در مقابل، نتانیاهو گفته بود پست ترامپ این برداشت را ایجاد می‌کند که اسرائیل آتش‌بس کامل را در همه جبهه‌ها اجرا کرده است.
-‏
-‏🔹این منبع ادعاها مبنی بر اینکه ترامپ اظهارات شخصی درباره وضعیت حقوقی نتانیاهو مطرح کرده یا گفته باشد که نتانیاهو در سراسر جهان منفور است را رد کرد؛ اما تأیید کرد که ترامپ به نتانیاهو گفته ارائه موضع اسرائیل در سطح بین‌المللی دشوار شده و این موضوع به دامن‌زدن به نفرت علیه اسرائیل منجر می‌شود.
-‏
-‏🔸این تماس با تفاهمی پایان یافت مبنی بر اینکه اسرائیل تا زمانی که از داخل مرزهایش مورد حمله قرار نگیرد، از حمله به ضاحیه در بیروت خودداری کند. — کانال ۱۲ اسرائیل 
-‏
-‏@mwarmonitor
-14:04
 1405/03/12
 
 
@@ -487,18 +512,6 @@ src :@wfwitness
 src :@wfwitness
 ‏⚡️🇺🇸🇮🇱 Axios: President Donald Trump angrily confronted Israeli Prime Minister Benjamin Netanyahu on the phone over Israel’s escalation in Lebanon, with Trump reportedly saying:  You’re fucking crazy. What the fuck are you doing? You’d be in prison if it weren’t…
 13:56
-1405/03/12
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، اعلام کرد انتقال ذخایر اورانیوم غنی‌شده ایران به خارج از کشور با وجود پیچیدگی‌های فنی، «غیرممکن نیست»؛ موضوعی که به یکی از محورهای اصلی مذاکرات میان تهران و واشنگتن تبدیل شده است.
-‏بیشتر: https://iranwire.com/fa/news-1/153165
-‏
-‏@Farsi_Iranwire
-13:55
 1405/03/12
 
 
@@ -649,20 +662,6 @@ src :@ClashReport
 
 
 
-src :@MilitarryWorld
-‏⭕️قرارگاه خاتم‌الانبیا: از سرگیری درگیری‌ها اجتناب‌ناپذیر است
-‏
-‏قرارگاه مرکزی خاتم‌الانبیا در بیانیه‌ای اعلام کرد از سرگیری درگیری‌های مستقیم را اجتناب‌ناپذیر می‌داند و تاکید کرد که ایران «تسلیم نخواهد شد.»
-‏در این بیانیه آمده است عملیات‌ها تا زمانی ادامه خواهد یافت که اسرائیل و آمریکا آنچه «تسلیم و ابراز پشیمانی کامل» خوانده شده را بپذیرند.
-‏قرارگاه خاتم‌الانبیا همچنین هشدار داد در صورت تداوم تنش‌ها، عملیات‌های آینده می‌تواند گسترده‌تر و مخرب‌تر باشد.
-‏
-‏@MilitarryWorld | Parsa
-13:49
-1405/03/12
-
-
-
-
 src :@World_Newsly
 ‏🔴 قرارگاه خاتم‌الانبیا: از سرگیری درگیری‌ها اجتناب‌ناپذیر است
 ‏
@@ -673,14 +672,6 @@ src :@World_Newsly
 ‏✍🏻 Cybex
 ‏▪️@World_Newsly
 13:46
-1405/03/12
-
-
-
-
-src :@defence_news
-‏حمله هوایی و انهدام سامانه مورد نظر  🇮🇷📝 @defence_news 📝🇮🇷
-13:45
 1405/03/12
 
 
@@ -795,18 +786,6 @@ src :@Americana_ir
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏قوه قضائیه ایران از اعدام سه مرد در دو پرونده جداگانه با اتهام تجاوز به کودکان خبر داد.
-‏بیشتر: https://iranwire.com/fa/news-1/153162
-‏
-‏@Farsi_Iranwire
-13:35
-1405/03/12
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻ایسنا خبر داد که فدراسیون فوتبال ایران با فدراسیون گرانادا وارد مذاکره شده تا در صورت نهایی شدن توافق، پیش از آغاز جام جهانی دیداری دوستانه با این تیم برگزار کند. 
@@ -869,16 +848,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 13:32
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-‏⭕️واشنگتن‌پست: مقامات نظامی آمریکا در چندین قاره سطح حفاظت را در انتظار بازگشت جنگ افزایش داده اند
-‏
-‏@MilitarryWorld | Parsa
-13:31
 1405/03/12
 
 
@@ -1499,14 +1468,6 @@ src :@tglobaleye
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🔶 آشپزی با جنگنده!  🔹آیا مایل به پخت و پز با استفاده از یک جت جنگنده هستید؟  کمپانی میگ برای حل مشکل شما محصولاتی برای ارائه دارد  MIG 25 & MIG 31   🔹فاکسبت و فاکس هاند نه تنها شکارچیان قابلی بودند، که در آشپزی هم دستی بر آتش داشتند و دارند... رادار زالسون…
-13:06
-1405/03/12
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴ارتش اسرائیل به ساکنان نبطیه هشدار فوری برای تخلیه صادر کرد
@@ -1514,16 +1475,6 @@ src :@World_Newsly
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
 13:06
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-‏⭕️احتمال شنیده شدن صدای انفجار در محدوده جنوب اصفهان به علت انهدام مهمات عمل‌نکرده
-‏
-‏@MilitarryWorld | Parsa
-13:05
 1405/03/12
 
 
@@ -1603,74 +1554,6 @@ src :@KayhanLondonChannel
 ‏
 ‏نخست‌وزیر اسرائیل افزود موساد «مناره‌ای از قدرت انسانی، پیچیدگی فناوری و جسارت عملیاتی» است و خطاب به بارنئا گفت: «در دوره ریاست تو کارهای بزرگی انجام شد.»
 13:01
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏افيخاي ادرعي ✓  @AvichayAdraee Tue, 02 Jun 2026 09:24:38 UTC  #عاجل ‼️نجدد انذارنا العاجل الى سكان لبنان المتواجدين في مدينة النبطية  🔸في ضوء قيام حزب الله الارهابي بخرق اتفاق وقف اطلاق النار يضطر جيش الدفاع للعمل ضده بقوة. جيش الدفاع لا ينوي المساس بكم. …
-13:00
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏افيخاي ادرعي ✓ @AvichayAdraee
-‏Tue, 02 Jun 2026 09:24:38 UTC
-‏
-‏#عاجل ‼️نجدد انذارنا العاجل الى سكان لبنان المتواجدين في مدينة النبطية
-‏
-‏🔸في ضوء قيام حزب الله الارهابي بخرق اتفاق وقف اطلاق النار يضطر جيش الدفاع للعمل ضده بقوة. جيش الدفاع لا ينوي المساس بكم.
-‏
-‏🔸حرصًا على سلامتكم عليكم إخلاء منازلكم فوراً والانتقال الى شمال نهر الزهراني.
-‏
-‏🔸كل من يتواجد بالقرب من عناصر حزب الله ومنشآته ووسائله القتالية، يعرّض حياته للخطر!
-‏
-‏English
-‏
-‏#Urgent ‼️ We reiterate our urgent warning to the residents of Lebanon who are present in the city of Nabatiyeh.
-‏
-‏🔸 In light of the terrorist Hezbollah’s violation of the ceasefire agreement, the IDF (Israel Defense Forces) is compelled to act against it forcefully. The IDF does not intend to harm you.
-‏
-‏🔸 For your safety, you must evacuate your homes immediately and move north of the Zahrani River.
-‏
-‏🔸 Anyone present near Hezbollah members, facilities, or combat equipment is putting their life at risk!
-‏
-‏𝕏  ·  @shin_persian
-13:00
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭕️یک سرباز ارتش ایالات متحده و یک سرباز بریتانیایی هر دو در یک "سانحه آموزشی نظامی" در پایگاه هوایی اربیل در عراق در 31 مه جان باختند.
-‏
-‏@MilitarryWorld | Parsa
-12:58
-1405/03/12
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶تاثیر امواج بر پوشش ابری و شرایط جوی 
-‏
-‏🔹اخیرا بعد از جنگ رمضان و افزایش معنا دار پوشش ابری و بارش ها در منطقه مکرراً تاثیر یا عدم تاثیر امواج رادارها بر پوشش ابری مطرح شد .
-‏
-‏🔹از منظر علمی گرچه حامل های انرژی مانند نور و امواج مخابراتی/راداری بر شاکله هوایی همچون ابر و توده های مرطوب جوی اثر گذارند و بعضا این اثر گذاری بسیار مشهود است ولی این گذاره را نمی توان به تغییرات کلان مرتبط دانست .
-‏
-‏🔹توده های ابر و حتی رطوبت هوا منجر به کاهش برد پرتو های الکترومغناطیسی می شود (کل طیف الکترومغناطیس را میشود با برآیند پرتو (ذره) و موج تعریف کرد ) این نیز به سبب جذب انرژی امواج توسط مولکول های آب است که منجر به افزایش دما و تبخیر توده می گردد .
-‏
-‏🔹به عنوان مثال شهودی رادار پرتوانی مثل رادار میگ۳۱ در هنگام پرواز توده های ابر مقابل خود را ناپذید می کرد.
-‏
-‏@RASTAKHIZ_PERSIAN
-12:58
 1405/03/12
 
 
@@ -2129,18 +2012,6 @@ src :@cataphract1
 
 
 
-src :@MilitarryWorld
-‏⭕️ سخنگوی سپاه: برای تمامی سناریوهای احتمالی آمادگی داریم
-‏
-‏ سردار محبی: آمادگی امروز نیروهای مسلح بیشتر از گذشته است
-‏
-‏@MilitarryWorld | Parsa
-12:11
-1405/03/12
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏◆ امیر سرتیپ خلبان طالب زاده،جانشین فرماندهی نیرو هوایی با حفظ سمت ،به مقام مسئول خرید و بازسازی ارتش منصوب شد .
@@ -2155,51 +2026,10 @@ src :@Parvazdaroj
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻مجسمه عظیم ۲۱ متری لیونل مسی در شهر کلکته هند پس از آنکه مشخص شد از استحکام کافی برخوردار نیست و در برابر وزش باد تکان می‌خورد، جمع‌آوری شد.
-‏
-‏🔹این مجسمه که از فایبرگلاس و آهن ساخته شده بود، در دسامبر سال گذشته و همزمان با تور «GOAT» مسی در هند رونمایی شد. واژه GOAT در ورزش به معنای «بزرگ‌ترین ورزشکار تمام دوران» است.
-‏
-‏🔹رسانه‌های محلی گزارش دادند که پس از شکایت ساکنان منطقه، مهندسان اداره راه و ساختمان ایالت بنگال غربی در ۲۵ مه از این سازه بازدید کردند. بررسی‌ها نشان داد استحکام سازه به شدت آسیب دیده و ادامه حضور آن در محل می‌تواند خطرآفرین باشد.
-‏
-‏🔹شارادوات موکرجی، نماینده مجلس ایالتی بنگال غربی، در این باره گفت: «مجسمه اسطوره فوتبال آرژانتین ناایمن تشخیص داده شد. متوجه شدیم که این سازه در برابر وزش باد دچار نوسان می‌شود.»
-‏
-‏🔹هفته گذشته برای جلوگیری از هرگونه حادثه، مجسمه با طناب‌های ضخیم مهار و اطراف آن با موانع ایمنی مسدود شده بود. با این حال، سرانجام روز دوشنبه عملیات برچیدن آن انجام شد.
-‏
-‏@iranintltvsport
-12:08
-1405/03/12
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏حملات هوایی اسرائیل همچنان به مواضع حزب الله در جنوب لبنان ادامه دارد
 12:06
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 08:32:23 UTC
-‏
-‏Earlier, State-owned Mehr News reported Explosion(s) in southern Isfahan due to EOD ops. 
-‏
-‏(Yet, source tells me that 2 regime forces were KIA: Amir Shayegan &amp; Sepehr Pour Rostam)
-‏
-‏فارسی
-‏
-‏پیش‌تر، خبرگزاری دولتی مهر از وقوع انفجار(هایی) در جنوب اصفهان به دلیل عملیات واحد خنثی‌سازی بمب (EOD) گزارش داد.
-‏
-‏(با این حال، یک منبع به من می‌گوید که ۲ تن از نیروهای رژیم کشته شدند: امیر شایگان و سپهر پوررستم)
-‏
-‏𝕏  ·  @shin_persian
-12:02
 1405/03/12
 
 
@@ -2237,30 +2067,6 @@ src :@guard_warriors
 src :@Artemis_Force
 ‏★ نیروی هوایی ایران در درگیری‌های اخیر، چهار فروند از هواپیماهای یاک130 خود را از دست داده است؛ یک فروند در نبردهای هوایی و سه فروند دیگر در پایگاه اصفهان و تبریز کاملاً منهدم شده‌اند. تمامی چهار فروند از دست رفته، از نسخه‌های ارتقا یافته و مجهز به رادارهای…
 12:00
-1405/03/12
-
-
-
-
-src :@defence_news
-[عکس]
-‏ناو آبی خاکی باکسر حامل واحد ۱۱ سپاه تفنگداران که شایعاتی مبنی بر اعزامش به خاورمیانه وجود داشت طبق اطلاعات @USNINews به دریای چین جنوبی برگشت.
-‏https://news.usni.org/2026/06/01/usni-news-fleet-and-marine-tracker-june-1-2026
-‏
-‏🔗 Mehdi H. (@mhmiranusa) 
-‏
-‏📃@Cataphract1
-11:59
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-‏🚨نتانیاهو: بهایی که ایران برای توطئه‌های خود علیه اسرائیل پرداخت خواهد کرد بسیار بالا خواهد بود همانطور که بهایی که ایران قبلا پرداخت کرده است بسیار بالاست
-‏
-‏@MilitarryWorld | Parsa
-11:58
 1405/03/12
 
 
@@ -2332,48 +2138,6 @@ src :@mohem_mat
 
 
 
-src :@defence_news
-‏ارتش آمریکا اعلام کرد یکی از نیروهایش در آنچه حادثه در تمرین نظامی در اربیل عراق خواند در ۳۱می کشته شده است. در این حادثه یک نیروی انگلیسی نیز کشته شده بود که وزارت دفاع انگلیس اعلام کرد.
-‏
-‏در همان ایام گزارشات از حملات نیروهای مسلح ایران به اقلیم و مقر گروهک های مستقر منتشر شده بود.
-‏
-‏@RedLionCorps
-11:51
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏📌«بنیامین نتانیاهو در مراسم خداحافظی با رئیس موساد، دیوید بارنئا، گفت: «بهایی که ایران تاکنون پرداخته بسیار سنگین بوده است. پایه‌های این رژیمِ ترور در ایران ترک برداشته است. این رژیم دیگر به وضعیت سابق خود بازنخواهد گشت و به شما می‌گویم که پایان آن، سقوط خواهد بود.»
-‏
-‏@mwarmonitor
-11:50
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏❗️🇯🇵📉 - Japanese bond and currency face collapse as concerns over Takaichi's lack of fiscal discipline mount. 
-‏
-‏➡️ Japan spent $73 billion on the forex market to defend the yen from the 160 per dollar level. The 4th intervention in as many years failed to bring lasting relief, the yen subsequently fell back to the pre-intervention level.
-‏
-‏➡️ Japanese 30-year bond yield has been on a tear, hitting an all time high of 4% in May 2026.
-‏
-‏➡️ Japan has a high net debt to GDP ratio of ~130%. Prime Minister Takaichi is looking to add even more debt to fund several ambitious programs: remilitarization, investment into semiconductor manufacturing, populist welfare...
-‏
-‏Japan holds $1.24 trillion in US Treasuries, the largest foreign holding in the world. A potential crisis in Japan could trigger a selloff and bring turmoil to the US financial system.
-‏
-‏@GeoPWatch
-11:45
-1405/03/12
-
-
-
-
 src :@mohem_mat
 ‏بررسی تصاویر ماهواره‌ای و روند تغییرات خط ساحلی نشان می‌دهد که در سواحل ایران احتمالاً بین ۹۰ تا ۲۷۰ میلیون متر مربع زمین جدید از دل دریا بیرون آمده است.
 ‏
@@ -2386,17 +2150,6 @@ src :@mohem_mat
 ‏چند تابلو نصب می‌شود با نام‌هایی پرطمطراق؛ «منطقه ویژه توسعه»، «شهرک گردشگری»، «مجتمع سرمایه‌گذاری ساحلی» و واژه‌هایی که اغلب پیش از آنکه توسعه‌ای خلق کنند، مالکیتی خلق می‌کنند.
 ‏
 ‏@mohem_mat
-11:42
-1405/03/12
-
-
-
-
-src :@defence_news
-[عکس]
-‏شب گذشته مناطق مختلف اوکراین هدف حملات روسیه با ۶۵۶ فروند پهپاد و ۷۳ تیر موشک بالستیک/کروز قرار گرفتند که تا کنون دست کم ۱۱ غیر نظامی نیز کشته شده اند.
-‏
-‏@Minas_Tirith2024
 11:42
 1405/03/12
 
@@ -2416,36 +2169,6 @@ src :@naya_foriraq
 
 
 
-src :@defence_news
-[عکس]
-‏تصویری از یک عضو واحد عملیات ویژه کشور قزاقستان مسلح به قبضه تپانچه SAR9 T SC GEN3 با کالیبر ۹ م‌م
-‏
-‏تپانچه SAR9 T SC GEN3 ساخت کمپانی سارسیلماز یکی از محصولات قابل توجه در تولید سلاح انفرادی در کشور ترکیه است.
-‏این تپانچه که در خانواده تپانچه های کامپکت و ساب کامپکت قرار میگیرد ولی در طراحی آن تلاش شده است تا ارگونومی نزدیک به تپانچه های فول سایز داشته باشد.
-‏
-‏به پیروی از نیاز امروز در سلاح های کمری این تپانچه نیز با رابط Optic Ready به‌منظور نصب رد‌دات ارائه شده است.
-‏همچنین قابلیت نصب سوپرسور برای این تپانچه نیز وجود دارد.
-‏
-‏L.t
-‏@BallisticBrain
-11:38
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-‏⭕️وزیر خارجه فرانسه: هیچ چیزی نمی‌تواند اشغال طولانی‌مدت اسرائیل در لبنان را توجیه کند.
-‏
-‏واشنگتن و تهران پروندهٔ تنگه هرمز را سریعاً حل‌وفصل کنند. 
-‏
-‏@MilitarryWorld | Parsa
-11:38
-1405/03/12
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Cyprus wants guarantees that future UK governments—potentially led by Nigel Farage—can't use Britain's military bases on the island for offensive Middle East operations without restrictions.
@@ -2455,15 +2178,6 @@ src :@ClashReport
 ‏Britain says the bases are sovereign UK territory and their use is not up for negotiation.
 ‏
 ‏Source: POLITICO
-11:37
-1405/03/12
-
-
-
-
-src :@defence_news
-[عکس]
-‏تیربار سبک RPL-20 ساخت روسیه - کالیبر 39*5.45 میلی متر   🇮🇷📝 @defence_news 📝🇮🇷
 11:37
 1405/03/12
 
@@ -2547,18 +2261,6 @@ src :@mohem_mat
 
 
 
-src :@MilitarryWorld
-‏⭕️یدیعوت آحارونوت: ارتش اسرائیل تحقیقاتی را درباره چگونگی موفقیت پهپادهای حزب الله در رسیدن به نیروهایش در طول شب آغاز کرده است
-‏
-‏ارتش اسرائیل تعداد وسایل نقلیه سنگین خود را در لبنان کاهش داده است پس از اینکه این وسایل به اهدافی برای پهپادهای حزب الله تبدیل شدند
-‏
-‏@MilitarryWorld | Parsa
-11:21
-1405/03/12
-
-
-
-
 src :@didarnews1
 ‏🔴سخنگوی سازمان مالیاتی:
 ‏
@@ -2568,17 +2270,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 11:20
-1405/03/12
-
-
-
-
-src :@defence_news
-[عکس]
-‏★ نیروی هوایی ایران در درگیری‌های اخیر، چهار فروند از هواپیماهای یاک130 خود را از دست داده است؛ یک فروند در نبردهای هوایی و سه فروند دیگر در پایگاه اصفهان و تبریز کاملاً منهدم شده‌اند. تمامی چهار فروند از دست رفته، از نسخه‌های ارتقا یافته و مجهز به رادارهای پیشرفته‌تر بوده‌اند. طبق قراردادهای پیشین، سه فروند دیگر در فدراسیون روسیه مستقر هستند و به زودی تحویل میشوند،اما فاقد رادار هستند و نسخه اصلی صادراتی. در صورت تأمین بودجه در هفته‌های آینده، احتمالاً یک اسکادران دیگر سفارش داده میشود
-‏
-‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
-11:19
 1405/03/12
 
 
@@ -2637,23 +2328,6 @@ src :@Americana_ir
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏⏺ در پراگ [پایتخت جمهوری چک] دیر وقت شبی عقلم سر جایش نبود و همینطور به اولگا، همسر واتسلاو هاول [آخرین رئیس جمهور چکسلواکی و اولین رئیس جمهور جمهوری چک] گفتم چائوشسکو [دیکتاتور رومانی] تا قبل از پایان سال رفتنی است. اولگا پیشنهاد کرد سر یک بطری شامپاین شرط ببندیم. صبح که به خود آمدم فکر کردم شامپاین را باخته‌ام. اما بعد، درست قبل از کریسمس ...
-‏
-‏⏺ هیچ کس در انقلاب نامیدن رویدادهای رومانی تردید نداشت.همه چیز به کنار، آن رویدادها واقعا به انقلاب می‌مانست: مردم خشمگین در خیابان‌ها، تانک‌ها، ساختمان‌های دولتی شعله ور و بیخ دیوار گذاشتن دیکتاتور و کشتن او.
-‏
-‏ما مردم ... ـ نشر ثالث ـ گزیده‌ای از صفحه ۱۷
-‏
-‏#چائوشسکو #تاریخ #اروپا #رومانی 
-‏
-‏@andaki_ketabb
-11:12
-1405/03/12
-
-
-
-
 src :@mohem_mat
 ‏پژمانفر نماینده مجلس:
 ‏
@@ -2664,18 +2338,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 11:12
-1405/03/12
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏پس از چند روز تاخیر، بانک مرکزی و مرکز آمار ایران به‌طور همزمان گزارش‌های تورمی اردیبهشت‌ماه را منتشر کردند؛ گزارش‌هایی که با وجود تفاوت در ارقام، از تداوم روند صعودی قیمت‌ها و افزایش فشار معیشتی بر خانوارها حکایت دارد.
-‏بخوانید: https://iranwire.com/fa/news-1/153159
-‏
-‏@Farsi_Iranwire
-11:03
 1405/03/12
 
 
@@ -2692,17 +2354,6 @@ src :@Indypersian
 ‏بیشتر بخوانید...
 ‏
 ‏@indypersian
-10:59
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭕️به گزارش NBC News، آمریکا در ۵۶٪ کشورهای جهان، سفیر ندارد. همچنین حدود ۲۰۰۰ دیپلمات آمریکایی در یک سال گذشته از خدمت در وزارت خارجه کنار گذاشته شده‌اند؛ چه از طریق تعدیل نیرو و چه بازنشستگی اجباری
-‏
-‏@MilitarryWorld | Parsa
 10:59
 1405/03/12
 
@@ -2745,40 +2396,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@World_Newsly
-‏🔴چین مغز مستقل برای سواره‌ نظام بدون سرنشین ساخت
-‏
-‏پژوهشگران چینی از توسعه الگوریتمی خبر دادند که میتواند دسته‌ های پهپادی را به‌ طور کامل از وابستگی به اپراتور انسانی خارج کند؛ سامانه‌ ای که به پهپادها اجازه میدهد حتی در شرایط قطع ارتباط و جنگ الکترونیک، به‌ صورت خودمختار اهداف را شناسایی، اولویت‌ بندی و منهدم کنند
-‏
-‏این الگوریتم که بر پایه یک مدل گراف ناهمگن پویا طراحی شده، میدان نبرد را در لحظه به یک شبکه معنایی تبدیل میکند؛ به‌ گونه‌ ای که هر عنصر از پهپاد خودی تا عوارض زمین و اهداف دشمن در قالب یک تصویر عملیاتی یکپارچه تحلیل میشود
-‏
-‏نتیجه این پردازش، تصمیم‌گیری در کسری از ثانیه (حدود 6.6میلی‌ ثانیه) و اجرای مأموریت بدون نیاز به فرمان مستقیم است
-‏
-‏در شبیه‌ سازی‌ ها، این سیستم حتی در شرایط اختلال شدید ارتباطی نیز عملکرد کامل خود را حفظ کرده و به نرخ موفقیت 100 درصدی در حمله دست یافته است
-‏
-‏ استفاده از ماژول حافظه مبتنی بر GRU به هر پهپاد امکان میدهد آخرین وضعیت میدان نبرد را به خاطر بسپارد و حتی در قطع کامل لینک ارتباطی، به هماهنگی با سایر اعضای دسته ادامه دهد
-‏
-‏این فناوری دو ضعف اساسی در سامانه‌ های سنتی را برطرف میکند؛ اولاً تبدیل داده‌ های خام به درک معنایی از میدان نبرد و دوماً شکستن مأموریت‌ های پیچیده به تصمیمات ساده و پیوسته؛ ترکیبی که به افزایش سرعت واکنش و کارایی عملیاتی منجر میشود
-‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-10:45
-1405/03/12
-
-
-
-
-src :@defence_news
-[عکس]
-‏پرده اول - هدف قرار گرفتن سامانه پدافندی طبس در کرج با FPV و متوقف شدن آن در جریان جنگ رمضان
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-10:44
-1405/03/12
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ سند فرمان تاسیس نیروی هوایی شاهنشاهی در ۱۱ خرداد ۱۳۰۳
@@ -2787,17 +2404,6 @@ src :@guard_warriors
 ‏یکبار در تا تاریخ تا نابودی کامل رفت یعنی در خلال جنگ جهانی دوم و امروزه با تداوم حملات میتواند وضع مشابهی پیدا کند هر چند الان هم وضع خوبی ندارد.
 ‏
 ‏@Guard_Warriors | Mmd
-10:44
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭕️تولیدکنندگان بزرگ گاز مانند قطر که زمان و صبرشان رو به پایان است، در حال زیر پا گذاشتن قوانین دریانوردی هستند؛ اقدامی که می‌تواند پیامدهای ماندگاری به دنبال داشته باشد.
-‏
-‏@MilitarryWorld | Parsa
 10:44
 1405/03/12
 
@@ -2908,16 +2514,6 @@ src :@Artemis_Force
 
 
 
-src :@MilitarryWorld
-‏⭕️رافائل گروسی: گزینه کاهش غنا (رقیق‌سازی) اورانیوم نیز در دست بررسی است/ انتقال اورانیوم با غنای بالا از ایران دشوار است اما غیرممکن نیست
-‏
-‏@MilitarryWorld | Parsa
-10:28
-1405/03/12
-
-
-
-
 src :@rnintel
 ‏🇪🇹⚡- Ethiopia's military, ENDF, Director-General of International Relations, Major General Teshome Gemechu, has briefed the country's parliament on Ethiopia's military actions it may take if its sovereignty is threatened. The initiative has been referred to…
 10:25
@@ -2936,54 +2532,6 @@ src :@tglobaleye
 ‏Long live the defense of the motherland!
 ‏Long live the brotherhood of the Iranian and Lebanese peoples!
 10:24
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-[ویدئو]
-‏⭕️با گذشت حدود ۸۰ سال از پایان جنگ‌جهانی دوم، در پی انفجار بمب برجای مانده از این جنگ در شرق اندونزی، پنج نفر کشته و سه اندونزیایی مفقود شدند.
-‏
-‏@MilitarryWorld | Parsa
-10:21
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🎁 شرطبندی مسابقات دوستانه ی جام جهانی با بالاترین ضرایب و آپشن ها در ریتزوبت ‼️
-‏
-‏#پیشبینی
-‏
-‏💰 امکان شارژ با ووچر ، کریپتو و کارت بانکی ایران 🔥
-‏
-‏🚀 وقتی شرط ‌هاتون رو توی ریتزوبت ثبت کنین ، سودتون بیشتر و هفتگی پرومو کد دریافت میکنید 🤑
-‏
-‏🛸 لینک ورود به سایت 👉
-‏
-‏🌐 کانال تلگرامی 3️⃣2️⃣1️⃣
-‏R11 l
-‏https://t.me/+LB508WZyIr8xNmY0
-10:21
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-[فایل]
-‏ریتزوبت تنها سایت بین المللی میباشد ، که به صورت هفتگی پرومو کد دریافت میکنید ✅
-‏
-‏♦️ آموزش شارژ حساب با کریپتو
-‏♦️ آموزش شارژ حساب  ریالی در ریتزوبت
-‏
-‏🔵ریتزوبت برندی با لایسنس معتبر در صنعت شرطبندی و پیشبینی مسابقات ورزشی و کازینویی 👇
-‏
-‏https://t.me/+LB508WZyIr8xNmY0
-10:21
 1405/03/12
 
 
@@ -3101,19 +2649,6 @@ src :@didarnews1
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏⭕️کوبا غرق در زباله
-‏
-‏مردم برای مقابله با این وضعیت، شروع به آتش‌زدن زباله کرده‌اند که می‌تواند با آسیب‌های جدی برای سلامت مردم همراه باشد
-‏
-‏@MilitarryWorld | Parsa
-09:59
-1405/03/12
-
-
-
-
 src :@mohem_mat
 ‏رافائل گروسی مدیرکل آژانس بین‌المللی انرژی اتمی:
 ‏
@@ -3149,29 +2684,6 @@ src :@mohem_mat
 ‏
 ‏✅ @Tabnak
 09:48
-1405/03/12
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏سندیکای کارگران شرکت واحد اتوبوسرانی تهران و حومه با انتشار نامه‌ای سرگشاده خطاب به نمایندگان کارگری و فدراسیون‌های بین‌المللی حاضر در یکصد و چهاردهمین اجلاس کنفرانس بین‌المللی کار، نسبت به تشدید فشارها بر کارگران و فعالان صنفی در ایران هشدار داد و خواستار حمایت از مطالبات تشکل‌های مستقل کارگری شد.
-‏بخوانید: https://iranwire.com/fa/news-1/153158
-‏
-‏@Farsi_Iranwire
-09:47
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭕️رهبر اپوزیسیون اسرائیل، یائیر لاپید، بنیامین نتانیاهو را متهم کرد که پس از اطاعت از دستور ترامپ برای عدم حمله به بیروت، اسرائیل را به «دولت محافظه‌کار تمام‌عیار» تبدیل کرده است.
-‏
-‏@MilitarryWorld | Parsa
-09:47
 1405/03/12
 
 
@@ -3349,37 +2861,6 @@ src :@mohem_mat
 
 
 
-src :@mwarmonitor
-‏🔹فرماندهی جبهه داخلی اسرائیل زمان هشدار حملات راکتی برای شهر حیفا و ۱۶۰ منطقه دیگر در شمال را افزایش داد.
-‏
-‏🔹از این پس، ساکنان این مناطق به‌جای ۶۰ ثانیه، ۹۰ ثانیه فرصت خواهند داشت تا به پناهگاه بروند. این تغییر از امروز ساعت ۴ بعدازظهر اجرایی می‌شود.
-‏
-‏@mwarmonitor
-09:28
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇲🇽❌🇺🇸 - Mexican President Claudia Sheinbaum, speaking at a rally, accused 'far-right' elements in the US of interference against Mexico and her government.
-‏
-‏Who decides in Mexico, foreign agencies or the people? We are going to defend ⁠Mexico's sovereignty and independence.
-‏
-‏The US seeks to gain deeper influence on its southern neighbors by propping up right wing, ideologically aligned governments such as Argentina and El Salvador. At the same time, it works to undermine or oust left-wingers in Venezuela, Cuba, Brazil and Colombia. The Sheinbaum's government is center left but has largely been spared from the interference campaign thus far.
-‏
-‏The Trump admin has also been pressuring the hemisphere to join the war on drug, often encroaching on local jurisdictions. Notably, in April 2026, two CIA agents were killed alongside two Mexican officials while on a counter-narcotic operation in northern Mexico, allegedly without President Sheinbaum knowledge.
-‏
-‏During the trade war last year, Mexico was eager to make concession to appease its largest trading partner, unlike Canada, which retaliated against the US. Ms Sheinbaum's latest criticism underlines the emerging tension between Mexico and the US.
-‏
-‏@GeoPWatch
-09:28
-1405/03/12
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏⚡️🇺🇸🇮🇷 — Oil prices slipped after President Trump stated that talks with Iran are ongoing, easing some market anxiety even as uncertainty over the negotiations keeps markets on edge, according to Reuters.
@@ -3401,65 +2882,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏⭕️یک مقام اسرائیلی در گفتگو با اَکسیوس ادعا کرد: اسرائیل دیگر برنامه‌ای برای حمله به مواضع حزب‌الله در بیروت ندارد.
-‏
-‏@MilitarryWorld | Parsa
-09:24
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-‏🔸مقام‌های آمریکایی از آمادگی خود برای گفت‌وگوهایی خبر داده‌اند که ممکن است به کشورهای بیشتری اجازه دهد میزبان هواپیماهای دو‌منظوره آمریکا باشند؛ هواپیماهایی که توانایی انجام حملات هسته‌ای را دارند. فیننشال تایمز 
-‏
-‏@mwarmonitor
-09:23
-1405/03/12
-
-
-
-
-src :@defence_news
-‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned «ما کانفیگ نمی‌فروشیم، پایداری + اعصاب راحت می‌فروشیم.   🔹 هر گیگ:   50 ( خرید بالای 10 گیگ 40 , بالای 20 گیگ 30 ) 🔹 لینک ساب | بدون ضریب 🔹 سرعت بالا از اول تا آخر 🔹 24 ساعت پایدار، بدون هیچگونه قطعی 🔹پشتیبانی واقعی تا اتمام حجم تون  🔹 بدون اما و اگر  برای…»
-09:23
-1405/03/12
-
-
-
-
-src :@defence_news
-‏ما کانفیگ نمی‌فروشیم،
-‏پایداری + اعصاب راحت می‌فروشیم.
-‏
-‏
-‏🔹 هر گیگ:   50 ( خرید بالای 10 گیگ 40 , بالای 20 گیگ 30 )
-‏🔹 لینک ساب | بدون ضریب
-‏🔹 سرعت بالا از اول تا آخر
-‏🔹 24 ساعت پایدار، بدون هیچگونه قطعی
-‏🔹پشتیبانی واقعی تا اتمام حجم تون 
-‏🔹 بدون اما و اگر
-‏
-‏برای کسایی که وصلِ پایدار می‌خوان، نه حرفای قشنگ.
-‏
-‏شعارمون ؟ 
-‏تضمین پایداری و کیفیت تا آخرین کیلوبایت حجم تون
-‏
-‏
-‏
-‏📩 خرید و تحویل آنی:
-‏@AlwaysOn_Pv
-‏
-‏📢 لینک کانال:
-‏
-‏https://t.me/AlwaysOnNet
-09:22
-1405/03/12
-
-
-
-
 src :@jangaavaran1390
 ‏فایننشال تایمز: طبق گزارش‌ها، ایالات متحده در حال مذاکره در مورد گسترش احتمالی استقرار سلاح‌های هسته‌ای به کشورهای اروپایی عضو ناتو است، اقدامی که با هدف تقویت ضمانت‌های امنیتی در بحبوحه تغییر وضعیت نیروهای ایالات متحده انجام می‌شود.
 ‏
@@ -3476,17 +2898,6 @@ src :@naya_foriraq
 ‏
 ‏على الرغم من أنه لا يُتوقع التوصل إلى اتفاق قريبًا، إلا أن بولندا وبعض دول البلطيق مهتمة، حسبما ذكرت التقارير، باستضافة قواعد للطائرات ذات القدرة المزدوجة القادرة على حمل الأسلحة النووية.
 09:18
-1405/03/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russia's overnight attack hit multiple Ukrainian cities:
-‏
-‏Kyiv was hardest hit with 4 killed and 58 injured, including a strike on a residential apartment building. Dnipro: 6 killed, 36 injured. Zaporizhzhia region: 3 injured amid heavy attacks on dozens of settlements. Kharkiv: 8 injured. Explosions were also reported in Khmelnytskyi, Kyiv region, Sumy, and Mykolaiv.
-09:16
 1405/03/12
 
 
@@ -3523,16 +2934,6 @@ src :@intelslava
 
 
 
-src :@mwarmonitor
-‏🔴بر اساس داده‌های ردیابی کشتی‌ها، یکی از بزرگ‌ترین اپراتورهای نفتکش یونان از پایان ماه فوریه تاکنون دست‌کم هشت کشتی را از تنگه عبور داده است. تحرکات اخیر شناورهای این شرکت چه چیزی را نشان می‌دهد؟ فیننشال تایمز 
-‏
-‏@mwarmonitor
-09:12
-1405/03/12
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴آخرین قیمت نفت ۹۴.۰۹ دلار 
@@ -3549,14 +2950,6 @@ src :@didarnews1
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇱🇧🇱🇧 — US President Trump:  "I had a very productive call with PM Netanyahu, and there will be no troops going to Beirut, and any troops that are on their way, have already been turned back.   Likewise, through highly placed representatives, I had a very…
 09:12
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-‏"You're fucking crazy": خشم شدید ترامپ از نتانیاهو در تماس تلفنی مربوط به لبنان  📝نویسندگان: باراک راوید، مارک کاپوتو  🔰به گفته دو مقام آمریکایی و یک منبع سومِ مطلع، پرزیدنت ترامپ روز دوشنبه در یک تماس تلفنیِ پر از الفاظ رکیک، به دلیل تشدید تنش‌های اسرائیل…
-09:10
 1405/03/12
 
 
@@ -3741,14 +3134,6 @@ src :@ircfspace
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 — Photo confirming Zircon impacts in Kyiv, Ukraine, just now.  @GeoPWatch
-08:03
-1405/03/12
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏خرید رهگیر «استاندارد-6» به نفع نیروی دریایی کره جنوبی 
@@ -3762,59 +3147,12 @@ src :@Artemis_Force
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 ۲ پاسدار در قم براثر انفجار پرتابه‌های باقی‌مانده از جنگ به شهادت رسیدند
-‏
-‏🔹سپاه قم: پاسداران سرافراز حسین رمضانیان فردویی و محمد اویسی از فرزندان منطقه شهیدپرور فردو، شب گذشته در حالی که در جبهه‌های دفاعی استان قم مستقر بودند، بر اثر انفجار پرتابه‌های باقی‌مانده از جنگ رمضان به درجه رفیع شهادت نائل آمدند.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-08:02
-1405/03/12
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 روابط عمومی سپاه حضرت نبی اکرم (ص) استان کرمانشاه از شهادت سروان پاسدار میلاد محمدی در حین عملیات خنثی‌سازی خبر داد
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-08:01
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦 — Two more Zircon impacts in Kyiv.  @GeoPWatch
-07:58
-1405/03/12
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏An American and a British soldier died during an exercise at a joint-military air base in Erbil, Iraqi Kurdistan, on May 31. No further details provided.
 ‏
 ‏On that same day, Iran attacked a Kurdish military headquarters in Erbil.
 07:55
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 — Two more Zircon impacts in Kyiv.
-‏
-‏@GeoPWatch
-07:54
 1405/03/12
 
 
@@ -3944,14 +3282,6 @@ src :@intelslava
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 — Tonight's large-scale combined missile, rocket, and drone attack conducted by Russia against Ukraine primarily targeted defense industries, in line with Russia's promise to strike Ukrainian defense industries in response to a Ukrainian drone strike that killed 21 Russians at a student dormitory. Several were successfully struck.
-07:04
-1405/03/12
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏پهپادهای قدیمی MQ-1 Predator بار دیگر در آسمان آمریکا مشاهده شده‌اند؛ موضوعی که گمانه‌زنی‌هایی درباره بازگشت احتمالی این پهپاد بازنشسته به خدمت ایجاد کرده است.
@@ -3974,16 +3304,6 @@ src :@jangaavaran1390
 src :@jangaavaran1390
 [عکس]
 ‏دو سرهنگ دوم نیروی هوایی تایوان پس از سقوط و آتش گرفتن یک هواپیمای آموزشی T-34 در نزدیکی انتهای شمالی باند فرودگاه پایگاه نیروی هوایی گانگشان در کائوسیونگ کشته شدند.
-06:40
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-‏There were a record 10 Zircon hypersonic cruise missiles used in today's attack
-‏
-‏None were intercepted.
 06:40
 1405/03/12
 
@@ -4054,14 +3374,6 @@ src :@tabzlive
 
 
 
-src :@GeoPWatch
-‏More than 70 missiles of various types were used. The attack on Kyiv was huge, involving Kh-101s, Zircons, Iskander-Ks, and Iskander-Ms.
-05:36
-1405/03/12
-
-
-
-
 src :@BellumActaNews
 ‏🇮🇱❌🇮🇱🇮🇱 — Israeli Opposition Leader Lapid accuses Netanyahu of turning Israel into a ‘full-fledged protectorate state’ after Trump backtracks IDF military plans in Lebanon, reports I24News
 ‏
@@ -4088,17 +3400,6 @@ src :@naya_foriraq
 ‏🌟ترامب:
 ‏إذا استسلمت إيران، واعترفت بأن بحريتها قد ذهبت وتستقر في قاع البحر، وأن قواتها الجوية لم تعد معنا، وإذا خرج جيشها بأكمله من طهران، وألقى أسلحته ورفع يديه عاليًا، وصرخ كل منهم "أستسلم، أستسلم" بينما يلوح بشدة بالعلم الأبيض التمثيلي، وإذا وقع قادتها المتبقون جميعًا "وثائق الاستسلام" الضرورية، واعترفوا بهزيمتهم أمام القوة العظيمة والقوة للولايات المتحدة الرائعة، فإن صحيفة نيويورك تايمز الفاشلة، وصحيفة شينجزي ستريت جورنال (WSJ!)، وشبكة CNN الفاسدة وغير ذات أهمية الآن، وجميع أعضاء وسائل الإعلام الإخبارية المزيفة الأخرى، ستقوم بتغطية عناوين الأخبار بأن إيران حققت انتصارًا رائعًا وذكيًا على الولايات المتحدة الأمريكية، ولم يكن الأمر قريبًا حتى. لقد ضل الديمقراطيون ووسائل الإعلام طريقهم تمامًا. لقد أصبحوا جنونًا تمامًا!!
 05:21
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: President Trump posts the exact same thing on Truth Social about Iran that he already posted two times before
-‏
-‏@Middle_East_Spectator
-05:15
 1405/03/12
 
 
@@ -4163,35 +3464,6 @@ src :@tabzlive
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓  @hey_itsmyturn Tue, 02 Jun 2026 01:30:28 UTC  President Trump @POTUS: "If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons…
-05:00
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 01:30:28 UTC
-‏
-‏President Trump @POTUS:
-‏"If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close. The Dumacrats and Media have totally lost their way. They have gone absolutely CRAZY!!! President DJT"
-‏
-‏فارسی
-‏
-‏رئیس‌جمهور ترامپ @POTUS:
-‏
-‏«اگر ایران تسلیم شود، اعتراف کند که نیروی دریایی‌شان نابود شده و در کف دریا آرمیده است، و نیروی هوایی‌شان دیگر در میان ما نیست، و اگر تمام نظامیانشان از تهران بیرون بیایند، در حالی که سلاح‌ها را زمین گذاشته و دست‌ها را بالا برده‌اند و هر یک فریاد می‌زنند "من تسلیم هستم، من تسلیم هستم" و همزمان پرچم سفیدِ نشان‌دهنده تسلیم را دیوانه‌وار تکان می‌دهند، و اگر تمام رهبری باقی‌مانده‌شان تمام "اسناد تسلیم" لازم را امضا کنند و به شکست خود در برابر قدرت و نیروی عظیم ایالات متحده (U.S.A.) با شکوه اعتراف کنند، روزنامه رو به زوال نیویورک تایمز، چاینا استریت ژورنال (وال استریت ژورنال/WSJ!)، سی‌ان‌انِ (CNN) فاسد و اکنون بی‌اهمیت، و تمام دیگر اعضای رسانه‌های اخبار جعلی، تیتر خواهند زد که ایران پیروزی استادانه و درخشانی بر ایالات متحده آمریکا داشته است و حتی رقابت نزدیکی هم نبود. دموکرات‌های احمق و رسانه‌ها کاملاً راه خود را گم کرده‌اند. آن‌ها مطلقاً دیوانه شده‌اند!!! رئیس‌جمهور دی.جی.تی (DJT)»
-‏
-‏𝕏  ·  @shin_persian
-05:00
-1405/03/12
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش رویترز به نقل از منابع آگاه، جمهوری اسلامی در حالی که با بحران فزاینده اقتصادی، کاهش ارزش پول ملی و نارضایتی گسترده اجتماعی روبه‌رو است، به‌دنبال دستیابی به یک توافق موقت و محدود با دولت دونالد ترامپ است؛ توافقی که به گفته منابع آگاه، هدف اصلی آن خرید زمان، کاهش فشارهای اقتصادی، دسترسی به منابع مالی و جلوگیری از بازگشت اعتراضات سراسری است، نه حل‌وفصل اختلافات اصلی بر سر برنامه هسته‌ای.
@@ -4204,51 +3476,6 @@ src :@Indypersian
 ‏کارشناسان به رویترز گفته‌اند که تمایل تهران به مذاکره بیش از آنکه ناشی از نگرانی‌های نظامی باشد، نتیجه فشارهای اقتصادی و نگرانی از فرسایش توان حکومت برای اداره کشور و مهار نارضایتی‌های داخلی است. 
 ‏@indypersian
 04:53
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 01:21:02 UTC
-‏
-‏President Trump @POTUS:
-‏"https://www.thefp.com/p/iran-war-end-trump-peace-deal-israel"
-‏
-‏فارسی
-‏
-‏رئیس‌جمهور ترامپ @POTUS:
-‏"https://www.thefp.com/p/iran-war-end-trump-peace-deal-israel"
-‏
-‏𝕏  ·  @shin_persian
-04:51
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏#NEW 🇺🇸❌🇮🇱- According to Axios, Donald Trump lashed out at Israeli Prime Minister Benjamin Netanyahu in an expletive-laden phone call today over Israel's escalation in Lebanon, telling him "you're fucking crazy," according to two US officials and a third source…
-04:47
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-‏Explosions kiev
-04:39
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-‏Kh101 heading towards Kyiv from Cherkasy
-04:39
 1405/03/12
 
 
@@ -4355,40 +3582,9 @@ src :@BellumActaNews
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️در ادامه روایت‌های متناقض بانک مرکزی و مرکز آمار از نرخ تورم، مرکز آمار ایران نرخ تورم نقطه به نقطه اردیبهشت‌ماه را ۸۳.۵ درصد اعلام کرد که دست‌کم ۶ درصد بالاتر از آمار ادعای بانک مرکزی (۷۷ درصد) است.  این در حالی است که همین آمار و ارقام اعلامی نیز با واقعیت‌های موجود در زندگی روزمره مردم فاصله زیادی دارد و مردم تورم بسیار بیشتری را در انواع کالا و خدمات مشاهده می‌کنند. براساس گزارش مرکز آمار، خانوارهای ایرانی در اردیبهشت ماه امسال در مقایسه با سال قبل خوراکی‌ها را ۱۲۹.۸ درصد گران‌تر خریده‌اند. در این بین، گوشت قرمز دست‌کم ۱۷۵ درصد و روغن، حداقل ۲۶۶ درصد گران‌تر شده است. در این گزارش هزینه آب و برق و سوخت و کالا و خدمات متفرقه نیز ۱۰۰ درصد گران‌تر از سال قبل عنوان شده است. خودرو نیز دست‌کم ۱۲۵ درصد گران‌تر شده است. در گزارش مرکز آمار، نرخ تورم سالانه نیز ۵۷.۷ درصد اعلام شده که همچنان بالاتر از رقم اعلامی بانک مرکزی (۵۳.۹ درصد) است. در گزارش مرکز آمار، استان‌های ایلام، کردستان و لرستان دچار تورم ۱۰۰ درصدی هستند.
-‏ 
-‏@indypersian
-03:54
-1405/03/12
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇷🇺❌🇺🇦 — Kiev's Metro is now flooded with civilians that didn't managed to reach bomb shelters across the Ukrainian capital
-03:49
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[ویدئو]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 00:19:14 UTC
-‏
-‏There she is. 
-‏Tehran, Iran
-‏
-‏فارسی
-‏
-‏او آنجاست.
-‏تهران، ایران
-‏
-‏𝕏  ·  @shin_persian
 03:49
 1405/03/12
 
@@ -4414,72 +3610,9 @@ src :@naya_foriraq
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 00:10:09 UTC
-‏
-‏Jet activity, western Tehran.
-‏0009Z
-‏
-‏فارسی
-‏
-‏فعالیت جنگنده‌ها، غرب تهران.
-‏۰۰۰۹ زولو (۰۳:۳۹ به وقت تهران)
-‏
-‏𝕏  ·  @shin_persian
-03:40
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏OSINTdefender ✓ @sentdefender
-‏Mon, 01 Jun 2026 23:25:45 UTC
-‏
-‏Major ballistic missile attack underway against the Ukrainian capital of Kyiv.
-‏
-‏فارسی
-‏
-‏حمله موشکی بالستیک گسترده‌ای علیه کی‌یف، پایتخت اوکراین، در جریان است.
-‏
-‏𝕏  ·  @shin_persian
-03:24
-1405/03/12
-
-
-
-
 src :@rnintel
 ‏🇱🇧🇮🇱⚡️- "A very difficult security incident in the northern Shlomi settlement, under censorship." - Israeli media.
 03:02
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Mon, 01 Jun 2026 23:31:06 UTC
-‏
-‏Looks like I have to remind some people who stopped Israel from continuing the strikes and maybe finishing the Islamic regime back in 2025. 
-‏
-‏Now Google how many Iranians were hanged since June 2025.
-‏
-‏Will leave you with your conscience and red MAGA hats.
-‏
-‏فارسی
-‏
-‏به نظر می‌رسد باید به برخی افراد یادآوری کنم که چه کسانی در سال ۲۰۲۵ مانع از ادامه حملات اسرائیل و شاید تمام کردن کار رژیم اسلامی شدند.
-‏
-‏حالا در گوگل جستجو کنید که از ژوئن ۲۰۲۵ تاکنون چه تعداد ایرانی اعدام (آویخته) شده‌اند.
-‏
-‏شما را با وجدانتان و کلاه‌های قرمز MAGA تنها می‌گذارم.
-‏
-‏𝕏  ·  @shin_persian
-03:01
 1405/03/12
 
 
@@ -4498,24 +3631,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 02:57
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇱/🇮🇷 NEW: Hezbollah launched a large rocket barrage into the upper Galilee  @Middle_East_Spectator
-02:47
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-‏Monitoring something interesting.
-‏
-‏Will update if it’s anything, but probably nothing.
-02:39
 1405/03/12
 
 
@@ -4651,55 +3766,6 @@ src :@VahidOnline
 
 
 
-src :@Middle_East_Spectator
-[نظرسنجی]
-02:26
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇱/🇮🇷 NEW: Drone incursion and rocket attack in Shlomi
-‏
-‏@Middle_East_Spectator
-02:25
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏↩️ Quoted tweet:
-‏Shin ✓ @hey_itsmyturn
-‏Mon, 01 Jun 2026 22:30:46 UTC
-‏
-‏@WhiteHouse Yeah, about that, NO.
-‏Even if he attacks the Islamic Regime right fucking now, his dumb pause led to numerous executions since the "ceasefire", so, no, I won't "Trust in Trump" and his promised "Help".
-‏
-‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
-‏
-‏فارسی
-‏
-‏@WhiteHouse آره، در این مورد، نه.
-‏حتی اگر او همین الان هم به رژیم اسلامی حمله کند، وقفه احمقانه‌اش منجر به اعدام‌های متعددی از زمان «آتش‌بس» شده است، بنابراین، نه، من به ترامپ و «کمک» وعده داده شده‌اش «اعتماد» نخواهم کرد.
-‏
-‏𝕏  ·  @shin_persian
-02:21
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏↩️ Quoted tweet: Shin ✓  @hey_itsmyturn Mon, 01 Jun 2026 22:30:46 UTC  @WhiteHouse Yeah, about that, NO. Even if he attacks the Islamic Regime right fucking now, his dumb pause led to numerous executions since the "ceasefire", so, no, I won't "Trust in Trump"…
-02:21
-1405/03/12
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇬🇧🇮🇶⚡- The British Ministry of Defense has announced the passing of a serviceman during a training session at Erbil Air Base, Iraq's Kurdistan region.
 ‏
@@ -4710,71 +3776,11 @@ src :@rnintel
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇱/🇮🇷 NEW: According to Hebrew reports, 17 rockets were launched into the North  @Middle_East_Spectator
-02:15
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇱/🇮🇷 NEW: According to Hebrew reports, 17 rockets were launched into the North
-‏
-‏@Middle_East_Spectator
-02:10
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-‏At least 15-20 rockets.
-‏
-‏One of the largest single waves launched by Hezbollah in recent weeks.
-02:08
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇱/🇮🇷 NEW: Hezbollah launched a large rocket barrage into the upper Galilee
-‏
-‏@Middle_East_Spectator
-02:08
-1405/03/12
-
-
-
-
 src :@cataphract1
 ‏♨️ آژیر خطر در جولان و هرمون 
 ‏
 ‏📃@Cataphract1
 02:07
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Mon, 01 Jun 2026 22:35:53 UTC
-‏
-‏Sirens in Golan, Hermon
-‏#Israel 🇮🇱
-‏
-‏فارسی
-‏
-‏آژیرهای خطر در جولان، حرمون
-‏#Israel 🇮🇱
-‏
-‏𝕏  ·  @shin_persian
-02:06
 1405/03/12
 
 
@@ -4815,61 +3821,10 @@ src :@bricsnews
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Mon, 01 Jun 2026 22:26:14 UTC
-‏
-‏Some sources on the explosion, and one guy looking for, well, god knows what xD
-‏
-‏فارسی
-‏
-‏برخی منابع درباره انفجار، و یک نفر که به دنبال، خب، خدا می‌داند چه می‌گردد xD
-‏
-‏𝕏  ·  @shin_persian
-01:56
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Mon, 01 Jun 2026 22:24:16 UTC
-‏
-‏Blast sound in Sana'a, Yemen
-‏
-‏فارسی
-‏
-‏صدای انفجار در صنعا، یمن
-‏
-‏𝕏  ·  @shin_persian
-01:54
-1405/03/12
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️#SHOCKING Trump tells Netanyahu "You're fucking crazy" during call regarding Lebanon — Axios
 01:52
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-‏یک زلزله بزرگ با قدرت ۶.۵ ریشتر جنوب ایتالیا را لرزاند.
-01:49
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-‏«نه فقط کله‌زرد، بلکه تو زرد از آب دراومد»
-01:48
 1405/03/12
 
 
@@ -4887,60 +3842,9 @@ src :@warmonitors
 
 
 
-src :@mwarmonitor
-‏"You're fucking crazy":
-‏خشم شدید ترامپ از نتانیاهو در تماس تلفنی مربوط به لبنان
-‏
-‏📝نویسندگان: باراک راوید، مارک کاپوتو
-‏
-‏🔰به گفته دو مقام آمریکایی و یک منبع سومِ مطلع، پرزیدنت ترامپ روز دوشنبه در یک تماس تلفنیِ پر از الفاظ رکیک، به دلیل تشدید تنش‌های اسرائیل در لبنان، به بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به‌شدت تاخت.
-‏
-‏📌چرا این موضوع اهمیت دارد؟
-‏پیش از این تماس در روز دوشنبه، ایران تهدید کرده بود که به دلیل اقدامات اسرائیل در لبنان، مذاکرات خود با ایالات متحده را متوقف خواهد کرد. به گفته دو تن از منابع، ترامپ در این تماس نتانیاهو را «دیوانه» خطاب کرد و او را به نمک‌نشناسی متهم نمود. او همچنین مانع از اجرای طرح اسرائیل برای حمله به بیروت شد.
-‏
-‏پشت صحنه ماجرا
-‏انزوای اسرائیل: یک مقام آمریکایی گفت ترامپ به نتانیاهو هشدار داده است که عملی کردن تهدیدهایش مبنی بر بمباران پایتخت لبنان، اسرائیل را در جهان منزوی‌تر خواهد کرد.
-‏ادعای ترامپ درباره دادگاه نتانیاهو: دو تن از منابع اعلام کردند ترامپ ادعا کرده که به دور نگه داشتن نتانیاهو از زندان کمک کرده است؛ که این اشاره‌ای است به حمایت‌های او از نتانیاهو در طول پرونده محاکمه‌اش به اتهام فساد مالی.
-‏خلاصه اظهارات ترامپ به نتانیاهو از زبان یک مقام آمریکایی:
-‏«تو بدجوری دیوونه‌ای. اگر من نبودم الان تو زندان بودی. دارم باامت رو نجات میدم. الان همه ازت متنفرن. به خاطر این کارها، همه دارن از اسرائیل متنفر میشن.»
-‏یک منبع دومِ مطلع از این تماس نیز گفت که ترامپ «به‌شدت عصبی» بود و در بخشی از مکالمه با فریاد به نتانیاهو گفت: «داری چه غلطی می‌کنی؟»
-‏دلایل اصلی تنش
-‏به گفته این مقام آمریکایی، ترامپ می‌دانست که حزب‌الله به سمت اسرائیل شلیک کرده و اسرائیل نیاز به دفاع از خود دارد، اما احساس می‌کرد که نتانیاهو در روزهای اخیر به شکلی نامتناسب در حال تشدید تنش‌ها است.
-‏علاوه بر تهدیدها علیه بیروت، اسرائیل عملیات زمینی خود را در جنوب لبنان گسترش داده است.
-‏یک مقام آمریکایی دیگر گفت ترامپ از اینکه اسرائیل غیرنظامیان زیادی را در لبنان کشته، نگران است و با شیوه اسرائیلی‌ها برای تخریب کامل ساختمان‌ها جهت از بین بردن تنها یک فرمانده حزب‌الله، مخالفت کرده است.
-‏وضعیت فعلی
-‏یک مقام اسرائیلی به آکسیوس گفت که اسرائیل دیگر برنامه‌ای برای حمله به اهداف حزب‌الله در بیروت ندارد.
-‏تحلیل ماجرا (پشت پرده)
-‏ترامپ و نتانیاهو در گذشته نیز چندین تماس تلفنی متشنج داشته‌اند، اما همچنان در موضوع ایران و مسائل دیگر همکاری نزدیکی با یکدیگر دارند. با این حال، یک مقام مسئول گفت این یکی از بدترین تماس‌های ترامپ با نتانیاهو از زمان بازگشت او به کاخ سفید بوده است.
-‏به نظر می‌رسد خشم ترامپ ناشی از این بوده که تصمیم نتانیاهو برای تشدید تنش در لبنان، مذاکرات او با ایران را در آستانه فروپاشی قرار داده بود. پس از این تماس، ترامپ در شبکه اجتماعی «تروث سوشال» پست کرد که مذاکرات با ایران «با سرعتی بالا در حال جریان است».
-‏موضع طرف مقابل
-‏نتانیاهو پس از این تماس بیانیه‌ای صادر کرد و گفت به ترامپ اعلام کرده است که اگر حزب‌الله دست از حمله به اسرائیل برندارد، اسرائیل به اهدافی در بیروت حمله خواهد کرد و در عین حال، اسرائیل به عملیات خود در جنوب لبنان ادامه خواهد داد.
-‏نتانیاهو نوشت: «موضع ما تغییر نکرده است.»
-‏اما مقام دوم آمریکایی ادعا کرد که در واقعیت، ترامپ در این تماس نتانیاهو را «مرعوب و تسلیم» کرده است. به گفته این مقام، بیبی (نتانیاهو) در پاسخ گفته است: «باشه، باشه، فقط مطمئن شو که همه چیز روبه‌راه میشه.»
-‏دفتر نتانیاهو به درخواست آکسیوس برای اظهار نظر در این باره پاسخی نداد.
-‏مواردی که باید زیر نظر داشت
-‏منابع به آکسیوس می‌گویند تفاهم‌نامه‌ای که ایالات متحده و ایران در حال مذاکره روی آن هستند، خواهان پایان یافتن درگیری‌ها در لبنان است. همین موضوع، علت تماس متشنج قبلی میان ترامپ و نتانیاهو نیز بوده است.
-‏
-‏@mwarmonitor
-01:45
-1405/03/12
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇱 — US President Trump and Israeli PM Netanyahu are currently speaking by phone.  @TheWarReporter
 01:43
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-‏Trump: ‘I don’t care if negotiations with Iran fail, I couldn’t care less’
-‏
-‏Also Trump when Iran threatens to stop negotiating: ‘NETANYAHOOOO! YOU’RE FUCKING INSANE! YOU’RE RUINING EVERYTHING!’
-01:37
 1405/03/12
 
 
@@ -4989,23 +3893,6 @@ src :@Mena_Live
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷/🇮🇱 NEW: After Iran threatened to pull out of negotiations, President Trump quickly called Israeli PM Netanyahu to postpone the planned attack against Beirut, according to Axios
-‏
-‏In the call, President Trump became openly furious at Netanyahu, saying: 
-‏
-‏‘You’re fucking crazy. You’d be in prison if it weren’t for me. I’m saving your ass. Everybody hates you now. Everybody hates Israel because of this. What the fuck are you doing?’
-‏
-‏One U.S. official says it was the worst call ever between the two leaders, as Trump perceived Netanyahu as trying to sabotage diplomacy with Iran.
-‏
-‏@Middle_East_Spectator
-01:33
-1405/03/12
-
-
-
-
 src :@Mena_Live
 ‏Syrian airspace recorded about 12,000 flights in May after airlines changed their routes to avoid conflict zones in the Middle East.
 ‏
@@ -5017,35 +3904,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:30
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇱🇧/🇮🇱 NEW: President Trump once again says he stopped Israel from targeting Beirut
-‏
-‏He also repeated his claim that both sides have agreed to stop fighting, but this has not happened.
-‏
-‏@Middle_East_Spectator
-01:28
-1405/03/12
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇮🇱/🇮🇷 NOTE: The claim that Hezbollah has agreed to stop targeting Israeli settlements in exchange for the IDF not bombing Beirut is false 
-‏
-‏Hassan Fadlallah, a Hezbollah MP, said this condition is ‘unacceptable’. Tasnim News also confirmed that Hezbollah has rejected such an approach.
-‏
-‏Today’s planned Israeli strike on Beirut was canceled because of a credible military threat from Iran, and that was the only reason. Hezbollah did not promise anything.
-‏
-‏The situation is still the same — Hezbollah will continue to target IDF occupation forces inside Lebanon and also in northern Israel, as long as Israeli attacks in Lebanon continue.
-‏
-‏@Middle_East_Spectator
-01:24
 1405/03/12
 
 
@@ -5130,31 +3988,6 @@ src :@VahidOnline
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🔴«امروز با بی‌بی نتانیاهو گفتگو کردم و از او خواستم که حمله گسترده‌ای به بیروت در لبنان انجام ندهد. او نیروهایش را بازگرداند. ممنونم بی‌بی! من همچنین گفتگویی با نمایندگان رهبران حزب‌الله داشتم و آن‌ها موافقت کردند که شلیک به سمت اسرائیل و سربازانش را متوقف کنند. به همین ترتیب، اسرائیل نیز موافقت کرد که شلیک به سمت آن‌ها را متوقف کند. بیایید ببینیم این وضعیت چقدر دوام خواهد آورد — امیدوارم برای همیشه (تا ابد) باشد!
-‏
-‏رئیس‌جمهور دونالد جی. ترامپ»
-‏
-‏
-‏@mwarmonitor
-01:20
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏📝 اینکه قالیباف با وقاحت از «برادری دو ملت ایران و لبنان» و «دفاع از سرزمین مادری» دم می‌زند، اوج یک کمدی تهوع‌آور است. این انگل‌زادگان سیاسی در حالی برای توقف گفتگوها و ایستادگی حماسی نسخه می‌پیچند که هیچ رابطه دیپلماتیک واقعی میان ملت لبنان و آن‌ها وجود ندارد؛ سفیر بی‌کفایتشان حتی پس از اخراج، با وقاحت تمام در بیروت ماند تا در بغل صیغه‌های شیعه حزب‌الله به ریش هر دو ملت بخندد. حقیقت تلخ این تئاتر مضحک آن است که جمهوری اسلامی و حزب‌الله مانند یک تومور سرطانی و بی‌درمان، شیره جان دو ملت را می‌مکند؛ قالیباف و هم‌فکرانش نگران مردم مظلوم لبنان نیستند، بلکه تنها واهمه آن‌ها، نابودی همان نطفه سرطانی و دست‌پرورده‌ای است که بقای ایدئولوژیک و سفره‌های غارتگری‌شان به آن وابسته‌ است.
-‏
-‏@mwarmonitor
-01:18
-1405/03/12
-
-
-
-
 src :@cataphract1
 ‏♨️ ترامپ:
 ‏توافق با ایران ممکن است هفته بعد به انجام برسد 
@@ -5169,23 +4002,6 @@ src :@cataphract1
 src :@rnintel
 ‏🇺🇸🛢️⚡- “The U.S. Strategic Petroleum Reserve (SPR) is less than 10 days away from falling to its lowest level since August 1983- over 15,625 days ago- a level not seen since the SPR's initial fill-up that began in 1977.” - Petroleum Analyst Patrick De Haan.
 01:16
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏Open Source Intel ✓ @Osint613
-‏Mon, 01 Jun 2026 20:41:36 UTC
-‏
-‏British Airways suspends all flights to Israel until October 24.
-‏
-‏فارسی
-‏
-‏بریتیش ایرویز تمامی پروازهای خود به اسرائیل را تا ۲۴ اکتبر به حالت تعلیق درآورد.
-‏
-‏𝕏  ·  @shin_persian
-01:15
 1405/03/12
 
 
@@ -5247,32 +4063,6 @@ src :@tglobaleye
 
 
 
-src :@mwarmonitor
-‏🔴بر اساس گزارش ABC، یک فرد مسلح در یک کلینیک پزشکی در منطقه پلیکن نَروز در استان ساسکاچوان کانادا گزارش شده است. پلیس اعلام کرد فرد مظنون لباس کاملاً سیاه بر تن دارد و صورتش پوشیده است.
-‏
-‏@mwarmonitor
-01:05
-1405/03/12
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏USAF نیروی هوایی ایالات متحده –✈️ جابه‌جایی‌های ویژه (VIP)
-‏
-‏✈️یک فروند Boeing C-40 Clipper
-‏شماره رجیستر: AE11F6 01-0041 – SAM 708
-‏
-‏🔴پرواز SAM 708 از پایگاه هوایی مک‌دیل به مقصد فرودگاه اشتوتگارت در آلمان انجام شد؛ که به‌احتمال زیاد حامل برد کوپر، فرمانده فرماندهی مرکزی ایالات متحده (USCENTCOM) بوده است.
-‏
-‏@mwarmonitor
-01:03
-1405/03/12
-
-
-
-
 src :@rnintel
 ‏🇨🇦⚡️- Reports of an active shooter at a medical clinic in Pelican Narrows, Saskatchewan, Canada.
 01:00
@@ -5297,78 +4087,6 @@ src :@rnintel
 ‏
 ‏Vasquez has over 26 years of experience in Border Patrol and has been identified as a “straight shooter” and a rigid individual.
 00:50
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏🔁 Quoting above tweet: Shin ✓  @hey_itsmyturn Mon, 01 Jun 2026 21:14:21 UTC  Hezbollah MP Hassan Fadlallah:  "We reject the American proposal, received hours ago through intermediaries, which stipulates a cessation of Hezbollah operations in exchange for Israel…
-00:44
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏↩️ Quoted tweet: Open Source Intel ✓  @Osint613 Mon, 01 Jun 2026 17:32:55 UTC  Trump: “I had a very productive call with Prime Minister Bibi Netanyahu, of Israel, and there will be no Troops going to Beirut, and any Troops that are on their way, have already…
-00:44
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏🔁 Quoting above tweet:
-‏Shin ✓ @hey_itsmyturn
-‏Mon, 01 Jun 2026 21:14:21 UTC
-‏
-‏Hezbollah MP Hassan Fadlallah:
-‏
-‏"We reject the American proposal, received hours ago through intermediaries, which stipulates a cessation of Hezbollah operations in exchange for Israel not bombing the southern suburbs.
-‏
-‏Our steadfast position is that any comprehensive ceasefire, as a pathway for the enemy's withdrawal from our land, must be part of the solution.
-‏
-‏A complete ceasefire, no return to the pre-March 2nd status quo, and no such thing as 'freedom of movement for Israel'. "
-‏
-‏[Source: Hezballah-affiliated Telegram channels]
-‏
-‏فارسی
-‏
-‏حسن فضل‌الله، نماینده پارلمان از فراکسیون حزب‌الله:
-‏
-‏«ما پیشنهاد آمریکا را که ساعاتی پیش از طریق میانجی‌ها دریافت شد و بر توقف عملیات حزب‌الله در ازای عدم بمباران ضاحیه جنوبی توسط اسرائیل تصریح دارد، رد می‌کنیم.
-‏
-‏موضع استوار ما این است که هرگونه آتش‌بس جامع، به عنوان مسیری برای عقب‌نشینی دشمن از خاک ما، باید بخشی از راه حل باشد.
-‏
-‏آتش‌بس کامل، عدم بازگشت به وضعیت پیش از ۲ مارس، و چیزی به نام "آزادی عمل برای اسرائیل" وجود نخواهد داشت.»
-‏
-‏[منبع: کانال‌های تلگرامی وابسته به حزب‌الله]
-‏
-‏𝕏  ·  @shin_persian
-00:44
-1405/03/12
-
-
-
-
-src :@Shin_Persian
-‏↩️ Quoted tweet:
-‏Open Source Intel ✓ @Osint613
-‏Mon, 01 Jun 2026 17:32:55 UTC
-‏
-‏Trump: “I had a very productive call with Prime Minister Bibi Netanyahu, of Israel, and there will be no Troops going to Beirut, and any Troops that are on their way, have already been turned back. Likewise, through highly placed Representatives, I had a very good call with
-‏
-‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
-‏
-‏فارسی
-‏
-‏ترامپ: «من تماس بسیار سازنده‌ای با بی‌بی نتانیاهو، نخست‌وزیر اسرائیل داشتم و هیچگونه نیروی نظامی (نیروهای ارتش) به بیروت اعزام نخواهد شد، و هر نیرویی که در راه بوده، در حال حاضر بازگردانده شده است. به همین ترتیب، از طریق نمایندگان عالی‌رتبه، تماس بسیار خوبی با...»
-‏
-‏𝕏  ·  @shin_persian
-00:44
 1405/03/12
 
 
@@ -5537,22 +4255,6 @@ src :@rnintel
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏نیروی دریایی سپاه ، کشتی «msc. sariska»  را هدف قرار داد
-‏
-‏ روابط عمومی سپاه:
-‏
-‏در پی حمله متجاوزانه ارتش تروریستی و کودک کش امریکا به کشتی ایرانی " لیان استار" در محدوده دریای عمان  نیروی دریایی سپاه طی یک عملیات مقابله به مثل، کشتی  "msc. sariska" با مالکیت دشمن امریکایی صهیونی را  با موشک کروز مورد هدف قرار داد
-‏
-‏ نیروی دریایی سپاه اعلام کرد هر گونه تجاوز ارتش کودک کش امریکا در این منطقه با پاسخ قاطع روبرو خواهد شد.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-23:45
-1405/03/11
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏خبرگزاری جمهوری اسلامی، ایرنا، روز دوشنبه ۱۱ خرداد از کشته‌شدن دو سپاهی در قم خبر داد.
@@ -5586,20 +4288,6 @@ src :@tglobaleye
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏بنابر اطلاع ایران‌وایر، دادگاه تجدیدنظر آذربایجان شرقی احکام صادر شده علیه «رضا سلیمی»، «امین تقی‌زاده» و «صمد حیدری»، سه فعال مدنی ترک را عینا تایید کرده است.
-‏براساس رای پیشین شعبه دوم دادگاه انقلاب تبریز به ریاست قاضی «رضا عبدی»، هر یک از این فعالان بابت اتهام «اجتماع و تبانی برای ارتکاب جرم علیه امنیت داخلی و خارجی کشور» به سه سال و هفت ماه حبس تعزیری و بابت اتهام «تبلیغ علیه نظام» به هشت ماه حبس تعزیری محکوم شده‌اند.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153156
-‏
-‏ @Farsi_Iranwire
-23:39
-1405/03/11
-
-
-
-
 src :@didarnews1
 ‏🔴سپاه پاسداران:
 ‏
@@ -5625,22 +4313,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:38
-1405/03/11
-
-
-
-
-src :@defence_news
-‏نیروی دریایی سپاه ، کشتی «msc. sariska»  را هدف قرار داد
-‏
-‏ روابط عمومی سپاه:
-‏
-‏در پی حمله متجاوزانه ارتش تروریستی و کودک کش امریکا به کشتی ایرانی " لیان استار" در محدوده دریای عمان  نیروی دریایی سپاه طی یک عملیات مقابله به مثل، کشتی  "msc. sariska" با مالکیت دشمن امریکایی صهیونی را  با موشک کروز مورد هدف قرار داد
-‏
-‏ نیروی دریایی سپاه اعلام کرد هر گونه تجاوز ارتش کودک کش امریکا در این منطقه با پاسخ قاطع روبرو خواهد شد.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-23:35
 1405/03/11
 
 
@@ -5715,103 +4387,6 @@ src :@VahidOnline
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶  [نویسنده] روابط قذافی با صدام حسین چگونه بود؟
-‏
-‏🔹 [عبد الرحمن شلغم] صدام در تعامل با قذافی، با گردن کلفتی برخورد می‌کرد. در یکی از اجلاسیه‌های سران عرب به او گفت: برادر معمر، لیبی را چه نامیده ای؟ جماهیر عربی و دیگر چه؟ نام کاملش را بگو! طبیعی بود که این صحبت برای خوار ساختن قذافی بود.
-‏
-‏🔹قذافی هم از صدام حسین دوری می‌کرد چون صدام شخصیتی تند و تیز داشت. روابط صدام و قذافی به نوعی نفرت شدید انجامید که همین سرانجام باعث شد لیبی در پشت پرده به ایران موشک‌هایی تحویل دهد تا در زدن شهر های عراق به کار گرفته شود.
-‏
-‏در خیمه قذافی، انتشارات اطلاعات، خلاصه‌ای از صفحه ۱۷۶
-‏
-‏🔹[نویسنده] قذافی موشک‌ها را مجانی به ایران داد؟
-‏[شلغم] بله
-‏
-‏در خیمه قذافی، انتشارات اطلاعات، گزیده‌ای از صفحه ۱۷۸
-‏
-‏🔹این کتاب حاصل مصاحبه غسان شربل، روزنامه نگار عرب با ۵ تن از سیاستمداران و مسئولان لیبیایی درباره سیاست و حکومت لیبی در دوره قذافی است.
-‏
-‏مکپر
-‏
-‏#لیبی #تاریخ #قذافی #صدام
-‏
-‏@RASTAKHIZ_PERSIAN
-23:21
-1405/03/11
-
-
-
-
-src :@mwarmonitor
-‏🔴اعلام آتش‌بس از سوی دونالد ترامپ، رئیس‌جمهور ایالات متحده، پس از تلاش‌های فشرده ایران، میانجی‌گری فعال قطر و نقش کلیدی نبیه بری، رئیس مجلس لبنان، صورت گرفت.
-‏🔸در این چارچوب، علی حسن خلیل، دستیار سیاسی بری، هم‌اکنون در دوحه حضور دارد تا پیگیری رایزنی‌های جاری را انجام دهد. الجزیره 
-‏
-‏
-‏@mwarmonitor
-23:14
-1405/03/11
-
-
-
-
-src :@mwarmonitor
-‏🔴فرماندهی مرکزی ایالات متحده (سنتکام) سی‌امین دوره رزمایش «همکاری منطقه‌ای» را میزبانی می‌کند
-‏
-‏🔰تامپا، فلوریدا — فرماندهی مرکزی ایالات متحده (CENTCOM) سی‌امین دوره از رزمایش «همکاری منطقه‌ای» (Regional Cooperation) را در تاریخ ۱ ژوئن در فورت هریسون، ایالت مونتانا آغاز کرد.
-‏
-‏🔸رزمایش همکاری منطقه‌ای، بزرگترین تمرین آموزشی سنتکام با کشورهای آسیای مرکزی و جنوبی است که پیشینه آن به سال ۱۹۹۶ بازمی‌گردد و با هدف ارتقای امنیت، ثبات و قابلیت همکاری متقابل در منطقه طراحی شده است.
-‏
-‏🔹دریادار برد کوپر، فرمانده سنتکام گفت:
-‏«آموزش مشترک به مدت سه دهه، نشان‌دهنده یک نقطه عطف بزرگ و گواهی بر اعتماد و همکاری دیرینه میان ایالات متحده و شرکای منطقه‌ای ما است. ما منافع مشترکی در آموزش و آماده‌سازی نیروهای خود برای طیف وسیعی از شرایط اضطراری داریم.»
-‏طی دو هفته آینده، بیش از ۳۵۰ پرسنل نظامی از ۱۰ کشور و ۱۰ واحد گارد ملی ایالات متحده در تمرینات یکپارچه‌ای شرکت خواهند کرد که برای بهبود پاسخ‌های تاکتیکی به تهدیدات امنیتی متعارف و نامتعارف طراحی شده‌اند.
-‏🔸این رزمایش ۱۱ روزه شامل سناریوهای پست فرماندهی، آموزش میدانی و امنیت سایبری خواهد بود که به شرکت‌کنندگان فرصتی برای هماهنگی و آموزش در یک محیط یادگیری را می‌دهد.
-‏
-‏📌کوپر افزود: «وقتی با هم آموزش می‌بینیم و کار می‌کنیم، روابطمان را قوی‌تر کرده و باعث پیشرفت یکدیگر می‌شویم.»
-‏
-‏@mwarmonitor
-23:13
-1405/03/11
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴به گزارش مرکز آمار، تورم نقطه به نقطه در اردیبهشت ماه به ۸۴ درصد رسیده است. نرخ تورم نقطه به نقطه مواد غذایی هم از ۱۳۰ درصد عبور کرده است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-23:11
-1405/03/11
-
-
-
-
-src :@mwarmonitor
-‏🔴کانال ۱۲ اسرائیل به نقل از منابع: تماس تلفنی میان ترامپ و نتانیاهو بیش از یک ساعت است که ادامه دارد.  @mwarmonitor
-23:06
-1405/03/11
-
-
-
-
-src :@Farsi_Iranwire
-[فایل]
-‏📻 نسخه کامل برنامه شبانگاهی رادیو ایران‌وایر - دوشنبه ۱۱ خرداد
-‏
-‏در دو نوبت به وقت ایران، ساعت ۱۴ تا ۱۵ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز
-‏و ساعت ۲۳ تا ۲۴ روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم.
-‏همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان.
-‏
-‏@Farsi_Iranwire
-23:05
-1405/03/11
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏Lebanese Embassy in Washington: 
@@ -5825,40 +4400,12 @@ src :@tglobaleye
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏سمیرا نوروز ناصری، فیلمساز و کارگردان ساکن تهران، روز دوشنبه ۱۱ خرداد توسط نیروهای امنیتی بازداشت و به مکانی نامعلوم منتقل شد.
-‏به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، ماموران امنیتی صبح روز دوشنبه بدون ارائه حکم قضایی به منزل این فیلمساز مراجعه کرده و او را بازداشت کردند.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153155
-‏ @Farsi_Iranwire
-23:02
-1405/03/11
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏🇮🇷🇮🇱🇺🇸⚡️قاآنی: شرارت جدید صهیونیست‌ها باب‌المندب را مثل تنگهٔ هرمز خواهد کرد
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
 22:52
-1405/03/11
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 علی قلهکی: عقب نشینیِ اسرائیل از «حمله به ضاحیه»، بابت تهدید ایران مبنی بر «حمله به شمالِ سرزمین‌های اشغالی» و همچنین «حمله به یکی از نیروهای نیابتیِ مهم اسرائیل در منطقه» بوده است!
-‏
-‏🔹 ترامپ پس از اطمینان از معتبر بودن این تهدید و قطعی بودنِ اقدامِ ایران، اسرائیل را "فعلا" از حمله به ضاحیه منصرف کرده است.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-22:43
 1405/03/11
 
 
@@ -5950,15 +4497,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@defence_news
-‏ترامپ از طریق Truth Social:
-‏مذاکرات با جمهوری اسلامی ایران با سرعت زیادی ادامه دارد.
-22:08
-1405/03/11
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇱🇺🇸 Israeli National Security Minister Ben Gvir says "it is time to say NO to President Trump."
@@ -6023,20 +4561,6 @@ src :@MilitiaNews
 ‏بار دیگر، رئیس جمهور ترامپ کسی است که سیاست اسرائیل را تعیین می‌کند. این دیوانگی است.
 ‏
 ‏@MilitiaNews | میلیشا را دنبال کنید
-21:55
-1405/03/11
-
-
-
-
-src :@defence_news
-‏خبرنگار امنیتی اسرائیلی در گفتگو با رادیو ارتش اسرائیل: 
-‏
-‏بار دیگر، رئیس جمهور ترامپ کسی است که سیاست اسرائیل را تعیین می‌کند. این دیوانگی است.
-‏
-‏پ.ن: وقتی از موشک پدافندی تا گلوله توپخانه، بمب هواپیماها و حتی بودجه های تحقیقات نظامی خود را از امریکا دریافت کنید در زمان تصمیمات بزرگ سیاسی نیز بایستی تابع نظر امریکا باشید.
-‏
-‏@Minas_Tirith2024
 21:55
 1405/03/11
 
@@ -6147,19 +4671,6 @@ src :@Exciton_missile_program
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏یک منبع اسراییلی، روز دوشنبه ۱۱ خرداد ۱۴۰۵، به پایگاه خبری «وای‌نت» گفت اسراییل حملات برنامه‌ریزی شده به بیروت را به درخواست آمریکا به تعویق انداخته است. این منبع افزوده واشنگتن در حال پیشبرد ابتکار آتش‌بس است و از تل آویو خواسته تا زمان تکمیل روند دیپلماتیک، صبر کند.
-‏بر اساس این گزارش، یک مقام اسراییلی پیش‌تر اعلام کرده بود که عملیات نظامی با هماهنگی طرف آمریکایی برنامه‌ریزی شده است. این رسانه همچنین احتمال داده است که هدف از طرح این عملیات، افزایش فشار بر حزب الله برای پذیرش آتش‌بس باشد.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153153
-‏ @Farsi_Iranwire
-21:44
-1405/03/11
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏دونالد ترامپ تاکو زاده:
@@ -6220,15 +4731,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 ترامپ اتش بس در لبنان را اعلام کرد  🔹 من تماس تلفنی بسیار سازنده‌ای با بی‌بی نتانیاهو، نخست‌وزیر اسرائیل داشتم و هیچ نیرویی به بیروت اعزام نخواهد شد و هر نیرویی که در راه باشد، از قبل بازگردانده شده است. به همین ترتیب، از طریق نمایندگان عالی‌رتبه، تماس تلفنی…
-21:24
-1405/03/11
-
-
-
-
 src :@Mena_Live
 ‏Israeli opposition leader Liberman calls not to listen to Trump:
 ‏
@@ -6243,21 +4745,6 @@ src :@Mena_Live
 
 src :@thewarreporter
 ‏🇮🇱🇱🇧🇱🇧 — Israeli PM Netanyahu and Defense Minister Israel Katz have ordered the IDF to carry out strikes in Beirut's Dahiyeh district.  @TheWarReporter
-21:19
-1405/03/11
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 ترامپ اتش بس در لبنان را اعلام کرد
-‏
-‏🔹 من تماس تلفنی بسیار سازنده‌ای با بی‌بی نتانیاهو، نخست‌وزیر اسرائیل داشتم و هیچ نیرویی به بیروت اعزام نخواهد شد و هر نیرویی که در راه باشد، از قبل بازگردانده شده است. به همین ترتیب، از طریق نمایندگان عالی‌رتبه، تماس تلفنی بسیار خوبی با حزب‌الله داشتم و آنها موافقت کردند که تمام تیراندازی‌ها متوقف شود - اینکه اسرائیل به آنها حمله نکند و آنها به اسرائیل حمله نکنند. رئیس‌جمهور دونالد جی. ترامپ
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
 21:19
 1405/03/11
 
@@ -6400,17 +4887,6 @@ src :@bricsnews
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، پس از انتشار گزارش‌هایی درباره توقف تبادل پیام میان جمهوری اسلامی و آمریکا در واکنش به عملیات نظامی اسراییل در لبنان، گفت واشینگتن از این تصمیم مطلع نشده و شخصا اهمیتی به احتمال پایان مذاکرات نمی‌دهد.
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153152
-‏ @Farsi_Iranwire
-21:06
-1405/03/11
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 ترامپ اعلام کرد که حملات اسراییل به بیروت متوقف شده است:
@@ -6438,21 +4914,6 @@ src :@Exciton_missile_program
 ‏بخش مهمی از تحلیلگران ج.ا 4 دهه بر مبنای یک تئوری پرطرفدار تحلیل میکردند که رئیس جمهور آمریکا آدم اسرائیل است. تو گویی نخست وزیر اسرائیل بگوید که باید فلان کار را کنی. آنهم بدون تردید میگوید چشم. تئوریهای راهبردی غلط یک کشور را میتواند به فنا دهد. ترامپ رسما از اسرائیل به عنوان چوب تهدید بهره میبرد.
 ‏
 ‏@Exciton_missile_program 🚀
-20:59
-1405/03/11
-
-
-
-
-src :@defence_news
-‏🔶  رسانه‌های عبری گزارش داده‌اند که دونالد ترامپ از بنیامین نتانیاهو خواسته از حمله به منطقه ضاحیه در جنوب بیروت خودداری کند.
-‏
-‏#آمریکا
-‏#اسرائیل
-‏#حزب_الله
-‏#جنگ
-‏
-‏@RASTAKHIZ_PERSIAN
 20:59
 1405/03/11
 
@@ -6603,21 +5064,6 @@ src :@rus_cosmos
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🔶  رسانه‌های عبری گزارش داده‌اند که دونالد ترامپ از بنیامین نتانیاهو خواسته از حمله به منطقه ضاحیه در جنوب بیروت خودداری کند.
-‏
-‏#آمریکا
-‏#اسرائیل
-‏#حزب_الله
-‏#جنگ
-‏
-‏@RASTAKHIZ_PERSIAN
-20:32
-1405/03/11
-
-
-
-
 src :@Mena_Live
 ‏Trump “orders” Israel to stop attacks against Beirut’s Dahiye, no more attacks expected without his authoritzation— i24 Hebrew
 ‏
@@ -6644,14 +5090,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 20:23
-1405/03/11
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏دقایقی پیش ارتش اسرائیل دستور تخلیه ساکنان جنوب بیروت( ضاحیه) را صادر کرد.
-20:19
 1405/03/11
 
 
@@ -6726,18 +5164,6 @@ src :@thewarreporter
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🔶 شبکه 12 عبری: ترامپ و نتانیاهو درحال تماس تلفنی هستند
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-20:11
-1405/03/11
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺📷 ارتش اسرائیل با اعلام قبلی مواضع گروه تروریستی حـ.ـزب‌الله در جنوب بیروت (ضاحیه) را بمباران کرد. بنیامین نتانیاهو نخست وزیر اسرائیل در پیامی هشدار داد «اجازه نمی‌دهیم حزب‌الله به شهروندان اسرائیلی حمله کند و در بیروت در امان بماند.»
@@ -6785,20 +5211,6 @@ src :@rus_cosmos
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏هم‌زمان با صدور هشدار تخلیه از سوی ارتش اسراییل برای ساکنان حومه جنوبی بیروت، فرمانده قرارگاه مرکزی خاتم‌الانبیا به ساکنان مناطق شمالی اسراییل هشدار داد که در صورت عملی شدن تهدیدهای اسراییل علیه لبنان، برای جلوگیری از آسیب، این مناطق را ترک کنند.
-‏علی عبداللهی، فرمانده قرارگاه مرکزی خاتم‌الانبیا، اعلام کرد بنیامین نتانیاهو «در ادامه شرارت‌های خود در منطقه»، ضاحیه و بیروت را به بمباران تهدید کرده و برای ساکنان این مناطق هشدار تخلیه صادر کرده است.
-‏او افزود: «با توجه به نقض مکرر آتش‌بس توسط اسراییل، در صورت عملی شدن این تهدید، به ساکنان بخش‌های شمالی و شهرک‌های نظامی در سرزمین‌های اشغالی هشدار می‌دهیم اگر نمی‌خواهند آسیب ببینند منطقه را ترک کنند.»
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153150
-‏ @Farsi_Iranwire
-20:01
-1405/03/11
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 واکنش ترامپ به خبر تعلیق مذاکرات: سکوت خیلی خوب است / گرت هاک، خبرنگار NBC News:
@@ -6807,43 +5219,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 19:58
-1405/03/11
-
-
-
-
-src :@defence_news
-‏#فوری 
-‏♨️ پاسخ جالب ترامپ در مورد تعلیق مذاکرات از سوی ایران:
-‏ما بیش از اندازه داشتیم صحبت میکردیم. ساکت ماندن هم خوب هست. من فکر میکنم میتوانم تا زمانی که آنها بخواهند صبر کنم
-‏
-‏📃@Cataphract1
-19:57
-1405/03/11
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏#فوری 
-‏♨️ پاسخ جالب ترامپ در مورد تعلیق مذاکرات از سوی ایران:
-‏ما بیش از اندازه داشتیم صحبت میکردیم. ساکت ماندن هم خوب هست. من فکر میکنم میتوانم تا زمانی که آنها بخواهند صبر کنم
-‏
-‏📃@Cataphract1
-19:54
-1405/03/11
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 مصطفی نجفی: به نظر می‌رسد ایران تصمیم گرفته در صورت حمله اسرائیل به ضاحیه، به اسرائیل حمله موشکی کند
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-19:49
 1405/03/11
 
 
@@ -6979,18 +5354,6 @@ src :@VahidOnline
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏بانک مرکزی جمهوری اسلامی اعلام کرد نرخ تورم نقطه به نقطه در اردیبهشت‌ماه ۱۴۰۵ به ۷۷.۲ درصد رسیده است؛ رقمی که نشان می‌دهد خانوارهای ایرانی برای خرید مجموعه‌ای یکسان از کالاها و خدمات، به طور میانگین ۷۷.۲ درصد بیشتر از اردیبهشت سال گذشته هزینه کرده‌اند.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153142
-‏ @Farsi_Iranwire
-18:59
-1405/03/11
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 یدیعوت آحارانوت به نقل از یک مقام اسرائیلی اعلام کرد که تصمیم اسرائیل برای انجام حملات به حومه جنوبی بیروت با هماهنگی واشنگتن گرفته شده است.
@@ -7062,32 +5425,6 @@ src :@MilitiaNews
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 وزارت دفاع بریتانیا از کشته شدن یک نظامی ارتش این کشور در پی یک حادثه آموزشی در شمال عراق در تاریخ ۳۱ مه ۲۰۲۶ خبر داد.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-18:09
-1405/03/11
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، گزارش داد که جمهوری اسلامی در واکنش به ادامه حملات اسراییل به لبنان و آنچه «نقض آتش‌بس در همه جبهه‌ها» خوانده شده، روند گفت‌وگوها و تبادل پیام با آمریکا از طریق میانجی‌ها را متوقف خواهد کرد.
-‏تسنیم همچنین مدعی شده است که ایران و گروه‌های هم‌پیمان آن در «جبهه مقاومت» در حال بررسی اقداماتی از جمله انسداد تنگه هرمز و فعال‌سازی سایر جبهه‌ها از جمله تنگه باب‌المندب هستند. این گزارش می‌گوید این اقدامات با هدف واکنش به حملات اسراییل و حامیان آن در دستور کار قرار گرفته است.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153137
-‏ @Farsi_Iranwire
-17:56
-1405/03/11
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏نوسازی ناوگان زیردریایی نیروی دریایی استرالیا
@@ -7116,20 +5453,6 @@ src :@Mena_Live
 src :@Parvazdaroj
 ‏مالزی سفارش خودش رو از J10-B دست دوم  به دو اسکادران نوساز CE تغیر داده.  این نسخه از نظر ایونیک به نسخه C شباهت داره و بزرگترین فرقشونم تو استفاده از موتور روسی Al-31 که    در واقع میشه به خاطر تشابه قطعاتش با سوخو 35 و وجود فک میکنم دو یا سه اسکادران، به…
 17:27
-1405/03/11
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏هم‌زمان با تشدید حملات نظامی اسراییل به لبنان، مقام‌های جمهوری اسلامی بار دیگر تاکید کردند که هرگونه آتش‌بس میان ایران و آمریکا باید شامل همه جبهه‌های درگیری، به‌ویژه لبنان، باشد و هشدار دادند ادامه حملات به این کشور می‌تواند پیامدهایی در پی داشته باشد.
-‏بنیامین نتانیاهو، نخست‌وزیر اسراییل، روز دوشنبه ۱۱ خرداد ۱۴۰۵، اعلام کرد که به ارتش این کشور دستور داده است اهداف متعلق به حزب‌الله در ضاحیه، حومه جنوبی بیروت، را هدف قرار دهد. او در یک پیام ویدیویی گفت: «هیچ وضعیتی وجود نخواهد داشت که حزب‌الله شهرها و شهروندان ما را هدف قرار دهد اما مقرهای تروریستی آن در ضاحیه بیروت از حمله مصون بماند.»
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153135
-‏
-‏ @Farsi_Iranwire
-17:22
 1405/03/11
 
 
@@ -7169,19 +5492,6 @@ src :@rus_cosmos
 ‏
 ‏ایران خواستار توقف کامل تمام عملیات نظامی در غزه و لبنان است.
 16:55
-1405/03/11
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏فدراسیون فوتبال، فهرست نهایی و ۲۴نفره بازیکنان تیم فوتبال جمهوری اسلامی جهت حضور در رقابت‌های جام جهانی ۲۰۲۶ را اعلام کرد. 
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153134
-‏
-‏ @Farsi_Iranwire
-16:53
 1405/03/11
 
 
@@ -7341,22 +5651,6 @@ src :@Americana_ir
 src :@MilitiaNews
 ‏🇮🇷🛫⚡️تنسیم: لحظه انهدام پهپاد MQ1 توسط سپاه  @MilitiaNews | میلیشا را دنبال کنید
 15:41
-1405/03/11
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏باشگاه «پرسپولیس» اعلام کرد مراسم معارفه «مصطفی میرابوالحسنی» به‌عنوان مدیر جدید حراست این باشگاه با حضور «حدادی»، مدیرعامل پرسپولیس، برگزار شده است. 
-‏
-‏باشگاه پرسپولیس هیچ‌گونه توضیحی در مورد سوابق مصطفی میرابوالحسنی منتشر نکرده، اما بر اساس اطلاعات رسیده به «ایران‌وایر»، میرابوالحسنی از فرماندهان بسیج «امام علی» و از چهره‌های اصلی سرکوب معترضان در مناطق نازی‌آباد، جوادیه و خانی‌آباد تهران بوده است. 
-‏
-‏بخوانید:
-‏https://iranwire.com/fa/news-1/153128
-‏
-‏@Farsi_Iranwire
-15:03
 1405/03/11
 
 
