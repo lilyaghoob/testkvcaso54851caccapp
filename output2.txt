@@ -1,3 +1,35 @@
+src :@GeoPWatch
+‏Explosions kiev
+04:39
+1405/03/12
+
+
+
+
+src :@GeoPWatch
+‏Kh101 heading towards Kyiv from Cherkasy
+04:39
+1405/03/12
+
+
+
+
+src :@GeoPWatch
+‏20+
+04:39
+1405/03/12
+
+
+
+
+src :@GeoPWatch
+‏14+ kh101 in the airspace of 404
+04:39
+1405/03/12
+
+
+
+
 src :@cataphract1
 [عکس]
 ‏⚜آسمان شهر زاپوریژژیا در اوکراین، امشب در جریان حمله هوایی روسیه با نور سبز روشن شد.
@@ -555,14 +587,6 @@ src :@wfwitness
 
 
 
-src :@GeoPWatch
-‏🇮🇷🌐- Iran is currently witnessing widespread internet and telecommunications outages; some areas have come back online, although some have not, and the cause is currently unknown.
-02:42
-1405/03/12
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش روزنامه ایران، وزارت آموزش عمومی مکزیک (SEP) به طور رسمی اعلام کرد که فرایند صدور مجوزهای حرفه‌ای و موقت پزشکی برای کادر درمانی تیم‌های ملی خارجی آغاز شده اما پرونده کادر پزشکی تیم ملی ایران هنوز به تأیید نهایی نرسیده و در دست بررسی است. بر اساس آیین‌نامه نظارتی دولت مکزیک، اداره کل مشاغل حرفه‌ای این کشور (DGP) به منظور قانونمند کردن خدمات درمانی در طول مسابقات، مجوزهای موقتی با اعتبار سه ماهه صادر می‌کند. این بازه زمانی، نه تنها روزهای برگزاری مسابقات (از ۲۲ خرداد تا ۱۴ تیر ۱۴۰۵) را پوشش می‌دهد، بلکه بازه اردویی پیش از جام جهانی و ریکاوری (احیا) پس از آن را نیز تضمین می‌کند.«خوزه عمر سانچس مولینا»، رئیس این اداره کل، اعلام کرده است که در مرحله دوم این طرح، پزشکان ۱۲ تیم بزرگ جهان از جمله اسپانیا، اروگوئه، کلمبیا، ژاپن، سوئد و کره جنوبی مجوزهای رسمی خود را دریافت کرده‌اند. با این حال، نام ایران در این فهرست دیده نمی‌شود؛ مقامات مکزیکی تأکید کرده‌اند که پرونده کادر درمانی ایران کماکان باز است و صدور اعتبارنامه‌ها منوط به تکمیل و ارائه کامل مدارک و مستندات پزشکی از سوی فدراسیون فوتبال جمهوری اسلامی ایران خواهد بود. روزنامه ایران می‌نویسد، حالا فدراسیون فوتبال که درگیر حل بحران ویزای چندبار ورود بازیکنان به آمریکاست، باید هرچه سریع‌تر فرایند ارسال و تکمیل مدارک پزشکی کاروان خود را به سرانجام برساند و اگر فدراسیون نتواند در مدت زمان اعلامی مجوز فعالیت پزشکان تیم را بگیرد، احتمالا شاهد استفاده از پزشکان مکزیکی در کمپ تیم ایران خواهیم بود. 
@@ -770,23 +794,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 — Kalibr cruise missiles launched from Russian Navy frigates in the Caspian Sea have entered Chernikov Oblast, northeastern Ukraine.
-02:25
-1405/03/12
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇮🇱❌🇱🇧 — Alerts were activated in Hanita in the Western Galilee due to fears of a UAV infiltration
-02:22
-1405/03/12
-
-
-
-
 src :@Shin_Persian
 ‏↩️ Quoted tweet:
 ‏Shin ✓ @hey_itsmyturn
@@ -827,22 +834,6 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 — Kalibr cruise missiles launched from Russian Navy frigates in the Caspian Sea have entered Chernikov Oblast, northeastern Ukraine.
-02:20
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-‏🇱🇧❌🇮🇱- Drone alerts have been activated in Hanita and Shlomi, the western Galilee, northern Israel.
-02:20
-1405/03/12
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡🇮🇱 Red alert sirens are sounding in the Confrontation Line region, Northern Israel.  @wfwitness
@@ -861,15 +852,6 @@ src :@wfwitness
 ‏A U.S. official said the call was one of the most heated between the two leaders, with Trump seeing Israel’s escalation as a threat to ongoing diplomacy with Iran.
 ‏
 ‏@wfwitness.
-02:17
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇱🇧❌🇮🇱- Drone alerts have been activated in Hanita and Shlomi, the western Galilee, northern Israel.
 02:17
 1405/03/12
 
@@ -907,14 +889,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 02:10
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-‏🇱🇧❌🇮🇱- Large rocket barrage from Hezbollah targeting northern Israel.  @GeoPWatch
-02:09
 1405/03/12
 
 
@@ -963,21 +937,6 @@ src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی سیاست با مراد ویسی: جمهوری زیرزمینی اسلامی
 ‏@iranintlTV
-02:07
-1405/03/12
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏I think the cruise missiles were more likely Iskander-Ks launched from Crimea. 
-‏
-‏In total, the following was used:
-‏
-‏~6 Iskander-M ballistic missiles (3 targeting Zaporizhzhia, 2 targeting Dnipro, 1 targeting Dnipropetrovsk Oblast).
-‏
-‏~6 Iskander-K cruise missiles (2 targeting Zaporizhzhia, 4 targeting Dnipro), 2 of which were shot down over Dnipro.
 02:07
 1405/03/12
 
@@ -1079,14 +1038,6 @@ src :@wfwitness
 src :@wfwitness
 ‏Interceptor launch at an aerial target
 02:04
-1405/03/12
-
-
-
-
-src :@BellumActaNews
-‏🇮🇹⚠️ — 6.5 magnitude earthquake hits southern Italy
-02:01
 1405/03/12
 
 
