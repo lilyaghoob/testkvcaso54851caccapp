@@ -1,3 +1,61 @@
+src :@Indypersian
+[عکس]
+‏♦️خبرگزاری مهر، بامداد چهارشنبه، ۱۳ خردادماه، از «شنیده‌شدن صدای انفجار‌هایی در محدوده جزیره قشم» خبر داد. مهر نوشت: «ماهیت این صداها به طور دقیق مشخص نیست و هیچ‌ یک از نهادهای رسمی نظامی و انتظامی تا این لحظه درباره علت وقوع این صداها اظهارنظری نکرده‌اند».
+‏
+‏@indypersian
+01:11
+1405/03/13
+
+
+
+
+src :@Mena_Live
+‏Russia is scaling missile and artillery fuel production using imported chemicals and components from Europe, Asia, and Central Asia, per internal documents.  Solid rocket fuel production in Russia surged from roughly 1,000–2,000 tons in 2023 to 5,000–8,500…
+01:09
+1405/03/13
+
+
+
+
+src :@rus_cosmos
+‏ویدیو مربوط به حادثه ۲ مارس است که در آن یک جت جنگنده اف-۱۸-آ هورنت کویتی «به طور تصادفی» سه فروند اف-۱۵-ئی استریک ایگل آمریکایی را سرنگون کرد.
+01:09
+1405/03/13
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷- Mehr News Agency says that explosions have been heard on Qeshm Island, southern Iran.
+‏
+‏@GeoPWatch
+01:09
+1405/03/13
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ مقر گروهک‌های تجزیه‌طلب کرد هدف قرار گرفت
+‏
+‏منابع عراقی از انفجار در یک مقر گروهک‌های کرد تجزیه‌طلب در شمال اربیل خبر دادند.
+‏
+‏@MilitarryWorld | Parsa
+01:08
+1405/03/13
+
+
+
+
+src :@naya_foriraq
+‏يماع دوي انفجارات في جزيرة قشم الايرانية
+01:07
+1405/03/13
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇹🇷📞🇦🇲 — Turkish President Erdoğan held a phone call with Armenian Prime Minister Nikol Pashinyan.
@@ -345,14 +403,6 @@ src :@World_Newsly
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
 00:20
-1405/03/13
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶الحشد الشعبي العراقي يقتل 3 دواعش في صحراء البعاج ضمن محافظة نينوى شمالي العراق.
-00:19
 1405/03/13
 
 
@@ -2612,14 +2662,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@naya_foriraq
-‏🇺🇦ليلا عبد اللطيف فرع أوكرانيا "زيلينسكي": قد يكون هناك هجوم واسع النطاق هذه الليلة على أوكرانيا.
-20:55
-1405/03/12
-
-
-
-
 src :@ClashReport
 ‏Zelensky:
 ‏
@@ -2763,22 +2805,6 @@ src :@GeoPWatch
 ‏The cruiser will conduct trials in the White and Barents Seas before formally rejoining Russia’s Northern Fleet, with its return to service expected no earlier than 2027.
 ‏
 ‏@medmannews
-20:42
-1405/03/12
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا،  روز سه‌شنبه ۱۲ خردادماه، در تروث سوشال گزارش‌های منتشرشده درباره توقف گفتگوها میان ایالات متحده و جمهوری اسلامی را رد کرد و گفت این مذاکرات به‌طور مداوم ادامه داشته است.
-‏
-‏ترامپ نوشت: «گزارش‌های منتشرشده مبنی بر اینکه جمهوری اسلامی ایران و ایالات متحده چند روز پیش گفتگوها را متوقف کرده‌اند، نادرست و اشتباه است. گفتگوهای میان ما به‌طور مداوم ادامه داشته است؛ از جمله چهار روز پیش، سه روز پیش، دو روز پیش، یک روز پیش و امروز.»
-‏
-‏او افزود که مشخص نیست این گفتگوها به چه نتیجه‌ای منجر خواهد شد، اما به جمهوری اسلامی گفته است: «زمان آن رسیده است که به هر شکل ممکن، توافقی حاصل شود. شما ۴۷ سال است که این کار را ادامه می‌دهید و دیگر نمی‌توان اجازه داد این وضعیت ادامه پیدا کند.»
-‏
-‏ 
-‏@indypersian
 20:42
 1405/03/12
 
@@ -3309,15 +3335,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷⚓️ — Islamic Republic of Iran Navy has published an infographic mourning the 34 Iranian servicemen killed on board the Moudge-class frigate IRIS Jamaran when it was sunk by a USAF airstrike at Chabahar Port on 28 February.
-20:13
-1405/03/12
-
-
-
-
 src :@DEJradio
 ‏⭕️ ارسال پستی از ایران به تنها ۹ کشور ازسر گرفته شد
 ‏
@@ -3589,41 +3606,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 19:41
-1405/03/12
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏پیشنهاد ویژه خرید سرویس 
-‏
-‏🛡انواع سرویس‌های VPN با لوکیشن های متنوع و سرعت عالی
-‏✅ پشتیبانی حرفه ای و تضمین اتصال
-‏
-‏تعرفه ها :
-‏سی گیگ 240.000
-‏چهل گیگ 320.000
-‏پنجاه گیگ 400.000
-‏⏱سرور ها ددلاین زمانی ندارند
-‏
-‏
-‏⚡فروشگاه Immortal VPN در خدمت شماست.
-‏
-‏🤖 تهیه آنی سرویس:
-‏
-‏@ImmortalVPNfastbot
-19:41
-1405/03/12
-
-
-
-
-src :@MilitarryWorld
-‏⭕️روبیو: جنگ در ایران به پایان رسیده است.  ایران به صدها میلیارد دلار برای بازسازی نگاه می‌کند
-‏
-‏@MilitarryWorld | Parsa
-19:40
 1405/03/12
 
 
@@ -7086,31 +7068,4 @@ src :@Mena_Live
 src :@rnintel
 ‏🇺🇸🛢️⚡- “The U.S. Strategic Petroleum Reserve (SPR) is less than 10 days away from falling to its lowest level since August 1983- over 15,625 days ago- a level not seen since the SPR's initial fill-up that began in 1977.” - Petroleum Analyst Patrick De Haan.
 01:16
-1405/03/12
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump to ABC News:
-‏A peace agreement with Iran could be even better than a military victory.
-01:10
-1405/03/12
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇪🇺 EU greenlights controversial return hubs in 'strictest-ever' new migration law
-‏
-‏A new EU law will allow migrant return hubs outside the bloc and home searches in a bid to crack down on irregular migration. Civil society groups point to a “xenophobic" turn in EU politics.
-‏
-‏#Migration #EU
-‏
-‏Source: EuroNews
-‏
-‏@PanEuropeanNews
-01:07
 1405/03/12
