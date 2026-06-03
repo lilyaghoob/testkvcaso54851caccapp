@@ -3842,18 +3842,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-‏Iran's Mehr:
-‏
-‏Early Wednesday, residents on Iran’s Qeshm Island reported hearing several explosion-like sounds. 
-‏
-‏The cause remains unknown, and no military or law enforcement authorities have issued an official explanation yet. Investigations are ongoing.
-01:22
-1405/03/13
-
-
-
-
 src :@Artemis_Force
 ‏🔴دقایقی پیش انفجارهای در محدوده جزیره قشم رخ داده است 
 ‏
@@ -4042,22 +4030,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 00:24
-1405/03/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Romania signed €5.7 billion in defense contracts with Rheinmetall under the EU's SAFE loan program:
-‏
-‏— 298 KF41 Lynx IFVs (€3.3bn)
-‏— 7 Skynex air defense systems (€982m)
-‏— 2 naval patrol vessels (€920m)
-‏— 401,760 rounds of 35mm AHEAD ammunition (€450m)
-‏
-‏This is one of the largest single-country defense packages in European history, with significant production localized in Romania.
-00:18
 1405/03/13
 
 
