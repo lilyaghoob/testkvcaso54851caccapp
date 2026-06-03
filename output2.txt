@@ -4669,17 +4669,6 @@ src :@mohem_mat
 
 
 
-src :@BellumActaNews
-[عکس]
-‏#BREAKING | 🇻🇪 — Venezuelan opposition leader and Nobel Peace Prize laureate, María Corina Machado announces she will return to Venezuela "very soon."
-‏
-‏The Global Eye | Subscribe
-20:41
-1405/03/12
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏ترامپ گزارش‌ها درباره توقف گفت‌وگوهای ایران و آمریکا را نادرست خواند و تأکید کرد مذاکرات در روزهای اخیر، از جمله امروز، به‌صورت مستمر ادامه داشته است. او همچنین بار دیگر از ایران خواست هرچه زودتر به توافق برسد و گفت ادامه وضعیت فعلی قابل قبول نیست
 20:40
@@ -4871,19 +4860,6 @@ src :@DEJradio
 ‏#خبر #دژ #هنرمندان #هما_میرافشار
 ‏@DEJradio
 20:21
-1405/03/12
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇮🇱🕵️‍♂️❗️ — Israeli Prime-Minister Netanyahu announced he decided to appoint Roman Gofman as the Next Director of Mossad, Israel's Foreign intelligence service.
-‏
-‏Gofman is of Belarusian Jewish origin and made Aliyah to Israel at the age of 14.
-‏
-‏@BellumActaNews
-20:20
 1405/03/12
 
 
