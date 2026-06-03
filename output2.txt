@@ -1,7 +1,48 @@
-src :@GeoPWatch
-‏🇮🇷- Fighter jet activity over western Tehran.
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 03 Jun 2026 00:35:45 UTC
 ‏
-‏@GeoPWatch
+‏Got visuals now, not a fighter jet, but a twin engine low passing NW -&gt; SE
+‏
+‏فارسی
+‏
+‏تصاویر را دریافت کردم، یک جنگنده نیست، بلکه یک هواپیمای دو موتوره است که در ارتفاع پایین از سمت شمال غربی به سمت جنوب شرقی عبور می‌کند.
+‏
+‏𝕏  ·  @shin_persian
+04:05
+1405/03/13
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- Air defenses have gone active in the city of Isfahan, central Iran.
+04:03
+1405/03/13
+
+
+
+
+src :@intelslava
+‏🇮🇷⚡️ Power outages are being reported in several districts of Tehran, the capital of Iran. Air defense systems have also been activated in Isfahan, central Iran.
+‏
+‏@IntelSlava
+04:03
+1405/03/13
+
+
+
+
+src :@wfwitness
+‏Locals report a power cut in West Tehran.
+04:02
+1405/03/13
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷- Fighter jet activity has been reported over western Tehran.
 04:02
 1405/03/13
 
@@ -2348,14 +2389,6 @@ src :@BellumActaNews
 
 
 
-src :@rnintel
-‏🇮🇷🇮🇶⚡️- BREAKING: Reports indicate that the Iranian Air Force carried out airstrikes on Kurdish positions in Erbil, Iraqi Kurdistan.
-02:27
-1405/03/13
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇷🇰🇼🇧🇭🇺🇸⚡️ — Iranian ballistic missiles were launched from Jam and Bandar Kangan in southern Iran.
@@ -2847,25 +2880,6 @@ src :@guard_warriors
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 22:40:50 UTC
-‏
-‏NOW -
-‏Renewed sirens in #Kuwait 🇰🇼
-‏
-‏فارسی
-‏
-‏هم‌اکنون -
-‏تجدید صدای آژیرهای خطر در #Kuwait 🇰🇼
-‏
-‏𝕏  ·  @shin_persian
-02:10
-1405/03/13
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پیام‌های دریافتی:
@@ -2924,44 +2938,6 @@ src :@DEJradio
 ‏
 ‏#کومله #اربیل
 ‏@DEJradio
-02:07
-1405/03/13
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 22:37:28 UTC
-‏
-‏Kuwait Ministry of Defense spokesperson warns citizens and residents not to approach or touch any debris or unidentified objects resulting from the interception of hostile aerial targets. #Kuwait 🇰🇼
-‏
-‏فارسی
-‏
-‏سخنگوی وزارت دفاع کویت به شهروندان و ساکنان هشدار داد که از نزدیک شدن یا لمس هرگونه لاشه یا اشیاء ناشناس ناشی از رهگیری اهداف هوایی متخاصم خودداری کنند. #Kuwait 🇰🇼
-‏
-‏𝕏  ·  @shin_persian
-02:07
-1405/03/13
-
-
-
-
-src :@Shin_Persian
-‏🔁 Quoting above tweet:
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 02 Jun 2026 22:37:28 UTC
-‏
-‏Source: @KuwaitArmyGHQ
-‏https://x.com/KuwaitArmyGHQ/status/2061940239636328899
-‏
-‏فارسی
-‏
-‏@KuwaitArmyGHQ
-‏https://x.com/KuwaitArmyGHQ/status/2061940239636328899
-‏
-‏𝕏  ·  @shin_persian
 02:07
 1405/03/13
 
@@ -3044,16 +3020,6 @@ src :@rus_cosmos
 ‏گزارش‌ها از انفجار یک موشک در آسمان ایران، لحظاتی پس از شلیک حکایت دارد.
 ‏
 ‏@iliaen
-01:41
-1405/03/13
-
-
-
-
-src :@intelslava
-‏🇮🇷🇰🇼⚡️ Preliminary reports indicate possible impacts at Ali Al Salem Air Base.
-‏
-‏@IntelSlava
 01:41
 1405/03/13
 
