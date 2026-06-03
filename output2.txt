@@ -6336,23 +6336,6 @@ src :@intelslava
 
 
 
-src :@intelslava
-[عکس]
-‏🇯🇵🇺🇸🇮🇷⚡️— Japan’s cabinet approves a $19bn extra budget to shield households from inflation tied to the US-Israel war on Iran, according to AFP.
-‏
-‏➡️ PM Sanae Takaichi’s office said the supplementary budget was formally decided at a Wednesday morning meeting.
-‏
-‏➡️ Spokesman Minoru Kihara said it was formulated to minimise risk amid ongoing Middle East uncertainty.
-‏
-‏➡️ Takaichi said last month the funds would ease the rising cost of petrol, electricity and gas.
-‏
-‏@IntelSlava
-08:54
-1405/03/13
-
-
-
-
 src :@ircfspace
 ‏صرافی‌های دیجیتال نوبیتکس، بیت‌پین، رمزینکس و والکس به دلیل دور زدن تحریم‌ها و انتقال ثروت به خارج از کشور، توسط وزارت خزانه‌داری آمریکا در فهرست تحریم‌ها قرار گرفتند.
 ‏
@@ -6547,14 +6530,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 02:20
-1405/03/13
-
-
-
-
-src :@MilitiaNews
-‏🇮🇷🇰🇼🇺🇸⚡️#فوری؟ وزارت دفاع کویت از مقابله پدافند با یک موشک بالستیک دیگر خبر داده است.
-‏
-‏@MilitiaNews | میلیشا را دنبال کنید
-02:12
 1405/03/13
