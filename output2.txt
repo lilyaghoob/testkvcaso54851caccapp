@@ -1,3 +1,50 @@
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷/🇰🇼 NEW: According to Kuwait’s Ministry of Defence, Iran launched 13 ballistic missiles and 17 drones during the attack last night
+‏
+‏@Middle_East_Spectator
+15:36
+1405/03/13
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇰🇼🇺🇸- The Kuwaiti Army has announced that 13 ballistic missiles and 17 drones were launched towards Kuwaiti territory last night, contrary to CENTCOM's claims of only 2 missiles.
+15:35
+1405/03/13
+
+
+
+
+src :@Artemis_Force
+‏آخرین وضعیت استقرار ناوشکن ها و ناوگروه های ضربتی و آبی خاکی ایالات متحده  آمریکا در منطقه  ناوگروه آبی خاکی باکسر کاملا از موقعیت تحت کنترل ناوگان پنجم خارج شده است و به ناوگان هفتم برگشته  ناو هواپیمابر سبک کلاس آمریکا تریپولی همچنان در کنار ناوگروه های…
+15:35
+1405/03/13
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇱🇧❌🇮🇱- The IDF has announced that two rockets launched by Hezbollah from Lebanon toward the border community of Misgav Am were intercepted by air defenses. No injuries were reported.
+‏
+‏@GeoPWatch
+15:34
+1405/03/13
+
+
+
+
+src :@naya_foriraq
+‏الدفاع الكويتية : تعاملنا مع ١٣ بالستي و ١٧ مسيرة قادمة من ايران .
+15:33
+1405/03/13
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏آخرین وضعیت استقرار ناوشکن ها و ناوگروه های ضربتی و آبی خاکی ایالات متحده  آمریکا در منطقه
@@ -81,15 +128,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-15:28
-1405/03/13
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇷🌟الولايات المتحدة ترصد مكافأة مالية قدرها 15 مليون دولار لمن يدلي بمعلومات تقود إلى كشف أو تعطيل أحد مصادر تمويل الحرس الثوري الإيراني.
 15:28
 1405/03/13
 
@@ -3554,27 +3592,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@tabzlive
-‏🇧🇭❌🇮🇷 — Bahrain's Defense Force:
-‏The General Command of the Bahrain Defence Force announces that Iran continues its systematic aggression through its heinous missile and drone attacks targeting civilian infrastructure in the Kingdom of Bahrain.
-‏
-‏The General Command clarifies that, with unwavering resolve and high combat readiness, the Bahrain Defence Force's air defense systems successfully intercepted and destroyed three missiles and several drones.
-‏
-‏The General Command affirms that all its weapons and units are at the highest levels of readiness and defensive preparedness to protect the Kingdom.
-‏
-‏The General Command urges everyone to exercise caution and refrain from approaching or touching any unfamiliar or suspicious objects resulting from the remnants of the brutal Iranian aggression, and to report them immediately.
-‏
-‏The General Command confirms that the personnel of the Royal Field Engineering Unit are fully prepared to handle these objects safely and technically, ensuring the public safety of all citizens and residents.
-‏
-‏The General Command emphasizes that the deliberate use of missiles and drones to target civilian infrastructure and private property constitutes a flagrant violation of international humanitarian law.
-‏
-‏ The General Command of the Bahrain Defence Force affirms its pride and honor in the advanced combat readiness and high vigilance shown by its brave men in performing their sacred national duty, in defense of the homeland.
-10:16
-1405/03/13
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸🇰🇼 — CENTCOM claims that multiple drones attempting to strike US military infrastructure in Kuwait were intercepted some time ago, after the earlier IRGC attack against US interests in Kuwait and Bahrain.  @GeoPWatch
 10:14
@@ -4369,16 +4386,6 @@ src :@defence_news
 
 
 
-src :@GeoPWatch
-‏🇮🇷- At least 1 large explosion has been reported in East Tehran.
-‏
-‏@GeoPWatch
-06:08
-1405/03/13
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی:
 ‏
@@ -4677,14 +4684,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:10
-1405/03/13
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 U.S. Central Command:  ‘U.S. forces successfully defeated multiple Iranian ballistic missiles and drones, and conducted self-defense strikes on Qeshm Island in response to attempted attacks by Iran across the Middle East, June 2.  Iran launched several…
-03:09
 1405/03/13
 
 
