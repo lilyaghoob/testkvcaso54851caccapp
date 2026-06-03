@@ -1,6 +1,6 @@
 src :@naya_foriraq
 [عکس]
-‏🇺🇸🏴‍☠️طائرة التزويد بالوقود الأمريكية أقلعت من تل أبيب وتحلق الآن فوق الخليط الفارسي.
+‏🇺🇸🏴‍☠️طائرة التزويد بالوقود الأمريكية أقلعت من تل أبيب وتحلق الآن فوق الخليج الفارسي.
 08:30
 1405/03/13
 
@@ -696,6 +696,8 @@ src :@VahidOnline
 ‏
 ‏سلام تهرانپارس فلکه اول ساعت ۶ یک صداى انفجار بلند اومد و از  ساعت ۶:۱۹  تا ۶:۲۲ صداى آژیر ماشین هاى امبولانس و اتش نشانى میاد
 ‏
+‏آپدیت:
+‏دلیل احتمالی انفجار در پست بعدی
 ‏📡 @VahidOnline
 06:07
 1405/03/13
@@ -782,17 +784,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202606037743
 05:21
-1405/03/13
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸🇺🇸❌🇮🇷 — U.S. Central Command says Iranian drones attempted to attack U.S. forces in Kuwait tonight. Air defenses downed multiple drones; no American personnel or assets were harmed.
-‏
-‏An additional wave of Iranian drones attempting to attack U.S. forces in Kuwait failed to impact intended targets tonight. U.S. Central Command air defenses successfully downed multiple drones and ensured no American personnel or assets were harmed.
-05:19
 1405/03/13
 
 
@@ -2319,25 +2310,6 @@ src :@mwarmonitor
 
 
 
-src :@intelslava
-[عکس]
-‏🇮🇷🇧🇭❗️ — NEW: Bahrain has completely closed its airspace to all air traffic from 03:30 UTC until 16:00 UTC.
-‏
-‏ Only pre-approved departures are allowed to take off during the restriction period.
-02:53
-1405/03/13
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇷❗️AMERICAN AIRSTRIKE AGAINST QESHM ISLAND AGAIN.  2:22 AM   @IntelSlava
-02:53
-1405/03/13
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇧🇭/🇮🇷 NEW: Bahrain closes its airspace to civilian air traffic
@@ -2368,18 +2340,6 @@ src :@P_raetorio
 
 
 
-src :@intelslava
-‏🇮🇷🇺🇸🇦🇪❗️BREAKING: Preliminary reports indicate that Iran has attacked UAE now.
-‏
-‏2:17 AM
-‏
-‏@IntelSlava
-02:52
-1405/03/13
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️فوری از مهر/ انفجارهایی در جزیره قشم ایران در خلیج فارس.
 ‏
@@ -2392,18 +2352,6 @@ src :@MilitarryWorld
 
 src :@Middle_East_Spectator
 ‏No alerts in UAE so far, contrary to some reports.
-02:51
-1405/03/13
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇷❗️AMERICAN AIRSTRIKE AGAINST QESHM ISLAND AGAIN.
-‏
-‏2:22 AM 
-‏
-‏@IntelSlava
 02:51
 1405/03/13
 
@@ -2500,30 +2448,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 02:48
-1405/03/13
-
-
-
-
-src :@intelslava
-‏🇮🇷🇺🇸🇸🇦❗️BREAKING: Preliminary reports indicate that Iran has attacked Saudi Arabia now.
-‏
-‏2:17 AM
-‏
-‏@IntelSlava
-02:47
-1405/03/13
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇷❗️BREAKING:- AMERICAN AIRSTRIKE AGAINST QESHM ISLAND AGAIN.
-‏
-‏2:16 AM
-‏
-‏@IntelSlava
-02:45
 1405/03/13
 
 
@@ -2710,16 +2634,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 02:31
-1405/03/13
-
-
-
-
-src :@intelslava
-‏🇮🇷🇺🇸🇰🇼❗️— BREAKING: Iran's IRGC says their forces launched missiles at U.S. military bases in Kuwait after the Americans targeted Qeshm Island.
-‏
-‏@IntelSlava
-02:30
 1405/03/13
 
 
@@ -3225,16 +3139,6 @@ src :@DEJradio
 ‏#کومله #اربیل
 ‏@DEJradio
 02:07
-1405/03/13
-
-
-
-
-src :@MilitarryWorld
-‏⭕️در حال حاضر، دو هواپیمای سوخت‌رسانی آمریکایی بر فراز خلیج فارس در حال پرواز هستند: یک KC-135R بر فراز امارات متحده عربی و خلیج عمان، و یک KC-46A که از تل‌آویو بر فراز خلیج فارس می‌آید
-‏
-‏@MilitarryWorld | Parsa
-02:02
 1405/03/13
 
 
