@@ -1,3 +1,44 @@
+src :@guard_warriors
+‏✪ لحظه برخورد شاهد به فرودگاه کویت  یک هندی کشته شده  @Guard_Warriors | Mmd
+01:56
+1405/03/14
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: ایرانِ امروز؛ میراث سیاه و خونین خمینی و خامنه‌ای
+‏@iranintlTV
+01:56
+1405/03/14
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷- Fighter jet activity has been reported over Qazvin, Alvand, and Karaj, all west of Tehran.
+‏
+‏@GeoPWatch
+01:54
+1405/03/14
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️به گزارش رویترز، مجلس نمایندگان آمریکا روز چهارشنبه از طرحی حمایت کرد که هدف آن محدود کردن اختیارات دونالد ترامپ درباره ادامه جنگ ایران بدون دریافت مجوز رسمی کنگره است.
+‏این طرح با ۲۱۵ رای موافق در برابر ۲۰۸ رای مخالف تصویب شد؛ چهار نماینده جمهوری‌خواه نیز در رای‌گیری به دموکرات‌ها پیوستند.
+‏دمکرات‌ها پس از هفت تلاش ناموفق، در هشتمین رای‌گیری سرانجام توانستند این طرح را برای مهار اختیارات نظامی کاخ سفید به تصویب برسانند. با این حال، طرح مذکور اکنون باید در سنای آمریکا به تصویب نهایی برسد و در صورت موافقت سنا، به کاخ سفید ارسال خواهد شد؛ جایی که دونالد ترامپ حق وتو دارد.
+‏
+‏@indypersian
+01:53
+1405/03/14
+
+
+
+
 src :@Middle_East_Spectator
 ‏— 🇮🇷/🇰🇼 WATCH: CCTV footage confirms that an Iranian Shahed-136 drone struck Terminal 1 of Kuwait International Airport early this morning  @Middle_East_Spectator
 01:52
@@ -177,9 +218,11 @@ src :@cataphract1
 
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸🇮🇷 The U.S. House of Representatives has passed a war powers resolution aimed at limiting President Donald Trump’s authority in the conflict with Iran, voting 215–208 in favor of requiring congressional approval for continued military action.
+‏⚡️🇺🇸 The U.S. House of Representatives has passed a war powers resolution related to the Iran war by a 215–208 vote, with four Republicans joining Democrats in support. The measure would require congressional authorization for continued U.S. military action against Iran and limit the president’s ability to conduct hostilities without approval from Congress.
 ‏
-‏The measure passed with support from four Republicans. If enacted, it would force the administration to seek authorization from Congress or withdraw U.S. forces from the conflict.
+‏The resolution directs the president to remove U.S. forces from hostilities against Iran unless explicitly authorized by Congress, except in cases involving the defense of the United States, its allies, or partners from imminent attack. 
+‏
+‏The measure is not yet legally binding and must still pass the Senate and be signed by President Trump, or survive a potential veto override, before taking effect.
 ‏
 ‏@wfwitness.
 01:24
@@ -1723,16 +1766,6 @@ src :@jangaavaran1390
 ‏برگزارکنندگان نمایشگاه بین‌المللی دفاعی و امنیتی «یوروساتوری» اعلام کردند که فرانسه نمایش تسلیحات تهاجمی اسرائیل را در دور تازه برپایی این نمایشگاه در ژوئن ۲۰۲۶ ممنوع کرده است.
 ‏وزارت دفاع اسرائیل این اقدام را تصمیمی «شرم‌آور» خواند و محکوم کرد؛ تصمیمی که به گفته این وزارتخانه، ناشی از منافع سیاسی و تجاری بوده و در راستای روند عمیقاً نگران‌کننده رفتارهای سال‌های اخیر فرانسه به شمار می‌رود.
 23:29
-1405/03/13
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: نتانیاهو: تصمیم حمله دوباره به ایران با ترامپ است
-‏@iranintlTV
-23:28
 1405/03/13
 
 
@@ -3355,20 +3388,6 @@ src :@P_raetorio
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ ماموران فدرال روز چهارشنبه ۱۳ خرداد در یک یورش غافلگیرانه به عمارت مجلل ۳۵ میلیون دلاری در «نیوپورت بیچ» کالیفرنیا، جمشید قمی، مدیر ۶۳ ساله یک شرکت فناوری را بازداشت کردند. قمی که دارای تابعیت دوگانه ایران و ایالات متحده است، متهم به توطئه برای نقض «قانون اختیارات اقتصادی در شرایط اضطراری بین‌المللی» از طریق تامین سخت‌افزارهای کامپیوتری برای برنامه‌های نظامی و هسته‌ای جمهوری اسلامی است.
-‏
-‏بیل عسایلی، دادستان ارشد فدرال در لس‌آنجلس، در این باره گفت: «قمی متهم است که با فروش قطعات شبکه کامپیوتری آمریکایی به ایران و کسب سود میلیونی، به دشمنان ما کمک کرده و قوانین تحریمی را نقض نموده است.» او تاکید کرد که دادستانی علاوه بر درخواست مجازات حبس، به دنبال مصادره اموال وی از جمله عمارت گران‌قیمت اوست.
-‏
-‏بازپرسان معتقدند او به مدت بیش از یک دهه از طریق شرکت خود در تهران به نام «فراز پرداز رایانه»، بیش از ۲۵۰ تن تجهیزات کنترل‌شده تکنولوژی را به‌صورت مخفیانه خریداری کرده است. او متهم است که با استفاده از حساب‌های شخصی در eBay و PayPal و از طریق شرکت‌های صوری در امارات کالاها را تهیه و به ایران ارسال می‌کرد.
-‏@indypersian
-21:17
-1405/03/13
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Iran sent a message to the US that any attack on Al-Dahiya (Lebanon’s Beirut) will lead to the firing of dozens of missiles at Israel — Amit Segal/Israeli Channel 12
@@ -3414,21 +3433,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 20:58
-1405/03/13
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏اختصاصی|خسارت وارده به پایگاه دوم شکاری شهید فکوری تبریز طی جنگ اخیر
-‏
-‏در تصاویر ماهواره‌ای مشخص است که در طول جنگ اخیر 5 اصابت به باند فرود/خزشگاه این پایگاه و فرودگاه تبریز منهدم شده همچنین دو ساختمان در پایگاه توسط اسرائیلی‌ها هدف قرار گرفته است.(زرد)تمام آشیانه های این پایگاه نیز در طول جنگ دوازده روزه ویران شده بودند(آبی)
-‏
-‏#اختصاصی 
-‏
-‏@P_raetorio
-20:56
 1405/03/13
 
 
@@ -6023,14 +6027,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | Mmd
 12:45
-1405/03/13
-
-
-
-
-src :@guard_warriors
-‏✪ وزارت امور خارجه کویت:  کشته شدن یک نفر و زخمی شدن چند نفر دیگر در پی هدف قرار دادن فرودگاه کویت توسط ایران  در ادامه فیلیمی از لحظات اولیه پس از اصابت منتشر شده که نشان می‌دهد امروز صبح این پهپاد ها به فرودگاه اصابت کرده بودند همانطور که پیشتر گفته بودیم…
-12:39
 1405/03/13
 
 
