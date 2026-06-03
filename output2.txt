@@ -3953,17 +3953,6 @@ src :@mohem_mat
 
 
 
-src :@selena_updates
-[عکس]
-‏Amid the fragile ceasefire with Hezbollah, the IDF Home Front Command has eased restrictions across northern Israel, allowing schools and workplaces to reopen in border communities where adequate shelter is accessible. 
-‏
-‏Limits on gatherings have been increased to 100 people outdoors and 400 indoors, beaches have reopened, and all restrictions in the Upper Galilee, northern Golan, Katzrin, and Kidmat Tzvi have been lifted. The updated guidelines remain in effect until Sunday at 7 p.m., pending a new assessment.
-23:50
-1405/03/12
-
-
-
-
 src :@jangaavaran1390
 ‏مارکو روبیو بر مخالفت با تلاش ایران برای مسدود کردن تنگه هرمز تأکید کرد و شرط لغو محاصره ایران توسط ایالات متحده را بیان نمود. اقدامات انجام شده توسط ایران غیرقانونی و فاقد مشروعیت است. هیچ کشوری در جهان، به جز ایران و احتمالاً عمان که با این اقدامات تعامل داشته است، از اقدامات ایران در تنگه‌ها حمایت نمی‌کند. چین، روسیه و تمام کشورهای دیگر جهان در مخالفت با این اقدامات هستند. بنابراین، شرط نخست این است که تنگه‌ها باید بازگشایی شوند؛ این بدان معناست که کشتی‌ها می‌توانند از آب‌های بین‌المللی، همان‌گونه که در سایر نقاط حساس سراسر جهان تردد می‌کنند، بدون تعرض نظامی و بدون پرداخت عوارض عبور کنند.
 23:47
@@ -3989,15 +3978,6 @@ src :@jangaavaran1390
 
 
 
-src :@selena_updates
-[عکس]
-‏Hezbollah official Mahmoud Qamati stated that the “equation of the suburbs versus northern settlements” will not be accepted, adding that Hezbollah has informed relevant parties of its rejection of this formula, while also stating agreement to a real and comprehensive ceasefire.
-23:40
-1405/03/12
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏وزارت خزانه‌داری آمریکا، روز سه‌شنبه ۱۲ خرداد ۱۴۰۵ اعلام کرد در چارچوب کارزار«خشم اقتصادی»، صرافی رمز ارزی نوبیتکس، بزرگ‌ترین صرافی دارایی‌های دیجیتال ایران، و سه صرافی دیگر را تحریم کرده است.
@@ -4006,15 +3986,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153191
 ‏ @Farsi_Iranwire
 23:37
-1405/03/12
-
-
-
-
-src :@selena_updates
-[عکس]
-‏An Israeli reservist was moderately injured and 3 more soldiers were lightly hurt by a Hezbollah explosive drone in southern Lebanon earlier today.
-23:34
 1405/03/12
 
 
@@ -7004,18 +6975,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 07:53
-1405/03/12
-
-
-
-
-src :@ircfspace
-‏بر اساس گزارش‌های دریافتی، اینترنت بین‌الملل در برخی دیتاسنترهای کشور مجدداً برقرار شده است.
-‏با این حال همزمان محدودیت روی بسیاری از تانل‌ها و پروتکل‌های ارتباطی ادامه دارد و بخش قابل توجهی از این روش‌ها از دسترس خارج شده یا با اختلال و ناپایداری شدید مواجه شده‌اند. ارتباط از خارج به داخل کشور نیز همچنان با اختلال همراه است و بسیاری از سرویس‌ها و مسیرهای وابسته هنوز به‌طور کامل در دسترس قرار نگرفته‌اند.
-‏
-‏© IRRadar
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-07:44
 1405/03/12
