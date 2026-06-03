@@ -1335,14 +1335,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — BREAKING: CENTCOM says U.S. forces intercepted multiple Iranian ballistic missiles and drones and carried out "self-defense strikes" on Qeshm Island following attempted Iranian attacks across the Middle East.  According to CENTCOM, Iran launched several…
-03:20
-1405/03/13
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷🇮🇶☀️ Two Iranian missiles struck the headquarters of the Komala Toilers of Kurdistan in the Alana Valley, northeast of Erbil, at 23:00 local time on Tuesday, the Kurdish group said in a statement. 
@@ -1935,15 +1927,6 @@ src :@P_raetorio
 
 
 
-src :@rnintel
-[عکس]
-‏🇬🇧⚡- More footage from the Henry Nowak protests showing trash bins and other projectiles being lobbed at the Southampton police, which leads to them fleeing from the protesters.
-02:57
-1405/03/13
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏با خیال راحت بخوابید،آتش‌بس نقض نشده است.
@@ -2047,14 +2030,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷🇧🇭⚡️- Renewed alerts in Bahrain, locals tell Rerum Novarum.
-02:54
-1405/03/13
-
-
-
-
 src :@World_Newsly
 ‏🔴 بحرین حریم هواییش رو بست 
 ‏
@@ -2068,14 +2043,6 @@ src :@World_Newsly
 
 src :@BellumActaNews
 ‏🇮🇷💥❗️ — Iran's Qeshm Island, located at the entrance of the Strait of Hormuz, was hit twice by an "unknown" Air Force
-02:54
-1405/03/13
-
-
-
-
-src :@rnintel
-‏🇧🇭⚡- Bahrain has closed its airspace until June 3, 4pm.
 02:54
 1405/03/13
 
@@ -2294,14 +2261,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 02:49
-1405/03/13
-
-
-
-
-src :@rnintel
-‏🇮🇷⚡- Explosions on Iran's Qeshm Island in the Gulf.
-02:48
 1405/03/13
 
 
