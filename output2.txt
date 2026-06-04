@@ -2192,9 +2192,9 @@ src :@P_raetorio
 
 src :@P_raetorio
 [عکس]
-‏موشک JAGM دارای کلاهک خرج گود، انفجاری قوی ترکش شونده و تریموباریک است. این موشک در حال جایگزینی با موشک هلفایر است که موشک اصلی هواپرتاب بالگرد ها، هواپیما های پشتیبانی و پهپاد های امریکایی بود و قطعا قرار است این نقش به JAGM محول شود،موشک 52 کیلوگرم وزن دارد و وزن کلاهک آن 9 کیلوگرم در نسخه خرج گود و8 کیلوگرم در نسخه  انفجار قوی ترکش شونده و تریموباریک  است و دارای سرعت 1.5 ماخ و برد 8 تا 16 کیلومتر در نسخه پایه و در نسخه F که برای پرتاب از جنگنده است 16 تا 28 کیلومتر البته برد های اعلامی برای پرتاب از سکو هوایی هستند و در صورت پرتاب از لانچر زمینی برد کاهش می یابد که البته همچنان بیشتر از برد موشک های دوش پرتاب است.
+‏موشک JAGM دارای کلاهک خرج گود، انفجاری ترکش شونده و تریموباریک است. این موشک در حال جایگزینی با موشک هلفایر است که موشک اصلی هواپرتاب بالگرد ها، هواپیما های پشتیبانی و پهپاد های امریکایی بود و قطعا قرار است این نقش به JAGM محول شود،موشک 52 کیلوگرم وزن دارد و وزن کلاهک آن 9 کیلوگرم در نسخه خرج گود و8 کیلوگرم در نسخه  انفجار قوی ترکش شونده و تریموباریک  است و دارای سرعت 1.5 ماخ و برد 8 تا 16 کیلومتر در نسخه پایه و در نسخه F که برای پرتاب از جنگنده است 16 تا 28 کیلومتر البته برد های اعلامی برای پرتاب از سکو هوایی هستند و در صورت پرتاب از لانچر زمینی برد کاهش می یابد که البته همچنان بیشتر از برد موشک های دوش پرتاب است.
 ‏
-‏موشک دارای سیستم هدایت ترکیبی هدایت میلی موجی و لیزری نیمه فعال است. هلفایر تنها دارای هدایت لیزری نیمه فعال بود.
+‏موشک دارای سیستم هدایت ترکیبی هدایت رادار میلی موجی و لیزری نیمه فعال است. هلفایر تنها دارای هدایت لیزری نیمه فعال بود.
 ‏
 ‏بخش 2/4
 ‏
@@ -2873,19 +2873,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 17:29
-1405/03/14
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🌟- A thermal image captured near Area 51 appears to show a previously unseen aircraft design featuring cranked-kite wings and canards.
-‏
-‏➡️ The prevailing theory is that the aircraft is related to the U.S. Air Force's Next Generation Air Dominance (NGAD) program and the F-47 sixth-generation fighter, based on its resemblance to Boeing and Air Force renderings, which have themselves been edited to limit details available to foreign intelligence.
-‏
-‏@GeoPWatch
-17:28
 1405/03/14
 
 
@@ -6334,12 +6321,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 22:00
-1405/03/13
-
-
-
-
-src :@Mena_Live
-‏Iran sent a message to the US that any attack on Al-Dahiya (Lebanon’s Beirut) will lead to the firing of dozens of missiles at Israel — Amit Segal/Israeli Channel 12  @Mena_Live
-21:56
 1405/03/13
