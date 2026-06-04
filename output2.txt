@@ -1,3 +1,39 @@
+src :@BellumActaNews
+‏Welcome to Eastern European Spectator, the younger brother of Balkan Spectator
+‏
+‏While Balkan Spectator remains focused on the Balkans, Eastern European Spectator covers the political, economic, military and geopolitical developments shaping Eastern Europe.
+‏
+‏Same style. Same format. Same values. A broader map.
+‏
+‏@eastern_european_spectator
+18:21
+1405/03/14
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Türkiye's military received its first delivery of the İHA-230, a domestically developed supersonic air-launched ballistic missile made by ROKETSAN.
+‏
+‏The quantity was classified.
+‏
+‏The İHA-230 has a range of 150+ km, reaches Mach 4+, carries a 42 kg warhead, and is designed to be launched from Bayraktar AKINCI drones against high-value targets like radar sites, command centers, and armored vehicles.
+18:21
+1405/03/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🌟🏴‍☠️لبيك ياشيخ نعيم.. حزب الله يدك الشمال المحتل برشقات صاروخية وصافرات الرعب تدوي في المطلة ومحيطها.
+18:20
+1405/03/14
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇪🇺 FT: The United States has presented detailed proposals to reduce key military assets assigned to Nato’s rapid response force, including removing one of two U.S. aircraft carrier strike groups and all cruise missile‑capable submarines. 
@@ -1603,14 +1639,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏الله اكبر...بعد بيان الشيخ نعيم قاسم حزب الله يطلق رشقة صاروخية مع سرب من المسيرات نحو المستوطنات الشمالية.
-16:41
-1405/03/14
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏خبرگزاری تسنیم، وابسته به سپاه پاسداران روز پنجشنبه ۱۴ خردادماه و ساعاتی پس از انتشار ویدیوها و تصاویری از برخورد پهپاد سپاه به فرودگاه بین‌المللی کویت، به نقل از یک منبع نظامی، آن‌ها را «تصویرسازی دروغین دشمن» خواند.
@@ -2020,41 +2048,8 @@ src :@IranintlTV
 
 
 
-src :@GeoPWatch
-[عکس]
-‏— Dear subscribers, we’re currently collecting funds for a new Gaza aid mission with our friends over at TabzLIVE!
-‏
-‏We continue to support displaced Gazans living in difficult and unsafe conditions. Your contribution can help us expand these efforts and reach more people in need.
-‏
-‏You can donate through the methods below — your support goes straight to Gaza:
-‏🔗 Gaza campaign link: palestineaidfund.org/c/feed-gaza-tabz-geop
-‏
-‏⭐️ If you've got Telegram Stars, then you can also react to this post with them to contribute.
-‏
-‏🔷💲🪙 ETH, USDC, USDT (ERC-20): 0xeC23d50d1cDc0cDde8FE68663f26f6a13309B0BA
-‏
-‏🪙 Solana (SOL): Ao1tXsazqqJFUyNE1fPUPnrwaNJ7DEjWFU4qfr1YZSfc
-‏
-‏🪙 TRC-20 (USDT): TAsjdoSpY7CEjaxwS2wjdXaU1evswYSCaP
-16:15
-1405/03/14
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇱🇧🇱🇧 — Lebanese President Joseph Aoun:  "We are awaiting responses from all parties involved in the ceasefire. Implementation could begin within 24 hours of approval.  The deal may be the last chance for peace, otherwise each side will bear responsibility…
-16:14
-1405/03/14
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏نعیم قاسم، دبیر کل حزب‌الله لبنان، با انتقاد از توافق دولت لبنان با اسرائیل گفت این گروه فقط به «توقف کامل حملات، آتش‌بس و خروج اسرائیل از لبنان» متعهد است.
-‏او خلع سلاح حزب‌الله را به معنای نابودی قدرت لبنان دانست و افزود مذاکرات مستقیم دولت لبنان با اسرائیل «نمایش مضحک و توهین‌آمیز» است.
-‏https://iranintl.com/202606041013
 16:14
 1405/03/14
 
@@ -3006,23 +3001,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 14:49
-1405/03/14
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏Yesterday, the House voted — 4 bad Republicans and all the Dumocrats — to limit my War Powers in the middle of my final negotiations with Iran. 
-‏
-‏Who does such an unpatriotic thing? 
-‏
-‏Democrats are fueled by Trump Derangement Syndrome — they’d rather see our Country fail than give me a victory. 
-‏
-‏The four Republicans? GRANDSTANDERS. They should be ashamed.
-14:47
 1405/03/14
 
 
@@ -4465,23 +4443,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️مرجان ساتراپی، هنرمند فرانسوی ایرانی‌تبار که با کتاب مصور و فیلم پویانمایی «پرسپولیس» شهرتی جهانی داشت، روز پنجشبنه ۱۴ خرداد در ۵۶ سالگی درگذشت.
-‏
-‏خبرگزاری فرانسه این خبر را به نقل از نزدیکان او اعلام کرد و نوشت: «خانواده مرجان ساتراپی با ارسال بیانیه‌ای به این خبرگزاری اعلام کردند که این هنرمند، اندکی پس از یک سال بعد از فوت همسر و عشق زندگی‌اش، ماتیاس ریپا، درگذشت.»
-‏
-‏علت مرگ مرجان ساتراپی هنوز اعلام نشده است.
-‏
-‏مرجان ساتراپی علاوه بر پرسپولیس با فیلم «مرغ و آلو» و شرکت در تدوین کتاب‌های مصور، تلاش کرده بود مخاطبان فرانسوی‌زبان را با جامعه و تاریخ ایران آشنا کند. روایت ساتراپی از ایران، به‌ویژه در سال‌های اخیر با واکنش‌های متفاوت ایرانیان مهاجر مواجه شده بود.
-‏
-‏@IndyPersian
-11:47
-1405/03/14
-
-
-
-
 src :@mamlekate
 ‏📝 بازداشت جمشید قمی میلیارد ایرانی- آمریکایی به اتهام تأمین قطعات برای برنامه‌های نظامی و هسته‌ای جمهوری اسلامی
 ‏
@@ -4831,14 +4792,6 @@ src :@rus_cosmos
 ‏
 ‏مقامات آمریکایی گفتند که رئیس جمهور ترامپ به طور خصوصی به دستیاران خود گفته است که اگر تهران سربازان آمریکایی را بکشد، پایان دادن به آتش بس با ایران را بررسی خواهد کرد و اصرار دارند که توقف چند هفته‌ای حملات هوایی علیرغم جریان مداوم درگیری‌های خشونت‌آمیز همچنان پابرجاست.
 10:58
-1405/03/14
-
-
-
-
-src :@rnintel
-‏🇰🇵 - Kim Jong Un told North Korean state media that he plans to "beef up our state’s nuclear forces at an exponential rate" and that they have doubled their capacity to produce weapons-grade nuclear material in the past five years.
-10:57
 1405/03/14
 
 
@@ -6092,30 +6045,6 @@ src :@thewarreporter
 
 
 
-src :@BellumActaNews
-‏🇮🇶🛢 Iraq Looks to Triple Pipeline Oil Exports as Hormuz Remains Closed
-‏
-‏Iraq plans to triple within three months its exports of crude oil through Kurdistan to the Turkish Mediterranean port of Ceyhan as OPEC’s second-largest producer is one of the Middle East’s producers worst affected by the closed Strait of Hormuz.
-‏
-‏The Iraqi government has approved a plan to hike crude exports to Ceyhan and onto international markets from the Mediterranean as the blocked Strait of Hormuz has cut most of Iraq’s oil shipments.
-‏
-‏Iraq is seeing the worst of the Middle East crisis as its heavily oil-dependent economy is now collapsing with the trickling oil revenues amid the blockage of the Strait of Hormuz.
-‏
-‏Iraq has done very little in recent decades to diversify its heavy dependence on oil. Petroleum sales still account for 90% of revenues for state budget. While other producers in the Middle East also depend on oil sales, none is as dependent as Iraq.
-‏
-‏Due to the de facto closure of the Strait of Hormuz, Iraq has been forced to slash its oil production as its exports from Basra need to transit the world’s most vital oil chokepoint.
-‏
-‏Crude oil production from Iraq’s southern fields has plunged by 70% since the start of the U.S. and Israeli war on Iran, with the average production at 1.3 million barrels per day (bpd), compared with 4.3 million bpd before the war began.
-‏
-‏Iraq, unlike Saudi Arabia and the United Arab Emirates (UAE), doesn’t have any options to bypass the Strait of Hormuz, forcing Baghdad to slash oil production as storage sites and tankers available in the Gulf filled up.
-‏
-‏🔗 https://oilprice.com/Latest-Energy-News/World-News/Iraq-Looks-to-Triple-Pipeline-Oil-Exports-as-Hormuz-Remains-Closed.html
-22:06
-1405/03/13
-
-
-
-
 src :@Middle_East_Spectator
 ‏— 🇮🇷/🇱🇧/🇮🇷 Iran’s Foreign Minister, Abbas Araqchi: ‘Hezbollah is a part of Lebanon and part of Lebanese society, nobody can do anything about that. Hezbollah’s needs will not be ignored.’
 ‏
@@ -6493,12 +6422,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 18:45
-1405/03/13
-
-
-
-
-src :@KayhanLondonChannel
-‏Kayhan.London.Channel کیهان لندن pinned «‏ ﻿ ﻿شاهدخت نور پهلوی در «انجمن آزادی اسلو»: ما برای آزادی مردمی می‌جنگیم که ۴۷ سال است از آن محروم شده‌اند   - شاهدخت نور پهلوی در نشست سالانه «انجمن آزادی اسلو» که ۱۲ خرداد ۱۴۰۵ (۲ ژوئن ۲۰۲۶) با حضور شماری از سیاستمداران و فعالان مدنی و حقوق بشر در پایتخت…»
-18:17
 1405/03/13
