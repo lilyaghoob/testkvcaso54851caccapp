@@ -4787,21 +4787,6 @@ src :@DEJradio
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇬🇧👑📝 — British King Charles III has knighted Idris Elba
-‏
-‏The ceremony took place on June 2 at Windsor Castle.
-‏
-‏The Luther star was awarded a knighthood for services to youth. His wife, model Sabrina Dhowre, attended the event to support him.
-‏
-‏He is now Sir Idris Elba.
-17:06
-1405/03/13
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 کاهش چشمگیر صادرات نفت ایران به دلیل محاصره دریایی آمریکا
