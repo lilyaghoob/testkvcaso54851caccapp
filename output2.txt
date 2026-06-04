@@ -4,7 +4,7 @@ src :@wfwitness
 ‏
 ‏The coalition bloc stands at 53 seats, still short of a 61-seat majority.
 ‏
-‏Former IDF Chief of Staff Gadi Eisenkot's Yesh Atid party holds 17 seats, and former Israeli Prime Minister Naftali Bennett's "Yamina" remains at 23.
+‏Former IDF Chief of Staff Gadi Eisenkot's “Yashar” party holds 17 seats, and former Israeli Prime Minister Naftali Bennett's "Be’yahad" remains at 23.
 ‏
 ‏A separate i24 poll shows Likud standing at 30 seats, while Yesh Atid and Yamina each have 14 and 16 seats respectively, with the Religious Zionist Party at 5 seats and Otsma Yehudit at 8.
 ‏
@@ -193,6 +193,8 @@ src :@mwarmonitor
 
 src :@naya_foriraq
 ‏🇷🇺بوتين: لا نستبعد في المستقبل اتخاذ قرارات بشأن الاستخدام الكامل لـ "Oreshnik" ضد أهداف، بما في ذلك في مناطق البناء الحضري.
+‏
+‏نمتلك جميع الموارد اللازمة لتحقيق أهدافنا العسكرية والجيش الأوكراني يعاني من نقص كارثي في عدد ​​الأفراد.
 20:55
 1405/03/14
 
@@ -2503,19 +2505,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump's former national security adviser John Bolton has agreed to plead guilty to one count of illegally retaining classified national security documents and pay a fine of over $2 million.
-‏
-‏Bolton kept diary entries from his White House tenure at home and shared over a thousand pages of sensitive material via personal email with his wife and daughter.
-‏
-‏Source: CNN
-17:57
-1405/03/14
-
-
-
-
 src :@Minas_Tirith2024
 ‏⭕️بیانیه سپاه پاسداران:
 ‏
@@ -3152,9 +3141,11 @@ src :@rus_cosmos
 
 src :@VahidOnline
 [عکس]
-‏⭕️نعیم قاسم، دبیرکل حزب‌الله لبنان: مذاکرات مستقیم لبنان با اسرائیل نمایشی مضحک و توهین‌آمیز است
+‏دبیرکل گروه حزب‌الله طرح آتش‌بسی را که دولت‌های لبنان و اسرائیل در مذاکراتی با میانجی‌گری آمریکا بر سر آن توافق کرده بودند، رد کرد.
 ‏
-‏♦️نعیم قاسم، دبیرکل حزب‌الله لبنان، توافق دولت لبنان با اسرائیل که با میانجی‌گری آمریکا تدوین شده است را «تسلیم و شکست تمام‌عیار» توصیف کرد و گفت حزب‌الله تنها به توقف کامل حملات، آتش‌بس و خروج اسرائیل از خاک لبنان متعهد است.
+‏ایالات متحده روز چهارشنبه اعلام کرده بود که لبنان و اسرائیل بر سر اجرای یک آتش‌بس به توافق رسیده‌اند؛ توافقی که مشروط به توقف حملات حزب‌الله و خروج نیروهای این گروه از مناطق مرزی جنوب لبنان است.
+‏@VahidHeadline 
+‏نعیم قاسم، دبیرکل حزب‌الله لبنان، توافق دولت لبنان با اسرائیل که با میانجی‌گری آمریکا تدوین شده است را «تسلیم و شکست تمام‌عیار» توصیف کرد و گفت حزب‌الله تنها به توقف کامل حملات، آتش‌بس و خروج اسرائیل از خاک لبنان متعهد است.
 ‏
 ‏او همچنین خلع سلاح حزب‌الله را به معنای از بین رفتن قدرت لبنان دانست و تاکید کرد این موضوع برای حزب‌الله قابل پذیرش نیست. 
 ‏
@@ -5810,24 +5801,6 @@ src :@guard_warriors
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇰🇷🗳 — 75.3% of 18~29 yo men voted for the Right-wing PPP in the Seoul mayor election while only 41.4% of women the same age did the same  ➡️ This is higher even than the 70+ bracket, which was historically the most right-leaning group  Young men are the most…
-08:53
-1405/03/14
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇰🇷🗳📝 — Oh Se-hoonm, a Korean nationalist and a Roman Catholic, was re-elected as Mayor of South Korean capital, Seoul, defying exit poll results under the Right-wing People's Power Party (PPP)  @BellumActaNews
-08:51
-1405/03/14
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US President Trump told his aides that he will not resume the war with Iran unless American troops are killed.
 ‏
@@ -6595,27 +6568,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/03/13/402912/
 21:46
-1405/03/13
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏Iran sent a message to the US that any attack on Al-Dahiya (Lebanon’s Beirut) will lead to the firing of dozens of missiles at Israel — Amit Segal/Israeli Channel 12
-‏
-‏@Mena_Live
-21:08
-1405/03/13
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏ماموران اف‌بی‌آی، روز چهارشنبه ۱۳ خرداد ۱۴۰۵ در یک عملیات غافلگیرانه، جمشید قمی، تاجر ۶۳ ساله دارای تابعیت دوگانه ایران و آمریکا را در عمارت ۳۵ میلیون دلاری‌اش در نیوپورت بیچ کالیفرنیا دستگیر کردند.
-‏به گزارش نیویورک پست، قمی به توطئه برای نقض قانون اختیارات اقتصادی اضطراری بین‌المللی متهم شده است. دادستان‌ها گفته‌اند او به مدت بیش از یک دهه تجهیزات شبکه‌های کامپیوتری آمریکایی را از طریق شرکتی که در تهران تاسیس کرده بود، به نهادهای دولتی و نظامی ایران از جمله برنامه هسته‌ای این کشور می‌فروخت.
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/153229
-‏ @Farsi_Iranwire
-21:07
 1405/03/13
