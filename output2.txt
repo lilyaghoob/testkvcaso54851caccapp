@@ -51,7 +51,7 @@ src :@tabzlive
 
 
 src :@GeoPWatch
-‏🇱🇧❌🇮🇱 — Hezbollah announces thwarting an IDF incursion into the eastern outskirts of the town of Ghandouriyah at 22:35 yesterday by detonating several explosive devices against the invading force, forcing the IDF ground force to withdraw and the IDF to subsequently strike the area with artillery and airstrikes.
+‏🇱🇧❌🇮🇱 — Hezbollah announces thwarting an IDF incursion into the eastern outskirts of the town of Ghandouriyah at 22:35 yesterday by detonating several explosive devices against the invading force, forcing the IDF ground force to withdraw.
 ‏
 ‏@GeoPWatch
 02:47
@@ -2115,17 +2115,6 @@ src :@warmonitors
 [عکس]
 ‏⚡️Israeli soldier Eitan Shmuel Lamberg, killed in Lebanon by Hezbollah
 22:57
-1405/03/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇮🇷 ⚡️— The US Department of State's Bureau of Consular Affairs has urged American citizens in West Asia to exercise "increased caution" for potential hostilities, noting the security environment "remains complex and can change quickly." 
-‏
-‏Bahrain, Israel, the West Bank, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE are at Level 3 — Reconsider Travel, — while Iran, Iraq, Lebanon, Syria, Gaza, and Yemen remain at Level 4 — Do Not Travel.
-22:56
 1405/03/14
 
 
@@ -5849,25 +5838,4 @@ src :@intelslava
 src :@Middle_East_Spectator
 ‏—❗️🇮🇱/🇱🇧/🇮🇷 BREAKING: Israel and Lebanon have reached their own so-called ‘ceasefire agreement’ brokered by the United States  – Per the agreement, the ceasefire is contingent on a complete halt to fire by Hezbollah and the withdrawal of all Hezbollah operatives…
 02:56
-1405/03/14
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇱/🇱🇧/🇮🇷 BREAKING: Israel and Lebanon have reached their own so-called ‘ceasefire agreement’ brokered by the United States
-‏
-‏– Per the agreement, the ceasefire is contingent on a complete halt to fire by Hezbollah and the withdrawal of all Hezbollah operatives from south of the Litani River. 
-‏
-‏– In the statement, Lebanon declared that it has no hostile intent toward Israel.
-‏
-‏– Lebanon designates Hezbollah as an enemy of the Lebanese state.
-‏
-‏– The two sides agreed to move forward with zones in which the Lebanese Armed Forces would exercise exclusive control, excluding all non-state armed groups.
-‏
-‏– Israel and Lebanon reaffirmed that they have no hostile intentions toward one another.
-‏
-‏@Middle_East_Spectator
-02:54
 1405/03/14
