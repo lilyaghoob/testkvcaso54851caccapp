@@ -1024,22 +1024,6 @@ src :@Indypersian
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 پولیتیکو: پنتاگون احتمالاً ارسال موشک‌های تاماهاوک به آلمان را لغو می‌کند
-‏
-‏پولیتیکو گزارش داد وزارت دفاع آمریکا (پنتاگون) در حال بررسی لغو برنامه استقرار و تحویل موشک‌های کروز تاماهاوک به آلمان است.
-‏بر اساس این گزارش، یکی از نگرانی‌های اصلی واشنگتن این است که روسیه استقرار این موشک‌ها در خاک آلمان را به عنوان اقدامی تنش‌زا و تشدیدکننده رویارویی نظامی تفسیر کند.
-‏این تصمیم احتمالی در شرایطی مطرح می‌شود که بحث‌های گسترده‌ای درباره آینده بازدارندگی ناتو و نحوه استقرار تسلیحات راهبردی آمریکا در اروپا جریان دارد.
-‏
-‏✍🏻 Queen
-‏▪️@World_Newsly
-23:59
-1405/03/14
-
-
-
-
 src :@jangaavaran1390
 ‏دونالد ترامپ اظهار داشته است که کشتن نیروهای آمریکایی توسط ایران «دلیلی مناسب» برای از سرگیری درگیری محسوب می‌شود و این اقدام را «بسیار سریع» به انجام خواهد رساند. وی در ادامه بیان داشت: «من صادقانه با شما صحبت می‌کنم؛ اگر نیروهای آمریکایی توسط آن‌ها کشته شوند، معتقدم اقدام بسیار سریعی را انجام خواهم داد. بله، این پرسشی بسیار جالب است.»
 23:59
@@ -1418,20 +1402,6 @@ src :@GeoPWatch
 
 
 
-src :@P_raetorio
-[عکس]
-‏موتور پیستونی MD550 متعلق به پهپاد شاهد 136 در ترمینال 1 فرودگاه بین‌المللی کویت پیدا شده است.
-‏
-‏پ.ن: PAC-3 موتور پیستونی
-‏
-‏
-‏@P_raetorio
-23:36
-1405/03/14
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏محسن رضایی، مشاور رهبر جمهوری اسلامی، پنج‌شنبه در مصاحبه‌ای با صداوسیمای جمهوری اسلامی اعلام کرد که پیش‌نویس فعلی تفاهم‌نامه در حال مذاکره برای پایان دادن به جنگ میان ایران و ایالات متحده دارای ابهاماتی است که باید روشن شوند.
@@ -1441,15 +1411,6 @@ src :@IranintlTV
 ‏مشاور مجتبی خامنه‌ای همچنین پیشتر به صداوسیما گفت که آمریکا منتظر «چراغ سبز» جمهوری اسلامی است و تهران تا به «همه حقوق‌» خود دسترسی پیدا نکند، این چراغ سبز را به هیچ کسی نشان نخواهد داد.
 ‏https://iranintl.com/202606047780
 23:33
-1405/03/14
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏⭕️وزارت امور خارجه آمریکا هشدار جدیدی برای سفر به امارات متحده عربی،عربستان سعودی،بحرین،عراق،قطر،عمان و اردن صادر کرد.  @P_raetorio
-23:32
 1405/03/14
 
 
@@ -1723,19 +1684,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 23:10
-1405/03/14
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏تسلیحات سری ارتش دوم جهان
-‏
-‏#ارتش_دوم_جهان
-‏
-‏@P_raetorio
-23:08
 1405/03/14
 
 
@@ -3147,27 +3095,6 @@ src :@rnintel
 src :@rnintel
 ‏🇱🇧🇮🇱⚡️- "The killers of prophets will not settle on our land, we will fight the invaders until we drive them out of our land and stop their aggression." - Hezbollah Secretary General Naim Qassem.
 19:41
-1405/03/14
-
-
-
-
-src :@GeoPWatch
-‏🇾🇪🇾🇪🇱🇧🇮🇷❌🇮🇱🇺🇸- Abdul-Malik al-Houthi, leader of Ansar Allah (Houthis): 
-‏Our stance in hostility toward the enemies of Islam, in confronting their evil and tyranny, their plots and satanic agendas, is a genuinely Quranic stance, and we take pride in it
-‏
-‏We affirm our readiness to confront the enemies with God's help and trust in Him in any round of escalation or any developments within the framework of the current situation
-‏
-‏We are in full coordination with our mujahid brothers in the axis of jihad, resistance, and Jerusalem regarding what is happening in Lebanon and Palestine, and regarding the unjust and aggressive American measures, and whatever is required in response to that
-‏
-‏We direct our advice to all forces and parties in our region to beware of being dragged by the Americans into fighting in service of the Zionist enemy
-‏
-‏The American is indeed seeking to bring the forces and parties in our region to this point, to draw them into a comprehensive battle in service of the Zionist Jews
-‏
-‏The American is seeking to drag some into it, even though it poses great danger to them, and the consequences for them will be loss, disgrace, humiliation, and severe repercussions for them
-‏
-‏@GeoPWatch
-19:33
 1405/03/14
 
 
@@ -6058,14 +5985,4 @@ src :@guard_warriors
 src :@Middle_East_Spectator
 ‏— 🇮🇷/🇰🇼 WATCH: CCTV footage confirms that an Iranian Shahed-136 drone struck Terminal 1 of Kuwait International Airport early this morning  @Middle_East_Spectator
 01:52
-1405/03/14
-
-
-
-
-src :@Middle_East_Spectator
-‏🇮🇷🇰🇼| The IRGC confirms what I had written. 
-‏
-‏Says destruction at Kuwait Airport T1 terminal was caused by a malfunction of an American Patriot system.
-01:41
 1405/03/14
