@@ -1,3 +1,47 @@
+src :@Indypersian
+[عکس]
+‏♦️ وزارت خارجه آمریکا پنجشنبه ۱۴ خرداد از شهروندان آمریکایی حاضر در خاورمیانه خواست به دلیل تنش‌های شدید منطقه‌ای احتیاط کنند و تحولات امنیتی را از نزدیک دنبال کنند. این وزارتخانه اعلام کرد وضعیت امنیتی در خاورمیانه همچنان پیچیده است و ممکن است به‌سرعت تغییر کند.
+‏
+‏بر اساس این اطلاعیه، هشدار سفر برای بحرین، اسرائیل، کرانه باختری، اردن، کویت، عمان، قطر، عربستان سعودی و امارات متحده عربی همچنان در سطح ۳، «تجدیدنظر در سفر»، باقی مانده است.
+‏
+‏وزارت خارجه آمریکا همچنین اعلام کرد ایران، عراق، لبنان، سوریه، غزه و یمن همچنان در سطح ۴، «از سفر خودداری کنید»، قرار دارند.
+‏@indypersian
+01:14
+1405/03/15
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸🇮🇷 President Trump says he would be "honored" to meet Iranian Supreme Leader Khamenei.
+‏
+‏"I don't want to meet, but if I did meet him, I would be honored to meet him."
+‏
+‏@BRICSNews
+01:14
+1405/03/15
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released an additional batch of statements regarding operations targeting Israeli forces across southern Lebanon:
+‏
+‏In response to Israeli ceasefire violations on southern Lebanon, which led to civilian causing, we targeted a gathering of Israeli military vehicles and soldiers at the newly established Nimr al-Jamal site with two drone strikes. We also targeted two Merkava tanks at 19:30 on Thursday, June 4, 2026, in the vicinity of the historic Beaufort Castle (Qalaat al-Shaqif) using Ababil missiles, achieving confirmed hits.
+‏
+‏Additionally, a Merkava tank was targeted at 20:30 in the vicinity of Beaufort Castle with a guided missile, leading to its destruction. At 18:45, we targeted the newly established Israeli military position at Tell al-Awida in the town of Adaisseh using a squadron of attack drones.
+‏
+‏Separately, we confronted an Israeli Hermes 450 Zik drone over the city of Nabatieh at 12:00 on Wednesday, June 3, 2026, using appropriate weapons and forcing it to leave the area. A second Israeli Hermes 450 Zik drone was also confronted in the airspace over Kfar Melki and Jbaa, where it was engaged with appropriate weapons and forced to withdraw.
+‏
+‏@wfwitness
+01:13
+1405/03/15
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 تحرکات هواپیماهای ترابری نظامی، سوخت‌رسان و آواکس آمریکایی در منطقه.
@@ -2575,17 +2619,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 U.S. Central Command announced that as of 4 June, U.S. forces have redirected 127 commercial vessels, disabled six non‑compliant ships, and allowed 36 vessels supporting humanitarian aid to pass.
-‏
-‏@wfwitness
-21:26
-1405/03/14
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ تصاویر CCTV امکان تعیین موقعیت تمرینات اخیر ارتش ۷۱ را فراهم کرد. مختصات: ۲۵.۹۷۹۷۹، ۱۱۹.۶۹۹. این محل تنها ۳ کیلومتر با محل استقرار گردان توپخانه ۷۱ که سامانه‌های جدید PCL-191 در آن دیده شده‌اند فاصله دارد که نشان‌دهنده پایان فرایند نوسازی این واحد است.
@@ -2684,23 +2717,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 21:14
-1405/03/14
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱 A new poll conducted by Kan shows Likud, Israeli Prime Minister Benjamin Netanyahu's party, dropping to 24 seats (down from 27), while the Religious Zionist Party, led by Israeli Finance Minister Bezalel Smotrich, passes the electoral threshold for the first time with 4 seats amid the upcoming Israeli Knesset elections. 
-‏
-‏The coalition bloc stands at 53 seats, still short of a 61-seat majority.
-‏
-‏Former IDF Chief of Staff Gadi Eisenkot's “Yashar” party holds 17 seats, and former Israeli Prime Minister Naftali Bennett's "Be’yahad" remains at 23.
-‏
-‏A separate i24 poll shows Likud standing at 30 seats, while  Be’yahad has only 14 seats, and Yashar has 16 seats, with the Religious Zionist Party at 5 seats and Otzma Yehudit 8.
-‏
-‏@wfwitness
-21:05
 1405/03/14
 
 
@@ -2991,22 +3007,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 20:21
-1405/03/14
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️کاظم غریب‌آبادی، معاون وزیر امور خارجه جمهوری اسلامی، روز پنج‌شنبه ۱۴ خرداد اعلام کرد که تهران به دنبال وضع هزینه‌هایی برای خدمات ارائه شده به کشتی‌های عبوری از تنگه هرمز است. او تاکید کرد که ایران به دنبال دریافت «عوارض عبور» نیست، بلکه هزینه‌ها در ازای خدمات خاصی که توسط ایران و عمان ارائه می‌شود، دریافت خواهد شد.
-‏
-‏این خدمات شامل ناوبری، امداد و نجات، تامین امنیت و ایمنی، و پاک‌سازی‌های زیست‌محیطی در صورت بروز آلودگی است. غریب‌آبادی با اشاره به اینکه این آبراه استراتژیک کاملا در آب‌های سرزمینی ایران و عمان قرار دارد، تاکید کرد که این اقدامات با حقوق بین‌الملل دریاها مغایرت ندارد.
-‏
-‏او همچنین خاطرنشان کرد که در شرایط صلح، هدف ایران تضمین عبور ایمن و روان کشتی‌های تجاری است، اما اگر مدارکی مبنی بر قصد اخلال در نظم و امنیت توسط شناوری وجود داشته باشد، اقدامات محدودکننده وضع خواهد شد. معاون وزیر خارجه با اذعان به اینکه این تصمیمات ممکن است برای برخی کشورها که دهه‌ها به‌طور رایگان از این مسیر استفاده کرده‌اند خوشایند نباشد، بر پیگیری این مواضع به عنوان حق ایران تاکید کرد.
-‏
-‏
-‏@indypersian
-20:19
 1405/03/14
 
 
@@ -3419,24 +3419,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🔶 عراقچی: در لحظه شهادت رهبری، من در دفتر ایشان در بیت بودم که انجا مورد حمله هوایی قرار گرفت
-‏
-‏🔹وزیر امور خارجه در گفتگو با المیادین: پس از بازگشت از مذاکرات ژنو در روز جمعه، روز شنبه ساعت ۹ صبح به دفتر ایشان رفتم تا گزارشاتم را ارائه دهم.
-‏
-‏🔹گزارش من درباره مذاکرات و فضایی بود که روز جمعه پیش آمد و احتمال جنگ را بسیار بیشتر کرده بود. ناگهان ساختمانی که در آن نشسته بودیم، هدف حمله قرار گرفت، اما بالی که ما در آن بودیم، سالم ماند.
-‏
-‏🔹اولین سؤالی که به ذهنم رسید و اولین نگرانی که به من دست داد، این بود که وضعیت سلامتی رهبر چگونه است؟ احساس می‌کردم بر اساس روال عادی کار، حتماً رهبری در دفتر خودش حضور دارد و به پناهگاه نرفته.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-18:52
-1405/03/14
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏
@@ -3683,21 +3665,6 @@ src :@warmonitors
 
 src :@rnintel
 ‏🇬🇧🇫🇷🇮🇷⚡️- "The ongoing closure of the Strait of Hormuz is deeply damaging. Getting global shipping moving is vital to ease cost of living pressures.   The UK has convened more than 40 nations who share our aim to restore freedom of navigation.   This week…
-18:24
-1405/03/14
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 سی ان ان: مشاور پیشین امنیت ملی ترامپ، جان بولتون، پذیرفته که به یک جرم مربوط به نگهداری غیرقانونی اسناد طبقه‌بندی‌ شده امنیت ملی اعتراف کند و بیش از ۲ میلیون دلار جریمه پرداخت نماید.
-‏
-‏🔹 بولتون غیرقانونی یادداشت‌ های روزانه مربوط به دوران حضورش در کاخ سفید را در خانه نگه داری میکرده و بیش از هزار صفحه از مطالب حساس را از طریق ایمیل شخصی با همسر و دخترش به اشتراک گذاشته است.
-‏
-‏#امریکا
-‏
-‏@RASTAKHIZ_PERSIAN
 18:24
 1405/03/14
 
@@ -6048,17 +6015,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 07:03
-1405/03/14
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇰🇵 North Korea's Kim Jong Un unveils new facility to produce nuclear bomb fuel "at an exponential rate."
-‏
-‏@BRICSNews
-06:51
 1405/03/14
 
 
