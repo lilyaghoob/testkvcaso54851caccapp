@@ -1,7 +1,29 @@
+src :@World_Newsly
+‏🔴خبرگزاری مهر شنیده شدن صدای انفجار در خارک را تکذیب کرد 
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+01:28
+1405/03/16
+
+
+
+
 src :@rus_cosmos
 ‏صدای انفجار و پرواز جنگنده در جزیر خارک شنیده می‌شود.
 ‏
 ‏ایران می‌گوید خبری نیست.
+01:26
+1405/03/16
+
+
+
+
+src :@World_Newsly
+‏🔴ترامپ به NBC: رهبران ایران چاره‌ ای جز رسیدن به توافق ندارند
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
 01:26
 1405/03/16
 
@@ -1601,20 +1623,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-‏🔴 آکسیوس: آمریکا تیمی ۱۰۰ نفره برای اجرای احتمالی توافق هسته‌ای با ایران تشکیل داده است
-‏
-‏بر اساس گزارش آکسیوس، دولت آمریکا گروهی متشکل از حدود ۱۰۰ کارشناس و متخصص هسته‌ای را برای پشتیبانی از اجرای احتمالی توافق با ایران تشکیل داده است.
-‏گفته می‌شود این تیم روی موضوعاتی مانند سرنوشت ذخایر اورانیوم غنی‌شده ایران، محدودیت‌های احتمالی غنی‌سازی و سازوکارهای نظارتی و راستی‌آزمایی کار می‌کند. برخی از این کارشناسان پیش‌تر در پروژه‌های انتقال و بازیابی مواد هسته‌ای نیز مشارکت داشته‌اند.
-‏
-‏✍🏻 Cybex
-‏▪️@World_Newsly
-23:13
-1405/03/15
-
-
-
-
 src :@GeoPWatch
 ‏🇱🇧❌🇮🇱- Interceptors have been activated.  @GeoPWatch
 23:12
@@ -1718,20 +1726,6 @@ src :@GeoPWatch
 
 src :@P_raetorio
 ‏خسارت فراتر از انتظار به پایگاه هفتم شکاری شهید دوران شیراز در طول جنگ اخیر!  تصاویر ماهواره‌ای نشان می‌دهد دستکم بیش از 15 هواپیما نیرو هوایی ارتش در این پایگاه هوایی منهدم شده‌اند.با بررسی تصاویر و مطابقت با گذشته دستکم انهدام قطعی 3 فروند هواپیما ترابری…
-23:07
-1405/03/15
-
-
-
-
-src :@World_Newsly
-‏🔴 آکسیوس: کاخ سفید از مذاکره‌کنندگان ایرانی سیگنال‌های مثبت دریافت کرده است
-‏
-‏آکسیوس به نقل از مقامات آمریکایی گزارش داد که کاخ سفید در هفته‌های اخیر نشانه‌های مثبتی از سوی تیم مذاکره‌کننده ایران دریافت کرده است.
-‏با این حال، مقام‌های آمریکایی معتقدند در داخل ساختار تصمیم‌گیری تهران درباره نحوه ادامه مذاکرات و توافق احتمالی اختلاف‌نظرهایی وجود دارد که می‌تواند روند گفت‌وگوها را پیچیده کند.
-‏
-‏✍🏻 Boss
-‏▪️@World_Newsly
 23:07
 1405/03/15
 
@@ -2616,18 +2610,6 @@ src :@wfwitness
 src :@wfwitness
 ‏⚡️🇺🇸🇱🇧🇱🇧 U.S. Sources to MTV:   No Israeli Withdrawal from Southern Lebanon Before Hezbollah Is Dismantled and the Lebanese Army Deploys; No Long-Term Stability Without a Reduction in the Group’s Military Role — This Is the Broad Consensus in Washington. …
 21:35
-1405/03/15
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇱🇧🇱🇧 U.S. Sources to MTV: 
-‏
-‏No Israeli Withdrawal from Southern Lebanon Before Hezbollah Is Dismantled and the Lebanese Army Deploys; No Long-Term Stability Without a Reduction in the Group’s Military Role — This Is the Broad Consensus in Washington.
-‏
-‏@wfwitness
-21:34
 1405/03/15
 
 
