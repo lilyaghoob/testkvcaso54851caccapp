@@ -1040,15 +1040,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸 — The USS Gerald R. Ford (CVN-78) aircraft carrier will soon leave the Red Sea and sail to Naval Support Activity Souda Bay, Crete, Greece following a fire in the laundry facility last week. The aircraft carrier will undergo repairs for more than a week…
-01:33
-1405/03/15
-
-
-
-
 src :@naya_foriraq
 ‏شبكة CNN تبث مشاهد لحاملة الطائرات الامريكية "يو إس إس جيرالد آر فورد" وهي مدمرة بعد هجوم ايراني رغم النفي الامريكي
 01:33
