@@ -1,4 +1,32 @@
 src :@GeoPWatch
+‏🇮🇷 — Reports of explosions heard on Kharg Island.
+‏
+‏@GeoPWatch
+00:27
+1405/03/16
+
+
+
+
+src :@Indypersian
+‏⭕️اسلام و پادشاهان مشروطه؛ تصورات و واقعیات
+‏
+‏📌دولت‌های مشروطه رضاشاه کبیر و محمدرضاشاه ایران را از اسارت یک روحانیت پیر و جامانده از مسیر تاریخ آزاد کردند
+‏
+‏♦️در هفته‌های اخیر برای دوری از فضای پرغوغای مجازی، تصمیم گرفتم که برای مدتی به «مسامعه» بپردازم؛ اقدامی که ارباب کلام آن را جزو الزامات می‌شمارند. ناصر خسرو قبادیانی در بررسی راه‌های رهایش از باورهای معیوب و حقایق ندانسته، پرسیدن و گوش دادن را دو کلید گشایش می‌داند.
+‏
+‏البته شنیدن با گوش دادن فرق دارد. همه ما در هر روز از زندگی‌مان بسیار چیزها می‌شنویم، بی آنکه این شنیدن به گوش دادن بیانجامد و کلید گشایش را عرضه کند.
+‏
+‏ بیشتر بخوانید...
+‏🖌دیدگاهی از استاد امیر طاهری
+‏@IndyPersian
+00:26
+1405/03/16
+
+
+
+
+src :@GeoPWatch
 ‏🇱🇧❌🇮🇱 — Early Warning issued for Kiryat Shmona/Metula, northern Israel.  @GeoPWatch
 00:21
 1405/03/16
@@ -12,7 +40,6 @@ src :@mwarmonitor
 ‏🇩🇪 آلمان: در تاریخ ۵ ژوئن یک هشدار صادر کرده و به‌شدت به شهروندان خود توصیه کرده به دلیل «تشدید وضعیت امنیتی در منطقه» به کشورهای زیر سفر نکنند:
 ‏
 ‏کویت
-‏
 ‏بحرین
 ‏
 ‏
@@ -24,28 +51,18 @@ src :@mwarmonitor
 ‏🇺🇸 ایالات متحده: در ۴ ژوئن به دلیل احتمال درگیری‌های نظامی، هشدار «بازنگری در سفر» صادر کرده است برای:
 ‏
 ‏بحرین
-‏
 ‏اسرائیل
-‏
 ‏کرانه باختری
-‏
 ‏اردن
-‏
 ‏کویت
-‏
 ‏عربستان سعودی
-‏
 ‏عراق
-‏
 ‏قطر
-‏
 ‏عمان
-‏
 ‏امارات متحده عربی
 ‏
 ‏
 ‏🇨🇦 کانادا: در ۱ ژوئن هشدار «عدم سفر» صادر کرده به دلیل فعالیت‌های نظامی جاری برای:
-‏
 ‏امارات متحده عربی
 ‏
 ‏@mwarmonitor
@@ -2351,23 +2368,6 @@ src :@bricsnews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱🇺🇸 Al Jazeera: A U.S. official stated that the historic agreement between Lebanon and Israel is the beginning, and the first result of both sides sitting at the negotiating table. 
-‏
-‏The U.S. will continue to support efforts until a comprehensive peace agreement is reached. Another round of talks is scheduled after 22 June.  
-‏
-‏The official accused Iran of wanting to prolong the conflict in Lebanon and aiming to obstruct negotiations in order to claim credit for “saving the day”. 
-‏
-‏He added that Hezbollah must choose between waging a futile war or allowing the return of displaced people and reconstruction.  
-‏
-‏@wfwitness
-21:22
-1405/03/15
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜چندین موشک بالستیک ایرانی در هفته‌های ابتدایی جنگ ایران، مرکز عملیات هوایی مشترک (CAOC) نیروی هوایی ایالات متحده مستقر در پایگاه هوایی العدید قطر را هدف قرار دادند.
@@ -2432,15 +2432,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released a new batch of statements regarding operations targeting Israeli forces across southern Lebanon:  In response to Israeli ceasefire violations on southern Lebanon, we targeted a gathering of Israeli military vehicles and soldiers…
-21:15
-1405/03/15
-
-
-
-
 src :@World_Newsly
 ‏🔴 بلومبرگ: ترافیک تجاری در تنگه هرمز به حداقل رسید
 ‏
@@ -2484,16 +2475,6 @@ src :@GeoPWatch
 ‏This facility houses CENTCOM officials responsible for leading CENTCOM's Air Force Central, responsible for USAF operations across the CENTCOM area-of-responsibility.
 ‏
 ‏However, CENTCOM anticipated this, moving the base's operations to Shaw AFB, South Carolina before the war started.
-‏
-‏@GeoPWatch
-21:12
-1405/03/15
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷- Fighter jet activity has been reported over Karaj, western Tehran, and northern Tehran.
 ‏
 ‏@GeoPWatch
 21:12
@@ -3558,24 +3539,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 19:19
-1405/03/15
-
-
-
-
-src :@Indypersian
-‏⭕️داروهای کاهش وزن جی‌ال‌پی-۱ سوخت‌وساز و احتمالا ساختار مغز را تغییر می‌دهند
-‏
-‏📌داروهای جی‌ال‌پی‌-۱ احتمال نوشیدن الکل یا بروز رفتارهای وسواسی کنترل‌ناپذیر را در برخی بیماران کاهش می‌دهند
-‏
-‏
-‏♦️دانشمندان در حال بررسی این موضوع‌ا‌ند که چگونه داروهای «جی‌ال‌پی-۱» مانند اوزمپیک، احتمالا نه‌ فقط یک پیشرفت مهم در زمینه سوخت‌وساز بدن به شمار می‌روند، بلکه می‌توانند مغز برخی بیماران را نیز دگرگون کنند.
-‏بیشتر بخوانید...
-‏
-‏🖋ایزابل کین 
-‏
-‏@indypersian
-19:18
 1405/03/15
 
 
@@ -6448,18 +6411,4 @@ src :@Exciton_missile_program
 ‏
 ‏@Exciton_missile_program 🚀
 00:34
-1405/03/15
-
-
-
-
-src :@Mena_Live
-‏Israel has largely succeeded in its goal of making much of Gaza unsustainable to live in
-‏
-‏Satellite imagery obtained by Al Jazeera shows that the Israeli military has built and significantly expanded 40 military bases across Gaza after flattening many of the towns and neighborhoods surrounding them. 
-‏
-‏It is also preparing to construct a West Bank–style barrier through the middle of the Gaza Strip along the so-called Yellow Line.
-‏
-‏@Mena_Live
-00:23
 1405/03/15
