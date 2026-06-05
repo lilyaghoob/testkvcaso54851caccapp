@@ -1,3 +1,14 @@
+src :@rus_cosmos
+[عکس]
+‏مشخصات پهپادی که صبح امروز توسط ارتش شلیک شد:
+‏
+‏پهپاد «امید» یک پهپاد انتحاری/مهمات پرسه‌زن ساخت و مورد استفاده ارتش جمهوری اسلامی ایران است. این پهپاد برای مأموریت‌های ضد رادار طراحی شده و توانایی شناسایی، تعقیب و حمله به اهداف راداری و همچنین اهداف ثابت یا متحرک را دارد.
+16:14
+1405/03/15
+
+
+
+
 src :@GeoPWatch
 ‏🇮🇷- The jets are reportedly flying at a low altitude, most likely as part of drills once again.  @GeoPWatch
 16:12
@@ -1336,15 +1347,6 @@ src :@mohem_mat
 
 
 
-src :@tabzlive
-[عکس]
-‏🇷🇴🇺🇦 — An unmanned surface vehicle (USV), described by Romanian authorities as the type used in the war in Ukraine, exploded in Romania's Port of Constanța, prompting the activation of emergency procedures and the evacuation of the area. No casualties were…
-14:25
-1405/03/15
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇨🇳🇰🇵 Chinese President Xi Jinping heads to North Korea to strengthen ties.
@@ -1704,20 +1706,6 @@ src :@defence_news
 ‏ثابتی همان کسی است که در طول جنگ خبری از او نیست و نمی‌دانیم همچون رفیقش رسایی در کجا قایم می‌شود که عالی ترین مقامات در دسترس هستند اما این دو نفر خیر.
 ‏
 ‏@weaselnvg
-14:03
-1405/03/15
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 اسرائیل پس از  صدور اخطار تخلیه در منطقه صیدا در صور حملات خود را به این مناطق آغاز کرد 
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
 14:03
 1405/03/15
 
@@ -5229,22 +5217,6 @@ src :@Shin_Persian
 
 
 
-src :@DEJradio
-‏⭕️ جاده‌های شمال در سالمرگ خمینی بازهم به گذرگاه تفریحی تبدیل شد
-‏
-‏خبرگزاری دولت جمهوری اسلامی گزارش داد جاده‌های منتهی به مقاصد گردشگری و تفریحی شمال ایران، روز پنج‌شنبه ۱۴ خردادماه با ترافیک سنگین مواجه است.
-‏رئیس پلیس راه مازندران، با اعلام وقوع ترافیک سنگین در محورهای ورودی استان، گفت احتمال اعمال محدودیت در جاده‌های کندوان و هراز وجود دارد.
-‏تعطیلی رسمی حکومتی برای «سوگواری» مرگ روح‌الله خمینی در چهاردهم خرداد هر سال، با سفرهای تفریحی میلیون‌ها تن از شهروندان همراه می‌شود.
-‏از دهه‌های پیشین بسیاری از مردم، مراسم حکومتی «ارتحال» خمینی را مراسم «عشق‌وحال» نامگذاری کرده‌اند.
-‏
-‏#خبر #دژ #ارتحال_پارتی
-‏@DEJradio
-17:23
-1405/03/14
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏↩️ Quoted tweet: Afshin Ismaeli ✓  @Afshin_Ismaeli Thu, 04 Jun 2026 12:26:22 UTC  New Video appears to show the destruction of a tunnel  in the Borujerd Mountains near Khorramabad, western Iran.  The underground facility was reportedly used to conceal missile…
@@ -5429,12 +5401,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 16:16
-1405/03/14
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇱🇧🇱🇧 — Lebanese President Joseph Aoun:  "We are awaiting responses from all parties involved in the ceasefire. Implementation could begin within 24 hours of approval.  The deal may be the last chance for peace, otherwise each side will bear responsibility…
-16:14
 1405/03/14
