@@ -1,3 +1,65 @@
+src :@rus_cosmos
+‏صدای انفجار و پرواز جنگنده در جزیر خارک شنیده می‌شود.
+‏
+‏ایران می‌گوید خبری نیست.
+01:26
+1405/03/16
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Reports of AA activity in Iran’s Kharg island.  @wfwitness
+01:25
+1405/03/16
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏Fri, 05 Jun 2026 21:55:11 UTC
+‏
+‏State-owned Mehr News denies the explosion sound from Kharg island.
+‏
+‏فارسی
+‏
+‏خبرگزاری دولتی مهر صدای انفجار در جزیره خارگ را تکذیب کرد.
+‏
+‏𝕏  ·  @shin_persian
+01:25
+1405/03/16
+
+
+
+
+src :@Middle_East_Spectator
+‏— There are no explosions heard or anything out of the ordinary in Kharg or elsewhere in southern Iran.
+‏
+‏Some channels like to hype things.
+01:24
+1405/03/16
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷أنباء أولية غير مؤكدة تتحدث عن سماع أصوات مجهولة في جزيرة خرك الإيرانية.
+01:23
+1405/03/16
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷— Iranian air defenses active on Kharg Island.  @GeoPWatch
+01:23
+1405/03/16
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️فارس، خبرگزاری وابسته به سپاه، بامداد شنبه، ۱۶ خردادماه، به نقل از الجزیره گزارش داد: «به ۱۵ نفر از عوامل فنی و اجرایی تیم ملی ایران روادید آمریکا داده نشده است».
@@ -937,18 +999,6 @@ src :@MilitarryWorld
 
 
 
-src :@cataphract1
-[عکس]
-‏⚜️طبق گزارش وال استریت ژورنال، دیشب نیروی دریایی آمریکا در اقیانوس هند تانکر Skywave را که مرتبط با ایران و در لیست تحریم‌ها بود، توقیف کرده است. این کشتی احتمالا بیش از یک میلیون بشکه نفت خام را که در فوریه از جزیره خارک بارگیری شده بود، حمل می‌کرد.
-‏
-‏🖋#Ethan 
-‏📃@Cataphract1
-00:00
-1405/03/16
-
-
-
-
 src :@naya_foriraq
 [ویدئو]
 ‏🌟🇨🇳ناقلة نفط صينية عملاقة انتهت من تحميل 2 مليون برميل من موانئ البصرة جنوبي العراق.
@@ -1537,14 +1587,6 @@ src :@IranintlTV
 ‏🔹این در حالی است که تنها ۱۰ روز تا نخستین بازی ایران در جام جهانی ۲۰۲۶ باقی‌مانده است. این بازی در لس‌آنجلس و در برابر نیوزیلند برگزار خواهد شد.
 ‏
 ‏@iranintltvsport
-23:14
-1405/03/15
-
-
-
-
-src :@naya_foriraq
-‏🌟سماع دوي انفجار مجهول في محافظة السليمانية شمالي العراق.
 23:14
 1405/03/15
 
@@ -2239,16 +2281,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی حرف آخر با پوریا زراعتی - تماس پشت‌پرده‌ی قالیباف با آمریکا
-‏@iranintlTV
-22:15
-1405/03/15
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏سامانه لیزری «آلکا» ساخت شرکت «روکتسان» به‌عنوان لایه لیزری شبکه پدافند هوایی چندلایه «گنبد فولادی» ترکیه معرفی شد. این سامانه برای مقابله با پهپادها و ریزپرنده‌هایی طراحی شده که از سایر لایه‌های پدافندی عبور می‌کنند. آلکا از سال ۲۰۱۸ توسعه یافته و توان لیزر آن از ۲.۵ کیلووات به بیش از ۱۰ کیلووات افزایش یافته است. این سامانه علاوه بر اخلال الکترونیکی (Soft Kill)، توان انهدام فیزیکی اهداف (Hard Kill) را نیز دارد. روکتسان اعلام کرده است که آلکا به رادارهای ارتقایافته و سامانه‌های مبتنی بر هوش مصنوعی مجهز شده تا زمان کشف، شناسایی و درگیری با اهداف را کاهش دهد. این سامانه برای حفاظت از زیرساخت‌های حیاتی، پایگاه‌های نظامی و یگان‌های متحرک در برابر حملات انبوه پهپادی به کار گرفته خواهد شد. ترکیه در حال توسعه بیشتر این سامانه و افزایش توان لیزر آن است تا آلکا به یکی از اجزای اصلی شبکه پدافند هوایی «گنبد فولادی» تبدیل شود. #ترکیه #پدافند_هوایی #آلکا #روکتسان #پهپاد #گنبد_فولادی #جنگاوران https://t.me/jangaavaran1390
@@ -2593,16 +2625,6 @@ src :@wfwitness
 ‏⚡️🇺🇸🇱🇧🇱🇧 U.S. Sources to MTV: 
 ‏
 ‏No Israeli Withdrawal from Southern Lebanon Before Hezbollah Is Dismantled and the Lebanese Army Deploys; No Long-Term Stability Without a Reduction in the Group’s Military Role — This Is the Broad Consensus in Washington.
-‏
-‏@wfwitness
-21:34
-1405/03/15
-
-
-
-
-src :@wfwitness
-‏⚡️🇵🇰🇱🇧 Al Nahar Sources: Lebanese Army Commander General Rodolphe Haikal is expected to travel to Islamabad Tomorrow at the Invitation of Pakistani Army Chief General Asim Munir.
 ‏
 ‏@wfwitness
 21:34
@@ -4037,6 +4059,14 @@ src :@VahidOnline
 ‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
+18:45
+1405/03/15
+
+
+
+
+src :@cataphract1
+‏💢1/‌3  💢بررسی اسناد جدید افشا شده همکاری تسلیحاتی ایران و روسیه؛  ▪️آنچه خریداری شده و آنچه غایب است  ⚜اسناد منتشرشده اخیر درباره قراردادهای نظامی میان ایران و روسیه، تصویری کم‌سابقه از جزئیات همکاری دو کشور در حوزه جنگنده‌های سوخو-۳۵ و تسلیحات مرتبط با آن…
 18:45
 1405/03/15
 
