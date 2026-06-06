@@ -24,9 +24,7 @@ src :@World_Newsly
 src :@RASTAKHIZ_PERSIAN
 [فایل]
 ‏🔶 داریوش رفیعی، یکی از آینده‌ دارترین خوانندگان ایرانی، در سال ۱۳۳۷ در حالی که تنها ۳۱ سال داشت، بر اثر بیماری کزاز ناشی از تزریق مواد مخدر جان خود را از دست داد.
-‏رفیعی پس از مهاجرت از بم به پایتخت، با اجرا در رادیو و سالن‌ های اصلی شهر به‌ سرعت به چهره‌ ای محبوب و شناخته‌ شده تبدیل شد. او چهره ای جذاب، شخصیتی خوش‌پوش و خوش‌مشرب داشت و به‌شدت مورد توجه اطرافیان، به‌ویژه زنان، قرار می‌گرفت و گفته شده که در دوره‌ای از زندگی‌ اش روابط عاطفی متعددی را تجربه کرده بود. با این حال، در مسیر شهرت و زندگی هنری، به‌ تدریج درگیر اعتیاد شد؛ مسئله‌ ای که در نهایت به مرگ زود هنگام او در اوج جوانی انجامید.
-‏
-‏🔹پ.ن: از زنان و اعتیاد دوری کنید تا عمری دراز و زندگی سالمی داشته باشید.
+‏رفیعی پس از مهاجرت از بم به پایتخت، با اجرا در رادیو و سالن‌ های اصلی شهر به‌ سرعت به چهره‌ ای محبوب و شناخته‌ شده تبدیل شد. او چهره ای جذاب، شخصیتی خوش‌پوش و خوش‌مشرب داشت و به‌شدت مورد توجه اطرافیان، به‌ویژه زنان، قرار می‌گرفت و گفته شده که در دوره‌ای از زندگی‌ اش روابط عاطفی متعددی را تجربه کرده بود. با این حال، در مسیر شهرت و زندگی هنری، به‌ تدریج درگیر اعتیاد شد؛ مسئله‌ ای که در نهایت به مرگ زود هنگام او در اوج جوانی انجامید. به هر حال توصیه می شود از زنان و اعتیاد دوری کنید تا عمری دراز و زندگی سالمی داشته باشید.
 ‏
 ‏#موزیک
 ‏
@@ -1834,17 +1832,6 @@ src :@Indypersian
 
 
 
-src :@selena_updates
-[عکس]
-‏The International Atomic Energy Agency (IAEA) reported a serious incident near the Zaporizhzhia Nuclear Power Plant during a de-mining operation conducted under a localized ceasefire intended to facilitate repairs to critical power infrastructure. 
-‏
-‏According to Russian officials, several military personnel and engineers were injured when a drone strike hit a team clearing mines near the facility. The IAEA said the incident occurred despite the agreed pause in hostilities and renewed its call for all sides to exercise maximum restraint around the nuclear plant, which remains one of the most sensitive sites in the conflict.
-22:10
-1405/03/16
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏یک نظامی دیگر اسراییلی در درگیری ها با حزب الله لبنان کشته شد.
@@ -1989,20 +1976,6 @@ src :@mwarmonitor
 ‏پس اگر ایرانی‌ها همچنان به این ایده پایبند باشند که آتش‌بس در آنجا بخشی از این توافق است، من هیچ راهی نمی‌بینم که توافقی بین ایالات متحده و ایران شکل بگیرد که بتواند بحران امروز در تنگه [هرمز] را حل کند.»
 ‏
 ‏@mwarmonitor
-22:01
-1405/03/16
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏خبرگزاری فارس وابسته به سپاه پاسداران، از شنیده‌شدن صدای انفجار شدید در حوالی جزیره خارک خبر داد.
-‏
-‏این خبرگزاری نوشت: «دقایقی پیش ساکنان جزیره خارک متوجه صدای یک انفجار نسبتا شدید شدند. هنوز محل دقیق و منشا این انفجار مشخص نیست اما بررسی‌ها نشان می‌دهد این انفجار خارج از جزیره رخ داده است.»
-‏
-‏دقایقی قبل از آن، خبرگزاری مهر از شنیده شدن صدای انفجار در جزیره خارک خبر داد و نوشت که این صداها مربوط به خنثی‌سازی مهمات در منطقه نفتی بهرگان است که در جزیره شنیده شده است.
-‏https://iranintl.com/202606063830
 22:01
 1405/03/16
 
@@ -2514,17 +2487,6 @@ src :@RASTAKHIZ_PERSIAN
 src :@RASTAKHIZ_PERSIAN
 ‏https://t.me/SNTankograd/52725
 21:26
-1405/03/16
-
-
-
-
-src :@selena_updates
-[عکس]
-‏More than 10,000 Syrians have returned from Germany to Syria since the fall of the Assad government on December 8, 2024. 
-‏
-‏At the same time, Syrians remained the largest group receiving German citizenship in 2025, accounting for roughly one-fifth of the 332,500 foreign nationals naturalized during the year.
-21:25
 1405/03/16
 
 
