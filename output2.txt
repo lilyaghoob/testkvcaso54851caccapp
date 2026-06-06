@@ -6275,18 +6275,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏ده‌ها کارگر شرکت فولاد پارس سیستان پس از اخراج گسترده در ماه‌های اخیر، با عدم پرداخت حقوق معوق، سنوات و مطالبات پایان کار و همچنین بلاتکلیفی در روند دریافت بیمه بیکاری مواجه شده‌اند.
-‏بیشتر: https://iranwire.com/fa/news-1/153290
-‏
-‏@Farsi_Iranwire
-13:53
-1405/03/15
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏🇷🇴 🇺🇦 — Images of the naval USV drone that exploded at Romania's Constanța Port.
