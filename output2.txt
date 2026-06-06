@@ -1,3 +1,13 @@
+src :@GeoPWatch
+‏🇺🇸🇮🇶- Fighter jet activity has been reported over Mosul and Erbil, northern Iraq.
+‏
+‏@GeoPWatch
+01:57
+1405/03/17
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 تصاویر ماهواره‌ای جدید نشان می‌دهد که انبار متعلق به شرکت فناوری انرژی آمریکایی بیکر هیوز در اربیل کردستان عراق، کاملاً تخریب شده است
@@ -1667,18 +1677,6 @@ src :@ClashReport
 
 
 
-src :@World_Newsly
-‏🔴 نیکزاد نایب رییس مجلس: تنگه هرمز طبق قانون مجلس به حالت قبل برنخواهد گشت/ تنگه هرمز برای ما از بمب اتم مهم‌تر است
-‏
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-22:36
-1405/03/16
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️رئیس سازمان انرژی اتمی:‌ نیروگاه اتمی بوشهر برای سومین سال پیاپی در حوزه بهره‌وری و ایمنی در جمع ۱۰ نیروگاه برتر جهان جای گرفته است
 ‏
@@ -2615,17 +2613,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 21:17
-1405/03/16
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷🇵🇰🇺🇸- Pakistani Interior Minister Mohsin Naqvi has arrived in Iran amid ongoing negotiations between the United States and Tehran and is currently meeting with Iranian Interior Minister Eskandar Momeni.
-‏
-‏@GeoPWatch
-21:16
 1405/03/16
 
 
