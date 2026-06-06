@@ -4977,6 +4977,7 @@ src :@ircfspace
 ‏نسخه آیفون از فیلترشکن #شیروخورشید با نام AzadiTunnel در اپ‌استور منتشر شد.
 ‏
 ‏👉 apps.apple.com/ca/app/azaditunnel/id6776486891
+‏💡 github.com/polamgh/AzadiTunnel/releases
 ‏
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
