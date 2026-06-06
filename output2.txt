@@ -1,3 +1,78 @@
+src :@tabzlive
+‏🇮🇱❌🇱🇧🇵🇸 — Violent IDF actions over the last 24 hours:
+‏— A 7-month-old Palestinian infant was killed after IDF troops opened fire on a family vehicle near Hebron. The child's mother was wounded, and the father was also injured.
+‏
+‏— An Israeli airstrike in southern Lebanon killed a senior officer of the Lebanese Armed Forces and two other Lebanese soldiers. 
+‏
+‏— Israeli settlers, accompanied by at least one IDF soldier, carried out an attack on the Palestinian village of Huwara, occupied West Bank, injuring nine Palestinians.
+‏
+‏— An Israeli drone strike targeted a Palestinian wedding in Gaza City, killing 5 people, including women and children, and injuring close to 15.
+18:30
+1405/03/16
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏نبرد ناو هسته ای کلاس ترامپ!
+‏
+‏شناور آینده نیروی دریایی ایالات متحده با پیشرانه هسته‌ای مجهز خواهد شد که بر اساس پیشرانه ناو هواپیمابر USS Gerald R. Ford ساخته شده است. 
+‏
+‏دریاسالار کادل مشخص کرد که BBG[X] برخی ویژگی‌ها را با ناوهای هواپیمابر کلاس فورد به اشتراک خواهد گذاشت، به ویژه راکتور هسته‌ای A1B
+‏
+‏نبرد ناو آینده BBG(X) ترامپ با نیروی هسته‌ای کار خواهد کرد. نه با توربین گازی (تصویر از برنامه ساخت کشتی نیروی دریایی ۲۰۲۶) 
+‏پ ن : شاهد یک نبرد ناو هسته ای با بالستیک های هسته ای هستیم و همچنین دارای کروز های با توان کلاهک هسته ای 
+‏
+‏@artemis_force
+18:28
+1405/03/16
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏در پایگاه هوایی چری-پوینت در تاریخ ۳ ژوئن ۲۰۲۶ مراسم پایان خدمت تقریباً ۴۰ سال استفاده از هواپیماهای AV-8B Harrier II در چارچوب بال هوایی دوم تفنگداران دریایی نیروی دریایی ایالات متحده برگزار شد.
+‏
+‏در آینده، این واحد به طور کامل به جنگنده‌های F-35B/C مجهز خواهد شد.
+‏
+‏@artemis_force
+18:28
+1405/03/16
+
+
+
+
+src :@Middle_East_Spectator
+‏Germany will beat Portugal in the World Cup Final 2026.
+18:28
+1405/03/16
+
+
+
+
+src :@naya_foriraq
+‏🌟🏴‍☠️إستهداف دبابة ميركافا تابعة لجيش الإحتلال الإسرائيلي في بلدة زوطر بجنوب لبنان بواسطة محلقة إنقضاضية.
+18:28
+1405/03/16
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🌲 - 🇱🇧 Prime Minister Nawaf Salam stated from Qlayaat Airport that Lebanon is facing a political decision to ensure Akkar is no longer outside national priorities, adding that the suffering of the South is shared by all Lebanese citizens.
+‏
+‏🌲 - 🇱🇧 Salam said that launching rehabilitation works at Qlayaat Airport is part of balanced development efforts, stressing that the airport is not a replacement for Beirut’s Rafic Hariri International Airport, but rather a complementary facility supporting national infrastructure.
+‏
+‏🌲 - 🇱🇧 He added that full implementation of the Taif Agreement requires the state to extend its authority over all Lebanese territory, restrict decisions of war and peace to the state, ensure Israeli withdrawal, and advance reconstruction and southern recovery.
+18:27
+1405/03/16
+
+
+
+
 src :@rus_cosmos
 [عکس]
 ‏انتشار ویدئوهای حمله سنتکام به سایت‌های رادار ساحلی ایران  سنتکام کلیپ حمله به سایت‌های رادار ساحلی ایران در سیریک و جزیره قشم را منتشر کرد
@@ -60,7 +135,7 @@ src :@IranintlTV
 
 src :@P_raetorio
 [عکس]
-‏استفاده از دکل برای استقرار رادارهای مراقبتی یک رویه کاملاً استاندارد، رایج و قدیمی در طراحی سامانه‌های راداری است. با افزایش ارتفاع آنتن، محدودیت Line of Sight (LOS) بهبود یافته و برد کشف اهداف در ارتفاع پست افزایش می‌یابد؛ همچنین نصب رادار بر روی دکل باعث کاهش ground clutter و بهبود نسبت سیگنال به نویز (SNR) می‌شود.
+‏استفاده از دکل برای استقرار رادارهای مراقبتی یک رویه کاملاً استاندارد، رایج و قدیمی در طراحی سامانه‌های راداری است. با افزایش ارتفاع آنتن، محدودیت خط دید Line of Sight (LOS) بهبود یافته و برد کشف اهداف در ارتفاع پست افزایش می‌یابد؛ همچنین نصب رادار بر روی دکل باعث کاهش ground clutter و بهبود نسبت سیگنال به نویز (SNR) می‌شود.
 ‏
 ‏بخش 2/2
 ‏
@@ -76,9 +151,9 @@ src :@P_raetorio
 
 src :@P_raetorio
 [عکس]
-‏بیانیه منتشر شده توسط وزارت امور خارجه جمهوری اسلامی ایران در باره حمله هوایی دیشب آمریکا به اهدافی در جنوب ایران من جمله جزیر قشم، سیریک و گورک را مشاهد میکنید، که نکته مهمی در این بیانیه به چشم میخورد و آن اذهان وزارت امور خارجه در مورد اهدافی که آمریکا قرار داده است.
+‏بیانیه منتشر شده توسط وزارت امور خارجه جمهوری اسلامی ایران در باره حمله هوایی دیشب آمریکا به اهدافی در جنوب ایران من جمله جزیره قشم، سیریک و گورک را مشاهد میکنید، که نکته مهمی در این بیانیه به چشم میخورد و آن اذعان وزارت امور خارجه در مورد اهدافی که آمریکا قرار داده است.
 ‏
-‏وزارت امور خارجه جمهوری اسلامی ایران، اشاره کرده که آمریکا تأسیسات راداری را در جنوب ایران هدف قرار داده و هیچگونه اشاره ای به تاسیسات و دکل های مخابراتی نکرده است، به این معنا ها دکل های هدف قرار گرفته در واقع رادار های مراقبتی ساحلی بوده اند. سنتکام نیز چنین در بیانیه دیشب خود ادعا کرده بود که تاسیسات راداری را در جنوب ایران هدف قرار داده که اعلام وزارت امور خارجه جمهوری اسلامی ایران ادعا سنتکام را تایید میکند
+‏وزارت امور خارجه جمهوری اسلامی ایران، اشاره کرده که آمریکا تأسیسات راداری را در جنوب ایران هدف قرار داده و هیچگونه اشاره ای به تاسیسات و دکل های مخابراتی نکرده است، به این معنا که دکل های هدف قرار گرفته در واقع رادار های مراقبتی ساحلی بوده اند. سنتکام نیز چنین در بیانیه دیشب خود ادعا کرده بود که تاسیسات راداری را در جنوب ایران هدف قرار داده که اعلام وزارت امور خارجه جمهوری اسلامی ایران ادعا سنتکام را مبتنی بر هدف قرار دادن تاسیسات راداری در جنوب ایرات تایید میکند.
 ‏ ادامه مطلب را دنبال کنید.
 ‏
 ‏بخش 1/2
@@ -3065,15 +3140,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-[عکس]
-‏«أَمَّا بَعْدُ، فَإِنَّ الْجِهَادَ بَابٌ مِنْ أَبْوَابِ الْجَنَّةِ، فَتَحَهُ اللَّهُ لِخَاصَّةِ أَوْلِيَائِهِ، وَهُوَ لِبَاسُ التَّقْوَى، وَدِرْعُ اللَّهِ الْحَصِينَةُ، وَجُنَّتُهُ الْوَثِيقَةُ. فَمَنْ تَرَكَهُ رَغْبَةً عَنْهُ، أَلْبَسَهُ اللَّهُ ثَوْبَ الذُّلِّ، وَشَمَلَهُ الْبَلَاءُ، وَدُيِّثَ بِالصَّغَارِ وَالْقَمَاءَةِ، وَضُرِبَ عَلَى قَلْبِهِ بِالْأَسْدَادِ، وَأُدِيلَ الْحَقُّ مِنْهُ بِتَضِيعِ الْجِهَادِ، وَسِيمَ الْخَسْفَ، وَمُنِعَ النَّصَفَ»من خطب امير المومنين ع
-12:13
-1405/03/16
-
-
-
-
 src :@rnintel
 ‏🇷🇼🇨🇩🇧🇮⚡- Large convoys of military trucks have begun crossing from Burundi into South Kivu in eastern Democratic Republic of Congo, while additional government columns from western DRC are moving towards the Bukavu direction, M23-controlled South Kivu region.…
 12:11
@@ -3105,16 +3171,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/03/16/403088/
 12:10
-1405/03/16
-
-
-
-
-src :@naya_foriraq
-‏#ترفيهي
-‏
-‏‏الرئيس اللبناني جوزيف عون يهدد اسرائيل: لن نتهاون بحماية أرضنا وشعبنا
-12:06
 1405/03/16
 
 
@@ -3857,6 +3913,8 @@ src :@Artemis_Force
 ‏در پایگاه هوایی چری-پوینت در تاریخ ۳ ژوئن ۲۰۲۶ مراسم پایان خدمت تقریباً ۴۰ سال استفاده از هواپیماهای AV-8B Harrier II در چارچوب بال هوایی دوم تفنگداران دریایی نیروی دریایی ایالات متحده برگزار شد.
 ‏
 ‏در آینده، این واحد به طور کامل به جنگنده‌های F-35B/C مجهز خواهد شد.
+‏
+‏@artemis_force
 09:31
 1405/03/16
 
@@ -5100,16 +5158,6 @@ src :@Artemis_Force
 
 
 
-src :@BellumActaNews
-‏🇮🇷🪖❗️ — Iranian Anti-Air Artillery activity over Kharg's Island in the Persian Gulf
-‏
-‏@BellumActaNews
-00:59
-1405/03/16
-
-
-
-
 src :@DEJradio
 ‏⭕️ آمریکا به همراهان تیم ملی ویزا نداد؛ بی اثر ماندن تهدیدات تاج 
 ‏
@@ -5725,17 +5773,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 18:32
-1405/03/15
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏Lebanon's Prime Minister, Nawaf Salam, in a statement against Iran:
-‏
-‏This war is not our war, and it is not being fought for our sake. The South is not a backup front for anyone. Iran must have mercy on our South and stop treating it and its people as a bargaining chip to improve its negotiation terms.
-‏
-‏We chose the path of negotiation because it is the shortest way to ensure Israel's withdrawal. We succeeded in reaching a ceasefire agreement, but we were surprised that the Revolutionary Guard was the first to reject it. Insisting on rejecting the ceasefire practically means the continuation of the war on Lebanon.
-18:26
 1405/03/15
