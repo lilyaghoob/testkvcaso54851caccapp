@@ -1,3 +1,66 @@
+src :@tglobaleye
+[عکس]
+‏The International Atomic Energy Agency (IAEA) reported a serious incident near the Zaporizhzhia Nuclear Power Plant during a de-mining operation conducted under a localized ceasefire intended to facilitate repairs to critical power infrastructure. 
+‏
+‏According to Russian officials, several military personnel and engineers were injured when a drone strike hit a team clearing mines near the facility. The IAEA said the incident occurred despite the agreed pause in hostilities and renewed its call for all sides to exercise maximum restraint around the nuclear plant, which remains one of the most sensitive sites in the conflict.
+23:11
+1405/03/16
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🌟ترمب
+‏اكتمل العمل بالكامل! قام الوطنيون الأمريكيون العظماء، ومعظمهم من ولاية أوكلاهوما العظيمة، بالإضافة إلى دوغ بورغوم، وزير الداخلية، بتفقد السطح الأزرق الداكن المعقد للغاية، ولكنه قوي، لبركة الانعكاس، قبل غمرها في مياه نظيفة وجميلة. تم افتتاحها في الأصل عام 1922، لكنها لم تعمل بشكل صحيح أبدًا - والآن تعمل! شكرًا لك أيها الرئيس ترامب، شكرًا لوزارة الداخلية - والأفضل لم يأتِ بعد مع ممشى ترامب في نصب لنكولن التذكاري، وقوس النصر، الذي سيكون، إلى جانب قاعة رقص البيت الأبيض، عند اكتماله، أعظم مبنى في واشنطن. الرئيس دونالد جيه. ترامب
+23:10
+1405/03/16
+
+
+
+
+src :@MilitarryWorld
+‏⭕️سفر نخست‌وزیر عراق به آمریکا
+‏
+‏ «علی فالح الزیدی»، نخست‌وزیر عراق، از برنامه‌ریزی برای انجام یک سفر رسمی به ایالات متحده آمریکا در آینده نزدیک خبر داد.
+‏
+‏نخست‌وزیر عراق اعلام کرد که در این سفر، هیئتی از تجار و بازرگانان عراقی وی را همراهی خواهند کرد.
+‏
+‏@MilitarryWorld | Parsa
+23:10
+1405/03/16
+
+
+
+
+src :@Farsi_Iranwire
+[فایل]
+‏📻 نسخه کامل برنامه شبانگاهی رادیو ایران‌وایر - شنبه ۱۶ خرداد
+‏
+‏در دو نوبت به وقت ایران، ساعت ۱۴ تا ۱۵ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز
+‏و ساعت ۲۳ تا ۲۴ روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم.
+‏
+‏
+‏@Farsi_Iranwire
+23:08
+1405/03/16
+
+
+
+
+src :@World_Newsly
+‏🔴ارتش اسرائیل حملاتی به خان یونس، جنوب نوار غزه انجام داد
+‏
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+23:07
+1405/03/16
+
+
+
+
 src :@mwarmonitor
 ‏🔴وزیر امور خارجه عراق، فؤاد حسین: ما برای مقابله با بحران مالی به چاپ ۲۵ تریلیون دینار روی آورده‌ایم و اگر جنگ ادامه پیدا کند، کشور ممکن است با یک فاجعه مالی روبه‌رو شود.
 ‏
@@ -28,14 +91,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:06
-1405/03/16
-
-
-
-
-src :@naya_foriraq
-‏وزير الخارجية العراقي فؤاد حسين: لجأنا إلى طباعة 25 تريليون دينار لمواجهة الأزمة المالية، والبلاد قد تواجه كارثة مالية إذا استمرت الحرب.
-23:05
 1405/03/16
 
 
@@ -2879,18 +2934,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 اسرائیل همچنان درحال بمباران مناطق مختلف جنوب لبنان است
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-19:11
-1405/03/16
-
-
-
-
 src :@DEJradio
 ‏⭕️ مدیرعامل روس‌نفت برندگان انسداد هرمز را شرکت‌های آمریکایی عنوان کرد
 ‏
@@ -3191,14 +3234,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@naya_foriraq
-‏🌟🏴‍☠️إستهداف دبابة ميركافا تابعة لجيش الإحتلال الإسرائيلي في بلدة زوطر بجنوب لبنان بواسطة محلقة إنقضاضية.
-18:28
-1405/03/16
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🌲 - 🇱🇧 Prime Minister Nawaf Salam stated from Qlayaat Airport that Lebanon is facing a political decision to ensure Akkar is no longer outside national priorities, adding that the suffering of the South is shared by all Lebanese citizens.
@@ -3313,16 +3348,6 @@ src :@Indypersian
 ‏با این حال، وزارت خارجه جمهوری اسلامی، حملات خود را صرفا در چارچوب «حق ذاتی دفاع مشروع» توصیف کرد؛ یعنی همان واژه‌ای که دولت ترامپ نیز برای توجیه حملات خود در زمان برقراری آتش‌بس استفاده می‌کند. تهران تاکید کرد که نیروهای مسلح ایران با پاسخی متناسب و مقتدرانه، مانع از تحقق اهداف مغرضانه عاملان این حمله شده‌اند.
 ‏@indypersian
 18:11
-1405/03/16
-
-
-
-
-src :@MilitarryWorld
-‏⭕️ خبرنگار الجزیره در تهران: هرگونه نقص یا اختلال در مذاکرات می‌تواند این درگیری‌ها را به جنگی تمام‌عیار بین تهران و ایالات متحده تبدیل کند
-‏
-‏@MilitarryWorld | Parsa
-18:09
 1405/03/16
 
 
@@ -5895,17 +5920,4 @@ src :@rus_cosmos
 src :@rus_cosmos
 ‏انفجار در سفارت ایران در اربیل
 23:32
-1405/03/15
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇮🇷 🇺🇸 — Iran's World Cup players granted U.S. visas ahead of 2026 tournament
-‏
-‏According to a White House official cited by Reuters, Iran's national football team players have received U.S. visas, just days before their opening match. The squad, which relocated its training base to Tijuana, Mexico, is set to face New Zealand in Los Angeles on June 15, followed by matches against Belgium and Egypt.
-‏
-‏The Global Eye | Subscribe
-23:11
 1405/03/15
