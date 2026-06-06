@@ -1,4 +1,25 @@
 src :@World_Newsly
+‏🔴حملات آمریکا به سایتهای جمهوری اسلامی  ✍🏻 Nadershah ▪️@World_Newsly
+03:30
+1405/03/16
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — A WIRED analysis found that Meta has quietly embedded face-recognition infrastructure into its Meta AI app, which is used with Ray-Ban and Oakley smart glasses, despite the feature not yet being publicly enabled.
+‏
+‏If activated, the glasses could potentially analyze the faces of people nearby without their participation.
+‏
+‏The system, internally referred to as “NameTag” and later “Connections,” would convert faces captured by the glasses into biometric identifiers, compare them against a database stored on the user’s device, and notify wearers when someone is recognized.
+03:28
+1405/03/16
+
+
+
+
+src :@World_Newsly
 ‏🔴پرواز جنگنده های آمریکایی در نزدیکی ایران و بصره عراق 
 ‏
 ‏
@@ -1375,15 +1396,6 @@ src :@Artemis_Force
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇮🇷أنباء أولية غير مؤكدة تتحدث عن سماع أصوات مجهولة في جزيرة خرك الإيرانية.
-01:04
-1405/03/16
-
-
-
-
 src :@rnintel
 ‏🇮🇷⚡- Reports of explosions / air defense activity on Kharg Island, home to Iran's main oil port terminal.
 01:04
@@ -1678,22 +1690,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:47
-1405/03/16
-
-
-
-
-src :@naya_foriraq
-‏🌟‏وزيرة الطاقة الأمريكية رايت: إن تأمين تدفق كافٍ من النفط عبر مضيق هرمز لخفض أسعار البنزين والديزل يتطلب حلاً مع إيران.
-00:47
-1405/03/16
-
-
-
-
-src :@World_Newsly
-‏🔴برخی رسانه‌ ها از وقوع یک حادثه امنیتی مهم در بحرین خبر میدهند  ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
-00:46
 1405/03/16
 
 
@@ -2289,21 +2285,6 @@ src :@jangaavaran1390
 ‏بر اساس تصاویر منتشرشده از آزمایش میدانی، یک پهپاد FPV که از پهلو به سمت خودرو حمله می‌کرد، توسط سامانه شناسایی و با شلیک توری رهگیری شد و پیش از برخورد به زمین سقوط کرد.
 ‏
 ‏طراحی ماژولار و ابعاد کوچک این سامانه امکان نصب آن روی خودروهای مختلف و حتی بر روی زره‌های قفسی موجود را فراهم می‌کند. به گفته کارشناسان، ترکیب این سامانه با جنگ الکترونیک و زره قفسی می‌تواند بقاپذیری خودروهای زرهی در برابر تهدید پهپادهای انتحاری را به‌طور قابل توجهی افزایش دهد.
-23:48
-1405/03/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Anthropic is working with the National Security Agency to deploy its restricted Mythos AI model for cyberattacks, with about six company engineers embedded inside the agency to customize the system for specific missions, FT reports.
-‏
-‏➡️ Mythos is considered powerful enough to autonomously identify and exploit software vulnerabilities and could be used in operations targeting foreign networks, including those linked to China and Iran.
-‏
-‏➡️ The cooperation comes despite Anthropic's ongoing legal dispute with the Pentagon over restrictions on military use of its AI systems. Anthropic previously sought to limit government use of its models for mass surveillance and autonomous weapons, prompting the Pentagon to designate the company a supply-chain risk.
-‏
-‏➡️ Mythos was not broadly released because of concerns over its offensive cyber capabilities, although Anthropic has since expanded access to selected organizations internationally.
 23:48
 1405/03/15
 
