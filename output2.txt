@@ -1,3 +1,21 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli drone strike targets a vehicle in town of Janata, southern Lebanon.  @wfwitness
+15:56
+1405/03/16
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli warplanes have been carrying out airstrikes across southern Lebanon in the past few hours.
+15:56
+1405/03/16
+
+
+
+
 src :@World_Newsly
 ‏🔴الجزیره به نقل از یک منبع پاکستانی:
 ‏
@@ -187,9 +205,9 @@ src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 استفاده از استتار راه راه (گورخری) توسط نیروهای روس 
 ‏
-‏🔹 طرف روسی معتقد است این نوع استتار میتواند سیستم های هدایت تصویری مبتنی بر هوش مصنوعی را که مورد استفاده FPV های طرف اوکراینی هستند را فریب دهد
+‏🔹 طرف روسی معتقد است این نوع استتار میتواند سیستم های هدایت تصویری مبتنی بر هوش مصنوعی که مورد استفاده FPV های طرف اوکراینی هستند را فریب دهد
 ‏
-‏🔹 از نتایج استفاده از این نوع استتار خبری در دست نیست و تا کنون نیز هیچ فکت عملی در مورد تاثیر این نوع استتارها منتشر نشده!
+‏🔹 از نتایج استفاده از این نوع استتار خبری در دست نیست و تا کنون نیز هیچ فکت عملی در مورد تاثیرگذاری این نوع استتارها منتشر نشده!
 ‏
 ‏#روسیه
 ‏
@@ -2955,26 +2973,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — A raid targeted the Khurdali road, with preliminary information indicating a Lebanese army brigadier was among those targeted.
-10:51
-1405/03/16
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱⚡️ — A new poll shows Benny Gantz's National Unity party continuing to gain strength while the political blocs remain deadlocked, leaving Israel's electoral landscape deeply divided, according to Haaretz.
-‏
-‏➡️ The survey indicates that neither the pro-Netanyahu bloc nor the opposition has a clear path to forming a majority coalition, with the political stalemate persisting as the war in Lebanon grinds on and public frustration with the government grows. Gantz's party has risen in recent weeks, drawing support away from other centrist and right-wing factions.
-10:47
-1405/03/16
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️پولیتیکو: آمریکا به دلیل کاهش ذخایر موشکی در جنگ با ایران، توافق تاماهاوک با آلمان را لغو می‌کند
 ‏
@@ -2989,15 +2987,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇮🇷🇰🇼🇧🇭 U.S. Central Command announced that U.S. forces have intercepted multiple Iranian ballistic missiles and drones launched towards the Strait of Hormuz and Gulf neighbours on 5 June.   Iran fired seven ballistic missiles toward Kuwait and Bahrain…
 10:37
-1405/03/16
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — A raid targeted the Khurdali road, with preliminary information indicating a Lebanese army brigadier was among those targeted.
-10:36
 1405/03/16
 
 
@@ -3110,15 +3099,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 10:20
-1405/03/16
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli warplanes targeted Mifdun-Zouat, southern Lebanon.
-10:16
 1405/03/16
 
 
@@ -3261,16 +3241,6 @@ src :@Parvazdaroj
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Al Arabiya: A Lebanese Army colonel and his driver have been killed in a strike on the Khardali road in southern Lebanon.
-‏
-‏@wfwitness.
-10:00
-1405/03/16
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ سنتکام دیشب:
@@ -3308,17 +3278,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:56
-1405/03/16
-
-
-
-
-src :@ClashReport
-[ویدئو]
-‏The US says it shot down four Iranian drones near the Strait of Hormuz and then struck Iranian radar sites on Qeshm Island and in Goruk. 
-‏
-‏Iran responded by firing seven ballistic missiles at US facilities in Kuwait and Bahrain; the US says six were intercepted and one missed its target.
-09:52
 1405/03/16
 
 
