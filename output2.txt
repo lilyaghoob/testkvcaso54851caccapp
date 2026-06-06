@@ -1,3 +1,25 @@
+src :@rnintel
+[عکس]
+‏🇮🇷⚡️ — Sentinel-2 satellite imagery shows around 80 IRGC Navy speedboats were patrolling the Strait of Hormuz earlier today.
+‏
+‏Source: MoloMonitor
+00:04
+1405/03/17
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷⚡️ — Sentinel-2 satellite imagery shows around 80 IRGC Navy speedboats were patrolling the Strait of Hormuz earlier today.
+‏
+‏Source: MoloMonitor
+00:03
+1405/03/17
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏🔴حدود ۸۰ قایق تندرو نیروی دریایی سپاه پاسداران انقلاب اسلامی بر اساس تصاویر ماهواره‌ای Sentinel-2 در حال گشت‌زنی در تنگه هرمز مشاهده شده‌اند (06/06/2026).
@@ -72,14 +94,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 23:57
-1405/03/16
-
-
-
-
-src :@cataphract1
-‏کاتافراکت pinned a photo
-23:56
 1405/03/16
 
 
@@ -1871,17 +1885,6 @@ src :@didarnews1
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Iran's Fars News Agency:
-‏A few minutes ago, residents of Kharg Island noticed the sound of a relatively strong explosion.
-‏
-‏The exact location and source of this explosion are not yet clear.
-21:40
-1405/03/16
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷- According to Fars News, residents near Kharg Island reported hearing a relatively strong explosion a short while ago. The exact location and source remain unknown, though investigations by a Fars reporter indicate the explosion may have occurred outside the island.
 ‏
@@ -1900,15 +1903,6 @@ src :@mohem_mat
 ‏ بحمدالله با تلاش کادر درمان، این اتفاق رخ نداد و آیت‌الله مجتبی خامنه‌ای هم‌اکنون در سلامت به سر می‌برند.
 ‏
 ‏@mohem_mat
-21:35
-1405/03/16
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇵🇰🇮🇷⚡️ — Pakistan’s Interior Minister Mohsin Naqvi is travelling to Tehran today.  ➡️ Saudi outlet Al Arabiya reports that Naqvi will be carrying a special message from Army Chief Asim Munir to Iran’s Supreme Leader and special instructions from PM Shahbaz…
 21:35
 1405/03/16
 
@@ -4992,6 +4986,23 @@ src :@rnintel
 
 
 
+src :@cataphract1
+[عکس]
+‏⚜ تشریح گام به گام عملیات مین‌روبی(MCM) با MH-53E Sea Dragon در گفتگوی اخیر با خلبان بازنشسته این بالگرد در (اینجا)
+‏
+‏1. استقرار : با رسیدن به نقطه آغاز تنها در روز و در شرایط جوی مناسب و طبق نقشه ی مسیر جستجو با دقت تا ۷ متر برای جلوگیری از تکرار عبور از روی یک مسیر، عملیات یدک‌کشی سورتمه(sled) با کابل و در سرعت ۲۰+ الی ۴۵+ کیلومتر بر ساعت و در ارتفاع ۷.۵ تا ۲۳ متری سطح آب آغاز می‌شود.
+‏2. شکار (Hunting): سونار AN/AQS-14 یدک شونده در مسیرهای موازی و از پیش تعیین شده و با ارسال امواج صوتی، نقشه‌ای از کف دریا ترسیم کرده و مین‌های احتمالی را شناسایی و موقعیت آن‌ها را ثبت می‌کند.
+‏3. پاکسازی (Sweeping): پس از شناسایی منطقه مین‌گذاری شده، نوبت به پاکسازی می‌رسد. بالگرد تجهیزات «تله‌انداز» را یدک می‌کشد که با تقلید از صدای کشتی‌ها (مین‌های صوتی) یا میدان مغناطیسی آن‌ها (مین‌های مغناطیسی)، باعث انفجار از راه دور مین می‌شود.
+‏
+‏⚜ او همچنین به چالش های فنی تعمیرات و نگهداری و لجستیک اشاره میکند که محدودیت های مین روبی را نشان میدهد. در پست یک سال پیش کانال به طور مفصل درباره مین روبی توضیح دادیم.(در اینجا)
+‏
+‏📃@Cataphract1
+12:52
+1405/03/16
+
+
+
+
 src :@warmonitors
 ‏⚡Al-Manar correspondent: Israeli drone strike in the town of Jebchit, southern Lebanon
 12:52
@@ -5632,15 +5643,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 08:10
-1405/03/16
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇰🇼🇧🇭🇦🇪 - Flightradar24 has released its updated Gulf airline recovery index, so far the only airline to recover to at least its pre-war activity is Gulf Air, the flag carrier of Bahrain, and Kuwait Airways who briefly peaked above.
-08:03
 1405/03/16
 
 
