@@ -137,7 +137,7 @@ src :@wfwitness
 
 src :@tabzlive
 [عکس]
-‏🇺🇸❌🇮🇷 — WATCH: CENTCOM has released footage of strikes on Iranian coastal surveillance radar sites in Goruk and on Qeshm Island.
+‏🇺🇸❌🇮🇷 — WATCH: CENTCOM has released footage of strikes on Iranian coastal surveillance radar sites in Garuk, Sirik County, and on Qeshm Island.
 05:50
 1405/03/16
 
@@ -1118,7 +1118,6 @@ src :@Shin_Persian
 src :@VahidOnline
 [عکس]
 ‏پیام‌های دریافتی: اعلام هشدار در کویت 
-‏همزمان با پیام‌های دریافتی از شنیده شدن صدای شلیک از  خوزستان
 ‏
 ‏ آپدیت:
 ‏ارتش کویت دقایقی قبل از فعالیت پدافند هوایی کویت برای مقابله با «حملات موشکی و پهپادی خصمانه» خبر داد.
