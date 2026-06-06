@@ -1,3 +1,11 @@
+src :@World_Newsly
+‏🔴 برخی منابع از شنیده شدن صدای انفجارها در کویت خبر می دهند   ✍🏻 Nadershah ▪️@World_Newsly
+04:31
+1405/03/16
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 گزارش حملات موشکی شدید به خاک کویت 
 ‏
@@ -95,14 +103,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
-04:23
-1405/03/16
-
-
-
-
-src :@tabzlive
-‏🇮🇷🇰🇼⚡️ — BREAKING: Kuwait says air defenses are confronting "hostile missile and drone attacks."
 04:23
 1405/03/16
 
@@ -1675,17 +1675,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴حزب الله اعلام کرد که یک پهپاد هرمس و یک جنگنده اسرائیلی را با سلاحهای مناسب رهگیری و آنها را مجبور به عقب نشینی کرده است.
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-01:11
-1405/03/16
-
-
-
-
 src :@tglobaleye
 ‏#BREAKING | 🇮🇷 — Initial reports of explosions and air defense activity over Kharg Island and Bandar Abbas, southern Iran.
 ‏
@@ -1728,14 +1717,6 @@ src :@rnintel
 src :@GeoPWatch
 ‏🇮🇷— Iranian air defenses active on Kharg Island.  @GeoPWatch
 01:03
-1405/03/16
-
-
-
-
-src :@World_Newsly
-‏🔴گزارش شنیده شدن صدای انفجار در جزیره خارک   ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
-01:02
 1405/03/16
 
 
