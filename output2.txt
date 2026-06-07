@@ -1,3 +1,81 @@
+src :@mwarmonitor
+[عکس]
+‏✈️نیروی هوایی آمریکا (USAF)
+‏
+‏✈️۵ فروند هواپیمای سوخت‌رسان Boeing KC-135 Stratotanker در حال حرکت به سمت پایگاه هوایی RAF Mildenhall و احتمالاً پایگاه هوایی رامشتاین هستند. منشأ اصلی این پروازها عمدتاً از صوفیه (بلغارستان) گزارش شده است.
+‏
+‏جزئیات شناسه‌ها:
+‏
+‏58-0071 — REACH 320
+‏63-7996 — REACH (این هواپیما از تل‌آویو آمده است)
+‏62-3564 — REACH 343
+‏63-7976 — REACH
+‏60-0318 — REACH
+‏
+‏📌طبق این گزارش، این جابجایی باعث می‌شود تعداد تانکرهای مستقر در صوفیه به حدود ۸ تا ۱۰ فروند کاهش پیدا کند.
+‏
+‏@mwarmonitor
+12:31
+1405/03/17
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏تصویر ماهواره ای از مقر ناوگان پانزدهم نیروی دریایی روسیه در منطقه لنینگراد که پس از حملات پهپادی اخیر اوکراین دچار آتش سوزی گسترده شده است
+‏
+‏@Minas_Tirith2024
+12:30
+1405/03/17
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏تصویری از صنايع دریایی شهید محلاتی سپاه که کاملا از دسترس خارج شده و عملا فعالیتی ندارد با این شرایط
+‏
+‏
+‏@artemis_force
+12:29
+1405/03/17
+
+
+
+
+src :@cataphract1
+[عکس]
+‏حجم استفاده از مولتی روتورهای فیبرنوری در اوکراین به حدی رسیده است که پرنده ها از بقایای آنها برای خود لانه می سازند :) 
+‏
+‏@Minas_Tirith2024
+12:29
+1405/03/17
+
+
+
+
+src :@mwarmonitor
+‏🔴مقامات اوکراینی اعلام کردند یک پهپاد روسی به یک تأسیسات ذخیره‌سازی سوخت هسته‌ای مصرف‌شده در نزدیکی نیروگاه چرنوبیل اوکراین اصابت کرده است. به گفته این مقامات، سطح تشعشعات در محل همچنان پایدار باقی مانده است — رویترز
+‏
+‏@mwarmonitor
+12:29
+1405/03/17
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏حجم استفاده از مولتی روتورهای فیبرنوری در اوکراین به حدی رسیده است که پرنده ها از بقایای آنها برای خود لانه می سازند :) 
+‏
+‏@Minas_Tirith2024
+12:28
+1405/03/17
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇱🇱🇧⚡️ — Israeli Finance Minister Bezalel Smotrich Via X:
@@ -247,7 +325,7 @@ src :@naya_foriraq
 
 
 src :@cataphract1
-‏⚜طی یک تیراندازی در پمپ بنزین در نزدیکی شهر کوخاو یایر تا کنون ۵ نفر مجروح و یک نفر کشته شده است.  ⚜پلیس اعلام کرده یک مظنون را دستگیر کرده و در جستجوی مظنون دوم است.  ⚜همچنین در روستای Tzur Yitzhak نیز تیراندازی گزارش شده و پلیس اعلام کرده افراد در خانه های…
+‏⚜طی یک تیراندازی در پمپ بنزین در نزدیکی شهر کوخاو یایر اسرائیل تا کنون ۵ نفر مجروح و یک نفر کشته شده است.  ⚜پلیس اعلام کرده یک مظنون را دستگیر کرده و در جستجوی مظنون دوم است.  ⚜همچنین در روستای Tzur Yitzhak نیز تیراندازی گزارش شده و پلیس اعلام کرده افراد در…
 12:07
 1405/03/17
 
@@ -589,7 +667,7 @@ src :@defence_news
 
 
 src :@cataphract1
-‏⚜طی یک تیراندازی در پمپ بنزین در نزدیکی شهر کوخاو یایر تا کنون ۵ نفر مجروح و یک نفر کشته شده است.
+‏⚜طی یک تیراندازی در پمپ بنزین در نزدیکی شهر کوخاو یایر اسرائیل تا کنون ۵ نفر مجروح و یک نفر کشته شده است.
 ‏
 ‏⚜پلیس اعلام کرده یک مظنون را دستگیر کرده و در جستجوی مظنون دوم است.
 ‏
@@ -1793,23 +1871,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 09:43
-1405/03/17
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released a new batch of statements regarding operations targeting Israeli forces across southern Lebanon:
-‏
-‏In response to Israeli ceasefire violations on southern Lebanon, which caused civilian casualties, we targeted a gathering of Israeli military vehicles and soldiers on the southeastern outskirts of Yahmar al-Shaqif between 00:00 and 02:00 on Sunday, June 7, 2026, with rocket salvos and artillery shelling. We also targeted a Merkava tank on the southern outskirts of Haddatha at 01:20 using appropriate weapons.
-‏
-‏Additionally, at 02:35, we targeted a gathering of Israeli military vehicles and soldiers on the southeastern outskirts of Yahmar al-Shaqif with artillery shelling. At 03:00, we targeted a gathering of Israeli soldiers on the southern outskirts of Haddatha with two Ababil drones.
-‏
-‏At 12:30, we targeted an Israeli military command post in the town of Naqoura with an Ababil drone, achieving a confirmed hit.
-‏
-‏@wfwitness
-09:41
 1405/03/17
 
 
@@ -3961,16 +4022,6 @@ src :@BellumActaNews
 
 
 
-src :@mwarmonitor
-‏🚨 رئیس موساد، رومن گوفمن، معاون خود را برکنار کرد. باراک راوید 
-‏
-‏@mwarmonitor
-21:54
-1405/03/16
-
-
-
-
 src :@P_raetorio
 ‏گزارش های منابع داخلی از شنیده شدن صدای انفجار در جزیره خارک 
 ‏
@@ -4004,14 +4055,6 @@ src :@didarnews1
 
 src :@WAR_ROOM_NEWS
 ‏صدای یک انفجار با منشأ نامشخص در جزیره خارگ شنیده شده است
-21:51
-1405/03/16
-
-
-
-
-src :@mwarmonitor
-‏💥شنیده شدن صدای انفجار در اطراف جزیره خارک
 21:51
 1405/03/16
 
@@ -5869,22 +5912,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 13:39
-1405/03/16
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏اسماعیل کوثری، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی، اعلام کرد که جمهوری اسلامی تنها در صورتی ادعای آمریکا درباره آزادسازی دارایی‌های مسدود شده ایران را خواهد پذیرفت که این موضوع به‌صورت عملی اجرا شود.
-‏
-‏کوثری در گفت‌وگو با وب‌سایت دیده‌بان ایران گفت آمریکایی‌ها اعلام کرده‌اند ۲۴ میلیارد دلار از دارایی‌های بلوکه‌شده ایران را آزاد خواهند کرد و با پرداخت نیمی از این مبلغ از طریق قطر موافقت کرده‌اند، اما تا زمانی که این اقدام به‌طور عملی انجام نشود، تهران آن را نمی‌پذیرد.
-‏
-‏بخوانید:
-‏https://iranwire.com/fa/news-1/153328
-‏
-‏@Farsi_Iranwire
-13:33
 1405/03/16
 
 
