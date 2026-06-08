@@ -1,6 +1,81 @@
 src :@GeoPWatch
 [عکس]
-‏🌊 — Tsunami warning issued by the Philippines for the coastal southern part of the country. Tsunami waves over one meter expected.
+‏🌊 — Japanese authorities issue a tsunami advisory for Japan's southeastern coasts. Waves up to 1 meter.
+‏
+‏@GeoPWatch
+03:37
+1405/03/18
+
+
+
+
+src :@mamlekate
+‏📝 گزارش آکسیوس از تماس ترامپ با نتانیاهو: اسرائيل برای توافق با جمهوری اسلامی فرصت بیشتری به آمریکا بدهد
+‏
+‏سایت خبری آکسیوس به نقل یک مقام ارشد آمریکایی و یک منبع اسرائیلی گزارش داد که رئيس جمهوری آمریکا در تماس تلفنی خود به نخست وزیر اسرائيل گفت که حمله موشکی شبانه جمهوری اسلامی را تلافی نکند و زمان بیشتری به دیپلماسی بدهد.
+‏
+‏@mamlekate
+03:35
+1405/03/18
+
+
+
+
+src :@Middle_East_Spectator
+‏🇺🇸🇯🇴🇮🇷⚡️ — NOW: U.S. State Department: Reports indicate missiles, drones, or rockets are in Jordanian airspace.   Seek overhead cover and shelter in place immediately. Remain indoors and pay attention to local announcements and alerts
+03:35
+1405/03/18
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏🇺🇸🇯🇴🇮🇷⚡️ — NOW: U.S. State Department:
+‏Reports indicate missiles, drones, or rockets are in Jordanian airspace. 
+‏
+‏Seek overhead cover and shelter in place immediately. Remain indoors and pay attention to local announcements and alerts
+03:34
+1405/03/18
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇮🇱🇮🇷⚡️ — A U.S. official to Axios:
+‏Trump is pretty adamant that we are close to a deal with Iran. I don't think anything is imminent in terms of an Israeli strike.
+‏
+‏We are in a moment in time — that why jeopardize a potential deal when you are in the fourth quarter. The President thinks that we have been in this thing for three months — now is the time to end this thing.
+03:33
+1405/03/18
+
+
+
+
+src :@GeoPWatch
+‏🇵🇭‼️ — 6.1 aftershock
+‏
+‏@GeoPWatch
+03:32
+1405/03/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇯🇴 The U.S. Embassy in Jordan has issued a security alert urging American citizens to seek shelter immediately after reports of missiles, drones, or rockets in Jordanian airspace. The embassy advised residents to remain indoors and follow local authorities’ instructions.
+‏
+‏@wfwitness
+03:32
+1405/03/18
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🌊 — Tsunami warning issued by the Philippines for the coastal southern part of the country. Tsunami waves over one meter expected. Residents urged to evacuate.
 ‏
 ‏@GeoPWatch
 03:31
@@ -1439,16 +1514,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇮🇷⚡️ — President Trump to FT:
-‏I call the shots. I call all the shots. Netanyahu doesn't call the shots.
-01:43
-1405/03/18
-
-
-
-
 src :@mwarmonitor
 ‏🔴ترامپ: «نتانیاهو چاره‌ای جز پذیرش توافق با ایران نخواهد داشت.»  @mwarmonitor
 01:43
@@ -2628,14 +2693,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇮🇱- According to i24 News, Israeli Prime Minister Netanyahu, Defense Minister Katz, and Israel's security leadership are set to convene an emergency discussion on Iran within the coming hour.  @GeoPWatch
-00:59
-1405/03/18
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Residents of the Normandy village hosting the main D-Day ceremony declared Pete Hegseth unwelcome, calling his views "warlike" and contrary to democratic value.
@@ -2654,16 +2711,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 00:58
-1405/03/18
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷🇮🇷❌🌞- The IRGC is currently targeting Iranian-Kurdish opposition groups near Sulaymaniyah, northern Iraq.
-‏
-‏@GeoPWatch
-00:57
 1405/03/18
 
 
@@ -3765,17 +3812,6 @@ src :@bricsnews
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇱/🇮🇷 NEW: As reported, civilian airliners all being moved out of Tehran in anticipation of Israeli strikes
-‏
-‏@Middle_East_Spectator
-00:29
-1405/03/18
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏همزمان با حملات موشکی ایران به اسرائیل، تسنیم، خبرگزاری وابسته به سپاه، یکشنبه‌شب، در پی شنیده شدن صدای انفجار در تبریز، گزارش داد: «براساس پیگیری‌ها، صدای شنیده شده در‌ فرودگاه تبریز تست پدافند بوده و هیچ‌گونه حمله‌ای به این فرودگاه اتفاق نیفتاده است».
@@ -3880,16 +3916,6 @@ src :@MilitarryWorld
 
 src :@rus_cosmos
 ‏پهپاد سقوط کرده در کربلا
-00:25
-1405/03/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇮🇱 NEW: MANPAD (portable air defense) teams have been deployed throughout Iran’s rural villages and mountain ridges in the West
-‏
-‏@Middle_East_Spectator
 00:25
 1405/03/18
 
