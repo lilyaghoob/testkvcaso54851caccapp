@@ -1,3 +1,44 @@
+src :@naya_foriraq
+[عکس]
+‏مسيرة صهيونية تستهدف سيارة في محيط مركز الصليب الاحمر اللبناني عند مدخل صور الجنوبي.
+17:45
+1405/03/18
+
+
+
+
+src :@mohem_mat
+‏تو ایتا دوباره رفتیم دو قدمی خیمه معاویه
+‏
+‏ وحید حاجی‌‌پور (@vahidhajipour1) 
+‏
+‏@mohem_mat
+17:44
+1405/03/18
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇬🇧🇮🇱🚫 — United Kingdom advises its citizens not to travel to the State of Israel
+‏
+‏@BellumActaNews
+17:43
+1405/03/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏آژیرهای هشدار در شهرک‌های شمالی اسرائیل پس از حمله راکتی حزب‌الله به صدا درآمد
+17:42
+1405/03/18
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏کابوی نیمه شب
@@ -26,9 +67,11 @@ src :@P_raetorio
 ‏هیچ حفاظتی ندارند؟
 ‏شلتر می‌تواند جلوگیری کند از اصابت؟
 ‏
-‏برای جواب ندادن دست به دامان این شدیکه بگویی متن نقد طولانی و خطبه است!
+‏برای جواب ندادن دست به دامان این شدی که بگویی متن نقد طولانی و خطبه است!
 ‏
 ‏کسی حرف از چین زد! خود درگیری مزمن؟
+‏
+‏مد شده است هر کسی بدون سواد نظامی میلیتاری نویس شود و بگوید که شلتر سطح 3 هیچ حفاظتی ندارد...بعدش که ضایع شود بحث را تغییر دهد
 ‏
 ‏ماهان آرمانی
 ‏
@@ -1023,6 +1066,8 @@ src :@P_raetorio
 ‏
 ‏حفاظت از جنگنده‌ها صرفاً به شلتر محدود نمی‌شود، بلکه در قالب یک معماری چندلایه از پدافند غیرفعال تعریف می‌گردد؛ به‌گونه‌ای که در کنار شلترها، اقداماتی مانند پراکندگی روی چند پایگاه و رمپ‌های عملیاتی، جابجایی مستمر (Mobility)، استقرار فریب‌دهنده‌ها و اهداف کاذب (Decoys)، اختفا و استتار و .... به‌کار گرفته می‌شود. و هدف، کاهش احتمال کشف و هدف‌گیری، افزایش بقاپذیری و بالا بردن هزینه و پیچیدگی چرخه هدف‌گیری دشمن است، نه مقابله مستقیم با پرتابه!
 ‏
+‏ماهان آرمانی 
+‏
 ‏
 ‏@P_raetorio
 16:52
@@ -1317,6 +1362,8 @@ src :@mohem_mat
 ‏ساعتی قبل منتشر شد و الان در دسترس هست
 ‏
 ‏قبلا درباره فیلم نوشته بودم 
+‏البته امتیازهای اولیه فیلم خیلی پایین هست
+‏
 ‏ماجرای اسم عربی و اسلامی برادرزاده مایکل هم این است که پدرش چندسال قبل مسلمان شده بوده و برای فرزندانش از جمله این جعفر آقا
 ‏ اسم اسلامی گذاشته
 ‏
@@ -1666,24 +1713,6 @@ src :@thewarreporter
 ‏
 ‏— Reuters | @TheWarReporter
 16:20
-1405/03/18
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇸🇾⚰️❗️ — The Syrian Social Nationalist Party (SSNP), Syria's Ultranationalist Party, announces that 2x militants of its paramilitary wing, the Eagles of the Whirlwind, were Killed in Action while fighting against the Israel Defense Forces (IDF) in Southern Lebanon
-‏
-‏In Statement, it said:
-‏Unit Malek in the Eagles of the Whirlwind announces the martyrdom of the two martyrs: 
-‏- Muhammad Ali Hammoud
-‏- Muhammad Khadr Salem
-‏ 
-‏While performing their national duty in defending the land of Lebanon against the Jewish enemy, South Lebanon - Nabatieh al-Shaqif.
-‏
-‏@BellumActaNews
-16:19
 1405/03/18
 
 
@@ -2128,14 +2157,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-‏اعلام العدو: تم رصد ثلاث عمليات إطلاق صواريخ أُطلقت من لبنان. تم اعتراض بعض الصواريخ وسقط صاروخ آخر بالقرب من قواتنا
-16:04
-1405/03/18
-
-
-
-
 src :@World_Newsly
 ‏🔴 ترامپ به نیوزنیشن: حالا در مجموع ۹‌ جنگ را پایان داده‌ام!  ✍🏻 Gladiator ▪️@World_Newsly
 16:04
@@ -2340,15 +2361,6 @@ src :@tabzlive
 ‏The attacks in southern Lebanon will continue in the coming days with full force. 
 ‏
 ‏We will also bomb in Dahieh if the attacks on our settlements and citizens continue.
-15:55
-1405/03/18
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱🇵🇸Footage of the targeted site in the Burj el-Shamali Palestinian Camp in southern Lebanon.  @wfwitness
 15:55
 1405/03/18
 
@@ -5120,18 +5132,6 @@ src :@mohem_mat
 ‏گفتنی است؛ فدراسیون ووشو در بیانیه ای اعلام کرده بود که الهه منصوریان با چاقوی میوه‌خوری اتاق ریاست فدراسیون در حضور ناظران خودزنی کرده و به شخص خود حمله‌ور شد تا تقصیر ضرب و شتم را به گردن رئیس فدراسیون بیاندازد.
 ‏
 ‏ @iran_eghtesadi 🇮🇷
-13:34
-1405/03/18
-
-
-
-
-src :@mohem_mat
-‏باتوجه به حملات پراکنده و غیرمتمرکز، دو طرف دوست ندارند دوباره پایشان به یک جنگ گسترده طولانی باز شود، احتمالا امروز یا فردا این حملات با میانجیگری خود ترامپ به پایان می‌رسد 
-‏
-‏این حملات برای ایران یک برد به حساب می‌آید، که علیرغم ادعاهای رئیس جمهور لبنان، ایران در کنار این کشور است
-‏
-‏@Squad_iran
 13:34
 1405/03/18
 
