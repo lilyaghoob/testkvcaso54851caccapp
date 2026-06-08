@@ -1,3 +1,24 @@
+src :@Indypersian
+[عکس]
+‏♦️اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران انقلاب اسلامی، روز دوشنبه ۱۸ خرداد در پیامی با اشاره به تحولات اخیر منطقه ادعا کرد پرتاب موشک از حوثی‌های یمن به سمت اسرائیل در واکنش به درگیری‌های جاری، نشانه «هوشمندی جبهه مقاومت» بوده و در صورت لزوم، سایر گروه‌های همسو با جمهوری اسلامی نیز وارد عمل خواهند شد.
+‏
+‏قاآنی در این پیام گفت: «اقدام به‌موقع و با اقتدار یمن قهرمان نشان از هوشمندی جبهه مقاومت دارد. اگر لازم شد دیگران نیز می‌آیند.»
+‏
+‏فرمانده نیروی قدس سپاه همچنین مدعی شد «از تنگه هرمز تا باب‌المندب و از خلیج فارس تا دریای سرخ، کمربند امنیتی جدید مقاومت» شکل خواهد گرفت.
+‏
+‏او با اشاره به اقدامات اسرائیل و آمریکا در منطقه گفت: «شرارت‌های اسرائیل و آمریکا در این منطقه عکس‌العمل جبهه متحد مقاومت را در پی خواهد داشت.»
+‏
+‏قاآنی در بخش دیگری از پیام خود هشدار داد: «رزمندگان بدون مرز مشرف بر گلوگاه‌های عبور شما هستند. به تعرض ادامه دهید، گلوی شما را خواهند گرفت.»
+‏
+‏سخنگوی ارتش اسرائیل پیشتر اعلام کرده بود کشورش یک موشک شلیک شده از یمن را رصد کرده و سامانه‌های پدافندی در حال رهگیری آن هستند.
+‏
+‏@INDYPERSIAN
+22:56
+1405/03/18
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد نیروهای آمریکایی یک نفتکش بدون محموله را که عازم یکی از بنادر ایران بود، در دریای عمان از کار انداختند.
@@ -60,14 +81,6 @@ src :@ClashReport
 src :@Middle_East_Spectator
 ‏This evening, Israel has been striking Hezbollah targets across southern Lebanon, yet there has been no Iranian response.  I guess they finally got the memo.
 22:48
-1405/03/18
-
-
-
-
-src :@mwarmonitor
-‏📝 انتقاد پیشنهاد دارید دایرکت بفرمایید خوشحال میشم بشنوم
-22:47
 1405/03/18
 
 
@@ -1741,15 +1754,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇫🇷🇩🇪🇪🇸 POLITICO: France and Germany have agreed to take more time to resolve the deadlock on the Future Combat Air System (FCAS) fighter jet project, following discussions between French President Macron and German Chancellor Merz in Nicosia before an informal…
-21:04
-1405/03/18
-
-
-
-
 src :@mohem_mat
 ‏ترامپ در مصاحبه با کانال ۱۲ اسرائیل: 
 ‏
@@ -1799,26 +1803,6 @@ src :@Indypersian
 src :@GeoPWatch
 ‏🇵🇭‼️ — Death toll in the Philippines rises to 35.
 21:01
-1405/03/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Lebanese President Joseph Aoun to CNN:   We are currently negotiating a non-aggression agreement with Israel.  @wfwitness
-21:01
-1405/03/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Lebanese President Joseph Aoun to CNN: 
-‏
-‏We are currently negotiating a non-aggression agreement with Israel.
-‏
-‏@wfwitness
-21:00
 1405/03/18
 
 
@@ -1927,16 +1911,6 @@ src :@ClashReport
 ‏Trump said: “They were already on their way to Iran. I managed to reduce the scope of the attack.”
 ‏
 ‏Source: N12
-20:54
-1405/03/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇸🇾🇮🇱 Al-Ikhbariya reports that Israeli aircraft are flying in the sky of Daraa city and its countryside.
-‏
-‏@wfwitness
 20:54
 1405/03/18
 
@@ -3694,19 +3668,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran's Ghalibaf:
-‏
-‏We have disrupted the equation of a ceasefire on paper and its repeated violations in the field.
-‏
-‏As long as you lack the genuine will to build trust, Iran's response will be exactly this.
-18:57
-1405/03/18
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇱🇧❌🇮🇱- Drone alerts have been activated in Misgav Am and Metula, northern Israel.
@@ -3853,22 +3814,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-18:42
-1405/03/18
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️محمدباقر قالیباف، رئیس مجلس شورای اسلامی و رئیس هیئت مذاکره کننده در گفتگوهای پایان جنگ، بعدازظهر دوشنبه ۱۸ خرداد با انتشار پیامی در شبکه اجتماعی ایکس نوشت جمهوری اسلامی «معادله آتش‌بس روی کاغذ و نقض مکرر آن در میدان» را برهم زده است.
-‏
-‏او همچنین افزود: «تا زمانی که اراده واقعی برای اعتمادسازی نداشته باشید، پاسخ ایران همین خواهد بود.»
-‏
-‏روز یکشنبه و ساعاتی پس از حمله ارتش اسرائیل به منطقه ضاحیه در جنوب بیروت، نیروهای مسلح جمهوری اسلامی ایران، در پاسخ به «نقض آتش‌بس» موشک‌هایی به سمت اسرائیل شلیک کردند.
-‏درگیری‌های نظامی پس از ۱۶ ساعت و با اعلام دوطرف پایان یافت.
-‏
-‏@indypersian
 18:42
 1405/03/18
 
@@ -4210,6 +4155,18 @@ src :@mohem_mat
 ‏
 ‏ @mohem_mat
 18:12
+1405/03/18
+
+
+
+
+src :@mwarmonitor
+‏🔴وزیر دفاع اسرائیل، کاتس، گفت «قانون مربوط به ضاحیهٔ بیروت همان قانون مربوط به شهرک‌های شمال اسرائیل است» و هشدار داد هر حمله به شمال اسرائیل با حمله به ضاحیه پاسخ داده خواهد شد.
+‏
+‏🔴او افزود ارتش اسرائیل به عملیات خود علیه حزب‌الله در لبنان ادامه خواهد داد و تهدیدهای ایران را رد کرد و گفت هرگونه تلاش تهران برای مرتبط کردن لبنان و ایران و حمله به اسرائیل با «نیروی بسیار زیاد» پاسخ داده خواهد شد.
+‏
+‏@mwarmonitor
+18:11
 1405/03/18
 
 
@@ -5407,14 +5364,6 @@ src :@rus_cosmos
 [عکس]
 ‏ارتش اسرائیل کلیپی از انهدام یک سامانه پدافند ایران را منتشر کرد.
 15:23
-1405/03/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏کانال ۱۲ اسرائیل گزارش می‌دهد که ترامپ و نتانیاهو دقایقی پیش تلفنی صحبت کردند
-15:22
 1405/03/18
 
 
