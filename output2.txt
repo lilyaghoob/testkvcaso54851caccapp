@@ -1,3 +1,170 @@
+src :@guard_warriors
+[عکس]
+‏✪ اصابت یک موشک در دریا
+‏
+‏@Guard_Warriors | Mmd
+10:27
+1405/03/18
+
+
+
+
+src :@cataphract1
+[عکس]
+‏♨️براساس گزارشات اولیه حملات موشکی علیه اسرائیل تاکنون از هشت پایگاه موشکی مختلف صورت گرفته است.
+‏
+‏📃@Cataphract1
+10:26
+1405/03/18
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷🇮🇱 — Seems like it fell into the sea, I'm not sure what sensitive facility could be there. Reports of rescue teams mobilizing are also likely false unless there was another impact.  @GeoPWatch
+10:25
+1405/03/18
+
+
+
+
+src :@mwarmonitor
+‏🚨 شبکه ۱۳ اسرائیل: سقوط ترکش‌های موشک‌های رهگیر در چندین نقطه در مرکز اسرائیل.
+‏
+‏@mwarmonitor
+10:25
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+‏المتحدث باسم لجنة الأمن القومي في مجلس الشورى: مستعدون للرد وقوةُ جاهزيتنا تفوق ما كانت عليه في 28 فبراير ولن نصمت حتى اللحظة التي يندم فيها العدو
+10:25
+1405/03/18
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 ۶ موشک شلیک شد،۲ تا برا تل اویو ۴ تا حیفا  ✍🏻 exxon ▪️@World_Newsly
+10:25
+1405/03/18
+
+
+
+
+src :@MilitarryWorld
+‏⭕️تمامی پروازهای فرودگاه کرمانشاه تا اطلاع ثانوی لغو شد
+‏
+‏@MilitarryWorld | Parsa
+10:25
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+‏منظمة الطيران المدني الإيرانية: إغلاق جميع المطارات في غرب البلاد حتى إشعار آخر
+10:24
+1405/03/18
+
+
+
+
+src :@P_raetorio
+‏ارتش اسرائیل اعلام کرد حمله به پایان رسیده و می‌توان از پناهگاه ها خارج شد.تمام موشک ها یا رهگیری یا به منطقه‌ای باز اصابت کردند.
+‏
+‏@P_raetorio
+10:24
+1405/03/18
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇮🇱 — Another wave of missiles launched from Iran toward Israel detected.
+10:24
+1405/03/18
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇮🇷 — Launches towards northern Israel from Iran.  @TheWarReporter
+10:24
+1405/03/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏نه اصابتی تا این لحظه از موشک‌های سپاه گزارش شده نه وجود تلفات در اسرائیل
+10:24
+1405/03/18
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇮🇱 — Reports of an impact against a sensitive target in Kiryat Atta.  @GeoPWatch
+10:24
+1405/03/18
+
+
+
+
+src :@didarnews1
+‏🔴 گزارش برخی منابع از انفجارهای شدید در جولان اشغالی بر اثر اصابت موشک‌های ایران
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+10:23
+1405/03/18
+
+
+
+
+src :@cataphract1
+‏♨️این حمله و عملیات رهگیری آن نیز به پایان رسید.
+‏
+‏📃@Cataphract1
+10:23
+1405/03/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏حملات موشکی ایران به اسرائیل پایان یافت
+10:23
+1405/03/18
+
+
+
+
+src :@cataphract1
+[عکس]
+‏⚜ گزارش شده یک موشک در نزدیکی Kiryat Ata به درون دریا افتاده است.
+‏✒️#LT
+‏📃@Cataphract1
+10:22
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏توقف حركة الطيران في مطار تل ابيب بسبب القصف الإيراني …
+10:22
+1405/03/18
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏رسانه‌های ایران گزارش داده‌اند که تمامی پروازهای فرودگاه «مهرآباد» و شهر فرودگاهی «خمینی» در تهران و فرودگاه بین‌المللی مشهد تا اطلاع ثانوی متوقف شده است.
@@ -14,8 +181,48 @@ src :@Farsi_Iranwire
 
 
 
+src :@wfwitness
+‏IDF gives all clear. There are no reports of injuries following the latest barrage
+10:22
+1405/03/18
+
+
+
+
+src :@Indypersian
+[عکس]
+‏⭕️ارتش اسرائیل از موج دوباره حملات موشکی جمهوری اسلامی خبر داد
+‏
+‏♦️ارتش اسرائیل پیش از ساعت ۱۰ صبح روز دوشنبه ۱۸ خرداد از شناسایی شلیک موشک‌ از خاک ایران به سوی اسرائیل خبر داد.
+‏به گزارش اورشلیم‌پست به نقل از ارتش اسرائیل، در دور سوم حملات سپاه، ۶ موشک به سوی این کشور شلیک شده است.
+‏گزارش‌ها حاکی از آن است که این موشک‌ها به سوی مرکز و شمال اسرائیل شلیک شده‌اند.
+‏
+‏@indypersian
+10:22
+1405/03/18
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏یک موشک سپاه در دریا سقوط کرد
+10:22
+1405/03/18
+
+
+
+
 src :@rnintel
 ‏🇮🇷🇮🇱⚡️- Israeli media report a possible impact in Krayot, northern Israel.
+10:21
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+‏طائرة جناح صهيون تستعد للمغادرة خشية استهدافها
 10:21
 1405/03/18
 
@@ -116,7 +323,7 @@ src :@jangaavaran1390
 
 src :@wfwitness
 [عکس]
-‏Smoke rising north of Tel Aviv
+‏Image from Kiryat Ata, near Haifa, missile fell into the sea
 10:18
 1405/03/18
 
@@ -216,14 +423,6 @@ src :@cataphract1
 ‏⚜به خواست خدا، تمام تلاش‌های دشمن شکست خواهد خورد و عملیات ما تا زمانی که تجاوز و محاصره علیه ما و محور جهاد و مقاومت ادامه داشته باشد، ادامه خواهد یافت.
 ‏✒️#LT
 ‏📃@Cataphract1
-10:15
-1405/03/18
-
-
-
-
-src :@wfwitness
-‏Interceptions over central Israel
 10:15
 1405/03/18
 
@@ -923,14 +1122,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏اطلاق موجة صواريخ إيرانية نحو الكيان المحتل
-10:04
-1405/03/18
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇷❌🇮🇱 — Another wave of missiles launched from Iran toward Israel detected.
@@ -1081,14 +1272,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏إعلام العدو: أنباء عن إطلاق مسيّرات يمنية باتجاه إسرائيل
-10:03
-1405/03/18
-
-
-
-
 src :@guard_warriors
 ‏✪ سپاه پاسداران از آغاز عملیات نصر علیه پایگاه های تل نوف و نواتیم خبر داد
 ‏
@@ -1106,14 +1289,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
-10:03
-1405/03/18
-
-
-
-
-src :@naya_foriraq
-‏اطلاق موجة صواريخ إيرانية نحو الكيان المحتل
 10:03
 1405/03/18
 
@@ -1355,14 +1530,6 @@ src :@World_Newsly
 
 
 
-src :@naya_foriraq
-‏اطلاق موجة صواريخ إيرانية نحو الكيان المحتل
-09:59
-1405/03/18
-
-
-
-
 src :@Minas_Tirith2024
 ‏فوری 
 ‏
@@ -1544,14 +1711,6 @@ src :@didarnews1
 
 
 
-src :@naya_foriraq
-‏المتحدث باسم الحرس الثورة الإيراني: للمرة الألف، أثبتنا أن السماء فوق الأراضي المحتلة والمنطقة تخضع لإرادتنا وتحت سيطرة صواريخ الحرس الثوري الإيراني المدمرة للمجال الجوي.
-09:51
-1405/03/18
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷 — Mehrabad and Imam Khomeini airports in Tehran will not be conducting any civilian flights indefinitely.
 ‏
@@ -1594,14 +1753,6 @@ src :@didarnews1
 
 src :@rnintel
 ‏🇮🇷🇮🇱⚡️- Scenes from Tehran, the capital of Iran. Mehrabad International Airport was targeted by at least one Israeli strike.
-09:49
-1405/03/18
-
-
-
-
-src :@naya_foriraq
-‏‏تعليق جميع الرحلات في طهران حتى إشعار آخر
 09:49
 1405/03/18
 
@@ -1926,14 +2077,6 @@ src :@P_raetorio
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌🇮🇷 — Mehr News Agency reports air defenses were confronting hostile projectiles above Kermanshah.
-09:31
-1405/03/18
-
-
-
-
 src :@MilitarryWorld
 ‏🚨تمام پرواز های فرودگاه مهرآباد تهران تا اطلاع ثانوی لغو شد.
 ‏
@@ -2027,14 +2170,6 @@ src :@World_Newsly
 
 src :@jangaavaran1390
 ‏مقامات دفاعی اسرائیل با استناد به روزنامه اسرائیل‌هایوم هشدار دادند که تبادل آتش دوشنبه ممکن است به جنگ چندروزه با ایران تبدیل شود.
-09:23
-1405/03/18
-
-
-
-
-src :@GeoPWatch
-‏🇮🇱❌🇮🇷 — IDF takes responsibility for conducting airstrikes against the Karun Petrochemical Complex.  @GeoPWatch
 09:23
 1405/03/18
 
@@ -2327,19 +2462,6 @@ src :@P_raetorio
 
 
 
-src :@P_raetorio
-‏گزارش‌ها از فعالیت ارتباطات دیجیتالی ناتو در خاورمیانه در ساعات اخیر 
-‏
-‏#خبر 
-‏
-‏
-‏@P_raetorio
-09:07
-1405/03/18
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری «میزان» به نقل از معاون امنیتی استانداری خوزستان گزارش داد که شرکت پتروشیمی «کارون» در ماهشهر هدف حمله هوایی قرار گرفته است.
@@ -2588,17 +2710,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴کانال ۱۲ اسرائیل: تمام فعالیت‌ها و تجمعات لغو و موسسات آموزشی در سراسر اسرائیل تعطیل شدند
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-08:54
-1405/03/18
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏روزنامه معاریو:
 ‏
@@ -2618,17 +2729,6 @@ src :@thewarreporter
 ‏"We are ready to carry out operations on all fronts and have planned our response based on various enemy scenarios".
 ‏
 ‏@TheWarReporter
-08:53
-1405/03/18
-
-
-
-
-src :@World_Newsly
-‏🔴اینکه هنوز اینترنتو قطع نکردن، یعنی آتش‌بس حالا حالا ها نقض بشو نیست
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 08:53
 1405/03/18
 
@@ -3425,18 +3525,6 @@ src :@IranintlTV
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴سقوط بوستر یک موشک بالستیک، جایی در اسرائیل.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-08:15
-1405/03/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏⭕️نتانیاهو ساعت ۱۱ صبح نشست محدود کابینه امنیتی برگزار می‌کند
@@ -3609,17 +3697,6 @@ src :@jangaavaran1390
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴حملات به پتروشیمی کارون در شهر ماهشهر، خوزستان تایید شد.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-08:09
-1405/03/18
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶  حمله اسرائیل به پتروشیمی کارون ماهشهر
 ‏
@@ -3639,17 +3716,6 @@ src :@RASTAKHIZ_PERSIAN
 src :@ClashReport
 [عکس]
 ‏Overnight, Israel carried out new strikes in Iran despite reports that Trump had urged Netanyahu to refrain from further attacks.
-08:09
-1405/03/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴خبرگزاری های رژیم مدعی هستند که در حملات موشکی به اسرائیل از موشک بالستیک فتاح استفاده شده است.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
 08:09
 1405/03/18
 
@@ -3998,17 +4064,6 @@ src :@mohem_mat
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴کابینه امنیتی دولت اسرائیل 3 ساعت دیگر جلسه اضطراری در مورد ایران برگزار خواهد کرد.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-07:58
-1405/03/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ارتش اسرائیل بامداد دوشنبه از رصد موشک‌های پرتاب شده از سوی ایران به سمت اسرائیل خبر داد و اعلام کرد: سامانه‌های پدافندی در حال رهگیری این تهدید هستند. 
@@ -4218,15 +4273,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏یک موشک هم آمد پایین
-07:48
-1405/03/18
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇮🇱/🇮🇷 Close up of the impact in Itamar
@@ -4255,15 +4301,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 07:47
-1405/03/18
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Houthis in Yemen launched missiles targeting Prince Sultan Air Base in Saudi Arabia. Missile and drone alerts were activated in Al-Kharj, south of Riyadh, and at least two explosions were reported in the vicinity of the air base.
-07:45
 1405/03/18
 
 
@@ -4363,17 +4400,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏آژیر خطر در جنوب اسرائیل به صدا در آمد
 ‏
 ‏@RASTAKHIZ_PERSIAN
-07:41
-1405/03/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏مایک هاکبی، سفیر آمریکا در اسرائیل، در شبکه اجتماعی ایکس در مورد حملات موشکی جمهوری اسلامی به اسرائیل نوشت که حکومت ایران و نیروهای نیابتی آن، تهدیدی علیه آمریکا و اسرائیل هستند. 
-‏او افزود: مادر شیطان در تهران است.
-‏https://iranintl.com/202606088496
 07:41
 1405/03/18
 
@@ -4614,18 +4640,6 @@ src :@Artemis_Force
 
 
 
-src :@IranintlTV
-[عکس]
-‏میکی زوهار، وزیر فرهنگ و ورزش اسرائیل، در شبکه اجتماعی ایکس نوشت: «من به نخست‌وزیر نتانیاهو به خاطر حملات امشب در ایران تبریک می‌گویم.»
-‏
-‏او نوشت: «در خاورمیانه، آن‌ها فقط زور و قدرت را می‌فهمند و خوب است که ما نشان دادیم اسرائیل در مواجهه با تجاوز رژیم آیت‌الله‌ها ساکت نخواهد ماند.»
-‏https://iranintl.com/202606085434
-07:29
-1405/03/18
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇦🇲 — Armenian PM Nikol Pashinyan Declares Election Victory
@@ -4658,16 +4672,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Shayan
 07:14
-1405/03/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏خبرگزاری صداوسیما، وابسته به رادیو و تلویزیون جمهوری اسلامی، به نقل از «یک منبع نظامی» اعلام کرد که جمهوری اسلامی هیچ شلیکی به سوی پایگاه هوایی در الخرج در عربستان سعودی انجام نداده است.
-‏https://iranintl.com/202606080464
-07:12
 1405/03/18
 
 
@@ -4707,21 +4711,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Shayan
 07:06
-1405/03/18
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭕️لایتر، سفیر اسرائیل در آمریکا:
-‏ایران امروز 11 تا موشک بالستیک سمت ما شلیک کرد، هر کدوم از این موشکا می‌تونه یه محله کامل رو با خاک یکسان کنه و صدها نفر رو بکشه.  هیچ کشوری همچین حمله‌ای رو تحمل نمی‌کنه، اسرائیل هم قرار نیست تحمل کنه؛
-‏الان داریم سایت‌های پرتاب موشک و بعضی زیرساخت‌های ایران رو می‌زنیم، مردم لبنان هم به حزب‌الله و نفوذ ایران نه گفتن و از ایران خواستن که از کشورشون بره بیرون.
-‏اگه حزب‌الله بخواد به اسرائیل شلیک کنه، مراکز فرماندهیش تو ضاحیه بیروت ضربه سنگینی می‌خورن.
-‏ همه از این رژیم دیوانه ایران خسته شدن و دیگه بسشونه.
-‏
-‏@MilitarryWorld | Shayan
-07:04
 1405/03/18
 
 
@@ -4797,17 +4786,6 @@ src :@mwarmonitor
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️سازمان دفاع مدنی عربستان سعودی، صبح دوشنبه، با انتشار بیانیه‌ای رسمی در اکس، از رفع کامل خطر و پایان وضعیت اضطراری در شهر «الخرج» خبر داد. پیش از این، عربستان سعودی در منطقه‌ای که پایگاه هوایی شاهزاده سلطان در آن قرار دارد و میزبان نیروهای آمریکایی است، هشدار موشکی صادر کرده بود.
-‏
-‏@IndyPersian
-06:42
-1405/03/18
-
-
-
-
 src :@mwarmonitor
 ‏📌 جبهه داخلی اسرائیل: اجازه خروج از پناهگاه‌ها و اتاق‌های امن صادر شد.
 ‏
@@ -4830,17 +4808,6 @@ src :@defence_news
 ‏دقایقی پیش انصارالله یمن نیز با یک تیر موشک به سمت اسرائیل پرتاب کرد که طبق بیانیه ارتش اسرائیل، موشک مذکور رهگیری شده است
 ‏
 ‏@artemis_force
-06:37
-1405/03/18
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏حوثی های یمن نیز با حمله به مناطق مرکزی اسرائیل پای خود را به جنگ باز کرده اند، گفته می‌شود اسرائیل همه حملات را خنثی کرده است.
-‏
-‏@Guard_warriors | KMI
 06:37
 1405/03/18
 
@@ -5024,15 +4991,6 @@ src :@bricsnews
 src :@mwarmonitor
 ‏🔴خبرگزاری آسوشیتدپرس ؛  عربستان سعودی در منطقه‌ای که میزبان پایگاه هوایی «شاهزاده سلطان» و نیروهای آمریکایی است، هشدار موشکی صادر کرده است.  @mwarmonitor
 06:14
-1405/03/18
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏🚨دفاع مدنی عربستان سعودی می‌گوید هشدار اولیه در شهر الخرج برای آگاه‌سازی از خطر احتمالی صادر شده است. رویترز   @mwarmonitor
-06:11
 1405/03/18
 
 
@@ -5563,30 +5521,7 @@ src :@defence_news
 
 
 
-src :@cataphract1
-[عکس]
-‏♨️تصویر مربوط به نجف آباد اصفهان
-‏
-‏📃@Cataphract1
-04:54
-1405/03/18
-
-
-
-
 src :@defence_news
-‏♨️کانال ۱۴ اسرائیل:
-‏
-‏ هواپیماهای ما اکنون در حال حمله به اهدافی در داخل خاک ایران هستند.
-‏
-‏📃@Cataphract1
-04:53
-1405/03/18
-
-
-
-
-src :@cataphract1
 ‏♨️کانال ۱۴ اسرائیل:
 ‏
 ‏ هواپیماهای ما اکنون در حال حمله به اهدافی در داخل خاک ایران هستند.
@@ -5619,14 +5554,6 @@ src :@intelslava
 src :@USAMRYDATA
 ‏انفجار در کرج تایید میشود.
 04:48
-1405/03/18
-
-
-
-
-src :@cataphract1
-‏♨️گزارشات از صدای انفجار در تبریز   📃@Cataphract1
-04:47
 1405/03/18
 
 
@@ -5819,20 +5746,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 01:15
-1405/03/18
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇪🇬🇮🇷 — Arab officials told Israeli Broadcasting Authority:
-‏
-‏"Efforts are underway to prevent a renewed large-scale war.
-‏
-‏No escalation is currently expected. We are in contact with the US to avoid any further deterioration of the situation".
-‏
-‏@TheWarReporter
-01:08
 1405/03/18
 
 
@@ -6179,20 +6092,6 @@ src :@didarnews1
 
 
 
-src :@didarnews1
-‏🔴رسانه‌های اسرائیلی: 
-‏
-‏🔹تماس تلفنی بین ترامپ و نتانیاهو در دقایق آینده
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-00:16
-1405/03/18
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏همزمان با حمله موشکی جمهوری اسلامی به اسراییل، مقام‌های هوانوردی ایران از اعمال محدودیت‌های جدید در حریم هوایی کشور خبر دادند.
@@ -6266,23 +6165,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:48
-1405/03/17
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏U.S. President Donald Trump:
-‏
-‏I will call Netanyahu now and tell him not to strike Iran in response.
-‏
-‏I am explicitly telling Israel not to attack. No one was hurt in the missile attack. If Netanyahu responds, this will continue and continue. We are very close to a deal to end the war, and it will be a good deal. 
-‏
-‏I don't want this to derail the agreement. Both sides have attacked, and I don't want to see another attack.
-‏
-‏I think Israel has responded enough. There doesn't need to be any more. We can achieve peace after 3,000 years.
-23:47
 1405/03/17
 
 
