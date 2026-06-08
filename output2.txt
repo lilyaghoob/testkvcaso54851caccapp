@@ -1,5 +1,73 @@
 src :@GeoPWatch
 [عکس]
+‏🌊 — Tsunami warning issued by the Philippines for the coastal southern part of the country. Tsunami waves over one meter expected.
+‏
+‏@GeoPWatch
+03:31
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+‏🌟‏الخارجية الأميركية: أنباء عن صواريخ أومسيرات أوقذائف في المجال الجوي الأردني.
+03:30
+1405/03/18
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇯🇴🇮🇷⚡️ — NOW: U.S. State Department:
+‏Reports indicate missiles, drones, or rockets are in Jordanian airspace. 
+‏
+‏Seek overhead cover and shelter in place immediately. Remain indoors and pay attention to local announcements and alerts
+03:30
+1405/03/18
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏تکرار نام جاویدنامان ایران، یادآور لحظات دردناکی است که بر این سرزمین گذشت؛
+‏پدری که پسر نیمه‌جانش را در آغوش می‌گیرد.
+‏مادری که روزها برای تحویل پیکر فرزندش انتظار می‌کشد.
+‏جوانی که بر پیکر پسرعمه‌اش می‌رسد و لحظاتی بعد خودش هدف گلوله قرار می‌گیرد.
+‏و خانواده‌ای که تنها فرزندشان را از دست می‌دهند.
+‏مهدی قدیمی، نیما نجفی، علی زندیه پری، علی عطایی، میثم نوری علویجه، محمدحسن روشن قیاس، رضا حبیبی و سروش (حافظ) سلیمانی
+‏این روایت‌های کوتاه برای بازگویی لحظه‌های پایانی نیستند؛ برای ثبت زندگی‌هایی هستند که هر کدام در میان خانواده، دوستان و شهر خود، جایگاهی یگانه داشتند و فقدانشان ادامه دارد.
+‏#جاویدنامان_انقلاب_ملی_ایرانیان
+03:30
+1405/03/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇵🇭 A magnitude 8.2 earthquake struck off Mindanao, Philippines, prompting tsunami alerts for the Philippines, Indonesia, Palau, Yap, Taiwan, and Papua New Guinea. 
+‏
+‏@wfwitness
+03:27
+1405/03/18
+
+
+
+
+src :@tabzlive
+‏🇵🇭⚡️ — BREAKING: A massive earthquake just hit near Mindanao, Philippines, with an estimated magnitude between 8.0 and 9.0.
+‏
+‏➡️ Tsunami warnings have been issued in the Philippines, Indonesia, Palau, Yap, Taiwan, and Papua New Guinea.
+03:27
+1405/03/18
+
+
+
+
+src :@GeoPWatch
+[عکس]
 ‏🌊 — Threat of a destructive tsunami for the Philippines and its surroundings.
 ‏
 ‏@GeoPWatch
@@ -1703,18 +1771,6 @@ src :@P_raetorio
 
 
 
-src :@IranintlTV
-[عکس]
-‏دفتر ارتباطات شرکت شهر فرودگاهی «امام خمینی» اعلام کرد که طبق اطلاعیه صادره از سوی سازمان هواپیمایی کشوری، از بامداد ۱۸ خرداد ماه ۱۴۰۵، و تا اطلاع ثانوی، کلیه پروازهای این فرودگاه متوقف شده است.
-‏
-‏سازمان هواپیمایی نیز اعلام کرده بود بخش غربی فضای پروازی کشور تا اطلاع بعدی بسته است.
-‏https://iranintl.com/202606075158
-01:23
-1405/03/18
-
-
-
-
 src :@naya_foriraq
 ‏ترمب لنيويورك بوست: الأمور تسير بشكل جيد وأي تصعيد إضافي لن يؤدي إلا إلى عرقلة المفاوضات
 01:23
@@ -1906,15 +1962,6 @@ src :@wfwitness
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇮🇷المتحدث بإسم الخارجية الإيرانية إسماعيل بقائي.
-01:16
-1405/03/18
-
-
-
-
 src :@VahidOnline
 ‏خبرگزاری تسنیم: "صدایی که دقایقی پیش در تهران شنیده شد مربوط به رعد و برق است و این صدا ارتباطی با پدافند یا موضوع نظامی نداشته است."
 ‏
@@ -2039,15 +2086,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇮🇷 — Israeli official to Israel Hayom:
-‏We will respond to the attack, even if it does not happen in the immediate timeframe.
-01:10
-1405/03/18
-
-
-
-
 src :@selena_updates
 ‏Nothing else will happen tonight. 
 ‏See you tomorrow morning 🇮🇱 time.
@@ -2075,18 +2113,6 @@ src :@intelslava
 ‏
 ‏“Almost everything depends on Trump. I think that Netanyahu is not in a position to say no to Trump if [he] will sound very devoted and threatening Netanyahu … if he will not obey.”
 ‏@IntelSlava
-01:09
-1405/03/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏تسنیم، خبرگزاری وابسته به سپاه، به نقل از یک منبع نظامی نوشت که حجم مناسبی از موشک‌های جمهوری اسلامی هم‌اکنون آماده‌اند تا در صورتی که اسرائیل به حملات پاسخ دهد، بلافاصله به سمت فهرست‌ اهداف گستر‌ده‌تر در اسرائیل شلیک شوند: «نوبت بعدی شلیک‌های جمهوری اسلامی، پرحجم‌تر خواهد بود.»
-‏
-‏رسانه سپاه به نقل از این منبع نظامی نوشت که جمهوری اسلامی برای آغاز نبرد گسترده در صورت پاسخ اسرائیل آماده است و این کشور باید این هشدار را به گوش بسپارد.
-‏https://iranintl.com/202606079840
 01:09
 1405/03/18
 
@@ -2710,20 +2736,6 @@ src :@bricsnews
 
 
 
-src :@IranintlTV
-[عکس]
-‏نفتالی بنت، نخست‌وزیر پیشین اسرائیل، در واکنش به حملات موشکی جمهوری اسلامی به اسرائیل، در شبکه ایکس نوشت: «خویشتنداری یا واکنشی نمادین، این پیام را به دشمنان ما منتقل خواهد کرد که ریختن خون شهروندانمان بی‌هزینه است؛ از این‌رو اسرائیل باید با قدرت و به‌طور موثر عمل کند.»
-‏
-‏بنت نوشت: «این یک لحظه آزمون است: «آیا اسرائیل کشوری دارای حاکمیت است که توانایی دفاع از خود را دارد؟»
-‏
-‏نخست‌وزیر پیشین اسرائیل نوشت: «در این موضوع، همه ما، تمامی شهروندان اسرائیل، در کنار یکدیگر ایستاده‌ایم.»
-‏https://iranintl.com/202606070288
-00:55
-1405/03/18
-
-
-
-
 src :@wfwitness
 ‏⚡️🇺🇸🇮🇱 Ynet: The United States has told Israel to wait a few days to see if a deal can be reached with Iran. If not, Washington said it would pursue joint action, and it would be unwise to waste the opportunity on limited retaliatory strikes.  
 ‏
@@ -2986,14 +2998,6 @@ src :@selena_updates
 ‏IDF Chief of Staff Lt. Gen. Eyal Zamir during an assessment with the military's top brass says: The IDF will strike the enemy with force the moment the green light is given.
 ‏
 ‏The Israeli Army: The Iranian regime tried to establish a new equation after our targeting of the Beirut suburb, but we will not allow it. We are ready for more missile launches from Iran against us. The Iranian regime made a grave mistake when it resumed practicing terrorism against us.
-00:49
-1405/03/18
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸🇮🇱 — President Trump and Prime Minister Netanyahu are currently holding a phone call.  @GeoPWatch
 00:49
 1405/03/18
 
@@ -3387,23 +3391,6 @@ src :@bricsnews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇮🇱  The Iranian Foreign Ministry has announced that its armed forces has carried out defensive strikes against Israeli military targets in northern Israel in response to repeated Israeli violations of the 8 April ceasefire and aggressive actions against Lebanon and Iran. Tehran said it acted under Article 51 of the UN Charter.  
-‏
-‏The statement accused the United States of direct responsibility for Israeli ceasefire violations and warned that any Israeli adventurism against Lebanon or Iran will be met with a “crushing and comprehensive response” from Iran’s armed forces.  
-‏
-‏"Following repeated violations of the ceasefire… and continued aggressive acts by the Zionist regime against Lebanon and the Islamic Republic of Iran, including complicity with the US terrorist army in attacks on Iranian ships and targets, the armed forces of the Islamic Republic of Iran struck several military targets in the north of the occupied Palestinian territories,” the statement said.  
-‏
-‏“The US government bears direct responsibility for the Zionist regime’s ceasefire violations, their consequences, and any further escalation in the region.”  
-‏
-‏@wfwitness
-00:42
-1405/03/18
-
-
-
-
 src :@ClashReport
 ‏NEW: Imam Khomeini Airport in Tehran suspends flights until further notice.
 00:42
@@ -3733,18 +3720,6 @@ src :@Indypersian
 
 
 
-src :@IranintlTV
-[عکس]
-‏کانال ۱۲ اسرائیل گزارش داد بنیامین نتانیاهو و دونالد ترامپ در حال حاضر در حال گفت‌وگو هستند.
-‏
-‏همزمان نماینده اسرائیل در سازمان ملل در شبکه ایکس خطاب به ترامپ نوشت: آقای رییس‌جمهور، جمهوری اسلامی شما را فریب می‌دهد، اسرائیل به شما احترام می‌گذارد. اسرائیل باید با قدرت پاسخ دهد.
-‏https://iranintl.com/202606073571
-00:32
-1405/03/18
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷🇮🇱⚡- Israeli opposition Naftali Bennett blasts Netanyahu for not responding to the Iranian attacks.   "Is Israel a sovereign state capable of defending itself?" - Bennett.
 00:32
@@ -3947,17 +3922,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:25
-1405/03/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ به اکسیوس گفت: حملات جمهوری اسلامی به کسی آسیبی نزده است. امیدوارم اسرائیل تلافی نکند. اگر نتانیاهو پاسخ دهد، این درگیری مثل ۴۷ سال گذشته یا حتی ۳۰۰۰ سال گذشته ادامه پیدا می‌کند.
-‏او افزود: ما خیلی به یک توافق نهایی با تهران نزدیک هستیم و نمی‌خواهم به‌خاطر اتفاقاتی که الان در حال رخ دادن است، همه چیز از بین برود.
-‏https://iranintl.com/202606071626
-00:24
 1405/03/18
 
 
@@ -4314,18 +4278,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[عکس]
-‏سخنگوی ارتش اسرائیل گفت حکومت ایران اشتباه بزرگی مرتکب شد. اسرائیل موازنه‌ای را که تهران در پی ایجاد آن است نخواهد پذیرفت.
-‏
-‏او افزود ارتش در حالت آماده‌باش قرار دارد و برای حملات دیگر جمهوری اسلامی آماده‌ است.
-‏https://iranintl.com/202606070458
-00:11
-1405/03/18
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏لاشه در حال سوختن هواگرد ناشناسی که ساعتی قبل و همزمان با حملات موشکی از ایران به اسرائیل در منطقه حد فاصل کربلا و بادیه الانبار در عراق سقوط کرد.  هنوز اطلاعاتی از مدل و مبدا هواگرد کسب نشده است.  @Minas_Tirith2024
@@ -4388,16 +4340,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:10
-1405/03/18
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی چشم‌انداز: هزینه‌های ترسناک اقدامات جنون‌آمیز سپاه برای آینده ایران
-‏@iranintlTV
-00:09
 1405/03/18
 
 
@@ -4578,18 +4520,6 @@ src :@Shin_Persian
 src :@Shin_Persian
 ‏↩️ Quoted tweet:  𝓂𝒶𝓇𝒾𝑜🇱🇧🇬🇧🇦🇪 ✓  @MarioLeb79 Sun, 07 Jun 2026 20:08:18 UTC  🚨Trump to Barak Ravid: I will call Netanyahu now - and tell him not to attack Iran  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  فارسی  🚨 ترامپ به باراک راوید: اکنون با نتانیاهو…
 00:04
-1405/03/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏سخنگوی قرارگاه مرکزی خاتم‌الانبیا گفت: «قبلا اخطار داده بودیم در صورت گسترش حملات در ضاحیه بیروت، اهدافی را در اسرائیل مورد هجوم قرار می دهیم.»
-‏
-‏او افزود: «ارتش اسرائیل باید حملات خود به جنوب لبنان و ضاحیه را متوقف نماید و در صورت گسترش حملات خود به آن منطقه و یا پاسخ به اقدام جمهوری اسلامی با ضربات کوبنده‌تر و پشیمان‌کننده روبرو و حملات ویرانگری علیه اسرائیل و حامیان آن آغاز خواهد شد.»
-‏https://iranintl.com/202606076398
-00:03
 1405/03/18
 
 
