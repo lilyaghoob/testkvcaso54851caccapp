@@ -1,3 +1,24 @@
+src :@GeoPWatch
+[عکس]
+‏🌊 — 60cm tsunami wave in North Sulawesi, Indonesia.
+04:16
+1405/03/18
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇮🇷 — An Israeli official told Israel Hayom: 
+‏
+‏"Israel will retaliate for Iran's attack, even if not immediately".
+‏
+‏@TheWarReporter
+04:13
+1405/03/18
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️وزارت خارجه آمریکا به شهروندان خود که در اردن حضور دارند هشدار داده است به دلیل وجود موشک‌ها در آسمان این کشور، در پناهگاه‌ها مستقر شوند.
@@ -1228,14 +1249,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 01:56
-1405/03/18
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏RASTAKHIZ pinned «🔶 مخاطبان عزیز به نظر میرسد اینترنت جهانی ضعیف تر شده و احتمالا تا ساعاتی دیگر قطع شود  در چنین وضعیتی احتمالا به ناچار و به جهت مبارزه با انتشار اخبار دروغین رسانه های ارزشی و حفظ ارتباط در اپلیکیشن بله به ادرس زیر در خدمت شما خواهیم بود   @RASTAKHIZ_PERSIAN»
-01:55
 1405/03/18
 
 
@@ -4761,14 +4774,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — US President Trump:  "No one was hurt in the missile attack. If Netanyahu responds, this will continue and continue.   We are very close to a deal to end the war, and it will be a good deal.   I don't want this to derail the agreement. Both sides…
-23:50
-1405/03/17
-
-
-
-
 src :@didarnews1
 ‏🔴ادعای باراک راوید خبرنگار اکسیوس:
 ‏
@@ -5372,6 +5377,16 @@ src :@mohem_mat
 ‏ از حملات امروز اسرائیل به لبنان راضی نیست و این اقدامات با آن‌ها هماهنگ نشده بود.
 ‏
 ‏@mohem_mat
+23:33
+1405/03/17
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏ترامپ می‌گوید از حملات اسرائیل به لبنان خوشحال نیست و این حملات با هماهنگی ایالات متحده انجام نشده‌اند.
+‏
+‏منبع: فاکس نیوز
 23:33
 1405/03/17
 
