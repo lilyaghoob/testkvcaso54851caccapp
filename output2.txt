@@ -1,3 +1,31 @@
+src :@GeoPWatch
+‏🌊 — 0.5m tsunami near Davao City, Phillipines.
+‏
+‏@GeoPWatch
+04:42
+1405/03/18
+
+
+
+
+src :@GeoPWatch
+‏🇱🇧- Al-Jazeera reports that explosions have been heard in Beirut, though no signs of attacks have been observed in the city or its southern suburbs. Some reports suggest the sounds may be related to interceptions taking place in Lebanese airspace.
+‏
+‏@GeoPWatch
+04:41
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+‏🌟سماع دوي انفجار قوي في العاصمة العراقية بغداد
+04:38
+1405/03/18
+
+
+
+
 src :@tabzlive
 ‏🇵🇭⚡️ — High school and university buildings in the city of General Santos, Philippines, were heavily damaged as a result of the powerful earthquake.
 04:33
@@ -515,16 +543,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇵🇭‼️ — 8.6 earthquake hits the Philippines.
-‏
-‏@GeoPWatch
-03:15
-1405/03/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️یک مقام ارشد کاخ سفید به روزنامه اسرائیل هیوم گفت، دونالد ترامپ، رئیس‌جمهوری آمریکا، در تماس تلفنی با بنیامین نتانیاهو در شامگاه یکشنبه بار دیگر تأکید کرده است که متعهد است اجازه ندهد ایران به سلاح هسته‌ای دست پیدا کند یا منطقه و اسرائیل را تهدید کند، اما در عین حال در این مرحله بر عدم تشدید تنش با تهران پافشاری کرده تا مذاکرات آمریکا و تهران برای دستیابی به توافق ادامه پیدا کند.
@@ -534,18 +552,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 03:13
-1405/03/18
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷 — The late Ali Khamenei's Hebrew-language X account posts a quote said by him in 2019: 
-‏Today, the resistance front is more unified than at any time in the past forty years.
-‏
-‏@GeoPWatch
-03:12
 1405/03/18
 
 
@@ -895,23 +901,6 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 02:26
-1405/03/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸⚡️ — President Trump's call with Israeli PM Netanyahu has ended.
-02:26
-1405/03/18
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇱🇱🇧⚡️ — President Trump told Fox News that the Israeli strikes on Beirut's Dahieh earlier today were not coordinated with the U.S., adding that "he's not happy about it."
-02:24
 1405/03/18
 
 
@@ -1944,14 +1933,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 01:26
-1405/03/18
-
-
-
-
-src :@naya_foriraq
-‏ترمب لنيويورك بوست: الأمور تسير بشكل جيد وأي تصعيد إضافي لن يؤدي إلا إلى عرقلة المفاوضات
-01:23
 1405/03/18
 
 
