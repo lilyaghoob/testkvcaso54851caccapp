@@ -1,3 +1,139 @@
+src :@GeoPWatch
+‏🇮🇷 — Air defense activity in Kermanshah, Iran.
+‏
+‏@GeoPWatch
+08:56
+1405/03/18
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش‌ها: پدافند هوایی ایران در کرمانشاه با اهداف متخاصم درگیر شده است
+‏
+‏منابع رصدی گزارش داده‌اند سامانه‌های پدافند هوایی ایران در آسمان کرمانشاه برای مقابله با پرتابه‌ها یا اهداف متخاصم فعال شده‌اند.
+‏
+‏✍🏻 Hector
+‏▪️@World_Newsly
+08:56
+1405/03/18
+
+
+
+
+src :@MilitarryWorld
+‏⭕️کانال ۱۲ اسرائیل:
+‏
+‏ تمام فعالیت‌ها و تجمعات لغو و موسسات آموزشی در سراسر اسرائیل تعطیل شدند
+‏
+‏@MilitarryWorld | Parsa
+08:56
+1405/03/18
+
+
+
+
+src :@wfwitness
+‏Air Defense activity in Kermanshah, Iran
+08:56
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+‏تفعيل الدفاعات الجوية في كرمانشاه
+08:54
+1405/03/18
+
+
+
+
+src :@World_Newsly
+‏🔴کانال ۱۲ اسرائیل: تمام فعالیت‌ها و تجمعات لغو و موسسات آموزشی در سراسر اسرائیل تعطیل شدند
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+08:54
+1405/03/18
+
+
+
+
+src :@naya_foriraq
+‏هيئة البث الإسرائيلية: انتقال مستشفى سوروكا بالنقب للعمل داخل الأماكن المحصنة لاستقبال حالات الطوارئ فقط
+08:54
+1405/03/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏روزنامه معاریو:
+‏
+‏🔴ارتش اسرائیل حمله به اهداف جدید در ایران را آغاز کرده است.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+08:54
+1405/03/18
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇮🇷 — IRGC: 
+‏
+‏"We are ready to carry out operations on all fronts and have planned our response based on various enemy scenarios".
+‏
+‏@TheWarReporter
+08:53
+1405/03/18
+
+
+
+
+src :@World_Newsly
+‏🔴اینکه هنوز اینترنتو قطع نکردن، یعنی آتش‌بس حالا حالا ها نقض بشو نیست
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+08:53
+1405/03/18
+
+
+
+
+src :@rnintel
+‏🇾🇪⚡️- An announcement to be made by Ansarullah in 40 minutes.
+08:53
+1405/03/18
+
+
+
+
+src :@rnintel
+‏🇺🇸🇬🇧🇩🇬⚡- The United Kingdom has dropped the bill to hand over the Chagos Islands to Mauritius.   The largest island in the archipelago, Diego Garcia, is home to the joint US/UK-operated base, which is the largest American installation in the Indian Ocean.…
+08:52
+1405/03/18
+
+
+
+
+src :@World_Newsly
+‏🔴 روزنامه «معاریو»: ارتش اسرائیل حمله به اهداف جدید در ایران را آغاز کرده است.
+‏
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+08:52
+1405/03/18
+
+
+
+
 src :@MilitarryWorld
 ‏🚨منابع اسراییلی:بیمارستان‌های شمال شروع به انتقال بخش‌های اورژانس به پناهگاه‌های زیرزمینی محافظت‌شده کردن
 ‏
@@ -697,26 +833,6 @@ src :@mohem_mat
 
 
 
-src :@World_Newsly
-‏🔴 🚨 کانال ۱۲عبری: طی چندساعت اخیر به ۲۰ هدف تو ایران حمله کردیم.
-‏
-‏
-‏✍🏻 Cybex
-‏▪️@World_Newsly
-08:30
-1405/03/18
-
-
-
-
-src :@World_Newsly
-‏🔴 تصاویر منتشرشده از پتروشیمی ماهشهر پس از حملات اسرائیل  ویدئوهای منتشرشده، بخش‌هایی از مجتمع پتروشیمی در ماهشهر را پس از حملات هوایی اسرائیل نشان می‌دهد.  ✍🏻 Punisher ▪️@World_Newsly
-08:30
-1405/03/18
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇮🇷 Footage from a petrochemical plant in in Mahshahr, Iran following Israeli airstrikes of the second wave.  @wfwitness
@@ -1381,14 +1497,6 @@ src :@jangaavaran1390
 
 
 
-src :@naya_foriraq
-‏رشقة ضخمة الان
-08:10
-1405/03/18
-
-
-
-
 src :@Middle_East_Spectator
 ‏Intercepted by Tomato King (Jordan).
 08:10
@@ -1801,17 +1909,6 @@ src :@wfwitness
 ‏We will only share the information you explicitly allow us to share.
 ‏
 ‏You can contact us securely through this bot: @WarfrontWitness_Bot
-08:04
-1405/03/18
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇮🇱- More launches from Iran towards Jerusalem and its surroundings.
-‏
-‏@GeoPWatch
 08:04
 1405/03/18
 
@@ -2362,14 +2459,6 @@ src :@Middle_East_Spectator
 ‏—❗️🇮🇱/🇵🇸 NEW: Red Alert in Zikim, near the Gaza Strip
 ‏
 ‏@Middle_East_Spectator
-07:52
-1405/03/18
-
-
-
-
-src :@wfwitness
-‏A single interception attempt by David’s sling
 07:52
 1405/03/18
 
@@ -3486,14 +3575,6 @@ src :@mwarmonitor
 
 
 
-src :@rnintel
-‏🇾🇪🇮🇱⚡️- BREAKING: Missile launch detected from Yemen towards Israel.
-06:31
-1405/03/18
-
-
-
-
 src :@intelslava
 ‏🇾🇪🇮🇱⚡ A ballistic missile has been launched from Yemen toward Israel.  @IntelSlava13
 06:31
@@ -3629,14 +3710,6 @@ src :@Indypersian
 
 
 
-src :@rnintel
-‏🇾🇪🇮🇱⚡️- BREAKING: Missile launch detected from Yemen towards Israel.
-06:22
-1405/03/18
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏روزنامه معاریو نوشت نیروی هوایی اسرائیل در پاسخ به حمله موشکی جمهوری اسلامی در شب گذشته، به اهداف نظامی در غرب و مرکز ایران حمله کردند.
@@ -3732,14 +3805,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷🇸🇦⚡️- The attack has ended.
-06:11
-1405/03/18
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🚨دفاع مدنی عربستان سعودی می‌گوید هشدار اولیه در شهر الخرج برای آگاه‌سازی از خطر احتمالی صادر شده است. رویترز   @mwarmonitor
@@ -3770,14 +3835,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 06:09
-1405/03/18
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷🇸🇦⚡️- At least two explosions have been reported in the vicinity of Prince Sultan Air Base, Saudi Arabia.
-06:08
 1405/03/18
 
 
@@ -3938,18 +3995,6 @@ src :@mwarmonitor
 ‏🔴جبهه داخلی اسرائیل: از همه اسرائیلی‌ها می‌خواهیم نزدیک پناهگاه‌ها بمانند و از تجمع خودداری کنند.
 ‏
 ‏@mwarmonitor
-05:57
-1405/03/18
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏آتش‌نشانی تهران اعلام کرد: صبح دوشنبه دست کم صدای ۲ انفجار حوالی ساعت ۴:۴۳ و ۴:۴۵ در نقاط مختلفی از غرب تهران شنیده شد و ادعاهایی درباره هدف قرار گرفتن فرودگاه مهرآباد منتشر شده است. سخنگوی آتش نشانی تهران از آماده باش آتش‌نشانی خبر داد، اما اعلام کرد که نقاط شهری در تهران هدف قرار نگرفته‌اند.
-‏@VahidOOnLine
-‏
-‏📡 @VahidOnline
 05:57
 1405/03/18
 
@@ -4676,16 +4721,6 @@ src :@mohem_mat
 
 
 
-src :@MilitarryWorld
-‏⭕️هم اکنون گزارشات از صدای انفجار در اصفهان 
-‏
-‏@MilitarryWorld | Maverick
-04:49
-1405/03/18
-
-
-
-
 src :@defence_news
 ‏المیادین هم خبر از صدای انفجار در بغداد می دهد .
 ‏
@@ -4800,22 +4835,6 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 04:43
-1405/03/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏آکسیوس به نقل از یک مقام ارشد آمریکایی و یک منبع اسرائیلی مطلع از جزئیات تماس تلفنی دونالد ترامپ و بنیامین نتانیاهو گزارش داد رئیس‌جمهوری آمریکا از نخست‌وزیر اسرائیل خواسته حمله موشکی جمهوری اسلامی را تلافی نکند و برای پیشبرد مذاکرات، به دیپلماسی فرصت بیشتری بدهد. 
-‏
-‏به گفته این مقام، ترامپ تأکید کرده واشینگتن به دستیابی به توافق با تهران نزدیک شده و هرگونه تشدید تنش می‌تواند روند گفت‌وگوها را مختل کند. او در این تماس گفته است: «ما به انجام کاری خوب در زمینه توافق نزدیک شده‌ایم.» 
-‏
-‏نتانیاهو در ابتدا با این درخواست مخالفت کرده، اما در نهایت «به‌ظاهر موافقت کرده» پاسخ را به تعویق بیندازد. 
-‏
-‏به گفته منبع آمریکایی، این تماس نسبت به گفت‌وگوی پرتنش هفته گذشته آرام‌تر بوده است. او افزود ترامپ معتقد است پس از سه ماه درگیری، اکنون زمان پایان دادن به بحران و حرکت به سوی یک توافق نهایی فرا رسیده است و باید از اقداماتی که می‌تواند مسیر دیپلماسی را به خطر بیندازد، پرهیز شود.
-‏https://iranintl.com/202606084266
-04:29
 1405/03/18
 
 
@@ -5563,14 +5582,6 @@ src :@Minas_Tirith2024
 [عکس]
 ‏لاشه در حال سوختن هواگرد ناشناسی که ساعتی قبل و همزمان با حملات موشکی از ایران به اسرائیل در منطقه حد فاصل کربلا و بادیه الانبار در عراق سقوط کرد.  هنوز اطلاعاتی از مدل و مبدا هواگرد کسب نشده است.  @Minas_Tirith2024
 00:42
-1405/03/18
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — US President Trump told Axios:  "I will call Netanyahu now and tell him not to strike Iran in response".  @TheWarReporter
-00:41
 1405/03/18
 
 
