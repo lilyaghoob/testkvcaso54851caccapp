@@ -1,3 +1,38 @@
+src :@rus_cosmos
+[عکس]
+‏بیشترین فاصله بین انسان‌ها در فضا
+‏
+‏وقتی خدمه آرتمیس-۲ نزدیک نیمه پشت ماه بودند و هم‌زمان فضانوردان دیگری در ایستگاه فضایی چین حضور داشتند، 
+‏
+‏فاصله بین دو گروه انسان در فضا به حدود ۴۱۹،۶۴۳ کیلومتر رسید؛ این هم به‌عنوان رکورد جدید بیشترین فاصله بین انسان‌ها مطرح شد.
+‏
+‏@rus_cosmos
+02:55
+1405/03/19
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇷 — US President Trump says the U.S. will declare 'total victory' over Iran in the next two weeks.
+‏
+‏@TheWarReporter
+02:54
+1405/03/19
+
+
+
+
+src :@tabzlive
+‏🇭🇷🇸🇰⚡️ — Croatia and Slovakia signed a letter of intent on Monday aimed at expanding bilateral defense cooperation.
+‏
+‏Under the agreement, Slovakia plans to procure combat protective helmets from Croatia, while offering cooperation in the areas of ammunition production and armored vehicles, opening a new phase of defense-industrial collaboration between the two countries.
+02:53
+1405/03/19
+
+
+
+
 src :@Middle_East_Spectator
 ‏— 🇺🇸/🇮🇷 President Trump: ‘Iran is going to give us everything we want’
 ‏
@@ -10,7 +45,7 @@ src :@Middle_East_Spectator
 
 src :@tabzlive
 [عکس]
-‏🇹🇷🇻🇪⚡️ — Turkish President Erdoğan and Venezuela's Interim President Delcy Rodríguez discussed expanding cooperation in trade, energy, and mining. 
+‏🇹🇷🇻🇪⚡️ — Turkish President Erdoğan and Venezuela's Interim President Delcy Rodríguez discussed expanding cooperation in trade, energy, and mining, on Monday. 
 ‏
 ‏The two leaders also reviewed steps aimed at increasing bilateral trade to $3 billion and exchanged views on regional and international developments. 
 ‏
@@ -1533,14 +1568,6 @@ src :@Indypersian
 
 src :@tabzlive
 ‏🇮🇷🇺🇸⚡️ — An Iranian official to Al Jazeera: Any breach of the ceasefire could affect the negotiations, and Iran will not tolerate dealing with this matter lightly.  Stability and security in the region can only be achieved through the existence of a genuine…
-00:06
-1405/03/19
-
-
-
-
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — NEW: An Iranian official to Al Jazeera: Washington has made changes to the draft memorandum of understanding, and this is unacceptable.
 00:06
 1405/03/19
 
@@ -5278,18 +5305,6 @@ src :@Artemis_Force
 
 
 
-src :@thewarreporter
-‏🇮🇱🇱🇧🇱🇧 — An Israeli official told Channel 12: 
-‏
-‏"The attacks in southern Lebanon will continue with full force in the coming days".
-‏
-‏@TheWarReporter
-16:50
-1405/03/18
-
-
-
-
 src :@intelslava
 ‏🇮🇷🇮🇱❗️Iran's Civil Aviation Organization announces complete suspension of all flights across every Iranian airport, with no timeline given for resumption.
 16:48
@@ -6526,15 +6541,6 @@ src :@warmonitors
 src :@warmonitors
 ‏⚡Israeli Army Radio, citing sources: The attacks on Iran were solely Israeli, but the United States helped by intercepting some of the missiles.
 12:42
-1405/03/18
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏فرودگاه بن‌گورین بازگشایی شد
-12:35
 1405/03/18
 
 
