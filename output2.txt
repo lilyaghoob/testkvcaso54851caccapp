@@ -1,3 +1,56 @@
+src :@bricsnews
+‏JUST IN: 🇺🇸 US crew rescued after helicopter goes down near Strait of Hormuz.
+‏
+‏@BRICSNews
+08:00
+1405/03/19
+
+
+
+
+src :@World_Newsly
+‏🔴 فارس: تجهیزات هدایت و پشتیبانی جنگنده‌های اسرائیلی در جنگل‌های تنکابن کشف شد
+‏
+‏خبرگزاری فارس گزارش داد مجموعه‌ای از تجهیزات فنی و سامانه‌های زمین‌پایه که گفته می‌شود برای پشتیبانی و هدایت جنگنده‌های مهاجم مورد استفاده قرار می‌گرفته، در ارتفاعات جنگلی شهرستان تنکابن در استان مازندران کشف و جمع‌آوری شده است.
+‏بر اساس این گزارش، این تجهیزات در یکی از مسیرهای اصلی ورود جنگنده‌ها به حریم هوایی تهران مستقر بوده‌اند.
+‏فارس مدعی شده منطقه مورد نظر در جریان «جنگ رمضان» یکی از کریدورهای اصلی ورود جنگنده‌های اسرائیلی برای اجرای حملات علیه تهران و مناطق شمالی کشور محسوب می‌شده است.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+08:00
+1405/03/19
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏نیویورک‌تایمز به نقل از دو فرد آگاه گزارش داد یک بالگرد تهاجمی آپاچی ارتش آمریکا دوشنبه در نزدیکی تنگه هرمز سقوط کرد و دو خدمه آن به‌طور ایمن نجات یافتند.
+‏یکی از این افراد به نیویورک‌تایمز گفت این حادثه در دست بررسی است و هنوز مشخص نیست که آیا این بالگرد با شلیک نیروهای جمهوری اسلامی سرنگون شده، دچار نقص فنی شده یا با مشکل دیگری مواجه شده است.
+‏کاخ سفید و ستاد فرماندهی مرکزی آمریکا هنوز در این مورد اظهار نظر نکرده‌اند.
+‏
+‏https://iranintl.com/202606098877
+07:59
+1405/03/19
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇨🇳 - The Pentagon adds some of Chinese biggest technology firms into 'blacklist' for alleged ties to the Chinese military.
+‏
+‏Entry into the 1260H list does not automatically trigger a sanction, but it significantly complicates the companies' business with US entities and especially the US government.
+‏
+‏Notable targets of this measure include Alibaba, Baidu, BYD, Nio...
+‏
+‏China is widely expected to retaliate.
+07:59
+1405/03/19
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏ایکیروی کوراساوا اقتباسی از مرگ ایوان ایلیچه و کل فیلم ستایش زندگیه. فیلمو میشه تو این ترانه که تو خود فیلم خونده میشه خلاصه کرد: زندگی کوتاه است، عاشق شوید ای دختران پیش از آنکه رنگ سیاه موهایتان برود پیش از آنکه آتش دلتان خاموش شود چرا که امروز دیگر هرگز…
@@ -85,7 +138,7 @@ src :@mohem_mat
 
 
 src :@GeoPWatch
-‏🇺🇸 — New York Times, citing two people briefed on the incident, reports that a U.S. Army AH-64 "Apache" attack helicopter crashed near the Strait of Hormuz on Monday, June 1. Both pilots were rescued. It is unclear how the helicopter crashed.   Apaches are…
+‏🇺🇸 — New York Times, citing two people briefed on the incident, reports that a U.S. Army AH-64 "Apache" attack helicopter crashed near the Strait of Hormuz today on Monday, June 8. Both pilots were rescued. It is unclear how the helicopter crashed.   Apaches…
 07:38
 1405/03/19
 
@@ -226,7 +279,7 @@ src :@wfwitness
 
 
 src :@GeoPWatch
-‏🇺🇸 — New York Times, citing two people briefed on the incident, reports that a U.S. Army AH-64 "Apache" attack helicopter crashed near the Strait of Hormuz on Monday, June 1. Both pilots were rescued. It is unclear how the helicopter crashed. 
+‏🇺🇸 — New York Times, citing two people briefed on the incident, reports that a U.S. Army AH-64 "Apache" attack helicopter crashed near the Strait of Hormuz today on Monday, June 8. Both pilots were rescued. It is unclear how the helicopter crashed. 
 ‏
 ‏Apaches are part of CENTCOM's package used as part of their attempts to reverse Iranian control of the Strait of Hormuz, and have flown numerous sorties in the waterway.
 07:34
@@ -1606,16 +1659,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: صد روز بدون خامنه‌ای
-‏@iranintlTV
-01:36
-1405/03/19
-
-
-
-
 src :@World_Newsly
 ‏🔴 ایروانی: ایران و آمریکا از طریق پاکستان در حال تبادل دیدگاه هستند
 ‏
@@ -2751,18 +2794,6 @@ src :@mohem_mat
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇪🇺❌🇮🇷 - The EU imposes sanctions on two Iranian officials and the IRGC provincial command in Hormozgan over the Hormuz blockade.
-‏
-‏Kaja Kallas, EU head diplomat, told a press conference:
-‏Iran's actions are ⁠unacceptable. In response, member states have approved sanctions against Iranian entities and individuals involved in disrupting transit through the Strait of Hormuz.
-23:45
-1405/03/18
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪دوستان سرپرست یک خانواده متاسفانه مریض احوال هستش و در قلب ایشون باتری و حتی انژیو هم شدند که جواب نگرفتند و لخته ها از بین نرفته و به گفته دکتر باید عمل قلب باز انجام بشه
@@ -3300,19 +3331,6 @@ src :@defence_news
 ‏
 ‏مستندات و  بازید آرشیو 📥📥📥🔗📎
 ‏💰@AC_academy45💵
-22:38
-1405/03/18
-
-
-
-
-src :@jangaavaran1390
-‏بازرسان دولتی دانمارک اعلام کردند وزارت دفاع این کشور تصویر کاملی از هزینه‌های خرید نخستین ۲۷ فروند جنگنده F-35 لایتنینگ ۲ نداشته و پارلمان را نیز به‌درستی از افزایش هزینه‌ها مطلع نکرده است.
-‏برآورد اولیه این قرارداد ۵۷.۱ میلیارد کرون دانمارک (حدود ۸.۸ میلیارد دلار) بود، اما با وجود هشدارهای چندین ساله درباره افزایش هزینه‌ها، این رقم تا ژانویه ۲۰۲۶ همچنان مبنای رسمی اعلام می‌شد.
-‏بر اساس گزارش جدید، هزینه نهایی برنامه حدود ۱۴ میلیارد کرون (۲.۲ میلیارد دلار) بیشتر از برآورد اولیه خواهد بود.
-‏وزارت دفاع دانمارک ضمن پذیرش انتقادات اعلام کرد نظارت دقیق‌تری بر هزینه‌های خرید ۱۶ فروند دیگر F-35 اعمال خواهد کرد؛ جنگنده‌هایی که مجموع ناوگان این کشور را به ۴۳ فروند می‌رسانند.
-‏#دانمارک #اف35 #F35 #نیروی_هوایی #بودجه_دفاعی #جنگاوران
-‏https://t.me/jangaavaran1390
 22:38
 1405/03/18
 
@@ -6310,16 +6328,6 @@ src :@ircfspace
 src :@warmonitors
 ‏Don’t crash out, they are in fact as stupid as you think they are…
 14:47
-1405/03/18
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷 Iran says any attack on a member of the resistance axis will be met with a response.
-‏
-‏@BRICSNews
-14:45
 1405/03/18
 
 
