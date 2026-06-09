@@ -1,6 +1,114 @@
+src :@World_Newsly
+[عکس]
+‏🔴 دو پرواز ایران ایر از جده عربستان  به مقصد اعلام شده شیراز در حال پرواز هستند که مسیرش عوض شده
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+03:15
+1405/03/20
+
+
+
+
+src :@P_raetorio
+‏گزارش‌ها حاکی از فعالیت جنگنده‌های آمریکایی بر فراز جنوب عراق است.
+‏
+‏
+‏@P_raetorio
+03:15
+1405/03/20
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇺🇸/🇮🇷 NEW: Renewed strike against Sirik
+‏
+‏@Middle_East_Spectator
+03:15
+1405/03/20
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- An explosion has been reported near Bandar Sirik Naval Base once again.
+03:14
+1405/03/20
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏Tue, 09 Jun 2026 23:43:44 UTC
+‏
+‏IRGC trucks hiding in Pouneh tunnel, Lorestan Province, #Iran
+‏
+‏فارسی
+‏
+‏کامیون‌های سپاه پاسداران انقلاب اسلامی (IRGC) پنهان شده در تونل پونه، استان لرستان، #Iran
+‏
+‏𝕏  ·  @shin_persian
+03:13
+1405/03/20
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇮🇷/🇸🇦 NEW: Two Iran Air flights have taken off from Jeddah, Saudi Arabia, with the stated destination being Shiraz
+‏
+‏However, they clearly are not flying to Shiraz.
+‏
+‏@Middle_East_Spectator
+03:13
+1405/03/20
+
+
+
+
+src :@VahidOnline
+[عکس]
+‏خبرگزاری مهر به نقل از منابع محلی و ساکنان روستاهای اطراف، از شنیده شدن مجدد صدای چندین انفجار در محدوده شهرستان جاسک خبر داد. پیش‌تر حملات نظامی به بندر جاسک و کوه مبارک توسط منابع آگاه تایید شده بود و این حادثه، دومین موج از صداهای انفجار در این منطقه از آغازین ساعات بامداد چهارشنبه به شمار می‌رود.
+‏@VahidOOnLine
+‏من هم حدود ساعت ۲:۳۰ چند پیام از جاسک دریافت کرده بودم.
+‏خبرنگار آکسیوس هم به نقل از مقام آمریکایی گفته یک موج حمله دیگه انجام شده.
+‏📡 @VahidOnline
+03:13
+1405/03/20
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸🇮🇶- Fighter jet activity has been reported over southern Iraq.
 03:12
+1405/03/20
+
+
+
+
+src :@BellumActaNews
+‏🇺🇸❌🇮🇷❗️ — Iranian Air Defenses active over Qeshm Island, at the entrance of Hormuz Straits  @BellumActaNews
+03:12
+1405/03/20
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- BREAKING: A second wave of U.S. strikes is underway in southern Iran. - Israeli Channel 12.
+03:12
+1405/03/20
+
+
+
+
+src :@P_raetorio
+‏#فوری   گزارشات تأییدنشده از تعدادی انفجار در نجف   @P_raetorio
+03:11
 1405/03/20
 
 
@@ -346,6 +454,12 @@ src :@Middle_East_Spectator
 
 src :@mamlekate
 ‏📝 آمریکا در واکنش به سرنگونی هلیکوپتر آپاچی جنوب ایران را هدف قرار داد؛ سپاه به اهدافی در منطقه حمله کرد
+‏
+‏
+‏
+‏📝 یک مقام کاخ سفید: با وجود حمله‌های تلافی‌جویانه جدید آمریکا، توافق با تهران نزدیک است
+‏
+‏پولیتیکو به نقل از یک مقام کاخ سفید گزارش داد دونالد ترامپ، رییس‌جمهوری آمریکا، معتقد است با وجود موج جدید حملات تلافی‌جویانه آمریکا به اهدافی در جنوب ایران، توافق با جمهوری اسلامی نزدیک است.
 ‏
 ‏@mamlekate
 02:53
@@ -2046,14 +2160,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴 ارتش ترکیه مواضع گروه های کرد را در  سوریه و عراق بمباران کرد.     ✍🏻 CAPITANO ▪️@World_Newsly
-01:53
-1405/03/20
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏امشب از آن شب‌های شلوغ و پر از انفجار در تمامی نقاط خاورمیانه‌است   فقط مانده آذربایجان به ارمنستان حمله کند!    @P_raetorio
@@ -2499,16 +2605,6 @@ src :@MilitarryWorld
 
 
 
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 NEW: The U.S. attacks on Iran are ‘over’, according to an official
-‏
-‏@Middle_East_Spectator
-01:34
-1405/03/20
-
-
-
-
 src :@Minas_Tirith2024
 ‏تا این لحظه هیچ موشکی از خاک ایران به تلافی حملات شلیک نشده و کلیه اخبار شایعه سازی است 
 ‏
@@ -2541,18 +2637,6 @@ src :@MilitarryWorld
 ‏🚨فوری/فاکس نیوز: حملات هوایی آمریکا ادامه دارد
 ‏
 ‏@MilitarryWorld | Parsa
-01:33
-1405/03/20
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇮🇷/🇮🇶 NEW: Iran is bombing Erbil, Iraqi Kurdistan
-‏
-‏These are routine operations and unrelated to the U.S. attack.
-‏
-‏@Middle_East_Spectator
 01:33
 1405/03/20
 
@@ -2606,14 +2690,6 @@ src :@mwarmonitor
 src :@GeoPWatch
 ‏🇧🇭 — There are no explosions in Bahrain.
 01:31
-1405/03/20
-
-
-
-
-src :@GeoPWatch
-‏📝 There's a lot of misleading/false/impossible to confirm info circulating right now, be careful. No country has closed their airspace, there's no flight diversions occuring, and GCC countries have probably been on high alert for months now. We're carefully verifying everything before reporting!
-01:30
 1405/03/20
 
 
@@ -2723,17 +2799,6 @@ src :@wfwitness
 ‏⚡️🇺🇸 U.S. President Trump is currently posting about trade deficits on Truth Social.
 ‏
 ‏@wfwitness
-01:28
-1405/03/20
-
-
-
-
-src :@P_raetorio
-‏ترامپ هم این وسط با اراجیف بافتن و حرفای بی سر و ته مردم را سردرگم کرده است! 
-‏
-‏
-‏@P_raetorio
 01:28
 1405/03/20
 
@@ -2977,14 +3042,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏🖋#Ethan 
 ‏📃@Cataphract1
 01:24
-1405/03/20
-
-
-
-
-src :@P_raetorio
-‏#فوری   حملات هوایی اسرائیل به بیروت    @P_raetorio
-01:23
 1405/03/20
 
 
@@ -6136,34 +6193,6 @@ src :@Americana_ir
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓  @hey_itsmyturn Tue, 09 Jun 2026 16:40:55 UTC  POTUS: "I have just been informed by our Great Military that last night the Iranians shot down one of our highly sophisticated Apache Helicopters while patrolling over the Strait of Hormuz. There were two…
-20:11
-1405/03/19
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 09 Jun 2026 16:40:55 UTC
-‏
-‏POTUS:
-‏"I have just been informed by our Great Military that last night the Iranians shot down one of our highly sophisticated Apache Helicopters while patrolling over the Strait of Hormuz. There were two pilots involved, both are safe and uninjured. Nevertheless, the United States must, of necessity, respond to this attack. Thank you for your attention to this matter! President DONALD J. TRUMP"
-‏
-‏فارسی
-‏
-‏رئیس‌جمهور ایالات متحده (POTUS):
-‏«هم‌اکنون از سوی ارتش بزرگمان مطلع شدم که شب گذشته ایرانی‌ها یکی از بالگردهای بسیار پیشرفته آپاچی ما را در حین گشت‌زنی بر فراز تنگه هرمز سرنگون کردند. دو خلبان در این واقعه حضور داشتند که هر دو سالم و بدون جراحت هستند. با این وجود، ایالات متحده بنا بر ضرورت، باید به این حمله پاسخ دهد. از توجه شما به این موضوع سپاسگزارم! رئیس‌جمهور دونالد جی. ترامپ»
-‏
-‏𝕏  ·  @shin_persian
-20:11
-1405/03/19
-
-
-
-
 src :@Mena_Live
 ‏Trump: The Iranians shot down our Apache helicopter - we will respond
 ‏
@@ -6215,14 +6244,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 20:02
-1405/03/19
-
-
-
-
-src :@Shin_Persian
-‏جواب من می تونست خیلی معروف بشه. ولی نشد. چرا؟ چون همه مثل پدر رپ فارسی توماج (نه پادگان نه بنگاه) کتابخون نیستن 😭😭😭
-19:59
 1405/03/19
 
 
@@ -6409,24 +6430,6 @@ src :@warmonitors
 ‏⚡CNN
 ‏
 ‏Since March: Trump has said 38 times that the US is close to a deal with Iran and Iran is begging for a deal
-17:52
-1405/03/19
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏دو عضو نیروی پدافند هوایی ارتش ایران در حمله دیروز اسرائیل کشته شدند
-‏
-‏تاکنون در حملات دوشنبه و سه‌شنبه اسرائیل کشته‌ای گزارش نشده بود و ۱۵ زخمی اعلام شده بود.
-‏
-‏ارتش اسرائیل دیروز گفت حمله «همه‌جانبه‌ای» به سامانه‌های پدافندی راهبردی ایران کرده است.
-‏
-‏بنابر بیانیه‌ ارتش اسرائیل، در جنگ ۱۲ روزه پدافند ایران ضعیف شد اما بعد «سامانه‌های پدافندی در نقاط مختلف ایران» مستقر شدند تا توانشان را بازسازی کنند که در این حملات این سامانه‌ها منهدم شدند.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
 17:52
 1405/03/19
 
