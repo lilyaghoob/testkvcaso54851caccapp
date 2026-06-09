@@ -1263,14 +1263,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇮🇱 — Drone alerts are sounding in Eilat, southern Israel.
-00:37
-1405/03/19
-
-
-
-
 src :@mwarmonitor
 ‏🚨آژیرهای هشدار حمله احتمالی پهپادی در جنوبی‌ترین شهر ایلات به صدا درآمدند.
 ‏
