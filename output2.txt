@@ -1,5 +1,28 @@
+src :@World_Newsly
+[عکس]
+‏🔴 حملات پهپادی دیشب اوکراین به پالایشگاه ها در روسیه 
+‏
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+08:48
+1405/03/20
+
+
+
+
+src :@naya_foriraq
+‏إجلاء 3 جنود من جنوب لبنان
+08:46
+1405/03/20
+
+
+
+
 src :@P_raetorio
-‏سپاه واسداران در بیانیه اعلام کرد در پاسخ به حملات آمریکا،چندین پایگاه این کشور در منطقه را بل موشک‌های بالستیک هدف قرار داد و یک پهپاد MQ-9 آمریکایی را سرنگون کرد.
+‏سپاه پاسداران ساعتی پیش در بیانیه اعلام کرد در پاسخ به حملات آمریکا،چندین پایگاه این کشور در منطقه را بل موشک‌های بالستیک هدف قرار داد و یک پهپاد MQ-9 آمریکایی را سرنگون کرد.
 ‏
 ‏@P_raetorio
 08:46
@@ -865,39 +888,6 @@ src :@BellumActaNews
 
 
 
-src :@World_Newsly
-‏🔴گزارش انفجارهای جدید در بحرین
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:28
-1405/03/20
-
-
-
-
-src :@World_Newsly
-‏🔴 اکسیوس: حداقل چهار موشک بالستیک ایرانی به سمت پایگاه‌های نظامی آمریکا در بحرین، کویت و اردن شلیک شد.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:28
-1405/03/20
-
-
-
-
-src :@World_Newsly
-‏🔴حداقل یک انفجار در بحرین گزارش شده است.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:28
-1405/03/20
-
-
-
-
 src :@intelslava
 ‏🇮🇷❌🇺🇸🇧🇭 — NOW: Violent Explosion Sound Were Heard In Manama, Bahrain.  @IntelSlava
 06:25
@@ -1383,15 +1373,6 @@ src :@jangaavaran1390
 
 
 
-src :@naya_foriraq
-[عکس]
-‏انفجارات في الكويت
-05:46
-1405/03/20
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇷❌🇰🇼 — Kuwaiti Royal Army says that it is intercepting Iranian drones and Missiles as now
@@ -1425,16 +1406,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇮🇷❌🇺🇸🇰🇼- The Kuwaiti Army General Staff Headquarters has announced that they are currently attempting to intercept aerial targets.
 05:44
-1405/03/20
-
-
-
-
-src :@jangaavaran1390
-‏فرماندهی مرکزی ایالات متحده (CENTCOM) اعلام کرده است که حملات دفاعی خود را علیه ایران، که به دستور فرمانده کل قوا، رئیس‌جمهور دونالد ج. ترامپ انجام شده بود، به پایان رسانده است. این حملات در پاسخ به سرنگونی یک هلیکوپتر AH-64E آپاچی ارتش آمریکا در تنگه هرمز دیروز صورت گرفت.
-‏
-‏در چارچوب سری حملات تلافی‌جویانه امشب، هواپیماهای جنگنده و ضربتی نیروی هوایی و نیروی دریایی ایالات متحده از مهمات دقیق برای هدف قرار دادن سیستم‌های دفاع هوایی ایران، ایستگاه‌های کنترل زمینی و سایت‌های رادار نظارتی در سراسر جنوب ایران استفاده کردند و مکان‌هایی در داخل و اطراف تنگه هرمز را هدف قرار دادند
-05:43
 1405/03/20
 
 
@@ -3112,14 +3083,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 04:11
-1405/03/20
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- Explosions reported on Qeshm Island.
-04:10
 1405/03/20
 
 
@@ -4864,14 +4827,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@jangaavaran1390
-‏همزمان ترامپ در گفتگو با ABC می گوید که به نظرش پاسخ دادن مهم است و همین الان که صحبت می کنیم عملیات پاسخ در حال اجرا است.
-01:13
-1405/03/20
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏یک مقام آمریکایی ادامه حملات را تأیید کرد و گفت نیروهای ما به دفاع از خود به حملات علیه ایران ادامه می‌دهند و عملیات همچنان در جریان است
 01:13
@@ -4882,14 +4837,6 @@ src :@WAR_ROOM_NEWS
 
 src :@WAR_ROOM_NEWS
 ‏🔴گزارش انفجارها در بندرعباس
-01:10
-1405/03/20
-
-
-
-
-src :@jangaavaran1390
-‏سنتکام: نیرو های تحت فرماندهی سنتکام عملیات های دفاعی خود را در واکنش به سرنگونی بالگرد آمریکایی در روز گذشته آغاز کردند. این عملیات یک پاسخ متناسب در واکنش به تهاجم ناموجه ایران است.
 01:10
 1405/03/20
 
@@ -4918,16 +4865,6 @@ src :@Mena_Live
 ‏Communications Unit of the Revolutionary Guards' Space Force: A heavy response will be given to the hostile actions of the enemy.
 ‏
 ‏@Mena_Live
-01:07
-1405/03/20
-
-
-
-
-src :@jangaavaran1390
-‏سنتکام:
-‏نیرو های تحت فرماندهی سنتکام عملیات های دفاعی خود را در واکنش به سرنگونی بالگرد آمریکایی در روز گذشته آغاز کردند.
-‏این عملیات یک پاسخ متناسب در واکنش به تهاجم ناموجه ایران است.
 01:07
 1405/03/20
 
@@ -5399,26 +5336,6 @@ src :@tglobaleye
 
 
 
-src :@selena_updates
-[عکس]
-‏Reporter: You said the U.S. must respond to the Apache shootdown, do you still feel that way?
-‏
-‏US President Trump: I don’t have to do anything. We hold all the cards. I don’t have to do—but look, we probably will, okay? They can’t be doing that.
-23:43
-1405/03/19
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The airspace over Iran is completely empty right now.
-23:43
-1405/03/19
-
-
-
-
 src :@Minas_Tirith2024
 ‏فوری   شلیک موشک از خاک یمن به سمت اسرائیل   @Minas_Tirith2024
 23:40
@@ -5443,15 +5360,6 @@ src :@tglobaleye
 ‏Airbus-led group proposes fighter jet alternative after French-German project fails
 ‏https://www.youtube.com/watch?v=9pa1XeBSo8I
 23:35
-1405/03/19
-
-
-
-
-src :@selena_updates
-[ویدئو]
-‏I feel that Trump is going to do nothing in the end.
-23:34
 1405/03/19
 
 
@@ -5509,19 +5417,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@selena_updates
-[عکس]
-‏US President Donald Trump to the media:
-‏
-‏If Iran’s people keep being stupid, we'll end up in something where we have to wipe out the infrastructure of an entire nation.
-‏
-‏We are going to get half of Iran’s oil.
-23:15
-1405/03/19
-
-
-
-
 src :@Farsi_Iranwire
 [فایل]
 ‏📻 نسخه کامل برنامه شبانگاهی رادیو ایران‌وایر - سه‌شنبه ۱۹ خرداد
@@ -5559,17 +5454,6 @@ src :@warmonitors
 
 
 
-src :@selena_updates
-[عکس]
-‏Iran’s Foreign Minister, Abbas Araqchi, in response to US President Donald Trump: To reduce risk, it is better for them [U.S. forces] to leave.
-‏
-‏Iranian official to the media: The U.S. Apache helicopter was not flying over international waters. The Strait of Hormuz is Iranian. Iran will respond forcefully and immediately to any U.S. attack against Iran.
-23:00
-1405/03/19
-
-
-
-
 src :@didarnews1
 ‏🔴یک منبع آگاه نزدیک به تیم مذاکره کننده ایرانی: پیشنهاد جدیدی از سوی ایران برای آمریکا ارسال نشده است./فارس
 ‏
@@ -5600,17 +5484,6 @@ src :@bricsnews
 src :@Parvazdaroj
 ‏• دقایقی قبل ترامپ در توییتی اعلام کرد که ایرانی ها مسئول سقوط بالگرد آپاچی آمریکایی در تنگه هرمز بوده اند. او اعلام کرد که ایالات متحده باید به این حمله پاسخ دهد.  @RedLionCorps
 22:42
-1405/03/19
-
-
-
-
-src :@selena_updates
-[عکس]
-‏An unusually intense series of Israeli UAV strikes targeted the town of Ansariyeh, between Tyre and Sidon in southern Lebanon today, with around 8 separate strikes were carried out in the area. The drones repeatedly targeted the vicinity of the attack and hindered access to the site, including by rescue teams. 
-‏
-‏Hezbollah-affiliated sources later announced the death of Wissam Abu Riya, who held the rare title of "Commander of the Great Jihad," a designation granted to only a small number of senior Hezbollah figures.
-22:39
 1405/03/19
 
 
@@ -5699,15 +5572,6 @@ src :@Artemis_Force
 
 
 
-src :@selena_updates
-[عکس]
-‏The Hezbollah terrorist who tried to infiltrate through Israel's border today is Hamza Tarek Hamoud, a resident of the village of Markaba in southern Lebanon.
-22:28
-1405/03/19
-
-
-
-
 src :@mohem_mat
 ‏ادعاهای عجیب ترامپ درباره ایران به ABC:
 ‏
@@ -5773,25 +5637,6 @@ src :@mohem_mat
 ‏
 ‏#شب_و_روزگار_خوش
 22:15
-1405/03/19
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Hamas Information Office publishes data on the ceasefire period in the Gaza Strip since October 2025:
-‏
-‏● 985 killed (by IDF fire)
-‏● 3,097 wounded
-‏● 83 new detainees (from the Strip)
-‏
-‏● 52,129 aid trucks entered (instead of the 144,000 that, according to Hamas, were supposed to enter)
-‏
-‏● 6,488 people exited the Strip via the Rafah crossing (instead of about 19,000 that, according to Hamas, were supposed to exit)
-‏
-‏Hamas does not specify the number of people entering the Strip via the Rafah crossing, which is not far from the number of those exiting.
-22:12
 1405/03/19
 
 
