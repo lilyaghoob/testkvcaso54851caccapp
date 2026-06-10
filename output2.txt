@@ -1,3 +1,189 @@
+src :@defence_news
+‏♨️به نظر میرسد موج اول پاسخ موشکی از سمت اصفهان شروع شده است.  📃@Cataphract1
+03:52
+1405/03/20
+
+
+
+
+src :@rnintel
+‏🇮🇱⚡️- A violent explosion is being reported in Haifa, northern Israel.
+03:51
+1405/03/20
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 10 Jun 2026 00:21:41 UTC
+‏
+‏Initial: UAV was shot down over Bushehr province, southern Iran
+‏
+‏فارسی
+‏
+‏یک پهپاد در فراز استان بوشهر در جنوب ایران سرنگون شد.
+‏
+‏𝕏  ·  @shin_persian
+03:51
+1405/03/20
+
+
+
+
+src :@thewarreporter
+‏🇮🇷 — Reports of Iranian ballistic missile launches from Isfahan.  @TheWarReporter
+03:51
+1405/03/20
+
+
+
+
+src :@Mena_Live
+‏The director of the water company in the Iranian city of Sirik: An American missile attack targeted water infrastructure in the city.  @Mena_Live
+03:51
+1405/03/20
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- A new wave of US airstrikes against Qeshm Island in the Persian Gulf.
+03:51
+1405/03/20
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇷 — Renewed US strikes on Qeshm Island.
+‏
+‏@TheWarReporter
+03:51
+1405/03/20
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- At least three ballistic missiles have been launched from Isfahan, central Iran.
+03:50
+1405/03/20
+
+
+
+
+src :@intelslava
+‏🇺🇸🇮🇷⚡️ — SEVERAL ADDITIONAL ATTACKS ON QESHM ISLAND.
+03:50
+1405/03/20
+
+
+
+
+src :@Middle_East_Spectator
+‏Contrary to reports no ballistic missiles have been launched yet.
+03:50
+1405/03/20
+
+
+
+
+src :@wfwitness
+‏unconfirmed reports of missile launches, atleast 2
+03:50
+1405/03/20
+
+
+
+
+src :@rus_cosmos
+‏ساقط شدن یک هواگرد در اطراف جم، بوشهر
+03:49
+1405/03/20
+
+
+
+
+src :@World_Newsly
+‏🔴 فیلمی منتسب به هدف قرار دادن پهپاد آمریکایی بر فراز شهر جم، بوشهر   ✍🏻 exxon ▪️@World_Newsly
+03:49
+1405/03/20
+
+
+
+
+src :@mwarmonitor
+‏🔴حمله مجدد آمریکا به جزیره قشم
+03:49
+1405/03/20
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇷 — A US drone has reportedly been shot down over the city of Jam in southern Iran.  @TheWarReporter
+03:48
+1405/03/20
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- Iranian air defense systems shot down an American MQ-9 Reaper drone over Jam, Bushehr province, southern Iran some time ago.
+03:48
+1405/03/20
+
+
+
+
+src :@Mena_Live
+‏The director of the water company in the Iranian city of Sirik: An American missile attack targeted water infrastructure in the city.
+‏
+‏@Mena_Live
+03:48
+1405/03/20
+
+
+
+
+src :@World_Newsly
+‏🔴 انفجار در قشم
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+03:48
+1405/03/20
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇺🇸/🇮🇷 NEW: A second American drone has been shot down
+‏
+‏@Middle_East_Spectator
+03:48
+1405/03/20
+
+
+
+
+src :@naya_foriraq
+‏تفعيل الدفاعات الجوية في بندرعباس وقشم
+03:48
+1405/03/20
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- At least three ballistic missiles have been launched from Isfahan, central Iran.
+03:48
+1405/03/20
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 به گفته باراک  راوید موج سوم حملات امریکا در جریان است 
@@ -9,10 +195,31 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
+src :@BellumActaNews
+[عکس]
+‏🇺🇸🇸🇦🪖 — 2x U.S. Air Force aerial refueling aircraft and a Royal Saudi Air Force A330 MRTT tanker.
+‏
+‏@BellumActaNews
+03:47
+1405/03/20
+
+
+
+
 src :@defence_news
 ‏♨️به نظر میرسد موج اول پاسخ موشکی از سمت اصفهان شروع شده است.
 ‏
 ‏📃@Cataphract1
+03:46
+1405/03/20
+
+
+
+
+src :@BellumActaNews
+‏🇺🇸❌🇮🇷 — More USAF airstrikes against Qeshm Island, at the entrnace of Hormuz Straits
+‏
+‏@BellumActaNews
 03:46
 1405/03/20
 
@@ -501,7 +708,7 @@ src :@World_Newsly
 
 
 src :@VahidOnline
-‏پیام‌های دریافتی تایید نشده:
+‏پیام‌های دریافتی تایید نشده:‌ 
 ‏
 ‏از جم شلیک کردن ساعت ۳:۳۳
 ‏نصفش تو هوا منفجر شد،بقیه‌اش هم نمیدونم کجا قراره فرود بیاد.
@@ -515,7 +722,7 @@ src :@VahidOnline
 ‏
 ‏سلام فک کنم جم رو زدن یه صدای انفجاری اومد الان 3:35
 ‏
-‏توی جم این پدافند بود فعال شد اون صدای انفجار هم پهباد زدن باهاش
+‏توی جم این پدافند بود فعال شد اون صدای انفجار هم پهپاد زدن باهاش
 ‏
 ‏قشم: دوباره یه لرزش دیگه ۳:۳۹
 ‏احتمالا بندرعباسه ما داریم حس می‌کنیم
@@ -1309,14 +1516,6 @@ src :@GeoPWatch
 
 
 
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷❗️ — Iranian Air Defenses active over Qeshm Island, at the entrance of Hormuz Straits  @BellumActaNews
-03:12
-1405/03/20
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- BREAKING: A second wave of U.S. strikes is underway in southern Iran. - Israeli Channel 12.
 03:12
@@ -1447,16 +1646,6 @@ src :@MilitarryWorld
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- An explosion has been reported near Bandar Sirik Naval Base once again.
 03:04
-1405/03/20
-
-
-
-
-src :@BellumActaNews
-‏Iranian media outlets are reporting that recent attacks on Bandar Jask were launched from Bahrain.
-‏
-‏@KurdishfrontReports
-03:01
 1405/03/20
 
 
@@ -1923,14 +2112,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-‏Unconfirmed reported of renewed strikes targeting Jask Pier
-02:45
-1405/03/20
-
-
-
-
 src :@P_raetorio
 ‏شنیده شدن مجدد صدای انفجار در شهرستان جاسک
 ‏
@@ -2111,14 +2292,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-‏Unconfirmed reported of renewed strikes targeting Jask Pier
-02:36
-1405/03/20
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🔴نگاهی به حضور گسترده نظامی آمریکا در خاورمیانه در حال حاضر
@@ -2284,14 +2457,6 @@ src :@MilitarryWorld
 ‏⭕️خبرنگار صداسیما در سیریک:در پی حمله امشب دشمن آمریکایی به سیریک، ۲ مخزن آب بخش بمانی مورد اصابت قرار گرفته و آب آشامیدنی این بخش قطع شده است.
 ‏
 ‏@MilitarryWorld | Maverick
-02:14
-1405/03/20
-
-
-
-
-src :@World_Newsly
-‏🚨روسیه نارنجی شد؛
 02:14
 1405/03/20
 
@@ -2530,14 +2695,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖
 ‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
 02:06
-1405/03/20
-
-
-
-
-src :@intelslava
-‏🇵🇰🇦🇫⚡ The Afghan-Pakistani conflict has apparently resumed following Pakistan Air Force (PAF) airstrikes in Khost and Paktika provinces.
-02:05
 1405/03/20
 
 
@@ -2880,16 +3037,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 The White House: ‘We believe a deal with Iran is very close’
-‏
-‏@Middle_East_Spectator
-01:56
-1405/03/20
-
-
-
-
 src :@defence_news
 ‏♨️ حملات آمریکا پایان یافته 
 ‏
@@ -2915,16 +3062,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 01:55
-1405/03/20
-
-
-
-
-src :@Middle_East_Spectator
-‏Well, the U.S. attack was very small and basically similar to previous attacks we saw during the ceasefire.
-‏
-‏But still, a response will be given.
-01:54
 1405/03/20
 
 
@@ -3569,19 +3706,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏⭕️توییت سید مجید موسوی 
-‏
-‏و ما النصر الا من عند الله العزیز حکیم
-‏
-‏@MilitarryWorld | Parsa
-01:26
-1405/03/20
-
-
-
-
 src :@ClashReport
 ‏U.S. official to Barak Ravid:
 ‏
@@ -3598,14 +3722,6 @@ src :@DEJradio
 ‏#خبر_فوری
 ‏@DEJradio
 01:25
-1405/03/20
-
-
-
-
-src :@naya_foriraq
-‏😆We didn’t mention F 15 because Kuwait air system defense are already ready
-01:24
 1405/03/20
 
 
@@ -3644,20 +3760,6 @@ src :@mwarmonitor
 src :@cataphract1
 ‏♨️ بر اساس گزارشات سامانه های پدافندی و راداری هدف حملات آمریکا هستند
 ‏
-‏📃@Cataphract1
-01:24
-1405/03/20
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏♨️ترامپ به ای‌بی‌سی نیوز: 
-‏من به پاسخ قوی اعتقاد دارم و این رویکرد من است. ما توافق بسیار خوبی با ایران داریم و فکر می‌کنم همینطور هم خواهد ماند.
-‏
-‏پ.ن: آدم میمونه چی بگه
-‏
-‏🖋#Ethan 
 ‏📃@Cataphract1
 01:24
 1405/03/20
@@ -3872,16 +3974,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@defence_news
-‏حریم هوایی کشورهای حاشیه خلیج فارس در حال بسته شدن است 
-‏
-‏@Minas_Tirith2024
-01:16
-1405/03/20
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏هم‌زمان با آغاز حملات تلافی‌جویانه آمریکا علیه جمهوری اسلامی، دونالد ترامپ، رییس‌جمهوری آمریکا، به ای‌بی‌سی نیوز گفت: «فکر می‌کنم پاسخ دادن بسیار مهم است. آنها یک بالگرد را سرنگون کردند و ما همین حالا در حال پاسخ دادن هستیم.»
@@ -3930,27 +4022,6 @@ src :@Minas_Tirith2024
 ‏حریم هوایی کشورهای حاشیه خلیج فارس در حال بسته شدن است 
 ‏
 ‏@Minas_Tirith2024
-01:15
-1405/03/20
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 09 Jun 2026 21:44:56 UTC
-‏
-‏IRGC-owned Tasnim:
-‏"Iran will respond to US aggression.
-‏As warned hours earlier, Iran will deliver a decisive response to the US aggression, which is being carried out under the pretext of an Apache helicopter crash.'
-‏
-‏فارسی
-‏
-‏تسنیم متعلق به سپاه پاسداران:
-‏«ایران به تجاوز آمریکا پاسخ خواهد داد.
-‏همان‌طور که ساعت‌ها قبل هشدار داده شد، ایران پاسخی قاطع به تجاوز آمریکا که به بهانه سقوط یک هلیکوپتر آپاچی در حال انجام است، خواهد داد.»
-‏
-‏𝕏  ·  @shin_persian
 01:15
 1405/03/20
 
@@ -4066,16 +4137,6 @@ src :@cataphract1
 
 
 
-src :@cataphract1
-‏♨️ صدای انفجار در بندرعباس شنیده میشود 
-‏
-‏📃@Cataphract1
-01:10
-1405/03/20
-
-
-
-
 src :@mwarmonitor
 ‏🔴اسرائیل ارزیابی می‌کند که ایران در پاسخ به حمله آمریکا، موشکی به سمت این کشور شلیک نخواهد کرد. – Walla 
 ‏
@@ -4097,16 +4158,6 @@ src :@WAR_ROOM_NEWS
 src :@jangaavaran1390
 ‏سنتکام: نیرو های تحت فرماندهی سنتکام عملیات های دفاعی خود را در واکنش به سرنگونی بالگرد آمریکایی در روز گذشته آغاز کردند. این عملیات یک پاسخ متناسب در واکنش به تهاجم ناموجه ایران است.
 01:10
-1405/03/20
-
-
-
-
-src :@mwarmonitor
-‏🚨یک مقام آمریکایی به الجزیره: نیروهای ما به حملات علیه ایران در چارچوب دفاع از خود ادامه می‌دهند و این عملیات همچنان ادامه دارد.
-‏
-‏@mwarmonitor
-01:09
 1405/03/20
 
 
@@ -4269,23 +4320,6 @@ src :@didarnews1
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 09 Jun 2026 21:33:25 UTC
-‏
-‏Expecting BM launches from Iran tonight.
-‏
-‏فارسی
-‏
-‏پیش‌بینی می‌شود امشب پرتاب موشک‌های بالستیک (BM) از ایران انجام شود.
-‏
-‏𝕏  ·  @shin_persian
-01:03
-1405/03/20
-
-
-
-
 src :@Mena_Live
 ‏Iranian broadcasting organization: We will respond to the American attack.
 ‏
@@ -4426,28 +4460,6 @@ src :@rus_cosmos
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 09 Jun 2026 21:26:55 UTC
-‏
-‏2106Z
-‏5 blasts heard in southern Qeshm island. 
-‏Qeshm Province, #Iran
-‏
-‏فارسی
-‏
-‏۲۱۰۶ زولو (۰۰:۳۶ به وقت تهران)
-‏۵ صدای انفجار در جنوب جزیره قشم شنیده شد.
-‏استان قشم، #Iran
-‏
-‏𝕏  ·  @shin_persian
-00:57
-1405/03/20
-
-
-
-
 src :@ClashReport
 ‏Explosions heard near Sirik Port, Iran.
 00:56
@@ -4482,14 +4494,6 @@ src :@ClashReport
 ‏
 ‏The mission is a proportional response to unjustified Iranian aggression.
 00:55
-1405/03/20
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️- BREAKING: Karmelo Anthony has been found guilty for the murder of Austin Metcalf.
-00:54
 1405/03/20
 
 
@@ -4571,15 +4575,6 @@ src :@Americana_ir
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇷⚡️- BREAKING: The U.S. military is conducting retaliatory strikes on targets in southern Iran.
-00:48
-1405/03/20
-
-
-
-
 src :@Mena_Live
 ‏The American Military struck IRGC bases in southern Iran.
 ‏
@@ -4642,22 +4637,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 00:45
-1405/03/20
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- Initial reports of explosions on Qeshm Island and Bandar Abbas, southern Iran.
-00:44
-1405/03/20
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- Initial reports of explosions on Qeshm Island and Bandar Abbas, southern Iran.
-00:43
 1405/03/20
 
 
@@ -6030,14 +6009,6 @@ src :@guard_warriors
 
 
 
-src :@rus_cosmos
-‏یک مقام ارشد آمریکایی  گفت که تحقیقات مشخص کرده است که یک پهپاد ایرانی به هلیکوپتر برخورد کرده و باعث سقوط آن شده است. او افزود که تحقیقات هنوز تعیین نکرده‌اند که آیا این برخورد عمدی بوده یا خیر
-20:52
-1405/03/19
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴محمد باقر قالیباف:
@@ -6105,29 +6076,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 20:40
-1405/03/19
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US President Trump:  "I have just been informed by our great military that last night the Iranians shot down one of our highly sophisticated Apache helicopters while patrolling over the Strait of Hormuz. There were two pilots involved, both are safe…
-20:39
-1405/03/19
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇱🇦🇪🇮🇷 — The Israeli Broadcasting Authority, citing an unnamed news agency 'affiliated with the IRGC', report that Iran agreed to halt its attacks on Israel after the US unfroze $3 billion in Iranian assets that were transferred from Abu Dhabi to Tehran.
-‏
-‏The arrangement was mediated by a Qatari delegation and included U.S. assurances that Israel would limit its attacks on Lebanon. 
-‏
-‏Flight-tracking data confirms that an Emirati government-linked aircraft flew from Zayed International Airport in Abu Dhabi to Mehrabad International Airport in Tehran yesterday despite active airspace restrictions.
-‏
-‏@TheWarReporter
-20:38
 1405/03/19
 
 
