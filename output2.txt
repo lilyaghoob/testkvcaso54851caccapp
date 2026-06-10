@@ -1,3 +1,53 @@
+src :@GeoPWatch
+‏🇺🇦❌🇷🇺 – A high-ranking Russian general has been killed in a targeted car bombing in the outskirts of Moscow. Initial reports suggest the Ukrainian Security Service (SBU) is highly likely behind the assassination, marking a significant breach of security deep within Russian territory.
+‏
+‏@GeoPWatch
+10:27
+1405/03/20
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏غارات صهيونية تستهدف بلدة طيردبا جنوب لبنان
+10:25
+1405/03/20
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏اصلاح مدار ایستگاه فضایی بین‌المللی
+‏
+‏امروز ساعت ۰۸:۳۰ به وقت ایران، موتورهای فضاپیمای باری پرکگرس ام‌اس-۲۴ روشن شدند و به مدت ۴۹۵٫۷ ثانیه کار کردند. 
+‏
+‏این موتور‌ها ضربه‌ای (دلتا-وی) به بزرگی ۰٫۹۱ متر بر ثانیه ایجاد کردند.
+‏
+‏در نتیجه، میانگین ارتفاع مدار ایستگاه فضایی بین‌المللی ۱٫۶ کیلومتر افزایش یافت و به ۴۱۹٫۰۳ کیلومتر بالاتر از سطح زمین رسید.
+‏
+‏هدف از این اصلاح مداری، ایجاد شرایط بالستیکی مناسب برای:
+‏
+‏رسیدن فضاپیمای سایوز ام‌اس-۲۹ به ایستگاه فضایی،
+‏* و فرود فضاپیمای سایوز ام‌اس-۲۸ به زمین است.
+‏
+‏چرا ارتفاع مدار ایستگاه فضایی بین‌المللی را اصلاح می‌کنند؟
+‏
+‏ایستگاه فضایی به دلیل اصطکاک بسیار اندک با لایه‌های فوقانی جو زمین، به‌تدریج ارتفاع خود را از دست می‌دهد. بنابراین هر چند وقت یک‌بار با استفاده از موتورهای فضاپیماهای متصل به آن (مانند پروگرس)، مدار ایستگاه بالاتر برده می‌شود تا:
+‏
+‏* از کاهش تدریجی ارتفاع جلوگیری شود؛
+‏* شرایط مناسب برای اتصال فضاپیماهای جدید فراهم شود؛
+‏* زمان و محل فرود فضاپیماهای بازگشتی به‌دقت تنظیم گردد؛
+‏* و ایمنی و پایداری مدار ایستگاه حفظ شود. 
+‏
+‏@rus_cosmos
+10:24
+1405/03/20
+
+
+
+
 src :@MilitarryWorld
 ‏🔺 بانس‌های فوق خفن مل‌بت 🔺
 ‏
@@ -1545,14 +1595,6 @@ src :@jangaavaran1390
 
 
 
-src :@naya_foriraq
-‏القوات المسلحة الأردنية تعلن اعتراضها 5 صواريخ أطلقت من إيران باتجاه قاعدة الأزرق
-06:34
-1405/03/20
-
-
-
-
 src :@Middle_East_Spectator
 ‏— 🇮🇷/🇯🇴/🇺🇸 NEW: Jordan claims it intercepted all 5 missiles Iran launched at the U.S. Airbase Muwaffaq Salti
 ‏
@@ -2659,15 +2701,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸🇧🇭- An image of an interception over Manama, Bahrain.
-05:07
-1405/03/20
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏شنیده شدن صدای انفجار و فعال شدن  آژیر خطر در کویت و بحرین
 ‏
@@ -3721,14 +3754,6 @@ src :@Mena_Live
 
 
 
-src :@rus_cosmos
-‏ساقط شدن یک هواگرد در اطراف جم، بوشهر
-03:49
-1405/03/20
-
-
-
-
 src :@mwarmonitor
 ‏🔴حمله مجدد آمریکا به جزیره قشم
 03:49
@@ -4050,16 +4075,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:06
-1405/03/20
-
-
-
-
-src :@MilitarryWorld
-‏⭕️یک مقام آمریکایی ادعا کرد: در این دور نیز سامانه‌های پدافندی و رادار مورد هدف قرار خواهند گرفت
-‏
-‏@MilitarryWorld | Parsa
-03:05
 1405/03/20
 
 
@@ -5089,18 +5104,6 @@ src :@USAMRYDATA
 
 
 
-src :@ClashReport
-‏BREAKING: CENTCOM:
-‏
-‏U.S. Central Command (CENTCOM) forces began launching self-defense strikes against Iran at 5 p.m. ET today at the Commander in Chief’s direction, in response to yesterday’s downing of a U.S. Army Apache helicopter.
-‏
-‏The mission is a proportional response to unjustified Iranian aggression.
-00:55
-1405/03/20
-
-
-
-
 src :@didarnews1
 ‏🔴ادعای فرماندهی مرکزی ایالات متحده (سنتکام):
 ‏
@@ -5319,29 +5322,12 @@ src :@bricsnews
 
 
 
-src :@Minas_Tirith2024
-[عکس]
-‏Join @Patriot_meme
-23:45
-1405/03/19
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏Reporter: You said the U.S. must respond to the Apache shootdown, do you still feel that way?
 ‏
 ‏US President Trump: I don’t have to do anything. We hold all the cards. I don’t have to do—but look, we probably will, okay? They can’t be doing that.
 23:43
-1405/03/19
-
-
-
-
-src :@Minas_Tirith2024
-‏فوری   شلیک موشک از خاک یمن به سمت اسرائیل   @Minas_Tirith2024
-23:40
 1405/03/19
 
 
