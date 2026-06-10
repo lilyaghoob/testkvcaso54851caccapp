@@ -2244,14 +2244,6 @@ src :@P_raetorio
 
 
 
-src :@rus_cosmos
-‏اکسیوس: دور دوم حملات آمریکایی آغاز شد.
-02:47
-1405/03/20
-
-
-
-
 src :@MilitarryWorld
 ‏🚨انفجار های مجدد در جاسک  @MilitarryWorld | Parsa
 02:47
@@ -2282,14 +2274,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 02:45
-1405/03/20
-
-
-
-
-src :@rus_cosmos
-‏شنیده شدن ۳ انفجار جدید در بندر جاسک
-02:44
 1405/03/20
 
 
@@ -4705,17 +4689,4 @@ src :@Artemis_Force
 ‏
 ‏@Guard_Warriors | Mmd
 09:01
-1405/03/19
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏صبح همگی بخیر
-‏
-‏تصویری زیبا از جنگنده سوخو ٣۴ روسی با موشک خا ٣١
-‏
-‏@artemis_force
-08:04
 1405/03/19

@@ -2042,37 +2042,9 @@ src :@thewarreporter
 
 
 
-src :@intelslava
-‏🇮🇷❌🇺🇸🇧🇭 — 11 explosion heard in Bahrain.
-‏
-‏@IntelSlava
-05:02
-1405/03/20
-
-
-
-
-src :@intelslava
-‏🇮🇷🇺🇸⚡️ — Khatam al-Anbiya military command announces it has struck several US bases in the region in retaliation for recent attacks on Iranian cities.​​​​​​​​​​​​​​​​
-05:01
-1405/03/20
-
-
-
-
 src :@thewarreporter
 ‏🇧🇭🇮🇷 — Alerts in Bahrain.   @TheWarReporter
 05:01
-1405/03/20
-
-
-
-
-src :@intelslava
-‏🇮🇷❌🇺🇸🇧🇭 — BREAKING: Sirens are sounding in Bahrain.
-‏
-‏@IntelSlava
-05:00
 1405/03/20
 
 
@@ -2209,14 +2181,6 @@ src :@rnintel
 
 src :@rus_cosmos
 ‏موشک‌های شلیک شده از خمین کوتاه‌برد هستند و هدف پایگاه‌های آمریکا در کشورهای حاشیه خلیج فارس است.
-04:52
-1405/03/20
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇷⚡️ — A senior American official tells Fox News the situation remains active and the US military is on full alert, ready to respond should Iran decide to retaliate.​​​​​​​​​​​​​​​​
 04:52
 1405/03/20
 
@@ -3718,14 +3682,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 02:49
-1405/03/20
-
-
-
-
-src :@rus_cosmos
-‏اکسیوس: دور دوم حملات آمریکایی آغاز شد.
-02:47
 1405/03/20
 
 
@@ -6911,17 +6867,4 @@ src :@Artemis_Force
 ‏
 ‏@Guard_Warriors | Mmd
 09:01
-1405/03/19
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏صبح همگی بخیر
-‏
-‏تصویری زیبا از جنگنده سوخو ٣۴ روسی با موشک خا ٣١
-‏
-‏@artemis_force
-08:04
 1405/03/19
