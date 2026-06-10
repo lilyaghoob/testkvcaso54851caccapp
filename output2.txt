@@ -1,5 +1,24 @@
 src :@tabzlive
 [عکس]
+‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Bnaafoul in southern Lebanon a short while ago.
+06:02
+1405/03/20
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏سپاه از حمله به ۲۱ هدف در پایگاه‌های آمریکا در منطقه خبر داد و گفت نیروی هوافضای سپاه با موشک‌های سوخت جامد دوربرد، چهار «هدف مهم»، از جمله آشیانه‌های جنگنده‌های اف-۳۵ در پایگاه هوایی و مرکز فرماندهی و کنترل ارتش آمریکا در الازرق اردن را هدف قرار داد و منهدم کرد.
+‏https://iranintl.com/202606109827
+05:57
+1405/03/20
+
+
+
+
+src :@tabzlive
+[عکس]
 ‏🇺🇦❌🇷🇺 — Ukrainian drones have attacked the Kuibyshev Oil Refinery in Russia's Samara region, causing several fires at the facility.
 05:57
 1405/03/20
@@ -11,13 +30,13 @@ src :@intelslava
 [عکس]
 ‏🇮🇷🇺🇸⚡️ — INTEL SLAVA — SITUATION BRIEF 5:25 AM
 ‏
-‏The conflict has gone fully regional overnight. US struck 20 sites across Iran. Iran responded with strikes on US military bases in Bahrain, Kuwait, and Jordan — including an F-35 hangar targeted with Kheibar Shekan ballistic missiles. 
+‏➡️ The conflict has gone fully regional overnight. US struck 20 sites across Iran. Iran responded with strikes on US military bases in Bahrain, Kuwait, and Jordan — including an F-35 hangar targeted with Kheibar Shekan ballistic missiles. 
 ‏
-‏Impact at US Navy base in Bahrain confirmed on footage. Kuwait sirens active. Iran has threatened complete Strait of Hormuz closure if US strikes continue.
+‏➡️ Impact at US Navy base in Bahrain confirmed on footage. Kuwait sirens active. Iran has threatened complete Strait of Hormuz closure if US strikes continue.
 ‏
-‏Both sides are still exchanging fire as of this report.
+‏➡️ Both sides are still exchanging fire as of this report.
 ‏
-‏— Intel Slava
+‏— Intel Slava Analysis
 ‏
 ‏@IntelSlava
 05:55
@@ -322,9 +341,9 @@ src :@Shin_Persian
 
 src :@Middle_East_Spectator
 [عکس]
-‏— I’m sorry but that’s just not true…
+‏— Unfortunately, this claim is exaggerated
 ‏
-‏I truly hope Iran’s military statements will become more factual at some point. People say I shouldn’t criticize, but I think criticism exactly should be done, or else nothing will change.
+‏I truly hope Iran’s military statements will become more factual at some point. People say I shouldn’t criticize, but I think criticism exactly should be done, or else nothing will change. And I say this as someone who deeply cares.
 ‏
 ‏Targeting U.S. bases is already a major achievement in itself, but claiming that 21 targets were hit (including 4 F-35 hangars in Jordan) is just not believable.
 ‏
@@ -834,15 +853,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-[عکس]
-‏الله أكبر  توثيق يظهر لحظة اصابة صاروخ إيراني في دويلة البحرين
-05:12
-1405/03/20
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷❌🇺🇸🇧🇭 — Visual confirmation of the moment an Iranian missile struck the U.S. Fifth Fleet Base in Bahrain moments ago.
@@ -1120,14 +1130,6 @@ src :@intelslava
 src :@thewarreporter
 ‏🇧🇭🇮🇷 — Alerts in Bahrain.   @TheWarReporter
 05:01
-1405/03/20
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — BREAKING: Sirens are sounding in Bahrain.
-05:00
 1405/03/20
 
 
