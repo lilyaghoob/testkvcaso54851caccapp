@@ -1,3 +1,86 @@
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 10 Jun 2026 01:42:40 UTC
+‏
+‏0121Z
+‏Isfahan Province, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۰۱۲۱ زولو (۰۴:۵۱ به وقت تهران)
+‏استان اصفهان، ایران
+‏
+‏𝕏  ·  @shin_persian
+05:12
+1405/03/20
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇮🇷❌🇺🇸🇧🇭 — Visual confirmation of the moment an Iranian missile struck the U.S. Fifth Fleet Base in Bahrain moments ago.
+05:11
+1405/03/20
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏Possible ballistic missile impact to the U.S. 5th Fleet HQ in Manama, Bahrain.
+05:10
+1405/03/20
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇺🇸🇰🇼 — Explosions reported shaking a US military base in the Jahra area of Kuwait.​​​​​​​​​​​​​​​​
+05:09
+1405/03/20
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇷/🇧🇭 Images of interception attempts over Bahrain
+‏
+‏@Middle_East_Spectator
+05:09
+1405/03/20
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸🇧🇭- An image of an interception over Manama, Bahrain.
+05:07
+1405/03/20
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷❌🇺🇸🇧🇭 — Several smoke clouds can be seen over Bahrain as a result of air defense activity.
+05:07
+1405/03/20
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇺🇸🇰🇼 — Initial reports indicate explosions heard over Kuwait.
+05:07
+1405/03/20
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 ‏شنیده شدن صدای انفجار و فعال شدن  آژیر خطر در کویت و بحرین
 ‏
@@ -19,6 +102,7 @@ src :@GeoPWatch
 
 src :@naya_foriraq
 [عکس]
+‏انفجارات في سماء البحرين
 05:06
 1405/03/20
 
@@ -228,8 +312,6 @@ src :@intelslava
 
 src :@Middle_East_Spectator
 ‏— The missiles were launched at 04:36 local time, alerts in Bahrain sounded at 04:58 local time, almost 22 minutes later. Usually Iranian ballistics arrive within 8-12 minutes maximum.
-‏
-‏Anyways who cares, Bahrain getting bombed.
 05:02
 1405/03/20
 
@@ -501,14 +583,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
-04:54
-1405/03/20
-
-
-
-
-src :@Middle_East_Spectator
-‏For the first time in 3+ months I have no idea what’s going on or what’s even being targeted. Very weird stuff.
 04:54
 1405/03/20
 
@@ -1165,14 +1239,6 @@ src :@thewarreporter
 
 
 
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — An American drone has reportedly been shot down over the city of Jam in Bushehr Province, southern Iran.
-04:27
-1405/03/20
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 بیانیه خنده دار قرارگاه مرکزی حضرت خاتم الانبیاء: در پاسخ به تجاوز ارتش تروریست آمریکا در مناطقی از جنوب کشور به بهانه واهی سقوط بالگرد خود، برخی از پایگاه های آمریکا در منطقه هدف هجوم قدرتمند ارتش قهرمان جمهوری اسلامی و دلاورمردان سپاه پاسداران انقلاب اسلامی قرار گرفت.
 ‏
@@ -1279,14 +1345,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸 — NEW: Iran’s Khatam al-Anbiya Central HQ: In response to the aggression of the terrorist US army in some southern parts of the country under the false pretext of the crash of its helicopter, some US bases in the region were powerfully attacked by the…
-04:25
-1405/03/20
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran launches attack on US military base in Bahrain.
 ‏
@@ -1386,7 +1444,7 @@ src :@Indypersian
 
 
 src :@Middle_East_Spectator
-‏— 🇮🇷/🇧🇭/🇺🇸 NEW: In a statement, the IRGC claims it attacked the U.S. 5th Fleet in Bahrain at 02:30 AM (about two hours ago)
+‏— 🇮🇷/🇧🇭/🇺🇸 NEW: In a statement, the IRGC claims it attacked the U.S. 5th Fleet in Bahrain at 02:30 AM (about two hours ago) with drones
 ‏
 ‏In a separate statement, Iran’s Khatam Al-Anbiyaa Central HQ also claimed U.S. bases in the region were attacked, and that if U.S. strikes continue, a ‘harsher response’ will follow.
 ‏
@@ -1506,17 +1564,6 @@ src :@BellumActaNews
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸 — NEW: Iran’s Khatam al-Anbiya Central HQ:
-‏In response to the aggression of the terrorist US army in some southern parts of the country under the false pretext of the crash of its helicopter, some US bases in the region were powerfully attacked by the heroic army of the Islamic Republic and the brave men of the Islamic Revolutionary Guard Corps.
-‏
-‏The criminal US army should know that if it repeats aggression against the Islamic Republic of Iran, more severe and widespread attacks will be carried out against the designated target banks in the region.
-04:17
-1405/03/20
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️فوری/سپاه پاسداران:
 ‏
@@ -1582,14 +1629,6 @@ src :@rus_cosmos
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 —  Mehr News Agency reports fresh explosions heard in the city of Ahvaz, southwestern Iran.​​​​​​​​​​​​​​​​
-04:16
-1405/03/20
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇷القيادة المركزية لخاتم الأنبياء: ردًا على عدوان الجيش الأمريكي الإرهابي في مناطق جنوب البلاد بذريعة إسقاط مروحيته، استُهدفت بعض القواعد الأمريكية في المنطقة بهجوم قوي شنّه الجيش الباسل للجمهورية الإسلامية وقوات الحرس الثوري الإسلامي. على الجيش الأمريكي المجرم…
 04:16
@@ -1622,19 +1661,6 @@ src :@cataphract1
 ‏
 ‏🖋#Ethan 
 ‏📃@Cataphract1
-04:15
-1405/03/20
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — BREAKING: Iran’s IRGC:
-‏The warmongering US regime early this morning attacked several points in Jask, Sirik, and Qeshm under false pretexts, causing damage to a telecommunications tower in Sirik and destroying two water tanks in the Bemani district of this county.
-‏
-‏In response to this hostile act by the enemy, the IRGC Navy fighters attacked the Fifth Naval Fleet of Bahrain with drones at 2:30 AM.
-‏
-‏The clashes continue, and the brave Guards of the Iranian nation are responding to the enemy's aggressions, and if the hostility continues, heavier responses are on the way.
 04:15
 1405/03/20
 
@@ -1935,18 +1961,6 @@ src :@Shin_Persian
 
 
 
-src :@Middle_East_Spectator
-‏Also, the scale of the U.S. attack has increased to the extent where we can conclude the following:
-‏
-‏1. The Apache downing was only the excuse, the U.S. wants an escalation.
-‏
-‏2. Iran’s response, which is being delayed for operational reasons, will be significantly harsher than the U.S. expects, and the ceasefire will practically be over.
-04:02
-1405/03/20
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇮🇷⚡️ - Additional Airstrike on Qeshm Island.
 ‏
@@ -1999,17 +2013,6 @@ src :@defence_news
 
 src :@BellumActaNews
 ‏🇺🇸❌🇮🇷 —  USAF Airstrikes against Ahvaz, Khuzestan Province
-03:58
-1405/03/20
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🇮🇷⚡️— Scenes of Qeshm Island Now.
-‏
-‏UPDATE :- OLD PICTURE.
 03:58
 1405/03/20
 
@@ -2086,14 +2089,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
-03:56
-1405/03/20
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇷⚡️ — Explosions reported in Ahvaz, southwestern Iran.​​​​​​​​​​​​​​​​
 03:56
 1405/03/20
 
@@ -2185,14 +2180,6 @@ src :@rnintel
 
 
 
-src :@intelslava
-‏A U.S. unmanned aerial vehicle (UAV) was shot down over the city of Jam in Bushehr Province, southern Iran.
-03:53
-1405/03/20
-
-
-
-
 src :@defence_news
 ‏♨️به نظر میرسد موج اول پاسخ موشکی از سمت اصفهان شروع شده است.  📃@Cataphract1
 03:52
@@ -2258,14 +2245,6 @@ src :@rnintel
 
 
 
-src :@intelslava
-‏🇺🇸🇮🇷⚡️ — SEVERAL ADDITIONAL ATTACKS ON QESHM ISLAND.
-03:50
-1405/03/20
-
-
-
-
 src :@Middle_East_Spectator
 ‏Contrary to reports no ballistic missiles have been launched yet.
 03:50
@@ -2293,14 +2272,6 @@ src :@World_Newsly
 src :@mwarmonitor
 ‏🔴حمله مجدد آمریکا به جزیره قشم
 03:49
-1405/03/20
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- Iranian air defense systems shot down an American MQ-9 Reaper drone over Jam, Bushehr province, southern Iran some time ago.
-03:48
 1405/03/20
 
 
@@ -2444,14 +2415,6 @@ src :@MilitarryWorld
 ‏⭕️انفجار در جم گزارش شد
 ‏
 ‏@MilitarryWorld | Parsa
-03:43
-1405/03/20
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 NEW: Strikes in Jam, Bushehr Province, now  @Middle_East_Spectator
 03:43
 1405/03/20
 
@@ -3497,14 +3460,6 @@ src :@Minas_Tirith2024
 ‏خبرنگار صداسیما در سیریک: در پی حمله امشب دشمن آمریکایی به سیریک، ۲ مخزن آب بخش بمانی مورد اصابت قرار گرفته و آب آشامیدنی این بخش قطع شده است.
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-02:09
-1405/03/20
-
-
-
-
-src :@naya_foriraq
-‏الجيش الامريكي يهاجم مناطق في جنوب إيران
 02:09
 1405/03/20
 
