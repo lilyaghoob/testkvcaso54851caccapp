@@ -1,3 +1,11 @@
+src :@naya_foriraq
+‏دوي انفجارات في محافظة السليمانية شمال العراق
+08:37
+1405/03/20
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️ترامپ : 
 ‏
@@ -797,18 +805,6 @@ src :@BellumActaNews
 
 
 src :@World_Newsly
-[عکس]
-‏🔴به گزارش NYT، ایالات متحده ادعای سپاه پاسداران انقلاب اسلامی مبنی بر 21 حمله موفق به پایگاه های آمریکایی در منطقه را رد کرد!
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:28
-1405/03/20
-
-
-
-
-src :@World_Newsly
 ‏🔴گزارش انفجارهای جدید در بحرین
 ‏
 ‏✍🏻 Dangerman
@@ -1463,26 +1459,10 @@ src :@rnintel
 
 
 
-src :@naya_foriraq
-‏انفجارات في الكويت
-05:42
-1405/03/20
-
-
-
-
 src :@GeoPWatch
 ‏#BREAKING
 ‏🇮🇷❌🇺🇸🇰🇼- Sirens in Kuwait.
 05:42
-1405/03/20
-
-
-
-
-src :@naya_foriraq
-‏انفجارات في الكويت
-05:41
 1405/03/20
 
 
@@ -2073,15 +2053,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@wfwitness
-[عکس]
-‏Interceptions over Manama, Bahrain
-05:06
-1405/03/20
-
-
-
-
 src :@defence_news
 ‏شنیده شدن صدای انفجار و فعال شدن  آژیر خطر در کویت و بحرین
 ‏
@@ -2191,15 +2162,6 @@ src :@rnintel
 src :@cataphract1
 ‏#فوری  ⭕️شلیک موشک از خمین   📃@Cataphract1
 05:03
-1405/03/20
-
-
-
-
-src :@wfwitness
-[عکس]
-‏Explosions heard in Bahrain
-05:02
 1405/03/20
 
 
