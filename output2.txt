@@ -1,3 +1,66 @@
+src :@GeoPWatch
+‏🇮🇷 — SNN confirms reports of an explosion heard near Sirik, emphasizing the cause is unknown.
+00:41
+1405/03/22
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷 NEW: Explosions heard in Sirik, southern Iran
+‏
+‏Some say it’s possibly related to the launch of anti-ship missiles or drones towards the Strait of Hormuz.
+‏
+‏@Middle_East_Spectator
+00:41
+1405/03/22
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏Thu, 11 Jun 2026 21:11:00 UTC
+‏
+‏An explosion was heard in Sirik, Hormozgan Province, #Iran as per state-affiliated Daneshjoo news.
+‏
+‏ترجمه خودکار فارسی
+‏
+‏بنا بر گزارش خبرگزاری دولتی دانشجو، صدایی شبیه به انفجار در سیریک واقع در استان هرمزگان، #Iran شنیده شده است.
+‏
+‏𝕏  ·  @shin_persian
+00:41
+1405/03/22
+
+
+
+
+src :@MilitarryWorld
+‏🚨دقایقی قبل صدای انفجار تو سیریک شنیده شد
+‏
+‏@MilitarryWorld | Parsa
+00:41
+1405/03/22
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇱🇻🇺🇦🇷🇺⚡️ — Fears of stray Ukrainian drones have severely impacted tourism in eastern Latvia’s “Land of Blue Lakes,” with guesthouses near the Russian border facing widespread cancellations, Reuters writes.
+‏
+‏Local businesses say tourists are avoiding the region due to drone alerts and concerns over potential attacks, threatening hundreds of small tourism operators. 
+‏
+‏Although no one has been injured and authorities insist the area remains safe, recent drone incidents, including one intercepted by a French NATO aircraft, have reinforced public fears. 
+‏
+‏Local officials and tourism groups are working to restore confidence, with Prime Minister Andris Kulbergs planning to spend his vacation in the region as a sign of support.
+00:39
+1405/03/22
+
+
+
+
 src :@DEJradio
 [عکس]
 ‏👑 شاهزاده رضا پهلوی:
@@ -17,6 +80,25 @@ src :@DEJradio
 src :@GeoPWatch
 ‏🇮🇷- Unconfirmed reports of an explosion near Sirik, southern Iran.
 00:37
+1405/03/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻تیم ملی فوتبال مکزیک در نخستین بازی جام جهانی ۲۰۲۶، آفریقای جنوبی را با نتیجه دو بر صفر شکست داد و نخستین پیروزی تورنمنت بیست و سوم را به نام خود ثبت کرد.
+‏
+‏🔹مکزیک، یکی از سه میزبان جام جهانی درحالی در استادیوم آزتکا بر آفریقای جنوبی غلبه کرد که ۱۶ سال پیش، در افتتاحیه جام جهانی ۲۰۱۰، به مصاف این تیم رفته بود.
+‏
+‏🔹گل‌های مکزیک را خولیان کینیونس در دقیقه ۹ و رائول خیمنس در دقیقه ۶۷ بازی به ثمر رساندند.
+‏
+‏🔹دو بازیکن آفریقای جنوبی در این بازی، با کارت قرمز مستقیم، اخراج شدند؛ اسپه‌هلو سیتوله در دقیقه ۴۹ و تمبا زوانه در دقیقه ۸۴ کارت قرمز دریافت کردند.
+‏
+‏🔹مکزیک، در گروه A جام جهانی ۲۰۲۶ با کره جنوبی، جمهوری چک و آفریقای جنوبی، هم‌گروه است.
+‏
+‏@iranintltvsport
+00:36
 1405/03/22
 
 
@@ -96,9 +178,9 @@ src :@GeoPWatch
 
 src :@VahidOnline
 [عکس]
-‏منابع نزدیک به دولت نوشته‌اند که: با میانجی‌گری قطر، آمریکا به شبکه beIN Sports معافیت داده تا مسابقات جام جهانی را در ایران پخش کند. 
+‏منابعی در جمهوری اسلامی نوشته‌اند که: با میانجی‌گری قطر، آمریکا به شبکه beIN Sports معافیت داده تا مسابقات جام جهانی را در ایران پخش کند. 
 ‏
-‏یک تاکیدی هم دارند که: این امتیاز توسط دولت ایران و کاملاً جدا از هرگونه یادداشت تفاهم (MoU) به دست آمده.
+‏تاکید هم کردند که: این امتیاز توسط دولت ایران و کاملاً جدا از هرگونه یادداشت تفاهم (MoU) به دست آمده.
 ‏
 ‏📡 @VahidOnline
 00:34
@@ -2010,14 +2092,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-‏🇮🇷🇺🇸- According to Fars News, it appears increasingly likely that Iran's proposed text will receive final approval from Iranian authorities, given that the US has now returned to accepting it.   ➡️ According to information from Fars, approximately two weeks…
-23:12
-1405/03/21
-
-
-
-
 src :@MilitarryWorld
 ‏🚨فووری/ترامپ: توافق در روزهای آینده در اروپا امضا میشود  @MilitarryWorld | Parsa
 23:12
@@ -3161,16 +3235,6 @@ src :@jangaavaran1390
 ‏فارس 
 ‏ منبعی نزدیک به تیم مذاکره‌کننده ایران می‌گوید تهران هیچ متنی را برای یادداشت تفاهم اولیه با ایالات متحده تأیید نکرده است و «هیچ متنی برای توافق مقدماتی نهایی نشده است.»
 22:10
-1405/03/21
-
-
-
-
-src :@MilitarryWorld
-‏⭕️آکسیوس: منابع ایرانی امروز به کشورهای منطقه اطلاع دادند که توافق «اصولی» در مورد یادداشت تفاهم حاصل شده است، اما تأیید رهبری همچنان لازم است
-‏
-‏@MilitarryWorld | Parsa
-22:08
 1405/03/21
 
 
@@ -5288,16 +5352,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@warmonitors
-‏⚡Al-Mayadeen correspondent in southern Lebanon: A drone targeted a car on the Ain al-Mazrab - Sultaniyeh road in southern Lebanon
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:32
-1405/03/21
-
-
-
-
 src :@defence_news
 ‏اخبار تایید نشده ای از حمله پهپادی / موشکی ایران به یک سایت راداری آمریکا در منطقه جبل الدخان در بحرین خبر می دهد.  🇮🇷📝 @defence_news 📝🇮🇷
 19:29
@@ -6292,22 +6346,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 President Trump: 
-‏
-‏‘My preference has always been to take Kharg Island. Once you do it, it will take a bit longer, but it’s guaranteed—and we’d make a massive fortune.
-‏
-‏But I don’t know America has the stomach for it, to be honest with you. 
-‏
-‏I think the American people would like to see us come home. But we would make a fortune if we take it.’
-‏
-‏@Middle_East_Spectator
-16:50
-1405/03/21
-
-
-
-
 src :@Artemis_Force
 ‏اما در خصوص بحث جزیره خارک ، یا هر جزیره دیگر ایرانی در خلیج فارس یا خط ساحلی در ایران :
 ‏
@@ -6319,15 +6357,6 @@ src :@Artemis_Force
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 16:47
-1405/03/21
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏↩️ Quoted tweet: Shin ✓  @hey_itsmyturn Thu, 11 Jun 2026 12:25:46 UTC  POTUS: "The United States will be hitting Iran (Whose Navy, Air Force, Radar, Anti Aircraft, and all other forms of Defense, together with most of its offensive capability, are GONE!),…
-16:44
 1405/03/21
 
 
@@ -7570,15 +7599,4 @@ src :@Exciton_missile_program
 ‏
 ‏@P_raetorio
 00:42
-1405/03/21
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇷 — Intense air defense activity reported over central Iran.
-‏
-‏The Global Eye | Subscribe
-00:37
 1405/03/21
