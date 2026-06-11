@@ -1,6 +1,70 @@
 src :@GeoPWatch
+‏🇮🇷 — Explosion heard by residents of Bandar Abbas.
+01:27
+1405/03/22
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷 — Explosion heard by residents of Bandar Abbas.
+01:25
+1405/03/22
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Explosions heard in Bandar Abbas, Iran
+‏
+‏@wfwitness
+01:24
+1405/03/22
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Thu, 11 Jun 2026 21:54:27 UTC
+‏
+‏Explosion sound in Bandar Abbas, Hormozgan Province, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏صدای انفجار در بندرعباس، استان هرمزگان، ایران
+‏
+‏𝕏  ·  @shin_persian
+01:24
+1405/03/22
+
+
+
+
+src :@World_Newsly
 [عکس]
-‏🇺🇸🇺🇸- A US Air Force F-35A Lightning II fighter jet has squawked 7700 (General Emergency) minutes after taking off from Abu Dhabi's Al Dhafra Air Base.
+‏🔴 اعلام کد 7700 برای اف 35
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+01:23
+1405/03/22
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇮🇱🇮🇷 Intensive U.S. aerial refueling and surveillance operations are underway, with x5 KC-46A Pegasus, x2 KC-135R Stratotanker tankers, and x1 E-3B Sentry AWACS, flying out of Tel Aviv and regional bases, orbiting over the Gulf region.  @wfwitness
+01:23
+1405/03/22
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸🇺🇸- A US Air Force F-35A Lightning II fighter jet has squawked 7700 (General Emergency) over the UAE.
 01:23
 1405/03/22
 
@@ -950,18 +1014,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 یک فروند هواپیمای هشدار زودهنگام و کنترل هوابرد E-3B «Sentry» نیروی هوایی ایالات متحده در مجاورت جنوب ایران و تنگه هرمز در حال گشت‌زنی است.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-00:47
-1405/03/22
-
-
-
-
 src :@DEJradio
 ‏⭕️ دولت اسرائیل بدون مشارکت در توافق، از تضمین‌های ترامپ برای محدود کردن جمهوری اسلامی، پشتیبانی می‌کند
 ‏
@@ -1290,14 +1342,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇮🇷- Unconfirmed reports of an explosion near Sirik, southern Iran.
-00:30
-1405/03/22
-
-
-
-
 src :@mwarmonitor
 ‏اسرائیل بعد از دیدن پست ترامپ   @mwarmonitor
 00:29
@@ -1386,14 +1430,6 @@ src :@WAR_ROOM_NEWS
 ‏🔴سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
 ‏
 ‏@AtlasRelayFastbot
-00:22
-1405/03/22
-
-
-
-
-src :@GeoPWatch
-‏🇲🇽⚽️🇿🇦- GOAL! 2-0 to Mexico, scored by Raul Jiménez.
 00:22
 1405/03/22
 
@@ -6148,25 +6184,6 @@ src :@WAR_ROOM_NEWS
 src :@rnintel
 ‏🇮🇷⚡️- Air defense activity over western Tehran city, northern Iran.
 18:41
-1405/03/21
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Thu, 11 Jun 2026 15:05:52 UTC
-‏
-‏No blast in Tehran YET, it’s just thunder 
-‏(Some TG channels reported blast sounds)
-‏
-‏ترجمه خودکار فارسی
-‏
-‏هنوز انفجاری در تهران رخ نداده است، فقط صدای رعد و برق است.
-‏(برخی از کانال‌های تلگرامی گزارش‌هایی از شنیده شدن صدای انفجار منتشر کرده‌اند)
-‏
-‏𝕏  ·  @shin_persian
-18:36
 1405/03/21
 
 
