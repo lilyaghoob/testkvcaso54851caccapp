@@ -1,6 +1,38 @@
 src :@naya_foriraq
-‏بحرية الحرس الثوري: نحذر من مغادرة أي سفينة مرساها بالخليج وبحر ‌عمان⁩ ونعتبر اقترابها من هرمز تعاونا مع العدو
-09:15
+‏تسلل طيران مسير من جنوب لبنان نحو مسكاف عام
+09:21
+1405/03/21
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+09:20
+1405/03/21
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏نیروی دریایی سپاه پاسداران:به تمامی شناورها در خلیج فارس و دریای عمان هشدار می‌دهیم که از محل لنگرگاه خود خارج نشوند. همچنین نزدیک شدن هر شناوری به تنگه هرمز را همکاری با دشمن تلقی خواهیم کرد
+09:17
+1405/03/21
+
+
+
+
+src :@World_Newsly
+‏🔴 بیانیه نیروی دریایی سپاه: هشدار می‌دهیم که هیچ کشتی‌ای که در خلیج فارس و دریای عمان لنگر انداخته است، حرکت نکند و هرگونه نزدیک شدن به تنگه هرمز را همکاری با دشمن می‌دانیم
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+09:16
 1405/03/21
 
 
@@ -1326,19 +1358,6 @@ src :@GeoPWatch
 
 
 src :@World_Newsly
-[عکس]
-‏🔴از سرتاسر کرج ستون دود و آتش دیده میشود!!
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:32
-1405/03/21
-
-
-
-
-src :@World_Newsly
 ‏🔴انفجار مهیب در کرج
 ‏
 ‏برق و مخابراط قسمتی از شهر قطع شد!!!!
@@ -2351,19 +2370,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 05:21
-1405/03/21
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 President Trump released a statement on Truth Social calling on Republicans in Congress to immediately pass a proposed $350 billion reconciliation bill, saying it would fund a major military expansion and include the “Save America Act,” which contains election, immigration, and social policy measures.
-‏
-‏Trump said the package would support projects including the Golden Dome missile defense system, the Golden Fleet, expanded ammunition production, and increased Space Force and drone capabilities.
-‏
-‏@wfwitness
-05:12
 1405/03/21
 
 
@@ -4106,21 +4112,6 @@ src :@Artemis_Force
 
 
 
-src :@ClashReport
-[عکس]
-‏Lockheed Martin says it cannot tell allies when they will receive Patriot PAC-3 missiles because the US government—not the company—decides who gets them first.
-‏
-‏The company is increasing production from 650 missiles annually to 2,000 by 2033 under a $4.7 billion Pentagon contract, but demand has surged due to conflicts in Ukraine and Iran.
-‏
-‏Countries including Germany, Japan, Poland, Saudi Arabia, and the UAE face uncertainty over deliveries as Washington prioritizes missile allocations.
-‏
-‏Source: FT
-02:32
-1405/03/21
-
-
-
-
 src :@P_raetorio
 ‏اینگونه که صدا و سیما پیش می‌رود پدافندهای نداشتهِ سه‌راه تهرانپارس و میدان خراسان را نیز فعال خواهد کرد 
 ‏
@@ -4199,16 +4190,6 @@ src :@bricsnews
 src :@P_raetorio
 ‏خبرگزاری تسنیم به نقل از نیروی دریایی سپاه پاسداران از هدف قرار گرفتن دو کشتی که قصد عبور از تنگه هرمز را داشتند خبر داده است.
 02:25
-1405/03/21
-
-
-
-
-src :@ClashReport
-‏IRGC Navy: 
-‏
-‏Two vessels that attempted to illegally transit the Strait of Hormuz were struck after violating the passage restrictions.
-02:24
 1405/03/21
 
 
@@ -4675,17 +4656,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 01:51
-1405/03/21
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏مقامات امنیتی اسرائیل اعلام کردند که اسرائیل در این مرحله در حملات آمریکا به ایران دخالتی ندارد.
-‏
-‏منبع: کان نیوز
-‏🆔 @WAR_ROOM_NEWS
-01:48
 1405/03/21
 
 
