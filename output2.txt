@@ -1,3 +1,77 @@
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇷/🇧🇭 BREAKING: Confirmed impact in Manama, Bahrain
+‏
+‏@Middle_East_Spectator
+06:01
+1405/03/21
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Early warning alerts are in effect in Kiryat Shmona, and the surrounding areas of the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+06:01
+1405/03/21
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏اعمدة الدخان تتصاعد في المنامة
+06:01
+1405/03/21
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸🇧🇭- At least one interception over Manama, Bahrain, along with reports of an impact.
+06:00
+1405/03/21
+
+
+
+
+src :@naya_foriraq
+‏بحرين تدك مجددا بالصواريخ
+06:00
+1405/03/21
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷🇧🇭⚡️- Sirens in Bahrain simultaneously.
+05:59
+1405/03/21
+
+
+
+
+src :@mwarmonitor
+‏🔴 ارتش کویت: سامانه‌های پدافند هوایی در حال حاضر در حال مقابله با اهداف هوایی متخاصم هستند، طبق رویه‌ها و دستورالعمل‌های عملیاتی مورد تأیید.
+‏
+‏@mwarmonitor
+05:58
+1405/03/21
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸🇧🇭 — Large explosion in Bahrain.
+05:58
+1405/03/21
+
+
+
+
 src :@mwarmonitor
 ‏🔴نیروهای آمریکا جدیدترین حملات در ایران را تکمیل کردند
 ‏فرماندهی مرکزی ایالات متحده آمریکا (CENTCOM)
@@ -544,14 +618,6 @@ src :@jangaavaran1390
 
 
 
-src :@naya_foriraq
-‏الاعلام العبري: يبدو انها عمليات اعتراض فوق مستوطنة كاتزرين بالجولان.
-05:36
-1405/03/21
-
-
-
-
 src :@jangaavaran1390
 ‏مقامات آمریکایی به وال استریت ژورنال گفتند که رئیس‌جمهور ترامپ دیپلماسی با ایران را رها نکرده است، اگرچه صبر او به طور فزاینده‌ای کاهش یافته است.
 ‏
@@ -592,15 +658,6 @@ src :@militaryinpersian
 ‏📝  AmirF15
 ‏
 ‏👑 @Fighter_Radar
-05:34
-1405/03/21
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏موجة صاروخية جديدة تنطلق من ايران الإسلامية
 05:34
 1405/03/21
 
@@ -1027,15 +1084,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇺🇸🇺🇸❌🇮🇷 — Mehr News Agency reports that sounds of an explosion was heard in the Pishva and Qarchak areas of Tehran, originating from outside the city, likely TLAM strikes against  IRGC bases   @BellumActaNews
 05:00
-1405/03/21
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸❌🇮🇷 — At least one U.S. airstrike targeted Pishva, Iran's Tehran province, in the recent wave of American attacks.
-04:55
 1405/03/21
 
 
@@ -1684,17 +1732,6 @@ src :@militaryinpersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 American airstrikes targeted Varamin, south of Tehran
-‏
-‏@wfwitness
-04:18
-1405/03/21
-
-
-
-
 src :@defence_news
 ‏حملات به سیریک و بندر عباس همچنان ادامه دارد
 ‏
@@ -1720,14 +1757,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 04:17
-1405/03/21
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇧🇭 BREAKING: Sirens in Bahrain  @Middle_East_Spectator
-04:16
 1405/03/21
 
 
@@ -2005,17 +2034,6 @@ src :@Indypersian
 ‏♦️روابط عمومی سپاه اعلام کرد که در واکنش به حمله‌های بامداد پنجشنبه آمریکا به «بعضی از واحدهای خدماتی و پاسگاه های ساحلی سپاه و فرماندهی انتظامی و محوط فرودگاه بندرعباس»، طی دو موج حمله عملیاتی علیه ۱۸ هدف متعلق به ارتش آمریکا در پایگاه‌های هوایی علی السالم (در کویت نزدیکی مرز عراق)، احمد الجابر (کویت) و شیخ عیسی (بحرین) حمله کرده است. هنوز مقامات کویت یا بحرین یا سنتکام در این زمینه اظهارنظر نکرده‌اند.
 ‏
 ‏@indypersian
-04:01
-1405/03/21
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇧🇭 BREAKING: Sirens in Bahrain
-‏
-‏@Middle_East_Spectator
 04:01
 1405/03/21
 
@@ -2969,15 +2987,6 @@ src :@cataphract1
 ‏
 ‏🖋#Ethan 
 ‏📃@Cataphract1
-03:08
-1405/03/21
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇷⚡️- CENTCOM denies the Iranian report that the Strait of Hormuz has been closed.
 03:08
 1405/03/21
 
@@ -5514,14 +5523,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 00:53
-1405/03/21
-
-
-
-
-src :@mwarmonitor
-‏پدافند هوایی تهران فعال شد
-00:49
 1405/03/21
 
 
