@@ -1,5 +1,106 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸🇺🇸- A US Air Force F-35A Lightning II fighter jet has squawked 7700 (General Emergency) minutes after taking off from Abu Dhabi's Al Dhafra Air Base.
+01:23
+1405/03/22
+
+
+
+
+src :@BellumActaNews
+‏🇮🇷💥 — 2x blasts reported near Sirik, Hormozgan Province, Southern Iran  @BellumActaNews
+01:21
+1405/03/22
+
+
+
+
+src :@rus_cosmos
+‏دو انفجار در سیریک گزارش شد
+01:21
+1405/03/22
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 هر بار که این سوخترسان آمریکایی روی تنگه هرمز چرخ میزنه ، صدای انفجار از بندرعباس یا میناب یا سیریک میاد 
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+01:21
+1405/03/22
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏طائرة حربية تطلق نداء استغاثة فوق ابو ظبي لاسباب غير معروفة.
+01:20
+1405/03/22
+
+
+
+
+src :@guard_warriors
+‏سر بند چهارم هم در میناب توافق شد.
+‏
+‏@Guard_warriors | KMI
+01:17
+1405/03/22
+
+
+
+
+src :@ClashReport
+‏Iran's Tasnim:
+‏
+‏The draft agreement has not yet received final approval from Iranian authorities. 
+‏
+‏According to informed sources, the U.S. dropped its push for changes to Iran’s 14-point response after military and diplomatic pressure failed. 
+‏
+‏Iran rejected the latest proposed changes, and the text is still under review by relevant Iranian institutions. 
+‏
+‏Until that process is complete, other reports and speculation should be treated with caution.
+01:17
+1405/03/22
+
+
+
+
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷 NEW: Explosions heard in Sirik, southern Iran  Some say it’s possibly related to the launch of anti-ship missiles or drones towards the Strait of Hormuz.  @Middle_East_Spectator
+01:17
+1405/03/22
+
+
+
+
+src :@World_Newsly
+‏🔴تسنیم : 
+‏تا این لحظه هیچ اصابت پرتابه و درگیری در سیریک وجود نداشته است
+‏
+‏یک منبع در استانداری هرمزگان به تسنیم کفت:
+‏
+‏▪️ تا این لحظه هیچ اصابت پرتابه و درگیری در سیریک وجود نداشته است.
+‏
+‏▪️ صداهای شنیده شده از سمت دریا و مرتبط با تنگه هرمز است.
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+01:17
+1405/03/22
+
+
+
+
+src :@intelslava
+‏🇮🇷⚡️ — Explosions heard again in the maritime area off Sirik, Hormozgan Province, cause still unknown, Mehr News reports.
 01:17
 1405/03/22
 
@@ -41,7 +142,7 @@ src :@GeoPWatch
 src :@VahidOnline
 ‏ادعای تسنیم: آمریکا از اصلاحیه‌های اخیر خود کوتاه آمده!
 ‏
-‏خبرگزاری تسنیم، وابسته به سپاه نوشته:
+‏خبرگزاری تسنیم، وابسته به سپاه، نوشته:
 ‏متن تفاهم تا این لحظه در مراجع ذی‌صلاح  ایران به تایید نهایی نرسیده است
 ‏
 ‏▪️ پیگیری‌های خبرنگار تسنیم از منابع مطلع حاکیست: آخرین تحول رخ داده این است که فشار نظامی و دیپلماتیک آمریکا برای تغییر در متن ۱۴ ماده‌ای پاسخ نداده و آمریکا از طریق واسطه قطری اعلام کرده است که نیازی به اصلاحیه‌های اخیر آمریکا نیست.  
@@ -741,7 +842,7 @@ src :@VahidOnline
 ‏🔺منابع خبری از شنیده‌شدن مجدد صدا در محدوده دریایی سیریک خبر دادند
 ‏🔺ماهیت و علت انفجارها در سیریک  هنوز بطور دقیق مشخص نشده اما برخی منابع آگاه آنرا مرتبط با مدیریت و بسته نگه داشتن تنگه هرمز می‌دانند.
 ‏
-‏🔄 آپدیت ۱:۱۰
+‏ آپدیت ۱:۱۰
 ‏پست تازه خبرگزاری مهر:
 ‏♦️تکرار صدای انفجار در محدوده دریایی سیریک؛ علت هنوز نامشخص
 ‏
@@ -753,6 +854,11 @@ src :@VahidOnline
 ‏
 ‏🔹با این حال، هیچ‌یک از این فرضیه‌ها تاکنون به طور رسمی تأیید نشده است.
 ‏
+‏آپدیت ۱:۱۵
+‏تسنیم: سیریک نیست. سمت دریا است.
+‏یک منبع در استانداری هرمزگان به تسنیم کفت:
+‏🔹 تا این لحظه هیچ اصابت پرتابه و درگیری در سیریک وجود نداشته است.
+‏🔹 صداهای شنیده شده از سمت دریا و مرتبط با تنگه هرمز است.
 ‏
 ‏📡 @VahidOnline
 00:50
@@ -871,27 +977,10 @@ src :@DEJradio
 
 
 
-src :@World_Newsly
-[ویدئو]
-‏🔴فکر کنم بند پنجمه دارن امضا میکنن  ✍🏻 Nadershah ▪️@World_Newsly
-00:45
-1405/03/22
-
-
-
-
 src :@guard_warriors
 ‏✪ گویا دو انفجار در سیریک رخ داده ( واقعا سیرکه ) 
 ‏
 ‏@Guard_Warriors | Raptor
-00:44
-1405/03/22
-
-
-
-
-src :@World_Newsly
-‏اگه تایید بشه ، نترسید صدای توافقه ✍🏻 Nadershah ▪️@World_Newsly
 00:44
 1405/03/22
 
@@ -1406,14 +1495,6 @@ src :@MilitarryWorld
 ‏کشتی‌ها باید مراقبت کنند برای اینکه امکان تردد ایمن وجود ندارد.
 ‏
 ‏@MilitarryWorld | Parsa
-00:17
-1405/03/22
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING 🇮🇷🇺🇸- Esmail Baghaei:  The matters raised about the agreement are speculation, and nothing has been finalized.  The situation in the Strait of Hormuz is more insecure due to US actions.  So far, Iran has not reached a final conclusion about the agreement.
 00:17
 1405/03/22
 
@@ -2671,20 +2752,6 @@ src :@thewarreporter
 ‏"Given that the US has accepted Iran's proposed text, the likelihood of the agreement being approved by Iran's highest decision-making authorities is relatively high".
 ‏
 ‏@TheWarReporter
-23:17
-1405/03/21
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، پنجشنبه در کاخ سفید به خبرنگاران گفت که توافق احتمالی با جمهوری اسلامی ممکن است تا چند روز دیگر در اروپا امضا شود.
-‏
-‏او افزود که جی‌دی ونس، معاون ربیس‌جمهوری آمریکا، در مراسم امضای توافق احتمالی میان آمریکا و ایران شرکت خواهد کرد.
-‏
-‏ترامپ درباره ایران گفت به یک توافق عالی رسیده‌اند و افزود نهایی شدن آن در چند روز آینده ممکن است.
-‏https://iranintl.com/202606110784
 23:17
 1405/03/21
 
@@ -6367,27 +6434,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@BellumActaNews
-[عکس]
-‏BREAKING: The "Strong Armenia" Alliance will seek the annulment of Armenia's parliamentary election results, arguing that the outcome cannot be considered reliable while recounts are still underway in hundreds of polling stations across the country.
-‏
-‏The alliance is expected to file an application with the Central Electoral Commission tomorrow, requesting a review of the election results and the vote-counting process.
-‏
-‏"If we do not receive a prompt response, we will apply to the Constitutional Court," said Narek Karapetyan, a member of the "Strong Armenia" Party council and the top candidate on the alliance's electoral list.
-‏
-‏According to the Central Electoral Commission, recount requests have been submitted for 555 polling stations nationwide, an unprecedented figure that has intensified scrutiny of the vote-counting process.
-‏
-‏The alliance says it is challenging the results due to discrepancies in vote counts, electoral violations, and the misuse of administrative resources during both the campaign and election day.
-‏
-‏According to the preliminary results published by the Central Electoral Commission before the recount process began, the "Strong Armenia" Alliance received 340,062 votes, or 23.29% of the total vote, emerging as the largest opposition force in the new parliament.
-‏
-‏#ArmVote26
-17:43
-1405/03/21
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏در رابطه با جزیره خارک!!!
@@ -7163,17 +7209,6 @@ src :@Parvazdaroj
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ آتش سوزی در سایت راداری کوه دخان در نزدیکی پایگاه شیخ عیسی بحرین
-‏
-‏@Guard_Warriors | Mmd
-12:31
-1405/03/21
-
-
-
-
 src :@mamlekate
 ‏📝 فری‌پرس: دولت ترامپ اخراج تریتا پارسی، رییس پیشین نایاک، از آمریکا را بررسی می‌کند
 ‏
@@ -7544,18 +7579,6 @@ src :@militaryinpersian
 
 
 
-src :@rus_cosmos
-‏ترامپ: مستقیماً با مقامات ایرانی صحبت کردم، بمباران بزودی متوقف خواهد شد.
-‏
-‏اگر ایران توافقنامه رو امضا نکنه، فرداشب به بمباران آنها برمیگردیم!
-‏
-‏۴۹ موشک کروز تاماهاوک در حملات امشب استفاده شده است.
-07:18
-1405/03/21
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇷 — Iran's Khatam al-Anbiya Central Headquarters announced the Strait of Hormuz is closed to all vessel traffic, including oil tankers and commercial ships. They warned any vessel attempting to transit the strait would be targeted.
@@ -7759,23 +7782,4 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 02:04
-1405/03/21
-
-
-
-
-src :@mamlekate
-‏📝 صدای پرواز هواپیما در جزیره کیش
-‏
-‏📝 الو هنگام زدن ۱۲:۵۰ دقیقه ساختمان مخابرات شهر
-‏
-‏📝 قشم سوزا جنگنده بالای سرمون اومد و همین نزدیکیا رو زد پشت سرهم داره صدا میاد ساعت ۱:۰۰
-‏
-‏📝 ساعت ۱:۰۴ دقیقه صدای انفجار اومد بندرعباس. این از دیشب صدای بیشتری داشت.
-‏
-‏📝 ۳تا پشت سرهم زد بندرعباس
-‏۱:۲۱دقیقه پنجشنبه۲۱خرداد
-‏
-‏@mamlekate
-01:21
 1405/03/21
