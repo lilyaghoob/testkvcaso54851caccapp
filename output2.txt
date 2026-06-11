@@ -1,3 +1,32 @@
+src :@Indypersian
+[عکس]
+‏♦️سفارت روسیه در تهران چهارشنبه ۲۰ خردادماه با انتشار پیامی از دستبرد سارقان به کلیسای سنت نیکولای، تنها کلیسای ارتدوکس پایتخت ایران خبر داد.
+‏
+‏سفارت روسیه با اعلام این خبر نوشت: «با نهایت تاسف و تاثر به اطلاع می‌رسانیم که در تاریخ ۲۰ خرداد از سرقت کلیسای سنت نیکولای ارتدوکس روسیه در تهران که یکی از قدیمی‌ترین عبادتگاه‌های مسیحی در ایران و تنها کلیسای ارتدوکس روسی در پایتخت ایران به شمار می‌رود، مطلع گشتیم.»
+‏
+‏سفارت روسیه افزود: «هرگز باور نمی‌کردیم که در ایران افرادی پیدا شوند که چنین رفتاری با مقدسات مسیحی داشته باشند و به ایمانی به خدای یگانه که این کلیسا دهه‌ها پاسدار و حافظ آن بوده است، اهانت کنند.»
+‏
+‏سفارت روسیه در تهران در پایان این پیام با درخواست از سارقان برای بازگردان اشیای ربوده شده نوشت: «پیش از همه از کسانی که راه خطا پیموده و مرتکب این اقدام موهن و هتک‌حرمت‌آمیز شده‌اند، درخواست می‌کند که شمایل‌ها و اشیای مقدس ربوده‌شده را به کلیسا بازگردانند و بار گناه را بیش از این بر دوش خود نیفزایند. باشد که خداوند این خطاکاران را مورد بخشش و آمرزش قرار دهد.»
+‏@IndyPersian
+08:55
+1405/03/21
+
+
+
+
+src :@World_Newsly
+‏🔴 ترامپ: ایران باید قرارداد را امضا کند یا فردا شب بیشتر بمباران خواهد شد
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+08:51
+1405/03/21
+
+
+
+
 src :@defence_news
 ‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
 08:50
@@ -1143,17 +1172,6 @@ src :@Middle_East_Spectator
 
 src :@World_Newsly
 ‏🔴تاسیسات موشکی بیدگنه کرج بمباران شده است
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:29
-1405/03/21
-
-
-
-
-src :@World_Newsly
-‏🔴خبرگزاری مهر: مرحله اول از عملیات تهاجمی موشکی و پهپادی سپاه پاسداران انجام شد
 ‏
 ‏✍🏻 Dangerman
 ‏▪️@World_Newsly
@@ -4618,14 +4636,6 @@ src :@mwarmonitor
 
 
 
-src :@P_raetorio
-‏#مهم   به گزارش آکسیوس، مذاکرات ایران و آمریکا به طور کامل فرو پاشید    @P_raetorio
-01:50
-1405/03/21
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏مقامات امنیتی اسرائیل اعلام کردند که اسرائیل در این مرحله در حملات آمریکا به ایران دخالتی ندارد.
 ‏
@@ -6299,54 +6309,6 @@ src :@selena_updates
 
 
 
-src :@selena_updates
-[عکس]
-‏US President Donald Trump on Israel and Turkey
-‏
-‏Reporter: Do you think there is a chance for conflict between Israel and Turkey?
-‏
-‏Trump: I like Erdogan a lot. He is a strong person... I don't think that will happen with Turkey, not as long as I am president, because Erdogan respects me and I respect him.
-19:35
-1405/03/20
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The IAEA Board of Governors passed a U.S.-backed resolution demanding that Iran disclose the location and status of its remaining enriched uranium stockpiles and allow inspectors access to verify them. 
-‏
-‏The measure passed 21–3, with Russia, China, and Niger voting against and 10 countries abstaining, amid growing concern that the agency has been unable to verify Iran’s near-weapons-grade uranium inventory since the 2025 strikes on Iranian nuclear sites.
-‏
-‏Tehran rejected the resolution and warned it would take reciprocal measures in response.
-19:35
-1405/03/20
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iranian officials in the Hormozgan Province of Southern Iran say that U.S. strikes early Wednesday targeted and destroyed 2 fresh water storage reservoirs with a combined capacity of 2,500 cubic metre, which supply water to 20,000 residents in the city of Kuhestak and 10 surrounding villages in the Bemani District.
-‏
-‏Though asked for comment, U.S. Central Command (CENTCOM) refused to confirm or deny whether strikes were carried out on reservoirs in Southern Iran.
-19:31
-1405/03/20
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Texas Department of Public Safety and U.S. Border Patrol detained a group of migrants attempting to illegally cross the border into the United States from Mexico near Roma, Texas on Sunday, June 7. 
-‏
-‏Among the group of migrants was a Russian Special Interest Alien, who was flagged as potentially posing a national security or counterintelligence risk to the United States.
-19:27
-1405/03/20
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇮🇷 — U.S. President Donald Trump on Iran: "we hit them hard yesterday and we're gonna hit them again hard today."
@@ -6390,15 +6352,6 @@ src :@KayhanLondonChannel
 ‏- دبیر سندیکای صنعت برق همچنین با بیان اینکه «منشاء بی‌برقی امسال به کمبود سوخت نیروگاه‌ها است» گفته اگر مشکل تأمین گاز نیروگاه‌ها تا پاییز و زمستان برطرف نشود، ناترازی برق در ماه‌های سرد سال نیز ادامه خواهد یافت.
 ‏ 
 ‏https://kayhan.london/1405/03/20/403273/
-19:15
-1405/03/20
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Israel released 10 more gazan prisoners of war back to Gaza, who were transferred to Al-Aqsa Martyrs Hospital in Deir al-Balah, central Gaza Strip, for medical checkup.
 19:15
 1405/03/20
 
