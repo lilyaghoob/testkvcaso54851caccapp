@@ -1071,14 +1071,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-‏الله أكبر
-05:49
-1405/03/21
-
-
-
-
 src :@thewarreporter
 ‏🇰🇼🇧🇭🇮🇷 — Sirens in Kuwait and Bahrain.  @TheWarReporter
 05:49
@@ -3983,16 +3975,6 @@ src :@Mena_Live
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی برنامه با کامبیز حسینی؛ آیا این «تیم ملی» را نمایندهٔ خودتان می‌دانید؟
-‏@iranintlTV
-02:08
-1405/03/21
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏روابط عمومی سپاه : در پی تجاوز جنگنده F-16 به حریم هوایی خلیج فارس و شلیک موشک سامانه پدافند هوایی سپاه به سمت آن، جنگنده متجاوز متواری گشت.
@@ -4182,16 +4164,6 @@ src :@intelslava
 ‏"We warn against the continued aggression of the USA against the Islamic Republic of Iran and its consequences, which are a threat to international security and peace"
 ‏
 ‏@Intelslava
-02:01
-1405/03/21
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: تهدید ترامپ به حمله سنگین
-‏@iranintlTV
 02:01
 1405/03/21
 
