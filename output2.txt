@@ -1,3 +1,40 @@
+src :@ClashReport
+‏Iranian missile impact recorded at Ramat David Airbase (northern Israel).  The strike likely destroyed a warehouse/storage building.
+00:11
+1405/03/23
+
+
+
+
+src :@wfwitness
+‏⚡️⚽️🇨🇦🇧🇦 Canada equalise in the 78 min.
+‏
+‏Canada 1 - Bosnia 1
+‏
+‏@wfwitness
+00:11
+1405/03/23
+
+
+
+
+src :@GeoPWatch
+‏🇨🇦⚽️🇧🇦- The second half is underway in Toronto Stadium, Canada; 1-0 to Bosnia.
+00:10
+1405/03/23
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸⚡️- Martin Luther King Jr's daughter Bernice King put out a statement denouncing the conviction of Karmelo Anthony.
+00:09
+1405/03/23
+
+
+
+
 src :@P_raetorio
 ‏Praetorio pinned a photo
 00:04
@@ -165,7 +202,7 @@ src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 کشتی جنگی یاماتو، بزرگترین کشتی جنگی جنگ جهانی دوم، مربوط به نیروی دریایی امپراطوری ژاپن. غرق شده در شرق دریای چین، مورخ ۷ آپریل ۱۹۴۵.
 ‏
-‏🔹این کشتی با وزنی بیش از ۷۰ هزار تن، در دنیای امروز  وزن آن حتی از ناوهواپیمابر ملکه الیزابت هم بیشتر است.
+‏🔹این کشتی با طولی بیش از ۲۶۰ متر و وزنی بیش از ۷۰ هزار تن، در دنیای امروز  وزن آن حتی از ناوهواپیمابر ملکه الیزابت هم بیشتر است.
 ‏
 ‏🔹توجه کنید که با تکنولوژی بیش از ۸۰ سال پیش چنین شناوری ساخته شد آن هم بدون پیشرانه هسته‌ای!!
 ‏
@@ -515,6 +552,9 @@ src :@IranintlTV
 
 src :@VahidOnline
 [عکس]
+‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، درباره تفاهم با آمریکا به صداوسیما گفت: «احتمالا در چند روز آینده تفاهم‌نامه میان ما و آمریکا امضا خواهد شد.»
+‏او افزود: «امضای یادداشت تفاهم بعد از گذشتن از آخرین مراحل مذاکرات به صورت دیجیتالی و از راه دور انجام می‌شود که اعلام خواهد شد.»
+‏@VahidOOnLine
 ‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، شامگاه جمعه در یک برنامه زنده تلویزیونی اعلام کرد هنوز توافقی با آمریکا امضا نشده و مدعی شد که پرونده هسته‌ای ایران به مرحله دوم و نهایی این توافق موکول شده است.
 ‏
 ‏او در گفت‌وگو با تلویزیون حکومتی ایران گفت توافق احتمالی با ایالات متحده شامل دو مرحله است و «موضوع هسته‌ای را به مرحله دوم انتقال دادیم».
@@ -531,8 +571,6 @@ src :@VahidOnline
 ‏
 ‏مقام‌های آمریکایی آزاد شدن این دارایی‌ها را به دفعات رد کرده‌اند. جی‌دی ونس، معاون رئیس‌جمهور آمریکا ساعاتی پیش تصریح کرد بعد از امضای توافق، هیچ‌گونه منابع مالی در اختیار ایران قرار نخواهد گرفت.
 ‏@VahidHeadline
-‏این رو هم گفته که:  اگر آخرین مرحله مذاکرات انجام شود تفاهم از راه دور به امضای دو طرف می‌رسد و اعلام خواهد شد. ممکن است در چند روز آینده اتفاق بیفتد.
-‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
 23:29
@@ -1748,19 +1786,6 @@ src :@World_Newsly
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
 22:52
-1405/03/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran's Ghalibaf:
-‏
-‏Commitments made must be commitments kept. No ifs, no buts, no excuses. For the close deal ahead, there is no other way.
-‏
-‏You reap what you sow.
-22:51
 1405/03/22
 
 
@@ -3109,14 +3134,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:13
-1405/03/22
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷🇺🇸- Iranian Foreign Ministry spokesperson Esmail Baghaei has announced that claims of being "very close to an understanding" are not new, citing the contradictory statements from the American side as the main problem throughout the negotiation process. …
-21:12
 1405/03/22
 
 
@@ -5927,14 +5944,6 @@ src :@warmonitors
 src :@rnintel
 ‏🇺🇸🇮🇷🇨🇭 - Bloomberg confirms Israel Hayom's report that the two sides could pen the memorandum of understanding, MoU, as soon as this Sunday in Geneva.  President Trump is expected to attend the G7 summit in France at the same time.
 17:06
-1405/03/22
-
-
-
-
-src :@rnintel
-‏🇮🇶⚡- The Iraqi News Agency reports the country's intelligence services thwarted an assassination plot that aimed to kill the Head of the National Security Services and several other NSS officers.
-17:04
 1405/03/22
 
 
