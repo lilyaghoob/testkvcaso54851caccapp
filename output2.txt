@@ -1,3 +1,26 @@
+src :@World_Newsly
+‏🔴گزارش شنیده شدن صدای انفجار در سیریک 
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+00:16
+1405/03/23
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷 NEW: The sound of an explosion was heard near Sirik
+‏
+‏Likely related to management of the Strait of Hormuz (warning shots to violating vessels).
+‏
+‏@Middle_East_Spectator
+00:14
+1405/03/23
+
+
+
+
 src :@ClashReport
 ‏Iranian missile impact recorded at Ramat David Airbase (northern Israel).  The strike likely destroyed a warehouse/storage building.
 00:11
@@ -13,14 +36,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 00:11
-1405/03/23
-
-
-
-
-src :@GeoPWatch
-‏🇨🇦⚽️🇧🇦- The second half is underway in Toronto Stadium, Canada; 1-0 to Bosnia.
-00:10
 1405/03/23
 
 
@@ -200,7 +215,7 @@ src :@defence_news
 
 src :@RASTAKHIZ_PERSIAN
 [عکس]
-‏🔶 کشتی جنگی یاماتو، بزرگترین کشتی جنگی جنگ جهانی دوم، مربوط به نیروی دریایی امپراطوری ژاپن. غرق شده در شرق دریای چین، مورخ ۷ آپریل ۱۹۴۵.
+‏🔶 کشتی جنگی یاماتو، بزرگترین کشتی جنگی جنگ جهانی دوم، مربوط به نیروی دریایی امپراطوری ژاپن. غرق شده توسط آمریکا، شرق دریای چین، مورخ ۷ آپریل ۱۹۴۵.
 ‏
 ‏🔹این کشتی با طولی بیش از ۲۶۰ متر و وزنی بیش از ۷۰ هزار تن، در دنیای امروز  وزن آن حتی از ناوهواپیمابر ملکه الیزابت هم بیشتر است.
 ‏
@@ -2308,18 +2323,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴ارتش آمریکا:
-‏اعمال محاصره دریایی علیه بنادر ایران با قاطعیت ادامه خواهد یافت.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-22:20
-1405/03/22
-
-
-
-
 src :@naya_foriraq
 ‏🌟🏴‍☠️إستهداف دبابتي ميركافا لجيش الإحتلال الإسرائيلي في محيط بلدة يحمر الشقيف بجنوب لبنان.
 22:20
@@ -4227,17 +4230,6 @@ src :@P_raetorio
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷/🇵🇰 BREAKING: Pakistan confirms that a final text for the MoU has been reached
-‏
-‏@Middle_East_Spectator
-20:10
-1405/03/22
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏امیرحسین ثابتی، عضو مجلس شورای اسلامی، نوشته:
@@ -4809,20 +4801,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 19:24
-1405/03/22
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ روزنامه واشنگتن‌پست در گزارشی اختصاصی به نقل از مقامات امنیتی خاورمیانه و غرب مدعی شد که قطر در ابتدای جنگ، تلاش کرده بود تا طی یک توافق مخفیانه با تهران، تاسیسات عظیم گاز طبیعی خود در «رأس لفان» را از بانک اهداف ایران خارج کند.
-‏
-‏بر اساس این گزارش که از پیام‌های رهگیری‌شده و داده‌های اطلاعاتی به دست آمده، دوحه به تهران پیشنهاد داده بود که در قبال مصون ماندن تاسیسات رأس لفان، تولید گاز خود را به صورت یک‌جانبه متوقف کند.
-‏
-‏در واکنش به این گزارش، دفتر رسانه‌ای بین‌المللی قطر با صدور بیانیه‌ای شدیداللحن، این ادعاها را «کاملا بی‌اساس» خواند و تکذیب کرد. دوحه تاکید کرد این اتهامات با توجه به اینکه قطر در همان زمان در حال دفاع فعال از خاک خود در برابر حملات موشکی ایران بوده، به هیچ وجه باورکردنی نیست. دولت قطر تصریح کرد که این گزارش بر پایه اطلاعات دروغین و هدایت‌شده از سوی بازیگرانی تنظیم شده است که هدفشان خرابکاری در تلاش‌های میانجی‌گرانه جاری، تخریب شهرت قطر و آسیب زدن به شراکت راهبردی این کشور با ایالات متحده است.
-‏@indypersian
-19:19
 1405/03/22
 
 
@@ -7734,12 +7712,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:43
-1405/03/22
-
-
-
-
-src :@Mena_Live
-‏Kan Hebrew:  the framework agreement does not include   - the removal of enriched material,   - dismantling of nuclear facilities,   - limiting [ballistic] missile production,   or stopping “terrorism” [Finance of proxies]  @Mena_Live
-00:13
 1405/03/22
