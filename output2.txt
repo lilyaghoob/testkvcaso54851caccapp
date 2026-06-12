@@ -1,3 +1,11 @@
+src :@mohem_mat
+‏تهران در طول دوران تبادل پیام‌ها، برای اطمینان از اجرای برخی مفاد تفاهم‌نامه تضمین‌های معتبری از برخی طرف‌های ثالث برای اجرای تعهدات پیش‌بینی شده دریافت کرده‌است.  ایران هیچ تعهدی درباره واگذاری مدیریت تنگه هرمز نداده و آمریکا نیز هیچ نقشی در آینده مدیریت…
+14:13
+1405/03/22
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏بر اساس اطلاعات رسیده به ایران‌وایر، «امیر احمدوند» ۳۹ ساله، شامگاه ۱۸ دی‌ماه ۱۴۰۴ در نزدیکی کلانتری رشید در تهران هدف شلیک گلوله قرار گرفت و جان خود را از دست داد. او متأهل بود و همسرش در زمان کشته‌شدن او سه ماهه باردار و در شرایط استراحت مطلق قرار داشت.
@@ -2936,23 +2944,6 @@ src :@Parvazdaroj
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran appears to have hit the AR-327 early warning radar at Jabal ad Dukhan, Bahrain's highest point at 134m.
-‏
-‏The site hosts a British-made BAE Systems long-range 3D air surveillance radar with ~470km range, housed in a fixed radome, monitoring Gulf sea lanes and air approaches to the Strait of Hormuz.
-‏
-‏Smoke plumes from Iranian-released imagery were geolocated by OSINT analysts directly to the radar compound at ~26.0375°N, 50.5420°E.
-‏
-‏The radar is a node in the regional US-linked early warning and missile defense network tied to Fifth Fleet operations.
-‏
-‏Source: MenchOsint
-11:45
-1405/03/22
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇬🇧 Reuters: British Defence Secretary John Healey has resigned, accusing British Prime Minister Keir Starmer of failing to commit the resources needed to defend the country.   In his resignation letter, Healey said the Treasury has been unwilling to provide…
@@ -3784,19 +3775,6 @@ src :@Parvazdaroj
 ‏3/3
 ‏@Parvazdaroj | Phoenix
 10:20
-1405/03/22
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏✅ کنایه گرگ کارلستروم خبرنگار اکونومیست در واکنش به اخبار ضد و نقیض ترامپ نوشت: 
-‏
-‏اعتبار آمریکا تا آنجا تنزل یافته است که رئیس‌جمهور می‌تواند از دستیابی به یک توافق دیپلماتیک خبر دهد، اما واکنش تقریباً همگانی این باشد که: صبر کنیم ببینیم {خبرگزاری} «تسنیم» آن را تأیید می‌کند یا نه
-‏
-‏ @iran_eghtesadi 🇮🇷
-10:18
 1405/03/22
 
 
