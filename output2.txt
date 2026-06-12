@@ -1,3 +1,70 @@
+src :@MilitarryWorld
+[ویدئو]
+‏🚨خبر فوری رویترز: 
+‏
+‏توافق توسط جی‌دی ونس و قالیباف امضا می‌شود.
+‏
+‏@MilitarryWorld | Parsa
+16:01
+1405/03/22
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار نیم‌روزی | جمعه ۲۲ خرداد
+‏@iranintlTV
+16:01
+1405/03/22
+
+
+
+
+src :@World_Newsly
+[ویدئو]
+‏🔴 رویترز: 
+‏توافق توسط جی‌دی ونس و قالیباف امضا می‌شود.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+16:00
+1405/03/22
+
+
+
+
+src :@cataphract1
+‏⚜یک منبع غربی به رویترز اعلام کرد که تفاهم‌نامه صلح میان آمریکا و ایران ممکن است روز یکشنبه در ژنو به امضا برسد.
+‏
+‏⚜با این حال، جزئیات و متن نهایی توافق همچنان در حال تدوین است و تهران تأکید دارد که هرگونه توافق باید شامل توقف درگیری‌ها در لبنان نیز باشد؛ جایی که اسرائیل همچنان به عملیات نظامی خود علیه حزب‌الله ادامه می‌دهد.
+‏✒️#LT
+‏📃@Cataphract1
+15:59
+1405/03/22
+
+
+
+
+src :@naya_foriraq
+‏🇱🇧كتلة «الوفاء للمقاومة» التابعة لحزب الله:
+‏
+‏المفاوضات المباشرة التي انزلقت فيها السلطة لردم هوة العداء للكيان الصهيوني أدت إلى مزيد من الانقسام الداخلي بين اللبنانيين، الإصرار على المضي في هذا الخيار يشكل مكابرةً غبيةً تصبح معها المفاوضات انتحاراً سياسياً مجانياً لن يحقق شيئاً، الحل يقتضي عودة السلطة عن خياراتها العدمية هذه والابتعاد عن خطاب التحريض والكراهية وعن استعداء غالبية الشعب
+15:58
+1405/03/22
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — CENTCOM says U.S. forces have redirected 136 commercial vessels and disabled 9 since the start of the blockade on Iranian ports on April 13th.
+15:58
+1405/03/22
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇩🇰⚡️ — Donald Trump Jr. was spotted at the luxurious Hotel d'Angleterre in Copenhagen, Denmark, yesterday along with an entourage of Secret Service agents.
@@ -408,15 +475,6 @@ src :@Indypersian
 
 
 
-src :@militaryinpersian
-[عکس]
-‏افرادی که جویای وضعیت تحویل جنگنده های سوخو 35 هستند باید در پاسخ گفت: فعلا حتی رهبر جمهوری اسلامی دفن نشده شاید پس از دفن رهبر تحویل این جنگنده ها شروع شود اگرچه ابتدا رهبر باید دفن شود. میلیتاری در پارسی @militaryinpersian
-15:30
-1405/03/22
-
-
-
-
 src :@World_Newsly
 ‏🔴 نتانیاهو: تا زمانی که من نخست‌ وزیر اسرائیل باشم، ایران سلاح هسته‌ ای نخواهد داشت
 ‏
@@ -504,14 +562,6 @@ src :@rnintel
 
 
 
-src :@militaryinpersian
-‏https://www.karzar.net/323700  این کارزار را امضا کنید خواهشا،هر گروه حتی فامیلی و دوستانه دارید به اشتراک بگذارید . قرار نیست به نتیجه ای برسد ولی حتما می‌فهمند که همه مردم میدانند شهید خامنه ای چه گفته بود،قدرت هر ملتی در رهبری و عزم در رهبری است . هدف از…
-15:24
-1405/03/22
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇱🇮🇷 Israeli Prime Minister Netanyahu says Iran will not possess a nuclear weapon as long as he remains in office.
 ‏
@@ -577,14 +627,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 15:18
-1405/03/22
-
-
-
-
-src :@militaryinpersian
-‏شاید پس از دفن رهبر تحویل این جنگنده ها شروع شود اگرچه ابتدا رهبر باید دفن شود.
-15:16
 1405/03/22
 
 
@@ -2706,17 +2748,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Elon Musk has become the world’s first trillionaire on paper following the record IPO of SpaceX, which raised about $75 billion after pricing shares at $135 each and valued the company at roughly $1.77 trillion.  
-‏
-‏➡️ Musk’s stake in SpaceX is worth an estimated $866.5 billion on paper, while his holdings in Tesla are valued at around $286.2 billion, bringing the combined value of his disclosed holdings to approximately $1.1 trillion.
-12:53
-1405/03/22
-
-
-
-
 src :@P_raetorio
 ‏⭕️مهر: جزئیات پیش‌نویس ۱۴ بندی تفاهم‌نامه ایران و آمریکا منتشر شد
 ‏
@@ -2900,48 +2931,6 @@ src :@World_Newsly
 ‏✍🏻 𝑻𝑲𝑴
 ‏▪️ @World_Newsly
 12:50
-1405/03/22
-
-
-
-
-src :@ClashReport
-‏New details of a 14-point draft Iran–US memorandum:
-‏
-‏Immediate and permanent ceasefire on all fronts, including Lebanon.
-‏
-‏US commitment not to interfere in Iran’s internal affairs and to respect Iran’s sovereignty.
-‏
-‏Full lifting of the naval blockade within 30 days.
-‏
-‏US commitment to withdraw its forces from areas surrounding Iran.
-‏
-‏Reopening of the Strait of Hormuz within 30 days under Iranian arrangements.
-‏
-‏Suspension of sanctions on Iranian oil, petrochemicals, and related exports, with full access to the resulting revenues.
-‏
-‏US and its allies to provide reconstruction plans for Iran worth at least $300 billion.
-‏
-‏A 60-day negotiation period to reach a final agreement on nuclear issues and the complete removal of US primary and secondary sanctions, as well as related UN Security Council and IAEA measures.
-‏
-‏Iran reaffirms its NPT commitment not to develop nuclear weapons.
-‏
-‏During negotiations, the US will not deploy additional forces to the region or impose new sanctions.
-‏
-‏Release of $24 billion in frozen Iranian assets during the 60-day negotiation period, with half made available before talks begin.
-‏
-‏Establishment of a monitoring mechanism to oversee implementation of the agreement.
-‏
-‏The final agreement will be endorsed by a UN Security Council resolution.
-‏
-‏Final negotiations will begin only after the release of half of Iran’s frozen assets, suspension of oil sanctions, and lifting of the naval blockade. 
-‏
-‏The final deal will focus solely on uranium enrichment, enriched material, sanctions relief, and Iran’s economic reconstruction.
-‏
-‏Iran’s missile program and support for resistance groups are excluded from the agenda.
-‏
-‏Source: Mehr
-12:49
 1405/03/22
 
 
@@ -3139,19 +3128,6 @@ src :@rus_cosmos
 ‏۱۳- توافق نامه نهایی توسط قطعنامه شورای امنیت سازمان ملل به تایید می رسد.
 ‏
 ‏۱۴- مذاکره نهایی قبل از آزادسازی نیمی از پول های بلوکه شده ایران، تعلیق تحریم های نفتی ایران و رفع محاصره دریایی آغاز نمی شود و توافق نهایی صرفا در موضوع سرنوشت مواد غنی شده و غنی سازی، رفع تحریم ها، برنامه بازسازی اقتصاد ایران انجام می شود و بحث درباره برنامه موشکی ایران و حمایت از گروه های مقاومت به صورت قطعی از دستور کار خارج شده است.
-12:40
-1405/03/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇪🇺🪖⚡️ — The U.S. plans to significantly reduce the military assets it makes available to NATO in Europe, according to NYT.
-‏
-‏Cuts include reducing deployed F-16 and F-15E fighter jets from roughly 150 to 100, cutting maritime surveillance aircraft from 26 to 15, removing all eight aerial refueling tankers assigned to Europe, reallocating an aircraft carrier, a missile submarine, several warships, and one of two bomber groups previously dedicated to European defense.
-‏
-‏Officials say the move would reduce NATO’s long-range strike and surveillance capabilities and represents one of the clearest indications yet of the Trump administration’s intention to scale back America’s military commitment to Europe.
 12:40
 1405/03/22
 
@@ -3461,19 +3437,6 @@ src :@defence_news
 
 
 
-src :@World_Newsly
-‏🔴رویترز: 
-‏
-‏امیدها برای صلح بین ایران و ایالات متحده افزایش یافت پس از آنکه رئیس جمهور ترامپ گفت که به محض این آخر هفته می تواند توافق نامه امضا شود ، حتی اگر تهران گفت که تصمیم نهایی در مورد پیمان اتخاذ نکرده است.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-12:20
-1405/03/22
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏سازمان کشورهای صادرکننده نفت (اوپک) در تازه‌ترین گزارش خود از کاهش چشمگیر تولید نفت ایران در ماه مه خبر داده و اعلام کرده است که این میزان به پایین‌ترین سطح طی شش سال گذشته رسیده است؛ در حالی که تولید برخی کشورهای عرب منطقه روندی نسبی از بهبود را تجربه کرده‌اند.
@@ -3765,14 +3728,6 @@ src :@KayhanLondonChannel
 src :@naya_foriraq
 ‏صفارات الانذار تدوي في غلاف غزة
 12:06
-1405/03/22
-
-
-
-
-src :@naya_foriraq
-‏صفارات الانذار تدوي في غلاف غزة
-12:04
 1405/03/22
 
 
@@ -4271,25 +4226,6 @@ src :@P_raetorio
 
 
 
-src :@MilitarryWorld
-[فایل]
-‏🆕 اپلیکیشن MelBet 🔄
-‏
-‏🎁 کد هدیه 100 دلاری: Sport100
-‏
-‏🔵 کاملترین برنامه موبایل  
-‏🤝 اسپانسر رسمی لالیگا  
-‏☄️ صرافی معتبر
-‏🤖 ربات راهنما
-‏
-‏🇮🇷 برای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.
-‏✅ ورود به اپلیکیشن بدون فیلترشکن
-11:28
-1405/03/22
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏★ تیم اعزامی به چین، ظهر روز گذشته به مملکت بازگشت،طرف مقابل حاضر به نشستن پای میز مذاکره است اما اعلام کردند نسبت به هر گزینه مد نظر ایران جدا از هزینه قرارداد،شرط و شروطی خواهند داشت . نیروی هوایی هم تیم اصلی را آماده اعزام کرده ولی تا بودجه ای تامین نشود…
@@ -4364,16 +4300,6 @@ src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔹با بالارفتن صحبت ها از مذاکرات نزدیک ترین چیزی که به ذهن بنده می رسد جنگی بزرگتر و با تمرکز بر سیستان و تنگه هرمز است، بمباران های مداوم ،گشت ها پرواز ممتد ،اعلام پرواز ممنوع برفراز دریای عمان و تنگه هرمز و دهنه‌ی خلیج فارس ،افزایش حضور بالگرد ها و نزدیکی…
 11:13
-1405/03/22
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار بامدادی | جمعه ۲۲ خرداد
-‏@iranintlTV
-11:11
 1405/03/22
 
 
@@ -6011,24 +5937,6 @@ src :@VahidOnline
 src :@intelslava
 ‏🇮🇷⚡️ — NEW: Explosion heard in the vicinity of Sirik, cause unknown, SNN reports.​​​​​​​​​​​​​​​​
 00:49
-1405/03/22
-
-
-
-
-src :@cataphract1
-‏♦️شنیده شدن صدای انفجار در نزدیکی ساحل سیریک؛ جزئیات همچنان مبهم
-‏
-‏🔹منابع محلی در استان هرمزگان از شنیده شدن صدای انفجاری در دریا، حدود دو کیلومتری ساحل سیریک، خبر می‌دهند. هنوز علت و منبع این صدا تأیید نشده است.
-‏
-‏🔹منابع محلی در منطقه سیریک (استان هرمزگان) می‌گویند صدای انفجاری در دریا، در فاصله حدود دو کیلومتری ساحل، به گوش رسیده است.
-‏
-‏🔹هنوز از ماهیت و علت این انفجار اطلاعات دقیقی در دست نیست، اما با توجه به دستورالعمل‌های مربوط به بسته بودن تنگه هرمز، این وضعیت احتمالی می‌تواند در همین راستا باشد.
-‏
-‏🔹 با این حال، این فرضیه تاکنون به طور رسمی تأیید نشده است و‌ خبرنگار مهر در تلاش است تا جزئیات بیشتری را از مقامات محلی و رسمی پیگیری کند. /مهر
-‏
-‏📃@Cataphract1
-00:48
 1405/03/22
 
 
