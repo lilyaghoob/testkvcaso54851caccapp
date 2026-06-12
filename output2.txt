@@ -1,3 +1,12 @@
+src :@GeoPWatch
+[عکس]
+‏🇰🇷⚽️🇨🇿- South Korea vs the Czech Republic kicked off almost 10 minutes ago in Estadio Guadalajara, Jalisco, Mexico; it's 0-0 so far.
+05:42
+1405/03/22
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️فاکس‌نیوز به نقل از یک مقام پنتاگون گزارش داد که ارتش آمریکا در پاسخ به تلاش تهران برای هدف قرار دادن کشتی‌ها در تنگه هرمز، دو پهاد ایرانی را سرنگون کرده است. سپاه پاسداران روز پنجشنبه اعلام کرده بود که تنگه هرمز را بسته و به هر کشتی که قصد عبور داشته باشد، شلیک می‌کند. هنوز مقامات تهران یا سنتکام درباره این خبر اظهارنظر نکرده‌اند. 
@@ -1523,14 +1532,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸🛥- A source in Hormozgan Governorate told Tasnim that no projectile hits or clashes have occurred in Sirik, with the sounds heard from the sea attributed to activity in the Strait of Hormuz.
-01:15
-1405/03/22
-
-
-
-
 src :@VahidOnline
 ‏ادعای تسنیم: آمریکا از اصلاحیه‌های اخیر خود کوتاه آمده!
 ‏
@@ -1639,14 +1640,6 @@ src :@BellumActaNews
 src :@WAR_ROOM_NEWS
 ‏صدا چندین انفجار در سیریک شنیده شده
 01:11
-1405/03/22
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷- Reports of an explosion in Bandar Abbas, unconfirmed so far.
-01:10
 1405/03/22
 
 
