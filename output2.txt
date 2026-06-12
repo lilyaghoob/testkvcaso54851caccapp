@@ -1,3 +1,54 @@
+src :@KayhanLondonChannel
+[عکس]
+‏‏
+‏   ادامه فشارهای امنیتی و قضایی؛
+‏اخراج یک آموزگار دارای مدرک دکترا
+‏ 
+‏
+‏فروغ خسروی، دارای مدرک دکترای علوم تربیتی، و آموزگار مقطع ابتدایی در مدارس آغاجاری استان خوزستان، با حکم «لغو پیمان» از آموزش و پرورش اخراج شد. این تصمیم در حالی ابلاغ شده که وی پیش‌تر به چهار ماه انفصال موقت از خدمت محکوم شده بود.
+‏
+‏خبرگزاری «هرانا» یک منبع آگاه نوشته «روند اخراج خانم خسروی بدون طی مراحل قانونی با فشار مستقیم نهادهای امنیتی و تنها طی یک نامه محرمانه انجام شده است که مسئولان مربوطه حتی از ارائه آن به خود این معلم خودداری کرده‌اند. در حکم کارگزینی جدید وی نیز عبارت «لغو پیمان» درج شده است.»
+‏
+‏این آموزگار هفتم مردادماه ۱۴۰۴، توسط نیروهای اطلاعات سپاه بازداشت و پس از یازده روز نگهداری در زندان سپیدار اهواز، با تودیع وثیقه دو میلیارد تومانی آزاد شد.
+13:11
+1405/03/22
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸📞🇮🇱 - The outlet Israel Hayom, citing US official, confirms a diplomatic breakthrough was achieved after the US agree to release at least $12 billion of Iranian frozen asset under Qatar's oversight for humanitarian use.
+‏
+‏Other details, including the ceasefire in Lebanon, the timeline to negotiate the nuclear deal and resolving the dueling blockades are still being discussed, according to Israel Hayom.
+13:10
+1405/03/22
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏طبق تصاویر ماهواره‌ای، برخلاف ادعای آمریکا درباره سرنگونی تمام پهپادها و موشک‌های سپاه، به نظر می‌رسد یک پهپاد/موشک سپاه به رادار AR-327 در بحرین برخورد کرده است. 
+‏
+‏رادار AR-327 یک رادار سه‌بعدی مراقبت هوایی برد بلند (حدود ۴۷۰ کیلومتر) ساخت شرکت بریتانیایی BAE Systems است که در یک رادوم ثابت قرار دارد و مسیرهای دریایی خلیج فارس و هوایی منتهی به تنگه هرمز را پوشش می‌دهد. 
+‏
+‏این رادار بخشی از شبکه هشدار اولیه و دفاع موشکی مرتبط با ایالات متحده و پایگاه پنجم ناوگان دریایی آمریکا در بحرین است.
+13:09
+1405/03/22
+
+
+
+
+src :@mwarmonitor
+‏🔴بلومبرگ می‌گوید ممکن است توافق میان تهران و واشنگتن روز یکشنبه آینده در ژنو امضا شود.
+‏
+‏@mwarmonitor
+13:08
+1405/03/22
+
+
+
+
 src :@World_Newsly
 ‏🔴خبرنگار العربیه:
 ‏
@@ -782,7 +833,29 @@ src :@defence_news
 src :@warmonitors
 ‏⚡According to the Iranian news agency Mehr News Agency, citing a source close to Iran’s negotiating team, the proposed draft Memorandum of Understanding (MOU) between the United States and Iran reportedly includes:
 ‏
-‏• An immediate and permanent ceasefire on all fronts,
+‏• An immediate and permanent ceasefire on all fronts, including Lebanon.
+‏
+‏• A U.S. commitment not to interfere in Iran’s internal affairs.
+‏
+‏• The lifting of the maritime blockade within 30 days.
+‏
+‏• The withdrawal of U.S. forces from areas adjacent to Iran.
+‏
+‏• The reopening of the Strait of Hormuz within 30 days under arrangements coordinated by Iran.
+‏
+‏• The suspension of sanctions on Iran’s oil and petrochemical exports.
+‏
+‏• Full access to Iran’s financial assets.
+‏
+‏• A 60-day negotiation period aimed at reaching a final nuclear agreement.
+‏
+‏• The release of $24 billion in frozen Iranian funds, with half of the amount to be released before negotiations begin.
+‏
+‏• Iran’s missile program and its support for resistance groups will not be included in the negotiations.
+‏
+‏• The final agreement will be endorsed by the United Nations Security Council.
+‏
+‏• The draft is still awaiting review and approval by the relevant authorities in Iran.
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 12:43
@@ -4609,14 +4682,6 @@ src :@MilitarryWorld
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸🛥- A source in Hormozgan Governorate told Tasnim that no projectile hits or clashes have occurred in Sirik, with the sounds heard from the sea attributed to activity in the Strait of Hormuz.
-01:34
-1405/03/22
-
-
-
-
 src :@BellumActaNews
 ‏🇮🇷💥 — 2x intense explosions in Bandar Abbas, Southern Iran
 ‏
@@ -6227,14 +6292,6 @@ src :@Minas_Tirith2024
 src :@mwarmonitor
 ‏اسرائیل بعد از دیدن پست ترامپ   @mwarmonitor
 22:54
-1405/03/21
-
-
-
-
-src :@mwarmonitor
-‏🔴منبعی نزدیک به تیم مذاکره‌کننده به خبرگزاری فارس گفته است که ایران هنوز هیچ متنی را برای یک پیش‌نویس اولیه تفاهم‌نامه (MoU) با آمریکا تأیید نکرده است.  🔸این تکذیب پس از آن منتشر شد که ترامپ ادعا کرده بود ایران «در بالاترین سطح» با چنین متنی موافقت کرده و…
-22:53
 1405/03/21
 
 
