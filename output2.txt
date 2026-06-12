@@ -6074,16 +6074,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@rnintel
-‏🇫🇷⚡️- Around 40 candidates are estimated to be running in France's 2027 presidential election, which would be a record under the Fifth Republic.
-‏
-‏Several media outlets, such as Ouest-France or LCP, have warned that this large number of participants could lead to a chaotic election. French polling institutes have also highlighted that the more candidates there are, the higher the error rate of the polls becomes.
-17:52
-1405/03/22
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 ترامپ از مفاد منتشر شده توافق در رسانه‌ها ناراضی است / دونالد ترامپ:  "شرایطی که ایران (از مفاد توافق) به اخبار جعلی درز داده است، هیچ ارتباطی با شرایطی که به صورت کتبی توافق شده است، ندارد. آنچه آنها گفتند، از جمله بیانیه ضعیف و رقت‌انگیزشان در مورد داشتن…
