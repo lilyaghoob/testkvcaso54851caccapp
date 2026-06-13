@@ -1,7 +1,26 @@
-src :@intelslava
-[عکس]
-‏The Algerian Air Force (AAF) has received its first Su-34E fighter-bomber. The aircraft has a revised camouflage scheme following dissatisfaction with the previous earth-tone (orange) paint scheme.
-04:35
+src :@Middle_East_Spectator
+‏This world cup is shit, everyone in a normal timezone has to wait hours just to watch one single match at like 11 PM, the rest are all at 4-5 AM and nobody gonna stay awake for Paraguay vs USA.
+04:42
+1405/03/23
+
+
+
+
+src :@MilitarryWorld
+‏⭕️فوری/ ترامپ میگوید ایالات متحده امریکا رهبر گروه «ترن د آراگوا» را به قتل رسانده است.
+‏
+‏متنی که ترامپ منتشر کرده:به دستور من، فرماندهی جنوبی ایالات متحده یک عملیات ضربتی سریع و کشنده انجام داد تا «نیِنیو گوئررو»، رهبر بدنام گروه ترن د آراگوا، که یکی از خونخوارترین سازمانهای تروریستی روی کره زمین است، با موفقیت ترور شود.
+‏
+‏پیش از بازگشت من به دفتر، جو بایدن مرز جنوبی ما را به روی میلیونها جنایتکار غیرقانونی گشود و به این ارتش بیگانه اجازه داد تا با مصونیت کامل، شهروندان آمریکایی را تجاوز، مثله و به قتل برسانند.
+‏
+‏در طول مبارزات انتخاباتیام، قول دادم که این هیولاها را از کشورمان بیرون کنم و برای خانوادههای کسانی که به قتل رساندهاند، از جمله «جوسلین نونگارای» ۱۲ ساله عزیز، «لیکن ریلی» ۲۲ ساله و بیشمار روحهای پاک دیگر، عدالت برقرار کنم.
+‏
+‏با این اقدام، ارتش ایالات متحده برای آنها، خانوادههایشان و عزیزانشان تلافی کرد. در اوایل دوره ریاستجمهوریام، به قولم عمل کردم و ترن د آراگوا را به عنوان یک سازمان تروریستی خارجی تعیین کردم، هزاران جنایتکار شرور را اخراج کردم و علیه کارتلهایی که مدتهاست با شهروندان ما میجنگند، در حالی که رهبران ضعیف آمریکا را درمانده و دفاعی رها کرده بودند، اعلام جنگ کردم. این اقدام با هماهنگی نزدیک با دوستانمان در ونزوئلا انجام شد که با آنها بسیار خوب کار میکنیم.
+‏
+‏در نتیجه، تروریستهای ترن د آراگوا دیگر در ونزوئلا یا هر جای دیگر پناهگاه امنی ندارند و تحت رهبری من، این قاتلان بیرحم و اربابان مواد مخدر را در هر زمان و هر مکان پیدا خواهیم کرد و به اعماق جهنمی که به آن تعلق دارند، خواهیم فرستاد. خدا آمریکا را حفظ کند!
+‏
+‏@MilitarryWorld | Maverick
+04:42
 1405/03/23
 
 
@@ -1163,14 +1182,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-‏🇦🇪🇮🇷⚡️ — NEW: The UAE has agreed to release billions of dollars to Iran as part of a broader effort to reduce tensions after weeks of Iranian attacks during the war, according to Reuters.  At least $10 billion could be released — with more than $3 billion…
-01:10
-1405/03/23
-
-
-
-
 src :@naya_foriraq
 ‏‏الإمارات تنفي بشكل قاطع بشأن نقل أموال إلى الجمهورية الاسلامية الإيرانية كتعويض، مشددة على أنه لم يتم الإفراج عن الاموال أو تحويل أو نقل أي أموال إيرانية مجمدة عبر الإمارات.
 01:09
@@ -1955,16 +1966,6 @@ src :@Shin_Persian
 
 
 
-src :@GeoPWatch
-‏🇮🇷- According to Mehr News Agency, residents of coastal areas near Qeshm Island and parts of Sirik County reported hearing an explosion a few minutes ago. 
-‏
-‏➡️ Initial investigations suggest no explosion occurred in Sirik County itself, with the sounds likely related to naval activity in the Strait of Hormuz.
-00:20
-1405/03/23
-
-
-
-
 src :@naya_foriraq
 ‏سماع دوي انفجارات في قشم وسيريك وأنباء عن اشتباكات بالقرب من مضيق هرمز
 00:20
@@ -2612,14 +2613,6 @@ src :@Middle_East_Spectator
 
 src :@World_Newsly
 ‏🔴 عراقچی: شورای عالی امنیت ملی اشراف کامل بر مذاکرات دارد، بارها موضوع در جلسات مورد بررسی قرار گرفته است  🔸 کمیته‌ای شامل تعدادی از اعضای شورای عالی امنیت ملی بر مذاکرات نظارت می‌کنند و هر جا لازم باشد به شورای عالی امنیت ملی گزارش می‌دهند  🔸 موافقین و مخالفینی…
-23:23
-1405/03/22
-
-
-
-
-src :@naya_foriraq
-‏طيران مسير من لبنان يهاجم الشمال محتل
 23:23
 1405/03/22
 
@@ -3805,16 +3798,6 @@ src :@cataphract1
 ‏اصابت به رادار پیش اخطار بحرین در حمله دیروز سپاه پاسداران با تصویر ماهواره‌ای جدید تایید شد. ایستگاه‌های راداری و پدافندی با تحرک پایین، چه در جنوب خلیج فارس و چه در شمال خلیج فارس امنیت لازم را نخواهند داشت. تنها در زمان صلح کار می‌دهند و در زمان جنگ سرنوشتشان پر ابهام است.
 ‏
 ‏@Exciton_missile_program 🚀
-22:03
-1405/03/22
-
-
-
-
-src :@MilitarryWorld
-‏⭕️عراقچی وزیر امور خارجه در برنامه گفتگوی ویژه خبری امشب ۲۲ خرداد ۱۴۰۵ در شبکه خبر حضور خواهد یافت.
-‏
-‏@MilitarryWorld | Parsa
 22:03
 1405/03/22
 
@@ -6543,6 +6526,17 @@ src :@BellumActaNews
 
 
 
+src :@intelslava
+‏🇮🇷🇺🇸⚡️ — A source close to the Iranian negotiation team told Fars:
+‏The claims made by Trump and some foreign media that "the agreement has been finalized and is to be signed on Sunday in Geneva" are absolutely not true.
+‏
+‏Essentially, the review and decision-making process in Iran has not yet been finalized, and therefore both the announcement of Sunday and the location of Geneva are completely denied.
+16:27
+1405/03/22
+
+
+
+
 src :@DEJradio
 [عکس]
 ‏🔺📢 سنتکام با انتشار تصاویری اعلام کرد ناوهای جنگی و دارایی‌های هوایی نیروی دریایی ایالات متحده به گشت‌زنی در آب‌های منطقه‌ای ادامه می‌دهند و محاصره علیه جمهوری اسلامی را اجرا می‌کنند. 
@@ -7097,6 +7091,38 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/03/22/403382/
 13:24
+1405/03/22
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇮🇷🇺🇸⚡️— This is what the draft memorandum with the USA looks like according to Iran's version:
+‏
+‏▪️complete and immediate cessation of war on all fronts, including Lebanon;
+‏▪️the US's commitment to the principle of non-interference in Iran's internal affairs and respect for the country's sovereignty;
+‏▪️complete lifting of the naval blockade within 30 days;
+‏▪️reopening of the Strait of Hormuz within 30 days, taking into account agreements with Iran;
+‏▪️the US's commitment to withdraw troops from territories bordering Iran;
+‏▪️suspension of sanctions on the sale of oil, petrochemical products and their derivatives, as well as full access for Iran to its financial resources;
+‏▪️the US and its allies must present a plan for Iran's reconstruction worth at least $300 billion;
+‏▪️negotiations to reach a final agreement on nuclear issues and the complete lifting of all sanctions, as well as UN Security Council and IAEA Board of Governors resolutions, must take place within 60 days;
+‏▪️Iran's confirmation of its commitment to the Treaty on the Non-Proliferation of Nuclear Weapons and its refusal to produce nuclear weapons;
+‏▪️the US's commitment not to increase the number of troops in the region and not to impose new sanctions during the negotiations;
+‏▪️the unfreezing of $24 billion of Iranian funds during the 60-day period of the final negotiations, half of which must be provided to Iran before they begin;
+‏▪️the creation of a monitoring mechanism for the implementation of the agreement;
+‏▪️the approval of the final agreement by a UN Security Council resolution;
+‏▪️the condition that the final negotiations will not begin until half of Iran's funds are unfrozen, oil sanctions are lifted, and the naval blockade is lifted.
+‏
+‏In short, the text proposes the cessation of war, the lifting of the US naval blockade, the reopening of the Strait of Hormuz, the withdrawal of US troops from the region, the unfreezing of Iranian funds and the lifting of sanctions, reparations to Iran and its refusal to produce nuclear weapons (but not nuclear enrichment).
+‏
+‏Most likely, this draft is Iran's maximalist demands, as it does not actually contain any real concessions to the US. Officially, Iran already does not create nuclear weapons, and the issues of supporting proxies, uranium enrichment and the missile program are completely excluded from the discussions, while a series of demands are made to Washington. So it's worth expecting the publication of the draft in Trump's version, where everything will be the other way around.
+‏
+‏In this form, the US will clearly not sign this deal, so the provisions of this memorandum will obviously change in the direction of acceptability for both parties at once.
+‏
+‏@Intelslava
+13:23
 1405/03/22
 
 
@@ -7845,21 +7871,4 @@ src :@Parvazdaroj
 ‏
 ‏@Parvazdaroj | Phoenix
 09:02
-1405/03/22
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸🚫🇨🇺🛢 — The government of the United States has announced sanctions against Cuba’s state-owned oil company, Unión Cuba-Petróleo (Cupet), accusing the island’s communist regime of using energy resources as a tool of repression and enrichment for its leadership.
-‏
-‏➡️ Cupet has been added to the sanctions list maintained by the Office of Foreign Assets Control (OFAC), the agency within the U.S. Treasury Department responsible for enforcing economic and financial sanctions. The measure blocks any assets of the company that may fall under U.S. jurisdiction and prohibits American citizens and businesses from conducting transactions with the firm.
-‏
-‏❗️ U.S. Secretary of State Marco Rubio stated that energy, like other resources on the island, has long been used by the communist regime of Cuba “as a weapon.” According to Rubio, Cuba’s energy sector serves both to sustain internal repression and to support what he described as the regime’s “kleptocracy.”
-‏
-‏💰 Rubio also accused Cuban communist leaders of diverting energy resources for personal enrichment. The U.S. Secretary of State further alleged that members of the regime resell oil shipments and direct fuel supplies to benefit military forces, intelligence agencies, and government repression structures.
-‏
-‏Source 🖇
-07:28
 1405/03/22
