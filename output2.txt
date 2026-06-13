@@ -1,3 +1,48 @@
+src :@ClashReport
+[عکس]
+‏Iran has reinforced the underground sites where it stores its near bomb-grade uranium by collapsing tunnel entrances and placing explosive mines around them.
+‏
+‏The move followed public discussion of a possible US operation to seize the material and has made access significantly more difficult, dangerous, and time-consuming.
+‏
+‏Most of the uranium is believed to be stored in tunnels at the Isfahan nuclear complex.
+‏
+‏The new defenses could complicate any agreement requiring Iran to surrender its enriched uranium, as verifying and removing the stockpile may now be much harder.
+‏
+‏Source: CNN
+12:56
+1405/03/23
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏سی‌ان‌ان در گزارشی مدعی شده است که ایران در هفته‌های اخیر اقدامات تازه‌ای برای دشوارتر کردن دسترسی به ذخایر اورانیوم غنی‌شده خود در سایت‌های زیرزمینی انجام داده است.
+‏
+‏این گزارش به نقل از پنج منبع آگاه از ارزیابی‌های دولت آمریکا، بدون ذکر نام و سمت آن‌ها، نوشته است حدود ۴۴۰ کیلوگرم اورانیوم با غنای بالا که در تونل‌های زیرزمینی سایت‌های نطنز، فردو و اصفهان نگهداری می‌شود، همچنان در این تأسیسات قرار دارد.
+‏
+‏بخوانید:
+‏https://iranwire.com/fa/news-1/153636
+‏
+‏@Farsi_Iranwire
+12:54
+1405/03/23
+
+
+
+
+src :@intelslava
+‏🇺🇸🇮🇷⚡️— Tehran has strengthened the protection of facilities where enriched uranium reserves are stored, CNN reports, citing sources familiar with information from US intelligence.
+‏
+‏The article states that over the past few weeks, Iran has been actively making efforts to conceal its uranium reserves suitable for creating nuclear weapons, deliberately collapsing tunnels and mining entrances with explosives.
+‏
+‏@Intelslava
+12:54
+1405/03/23
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏⭕️ذخایر اورانیوم جهان در اختیار کدام کشورهاست؟
@@ -4801,20 +4846,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-‏BIG: Iran’s Foreign Minister Abbas Araghchi:
-‏
-‏According to the memorandum of understanding, if it is signed, Iran's frozen assets will be released.
-‏
-‏None of our assets will be allowed to remain frozen again.
-‏
-‏A reconstruction plan has been envisaged to compensate Iran for the damage it has suffered.
-23:08
-1405/03/22
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -5151,31 +5182,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 22:10
-1405/03/22
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🇺🇦⚡️— The Director of National Intelligence of the USA, Tulsi Gabbard, published a press release stating that the US government funded more than 120 biolaboratories in over 30 countries worldwide, including Ukraine.
-‏
-‏Many of these biolaboratories are currently or have previously been engaged in research using dangerous and highly contagious pathogens, including dangerous research on enhancing the function of the virus.
-‏
-‏On the territory of Ukraine, more than 40 biolaboratories were built and maintained, which were involved in:
-‏
-‏▪️storing pathogens of biological weapons from the Soviet era, 
-‏
-‏▪️training Ukrainian scientists by US specialists to work in conditions of biological defense,
-‏
-‏▪️certifying particularly dangerous pathogens,
-‏
-‏▪️serving as a repository for pathogens of biological weapons and the causative agents of many diseases, including tularemia, tuberculosis, African swine fever, Ebola, etc.
-‏
-‏According to Gabbard, the laboratories were located in Lviv, Ternopil, Vinnytsia, Kharkiv, Dnipro, Luhansk, Donetsk, Kherson, Odessa, Zaporizhia, Chernihiv, Kyiv, Zakarpattia, and Crimea.
-‏
-‏@Intelslava
-22:07
 1405/03/22
 
 
@@ -7163,63 +7169,4 @@ src :@rus_cosmos
 ‏
 ‏این رادار بخشی از شبکه هشدار اولیه و دفاع موشکی مرتبط با ایالات متحده و پایگاه پنجم ناوگان دریایی آمریکا در بحرین است.
 13:09
-1405/03/22
-
-
-
-
-src :@defence_news
-[عکس]
-‏امارات متحده عربی برای تسریع در تقویت پدافند هوایی خود، هشت فروند هواپیمای ترابری سنگین C-17 را به کره‌جنوبی اعزام کرده تا سومین آتشبار سامانه پدافند هوایی «چونگونگ-۲» (KM-SAM Block II) و ده‌ها موشک رهگیر را از طریق پل هوایی به خلیج فارس منتقل کند.
-‏
-‏بر اساس گزارش‌ها، این اقدام به دلیل اختلال در مسیرهای دریایی منطقه و با هدف تحویل سریع‌تر تجهیزات انجام شده است. منابع کره‌ای می‌گویند روند تحویل این سامانه حدود یک ماه زودتر از برنامه قرارداد تسریع شده است.
-‏
-‏گفته می‌شود دو آتشبار چونگونگ-۲ که پیش‌تر در امارات مستقر شده‌اند، در جریان حملات موشکی و پهپادی اخیر بیش از ۶۰ موشک رهگیر شلیک کرده و نرخ موفقیتی در حدود ۹۶ درصد ثبت کرده‌اند. این عملکرد باعث شده ابوظبی روند تحویل سایر سامانه‌های سفارش داده‌شده را تسریع کند.
-‏
-‏سامانه چونگونگ-۲ یک سامانه پدافند هوایی میان‌برد ساخت کره‌جنوبی است که برای مقابله با هواگردها و موشک‌های بالستیک در برد ۴۰ تا ۵۰ کیلومتر و ارتفاع کمتر از ۴۰ کیلومتر طراحی شده است. قرارداد ۱۰ آتشبار این سامانه میان امارات و کره‌جنوبی در سال ۲۰۲۲ با ارزشی حدود ۳.۵ میلیارد دلار امضا شد.
-12:54
-1405/03/22
-
-
-
-
-src :@defence_news
-‏⭕️مهر: جزئیات پیش‌نویس ۱۴ بندی تفاهم‌نامه ایران و آمریکا منتشر شد
-‏
-‏بر اساس گزارش خبرگزاری مهر، پیش‌نویس تفاهم‌نامه در حال مذاکره میان ایران و آمریکا شامل موارد زیر است:
-‏
-‏▪️ برقراری فوری و دائمی آتش‌بس در تمامی جبهه‌ها، از جمله لبنان.
-‏
-‏▪️ تعهد آمریکا به عدم مداخله در امور داخلی ایران و احترام به حاکمیت و تمامیت ارضی کشور.
-‏
-‏▪️ لغو کامل محاصره دریایی علیه ایران ظرف ۳۰ روز.
-‏
-‏▪️ تعهد آمریکا به خروج نیروهای خود از مناطق پیرامونی ایران.
-‏
-‏▪️ بازگشایی تنگه هرمز برای کشتیرانی بین‌المللی ظرف ۳۰ روز، تحت ترتیبات تعیین‌شده از سوی ایران.
-‏
-‏▪️ تعلیق تحریم‌های نفتی، پتروشیمی و صادرات مرتبط با ایران و فراهم شدن دسترسی کامل تهران به درآمدهای حاصل از آن.
-‏
-‏▪️ ارائه طرح‌های بازسازی ایران از سوی آمریکا و متحدانش به ارزش حداقل ۳۰۰ میلیارد دلار.
-‏
-‏▪️ تعیین یک دوره ۶۰ روزه مذاکره برای دستیابی به توافق نهایی درباره پرونده هسته‌ای، لغو کامل تحریم‌های اولیه و ثانویه آمریکا و همچنین رفع محدودیت‌های مرتبط شورای امنیت سازمان ملل و آژانس بین‌المللی انرژی اتمی.
-‏
-‏▪️ تأکید مجدد ایران بر تعهدات خود در چارچوب پیمان منع گسترش سلاح‌های هسته‌ای (NPT) و عدم حرکت به سمت تولید سلاح هسته‌ای.
-‏
-‏▪️ در طول مذاکرات، آمریکا از اعزام نیروهای اضافی به منطقه و اعمال تحریم‌های جدید خودداری خواهد کرد.
-‏
-‏▪️ آزادسازی ۲۴ میلیارد دلار از دارایی‌های مسدودشده ایران در طول دوره ۶۰ روزه مذاکرات؛ به‌گونه‌ای که نیمی از این مبلغ پیش از آغاز مذاکرات در اختیار ایران قرار گیرد.
-‏
-‏▪️ ایجاد سازوکار نظارتی مشترک برای پایش و اجرای مفاد توافق.
-‏
-‏▪️ تأیید توافق نهایی از طریق قطعنامه شورای امنیت سازمان ملل متحد.
-‏
-‏▪️ آغاز مذاکرات نهایی تنها پس از آزادسازی نیمی از دارایی‌های بلوکه‌شده ایران، تعلیق تحریم‌های نفتی و رفع محاصره دریایی امکان‌پذیر خواهد بود.
-‏
-‏🔹 بر اساس این پیش‌نویس، توافق نهایی صرفاً بر موضوع غنی‌سازی اورانیوم، مواد غنی‌شده، رفع تحریم‌ها و بازسازی اقتصادی ایران متمرکز خواهد بود.
-‏
-‏🔹 همچنین برنامه موشکی ایران و حمایت از گروه‌های مقاومت از دستور کار مذاکرات و توافق نهایی خارج شده‌اند.
-‏✒️#LT
-‏📃@Cataphract1
-12:54
 1405/03/22
