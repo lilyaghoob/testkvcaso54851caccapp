@@ -1,3 +1,58 @@
+src :@tabzlive
+[عکس]
+‏🇺🇦🇷🇺⚡️ — Ukrainian air-defense crews continue to face overwhelming attacks involving hundreds of drones and dozens of ballistic missiles, often operating for more than 24 hours with limited rest while rationing their remaining interceptors, NYT reports. 
+‏
+‏➡️ Officials warn that deliveries of Patriot missiles have failed to keep pace with Russia’s rapidly increasing ballistic missile production and usage.
+18:36
+1405/03/23
+
+
+
+
+src :@defence_news
+[عکس]
+‏⚜مرکز عملیات تجارت دریایی بریتانیا (UKMTO) پس از دریافت گزارشی از اصابت یک پرتابه ناشناس به یک نفتکش، هشدار دریایی صادر کرد.
+‏
+‏⚜بر اساس این گزارش، این نفتکش حدود ۶ مایل دریایی در شرق سواحل عمان هدف قرار گرفته و یک پرتابه ناشناس به سمت چپ (پورت) کشتی، در نزدیکی بخش جلویی (سینه کشتی) برخورد کرده است.
+‏
+‏⚜این حادثه ساعت ۲۲:۳۰ به وقت UTC روز گذشته رخ داد و هیچ‌گونه تلفات یا مصدومی در پی نداشته است.
+‏✒️#LT
+‏📃@Cataphract1
+18:36
+1405/03/23
+
+
+
+
+src :@Middle_East_Spectator
+‏You can be quite sure that if Nabavian is now defending this MoU on live TV, it’s a done deal and will be signed.
+18:36
+1405/03/23
+
+
+
+
+src :@ClashReport
+‏Iran's Foreign Ministry: 
+‏
+‏Our negotiating team has no plans to travel to Geneva or any other location during the next two days.
+18:35
+1405/03/23
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏حزب‌الله اعلام کرد طی روز‌های اخیر احمد حسن سلبینی معاون فرماندهی شهر نبطیه این نیرو کشته شده است.
+‏
+‏@P_raetorio
+18:32
+1405/03/23
+
+
+
+
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 MTV: The Town of Majdal Zoun in the Tyre District of southern Lebanon has come under IDF control.  @wfwitness
 18:32
@@ -9,6 +64,7 @@ src :@wfwitness
 src :@guard_warriors
 [عکس]
 ‏✪ شرکت آلمانی Diehl Defence، تولیدکننده IRIS-T، به امکان تولید مشترک موشک‌های کروز اوکراینی FP-5 «فلامینگو» در آلمان علاقه‌مند است
+‏موشکی کروزی که میتواند تا 1 تن سرجنگی حمل کند و 3000Km برد دارد 
 ‏به گفته مدیرعامل شرکت در هفته‌های آینده مذاکراتی با نمایندگان شرکت Fire Point به همین سبب برنامه‌ریزی شده است.
 ‏اینگونه کمپانی Diehl Defence می‌تواند سامانه هدایت راداری پیشرفته‌تری به Fire Point ارائه دهد.
 ‏
@@ -524,7 +580,8 @@ src :@VahidOnline
 ‏
 ‏بر اساس برآورد دفتر مطالعات انرژی، صنعت و معدن این مرکز، در سناریوی واقع‌بینانه میزان کسری برق در اوج مصرف تابستان به حدود ۱۳ هزار و ۶۰۰ مگاوات خواهد رسید. در این برآورد، توان تأمین هم‌زمان شبکه حدود ۶۸ هزار و ۴۰۰ مگاوات و میزان تقاضا بیش از ۸۱ هزار مگاوات پیش‌بینی شده است.
 ‏@VahidHeadline
-‏
+‏پیام دریافتی:
+‏امروز روستاهای خشکبیجار  از ساعت ۱۶:۴۵ حدود ۱ ساعت و ۱۵ دقیقه برق قطع شد. بعد از قطع برق تماس گرفتم با ۱۲۱ که گفتن قطعی ۲ ساعته کنترل مصرف هست که امروز صبح از رشت شروع شده و عصر به شهرستانهاش رسیده.
 ‏📡 @VahidOnline
 17:59
 1405/03/23
@@ -3427,22 +3484,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴 روزنامه عبری یدیعوت آحارونوت: 
-‏
-‏میان برداشتی که ما از خودمان داریم و تصویری که از ما در خارج ترسیم می‌شود، شکاف بسیار بزرگی وجود دارد.
-‏
-‏در خارج از کشور، اسرائیل به‌ عنوان قلدرِ محله دیده می‌شود و تهدیدی برای ثبات و صلح جهانی تلقی می‌گردد. 
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-14:24
-1405/03/23
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️The Israeli army has now reportedly advanced to roughly about 3 kilometres from Nabatiyeh.
@@ -3553,21 +3594,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 14:11
-1405/03/23
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏هدف قرارگرفتن یک دستگاه موتورسیکلت حزب‌الله لبنان در کفرمان در نزدیکی نبطیه
-‏
-‏
-‏#لبنان
-‏
-‏
-‏@P_raetorio
-14:09
 1405/03/23
 
 
@@ -6314,16 +6340,6 @@ src :@militaryinpersian
 
 
 
-src :@Middle_East_Spectator
-‏Luckily Araqchi is not the one that makes the final decisions. 
-‏
-‏Whatever the Leader decides will be the outcome and it’s obligated for everyone to defend that decision.
-23:32
-1405/03/22
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، درباره تفاهم با آمریکا به صداوسیما گفت: «احتمالا در چند روز آینده تفاهم‌نامه میان ما و آمریکا امضا خواهد شد.»
@@ -6347,14 +6363,6 @@ src :@VahidOnline
 ‏@VahidHeadline
 ‏
 ‏📡 @VahidOnline
-23:29
-1405/03/22
-
-
-
-
-src :@Middle_East_Spectator
-‏🇮🇷| Iran’s FM: The US insisted on zero enrichment. We opposed it, and in the end, war broke out.  @FotrosResistancee
 23:29
 1405/03/22
 
@@ -7197,32 +7205,4 @@ src :@selena_updates
 ‏
 ‏The president is going to get us a good outcome, one way or the other.
 18:38
-1405/03/22
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iran’s Foreign Minister, Abbas Aragchi
-18:34
-1405/03/22
-
-
-
-
-src :@Minas_Tirith2024
-‏♨️تروث جدید ترامپ: 
-‏▪️شرایطی که ایران در اختیار اخبار جعلی قرار داده است، هیچ ارتباطی با شرایطی که به صورت کتبی با آن موافقت شده است، ندارد.
-‏
-‏▪️آنچه آنها گفته اند، از جمله اظهارات ضعیف و رقت انگیز آنها در مورد معامله، هیچ ربطی به حقیقت ندارد. افراد بسیار بی شرفی که باید با آنها برخورد کرد. 
-‏با آنها چیزی به نام معامله با حسن نیت وجود ندارد. شگفت انگیز است!
-‏
-‏▪️همچنین حمله شب گذشته هواپیماهای بدون سرنشین آنها به کشتی های هندی که از تنگه هرمز خارج می شوند کاملاً غیرقابل قبول است. آنها بهتر است عمل خود را با هم انجام دهند، و سریع!
-‏ رئیس جمهور دونالد جی. ترامپ
-‏﻿
-‏
-‏✒️#Delta_Dynamics
-‏📃@Cataphract1
-18:33
 1405/03/22
