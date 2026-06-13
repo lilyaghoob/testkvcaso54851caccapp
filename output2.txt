@@ -1,3 +1,46 @@
+src :@tabzlive
+[عکس]
+‏🇮🇷⚡️ — The late Supreme Leader of Iran, Ali Khamenei, will be buried on July 9 at the Imam Reza Shrine in Mashhad, according to state media.
+‏
+‏➡️ Farewell and funeral ceremonies will take place from July 4 to July 7 in Tehran and Qom, with the main funeral procession scheduled in Tehran on July 6 and another procession in Qom on July 7. 
+‏
+‏➡️ Family members who died alongside him will also be honored and laid to rest during the ceremonies.
+15:27
+1405/03/23
+
+
+
+
+src :@MilitarryWorld
+‏⭕️وزیر نیرو: فعلا جیره‌بندی آب در دستور کار قرار ندارد
+‏
+‏@MilitarryWorld | Parsa
+15:27
+1405/03/23
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 MTV sources: Israeli tanks reportedly entered and took control of Tallat Ali al-Taher in southern Lebanon shortly after midnight.
+‏
+‏@wfwitness
+15:25
+1405/03/23
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇸🇦 MTV: Saudi Arabia new ambassador Fahad Aldosari of Lebanon has arrived in Beirut yesterday.
+‏
+‏@wfwitness
+15:22
+1405/03/23
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 ‏چند ساعت دیگر، سالگرد آغاز حملات اسرائیل به ایران طی جنگ موسوم به 12 روزه است.
 ‏
@@ -3410,14 +3453,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏📰تقرير شبكة CNN:  في الأسابيع الأخيرة، زادت إيران بشكل كبير من جهودها لسد الوصول إلى مخازن اليورانيوم المخصب  وفقًا لخمسة مصادر مطلعة على الاستخبارات الأمريكية، تسببت إيران عمدًا في انهيار أنفاق وزرعت ألغامًا عند مداخلها باستخدام متفجرات  وفقًا للمصادر، أصبح…
-11:37
-1405/03/23
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴‏بلومبرگ: ایران احتمالاً در طول آتش‌بس سلاح‌های روسی مدرن به موجودی خود افزوده است
 11:36
@@ -4627,23 +4662,6 @@ src :@BellumActaNews
 ‏
 ‏@BellumActaNews
 06:37
-1405/03/23
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The U.S. government has ordered Anthropic to suspend access to its Fable 5 and Mythos 5 AI models for all foreign nationals worldwide, including foreign employees, citing national security concerns over an alleged jailbreak method.
-‏
-‏Anthropic said it received the directive on June 12 and was forced to immediately disable both models, though access to its other AI systems remains unaffected. The company said the government has not provided evidence of a serious security failure and that the reported jailbreak appears to involve only limited, previously known vulnerabilities that can also be identified by other publicly available models, including OpenAI’s GPT-5.5.
-‏
-‏Anthropic defended Fable 5’s security measures, stating it underwent thousands of hours of red-teaming with U.S. and UK government partners, private organizations, and internal teams, and that no universal jailbreak capable of broadly bypassing its safeguards has been discovered.
-‏
-‏The company argued that perfect jailbreak resistance is likely impossible for any AI model and that its strategy relies on layered defenses, monitoring, and 30-day data retention to detect and mitigate misuse.
-‏
-‏While complying with the order, Anthropic criticized the government’s decision as lacking transparency and technical justification, warning that applying such a standard across the AI industry could effectively halt the deployment of future frontier models. It said it believes the action is based on a misunderstanding and is working to restore access as quickly as possible.
-06:20
 1405/03/23
 
 
@@ -5973,24 +5991,6 @@ src :@rnintel
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Fri, 12 Jun 2026 19:38:27 UTC
-‏
-‏Introducing Abbas Araghchi, Islamic Regime's Foreign Minister, same guy who Trump reposted one of his tweets a few hours ago :))
-‏
-‏ترجمه خودکار فارسی
-‏
-‏معرفی می‌کنیم: عباس عراقچی، وزیر امور خارجه رژیم اسلامی، همان شخصی که ترامپ چند ساعت پیش یکی از توییت‌های او را بازنشر کرد :))
-‏
-‏𝕏  ·  @shin_persian
-23:08
-1405/03/22
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 عراقچی: مدیریت تنگه هرمز مانند گذشته نخواهد بود
 ‏
@@ -7141,19 +7141,6 @@ src :@defence_news
 ‏
 ‏ @Minas_Tirith2024
 18:29
-1405/03/22
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏به گزارش واشنگتن پست پس از شروع جنگ ۴۰ روزه، قطر و ایران توافقی مخفیانه با یکدیگر داشتند که ایران تضمین می دهد به تاسیسات گازی راس لفان حمله نکند و در سمت مقابل قطر با کاهش قابل توجه تولید گاز، موجب افزایش قیمت و فشار جهانی بر امریکا شود (تا شاید جنگ زودتر متوقف شود).
-‏
-‏اما بلافاصله پس از حمله اسرائیل به پارس جنوبی، اولین تاسیسات مهم انرژی که توسط ایران هدف قرار گرفت پالایشگاه راس لفان قطر بود تا بار دیگر ثابت شود عاقبت خوبی در انتظار "خ م" نخواهد بود.
-‏
-‏ @Minas_Tirith2024
-18:26
 1405/03/22
 
 
