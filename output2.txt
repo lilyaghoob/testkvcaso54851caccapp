@@ -1,15 +1,15 @@
 src :@GeoPWatch
-[ویدئو]
 ‏🇺🇸⚽️🇵🇾- GOAL! The United States has scored again, 3-0, scored by Folarin Balogun once again.
-05:22
+05:23
 1405/03/23
 
 
 
 
 src :@GeoPWatch
-‏🇺🇸⚽️🇵🇾- GOAL! The United States has scored, 2-0, scored by Folarin Balogun.
-05:21
+[ویدئو]
+‏🇺🇸⚽️🇵🇾- GOAL! The United States has scored again, 3-0, scored by Folarin Balogun once again.
+05:22
 1405/03/23
 
 
@@ -1396,14 +1396,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇦🇪🇮🇷🇺🇸 Reuters: The United Arab Emirates has agreed to unlock billions of dollars for Iran, with at least $10 billion to be released under a tactical shift after weeks of Iranian attacks on the Gulf state.   Two regional sources told Reuters the UAE had…
 01:08
-1405/03/23
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷🛥- According to IRIB, some fishermen at Sirik Port reported that a projectile struck two fishing boats in the waters of Larak, though the Sirik Governorate has not confirmed the incident, stating that "so far, no report has been received that two Sirik fishing boats were targeted in the waters of Larak."
-01:07
 1405/03/23
 
 
