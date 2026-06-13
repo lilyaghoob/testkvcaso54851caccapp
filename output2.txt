@@ -1,3 +1,62 @@
+src :@mwarmonitor
+‏🔴خبرنگار آمیت سگال از کانال ۱۲ اسرائیل به نقل از یک «مقام بسیار ارشد اسرائیلی» درباره توافق در حال شکل‌گیری می‌گوید:
+‏«این یک توافق مزخرف است.»
+‏
+‏@mwarmonitor
+22:22
+1405/03/23
+
+
+
+
+src :@mohem_mat
+‏تا کی به ناز رفتن و گفتن که: جان بده؟
+‏جان می‌دهم، بیا!
+‏به تقاضا چه احتیاج؟
+‏
+‏ هلالی جغتایی
+‏
+‏#شب_و_روزگار_خوش
+22:21
+1405/03/23
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇱🇧🇱🇧 — IDF forces have advanced to the outskirts of Nabatieh City and are currently positioned on the Ali Taher mountain ridge near the village of Kfar Tebnit, approximately two kilometers north of Beaufort Castle, according to Kan News.
+22:20
+1405/03/23
+
+
+
+
+src :@Middle_East_Spectator
+‏Anyways tune into @WorldCupSpectator soon.
+22:19
+1405/03/23
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli airstrikes targeted Kfar Jouz in southern Lebanon a short while ago.
+22:19
+1405/03/23
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 تصاویر ماهواره‌ای تخریب دو انبار سوخت جت در پایگاه هوایی شیخ عیسی، بحرین را نشان می‌دهد  ✍🏻 exxon ▪️@World_Newsly
+22:19
+1405/03/23
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸🇭🇹❌💊 — U.S. Special Envoy for the Shield of the Americas Kristi Noem announces that U.S. forces will be deployed to Haiti to confront organized crime.
 22:17
@@ -1602,15 +1661,6 @@ src :@ClashReport
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇮🇷🇺🇸🇧🇭 Soar Atlas: Satellite imagery appears to show damage to a building at Isa Air Base in Bahrain, a strategic facility known to host U.S. military assets. A distinct dark mark is visible in before/after imagery from June 2 and June 7.  Geolocation: (For…
-20:37
-1405/03/23
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ دونالد ترامپ، رئیس‌جمهوری آمریکا، با انتشار پیامی در شبکه اجتماعی «تروث سوشال»، از امضای توافق میان واشنگتن و تهران در روز یکشنبه، ۲۴ خرداد خبر داد.
@@ -2027,14 +2077,6 @@ src :@P_raetorio
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — BREAKING: President Trump announces a deal with Iran will be signed tomorrow: Barack Hussein Obama’s Deal with Iran, the JCPOA, was an easy, beautiful, smooth road to a Nuclear Weapon, which Iran would have had six years ago, and would have used long…
-20:22
-1405/03/23
-
-
-
-
 src :@World_Newsly
 ‏🔴 ترامپ: توافق من با ایران دقیقاً برعکس آن چیزی است که برخی مطرح می‌کنند؛ این توافق یک «دیوار در برابر سلاح هسته‌ای» است.
 ‏
@@ -2228,24 +2270,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — BREAKING: President Trump announces a deal with Iran will be signed tomorrow:
-‏Barack Hussein Obama’s Deal with Iran, the JCPOA, was an easy, beautiful, smooth road to a Nuclear Weapon, which Iran would have had six years ago, and would have used long before now. My Agreement with Iran is the exact opposite, A WALL TO NO NUCLEAR WEAPON! In fact, they no longer want a Nuclear Weapon, nor will they have one, either through purchase, development, or any other form of procurement. 
-‏
-‏The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL. 
-‏
-‏Our relationship with Iran is a much different and better one than previous Administrations have had. Unlike Obama’s Hundreds of Billions of Dollars in payments to them, including 1.7 Billion Dollars in green, cold cash, no money will exchange hands. 
-‏
-‏At the appropriate time, when all is calm, we will go in and get the Nuclear Dust, buried deep under the powerful sunken granite mountains, thanks to our beautiful B-2 Bombers and their brilliant pilots, and downblend and destroy it, whether in Iran, or the United States. 
-‏
-‏We look forward to working with Iran, and the entire Middle East, long into the future. Hopefully, this process will all work out quickly, easily, and smoothly. If it doesn’t, we have the ultimate alternative, hopefully never to be used again! Thank you for your attention to this matter!!!
-20:19
-1405/03/23
-
-
-
-
 src :@mohem_mat
 ‏دونالد ترامپ الان مدعی شد که قرار است توافق با ایران فردا (یکشنبه) به امضا برسد.
 ‏
@@ -2424,17 +2448,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷❌🇺🇸🇧🇭 — Satellite imagery shows the destruction of two Fuel System Supply Points (FSSP) at Isa Air Base in southern Bahrain, following Iranian missile/drone strikes on June 11th.
-‏
-‏📍 Coordinates: 25°54'28.5"N 50°35'17.5"E
-20:08
-1405/03/23
-
-
-
-
 src :@mohem_mat
 ‏مطلب منتشر شده از قول یک خبرنگار (آقای عبدی) درباره احتمال تمدید ریاست قوه قضاییه یا تغییر ایشان در پایان دوره آیت الله اژه ای قطعیت ندارد
 ‏
@@ -2603,17 +2616,6 @@ src :@WAR_ROOM_NEWS
 src :@defence_news
 ‏در باب مذاکره :  1 بنای طوایف مخالف ،بر موثر بودن قدرت اعمال شده ایران بالاخص در منطقه جنوب خلیج فارس بوده و تهدید زیر ساخت ها مانع از ادامه شده   2 بر همین مبنا و اعتقاد بر تثبیت و بازیابی مجدد توان و آماده بودن به قدر پیش از جنگ ، امکان انجام تهدید برای…
 19:45
-1405/03/23
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏نظرسنجی عجیب صابرین نیوز که در آن نام جبهه پایداری را کنار اسرائیل آورده است.
-‏
-‏@mohem_mat
-19:44
 1405/03/23
 
 
@@ -3373,18 +3375,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@mohem_mat
-‏منابع خبری
-‏
-‏ دونالد ترامپ رئیس‌جمهور آمریکا روز سه‌شنبه هفته جاری در حاشیه اجلاس گروه ۷ دیدارهای جداگانه‌ای با سران قطر، امارات متحده عربی و مصر برگزار خواهد کرد.
-‏
-‏ @mohem_mat
-18:43
-1405/03/23
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏از خرید فیلترشکن خسته شدی؟ 😩
@@ -3575,20 +3565,6 @@ src :@Americana_ir
 ‏#WorldCup2026
 ‏🆔 @Americana_ir
 18:17
-1405/03/23
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 تصویری از ایلوشین ۷۶ ارتش که مورد اصابت قرار گرفته است
-‏
-‏🔸 نکنه قابل توجه این است که اکثر هواپیماهایی که در جنگ توان برخواست نداشتند، مورد اصابت قرار گرفته اند (مانند همین هواپیما که یک موتور ندارد)
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-18:15
 1405/03/23
 
 
@@ -4319,19 +4295,6 @@ src :@didarnews1
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷/🇵🇰 NEW: Pakistan’s Prime Minister, Shehbaz Sharif, says the Iran-U.S. Memorandum of Understanding will likely be finalized in the next 24 hours
-‏
-‏It will be signed digitally, there will be no ceremony where Iranian and American officials sit side by side.
-‏
-‏@Middle_East_Spectator
-16:55
-1405/03/23
-
-
-
-
 src :@mwarmonitor
 ‏🚨رسانه‌های اسرائیلی: حادثه‌ای غیرعادی در آسمان مجارستان: یک هواپیمای اسرائیلی ارتباط خود را با کنترل ترافیک هوایی از دست داد.  @mwarmonitor
 16:54
@@ -4965,14 +4928,6 @@ src :@Shin_Persian
 src :@mwarmonitor
 ‏حمله‌ای به یک کشتی در دریای عمان.
 14:45
-1405/03/23
-
-
-
-
-src :@mwarmonitor
-‏حمله‌ای به یک کشتی در دریای عمان.
-14:42
 1405/03/23
 
 
