@@ -1,5 +1,22 @@
 src :@tabzlive
 [عکس]
+‏🇺🇸⚡️ — The U.S. government has ordered Anthropic to suspend access to its Fable 5 and Mythos 5 AI models for all foreign nationals worldwide, including foreign employees, citing national security concerns over an alleged jailbreak method.
+‏
+‏Anthropic said it received the directive on June 12 and was forced to immediately disable both models, though access to its other AI systems remains unaffected. The company said the government has not provided evidence of a serious security failure and that the reported jailbreak appears to involve only limited, previously known vulnerabilities that can also be identified by other publicly available models, including OpenAI’s GPT-5.5.
+‏
+‏Anthropic defended Fable 5’s security measures, stating it underwent thousands of hours of red-teaming with U.S. and UK government partners, private organizations, and internal teams, and that no universal jailbreak capable of broadly bypassing its safeguards has been discovered.
+‏
+‏The company argued that perfect jailbreak resistance is likely impossible for any AI model and that its strategy relies on layered defenses, monitoring, and 30-day data retention to detect and mitigate misuse.
+‏
+‏While complying with the order, Anthropic criticized the government’s decision as lacking transparency and technical justification, warning that applying such a standard across the AI industry could effectively halt the deployment of future frontier models. It said it believes the action is based on a misunderstanding and is working to restore access as quickly as possible.
+06:20
+1405/03/23
+
+
+
+
+src :@tabzlive
+[عکس]
 ‏🇺🇦⚡️ — Ukraine plans to expand military recruitment to foreign nationals, with the goal of having foreigners fill between 30% and 50% of assault and infantry roles, Defense Minister Mykhailo Fedorov said.
 ‏
 ‏Fedorov said the initiative aims to strengthen frontline combat units while reducing the burden on Ukrainian soldiers. 
@@ -19,14 +36,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 06:09
-1405/03/23
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸⚽️🇵🇾- GOAL! Paraguay has scored, 3-1, scored by Maurício Magalhães.
-06:07
 1405/03/23
 
 
@@ -1145,23 +1154,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 02:05
-1405/03/23
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇮🇷⚡️ — President Trump informed Israeli Prime Minister Benjamin Netanyahu on Thursday evening that he expected to finalize a deal with Iran within days, telling him, “This is the deal. It's a great deal, and it's time to end this war,” according to Axios, citing a senior U.S. official.
-‏
-‏Netanyahu, who had hoped the conflict could lead to regime change in Tehran, now faces criticism from political rivals who accuse him of allowing Israel to become too dependent on Washington by accepting Trump’s path to peace.
-‏
-‏Netanyahu acknowledged he was unable to prevent the agreement from moving forward and did not strongly challenge Trump during the call. Instead, he said he trusted Trump to ensure the final deal addressed shared concerns over Iran’s nuclear program.
-‏
-‏Despite avoiding public criticism of Trump, Israeli officials remain privately skeptical, fearing Iran could prolong negotiations without making meaningful nuclear concessions. They are also concerned that a ceasefire covering Lebanon could restrict Israel’s operational freedom against Hezbollah and require U.S. approval for future strikes.
-‏
-‏The White House remains confident that Israel will ultimately support the agreement, arguing that Iran must first fulfill its commitments before receiving any benefits under the deal.
-02:04
 1405/03/23
 
 
