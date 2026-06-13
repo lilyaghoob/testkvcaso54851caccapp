@@ -1,3 +1,11 @@
+src :@GeoPWatch
+‏🇮🇷 — CNN, citing five sources familiar with US intelligence, reports that Iran has deliberately collapsed tunnels and booby-trapped entrances with mines to protect its stockpile of enriched uranium. This would make removing the uranium from its location far more difficult and time-consuming.
+07:56
+1405/03/23
+
+
+
+
 src :@cataphract1
 ‏♨️سنتکام در بیانیه ای اعلام کرده بامداد امروز ناوشکن های این نیرو همه پهپادهای انتحاری ای که به طرف کشتی های تجاری شلیک شده بود را رهگیری کرده است؛ همچنین در این بیانیه اعلام شده تردد در تنگه هرمز بدون مشکل ادامه دارد.
 ‏
@@ -368,7 +376,7 @@ src :@GeoPWatch
 
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸 Anthropic has announced that the U.S. government has placed export controls on Fable 3 and Mythos 5, barring all foreign nationals from accessing them. 
+‏⚡️🇺🇸 Anthropic has announced that the U.S. government has placed export controls on Fable 5 and Mythos 5, barring all foreign nationals from accessing them. 
 ‏
 ‏This includes foreign nationals inside and outside the U.S., alongside foreign national Anthropic employees. However, Claude is not affected by the new measures. 
 ‏
