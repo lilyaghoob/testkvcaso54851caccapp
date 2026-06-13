@@ -1,3 +1,26 @@
+src :@GeoPWatch
+[عکس]
+‏🇵🇰📞🇸🇦- Pakistani Foreign Minister Mohammad Ishaq Dar held a phone call with Saudi Foreign Minister Faisal bin Farhan, during which both sides welcomed the US-Iran negotiations entering their final stage, with an electronic signing ceremony scheduled for tomorrow.
+‏
+‏➡️ Both expressed hope that the development will contribute to lasting peace and stability in the region. Faisal also praised Pakistan's consistent mediation efforts throughout the process.
+17:41
+1405/03/23
+
+
+
+
+src :@mohem_mat
+‏آرامان نیوز:
+‏
+‏ما بعد از این جنگ باید در خیلی فرایندها تجدید نظر کنیم؛ فرایندهایی که رمضانپور اصلاح‌طلب و مهدی نصیری اصولگرا را که دارای قابلیت تبدیل به هیولاهای بی‌وطن هستند، تشخیص نمی‌دهد حتما دچار ایراد است.
+‏
+‏〽️ @AramanNews
+17:41
+1405/03/23
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏⭕️ترامپ توییت نخست‌وزیر پاکستان درمورد امضای دیجیتال یادداشت تفاهم ایران و آمریکا تا ۲۴ ساعت آینده را بازنشر کرد
@@ -2598,18 +2621,6 @@ src :@World_Newsly
 
 
 
-src :@GeoPWatch
-[عکس]
-‏#NEW
-‏🇵🇰🇮🇷🇺🇸- Pakistani Prime Minister Shehbaz Sharif: We are closer to a peace deal than ever before. With finalization likely expected in the next 24 hours, Pakistan is preparing for the electronic signing of the peace deal immediately after, followed by technical-level talks next week. 
-‏
-‏We would like to thank the United States of America and the Islamic Republic of Iran for their ongoing commitment during the negotiations, and we extend our sincere appreciation to our brothers in the region for their support. We are confident that this historic peace deal will form a strong foundation for lasting peace.
-14:32
-1405/03/23
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏✈️هواپیمای A-10 وارهاگ نیروی هوایی آمریکا (USAF) در حال بازگشت از خاورمیانه به بریتانیا دیده شده است، در حالی که روی بدنه آن چندین «نشان شکار» (Kill marks) دیده می‌شود؛ از جمله به نظر می‌رسد دو فروند قایق تندرو نیروی دریایی سپاه پاسداران (IRGC-N) نیز در میان آن‌ها باشد.
@@ -2653,21 +2664,6 @@ src :@Indypersian
 ‏با گذشت بیش از ۱۰۰ روز از کشته شدن رهبر پیشین جمهوری اسلامی، مجتبی خامنه‌ای، پسر و جانشین او در انظار عمومی ظاهر نشده و حضور او در مراسم تدفین پدرش در هاله‌ای از ابهام قرار دارد.
 ‏
 ‏@indypersian
-14:28
-1405/03/23
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻ورزش سه خبر داد که وزارت خارجه آمریکا برای چهار عضو تیم ملی ایران از میان ۱۵ نفری که هنوز ویزا دریافت نکرده بودند، ویزا صادر کرده است. این در حالی است که درخواست مجدد ویزا برای مهدی تاج و مهدی محمدنبی رییس و نایب رییس فدراسیون فوتبال رد شد.
-‏
-‏🔹بر اساس گزارش ورزش سه، ویزای امید جمالی، مسئول بین‌الملل، مسعود اردشیر، مسئول امنیتی، علی افضلی، مسئول بین‌الملل، و مهرپویا اسدی، آنالیزور تیم ملی، به اردوی تیم ملی رسیده است.
-‏
-‏🔹با این حال، دولت آمریکا برای برخی از مدیران ارشد فوتبال جمهوری اسلامی از جمله مهدی تاج، رییس فدراسیون فوتبال جمهوری اسلامی، هدایت ممبینی، دبیرکل فدراسیون، و مدیر تیم ملی ویزا صادر نکرده است و آنها نمی‌توانند تیم ملی را در آمریکا همراهی کنند.
-‏
-‏@iranintltvsport
 14:28
 1405/03/23
 
@@ -2851,15 +2847,6 @@ src :@mwarmonitor
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran: Late Supreme Leader Ali Khamenei will be buried on July 9, state TV reports.
-14:10
-1405/03/23
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏هدف قرارگرفتن یک دستگاه موتورسیکلت حزب‌الله لبنان در کفرمان در نزدیکی نبطیه
@@ -3027,14 +3014,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 13:59
-1405/03/23
-
-
-
-
-src :@mohem_mat
-‏خبرگزاریها:   تا دقایقی دیگر، جزئیات مراسم وداع،تشییع و تدفین امام مجاهد شهید حضرت آیت‌الله العظمی خامنه‌ای قدس‌الله نفسه‌الزکیه با صدور اطلاعیه دفتر حفظ و نشر آثار رهبر شهید انقلاب اسلامی اعلام می‌شود.   @mohem_mat
-13:57
 1405/03/23
 
 
@@ -3381,16 +3360,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 13:20
-1405/03/23
-
-
-
-
-src :@MilitarryWorld
-‏⭕️فارس: برخی منابع از احتمال وقوع حمله سایبری خبر داده‌اند، اما تاکنون هیچ مقام رسمی این موضوع را تأیید یا رد نکرده
-‏
-‏@MilitarryWorld | Parsa
-13:17
 1405/03/23
 
 
