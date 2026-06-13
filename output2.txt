@@ -1,3 +1,42 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 احتمال خروج فرانسه از پروژه مشترک تانک نسل آینده با آلمان
+‏
+‏🔹 خبرگزاری رویترز گزارش داده است که فرانسه در حال بررسی خروج از پروژه مشترک تانک نسل آینده با آلمان است؛ پروژه‌ای که در صورت شکست، سومین برنامه بزرگ دفاعی مشترک دو کشور خواهد بود که طی سال‌های اخیر فرو می‌پاشد.
+‏
+‏🔹 این خبر تنها چند روز پس از گزارش‌ها درباره توقف پروژه جنگنده نسل ششم اروپا منتشر شده و نشانه‌ای از افزایش اختلافات در همکاری‌های دفاعی پاریس و برلین تلقی می‌شود.
+‏
+‏🔹 مدیرعامل راین‌متال اعلام کرده است فرانسه در حال بررسی کاهش بودجه اختصاص‌یافته به این پروژه به کمتر از نصف میزان برنامه‌ریزی‌شده است. همچنین از زمان آغاز پروژه در سال ۲۰۱۷ تاکنون تنها ۲۵ میلیون یورو پرداخت شده است.
+‏
+‏🔹 پروژه تانک نسل آینده قرار بود در دهه‌های آینده جایگزین تانک‌های لئوپارد ۲ آلمان و لکلرک فرانسه شود، اما اختلافات صنعتی روند توسعه آن را با مشکل مواجه کرده است.
+‏
+‏🔹 در صورت خروج فرانسه، یکی دیگر از نمادهای همکاری دفاعی پاریس و برلین با ابهام جدی روبه‌رو خواهد شد؛ موضوعی که  بر چشم‌انداز استقلال دفاعی اروپا نیز تأثیر می گذارد.
+‏
+‏#فرانسه
+‏#آلمان 
+‏
+‏@RASTAKHIZ_PERSIAN
+16:17
+1405/03/23
+
+
+
+
+src :@ClashReport
+[عکس]
+‏US A-10 Warthog aircraft are seeing real action over the Strait of Hormuz.
+‏
+‏Kill markings on one aircraft confirm two Iranian speedboats destroyed.
+‏
+‏Other A-10s show markings for JDAMs, GBU-39 small diameter bombs, AGM-65 Maverick missiles, APKWS rockets, and AIM-9s for drone intercepts.
+‏
+‏Some also carried ADM-160 MALD decoys — missiles that mimic aircraft and cruise missiles to bait enemy air defenses.
+16:13
+1405/03/23
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏⭕️افشای طرح امریکا برای تصرف ذخایر اورانیوم ایران و جزئیات سفر محرمانه ژنرال کین
@@ -5,6 +44,17 @@ src :@MilitarryWorld
 ‏شبکه خبری «CNN» در گزارشی اختصاصی فاش کرد: ژنرال دن کین، رئیس ستاد مشترک ارتش امریکا، در سفری فوری و محرمانه به مقر فرماندهی مرکزی (سنتکام)، طرح‌های عملیات زمینی ارتش برای تصرف ذخایر اورانیوم غنی‌شده ایران با توسل به زور را بررسی کرده بود.
 ‏
 ‏@MilitarryWorld | Parsa
+16:12
+1405/03/23
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏گزارشات از اختلال گسترده در خدمات سه بانک ملی، صادرات و تجارت
+‏
+‏حمله سایبری احتمالی اسرائیل به شبکه بانکی کشور
 16:12
 1405/03/23
 
@@ -4320,23 +4370,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump called Netanyahu on Thursday evening, telling him he expected to finalize an Iran deal within days.
-‏
-‏Trump: “This is the deal. It’s a great deal, and it’s time to end this war.”
-‏
-‏A senior U.S. official said Netanyahu “didn’t push back hard or argue much” and appeared to accept he “could not stop Trump from signing it.”
-‏
-‏Netanyahu had hoped the war would lead to regime change in Iran, but rivals are now accusing him of making Israel a “vassal state” by going along with U.S. terms.
-‏
-‏Source: Axios
-09:18
-1405/03/23
-
-
-
-
 src :@didarnews1
 ‏🔴ادعای سنتکام درمورد سرنگون کردن پهپادهای ایرانی
 ‏
@@ -6198,29 +6231,6 @@ src :@thewarreporter
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 روسیه از دو زیردریایی غیرهسته‌ای جدید رونمایی کرد
-‏
-‏🔹 در نمایشگاه دریایی «فلوت-۲۰۲۶» در کرونشتات، روسیه دو طرح جدید زیردریایی غیرهسته‌ای را معرفی کرد؛ پروژه «آمور ۱۶۵۰» و پروژه «پی-۷۵۰ بی سروال».
-‏
-‏🔹 «آمور ۱۶۵۰» به سامانه پیشران مستقل از هوا (AIP) و پرتابگرهای عمودی موشک مجهز است و می‌تواند موشک‌های کروز Club-S، کالیبر-PL و حتی موشک‌های مافوق صوت براهموس را حمل کند. ظرفیت تسلیحاتی این زیردریایی تا ۲۸ سلاح عنوان شده که در میان زیردریایی‌های دیزل-الکتریک جهان رقم قابل توجهی محسوب می‌شود.
-‏
-‏🔹 پروژه «سروال» برای عملیات در آب‌های ساحلی و مناطق نزدیک دریایی طراحی شده است. این زیردریایی قادر به حمل اژدرهای ۵۳۳ میلی‌متری، موشک‌ها و مین‌های دریایی بوده و بر پنهان‌کاری، چابکی و هزینه عملیاتی پایین تمرکز دارد.
-‏
-‏🔹 رونمایی از این دو طرح نشان می‌دهد مسکو همچنان به توسعه ناوگان زیردریایی‌های غیرهسته‌ای به‌عنوان گزینه‌ای ارزان‌تر و مناسب‌تر برای صادرات و عملیات منطقه‌ای در کنار زیردریایی‌های هسته‌ای خود ادامه می‌دهد.
-‏
-‏#روسیه 
-‏#زیردریایی 
-‏#نیروی_دریایی 
-‏
-‏@RASTAKHIZ_PERSIAN
-21:44
-1405/03/22
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷🇵🇰🇨🇭 — Pakistani Foreign Minister Ishaq Dar is traveling to Geneva, Switzerland, tonight to continue efforts to mediate between the US and Iran.
 ‏
@@ -7299,15 +7309,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 16:43
-1405/03/22
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏Syrian President Ahmed al-Sharaa: Reports of Syrian entry into Lebanon are rumors, Syria’s focus is on ending the war in Lebanon and not expanding or engaging in it, and that border demarcation is not a current priority given the need to address the situation of more than 1.4 million Syrian displaced persons in Lebanon and ensure their return.
-‏
-‏@Mena_Live
-16:13
 1405/03/22
