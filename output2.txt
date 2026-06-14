@@ -6522,14 +6522,3 @@ src :@RASTAKHIZ_PERSIAN
 ‏@RASTAKHIZ_PERSIAN
 07:00
 1405/03/23
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇨🇳🇺🇸 China says US is using 'national security' as an excuse to suppress and restrict Chinese firms.
-‏
-‏@BRICSNews
-06:45
-1405/03/23
