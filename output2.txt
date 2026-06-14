@@ -2946,27 +2946,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇱 Israeli President Herzog wishes U.S. President Trump a Happy 80th Birthday:
-‏
-‏Happy 80th birthday, President [Donald Trump]!
-‏
-‏Your remarkable journey to the White House represents the breadth of the American dream and the power of your own resolve.
-‏
-‏The people of Israel are grateful for your leadership in confronting Iran’s empire of evil and for your steadfast commitment to the security of Israel. We will never forget your tireless efforts in securing the release of our beloved hostages. May you lead the Middle East and the world toward peace and security and continue to strengthen the unique U.S.-Israel partnership. 🇺🇸🇮🇱
-‏
-‏In Jewish tradition, it is stated that at the age of eighty you gain unique prowess. May you enjoy your beautiful family and many happy birthdays with blessings and joy.
-‏
-‏Mazal tov!
-‏
-‏@wfwitness
-06:33
-1405/03/24
-
-
-
-
 src :@GeoPWatch
 ‏🇯🇴 — Maybe a test. Local sources report hearing only the "end of the alert" sirens, and nothing else.
 06:07
@@ -5408,16 +5387,6 @@ src :@VahidOnline
 
 
 
-src :@warmonitors
-‏⚡️#LATEST Although talks of a deal are picking up, Israel continues to strike towns in southern Lebanon
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-18:53
-1405/03/23
-
-
-
-
 src :@Mena_Live
 ‏Yediot Ahronot:
 ‏
@@ -6238,22 +6207,4 @@ src :@DEJradio
 ‏#بانکداری #بانک_ملی
 ‏@DEJradio
 13:32
-1405/03/23
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 اسپیس‌ایکس رسماً بورسی شد؛ ایلان ماسک به مرز تریلیون دلار نزدیک‌تر از همیشه  🔹اسپیس‌ایکس امروز با بزرگ‌ترین عرضه اولیه عمومی (IPO) تاریخ آمریکا رسماً وارد بازار سهام شد. این شرکت متعلق به ایلان ماسک حدود ۷۵ میلیارد دلار سرمایه جذب کرد و ارزش آن در زمان عرضه…
-13:27
-1405/03/23
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 سازمان هایی مانند سازمان پدافند غیرعامل که سال ها بودجه های کلان دریافت می‌کردند و ادعای زیادی داشتند در جریان جنگ ۱۲ روزه هیچ نوع عملکرد مثبتی از خود نشان ندادند؛ در حالی که کشور زیر بمباران جنگنده‌های دشمن و تحت انواع حملات سایبری قرار داشت این نوع سازمان‌ها…
-13:26
 1405/03/23
