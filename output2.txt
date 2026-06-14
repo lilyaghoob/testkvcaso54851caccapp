@@ -1,3 +1,39 @@
+src :@P_raetorio
+[عکس]
+‏حملات به جنوب لبنان
+‏
+‏@P_raetorio
+10:36
+1405/03/24
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴  واشنگتن‌پست: قطر در ابتدای جنگ به ایران پیشنهاد داده بود که در ازای عدم حمله به تأسیسات گازی‌اش، تولید گاز را با هدف تحت فشار قراردادن بازار انرژی متوقف کند
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+10:34
+1405/03/24
+
+
+
+
+src :@World_Newsly
+‏🔴گزارش‌ ها حاکی است که برای امروز، ساعت 18، فراخوانی برای تجمع مخالفان مذاکرات منتشر شده است
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+10:32
+1405/03/24
+
+
+
+
 src :@World_Newsly
 ‏🔴 العربیه: امروز نشست مجازی میان هیئت‌ های آمریکا و ایران برای امضای توافق صلح برگزار میشود
 ‏
@@ -1565,22 +1601,6 @@ src :@VahidOnline
 
 
 src :@World_Newsly
-‏🔴فاکس نیوز به نقل از یک مقام ارشد دولت آمریکا:
-‏
-‏معتقدیم که به یک توافق فوق‌العاده و بسیار قوی دست یافته‌ایم.
-‏ایران تنگه هرمز را بدون عوارض بازگشایی خواهد کرد.
-‏تحریم‌های آمریکا همزمان با بازگشایی تنگه هرمز لغو خواهد شد.
-‏به نقل از یک مقام ارشد دولت آمریکا: مرحله بعدی بر عملیات برداشتن تومورها از تنگه هرمز تمرکز خواهد داشت.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-03:39
-1405/03/24
-
-
-
-
-src :@World_Newsly
 [عکس]
 ‏🔴خبرنگار کانال ۱۲ اسرائیل، آمیت سگال، به نقل از یک «مقام بسیار ارشد اسرائیلی» درباره توافق قریب‌الوقوع:
 ‏
@@ -1806,15 +1826,6 @@ src :@ClashReport
 [عکس]
 ‏Trump:
 02:52
-1405/03/24
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 رادار A-327 آمریکا در بحرین منهدم شد  🔸 برد این رادار نزدیک به ۵۰۰ ک.م بود  ✍🏻 exxon ▪️@World_Newsly
-02:45
 1405/03/24
 
 
@@ -2144,27 +2155,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 01:01
-1405/03/24
-
-
-
-
-src :@Minas_Tirith2024
-‏📶 هنوز از سرویس‌های حجمی استفاده می‌کنی؟
-‏
-‏🔥 سرویس نامحدود ASAP VPN فعال شد
-‏
-‏✔ بدون نگرانی از اتمام حجم
-‏✔ کیفیت پایدار
-‏✔ مناسب استفاده روزمره
-‏✔ پشتیبانی فعال
-‏
-‏📩 سفارش:
-‏@Asap_vpn
-‏
-‏📢 کانال:
-‏https://t.me/ASAP_vpnchanel
-00:53
 1405/03/24
 
 
@@ -3293,17 +3283,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@selena_updates
-[عکس]
-‏The Lebanese terrorist organization Amal announced today the deaths of 3 of its members in different cities in southern Lebanon - Ansar, Kfar Roummane and Maarakeh: Muhammad Ibrahim Tarad, Ali Badi Hussein, and Salah Ali Masri.
-‏
-‏They were killed by Israel while fighting alongside Hezbollah terrorists.
-22:10
-1405/03/23
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇮🇷⚡️ — The signing of the deal between the US and Iran is scheduled for Sunday, Trump announced.  According to him, the blockade of the Strait of Hormuz will be lifted after the agreement is signed.  @Intelslava
 22:06
@@ -4157,14 +4136,6 @@ src :@P_raetorio
 ‏
 ‏
 ‏@P_raetorio
-20:22
-1405/03/23
-
-
-
-
-src :@P_raetorio
-[عکس]
 20:22
 1405/03/23
 
@@ -6096,16 +6067,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 10:57
-1405/03/23
-
-
-
-
-src :@Parvazdaroj
-[فایل]
-‏کانفینگ اختصاصی یک ترابایتی برای همراهان عزیز  پرواز در اوج
-‏با تشکر از مجموعه MMD VPN
-‏رمز
-‏@Etesal_dar_oj
-10:34
 1405/03/23
