@@ -1625,14 +1625,6 @@ src :@MilitarryWorld
 
 
 
-src :@GeoPWatch
-‏🇱🇧❌🇮🇱- Early warning alerts have been activated in Metula, northern Israel, due to possible missile launches.
-00:04
-1405/03/24
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷🇺🇸⚡️ — Iran has mined the entrances to underground storage facilities for enriched uranium and partially blocked access to its nuclear reserves, according to CNN, citing sources.
@@ -1642,14 +1634,6 @@ src :@intelslava
 ‏Experts note that such measures could complicate the implementation of a possible agreement between the US and Iran, if it provides for the transfer or destruction of uranium reserves. Access to the materials may require heavy equipment, demining, and the involvement of nuclear specialists.
 ‏
 ‏@Intelslava
-00:04
-1405/03/24
-
-
-
-
-src :@GeoPWatch
-‏🇱🇧❌🇮🇱- Early warning alerts have been activated in Metula, northern Israel, due to possible missile launches.
 00:04
 1405/03/24
 
@@ -6530,12 +6514,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 04:45
-1405/03/23
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 شنیده شدن صدای انفجار در حوالی جزیره قشم و سیریک  🔹 بررسی‌های اولیه نشان می‌دهد، در پهنه شهرستان سیریک انفجاری رخ نداده است و احتمالا صدای شنیده شده تلاشی برای کنترل تنگه هرمز و از سوی دریا بوده است/مهر  @RASTAKHIZ_PERSIAN
-04:27
 1405/03/23
