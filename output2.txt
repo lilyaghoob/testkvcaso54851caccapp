@@ -5118,25 +5118,6 @@ src :@mwarmonitor
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸🇪🇺⚡️ — The US will sharply reduce the military resources that could be sent to Europe in the event of war. 
-‏
-‏This was reported by Bloomberg, citing sources. 
-‏
-‏According to the publication, the EU is preparing for a sharp reduction in military aid from the US, which the Americans could have sent to Europe if hostilities had begun there. 
-‏
-‏Thus, according to the source, it is envisaged to reduce by 30% strategic bombers, by 75-100% reconnaissance and strike drones, as well as by 50% naval vessels. A third of fighter jets will also be reduced. 
-‏
-‏"According to sources, Europeans are now considering how the continent could wage war without US support. This topic was discussed at a meeting of defense ministers of the "European Five" countries on Friday, where the main attention was paid to how to achieve the same military goals using the remaining weapons and equipment," writes Bloomberg.
-‏
-‏@Intelslava
-16:26
-1405/03/23
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 احتمال خروج فرانسه از پروژه مشترک تانک نسل آینده با آلمان
@@ -6541,14 +6522,4 @@ src :@bricsnews
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 شنیده شدن صدای انفجار در حوالی جزیره قشم و سیریک  🔹 بررسی‌های اولیه نشان می‌دهد، در پهنه شهرستان سیریک انفجاری رخ نداده است و احتمالا صدای شنیده شده تلاشی برای کنترل تنگه هرمز و از سوی دریا بوده است/مهر  @RASTAKHIZ_PERSIAN
 04:27
-1405/03/23
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇦🇪🇮🇷 UAE denies reports of $3 billion fund transfer to Iran, says no frozen Iranian assets were released or facilitated through the UAE.
-‏
-‏@BRICSNews
-04:18
 1405/03/23
