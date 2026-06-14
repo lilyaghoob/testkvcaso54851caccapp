@@ -1,6 +1,51 @@
+src :@naya_foriraq
+‏طيران مسير من لبنان يهاجم الشمال الفلسطيني المحتل وصافرات الرعب تدوي.
+16:15
+1405/03/24
+
+
+
+
+src :@GeoPWatch
+‏🇱🇧❌🇮🇱- Drone alerts have been activated in Misgav Am, Galilee Panhandle, northern Israel.
+16:14
+1405/03/24
+
+
+
+
+src :@MilitarryWorld
+‏🚨۳ کشته و ۶ مجروح در پی حمله اسرائیل به ضاحیه
+‏
+‏@MilitarryWorld | Parsa
+16:14
+1405/03/24
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
+‏
+‏@wfwitness
+16:14
+1405/03/24
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇻🇪⚡️ — BREAKING: President Trump says the U.S. has assassinated the leader of Tren De Aragua in Venezuela.  At my direction, the United States Southern Command delivered a swift and lethal kinetic strike to successfully execute Niño Guerrero, the infamous…
+16:12
+1405/03/24
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷🇮🇱⚡️- “This is a clear attempt by Israel to undermine the President’s deal and pull the United States back into war.” - Fox News citing a diplomat.
 16:12
 1405/03/24
 
@@ -2745,15 +2790,6 @@ src :@MilitarryWorld
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇱❌🇱🇧🇱🇧- Additional images from Dahieh.
-14:11
-1405/03/24
-
-
-
-
 src :@naya_foriraq
 ‏الشقة المستهدفة في الضاحية
 14:09
@@ -3646,18 +3682,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-‏⚡️🇸🇾 The Director of Internal Audit at the Syrian Petroleum Company has a ninth Grade Education Certificate.
-‏
-‏The educational qualification of Fawaz Hijazi, the Director of Internal Audit at the Syrian Petroleum Company, does not exceed a basic education certificate (ninth grade), raising sharp criticism about the criteria for selecting leaders in sensitive oversight positions.
-‏
-‏@wfwitness
-12:59
-1405/03/24
-
-
-
-
 src :@intelslava
 ‏🇰🇵⚡️ — North Korea has announced that it no longer intends to discuss its nuclear status with anyone, which is irreversible. Pyongyang has no intention of conducting any negotiations on this topic.
 ‏
@@ -4056,16 +4080,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖
 ‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
 12:00
-1405/03/24
-
-
-
-
-src :@MilitarryWorld
-‏⭕️ایهود باراک، نخست‌وزیر اسبق اسرائیل: توافقی که به‌زودی میان آمریکا و ایران امضا خواهد شد را می‌توان در یک کلمه توصیف کرد: بد و در دو کلمه: بسیار بد
-‏
-‏@MilitarryWorld | Parsa
-11:59
 1405/03/24
 
 
@@ -5434,15 +5448,6 @@ src :@USAMRYDATA
 
 
 
-src :@ClashReport
-[عکس]
-‏Around 300 Ukrainian drones are targeting Russia and Russian-occupied territories.
-00:10
-1405/03/24
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇱🇧🇮🇱⚡️- Hezbollah has launched rockets to northern Israel. 
@@ -5794,26 +5799,6 @@ src :@Mena_Live
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ اصابت به رادار هشدار اولیه ASR-1000 در پایگاه علی السالم کویت
-‏
-‏@Guard_Warriors | Mmd
-21:00
-1405/03/23
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ اصابت تأیید شده در سایت رادار برد بلند AR-327 جبل الدخان، بحرین.  @Guard_Warriors | Mmd
-20:58
-1405/03/23
-
-
-
-
 src :@warmonitors
 ‏⚡Iran's Foreign Ministry: The presence of foreign bases and foreign military presence in the region must end
 ‏
@@ -5986,15 +5971,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 20:18
-1405/03/23
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ پس از اضافه کردن 10 و 11 ژوئن میشه دو نقطه دیگه هم پیدا کرد.  یک ساختمان فرماندهی و دو مخزن سوخت جمعا  @Guard_Warriors | Mmd
-19:49
 1405/03/23
 
 
@@ -6356,15 +6332,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 16:17
-1405/03/23
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏گزارشات از اختلال گسترده در خدمات سه بانک ملی، صادرات و تجارت
-‏
-‏حمله سایبری احتمالی اسرائیل به شبکه بانکی کشور
-16:12
 1405/03/23
