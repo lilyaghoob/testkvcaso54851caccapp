@@ -1,7 +1,68 @@
-src :@GeoPWatch
+src :@VahidOnline
 [عکس]
-‏#BREAKING
-‏🇵🇰🇮🇷🤝🇺🇸- Pakistani Prime Minister Shehbaz Sharif annouces a deal between Iran and the United States: 
+‏شهباز شریف: توافق حاص شد
+‏
+‏ترجمه ماشین:
+‏در پی مذاکرات فشرده، خوشحالیم اعلام کنیم که توافق صلح میان ایالات متحده آمریکا و جمهوری اسلامی ایران حاصل شده است. هر دو طرف پایان فوری و دائمی عملیات نظامی در همه جبهه‌ها، از جمله در لبنان، را اعلام کرده‌اند.
+‏
+‏مراسم رسمی امضای توافق روز جمعه، ۱۹ ژوئن، در سوئیس برگزار خواهد شد.
+‏
+‏مایلیم از ایالات متحده آمریکا و جمهوری اسلامی ایران به‌خاطر تعهدشان به یافتن راه‌حلی دیپلماتیک برای این مناقشه تشکر کنیم. همچنین مایلیم قدردانی صمیمانه خود را از برادرانمان در این تلاش میانجی‌گرانه، رهبری بزرگ دولت قطر، به‌خاطر حمایتشان در دستیابی به این توافق ابراز کنیم. به‌ویژه از رهبری دوراندیش پادشاهی عربستان سعودی و جمهوری ترکیه نیز به‌خاطر مشارکت‌های عظیمشان در این زمینه تشکر می‌کنم.
+‏
+‏اکنون که توافق برقرار شده است، میانجی‌ها مجموعه‌ای از نشست‌ها را در این هفته تسهیل خواهند کرد. این گفت‌وگوهای پیش از اجرا، زمینه را برای مذاکرات فنی و مراسم رسمی امضا فراهم خواهد کرد.
+‏
+‏📡 @VahidOnline
+00:52
+1405/03/25
+
+
+
+
+src :@mwarmonitor
+‏🔴نخست وزیر پاکستان 
+‏
+‏پس از گفتگوهای فشرده، خرسندیم اعلام کنیم که توافق صلح میان ایالات متحده آمریکا و جمهوری اسلامی ایران حاصل شده است. هر دو طرف پایان فوری و دائمی عملیات نظامی در تمامی جبهه‌ها، از جمله در لبنان را اعلام کرده‌اند.
+‏مراسم رسمی امضای این توافق، روز جمعه ۱۹ ژوئن در سوئیس برگزار خواهد شد.
+‏ما مایلیم از ایالات متحده آمریکا و جمهوری اسلامی ایران به خاطر تعهدشان به یافتن یک راه‌حل دیپلماتیک برای این مناقشه تشکر کنیم. همچنین می‌خواهیم مراتب قدردانی صمیمانه خود را از برادرانمان در این تلاش میانجی‌گرانه، یعنی رهبری عالی‌قدر دولت قطر، به خاطر حمایت‌هایشان در دستیابی به این توافق ابراز نماییم. من همچنین به طور ویژه از رهبری آینده‌نگر پادشاهی عربستان سعودی و جمهوری ترکیه به خاطر مشارکت و نقش‌آفرینی بی‌اندازه‌شان در این زمینه تشکر می‌کنم.
+‏با برقراری این توافق، میانجی‌ها مجموعه‌ای از نشست‌ها را در این هفته تسهیل خواهند کرد. این گفتگوهای پیش از اجرا، پایه‌ای را برای مذاکرات فنی و مراسم رسمی امضای توافق بنا خواهد کرد.
+‏
+‏@mwarmonitor
+00:51
+1405/03/25
+
+
+
+
+src :@jangaavaran1390
+‏توافق به دست آمد!
+‏
+‏نخست وزیر پاکستان از قطعی شدن توافق ایران و آمریکا و برگزاری مراسم امضای آن در سوئیس در روز جمعه خبر داد.
+00:51
+1405/03/25
+
+
+
+
+src :@P_raetorio
+‏تمام جبهه‌ها، از جمله در لبنان،
+00:51
+1405/03/25
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷🌟🌟رئيس وزراء باكستان: ‏يعلن تم توصل الى اتفاق مع واشنطن وطهران بعد مفاوضات مكثفة، يسرنا أن نعلن عن التوصل إلى اتفاق سلام بين الولايات المتحدة الأمريكية والجمهورية الإسلامية الإيرانية. وقد أعلن الجانبان الوقف الفوري والدائم للعمليات العسكرية على جميع الجبهات،…
+00:51
+1405/03/25
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇵🇰 🇮🇷 🇺🇸 — Pakistani Prime Minister Shehbaz Sharif:
+‏
 ‏Following intensive talks, we are pleased to announce that the Peace Deal between the United States of America and Islamic Republic of Iran has been REACHED. Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.
 ‏
 ‏The official signing ceremony will be on Friday, 19 June in Switzerland. 
@@ -9,6 +70,228 @@ src :@GeoPWatch
 ‏We would like to thank the United States of America and the Islamic Republic of Iran for their commitment to finding a diplomatic solution to the conflict. We would also like to extend our sincere appreciation to our brothers in this mediation effort, the great leadership of State of Qatar, for their support in reaching this agreement. I would also especially thank the visionary leadership of Kingdom of Saudi Arabia and Republic of Türkiye for their immense contributions in this regard. 
 ‏
 ‏With the agreement now in place, mediators will facilitate a series of meetings this week. These pre-implementation discussions will lay the foundation for the technical talks and the official signing ceremony.
+‏
+‏The Global Eye | Subscribe
+00:50
+1405/03/25
+
+
+
+
+src :@ClashReport
+[عکس]
+‏BREAKING: Pakistan PM Sharif on Iran-U.S deal:
+‏
+‏Following intensive talks, we are pleased to announce that the Peace Deal between the United States of America and Islamic Republic of Iran has been REACHED. 
+‏
+‏Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.
+‏
+‏The official signing ceremony will be on Friday, 19 June in Switzerland.
+00:49
+1405/03/25
+
+
+
+
+src :@GeoPWatch
+‏#BREAKING 🇵🇰🇮🇷🤝🇺🇸- Pakistani Prime Minister Shehbaz Sharif annouces a deal (MoU) between Iran and the United States:  Following intensive talks, we are pleased to announce that the Peace Deal between the United States of America and Islamic Republic of Iran…
+00:49
+1405/03/25
+
+
+
+
+src :@naya_foriraq
+‏وقف العمليات بجميع الجبهات بما فيها لبنان
+00:49
+1405/03/25
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ فوری/نخست‌وزیر پاکستان اعلام کرد: پس از مذاکرات فشرده، خرسندیم اعلام کنیم که توافق صلح میان ایالات متحده آمریکا و جمهوری اسلامی ایران حاصل شده است. دو طرف پایان فوری و دائمی عملیات نظامی در تمام جبهه‌ها، از جمله در لبنان، را اعلام کرده‌اند.
+‏
+‏مراسم امضای رسمی این توافق روز جمعه ۱۹ ژوئن در سوئیس برگزار خواهد شد.
+‏
+‏@MilitarryWorld | Maverick
+00:49
+1405/03/25
+
+
+
+
+src :@P_raetorio
+‏#فوری
+‏«پس از مذاکرات فشرده، با کمال خرسندی اعلام می‌کنیم که توافق صلح بین ایالات متحده آمریکا و جمهوری اسلامی ایران حاصل شده است. هر دو طرف پایان فوری و دائمی عملیات نظامی در تمام جبهه‌ها، از جمله در لبنان، را اعلام کرده‌اند.مراسم رسمی امضای توافق‌نامه روز جمعه، 19 ژوئن، در سوئیس برگزار خواهد شد.ما مایلیم از ایالات متحده آمریکا و جمهوری اسلامی ایران به خاطر تعهدشان به یافتن راه‌حل دیپلماتیک برای این درگیری تشکر کنیم. همچنین مایلیم از برادرانمان در این تلاش میانجیگری، رهبری بزرگ کشور قطر، به خاطر حمایتشان در دستیابی به این توافق، صمیمانه قدردانی کنیم. همچنین به ویژه از رهبری دوراندیش پادشاهی عربستان سعودی و جمهوری ترکیه به خاطر کمک‌های عظیمشان در این زمینه تشکر می‌کنم.با حصول توافق، میانجیگران این هفته سلسله جلساتی را تسهیل خواهند کرد. این بحث‌های پیش از اجرا، پایه و اساس مذاکرات فنی و مراسم امضای رسمی را بنا خواهد نهاد.»
+‏
+‏-شهباز شریف،نخست وزیر پاکستان
+‏
+‏@P_raetorio
+00:49
+1405/03/25
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 شهباز شریف، اعلام کرد توافق بین ایران و ایالات متحده به دست آمده است:
+‏
+‏پس از مذاکرات فشرده، خوشحالیم اعلام کنیم که توافق صلح بین ایالات متحده آمریکا و جمهوری اسلامی ایران به دست آمده است. هر دو طرف اعلام کرده‌اند که عملیات نظامی در تمام جبهه‌ها، از جمله در لبنان، به طور فوری و دائمی متوقف خواهد شد.
+‏
+‏مراسم رسمی امضا در روز جمعه، ۱۹ ژوئن در سوئیس برگزار خواهد شد.
+‏
+‏مایلیم از ایالات متحده آمریکا و جمهوری اسلامی ایران به خاطر تعهدشان به یافتن راه‌حلی دیپلماتیک برای این درگیری تشکر کنیم. همچنین قدردانی صمیمانه خود را از برادرانمان در این تلاش میانجی‌گری، رهبری بزرگ کشور قطر، برای حمایت‌شان در رسیدن به این توافق ابراز می‌داریم. به ویژه از رهبری دوراندیش پادشاهی عربستان سعودی و جمهوری ترکیه برای مشارکت‌های عظیمشان در این زمینه تشکر می‌کنم.
+‏
+‏با وجود این توافق، میانجی‌گران این هفته مجموعه‌ای از جلسات را تسهیل خواهند کرد. این بحث‌های پیش از اجرا، پایه و اساس مذاکرات فنی و مراسم رسمی امضا را فراهم خواهد کرد.
+‏
+‏@RASTAKHIZ_PERSIAN
+00:49
+1405/03/25
+
+
+
+
+src :@World_Newsly
+‏🔴ترامپ: ما بعداً زمانی که آماده باشیم، مواد هسته‌ ای را به دست خواهیم آورد و این اتفاق خواهد افتاد   ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
+00:49
+1405/03/25
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸🇮🇷🇵🇰⚡️- BREAKING: Pakistan's Prime Minister Shehbaz Sharif announces the U.S.-Iran peace deal has been reached.
+‏
+‏He says both sides have agreed to a permanent termination of military operations on all fronts, including Lebanon.
+‏
+‏The signing ceremony will be Friday, June 19th in Switzerland.
+00:49
+1405/03/25
+
+
+
+
+src :@Minas_Tirith2024
+‏نخست وزیر پاکستان: 
+‏
+‏پس از مذاکرات فشرده، با کمال خرسندی اعلام می‌کنیم که توافق صلح بین ایالات متحده آمریکا و جمهوری اسلامی ایران حاصل شده است. هر دو طرف پایان فوری و دائمی عملیات نظامی در تمام جبهه‌ها، از جمله در لبنان، را اعلام کرده‌اند.
+‏
+‏مراسم رسمی امضای این توافق‌نامه روز جمعه، ۱۹ ژوئن، در سوئیس برگزار خواهد شد.
+‏
+‏@Minas_Tirith2024
+00:49
+1405/03/25
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 نخست وزیر پاکستان رسما توافق صلح ایران و آمریکا را اعلام کرد:
+‏
+‏"پس از مذاکرات فشرده، با کمال خرسندی اعلام می‌کنیم که توافق صلح بین ایالات متحده آمریکا و جمهوری اسلامی ایران حاصل شده است. هر دو طرف پایان فوری و دائمی عملیات نظامی در تمام جبهه‌ها، از جمله در لبنان، را اعلام کرده‌اند.
+‏
+‏مراسم رسمی امضای توافق‌نامه روز جمعه، ۱۹ ژوئن، در سوئیس برگزار خواهد شد.
+‏
+‏ما مایلیم از ایالات متحده آمریکا و جمهوری اسلامی ایران به خاطر تعهدشان به یافتن راه‌حل دیپلماتیک برای این درگیری تشکر کنیم. همچنین مایلیم از برادرانمان در این تلاش میانجیگری، رهبری بزرگ کشور قطر، به خاطر حمایتشان در دستیابی به این توافق‌نامه، صمیمانه قدردانی کنیم. همچنین به ویژه از رهبری دوراندیش پادشاهی عربستان سعودی و جمهوری ترکیه به خاطر کمک‌های عظیمشان در این زمینه تشکر می‌کنم.
+‏
+‏با حصول توافق‌نامه، میانجی‌ها این هفته مجموعه‌ای از جلسات را تسهیل خواهند کرد. این بحث‌های پیش از اجرا، پایه و اساس مذاکرات فنی و مراسم رسمی امضای توافق‌نامه را بنا خواهد نهاد.
+‏
+‏🆔 @Americana_ir
+00:49
+1405/03/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇵🇰🇮🇷🇺🇸⚡️ — BREAKING: Pakistan's Prime Minister Shehbaz Sharif says a deal has been reached between the U.S. and Iran and that the official signing will be on Friday (19 June) in Switzerland.
+‏
+‏➡️ He says both sides have "declared the immediate and permanent termination of military operations" on all fronts, including Lebanon.
+‏
+‏Following intensive talks, we are pleased to announce that the Peace Deal between the United States of America and Islamic Republic of Iran has been REACHED. Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.
+‏
+‏The official signing ceremony will be on Friday, 19 June in Switzerland. 
+‏
+‏We would like to thank the United States of America and the Islamic Republic of Iran for their commitment to finding a diplomatic solution to the conflict. We would also like to extend our sincere appreciation to our brothers in this mediation effort, the great leadership of State of Qatar, for their support in reaching this agreement. I would also especially thank the visionary leadership of Kingdom of Saudi Arabia and Republic of Türkiye for their immense contributions in this regard. 
+‏
+‏With the agreement now in place, mediators will facilitate a series of meetings this week. These pre-implementation discussions will lay the foundation for the technical talks and the official signing ceremony.
+00:48
+1405/03/25
+
+
+
+
+src :@cataphract1
+‏🔴 فوری
+‏
+‏⚜نخست‌وزیر پاکستان اعلام کرد: پس از مذاکرات فشرده، خرسندیم اعلام کنیم که توافق صلح میان ایالات متحده آمریکا و جمهوری اسلامی ایران حاصل شده است. دو طرف پایان فوری و دائمی عملیات نظامی در تمام جبهه‌ها، از جمله در لبنان، را اعلام کرده‌اند.
+‏
+‏⚜مراسم امضای رسمی این توافق روز جمعه ۱۹ ژوئن در سوئیس برگزار خواهد شد.
+‏✒️#LT
+‏📃@Cataphract1
+00:48
+1405/03/25
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️به گزارش روزنامه وال‌استریت ژورنال، دونالد ترامپ، رئیس‌جمهوری آمریکا، عصر روز یکشنبه در گفتگویی اختصاصی اعلام کرد که قصد دارد تا لحظاتی دیگر با صدور بیانیه‌ای رسمی، موافقت ایالات متحده با توافق با ایران را تایید کند؛ توافقی بزرگ که به گفته او یا توسط خودش و یا توسط معاونش، جی‌دی ونس، به صورت الکترونیکی امضا خواهد شد. ترامپ با بیان اینکه این معاهده، که مقامات تهران هنوز موافقت نهایی با آن را تایید نکرده‌اند، شامل تعهد ایران برای عدم دستیابی به سلاح هسته‌ای و بازگشایی فوری تنگه هرمز است، تاکید کرد که در این مرحله عجله‌ای برای خروج مواد اتمی از ایران ندارد و این کارِ «بی‌خطر» را به ماه‌های آینده موکول می‌کند. رئیس‌جمهوری آمریکا با رد مواضع منتقدانش درباره لزوم تغییر حکومت در ایران گفت: «من هیچ‌وقت اهمیت نداده‌ام. این سومین گروهی است که با آن‌ها معامله می‌کنیم و منطقی‌ترینِ آن‌ها تا به امروز هستند.» او همچنین با تاکید بر اثربخشی محاصره دریایی ایران، از اقدامات نظامی اخیر بنیامین نتانیاهو در لبنان که نزدیک بود این مذاکرات حساس را به هم بزند، به شدت انتقاد کرد و گفت: «نتانیاهو نباید این کار را می‌کرد؛ من اصلا از این اقدام خوشم نیامد.»
+‏
+‏
+‏ 
+‏@indypersian
+00:47
+1405/03/25
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با وال استریت ژورنال گفت توافق با جمهوری اسلامی قریب‌الوقوع است، اما تهران هنوز موافقت خود با آن را تایید نکرده است.
+‏
+‏ترامپ افزود قصد دارد به‌زودی بیانیه‌ای صادر کند که در آن اعلام خواهد شد آمریکا با جمهوری اسلامی به توافق رسیده است.
+‏
+‏او گفت این توافق، در صورت نهایی شدن، یا توسط خود او یا از سوی جی‌دی ونس، معاون رییس‌جمهوری آمریکا، به‌صورت الکترونیکی امضا خواهد شد.
+‏
+‏رییس‌جمهوری آمریکا روز یکشنبه این توافق را گامی بزرگ در مسیر پایان دادن به درگیری نزدیک به چهارماهه توصیف کرد.
+‏
+‏ترامپ همچنین گفت این توافق شامل تعهد جمهوری اسلامی به دست نیافتن به سلاح هسته‌ای و بازگشایی فوری تنگه هرمز خواهد بود. او افزود عجله‌ای برای خارج کردن مواد هسته‌ای از ایران وجود ندارد و این موضوع می‌تواند در مرحله‌ای بعدی دنبال شود.
+‏
+‏ترامپ گفت: «بعدا و زمانی که آماده باشیم وارد عمل شویم، مواد هسته‌ای را جمع‌آوری خواهیم کرد. به نظرم طی یک یا دو ماه آینده این کار انجام می‌شود و عجله‌ای وجود ندارد.»
+‏https://iranintl.com/202606145458
+00:47
+1405/03/25
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏#BREAKING
+‏🇵🇰🇮🇷🤝🇺🇸- Pakistani Prime Minister Shehbaz Sharif annouces a deal (MoU) between Iran and the United States: 
+‏Following intensive talks, we are pleased to announce that the Peace Deal between the United States of America and Islamic Republic of Iran has been REACHED. Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.
+‏
+‏The official signing ceremony will be on Friday, 19 June in Switzerland. 
+‏
+‏We would like to thank the United States of America and the Islamic Republic of Iran for their commitment to finding a diplomatic solution to the conflict. We would also like to extend our sincere appreciation to our brothers in this mediation effort, the great leadership of State of Qatar, for their support in reaching this agreement. I would also especially thank the visionary leadership of Kingdom of Saudi Arabia and Republic of Türkiye for their immense contributions in this regard. 
+‏
+‏With the agreement now in place, mediators will facilitate a series of meetings this week. These pre-implementation discussions will lay the foundation for the technical talks and the official signing ceremony.
+00:47
+1405/03/25
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷🌟🌟رئيس وزراء باكستان: ‏يعلن تم توصل الى اتفاق مع واشنطن وطهران بعد مفاوضات مكثفة، يسرنا أن نعلن عن التوصل إلى اتفاق سلام بين الولايات المتحدة الأمريكية والجمهورية الإسلامية الإيرانية. وقد أعلن الجانبان الوقف الفوري والدائم للعمليات العسكرية على جميع الجبهات،…
 00:47
 1405/03/25
 
@@ -27,7 +310,7 @@ src :@cataphract1
 
 src :@wfwitness
 [عکس]
-‏Pakistan PM Shariff:
+‏⚡️🇵🇰🇺🇸🇮🇷 Pakistan PM Sharif says peace deal between U.S. and Iran reached, signing to happen in Switzerland June 19:
 ‏
 ‏Following intensive talks, we are pleased to announce that the Peace Deal between the United States of America and Islamic Republic of Iran has been REACHED. Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.
 ‏
@@ -36,6 +319,8 @@ src :@wfwitness
 ‏We would like to thank the United States of America and the Islamic Republic of Iran for their commitment to finding a diplomatic solution to the conflict. We would also like to extend our sincere appreciation to our brothers in this mediation effort, the great leadership of State of Qatar, for their support in reaching this agreement. I would also especially thank the visionary leadership of Kingdom of Saudi Arabia and Republic of Türkiye for their immense contributions in this regard. 
 ‏
 ‏With the agreement now in place, mediators will facilitate a series of meetings this week. These pre-implementation discussions will lay the foundation for the technical talks and the official signing ceremony.
+‏
+‏@wfwitness
 00:46
 1405/03/25
 
@@ -54,7 +339,9 @@ src :@World_Newsly
 
 
 src :@naya_foriraq
-‏رئيس وزراء باكستان: ‏بعد مفاوضات مكثفة، يسرنا أن نعلن عن التوصل إلى اتفاق سلام بين الولايات المتحدة الأمريكية والجمهورية الإسلامية الإيرانية. وقد أعلن الجانبان الوقف الفوري والدائم للعمليات العسكرية على جميع الجبهات، بما في ذلك في لبنان.
+[عکس]
+‏🇮🇷🌟🌟رئيس وزراء باكستان: ‏يعلن تم توصل الى اتفاق مع واشنطن وطهران
+‏بعد مفاوضات مكثفة، يسرنا أن نعلن عن التوصل إلى اتفاق سلام بين الولايات المتحدة الأمريكية والجمهورية الإسلامية الإيرانية. وقد أعلن الجانبان الوقف الفوري والدائم للعمليات العسكرية على جميع الجبهات، بما في ذلك في لبنان.
 ‏
 ‏‏سيقام حفل التوقيع الرسمي يوم الجمعة الموافق 19 يونيو في سويسرا.
 ‏
@@ -290,15 +577,18 @@ src :@MilitarryWorld
 
 
 src :@VahidOnline
-‏وال‌استریت ژورنال:
-‏ترامپ می‌گوید به زودی بیانیه‌ای صادر خواهد کرد و در آن اعلام خواهد کرد که ایالات متحده با ایران به توافق رسیده است. تهران هنوز وجود چنین توافقی را تأیید نکرده است.
+‏دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با وال استریت ژورنال گفت توافق با جمهوری اسلامی قریب‌الوقوع است، اما تهران هنوز موافقت خود با آن را تایید نکرده است.
 ‏
-‏ترامپ اظهار داشت: «بعداً مسائل هسته‌ای را حل می‌کنیم» و افزود که «هیچ عجله‌ای نیست» و می‌توان ظرف یک یا دو ماه آینده به آن پرداخت.
+‏ترامپ افزود قصد دارد به‌زودی بیانیه‌ای صادر کند که در آن اعلام خواهد شد آمریکا با جمهوری اسلامی به توافق رسیده است.
 ‏
-‏ترامپ به وال استریت ژورنال: من هرگز به تغییر رژیم در ایران علاقه‌ای نداشته‌ام و در حال حاضر با گروه سوم که منطقی‌ترین هستند، سر و کار داریم.
+‏او گفت این توافق، در صورت نهایی شدن، یا توسط خود او یا از سوی جی‌دی ونس، معاون رییس‌جمهوری آمریکا، به‌صورت الکترونیکی امضا خواهد شد.
 ‏
-‏من می‌خواهم به حملات پایان دهم و ایرانی‌ها هم می‌خواهند جنگ را تمام کنند.
-‏wsj.com
+‏رییس‌جمهوری آمریکا روز یکشنبه این توافق را گامی بزرگ در مسیر پایان دادن به درگیری نزدیک به چهارماهه توصیف کرد.
+‏
+‏ترامپ همچنین گفت این توافق شامل تعهد جمهوری اسلامی به دست نیافتن به سلاح هسته‌ای و بازگشایی فوری تنگه هرمز خواهد بود. او افزود عجله‌ای برای خارج کردن مواد هسته‌ای از ایران وجود ندارد و این موضوع می‌تواند در مرحله‌ای بعدی دنبال شود.
+‏
+‏ترامپ گفت: «بعدا و زمانی که آماده باشیم وارد عمل شویم، مواد هسته‌ای را جمع‌آوری خواهیم کرد. به نظرم طی یک یا دو ماه آینده این کار انجام می‌شود و عجله‌ای وجود ندارد.»
+‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
 00:41
@@ -332,15 +622,6 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — President Trump to WSJ on Iran: As far as regime change, I never cared about regime change.  This is the third group we’ve dealt with, and this is the most rational group yet.
 00:41
-1405/03/25
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴خبرگزاری فارس: تفاهم نامه امضا نشد  ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
-00:40
 1405/03/25
 
 
@@ -2686,14 +2967,6 @@ src :@IranintlTV
 
 
 
-src :@naya_foriraq
-‏🌟🏴‍☠️أستهداف دبابتي ميركافا وآلية بوكلين ومستودع ذخائر دبابات لجيش الإحتلال الصهيوني في بلدة مجدل زون بجنوب لبنان.
-23:10
-1405/03/24
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇺🇦❌🇷🇺 — Incredible scenes from the Novokuybyshevsk refinery in Russia's Samara region from the POV of a Ukrainian FP-1 drone during the attack on June 10.
@@ -2807,24 +3080,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 23:02
-1405/03/24
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇷‏وزارة الخارجية الإيرانية:
-‏"بيان وزارة الخارجية بشأن استمرار جرائم الكيان الصهيوني في الهجوم على ضاحية بيروت".
-‏
-‏‏تدين وزارة خارجية الجمهورية الإسلامية الإيرانية بشدة العمل الإرهابي الذي قام به الكيان الصهيوني بعد ظهر اليوم، الأحد 14 يونيو 2026، في العدوان العسكري على منطقة سكنية في ضاحية بيروت، والذي أسفر عن استشهاد وإصابة العديد من المواطنين اللبنانيين.
-‏
-‏‏إن هذه الجريمة الإرهابية ليست مجرد انتهاك صارخ للسيادة الوطنية والسلامة الإقليمية للبنان فحسب، بل هي أيضاً انتهاك جسيم لاتفاق وقف إطلاق النار المؤرخ في 8 أبريل 2026 بين إيران والولايات المتحدة.
-‏
-‏‏إن الجمهورية الإسلامية الإيرانية، في الوقت الذي تذكر فيه المسؤولية المباشرة لحكومة الولايات المتحدة عن الجرائم التي ارتكبها النظام الصهيوني والانتهاكات المتكررة لوقف إطلاق النار من قبل ذلك النظام ضد لبنان أو إيران، تؤكد عزمها على اتخاذ جميع التدابير اللازمة لممارسة الحق الأصيل في الدفاع المشروع عن النفس.
-‏
-‏‏من الواضح أن مسؤولية العواقب الخطيرة التي يترتب عليها خرق النظام الصهيوني للسلام والأمن الإقليميين ستقع على عاتق الولايات المتحدة والنظام الصهيوني.
-23:01
 1405/03/24
 
 
@@ -3226,19 +3481,6 @@ src :@BellumActaNews
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻تیم ملی فوتبال آلمان در نخستین مسابقه خود در جام جهانی ۲۰۲۶ با نتیجه ۱-۷ برابر کوراسائو به پیروزی رسید. انمچا، اشلوتربک، موسیالا، براون، اونداو و هاورتس (دو بار) برای شاگردان ناگلزمن گلزنی کردند و لیوانو کومننسیا نیز در نیمه اول تک گل تاریخی تیمش را وارد دروازه مانوئل نویر کرد.
-‏
-‏🔹آلمان با این نتیجه در صدر جدول گروه E قرار گرفت. ساحل عاج و اکوادور دو حریف دیگر آلمان در این گروه خواهند بود.
-‏
-‏@iranintltvsport
-22:30
-1405/03/24
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏#NEW
@@ -3347,16 +3589,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-22:24
-1405/03/24
-
-
-
-
-src :@MilitarryWorld
-‏🚨تداخل شدید GPS در سراسر اسرائیل تأیید شد.
-‏
-‏@MilitarryWorld | Parsa
 22:24
 1405/03/24
 
@@ -3652,20 +3884,6 @@ src :@thewarreporter
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷❌🇮🇱🇺🇸 — Assistant to the Iranian Supreme Leader and Member of the Expediency Council, Mohammad Mokhber:
-‏The division of roles in "appeasement and aggression" between America and the Israeli regime is repetitive and unacceptable.  
-‏
-‏Neither is the American diplomatic smile trustworthy, nor is the Zionist savagery tolerable!  
-‏
-‏In defense of Lebanon, we have no pleasantries with anyone, and we will give a regretful lesson to the aggressors.
-22:13
-1405/03/24
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇷✈️🚫 — IRGC-controlled Tasnim News Agency reports that all flights over Western Iran have been canceled until further notice "given the current situation"
@@ -3759,25 +3977,6 @@ src :@GeoPWatch
 ‏In defense of Lebanon, we have no pleasantries with anyone, and we will give a regretful lesson to the aggressors.
 ‏
 ‏@GeoPWatch
-22:12
-1405/03/24
-
-
-
-
-src :@mwarmonitor
-‏🔴در حالی که امیدوارم و دعا می‌کنم یک راه‌حل دیپلماتیک برای پایان دادن به درگیری با ایران در دسترس باشد و ایران از توانایی تولید سلاح هسته‌ای محروم شود و سلطه و ترور آن در منطقه متوقف گردد، اما همچنان باید درک کنیم با چه طرفی روبه‌رو هستیم.
-‏
-‏🔸از زمان آتش‌بس اخیر، حزب‌الله حملات خود علیه اسرائیل را بدون وقفه ادامه داده است، تا جایی که مناطقی در شمال اسرائیل به دلیل این حملات مداوم تخلیه شده‌اند. اگر چنین وضعیتی برای آمریکا رخ می‌داد، چه می‌کرد؟
-‏
-‏🔸حزب‌الله توسط ایران تأمین مالی و کنترل می‌شود و دستش به خون بسیاری از آمریکایی‌ها آلوده است. برای من روشن است که هر توافقی که با ایران امضا شود، اهداف اعلام‌شده حزب‌الله برای نابودی اسرائیل و تبدیل لبنان به یک خلافت، به‌طور بنیادین تغییر نکرده است.
-‏
-‏🔸خداوند از ایالات متحده محافظت کند و خداوند از دولت اسرائیل محافظت کند.
-‏
-‏📝صدای لیندسی گراهام درآمده 
-‏
-‏
-‏@mwarmonitor
 22:12
 1405/03/24
 
@@ -4250,14 +4449,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@jangaavaran1390
-‏مقام اسرائیلی: ایران یک هلیکوپتر آمریکایی را سرنگون کرد؛ ترامپ دستور واکنش شدید داد، تلفاتی نبود. چرا برای آمریکا مجاز است ولی برای اسرائیل ممنوع؟
-21:41
-1405/03/24
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇱🇺🇸🇮🇷⚡️ — An Israeli official told Ynet:
 ‏When the Iranians downed an American helicopter, Trump ordered a harsh response even though there were no casualties. 
@@ -4285,41 +4476,11 @@ src :@thewarreporter
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇮🇱- Commander of the IRGC's Quds Force, Brigadier General Esmail Qaani: The people of the world recognize Lebanon's independence through the greatness of Hezbollah's sacrifice, not through the dependence of some rulers.
-‏
-‏The whole world should look with wider eyes. The victory of the great resistance of the heroic Hezbollah over the lowly Zionist nature is coming. God willing.
-‏
-‏@GeoPWatch
-21:39
-1405/03/24
-
-
-
-
 src :@Minas_Tirith2024
 ‏⚜شبکه ۱۲ اسرائیل گزارش داد ایران پیشنهاد ترامپ برای دریافت پول در ازای خویشتنداری را رد کرده و اعلام کرده است که به‌زودی پاسخ خواهد داد.
 ‏✒️#LT
 ‏📃@Cataphract1
 21:38
-1405/03/24
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏پیروزی عظیم حزب‌الله در راه است ان‌شاءالله
-‏
-‏سردار قاآنی: 
-‏
-‏بسم الله الرحمن الرحیم 
-‏مردم دنیا، استقلال لبنان را با عظمت فداکاری حزب الله می‌شناسند نه با وابستگی بعضی حکمرانان.
-‏همه دنیا با چشمان بازتر نگاه کنند، پیروزی مقاومت عظیم حزب الله قهرمان بر پست‌فطرتان صهیونیست در راه است.ان‌شاءالله
-‏
-‏@Minas_Tirith2024
-21:37
 1405/03/24
 
 
@@ -4500,21 +4661,6 @@ src :@Parvazdaroj
 ‏🥇 کانال رضایت:
 ‏@satisvpn
 21:20
-1405/03/24
-
-
-
-
-src :@P_raetorio
-‏#مهم
-‏
-‏«پاسخ رزمندگان اسلام درپیش است. لبنان جان ماست و نقض خطوط قرمز جمهوری اسلامی تحمل نخواهد شد.» 
-‏
-‏➖ دبیر شورای عالی امنیت ملی
-‏
-‏
-‏@P_raetorio
-21:19
 1405/03/24
 
 
@@ -4771,19 +4917,6 @@ src :@thewarreporter
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️علی عبداللهی، فرمانده قرارگاه مرکزی خاتم‌الانبیا، روز یکشنبه و پس از حملات اسرائیل به ضاحیه بیروت در پیامی با تاکید بر آمادگی نیروهای مسلح جمهوری اسلامی ایران گفت توان رزمی، دفاعی و قدرت موشکی، دریایی، پهپادی و پدافند هوایی کشور نسبت به گذشته ارتقا یافته و نیروهای مسلح «دست به ماشه» آماده شلیک به «قلب دشمن» هستند.
-‏فرمانده قرارگاه مرکزی خاتم‌الانبیا همچنین هشدار داد که ایران هرگونه اقدام احتمالی طرف مقابل را زیر نظر دارد و افزود: «ما منتظر کوچک‌ترین لغزشی از سوی دشمن متجاوز هستیم تا درسی فراموش‌نشدنی و پایان‌بخش به آن‌ها بدهیم.»
-‏این بیانیه در حالی منتشر شد که،‌ پیشتر محمدجعفر اسدی، معاون بازرسی قرارگاه مرکزی خاتم‌الانبیاء، در واکنش به حمله اسرائیل به ضایحه بیروت گفته بود: «قطعا پاسخ این جنایت‌ها داده خواهد شد.»
-‏
-‏@indypersian
-21:06
-1405/03/24
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏سهیل مادرجنده اگه این کانالو می خونی جواب توییتمو بده ابن لواط
@@ -4798,18 +4931,6 @@ src :@defence_news
 ‏تصاویری جالب از ناوگان میگ 29 ام 2 کشور مصر - در این تصاویر میگ های مصری مسلح به موشک ضد رادار و ضد کشتی مافوق صوت سری KH-31 و همچنین موشک های کروز مادون صوت ضد کشتی / حمله به اهداف زمینی سری KH 35 دیده می شوند.
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-21:00
-1405/03/24
-
-
-
-
-src :@ClashReport
-‏NEW: Israel assesses Trump will soon announce a concession to Iran in exchange for not retaliating over the Dahiyeh strike. 
-‏
-‏Details unknown, but back-channel efforts are underway. 
-‏
-‏Source: Yaron Avraham
 21:00
 1405/03/24
 
@@ -5851,19 +5972,6 @@ src :@Minas_Tirith2024
 ‏ان شاء الله جنگ "تا رفع فتنه از عالم" ادامه دارد
 ‏
 ‏@Minas_Tirith2024
-19:29
-1405/03/24
-
-
-
-
-src :@Minas_Tirith2024
-‏کابینه امنیتی اسرائیل پیش از حمله احتمالی ایران، امشب تشکیل جلسه خواهد داد.
-‏
-‏
-‏کانال 12 عبری
-‏
-‏@P_raetorio
 19:29
 1405/03/24
 
