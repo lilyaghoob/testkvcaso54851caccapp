@@ -1,3 +1,41 @@
+src :@bricsnews
+‏JUST IN: 🇮🇳 Indian Prime Minister Modi welcomes agreement between US and Iran:
+‏
+‏"India hopes that the implementation of this understanding will help restore peace and stability in the region and ensure the freedom of navigation and commerce."
+‏
+‏@BRICSNews
+11:41
+1405/03/25
+
+
+
+
+src :@World_Newsly
+‏کانال ۱۲ اسرائیل:
+‏
+‏🔴حدود ۱۰ ساعت از اعلام توافق بین واشنگتن و تهران می‌گذرد اما نتانیاهو هنوز در سکوت به سر میبرد. 
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+11:41
+1405/03/25
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴نفت وارد کانال ۷۰ دلار شد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+11:40
+1405/03/25
+
+
+
+
 src :@Shin_Persian
 ‏Open Source Intel ✓ @Osint613
 ‏Mon, 15 Jun 2026 06:54:57 UTC
@@ -1953,18 +1991,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 09:04
-1405/03/25
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏نفت فعلا روی محدوده ۸۳ دلار 
-‏
-‏✍🏻 Cybex
-‏▪️@World_Newsly
-09:03
 1405/03/25
 
 
@@ -5104,25 +5130,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@didarnews1
-[عکس]
-‏📰 ترامپ: توافق با جمهوری اسلامی ایران اکنون کامل شده است، به همه تبریک می‌گویم! 
-‏
-‏
-‏▫️بدینوسیله اجازه کامل بازگشایی تنگه هرمز بدون عوارض را می‌دهم و همزمان با آن، رفع فوری محاصره دریایی ایالات متحده را نیز مجاز می‌دارم. 
-‏
-‏▫️کشتی‌های جهان، موتورهای خود را روشن کنید. بگذارید نفت جریان یابد!
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-01:21
-1405/03/25
-
-
-
-
 src :@mwarmonitor
 ‏🔴ایران یک حمله برنامه‌ریزی‌شده به اسرائیل را لغو کرده است – نیویورک تایمز.  @mwarmonitor
 01:20
@@ -7030,16 +7037,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 20:41
-1405/03/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 President Trump says an agreement will be signed "within hours" with Iran after being delayed by Israel.
-‏
-‏@BRICSNews
-20:40
 1405/03/24
 
 
