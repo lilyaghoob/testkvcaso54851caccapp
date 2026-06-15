@@ -6147,19 +6147,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@intelslava
-[عکس]
-‏🇮🇷❌🇮🇱 — BREAKING: Iranian airspace has been cleared.
-‏
-‏➡️ This is classic pre-launch airspace management.
-‏
-‏@IntelSlava
-22:03
-1405/03/24
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‌‏ ‏
 ‏‏ اسرائیل هیوم: جنگ بعدی با جمهوری اسلامی کاملاً متفاوت خواهد بود
