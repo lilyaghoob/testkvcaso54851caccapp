@@ -1,3 +1,79 @@
+src :@mwarmonitor
+[عکس]
+‏📌«چیز زیادی در حال عبور نیست...
+‏🔸امروز صبح ۲ تصویر از ماهواره Sentinel-1 (رادار SAR) و Sentinel-2 (تصویربرداری نوری) گرفته شده است.»
+‏
+‏@mwarmonitor
+16:33
+1405/03/26
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇮🇷 🇺🇸 — Iranian state media reports the U.S. Navy has begun gradually lifting its naval blockade of Iran.
+‏
+‏The Global Eye | Subscribe
+16:31
+1405/03/26
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇧🇷 U.S. Immigration and Customs Enforcement (ICE) says it has arrested a Brazilian illegal immigrant in North Carolina who allegedly served as a commander of two designated foreign terrorist organizations and was preparing to flee to Mexico.
+‏
+‏According to DHS, the suspect, Felipe Linares de Oliveira Dell Aquilla, is wanted in Brazil for criminal association and extortion, allegedly held his wife hostage while planning his escape, and now faces U.S. charges for fleeing to elude arrest, with further terrorism-related counts possible.
+‏
+‏@wfwitness
+16:31
+1405/03/26
+
+
+
+
+src :@mwarmonitor
+‏🔴«حزب‌الله از ایران تضمین‌هایی دریافت کرده است که تا زمانی که اسرائیل از لبنان عقب‌نشینی نکند، توافق نهایی هسته‌ای با آمریکا را امضا نخواهد کرد - دفتر روابط رسانه‌ای حزب‌الله» «رویترز» 
+‏
+‏@mwarmonitor
+16:30
+1405/03/26
+
+
+
+
+src :@mwarmonitor
+‏🔴رسانه‌های اسرائیلی: کابینه کوچک (کابینت امنیتی) امروز درخواست آمریکا را بررسی خواهد کرد مبنی بر اینکه اسرائیل تا زمان امضای توافق با ایران، از لبنان عقب‌نشینی کند.
+‏
+‏@mwarmonitor
+16:29
+1405/03/26
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏در جریان دیدار تیم‌های ملی ایران و نیوزیلند در ورزشگاه سوفای لس‌آنجلس، تصاویر منتشر شده از عکاسان خبری و گزارش رسانه‌ها از حضور گسترده پرچم‌های شیروخورشید در میان بخشی از تماشاگران حکایت دارد؛ موضوعی که با وجود ممنوعیت فیفا برای ورود پرچم‌های غیر رسمی به ورزشگاه‌ها، در سکوها دیده شد.
+‏بیشتر: https://iranwire.com/fa/news-1/153785
+‏
+‏@Farsi_Iranwire
+16:28
+1405/03/26
+
+
+
+
+src :@naya_foriraq
+‏🏴‍☠️🇺🇸اعلام العدو: الكابينت المصغر سيناقش اليوم طلب امريكي بالانسحاب من لبنان لحين توقيع الاتفاق مع ايران.
+16:27
+1405/03/26
+
+
+
+
 src :@didarnews1
 ‏🔴نامه شیخ نعیم قاسم به قالیباف:
 ‏
@@ -1210,19 +1286,6 @@ src :@DEJradio
 ‏#تفاهم #ترامپ #برنامه_هسته‌ای
 ‏@DEJradio
 15:13
-1405/03/26
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱 Kan: Israeli Prime Minister Benjamin Netanyahu reportedly clashed with prosecutor Yonatan Tadmor during cross-examination in Case 2000, pounding the table and shouting, “Police state! Stasi! Political persecution!”
-‏
-‏Netanyahu accused investigators of using spyware in “a campaign to overthrow a prime minister,” telling them, “You violated all the laws.”
-‏
-‏@wfwitness
-15:10
 1405/03/26
 
 
@@ -2460,14 +2523,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏ترامب: إذا لم تستطع إسرائيل إنجاز الأمر في لبنان دون قتل الجميع، فيجب على سوريا أن تقوم بذلك
-13:29
-1405/03/26
-
-
-
-
 src :@didarnews1
 ‏🔴ترامپ:
 ‏
@@ -2793,16 +2848,6 @@ src :@mwarmonitor
 ‏
 ‏
 ‏@mwarmonitor
-12:47
-1405/03/26
-
-
-
-
-src :@MilitarryWorld
-‏⭕️قطر تخمین می‌زند که حداقل دو ماه طول می‌کشد تا ۸۰٪ از تولید LNG که توسط ایران تخریب شده است، بازسازی شود.
-‏
-‏@MilitarryWorld | Parsa
 12:47
 1405/03/26
 
@@ -4567,23 +4612,6 @@ src :@bricsnews
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🔴یک نفتکش فوق‌سنگین دیگر (VLCC) که تحت تحریم‌های آمریکا قرار دارد، در حالی که با جعل موقعیت مکانی وانمود می‌کند هنوز خارج از خط محاصره است، موفق شده از خط محاصره نیروی دریایی آمریکا عبور کند. این سوپرتانکر در حال حاضر ۲ میلیون بشکه نفت خام ایران را بارگیری می‌کند.
-‏
-‏🔸همچنین می‌توان گفت که شاهد تحرکات بیشتر نفتکش‌ها متعلق به شرکت ملی نفتکش ایران (NITC) هستیم. در حال حاضر دو VLCC به سمت شرق در حرکت‌اند که این موضوع آن‌ها را به خط محاصره نزدیک‌تر می‌کند، در حالی که سه نفتکش دیگر دیگر در شرقی‌ترین بندر ایران، چابهار، حضور ندارند و فعلاً مکان آن‌ها نامشخص است.
-‏
-‏اتفاقی در حال رخ دادن است.
-‏
-‏TANKER TRACKER 
-‏
-‏@mwarmonitor
-00:49
-1405/03/26
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US says it will have to resolve several issues in the agreement with Iran during negotiations and 60-day ceasefire.
 ‏
@@ -4826,14 +4854,6 @@ src :@thewarreporter
 
 
 
-src :@mwarmonitor
-‏🚨✈️یک فروند بمب‌افکن B-52 استراتوفورترس متعلق به نیروی هوایی آمریکا، اندکی پس از برخاستن از پایگاه نیروی هوایی ادواردز و حوالی ساعت ۱۱:۲۰ صبح سقوط کرد. هنوز جزئیاتی درباره تلفات احتمالی یا علت این سانحه منتشر نشده است.  @mwarmonitor
-23:40
-1405/03/25
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇮🇷🤝🇶🇦- According to Israel Hayom, diplomatic officials have confirmed that Washington secretly authorized Qatar to transfer funds to Tehran in exchange for freedom of navigation through the Strait of Hormuz and immunity from Iranian attacks. 
@@ -4877,14 +4897,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:26
-1405/03/25
-
-
-
-
-src :@mwarmonitor
-‏ما این کار را در غزه انجام دادیم، در لبنان، در سوریه، در یمن، در اردوگاه‌های پناهندگان در یهودا و سامره (کرانه باختری)؛ ما این کار را در همه جا انجام دادیم. ما [محمد] ضیف، [اسماعیل] هنیه و [یحیی] سنوار را به همراه بسیاری از رهبران حماس حذف کردیم؛ در واقع تقریباً…
-23:21
 1405/03/25
 
 
@@ -5998,25 +6010,6 @@ src :@GeoPWatch
 src :@Artemis_Force
 ‏انتظار می‌رود کشتی از سامانه نیروی الکتریکی یکپارچه (IPL) برای کاهش سطح صدا و ردیابی توسط زیردریایی‌های دشمن استفاده کند.  سامانه رزمی بر پایه دکل یکپارچه Hanwha Systems با رادار دو باندی آرایه فازی فعال (AESA) است.  رادار باند S برای نظارت بر فضای هوایی در…
 17:40
-1405/03/25
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏US Vice President JD Vance on Iran:
-‏
-‏We are now speaking directly to the Iranian system. We have some good relationships there. We are not passing messages through backchannels anymore; we are actually talking to them. When you talk to them, you figure out what's real, what's fake, what they're serious about, and what they're not serious about.
-‏
-‏We fundamentally have all the cards here. We don't have to give the Iranians anything if they don't make commitments.
-‏
-‏We are extending an open hand to Iran. If they want to change their relationship with us, we will change our relationship with Iran. That's the offer.
-‏
-‏The entire Gulf coalition hated Obama's Iran deal because they felt it empowered Iran to be a bad actor. What is the Gulf coalition saying about President Trump's peace deal? They love it because they see it as an opportunity to build and create a new Middle East.
-‏
-‏We are seeing both Iranian hardliners and political leaders saying, “Our relationship with the U.S. over the past 47 years has been a mistake. Let's turn over a new leaf.”
-17:39
 1405/03/25
 
 
