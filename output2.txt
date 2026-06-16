@@ -1,3 +1,27 @@
+src :@rnintel
+[عکس]
+‏🇮🇱🇮🇷⚡️- The Times of Israel on the unceremonious end of the Iran War.
+07:35
+1405/03/26
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇨🇳🇺🇸⚡️ — A suspected China-linked hacking group spent more than a year covertly stealing data from U.S. and Canadian academic, medical, and military research institutions before being detected, according to Google.
+‏
+‏Google’s Threat Intelligence Group said the campaign, attributed to a group known as UNC6508, ran from September 2023 to November 2025 and targeted information related to defense intelligence, Indo-Pacific military strategy, artificial intelligence, unmanned systems, cyber warfare programs, and medical research.
+‏
+‏The hackers exploited vulnerabilities in REDCap servers, stole legitimate login credentials, and set up automated systems to forward emails containing selected keywords to accounts under their control. 
+‏
+‏Google said it identified multiple compromised organizations in the U.S. and Canada and notified those affected.
+07:34
+1405/03/26
+
+
+
+
 src :@intelslava
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — Trump says the Strait of Hormuz has reopened following the US-Iran agreement — but across the shipping industry, confidence remains scarce, CNN reports.
@@ -87,7 +111,7 @@ src :@intelslava
 ‏
 ‏➡️ A senior US official says Washington will know within two to three weeks whether Iran is serious about nuclear concessions — if not, the process could stop before Iran gains much.
 ‏
-‏➡️The MOU’s nuclear elements are conditional on a more detailed follow-on deal to be negotiated over 60 days; Vance, Witkoff, and Kushner are expected to meet Iranian officials Friday alongside Qatari and Pakistani mediators.
+‏➡️ The MOU’s nuclear elements are conditional on a more detailed follow-on deal to be negotiated over 60 days; Vance, Witkoff, and Kushner are expected to meet Iranian officials Friday alongside Qatari and Pakistani mediators.
 ‏
 ‏➡️ Senator Lindsey Graham tells Axios he is “somewhat concerned that Iran’s view of the agreement seems different than what the American negotiating team is claiming,” calling for the document’s immediate public release.​​​​​​​​​​​​​​​​
 ‏
