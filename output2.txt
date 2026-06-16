@@ -1,8 +1,48 @@
+src :@World_Newsly
+[عکس]
+‏🔴 جان راتکلیف مدیر سیا به ترامپ و دیگر مقامات ارشد گفت که اطلاعات آمریکا نشان می‌دهد ایران قصد ندارد در صورت رسیدن به توافق نهایی، به تعهدات هسته‌ای خود پایبند باشد/آکسسیوس 
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+07:00
+1405/03/26
+
+
+
+
+src :@ClashReport
+[عکس]
+‏BIG: The Trump administration is prepared to support a $300 billion private investment fund for Iran if Tehran agrees to a broader settlement that ends the conflict and advances a nuclear agreement. 
+‏
+‏The proposed fund, financed by international private companies rather than governments, would only become available if Iran complies with the deal, including reopening the Strait of Hormuz, extending the ceasefire, and continuing nuclear negotiations. 
+‏
+‏Any sanctions relief would be phased in and tied to Iran’s adherence to the agreement, though US officials say access to the funds would ultimately depend on Iran “behaving appropriately.”
+‏
+‏Source: FT
+06:59
+1405/03/26
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏— Some monarchist diaspora held the Israeli flag in the stadium, but real Iranians held the Palestinian flag
 ‏
 ‏@Middle_East_Spectator
+06:57
+1405/03/26
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The Justice Department approved Paramount’s acquisition of Warner Bros. Discovery even though the career antitrust lawyers reviewing the deal had not finished their investigation and were leaning toward recommending a lawsuit to block it. 
+‏
+‏Senior DOJ officials decided to close the probe, believing the merger would strengthen competition in media and streaming rather than harm it. Their view was influenced in part by Paramount CEO David Ellison’s explanations about the company’s plans and finances.
+‏
+‏Source: WSJ
 06:57
 1405/03/26
 
@@ -1862,17 +1902,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴 مقامات آمریکایی به آکسیوس گفتند که متن کامل تفاهم‌نامه در ۲۴ تا ۴۸ ساعت آینده منتشر خواهد شد.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-00:08
-1405/03/26
-
-
-
-
 src :@cataphract1
 ‏⭕️علیرضا زاکانی، شهردار تهران:
 ‏
@@ -2793,17 +2822,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 22:46
-1405/03/25
-
-
-
-
-src :@ClashReport
-[عکس]
-‏BREAKING: A U.S. Air Force B-52 bomber crashed shortly after taking off from Edwards Airfield at 11:20 a.m.
-‏
-‏READ MORE
-22:45
 1405/03/25
 
 
