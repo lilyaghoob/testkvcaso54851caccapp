@@ -1,3 +1,43 @@
+src :@Minas_Tirith2024
+[عکس]
+‏سید زلنسکی نقطه زن...
+‏
+‏
+‏
+‏@RedLionCorps
+14:16
+1405/03/26
+
+
+
+
+src :@didarnews1
+‏🔴ترامپ:
+‏
+‏🔹به اسرائیل گفتم که حمله‌اش به بیروت مورد پسند من نیست
+‏
+‏🔹از نحوه برخورد اسرائیل با لبنان راضی نیستم. 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+14:16
+1405/03/26
+
+
+
+
+src :@defence_news
+[عکس]
+‏شرکت Thales  از راکت های هدایت لیزری 70 میلی متری مدل LGR275 Proxy رونمایی که از سر جنگی مجاورتی بهره برده و مخصوص مقابله با پهپادهای کوچک توسعه یافته است. در این روش پرتابه مورد نظر نیاز به برخورد مستقیم با هدف نداشته و در نزدیکی آن منفجر شده و موج انفجار و ترکش ها هدف را ساقط می کند.
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+14:16
+1405/03/26
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇱 President Trump says "without the United States, there would be no Israel."
 ‏
@@ -2852,56 +2892,9 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-[عکس]
-‏🇨🇳⚡️ — Chinese universities are overhauling their academic offerings to better align higher education with national development priorities, cutting thousands of programs deemed outdated and replacing them with new technology-focused degrees, SCMP reports.
-‏
-‏Between 2021 and 2025, universities revoked or suspended 12,200 undergraduate programs and introduced 10,200 new ones, meaning more than 30% of degree programs were adjusted. 
-‏
-‏The reductions were concentrated in arts, humanities, foreign languages, and management, while new programs increasingly focus on fields tied to Beijing’s economic goals, including AI and embodied intelligence.
-07:40
-1405/03/26
-
-
-
-
 src :@mwarmonitor
 ‏🔸جی. دی. ونس: نه، این‌طور نیست. من اطلاعات نادرست زیادی رو اون بیرون دیدم؛ مثلاً دیدم که می‌گن ۲۴ میلیارد دلار قراره از ایالات متحده به ایران بره، این رقم کاملاً دروغه و از خودشون درآوردن. شان، چیزی که باید در مورد ماهیت اصلی این توافق درک کنی اینه که: اولاً،…
 07:38
-1405/03/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸🇮🇱⚡️ — IRGC Quds Force commander Brigadier General Esmail Qaani tells Iranian state media the war has “completely discredited America” and accelerated the “collapse” of the Israeli regime.
-‏
-‏Qaani says not a single resistance group abandoned the field despite unprecedented pressure, adding their steadfastness has “terrified the enemies.”
-‏
-‏Regional groups independently decided to defend Iran without being asked — “without anyone even asking them a single word,” he said.
-‏
-‏“Hezbollah cannot be dismantled” — Qaani warns everything seen from Hezbollah so far is “only the tip of the iceberg.”
-‏
-‏Describes Bab al-Mandab Strait as a strategic asset “like wax in the hands” of Hezbollah, Ansarullah, and Yemeni forces, claiming advanced US warships “did not dare to pass through.”
-‏
-‏Praises Iran’s negotiators, saying steadfastness on Lebanon proved “the men of the battlefield and diplomacy are of the resistance kind.“​​​​​​​​​​​​​​​​
-07:38
-1405/03/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇨🇳🇺🇸⚡️ — A suspected China-linked hacking group spent more than a year covertly stealing data from U.S. and Canadian academic, medical, and military research institutions before being detected, according to Google.
-‏
-‏Google’s Threat Intelligence Group said the campaign, attributed to a group known as UNC6508, ran from September 2023 to November 2025 and targeted information related to defense intelligence, Indo-Pacific military strategy, artificial intelligence, unmanned systems, cyber warfare programs, and medical research.
-‏
-‏The hackers exploited vulnerabilities in REDCap servers, stole legitimate login credentials, and set up automated systems to forward emails containing selected keywords to accounts under their control. 
-‏
-‏Google said it identified multiple compromised organizations in the U.S. and Canada and notified those affected.
-07:34
 1405/03/26
 
 
@@ -3342,17 +3335,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 U.S. President Trump says that Iran agreed to never have a nuclear weapon, and calls the reports about paying Iran $300M fake news.
-‏
-‏@wfwitness
-02:57
-1405/03/26
-
-
-
-
 src :@cataphract1
 ‏♨️ ترامپ:
 ‏ایران موافقت کرده که هیچ وقت سلاح‌ اتمی نداشته باشه 
@@ -3594,21 +3576,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 01:11
-1405/03/26
-
-
-
-
-src :@didarnews1
-‏🔴تایید موضع فیفا توسط دادگاه فلوریدا: پرچمی‌جز پرچم رسمی‌ایران در فهرست «نمادهای ممنوعه» قرار دارد
-‏
-‏🔹یک دادگاه در فلوریدا درخواست فوری برای لغو ممنوعیت پرچم‌های غیر رسمی‌کشورها را رد کرد.
-‏🔹این دادگاه اعلام کرده که برگزارکنندگان جام‌جهانی می‌توانند صرفاً پرچم‌های رسمی‌کشورهای شرکت‌کننده را داخل ورزشگاه‌ها مجاز بشمارند.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-01:07
 1405/03/26
 
 
@@ -5722,12 +5689,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 14:31
-1405/03/25
-
-
-
-
-src :@Parvazdaroj
-‏◆ نیروی هوایی ایران قرارداد خرید یک اسکادران سوخو 30SM2 دست دوم را بسته‌‌ است،استعداد این اسکادران دوازده فروند خواهد بود و قرار است این قرارداد از اواسط 2027 تا پایان سال میلادی اجرا شود ( پاییز ۱۴۰۶ ) . این جنگنده ها ساعت پروازی بسیار کمی داشته و توسعه زیرساخت…
-14:13
 1405/03/25
