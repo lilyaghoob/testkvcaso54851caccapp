@@ -1,3 +1,29 @@
+src :@mwarmonitor
+‏🔴ترامپ از نحوه عملکرد اسرائیل در لبنان انتقاد کرد و گفت اسرائیل «خیلی طولانی است که با حزب‌الله می‌جنگد» و افزود «افراد زیادی کشته می‌شوند».
+‏
+‏🔸ترامپ گفت اسرائیل لازم نیست «هر بار که یک هدف را می‌زند یک ساختمان آپارتمانی را با خاک یکسان کند»، چون: «همه آن‌ها حزب‌الله نیستند.»
+‏
+‏🔸او همچنین گفت پیشنهاد داده است که اسرائیل اجازه دهد سوریه با حزب‌الله برخورد کند: «اگر اسرائیل نتواند بدون کشتن همه کار را انجام دهد، او [الشرع] این کار را انجام می‌دهد، سوریه انجام می‌دهد.»
+‏
+‏🔸ترامپ همچنین حمله اسرائیل به حزب‌الله در بیروت را مورد انتقاد قرار داد و آن را «بیش از حد» توصیف کرد و گفت: «من خوشم نیامد، به آن‌ها هم گفتم.»
+‏
+‏🔸او افزود: «بیبی باید در قبال لبنان مسئولانه‌تر رفتار کند.» ترامپ همچنین مدعی شد: «اگر من دخالت نمی‌کردم، اسرائیل مدت‌ها پیش نابود شده بود.»
+‏
+‏@mwarmonitor
+14:22
+1405/03/26
+
+
+
+
+src :@rnintel
+‏🇱🇧🇮🇱⚡- The US-Iran deal includes a Lebanon clause which will allow Israel to operate with freedom of Lebanese territory, and continue its military operations there, Haaretz, citing a Pakistani source, reports.
+14:21
+1405/03/26
+
+
+
+
 src :@Minas_Tirith2024
 [عکس]
 ‏سید زلنسکی نقطه زن...
@@ -2805,19 +2831,6 @@ src :@didarnews1
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — Shipowners are expected to delay resuming transit through the Strait of Hormuz for weeks until the U.S.-Iran deal is seen as real “material” and fully implemented, according to Mitsui OSK Lines CEO Jotaro Tamura.
-‏
-‏He said: “What will have to come in place is not just a simple agreement… but it has to be material and translated into the real situations in the Strait of Hormuz.”
-‏
-‏Tamura added it could take “at least a couple of weeks or if not a month” for confidence to return, noting that previous false starts have made operators cautious.
-07:57
-1405/03/26
-
-
-
-
 src :@jangaavaran1390
 ‏جنگ‌های پس از ۷ اکتبر که با انتظارات و وعده‌های «پیروزی کامل» همراه بود، پایان یافته‌اند، همانطور که توهمات آنها نیز پایان یافته است. فلسطینی‌ها قرار نیست غزه را ترک کنند. حماس و حزب‌الله خلع سلاح نخواهند شد. ترامپ قرار نیست به جنگ با ایران بازگردد، ایرانی که اکنون می‌تواند تهدید به خروج از توافق کند تا ترامپ را وادار به توقف هرگونه عملیات بزرگ اسرائیل علیه حماس یا حزب‌الله کند.
 ‏
@@ -2838,39 +2851,9 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇷🇺🇮🇷⚡️ — U.S. Coast Guard cyber teams have found that “dark fleet” tankers carrying sanctioned Russian and Iranian oil rely on insecure digital systems that could be exploited to cause accidents, oil spills, or explosions, according to WSJ.
-‏
-‏The ships often use high-bandwidth internet, remote access tools like AnyDesk and TeamViewer, and even pirated, malware-infected software to manage navigation and operations. In some cases, owners were able to remotely access or even attempt to delete onboard data during U.S. boarding operations.
-‏
-‏Investigators also found deception tactics including multiple AIS transponders, switches to change vessel identities, fake GPS data, and reused names from scrapped ships to mask movements. Some vessels were tracked broadcasting false locations while actually operating elsewhere.
-‏
-‏Officials say the findings suggest these ships are deliberately configured for illicit trade rather than normal commercial use, raising serious safety and environmental risks due to the potential for fires, explosions, or oil spills involving millions of gallons of crude.
-‏
-‏Coast Guard officials hope that other countries will be encouraged to step up efforts to interdict them.
-07:53
-1405/03/26
-
-
-
-
 src :@mwarmonitor
 ‏🔹شان هنیتی  «بگذارید به این موضوع بپردازم، چون این مهم‌ترین چیز است و رئیس‌جمهور بیشترین ثبات و قاطعیت را روی این نکته داشته است؛ و آن این است که آن‌ها [ایران] نمی‌توانند و هرگز نباید سلاح هسته‌ای داشته باشند.» 🔸جی‌دی ونس  «درسته.» 🔹شان هنیتی «ما چطور می‌توانیم…
 07:48
-1405/03/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — OpenAI spent about $34bn in 2025 as it ramped up spending in the AI race ahead of a planned IPO, including roughly $19bn on R&D and nearly $6bn on sales, marketing, and other costs, FT reports.
-‏
-‏The company generated about $13bn in revenue, but costs still far exceeded income.
-‏
-‏Reported losses rose to around $39bn from $5bn in 2024, though most of the increase was due to a roughly $30bn non-cash accounting charge tied to earlier investor instruments. Excluding that and other non-cash items (including stock-based compensation and Microsoft computing credits), underlying losses were about $8bn.
-07:45
 1405/03/26
 
 
@@ -3302,21 +3285,6 @@ src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 President Trump on Truth Social:  ‘Iran has agreed to never have a Nuclear Weapon! Also, the story that the U.S. is paying Iran 300 million Dollars is Fake News, put out by the Dumocrats!!!’  @Middle_East_Spectator
 03:03
-1405/03/26
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 Axios: CIA chief John Ratcliffe told President Trump and senior officials in his administration that intelligence gathered by the US intelligence agencies raised serious doubts about Iran's willingness to agree to the nuclear concessions that Washington is demanding as part of a final agreement.
-‏
-‏Secretary of State Marco Rubio and Defense Secretary Pete Hegseth also expressed concerns about the agreement in internal discussions, while Vice President J.D. Vance and envoys Steve Witkoff and Jared Kushner supported its promotion.
-‏
-‏The intelligence pointed to a gap between the way senior Iranians talked among themselves about the agreement - and the messages they conveyed to the mediators and the US.
-‏
-‏@wfwitness
-03:00
 1405/03/26
 
 
