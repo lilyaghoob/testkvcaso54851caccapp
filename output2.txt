@@ -1,12 +1,76 @@
+src :@mwarmonitor
+[عکس]
+‏🔴 پس از یک محاصره دریایی دوماهه، نفت خام از ایران خارج شد.
+‏
+‏🔸بر اساس داده‌های AIS که دیروز (۱۵ ژوئن ۲۰۲۶) با تصاویر ماهواره‌ای نیز آن را تأیید کردیم، دست‌کم دو نفتکش غول‌پیکر VLCC متعلق به National Iranian Tanker Company (NITC) با نام‌های DIONA (9569695) و HERO2 (9362073) از محدوده محاصره نیروی دریایی United States Navy خارج شده‌اند و مجموعاً حدود ۳.۸ میلیون بشکه نفت خام ایران را حمل می‌کنند.
+‏
+‏🔸این نخستین صادرات نفت خام ایران طی دو ماه گذشته است.
+‏
+‏🔸همچنین مشاهده می‌شود نفتکش STREAM (9569633) متعلق به NITC از منطقه اقتصادی انحصاری Pakistan به سمت خط محاصره در حرکت است؛ جایی که طی ۷ هفته گذشته منتظر ورود به ایران بوده است.
+‏
+‏
+‏@mwarmonitor
+00:12
+1405/03/27
+
+
+
+
+src :@MilitarryWorld
+‏⭕️جی‌دی ونس درباره توافق صلح ایران: این یک توافق صلح منطقه‌ای است. شامل خلیج فارس خواهد بود. شامل اسرائیل خواهد بود. شامل لبنان خواهد بود
+‏
+‏@MilitarryWorld | Parsa
+00:10
+1405/03/27
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏احمد علم‌الهدی، امام جمعه مشهد گفت که ما از وصیت‌نامه علی خامنه‌ای هیچ اطلاعی نداریم، چون هنوز اعلام نشده و نزد پسران اوست و به دست ما نرسیده است.
+‏
+‏او در پاسخ به سوالی درباره علت دفن علی خامنه‌ای در مشهد، به شبکه المیادین گفت: «ما مشهدی‌ها هر جا بمیریم، سعی می‌کنیم جنازه‌مان بیاید مشهد و این طبیعی هست.»
+‏
+‏علم‌الهدی ادامه داد: «خود رهبری گفته بود که آقای طبسی برای من قبری معین کرده، اما نگفته بود که من حتما آنجا دفن شوم.»
+‏https://iranintl.com/202606160652
+00:08
+1405/03/27
+
+
+
+
+src :@Mena_Live
+‏Obama’s Iran deal (2015): Iran committed not to develop nuclear weapons in exchange for sanctions relief and money.
+‏
+‏Trump’s Iran deal (2026): Iran committed not to develop nuclear weapons in exchange for sanctions relief and money.
+‏
+‏@Mena_Live
+00:07
+1405/03/27
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 The White House: 
 ‏
 ‏‘No nuclear weapons, no full relief.’
 ‏
-‏(Accidentally asking Iran to produce nukes)
+‏(Accidentally asking Iran to produce nukes, instead of giving them up)
 ‏
 ‏@Middle_East_Spectator
+00:07
+1405/03/27
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: تهدید قرارگاه خاتم‌الانبیا به حمله به اسرائیل
+‏@iranintlTV
 00:07
 1405/03/27
 
@@ -110,14 +174,6 @@ src :@WAR_ROOM_NEWS
 src :@WAR_ROOM_NEWS
 ‏💢💢💢معاون سابق ترامپ در دور اول ریاست جمهوری اش:توافق لازم نیست، به نیروهای آمریکایی اجازه بدهید کار را تمام کنند  ⭐️مایک پنس:  🔺️به نظر من بهتر است به نیروهای مسلح ایالات متحده اجازه دهیم کار را تمام کنند، تنگه را باز کنند و قابلیت‌های تهاجمی ایرانیان را از…
 23:58
-1405/03/26
-
-
-
-
-src :@cataphract1
-‏کاتافراکت pinned a photo
-23:57
 1405/03/26
 
 
@@ -866,15 +922,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇫🇷⚡️ — President Trump's hand today at the G7 Summit in Évian-les-Bains, France.
-22:56
-1405/03/26
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷🇮🇷❌🌞- The IRGC has attacked the headquarters of Iranian-Kurdish opposition groups with multiple one-way attack drones near Koy Sanjaq, east of Erbil, northern Iraq.
 ‏
@@ -1196,21 +1243,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏BIG: A leaked internal Volkswagen survey of its own board members and supervisory directors paints a grim picture.
-‏
-‏Six of nine executives surveyed rated the company as "existentially threatened," and the other three called it "strained" — nobody picked "uncritical."
-‏
-‏All nine anonymously backed a radical strategy change, and they were also harshly critical of VW's approach in China and North America.
-‏
-‏Source: Spiegel
-22:27
-1405/03/26
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- "As it signs a Memorandum of Understanding for “peace”, the Islamic Republic just executed two more protesters from January 8th and 9th.
 ‏
@@ -1369,19 +1401,6 @@ src :@IranintlTV
 ‏بر اساس این گزارش، صندوق سرمایه‌گذاری ۳۰۰ میلیارد دلاری برای ایران یک سازوکار خصوصی است و هیچ بودجه دولتی در آن وجود ندارد.
 ‏https://iranintl.com/202606165230
 22:21
-1405/03/26
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Reza Pahlavi:
-‏
-‏The international community should back the people of Iran’s fight for freedom. Put them center in any negotiations and in their Iran policy.
-‏
-‏But let me be clear - with or without international support - this regime will fall. The people of Iran will liberate themselves from tyranny.
-22:20
 1405/03/26
 
 
@@ -1615,18 +1634,6 @@ src :@Middle_East_Spectator
 
 src :@rnintel
 ‏🇮🇷🇱🇧🇮🇱⚡- Iran's Central Military Command accuses Israel of violating the ceasefire in (southern) Lebanon 84 times. Iran warns of a 'harsh response' if violations continue.
-22:10
-1405/03/26
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏قرارگاه مرکزی خاتم‌الانبیا در اطلاعیه‌ای اعلام کرد که ارتش اسرائیل، طی دو روز گذشته پس از اعلام پایان جنگ از سوی ترامپ، «۸۴ بار آتش‌بس در جنوب لبنان را نقض کرده است.»
-‏
-‏قرارگاه خاتم‌الانبیا در ادامه این اطلاعیه هشدار داده چنانچه ارتش اسرائیل به حملات به جنوب لبنان پایان ندهد، باید «منتظر پاسخ سخت نیروهای مسلح جمهوری اسلامی» باشد.
-‏https://iranintl.com/202606160184
 22:10
 1405/03/26
 
@@ -2665,18 +2672,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖
 ‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
 21:05
-1405/03/26
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 ایتالیا یک سامانه دفاع هوایی SAMP-T را به فرماندهی پایگاه سوم در قونیه ترکیه اعزام خواهد کرد تا دفاع هوایی متحدان را تحت طرح دفاعی دائمی ناتو تقویت کند
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-21:04
 1405/03/26
 
 
@@ -4089,16 +4084,6 @@ src :@VahidOnline
 
 
 
-src :@MilitarryWorld
-‏🚨سفیر اسرائیل در آمریکا به هاآرتص: ما از جنوب لبنان عقب‌نشینی نخواهیم کرد
-‏
-‏@MilitarryWorld | Parsa
-18:52
-1405/03/26
-
-
-
-
 src :@intelslava
 [عکس]
 ‏⚡️🇺🇸🇴🇲🇦🇪 —The United States military has overseen clandestine ship-to-ship oil transfers off Fujairah (UAE) and Sohar (Oman) to maintain Gulf energy exports using aerial drones, water drones, and helicopters to guide convoys — Reuters citing shipping data, satellite imagery, and 11 familiar sources.
@@ -4975,18 +4960,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 16:36
-1405/03/26
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏📌«چیز زیادی در حال عبور نیست...
-‏🔸امروز صبح ۲ تصویر از ماهواره Sentinel-1 (رادار SAR) و Sentinel-2 (تصویربرداری نوری) گرفته شده است.»
-‏
-‏@mwarmonitor
-16:33
 1405/03/26
 
 
