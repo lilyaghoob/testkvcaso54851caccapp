@@ -1,3 +1,32 @@
+src :@tabzlive
+[عکس]
+‏🇮🇱🧑‍⚖️ — Israeli Prime Minister Benjamin Netanyahu clashed with prosecutor Yonatan Tadmor during cross-examination in Case 2000, pounding the table and shouting, “Police state! Stasi! Political persecution!” after being challenged over contradictions in his testimony regarding discussions with Yedioth Ahronoth editor-in-chief Arnon Mozes, according to Kan News.
+‏
+‏Netanyahu accused investigators of using spyware as part of “a campaign to overthrow a prime minister.” He said, "You did what you have never done to any public figure and used spyware; that's what you did in a campaign to overthrow a prime minister... You violated all the laws."
+‏
+‏Judge Rivka Friedman-Feldman repeatedly attempted to calm him, but he continued criticizing the proceedings, saying, “You will spend all your days in court! What public figure did you do this to? This is shameful. Everyone says this is a police state! Stasi! Political persecution!”
+15:01
+1405/03/26
+
+
+
+
+src :@Indypersian
+‏⭕️ضریب نفوذ اینترنت در واحدهای اقتصادی عربستان سعودی به ۹۸ درصد رسید؛ استفاده از هوش مصنوعی ۲۰ درصد افزایش یافت
+‏
+‏📌میزان بهره‌گیری از فناوری‌ هوش مصنوعی در عربستان سعودی نسبت به سال گذشته ۲۰ درصد افزایش یافت و نرخ کلی پذیرش هوش مصنوعی به ۳۳.۱ درصد رسید
+‏
+‏♦️جدیدترین گزارش سازمان آمار عمومی عربستان سعودی‌ (GASTAT) درباره میزان نفوذ و استفاده از فناوری اطلاعات و ارتباطات (ICT) در واحدهای اقتصادی عربستان سعودی نشان می‌دهد ۹۸.۱ درصد از این کسب‌وکارها به اینترنت متصل‌اند؛ آماری که بیانگر گسترش چشمگیر استفاده از خدمات دیجیتال است.
+‏
+‏بیشتر بخوانید...
+‏
+‏@indypersian
+14:59
+1405/03/26
+
+
+
+
 src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — The Starlink satellite jammer was developed by Russian engineers
@@ -1713,19 +1742,6 @@ src :@Shin_Persian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇷🇺🇮🇷 WSJ: U.S. Coast Guard cyber teams say “dark fleet” tankers carrying sanctioned Russian and Iranian oil often use insecure digital systems that could be exploited to cause accidents, oil spills or explosions.
-‏
-‏Investigators found the ships using remote access tools, pirated malware‑infected software and deceptive tactics such as multiple AIS transponders, fake GPS data and reused identities, raising serious safety and environmental concerns.
-‏
-‏@wfwitness
-12:48
-1405/03/26
-
-
-
-
 src :@mwarmonitor
 ‏🔴روزنامه هاآرتص گزارش می‌دهد که یادداشت تفاهم (MOU) میان ایالات متحده و ایران شامل بندی جداگانه درباره لبنان است که بنا بر یک منبع پاکستانی، عملاً به اسرائیل اجازه می‌دهد به عملیات نظامی خود در آنجا ادامه دهد.
 ‏
@@ -1815,19 +1831,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 12:39
-1405/03/26
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 Financial Times: The head of the world’s largest tanker operator says regular transit through the Strait of Hormuz is unlikely to resume immediately, warning it could take weeks, or even a month, for confidence to return despite the US‑Iran deal.
-‏
-‏Mitsui OSK Lines chief Jotaro Tamura said about 500 ships still need to leave the Gulf and operators are waiting for mines, congestion and other hazards to be addressed before traffic normalizes.
-‏
-‏@wfwitness
-12:35
 1405/03/26
 
 
@@ -5697,21 +5700,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 16:45
-1405/03/25
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏هم‌زمان با ادامه واکنش‌ها به توافق ایران و آمریکا، خبرگزاری «فارس» در یادداشتی با عنوان «پس خون رهبرم چی؟» تلاش کرده به انتقادهای بخشی از حامیان جمهوری اسلامی درباره روند مذاکرات و توافق پاسخ دهد.
-‏در روزهای اخیر گروهی از نیروهای تندرو و حامیان حکومت با طرح شعار «پس خون رهبرم چی؟» و همچنین سر دادن شعارهایی علیه «عباس عراقچی» وزیر خارجه و «محمدباقر قالیباف» رییس مجلس شورای اسلامی، از توافق با آمریکا انتقاد کرده‌ بودند.
-‏
-‏بخوانید:
-‏https://iranwire.com/fa/news-1/153737
-‏
-‏@Farsi_Iranwire
-16:34
 1405/03/25
 
 
