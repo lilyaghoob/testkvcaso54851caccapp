@@ -89,7 +89,7 @@ src :@tabzlive
 [عکس]
 ‏🇹🇷❌🏴 — Türkiye's MİT has captured Ahmet Kazancı, an alleged senior member of Islamic State Khorasan Province, in a border-region operation and brought him to Türkiye.
 ‏
-‏Kazancı—also known by the aliases Abu Ubeyde and Abu Ibrahim—was a key figure in ISKP’s media and propaganda network and reportedly succeeded Özgür Altun (Abu Yasir Al Turki) as the group’s media chief in Turkey after Altun’s arrest.
+‏Kazancı—also known by the aliases Abu Ubeyde and Abu Ibrahim—was a key figure in ISKP’s media and propaganda network and reportedly succeeded Özgür Altun (Abu Yasir Al Turki) as the group’s media chief in Türkiye after Altun’s arrest.
 ‏
 ‏MİT said its investigation found that Kazancı had traveled from Turkey to the Afghanistan-Pakistan region, received training in ISIS camps, and helped facilitate the movement of recruits to the organization. He survived airstrikes targeting ISIS elements in Pakistan and was planning to re-enter Türkiye illegally to resume organizational activities.
 ‏
@@ -1351,6 +1351,24 @@ src :@cataphract1
 src :@ClashReport
 ‏BREAKING: Iran's FM Spox. Esmail Baghaei:  Right now, as I'm speaking with you, the text of the Islamabad memorandum has probably reached the presidents of Iran and the United States for signature.  It has been agreed that the Iran-U.S. memorandum will be…
 00:53
+1405/03/28
+
+
+
+
+src :@VahidOnline
+[عکس]
+‏☄️ ترامپ و پزشکیان امضا کردند
+‏
+‏دونالد ترامپ، در پاسخ به سوال خبرنگاران که آیا تفاهم‌نامه با جمهوری اسلامی را امضا کرده است پاسخ داد: «بله امضا کردم...در ورسای امضا کرد.»
+‏@VahidHeadline 
+‏دونالد ترامپ، رئیس جمهور آمریکا که چهارشنبه شب در کاخ الیزه میهمان ضیافت شام با امانوئل مکرون بود نسخه نهایی و منتشر شده تفاهمنامه با ایران را امضاء کرده است و از طرف ایران هم همتای او، مسعود پزشکیان این سند را امضاء کرده است.
+‏@VahidHeadline 
+‏پیش‌تر: بقایی: همین الان که با شما صحبت می‌کنم یعنی بامداد ۲۸ خرداد احتمالاً متن تفاهم نامه اسلام آباد به امضای روسای جمهور ایران و آمریکا رسیده باشد.
+‏
+‏
+‏📡 @VahidOnline
+00:52
 1405/03/28
 
 
