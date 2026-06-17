@@ -1,3 +1,40 @@
+src :@WAR_ROOM_NEWS
+‏لاکهید مارتین از سامانه جدید HIMARS FLEX رونمایی کرده است؛ نسخه‌ای پیشرفته و ماژولار از پرتابگر مشهور HIMARS که با هدف افزایش انعطاف‌پذیری، قدرت آتش و چندمنظوره‌سازی میدان نبرد طراحی شده است.این سامانه بر پایه معماری جدید FLEXFires توسعه یافته و از پیکربندی دوگانه غلاف‌های پرتاب بهره می‌برد؛ موضوعی که باعث افزایش چشمگیر حجم آتش و سرعت اجرای عملیات می‌شود. HIMARS FLEX برخلاف نسل‌های قبلی، تنها یک سامانه موشکی تهاجمی نیست، بلکه قابلیت استفاده از مهمات پدافندی مانند PAC-3 و IFPC را نیز در اختیار دارد و عملاً مرز میان سامانه‌های تهاجمی و دفاعی را کم‌رنگ می‌کند.
+‏
+‏از نظر مهمات، این سامانه با طیف گسترده‌ای از تسلیحات استاندارد ناتو شامل GMLRS، ER GMLRS، PrSM، ATACMS و PAC-3 سازگار است و می‌تواند به‌صورت کامل در شبکه‌های یکپارچه فرماندهی و کنترل مشترک نیروهای ائتلافی عمل کند. این موضوع امکان هماهنگی لحظه‌ای با سایر سامانه‌های زمینی، هوایی و دریایی را فراهم می‌سازد.
+‏
+‏یکی از ویژگی‌های مهم HIMARS FLEX، حفظ قابلیت تحرک استراتژیک آن است؛ به‌طوری‌که همچنان قابل حمل با هواپیمای ترابری C-130 بوده و می‌تواند در مدت زمان کوتاه در هر نقطه از میدان نبرد مستقر شود. علاوه بر این، پشتیبانی از عملیات خودکار و کاهش نیاز به خدمه، سطح بقاپذیری و سرعت واکنش این سامانه را افزایش می‌دهد.
+‏
+‏به‌طور کلی، HIMARS FLEX را می‌توان گامی مهم در جهت تبدیل پرتابگرهای موشکی سنتی به پلتفرم‌های چندمنظوره نسل جدید دانست که هم در نقش تهاجمی و هم در نقش پدافندی قابل استفاده هستند و انعطاف عملیاتی بسیار بالایی در جنگ‌های مدرن فراهم می‌کنند
+‏
+‏#هایمارس
+‏#لاکهید_مارتین
+‏
+‏🆔@WAR_ROOM_NEWS
+21:18
+1405/03/27
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+21:18
+1405/03/27
+
+
+
+
+src :@warmonitors
+‏⚡️ Iranian Foreign Ministry suggests deal with US may be signed by Presidents Trump and Pezeshkian
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+21:18
+1405/03/27
+
+
+
+
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇱🇧🇱🇧🇮🇷 — Iranian Foreign Ministry:  "Lebanon was mentioned 3 times in the memorandum of understanding, and the war should be ended on all fronts, especially in Lebanon. The memorandum of understanding confirmed respect for the sovereignty of Lebanon, and…
 21:16
@@ -16,7 +53,7 @@ src :@thewarreporter
 
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸 Lockheed Martin: Lockheed Martin has unveiled HIMARS FLEX, a modular evolution of the HIMARS launcher built on the new FLEXFires ecosystem, featuring dual-pod configurations that double firepower and enable air defense munitions such as PAC-3 and IFPC, while remaining C-130 transportable.
+‏⚡️🇺🇸🇪🇺 Lockheed Martin: Lockheed Martin has unveiled HIMARS FLEX, a modular evolution of the HIMARS launcher built on the new FLEXFires ecosystem, featuring dual-pod configurations that double firepower and enable air defense munitions such as PAC-3 and IFPC, while remaining C-130 transportable.
 ‏
 ‏The system is interoperable with NATO munition stockpiles (GMLRS, ER GMLRS, PrSM, ATACMS, PAC-3), integrates into joint fire-control networks, and supports fully autonomous operation.
 ‏
@@ -2723,14 +2760,6 @@ src :@P_raetorio
 
 
 
-src :@World_Newsly
-‏🔻تایید ویژه مدیر کانال اخبار ایران و جهان  👇👇👇👇👇👇👇👇👇 ⛔️⛔️ اگه در مورد #بـــــــــــورس و #سرمایه_گذاری اطلاعاتت کمه، ولی میخوای وارد بورس بشی و از بورس میلیونی پول در بیاری حتما این کانالو دنبال کن.  👌 خیلیا با آموزش های این‌کانال از بورس ثروتمند شدن، فرصتو…
-18:53
-1405/03/27
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏🌱فروشگاه VPN آریا نت🚀
@@ -5140,25 +5169,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 10:39
-1405/03/27
-
-
-
-
-src :@defence_news
-[عکس]
-‏🔹ارتش آمریکا سرانجام پس از دهه‌ها استفاده از مسلسل سنگین Browning M2، یک سامانه نشانه‌روی مدرن را برای این سلاح به خدمت گرفته است.
-‏
-‏
-‏🔹این سامانه برای مسلسل‌های M2 و M2A1 کالیبر ۱۲.۷ میلی‌متری طراحی شده و امکان درگیری مؤثر با اهداف در بردهای نزدیک و دور را فراهم می‌کند
-‏.سیستم M155 MMO به یک دید باز با بزرگنمایی ۱ برابر و سامانه بزرگنمایی ۳ تا ۴ برابر مجهز است و به تیرانداز اجازه می‌دهد با حفظ آگاهی محیطی، اهداف را سریع‌تر شناسایی و درگیر کند.
-‏🔹بر اساس اعلام ارتش آمریکا، این سامانه دقت اصابت در نخستین شلیک را به ۸۰ تا ۸۵ درصد می‌رساند؛ پیشرفتی قابل توجه برای سلاحی که از سال ۱۹۳۳ در خدمت نیروهای مسلح آمریکا قرار دارد.
-‏🔹دوربین جدید روی ریل BOARS-M2 نصب می‌شود که امکان جداسازی و نصب مجدد سریع بدون از دست رفتن تنظیمات نشانه‌روی را فراهم می‌کند.
-‏
-‏
-‏#آمریکا #BrowningM2 #M2 #مسلسل_سنگین #ارتش_آمریکا #تسلیحات #جنگاوران
-‏https://t.me/jangaavaran1390
-10:37
 1405/03/27
 
 
