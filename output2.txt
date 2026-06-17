@@ -1,3 +1,47 @@
+src :@guard_warriors
+[عکس]
+‏✪ در شب 15 ژوئن روسیه با 681 پرتابه به اوکراین حمله کرد.
+‏
+‏شامل:
+‏
+‏6 موشک ضد کشتی 3M22 "Zirkon"
+‏34 موشک بالستیک Iskander-M/S-400 
+‏30 موشک کروز Kh-101/Iskander-K
+‏611 پهپاد تهاجمی از نوع شاهد، ژربرا، ایتالماس، باندرول، "پارودی"
+‏این حمله هوایی توسط هوانوردی، نیروهای موشکی ضد هوایی، یگان های EW و سیستم های بدون سرنشین، گروه های آتش متحرک نیروهای دفاعی اوکراین دفع شد.
+‏
+‏پدافند اوکراین مدعی است 632 پرتابه را دفع کرده است:
+‏
+‏5 موشک ضد کشتی 3M22 "زیرکون"؛
+‏15 موشک بالستیک اسکندر-ام/اس-400؛
+‏30 موشک کروز Kh-101/Iskander-K;
+‏582 پهپاد دشمن در انواع مختلف.
+‏
+‏بر اساس اطلاعات اولیه، 20 فروند موشک بالستیک و 27 پهپاد ضربتی در 42 نقطه مورد اصابت قرار گرفته و پهپادهای ساقط شده در 12 نقطه سقوط کردند.
+‏
+‏#ukraine_war 
+‏#ukraine 
+‏#russia
+‏@Guard_Warriors | World
+09:01
+1405/03/27
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The US Defense Department announced that the US Indo-Pacific Command (USINDOPACOM) will revert to its former name, the US Pacific Command (USPACOM).
+‏
+‏Originally established in 1947, the command operated as USPACOM until it was renamed in 2018. 
+‏
+‏The change does not affect the command’s mission, responsibilities, or geographic area, which spans from the US West Coast to India’s western border.
+08:57
+1405/03/27
+
+
+
+
 src :@ircfspace
 [عکس]
 ‏پروژه NipoVPN یه ابزار پروکسی سبک و قدرتمنده که درخواست‌های واقعی HTTP رو بین ترافیک عادی وب مخفی می‌کنه. این پروژه با معماری Agent-Server کار می‌کنه؛ یعنی برای استفاده ازش، اول باید هسته رو روی یه سرور راه‌اندازی کنین و بعد کلاینت‌ها به اون وصل بشن. در حال حاضر هم کلاینت رسمی اندرویدش به‌صورت متن‌باز و رایگان منتشر شده.
@@ -3061,14 +3105,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷🇱🇧🇮🇱 Barak Ravid told Israeli Channel 12 that he has obtained key details of the US-Iran memorandum of understanding, which includes a 60-day ceasefire framework covering Lebanon alongside broader regional de-escalation measures.  According to the reported…
-22:02
-1405/03/26
-
-
-
-
 src :@defence_news
 [عکس]
 ‏ایالات متحده متعهد می‌شود با همکاری شرکای منطقه‌ای خود، طرحی جامع و مورد توافق طرفین برای بازسازی و توسعه اقتصادی جمهوری اسلامی ایران تدوین کند و هم‌زمان، تأمین مالی حداقل ۳۰۰ میلیارد دلاری آن را تضمین نماید. سازوکار اجرایی این طرح، به عنوان بخشی از توافق نهایی، ظرف ۶۰ روز تدوین خواهد شد.
@@ -3119,16 +3155,6 @@ src :@Middle_East_Spectator
 ‏— 🇺🇸/🇮🇷 NEW: More than half of the $300 Billion in reparations for Iran has already been ‘committed’ – Reuters
 ‏
 ‏@Middle_East_Spectator
-21:55
-1405/03/26
-
-
-
-
-src :@wfwitness
-‏⚡🇺🇦 The Ukrainian Air Force announced that one of its Su-24M front bomber crashed this evening in the Khmelnytskyi region killing both pilots. The Su-24 are based at the Starokostyantyniv airbase in the same region. The Su-24M is the only aircraft in Ukrainian service capable of using the Storm Shadow/SCALP cruise missile.
-‏
-‏@wfwitness
 21:55
 1405/03/26
 
@@ -3767,16 +3793,6 @@ src :@rnintel
 ‏- If a final U.S.-Iran deal is reached, Washington will lift all current IAEA sanctions on Tehran, lift all sanctions on Iran's oil exports, and unfreeze all frozen assets. 
 ‏
 ‏- The nuclear issue will be resolved in the final deal, until then Iran's status quo remains in place (low-level civilian enrichment).
-20:58
-1405/03/26
-
-
-
-
-src :@MilitarryWorld
-‏⭕️رهبر انصارالله یمن: ایران در برابر طاغوت زمان به پیروزی عظیمی‌دست یافت
-‏
-‏@MilitarryWorld | Parsa
 20:58
 1405/03/26
 
@@ -6430,25 +6446,4 @@ src :@KayhanLondonChannel
 ‏
 ‏شاهزاده همچنین در این سفر بر این واقعیت روشن و انکارناپذیر تأکید خواهد کرد که تهدید جمهوری اسلامی تنها به درون مرزهای ایران محدود نیست و رژیم خطری مستقیم برای جوامع دموکراتیک و امنیت ملی کشورهای غربی، از جمله بریتانیا است."
 09:14
-1405/03/26
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏درود به همه دوستان گرامی 
-‏
-‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
-09:01
-1405/03/26
-
-
-
-
-src :@guard_warriors
-‏✪ سی‌ ان‌ ان گزارش داد که تمامی ۸ خدمه یک بمب‌افکن بی-۵۲ آمریکا کشته شده‌اند.
-‏
-‏@Guard_Warriors | Mmd
-09:00
 1405/03/26
