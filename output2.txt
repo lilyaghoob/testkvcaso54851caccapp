@@ -28,16 +28,6 @@ src :@didarnews1
 
 
 
-src :@naya_foriraq
-‏وزير المالية الإسرائيلي بيزاليل سموتريتش يتحدى ترامب علانيةً: لن يكون هناك انسحاب من لبنان - ليس بحلول الجمعة ولا بعد الجمعة. 
-‏
-‏نحن نحافظ على حرية العمل الكاملة لجيش الدفاع الإسرائيلي في لبنان.
-09:36
-1405/03/27
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇬🇧⚡️- BREAKING: Jeremy Clarkson, a British television legend, the face of Top Gear for a generation, and now one of Britain’s most loved farming voices, has revealed his prostate cancer diagnosis in the final episodes of Clarkson’s Farm S5. At 66, he says the cancer is aggressive, but was caught early, and treatment begins soon.
@@ -1882,21 +1872,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 00:33
-1405/03/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ukrainian drone-maker Alexander Kokhanovskyy says a one-off test two years ago used 10 fully autonomous AI "Terminator" drones near Bakhmut/Chasiv Yar, with no human controlling targeting.
-‏
-‏Confirmed casualties included a couple of soldiers and a truck.
-‏
-‏Ukraine currently bans full autonomy at the final targeting stage, but the government is reportedly discussing loosening that rule.
-‏
-‏Source: New Scientist
-00:32
 1405/03/27
 
 
@@ -6397,38 +6372,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 09:41
-1405/03/26
-
-
-
-
-src :@militaryinpersian
-‏به گزارش اندیشکده ژوهای چین: آمریکا با آغاز جنگ اوکراین و ایران ماشین جنگی خود را فعال کرده و روند تولید-توسعه خود را افزایش-تغییر داده است.
-‏این افزایش و تغییر ناگهانی در سالهای اخیر به نفع چین نیست و مطابق پیش بینی ها انتظار میرود چین دستکم تا یک دهه دیگر با فاصله زیادی از آمریکا در زمینه نظامی عقب تر باشد.
-‏Tirex🖋️
-‏@militaryinpersian
-09:37
-1405/03/26
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 اختلاف نظر در دولت ترامپ درباره توافق با ایران
-‏
-‏🔹 آکسیوس گزارش داده است که «جان رتکلیف» رئیس سیا به دونالد ترامپ هشدار داده ارزیابی‌های اطلاعاتی آمریکا نشان می‌دهد ایران ممکن است حاضر به پذیرش امتیازهای هسته‌ای موردنظر واشنگتن در توافق نهایی نباشد.
-‏
-‏🔹 بر اساس این گزارش، مارکو روبیو وزیر خارجه و پیت هگست وزیر دفاع نیز در جلسات داخلی نسبت به توافق ابراز تردید کرده‌اند.
-‏
-‏🔹 در مقابل، جی‌دی ونس معاون رئیس‌جمهور و استیو ویتکاف و جرد کوشنر از حامیان ادامه مسیر توافق و مذاکرات با تهران هستند.
-‏
-‏🔹 این اختلاف‌نظرها در حالی مطرح می‌شود که توافق اولیه آمریکا و ایران تنها چارچوبی برای ۶۰ روز مذاکره بیشتر ایجاد کرده و مهم‌ترین موضوعات هسته‌ای همچنان حل‌نشده باقی مانده‌اند.
-‏
-‏#آمریکا 
-‏#ایران
-‏#مذاکرات_هسته‌ای
-‏
-‏@RASTAKHIZ_PERSIAN
-09:36
 1405/03/26
