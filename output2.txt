@@ -1,3 +1,71 @@
+src :@MilitarryWorld
+‏⭕️کایا کلاس،مسئول سیاست خارجی اتحادیه اروپا: 
+‏
+‏ما تحریم‌های مختلفی علیه ایران داریم. اگر توافق هسته‌ای وجود داشته باشد، فکر می‌کنم کشورهای عضو اتحادیه اروپا در مورد این لغو تحریم‌ها بحث خواهند کرد 
+‏
+‏@MilitarryWorld | Parsa
+23:27
+1405/03/28
+
+
+
+
+src :@cataphract1
+[عکس]
+‏⚜ناوشکن USS Mitcher از کلاس آرلی برک پس از ۱۱ ماه حضور در خاورمیانه در ۱۶ ژوئن وارد بندر نورفوک ویرجینیا شد.
+‏✒️#LT
+‏📃@Cataphract1
+23:26
+1405/03/28
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ شورای عالی امنیت ملی ایران اعلام کرد کشتی‌های تجاری که خواهان عبور از تنگه هرمز هستند، از این پس باید درخواست‌های خود را به سازمان جدیدی به نام «سازمان تنگه خلیج فارس» (تاسیس‌شده در اردیبهشت‌ماه) ارسال کنند. این شورا تاکید کرد که در راستای پایبندی به توافق اولیه با آمریکا، تا ۶۰ روز هیچ‌گونه تعرفه یا حق عبوری دریافت نخواهد شد، اما مقررات نهاییِ استفاده از این آبراه حیاتی در آینده اعلام می‌شود.
+‏
+‏هم‌زمان، ستاد فرماندهی مرکزی آمریکا (سنتکام) نیز روز پنج‌شنبه تایید کرد که نیروهای ایالات متحده محاصره دریایی خود بر تنگه هرمز را به‌طور کامل لغو کرده‌اند.
+‏@indypersian
+23:23
+1405/03/28
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏حسین شریعتمداری، نماینده رهبر جمهوری اسلامی در روزنامه کیهان، گفت: «با اعمال حاکمیت بر تنگه هرمز، امکان توقیف اموال متعلق به آمریکا و متحدانش وجود دارد.»
+‏
+‏او افزود: «آمریکا به هیچ عهد و پیمانی پایبند نیست و به‌راحتی به جمهوری اسلامی غرامت پرداخت نخواهد کرد.»
+‏
+‏شریعتمداری همچنین گفت: «پاسخ به محاصره دریایی آمریکا، شلیک موشک‌های ۲۵۰۰ کیلومتری با کلاهک سنگین به سمت باب‌المندب است.»
+‏https://iranintl.com/202606188788
+23:23
+1405/03/28
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇮🇱 — INTEL: We received intelligence indicating Iran may be preparing a preemptive strike on Israel, as Israeli attacks on Lebanon continue despite it being a necessary condition for signing the MoU.​​​​​​​​​​​​​​​​  @IntelSlava @LeonovZ
+23:23
+1405/03/28
+
+
+
+
+src :@cataphract1
+[عکس]
+‏⚜تصویری از پهپاد انتحاری اوکراینی و موشک پدافندی روسیه در کنار هم.
+‏✒️#LT
+‏📃@Cataphract1
+23:23
+1405/03/28
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — NEW: U.S. Central Command: Today, U.S. forces lifted the blockade on all maritime traffic entering and exiting Iranian ports and coastal areas, in accordance with the President's direction.   American forces are not impeding the transit of vessels…
@@ -690,7 +758,7 @@ src :@P_raetorio
 ‏
 ‏در مفهوم خام هدایت INS اگر هر چقدر فاصله زمانی نقطه A تا B بیشتر باشد به دلیل تجمیع خطا و DRIFT که قبلا هم این کانال توضیح داده شد نتیجتا دقت هم کمتر می شود.
 ‏
-‏در هدایت اینرسی به دلیل اینکه یک بار موقعیت از شتاب انتگرال و بار دیگر سرعت از موقعیت انتگرال می‌گیرد و عدم تصحیح این خطا ها در واقع DRIFT با زمان رشد کرده و زمان بیشتر مساوی است (هر شتابسنج دارای bais و نویز است و وقتی از یک خطای ثابت دوبار انتگرال بگیرید با خطای بیشتر و رشد کرده رو به رو می شوید) پس اگر سرعت بالا برود تا زمان کمتر شود دقت بیشتر میشود؟ بررسی می کنیم.
+‏در هدایت اینرسی به دلیل اینکه یک بار موقعیت از شتاب انتگرال و بار دیگر سرعت از موقعیت انتگرال می‌گیرد و عدم تصحیح این خطا ها در واقع DRIFT با زمان رشد کرده و زمان بیشتر مساوی است با خطای رشد کرده بیشتر(هر شتابسنج دارای bais و نویز است و وقتی از یک خطای ثابت دوبار انتگرال بگیرید با خطای بیشتر و رشد کرده رو به رو می شوید) پس اگر سرعت بالا برود تا زمان کمتر شود دقت بیشتر میشود؟ بررسی می کنیم.
 ‏
 ‏ماهان آرمانی
 ‏
@@ -2050,18 +2118,6 @@ src :@jangaavaran1390
 
 
 
-src :@IranintlTV
-[عکس]
-‏مجتبی خامنه‌ای در پیامی درباره تفاهم‌نامه میان آمریکا و جمهوری اسلامی گفت: «بنده علی‌الاصول، نظر دیگری داشتم اما از باب تعهدی که مسعود پزشکیان به‌عنوان رییس شورای عالی امنیت ملی از طرف خود و سایر اعضا به من داد و مسئولیت آن را قبول کرد اجازه آن را صادر کردم.»
-‏خامنه‌ای افزود: «پزشکیان گفت اگر طرف آمریکایی بخواهد زیاده‌خواهی کند زیر بار آن نخواهند رفت.»
-‏رهبر جمهوری اسلامی اضافه کرد: «بدیهی است مذاکرات حضوری که در آینده برقرار خواهد شد، به معنی پذیرش نظر دشمن نخواهد بود.»
-‏https://iranintl.com/202606185086
-21:15
-1405/03/28
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷 Iranian Supreme Leader Mojtaba Khamenei said he personally held reservations about the US-Iran memorandum of understanding but approved it after receiving assurances from President Pezeshkian and senior security officials that the rights of the Iranian people, Iran’s security and the “Resistance Front” would be protected.
@@ -2616,16 +2672,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@cataphract1
-‏⚜بر اساس داده‌های انجمن خودروی آمریکا (AAA)، میانگین قیمت بنزین در سراسر ایالات متحده برای نخستین بار از اوایل ماه مارس به کمتر از ۴ دلار در هر گالن کاهش یافته و اکنون به ۳٫۹۹ دلار در هر گالن رسیده است.
-‏✒️#LT
-‏📃@Cataphract1
-20:48
-1405/03/28
-
-
-
-
 src :@World_Newsly
 ‏🔴شبکه13: ارتش اسرائیل نقشه‌های محل استقرار نیروهای خود در لبنان را به آمریکا ابلاغ کرد.
 ‏
@@ -2702,16 +2748,6 @@ src :@mohem_mat
 ‏توییت یکی از سردبیران بی بی سی
 ‏
 ‏@mohem_mat
-20:46
-1405/03/28
-
-
-
-
-src :@cataphract1
-‏⚜فرماندهی مرکزی ایالات متحده (CENTCOM) به‌طور رسمی اعلام کرد که محاصره و محدودیت اعمال‌شده بر تمامی ترددهای دریایی به مقصد و مبدأ بنادر و مناطق ساحلی ایران لغو شده است.
-‏✒️#LT
-‏📃@Cataphract1
 20:46
 1405/03/28
 
@@ -3480,15 +3516,6 @@ src :@mwarmonitor
 
 
 
-src :@MilitarryWorld
-‏⭕️ادعای رویترز: کاخ سفید متن یادداشت تفاهم بین آمریکا و ایران را به کنگره ارائه کرده است
-‏@MilitarryWorld | Maverick
-19:56
-1405/03/28
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇮🇷🇶🇦 FT: The Trump administration will allow Iran to access $6 billion of its frozen oil revenues held in Qatar to purchase humanitarian and other non-sanctioned US goods under the US-Iran agreement.
@@ -4133,20 +4160,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:15
-1405/03/28
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️شاهزاده رضا پهلوی در گفتگو با آی‌تی‌وی نیوز (ITV News) گفت ۴۰ هزار ایرانی که جان خود را از دست داده‌اند، «برای یک توافق هسته‌ای یا باز ماندن تنگه هرمز» کشته نشده‌اند.
-‏او تاکید کرد این افراد «برای آزادی، دموکراسی و حق انتخاب آینده خود» جان باخته‌اند و افزود این مطالبات در روند مذاکرات «به‌طرز عجیبی نادیده گرفته شده‌اند».
-‏
-‏بامداد پنجشنبه ۲۸ خردادماه دونالد ترامپ، رئیس‌جمهوری آمریکا،  در کاخ ورسای فرانسه توافق با ایران برای پایان دادن به جنگ را امضا کرد.
-‏ با امضای این توافق دوره ۶۰ روزه  که در صورت توافق طرفین قابل تمدید است برای دستیابی دو طرف به یک توافق نهایی‌تر آغاز شد.
-‏@indypersian
-18:14
 1405/03/28
 
 
@@ -6292,23 +6305,6 @@ src :@bricsnews
 src :@GeoPWatch
 ‏#Breaking 🇮🇷🤝🇺🇸- Iranian Foreign Ministry spokesperson Esmail Baghaei has announced that the text of the Islamabad memorandum of understanding has been officially finalized and signed digitally by the presidents of both Iran and the United States, with no…
 00:56
-1405/03/28
-
-
-
-
-src :@GeoPWatch
-‏#Breaking
-‏🇮🇷🤝🇺🇸- Iranian Foreign Ministry spokesperson Esmail Baghaei has announced that the text of the Islamabad memorandum of understanding has been officially finalized and signed digitally by the presidents of both Iran and the United States, with no signing ceremony to be held in Switzerland despite negotiation teams still expected to meet in Geneva.
-‏
-‏➡️ Baghaei stressed that the signing carries significant weight, noting that violations will come at a higher cost when endorsed at the presidential level. 
-‏
-‏➡️ He cautioned, however, that the work is far from over, stating, "Our work is now harder than before because implementing international agreements is always much more difficult than drafting them, especially with parties that do not adhere to their commitments." 
-‏
-‏➡️ He added that Iran has not forgotten the past or the lessons learned and that both monitoring implementation and negotiating on nuclear issues and sanctions relief lie ahead.
-‏
-‏@GeoPWatch
-00:55
 1405/03/28
 
 
