@@ -1,3 +1,45 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 An Israeli airstrike also targeted the al-Baydar neighborhood of Harouf, southern Lebanon, with multiple casualties reported.
+‏
+‏@wfwitness
+03:27
+1405/03/29
+
+
+
+
+src :@cataphract1
+[عکس]
+‏♨️ بمباران جنوب لبنان توسط اسرائیل 
+‏
+‏📃@Cataphract1
+03:26
+1405/03/29
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Al-Sharqiyah in southern Lebanon.
+03:23
+1405/03/29
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Footage of an Israeli airstrike which targeted the town of Al-Sharqiyah, southern Lebanon.
+‏
+‏@wfwitness
+03:22
+1405/03/29
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇱❌🇱🇧 — Israeli airstrikes and artillery shelling targeted Harouf in southern Lebanon.
@@ -326,17 +368,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇱🇧🇱🇧⚡️ — President Trump dismissed reports that the U.S. could impose an arms embargo on Israel over its operations in Lebanon, telling Israeli Channel 14 he had “never heard” such claims.
-‏
-‏When asked whether Hezbollah would disarm under the current agreement, Trump said that the group "should disarm."
-02:02
-1405/03/29
-
-
-
-
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: مجتبی خامنه‌ای می‌گوید درباره تفاهم نظری دیگر داشت
@@ -377,15 +408,6 @@ src :@bricsnews
 src :@rnintel
 ‏🇨🇺⚡️- Cuba has approved multiple market reforms to the economy including the reintroduction of private real estate development, privatization of state owned businesses, and will allow the entry of private banks into the finance sector.
 01:58
-1405/03/29
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — An Israeli airstrike targeted Zebdin in southern Lebanon a few moments ago.
-01:55
 1405/03/29
 
 
@@ -594,32 +616,10 @@ src :@militaryinpersian
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇱🇧🇮🇱 Lebanese forces Leader Samir Geagea to MTV: 
-‏
-‏Israel has declared that it is not bound by the agreement, and the Americans have imposed sanctions on Lebanese political figures after this Understanding, which means that nothing has changed. What is happening is merely a charade
-‏
-‏
-‏@wfwitness
-01:23
-1405/03/29
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 NEW: According to the Financial Times, $6 Billion of Iran’s frozen funds will be released but only available to buy U.S. goods   @Middle_East_Spectator
 01:23
-1405/03/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇱🇧🇱🇧 Reuters: The U.S. Treasury imposed sanctions on Sleiman Frangieh, leader of Lebanon’s Marada Movement, and Mahmoud Qamati, deputy head of Hezbollah’s political council, over alleged support for Hezbollah.  The Treasury accused Frangieh of accepting…
-01:21
 1405/03/29
 
 
@@ -2897,21 +2897,6 @@ src :@Farsi_Iranwire
 ‏بخوانید: https://iranwire.com/fa/news-1/153897
 ‏
 ‏@Farsi_Iranwire
-22:07
-1405/03/28
-
-
-
-
-src :@cataphract1
-[عکس]
-‏🗺 نقشه آخرین وضعیت جنوب لبنان بعد از امضا تفاهم نامه بین آمریکا و ایران
-‏
-‏✏️ این نقشه با کمک پیج توییتری(X) https://x.com/Arabosint و با همکاری کاتافراکت آماده شده است
-‏
-‏📌 استفاده برای عموم آزاد است
-‏
-‏📃@Cataphract1
 22:07
 1405/03/28
 
