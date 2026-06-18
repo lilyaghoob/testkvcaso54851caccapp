@@ -1,3 +1,99 @@
+src :@P_raetorio
+[عکس]
+‏#مهم
+‏«نتانیاهو به ترامپ گفت که اسرائیل خود را ملزم به رعایت مفاد توافق برای پایان فوری و دائمی جنگ در لبنان نمی‌داند.»
+‏
+‏-شبکه خبری CNN
+‏
+‏@P_raetorio
+15:06
+1405/03/28
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ جنگنده کره جنوبی KF-21 Boramae گام مهم دیگری به سوی پذیرش در نیروهای مسلح برداشت.
+‏
+‏این هواپیما پس از برنامه پنج ساله آزمایش و ارزیابی صلاحیت پروازی که شامل ۷۴۵ مورد بررسی در ۱۴ حوزه بود، گواهی تایپ را دریافت کرد. قابل توجه است که فرایند صدور گواهی از آوریل ۲۰۲۱، بیش از یک سال قبل از اولین پرواز KF-21 آغاز شده بود.
+‏
+‏دریافت گواهی، ایمنی طراحی را تأیید می‌کند و راه را برای استقرار سریالی برنامه هموار می‌سازد. در ماه مه، جنگنده گواهی صلاحیت رزمی نسخه Block 1 را دریافت کرد که توانایی انجام مأموریت‌های «هوا به هوا» را تأیید می‌کند.
+‏
+‏انتظار می‌رود اولین KF-21ها تا پایان سال ۲۰۲۶ وارد نیروی هوایی جمهوری کره شوند. در حال حاضر ۴۰ فروند سفارش داده شده است و اولین نمونه سریالی در آوریل امسال به پرواز درآمد.
+‏
+‏همزمان، حمایت صنعتی برنامه نیز تقویت می‌شود. شرکت Hanwha Aerospace قصد دارد سهم خود در KAI را به ۱۰٪ افزایش دهد. این شرکت موتورهای F414 را تحت مجوز برای KF-21 تولید می‌کند و همچنین رادار AESA، سیستم IRST و پاد هدف‌گیری اپتوالکترونیکی را می‌سازد.
+‏
+‏برای کره جنوبی، این فقط یک مرحله دیگر از آزمایش‌ها نیست. دریافت گواهی تایپ، چشم‌اندازهای صادراتی KF-21 را که سئول آن را به عنوان یکی از رقبای آینده جنگنده‌های نسل ۴++ غربی در بازار جهانی می‌بیند، به طور قابل توجهی تقویت می‌کند.
+‏
+‏@Guard_Warriors | Mmd
+15:06
+1405/03/28
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱🇺🇸🇮🇷⚡️ — Israeli Prime Minister Benjamin Netanyahu is seeking to shape the outcome of U.S.-Iran negotiations by mobilizing supportive right-wing media figures and pro-Israel lawmakers to influence President Trump, according to CNN.
+‏
+‏➡️ Netanyahu remains skeptical that Iran will accept meaningful restrictions on its nuclear program and believes a final agreement is unlikely. 
+‏
+‏➡️ Following the signing of the U.S.-Iran memorandum of understanding and the start of a 60-day negotiation period, he is said to be relying on pro-Israel voices such as commentator Mark Levin and supportive senators to build opposition to aspects of the deal, including the proposed reconstruction and development fund for Iran.
+15:05
+1405/03/28
+
+
+
+
+src :@DEJradio
+[عکس]
+‏🔺📢 "پیام دارم برای بچه پاسدار و بسیجی مزدور. توجه کنید، اینا برای توافق با ترامپ، خامنه‌ای رو به هیچ گرفتن، شما که دیگه دوزار نمی‌ارزید.
+‏
+‏پیام دریافتی
+‏
+‏#بسیجی #ترامپ #توافق #موشعلی
+‏@DEJradio
+15:05
+1405/03/28
+
+
+
+
+src :@cataphract1
+‏♨️ نتانیاهو به ترامپ گفته است که اسرائیل خود را ملزم به رعایت بندهای توافق برای پایان فوری و دائمی جنگ در لبنان نمی داند.
+‏
+‏منبع: CNN
+‏✒️#Delta_Dynamics
+‏📃@Cataphract1
+15:04
+1405/03/28
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱🇺🇸🇱🇧⚡️ — Israeli Prime Minister Benjamin Netanyahu has told President Trump that Israel does not see itself as bound by the deal, which requires an “immediate and permanent termination” of the war in Lebanon, CNN reports.
+‏
+‏➡️ Israel has already scaled back its operations in Lebanon due to U.S. pressure but refuses to cease all of them.
+15:04
+1405/03/28
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Netanyahu has told Trump that Israel does not consider itself bound by the deal's requirement for an immediate and permanent end to the war in Lebanon.
+‏
+‏Source: CNN
+15:02
+1405/03/28
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Netanyahu is trying to influence the final U.S.-Iran deal by using right-wing media figures and pro-Israel senators to pressure President Trump.
@@ -66,7 +162,7 @@ src :@defence_news
 
 src :@P_raetorio
 [عکس]
-‏ارتش اسرائیل یک خودرو را در عزه هدف قرار داد که تاکنون 4 تن کشته شدند.
+‏ارتش اسرائیل یک خودرو را در غزه هدف قرار داد که تاکنون 4 تن کشته شدند.
 ‏
 ‏@P_raetorio
 14:58
@@ -530,15 +626,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇪🇺⚡️ — Israeli Foreign Minister Gideon Sa’ar has severed all ties with EU foreign policy chief Kaja Kallas following reports that she compared Israel to South Africa’s apartheid regime during closed-door meetings in Mexico.    Sa’ar said Kallas had engaged…
-14:16
-1405/03/28
-
-
-
-
 src :@jangaavaran1390
 ‏وزیر جنگ پیت هگست درباره ایران:
 ‏وقتی محاصره به طور کامل باز شود، ما عقب‌نشینی می‌کنیم و اجازه می‌دهیم تجارت جریان یابد.
@@ -839,21 +926,6 @@ src :@jangaavaran1390
 ‏
 ‏«اسرائیل بخشی از منطقه است. این بدان معناست که آنها باید بخشی از گفتگوی منطقه‌ای باشند، اما فلسطین نیز بخشی از منطقه است.
 13:49
-1405/03/28
-
-
-
-
-src :@ClashReport
-[عکس]
-‏EU's Kaja Kallas:
-‏
-‏The EU is always committed to a constructive relationship with Israel.
-‏
-‏To bring peace to the Middle East, the Two-State Solution remains the only viable path. 
-‏
-‏The EU has condemned the illegal Israeli settlements in the West Bank that make it increasingly difficult to get to that goal. That is the EU position.
-13:47
 1405/03/28
 
 
@@ -3310,16 +3382,6 @@ src :@cataphract1
 
 src :@naya_foriraq
 ‏🇸🇾هجوم مسلح يستهدف حافلة تقل عناصر تابعة لمايسمى بالأمن العام الجولاني في ريف محافظة الحسكة السورية؛ مقتل وإصابة 10 أشخاص كحصيلة أولية.
-09:30
-1405/03/28
-
-
-
-
-src :@cataphract1
-‏کانال 12 اسرائیل گزارش داده است دولت ترامپ در شاهکار جدید خود دولت نتانیاهو را تهدید کرده است اگر از جنوب لبنان عقب نشینی نکند ابتدا ارسال تسلیحات را تعویق و در صورت اقدامات بیشتر اسرائیل را تحریم تسلیحاتی می‌کند!
-‏
-‏@P_raetorio
 09:30
 1405/03/28
 
@@ -5818,51 +5880,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/03/27/403661/
 15:07
-1405/03/27
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Wed, 17 Jun 2026 11:36:30 UTC
-‏
-‏Trump called Soleimani an "Evil Genius" 🤣
-‏
-‏ترجمه خودکار فارسی
-‏
-‏ترامپ سلیمانی را یک «نابغه شرور» نامید 🤣
-‏
-‏𝕏  ·  @shin_persian
-15:06
-1405/03/27
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 جاه‌طلبی هسته‌ای مکرون؛ آیا فرانسه واقعاً می‌تواند جای آمریکا را بگیرد؟
-‏
-‏🔹 بحث اصلی در اروپا دیگر روسیه نیست؛ بلکه این است که اگر روزی آمریکا از امنیت قاره فاصله بگیرد، چه کشوری توان پر کردن این خلأ را خواهد داشت. پاسخ مکرون روشن است: فرانسه.
-‏
-‏🔹 اما بازدارندگی هسته‌ای فقط داشتن چند صد کلاهک اتمی نیست. پشت سر چتر هسته‌ای آمریکا، هزاران دانشمند، ده‌ها آزمایشگاه، صدها شرکت دفاعی، ناوگان عظیم زیردریایی‌ها، بمب‌افکن‌ها، ماهواره‌ها و شبکه‌ای از زیرساخت‌های صنعتی قرار دارد که طی هشتاد سال ساخته شده‌اند.
-‏
-‏🔹 فرانسه بدون تردید پیشرفته‌ترین قدرت نظامی اتحادیه اروپا است. این کشور تنها عضو اتحادیه اروپا با زرادخانه هسته‌ای مستقل، زیردریایی‌های اتمی حامل موشک بالستیک و توان کامل طراحی و تولید سلاح هسته‌ای محسوب می‌شود. اما مقیاس آن با آمریکا قابل مقایسه نیست.
-‏
-‏🔹 واقعیت این است که فرانسه شاید بتواند از خود فرانسه دفاع کند، اما تبدیل شدن به چتر هسته‌ای بیش از چهارصد میلیون شهروند اروپایی نیازمند ظرفیت‌هایی بسیار فراتر از توان فعلی پاریس است. افزایش تعداد کلاهک‌ها، ساخت زیردریایی‌های بیشتر، توسعه موشک‌های جدید و گسترش زیرساخت‌های فرماندهی و هشدار زودهنگام، پروژه‌ای چند دهه‌ای خواهد بود.
-‏
-‏🔹 مشکل دیگر به صنعت دفاعی اروپا بازمی‌گردد. در سال‌های اخیر اروپا حتی در پروژه‌های متعارف نیز با چالش روبه‌رو بوده است؛ از شکست پروژه مشترک نسل ششم اروپا گرفته تا بحران‌های مداوم در برنامه تانک آینده. این سؤال مطرح می‌شود که اگر اروپا در توسعه جنگنده و تانک مشترک مشکل دارد، چگونه می‌خواهد یک معماری هسته‌ای قاره‌ای ایجاد کند؟
-‏
-‏🔹 مکرون در حال رقابت با زمان است. او می‌داند که ساخت ظرفیت هسته‌ای و صنعتی سال‌ها طول می‌کشد، اما سیاست فرانسه ممکن است ظرف چند سال تغییر کند. به همین دلیل تلاش می‌کند پروژه بازدارندگی اروپایی را قبل از پایان دوران سیاسی خود به یک واقعیت غیرقابل بازگشت تبدیل کند.
-‏
-‏🔹 در نهایت، بزرگ‌ترین محدودیت فرانسه نه فناوری است و نه حتی پول؛ بلکه «مقیاس» است. فرانسه یک قدرت هسته‌ای بزرگ محسوب می‌شود، اما آمریکا یک ابرقدرت هسته‌ای است. فاصله میان این دو تنها با اراده سیاسی پر نمی‌شود؛ بلکه به دهه‌ها سرمایه‌گذاری صنعتی، فناورانه و نظامی نیاز دارد.
-‏
-‏🔹 شاید مهم‌ترین سؤال امروز اروپا این نباشد که آیا فرانسه سلاح هسته‌ای دارد یا نه؛ بلکه این باشد که آیا فرانسه ظرفیت صنعتی و فناورانه لازم برای ایفای نقشی را دارد که آمریکا طی هشتاد سال گذشته بر عهده داشته است؟
-‏
-‏#فرانسه 
-‏#اروپا 
-‏#بازدارندگی_هسته‌ای
-‏
-‏@RASTAKHIZ_PERSIAN
-15:05
 1405/03/27
