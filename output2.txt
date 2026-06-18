@@ -1,3 +1,37 @@
+src :@Mena_Live
+‏Six suspected Hezbollah affiliates spotted around 1 km from Majdal Shams, just beyond the Israel-Lebanon border fence; the IDF’s 210th Bashan Division launched a search operation with helicopters and additional aerial assets, while residents were urged to remain indoors.
+‏
+‏@Mena_Live
+00:24
+1405/03/29
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️خبرگزاری آسوشیتدپرس گزارش داد استیو ویتکاف، فرستاده دونالد ترامپ، پنجشنبه‌شب در نشستی غیرعلنی با قانون‌گذاران آمریکایی اعلام کرده است تهران از آژانس بین‌المللی انرژی اتمی برای بازرسی از تاسیسات هسته‌ای خود دعوت خواهد کرد و روند شناسایی محل نگهداری مواد غنی‌شده را آغاز می‌کند.
+‏
+‏بر اساس این گزارش، ویتکاف به رهبران کنگره و اعضای کمیته‌های امنیت ملی گفته است تفاهم‌نامه میان آمریکا و ایران هیچ توافق جانبی نداشته است. با این حال، تهران و آژانس بین‌المللی انرژی اتمی نامه‌ای جداگانه تنظیم کرده‌اند که در آن دعوت از بازرسان آژانس و ادامه همکاری‌های نظارتی مطرح شده است.
+‏ 
+‏@indypersian
+00:23
+1405/03/29
+
+
+
+
+src :@World_Newsly
+‏🔴 استیو ویتکاف: ایران به بازرسان آژانس بین‌المللی انرژی اتمی اجازه خواهد داد به سایت‌های هسته‌ای این کشور پس از توافق دسترسی پیدا کنند.
+‏
+‏✍🏻 King
+‏▪️@World_Newsly
+00:22
+1405/03/29
+
+
+
+
 src :@thewarreporter
 [عکس]
 ‏📱🇮🇱🇮🇷 - The Israeli government asked Meta to remove Facebook and Instagram content related to the Iran war, including posts mourning the assassination of former Iranian Supreme Leader Ali Khamenei, content supporting Iran's retaliatory strikes, and accounts focused on Iranian military analysis.
@@ -2824,20 +2858,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-‏🔴رسانه های اسرائیلی:
-‏
-‏پس از انتقاد شدید از سیاست اجرای قانون در مرز شمالی، رده سیاسی به ارتش اسرائیل اجازه داد تا در منطقه خط زرد در لبنان نیز آتش گشوده شود. منابعی در ارتش اسرائیل انتظار می‌رود در ساعات آینده نیروهای میدانی را در مورد دستورالعمل‌های جدید مطلع کنند. همزمان، زیرساخت‌های تروریستی که در این منطقه شناسایی شده‌اند، در دوره آینده نابود خواهند شد
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-21:20
-1405/03/28
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏مسئول گردن‌نگیر جوان شد
@@ -3205,20 +3225,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iran's Supreme Leader Mojtaba Khamenei:
-‏As you have become aware, a memorandum of understanding was signed between the presidents of Iran and America.
-‏
-‏In the process of reaching this stage, the officials made great efforts out of goodwill and sincere intentions. 
-‏
-‏Of course, it was the President of the United States who, out of desperation, resorted to various forms of pressure and leverage to bring about this agreement.
-21:03
-1405/03/28
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — NEW: U.S. Central Command:
@@ -3273,20 +3279,6 @@ src :@MilitarryWorld
 ‏ امکان تعلیق موقت تحریم‌های ایران بدون مصوبه کنگره وجود دارد‌
 ‏
 ‏@MilitarryWorld | Parsa
-21:01
-1405/03/28
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — NEW: U.S. Central Command:
-‏Today, U.S. forces lifted the blockade on all maritime traffic entering and exiting Iranian ports and coastal areas, in accordance with the President's direction. 
-‏
-‏American forces are not impeding the transit of vessels to or from Iranian ports. All U.S. military blockade enforcement efforts have ceased. 
-‏
-‏Our great Naval Ships will remain in the general area to make sure that all aspects of the agreement are adhered to, obeyed and in full force and effect.
 21:01
 1405/03/28
 
@@ -3743,14 +3735,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 20:27
-1405/03/28
-
-
-
-
-src :@tabzlive
-‏🇳🇪 — RFI reports that heavy gunfire has been heard since dawn in the area of Diori Hamani International Airport in Niamey, Niger. The area has been cordoned off after attackers reportedly gained access to the airport, while Niger’s defense and security forces…
-20:26
 1405/03/28
 
 
@@ -6642,33 +6626,4 @@ src :@militaryinpersian
 ‏
 ‏👑 @Fighter_Radar
 00:30
-1405/03/28
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‏
-‏‏ ‏ با وجود انتقادات ترامپ، اسرائیل به بمباران مواضع حزب‌الله در لبنان ادامه داد
-‏
-‏- بر اساس گزارش منابع منطقه‌ای، ارتش اسرائیل چهارشنبه ۲۷ خرداد ۱۴۰۵ مواضع حـزب‌الله در ارتفاعات «علی الطاهر» و اطراف شهرک «نبطیه الفوقا» در جنوب لبنان را هدف قرار داد. این حملات در حالی صورت گرفت که جمهوری اسلامی به عنوان بخشی از توافق با آمریکا خواستار توقف حملات اسرائیل به گروه تروریستی حزب‌الله شده است.
-‏
-‏- مقام‌های اسرائیل می‌گویند امنیت این کشور وابسته به توافق جمهوری اسلامی و آمریکا نیست. در ایران مطرح می‌شود که حملات به حزب‌الله اقدامی هماهنگ از سوی اسرائیل و آمریکاست هرچند که به نظر می‌رسد دونالد ترامپ از ادامه آن ناراضی است.
-‏
-‏- رویترز به نقل از یک مسئول حزب‌الله گزارش داد که جمهوری اسلامی امضاء متن موسوم به «یادداشت تفاهم» یا «تفاهم‌نامه» را به تعویق انداخته است تا از پایبندی اسرائیل به این تفاهم‌نامه مطمئن شود!
-‏
-‏
-‏https://kayhan.london/1405/03/27/403681/
-00:25
-1405/03/28
-
-
-
-
-src :@militaryinpersian
-‏قالیباف: در اسلام آباد به ونس، معاون ترامپ گفتم امروز با وجود بی اعتمادی کامل به آمریکا، با حسن نیت با تو مذاکره میکنم.
-‏Tirex🖋️
-‏@militaryinpersian
-00:21
 1405/03/28
