@@ -1,3 +1,88 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — President Trump via Truth Social:
+‏These fools, who think I haven’t been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are “tumbling” down, are either jealous, bad people, or stupid.
+13:27
+1405/03/28
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏از دخالت در امور داخلی یکدیگر خودداری کنند.
+13:25
+1405/03/28
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 US says it is prepared to resume war with Iran if it does not follow through with the agreement.
+‏
+‏@BRICSNews
+13:24
+1405/03/28
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏Compass Correction Card
+‏
+‏در چند روز گذشته در مورد اینکه Compass چه چیزی هست صحبت شد و در مورد اجزای آن باهم صحبت کردیم حالا میخوایم ببینیم این جدول که زیر این Compass نصب شده چی هست؟
+‏
+‏اول باید در مورد یکی از خطاهای Compass حرف بزنیم یعنی Deviation ، به زبان خیلی ساده ما میدونیم که در هواپیما مدار های الکتریکی مختلفی وجود داره که هرکدوم میدان مغناطیسی خودشونو دارن ، این میدان مغناطیسی در روند استفاده از Compass تاثیر میزاره و باعث ایجاد خطا میشه 
+‏
+‏حالا نفرات فنی برای حل حداکثری این مشکل عمل Compass Swing رو انجام میدن یعنی چی؟
+‏
+‏اول هواپیما رو در فضای باز ، دور از اجسام فلزی ، با تمام تجهیزات الکترونیکی روشن (حالت عملیاتی) نگه می‌دارند
+‏
+‏دوم هواپیما را روی ۴ جهت اصلی ( N, E, S, W ) نسبت به مرجع دقیق قرار میدن و خطا را ثبت می‌کنن .
+‏
+‏سوم محاسبه ضرایب تصحیح :
+‏   · تصحیح N/S = ½ (خطای N – خطای S)
+‏   · تصحیح E/W = ½ ( خطای W – خطای E )
+‏
+‏مرحله چهارم تنظیم Compass با پیچ‌های تصحیح ، ضرایب رو اعمال می‌کنن تا خطا در جهات اصلی به حداقل برسد
+‏
+‏مرحله پنجم ، Swing درجات دیگر ، هواپیما را روی جهات ۳۰ درجه‌ای ( ۰ ، ۳۰ ، ۶۰ ، ... ، ۳۳۰° ) می‌برند و خطای باقیمانده را ثبت می‌کنند
+‏
+‏در آخر یک Correction Card تعریف می‌کنن یعنی برگه‌ای که در نزدیکی Compass نصب می‌شود و خطای باقیمانده را برای هر heading به خلبان نشان می‌دهد
+‏
+‏محتوای این کارت چیه ؟ 
+‏
+‏· تاریخ و ساعت انجام swing
+‏· امضای تکنسین
+‏· جدولی با دو ستون 
+‏
+‏نحوه استفاده ازش با مثال در تصویر ، اگر خلبان بخواهد heading ۳۰° را پرواز کند ، به کارت نگاه کرده و عدد °۳۱ را روی Compass می‌خواند
+‏
+‏#ZAE
+‏#Aviation #Compass 
+‏#Instruments #Swing
+‏@Sky_Airlines
+13:22
+1405/03/28
+
+
+
+
+src :@selena_updates
+[عکس]
+‏A controversy has resurfaced at Ben-Gurion University in the Negev, in southern Israel, after Arab Israeli nursing student Nora Abu Zaid returned to her studies and even received a certificate of excellence, despite previous calls for disciplinary action over comments she made following the October 7 attacks. 
+‏
+‏After the massacre, she published a video in which she denied the events of October 7 and claimed it was "Israeli propaganda" meant to justify the war in Gaza. According to her, there was no rape because "there is no documentation," and there was no massacre as described because in the videos you see civilians fleeing the party and not being killed. In short, a classic anti-Semitic blood libel.
+‏
+‏This prompted protests by fellow students and demands for her suspension. While the university announced disciplinary measures at the time, reality speaks different.
+‏
+‏Soon, she will be working within Israel's healthcare system, treating soldiers, October 7 survivors, parents, grandparents, children.
+13:22
+1405/03/28
+
+
+
+
 src :@World_Newsly
 ‏🔹 اطلاعیه مهم🔹  کاربران زیادی در خصوص جنگ سؤال پرسیدن، این اطلاعات قابل انتشار در اینجا نیست؛ تاریخ دقیق شروع جنگ ایران و اسرائیل حتی افشای دقیقِ قیمت طلا ۲۸ میلیونی و دلارِ ۲۸۰ هزار تومانی، همه در پست‌های آخر این کانال توسط دکتر سید طاها محمدی افشا شدن حتماً…
 13:21
@@ -3146,21 +3231,6 @@ src :@VahidOnline
 
 
 
-src :@tabzlive
-[عکس]
-‏🇪🇺🇦🇲🇷🇺⚡️ — The European Commission is preparing emergency trade measures for Armenia to offset the impact of Russian import restrictions, according to FT.
-‏
-‏The proposed measures would lower tariffs on Armenian food and agricultural exports to the EU, covering most of the product categories affected by Russian bans, worth roughly €420 million annually. 
-‏
-‏The plan could be presented within weeks and is intended to provide Armenia with alternative export markets while reducing its economic vulnerability to future Russian trade pressure.
-‏
-‏EU officials view the Russian restrictions, imposed ahead of Armenia’s recent elections, as an attempt to pressure the country’s pro-Western government.
-03:48
-1405/03/28
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏‏ ‏ نیویورک تایمز: اروپا در جنگ آمریکا و جمهوری اسلامی دخالت نکرد؛ اکنون «آماده اقدام» است
@@ -5021,20 +5091,6 @@ src :@Farsi_Iranwire
 
 
 src :@BellumActaNews
-‏🇭🇺 Hungarian parliament votes for 8-year term limit that would stop Orbán returning
-‏
-‏Hungarian lawmakers on Monday passed a constitutional amendment that would ban Viktor Orbán from returning to power.
-‏
-‏The amendment, approved by 135 votes in favor and 50 against, would limit prime ministers to just eight years in office if it becomes law. The amendment is written to apply retroactively, meaning that Viktor Orbán could not return as Hungary’s prime minister. Orbán served as prime minister for a total of 20 years.
-‏
-‏🔗 https://www.politico.eu/article/hungarian-parliament-approves-8-year-term-limit-for-prime-ministers/
-19:29
-1405/03/27
-
-
-
-
-src :@BellumActaNews
 ‏🇭🇺 Hungarian parliament votes for 8-year term limit that would stop Orbán returning  Hungarian lawmakers on Monday passed a constitutional amendment that would ban Viktor Orbán from returning to power.  The amendment, approved by 135 votes in favor and 50…
 19:29
 1405/03/27
@@ -5868,28 +5924,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 13:57
-1405/03/27
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 رئیس دانشگاه شریف: در جنگ ۴۰ روزه، حدود ۸ هزار میلیارد تومان به زیرساخت های این دانشگاه خسارت وارد شد. دولت یک چهارم این هزینه را جبران کرده است.
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-13:24
-1405/03/27
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 ان بی سی: ایران پس از امضای تفاهم باز هم علیه کشتی های تجاری پهپاد شلیک کرده است اما این مسئله توسط طرف امریکایی سانسور شده 
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-13:24
 1405/03/27
