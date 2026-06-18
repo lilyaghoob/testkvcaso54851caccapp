@@ -1,11 +1,16 @@
-src :@World_Newsly
-[عکس]
-‏🔴علی قلهکی :
-‏رهبری با این متن موافق نبودند ، شروط ان محقق نمیشود . امریکا بعد جام جهانی از برنامه اصلی رونمایی میکند . اگر اسرائیل پیشدستی نکند
+src :@rnintel
+‏🇬🇧⚡️- Polls have closed in the Makerfield by election. Results not expected for another few hours.
+00:34
+1405/03/29
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ویتکاف: بازرسان آژانس راهی ایران می‌شوند
 ‏
-‏✍🏻 Punisher
-‏▪️@World_Newsly
-00:31
+‏@MilitarryWorld | Parsa
+00:33
 1405/03/29
 
 
@@ -2169,28 +2174,6 @@ src :@defence_news
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — The War Department got community-noted on X:
-‏
-‏Caption: NO HESITATION. NO MERCY. OVERWHELMING LETHALITY.
-‏
-‏Community note: They gave the enemy $300 Billion instead.
-22:15
-1405/03/28
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Pre-orders for Grand Theft Auto VI will officially begin on June 25.
-22:14
-1405/03/28
-
-
-
-
 src :@naya_foriraq
 ‏🇫🇷‏ماكرون: الكثير من علامات الاستفهام بشأن الاتفاق..  ولا أعتقد أن الحرب انتهت
 22:13
@@ -2429,19 +2412,6 @@ src :@warmonitors
 
 
 
-src :@ClashReport
-[عکس]
-‏Ukraine Inflicts Logistics Lockdown on Crimea With Drone Campaign
-‏
-‏Ukraine has launched an intensive "logistics lockdown" campaign, striking bridges and infrastructure to disrupt Russian supply lines faster than they can be repaired.
-‏
-‏READ MORE
-21:50
-1405/03/28
-
-
-
-
 src :@mohem_mat
 ‏دونالد ترامپ در تروث‌سوشال نوشت
 ‏ 
@@ -2593,14 +2563,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 21:43
-1405/03/28
-
-
-
-
-src :@tabzlive
-‏🏴❌🇳🇪 — This morning's armed attack on Diori Hamani International Airport in Niamey, Niger, killed 11 members of the security forces and two civilians, according to the government.  ➡️ Authorities say security forces repelled the assault and killed 22 attackers…
-21:42
 1405/03/28
 
 
@@ -2820,20 +2782,6 @@ src :@jangaavaran1390
 ‏ترامپ:
 ‏
 ‏ایالات متحده متعهد به صلح است و ما از همه در منطقه خاورمیانه می‌خواهیم که به تعهد خود برای اجازه دادن به مذاکرات ما برای پیشرفت زیبا پایبند بمانند. بازارها از کاهش شدید قیمت نفت و افزایش قابل توجه سهام خوشحال هستند. ما انتظار داریم آتش‌بس کامل در تمام جبهه‌ها، از جمله لبنان، حزب‌الله و اسرائیل برقرار شود. از توجه شما به این موضوع سپاسگزاریم! رئیس‌جمهور دونالد ج. ترامپ
-21:33
-1405/03/28
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷🇮🇱🇱🇧⚡️ — President Trump via Truth Social:
-‏The United States is committed to PEACE, and we encourage everyone in the Middle East Region to maintain their commitment to allowing our negotiations to beautifully unfold. 
-‏
-‏The Markets are loving what is happening with Oil Prices way down, and Stocks way up. 
-‏
-‏We expect a complete Ceasefire on all fronts, including Lebanon, Hezbollah, and Israel.
 21:33
 1405/03/28
 
@@ -3481,16 +3429,6 @@ src :@wfwitness
 ‏In defense of Lebanon and its people, and based on the legitimate right to resist and liberate our land, and in response to the Israeli ceasefire violations, our fighters have been engaged in clashes with appropriate weapons against a force of the Israeli army that attempted to advance from the town of Arnoun towards the outskirts of Kfar Tebnit since 17:30 today. The clashes are still ongoing at the time of issuing this statement.
 ‏
 ‏@wfwitness
-20:47
-1405/03/28
-
-
-
-
-src :@MilitarryWorld
-‏⭕️جی دی ونس: نتانیاهو بهتر است بداند بدون ترامپ و آمریکا قدرتی ندارد!
-‏
-‏@MilitarryWorld | Parsa
 20:47
 1405/03/28
 
@@ -5996,14 +5934,6 @@ src :@bricsnews
 src :@rnintel
 ‏🇺🇸🇮🇱⚡️- President Trump now asks members of his administration whether Netanyahu is being accurate after phone calls with the Israeli prime minister, something he did not do previously. - WSJ, citing a senior administration official.
 10:43
-1405/03/28
-
-
-
-
-src :@rnintel
-‏🇱🇧🇮🇱⚡- Israeli drone strike near Nabatieh, southern Lebanon. Likely an assassination strike.
-10:29
 1405/03/28
 
 
