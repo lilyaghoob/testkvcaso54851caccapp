@@ -1,3 +1,23 @@
+src :@rnintel
+[عکس]
+‏🇷🇺🇺🇦 - Moscow, Russia.
+09:57
+1405/03/28
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏طعم شب‌های مسکو در روز
+‏
+‏@P_raetorio
+09:55
+1405/03/28
+
+
+
+
 src :@Indypersian
 ‏⭕️چهار نوشیدنی شبانه که به کنترل قند خون کمک می‌کند
 ‏
@@ -485,50 +505,6 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏تکرار تاریخ؟!
 08:33
-1405/03/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏بنظر می‌رسد دونالد ترامپ در حال امضای متن فارسی است!
-‏
-‏@P_raetorio
-08:32
-1405/03/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏عکس واریال شده در رسانه‌های جهان با محتوای:کاخ ورسای،دو تاریخ،دو رئیس جمهور،دو ننگ
-‏
-‏@P_raetorio
-08:29
-1405/03/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏ارتش اسرائیل اعلام کرد یک سرباز که در جریان حمله روز گذشته کواد حزب‌الله زخمی شده بود،کشته شد.
-‏
-‏@P_raetorio
-08:25
-1405/03/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏♨️ به این صورت تفاهم نامه بین دو طرف امضا شد
-‏
-‏📃@Cataphract1
-08:22
 1405/03/28
 
 
@@ -4366,14 +4342,6 @@ src :@Mena_Live
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- President Trump jokes that if the new Iran Deal doesn't work out he will blame JD Vance.
-20:46
-1405/03/27
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏This evening, the Israeli Air Force intercepted several rockets launched towards IDF soldiers operating in southern Lebanon. Several additional rockets fell adjacent to the soldiers. No injuries were caused.
@@ -4661,25 +4629,9 @@ src :@thewarreporter
 
 
 
-src :@rnintel
-‏🇺🇲🇫🇷🇷🇺⚡️- "Participants to this G7 summit have all agreed that Russia had no intention to make peace." - Emmanuel Macron in a statement.
-19:49
-1405/03/27
-
-
-
-
 src :@ManotoTV
 [عکس]
 ‏نگاهی به مقاله «دروغ مصلحت‌آمیز» علی دشتی، متنی از فضای فکری ایران در آستانه دگرگونی‌های سیاسی سال ۱۳۰۴.
-19:49
-1405/03/27
-
-
-
-
-src :@rnintel
-‏🇺🇲🇫🇷⚡️- According to Emmanuel Macron, the G7 summit is a diplomatic success where "unity has been reached after months of disagreements."
 19:49
 1405/03/27
 
@@ -6346,28 +6298,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 10:21
-1405/03/27
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 اوکراین نسل جدید پهپادهای Bulava و Leleka را رونمایی کرد
-‏
-‏🔹 شرکت اوکراینی Deviro در نمایشگاه یوروساتوری پاریس از نسخه‌های ارتقایافته پهپادهای تهاجمی Bulava M2V و شناسایی Leleka M2R رونمایی کرد.
-‏
-‏🔹 پهپاد انتحاری Bulava M2V اکنون شعاع عملیاتی ۱۳۰ کیلومتری دارد؛ افزایشی قابل توجه نسبت به برد ۸۰ کیلومتری نسل قبل. وزن کلاهک نیز از ۳.۶ به ۵ کیلوگرم افزایش یافته و زمان پرواز آن به ۹۵ دقیقه رسیده است.
-‏
-‏🔹 در سوی دیگر، پهپاد شناسایی Leleka M2R به برد عملیاتی بیش از ۱۰۰ کیلومتر دست یافته و از مقاومت بیشتری در برابر شرایط جوی و بادهای شدید برخوردار شده است.
-‏
-‏🔹 مهم‌ترین ویژگی نسخه جدید Leleka، تجهیز آن به سامانه فرار از پهپادهای رهگیر دشمن است؛ قابلیتی که بازتابی از رقابت فزاینده میان پهپادهای شناسایی و سامانه‌های ضدپهپادی در جنگ اوکراین محسوب می‌شود.
-‏
-‏🔹 این ارتقاها نشان می‌دهد نبرد اوکراین تنها میدان آزمایش پهپادهای تهاجمی نیست، بلکه به آزمایشگاهی برای توسعه نسل جدید جنگ پهپادی و ضدپهپادی نیز تبدیل شده است.
-‏
-‏#اوکراین
-‏#یوروساتوری 
-‏
-‏@RASTAKHIZ_PERSIAN
-09:55
 1405/03/27
