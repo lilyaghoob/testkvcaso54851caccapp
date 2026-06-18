@@ -3614,26 +3614,6 @@ src :@thewarreporter
 
 
 
-src :@defence_news
-[عکس]
-‏🚀 اینترنت بدون محدودیت، بدون دردسر
-‏
-‏دنبال یک فیلترشکن سریع و پایدار هستی؟
-‏
-‏🎁 اول رایگان تست کن، بعد تصمیم بگیر.
-‏
-‏✅ سرعت پایدار ✅ اتصال امن ✅ چند لوکیشن فعال
-‏
-‏🔥 پلن‌های ویژه با تخفیف فعال است 📉
-‏
-‏📥 دریافت تست رایگان:👇
-‏✅ @v2ray443_hamkar_bot
-22:20
-1405/03/27
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — The US has released the official text of a 14-point memorandum of understanding with Iran:
 ‏
