@@ -10,6 +10,23 @@ src :@tglobaleye
 
 
 src :@ClashReport
+[عکس]
+‏Trump reportedly fumed at JD Vance after the vice president declined to echo his claim that Iran’s nuclear program had been “totally obliterated,” according to a new book by Maggie Haberman and Jonathan Swan.
+‏
+‏“Everyone needs to say fucking ‘obliterated.’ … That’s the word. Everyone just needs to copy what I say. Obliterated. Obliterated,” Trump told an associate, the authors write.
+‏
+‏Vance had instead told ABC News that Iran’s nuclear program had been “set back substantially,” adding he wasn’t sure of the difference between “severely damaged” and “obliterated.”
+‏
+‏The next day, Vance repeatedly adopted Trump’s preferred wording.
+‏
+‏Source: POLITICO
+09:57
+1405/03/29
+
+
+
+
+src :@ClashReport
 ‏The US and Iran are quietly working on additional, still-unfinished agreements that would spell out how to implement a recently signed 14-point framework, including the future of Iran’s nuclear program. 
 ‏
 ‏While some details are reportedly written down, Iran has not formally approved the proposals, raising questions about how much progress has actually been made.
@@ -183,7 +200,9 @@ src :@mohem_mat
 
 
 src :@naya_foriraq
-‏🏴‍☠️جيش العدو سمح بالنشر: إصابة 17 ضابط و جندي إسرائيليين بعضهم قطع أطرافه و2 من الإصابات بجراح ميؤوس منها (موت سريري) بالإضافة لمقتل 4 جنود بينهم قائد كتيبة جراء إصابتهم بصاروخ مضاد للدروع
+‏🏴‍☠️الجنوب اللبناني يفتك بجيش الاحتلال ويكبدهم خسائر فادحة خلال ساعات قليلة
+‏
+‏جيش العدو سمح بالنشر: إصابة 17 ضابط و جندي إسرائيليين بعضهم قطع أطرافه و2 من الإصابات بجراح ميؤوس منها (موت سريري) بالإضافة لمقتل 5 جنود بينهم قائد كتيبة جراء إصابتهم بصاروخ مضاد للدروع
 09:38
 1405/03/29
 
@@ -932,15 +951,6 @@ src :@ClashReport
 ‏
 ‏Source: WSJ
 07:59
-1405/03/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏JD Vance postponed a planned trip to Switzerland for U.S.-Iran talks that were expected to start Friday.
-07:58
 1405/03/29
 
 
@@ -6434,12 +6444,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 10:02
-1405/03/28
-
-
-
-
-src :@Parvazdaroj
-‏https://t.me/Artemis_Force/11314
-10:01
 1405/03/28
