@@ -1216,18 +1216,6 @@ src :@IranintlTV
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️توری پنسو، بروک مایو و کاترین نسبیت، سه داور زن آمریکایی، با قضاوت دیدار جمهوری چک و آفریقای جنوبی در جام جهانی ۲۰۲۶، به نخستین تیم داوری کاملا آمریکایی و زن در تاریخ جام جهانی مردان تبدیل شدند.
-‏به گزارش واشنگتن پست، این دومین بار در تاریخ جام جهانی مردان است که یک تیم داوری کاملا متشکل از زنان قضاوت یک مسابقه را بر عهده می‌گیرد. این سه داور پیش‌تر نیز فینال جام جهانی زنان میان انگلیس و اسپانیا را قضاوت کرده بودند.
-‏
-‏@indypersian
-02:14
-1405/03/29
-
-
-
-
 src :@Mena_Live
 ‏The Israeli military has launched a ground operation in southern Lebanon to capture the Ali Al-Taher Hill (Ali Taher Ridge), a strategic point near Kafr Tibnit and the Beaufort outpost, rising to 697 meters. It separates the Litani River from Nabatiye City, southern Lebanon’s second largest city.
 ‏
