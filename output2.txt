@@ -1,5 +1,39 @@
 src :@P_raetorio
 [عکس]
+‏حمله به دره بقاع
+‏
+‏@P_raetorio
+11:20
+1405/03/29
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Footage of an Israeli airstrike which targeted the town of Ain Bourday, eastern Lebanon.
+‏
+‏@wfwitness
+11:20
+1405/03/29
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴شبکه X تیک آبی معاون عراقچی، کاظم غریب‌آبادی را حذف کرد
+‏
+‏✍🏻 Hector
+‏▪️@World_Newsly
+11:20
+1405/03/29
+
+
+
+
+src :@P_raetorio
+[عکس]
 ‏تانک‌های اسرائیلی در روستای حداثا جنوب لبنان
 ‏
 ‏@P_raetorio
@@ -1251,16 +1285,6 @@ src :@ClashReport
 
 
 
-src :@P_raetorio
-‏منابع لبنانی می‌گویند ستون‌های زرهی اسرائیلی در حال پیشروی در جبهه نبطیه هستند و درگیری‌ها سنگینی گزارش می‌شود.
-‏
-‏@P_raetorio
-09:49
-1405/03/29
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻پائولو الکساندر آراوخو، یکی از اعضای کادر پزشکی تیم فوتبال ایران به نیویورک تایمز گفته است که تیم ملی هنگام خروج از آمریکا بارها بازرسی شده و به همین دلیل پرواز با سه ساعت تاخیر انجام شده است.
@@ -1374,19 +1398,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 09:37
-1405/03/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released their second statement regarding combating Israeli forces in southern Lebanon:
-‏
-‏In defense of Lebanon and its people, and based our legitimate right to resist liberate our land, and in response to the Israeli enemy's violation of the ceasefire, and after the deadly ambush set by the our fighters for a force from the Israeli army as it attempted to circumvent and infiltrate towards the northern side of the Ali al-Tahir elevation via a non- visible route, a second Israeli force attempted to advance to retrieve the dead and wounded under heavy smoke cover, concurrently with the firing of dozens of flare bombs towards the area. We targeted them with a barrage of rockets and mortar shells and inflicted confirmed casualties.
-‏
-‏@wfwitness
-09:34
 1405/03/29
 
 
@@ -2122,32 +2133,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 07:18
-1405/03/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱Israeli airstrikes on southern Lebanon this Friday morning continue as residents in Al Charqiyeh awake to smoke columns. 
-‏
-‏@wfwitness
-07:15
-1405/03/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇹🇭 Six border police officers were injured, two of them seriously, after a roadside bomb targeted a teacher protection unit in Yala Province, southern Thailand, on Friday morning.
-‏
-‏The attack occurred in Than To district while the unit was operating in the area. Authorities have launched an investigation to identify those responsible.
-‏
-‏Southern Thailand has long faced an ongoing insurgency by separatist militant groups and drug cartels.
-‏
-‏@wfwitness
-07:14
 1405/03/29
 
 
@@ -5806,23 +5791,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐃𝐆𝐑
 16:04
-1405/03/28
-
-
-
-
-src :@intelslava
-‏Intel Slava pinned «🇺🇸🇮🇷⚡️ — POLL: With the US-Iran MoU now signed, what do you think happens next?
-‏»
-15:58
-1405/03/28
-
-
-
-
-src :@intelslava
-[نظرسنجی]
-15:58
 1405/03/28
 
 
