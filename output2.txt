@@ -1,3 +1,29 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇱🇮🇷🇺🇸🇱🇧 The Washington Post: U.S. Intelligence agencies have warned the Trump administration that Israeli Prime Minister Benjamin Netanyahu may undermine President Donald Trump’s effort to reach a lasting peace deal with Iran. 
+‏
+‏This warning comes as Netanyahu faces intense political pressure to continue a military campaign in Lebanon, according to current and former U.S. officials.
+‏
+‏@wfwitness
+19:51
+1405/03/29
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — White House officials have delayed for months the release of an Office of the Director of National Intelligence report that identifies security vulnerabilities in U.S. voting machines ahead of the November midterms, according to Reuters.
+‏
+‏➡️ The report concludes that many states use outdated systems and recommends measures such as software updates to strengthen election security. However, all sources familiar with the report said they were unaware of any evidence that the vulnerabilities had been used to manipulate votes or alter election outcomes.
+‏
+‏➡️ It remains unclear whether it will be released.
+19:48
+1405/03/29
+
+
+
+
 src :@mwarmonitor
 ‏📌آمیت سیگال خبرنگار و تحلیلگر سیاسی کانال ۱۲ اسرائیل 
 ‏
@@ -53,7 +79,7 @@ src :@Farsi_Iranwire
 
 src :@Indypersian
 [عکس]
-‏♦️ سید عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، روز جمعه ۲۹ خرداد در گفتگو با محمد اسحاق دار، وزیر امور خارجه و معاون نخست‌وزیر پاکستان، آخرین تحولات دیپلماتیک پس از امضای یادداشت تفاهم اخیر را بررسی کرد.
+‏♦️ عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، روز جمعه ۲۹ خرداد در گفتگو با محمد اسحاق دار، وزیر امور خارجه و معاون نخست‌وزیر پاکستان، آخرین تحولات دیپلماتیک پس از امضای یادداشت تفاهم اخیر را بررسی کرد.
 ‏
 ‏عراقچی در این تماس تلفنی از تلاش‌های پاکستان در روند مذاکرات دیپلماتیک که منجر به شکل‌گیری این تفاهم‌نامه شد، قدردانی کرد. او در ادامه با اشاره به تعهد و مسئولیت مستقیم واشنگتن در قبال پایان دادن به جنگ در تمامی جبهه‌ها، به‌ویژه در لبنان، هشدار داد: «هرگونه نقض تعهدات مندرج در این یادداشت تفاهم متوجه آمریکا خواهد بود.» 
 ‏
@@ -1976,19 +2002,6 @@ src :@tabzlive
 
 
 
-src :@ClashReport
-[عکس]
-‏According to Regime Change, Defense Secretary Pete Hegseth regularly showed Trump graphic footage of drone strikes and their aftermath.
-‏
-‏One official quoted in the book reportedly referred to the videos as "Hegseth's snuff films."
-‏
-‏Source: NYT (reporting on Regime Change: Inside the Imperial Presidency of Donald Trump)
-18:03
-1405/03/29
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇲🇲🇰🇵🇷🇺 - Satellite imagery from the Burmese Junta's Yangon naval facilities show something quite interesting 
@@ -2187,15 +2200,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump returned to office in 2025 with a strong focus on people he believed had wronged him, according to NYT's Maggie Haberman and Jonathan Swan's "Regime Change" book.  The book recounts an episode in which Trump was trying to remember the…
-17:55
-1405/03/29
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴 نیویورک تایمز: ترامپ پس از بازگشت به قدرت به دنبال تسویه‌حساب با منتقدانش بود
@@ -2255,15 +2259,6 @@ src :@KayhanLondonChannel
 ‏
 ‏رییس‌جمهوری آمریکا در ادامه تاکید کرد: «هیچ پولی به آن‌ها داده نخواهد شد؛ حتی ۱۰ سنت.»
 17:53
-1405/03/29
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump reflected on his power by comparing himself to historical rulers including Alexander the Great, Napoleon Bonaparte, Mao Zedong, and Joseph Stalin in an interview for Maggie Haberman and Jonathan Swan's "Regime Change" book.  Trump argued…
-17:52
 1405/03/29
 
 
@@ -3889,16 +3884,6 @@ src :@P_raetorio
 ‏-افی دفرین،سخنگوی ارتش اسرائیل
 ‏
 ‏@P_raetorio
-16:55
-1405/03/29
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 IDF: We have carried out more than 150 airstrikes in Lebanon since midnight.
-‏
-‏@wfwitness
 16:55
 1405/03/29
 
