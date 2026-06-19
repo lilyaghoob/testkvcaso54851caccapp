@@ -1,3 +1,18 @@
+src :@ClashReport
+[عکس]
+‏Iran's Ghalibaf:
+‏
+‏We are at your command; the task assigned to us by the Supreme Leader is to pursue the realization of the conditions and clauses of the agreement.
+‏
+‏In the event of bad faith, breach of contract, and excessive demands by the opposing side, we have no hesitation in delivering a crushing response to the enemy.
+‏
+‏They were once slapped during the war; if they wish to tread that path again, they will receive an even harder slap.
+08:18
+1405/03/29
+
+
+
+
 src :@mohem_mat
 ‏خبرگزاری رویترز به نقل از وزارت خارجه سوئیس:
 ‏
@@ -2177,21 +2192,6 @@ src :@DEJradio
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: Cuba's government proposed its biggest economic overhaul since the 1959 revolution, seeking to revive the economy under mounting U.S. sanctions. 
-‏
-‏The plan would allow private real estate development, permit private banks, convert some state firms into share-based commercial companies, and reduce restrictions on private businesses.
-‏
-‏Prime Minister Manuel Marrero said the reforms would use market mechanisms to improve efficiency while remaining consistent with Cuba's socialist system. 
-‏
-‏The 175 proposed measures require approval by the National Assembly.
-00:45
-1405/03/29
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜اوکراین یک حمله پهپادی سنگین دیگر را آغاز کرده است.
@@ -2270,15 +2270,6 @@ src :@Farsi_Iranwire
 ‏بخوانید: https://iranwire.com/fa/news-1/153900
 ‏
 ‏@Farsi_Iranwire
-00:40
-1405/03/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Wikipedia lists the 2026 Iran War as an Iranian victory.
 00:40
 1405/03/29
 
