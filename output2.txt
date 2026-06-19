@@ -1162,35 +1162,6 @@ src :@rnintel
 
 
 
-src :@Indypersian
-‏⭕️از حمله سایبری تا کنترل نقدینگی؛ پشت پرده اختلال شش‌روزه بانک‌های ایران چیست؟
-‏
-‏
-‏📌برخی کارشناسان معتقدند محدود شدن دسترسی به حساب‌ها ممکن است با هدف جلوگیری از ورود نقدینگی به بازار ارز و طلا و مدیریت جریان پول در بازار انجام شده باشد
-‏
-‏
-‏♦️شش روز پس از آغاز اختلال گسترده در خدمات چهار بانک بزرگ ایران، میلیون‌ها مشتری بانک‌های ملی ایران، تجارت، صادرات ایران و توسعه صادرات ایران همچنان با محدودیت در دسترسی به بخشی از خدمات بانکی خود مواجه‌اند؛ بحرانی که مقام‌های جمهوری اسلامی ایران ابتدا آن را نتیجه یک «حمله سایبری محدود» توصیف کردند، اما اکنون در روایت رسمی، بیشتر به «اختلالات فنی در زیرساخت‌های پردازشی و ارتباطی» نسبت داده می‌شود.
-‏
-‏شورای هماهنگی بانک‌ها روز پنجشنبه ۲۸ خرداد با انتشار اطلاعیه‌ای جدید، بار دیگر از مشتریان این بانک‌ها عذرخواهی و اذعان کرد که بخشی از خدمات هنوز به حالت عادی بازنگشته است. این شورا اعلام کرد که اگرچه بخشی از سرویس‌ها دوباره در دسترس قرار گرفته‌اند، رفع کامل اختلال به زمان بیشتری نیاز دارد و تیم‌های فنی به صورت شبانه‌روزی در تلاش برای بازگرداندن سامانه‌ها به وضعیت پایدارند.
-‏
-‏این در حالی است که در روزهای نخست بحران، مقام‌های بانکی ایران وعده داده بودند مشکل در کوتاه‌ترین زمان ممکن برطرف خواهد شد. حتی شرکت خدمات انفورماتیک و برخی بانک‌های درگیر نیز در روزهای گذشته از بازگشت خدمات به وضعیت عادی خبر دادند، اما این ادعا نیز با گزارش‌های کاربران و رسانه‌های داخلی همخوانی نداشت.
-‏
-‏اختلال از بامداد شنبه ۲۳ خرداد آغاز شد و مشتریان بانک‌های ملی ایران، تجارت، صادرات ایران و توسعه صادرات ایران ناگهان با از کار افتادن یا اختلال در همراه‌بانک، اینترنت‌بانک، انتقال وجه، کارت‌به‌کارت و سایر خدمات غیرحضوری روبرو شدند. در بسیاری از موارد حتی مراجعه حضوری به شعب نیز نتوانست مشکل مشتریان را حل کند و در برخی شعب، صف‌های طولانی شکل گرفت.
-‏
-‏شورای هماهنگی بانک‌ها همان روز علت حادثه را یک «حمله سایبری محدود» اعلام کرد و مدعی شد هیچ‌گونه دسترسی غیرمجاز به اطلاعات مشتریان صورت نگرفته و هیچ نشت اطلاعاتی رخ نداده است، اما با گذشت شش روز از آغاز بحران، همچنان درباره ماهیت دقیق این حمله، ابعاد آن و نحوه نفوذ احتمالی توضیح روشنی منتشر نشده است.
-‏
-‏در تازه‌ترین اطلاعیه شورای هماهنگی بانک‌ها نیز به جای تمرکز بر حمله سایبری، از «اختلالات فنی در زیرساخت‌های پردازشی و ارتباطی» سخن گفته شده است. این تغییر در ادبیات رسمی، خود به پرسش‌های بیشتری دامن زده است. اگر منشا بحران یک حمله سایبری بود، چرا اکنون از مشکلات زیرساختی سخن گفته می‌شود و اگر مشکل اصلی فنی بود، چرا ابتدا روایت حمله سایبری به‌عنوان علت اصلی مطرح شد؟
-‏
-‏
-‏
-‏بیشتر بخوانید...
-‏@indypersian
-01:44
-1405/03/29
-
-
-
-
 src :@intelslava
 [عکس]
 ‏Iran is considering acquiring second-hand J-10B multirole fighters from the Chinese People’s Liberation Army Air Force (PLAAF). Nothing is confirmed yet.
@@ -6416,38 +6387,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 06:42
-1405/03/28
-
-
-
-
-src :@Shin_Persian
-‏Shehbaz Sharif ✓ @CMShehbaz
-‏Thu, 18 Jun 2026 00:27:27 UTC
-‏
-‏I am honoured to announce that the historic ‘Islamabad Memorandum of Understanding’ has been electronically signed today between the United States of America and the Islamic Republic of Iran. The Memorandum has been signed by honourable Presidents of both the countries and also endorsed by me as the mediator. The signing of this agreement at the highest level of the respective governments demonstrates the commitment of both sides to a diplomatic resolution of the conflict. Islamabad MoU shall enter into force with immediate effect and as a first step, Islamic Republic of Iran will instantly reopen the Strait of Hormuz and the United States of America will immediately lift the naval blockade.
-‏
-‏I offer my heartfelt congratulations and sincere appreciation to the President of the United States, Donald J. Trump whose steadfast commitment to diplomacy and preference for peaceful resolution have once again helped end a conflict that could have led to devastating consequences for the region and beyond. I also commend the dedication and tireless efforts of the United States negotiating team, including J.D. Vance, Steve Witkoff and Jared Kushner, for their invaluable contributions to this achievement.
-‏
-‏I express my profound respect and appreciation to His Eminence Ayatollah Seyyed Mojtaba Hosseini Khamenei, the Supreme Leader of Islamic Republic of Iran and President Masoud Pezeshkian for their wisdom, foresight and statesmanship in embracing the cause of peace. I also wish to recognize the efforts of the Iranian negotiating team, including Mohammad Bagher Ghalibaf, Abbas Araghchi and Eskandar Momeni, whose patience, perseverance and commitment to constructive engagement were instrumental in bringing this agreement to fruition.
-‏
-‏I would especially like to acknowledge the sincere efforts and constructive engagement of the leadership of the State of Qatar in helping reach this point. I also highly commend the leadership of the Kingdom of Saudi Arabia, the Republic of Türkiye and the Arab Republic of Egypt for their indispensable role and invaluable contributions in this regard.  
-‏
-‏I would also like to make special mention of Field Marshal Syed Asim Munir, whose tireless efforts, selfless dedication and instrumental role were critical in facilitating this breakthrough and advancing the cause of peace and regional stability.
-‏
-‏May this Memorandum of Understanding serve as an enduring foundation for greater understanding, mutual respect and shared prosperity for the complete region. 
-‏
-‏@realDonaldTrump
-‏@JDVance
-‏@SecRubio
-‏@SteveWitkoff
-‏@SEPeaceMissions
-‏@drpezeshkian
-‏@mb_ghalibaf
-‏@araghchi
-‏
-‏ترجمه خودکار فارسی در بخش نظرات
-‏
-‏𝕏  ·  @shin_persian
-06:34
 1405/03/28
