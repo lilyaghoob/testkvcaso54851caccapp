@@ -3908,16 +3908,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — CENTCOM Commander Admiral Brad Cooper: 
-‏I could not be prouder of our 15,000 men and women in uniform who supported the blockade over the past two months. Their dedication and professionalism were on full display every day, ensuring strict enforcement while still supporting humanitarian aid flow. There is no mission too great for our warfighters who make up the most powerful military the world has ever known.
-19:39
-1405/03/29
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴خبر فوری
 ‏
