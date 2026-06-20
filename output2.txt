@@ -1,3 +1,55 @@
+src :@wfwitness
+[عکس]
+‏⚡🇫🇷🇷🇺🇺🇦 Someone got bored last night and decided to project the now iconic FP-2 targeting display on the Russian ambassy in Paris.
+‏
+‏@wfwitness
+13:31
+1405/03/30
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🛑«هر کسی به‌جز جی‌دی ونس.»
+‏
+‏✍🏻 Fadi
+‏▪️@World_Newsly
+13:30
+1405/03/30
+
+
+
+
+src :@cataphract1
+‏⚜منابع شبکه «الحدث»:
+‏«هیئت مذاکره‌کننده ایران تهدید کرده است که در صورت ادامه حملات اسرائیل به لبنان، از مذاکرات کناره‌گیری خواهد کرد.»
+‏✒️#LT
+‏📃@Cataphract1
+13:30
+1405/03/30
+
+
+
+
+src :@naya_foriraq
+‏📰نيويورك تايمز عن مصادر: مسؤولون غربيون طالبوا نتنياهو بوقف مهاجمة لبنان كي لا تبرر إيران انسحابها من التفاوض.
+13:29
+1405/03/30
+
+
+
+
+src :@cataphract1
+‏⚜گزارش شده جنگنده های اسرائیلی در حال حمله به سمحر،یحمر در دره بقاع،نبطیه،زبدین هستند.
+‏✒️#LT
+‏📃@Cataphract1
+13:28
+1405/03/30
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️ترامپ: ایرانی ها اگر در طول ۶۰ روز توافق را امضا نکنند انها را بمباران خواهم کرد!
 ‏
@@ -945,14 +997,6 @@ src :@World_Newsly
 src :@Exciton_missile_program
 ‏توانمندی ساخت سلاح هسته‌ای به معنی بازدارندگی هسته‌ای نیست. شوروی و آمریکا 30-40 هزار کلاهک اتمی ساختند،انواع ادوات تحویل سلاح اتمی و پدافند را با جزئیات تمام توسعه دادند. اگر توانمندی صرف کار میکرد آن همه زحمت لازم نبود. کسانی هم که فکر میکنند اتمی شدن چوب…
 12:16
-1405/03/30
-
-
-
-
-src :@World_Newsly
-‏⭕ درود به تمام وطن پرستان و کسانی که قلب روحشان امیخته با عشق به ایران و تاریخ ایران است ، اخیرا خبرهایی از نهایی شدن روند تامین جنگنده‌های سوخو 35 امده است که اگر روس ها بد قولی نکند احتمالا یک یا دو سال دیگر اولین اسکادران از این جنگنده ها باند پایگاه سوم…
-12:14
 1405/03/30
 
 
@@ -3307,16 +3351,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇧🇭🇸🇦🇦🇪🇰🇼🇶🇦🇴🇲 Axios: U.S. Secretary of State Marco Rubio is expected to hold a summit with Gulf Cooperation Council foreign ministers in Bahrain next week.
-‏
-‏@wfwitness
-01:22
-1405/03/30
-
-
-
-
 src :@mwarmonitor
 ‏🔹مجری فاکس نیوز:
 ‏«اکنون مارک لوین، مجری برنامه "زندگی، آزادی و لوین" به ما می‌پیوندد. مارک، خیلی عالیه که امروز همراه ما هستی.»
@@ -3363,21 +3397,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 01:02
-1405/03/30
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇩🇪🇬🇧 Militarnyi: German defence-tech company STARK has demonstrated the launch of its Cascade loitering munition from its Vanta uncrewed surface vessel, confirming cross-domain deployment capability.
-‏
-‏Cascade has a range of 40–100 km, a 4.5 kg payload, and a launch-to-ready time of under one minute. 
-‏
-‏STARK has partnered with UK firm Force Development Services to develop a six-cell launcher for land and naval platforms.
-‏
-‏@wfwitness
-00:52
 1405/03/30
 
 
@@ -3452,14 +3471,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:50
-1405/03/30
-
-
-
-
-src :@naya_foriraq
-‏🌟🌟اشتباكات ضارية تدور بين مقاتلي حزب الله وقوات الاحتلال الإسرائيلي التي تحاول التقدم واحتلال تلة علي الطاهر جنوبي لبنان.
-00:43
 1405/03/30
 
 
@@ -5656,28 +5667,6 @@ src :@DEJradio
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 ترامپ در جواب رهبر ایران: ایران از سر استیصال پای میز مذاکره آمده نه ما؛ د این مدت حتی ده سنت هم دریافت نخواهد کرد
-‏
-‏🔹 دونالد ترامپ با اشاره به روند مذاکرات با ایران مدعی شد: «ما از روی استیصال مذاکره نکردیم، این ایران بود که چنین کرد.»
-‏
-‏🔹 رئیس‌جمهور آمریکا همچنین با لحنی تند افزود: آن‌ها تمام شده‌اند؛ همه چیزشان نابود شده. ۶۰ روز را پیش خواهیم برد و هیچ پولی دریافت نخواهند کرد؛ حتی ده سنت.
-‏
-‏🔹 این اظهارات در حالی مطرح می‌شود که دولت آمریکا تأکید کرده هرگونه آزادسازی دارایی‌های مسدودشده یا کاهش تحریم‌ها منوط به اجرای تعهدات احتمالی ایران در چارچوب توافقات آینده خواهد بود. 
-‏
-‏#آمریکا
-‏#ایران
-‏#ترامپ
-‏#مذاکرات
-‏
-‏@RASTAKHIZ_PERSIAN
-16:27
-1405/03/29
-
-
-
-
 src :@GeoPWatch
 ‏#BREAKING
 ‏🇱🇧🇮🇱- A senior US official told Reuters that Israel and Hezbollah have agreed to a ceasefire, set to take effect at 4:00 PM local time today, around 5 minutes from now.
@@ -6026,18 +6015,6 @@ src :@GeoPWatch
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🔶 شهر شیعه نشین نبطیه در شمال رود لیتانی و در فاصله حدودا ۳۰ کیلومتری از مرزهای اسرائیل به علت حملات شدید هوایی و زمینی IDF در حال تخلیه است و احتمال سقوط آن می رود
-‏
-‏#لبنان
-‏
-‏@RASTAKHIZ_PERSIAN
-14:50
-1405/03/29
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The Iranian Islamic Revolutionary Guard Corps Navy issued a statement announcing the closure of the Strait of Hormuz, following the clashes between Israel and Hezbollah in Lebanon:
@@ -6249,17 +6226,4 @@ src :@BellumActaNews
 src :@BellumActaNews
 ‏🌲 - 🇱🇧🇮🇱 Three people were killed in an airstrike on a farm in Jamaliyeh, north of Baalbek.
 13:45
-1405/03/29
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏من وقتی فیلم با زیرنویس می بینم:
-‏
-‏#FUN
-‏➖➖➖➖➖➖➖
-‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
-13:28
 1405/03/29
