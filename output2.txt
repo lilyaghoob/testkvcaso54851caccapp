@@ -1,3 +1,14 @@
+src :@guard_warriors
+[عکس]
+‏✪ حملات شدید اسرائیل به جنوب لبنان ادامه دارد.
+‏
+‏@Guard_Warriors | Mmd
+10:35
+1405/03/30
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴  میدل ایست آی:  هوش مصنوعی گروک در انتخاب و شناسایی اهداف در ایران من‌جمله مدرسه میناب نقش داشته است و احتمالا دولت آمریکا حمله به مدرسه میناب را به گردن این هوش مصنوعی خواهد انداخت
@@ -1491,23 +1502,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏نورنیوز، رسانه نزدیک به شورای عالی امنیت ملی جمهوری اسلامی، در تحلیلی در مورد لغو مذاکرات جمعه تهران و واشینگتن در سوئیس، نوشت که بیش از آن‌که این موضوع را «یک شکست دیپلماتیک بدانیم، باید بخشی از نبردی بزرگ‌تر بر سر شکل آینده نظم منطقه‌ای تلقی کنیم.»
-‏
-‏این سایت اشاره کرد تاریخ مذاکرات بزرگ بین‌المللی نشان می‌دهد که دشوارترین مرحله، مرحله پس از دستیابی به توافقات اولیه است؛ جایی که طرف‌ها باید تعهدات کلی را به سازوکارهای اجرایی، زمان‌بندی‌های مشخص و تضمین‌های قابل سنجش تبدیل کنند.
-‏
-‏در این تحلیل آمده است: «در چنین وضعیتی، هر اختلاف برداشت یا هر تحول میدانی می‌تواند روند مذاکرات را با وقفه مواجه کند.»
-‏
-‏نور‌نیوز با اشاره به حملات اخیر اسرائیل به لبنان پیش از آغاز مذاکرات اجرایی در سوئیس افزود: «بخشی از ساختار سیاسی و امنیتی اسرائیل از هرگونه کاهش تنش میان ایران و آمریکا نگران است.»
-‏
-‏https://iranintl.com/202606201022
-04:51
-1405/03/30
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇮🇷🇶🇦 WSJ: The U.S. and Qatar are working on a plan to give Iran access to billions of dollars in frozen assets for humanitarian spending, marking one of the first financial incentives outlined in the recently negotiated U.S.-Iran agreement. 
@@ -1781,20 +1775,6 @@ src :@World_Newsly
 ‏✍🏻 exxon
 ‏▪️@World_Newsly
 02:44
-1405/03/30
-
-
-
-
-src :@ClashReport
-‏Trump envoys Steve Witkoff and Jared Kushner are heading to Switzerland for possible nuclear talks with Iran.
-‏
-‏The talks, originally planned for Friday, were delayed due to fighting between Israel and Hezbollah, and a new date has not been confirmed.
-‏
-‏Qatari Prime Minister Mohammed bin Abdulrahman Al Thani, a key mediator, is also in Switzerland.
-‏
-‏Source: Axios
-02:41
 1405/03/30
 
 
@@ -6559,14 +6539,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 10:45
-1405/03/29
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇮🇶 Iran's IRGC set up secret cells in Iraq to carry out attacks on Gulf countries that host US military bases.
-‏
-‏@BRICSNews
-10:34
 1405/03/29
