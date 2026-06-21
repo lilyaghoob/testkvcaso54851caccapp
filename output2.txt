@@ -1,3 +1,12 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — CENTCOM has published a photo of two A-10C Thunderbolt II attack aircrafts accompanied by a KC-135R/T Stratotanker aerial refueling aircraft operating within the CENTCOM area-of-responsibility.
+03:19
+1405/04/01
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، گفت آمریکا بر اساس تفاهم با جمهوری اسلامی، مسئول اقدامات اسرائیل در لبنان است و «باید پاسخگو باشد.»
@@ -1668,20 +1677,6 @@ src :@ClashReport
 
 
 
-src :@IranintlTV
-[عکس]
-‏اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، با انتشار پیامی به زبان عبری خطاب به ارتش اسرائیل هشدار داد که در صورت ادامه حضور در جنوب لبنان، با سرنوشتی مشابه عقب‌نشینی اسرائیل از این منطقه در سال ۲۰۰۰ مواجه خواهد شد.
-‏
-‏قاآنی نوشت: «اگر با پای خود از جنوب لبنان خارج نشوید، حماسه سال ۲۰۰۰ بار دیگر تکرار خواهد شد؛ همان سالی که با خفت و خواری از این سرزمین فرار کردید.»
-‏
-‏فرمانده نیروی قدس سپاه پاسداران همچنین اسرائیل را به پیامدهای ادامه حضور در جنوب لبنان تهدید کرد و افزود: «امروز نیز اگر بر تجاوز و اشغالگری اصرار ورزید، با ذلت و شکست با لگد بیرون رانده خواهید شد.»
-‏https://iranintl.com/202606217419
-00:14
-1405/04/01
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The IDF Home Front Command says it will be lifting all restrictions on communities near the Lebanon border, as the ceasefire with Hezbollah appears to hold.
@@ -1743,24 +1738,6 @@ src :@didarnews1
 src :@naya_foriraq
 ‏طرد لاعب بلجيكي بالبطاقة الحمراء بعد تدخّل عنيف على أحد لاعبي إيران.
 00:04
-1405/04/01
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇷🇨🇭⚡️ — A U.S. diplomat told Axios that talks between the U.S. and Iran in Switzerland began on Sunday morning and have continued almost nonstop in different formats.
-‏
-‏According to the diplomat, discussions focused on “deconfliction mechanisms in Lebanon and enforcing the ceasefire,” as well as the Strait of Hormuz, implementation of the memorandum of understanding, and “all elements of the nuclear deal.”
-‏
-‏The diplomat said the U.S., Iran, and the mediators discussed recent Iranian statements regarding the Strait of Hormuz and that “we made clear we want to ensure it remains fully open. We made good progress on that front.”
-‏
-‏The parties also held talks on the implementation of the MoU and how to “make sure everyone is on the same page,” while developing a framework to continue negotiations at both the political and technical levels.
-‏
-‏The official added that “all four parties seem pleased with how the talks went today,” and that “we feel this initial round of talks is setting us up for trust building going forward.”
-‏
-‏High-level political talks are expected to conclude on Monday, with technical teams likely remaining in Switzerland to continue negotiations.
-00:03
 1405/04/01
 
 
@@ -2548,15 +2525,6 @@ src :@MilitarryWorld
 
 src :@jangaavaran1390
 ‏رویترز از وقوع انفجار در دوحه، پایتخت قطر گزارش می‌دهد.
-23:25
-1405/03/31
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🌟انفجار قوي مجهول في احد المصانع بمنطقة رأس لفان الصناعية بالدوحة القطرية.
 23:25
 1405/03/31
 
