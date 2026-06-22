@@ -1170,18 +1170,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، گفت آمریکا بر اساس تفاهم با جمهوری اسلامی، مسئول اقدامات اسرائیل در لبنان است و «باید پاسخگو باشد.»
-‏
-‏او همچنین گفت: «در صورت تهدید علیه ایران، آمریکایی‌ها را پاسخگو می‌کنیم.»
-‏https://iranintl.com/202606214014
-03:14
-1405/04/01
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇨🇴🇮🇱⚡️ — Colombian President Gustavo Petro has rejected the election results, alleging that Colombia’s electoral software was compromised and claiming changes to registry servers indicate manipulation.   ➡️ He accused Israel of being behind the alleged breach…
@@ -1829,24 +1817,6 @@ src :@BellumActaNews
 ‏🟠 - Abelardo de la Espriella: 49.93% (12.268,482 votes)
 ‏🟣 - Iván Cepeda: 48.43% (11.900.791 votes)
 01:40
-1405/04/01
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇨🇴🗳 — In 23 minutes, the polling stations will close and the vote count will begin.
-01:39
-1405/04/01
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇨🇴🗳 — The polling stations have closed and we are awaiting the first results:  Votes counted: X.XX%  🟣 - Ivan Cepeda: N/A 🟠 - Abelardo de la Espriella: N/A
-01:39
 1405/04/01
 
 
