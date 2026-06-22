@@ -1,3 +1,62 @@
+src :@Artemis_Force
+[عکس]
+‏تصویری جدید از جدیدترین ناو آبی خاکی کلاس سن آنتونیو فلایت ٢  USS PITTSBURGH(LPD-31)
+‏
+‏جدیدترین LPD آمریکایی ها سرعت ساخت بسیار مناسبی حتی به نسبت شناور های فلایت ١ این کلاس داره و حقیقتا در مدت و بازه کمتری مونتاژ شده است و با توجه به روند فعلی تا پایان سال و یا حداقل اول سال آینده آب اندازی خواهد شد ( ناو مذکور در سال گذشته میلادی مونتاژ آن آغاز شده است)
+‏
+‏همچنین LPD 32 نیز در صنایع اینگالیز ( همین صنایع) در حال مونتاژ هست و LPD 30 نیز در حال تجهیز در همین صنایع, که باید شاهد الحاق آن باشیم 
+‏
+‏یک تفاوت که گفته شده بود در رابطه با فلایت ١ و ٢ کلاس سن آنتونیو وجود VLS در فلایت ٢ این سری کلاس هست
+‏
+‏
+‏@artemis_force
+14:02
+1405/04/01
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏✍🏻 adolf hitler
+‏▪️@World_Newsly
+14:01
+1405/04/01
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇨🇳 - Chinese construction of a mockup Arleigh Burke class destroyer for target practice to help missile calibration.
+14:00
+1405/04/01
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇱🇧🇱🇧 — An Israeli source told CNN: 
+‏
+‏"Israel is considering announcing symbolic withdrawals from territories in southern Lebanon.
+‏
+‏The symbolic withdrawals will include the withdrawal of some forces from areas along the Yellow Line".
+‏
+‏@TheWarReporter
+13:59
+1405/04/01
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏سفیر آمریکا در اسرائیل، مایک هاکبی:آمریکایی‌ها، چه متوجه باشند و چه نباشند، باید خدا را برای وجود ملت یهود سپاسگزار باشند
+13:58
+1405/04/01
+
+
+
+
 src :@naya_foriraq
 ‏محافظة ميسان تعلن تعطيل الدوام الرسمي يومي الثلاثاء والاربعاء
 13:55
@@ -2863,18 +2922,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 خودروی ارس-۲ و توپ ضد هوایی ZU-32-2 شوروی که در داخل ایران با نام مصباح-۱ تولید می شود
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-09:57
-1405/04/01
-
-
-
-
 src :@cataphract1
 ‏⚜بلومبرگ:
 ‏قیمت نفت همزمان با پیشرفت مذاکرات صلح میان ایران و آمریکا در سوئیس کاهش یافت.
@@ -3173,14 +3220,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐃𝐆𝐑
 09:01
-1405/04/01
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔹عراقچی: با میانجی‌گری پاکستان و قطر، گام‌های مهمی برای پایان جنگ لبنان برداشته شده؛ از جمله رفع محاصره، آزادسازی بخشی از دارایی‌های مسدودشده ایران، معافیت صادرات نفت و پتروشیمی و آغاز طرح بازسازی و توسعه.وی تأکید کرد که «حل بحران لبنان» نخستین آزمون واقعی این توافقات خواهد بود
-08:57
 1405/04/01
 
 
@@ -4182,14 +4221,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@rnintel
-‏🇶🇦⚡️- Qatar's Interior Ministry has confirmed an explosion at the Ras Laffan Gas Plant, but has not yet named a cause or identified casualties.
-23:30
-1405/03/31
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇶🇦 An image of the fire at Ras Laffan LNG Plant, Qatar  @Middle_East_Spectator
@@ -4697,18 +4728,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 22:01
-1405/03/31
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇮🇷 — Israeli PM Netanyahu: 
-‏
-‏"I think we created the conditions for the Iranian regime's fall".
-‏
-‏@TheWarReporter
-22:00
 1405/03/31
 
 
@@ -6012,17 +6031,6 @@ src :@USAMRYDATA
 
 
 
-src :@warmonitors
-[عکس]
-‏⚡#NOW U.S. and Iran launch direct negotiations in Switzerland — Axios 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-16:13
-1405/03/31
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏وزارت دفاع عربستان سعودی ساعاتی پیش به صورت رسمی قراردادی با شرکت اسپانیایی نوانتیا برای تامین سه فروند ناو آوانته 2200، مشابه یگان‌هایی که قبلاً برای نیروی دریایی سلطنتی عربستان در خدمت هستن، خریداری کرد  ساخت اولین ناو در سال جاری آغاز خواهد شد و آخرین ناو…
@@ -6126,20 +6134,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 14:14
-1405/03/31
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏✪ سرعت عجیب ساخت و ساز شناور رزمی در ژاپن
-‏
-‏رزمناو مجهز به سیستم ایجیس (ASEV) CG-191 در کارخانه کشتی‌سازی ناگاساکی میتسوبیشی هوی‌کوجو مورخه 2026/06/13
-‏
-‏رزمناو ASEV در حال ساخت، نسبت به اوایل ماه مه یک بخش به طول آن افزوده شده بود
-‏افرادی که روی بدنه کشتی مشغول کار هستند حضورشان بخش عقبی کشتی بیشتر احساس می‌شود، بخشی که محل نصب VLS عقبی است (تصویر سوم) و در حال آماده شدن است.
-‏
-‏@Guard_Warriors | Mmd
-14:01
 1405/03/31
