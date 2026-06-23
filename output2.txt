@@ -1,3 +1,55 @@
+src :@Indypersian
+[عکس]
+‏♦️مرحله گروهی جام جهانی ۲۰۲۶ آرام آرام به روزهای آخر می‌رسد و تکلیف تیم‌های صعودکننده به مرحله بعد مشخص می‌شود. بر اساس محاسبات آماری در گروه جی تیم ملی ایران با کسب یک نتیجه تساوی دیگر، با احتمال ۹۹ درصد جواز حضور در دور بعدی رقابت‌ها را کسب خواهند کرد.
+‏
+‏شاگردان امیر قلعه‌نویی  حتی در صورت شکست با اختلاف یک گل نیز همچنان شانس صعود خواهند داشت.
+‏
+‏با توجه به نتایج تیم‌های ملی ایران و بلژیک و ۲ امتیازی بودن هر دو تیم،  دیدار ایران و مصر  حساس‌ترین مسابقه یاران بیرانوند در مرحله گروهی خواهد بود. البته در صورت پیروزی بلژیک بر نیوزیلند، کار برای ایرانی‌ها بسیار سخت‌تر خواهد شد و با توجه به تغییر قوانین فیفا و امکان صعود ۸ تیم سوم برتر مرحله گروهی، قلعه‌نویی و شاگردانش باید منتظر نتایج دیگر گروه‌ها باشند.
+‏
+‏اگر تیم ملی فوتبال ایران، در یک سناریوی احتمالی، به عنوان تیم نخست گروه راهی دور بعد شود، یاران علیرضا جهان‌بخش شامگاه ۱۰ تیر باید به مصاف تیم سوم برتر گروه‌های (اِی، ای،‌اچ، آی، جی A، E، H، I، J) برود.
+‏
+‏در صورت صعود به مرحله بعد به‌عنوان تیم دوم،  حریف ایران تیم دوم گروه دی خواهد بود که در حال حاضر استرالیا بیشترین شانس را برای کسب این جایگاه دارد. دیدار احتمالی ایران در مرحله یک‌شانزدهم نهایی نیز در ورزشگاه دالاسِ ایالت تگزاس آمریکا برگزار خواهد شد.
+‏
+‏اما اگر تیم ملی به عنوان یکی از هشت تیم «برتر» سوم مرحله گروهی صعود کند، باید به مصاف تیم اول گروه بی، احتمالا کانادا یا سوئیس برود.
+‏
+‏@indypersian
+09:16
+1405/04/02
+
+
+
+
+src :@ircfspace
+[عکس]
+‏پنل V2X یک ابزار مدیریت اشتراک سبک و متن‌باز برای VLESS روی WebSocket + TLS هست، که به شما اجازه میده با دیپلوی پروژه روی سرویس‌هایی مثل Render، Railway یا DockFly، برای خودتون و خانوادتون اشتراک اختصاصی با قابلیت بروزرسانی خودکار ایجاد کنین.
+‏این پنل امکاناتی مثل مدیریت کاربران و کانفیگ‌ها، تعیین حجم و تاریخ انقضا، نمایش آمار مصرف، مدیریت IPها، اسکنر داخلی و ارسال گزارش و هشدار به تلگرام رو در اختیار شما قرار میده.
+‏
+‏👉 github.com/SulgX/SulgX-Panel
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+09:16
+1405/04/02
+
+
+
+
+src :@tglobaleye
+‏🇷🇺⚡️— Russian Deputy Prime Minister Novak has ordered the development of measures to stabilize the petroleum products market in Russia - Government of the Russian Federation
+‏
+‏● Plans include extending subsidies on gasoline and diesel imports to Russia, thus leveling the playing field for deliveries from Belarus and other countries on the Russian market;
+‏
+‏● Allowing the production of fuel with deviations from technical regulations for certain properties;
+‏
+‏● Reducing the exchange-based standard for gasoline sales from 15% to 10% of production from July 1st to September 30th, 2026, to allocate the freed-up quantities to agricultural producers and social consumers. 
+‏
+‏🇪🇺 Legion Europa | Group Chat
+09:16
+1405/04/02
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴  به گزارش رویترز دولت هند در حال گفتگو با امارات متحده عربی درباره فروش احتمالی سامانه دفاعی آکاشتیر و موشک‌های کروز فراصوت براهموس است
@@ -2473,20 +2525,6 @@ src :@mwarmonitor
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️محمدباقر قالیباف، رئیس هیئت مذاکره‌کننده، و عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، دوشنبه‌شب اول تیرماه با استقبال بدر البوسعیدی، وزیر امور خارجه عمان، وارد مسقط، پایتخت عمان، شدند.
-‏
-‏بر اساس گزارش رسانه‌های جمهوری اسلامی، قالیباف در این سفر با هیثم بن طارق، سلطان عمان، دیدار و درباره روابط دوجانبه، تحولات منطقه‌ای و نحوه اداره تنگه هرمز گفتگو خواهد کرد.
-‏این سفر در حالی انجام می‌شود که تنگه هرمز پس از مذاکرات اخیر ایران و آمریکا، به یکی از محورهای اصلی رایزنی‌های دیپلماتیک منطقه تبدیل شده است.
-‏ 
-‏@indypersian
-23:14
-1405/04/01
-
-
-
-
 src :@rnintel
 ‏🇱🇧🇮🇱 - "Since the end of February, Hezbollah has launched at least 7,285 rockets and drones at Israel," - Israeli Channel 11.
 23:14
@@ -4563,15 +4601,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@tglobaleye
-[عکس]
-‏The Joint Maritime Information Center (JMIC) has revised the threat level for the Middle East Maritime Region from Substantial to Moderate, as oil prices continue to fall and news of more progress on the U.S.-Iran talks comes in.
-17:04
-1405/04/01
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The Joint Maritime Information Center (JMIC) has revised the threat level for the Middle East Maritime Region from Substantial to Moderate, as oil prices continue to fall and news of more progress on the U.S.-Iran talks comes in.
@@ -6088,15 +6117,4 @@ src :@defence_news
 ‏
 ‏@mohem_mat
 09:29
-1405/04/01
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏صبح همگی بخیر
-‏
-‏@artemis_force
-09:15
 1405/04/01
