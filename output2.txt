@@ -1,5 +1,16 @@
 src :@ClashReport
 [عکس]
+‏South Korea says it will accept any North Korean soldiers captured by Ukraine while fighting for Russia if they choose to resettle in the South.
+‏
+‏Seoul also says it opposes repatriating North Korean POWs to Russia or North Korea against their wishes.
+09:35
+1405/04/02
+
+
+
+
+src :@ClashReport
+[عکس]
 ‏Trump’s newly appointed acting director of national intelligence, Bill Pulte, has begun firing staff at the Office of the Director of National Intelligence (ODNI) as part of a major downsizing effort.
 ‏
 ‏Pulte, who took over last week, was directed by Trump to reduce the agency’s size and return personnel to their home agencies. 
@@ -1873,25 +1884,6 @@ src :@Indypersian
 ‏♦️لیونل مسی، کاپیتان ۳۸ ساله تیم ملی آرژانتین، با به ثمر رساندن دو گل در جریان پیروزی ۲ بر صفر مقابل اتریش در دالاس، با عبور از میروسلاو کلوزه (۱۶ گل) و مارتا (۱۷ گل)، با ۱۸ گل به تنهایی به برترین گلزن تاریخ مسابقات جام جهانی تبدیل شد. مسی که در بازی اول مقابل الجزایر هت‌تریک کرده بود، در این مسابقه ابتدا یک پنالتی را از دست داد اما در ادامه با دو گل در دقایق ۳۸ و وقتهای تلف‌شده نیمه دوم، رکوردشکنی بی‌سابقه‌ای را رقم زد تا اولین بازیکن تاریخ با تجربه حضور در ۶ دوره جام جهانی، صعود مدافع عنوان قهرمانی به مرحله یک‌سی‌ودوم را قطعی کند. با این پیروزی که شمار گل‌های ملی مسی را به ۱۲۱ رساند، آرژانتین با ۶ امتیاز صدرنشین گروه J شد و پیروزی‌های پیاپی خود در این تورنمنت را از سال ۲۰۲۲ به عدد ۸ رساند تا خود را برای بازی پایانی مرحله گروهی مقابل اردن آماده کند. مسی با ثبت ۱۸ گل در ۲۸ بازی طی ۶ دوره حضور در این رقابت‌ها، نام خود را در کتاب رکوردهای رسمی فیفا جاودانه کرد.
 ‏
 ‏@IndyPersian
-00:01
-1405/04/02
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Leonardo and Baykar completed the first live K-SWARM trials at Baykar’s Çorlu test centre in Türkiye.
-‏
-‏A crewed Leonardo M-346 FA jet directly commanded an uncrewed Bayraktar KIZILELMA fighter in live flight. 
-‏
-‏The KIZILELMA autonomously taxied, took off, and joined formation, with the M-346 pilot controlling the formation via a new avionics suite. 
-‏
-‏They demonstrated autonomous formation flying, position changes, and secure real-time data links (protected by Leonardo’s GCC cyber system).
-‏
-‏This is one of the first real-world demos of a crewed jet teaming with a jet-powered uncrewed combat aircraft, advancing “loyal wingman” and swarm concepts. 
-‏
-‏It builds on the Leonardo–Baykar partnership and their LBA Systems joint venture.
 00:01
 1405/04/02
 
@@ -5094,14 +5086,6 @@ src :@thewarreporter
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US Vice President JD Vance:  "The Iranians did threaten to walk out, or at least there were social media threats that they would walk out.  They didn't walk out".  @TheWarReporter
-15:33
-1405/04/01
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇷🇺❌🇵🇦🇹🇷- A Russian drone struck the Turkish-owned, Panama-flagged cargo vessel "VICTRESS," causing a major fire that resulted in the death of one member of the nine-person crew. The deceased was subsequently identified as an Egyptian national employed as a cook on the ship.
@@ -6062,38 +6046,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐃𝐆𝐑
 09:45
-1405/04/01
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏آغاز مونتاژ یک سوخت رسان دیگر از کلاس جان لوئیس T_AO_ 213
-‏
-‏طی روز های گذشته صنایع جنرال داینامیکس مونتاژ یک نفتکش / پشتیبانی کلاس جان لوئیس رو آغاز کرده است
-‏
-‏هم اکنون در صنایع جنرال داینامیکس NASSCO ٣ ناو پشتیبانی / سوخت رسان در حال مونتاژ و برش فولاد هستن
-‏
-‏@artemis_force
-09:34
-1405/04/01
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏سیستم کنترل ورودی باید اطلاعات مختلف را دریافت کند و تصمیم بگیرد رمپ‌ها و دریچه‌ها چگونه قرار بگیرند
-‏این کار توسط بخش کنترل خودکار سیستم انجام می‌شود
-‏
-‏کنترل‌کننده ورودی هوا اطلاعات خود را از حسگرها دریافت می‌کند. حسگرها فشارهای مختلف، سرعت جریان و شرایط پروازی را اندازه‌گیری می‌کنند. این اطلاعات به واحد پردازش ارسال می‌شود تا موقعیت مناسب سطوح متحرک مشخص شود.
-‏در اینجا تفاوت اصلی یک ورودی هوای معمولی با ورودی هوای یک جنگنده پیشرفته مشخص می‌شود. در یک هواپیمای ساده، ورودی تقریباً یک کانال ثابت است، اما در اینجا ورودی مانند یک سامانه کنترل‌شونده رفتار می‌کند که دائماً خودش را با شرایط جدید تطبیق می‌دهد.
-‏هر ورودی هوا به صورت مستقل کنترل می‌شود. یعنی ورودی سمت راست و چپ مجبور نیستند همیشه دقیقاً یک حرکت داشته باشند. اگر جریان هوا در یک طرف به دلیل مانور یا زاویه پرواز متفاوت باشد، سیستم می‌تواند همان سمت را جداگانه اصلاح کند.
-‏این استقلال باعث افزایش اطمینان و عملکرد موتور می‌شود.
-‏
-‏6/
-‏
-‏@PARVAZDAROJ | 𝐃𝐆𝐑
-09:33
 1405/04/01
