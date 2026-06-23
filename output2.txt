@@ -1,3 +1,29 @@
+src :@mohem_mat
+‏فرماندار مشهد: 
+‏
+‏پیش‌بینی حضور ۱۵ میلیون نفر در مراسم تشییع رهبر شهید در مشهد 
+‏
+‏برای ۱.۵ میلیون نفر اسکان تجهیز کرده‌ایم که برای افزایش این مقدار هم آمادگی داریم.
+‏
+‏@mohem_mat
+08:17
+1405/04/02
+
+
+
+
+src :@wfwitness
+‏⚡️🇹🇭🇰🇭 Thailand’s Air Force says they conducted recent late-night F-16 flights near the Cambodian border as part of routine training exercises to maintain combat readiness. 
+‏
+‏The Air Force said the sorties remained within Thai airspace and were not linked to ongoing border tensions.
+‏
+‏@wfwitness
+08:12
+1405/04/02
+
+
+
+
 src :@ircfspace
 [عکس]
 ‏ابزار Config Converter یک وب‌اپلیکیشن متن‌باز هست، که ۳ ابزار پرکاربرد مبدل V2Ray، مبدل WireGuard و مبدل Clash/Sing-box رو در یک محیط یکپارچه گردآوری کرده. 
@@ -55,7 +81,7 @@ src :@World_Newsly
 
 
 src :@tabzlive
-‏🇹🇭🇰🇭⚡️ — Thai Royal Air Force F-16A Fighting Falcon fighter jets went airborne at midnight last night as part of a training exercise to deter Cambodia, following reports of irregular Cambodian military movements and positioning near the Thai-Cambodian border involving mine-laying, building bunkers, and trench-digging.
+‏🇹🇭🇰🇭⚡️ — Thai Royal Air Force F-16A Fighting Falcon fighter jets went airborne at midnight last night as part of a training exercise, following reports of irregular Cambodian military movements and positioning near the Thai-Cambodian border involving mine-laying, building bunkers, and trench-digging.
 08:06
 1405/04/02
 
@@ -2579,18 +2605,6 @@ src :@thewarreporter
 
 
 
-src :@mohem_mat
-‏خبرنگار: دیروز لحظه‌ای بود که عراقچی وارد اتاق شد و به شما سلام نکرد. دست ندادید و سپس از اتاق خارج شد. آیا احساس بی‌احترامی کردید؟
-‏
-‏جِی‌دی ونس: نه... باور کنید، من در چند ماه گذشته زمان زیادی را با ایرانی‌ها گذرانده‌ام. گاهی اوقات آن‌ها را به عنوان مذاکره‌کننده بسیار عجیب میبینم 
-‏
-‏@mohem_mat
-22:17
-1405/04/01
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 بریتانیا و بحران رهبری؛ هفت نخست‌وزیر، هفت خروج ناتمام
@@ -4210,19 +4224,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 17:30
-1405/04/01
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 The US Treasury Department has issued a 60-day general licence, valid through 21 August 2026, authorising the production, delivery and sale of Iranian-origin crude oil, petroleum products and petrochemicals.
-‏
-‏The licence is one of the key implementation measures outlined under the US-Iran memorandum of understanding and provides temporary sanctions relief for Iran’s energy sector while negotiations on a final agreement continue.
-‏
-‏@wfwitness
-17:27
 1405/04/01
 
 
@@ -6020,14 +6021,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐃𝐆𝐑
 09:01
-1405/04/01
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran demands access to frozen assets and the right to export oil before final agreement negotiations.
-‏
-‏@BRICSNews
-08:13
 1405/04/01
