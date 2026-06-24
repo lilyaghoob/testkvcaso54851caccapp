@@ -1,3 +1,19 @@
+src :@rnintel
+‏🇻🇪⚡️- BREAKING: A 7.1 magnitude earthquake has occurred east of Caracas, Venezuela.
+02:21
+1405/04/04
+
+
+
+
+src :@rnintel
+‏🇻🇪⚡️- BREAKING: A 7.1 magnitude earthquake has occurred east of Caracas, Venezuela.
+02:20
+1405/04/04
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏فصل چهارم  
 ‏حساسیت و ایمنی مواد منفجره
@@ -847,36 +863,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah has released a statement regarding recent Israeli ceasefire violations:
-‏
-‏For the second time in less than 48 hours, the Israeli army deliberately targeted Lebanese citizens who were inspecting their homes in Kfar Roumman, claiming that they posed a threat to its forces.
-‏
-‏The treacherous attack, carried out at 16:30 with a missile strike from an Israeli drone, resulted in the deaths of two civilians who were directly targeted.
-‏
-‏Hezbollah reiterates that Israeli actions constitute blatant ceasefire violations which we have adhered to thus far, and that we are monitoring and documenting these violations.
-‏
-‏@wfwitness
-00:11
-1405/04/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇹🇷🇪🇺🇺🇸 Fox News: Turkish authorities detained 209 people, including alleged ISIS militants and far-left DHKP-C members, in sweeping anti-terror raids ahead of the July NATO summit in Ankara, which President Trump is expected to attend.
-‏
-‏Ankara has also banned all public demonstrations from June 28 through the end of the summit.
-‏
-‏@wfwitness
-00:11
-1405/04/04
-
-
-
-
 src :@World_Newsly
 ‏🔴 ترامپ: برای خوشحال کردن اردوغان کاری انجام خواهم داد
 ‏
@@ -957,16 +943,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 00:02
-1405/04/04
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli artillery bombardment targeted the towns Kounine and Beit Yahoun, southern Lebanon.
-‏
-‏@wfwitness
-00:00
 1405/04/04
 
 
@@ -1179,19 +1155,6 @@ src :@militaryinpersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 Fox News: The Trump administration is seeking $672 million within its $80 billion supplemental funding package to eliminate Iran’s nuclear materials, fund IAEA inspections, and expand counterproliferation efforts in the Middle East.
-‏
-‏The request comes as U.S. and Iranian negotiators continue talks in Switzerland to finalize the June 17 MoU, with the fate of Iran’s stockpile of near-weapons-grade enriched uranium still unresolved.
-‏
-‏@wfwitness
-23:35
-1405/04/03
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴 خبری که امروز مثل بمب تو عراق ترکیده ؛ علی حمود مدیر شرکت نفت عراق با منشی 30 سال از خودش کوچیک تو اتاق محل کارش ارتباط برقرار کرده اما یادشون رفته دوربین دولتی فعال بوده و همه چیزو ظبط کرده و الان کل تصاویرشون تو عراق پخش شده...
@@ -1377,21 +1340,6 @@ src :@BellumActaNews
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
-23:20
-1405/04/03
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇺🇸🇹🇷 Reuters: The Trump administration plans to move forward with the sale of dozens of General Electric jet engines to Turkey ahead of next month’s NATO summit despite objections raised during the U.S. congressional review process.
-‏
-‏The engines, valued at more than $700 million, are expected to power Turkey’s indigenous KAAN fighter aircraft programme.
-‏
-‏The move is seen as a significant gesture towards Ankara as the two NATO allies seek to improve defence ties, although broader disputes over Turkey’s Russian-made S-400 air defence system and its exclusion from the F-35 programme remain unresolved.
-‏
-‏@wfwitness
 23:20
 1405/04/03
 
@@ -3646,15 +3594,6 @@ src :@Artemis_Force
 
 
 
-src :@selena_updates
-[عکس]
-‏Israeli Givati Reconnaissance soldiers eliminated two armed Hezbollah terrorists in the Ali Taher ridge area this morning who were deemed to pose a threat to troops operating in the Israeli-controlled security zone in southern Lebanon.
-15:56
-1405/04/03
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏🇺🇸🇺🇦🇷🇺⚡️— The US provided Ukraine with intelligence for attacks on the Moscow oil refinery site
@@ -3867,17 +3806,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 15:15
-1405/04/03
-
-
-
-
-src :@selena_updates
-[عکس]
-‏France has confirmed its first Ebola case linked to the current DRC outbreak, involving a doctor who recently returned from a humanitarian mission in Congo. The patient has been isolated and contact tracing is underway, while authorities say the risk to the general public remains low. 
-‏
-‏This appears to be the first confirmed case outside Africa in the current Bundibugyo Ebola outbreak, which has spread rapidly in the DRC and Uganda and has already caused hundreds of deaths.
-15:14
 1405/04/03
 
 
@@ -4176,27 +4104,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@selena_updates
-[عکس]
-‏There are 4 demands Israel presented during the 5th round of negotiations with Lebanon, which opened yesterday in Washington:
-‏
-‏● The Lebanese Army would assume control of the Ali al-Taher Ridge, expel the Hezbollah terrorists from the area, and dismantle all Hezbollah infrastructure there under American supervision. Once these steps are completed, the IDF would withdraw from the villages of Tebnine and Zawtar.
-‏
-‏● The return of the remains of Israeli navigator Ron Arad in exchange for Hezbollah prisoners currently held in Israel.
-‏
-‏● Israel would maintain its presence in the security zone, with no Lebanese access permitted - neither for civilians nor for Lebanese military personnel.
-‏
-‏● Direct communication between the IDF and the Lebanese Army would be established, without intermediaries, namely, bypassing UNIFIL.
-‏
-‏Israel is insisting not only on Hezbollah’s removal from southern Lebanon, but also on maintaining long-term security arrangements and establishing direct military coordination with the Lebanese Army.
-‏
-‏Additionally, Lebanese army units deployed to areas that Israel would transfer to them would undergo U.S.-supervised training and vetting to ensure they have no links to Hezbollah. The plan is to create Hezbollah-free zones under Lebanese army control, and eventually the enabling of a phased Israeli withdrawal.
-14:15
-1405/04/03
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏💫 پنل‌های خورشیدی «سایوز ام‌اس-۲۹» بررسی شدند
@@ -4259,25 +4166,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 13:51
-1405/04/03
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 میلیون‌ها آمریکایی برای دریافت خدمات دندانپزشکی ارزان‌تر به خارج سفر می‌کنند
-‏
-‏🔹خبرگزاری اکسیوس بر اساس داده‌های مؤسسه CareQuest گزارش داد، حدود ۹٫۶ میلیون بزرگسال آمریکایی تاکنون برای درمان دندان به خارج از کشور رفته‌اند. 
-‏
-‏🔹دلیل اصلی این سفرها، هزینه‌های بسیار بالای دندانپزشکی در آمریکا است؛ برای مثال، درمان ریشه که در آمریکا تا ۱۵۰۰ دلار هزینه دارد، در کشورهایی مانند مکزیک کمتر از ۳۵۰ دلار تمام می‌شود.
-‏
-‏🔹۵۸ درصد این افراد صرفه‌جویی مالی را دلیل اصلی خود اعلام کرده‌اند و این پدیده در میان گروه‌های درآمدی، تحصیلی و شغلی مختلف دیده می‌شود. 
-‏ 
-‏🔹بازار دندان‌گردشگری به سرعت در حال رشد است و پیش‌بینی می‌شود تا سال ۲۰۳۳ به ارزش بیش از ۶۵ میلیارد دلار برسد. مقاصد محبوب شامل مکزیک، تایلند و مجارستان هستند. 
-‏
-‏🆔 @Americana_ir
-13:49
 1405/04/03
 
 
@@ -4378,19 +4266,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇫🇷 🇨🇩 — France confirms its first Ebola case linked to the ongoing outbreak in the Democratic Republic of Congo.
-‏
-‏A doctor who returned from a humanitarian mission tested positive and is now in isolation. Health authorities are actively tracing contacts, with officials stating the risk to the wider European population remains low.
-‏
-‏The Global Eye | Subscribe
-13:26
-1405/04/03
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏عبدالحسین روح‌الامینی، نماینده تهران در مجلس شورای اسلامی، از نقش مستقیم مجتبی خامنه‌ای در بررسی و اصلاح تفاهم‌نامه میان جمهوری اسلامی و آمریکا خبر داد و گفت متن این توافق «۲۵ بار» میان رهبر جمهوری اسلامی و تیم مذاکره‌کننده رفت‌وبرگشت داشته است.
@@ -4456,19 +4331,6 @@ src :@rnintel
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇱🇧 🇮🇱 — Israel and Lebanon are in discussions over a U.S.-backed proposal for Israeli forces to transfer control of select areas in southern Lebanon to the Lebanese army.
-‏
-‏Under the plan, Lebanese troops would undergo U.S. training and vetting to ensure no Hezbollah ties. Israel would retain a presence in a border buffer zone. Talks are underway in Washington this week. (Source: Reuters)
-‏
-‏The Global Eye | Subscribe
-13:22
-1405/04/03
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏‏ ‏ دونالد ترامپ: حکومت ایران را در موقعیتی قرار داده‌ام که آماده تسلیم شدن است
@@ -4495,19 +4357,6 @@ src :@bricsnews
 
 
 
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇺🇸 🇪🇺 — Gen. Christopher Donahue, the last U.S. soldier to leave Afghanistan in 2021, will step down as commander of U.S. Army Europe and Africa on July 2 after 18 months in the role.
-‏
-‏His departure aligns with Defense Secretary Pete Hegseth’s efforts to reduce senior military leaders and the Pentagon’s review of U.S. force posture in Europe. Maj. Gen. Christopher Norrie will serve as acting commander in the interim.
-‏
-‏The Global Eye | Subscribe
-13:13
-1405/04/03
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏
@@ -4521,21 +4370,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/04/03/403973/
 13:12
-1405/04/03
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏Iran’s Parliament Speaker, Mohammad Bagher Ghalibaf:
-‏
-‏The policy of the Islamic Republic of Iran is based on these fundamental beliefs that the security of the region must be provided by the countries of the region themselves. No country in the region will find its security in the insecurity of others.
-‏
-‏The Iranian nation demonstrated that the era of imposing one’s will on independent nations has ended. And you witnessed how the world admired this steadfastness and victory.
-‏
-‏The Islamabad Memorandum of Understanding became a declaration of America's defeat.
-13:10
 1405/04/03
 
 
@@ -4585,17 +4419,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-13:04
-1405/04/03
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇰🇵 🇰🇷 — A North Korean soldier crossed the heavily fortified Demilitarized Zone (DMZ) and was taken into South Korean custody on Tuesday evening, according to South Korea’s Joint Chiefs of Staff (JCS).
-‏
-‏The Global Eye | Subscribe
 13:04
 1405/04/03
 
@@ -5148,22 +4971,6 @@ src :@rnintel
 ‏
 ‏Mayor Mamdani has now gone 3 for 3 in his Congressional endorsements tonight expanding the influence of the DSA further within the Democratic Party.
 05:14
-1405/04/03
-
-
-
-
-src :@rnintel
-‏🇺🇸🗽⚡️- Mamdani endorsed Claire Valdez has won the 7th Congressional District primary.
-04:54
-1405/04/03
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇱🗽⚡️- Brad Lander has unseated Representative Dan Goldman in the NY 10th Congressional District primary.
-04:51
 1405/04/03
 
 
