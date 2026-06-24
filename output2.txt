@@ -1832,17 +1832,6 @@ src :@cataphract1
 
 
 
-src :@World_Newsly
-‏🔴 برخی منابع عبری : سیستم امنیتی-نظامی اسرائیل برای بازگشت به جنگ در یمن با حوثی ها آماده می شود.
-‏
-‏✍🏻 Cybex
-‏▪️@World_Newsly
-21:19
-1405/04/03
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 تنگه‌های مهم دنیا
@@ -5270,14 +5259,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 01:08
-1405/04/03
-
-
-
-
-src :@Mena_Live
-‏After talks with SDF officials, the Syrian Ministry of Defense has tasked the 52nd Division of the new Syrian Army with assuming responsibility for protecting the Syrian-Iraqi border from the border triangle at the Al-Tanf region, extending to the Euphrates River at the town of Al-Her, and towards the Al-Hasakah governorate at the Al-Yarubiyah crossing with Iraq.
-‏
-‏@Mena_Live
-01:06
 1405/04/03
