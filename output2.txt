@@ -1,5 +1,87 @@
+src :@WAR_ROOM_NEWS
+‏فصل چهارم  
+‏حساسیت و ایمنی مواد منفجره
+‏
+‏یکی از حیاتی‌ترین مباحث در علم مواد پرانرژی، مفهوم حساسیت است. این ویژگی تعیین می‌کند که یک ماده تحت چه شرایطی و با چه مقدار انرژی خارجی تحریک شده و واکنش نشان می‌دهد.
+‏
+‏در واقع، حساسیت مرز میان یک ماده پایدار و یک ماده خطرناک را مشخص می‌کند.
+‏
+‏
+‏۱) انواع محرک‌های انفجار
+‏
+‏مواد منفجره به روش‌های مختلفی تحریک می‌شوند. هر ماده بسته به ساختار خود، به یک یا چند مورد از محرک‌های زیر حساس است:
+‏
+‏ضربه و اصطکاک: برخورد ناگهانی یا سایش دو سطح که باعث ایجاد نقاط داغ میکروسکوپی می‌شود.  
+‏حرارت: افزایش دما که انرژی جنبشی مولکول‌ها را به آستانه تجزیه می‌رساند.  
+‏تخلیه الکتریکی: جرقه یا الکتریسیته ساکن که می‌تواند در برخی مواد باعث شروع واکنش شود.  
+‏موج شوک: فشاری ناگهانی و بسیار شدید که از یک انفجار دیگر به ماده منتقل می‌شود.
+‏
+‏
+‏۲) دسته‌بندی مواد بر اساس حساسیت
+‏
+‏برای مدیریت ایمنی، مواد منفجره را به سه دسته اصلی تقسیم می‌کنند:
+‏
+‏مواد اولیه: بسیار حساس هستند و با کوچک‌ترین جرقه‌ای واکنش می‌دهند. این مواد در چاشنی‌ها برای شروع فرآیند استفاده می‌شوند.  
+‏مواد ثانویه: حساسیت متوسطی دارند. این مواد معمولاً به عنوان بوستر یا تقویت‌کننده عمل می‌کنند تا انرژی چاشنی را برای مرحله نهایی آماده کنند.  
+‏مواد ثالثیه: بسیار پایدار و کم‌حساس هستند. موادی مثل TNT در این دسته قرار می‌گیرند و برای انفجار اصلی به یک موج شوک بسیار قوی نیاز دارند.
+‏
+‏
+‏۳) زنجیره آتش
+‏
+‏ایمنی در مهندسی مهمات از طریق یک زنجیره چندمرحله‌ای تامین می‌شود. در این زنجیره، مقدار کمی از ماده اولیه (بسیار حساس) واکنشی را شروع می‌کند که باعث تحریک ماده ثانویه (تقویت‌کننده) می‌شود.
+‏
+‏در نهایت، این انرژی تقویت‌شده باعث انفجار بار اصلی که از مواد ثالثیه (کم‌حساس) تشکیل شده است، می‌گردد. این روش باعث می‌شود کل مجموعه در برابر ضربه‌های ناخواسته ایمن بماند.
+‏
+‏
+‏۴) عوامل موثر بر حساسیت ماده
+‏
+‏چرا دو ماده متفاوت رفتار می‌کنند؟ این موضوع به چند عامل علمی بستگی دارد:
+‏
+‏ساختار شیمیایی: نوع پیوندهای بین اتم‌ها و میزان پایداری مولکول.  
+‏وضعیت فیزیکی: وجود حباب‌های هوا، ترک‌های ریز یا نقص در بلورهای ماده که می‌توانند مرکز تجمع انرژی باشند.  
+‏دما و محیط: موادی که در دمای بالا قرار دارند، معمولاً حساسیت بیشتری نسبت به ضربه نشان می‌دهند.
+‏
+‏
+‏۵) رویکرد مدرن و مهمات کم‌حساس
+‏
+‏امروزه در دانش نظامی، گرایش به سمت استفاده از مهمات کم‌حساس است. هدف این است که حتی اگر یک انبار مهمات دچار آتش‌سوزی شد یا هدف اصابت مستقیم قرار گرفت، مواد منفجره داخل آن به صورت زنجیره‌ای منفجر نشوند.
+‏
+‏این کار با تغییر در فرمولاسیون و استفاده از پوشش‌های پلیمری مخصوص انجام می‌شود تا ایمنی کارکنان و محیط به حداکثر برسد.
+‏
+‏
+‏جمع‌بندی فصل چهارم
+‏
+‏در این فصل آموختیم که حساسیت، کلید کنترل انرژی در مواد منفجره است.
+‏
+‏مهم‌ترین نکات این بخش عبارتند از:
+‏
+‏- تفاوت محرک‌های فیزیکی و شیمیایی  
+‏- تقسیم‌بندی مواد به اولیه، ثانویه و ثالثیه  
+‏- اهمیت زنجیره آغازش در ایمنی  
+‏- نقش ساختار بلوری در پایداری ماده
+‏
+‏در فصل پنجم، به بررسی رفتار موج انفجار پس از خروج از ماده و نحوه اثرگذاری آن بر محیط اطراف خواهیم پرداخت.
+‏
+‏#علم_مواد #حساسیت #مواد_پرانرژی #ایمنی #فیزیک_انفجار
+02:15
+1405/04/04
+
+
+
+
 src :@wfwitness
-‏⚡️🇯🇵 A 6.9 magnitude earthquake struck Iwate Prefecture, Japan a few moments ago.
+[عکس]
+‏⚡️🇻🇪 A 7.1 magnitude earthquake struck Venezuela a few moments ago.  @wfwitness
+02:12
+1405/04/04
+
+
+
+
+src :@wfwitness
+[فایل]
+‏⚡️🇯🇵 A magnitude 6.9 earthquake has struck near the east coast of Honshu, Iwate Prefecture, Japan, at a depth of 32 km
+‏
 ‏
 ‏@wfwitness
 02:11
@@ -1344,16 +1426,6 @@ src :@mohem_mat
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇺🇸🇮🇱 The second day of the fifth round of Lebanese–Israeli negotiations in Washington has concluded.
-‏
-‏@wfwitness
-23:13
-1405/04/03
-
-
-
-
 src :@jangaavaran1390
 ‏تصاویر منتشرشده توسط تلویزیون دولتی چین (CCTV) برای نخستین بار نسخه‌ای جدید از موشک بالستیک میان‌برد دی‌اف-۲۶ را نشان می‌دهد که به باله‌های کنترلی در بخش کلاهک مجهز شده است. این ارتقا احتمالاً امکان انجام مانورهای نهایی، افزایش دقت اصابت، هدف قرار دادن اهداف متحرک و عبور مؤثرتر از سامانه‌های دفاع موشکی را فراهم می‌کند.
 ‏
@@ -2105,22 +2177,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇶🇦🇸🇦 Al Jadeed: Diplomatic sources state that the Swiss and Washington tracks have so far failed to provide any guarantees regarding an Israeli withdrawal from Lebanese territory.
-‏
-‏The sources added that current indications do not point toward a lasting de-escalation, with Israel reportedly insisting on remaining in several positions in southern Lebanon it considers strategic despite being located outside the buffer zone.
-‏
-‏International concerns persist that the current negotiation phase could amount to a temporary truce preceding renewed escalation or war in the coming months.
-‏
-‏Qatar continues contacts with various Lebanese parties, including Hezbollah, while maintaining full coordination with Saudi Arabia on the Lebanese file.
-‏
-‏@wfwitness
-20:55
-1405/04/03
-
-
-
-
 src :@cataphract1
 ‏⭕️به گزارش آکسیوس اولین روز از مذاکرات صلح میان لبنان(حزب الله) و اسرائیل بدون هیچ پیشرفتی به پایان رسید.
 ‏
@@ -2193,18 +2249,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 20:44
-1405/04/03
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇷🇮🇱 Al Jadeed: Several MPs have raised the reconstruction file in Parliament, calling for the establishment of a dedicated council and the launch of a comprehensive recovery plan for areas damaged during the war.
-‏
-‏Lawmakers also proposed pursuing legal action against both Iran and Israel through international courts, seeking compensation for the damage inflicted on Lebanon.
-‏
-‏@wfwitness
-20:43
 1405/04/03
 
 
@@ -3798,17 +3842,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:24
-1405/04/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴قیمت دلار در بازار آزاد به 163,000 هزار تومان رسید.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-15:17
 1405/04/03
 
 
