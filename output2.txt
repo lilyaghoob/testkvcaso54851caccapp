@@ -1,3 +1,19 @@
+src :@Indypersian
+[عکس]
+‏♦️ این روزها جوراب‌های سوراخ فوتبالیست‌ها در جام جهانی توجه تماشاگران را به خود جلب کرده است؛ برخی از ستاره‌های فوتبال، سوراخ‌های بزرگی را روی ساق‌بندها و جوراب‌های ورزشی خود ایجاد می‌کنند. به گزارش یو‌اس‌ای‌ تودی، این پدیده موضوع تازه‌ای نیست و از سال ۲۰۱۸ رواج یافته است. به نوشته این روزنامه، بسیاری از فوتبالیست‌ها برای راحتی بیشتر، بهبود گردش خون، کاهش فشار روی عضلات ساق پا و افزایش آزادی حرکت، بخشی از جوراب‌های خود را با قیچی سوراخ می‌کنند.
+‏
+‏ برخی بازیکنان همچنین معتقدند این کار به جلوگیری از گرفتگی عضلات و کاهش کشیدگی و خستگی عضلانی در طول مسابقات ۹۰ دقیقه‌ای کمک می‌کند. کایل واکر، مدافع پیشین تیم ملی انگلیس، نیز گفته است جوراب‌های تنگ روی عضلات ساق پایش فشار وارد می‌کردند و پس از سوراخ کردن آن‌ها این فشار کاهش یافت؛ تجربه‌ای که باعث شد این روش را ادامه دهد.
+‏
+‏ جود بلینگهم و بوکایو ساکا از انگلیس، متیو لکی از استرالیا و لروی سانه از آلمان از جمله بازیکنانی هستند که در جام جهانی از جوراب‌های سوراخ‌دار استفاده می‌کنند.
+‏
+‏
+‏@indypersian
+03:19
+1405/04/04
+
+
+
+
 src :@cataphract1
 ‏♨️ گزارشات اولیه و وحشتناک حاکی از هزاران کشته در پی زلزله 7.5 ریشتر در ونزوئلا است 
 ‏
@@ -161,15 +177,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏#علم_مواد #حساسیت #مواد_پرانرژی #ایمنی #فیزیک_انفجار
 02:15
-1405/04/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇻🇪 A 7.1 magnitude earthquake struck Venezuela a few moments ago.  @wfwitness
-02:12
 1405/04/04
 
 
@@ -2703,18 +2710,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@cataphract1
-‏⚜نتانیاهو:
-‏اکنون یک مشکل بزرگ جهانی وجود دارد. مقابله با کواد های انتحاری . و ما یک پروژه داریم به نام Manhattan که این مشکل را به طور کامل برطرف خواهد کرد.
-‏
-‏✒️#MS3
-‏📃@Cataphract1
-19:30
-1405/04/03
-
-
-
-
 src :@DEJradio
 ‏⭕️ وزیر خزانه‌داری آمریکا: بر مصرف دارایی‌های آزادشدۀ ایران توسط رژیم، نظارت می‌کنیم
 ‏
@@ -2747,19 +2742,6 @@ src :@WAR_ROOM_NEWS
 src :@mwarmonitor
 ‏🔴تردد در تنگه هرمز همچنان فعال است، اما روند بازگشت به شرایط عادی با احتیاط ادامه دارد.  ✅بر اساس داده‌های تأییدشده، عبور و مرور کشتی‌ها از تنگه هرمز در ۲۳ ژوئن پایدار بوده و ۳۱ عبور ثبت‌شده مربوط به کشتی‌های تجاری و مرتبط با انرژی گزارش شده است. طبق داده‌های…
 19:16
-1405/04/03
-
-
-
-
-src :@selena_updates
-[عکس]
-‏😔💔🕯
-‏
-‏Raed Abu Al-Qayyis, a resident of the Bedouin town of Hura in Israel’s Negev region, was killed after a structure collapsed on him during operations in the Gaza Strip. 
-‏
-‏Abu Al-Qayyis was working as a bulldozer operator alongside Israeli forces and was killed while taking part in the demolition of a mosque minaret.
-19:10
 1405/04/03
 
 
@@ -3054,17 +3036,6 @@ src :@P_raetorio
 
 
 
-src :@selena_updates
-[عکس]
-‏An Israeli drone carried out a targeted strike on a vehicle in the Dawhat Kfar Roummane area in southern Lebanon.
-‏
-‏2 Hezbollah terrorists were eliminated in the attack.
-18:21
-1405/04/03
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏🌟🌟خروقات مستمرة لوقف إطلاق النار.. غارة معادية على النبطية فوقا وقصف مدفعي صهيوني على بلدة ياطر بجنوب لبنان.
@@ -3175,37 +3146,11 @@ src :@defence_news
 
 
 
-src :@tglobaleye
-[عکس]
-‏US President Donald Trump announces he will halt negotiations if it turns out that the Iranians are collecting transit fees in Hormuz. Trump also said, again, that the released Iranian funds to be released will be used exclusively to purchase American agricultural products.
-‏
-‏Regarding the tolls, President Trump appears to be missing a key point - Iran has only suspended plans to charge transit fees in the Strait of Hormuz for the 60-day interim period. Yesterday, Iran and Oman reiterated that the strait falls within their territorial waters and said they would discuss future shipping costs and administration. The issue has not disappeared, it has merely been delayed until after a final agreement is reached.
-17:55
-1405/04/03
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇸🇾 US military kills senior ISIS leader in Syria.
 ‏
 ‏@BRICSNews
 17:51
-1405/04/03
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Iranian Deputy Foreign Minister Kazem Gharibabadi again contradicts US President Trump and clarifies:
-‏
-‏No meeting was held in Switzerland with Rafael Grossi (head of the International Atomic Energy Agency IAEA), despite his request. Furthermore, there is no plan to allow access to the attacked facilities or to the nuclear materials.
-‏
-‏These issues will be examined and decided solely within the framework of a final agreement, and only after the other side takes practical steps to remove all sanctions and more.
-‏
-‏It is not possible to advance a policy that creates a media reality and then establishes it as fact through media noise.
-17:50
 1405/04/03
 
 
@@ -3297,17 +3242,6 @@ src :@Minas_Tirith2024
 ‏ایران به ایالات متحده اطلاع داده است که برخلاف گزارش‌های جنجال‌آفرینِ فیک نیوز، هیچ‌گونه «حق عبور، هزینه بیمه، و هیچ هزینه دیگری از هیچ نوع» از کشتی‌هایی که در تنگه هرمز تردد می‌کنند، توسط ایران مطالبه یا دریافت نمی‌شود. اگر این اطلاعات نادرست باشد، مذاکرات فوراً پایان خواهد یافت!
 ‏علاوه بر این، هیچ پولی از سوی ایالات متحده به ایران داده نشده و هیچ بخشی از پول‌های خودشان نیز به آن‌ها آزاد نشده است. ما بخشی از پول آن‌ها را که کاملاً تحت کنترل ماست، برای خرید ذرت، گندم، سویا و اقلام دیگر، به کشاورزان و دامداران خودمان اختصاص خواهیم داد. ایران شدیداً به مواد غذایی نیاز دارد و ما این اقلام را منحصراً از ایالات متحده برای آن‌ها خریداری خواهیم کرد. از توجه شما به این موضوع سپاسگزارم!
 17:13
-1405/04/03
-
-
-
-
-src :@selena_updates
-[عکس]
-‏US President Donald Trump announces he will halt negotiations if it turns out that the Iranians are collecting transit fees in Hormuz. Trump also said, again, that the released Iranian funds to be released will be used exclusively to purchase American agricultural products.
-‏
-‏Regarding the tolls, President Trump appears to be missing a key point - Iran has only suspended plans to charge transit fees in the Strait of Hormuz for the 60-day interim period. Yesterday, Iran and Oman reiterated that the strait falls within their territorial waters and said they would discuss future shipping costs and administration. The issue has not disappeared, it has merely been delayed until after a final agreement is reached.
-17:10
 1405/04/03
 
 
@@ -3426,17 +3360,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 16:41
-1405/04/03
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇸🇾 🏴 — U.S. CENTCOM: Senior ISIS leader Ali Husayn al-‘Ulaywi was killed in a U.S. precision airstrike in northwest Syria on June 19.
-‏
-‏The Global Eye | Subscribe
-16:40
 1405/04/03
 
 
@@ -3566,19 +3489,6 @@ src :@Artemis_Force
 
 
 
-src :@tglobaleye
-[عکس]
-‏🇺🇸🇺🇦🇷🇺⚡️— The US provided Ukraine with intelligence for attacks on the Moscow oil refinery site
-‏
-‏According to the Financial Times, Ukrainian attacks on targets in the Russian hinterland, including attacks on military installations near Moscow and an oil refinery on the outskirts of the capital, were carried out with the support of US intelligence. The newspaper does not provide details but notes that Kyiv's Western allies have urged Washington to continue providing intelligence. 
-‏
-‏🇪🇺 Legion Europa | Group Chat
-15:48
-1405/04/03
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏• تصاویر ماهواره ایی جدید شرکت MizarVision ناو آبراهام لینکن را نشان میدهد که بیش از پیش به سواحل ایران نزدیک (150k.m~) و وارد دریای عمان شده است.
@@ -3589,17 +3499,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@RedLionCorps
 15:48
-1405/04/03
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇱 🇮🇷 🇱🇧 — The IDF struck two armed Hezbollah terrorists in the area of Ali al-Taher Ridge, north of the Litani river in southern Lebanon, IDF says.
-‏
-‏The Global Eye | Subscribe
-15:46
 1405/04/03
 
 
