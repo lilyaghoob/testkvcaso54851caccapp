@@ -1917,18 +1917,6 @@ src :@cataphract1
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — Donald Trump Jr.:
-‏Oil futures are now under $70 because of President Trump's peace deal to end the war in Iran. 
-‏
-‏Lower gas prices coming for Americans!
-19:25
-1405/04/03
-
-
-
-
 src :@mohem_mat
 ‏خرید ذرت، سویا و کنجاله‌اش به صورت تراریخته، سلامتی مردم را تهدید می‌کند.
 ‏تصمیم درستی نیست!
@@ -2713,21 +2701,6 @@ src :@naya_foriraq
 [عکس]
 ‏🌟شركة نفط البصرة توجه حقل الزبير: لمتطلبات العمل ولأستمرار حالة الظروف القاهرة في المنطقة وعدم توفر ناقلات يرجى تقليص الأنتاج والضخ ليكون الأنتاج بمقدار (300) الف برميل في اليوم اعتباراً من الساعة 12:00 مساءاً ليوم 2026 / 06 /23
 18:16
-1405/04/03
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️دفتر نخست‌وزیری پاکستان اعلام کرد که شهباز شریف روز چهارشنبه سوم تیر، تماس تلفنی از سوی شیخ محمد بن عبدالرحمن بن جاسم آل ثانی، نخست‌وزیر و وزیر امور خارجه قطر، دریافت کرده است.
-‏
-‏بر اساس بیانیه منتشرشده توسط اسلام‌آباد، دو طرف در این گفتگو درباره «تلاش‌های دیپلماتیک موفقی که منجر به امضای تاریخی یادداشت تفاهم اسلام‌آباد میان ایالات متحده و جمهوری اسلامی ایران شد»، تبادل نظر کردند.
-‏
-‏در این بیانیه آمده است: «هر دو رهبر از برگزاری دور اول گفتگوها در سطح فنی که در بورگن‌اشتوک برگزار شد، ابراز خرسندی کردند و اظهار داشتند که این روند مثبت باید ادامه یابد تا مذاکرات به موفقیت نهایی برسد.»
-‏
-‏@INDYPERSIAN
-18:14
 1405/04/03
 
 
@@ -5390,30 +5363,4 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154104
 ‏@Farsi_Iranwire
 22:38
-1405/04/02
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇳/🇮🇷 NEW: The IAEA Secretary General, Rafael Grossi, says he will soon hold talks with Iran to determine ‘dates for inspections’
-‏
-‏This comes despite Iran denying that it has agreed to IAEA inspections.
-‏
-‏@Middle_East_Spectator
-22:35
-1405/04/02
-
-
-
-
-src :@thewarreporter
-‏⚛️🇮🇷 — IAEA Director General Rafael Grossi:
-‏
-‏"Our top priority is to confirm the location of the highly enriched uranium stockpile in Iran.
-‏
-‏We have an idea of the location of the highly enriched uranium, but it's important that Iran informs us about it".
-‏
-‏@TheWarReporter
-22:34
 1405/04/02
