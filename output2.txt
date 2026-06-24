@@ -1,3 +1,63 @@
+src :@mwarmonitor
+[عکس]
+‏🔴ناو هواپیمابر USS Abraham Lincoln دیروز ۲۳ ژوئن ۲۰۲۶ در خلیج عمان، حدود ۸۸ مایل دور از ساحل بندر چابهار ایران مشاهده شد.
+‏
+‏@mwarmonitor
+18:12
+1405/04/03
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏🛑رسانه‌های لبنانی از کشته شدن دو نفر در حمله پهپاد اسرائیلی به یک خودرو در نزدیکی روستا کفر رومان در جنوب لبنان خبر دادند. همچنین ارتش اسرائیل نیز اعلام کرد طی عملیاتی جداگانه نیروهای واحد شناسایی تیپ گیواتی در منطقه علی طاهر در نزدیکی نبطیه دو عضو مسلح حزب‌الله را شناسایی کردند که به گفته این ارتش، تهدیدی برای نیروهای اسرائیلی مستقر در منطقه امنیتی بودند. در پی این شناسایی، نیروی هوایی اسرائیل آن‌ها را هدف قرار داد و هر دو کشته شدند
+‏
+‏🆔@WAR_ROOM_NEWS
+18:11
+1405/04/03
+
+
+
+
+src :@World_Newsly
+‏🔴صدای چندین انفجار در استان ادلب سوریه شنیده شد   ✍🏻 Nadershah ▪️@World_Newsly
+18:10
+1405/04/03
+
+
+
+
+src :@jangaavaran1390
+‏🔸 عاشورا
+‏
+‏سال هاست که هرکس از راه رسیده، برداشت دلخواه خود را از واقعه عاشورا ارائه کرده است و در نهایت پیامد های این واقعه را رسانده اند به اینکه: «من امام حسینم و طرف مقابل من یزید».
+‏برای اینکه این نوشته هم تبدیل به یک برداشت دل‌ به‌خواهی از این واقعه نشود، ما هیچ برداشت شخصی ارائه نمی‌کنیم فقط بیایید تاریخ این واقعه را مرور کنیم.
+‏
+‏1. معاویه به عنوان خلیفه مسلمانان می‌میرد. فرزندش یزید به عنوان خلیفه بعدی مسلمانان گماشته می‌شود.
+‏2. امام حسین این خلیفه تحمیلی را نمی‌پذیرد و حکومت او را نامشروع می‌داند.
+‏3. به دستور یزید چندین بار تلاش می‌شود که به زور از امام حسین بیعت بگیرند و حکومت یزید را قبول کنند اما ایشان نمی‌پذیرند.
+‏4. با دریافت نامه های کوفیان، ایشان به سمت کوفه راهی می‌شوند، اما سپاه کوفه در میانه راه جلویشان را می‌گیرند و در نهایت ایشان و یارانشان را در صحرای کربلا به شهادت میرسانند.
+‏
+‏قرار شد که برداشت خودمان را ارائه نکنیم و نمی‌کنیم، اما به عنوان یک فکت، آیا جز این است که واقعه عاشورا یک مسئله داخلی در حکومت اسلامی بوده است؟ در این واقعه هیچ کشور خارجی که دخالتی ندارد و آنچه هر کسی می تواند به وضوح ببیند قتل امام حسین توسط حکومت یزید برای بیعت زوری گرفتن از ایشان است.
+‏حالا چطوری می‌شود بخشی از افراطگرایان مملکت ما، هزار جور درس روابط بین‌الملل از این واقعه خارج می‌کنند اما وقتی بحث چگونگی رفتار با مخالفین داخلی حکومت می‌شود، رفتارشان از هرچیزی به یزید و ابن زیاد نزدیک تر است؟
+18:10
+1405/04/03
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇱🇱🇧 IDF: An Israeli Air Force drone struck two Hezbollah operatives in Kfar Tibnit, southern Lebanon, after they were identified near Israeli forces operating in the area.
+‏
+‏@wfwitness
+18:10
+1405/04/03
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏سازمان حقوق بشر ایران از صدور حکم اعدام برای دو برادر به نام‌های هادی و فضل‌الله نیک‌بخت خبر داده و هشدار داده است که این دو در معرض خطر اجرای حکم قرار دارند. برادر دیگر آنان، محمد نیک‌بخت، نیز با اتهام‌هایی روبه‌رو است که می‌تواند به صدور حکم اعدام منجر شود.
@@ -2285,22 +2345,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 افزایش فعالیت سوخت رسان‌های آمریکا در خلیج فارس
-‏
-‏بر اساس گزارش‌های منتشرشده از رهگیری پروازها، ۵ فروند هواپیمای سوخت رسان KC-135R و ۲ فروند KC-46A Pegasus نیروی هوایی آمریکا در منطقه خلیج فارس فعال هستند.
-‏حضور همزمان چندین هواپیمای سوخت رسان معمولا نشانه پشتیبانی از پروازهای طولانی جنگنده‌ها و هواپیماهای گشتی در منطقه است.
-‏این تحرکات در شرایطی دیده میشود که سطح فعالیت هوایی آمریکا در اطراف خلیج فارس همچنان بالا ارزیابی میشود.
-‏
-‏✍🏻 Admin
-‏▪️@World_Newsly
-14:42
-1405/04/03
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️آژانس ایمنی هوانوردی اتحادیه اروپا (EASA) روز چهارشنبه سوم تیرماه اعلام کرد که خطوط هوایی باید همچنان از حریم هوایی ایران، عراق و لبنان دوری کنند و با وجود تفاهم‌نامه پایان جنگ میان واشنگتن و تهران، در سراسر منطقه محتاط باشند، زیرا «نقض توافق» همچنان محتمل است.
@@ -3328,14 +3372,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-[عکس]
-12:30
-1405/04/03
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇰🇷🇰🇵 A North Korean soldier has crossed the heavily fortified inter-Korean border and been taken into South Korean custody in what is believed to be a defection, according to South Korea’s Joint Chiefs of Staff. 
@@ -3445,19 +3481,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@tabzlive
-[عکس]
-‏🇰🇷🇰🇵⚡️ — A North Korean soldier has been taken into South Korean custody after crossing the heavily fortified inter-Korean border in what is believed to be a defection, according to South Korea’s Joint Chiefs of Staff.
-‏
-‏➡️ The soldier was secured in the central front area on Tuesday night and is currently being questioned by authorities. 
-‏
-‏➡️ The military has not released his identity, the exact location of the crossing, or further details about how he entered South Korean territory.
-12:01
-1405/04/03
-
-
-
-
 src :@rnintel
 ‏🇰🇷🇰🇵⚡- A North Korean soldier defected to South Korea yesterday after crossing the heavily fortified Demilitarized Zone that separates the two nations.
 11:59
@@ -3499,19 +3522,6 @@ src :@thewarreporter
 ‏The plan is currently being discussed in talks taking place in Washington this week.
 ‏
 ‏— Reuters | @TheWarReporter
-11:56
-1405/04/03
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇰🇪🇺🇸⚡️ — Kenya’s Health Minister Aden Duale ordered an immediate halt to construction of a U.S.-backed Ebola quarantine facility near Nanyuki after being found guilty of contempt of court for failing to comply with orders suspending the project.
-‏
-‏➡️ The facility, intended to host Americans exposed to Ebola during the ongoing outbreak in the DRC, has sparked protests and legal challenges. Despite court orders, construction seems to continue, with additional tents, paved areas, and container-like structures appearing at the site while flights carrying medical equipment and specialist personnel continue to arrive.
-‏
-‏➡️ Justice Patricia Nyaundi Mande found Duale in contempt but discharged him without punishment, while warning against any further violations of the court's orders.
 11:56
 1405/04/03
 
@@ -3900,25 +3910,6 @@ src :@rnintel
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔹رویترز: سنای آمریکا با تصویب قطعنامه‌ای در چارچوب قانون اختیارات جنگی، تلاش کرد ادامه هرگونه عملیات نظامی علیه ایران بدون مجوز کنگره را محدود کند. دولت ترامپ این مصوبه را مغایر قانون اساسی و فاقد الزام حقوقی دانسته و کارشناسان معتقدند احتمالاً درباره اعتبار آن در دادگاه‌ها تصمیم‌گیری خواهد شد در همین حال ترامپ در واکنش به این رأی گفت: «در شرایطی که ایران تحت فشار بود، آماده امتیاز دادن شده بود و برای نخستین بار پس از دهه‌ها به آمریکا احترام می‌گذاشت، سنای آمریکا با یک رأی‌گیری بی‌موقع و بی‌معنا این پیام را به تهران فرستاد که از اقدامات من حمایت نمی‌کند. چهار سناتور جمهوری‌خواه با دموکرات‌ها همراه شدند و این تصمیم به دشمن دلگرمی داد و کار مرا دشوارتر کرد، اما در نهایت به هدفم خواهم رسید
-‏
-‏🆔@WAR_ROOM_NEWS
-10:23
-1405/04/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴 بر اساس نقشه آتش‌سوزی‌های سامانه NASA FIRMS و همچنین اظهارات فرماندار استان نیژنی نووگورود، به نظر می‌رسد شب گذشته پالایشگاه نفت کستوو در استان نیژنی نووگورود هدف اصابت پرتابه های اوکراینی قرار گرفته است.همچنین در استان اورنبورگ، تصاویر منتشرشده خسارات ناشی از حمله شبانه اوکراینی ها به «کارخانه فرآوری گاز اورنبورگ» و «کارخانه تولید هلیوم» متعلق به شرکت‌های گازپروم را نشان می‌دهد گزارش‌ها حاکی از آن است که این تأسیسات پس از حمله شب گذشته دچار آسیب شده‌اند
-10:19
-1405/04/03
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸 U.S. President Trump:
@@ -4173,19 +4164,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇰🇭🇮🇱 Cambodian Prime Minister Hun Manet met with Israeli Ambassador Alona Fisher-Kamm on Tuesday. 
-‏
-‏Both sides agreed to further strengthen bilateral relations and expand cooperation in trade, investment, agriculture, education, technology, healthcare, and water resource management.
-‏
-‏@wfwitness
-07:42
-1405/04/03
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇱🇧🇱🇧 — IDF officers told Haaretz: 
 ‏
@@ -4241,15 +4219,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 06:50
-1405/04/03
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 Reuters: The US Senate voted to approve a war powers resolution aimed at halting further US military involvement in the war with Iran without explicit authorisation from Congress, in a rare bipartisan rebuke of President Trump.  Under the 1973 War Powers…
-06:14
 1405/04/03
 
 
