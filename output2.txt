@@ -1,3 +1,88 @@
+src :@guard_warriors
+[عکس]
+‏✪ همچنین هلیکوپتر به موشک ضدتانک جدید MAST-F و مهمات دقیق دوربرد پیشرفته مجهز خواهد شد. این امکان را فراهم می‌کند که حملات را در خارج از محدوده سیستم‌های پدافند هوایی انجام دهد.
+‏
+‏تایگر Mark III بازتعریفی از نقش هلیکوپتر تهاجمی در جنگ شبکه‌محور است. جالب است که آلمان از برنامه خارج شده، اما فرانسه و اسپانیا هنوز به این پلتفرم اطمینان دارند. اولین تحویل هلیکوپترهای نوسازی شده تا پایان دهه انتظار می‌رود و عمر عملیاتی آن‌ها حداقل تا دهه ۲۰۵۰ ادامه خواهد داشت.
+‏
+‏P2/2
+‏@Guard_Warriors | Mmd
+15:21
+1405/04/04
+
+
+
+
+src :@mwarmonitor
+‏💢زمین‌لرزه‌ای به بزرگی ۵٫۵ ریشتر، شیلی را لرزاند.
+‏
+‏
+‏@mwarmonitor
+15:20
+1405/04/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iraq has warned it could consider leaving OPEC if the group does not significantly raise its oil production quota, as the country faces mounting economic pressure after disruptions to exports through the Strait of Hormuz. 
+‏
+‏While Baghdad says remaining in OPEC is its preferred option, officials argue a higher quota is essential and should reflect Iraq's production capacity. 
+‏
+‏An Iraqi exit would be a major blow to OPEC, given the country is the group's second-largest producer and a founding member.
+‏
+‏Source: Reuters
+15:19
+1405/04/04
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏همزمان با ادامه تعلیق جلسات علنی مجلس و افزایش انتقادها نسبت به کنار گذاشته شدن نمایندگان از روند تصمیم‌گیری‌های کلان، گروهی از نمایندگان و جریان‌های نزدیک به حاکمیت خواستار تصویب قوانینی شده‌اند که هرگونه تهدید علیه رهبر جمهوری اسلامی را در حکم «اعلان جنگ» تلقی کند.
+‏بخوانید: https://iranwire.com/fa/news-1/154163 
+‏
+‏@Farsi_Iranwire
+15:18
+1405/04/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Denmark's Left-Wing Government Targets Islamic Call to Prayer
+‏
+‏Denmark's immigration minister wants to ban the Islamic call to prayer, saying the country should not become a "suburb of Islamabad". It's their third attempt to make it law.
+‏
+‏READ MORE
+15:17
+1405/04/04
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏March Of Justice
+‏
+‏On June 24, the inner peace of Russia was shattered: columns of military equipment; concerned media; fear among officials; and the jubilation of the crowd. A full-scale military rebellion began in Russia.
+‏
+‏A group of soldiers and patriots from the Wagner PMC, led by Yevgeny Prigozhin, announced that they were moving toward Moscow.
+‏Their demands were simple: not the overthrow of power, but a cleansing of its ranks from those who had profited from the suffering of ordinary soldiers due to shortages of supplies for years, corruption, and complete indifference to the fate of those on the front lines.
+‏
+‏Despite the rebellion being halted near Moscow, many are reflecting on whether this act was worth it. Some see it as a betrayal during wartime, while others consider it as a necessary measure to defend the interests of simple soldiers against embezzlers in the rear, many people call it a "march of justice."
+‏
+‏However, one thing is certain — it has left a mark on Russian history.
+‏
+‏Ego Sum Ostium 😎
+15:17
+1405/04/04
+
+
+
+
 src :@naya_foriraq
 ‏‏ زلزال بقوة 5.5 درجة يضرب تشيلي
 15:16
@@ -990,19 +1075,6 @@ src :@World_Newsly
 
 
 
-src :@ClashReport
-[عکس]
-‏How Ukraine Planned to Disguise $20 Billion Nord Stream Sabotage Mission as a Porn Film
-‏
-‏A new book reveals how Ukrainian commanders devised an aquatic pornographic film cover story to disguise an undersea sabotage mission of Nord Stream pipelines.
-‏
-‏READ MORE
-13:51
-1405/04/04
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏نهادهای امنیتی کانادا، محمدرضا پاکتچیان، دانشجوی ایرانی مقطع دکتری دانشگاه کارلتون را «تهدیدی برای امنیت ملی» این کشور معرفی کردند. 
@@ -1962,19 +2034,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 11:36
-1405/04/04
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iranian intelligence official Yahya Hosseini Panjaki - the head of the Handala hacking group - has been confirmed killed in an Israeli strike during the recent war in Iran. 
-‏
-‏An IRGC-affiliated Telegram channel publicly identified Panjaki as the commander of the group, marking the first official Iranian acknowledgment of his role. 
-‏
-‏Handala has focused almost exclusively on Israeli targets, claiming responsibility for a series of high-profile cyberattacks and data breaches involving senior Israeli officials, including Naftali Bennett, Herzi Halevi, and Tzachi Braverman, making it one of Iran's most prominent cyber operations against Israel.
-11:32
 1405/04/04
 
 
@@ -4484,14 +4543,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:24
-1405/04/03
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇶🇦 US Treasury Secretary Bessent says Iranian funds will initially be released through Qatar.
-‏
-‏@BRICSNews
-15:16
 1405/04/03
