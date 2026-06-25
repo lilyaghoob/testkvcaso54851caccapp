@@ -1041,16 +1041,6 @@ src :@mwarmonitor
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | پنجشنبه ۴ تیر
-‏@iranintlTV
-19:13
-1405/04/04
-
-
-
-
 src :@mwarmonitor
 ‏🔴وزیر دفاع اسرائیل کاتس 
 ‏
