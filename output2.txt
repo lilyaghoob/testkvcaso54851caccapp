@@ -6,6 +6,52 @@ src :@World_Newsly
 
 
 
+src :@selena_updates
+[عکس]
+‏Iranian Parliament Speaker Mohammad Ghalibaf directly contradicts U.S. President Donald Trump’s statetenent according to which the to be released Iranian funds would be used exclusively to purchase American agricultural products.
+19:45
+1405/04/04
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 نیروی دریایی سپاه پاسداران یک شناور را در فاصله ۷.۵ مایل دریایی از ساحل عمان هدف قرار داده است
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+19:45
+1405/04/04
+
+
+
+
+src :@mwarmonitor
+‏📰ایران پیشنهاد داده است که با همکاری همسایگان خلیج فارس، در تنگه هرمز هزینه‌های خدماتی دریافت شود؛ برآورد می‌شود این هزینه‌ها بتواند سالانه ۴۰ میلیارد دلار درآمد برای کشورهای درگیر ایجاد کند — وال‌استریت ژورنال.
+‏
+‏@mwarmonitor
+19:43
+1405/04/04
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️لینا مندونی، وزیر فرهنگ یونان، طی مراسمی رسمی در موزه ملی باستان‌شناسی آتن، شش تندیس باستانی مصر را به عمر عامر یوسف، سفیر جمهوری عربی مصر در یونان، تحویل داد. این آثار پیش‌تر در آتن کشف و ضبط شده بودند و پس از تحقیقات گسترده مشخص شد که به‌صورت غیرقانونی از مصر خارج شده‌اند.
+‏
+‏وزیر فرهنگ یونان در این مراسم بازگرداندن این اشیا را نمادی از احترام عمیق به میراث فرهنگی ملت‌ها و اجرای عملی اصول حفاظت بین‌المللی دانست. او با تاکید بر تعهد یونان به کنوانسیون ۱۹۷۰ یونسکو، تصریح کرد که این کشور با همکاری نزدیک مقامات قضایی و اینترپل، اشیای فرهنگی را به خاستگاه تاریخی و اخلاقی‌شان بازمی‌گرداند.
+‏
+‏یونان اوایل ماه جاری نیز ۴۸ اثر باستانی شامل گلدان‌های آهکی و تندیس‌های متعلق به عصر برنز تا دوره قرون وسطی را به قبرس بازگردانده بود.
+‏
+‏@indypersian
+19:42
+1405/04/04
+
+
+
+
 src :@intelslava
 ‏Iran is ready for a preemptive operation, the head of the Army’s Strategic Research Center says.
 19:41
@@ -1285,15 +1331,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇴🇲⚡️ — A cargo vessel near Oman transiting a route not approved by the IRGC Navy in the Strait of Hormuz has been struck by a projectile.
-18:39
-1405/04/04
-
-
-
-
 src :@warmonitors
 ‏⚡️ New York prosecutors say they'll drop a rape charge against Harvey Weinstein, averting retrial; other convictions stand
 ‏
@@ -1304,29 +1341,10 @@ src :@warmonitors
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇸🇾🇭🇹⚡️ — The Supreme Court of the United States cleared the way for the Trump administration to end legal protections for hundreds of thousands of Haitian and Syrian immigrants, potentially exposing them to deportation.
-‏
-‏➡️ In a 6–3 ruling, the court allowed the administration to move forward with its plan to revoke Temporary Protected Status for approximately 350,000 Haitians and 6,000 Syrians living in the United States.
-18:38
-1405/04/04
-
-
-
-
 src :@rnintel
 [ویدئو]
 ‏🇲🇱🇷🇺⚡️- FLA-aligned sources on X report that Africa Corps conducted racially-motivated atrocities against the Tamasheq people in northern Mali. Pictures of a decapitated head centered in severed arms and legs turned into a swastika were relayed.  Rerum Novarum…
 18:38
-1405/04/04
-
-
-
-
-src :@tabzlive
-‏🇷🇺🇺🇦⚡️ — Cancellation of missile alerts in Russia. The missiles may have been misidentified, or intercepted by Russian air defenses.
-18:37
 1405/04/04
 
 
@@ -1344,21 +1362,6 @@ src :@IranintlTV
 ‏
 ‏@iranintltvsport
 18:36
-1405/04/04
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — NEW: Iran is seeking to generate billions of dollars in annual revenue by introducing charges for services in the Strait of Hormuz, as Tehran positions itself to play a greater role in managing one of the world's most important oil shipping routes, according to WSJ.
-‏
-‏➡️ Iran estimates that fees for security, safety, and environmental services in the strait could generate up to $40 billion annually for participating states. Tehran is proposing that neighboring Gulf countries join the arrangement and share in the revenue.
-‏
-‏➡️ Iran is said to be drawing comparisons to the Dardanelles, where Türkiye charges vessels a "gold franc" transit tax for passage through the international waterway.
-‏
-‏➡️ The U.S., Oman, and several Gulf states oppose the idea, arguing that international waterways such as the Strait of Hormuz should remain free of transit fees.
-18:34
 1405/04/04
 
 
@@ -2795,20 +2798,6 @@ src :@World_Newsly
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️بدر بن حمد البوسعیدی، وزیر امور خارجه عمان، روز پنجشنبه چهارم تیر، پس از دیدار با همتایان خود از کشورهای حاشیه خلیج فارس و مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که ترتیبات آینده برای مدیریت تنگه هرمز شامل اعمال هیچ‌گونه عوارض ترانزیتی نخواهد بود.
-‏
-‏این اظهارات در حالی مطرح می‌شود که پیش‌تر ایران و عمان از ایجاد یک سازوکار مشترک برای تنظیم تردد در این آبراه حیاتی خبر داده بودند و احتمال وجود «هزینه‌های مرتبط» مطرح شده بود. با این حال، دولت ترامپ با هرگونه وضع عوارض بر کشتی‌های تجاری مخالفت کرده است. مارکو روبیو در اجلاس شورای همکاری خلیج فارس در بحرین تاکید کرد: «آبراهه‌های بین‌المللی متعلق به هیچ دولت-ملتی نیست و اگر بپذیریم بابت عبور از نزدیک قلمرو دریایی، پولی دریافت شود، این رویه مانند یک بیماری واگیردار در سراسر جهان گسترش می‌یابد.»
-‏
-‏
-‏@INDYPERSIAN
-16:25
-1405/04/04
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏قالیباف:
@@ -3172,18 +3161,6 @@ src :@Middle_East_Spectator
 
 src :@intelslava
 ‏🇺🇸⚡️ — In Anchorage, no agreements were reached with Russia , only an offer was made, stated US Secretary of State Marco Rubio.  Our comrade Trump knew nothing. Enemies have infiltrated the State Department.   @Intelslava
-15:43
-1405/04/04
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴پلیس آمریکا دو نفر را با کیفی پر از موادمخدر که روی آن نوشته شده بود "قطعاً این یه کیف پر از موادمخدر نیست" دستگیر کرد
-‏
-‏✍🏻 Boss
-‏▪️@World_Newsly
 15:43
 1405/04/04
 
@@ -4941,19 +4918,6 @@ src :@didarnews1
 
 
 
-src :@mwarmonitor
-[عکس]
-‏📉کاهش قیمت نفت برنت به مرز ۷۲ دلار
-‏
-‏📊بر اساس آخرین داده‌ها قیمت نفت خام برنت با تجربه یک روند نزولی مداوم، به ۷۲.۵۶ دلار به ازای هر بشکه رسیده است. این کاهش که افت جزئی ۰.۰۲۲ درصدی را در معاملات اخیر نشان می‌دهد، حکایت از تداوم فشار فروش در بازارهای جهانی انرژی دارد.
-‏
-‏@mwarmonitor
-09:22
-1405/04/04
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴تاج: فیفا قول‌های لازم را برای بازی با مصر داد/ حضور هواداران پشتوانه ارزشمندی برای ما است
@@ -5709,12 +5673,4 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 19:55
-1405/04/03
-
-
-
-
-src :@defence_news
-‏#روزی_روزگاری | تصویری از ناوگروه ۸۶ نیروی دریایی ارتش شامل مرحوم دنا و مکران نیمه‌مرحوم در طول پیمایش به دور کره زمین که حدود ۶۵ هزار کیلومتر مسیر در مدت ۸ ماه توسط این ناوگروه طی شد و رکوردار طولانی‌ترین دریانوردی نداجا هست.  با اینکه اصولاً ناوی مثل دنا…
-19:46
 1405/04/03
