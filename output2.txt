@@ -6,6 +6,63 @@ src :@World_Newsly
 
 
 
+src :@ClashReport
+[عکس]
+‏Houthi Leader Abdul-Malik al-Houthi:
+‏
+‏We are closely monitoring developments in Somaliland and the activities of the Israeli enemy, whose aim is to gain control over the Gulf of Aden and the Bab el-Mandeb Strait and establish dominance over the Red Sea.
+‏
+‏We call on the countries bordering the Red Sea to adopt a unified position against the activities of the Israeli enemy. We will not stand idly by if it establishes a presence in Somaliland.
+‏
+‏At any time, we will initiate attacks against any presence of the Israeli enemy in Somaliland.
+18:15
+1405/04/04
+
+
+
+
+src :@World_Newsly
+‏⭕ یوسی کوهن ، رئیس سابق موساد ، جزئیات مهمی درباره عملیات 2018 اسرائیل برای نفوذ به آرشیو هسته‌ای ایران فاش کرده است.
+‏
+‏🔻به گفته کوهن ، موساد یک نمونه کامل از تأسیسات ایرانی در آفریقا ساخته و تمرینات گسترده‌ای در آنجا انجام داده است قبل از اینکه مأموران وارد تهران شوند و با اسناد هسته‌ای فرار کنند.
+‏
+‏🔻در طول این عملیات ، موساد حدود نیم تن اسناد بسیار محرمانه از آرشیو هسته‌ای مخفی ایران سرقت کرد که جزئیات پروژه مخفی آماد را آشکار ساخت.
+‏
+‏✍🏻 adolf hitler
+‏▪️@World_Newsly
+18:15
+1405/04/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iran’s Foreign Minister Abbas Araghchi:
+‏
+‏Deeply saddened by the earthquake in Venezuela. We extend our condolences to the Government and People of Venezuela, especially families of the victims, and wish a swift recovery to the injured.
+‏
+‏I.R.Iran stands in solidarity with Venezuelans and is ready to offer full assistance.
+18:14
+1405/04/04
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇻🇪⚡️ — Iran’s Foreign Minister Abbas Araghchi:
+‏Deeply saddened by the earthquake in Venezuela. 
+‏
+‏We extend our condolences to the Government and People of Venezuela, especially families of the victims, and wish a swift recovery to the injured.
+‏
+‏Iran stands in solidarity with Venezuelans and is ready to offer full assistance.
+18:13
+1405/04/04
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️ 🇻🇪 Aerial images of La Guaira show the extent of the damage along the coastline and the residential structures affected by the earthquake in the coastal region.  @wfwitness
@@ -86,7 +143,7 @@ src :@Americana_ir
 [عکس]
 ‏🔴 کانال مستقیم سپاه و سنتکام در دوحه؛ توافقی برای مدیریت تنش‌ها میان ایران و آمریکا / جی‌دی ونس در گفتگو با نشریه UnHerd:
 ‏
-‏«یکی از چیزهایی که می‌خواستیم از این مذاکرات (سوئیس) حاصل شود، ایجاد یک "کانال ارتباطی" در طرف ایرانی برای کاهش تنش و مدیریت درگیری‌ها بود. و به این هدف رسیدیم. ایرانی‌ها گفتند: "بسیار خب، ما یک نفر از سپاه پاسداران را به دوحه می‌فرستیم تا با یک نماینده از فرماندهی مرکزی ایالات متحده (سنتکام) در ارتباط باشد؛ و قرار است بخش زیادی از این اختلافات و مناقشات از همین طریق حل‌وفصل شود."»
+‏«یکی از چیزهایی که می‌خواستیم از این مذاکرات (سوئیس) حاصل شود، ایجاد یک "کانال ارتباطی" با طرف ایرانی برای کاهش تنش و مدیریت درگیری‌ها بود. و به این هدف رسیدیم. ایرانی‌ها گفتند: "بسیار خب، ما یک نفر از سپاه پاسداران را به دوحه می‌فرستیم تا با یک نماینده از فرماندهی مرکزی ایالات متحده (سنتکام) در ارتباط باشد؛ و قرار است بخش زیادی از این اختلافات و مناقشات از همین طریق حل‌وفصل شود."»
 ‏
 ‏🆔 @Americana_ir
 18:06
@@ -97,7 +154,7 @@ src :@Americana_ir
 
 src :@naya_foriraq
 [عکس]
-‏🇮🇶المعاون العسكري للمقاومة الإسلامية حركة النجباء: 
+‏🇮🇶المعاون العسكري للمقاومة الإسلامية حركة النجباء "عبدالقادر الكربلائي": 
 ‏إننا بعون الله لن نحيد عن درب المقاومة، ولن ننساق وراء تخرصات الأعداء وأوهامهم، فسلاحنا سيبقى مرفوعاً بوجههم وراياتنا خفاقة ما دام فينا عرق ينبض وسنبقى مقاومين حسينيين لن نتراجع أو نساوم إن شاء الله.
 18:05
 1405/04/04
@@ -1559,14 +1616,6 @@ src :@cataphract1
 ‏
 ‏✒️#Crash
 ‏📃@Cataphract1
-16:04
-1405/04/04
-
-
-
-
-src :@tabzlive
-‏🇫🇷🇻🇪⚡️ — French President Emmanuel Macron says a team of 85 French specialists in search-and-rescue operations are being sent to Venezuela immediately.
 16:04
 1405/04/04
 
