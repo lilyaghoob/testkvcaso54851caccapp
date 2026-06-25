@@ -641,17 +641,6 @@ src :@mohem_mat
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇻🇪 Several flights have been diverted or cancelled to and from Caracas Simón Bolívar International Airport following the earthquake.
-‏
-‏@wfwitness
-06:08
-1405/04/04
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️
