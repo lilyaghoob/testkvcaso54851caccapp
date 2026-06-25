@@ -6,9 +6,85 @@ src :@World_Newsly
 
 
 
+src :@wfwitness
+[عکس]
+‏⚡️ 🇻🇪 Aerial images of La Guaira show the extent of the damage along the coastline and the residential structures affected by the earthquake in the coastal region.  @wfwitness
+18:11
+1405/04/04
+
+
+
+
+src :@tabzlive
+‏‼️🇷🇺
+‏The Flamingo Missiles are actually Storm Shadows launched by the previously mentioned aircraft over Sumy
+18:11
+1405/04/04
+
+
+
+
+src :@didarnews1
+‏🔴منابع «العربیه»: 
+‏
+‏🔹نشست نهایی در واشینگتن میان لبنان و اسرائیل «به بن‌بست رسید».
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:09
+1405/04/04
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇺🇸 — U.S. Supreme Court Rules in Favor of Trump Administration Bid to End Deportation Protections for Syrian and Haitian Immigrants
+‏
+‏The decision allows the termination of Temporary Protected Status (TPS) designations, potentially impacting hundreds of thousands of legal residents. Official opinions and DHS implementation guidance expected soon.
+‏
+‏The Global Eye | Subscribe
+18:09
+1405/04/04
+
+
+
+
+src :@Mena_Live
+[عکس]
+‏Yemen’s Abdul Malik Al Houthi:
+‏
+‏We urge the countries bordering the Red Sea to take a common stance against the Israeli enemy's activities, and we will not stand idly by in the face of any deployment in Somalia.
+‏
+‏We will take action at any time to target any activity of the Israeli enemy in Somalia.
+‏
+‏@Mena_Live
+18:08
+1405/04/04
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 فرمانده گروه هکری  حنظله کشته شده است 
+‏
+‏🔹یک منبع اسرائیلی اعلام کرد یحیی حسینی پنجکی، فرمانده گروه هکرهای ایرانی حنظله، در جریان جنگ اخیر ایران در یک ترور هدفمند (ظاهراً اسرائیلی) کشته شد
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+18:08
+1405/04/04
+
+
+
+
 src :@Americana_ir
 [عکس]
-‏🔴 کانال مستقیم سپاه و سنتکام در دوحه؛ توافقی برای مدیریت تنش‌ها / جی‌دی ونس در گفتگو با نشریه UnHerd:
+‏🔴 کانال مستقیم سپاه و سنتکام در دوحه؛ توافقی برای مدیریت تنش‌ها میان ایران و آمریکا / جی‌دی ونس در گفتگو با نشریه UnHerd:
 ‏
 ‏«یکی از چیزهایی که می‌خواستیم از این مذاکرات (سوئیس) حاصل شود، ایجاد یک "کانال ارتباطی" در طرف ایرانی برای کاهش تنش و مدیریت درگیری‌ها بود. و به این هدف رسیدیم. ایرانی‌ها گفتند: "بسیار خب، ما یک نفر از سپاه پاسداران را به دوحه می‌فرستیم تا با یک نماینده از فرماندهی مرکزی ایالات متحده (سنتکام) در ارتباط باشد؛ و قرار است بخش زیادی از این اختلافات و مناقشات از همین طریق حل‌وفصل شود."»
 ‏
@@ -21,6 +97,7 @@ src :@Americana_ir
 
 src :@naya_foriraq
 [عکس]
+‏🇮🇶المعاون العسكري للمقاومة الإسلامية حركة النجباء: 
 ‏إننا بعون الله لن نحيد عن درب المقاومة، ولن ننساق وراء تخرصات الأعداء وأوهامهم، فسلاحنا سيبقى مرفوعاً بوجههم وراياتنا خفاقة ما دام فينا عرق ينبض وسنبقى مقاومين حسينيين لن نتراجع أو نساوم إن شاء الله.
 18:05
 1405/04/04
@@ -461,7 +538,7 @@ src :@tglobaleye
 
 
 src :@tabzlive
-‏🇺🇦❌🇷🇺 — Flamingo cruise missiles launched, flying east through Donetsk.
+‏🇺🇦❌🇷🇺 — Flamingo Storm Shadow cruise missiles launched, flying east through Donetsk.
 17:33
 1405/04/04
 
@@ -1509,14 +1586,6 @@ src :@ClashReport
 
 
 
-src :@tabzlive
-‏🇳🇱🇻🇪⚡️ — The Netherlands will ⁠send a team to Venezuela and ⁠allocate about €⁠2 million to ⁠deploy ⁠rescue workers, search dogs, and equipment.
-16:02
-1405/04/04
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏ناو هواپیمابر هسته ی نیمیتز (CVN 68) نیروی دریایی ایالات متحده آمریکا  در چارچوب عملیات  نیزه جنوبی ۲۰۲۶ در ۲۴ ژوئن از بندر مایپورت که از ۱۶ ژوئن ۲۰۲۶ در آن حضور داشت، خارج شد.
@@ -2445,18 +2514,6 @@ src :@Artemis_Force
 ‏
 ‏@RedLionCorps
 15:03
-1405/04/04
-
-
-
-
-src :@World_Newsly
-‏🔴شاهزاده رضا پهلوی: هرگز برای من پیش نیامده که برای یک پست یا مقام کاندید شوم. اما من به طور منحصر به فردی در جایگاهی هستم که می‌توانم عامل تغییر و گذار باشم.
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-15:02
 1405/04/04
 
 
@@ -3881,17 +3938,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇴🇲🇮🇷 The Royal Navy of Oman issued a Navigation Warning on June 23 for the Strait of Hormuz, establishing two temporary IMO-coordinated maritime corridors north and south of the existing Traffic Separation Scheme, with vessels to be contacted individually with their allocated transit day.
-‏
-‏@wfwitness
-10:54
-1405/04/04
-
-
-
-
 src :@militaryinpersian
 [عکس]
 ‏سوخوهایی که دردی از ایران دوا نخواهند کرد
@@ -4749,24 +4795,6 @@ src :@guard_warriors
 
 
 
-src :@didarnews1
-‏🔴 جبهه اصلاحات ایران: تخریب دیپلماسی و تشدید شکاف‌های سیاسی توان کشور را برای عبور از بحران‌ها تضعیف می‌کند
-‏
-‏جبهه اصلاحات ایران با صدور بیانیه ای ضمن قدردانی از رئیس‌جمهور و اعضای تیم مذاکره کننده بابت پیگیری سیاست تنش‌زدایی و تلاش برای صیانت از حقوق ملت و تأمین منافع کشور، هشدار داد: 
-‏
-‏تخریب دیپلماسی، تشدید شکاف‌های سیاسی و هرگونه فرصت‌سوزی در مسیر تأمین منافع ملی، می‌تواند توان کشور را برای عبور از بحران‌ها و بهره‌گیری از فرصت‌های پیش‌رو تضعیف کند و در نهایت به سود مخالفان صلح، ثبات و توسعه ایران خواهد بود.
-‏تحولات اخیر و گشایش ایجادشده در مسیر کاهش تنش‌های خارجی، بار دیگر نشان داد که عقلانیت، تدبیر و ترجیح منافع ملی بر ملاحظات جناحی، تنها راه صیانت از امنیت، ثبات و آینده ایران است. جبهه اصلاحات ایران بر این باور است که در شرایط حساس کنونی، مهم‌ترین وظیفه نیروهای سیاسی و نهادهای حاکمیتی، کمک به تثبیت صلح، رفع تهدیدهای خارجی و فراهم کردن زمینه خروج کشور از چرخه فرساینده تحریم و نااطمینانی است.
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-21:50
-1405/04/03
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏خیلی ها علت چهره نگران عراقچی رو قبل از وارد شدن به اون اتاق پرسیدن.. 
@@ -5105,19 +5133,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 18:22
-1405/04/03
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏سازمان حقوق بشر ایران از صدور حکم اعدام برای دو برادر به نام‌های هادی و فضل‌الله نیک‌بخت خبر داده و هشدار داده است که این دو در معرض خطر اجرای حکم قرار دارند. برادر دیگر آنان، محمد نیک‌بخت، نیز با اتهام‌هایی روبه‌رو است که می‌تواند به صدور حکم اعدام منجر شود.
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154132
-‏
-‏
-‏@Farsi_Iranwire
-18:08
 1405/04/03
