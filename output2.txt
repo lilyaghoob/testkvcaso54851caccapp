@@ -1,3 +1,28 @@
+src :@mamlekate
+‏📝 نگاهی به روند تغییر لحن و موضع ترامپ درباره ایران
+‏
+‏در آغاز جنگ ایران، دونالد ترامپ ویدیویی منتشر کرد و به‌صراحت اهداف و انتظاراتش از این عملیات نظامی را برشمرد. او معترضان ایرانی را تشویق کرد کنترل حکومت را دست بگیرند و وعده داد با نیرویی ویرانگر با «دیکتاتوری شرور و افراطی» در تهران مقابله کند.
+‏
+‏@mamlekate
+11:36
+1405/04/04
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Iranian intelligence official Yahya Hosseini Panjaki - the head of the Handala hacking group - has been confirmed killed in an Israeli strike during the recent war in Iran. 
+‏
+‏An IRGC-affiliated Telegram channel publicly identified Panjaki as the commander of the group, marking the first official Iranian acknowledgment of his role. 
+‏
+‏Handala has focused almost exclusively on Israeli targets, claiming responsibility for a series of high-profile cyberattacks and data breaches involving senior Israeli officials, including Naftali Bennett, Herzi Halevi, and Tzachi Braverman, making it one of Iran's most prominent cyber operations against Israel.
+11:32
+1405/04/04
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️یک مقام ارشد وزارت نفت عراق روز پنجشنبه چهارم تیرماه به‌خبرگزاری رویترز گفت اگر سهمیه اوپک این کشور به طور قابل توجهی افزایش نیابد، عراق مجبور خواهد شد تمام گزینه‌های موجود را بررسی کند.
@@ -1974,17 +1999,6 @@ src :@tglobaleye
 
 
 
-src :@selena_updates
-[عکس]
-‏A magnitude 6.9 earthquake struck off the coast of Iwate Prefecture in northeastern Japan at a depth of approximately 50 km. It registered Upper 6 on Japan's seven-level seismic intensity scale in parts of Iwate, making it one of the strongest levels of ground shaking. 
-‏
-‏Tremors were felt across northeastern Honshu and as far south as Tokyo. There is no threat of a tsunami.
-02:33
-1405/04/04
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇻🇪 Tsunami warning issued in Venezuela following earthquake.
 ‏
@@ -3241,18 +3255,6 @@ src :@guard_warriors
 
 
 
-src :@WAR_ROOM_NEWS
-‏🇺🇦اولین ضربه عملیاتی بمب هدایت‌شونده بومی اوکراین «ویریونیوواچ»
-‏
-‏⚜بمب هدایت‌شونده هوایی بومی اوکراین با نام «ویریونیوواچ» که از جنگنده میگ-۲۹ پرتاب شد، در ژوئن ۲۰۲۶ برای اولین بار یک موضع روسی در خط مقدم را با موفقیت منهدم کرد.تصاویر این ضربه دقیق در کانال تلگرامی سونیاشنیک منتشر شد.طی این عملیات دو بمب داخلی مجهز به کیت بال‌دار اصلاح مسیر، خندق‌های دفاعی روسیه را هدف قرار داده و منهدم کردند.این سلاح از الگوریتم‌های هدایت مدرن بهره می‌برد و برای اصابت دقیق به اهداف در فاصله‌های قابل‌توجه طراحی شده است.نیروی هوایی اوکراین نخستین محموله آزمایشی این بمب‌های بومی را در ماه مه دریافت کرده بود.وزیر دفاع اوکراین در آن زمان تأکید کرد این سلاح نه کپی راه‌حل‌های غربی است نه شوروی، بلکه یک توسعه کاملاً اصیل توسط مهندسان اوکراینی برای انهدام اهداف در عمق دهه‌ها کیلومتر پس از پرتاب است.آزمایش‌های اولیه این بمب در سال ۲۰۲۵ از روی بمب‌افکن سوخو-۲۴ام انجام شد و گزارش‌ها حاکی از اصابت موفق به اهداف در فاصله تا ۶۰ کیلومتر بود.این برد با نصب ماژول‌های برنامه‌ریزی و اصلاح مسیر روی بمب‌های معمولی حاصل شده و تلاش‌های مهندسی برای افزایش برد آن تا ۸۰ کیلومتر نیز در جریان بود.
-‏
-‏🆔 @WAR_ROOM_NEWS
-20:19
-1405/04/03
-
-
-
-
 src :@defence_news
 [عکس]
 ‏نیروی هوایی آمریکا قراردادی به ارزش 12 میلیون دلار با شرکت Zone 5 Technologies امضاء کرده است تا فناوری های مربوط به بهبود تکنولوژی های مربوط به تولید موشک کروز هوا پرتاب  AGM-188A Rusty Dagger را توسعه بدهد.
@@ -3290,19 +3292,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:13
-1405/04/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🇺🇦اوکراین نوآورانه‌ترین صنعت دفاعی جهان
-‏
-‏⚜در اجلاس دفاع و امنیت بروکسل کمیسیونر دفاعی اتحادیه اروپا اعلام کرد اوکراین باید به‌عنوان رکن اصلی معماری امنیتی اروپا ادغام شود.به گفته مقامات غربی از جمله مارکو روبیو و رئیس‌جمهور فنلاند،ارتش اوکراین قوی‌ترین نیروی نظامی اروپا است.تولید نظامی داخلی اوکراین از۲۰۲۲تاکنون ۵۰برابر شده و حجم آن با تولید سالانه آلمان یا فرانسه برابری می‌کند.گسترش سریع و انبوه پهپادها مهم‌ترین نماد تحول اوکراین در جنگ مدرن است.کوبیلیوس تأکید کرد نادیده گرفتن این ظرفیت آشکارا در تضاد با منافع راهبردی غرب است
-‏
-‏🆔 @WAR_ROOM_NEWS
-20:09
 1405/04/03
 
 
