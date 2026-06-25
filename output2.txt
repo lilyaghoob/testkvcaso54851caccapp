@@ -526,15 +526,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇻🇪 A 7.1 magnitude earthquake struck Venezuela a few moments ago.  @wfwitness
-02:48
-1405/04/04
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏A magnitude 6.9 earthquake struck off the coast of Iwate Prefecture in northeastern Japan at a depth of approximately 50 km. It registered Upper 6 on Japan's seven-level seismic intensity scale in parts of Iwate, making it one of the strongest levels of ground shaking. 
