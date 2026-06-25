@@ -1,3 +1,29 @@
+src :@wfwitness
+‏⚡️ 🇻🇪 Reports of a new aftershock in the central region and in Caracas. 
+‏
+‏@wfwitness
+09:25
+1405/04/04
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴واکنش ترامپ به تغییر رای سنای آمریکا 
+‏
+‏ترامپ در شبکه اجتماعی تروث سوشال نوشت: 
+‏🔹 سنا رای خود درباره ایران را از ۵۰ در برابر ۴۸ مخالف، به ۵۰ در برابر ۴۷ موافق تغییر داد. رند پال و بیل کسیدی رای خود را تغییر دادند. از جان تون، لیندزی گراهام، برنی مورنو و همه سپاسگزارم. این رای به ایران هشدار می‌دهد.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+09:23
+1405/04/04
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏📉کاهش قیمت نفت برنت به مرز ۷۲ دلار
@@ -21,14 +47,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:22
-1405/04/04
-
-
-
-
-src :@naya_foriraq
-‏ترامب: إيران لا تمتلك منصات إطلاق صواريخ. للمرة الأولى منذ 3000 عام، سنحظى أخيرًا بالسلام في الشرق الأوسط.   سنحظى بالسلام في الشرق الأوسط.
-09:21
 1405/04/04
 
 
@@ -886,26 +904,6 @@ src :@IranintlTV
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️ 🇪🇨🇻🇪 Ecuadorian President Daniel Noboa expressed his solidarity with the Venezuelan people following the devastating earthquake and announced the immediate dispatch of humanitarian aid to address the emergency. 
-‏
-‏@wfwitness
-06:30
-1405/04/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇻🇪🇺🇸 U.S. Deputy Secretary of State Christopher Landau prayed for Venezuelans affected by the earthquake, reassuring the the U.S. is in touch with local authorities and will mobilize assistance resources.  @wfwitness
-06:25
-1405/04/04
-
-
-
-
 src :@mohem_mat
 ‏گر دعوت دوست می‌شنودم آنروز
 ‏من گوی مُراد می‌ربودم آنروز
@@ -1580,14 +1578,6 @@ src :@tglobaleye
 ‏
 ‏Subscribe Visegrád24
 01:12
-1405/04/04
-
-
-
-
-src :@ClashReport
-‏Trump on Poland:  The man I endorsed in Poland was number 10. After I endorsed him, he came from 10th place and won the election.  They say it was the biggest upset in Europe in 50 years for a major election.  He is going to be a great President of Poland.
-01:11
 1405/04/04
 
 
@@ -4743,36 +4733,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏#جنگ 
 ‏@RASTAKHIZ_PERSIAN
 12:49
-1405/04/03
-
-
-
-
-src :@didarnews1
-‏🔴حسین موسویان: بدون ختم تهدیدهای موجودیتی بین اسرائیل و ایران، هیچ توافقی پایدار نیست
-‏
-‏🔹سیدحسین موسویان، دیپلمات پیشین ایرانی در تازه‌ترین مصاحبه با الجزیره به تشریح دستاوردهای توافق اخیر میان جمهوری اسلامی ایران و ایالات متحده آمریکا به میانجی‌گری پاکستان پرداخته‌است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-12:48
-1405/04/03
-
-
-
-
-src :@didarnews1
-‏🔴پاکستان: مذاکرات فنی ایران و آمریکا هفته آینده از سرگرفته می‌شود
-‏
-‏🔹وزارت خارجه پاکستان اعلام کرد که مذاکرات فنی در سطح کارشناسی میان ایران و آمریکا، با میانجی‌گری پاکستان و قطر، هفته آینده از سر گرفته خواهد شد.
-‏
-‏🔹به گفته سخنگوی این وزارتخانه، رایزنی‌ها با طرف‌های ایرانی و آمریکایی برای اجرای مؤثر تفاهم‌نامه ادامه دارد و توافق شامل ایجاد خط ارتباط مستقیم میان تهران و واشنگتن برای جلوگیری از بروز مشکلات است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-12:47
 1405/04/03
 
 
