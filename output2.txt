@@ -6,6 +6,98 @@ src :@World_Newsly
 
 
 
+src :@mwarmonitor
+‏💢سازمان UKMTO گزارشی درباره وقوع یک حادثه در فاصله ۷.۵ مایل دریایی (NM) در جنوب شرقی داهت (Dahit)، عمان دریافت کرده است.
+‏
+‏💢یک کشتی باری از سمت راست خود (Starboard) مورد اصابت یک پرتابه ناشناس قرار گرفته که این امر منجر به خسارت به پل فرماندهی (Bridge) کشتی شده است.
+‏
+‏💢ناخدا گزارش داده است که این حادثه هیچ‌گونه تلفات جانی و هیچ‌گونه آسیب زیست‌محیطی در پی نداشته است.
+‏مقامات مربوطه در حال بررسی موضوع هستند.
+‏
+‏@mwarmonitor
+19:12
+1405/04/04
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇫🇷🇷🇺 Euronews: France intercepted a Russian “shadow fleet” oil tanker off the coast of Sicily, according to President Emmanuel Macron.
+‏
+‏The vessel was reportedly targeted over suspected links to Russia’s sanctions-evasion network used to export oil despite Western restrictions.
+‏
+‏@wfwitness
+19:11
+1405/04/04
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏UKMTO Operations Centre @UK_MTO
+‏Thu, 25 Jun 2026 15:02:23 UTC
+‏
+‏UKMTO WARNING 074-26 - ATTACK
+‏
+‏Click here to view the full warning.⤵️ 
+‏https://www.ukmto.org/-/media/ukmto/products/20260625-ukmto_warning_attack-074-26.pdf?rev=c29ac3f0344c40dd9d6ad32e6a3dbb0f
+‏
+‏#MaritimeSecurity #MarSec
+‏
+‏ترجمه خودکار فارسی
+‏
+‏هشدار UKMTO 074-26 - حمله
+‏
+‏برای مشاهده متن کامل هشدار اینجا کلیک کنید.⤵️
+‏https://www.ukmto.org/-/media/ukmto/products/20260625-ukmto_warning_attack-074-26.pdf?rev=c29ac3f0344c40dd9d6ad32e6a3dbb0f
+‏
+‏#MaritimeSecurity #MarSec
+‏
+‏𝕏  ·  @shin_persian
+19:11
+1405/04/04
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏سازمان عملیات تجارت دریایی بریتانیا اعلام کرد روز پنج‌شنبه یک کشتی باری در نزدیکی عمان از سمت راست هدف یک شیء ناشناس قرار گرفت.
+‏این نهاد افزود: هیچ مصدومیتی و آلودگی زیست‌محیطی گزارش نشده است. به کشتی‌ها توصیه شده است با احتیاط عبور کنند و هرگونه فعالیت مشکوک را گزارش دهند.
+‏https://iranintl.com/202606256251
+19:10
+1405/04/04
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇫🇷 Euronews: France has taken several nuclear reactors offline or reduced their output as a record heatwave pushes river temperatures above environmental safety limits.
+‏
+‏The reactors use river water for cooling, with EDF required to limit operations when discharged water risks overheating rivers and threatening aquatic ecosystems.
+‏
+‏The move comes as temperatures exceed 40°C in parts of France, adding further pressure on the country’s power grid.
+‏
+‏@wfwitness
+19:09
+1405/04/04
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇱 Israel says it will keep troops in security zones across Lebanon, Syria, and Gaza and will not withdraw.
+‏
+‏@BRICSNews
+19:09
+1405/04/04
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 پس از انکه عمان مسیر عبور و مرور دریایی جدیدی در جنوب تنگه و در ابهای ساحلی اش، بدون هیچ گونه هزینه خدماتی را معرفی نمود سپاه پاسداران به تمامی کشتی های عبوری از مسیر جدید هشدار داد و اعلام کرد نمیتواند امنیت عبور انها را تضمین کند 
 ‏
@@ -257,7 +349,10 @@ src :@Indypersian
 
 
 src :@naya_foriraq
-‏🏴‍☠️‏نتنياهو: لن ننسحب من لبنان ‏وأمرنا الجيش بالقيام بكل ما يلزم لحماية سكان الشمال.
+‏🏴‍☠️‏نتنياهو: 
+‏لن ننسحب من لبنان ‏وأمرنا الجيش بالقيام بكل ما يلزم لحماية سكان الشمال.
+‏
+‏نحن في ذروة حرب إقليمية متواصلة لا تقل عن حرب الاستقلال.
 18:55
 1405/04/04
 
@@ -3531,15 +3626,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️ 🇻🇪 The acting president, Delcy Rodríguez, raised the official death toll to 164 and the number of injured to 971.  The State is maintaining the national emergency deployment and uninterrupted rescue efforts while awaiting aid from at least 10 countries.…
-14:29
-1405/04/04
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏پیش‌بینی رشد اقتصادی در ۱۴۰۵
@@ -5607,17 +5693,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 19:33
-1405/04/03
-
-
-
-
-src :@defence_news
-[عکس]
-‏#روزی_روزگاری | تصویری از ناوگروه ۸۶ نیروی دریایی ارتش شامل مرحوم دنا و مکران نیمه‌مرحوم در طول پیمایش به دور کره زمین که حدود ۶۵ هزار کیلومتر مسیر در مدت ۸ ماه توسط این ناوگروه طی شد و رکوردار طولانی‌ترین دریانوردی نداجا هست.
-‏
-‏با اینکه اصولاً ناوی مثل دنا با تناژی که دارد برای چنین ماموریت‌هایی مناسب نیست ولی این ماموریت توسط مرحوم دنا و مکران با موفقیت انجام شد که با کمی سرچ ساده در کانال می‌توانید جزئیات آن را مطالعه کنید.
-‏
-‏⚓️ @Navy_Iranian | #Tomcat
-19:07
 1405/04/03
