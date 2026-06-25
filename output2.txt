@@ -110,17 +110,6 @@ src :@IranintlTV
 
 src :@BellumActaNews
 [عکس]
-‏USGS says "high casualties and extensive damage" likely after 2 earthquakes hit Venezuela.
-‏
-‏8 million people felt "strong" to "violent" shaking and thousands may have been killed, according to the agency.
-03:41
-1405/04/04
-
-
-
-
-src :@BellumActaNews
-[عکس]
 03:41
 1405/04/04
 
@@ -4749,14 +4738,4 @@ src :@bricsnews
 src :@rnintel
 ‏🇺🇸🗽⚡️- Darializa Avila Chevalier has defeated incumbent Congressman Adriano Espaillat in the NY 13th Congressional District primary. Espaillat is the current head of the Congressional Hispanic Caucus.  Avila Chevalier had previously made pro-Russian arguments…
 05:17
-1405/04/03
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US and Iran "trash talking" each other is disrupting peace negotiations, WSJ reports.
-‏
-‏@BRICSNews
-04:19
 1405/04/03
