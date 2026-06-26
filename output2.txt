@@ -1,3 +1,60 @@
+src :@rus_cosmos
+‏در این فایل آموزشی، یک مسئله مهم در آیرودینامیک بررسی شده: جدایش جریان روی ایرفویل NACA 4415. در این پروژه، جریان هوا با سرعت 25 متر بر ثانیه و زاویه حمله 18 درجه با استفاده از شبیه‌سازی CFD در ANSYS Fluent تحلیل شده است؛ شرایطی که در آن احتمال جدا شدن لایه مرزی از سطح بال زیاد می‌شود و می‌تواند باعث کاهش لیفت، افزایش درگ و ایجاد ناحیه گردابه‌ای در پشت ایرفویل شود.
+‏
+‏بخش جذاب این گزارش، مقایسه حالت پایه با یک روش کنترل غیرفعال جریان است. در حالت اولیه، روی سطح بالایی ایرفویل ناحیه کم‌سرعت و رفتار برگشتی جریان دیده می‌شود؛ اما با اعمال زبری سطحی روی دیواره ایرفویل، تبادل مومنتوم در لایه مرزی بیشتر شده و ناحیه جدایش تا حدی کاهش پیدا می‌کند. این موضوع نشان می‌دهد که حتی یک تغییر ساده در شرایط سطح می‌تواند روی رفتار جریان اطراف ایرفویل اثر قابل توجهی داشته باشد.
+‏
+‏این فایل برای دانشجویان و علاقه‌مندان به CFD، آیرودینامیک و شبیه‌سازی با Fluent بسیار مفید است؛ چون علاوه بر توضیح مدل‌سازی، مش‌بندی، شرایط مرزی و مدل آشفتگی k-omega SST، به نکات مهم اعتبارسنجی عددی مثل بررسی y-plus، استقلال از شبکه، ضرایب لیفت و درگ، و تحلیل دقیق‌تر جدایش هم اشاره می‌کند. این گزارش نمونه خوبی از تبدیل یک پروژه دانشگاهی به یک تحلیل فنی منظم‌تر و قابل دفاع‌تر است.
+11:52
+1405/04/05
+
+
+
+
+src :@rus_cosmos
+[فایل]
+11:51
+1405/04/05
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Venezuela Earthquakes Death Toll Rises to 235 as Rescue Efforts Continue
+‏
+‏The death toll from the twin earthquakes in Venezuela has risen to at least 235, with 4,300 injured as rescue efforts continue under precarious conditions.
+‏
+‏READ MORE
+11:50
+1405/04/05
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇮🇱🇺🇸 Iran’s Khatam al-Anbia Central Headquarters warned that Israeli military aircraft operating over neighboring countries toward Iran are a dangerous threat.
+‏
+‏They said that Tehran will not tolerate any threat or remain silent if the U.S. fails to restrain Israel.
+‏
+‏@wfwitness
+11:49
+1405/04/05
+
+
+
+
+src :@intelslava
+‏🇺🇸⚡️ — The USA will no longer accept foreigners who apply for political asylum, said Stephen Miller, the deputy head of the White House staff.
+‏
+‏The country will redirect such requests to other states.
+‏
+‏@Intelslava
+11:48
+1405/04/05
+
+
+
+
 src :@tabzlive
 ‏🇹🇷🇻🇪⚡️ — Türkiye will deploy two A400M military transport aircraft to Venezuela carrying search-and-rescue teams, medical personnel, humanitarian aid workers, rescue dogs, vehicles, and equipment to support earthquake relief operations.
 11:47
