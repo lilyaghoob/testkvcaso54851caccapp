@@ -1,3 +1,51 @@
+src :@World_Newsly
+[عکس]
+‏🔴افت قیمت نفت در پایان هفته با کاهش نگرانی‌های عرضه
+‏
+‏بهای نفت برنت با کاهش ۱.۷۴ درصدی به ۷۴.۱۹ دلار و نفت خام وست‌تگزاس اینترمدیت (WTI) با افت ۱.۹۶ درصدی به ۷۰.۵۱ دلار در هر بشکه رسید.
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+09:44
+1405/04/05
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇮🇶🇮🇷أربع هزات أرضية تضرب الحدود العراقية الإيرانية منذ صباح اليوم.
+09:43
+1405/04/05
+
+
+
+
+src :@intelslava
+‏🇵🇱🇺🇦⚡️ — The leader of the Polish conservative party "Law and Justice" (PiS), Jarosław Kaczyński, called on the Polish authorities to block the negotiation process on Ukraine's membership in the European Union against the backdrop of worsening relations between Warsaw and Kiev.
+‏
+‏@Intelslava
+09:43
+1405/04/05
+
+
+
+
+src :@World_Newsly
+‏🔴ترامپ: روند خرید محصولات کشاورزی برای ایران خیلی زود آغاز خواهد شد و من انتظار دارم که حجم آن بسیار زیاد باشد.
+‏
+‏ما پول ایران رو گرفتیم و بجاش ذرت و سویا خودمان را دادیم
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+09:42
+1405/04/05
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏پلیس مونته‌نگرو اعلام کرد با همکاری اداره تحقیقات فدرال آمریکا (اف‌بی‌آی)، یک شهروند ایرانی را که به انجام حملات سایبری با حدود ۳.۴ میلیارد دلار خسارت به زیرساخت‌های آمریکا متهم است، بازداشت کرده است.
@@ -1131,25 +1179,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇺🇦❌🇷🇺 — Ongoing large-scale Ukrainian UAV attack against Novomoskovsk, Tula Oblast, Russia. There is a large fire, and power outages have been reported in the city.
-03:04
-1405/04/05
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇻🇪⚡️ — Starlink says it is providing free service through July 25 for new and existing customers affected by Venezuela’s devastating earthquakes.
-‏
-‏➡️ The company also said it is working to rapidly deploy Starlink terminals and restore connectivity in the hardest-hit areas.
-03:04
-1405/04/05
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says Iran would've used a nuclear weapon within the first hour of obtaining it.
@@ -2075,24 +2104,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴یسرائیل کاتز، وزیر دفاع اسرائیل، با تشدید مواضع خود علیه ایران هشدار داد که هرگونه امتیازدهی اقتصادی یا مالی به تهران، مستقیما به تقویت توان نظامی این کشور و متحدان منطقه‌ای آن منجر می‌شود.
-‏
-‏کاتز گفت: «هر دلاری که وارد ایران شود، به یک موشک یا یک پهپاد تبدیل خواهد شد.» او هشدار داد که منابع مالی ایران صرف پشتیبانی از گروه‌های شبه‌نظامی نیابتی در منطقه نظیر حماس، حزب‌الله و حوثی‌ها می‌شود.
-‏
-‏وزیر دفاع اسرائیل در ادامه، آنچه را «جنگ اقتصادی» علیه ایران خواند، یکی از مهم‌ترین جبهه‌های مرتبط با امنیت اسرائیل دانست. او تاکید کرد فشارهای اقتصادی علیه تهران باید ادامه یابد و نباید به اقداماتی که تاکنون انجام‌شده اکتفا کرد.
-‏
-‏به گفته کاتز، محدود کردن منابع مالی ایران، توان این کشور برای پشتیبانی مالی از متحدان منطقه‌ای و گسترش نفوذ نظامی‌اش را کاهش خواهد داد.
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-23:42
-1405/04/04
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏For the first time in Israeli’s Channel 13's Poll: Eisenkot surpasses Netanyahu in the race for Prime Minister.  @Mena_Live
@@ -2156,20 +2167,6 @@ src :@mohem_mat
 src :@WAR_ROOM_NEWS
 ‏المنار: توپخانه اسرائیل مناطقی بین شهرهای بیت یاحون و بارعشیت در جنوب لبنان را هدف قرار داده است
 23:38
-1405/04/04
-
-
-
-
-src :@World_Newsly
-‏🔴احتمال بسته شدن مجدد تنگه هرمز!
-‏
-‏سازمان بین‌المللی دریانوردی از تعلیق طرح عبور از تنگه هرمز تا دریافت اطلاعات بیشتر خبر داد
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-23:37
 1405/04/04
 
 
@@ -3093,14 +3090,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:26
-1405/04/04
-
-
-
-
-src :@naya_foriraq
-‏هجوم على سفينة قبالة سواحل عمان
-21:23
 1405/04/04
 
 
@@ -4622,14 +4611,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:46
-1405/04/04
-
-
-
-
-src :@intelslava
-‏🇺🇸⚡️ — In Anchorage, no agreements were reached with Russia , only an offer was made, stated US Secretary of State Marco Rubio.  Our comrade Trump knew nothing. Enemies have infiltrated the State Department.   @Intelslava
-15:43
 1405/04/04
 
 
