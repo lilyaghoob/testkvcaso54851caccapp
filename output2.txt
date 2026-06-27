@@ -1,3 +1,25 @@
+src :@tabzlive
+‏🇮🇱🇱🇧⚡️ — Kan News reports the IDF will withdraw from the villages of Zawtar El Gharbiyeh and Froun, south of Nabatieh, Lebanon.
+21:11
+1405/04/06
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏علی‌اکبر عالیشاه، دادستان مازندران، در مراسمی به مناسبت هفته قوه قضاییه گفت: «اگر چه بخشی از مطالبات مردم، مسائل اقتصادی است، اما مهم‌ترین مطالبه مردم متدین، انقلابی و ولایی استان، موضوع بی‌حجابی و عریان‌سازی در معابر عمومی است.»
+‏
+‏او ادامه داد: «کلیه ضابطان قضایی مکلف‌اند با مصادیق عریان‌سازی و هر اقدامی که موجب هتک حرمت ارزش‌های دینی و وهن نظام شود، برخورد قانونی کنند.»
+‏
+‏عالیشاه اضافه کرد: «از همه ضابطان می‌خواهم در این حوزه به‌صورت جدی ورود کنند و با مصادیق عریان‌سازی در خیابان‌ها برخورد کنند و در صورت لزوم نیز دستورات مقتضی صادر خواهد شد.»
+‏https://iranintl.com/202606276723
+21:07
+1405/04/06
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏مدیرعامل فایر پوینت اعلام کرد موشک بالستیک FP-9 اوکراین مراحل اصلی توسعه را پشت سر گذاشته و تنها آزمایش موتور سوخت جامد باقی مانده که هم‌اکنون به‌صورت زمینی انجام می‌شود. بزرگ‌ترین چالش، ایجاد خط تولید موتورهای سوخت جامد به دلیل نیاز به تجهیزات تخصصی برای مخلوط‌سازی و قالب‌گیری بوده است؛ کارخانه تولید این موتورها پس از بیش از یک سال فعالیت به بهره‌برداری رسیده است. مهندسان اوکراینی بدون دسترسی به مستندات فنی شوروی یا روسیه، فرمول سوخت، فرآیندهای پخت و روش‌های کنترل کیفیت را از ابتدا توسعه دادند. مدیرعامل فایر پوینت مدعی شد اوکراین بیش از یک سال زمان را به دلیل عدم تحویل آرشیو فنی وعده داده‌شده شامل نقشه‌ها و اسناد موشک‌های شوروی از دست داده است؛ موضوعی که با وجود وعده وزیر دفاع، هرگز محقق نشد.
@@ -847,34 +869,12 @@ src :@jangaavaran1390
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴حوثی های یمن بسیج سراسری در مناطق خود اعلام کرده‌اند.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-20:11
-1405/04/06
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸 U.S. President Trump on TruthSocial:
 ‏
 ‏@wfwitness
 20:11
-1405/04/06
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴گزارش ها از درگیری شدید میان نیرو های حوثی و نیرو های نظامی وابسته به عربستان در جنوب یمن.
-‏
-‏
-‏🆔@Military_Times_Blog
-20:10
 1405/04/06
 
 
@@ -2239,19 +2239,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@tabzlive
-[عکس]
-‏🇪🇺⚡️ — Europe's Historic Heatwave Shatters Records as Scientists Warn It Would Have Been Impossible Without Climate Change.
-‏
-‏Europe is experiencing one of the most severe June heatwaves on record, with temperatures exceeding 40°C in several countries, breaking national records, straining healthcare systems, disrupting transport, and forcing the cancellation of major public events.
-‏
-‏READ THE FULL ARTICLE
-18:05
-1405/04/06
-
-
-
-
 src :@selena_updates
 ‏Israel further declares that it has no territorial ambitions in Lebanon.
 ‏
@@ -2479,22 +2466,6 @@ src :@jangaavaran1390
 
 
 
-src :@IranintlTV
-[عکس]
-‏غلامحسین مظفری، استاندار خراسان رضوی گفت: «پیشنهاد مشخص شورای تامین استان، برگزاری مراسم تشییع علی خامنه‌ای به‌صورت هوایی است و به نظر می‌رسد این پیشنهاد اجرایی شود.»
-‏
-‏به گزارش خبرگزاری مهر، او ادامه داد: «اجرای این شیوه موجب کاهش تراکم جمعیت می‌شود، مراسم را به شکل سایر راهپیمایی‌ها مدیریت می‌کند و از نظر امنیت، مدیریت ازدحام جمعیت و سایر ملاحظات، شرایط مناسب‌تری را فراهم خواهد کرد.»
-‏
-‏مظفری اضافه کرد: «مهم‌ترین موضوع، حفظ سلامت مردم است و همه دستگاه‌ها باید سلامت مردم را در اولویت قرار دهند.»
-‏
-‏بر اساس اعلام رسمی ستاد تشییع علی خامنه‌ای، قرار است جنازه رهبر کشته‌شده جمهوری اسلامی، ۱۸ تیر در مشهد دفن شود.
-‏https://iranintl.com/202606274932
-17:44
-1405/04/06
-
-
-
-
 src :@Indypersian
 ‏⭕️دانشمندان: تغییرات اقلیمی اروپا را وارد شدیدترین موج گرمای تاریخ کرد
 ‏
@@ -2615,17 +2586,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 17:29
-1405/04/06
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏نتیجه حملات پهپاد‌های اوکراینی به پل روی رودخانه کوراسک منطقه ولدیمیریویکا در عمق جبهه زاپورژیا،که در نتیجه آن پل آسیب بسیار سنگینی دیده و بخشی از لجستیک روسی را مختل کرده است.
-‏
-‏@P_raetorio
-17:26
 1405/04/06
 
 
@@ -3214,19 +3174,6 @@ src :@warmonitors
 ‏⚡️ The US military confirms that it attacked targets in the Strait of Hormuz area in response to an Iranian attack on ships
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-16:38
-1405/04/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Pentagon Probes Data Leak at Peter Thiel's Dialog Exposing Senior US Officials
-‏
-‏Pentagon is investigating a data exposure at Peter Thiel's secretive Dialog group after senior US intelligence officials were listed among its members.
-‏
-‏READ MORE
 16:38
 1405/04/06
 
@@ -5933,16 +5880,6 @@ src :@bricsnews
 
 
 
-src :@mwarmonitor
-‏🔴ونس : هرگونه خشونت از سوی ایران با واکنش شدید و قاطع مواجه خواهد شد.
-‏
-‏@mwarmonitor
-01:45
-1405/04/06
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 جی‌دی ونس: «ایران توافق آتش‌بس را امضا کرده و ما نیز به آن پایبند بوده‌ایم. اگر درباره نحوه اجرای تفاهم‌نامه اختلاف‌نظری دارند، می‌توانند تلفن را بردارند و تماس بگیرند. اما هرگونه خشونت، با پاسخ متقابل مواجه خواهد شد.»
@@ -6938,15 +6875,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 21:28
-1405/04/05
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️#BREAKING Israeli officials confirm: Israel and Lebanon will sign a framework agreement tonight 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-21:08
 1405/04/05
