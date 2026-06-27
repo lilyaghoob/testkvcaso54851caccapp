@@ -1,3 +1,53 @@
+src :@Indypersian
+[عکس]
+‏♦️ بنا بر اعلام مرکز لرزه‌نگاری مدیترانه-اروپا (EMSC)، زمین‌لرزه‌ای به بزرگی ۶ روز شنبه، ششم تیرماه منطقه هندوکش در افغانستان را لرزاند. این مرکز همچنین گزارش داد که کانون این زمین‌لرزه در عمق ۱۰۰ کیلومتری (۶۲ مایلی) زمین قرار داشته است. هنوز آماری از تلفات یا خسارات احتمالی این زمین‌لرزه ارائه نشده است.
+‏@indypersian
+17:51
+1405/04/06
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran considers canceling negotiations with the US in Switzerland.
+‏
+‏@BRICSNews
+17:48
+1405/04/06
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇮🇷 Bloomberg: A Pentagon investigation into the deadly U.S. missile strike on an Iranian school has reportedly found that an intelligence analyst identified the site as an elementary school in 2019, but the information was never incorporated into the military’s official targeting database.
+‏
+‏The analyst’s warning remained in a separate digital intelligence tool that was not connected to the database used for strike planning, and the site was reviewed multiple times without being updated. 
+‏
+‏The Pentagon said the investigation remains ongoing.
+‏
+‏@wfwitness
+17:47
+1405/04/06
+
+
+
+
+src :@Mena_Live
+[عکس]
+‏— 🇦🇪🇹🇩: An unidentified Boeing 747-409F cargo aircraft is tracking from N'Djamena, Chad across South Sudan toward the Gulf of Aden, with its registration and destination unavailable on Flightradar24.
+‏
+‏The aircraft appears to be following a corridor commonly monitored by OSINT researchers due to recurring cargo flights linking the Gulf region with central Africa.
+‏
+‏This aircraft was last tracked going to Nevatim Airbase in the occupied Palestinian territories from the UAE.
+‏
+‏@NewsFromSudan
+17:47
+1405/04/06
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️سی‌ان‌ان: مرکز اطلاعات مشترک نیروی دریایی آمریکا امروز سطح تهدید در تنگه هرمز را به میزان قابل توجهی افزایش داد
 ‏
@@ -69,20 +119,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 17:42
-1405/04/06
-
-
-
-
-src :@ClashReport
-‏Apple is seeking U.S. approval to buy memory chips from blacklisted Chinese chipmaker ChangXin Memory Technologies (CXMT) as rising AI-driven memory costs put pressure on the company. 
-‏
-‏Apple recently raised iPad and MacBook prices, citing higher memory and storage chip costs. 
-‏
-‏CXMT is on U.S. military and export restriction lists, meaning transactions require a government license that is unlikely to be approved.
-‏
-‏Source: FT
-17:39
 1405/04/06
 
 
@@ -1939,21 +1975,6 @@ src :@World_Newsly
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇩🇪 Bloomberg: U.S. President Donald Trump's threats to withdraw troops from Germany are causing growing uncertainty in communities that have hosted the American military for decades. 
-‏
-‏About 37,000 U.S. soldiers remain permanently stationed in Germany, with facilities including Ramstein Air Base and the army's European headquarters in Wiesbaden.
-‏
-‏The small Bavarian town of Vilseck, home to a regiment of nearly 5,000 soldiers, could face a "dramatic blow to the entire economic and social life" if troops leave, its mayor said. The U.S. military presence contributes an estimated €650‑700 million annually to the region.
-‏
-‏@wfwitness
-15:48
-1405/04/06
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏یاسین محمودی، نوجوان ۱۶ ساله و اهل رفسنجان در استان کرمان، در جریان اعتراضات مردمی این شهر با شلیک مستقیم نیروهای حکومتی جان خود را از دست داده است.
@@ -2624,16 +2645,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیمروزی | شنبه ۶ تیر
-‏@iranintlTV
-14:54
-1405/04/06
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏حدود ۳۰ نفر از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ که در زندان مرکزی ساوه نگهداری می‌شوند، در اعتراض به احکام سنگین صادر شده علیه خود، دست به اعتصاب غذای دسته‌جمعی زده‌اند.
@@ -3102,6 +3113,19 @@ src :@jangaavaran1390
 ‏در کل اگر نظام تصمیم گرفته باشه که با ایالات متحده به توافق برسه پس اطمینان داره که این اعمالش مشکلی ایجاد نمی‌کنه 
 ‏
 ‏دست کم خودش اینجوری فکر می‌کنه
+13:46
+1405/04/06
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Germany May Reinstate Compulsory Military Service by July 2027
+‏
+‏Facing recruitment shortfalls and a looming threat from Russia, Germany will decide by mid-2027 whether to reinstate compulsory military service to meet its target of 260,000 troops by 2035.
+‏
+‏READ MORE
 13:46
 1405/04/06
 
@@ -6900,17 +6924,6 @@ src :@Mena_Live
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇮🇷 US President Trump Iran has violated the ceasefire agreement.
-‏
-‏@BRICSNews
-20:20
-1405/04/05
-
-
-
-
 src :@Mena_Live
 ‏Israel-U.S. Announces another “agreement” with Lebanon will be signed tonight.
 ‏
@@ -7099,30 +7112,4 @@ src :@thewarreporter
 ‏
 ‏— Iranian Press TV | @TheWarReporter
 18:01
-1405/04/05
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ واشنگتن آماده است تا فروش موتورهای توربوفن جنرال الکتریک GE F110 برای جنگنده نسل پنجم ترکیه‌ای KAAN را تایید کند. بر اساس گزارش رویترز، ارزش این معامله ممکن است بیش از ۷۰۰ میلیون دلار باشد و انتظار می‌رود اطلاع‌رسانی به کنگره آمریکا در آینده نزدیک انجام شود.
-‏
-‏@Guard_Warriors | Mmd
-17:49
-1405/04/05
-
-
-
-
-src :@militaryinpersian
-[عکس]
-‏در دو هفته آینده نیروی هوایی سلطنتی اردن (RJAF) گزارش نهایی برنامه جایگزینی جنگنده‌های F-16 موجود با جدیدترین مدل F-16 Block 70 (Viper) را دریافت خواهد کرد. این جنگنده‌ها توسط شرکت آمریکایی لاکهید مارتین تولید می‌شوند. تحلیلی که به سفارش RJAF توسط شرکای پنتاگون تهیه شده است، به نیروی هوایی اردن کمک می‌کند تا پیکربندی بهینه ناوگان هوایی جدید را با در نظر گرفتن مقایسه هواپیماهای فعلی و آینده، مسائل آموزش پرسنل، پشتیبانی فنی و هزینه‌های عملیاتی مرتبط تعیین کند.
-‏
-‏اردن بین دو کانون تنش قرار گرفته، از یک سو تشدید درگیری بین جمهوری اسلامی و آمریکا و اسرائیل و خطرات مرتبط با استفاده از پهپادها و موشک‌ها، در سال جاری پهپادها و موشک‌های رژیم جمهوری اسلامی به حریم هوایی اردن نفوذ کرده‌اند؛ برای مقابله با چنین تهدیداتی، جنگنده‌های F-16 Block 70 که مجهز به سیستم‌های پیشرفته جنگ الکترونیک (EW) هستند، بسیار مناسب‌تر از مدل‌های نسخه‌های قبلی می‌باشند.
-‏
-‏📝  AmirF15
-‏
-‏👑 @Fighter_Radar
-17:46
 1405/04/05
