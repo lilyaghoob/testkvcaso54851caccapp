@@ -1,5 +1,77 @@
 src :@tabzlive
 [عکس]
+‏🇮🇱⚡️ — Israeli Prime Minister Benjamin Netanyahu will hold a press conference tonight at 20:45 local time (in 55 minutes), according to Israeli Channel 12.
+20:20
+1405/04/06
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏‼️پست ترامپ در سوشال تروث 
+‏
+‏@mwarmonitor
+20:19
+1405/04/06
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇱🇧🇮🇱⚡- Five Israeli airstrikes against Nabatieh's al-Fawqa district, southern Lebanon.
+20:19
+1405/04/06
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇱 Israeli Channel 12: PM Netanyahu will hold a press conference tonight at 20:45 local time.
+‏
+‏@wfwitness
+20:18
+1405/04/06
+
+
+
+
+src :@rnintel
+‏🇱🇧🇮🇱⚡- Five Israeli airstrikes against Nabatieh's al-Fawqa district, southern Lebanon.
+20:18
+1405/04/06
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ یک مقام آمریکایی در گفتگو با وال‌استریت ژورنال اعلام کرد که یک پهپاد متعلق به جمهوری اسلامی به نفتکشی حامل ۲ میلیون بشکه نفت خام در نزدیکی تنگه هرمز اصابت کرده است. مرکز عملیات تجارت دریایی بریتانیا، وابسته به نیروی دریایی سلطنتی، اعلام کرد که این کشتی روز شنبه از ناحیه پل فرماندهی مورد اصابت یک پرتابه ناشناس قرار گرفته است.
+‏
+‏علاوه بر این، نیروهای آمریکایی دو پهپاد دیگر را که کشتی‌های تجاری را هدف گرفته بودند، سرنگون کردند. در پی این حملات جدید به کشتی‌های تجاری، مرکز مشترک اطلاعات دریایی، نهادی تحت نظر نیروی دریایی آمریکا و بریتانیا، در روز شنبه سطح تهدید امنیت دریایی در تنگه هرمز را به «قابل‌توجه» (Substantial) افزایش داد.
+‏@indypersian
+20:18
+1405/04/06
+
+
+
+
+src :@World_Newsly
+‏🔴وزیر جنگ اسرائیل:
+‏
+‏توافق در حال شکل‌گیری با لبنان، به اسرائیل اجازه می‌دهد تا زمان خلع سلاح حزب‌الله، حضور نظامی خود را در خاک لبنان حفظ کند.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+20:17
+1405/04/06
+
+
+
+
+src :@tabzlive
+[عکس]
 ‏🇺🇸⚡️ — President Trump via Truth Social:
 20:14
 1405/04/06
@@ -2106,18 +2178,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 تصویری از حمله آمریکا به سیستم جنگ الکترونیک Cobra V8 ساخت ایران (نسخه داخلی Krasukha-4 روسی)
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-17:19
-1405/04/06
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸 WIRED: The Pentagon is examining a data exposure at Peter Thiel-linked private network Dialog after a misconfigured website exposed personal details and login tokens of 222 registrants, including a senior White House intelligence official and an active-duty intelligence officer tied to a Tier 1 special operations unit.
@@ -2740,15 +2800,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦❌🇷🇺 — WATCH: A Russian captures the moment a Ukrainian FP-5 Flamingo cruise missile strikes JSC Titan-Barrikady defense plant in Volgograd.
-16:36
-1405/04/06
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇩🇪⚡️ — Germany may reinstate compulsory military service for men as early as 2027.
@@ -3014,15 +3065,6 @@ src :@intelslava
 ‏Cumulative AFU losses since operation began: 671 aircraft, 284 helicopters, 169,649 UAVs, 29,918 tanks and armoured vehicles, 35,514 artillery guns and mortars.​​​​​​​​​​​​​​​​
 ‏
 ‏@IntelSlava
-16:17
-1405/04/06
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 Tasnim: Iranian media report that the U.S. has violated the ceasefire and MoU with Iran, following U.S. military strikes near the Strait of Hormuz.   According to Tasnim, explosions were heard moments ago in the area of the Tahrouyeh pier in Sirik,…
 16:17
 1405/04/06
 
@@ -3931,26 +3973,6 @@ src :@Farsi_Iranwire
 ‏بخوانید:  https://iranwire.com/fa/news-1/154233
 ‏
 ‏@Farsi_Iranwire
-14:12
-1405/04/06
-
-
-
-
-src :@Indypersian
-‏⭕️ دل‌پیچه دروغین کسینجر در اسلام‌آباد؛ «کانال محرمانه‌ پاکستان» بار دیگر تاریخ جهان را دگرگون می‌کند؟
-‏
-‏📌۵۵ سال پیش، کمتر کسی تصور می‌کرد تمارض هنری کسینجر در اسلام‌آباد مقدمه یکی از بزرگ‌ترین چرخش‌های ژئوپلیتیکی قرن بیستم باشد
-‏
-‏♦️در هفته‌های اخیر، نام پاکستان بار دیگر در یکی از حساس‌ترین پرونده‌های امنیتی جهان بر سر زبان‌ها افتاده است. از سفرهای آشکار و گزارش‌های مربوط به دیدارهای محرمانه در میانه جنگ ۳۸روزه ایران، آمریکا و اسرائیل گرفته تا نقش اسلام‌آباد در انتقال پیام‌ها میان تهران و واشنگتن، فراهم کردن زمینه تفاهم‌نامه پایان جنگ و آغاز مذاکرات بر سر یک توافق جامع. همه اینها باعث شده بار دیگر نگاه‌ها به اسلام‌آباد دوخته شود.
-‏
-‏اگر این نقش‌آفرینی در نهایت به حل یکی از پیچیده‌ترین بحران‌های چند دهه اخیر خاورمیانه بینجامد، پاکستان موقعیتی تاریخی را تکرار خواهد کرد، موقعیتی مشابه تابستان ۱۹۷۱، زمانی که یک سفر ظاهرا عادی به اسلام‌آباد، به بزرگ‌ترین عملیات دیپلماسی پنهان دوران جنگ سرد تبدیل شد.
-‏
-‏🖊مجتبی دهقانی 
-‏
-‏بیشتر بخوانید... 
-‏
-‏@indypersian
 14:12
 1405/04/06
 
@@ -5483,15 +5505,6 @@ src :@didarnews1
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸 -
-08:19
-1405/04/06
-
-
-
-
 src :@didarnews1
 ‏🔴در صورت تساوی ایران برابر مصر باید یا غنا کروواسی را شکست دهد، یا کنگو نتواند ازبکستان را ببرد، یا بازی اتریش و الجزایر برنده داشته باشد
 ‏
@@ -5705,19 +5718,6 @@ src :@GeoPWatch
 
 
 
-src :@rnintel
-[عکس]
-‏🇳🇪⚡️- The ISSP has published a batch of claims and images related to last week's attacks in Niger.
-‏
-‏The Islamic State in Sahel claims they killed at least 80 soldiers and destroyed 38 vehicles in Inates and Banibougou last week's Wednesday alone.
-‏
-‏Medias close to the junta have confirmed nearly 200 soldiers died within a week in multiple attacks in Niger, from ISSP offensive and the JNIM terrorist attack in Niamey.
-02:09
-1405/04/06
-
-
-
-
 src :@rus_cosmos
 ‏فرماندهی مرکزی آمریکا (CENTCOM) اعلام کرد که در ۲۶ ژوئن در پاسخ به حمله ایران با پهپاد به یک کشتی تجاری در تنگه هرمز، مواضع موشکی، پهپادی و راداری ایران را هدف قرار داده است. آمریکا این حمله را نقض آتش‌بس و تهدیدی علیه آزادی کشتیرانی دانسته و گفته همچنان برای…
 02:05
@@ -5817,14 +5817,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 01:45
-1405/04/06
-
-
-
-
-src :@mwarmonitor
-‏🚨انفجار در قشم
-01:44
 1405/04/06
 
 
