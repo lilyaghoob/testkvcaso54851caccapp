@@ -1,3 +1,45 @@
+src :@World_Newsly
+[عکس]
+‏🔴دیده شده در تجمعات شبانه
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+23:05
+1405/04/06
+
+
+
+
+src :@rnintel
+‏🇫🇷⚡️- 109 deaths reported in the past 24 hours in Paris alone due to the heatwave.
+23:05
+1405/04/06
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🚨زمین‌لرزه‌ای به بزرگی ۵.۵ ریشتر سواحل آراگوا در ونزوئلا را لرزاند.
+‏
+‏@mwarmonitor
+23:04
+1405/04/06
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🔻اختارت الولايات المتحدة ناقلة نفط للتحقق مما إذا كان ممرها الملاحي في المياه العمانية لا يزال "آمناً".
+‏
+‏كبش فداء😂
+23:03
+1405/04/06
+
+
+
+
 src :@Indypersian
 ‏⭕️تنگه هرمز؛ میدان آزمون نظم نوین امنیتی در خلیج فارس
 ‏
@@ -195,7 +237,7 @@ src :@mwarmonitor
 
 src :@RASTAKHIZ_PERSIAN
 [عکس]
-‏🔶 بخشی از بیانیه مجلس خبرگان رهبری: و بر هر مکلفی که به (عاملان جنگ) دسترسی پیدا کند واجب است که این جنایتکاران را به درک واصل کند
+‏🔶 بخشی از بیانیه مجلس خبرگان رهبری: و بر هر مکلفی که به انها (عاملان جنگ) دسترسی پیدا کند واجب است که این جنایتکاران را به درک واصل کند
 ‏
 ‏بیانیه
 ‏
@@ -1252,17 +1294,6 @@ src :@MilitarryWorld
 src :@Mena_Live
 ‏Hezbollah Secretary General Naim Qassem: The framework agreement between Israel and Lebanon is invalid.   It should be replaced and instead the memorandum of understanding between the US and Iran should be implemented.  @Mena_Live
 21:17
-1405/04/06
-
-
-
-
-src :@World_Newsly
-‏🔴سازمان پخش اسرائیل: توافق با لبنان شامل یک پیوست امنیتی محرمانه است که مفاد آن منتشر نشده است
-‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-21:16
 1405/04/06
 
 
@@ -2734,14 +2765,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 18:26
-1405/04/06
-
-
-
-
-src :@naya_foriraq
-‏وول ستريت جورنال عن مسؤول أمريكي: مسيرة إيرانية أصابت ناقلة نفط كانت تحمل مليوني برميل من الخام قرب مضيق هرمز
-18:23
 1405/04/06
 
 
@@ -4868,14 +4891,6 @@ src :@rus_cosmos
 
 
 
-src :@mwarmonitor
-‏📰 به گزارش رویترز به نقل از سه مقام اسرائیلی، اسرائیل و لبنان در حال گفت‌وگو درباره یک طرح «آزمایشی» با حمایت ایالات متحده هستند که بر اساس آن، نیروهای اسرائیلی بخشی از اراضی جنوب لبنان را به ارتش لبنان تحویل می‌دهند.  📰 به گفته این مقامات، نیروهای ارتش لبنان…
-11:20
-1405/04/06
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔻بیانیه وزارت امور خارجه درباره نقض آشکار یادداشت تفاهم خاتمه جنگ توسط آمریکا
@@ -5179,19 +5194,6 @@ src :@Parvazdaroj
 ‏قسمت اول 
 ‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
 10:01
-1405/04/06
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇲🇾⚡️- Malaysia has passed new legislation restricting maritime activity, such as ship-to-ship transfers of products or bunkering (refueling at sea) that occur within international waters, but inside its exclusive economic zone (EEZ) without receiving permission from the Malaysian government. Violations of the regulation allow detention of the vessel and its crew and seizure of cargo.
-‏
-‏Russian and Iranian oil tankers have been well documented as using Malaysia's EEZ as a hotspot for ship-to-ship transfers of oil, usually China-bound oil.
-‏
-‏From the 18th of June to February 28th (The start of the US-Iran war), the organization United Against Nuclear Iran (UANI) recorded 76 ship-to-ship transfers of Iranian Oil and LPG within the area now regulated by Malaysia. UANI also recorded 46 sanctioned and mostly empty Iranian tankers that were anchored and waiting inside this Malaysian EEZ for the US blockade to end before returning to Iran. Many of these tankers have since begun their journey back to Iran since the end of the blockade.
-09:48
 1405/04/06
 
 
@@ -6007,37 +6009,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Minas_Tirith2024
-‏#فوری
-‏
-‏سنتکام:
-‏
-‏«به دستور دونالد ترامپ عملیات محدود ما در ایران آغاز شد در جواب شکست آتش بس توسط این کشور.»
-‏
-‏
-‏@P_raetorio
-00:18
-1405/04/06
-
-
-
-
-src :@Minas_Tirith2024
-‏به گزارش خبرنگار صداوسیما در سیریک: ساعت ۲۳ و پانزده دقیقه امشب صدای انفجار در اسکله طاهرویی سیریک شنیده شد
-‏
-‏یک منبع آگاه نظامی علت این انفجارها را اصابت پرتابه به محدوده اسکله طاهرویی سیریک بیان کرد.
-‏
-‏این منبع آگاه نظامی گفت: حدود ۵ ساعت پیش چند شلیک اخطار از شهرستان سیریک به شناورهای متخلف‌ در تنگه هرمز پرتاب شد.
-‏
-‏همچنین شنیده ها از شلیک دو موشک اخطار ساعاتی پیش از حوالی کرپان به سمت تنگه هرمز حکایت دارد.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-00:17
-1405/04/06
-
-
-
-
 src :@guard_warriors
 ‏سنتکام (ستاد فرماندهی مرکزی ایالات متحده) تایید می‌کند:
 ‏
@@ -6380,16 +6351,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 23:44
-1405/04/05
-
-
-
-
-src :@Minas_Tirith2024
-‏صدای چند انفجار در سواحل جنوبی کشور و منطقه سیریک شنیده شده است
-‏
-‏@Minas_Tirith2024
-23:43
 1405/04/05
 
 
