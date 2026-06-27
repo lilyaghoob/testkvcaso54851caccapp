@@ -1,3 +1,69 @@
+src :@cataphract1
+[عکس]
+‏میون؛ قلب تپنده هوش مصنوعی نظامی آمریکا🇺🇸
+‏
+‏⚜️ در جریان جنگ اخیر با ایران، ارتش آمریکا برای نخستین بار به شکلی گسترده از سامانه‌ای مبتنی بر هوش مصنوعی با نام Maven Smart System (MSS) استفاده کرد.
+‏
+‏⚜️سامانه‌ای که به گفته منابع آمریکایی، تنها در ۲۴ ساعت نخست جنگ به شناسایی و هدف‌گیری بیش از ۱۰۰۰ هدف کمک کرد. این رقم حدود ۱۰ برابر بیشتر از ظرفیتی است که ارتش آمریکا پیش از ورود این سامانه در اختیار داشت.
+‏
+‏⚜️ اما سامانه MSS صرفاً یک نرم‌افزار تحلیل تصاویر یا یک چت‌بات نظامی نیست. این سامانه در واقع قلب پروژه میون (Project Maven) محسوب می‌شود و برنامه‌ای که پنتاگون از سال ۲۰۱۷ برای وارد کردن هوش مصنوعی به چرخه اطلاعاتی و عملیاتی نیروهای مسلح آغاز کرد. 
+‏
+‏ ریشه شکل‌گیری این پروژه به مشکلی بازمی‌گردد که ارتش آمریکا سال‌ها با آن دست‌وپنجه نرم می‌کرد؛ حجم عظیم داده‌هایی که توسط ماهواره‌ها، پهپادها، رادارها، سامانه‌های شنود و سایر حسگرها جمع‌آوری می‌شد، بسیار بیشتر از توان تحلیل نیروی انسانی بود.
+‏⚜️ در جنگ‌های عراق و افغانستان، تعداد پهپادهایی که به‌صورت شبانه‌روزی در حال تصویربرداری بودند از تعداد تحلیلگرانی که می‌توانستند این تصاویر را بررسی کنند بیشتر شده بود. در برخی موارد، ساعت‌ها و حتی روزها تصاویر ضبط می‌شدند اما هرگز به‌طور کامل مورد بررسی قرار نمی‌گرفتند.
+‏
+‏ برای درک ابعاد این مسئله کافی است بدانیم شرکت ماهواره‌ای Maxar در سال ۲۰۲۲ اعلام کرده بود که یک تحلیلگر انسانی برای بررسی تصاویر ثبت‌شده تنها در یک روز توسط ماهواره‌های این شرکت، به حدود ۸۵ سال زمان نیاز دارد. حال آنکه حجم داده‌های جمع‌آوری‌شده توسط ارتش آمریکا به‌مراتب بیشتر از این مقدار است.
+‏⚜️ سامانه MSS برای حل همین مشکل طراحی شد. این سامانه داده‌های صدها منبع مختلف را به‌صورت همزمان دریافت می‌کند و با کمک مدل‌های هوش مصنوعی، الگوها و اهداف احتمالی را شناسایی می‌کند./1
+‏
+‏🖋#Ethan 
+‏📃@Cataphract1
+19:01
+1405/04/06
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ مهدی دارابی، مشاور ارزی بانک مرکزی، اعلام کرد که بانک مرکزی در جریان جنگ، با اولویت دادن به تامین ارز کالاهای اساسی، دارو و تجهیزات پزشکی، حدود ۴.۵ میلیارد دلار به ذخایر ارزی کشور اضافه کرده است.
+‏
+‏او در گفتگو با شبکه خبر اقتصاد و بانک ایران، ایبنا، افزود: «با بهبود بازگشت ارز حاصل از صادرات، افزایش صادرات نفت و برخی گشایش‌های ارزی، روند افزایش تخصیص ارز به بخش صنعت از سر گرفته شده و تنها در روز جاری حدود دو میلیارد دلار ارز به این بخش اختصاص یافته است.»
+‏
+‏دارابی همچنین گفت بانک مرکزی با آزادسازی بخشی از منابع ارزی مسدودشده، در تلاش است تامین ارز کالاهای اساسی و نیازهای بخش تولید را در سطح سال گذشته حفظ کند.
+‏@indypersian
+18:59
+1405/04/06
+
+
+
+
+src :@defence_news
+[عکس]
+‏سرور های گیمینگ و هوش مصنوعی فقط گیگی 5 تومان
+‏
+‏🇩🇪آلمان | 🇫🇷فرانسه | 🇳🇱هلند | 🇹🇷ترکیه
+‏
+‏تانل شده | پرسرعت | آیپی ثابت
+‏کانفیگ جایگزین در زمان نت ملی ✅
+‏
+‏برای تست رایگان و خرید از طریق  ربات و پشتیبانی اقدام کنید  👇
+‏@v2yabot
+‏@v2yab_support
+18:59
+1405/04/06
+
+
+
+
+src :@ManotoTV
+[عکس]
+‏این مجموعه، تصاویری از افتتاح راکتور تحقیقاتی دانشگاه تهران در سال ۱۳۴۶ با حضور محمدرضا شاه پهلوی است.
+‏پروژه‌ای که در زمان خود، ایران را در زمره کشورهای پیشرو منطقه در فناوری هسته‌ای صلح‌آمیز قرار داد و نمادی از چشم‌انداز توسعه علمی کشور بود.
+18:57
+1405/04/06
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇱❌🇱🇧 — Several Israeli drone strikes have targeted Nabatieh al-Fawqa, southern Lebanon, a few moments ago.
@@ -1312,6 +1378,10 @@ src :@VahidOnline
 ‏
 ‏وزارت خارجه بحرین با اشاره به تفاهم‌نامه اسلام‌آباد افزود جمهوری اسلامی متعهد به توقف دائمی عملیات نظامی و احترام به حاکمیت کشورهای منطقه شده بود، اما حمله اخیر به گفته این وزارتخانه، نشان می‌دهد تهران به تعهدات خود و جامعه بین‌المللی پایبند نبوده است.
 ‏بحرین همچنین با تاکید بر حق خود برای دفاع از حاکمیت، امنیت و ثباتش، از شورای امنیت سازمان ملل خواست مسئولیت خود را در اجرای قطعنامه ۲۸۱۷ و پاسخگو کردن عامل این حمله بر عهده بگیرد.
+‏@VahidOOnLine
+‏یک مقام آمریکایی که نخواست نامش فاش شود، به وال‌استریت ژورنال گفت حمله بامداد شنبه، ششم تیرماه ایران به بحرین شامل دو پهپاد انتحاری (یک‌طرفه) بوده است.
+‏این مقام مسئول اظهار داشت که یکی از پهپادها توسط یک سامانه پدافند هوایی زمین‌پایه سرنگون شد و پهپاد دیگر بدون ایجاد هیچ‌گونه خسارت یا تلفاتی، در محوطه یک فرودگاه دورافتاده فرود آمد.
+‏همچنین گزارش شده است که یک پهپاد انتحاری به نفتکشی حامل دو میلیون بشکه نفت خام اصابت کرده و نیروهای آمریکایی دو پهپاد دیگر را که کشتی‌های تجاری را هدف قرار داده بودند، سرنگون کرده‌اند.
 ‏@VahidOOnLine
 ‏پس از اعلام دولت بحرین مبنی بر حمله پهپادی جمهوری اسلامی ایران به خاک این کشور در روز شنبه ششم تیرماه، کشورهای حوزه خلیج فارس این اقدام را به شدت محکوم کردند.
 ‏این حمله ساعاتی پس از آن رخ داد که سپاه پاسداران از هدف قرار دادن مواضع نظامی آمریکا در پاسخ به حملات سنتکام در بندر سیریک خبر داده بود.
@@ -2936,14 +3006,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@World_Newsly
-‏⭕ جمع همه خوبای ورماخت ، البته ورماخت‌ طرح قدیم.  ✍🏻 adolf hitler ▪️@World_Newsly
-15:21
-1405/04/06
-
-
-
-
 src :@intelslava
 ‏🇺🇸⚡️ — Anthropic announced the opening of access to its most powerful AI model. 
 ‏
@@ -3254,17 +3316,6 @@ src :@rus_cosmos
 src :@WAR_ROOM_NEWS
 ‏⚡🇺🇦 نیروی هوایی اوکراین شب گذشته از سقوط جنگنده میگ-۲۹ در استان پولتاوا خبر داد. خلبان با موفقیت اجکت کرد و زنده ماند.علت سقوط نامشخص است.این دومین سقوط غیررزمی یک هواپیمای اوکراینی در کمتر از دو هفته است
 14:40
-1405/04/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ukrainian MiG-29 fighter jet crashed overnight in the Poltava region. 
-‏
-‏The pilot safely ejected.
-14:39
 1405/04/06
 
 
@@ -3893,22 +3944,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 13:27
-1405/04/06
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️شارل-آنری دو فوشه‌کور، ایران‌شناس برجسته فرانسوی هفته گذشته در ۱۰۱ سالگی در شهر والانس در جنوب شرقی فرانسه درگذشت. شهرت او بیش از هرچیز مدیون ترجمه و تفسیرغزلیات حافظ شیرازی نه تنها برای پژوهشگران فرانسوی، بلکه برای فرانسه‌زبان کشورهای عرب شمال آفریقا است.
-‏
-‏شارل-آنری دو فوشه‌کور با آنکه در فرانسه متولد شد، اما به خاطر شغل پدرش در کودکی به مراکش رفت و به‌قول ادبیات استعماری فرانسه از «پا سیاه»‌ها (pièds noirs) ها است.
-‏
-‏او در نوجوانی در مراکش، با زبان و ادبیات عرب و دین اسلام آشنا شد. آنطور که خودش می‌گوید، یکی از معلمانش به او گفته بود که اگر اینقدر به تمدن اسلامی علاقه‌مند است، باید با ایران و فرهنگ ایرانی آشنا شود که یکی از پایه‌های این تمدن است. او با پذیرفتن این پیشنهاد، تحصیلات دانشگاهی در موسسه ملی زبان‌ها و تمدن‌های شرقی (Inalco) و سپس دانشگاه سوربن و دانشسرای مطالعات عالی را به آموختن زبان و ادبیات فارسی اختصاص داد. دو فوشه‌کور، در سال ۱۹۶۰ از رساله دکترای خود با نام «وصف طبیعت در اشعار غنائی فارسی قرن ۱۱ میلادی» دفاع کرد و فارغ‌التحصیل شد.
-‏
-‏
-‏@indypersian
-13:23
 1405/04/06
 
 
@@ -6004,17 +6039,6 @@ src :@BellumActaNews
 
 
 
-src :@cataphract1
-‏⭕️فاکس‌نیوز به نقل از یک مقام آمریکایی:
-‏حملات آمریکا به اهداف ایرانی همچنان ادامه دارد.
-‏✒️#LT
-‏📃@Cataphract1
-00:27
-1405/04/06
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏Fri, 26 Jun 2026 20:55:40 UTC
@@ -6063,16 +6087,6 @@ src :@Shin_Persian
 [عکس]
 ‏↩️ Quoted tweet: Shin ✓  @hey_itsmyturn Fri, 26 Jun 2026 18:51:59 UTC  Clashes between Kurdish militants (unclear which group) and regime forces at a joint checkpoint at Baneh city’s entrance.  Kurdistan Province, Iran  ↩️ توییت نقل‌قول شده — برای پاسخ، پست…
 00:24
-1405/04/06
-
-
-
-
-src :@cataphract1
-‏⚜در همین حین گزارش شده طی حمله اسرائیل چندین انفجار در محور مرکبا و طلوسه گزارش شده است.
-‏✒️#LT
-‏📃@Cataphract1
-00:22
 1405/04/06
 
 
@@ -6308,17 +6322,6 @@ src :@warmonitors
 
 
 
-src :@defence_news
-[عکس]
-‏اکانت سنتکام هم حمله تایید کرد 
-‏
-‏⚓️ @Navy_Iranian | #a_m
-00:12
-1405/04/06
-
-
-
-
 src :@Middle_East_Spectator
 ‏— 🇮🇷/🇦🇪 NEW: Alerts ended, the all-clear has been given  @Middle_East_Spectator
 00:12
@@ -6392,26 +6395,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:07
-1405/04/06
-
-
-
-
-src :@BellumActaNews
-‏#BREAKING | 🇮🇱 🇱🇧 — Preliminary Text of the Agreement Between Lebanon and Israel
-‏
-‏Most prominent content:
-‏
-‏The Government of the State of Israel and the Government of the Republic of Lebanon, with full support from the United States of America under the leadership of President Donald J. Trump, affirm their shared goal of achieving lasting peace and security. Reflecting what is stated in this trilateral framework (“the Framework”), and through future agreements, the two countries declare their ambition to end the existing conflict between them, guarantee the sovereignty and security of both countries, and establish peaceful neighborly relations between them.
-‏
-‏1. Israel and Lebanon affirm the right of each state to exist in peace and their mutual desire to live in security as two sovereign neighboring states. Israel and Lebanon hereby declare, under this Framework, their intention to end the conflict between them definitively, address its root causes, and thereby formally end any state of war existing between them. This Framework, reached after several rounds of direct negotiations between the two parties, is based on previous successful agreements and understandings. It expresses determination to achieve irreversible progress toward a comprehensive solution to all outstanding issues between the two countries. The two countries affirm their resolve to resolve these issues as sovereign states through direct bilateral negotiations, with mediation and support from the United States.
-‏
-‏2. The Government of Israel and the Government of Lebanon commit to a mutual and gradual process, under clear conditions, whereby the Lebanese Armed Forces will restore the state’s effective authority over all Lebanese territory. This will occur after the verified disarmament of armed groups not affiliated with the state and the dismantling of their associated infrastructure. This will enable the Israel Defense Forces to gradually redeploy outside Lebanese territory. The components of this process will be detailed in a security annex prepared with full U.S. support that complements this Framework. The Framework will specify the required measures, security arrangements, and necessary verification mechanisms to advance this process. The successful implementation of this Framework will pave the way for a stable and peaceful relationship between the two countries and enable the Israel Defense Forces to redeploy outside Lebanese territory.
-‏
-‏3. In accordance with the security annex, and within the broader efforts to achieve the Lebanese state’s monopoly on weapons and sovereign control over its territory, the Lebanese Armed Forces will gradually assume full and effective security responsibility in pilot areas. These areas will serve as a mechanism for phased and verified redeployment of the Israel Defense Forces and the deployment of the Lebanese Armed Forces. The Israeli and Lebanese armies have agreed on two initial areas, and future pilot areas will be agreed upon by mutual consent. After verifying the success of disarming non-state armed groups and dismantling their infrastructure in these areas, the Lebanese Armed Forces will assume full and effective security responsibility there. Internationally supported reconstruction efforts will begin, and Lebanese civilians will be able to return safely to these areas under the exclusive control of the Lebanese state authorities. The United States intends to work closely with both countries to verify and support this process.
-‏
-‏4. The Government of Lebanon reaffirms its firm and irrevocable commitment to restoring and exercising full sovereignty over all its territory. The Government of Lebanon will work to rebuild the state’s monopoly on the use of force, achieve the complete and verifiable disarmament of all armed groups not affiliated with the state, and ensure that these groups do not play any military or security role and do not possess any armed capabilities anywhere inside Lebanon.
-00:05
 1405/04/06
 
 
