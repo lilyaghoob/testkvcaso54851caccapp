@@ -1,3 +1,65 @@
+src :@Farsi_Iranwire
+[عکس]
+‏پرنیان (فاطمه) هاشم‌پور، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، در دادگاه تجدیدنظر به دو سال حبس محکوم شد.
+‏پایگاه خبری امتداد، روز شنبه ۶ تیر ۱۴۰۵، با اعلام این خبر نوشت خانم هاشم‌پور روز نهم دی‌ماه سال گذشته در میدان انقلاب تهران بازداشت شد و پرونده وی اکنون با صدور حکم به پایان رسیده است. به نوشته امتداد، حکم اولیه این شهروند پنج سال حبس بود، اما پس از اعتراض به رای، این مجازات به دو سال کاهش یافت.
+‏
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154247
+‏@Farsi_Iranwire
+19:32
+1405/04/06
+
+
+
+
+src :@Mena_Live
+‏China–Syria Trade (2024–2026, short + updated)
+‏
+‏2024: ~$386M Chinese exports
+‏2025: ~$668M (+73% growth)
+‏2026 (projection): ~$900M–$1.1B
+‏
+‏A large share is electricity and infrastructure-related goods:
+‏
+‏- cables, transformers, grid equipment
+‏- generators and backup power systems
+‏- some solar and energy 
+‏- storage components
+‏
+‏These are directly aimed at fixing Syria’s severe power shortages, which are a major constraint on recovery.
+‏
+‏It signals rising real commercial activity and economic reopening, not just trade on paper.
+‏Electricity-related imports can unlock broader economic recovery (industry, services, agriculture).
+‏
+‏This is still mainly imports into Syria (not exports or domestic production growth), so long-term recovery depends on rebuilding local industry and investment, not just equipment inflows.
+‏
+‏@Mena_Live
+19:32
+1405/04/06
+
+
+
+
+src :@cataphract1
+‏⚜ خبرگزاری العربیه گزارش داده ۴ حمله هوایی به نبطیه الفوقا در جنوب لبنان انجام شده است.
+‏
+‏✒️#LT
+‏📃@Cataphract1
+19:29
+1405/04/06
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇮🇱❌🇱🇧 — An Israeli airstrike carried out by a fighter jet just targeted Nabatieh al-Fawqa, southern Lebanon.
+19:27
+1405/04/06
+
+
+
+
 src :@selena_updates
 [عکس]
 ‏The United States bombed with 2 missiles a telecommunications tower in the Sirik area in southern Iran, in retaliation to Iranian attacks on ships in the Strait of Hormuz.
@@ -24,16 +86,6 @@ src :@selena_updates
 ‏
 ‏However, America, by provoking various sides, sought to violate this commitment, and the necessary response was given. From now on, it will be the same. If the aggression is repeated, our response will be broader than this.
 19:25
-1405/04/06
-
-
-
-
-src :@naya_foriraq
-‏🏴‍☠️وزير الحرب الإسرائيل: "إذا حاولت إيران الهجوم لمنع تنفيذ الاتفاق مع لبنان، سنتصرف بقوة كبيرة".
-‏
-‏‏لن ننسحب من لبنان بما في ذلك مرتفعات الشقيف.
-19:24
 1405/04/06
 
 
@@ -474,6 +526,8 @@ src :@wfwitness
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏پهپاد اسرائیلی خودروی عوامل حزب الله را در روستا النبطیه فوقا در جنوب لبنان مورد حمله قرار داد
+‏
+‏در کل ۴ حمله هوایی به این منطقه انجام شده 
 ‏
 ‏🆔@WAR_ROOM_NEWS
 18:48
@@ -2723,19 +2777,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇰🇷 South Korea has announced plans to dramatically expand its drone capabilities, including training 500,000 suicide drones and deploying 110,000 unmanned systems by 2029. 
-‏
-‏Seoul will rely on 100% locally made components for security reasons. The move follows lessons from the Russia-Ukraine war and concerns over North Korean drone threats.
-‏
-‏@wfwitness
-16:10
-1405/04/06
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری رویترز به نقل از منابع امنیتی عراق گزارش داد که یک پهپاد انفجاری اردوگاهی متعلق به یک گروه کرد مخالف جمهوری اسلامی را در شمال اربیل، مرکز اقلیم کردستان عراق، هدف قرار داده است.
@@ -3634,16 +3675,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-14:05
-1405/04/06
-
-
-
-
-src :@MilitarryWorld
-‏⭕️شهباز شریف: آزادی دریانوردی یک کالای لوکس نیست بلکه ضرورتی مطلق برای کل جهان است
-‏
-‏@MilitarryWorld | Parsa
 14:05
 1405/04/06
 
@@ -5407,28 +5438,6 @@ src :@BellumActaNews
 
 
 
-src :@cataphract1
-[عکس]
-‏تحویل جنگنده‌های اف-۳۵بی بدون رادار به سپاه تفنگداران دریایی آمریکا🇺🇸
-‏
-‏⚜️برنامه مشترک اف-۳۵ تأیید کرد که تاکنون ۶ فروند اف-۳۵بی بدون رادار تحویل تفنگداران دریایی آمریکا شده‌اند. 
-‏
-‏⚜علت این موضوع، تأخیر در تولید رادار جدید AN/APG-85 است که قرار بود بخشی از بسته ارتقای Block 4 باشد و اکنون اولین نمونه‌های تولیدی آن زودتر از ۲۰۲۸ آماده نخواهد شد.
-‏
-‏⚜️این موضوع در حالی مطرح شده که طبق گزارش دفتر حسابرسی دولت آمریکا (GAO)، نرخ آمادگی کامل رزمی (FMC) خانواده اف-۳۵ از ۳۸ درصد در سال ۲۰۲۰ به ۲۵ درصد در سال ۲۰۲۵ کاهش یافته است، هرچند دفتر برنامه اف-۳۵ این رقم را قبول ندارد و نرخ واقعی را حدود ۵۶ درصد اعلام می‌کند.
-‏
-‏⚜️رادار AN/APG-85 علاوه بر افزایش توان کشف و درگیری، بخش مهمی از سامانه جنگ الکترونیک اف-۳۵ نیز محسوب می‌شود.
-‏
-‏⚜️بنابراین جنگنده‌های بدون رادار کاملاً آماده مأموریت به‌شمار نمی‌روند، هرچند همچنان می‌توانند با اتکا به حسگرهای غیرفعال و تبادل داده با سایر اف-۳۵ها مأموریت‌های محدودی را انجام دهند.
-‏
-‏🖋#Ethan 
-‏📃@Cataphract1
-05:13
-1405/04/06
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — CENTCOM announced that it carried out multiple airstrikes in southern Iran.  In response, the IRGC says it targeted U.S. Army positions in the region.  @TheWarReporter
@@ -5533,27 +5542,6 @@ src :@Middle_East_Spectator
 src :@BellumActaNews
 ‏🇻🇪⚠️ — New 5.4 Earthquake on the coast of Venezuela, 78 km W of Caracas, north of Aragua State
 02:46
-1405/04/06
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺❌🇺🇦 — Russian Defence Ministry daily briefing, Top News Today.
-‏
-‏160 Russian servicemen returned from Kiev-controlled territory in a prisoner exchange.
-‏
-‏Overnight high-precision strike hit a military recruitment center and weapons storage in Kiev, and a refinery in Kremenchug, Poltava region.
-‏
-‏In Konstantinovka, Russian forces liberated 763 buildings between June 20–26, continuing to clear Ukrainian groups in the southwest.
-‏
-‏In Krasny Liman, assault units captured 50 strongholds and liberated 327 buildings over the same period.
-‏
-‏Russian Aerospace Forces launched a series of FAB-500 aerial bomb raids on Ukrainian positions across the operation zone.​​​​​​​​​​​​​​​​
-‏
-‏@IntelSlava
-02:45
 1405/04/06
 
 
@@ -5992,24 +5980,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🚨سپاه پاسداران:
-‏
-‏ «ما تأکید می‌کنیم که این حملات بی‌پاسخ نخواهد ماند و پاسخی سریع و قاطع در زمان و مکانی که ما انتخاب می‌کنیم، داده خواهد شد.»
-00:42
-1405/04/06
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 گزارش های تایید نشده از  درگیری در شهر بانه  🔹 گزارش‌ها از وقوع درگیری میان نیروهای امنیتی ایران و افراد مسلح کُرد در یکی از ایست‌های بازرسی ورودی شهر بانه در استان کردستان خبر می‌دهند.   #ایران #تروریسم #کردستان  @RASTAKHIZ_PERSIAN
-00:42
-1405/04/06
-
-
-
-
 src :@militaryinpersian
 ‏فاکس‌نیوز به نقل از یک مقام آمریکایی:
 ‏
@@ -6048,17 +6018,6 @@ src :@defence_news
 src :@militaryinpersian
 ‏درگیری خونین و پاکسازی خانه‌به‌خانه در فلوجه؛ نیروهای آمریکایی با پشتیبانی هوایی نزدیک بالگردهای AH-1 SuperCobra و UH-1N Huey وVenom به همراه خودروهای زرهی و تیم‌های مهندسی رزمی، مواضع نیروهای مقاومت بعث و شورشیان چریک مسلم را یکی پس از دیگری پاکسازی می‌کنند.…
 00:36
-1405/04/06
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 فاکس نیوز به نقل از یک مقام آمریکایی: حملات آمریکا به اهداف ایرانی همچنان ادامه دارد.
-‏باشگاه خبرنگاران
-‏
-‏@RASTAKHIZ_PERSIAN
-00:35
 1405/04/06
 
 
@@ -7069,16 +7028,4 @@ src :@Minas_Tirith2024
 ‏✒️#LT
 ‏📃@Cataphract1
 19:32
-1405/04/05
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏ترامپ:
-‏«جمهوری اسلامی ایران دست‌کم چهار پهپاد پهپاد انتحاری (One Way Attack Drones) به سمت کشتی‌هایی که در حال عبور از تنگه هرمز بودند، شلیک کرد. یکی از این پهپادها مستقیماً به عرشه فوقانی یک کشتی باربری بزرگ و بسیار گران‌قیمت برخورد کرد. خساراتی وارد شد، اما کشتی توانست به مسیر خود ادامه دهد. ما سه پهپاد دیگر را سرنگون کردیم. بدیهی است که این یک نقض احمقانه توافق آتش‌بس ماست. رئیس‌جمهور دونالد جی. ترامپ»
-‏
-‏@Guard_Warriors
-19:30
 1405/04/05
