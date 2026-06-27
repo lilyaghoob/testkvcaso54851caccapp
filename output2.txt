@@ -1,3 +1,42 @@
+src :@ClashReport
+‏Apple is seeking U.S. approval to buy memory chips from blacklisted Chinese chipmaker ChangXin Memory Technologies (CXMT) as rising AI-driven memory costs put pressure on the company. 
+‏
+‏Apple recently raised iPad and MacBook prices, citing higher memory and storage chip costs. 
+‏
+‏CXMT is on U.S. military and export restriction lists, meaning transactions require a government license that is unlikely to be approved.
+‏
+‏Source: FT
+17:39
+1405/04/06
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — NEW: A Pentagon investigation has found that a U.S. intelligence analyst identified a former Iranian military site in Minab as having been converted into an elementary school in 2019, but the warning was entered into a database that was not connected to the military's official targeting system and never reached commanders, Bloomberg reports.
+‏
+‏➡️ The Minab school was struck during the opening U.S. attacks on Iran on February 28, killing an estimated 120 children and nearly 200 people overall. 
+‏
+‏➡️ The probe is examining outdated targeting data, disconnected intelligence systems, and whether required target verification procedures were followed. The investigation has been submitted to CENTCOM and remains under review.
+17:39
+1405/04/06
+
+
+
+
+src :@P_raetorio
+‏کمبود سوخت به خط مقدم رسیده است!
+‏
+‏چندین رسانه واحد‌های روسی پیشگام در خط مقدم که در انتهای مسیرهای لجستیکی بخصوص در مناطق اشغال‌شده جبهه خرسون و زاپوریژیا هستند،از کمبود سوخت برای راه‌اندازی ژنراتورها و موتوربرق‌ها که برای شارژ باتری‌های کوادهای FPV و کواد‌های شناسایی شاکی هستند!
+‏
+‏@P_raetorio
+17:37
+1405/04/06
+
+
+
+
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇷 Iran strikes another oil tanker in the Strait of Hormuz.
@@ -213,7 +252,7 @@ src :@Shin_Persian
 
 
 src :@naya_foriraq
-‏‏زلزال بقوة 6 درجات يضرب أفغانستان
+‏‏زلزال بقوة 6.5 درجات يضرب أفغانستان
 17:21
 1405/04/06
 
@@ -2993,19 +3032,6 @@ src :@jangaavaran1390
 
 
 
-src :@ClashReport
-[عکس]
-‏Germany May Reinstate Compulsory Military Service by July 2027
-‏
-‏Facing recruitment shortfalls and a looming threat from Russia, Germany will decide by mid-2027 whether to reinstate compulsory military service to meet its target of 260,000 troops by 2035.
-‏
-‏READ MORE
-13:46
-1405/04/06
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇴🇲 🇺🇸 🇮🇷 — UKMTO Reports New Attack on Tanker in Strait of Hormuz (076-26)
@@ -3121,15 +3147,6 @@ src :@mwarmonitor
 
 src :@rnintel
 ‏🇴🇲🇮🇷 - The UK Maritime Trade Operations raises the alert for all vessels transiting the Strait of Hormuz to a maximum.
-13:38
-1405/04/06
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — UKMTO reports that a tanker has been struck by an unidentified projectile in the Strait of Hormuz.
 13:38
 1405/04/06
 
