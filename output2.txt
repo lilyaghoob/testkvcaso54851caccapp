@@ -1,5 +1,31 @@
 src :@wfwitness
 [عکس]
+‏⚡️🇻🇪 Reuters: The death toll from Venezuela’s twin 7.2 and 7.5 earthquakes has risen above 920, with more than 50,000 people reported missing as foreign rescue teams join locals digging through the rubble amid severe equipment shortages. 
+‏
+‏The USGS warns the final toll could exceed 10,000, potentially making it one of Latin America’s deadliest quakes in a century.
+‏
+‏@wfwitness
+12:21
+1405/04/06
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Disjointed US Intelligence Systems Led to Deadly Iran School Strike: Report
+‏
+‏An analyst determined the building that US struck in Minab was an elementary school in 2019. That warning never reached military commanders, resulting in death of 120 children.
+‏
+‏READ MORE
+12:18
+1405/04/06
+
+
+
+
+src :@wfwitness
+[عکس]
 ‏⚡️🇺🇦🇷🇺 WSJ: Ukraine’s drone campaign has transformed Crimea from Putin’s prized trophy into a strategic liability, with Russian-installed authorities declaring a state of emergency over a fuel and energy crisis caused by Kyiv’s drone blockade. 
 ‏
 ‏Over 100 drone strikes daily have disrupted transportation, electrical systems, and supply lines across the peninsula, coinciding with the critical tourism season that underpins Crimea’s local economy.
@@ -2715,16 +2741,6 @@ src :@mwarmonitor
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇱🇧 Heavy gunshots have been heard in Dahieh.
-‏
-‏@wfwitness
-02:01
-1405/04/06
-
-
-
-
 src :@naya_foriraq
 ‏التلفزيون الإيراني: بحرية الحرس الثوري تستهدف عدة نقاط للعدو الأمريكي في المنطقة.
 01:59
@@ -3336,16 +3352,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:50
-1405/04/06
-
-
-
-
-src :@ClashReport
-‏Iran's Revolutionary Guard Corps says its naval and air forces successfully repelled a US attack on Sirik Island, forcing the attacking forces to retreat in defense of Iran's territorial sovereignty.
-‏
-‏The IRGC vowed the assault "will not go unanswered" and warned that any further "foolishness" would be met with a "swift and decisive" response at a time and place of Iran's choosing.
-00:49
 1405/04/06
 
 
@@ -4176,14 +4182,6 @@ src :@Americana_ir
 ‏🔴 خبرنگار اکسیوس به نقل از یک منبع ارشد آمریکایی اعلام کرد که ایالات متحده به اهداف متعلق به ایران در تنگه هرمز حمله کرده است!
 ‏
 ‏🆔 @Americana_ir
-00:03
-1405/04/06
-
-
-
-
-src :@mwarmonitor
-‏🚨شنیده شدن صدای ۳ انفجار در سیریک، استان هرمزگان .
 00:03
 1405/04/06
 
