@@ -1,3 +1,25 @@
+src :@mohem_mat
+‏بلومبرگ به نقل از منابع مطلع مدعی شد:
+‏
+‏ حمله مرگبار آمریکا به یک مدرسه در شهر میناب در جنوب ایران در نخستین روز جنگ واشنگتن علیه تهران به دلیل نقص در سیستم پنتاگون برای تجزیه و تحلیل اهداف بالقوه رخ داده است.
+‏
+‏ تحقیقات بلومبرگ نشان می دهد که در سال ۲۰۱۹، یک تحلیل‌گر اطلاعاتی آمریکایی که در حال بررسی اطلاعات مربوط به اهداف بالقوه در داخل ایران بود، کشف کرد که مکانی در میناب که قبلاً به عنوان یک تأسیسات دریایی مورد استفاده سپاه پاسداران انقلاب اسلامی ایران تعیین شده بود، در واقع یک مدرسه ابتدایی بوده است با این حال، آن‌ها گفتند که این به‌روزرسانی در نهایت توسط مقامات بالاتر وی نادیده گرفته شد و هرگز به فرماندهان نظامی ایالات متحده نرسید، زیرا این تحلیل‌گر از یک ابزار اطلاعاتی دیجیتالی که به پایگاه داده‌های اطلاعاتی رسمی که پنتاگون برای آماده‌سازی حملات خود به آن متکی است، متصل نبود، استفاده کرده بود./ شفنقا
+‏
+‏@mohem_mat
+22:36
+1405/04/06
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏در لبنان گزارش‌هایی از انفجارها در بعلبک منتشر شده است که احتمالا این حمله اسرائیل است
+22:34
+1405/04/06
+
+
+
+
 src :@MilitarryWorld
 ‏⭕️فرماندهی ارتش لبنان: از شهروندان میخواهیم در پی فراخوان‌ های حزب الله برای برگزاری تظاهرات در بیروت و دیگر مناطق، مسئولیت‌ پذیری و خویشتنداری را رعایت کنند
 ‏
@@ -625,25 +647,6 @@ src :@World_Newsly
 ‏✍🏻 Dangerman
 ‏▪️@World_Newsly
 21:42
-1405/04/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israeli National Security Minister Itamar Ben-Gvir:
-‏
-‏The agreement with Lebanon is a big mistake.
-‏
-‏I appealed to the Prime Minister this evening to hold a vote in the cabinet, and I've been fighting against this agreement for weeks.
-‏
-‏Yes, we are staying in most of the territory for now — but the State of Lebanon will not disarm Hezbollah.
-‏
-‏Hezbollah ministers sit in the Lebanese government, and Lebanon cannot be trusted to take away Hezbollah's weapons. I will demand a vote in the cabinet.
-‏
-‏Only IDF soldiers will destroy Hezbollah — no one else will do it for us.
-21:41
 1405/04/06
 
 
@@ -4673,18 +4676,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 12:34
-1405/04/06
-
-
-
-
-src :@mohem_mat
-‏‏ خبرگزاری بحرین به نقل از بیانیه وزارت امور خارجه این کشور اعلام کرد:
-‏
-‏ منامه هدف قرار گرفتن پادشاهی بحرین در سحرگاه امروز توسط تعدادی از پهپادهای ایرانی را با شدیدترین عبارات محکوم می‌کند.
-‏
-‏‎@mohem_mat
-12:32
 1405/04/06
 
 
