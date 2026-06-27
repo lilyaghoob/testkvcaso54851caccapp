@@ -1,3 +1,15 @@
+src :@ClashReport
+‏Tehran–Dubai flights will resume on July 1, initially operated by Iranian airlines. 
+‏
+‏Other airlines and additional routes may be added later, pending approvals.
+‏
+‏Source: Tasnim
+14:13
+1405/04/06
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏نزدیک به سه ماه پس از کشته شدن کمال خرازی، مشاور امور بین‌الملل علی خامنه‌ای، صادق خرازی، برادرزاده او، مدعی شده است که وی نه بر اثر جراحات ناشی از حمله به خانه‌اش، بلکه در بیمارستان «ترور» شده است.
@@ -14,6 +26,26 @@ src :@Farsi_Iranwire
 
 
 
+src :@Indypersian
+‏⭕️ دل‌پیچه دروغین کسینجر در اسلام‌آباد؛ «کانال محرمانه‌ پاکستان» بار دیگر تاریخ جهان را دگرگون می‌کند؟
+‏
+‏📌۵۵ سال پیش، کمتر کسی تصور می‌کرد تمارض هنری کسینجر در اسلام‌آباد مقدمه یکی از بزرگ‌ترین چرخش‌های ژئوپلیتیکی قرن بیستم باشد
+‏
+‏♦️در هفته‌های اخیر، نام پاکستان بار دیگر در یکی از حساس‌ترین پرونده‌های امنیتی جهان بر سر زبان‌ها افتاده است. از سفرهای آشکار و گزارش‌های مربوط به دیدارهای محرمانه در میانه جنگ ۳۸روزه ایران، آمریکا و اسرائیل گرفته تا نقش اسلام‌آباد در انتقال پیام‌ها میان تهران و واشنگتن، فراهم کردن زمینه تفاهم‌نامه پایان جنگ و آغاز مذاکرات بر سر یک توافق جامع. همه اینها باعث شده بار دیگر نگاه‌ها به اسلام‌آباد دوخته شود.
+‏
+‏اگر این نقش‌آفرینی در نهایت به حل یکی از پیچیده‌ترین بحران‌های چند دهه اخیر خاورمیانه بینجامد، پاکستان موقعیتی تاریخی را تکرار خواهد کرد، موقعیتی مشابه تابستان ۱۹۷۱، زمانی که یک سفر ظاهرا عادی به اسلام‌آباد، به بزرگ‌ترین عملیات دیپلماسی پنهان دوران جنگ سرد تبدیل شد.
+‏
+‏🖊مجتبی دهقانی 
+‏
+‏بیشتر بخوانید... 
+‏
+‏@indypersian
+14:12
+1405/04/06
+
+
+
+
 src :@naya_foriraq
 ‏مقتل ثلاثة نساء وشاب في مدينة الموصل على يد شاب من دون معرفة الاسباب
 14:11
@@ -23,7 +55,7 @@ src :@naya_foriraq
 
 
 src :@naya_foriraq
-‏محاولة اغتيال تطال استاذ جامعي في محافظة ديالى غربي العراق …
+‏محاولة اغتيال تطال استاذ جامعي في محافظة ديالى شرقي العراق
 14:09
 1405/04/06
 
@@ -3935,19 +3967,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@ClashReport
-[عکس]
-‏JD Vance:
-‏
-‏Iran signed a ceasefire agreement. We have honored it. If they have disagreements about how the MOU is being applied, they can pick up the phone.
-‏
-‏But violence will be met with violence.
-01:41
-1405/04/06
-
-
-
-
 src :@naya_foriraq
 ‏فانس: سيؤدي العنف من إيران إلى ردة فعل قوية.
 01:40
@@ -5672,19 +5691,6 @@ src :@Mena_Live
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇮🇱 🇱🇧 — An agreement has been reached on a Declaration of Intent in the US-mediated Lebanese-Israeli negotiations, which is expected to be signed shortly in the presence of US Secretary of State Marco Rubio.
-‏
-‏The deal includes two pilot areas for initial Israeli forces withdrawal, serving as a prelude to a broader, phased Israeli withdrawal from southern Lebanon. Talks remain ongoing in Washington, with both sides making progress toward a framework for lasting security arrangements.
-‏
-‏The Global Eye | Subscribe
-20:32
-1405/04/05
-
-
-
-
 src :@Mena_Live
 ‏In one hour Lebanon-Israel will sign another “framework agreement” in the presence of the U.S. Secretary of State.  @Mena_Live
 20:27
@@ -5737,17 +5743,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US President Trump Iran has violated the ceasefire agreement.
 ‏
 ‏@BRICSNews
-20:20
-1405/04/05
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇮🇷 — U.S. President Donald Trump accuses Iran of 'foolish violation' of ceasefire following drone attack on vessel transiting Hormuz Strait.
-‏
-‏The Global Eye | Subscribe
 20:20
 1405/04/05
 
