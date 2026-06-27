@@ -1,3 +1,30 @@
+src :@MilitarryWorld
+‏⭕️طبق گزارشات، برق بیشتر منطقه پیروزی تهران قطع شده است  @MilitarryWorld | Parsa
+21:21
+1405/04/06
+
+
+
+
+src :@Mena_Live
+‏Hezbollah Secretary General Naim Qassem: The framework agreement between Israel and Lebanon is invalid.   It should be replaced and instead the memorandum of understanding between the US and Iran should be implemented.  @Mena_Live
+21:17
+1405/04/06
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇻🇪⚡️ — A renewed effort by Venezuelan opposition leader María Corina Machado to secure U.S. assistance in returning to Venezuela following the recent earthquakes has frustrated senior officials in Washington, according to Reuters, citing a White House official.
+‏
+‏➡️ Machado has contacted the White House, the State Department, and several members of Congress in recent days seeking support to facilitate her return.
+21:17
+1405/04/06
+
+
+
+
 src :@World_Newsly
 ‏🔴سازمان پخش اسرائیل: توافق با لبنان شامل یک پیوست امنیتی محرمانه است که مفاد آن منتشر نشده است
 ‏
@@ -554,18 +581,6 @@ src :@mohem_mat
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏جمهوری اسلامی آخرین تلاش‌هایش را برای بقای خود به کار بسته و اکنون سرکوب را نه به عنوان یک ابزار، بلکه به عنوان تنها راهبردِ باقی‌مانده دنبال می‌کند.  
-‏سیامک نمازی و عماد شرقی زندانیان دو تابعیتی که جمهوری اسلامی آن‌ها را گروگان گرفته بود، در نشست موسسه خاورمیانه با عنوان «جنگ جمهوری اسلامی با مردم خود» از سرکوب جمهوری اسلامی و آنچه از سر گذرانده‌اند، صحبت کرده‌اند. 
-‏
-‏بخوانید: https://iranwire.com/fa/hkok-bshr/154248
-20:31
-1405/04/06
-
-
-
-
 src :@defence_news
 ‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
 20:31
@@ -685,6 +700,8 @@ src :@VahidOnline
 ‏
 ‏هم‌اکنون تیم‌های عملیاتی و فنی برای رفع مشکل در محل پست حاضر و درحال حل مسئله هستند.
 ‏
+‏آپدیت:
+‏همچنان که خیلی‌ها پیام میدن که برق ما وصل نشده یک عده که برقشون وصل شده بود هم دارند پیام میدن که دوباره قطع شد. شاید به خاطر همون تعمیراته.
 ‏📡 @VahidOnline
 20:31
 1405/04/06
@@ -3291,15 +3308,6 @@ src :@intelslava
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇺🇸🇮🇱 Hezbollah Secretary General Naim Qassem is expected to release a statement shortly addressing the framework agreement signed in Washington yesterday.  @wfwitness
-16:30
-1405/04/06
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇷🇺❌🇺🇦 — Russian forces launch a massive combined drone and ballistic missile strike on Naftogaz production facilities, the company reports.
@@ -3347,16 +3355,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 16:25
-1405/04/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇱🇧🇺🇸🇮🇱 Hezbollah Secretary General Naim Qassem is expected to release a statement shortly addressing the framework agreement signed in Washington yesterday.
-‏
-‏@wfwitness
-16:24
 1405/04/06
 
 
@@ -3464,14 +3462,6 @@ src :@KayhanLondonChannel
 ‏- دولت در سال جاری سقف تسهیلات ودیعه مسکن را برای مستأجران تهرانی به ۳۶۵ میلیون تومان افزایش داده است؛ اما نرخ سود ۲۳ درصدی این تسهیلات موجب شده بسیاری از متقاضیان توان استفاده از آن را نداشته باشند.
 ‏
 ‏https://kayhan.london/1405/04/06/404113/
-16:13
-1405/04/06
-
-
-
-
-src :@MilitarryWorld
-‏⭕️فوری/ ایران یه کشتی دیگه رو توی تنگه هرمز هدف قرار داد  @MilitarryWorld | Parsa
 16:13
 1405/04/06
 
@@ -5996,6 +5986,16 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 00:53
+1405/04/06
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏فرماندهی مرکزی ارتش آمریکا، سنتکام، اعلام کرد که نیروهای آمریکایی روز جمعه ۵تیر۱۴۰۵ در واکنش به حمله ایران به یک کشتی تجاری در تنگه هرمز، مواضعی را در ایران هدف قرار دادند.
+‏بر اساس بیانیه سنتکام، هواپیماهای آمریکایی انبارهای موشک و پهپاد و همچنین تأسیسات راداری ساحلی ایران را بمباران کردند.
+00:51
 1405/04/06
 
 
