@@ -2183,15 +2183,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧 Locals burned the “Lebanon First” billboard that was put up today on Beirut’s Airport Road.  @wfwitness
-01:29
-1405/04/07
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US military says it gave Iran "a chance to honor the ceasefire" but they didn't listen.
 ‏
@@ -2963,14 +2954,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 01:04
-1405/04/07
-
-
-
-
-src :@intelslava
-‏🇮🇷⚡️ — Explosion heard in Sirik early Sunday; blasts reported near Tahroyeh port, unconfirmed by official sources per Mehr News.  @IntelSlava
-01:03
 1405/04/07
 
 
