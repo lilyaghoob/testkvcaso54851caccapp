@@ -1,3 +1,11 @@
+src :@naya_foriraq
+‏نايا - NAYA pinned a photo
+04:45
+1405/04/07
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏فرماندهی نیروی دریایی سپاه پاسداران در پیامی نوشت: «شلیک‌های کور آمریکا به سیریک معمای اشراف ما بر تنگه را حل نمی‌کند. اما شلیک‌های ما به متخلفین، راه روشن عبور را به باقی شناورها یادآوری می‌کند. حساب پایگاه‌های آمریکایی منطقه جداست. جهنم را در این روزها تجربه خواهند کرد.»
@@ -1119,14 +1127,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@naya_foriraq
-‏انفجارات عنيفة تهز الكويت
-03:39
-1405/04/07
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -1161,14 +1161,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏شلیک موشک بالستیک از ایران به سمت کویت 
 ‏
 ‏@Minas_Tirith2024
-03:39
-1405/04/07
-
-
-
-
-src :@naya_foriraq
-‏الصواريخ الإيرانية تدك الكويت
 03:39
 1405/04/07
 
@@ -2660,15 +2652,6 @@ src :@didarnews1
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 U.S. airstrikes targeted a telecommunications tower in the Tahrouyi village area of Sirik, Iran.   @wfwitness
-01:16
-1405/04/07
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏Sat, 27 Jun 2026 21:45:57 UTC
@@ -2933,14 +2916,6 @@ src :@intelslava
 
 src :@ClashReport
 ‏NEW: Several explosions heard near Tahrui village in Sirik (Hormozgan, Iran).
-01:05
-1405/04/07
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 American airstrikes on Sirik, Iran.  @wfwitness
 01:05
 1405/04/07
 
