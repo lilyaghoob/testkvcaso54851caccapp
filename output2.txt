@@ -1,3 +1,24 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇷🇺🇸 Iran says it "strongly condemns the airstrikes carried out by the terrorist US military."
+‏
+‏"These brutal attacks constitute...an explicit breach of the Memorandum of Understanding."
+‏
+‏@BRICSNews
+09:05
+1405/04/07
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇶 The deployment that took place overnight in Baghdad resulted in the arrest of several Iranian-aligned MPs and politicians within the Iraqi political framework.   The campaign is likely coordinated with the United States.  Earlier reports of Sunni Azm…
+09:02
+1405/04/07
+
+
+
+
 src :@wfwitness
 ‏⚡️🇮🇶 Local accounts report that military reinforcements are continuing to move toward Baghdad’s Green Zone, including the entrance to the Sikma Complex, which also serves as an access route to the small airstrip used by the US Embassy.   American logistics…
 09:01
@@ -2725,15 +2746,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇧🇭 Initial reports of explosions heard in Bahrain.  @wfwitness
-03:18
-1405/04/07
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏Sat, 27 Jun 2026 23:48:44 UTC
@@ -3647,16 +3659,6 @@ src :@defence_news
 
 
 
-src :@cataphract1
-‏⚜گزارش شده در روستای مسن شهرستان قشم هم انفجار شنیده شده است.
-‏✒️#LT
-‏📃@Cataphract1
-01:17
-1405/04/07
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏Sat, 27 Jun 2026 21:46:56 UTC
@@ -3769,20 +3771,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 01:14
-1405/04/07
-
-
-
-
-src :@cataphract1
-‏اصابت چند پرتابه به دکل مخابراتی در محدوده روستای طاهرویی سیریک
-‏
-‏یک منبع آگاه نظامی:
-‏
-‏صدای انفجارهای شنیده‌شده مربوط به اصابت چند پرتابه به دکل مخابراتی در محدوده روستای طاهرویی سیریک است/ صداوسیما
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-01:10
 1405/04/07
 
 
@@ -4780,35 +4768,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@defence_news
-[عکس]
-‏🇮🇷 حزب ناسیونالیست بزرگ ایران (NIGP) 🇮🇷
-‏https://t.me/hezbnigp
-‏https://t.me/hezbnigp
-‏برای ایران، برای ایرانیان، برای آینده‌ای شایسته ملت ایران
-‏
-‏🏛 پاسدار هویت ملی، فرهنگ و تمدن چند هزار ساله ایران
-‏📜 حافظ تاریخ و میراث پرافتخار نیاکان این سرزمین
-‏🛡 مدافع استقلال، حاکمیت و منافع ملی ایران
-‏⚔️ حامی اقتدار و توان دفاعی نیروهای مسلح ایران
-‏🌱 باورمند به پیشرفت، آبادانی و شکوفایی ایران
-‏🤝 خواهان وحدت، همبستگی و سربلندی ملت ایران
-‏🌍 مخالف هرگونه سلطه‌طلبی، استعمار و امپریالیسم خارجی
-‏
-‏ایران تنها یک سرزمین نیست؛
-‏ایران یک هویت، یک تاریخ و یک مسئولیت است.
-‏
-‏🔴 برای ساختن ایرانی نیرومند، مستقل و سربلند، به ما بپیوندید.
-‏
-‏🔴 حزب ناسیونالیست بزرگ ایران | NIGP
-‏https://t.me/hezbnigp
-‏https://t.me/hezbnigp
-22:29
-1405/04/06
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏‏ ‏ پرویز صیاد در شهرهای مختلف آلمان؛ از نمایش فیلم تا دیدار با شهردار فرانکفورت
@@ -5082,24 +5041,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇱🇱🇧 Israel prepares for an "extended stay" in southern Lebanon.
-‏
-‏@BRICSNews
-20:33
-1405/04/06
-
-
-
-
-src :@defence_news
-‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
-20:31
-1405/04/06
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پیام‌های دریافتی درباره قطع شدن برق در مناطق مختلف شرق تهران:
@@ -5319,24 +5260,6 @@ src :@OfficialRezaPahlavi
 
 
 
-src :@defence_news
-[عکس]
-‏سرور های گیمینگ و هوش مصنوعی فقط گیگی 5 تومان
-‏
-‏🇩🇪آلمان | 🇫🇷فرانسه | 🇳🇱هلند | 🇹🇷ترکیه
-‏
-‏تانل شده | پرسرعت | آیپی ثابت
-‏کانفیگ جایگزین در زمان نت ملی ✅
-‏
-‏برای تست رایگان و خرید از طریق  ربات و پشتیبانی اقدام کنید  👇
-‏@v2yabot
-‏@v2yab_support
-18:59
-1405/04/06
-
-
-
-
 src :@ManotoTV
 [عکس]
 ‏این مجموعه، تصاویری از افتتاح راکتور تحقیقاتی دانشگاه تهران در سال ۱۳۴۶ با حضور محمدرضا شاه پهلوی است.
@@ -5359,17 +5282,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 18:52
-1405/04/06
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: ⚽️ 2026 FIFA World Cup officially becomes the most-attended tournament ever, with over 3.6 million spectators.
-‏
-‏@BRICSNews
-18:51
 1405/04/06
 
 
@@ -6864,6 +6776,17 @@ src :@Parvazdaroj
 
 
 
+src :@defence_news
+[عکس]
+‏تصویری از جنگنده سوخو 57 از نمای پشت - در زیر جنگنده موشک های هوا به هوای کوتاه برد R74M و یک پاد هدف گیری دیده می شود.
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+10:18
+1405/04/06
+
+
+
+
 src :@Parvazdaroj
 [عکس]
 ‏◆ در بخش هوا به هوا تایپ 1478 مود های راداری متنوعی دارد که خلبان نسبت به شرایط میدان نبرد و آگاهی محیطی که مد نظر دارد میتواند استفاده کند 
@@ -6891,6 +6814,31 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
 10:10
+1405/04/06
+
+
+
+
+src :@defence_news
+[عکس]
+‏لایو ویژه " جنگ رمضان"
+‏
+‏سرفصل های لایو :
+‏
+‏🔶 بررسی عملکرد طرفین جنگ رمضان
+‏🔶 بررسی اخبار حین و پسا جنگ
+‏🔶 بررسی شرایط طرفین بعد از جنگ
+‏🔶 علت یابی آتش بس
+‏🔶 امکان سنجی توافق و احتمالات
+‏🔶 شرایط اسرائیل و آمریکا در قبال ایران
+‏🔴 هشدار یک بحران
+‏
+‏
+‏برای ثبت نام به حساب کاربری زیر مراجعه نمایید
+‏@sentinellive
+‏
+‏🔴 ظرفیت لایو محدود بوده و پس از اتمام فایل صوتی در دسترس مهمانان عزیز به مدت 30 روز قرار خواهد گرفت
+10:04
 1405/04/06
 
 
