@@ -1,3 +1,59 @@
+src :@rnintel
+‏🇾🇪⚡- Pro-Ansarullah al-Haimatain and al-A'mur tribes in the Taizz direction, southern Yemen, have also begun mobilization.
+14:16
+1405/04/07
+
+
+
+
+src :@World_Newsly
+‏🔴دو کشته و بیش از ۱۰ زخمی در حمله هوایی نیروهای دفاعی اسرائیل در شرق بیت لحیا، شمال نوار غزه. انتظار می‌رود تعداد کشته‌ها افزایش یابد.
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+14:14
+1405/04/07
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷⚡️ — Iranian Supreme Leader Mojtaba Khamenei released a statement calling for sweeping judicial reforms, tougher action against corruption, and the continued pursuit of legal cases over U.S. and Israeli war crimes.
+‏
+‏➡️ He calls for domestic and international legal action over attacks during the recent war, including those in Minab and Lamerd, and says investigations into the killing of former Supreme Leader Ali Khamenei should continue until those responsible are brought to justice. 
+‏
+‏➡️ Mojtaba also urges the judiciary to accelerate reforms, strengthen public trust, improve the efficiency of court proceedings, and intensify efforts to combat corruption.
+14:14
+1405/04/07
+
+
+
+
+src :@rnintel
+‏🇱🇧🇮🇱⚡- Multiple Israeli drones and a squadron of jets are present over the Litani and Zahrani area, Lebanon.
+14:12
+1405/04/07
+
+
+
+
+src :@cataphract1
+[عکس]
+‏⚜از نظر فنی، استفاده از یک پلتفرم پایه برای نقش‌های متفاوت، هزینه‌های چرخه عمر را به طور چشمگیری کاهش می‌دهد. این صرفه‌جویی شامل نگهداری، آموزش خلبان و تکنسین، قطعات یدکی، شبیه‌سازهای پروازی و زنجیره تأمین و... می‌شود که به مراتب ارزان‌تر از نگهداری ناوگان‌های کاملاً مجزا است.
+‏
+‏⚜ا این حال، در دنیای نظامی، اگر بودجه اجازه دهد، اولویت با کارایی بالا و بهینه‌سازی تخصصی است. در این رویکرد، هر نقش با پلتفرمی طراحی می‌شود که دقیقاً برای همان مأموریت مهندسی یا دست‌کم باز طراحی شده باشد (مانند KC-46 یا C-17). این روش عملکرد عملیاتی بالاتری ارائه می‌دهد، هرچند هزینه اولیه و لجستیکی بیشتری دارد.
+‏
+‏⚜هر دو رویکرد منطقی و قابل دفاع هستند، هردو نسبت به دیگری مزایا و معیابی دارند و کامل نیستند اما اگر بودجه ها نامحدود بود، اکثر کشورها رویکرد تخصص‌گرایی را ترجیح می‌دادند.
+‏
+‏✒️#erãn_spahbaz
+‏📃@Cataphract1
+14:12
+1405/04/07
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷 Iranian Supreme Leader Mojtaba Khamenei is expected to release a statement shortly on the occasion of Judiciary Week.  @wfwitness
@@ -1974,14 +2030,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴 منهای میلیتاری  ⭕ ‏یادته ی جا گفتی مردم ایران نفهمن ؟ خدا یجور گذاشت تو کاست که ده سال ترند سوژه های جهانی شدی ، واقعا هم که عزت و ذلت دست خداست.  ✍🏻 adolf hitler ▪️@World_Newsly
-12:03
-1405/04/07
-
-
-
-
 src :@naya_foriraq
 ‏🔻جيش الاحتلال الإسرائيلي سمح بالنشر: مقتل جندي صهيوني إثر اشتباكات عنيفة مع حزب الله جنوب لبنان.
 12:02
@@ -3312,15 +3360,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸🇱🇧🇮🇱 - U.S.-mediated Lebanon-Israel 14-point framework agreement:  1. End the conflict and formally transition toward a cessation of hostilities.  2. Israel will withdraw from Lebanon in phases, contingent on evolving security conditions.  3. The Lebanese…
-09:11
-1405/04/07
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇷🇺🇸 Iran says it "strongly condemns the airstrikes carried out by the terrorist US military."
@@ -3419,15 +3458,6 @@ src :@ircfspace
 
 
 
-src :@rnintel
-[عکس]
-‏🇦🇷⚡️- Manuel Adorni, the Cabinet Chief of Argentine President Javier Milei, has resigned following investigations into corruption allegations.
-08:31
-1405/04/07
-
-
-
-
 src :@ircfspace
 ‏گزارش تحقیقاتی HalcyonAi نشون میده شرکت ابرناک (مالک جدید دامین ویکی‌تجربه) مستقر در تهران تحت پوشش یک شرکت آمریکایی به اسم Cloudzy مشغول ارائه زیرساخت فنی به هکرهای حکومتی کره شمالی، چین، روسیه، ایران و چند کشور دیگه‌ست. زیرساخت این شرکت برای ۹۰ روز زیر ذره‌بین کارشناس‌ها میره و مشخص می‌شه نه تنها گروه‌های هکری حکومتی، بلکه گروه‌های باج‌افزاری از جمله شرکت تحریم‌شده اسرائیلی Candiru جزو مشتری‌های این شرکتن و بین ۴۰ تا ۶۰ زیرساخت‌هاش به فعالیت‌های مخرب و مجرمانه سایبری اختصاص داره.
 ‏
@@ -3475,32 +3505,11 @@ src :@ircfspace
 
 
 
-src :@cataphract1
-[عکس]
-‏داور سوت رو نزد  📃@Cataphract1
-08:19
-1405/04/07
-
-
-
-
 src :@guard_warriors
 ‏دیشب هم مثل اینکه صدای آژیر توی کویت و بحرین در اومده بود و صدای انفجار هم میومد اما هنوز گزارشی از اصابت موشک ها نشده 
 ‏
 ‏@Guard_Warriors
 08:14
-1405/04/07
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜بیانیه نیروی دریایی سپاه پاسداران.
-‏
-‏✒️#LT
-‏📃@Cataphract1
-08:12
 1405/04/07
 
 
