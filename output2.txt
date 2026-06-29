@@ -146,15 +146,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇮🇶 Eleven million dollars and four billion dinars in cash were discovered during the search at Deputy Oil Minister Ali Ma'arij Al-Bahadli home.  @wfwitness
-23:58
-1405/04/08
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇸🇾 — IDF troops stationed in southern Syria came under fire. No injuries were reported.  Israeli forces returned fire and launched mortar rounds toward the area. An Israeli Air Force helicopter also carried out a strike on an open area.  @TheWarReporter
 23:57
@@ -2728,14 +2719,6 @@ src :@cataphract1
 
 
 
-src :@naya_foriraq
-‏تحليق طيران مروحي إسرائيلي بأجواء عدة مناطق في حوض اليرموك.
-20:40
-1405/04/08
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏#پیشنهاد_فیلم
@@ -2795,14 +2778,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 20:34
-1405/04/08
-
-
-
-
-src :@naya_foriraq
-‏اعلام العدو: تم تفجير عبوة ناسفة استهدفت مقر القيادة الميداني لنائب قائد لواء الكوماندوز في جنوب لبنان. هناك مصابان من جنود الاحتياط في الوحدة. أحدهما في حالة خطيرة، والآخر في حالة متوسطة، وقد جرى إجلاؤهما بواسطة مروحية.
-20:30
 1405/04/08
 
 
@@ -3780,21 +3755,6 @@ src :@cataphract1
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️یک پرواز از تهران، روز دوشنبه هشتم تیرماه در فرودگاه بین‌المللی دبی به زمین نشست. این نخستین پرواز میان دو کشور از زمان آغاز جنگ آمریکا و اسرائیل علیه جمهوری اسلامی در ۹ اسفندماه است. هواپیمای شرکت «فلای‌سپهران» در ساعت ۱:۱۸ بعدازظهر دوشنبه در دبی فرود آمد و یک پرواز بازگشت نیز برای عصر همان روز برنامه‌ریزی شده بود.
-‏
-‏رامین کاشف آذر، مدیرعامل شرکت شهر فرودگاهی امام خمینی، اعلام کرد که این مسیر پروازی با هدف تسهیل سفر مسافران و تقویت ارتباطات هوایی در یکی از پرترددترین کریدورهای منطقه بازگشایی شده است. طبق اعلام اپراتور فرودگاه، شرکت‌های هواپیمایی «سپهران» در روزهای دوشنبه و چهارشنبه و «وارش» در روزهای سه‌شنبه پروازهای هفتگی به دبی خواهند داشت.
-‏
-‏این تحولات در حالی رخ می‌دهد که با وجود تبادل آتش‌های پراکنده، از تاریخ ۱۹ فروردین‌ماه آتش‌بس برقرار شده و ایران و آمریکا در حال طی کردن یک دوره ۶۰ روزه برای دستیابی به توافق صلح پایدار هستند. پیش از آغاز درگیری‌ها، ده‌ها پرواز هفتگی میان ایران و امارات برقرار بود.
-‏
-‏@indypersian
-18:47
-1405/04/08
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Trump Sons Poised to Profit From Billion-Dollar US-Kazakhstan Tungsten Mine Deal
@@ -3803,16 +3763,6 @@ src :@ClashReport
 ‏
 ‏READ MORE
 18:46
-1405/04/08
-
-
-
-
-src :@MilitarryWorld
-‏⭕️وزارت حمل و نقل قطر به تمام کشتی‌های دریایی توصیه کرده است که به طور موقت سفرهای دریایی و سایر فعالیت‌های دریایی را در تنگه هرمز متوقف کنند.
-‏
-‏@MilitarryWorld | Parsa
-18:44
 1405/04/08
 
 
@@ -3999,6 +3949,31 @@ src :@GeoPWatch
 src :@wfwitness
 ‏🇺🇸🇮🇷🇶🇦 White House Press Secretary Karoline Leavitt has confirmed that Iran has requested a meeting this week.   Special envoy's Steve Witkoff and Jared Kushner will fly to Doha for high-level talks, with technical discussions taking place on the sidelines.…
 18:10
+1405/04/08
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇷🇺 OFAC: The US Treasury Department has removed three Russian entities from its sanctions list.
+‏
+‏The delisted entities are Elbrus Design Bureau JSC, Elbrus Design Bureau LLC and JSC NIIEFA (Research Institute of Electrophysical Apparatus).
+‏
+‏@wfwitness
+18:08
+1405/04/08
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇶🇦 Qatar has temporarily suspended sailing and all maritime activities for leisure boats, fishing boats, jet skis and other small vessels until further notice, citing public safety concerns.
+‏
+‏The ministry said vessels operating under international maritime conventions and established regulations are exempt from the order. It added that the precautionary measure was taken in coordination with security authorities and that further updates will be issued through official channels.
+‏
+‏@wfwitness
+18:06
 1405/04/08
 
 
@@ -6094,14 +6069,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 00:14
-1405/04/08
-
-
-
-
-src :@warmonitors
-‏⚡#LATEST Barak Ravid: Senior US official tells me: US and Iran have agreed to stop mutual attacks in the Strait of Hormuz and to hold a meeting on Tuesday in Doha
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:08
 1405/04/08
