@@ -1,3 +1,29 @@
+src :@World_Newsly
+[عکس]
+‏🔴 علیرضا بیرانوند: شرمنده‌ایم که رویای صعود را محقق نکردیم/ اگر ثانیه‌ای حالتان را خوب کرده‌ایم به خودمان می‌بالیم
+‏
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+11:40
+1405/04/08
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️تصاویری از واحد ۲۴ام نیروی دریایی ایالات متحده آمریکا اعزامی به دریای کارائیب جنوبی حال ارائه کمک و امدادرسانی به زلزله زدگان ونزوئلا 
+‏
+‏@MilitarryWorld | Parsa
+11:40
+1405/04/08
+
+
+
+
 src :@jangaavaran1390
 ‏رئیس‌جمهور روسیه، پوتین، دیروز برای اولین بار اعتراف کرد که روسیه به دلیل حملات اوکراین به خاک خود با کمبود و مشکلات سوخت مواجه است، اما ادعا کرد که نیروهایش به جنگ ادامه خواهند داد و حتی به تصرفات بیشتر در خاک اوکراین اشاره کرد. «این حملات به تأسیسات زیرساختی ما مشکلاتی ایجاد می‌کند، این واضح است»، او در مصاحبه با رسانه‌های محلی گفت و ادعا کرد که «کمبود بحرانی نیست»
 11:36
@@ -2537,17 +2563,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏⭕️هم اکنون حملات هوایی اسرائیل به جنوب لبنان
-‏
-‏@MilitarryWorld | Parsa
-00:32
-1405/04/08
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏وبسایت اکسیوس، روز یکشنبه ۷تیر ۱۴۰۵، به نقل از مقام های آمریکایی گزارش داد که آمریکا و جمهوری اسلامی توافق کرده اند حملات متقابل را متوقف کنند و روز سه شنبه در دوحه، پایتخت قطر، برای حل اختلاف ها بر سر تنگه هرمز دیدار کنند.
@@ -2716,18 +2731,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-‏⭕️فوری از اکسیوس: 
-‏
-‏ایالات متحده و ایران توافق کرده‌اند که حملات متقابل در تنگه هرمز را متوقف کنند و روز سه‌شنبه در دوحه جلسه‌ای برگزار نمایند
-‏
-‏@MilitarryWorld | Parsa
-23:59
-1405/04/07
-
-
-
-
 src :@jangaavaran1390
 ‏ما کانفیگ نمی‌فروشیم،
 ‏پایداری + اعصابِ راحت می‌فروشیم.
@@ -2885,16 +2888,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:49
-1405/04/07
-
-
-
-
-src :@MilitarryWorld
-‏⭕️بیانیه نتانیاهو و کاتس: تونل حزب‌الله در مجدل زون را منهدم کردیم/ به تخریب زیرساخت‌های حزب‌الله ادامه می‌دهیم/ در منطقه امنیتی خواهیم ماند
-‏
-‏@MilitarryWorld | Parsa
-23:48
 1405/04/07
 
 
@@ -3071,16 +3064,6 @@ src :@BellumActaNews
 
 
 
-src :@ClashReport
-‏Putin:
-‏
-‏Lukashenko is not panicking because of Zelensky's sharp remarks.
-23:25
-1405/04/07
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 آکسیوس: شکاف در حمایت جمهوری‌خواهان از اسرائیل در حال گسترش است
@@ -3109,23 +3092,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-[عکس]
-‏Putin:
-‏
-‏"The Spirit of Anchorage" was never formalized in any official documents.
-‏
-‏No one signed anything, but we discussed certain possibilities for ending the conflict in Ukraine, as well as the compromises under consideration.
-‏
-‏Those compromises were precisely the proposals that the American side presented to us. We were asked to make concessions formulated by the U.S. negotiators.
-‏
-‏We agreed to make those concessions.
-23:24
-1405/04/07
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏مهدی فضائلی، عضو دفتر حفظ و نشر آثار رهبر جمهوری اسلامی، اعلام کرد که جمهوری اسلامی در مذاکرات فنی برنامه‌ریزی شده با آمریکا شرکت نکرده و این گفتگوها لغو شده است.
@@ -3147,17 +3113,6 @@ src :@BellumActaNews
 ‏
 ‏LebOSINT | Subscribe
 23:23
-1405/04/07
-
-
-
-
-src :@MilitarryWorld
-‏⭕️نایا به نقل از رسانه های سعودی: 
-‏رهگیری موشک ها بر فراز شمال اردن
-‏
-‏@MilitarryWorld | Parsa
-23:22
 1405/04/07
 
 
@@ -5776,24 +5731,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 12:00
-1405/04/07
-
-
-
-
-src :@Middle_East_Spectator
-‏If Austria and Algeria draw tonight, Iran is out of the World Cup.  If Algeria wins or Austria wins, Iran continues to the knockout stage.
-11:41
-1405/04/07
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏سربازان اصلی نیروی هوایی در یک قاب،مگر اینکه قرارداد دیگری بسته و به ناوگان اضافه بشود ‌.
-‏تصویر هوش مصنوعی است،انشالله از اواسط ۱۴۰۶ تصویر اصلی میبینیم
-‏
-‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
-11:40
 1405/04/07
