@@ -1,3 +1,63 @@
+src :@selena_updates
+[عکس]
+‏Last week (Tuesday), the IDF and the ISA struck in Gaza and eliminated the terrorist Ismail Masri, Head of Military Defense in Hamas’ Rafah Brigade.
+‏
+‏Masri was a senior figure within Hamas’ apparatus in the Rafah Brigade. As part of his role, he was responsible for advancing activities intended to harm IDF soldiers in the Gaza Strip.
+‏
+‏Throughout the war, Masri coordinated the military security and counterintelligence fields in the Rafah Brigade and was involved in rehabilitating and rebuilding Hamas’ military capabilities, with the objective of carrying out attacks against them.
+20:21
+1405/04/08
+
+
+
+
+src :@mohem_mat
+‏سخنگوی دولت عراق اعلام کرد 
+‏
+‏ دولت به کلیه گروه‌های مسلح در این کشور تا ۳۰ سپتامبر سال جاری،‌ هشتم مهرماه آینده، فرصت داده است تا سلاح‌های خود را تحویل دهند.
+‏
+‏تاریخ اعلام‌شده با پایان مأموریت ائتلاف بین‌المللی ضد داعش به رهبری آمریکا در عراق همزمان است.
+‏
+‏این خبر در آستانه سفر علی الزیدی، نخست‌وزیر جدید عراق، به ایالات متحده منتشر می‌شود، سفری که در حالی انجام می‌شود که واشنگتن بغداد را برای اطمینان از خلع سلاح این گروه‌ها تحت فشار قرار داده است.
+‏
+‏او افزود: «پس از این تاریخ، هرگونه سلاح خارج از چارچوب دولت، مشمول پیگرد قانونی خواهد شد.»
+‏
+‏@mohem_mat
+20:20
+1405/04/08
+
+
+
+
+src :@MilitarryWorld
+‏⭕️آمریکا اعلام کرد که بدون پیشرفت در توافق هسته‌ای، دارایی‌های مسدودشده ایران را آزاد نخواهد کرد.
+‏
+‏@MilitarryWorld | Parsa
+20:20
+1405/04/08
+
+
+
+
+src :@Mena_Live
+[عکس]
+‏Israel destroyed every single building in the southern Lebanese Shiite town of Majdal Zun.
+‏
+‏@Mena_Live
+20:19
+1405/04/08
+
+
+
+
+src :@naya_foriraq
+‏وزير الخارجية العراقي فؤاد حسين يلتقي الارهابي ابو محمد الجولاني
+20:18
+1405/04/08
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏سفارت جمهوری اسلامی ایران در دوحه اعلام کرد که مقدمات برگزاری مذاکرات میان تهران و واشنگتن در قطر هنوز آغاز نشده و تاکنون هیچ اطلاع رسمی درباره برگزاری چنین نشستی دریافت نکرده است.
@@ -5,6 +65,16 @@ src :@Farsi_Iranwire
 ‏
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154338
 ‏@Farsi_Iranwire
+20:17
+1405/04/08
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡️- Supreme Court ruled this morning that states can collect absentee ballots marked by election day but received 5 days after the election.
+‏
+‏Justice Barrett and Chief Justice Roberts sided with the liberals.
 20:17
 1405/04/08
 
@@ -3069,16 +3139,6 @@ src :@rnintel
 
 
 
-src :@MilitarryWorld
-‏⭕️رویترز: توافق بر سر آزادسازی ۶میلیارد دلار از دارایی ایران در مراحل پایانی است
-‏
-‏@MilitarryWorld | Parsa
-16:17
-1405/04/08
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏دفتر رسانه‌ای شاهزاده رضا پهلوی:
@@ -3138,14 +3198,6 @@ src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷🇶🇦 — The US and Iran have agreed to halt military strikes and will meet Tuesday in Doha, Qatar, to address tensions over the Strait of Hormuz.  The talks, originally intended to focus on Iran's nuclear program, will instead center on ensuring the safe…
 16:15
-1405/04/08
-
-
-
-
-src :@naya_foriraq
-‏هيئة النزاهة العراقية: السجن لمدير عام الهيئة العامة للضرائب الأسبق وزوجته عن جريمة غسل الأموال. الحكم تضمن تغريمهما أكثر من (32) مليار دينار ومصادرة عقارات وأموال داخل العراق وخارجها ومصادرة (22) عقاراً في بغداد وتركيا باسم المدانة وبدلات إيجارها ومخشلات ذهبية عائدة لها ومصادرة الأموال المودعة في البنوك التركية والكويتية العائدة للمدانة
-16:14
 1405/04/08
 
 
@@ -4189,14 +4241,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇾🇪🇮🇱⚡- "The Houthis are using the recent period to conduct missile tests, with the aim of improving their capabilities in this field. It seems that the purpose of these tests is to improve the range and accuracy of the missiles as well," - Israeli Channel 15, citing Western intelligence.
-13:19
-1405/04/08
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏
@@ -4236,22 +4280,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 13:16
-1405/04/08
-
-
-
-
-src :@mohem_mat
-‏ادعای رویترز: مذاکرات فنی ایران و آمریکا از سر گرفته می‌شود
-‏
-‏به گزارش رویترز و به نقل از یکی از مقامات آمریکایی، واشنگتن و تهران بر سر توقف حملات نظامی در خلیج فارس به توافق رسیده‌اند و قرار است مذاکرات درباره تنگه هرمز و اختلافات موجود در این مورد از سر گرفته شود.
-‏
-‏همچنین المیادین نوشت:
-‏
-‏ محل مذاکرات فنی ایران و آمریکا از سوئیس به قطر تغییر کرد و به گفته یک مقام آمریکایی، این مذاکرات همچنان طبق برنامه در روزهای آینده برگزار خواهد شد
-‏
-‏@mohem_mat
-13:10
 1405/04/08
 
 
