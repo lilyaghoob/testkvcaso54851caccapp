@@ -1,3 +1,32 @@
+src :@World_Newsly
+‏🔴 شین | درگیری‌ها میان گروه‌های کُرد و نیروهای سپاه پاسداران انقلاب اسلامی در پاوه، استان کرمانشاه.
+‏تلفاتی از عناصر سپاه پاسداران گزارش شده.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+01:25
+1405/04/09
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 رسانه نزدیک به سپاه: ایران چاره‌ای جز ساخت سلاح هسته‌ای ندارد
+‏
+‏یک رسانه وابسته به سپاه پاسداران در گزارشی خواستار حرکت ایران به سمت تولید سلاح هسته‌ای شده و مدعی شده است:
+‏«ایران هیچ راهی جز ساخت بمب هسته‌ای ندارد تا بتواند از صلح و آرامش محافظت کرده و جایگاه و حق دفاع خود در برابر آمریکا و اسرائیل را تقویت کند.»
+‏انتشار این گزارش در حالی صورت می‌گیرد که ایران به‌تازگی بر اساس یک تفاهم‌نامه با آمریکا، متعهد شده است از پیگیری ساخت سلاح هسته‌ای خودداری کند و بازرسی‌های بین‌المللی از تاسیسات هسته‌ای را بپذیرد.
+‏این موضع‌گیری در شرایطی مطرح شده که هنوز مشخص نیست آیا بازتاب‌دهنده دیدگاه رسمی مقام‌های ایران است یا صرفاً نظر یک رسانه نزدیک به سپاه محسوب می‌شود.
+‏
+‏✍🏻 Cybex
+‏▪️@World_Newsly
+01:21
+1405/04/09
+
+
+
+
 src :@naya_foriraq
 ‏🔻اشتباكات بين الجماعات ارهابية وقوات الحرس الثوري الإيراني في بافيه مقاطعة كرمانشاه الايرانية،شهيدين كحصيلة اولية من الحرس الثوري.
 01:18
@@ -414,7 +443,7 @@ src :@Minas_Tirith2024
 
 src :@naya_foriraq
 [عکس]
-‏🔻تجهيز موقع المصلى استعدادًا لإقامة مراسم جماهيرية في العاصمة الايرانية طهران،لدفن حبيبنا الشهيد السيد علي الخامنئي.
+‏🔻توثيق من تجهيز موقع المصلى لاستقبال الجسد الطاهر للسيد علي الخامنئي، استعدادا لإقامة المراسيم جماهيرية في العاصمة الإيرانية طهران.
 00:22
 1405/04/09
 
@@ -1554,18 +1583,6 @@ src :@mwarmonitor
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 جایگاه وداع با رهبری جمهوری اسلامی ایران در مصلّی تهران.
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-22:54
-1405/04/08
-
-
-
-
 src :@USAMRYDATA
 [ویدئو]
 ‏وقتی باخودت فک میکنی عجب سخت پوستی بودی تو این مملکت اشوب 
@@ -1606,20 +1623,6 @@ src :@tabzlive
 ‏
 ‏They also agreed to establish a joint trade monitoring mechanism to track abnormal shifts in imports and exports, with political consultations triggered if trade flows reach designated "amber" or "red" risk levels.
 22:52
-1405/04/08
-
-
-
-
-src :@World_Newsly
-‏🔴 وزیر دفاع اسرائیل، اسرائیل کاتز:
-‏«به ارتش اسرائیل دستور داده شده است برای عملیات "آبی و سفید" در ایران آماده شود؛ عملیاتی که ممکن است از فردا آغاز شود.
-‏معادله بدون تغییر باقی می‌ماند: اگر حزب‌الله به شهرک‌های شمالی اسرائیل شلیک کند، ارتش اسرائیل منطقه ضاحیه بیروت را هدف قرار خواهد داد.»
-‏همچنین، اشاره به «ضاحیه» مربوط به Dahieh، پایگاه اصلی نفوذ Hezbollah در جنوب بیروت است.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-22:50
 1405/04/08
 
 
@@ -2855,17 +2858,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇦🇪🇸🇾🇮🇱⚡️ — The UAE strongly condemns Israeli incursions into Syrian territory in the Quneitra and Daraa governorates, describing them as a flagrant violation of international law and the 1974 Disengagement Agreement. 
-‏
-‏The UAE reaffirmed its support for Syria's sovereignty and called on the international community to take immediate action to halt the attacks and prevent further escalation.
-21:02
-1405/04/08
-
-
-
-
 src :@didarnews1
 ‏🔴 پزشکیان در دیدار با مدیر حوزه‌های علمیه:
 ‏
@@ -2913,18 +2905,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 20:54
-1405/04/08
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇳⚡️ — UN Secretary-General António Guterres:
-‏Terrorism is evolving — exploiting emerging technologies, including AI, digital platforms & unmanned weapons. And no nation can address it alone.
-‏
-‏We must strengthen prevention, cooperation & our commitment to human rights to build a safer world where people live free from fear.
-20:53
 1405/04/08
 
 
@@ -3019,19 +2999,6 @@ src :@DEJradio
 ‏
 ‏#اسرائیل
 ‏@DEJradio
-20:45
-1405/04/08
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇨🇿🇹🇷🪖⚡️ — A dispute emerged in the Czech Republic over who will represent the country at next week's NATO summit in Türkiye, with President Petr Pavel and Prime Minister Andrej Babiš both claiming the right to lead the delegation.
-‏
-‏➡️ After a Constitutional Court injunction, the government agreed to allow Pavel to attend the summit but insisted that Babiš would lead the delegation and participate in the main meetings. Babiš argued that Pavel's views differ from the government's, particularly on defense spending and military aid to Ukraine.
-‏
-‏➡️ Pavel, a former NATO Military Committee chief, said longstanding practice gives the president the role of heading the delegation and that he intends to attend the leaders' dinner and plenary session while respecting the government's positions.
 20:45
 1405/04/08
 
