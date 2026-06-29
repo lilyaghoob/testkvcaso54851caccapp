@@ -1,3 +1,14 @@
+src :@P_raetorio
+[عکس]
+‏ارتش روسیه در تمام ماه ژوئن تنها 29 کیلومتر مربع پیشروی مثبت داشته است!
+‏
+‏@P_raetorio
+01:38
+1405/04/09
+
+
+
+
 src :@tabzlive
 ‏🇮🇱🇻🇪⚡️ — Israel is sending a joint delegation to Venezuela to assist with disaster relief after last week's devastating earthquakes, following instructions from Prime Minister Benjamin Netanyahu and Foreign Minister Gideon Sa’ar.
 ‏
@@ -1095,14 +1106,6 @@ src :@jangaavaran1390
 
 
 
-src :@IranintlTV
-[نظرسنجی]
-23:37
-1405/04/08
-
-
-
-
 src :@World_Newsly
 ‏🔴 وزارت بهداشت غزه : در حملات امروز اسرائیل پنج فلسطینی از جمله یک کودک را کشته شدند.
 ‏
@@ -2161,14 +2164,6 @@ src :@Indypersian
 ‏
 ‏@INDYPERSIAN
 22:12
-1405/04/08
-
-
-
-
-src :@tabzlive
-‏🇵🇰❌🇦🇫 — Pakistan released footage of recent airstrikes on Jamaat-ul-Ahrar/TTP camps in Paktia, Paktika, and Kunar, Afghanistan.
-22:11
 1405/04/08
 
 
