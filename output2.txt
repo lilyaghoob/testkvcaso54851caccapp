@@ -1,3 +1,65 @@
+src :@GeoPWatch
+[عکس]
+‏The IDF, too, has acknowledge the attacks, and announced demolishing a 200m long tunnel 25m deep in 'Majdal Zoun', used to store and assemble UAVs [1]
+14:15
+1405/04/08
+
+
+
+
+src :@defence_news
+[عکس]
+‏بالگرد های تهاجمی / ترابری سری Mi 24 مارک 3 ارتش الجزایر سوپر هایند که توسط شرکت ATE آفریقای جنوبی ارتقاء پیدا کرده است. این مدل از ارتقاء شاید یکی از پیشرفته ترین بالگردهای تهاجمی سری هایند به حساب می آید.
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+14:15
+1405/04/08
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇺🇸 Iranian Deputy Foreign Minister Kazem Gharibabadi has denied reports that technical working group meetings with the United States are scheduled for this week.
+‏
+‏Gharibabadi said no such meetings have been planned and that the first round of technical talks will take place once conditions are suitable and a date and venue have been agreed.
+‏
+‏Gharibabadi said consultations with Qatar continue regarding the implementation of the other side’s commitments. The denial comes after media speculation about a possible technical meeting in Doha.
+‏
+‏@wfwitness
+14:14
+1405/04/08
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🚨 فوری 
+‏
+‏رویترز: ایران شرکت در مذاکرات فنی را لغو کرد.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+14:12
+1405/04/08
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇦🇮🇱🇸🇾 The Saudi Arabian Foreign Ministry has condemned Israeli incursions into Syrian territory and the shelling of Quneitra and Daraa provinces, calling for an end to violations and adherence to the 1974 disengagement agreement.
+‏
+‏Israeli forces shelled the vicinity of A bidin village in western Daraa overnight and opened fire from a military helicopter, causing several families to flee to nearby towns. 
+‏
+‏@wfwitness
+14:11
+1405/04/08
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏هم‌زمان با ادامه اعتراض‌های صنفی در ایران، روز دوشنبه ۸تیر۱۴۰۵، گروه‌هایی از کارگران، رانندگان و پرستاران در رشت و تهران تجمع‌های اعتراضی برگزار کردند.
@@ -2271,20 +2333,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇺🇳🇮🇷 Fox News: US Ambassador to the UN Mike Waltz said Iran’s leverage over the Strait of Hormuz is “diminishing day by day,” arguing Tehran is becoming increasingly isolated over its efforts to impose fees on ships using the waterway.
-‏
-‏Waltz said Gulf states are expanding alternative oil export routes that bypass the Strait, while the US is looking to harden and potentially relocate some of its military bases in the region. He also claimed China opposes Iran’s proposal to charge transit fees and that Oman refused to help establish the necessary infrastructure.
-‏
-‏“Iran’s attempt to hold the world hostage… is completely failing,” Waltz said, warning Tehran it faces a “path to absolute ruin” if it continues its current course and adding that President Trump’s patience “isn’t going to last forever.”
-‏
-‏@wfwitness
-10:49
-1405/04/08
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 بریتانیا ناوشکن‌های Type 83 را کنار می‌گذارد؛ چرخش به سمت شناورهای رزمی بدون‌سرنشین
@@ -2316,20 +2364,6 @@ src :@militaryinpersian
 ‏
 ‏@MilitarytodayIR
 10:48
-1405/04/08
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇮🇱 Die Welt: Director-General of Israel’s National Cyber Directorate Yossi Karadi says Iranian cyberattacks against Israel have nearly tripled since the start of the US-Israeli war on Iran.
-‏
-‏Karadi told Die Welt that hostile cyber incidents rose from around 1,600 in June 2025 to approximately 4,800 in June 2026. He said the attacks targeted critical infrastructure, major organisations, small businesses, law firms and accounting firms, adding: “Unlike in the kinetic realm, there’s no ceasefire in cyberspace.”
-‏
-‏Karadi said Israel has so far prevented successful attacks on critical infrastructure, but warned that companies with weaker cyber defences often had their systems completely wiped after being breached.
-‏
-‏@wfwitness
-10:47
 1405/04/08
 
 
@@ -3228,19 +3262,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — U.S. Homeland Security Secretary Markwayne Mullin told Breitbart that 2026 deportations are on pace to exceed the total for all of 2025 within the next six weeks, with DHS carrying out removals at "record rates."
-‏
-‏Mullin said the department is prioritizing individuals with final deportation orders, felony records, those released from state prisons, and migrants whose asylum claims were denied or who failed to appear in court. 
-‏
-‏He added that officers frequently encounter and detain additional undocumented immigrants during these operations, saying the department remains focused on removing the "worst of the worst" from the country.
-04:35
-1405/04/08
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇺🇸🇻🇪⚡- Further images of LCF-24 assisting the Venezuelan people following the disastrous earthquake in Caracas.
@@ -3432,16 +3453,6 @@ src :@P_raetorio
 ‏
 ‏https://t.me/AtlasRelayFastbot?start=praetorio
 01:01
-1405/04/08
-
-
-
-
-src :@P_raetorio
-‏🔹باراک راوید خبرنگار آکسیوس مدعی شده که ایران و آمریکا توافق کرده‌اند که حملات را متوقف کرده و این هفته ملاقات کنند.
-‏
-‏🔹 این مذاکرات ابتدا قرار بود سه‌شنبه، در سوئیس برگزار شود، تشدید تنش‌ها آن را به مکان دیگری منتقل کرد و وقتی دوباره همه چیز بر تنگه هرمز متمرکز شد مذاکرات لغو شد و حالا قرار جدیدی برای ادامه مذاکرات در قطر گذاشته شده است.
-00:57
 1405/04/08
 
 
@@ -4988,17 +4999,6 @@ src :@Parvazdaroj
 
 
 
-src :@defence_news
-[عکس]
-‏یک سروان از تیپ گولانی ارتش اسراییل در جریان درگیری نزدیک در یک خانه با نیروهای حزب الله لبنان در خانه ای در روستای دير سريان در جنوب این کشور کشته شد.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-19:00
-1405/04/07
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇹🇷 — Israeli PM Netanyahu:
 ‏
@@ -5031,38 +5031,12 @@ src :@didarnews1
 
 
 
-src :@defence_news
-‏🔹 نتانیاهو: مخالفت خود با فروش جنگنده‌های F-35 به ترکیه را به آمریکا منتقل خواهیم کرد
-‏
-‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در نشست کابینه این کشور و در واکنش به تمایل آمریکا برای فروش جنگنده‌های F-35 به ترکیه، اعلام کرد:
-‏
-‏«تقریباً هیچ روزی نمی‌گذرد که رجب طیب اردوغان خواستار نابودی اسرائیل نشود. ما این اظهارات را کاملاً جدی می‌گیریم، زیرا اگر تاریخ ملت ما یک درس داشته باشد، این است که وقتی کسی می‌گوید قصد نابودی شما را دارد، باید او را جدی بگیرید.»
-‏
-‏وی افزود: «ما این موضوع را با دوستان آمریکایی خود نیز در میان خواهیم گذاشت و این اظهارات را نادیده نخواهیم گرفت.»
-‏
-‏#اسرائیل #ترکیه #آمریکا #F35 #نتانیاهو #اردوغان #جنگاوران
-‏
-‏https://t.me/jangaavaran1390
-18:56
-1405/04/07
-
-
-
-
 src :@Mena_Live
 ‏Leak, Netanyahu during cabinet session with his ministers against the backdrop of the American desire to sell engines to Turkey for fighter jets and the F35 jet:
 ‏
 ‏"Almost a day does not pass that Erdogan does not call for the destruction of the State of Israel - we take these words very seriously, because if we have learned one thing in the history of our people - when someone says they intend to destroy you, take them seriously. We take these things seriously, and we will also draw the attention of our American friends to these statements. We do not ignore them."
 ‏
 ‏@Mena_Live
-18:54
-1405/04/07
-
-
-
-
-src :@defence_news
-‏https://t.me/RedLionCorps/37875
 18:54
 1405/04/07
 
