@@ -2966,18 +2966,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-‏A senior U.S. official said technical talks with Iran on implementing the memorandum of understanding remain on track despite recent strikes. 
-‏
-‏The official said no talks have been canceled and both sides continue communicating through deconfliction channels.
-‏
-‏Source: NYT
-22:39
-1405/04/07
-
-
-
-
 src :@cataphract1
 ‏⭕️شبکه کان نیوز گزارش داد که مقامات ارشد اطلاعاتی ارتش اسرائیل به ایال زامیر، رئیس ستاد کل ارتش، هشدار داده‌اند که حماس در حال بازسازی توان نظامی خود برای ازسرگیری جنگ است.
 ‏
@@ -6200,14 +6188,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 08:22
-1405/04/07
-
-
-
-
-src :@guard_warriors
-‏دیشب هم مثل اینکه صدای آژیر توی کویت و بحرین در اومده بود و صدای انفجار هم میومد اما هنوز گزارشی از اصابت موشک ها نشده 
-‏
-‏@Guard_Warriors
-08:14
 1405/04/07
