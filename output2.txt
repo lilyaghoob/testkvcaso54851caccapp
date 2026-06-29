@@ -1,3 +1,28 @@
+src :@MilitarryWorld
+‏⭕️چندین شناور زیر نظارت سنگین نیروی دریایی و هوایی آمریکا در حال عبور از بخش عمانی تنگه هرمز هستند
+‏
+‏بلومبرگ: واشنگتن به سختی در تلاش است تا مسیر عمانی را باز و فعال نگه دارد.
+‏
+‏@MilitarryWorld | Parsa
+08:33
+1405/04/08
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇨🇳🇧🇾 Belarusian President Alexander Lukashenko met Chinese leader Xi Jinping in Beijing for talks, with Xi saying China-Belarus relations are at a “historic peak.”
+‏
+‏Lukashenko’s visit comes days after his talks with Russian President Vladimir Putin.
+‏
+‏@wfwitness
+08:31
+1405/04/08
+
+
+
+
 src :@mohem_mat
 ‏یاسر المسحل، رئیس فدراسیون فوتبال عربستان سعودی، روز یکشنبه در پی حذف تیم ملی این کشور از جام جهانی در مرحله گروهی، از سمت خود استعفا داد.
 ‏
@@ -2067,18 +2092,6 @@ src :@P_raetorio
 
 
 
-src :@wfwitness
-‏⚡️🇵🇰🇦🇫 Pakistan says they carried out ground operations and cross-border strikes on June 28 against militant hideouts along the Afghanistan border, claiming 29 militants were killed, including a senior Jamaat-ul-Ahrar commander. 
-‏
-‏Pakistan says the strikes targeted camps in the Paktia, Paktika, and Kunar regions following recent militant attacks inside the country.
-‏
-‏@wfwitness
-23:39
-1405/04/07
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏انفجار‌ها در مجدل زون  @P_raetorio
@@ -2730,21 +2743,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 22:51
-1405/04/07
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The White House is concerned Britain will not deliver on its pledge to raise defense spending to 5% of GDP, with officials warning some European allies made a "false promise" to satisfy Trump.
-‏
-‏The concerns come as Andy Burnham prepares to succeed Keir Starmer as prime minister. 
-‏
-‏Although Burnham has signalled he supports higher defense spending, the government's upcoming defense plan is expected to delay setting a date for reaching 3% of GDP.
-‏
-‏Source: The Telegraph
-22:50
 1405/04/07
 
 
@@ -3780,18 +3778,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 20:09
-1405/04/07
-
-
-
-
-src :@MilitarryWorld
-‏🚨فوری/وال‌استریت ژورنال: 
-‏
-‏گفتگوهای برنامه‌ریزی‌شده ایران و آمریکا در این هفته، تعلیق شد
-‏
-‏@MilitarryWorld | Parsa
-20:03
 1405/04/07
 
 
@@ -6100,23 +6086,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 08:43
-1405/04/07
-
-
-
-
-src :@ircfspace
-‏گزارش تحقیقاتی HalcyonAi نشون میده شرکت ابرناک (مالک جدید دامین ویکی‌تجربه) مستقر در تهران تحت پوشش یک شرکت آمریکایی به اسم Cloudzy مشغول ارائه زیرساخت فنی به هکرهای حکومتی کره شمالی، چین، روسیه، ایران و چند کشور دیگه‌ست. زیرساخت این شرکت برای ۹۰ روز زیر ذره‌بین کارشناس‌ها میره و مشخص می‌شه نه تنها گروه‌های هکری حکومتی، بلکه گروه‌های باج‌افزاری از جمله شرکت تحریم‌شده اسرائیلی Candiru جزو مشتری‌های این شرکتن و بین ۴۰ تا ۶۰ زیرساخت‌هاش به فعالیت‌های مخرب و مجرمانه سایبری اختصاص داره.
-‏
-‏آدرس خارج از ایران این شرکت (که قبلا اسمش Router Hosting بوده) به دو کشور قبرس و آمریکا منتهی میشه. نشانی آمریکا به یک مرکز خرید در ایالت وایومینگ می‌رسه که آدرسش با بیش از دو هزار شرکت دیگه مشترکه. ثبت‌کننده کلادزی در آمریکا شرکتیه به اسم Cloud Peak Law که تخصصش ثبت شرکت ناشناسه. 
-‏
-‏گزارش تاکید کرده بعیده مدیران کلادزی یا همون ابرناک ندونن که بیش از نیمی از زیرساخت شبکه‌شون داره برای کارهای مجرمانه استفاده میشه. این شرکت در واقع به عنوان command-and-control provider به هکرها فعالیت میکنه و برای استفاده ازش فقط داشتن آدرس ایمیل و رمزارز کافیه. ابرناک در ایران در سال ۹۹ با نام «آلان فن آوری ابری» ثبت شده. دانش بنیانه، بسیار هم فعاله و در حال حاضر ۳۴ فرصت شغلی باز در سایت جابینجا داره. مدیر این شرکت محمد حنان نوذری به رویترز گفته فقط ۲ درصد از زیرساخت‌هاشون در اشغال فعالیت‌های مخربه. همینطور گفته نباید چاقو فروش رو مسئول خلاف مشتری دونست.
-‏
-‏دور از انتظار نیست اگر اسم این شرکت و عوامل اصلیش رو توی فهرست تحریم‌های آینده ببینیم. ابرناک حساب‌های توییتر، اینستاگرام و لینکدین خودش رو غیرفعال کرده. نکته آخر اینکه غلامعباس نوذری که در شرکت ابرناک شریک محمد حنان (احتمالا پدرش) هست، دیپلمات ایران در نیوزلند بوده. حنان هم در پروفایل لینکدینش به تحصیلات در نیوزلند و در پروفایل کوچ‌سرفینگ به ۱۵ سال زندگی در این کشور اشاره کرده.
-‏
-‏© arashzd
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-08:31
 1405/04/07
