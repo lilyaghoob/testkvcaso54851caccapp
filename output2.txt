@@ -1555,17 +1555,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦❌🇷🇺 — Ukraine has launched drones into Crimea and western Russia.
-‏
-‏➡️ Monitoring sources indicate that up to 400 drones have been launched so far.
-23:17
-1405/04/08
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔴دریادار دوم محمد اکبرزاده، معاون سیاسی دفتر نمایندگی ولی فقیه در نیروی دریایی سپاه، ساعاتی پیش در یک سانحۀ رانندگی در یکی از جاده‌های استان کرمان جان خود را از دست داد.
@@ -1594,15 +1583,6 @@ src :@cataphract1
 src :@GeoPWatch
 ‏⚡️🇮🇱❌🇱🇧🇵🇸🇸🇾 - During a press conference, Israel's Defense Minister Israel Katz says that the IDF has intent to occupy Lebanese territories, but "will not withdraw a millimeter" until Hezbollah is disarmed.  The IDF has no intent to withdrawing from all areas…
 23:15
-1405/04/08
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇹🇷🪖🇪🇺⚡️ — Turkish President Erdoğan on NATO and the EU: Despite our contributions, it is also a fact that in some cases the indispensable benefits Türkiye provides to European security are overlooked.  As one of the countries with a say in the development…
-23:14
 1405/04/08
 
 
