@@ -1,3 +1,56 @@
+src :@bricsnews
+‏JUST IN: 🇮🇱 Israel upgrades Iron Dome missile defense system with laser technology.
+‏
+‏@BRICSNews
+15:51
+1405/04/09
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ تحلیلگران غربی از ساخت یک حلقه دیگر دفاع هوایی در مسکو خبر می‌دهند، این بار با سامانه موشکی پدافند هوایی اس-۴۰۰.
+‏
+‏در تصاویر ماهواره‌ای پایتخت، حداقل ۵ محل جدید مشابه از نظر مساحت و ظاهر شناسایی شده است که در برخی از آن‌ها ماشین‌های سامانه S-400 مستقر شده‌اند.
+‏
+‏ظهور موقعیت‌های جدید این سامانه‌های دفاع هوایی به دلیل نگرانی‌ها از حملات احتمالی موشک‌های بالستیک اوکراینی FP-9 است که در حال حاضر آزمایش می‌شوند و اوکراین به طور علنی آن‌ها را به عنوان وسیله‌ای برای هدف قرار دادن مسکو اعلام کرده است.
+‏
+‏@Guard_Warriors | Mmd
+15:50
+1405/04/09
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 ارتش اسرائیل: یک هدف وابسته به حماس در غزه را هدف قرار دادیم
+‏
+‏ارتش اسرائیل (IDF) اعلام کرد در تازه‌ترین عملیات خود، یک هدف متعلق به حماس را در نوار غزه مورد حمله هوایی قرار داده است.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+15:50
+1405/04/09
+
+
+
+
+src :@mohem_mat
+‏مقام کاخ سفید به سی‌ان‌ان: 
+‏
+‏ انتظار می‌رود استیو ویتکاف و جارد کوشنر امروز با نخست‌وزیر قطر و میانجیگران دیگر در دوحه دیدار کنند.
+‏
+‏انتظار می‌رود فردا هیأت‌های آمریکا و ایران هر یک به‌صورت جداگانه با میانجی‌های قطری و پاکستانی در گفت‌وگوهای فنی شرکت کنند.
+‏
+‏@mohem_mat
+15:47
+1405/04/09
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇱🇵🇸⚡️ — The Trump-led Board of Peace has released images showing the arrival of the first HMMWV (Humvee) vehicles designated for the International Stabilization Force (ISF) at a supply and logistics site near Kerem Shalom.
@@ -22,7 +75,7 @@ src :@mohem_mat
 
 
 src :@naya_foriraq
-‏مديرية المرور العامة: منع سير المركبات الكبيرة على الطريق السريع (محمد القاسم) ابتداءً من مطلع وزارة المالية ولغاية منحدر قرطبة/ الباب الشرقي ذهابا وإيابا، وذلك بسبب الأضرار التي لحقت بالطريق نتيجة الحريق الذي اندلع صباح هذا اليوم في منطقة النهضة
+‏🌟مديرية المرور العامة العراقية: منع سير المركبات الكبيرة على الطريق السريع (محمد القاسم) ابتداءً من مطلع وزارة المالية ولغاية منحدر قرطبة/ الباب الشرقي ذهابا وإيابا، وذلك بسبب الأضرار التي لحقت بالطريق نتيجة الحريق الذي اندلع صباح هذا اليوم في منطقة النهضة.
 15:46
 1405/04/09
 
@@ -73,7 +126,7 @@ src :@mohem_mat
 
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸🇺🇳🇵🇸 The Board of Peace has released images showing the arrival of the first HMMWV vehicles destined for ISF units at a regional supply and logistics site.
+‏⚡️🇺🇸🇺🇳🇮🇱🇵🇸 The Board of Peace has released images showing the arrival of the first HMMWV vehicles destined for ISF units at a regional supply and logistics site near Kerem Shalom.
 ‏
 ‏@wfwitness
 15:37
@@ -238,6 +291,8 @@ src :@wfwitness
 ‏⚡️🇺🇸🇶🇦🇮🇷 Euronews: US envoys Steve Witkoff and Jared Kushner have arrived in Doha to meet Qatari mediators for new talks on the Iran war, which Qatar says will address wider regional issues but are not formal US-Iran negotiations.
 ‏
 ‏Tehran says it is sending delegations to focus on sanctions relief and unfreezing assets, while publicly denying any agreed meeting with the US despite President Trump’s claim that Iran requested talks in Qatar.
+‏
+‏No direct meetings with Iranian will be held per Qatari officials. 
 ‏
 ‏@wfwitness
 15:28
@@ -1771,26 +1826,6 @@ src :@rnintel
 
 
 
-src :@mohem_mat
-‏اختلاف اصلی تهران و واشنگتن دیگر هسته‌ای نیست
-‏
-‏کوروش احمدی دیپلمات سابق:
-‏
-‏همه چیز به تنگه هرمز گره خورده است.
-‏
-‏تصور می‌کنم که اوضاع قابل مدیریت است و ایران و آمریکا همچنان تا این لحظه مایل به کنترل تنش و ادامه حرکت در جهت اجرای یادداشت تفاهم هستند و به خاطر مسائلی که قاعدتا باید در نظر آنها نیز فرعی به نظر آمده باشد، تمایلی به ایجاد وقفه موثر در روند مذاکرات ندارند.
-‏
-‏درنتیجه، فعلا و برمبنای داده‌های موجود همچنان فکر می‌کنم که ازسرگیری جنگ فراگیر در دستور کار نیست، اما این تنش‌ها به هدفی که باید هدف اصلی ایران باشد، یعنی تمرکز بر تلاش برای احیای اقتصادی لطمه می‌زند.
-‏
-‏در رابطه با ادعاها در‌خصوص ایجاد کریدوری در تنگه هرمز که گفته شده مطالبه طرف امریکایی است، روشن نیست که الزاما بتوانیم از تلاش عمان برای ایجاد یک کریدور جایگزین صحبت کرد.
-‏
-‏@eskannews_com
-13:22
-1405/04/09
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏China canceled about $50 million of Sudan’s debt by writing off four interest-free loans.
@@ -1863,19 +1898,6 @@ src :@Artemis_Force
 src :@rnintel
 ‏🇲🇱⚡️- A curfew has been enacted in all of the Mopti region for a month following increased JNIM activity.
 13:13
-1405/04/09
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 حمله هوایی آمریکا به بولدوزر ایران متعلق به نیروی هوافضای سپاه 
-‏
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-13:12
 1405/04/09
 
 
@@ -4858,27 +4880,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@DEJradio
-‏⭕️ سومالی یکی از مسیرهای انتقال تسلیحات جمهوری اسلامی به حوثی‌ها را هدف گرفت
-‏
-‏دولت سومالی با امضای ۱۵ معاهده بین‌المللی دریایی، زمینۀ حقوقی تازه‌ای را برای مقابله با قاچاق تسلیحات توسط جمهوری اسلامی از مسیر آب‌های این کشور فراهم کرده است.
-‏بنا بر گزارش‌ها، مسیری که از این پس مورد نظارت قرار می‌گیرد، به یکی از راه‌های جایگزین جمهوری اسلامی برای انتقال سلاح به حوثی‌های یمن تبدیل شده بود.
-‏بر اساس گزارش‌ها، فشار نیروهای دریایی آمریکا، بریتانیا و متحدانشان بر مسیر مستقیم انتقال سلاح از بندرعباس به بندر صلیف در یمن، جمهوری اسلامی را به استفاده از مسیرهای جایگزین از جمله سواحل سومالی سوق داده بود.
-‏نیروی دریایی آمریکا پیش‌تر چندین شناور حامل تسلیحات جمهوری اسلامی را در نزدیکی سواحل سومالی توقیف کرده‌ بود.
-‏ محموله‌های توقیف شده، از جمله شامل قطعات موشک‌های بالستیک میان‌برد و موشک‌های کروز برای حوثی‌ها بوده است.
-‏به گفته خدمه یکی از شناورهای توقیف‌شده، سپاه پاسداران برای انتقال سلاح به حوثی‌ها از سه مسیر دریایی استفاده می‌کند.
-‏راه‌های مورد استفادۀ سپاه، مسیر مستقیم بندرعباس به بندر صلیف، مسیر عبوری از سواحل سومالی و مسیر ارسال محموله‌ها در قالب بار تجاری به جیبوتی، عنوان شده است.
-‏بر پایۀ گزارش‌ها بخشی از تسلیحات رژیم که در مسیر سومالی شناسایی شده‌ بود، به جای انتقال به یمن، در اختیار گروه الشباب، شاخۀ القاعده در شرق آفریقا، قرار گرفت.
-‏با پیوستن سومالی به  کنوانسیون سال ۲۰۰۵ امکان بازرسی، توقیف و پیگرد قضایی کشتی‌های مظنون به قاچاق سلاح یا حمایت از تروریسم، فراهم می‌شود.
-‏
-‏#نیابتی #سومالی 
-‏@Dejradio
-22:12
-1405/04/08
-
-
-
-
 src :@warmonitors
 [ویدئو]
 ‏🤣 
@@ -5868,18 +5869,6 @@ src :@VahidOnline
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏«کارولین لیویت»، سخنگوی کاخ سفید، دوشنبه ۸تیر۱۴۰۵ اعلام کرد «استیو ویتکاف»، نماینده ویژه رییس‌جمهور آمریکا در امور خاورمیانه، و «جرد کوشنر»، مشاور ارشد پیشین کاخ سفید و مشاور غیررسمی «دونالد ترامپ» در امور خاورمیانه، روز سه‌شنبه در نشست دوحه با نمایندگان جمهوری اسلامی شرکت خواهند کرد. 
-‏بیشتر: https://iranwire.com/fa/news-1/154322
-‏
-‏@Farsi_Iranwire
-16:35
-1405/04/08
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇱🇧 — Lebanese media report that CENTCOM Commander Gen. Brad Cooper is expected to arrive in Lebanon in the coming hours.  @TheWarReporter
@@ -6007,17 +5996,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:56
-1405/04/08
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 President Trump:
-‏
-‏‘IRAN HAS REQUESTED A MEETING. IT WILL TAKE PLACE TOMORROW IN DOHA!’
-‏
-‏@Middle_East_Spectator
-15:47
 1405/04/08
