@@ -1,3 +1,68 @@
+src :@mohem_mat
+[عکس]
+‏آمریکانا نوشت:   روزنامه نیویورک تایمز گزارش داد، مارک‌وین مولین، وزیر امنیت داخلی ایالات متحده اعلام کرد که پس از حذف تیم ملی ایران از مرحله گروهی جام جهانی ۲۰۲۶، «رقص شادی» کرده و حتی «چند آهنگ» خوانده است. مولین روز دوشنبه در نشست خبری مربوط به جام جهانی…
+21:42
+1405/04/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇲🇽⚡️ — One U.S. Navy MQ-4C Triton ISR UAV is conducting a reconnaissance flight off the coast of the Yucatan Peninsula, Mexico.
+21:40
+1405/04/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇦❌🇷🇺 — Ukraine has launched drones into Crimea and western Russia.
+‏
+‏➡️ Monitoring sources indicate that up to 250 drones have been launched so far.
+‏
+‏➡️ USVs have also been launched in the Black Sea.
+21:40
+1405/04/09
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇮🇱🇱🇧 — Israeli PM Netanyahu and Defense Minister Israel Katz visited southern Lebanon today.
+‏
+‏@TheWarReporter
+21:38
+1405/04/09
+
+
+
+
+src :@mohem_mat
+‏ادعای کانال ۱۳ اسرائیل: 
+‏
+‏ارزیابی ارتش اسرائیل این است که حماس از نظر انسانی و لجستیکی برای نبرد بعدی در نوار غزه آماده می‌شود
+‏
+‏@sharghdaily
+21:38
+1405/04/09
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏تابوت خامنه‌ای گذاشتن بیرون یخش وا بشه 
+‏
+‏@mwarmonitor
+21:37
+1405/04/09
+
+
+
+
 src :@thewarreporter
 ‏🇮🇱🇱🇧🇱🇧🇮🇷 — Israeli PM Netanyahu: 
 ‏
@@ -1776,19 +1841,6 @@ src :@mohem_mat
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The U.S. Federal Aviation Administration (FAA) is preparing a rule that would require most aircraft to use ADS-B In technology, allowing pilots to see nearby aircraft and reduce the risk of midair collisions, WSJ reports.
-‏
-‏➡️ The proposal would expand beyond existing ADS-B Out requirements to include military and other aircraft operating in civilian airspace. 
-‏
-‏➡️ The move follows the 2025 midair collision near Washington, D.C., and FAA Administrator Bryan Bedford has directed officials to draft a measure that could be implemented quickly, though the agency says no final decision has been made.
-19:09
-1405/04/09
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏ارتش اسرائیل اعلام کرد یک عضو دیگر حماس را که در 7 اکتبر شرکت کرده بود را دز غزه ترور کرده است.
@@ -1814,33 +1866,8 @@ src :@Parvazdaroj
 
 
 
-src :@IranintlTV
-[عکس]
-‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، سه‌شنبه خطاب به نیروهای ارتش این کشور گفت: «حزب‌الله مهم‌ترین حلقه محور جمهوری اسلامی در لبنان است. آن‌ها حدود ۱۵۰ هزار موشک و راکت داشتند که اکنون تنها هشت درصد آن باقی مانده است. شما همه زیرساخت‌هایی را که علیه ما استفاده می‌شد، نابود کردید.»
-‏
-‏او افزود: «به‌دلیل اقداماتی که نیروهای ارتش انجام دادند، لبنان و اسرائیل یکدیگر را به رسمیت شناختند و به جمهوری اسلامی و حزب‌الله گفته شد از اینجا بروید؛ اینجا جایی برای شما نیست. این ضربه‌ای سنگین به محور جمهوری اسلامی است و ممکن است بدون واکنش نماند.»
-‏https://iranintl.com/202606301851
-19:07
-1405/04/09
-
-
-
-
 src :@naya_foriraq
 ‏قوة امنية تطوق منزل معاون مدير عام مصافي الجنوب في منطقة الجمعيات بمحافظة البصرة جنوبي العراق.
-19:06
-1405/04/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇦🇪🇻🇳⚡️ — Vietnam and the UAE signed a Memorandum of Understanding on defense industry cooperation earlier today.
-‏
-‏➡️ During talks in Hanoi, both sides agreed to expand defense ties, including cooperation in the defense industry, UN peacekeeping, military medicine, logistics, non-traditional security, and training. 
-‏
-‏➡️ Vietnam also invited UAE officials and defense firms to attend the 3rd Vietnam International Defence Expo later this year, while the UAE said there is significant potential to deepen bilateral defense cooperation.
 19:06
 1405/04/09
 
@@ -1981,34 +2008,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 18:59
-1405/04/09
-
-
-
-
-src :@mohem_mat
-‏روزنامه پیام ما گزارش داده اختلال‌های اخیر در شبکه بانکی کشور (بانک‌های ملی، صادرات، تجارت و توسعه صادرات) روند درمان بیماران، تامین دارو و حتی ترخیص پیکر متوفیان را با مشکل مواجه کرده و سلامت شهروندان را تحت تاثیر قرار داده است.
-‏
-‏yaghma fashkhami (@yaghma_fashkham) 
-‏
-‏@mohem_mat
-18:58
-1405/04/09
-
-
-
-
-src :@mohem_mat
-‏نیویورک‌تایمز در گزارشی مدعی شد:
-‏
-‏ایران و عمان، علی‌رغم مخالفت آمریکا، در حال پیشبرد طرحی برای وضع کارمزد خدماتی برای کشتی‌های عبوری از تنگه هرمز هستند.
-‏
-‏ عمان این طرح را رسماً به آمریکا و سایر متحدان غربی ارائه کرده است.
-‏ 
-‏ مقامات آمریکایی تأیید کرده‌اند که این طرح را دریافت کرده‌اند و قصد دارند نگرانی‌های خود را با طرف عمانی مطرح کنند، در حالی که ابراز اطمینان کرده‌اند هرگونه اختلاف‌نظر از طریق مذاکرات فنی قابل‌حل خواهد بود.
-‏
-‏@sharghdaily
-18:57
 1405/04/09
 
 
@@ -2762,16 +2761,6 @@ src :@naya_foriraq
 src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — Despite the periodic strikes by the Armed Forces of Ukraine on the Donetsk airport, the enemy reports that work is continuing on its territory to deploy new launchers for jet kamikaze drones "Geran-3", as well as the construction of another drone warehouse.
-17:49
-1405/04/09
-
-
-
-
-src :@mwarmonitor
-‏📰 شبکه ۱۲ اسرائیل: نتانیاهو و کاتس امروز یک بازدید میدانی در جنوب لبنان انجام دادند.
-‏
-‏@mwarmonitor
 17:49
 1405/04/09
 
@@ -5600,21 +5589,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 22:07
-1405/04/08
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Mon, 29 Jun 2026 18:08:15 UTC
-‏
-‏ID: Rear Admiral Mohammad Akbarzadeh
-‏
-‏ترجمه خودکار فارسی
-‏
-‏شناسه: دریابان محمد اکبرزاده
-‏
-‏𝕏  ·  @shin_persian
-21:38
 1405/04/08
