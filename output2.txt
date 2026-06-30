@@ -1,3 +1,55 @@
+src :@Middle_East_Spectator
+[فایل]
+00:26
+1405/04/10
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ونس: هنوز تا حدی عدم قطعیت وجود دارد و هیچ کس نمی‌تواند با اطمینان بگوید ایرانی‌ها چه خواهند کرد
+‏
+‏@MilitarryWorld | Parsa
+00:26
+1405/04/10
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Rayan Abu al-Ajeen, a 3-year-old Palestinian boy, was killed by Israeli gunfire near a military-controlled zone in central Gaza.
+00:25
+1405/04/10
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏حزب حیات آزاد کردستان (پژاک)، روز سه‌شنبه ۹تیر ۱۴۰۵، با انتشار بیانیه‌ای جان‌باختن چهار عضو شاخه نظامی خود در درگیری‌های با نیروهای سپاه پاسداران را تایید کرد و اعلام کرد که این اقدام را بی‌پاسخ نخواهد گذاشت.
+‏
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154383/
+‏@Farsi_Iranwire
+00:24
+1405/04/10
+
+
+
+
+src :@didarnews1
+‏🔴 وال استریت ژورنال: سپاه پاسداران پیامی به میانجی‌های قطری ارسال کرده است مبنی بر اینکه در صورت عدم دریافت تضمین‌هایی که نشان دهد ایران کنترل انحصاری بر تنگه هرمز دارد، و همچنین اگر آمریکا و سایر کشورها از عبور در مسیر جنوبی عمان متوقف نشوند، دوباره تنگه هرمز را خواهند بست.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+00:23
+1405/04/10
+
+
+
+
 src :@didarnews1
 ‏🔴سانسور قالیباف توسط صداوسیما، سوژه رسانه‌های غربی و عربی شد 
 ‏
@@ -2643,18 +2695,6 @@ src :@tglobaleye
 
 
 
-src :@MilitarryWorld
-‏⭕️نیویورک‌تایمز: ایران و عمان، علی‌رغم مخالفت آمریکا، در حال پیشبرد طرحی برای وضع کارمزد خدماتی برای کشتی‌های عبوری از تنگه هرمز هستند 
-‏
-‏عمان این طرح را رسماً به واشنگتن و سایر متحدان غربی ارائه کرده 
-‏
-‏@MilitarryWorld | Parsa
-19:43
-1405/04/09
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 — U.S. Supreme Court Strikes Down Trump Executive Order on Birthright Citizenship
@@ -4454,18 +4494,6 @@ src :@Americana_ir
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏سپاه پاسداران استان کرمانشاه اعلام کرد دو تن از نیروهای این نهاد شامگاه دوشنبه ۸ تیر، در جریان تیراندازی افراد مسلح مقابل منزل‌هایشان در شهرستان پاوه کشته و دو نفر دیگر زخمی شدند.
-‏بخوانید: https://iranwire.com/fa/news-1/154350
-‏
-‏@Farsi_Iranwire
-12:07
-1405/04/09
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏‏ ‏ 
@@ -4733,21 +4761,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 10:34
-1405/04/09
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴پسر اروین یالوم خودکشی کرد
-‏
-‏🔹ویکتور یالوم، دکتری روان‌شناسی بالینی داشت و نزدیک به ۴۰ سال به کار روان‌درمانی مشغول بود.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-10:33
 1405/04/09
 
 
@@ -5175,38 +5188,4 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 00:40
-1405/04/09
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇲🇨 — An individual left a bag near a building in Monaco, which detonated shortly afterward. First responders are on scene. Reports indicate 3 injuries, including 2 serious. An investigation is underway.
-‏
-‏The Global Eye | Subscribe
-00:23
-1405/04/09
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏#BREAKING
-‏🇲🇨- A potential terrorist incident has occurred following the detonation of a bag left near a building in Monaco. First responders have been deployed to the scene.
-‏
-‏Preliminary reports indicate a minimum of five injuries. Expect the number to rise in the following hours.
-00:23
-1405/04/09
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏گفته می شود زلنسکی طی مذاکره با مکرون، موافقت اولیه فرانسه را برای تولید تحت لیسانس موشک کروز اسکالپ در اوکراین به دست آورده است 
-‏
-‏@Minas_Tirith2024
-00:22
 1405/04/09
