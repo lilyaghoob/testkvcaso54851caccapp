@@ -29,7 +29,7 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — U.S. Navy Wasp-class amphibious assault ship USS Boxer and San Antonio-class amphibious transport dock USS Portland are now operating in the CENTCOM area-of-responsibility, having arrived from PACOM. The 11th Marine Expeditionary Unit, consisting of around 2200 Marines, is on board the USS Boxer.
 ‏
-‏The Boxer is different from the America-class amphibious assault ship USS Tripoli already in CENTCOM due to it having a well deck, allowing the ship to launch watercrafts for ground invasions and allowing armored vehicles to dock on land. This gives the U.S. Marine Corps more options for a ground invasion against Iran.
+‏The Boxer is different from the America-class amphibious assault ship USS Tripoli already in CENTCOM due to it having a well deck, allowing the ship to launch watercrafts for ground invasions and allowing armored vehicles to dock on land. This gives the U.S. Marine Corps a greater ability to launch a ground invasion against Iran.
 01:10
 1405/04/10
 
@@ -3059,19 +3059,6 @@ src :@Parvazdaroj
 
 
 
-src :@selena_updates
-[عکس]
-‏The U.S. Supreme Court ruled that children born in the United States to parents who are unlawfully or temporarily present in the country remain U.S. citizens at birth under the Fourteenth Amendment, striking down President Donald Trump's executive order seeking to restrict birthright citizenship as unconstitutional.
-‏
-‏The decision, delivered by Chief Justice John Roberts and joined by Justices Sonia Sotomayor, Elena Kagan, Amy Coney Barrett and Ketanji Brown Jackson, reaffirmed the constitutional basis of birthright citizenship established under the Citizenship Clause. Justices Clarence Thomas, Neil Gorsuch and Samuel Alito dissented, while Justice Brett Kavanaugh concurred in part and dissented in part. 
-‏
-‏Because the ruling rests on constitutional interpretation rather than statute, any future change would require either a constitutional amendment or a reversal by a future Supreme Court.
-19:04
-1405/04/09
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️#BREAKING Netanyahu and Katz supposedly on a “visit” inside Lebanon 
@@ -3268,15 +3255,6 @@ src :@rnintel
 [عکس]
 ‏🇺🇸⚡️- The ruling was 5-4 on the 14th Amendment and 6-3 on the Congressional citizenship statute. Roberts was joined by Sotomayor, Karan, Barrett, and Jackson, with Kavanaugh concurring in part on the statutory question, per Fox News correspondent Bill Melugin.
 18:37
-1405/04/09
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Spain's large-scale migrant legalization drive initiated by the far-left Prime Minister Pedro Sánchez has attracted more than 1 million applications from undocumented migrants seeking residency and work permits, more than double the Spanish government's initial projections.
-18:36
 1405/04/09
 
 
@@ -3962,17 +3940,6 @@ src :@defence_news
 ‏
 ‏😎@CFoxSupport
 16:19
-1405/04/09
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Poland’s defense minister Władysław Kosiniak-Kamysz says Warsaw will not transfer its remaining MiG-29 fighter jets to Ukraine unless Kiev follows through on a proposed “MiGs for drones” arrangement, under which Poland expected access to Ukrainian drone and counter-drone production know-how in exchange for the aircraft. 
-‏
-‏Poland had previously signaled it could hand over several remaining MiG-29s as the fleet is being replaced by F-16s, FA-50s and future F-35s, but Polish officials now say the transfer is stalled because the technology-sharing side of the deal was not completed.
-16:03
 1405/04/09
 
 
