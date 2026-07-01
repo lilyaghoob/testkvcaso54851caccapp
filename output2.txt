@@ -1,3 +1,95 @@
+src :@BellumActaNews
+[عکس]
+‏UN Secretary-General António Guterres warned at a General Assembly pledging conference that UNRWA is facing an acute funding crisis and needs an urgent $100 million to keep core services running, saying further cuts could push conditions beyond the “breaking point.” 
+‏
+‏He said UNRWA is a “stabilizing force in an age of instability” and argued that its mandate cannot survive on reforms and austerity alone. 
+‏
+‏UN spokesperson Stéphane Dujarric separately described the agency’s situation as an “existential crisis,” with fundraising results expected today. UNRWA says that in 2025 it received about $887 million in pledges and $829 million in actual contributions, covering only 27% of its estimated $3.3 billion in total needs.
+‏
+‏US President Trump’s Peace Council responds to the UN fundraising conference for UNRWA that is being now: 'UNRWA has no place in the new Gaza.'
+19:02
+1405/04/10
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز چهارشنبه ۱۰ تیر، لبنان را کشوری «زیبا اما نگون‌بخت» توصیف کرد که «توسط فرقه‌ای متعصب به گروگان گرفته شده است.»
+‏
+‏او در مراسم یادبودی به مناسبت بیستمین سالگرد جنگ ۲۰۰۶ لبنان گفت: «لبنان مردمانی نازنین دارد، اما این یک فاجعه است که توسط فرقه‌ای متعصب [اشاره به حزب‌الله] به گروگان گرفته شده؛ فرقه‌ای که می‌خواهد با نفوذ به قلمرو ما، نابودمان کند.»
+‏
+‏نتانیاهو با اشاره به منطقه حائل ایجاد شده در خاک لبنان افزود: «ما تا زمانی که لازم باشد در نوار حفاظتی در جنوب لبنان باقی خواهیم ماند.» او تاکید کرد که نیروهای اسرائیلی تا زمانی که حزب‌الله دیگر تهدیدی محسوب نشود، از این منطقه خارج نخواهند شد؛ این در حالی است که این گروه تحت حمایت جمهوری اسلامی ایران، قاطعانه خلع سلاح را رد کرده است.
+‏
+‏نخست‌وزیر اسرائیل در ادامه گفت: «نمی‌گویم که انتظار درگیری، چالش و مانع را نداریم، اما به لطف زنجیره‌ای از قهرمانی‌ها، دریچه‌ای به سوی واقعیتی متفاوت در روابط اسرائیل و لبنان گشوده شده است. ما هر کاری انجام خواهیم داد تا در نهایت به یک توافق صلح میان دو کشور دست یابیم.»
+‏@indypersian
+19:01
+1405/04/10
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇮🇷 NEW: As a precautionary measure, Tehran’s airspace will be completely closed during the funeral ceremony of Ayatollah Khamenei
+‏
+‏@Middle_East_Spectator
+19:01
+1405/04/10
+
+
+
+
+src :@MilitarryWorld
+‏⭕️اژه‌ای برای پنج سال دیگه به ریاست قوه قضاییه رسید
+‏
+‏@MilitarryWorld | Parsa
+19:00
+1405/04/10
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏New deanonymization feature on X/Twitter: 
+‏
+‏Mobile-based accounts are locked then forced to download the app and provide biometric data.
+‏
+‏Web-based accounts are forced to "confirm they are human" by scanning a QR code with their mobile phones (leaking privacy-compromising device information), which begins the same biometric data harvesting process.
+18:59
+1405/04/10
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 موقعیت جغرافیایی فیلم حمله هوایی منتشر شده توسط پاکستان 
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+18:59
+1405/04/10
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇦🇲🇹🇷🇦🇿 — Azerbaijan has urged Israel to reconsider its decision to recognize the Armenian Genocide, saying that the move 'distorts historical facts and politicizes a complex historical issue'.  @TheWarReporter
+18:58
+1405/04/10
+
+
+
+
+src :@naya_foriraq
+‏🔻سيُغلق مطار مهرآباد اعتبارًا من الساعة الخامسة صباحًا يوم الجمعة وستُعلق رحلات طهران بالكامل يوم الاثنين.  ▫️سيستأنف مطار مهرآباد عملياته يوم الثلاثاء بينما سيبقى مطار الإمام الخميني الدولي مغلقًا لنقل جثمان القائد الشهيد إلى العراق.
+18:57
+1405/04/10
+
+
+
+
 src :@Mena_Live
 ‏Approx 1,000 members of the Kurdish-led SDF are preparing to head to Damascus to participate in a military training course as part of their integration into the 60th Division of the Syrian Arab Army.
 ‏
@@ -2280,19 +2372,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@World_Newsly
-‏‏🔴 ادعای رئیس سیا: جنگ علیه ایران، جنگ فناوری است
-‏
-‏«جان رتکلیف» مدیر سازمان اطلاعات مرکزی آمریکا (سیا) ادعا کرد که جنگ آمریکا و اسرائیل علیه ایران اکنون جنگ فناوری است و گفت: «کشوری که بهتر بتواند از قدرت فناوری استفاده کند، آینده جهان را تعیین خواهد کرد.»
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-16:07
-1405/04/10
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔶513 کشته حزب‌الله لبنان در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.
@@ -2521,16 +2600,6 @@ src :@selena_updates
 src :@naya_foriraq
 ‏🇮🇶الحشد الشعبي: ضبط 20 ألف حبة كبتاغون في ناحية السجر بقضاء الفلوجة شرقي محافظة الأنبار داخل أحد هياكل البناء في ناحية السجر، كما ضُبطت بندقية كلاشنكوف، وسلاح من نوع M4، ومسدسان، ورمانتان هجوميتان.
 15:39
-1405/04/10
-
-
-
-
-src :@MilitarryWorld
-‏⭕️الجزیره : گفت‌وگوهای فنی ایران و آمریکا در قطر در جریان است
-‏
-‏@MilitarryWorld | Parsa
-15:38
 1405/04/10
 
 
@@ -2877,22 +2946,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 14:51
-1405/04/10
-
-
-
-
-src :@naya_foriraq
-‏حدث امني قرب سواحل اليمن
-14:49
-1405/04/10
-
-
-
-
-src :@naya_foriraq
-‏حدث امني قرب سواحل اليمن
-14:48
 1405/04/10
 
 
@@ -5558,42 +5611,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:03
-1405/04/09
-
-
-
-
-src :@Minas_Tirith2024
-‏Minas Tirith pinned Deleted message
-19:01
-1405/04/09
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ در ۲۵ ژوئن، هواپیمای ترابری ناونشین Grumman C-2A Greyhound رسماً پس از نزدیک به ۶۰ سال خدمت در هوانوردی دریایی ایالات متحده بازنشسته شد. آخرین فرودها با استفاده از طناب ها و برخاست‌ها توسط سه هواپیما از اسکادران VRC-40 (گردان پشتیبانی لجستیک ناوگان ۴۰ «راوهایدز») از عرشه ناو هواپیمابر USS Nimitz (CVN–68) انجام شد.
-‏
-‏گری‌هاوند در سال ۱۹۶۶ معرفی شد و جایگزین C-1 Trader گردید. این هواپیما که بر پایه پلتفرم E-2 Hawkeye ساخته شده بود، تنها هواپیمایی بود که به طور خاص برای مأموریت‌های لجستیکی ناونشین طراحی شده بود. وظیفه آن برقراری ارتباط بین ناوهای هواپیمابر و ساحل بود. این هواپیما، موتورها، قطعات یدکی، تسلیحات، داروها و نامه‌ها را حمل می‌کرد و تضمین می‌کرد که گروه‌های ضربتی ناو هواپیمابر در هر نقطه‌ای از جهان به طور مداوم عملیاتی باشند.
-‏
-‏اگرچه گری‌هاوند به ندرت در قاب دوربین‌ها ظاهر می‌شد، اما دهه‌ها توان رزمی گروه‌های ضربتی آمریکایی را تأمین می‌کرد. پس از نزدیک به ۶۰ سال خدمت، جایگزین آن CMV-22B Osprey خواهد بود.
-‏
-‏@Guard_Warriors | Mmd
-19:00
-1405/04/09
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏فرحناز نیکخو، نیره بهنود، میترا برمچ و زهرا (هانا) غلامی، چهار زندانی سیاسی، پس از پایان دوران مرخصی خود به زندان اوین بازگشتند.
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154376
-‏
-‏
-‏@Farsi_Iranwire
-18:59
 1405/04/09
