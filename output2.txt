@@ -1,3 +1,18 @@
+src :@P_raetorio
+[عکس]
+‏در پی حملات اوکراینی‌ها به پالایشگاه‌های روسیه و کمبود سوخت در این کشور‌ روس‌ها دست به واردات سوخت از هند زده‌اند!
+‏
+‏
+‏-رویترز
+‏#ارتش_دوم_دنیا
+‏
+‏@P_raetorio
+18:14
+1405/04/10
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇱🇧🇮🇱⚡️ — Lebanon's Ministry of Health reports 4,297 killed and 12,196 injured in Israeli attacks since the offensive began on March 2nd.
@@ -2980,16 +2995,6 @@ src :@defence_news
 
 
 
-src :@intelslava
-‏🌐🇷🇺⚡️ — NATO Secretary General Mark Rutte considers Russia the main threat to the alliance and can't sleep at night because of this — Anadolu Agency
-‏
-‏@Intelslava
-14:01
-1405/04/10
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏♨️ الکساندریا کورتز، نماینده مشهور کنگره آمریکا در قالب بسته‌ای شامل ۱۱ اصلاحیه برای لایحه مجوز دفاع ملی سال مالی ۲۰۲۷، اصلاحیه‌ای ارائه کرده که در صورت تصویب، می‌تواند ارسال کمک‌های نظامی "تهاجمی" و "دفاعی" آمریکا به اسرائیل را تحت شرایط فعلی متوقف کند.
@@ -4323,18 +4328,6 @@ src :@didarnews1
 
 
 
-src :@P_raetorio
-‏«ترامپ به طور جدی در حال بررسی بازگشت به جنگ تمام عیار با ایران است و در حال گفت و گو با مقامات ارشد دولت، از جمله وزیر جنگ پیت هگست و رئیس ستاد مشترک ارتش ژنرال دن کین است.با این حال، در حال حاضر، او همچنان مسیر دیپلماتیک را ترجیح می‌دهد.»
-‏
-‏-فاکس نیوز
-‏
-‏@P_raetorio
-10:33
-1405/04/10
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇱❌🇹🇷 — Netanyahu in a direct threat to Turkey:
 ‏What's happening in Turkey (the rise of power) is a result of the decline of Iranian power. I advise Erdogan to calm down, because we have proven what we can do.
@@ -4347,18 +4340,6 @@ src :@GeoPWatch
 src :@rnintel
 ‏🇮🇱 - Israeli Channel 11 polls Benjamin Netanyahu at 23 seats, with Gadi Eisenkot rising to 21.
 10:32
-1405/04/10
-
-
-
-
-src :@P_raetorio
-‏«سپاه پاسداران به میانجیگران #قطر پیام داده است که اگر تضمینی مبنی بر کنترل انحصاری تنگه هرمز توسط ایران دریافت نکنند و ایالات متحده و سایر کشورها دریانوردی در مسیر جنوبی #عمان را متوقف نکنند، دوباره تنگه هرمز را خواهند بست.»
-‏
-‏-وال استریت ژورنال
-‏
-‏@P_raetorio
-10:31
 1405/04/10
 
 
@@ -4569,18 +4550,6 @@ src :@guard_warriors
 
 
 
-src :@intelslava
-‏🇺🇦🇸🇪⚡️ — Ukraine and Sweden have signed an agreement for Kiev to purchase 16 Gripen E fighter jets, announced by Zelensky. 
-‏
-‏The aircraft will be delivered to Ukraine in early 2027.
-‏
-‏@Intelslava
-09:03
-1405/04/10
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏در کشتی‌سازی شرکت ژاپنی «Mitsubishi Heavy Industries, Ltd» در شهر ناگاساکی، در تاریخ ۲۹ ژوئن ۲۰۲۶ مراسم تحویل ناوچه «Nagara» (FFM-10) از نوع «Mogami» به نیروی دریایی ژاپن برگزار خواهد شد.   @artemis_force
@@ -4694,25 +4663,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 08:03
-1405/04/10
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺⚡️ — Russia increased its crude oil exports in June to a record level, according to Bloomberg.
-‏
-‏The agency reports that Russia increased its maritime crude oil supplies to a record 4.13 million b/d (a four-week period until June 28). The volume of oil at sea has risen to 133 million barrels (+34% compared to mid-April), and there are traffic jams at Mersa el-Kabir (Egypt) and in the Riau area (Singapore).
-‏
-‏At the same time, the gross value of exports has fallen to its lowest level since March, when prices began to rise. Urals in the Baltic and Black Seas is around $63 per barrel, and ESPO is $74. Prices in the Baltic are now half of what they were in early May.
-‏
-‏The agency notes that Ukraine's attacks on refineries (Ufa, Yaroslavl, Slavyansk-on-Kuban, Moscow) have prompted the redirection of raw materials for export. Supplies to Asia reached 3.98 million b/d; to China - 1.08 million b/d, to India - 0.74 million b/d, and another 2.13 million b/d with no final destination.
-‏
-‏Against the backdrop of sluggish demand from China, Moscow will likely have to offer large discounts, according to Bloomberg.
-‏
-‏@Intelslava
-07:54
 1405/04/10
 
 
