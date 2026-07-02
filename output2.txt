@@ -1,3 +1,37 @@
+src :@GeoPWatch
+‏#NEW 🇺🇸🇮🇱🇺🇳🇵🇸 - Earlier today, the Board of Peace states its goal to dismiss the UNRWA and its operations in Gaza in the future via X.  Israel's Embassy in Britain and the Foreign Ministry have condoned this decision, accusing the UNRWA of "terrorism" and…
+15:46
+1405/04/11
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻انتقاد ترامپ از هزینه‌های زیاد آمریکا در ناتو 
+‏
+‏👤 دونالد ترامپ در شبکه اجتماعی تروث:
+‏
+‏«ایالات متحده تاکنون بیش از هر کشور دیگری برای محافظت از ناتو هزینه کرده است، بدون اینکه هیچ سودی از این کار ببرد: ایالات متحده ۹۹۹ میلیارد دلار، بریتانیا ۹۰.۵ میلیارد دلار، فرانسه ۶۶.۵ میلیارد دلار، ایتالیا ۴۸.۸ میلیارد دلار، لهستان ۴۴.۳ میلیارد دلار. دیگر کشورها، از جمله آلمان، بسیار کمتر از این هستند. (۲۰۱۴-۲۰۲۵) مسخره است!»
+‏ 
+‏🆔 @Americana_ir
+15:42
+1405/04/11
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏حماس، گروه نیابتی تحت حمایت جمهوری اسلامی، اعلام کرد یک ساکن نوار غزه را به اتهام همکاری با اسرائیل اعدام کرده است. این گروه عنوان کرد این فرد در کشته شدن شماری از فرماندهان ارشد حماس، از جمله عزالدین حداد، فرمانده شاخه نظامی حماس، نقش داشته است.
+‏حماس اعلام کرد این فرد در انتقال اطلاعات به اسرائیل و کمک به کشته شدن فرماندهان ارشد این گروه مشارکت داشته است.
+‏https://iranintl.com/202607024338
+15:42
+1405/04/11
+
+
+
+
 src :@Middle_East_Spectator
 ‏— 🇸🇾 NEW: A bombing of a Café in Damascus, Syria, resulting in dead and wounded
 ‏
@@ -9,6 +43,7 @@ src :@Middle_East_Spectator
 
 
 src :@wfwitness
+[عکس]
 ‏⚡️🇸🇾 Initial reports of an explosion at a cafe in Damascus, Syria.
 ‏
 ‏@wfwitness
@@ -1759,19 +1794,6 @@ src :@ClashReport
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇾🇱🇧 Reuters: Syrian Foreign Minister Asaad al‑Shaibani visited Beirut and met Lebanese President Joseph Aoun as Damascus rejected speculation about any Syrian military role in Lebanon.
-‏
-‏Syrian and Lebanese officials say Damascus has no intention of entering Lebanon or confronting Hezbollah on Lebanese territory.
-‏
-‏@wfwitness
-13:23
-1405/04/11
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Chancellor Merz announces overhaul of Germany's labor rules to counter high corporate absenteeism.
@@ -1917,15 +1939,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🌟محكمة التمييز العراقية تصادق على حكم الإعدام شنقاً حتى الموت الصادر بحق المدان عجاج أحمد حردان التكريتي بعد إدانته بارتكاب جرائم إبادة جماعية وضد الإنسانية وأغتصاب وجرائم قتل بحق محتجزين من ضحايا عمليات الأنفال.
-13:09
-1405/04/11
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏A Russian intelligence operation utilized sanctioned oil tankers to deploy surveillance drones over European nuclear facilities.
@@ -1994,18 +2007,6 @@ src :@Mena_Live
 
 
 
-src :@wfwitness
-‏⚡️🇱🇹 Lithuanian President Gitanas Nauseda says parliamentary parties have agreed on a plan to remove a constitutional provision banning nuclear weapons from Lithuanian territory. 
-‏
-‏He said there are no immediate plans to station nuclear weapons in the country, but the change would allow greater flexibility if security conditions worsen.
-‏
-‏@wfwitness
-12:55
-1405/04/11
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇵🇰🇮🇷 Pakistan's Prime Minister Shehbaz Sharif to attend Iranian Supreme Leader Khamenei's funeral.
@@ -2037,14 +2038,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 12:51
-1405/04/11
-
-
-
-
-src :@naya_foriraq
-‏🔻الجمهورية الإسلامية الإيرانية تعلن تعطيل الدوام الرسمي يوم الثلاثاء 7تموز في جميع أنحاء البلاد
-12:50
 1405/04/11
 
 
@@ -2747,11 +2740,11 @@ src :@thewarreporter
 
 src :@cataphract1
 [عکس]
-‏⚜ مختصر مفید اینکه امسال سه ناوشکن (DDG-137/138/140) از آرلی فلایت سه (دو تا BIW و یکی HII) ساختشون شروع شده(start fabrication/still cut) و DDG-131 به آب انداخته شده با این وجود و جبران برخی عقب ماندگی های قبلی همچنان نرخ ساخت ناوشکن در آمریکا به 2+ در سال نرسیده و برنامه ساخت/تحویل از برنامه خرید عقب هست.
+‏⚜️ مختصر مفید اینکه امسال سه ناوشکن (DDG-137/138/140) از آرلی فلایت سه (دو تا BIW و یکی HII) ساختشون شروع شده(start fabrication/steel cut) و DDG-131 به آب انداخته شده با این وجود و جبران برخی عقب ماندگی های قبلی همچنان نرخ ساخت ناوشکن در آمریکا به 2+ در سال نرسیده و برنامه ساخت/تحویل از برنامه خرید عقب هست.
 ‏
-‏⚜ ژاپن برای نسل بعدی زیردریایی های تهاجمی خودش سیلو های عمودی به سبک آمریکایی ها در نظر دارد و احتمالا ترکیب 7 موشک کروز یا 3 هایپرسونیک بزرگ دقیقا مشابه آنچه در ماژول پیلود ویرجینیا آمریکایی هست به کار گرفته شود.
+‏⚜️ ژاپن برای نسل بعدی زیردریایی های تهاجمی خودش سیلو های عمودی به سبک آمریکایی ها در نظر دارد و احتمالا ترکیب 7 موشک کروز یا 3 هایپرسونیک بزرگ دقیقا مشابه آنچه در ماژول پیلود ویرجینیا آمریکایی هست به کار گرفته شود.
 ‏
-‏⚜ و در نهایت پیشرانه F119 رپتور نیز یک میلیون ساعت رو رد کرد یعنی نیم میلیون ساعت پرواز برای F-22 که یعنی تقریبا جنگنده ها به طور متوسط با 2600+ ساعت پرواز به میان عمر رسیدن و با توجه به ارتقا اخیر و چه بسا افزایش آمادگی و ساعت پروازی سالانه به 160+ بتوانند تا آخر دهه 40 در خدمت بمانند با اینحال هزینه هر ساعت پرواز بیش از دو برابر F-35A در حالیکه ساعت پرواز سالانه 60~ درصد آن است نشان دهنده یک ناوگان 180 فروندی پر هزینه است.
+‏⚜️ و در نهایت پیشرانه F119 رپتور نیز یک میلیون ساعت رو رد کرد یعنی نیم میلیون ساعت پرواز برای F-22 که یعنی تقریبا جنگنده ها به طور متوسط با 2600+ ساعت پرواز به میان عمر رسیدن و با توجه به ارتقا اخیر و چه بسا افزایش آمادگی و ساعت پروازی سالانه به 160+ بتوانند تا آخر دهه 40 در خدمت بمانند با اینحال هزینه هر ساعت پرواز بیش از دو برابر F-35A در حالیکه ساعت پرواز سالانه 60~ درصد آن است نشان دهنده یک ناوگان 180 فروندی پر هزینه است.
 ‏
 ‏📃@Cataphract1
 11:31
@@ -5707,14 +5700,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 15:57
-1405/04/10
-
-
-
-
-src :@Mena_Live
-‏Morocco will deploy 400 soldiers to participate in the stabilization force in Gaza, Israel’s Army Radio reports.
-‏
-‏@Mena_Live
-15:45
 1405/04/10
