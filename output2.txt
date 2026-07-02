@@ -1,4 +1,27 @@
 src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار نیمروزی | پنج‌شنبه ۱۱ تیر
+‏@iranintlTV
+18:59
+1405/04/11
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Lebanese Ministry of Public Health: 
+‏
+‏The cumulative toll from the aggression since March 2 through July 2 has reached 4,298 killed and 12,196 wounded.
+‏
+‏@wfwitness
+18:58
+1405/04/11
+
+
+
+
+src :@IranintlTV
 [عکس]
 ‏عبداللطیف بن راشد الزیانی، وزیر خارجه بحرین، گفت نشست شورای امنیت بر محکوم کردن حملات جمهوری اسلامی متمرکز خواهد بود.
 ‏
@@ -1665,17 +1688,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 16:14
-1405/04/11
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏مسعود پزشکیان، رییس دولت جمهوری اسلامی، در جلسه ستاد تشییع جنازه علی خامنه‌ای گفت همه شهروندانی که در مسیرها، معابر، خیابان‌ها و پهنه‌های پیرامونی حضور پیدا می‌کنند، بخشی از این اجتماع محسوب می‌شوند.
-‏جلسه ستاد تشییع جنازه علی خامنه‌ای، پنجشنبه ۱۱ تیر، با حضور محمدباقر قالیباف، رییس مجلس، و احمد وحیدی، فرمانده کل سپاه پاسداران، برگزار شد.
-‏https://iranintl.com/202607026370
-16:11
 1405/04/11
 
 
@@ -5419,35 +5431,4 @@ src :@BellumActaNews
 ‏
 ‏US President Trump’s Peace Council responds to the UN fundraising conference for UNRWA that is being now: 'UNRWA has no place in the new Gaza.'
 19:02
-1405/04/10
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇮🇷 NEW: As a precautionary measure, Tehran’s airspace will be completely closed during the funeral ceremony of Ayatollah Khamenei
-‏
-‏@Middle_East_Spectator
-19:01
-1405/04/10
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏New deanonymization feature on X/Twitter: 
-‏
-‏Mobile-based accounts are locked then forced to download the app and provide biometric data.
-‏
-‏Web-based accounts are forced to "confirm they are human" by scanning a QR code with their mobile phones (leaking privacy-compromising device information), which begins the same biometric data harvesting process.
-18:59
-1405/04/10
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇦🇲🇹🇷🇦🇿 — Azerbaijan has urged Israel to reconsider its decision to recognize the Armenian Genocide, saying that the move 'distorts historical facts and politicizes a complex historical issue'.  @TheWarReporter
-18:58
 1405/04/10
