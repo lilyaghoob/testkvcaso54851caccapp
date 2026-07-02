@@ -1,6 +1,7 @@
-src :@World_Newsly
-‏اخبار نظامی ایران و جهان pinned a photo
-00:45
+src :@tglobaleye
+[عکس]
+‏WATCH | 🇮🇷 — The coffin of slain Iranian Supreme Leader Ayatollah Ali Khamenei arrives at the farewell ceremony near Imam Khomeini’s Hussainiyah.  The Global Eye | Subscribe
+00:48
 1405/04/12
 
 
@@ -10,7 +11,7 @@ src :@World_Newsly
 [عکس]
 ‏🔴 خانما در آلمان لخت مادرزاد شدن و دارن جمع میشن که چند روز دیگه در برلین یک گردهمایی بزرگ رو به صورت کاملا لخت برگذار کنن و از خودشون (خانما) حمایت کنن، خانمای ایرانی هم با شعار زن زندگی آزادی توشون هستن:
 ‏
-‏+ مشاهده تصاویر بدون سانسور
+‏@Wach_free_bot
 ‏‌
 ‏‌
 00:45
@@ -1648,6 +1649,18 @@ src :@defence_news
 ‏
 ‏@RedLionCorps
 22:01
+1405/04/11
+
+
+
+
+src :@World_Newsly
+‏🔴فوری/وزیر دفاع اسرائیل: ارتش اسرائیل باید برای انجام جنگ مستقل علیه ایران آماده شود.
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+22:00
 1405/04/11
 
 
