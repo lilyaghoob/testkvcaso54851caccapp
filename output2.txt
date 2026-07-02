@@ -1,5 +1,33 @@
 src :@wfwitness
 [عکس]
+‏⚡️☀️🇮🇷 KDPI Peshmerga Abdullah Haji Abdullah has been identified as the fifth Peshmerga fighter killed in clashes with Iranian Revolutionary Guard forces in the Piranshahr area overnight. 
+‏
+‏A sixth fighter is also reported to have been killed, but their identity has not yet been announced.
+‏
+‏The clashes occurred today between Peshmerga forces of the Kurdistan Democratic Party of Iran and IRGC forces.
+‏
+‏@wfwitness
+09:51
+1405/04/11
+
+
+
+
+src :@cataphract1
+[عکس]
+‏ایستگاه‌های متروی زیرزمینی اوکراین در کی‌یف امشب مملو از جمعیت است، زیرا ساکنان در برابر یک حمله هوایی گسترده روسیه پناه گرفته‌اند.
+‏
+‏Neocon ✍
+‏
+‏@Khashateria_Cata
+09:49
+1405/04/11
+
+
+
+
+src :@wfwitness
+[عکس]
 ‏⚡️🇹🇭 Khaosod: 8 Buddhist monks were killed and 13 others seriously injured after a pickup truck crashed into a walking pilgrimage in Mukdahan province, northeastern Thailand. Police said the vehicle was allegedly driven by a juvenile who took it without permission, and an investigation is underway.
 ‏
 ‏@wfwitness
@@ -39,6 +67,17 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:30
+1405/04/11
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️رسایی خطاب به قالیباف: هوچی‌گری هم حدی دارد
+‏
+‏@MilitarryWorld | Parsa
+09:28
 1405/04/11
 
 
@@ -328,6 +367,21 @@ src :@Artemis_Force
 
 
 
+src :@MilitarryWorld
+‏⭕️جنگ داخلی قریب‌الوقوع در یمن!
+‏
+‏طبق گزارش ها رهبر حوثی ها امروز در سخنرانی ای مهم ممکن است اعلان جنگ به دولت وابسته به عربستان در یمن کند
+‏زیرا تنش‌ها در سراسر یمن همچنان در حال افزایش است.
+‏
+‏بسیج نیرو در خط مقدم در سراسر یمن در حال وقوع است
+‏
+‏@MilitarryWorld | Parsa
+08:33
+1405/04/11
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏لطف‌الله کاوه افراسیابی، شهروند ایرانی-آمریکایی، به نمایندگی از ۹۱ میلیون ایرانی شکایت یک میلیارد دلاری علیه فیفا، جیانی اینفانتینو و تعدادی از مقامات فیفا ثبت کرد و مدعی شد تصمیم VAR در دیدار ایران و مصر برای حذف تیم ملی، عمدی بوده است
@@ -423,6 +477,23 @@ src :@jangaavaran1390
 
 
 
+src :@ircfspace
+‏نسخه ۱۷ از اپ #MahsaNG منتشر شد و توی این نسخه هسته سایفون بصورت ویژه برای شرایط اینترنت ایران بهینه شده. همینطور امکان ساخت، وارد کردن، خروجی گرفتن و اشتراک‌گذاری کانفیگ‌های psiphon:// هم اضافه شده و یک اسکنر IP جدید برای CDN Fronting طراحی شده تا پیدا کردن آی‌پی‌های مناسب راحت‌تر انجام بشه.
+‏
+‏امکانات جدیدی هم به خود برنامه اضافه شده؛ مثل دریافت کانفیگ‌های ایکس‌ری از طریق نوتیفیکیشن گوگل، قابلیت زنجیره کردن دو کانفیگ و حذف کانفیگ‌هایی که موقع تست پینگ توی ساب فعلی پاسخی دریافت نمی‌کنن. رابط کاربری بطور کامل بازطراحی شده و جابجایی بین ساب‌ها با کشیدن صفحه به چپ و راست انجام میشه، مدیریت ساب‌های بزرگ بهتر شده، شماره کانفیگ در حال تست نمایش داده میشه و از این به بعد خود اپ می‌تونه اعلان‌ها، اخبار و بروزرسانی‌های پروژه رو مستقیم به کاربر نمایش بده.
+‏
+‏توی این نسخه مشکلات مربوط به اتصال مجدد و کرش سایفون، ایرادهای ویجت، باگ‌های CDN Fronting، کرش نسخه ARMv7، بازیابی نشدن رمز عبور HTTP، وارد کردن لینک ساب در بعضی شرایط و چندین مشکل دیگه هم برطرف شده، تا تجربه استفاده از این فیلترشکن پایدارتر و روان‌تر باشه.
+‏
+‏👉 github.com/GFW-knocker/MahsaNG/releases
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+07:58
+1405/04/11
+
+
+
+
 src :@P_raetorio
 ‏تصویری از محل اصابت‌های موشک‌های روسی در کیف  @P_raetorio
 07:49
@@ -463,6 +534,33 @@ src :@Indypersian
 ‏ 
 ‏@indypersian
 07:29
+1405/04/11
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 چرا اشغال تایوان می‌تواند دشوارترین عملیات نظامی تاریخ باشد؟
+‏
+‏🔹 در نگاه اول، چین بزرگ‌ترین نیروی دریایی آسیا را در اختیار دارد، هزاران موشک بالستیک و کروز تولید کرده و سالانه ده‌ها شناور جدید به آب می‌اندازد. اما اشغال یک جزیره تنها با برتری آتش ممکن نیست. تاریخ نشان می‌دهد بسیاری از ارتش‌ها توانسته‌اند دشمن را بمباران کنند، اما بسیار کمتر توانسته‌اند سرزمینی را از راه دریا تصرف و حفظ کنند.
+‏
+‏🔹 برای موفقیت، چین باید سه عملیات را تقریباً هم‌زمان اجرا کند؛ عملیاتی که هر کدام به‌تنهایی از پیچیده‌ترین مأموریت‌های نظامی جهان هستند. نخست، عبور هزاران نیرو و تجهیزات از تنگه‌ای بیش از ۱۳۰ کیلومتری و اجرای بزرگ‌ترین عملیات آبی‌ـ‌خاکی پس از جنگ جهانی دوم. دوم، فرود نیروهای هوابرد برای تصرف فرودگاه‌ها و گره‌های ارتباطی پیش از رسیدن نیروهای اصلی. و سوم، اجرای عملیات هلی‌برن در عمق خاک تایوان برای شکستن خطوط دفاعی و جلوگیری از تمرکز نیروهای مدافع.
+‏
+‏🔹 اما مشکل اصلی اینجاست که این سه عملیات از یکدیگر مستقل نیستند؛ شکست هر کدام، دو عملیات دیگر را نیز با بحران روبه‌رو می‌کند. اگر نیروهای هوابرد نتوانند فرودگاه‌ها را حفظ کنند، هواپیماهای ترابری نمی‌توانند موج‌های بعدی نیرو را منتقل کنند. اگر سرپل ساحلی تثبیت نشود، کشتی‌های ترابری هدف آسانی برای موشک‌ها خواهند بود. و اگر هلی‌برن‌ها منزوی شوند، به‌جای شکستن دفاع، خود به نیروهایی محاصره‌شده تبدیل خواهند شد.
+‏
+‏🔹 حتی اگر نخستین موج نیروها با موفقیت به ساحل برسند، جنگ تازه آغاز می‌شود. ارتشی که از دریا وارد می‌شود، هر گلوله، هر لیتر سوخت و هر خودروی زرهی را باید از همان مسیر دریایی تأمین کند. کوچک‌ترین اختلال در این زنجیره، می‌تواند کل عملیات را متوقف کند. در واقع، اشغال تایوان بیش از آنکه نبردی برای «رسیدن به ساحل» باشد، نبردی برای زنده نگه داشتن جریان لجستیک است.
+‏
+‏🔹 تاریخ نیز چندان به نفع چنین عملیاتی نیست. عملیات نورماندی، اینچئون و فالکلند، هر کدام در شرایطی انجام شدند که مهاجم برتری دریایی و هوایی قابل توجهی داشت و با تهدید موشک‌های دقیق امروزی روبه‌رو نبود. در عصر پهپادها، موشک‌های ضدکشتی دوربرد، مین‌های هوشمند و ماهواره‌ها، اجرای یک تهاجم آبی‌ـ‌خاکی در چنین ابعادی، وارد قلمرویی می‌شود که تجربه تاریخی بسیار اندکی برای آن وجود دارد.
+‏
+‏🔹 شاید به همین دلیل، پرسش اصلی دیگر این نیست که «آیا چین می‌تواند به تایوان برسد؟» پرسش واقعی این است که آیا می‌تواند پس از رسیدن، جریان نیرو، مهمات و تجهیزات را هفته‌ها و ماه‌ها حفظ کند؟ تفاوت میان این دو پرسش، همان فاصله میان یک عملیات موفق و یک شکست راهبردی است.
+‏
+‏🔹 قدرت نظامی چین امروز قابل انکار نیست؛ اما اگر روزی تصمیم به اشغال تایوان بگیرد، برای پیروزی صرفاً به برتری عددی نیاز ندارد. این کشور باید هم‌زمان سه فصل تازه در تاریخ جنگ‌افروزی مدرن بنویسد؛ رکوردی که تاکنون هیچ ارتشی موفق به ثبت آن نشده است.
+‏
+‏#چین
+‏#تایوان
+‏
+‏@RASTAKHIZ_PERSIAN
+07:17
 1405/04/11
 
 
@@ -526,6 +624,16 @@ src :@jangaavaran1390
 ‏
 ‏#آمریکا #B52 #بمب_افکن #بریتانیا #اروپا #نیروی_هوایی_آمریکا #ناتو #جنگاوران https://t.me/jangaavaran1390
 07:00
+1405/04/11
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇮🇷⚡️ — The War Zone, citing local spotters, reports that all six B-52H Stratofortress strategic bombers present at RAF Fairford, United Kingdom have departed the base, likely returning to the United States.
+‏
+‏Twelve B-1B Lancer strategic bombers remain at the base, down from eighteen strategic bombers previously.
+06:52
 1405/04/11
 
 
@@ -684,6 +792,29 @@ src :@jangaavaran1390
 
 src :@jangaavaran1390
 ‏شب گذشته  پهپاد های ایرانی به ساختمانی از حزب دموکرات کردستان ایران در منطقه مرزی کویه، استان اربیل، کردستان عراق حمله کردند.
+06:35
+1405/04/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏Preliminary figures for last night's combined missile and drone attack on Ukraine:
+‏
+‏~30 Kh-101 cruise missiles launched, ~10 intercepted.
+‏~24 Iskander-M ballistic missiles launched, ~6 intercepted.
+‏~12 Zircon hypersonic cruise missiles launched, 0 intercepted.
+‏~6 Kalibr cruise missiles launched, 6 intercepted.
+‏~2 Kh-59/69 cruise missiles launched, 2 intercepted.
+‏
+‏~74 missiles total, ~24 intercepted (~6/24 ballistics, ~18/50 cruise missiles). 
+‏
+‏Air defence performed far more poorly this attack compared to the previous ones, despite still having quite a few Patriot interceptors. It seems that a large portion of the Patriot PAC-3 interceptors were wasted on trying to intercept Zircons, which are much harder to shoot down than Iskander-Ms. 
+‏
+‏F-16s, Mirage-2000s, and IRIS-T interceptors worked quite well on the Kalibrs. They also did decently well east of Kyiv considering the fact that so many missiles were flying in at once, which overwhelmed air defence. However, the overall interception rate was far lower this time. 
+‏
+‏These above figures are not final and will be further refined in the coming hours. A full report on the attack will be posted later today.
 06:35
 1405/04/11
 
@@ -1055,10 +1186,57 @@ src :@World_Newsly
 
 
 
+src :@tabzlive
+‏🇷🇺❌🇺🇦 — Additional scenes from the fires in Kyiv following the Russian missile attack.
+04:53
+1405/04/11
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇦🇷🇺 Additional footage from Kiev, Ukraine.  @wfwitness
 04:50
+1405/04/11
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇮🇷⚡️ — Oil prices fell on Wednesday after U.S.-Iran talks in Doha concluded, with optimism over the negotiations weighing on the market.
+‏
+‏➡️ U.S. West Texas Intermediate (WTI) crude fell 1.15% to $67.79 per barrel, while Brent crude declined 0.85% to $70.96 per barrel.
+04:49
+1405/04/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — Huge fires in Kyiv as a result of Russian ballistic and cruise missile strikes.
+04:46
+1405/04/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — President Trump via Truth Social:
+‏This was a typical day on the Border under the Sleepy Joe Biden Administration with “Border Czar” Kamala Harris!
+04:43
+1405/04/11
+
+
+
+
+src :@tabzlive
+‏🇷🇺❌🇺🇦 — Two Zircon hypersonic cruise missiles impacted northwestern Kyiv a short while ago. 
+‏
+‏➡️ A Banderol jet drone is flying towards Kyiv now.
+04:42
 1405/04/11
 
 
@@ -1080,6 +1258,22 @@ src :@IranintlTV
 src :@intelslava
 ‏🇷🇺❌🇺🇦 — Russian Geran drones strike targets in Poltava region.
 04:37
+1405/04/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — President Trump via Truth Social:
+‏Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. 
+‏
+‏As we approach America’s 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a “Happy Birthday!” On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 “FREEDOM FUEL” Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. 
+‏
+‏We are proud to celebrate America’s 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! 
+‏
+‏America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful “excursion” in Iran.
+04:36
 1405/04/11
 
 
@@ -1135,6 +1329,14 @@ src :@intelslava
 
 
 
+src :@tabzlive
+‏🇷🇺❌🇺🇦 — Scenes from Kyiv as the Russian missile attack continues.
+04:15
+1405/04/11
+
+
+
+
 src :@intelslava
 [عکس]
 ‏🇷🇺❌🇺🇦 — More from Kiev.
@@ -1163,6 +1365,15 @@ src :@wfwitness
 [عکس]
 ‏⚡️☀️🇮🇷 Initial reports of an armed clash between an armed Kurdish group and the IRGC in Piranshahr, in Iran’s West Azerbaijan province.  @wfwitness
 04:08
+1405/04/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — Videos from Kyiv show the moment Russian missiles strike the Ukrainian capital.
+04:05
 1405/04/11
 
 
@@ -1227,6 +1438,34 @@ src :@bricsnews
 src :@naya_foriraq
 ‏عمدة كييف يتحدث عن انفجارات عنيفة تهز العاصمة الأوكرانية كييف نتيجة هجمات روسية منظمة
 02:43
+1405/04/11
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏OSINTtechnical ✓ @Osinttechnical
+‏Wed, 01 Jul 2026 22:47:51 UTC
+‏
+‏Ukrainian underground metro stations in Kyiv are packed tonight as residents take shelter from a major Russian air attack.
+‏
+‏ترجمه خودکار فارسی
+‏
+‏ایستگاه‌های متروی زیرزمینی اوکراین در کی‌یف امشب مملو از جمعیت است، زیرا ساکنان در برابر یک حمله هوایی گسترده روسیه پناه گرفته‌اند.
+‏
+‏𝕏  ·  @shin_persian
+02:40
+1405/04/11
+
+
+
+
+src :@warmonitors
+‏Poor Senegal 🇸🇳💔
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+02:23
 1405/04/11
 
 
@@ -1343,6 +1582,31 @@ src :@naya_foriraq
 
 
 
+src :@MilitarryWorld
+[عکس]
+‏🔥این شبا همه از جام جهانی دارن پول درمیارن🔥
+‏
+‏💖اگه توم دوس داری فوتبال جام جهانی با یه ادم حرفه ای پیش بینی کنی و کسب درامد کنی عضو کانال بکس بت شو💖
+‏
+‏📣کانال بکس بت برای عاشقان فوتبال چون هم فوتبال میبینی هم پیش بینی میکنی و پول در میاری🔥💵
+‏A10
+‏‼️توم میتونی از پیش بینی جام جهانی یه پول خوب به جیب بزنی پس با متخصص این کار همراه شو💖💖
+‏💖https://t.me/+zensxr2UqAk2NzA0
+‏💖https://t.me/+zensxr2UqAk2NzA0
+01:15
+1405/04/11
+
+
+
+
+src :@MilitarryWorld
+‏🔥این شبا همه از جام جهانی دارن پول درمیارن🔥 💖اگه توم دوس داری فوتبال جام جهانی با یه ادم حرفه ای پیش بینی کنی و کسب درامد کنی عضو کانال بکس بت شو💖 📣کانال بکس بت برای عاشقان فوتبال چون هم فوتبال میبینی هم پیش بینی میکنی و پول در میاری🔥💵 A10 ‼️توم میتونی از…
+01:15
+1405/04/11
+
+
+
+
 src :@didarnews1
 ‏🔴سخنگوی وزارت خارجه قطر:
 ‏
@@ -1363,6 +1627,15 @@ src :@ClashReport
 [عکس]
 ‏Premier Palace Hotel in central Kyiv is on fire after a Russian Shahed drone attack.
 00:58
+1405/04/11
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️گزارش ها از حملات پهپادی سپاه به سمت اقلیم کردستان، عراق  @MilitarryWorld | Parsa
+00:52
 1405/04/11
 
 
@@ -1449,6 +1722,33 @@ src :@World_Newsly
 
 
 
+src :@Mena_Live
+‏It is safe to assess that, if the ceasefire holds, Iran will very likely receive its first batch of Su-35 fighter jets this year under the 2021 Russia–Iran contract, Iranian pilots began related training as early as 2022, most likely in Russia, and may already…
+00:42
+1405/04/11
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 01 Jul 2026 21:08:32 UTC
+‏
+‏UAV strike on Kurdish positions in Erbil province
+‏KRI, Iraq
+‏
+‏ترجمه خودکار فارسی
+‏
+‏حمله پهپادی به مواضع کُردها در استان اربیل
+‏اقلیم کردستان عراق، عراق
+‏
+‏𝕏  ·  @shin_persian
+00:38
+1405/04/11
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔴نتیجه حمله پهپادی سپاه پاسداران به مقر نیروهای کرد در سلیمانیه، شمال عراق.
@@ -1456,6 +1756,16 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:38
+1405/04/11
+
+
+
+
+src :@MilitarryWorld
+‏⭕️گزارش ها از حملات پهپادی سپاه به سمت اقلیم کردستان، عراق
+‏
+‏@MilitarryWorld | Parsa
+00:35
 1405/04/11
 
 
@@ -1472,10 +1782,47 @@ src :@WAR_ROOM_NEWS
 
 
 
+src :@Mena_Live
+[عکس]
+‏The Syrian Government set the date for the first plenary session of the Syrian Parliament on 6 July, 2026.
+‏
+‏Members will receive instructions about procedures, elect the speaker of the Syrian Parliament, debate and adopt the Rules of Procedures and set the agenda.
+‏
+‏@Mena_Live
+00:31
+1405/04/11
+
+
+
+
+src :@mwarmonitor
+‏🔴سخنگوی وزارت خارجه قطر اعلام کرد که پس از دیدارهای جداگانه میان میانجی‌گران قطری و پاکستانی با هیأت‌های آمریکایی و ایرانی در دوحه، در موضوعات مرتبط با یادداشت تفاهم (MoU) «پیشرفت‌های مثبتی» حاصل شده است.
+‏
+‏@mwarmonitor
+00:26
+1405/04/11
+
+
+
+
 src :@naya_foriraq
 [عکس]
 ‏🔻سماع دوي انفجارات في محافظة السليمانية شمالي العراق.
 00:25
+1405/04/11
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ترامپ : کنترل کامل. ما کنترل کامل همه چیز را داریم.
+‏
+‏این فقط آغاز دوران طلایی آمریکا است.
+‏
+‏بهترین‌ها هنوز در راه است
+‏
+‏@MilitarryWorld | Parsa
+00:18
 1405/04/11
 
 
@@ -1527,6 +1874,18 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 00:07
+1405/04/11
+
+
+
+
+src :@Mena_Live
+‏Al Qassam Brigades:
+‏
+‏We have carried out the death sentence against the agent (M.M.), who was responsible for the assassination of the commander of the Qassam Brigades' General Staff, Izz al-Din al-Haddad, and participated in other assassinations and massacres in Gaza.
+‏
+‏@Mena_Live
+00:05
 1405/04/11
 
 
@@ -1649,6 +2008,39 @@ src :@jangaavaran1390
 
 
 
+src :@RASTAKHIZ_PERSIAN
+‏ارزیابی خسارات حملات موشکی به مجتمع پالایشگاهی بازان حیفا🇮🇱
+‏
+‏⚜️ مجتمع پالایشگاهی بازان در حیفا طی دو حمله موشکی ایران، نخست در عملیات وعده صادق ۳ در ژوئن ۲۰۲۵ و بار دیگر در ۱۹ مارس ۲۰۲۶ طی عملیات وعده صادق ۴، دچار آسیب شد. 
+‏
+‏⚜️اخیراً وزارت کشور اسرائیل در قالب پیش‌نویس دستور بازسازی این مجتمع، برای نخستین‌بار جزئیات دقیق‌تری از خسارات وارده را منتشر کرده است. منبع
+‏
+‏⚜️ برخلاف ادعای برخی رسانه‌ها، در این سند هیچ اشاره‌ای به نابودی ۶۰ درصد تولید فرآورده‌های نفتی اسرائیل یا وقوع کمبود شدید بنزین نشده است. 
+‏
+‏⚜️آنچه در سند آمده صرفاً این است که آسیب به یک مخزن فرآورده نفتی با ظرفیت حدود ۱۲٬۷۰۰ مترمکعب، ظرفیت ذخیره‌سازی مجتمع را کاهش داده و این موضوع بر توان تولید و تأمین بنزین اثر گذاشته است. 
+‏
+‏⚜️همچنین برخلاف برخی ادعاها، اشاره‌ای به نابودی مخزن اصلی بنزین، لغو مقررات محیط‌زیستی یا جبران کمبود از طریق پالایشگاه اشدود نیز در این سند وجود ندارد.
+‏
+‏⚜️علاوه بر آن بر اساس اسناد رسمی دولت اسرائیل، بخش عمده خسارات مجتمع پالایشگاهی بازان مربوط به حمله نخست ایران در عملیات وعده صادق ۳ (ژوئن ۲۰۲۵) بوده است. 
+‏
+‏⚜️در این حمله، نیروگاه داخلی مجتمع به‌شدت آسیب دید، تمامی واحدهای پالایش از مدار خارج شدند و سه تن از کارکنان بازان کشته شدند. خود شرکت بازان نیز خسارت مستقیم این حمله را ۱۵۰ تا ۲۰۰ میلیون دلار برآورد کرده است. منبع
+‏
+‏⚜️ در جریان عملیات وعده صادق ۴، مجتمع بازان دو بار هدف قرار گرفت؛ بار نخست بر اثر اصابت ترکش یک موشک رهگیر و بار دوم نیز یک موشک مستقیما به یکی از مخازن ذخیره سازی اصابت کرد.
+‏
+‏⚜️بر اساس سند منتشرشده، علاوه بر خسارت‌های قبلی، توربین‌های گازی، دیگ‌های بخار، اتاق‌های برق و سامانه‌های جانبی نیز آسیب دیده‌اند و مخزن آسیب‌دیده نیز باید به‌طور کامل جایگزین شود. 
+‏
+‏⚜️مقامات اسرائیلی برآورد کرده‌اند که روند بازسازی کامل این مجتمع پیش از سال ۲۰۲۸ به پایان نخواهد رسید.
+‏
+‏پیی نوشت: مجتمع بازان با ظرفیت پالایش حدود ۱۹۷ هزار بشکه در روز، بزرگ‌ترین پالایشگاه اسرائیل است و حدود ۶۰ درصد ظرفیت پالایش نفت این کشور را بر عهده دارد، برای آنکه 60 درصد از تولیدات نفتی اسرائیل از بین برود باید همه واحد های این پالایشگاه از مدار خارج شوند!
+‏
+‏🖋#Ethan 
+‏📃@Cataphract1
+23:43
+1405/04/10
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇨🇺 President Trump says Cuba "is coming our way."
 ‏
@@ -1678,6 +2070,17 @@ src :@jangaavaran1390
 
 
 
+src :@warmonitors
+[عکس]
+‏Bosnia is flying back TONIGHT 🦅🦅🛢️ 
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+23:38
+1405/04/10
+
+
+
+
 src :@naya_foriraq
 ‏🔻قالبياف: تعهدنا بمنح الوكالة الدولية للطاقة الذرية إمكانية تفتيش محطة بوشهر ومفاعل طهران البحثي.
 23:37
@@ -1689,6 +2092,16 @@ src :@naya_foriraq
 src :@rnintel
 ‏🇾🇪🇸🇦🇮🇱⚡- Ansarullah leader Abdul Malik al-Houthi delivered a series of unusually pointed remarks in a speech today.  Al-Houthi accused Saudi Arabia of “aggression” in Yemen, citing the blockade and alleged conspiracies against the Yemeni population—marking…
 23:30
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+‏🔴 به گزارش روزنامه جروزالم پست، ژنرال زامیر، رئیس ستاد ارتش اسرائیل، روز چهارشنبه با ژنرال آمریکایی کلیرفیلد دیدار کرد تا سازوکارهای هماهنگی مرتبط با لبنان را که بر اسرائیل، ارتش لبنان و حزب‌الله تأثیر می‌گذارد، پیش ببرد.
+‏
+‏@mwarmonitor
+23:29
 1405/04/10
 
 
@@ -1732,6 +2145,18 @@ src :@ClashReport
 
 
 
+src :@MilitarryWorld
+‏⭕️تو مشهد ی پسر ۲۰ ساله به تومور مغزی مبتلا میشه و دکترا هم گفتن ممکنه خوب نشه اونوقت پدر و مادرش به جای اینکه درمانش کنن،شب که پسرشون می‌خوابه تو خواب خفش میکنن و به قتل میرسوننش
+‏
+‏پلیس امروز گرفتشون گفتن چرا اینکارو کردید گفتن می‌خواستیم راحتش کنیم تا زجر نکشه.
+‏
+‏@MilitarryWorld | Parsa
+23:22
+1405/04/10
+
+
+
+
 src :@jangaavaran1390
 ‏فیلم جالبی از تست تبلیغاتی روس ها برای اسلحه تهاجمی کورد 6P67 یا A-545 که توسط دوستان زیرنویس فارسی شده است.   این اسلحه درواقع نسخه ای جدید بر پایه اسلحه Aek 971 است که در پروژه آباکان در دهه ۸۰ توسعه داده شده بود.   https://t.me/Military_Tweet/10777
 23:15
@@ -1744,6 +2169,24 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏ارتش اسرائیل زیر ساخت های حزب الله را در روستاهای حداثا و بیت یاحون در جنوب لبنان طی انفجار هایی تخریب کرد
 23:14
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 01 Jul 2026 19:42:25 UTC
+‏
+‏#USN 🇺🇸  Triton RTB after mission over the Persian Gulf and Gulf of Oman
+‏
+‏ترجمه خودکار فارسی
+‏
+‏#USN 🇺🇸 تریتون در حال بازگشت به پایگاه (RTB) پس از مأموریت برفراز خلیج فارس و دریای عمان
+‏
+‏𝕏  ·  @shin_persian
+23:12
 1405/04/10
 
 
@@ -1764,6 +2207,23 @@ src :@Farsi_Iranwire
 
 
 
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 01 Jul 2026 19:38:36 UTC
+‏
+‏Ghalibaf: "IAEA inspectors have no access to bombed sites. Currently inspectors only have access to two locations: Bushehr power plant and Tehran reactor."
+‏
+‏ترجمه خودکار فارسی
+‏
+‏قالیباف: «بازرسان آژانس بین‌المللی انرژی اتمی (IAEA) هیچ دسترسی به سایت‌های بمباران شده ندارند. در حال حاضر بازرسان فقط به دو مکان دسترسی دارند: نیروگاه بوشهر و رآکتور تهران.»
+‏
+‏𝕏  ·  @shin_persian
+23:08
+1405/04/10
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇻🇪 — Venezuelan government reports 2,295 deaths from devastating June 24 earthquakes.
@@ -1772,6 +2232,20 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 23:04
+1405/04/10
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏برای پوشش هرچه گسترده‌تر و حرفه‌ای‌تر انواع موضوعات جذاب در حوزه نظامی و هوانوردی ایران و جهان، مجموعه‌ای منحصربه‌فرد خلق کردیم.
+‏
+‏هدف ما؟
+‏آشنایی شما با این دنیای هیجان‌انگیز از طریق توضیحات ساده، دقیق و تخصصی، همراه با عکس‌های خیره‌کننده که اشتیاقتان را به اوج می‌رساند! 
+‏﻿
+‏خانواده بزرگ «پرواز در اوج» منتظر شماست. همین حالا کلیک کنید و بپیوندید!
+23:03
 1405/04/10
 
 
@@ -1791,6 +2265,20 @@ src :@Artemis_Force
 
 
 
+src :@MilitarryWorld
+‏⭕️قالیباف: 
+‏
+‏بحث دسترسی و بازرسی آژانس که این روزها مطرح شده کذب است
+‏
+‏به هیچ عنوان دسترسی در سایت‌هایی که بمباران شده نمی‌دهیم، این قانون است
+‏
+‏@MilitarryWorld | Parsa
+23:01
+1405/04/10
+
+
+
+
 src :@Parvazdaroj
 [عکس]
 ‏برای پوشش هرچه گسترده‌تر و حرفه‌ای‌تر انواع موضوعات جذاب در حوزه نظامی و هوانوردی ایران و جهان، مجموعه‌ای منحصربه‌فرد خلق کردیم.
@@ -1800,6 +2288,30 @@ src :@Parvazdaroj
 ‏﻿
 ‏خانواده بزرگ «پرواز در اوج» منتظر شماست. همین حالا کلیک کنید و بپیوندید!
 23:00
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+‏החדשות - N12 ✓ @N12News
+‏Wed, 01 Jul 2026 19:21:09 UTC
+‏
+‏63 בעד, 53 נגד: חוק יסוד לימוד תורה אושר בקריאה ראשונה
+‏@DaphnaLiel
+‏
+‏English
+‏
+‏63 in favor, 53 against: The Basic Law: Torah Study has been approved in its first reading.
+‏@DaphnaLiel_
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۶۳ موافق، ۵۳ مخالف: قانون پایه آموختن تورات در قرائت اول تصویب شد
+‏@DaphnaLiel_
+‏
+‏𝕏  ·  @shin_persian
+22:59
 1405/04/10
 
 
@@ -1822,6 +2334,14 @@ src :@rus_cosmos
 src :@rnintel
 ‏🇺🇦🇷🇺⚡️- Over the course of the four-year-long Russian invasion of Ukraine, over 1.4 million Russians have been killed or wounded in the attempt to seize Ukraine, with around 125,000 to 150,000 Ukrainians reported dead and around 525,000 to 625,000 casualties, per the NYT.
 22:58
+1405/04/10
+
+
+
+
+src :@Mena_Live
+‏The governor of the central bank of Turkey:   The Turkish lira will be gradually withdrawn from Syrian regions.  @Mena_Live
+22:57
 1405/04/10
 
 
@@ -1960,6 +2480,28 @@ src :@selena_updates
 
 
 
+src :@MilitarryWorld
+[عکس]
+‏⭕️قالیباف: مذاکره‌ای بین ایران و آمریکا وجود ندارد!
+‏
+‏@MilitarryWorld | Parsa
+22:40
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🚨دو گروه از نفتکش‌ها / کشتی‌های کانتینری در حال عبور از تنگه هرمز تحت اسکورت ایالات متحده هستند.
+‏
+‏@mwarmonitor
+22:37
+1405/04/10
+
+
+
+
 src :@cataphract1
 ‏ارزیابی خسارات حملات موشکی به مجتمع پالایشگاهی بازان حیفا🇮🇱
 ‏
@@ -1988,6 +2530,17 @@ src :@cataphract1
 ‏🖋#Ethan 
 ‏📃@Cataphract1
 22:36
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🚨لحظه اجرای عملیات تخریب با مواد منفجره توسط نیروهای اسرائیلی در شهرک بیت‌یاحون، جنوب لبنان.
+‏
+‏@mwarmonitor
+22:34
 1405/04/10
 
 
@@ -2036,6 +2589,16 @@ src :@defence_news
 
 
 
+src :@MilitarryWorld
+‏⭕️آکسیوس: آمریکا کلا پول نقدی به ایران نمیده، فقط محصول و کالاهای آمریکایی
+‏
+‏@MilitarryWorld | Parsa
+22:26
+1405/04/10
+
+
+
+
 src :@rnintel
 ‏🇺🇸🗽⚡️- New York City Mayors office has released budget documents forecasting another $6.5 billion deficit next year. it is likely Mayor Mamdani will request another bailout from NY Governor Hochul.
 22:24
@@ -2051,6 +2614,14 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 22:23
+1405/04/10
+
+
+
+
+src :@guard_warriors
+‏✪ آمار امروز "کومرسانت" درباره نابودی ۳۹ هزار پهپاد اوکراینی بر فراز روسیه از ابتدای سال ۲۰۲۶ نه تنها به خاطر تعداد مطلق آن جالب است، بلکه در مقایسه با آمار مشابه از سوی اوکراین نیز قابل توجه است.  اگر نمودار اظهارات طرفین درباره پرتاب پهپادهای یکدیگر را مقایسه…
+22:22
 1405/04/10
 
 
@@ -2153,6 +2724,28 @@ src :@mohem_mat
 
 
 
+src :@MilitarryWorld
+‏⭕️پزشکیان:
+‏
+‏ اگر لازم باشد نه 20 میلیون بلکه 100 میلیون بشکه نفت به نیروهای نظامی می‌دهیم، این وظیفه من است و به آن افتخار میکنم.
+‏
+‏@MilitarryWorld | Parsa
+22:11
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+‏📰 جان برنان، مدیر پیشین سازمان سیا، یک شکایت فدرال علیه دولت ترامپ ثبت کرده و از دادگاه خواسته است دستور دهد مقام‌های دولتی همه اسناد و مدارک مرتبط با تحقیقات کیفری در جریان علیه او را حفظ کنند — به گزارش آسوشیتدپرس (AP).
+‏
+‏@mwarmonitor
+22:01
+1405/04/10
+
+
+
+
 src :@mohem_mat
 ‏اکسیوس مدعی شد 
 ‏
@@ -2242,6 +2835,15 @@ src :@mohem_mat
 
 
 
+src :@GeoPWatch
+[عکس]
+‏🇺🇦❌🇷🇺– After around 2 months of fighting for the village of Zelenyi Hai, the AFU has successfully cleared the village of Russian Forces with the fighting now shifting east toward the village of Novokhatske.   @GeoPWatch
+21:55
+1405/04/10
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇺🇸⚡️- The Atlantic reports that TPUSA chapters and Young Republican groups in colleges across the country are universally swinging away from President Trump due to his failures in the Iran War and shortcomings on immigration reform.
@@ -2272,6 +2874,18 @@ src :@cataphract1
 ‏✒️#MS3
 ‏📃@Cataphract1
 21:51
+1405/04/10
+
+
+
+
+src :@MilitarryWorld
+‏⭕️گزارش شبکه اکسيوس:
+‏
+‏واشنگتن و تهران در جریان مذاکرات در دوحه به تفاهمی درباره پرداخت اول (۶ میلیارد دلار برای خرید غذا) از وجه مسدود شده ایران رسیدند.
+‏
+‏@MilitarryWorld | Parsa
+21:48
 1405/04/10
 
 
@@ -2314,6 +2928,33 @@ src :@cataphract1
 
 
 
+src :@warmonitors
+‏LETSS GOOOO🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+21:23
+1405/04/10
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ زلنسکی اعلام کرد: اوکراین و سوئد توافقنامه‌ای برای خرید ۱۶ جنگنده جدید Gripen E از سال ۲۰۲۹ امضا کردند.
+‏
+‏پیش‌تر نخست‌وزیر سوئد اولف کریسترسون اعلام کرده بود که کیف ۱۶ جنگنده در نسخه قبلی Gripen C/D را از سال ۲۰۲۷ دریافت خواهد کرد.
+‏
+‏بدین ترتیب، اوکراین در مجموع در آینده ۳۲ جنگنده دریافت خواهد کرد که قادر به استفاده از موشک‌های «هوا به هوا» برد بلند Meteor با توانایی هدف‌گیری اهداف در فاصله تا ۲۰۰ کیلومتر با احتمال بالاتر اصابت تضمینی در مرحله نهایی هستند.
+‏
+‏این موضوع تهدیدات قابل توجهی برای نیروی هوایی روسیه ایجاد خواهد کرد، به ویژه هنگام استفاده در ترکیب با هواپیماهای هشدار زودهنگام سوئدی Saab 340، که همچنین به اوکراین وعده داده شده‌اند.
+‏
+‏@Guard_Warriors | Mmd
+21:21
+1405/04/10
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US and Iran reportedly reach understanding on the release of Iranian frozen funds during Doha, Qatar talks.
 ‏
@@ -2332,10 +2973,98 @@ src :@naya_foriraq
 
 
 
+src :@warmonitors
+‏CMOOOON🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+21:13
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 01 Jul 2026 17:43:14 UTC
+‏
+‏Islamic Regime negotiator Kazem Gharibabadi says Iran, Qatar and Pakistan held two meetings today on the Islamabad 
+‏
+‏He says an urgent monitoring channel will be formed by tomorrow.
+‏
+‏Also discussed: spending part of the initial $6B held in Qatar through approved goods purchases for Iran.
+‏
+‏Qatar says the funds have not been transferred to Tehran.
+‏
+‏Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏کاظم غریب‌آبادی، مذاکره‌کننده رژیم اسلامی، می‌گوید ایران، قطر و پاکستان امروز دو نشست درباره اسلام‌آباد برگزار کردند.
+‏
+‏او می‌گوید یک کانال نظارتی فوری تا فردا تشکیل خواهد شد.
+‏
+‏همچنین درباره هزینه‌کرد بخشی از ۶ میلیارد دلار اولیه نگهداری شده در قطر از طریق خریدهای کالایی تأیید شده برای ایران بحث و تبادل نظر شد.
+‏
+‏قطر می‌گوید این وجوه به تهران منتقل نشده است.
+‏
+‏#Iran
+‏
+‏𝕏  ·  @shin_persian
+21:13
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 01 Jul 2026 17:42:35 UTC
+‏
+‏Islamic Regime's funeral prayers for the dead leader, Ali Khamenei, is scheduled 6 AM (local time) Sunday, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏مراسم نماز میت رژیم اسلامی برای رهبر درگذشته، علی خامنه‌ای، برای ساعت ۶ صبح (به وقت محلی) یکشنبه در ایران برنامه‌ریزی شده است.
+‏
+‏𝕏  ·  @shin_persian
+21:12
+1405/04/10
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇺🇸⚽️⚡️- Echelon Insights survey shows Republicans are more engaged with the World Cup than Democrats. Young people also way more invested than the old.
 21:12
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+‏📰معاون رئیس‌جمهور، جی‌دی ونس، در یک نشست خبری گفت: تیم‌های فنی مذاکرات در دوحه در حال گفت‌وگو با ایرانی‌ها و قطری‌ها هستند.
+‏
+‏📰وقتی از او پرسیده شد آیا می‌تواند تضمین دهد که آمریکا قبل از پایان مهلت ۶۰ روزه به عملیات نظامی گسترده بازنخواهد گشت، ونس گفت: «این بستگی دارد به اینکه ایرانی‌ها در نهایت چه کاری انجام دهند.»
+‏
+‏📰او افزود: «رئیس‌جمهور بدون ضرورت، و بدون اینکه یک هدف کاملاً مشخص وجود داشته باشد، ارتش را دوباره وارد جنگ نخواهد کرد.»
+‏
+‏📰ونس همچنین گفت اگر ایران تلاش کند برنامه هسته‌ای خود را بازسازی کند، یا اجازه ورود بازرسان را ندهد، یا اگر دوباره به کشتی‌های تجاری حمله شود، ترامپ «هنوز گزینه‌های زیادی روی میز دارد.» CBS 
+‏
+‏@mwarmonitor
+21:08
+1405/04/10
+
+
+
+
+src :@warmonitors
+‏⚡️#UPDATE They’ve been arrested
+‏
+‏(Empire state climbers)
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+21:08
 1405/04/10
 
 
@@ -2441,6 +3170,24 @@ src :@thewarreporter
 
 
 
+src :@mwarmonitor
+‏🚨 گزارش اختصاصی i24 news : گزینه نظامی آمریکا علیه ایران دوباره روی میز است؛ در گفت‌وگوهای اخیر آمریکا و اسرائیل بررسی شده است
+‏
+‏🔴در حالی که مذاکرات غیرمستقیم آمریکا و ایران در دوحه ادامه دارد و رئیس‌جمهور ترامپ فعلاً مسیر دیپلماسی را حفظ کرده است، یک منبع آگاه به من گفته است که وزارت دفاع آمریکا به‌طور جدی در حال آماده‌سازی برای بازگشت به گزینه نظامی است، در صورتی که مذاکرات نتواند به توافقی برسد که ترامپ بتواند آن را به‌عنوان یک موفقیت ارائه کند.
+‏
+‏🔴وزیر دفاع اسرائیل، یسرائیل کاتس، اوایل این هفته اشاره کرده بود که اسرائیل نیز برای چنین سناریویی آماده می‌شود. اگرچه اظهارات او درباره احتمال حمله اسرائیل تیتر اصلی رسانه‌ها شد، اما او به خبرنگاران گفت یکی دیگر از عوامل محرک برای ازسرگیری اقدامات نظامی، تصمیم آمریکا مبنی بر پایان یافتن مسیر دیپلماسی خواهد بود.
+‏
+‏🔴به من گفته شده که گزینه نظامی همچنین در گفت‌وگوهای اخیر میان مقامات اسرائیلی و آمریکایی نیز مطرح شده است.
+‏
+‏🔴بر اساس گزارش‌های آمریکایی، ترامپ همچنین درباره این موضوع با وزیر جنگ، پیت هگست، و رئیس ستاد مشترک نیروهای مسلح، ژنرال دن کین، گفت‌وگوهایی داشته است. گزارش اختصاصی امشب: اسرائیل نیز به‌طور نزدیک در این رایزنی‌ها مشارکت دارد.
+‏
+‏@mwarmonitor
+20:55
+1405/04/10
+
+
+
+
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇸🇦🇦🇪🇪🇬🇯🇴🇸🇾🇱🇧🇶🇦🇧🇭🇰🇼🇴🇲🇾🇪 — CENTCOM:
@@ -2490,6 +3237,85 @@ src :@didarnews1
 
 
 
+src :@mwarmonitor
+[ویدئو]
+‏🔴معاون وزیر امور خارجه ایران: تصمیم گرفته شد بخشی از ۶ میلیارد دلار دارایی‌های مسدودشده برای خرید کالاها، بر اساس نیازهای ما، مورد استفاده قرار گیرد.  @mwarmonitor
+20:48
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+‏🔴معاون وزیر امور خارجه ایران: تصمیم گرفته شد بخشی از ۶ میلیارد دلار دارایی‌های مسدودشده برای خرید کالاها، بر اساس نیازهای ما، مورد استفاده قرار گیرد.
+‏
+‏@mwarmonitor
+20:43
+1405/04/10
+
+
+
+
+src :@USAMRYDATA
+[عکس]
+‏گزارش جدید وارزون از نقاط استقرار ناو های هواپیمابر آمریکا
+‏
+‏از مجموع 10 ناو هواپیمابر آمریکا ۳ ناو در حال حال تعمیر ، ۲ ناو در حال تمرین ، ۳ ناو مستقر در آمریکا ، ۱ ناو مستقر در دریای چین جنوبی و ۳ ناو نیز در منطقه خاورمیانه قرار دارند.
+‏
+‏📻#News
+‏➖➖➖➖➖➖➖➖➖
+‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
+20:43
+1405/04/10
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 استحاله یعنی تغییر ماهیت کامل و اساسی یک ماده یا پدیده به گونه ای که ماهیت قبلی از بین برود و ماهیت جدیدی جایگزین شود.
+‏در فقه، این تغییر سبب پاک شدن نجاست است
+‏
+‏#یادداشت
+‏
+‏@RASTAKHIZ_PERSIAN
+20:41
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏✈️نیروی هوایی آمریکا (USAF)
+‏
+‏✈️۲ فروند هواپیمای جنگ الکترونیک L3Harris EA-37B Compass Call
+‏AE142E 17-5579 - AXIS 43
+‏AE17CD 19-1587 - AXIS 86
+‏
+‏✈️پرنده‌های AXIS 43 و AXIS 86 پس از یک توقف کوتاه برای سوخت‌گیری از شهر خانیا یونان، پایگاه RAF Mildenhall را ترک کرده‌اند و در حال بازگشت به پایگاه نیروی هوایی دیویس-مونتهن آمریکا هستند.
+‏
+‏@mwarmonitor
+20:33
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🚨 در روزهای اخیر فرد یا نهادی (به‌نظر من یک عامل ایرانی) در حال جعل هویت من است و از یک شماره آمریکایی برای افراد مختلف در اسرائیل پیام‌های واتساپ ارسال می‌کند. این شماره من نیست.
+‏
+‏🔴هدف این کار این است که شما را وادار کنند روی لینک‌هایی کلیک کنید که می‌تواند به دسترسی به تلفن همراه شما منجر شود.
+‏
+‏🔴روی این لینک‌ها کلیک نکنید. به این پیام‌ها پاسخ ندهید. آن‌ها را مسدود و گزارش کنید. «باراک راوید»
+‏
+‏@mwarmonitor
+20:29
+1405/04/10
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد که روز چهارشنبه ۱۰ تیر، نشستی با حضور فرماندهان و مقام‌های ارشد نظامی ۱۲ کشور خاورمیانه به میزبانی نیروی دفاعی بحرین برگزار شده است.
@@ -2515,6 +3341,24 @@ src :@ManotoTV
 
 
 
+src :@mwarmonitor
+‏🚨ارتش آمریکا:
+‏
+‏🔴در تاریخ ۱ ژوئیه، ساعت ۳:۳۰ بامداد به وقت شرق آمریکا، خدمه یک بالگرد MH-60S Sea Hawk متعلق به ناو هواپیمابر USS George H.W. Bush (CVN-77) در دریای عرب فرود اضطراری انجام دادند.
+‏
+‏🔴هیچ نشانه‌ای وجود ندارد که این حادثه ناشی از اقدام خصمانه بوده باشد.
+‏
+‏🔴سه نفر از چهار خدمه نجات یافته‌اند و در وضعیت پایدار روی عرشه ناو USS George H.W. Bush (CVN-77) قرار دارند.
+‏
+‏🔴یگان‌های نیروی دریایی آمریکا در منطقه همچنان در حال جست‌وجو برای یافتن عضو مفقود باقی‌مانده هستند و علت حادثه در حال بررسی است.
+‏
+‏@mwarmonitor
+20:13
+1405/04/10
+
+
+
+
 src :@cataphract1
 [عکس]
 ‏♨️ با رسیدن ناو تهاجم ابی خاکی یو اس اس باکسر با کد LHD-4 به منطقه سنتکام احتمال حمله زمینی به قصد اشغال و یا باز کردن تنگه هرمز افزایش میابد. 
@@ -2526,6 +3370,27 @@ src :@cataphract1
 ‏🖊#Wolf_pack
 ‏📃@Cataphract1
 20:13
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+‏🔴 جزئیات دور اخیر مذاکرات غیرمستقیم میان ایران و آمریکا در دوحه را به‌دست آورده است:
+‏
+‏🔴 به گفته یک منبع ارشد، نشست سه‌جانبه‌ای میان ایران، قطر و پاکستان برای بررسی اجرای یادداشت تفاهم برگزار شده است.
+‏
+‏🔴 این منبع گفته است که مذاکرات در قطر، موضوعات لبنان و تنگه هرمز را بررسی کرده است.
+‏
+‏🔴 به گفته همان منبع، ایران اسرائیل را متهم کرده که با حفظ نیروهایش در لبنان، اجرای این یادداشت تفاهم را مختل می‌کند.
+‏
+‏🔴 ایران تأکید کرده است که تنگه هرمز تحت حاکمیت ایران و عمان قرار دارد.
+‏
+‏🔴 همچنین ایران خواستار اجرای پنج بند از یادداشت تفاهم پیش از ورود به سایر موضوعات شده است. العربیه 
+‏
+‏
+‏@mwarmonitor
+20:12
 1405/04/10
 
 
@@ -2545,6 +3410,32 @@ src :@selena_updates
 [عکس]
 ‏A photo that trully represents the "victory" of the Axis of Resistance - trucks of dead Hezbollah terrorists. And no, it's not AI.
 20:04
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+‏Amichai Stein ✓ @AmichaiStein1
+‏Wed, 01 Jul 2026 15:09:29 UTC
+‏
+‏🚨 US Official to @Jerusalem_Post on the report the 3 Billion dollars of Iranian funds will be unfrozen: “No frozen funds have been released and no frozen funds will be released unless Iran meets the requirements outlined in the MOU. As the MOU outlines, the United States must approve how the funds are used. If Iranian assets are released, they will be used to purchase American agricultural products from American farmers to feed the Iranian people.”
+‏
+‏ترجمه خودکار فارسی
+‏
+‏🚨 یک مقام آمریکایی به @Jerusalem_Post درباره گزارش‌های مبنی بر آزادسازی ۳ میلیارد دلار از دارایی‌های مسدود شده ایران گفت: «هیچ دارایی مسدود شده‌ای آزاد نشده و هیچ دارایی مسدود شده‌ای آزاد نخواهد شد مگر اینکه ایران الزامات تعیین شده در تفاهم‌نامه (MOU) را رعایت کند. همان‌طور که در تفاهم‌نامه قید شده است، ایالات متحده باید چگونگی استفاده از این وجوه را تأیید کند. در صورت آزاد شدن دارایی‌های ایران، این مبالغ صرف خرید محصولات کشاورزی آمریکایی از کشاورزان آمریکایی برای تغذیه مردم ایران خواهد شد.»
+‏
+‏𝕏  ·  @shin_persian
+20:04
+1405/04/10
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏💢 این کشتی ARISTA (9348493) است. این کشتی با پرچم کومور ثبت شده اما در واقع بخشی از شبکه شمخانی ایران محسوب می‌شود.  🔴کشتیARISTA از تابستان گذشته تحت تحریم‌های OFAC آمریکا قرار دارد. در واقع، این کشتی از اواسط مارس ۲۰۲۶ تاکنون در همین نقطه گیر افتاده است؛…
+20:00
 1405/04/10
 
 
@@ -2599,6 +3490,16 @@ src :@tglobaleye
 
 
 
+src :@Mena_Live
+‏China begins mass production of J-35 fifth gen-fighter Jet — Chinese State Media
+‏
+‏@Mena_Live
+19:58
+1405/04/10
+
+
+
+
 src :@defence_news
 [عکس]
 ‏⚜️تصاویری از همین سلاح 6P67 Kord (A-545) در اختیار نیرو های ویژه روسیه، در جریان رقابت تیر اندازی Victory Cup واحد های عملیات ویژه به میزبانی فرمانداری منطقه مسکو.
@@ -2614,6 +3515,36 @@ src :@defence_news
 
 src :@Minas_Tirith2024
 ‏Minas Tirith pinned a photo
+19:56
+1405/04/10
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 میوه های دروغ
+‏
+‏🔹 نا آگاهی یا درک نادرست رهبران سیاسی یک کشور از واقعیت‌ های اقتصادی و نظامی، می‌ تواند به اتخاذ تصمیم‌ هایی منجر شود که نه‌ تنها در کوتاه‌ مدت، بلکه در بلند مدت نیز منافع ملی را تحت تأثیر قرار دهد. چنین تصمیم‌ هایی گاه پیامد هایی به‌ همراه دارند که آثار مخرب آن برای دهه‌ ها و سده‌ ها باقی می‌ ماند و مسیر توسعه، ثبات و قدرت یک کشور را مختل می‌ کند.
+‏
+‏🔹 با این حال، این نا آگاهی همواره ناشی از ضعف درک شخصی رهبران یا بی‌ میلی آنها نسبت به واقعیت‌ ها و کسب اطلاعات صحیح نیست؛ بلکه در بسیاری از موارد، ریشه آن به مبادی تولید و انتقال اطلاعات باز می‌ گردد!
+‏گزارش‌ هایی که به سطوح عالی تصمیم‌ گیری می‌ رسند، اگر دچار خطا، اغراق یا تحریف باشند، می‌ توانند تصویری نادرست از واقعیت ایجاد کنند. این مسئله گاه ناشی از سطح تحلیل پایین در بدنه مدیران ارشد نظامی و اقتصادی است و گاه می‌ تواند ریشه هایی در منافع شخصی، ملاحظات سازمانی یا حتی خیانت سران داشته باشد.
+‏
+‏🔹 در بررسی برخی وقایع سال‌ های اخیر در جمهوری اسلامی، می‌ توان نشانه‌ هایی از چنین شکاف هایی میان ادعاها و واقعیت‌ های میدانی مشاهده کرد. برای نمونه، پیش از آغاز جنگ ۴۰ روزه، اظهاراتی با سطح بالایی از اطمینان درباره توانایی‌ های نظامی و تهدید مستقیم ناوهای آمریکایی توسط رهبری ایران در مورد غرق کردن ناوگان امریکا مطرح شد؛ که ناو خطرناک است اما موشکی که ناو را غرق میکند خطرناک تر است!
+‏با این حال، در جریان جنگ، هیچ گزارش‌ مستقل و قابل اتکایی از وارد آمدن خسارت به ناوگان ایالات متحده منتشر نگردید، هیچ ناوی غرق نشد و هیچ ملوانی هم کشته نشد. این فاصله میان ادعاهای پیشین و نتایج عملی را می‌ تواند به‌ عنوان نشانه‌ ای از وجود اختلال در چرخه تولید، انتقال یا تحلیل اطلاعات مورد توجه قرار داد.
+‏
+‏🔹 در تاریخ، نمونه‌ های متعددی از گسست میان واقعیت‌ های میدانی و درک رهبران سیاسی ثبت شده است. در جریان انقلاب کبیر فرانسه، نقل شده که زمانی که نارضایتی عمومی به اوج رسیده و صدای معترضان تا کاخ ورسای شنیده می‌ شد، همچنان بخشی از دربار همچنان درکی واقعی از مطالبات مردم نداشتند. روایت مشهور اگر نان نیست، بروند شیرینی بخورند فارغ از دقت تاریخی، نمادی از همین فاصله عمیق میان حاکمیت و واقعیت میدانی تلقی می‌ گردد.
+‏در جریان انقلاب اسلامی نیز نشانه‌ هایی از این گسست قابل مشاهده است. در حالی که اعتراضات مردمی به‌ صورت گسترده در جریان بود، برخی از فرماندهان ارتش شاهنشاهی، شدت و اصالت این حرکت‌ ها را انکار کرده و حتی شعارهای مردم را به پخش با بلندگو و ضبط صوت نسبت می‌ دادند. در سطوح بالاتر نیز نشانه‌ هایی از عدم درک دقیق عمق بحران و چرایی آن توسط شاه دیده می‌ شد؛ مسئله‌ ای که در نهایت به فروپاشی سریع حکومت انجامید.
+‏
+‏🔹 با این حال، در مورد جمهوری اسلامی می‌ توان به نوع متفاوتی از این پدیده اشاره کرد. به نظر میرسد در برخی مقاطع، مسئله نه لزوماً تحریف اطلاعات در مسیر انتقال، بلکه تولید ارزیابی‌ های دروغین در سطوح عالی تصمیم‌ گیری بوده است. برای مثال، در حوزه پدافندی، ادعاهایی درباره آمادگی کامل در برابر تهدیدات هوایی نسل ۵ مطرح شده بود که در جریان جنگ ۱۲ و ۴۰ روزه عدم انطباق آن‌ با واقعیت و با ترور سران نظامی و سیاسی در دقایق اول جنگ آنهم در مرکز خاک ایران آشکار شد. در حوزه توان آفندی نیز، وعده‌ هایی همچون امکان وارد آوردن خسارات گسترده به ناوگان دریایی ایالات متحده و غرق کردن ناوها یا از کار انداختن زیرساخت‌ های فرودگاهی دشمن، بارها در طی سال ها تکرار شده است که پوچ بودنشان واضح است؛ تا جایی که نیروی دریایی ارتش در طول ۳۹ روز جنگ کمتر از ۳۹ موشک ساحل به دریا شلیک کرد و در حالی که اکثر ناوگان سطحی، زیر سطحی، هوادریا و موشکی ساحل به دریای خود را حتی هزاران کیلومتر دورتر از میدان نبرد یا بدون شلیک یک گلوله از دست داد.
+‏
+‏🔹این وضعیت را صرفاً یک مسئله نظامی نمیتوان دانست، بلکه نشانه‌ ای از یک چالش عمیق‌ تر در ساختار تصمیم‌ سازی بین ایرانیان است که در گذر تاریخ بارها بازتولید شده؛ جایی که نبود ارزیابی‌ های دقیق، فقدان بازخوردهای واقعی و تداوم روایت‌ های دروغین، منجر به اتخاذ تصمیم‌ هایی گردید که هزینه‌ های سنگینی برای کشور به همراه داشته!
+‏
+‏🔹 حال سوال مهم اینجاست که اگر بدنه ارتش و سپاه در این سال ها به جای تولید آمادگی نظامی با تولید دروغ و توهم به کسب منافع شخصی و ارگانی نمی‌ پرداخت، آیا مقامات ارشد سیاسی برای محقق کردن رویای بیهوده غنی سازی وارد این قمار و مسیر خطرناک می شدند؟ قماری که هم کمر اقتصاد را شکست و برق و امنیتی هم از آن حاصل نشد! 
+‏آیا می توان خون رهبران سیاسی، عمر، جان و مال هدر شده ملت ایران (در گذشته و آینده) را بر گردن مقامات نظامی (کودن یا خائن) کشور دانست؟
+‏
+‏#یادداشت
+‏
+‏@RASTAKHIZ_PERSIAN
 19:56
 1405/04/10
 
@@ -2673,10 +3604,11 @@ src :@Parvazdaroj
 
 
 
-src :@cataphract1
-[عکس]
-‏با این تفنگ آب هم در دلتان تکان نمی‌خورد! آزمایش سلاح بدون لگد A545  در این ویدئو آزمایش شلیک اسلحه تهاجمی جدید مدل A545 ساخت فدارسیون روسیه را مشاهده می‌کنید. این سلاح از مکانیزم موسوم به " کانتربالانس " بهره می‌برد که عمده گازهای خروجی آن در داخل سلاح و…
-19:55
+src :@warmonitors
+‏What’s going on with England 🏴󠁧󠁢󠁥󠁮󠁧󠁿😨
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+19:53
 1405/04/10
 
 
@@ -2698,6 +3630,24 @@ src :@didarnews1
 
 
 
+src :@guard_warriors
+‏✪ کانال اوکراینی AMK Mapping:
+‏
+‏تا کنون، ۷-۸ بمب‌افکن استراتژیک روسی Tu-95MS و ۲ بمب‌افکن Tu-160M در پایگاه‌های هوایی Olenya و Engels-2 مجهز به موشک‌های کروز Kh-101 شده‌اند. بالاترین تهدید برای ۳۶ ساعت آینده برقرار است.
+‏
+‏موشک‌های بالستیک اسکندر-ام و موشک‌های کروز فراصوت زیرکون به سایت‌های پرتاب در استان‌های بریانسک، کورسک، ورونژ، روستوف و کریمه تحویل داده شده‌اند.
+‏
+‏علاوه بر این، روسیه در دو هفته گذشته تعداد زیادی پهپادهای گران-۲ و گربرا را انباشته کرده است. مشخص نیست که آیا قصد دارند همه آن‌ها را در این حمله استفاده کنند یا آن‌ها را در ۲-۳ حمله تقسیم کنند. انتظار می‌رود ۴۰۰-۸۰۰ پهپاد در این حمله پیش رو استفاده شود.
+‏
+‏بالاترین تهدید متوجه شهر کی‌یف و استان کی‌یف است. مناطق دیگر نیز هدف قرار خواهند گرفت، از جمله احتمالاً مناطق غربی که مدتی است هدف قرار نگرفته‌اند.
+‏
+‏@Guard_Warriors | Mmd
+19:41
+1405/04/10
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏کاظم غریب‌آبادی، معاون وزیر امور خارجه و رییس هیات کارشناسی ایران در مذاکرات با آمریکا، اعلام کرد در جریان نشست‌های روز چهارشنبه در دوحه هیچ دیداری میان هیات‌های ایران و آمریکا برگزار نشده است.
@@ -2707,6 +3657,15 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154412
 ‏@Farsi_Iranwire
 19:39
+1405/04/10
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇬🇧🤝🇵🇸 – UK Foreign Secretary Yvette Cooper has announced £23 million in new funding for UNRWA to provide essential support, including food, water, and medical care for Palestinian refugees.   The UK emphasizes the urgent need for increased aid, the opening…
+19:36
 1405/04/10
 
 
@@ -2728,6 +3687,32 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 19:35
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 01 Jul 2026 16:03:26 UTC
+‏
+‏Kuwait Army General Staff announces EOD teams will handle shrapnel and explosives in the New Bayan (Al-Mubarakiya) area on Thursday, July 2.
+‏
+‏Explosion sounds may be heard between 4:00 AM and 9:00 AM during the disposal process.
+‏
+‏#Kuwait 🇰🇼
+‏
+‏ترجمه خودکار فارسی
+‏
+‏ستاد کل ارتش کویت اعلام کرد که تیم‌های خنثی‌سازی مهمات (EOD) در روز پنجشنبه، ۲ ژوئیه، به مدیریت ترکش‌ها و مواد منفجره در منطقه بیان جدید (المبارکیه) خواهند پرداخت.
+‏
+‏ممکن است صدای انفجارهایی بین ساعت ۰۴:۰۰ (۰۷:۳۰ به وقت تهران) تا ۰۹:۰۰ (۱۲:۳۰ به وقت تهران) در طول فرآیند امحا شنیده شود.
+‏
+‏#Kuwait 🇰🇼
+‏
+‏𝕏  ·  @shin_persian
+19:33
 1405/04/10
 
 
@@ -2784,6 +3769,19 @@ src :@selena_updates
 
 
 
+src :@guard_warriors
+[عکس]
+‏✪ وزیر دفاع لهستان، ولادیسلاو کوسینیاک-کامییش، اعلام کرد که لهستان پس از اینکه کیف از به اشتراک گذاشتن فناوری‌های پهپاد خودداری کرد، جنگنده‌های میگ-۲۹ را به اوکراین تحویل نخواهد داد.
+‏
+‏مذاکرات درباره احتمال تحویل جنگنده‌های میگ-۲۹ اضافی که پس از تحویل ۱۴ فروند به اوکراین در نیروی هوایی لهستان باقی مانده‌اند، از دسامبر سال گذشته ادامه داشت. شرط این معامله انتقال فناوری‌های توسعه و مقابله با پهپادها به لهستان بود (فناوری‌های موشکی نیز ذکر شده بود) که طرف اوکراینی انجام نداد.
+‏
+‏@Guard_Warriors | Mmd
+19:19
+1405/04/10
+
+
+
+
 src :@rnintel
 ‏🇮🇷🇴🇲 - Contrary to circulating claims, maritime traffic through the Strait of Hormuz has remained stable and has not dropped to wartime levels.
 ‏
@@ -2828,6 +3826,25 @@ src :@bricsnews
 
 
 src :@DEJradio
+[عکس]
+‏با پایان حضور تیم جمهوری اسلامی در جام جهانی فوتبال، آنچه از این رویداد برای ما ایرانیان به یاد خواهد ماند، حضور هم‌میهنانی است که صحنه جام جهانی را به فرصتی برای گرامی‌داشت یاد جاویدنامان میهن، نمایش پرچم ملی شیروخورشیدنشان ایران، و رساندن صدای ملت ما به جهان تبدیل کردند. 
+‏
+‏من از همه شما که با اتحاد، متانت و شکوه ملی، درون و بیرون ورزشگاه‌ها، در خیابان‌ها، رسانه‌ها و فضای مجازی، نام ایران و یاد فرزندان جان‌باخته سرزمین ما را زنده نگه داشتید، سپاسگزارم.
+‏
+‏شما بار دیگر نشان دادید که ایران، جمهوری اسلامی نیست؛ و تیم حقیقی ایران، مردم ایران‌اند که برای آزادی و بازپس‌گیری کشورشان ایستاده‌اند و جان‌فشانی می‌کنند.
+‏
+‏باور دارم روزی نه چندان دور، ورزشکارانی هم‌دل و همراه مردم ایران، تیم‌های ورزشی ما را در رقابت‌های جهانی زیر پرچم ملی ایران نمایندگی خواهند کرد و برای کشورمان افتخار خواهند آفرید. 
+‏
+‏تا آن زمان، ما هم‌چنان وظیفه داریم از هر فرصتی ازجمله از ادامه مسابقات جام جهانی، برای رساندن صدای ملت ایران به جهان بهره ببریم؛ به‌ویژه در روزهایی که جمهوری اسلامی خود را برای دروغ‌پردازی و نمایش تبلیغاتی پیرامون دفن جنایتکار اعظم، علی خامنه‌ای آماده می‌کند و همچنان می‌کوشد حقیقت را پنهان نگاه دارد.
+‏
+‏@OfficialRezaPahlavi
+19:11
+1405/04/10
+
+
+
+
+src :@OfficialRezaPahlavi
 [عکس]
 ‏با پایان حضور تیم جمهوری اسلامی در جام جهانی فوتبال، آنچه از این رویداد برای ما ایرانیان به یاد خواهد ماند، حضور هم‌میهنانی است که صحنه جام جهانی را به فرصتی برای گرامی‌داشت یاد جاویدنامان میهن، نمایش پرچم ملی شیروخورشیدنشان ایران، و رساندن صدای ملت ما به جهان تبدیل کردند. 
 ‏
@@ -2913,6 +3930,16 @@ src :@BellumActaNews
 src :@thewarreporter
 ‏🇮🇱🇦🇲🇹🇷🇦🇿 — Azerbaijan has urged Israel to reconsider its decision to recognize the Armenian Genocide, saying that the move 'distorts historical facts and politicizes a complex historical issue'.  @TheWarReporter
 18:58
+1405/04/10
+
+
+
+
+src :@Mena_Live
+‏Approx 1,000 members of the Kurdish-led SDF are preparing to head to Damascus to participate in a military training course as part of their integration into the 60th Division of the Syrian Arab Army.
+‏
+‏@Mena_Live
+18:56
 1405/04/10
 
 
@@ -3014,6 +4041,26 @@ src :@tglobaleye
 
 
 
+src :@Mena_Live
+‏The governor of the central bank of Turkey:   The Turkish lira will be gradually withdrawn from Syrian regions.  @Mena_Live
+18:38
+1405/04/10
+
+
+
+
+src :@Mena_Live
+‏The governor of the central bank of Turkey: 
+‏
+‏The Turkish lira will be gradually withdrawn from Syrian regions.
+‏
+‏@Mena_Live
+18:35
+1405/04/10
+
+
+
+
 src :@selena_updates
 [عکس]
 ‏Greek Prime Minister Kyriakos Mitsotakis spoke with Lebanese President Joseph Aoun and welcomed the progress toward stabilizing the Israel-Lebanon front, expressing Greece’s readiness to help support implementation and stressing the need for the Lebanese state, army and security forces to extend authority across Lebanon.
@@ -3027,6 +4074,17 @@ src :@selena_updates
 
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US President Trump is considering the possibility of resuming large-scale military action against Iran and has held discussions with senior administration officials, including Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chairman Gen. Dan…
+18:30
+1405/04/10
+
+
+
+
+src :@GeoPWatch
+[ویدئو]
+‏🗂 — Dear subs, consider joining The New Dawn folder. The New Dawn is a network of some (15) news channels that will keep you updated about the conflicts around the world.
+‏
+‏Join The New Dawn
 18:30
 1405/04/10
 
@@ -3142,6 +4200,27 @@ src :@VahidOnline
 
 
 
+src :@warmonitors
+‏⚡3 killed and more than 10 wounded in Israeli raids on Gaza City since this morning
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+17:58
+1405/04/10
+
+
+
+
+src :@warmonitors
+[عکس]
+‏Who’s this doctor England are facing today and how’s he managed to get this far on his own?🤔 
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+17:58
+1405/04/10
+
+
+
+
 src :@selena_updates
 [عکس]
 ‏A merchant vessel was illegally boarded off the coast of Yemen earlier today, by a  small craft carrying 4 individuals armed with rocket-propelled grenades (RPGs) before being repelled.
@@ -3181,6 +4260,35 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 17:54
+1405/04/10
+
+
+
+
+src :@warmonitors
+‏War Monitor pinned a photo
+17:52
+1405/04/10
+
+
+
+
+src :@warmonitors
+[عکس]
+‏What you’ve been waiting for is here.
+‏
+‏Be the first to own the latest iPhones and top-tier tech — all in one place. From the newest iPhone lineup to the powerful ASUS TUF Gaming GeForce RTX 5090 (32GB), we bring you real products, cutting-edge performance, and unbeatable prices.
+‏
+‏Don’t miss out.
+‏Join now and stay ahead:
+‏https://t.me/infinitol
+‏
+‏https://t.me/infinitol
+‏
+‏https://t.me/infinitol
+‏
+‏#ad
+17:52
 1405/04/10
 
 
@@ -3269,6 +4377,33 @@ src :@selena_updates
 
 
 
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 رسانه ملی: یک کشتی کانتینربر متخلف که از مسیر تعیین شده توسط ایران در تنگه هرمز عبور نکرده بود به گل نشست 
+‏
+‏#تنگه_هرمز
+‏
+‏@RASTAKHIZ_PERSIAN
+17:34
+1405/04/10
+
+
+
+
+src :@IRRadar
+‏🔴 اختلال شدید GPS و اپلیکیشن‌های مسیریابی؛ تهران در صدر گزارش‌ها
+‏
+‏گزارش‌های کاربران نشان می‌دهد اختلال در سامانه GPS و اپلیکیشن‌های مسیریابی از چند روز گذشته آغاز شده و به‌ویژه در تهران با شدت بیشتری ادامه دارد.
+‏
+‏این اختلالات موجب ثبت موقعیت‌های نادرست، خطا در مسیریابی و اختلال در عملکرد سرویس‌های مبتنی بر موقعیت مکانی شده و مشکلات گسترده‌ای را برای کاربران، تاکسی‌های اینترنتی و سامانه‌های حمل‌ونقل آنلاین به همراه داشته است.
+‏
+‏📡 @IRRadar
+17:26
+1405/04/10
+
+
+
+
 src :@defence_news
 [عکس]
 ‏📱 سرویس های یک ماهه OPENVPN ❤️
@@ -3297,12 +4432,49 @@ src :@defence_news
 
 
 
+src :@guard_warriors
+[عکس]
+‏✪ بریتانیا رسماً بزرگ‌ترین برنامه سرمایه‌گذاری دفاعی در سال‌های اخیر را تصویب کرد. تا پایان دهه، لندن ۲۹۸ میلیارد پوند برای دفاع اختصاص خواهد داد و هزینه‌های سالانه تا سال ۲۰۲۹ به ۸۰ میلیارد پوند، معادل ۲.۷٪ تولید ناخالص داخلی، افزایش خواهد یافت.
+‏
+‏1️⃣ برای نیروی هوایی، این سند به‌ویژه قابل توجه بود. برنده اصلی برنامه جنگنده نسل ششم GCAP است. برای آن ۸.۶ میلیارد پوند اختصاص یافته است. قرارداد بین‌المللی بعدی به زودی امضا خواهد شد و آمادگی رزمی هواپیما برای سال ۲۰۳۵ برنامه‌ریزی شده است.
+‏
+‏2️⃣ تصمیم مهم دیگر تأیید خرید ۱۲ فروند جنگنده لاکهید مارتین F-35A لایتنینگ II است که برای اولین بار یک سال پیش اعلام شده بود. این جنگنده‌ها قادر خواهند بود بمب‌های هسته‌ای تاکتیکی B61-12 را حمل کنند و در عملیات‌های بازدارندگی هسته‌ای مشترک ناتو (DCA) شرکت کنند. نیروی هوایی سلطنتی بریتانیا پس از ۲۷ سال (از سال ۱۹۹۸)، دوباره یک مولفه هوایی برای حمله هسته‌ای با هواپیماها دریافت خواهد کرد، پس از بازنشستگی بمب‌های هسته‌ای هوابرد WE.177 در سال ۱۹۹۸. دولت ادعا می‌کند که انتخاب F-35A به جای خرید اضافی F-35B تا ۲۵٪ در هزینه هر هواپیما صرفه‌جویی خواهد کرد.
+‏
+‏3️⃣ یورو فایتر تایفون نیز مورد توجه قرار گرفته است. برای نوسازی و پشتیبانی از ناوگان، ۱.۱ میلیارد پوند دیگر اختصاص یافته است که امکان حفظ هواپیماها در خدمت تا دهه ۲۰۴۰ را فراهم می‌کند.
+‏
+‏4️⃣ حوزه جداگانه‌ای به هواپیماهای بدون سرنشین اختصاص یافته است. بریتانیا توسعه هواپیماهای بدون سرنشین وینگمن (CCA) را که باید با جنگنده‌های سرنشین‌دار همکاری کنند، تسریع می‌کند و همچنین پروژه‌های هواپیماهای بدون سرنشین جت ناونشین برای ناوهای هواپیمابر را راه‌اندازی می‌کند.
+‏
+‏در عین حال، برنامه‌های جدید تنها از طریق افزایش بودجه تأمین مالی نمی‌شوند. وزارت دفاع بریتانیا اعلام کرده است که بالگردهای شناسایی وایلدکت، بخشی از بالگردهای شینوک و هواپیماهای شناسایی الکترونیکی شادو R1 را زودتر از موعد بازنشسته می‌کند.
+‏
+‏اظهار نظر وزیر دفاع دن جارویس قابل توجه است: «با استفاده از فناوری‌های جدید، من نیروهای مسلح ما را با سیستم‌های خودمختار مجهز می‌کنم که به آن‌ها برتری در میدان نبرد می‌دهد.»
+‏
+‏همچنین باید اشاره کرد که دولت ۳۶۰ میلیون پوند برای جایگزینی سیستم آموزش خلبانان و در نتیجه برای هواپیماهای جدید گروه نمایشی رد ارو اختصاص داده است.
+‏
+‏@Guard_Warriors | Mmd
+17:17
+1405/04/10
+
+
+
+
 src :@Minas_Tirith2024
 [عکس]
 ‏در ماه ژوئن مجموعا ۱۶ رادار پیش اخطار و ۱۵ سامانه پدافندی روسی در مناطق اشغالی اوکراین توسط پهپادهای انتحاری این کشور هدف قرار گرفتند.
 ‏
 ‏@Minas_Tirith2024
 17:11
+1405/04/10
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 دبیر کل حزب دموکرات کردستان، مصطفی هجری در مصاحبه با صدای آمریکا: حمله زمینی به ایران مطرح است اما پیشروی تا تهران در دستور کار ما نیست، اگر شرایط مهیا شود تا ارومیه پیشروی خواهیم کرد.
+‏
+‏#کردستان
+‏
+‏@RASTAKHIZ_PERSIAN
+17:09
 1405/04/10
 
 
@@ -3343,6 +4515,24 @@ src :@selena_updates
 ‏
 ‏Israeli Foreign Minister Gideon Sa'ar sharply criticized the remarks, accusing the EU of ignoring Turkey's human rights record, political arrests and pressure on the opposition, calling the approach a "masterclass in hypocrisy."
 16:58
+1405/04/10
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏⭕️ وال‌استریت ژورنال گزارش می دهد دونالد ترامپ طی روزهای اخیر چندین نشست با پیت هگست، وزیر دفاع، و ژنرال دن کین، رئیس ستاد مشترک ارتش آمریکا، درباره ازسرگیری حملات گسترده علیه ایران برگزار کرده است. 
+‏
+‏⭕️به گفته منابع آمریکایی، بخشی از تیم امنیتی کاخ سفید از این گزینه با عنوان «تکمیل مأموریت» یاد می‌کند، اما ترامپ فعلاً تصمیم گرفته مسیر دیپلماسی را ادامه دهد؛ زیرا معتقد است بازگشت به جنگ می‌تواند مذاکرات را از بین ببرد و شانس مهار برنامه هسته‌ای ایران را کاهش دهد.
+‏
+‏⭕️بر اساس این گزارش، ترامپ همچنین مخالفتی با عبور مذاکرات از ضرب‌الاجل ۱۸ اوت ندارد و در شرایط فعلی ترجیح می‌دهد تنها در صورت نقض تفاهمات از سوی ایران، حملات محدود و موردی انجام شود. 
+‏
+‏⭕️همزمان، گفت‌وگوهای غیرمستقیم میان تهران و واشنگتن در دوحه ادامه دارد؛ هرچند اختلاف بر سر برنامه هسته‌ای ایران و دریافت عوارض از کشتی‌های عبوری از تنگه هرمز همچنان پابرجاست.
+‏
+‏🖋#Ethan 
+‏📃@Cataphract1
+16:57
 1405/04/10
 
 
@@ -3466,6 +4656,32 @@ src :@bricsnews
 
 
 
+src :@Shin_Persian
+[عکس]
+‏UKMTO Operations Centre @UK_MTO
+‏Wed, 01 Jul 2026 12:27:20 UTC
+‏
+‏UKMTO WARNING 077-26 UPDATE 002   
+‏
+‏Click here to view UKMTO Products⤵️ 
+‏https://www.ukmto.org/-/media/ukmto/products/20260701-ukmto_warning_077_26_update-002.pdf?rev=e09302c419984cd98698d1effbd33b90
+‏#MaritimeSecurity #MarSec
+‏
+‏ترجمه خودکار فارسی
+‏
+‏به‌روزرسانی شماره ۰۰۲ هشدار ۰۷۷-۲۶ سازمان عملیات تجارت دریایی بریتانیا (UKMTO)
+‏
+‏برای مشاهده محصولات UKMTO اینجا کلیک کنید⤵️
+‏https://www.ukmto.org/-/media/ukmto/products/20260701-ukmto_warning_077_26_update-002.pdf?rev=e09302c419984cd98698d1effbd33b90
+‏#MaritimeSecurity #MarSec
+‏
+‏𝕏  ·  @shin_persian
+15:57
+1405/04/10
+
+
+
+
 src :@tglobaleye
 ‏🇩🇪🇺🇸⚡️— Berlin is seeking to expand the production of American weapons in Germany, — Financial Times
 ‏
@@ -3506,6 +4722,16 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 15:46
+1405/04/10
+
+
+
+
+src :@Mena_Live
+‏Morocco will deploy 400 soldiers to participate in the stabilization force in Gaza, Israel’s Army Radio reports.
+‏
+‏@Mena_Live
+15:45
 1405/04/10
 
 
@@ -3581,12 +4807,32 @@ src :@thewarreporter
 
 
 
+src :@GeoPWatch
+[عکس]
+‏🇺🇦❌🇷🇺– After around 2 months of fighting for the village of Zelenyi Hai, the AFU has successfully cleared the village of Russian Forces with the fighting now shifting east toward the village of Novokhatske. 
+‏
+‏@GeoPWatch
+15:31
+1405/04/10
+
+
+
+
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇮🇷 US and Iran reach preliminary deal to release $3 billion in frozen Iranian assets, Al Arabiya reports.
 ‏
 ‏@BRICSNews
 15:21
+1405/04/10
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏⚡️🇮🇷 - Preparations for the funeral ceremony of late Iranian Supreme Leader Ayatollah Khamenei, scheduled to start on the 4th of July to the 9th in Tehran's 'Grand Musallah', 4 months after his death.
+15:11
 1405/04/10
 
 
@@ -3794,6 +5040,30 @@ src :@rus_cosmos
 
 
 
+src :@GeoPWatch
+‏🇲🇱 - Increased reports of ethnic violence against Fulani civilians on the outskirts of Bamako. Civilians are reportedly targeting perceived Fulani and Tuareg sympathizers of JNIM. At least one documented case of severe mutilation involves a Fulani man of military age who had his hand severed.
+‏
+‏Multiple reports of cannibalism have also surfaced following the 25th April attack on Bamako, including at least one documented incident in which a suspected Tuareg man was killed, set on fire, and partially consumed.
+‏
+‏@GeoPWatch
+14:18
+1405/04/10
+
+
+
+
+src :@GeoPWatch
+‏🇪🇺❌🇮🇶🇮🇷🇱🇧 – The European Union Aviation Safety Agency (EASA) has extended its warning to avoid all airspace over Iran, Iraq, and Lebanon at all altitudes until July 8, 2026. Citing extreme volatility and a fragile ceasefire, regulators maintain that diplomatic efforts currently offer no guarantee of safety for commercial flights. 
+‏
+‏The advisory also flags heightened risks for the Strait of Hormuz and surrounding corridors due to the persistent threat of sudden military escalation.
+‏
+‏@GeoPWatch
+14:14
+1405/04/10
+
+
+
+
 src :@KayhanLondonChannel
 [عکس]
 ‏‏ ‌‌‏ ‏
@@ -3806,6 +5076,17 @@ src :@KayhanLondonChannel
 ‏- روزنامه «دنیای اقتصاد» نوشته همزمان با افزایش قیمت دارو، ناکارآمدی پوشش بیمه‌ای، سهم پرداختی بیماران را افزایش داده است. این گزارش به نقل از کارشناسان نوشته تداوم تولید بدون اصلاح قیمت‌ها ممکن نیست، اما در نبود بیمه‌های کارآمد، هزینه این اصلاح را بیماران می‌پردازند.
 ‏
 ‏https://kayhan.london/1405/04/10/404285/
+14:06
+1405/04/10
+
+
+
+
+src :@Mena_Live
+[عکس]
+‏Israelis celebrate the death of thousands due to heatwaves in europe
+‏
+‏@Mena_Live
 14:06
 1405/04/10
 
@@ -3844,6 +5125,14 @@ src :@Minas_Tirith2024
 ‏
 ‏@P_raetorio
 13:47
+1405/04/10
+
+
+
+
+src :@guard_warriors
+‏✪ اندونزی در آستانه امضای قرارداد برای ۱۶ فروند جنگنده KAI KF-21 Boramae است.  @Guard_Warriors | Mmd
+13:44
 1405/04/10
 
 
@@ -3897,6 +5186,39 @@ src :@defence_news
 
 
 
+src :@Mena_Live
+‏- The term of the new will be 30 months, which can be extended.  - The Parliament will review previous decrees (issued by president al Sharaa), and there are a number of laws that everyone is awaiting the issuance of.  - The Kurdish component is an authentic…
+13:14
+1405/04/10
+
+
+
+
+src :@Mena_Live
+‏‎The Syrian government has published the names of the 70 new members of parliament appointed by the president. With these appointments, the assembly now has the required number of members to convene its first session.  The head of the Supreme Committee for…
+13:06
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 01 Jul 2026 09:34:32 UTC
+‏
+‏Imagine a SUPREME LEADER not attending the funeral of his whole family including his own father, the previous supreme leader. Won’t that be funny af?
+‏
+‏ترجمه خودکار فارسی
+‏
+‏رهبر معظمی (SUPREME LEADER) را تصور کنید که در مراسم تدفین کل خانواده‌اش، از جمله پدر خودش که رهبر معظم قبلی بود، شرکت نکند. واقعاً خنده‌دار (funny af) نخواهد بود؟
+‏
+‏𝕏  ·  @shin_persian
+13:04
+1405/04/10
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏ناوشکن نانچان(شماره بدنه ۱۰۱)، ناوچه یانچنگ (شماره بدنه ۵۴۶) و کشتی تدارکاتی دونگپین‌هو (شماره بدنه ۹۰۲) نیروی دریایی چین در تاریخ ۲۷-۲۸ ژوئن ۲۰۲۶ به سمت بخش غربی اقیانوس آرام حرکت کردند.
@@ -3920,6 +5242,24 @@ src :@Minas_Tirith2024
 
 
 
+src :@guard_warriors
+[عکس]
+‏✪ چین اخیراً در رسانه‌های دولتی خود تصویری از جنگنده پنهان‌کار J-35 را منتشر کرده که حالت beast mode آن را نشان می‌دهد.
+‏
+‏ این تصویر تأیید می‌کند که 
+‏محفظه تسلیحات داخلی این جنگنده می‌تواند 6 موشک هوا به هوا مانند PL-15 یا PL-16 را جای دهد که نسبت به گزارش‌های قبلی (4 موشک) افزایش یافته است.
+‏
+‏  در این آرایش سنگین، J-35 علاوه بر 6 موشک PL-15/PL-16، 4 موشک کروز CM-98 و 2 موشک کوتاه‌برد PL-10 را حمل می‌کند که قابلیت ضربه‌زنی چندمنظوره آن را به شدت بالا می‌برد. 
+‏
+‏موشک CM-98 یک کروز پنهان‌کار نسل جدید چینی با برد حدود 300 کیلومتر و سرجنگک 285 کیلوگرمی است که طراحی فشرده آن اجازه حمل داخل محفظه داخلی را می‌دهد و طبق ادعای چین، پنهان‌کاری بیشتری نسبت به Storm Shadow بریتانیا و JASSM آمریکا دارد. 
+‏ 
+‏@Guard_Warriors | DmW
+13:02
+1405/04/10
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇻🇦 — The ultratraditionalist Society of St. Pius X (SSPX) has defied Pope Leo XIV by consecrating four new bishops without Vatican approval.
@@ -3928,6 +5268,44 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 13:00
+1405/04/10
+
+
+
+
+src :@Mena_Live
+‏‎The Syrian government has published the names of the 70 new members of parliament appointed by the president. With these appointments, the assembly now has the required number of members to convene its first session.
+‏
+‏The head of the Supreme Committee for the new Syrian Parliament elections calls on the Parliament to convene next Monday to take the oath of office.
+‏
+‏@Mena_Live
+12:58
+1405/04/10
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏UKMTO Operations Centre @UK_MTO
+‏Wed, 01 Jul 2026 09:20:59 UTC
+‏
+‏UKMTO WARNING 077-26 
+‏
+‏Click here to view UKMTO Products⤵️ 
+‏https://www.ukmto.org/-/media/ukmto/products/20260701-ukmto_warning_077_26.pdf?rev=fb840049a6c240f8bf24e344959f6d57
+‏#MaritimeSecurity #MarSec
+‏
+‏ترجمه خودکار فارسی
+‏
+‏هشدار یو‌کی‌ام‌تی‌او (عملیات تجارت دریایی بریتانیا) ۰۷۷-۲۶
+‏
+‏برای مشاهده محصولات UKMTO اینجا کلیک کنید⤵️
+‏https://www.ukmto.org/-/media/ukmto/products/20260701-ukmto_warning_077_26.pdf?rev=fb840049a6c240f8bf24e344959f6d57
+‏#MaritimeSecurity #MarSec_
+‏
+‏𝕏  ·  @shin_persian
+12:51
 1405/04/10
 
 
@@ -4000,6 +5378,19 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 12:30
+1405/04/10
+
+
+
+
+src :@GeoPWatch
+‏— If you're into gadgets and tech stuff, check out this channel. They do reviews and sell some cool devices too.
+‏https://t.me/infinitol
+‏
+‏*paid promotion*
+‏
+‏@GeoPWatch
+12:26
 1405/04/10
 
 
@@ -4231,6 +5622,18 @@ src :@KayhanLondonChannel
 
 
 
+src :@GeoPWatch
+‏🇬🇧🤝🇵🇸 – UK Foreign Secretary Yvette Cooper has announced £23 million in new funding for UNRWA to provide essential support, including food, water, and medical care for Palestinian refugees. 
+‏
+‏The UK emphasizes the urgent need for increased aid, the opening of all border crossings, and the guaranteed safety of humanitarian agencies operating in the region.
+‏
+‏@GeoPWatch
+10:42
+1405/04/10
+
+
+
+
 src :@KayhanLondonChannel
 ‏Kayhan.London.Channel کیهان لندن pinned a photo
 10:37
@@ -4258,6 +5661,48 @@ src :@thewarreporter
 ‏
 ‏— The Wall Street Journal | @TheWarReporter
 10:35
+1405/04/10
+
+
+
+
+src :@GeoPWatch
+‏🇮🇱❌🇹🇷 — Netanyahu in a direct threat to Turkey:
+‏What's happening in Turkey (the rise of power) is a result of the decline of Iranian power. I advise Erdogan to calm down, because we have proven what we can do.
+10:32
+1405/04/10
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ ناو USS Boxer (LHD 4) و USS Portland (LPD 27) در حال حرکت در کنار هم در اقیانوس هند، ۳۰ ژوئن ۲۰۲۶.
+‏ناوگروه دوزیست Boxer (ARG) و یازدهمین واحد اعزامی تفنگداران دریایی که همراه آن هستند، در حال حاضر به عنوان بخشی از یک ماموریت برنامه‌ریزی شده در خاورمیانه فعالیت می‌کنند. ناوگروه Boxer شامل USS Comstock (LSD 45) است که اوایل ماه مه به این منطقه رسیده است.
+‏
+‏@Guard_Warriors | Mmd
+10:12
+1405/04/10
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 اوکراین و سوئد توافقنامه‌ای برای خرید 16 فروند جنگنده جدید Gripen E امضا کردند.
+‏
+‏🔹 پیش‌تر نخست‌وزیر سوئد اعلام کرده بود که کیف 16 جنگنده Gripen C/D را از سال 2027 دریافت خواهد کرد.
+‏
+‏🔹 در صورت صحت این ادعا، اوکراین در آینده در مجموع 32 فروند گریپن دریافت خواهد کرد.
+‏
+‏🔹 ترکیب گریپن های اوکراینی با آواکس Saab 340 که صحبت ها برای قرارداد نهایی و خرید آن انجام شده تهدیدات قابل توجهی برای نیروی هوایی روسیه ایجاد خواهد کرد.
+‏
+‏#Saab_39
+‏#Sweden
+‏#Ukraine
+‏ 
+‏@RASTAKHIZ_PERSIAN
+10:03
 1405/04/10
 
 
