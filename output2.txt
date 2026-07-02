@@ -1,3 +1,51 @@
+src :@selena_updates
+[عکس]
+‏Israeli authorities arrested Behrouz Sobirgon, a Tajik citizen holding a Russian passport, for spying for Iran and helping recruit others for Iranian-directed missions. 
+‏
+‏He had been in contact with an Iranian handler since January 2026 and carried out most of his activity during Operation Roaring Lion, including documenting Iranian missile impact sites, sending the coordinates of the Azrieli Towers, photographing Haifa Port, and attempting to film a sensitive security facility in northern Israel.
+18:50
+1405/04/11
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏#تکمیلی 
+‏
+‏🔴تعداد قربانیان انفجار دمشق به ۷ نفر افزایش یافت و ۲۲ نفر نیز زخمی شدند
+‏
+‏#دمشق_سوریه_انفجار
+18:49
+1405/04/11
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇺🇦 🇷🇺 — Zelensky Vows Retaliation for Russia's Massive Attack on Kyiv
+‏
+‏The Global Eye | Subscribe
+18:49
+1405/04/11
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ اسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی ایران، در واکنش به برگزاری نشست «گفتگوی امنیتی» توسط فرماندهی مرکزی آمریکا (سنتکام) با حضور نمایندگان ۱۲ کشور منطقه در بحرین، این قبیل نشست‌ها را نمایشی و بی‌ثبات‌کننده خواند.
+‏
+‏بقایی در شبکه اجتماعی ایکس نوشت که ایالات متحده همواره نسبت به برقراری صلح و امنیت واقعی در غرب آسیا بی‌اعتنا بوده است. او این گردهمایی‌ها را «ژست‌های نمایشی» با هدف پنهان‌سازی سیاست‌های مخرب و رفتارهای قانون‌شکنانه آمریکا در منطقه توصیف کرد.
+‏
+‏سخنگوی وزارت خارجه در ادامه خطاب به کشورهای منطقه تاکید کرد که آن‌ها باید نسبت به تحولات هوشیار باشند. او از این کشورها خواست تا با درس گرفتن از تجاوزات نظامی اخیر و اقدامات «بدخواهانه» آمریکا و اسرائیل که صلح و امنیت منطقه‌ای را به مخاطره انداخته است، رویکردی واقع‌بینانه در قبال حضور این قدرت‌ها در منطقه اتخاذ کنند.
+‏@indypersian
+18:49
+1405/04/11
+
+
+
+
 src :@ClashReport
 ‏Zelensky says Ukraine will retaliate for Russia's massive attack on Kyiv.
 18:42
@@ -2749,22 +2797,6 @@ src :@jangaavaran1390
 
 
 
-src :@WAR_ROOM_NEWS
-‏بررسی فنی و عملیاتی موشک کروز استراتژیک Kh-101 (AS-23A Kodiak)
-‏
-‏موشک کروز هواپایه Kh-101 (با نام‌گذاری ناتو: AS-23A Kodiak) یکی از پیشرفته‌ترین تسلیحات دوربرد در زرادخانه استراتژیک روسیه است که با ترکیب پنهان‌کاری، برد قاره‌پیما و دقت نقطه‌ای، برای انهدام اهداف حیاتی طراحی شده است. توسعه این موشک در اواخر دهه ۱۹۸۰ و اوایل دهه ۱۹۹۰ توسط دفتر طراحی رادوگا به عنوان جایگزینی برای سری قدیمی‌تر Kh-55 آغاز شد تا سلاحی با سطح مقطع راداری بسیار پایین و دقت بالا خلق شود؛ ضمن اینکه نسخه مجهز به کلاهک هسته‌ای آن نیز با نام Kh-102 شناخته می‌شود. این موشک مادون صوت با طولی حدود ۷.۴۵ متر و وزن پرتابی بین ۲۳۰۰ تا ۲۴۰۰ کیلوگرم، به یک سر جنگی شدید‌الانفجار ترکش‌شونده یا نفوذگر ۴۰۰ تا ۴۵۰ کیلوگرمی مجهز است، هرچند در نسخه‌های ارتقایافته اخیر از کلاهک دوگانه با وزن مجموع نزدیک به ۸۰۰ کیلوگرم (به قیمت کاهش برد) استفاده شده است. نیروی محرکه آن توسط یک موتور توربوفن جمع‌شونده تامین می‌شود که پس از رهاسازی از بمب‌افکن‌های استراتژیک مانند Tu-160 و Tu-95MS باز شده و سرعت موشک را به ۰.۶ تا ۰.۷۸ ماخ می‌رساند. برد عملیاتی این موشک بین ۲۵۰۰ تا ۴۵۰۰ کیلومتر تخمین زده می‌شود که امکان شلیک از عمق امن خاک خودی را فراهم می‌کند. 
-‏
-‏یکی از ویژگی‌های بارز Kh-101 طراحی آئرودینامیک مسطح و چندوجهی آن است که در کنار استفاده از مواد جاذب رادار، سطح مقطع راداری آن را به شدت کاهش داده و کشف آن را دشوار می‌سازد. دقت بالای این موشک و خطای زیر ۱۰ متر آن، حاصل یک سیستم هدایت ترکیبی و چندمرحله‌ای است؛ به طوری که در طول مسیر از ناوبری اینرسی برای حفظ مسیر پایه و از سیستم ماهواره‌ای گلوناس برای تصحیح خطاها استفاده می‌کند، سپس سیستم تطبیق عوارض زمین (TERCOM) به موشک اجازه می‌دهد با اسکن پستی و بلندی‌ها در ارتفاع بسیار پست ۳۰ تا ۶۰ متری پرواز کند و در فاز نهایی نیز، سیستم هدایت الکترو-اپتیکال تصویر هدف را با عکس‌های ماهواره‌ای از پیش بارگذاری شده تطبیق می‌دهد تا اصابتی کاملاً دقیق رقم بخورد. افزون بر این قابلیت‌ها، تجربیات رزمی باعث شده تا مدل‌های جدید این موشک به سیستم‌های فریب و پرتاب‌گر شراره و پوشاله (Flare/Chaff) مجهز شوند تا در صورت تشخیص قفل راداری پدافند یا نزدیک شدن موشک‌های حرارتی، تسلیحات ضد‌هوایی را منحرف کنند که تمامی این موارد در کنار هم، Kh-101 را به چالشی جدی و مرگبار برای شبکه‌های پدافند هوایی تبدیل کرده است.
-‏
-‏#موشک_کروز #خا_۱۰۱ #تسلیحات_استراتژیک #نیروی_هوایی_روسیه #جنگ_افزار #هوافضا #پدافند_هوایی
-‏
-‏#Kh101 #CruiseMissile #Stealth #MilitaryTech #Aviation
-14:12
-1405/04/11
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏♨️ فرماندهی جبهه داخلی ارتش اسرائیل هماهنگی با ونزوئلا را در مورد زلزله در این کشور آغاز کرده است
@@ -3207,19 +3239,6 @@ src :@KayhanLondonChannel
 ‏
 ‏در این پرونده، مراد طاهباز و نیلوفر بیانی به ۱۰ سال حبس، هومن جوکار و طاهر قدیریان به هشت سال حبس، سام رجبی، سپیده کاشانی و امیرحسین خالقی به شش سال حبس و عبدالرضا کوهپایه به چهار سال حبس محکوم شدند. کاووس سیدامامی یکی دیگر از افراد بازداشت‌شده در این پرونده به شکل مشکوکی در زندان جان باخت و نهادهای حکومتی ادعا کردند او خودکشی کرده است.
 12:47
-1405/04/11
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️مسعود پزشکیان، رئیس‌جمهوری ایران، روز پنجشنبه ۱۱ تیر ماه، در پیامی در آستانه مراسم تشییع علی خامنه‌ای، رهبر پیشین جمهوری اسلامی، از مردم خواست در این مراسم شرکت کنند و گفت: «عروج سرخ رهبر ما پایان راه نیست، بلکه آغاز فصلی نوین از همبستگی، استقامت و بالندگی ملت ایران است.»
-‏پزشکیان کشته شدن علی خامنه‌ای را «اندوهی عمیق» برای مردم ایران و «آزادگان جهان» توصیف کرد و گفت این رویداد نشان داد جمهوری اسلامی بر «ایمان، آرمان و اراده ملتی بزرگ» استوار است.
-‏پزشکیان در پایان ابراز اطمینان کرد «مردم ایران» در مراسم‌های حکومتی تشییع «بار دیگر حماسه خواهند آفرید» و اجازه نخواهند داد پرچم علی خامنه‌ای روی زمین بماند.
-‏
-‏@indypersian
-12:45
 1405/04/11
 
 
@@ -5342,27 +5361,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇬🇧🤝🇵🇸 – UK Foreign Secretary Yvette Cooper has announced £23 million in new funding for UNRWA to provide essential support, including food, water, and medical care for Palestinian refugees.   The UK emphasizes the urgent need for increased aid, the opening…
 19:36
-1405/04/10
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇸🇾 — Syrian Interim-president Ahmed al-Sharaa Completes Formation of First Post-Assad Parliament
-‏
-‏Syrian Interim-president Ahmed al-Sharaa has appointed the final 70 members to the 210-seat transitional People's Assembly, finalizing the country's first parliament since the fall of Bashar al-Assad. The body is scheduled to convene its inaugural session on Monday, July 6, to begin work on drafting a new constitution.
-‏
-‏Of the 70 appointees, 15 are women, bringing the total female representation to 21. However, the assembly—two-thirds of whose members were selected through government-appointed electoral committees and the remainder directly by the president—has drawn criticism for its top-down formation process and limited inclusivity.
-‏
-‏Concerns over minority representation remain prominent. Reports indicate minimal Kurdish inclusion, with only a handful of appointees (including allies of al-Sharaa), and controversial choices for Druze representation that lack broad community support.
-‏
-‏While marking a formal step in Syria's post-Assad transition, the heavily centralized appointments underscore ongoing concerns about power consolidation under al-Sharaa rather than a broad-based democratic opening. 
-‏
-‏The parliament's two-and-a-half-year term (extendable) will operate under a constitutional framework that enshrines significant executive authority.
-‏
-‏The Global Eye | Subscribe
-19:35
 1405/04/10
 
 
