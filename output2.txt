@@ -1,3 +1,29 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸🇮🇷 President Trump says Iran has agreed to almost everything the United States wanted.
+‏
+‏@BRICSNews
+01:20
+1405/04/12
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️به گزارش وال‌استریت ژورنال، واشنگتن در مذاکرات غیرمستقیم با تهران پیشنهاد داده است در صورت کنار گذاشتن طرح دریافت عوارض از کشتی‌های عبوری و صرف‌نظر کردن از ادعای کنترل بر تنگه هرمز، بخشی از ۱۰۰ میلیارد دلار دارایی‌های مسدودشده ایران در خارج از کشور آزاد شود.
+‏بر اساس این گزارش، تهران تاکنون این پیشنهاد را نپذیرفته است. کاظم غریب‌آبادی، معاون وزیر امور خارجه جمهوری اسلامی، پس از بازگشت از دوحه تاکید کرد تنگه هرمز «تحت فرمان ایران» است، نه آمریکا.
+‏وال‌استریت ژورنال همچنین نوشت مقام‌های نظامی جمهوری اسلامی هشدار داده‌اند هر شناوری که از مسیرهای مورد تایید ایران عبور نکند، با «پاسخی فوری و قدرتمند» مواجه خواهد شد.
+‏بر اساس این گزارش، تهران به دنبال دریافت عوارض از تمامی کشتی‌های عبوری از تنگه هرمز در ازای ارائه خدماتی مانند تامین امنیت است؛ خواسته‌ای که آمریکا و کشورهای حاشیه خلیج فارس آن را رد کرده‌اند.
+‏این گزارش می‌افزاید ادامه اختلاف‌ها بر سر تنگه هرمز باعث کاهش چشمگیر تردد کشتی‌ها شده و شمار شناورهای عبوری روزانه از بیش از ۱۰۰ فروند پیش از جنگ، به ۴۳ فروند کاهش یافته است.
+‏
+‏@indypersian
+01:18
+1405/04/12
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏تصاویر منتشر‌شده در رسانه‌های ایران نشان می‌دهد احمد وحیدی، فرمانده کل سپاه پاسداران، شامگاه پنج‌شنبه در مراسمی که برای علی خامنه‌ای در نزدیکی حسینیه خمینی برگزار شد، حضور یافت.
@@ -1089,19 +1115,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — U.S. Olympic canoeist David "Davey" Hearn has been indicted on a felony destruction of property charge after allegedly causing more than $1,000 in damage to the Lincoln Memorial Reflecting Pool.
-‏
-‏According to U.S. Attorney Jeanine Pirro, National Park Service employees witnessed Hearn on June 19 allegedly forcefully pulling up the pool's protective liner, damaging about two square feet of sealant. 
-‏
-‏Pirro described Hearn's alleged behavior as "belligerent, rude, and disrespectful," while Hearn has denied the allegations, saying he did not remove, tear, or damage the pool's coating.
-22:51
-1405/04/11
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴نیویورک تایمز: مقام‌ های آمریکایی معتقد بودند اسرائیل در حال برنامه‌ ریزی برای ترور مذاکره‌ کنندگان ارشد ایرانی است
@@ -1216,17 +1229,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-[عکس]
-‏🇫🇷🇮🇹🇱🇧⚡️ — A French Foreign Ministry official told Al Arabiya that France and Italy are preparing, with U.S. backing, to deploy an international coalition force in southern Lebanon after UNIFIL's mission ends.
-‏
-‏➡️ The force would be deployed at Lebanon's request and in support of the Lebanese Armed Forces.
-22:44
-1405/04/11
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻مقامات آمریکایی معتقد بودند که اسرائیل در حال توطئه برای کشتن مذاکره‌کنندگان ایرانی است
@@ -1271,15 +1273,6 @@ src :@ClashReport
 ‏
 ‏The retirement schedule will remain classified.
 22:40
-1405/04/11
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷🇮🇱⚡️ — NEW: U.S. officials believed Israel was plotting to assassinate Iranian Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Bagher Ghalibaf while Washington was engaged in sensitive negotiations with Tehran this spring, according to…
-22:39
 1405/04/11
 
 
@@ -3029,18 +3022,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:00
-1405/04/11
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ مجید حکیم‌ الهی، نماینده رهبر جمهوری اسلامی در هند اعلام کرد که مجتبی خامنه‌ای به دلیل «نگرانی‌های امنیتی» در مراسم تشییع پدرش، علی خامنه‌ای، شرکت نخواهد کرد. حکیم الهی در گفتگو با شبکه خبری «ایندیا تودی» تاکید کرد که تهدیدات مستمر اسرائیل علیه مقامات ارشد جمهوری اسلامی، دلیل اصلی حضور نیافتن مجتبی خامنه‌ای در این مراسم است.
-‏
-‏یسرائیل کاتز، وزیر دفاع اسرائیل، به‌تازگی با تهدید مجتبی خامنه‌ای، گفته بود که او «برای مرگ علامت‌گذاری شده است»؛ اظهاراتی که با پاسخ وزارت امور خارجه جمهوری اسلامی مواجه شد و به اسرائیل هشدار داده شد که هرگونه تهدید آینده با «پاسخی قدرتمند» روبرو خواهد شد. 
-‏@indypersian
-17:58
 1405/04/11
 
 
@@ -5097,17 +5078,6 @@ src :@militaryinpersian
 ‏
 ‏👑 @Fighter_Radar
 05:48
-1405/04/11
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸 United States defeats Bosnia, advancing to the FIFA World Cup Round of 16 for the first time in 24 years.
-‏
-‏@BRICSNews
-05:36
 1405/04/11
 
 
