@@ -1,3 +1,14 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸 United States defeats Bosnia, advancing to the FIFA World Cup Round of 16 for the first time in 24 years.
+‏
+‏@BRICSNews
+05:36
+1405/04/11
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏سازمان بسیج اصناف اعلام کرد با مشارکت اتحادیه‌های نانوایان سراسر کشور، برای مسیر تشییع جنازه علی خامنه‌ای ۵۰ میلیون قرص نان در حال تهیه است و ۱۶ نانوایی سیار نیز برای همین منظور در تهران و حومه آن مستقر شده‌اند.
@@ -5641,19 +5652,6 @@ src :@GeoPWatch
 ‏🇮🇱❌🇹🇷 — Netanyahu in a direct threat to Turkey:
 ‏What's happening in Turkey (the rise of power) is a result of the decline of Iranian power. I advise Erdogan to calm down, because we have proven what we can do.
 10:32
-1405/04/10
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇨🇳🇷🇺 China secretly trained Russian military forces, Reuters reports.
-‏
-‏The plan was personally approved by President Putin.
-‏
-‏@BRICSNews
-10:15
 1405/04/10
 
 
