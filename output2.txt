@@ -1,9 +1,8 @@
-src :@selena_updates
-[عکس]
-‏The New York Times issued an article according to which American officials feared Israel might target senior Iranian negotiators and political leaders, including Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Bagher Ghalibaf, during ceasefire talks, prompting U.S. warnings to Iran through regional intermediaries and heightened security measures for Iranian delegations.
+src :@MilitarryWorld
+‏⭕️سخنگوی نیروهای مسلح یمن: اگر عربستان یک‌بار دیگر حریم هوایی یمن را نقض کند پاسخ همه‌جانبه می‌دهیم
 ‏
-‏The Prime Minister of Israel issued a statement on the report, calling it a "complete fabrication of reality."
-19:26
+‏@MilitarryWorld | Parsa
+19:32
 1405/04/12
 
 
@@ -23,7 +22,18 @@ src :@IranintlTV
 ‏
 ‏آندری نیز در رومانی بازداشت شده، اما به‌دلیل رسیدگی به پرونده‌ای دیگر، همچنان در این کشور به سر می‌برد.
 ‏https://iranintl.com/202607034749
-19:25
+19:28
+1405/04/12
+
+
+
+
+src :@selena_updates
+[عکس]
+‏The New York Times issued an article according to which American officials feared Israel might target senior Iranian negotiators and political leaders, including Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Bagher Ghalibaf, during ceasefire talks, prompting U.S. warnings to Iran through regional intermediaries and heightened security measures for Iranian delegations.
+‏
+‏The Prime Minister of Israel issued a statement on the report, calling it a "complete fabrication of reality."
+19:26
 1405/04/12
 
 
@@ -1503,18 +1513,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[عکس]
-‏دولت اسرائیل قرار است طرحی گسترده برای توسعه گردشگری در کرانه باختری را بررسی کند. به گزارش وای‌نت، هدف این طرح تبدیل کرانه باختری به یکی از مقاصد مهم گردشگری اسرائیل و افزایش شمار بازدیدکنندگان از اماکن تاریخی، طبیعی و باستان‌شناسی این منطقه است.
-‏بر اساس این گزارش، این طرح در قالب پیش‌نویس مصوبه‌ای از سوی هایم کاتز، وزیر گردشگری اسرائیل، تهیه شده و ادامه تصمیم‌های پیشین دولت در این زمینه به شمار می‌رود.
-‏در صورت تصویب، وزارت گردشگری اسرائیل برنامه‌ای چندساله برای سال‌های ۲۰۲۶ تا ۲۰۳۰ تدوین خواهد کرد. این برنامه شامل توسعه زیرساخت‌های گردشگری، معرفی و حفاظت از اماکن تاریخی، ایجاد مراکز اقامتی و گردشگری و گسترش فعالیت‌های بازاریابی برای معرفی کرانه باختری در داخل اسرائیل و بازارهای بین‌المللی خواهد بود.
-‏https://iranintl.com/202607033083
-16:43
-1405/04/12
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇦 NATO allies to pledge $80 billion in military aid to Ukraine.
@@ -1623,19 +1621,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 16:24
-1405/04/12
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇻🇪⚡️ — A new AtlasIntel poll for Bloomberg News shows 45.7% of Venezuelans believe holding new elections is a greater priority than rebuilding after the twin earthquakes, compared with 32.6% who prioritize reconstruction.
-‏
-‏Rodríguez's disapproval rating rose to 63.3% in June, up nearly five percentage points from May. 
-‏
-‏Almost two-thirds of respondents disapproved of the government's handling of the disaster, while 52.4% rated the response as "very poor."
-16:22
 1405/04/12
 
 
