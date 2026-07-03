@@ -1,3 +1,30 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇯🇵🇺🇸 Reuters: Iran has begun talks with Japanese companies to resume oil sales under a US sanctions waiver issued on 22 June as part of the 60‑day peace talks. The waiver expires on 21 August. Three Japanese buyers are considering purchases, their first since 2019, according to Iranian sources.  
+‏
+‏However, prospective buyers are seeking a longer waiver and assurances about shipping safety, given the Strait of Hormuz remains far from secure. A senior Iranian official said any deal would require an extension due to shipping times, and that cargoes would be loaded at Kharg Island using Japanese‑operated tankers.  
+‏ 
+‏@wfwitness
+17:10
+1405/04/12
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ قیمت نفت در هفته جاری با تغییر چندانی مواجه نشد و ثابت ماند؛ چرا که معامله‌گران همچنان به دستیابی به نتیجه‌ای موفقیت‌آمیز برای برقراری صلح میان ایالات متحده و جمهوری اسلامی ایران امیدوارند.
+‏
+‏طی این هفته، قیمت نفت خام برنت، شاخص بین‌المللی نفت، ۰.۳ درصد کاهش داشت. در معاملات روز جمعه و تا ساعت ۱۱:۳۲ به وقت گرینویچ، بهای معاملات آتی برنت با ۴ سنت یا ۰.۰۶ درصد کاهش، به ۷۱.۷۶ دلار در هر بشکه رسید.
+‏
+‏در همین حال، قیمت نفت در هفته جاری در پی افزایش امیدها برای حصول پیشرفت در مذاکرات جهت دستیابی به یک توافق صلح دائمی، به سطحی کاهش یافت که از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران، بی‌سابقه بوده است.
+‏@indypersian
+17:10
+1405/04/12
+
+
+
+
 src :@Mena_Live
 ‏Iraqi Ministry of Oil officials say construction has begun on the Basra–Haditha pipeline (2.25–2.5 million bpd) and the Basra–Aqaba pipeline to Jordan (1,700 km, up to 2.5 million bpd, being accelerated), while also studying rehabilitation of the Kirkuk–Baniyas pipeline through Syria, where Chevron, the US energy company, has recently (late June 2026) voiced interest in the Kirkuk project and has signed agreements in Syria related to offshore oil and gas development, with the offshore project framework expected to progress toward an executive binding contract within about a month, as the Basra–Haditha line links toward central Iraq and the Kirkuk network, supporting a potential north–south export corridor.
 ‏
@@ -404,17 +431,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 16:24
-1405/04/12
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏تنشر للمرة الاولى
-‏
-‏🇮🇷الإمام الراحل يمنح وسامًا للشهيد الحاج قاسم سليماني.
-16:23
 1405/04/12
 
 
@@ -1155,25 +1171,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@ClashReport
-[عکس]
-‏Russia fields fully autonomous Molniya strike drone — no radio link, invisible to jamming.
-‏
-‏Russia deployed a fully autonomous variant of the Molniya (Lightning) strike drone with no radio control link at all, according to Ukrainian MoD advisor and electronic-warfare expert Serhii "Flash" Beskrestnov.
-‏
-‏The recovered drone carried only a camera/optical module for computer vision and an onboard AI flight computer (identified as a FlyCore FC-202 board) — no control antenna, no video downlink, no radio emissions of any kind.
-‏
-‏After launch, the drone navigates autonomously via pre-programmed waypoints, then uses its onboard neural network to search for, lock onto, and strike the target with no operator in the loop.
-‏
-‏This makes the drone effectively invisible to most Ukrainian RF-based drone detectors, which hunt for control signals, and completely immune to electronic warfare jamming — there is simply no radio link to jam.
-‏
-‏The autonomous variant has reportedly been used extensively in the Zaporizhzhia region, where it bypasses the EW and detection systems Ukraine relies on to counter drone threats.
-15:13
-1405/04/12
-
-
-
-
 src :@P_raetorio
 ‏طی مراسم بازدید و ادای احترام سران و افراد مشهور خارجی به رهبر پیشین جمهوری اسلامی ایران مجری مراسم در حضور عاصم منیر،زینبیون را مظهر همراهی کشور پاکستان به مقاومت نامید در صورتی که زینبیون در پاکستان یک گروه ترروریستی اعلام شده است…
 ‏
@@ -1330,23 +1327,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 14:58
-1405/04/12
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 فعالیت پنج سوخت رسان آمریکایی در جنوب ایران
-‏
-‏1 پهپاد  MQ-4 نیروی دریایی آمریکا
-‏
-‏1 جنگنده  T-38A Talon
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-14:57
 1405/04/12
 
 
@@ -2978,20 +2958,6 @@ src :@selena_updates
 
 
 
-src :@P_raetorio
-[عکس]
-‏ترامپ در تروث:
-‏
-‏ادامه دادنِ آمریکا به این مسیر یک‌جانبه، آن هم در شرایطی که رابطه متقابل نیست، مضحک است. آن‌ها در لحظات نیاز کنار ما نبودند!
-‏
-‏
-‏@P_raetorio
-10:46
-1405/04/12
-
-
-
-
 src :@didarnews1
 ‏🔴قالیباف:
 ‏
@@ -3620,32 +3586,6 @@ src :@jangaavaran1390
 ‏
 ‏#آمریکا #نیروی_دریایی_آمریکا #موشک #AARGM_ER #جنگاوران https://t.me/jangaavaran1390
 08:29
-1405/04/12
-
-
-
-
-src :@jangaavaran1390
-‏پهپادهایی که از سال ۲۰۲۴ بر فراز پایگاه‌های هوایی آمریکا در بریتانیا از جمله لیکنهیث، میلدنهال، فلت‌ول و فیرفورد مشاهده شده بودند، به احتمال زیاد بخشی از یک عملیات هماهنگ روسیه بوده‌اند. براساس گزارش جدید مؤسسه بین‌المللی مطالعات راهبردی (IISS)، «به احتمال زیاد» کرملین بین اوت ۲۰۲۴ تا فوریه ۲۰۲۶ یک کارزار گسترده پهپادی را در بیش از ۱۲ کشور عضو ناتو و ایرلند اجرا کرده است. این گزارش همچنین می‌گوید پهپادها احتمالاً از کشتی‌های مرتبط با روسیه و ناوگان موسوم به «ناوگان سایه» به پرواز درآمده و مأموریت‌هایی مانند شناسایی، آزمایش زمان واکنش سامانه‌های پدافندی ناتو، جمع‌آوری اطلاعات از پایگاه‌های نظامی و ایجاد فشار روانی را انجام داده‌اند. با این حال، نویسندگان گزارش تأکید کرده‌اند که این نتیجه‌گیری بر پایه شواهد غیرمستقیم، داده‌های متن‌باز و الگوهای تردد کشتی‌ها است و هنوز هیچ دولت اروپایی به‌صورت علنی مدرک قطعی مبنی بر ارتباط یک کشتی مشخص با یک عملیات پهپادی مشخص منتشر نکرده است. در واکنش به این گزارش، وزارت دفاع بریتانیا اعلام کرد که پرواز پهپادها بر فراز پایگاه‌های نظامی در سال ۲۰۲۴ تأیید شده، اما درباره ارزیابی‌های اطلاعاتی یا عامل این عملیات اظهار نظر نخواهد کرد. نیروی هوایی آمریکا در اروپا نیز اعلام کرد این رخدادها تأثیری بر عملیات پایگاه‌ها نداشته، اما از اظهار نظر درباره عامل آن خودداری کرده است. #روسیه #ناتو #بریتانیا #آمریکا #پهپاد #جنگاوران https://t.me/jangaavaran1390
-08:28
-1405/04/12
-
-
-
-
-src :@jangaavaran1390
-‏وال‌استریت ژورنال: طرح کاهش بیشتر نیروهای آمریکایی در اروپا متوقف شد.
-‏
-‏بر اساس گزارش وال‌استریت ژورنال، پیت هگست، وزیر دفاع آمریکا، قصد داشت ماه گذشته در نشست فرماندهان ارشد نظامی ناتو از کاهش بیشتر نیروهای آمریکایی مستقر در اروپا خبر دهد، اما این پیشنهاد پس از بررسی توسط مارکو روبیو، وزیر امور خارجه آمریکا، و دیگر مقام‌های ارشد دولت ترامپ متوقف شد.
-‏
-‏به گفته منابع آگاه، این کاهش نیروها فراتر از لغو استقرار یک تیپ زرهی در لهستان و خروج پیشین یک تیپ پیاده از رومانی بود. در نهایت، هگست به جای اعلام کاهش نیروها، از آغاز یک بررسی شش‌ماهه درباره آرایش نیروهای آمریکا در اروپا خبر داد.
-‏
-‏این گزارش می‌افزاید مقام‌های آمریکایی امیدوارند نشست هفته آینده ناتو در ترکیه، تصویری از وحدت میان اعضای ائتلاف ارائه دهد؛ هرچند نگرانی‌ها درباره اختلاف‌نظر بر سر تعهدات نظامی آمریکا در اروپا همچنان می‌تواند بر این اجلاس سایه بیندازد.
-‏
-‏#آمریکا #ناتو #اروپا #ترکیه #جنگاوران
-‏
-‏https://t.me/jangaavaran1390
-08:19
 1405/04/12
 
 
@@ -5193,12 +5133,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:13
-1405/04/11
-
-
-
-
-src :@rnintel
-‏🇮🇷🇮🇶⚡- Iranian drone strike on Kurdish separatist positions in Soran, Erbil Governorate, Iraq's Kurdistan region.
-17:06
 1405/04/11
