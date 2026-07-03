@@ -1,3 +1,18 @@
+src :@ClashReport
+[عکس]
+‏Moscow’s push to launch its own Starlink alternative is faltering out of the gate.
+‏
+‏▪️First batch of Rassvet satellites sees early unit failure
+‏▪️Ukraine claims strike on Moscow space comms center
+‏▪️Roscosmos battles deep deficits
+‏
+‏READ MORE
+13:25
+1405/04/12
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، اعلام کرد ارزیابی آژانس نشان می‌دهد ذخایر اورانیوم غنی‌شده جمهوری اسلامی همچنان در تاسیسات هسته‌ای باقی مانده و پس از حملات آمریکا و اسرائیل از این مراکز خارج نشده است.
@@ -1162,21 +1177,6 @@ src :@P_raetorio
 ‏
 ‏https://t.me/AtlasRelayFastbot?start=praetorio
 11:55
-1405/04/12
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 توییت سردار رادان در مورد مجازات خرابکاری در مراسم تشییع آیت‌الله خامنه‌ای 
-‏
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-11:54
 1405/04/12
 
 
