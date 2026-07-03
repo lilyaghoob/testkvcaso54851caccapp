@@ -1,7 +1,61 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶USS Vincennes (CG-49) 
+‏یک رزمناو کلاس Ticonderoga که مجهز به سیستم رزمی Aegis بود و از ژوئیه 1985 تا ژوئن 2005 در نیروی دریایی ایالات متحده خدمت می کرد. 
+‏
+‏🔹یکی از 27 کشتی کلاس Ticonderoga بود و یکی از پنج کشتی مجهز به سیستم پرتاب موشک Mark 26
+‏ شماره بدنه: CG-49
+‏ 
+‏
+‏🔹 ویژگیهای کلی کلاس و نوع رزمناو کلاسTiconderoga
+‏ 
+‏وزن خالی و با بارگزاری 9600 تن (9.800 تن) 
+‏
+‏طول 567 پا (173 متر) 
+‏
+‏ پیشرانه  4موتورها توربین گازی جنرال الکتریک LM2500
+‏
+‏دو پروانه قابل کنترل و دو دور, دو سکان
+‏
+‏ سرعت 32.5 گره (60 کیلومتر در ساعت ؛ 37.4 مایل در ساعت) 
+‏نیرو ها 30 افسر و 300 نفر سرباز
+‏
+‏@RASTAKHIZ_PERSIAN
+21:04
+1405/04/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻با اعلام فیفا علیرضا فغانی، داور بین‌المللی ایرانی، دیدار تیم‌های مکزیک و انگلستان در یک‌هشتم نهایی جام جهانی را قضاوت خواهد کرد. دو کمک‌داور استرالیایی، فغانی را در این مسابقه همراهی خواهند کرد.
+‏
+‏🔹این دیدار بامداد دوشنبه ۱۵ تیر برگزار می‌شود.
+‏
+‏@iranintltvsport
+21:03
+1405/04/12
+
+
+
+
 src :@mwarmonitor
-‏🔴دفتر نخست‌وزیر اسرائیل اعلام کرد که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز جمعه با دونالد ترامپ، رئیس‌جمهور ایالات متحده، گفت‌وگو کرده و دو رهبر توافق کرده‌اند به‌زودی در آمریکا دیدار کنند.
+‏🔴دفتر نخست‌وزیر اسرائیل اعلام کرد که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز جمعه با دونالد ترامپ، رئیس‌جمهور ایالات متحده، گفت‌وگو کرده و دو رهبر توافق کرده‌اند به‌زودی در آمریکا دیدار کنند. آکسیوس 
 ‏
 ‏@mwarmonitor
+21:02
+1405/04/12
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️به گزارش رویترز، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با دونالد ترامپ، رئیس‌جمهور ایالات متحده، روز جمعه ۱۲ تیر تلفنی گفتگو کرده است. بر اساس این گزارش، دو رهبر توافق کردند که به‌زودی در خاک آمریکا با یکدیگر دیدار کنند.
+‏
+‏بیانیه دفتر نخست‌وزیر اسرائیل که توسط این خبرگزاری نقل شده، به زمان دقیق این ملاقات اشاره‌ای نکرده است.
+‏@indypersian
 21:02
 1405/04/12
 
@@ -716,20 +770,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-‏🚨دوستان این گروه رو هم برای کسایی که گفتن بحث ازاد میخوان 😉
-‏👇👇👇
-‏https://t.me/+7EV6FqhYCXE3NDY0
-‏https://t.me/+7EV6FqhYCXE3NDY0
-‏https://t.me/+7EV6FqhYCXE3NDY0
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-19:59
-1405/04/12
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏Odds on Iran charging fees by August 31st is now up to 52%.
@@ -795,16 +835,6 @@ src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی اخبار شبانگاهی | جمعه ۱۲ تیر
 ‏@iranintlTV
-19:55
-1405/04/12
-
-
-
-
-src :@World_Newsly
-‏🚨نظرسنجی //
-‏
-‏💥شما طرفدار کدام رژیم هستید ؟
 19:55
 1405/04/12
 
@@ -1063,18 +1093,6 @@ src :@Indypersian
 
 
 
-src :@IranintlTV
-[عکس]
-‏شیرین عبادی، برنده نوبل صلح، در یادداشتی با عنوان «در پرخرج‌ترین تشییع تاریخ، چه بر سر مردم می‌آید؟» نوشت هزینه برگزاری مراسم تشییع علی خامنه‌ای از منابع عمومی و «از جیب مردمی» تامین می‌شود که برای تامین نیازهای اولیه زندگی با مشکل روبه‌رو هستند.
-‏عبادی با اشاره به مراسم تشییع قاسم سلیمانی و روح‌الله خمینی، نوشت جمهوری اسلامی سابقه برگزاری مراسمی را دارد که در آن شماری از افراد جان خود را از دست داده یا زخمی شده‌اند و افزود: «این دیگر عزاداری نیست؛ برنامه‌ریزی برای فاجعه است.»
-‏او همچنین نوشت جمهوری اسلامی برای برگزاری مراسم تشییع خامنه‌ای بودجه، امکانات و نیروی انسانی بسیج می‌کند، اما برای تامین نیازهای مردم، از جمله دارو، معیشت و عدالت، منابع کافی اختصاص نمی‌دهد.
-‏https://iranintl.com/202607035101
-19:22
-1405/04/12
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇶هيئة الحشد الشعبي:
 ‏نود إعلامكم بأنه تم إغلاق الاستمارة الإلكترونية الخاصة بمنح الهويات الإعلامية لتغطية مراسم تشييع آية الله العظمى الشهيد السيد علي الحسيني الخامنئي (قدس سره الشريف).
@@ -1145,16 +1163,6 @@ src :@Indypersian
 ‏🖋امیرحسین میراسماعیلی
 ‏
 ‏@indypersian
-19:12
-1405/04/12
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دنی دانون، سفیر اسرائیل در سازمان ملل، در واکنش به اظهارات آنتونیو گوترش، دبیرکل سازمان ملل متحد، درباره مرگ علی خامنه‌ای، در شبکه ایکس نوشت آیا ابراز همدردی و سوگواری برای «دیکتاتوری خشن که دستور قتل، شکنجه و آزار ده‌ها هزار ایرانی بی‌گناه را صادر کرده است» مناسب است.
-‏https://iranintl.com/202607033692
 19:12
 1405/04/12
 
@@ -1393,6 +1401,31 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 18:51
+1405/04/12
+
+
+
+
+src :@World_Newsly
+‏🔴 معاون رئیس‌جمهور ترکیه: «رجب طیب اردوغان» رئیس‌جمهور ترکیه، پس از عادی شدن شرایط در ایران به این کشور سفر خواهد کرد
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+18:50
+1405/04/12
+
+
+
+
+src :@World_Newsly
+‏🔴حوثی‌ها اعلام کردند که جنگنده‌های سعودی را از حریم هوایی یمن بیرون رانده‌اند، پس از اینکه این جنگنده‌ها تلاش کردند از فرود یک هواپیمای غیرنظامی ایرانی در صنعا جلوگیری کنند.
+‏
+‏آنها هشدار دادند که اقدامات آتی عربستان با حملاتی به فرودگاه‌های سعودی و سایر اهداف حیاتی مواجه خواهد شد.
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+18:48
 1405/04/12
 
 
@@ -4391,40 +4424,6 @@ src :@tglobaleye
 
 
 
-src :@BellumActaNews
-[عکس]
-‏• 📝Battle for Kostyantynivka📝
-‏
-‏Units of the "South" grouping occupy the remaining quarters of Kostyantynivka in heavy fighting. The large city has not become an insurmountable obstacle for Russian forces. Since managing to establish a foothold in the built-up area, assault groups have methodically drawn themselves into the urban environment and step by step pushed the enemy westward.
-‏
-‏➡️We have repeatedly noted that success is largely ensured by well-thought-out and consistent work on disrupting enemy logistics. The count of destroyed armored vehicles runs into the hundreds of units, while the number of destroyed personnel carriers has exceeded several thousand. The battle for Kostyantynivka lasted nearly a year: the first forward groups reached the outskirts back in September 2025.
-‏
-‏➡️Apparently, by July 2026, a full liberation of Kostyantynivka will be announced. Meanwhile, forward detachments of the Russian Armed Forces are already advancing toward Aleksiyevo-Druzhkivka. For now, this is related rather to reconnaissance group operations, and there is no talk of full control.
-‏
-‏In a broader sense, Kostyantynivka serves as a gateway to the Slavyansk-Kramatorsk-Druzhkivka urban area. The city is particularly important as a springboard for advancing northwest through the built-up area to Aleksiyevo-Druzhkivka, then to Druzhkivka and further to Kramatorsk.
-‏
-‏❗️As one can easily see, in the case of the DNR, the enemy is betting on fortress cities, turning even relatively large populated areas into fortified bastions surrounded by defensive works, and eagerly promotes them in Western media.
-‏
-‏However, it is precisely through such cities that breakthrough operations are now somewhat easier: the concept of a "drone wall" is more effective in open terrain, but in dense urban areas assault groups can maneuver covertly and accumulate forces before then winning territory in rifle combat.
-‏
-‏📌While the enemy's continued presence at Ivanivske (Krasnoye) and on the outskirts of Chasiv Yar to some extent slows down the liberation of Kostyantynivka, ultimately Ukrainian formations will find themselves here, on tactically advantageous heights, but in a semi-encirclement — with a quite predictable outcome.
-‏If you have updates on the situation, if you want us to highlight the successes of your unit, — you can always write to us via the feedback bot 
-‏@rybar_feedback_bot
-‏
-‏📍High resolution map
-‏
-‏📍English version 
-‏
-‏📍Online maps available by subscription at map.rybar.ru
-‏
-‏#digest #Kostyantynivka #Russia #Ukraine
-‏✈
-07:35
-1405/04/12
-
-
-
-
 src :@rnintel
 ‏🇩🇪🇺🇦⚡️- Germany has formally charged Ukrainian national Serhii K., an officer of the Ukrainian army at the time of the incident, with being an accomplice to a war crime over the 2022 Nord Stream Pipeline attack. The attack destroyed 3 of the 4 pipelines that deliver Russian natural gas to Germany. The charges include acting as an accomplice in a war crime by carrying out attacks on civilian energy infrastructure, causing an explosion, destroying infrastructure, and disrupting public utilities. 
 ‏
@@ -5111,37 +5110,4 @@ src :@defence_news
 src :@defence_news
 ‏اسرائیل کاتز، وزیر دفاع اسرائیل:  «ارتش اسرائیل باید در هر زمانی که لازم باشد، آماده انجام یک عملیات مستقل و اسرائیلی در ایران باشد.»
 21:12
-1405/04/11
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ نیروی دریایی ایالات متحده عملیات جستجو را در دریای عرب پس از فرود اضطراری هلیکوپتر MH-60S Seahawk از گروه بال هوایی ناو هواپیمابر USS George H.W. Bush (CVN-77) انجام می‌دهد.
-‏
-‏این حادثه در اول ژوئیه در حین پرواز برنامه‌ریزی شده در منطقه مسئولیت ناوگان پنجم ایالات متحده رخ داد. سه نفر از چهار عضو خدمه از آب بیرون کشیده شده و به ناو هواپیمابر منتقل شدند، جستجو برای نظامی چهارم ادامه دارد.
-‏
-‏فرماندهی نیروی دریایی ایالات متحده در منطقه فرماندهی مرکزی (NAVCENT) تأکید کرد که «در حال حاضر هیچ نشانه‌ای وجود ندارد که این حادثه ناشی از اقدامات دشمن باشد».
-‏
-‏@Guard_Warriors | Mmd
-21:05
-1405/04/11
-
-
-
-
-src :@Parvazdaroj
-‏https://t.me/Artemis_Force/11501
-21:03
-1405/04/11
-
-
-
-
-src :@Mena_Live
-‏Israeli Defense Minister: 83% of the tunnels in the area west of the security fence in Gaza have been destroyed.
-‏
-‏@Mena_Live
-21:02
 1405/04/11
