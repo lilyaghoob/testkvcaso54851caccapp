@@ -1,3 +1,25 @@
+src :@World_Newsly
+‏🔴 خبر_فوری
+‏
+‏خبرگزاری فارس:
+‏نیروهای امنیتی در سراسر تهران به حالت آماده باش حداکثری درآمدند.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:50
+1405/04/13
+
+
+
+
+src :@tabzlive
+‏🇺🇦❌🇷🇺 — HIMARS MLRS launches towards Belgorod. Likely targeting energy infrastructure.
+00:49
+1405/04/13
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇦❌🇷🇺 — Ukrainian HIMARS-launched rockets and UAVs have impacted the Luch TPP, Belgorod, Russia. Power and water outages reported in Belgorod.
@@ -1037,19 +1059,6 @@ src :@cataphract1
 
 
 
-src :@tabzlive
-[عکس]
-‏🇫🇷🇺🇸🇮🇷⚡️ — France has adjusted its military deployment in the Middle East, with President Emmanuel Macron announcing the return of the aircraft carrier Charles de Gaulle to its home port in Toulon following what he described as a "favorable development" after the signing of the U.S.-Iran MoU.
-‏
-‏Macron said France will keep two minehunters, two frigates, and a maritime patrol aircraft deployed in the region. The mine countermeasure force remains "ready to intervene" alongside partners to help ensure the safe resumption of navigation and protect shipping through the Strait of Hormuz.
-‏
-‏He added that France remains fully committed to regional security and will continue adjusting its military posture as the situation evolves.
-22:49
-1405/04/12
-
-
-
-
 src :@Mena_Live
 ‏Tomorrow, the largest military aerial display in history will take place as part of the 250th celebration of the United States, featuring around 150 aircraft, including F-35s, F-22s, B-2 bombers, helicopters, and more.
 ‏
@@ -1072,18 +1081,6 @@ src :@cataphract1
 ‏۱/۳
 ‏✒️#LT
 ‏📃@Cataphract1
-22:48
-1405/04/12
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴تا این لحظه هیچکدام از 4 فرزند پسر رهبر پیشین انقلاب اسلامی برای ودفاع با او، به مراسم ادای احترام به او نیامده‌اند.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 22:48
 1405/04/12
 
@@ -5232,13 +5229,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 01:20
-1405/04/12
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏WATCH | 🇮🇷 — The coffin of slain Iranian Supreme Leader Ayatollah Ali Khamenei arrives at the farewell ceremony near Imam Khomeini’s Hussainiyah.  The Global Eye | Subscribe
-00:48
 1405/04/12
