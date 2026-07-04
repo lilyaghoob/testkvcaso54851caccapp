@@ -195,21 +195,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇩🇪🇨🇳⚡️ — Germany's export-driven Mittelstand manufacturers are facing their biggest challenge in decades as Chinese competitors rapidly close the quality gap while offering products at prices as much as 50% lower, eroding one of the country's key economic advantages, WSJ reports.
-‏
-‏For the first time in decades, Germany now imports more advanced capital goods from China than it exports there. Industrial output has fallen about 10% since 2022, Germany is losing more than 10,000 industrial jobs per month, and many manufacturers are cutting jobs, idling workers, or shifting production to China.
-‏
-‏Industry leaders warn China's state-backed manufacturing push is reshaping global competition. Under Beijing's "10,000 Little Giants" program, thousands of specialized firms have received subsidies and tax incentives to challenge Germany's industrial leadership. 
-‏
-‏German companies are increasingly calling for stronger EU trade protections, while others argue Germany must reduce costs and reform its economy to remain competitive.
-06:22
-1405/04/13
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ شهرنوش پارسی‌پور، نویسنده و مترجم سرشناس معاصر ایران، روز جمعه ۱۲ تیر ۱۴۰۵ (۳ ژوئیه ۲۰۲۶) در بیمارستانی در حومه سان‌فرانسیسکو درگذشت.
@@ -217,14 +202,6 @@ src :@Indypersian
 ‏او که متولد ۱۳۲۴ در تهران بود، با انتشار آثاری همچون «سگ و زمستان بلند»، «زنان بدون مردان»، «طوبا و معنای شب» و «عقل آبی» به جایگاهی ویژه در ادبیات فارسی دست یافت که بسیاری از آن‌ها به زبان‌های دیگر نیز ترجمه شده‌اند. پارسی‌پور پس از چهار سال زندان در سال‌های پس از انقلاب ۱۳۵۷ و تحمل محدودیت‌های فراوان، سرانجام به ایالات متحده مهاجرت کرد و فعالیت‌های ادبی خود را در شمال کالیفرنیا ادامه داد. خانواده وی ضمن اعلام خبر درگذشت او، این اتفاق را ضایعه‌ای بزرگ برای جامعه فرهنگی و ادبی ایران خواندند و اعلام کردند که جزئیات مراسم خاکسپاری متعاقبا اعلام خواهد شد.
 ‏@indypersian
 06:19
-1405/04/13
-
-
-
-
-src :@tabzlive
-‏🇺🇸⚡️ — The American National Independence Day Parade, scheduled for July 4 at 9:30 AM, has been canceled due to extreme heat in Washington.
-06:03
 1405/04/13
 
 
