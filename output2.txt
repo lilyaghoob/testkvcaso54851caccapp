@@ -935,17 +935,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — Yesterday, eleven [seven pictured] U.S. Air Force F-15E Strike Eagle fighter jets in service with the 492nd Fighter Squadron returned to RAF Lakenheath, United Kingdom from Muwaffaq Salti Air Base, Jordan.
-‏
-‏All of the F-15Es pictured have numerous GBU-38 JDAM precision-guided bomb markings, painted on to show their use against Iran during the Iran War. Two of the F-15Es also have AGM-158 JASSM air-launched cruise missile markings.
-00:01
-1405/04/13
-
-
-
-
 src :@World_Newsly
 ‏🔴 مکرون: ناو هواپیمابر شارل دوگل در پی امضای یادداشت تفاهم میان آمریکا و ایران به فرانسه بازخواهد گشت
 ‏
