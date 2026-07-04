@@ -45,6 +45,32 @@ src :@mwarmonitor
 
 
 
+src :@World_Newsly
+‏🔴 مستند جاسوسی از تهران؛ ساخته کانال 14 اسرائیل از نفوذ موساد در سپاه پاسداران    زیرنویس فارسی  ☑️ @Daxor_unit
+20:42
+1405/04/13
+
+
+
+
+src :@didarnews1
+‏🔴ترامپ: اشک‌های مردم ایران برای رهبرشان تصنعی است
+‏
+‏🔹رئیس‌جمهور آمریکا در مصاحبه با آکسیوس گفت که از دیدن گریه ایرانیان در مراسم بدرقه رهبر متعجب شده است.
+‏
+‏🔹ترامپ گفت: فکر می‌کردم مردم از (حضرت آیت‌الله) خامنه‌ای متنفر باشند.
+‏
+‏🔹ترامپ مدعی شد: شاید اشک‌های ایرانیان تصنعی باشد.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+20:42
+1405/04/13
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهوری آمریکا، شنبه به وب‌سایت خبری اکسیوس گفت که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، از او درخواست دیدار در کاخ سفید کرده و این دیدار ممکن است پس از بازگشت ترامپ از نشست ناتو در هفته آینده برگزار شود.
@@ -1564,18 +1590,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 17:43
-1405/04/13
-
-
-
-
-src :@World_Newsly
-‏🔴از صبح، نیروهای دفاعی اسرائیل (IDF) با توپخانه، مناطق «دیر سریان»، «قنطره» و تپه‌های «علی الطاهر» در جنوب لبنان، نزدیک شهر نباتیه را مورد اصابت قرار داده‌اند. هیچ‌کدام از طرفین تاکنون واکنشی نشان نداده‌اند
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-17:42
 1405/04/13
 
 
@@ -3464,35 +3478,6 @@ src :@Artemis_Force
 
 
 
-src :@didarnews1
-‏🔴صدور کیفرخواست پرونده رضا پهلوی فرزند شاه مخلوع
-‏
-‏🔹پرونده با اتهامات متعدد امنیتی، تروریستی و سازمان‌یافته برای رسیدگی به دادگاه ارسال شد.
-‏🔹دادستان عمومی‌و انقلاب تهران از صدور کیفرخواست پرونده رضا پهلوی و ارسال آن به دادگاه خبر داد.
-‏
-‏علی صالحی:
-‏🔹در پی اعلام جرم دادستانی کل کشور و دادستانی تهران و تشکیل پرونده در دادسرای ناحیه ۲۰ (ویژه امور بین‌الملل) تهران، تحقیقات قضایی گسترده و تخصصی پیرامون اقدامات متهم رضا پهلوی انجام شد.
-‏🔹پس از تکمیل تحقیقات، اخذ گزارش‌های مراجع ذی‌صلاح، جمع‌آوری ادله و مستندات و انجام اقدامات قانونی، کیفرخواست پرونده مطابق قانون صادر و پرونده برای رسیدگی به دادگاه صالح ارسال شد.
-‏🔹تحقیقات این پرونده ناظر بر مجموعه‌ای از اقدامات مجرمانه متهم طی سالیان اخیر، به‌ویژه در جریان اغتشاشات سالیان اخیر و نیز جنایات تروریستی دی‌ماه ۱۴۰۲ و همچنین اقدامات مرتبط با جنگ تحمیلی اخیر بوده و بر همین اساس، عناوین اتهامی‌متعدد در کیفرخواست مورد توجه قرار گرفته است.
-‏🔹بر اساس کیفرخواست صادره، اهم اتهامات انتسابی به ترتیب اهمیت و شدت است از افساد فی‌الارض از طریق تشکیل، هدایت و فرماندهی گروه‌ها و شبکه‌های سازمان‌یافته با هدف برهم زدن امنیت کشور و اقدام علیه اساس نظام جمهوری اسلامی‌ایران.
-‏🔹هدایت، فرماندهی، آمریت و سازمان‌دهی اقدامات تروریستی و خشونت‌آمیز و تأمین مالی فعالیت‌های منتسب به گروه‌ها و شبکه‌های سازمان‌یافته.
-‏🔹همکاری با دولت‌های متخاصم در زمان مخاصمه و ارتکاب جرائم علیه امنیت خارجی کشور.
-‏🔹جاسوسی و همکاری اطلاعاتی و عملیاتی با سرویس‌های اطلاعاتی و نظامی‌بیگانه.
-‏🔹تسبیب و آمریت در جرائم علیه تمامیت جسمانی اشخاص، از جمله اتهامات مرتبط با قتل، صدمات بدنی عمدی و سایر جرایم ناشی از اقدامات خشونت‌آمیز موضوع پرونده.
-‏🔹تسبیب و آمریت در تخریب گسترده اموال عمومی، دولتی، خصوصی و زیرساخت‌های کشور.
-‏🔹تسبیب و آمریت در تصرف اماکن دولتی، سازمان‌دهی اقدامات خشونت‌آمیز، مسلح کردن گروه‌های مخالف و سایر اقدامات منتسب علیه امنیت عمومی.
-‏🔹تحریک، تشویق و ترغیب به خشونت، شورش، جنگ، کشتار و اخلال در نظم و امنیت کشور.
-‏🔹فعالیت تبلیغی علیه نظام جمهوری اسلامی‌ایران.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-12:56
-1405/04/13
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇬🇧🇷🇴🇮🇷 — Two Romanian nationals, Nandito Badea (21) and George Stana (25), have been sentenced to 8 and 12 years in prison for attacking and stabbing the London-based opposition broadcaster Iran International's journalist Pouria Zeraati in London in March 2024.
@@ -5206,47 +5191,4 @@ src :@tglobaleye
 src :@Shin_Persian
 ‏↩️ Quoted tweet: قناة الإخبارية ✓  @alekhbariyatv Fri, 03 Jul 2026 14:57:48 UTC  طهران.. وفد سعودي يعزي في المرشد الإيراني السابق "خامنئي"  ↩️ Quoted tweet — see the post below for the reply.  English  Tehran.. A Saudi delegation offers condolences on the…
 20:47
-1405/04/12
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷/🇵🇰 NEW: Pakistan’s Government does not shy away from using the word ‘Shaheed’ (martyr) to describe Ayatollah Khamenei
-‏
-‏Good to see, and a sign of great respect from the Eastern neighbours.
-‏
-‏@Middle_East_Spectator
-20:44
-1405/04/12
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏تصویر ماهواره ای از مقر ارتباطات فرماندهی مرکزی ارتش روسیه در حومه مسکو که هدف اصابت 4 تا 6 پرتابه اوکراینی قرار گرفته است 
-‏
-‏@Minas_Tirith2024
-20:43
-1405/04/12
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇾🇪 🇮🇷 🇾🇪 🇸🇦 — Houthis Claim They 'Forced' Saudi Warplanes Out of Yemeni Airspace 
-‏
-‏Yemen's Iran-backed Houthi militia stated on Friday that its air defenses intercepted Saudi warplanes attempting to prevent an Iranian civilian aircraft from landing at Sana'a International Airport.
-‏
-‏According to Houthi military spokesperson Yahya Saree, Saudi jets entered Yemeni airspace early Friday as the Iranian passenger plane—carrying over 200 civilians, including stranded, wounded, and sick Yemenis—approached the airport. Houthi forces reportedly fired surface-to-air missiles, forcing the Saudi aircraft to withdraw.
-‏
-‏The group warned that any future Saudi violations of Yemeni airspace or attacks would prompt retaliatory strikes on Saudi airports and other vital targets.
-‏
-‏No immediate confirmation or response has been reported from Saudi officials.
-‏ 
-‏The Global Eye | Subscribe
-20:42
 1405/04/12
