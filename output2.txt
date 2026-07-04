@@ -1951,15 +1951,6 @@ src :@P_raetorio
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli forces are carrying out demolitions in Hadatha, southern Lebanon.
-22:14
-1405/04/13
-
-
-
-
 src :@Middle_East_Spectator
 ‏The MES team will arrive at the funeral in a few minutes, inshaAllah.
 ‏
