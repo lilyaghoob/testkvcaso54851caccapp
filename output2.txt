@@ -1,3 +1,108 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏نیروهای دفاعی اسرائیل (IDF) یک عملیات بمباران گسترده را در شهرک قنطره، واقع در منطقه امنیتی جنوب لبنان، انجام دادند
+15:41
+1405/04/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iranian President Masoud Pezeshkian reportedly played a decisive role in persuading Supreme Leader Ayatollah Mojtaba Khamenei to approve a ceasefire and negotiations with Washington.
+‏
+‏Pezeshkian warned that Iran's economy was nearing collapse under a U.S. naval blockade and threatened to resign if the deal was rejected.
+‏
+‏The Central Bank governor also reportedly warned that the country could run short of food and medical supplies within weeks.
+‏
+‏Khamenei ultimately authorized the talks, saying he opposed the agreement "in principle" but would support it if backed by the Supreme National Security Council, which overwhelmingly approved the plan.
+‏
+‏Source: NYT
+15:40
+1405/04/13
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🔻القوات الامنية العراقية تطيح بتاجر  للمخدرات بحوزته 14 ألف حبة كبتاجون في بغداد
+15:39
+1405/04/13
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏از صبح امروز تردد در مسیر طرف عمانی به شدت کاهش یافته و گزارشاتی از تهدید کشتی‌ها به هدف قرار گرفتن توسط سپاه پاسداران منتشر شده است.
+‏
+‏@P_raetorio
+15:39
+1405/04/13
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏نیویورک تایمز به نقل از دو عضو سپاه پاسداران و یک فرد درگیر در برنامه‌ریزی مراسم حکومتی دفن علی خامنه‌ای نوشت مجتبی خامنه‌ای به مقام‌های جمهوری اسلامی گفته است می‌خواهد در مراسم تدفین پدرش در حرم امام هشتم شیعیان در مشهد، که برای ۱۸ تیر برنامه‌ریزی شده، شرکت کند و نماز میت را بخواند.
+‏این روزنامه به نقل از این منابع افزود مقام‌های امنیتی تاکنون با حضور مجتبی خامنه‌ای در این مراسم مخالفت کرده‌اند، زیرا نگران هستند اسرائیل از این مراسم برای کشتن او یا ردیابی محل اختفایش استفاده کند.
+15:39
+1405/04/13
+
+
+
+
+src :@MilitarryWorld
+‏⭕️ نیویورک تایمز : آیت الله مجتبی خامنه‌ای تمایل دارد در مراسم خاکسپاری پدرش در مشهد حضور داشته باشد.
+‏
+‏با این حال، طبق گفته منابع مقامات امنیتی ایران تاکنون با این طرح مخالفت کرده‌اند، زیرا نگران هستند که اسرائیل ممکن است تلاش کند او را در این مراسم ترور کند یا از حضور او برای ردیابی موقعیت فعلی‌اش استفاده کند.
+‏
+‏@MilitarryWorld | Parsa
+15:38
+1405/04/13
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏ارتش اسرائیل در حال تخریب خانه‌های روستای قنطره جنوب لبنان است
+‏
+‏@P_raetorio
+15:37
+1405/04/13
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏به گزارش خبرگزاری بلومبرگ دست‌کم هشت کشتی که قصد داشتند از مسیر ساحل عمان از خلیج فارس خارج شوند، بین روزهای جمعه تا شنبه مسیر خود را تغییر دادند.
+‏بر اساس این  گزارش، یک نفتکش حامل نفت خام، دو نفتکش حامل فرآورده‌های نفتی و یک کشتی فله‌بر پس از تغییر مسیر، از مسیر شمالی تعیین‌شده از سوی جمهوری اسلامی از تنگه هرمز خارج شدند.
+‏https://iranintl.com/202607047099
+15:37
+1405/04/13
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸⚡️ — Iranian Supreme Leader Mojtaba Khamenei's prolonged absence from public view have raised questions within Iran's political establishment about the long-term sustainability of his leadership, NYT reports.
+‏
+‏His biggest challenge came during negotiations with the U.S., when he hesitated to approve the preliminary ceasefire agreement. President Masoud Pezeshkian warned Khamenei that Iran's economy was in a critical state, the U.S. naval blockade was crippling the country, and that he would resign if the deal were rejected.
+‏
+‏Central Bank Governor Abdolnaser Hemmati warned in a letter to Khamenei that Iran faced a severe budget crisis and could run out of key food and medical supplies by the end of August if the blockade continued. 
+‏
+‏These warnings helped convince Khamenei to back the agreement. He later said he opposed the deal "on principle" but authorized the government to proceed after receiving the backing of the Supreme National Security Council, which approved it by 12 votes to 1.
+15:37
+1405/04/13
+
+
+
+
 src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — A representative of the Ukrainian Defense Ministry reports that the Russian Armed Forces have started using a version of the "Molniya" drone with artificial intelligence on the frontline. They independently identify targets and make decisions about attacks.
@@ -1806,15 +1911,6 @@ src :@Artemis_Force
 
 
 
-src :@IranintlTV
-[عکس]
-‏تصمیم‌های علی خامنه‌ای بر زندگی و مرگ میلیون‌ها ایرانی سایه انداخت. از ماشین اعدام و فرمان سرکوب اعتراضات تا ممنوعیت واردات واکسن، حمایت از خودروسازی ناایمن، بی‌اعتنایی به آلودگی هوا، سانسور، قطع اینترنت و سیاست‌های پرهزینه منطقه‌ای؛ بسیاری از بحران‌هایی که جان ایرانیان را گرفتند، زیر نظر او شکل گرفتند یا ادامه یافتند.
-12:16
-1405/04/13
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏TCG Oruçreis Sails In for US 250th Celebrations
@@ -2928,15 +3024,6 @@ src :@guard_warriors
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏درود و روز همراهان عزیز بخیر
-09:57
-1405/04/13
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏‏ ‏ شهرنوش پارسی‌پور نویسنده و مترجم ایرانی درگذشت
@@ -3933,17 +4020,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@P_raetorio
-[عکس]
-‏سردار مجید موسوی،فرمانده‌ نیرو هوافضای سپاه پاسداران پس از بیش از 120 روز غیبت در مراسم ادای احترام به رهبر پیشین جمهوری اسلامی ایران حاضر شد
-‏
-‏@P_raetorio
-21:54
-1405/04/12
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷❌🇺🇸🇮🇱 — Ali Abdollahi, commander of Iran's Khatam al-Anbiya Central Headquarters, warns US and Israel of harsh retaliation if Khamenei's funeral ceremonies are attacked.
@@ -3997,17 +4073,6 @@ src :@guard_warriors
 src :@RASTAKHIZ_PERSIAN
 ‏🔶USS Vincennes (CG-49)  یک رزمناو کلاس Ticonderoga که مجهز به سیستم رزمی Aegis بود و از ژوئیه 1985 تا ژوئن 2005 در نیروی دریایی ایالات متحده خدمت می کرد.   🔹یکی از 27 کشتی کلاس Ticonderoga بود و یکی از پنج کشتی مجهز به سیستم پرتاب موشک Mark 26  شماره بدنه:…
 21:39
-1405/04/12
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏تصویر ماهواره ای از مقر ارتباطات فرماندهی مرکزی ارتش روسیه در حومه مسکو که هدف اصابت 4 تا 6 پرتابه اوکراینی قرار گرفته است 
-‏
-‏@Minas_Tirith2024
-21:24
 1405/04/12
 
 
@@ -4999,22 +5064,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 15:48
-1405/04/12
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Fri, 03 Jul 2026 12:09:43 UTC
-‏
-‏This you @khamenei_ir?
-‏
-‏ترجمه خودکار فارسی
-‏
-‏این شما هستید @khamenei_ir؟
-‏
-‏𝕏  ·  @shin_persian
-15:39
 1405/04/12
