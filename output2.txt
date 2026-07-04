@@ -1,5 +1,17 @@
 src :@IranintlTV
 [عکس]
+‏ترامپ در سخنرانی آغاز جشن‌های روز استقلال آمریکا در کوه راشمور، با تاکید بر اینکه جمهوری اسلامی بی‌صبرانه می‌خواهد به توافق برسد، گفت: «ما فقط چون آدم‌های خوبی هستیم، به آن‌ها یک هفته فرصت دادیم تا برای مراسم تشییع عزاداری کنند.»
+‏ترامپ گفت: «دو جنگ جهانی و جنگ سرد، دشمنان آمریکا را به اعماق تاریخ فرستاد. ما ونزوئلا را در یک روز شکست دادیم و حسابی ایران را در هم کوبیدیم.»
+‏
+‏https://iranintl.com/202607041504
+08:30
+1405/04/13
+
+
+
+
+src :@IranintlTV
+[عکس]
 ‏برنامه کارزار «هفته جهانی اقدام برای ایران آزاد» برای روز شنبه ۱۳ تیر منتشر شد. بر اساس این برنامه، تجمع‌هایی مقابل سفارتخانه‌ها و کنسولگری آمریکا در ۹ شهر، از جمله کانبرا، میلان، برلین، استکهلم، لندن، بروکسل، پاریس، اتاوا و کلگری برگزار می‌شود.
 ‏
 ‏بر اساس جدول منتشرشده، تجمع کانبرا از ساعت ۴ تا ۶ بامداد به وقت بریتانیا، تجمع‌های برلین و استکهلم از ساعت ۱۳ تا ۱۶، تجمع لندن از ساعت ۱۴ تا ۱۷ و تجمع بروکسل از ساعت ۱۳ تا ۱۵ برگزار می‌شود. زمان برگزاری تجمع پاریس هنوز اعلام نشده است. 
@@ -791,18 +803,6 @@ src :@IranintlTV
 ‏او افزود: «آمریکا در گذشته تاسیسات صنعتی ایران، از جمله مجتمع‌های پتروشیمی و فولاد را هدف قرار داد اما به دلیل خطر اختلال در بازارهای جهانی انرژی و احتمال تشدید متقابل تنش‌ها، از هدف قرار دادن زیرساخت‌های نفتی خودداری کرد.»
 ‏https://iranintl.com/202607039840
 02:00
-1405/04/13
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏به گزارش رویترز، جنگ با حکومت ایران بزرگ‌ترین شوک عرضه نفت در تاریخ از نظر کاهش روزانه تولید ایجاد کرده است. آژانس بین‌المللی انرژی برآورد می‌کند که اوج کاهش عرضه به بیش از ۱۴ میلیون بشکه در روز، معادل ۱۳.۶ درصد تقاضای جهانی نفت، رسیده است؛ رقمی که از شوک‌های نفتی سال ۱۹۷۳، انقلاب ایران در سال ۱۹۷۹ و جنگ خلیج فارس در سال ۱۹۹۱ بزرگ‌تر است.
-‏
-‏این بحران، علاوه بر نفت، عرضه گاز طبیعی مایع (LNG)، سوخت‌های پالایش‌شده و کودهای شیمیایی را نیز مختل کرده و حدود یک‌پنجم عرضه گاز طبیعی مایع قطر و نزدیک به ۵.۶ درصد تجارت سالانه گاز طبیعی مایع جهان را تحت تاثیر قرار داده است.
-‏https://iranintl.com/202607037941
-01:40
 1405/04/13
 
 
@@ -2829,21 +2829,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-[عکس]
-‏France weighs a strategic reset with Türkiye amid a changing European security landscape.
-‏
-‏▪️Paris sees Ankara as a vital security pillar.
-‏▪️Defense ties grow after French-German project collapse.
-‏▪️Geopolitical interests converge on Russia and Levant.
-‏
-‏READ MORE
-20:17
-1405/04/12
-
-
-
-
 src :@mohem_mat
 ‏ادعای آکسیوس:
 ‏
@@ -2872,19 +2857,6 @@ src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇮🇱 🇮🇷 — U.S. Officials Feared Israel Planned to Assassinate Iranian Negotiators  According to a New York Times report, American officials suspected that Israel might target senior Iranian figures involved in peace talks with the U.S., including…
 20:13
-1405/04/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran Pursues Oil Sales to Japan Under US Sanctions Waiver
-‏
-‏Tehran launched initial negotiations with Japanese firms to revive crude oil exports under a temporary 60-day U.S. sanctions waiver, though buyers are demanding extended legal guarantees.
-‏
-‏READ MORE
-20:11
 1405/04/12
 
 
@@ -2941,16 +2913,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:03
-1405/04/12
-
-
-
-
-src :@ClashReport
-‏Netanyahu spoke with Trump and they agreed to meet soon in the United States.
-‏
-‏Source: Axios
-20:02
 1405/04/12
 
 
@@ -3394,18 +3356,6 @@ src :@DEJradio
 ‏
 ‏#حذف_هدفمند #عراقچی #قالیباف #اسرائیل
 ‏@DEJradio
-18:14
-1405/04/12
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜ارتش آزادی‌بخش ملی پاپوآی غربی (TPNPB) می‌گوید که یک خلبان آمریکایی را پس از فرود در یاهوکیمو، پاپوآ، به ضرب گلوله کشته و هواپیمای او را آتش زده است. این گروه اعلام کرد که هواپیما را به این دلیل هدف قرار داده است که ظاهراً برای انتقال پرسنل نظامی اندونزیایی استفاده می‌شد . این هواپیما همچنین حامل هفت نفر بود.
-‏
-‏✒️#MS3
-‏📃@Cataphract1
 18:14
 1405/04/12
 
