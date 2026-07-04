@@ -1,3 +1,54 @@
+src :@MilitarryWorld
+[عکس]
+‏⭕️خبرنگار سی ان ان در مصلی تهران
+‏
+‏@MilitarryWorld | Parsa
+14:26
+1405/04/13
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴قیمت روز خودرو های بازار کشور
+‏
+‏🔹بازار خودرو همچنان در فاز رکودی و انتظاری قرار دارد و نوسانات محدود فعلی بیشتر از سیگنال‌های ارزی و سیاسی نشأت می‌گیرد تا تغییر در تقاضای واقعی.
+‏🔹به گفته فعالان، رفتار بازار در کوتاه‌مدت سینوسی باقی می‌ماند و افزایش‌ و کاهش‌های مقطعی جای روندهای پایدار را گرفته است
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+14:24
+1405/04/13
+
+
+
+
+src :@GeoPWatch
+‏🇦🇫❌🇲🇱— JNIM/FLA offensive in Gao and Ananif, details emerging.
+14:24
+1405/04/13
+
+
+
+
+src :@jangaavaran1390
+‏اوکراین اعلام کرد نخستین گام را برای خرید حدود ۱۰۰ فروند موشک رهگیر سامانه پدافند هوایی پاتریوت به ارزش یک میلیارد دلار از طریق وام اتحادیه اروپا برداشته است.
+‏
+‏وزارت دفاع اوکراین همچنین از درخواست رسمی از نزدیک به ۴۰ کشور شریک برای انتقال فوری موشک‌های پاتریوت از ذخایر موجود خبر داد تا کمبود فعلی این سامانه‌ها تا زمان آغاز تحویل سفارش‌های جدید جبران شود.
+‏
+‏این اقدام پس از یکی از بزرگ‌ترین حملات روسیه به کی‌یف انجام می‌شود؛ حمله‌ای که طی آن نزدیک به ۵۰۰ پهپاد و ۷۷ موشک، از جمله ۲۵ موشک بالستیک و هایپرسونیک، شلیک شد و فشار شدید بر ذخایر موشک‌های رهگیر پاتریوت اوکراین را آشکار کرد.
+‏
+‏کی‌یف همچنین قرارداد جداگانه‌ای با حمایت آلمان برای دریافت صدها موشک PAC-2 امضا کرده است، اما تحویل این موشک‌ها طی سال‌های آینده انجام خواهد شد. از این رو، اوکراین در کوتاه‌مدت همچنان به انتقال موشک از سوی کشورهای هم‌پیمان وابسته خواهد بود.
+‏
+‏#اوکراین #روسیه #پاتریوت #پدافند_هوایی #جنگاوران
+‏https://t.me/jangaavaran1390
+14:24
+1405/04/13
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇷❌🇺🇸 — Iranians chant "Death to America" at the farewell ceremony for the late Supreme Leader Ali Khamenei in Tehran.
@@ -397,7 +448,7 @@ src :@World_Newsly
 
 
 src :@tabzlive
-‏🇲🇱❌🏳️ — The FLA and JNIM have launched a new wave of coordinated attacks against the Malian government and African Corps forces, targeting multiple locations across the country.  The Malian army confirmed that its positions in Aguelhok, Gao, Sevaré, Anefis…
+‏🇲🇱❌🏴🏳️ — The FLA and JNIM have launched a new wave of coordinated attacks against the Malian government and African Corps forces, targeting multiple locations across the country.  The Malian army confirmed that its positions in Aguelhok, Gao, Sevaré, Anefis…
 13:41
 1405/04/13
 
@@ -640,18 +691,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 13:24
-1405/04/13
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 وال استریت ژورنال: تشییع رهبر ایران نمادی از مخالفت با آمریکاست.
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-13:23
 1405/04/13
 
 
@@ -1805,7 +1844,7 @@ src :@mamlekate
 
 src :@tabzlive
 [عکس]
-‏🇲🇱❌🏳️ — The FLA and JNIM have launched a new wave of coordinated attacks against the Malian government and African Corps forces, targeting multiple locations across the country.
+‏🇲🇱❌🏴🏳️ — The FLA and JNIM have launched a new wave of coordinated attacks against the Malian government and African Corps forces, targeting multiple locations across the country.
 ‏
 ‏The Malian army confirmed that its positions in Aguelhok, Gao, Sevaré, Anefis, and Kenioroba were attacked this morning during the joint offensive.
 ‏
@@ -2556,18 +2595,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 09:01
-1405/04/13
-
-
-
-
-src :@MilitarryWorld
-‏⭕️ترامپ: ضربه بسیار سنگینی به ایران وارد کردیم،آنها به‌ شدت مشتاق رسیدن به توافق هستند؛ آنقدر که به هر شکل ممکن به دنبال آن هستند
-‏
-‏ما از روی مهربانی، یک هفته به آنها فرصت دادیم تا مراسم تشییع جنازه برگزار کنند؛ این واقعاً حقیقت دارد
-‏
-‏@MilitarryWorld | Parsa
-08:58
 1405/04/13
 
 
