@@ -1414,15 +1414,6 @@ src :@mwarmonitor
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🔻الرجال الأشاوس الذين لم يتمكنوا من حضور مراسم تشييع السيد الولي لبقائهم على أهبة الاستعداد خطّوا عبارات وفاء للشهيد القائد على الصواريخ الباليستية.
-23:24
-1405/04/12
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️سخنگوی کرملین دیمیتری پسکوف:
 ‏پوتین دستور داده تا به دقت تحلیل کند که کدام از متحدان کی‌یف در تحریک ادامه درگیری‌ها نقش دارند.
@@ -5396,15 +5387,4 @@ src :@militaryinpersian
 ‏
 ‏👑 @Fighter_Radar
 05:16
-1405/04/12
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺🇫🇮⚡️ — Deputy Chairman of Russia’s Security Council Dmitry Medvedev:
-‏
-‏Finland has lifted its ban on hosting nuclear weapons. What does that change for the Finns? Just one minor thing: their country is now on Russia's nuclear target list. Rejoice, Finland, you’ve reached peak security!
-04:52
 1405/04/12
