@@ -1,3 +1,43 @@
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — Scenes from Kyiv, Ukraine, following repeated Zircon and Iskander-M impacts.
+02:50
+1405/04/15
+
+
+
+
+src :@tabzlive
+‏🇷🇺❌🇺🇦 — Two Iskander-Ms towards Chernikiv. Last four missiles impacted.
+02:48
+1405/04/15
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli demolition activity detected in the occupied town of Houla within the security zone of southern Lebanon.
+‏
+‏@wfwitness
+02:47
+1405/04/15
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏روزنامه وال‌استریت ژورنال گزارش داد، قیمت نفت به سطوح پیش از جنگ بازگشته است؛ تردد نفت‌کش‌ها در تنگه هرمز به‌سرعت در حال بهبود است، و تولیدکنندگان حاشیه خلیج فارس از هم‌اکنون راه‌اندازی مجدد چاه‌های غیرفعال خود را آغاز کرده‌اند. 
+‏بنا به این گزارش، حجم نفت ذخیره‌شده در سراسر جهان نقشی محوری در معادلات قدرت میان ایالات متحده و ایران ایفا می‌کند؛ به عبارتی هرچه کشورها سریع‌تر ذخایر احتیاطی نفت خام خود را بازسازی کنند، توانایی حکومت ایران برای تهدید اقتصاد جهانی از طریق گروگان‌گرفتن تنگه هرمز ضعیف‌تر می‌شود.
+‏این گزارش به اظهارات جی‌دی ونس، معاون رییس‌جمهوری آمریکا، اشاره می‌کند که گفته بود واشینگتن با امضای یادداشت تفاهم با ایران، فرصتی ایجاد کرده تا جهان «بخشی از ذخایر نفتی خود را دوباره پر کند». وال‌استریت ژورنال این اظهارات را نشانه پیوند مستقیم میان ذخایر نفتی و قدرت چانه‌زنی در مذاکرات می‌داند.
+‏به نوشته این روزنامه، همزمان، امارات، کویت و عربستان سعودی تولید و صادرات نفت خود را افزایش داده‌اند و این روند، همراه با بازسازی تدریجی ذخایر جهانی، می‌تواند فشار بیشتری بر موقعیت جمهوری اسلامی در مذاکرات وارد کند.
+02:47
+1405/04/15
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇩🇪🇵🇾⚡- Germany have become the first major soccer nation to be knocked out of the World Cup.
 02:46
@@ -666,21 +706,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 00:18
-1405/04/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇷🇺🇬🇧⚡️ — Russian hackers have infiltrated email accounts belonging to UK government officials and overseas Foreign Office staff in a major security incident known as FortiBleed, The Telegraph reports.
-‏
-‏➡️ The attackers exploited vulnerabilities in Fortinet firewalls, compromising more than 80,000 devices and exposing email credentials and passwords linked to government staff, local authorities, the NHS, energy providers, and medicine suppliers. Some of the stolen logins are reportedly being sold on dark web forums for up to $60,000.
-‏
-‏➡️ Breached accounts reportedly include IT staff at British embassies in Thailand and Mauritius, as well as officials in Derbyshire and Waltham Forest. Cyber experts warned the breach could enable further attacks on critical infrastructure, including potential ransomware incidents affecting hospitals and patient safety.
-‏
-‏➡️ The National Cyber Security Centre has issued an urgent alert confirming a "brute force" attack on Fortinet systems and instructed organizations to audit networks and isolate compromised devices.
-00:17
 1405/04/15
 
 
