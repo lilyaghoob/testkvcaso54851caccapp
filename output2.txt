@@ -1,5 +1,22 @@
+src :@ClashReport
+[عکس]
+‏France pushed for strict EU defence-fund rules that limited participation by non-EU companies, including those with UK links. 
+‏
+‏Those same rules have now backfired: France received €15.1bn instead of the €16.2bn it requested from the EU's €150bn SAFE fund because some Franco-British projects—particularly involving missile maker MBDA—were deemed ineligible.
+‏
+‏The rules require 65% of funded defence products to originate within the EU (plus Norway, Iceland, or Ukraine). 
+‏
+‏Since the UK has not finalized an agreement to contribute financially to the scheme, many joint UK-EU defence projects cannot qualify.
+‏
+‏Source: FT
+15:57
+1405/04/14
+
+
+
+
 src :@naya_foriraq
-‏العمليات المشتركة: طائرات F-16 العراقية تنفذ ثلاث ضربات جوية ناجحة ودقيقة استهدفت ما تبقى من أوكار ومخابئ العصابات الإرهابية في الحدود الفاصلة بين المركز والإقليم من جهة قضاء الدبس
+‏🫡قيادة العمليات المشتركة العراقية: طائرات F-16 العراقية تنفذ ثلاث ضربات جوية ناجحة ودقيقة استهدفت ما تبقى من أوكار ومخابئ العصابات الإرهابية في الحدود الفاصلة بين المركز والإقليم من جهة قضاء الدبس
 15:56
 1405/04/14
 
@@ -12,14 +29,6 @@ src :@IranintlTV
 ‏
 ‏حاتمی همچنین گفت به مجتبی خامنه‌ای قول داده است «یقه کسانی که علی خامنه‌ای را کشتند» رها نخواهد کرد. 
 ‏https://iranintl.com/202607052004
-15:55
-1405/04/14
-
-
-
-
-src :@naya_foriraq
-‏طيران الجيش يواصل التحليق فوق مواقع يختبئ بها عناصر تنظيم داعش في محافظة كركوك بعد سلسلة غارات جوية على خلفية استشهاد عنصر من جهاز مكافحة الارهاب
 15:55
 1405/04/14
 
@@ -44,15 +53,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 15:54
-1405/04/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇾🇪⚡️ — UKMTO reported earlier today that a cargo vessel had issued a distress alert after coming under attack by unknown armed assailants about 30 nautical miles southwest of Al Hudaydah, Yemen.
-15:53
 1405/04/14
 
 
@@ -3444,19 +3444,6 @@ src :@ircfspace
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷 The three sons of Ayatollah Khamenei are present at Mosalla
-‏
-‏The fourth son, Seyyed Mojtaba, is now Supreme Leader.
-‏
-‏@Middle_East_Spectator
-07:53
-1405/04/14
-
-
-
-
 src :@ircfspace
 [عکس]
 ‏اسکنر Asha یک اپ متن‌باز و رایگان برای اندرویده، که با تمرکز روی پیدا کردن آیپی‌های تمیز و پایدار کلودفلر ساخته شده و کمک می‌کنه سریعترین و مناسب‌ترین آیپی‌هارو متناسب با شرایط شبکه پیدا کنین.
@@ -4250,19 +4237,6 @@ src :@warmonitors
 src :@rnintel
 ‏🇲🇱⚡️- BREAKING: A nationwide offensive is being carried out by the JNIM and the FLA in Mali. Several battles are ongoing in Gao, Anéfif, Aguelhok, Sévaré and Kati.
 22:07
-1405/04/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏German Watchdog Warns Planned Information Law Shake-Up Will Abolish Transparency
-‏
-‏Federal commissioner warned that ruling coalition's proposed amendments to Freedom of Information Act effectively amount to total abolition of governmental transparency.
-‏
-‏READ MORE
-22:03
 1405/04/13
 
 
