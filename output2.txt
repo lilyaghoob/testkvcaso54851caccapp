@@ -1,3 +1,12 @@
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — Smoke is rising over Dnipro, central Ukraine, following Russian Kh-59/69 cruise missile strikes.
+05:43
+1405/04/14
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️ دونالد ترامپ در واکنش به تخلیه مراسم جشن چهارم ژوئیه در واشنگتن به دلیل طوفان، در شبکه اجتماعی «تروث سوشال» اعلام کرد که فارغ از ساعت برگزاری، در این مراسم حضور خواهد یافت. او با بیان اینکه طوفان‌ها معمولا «شانس می‌آورند» و گاهی حتی باعث جذاب‌تر شدن رویدادها می‌شوند، تاکید کرد که اجازه نمی‌دهد باران مانع برگزاری جشن ۲۵۰ سالگی استقلال آمریکا شود.
@@ -1574,21 +1583,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦📞🇺🇸 — Ukrainian President Zelensky spoke by phone with President Trump earlier today and congratulated him and the American people on the 250th anniversary of U.S. Independence Day.
-‏
-‏Zelensky described the call as "a very good conversation" and thanked the United States for its support, from Javelin missiles and Patriot air defense systems to political backing.
-‏
-‏He said the two leaders discussed the frontline situation and diplomatic efforts, adding that there is "a real prospect of ending this war" and that America's determination will be crucial. 
-‏
-‏Zelensky also said they agreed to continue talks in person during the NATO summit in Ankara.
-23:13
-1405/04/13
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏US President Donald Trump said the U.S. could strike Iran's leadership gathered for Ali Khamenei's funeral but won't because it wants to preserve nuclear negotiations:
@@ -2140,7 +2134,7 @@ src :@defence_news
 
 
 src :@RASTAKHIZ_PERSIAN
-‏🔶 ترامپ: گفت ایالات متحده می‌تواند رهبران ایران را که برای مراسم تشییع علی خامنه‌ای گرد هم آمده‌اند هدف قرار دهد، اما این کار را نمی‌کند چون می‌خواهد مذاکرات هسته‌ای را حفظ کند.
+‏🔶 ترامپ: ایالات متحده می‌تواند رهبران ایران را که برای مراسم تشییع علی خامنه‌ای گرد هم آمده‌اند هدف قرار دهد، اما این کار را نمی‌کند چون می‌خواهد مذاکرات هسته‌ای را حفظ کند.
 ‏
 ‏🔹 با یک شلیک می‌توانیم همه آنها را از بین ببریم، اما این کار را نمی‌کنیم چون در آن صورت دیگر کسی برای مذاکره باقی نمی‌ماند.
 ‏
