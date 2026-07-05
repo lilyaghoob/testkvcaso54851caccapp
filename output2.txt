@@ -1,3 +1,35 @@
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی چشم‌انداز: خودداری مراجع تقلید مشهور از اقامه نماز میت خامنه‌ای
+‏@iranintlTV
+23:00
+1405/04/14
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇮🇷 Satellite imagery from Sentinel-2 on July 5, shows the USS Abraham Lincoln aircraft carrier (CVN‑72) sailing southward in the Arabian Sea, escorted by an Arleigh Burke‑class destroyer.
+‏
+‏Geolocation (approximate):
+‏22.2523° N, 60.8317° E
+‏
+‏@wfwitness
+22:59
+1405/04/14
+
+
+
+
+src :@jangaavaran1390
+‏رئیس‌جمهور اوکراین، ولودیمیر زلنسکی، بار دیگر اعلام کرد که اطلاعات نشان می‌دهد روسیه در روزهای آینده، پیش از اجلاس آتی ناتو در آنکارا، ترکیه، یک حمله گسترده با استفاده از پهپادها و موشک‌ها انجام خواهد داد. زلنسکی همچنین از متحدان خواست تا تلاش‌های خود را برای تهیه و تامین موشک‌های دفاع هوایی بیشتر برای سامانه‌های پدافند هوایی پاتریوت اوکراین تسریع بخشند.
+22:59
+1405/04/14
+
+
+
+
 src :@naya_foriraq
 ‏🔻انتهاء مراسم التوديع للشهيد الأممي السيد علي خامنئي وأفرادٌ من عائلته في طهران
 22:55
@@ -2748,17 +2780,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Two Israeli airstrikes targeted the municipality of Nabatieh al-Fawqa, southern Lebanon.
-‏
-‏@wfwitness
-18:10
-1405/04/14
-
-
-
-
 src :@GeoPWatch
 ‏#BREAKING
 ‏⚡️🌐🇺🇸🇮🇱🇵🇸 - The US-led Board of Peace is to launch a Pilot program under Section 17 of the "Trump Plan" in southern Gaza's 'Tel AlSultan' in the coming weeks, similar to the 2025 "Humanitarian aid distribution" campaign which ended in disaster. 
@@ -5072,13 +5093,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 23:04
-1405/04/13
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏The Syrian government has completed the rehabilitation of the large Al-Rashid Raqqa bridge over the Euphrates River, which connects eastern and western Syria. The bridge is expected to be officially opened on Monday or Tuesday, pending an official government…
-23:00
 1405/04/13
