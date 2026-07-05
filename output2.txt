@@ -1,3 +1,16 @@
+src :@World_Newsly
+‏🔴رائفی پور:
+‏
+‏ من تحلیلم اینه وقتی تهدید اتمی میکنن، ماهم باید اتم بسازیم
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:37
+1405/04/15
+
+
+
+
 src :@mwarmonitor
 ‏🔴 دبیر کمیسیون فرهنگی مجلس: روز شهادت رهبری در ۹ اسفند یا روز تدفین یا هر دو به عنوان روز تعطیل در تقویم ملی ثبت خواهد شد.
 ‏
@@ -80,14 +93,6 @@ src :@BellumActaNews
 [عکس]
 ‏>Portugal vs Spain next week, just like in 1640
 00:25
-1405/04/15
-
-
-
-
-src :@naya_foriraq
-‏🔻‏الاعلام الاميركي: اتصل الرئيس الأمريكي دونالد ترامب برئيس الفيفا إنفانتينو ليطلب مراجعة البطاقة الحمراء التي تلقاها بالوغون
-00:22
 1405/04/15
 
 
@@ -1234,18 +1239,6 @@ src :@didarnews1
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 عبدالفتاح السیسی، رئیس‌ جمهور مصر: تا زمانی که اشغال سرزمین‌ های فلسطینی ادامه داشته باشد، عادی‌ سازی روابط با اسرائیل امکان‌ پذیر نخواهد بود
-‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-22:35
-1405/04/14
-
-
-
-
 src :@intelslava
 ‏🇬🇧⚡️ — Hackers broke into the email accounts of British Foreign Ministry staff and put their data up for sale for £60,000, according to The Daily Telegraph.
 ‏
@@ -2360,6 +2353,14 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸 A U.S. Navy MH‑60S Sea Hawk helicopter assigned to the USS George H.W. Bush conducted an emergency water landing in the Arabian Sea at 3:30 a.m. ET on 1 July.   There is no indication the emergency was caused by hostile action.  Three of the four crew…
 20:40
+1405/04/14
+
+
+
+
+src :@naya_foriraq
+‏‏البيت الأبيض: ترمب سيلتقي الجولاني على هامش قمة الناتو
+20:39
 1405/04/14
 
 
