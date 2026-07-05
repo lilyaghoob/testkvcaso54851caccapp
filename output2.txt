@@ -283,16 +283,6 @@ src :@rnintel
 
 
 
-src :@BellumActaNews
-‏⚡️🇱🇧🇮🇱 An intense Israeli demolition occurred in the town of Beit Yahoun, southern Lebanon.
-‏
-‏@wfwitness
-05:08
-1405/04/14
-
-
-
-
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 An intense Israeli demolition occurred in the town of Beit Yahoun, southern Lebanon.
 ‏
@@ -2092,17 +2082,6 @@ src :@Indypersian
 src :@rnintel
 ‏🇲🇱⚡️- BREAKING: A nationwide offensive is being carried out by the JNIM and the FLA in Mali. Several battles are ongoing in Gao, Anéfif, Aguelhok, Sévaré and Kati.
 22:07
-1405/04/13
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏Eat shit.
-‏
-‏@Middle_East_Spectator
-22:06
 1405/04/13
 
 
