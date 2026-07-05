@@ -395,31 +395,11 @@ src :@Indypersian
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇻🇪🇦🇷 USAR ARG-10 Córdoba and USAR ARG-15 Santa Fe brigades have already departed for Venezuela to relieve the deployed Argentine teams and continue with the search and rescue tasks.
-‏
-‏The mission is coordinated by the Federal Emergency Agency (AFE), which is under the Ministry of National Security.
-03:46
-1405/04/14
-
-
-
-
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی سیاست با مراد ویسی: میراث شوم خامنه‌ای
 ‏@iranintlTV
 03:42
-1405/04/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The Freedom 250 events at the National Mall in Washington were evacuated and postponed due to dangerous storms and lightning in the area ahead of Trump's speech.
-03:26
 1405/04/14
 
 
@@ -3040,19 +3020,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏DoJ Defies Federal Court Order on Epstein Files
-‏
-‏U.S. Department of Justice is refusing to comply with a federal court order to hand over redacted Jeffrey Epstein investigative files.
-‏
-‏READ MORE
-19:45
-1405/04/13
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇲🇱🇹🇷⚡️- A cargo plane belonging to the Turkish Air Force did a quick back and forth on July 2nd, landing in Sévaré's air strip.
@@ -4958,15 +4925,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 07:03
-1405/04/13
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇷🇺🇺🇦 President Putin says Russia must keep launching large-scale strikes on Ukrainian military sites.
-‏
-‏@BRICSNews
-06:50
 1405/04/13
