@@ -2886,19 +2886,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump told Axios that Netanyahu requested a White House meeting, which could happen as soon as next week.
-‏
-‏Trump said the two leaders have a good relationship, adding: "We get along very good. [Netanyahu] knows who the boss is."
-‏
-‏Source: Axios
-20:22
-1405/04/13
-
-
-
-
 src :@didarnews1
 ‏🔴 قالیباف: ایران هیچ‌گاه آغازگر جنگ نبوده است 
 ‏
@@ -2960,19 +2947,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154520
 ‏@Farsi_Iranwire
 19:59
-1405/04/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏European Parliament Moves to Ban Far-Right German AfD Party's EU Coalition
-‏
-‏The Parliament is considering a move that could deregister the AfD-led Europe of Sovereign Nations party and strip it of EU funding for alleged violations of core values.
-‏
-‏READ MORE
-19:58
 1405/04/13
 
 
