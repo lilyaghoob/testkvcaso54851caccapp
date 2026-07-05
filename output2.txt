@@ -1,5 +1,34 @@
 src :@tabzlive
 [عکس]
+‏🇷🇺❌🇺🇦 — A residential building was struck by a Russian missile in Kyiv. Ukrainians between the seventh and ninth floors are stuck inside.
+02:54
+1405/04/15
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇧🇷 Brazil star Neymar retires from International football following World Cup loss to Norway.
+‏
+‏@BRICSNews
+02:54
+1405/04/15
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦⚡️ — Kyiv after repeated impacts from Russian Iskander ballistic missiles.
+02:52
+1405/04/15
+
+
+
+
+src :@tabzlive
+[عکس]
 ‏🇷🇺❌🇺🇦 — Scenes from Kyiv, Ukraine, following repeated Zircon and Iskander-M impacts.
 02:50
 1405/04/15
@@ -3629,25 +3658,6 @@ src :@Artemis_Force
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️محمدباقر قالیباف، رئیس مجلس شورای اسلامی، در دیدار با محمد درویش، رئیس شورای رهبری دفتر سیاسی حماس، تأکید کرد دیپلماسی باید در خدمت حفظ و تثبیت دستاوردهای نظامی باشد.
-‏
-‏او گفت مذاکره زمانی موفق خواهد بود که کشور همزمان آمادگی دفاعی خود را حفظ کند و افزود در جریان مذاکرات، ایران بر حفظ تمامیت ارضی کشورهای منطقه و پایان جنگ علیه متحدان خود در محور مقاومت تأکید کرده است.
-‏
-‏قالیباف همچنین تصریح کرد جمهوری اسلامی صلحی با آمریکا ندارد و اسرائیل را به رسمیت نمی‌شناسد و حمایت از جبهه مقاومت را در قالب‌های مختلف ادامه خواهد داد.
-‏
-‏در این دیدار، محمد درویش نیز تفاهم‌نامه میان ایران و آمریکا را «پیروزی کامل ایران و شکست آمریکا» توصیف کرد و گفت این توافق نشان‌دهنده تغییر موازنه به نفع محور مقاومت است.
-‏
-‏او همچنین تاکید کرد که مقاومت شکست‌ناپذیر است و تحولات اخیر، جایگاه آمریکا و اسرائیل را تضعیف کرده است.
-‏
-‏@INDYPERSIAN
-18:01
-1405/04/14
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇪🇬🇮🇱 Egypt says it will not normalize relations with Israel until the occupation of Palestinian territory ends.
@@ -3783,14 +3793,6 @@ src :@tglobaleye
 ‏﻿
 ‏The Global Eye | Subscribe
 17:39
-1405/04/14
-
-
-
-
-src :@intelslava
-‏⚡️ — Intel Slava Group discussion; we will add to the comment section very soon.  https://t.me/IntelSlava3
-17:31
 1405/04/14
 
 
