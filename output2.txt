@@ -1,3 +1,78 @@
+src :@WAR_ROOM_NEWS
+‏فارغ از میلیتاری…
+14:31
+1405/04/15
+
+
+
+
+src :@WAR_ROOM_NEWS
+[فایل]
+14:31
+1405/04/15
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Over the past month, troops from the IDF's 401st Brigade operating under the 91st Division established operational control over the Hadatha area within the security zone in southern Lebanon - a major Hezbollah hub. 
+‏
+‏During the operation, Israeli forces dismantled more than 90 Hezbollah terrorist infrastructure sites, killed more than 20 terrorists and seized over 150 weapons, including RPGs, anti-tank missiles, machine guns and Kalashnikov rifles, as part of ongoing efforts to prevent Hezbollah from reestablishing military capabilities near the border.
+14:30
+1405/04/15
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏⭕️ وضعیت بدن‌های آماده و عضلانی نیروهای امنیتی توی مصلی تهران:
+‏
+‏@MilitarryWorld | Maverick
+14:30
+1405/04/15
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 اسکادران 15 شناسایی نهاجا از جمله واحدهای خاص کشور است. این واحد وظیفه مراقبت هوایی، شنود، شناسایی و جنگ الکترونیک را از زمان شاه بر عهده دارد.
+‏
+‏🔸 دو فروند 707 پست فرماندهی تعدادی هرکولس (خفاش)، فالكون 50 و پی 3 که یکی از آنها در جنگ از بین رفت دارایی های کنونی آن هستند
+‏
+‏🔸 آواکس های آمریکایی و مرحوم عدنان و بغداد هم قرار بود باشند... 
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+14:30
+1405/04/15
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#NEWS | 🇨🇳 — China’s Real Residential Property Prices Fall Below 2010 Levels
+‏
+‏According to the latest data from the Bank for International Settlements (BIS), released via FRED (St. Louis Fed), China’s (PRC) real residential property price index stood at 85.13 in Q1 2026 (2010 = 100).
+‏
+‏This marks a sharp decline from its peak above 112 in 2021, erasing nearly all real gains accumulated over the past two decades and returning inflation-adjusted prices to levels last seen in the mid-2000s.
+‏
+‏The ongoing downturn reflects a prolonged adjustment in China’s property sector following years of rapid expansion, high leverage, and policy tightening.
+‏
+‏Data source: BIS via FRED series QCNR628BIS (updated June 25, 2026). Next release: July 31, 2026.
+‏
+‏National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm.
+‏
+‏The Global Eye | Subscribe
+14:28
+1405/04/15
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷🇺🇸 JMIC raised the maritime threat level in the Strait of Hormuz to “substantial” following attacks on merchant vessels and is warning mariners about mines, heavy naval presence, and congestion, while confirming the southern route has been widened to allow…
@@ -997,18 +1072,6 @@ src :@mohem_mat
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴دقایقی پیش ارتش اسرائیل به مواضع حزب‌الله در ارتفاعات بنت‌جبیل (جنوب لبنان) حمله کرد.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-13:17
-1405/04/15
-
-
-
-
 src :@Middle_East_Spectator
 ‏Kinda funny how Jewish channels like Rerum Novarum, WarFront Witness, and others are completely silent on this massive display of strength.
 ‏
@@ -1016,23 +1079,6 @@ src :@Middle_East_Spectator
 ‏
 ‏Shows you their priorities clearly.
 13:16
-1405/04/15
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 کاتز وزیر جنگ اسرائیل:
-‏
-‏🔹 علی خامنه‌ای توسط ما کشته شده زیرا او طرحی را با هدف نابودی اسرائیل آغاز و رهبری کرده/اگر رهبر جدید هم از عاقبت پدر خود عبرت نگیرد به سرنوشت آن دچار خواهد شد
-‏﻿﻿﻿﻿
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-13:15
 1405/04/15
 
 
@@ -2346,17 +2392,6 @@ src :@didarnews1
 
 
 
-src :@WAR_ROOM_NEWS
-‏🛑گزارش کانال ۱۴ اسرائیل: 
-‏
-‏اطلاعات جدید اسرائیل نشان می‌دهد نیروی قدس ایران یک واحد جدید با نام «مختار» تشکیل داده است که با کارتل‌های مکزیکی و همچنین بخشی از دیاسپورای ایرانی همکاری می‌کند تا برای ترور دونالد ترامپ و سایر مقام‌های آمریکایی برنامه ریزی کند
-‏🆔@WAR_ROOM_NEWS
-10:32
-1405/04/15
-
-
-
-
 src :@intelslava
 ‏🇷🇺❌🇺🇦 — Another explosion has been recorded in Kiev.
 10:32
@@ -2427,20 +2462,6 @@ src :@MilitarryWorld
 ‏اتخاذ تدابیر سخت‌گیرانه‌تر برای محدود کردن اقدامات خشونت‌آمیز و پاسخگو کردن مسئولان آن.
 ‏
 ‏@MilitarryWorld | Parsa
-10:24
-1405/04/15
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏ارتش اسرائیل جهت سوزش ماتحت ترکیه از برگزاری یک رزمایش مشترک میان نیروی هوایی این کشور و نیروی هوایی یونان خبر داد. در جریان این تمرین، یک فروند هواپیمای سوخت‌رسان اسرائیلی عملیات سوخت‌گیری هوایی جنگنده‌های F-16 یونانی را بر فراز دریای اژه انجام داد. این رزمایش با هدف تقویت توانایی اجرای مأموریت‌های دوربرد و افزایش هماهنگی عملیاتی میان دو کشور برگزار شد. به گفته منابع ارتش اسرائیل، این همکاری بخشی از یک برنامه راهبردی گسترده‌تر برای تعمیق روابط نظامی با یونان است؛ اقدامی که هم‌زمان با تلاش ترکیه برای تقویت بازدارندگی و افزایش نفوذ نظامی خود در منطقه شرق مدیترانه انجام می‌شود.
-‏#اسرائیل 
-‏#یونان
-‏#جنگنده_اف_۱۶
-‏
-‏🆔@WAR_ROOM_NEWS
 10:24
 1405/04/15
 
@@ -3250,23 +3271,6 @@ src :@mamlekate
 
 
 
-src :@selena_updates
-[عکس]
-‏In an unprecedented escalation in the struggle between Israel's government and judiciary, Prime Minister Benjamin Netanyahu's cabinet voted unanimously to refuse recognition of decisions made by the Second Authority for Television and Radio, directly challenging a ruling by the High Court of Justice. 
-‏
-‏The Second Authority is the regulator responsible for overseeing Israel's commercial television and radio broadcasters, including major channels such as Channel 12 and Channel 13, and its decisions affect broadcasting licenses, ownership changes and major transactions in the media sector.
-‏
-‏The dispute began after a series of resignations left the regulator's council below the minimum number of members required by law to make decisions. The government argued that the council had therefore lost its legal authority to operate, while the High Court ruled that it should continue functioning temporarily in order to prevent paralysis of Israel's commercial broadcasting system until a final decision is reached.
-‏
-‏Rejecting the court's position, the cabinet declared that it would not recognize any decision, approval, appointment or action taken by the council in its current form, arguing that a court cannot grant powers that legislation does not provide.
-‏
-‏This is the first formal refusal by an Israeli government to comply with a High Court ruling and could mark the beginning of a full constitutional confrontation over whether elected governments or the judiciary have the final authority to interpret and enforce Israeli law.
-00:20
-1405/04/15
-
-
-
-
 src :@mwarmonitor
 ‏🔴 تجارت دریایی میان ایران و قطر پس از حدود پنج ماه توقف از سر گرفته شده است؛ این موضوع را رایزن بازرگانی ایران در دوحه به رسانه‌های دولتی اعلام کرد.
 ‏
@@ -3309,19 +3313,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 00:03
-1405/04/15
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Over the weekend, heavy fighting erupted on Yemen’s western coast after Houthi forces launched a large-scale assault on positions held by the internationally recognized Yemeni government in the Hays district, south of the strategic port city of Hodeidah. 
-‏
-‏The attack involved suicide fighters, intensive rocket and mortar fire, and attempts to overrun frontline positions, triggering hours of fierce clashes before government troops repelled the assault. 
-‏
-‏The Yemeni government confirmed that at least 14 of its soldiers were killed and more than 20 wounded, while pro-government sources claimed that no fewer than 50 Houthi fighters were killed during the battle, making it one of the deadliest confrontations between the two sides in recent years.
-00:01
 1405/04/15
 
 
@@ -4809,43 +4800,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 14:36
-1405/04/14
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‏ ‏ 
-‏اقامه نماز میّت بر تابوت خامنه‌ای و خانواده‌اش؛ باز هم از مجتبی خبری نبود اما برادرانش ضجه و مویه کردند
-‏
-‏- سومین روز مراسم تشییع جنازه علی خامنه‌ای رهبر جمهوری اسلامی یکشنبه ۱۴ تیرماه ۱۴۰۵ در مصلای تهران، برگزار شد. در این روز همراه با حضور شماری از مقامات ارشد نظام، جعفر سبحانی از مراجع تقلید حکومتی بر تابوت خامنه‌ای و خانواده‌اش نماز میّت خواند.
-‏
-‏- درباره عدم شرکت مجتبی خامنه‌ای در تشییع جنازه اعضای خانواده‌اش، ادعا شد که وی به دلایل امنیتی در این مراسم حضور پیدا نکرده است. این در حالیست که دونالد ترامپ اعلام کرد که یک هفته برای عزاداری و کفن و دفن علی خامنه‌ای به جمهوری اسلامی فرصت داده است. سه پسر دیگر علی خامنه‌ای (میثم، مسعود و مصطفی) اما در مراسم حضور یافته و دوربین‌های صدا و سیمای حکومت بارها تصویر آنها را به نمایش گذاشت که ضجه و مویه می‌کردند.
-‏
-‏- به گفته شاهدان عینی، مخارج زیادی صرف پذیرایی و اسکان حامیان نظام شده بود. صبحانه، ناهار، شام، میان وعده، نوشیدنی و انواع شربت و میوه در بین حاضران پخش شد. بسیاری از ارگان‌های حکومتی اعم از نظامی و غیرنظامی ساختمان‌های خود را در اختیار کسانی قرار دادند که برای حضور در مراسم تدفین خامنه‌ای به تهران رفتند. وسایل نقلیه عمومی از جمله مترو، اتوبوس‌ و مینی‌بوس و همچنین ده‌ها دستگاه ون بطور رایگان برای تردد این افراد سازماندهی شده بود.
-‏
-‏https://kayhan.london/1405/04/14/404527/
-14:31
-1405/04/14
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🛳️🇾🇪 — UKMTO reports that a vessel has come under attack by 'armed assailants' 30NM southwest of Al Hudaydah, Yemen.
-‏
-‏@TheWarReporter
-14:30
-1405/04/14
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇷🇺🇺🇦🇪🇺🧭⚡️— Peskov stated that the “Special Military Operation” has become a war due to Western support to Kyiv 
-‏
-‏🇪🇺 Legion Europa | Group Chat
-14:27
 1405/04/14
