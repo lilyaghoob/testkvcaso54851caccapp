@@ -1,4 +1,46 @@
 src :@tabzlive
+[عکس]
+‏The target of these missile strikes was an S-300 surface-to-air missile plant in Kyiv. 
+‏
+‏Secondary detonations were heard for over an hour after the strikes. Nearby residents were ordered to remain indoors.
+‏
+‏NASA FIRMS data shows that large fires continue to burn at the plant. 
+‏
+‏Coordinates: 50.385591, 30.356629
+06:30
+1405/04/15
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇷🇺🇺🇦 Russian missile and drone strikes caused extensive damage across Kyiv, with multiple residential buildings hit in the Podilskyi, Darnytskyi, and Holosiivskyi districts.
+‏
+‏A residential building in Podilskyi suffered a direct hit, trapping residents beneath the rubble, while firefighters rescued dozens from upper floors. Apartment fires, burning vehicles, and structural damage were also reported across the capital.
+‏
+‏Search and rescue operations remain underway at several locations as emergency services continue clearing debris and searching for additional victims.
+‏
+‏@wfwitness
+06:27
+1405/04/15
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇦⚡️ — Russian Iskander-M ballistic missiles and Zircon hypersonic cruise missiles struck Ukraine's Zhulyany Machine-Building Plant "Vizar" in Vyshneve, Kyiv Oblast.
+‏
+‏The plant is responsible for manufacturing components for the R-360 Neptune cruise missile, as well as missiles from the 5V55 and 48N6 families used by the S-300 air defense system.
+‏
+‏@IntelSlava
+06:27
+1405/04/15
+
+
+
+
+src :@tabzlive
 ‏🇷🇺❌🇺🇦 — Secondary explosions from a strike against a missile depot outside of Kyiv, Ukraine. Surface-to-air missiles were seen flying amok following the explosion.
 06:26
 1405/04/15
@@ -355,30 +397,8 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-‏⚡️🇷🇺🇺🇦 KMVA: At least seven people have been confirmed dead following Russia’s overnight attack on Kyiv, with search and rescue operations continuing as authorities believe more victims may remain trapped beneath the rubble.
-‏
-‏Rescuers evacuated 15 residents, including three women and six children, from a damaged apartment building in the Podilskyi district.
-‏
-‏@wfwitness
-04:59
-1405/04/15
-
-
-
-
 src :@tabzlive
 ‏🇷🇺❌🇺🇦 — Two groups of Iskander-K cruise missiles enter Sumy Oblast, Ukraine.
-04:57
-1405/04/15
-
-
-
-
-src :@wfwitness
-‏⚡️🇷🇺🇺🇦 Two groups of Russian cruise missiles are heading through Sumy Oblast toward the Pryluky district in Chernihiv Oblast.
-‏
-‏@wfwitness
 04:57
 1405/04/15
 
@@ -408,21 +428,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇷🇺🇺🇸🇹🇷🇺🇦 CNN:⁠ Russia launched a fresh overnight missile and drone attack on Kyiv, striking residential areas as NATO leaders prepare to gather in Ankara for this week’s summit.
-‏
-‏A ballistic missile hit an apartment building in the historic Podil district, while drones targeted multiple districts across the capital, prompting emergency rescue operations.
-‏
-‏The attack comes amid renewed diplomatic efforts to bolster support for Ukraine and increase pressure on Moscow ahead of the NATO summit.
-‏
-‏@wfwitness
-04:56
-1405/04/15
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇨🇳🇺🇸⚡️ — China has released prominent Christian pastor Ezra Jin following pressure from the U.S., in a move seen as a goodwill gesture after President Trump's visit to Beijing in May.
@@ -442,15 +447,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 04:45
-1405/04/15
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇦🇷🇺 Smoke covers the Ukrainian Capital this early morning following renewed Russian missile and drone attacks.  @wfwitness
-04:42
 1405/04/15
 
 
@@ -507,30 +503,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇷🇺🇺🇦 The Kyiv Independent: Russia launched a large-scale overnight missile and drone attack on Kyiv and the surrounding region, damaging residential buildings and injuring at least six people.    The attack came just hours after President Volodymyr Zelenskyy…
-04:35
-1405/04/15
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇷🇺🇺🇦 The Kyiv Independent: Russia launched a large-scale overnight missile and drone attack on Kyiv and the surrounding region, damaging residential buildings and injuring at least six people.  
-‏
-‏The attack came just hours after President Volodymyr Zelenskyy warned that Russia was preparing another massive strike, urging civilians to heed air raid alerts and calling on allies to accelerate deliveries of Patriot air defense systems.  
-‏
-‏The strikes targeted Kyiv and nearby Bucha, with emergency services responding to damaged residential areas as officials assessed the extent of the destruction.  
-‏
-‏@wfwitness
-04:32
-1405/04/15
-
-
-
-
 src :@tabzlive
 ‏🇷🇺❌🇺🇦 — Ukrainian drones are attacking the Kerch area in Crimea. Several explosions have been heard.
 04:25
@@ -582,27 +554,6 @@ src :@rnintel
 [عکس]
 ‏🇷🇺❌🇺🇦 — Rising smoke from a Kh-101 impact in Kyiv.
 04:10
-1405/04/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇨🇦⚡️ — Canadian Prime Minister Mark Carney is expected to announce on Monday in Halifax the preferred bidder for Canada's program to acquire 12 submarines, ending a closely contested competition between Germany's TKMS and South Korea's Hanwha, according to the Globe and Mail.
-‏
-‏➡️ The new fleet is intended to significantly enhance Canada's ability to conduct covert patrols in its coastal waters. 
-‏
-‏➡️ The announcement, scheduled before Carney departs for the NATO summit in Türkiye, is expected to identify a preferred bidder rather than finalize a signed contract.
-04:01
-1405/04/15
-
-
-
-
-src :@tabzlive
-‏🇷🇺🇺🇦⚡️ — Ukrainian airspace is clear of missiles for now. There is still a possibility for further ballistic missile launches.
-03:59
 1405/04/15
 
 
