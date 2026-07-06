@@ -1,3 +1,11 @@
+src :@defence_news
+‏منابع اوکراینی می گویند ارتش این کشور نخستین واحد از موشک های ضد کشتی NSM را از نروژ دریافت کرده است.  @Minas_Tirith2024
+15:04
+1405/04/15
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏اوکراین برای اولین بار به صورت عمومی، سامانه‌های موشکی ساحلی "هارپون""نپتون"، NSM و RBS-15 را به نمایش گذاشت.
@@ -8,6 +16,20 @@ src :@Artemis_Force
 ‏
 ‏
 ‏@artemis_force
+15:02
+1405/04/15
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴نهاجا ناوگان سوخو ۲۴ خود را که وظیفه اصلی بمباران راهبردی و نفوذ عمقی دارد در یک پایگاه متمرکز کرده است: پایگاه هفتم شکاری شیراز شهید دوران
+‏
+‏🔸 گردان ۷۲ شکاری/بمب افکن گردان اصلی جنگنده بمب افکن های تاکتیکی Su-24MK Fencer این گردان هسته اصلی توان ضربتی و بمباران سنگین نهاجا است
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
 15:02
 1405/04/15
 
@@ -888,15 +910,6 @@ src :@rnintel
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 ادعای تأییدنشده نجاح محمدعلی، خبرنگار : امروز  آیت الله مجتبی خامنه‌ای نیز در میان تشییع‌کنندگان حضور داشته است.  ✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧 ▪️ @World_Newsly
-13:59
-1405/04/15
-
-
-
-
 src :@rnintel
 ‏🇷🇺🇺🇦⚡️- "Last night, Kyiv came under a massive Russian attack. Russia launched 68 missiles and 351 attack drones. Response efforts are still underway. Damage has been recorded at more than 10 locations across the city, including residential buildings.
 ‏
@@ -1297,30 +1310,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 13:20
-1405/04/15
-
-
-
-
-src :@selena_updates
-[عکس]
-‏A fast-moving wildfire in southwestern France has forced the evacuation of around 10,000 people from roughly two dozen towns and villages near the Spanish border, after burning about 4,600 hectares of forest in the foothills of the French Pyrenees. 
-‏
-‏Hundreds of firefighters, supported by aircraft, are battling the blaze as strong winds and extreme heat continue to complicate containment efforts, while authorities have also restricted public access to part of the Tour de France route in the area to keep roads clear for emergency services.
-13:19
-1405/04/15
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Here's the Full Program of NATO Ankara Summit
-‏
-‏Official schedule for the 2026 NATO Summit in Ankara outlines a dense timeline of defense industry forums, high-level diplomatic dinners, and critical council sessions focused on military spending targets
-‏
-‏READ MORE
-13:19
 1405/04/15
 
 
@@ -4773,15 +4762,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 15:12
-1405/04/14
-
-
-
-
-src :@GeoPWatch
-‏#NEW
-‏⚡️🇶🇦🇮🇷 - Qatar's Transport Ministry has announced that maritime trade activities are to resume with Iran with immediate effect.
-‏
-‏Iranian State media has confirmed the reopening of Qatar's 'AlRuwais' port to Iranian goods and the resumption of maritime trade.
-15:04
 1405/04/14
