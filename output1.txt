@@ -3468,17 +3468,3 @@ src :@ircfspace
 ‏@ircfspace
 08:14
 1405/04/14
-
-
-
-
-src :@ircfspace
-‏آموزش راه‌اندازی پروکسی تلگرام بر روی سرور شخصی ...
-‏
-‏📽 youtu.be/pyvB6VSPhwg?t=176
-‏💡 github.com/SamNet-dev/MTProxyMax
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-08:03
-1405/04/14

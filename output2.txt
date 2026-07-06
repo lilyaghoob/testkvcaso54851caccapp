@@ -1,3 +1,12 @@
+src :@ClashReport
+[عکس]
+‏Map showing the approximate routes of the Russian drones and missiles that targeted Ukraine overnight.
+08:02
+1405/04/15
+
+
+
+
 src :@World_Newsly
 ‏🔴لحظه برخورد موشکهای بالستیک روسیه به کییف  ✍🏻 Dangerman ▪️@World_Newsly
 08:00
@@ -3115,21 +3124,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-[عکس]
-‏A sophisticated Russian cyber campaign compromised UK government networks to harvest login credentials.
-‏
-‏▪️Over 80,000 Fortinet firewalls breached
-‏▪️Stolen Foreign Office logins trading for $60,000
-‏▪️Critical infrastructure and NHS networks exposed
-‏
-‏READ MORE
-20:13
-1405/04/14
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺📢 همزمان با برگزاری مراسم تشییع جنازه خامنه‌ای، موجی از تهدید به مرگ از سوی مقامات جمهوری اسلامی علیه دونالد ترامپ به راه افتاد. مجتبی زارعی عضو کمیسیون امنیت ملی مجلس شورای اسلامی در «ایکس» نوشت: «ترامپ گفت از گریه ایرانیان بر [ امام ] خامنه‌ای عافلگیر شدم و...ما هم می‌گوییم غافلگیری ادامه دارد؛ پرونده قصاص و اعدام تو روی میز سازمان‌های ویژه ایران قرار دارد؛ حتی اگر یک روز از عمر نحس تو مانده باشد تو را قصاص و خواهیم کشت.»
@@ -5120,29 +5114,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 08:14
-1405/04/14
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇮🇷 — All of former Iranian Supreme Leader Ali Khamenei's sons are present at the Grand Mosalla of Tehran, except for Supreme Leader Mojtaba Khamenei.
-‏
-‏@TheWarReporter
-08:04
-1405/04/14
-
-
-
-
-src :@ircfspace
-‏آموزش راه‌اندازی پروکسی تلگرام بر روی سرور شخصی ...
-‏
-‏📽 youtu.be/pyvB6VSPhwg?t=176
-‏💡 github.com/SamNet-dev/MTProxyMax
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-08:03
 1405/04/14
