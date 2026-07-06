@@ -1,3 +1,27 @@
+src :@World_Newsly
+[عکس]
+‏🔴حضور محمود احمدی نژاد در مراسم تشییع
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+11:00
+1405/04/15
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 حضور اسحاق جهانگیری در مراسم تشییع رهبر انقلاب
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+11:00
+1405/04/15
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏سومین روز تشییع پیکر «علی خامنه‌ای»، رهبر پیشین جمهوری اسلامی، امروز ۱۵تیر۱۴۰۵ در تهران برگزار شد.
@@ -1995,35 +2019,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴شمار کشته‌شدگان زلزله ونزوئلا به 3342 نفر افزایش یافت.
-‏
-‏✍🏻 Cybex
-‏▪️@World_Newsly
-01:05
-1405/04/15
-
-
-
-
-src :@World_Newsly
-‏🔴کانال ۱۳ اسرائیل: واشنگتن در حال آماده‌سازی ارائه درخواست‌های رسمی به اسرائیل است که شامل موارد زیر می‌شود:
-‏
-‏ کاهش تعداد ایستگاه‌های بازرسی نظامی در کرانه باختری.
-‏
-‏ انتقال وجوهی که به دولت فلسطین تعلق دارد.
-‏
-‏اتخاذ تدابیر سخت‌گیرانه‌تر برای محدود کردن اقدامات خشونت‌آمیز و پاسخگو کردن مسئولان آن.
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-01:03
-1405/04/15
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Ukraine has hit Russian oil refineries at least 194 times since the start of 2026 — an 11-fold increase over the same period in 2025.
@@ -2298,15 +2293,6 @@ src :@selena_updates
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-23:59
-1405/04/14
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏↩️ Quoted tweet:
@@ -2439,17 +2425,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154541
 ‏@Farsi_Iranwire
 23:55
-1405/04/14
-
-
-
-
-src :@ClashReport
-[عکس]
-‏US presidential limousines (The Beast) were spotted refueling at a gas station in Ankara ahead of Trump's arrival for the NATO Summit on July 7-8, 2026 — the first US presidential visit to Türkiye since 2015.
-‏
-‏Trump is expected with a delegation of 1,000-1,400 personnel for bilateral meetings with Turkish President Erdogan, a visit to Anıtkabir, and summit sessions, with F-35 sales among the expected topics.
-23:53
 1405/04/14
 
 
@@ -2880,16 +2855,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 21:22
-1405/04/14
-
-
-
-
-src :@ClashReport
-‏NEW: Intelligence indicates Russia is preparing another massive strike, Zelensky says, urging Ukrainians to heed air raid alerts. 
-‏
-‏“Russia wants to inflict more evil and kill people.”
-21:21
 1405/04/14
 
 
