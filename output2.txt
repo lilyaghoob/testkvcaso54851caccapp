@@ -1,12 +1,40 @@
-src :@Indypersian
+src :@defence_news
 [عکس]
-‏♦️ وزارت خارجه عربستان سعودی، روز دوشنبه ۱۵ تیرماه اعلام کرد شاهزاده فیصل بن فرحان، وزیر خارجه این کشور، در تماس تلفنی با ژان نوئل بارو، وزیر اروپا و امور خارجه فرانسه، درباره آخرین تحولات منطقه و تلاش‌های مشترک برای تقویت امنیت و ثبات گفتگو کرد.
+‏منابع اوکراینی اعلام کردند که نتوانستند هیچ کدام از 29 تیر موشک بالستیک شده از طرف روس ها به سمت پایتخت این کشور در شب گذشته را دفع کنند.
 ‏
-‏بر اساس بیانیه وزارت خارجه عربستان سعودی، دو طرف در این تماس درباره راه‌های حمایت از امنیت و ثبات منطقه و آخرین تحولات منطقه‌ای تبادل نظر کردند.
+‏دلیل این مسئله کمبود شدید موشک های سامانه پدافند هوایی پاتریوت ساخت آمریکا عنوان شده است.
 ‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+21:17
+1405/04/15
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ: تنگه معروف هرمز؛ ماشین پول ساز بزرگی است!
 ‏
-‏@indypersian
-21:11
+‏@MilitarryWorld | Parsa
+21:16
+1405/04/15
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏باراک راوید، کانال ۱۲: نتانیاهو از ترامپ درخواست کرده بود تا فروش تسلیحات آمریکایی به ترکیه را متوقف کند، چرا که این تسلیحات می‌توانست توان نیروی هوایی ترکیه را ارتقا دهد.
+21:16
+1405/04/15
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏مکان یابی محل آتش سوزی ها در پالایشگاه اومسک نشان می دهد احتمالا ۳ واحد اصلی فرآوری پالایشگاه هدف قرار گرفته و منهدم شده اند که در صورت تایید ، این پالایشگاه که به تنهایی ۱۰ درصد نیاز سوختی روسیه را تامین می کند تا ماه ها غیر عملیاتی خواهد بود.
+‏
+‏@Minas_Tirith2024
+21:15
 1405/04/15
 
 
@@ -23,7 +51,71 @@ src :@World_Newsly
 ‏
 ‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
 ‏▪️ @World_Newsly
-21:10
+21:15
+1405/04/15
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇳⚡️ — World Economic Forum founder Klaus Schwab has filed a criminal complaint after a suspected secret listening device was discovered in his home office in Geneva, Bloomberg reports.
+‏
+‏➡️ The device was found during a routine security inspection at Schwab’s private residence near the WEF premises. An initial assessment suggests it may have been installed within the past three years.
+‏
+‏➡️ The complaint was filed against unknown persons, and an investigation is underway to identify who was responsible.
+21:14
+1405/04/15
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇨🇺 Reuters:⁠ Cuba’s national electrical grid has collapsed, leaving around 10 million people without power across the island.
+‏
+‏State grid operator UNE said the cause of the nationwide blackout remains unknown and is under investigation.  
+‏
+‏The outage comes as Cuba continues to face a prolonged energy crisis marked by worsening blackouts, aging infrastructure, and fuel shortages.  
+‏
+‏@wfwitness
+21:14
+1405/04/15
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇧🇪🇺🇸 FIFA denies Belgium's appeal, clearing Folarin Balogun to play.
+‏
+‏@BRICSNews
+21:12
+1405/04/15
+
+
+
+
+src :@ClashReport
+[عکس]
+‏BIG: Netanyahu asked Trump to block U.S. arms sales to Türkiye that would upgrade Türkiye's air force.
+‏
+‏Source: Barak Ravid, N12
+21:12
+1405/04/15
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ وزارت خارجه عربستان سعودی، روز دوشنبه ۱۵ تیرماه اعلام کرد شاهزاده فیصل بن فرحان، وزیر خارجه این کشور، در تماس تلفنی با ژان نوئل بارو، وزیر اروپا و امور خارجه فرانسه، درباره آخرین تحولات منطقه و تلاش‌های مشترک برای تقویت امنیت و ثبات گفتگو کرد.
+‏
+‏بر اساس بیانیه وزارت خارجه عربستان سعودی، دو طرف در این تماس درباره راه‌های حمایت از امنیت و ثبات منطقه و آخرین تحولات منطقه‌ای تبادل نظر کردند.
+‏
+‏
+‏@indypersian
+21:11
 1405/04/15
 
 
@@ -1389,20 +1481,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴بر اساس گزارشات، به احتمال زیاد، آیت‌الله مرتضی القزوینی، که ۹۵ سال سن دارند، در مراسم تشییع پیکر آیت الله خامنه‌ای در کربلا، خطبه نماز را خواهند خواند
-‏
-‏با این حال، این موضوع هنوز به طور رسمی تایید نشده است و ممکن است تغییراتی در آن ایجاد شود
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-19:35
-1405/04/15
-
-
-
-
 src :@GeoPWatch
 ‏#NEW ⚡️🇵🇸🇵🇸 - Circulating reports, originating from an Emirati news outlet, of Hamas announcing the "dissolving of governance over the Gaza strip" is false and misleading.  Instead, Hamas has announced the complete renovation of its Emergency Committee into…
 19:34
@@ -1883,17 +1961,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli artillery fire targeted the towns of Qabrikha and Kounin within the security zone of southern Lebanon.
-‏
-‏@wfwitness
-19:05
-1405/04/15
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‏ ‏ 
 ‏ادامه اعتصاب غذای زوج بریتانیایی محبوس در زندان اوین
@@ -2101,25 +2168,6 @@ src :@tabzlive
 [عکس]
 ‏🇵🇸🇮🇱⚡️ — Hamas has dissolved its government in Gaza and completed preparations to transfer administrative responsibilities to the Palestinian National Committee for the Administration of Gaza, a body affiliated with the Palestinian Authority, in what it described…
 18:48
-1405/04/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇵🇸🇮🇱⚡️ — Hamas has dissolved its government in Gaza and completed preparations to transfer administrative responsibilities to the Palestinian National Committee for the Administration of Gaza, a body affiliated with the Palestinian Authority, in what it described as an effort to ease the humanitarian crisis and "remove pretexts" used by Israel, according to Asharq Al-Awsat.
-‏
-‏All legal and administrative arrangements for the handover have been finalized, with current government institutions serving only as a temporary body until the committee assumes control. 
-‏
-‏Committee head Ali Shaath said it is ready to take over once the necessary political, administrative, and security conditions are in place, emphasizing the need for "one authority, one law, and one weapon."
-‏
-‏Hamas spokesperson Hazem Qassem said the move was coordinated with mediators and urged them to pressure Israel to allow the committee into Gaza to oversee relief, recovery, and reconstruction.
-‏
-‏Separately, a Hamas delegation traveled to Istanbul after talks in Cairo, with Israel expected to respond to the group's latest ceasefire proposal later this week. 
-‏
-‏Hamas said it is prepared to reach an immediate agreement if it includes a full ceasefire, 600 aid trucks entering Gaza daily, the immediate deployment of the Gaza administration committee, a gradual transfer of heavy weapons to the committee alongside Israeli withdrawals, and a commitment that disarmament will not be linked to reconstruction or other issues.
-18:46
 1405/04/15
 
 
@@ -3284,17 +3332,6 @@ src :@GeoPWatch
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴تصویر منتخب تسنیم از مراسم امروز
-‏
-‏@MilitarryWorld | Parsa
-16:10
-1405/04/15
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏گروه افراطی «حماس» امروز دوشنبه ۱۵تیر۱۴۰۵ اعلام کرد دولت تحت اداره خود در نوار غزه را منحل می‌کند تا زمینه برای انتقال اداره این منطقه به «کمیته ملی اداره غزه»، متشکل از گروه‌های تکنوکرات‌ فلسطینی، فراهم شود. 
@@ -3830,14 +3867,6 @@ src :@rnintel
 ‏
 ‏Mobile fire groups are small light infantry teams typically operating from pickup trucks, with small arms or light machine guns mounted on the vehicle, designed to be quick and maneuverable to counter long-range drone attacks.
 15:08
-1405/04/15
-
-
-
-
-src :@defence_news
-‏منابع اوکراینی می گویند ارتش این کشور نخستین واحد از موشک های ضد کشتی NSM را از نروژ دریافت کرده است.  @Minas_Tirith2024
-15:04
 1405/04/15
 
 
@@ -5136,44 +5165,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 21:22
-1405/04/14
-
-
-
-
-src :@Mena_Live
-‏Syrian President Ahmed al-Sharaa has signed a decree establishing the Syrian University for Security Sciences, including institutes and faculties for security sciences, cybersecurity, research, and technical training. It will support Syria’s defense sector and potentially aid domestic small to medium arms production through technical expertise and research capacity.
-‏
-‏@Mena_Live
-21:14
-1405/04/14
-
-
-
-
-src :@Artemis_Force
-‏ما کانفیگ نمی‌فروشیم،
-‏پایداری + اعصابِ راحت می‌فروشیم.
-‏
-‏اگر دنبال سرعت بالا و وصل‌شدنِ پایدار هستی ، نه حرفای قشنگ  👇
-‏
-‏💰 پلن‌ ها(کاربر نامحدود) :
-‏🔹 10 گیگ → 150
-‏🔹 20 گیگ → 250
-‏🔹 30 گیگ → 350
-‏🔹 50 گیگ → 500
-‏🔹 100 گیگ → 750 
-‏
-‏🎯 مخصوص کسایی که کیفیت  و سرعت براشون خط قرمزه !
-‏
-‏شعارمون؟
-‏آخرین جایی که vpn میخرید همینجاست❤️‍🔥
-‏
-‏
-‏📩 خرید و تحویل آنی:
-‏@AlwaysOn_Pv
-‏
-‏📢 کانال:
-‏https://t.me/AlwaysOnNet
-21:12
 1405/04/14
