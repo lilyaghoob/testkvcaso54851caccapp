@@ -1,3 +1,12 @@
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷 It’s 5 AM in Tehran, yet the metro is already packed with people headed for the funeral procession  @Middle_East_Spectator
+05:24
+1405/04/15
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏دولت بریتانیا برای جلوگیری از تاثیرگذاری پول‌های خارجی بر انتخابات، قوانین مربوط به کمک‌های مالی به احزاب و نامزدهای سیاسی را سخت‌گیرانه‌تر کرد.
@@ -365,24 +374,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇦🇷🇺 Footage from Ukraine following a drone attack that targeted a residential building.  @wfwitness
-04:07
-1405/04/15
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇦🇷🇺 The Ukrainian capital Kyiv is currently under attack.  @wfwitness
-04:02
-1405/04/15
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇨🇦⚡️ — Canadian Prime Minister Mark Carney is expected to announce on Monday in Halifax the preferred bidder for Canada's program to acquire 12 submarines, ending a closely contested competition between Germany's TKMS and South Korea's Hanwha, according to the Globe and Mail.
@@ -426,14 +417,6 @@ src :@intelslava
 [فایل]
 ‏🇷🇺❌🇺🇦 — STRIKE THEM EVERYWHERE!
 03:53
-1405/04/15
-
-
-
-
-src :@tabzlive
-‏🇷🇺❌🇺🇦 — A second wave consisting of three groups of Kh-101s is a few minutes away from Kyiv.
-03:49
 1405/04/15
 
 
