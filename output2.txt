@@ -3594,17 +3594,6 @@ src :@warmonitors
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏We only tried telling you people about a million different times…
-‏
-‏@Middle_East_Spectator
-19:26
-1405/04/15
-
-
-
-
 src :@mwarmonitor
 ‏🔴دونالد ترامپ:
 ‏«یا ایران توافق می‌کند — یا ما کار را تمام می‌کنیم، و این کار سخت نخواهد بود.»
@@ -3683,15 +3672,6 @@ src :@mwarmonitor
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷🇮🇶 NEW: All the Iraqi Shia religious authorities, from pro-Iran to anti-Iran, have called upon people to show a mass attendance for Imam Khamenei’s funeral in Najaf and Karbala  @Middle_East_Spectator
-19:16
-1405/04/15
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏کانال رسمی روابط عمومی نیروی هوایی چین، تصویری را منتشر کرد که در آن هواپیمای تانکر YY-20A نیروی هوایی چین، در حال سوخت‌رسانی هوایی به دو فروند جنگنده نسل پنجم J-20 است.
@@ -3749,16 +3729,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Middle_East_Spectator
-‏— 🇮🇷🇮🇶 NEW: All the Iraqi Shia religious authorities, from pro-Iran to anti-Iran, have called upon people to show a mass attendance for Imam Khamenei’s funeral in Najaf and Karbala
-‏
-‏@Middle_East_Spectator
-19:07
-1405/04/15
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 سان تزو: اگر دشمن را بشناسی و خود را بشناسی، از نتیجه صد نبرد ترسی نخواهی داشت.
 ‏ اگر خود را بشناسی اما دشمن را نشناسی، به ازای هر پیروزی، یک شکست نیز خواهی داشت.
@@ -3789,17 +3759,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/04/15/404563/
 19:04
-1405/04/15
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷 NEW: Iran’s Foreign Minister, Abbas Araqchi, on the back of a motorcycle during today’s funeral procession in Tehran
-‏
-‏@Middle_East_Spectator
-19:01
 1405/04/15
 
 
@@ -3917,21 +3876,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-18:42
-1405/04/15
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷/🇮🇶 Ayatollah Muhammad Reza Al-Sistani, the son of Grand Ayatollah Ali Al-Sistani:
-‏
-‏‘It would have been fitting for my father to perform the funeral prayers over the body of the martyred Leader of the Revolution, Ayatollah Sayyed Ali Khamenei.
-‏
-‏Unfortunately, the physical condition and health of my father makes it impossible for this to take place, but he surely would have done so.’
-‏
-‏@Middle_East_Spectator
 18:42
 1405/04/15
 
@@ -4145,14 +4089,6 @@ src :@P_raetorio
 [ویدئو]
 ‏«یا یک توافق خواهیم کرد، یا کار با عملیاتی تمام خواهیم کرد و تمام کردن کار خیلی سخت نخواهد بود.من ترجیح می‌دهم یک توافق کنیم، چون نمی‌خواهم به 91 میلیون نفر آسیب بزنم.ما می‌توانیم پل‌هایشان را در عرض یک ساعت نابود کنیم.ما می‌توانیم عرضه انرژی آن‌ها را به طور‌…
 18:14
-1405/04/15
-
-
-
-
-src :@Middle_East_Spectator
-‏Today, 6/7, was a historic day.
-18:05
 1405/04/15
 
 
