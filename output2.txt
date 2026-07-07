@@ -1918,19 +1918,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-[عکس]
-‏Greek shipping companies earned at least $3.8 bn transporting Russian oil since July 2023 under the G7 price-cap regime. 
-‏
-‏Dynacom Tankers led with about $915m, followed by Olympic Shipping (Onassis Group) at $404m, with Stealth Maritime and Polembros Shipping also earning more than $200m each.
-‏
-‏Source: FT
-12:12
-1405/04/16
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇲🇱⚡️- The FLA claims to have ambushed and decimated a relief convoy from the FAMa and Africa Corps from Gao headed to reinforce their last garrison in Anéfis.
@@ -4165,16 +4152,6 @@ src :@Americana_ir
 
 
 
-src :@mwarmonitor
-‏🔴 از ۱۶ ژوئن و پس از آن‌که ایالات متحده آمریکا تحریم‌ها علیه فروش نفت ایران را لغو کرد، صادرات نفت و فرآورده‌های نفتی تهران به ۳٫۵۳ میلیون بشکه در روز جهش کرده است؛ این رقم در ۱۳ روز نخست ژوئن تنها ۱۸ هزار بشکه در روز بود — افزایشی ۱۹۴ برابری.  i24 news 
-‏
-‏@mwarmonitor
-22:47
-1405/04/15
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏The official reopening of the Raqqah Bridge reconnecting east and west Syria.
@@ -4828,22 +4805,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏دونالد ترامپ، رییس جمهور آمریکا، گفت جمهوری اسلامی در جریان مذاکرات هسته‌ای امتیازاتی داده است، اما همزمان تاکید کرد که این موضوع هنوز نهایی نشده‌ است.
-‏ترامپ روز دوشنبه ۱۵تیر ۱۴۰۵، در جمع خبرنگاران در دفتر بیضی کاخ سفید، با اشاره به روند دیپلماسی گفت: «شاید به توافق نزدیک شده باشیم، نمی‌دانم. در هر صورت ما پیروز خواهیم شد؛ یا توافق می‌کنیم یا کار را تمام خواهیم کرد.»
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154586
-‏
-‏
-‏@Farsi_Iranwire
-18:54
-1405/04/15
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇾🇪 🇾🇪 — Heavy fighting erupted overnight on Yemen's southern al-Hudaydah front as Iran-backed Houthi militants launched a major assault to seize Jebel Dabbas, a strategic ridgeline held by pro-Hadi National Resistance Forces (NRF).
@@ -5153,24 +5114,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 15:27
-1405/04/15
-
-
-
-
-src :@thewarreporter
-‏🇵🇸🇵🇸 — Hamas has dissolved its governing institutions in the Gaza Strip.  @TheWarReporter
-15:25
-1405/04/15
-
-
-
-
-src :@thewarreporter
-‏🇵🇸🇵🇸 — Hamas has dissolved its governing institutions in the Gaza Strip.
-‏
-‏@TheWarReporter
-15:24
 1405/04/15
 
 
