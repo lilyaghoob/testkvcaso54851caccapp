@@ -1,3 +1,57 @@
+src :@P_raetorio
+[عکس]
+‏🔶 سر جنگی WDU-42 متعلق به کروز AGM-158 JASSM در استان کردستان 
+‏
+‏@RASTAKHIZ_PERSIAN
+15:01
+1405/04/16
+
+
+
+
+src :@ClashReport
+[عکس]
+‏NATO Unveils Billions in Arms Deals on Ankara Summit's First Day
+‏
+‏NATO leaders unveiled arms deals worth tens of billions of dollars in Ankara on the first day of the NATO Summit, following US calls to boost military spending.
+‏
+‏READ MORE
+14:59
+1405/04/16
+
+
+
+
+src :@MilitarryWorld
+‏🔴عربستان سعودی در حال مذاکره با کشورهای همسایه برای ایجاد کریدورهای جایگزین حمل‌ونقل نفت از هرمز
+‏
+‏@MilitarryWorld | Parsa
+14:58
+1405/04/16
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️☀️🇮🇷🇺🇸 Acting PKK head Murat Karayilan has welcomed the US‑Iran ceasefire, describing it as a positive development.   He said the Kurdish people did not take sides in the conflict, despite media reports to the contrary, and that PJAK supported a "third line"…
+14:57
+1405/04/16
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇦🇷🇺 President Zelensky says Ukraine is eliminating around 30,000 Russian soldiers every month.
+‏
+‏@BRICSNews
+14:57
+1405/04/16
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏خبرگزاری دانشجو گزارش داد جمعی از دانشجویان، اعضای هیات علمی، استادان و کادر دانشگاه‌های قم با انتشار بیانیه‌ای به مناسبت مراسم تشییع جنازه علی خامنه‌ای در این شهر، بر خون‌خواهی» دیکتاتور کشته‌شده ایران تاکید کردند.
@@ -50,7 +104,7 @@ src :@World_Newsly
 
 src :@wfwitness
 [عکس]
-‏⚡️☀️🇹🇷🇮🇶 ANF: Acting PKK head Murat Karayilan has said the Turkish state must take concrete legal and political steps to build trust for a lasting solution to the Kurdish issue.   He reiterated that the PKK’s decision to end its armed struggle and dissolve…
+‏⚡️☀️🇹🇷🇮🇶 ANF: Acting PKK head Murat Karayilan has said the Turkish state must take concrete legal and political steps to build trust for a lasting solution to the Kurdish issue.   “Progress cannot be made without Öcalan,” he said, calling for a comprehensive…
 14:45
 1405/04/16
 
@@ -76,9 +130,9 @@ src :@wfwitness
 [عکس]
 ‏⚡️☀️🇹🇷🇮🇶 ANF: Acting PKK head Murat Karayilan has said the Turkish state must take concrete legal and political steps to build trust for a lasting solution to the Kurdish issue. 
 ‏
-‏He reiterated that the PKK’s decision to end its armed struggle and dissolve is final, but warned that if the state attempts to destroy the movement through military means, “we can respond with 3-4 times more force than before.”
+‏“Progress cannot be made without Öcalan,” he said, calling for a comprehensive law that addresses the historical roots of the Kurdish issue. 
 ‏
-‏“Progress cannot be made without Öcalan,” he said, calling for a comprehensive law that addresses the historical roots of the Kurdish issue. He dismissed claims that Öcalan had approved a framework law as disinformation.
+‏He dismissed claims that Öcalan had approved a framework law as disinformation.
 ‏
 ‏@wfwitness
 14:43
@@ -848,19 +902,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇳🇱🇺🇦⚡️ — Dutch Defense Minister Dilan Yeşilgöz-Zegerius says the Netherlands has reached the limit of its ability to provide direct military assistance to Ukraine, adding that it will instead urge other countries to step up their support.
-‏
-‏"We don't have opportunities anymore as the Netherlands because we have done so much," Yeşilgöz-Zegerius said. 
-‏
-‏Responding to requests for additional Patriot air defense systems, she added, "We are at our limit."
-13:40
-1405/04/16
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻بازیکنان بلژیک پس از پیروزی ۴ بر یک مقابل آمریکا، با تقلید از رقص دونالد ترامپ به جنجال پرونده فولارین بالوگون واکنش نشان دادند.
@@ -1073,7 +1114,7 @@ src :@Shin_Persian
 src :@MilitarryWorld
 ‏🔴ایسنا:
 ‏
-‏سرهنگ پاسدار صفدر سلطانی جانشین سپاه پاوه در مسیر بازگشت از مراسم علی خامنه ای توسط یک خودروی ناشناس منحرف و به شهادت رسید
+‏سرهنگ پاسدار صفدر سلطانی جانشین سپاه پاوه در مسیر بازگشت از مراسم آیت الله خامنه ای توسط یک خودروی ناشناس منحرف و به شهادت رسید
 ‏
 ‏@MilitarryWorld | Parsa
 13:18
@@ -1841,27 +1882,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@ClashReport
-[عکس]
-‏Turkish Foreign Ministry:
-‏
-‏In recent days, the baseless allegations circulated by Israeli officials in a coordinated and deliberate manner have been part of a disinformation campaign.
-‏
-‏Prime Minister Netanyahu and his associates deliberately distort any criticism directed at them and seek to shift the agenda through a systematic propaganda effort.
-‏
-‏These attempts, however, are no longer convincing the international community. They have failed to conceal the Netanyahu government's genocide in Gaza, its policies of occupation and annexation in the region, and its destabilizing actions.
-‏
-‏Türkiye's objective is for all countries and peoples in the region to live in peace, stability, and prosperity.
-‏
-‏With this understanding, we once again call on Israel to pursue a constructive and peaceful policy.
-‏
-‏As Türkiye, we will continue to speak the truth.
-12:17
-1405/04/16
-
-
-
-
 src :@rnintel
 ‏🇦🇲⚡️- Nikol Pashinyan has won his reelection in the Armenian election.
 12:16
@@ -2158,15 +2178,6 @@ src :@bricsnews
 src :@wfwitness
 ‏⚡️🇫🇷🇸🇾 The Élysée says Macron did not hear explosions on his way to the Syrian Presidential Palace.  @wfwitness
 11:50
-1405/04/16
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 NATO announced today in Ankara, that the alliance will acquire up to five MQ-4C Triton maritime patrol and ISR drones.  The drones were purchased with the Artic in mind and will allow a better monitoring of the High North.  @wfwitness
-11:49
 1405/04/16
 
 
@@ -3241,22 +3252,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ عباس عراقچی، وزیر امور خارجه جمهوری اسلامی روز سه‌شنبه ۱۶ تیر با انتشار پیامی در اکس، نوشت: «اگر تهدیدها ادامه یابد، مذاکرات بر سر توافق نهایی آغاز نخواهد شد.»
-‏
-‏به نظر می‌رسد این پیام واکنشی به صحبت‌های روز گذشته دونالد ترامپ باشد که گفته بود «ایران یا توافق را با ما امضا می‌کند یا بر می‌گردیم و کار را تمام می‌کنیم... می‌توانیم  در یک ساعت پل‌هایشان را ویران کنیم. می‌توانیم شبکه انرژی را از کار بیندازیم. همه آن نیروگاه‌های بزرگ، زیبا و مدرنی را که ساخته‌اند. پول زیادی داشتند اما حالا دیگر پولی ندارند. ما هیچ پولی به آن‌ها نداده‌ایم اما می‌توانیم برق و نیروگاه‌های تولید برقشان را از کار بیندازیم.»
-‏
-‏عراقچی در همین پیام به مراسم تشییع علی خامنه‌ای، رهبر پیشین جمهوری اسلامی اشاره کرده و نوشت: «نه آن‌ها و نه نیروهای مسلح شجاع ما، هیچ تهدیدی را نمی‌پذیرند.»
-‏
-‏
-‏@indypersian
-09:05
-1405/04/16
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏درود خدمت شما عزیزان
@@ -4135,23 +4130,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔻 نتانیاهو از ترامپ خواست اردوغان را مهار کند
-‏
-‏▪️به گزارش آکسیوس، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز جمعه در تماس تلفنی با دونالد ترامپ، رئیس‌جمهور آمریکا، از اظهارات تند ضداسرائیلی رجب طیب اردوغان، رئیس‌جمهور ترکیه، شکایت کرد و خواستار مهار او شد. 
-‏ 
-‏▪️نتانیاهو همچنین از ترامپ درخواست کرده که از فروش سیستم‌های تسلیحاتی به ترکیه برای مدرن‌سازی نیروی هوایی این کشور خودداری کند. 
-‏
-‏▪️این درخواست در حالی مطرح شده که ترامپ قرار است در نشست سران ناتو در آنکارا با اردوغان دیدار کند. 
-‏ 
-‏🆔 @Americana_ir
-22:56
-1405/04/15
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏The official reopening of the Raqqah Bridge reconnecting east and west Syria.
@@ -4882,15 +4860,6 @@ src :@thewarreporter
 
 
 
-src :@P_raetorio
-[ویدئو]
-‏«یا یک توافق خواهیم کرد، یا کار با عملیاتی تمام خواهیم کرد و تمام کردن کار خیلی سخت نخواهد بود.من ترجیح می‌دهم یک توافق کنیم، چون نمی‌خواهم به 91 میلیون نفر آسیب بزنم.ما می‌توانیم پل‌هایشان را در عرض یک ساعت نابود کنیم.ما می‌توانیم عرضه انرژی آن‌ها را به طور‌…
-18:14
-1405/04/15
-
-
-
-
 src :@Mena_Live
 ‏Local: In Syria’s most affected governorate, Al-Hasakah, electricity supply in the countryside has significantly improved for the first time since 2013, with increased daily power hours easing residents’ living conditions.
 ‏
@@ -4956,17 +4925,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:17
-1405/04/15
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇯🇵 Ten Japan-linked oil tankers leave the Strait of Hormuz after months of being stuck in the Gulf.
-‏
-‏@BRICSNews
-16:53
 1405/04/15
 
 
