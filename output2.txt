@@ -1,3 +1,46 @@
+src :@P_raetorio
+[عکس]
+‏«ترکیه می‌توانست به جنگ با ایران بپیوندد،اما من با ان مخالفت کردم»
+‏
+‏-دونالد ترامپ،رئیس جمهور آمریکا
+‏
+‏@P_raetorio
+18:55
+1405/04/16
+
+
+
+
+src :@MilitarryWorld
+‏🔴از ساعاتی پیش پس از حمله های ایران بم کشتی های تنگه هرمز قیمت نفت به شدت در حال افزایش است.
+‏
+‏@MilitarryWorld | Parsa
+18:54
+1405/04/16
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۶ تیر
+‏@iranintlTV
+18:53
+1405/04/16
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷 Iran strikes another commercial vessel in the Strait of Hormuz.
+‏
+‏@BRICSNews
+18:52
+1405/04/16
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴باراک راوید: ایران شب گذشته به دو کشتی تجاری که درحال عبور از تنگه هرمز بودند، شلیک کرده است
@@ -2792,16 +2835,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیم‌روزی | سه‌شنبه ۱۶ تیر
-‏@iranintlTV
-15:58
-1405/04/16
-
-
-
-
 src :@mohem_mat
 ‏رویترز:
 ‏
@@ -3935,18 +3968,6 @@ src :@Shin_Persian
 
 
 
-src :@MilitarryWorld
-‏🔴ایسنا:
-‏
-‏سرهنگ پاسدار صفدر سلطانی جانشین سپاه پاوه در مسیر بازگشت از مراسم آیت الله خامنه ای توسط یک خودروی ناشناس منحرف و به شهادت رسید
-‏
-‏@MilitarryWorld | Parsa
-13:18
-1405/04/16
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏Greatest photo in history 
@@ -4371,37 +4392,10 @@ src :@thewarreporter
 
 
 
-src :@jangaavaran1390
-‏مارک روته، دبیرکل ناتو، اعلام کرد که هواپیمای پیشرفته نظارتی GlobalEye سوئدی برای جایگزینی ناوگان قدیمی هواپیماهای E-3 Sentry این ائتلاف انتخاب شده است.این مسئله باعث ناراحتی ترامپ است
-12:03
-1405/04/16
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇸🇾 — A Syrian security source said explosive devices detonated near a hotel in Damascus where French President Macron was due to stay.   Security forces sealed off the area following the blasts.  @TheWarReporter
 12:03
-1405/04/16
-
-
-
-
-src :@jangaavaran1390
-‏گزارش‌ها حاکی از افزایش حضور نیروهای نظامی آمریکا در یکی از پایگاه‌های نیروهای ویژه تایوان است.
-‏
-‏بر اساس گزارش رسانه‌های تایوانی، پرسنل آمریکایی به‌طور مداوم در حال تردد به اردوگاه «ووهان» در منطقه لونگ‌تان هستند؛ پایگاهی که مقر فرماندهی نیروهای ویژه ارتش تایوان محسوب می‌شود. گفته می‌شود این نیروها در برنامه‌های آموزشی مشترک با یگان‌های ویژه تایوان مشارکت دارند.
-‏
-‏ارتش تایوان جزئیات حضور نظامیان آمریکایی را تأیید نکرده، اما اعلام کرده است که تبادلات و آموزش‌های نظامی سالانه با آمریکا طبق برنامه‌های از پیش تعیین‌شده ادامه دارد.
-‏
-‏بر اساس گزارش‌های منتشرشده، از سال ۲۰۲۳ حضور نیروهای ویژه آمریکا در تایوان افزایش یافته و برخی منابع تعداد نظامیان آمریکایی مستقر در این کشور را حدود ۵۰۰ نفر برآورد کرده‌اند. این نیروها وظیفه آموزش، هماهنگی و مشاوره به یگان‌های ویژه تایوان را بر عهده دارند.
-‏
-‏
-‏
-‏#آمریکا #تایوان #چین #نیروهای_ویژه #جنگاوران
-‏https://t.me/jangaavaran1390
-11:59
 1405/04/16
 
 
@@ -5089,38 +5083,12 @@ src :@BellumActaNews
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱🇹🇷 — Israeli PM Netanyahu asked US President Trump to block U.S. arms sales to Turkey that would upgrade the Turkish Air Force.
-‏
-‏During a phone call, Netanyahu urged Trump to 'rein in' Turkish President Erdogan.
-‏
-‏— Axios | @TheWarReporter
-06:31
-1405/04/16
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇺🇦❌🇷🇺- The AFU’s offensive in the southern Donetsk region continues to see success as the Ukrainian Military have fully captured the villages of Ivanivka and Novokhatske.
 ‏
 ‏From there Ukrainian forces have reached the western bank of the Mokri Yaly river where media surfaced of Ukrainian positions being shelled in Hrushivske.
 06:30
-1405/04/16
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — A U.S. official told Axios:
-‏
-‏"Netanyahu made a bunch of promises about the Iran war that didn't come to pass.
-‏
-‏But what can we do? He'll come. He'll make his promises and then we'll have to check everything out".
-‏
-‏@TheWarReporter
-06:23
 1405/04/16
 
 
@@ -5325,44 +5293,6 @@ src :@warmonitors
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:37
 1405/04/16
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇵🇹🇪🇸 Portugal officially eliminated from the FIFA World Cup after losing to Spain.
-‏
-‏This was Cristiano Ronaldo's final World Cup game.
-‏
-‏@BRICSNews
-00:32
-1405/04/16
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏به فروشگاه Atlas Relay خوش آمدید!
-‏
-‏ارائه انواع سرویس‌های VPN با کیفیت عالی
-‏💯 تضمین امنیت ارتباطات شما
-‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
-‏
-‏تعرفه ها :
-‏✅ 10 گیگ 65 هزار تومان
-‏✅ 20 گیگ 125
-‏✅ 30 گیگ 180
-‏✅ 40 گیگ 230
-‏✅ 50 گیگ 275
-‏✅ 100 گیگ 550
-‏
-‏⭕️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
-‏
-‏https://t.me/AtlasRelayFastbot?start=praetorio
-23:40
-1405/04/15
 
 
 
