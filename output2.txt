@@ -721,21 +721,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Ukrainian President Zelensky told FT that Ukraine's expanding long-range drone campaign is intended to bring the war closer to Russia's leadership, arguing that sustained strikes on Moscow will eventually force President Vladimir Putin to "feel it personally."
-‏
-‏"When it is no longer one hundred drones but one thousand flying towards Moscow... he will understand," Zelensky said, adding that "once he begins to feel it personally... you will see advisers urging him to relocate somewhere beyond the Urals."
-‏
-‏Discussing operations against Crimea, Zelensky said Ukraine has demonstrated "what it means to operationally control the sky at a specific point, at a specific time," with the goal of striking military bases, air defenses, logistics hubs, and other infrastructure supporting Russian missile attacks.
-‏
-‏He concluded, "The farther Putin is from Moscow, the closer the end of the war will be."
-01:55
-1405/04/16
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🚀 سرویس مولتی VLESS
@@ -2252,15 +2237,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 21:58
-1405/04/15
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🔻الصهاريج العراقية التي تدخل الأراضي السورية في خطر حقيقي وفي حالة شبه يومية انفجار صهريج نفط عراقي على طريق حمص طرطوس.
-21:56
 1405/04/15
 
 
