@@ -1,3 +1,114 @@
+src :@thewarreporter
+[عکس]
+‏🛳️🇮🇷 — UKMTO reports that an unidentified projectile struck a tanker transiting the Strait of Hormuz, causing structural damage.
+‏
+‏@TheWarReporter
+17:06
+1405/04/16
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇸🇦 - Saudi Arabia unveils the SKYWASP one-way attack drone
+‏
+‏Saudi Arabia’s SKYWASP is a newly unveiled domestically manufactured long-range one-way attack drone (OWA-UAV), developed by SR2Vector as part of the Kingdom’s efforts to expand its indigenous defense industry under Vision 2030.
+‏
+‏Reported specifications:
+‏• Cost: ~$30,000 
+‏• Range: ~1,500 km
+‏• Guidance: INS/GNSS navigation with anti-jamming features
+‏• Configuration: Delta-wing design with a rear-mounted pusher propeller
+‏• Role: Long-range precision strike and saturation attacks against strategic targets
+‏
+‏Unlike remotely piloted UAVs, SKYWASP is designed to follow pre-programmed waypoints to its target before impact, reducing reliance on continuous communications.
+‏
+‏The system is intended to be manufactured at scale in Saudi Arabia, reflecting a broader shift in modern warfare toward large numbers of lower-cost, expendable strike drones rather than relying exclusively on expensive precision-guided munitions.
+‏
+‏While its external appearance has drawn comparisons to Iran’s Shahed-136 family of drones, Saudi officials present SKYWASP as a domestically produced platform tailored to the Kingdom’s operational requirements.
+17:05
+1405/04/16
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏بر اساس گزارش رویترز، عربستان سعودی در حال بررسی امکان افزایش ظرفیت خط لوله انتقال نفت خام خود به دریای سرخ تا سقف 2 میلیون بشکه در روز است. این اقدام به منظور افزایش صادرات نفت و دور زدن تنگه هرمز انجام خواهد شد.
+17:04
+1405/04/16
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 قطر: ایران به تانکر حمل گاز قطری حمله کرده است 
+‏
+‏
+‏@RASTAKHIZ_PERSIAN
+17:04
+1405/04/16
+
+
+
+
+src :@MilitarryWorld
+‏🔴فوری/ هم اکنون شلیک موشک از ایران به سمت تنگه هرمز.
+‏
+‏@MilitarryWorld | Parsa
+17:03
+1405/04/16
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🚨سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارشی درباره یک حادثه مربوط به یک نفتکش در حال عبور از تنگه هرمز دریافت کرده است. این نفتکش توسط یک پرتابه ناشناس مورد اصابت قرار گرفته و گمان می‌رود که دچار آسیب ساختاری شده باشد. هیچ‌گونه تلفات جانی یا خسارت زیست‌محیطی گزارش نشده است.
+‏
+‏🔸احتمالاً نفتکش بسیار بزرگ عربستانی (VLCC) که هنگام تلاش برای عبور از تنگه هرمز هدف قرار گرفت.
+‏
+‏@mwarmonitor
+17:03
+1405/04/16
+
+
+
+
+src :@mohem_mat
+‏برخی منابع امنیتی دریایی خبر داند که یک نفت‌کش حامل نفت خام با پرچم عربستان هم در اطراف تنگه هرمز در نزدیکی عمان آسیب دیده است. این امر پس از هدف قرار گرفتن یک نفتکش قطری حامل گاز طبیعی مایع در همان منطقه صورت گرفت.
+‏
+‏@sharghdaily
+17:03
+1405/04/16
+
+
+
+
+src :@World_Newsly
+‏⭕ منابع امنیت دریایی گزارش دادند که یک نفتکش حامل نفت خام با پرچم عربستان سعودی در آب‌های عمان و در نزدیکی تنگه هرمز آسیب دیده است.
+‏
+‏🔻این حادثه پس از آن رخ داد که پیش‌تر یک کشتی حامل گاز طبیعی مایع (LNG) قطر نیز در همان منطقه هدف قرار گرفته بود.
+‏
+‏✍🏻 adolf hitler
+‏▪️@World_Newsly
+17:02
+1405/04/16
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇬🇧🇮🇷⚡️- "UKMTO has received a report of an incident involving a tanker transiting the Strait of Hormuz. The tanker was struck by an unidentified projectile and is believed to have structural damage. No casualties or environmental impact reported.
+‏
+‏UKMTO continues to investigate. Vessels are advised to transit with caution and report any suspicious activity to UKMTO. " - United Kingdom Maritime Trade Operations.
+17:02
+1405/04/16
+
+
+
+
 src :@warmonitors
 ‏⚡️#BREAKING British military says a second ship has been hit in the Strait of Hormuz
 ‏
@@ -362,7 +473,7 @@ src :@thewarreporter
 
 
 src :@MilitarryWorld
-‏⭕️ ترامپ: ما به تنگه هرمز نیازی نداریم، چون نفت بسیار زیادی داریم
+‏🔴 ترامپ: ما به تنگه هرمز نیازی نداریم، چون نفت بسیار زیادی داریم
 ‏
 ‏@MilitarryWorld | Parsa
 16:49
@@ -2026,14 +2137,6 @@ src :@Americana_ir
 
 
 
-src :@World_Newsly
-‏🔴 در دکترین هوایی شوروی وظايف كاملاً تقسيم شده بود، سوخو ۲۷ که همزمان با میگ ۲۹ توسعه یافت یک شکاری سنگین برتری هوایی با برد بسیار زیاد بود که باید به عمق آسمان دشمن نفوذ میکرد اما میگ ۲۹ به عنوان یک شکاری سبک و چابک برای مأموریتهای زیر طراحی شد  🔸 دفاع از…
-14:47
-1405/04/16
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️☀️🇹🇷🇮🇶 ANF: Acting PKK head Murat Karayilan has said the Turkish state must take concrete legal and political steps to build trust for a lasting solution to the Kurdish issue.   “Progress cannot be made without Öcalan,” he said, calling for a comprehensive…
@@ -2519,19 +2622,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏جواد نصرالله، فرزند حسن نصرالله، دبیرکل پیشین حزب‌الله لبنان، گفت که کشته شدن علی خامنه‌ای و حسن نصرالله احساس انتقام را در میان این گروه عمیق‌تر کرده و «به مقاومت شتاب بیشتری می‌بخشد».
-‏
-‏او افزود که رابطه پدرش با علی خامنه‌ای «مبتنی بر نور بر نور و روح بر روح» بوده است.
-‏
-‏جواد نصرالله همچنین گفت: «وقتی خون مقدسی را هدیه می‌کنید، تعهد شما به آنچه به آن اعتقاد دارید عمیق‌تر و قوی‌تر می‌شود، احساس انتقام از دشمن در شما تقویت می‌شود و روحیه انقلابی رشد می‌کند.»
-13:47
-1405/04/16
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مکرون، رئیس جمهور فرانسه : 
 ‏
@@ -2841,14 +2931,6 @@ src :@Shin_Persian
 
 
 
-src :@rnintel
-‏Just hours after the agreement was signed, China, in a very North Korean way, test-launched a long-range ballistic missile from a nuclear-run submarine in the southern Pacific. Australia called Beijing's immature behavior destabilizing, New Zealand criticized the lack of notice, but Beijing alleged it was a 'routine exercise'.
-13:07
-1405/04/16
-
-
-
-
 src :@warmonitors
 ‏Trump says Belgium posses multiple WMDs and is about to use a dirty bomb on U.S soil.
 ‏
@@ -3032,18 +3114,6 @@ src :@mohem_mat
 ‏احمد زیدآبادی
 ‏@ahmadzeidabad
 12:48
-1405/04/16
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏پرچم فلسطین در دست خاویر باردم
-‏در استادیوم بازی تیم ملی اسپانیا
-‏
-‏@mohem_mat
-12:47
 1405/04/16
 
 
@@ -3280,26 +3350,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Indypersian
-‏⭕️ اورشلیم‌پست: جمهوری اسلامی ایران روابطش را با حوثی‌های یمن عمیق‌تر می‌کند
-‏
-‏📌 این گروه شبه‌نظامی برای ایجاد یک مسیر هوایی میان تهران و صنعا تلاش می‌کند
-‏
-‏♦️ اورشلیم پست روز سه‌شنبه در گزارشی نوشت که به نظر می‌رسد رژیم حاکم بر ایران در شرایط فعلی و هم‌زمان با خاکسپاری علی خامنه‌ای، خود در موقعیت قدرتمندتری می‌بیند و به دنبال گسترش و عمیق‌تر کردن روابطش با حوثی‌ها است.
-‏
-‏این گزارش اشاره می‌کند که حوثی‌های تحت حمایت جمهوری اسلامی ایران سال‌ها است منطقه را با اقدام‌هایشان بی‌ثبات کرده‌اند. این گروه سال ۲۰۱۵ تلاش کرد کنترل یمن را در دست بگیرد، سپس با ائتلاف تحت رهبری عربستان سعودی، که دولت یمن نیز بخشی از آن بود، وارد جنگ شد و در سال‌های اخیر نیز بارها به اسرائیل و نیز کشتی‌‌های تجاری در دریای سرخ حمله کرد.
-‏
-‏اکنون بر اساس اطلاعاتی که طی چند روز گذشته منتشر شده، به نظر می‌رسد عبدالواحد ابو راس، معاون وزیر خارجه حوثی‌ها، در صنعا با علی‌محمد رضایی، نماینده جمهوری اسلامی ایران در یمن، دیدار کرده است.
-‏
-‏ بیشتر بخوانید... 
-‏
-‏@indypersian
-12:14
-1405/04/16
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — Iranian Foreign Minister Abbas Araqhchi:
@@ -3349,15 +3399,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 12:02
-1405/04/16
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏🔴دونالد ترامپ سوار بر هواپیمای Air Force One عازم ترکیه شد تا در نشست ناتو شرکت کند.   @mwarmonitor
-12:00
 1405/04/16
 
 
@@ -3756,18 +3797,6 @@ src :@DEJradio
 ‏یکی از همین منابع به دژ گفت: «برای السیسی ننگ است که در واپسین دوران رژیم ایران، به ملاها خوش خدمتی می‌کند.»
 ‏
 ‏#محمدرضاشاه_پهلوی #مصر
-10:40
-1405/04/16
-
-
-
-
-src :@MilitarryWorld
-‏🔴نیویورک تایمز: 
-‏
-‏انتظار می‌رود ترامپ به اردوغان اطلاع دهد که مایل به فروش جنگنده‌های اف-۳۵ به ترکیه است، اگرچه هنوز مشخص نیست چنین معامله‌ای چه زمانی یا چگونه انجام خواهد شد. 
-‏
-‏@MilitarryWorld | Parsa
 10:40
 1405/04/16
 
@@ -4388,17 +4417,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 06:23
-1405/04/16
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🛳️🇴🇲🇮🇷 — UKMTO reports a tanker was hit by an unknown projectile 8NM east of Limah, Oman.
-‏
-‏@TheWarReporter
-06:22
 1405/04/16
 
 
