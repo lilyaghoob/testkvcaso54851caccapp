@@ -1,3 +1,84 @@
+src :@GeoPWatch
+[عکس]
+‏⚡️🇺🇸🇦🇪❌🇮🇷 - At least 7 refuel aircrafts airborne, including 1 Emirati "A330-243MRTT". 
+‏
+‏A USN "P-8A Poseidon" ASUW is also airborne, amidst ongoing USAF airstrikes.
+02:42
+1405/04/17
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷 NEW: President Pezeshkian has urgently gone back to Tehran
+‏
+‏@Middle_East_Spectator
+02:42
+1405/04/17
+
+
+
+
+src :@wfwitness
+‏Renewed alerts in Kyiv, Ukraine.
+02:41
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴 صداوسیما: پزشکیان نجف اشرف را به مقصد تهران ترک کرد
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+02:41
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴هم اکنون پرواز گسترده جنگنده های اسرائیلی برفراز بیروت 
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+02:41
+1405/04/17
+
+
+
+
+src :@MilitarryWorld
+‏🔴پزشکیان و عراقچی بعد از اتفاقات امشب عراق رو ترک کردن و برگشتن تهران
+‏
+‏@MilitarryWorld | Parsa
+02:40
+1405/04/17
+
+
+
+
+src :@GeoPWatch
+‏⚡️🇮🇱❌🇱🇧 - IAF Fighter Jet airborne in low altitudes over Lebanon's 'Beirut' shores.
+02:39
+1405/04/17
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️تیم ملی فوتبال سوئیس با پیروزی در ضربات پنالتی مقابل کلمبیا، برای نخستین بار از سال ۱۹۵۴ به مرحله یک‌چهارم نهایی جام جهانی صعود کرد تا حریف نهایی آرژانتین و لیونل مسی در این مرحله شود. این دیدار نفس‌گیر در پایان ۹۰ دقیقه وقت قانونی و ۳۰ دقیقه وقت‌های اضافه با وجود موقعیت‌های جدی هر دو تیم، به‌ویژه کلمبیا، با تساوی بدون گل به پایان رسید تا کار به ضیافت پنالتی‌ها کشیده شود. داوینسون سانچز پنالتی دوم کلمبیا را به تیرک دروازه کوبید و در ادامه ضربه چوچو هرناندز توسط دروازه‌بان سوئیس مهار شد تا سرانجام با گل شدن پنالتی پنجم سوئیس توسط روبن وارگاس، این نبرد با برتری ۴ بر ۳ به سود سوئیسی‌ها خاتمه یابد. با این نتیجه تاریخی، سوئیس روز شنبه در کانزاس‌سیتی به مصاف آرژانتین خواهد رفت.
+‏
+‏@IndyPersian
+02:37
+1405/04/17
+
+
+
+
 src :@didarnews1
 ‏🔴وزارت برق، آب و انرژی‌های تجدیدپذیر کویت:
 ‏
@@ -700,25 +781,6 @@ src :@GeoPWatch
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Renewed explosions in Sirik!
 02:15
-1405/04/17
-
-
-
-
-src :@World_Newsly
-‏🔴فوری/ گزارش انفجار مجدد در بندرعباس   ✍🏻 Nadershah ▪️@World_Newsly
-02:15
-1405/04/17
-
-
-
-
-src :@World_Newsly
-‏🔴فوری/ گزارش انفجار مجدد در بندرعباس 
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-02:14
 1405/04/17
 
 
@@ -1540,15 +1602,6 @@ src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷 Bandar Abbas
 ‏
 ‏@Middle_East_Spectator
-01:46
-1405/04/17
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏من العدوان الأمريكي الغاشم على بندرعباس جنوبي إيران
 01:46
 1405/04/17
 
@@ -2447,15 +2500,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸❌🇮🇷 - Fire columns rising from the "Shahid Haqqani" Port in Bandar Abbas, Iran, following USAF strikes.
-01:17
-1405/04/17
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US military on standby and prepared to impose blockade on Iranian ports in the Strait of Hormuz again, WSJ reports.
 ‏
@@ -3159,16 +3203,6 @@ src :@Indypersian
 
 
 
-src :@MilitarryWorld
-‏🔴یک دکل مخابراتی در سیریک هدف قرار گرفت
-‏
-‏@MilitarryWorld | Parsa
-00:58
-1405/04/17
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏بامداد چهارشنبه؛ اسلکه‌ی سیریک (هرمزگان)، شناورهای تندروی سپاه در آتش می‌سوزند.
@@ -3576,16 +3610,6 @@ src :@bricsnews
 src :@rnintel
 ‏🇺🇸🇮🇷 - Initial reports, ten U.S. airstrikes against Sirik, southern Iran. The explosions were heard across the south coast.
 00:45
-1405/04/17
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 NEW: Bandar Abbas air defenses have shot down an American drone or cruise missile
-‏
-‏@Middle_East_Spectator
-00:43
 1405/04/17
 
 
