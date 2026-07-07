@@ -1,3 +1,50 @@
+src :@World_Newsly
+[عکس]
+‏🔴کاخ الیزه: ماکرون در مسیر رفتن به دیدار با جولانی، رئیس موقت دولت سوریه در قصر الشعب دمشق بود و هیچ صدای انفجاری نشنید.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+12:10
+1405/04/16
+
+
+
+
+src :@wfwitness
+‏⚡️🇨🇺 Sky News: A nationwide blackout has hit Cuba after its power grid collapsed. 
+‏
+‏@wfwitness
+12:08
+1405/04/16
+
+
+
+
+src :@rnintel
+‏🇰🇵🇯🇵⚡️- "A commentary carried by North Korean state media KCNA on Tuesday criticised Japan's ​military expansion, saying its overseas aggression was 'not hypothetical ‌but reality' and citing Japanese plans to develop unmanned submarines capable of anti-ship attacks.
+‏
+‏It accused Tokyo ​of abandoning its long-professed doctrine of exclusively defence-oriented policy and ​transforming its military into a 'thoroughly offensive and aggressive force.'" - Reuters.
+12:08
+1405/04/16
+
+
+
+
+src :@Americana_ir
+‏🔴 آمریکا در جمع ۹ کشور بدون قانون مرخصی استحقاقی سالانه
+‏
+‏🔹ایالات متحده آمریکا یکی از تنها ۹ کشور جهان است که هیچ قانون ملی برای تضمین مرخصی استحقاقی سالانه ندارد. بر اساس تحلیل جدیدی از ۱۹۳ کشور عضو سازمان ملل، ۵۵ درصد کشورهای جهان حداقل ۲۰ روز مرخصی با حقوق را به‌صورت قانونی برای کارگران خود الزام‌آور کرده‌اند، اما در آمریکا مرخصی با حقوق یک “امتیاز اختیاری” از سوی کارفرما محسوب می‌شود، نه یک حق قانونی. 
+‏
+‏🔹این رویکرد به شکاف عمیقی در دسترسی منجر شده است؛ آمار وزارت کار آمریکا نشان می‌دهد ۸۳ درصد از پردرآمدترین کارگران از مرخصی با حقوق برخوردارند، در حالی که این رقم برای کم‌درآمدترین گروه به ۵۷ درصد کاهش می‌یابد.
+‏
+‏🔗 لینک منبع 
+‏🆔 @Americana_ir
+12:07
+1405/04/16
+
+
+
+
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — Iranian Foreign Minister Abbas Araqhchi:
@@ -12,7 +59,7 @@ src :@thewarreporter
 
 
 src :@wfwitness
-‏⚡️🇺🇸🇹🇷🇮🇱🇺🇸 NYT : US President Trump is expected to tell Turkish President Erdoğan that he is prepared to restore Turkey’s access to the F-35 stealth fighter programme, reversing a ban imposed in 2019 after Ankara purchased Russia’s S-400 air defence system.
+‏⚡️🇺🇸🇹🇷🇮🇱🇺🇸 NYT: US President Trump is expected to tell Turkish President Erdoğan that he is prepared to restore Turkey’s access to the F-35 stealth fighter programme, reversing a ban imposed in 2019 after Ankara purchased Russia’s S-400 air defence system.
 ‏
 ‏Israeli Prime Minister Benjamin Netanyahu raised the issue with Trump on Friday, complaining about Erdoğan’s increasingly anti-Israel rhetoric and urging the US president not to approve weapons sales that would help modernise Turkey’s air force. 
 ‏
@@ -978,14 +1025,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-‏⚡️🇸🇾 Explosions heard in Damascus, cause currently unknown.  @wfwitness
-10:56
-1405/04/16
-
-
-
-
 src :@Minas_Tirith2024
 ‏⚜مقام‌های آمریکایی به شبکه ۱۲ اسرائیل اعلام کردند که نیروهای نظامی ایران شامگاه دوشنبه دست‌کم دو موشک به سمت کشتی‌های تجاری در حال عبور از تنگه هرمز شلیک کرده‌اند.
 ‏✒️#LT
@@ -1817,20 +1856,6 @@ src :@GeoPWatch
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 وزارت خارجه روسیه: در پی حملات اوکراین در هفته گذشته، 38 غیرنظامی در روسیه کشته شدند.
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-09:15
-1405/04/16
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهوری آمریکا، سه‌شنبه ۱۶ تیر در شبکه اجتماعی تروث‌سوشال نوشت ارتش ایالات متحده «هرگز قوی‌تر یا قدرتمندتر از امروز نبوده است» و هیچ کشور دیگری توان انجام آنچه آمریکا انجام می‌دهد را ندارد.
@@ -2063,15 +2088,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 08:32
-1405/04/16
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏درود و صبح شما بخیر
-08:26
 1405/04/16
 
 
@@ -2516,18 +2532,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 05:08
-1405/04/16
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️خبرنگار آکسیوس، بامداد سه‌شنبه ۱۶ تیرماه، به نقل از یک مقام ارشد آمریکایی گزارش کرد سپاه پاسداران دست‌کم دو موشک به سمت دو کشتی تجاری در حال عبور از تنگه هرمز شلیک کرده است.
-‏به گفته این مقام آمریکایی، دو کشتی تجاری در این حمله هدف قرار گرفتند و خسارت قابل‌توجهی دیدند، اما تاکنون هیچ تلفات جانی گزارش نشده است.
-‏
-‏@indypersian
-04:30
 1405/04/16
 
 
