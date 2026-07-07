@@ -535,17 +535,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-[عکس]
-‏🇻🇪⚡️ — The death toll from the twin earthquakes in Venezuela has risen to 3,535, with 16,740 injured.
-‏
-‏➡️ 17,854 people have been left without housing.
-02:43
-1405/04/16
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏گارد ساحلی هند اعلام کرد در جریان طوفان موسمی، سه نفتکش توقیف‌شده مرتبط با جمهوری اسلامی که در آب‌های غرب بمبئی لنگر انداخته بودند، از جای خود حرکت کردند و عملیات امداد برای آنها آغاز شد. یکی از این کشتی‌ها به نام «الجفزیه» که خدمه آن پیش‌تر کشتی را ترک کرده بودند، به گل نشست.
