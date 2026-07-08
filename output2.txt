@@ -1,3 +1,75 @@
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 US military completes new round of attacks, striking 80 targets in Iran including air defenses, radar sites, missile systems, and IRGC boats.
+‏
+‏@BRICSNews
+05:21
+1405/04/17
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇧🇭- Now, there is a renewed batch of explosions in Bahrain.
+05:20
+1405/04/17
+
+
+
+
+src :@MilitarryWorld
+‏🔴سنتکام اعلام کرد که نیروهای این کشور، در پاسخ به حملات اخیر ایران به کشتی‌های تجاری در تنگه هرمز، مجموعه‌ای از حملات را علیه بیش از 80 هدف در ایران انجام داده‌اند.
+‏
+‏@MilitarryWorld | Parsa
+05:20
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴 فرماندهی مرکزی ایالات متحده (CENTCOM) اعلام کرد که دور جدیدی از حملات را در ایران انجام داده است و بیش از 80 هدف و بیش از 60 قایق کوچک متعلق به سپاه پاسداران انقلاب اسلامی را مورد اصابت قرار داده است
+‏:
+‏
+‏نیروهای فرماندهی مرکزی ایالات متحده (CENTCOM) دور جدیدی از حملات تهاجمی را علیه ایران، در تاریخ 7 جولای، انجام دادند و با استفاده از سلاح‌های دقیق، بیش از 80 هدف را مورد اصابت قرار دادند. این اقدام، پاسخی فوری به آخرین حملات ایران به کشتی‌های تجاری بود که از تنگه هرمز عبور می‌کردند.
+‏
+‏نیروهای ایالات متحده، سامانه‌های پدافند هوایی، شبکه‌های فرماندهی و کنترل، ایستگاه‌های رادار ساحلی، قابلیت‌های موشک‌های ضدکشتی و بیش از 60 قایق کوچک متعلق به سپاه پاسداران انقلاب اسلامی را در داخل و اطراف تنگه هرمز مورد هدف قرار دادند تا توانایی ایران در ادامه حملات به تجارت بین‌المللی که از طریق این کریدور تجاری جریان دارد، را تضعیف کنند.
+‏
+‏ایران اخیراً به سه کشتی تجاری که از تنگه هرمز عبور می‌کردند، حمله کرد. این کشتی‌ها شامل کشتی M/T Al Rekayyat با پرچم جزایر مارشال، کشتی M/T Wedyan با پرچم عربستان سعودی و کشتی M/T Cyprus Prosperity با پرچم لیبریا بودند.
+‏
+‏این تجاوز غیرموجه توسط نیروهای ایرانی، نقض آشکار و خطرناکی از آتش‌بس است و آزادی تردد را تضعیف می‌کند.
+‏
+‏نیروهای CENTCOM آمادگی خود را حفظ کرده‌اند تا در صورت عدم رعایت یا عدم تبعیت از توافق، ایران را پاسخگو بدانند
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+05:19
+1405/04/17
+
+
+
+
+src :@GeoPWatch
+‏⚠️- Reports of a renewed attack on Bahrain is incorrect.
+05:18
+1405/04/17
+
+
+
+
+src :@naya_foriraq
+‏تنويه هام
+‏
+‏تؤكد اللجنة المنظمة لمراسم التشييع أن التشييع الشعبي في محافظة النجف الأشرف سيبدأ عند الساعة السادسة صباحاً، انطلاقاً من مجسّر مستشفى الصدر باتجاه ساحة الصدرين.
+‏
+‏وعليه، فإن ما يُتداول حالياً عبر مواقع التواصل الاجتماعي بشأن انتهاء مراسم التشييع أو اختتامها لا أساس له من الصحة، إذ إن التشييع لم يبدأ بعد، وسيُقام وفق التوقيت والمسار المعلنين.
+‏
+‏وندعو جميع المواطنين ووسائل الإعلام إلى اعتماد المعلومات الصادرة عن الجهات الرسمية، وعدم تداول الأخبار غير الموثقة .
+05:18
+1405/04/17
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- CENTCOM reports the completion of a round of strikes in Iran, targeting over 80 locations and more than 60 IRGC small boats.
 ‏
@@ -1035,19 +1107,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-‏🔴دور‌ جدید حملات آمریکا به جنوب ایران
-‏
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-03:44
-1405/04/17
-
-
-
-
 src :@defence_news
 ‏صدای انفجار مجدد در بندرعباس گزارش شده است.
 ‏
@@ -1117,14 +1176,6 @@ src :@wfwitness
 
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — Explosions reported on Kharg Island, Iran.
-03:38
-1405/04/17
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Reports of explosions on Qeshm Island.
 03:38
 1405/04/17
 
@@ -1885,30 +1936,11 @@ src :@MilitarryWorld
 
 
 
-src :@GeoPWatch
-‏⚡️🇺🇸❌🇮🇷 - New explosions again in 'Bandar Abbas'.
-02:24
-1405/04/17
-
-
-
-
 src :@MilitarryWorld
 ‏🔴این وسط اسرائیل هم حملات گسترده ای به جنوب لبنان انجام داد
 ‏
 ‏@MilitarryWorld | Parsa
 02:23
-1405/04/17
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇨🇭🇨🇴 Switzerland eliminates Colombia from the World Cup following penalty shootouts.
-‏
-‏@wfwitness
-02:22
 1405/04/17
 
 
@@ -1944,18 +1976,6 @@ src :@BellumActaNews
 ‏
 ‏@wfwitness
 02:20
-1405/04/17
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏#NEW
-‏⚡️🇰🇼🇧🇭 - The Kuwaiti Ministry of Electricity, Water and Renewable Energy has announced outages of several electrical transmission lines, leading to disruptions in several different areas of the country.
-‏
-‏The ministry states emergency teams have activated emergency plans to investigate and restore the current.
-02:19
 1405/04/17
 
 
@@ -2974,26 +2994,6 @@ src :@P_raetorio
 src :@Mena_Live
 ‏Gulf countries are bracing for incoming UAV and Missile attacks by Iran
 01:32
-1405/04/17
-
-
-
-
-src :@MilitarryWorld
-‏🔴سی‌ان‌ان:
-‏
-‏شدیدترین حملات به ایران از زمان امضای توافق آتش‌بس در فروردین تاکنون در حال وقوع است.
-‏
-‏@MilitarryWorld | Parsa
-01:32
-1405/04/17
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- Explosions heard in Bandar Abbas, southern Iran.
-01:31
 1405/04/17
 
 
@@ -6112,19 +6112,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 16:45
-1405/04/16
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇹🇷 President Trump says the United States will remove sanctions on Turkey.
-‏
-‏"We don't sanction friends."
-‏
-‏@BRICSNews
-16:43
 1405/04/16
 
 
