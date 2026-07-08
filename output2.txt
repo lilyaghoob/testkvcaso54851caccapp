@@ -1,3 +1,75 @@
+src :@World_Newsly
+[عکس]
+‏🔴تصویری از اجلاس ناتو در آنکارا
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+08:55
+1405/04/17
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇧🇭🇺🇸 — Iranian Army Public Relations:
+‏Following the US aggression on military and civilian areas in southern Iran and its violation of the 14-point memorandum of understanding, attack drones of the Islamic Republic of Iran Army have since dawn today targeted concentrations of hostile US forces at Sheikh Isa Air Base in Bahrain.
+08:54
+1405/04/17
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇧🇭 — Islamic Republic of Iran Army announces conducting a UAV attack targeting U.S. forces stationed at Sheikh Isa Air Base, southern Bahrain.
+08:54
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏‏🔴  انفجارهای شدیدی در منطقه بندری کویت
+‏‎
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+08:53
+1405/04/17
+
+
+
+
+src :@mwarmonitor
+‏🔴انور قرقاش:
+‏
+‏«حملات ایران به نفتکش‌های تجاری قطر و عربستان در تنگه هرمز، و همچنین تجاوزهای مکرر به دو کشور برادر، بحرین و کویت، نشان می‌دهد که تهران همچنان از پایبندی به الزامات کاهش تنش و پایان دادن به جنگ ناتوان است.
+‏
+‏کشورهای عربی حاشیه خلیج فارس نمی‌توانند همچنان قربانی نوسان ایران میان سیاست تشدید تنش و مسیر عقلانیت، ثبات و صلح باشند.»
+‏
+‏@mwarmonitor
+08:53
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴 حمله ارتش به پایگاه‌های آمریکا در  بحرین
+‏
+‏روابط عمومی ارتش جمهوری اسلامی ایران:
+‏
+‏به دنبال تهاجم خصمانه دشمن آمریکایی به مناطق نظامی و غیرنظامی در جنوب کشور و نقض مفاد ۱۴ بندی تفاهم‌نامه، پهپادهای هجومی ارتش جمهوری اسلامی ایران، از بامداد امروز، مراکز تجمع نیروهای متخاصم آمریکا در پایگاه شیخ عیسی مستقر در بحرین را مورد حمله قرار دادند.
+‏
+‏عواقب نقض و شکستن آشکار و مکرر آتش‌بس با آمریکای جنایتکار است و تمام پایگاه‌های آمریکا در منطقه هدف مشروع پهپادهای ارتش خواهند بود.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+08:53
+1405/04/17
+
+
+
+
 src :@mwarmonitor
 ‏🚨وزارت کشور بحرین: آژیرهای هشدار به صدا درآمده‌اند و از همه شهروندان و ساکنان خواسته می‌شود فوراً به نزدیک‌ترین مکان امن پناه ببرند.  @mwarmonitor
 08:52
@@ -666,26 +738,6 @@ src :@GeoPWatch
 
 
 
-src :@World_Newsly
-‏🚨🚨🚨🚨🚨🚨 💥اوه اوه امشب واقعا سنگین زدن 😐 ✍🏻 Nadershah ▪️@World_Newsly
-07:38
-1405/04/17
-
-
-
-
-src :@World_Newsly
-‏🔴 وال استریت ژورنال، به نقل از یک مقام آمریکایی: 
-‏ما مذاکرات خود با ایران را ادامه خواهیم داد
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-07:38
-1405/04/17
-
-
-
-
 src :@GeoPWatch
 ‏⚡️- There is intense fighter jet activity occurring in the airspace between Saudi Arabia and Bahrain.
 07:38
@@ -754,18 +806,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 07:24
-1405/04/17
-
-
-
-
-src :@World_Newsly
-‏🔴سپاه پاسداران اعلام کرده است که ایالات متحده به بندرماهشهر، یک شهر ساحلی واقع در شمال تنگه هرمز و نزدیک مرز عراق، حمله کرده است. این حمله، از نظر وسعت، بسیار فراتر از تمام حملات قبلی انجام شده توسط آمریکا در این دور است
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-07:23
 1405/04/17
 
 
@@ -1381,14 +1421,6 @@ src :@wfwitness
 
 
 
-src :@intelslava
-‏🇮🇷❌🇺🇸 — BREAKING: The IRGC has launched four ballistic missiles from Fars Province.
-06:39
-1405/04/17
-
-
-
-
 src :@cataphract1
 ‏⭕️سخنگوی سپاه مدعی شد: یک پهپاد آمریکایی از نوع MQ-9 را در آسمان بوشهر سرنگون کردیم.
 ‏
@@ -1950,14 +1982,6 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸🇸🇦⚡️ — The U.S. Navy has suspended the active search for a sailor assigned to Helicopter Sea Combat Squadron (HSC) 5 aboard the USS George H.W. Bush (CVN 77) after an MH-60S Seahawk crashed into the Arabian Sea on July 1.  ➡️ The search ended at 3:00 p.m.…
 05:59
-1405/04/17
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — Sirens in Bahrain.
-05:58
 1405/04/17
 
 
@@ -4282,26 +4306,6 @@ src :@didarnews1
 
 
 src :@Shin_Persian
-‏↩️ Quoted tweet:
-‏Ali @Alirdg2
-‏Tue, 07 Jul 2026 21:26:11 UTC
-‏
-‏@hey_itsmyturn Can’t see shit nigga u blurred it
-‏
-‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏@hey_itsmyturn هیچی دیده نمیشه پسر، همه‌چیز رو تار کردی
-‏
-‏𝕏  ·  @shin_persian
-01:02
-1405/04/17
-
-
-
-
-src :@Shin_Persian
 ‏↩️ Quoted tweet: Ali  @Alirdg2 Tue, 07 Jul 2026 21:26:11 UTC  @hey_itsmyturn Can’t see shit nigga u blurred it  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  ترجمه خودکار فارسی  @hey_itsmyturn هیچی دیده نمیشه پسر، همه‌چیز رو تار کردی  𝕏  ·  @shin_persian
 01:02
 1405/04/17
@@ -4319,28 +4323,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 01:02
-1405/04/17
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏Tue, 07 Jul 2026 21:31:13 UTC
-‏
-‏Sirik, IRGC speedboats were targeted 
-‏Hormozgan Province, Iran 
-‏(Image: @IliaHashemicom)
-‏
-‏ترجمه خودکار فارسی
-‏
-‏سیریک، قایق‌های تندرو سپاه پاسداران انقلاب اسلامی هدف قرار گرفتند
-‏استان هرمزگان، ایران
-‏(تصویر: @IliaHashemicom)
-‏
-‏𝕏  ·  @shin_persian
-01:01
 1405/04/17
 
 
