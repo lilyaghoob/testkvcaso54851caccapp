@@ -1,3 +1,77 @@
+src :@GeoPWatch
+‏🇮🇷❌🇧🇭- More explosions rock Bahrain. (Air defences most likely)
+05:27
+1405/04/17
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷/🇧🇭 NEW: Explosions have been heard in Bahrain  @Middle_East_Spectator
+05:27
+1405/04/17
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇱🇧 U.S. President Trump has invited Lebanese President Aoun to visit the White House on July 21.  
+‏
+‏@wfwitness
+05:26
+1405/04/17
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- "U.S. Central Command (CENTCOM) forces completed a new round of offensive strikes against Iran, July 7, hitting over 80 targets with precision munitions as an immediate response to Iran's latest attacks on commercial vessels transiting the Strait of…
+05:24
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴اکسیوس: 
+‏
+‏جمهوری اسلامی ایران، پهپادهایی را به سمت بحرین پرتاب کرد
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+05:24
+1405/04/17
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡️- The Michigan Senate Democratic Primary debate was held tonight between DSA aligned Abdul El-Sayed and Democrat Haley Stevens.
+‏
+‏Focus groups and initial respondents showed that El-Sayed edged out slightly ahead in his debate performance against Stevens.
+05:24
+1405/04/17
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇧🇭🇺🇸 — BREAKING: Explosions have been heard in Bahrain.
+05:23
+1405/04/17
+
+
+
+
+src :@wfwitness
+‏⚡️🇧🇭🇮🇷 Explosions were heard in Bahrain a short while ago.  No sirens or alerts were activated however. Cause currently unclear.   @wfwitness
+05:22
+1405/04/17
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US military completes new round of attacks, striking 80 targets in Iran including air defenses, radar sites, missile systems, and IRGC boats.
 ‏
@@ -59,7 +133,7 @@ src :@GeoPWatch
 src :@naya_foriraq
 ‏تنويه هام
 ‏
-‏تؤكد اللجنة المنظمة لمراسم التشييع أن التشييع الشعبي في محافظة النجف الأشرف سيبدأ عند الساعة السادسة صباحاً، انطلاقاً من مجسّر مستشفى الصدر باتجاه ساحة الصدرين.
+‏🇮🇶🇮🇷هيئة الحشد الشعبي: تؤكد اللجنة المنظمة لمراسم التشييع أن التشييع الشعبي في محافظة النجف الأشرف سيبدأ عند الساعة السادسة صباحاً، انطلاقاً من مجسّر مستشفى الصدر باتجاه ساحة الصدرين.
 ‏
 ‏وعليه، فإن ما يُتداول حالياً عبر مواقع التواصل الاجتماعي بشأن انتهاء مراسم التشييع أو اختتامها لا أساس له من الصحة، إذ إن التشييع لم يبدأ بعد، وسيُقام وفق التوقيت والمسار المعلنين.
 ‏
@@ -1087,17 +1161,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏دو صدای انفجار در شهر خورموج استان بوشهر
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-03:47
-1405/04/17
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏🇮🇶🇮🇷أهكذا يصنع العشق بأهله؟ مواطنون عراقيون يفترشون طرقات محافظة النجف الأشرف انتظارًا لموكب تشييع السيد علي الخامنئي.
@@ -1174,26 +1237,8 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Explosions reported on Kharg Island, Iran.
-03:38
-1405/04/17
-
-
-
-
 src :@GeoPWatch
 ‏⚡️🇺🇸❌🇮🇷 - Explosions on Iran's Kharg Island!
-03:37
-1405/04/17
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 NEW: Renewed explosions in Qeshm Island
-‏
-‏@Middle_East_Spectator
 03:37
 1405/04/17
 
@@ -1683,14 +1728,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 02:40
-1405/04/17
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇮🇱❌🇱🇧 - IAF Fighter Jet airborne in low altitudes over Lebanon's 'Beirut' shores.
-02:39
 1405/04/17
 
 
