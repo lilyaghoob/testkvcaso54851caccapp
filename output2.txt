@@ -1,3 +1,137 @@
+src :@GeoPWatch
+‏Iranshahr
+01:42
+1405/04/18
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 فرودگاه ایرانشهر در استان سیستان و بلوچستان هدف حملات هوایی قرار گرفت 
+‏
+‏@RASTAKHIZ_PERSIAN
+01:42
+1405/04/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇷🇺🇺🇦 A large convoy of Russian tankers could be seen leaving the Kerch anchor area today.
+‏
+‏24 individual ships were in the process of crossing the fortified Crimean bridge. They are now lilely in the Black Sea. Their destination is unclear: the Mediterranean, Novorossirsk or somewhere else.
+‏
+‏Following two nights of Ukrainian drone attacks which hit nearly 20 vessels, the remaining ones are fleeing an imminent third attack. 
+‏
+‏20 ships can be seen still anchored, some of them were likely already hit and unable to leave. Another tanker can be seen burning.
+‏
+‏@wfwitness
+01:41
+1405/04/18
+
+
+
+
+src :@World_Newsly
+‏🔴دو انفجار جدید در بوشهر
+‏
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+01:41
+1405/04/18
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏#بدون_شرح
+‏
+‏@P_raetorio
+01:41
+1405/04/18
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏رسانه‌های ایران گزارش دادند هم‌زمان با اصابت دو پرتابه به جزیره بوموسی و دو پرتابه دیگر به بندر سیریک در شرق استان هرمزگان، صداهایی از فاصله دور و از سمت دریا در بندر لنگه شنیده شده است.
+‏
+‏بر اساس این گزارش‌ها، تاکنون گزارشی از وقوع انفجار در بندر لنگه منتشر نشده و جزئیات بیشتری درباره محل دقیق اصابت‌ها و خسارت‌های احتمالی اعلام نشده است. مقام‌های آمریکایی نیز تاکنون درباره این گزارش‌ها اظهارنظر نکرده‌اند.
+‏https://iranintl.com/202607085235
+01:41
+1405/04/18
+
+
+
+
+src :@defence_news
+‏فارس: منابع محلی از انفجار در ساختمان و باند پرواز فرودگاه ایرانشهر حکایت می‌کنند و هم اکنون دود در آسمان مشاهده می‌شود
+01:41
+1405/04/18
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴ترامپ عکسی را از حسابی در ایکس بازنشر کرد که ادعا می‌کرد این تصویر حملات امشب آمریکا به ایران را نشان می‌دهد.
+‏
+‏با این حال، این تصویر مربوط به حملات امروز نیست.
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+01:39
+1405/04/18
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏گزارش‌ها از هدف قرار گرفتن ایرانشهر استان سیستان و بلوچستان  @P_raetorio
+01:39
+1405/04/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump reposted a photo from an X account that claimed it showed tonight's U.S. strikes on Iran. 
+‏
+‏However, the image is not from today's strikes.
+01:38
+1405/04/18
+
+
+
+
+src :@GeoPWatch
+‏#NEW 
+‏⚡️🇺🇸❌🇮🇷 - Renewed explosions in Iran's Bushehr and Iranshahr.
+01:38
+1405/04/18
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 فرودگاه ایرانشهر
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+01:37
+1405/04/18
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏Wed, 08 Jul 2026 22:07:28 UTC
@@ -941,18 +1075,6 @@ src :@rnintel
 
 
 
-src :@World_Newsly
-‏🔴پرواز سوخت رسان های آمریکایی از فرودگاه بن گریون به سمت مرز های غربی ایران
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-01:10
-1405/04/18
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 صادق هدایت: زبان فارسی اگر هیچ نداشته باشد فحش آبدار زیاد دارد…
 ‏فحش یکی از اصول ایجاد تعادل در آدمیزاد است، اگر فحش نباشد آدم دق می‌کند…
@@ -986,17 +1108,6 @@ src :@Shin_Persian
 
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — No strikes on Tabriz or Tehran have been reported as of now despite circulating reports.
-01:09
-1405/04/18
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴پست جدیدِ ترامپ در مورد حملات امشب امریکا به ایران 
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
 01:09
 1405/04/18
 
@@ -1987,15 +2098,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-[عکس]
-‏قسماً بدماء الشهداء سيكون الرد مزلزل الليلة
-00:49
-1405/04/18
-
-
-
-
 src :@BellumActaNews
 ‏🇮🇶🛢🔒 — Hussain Talib, the director General of the Petroleum Products Distribution Company of Iraq has been arrested by Iraqi Special Forces
 ‏➖➖➖➖➖➖➖➖
@@ -2129,17 +2231,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏#خبر
 ‏
 ‏@RASTAKHIZ_PERSIAN
-00:45
-1405/04/18
-
-
-
-
-src :@P_raetorio
-[ویدئو]
-‏لحظه حمله به هدفی در بندر چابهار 
-‏
-‏@P_raetorio
 00:45
 1405/04/18
 
@@ -2383,19 +2474,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@P_raetorio
-[عکس]
-‏برج دریایی اسکله شهید بهشتی
-‏
-‏#خبر
-‏
-‏@RASTAKHIZ_PERSIAN
-00:37
-1405/04/18
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸Reports of power being restored to Bandar Abbas after a U.S. airstrike. 
 ‏
@@ -2431,14 +2509,6 @@ src :@MilitarryWorld
 
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — Another 5x explosions have been reported at Sirik Pier, Iran.
-00:36
-1405/04/18
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Renewed explosions in Sirik!
 00:36
 1405/04/18
 
@@ -2505,14 +2575,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@GeoPWatch
-‏⚡️🇺🇸❌🇮🇷 - Power outages reported in Chabahar.
-00:34
-1405/04/18
-
-
-
-
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — Several explosions were heard in the port of Jask, southern Iran.
 00:34
@@ -2526,14 +2588,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 00:34
-1405/04/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 IRIB: Explosions heard in Abu Musa island.  @wfwitness
-00:33
 1405/04/18
 
 
@@ -4368,27 +4422,6 @@ src :@defence_news
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻فیفا اعلام کرد جاستین بیبر همراه با مدونا، شکیرا و BTS در نخستین اجرای بین دو نیمه فینال جام جهانی ۲۰۲۶ حضور خواهد داشت؛ برنامه‌ای که برخی از بزرگ‌ترین هنرمندان جهان را در نقطه تلاقی فوتبال، موسیقی و فعالیت‌های اجتماعی گرد هم می‌آورد.
-‏
-‏🔹برنا بوی، که ترانه مشترکش با شکیرا با عنوان «Dai Dai» همچنان در صدر جدول‌های موسیقی جهان قرار دارد، نیز در این برنامه ۱۱ دقیقه‌ای اجرا خواهد کرد. 
-‏
-‏🔹گوستاوو دودامل، رهبر ارکستر ونزوئلایی و مدیر هنری فیلارمونیک نیویورک، و گروه کر PS22 با همراهی کلدپلی نیز در این اجرا حضور خواهند داشت.
-‏
-‏🔹جیانی اینفانتینو، رییس فیفا، گفت: «خوشحالیم که جاستین بیبر در کنار مدونا، شکیرا و BTS در اجرای بین دو نیمه فینال جام جهانی ۲۰۲۶ حضور دارد تا از صندوق آموزش فیفا و گلوبال سیتیزن و ماموریت ما برای گسترش دسترسی کودکان به آموزش باکیفیت و فرصت‌های فوتبالی حمایت کند.»
-‏
-‏🔹جاستین بیبر گفت: «جام جهانی مردم سراسر جهان را به شکلی کنار هم می‌آورد که هیچ رویداد دیگری قادر به انجام آن نیست. خوشحالم که بخشی از این اجرا هستم.»
-‏
-‏🔹جزییات بیشتر را در سایت بخوانید.
-‏
-‏@iranintltvsport
-23:36
-1405/04/17
-
-
-
-
 src :@defence_news
 ‏حملات به جزیره قشم و بندر چابهار نیز گزارش شده است ، هنوز تصاویری در این خصوص در دسترس نیست 
 ‏
@@ -4602,16 +4635,6 @@ src :@jangaavaran1390
 
 
 
-src :@defence_news
-‏صدای انفجارها در سیریک نیز شنیده شده است 
-‏
-‏@Minas_Tirith2024
-23:20
-1405/04/17
-
-
-
-
 src :@jangaavaran1390
 ‏رسانه های داخلی از شنیده شدن صدای انفجار در بنادر جنوب می‌گویند
 23:20
@@ -4819,19 +4842,6 @@ src :@KayhanLondonChannel
 ‏
 ‏هر سکه کامل طلا نیز ۱۸۱ میلیون تومان قیمت‌گذاری شد و قیمت هر گرم طلای ۱۸ عیار ۱۷ میلیون و ۸۹۱ هزار تومان اعلام شد.
 22:41
-1405/04/17
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Türkiye Seeks Immediate Delivery of Six F-35 Jets If Trump Lifts Ban
-‏
-‏Türkiye is moving to secure the immediate delivery of six US-stored F-35 fighter jets if President Trump formally lifts a long-standing defense embargo.
-‏
-‏READ MORE
-22:40
 1405/04/17
 
 
