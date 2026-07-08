@@ -1,5 +1,48 @@
+src :@defence_news
+[عکس]
+03:12
+1405/04/18
+
+
+
+
+src :@World_Newsly
+‏🔴 این ریل لجستیکی و بسیار مهم برای ایران و روسیه بود که از طریق ترکمنستان به یکدیگر متصل بودند
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+03:10
+1405/04/18
+
+
+
+
+src :@intelslava
+‏🇮🇱❌🇮🇷 — Another angle is that this train may have been carrying military equipment and components from China, serving as a logistical hub for the IRGC, and was potentially targeted to disrupt this supply chain.
+‏
+‏@IntelSlava
+‏@LeonovZ
+03:10
+1405/04/18
+
+
+
+
+src :@defence_news
+‏پل آق تکه خان در مسیر راه آهن اینچه برون به ترکمنستان در محدوده غربی شهر آق قلا در استان گلستان مورد حمله قرار گرفته است .
+‏
+‏این مسیر ریلی در محاصره دریایی اخیر نقش مهمی برای کشور داشته است .
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+03:09
+1405/04/18
+
+
+
+
 src :@guard_warriors
 ‏صدای چند انفجار در آق‌قلا، استان گلستان
+‏( پل راه آهن رو زدن)
 ‏
 ‏@Guard_Warriors
 03:06
@@ -184,7 +227,9 @@ src :@Shin_Persian
 
 src :@tabzlive
 [عکس]
-‏🇮🇷⚡️ — A railway bridge along the Gorgan railway line in Iran's Golestan province was struck by a missile.
+‏🇮🇷⚡️ — A railway bridge along the Gorgan railway line near Aq Qala in Iran's Golestan province was destroyed.
+‏
+‏➡️ Internal saboteurs could be behind this attack.
 02:54
 1405/04/18
 
@@ -334,7 +379,7 @@ src :@GeoPWatch
 
 src :@tabzlive
 [عکس]
-‏🇺🇸❌🇮🇷 — An explosion has been reported in Golestan province, a region bordering Turkmenistan, according to local sources.
+‏🇮🇷⚡️ — An explosion has been reported in Golestan province, a region bordering Turkmenistan, according to local sources.
 02:41
 1405/04/18
 
@@ -342,7 +387,7 @@ src :@tabzlive
 
 
 src :@tabzlive
-‏🇺🇸❌🇮🇷 — An explosion has been reported in Golestan province, a region bordering Turkmenistan, according to local sources.
+‏🇮🇷⚡️ — An explosion has been reported in Golestan province, a region bordering Turkmenistan, according to local sources.
 02:40
 1405/04/18
 
@@ -791,14 +836,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏ترامب: لسنا بحاجة إلى مساعدة بشأن إيران
-02:07
-1405/04/18
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️-   "Every time they hit us we're going to hit them twenty. When we hit we hit back much harder." - President Trump
 02:05
@@ -1074,21 +1111,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 کشورهایی که با بسته بودن تنگه هرمز بیشترین ضرر مالی را داشتند.
-‏
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-01:50
-1405/04/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️فرماندهی مرکزی ایالات متحده، سنتکام، شامگاه چهارشنبه ۱۷ تیرماه اعلام کرد به دستور فرمانده کل قوا، ارتش آمریکا حملات بیشتری را علیه ایران آغاز کرده‌ تا توانایی این کشور برای تهدید آزادی کشتیرانی در تنگه هرمز را بیش از پیش تضعیف کند.
@@ -1098,15 +1120,6 @@ src :@Indypersian
 ‏رسانه‌های ایران از حملات گسترده ارتش آمریکا به شهرها و بنادر ساحل جنوبی ایران در استان‌های بوشهر، هرمزگان و سیستان و بلوچستان خبر می‌دهند.
 ‏ 
 ‏@indypersian
-01:49
-1405/04/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump announces the VC-25B Bridge interim presidential aircraft will be sent to RAF Mildenhall, United Kingdom to allow U.S. servicemen present at the base to tour the aircraft. The VC-25A will be used to transport Trump from the NATO Summit…
 01:49
 1405/04/18
 
@@ -1140,14 +1153,6 @@ src :@cataphract1
 src :@mwarmonitor
 [عکس]
 ‏🔴 هم‌اکنون ۷ فروند هواپیمای سوخت‌رسان KC-135R و KC-46A نیروی هوایی آمریکا بر فراز خلیج فارس و دریای عمان در حال عملیات هستند.  ✈️هم‌زمان، یک فروند هواپیمای هشدار زودهنگام و کنترل هوابرد E-3G Sentry (آواکس) نیروی هوایی آمریکا از پایگاه هوایی پرینس سلطان (PSAB)…
-01:45
-1405/04/18
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — WATCH: Footage shows the moment a U.S. strike targeted Chabahar.
 01:45
 1405/04/18
 
@@ -1221,18 +1226,6 @@ src :@P_raetorio
 ‏#بدون_شرح
 ‏
 ‏@P_raetorio
-01:41
-1405/04/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏رسانه‌های ایران گزارش دادند هم‌زمان با اصابت دو پرتابه به جزیره بوموسی و دو پرتابه دیگر به بندر سیریک در شرق استان هرمزگان، صداهایی از فاصله دور و از سمت دریا در بندر لنگه شنیده شده است.
-‏
-‏بر اساس این گزارش‌ها، تاکنون گزارشی از وقوع انفجار در بندر لنگه منتشر نشده و جزئیات بیشتری درباره محل دقیق اصابت‌ها و خسارت‌های احتمالی اعلام نشده است. مقام‌های آمریکایی نیز تاکنون درباره این گزارش‌ها اظهارنظر نکرده‌اند.
-‏https://iranintl.com/202607085235
 01:41
 1405/04/18
 
@@ -2475,15 +2468,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:56
-1405/04/18
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇮🇷❌🇺🇸 — Brigadier General Mohsen Rezaei, member of Iran's Expediency Discernment Council, has vowed that "the enemy will be severely punished."
-00:55
 1405/04/18
 
 
@@ -4276,18 +4260,6 @@ src :@tglobaleye
 
 
 
-src :@defence_news
-‏الحدث به نقل از یک رسانه اسرائیلی مدعی شد: 
-‏
-‏واشنگتن از قبل به تل‌آویو اطلاع داده بود که امشب حملات شدیدی علیه ایران انجام خواهد داد
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-23:40
-1405/04/17
-
-
-
-
 src :@mohem_mat
 ‏گزارش‌ها از چندین انفجار شدید در کنارک و چابهار خبر می‌دهند 
 ‏
@@ -4322,26 +4294,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 23:39
-1405/04/17
-
-
-
-
-src :@defence_news
-‏مهر: درگیری پدافند برای مقابله با اهداف متخاصم در اطراف بندرعباس
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-23:36
-1405/04/17
-
-
-
-
-src :@defence_news
-‏حملات به جزیره قشم و بندر چابهار نیز گزارش شده است ، هنوز تصاویری در این خصوص در دسترس نیست 
-‏
-‏@Minas_Tirith2024
-23:36
 1405/04/17
 
 
