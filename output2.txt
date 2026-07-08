@@ -1,3 +1,69 @@
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇺🇸/🇮🇷 NEW: Iranian state media, Fars News Agency, confirms the report, citing Middle East Spectator
+‏
+‏After follow up, we can confirm at least half a dozen anti-ship missiles and drones were launched towards targets in the Persian Gulf waters.
+‏
+‏@Middle_East_Spectator
+04:32
+1405/04/17
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — Unconfirmed reports of an explosion sound heard in Ahvaz, Iran.
+04:31
+1405/04/17
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸❌🇮🇷 — Several people were injured after being hit by shrapnel from projectiles at the commercial pier in Sirik County and were transferred to the Minab Hospital, IRIB reports.
+04:31
+1405/04/17
+
+
+
+
+src :@tabzlive
+‏🇺🇸⚡️ — U.S. Air Force aerial refueling aircrafts near the Strait of Hormuz are now disabling transponders.
+04:30
+1405/04/17
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️تیم ملی فوتبال آرژانتین در دیداری تماشایی و با یک بازگشت رویایی، در حالی که تا دقیقه ۷۹ با نتیجه ۲ بر صفر از مصر عقب بود، با درخشش لیونل مسی موفق شد ۳ بر ۲ به پیروزی برسد و راهی مرحله یک‌چهارم نهایی جام جهانی ۲۰۲۶ شود. در این مسابقه، مسی در سن ۳۹ سالگی و در ششمین جام جهانی خود، بار دیگر تاریخ‌سازی کرد. او با ارسال پاس گل نخست برای کریستین رومرو، تعداد پاس‌گل‌های خود در تاریخ جام جهانی را به عدد ۹ رساند و با عبور از دیگو مارادونا، به‌تنهایی رکورددار بیشترین پاس گل در تاریخ این رقابت‌ها شد. ستاره آرژانتینی سپس در دقیقه ۸۳ با یک شوت والی تماشایی گل تساوی را به ثمر رساند تا انزو فرناندز در وقت‌های تلف‌شده کامبک آلبی‌سلسته را کامل کند.
+‏مسی با این گل، شمار گل‌های خود در جام جهانی ۲۰۲۶ را به عدد ۸ رساند و با عبور از کیلیان امباپه و ارلینگ هالند، در صدر جدول گلزنان این دوره قرار گرفت. 
+‏@indypersian
+04:30
+1405/04/17
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇺🇸 — BREAKING: Preliminary reports indicate Iran has launched retaliatory strikes against US targets.
+04:29
+1405/04/17
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸❌🇮🇷 — Current scenes from Bandar Abbas port, southern Iran.
+04:27
+1405/04/17
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴حضور یک سوخت رسان ایرباس A330 اماراتی 
@@ -1088,14 +1154,6 @@ src :@Indypersian
 
 
 
-src :@intelslava
-‏🇺🇸❌🇮🇷 — Loud jet aircraft are reported over Abadan, Iran, with sonic booms heard.
-03:07
-1405/04/17
-
-
-
-
 src :@mwarmonitor
 ‏🔴 یک مقام آمریکایی اعلام کرد که دونالد ترامپ طرح حمله به ایران را تأیید کرده و امروز، در جریان حضورش در ترکیه برای نشست ناتو، دستور اجرای آن را صادر کرده است.
 ‏
@@ -1105,14 +1163,6 @@ src :@mwarmonitor
 ‏
 ‏
 ‏@mwarmonitor
-03:07
-1405/04/17
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷  — An explosion sound has been reported near Ahvaz, Iran.
 03:07
 1405/04/17
 
@@ -1584,14 +1634,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Two additional explosions were heard at the pier in the village of Ziyarat, Sirik County, southern Iran, according to IRIB.
-02:29
-1405/04/17
-
-
-
-
 src :@Indypersian
 ‏⭕️انتقال نفت بدون تنگه هرمز؛ عربستان سعودی در حال بررسی افزایش ظرفیت خط لوله نفت به دریای سرخ است
 ‏
@@ -1763,17 +1805,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@tabzlive
-‏🇰🇼⚡️ — Kuwait’s Ministry of Electricity, Water and Renewable Energy: 
-‏Several electricity transmission lines have gone out of service, causing power outages in multiple areas across the country.
-‏
-‏Emergency teams have activated the national response plan and are working to determine the cause of the disruption and restore electricity as quickly as possible.
-02:19
-1405/04/17
-
-
-
-
 src :@wfwitness
 ‏⚡️🇰🇼🇧🇭 Unconfirmed power outages have affected large parts of Kuwait and Bahrain.  @wfwitness
 02:18
@@ -1858,14 +1889,6 @@ src :@IranintlTV
 [عکس]
 ‏آکسیوس به نقل از یک مقام آمریکایی گزارش داد حملات جدید آمریکا به جمهوری اسلامی از نظر گستره و قدرت، چهار تا پنج برابر بزرگ‌تر از حملات قبلی در تنگه هرمز طی ۱۰ روز پیش بوده است.
 ‏https://iranintl.com/202607078230
-02:16
-1405/04/17
-
-
-
-
-src :@tabzlive
-‏🇧🇭⚡️ — Power outages are being reported in Bahrain.
 02:16
 1405/04/17
 
@@ -2181,19 +2204,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 02:02
-1405/04/17
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇧🇭 NEW: Full power outage in many areas of Bahrain
-‏
-‏Confirmed by a Bahraini friend of the channel.
-‏
-‏@Middle_East_Spectator
-02:00
 1405/04/17
 
 
@@ -3701,17 +3711,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:59
-1405/04/17
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️فرماندهی مرکزی ایالات متحده (سنتکام)، بامداد چهارشنبه، ۱۷ تیرماه، با انتشار بیانیه‌ای اکس، از آغاز عملیات نظامی علیه اهدافی در ایران خبر داد و اعلام کرد: «نیروهای فرماندهی مرکزی آمریکا سلسله حملات قدرتمندی را علیه ایران آغاز کرده‌اند تا هزینه‌های سنگینی را به دلیل هدف قرار دادن و حمله به کشتی‌های تجاری با خدمه غیرنظامی و بی‌گناه در یک آبراه بین‌المللی تحمیل کنند؛ این حملات ایالات متحده در پاسخ به حملات ایران به سه کشتی تجاری در حال عبور از تنگه هرمز صورت می‌گیرد و تجاوزگری آشکار ایران، غیرموجه، خطرناک و نقض صریح آتش‌بس است.»
-‏همزمان، صداوسیما در نخستین ساعت بامداد چهارشنبه از شنیده‌شدن صدای چندین انفجار در سیریک، قشم و بندرعباس خبر داد.
-‏@indypersian
-00:58
 1405/04/17
 
 
