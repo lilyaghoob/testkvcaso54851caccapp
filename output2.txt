@@ -1,14 +1,102 @@
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇰🇼 — Sirens in Kuwait.
-06:47
+src :@GeoPWatch
+‏🇮🇷❌🇧🇭- Another attack on Bahrain
+06:52
+1405/04/17
+
+
+
+
+src :@naya_foriraq
+‏الانفجارات في البحرين لاتتوقف
+06:51
+1405/04/17
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷🇧🇭⚡️- Repeated interceptions and explosions in the skies of Bahrain.
+06:51
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴دفعات متعدد از رهگیری و انفجار در آسمان بحرین   ✍🏻 Nadershah ▪️@World_Newsly
+06:50
+1405/04/17
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇧🇭- Another attack on Bahrain
+06:50
 1405/04/17
 
 
 
 
 src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — Three ballistic missiles were launched from Fars Province, Iran, likely towards Bahrain. A separate video shown to me shows three interceptions in the skies of Bahrain.
+‏🇮🇷❌🇺🇸🇧🇭 — Large explosion in Bahrain now.
+06:50
+1405/04/17
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ارتش کویت بامداد چهارشنبه اعلام کرد سامانه‌های پدافند هوایی این کشور در حال مقابله با «تهدید موشک‌ها و پهپادهای متخاصم» هستند و از شهروندان خواست دستورالعمل‌های ایمنی را رعایت کنند.
+‏ارتش همچنین هشدار داد که ممکن است هم‌زمان با رهگیری این حملات توسط سامانه‌های پدافند هوایی، صدای انفجار در برخی مناطق شنیده شود.
+‏سپاه پاسداران پیش‌تر نیز پایگاه‌های نظامی آمریکا در کویت، از جمله پایگاه هوایی علی السالم، کمپ عریفجان و کمپ بوهرینگ را هدف قرار داده بود.
+‏
+‏@IndyPersian
+06:49
+1405/04/17
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇧🇭🇮🇷 Interceptions over Bahrain.  @wfwitness
+06:49
+1405/04/17
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇦🇪📢 ISR drone telemetry heard over Dubai.
+06:48
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴دفعات متعدد از رهگیری و انفجار در آسمان بحرین
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
 06:47
+1405/04/17
+
+
+
+
+src :@World_Newsly
+‏🔴ارتش کویت: پدافند هوایی ما با یک حمله موشکی و پهپادی مقابله کرد
+‏
+‏▪️ ارتش کویت از مقابله سامانه پدافندی این کشور برای مقابله با حملات موشکی و پهپادی خبر داد. 
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+06:46
 1405/04/17
 
 
@@ -1430,22 +1518,6 @@ src :@Indypersian
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭- Explosions in Bahrain.
-05:34
-1405/04/17
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭- Explosions in Bahrain.
-05:33
-1405/04/17
-
-
-
-
 src :@World_Newsly
 ‏🔴ارتش ایران تعدادی پهپاد به سمت بحرین پرتاب کرد؛ تمام آن‌ها قبل از ایجاد هرگونه تهدیدی، مورد رهگیری قرار گرفتند و آژیر خطر به صدا در نیامد.
 ‏
@@ -1647,18 +1719,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴برخی منابع رسانه‌ای و  غیر رسمی از شنیده شدن صدای انفجارهایی در  پایگاه هوایی عیسی و ناوگان پنجم آمریکا در بحرین گزارش می دهند
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-05:05
-1405/04/17
-
-
-
-
 src :@intelslava
 ‏🇮🇷❌🇧🇭🇺🇸 — Further explosions reported in Bahrain.
 05:04
@@ -1683,13 +1743,9 @@ src :@intelslava
 
 
 
-src :@World_Newsly
-‏🔴بحرین صدای انفجار 
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-04:59
+src :@tabzlive
+‏🇮🇷❌🇧🇭🇺🇸 — BREAKING: Explosions have been heard in Bahrain.
+05:00
 1405/04/17
 
 
@@ -1719,19 +1775,6 @@ src :@Indypersian
 src :@rnintel
 ‏🇺🇸🇮🇳⚡️- "Today with our brilliant law enforcement partners across the country - as well as in Canada, Europe, India and Mexico - we arrested 24 subjects and charged 37 individuals connected to three India-based transnational organized crime groups, with charges including racketeering, extortion, narcotics trafficking, and multiple targeted killings - including even the 2023 assassination in Canada of a prominent Indian political and religious figure. " - Kash Patel, FBI Director.
 04:56
-1405/04/17
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴انهدام پدافند پایگاه هوایی بندرعباس توسط آمریکا
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-04:52
 1405/04/17
 
 
@@ -1874,14 +1917,6 @@ src :@Indypersian
 src :@intelslava
 ‏🇮🇷❌🇺🇸 — BREAKING: Preliminary reports indicate Iran has launched retaliatory strikes against US targets.
 04:29
-1405/04/17
-
-
-
-
-src :@intelslava
-‏https://t.me/LeonovZ/40
-04:26
 1405/04/17
 
 
@@ -2045,18 +2080,6 @@ src :@IranintlTV
 
 
 
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷 — Explosions heard in the port of Dayyer, Bushehr province.
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-04:00
-1405/04/17
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇦🇷🇺 Reports suggest that Saratov oil refinery has been targeted in Russia.  @wfwitness
@@ -2084,14 +2107,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 03:57
-1405/04/17
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- U.S. airstrikes against Sirik, southern Iran.
-03:51
 1405/04/17
 
 
@@ -2267,16 +2282,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇺🇦🇷🇺 Reports indicate explosions have been heard in the Russian city of Saratov, amid claims of an ongoing attack.  @wfwitness
 03:17
-1405/04/17
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇦🇷🇺 Reports indicate explosions have been heard in the Russian city of Saratov, amid claims of an ongoing attack.
-‏
-‏@wfwitness
-03:16
 1405/04/17
 
 
@@ -2540,17 +2545,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 02:40
-1405/04/17
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️تیم ملی فوتبال سوئیس با پیروزی در ضربات پنالتی مقابل کلمبیا، برای نخستین بار از سال ۱۹۵۴ به مرحله یک‌چهارم نهایی جام جهانی صعود کرد تا حریف نهایی آرژانتین و لیونل مسی در این مرحله شود. این دیدار نفس‌گیر در پایان ۹۰ دقیقه وقت قانونی و ۳۰ دقیقه وقت‌های اضافه با وجود موقعیت‌های جدی هر دو تیم، به‌ویژه کلمبیا، با تساوی بدون گل به پایان رسید تا کار به ضیافت پنالتی‌ها کشیده شود. داوینسون سانچز پنالتی دوم کلمبیا را به تیرک دروازه کوبید و در ادامه ضربه چوچو هرناندز توسط دروازه‌بان سوئیس مهار شد تا سرانجام با گل شدن پنالتی پنجم سوئیس توسط روبن وارگاس، این نبرد با برتری ۴ بر ۳ به سود سوئیسی‌ها خاتمه یابد. با این نتیجه تاریخی، سوئیس روز شنبه در کانزاس‌سیتی به مصاف آرژانتین خواهد رفت.
-‏
-‏@IndyPersian
-02:37
 1405/04/17
 
 
@@ -6198,17 +6192,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏این دومین حمله موشکی سپاه به کشتی ها عبوری در تنگه هرمز است
 17:11
-1405/04/16
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🛳️🇮🇷 — UKMTO reports that an unidentified projectile struck a tanker transiting the Strait of Hormuz, causing structural damage.
-‏
-‏@TheWarReporter
-17:06
 1405/04/16
 
 
