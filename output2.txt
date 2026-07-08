@@ -1,3 +1,55 @@
+src :@guard_warriors
+‏صدای چند انفجار در آق‌قلا، استان گلستان
+‏
+‏@Guard_Warriors
+03:06
+1405/04/18
+
+
+
+
+src :@naya_foriraq
+‏بدأ صلاة الجنازة على جثمان قائد الثورة الشهيد في حرم الامام ابي عبدالله الحسين بامامة الشيخ عبدالمهدي الكربلائي
+03:06
+1405/04/18
+
+
+
+
+src :@MilitarryWorld
+‏🔴فوری/ دقایقی پیش مردم آق‌قلا استان گلستان صدای چند انفجار از محدوده این شهر شنیدند  برخی منابع محلی از اصابت چندین پرتابه آمریکا به پل آق تکه خان در مسیر ریل قطار در محدوده غربی شهر آق قلا خبر می‌دهند.  @MilitarryWorld | Parsa
+03:06
+1405/04/18
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇮🇷⚡- An unidentified missile struck a railway line in the Golestan Province of the far northeast of Iran.
+03:05
+1405/04/18
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — The Gorgan railway line in Golestan province has been struck, monitoring channels report.
+03:05
+1405/04/18
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇺🇸/🇮🇷 NEW: At least two strikes took place in Golestan Province, northern Iran  Some say the strike came from Turkmenistan territory and targeted a logistics hub at a train station.  @Middle_East_Spectator
+03:03
+1405/04/18
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، همزمان با حملات آمریکا به اهدافی در جنوب ایران، در پیامی در شبکه اجتماعی ایکس نوشت: «دشمن متجاوز و هم‌دستانش به‌شدت تنبیه خواهند شد.»
@@ -132,7 +184,7 @@ src :@Shin_Persian
 
 src :@tabzlive
 [عکس]
-‏🇺🇸❌🇮🇷 — A railway bridge along the Gorgan railway line in Iran's Golestan province was struck by a missile.
+‏🇮🇷⚡️ — A railway bridge along the Gorgan railway line in Iran's Golestan province was struck by a missile.
 02:54
 1405/04/18
 
@@ -1037,14 +1089,6 @@ src :@World_Newsly
 
 
 
-src :@naya_foriraq
-‏محطة بوشهر
-01:50
-1405/04/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️فرماندهی مرکزی ایالات متحده، سنتکام، شامگاه چهارشنبه ۱۷ تیرماه اعلام کرد به دستور فرمانده کل قوا، ارتش آمریکا حملات بیشتری را علیه ایران آغاز کرده‌ تا توانایی این کشور برای تهدید آزادی کشتیرانی در تنگه هرمز را بیش از پیش تضعیف کند.
@@ -1096,15 +1140,6 @@ src :@cataphract1
 src :@mwarmonitor
 [عکس]
 ‏🔴 هم‌اکنون ۷ فروند هواپیمای سوخت‌رسان KC-135R و KC-46A نیروی هوایی آمریکا بر فراز خلیج فارس و دریای عمان در حال عملیات هستند.  ✈️هم‌زمان، یک فروند هواپیمای هشدار زودهنگام و کنترل هوابرد E-3G Sentry (آواکس) نیروی هوایی آمریکا از پایگاه هوایی پرینس سلطان (PSAB)…
-01:45
-1405/04/18
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏من العدوان الأمريكي الغاشم على مدينة ايرانشهر في محافظة بلوشستان جنوب شرق إيران
 01:45
 1405/04/18
 
@@ -1845,14 +1880,6 @@ src :@P_raetorio
 
 
 
-src :@Middle_East_Spectator
-‏Strikes have ended.
-01:11
-1405/04/18
-
-
-
-
 src :@P_raetorio
 ‏به گزارش العربیه ارتش بحرین نیز در حملات امشب مشارکت داشته است 
 ‏
@@ -1989,14 +2016,6 @@ src :@mwarmonitor
 ‏🚨ترامپ در شبکه تروث سوشال: «این اقدام در پاسخ به بمباران کشتی‌ها توسط ایران در روز گذشته انجام شد. اگر دوباره تکرار شود، پاسخ بسیار شدیدتر خواهد بود!»
 ‏
 ‏@mwarmonitor
-01:08
-1405/04/18
-
-
-
-
-src :@Middle_East_Spectator
-‏🇧🇭❌🇮🇷 — Al-Arabiya, citing a U.S. official, reports Bahrain participated in tonight's strikes against Iran.
 01:08
 1405/04/18
 
@@ -2402,14 +2421,6 @@ src :@cataphract1
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Attack on the city of Kangan, southern Iran.
 00:57
-1405/04/18
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- After a pause of 10 minutes, U.S. attacks have restarted. Several loud explosions reported in Bandar Kangan, southern Iran.
-00:56
 1405/04/18
 
 
@@ -2883,14 +2894,6 @@ src :@BellumActaNews
 
 
 
-src :@intelslava
-‏🇺🇸❌🇮🇷 — Fars News Agency confirms 3x US airstrikes targeted Bushehr.
-00:43
-1405/04/18
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴8 انفجار جدید در شهر بوشهر.
 ‏
@@ -3171,16 +3174,6 @@ src :@Minas_Tirith2024
 ‏ان شاء الله جنگ "تا رفع فتنه از عالم" ادامه دارد
 ‏
 ‏@Minas_Tirith2024
-00:31
-1405/04/18
-
-
-
-
-src :@MilitarryWorld
-‏🔴انفجار مجدد در جاسک هم اکنون
-‏
-‏@MilitarryWorld | Parsa
 00:31
 1405/04/18
 
