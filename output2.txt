@@ -1,3 +1,46 @@
+src :@MilitarryWorld
+‏🔴ترامپ: سوریه میتواند در موضوع حزب‌الله به ما کمک کند
+‏
+‏@MilitarryWorld | Parsa
+18:06
+1405/04/17
+
+
+
+
+src :@naya_foriraq
+‏ترامب: أعتقد أن إسرائيل ستنسحب من جنوب لبنان.
+18:06
+1405/04/17
+
+
+
+
+src :@naya_foriraq
+‏ترامب: أعتقد أن إسرائيل ستنسحب من جنوب لبنان.
+18:05
+1405/04/17
+
+
+
+
+src :@naya_foriraq
+‏🔻مصدر أمني لنايا في كربلاء المقدسة: تم توجيه سائقي النعش بالاسراع لتلافي حدوث خلل في وقت الاستقبال. 
+‏النعش الآن أمام عامود 808 بسرعة 60 كم
+18:04
+1405/04/17
+
+
+
+
+src :@Middle_East_Spectator
+‏Funeral crowds in Iraq are expected to reach a total count of 5-7 million.
+18:04
+1405/04/17
+
+
+
+
 src :@mohem_mat
 ‏‏ ترامپ
 ‏
@@ -1124,19 +1167,6 @@ src :@Parvazdaroj
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏President Zelenskyy and I just had a News Conference with the Fake News. It went very well. 
-‏
-‏Everybody is looking for a solution. Very positive!
-17:07
-1405/04/17
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says the US will strike Iran 'hard' tonight.
@@ -1659,15 +1689,6 @@ src :@defence_news
 ‏ایشان، در حملات بامداد گذشته دشمن آمریکایی به شهادت رسیدند. 
 ‏
 ‏@Navy_Iranian
-16:46
-1405/04/17
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏كربلاء المقدسة تترقب وصول النعش الطاهر الى موقع التشييع
 16:46
 1405/04/17
 
@@ -2689,16 +2710,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏🔴ضرغامی: سفیر ‎ترکیه را احضار کنید و به او هشدار دهید
-‏
-‏@MilitarryWorld | Parsa
-15:31
-1405/04/17
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‏ ‏ 
 ‏جمهوری اسلامی و «تفاهم‌»هایش در سی و ششمین نشست ناتو در آنکارا
@@ -2999,17 +3010,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🌐 @Factnameh
 15:06
-1405/04/17
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴منابع روسی می گویند یک فروند جنگنده سوخو۳۵ این کشور در آسمان اوکراین هدف قرار گرفته و سرنگون شده است
-‏
-‏@MilitarryWorld | Maverick
-15:04
 1405/04/17
 
 
@@ -4945,18 +4945,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏سپاه پاسداران با انتشار اطلاعیه‌ای اعلام کرد در یک «عملیات مشترک موشکی وپهپادی» ۸۵ نقطه از تاسیسات نظامی آمریکا در بندر سلمان، مقر ناوگان پنجم آمریکا در بحرین و پایگاه هوایی علی‌السالم در کویت را هدف قرار داده است. سپاه همچنین مدعی شد یک پهپاد تهاجمی آمریکا را نیز سرنگون کرده است.
-‏بخوانید: https://iranwire.com/fa/news-1/154652
-‏
-‏@Farsi_Iranwire
-10:49
-1405/04/17
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — A member of the IRGC Navy was killed in the US attacks in the morning in the city of Mahshahr.
 ‏
@@ -5556,56 +5544,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 06:03
-1405/04/17
-
-
-
-
-src :@BellumActaNews
-‏🇮🇷📢 Heavy signal jamming ongoing.
-05:57
-1405/04/17
-
-
-
-
-src :@BellumActaNews
-‏Sirens and explosions are reported in Bahrain.
-‏
-‏An Iranian retaliatory attack may be underway.
-05:15
-1405/04/17
-
-
-
-
-src :@BellumActaNews
-‏Sirens and explosions are reported in Bahrain.  An Iranian retaliatory attack may be underway.
-05:15
-1405/04/17
-
-
-
-
-src :@BellumActaNews
-‏🖤 — 🇮🇷📢 A Steam notification was heard on an Iranian soldiers radio transmission.
-04:50
-1405/04/17
-
-
-
-
-src :@BellumActaNews
-‏🏴📢 Islamic State radio activity increased in the Nineveh Governorate, Iraq 🇮🇶
-04:50
-1405/04/17
-
-
-
-
-src :@BellumActaNews
-‏🇮🇷 The new signal jammer variant is currently being used.
-04:50
 1405/04/17
 
 
