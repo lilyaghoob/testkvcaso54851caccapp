@@ -1,3 +1,105 @@
+src :@defence_news
+‏فوری 
+‏
+‏گفته می شود صدای دو انفجار در حوالی بندرعباس شنیده شده است 
+‏
+‏@Minas_Tirith2024
+23:12
+1405/04/17
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — Two explosions heard in Bandar Abbas.
+23:11
+1405/04/17
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 Initial reports of two explosions heard in southern Bandar Abbas.
+‏
+‏@wfwitness
+23:11
+1405/04/17
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 پرواز سوخت‌رسان‌های آمریکایی بر فراز خلیج فارس.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+23:10
+1405/04/17
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸🇮🇷 ⚡️ — CNN: Trump warns of a possible second wave of U.S. strikes on Iran tonight, speaking publicly on the ongoing campaign.
+‏
+‏ We hit them very hard last night, very probably hit them hard again tonight, Trump stated.
+‏@IntelSlava
+23:10
+1405/04/17
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 08 Jul 2026 19:39:45 UTC
+‏
+‏1937Z
+‏2 blasts heard in southern Bandar Abbas
+‏Hormozgan Province, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۱۹۳۷ زولو (۲۳:۰۷ به وقت تهران)
+‏۲ صدای انفجار در جنوب بندرعباس شنیده شد
+‏استان هرمزگان، ایران
+‏
+‏𝕏  ·  @shin_persian
+23:09
+1405/04/17
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Wed, 08 Jul 2026 19:38:49 UTC
+‏
+‏Here we go...
+‏
+‏ترجمه خودکار فارسی
+‏
+‏Please provide the source text you would like me to translate. I am ready to apply all your specified rules including the Persian equivalents for acronyms and the Zulu/Tehran time conversions.
+‏
+‏𝕏  ·  @shin_persian
+23:09
+1405/04/17
+
+
+
+
+src :@MilitarryWorld
+‏🔴رویترز: قیمت نفت خام برنت در معاملات آتی با ۵.۲ درصد افزایش به ۷۸.۰۲ دلار در هر بشکه رسید
+‏
+‏@MilitarryWorld | Parsa
+23:08
+1405/04/17
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴ترامپ از تهدیداتش عقب نشست!
@@ -1067,19 +1169,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴هواپیماهای آواکس و سوخت رسان آمریکا، هم اکنون در حال گشت زنی، در آسمان خلیج فارس رویت شدن.
-‏
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-22:05
-1405/04/17
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Iranian Former Minister of Foreign Affairs and advisor to the Supreme Leader of Iran, Ali Akbar Velayati:
@@ -1859,18 +1948,6 @@ src :@mohem_mat
 
 
 
-src :@IranintlTV
-[عکس]
-‏کاظم غریب‌آبادی، معاون وزیر خارجه، در واکنش به اظهارات دونالد ترامپ، گفت «با ترامپ باید با زبان خودش صحبت کرد» و افزود: «ظاهرا زبان زور را بهتر می‌فهمد.»
-‏
-‏غریب‌آبادی در پیامی در شبکه ایکس نوشت اظهارات ترامپ، از «توهین به ملت ایران تا تهدید به حملات بیشتر»، نشانه اقتدار نیست، بلکه «اعتراف به شکست» سیاستی است که سال‌ها بر زور، تحریم و تهدید بنا شده و نتوانسته ملت ایران را به زانو درآورد.
-‏https://iranintl.com/202607087045
-21:01
-1405/04/17
-
-
-
-
 src :@mohem_mat
 ‏آمران سنگ به دست های شروری که در تشییع پیکر پاک رهبر شهید به پزشکیان و عراقچی  هتاکی کردند خوب می دانند که تصمیم به جنگ، مذاکره، صلح و ترتیبات آن ها از مسیر شعام و شورای عالی دفاع با امضای رهبری می گذرد و افراد، رأسا کاری نمی توانند بکنند؛ هدف واقعی آن ها، انتخابات است!
 ‏
@@ -2492,20 +2569,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 20:15
-1405/04/17
-
-
-
-
-src :@MilitarryWorld
-‏🔴فوری/ترامپ :
-‏
-‏من مطمئن نیستم که بخواهم با آنها معامله‌ای انجام دهم.
-‏
-‏فقط بیایید کار را به پایان برسانیم.
-‏
-‏@MilitarryWorld | Parsa
-20:12
 1405/04/17
 
 
@@ -4202,23 +4265,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Wed, 08 Jul 2026 13:01:08 UTC
-‏
-‏Iran will be attacked tonight, too.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏ایران امشب نیز مورد حمله قرار خواهد گرفت.
-‏
-‏𝕏  ·  @shin_persian
-16:31
-1405/04/17
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says the US may strike Iran again tonight.
@@ -4665,27 +4711,6 @@ src :@KayhanLondonChannel
 ‏قیمت هر سکه کامل طلا در نیمروز چهارشنبه به ۱۸۰میلیون تومان افزایش یافت. قیمت هر گرم طلای ۱۸ عیار نیز ۱۷ میلیون و ۶۰۰ هزار تومان اعلام شد.
 ‏
 ‏در آخرین تحولات مرتبط با مذاکره و جنگ میان جمهوری اسلامی و ایالات متحده، دونالد ترامپ ظهر چهارشنبه به وقت محلی در حاشیه نشست رهبران عضو ناتو در آنکارا در پاسخ به خبرنگاران تأکید کرد: «از نظر من، آتش‌بس پایان یافته است.»
-15:19
-1405/04/17
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏Wed, 08 Jul 2026 11:49:26 UTC
-‏
-‏The Security Deputy of Bushehr Province announced on Wednesday, July 8th, that two military bases, one in Dashti County and another near Choghadak, Bushehr, were struck by enemy projectiles earlier this morning. 
-‏
-‏Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏معاون امنیتی استان بوشهر روز چهارشنبه، ۱۸ تیرماه اعلام کرد که صبح امروز دو پایگاه نظامی، یکی در شهرستان دشتی و دیگری در نزدیکی چغادکِ بوشهر، مورد اصابت پرتابه‌های دشمن قرار گرفتند.
-‏
-‏ایران
-‏
-‏𝕏  ·  @shin_persian
 15:19
 1405/04/17
 
