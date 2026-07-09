@@ -621,16 +621,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏الله أكبر
-‏
-‏انفجارات تهز الكويت مجددا
-04:20
-1405/04/18
-
-
-
-
 src :@MilitarryWorld
 ‏🔴صدای ممتد انفجار همچنان در کویت و بحرین به گوش میرسه
 ‏
@@ -4343,21 +4333,6 @@ src :@guard_warriors
 src :@USAMRYDATA
 ‏🎓#FACT ➖➖➖➖➖➖➖➖➖ 🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 23:50
-1405/04/17
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇷 — CENTCOM:
-‏
-‏"At the direction of the Commander in Chief, U.S. Central Command forces have started conducting additional strikes against Iran to further degrade their ability to threaten freedom of navigation in the Strait of Hormuz. 
-‏
-‏The US is holding Iran accountable for recent unjustified aggression against commercial shipping and civilian crews freely navigating a vital international waterway".
-‏
-‏@TheWarReporter
-23:48
 1405/04/17
 
 
