@@ -1,3 +1,14 @@
+src :@guard_warriors
+[عکس]
+‏✪ برج مراقبت دریایی اسکله شهید بهشتی 
+‏
+‏@Guard_Warriors | Raptor
+08:49
+1405/04/18
+
+
+
+
 src :@didarnews1
 ‏🔴ادعای ترامپ درباره ایران:
 ‏
@@ -4967,16 +4978,6 @@ src :@defence_news
 
 
 
-src :@thewarreporter
-‏🇺🇸🇪🇬🇮🇷 — An Iranian military official told Nour News that Tehran will soon launch a massive attack on US bases in the region.
-‏
-‏@TheWarReporter
-00:09
-1405/04/18
-
-
-
-
 src :@jangaavaran1390
 ‏یک منبع نظامی به خبرگزاری "نور نیوز" ایران گفت: "به زودی یک عملیات گسترده علیه پایگاه‌های نظامی آمریکا در منطقه آغاز خواهد شد."
 00:09
@@ -6053,16 +6054,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@guard_warriors
-‏✪ به گفته برخی منابع روس، یک فروند Su-35S بر فراز اوکراین سرنگون شد.
-‏
-‏@Guard_Warriors | Mmd
-17:19
-1405/04/17
-
-
-
-
 src :@militaryinpersian
 [عکس]
 ‏هگست، وزیر جنگ آمریکا:
@@ -6074,18 +6065,6 @@ src :@militaryinpersian
 ‏
 ‏👑 @Fighter_Radar
 17:11
-1405/04/17
-
-
-
-
-src :@guard_warriors
-‏ترامپ: دوست داری بری مسکو؟
-‏
-‏زلنسکی: کار سختیه، اونجا پر از پهپاد اوکراینیه. خطرناکه
-‏
-‏@Guard_Warriors
-17:10
 1405/04/17
 
 
