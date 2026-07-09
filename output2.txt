@@ -1,3 +1,13 @@
+src :@WAR_ROOM_NEWS
+‏معاون استاندار خوزستان: بر اثر حمله دشمن آمریکایی به اطراف اهواز تا این لحظه ۳ نفر به شهادت رسیده‌اند.| فارس
+‏
+‏🆔‌‌@WAR_ROOM_NEWS
+08:20
+1405/04/18
+
+
+
+
 src :@mohem_mat
 ‏با جماعتی مواجهیم که زدن کشتی‌هایی را که برخلاف خواست ایران می‌خواستند ازبخش عمانی تنگه هرمز عبور کنند کار درست نظامی می‌دانند، اما پاسخ آمریکا را تقصیر تیم مذاکره‌کننده! این سطح ازنفهمی قطعاً عمدی و هدفمند است. ساده‌لوح فرض کردن مردم، بزرگ‌ترین توهین به شعور ملت است.
 ‏
@@ -5,6 +15,17 @@ src :@mohem_mat
 ‏
 ‏ @mohem_mat
 08:17
+1405/04/18
+
+
+
+
+src :@World_Newsly
+‏🔴سازمان ملل: از همه طرف‌ ها میخواهیم حداکثر خویشتن‌ داری را به کار گیرند
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+08:16
 1405/04/18
 
 
@@ -1987,14 +2008,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏الجثمان الطاهر وهو محمول فوق اكتاف العراقيين في كربلاء المقدسة.
-04:58
-1405/04/18
-
-
-
-
 src :@Middle_East_Spectator
 ‏All-clear given in Kuwait, Bahrain, Qatar and Jordan.
 04:57
@@ -2036,17 +2049,6 @@ src :@World_Newsly
 ‏‌✍🏻 Dangerman
 ‏▪️@World_Newsly
 04:53
-1405/04/18
-
-
-
-
-src :@World_Newsly
-‏🔴انفجار های شدید پایگاه های الازرق و موافق السلطی اردن لرزاند
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:42
 1405/04/18
 
 
@@ -4386,17 +4388,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:56
-1405/04/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴هم اکنون 11 سوخت رسان ارتش آمریکا در حال پرواز هستند.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-00:55
 1405/04/18
 
 
@@ -6758,14 +6749,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ
 09:22
-1405/04/17
-
-
-
-
-src :@warmonitors
-‏⚡️#BREAKING Bahrain sounds its missile alert sirens for a second time after Iran targets island kingdom over earlier US airstrikes
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-08:17
 1405/04/17
