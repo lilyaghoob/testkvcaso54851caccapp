@@ -1,4 +1,47 @@
 src :@World_Newsly
+‏🔴به گزارش‌ها، ۳ موشک از سایت نجف‌آباد در ایران پرتاب شده‌اند.
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+04:29
+1405/04/18
+
+
+
+
+src :@World_Newsly
+‏🔴شلیک موشک ها ادامه دارد
+‏
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+04:28
+1405/04/18
+
+
+
+
+src :@World_Newsly
+‏🔴صدای انفجارها در کویت
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+04:28
+1405/04/18
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏حملات موشکی سپاه به کشورهای حاشیه خلیج فارس
+04:27
+1405/04/18
+
+
+
+
+src :@World_Newsly
 [عکس]
 ‏🔴شلیک موشک از دزفول
 ‏
@@ -139,79 +182,11 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴فعلا کویت از همه مهیب تر بوده
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:19
-1405/04/18
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴هشدار ها و فعالیت پدافند در کویت
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:18
-1405/04/18
-
-
-
-
-src :@World_Newsly
-‏🔴قطر اعلام کرد خطر رفع شده و وضعیت عادیه
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:18
-1405/04/18
-
-
-
-
-src :@World_Newsly
-‏🔴 خبر_فوری
-‏هم اکنون انفجار های متعدد در آسمان بحرین.
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:18
-1405/04/18
-
-
-
-
-src :@World_Newsly
-‏🔴میگن موشکا در کویت رهگیری شده
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:17
-1405/04/18
-
-
-
-
 src :@MilitarryWorld
 ‏🔴قطر وضعیت عادی اعلام کرد
 ‏
 ‏@MilitarryWorld | Parsa
 04:17
-1405/04/18
-
-
-
-
-src :@World_Newsly
-‏🔴تبریز صدای سنگین‌ جنگنده میاد
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:16
 1405/04/18
 
 
@@ -228,44 +203,11 @@ src :@cataphract1
 
 
 
-src :@World_Newsly
-‏🔴گزارش اومده از امیدیه خوزستان موشک رفت
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:16
-1405/04/18
-
-
-
-
 src :@MilitarryWorld
 ‏🔴امشب به سه کشور بحرین کویت و قطر موشک شلیک شد
 ‏
 ‏@MilitarryWorld | Parsa
 04:16
-1405/04/18
-
-
-
-
-src :@World_Newsly
-‏🔴انفجار های جدیدی در بحرین شنیده شده
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:15
-1405/04/18
-
-
-
-
-src :@World_Newsly
-‏🔴کویت و قطر زیر حملات موشکی جمهوری اسلامی 
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-04:14
 1405/04/18
 
 
@@ -1709,16 +1651,6 @@ src :@cataphract1
 ‏
 ‏🖋#Ethan 
 ‏📃@Cataphract1
-01:18
-1405/04/18
-
-
-
-
-src :@MilitarryWorld
-‏🔴حملات آمریکا به جنوب کشور پایان یافت
-‏
-‏@MilitarryWorld | Parsa
 01:18
 1405/04/18
 
@@ -4505,17 +4437,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 10:37
-1405/04/17
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏تصویری که مریخ نورد استقامت ناسا در ۶ جولای و در سول ۱۳۴ (روزهای مریخ سول نام دارند ) از حضور این کاوشگر در مریخ توسط دوربین "مستکام زد" روی کاوشگر از مریخ گرفت
-‏
-‏@rus_cosmos
-10:27
 1405/04/17
 
 
