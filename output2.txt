@@ -2425,20 +2425,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱📞🇺🇸 — The Israeli Prime Minister's Office:
-‏As part of the ongoing contact between Prime Minister Netanyahu and President Trump, the two held another phone conversation this evening, during which they agreed to continue coordination between their countries on the various fronts.
-‏
-‏President Trump updated the Prime Minister on U.S. actions in the Gulf.
-‏
-‏The Prime Minister, for his part, raised the severity of statements by Erdoğan and his associates against the existence of the State of Israel, and the need to establish security zones along Israel's borders.
-23:29
-1405/04/18
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏پنجشنبه ۱۸تیرماه۱۴۰۵ و در سومین روز حملات متقابل ایران و واشنگتن، «مای ساتو»، گزارشگر ویژه حقوق بشر سازمان ملل در امور ایران، با ابراز نگرانی از ازسرگیری درگیری‌های میان دو کشور گفت مردم ایران بار دیگر میان حملات خارجی و سرکوب جمهوری اسلامی گرفتار شده‌اند.
