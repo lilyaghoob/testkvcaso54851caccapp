@@ -1,9 +1,32 @@
-src :@World_Newsly
-‏🔴بر اساس گزارش ها ابراهیم مرتضوی نسب فرمانده مقاومت بسیج سپاه ثارالله شیراز ترور شده است
+src :@Alibk3
+[عکس]
+‏وول ستريت جورنال:
 ‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-01:21
+‏إسرائيل تُحذّر ترامب، إيران تُخطط لتنفيذ محاولة اغتيال جديدة ضده.
+01:27
+1405/04/19
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 معاون امنیتی انتظامی استاندار خراسان رضوی: این حادثه حوالی ساعت ۲۲ پنجشنبه شب در منطقه سرافرازان رخ داده و حادثه تروریستی نبوده و انگیزه وقوع این درگیری در دست بررسی است.
+‏
+‏🔹براساس بررسی‌های اولیه ابتدا ۲ نفر با انگیزه شخصی با هم درگیر شده که یک نفر از آنها کشته می‌شود و با دخالت نفر سوم نفر دوم نیز جان می‌بازد. هر دو نفر با سلاح گرم کشته شده‌اند.
+‏
+‏🔹وقوع هرگونه حادثه تیراندازی و یا رخداد امنیتی در محدوده بافت مرکزی مشهد و اطراف حرم رضوی تکذیب می‌شود.
+‏
+‏@RASTAKHIZ_PERSIAN
+01:25
+1405/04/19
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇦🇷🇺 A few moments ago loud explosions were heard in Kharkiv, Ukraine following a missile threat.  @wfwitess
+01:22
 1405/04/19
 
 
@@ -1032,7 +1055,7 @@ src :@World_Newsly
 
 src :@Alibk3
 [عکس]
-‏أقدم شخصان مجهولا الهوية يرتديان زياً عسكرياً ويستخدمان مسدسات على استهداف عدد من عناصر البسيج في مدينة مشهد المقدّسة مما أدى لاستشهاد عدد من العناصر.
+‏أقدم شخصان مجهولا الهوية على استهداف عدد من عناصر البسيج في مدينة مشهد المقدّسة مما أدى لاستشهاد عدد من العناصر.
 00:34
 1405/04/19
 
@@ -1334,6 +1357,14 @@ src :@World_Newsly
 ‏ ‌✍🏻 Dangerman
 ‏▪️@World_Newsly
 00:18
+1405/04/19
+
+
+
+
+src :@World_Newsly
+‏🔴رسانه های عربی: یک فرد مسلح به سمت اعضای سپاه پاسداران آتش گشود  ‌‌✍🏻 Dangerman ▪️@World_Newsly
+00:17
 1405/04/19
 
 
@@ -2632,14 +2663,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Mehr News Agency reports several explosions in Bandar Abbas.  UPD: IRIB denies any explosions in the area.
-22:47
-1405/04/18
-
-
-
-
 src :@cataphract1
 ‏⚜ گویا حملات به طور مشترک توسط کویت و بحرین انجام شده 
 ‏
@@ -3530,29 +3553,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 22:10
-1405/04/18
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 Reuters: Palm Beach International Airport in Florida has officially been renamed President Donald J. Trump International Airport, honoring the U.S. president’s ties to the state.  
-‏
-‏The airport’s FAA identifier will transition from PBI to DJT, though passengers will continue using PBI for bookings until August 18.  
-‏
-‏The first plane to land was President Trumps personal aircraft at 5am this morning.
-‏
-‏@wfwitness
-22:10
-1405/04/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Mehr: Local reports say the sound of 2 explosions was heard moments ago on the outskirts of Bushehr, near the town of Choghadak.  @wfwitness
-22:09
 1405/04/18
 
 
@@ -6358,16 +6358,6 @@ src :@GeoPWatch
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🔶 معاون استاندار بوشهر: به محیط پیرامونی نیروگاه اتمی بوشهر حمله شده
-‏
-‏@RASTAKHIZ_PERSIAN
-14:28
-1405/04/18
-
-
-
-
 src :@guard_warriors
 ‏صدای انفجار در بوشهر
 ‏
@@ -6966,12 +6956,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://www.youtube.com/watch?v=NfWAUvSWeCc
 02:00
-1405/04/18
-
-
-
-
-src :@rus_cosmos
-‏یک مقام آمریکایی به سی‌ان‌ان گفت: «آتش‌بس با ایران موقتاً متوقف شده است، اوضاع همچنان بسیار ناپایدار است و حملات بیشتر منتفی نیست.»
-01:22
 1405/04/18
