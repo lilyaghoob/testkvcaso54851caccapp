@@ -1,3 +1,26 @@
+src :@ClashReport
+[عکس]
+‏Trump:
+‏
+‏A very big day in Palm Beach, Florida, where it was my Great Honor to have the Palm Beach International Airport be renamed, by a spectacular vote, The President Donald J. Trump International Airport. 
+‏
+‏The Area is HOT, the Location is GREAT, and the Renovation will be SPECTACULAR. Thank you to all in Palm Beach for your Vote and your Confidence. 
+‏
+‏This will soon be one of the Greatest and Most Spectacular Airports anywhere in the World!
+10:49
+1405/04/19
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏یک مقام آمریکایی درباره ایران:اوضاع همچنان در حال تغییر است و اگر لازم باشد، حملات ممکن است از سر گرفته شوند،همچنین فرمانده ناو هواپیمابر آبراهام لینکلن به خدمه این ناو که در دریای عرب مستقر است، دستور داده آمادگی کامل خود را حفظ کنند
+10:49
+1405/04/19
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏درود و روز شما بخیر
@@ -1531,16 +1554,6 @@ src :@tabzlive
 ‏
 ‏➡️ The agreement makes Canada the sixth customer for the air-to-ground cruise missile, joining Norway, Japan, Australia, the U.S., and Germany, which have already ordered or fielded the weapon.
 05:19
-1405/04/19
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏ابوذر شیرودی، رییس سازمان هواپیمایی ایران، اعلام کرد عملیات پروازی در سراسر کشور با وجود آنچه «اقدامات خرابکارانه و تهدیدهای امنیتی» خواند، بدون وقفه ادامه دارد.
-‏https://iranintl.com/202607094949
-05:17
 1405/04/19
 
 
@@ -5191,14 +5204,6 @@ src :@mwarmonitor
 
 src :@intelslava
 ‏🇺🇸❌🇮🇷— Initial reports of a US airstrike on Bushehr.
-21:31
-1405/04/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴 گزارش‌هایی مبنی بر فعالیت سامانه‌های پدافند هوایی در بوشهر منتشر شده است
 21:31
 1405/04/18
 
