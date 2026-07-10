@@ -31,14 +31,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏اخبار نظامی ایران و جهان pinned a video
-05:36
-1405/04/19
-
-
-
-
 src :@tabzlive
 ‏🇨🇳🇦🇺🇫🇯⚡️ — Hours after Australia signed a new defense pact with Fiji, China test-fired a long-range ballistic missile from a nuclear-powered submarine in the South Pacific.   ➡️ The missile test drew criticism from regional governments, with New Zealand protesting…
 05:32
@@ -1724,6 +1716,19 @@ src :@Minas_Tirith2024
 ‏🖱️ شروع از اینجا:👇
 ‏ @v2ray443_hamkar_bot
 00:53
+1405/04/19
+
+
+
+
+src :@World_Newsly
+‏🔴کویت زنجیر پاره کرد؟! 
+‏
+‏بر اساس گزارش ها یک ماهیگیر عراقی در آب های عراق توسط کویت هدف حمله قرار گرفته و کشته شده است 
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+00:51
 1405/04/19
 
 
