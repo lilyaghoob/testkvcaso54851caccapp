@@ -1,3 +1,99 @@
+src :@Shin_Persian
+[ویدئو]
+‏Zaryon OSINT ✓ @zarGEOINT
+‏Fri, 10 Jul 2026 11:01:31 UTC
+‏
+‏🇮🇷🛰️ Today's satellite imagery shows two apparent hits on Runway 13R/31L at Bushehr Airport in Iran, following the recent U.S. strikes.
+‏
+‏Burn marks are also visible around the runway.
+‏
+‏📍 Geolocation: 28.94188, 50.83649
+‏
+‏@GeoConfirmed @FaytuksNetwork @hey_itsmyturn
+‏
+‏ترجمه خودکار فارسی
+‏
+‏🇮🇷🛰️ تصاویر ماهواره‌ای امروز دو اصابت آشکار در باند ۱۳ راست/۳۱ چپ در فرودگاه بوشهر در ایران را پس از حملات اخیر ایالات متحده نشان می‌دهد.
+‏
+‏آثار سوختگی نیز در اطراف باند قابل مشاهده است.
+‏
+‏📍 موقعیت جغرافیایی: 28.94188, 50.83649
+‏
+‏@GeoConfirmed @FaytuksNetwork @hey_itsmyturn
+‏
+‏𝕏  ·  @shin_persian
+14:37
+1405/04/19
+
+
+
+
+src :@defence_news
+[عکس]
+‏عجب!!!!
+14:35
+1405/04/19
+
+
+
+
+src :@World_Newsly
+‏🔴حمله پهپادی اسرائیل به جنوب لبنان
+‏
+‏🔹منابع خبری از حمله پهپادی اسرائیل  به خودرویی در شهر کفررمان در منطقه نبطیه در جنوب لبنان خبر دادند.
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+14:34
+1405/04/19
+
+
+
+
+src :@Mena_Live
+‏A Moroccan delegation visited the Syrian Ministry Energy HQ in Damascus today, the Minister of Energy was handed invitation to Morocco.  @Mena_Live
+14:34
+1405/04/19
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇨🇳 The War Zone: A newly surfaced image shows a Chinese J-15T fighter launching from the Fujian carrier armed with four YJ-83K anti-ship missiles, twice the number previously seen and a load of roughly 6,400 pounds.
+‏
+‏This shows China overcoming a key constraint, getting heavily loaded strike fighters airborne via the Fujian’s catapult, unlike the ski-jump-limited Liaoning and Shandong, and suggests similar gains for other CATOBAR variants like the J-15DT and rumored J-15S.
+‏
+‏@wfwitness
+14:34
+1405/04/19
+
+
+
+
+src :@Mena_Live
+‏A Moroccan delegation visited the Syrian Ministry Energy HQ in Damascus today, the Minister of Energy was handed invitation to Morocco.
+‏
+‏@Mena_Live
+14:32
+1405/04/19
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Volkswagen’s proposed deal with Israel’s Rafael to make Iron Dome components at its Osnabrück plant is being blocked by Qatari investors.
+‏
+‏Qatar’s state investment fund owns 10.4% stake and 17% voting power give them major influence over the company.
+‏
+‏Source: BILD
+14:32
+1405/04/19
+
+
+
+
 src :@Farsi_Iranwire
 [فایل]
 ‏می‌گویند هر نسل زبان خودش را دارد؛ زبان دغدغه‌ها، امیدها و تجربه‌هایش. اما آنچه میان نسل‌ها فاصله می‌اندازد، تفاوت سن نیست؛ نشنیدن و نفهمیدن یکدیگر است.
@@ -596,18 +692,6 @@ src :@ClashReport
 ‏The two American companies have been supplying advanced AI models to Singapore-based units of blacklisted Chinese tech firms, including Alibaba, Baidu, and Tencent.
 ‏
 ‏READ MORE
-13:55
-1405/04/19
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴بابک زنجانی: در خصوص (راه آهن) آق‌قلا حرف و حدیث‌هایی از خرابکاری به جای حمله دشمن وجود دارد.
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
 13:55
 1405/04/19
 
@@ -1311,22 +1395,6 @@ src :@Alibk3
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇮🇶 Iranian President Masoud Pezeshkian has expressed gratitude to Iraq’s leadership and people for hosting the funeral of Supreme Leader Ali Khamenei. 
-‏
-‏“What took place during the funeral was a sign of your Islamic and Arab dignity. The source of this generous behaviour is the love for Imam Ali and Imam Hussein,” Pezeshkian wrote.
-‏
-‏ 
-‏He added that the Iranian people will not forget the support and moments of the funeral, and expressed hope that bilateral relations will deepen.
-‏
-‏@wfwitness
-12:58
-1405/04/19
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏تصویر ماهواره ای از آثار حملات اوکراین به تاسیسات سوخت فرودگاه بوریسوگلبسک روسیه 
@@ -1521,19 +1589,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏Yair Netanyahu, son of Israeli Prime Minister Benjamin Netanyahu, has reportedly changed his legal name to Yonatan Hon.
-‏
-‏The Netanyahu family has a long history of changing surnames. Yair's grandfather, Benzion Netanyahu, changed the family name from Mileikowsky to Netanyahu after immigrating to Mandatory Palestine in the 1920s.
-‏
-‏Source: Haaretz
-12:25
-1405/04/19
-
-
-
-
 src :@thewarreporter
 ‏🛳️🇺🇸🇮🇷 — A Middle Eastern source from one of the mediating countries said the mediators believe the recent Iranian attacks in Hormuz were initiated by elements inside the Iranian government that oppose the MoU and want to undermine it.
 ‏
@@ -1568,21 +1623,6 @@ src :@mohem_mat
 ‏احمد زیدآبادی
 ‏
 ‏@ahmadzeidabad
-12:20
-1405/04/19
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Indian Prime Minister Narendra Modi’s age has added an unusual layer to the planning for his New Zealand visit, with officials reportedly accommodating requests for scheduled nap breaks and venues that do not require him to use stairs.
-‏
-‏The 75-year-old leader’s itinerary has been designed with these considerations in mind, alongside one of the largest security operations mounted for a visiting dignitary. 
-‏
-‏The preference for avoiding stairs is believed to stem from a fall Modi suffered at a public event several years ago.
-‏
-‏Source: Stuff
 12:20
 1405/04/19
 
@@ -3361,15 +3401,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸🇮🇷⚡️ — NEW: Israel recently shared new intelligence with the U.S. that it said indicated a new Iranian plan to kill President Trump, according to WSJ.  ➡️ Trump on Wednesday alluded to Iranian threats to his life when speaking during the NATO Summit in…
-04:15
-1405/04/19
-
-
-
-
 src :@naya_foriraq
 ‏🔻مسؤولين أمريكيين: التقرير الإسرائيلي عن مخطط إيراني لاغتيال ترمب قد يكون محاولة لدفعه نحو التصعيد.
 04:11
@@ -3386,19 +3417,6 @@ src :@GeoPWatch
 ‏
 ‏Reminder that a "ceasefire" is in effect between the two groups and has been for 9 months.
 04:07
-1405/04/19
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇰🇵⚡️ — North Korean leader Kim Jong Un has ordered measures to strengthen the country's nuclear forces "quantitatively and qualitatively," while calling for a broader modernization of the military.
-‏
-‏The decisions were made during an enlarged meeting of the Workers' Party Central Military Commission on July 9, where Kim said North Korea's security and "true peace" can only be guaranteed by building a powerful military capable of countering all threats.
-‏
-‏The meeting approved plans to modernize combat systems, expand nuclear forces, upgrade military bases, enhance the capabilities of the Reconnaissance General Bureau, and accelerate the construction of modern naval bases and improvements to shipyard infrastructure as part of a broader effort to strengthen the navy.
-04:05
 1405/04/19
 
 
@@ -4590,31 +4608,6 @@ src :@P_raetorio
 
 
 
-src :@P_raetorio
-[عکس]
-‏به فروشگاه Atlas Relay خوش آمدید!
-‏
-‏ارائه انواع سرویس‌های VPN با کیفیت عالی
-‏💯 تضمین امنیت ارتباطات شما
-‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
-‏
-‏تعرفه ها :
-‏✅ 10 گیگ 65 هزار تومان
-‏✅ 20 گیگ 125
-‏✅ 30 گیگ 180
-‏✅ 40 گیگ 230
-‏✅ 50 گیگ 275
-‏✅ 100 گیگ 550
-‏
-‏⭕️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
-‏
-‏https://t.me/AtlasRelayFastbot?start=praetorio
-23:33
-1405/04/18
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏📶 وقتی می‌تونی قبل از خرید رایگان تست کنی، چرا ریسک کنی؟
@@ -5119,14 +5112,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏پ.ن:وقتی نفهمیدی از کجا خوردی😂
 22:25
-1405/04/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏یک منبع رصد هوایی گزارش داد که چند پهپاد متعلق به عربستان در نزدیکی سواحل مقابل منطقه ظهران در حال انجام مأموریت بوده‌اند
-22:24
 1405/04/18
 
 
@@ -6461,27 +6446,6 @@ src :@warmonitors
 
 
 
-src :@Shin_Persian
-‏TankerTrackers.com, Inc. ✓ @TankerTrackers
-‏Thu, 09 Jul 2026 10:46:23 UTC
-‏
-‏Anticipating a possible imminent resumption of the US Navy blockade, Tehran shipped out no less than 10 million barrels of crude oil and fuel oil overnight.
-‏
-‏#OOTT #IranWar #Tankers
-‏
-‏ترجمه خودکار فارسی
-‏
-‏تهران در پیش‌بینی از احتمال ازسرگیری قریب‌الوقوع محاصره توسط نیروی دریایی ایالات متحده، ظرف یک شب بیش از ۱۰ میلیون بشکه نفت خام و نفت کوره را روانه صادرات کرد.
-‏
-‏#OOTT #IranWar #Tankers
-‏
-‏𝕏  ·  @shin_persian
-15:31
-1405/04/18
-
-
-
-
 src :@Parvazdaroj
 ‏Parvaz dar oj pinned «🔻 HappySmile VPN 🚀 🔺 فوق سریع 🔹 فوق پایدار 🔻 بدون لحظه ای قطعی ✅ متصل با تمامی اپراتورها و نت‌های خانگی 🔺 تمامی سرویس‌ها آیپی ثابت هستند. 🐱 مولتی لوکیشن واقعی در 7 کشور 🇩🇪🇳🇱🇦🇹🇫🇷🇸🇪🇬🇧🇺🇸 🚀 10 گیگ --->❗فقط 40 تومن 🚀 20 گیگ --->❗فقط 79 تومن 🚀 30 گیگ --->❗فقط 118…»
 15:30
@@ -6663,12 +6627,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏ 
 ‏@RASTAKHIZ_PERSIAN
 14:36
-1405/04/18
-
-
-
-
-src :@GeoPWatch
-‏#NOW ⚡️🇮🇷 - Renewed launches from Iran's 'Urmia'.
-14:34
 1405/04/18
