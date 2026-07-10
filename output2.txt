@@ -1,3 +1,18 @@
+src :@World_Newsly
+[عکس]
+‏🔴 ۶ ماه گذشت...
+‏به یاد هزاران جاویدنامی که دیگر در بین ما نیستند
+‏
+‏• شب خوش
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+03:50
+1405/04/19
+
+
+
+
 src :@Indypersian
 ‏⭕️روایت «سیتی ژورنال» از تلاش مقام ارشد دفتر ممدانی برای دیدار با نماینده جمهوری اسلامی در سازمان ملل
 ‏
@@ -762,14 +777,6 @@ src :@IranintlTV
 ‏🔹پس از بازبینی صحنه توسط VAR به دلیل احتمال هند در جریان شکل‌گیری حمله، گل تایید شد.
 ‏
 ‏@iranintltvsport
-01:20
-1405/04/19
-
-
-
-
-src :@GeoPWatch
-‏⁉️🇮🇷- Unconfirmed reports of gunshots heard approximately seven times near the Imam Reza Shrine
 01:20
 1405/04/19
 
@@ -1692,14 +1699,6 @@ src :@Shin_Persian
 ‏https://x.com/CENTCOM/status/2075325424591044956
 ‏
 ‏𝕏  ·  @shin_persian
-00:35
-1405/04/19
-
-
-
-
-src :@World_Newsly
-‏🔴تصاویر اولیه از کشته های تیراندازی در مشهد   ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
 00:35
 1405/04/19
 
@@ -6565,6 +6564,15 @@ src :@GeoPWatch
 src :@GeoPWatch
 ‏#NOW ⚡️🇺🇸❌🇮🇷 - Explosions in Iran's Shiraz .
 14:15
+1405/04/18
+
+
+
+
+src :@GeoPWatch
+‏#NOW
+‏⚡️🇺🇸❌🇮🇷 - Explosions in Iran's Shiraz .
+14:14
 1405/04/18
 
 
