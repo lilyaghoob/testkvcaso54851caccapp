@@ -776,21 +776,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇶🇦🇮🇷🇮🇱WSJ: U.S. President Trump returned from the NATO Summit in Turkey aboard an older Air Force One rather than the new one gifted by Qatar after Israeli intelligence warned of a possible Iranian assassination plot. 
-‏
-‏U.S. officials assessed the intelligence as not fully credible but decided to switch aircraft as a precaution. 
-‏
-‏Officials also said the incident underscored ongoing security concerns surrounding the retrofitted Qatari jet, which has not yet received the full suite of protections normally required for presidential overseas travel.
-‏
-‏@wfwitness
-01:33
-1405/04/20
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇮🇷 US gives Iran until Saturday to reopen the Strait of Hormuz.
