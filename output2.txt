@@ -1,7 +1,82 @@
+src :@defence_news
+‏🔴 ادعای کانال ۱۴ صهیونیستی: احتمال صدور مجوز ترامپ برای حمله به ایران
+‏
+‏رسانه عبری زبان کانال ۱۴ مدعی شد که در پی تحرکات اخیر ایران، احتمال می‌رود ترامپ به زودی چراغ سبز لازم برای آغاز حملات علیه این کشور را صادر کند.
+‏
+‏
+‏@eskannews_com | اسکان نیوز
+02:37
+1405/04/21
+
+
+
+
+src :@guard_warriors
+‏اره شوشه 
+‏
+‏@Guard_Warriors
+02:37
+1405/04/21
+
+
+
+
+src :@Alibk3
+[عکس]
+‏تأكيدا لما نشرناه..  استهدفت القوة البحرية التابعة للحرس الثوري سفينةً مخالفة بصاروخ كروز بحري، بعدما لم تستجب للتحذيرات الإيرانية.
+02:36
+1405/04/21
+
+
+
+
+src :@intelslava
+‏🇺🇸🇮🇷⚡️— The U.S. Air Force is active over radio communications. We should expect something in the coming hours.
+‏
+‏Source: @sigintreports
+02:35
+1405/04/21
+
+
+
+
+src :@World_Newsly
+‏🔴 به گزارشات osint ایران در حال ایجاد اختلال سیگنال (جَمینگ) در کویت، بحرین و عربستان سعودی است.
+‏
+‏✍🏻 adolf hitler
+‏▪️@World_Newsly
+02:34
+1405/04/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر دفاع اسرائیل:
+‏
+‏ارتش اسرائیل دستوراتی برای آماده شدن برای عملیات نظامی مستقل اسرائیل علیه ایران دریافت کرد
+‏
+‏@MilitarryWorld | Parsa
+02:33
+1405/04/21
+
+
+
+
 src :@Alibk3
 ‏ترامب:
 ‏
 ‏أميركا لن تصبح شيوعية.
+02:33
+1405/04/21
+
+
+
+
+src :@guard_warriors
+‏آیا امشو شوشه؟
+‏
+‏@Guard_Warriors
 02:33
 1405/04/21
 
@@ -454,17 +529,6 @@ src :@World_Newsly
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
 02:13
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴منابع محلی از شلیک مجدد موشک به سمت کشتیا خبر میدن
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
-02:12
 1405/04/21
 
 
@@ -2743,16 +2807,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:17
-1405/04/20
-
-
-
-
-src :@MilitarryWorld
-‏🔴بعد از قطعی‌های اعلام نشده برق در تهران و اعلام جدول خاموشی در مشهد، حالا برای لارستان، ساری و بابل هم جدول خاموشی اعلام شد
-‏
-‏،@MilitarryWorld | Parsa
-23:16
 1405/04/20
 
 
@@ -5913,17 +5967,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 12:39
-1405/04/20
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺❌🇺🇦— New Russian strikes hit Ukrainian infrastructure in Odessa, with local authorities confirming a ballistic missile was used.
-‏
-‏@IntelSlava
-12:34
 1405/04/20
 
 
