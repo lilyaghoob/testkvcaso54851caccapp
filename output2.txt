@@ -1,3 +1,41 @@
+src :@WAR_ROOM_NEWS
+‏مقامات آمریکایی: ترامپ به مذاکره‌کنندگان آمریکایی فرصت محدودی برای دستیابی به توافقی با ایران می‌دهد.
+‏
+‏🆔‌‌@WAR_ROOM_NEWS
+18:31
+1405/04/20
+
+
+
+
+src :@World_Newsly
+‏🔴گزارش انفجار در حمص سوریه 
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+18:31
+1405/04/20
+
+
+
+
+src :@World_Newsly
+‏🔴تا این لحظه، نتیجه نهایی یا توافق رسمی از نشست امروز اعلام نشده است. آنچه از گزارش‌های منتشرشده برمی‌آید این است:
+‏
+‏دیدار عباس عراقچی و وزیر خارجه عمان پایان یافته است
+‏گفت‌وگوها عمدتاً بر امنیت تنگه هرمز، کاهش تنش و ادامه مسیر دیپلماسی متمرکز بوده است
+‏
+‏هیچ بیانیه‌ای درباره توافق، لغو تحریم‌ها یا توافق جدید ایران و آمریکا منتشر نشده است
+‏بر اساس گزارش‌ها، عمان همچنان در حال انتقال پیام‌ها میان تهران و واشنگتن است و انتظار می‌رود رایزنی‌ها ادامه پیدا کند
+‏بنابراین، نتیجه عملی تا این لحظه این است که مذاکرات ادامه دارد، اما هنوز خبر رسمی از دستیابی به توافق منتشر نشده است
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+18:28
+1405/04/20
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Albanian prosecutors allege that businessman Artur Shehu, who sold about €110 million worth of coastal land for a luxury resort backed by Jared Kushner, used forged property deeds to claim ownership.
@@ -47,9 +85,9 @@ src :@World_Newsly
 
 src :@tabzlive
 [عکس]
-‏🇺🇸🇳🇴⚡️ — During the NATO summit in Ankara, President Trump asked Norwegian Prime Minister Jonas Gahr Støre to pass on his compliments to Erling Haaland, calling him “outstanding” and “fantastic,” according to Aftonbladet.
+‏🇺🇸🇳🇴⚡️ — During the NATO summit in Ankara, President Trump asked Norwegian Prime Minister Jonas Gahr Støre to pass on his compliments to football star Erling Haaland, calling him “outstanding” and “fantastic,” according to Aftonbladet.
 ‏
-‏➡️ Trump told the prime minister that both he and his son Barron admire Haaland and asked Gahr Støre to convey his greetings and compliments to “the great and powerful striker.” 
+‏➡️ Trump said both he and his son Barron admire Haaland and asked Støre to convey his greetings to “the great and powerful striker.”
 ‏
 ‏➡️ Trump also congratulated Norway on its World Cup run, adding that he believes they can win the tournament.
 18:23
@@ -841,14 +879,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-‏🔴رادیو اروپای آزاد به نقل از مقامات آمریکایی:  🔹️ اولویت دولت ترامپ بیانیه ایران درباره باز بودن مسیرهای کشتیرانی در تنگه هرمز است.  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
-17:33
-1405/04/20
-
-
-
-
 src :@cataphract1
 ‏⚜روزنامه نیویورک‌تایمز به نقل از مقام‌های آمریکایی گزارش داد که انتظار می‌رود ایران طی روزهای آینده با انتشار بیانیه‌ای، عبور آزاد کشتی‌های تجاری از تنگه هرمز را اعلام کند.
 ‏
@@ -909,19 +939,6 @@ src :@MilitarryWorld
 ‏💰 امکان شارژ ریالی ، ووچر ، کریپتو در کمترین زمان ممکن 🔥
 ‏🆔 @DerbyBet
 17:32
-1405/04/20
-
-
-
-
-src :@World_Newsly
-‏🔴 خبرگزاری ملی لبنان: آتش‌سوزی و عملیات گسترده اسرائیل در الخیام
-‏
-‏🔹️ خبرگزاری ملی لبنان گزارش داد نیروهای اسرائیلی همزمان با اجرای عملیات گسترده پاک‌سازی، در شهرک اشغالی الخیام آتش‌سوزی به پا کردند.
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-17:30
 1405/04/20
 
 
@@ -6306,14 +6323,4 @@ src :@Americana_ir
 ‏ 
 ‏🆔 @Americana_ir
 18:36
-1405/04/19
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇶🇦/🇮🇷 NEW: A Qatari delegation has landed in Tehran, with the aim of salvaging negotiations between the United States and Iran
-‏
-‏@Middle_East_Spectator
-18:30
 1405/04/19
