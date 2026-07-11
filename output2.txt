@@ -1,3 +1,19 @@
+src :@P_raetorio
+[عکس]
+‏مقام‌های ارشد آمریکا می‌گویند احتمال دستیابی به یک توافق هسته‌ای با ایران در حال #کاهش است.
+‏
+‏بر اساس گزارش اخیر وال‌استریت ژورنال، دولت ترامپ نسبت به دستیابی به توافق هسته‌ای با ایران از طریق دیپلماسی به‌طور فزاینده‌ای بدبین شده است. مقام‌های آمریکایی ابراز تردید کرده‌اند که مذاکرات، با توجه به متوقف شدن روند گفت‌وگوها، بتواند برنامه هسته‌ای تهران را به‌طور مؤثر مهار کند.
+‏
+‏میانجی‌های منطقه‌ای همچنان در تلاش‌اند روند مذاکرات را نجات دهند، اما اختلاف‌های اساسی همچنان پابرجاست؛ از جمله خواسته‌های مطرح‌شده درباره تنگه هرمز و توانمندی‌های هسته‌ای ایران.
+‏
+‏
+‏@P_raetorio
+12:19
+1405/04/20
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏الحفرة التي أحدثها أحد الصواريخ الإيرانية في إحدى القواعد الأميركية بالمنطقة.
@@ -3778,17 +3794,6 @@ src :@tglobaleye
 
 
 
-src :@ClashReport
-[عکس]
-‏Israel's state-owned Rafael Advanced Defence Systems is in talks with Indian defence firms to co-produce Tamir interceptor missiles for the Iron Dome air defence system in India.
-‏
-‏Source: NDTV
-00:39
-1405/04/20
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 باراک راوید: ایالات متحده به ایران ۲۴ ساعت فرصت داده است تا به طور علنی متعهد شود که از حملات به کشتی‌ها خودداری کند و تنگه هرمز را باز نگه دارد.
@@ -3799,19 +3804,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 00:38
-1405/04/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The U.S. has given Iran 24 hours to publicly commit to stopping attacks on ships and keeping the Strait of Hormuz open.
-‏
-‏Washington warned that failure to comply would bring "serious consequences," adding that contingency plans are already in place if diplomacy fails.
-‏
-‏Source: Barak Ravid
-00:37
 1405/04/20
 
 
@@ -3973,15 +3965,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 00:25
-1405/04/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Cuba: National power grid collapses again. Second nationwide blackout in less than a week.
-00:24
 1405/04/20
 
 
@@ -6439,23 +6422,4 @@ src :@tglobaleye
 src :@warmonitors
 ‏Global News Monitor pinned a video
 12:42
-1405/04/19
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔻مرگ پدر ۵۲ ساله در هیوستون به دست پلیس مهاجرت 
-‏
-‏▪️رسانه‌های آمریکایی گزارش دادند، لورنزو سالگادو آراوخو، شهروند ۵۲ ساله مکزیکی که ۳۵ سال در آمریکا زندگی می‌کرد، روز سه‌شنبه در مسیر رفتن به محل کار در هوستون توسط مأمور پلیس مهاجرت مورد تیراندازی قرار گرفت و ساعاتی بعد بر اثر اصابت گلوله به شکم جان باخت.
-‏
-‏▪️مأموران فدرال در حال جستجوی یک مرد گواتمالایی بودند که تصور می‌شد در ون سفید آراوخو نشسته است، اما او هدف اصلی عملیات نبود. 
-‏
-‏▪️او دارای همسر و سه فرزند و صاحب کسب‌وکار ساختمانی بوده که در آستانه دریافت مجوز کار قانونی بود. 
-‏
-‏▪️با احتساب آراوخو، تا کنون پلیس مهاجرت از آغاز دور دوم ریاست‌جمهوری‌ ترامپ ۵ شهروند عادی را به قتل رسانده است.
-‏ 
-‏🆔 @Americana_ir
-12:18
 1405/04/19
