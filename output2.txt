@@ -1,7 +1,113 @@
+src :@Middle_East_Spectator
+‏Initial reports of explosions heard in Asaluyeh. Waiting to confirm.
+02:48
+1405/04/21
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Sat, 11 Jul 2026 23:16:49 UTC
+‏
+‏Jet activity over Isfahan
+‏Central Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏فعالیت جت‌ها بر فراز اصفهان
+‏مرکز ایران
+‏
+‏𝕏  ·  @shin_persian
+02:46
+1405/04/21
+
+
+
+
+src :@Alibk3
+[عکس]
+‏نشاط مكثف لسلاح الجو الأميركي فوق المنطقة، مع تحليق لطائرات التزود بالوقود والإنذار المبكر.
+02:46
+1405/04/21
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 اختلال گسترده GPS در خلیج فارس؛ گمانه‌زنی‌ها درباره حمله جدید آمریکا افزایش یافت
+‏
+‏🔹 گزارش‌ها از اختلال گسترده در سامانه موقعیت‌یاب GPS در بخش‌های مختلف خاورمیانه، به‌ویژه خلیج فارس حکایت دارد. این اختلال هم‌زمان با انتشار گزارش‌هایی درباره پروازهای رزمی نیروی هوایی آمریکا بر فراز خلیج فارس رخ داده است.
+‏
+‏🔹 هم‌زمان، برخی منابع مدعی‌اند که پس از بسته شدن دوباره تنگه هرمز، احتمال ازسرگیری حملات آمریکا علیه ایران افزایش یافته است. با این حال، تاکنون هیچ مقام رسمی این ارزیابی‌ها را تأیید نکرده است.
+‏
+‏#ایران
+‏ #آمریکا 
+‏#خلیج_فارس
+‏ 
+‏@RASTAKHIZ_PERSIAN
+02:45
+1405/04/21
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏Sat, 11 Jul 2026 23:13:55 UTC
+‏
+‏Jet activity over Kermanshah
+‏Kermanshah Province, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏فعالیت جنگنده‌ها برفراز کرمانشاه
+‏استان کرمانشاه، ایران
+‏
+‏𝕏  ·  @shin_persian
+02:44
+1405/04/21
+
+
+
+
+src :@defence_news
+‏گزارشاتی از شلیک به سمت کشتی دوم مخابره شده است   @Minas_Tirith2024
+02:43
+1405/04/21
+
+
+
+
+src :@jangaavaran1390
+‏کاتز، وزیر دفاع اسرائیل: امروز در ایران برنامه هسته ای وجود ندارد.
+‏
+‏ از وقتی که حمله مان را انجام دادیم آن ها برنامه هسته ای را ادامه نداده اند، این یک حقیقت است. امروز در ایران برنامه هسته ای وجود ندارد.
+‏
+‏ارتش اسرائیل از طرف من و نخست وزیر دستور گرفته است که برای یک اقدام نظامی مستقل علیه ایران آماده باشد.
+02:42
+1405/04/21
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- GPS jamming reported in numerous parts of the Middle East, particularly the Persian Gulf.
 ‏
 ‏Coinciding with reports of US combat sorties above the Persian Gulf. The possibilities of renewed American strikes on Iran has risen since the Strait of Hormuz was closed again.
+02:42
+1405/04/21
+
+
+
+
+src :@World_Newsly
+‏🔴 فوری/العربیه :
+‏
+‏هم اکنون تماس وزارت خارجه پاکستان با دو طرف برای کاهش تنش در منطقه در حال انجام است!
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
 02:42
 1405/04/21
 
@@ -546,17 +652,6 @@ src :@World_Newsly
 
 src :@Alibk3
 ‏أنباء عن إطلاق صاروخ آخر نحو سفينة مخالفة في مضيق هرمز.
-02:18
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴گزارش‌های غیر رسمی از شنیدن صدای جنگنده بر فراز اصفهان 
-‏
-‏‌✍🏻 Dangerman
-‏▪️@World_Newsly
 02:18
 1405/04/21
 
@@ -2272,15 +2367,6 @@ src :@Indypersian
 
 
 
-src :@Alibk3
-[عکس]
-‏طائرات شحن عسكري أميركي من طراز C-17 هبطت في ثلاث قواعد عسكرية تديرها الولايات المتحدة داخل الأردن.
-00:31
-1405/04/21
-
-
-
-
 src :@rnintel
 ‏🇮🇱⚡- "Prime Minister Netanyahu is pressuring Shin Bet Chief Zini to open an investigation against [left-wing, anti-Likud outlet] Israeli Channel 12 over the leak of the date [February 28] of the attack on Iran," - Israel Hayom.
 00:29
@@ -3881,21 +3967,6 @@ src :@mohem_mat
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️معاون نخست‌وزیر بریتانیا هشدار داد که تحمیل عوارض اجباری به کشتی‌های عبوری از تنگه هرمز «فاجعه‌بار» خواهد بود و تاکید کرد هرگونه اقدامی که آزادی کشتیرانی در این آبراه راهبردی را مختل کند، پیامدهای گسترده‌ای برای تجارت جهانی و امنیت انرژی خواهد داشت.
-‏
-‏دیوید لمی در عین حال گفت برخی دولت‌های اروپایی در حال بررسی سازوکاری برای پرداخت داوطلبانه هزینه خدمات مشخص ناوبری هستند، طرحی که تنها در صورت اجرا زیر نظر و با حمایت سازمان بین‌المللی دریانوردی (IMO) می‌تواند مورد بررسی قرار گیرد.
-‏
-‏همزمان، تارنمای آکسیوس گزارش داد دولت دونالد ترامپ به جمهوری اسلامی تا شنبه ۲۰ تیر مهلت داده است به‌صورت علنی اعلام کند تنگه هرمز برای عبور کشتی‌ها باز است و متعهد شود حمله و شلیک به کشتی‌های تجاری را متوقف خواهد کرد.
-‏
-‏#بریتانیا #ایندیپندنت_فارسی
-21:02
-1405/04/20
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The U.S. has imposed new sanctions against Iran.
@@ -4124,15 +4195,6 @@ src :@selena_updates
 [عکس]
 ‏— 🇮🇶/🇮🇶 NEW: The Islamic Resistance in Iraq, a coalition of Iran-aligned Shia militias, releases a statement announcing that they will not disarm, and they will in fact strengthen and expand their capabilities to confront the ‘escalating Zionist-American threats’
 20:20
-1405/04/20
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏انگلستان در یک تمرین در یکی از پادگان‌های خود برای اولین بار از یک لیزر با وزن  ۷۰ کیلوگرم با برد یک کیلومتر برای نصب بر روی خودرو و یا حتی پشت موتور سیکلت سه چرخ رونمایی کرد که می‌توان با آن در هر دقیقه دست کم دو پهپاد را هدف قرار داد
-20:16
 1405/04/20
 
 
@@ -6842,22 +6904,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 02:48
-1405/04/20
-
-
-
-
-src :@rnintel
-‏🇱🇧🇮🇱⚡- "Following a US request: The political echelon has ordered the Israeli military to freeze all operations considered "sensitive" in southern Lebanon.  The Israeli military is expected to begin withdrawing from the disputed areas next week, coinciding…
-02:44
-1405/04/20
-
-
-
-
-src :@rnintel
-‏🇱🇧🇮🇱⚡- "Following a US request: The political echelon has ordered the Israeli military to freeze all operations considered "sensitive" in southern Lebanon.
-‏
-‏The Israeli military is expected to begin withdrawing from the disputed areas next week, coinciding with a new round of talks with Lebanon, which will be held in Rome," - Israeli Channel 11.
-02:43
 1405/04/20
