@@ -814,17 +814,6 @@ src :@World_Newsly
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli artillery bombardment targeted the towns of Beit Yahoun and Kounine, southern Lebanon.
-‏
-‏@wfwitness
-01:31
-1405/04/20
-
-
-
-
 src :@ClashReport
 ‏Senior U.S. officials: 
 ‏
@@ -922,15 +911,6 @@ src :@bricsnews
 src :@Middle_East_Spectator
 ‏— 🇺🇸/🇮🇷 NEW: Iran has informed the U.S. that its recent attacks against 3 commercial ships in the Strait of Hormuz were the result of a ‘technical malfunction’ – Reuters  @Middle_East_Spectator
 01:06
-1405/04/20
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 Axios: The Trump administration is demanding that Iran issues on Saturday a public statement acknowledging the Strait of Hormuz is open and committing to stop firing on commercial ships, U.S. officials said in a briefing with reporters Friday.  @wfwitness
-01:05
 1405/04/20
 
 
@@ -1848,15 +1828,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 00:03
-1405/04/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The U.S. Secret Service advised President Trump to use the existing Air Force One when departing Türkiye on Wednesday instead of the newly donated aircraft from Qatar, according to CBS News.  ➡️ While the White House maintains that the new presidential…
-00:02
 1405/04/20
 
 
