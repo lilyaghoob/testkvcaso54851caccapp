@@ -1,3 +1,67 @@
+src :@P_raetorio
+[عکس]
+‏گزارش‌های تایید نشده از شلیک 2 موشک از پایگاه موشکی خمین به سمت هدفی نامشخص
+‏
+‏@P_raetorio
+05:36
+1405/04/21
+
+
+
+
+src :@guard_warriors
+‏پرتاب دو موشک سپاه از خمین
+‏
+‏@Guard_Warriors | DmW
+05:35
+1405/04/21
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇷 — A wave of ballistic missile has been launched from Iran towards US military bases in the region.
+‏
+‏@TheWarReporter
+05:35
+1405/04/21
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇺🇸 — BREAKING: IRGC launches ballistic missile attack, according to local sources.
+05:34
+1405/04/21
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸 — Reports of two ballistic missile launches from Khomein, western Iran. Likely targeting U.S. bases in Iraq or Jordan.
+05:34
+1405/04/21
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 باراک راوید با استناد به یک مقام آمریکایی گزارش می‌دهد که یک کشتی در تنگه هرمز مورد اصابت نیروهای دریایی سپاه پاسداران انقلاب اسلامی قرار گرفته و این کشتی آسیب‌هایی را متحمل شده است.  @RASTAKHIZ_PERSIAN
+05:34
+1405/04/21
+
+
+
+
+src :@naya_foriraq
+‏اطلاق صواريخ من إيران
+05:33
+1405/04/21
+
+
+
+
 src :@thewarreporter
 [عکس]
 ‏🛳️🇮🇷 — UKMTO says the crew of the M/V GFS Galaxy abandoned ship and evacuated in a lifeboat after an Iranian strike severely damaged the vessel in the Strait of Hormuz.
@@ -817,14 +881,6 @@ src :@wfwitness
 
 
 
-src :@Alibk3
-‏تجدد الغارات على مدينة جاسك الإيرانية
-04:19
-1405/04/21
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Reports of explosions in Jask.
 04:18
@@ -840,16 +896,6 @@ src :@thewarreporter
 ‏
 ‏— Israeli Broadcasting Authority | @TheWarReporter
 04:18
-1405/04/21
-
-
-
-
-src :@Alibk3
-‏مستشار المتحدث باسم الخارجية الإيرانية على صفري:
-‏
-‏إما أن تحترم الولايات المتحدة ما وقعت عليه قبل 23 يوماً، أو أن تتنصل من التزاماتها. إيران أقوى بكثير مما تتخيلون وهي مستعدة للحرب.
-04:16
 1405/04/21
 
 
@@ -943,15 +989,6 @@ src :@Shin_Persian
 ‏استان خوزستان، ایران
 ‏
 ‏𝕏  ·  @shin_persian
-04:11
-1405/04/21
-
-
-
-
-src :@Alibk3
-[عکس]
-‏تفعيل الدفاعات الجوية في شرق طهران
 04:11
 1405/04/21
 
@@ -2319,17 +2356,6 @@ src :@naya_foriraq
 
 
 
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇷 — US strikes on the Iranian city of Kerman.
-‏
-‏@TheWarReporter
-03:35
-1405/04/21
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️پیت هگست، وزیر جنگ ایالات متحده، همزمان با آغاز دور سوم حملات ارتش آمریکا، در اظهارنظری کوتاه در اکس اعلام کرد که «ایران انتخاب بدی کرد و اکنون تاوانش را پس می‌دهد.» این موضع‌گیری اندکی پس از آن صورت گرفت که واشنگتن تایید کرد در پاسخ به اقدامات اخیر سپاه پاسداران، حملات جدیدی را در تنگه هرمز آغاز کرده است. پیش از این، نیروی دریایی سپاه از انسداد مجدد تنگه هرمز «تا اطلاع ثانوی» و هدف قرار گرفتن یک کشتی به دلیل تلاش برای عبور از مسیرهای غیرمجاز خبر داده بود.
@@ -2404,19 +2430,6 @@ src :@GeoPWatch
 
 
 
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇷 — CENTCOM:
-‏
-‏"At 7:15 p.m. ET today, CENTCOM forces began launching the third round of strikes this week against Iran after IRGC forces blatantly attacked M/V GFS Galaxy, a Cyprus-flagged container ship transiting the Strait of Hormuz".
-‏
-‏@TheWarReporter
-03:33
-1405/04/21
-
-
-
-
 src :@intelslava
 ‏🇮🇷❌🇺🇸 — Reports of explosions in Jask, Kangan, and Chabahar in southern Iran.
 ‏
@@ -2441,14 +2454,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 03:32
-1405/04/21
-
-
-
-
-src :@naya_foriraq
-‏دوي الانفجارات التي سمعت في قشم كانت نتيجة اشتباكات في مياه الخليج الفارسي
-03:31
 1405/04/21
 
 
@@ -3687,14 +3692,6 @@ src :@defence_news
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Barak Ravid, citing a U.S. official, reports a commercial cargo vessel was struck and suffered heavy damage.
-03:08
-1405/04/21
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷🇰🇼⚡️- BREAKING: US operated ATACMS and/or HIMARS missiles were launched from Kuwait against targets in Iran.
 ‏
@@ -3977,17 +3974,6 @@ src :@MilitarryWorld
 
 
 
-src :@P_raetorio
-‏امشب تمام خاورمیانه شب بسیار شلوغی را به صبح خواهند رساند 
-‏
-‏
-‏@P_raetorio
-03:02
-1405/04/21
-
-
-
-
 src :@warmonitors
 ‏⚡️Israeli Media: Americans are firing missiles from Bahrain towards southern Iran.
 ‏
@@ -4043,19 +4029,6 @@ src :@Shin_Persian
 ‏#Yemen 🇾🇪
 ‏
 ‏𝕏  ·  @shin_persian
-03:01
-1405/04/21
-
-
-
-
-src :@P_raetorio
-‏#فوری 
-‏
-‏گزارشات تأییدنشده از شنیده شدن صدای انفجار در اردبیل 
-‏
-‏
-‏@P_raetorio
 03:01
 1405/04/21
 
@@ -4409,14 +4382,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Barak Ravid, citing a U.S. official, reports a ship in the Strait of Hormuz was hit by the IRGC Navy, and the ship has suffered damages.
-02:40
-1405/04/21
-
-
-
-
 src :@defence_news
 ‏برخی منابع دست دوم ادعاهایی درباره اقدام سپاه برای مین‌ریزی در بخش عمانی تنگه هرمز را مطرح کرده‌اند که فعلا قابل رد یا تأیید نیست.
 02:39
@@ -4610,15 +4575,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 02:08
-1405/04/21
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — There's no fighter jets active in Isfahan, it's a commercial plane.
-02:07
 1405/04/21
 
 
@@ -5377,26 +5333,6 @@ src :@warmonitors
 
 
 
-src :@intelslava
-[عکس]
-‏🇷🇺🇺🇦⚡️ — Russian Defence Ministry Top News Today: 
-‏Russian forces conducted group strikes with long-range precision weapons on Ukrainian defence industry enterprises in Kiev producing and storing long- and medium-range drones, along with port infrastructure in Odessa, Chornomorsk, and Izmail used for military supply and fuel storage.
-‏
-‏The Sever Group seized control of Bachivsk in Sumy region.
-‏
-‏Geran UAV teams struck AFU power and logistics infrastructure across Sumy and Chernihiv regions.
-‏
-‏FPV drone operators disrupted supply lines and destroyed AFU personnel in the operation zone.
-‏
-‏Russian servicemen continue the humanitarian evacuation of civilians from Konstantinovka.
-‏
-‏@IntelSlava
-00:11
-1405/04/21
-
-
-
-
 src :@jangaavaran1390
 ‏سال ۱۳۹۸ بود، من بودم و سه تا از رفیقام همگی دانشجوی سال آخر شریف بودیم و آماده بودیم برای ادامه تحصیل بریم آمریکا.... 
 ‏⬜️ قید همه چیو زدیم  و نرفتیم ، چسبیدیم به ساخت یه شرکت قوی تو زمینه‌ی سرمایه‌گذاری... 
@@ -5584,15 +5520,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 23:31
-1405/04/20
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇮🇷❌🇯🇴🇺🇸 — Low-quality satellite images released by Iranian media allegedly show the aftermath of Iranian missile strikes on Jordan’s Muwaffaq Salti Air Base.  @IntelSlava
-23:30
 1405/04/20
 
 
@@ -8058,27 +7985,6 @@ src :@VahidOnline
 ‏
 ‏سلام. نارمک ما صدارو شنیدیم تا قبل پیامها فکر کردیم توهم بوده
 ‏
-‏📡 @VahidOnline
-09:35
-1405/04/20
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏ترامپ: اگر تهران برای ترور من تلاش کند، هزاران موشک دیگر شلیک خواهند شد
-‏
-‏ترجمه ماشین:
-‏هزار موشک در حالت آماده شلیک قرار گرفته و جمهوری اسلامی ایران را هدف گرفته‌اند و در صورتی که دولت ایران تهدید خود را ــ که در بسیاری از نقاط جهان اعلام کرده ــ برای ترور یا تلاش برای ترور رئیس‌جمهور مستقر ایالات متحده آمریکا، که در این مورد شخص من هستم، عملی کند، بلافاصله هزاران موشک دیگر نیز به دنبال آن‌ها شلیک خواهند شد!
-‏
-‏دستورها از پیش صادر شده‌اند و ارتش آمریکا آماده، مایل و قادر است برای مدت یک سال ــ که قابل تمدید است ــ تمام مناطق ایران را به‌طور کامل درهم بکوبد و نابود کند — ستایش از آنِ الله باد!
-‏
-‏رئیس‌جمهور دونالد جی. ترامپ
-‏
-‏1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Government act on its threat, pronounced in many corners of the Globe, to assassinate, or attempt to assassinate, the sitting President of the United States of America, in this case, ME! Orders have already been given, and the U.S. Military is ready, willing, and able, for a one year period of time, subject to extension, to completely decimate and destroy all areas of Iran - PRAISE BE TO ALLAH! President DONALD J. TRUMP
-‏
-‏realDonaldTrump 
 ‏📡 @VahidOnline
 09:35
 1405/04/20
