@@ -1,3 +1,42 @@
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇮🇱 — Israel’s legislative elections now reportedly scheduled for October 27, 2026.
+‏
+‏The Knesset is expected to dissolve on July 17, setting the vote for the 26th Knesset on the latest date permitted under Israeli law following the 2022 elections. 
+‏
+‏A dissolution bill advanced earlier this year leaves open the possibility of a slightly earlier date, though current indications point to October 27.
+‏
+‏The Global Eye | Subscribe
+18:00
+1405/04/21
+
+
+
+
+src :@Middle_East_Spectator
+[ویدئو]
+‏— 🇮🇷/🇧🇭/🇺🇸 NEW: A warehouse at the U.S. Navy’s 5th Fleet Headquarters in Bahrain was also directly struck by Iran last night
+‏
+‏Satellite imagery shows an impact at the warehouse with coordinates 26°12′29.29″N, 50°37′13.22″E
+‏
+‏@Middle_East_Spectator
+17:59
+1405/04/21
+
+
+
+
+src :@defence_news
+[عکس]
+‏تصویر ماهواره ای از پایگاه هوایی العدید در قطر که دست کم محل اصابت یک پرتابه ایرانی در آن دیده می شود
+‏
+‏@Minas_Tirith2024
+17:58
+1405/04/21
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری هرانا، روز یکشنبه ۲۱ تیر ۱۴۰۵، گزارش داد مسعود وظیفه، زندانی سیاسی محبوس در زندان تهران بزرگ، در اعتراض به محرومیت از خدمات درمانی و بی‌توجهی مسوولان زندان به وضعیت جسمانی‌اش، دست به اعتصاب غذا زده و اکنون چهارمین روز اعتصاب خود را سپری می‌کند.
@@ -5,6 +44,24 @@ src :@Farsi_Iranwire
 ‏
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/154818
 ‏@Farsi_Iranwire
+17:57
+1405/04/21
+
+
+
+
+src :@KayhanLondonChannel
+[عکس]
+‏‌‏ ‏ 
+‏هشدار یک اقتصاددان: افزایش قیمت بنزین، پیش از مهار تورم، تنها به تشدید بحران می‌انجامد
+‏
+‏- سازمان برنامه و بودجه در گزارشی اعلام کرده افزایش اسمی قیمت بنزین به تنهایی منجر به کاهش محسوس مصرف نمی‌شود، زیرا تورم، اثر این افزایش را خنثی می‌کند.
+‏
+‏- آلبرت بغزیان، اقتصاددان، هشدار داده اقتصاد ایران در یک مارپیچ مرگبار از کمبود درآمد ارزی، کسری بودجه و چاپ پول گرفتار است و هرگونه شوک‌درمانی قیمتی، از جمله افزایش قیمت بنزین، پیش از مهار تورم، تنها به تشدید بحران می‌انجامد.
+‏
+‏- آلبرت بغزیان: «دیواری کوتاه‌تر از بنزین و مصرف‌کننده آن پیدا نمی‌کنند. تا مشکلی پیش می‌آید، می‌گویند مردم اسراف می‌کنند، صرفه‌جویی کنید. اما همه ما داریم صرفه‌جویی می‌کنیم.»
+‏
+‏https://kayhan.london/1405/04/21/404903/
 17:57
 1405/04/21
 
@@ -955,20 +1012,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 سنتکام: ایران کنترلی بر تنگه هرمز ندارد، این یک آبراه بین‌المللی است
-‏
-‏🔹️ فرماندهی مرکزی آمریکا اعلام کرد ایران کنترلی بر تنگه هرمز ندارد و این مسیر یک آبراه بین‌المللی باقی می‌ماند. نیروهای آمریکایی برای حفظ این وضعیت مستقر و آماده هستند.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-16:51
-1405/04/21
-
-
-
-
 src :@jangaavaran1390
 ‏یه مسئله‌ای که وجود داره اینکه ایران میگه عبور از این تنگه ممکن نیست و قبلاً نیز چنین ادعایی رو داشته 
 ‏از طرفی سنتکام میگه نه آقا بازه و اینا از قسمت جنوبی می‌تونن عبور کنند 
@@ -997,19 +1040,6 @@ src :@tabzlive
 ‏Iran does not control the Strait of Hormuz. It remains an international waterway. 
 ‏
 ‏U.S. forces are positioned and prepared to keep it that way.
-16:50
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴 حملات هوایی جنگنده‌های اسرائیلی به شرق لبنان ادامه دارد
-‏
-‏🔹️ هم‌اکنون جت‌های اسرائیلی در حال انجام حملات هوایی به مناطق شرقی لبنان هستند.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
 16:50
 1405/04/21
 
@@ -3442,18 +3472,6 @@ src :@warmonitors
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔶خداحافظ مرد میهن پرست و باشرف، یادت تا ابد در قلب ما زنده خواهد ماند ❤️🙏.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-13:16
-1405/04/21
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏⭕️فرماندار درود از برخورد پیشران یک موشک به منطقه مسکونی در این شهر خبر داد
@@ -3535,33 +3553,12 @@ src :@Shin_Persian
 
 
 
-src :@WAR_ROOM_NEWS
-‏منبع i24 گزارش داده است که نتانیاهو ممکن است برای شرکت در مراسم تدفین سناتور گراهام به ایالات متحده سفر کند؛ سفری که احتمال می‌رود در حاشیه آن با  ترامپ نیز دیدار و گفت‌وگو داشته باشد
-‏
-‏🆔@WAR_ROOM_NEWS
-13:07
-1405/04/21
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ سیستم های جنگ الکترونیک "Peroed-M" نصب شده بر روی رزمناو Varyag، ناوچه Steregushchy و ناوشکن Udaloy نیروی دریایی روسیه.
 ‏
 ‏@Guard_Warriors | Mmd
 13:07
-1405/04/21
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏با اعلام تیپ دوم حضرت رسول هرمزگان ارتش جمهوری اسلامی ایران، در حمله بامداد امروز ارتش آمریکا به یکی از سایت‌های پدافندی در منطقه جاسک، حمیدرضا دهقان از نیروهای پدافند ارتش کشته شد،همزمان، آمار منتشرشده از سوی منابع دولتی نشان می‌دهد که از ۱۷ تیرماه تاکنون، شمار کشته‌شدگان نیروهای مسلح به ۱۷ نفر و تعداد مجروحان به ۱۱۵ نفر رسیده است
-‏
-‏🆔@WAR_ROOM_NEWS
-13:06
 1405/04/21
 
 
@@ -3763,14 +3760,6 @@ src :@Americana_ir
 ‏
 ‏#اختصاصی_امریکانا
 ‏🆔 @Americana_ir
-12:23
-1405/04/21
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏امنیت دریایی بریتانیا: تهدید امنیتی در تنگه هرمز بسیار بالا است
 12:23
 1405/04/21
 
@@ -4871,16 +4860,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@WAR_ROOM_NEWS
-‏🇴🇲🇮🇷 خبرگزاری عمان: اهدافی در استان مسندم کشور عمان مورد حمله پهپادهای ایرانی قرار گرفت.دولت عمان این حمله را محکوم کرد و اعلام کرد که تمام اقدامات لازم را برای حفاظت از کشور و ساکنان آن انجام می‌دهد
-‏
-‏خفهههشوووو... شغال وسط باز
-09:52
-1405/04/21
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏لیندسی گراهام، سناتور معروف آمریکایی و مخالف سر سخت جمهوری اسلامی و روسیه درگذشت.
@@ -5157,19 +5136,6 @@ src :@GeoPWatch
 ‏
 ‏The State of Qatar has entered a period of mourning as condolences are extended to the Al Thani family and the Qatari people.
 08:39
-1405/04/21
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇶🇦 NEW: Qatar announces the death of the former Emir, Sheikh Hamad bin Khalifa Al-Thani
-‏
-‏(Unrelated to current events)
-‏
-‏@Middle_East_Spectator
-08:38
 1405/04/21
 
 
@@ -6041,19 +6007,6 @@ src :@USAMRYDATA
 
 
 
-src :@VahidOnline
-[عکس]
-‏پیت هگست، وزیر جنگ آمریکا:
-‏"ایران انتخاب بدی کرد. حالا تاوانش را می‌دهد."
-‏PeteHegseth
-‏
-‏📡 @VahidOnline
-03:28
-1405/04/21
-
-
-
-
 src :@Artemis_Force
 ‏عمده اهداف ایالات متحده آمریکا همانند شب های گذشته قطعا خواهد بود حملات هدفمند، به اهدافی همچون لانچر کروز، رادار ها، سامانه پدافندی، دپو مهمات و... همانند شب های گذشته  @artemis_force
 03:26
@@ -6301,19 +6254,6 @@ src :@RASTAKHIZ_PERSIAN
 src :@defence_news
 ‏تایید نشده:  تصویری از انفجار در بندر دیر   @Minas_Tirith2024
 03:08
-1405/04/21
-
-
-
-
-src :@defence_news
-[عکس]
-‏تایید نشده:
-‏
-‏تصویری از انفجار در بندر دیر 
-‏
-‏@Minas_Tirith2024
-03:07
 1405/04/21
 
 
