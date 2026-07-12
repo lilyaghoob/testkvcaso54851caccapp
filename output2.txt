@@ -1,8 +1,121 @@
+src :@Middle_East_Spectator
+‏Launches from Iran.
+19:52
+1405/04/21
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸-Some reports indicate a potential missile launch toward the Middle East originating from Iran.
+19:51
+1405/04/21
+
+
+
+
+src :@Middle_East_Spectator
+[ویدئو]
+‏— 🇮🇷/🇯🇴 NEW: Satellite imagery from Prince Hassan Airbase in Jordan shows two major impacts, one at the runway and one at command & control facilities
+‏
+‏In another area of the base, an MQ-9 drone hangar was destroyed.
+‏
+‏@Middle_East_Spectator
+19:51
+1405/04/21
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇮🇷 - Scenes from Messen, Qeshm Island, Iran.  Rerum Novarum have geolocated the footage to approximately 26.7403242, 56.0045863.
+19:51
+1405/04/21
+
+
+
+
+src :@rnintel
+‏https://x.com/officialrnintel/status/2076340254680739902
+19:51
+1405/04/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴حملات به قشم بسیار شدید گزارش شده است، حداقل ۱۰ انفجار مهیب در این منطقه رخ داد
+‏
+‏@MilitarryWorld | Parsa
+19:51
+1405/04/21
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷Axios: U.S. official said the U.S. military conducted an hour ago a few strikes on missile and air defense systems as well IRGC small boats at a couple of locations around the Strait of Hormuz.
+‏
+‏@wfwitness
+19:51
+1405/04/21
+
+
+
+
+src :@rnintel
+‏https://x.com/officialrnintel/status/2076340254680739902
+19:50
+1405/04/21
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏حملات سنگین به جزیره قشم
+19:50
+1405/04/21
+
+
+
+
+src :@naya_foriraq
+‏سماع دوي انفجارات في قشم وبندرعباس جنوبي إيران
+19:50
+1405/04/21
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 ستون های دود در جزیره قشم
 ‏
 ‏@RASTAKHIZ_PERSIAN
+19:47
+1405/04/21
+
+
+
+
+src :@wfwitness
+[عکس]
+‏IRIB confirms multiple explosions being heard in Qeshm.
+19:47
+1405/04/21
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏#فوری 
+‏
+‏تصاویر بیشتری از حملات آمریکا به جزیره قشم 
+‏
+‏
+‏@P_raetorio
 19:47
 1405/04/21
 
@@ -21,15 +134,6 @@ src :@World_Newsly
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷- More footage from Qeshm.
-19:45
-1405/04/21
-
-
-
-
 src :@World_Newsly
 ‏حملات سنگین ارتش امریکا به اهدافی در جزیره قشم  ✍🏻 adolf hitler ▪️@World_Newsly
 19:44
@@ -41,18 +145,6 @@ src :@World_Newsly
 src :@wfwitness
 ‏⚡️🇮🇷 Locals report hearing approximately 10 explosions towards the sea near Bandar Abbas, Iran.  @wfwitness
 19:44
-1405/04/21
-
-
-
-
-src :@DEJradio
-‏⭕️🚨 در پی حملات روز یکشنبه ۲۱ تیرماه ۱۴۰۵ سپاه پاسداران به منافع و تأسیسات نظامی ایالات متحده در کویت، مناطق مختلفی در امتداد نوار ساحلی جنوب ایران هدف حملات سنگین قرار گرفتند.
-‏براساس گزارش ها ستون‌های دود از جزیره قشم و بندرعباس مشاهده شده است.
-‏
-‏#خبر_فوری #تنگه_هرمز
-‏@DEJradio
-19:43
 1405/04/21
 
 
@@ -2872,15 +2964,6 @@ src :@mwarmonitor
 
 
 
-src :@P_raetorio
-[عکس]
-‏نهادی که جمهوری اسلامی برای کنترل تنگه هرمز ساخته در اطلاعیه‌ای خبر داد که به دلیل تحرکات غیرقانونی اخیر نیروهای نظامی ایالات متحده در منطقه، تردد از تنگه هرمز در حال حاضر امکانپذیر نمی‌باشد‌. این نهاد همچنین وعده داد که به محض برقراری ثبات و آرامش، کلیه درخواستها بر اساس زمان بندی بررسی و مجوزهای لازم صادر خواهد شد.
-16:46
-1405/04/21
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏U.S. Central Command (CENTCOM) announces once again that the Strait of Hormuz remains open to commercial shipping. According to CENTCOM, U.S. forces have helped facilitate the safe transit of more than 800 commercial vessels carrying over 400 million barrels of crude oil since early May. More than 140 merchant ships have transited the Strait over the past week alone.
@@ -3264,17 +3347,6 @@ src :@rnintel
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: U.S. Central Command says the Strait of Hormuz is ‘open’, that traffic is flowing, and Iran does not control the Strait
-‏
-‏@Middle_East_Spectator
-15:53
-1405/04/21
-
-
-
-
 src :@Minas_Tirith2024
 ‏سنتکام در بیانه ای اعلام کرد تنگه هرمز برای همه شناورهایی که به‌صورت قانونی از این آبراه عبور می‌کنند، باز است.  نیروهای آمریکا در موقعیت مناسب مستقر و آماده هستند تا با وجود اقدامات تهاجمی و خودسرانه ، آزادی کشتیرانی را حفظ کنند.
 ‏
@@ -3357,14 +3429,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 15:46
-1405/04/21
-
-
-
-
-src :@Middle_East_Spectator
-‏Omani brethren, please stop botting my posts, we love you, just kick the Americans out and it’ll be fine
-15:45
 1405/04/21
 
 
@@ -4626,29 +4690,6 @@ src :@DEJradio
 
 
 
-src :@cataphract1
-[عکس]
-‏✨ به فروشگاه Atlas Relay خوش آمدید!
-‏
-‏🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی
-‏✅ تضمین امنیت ارتباطات شما
-‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
-‏تعرفه ها :
-‏✅ 10 گیگ 65 هزار تومان
-‏✅ 20 گیگ 125
-‏✅ 30 گیگ 180
-‏✅ 40 گیگ 230
-‏✅ 50 گیگ 275
-‏✅ 100 گیگ 550
-‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
-‏
-‏https://t.me/AtlasRelayFastbot?start=cataphract
-11:56
-1405/04/21
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 واکنش جمعی از همکاران لیندسی گراهام در مجلس نمایندگان و سنای آمریکا به مرگ ناگهانی او
@@ -4981,19 +5022,6 @@ src :@rnintel
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔻 اولین واکنش ترامپ به مرگ لیندسی گراهام:
-‏
-‏"سناتور لیندسی گراهام، یکی از بزرگترین افراد و سناتورهایی که تا به حال شناخته‌ام، درگذشت! او همیشه در حال کار بود و یک میهن‌پرست واقعی آمریکایی بود. جای خالی لیندسی بسیار احساس خواهد شد!!! جزئیات و ترتیبات بعدی اعلام میشود. خیلی غم‌انگیز است!"
-‏
-‏🆔 @Americana_ir
-10:59
-1405/04/21
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -5039,14 +5067,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 10:47
-1405/04/21
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️- U.S. Senator Lindsey Graham has passed away tonight.   Graham was elected from South Carolina to the Senate replacing Strom Thurmond in 2002. Throughout his Senate career he has been a strongarm of the GOP establishment for the South.   He redeemed his…
-10:43
 1405/04/21
 
 
@@ -5303,21 +5323,6 @@ src :@rus_cosmos
 [عکس]
 ‏لیندسی گراهام، سناتور معروف آمریکایی و مخالف سر سخت جمهوری اسلامی و روسیه درگذشت.
 09:45
-1405/04/21
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸⚡️- U.S. Senator Lindsey Graham has passed away tonight. 
-‏
-‏Graham was elected from South Carolina to the Senate replacing Strom Thurmond in 2002. Throughout his Senate career he has been a strongarm of the GOP establishment for the South. 
-‏
-‏He redeemed his image among the GOP base greatly after being against President Trump in 2016 during the confirmation of Brett Kavanaugh to the Supreme Court in 2018, vigorously defending him from false rape allegations. 
-‏
-‏Graham was 71 years old.
-09:41
 1405/04/21
 
 
@@ -6089,23 +6094,6 @@ src :@Parvazdaroj
 ‏https://t.me/Artemis_Force/11704
 ‏
 ‏ایالات متحده آمریکا به دستور دونالد ترامپ رئیس جمهور ایالات متحده آمریکا حملاتی رو علیه ایران آغاز کرده است
-03:16
-1405/04/21
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏سنتکام حملات به ایران را تایید کرد و در توئیتر نوشت؛
-‏
-‏ساعت ۷:۱۵ بعد از ظهر امروز به وقت شرق آمریکا، نیروهای فرماندهی مرکزی ایالات متحده پس از حمله آشکار نیروهای سپاه پاسداران انقلاب اسلامی به کشتی کانتینری M/V GFS Galaxy با پرچم قبرس که در حال عبور از تنگه هرمز بود، دور سوم حملات خود را در این هفته علیه ایران آغاز کردند. یک خدمه غیرنظامی مفقود شده و کشتی به دلیل آتش‌سوزی در عرشه و خسارت قابل توجه به موتورخانه قادر به ادامه سفر نیست.
-‏
-‏
-‏پس از آنکه ایران به خاطر حملات قبلی به کشتی‌های تجاری مسئول شناخته شد، اما دوباره شکست خورد، فرصت دیگری برای نشان دادن پایبندی به یادداشت تفاهم به ایران داده شد.
-‏
-‏
-‏در پاسخ، ایالات متحده با ادامه تضعیف توانایی ایران در حمله به دریانوردان غیرنظامی و کشتی‌های تجاری که آزادانه از تنگه عبور می‌کنند، هزینه سنگینی را تحمیل می‌کند. این حملات به دستور فرمانده کل قوا انجام می‌شود.
 03:16
 1405/04/21
 
