@@ -1,3 +1,104 @@
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Explosions in Mahshahr!
+03:06
+1405/04/22
+
+
+
+
+src :@MilitarryWorld
+‏🔴حملات امشب آمریکا تموم شد/والا
+‏
+‏@MilitarryWorld | Parsa
+03:06
+1405/04/22
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Reports are circulating that the police station in the village of Malleh, in Khuzestan, was struck in the American strikes.
+03:06
+1405/04/22
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 صدا و سیما مملکت هم اکنون؛
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+03:05
+1405/04/22
+
+
+
+
+src :@intelslava
+‏🇮🇷⚡️ — Air defenses have been activated east of Tehran.
+03:05
+1405/04/22
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷 - No US airstrike in almost 10 minutes.
+03:04
+1405/04/22
+
+
+
+
+src :@Alibk3
+[عکس]
+‏تحلّق أكثر من 6 طائرات تزوّد بالوقود أميركية في المنطقة، فيما غادرت 4 طائرات أخرى على الأقل إسرائيل متجهة شرقًا. وقد اختفت إشاراتها من الرادارات بعد دخولها المجال الجوي السعودي.
+03:04
+1405/04/22
+
+
+
+
+src :@Artemis_Force
+‏همچنین در ساعت یک و ۴۰ دقیقه بامداد امروز دوشنبه ۲۲ تیرماه نقاطی در شهرستان های بهبهان و دزفول مورد اصابت پرتابه های دشمن آمریکایی قرار گرفته است   @artemis_force
+03:04
+1405/04/22
+
+
+
+
+src :@World_Newsly
+‏🔴 همچنین ۹ سوخت رسان آمریکایی بر روی خلیج فارس مشغول به پروازند.  ✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧 ▪️ @World_Newsly
+03:03
+1405/04/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏یک مقام آمریکایی به شبکه خبری ای‌بی‌سی گفت که ایالات متحده دور جدیدی از حملات را علیه اهداف جمهوری اسلامی انجام داد که شامل سامانه‌های پدافند هوایی و شناورهای سپاه پاسداران در اطراف تنگه هرمز بودند.
+‏
+‏به گفته این مقام آمریکایی، این حملات با هدف کاهش توانایی جمهوری اسلامی در هدف قرار دادن کشتی‌های تجاری انجام شده است. 
+‏
+‏او گفت که هیچ سرباز آمریکایی در این حملات زخمی نشده است.
+‏https://iranintl.com/202607127575
+03:03
+1405/04/22
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Image allegedly shows explosions targeting Ahvaz airport.   Reports claim the airport was targeted with cluster munitions.  @wfwitness
+03:03
+1405/04/22
+
+
+
+
 src :@tabzlive
 ‏An electrical substation was damaged, resulting in a limited power outage.
 ‏
@@ -27,6 +128,15 @@ src :@Shin_Persian
 ‏ایران
 ‏
 ‏𝕏  ·  @shin_persian
+03:02
+1405/04/22
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 ۴ سوخت رسان از تل آویو بلند شدن.  ✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧 ▪️ @World_Newsly
 03:02
 1405/04/22
 
@@ -680,17 +790,6 @@ src :@rnintel
 
 
 
-src :@World_Newsly
-‏🔴گزارش از هدف قرار گرفتن پایگاه باکری دزفول
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-02:39
-1405/04/22
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏دوي 3 انفجارات في دزفول الآن.
@@ -729,28 +828,6 @@ src :@rnintel
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- The border crossing of Chazabeh in the Danial region of Shush County, Khuzestan Province, has been targeted.
 ‏The air defense systems in area has been destroyed.
-02:38
-1405/04/22
-
-
-
-
-src :@World_Newsly
-‏⭕️ تقریبا آمریکا امشب به تمام شهر های خوزستان حمله هایی انجام داده ، شهرایی که حتی تاحالا یکبارم شاید اسمش به گوش مردم ایران نخورده باشه.
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-02:38
-1405/04/22
-
-
-
-
-src :@World_Newsly
-‏🔴 چندین پایگاه در دزفول مورد هدف قرار گرفتند
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
 02:38
 1405/04/22
 
@@ -1249,14 +1326,6 @@ src :@defence_news
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- More explosions in Dezful.
-02:22
-1405/04/22
-
-
-
-
 src :@MilitarryWorld
 ‏🔴حملات هوایی متعدد آمریکا علیه بندر خمیر، در جنوب ایران.
 ‏
@@ -1323,14 +1392,6 @@ src :@tabzlive
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Multiple US airstrikes against Bandar e Khamir, southern Iran.
 02:22
-1405/04/22
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇮🇷❌🇺🇸 - Anti-Air Defense firing in Kemranshah.
-02:21
 1405/04/22
 
 
@@ -1583,14 +1644,6 @@ src :@Indypersian
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷 - US airstrikes against:  Ahvaz, Bandar-e Mahshahr,  Sirik, Bandar Abbas, Chabahar, Bushehr, Qeshm Island, Bandar-e-Jask, Minab, Bandar Kangan, Omidiyeh, Emadshahr.
-02:13
-1405/04/22
-
-
-
-
 src :@MilitarryWorld
 ‏🔴فوری/استانداری استان مرکزی:
 ‏دو حمله هوایی سایت موشکی خنداب در این استان را هدف قرار گرف
@@ -1680,14 +1733,6 @@ src :@wfwitness
 
 
 
-src :@intelslava
-‏🇺🇸❌🇮🇷 — 4x sites in Omidiyeh and Mahshahr hit in a new US airstrike.
-02:08
-1405/04/22
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مهر: گزارش چند انفجار در امیدیه هم اکنون
 ‏
@@ -1718,14 +1763,6 @@ src :@mwarmonitor
 ‏📰 «رویترز»: قیمت نفت بیش از ۲ درصد افزایش یافت، در حالی که تنش‌های آمریکا و ایران در «خاورمیانه» و کاهش عرضه از طریق تنگه هرمز ادامه دارد.
 ‏
 ‏@mwarmonitor
-02:06
-1405/04/22
-
-
-
-
-src :@Alibk3
-‏دوي انفجارين في أطراف مدينة خنداب وسط إيران.
 02:06
 1405/04/22
 
@@ -2155,14 +2192,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 Press TV: Reports of several blasts in Iran’s southern province of Sistan and Baluchestan after US strikes.  @wfwitness
-01:43
-1405/04/22
-
-
-
-
 src :@P_raetorio
 ‏طبق گزارش منابع محلی، شدت انفجارها در اهواز و استان خوزستان بشدت بالاست 
 ‏
@@ -2194,16 +2223,6 @@ src :@mamlekate
 src :@Artemis_Force
 ‏حمله به خنداب که منتشر شده است متعلق به صبح گذشته ( بامداد روز،گذشته است )   در این حمله یک منطقه در شهرستان خنداب استان مرکزی توسط پرتاب‌های کروز در صبح یکشنبه مورد هدف واقع شد   پ ن : تاکنون حمله جدیدی گزارش نشده است   @artemis_force
 01:41
-1405/04/22
-
-
-
-
-src :@MilitarryWorld
-‏🔴چابهار و بندرعباس رو دوباره زدن
-‏
-‏@MilitarryWorld | Parsa
-01:40
 1405/04/22
 
 
@@ -5099,14 +5118,6 @@ src :@guard_warriors
 
 
 
-src :@Artemis_Force
-‏https://t.me/defence_news/49238
-20:35
-1405/04/21
-
-
-
-
 src :@DEJradio
 ‏🚨⭕️ انفجارهای تازه در بندرعباس گزارش می‌شود
 ‏
@@ -7259,14 +7270,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:07
-1405/04/21
-
-
-
-
-src :@warmonitors
-‏⚡️Israeli Media: Americans are firing missiles from Bahrain towards southern Iran.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-03:02
 1405/04/21
