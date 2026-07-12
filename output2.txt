@@ -1,3 +1,51 @@
+src :@mohem_mat
+‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در واکنش به مرگ سناتور لیندسی گراهام که امروز درگذشت، اظهار داشت:
+‏
+‏ او به من گفته بود:
+‏باید به تأسیسات هسته‌ای ایران حمله کنید.
+‏
+‏@mohem_mat
+22:11
+1405/04/21
+
+
+
+
+src :@Artemis_Force
+‏ساعتی پیش منابع محلی از اصابت۲ پرتابه به جزیره بوموسی خبر دادند.  همچنین در حوالی ساعت ۲۰:۳۰ امشب، صدای چند انفجار دیگر در بندرعباس شنیده شده است که به نظر می‌رسد مربوط به شلیک یا اصابت‌هایی در این محدوده بوده است.  از طرفی دیگر  در پی حمله آمریکایی ها به…
+22:11
+1405/04/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴اطلاعیه ناگهانی منابع خبری عربی:
+‏
+‏به شهروندان و ساکنان کشورهای خاورمیانه و شورای همکاری خلیج فارس،
+‏به زودی یک هشدار فوری منتشر خواهد شد،
+‏لطفاً کاملا هوشیار باشید.
+‏
+‏@MilitarryWorld | Parsa
+22:11
+1405/04/21
+
+
+
+
+src :@mohem_mat
+‏مرتضی افقه، کارشناس اقتصادی:
+‏
+‏نوسانات قیمت ‎دلار بیش از هر چیز ناشی از بی‌ثباتی در روابط ایران و آمریکا است.
+‏بعید می‌دانم حتی در بهترین شرایط و پس از دستیابی به توافق، نرخ دلار به کمتر از ۱۴۰ هزار تومان برسد؛ زیرا کاهش بیشتر می‌تواند تعادل بازار را بر هم بزند./ایلنا
+‏
+‏@mohem_mat
+22:09
+1405/04/21
+
+
+
+
 src :@thewarreporter
 ‏🇺🇸🇸🇦🇶🇦🇮🇷 — Navigational data confirms that Saudi Arabia and Qatar assisted U.S. military operations against Iran, while publicly condemning Iran's retaliatory attacks.
 ‏
@@ -1859,14 +1907,6 @@ src :@ClashReport
 
 
 
-src :@WAR_ROOM_NEWS
-‏طبق گزارش خبرگزاری مهر، در پی حمله دقایقی پیش به یک دکل مخابراتی در جزیره فارور، یک نیروی شرکت همراه اول جان خود را از دست داد و ۳ نفر دیگر زخمی شدند.جزیره فارور سال‌هاست غیرمسکونی است و تنها دارای برخی زیرساخت‌های انرژی، نظامی و دولتی است.
-20:31
-1405/04/21
-
-
-
-
 src :@MilitarryWorld
 ‏🔴خبری که ترامپ گفته امشب حملات ویران کننده ای علیه ایران انجام میدیم فیکه و ترامپ صحبتی نکرده با رسانه ها 
 ‏
@@ -3241,18 +3281,6 @@ src :@rus_cosmos
 
 
 
-src :@IranintlTV
-[عکس]
-‏خبرگزاری فارس، وابسته به سپاه پاسداران، شامگاه یک‌شنبه از شنیده‌شدن صدای انفجار در «شرق بندرعباس و محدوده دریایی قشم» خبر داد و نوشت: «اهالی منطقه مسن در جنوب جزیرهٔ قشم نیز صدای چند انفجار را شنیده‌اند.»
-‏
-‏پیش‌تر نیز برخی رسانه‌ها از وقوع انفجارهایی در کویت خبر داده بودند.
-‏https://iranintl.com/202607122068
-19:29
-1405/04/21
-
-
-
-
 src :@rnintel
 ‏🇮🇷🇴🇲 - Explosions can be heard from Qeshm Island.
 19:29
@@ -4284,18 +4312,6 @@ src :@ClashReport
 
 
 
-src :@mohem_mat
-‏سخنان جنجالی در آستانه نیمه نهایی؛ نخست‌وزیر سابق اسپانیا: فرانسه بدون فرانسوی‌ها بازی می‌کند
-‏
-‏ماریانو راخوی، نخست‌وزیر پیشین اسپانیا با انتشار یادداشتی درباره جام جهانی بار دیگر جنجال‌ساز شد. او نوشت: فرانسه «سطحی بسیار بالا، البته بدون فرانسوی‌ها» دارد. گروهی از سیاستمداران در دو کشور این سخنان را «نژادپرستانه» خواندند./یورونیوز
-‏
-‏@mohem_mat
-17:35
-1405/04/21
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏سنتکام 
@@ -4312,18 +4328,6 @@ src :@Artemis_Force
 
 src :@rnintel
 ‏🇮🇱⚡️- BREAKING: Israeli media have started to announce that elections will be held on October 27th, 2026.
-17:31
-1405/04/21
-
-
-
-
-src :@mohem_mat
-‏دونالد ترامپ گفت که دقایقی قبل از مرگ سناتور لیندسی گراهام با او صحبت کرده و افزود: به جز خستگی، حال او خوب بود.
-‏
-‏این یک ضربه بزرگ به قانون نجات آمریکا (یک لایحه‌ی اولویت‌دار برای دونالد ترامپ) است.
-‏
-‏@mohem_mat
 17:31
 1405/04/21
 
@@ -4528,17 +4532,6 @@ src :@Americana_ir
 src :@mwarmonitor
 ‏ترامپ: تنگه هرمز همچنان باز است.😐
 16:48
-1405/04/21
-
-
-
-
-src :@selena_updates
-[عکس]
-‏U.S. Central Command (CENTCOM) announces once again that the Strait of Hormuz remains open to commercial shipping. According to CENTCOM, U.S. forces have helped facilitate the safe transit of more than 800 commercial vessels carrying over 400 million barrels of crude oil since early May. More than 140 merchant ships have transited the Strait over the past week alone.
-‏
-‏Iran's Persian Gulf Strait Authority (PGSA) says that the passing through the strait is closed: "Due to recent illegal movements of US military forces in the region, traffic through the Strait of Hormuz is currently not possible. As soon as stability and calm are restored, all requests will be reviewed and the necessary."
-16:45
 1405/04/21
 
 
