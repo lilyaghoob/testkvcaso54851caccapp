@@ -1,3 +1,55 @@
+src :@mohem_mat
+‏➖ حذف لیست ترور از سایت یک روزنامه چاپ تهران
+‏
+‏در پی انتشار یک لیست ترور در سایت یکی از روزنامه‌های چاپ تهران، صفحه مربوط به این لیست از سایت مذکور حذف شد.
+‏
+‏به گزارش انصاف نیوز، در این فهرست علاوه بر ترامپ و نتانیاهو، تصاویر شماری از سران کشورهای اروپایی نیز با لباس نارنجی گنجانده شده بود و با واکنش‌هایی در فضای مجازی همراه شده بود و حتی موجب استناد رسانه‌هایی چون یورونیوز و ارتباط دادن آن به پیام دیروز رهبری شد.
+‏
+‏اما دقایقی پیش این تصویر از سایت روزنامه مذکور که وابسته به یک نهاد عمومی است حذف شد.
+‏
+‏@ensafnews
+22:56
+1405/04/21
+
+
+
+
+src :@World_Newsly
+‏🔴فارس: قطر و عربستان بازوهای حملات هوایی آمریکا به ایران هستند!
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+22:55
+1405/04/21
+
+
+
+
+src :@mohem_mat
+‏شبکه ۱۲ اسرائیل مدعی شد
+‏
+‏یک نهاد اطلاعاتی غربی، نشانه‌هایی از ارزیابی‌های ایران درباره احتمال تلاش برای ترور دونالد ترامپ در خاک ترکیه را شناسایی کرده و همین اطلاعات، باعث شد هواپیمای ریاست‌جمهوری آمریکا پیش از پرواز تعویض شود.
+‏
+‏@mohem_mat
+22:55
+1405/04/21
+
+
+
+
+src :@World_Newsly
+‏🔴دبیرکل سازمان ملل:
+‏
+‏من اعلام میکنم و دستور میدم که درگیری ها در خلیج فارس باید فورا تمام بشه
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+22:55
+1405/04/21
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏علی‌اصغر احمدپناه، شهروند ۱۹ ساله اهل بیجار و ساکن تهران، حدود دو هفته پیش پس از احضار و حضور در یکی از شعب دادگاه انقلاب تهران بازداشت و به زندان تهران بزرگ (فشافویه) منتقل شد. به گفته منابع حقوق بشری، تاکنون دلیل بازداشت او اعلام نشده است.
@@ -213,14 +265,6 @@ src :@selena_updates
 ‏The strike killed 6 Army reservists and wounded more than 30 others, while soldiers said that commanders pressured personnel to return to the operations building shortly before the attack, failed to assist visibly with rescue efforts afterward, and mishandled the evacuation and classification of wounded troops.
 ‏
 ‏Army Central disputes parts of their account, saying the facility had layered defenses and that commanders assisted before being medically evacuated, but a U.S. official familiar with the completed internal review said it currently assigns no fault and recommends no punitive action, fueling survivors’ concerns that the vulnerabilities and command failures they state may go unaddressed.
-22:40
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴نیروی قدس سپاه پاسداران انقلاب اسلامی به ساکنان کویت، بحرین و امارات متحده عربی هشدار می‌دهد: از پایگاه‌های آمریکایی و مناطقی که سامانه‌های موشکی در آن مستقر هستند، دوری
 22:40
 1405/04/21
 
@@ -988,18 +1032,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴تهدید روزنامه فرهیختگان!
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-21:48
-1405/04/21
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏سنجعل عاليها سافلها 
@@ -1013,18 +1045,6 @@ src :@naya_foriraq
 
 src :@naya_foriraq
 ‏الله أكبر
-21:47
-1405/04/21
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 نقاط مورد اصابت قرار گرفتۀ در پایگاه هوایی شاهزاده حسن اردن در حملات چندی پیش
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
 21:47
 1405/04/21
 
@@ -1117,17 +1137,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴واشنگتن پست: شش سرباز آمریکایی که در حمله پهپادی ایران در کویت جان سالم به در بردند، فرماندهان ارتش را متهم می‌کنند که به هشدارهای مکرر مبنی بر آسیب‌پذیری پایگاه بی‌توجهی کردند. آن‌ها بدون محافظت مناسب در برابر پهپادها به آنجا اعزام شده بودند
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-21:42
-1405/04/21
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏سپاه پاسداران اعلام کرد به یک پایگاه سابق سازمان ملل در کویت حمله کرده است ! طبق این اعلام، این محل در منطقه العبدلی کویت هدف قرار گرفته، زیرا آمریکا پیش‌تر سامانه‌های راکت انداز هایمارس را در آن مستقر کرده بود
@@ -1163,20 +1172,6 @@ src :@tabzlive
 ‏➡️ Fars News Agency has claimed that Iranian missiles targeted U.S. HIMARS launchers pointed towards Iran in Kuwait.
 ‏
 ‏Source: LayBay
-21:40
-1405/04/21
-
-
-
-
-src :@World_Newsly
-[ویدئو]
-‏🔴 در حمله هوایی آمریکا تنها چند متر با نیروگاه هسته‌ای بوشهر فاصله داشت
-‏
-‏🔸 این یک تشدید خطرناک و بسیار جدی است، اگر به تاسیسات اصلی این نیروگاه ضربه وارد می‌شد کل خلیج فارس مملو از هوای رادیواکتیو می‌شد
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
 21:40
 1405/04/21
 
@@ -2616,15 +2611,6 @@ src :@mohem_mat
 
 
 
-src :@Alibk3
-[عکس]
-‏هناك بعض الحركة في الممر الإيراني بمضيق هرمز، لكن النشاط لا يزال شبه معدوم.
-20:27
-1405/04/21
-
-
-
-
 src :@MilitarryWorld
 ‏🔴اف بی‌آی پرونده درگذشت لیندسی گراهام را بررسی می‌کند!
 ‏
@@ -3564,14 +3550,6 @@ src :@Artemis_Force
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Rising smoke seen in southern Qeshm Island.
-19:31
-1405/04/21
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏🇬🇧 An Islamist terrorist linked to the 7/7 London bombings has reportedly been released from a secure mental health hospital in Britain after completing treatment.
@@ -4327,22 +4305,6 @@ src :@selena_updates
 
 
 
-src :@mohem_mat
-‏احتمال ۶۴ تیمی شدن جام جهانی ۲۰۳۰ قوت گرفت
-‏
-‏اینفانتینو در گفتگو با رسانه سوئیسی Bluewin درباره احتمال افزایش تعداد تیم‌ها به ۶۴ تیم گفت: این موضوع قطعاً بررسی و در کمیته‌های مربوطه پس از جام جهانی پیش رو مورد بحث قرار خواهد گرفت.
-‏
-‏رئیس فیفا تأکید کرد که جام جهانی متعلق به تمام جهان است و تنها به اروپا و آمریکای جنوبی محدود نمی‌شود.
-‏
-‏هر کشوری باید اجازه داشته باشد رؤیای حضور در جام جهانی را داشته باشد. کیفیت تیم‌ها بسیار بالا است و این کیفیت در سراسر جهان روزبه‌روز بیشتر می‌شود. / مهر
-‏
-‏@mohem_mat
-18:15
-1405/04/21
-
-
-
-
 src :@didarnews1
 ‏🔴رسانه i24: 
 ‏
@@ -4352,20 +4314,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:11
-1405/04/21
-
-
-
-
-src :@mohem_mat
-‏رسانه i24: 
-‏
-‏انتخابات اسرائیل در روز آخر وقت مقرر یعنی تاریخ ۲۷ اکتبر [ ۵ آبان ] برگزار خواهد شد.
-‏
-‏پ.ن : ۱۰۰ روز خطرناک...
-‏
-‏@mohem_mat
-18:08
 1405/04/21
 
 
@@ -7022,15 +6970,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 23:07
-1405/04/20
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡US Ambassador to Israel Mike Huckabee says in an interview with Fox News that Israel passed information to the US this week about the Iranians' specific intention to harm Trump. 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:52
 1405/04/20
