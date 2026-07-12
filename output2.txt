@@ -1,5 +1,101 @@
+src :@intelslava
+‏🇺🇸❌🇮🇷 — Cities struck by US forces across Iran's southern coastal regions.
+‏
+‏➡️ Confirmed hit locations: Bandar Abbas, Sirik, Kangan, Bandar Deyr, Assaluyeh, Chabahar, Konarak, Bushehr, and Mahshahr.
+‏
+‏➡️ Strikes appear concentrated along Iran's southern coastline, consistent with previous attack patterns.
+‏
+‏@IntelSlava
+05:26
+1405/04/21
+
+
+
+
+src :@Alibk3
+[عکس]
+‏طاقم السفينة التي استهدفها الحرس الثوري يتخلى عنها، في محاولة للنجاة، بعدما تعرضت لأضرار جسيمة.
+05:26
+1405/04/21
+
+
+
+
+src :@Middle_East_Spectator
+‏Launches
+05:25
+1405/04/21
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸❌🇮🇷 — Scenes of attacks on Bushehr.
+‏
+‏@IntelSlava
+05:24
+1405/04/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏An Iranian strike severely damaged the M/V GFS Galaxy in the Strait of Hormuz, forcing the crew to abandon ship and evacuate in a lifeboat.
+05:23
+1405/04/21
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 حمله به یک کشتی در نزدیکی عمان؛ خدمه شناور را ترک کردند
+‏
+‏🔹️ سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد خدمه یک کشتی که در ۹ مایل دریایی شرق عمان مورد حمله قرار گرفت، شناور را ترک کرده و سوار قایق نجات شده‌اند.
+‏
+‏🔹️ این شناور از ناحیه عقب آسیب دیده و دچار آتش‌سوزی شده است.
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+05:23
+1405/04/21
+
+
+
+
+src :@P_raetorio
+‏با اعلام معاون امنیتی استاندار خوزستان اهدافی در شهرستان‌های هندیجان،آبادان و ماهشهر هدف حملات پرتابه های امریکایی قرار گرفتند
+‏
+‏@P_raetorio
+05:23
+1405/04/21
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — Abadan, Mahshahr, and Hendijan in Iran's Khuzestan province were struck by "enemy projectiles," state media reports.
+05:23
+1405/04/21
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️واحد عملیات پلیس تورنتو با انتشار هشداری فوری از وقوع یک حادثه «تیراندازی فعال» در جشنواره «سالسا» خبر داد و اعلام کرد که در پی این رویداد، تاکنون پنج نفر با جراحات ناشی از شلیک گلوله شناسایی شده‌اند و مرگ دو تن نیز در محل حادثه تایید شده است. پلیس با تاکید بر اینکه بررسی‌ها برای روشن شدن ابعاد ماجرا ادامه دارد، از شهروندان خواست به طور جدی از حضور در این محدوده خودداری کنند و تمامی دستورالعمل‌های نیروهای امنیتی مستقر در محل را نادیده نگیرند.
+‏ 
+‏@indypersian
+05:22
+1405/04/21
+
+
+
+
 src :@GeoPWatch
-‏🇮🇷❌⁉️- Reports of possible Iranian missile launches.
+‏🇮🇷❌⁉️- Reports of possible Iranian missile launches awaiting confirmation.
 05:22
 1405/04/21
 
@@ -132,13 +228,10 @@ src :@defence_news
 
 src :@VahidOnline
 [عکس]
-‏خبرگزاری مهر: 
-‏۳ شهرستان خوزستان مورد اصابت پرتابه‌های دشمن قرار گرفت
+‏معاون امنیتی استانداری خوزستان گفته است که شهرستان‌های هندیجان، ماهشهر و آبادان هدف پرتابه‌هایی قرار گرفته‌اند.
 ‏
-‏ولی‌الله حیاتی بامداد امروز یکشنبه در گفتگویی رسانه‌ای اظهار کرد:
-‏بر اثر حمله دشمن به استان خوزستان در بامداد امروز یکشنبه، سه شهرستان آبادان، ماهشهر و هندیجان در این استان مورد اصابت قرار گرفت.
-‏
-‏اخبار تکمیلی و جزییات تلفات متعاقبا اعلام می شود.
+‏هنوز جزئیاتی درباره محل دقیق اصابت، خسارات و تلفات احتمالی منتشر نشده است.
+‏@VahidHeadline 
 ‏
 ‏📡 @VahidOnline
 05:05
@@ -936,14 +1029,6 @@ src :@thewarreporter
 
 
 
-src :@Alibk3
-‏دوي انفجار جديد في ميناء ماهشهر الإيراني
-04:08
-1405/04/21
-
-
-
-
 src :@GeoPWatch
 ‏The footage depicting missile launches from Kuwait toward Iran is outdated; the initial report containing these images is at least twenty minutes old. Given that an ATACMS missile would reach its target in Iran significantly faster than that duration after launch from Kuwait, the imagery is not recent to the current moment.
 04:07
@@ -1235,17 +1320,6 @@ src :@World_Newsly
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
 04:01
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴فوری/گزارشات از حمله ایران به یک کشتی دیگر در تنگه هرمز
-‏
-‏✍🏻 A$
-‏@World_Newslyi
-04:00
 1405/04/21
 
 
@@ -4044,19 +4118,6 @@ src :@warmonitors
 
 
 
-src :@P_raetorio
-‏اگر حملات آمریکا شدت پیدا کند احتمال دارد اسرائیل نیز چراغ سبز ورود به این نبرد را دریافت کرده باشد! 
-‏
-‏#یادداشت 
-‏
-‏
-‏@P_raetorio
-02:56
-1405/04/21
-
-
-
-
 src :@BellumActaNews
 ‏🇮🇷💥 — Explosions in Bandar Kangan, Bushehr province
 02:55
@@ -4228,16 +4289,6 @@ src :@guard_warriors
 ‏انفجار در عسلویه و بوشهر 
 ‏
 ‏@Guard_Warriors
-02:51
-1405/04/21
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 BREAKING: Explosions heard in Asaluyeh and Bushehr
-‏
-‏@Middle_East_Spectator
 02:51
 1405/04/21
 
@@ -6759,21 +6810,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 18:12
-1405/04/20
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺❌🇺🇦— A series of Russian strikes hit targets in Odessa.
-‏
-‏➡️ Enemy logistics facilities, a cargo ship of the Ukrainian shadow fleet flying a Saint Kitts and Nevis flag, and vehicles were struck.
-‏
-‏➡️ The port in Illyichevsk (Chornomorsk) was among the targets hit, with a strike also carried out on an ammunition warehouse within the port area.
-‏
-‏@IntelSlava
-18:11
 1405/04/20
 
 
