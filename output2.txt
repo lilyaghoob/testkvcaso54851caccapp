@@ -1,3 +1,63 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 ستون های دود در جزیره قشم
+‏
+‏@RASTAKHIZ_PERSIAN
+19:47
+1405/04/21
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 مرندی : ترامپ احتمالاً تصمیم گرفته است که اقتصاد جهانی را نابود کند.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+19:46
+1405/04/21
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷- More footage from Qeshm.
+19:45
+1405/04/21
+
+
+
+
+src :@World_Newsly
+‏حملات سنگین ارتش امریکا به اهدافی در جزیره قشم  ✍🏻 adolf hitler ▪️@World_Newsly
+19:44
+1405/04/21
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Locals report hearing approximately 10 explosions towards the sea near Bandar Abbas, Iran.  @wfwitness
+19:44
+1405/04/21
+
+
+
+
+src :@DEJradio
+‏⭕️🚨 در پی حملات روز یکشنبه ۲۱ تیرماه ۱۴۰۵ سپاه پاسداران به منافع و تأسیسات نظامی ایالات متحده در کویت، مناطق مختلفی در امتداد نوار ساحلی جنوب ایران هدف حملات سنگین قرار گرفتند.
+‏براساس گزارش ها ستون‌های دود از جزیره قشم و بندرعباس مشاهده شده است.
+‏
+‏#خبر_فوری #تنگه_هرمز
+‏@DEJradio
+19:43
+1405/04/21
+
+
+
+
 src :@MilitarryWorld
 ‏🔴ایالات متحده حملات تلافی‌جویانه‌ای را در پاسخ به حملات ایران به کشتی‌ها آغاز کرده است 
 ‏
@@ -733,17 +793,6 @@ src :@naya_foriraq
 
 src :@WAR_ROOM_NEWS
 ‏اکنون اخباری از انفجارها در بندرعباس و قشم مخابره شده
-19:25
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴 انفجار در قشم و بندر عباس (تایید نشده)
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
 19:25
 1405/04/21
 
@@ -2624,15 +2673,6 @@ src :@cataphract1
 ‏✒️#MS3
 ‏📃@Cataphract1
 17:14
-1405/04/21
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇵🇸🇮🇱 Footage from Gaza city.  @wfwitness
-17:06
 1405/04/21
 
 
@@ -5240,21 +5280,6 @@ src :@didarnews1
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴ارتش آمریکا:
-‏
-‏🔹در طی ۳ روز به بیش از ۳۰۰ هدف در ایران ضربه زدیم
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-09:56
-1405/04/21
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏#BREAKING
@@ -5312,14 +5337,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 09:40
-1405/04/21
-
-
-
-
-src :@rnintel
-‏🇶🇦🇮🇷⚡️- Qatar reports three people were injured during the Iranian attack from interception debris.
-09:39
 1405/04/21
 
 
@@ -5609,14 +5626,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 08:03
-1405/04/21
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭- Three explosions in Bahrain.
-08:02
 1405/04/21
 
 
@@ -6043,17 +6052,6 @@ src :@warmonitors
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 هگست: ایران یک انتخاب نادرست انجام داد. اکنون، آن‌ها باید عواقب آن را بپذیرند.
-‏
-‏@RASTAKHIZ_PERSIAN
-03:21
-1405/04/21
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏Following the latest developments, the United States launched a series of military strikes against targets in Iran.
@@ -6223,18 +6221,6 @@ src :@Mena_Live
 src :@DEJradio
 ‏🚨🔥  خبر فوری سپاه پاسداران جمهوری اسلامی با انتشار دو بیانیه، ضمن اعلام خبر حمله موشکی به یک کشتی عبوری از مسیر جنوبی تنگه هرمز، از بسته شدن این تنگه تا اطلاع ثانوی خبر داد.  #تنگه_هرمز  #سپاه_تروریستی_پاسداران @DEJradio
 01:59
-1405/04/21
-
-
-
-
-src :@DEJradio
-‏🚨🔥  خبر فوری
-‏سپاه پاسداران جمهوری اسلامی با انتشار دو بیانیه، ضمن اعلام خبر حمله موشکی به یک کشتی عبوری از مسیر جنوبی تنگه هرمز، از بسته شدن این تنگه تا اطلاع ثانوی خبر داد.
-‏
-‏#تنگه_هرمز #سپاه_تروریستی_پاسداران
-‏@DEJradio
-01:52
 1405/04/21
 
 
