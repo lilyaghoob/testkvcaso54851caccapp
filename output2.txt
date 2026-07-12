@@ -1,3 +1,70 @@
+src :@intelslava
+[عکس]
+‏🇮🇷❌🇰🇼🇺🇸 —Image from Iraq showing U.S. Army HIMARS rockets launched from Kuwait toward Iran.
+‏
+‏@IntelSlava
+04:21
+1405/04/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴مقام امریکایی به سی‌ان‌ان: حملات امشب تموم شد
+‏
+‏@MilitarryWorld | Parsa
+04:21
+1405/04/21
+
+
+
+
+src :@rnintel
+‏🇨🇦⚡️- A mass shooting at the St. Clair Festival in Toronto Canada has left two dead, and five other injured. The police are still searching for the shooter.
+04:20
+1405/04/21
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 Initial reports of explosions in Jask.
+‏
+‏@wfwitness
+04:20
+1405/04/21
+
+
+
+
+src :@Alibk3
+‏تجدد الغارات على مدينة جاسك الإيرانية
+04:19
+1405/04/21
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Reports of explosions in Jask.
+04:18
+1405/04/21
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇴🇲🇮🇷 — Oman informed the US that Iran has rejected proposals related to the Strait of Hormuz.
+‏
+‏In response, Washington has decided to resume the naval blockade and military operations against Iran.
+‏
+‏— Israeli Broadcasting Authority | @TheWarReporter
+04:18
+1405/04/21
+
+
+
+
 src :@Alibk3
 ‏مستشار المتحدث باسم الخارجية الإيرانية على صفري:
 ‏
@@ -20,6 +87,8 @@ src :@World_Newsly
 ‏🔴کنارک 
 ‏🔴بوشهر
 ‏🔴ماهشهر
+‏🔴جاسک
+‏🔴میناب
 ‏
 ‏
 ‏✍🏻 A$
@@ -1519,14 +1588,6 @@ src :@Alibk3
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Fars: Khuzestan's provincial security deputy has denied rumors of explosions in Ahvaz and Abadan, calling them baseless claims spread by hostile media as psychological operations.  He affirmed that security and military forces remain on full alert and…
-03:40
-1405/04/21
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏رسانه‌های ایران بامداد یکشنبه از شنیده شدن صدای انفجار در چند شهر از جمله اهواز، بوشهر، عسلویه، دیر و کنگان خبر دادند.
@@ -1541,14 +1602,6 @@ src :@IranintlTV
 ‏
 ‏خبرگزاری مهر هم از شنیده شدن صداهای انفجار در چابهار و کنارک خبر داد.
 ‏https://iranintl.com/202607120491
-03:39
-1405/04/21
-
-
-
-
-src :@Alibk3
-‏حتى الآن لا يوجد عدوان على عبادان والأهواز.
 03:39
 1405/04/21
 
@@ -1581,14 +1634,6 @@ src :@WAR_ROOM_NEWS
 
 src :@Middle_East_Spectator
 ‏Jets over Tehran belong to IRIAF.
-03:38
-1405/04/21
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Initial reports of alleged fighter jets activity above Tehran, Iran.  @wfwitness
 03:38
 1405/04/21
 
@@ -2237,14 +2282,6 @@ src :@Artemis_Force
 
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- BREAKING: Reports of air defense activity in Tehran, the capital of Iran.
-03:22
-1405/04/21
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Explosions in Qeshm!
 03:22
 1405/04/21
 
@@ -3417,14 +3454,6 @@ src :@P_raetorio
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- US airstrikes against Sirik and Bandar Abbas, southern Iran. Multiple targets hit.
-03:05
-1405/04/21
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷 NEW: Strikes in Sirik too
 ‏
@@ -4049,18 +4078,6 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷 Iran strikes another ship in Strait of Hormuz, ignoring US warnings.
 ‏
 ‏@BRICSNews
-02:38
-1405/04/21
-
-
-
-
-src :@MilitarryWorld
-‏🔴العربیه:
-‏
-‏هم اکنون تماس وزیر خارجه پاکستان با آمریکا و ایران برای کاهش تنش ها
-‏
-‏@MilitarryWorld | Parsa
 02:38
 1405/04/21
 
@@ -6110,14 +6127,6 @@ src :@thewarreporter
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱🇱🇧🇮🇹 — A Lebanese diplomatic source told Al Jazeera:   "Washington has presented us with a preliminary idea to move the negotiations with Israel to Rome. Israel adopted the transfer of negotiations to Rome to free itself from American pressure.  We reject…
-21:36
-1405/04/20
-
-
-
-
 src :@mwarmonitor
 ‏🟠 سفیر آمریکا در اسرائیل: ما شواهد قطعی مبنی بر وجود یک جناح میانه‌رو در ایران نمی‌بینیم.
 ‏
@@ -6962,15 +6971,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:07
-1405/04/20
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Ukraine has exhausted its stockpile of Patriot PAC-2/3 interceptors.
-17:03
 1405/04/20
 
 
