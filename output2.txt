@@ -1,5 +1,72 @@
 src :@wfwitness
 [عکس]
+‏Gaza city
+17:06
+1405/04/21
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏هم اکنون غزه
+17:05
+1405/04/21
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇮🇱❌🇵🇸 — Three airstrikes targeted central Gaza City.
+17:05
+1405/04/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏📸 Mauritanian National Guard soldiers watching a live UAV feed on a rugged screen mounted to the side of a camel, during a 2025 counter-jihadist patrol near Oualata.
+‏
+‏Source
+17:03
+1405/04/21
+
+
+
+
+src :@wfwitness
+‏Palestinian media reports IDF airstrikes in Gaza City.
+17:02
+1405/04/21
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏دونالد ترامپ یک‌شنبه در مصاحبه با ان‌بی‌سی تاکید کرد که «تنگه هرمز باز است»
+‏پیش‌تر نیز ‌فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد جمهوری اسلامی کنترل تنگه هرمز را در اختیار ندارد و تردد کشتی‌ها در این آبراه ادامه دارد.  
+‏سنتکام افزود تنگه هرمز برای همه شناورهایی که به‌صورت قانونی از این آبراه عبور می‌کنند، باز است و نیروهای آمریکا برای حفظ آزادی کشتیرانی، با وجود اقدامات تهاجمی و خودسرانه جمهوری اسلامی، در موقعیت مناسب مستقر و آماده هستند. 
+‏این در حالی است که سپاه پاسداران شنبه پس از حمله به یک کشتی باری تجاری در مسیر جنوبی تنگه هرمز، اعلام کرده بود: «این آبراه تا اطلاع ثانوی و تا پایان مداخلات آمریکا در منطقه بسته شده و هیچ شناوری اجازه تردد نخواهد داشت.»
+‏https://iranintl.com/202607126000
+17:02
+1405/04/21
+
+
+
+
+src :@World_Newsly
+‏🔴ترامپ:  تنگه هرمز کاملا برای عبور و مرور بازه!  ‌✍🏻 Dangerman ▪️@World_Newsly
+17:02
+1405/04/21
+
+
+
+
+src :@wfwitness
+[عکس]
 ‏Palestinian media reports IDF airstrikes in Gaza City.
 17:02
 1405/04/21
@@ -747,17 +814,6 @@ src :@Alibk3
 ‏
 ‏بسبب التحركات غير القانونية الأخيرة للقوات العسكرية الأمريكية في المنطقة، فإن العبور عبر مضيق هرمز غير ممكن في الوقت الحالي. وبمجرد عودة الاستقرار والهدوء، ستتم دراسة جميع الطلبات وفقًا للجدول الزمني، وسيتم إصدار التصاريح اللازمة
 16:17
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴سفارت آمریکا در عمان از شهروندانش خواست تا اطلاع ثانوی در مکانی امن پناه بگیرند.🇴🇲🇺🇸
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-16:16
 1405/04/21
 
 
@@ -1929,17 +1985,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 ISNA: Image shows a cruise missile that was shot down in the outskirts of Khorramabad by a the IRGC’s Abolfazl Lorestan Corps.
-‏
-‏@wfwitness
-14:48
-1405/04/21
-
-
-
-
 src :@didarnews1
 ‏🔴ادعای بلومبرگ: مسیر جنوبی تنگه هرمز همچنان باز است
 ‏
@@ -2112,15 +2157,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇹🇷☀️ DEM Party co‑chair Tülay Hatimoğulları has marked the first anniversary of the PKK’s weapons‑burning ceremony by calling on the Turkish state to take concrete steps towards peace.   She said the Kurdish movement has fulfilled its obligations, but the…
-14:31
-1405/04/21
-
-
-
-
 src :@mamlekate
 ‏📝 لیندزی گراهام، سناتور جمهوری‌خواه و از حامیان حمله به ایران، درگذشت
 ‏
@@ -2266,21 +2302,6 @@ src :@mohem_mat
 
 src :@naya_foriraq
 ‏‏الأمن البحري العماني: استجبنا لنداء استغاثة من سفينة تجارية ترفع علم قبرص قبالة مسندم
-14:17
-1405/04/21
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷☀️🇮🇶 Ava Media: Iran’s consul general in Erbil Faramarz Asadi has said Tehran has not directly targeted the Kurdistan Region, insisting that strikes have been limited to groups that oppose the Islamic Republic. 
-‏
-‏He said contacts with KRG officials have been maintained continuously and hour‑by‑hour since the first day of the war, and that the targeted groups had issued a joint statement calling for the collapse of Iran three days before the U.S. attacks.  
-‏
-‏He said Iran’s expectations of the Kurdish people were met, citing deep historical ties between Iran and the Kurds.  
-‏
-‏@wfwitness
 14:17
 1405/04/21
 
@@ -4641,19 +4662,6 @@ src :@P_raetorio
 
 
 
-src :@P_raetorio
-[عکس]
-‏سناتور پر حاشیه و مشهور، لیندسی گراهام به طور ناگهانی و مشکوک در سن 71 سالگی درگذشت.
-‏
-‏وی روز گذشته از انبار پهپاد های رهگیر استینگ در اوکراین بازدید کرده بود…
-‏
-‏@P_raetorio
-10:09
-1405/04/21
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏در نتیجه حملات پهپادی اوکراین، پالایشگاه نفتی سیزران روسیه دچار حریق شد.
@@ -4748,16 +4756,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇮🇱🇺🇸⚰ — Israel's Hebrew 12 Channel correspondent Amit Segal mourns Senator Lindsey Graham labeling him as "the greatest friend of Israel in Capitol Hill".
 09:59
-1405/04/21
-
-
-
-
-src :@mwarmonitor
-‏🚨خبرگزاری رسمی عمان گزارش داد که مناطقی در استان مسندم عمان هدف حملات پهپادی قرار گرفته‌اند.
-‏
-‏@mwarmonitor
-09:57
 1405/04/21
 
 
@@ -4881,14 +4879,6 @@ src :@rus_cosmos
 [عکس]
 ‏لیندسی گراهام، سناتور معروف آمریکایی و مخالف سر سخت جمهوری اسلامی و روسیه درگذشت.
 09:45
-1405/04/21
-
-
-
-
-src :@intelslava
-‏🇺🇸⚡️ — US Republican Senator Lindsey Graham has died.
-09:44
 1405/04/21
 
 
