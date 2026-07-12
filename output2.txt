@@ -1,4 +1,85 @@
 src :@Alibk3
+‏انطلاق الطائرات الأميركية مجددًا فوق أجواء البحرين.
+04:58
+1405/04/21
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Reports regarding a potential explosion in Jask currently awaiting confirmation.
+04:56
+1405/04/21
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏تصویری از ستون دود بر فراز کنارک
+‏
+‏@P_raetorio
+04:56
+1405/04/21
+
+
+
+
+src :@Alibk3
+‏انفجارين آخرين في ميناء جاسك الإيراني الآن
+04:56
+1405/04/21
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏تصویری منتسب به بوشهر پس از برخورد راکت‌های هایمارس
+‏
+‏@P_raetorio
+04:56
+1405/04/21
+
+
+
+
+src :@World_Newsly
+‏‏🔴 ساعت ۴:۴۵ انفجار در سایت پدافندی بندرجاسک
+‏
+‏‎‌✍🏻 A$
+‏▪️@World_Newsly
+04:56
+1405/04/21
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 Initial reports of explosions in Jask.  @wfwitness
+04:56
+1405/04/21
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Reports regarding a potential explosion in Jask currently awaiting confirmation.
+04:54
+1405/04/21
+
+
+
+
+src :@naya_foriraq
+‏دوي انفجارات في ميناء جاسك ضمن محافظة هرمزغان الإيرانية.
+04:53
+1405/04/21
+
+
+
+
+src :@Alibk3
 [عکس]
 ‏العدوان الأميركي على مدينة كنارك الإيرانية.
 04:51
@@ -987,15 +1068,6 @@ src :@World_Newsly
 
 
 
-src :@Alibk3
-[عکس]
-‏العدوان الأميركي على مدينة كنارك الإيرانية
-03:59
-1405/04/21
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Initial reports of renewed explosions in Sirik, Iran.  @wfwitness
 03:59
@@ -1124,14 +1196,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Alibk3
-‏انفجارات جديدة في بوشهر وجاسك الإيرانية
-03:55
-1405/04/21
-
-
-
-
 src :@MilitarryWorld
 ‏🔴بوشهر رو دوباره چندین بار پشت هم زدن
 ‏
@@ -1155,15 +1219,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 03:55
-1405/04/21
-
-
-
-
-src :@Alibk3
-[عکس]
-‏تفعيل الدفاعات الجوية شرق طهران
-03:54
 1405/04/21
 
 
@@ -1309,17 +1364,6 @@ src :@intelslava
 
 src :@naya_foriraq
 ‏سيريك مجددا دوي انفجارات
-03:52
-1405/04/21
-
-
-
-
-src :@World_Newsly
-‏🔴موج جدید حملات به بوشهر
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 03:52
 1405/04/21
 
@@ -1676,15 +1720,6 @@ src :@naya_foriraq
 
 
 src :@wfwitness
-‏⚡️🇮🇷 Initial reports of explosions in Konarak, Iran.  @wfwitness
-03:43
-1405/04/21
-
-
-
-
-src :@wfwitness
-[عکس]
 ‏⚡️🇮🇷 Initial reports of explosions in Konarak, Iran.  @wfwitness
 03:43
 1405/04/21
@@ -2278,22 +2313,6 @@ src :@naya_foriraq
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Renewed explosions in Bandar Abbas.
-03:25
-1405/04/21
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷— Explosions in Kangan.
-03:24
-1405/04/21
-
-
-
-
 src :@P_raetorio
 ‏#فوری 
 ‏
@@ -2505,14 +2524,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏انفجارات في ميناء سيريك جنوبي إيران
-03:22
-1405/04/21
-
-
-
-
 src :@jangaavaran1390
 ‏هگزث، وزیر جنگ آمریکا: ایران تصمیم بدی گرفت. اکنون بهایش را می‌دهند.
 03:22
@@ -2635,14 +2646,6 @@ src :@defence_news
 ‏آمریکا باید انتخاب کند؛ یا به توافقی که ۲۳ روز پیش امضا کرده پایبند بماند، یا از تعهدات خود عقب‌نشینی کند. ایران بسیار قدرتمندتر از آن چیزی است که شما تصور می‌کنید و برای جنگ آمادگی دارد.»/انتخاب
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-03:20
-1405/04/21
-
-
-
-
-src :@naya_foriraq
-‏🌟وزير الحرب الأمريكي: لقد اتخذت إيران خياراً خاطئاً. والآن تدفع الثمن.
 03:20
 1405/04/21
 
@@ -3982,19 +3985,6 @@ src :@Shin_Persian
 
 
 
-src :@P_raetorio
-‏#فوری 
-‏
-‏شنیده شدن صدای انفجار در عسلویه و بوشهر 
-‏
-‏
-‏@P_raetorio
-02:52
-1405/04/21
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پیام‌های دریافتی:‌ 
@@ -4090,19 +4080,6 @@ src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷 BREAKING: Explosions heard in Asaluyeh and Bushehr
 ‏
 ‏@Middle_East_Spectator
-02:51
-1405/04/21
-
-
-
-
-src :@P_raetorio
-‏#مهم 
-‏
-‏افزایش شدید فعالیت رادیویی یگان‌های ارتش اسرائیل 
-‏
-‏
-‏@P_raetorio
 02:51
 1405/04/21
 
