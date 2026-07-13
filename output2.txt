@@ -3247,14 +3247,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-‏Initial reports of explosions in Jordan.
-05:52
-1405/04/22
-
-
-
-
 src :@jangaavaran1390
 ‏بیانیه حدود ۶ ساعت پیش ارتش ایالات متحده 
 ‏
