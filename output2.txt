@@ -1,4 +1,35 @@
+src :@World_Newsly
+[عکس]
+‏🔴 فارس: انهدام پهپاد متخاصم دشمن در بندرعباس
+‏
+‏🔹پدافند هوایی جنوب شرق ارتش یک پهپاد متخاصم دشمن را در شهرستان بندرعباس رهگیری کرده و منهدم کردند.
+‏
+‏🔹این هوابرد از نوع پهپاد انتحاری لوکاس بوده است 
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+08:26
+1405/04/22
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇰🇼🇮🇷 — IRGC:
+‏
+‏"In the fourth phase of the 'eye for an eye' operation, the heroic IRGC Ground Forces targeted a U.S. Army ground-to-ground missile base in Kuwait, setting fire to and completely destroying two HIMARS missile launchers and ammunition depots".
+‏
+‏@TheWarReporter
+08:24
+1405/04/22
+
+
+
+
 src :@Alibk3
+[عکس]
 ‏إسقاط طائرة مسيرة امريكية في بندر عباس الإيرانية
 08:23
 1405/04/22
@@ -65,6 +96,7 @@ src :@World_Newsly
 
 
 src :@naya_foriraq
+[عکس]
 ‏الله أكبر
 ‏
 ‏اسقاط مسيرة أمريكية في مدينة بندرعباس جنوبي إيران.
@@ -1052,14 +1084,6 @@ src :@GeoPWatch
 src :@Alibk3
 ‏انفجارات متواصلة في البحرين
 06:42
-1405/04/22
-
-
-
-
-src :@World_Newsly
-‏🔴انفجار های مداوم در بحرین ‎ ‌✍🏻 Dangerman ▪️@World_Newsly
-06:41
 1405/04/22
 
 
@@ -2651,18 +2675,6 @@ src :@Indypersian
 
 
 
-src :@IranintlTV
-[عکس]
-‏ولی‌الله حیاتی، معاون امنیتی و انتظامی استاندار خوزستان،به خبرگزاری حکومتی ایرنا گفت در پی حمله بامداد دوشنبه آمریکا و اصابت یک پرتابه به ایستگاه پمپاژ آب کشاورزی در شهرستان ماهشهر، یک نفر کشته شد و چهار نفر دیگر مجروح شدند.
-‏
-‏او اشاره کرد فرد کشته شده، نگهبان این مجموعه بوده است، و گفت که وضعیت مجروحان توسط دستگاه‌های امدادی و درمانی در حال پیگیری است.
-‏https://iranintl.com/202607136309
-04:33
-1405/04/22
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پیام‌های دریافتی:
@@ -4101,6 +4113,15 @@ src :@Artemis_Force
 
 
 
+src :@ClashReport
+[عکس]
+‏Senator Mitch McConnell releases photo, says he is alive.
+01:10
+1405/04/22
+
+
+
+
 src :@rus_cosmos
 [عکس]
 ‏حملات جدید آمریکا به جنوب کشور
@@ -4360,9 +4381,32 @@ src :@bricsnews
 
 
 
+src :@ClashReport
+‏CENTCOM:
+‏
+‏At 5 p.m. ET today, U.S. Central Command forces began launching more strikes against Iran to continue degrading their ability to attack civilian mariners and commercial ships freely transiting the Strait of Hormuz. 
+‏
+‏The Commander in Chief has directed the strikes to hold Iranian forces accountable.
+00:49
+1405/04/22
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔴اکنون سنتکام تایید می‌کند که ایالات متحده در حال حملات به جنوب ایران است
+00:49
+1405/04/22
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Argentina's foreign minister, Pablo Quirno, called Falkland Islanders an "artificially implanted" population and urged Britain to begin sovereignty negotiations over the islands.
+‏
+‏Source: The Telegraph
 00:49
 1405/04/22
 
@@ -4425,6 +4469,14 @@ src :@cataphract1
 
 
 
+src :@ClashReport
+‏Reports of multiple explosions near Sirik, Iran.
+00:45
+1405/04/22
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏گزارش انفجار در بندرعباس
 00:45
@@ -4456,6 +4508,16 @@ src :@mamlekate
 ‏انفجارهای شدید صداشون میاد
 ‏
 ‏@mamlekate
+00:42
+1405/04/22
+
+
+
+
+src :@ClashReport
+‏An initial examination by the DC Medical Examiner’s Office found that Senator Lindsey Graham (R-SC) died from an aortic dissection caused by arteriosclerotic cardiovascular disease—a tear in the aorta linked to hardened, narrowed arteries.
+‏
+‏The Medical Examiner says the death certificate remains pending until toxicology and microscopic testing are complete, after which the official cause and manner of death will be finalized.
 00:42
 1405/04/22
 
@@ -4858,6 +4920,15 @@ src :@mohem_mat
 
 
 
+src :@ClashReport
+[عکس]
+‏Trump:
+23:41
+1405/04/21
+
+
+
+
 src :@mohem_mat
 ‏توییت پاپ لئو چهاردهم:
 ‏
@@ -5120,6 +5191,18 @@ src :@selena_updates
 
 
 
+src :@ClashReport
+‏Iran allegedly planned to assassinate Trump during his visit to Türkiye.
+‏
+‏A Western intelligence service intercepted the plot and warned U.S. officials, prompting them to switch the aircraft Trump used for his return flight to Washington.
+‏
+‏Source: N12
+22:38
+1405/04/21
+
+
+
+
 src :@mohem_mat
 ‏@hanieh35
 ‏روزنامه آبزرور گزارش داده که بشار اسد و همسرش اسماء اسد اقامت امارات را دارند و در ماه‌های اخیر بارها بین محل زندگی‌شان و دبی رفت‌وآمد کرده‌اند. طبق این گزارش، گفته می‌شود آخرین سفر اسماء اسد به دبی همین ماه گذشته بوده و او در هتل والدورف آستوریا اقامت داشته است.
@@ -5187,6 +5270,40 @@ src :@WAR_ROOM_NEWS
 src :@defence_news
 ‏فارس به نقل از معاون سیاسی و امنیتی استانداری بوشهر  تکذیب کرد!  🇮🇷📝 @defence_news 📝🇮🇷
 22:29
+1405/04/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Senator Lindsey Graham held one final phone call with President Trump before his death, discussing Ukraine, a Russia sanctions bill, and possible new U.S. strikes on Iran.
+‏
+‏After the call, Graham told someone he wasn't feeling well but planned to seek medical attention after his scheduled Sunday TV appearance.
+‏
+‏He reportedly joked, "I can't die now. I still need to do the Russia sanctions, get Iran sorted out and do Israeli-Saudi normalization." 
+‏
+‏He died several hours later.
+‏
+‏Source: Axios
+22:25
+1405/04/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iran’s strikes on US facilities in the Persian Gulf, seen in low-res satellite imagery:
+‏
+‏— MQ-4C Triton drone hangar destroyed at Prince Hassan Air Base, Jordan.
+‏
+‏— Hangar damaged at Al-Udeid Air Base, Qatar.
+‏
+‏— Hit on a storage facility at US 5th Fleet HQ in Bahrain.
+‏
+‏— Fire at a former UN base in Kuwait, which Iran says the US used for HIMARS strikes.
+22:24
 1405/04/21
 
 
@@ -6448,17 +6565,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 16:10
-1405/04/21
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🛳️🇺🇸🇮🇷 — CENTCOM says the Strait of Hormuz is 'open to all vessels'.
-‏
-‏@TheWarReporter
-16:08
 1405/04/21
 
 
