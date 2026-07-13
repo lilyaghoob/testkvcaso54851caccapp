@@ -1,3 +1,84 @@
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇷 BREAKING: Ballistic missile launches from Iran
+‏
+‏@Middle_East_Spectator
+04:33
+1405/04/22
+
+
+
+
+src :@Alibk3
+[عکس]
+‏إطلاق صواريخ من إيران.
+04:33
+1405/04/22
+
+
+
+
+src :@VahidOnline
+[عکس]
+‏پیام‌های دریافتی:
+‏
+‏سلام وحید جان دوباره ساعت۴:۲۸ دوتا موشک از خمین زدن
+‏
+‏شلیک دو موشک از خمین
+‏
+‏درود ساعت 29 4  الیگودرز دو شلیک موشک
+‏
+‏خمین الان دوتا موشک
+‏
+‏وحید از سمت خمین و الیگودرز دوتا شلیک کردن ۴:۳۰
+‏
+‏همین الان صدای انفجارزیادامد
+‏من حوالی شهراراکم سمت خمین بود
+‏
+‏خمین ساعت ۴و۲۷ دقیقه موشک پرتاب شد
+‏
+‏📡 @VahidOnline
+04:32
+1405/04/22
+
+
+
+
+src :@naya_foriraq
+‏يَا ذَا اَلْبَطْشِ اَلشَّدِيدِ...
+04:32
+1405/04/22
+
+
+
+
+src :@World_Newsly
+‏🔴 احتمال شلیک موشک از ایران
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+04:31
+1405/04/22
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇮🇷⚡️ — A U.S. strike on a water pumping station in Mahshahr, southwestern Iran, killed one security guard and injured four other people, according to IRIB.
+04:29
+1405/04/22
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷- Possible missile launches from Iran.
+04:28
+1405/04/22
+
+
+
+
 src :@defence_news
 ‏شهادت نگهبان یک ایستگاه پمپاژ آب در خوزستان 
 ‏
@@ -77,24 +158,6 @@ src :@World_Newsly
 src :@naya_foriraq
 ‏🇮🇷🇺🇸 مسؤول أمريكي: الضربات الأمريكية ضد إيران لم تنته بعد.
 04:15
-1405/04/22
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏هم‌زمان با آغاز دور تازه حملات آمریکا، سنتکام اعلام کرد این عملیات به دستور دونالد ترامپ و با هدف کاهش توان جمهوری اسلامی برای حمله به کشتی‌های تجاری در تنگه هرمز آغاز شده و سامانه‌های پدافند هوایی، موشکی، پهپادی و شناورهای سپاه پاسداران را هدف گرفته است. 
-‏
-‏مقام‌های ایرانی و رسانه‌های داخلی از حملات به نقاطی در خوزستان، هرمزگان، بوشهر و استان مرکزی خبر دادند؛ از جمله اهواز، آبادان، ماهشهر، امیدیه، دزفول، بهبهان، اندیمشک، خرمشهر، بندرعباس، قشم، جاسک، سیریک، بوشهر، کنگان و خنداب. 
-‏
-‏هم‌زمان وزارت خارجه جمهوری اسلامی حملات آمریکا را محکوم و واشینگتن را به نقض تفاهم پایان جنگ متهم کرد. 
-‏
-‏در تنگه هرمز نیز آمریکا از ادامه اسکورت کشتی‌های تجاری و رهگیری موشک و پهپاد خبر داد، در حالی که سپاه پاسداران اعلام کرد همه شناورها را زیر نظر دارد. تشدید تنش‌ها موجب افزایش بهای جهانی نفت نیز شد.
-‏
-‏متن کامل را اینجا بخوانید
-‏https://iranintl.com/202607123799
-04:14
 1405/04/22
 
 
@@ -551,18 +614,6 @@ src :@rnintel
 
 
 
-src :@World_Newsly
-‏🔴گزارشی از انفجار در فرودگاه آغاجاری خوزستان
-‏
-‏
-‏‌✍🏻 A$
-‏▪️@World_Newsly
-03:22
-1405/04/22
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- Iranian air defenses activated in Khuzestan province, southwestern Iran.
 03:20
@@ -811,15 +862,6 @@ src :@rnintel
 
 
 
-src :@Alibk3
-[عکس]
-‏تحلّق أكثر من 6 طائرات تزوّد بالوقود أميركية في المنطقة، فيما غادرت 4 طائرات أخرى على الأقل إسرائيل متجهة شرقًا. وقد اختفت إشاراتها من الرادارات بعد دخولها المجال الجوي السعودي.
-03:04
-1405/04/22
-
-
-
-
 src :@Artemis_Force
 ‏همچنین در ساعت یک و ۴۰ دقیقه بامداد امروز دوشنبه ۲۲ تیرماه نقاطی در شهرستان های بهبهان و دزفول مورد اصابت پرتابه های دشمن آمریکایی قرار گرفته است   @artemis_force
 03:04
@@ -1007,14 +1049,6 @@ src :@Indypersian
 
 
 
-src :@Alibk3
-‏مسؤول أميركي يقول إنه من المتوقع أن تشهد الليلة موجة أكبر من الضربات الأميركية ضد أهداف عسكرية إيرانية مقارنة بتلك التي نُفذت سابقًا.
-02:56
-1405/04/22
-
-
-
-
 src :@MilitarryWorld
 ‏🔴فوری/حمله آمریکا به پایانه مرزی چذابه خوزستان
 ‏
@@ -1122,14 +1156,6 @@ src :@wfwitness
 ‏⚡️🇺🇸🇮🇷NYT: A U.S. official says to expect a bigger wave of U.S. strikes against Iranian targets. 
 ‏
 ‏@wfwitness
-02:51
-1405/04/22
-
-
-
-
-src :@Alibk3
-‏أنباء أولية وغير مؤكدة حتى الآن عن استهداف منفذ جَذابة الإيراني الحدودي مع العراق.
 02:51
 1405/04/22
 
@@ -1383,15 +1409,6 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- The border crossing of Chazabeh in the Danial region of Shush County, Khuzestan Province, has been targeted.
-‏The air defense systems in area has been destroyed.
-02:38
-1405/04/22
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — A lot of areas in Khuzestan Province, southwestern Iran, have been struck by U.S. airstrikes.
 02:37
@@ -1548,14 +1565,6 @@ src :@tabzlive
 
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — US airstrike reported on Susangerd, Khuzestan Province, southwest Iran.
-02:31
-1405/04/22
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Minutes ago, explosions occured in Andimeshk, Khuzestan Province, Iran. Several U.S. strikes have been reported throughout Khuzestan Province this round of strikes.
 02:31
 1405/04/22
 
@@ -2299,15 +2308,6 @@ src :@bricsnews
 src :@naya_foriraq
 ‏انفجارات في محيط مدينة خنداب بمحافظة مركزي الإيرانية
 01:50
-1405/04/22
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏رصد إطلاق صواريخ من الأراضي الكويتية نحو الجمهورية الإسلامية الإيرانية.
-01:48
 1405/04/22
 
 
@@ -3683,15 +3683,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 00:05
-1405/04/22
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷 BREAKING: Very initial reports that several American soldiers were killed in the Iranian attack on Kuwait a short while ago  This cannot be confirmed.  @Middle_East_Spectator
-00:04
 1405/04/22
 
 
