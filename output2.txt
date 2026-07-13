@@ -1,3 +1,55 @@
+src :@World_Newsly
+‏🔴محمد الفرح، عضو دفتر سیاسی یمن: تنگه هرمز با تنگه باب المندب متحد خواهد شد و قیمت نفت به ۲۰۰ دلار خواهد رسید.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+20:51
+1405/04/22
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇾🇪🇸🇦 Yemeni Houthis launch ballistic missiles towards Saudi Arabia.
+‏
+‏@BRICSNews
+20:50
+1405/04/22
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — This one was potentially targeting King Khalid Air Base, southwestern Saudi Arabia. This base hosts Royal Saudi Air Force F-15SA Strike Eagle fighter jets.
+20:49
+1405/04/22
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸❌🇮🇷 — CENTCOM is set to reimpose a naval blockade in the region later today, the New York Times reports.
+‏
+‏➡️ CENTCOM spokesman Capt. Tim Hawkins confirmed the military is working out details and coordination of the blockade.
+‏
+‏➡️ US warships will begin enforcement later today.
+‏
+‏@IntelSlava
+20:48
+1405/04/22
+
+
+
+
+src :@wfwitness
+‏⚡️🇸🇦🇾🇪🇾🇪 Preliminary reports that the attacks allegedly impacting in or near King Khalid Air Base,in proximity to Abha in Saudi Arabia.  @wfwitness
+20:47
+1405/04/22
+
+
+
+
 src :@MilitarryWorld
 ‏🔴گزارش ها  از اصابت یک موشک یمنی به پایگاه هوایی ملک خالد در نزدیکی شهر اَبهای عربستان خبر می‌دهند 
 ‏
@@ -20,6 +72,36 @@ src :@Middle_East_Spectator
 
 src :@Artemis_Force
 ‏⚜️ سنتکام ویدیوی جدیدی از حمله به بندر شهید باهنر در بندرعباس منتشر کرده که به نظر می‌رسد برای نخستین‌بار، نیروی دریایی آمریکا به‌صورت عملیاتی از شناور انتحاری بدون‌سرنشین (Kamikaze USV) استفاده کرده است.  ⚜️ کورسِر (Corsair) یک شناور سطحی بدون‌سرنشین (USV)…
+20:47
+1405/04/22
+
+
+
+
+src :@Minas_Tirith2024
+‏⚜گزارش شده حوثی ها تا کنون حداقل ۶ موشک به سمت فرودگاه ابها در عربستان سعودی شلیک کرده اند. ✒️#LT 📃@Cataphract1
+20:47
+1405/04/22
+
+
+
+
+src :@World_Newsly
+‏🔴یمن تا الان به ۳ فرودگاه حمله قطعی موشکی کرده ...
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+20:47
+1405/04/22
+
+
+
+
+src :@World_Newsly
+‏🔴 ایران ی هواپیما فرستاد، دوتا کشور رو انداخت به جون هم🌚
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
 20:47
 1405/04/22
 
@@ -91,7 +173,7 @@ src :@World_Newsly
 
 
 src :@WAR_ROOM_NEWS
-‏وزارت دفاع عربستان گزارش می‌دهد در حال رهگیری موشک‌های پرتاب شده از جانب حوثی ها است
+‏وزارت دفاع عربستان گزارش می‌دهد سامانه‌های پدافند هوایی این کشور در حال رهگیری موشک‌های پرتاب شده از جانب حوثی ها است
 20:45
 1405/04/22
 
@@ -107,7 +189,7 @@ src :@World_Newsly
 
 
 src :@thewarreporter
-‏🇸🇦🇾🇪 — A Spokesperson for the U.S.-led Coalition: 
+‏🇸🇦🇾🇪 — Brigadier General Turki Al-Maliki, Spokesperson for the U.S.-led Coalition: 
 ‏
 ‏"Saudi Arabian air defenses intercepted a threat posed by ballistic missiles launched by the Houthis".
 ‏
@@ -313,7 +395,7 @@ src :@World_Newsly
 
 
 src :@naya_foriraq
-‏السعودية تتعرض لقصف جديد في منطقة عسير
+‏تعرض قاعدة الملك خالد الجوية للقصف بالصواريخ
 20:39
 1405/04/22
 
@@ -982,15 +1064,6 @@ src :@thewarreporter
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 شش موشک یمنی به سمت فرودگاه ابها در عربستان سعودی شلیک شد.   ✍🏻 exxon ▪️@World_Newsly
-20:25
-1405/04/22
-
-
-
-
 src :@tabzlive
 ‏🇾🇪 The Houthis were smart enough to not transmit anything prior to their missile launches on Saudi Arabia.
 20:25
@@ -1018,14 +1091,6 @@ src :@wfwitness
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏توقف کامل فعالیت پروازهای مسافربری در فرودگاه بین‌المللی ابها عربستان
-20:24
-1405/04/22
-
-
-
-
-src :@World_Newsly
-‏🚨 خبر فوری  🔴 پرتاب تعدادی موشک بالستیک از یمن (تایید شد)   ✍🏻 exxon ▪️@World_Newsly
 20:24
 1405/04/22
 
@@ -2531,15 +2596,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@wfwitness
-[ویدئو]
-‏⚡️ 🇮🇷🇺🇸🇧🇭 Sentinel-2 imagery comparing July 7 and July 12 appears to show damage at the US 5th Fleet headquarters compound in Bahrain following IRGC strikes.  Geolocation: 26°12’29.24”N 50°37’14.11”E  Note that without higher-resolution imagery, the extent…
-19:01
-1405/04/22
-
-
-
-
 src :@rnintel
 ‏🇮🇷🇾🇪🇸🇦⚡- A senior Ansarullah official Mohammed al-Farah has floated the idea of closing the Strait of Bab al-Mandab in response to the Saudi attacks on Sana'a International Airport earlier today.
 18:59
@@ -3493,17 +3549,6 @@ src :@mohem_mat
 
 
 
-src :@Alibk3
-[عکس]
-‏المتحدث باسم لجنة الأمن القومي الإيراني:
-‏
-‏زعم ترامب أنه يريد أن يكون حارس مضيق هرمز لسنا بحاجة إلى عمال أجانب لحماية المضيق إذا كان مصراً على وظيفة حارس، فليذهب ويصبح حارس قبر غراهام
-18:02
-1405/04/22
-
-
-
-
 src :@cataphract1
 ‏⚜️ترامپ:
 ‏به افتخار سناتور لیندزی گراهام، حمایت‌کننده بزرگ، سنا باید قانون شفافیت (Clarity Act) را تصویب کند.
@@ -3912,18 +3957,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 17:42
-1405/04/22
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏حسین محبی، سخنگوی سپاه پاسداران در شبکه ایکس نوشت: «آمریکا با مداخله در تنگه‌ هرمز امنیت تامین نفت و گاز جهان را به خطر جدی انداخته است و باید جوابگو باشد.»
-‏
-‏محبی نوشت همان‌طور که سپاه پاسداران اهداف «متوهمانه» آمریکا را به بازگشایی تنگه هرمز تقلیل داده است، در تحرکات جدیدشان نیز آنها را بیش از پیش به «خفت و استیصال» خواهند کشاند.
-‏https://iranintl.com/202607134525
-17:40
 1405/04/22
 
 
@@ -5936,17 +5969,6 @@ src :@intelslava
 
 
 
-src :@intelslava
-[عکس]
-‏🇸🇦❌🇾🇪🇾🇪 — Saudi-led coalition strikes have targeted both runways at Sanaa International Airport.
-‏
-‏@IntelSlava
-14:39
-1405/04/22
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏#BREAKING
@@ -6809,16 +6831,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 06:34
-1405/04/22
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran says it struck and destoryed a command center for US military drones in Bahrain.
-‏
-‏@BRICSNews
-06:18
 1405/04/22
 
 
