@@ -1,3 +1,84 @@
+src :@ClashReport
+‏Polish Foreign Minister Sikorski:
+‏
+‏We have been thinking about our security in relation to Russia for about five hundred years, and we are not going to stop. Russia has invaded Poland many times throughout history. When the Russians threaten us, we take those threats seriously. 
+‏
+‏But today Putin does not have the means to attack us. At most, he can attempt some provocation. He has still not managed to conquer Donbas after nearly thirteen years of trying.
+‏
+‏Source: Il Messaggero
+13:06
+1405/04/22
+
+
+
+
+src :@KayhanLondonChannel
+‏‏ 
+‏آغاز روند رسمی جیره‌بندی برق در بخش خانگی؛ صنایع زیر فشار قطع برق و دیگر بحران‌های انباشته
+‏
+‏- در نخستین ماه تابستان گزارش‌ها از قطع گسترده برق در بخش صنعتی و خانگی حکایت دارد. مدیرکل دفتر مدیریت انرژی و برنامه‌ریزی امور مشتریان شرکت توانیر از آغاز اجرای برنامه خاموشی‌های برنامه‌ریزی‌شده در کشور خبر داد.
+‏
+‏- خاموشی چند ساعته برق منازل امور روزمره زندگی شهروندان را مختل و تحمل گرمای بیش از ۴۰ درجه را در بسیاری از شهرها غیرممکن کرده است.
+‏
+‏- اگر چه دولت همچنان جیره‌بندی برق را تنها راهکار رویارویی با بحران کمبود برق در نظر گرفته که در آنسو بسیاری از کارشناسان معتقدند مسئله اصلی بسیار عمیق‌تر از رشد مصرف است و به ساختار اقتصاد برق، شیوه مدیریت سوء دولت و سال‌ها کمبود سرمایه‌گذاری در این صنعت بازمی‌گردد.
+‏
+‏- فعالان صنعتی می‌گویند جدا از اثر مستقیم قطع برق بر کاهش تولید در کارخانه‌ها، قطع پی‌درپی برق سبب خسارت به دستگاه‌ها و تخریب مواد اولیه در برخی صنایع شده و هزینه‌ای مضاعف برای واحدهای تولیدی و صنعتی به همراه دارد.
+‏
+‏- وبسایت «اکو ایران» در گزارشی با اشاره به خاموشی‌های گسترده برق در روزهای گذشته نوشته «خاموشی دیگر تنها یک ابزار موقت برای مدیریت مصرف نیست، بلکه نشانه‌ای از شکاف فزاینده میان ظرفیت تولید و تقاضای برق است؛ شکافی که به گفته فعالان صنعت برق، بدون اصلاحات ساختاری در اقتصاد انرژی هر سال عمیق‌تر خواهد شد.»
+‏
+‏https://kayhan.london/1405/04/22/404937/
+13:06
+1405/04/22
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱🇮🇷 — U.S. attacks on Iran depend on Israeli intelligence information.
+‏
+‏— Haaretz | @TheWarReporter
+13:05
+1405/04/22
+
+
+
+
+src :@ClashReport
+‏Polish Foreign Minister Sikorski:
+‏
+‏We thought Putin had the world's second strongest army. Today we can say he has the second strongest army... in Ukraine.
+‏
+‏Source: Il Messaggero
+13:05
+1405/04/22
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇹🇷🇸🇾 — For the first time since the start of the Syrian civil war, Turkish Navy warships have visited the Syrian port of Latakia.
+‏
+‏Thr Turkish Defense Ministry said the Commander of the Turkish Navy is aboard the TCG Istanbul during the visit.
+‏
+‏@TheWarReporter
+13:04
+1405/04/22
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇷🇺🇳 Iran says "we will not approve the IAEA's request to access our nuclear facilities."
+‏
+‏@BRICSNews
+13:03
+1405/04/22
+
+
+
+
 src :@Alibk3
 ‏سماع دوي انفجار في بندر عباس
 13:03
@@ -6,8 +87,18 @@ src :@Alibk3
 
 
 
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Mehr: Explosions in Bandar Abbas and Qeshm Island. 
+‏
+‏@wfwitness
+13:02
+1405/04/22
+
+
+
+
 src :@naya_foriraq
-‏🇮🇷🇺🇸وكالة مهر: اشتباكات في المياه الإقليمية للخليج الفارسي ومضيق هرمز.
+‏🇮🇷🇺🇸وكالة مهر: اشتباكات في المياه الإقليمية للخليج الفارسي ومضيق هرمز وسماع دوي انفجارات في محيط مدينة بندر عباس وجزيرة قشم.
 13:00
 1405/04/22
 
@@ -833,22 +924,6 @@ src :@cataphract1
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶خیزش اژدها   🔹امپراتوری چین که مانند بسیاری امپراتوری های عظیم تاریخ در سده های اخیر تضعیف و رو به افول رفته بود و نهایتا سقوط کرد و پس از آن حکومت های شبه جمهوری بر سرکار آماده اند و آسیب های بسیار در دو جنگ جهانی تا پیش از آخرین جنگ داخلی خود و پیروزی کمونیست…
-11:52
-1405/04/22
-
-
-
-
-src :@World_Newsly
-[فایل]
-‏تاریخ ایران باستان تاریخ سیاسی ساسانیان
-‏عبدالحسین و روزبه زرین کوب
-‏زبان: فارسی
-‏نسخه PDF
-‏
-‏
-‏✍🏻 Sonic 
-‏▪️@World_Newsly
 11:52
 1405/04/22
 
@@ -2549,16 +2624,6 @@ src :@naya_foriraq
 src :@naya_foriraq
 ‏الله أكبر
 08:45
-1405/04/22
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇦🇪 Reports that Iran has targeted a vessel off the coast of the UAE.
-‏
-‏@wfwitness
-08:43
 1405/04/22
 
 
@@ -5421,29 +5486,6 @@ src :@bricsnews
 
 
 
-src :@ClashReport
-‏CENTCOM:
-‏
-‏At 5 p.m. ET today, U.S. Central Command forces began launching more strikes against Iran to continue degrading their ability to attack civilian mariners and commercial ships freely transiting the Strait of Hormuz. 
-‏
-‏The Commander in Chief has directed the strikes to hold Iranian forces accountable.
-00:49
-1405/04/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Argentina's foreign minister, Pablo Quirno, called Falkland Islanders an "artificially implanted" population and urged Britain to begin sovereignty negotiations over the islands.
-‏
-‏Source: The Telegraph
-00:49
-1405/04/22
-
-
-
-
 src :@guard_warriors
 ‏پایگاه نهم نیرو هوایی  بندرعباس رو مورد هدف قرار دادن 
 ‏
@@ -6027,16 +6069,6 @@ src :@bricsnews
 
 
 
-src :@thewarreporter
-‏🇮🇶☀️🇮🇷 — Iraqi security sources told Reuters that a drone attack targeted an Iranian-Kurdish opposition group's camp in Iraqi Kurdistan's Sulaymaniyah.
-‏
-‏@TheWarReporter
-22:03
-1405/04/21
-
-
-
-
 src :@defence_news
 [عکس]
 ‏پروازهای هواپیماهای شناسایی و تانکرهای سوخت‌رسان از پایگاه‌های نظامی در عربستان سعودی، قطر، امارات متحده عربی و تل‌آویو آغاز شده.
@@ -6083,18 +6115,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:38
-1405/04/21
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇹🇷🇮🇷 — Iran allegedly attempted to assassinate US President Trump during his visit to Turkey.
-‏
-‏Intelligence provided by a foreign source, which warned U.S. authorities of the alleged plot, prompted a last-minute change to the aircraft used by the president on his return flight to Washington.
-‏
-‏— Yedioth Ahronoth | @TheWarReporter
-21:33
 1405/04/21
 
 
@@ -6198,16 +6218,6 @@ src :@DEJradio
 ‏
 ‏#انفجار #حمله #ابوموسی
 ‏@DEJradio
-21:12
-1405/04/21
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US launches new round of strikes on Iran's Qeshm Island.
-‏
-‏@BRICSNews
 21:12
 1405/04/21
 
@@ -7103,27 +7113,4 @@ src :@warmonitors
 [عکس]
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 13:17
-1405/04/21
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏نخستین کامپیوتر واقعی در ایران، یک دستگاه IBM 1620 بود که در سال ۱۳۴۱ توسط شرکت ملی نفت ایران برای محاسبات و پیگیری اطلاعات مرتبط با تولید نفت به کار گرفته شد.
-‏
-‏ این کامپیوتر یک رایانه ده‌دهی بود؛ هرچند هر رقم ده‌دهی در حافظه به روش BCD و با استفاده از بیت‌ها ذخیره می‌شد.
-‏
-‏حافظه پایه آن شامل ۲۰٬۰۰۰ رقم ده‌دهی از نوع هسته مغناطیسی بود.
-‏
-‏زمان چرخه حافظه در مدل اول حدود ۲۰ میکروثانیه بود؛ اما اجرای کامل هر دستور، بسته به نوع دستور، زمان بیشتری نیاز داشت.
-‏
-‏ورودی و خروجی دستگاه، بسته به تجهیزات نصب‌شده، شامل ماشین‌تحریر کنسولی، نوار کاغذی، کارت پانچ، کارت‌خوان و چاپگر بود.
-‏
-‏توان مصرفی واحد پردازش حدود ۲ تا ۳ کیلووات بود و با اضافه‌شدن تجهیزات جانبی می‌توانست به حدود ۳ تا ۵ کیلووات یا بیشتر برسد.
-‏
-‏قیمت پایه این رایانه در آن دوره حدود ۸۵ هزار دلار بود و قیمت سیستم کامل با تجهیزات جانبی حدود ۱۰۰ تا ۲۰۰ هزار دلار سال ۱۹۶۲، بر اساس تورم، تقریباً معادل ۱٫۱ تا ۲٫۲ میلیون دلار در سال ۲۰۲۶ است.
-‏
-‏@rus_cosmos
-13:05
 1405/04/21
