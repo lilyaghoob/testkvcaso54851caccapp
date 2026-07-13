@@ -1,3 +1,40 @@
+src :@wfwitness
+‏⚡️🇮🇷🇰🇼 Reports of explosions being heard in Kuwait. 
+‏
+‏@wfwitness
+05:35
+1405/04/22
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇧🇭- Columns of smoke are observed rising from the Naval Support Activity in Bahrain.
+05:34
+1405/04/22
+
+
+
+
+src :@Alibk3
+‏الله أكبر
+05:34
+1405/04/22
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷/🇰🇼 BREAKING: Explosions in Kuwait
+‏
+‏@Middle_East_Spectator
+05:33
+1405/04/22
+
+
+
+
 src :@GeoPWatch
 ‏🇮🇷❌🇰🇼- Reports of an attack on Kuwait!
 05:32
@@ -8,6 +45,9 @@ src :@GeoPWatch
 
 src :@intelslava
 [عکس]
+‏🇮🇷❌🇧🇭🇺🇸 — Iranian missiles have targeted the US Fifth Fleet headquarters in Bahrain.
+‏
+‏@IntelSlava
 05:32
 1405/04/22
 
@@ -638,15 +678,6 @@ src :@GeoPWatch
 
 
 
-src :@Alibk3
-[عکس]
-‏رشقات صاروخية إيرانية تنطلق مجددا نحو القواعد الأميركية في المنطقة
-04:55
-1405/04/22
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏یک مقام آمریکایی به شبکه خبری سی‌ان‌ان گفت که حملات علیه جمهوری اسلامی، بیش از سه ساعت پس از آغاز عملیات، هنوز به پایان نرسیده است.
@@ -868,17 +899,6 @@ src :@intelslava
 ‏🇮🇷❌🇯🇴🇺🇸 — Iran launched a large initial salvo of ballistic missiles toward Jordan.
 ‏
 ‏@IntelSlava
-04:42
-1405/04/22
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏—❗️🇮🇷/🇯🇴 NEW: Footage from the launches shows more missiles than initially estimated; first wave itself consisted of at least 12 missiles
-‏
-‏@Middle_East_Spectator
 04:42
 1405/04/22
 
@@ -1718,14 +1738,6 @@ src :@Artemis_Force
 
 
 
-src :@wfwitness
-‏Renewed explosions in Mashahr
-03:07
-1405/04/22
-
-
-
-
 src :@MilitarryWorld
 ‏🔴حملات امشب آمریکا تموم شد/والا
 ‏
@@ -2322,16 +2334,6 @@ src :@P_raetorio
 ‏
 ‏
 ‏@P_raetorio
-02:27
-1405/04/22
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 NEW: The IRIAF base in Dezful was attacked
-‏
-‏@Middle_East_Spectator
 02:27
 1405/04/22
 
