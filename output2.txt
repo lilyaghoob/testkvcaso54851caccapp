@@ -1,3 +1,49 @@
+src :@World_Newsly
+‏🔴بندر عباس همچنان زیر موشک باران گزارشات مبنی بر اتمام حملات صحتی ندارد
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+03:41
+1405/04/22
+
+
+
+
+src :@World_Newsly
+‏🔴همین الان خورموج 5 انفجار
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+03:39
+1405/04/22
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Possible explosions in Bandar Abbas, awaiting confirmation.
+03:38
+1405/04/22
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Atleast 5 explosions have been reported in Khormuj.
+03:38
+1405/04/22
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — 5x explosions reported in Khormouj, Iran.
+03:37
+1405/04/22
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏آثار العدوان الأميركي على العميدية في خوزستان.
@@ -643,14 +689,6 @@ src :@rnintel
 src :@Middle_East_Spectator
 ‏🇺🇸🇮🇷 - Reports of power outages in Behbahan, Khuzestan Province, are accurate, however, the scale of the disruption has been significantly exaggerated. The outages are limited to relatively small areas within a handful of districts.
 03:01
-1405/04/22
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش از انهدام پدافند در نزدیکی مرز چذابه  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
-03:00
 1405/04/22
 
 
@@ -1416,24 +1454,8 @@ src :@Alibk3
 
 
 
-src :@Alibk3
-‏دوي انفجارين في الصالحية بخوزستان.
-02:28
-1405/04/22
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Air defenses are still active over Ahvaz and Dezful, Khuzestan Province, southwest Iran.
-02:28
-1405/04/22
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Another explosion in Dezful.
 02:28
 1405/04/22
 
@@ -1457,14 +1479,6 @@ src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷 NEW: The IRIAF base in Dezful was attacked
 ‏
 ‏@Middle_East_Spectator
-02:27
-1405/04/22
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Confirmation of an attack on Ahvaz Airport by Iranian media.
 02:27
 1405/04/22
 
@@ -1525,14 +1539,6 @@ src :@IranintlTV
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Renewed airstrikes on Dezful, western Iran.
 02:26
-1405/04/22
-
-
-
-
-src :@Alibk3
-‏دوي انفجارين في الصالحية بخوزستان.
-02:25
 1405/04/22
 
 
@@ -1691,14 +1697,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 02:21
-1405/04/22
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — 2x additional large explosions reported in Dezful, Iran.
-02:20
 1405/04/22
 
 
@@ -2019,15 +2017,6 @@ src :@naya_foriraq
 
 src :@mwarmonitor
 ‏🚨انفجارهایی در شهرهای بهبهان و دزفول، واقع در استان خوزستان، رخ داد.
-01:59
-1405/04/22
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 Initial reports of explosions in Mahshahr, Iran.  @wfwitness
 01:59
 1405/04/22
 
@@ -3725,16 +3714,6 @@ src :@jangaavaran1390
 ‏
 ‏        ‌@ENET_VPNBOT 👇👇👇
 23:59
-1405/04/21
-
-
-
-
-src :@Middle_East_Spectator
-‏Unusual amounts of Iranian radio chatter in the past 30 minutes.
-‏
-‏Encrypted though, so nobody knows what’s being communicated.
-23:50
 1405/04/21
 
 
@@ -5936,24 +5915,6 @@ src :@cataphract1
 
 
 
-src :@VahidOnline
-[عکس]
-‏نهاد مدیریت آبراه خلیج فارس، نهادی که به‌تازگی برای اعمال مدیریت جمهوری اسلامی ایران بر تنگه هرمز تاسیس شده است، یکشنبه ۲۱ تیرماه با انتشار بیانیه‌ای اعلام کرد تردد از این آبراه در حال حاضر امکان‌پذیر نیست.
-‏در این بیانیه، آنچه «تحرکات غیرقانونی اخیر نیروهای نظامی ایالات متحده در منطقه» خوانده شد، علت توقف تردد عنوان شده است. این نهاد افزود پس از برقراری ثبات و آرامش، درخواست‌ها بر اساس زمان ثبت بررسی و مجوزهای لازم صادر خواهد شد.
-‏@VahidOOnLine
-‏پست سنتکام، ترجمه ماشین:
-‏🚫 ادعا: فرمانده نیروی دریایی سپاه پاسداران انقلاب اسلامی اخیراً در رسانه دولتی گفته است هیچ شناور خارجی‌ای نمی‌تواند بدون شناسایی، ردیابی و نظارت نیروهای ایرانی از تنگه هرمز عبور کند.
-‏
-‏✅ واقعیت: ایران تنگه هرمز را کنترل نمی‌کند. این تنگه همچنان یک آبراه بین‌المللی است. نیروهای ایالات متحده مستقر و آماده‌اند تا همین وضعیت را حفظ کنند.
-‏CENTCOM
-‏
-‏📡 @VahidOnline
-17:01
-1405/04/21
-
-
-
-
 src :@warmonitors
 ‏⚡Trump in a telephone interview with NBC: "The Strait of Hormuz is now open"
 ‏
@@ -6196,21 +6157,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 15:55
-1405/04/21
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏سنتکام: تنگه هرمز باز است
-‏
-‏پست اکانت فرماندهی نظامی آمریکا، ترجمه ماشین:
-‏تنگه هرمز به روی همه شناورهایی که قصد عبور قانونی از این آبراه بین‌المللی را دارند، باز است. نیروهای ایالات متحده مستقر و آماده‌اند تا اطمینان حاصل کنند که آزادی کشتیرانی، با وجود تجاوزگری بی‌دلیل، آزار و اذیت، تهدیدها و اعلامیه‌های خودسرانه ایران، همچنان برقرار می‌ماند. ایران کنترل تنگه را در دست ندارد. تردد در جریان است.
-‏CENTCOM
-‏
-‏📡 @VahidOnline
-15:49
 1405/04/21
 
 
@@ -7187,13 +7133,5 @@ src :@BellumActaNews
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
-03:41
-1405/04/21
-
-
-
-
-src :@rus_cosmos
-‏طبق گزارش ایلیا هاشمی، خبرنگار مستقل، تعدادی جنگنده ناشناس در ارتفاع بالا در آسمان تهران در حال گشت‌زنی هستند
 03:41
 1405/04/21
