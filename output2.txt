@@ -3005,14 +3005,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇰🇼- Reports of an attack on Kuwait!
-05:32
-1405/04/22
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷❌🇧🇭🇺🇸 — Iranian missiles have targeted the US Fifth Fleet headquarters in Bahrain.
@@ -4980,22 +4972,6 @@ src :@ClashReport
 
 
 
-src :@WAR_ROOM_NEWS
-‏گزارش انفجار در بندرعباس
-00:45
-1405/04/22
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏پنج انفجار قوی در قشم همچنین در سیریک
-00:44
-1405/04/22
-
-
-
-
 src :@guard_warriors
 ‏انفجار در قشم و سیریک و بندر عباس
 ‏
@@ -5196,14 +5172,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 00:12
-1405/04/22
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴گزارشات از مجروحیت 14 نظامی ارتش آمریکا در پی حملات موشکی سپاه پاسداران به کویت.  🔶حال 4 نفر از آنها وخیم گزارش شده است، همچنین برخی منابع میگویند 3 نیروی ارتش آمریکا تا الان کشته شده‌اند.   🆔@WAR_ROOM_NEWS
-00:10
 1405/04/22
 
 
