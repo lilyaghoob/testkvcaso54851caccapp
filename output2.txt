@@ -1,3 +1,27 @@
+src :@GeoPWatch
+‏A correction regarding the frequent duplication of this information on this app: Omidyeh Airport and Aghajari Airport are the same facility. The official name is the Aghajari Oil and Gas Airport, located in Omidyeh. These are not two separate airports.
+03:28
+1405/04/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏ولی‌الله حیاتی، معاون امنیتی و انتظامی استاندار خوزستان، به خبرگزاری حکومتی ایرنا گفت بامداد دوشنبه، چند نقطه در شهرستان‌های اهواز، امیدیه، ماهشهر، بهبهان، دزفول، اندیمشک، آبادان و اطراف شادگان هدف پرتابه‌های آمریکایی قرار گرفت و بررسی خسارات احتمالی ادامه دارد.
+‏
+‏او اشاره کرد در اهواز، دو نقطه در اطراف محدوده شهر مورد اصابت قرار گرفت و هرگونه اصابت به فرودگاه اهواز صحت ندارد.
+‏
+‏حیاتی افزود یک نقطه در اندیمشک، نقاطی در شهرستان‌های بهبهان و دزفول، چهار نقطه در امیدیه و ماهشهر و نیز نقاطی در آبادان و اطراف شادگان مورد اصابت قرار گرفتند.
+‏
+‏او گفت دستگاه‌های ذی‌ربط در حال ارزیابی خسارات احتمالی و بررسی مناطق آسیب‌دیده هستند و گزارش‌های تکمیلی پس از پایان ارزیابی‌های اولیه اطلاع‌رسانی خواهد شد.
+‏https://iranintl.com/202607128736
+03:27
+1405/04/22
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏أيها الغرباء عن أرضنا لقد عجز آباؤكم المؤسسون وهم بقمة جبروتهم وانتمائهم لفكرة الصهيونية الخبيثة عن استئصال شعبنا أو طمس هويتنا، فأنتم اليوم أعجز وأجبن من أن تنجحوا بما فشل به آباؤكم وستكون نهايتكم هي غنيمتنا ووعد ربنا الذي لن يتأخر بإذن الله. 
@@ -36,7 +60,7 @@ src :@intelslava
 
 src :@World_Newsly
 [عکس]
-‏🔴وضعیت اخرالزمانی فرودگاه اغاجاری
+‏🔴 وضعیت فرودگاه اغاجاری
 ‏
 ‏‌✍🏻 A$
 ‏▪️@World_Newsly
@@ -778,17 +802,6 @@ src :@defence_news
 
 
 
-src :@World_Newsly
-‏🔴 دقایقی پیش شهر‌های خرمشهر و بهبهان نیز مورد هدف قرار گرفتند
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-02:54
-1405/04/22
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — Explosions in Behbahan, southwestern Iran.
 02:53
@@ -1518,14 +1531,6 @@ src :@IranintlTV
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Another explosion in Dezful.
-02:26
-1405/04/22
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Renewed airstrikes on Dezful, western Iran.
 02:26
@@ -1697,14 +1702,6 @@ src :@wfwitness
 
 
 
-src :@Alibk3
-‏دوي 3 انفجارات في دزفول الآن.
-02:21
-1405/04/22
-
-
-
-
 src :@guard_warriors
 ‏عمران عقیلی، رئیس واحد ارتباطات عملیات ویژه استان در فرودگاه اهواز کشته شد 
 ‏
@@ -1769,14 +1766,6 @@ src :@guard_warriors
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Air defense activity in Kermanshah, Iran.
-02:19
-1405/04/22
-
-
-
-
 src :@wfwitness
 ‏⚡️🇺🇸🇮🇷 Fars: Residents of Khondab reported hearing two explosions in the city.  The Central Province deputy governor said the sounds were linked to “enemy” projectiles striking an area outside Khondab.  @wfwitness
 02:19
@@ -1787,14 +1776,6 @@ src :@wfwitness
 
 src :@wfwitness
 ‏⚡️🇰🇼🇮🇷 Preliminary footage show launches from Kuwait towards Iran.  @wfwitness
-02:18
-1405/04/22
-
-
-
-
-src :@Alibk3
-‏دوي انفجار جديد في الأهواز
 02:18
 1405/04/22
 
@@ -1861,14 +1842,6 @@ src :@IranintlTV
 ‏این مقام فرماندهی مرکزی ایالات متحده گفت: «هواپیماهای آمریکایی تاکنون توانسته‌اند یک موشک کروز و یک پهپاد تهاجمی انتحاری را رهگیری کنند.»
 ‏https://iranintl.com/202607121664
 02:16
-1405/04/22
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Explosions in Behbahan and Dezful in Khuzestan Province.
-02:14
 1405/04/22
 
 
@@ -7270,19 +7243,4 @@ src :@BellumActaNews
 src :@rus_cosmos
 ‏طبق گزارش ایلیا هاشمی، خبرنگار مستقل، تعدادی جنگنده ناشناس در ارتفاع بالا در آسمان تهران در حال گشت‌زنی هستند
 03:41
-1405/04/21
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏🔻🔺پیت هگست، وزیر جنگ ایالات متحده آمریکا:🇺🇸
-‏ایران 🇮🇷انتخاب نادرستی کرد. اکنون آن‌ها باید 
-‏عواقب آن را بپردازند.
-‏
-‏📻#News
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-03:29
 1405/04/21
