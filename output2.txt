@@ -1,3 +1,48 @@
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran says US aggressors and those behind crimes against the Iranian people will be punished.
+‏
+‏@BRICSNews
+04:05
+1405/04/22
+
+
+
+
+src :@World_Newsly
+‏‏🔴 گزارش های محلی از وقوع 6 انفجار در خرمشهر خبر می‌دهند.
+‏‎
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+04:04
+1405/04/22
+
+
+
+
+src :@naya_foriraq
+‏انفجار في مدينة ماهشهر جنوبي إيران
+04:04
+1405/04/22
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸🇮🇷 - Scenes from Omidiyeh Airport, Khuzestan Province.
+‏
+‏Rerum Novarum have geolocated the photo to:
+‏
+‏Photo taken from: 30.7397603, 49.6914893.
+‏Fire burning at a hanger located at: 30.7391702, 49.6869001.
+‏
+‏Confirming the airport was struck.
+04:03
+1405/04/22
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏في أعقاب الهجمات الأميركية على مطار العميدية (أميدية) بخوزستان، احتراق حظيرة الطائرات.
@@ -501,17 +546,6 @@ src :@World_Newsly
 ‏‌✍🏻 SLXUGHTER
 ‏▪️@World_Newsly
 03:12
-1405/04/22
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش انفجار در امیدیه 
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:11
 1405/04/22
 
 
@@ -1592,14 +1626,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡- US airstrikes against Dezful and Behbahan, western Iran.
-02:22
-1405/04/22
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷 Initial reports claim UAV/UCAV activity above Kermanshah, Iran.  @wfwitness
 02:22
@@ -2394,14 +2420,6 @@ src :@mwarmonitor
 
 
 
-src :@naya_foriraq
-‏انباء عن دوي انفجار في مدينة الأهواز ضمن محافظة خوزستان جنوبي إيران.
-01:32
-1405/04/22
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی:
 ‏
@@ -2610,26 +2628,6 @@ src :@IranintlTV
 src :@mwarmonitor
 ‏📝 سناریو تکراری شب های گذشته : بمباران خط ساحلی از چابهار تا بوشهر ---بیانیه سنت‌کام --- حمله موشکی ایران به بحرین و کویت --- بیانیه سپاه
 01:27
-1405/04/22
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏هم‌زمان با تشدید درگیری میان آمریکا و جمهوری اسلامی، فرانک مک‌کنزی، فرمانده پیشین سنتکام، پیشنهاد کرد واشینگتن برای افزایش اهرم فشار در مذاکرات، تصرف جزیره خارک، مهم‌ترین پایانه صادرات نفت ایران، را بررسی کند. 
-‏
-‏او در گفت‌وگو با شبکه سی‌بی‌اس گفت آمریکا توانایی نظامی تصرف این جزیره و حفظ آزادی کشتیرانی در تنگه هرمز را دارد و کنترل بخشی از خاک ایران می‌تواند در مذاکرات آینده به اهرم فشار تبدیل شود. 
-‏
-‏این اظهارات پس از حملات تازه آمریکا به حدود ۱۴۰ هدف نظامی در ایران و حملات متقابل جمهوری اسلامی به اهداف مرتبط با آمریکا در منطقه مطرح شد. 
-‏
-‏نیوزویک نوشت اهمیت راهبردی خارک، این جزیره را به محور بحث‌ها درباره افزایش فشار بر تهران تبدیل کرده است. 
-‏
-‏در حالی که حامیان این طرح آن را راهی برای تضعیف درآمدهای نفتی جمهوری اسلامی می‌دانند، منتقدان هشدار می‌دهند اشغال خارک نیروهای آمریکایی را در معرض حملات مداوم قرار داده و خطر گسترش جنگ را افزایش خواهد داد.
-‏
-‏متن کامل را اینجا بخوانید
-‏https://iranintl.com/202607125626
-01:26
 1405/04/22
 
 
@@ -6856,16 +6854,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇱 US officials say Israeli intelligence of Iranian plot to kill President Trump "was deemed not to be entirely credible," WSJ reports.
-‏
-‏@BRICSNews
-08:21
-1405/04/21
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 قالیباف: دوران توافق‌های یک‌طرفه به پایان رسیده است
@@ -7021,12 +7009,4 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 04:07
-1405/04/21
-
-
-
-
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷 — Iranian State Media reports of more than 10 explosions heard in Jask
-04:03
 1405/04/21
