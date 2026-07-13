@@ -1,3 +1,44 @@
+src :@World_Newsly
+[ویدئو]
+‏🔴پادگان باکری دزفول در حال سوختن
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+03:49
+1405/04/22
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 تصاویر جدید از حمله آمریکا به فرودگاه آقاجاری در امیدیه، خوزستان.
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+03:49
+1405/04/22
+
+
+
+
+src :@Alibk3
+‏دوي انفجارات في خورموج ببوشهر الإيرانية
+03:48
+1405/04/22
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸❌🇮🇷 — Footage showing the aftermath of U.S. strikes against Omidiyeh Airport, Khuzestan Province.
+03:48
+1405/04/22
+
+
+
+
 src :@GeoPWatch
 ‏Coffee and snack break time (going to seriously need it for tonight)
 03:45
@@ -214,7 +255,7 @@ src :@intelslava
 
 
 src :@rnintel
-‏🇺🇸🇮🇷 - Reports of an attack on Aghajari Airport, Khuzestan Province, are false.
+‏🇺🇸🇮🇷🇮🇶 - Reports of an attack on the Chazabeh border crossing with Iraq, Khuzestan Province, in the earlier attack are false.
 03:22
 1405/04/22
 
@@ -228,14 +269,6 @@ src :@World_Newsly
 ‏‌✍🏻 A$
 ‏▪️@World_Newsly
 03:22
-1405/04/22
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷 - Reports of an attack on Aghajari Airport, Khuzestan Province, are false.
-03:21
 1405/04/22
 
 
@@ -489,14 +522,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴 همچنین ۹ سوخت رسان آمریکایی بر روی خلیج فارس مشغول به پروازند.  ✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧 ▪️ @World_Newsly
-03:09
-1405/04/22
-
-
-
-
 src :@Artemis_Force
 ‏امیدوارم در این شب ها حالا که اسمش هرچیزی هست جنگ باشه یا عملیات نظامی، آسیبی به مردم عزیز ایران نرسد با اینکه این مورد ناگذیر هست  @artemis_force
 03:09
@@ -549,18 +574,6 @@ src :@GeoPWatch
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 صدا و سیما مملکت هم اکنون؛
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-03:05
-1405/04/22
-
-
-
-
 src :@intelslava
 ‏🇮🇷⚡️ — Air defenses have been activated east of Tehran.
 03:05
@@ -589,14 +602,6 @@ src :@Alibk3
 src :@Artemis_Force
 ‏همچنین در ساعت یک و ۴۰ دقیقه بامداد امروز دوشنبه ۲۲ تیرماه نقاطی در شهرستان های بهبهان و دزفول مورد اصابت پرتابه های دشمن آمریکایی قرار گرفته است   @artemis_force
 03:04
-1405/04/22
-
-
-
-
-src :@World_Newsly
-‏🔴 همچنین ۹ سوخت رسان آمریکایی بر روی خلیج فارس مشغول به پروازند.  ✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧 ▪️ @World_Newsly
-03:03
 1405/04/22
 
 
@@ -1445,14 +1450,6 @@ src :@MilitarryWorld
 
 
 
-src :@Alibk3
-‏دوي انفجار جديد في الأهواز الآن.
-02:29
-1405/04/22
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Air defenses are still active over Ahvaz and Dezful, Khuzestan Province, southwest Iran.
 02:28
@@ -1561,14 +1558,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Explosions in Behbahan, southwestern Iran.
-02:23
-1405/04/22
-
-
-
-
 src :@Artemis_Force
 ‏۴ نقطه در امیدیه و ماهشهر هدف پرتابه‌های دشمن قرار گرفت
 ‏
@@ -1652,14 +1641,6 @@ src :@Shin_Persian
 ‏استان خوزستان، ایران
 ‏
 ‏𝕏  ·  @shin_persian
-02:22
-1405/04/22
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Local sources inform TabZ the Dezful Airport/Vahdati Air Base was struck in Dezful, Iran. Vahdati Air Base hosts IRIAF F-5E Tiger II fighter jets.
 02:22
 1405/04/22
 
@@ -7085,19 +7066,4 @@ src :@BellumActaNews
 ‏
 ‏Iran made a poor choice. Now, they pay.
 03:53
-1405/04/21
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸❌🇮🇷 — Skies over Arak, Markazi Province, Iran, very close to Tehran
-‏
-‏Missiles incoming
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-03:48
 1405/04/21
