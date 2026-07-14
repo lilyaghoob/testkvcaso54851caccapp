@@ -1,3 +1,83 @@
+src :@wfwitness
+‏⚡️🇸🇾 Reports of an explosion northwest of the city of Raqqa in northern Syria.
+‏
+‏@wfwitness
+01:26
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴صدای انفجار در خان یونس، غزه
+‏گزارش ها از احتمال عملیات خنثی سازی بمب توسط نیروی دفاعی اسرائیل خبر می دهند 
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+01:26
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴 شنیدن صدای انفجاری در استان الرقه در سوریه.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+01:24
+1405/04/24
+
+
+
+
+src :@Mena_Live
+‏Non stop targeting by Iranian navy against ships attempting to cross the Strait of Hormuz.
+‏
+‏@Mena_Live
+01:24
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴 پرتاب موشک "ابو مهدی" توسط نیروی دریایی سپاه در تنگه هرمز. نایا
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+01:24
+1405/04/24
+
+
+
+
+src :@MilitarryWorld
+‏🔴گزارش درگیری شدید در تنگه هرمز
+‏
+‏@MilitarryWorld | Parsa
+01:23
+1405/04/24
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر
+01:22
+1405/04/24
+
+
+
+
+src :@naya_foriraq
+‏ملاحم تخوضها بحرية الحرس الثوري في مضيق هرمز
+01:22
+1405/04/24
+
+
+
+
 src :@naya_foriraq
 ‏الانفجارات المسموعة في سيريك صادرة عن اشتباكات بحرية.
 01:21
@@ -412,41 +492,6 @@ src :@rnintel
 
 
 
-src :@World_Newsly
-‏⭕ حملات هوایی مجدد به سیریک 
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-00:56
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴گزارش دو انفجار در مسیر 
-‏تهران-قم، نزدیک فرودگاه خمینی
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-00:56
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴 انفجار های جدید در بندرعباس
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-00:55
-1405/04/24
-
-
-
-
 src :@Alibk3
 ‏تعرض موقع في جزيرة هنجام الإيرانية للقصف بمقذوفات أميركية.
 00:55
@@ -476,14 +521,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202607140188
 00:55
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🚨به دلیل حجم بالای درخواست ها فقط تا  ۴۸ ساعت این تخفیف تمدید شد! ۸۸٪ تخفیف دیوانه‌وار 🚨  دیگه نیازی نیست حجم نامحدود رو با قیمت بالا بخری بیا از ما نامحدود واقعی  رو ۱۰۰.۰۰۰ تومان بخر.  💎 ۱ ماهه نامحدود VIP (تحویل آنی) ❌ ۸۰۰,۰۰۰ تومان → ✅ فقط ۱۰۰,۰۰۰ تومان!…
-00:54
 1405/04/24
 
 
@@ -551,18 +588,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 00:52
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴حملات آمریکا به تیپ ۳۸۸
-‏ ( تیپ پیاده مکانیزه شهید حیدر شهرکی ) ارتش در بمپور 
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-00:51
 1405/04/24
 
 
@@ -796,7 +821,7 @@ src :@wfwitness
 
 
 src :@VahidOnline
-‏در میان رگبار پیام‌های اهواز سه پیام متفاوت درباره جاده تهران-قم حوالی فرودگاه داشتم که نمی‌دونم چقدر درست هستند:
+‏در میان رگبار پیام‌های اهواز سه پیام متفاوت درباره جاده تهران-قم حوالی فرودگاه داشتم که نمی‌دونم چقدر درست هستند. هرچه صبر کردم پیام دیگری نیومد ولی اون اطرف کلی نقطه نظامی در بیابون هست که لابد کسی بهشون نزدیک نیست:
 ‏
 ‏پیام ساعت ۲۳:۲۰
 ‏هم اکنون انفجار فرودگاه امام خمینی
@@ -1270,21 +1295,6 @@ src :@WAR_ROOM_NEWS
 src :@tabzlive
 [عکس]
 ‏🇮🇱🇱🇧⚡️ — IDF soldiers are watching the France-Spain World Cup game at Beaufort Castle in southern Lebanon.
-00:05
-1405/04/24
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 The US Treasury’s OFAC has intensified sanctions on Mohammad Hossein Shamkhani’s illicit shipping network, designating over 50 individuals, entities, and vessels tied to Iranian oil exports and commodities trading, bringing the total to over 200.
-‏
-‏Secretary Scott Bessent said the action targets “the financial infrastructure” enabling Iran’s threats to US security and global shipping.
-‏
-‏Designations include financiers Zahed and Rakhbarmadani, shipping firm Sea Lead (linked to Houthi supply), and tankers active in Iran-Russia Caspian trade.
-‏
-‏@wfwitness
 00:05
 1405/04/24
 
@@ -2160,14 +2170,6 @@ src :@Artemis_Force
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — U.S. airstrikes against Sirik, southern Iran.
-23:30
-1405/04/23
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏استوری داریوش اقبالی، خواننده معروف لس آنجلسی در حمایت از مردم ایران 
@@ -2283,14 +2285,6 @@ src :@Shin_Persian
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — At least five explosions in Bandar Abbas, southern Iran.
-23:26
-1405/04/23
-
-
-
-
 src :@Artemis_Force
 ‏ارتش کویت: یکی از شناورهای نیروی دریایی کویت هدف قرار گرفت که در پی آن، ۴ نفر از نیروهای مسلح کویت مجروح شدند. /انتخاب  🇮🇷📝 @defence_news 📝🇮🇷
 23:26
@@ -2368,14 +2362,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:23
-1405/04/23
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — Fighter jet activity in Tehran, locals inform TabZ. These jets are almost certainly with the IRIAF.
-23:22
 1405/04/23
 
 
@@ -3036,25 +3022,6 @@ src :@mwarmonitor
 
 
 
-src :@naya_foriraq
-[عکس]
-‏مطالبات شعبية من ساحات العاصمة طهران بالانتقام من فريق ترامب
-23:00
-1405/04/23
-
-
-
-
-src :@naya_foriraq
-‏الجيش الأمريكي:
-‏‏
-‏في تمام الساعة الثالثة مساءً بتوقيت شرق الولايات المتحدة اليوم، بدأت قوات القيادة المركزية الأمريكية جولة إضافية من الضربات الجوية ضد إيران، بهدف مواصلة تقويض قدراتها المستخدمة في مهاجمة السفن التجارية في مضيق هرمز. وتأتي هذه الضربات في الوقت الذي تستعد فيه القوات الأمريكية لاستئناف الحصار البحري المفروض على الموانئ والمناطق الساحلية الإيرانية، والذي يبدأ سريانه في تمام الساعة الرابعة مساءً بتوقيت شرق الولايات المتحدة.
-22:59
-1405/04/23
-
-
-
-
 src :@ClashReport
 ‏Iran hit a Kuwaiti naval vessel tonight, wounding four military personnel. 
 ‏
@@ -3101,18 +3068,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 22:58
-1405/04/23
-
-
-
-
-src :@MilitarryWorld
-‏🔴ارتش کویت:
-‏
-‏یک شناور متعلق به نیروی دریایی کویت امشب مورد هدف ایران قرار گرفت که در نتیجه، چهار نفر از نیروهای مسلح مجروح شدند. ای
-‏
-‏@MilitarryWorld | Parsa
-22:57
 1405/04/23
 
 
@@ -7066,15 +7021,4 @@ src :@militaryinpersian
 [عکس]
 ‏سوراخ سوراخ
 01:42
-1405/04/23
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏تصویری از محل اصابت پرتابه امریکایی به کیش(بنظر قایق تندرو است)
-‏
-‏@P_raetorio
-01:25
 1405/04/23
