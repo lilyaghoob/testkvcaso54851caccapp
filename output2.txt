@@ -1,3 +1,100 @@
+src :@Mena_Live
+‏Syria is now producing around 130,000 barrels per day, with only 40% of its oil and gas wells operating. This is about 270% higher than 2025’s 35,000 bpd and roughly 225–330% higher than 2024’s 30,000–40,000 bpd. 
+‏
+‏At this level, production covers around 50% of domestic oil needs, compared with only about 10–15% in 2024.
+‏
+‏Syrian Oil Field Management 
+‏
+‏@Mena_Live
+01:36
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴 حاجی آباد هرمزگان صدای انفجار.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+01:36
+1405/04/24
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Explosion in Hajiabad, Hormozgan province southern Iran!
+01:36
+1405/04/24
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷اطلاق صاروخ ابو مهدي من بحرية الحرس الثوري في مضيق هرمز
+01:35
+1405/04/24
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇺🇸 — NOW: Iranian media are currently reporting a heavy naval clash between IRGC and US Navy forces in the Strait of Hormuz.
+‏
+‏@IntelSlava
+01:35
+1405/04/24
+
+
+
+
+src :@MilitarryWorld
+‏🔴علت گستردگی حملات هرشب به سیریک:
+‏
+‏سیریک در دهانه تنگه هرمز قرار گرفته است و مشخصا شدت ضربات به این شهر بیشتر است
+‏
+‏@MilitarryWorld | Parsa
+01:35
+1405/04/24
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran withdraws from commitments made under its memorandum with the United States.
+‏
+‏@BRICSNews
+01:35
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴شلیک موشک سپاه به سمت تنگه هرمز
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+01:33
+1405/04/24
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴جلسه احمدی نژاد با همراهانش 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+01:32
+1405/04/24
+
+
+
+
 src :@World_Newsly
 ‏🔴استاندار هرمزگان برخورد چندین پرتابه به بخش‌های شرقی شهر بندرعباس را رسماً تایید کرده است
 ‏
@@ -286,18 +383,6 @@ src :@naya_foriraq
 src :@selena_updates
 [عکس]
 ‏Israel's Mossad in Farsi X account posted this evening an illustration showing several senior Iranian officials secretly taking orders from Israel, with the caption: Which one?
-01:09
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴 فرماندار بوشهر: پدافند امشب در بوشهر فعال شده اما باید علت آن بررسی شود.
-‏او امشب هرگونه اصابت در این شهر را تکذیب کرد!
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 01:09
 1405/04/24
 
@@ -2683,19 +2768,6 @@ src :@GeoPWatch
 
 
 
-src :@P_raetorio
-‏#فوری 
-‏
-‏گزارش‌ها از حمله مجدد به جزیره قشم 
-‏
-‏
-‏@P_raetorio
-23:13
-1405/04/23
-
-
-
-
 src :@naya_foriraq
 ‏انفجارات في بهبهان بمحافظة خوزستان
 23:12
@@ -2727,19 +2799,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 23:12
-1405/04/23
-
-
-
-
-src :@P_raetorio
-‏#فوری 
-‏
-‏براساس گزارشات مردم محلی، بندرعباس زیر آتش شدید قرار دارد 
-‏
-‏
-‏@P_raetorio
-23:11
 1405/04/23
 
 
@@ -2942,16 +3001,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-23:02
-1405/04/23
-
-
-
-
-src :@MilitarryWorld
-‏🔴سنتکام: امروز ساعت ۱۶ به وقت شرقی محاصره دریایی آغاز میشه
-‏
-‏@MilitarryWorld | Parsa
 23:02
 1405/04/23
 
@@ -4023,14 +4072,6 @@ src :@mohem_mat
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭- Renewed explosions in Bahrain!
-21:50
-1405/04/23
-
-
-
-
 src :@Middle_East_Spectator
 ‏— 🇮🇷/🇧🇭 NEW: The all-clear has been issued in Bahrain; several hits are reported  @Middle_East_Spectator
 21:49
@@ -4061,14 +4102,6 @@ src :@KayhanLondonChannel
 src :@intelslava
 ‏🇮🇷❌🇧🇭🇺🇸 — Iran attacked Bahrain with a very large salvo of ballistic missiles roughly 30 minutes ago.
 21:45
-1405/04/23
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷— BREAKING: US is currently conducting airstrikes in Iran, a US official says.
-21:42
 1405/04/23
 
 
@@ -6873,16 +6906,6 @@ src :@BellumActaNews
 ‏🇧🇭⚠️ — Air Raid sirens in Bahrain
 ‏https://x.com/moi_bahrain/status/2076847296998773100
 05:28
-1405/04/23
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 Oil prices surge to four-week high as US-Iran fighting resumes.
-‏
-‏@BRICSNews
-05:20
 1405/04/23
 
 
