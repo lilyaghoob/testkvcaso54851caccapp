@@ -1,6 +1,51 @@
+src :@selena_updates
+[عکس]
+‏Israeli forces continue operations against Hezbollah across southern Lebanon, carrying out multiple strikes over the past day. 
+‏
+‏Among the most notable attacks are a powerful overnight detonation Hadatha, a large explosion in Kfar Tebnit today, and another major blast in Deir Seryan this evening.
+20:35
+1405/04/23
+
+
+
+
+src :@World_Newsly
+‏🔴 دونالد ترامپ رسماً نام سوریه را از فهرست کشورهایی که حامی تروریسم هستند، حذف کرد.
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+20:35
+1405/04/23
+
+
+
+
+src :@World_Newsly
+‏🔴 فرودگاه ابها در عربستان سعودی همچنان برای پروازها بسته است
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+20:33
+1405/04/23
+
+
+
+
 src :@Alibk3
 [عکس]
+‏مسؤولون كبار في القيادة المركزية الأميركية أعربوا عن اعتراضهم على قرار إسرائيل بوقف السماح بهبوط طائرات أمريكية إضافية للتزود بالوقود في مطار بن غوريون، محذرين من أن ذلك يقوض المتطلبات التشغيلية الأمريكية خلال التصعيد مع إيران.
 20:33
+1405/04/23
+
+
+
+
+src :@World_Newsly
+‏‏🔴 گزارش هایی از انفجار در دزفول، اندیمشک، قشم
+‏‎
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+20:32
 1405/04/23
 
 
@@ -86,14 +131,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 20:27
-1405/04/23
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏آقا مثل که تبریز شیراز زدن ولی هنوز تایید نیست
-20:26
 1405/04/23
 
 
@@ -658,14 +695,6 @@ src :@guard_warriors
 
 
 
-src :@World_Newsly
-‏🔴عارف در گفتگو با المیادین: مدیریت تنگه هرمز از سوی ایران امری طبیعی است؛ همانگونه که استفاده از این تنگه، حق همه کشورهای دیگر نیز محسوب میشود  ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
-20:08
-1405/04/23
-
-
-
-
 src :@Indypersian
 ‏⭕️ترامپ برای پیروزی بر جمهوری اسلامی سه گزینه دارد، اما هیچ‌کدام آسان نیست
 ‏
@@ -690,17 +719,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-‏🔴عارف در گفتگو با المیادین: مدیریت تنگه هرمز از سوی ایران امری طبیعی است؛ همانگونه که استفاده از این تنگه، حق همه کشورهای دیگر نیز محسوب میشود
-‏
-‏✍🏻 𝑻𝑲𝑴
-‏▪️ @World_Newsly
-20:06
-1405/04/23
-
-
-
-
 src :@naya_foriraq
 ‏‏‌ترامب بشأن مشروع قانون العقوبات على روسيا: "هذا تكريماً لليندسي. كان هذا مشروعه... وهناك احتمال كبير أن يتم إقراره، لكنهم يرغبون في إضافة إيران وحزب الله إليه."
 20:04
@@ -712,14 +730,6 @@ src :@naya_foriraq
 src :@Middle_East_Spectator
 ‏— NOTE: No new aggression against Iran has taken place since this morning, except the targeting of Qeshm about an hour ago with a single projectile.
 20:03
-1405/04/23
-
-
-
-
-src :@World_Newsly
-‏🔴صدای انفجار/شلیک در قشم   ‌✍🏻 A$ ▪️@World_Newsly
-20:02
 1405/04/23
 
 
@@ -2351,6 +2361,14 @@ src :@BellumActaNews
 
 
 
+src :@WAR_ROOM_NEWS
+‏🔴ارتش کویت اعلام کرده در حال رهگیری پرتابه های به این کشور است
+18:59
+1405/04/23
+
+
+
+
 src :@MilitarryWorld
 ‏🔴پزشکیان: 
 ‏
@@ -2861,20 +2879,6 @@ src :@Indypersian
 src :@jangaavaran1390
 ‏ترامپ در شبکه تروث سوشیال پستی را بازنشر کرده است که یک مصاحبه قدیمی از خود او در سال 1988 را نشان می‌دهد. ظاهرا ترامپ از آن زمان پیشنهاد تسخیر جزیره خارگ در صورت حمله ایران به نظامیان آمریکایی را داده بوده است!
 18:30
-1405/04/23
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏شرکت توزیع برق تهران اعلام کرد از چهارشنبه ۲۴ تیر، «قطعی برق برنامه‌ریزی شده» در شهر تهران آغاز خواهد شد. 
-‏
-‏شرکت توانیر، دلیل این اقدام را «افزایش دما و رشد مصرف» اعلام کرده است. 
-‏
-‏شرکت توانیر گفت شهروندان می‌توانند زمان خاموشی‌های احتمالی را از سامانه‌های اطلاع‌رسانی پیگیری کنند.
-‏https://iranintl.com/202607144103
-18:29
 1405/04/23
 
 
@@ -6436,15 +6440,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 00:53
-1405/04/23
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The U.S. Army launched a series of airstrikes on targets in Iran for the 3rd consecutive night.
-00:52
 1405/04/23
 
 
