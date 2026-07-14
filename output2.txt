@@ -1,4 +1,58 @@
 src :@naya_foriraq
+[فایل]
+‏دكوا عروش الأسرة المغرورة
+17:35
+1405/04/23
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇱🇧🇫🇷 The Lebanese armed forces recieved 19 additional VAB armored personnel carriers transfered from the French Army inventory as they are being phased out from active service. 
+‏
+‏39 VABs were previously transfered earlier this year.
+‏
+‏@wfwitness
+17:34
+1405/04/23
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴دونالد ترامپ در گفت‌وگو با Newsmax گفته است که راسل فرای (Russell Fry)، نماینده جمهوری‌خواه کنگره از کارولینای جنوبی، می‌تواند گزینه‌ای «فوق‌العاده» برای پر کردن کرسی سنای این ایالت باشد که پس از درگذشت سناتور لیندزی گراهام خالی شده است. 
+‏
+‏✍🏻 Hector
+‏▪️@World_Newsly
+17:34
+1405/04/23
+
+
+
+
+src :@ClashReport
+‏Zelensky:
+‏
+‏Ukraine will receive licenses to manufacture highly significant weapons: SCALP missiles, AASM guided bombs, and, jointly with Italy, Aster 30 missiles. 
+‏
+‏France will also cooperate with us and other partners within the framework of the FREYJA anti-ballistic program—an especially important pillar of our future strength.
+‏
+‏Ukraine will be the first country to receive the new, upgraded Franco-Italian SAMP/T NG systems. These are effective anti-ballistic defense systems. 
+‏
+‏France will also provide two SAMP/T batteries to strengthen our defenses later this year. At the same time, France and Italy will accelerate deliveries of Aster 30 missiles by October of this year.
+‏
+‏Ukraine will also purchase the first 16 Rafale fighter aircraft for the Ukrainian Air Force, along with their associated weapons. 
+‏
+‏Training for our pilots and maintenance personnel will begin in France later this year. After that, the first four Rafale aircraft will be transferred to the Armed Forces of Ukraine.
+17:32
+1405/04/23
+
+
+
+
+src :@naya_foriraq
 ‏نادي النصر السعودي يلغي معسكره التدريبي في ابها ويعود الى الرياض بعد هجوم انصار الله
 17:30
 1405/04/23
@@ -1855,16 +1909,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیمروزی | سه‌شنبه ۲۳ تیر
-‏@iranintlTV
-14:59
-1405/04/23
-
-
-
-
 src :@jangaavaran1390
 ‏یک مقام کاخ سفید  گفت ترامپ، رئیس‌جمهور  آمریکا، درباره اعمال مالیات ۲۰ درصدی بر کالاهای عبوری از تنگه هرمز «بسیار جدی» است؛ ایده‌ای که ماه‌ها پیش مطرح کرده و همواره به دنبال آن بوده، هرچند دیگران مانع او شدند. جزئیات اجرا و مشورت با کشورهای حوزه خلیج فارس هنوز مشخص نیست.
 14:59
@@ -3173,19 +3217,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏Bulgaria will no longer participate in the Coalition of the Willing, Prime Minister Roumen Radev announced, distancing the country from the group of nations supporting Ukraine.
-‏
-‏Radev said the war should be resolved through diplomacy rather than further arms deliveries. 
-‏
-‏Source: Bloomberg
-13:22
-1405/04/23
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷 Fars: Multiple explosions reported in Bushehr and Jegadak, Iran.  @wfwitness
@@ -3259,15 +3290,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 IRIB: 5 explosions heard west of Bandar Abbas.   @wfwitness
-13:18
-1405/04/23
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- Iranian media report explosions in Bushehr and Bandar Abbas, southern Iran.
 13:16
@@ -3283,15 +3305,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 13:16
-1405/04/23
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 The War Zone: Carrier tracking as of July 7 shows USS Abraham Lincoln and USS George H.W. Bush still operating in the CENTCOM area amid the U.S.–Iran confrontation, while USS George Washington is in the western Pacific after recent exercises.  USS Carl…
-13:15
 1405/04/23
 
 
@@ -7197,12 +7210,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 17:37
-1405/04/22
-
-
-
-
-src :@militaryinpersian
-‏قالیباف دانا است و به خوبی میداند اهرم فشار تنگه هرمز دایمی نیست از این رو سعی در حفاری تاسیسات مرده برای بازیابی اورانیوم غنی شده 60 درصد دارد. ایران در کوتاه مدت و میان مدت توانایی غنی سازی اورانیوم را نخواهد داشت چرا که نیاز به زیرساخت های هسته ای مناسب…
-17:33
 1405/04/22
