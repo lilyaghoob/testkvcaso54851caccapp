@@ -1,3 +1,61 @@
+src :@MilitarryWorld
+‏🔴ارتش کویت:
+‏
+‏یک شناور متعلق به نیروی دریایی کویت امشب مورد هدف ایران قرار گرفت که در نتیجه، چهار نفر از نیروهای مسلح مجروح شدند. ای
+‏
+‏@MilitarryWorld | Parsa
+22:57
+1405/04/23
+
+
+
+
+src :@jangaavaran1390
+‏ارتش کویت 
+‏یک شناور متعلق به نیروی دریایی کویت امشب مورد هدف ایران قرار گرفت که در نتیجه، چهار نفر از نیروهای مسلح مجروح شدند. این افراد تحت مراقبت‌های پزشکی لازم قرار گرفتند و حال آن‌ها پایدار است.
+22:55
+1405/04/23
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش در منابع عربی 
+‏
+‏ارتش کویت: یکی از شناورهای متعلق به نیروهای ما مورد هدف قرار گرفت و ۴ نفر از خدمه آن مجروح شدند. حال آن‌ها پایدار است.
+22:55
+1405/04/23
+
+
+
+
+src :@World_Newsly
+‏🔴 ارتش کویت :یک کشتی جنگی ارتش کویت هدف قرار گرفت و ۴ نفر از خدمه آن زخمی شدند
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+22:55
+1405/04/23
+
+
+
+
+src :@World_Newsly
+‏🔴 در کل ۵ انفجار در بندرعباس  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
+22:55
+1405/04/23
+
+
+
+
+src :@Alibk3
+‏الجيش الكويتي:   تم استهداف إحدى القطع البحرية التابعة لقواتنا وأصيب 4 من منتسبيها وحالتهم مستقرة
+22:54
+1405/04/23
+
+
+
+
 src :@warmonitors
 ‏⚡Reports of explosions in southern Iran
 ‏
@@ -8,8 +66,30 @@ src :@warmonitors
 
 
 
+src :@IranintlTV
+[عکس]
+‏کاظم غریب‌آبادی، معاون وزیر خارجه جمهوری اسلامی، اعلام کرد در گفت‌وگو با عمان هیچ توافقی درباره تنگه هرمز حاصل نشده است.
+‏
+‏او با اشاره به حملات آمریکا در دو هفته گذشته گفت جمهوری اسلامی دیگر تعهدی به یادداشت تفاهم اسلام‌آباد، از جمله در موضوع تنگه هرمز، ندارد و هرگونه درخواست برای بازگشت به تعهدات این تفاهم، از جمله بازگشایی تنگه هرمز برای عبور کشتی‌ها را «بلاوجه و بی‌اساس» دانست.
+‏
+‏غریب‌آبادی همچنین گفت: «نوع پاسخ و واکنش ما به آمریکا باید پشیمان‌کننده باشد، نه متناسب.»
+‏https://iranintl.com/202607148464
+22:52
+1405/04/23
+
+
+
+
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — Initial reports of explosions in Bandar Abbas.
+22:52
+1405/04/23
+
+
+
+
+src :@wfwitness
+‏⚡️🇪🇸🇫🇷⚽️ Penalty awarded to Spain.  @wfwitness
 22:52
 1405/04/23
 
@@ -41,7 +121,9 @@ src :@Middle_East_Spectator
 
 
 src :@wfwitness
-‏Reports of explosions in Bandar Abbas.
+‏⚡️🇮🇷 Reports of explosions in Bandar Abbas, Iran.
+‏
+‏@wfwitness
 22:51
 1405/04/23
 
@@ -150,7 +232,7 @@ src :@wfwitness
 
 
 src :@WAR_ROOM_NEWS
-‏🔴انفجار در بندرعباس
+‏🔴 گزارشات از ۵ انفجار در بندرعباس
 22:50
 1405/04/23
 
@@ -252,7 +334,7 @@ src :@Alibk3
 
 
 src :@naya_foriraq
-‏انفجارات في بندرعباس
+‏انفجارات في بندرعباس وجزيرة قشم جنوبي إيران.
 22:47
 1405/04/23
 
@@ -349,7 +431,7 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇵🇸🇮🇱 An image circulating online was falsely presented as showing Israeli forces looting appliances from homes in Deir Seryan before setting them ablaze.
 ‏
-‏The image was actually taken in Ramallah, Palestine. Similar looting and destruction have nevertheless been reported in parts of southern Lebanon.
+‏The image was actually taken in Ramallah in the West Bank. Similar looting and destruction have nevertheless been reported in parts of southern Lebanon.
 ‏
 ‏@wfwitness
 22:45
@@ -1202,20 +1284,6 @@ src :@World_Newsly
 ‏‏🔴 از لارک موشک بلند شد
 ‏‎
 ‏‌✍🏻 A$
-‏▪️@World_Newsly
-22:21
-1405/04/23
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 محمد مرندی، مشاور تیم مذاکره‌کننده ایران، مدعی شد دولت ترامپ مخفیانه در حال تدارک حملات هوایی گسترده و تهاجم زمینی به ایران با حمایت چندین کشور عربی است.
-‏
-‏🔹️ وی هشدار داد در صورت آغاز چنین عملیاتی، آن حکومت های عرب خلیج "فارس" دوام نخواهند آورد و افزود ایران بی‌سروصدا خود را برای یک رویارویی بزرگ آماده کرده است.
-‏
-‏✍🏻 SLXUGHTER
 ‏▪️@World_Newsly
 22:21
 1405/04/23
@@ -2200,14 +2268,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏🌟🌟بعد فشل منظومة الباتريوت.. طائرات حربية أمريكية تقوم بدوريات ومحاولات تصدي فوق الاجواء البحرينية
-21:27
-1405/04/23
-
-
-
-
 src :@warmonitors
 ‏⚡️ Bahrain warns people to seek shelter as air raid sirens sound
 ‏
@@ -2529,14 +2589,6 @@ src :@Alibk3
 
 
 
-src :@Alibk3
-‏الله أكبر
-21:12
-1405/04/23
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇧🇭- Even more explosions in Bahrain!
 21:11
@@ -2645,14 +2697,6 @@ src :@DEJradio
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇷🇺CNN: U.S. President Trump will back the passage of the Russia sanctions package led by late U.S. Senator Graham.   The package will allow for Trump to impose harsh tarrifs on countries buying Russian oil, uranium, and natural gas.  @wfwitness
-21:06
-1405/04/23
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏De Faakto MENA ✓ @DeFaakto
@@ -2702,22 +2746,6 @@ src :@GeoPWatch
 
 src :@GeoPWatch
 ‏🇮🇷❌🇧🇭- More explosions in Bahrain!
-21:01
-1405/04/23
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏نماینده آمریکا در شورای امنیت سازمان ملل گفت حمله جمهوری اسلامی به کشتی‌های تجاری و تلاش حکومت ایران برای «به گروگان گرفتن» تنگه هرمز و اقتصاد جهانی نشان می‌دهد آزادی کشتیرانی برای صلح و رفاه بین‌المللی حیاتی است و برخی حکومت‌ها برای کسب امتیاز سیاسی یا مصون ماندن از پیامدهای اقدامات تهاجمی خود، این آزادی را نقض می‌کنند.
-‏
-‏او حوثی‌ها را متحدان تهران خواند و گفت این گروه از الگوی رفتاری سپاه پاسداران پیروی می‌کند؛ از ربودن غیرنظامیان و استفاده از سپر انسانی تا حمله به زیرساخت‌های غیرنظامی و تکرار شعارهای «مرگ بر اسرائیل» و «مرگ بر آمریکا».
-‏
-‏نماینده آمریکا هشدار داد اگر تهران تنگه هرمز را تهدید کند، حوثی‌ها نیز ممکن است بار دیگر برای مسدود کردن دریای سرخ اقدام کنند و افزود این گروه «به نمایندگی از تهران در حال ایجاد رعب و وحشت در منطقه» است.
-‏
-‏او تاکید کرد کسانی که پرتابگر موشک یا مین دریایی در اختیار دارند، حق ندارند تعیین کنند کدام مناطق آب‌های بین‌المللی هستند یا کشورهای مستقل چگونه امور بین‌المللی خود را اداره کنند.
-‏https://iranintl.com/202607149316
 21:01
 1405/04/23
 
@@ -3213,16 +3241,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 20:25
-1405/04/23
-
-
-
-
-src :@MilitarryWorld
-‏🔴هم اکنون حمله دوباره به کویت 
-‏
-‏@MilitarryWorld | Parsa
-20:23
 1405/04/23
 
 
@@ -3774,20 +3792,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 19:34
-1405/04/23
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ دونالد ترامپ، رئیس‌جمهوری آمریکا، در پیامی در شبکه اجتماعی «تروث سوشال» اعلام کرد که برنامه دریافت عوارض ۲۰ درصدی از کشتی‌های عبوری از تنگه هرمز را لغو کرده است. او دلیل این تغییر تصمیم را «گفت‌وگوهای بسیار سازنده با رهبران خاورمیانه» عنوان کرد و افزود که این عوارض با «توافقات تجاری و سرمایه‌گذاری» گسترده کشورهای حوزه خلیج فارس در ایالات متحده جایگزین خواهد شد.
-‏
-‏ترامپ با تمجید از ارتش ایالات متحده، تاکید کرد که تنگه هرمز برای تمامی کشتی‌ها به جز شناورهای مرتبط با ایران باز است. او با متهم کردن رهبران جمهوری اسلامی ایران به رفتارهای «خشونت‌آمیز و مخرب»، تایید کرد که محاصره کامل دریایی تنها برای کشتی‌هایی که به مقصد یا از مبدا بنادر ایران در حرکت هستند یا محموله‌های ایرانی حمل می‌کنند، برقرار خواهد بود.
-‏
-‏رئیس‌جمهوری آمریکا در پایان اظهار داشت که دوران کشتارهای حکومت ایران، از جمله کشتار هزاران معترض به پایان رسیده و تاکید کرد: «ایران هرگز به سلاح هسته‌ای دست نخواهد یافت».
-‏@indypersian
-19:32
 1405/04/23
 
 
@@ -6672,27 +6676,6 @@ src :@bricsnews
 
 
 
-src :@warmonitors
-‏⚡️#BREAKING Bahrain sounds missile alert sirens as Iran retaliates over new round of US airstrikes
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-04:37
-1405/04/23
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️#BREAKING UAE Defense Ministry says Iran attacks 2 tankers in strait near Oman's coast, killing 1 person and wounding 8 others 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-04:37
-1405/04/23
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇷🚀❌🇺🇸 — Iranian channels report 2 missiles launched from Kermanshah, western Iran
@@ -6864,17 +6847,6 @@ src :@militaryinpersian
 ‏
 ‏👑 @Fighter_Radar
 02:19
-1405/04/23
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️ Attack on Kish Island 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-02:12
 1405/04/23
 
 
