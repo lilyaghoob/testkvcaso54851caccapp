@@ -1,3 +1,86 @@
+src :@naya_foriraq
+‏الانفجارات المسموعة في سيريك صادرة عن اشتباكات بحرية.
+01:21
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴 صدای انفجار در بمپور، استان سیستان و بلوچستان
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+01:20
+1405/04/24
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴تصویری از رئیس‌جمهور پزشکیان در مراسم مصلای تهران
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+01:19
+1405/04/24
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 Footage reportedly show US strikes on Bamapur and southern Iran.  @wfwitness
+01:19
+1405/04/24
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#NEWS | 🇮🇱 🇮🇷 — Mossad Farsi on 'X' posted a picture with Iranian leaders including top negotiators and former President Ahmadinejad with the caption "Which one of them?"
+‏
+‏The Global Eye | Subscribe
+01:18
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴صدای انفجارهای جدید در سیریک
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+01:18
+1405/04/24
+
+
+
+
+src :@naya_foriraq
+‏بندر عباس وسيريك تتعرض لعدوان اميركي غاشم
+01:18
+1405/04/24
+
+
+
+
+src :@P_raetorio
+‏#خبر 
+‏
+‏گزارشاتی از حمله آمریکا به بمپور استان سیستان و بلوچستان 
+‏
+‏
+‏@P_raetorio
+01:17
+1405/04/24
+
+
+
+
 src :@World_Newsly
 ‏🔴تکذیب شنیده شدن صدای انفجار و فعالیت پدافند در یاسوج
 ‏
@@ -15,7 +98,7 @@ src :@World_Newsly
 
 
 src :@World_Newsly
-‏🔴حملات آمریکا به شهر یاسوج، در جنوب شرقی ایران
+‏🔴حملات آمریکا به شهر یاسوج، در جنوب غربی ایران
 ‏
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
@@ -501,28 +584,6 @@ src :@BellumActaNews
 
 
 
-src :@World_Newsly
-‏🔴 حمله موشک های آمریکایی به سیریک، هرمزگان
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-00:50
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴خبرگزاری مهر: پدافند هوایی اطراف نیروگاه اتمی بوشهر فعال شد.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-00:49
-1405/04/24
-
-
-
-
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — US strike on Qeshm's Hengam Island, Iran.
 00:49
@@ -602,17 +663,6 @@ src :@P_raetorio
 
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — Explosions heard in Bampur and Chabahar, southeastern Iran, according to Mehr News Agency.
-00:46
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴 استانداری هرمزگان اعلام کرد در حملات جدید آمریکا به برخی نقاط استان، هیچ مصدوم غیرنظامی یا خسارتی به زیرساخت‌های مسکونی و تجاری گزارش نشده است.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
 00:46
 1405/04/24
 
@@ -1148,17 +1198,6 @@ src :@P_raetorio
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— One of the ships that was promised ‘safe passage’ by America.
-‏
-‏@Middle_East_Spectator
-00:11
-1405/04/24
-
-
-
-
 src :@Alibk3
 ‏دوي انفجار جديد في بندر عباس.
 00:10
@@ -1323,16 +1362,6 @@ src :@Shin_Persian
 
 src :@didarnews1
 ‏🔴ارتش آمریکا: محاصره دریایی ایران وارد فاز اجرایی شد.  #دیدار_نیوز didarnews.ir @didarnews1| @didarnewsir
-23:57
-1405/04/23
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇦 Explosions heard in the Ukrainian capital Kyiv.
-‏
-‏@wfwitness
 23:57
 1405/04/23
 
@@ -2972,22 +3001,6 @@ src :@warmonitors
 
 
 
-src :@P_raetorio
-‏طبق اعلام ارتش کویت یک موشک بالستیک، 5 موشک کروز و 33 پهپاد که به سمت این کشور شلیک شده بودند، رهگیری شده‌اند.
-‏
-‏همچنین یک کشتی نیروی دریایی کویت مورد حمله قرار گرفت و چهار نفر از خدمه آن مجروح شدند.
-‏
-‏
-‏#خبر 
-‏
-‏
-‏@P_raetorio
-23:01
-1405/04/23
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏ارتش کویت: یکی از شناورهای نیروی دریایی کویت هدف قرار گرفت که در پی آن، ۴ نفر از نیروهای مسلح کویت مجروح شدند. /انتخاب
 ‏
@@ -3063,15 +3076,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 22:59
-1405/04/23
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏انفجارات في مدينة الأهواز جنوبي إيران
-22:58
 1405/04/23
 
 
@@ -4259,18 +4263,6 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 21:32
-1405/04/23
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ علی فالح الزیدی، نخست‌وزیر عراق، روز سه‌شنبه ۲۳ تیر اعلام کرد که نیروهای نظامی ایالات متحده تا ۳۰ سپتامبر (هشتم مهر) خاک عراق را ترک خواهند کرد. او در جریان نخستین سفر رسمی خود به واشنگتن پس از آغاز به کار در اردیبهشت‌ماه، دیدار با دونالد ترامپ، رئیس‌جمهوری آمریکا، را آغازی بر فصل جدیدی در روابط دوجانبه دانست که به جای تمرکز بر مناسبات نظامی، بر همکاری‌های اقتصادی استوار است.
-‏
-‏الزیدی در نشست مطبوعاتی مشترک با ترامپ در کاخ سفید تاکید کرد: «این سفر تنها یک بازدید عادی نبود، بلکه اعلام یک مشارکت اقتصادی است». او افزود که با خروج نیروهای آمریکایی، شرکت‌های ایالات متحده جایگزین آن‌ها شده و در عراق حضور خواهند یافت.
-‏@indypersian
-21:29
 1405/04/23
 
 
@@ -6093,17 +6085,6 @@ src :@BellumActaNews
 ‏
 ‏🔴 @DDGeopolitics | Socials | Donate | Advertising
 14:39
-1405/04/23
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇮🇷 — U.S. airstrikes hit sites in Abadan and near Mahshahr, southwestern Iran with two explosions reported near Mahshahr, Iranian state media reports.
-‏
-‏The Global Eye | Subscribe
-14:38
 1405/04/23
 
 
