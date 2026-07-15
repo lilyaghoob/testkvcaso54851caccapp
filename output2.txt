@@ -4256,21 +4256,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏A bipartisan Russia sanctions bill, originally championed by the late Sen. Lindsey Graham, would give President Trump the authority to impose tariffs of up to 100% on the five largest buyers of Russian oil and gas, including China and India.
-‏
-‏The goal is to increase economic pressure on Russia over its war in Ukraine while leaving the decision to impose tariffs entirely to the president.
-‏
-‏The bill also expands sanctions on Russia's defense, energy, financial sectors, and its shadow oil fleet.
-‏
-‏Source: WSJ
-23:21
-1405/04/23
-
-
-
-
 src :@defence_news
 ‏ارتش کویت: یکی از شناورهای نیروی دریایی کویت هدف قرار گرفت که در پی آن، ۴ نفر از نیروهای مسلح کویت مجروح شدند. /انتخاب  🇮🇷📝 @defence_news 📝🇮🇷
 23:21
@@ -4807,16 +4792,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 21:54
-1405/04/23
-
-
-
-
-src :@mohem_mat
-‏ادعای سی‌ان‌ان: داده‌های دریانوردی نشان می‌دهد که دست‌کم ۲۲ کشتی تجاری از تنگه هرمز در ۲۴ ساعت گذشته عبور کرده‌اند/ خبرآنلاین
-‏
-‏@mohem_mat
-21:51
 1405/04/23
 
 
