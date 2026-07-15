@@ -1,4 +1,75 @@
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Reports of explosions on Busheshr.
+04:46
+1405/04/24
+
+
+
+
+src :@Alibk3
+[عکس]
+‏دوي انفجار في مدينة سيريك الإيرانية.
+04:45
+1405/04/24
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Explosions in Bushehr
+‏Bushehr Province, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏انفجارها در بوشهر
+‏استان بوشهر، ایران
+‏
+‏𝕏  ·  @shin_persian
+04:44
+1405/04/24
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — Explosions in Bushehr, southern Iran.
+04:44
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش صدای انفجار در بوشهر
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+04:43
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴 تصویر منتسب به ورودی اورژانس بیمارستان ایرانشهر  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
+04:42
+1405/04/24
+
+
+
+
+src :@naya_foriraq
+‏دوي إنفجارات في مدينتي بوشهر وخورموج جنوبي إيران.
+04:42
+1405/04/24
+
+
+
+
 src :@VahidOnline
+‏پیام‌های دریافتی:
 ‏بوشهر صدای انفجار همین الان
 ‏
 ‏انفجار ساعت ۴:۳۸ خورموج بوشهر
@@ -10,6 +81,26 @@ src :@VahidOnline
 ‏سلام وحید جان شبتون بخیر ساعت 4:41 بهمنی رو دو بار تا الان زدن و همینجوری دارن میزنن پشت سر هم پایگاه هوایی
 ‏
 ‏انفجار خیلی وحشتناک بوشهر ساعت ۰۴:۴۱
+‏
+‏وحید بوشهر ۴:۴۱ پایگاه هوایی یا دو طفلان مسلم 😂
+‏
+‏بوشهر الان زدن ۴:۴۱
+‏
+‏درود وقت بخیر 
+‏بوشهر همین الان یک صدای انفجار بشدت بلند اومد
+‏
+‏سلام ساعت 4:40 صدا بزرگ انفجار از بوشهر اومد
+‏
+‏۴:۴۰ بوشهر یه انفجار بزرگ
+‏
+‏وحید ۲.۳ انفجار سنگین در بوشهر ۴:۴۰
+‏
+‏
+‏وحید بوشهر ناحیه‌ی بهمنی صدای شدید انفجار😭😭😭😭😭😭
+‏
+‏بوشهر زدن الان ۴:۴۰
+‏
+‏شهر بوشهر ۰۴۴۰ زدن
 ‏
 ‏📡 @VahidOnline
 04:42
@@ -872,17 +963,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴 آژیر در بحرین
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:32
-1405/04/24
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -946,17 +1026,6 @@ src :@intelslava
 src :@BellumActaNews
 [عکس]
 ‏🇧🇭⚠️ — Air Raid Sirens in Bahrain
-03:29
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴 انفجار در بحرین
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
 03:29
 1405/04/24
 
@@ -1765,14 +1834,6 @@ src :@bricsnews
 
 
 
-src :@naya_foriraq
-‏الله أكبر
-02:26
-1405/04/24
-
-
-
-
 src :@defence_news
 ‏🔴 گزارشاتی از ایرانشهر حاکی از این است که در حمله جنایتکارانه امریکا به آسایشگاه سربازان، تعداد زیادی به شهادت رسیدند.
 ‏
@@ -2449,14 +2510,6 @@ src :@Mena_Live
 ‏Syrian Oil Field Management 
 ‏
 ‏@Mena_Live
-01:36
-1405/04/24
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Explosion in Hajiabad, Hormozgan province southern Iran!
 01:36
 1405/04/24
 
@@ -3568,22 +3621,6 @@ src :@Shin_Persian
 ‏
 ‏منبع: @CENTCOM (ستاد فرماندهی مرکزی ایالات متحده)
 ‏https://x.com/CENTCOM/status/2077122269093249066
-‏
-‏𝕏  ·  @shin_persian
-23:35
-1405/04/23
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Sanctions inbound
-‏
-‏ترجمه خودکار فارسی
-‏
-‏تحریم‌ها در راه هستند
 ‏
 ‏𝕏  ·  @shin_persian
 23:35
