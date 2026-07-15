@@ -1,3 +1,14 @@
+src :@World_Newsly
+‏🔴 صدای انفجار در سیریک هم شنیده شده
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+04:55
+1405/04/24
+
+
+
+
 src :@BellumActaNews
 ‏🇺🇸❌🇮🇷 — Explosions in Bushehr, Southern Iran
 04:50
@@ -779,17 +790,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴 انفجار های شدید در بحرین
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:44
-1405/04/24
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — About 30 minutes ago, the US struck an Iranian military base in Bampur.
 ‏
@@ -875,19 +875,6 @@ src :@Alibk3
 src :@GeoPWatch
 ‏🇮🇷❌🇧🇭- More explosions in Bahrain.
 03:38
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴خبرگزاری دانشجویان:
-‏
-‏🔹️حمله هوایی آمریکا به سمت مجتمع اقامتی سربازانی انجام شد که در حال استراحت بودند﻿.
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:37
 1405/04/24
 
 
@@ -1642,15 +1629,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 02:48
-1405/04/24
-
-
-
-
-src :@Alibk3
-[عکس]
-‏الصواريخ الإيرانية فوق الأردن
-02:46
 1405/04/24
 
 
