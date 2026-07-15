@@ -1,3 +1,69 @@
+src :@wfwitness
+‏⚡️🇰🇼🇮🇷 Renewed explosions in Kuwait following interception attempts.
+‏
+‏@wfwitness
+03:26
+1405/04/25
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇰🇼 — Explosion in Kuwait.
+03:26
+1405/04/25
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Explosions in Zanjan provience.
+03:26
+1405/04/25
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- Explosions in Seman provience.
+03:25
+1405/04/25
+
+
+
+
+src :@Alibk3
+‏الانفجار الأخير في الكويت قوي جدًا.
+03:25
+1405/04/25
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇰🇼Explosions in Kuwait.
+03:25
+1405/04/25
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇰🇼 — Explosion in Kuwait.
+03:24
+1405/04/25
+
+
+
+
+src :@Alibk3
+‏دوي انفجار عنيف في الكويت
+03:23
+1405/04/25
+
+
+
+
 src :@Alibk3
 ‏دوي انفجار عنيف في الكويت
 03:21
@@ -1383,17 +1449,6 @@ src :@naya_foriraq
 
 
 
-src :@Mena_Live
-[عکس]
-‏Currently, 10 aerial refueling aircraft, including models KC-135R and KC-46A, along with one early warning aircraft, E-3G (AWACS), are operating in the airspace of the region.
-‏
-‏@Mena_Live
-01:35
-1405/04/25
-
-
-
-
 src :@naya_foriraq
 ‏قصف مستشفى في الاهواز
 01:34
@@ -1501,16 +1556,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 01:31
-1405/04/25
-
-
-
-
-src :@Mena_Live
-‏SANA: Israeli occupation forces stationed at the Al-Jazeera military base are firing machine guns towards the homes of residents in the village of Ma'ra in Daraa, southern Syria.
-‏
-‏@Mena_Live‏
-01:30
 1405/04/25
 
 
@@ -2333,14 +2378,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-‏⚡️🇦🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽️ Argentina equalizes with England 1-1.  @wfwitness
-00:23
-1405/04/25
-
-
-
-
 src :@MilitarryWorld
 ‏🔴جی دی ونس، درباره ایران:
 ‏
@@ -2469,16 +2506,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 00:14
-1405/04/25
-
-
-
-
-src :@Mena_Live
-‏Financial Advisor to the Iraqi Prime Minister: Sanctions against entities affiliated with Hezbollah are in defense of Iraq's interests.
-‏
-‏@Mena_Live
-00:12
 1405/04/25
 
 
@@ -3588,14 +3615,6 @@ src :@Shin_Persian
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭- Explosions in Bahrain!
-23:11
-1405/04/24
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏فرماندهی مرکزی ایالات متحده، سنتکام، شامگاه چهارشنبه ۲۴ تیر اعلام کرد نیروهای آمریکایی موج دوم حملات خود به ایران را آغاز کرده‌اند.
@@ -3652,14 +3671,6 @@ src :@mwarmonitor
 
 src :@WAR_ROOM_NEWS
 ‏انفجار در بندرعباس
-23:01
-1405/04/24
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Renewed attack on Ahvaz.
 23:01
 1405/04/24
 
@@ -3904,14 +3915,6 @@ src :@VahidOnline
 ‏CENTCOM
 ‏
 ‏📡 @VahidOnline
-22:54
-1405/04/24
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Reports of explosions in Bandar Abbas!
 22:54
 1405/04/24
 
