@@ -1,4 +1,36 @@
 src :@GeoPWatch
+‏🇮🇷❌🇧🇭-Explosions in Chabahar!
+02:56
+1405/04/25
+
+
+
+
+src :@naya_foriraq
+‏الهجوم الذي طال القواعد الأمريكية في البحرين هو الأوسع خلال فترة الإشتباكات الجارية.
+02:56
+1405/04/25
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇧🇭 — New UAVs enter Bahrain from Samaheej, northeastern Bahrain. Targeting NSA Bahrain.
+02:55
+1405/04/25
+
+
+
+
+src :@naya_foriraq
+‏انفجارات عنيفة تهز البحرين وسط محاولات منظومة الباتريوت الأمريكية إعتراض الهجمات الإيرانية.
+02:53
+1405/04/25
+
+
+
+
+src :@GeoPWatch
 ‏🇮🇷❌🇧🇭- More explosions in Bahrain.
 02:51
 1405/04/25
@@ -12,14 +44,6 @@ src :@Indypersian
 ‏ترامپ در پایان این پیام نوشت که «ایالات متحده آمریکا از این اقدام حسن‌نیت ایران قدردانی می‌کند!». جزئیات بیشتری از هویت و اتهامی که متوجه این شهروند آمریکایی بوده، منتشر نشده است.
 ‏
 ‏@indypersian
-02:51
-1405/04/25
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇧🇭🇺🇸 — Explosions in Bahrain. Air defense activity underway.
 02:51
 1405/04/25
 
@@ -278,14 +302,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏انفجارات عنيفة تهز البحرين
-02:38
-1405/04/25
-
-
-
-
 src :@Alibk3
 ‏هجوم في البحرين
 02:38
@@ -530,7 +546,6 @@ src :@Alibk3
 
 
 src :@wfwitness
-[عکس]
 ‏⚡️🇱🇧🇮🇱 Israeli airstrikes targeted the occupied town of Beit Yahoun within the security zone of southern Lebanon.
 ‏
 ‏@wfwitness
@@ -912,14 +927,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 02:06
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏🔴حمله آمریکا به کارخانه پودر ماهی قشم  ✍🏻 Desert Eagle ▪️@World_Newsly
-02:05
 1405/04/25
 
 
@@ -2051,15 +2058,6 @@ src :@defence_news
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇮🇶 العراق يتعرض لاهانة مجددا من امريكا...  عضو كونغرس تيم بورشيت من الحزب الجمهوري يصف رئيس الوزراء العراقي : لقد أضعت صباحي للتو في الاستماع إلى رئيس الوزراء العراقي وهو يتحدث عن لا شيء.
-00:37
-1405/04/25
-
-
-
-
 src :@defence_news
 ‏سنتکام تصاویری از اصابت چندین موشک هلفایر به موتورخانه نفتکش M/T Belma که در خلیج فارس در حال حرکت به سمت جزیره خارگ بود را منتشر کرده است.  🇮🇷📝 @defence_news 📝🇮🇷
 00:37
@@ -2635,6 +2633,16 @@ src :@WAR_ROOM_NEWS
 
 src :@WAR_ROOM_NEWS
 ‏🔴گزارش تائید نشده از حملات به کرمان
+23:46
+1405/04/24
+
+
+
+
+src :@wfwitness
+‏⚡️🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷⚽️ England scores, 1-0 to England.
+‏
+‏@wfwitness
 23:46
 1405/04/24
 
@@ -3911,14 +3919,6 @@ src :@GeoPWatch
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Renewed attack on Ahvaz.
 22:49
-1405/04/24
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷- Explosions in Ahvaz Iran
-22:48
 1405/04/24
 
 
