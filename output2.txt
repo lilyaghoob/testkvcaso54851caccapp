@@ -1,3 +1,56 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇨🇳 WSJ: US Coast Guard ships previously deployed in the Middle East are now operating out of Singapore and the Philippines, redeployed to challenge China’s assertive patrols in disputed Asian waters.
+‏
+‏The shift comes as Beijing has aggressively expanded coast guard and maritime militia activity across the South and East China Seas, including near Scarborough Shoal, the Senkaku Islands, and waters east of Taiwan.
+‏
+‏@wfwitness
+10:36
+1405/04/24
+
+
+
+
+src :@defence_news
+‏🔴 گزارشاتی از ایرانشهر حاکی از این است که در حمله جنایتکارانه امریکا به آسایشگاه سربازان، تعداد زیادی به شهادت رسیدند.   @eskannews_com | اسکان نیوز
+10:35
+1405/04/24
+
+
+
+
+src :@didarnews1
+‏🔴ارتش: شهادت ۷ نفر از کارکنان پایور و وظیفه نیروی زمینی ارتش در بمپور /  پاسخ تجاوز ارتش تروریستی آمریکا به ایرانشهر را خواهیم داد
+‏
+‏🔹به دنبال تجاوز ناجوانمردانه ارتش تروریستی آمریکا به پادگان بمپور ایرانشهر و شهادت ۷ نفر از کارکنان پایور و وظیفه، نیروی زمینی ارتش اعلام کرد، در زمان مقتضی پاسخ قاطعی به این جنایت داده خواهد شد.
+‏
+‏🔹ارتش تروریستی آمریکا بامداد امروز، با شلیک ۱۳ فروند موشک،  آسایشگاه و محل اسکان یکی از پادگان‌های نیروی زمینی ارتش جمهوری اسلامی ایران در بمپور را هدف قرار داد.
+‏
+‏🔹دشمن متجاوز در اوج خباثت، آسایشگاه، مهمانسرا و اماکن نگهبانی پادگان را با هدف وارد کردن بیشترین تلفات انسانی، مورد حمله قرار داد.
+‏
+‏🔹با وجود گستردگی حمله و شدت اصابت موشک‌ها که با قصد  گرفتن بیشترین تلفات انسانی انجام شد، به دلیل رعایت  اصول پدافند غیرعامل و تدابیر اتخاذ شده، از افزایش تلفات جلوگیری به عمل آمد.
+‏
+‏🔹در جریان این حمله ارتش تروریستی آمریکا، ۷ تن از کارکنان پایور و وظیفه تیپ ۳۸۸ ایرانشهر به مقام شهادت نائل آمده و تعدادی از کارکنان، مجروح شدند که تحت درمان قرار دارند.
+‏
+‏🔹انتقام خون پاک شهدای این جنایت، قطعی و قریب‌الوقوع است و ارتش جمهوری اسلامی ایران با یاری خدا و همراهی سایر نیروهای مسلح، پاسخی قاطع، به این اقدام متجاوزانه دشمن آمریکایی خواهد داد.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+10:35
+1405/04/24
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Iranian government spokesperson says more than 30 civilians were killed by U.S. airstrikes in “recent days”:  In the recent attacks on the southern part of the country, more than 30 civilians lost their lives.   While expressing our condolences and…
+10:34
+1405/04/24
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇦🇪🇮🇷⚡- "The United States has expanded the UAE’s access to advanced AI semiconductor technology following Abu Dhabi’s support during the conflict with Iran, including military operations, missile and drone interceptions, and assistance to U.S. forces," - The Wall Street Journal.
 10:32
@@ -281,7 +334,9 @@ src :@IranintlTV
 
 
 src :@naya_foriraq
-‏🇮🇷المتحدثة باسم الحكومة الإيرانية: استشهاد 30 مدنيا خلال الهجمات الأمريكية على جنوب البلاد في الأيام الأخيرة
+‏🇮🇷الجيش الايراني: استشهاد 7 من عناصر الجيش الإيراني في مدينة إيرانسهر وسنرد على اعتداء الجيش الإرهابي الأمريكي في إيرانسهر.
+‏
+‏▫️المتحدثة باسم الحكومة الإيرانية: استشهاد 30 مدنيا خلال الهجمات الأمريكية على جنوب البلاد في الأيام الأخيرة
 10:12
 1405/04/24
 
@@ -2596,14 +2651,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-‏⚡️🇧🇭 Explosions can be heard in Manama, Bahrain.  @wfwitness
-04:04
-1405/04/24
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏ارتش کویت اعلام کرد سامانه‌های پدافند هوایی این کشور در حال مقابله با حمله پهپادهای «متخاصم» جمهوری اسلامی هستند. این بیانیه جزئیاتی درباره شمار پهپادها یا مناطق هدف ارائه نکرده است.
@@ -2633,17 +2680,6 @@ src :@rnintel
 src :@Artemis_Force
 ‏ما در جنوب کشور ۲ لشکر زرهی داریم که عمده توان زرهی کشورمون هم در این ۲ لشکر خلاصه می‌شود و حدود ۶۰۰ عراده تانک از سری تی ۷۲ حتی کرار ارتقایی ( به همراه تیپ ۳۷ زرهی مستقل )   مخصوصا در این دو لشکر عملیاتی هستن ( لشکر ۹۲ زرهی و لشکر ۸۸ زرهی ) و اگر روزگاری…
 03:56
-1405/04/24
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇸🇾 GPS spoofing across Lebanon and Syria.
-‏
-‏@wfwitness
-03:55
 1405/04/24
 
 
@@ -4653,20 +4689,6 @@ src :@defence_news
 ‏از طرف مقابل ظاهرا دوباره جنوب کشور ما از جمله جزیره قشم نیز مورد حمله قرار گرفته است.
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-22:16
-1405/04/23
-
-
-
-
-src :@didarnews1
-‏🔴ادعاب ترامپ درباره ایران: 
-‏
-‏🔹به نظر من، و باور کنید یا نه، خاورمیانه در حال متحد شدن است. ما در حال از بین بردن زورگوی خاورمیانه هستیم
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
 22:16
 1405/04/23
 
