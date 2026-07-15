@@ -397,28 +397,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴گزارش از ۴ انفجار در بندر امام
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-05:05
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش از حداقل ۲ انفجار در خوزستان
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-05:04
-1405/04/24
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی دوباره هم‌زمان از سربندر و ماهشهر:
 ‏
