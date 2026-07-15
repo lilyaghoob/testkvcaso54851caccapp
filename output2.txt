@@ -1,3 +1,97 @@
+src :@defence_news
+[عکس]
+‏اطلاعات به دست آمده از سیستم نظارتی آتش‌سوزی‌های سازمان ناسا (NASA FIRMS) نشان می‌دهد که آتش‌سوزی بزرگی همچنان در انبارهای شرکت "کویت و گلف لینک هلدینگ" (KGL) ادامه دارد. این آتش‌سوزی پس از حداقل دو حمله شبانه‌ از سوی پهپادهای "شاهد-131/136" ساخت ایران رخ داده است.
+‏
+‏به گزارش‌ها، این انبارها توسط ارتش ایالات متحده به عنوان یک مرکز پشتیبانی لجستیکی مورد استفاده قرار می‌گیرند.
+13:42
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏🔴سفارت ایران تو لندن از ایجاد یه مسیر امن تو تنگه هرمز خبر داده اما‌ فعلا خبر رسمی ازش منتشر نشده
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+13:41
+1405/04/24
+
+
+
+
+src :@MilitarryWorld
+‏🔴 مقام ارشد امریکایی به س‌ان‌ان:
+‏
+‏ایران از توافق‌نامه تفاهم با ایالات متحده خارج شد
+‏
+‏@MilitarryWorld | Parsa
+13:41
+1405/04/24
+
+
+
+
+src :@World_Newsly
+‏‏🔴معاون بین‌الملل وزارت نیرو:
+‏"قرارداد صادرات برق ایران به پاکستان و عراق با دوبرابر ظرفیت کنونی امضا شد."
+‏‎
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+13:40
+1405/04/24
+
+
+
+
+src :@jangaavaran1390
+‏صدای انفجار و دود غلیظ در شیراز دیده شده ولی هنوز هیچ گزارشی از حمله موثر دشمن نبوده 
+‏اگرچه برخی از حمله هوایی می‌گویند ولی چیزی تایید نشده
+13:40
+1405/04/24
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — An explosion was heard in Shiraz, southwestern Iran, a short while ago.
+13:39
+1405/04/24
+
+
+
+
+src :@bricsnews
+‏JUST IN: 6,000 sailors are stranded in the Strait of Hormuz.
+‏
+‏@BRICSNews
+13:39
+1405/04/24
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏❌شنیده شدن صدای انفجار در شیراز
+13:38
+1405/04/24
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏حمله هوایی به هدفی در شیراز
+‏
+‏@P_raetorio
+13:36
+1405/04/24
+
+
+
+
 src :@cataphract1
 ‏⚜ انفجار در شیراز گزارش میشه 
 ‏
@@ -199,7 +293,7 @@ src :@guard_warriors
 
 src :@rnintel
 [عکس]
-‏🇺🇸🇮🇷⚡️- Reports of an air strike on Shiraz, southern Iran within the last 10 minutes.
+‏🇺🇸🇮🇷⚡️- Reports of an explosion in Shiraz, southern Iran within the last 10 minutes.
 13:29
 1405/04/24
 
@@ -547,18 +641,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴اسرائیل محدودیت‌ها را در مورد فرود هواپیماهای تانکر سوخت آمریکایی در فرودگاه بن گوریون لغو کرد، این اقدام در پی درخواست آمریکا صورت گرفت
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-12:57
-1405/04/24
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴اعرافی: تفاهم‌نامه با آمریکارا تمام شده تلقی کنید
@@ -573,18 +655,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 12:57
-1405/04/24
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴شاخص کل بورس پس از معاملات روز چهارشنبه، با کاهش ۳۱ هزار واحدی رو به رو شد.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-12:56
 1405/04/24
 
 
@@ -626,19 +696,8 @@ src :@IranintlTV
 
 src :@WAR_ROOM_NEWS
 ‏نیروی زمینی ارتش ایران:در حمله ای که شب گذشته ارتش آمریکا به یک پایگاه نظامی در بمبور انجام داد، ۱۳ نفر از پرسنل ارتش مجروح شدند و در حال حاضر تحت درمان قرار دارند.
-12:53
-1405/04/24
-
-
-
-
-src :@World_Newsly
-‏🔴 این متن را تقدیم میکنم به سربازان جاویدنام پر کشیده ایرانشهر عزیز.
 ‏
-‏⭕ در این سرزمین ، سرباز بودن از خود جنگ هم سخت‌تر است ، تصور کن جوانی باشی با هزاران ارزو ، اما زیر دست فرماندهانی که شایستگی را با چاپلوسی معامله کرده‌اند ، بار سنگین مشکلات اقتصادی ، دغدغه‌های زندگی و نگرانی خانواده بر دوشت باشد ، اما در همان اغاز جوانی ، جانت را از دست بدهی ، نه در اوج ارزوهایت ، بلکه در سایه تصمیم‌های نادرست دیگران ، و بعد تنها یک عنوان بر پیکرت به نام شهید بنویسند ، اما هیچ واژه‌ای نمی‌تواند اشک‌های مادری را که هر شب چشم‌ انتظار فرزندش بود ، خشک کند ، هیچ لقبی جای خالی پسری را که شاید نان‌ اور خانه بود ، یا جوانی را که شب اخر به اینده و کسی که دوستش داشت فکر می‌کرد ، برای خانواده‌اش پر نمی‌کند ، دردناک‌تر از همه این است که هر بار ، بخشی از اینده این سرزمین را از دست می‌دهیم ، جوانانی که می‌توانستند زندگی کنند ، خانواده بسازند و برای ایران افتخار بیافرینند ، اما قربانی بی‌ کفایتی و خطاهای عده‌ای شدند ، خدا به دل مادران این سربازان صبر عطا کند ،  چرا که هیچ اندوهی سنگین‌تر از داغ فرزند نیست.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
+‏شما باور نکن دست کم تلفات این ضایعه تلخ سه رقمی است که اغلب مجروحان سربازان بی‌گناهی هستند که در آسایشگاه در خواب بودند😔
 12:53
 1405/04/24
 
@@ -653,33 +712,9 @@ src :@militaryinpersian
 
 
 
-src :@World_Newsly
-‏🔴نیروی دفاعی بحرین: صبح امروز شماری از حملات هوایی ایران به بحرین را رهگیری کردیم.
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-12:52
-1405/04/24
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏عاقا مگه الان جنگ نیس تو مملکت صبح شب دارن جنوب ایران مون می‌زنن چرا نت قطع نمیشه؟اون وقت اسرائیل یه موشک بزن سریع نت قطع میشه؟داستان چیه!؟جاسوسان آمریکایی با جاسوسان یهودی فرق دارن؟عجب😂
 12:51
-1405/04/24
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴سالار ولایتمدار (نام پیشین: سالار آبنوش)، عضو کمیسیون امنیت ملی مجلس: ما می خواهیم بتی را بشکنیم که سالهاست خون مردم را ریخته و این هزینه دارد و مردم باید خود را برای هزینه های این موضوع آماده کنند.
-‏او همچنین گفت: ما بعد از کشته شدن رهبرمان، دنیا را سه طلاقه کرده ایم.( یعنی ما چیزی برای از دست دادن نداریم)
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-12:48
 1405/04/24
 
 
@@ -2965,15 +3000,6 @@ src :@Indypersian
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏ده شرکت برتر ساخت و توسعه پهپاد در سال ۲۰۲۵
-07:23
-1405/04/24
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷❌🇰🇼🇺🇸 — NOW: NASA fire-mapping data confirms active fires in the Shuaiba industrial area of Kuwait, following Iran's declared drone strike on the location.
@@ -3089,37 +3115,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇯🇴 — Jordanian Armed Forces announces the interception of 3 ballistic missiles launched from Iran. However, more than 3 were launched, meaning the rest impacted Muwaffaq Salti Air Base.
-06:49
-1405/04/24
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇰🇼 — IRGC announces conducting a missile and UAV strike against what is likely Camp Buehring in Kuwait; claiming to strike the satellite communications center, a missile & air defense radar, a MIM-104 Patriot air defense system, logistics units, and M142 HIMARS missile launchers attached to a U.S. military base in the country.
-‏
-‏IRGC has also announced U.S. strikes were conducted against a wheat warehouse in Hoveyzeh, Iran and a bottled water factory in Dehloran, Ilam Province.
-‏
-‏Full statement: 
-‏The honorable and generous people of Kuwait,
-‏
-‏More than four months ago, the child-killing army of the Great Satan, the United States, began a war against us by assassinating the great Islamic leader and unparalleled religious authority, Imam Khamenei (may God have mercy upon him), and by killing and dismembering 168 children and school students at the Minab school. That war continues to this day, and many of the attacks carried out during it have originated from the bases of the occupying American forces on the sacred soil of Kuwait.
-‏
-‏As part of these aggressions, last night the American aggressors targeted several bases in southern Iran. Among their actions, they bombed, out of helplessness and cruelty, a warehouse used to purchase wheat from farmers in the city of Hoveyzeh in Khuzestan Province and a bottled water factory in Dehloran, Ilam Province.
-‏
-‏In response to these acts of aggression, during the seventh wave of Operation Nasr 2, under the blessed code phrase “O Messenger of God (peace be upon him),” the Ground Force and Aerospace Force of the Islamic Revolutionary Guard Corps carried out missile and drone strikes against the satellite communications center, missile and air defense radar, Patriot air defense complex, logistics depot of the U.S. military base in Kuwait, and HIMARS missile launchers, destroying and crushing them.
-‏
-‏You know well that we have no hostility toward you. On the contrary, we hold the honorable and noble people of Kuwait in high regard. This operation was directed against the American criminals. We expect you, the generous Muslim people, to expel these child-killing occupiers from your land. The pure soil of Kuwait should not remain under the occupation of criminals who, in just the past two years, have killed seventy thousand Palestinians—including twenty thousand children—in heroic Gaza, and who committed the Minab school massacre.
-‏
-‏We expect that you will not miss any opportunity to destroy the institutions of the aggressive Americans and to free the lands of the Islamic world from the bases of the American occupiers.
-06:48
-1405/04/24
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏⭕️اکسیوس: ترامپ در «اتاق بحران» درباره حملات گسترده‌تر در ایران تشکیل جلسه داد
@@ -3144,19 +3139,6 @@ src :@Parvazdaroj
 ‏
 ‏در هر صورت امیدواریم عزیزان زیادی آسیب ندیده باشن
 06:39
-1405/04/24
-
-
-
-
-src :@tabzlive
-[عکس]
-‏NASA FIRMS data indicates that a large fire continues to burn at warehouses of the "Kuwait and Gulf Link Holding Company" (KGL) following at least two overnight Iranian Shahed-131/136 drone strikes.
-‏
-‏These warehouses are reportedly used by the U.S. Army support centre for logistics.
-‏
-‏Coordinates: 28.975348, 48.08286
-06:36
 1405/04/24
 
 
@@ -4280,17 +4262,6 @@ src :@Shin_Persian
 
 
 
-src :@MilitarryWorld
-‏🔴فوری/خبرگزاری فارس:
-‏هم اکنون حملات هوایی آمریکا به شهرستان دهلران، استان ایلام
-‏
-‏@MilitarryWorld | Parsa
-02:50
-1405/04/24
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Explosion in Dehloran Ilam provience.
 02:38
@@ -5330,16 +5301,6 @@ src :@warmonitors
 
 
 
-src :@defence_news
-‏از طرف مقابل ظاهرا دوباره جنوب کشور ما از جمله جزیره قشم نیز مورد حمله قرار گرفته است.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-22:16
-1405/04/23
-
-
-
-
 src :@Minas_Tirith2024
 ‏ارتش اردن امروز اعلام کرده بود ۴ موشک بالستیک ایرانی را که به سمت این کشور پرتاب شده بودند رهگیری کرده است ، ویدئو منتشر شده از پایگاه ملک فیصل در جنوب اردن که ظاهرا هدف حمله بوده نشان می دهد سامانه پاتریوت مستقر در پایگاه در رهگیری موشک ها ناکام بوده و تقریبا…
 22:08
@@ -5591,46 +5552,6 @@ src :@thewarreporter
 ‏
 ‏— Axios | @TheWarReporter
 20:50
-1405/04/23
-
-
-
-
-src :@mwarmonitor
-‏🔴اختصاصی: ترامپ به نتانیاهو گفت نیروهایش را از سوریه و لبنان خارج کند
-‏
-‏📝نویسنده: باراک راوید AXIOS 
-‏
-‏🔰به گفته مقامات آمریکایی و اسرائیلی، پرزیدنت ترامپ روز پنجشنبه در یک گفتگوی تلفنی به بنیامین نتانیاهو، نخست‌وزیر اسرائیل، گفت که اسرائیل باید بازاستقرار (عقب‌نشینی) نیروهای خود را از سوریه آغاز کند و او را ترغیب کرد که اقدام مشابهی را در لبنان نیز انجام دهد.
-‏
-‏📌چرا این موضوع اهمیت دارد؟
-‏سه ماه مانده به انتخاباتی که برای بقای سیاسی و آزادی شخصی نتانیاهو حیاتی و سرنوشت‌ساز است، بعید به نظر می‌رسد که او گام‌های مهمی برای عقب‌نشینی نیروهای اسرائیلی از اراضی تحت تصرف خود در سوریه بردارد، یا به بازاستقرار بیشتری در لبنان فراتر از آنچه پیش‌تر با آن موافقت کرده بود، تن دهد.  
-‏
-‏با این حال، درخواست‌های ترامپ فشارها را بر این رهبر اسرائیل افزایش می‌دهد. ارتش اسرائیل در حال حاضر بخش‌های بزرگی از جنوب لبنان و جنوب سوریه را تحت کنترل دارد؛ حضوری که دولت اسرائیل مدعی است برای جلوگیری از تکرار حملاتی مشابه حادثه ۷ اکتبر ضرورت دارد.  
-‏اعضای ارشد دولت اسرائیل خواهان کنترل نامحدود بر این مناطق هستند و برخی از آن‌ها حتی برای ایجاد شهرک‌های یهودی‌نشین در این نواحی پافشاری می‌کنند.
-‏پشت صحنه
-‏یک مقام آمریکایی اعلام کرد ترامپ به نتانیاهو گفته است که حضور ارتش اسرائیل در خاک سوریه تنش‌زا است و می‌تواند به تشدید درگیری‌ها منجر شود.
-‏به گفته این مقام آمریکایی، ترامپ به نتانیاهو گفته است:
-‏«آن‌ها نمی‌خواهند شما آنجا باشید. باید نیروهایتان را به عقب بکشید.»
-‏وی افزود که همین موضع در خصوص لبنان نیز صدق می‌کند.
-‏دفتر نخست‌وزیری اسرائیل نیز در بیانیه‌ای اعلام کرد:
-‏«نخست‌وزیر به نوبه خود، بر نیاز به ایجاد مناطق امنیتی در طول مرزهای اسرائیل تاکید کرد.»
-‏پشتوانه خبر
-‏این تماس تلفنی میان ترامپ و نتانیاهو یک روز پس از دیدار رئیس‌جمهور آمریکا با همتای سوری خود، احمد الشرع، در حاشیه اجلاس ناتو در ترکیه صورت گرفت.  
-‏به گفته مقامات آمریکایی، دولت ترامپ ماه‌ها تلاش کرد تا به توافق امنیتی جدیدی میان اسرائیل و سوریه دست یابد، اما در نهایت به این نتیجه رسید که نتانیاهو تمایلی به دادن امتیازهای مورد نظر واشنگتن ندارد. این امتیازها شامل عقب‌نشینی تدریجی ارتش اسرائیل از اراضی سوریه بود که اسرائیل از زمان سقوط رژیم اسد در دسامبر ۲۰۲۴ آن‌ها را تصرف کرده است.  
-‏در هفته‌های اخیر، حوادث متعددی در جنوب سوریه رخ داده است که در جریان آن‌ها، شهروندان سوری علیه حضور ارتش اسرائیل دست به اعتراض زده و با سربازان اسرائیلی درگیر شده‌اند.
-‏وضعیت کنونی (State of Play)
-‏روز سه‌شنبه، میانجی‌های آمریکایی در رم با دیپلمات‌های اسرائیلی و لبنانی دیدار کردند تا درباره اجرای توافق‌نامه چهارچوبی که چند هفته پیش میان این دو کشور امضا شد، گفتگو کنند.
-‏بر اساس این توافق، اسرائیل متعهد شده است که نیروهای خود را از دو «منطقه آزمایشی» (پایلوت) تحت تصرف خود در جنوب لبنان خارج کند و به ارتش لبنان اجازه دهد تا در آنجا مستقر شود.  
-‏با این حال، ارتش اسرائیل هنوز از این دو منطقه عقب‌نشینی نکرده است. دولت لبنان خواستار آغاز این روند است و تقاضای یک جدول زمانی مشخص برای خروج‌های بعدی را دارد.  
-‏مقامات اسرائیلی مدعی هستند که پیش از جابه‌جایی به مناطق دیگر، ابتدا باید ارتش اسرائیل تأیید کند که این «مناطق آزمایشی» از سلاح‌ها و زیرساخت‌های نظامی حزب‌الله پاکسازی شده‌اند. از سوی دیگر، لبنانی‌ها معتقدند که ارتش آمریکا باید مرجع قضاوت در این زمینه باشد.
-‏واکنش‌ها
-‏کاخ سفید از اظهار نظر در این باره خودداری کرد، اما این روایت را تکذیب نیز نکرده است.  
-‏یک مقام آمریکایی به اکسیوس گفت:
-‏«پررزیدنت ترامپ رابطه محکمی با نخست‌وزیر نتانیاهو دارد و اسرائیل همواره متحد بزرگی برای ایالات متحده بوده است. هیچ دوستی برای اسرائیل بزرگ‌تر از پرزیدنت ترامپ و هیچ تلاش‌گری برای صلح، مصمم‌تر از او وجود نداشته است.»
-‏
-‏@mwarmonitor
-20:46
 1405/04/23
 
 
@@ -5997,16 +5918,6 @@ src :@Parvazdaroj
 ‏
 ‏@Parvazdaroj | Phoenix
 16:01
-1405/04/23
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇬🇧 UK says Strait of Hormuz should reopen without tolls or charges.
-‏
-‏@BRICSNews
-15:57
 1405/04/23
 
 
