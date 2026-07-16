@@ -6,6 +6,135 @@ src :@World_Newsly
 
 
 
+src :@wfwitness
+[عکس]
+‏Thanks Naya for slapping your watermark on our exclusive picture.  And no, they’re not “explosions.”
+20:22
+1405/04/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇦🇪 Exclusive images shared with WFW show the Dubai skyline clear.  No impacts.   @wfwitness
+20:22
+1405/04/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏دفاع هوایی در دبی فعال است
+20:21
+1405/04/25
+
+
+
+
+src :@ClashReport
+[ویدئو]
+‏NEW: Satellite imagery appears to show a U.S. Patriot launcher destroyed by Iranian Shahed-136 drone strike at Erbil Airport, Iraq.
+20:21
+1405/04/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🇺🇸 مارکو روبیو سخنرانی تندی علیه کمونیسم ایراد کرد
+‏
+‏مارکو روبیو، وزیر امور خارجه ایالات متحده، انتقاد شدیدی از کمونیسم انجام داد و آن را سیستمی توصیف کرد که افراد را از هر آنچه که آن‌ها را به سمت تعالی و بزرگی سوق می‌دهد، محروم می‌کند. روبیو اظهار داشت که "کمونیسم نه از نظر تئوری و نه در عمل، جذاب نیست" و تاکید کرد که دنیایی که این سیستم برای جامعه ترسیم می‌کند، "کوچک، یکنواخت و بی‌رنگ... بدون شجاعت، خلاقیت یا جاه‌طلبی... بدون قهرمانان، شکوه و اهداف بزرگ برای مبارزه" خواهد بود.
+‏
+‏🆔️‌@WAR_ROOM_NEWS
+20:21
+1405/04/25
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴غرق شدن ترامپ در دیوارنگاره جدید در تهران
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+20:21
+1405/04/25
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇦🇪 Exclusive images shared with WFW show the Dubai skyline clear.  No impacts.   @wfwitness
+20:20
+1405/04/25
+
+
+
+
+src :@rnintel
+‏🇦🇪 - No attacks on the UAE have occured in the past few hours.
+20:20
+1405/04/25
+
+
+
+
+src :@Alibk3
+[عکس]
+‏دوي انفجار في دبي
+20:18
+1405/04/25
+
+
+
+
+src :@Exciton_missile_program
+‏🔴گزارش تائید نشده از انفجارهایی در پایگاه هوایی الظفرة در ابوظبی مخابره شده
+20:18
+1405/04/25
+
+
+
+
+src :@Exciton_missile_program
+‏🔴رسانه‌های ایرانی: امارات امروز حملاتی را به اهدافی در جنوب ایران انجام داد
+20:18
+1405/04/25
+
+
+
+
+src :@Exciton_missile_program
+‏🔴انفجارهای شدید در آسمان دبی رخ داد.
+20:18
+1405/04/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴انفجارهای شدید در آسمان دبی رخ داد.
+20:17
+1405/04/25
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 تصویری از اسمان دبی
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+20:17
+1405/04/25
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏‏أكثر من 10 طائرات أميركية للتزود بالوقود تتواجد حالياً فوق الشرق الأوسط.
@@ -268,7 +397,7 @@ src :@WAR_ROOM_NEWS
 
 
 src :@naya_foriraq
-‏دوي انفجارات في وسط مدينة دبي
+‏دوي انفجارات في وسط دبي
 20:06
 1405/04/25
 
@@ -559,7 +688,7 @@ src :@Alibk3
 
 
 src :@naya_foriraq
-‏دوي انفجارات في وسط مدينة دبي
+‏دوي انفجارات في وسط دبي
 19:56
 1405/04/25
 
@@ -1543,19 +1672,6 @@ src :@Alibk3
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇻🇪 ABC: the Trump administration is weighing a transitional administration plan for Venezuela after the June 24 earthquakes, considering roughly 3,000 personnel and an initial $3 billion investment, mostly via the Army Corps of Engineers and civilian infrastructure specialists. The personnel would work to rebuild roads, ports, airports, power grids, and water systems damaged by the earthquakes.
-‏
-‏This is widely seen as the third phase of the plan driven by Secretary of State Marco Rubio, with Washington sitting at the head of the table as the country's de facto overseer during the transition.
-‏
-‏@wfwitness
-19:05
-1405/04/25
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴 نیروهای اسرائیلی حملاتی را علیه مناطقی در شهر زوتار الشرقیه، در جنوب لبنان، انجام دادند.
@@ -1600,23 +1716,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 A violent Israeli detonation targeted the ‘pilot zone’ in Zawtar Al Sharqiya, where the Lebanese Army is expected to deploy following a planned Israeli withdrawal under the framework agreement.  @wfwitness
-19:02
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏وقتی بقیه قطع میشن، شما هنوز آنلاینی! ⚡ اینترنت بدون دردسر با TURBO RAY ✅ سرعت بالا ✅ پایداری فوق‌العاده ✅ لوکیشن‌های اختصاصی ✅ کانفیگ اضطراری (SOS) برای شرایط خاص ربات خرید: ⚡️⚡️⚡️⚡️ @turbo_ray_bot  کانال: @tourbo_ray
-19:02
-1405/04/25
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The Democratic Republic of Congo is facing a rapidly expanding outbreak of Bundibugyo virus disease, a form of Ebola, declared on May 17, 2026, that has become the third-largest Ebola outbreak on record and the largest ever caused by the Bundibugyo strain. As of July 16, Congolese authorities had reported 2,073 laboratory-confirmed cases, with at least 796 deaths.
@@ -1645,24 +1744,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 19:01
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏🔴 بیانیه وزارت امور خارجه درباره حملات آمریکا علیه ایران و جنایات جنگی ارتکابی
-‏
-‏در بخشی از این بیانیه آمده است:
-‏
-‏🔹طی چند روز گذشته، آمریکا همزمان با اعلام محاصره دریایی علیه ملت ایران - که اعتراف صریح به نقض بخش دیگری از تعهد آمریکا طبق تفاهم اسلام‌آباد است- حملات علیه جمهوری اسلامی را تشديد کرده و مرتکب جنایات جنگی متعدد، به‌ویژه با هدف قراردادن تاسیسات و امکانات غیرنظامی، شده است.
-‏
-‏🔹حمله به آسایشگاه تیپ ۳۸۸ ارتش در بمپور ایرانشهر در بامداد چهارشنبه ۲۴ تیرماه که منجر به شهادت ۷ مدافع غیور وطن و مجروح شدن چندین نفر شد؛ حمله به سیلوی ذخیره گندم در شهرستان هویزه، حمله به کارخانه تولید آب معدنی در بخش موسیان شهرستان دهلران، حمله به برج مراقبت دریایی چابهار با هدف مختل‌کردن امدادرسانی به صیادان و تضعیف امنیت تجارت دریایی، و بسیاری حملات مشابه دیگر، از جمله جنایات جنگی است که تنها طی یک هفته اخیر  توسط  آمریکا ارتکاب یافته است.
-‏
-‏🔹این حملات غیرقانونی بدون تردید نقض فاحش منشور سازمان ملل متحد و قواعد بنیادین حقوق بین‌الملل است.
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-18:58
 1405/04/25
 
 
@@ -1705,17 +1786,6 @@ src :@IranintlTV
 ‏
 ‏وزارت خارجه قطر نیز، به گزارش الجزیره، حملات جمهوری اسلامی به اردن، بحرین و کویت را محکوم و آن را نقض حاکمیت این کشورها توصیف کرد. این وزارتخانه بر ضرورت ادامه گفت‌وگو و کاهش تنش‌ها تاکید کرد. عربستان سعودی نیز ضمن محکوم کردن این حملات، حمایت خود را از اقدامات بحرین، کویت و اردن اعلام کرد.
 ‏https://iranintl.com/202607167487
-18:55
-1405/04/25
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸Commander of the IRGC Aerospace Forces Moosavi says that the conflict with the U.S. is in its critical stages and that U.S. defeat is near.
-‏
-‏@wfwitness
 18:55
 1405/04/25
 
@@ -3031,22 +3101,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Indypersian
-‏⭕️واشنگتن از احیای خط لوله نفت عراق و سوریه حمایت می‌کند
-‏
-‏📌این پروژه یکی از چندین طرح کشورهای تولیدکننده نفت خاورمیانه برای کاهش وابستگی به تنگه هرمز به شمار می‌رود
-‏
-‏♦️یک مقام وزارت خارجه آمریکا روز سه‌شنبه گفت واشنگتن از تلاش‌های عراق و سوریه برای احیای خط لوله انتقال نفت خام میان دو کشور حمایت می‌کند، اقدامی که می‌تواند توانایی ایران برای ایجاد اختلال در انتقال نفت از طریق تنگه هرمز را کاهش دهد.
-‏بیشتر بخوانید...
-‏
-‏
-‏@INDYPERSIAN
-17:11
-1405/04/25
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇶لجنة الأمن والدفاع النيابية العراقية توصي بإقالة اللواء مازن عبد الواحد كبيان، قائد القوة البحرية، ومدير العمليات، وإحالتهما إلى القضاء، على خلفية حادثة الصيادين والتجاوزات الكويتية.
 17:10
@@ -3294,14 +3348,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 16:48
-1405/04/25
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏گزارش از انفجار در بندرعباس
-16:47
 1405/04/25
 
 
@@ -5920,14 +5966,6 @@ src :@guard_warriors
 src :@rnintel
 ‏🇺🇸🇮🇷 - Moments ago, the US struck Iran's Qeshm Island in the Gulf.
 01:29
-1405/04/25
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- US airstrikes on Sirik, southern Iran.
-01:16
 1405/04/25
 
 
