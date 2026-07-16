@@ -1,5 +1,97 @@
+src :@World_Newsly
+‏🔴گزارش‌های محلی از شنیدن صدای انفجارات در پایگاه هوایی ظفره ابوظبی
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+20:36
+1405/04/25
+
+
+
+
+src :@didarnews1
+‏🔴دولت دبی: گزارش‌های رویترز مبنی بر شنیده شدن صدای انفجار در مرکز شهر دبی صحت ندارد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+20:35
+1405/04/25
+
+
+
+
+src :@MilitarryWorld
+‏🔴قطر: ما گزارش‌های رسانه‌ای اسرائیلی را که ادعا می‌کنند ما با مشارکت در یک عملیات نظامی علیه ایران موافقت کرده‌ایم، رد می‌کنیم.
+‏
+‏@MilitarryWorld | Parsa
+20:35
+1405/04/25
+
+
+
+
+src :@Alibk3
+[عکس]
+‏‏السفارة الأميركية في أربيل تنشر تحذيراً إلى مواطنيها:
+‏
+‏في أعقاب هجمات الطائرات المسيّرة التي نفذها إيران في أربيل، يُنصح المواطنون الأميركيون في العراق بالحفاظ على حالة تأهب قصوى، وقد تحدث اضطرابات في حركة السفر وإغلاق للمجال الجوي في غضون مهلة قصيرة.
+20:35
+1405/04/25
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴دیوارنگاره جدید میدان ولیعصر تهران با عنوان "نفر بعدی کیست؟" و هشتگ لیندسی گراهام.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+20:33
+1405/04/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇶🇦⚡️ — Qatar's International Media Office has denied reports circulating from Israeli media outlets claiming it has agreed to strike Iran, and reaffirms that the Qatar Armed Forces will not participate in any attacks against neighbouring states.
+20:33
+1405/04/25
+
+
+
+
+src :@World_Newsly
+‏🔴 انفجار در منطقه فاو در نزدیکی مرز عراق و کویت
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+20:33
+1405/04/25
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Iraq has joined the United States and several Arab Gulf states in tightening financial pressure on Lebanese Hezbollah, moving to enforce sanctions against individuals, companies and affiliated networks accused of supporting the Iran-backed group’s financing. 
+‏
+‏The measures target Hezbollah-linked fronts operating in Iraq, Oman and Lebanon, as well as figures associated with the group’s political and financial infrastructure, including entities tied to its Al-Qard Al-Hasan banking network.
+‏
+‏The move comes amid broader regional efforts by the UAE, Kuwait and Bahrain to disrupt Hezbollah-linked funding and operational cells, and follows recent U.S.-Iraqi discussions focused on curbing the influence of Iran-backed groups. 
+‏
+‏The sanctions are expected to increase pressure on Hezbollah’s access to regional banking channels and deepen its dependence on direct Iranian support.
+20:32
+1405/04/25
+
+
+
+
 src :@naya_foriraq
-‏السفارة الاميركية في اربيل تنشر تحذير
+‏🇮🇶السفارة الأميركية في أربيل شمالي العراق تنشر تحذيراً أمنياً شديداً بعد قصفها ليلة امس بطائرات مسيرة تدعو المواطنين الأميركيين إلى عدم السفر نهائياً إلى العراق، محذرة من وجود تهديدات وحالات عدائية تستهدف الأميركيين.
 20:32
 1405/04/25
 
@@ -677,7 +769,7 @@ src :@jangaavaran1390
 src :@IranintlTV
 [عکس]
 ‏خبرگزاری رویترز شامگاه پنج شنبه به نقل از شاهدان عینی از شنیده شدن صدای انفجار در مرکز شهر دبی خبر داد.
-‏
+‏دقایقی پس از انتشار این خبر دفتر رسانه‌ای دبی گزارش‌ها درباره شنیده شدن صداهای انفجار در این شهر را تکذیب کرد.
 ‏همزمان رسانه‌های ایران از «حملات آمریکا» به مناطقی از قشم و بندرعباس خبر دادند.
 ‏https://iranintl.com/202607163070
 20:07
@@ -1677,19 +1769,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-‏🔴رسانه‌های پاکستانی گزارش می‌دهند: 
-‏
-‏🔹️دولت اسلام‌آباد میانجی‌گری بین ایالات متحده و ایران را متوقف کرده است.
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-19:20
-1405/04/25
-
-
-
-
 src :@jangaavaran1390
 ‏حزب‌الله:
 ‏
@@ -1764,18 +1843,6 @@ src :@defence_news
 ‏
 ‏@RedLionCorps
 19:16
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏🔴 خبر_فوری
-‏فرمانده نیروی هوافضای سپاه:
-‏درگیری با ایالات متحده در مراحل بحرانی خود قرار دارد.
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-19:15
 1405/04/25
 
 
@@ -3136,16 +3203,6 @@ src :@Artemis_Force
 ‏افسر نیروی دریایی چین در حال بررسی اسلحه تهاجمی M16A2 تفنگداران دریایی آمریکا در جریان بازدید رزم ناو آمریکایی بونکرهیل از شهر چینگ‌دائو در شرق چین - سال 1995 میلادی
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-17:31
-1405/04/25
-
-
-
-
-src :@Alibk3
-‏السيد الحوثي: 
-‏
-‏بعض الأنظمة تغضب عندما ترد إيران على القواعد الأمريكية في بلدانها وهي قواعد انطلق منها العدوان، في الحد الأدنى على تلك الأنظمة أن تكون محايدة وألا تفتح بلدانها وأجواءها للأمريكي.
 17:31
 1405/04/25
 
@@ -6277,19 +6334,6 @@ src :@Americana_ir
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴سنتکام دقایقی قبل از آغاز مجدد حمله نظامی به خاک ایران خبر داد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-23:13
-1405/04/24
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 President Trump is leaning toward expanding US military operations in Iran.
 ‏
@@ -6381,26 +6425,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:21
-1405/04/24
-
-
-
-
-src :@didarnews1
-‏🔴وزارت خارجه: اقدام خصمانه لندن علیه سپاه بی‌پاسخ نمی‌ماند/ احضار سفیر انگلیس
-‏
-‏🔹در پی اقدام ناموجه دولت انگلیس در قرار دادن نام سپاه پاسداران انقلاب اسلامی در ذیل «قانون مقابله با تهدیدات دولتی»، هوگو شورتر، سفیر انگلیس در تهران، امروز چهارشنبه، توسط «علیرضا یوسفی» دستیار وزیر و مدیرکل اروپای غربی وزارت امور خارجه، به وزارت امور خارجه احضار و مراتب اعتراض شدید جمهوری اسلامی ایران نسبت به این اقدام خصمانه به وی ابلاغ شد.
-‏
-‏🔹در این جلسه احضار، مدیرکل اروپای غربی وزارت امور خارجه، با انتقاد شدید از اظهارات ناشایست وزیر کشور انگلیس در پارلمان این کشور علیه جمهوری اسلامی ایران، تاکید کرد: طرح ادعاهای بی‌اساس علیه سپاه پاسداران انقلاب اسلامی، اقدامی غیرمسئولانه و مغایر با تعهدات بین‌المللی دولت انگلیس و اصول بنیادین حاکم بر روابط میان دولت‌ها است. 
-‏
-‏🔹وی افزود: این ادعاهای بی اساس در حالی صورت می‌گیرد که از دیرباز انگلیس پناهگاه سرکردگان و عناصر گروه‌ها و شبکه‌های تروریستی ضد ایرانی بوده است.
-‏
-‏🔹مدیرکل اروپای غربی وزارت امور خارجه با اشاره به نقش محوری سپاه پاسداران در دفاع از تمامیت ارضی و امنیت ملی ایران و نیز در مقابله با تروریسم، تصریح کرد: هرگونه قانونگذاری خصمانه در رابطه با جمهوری اسلامی ایران و یا برچسب‌زنی به اجزای تشکیل‌دهنده آن، با واکنش متقابل و قاطع ایران مواجه خواهد شد.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-22:12
 1405/04/24
 
 
