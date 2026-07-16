@@ -1,5 +1,76 @@
+src :@Alibk3
+[عکس]
+‏البحرين
+03:12
+1405/04/26
+
+
+
+
 src :@World_Newsly
-‏🔴 چندین انفجار دیگر در کویت شنیده شد
+‏🔴 اژیر خطر در کویت بالاخره فعال شد
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+03:11
+1405/04/26
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 خاویر میلی رئیس‌جمهور آرژانتین،  توئیت زیر را بازنشر کرد 
+‏
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+03:11
+1405/04/26
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏ستاد کل ارتش کویت اعلام کرد سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات موشکی و پهپادی جمهوری اسلامی هستند.
+‏
+‏ارتش کویت همچنین اعلام کرد صدای انفجارهای شنیده‌شده ناشی از رهگیری اهداف مهاجم توسط سامانه‌های پدافندی است و از شهروندان خواست دستورالعمل‌های ایمنی صادرشده از سوی مقام‌های ذی‌ربط را رعایت کنند.
+‏https://iranintl.com/202607169930
+03:09
+1405/04/26
+
+
+
+
+src :@Alibk3
+‏أردن
+03:09
+1405/04/26
+
+
+
+
+src :@Alibk3
+‏الله أكبر
+03:09
+1405/04/26
+
+
+
+
+src :@wfwitness
+‏⚡️🇰🇼🇮🇷 Sirens in Kuwait.  @wfwitness
+03:09
+1405/04/26
+
+
+
+
+src :@World_Newsly
+‏🔴 چندین انفجار دیگر در منطقه الجهرا کویت شنیده شد
 ‏
 ‏‌✍🏻 SLXUGHTER
 ‏▪️@World_Newsly
@@ -435,15 +506,6 @@ src :@naya_foriraq
 
 
 
-src :@Alibk3
-[عکس]
-‏هجووووم
-02:52
-1405/04/26
-
-
-
-
 src :@wfwitness
 ‏⚡️🇧🇭 Sirens in Bahrain
 ‏
@@ -470,14 +532,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 𝑻𝑲𝑴
 ‏▪️ @World_Newsly
-02:51
-1405/04/26
-
-
-
-
-src :@Alibk3
-‏هجووووم
 02:51
 1405/04/26
 
@@ -691,14 +745,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴 سربازان وظیفه جان برکف این مرزوبوم🌹 🔸 به صداهای پس زمینه دقت کنید!   ✍🏻 exxon ▪️@World_Newsly
-02:33
-1405/04/26
-
-
-
-
 src :@Minas_Tirith2024
 ‏سال ۱۳۹۸ بود، من بودم و سه تا از رفیقام همگی دانشجوی سال آخر شریف بودیم و آماده بودیم برای ادامه تحصیل بریم آمریکا.... 
 ‏⬜️ قید همه چیو زدیم  و نرفتیم ، چسبیدیم به ساخت یه شرکت قوی تو زمینه‌ی سرمایه‌گذاری... 
@@ -709,18 +755,6 @@ src :@Minas_Tirith2024
 ‏
 ‏خوشحال میشیم به جمع ما بیای♥️
 02:33
-1405/04/26
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 پایگاه دریایی بوشهر 
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-02:30
 1405/04/26
 
 
@@ -845,14 +879,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏عدوان أمريكي غاشم على مدينة دشتي في محافظة بوشهر جنوبي إيران.
-02:16
-1405/04/26
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — Minutes ago, several U.S. strikes targeted the Bandar Abbas port and airport.
 02:15
@@ -971,16 +997,6 @@ src :@defence_news
 
 
 
-src :@naya_foriraq
-‏ترفيهي
-‏
-‏🌟وزير الحرب الأمريكي: إيران لا تسيطر على مضيق هرمز.
-02:04
-1405/04/26
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Tasnim reports power outage on Qish island has been resolved following a U.S. airstrike on a substation earlier tonight.  @wfwitness
 02:03
@@ -1010,14 +1026,6 @@ src :@VahidOnline
 ‏در ساعت ۰۱:۳۰ نقاطی در حوالی بندرلنگه مورد حمله آمریکا قرار گرفت.
 ‏
 ‏📡 @VahidOnline
-02:02
-1405/04/26
-
-
-
-
-src :@naya_foriraq
-‏⭐️نتائج الحرب مع إيران.. ‏الطاقة الدولية: قلق بشأن النفط والغاز إذا لم تتحسن تدفقاتهما عبر مضيق هرمز خلال أسابيع.
 02:02
 1405/04/26
 
@@ -1158,15 +1166,6 @@ src :@Artemis_Force
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli jets over southern Lebanon.  @wfwitness
-01:50
-1405/04/26
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏به فروشگاه Atlas Relay خوش آمدید!
@@ -1187,16 +1186,6 @@ src :@P_raetorio
 ‏
 ‏https://t.me/AtlasRelayFastbot?start=praetorio
 01:50
-1405/04/26
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli jets over southern Lebanon.
-‏
-‏@wfwitness
-01:49
 1405/04/26
 
 
@@ -1224,14 +1213,6 @@ src :@defence_news
 src :@jangaavaran1390
 ‏اینکه کاملا جنوب کشور بی‌ دفاع است و دشمن هر جا را می‌خواد می‌زنه و در همون زمان یک عده دائم در رسانه‌ها در مورد بریدن سر ترامپ و کشتن او صحبت می‌کنند واقعاً احمقانه‌ترین چیزی که میشه باهاش روبرو شد..... 
 ‏ای بخت ایرانی
-01:46
-1405/04/26
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 Footage showcasing the aftermath of a U.S. airstrike on Bushehr, Iran.  @wfwitness
 01:46
 1405/04/26
 
@@ -2614,22 +2595,6 @@ src :@intelslava
 src :@jangaavaran1390
 ‏درمورد احتمال عملیات زمینی هنوز برای قضاوت خیلی زود هست، ترامپ تنها چند روز پیش بود که به کنگره اطمینان داد قصد اعزام نیروی زمینی به ایران را ندارد. اما از دیشب تا امروز یک چیزی در محاسبات آمریکایی ها تغییر کرده است که به صورت ناگهانی سطح تنش را یک هفته جلو تر از آنچه خود ترامپ در تصور داشت انداخته اند. فعلا باید حملات امشب را به پای ادامه هشدار ها بنویسیم، اما مثل همیشه این نوع حملات علاوه بر هشدار، زمینه ساز اقدامات بعدی هستند تا اگر روزی تصمیم جدیدی اتخاذ شد، همه چیز آماده باشد.
 00:23
-1405/04/26
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏بر اساس گزارش خبرگزاری‌های داخلی و ویدیوهای ارسالی شهروندان به کانال تلگرامی وحید آنلاین، بامداد پنج‌شنبه مناطقی در استان‌های هرمزگان و سیستان و بلوچستان هدف حمله قرار گرفتند.
-‏ 
-‏رسانه‌های داخلی از حمله به شهرستان بندرخمیر و بخش کهورستان خبر دادند. بر اساس این گزارش‌ها، پل ارتباطی بندرعباس–کهورستان–لار هدف قرار گرفته و برق بخش‌هایی از کهورستان قطع شده است. ویدیوهای ارسالی شهروندان به کانال وحید آنلاین نیز اصابت به این پل را نشان می‌دهد.
-‏ 
-‏همزمان، شهروندان با ارسال ویدیو به کانال وحید آنلاین از هدف قرار گرفتن فرودگاه ایرانشهر خبر دادند. همچنین گزارش‌های محلی از شنیده شدن دست‌کم سه انفجار شدید در حوالی این فرودگاه حکایت دارد.
-‏ 
-‏شهر کهورستان در حدود ۹۰ کیلومتری غرب بندرعباس قرار دارد.
-‏https://iranintl.com/202607162541
-00:22
 1405/04/26
 
 
@@ -6001,30 +5966,6 @@ src :@militaryinpersian
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷 Iran’s Khatam Al-Anbiyaa Central Command:
-‏
-‏‘If the U.S. dares to target Iranian infrastructure, we will destroy every last piece of infrastructure in the entire region as if it never existed’
-‏
-‏@Middle_East_Spectator
-14:45
-1405/04/25
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇰🇼 BREAKING: Explosions and direct impacts in Kuwait; the sirens were sounded
-‏
-‏@Middle_East_Spectator
-14:44
-1405/04/25
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇸🇾 🇮🇷 🇮🇶 — Syrian Ministry of Interior Seizes Smuggled Arms Destined for Hezbollah
@@ -6033,17 +5974,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 14:23
-1405/04/25
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇺🇸/🇴🇲 NEW: Satellite imagery shows that Iran struck the Crowne Plaza Hotel in Duqm, Oman, which exclusively houses U.S. troops
-‏
-‏@Middle_East_Spectator
-14:08
 1405/04/25
 
 
