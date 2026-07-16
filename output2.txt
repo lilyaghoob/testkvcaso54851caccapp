@@ -1,3 +1,114 @@
+src :@Shin_Persian
+[ویدئو]
+‏Zaryon OSINT @zarGEOINT
+‏
+‏🇮🇷🛰️ Two buildings at Iran's Shahid Bahonar Port in Bandar Abbas were hit in recent US airstrikes.
+‏
+‏📍 Building 1: 27.14574, 56.20986
+‏📍 Building 2: 27.14515, 56.20986
+‏
+‏@GeoConfirmed @FaytuksNetwork @hey_itsmyturn
+‏
+‏ترجمه خودکار فارسی
+‏
+‏🇮🇷🛰️ دو ساختمان در بندر شهید باهنر ایران در بندرعباس در حملات هوایی اخیر ایالات متحده هدف قرار گرفتند.
+‏
+‏📍 ساختمان ۱: 27.14574, 56.20986
+‏📍 ساختمان ۲: 27.14515, 56.20986
+‏
+‏@GeoConfirmed @FaytuksNetwork @hey_itsmyturn
+‏
+‏𝕏  ·  @shin_persian
+19:06
+1405/04/25
+
+
+
+
+src :@Alibk3
+‏حزب الله: 
+‏
+‏نجدد نفي الادعاءات المتعلقة بوجود نشاط لحزب الله داخل الأراضي السورية
+19:06
+1405/04/25
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇻🇪 ABC: the Trump administration is weighing a transitional administration plan for Venezuela after the June 24 earthquakes, considering roughly 3,000 personnel and an initial $3 billion investment, mostly via the Army Corps of Engineers and civilian infrastructure specialists. The personnel would work to rebuild roads, ports, airports, power grids, and water systems damaged by the earthquakes.
+‏
+‏This is widely seen as the third phase of the plan driven by Secretary of State Marco Rubio, with Washington sitting at the head of the table as the country's de facto overseer during the transition.
+‏
+‏@wfwitness
+19:05
+1405/04/25
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 نیروهای اسرائیلی حملاتی را علیه مناطقی در شهر زوتار الشرقیه، در جنوب لبنان، انجام دادند.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+19:05
+1405/04/25
+
+
+
+
+src :@defence_news
+[عکس]
+‏کره جنوبی دو فروند هواپیمای جنگ الکترونیک Global 6500 خریداری می‌کند.
+‏
+‏به گزارش آژانس برنامه‌های دفاعی (DAPA)، کره جنوبی قصد دارد دو فروند هواپیمای جنگ الکترونیک بر اساس مدل Bombardier Global 6500 خریداری کند.
+‏
+‏شرکت Korean Air، مسئول نصب سیستم ایجاد اختلال (جمر) خواهد بود. این قرارداد در چارچوب پروژه توسعه سیستم جنگ الکترونیک فاز اول (Block I Electronic Warfare System Development Project) منعقد شده است که در آوریل سال 2025 تایید شد. 
+‏
+‏بودجه این پروژه حدود 1.2 میلیارد دلار است و تحویل هواپیماها تا سال 2034 برنامه‌ریزی شده است.
+‏
+‏این هواپیماهای جنگ الکترونیک، به چهار فروند هواپیمای شناسایی و کنترل هوایی Global 6500 که قبلاً توسط کره جنوبی سفارش داده شده بود، اضافه خواهند شد.
+‏
+‏
+‏@PARVAZDAROJ|M.S
+19:03
+1405/04/25
+
+
+
+
+src :@MilitarryWorld
+‏🔴فرمانده نیروی هوافضای سپاه:
+‏
+‏درگیری با ایالات متحده در مراحل بحرانی خود قرار دارد
+‏
+‏@MilitarryWorld | Parsa
+19:03
+1405/04/25
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 A violent Israeli detonation targeted the ‘pilot zone’ in Zawtar Al Sharqiya, where the Lebanese Army is expected to deploy following a planned Israeli withdrawal under the framework agreement.  @wfwitness
+19:02
+1405/04/25
+
+
+
+
+src :@World_Newsly
+‏وقتی بقیه قطع میشن، شما هنوز آنلاینی! ⚡ اینترنت بدون دردسر با TURBO RAY ✅ سرعت بالا ✅ پایداری فوق‌العاده ✅ لوکیشن‌های اختصاصی ✅ کانفیگ اضطراری (SOS) برای شرایط خاص ربات خرید: ⚡️⚡️⚡️⚡️ @turbo_ray_bot  کانال: @tourbo_ray
+19:02
+1405/04/25
+
+
+
+
 src :@selena_updates
 [عکس]
 ‏The Democratic Republic of Congo is facing a rapidly expanding outbreak of Bundibugyo virus disease, a form of Ebola, declared on May 17, 2026, that has become the third-largest Ebola outbreak on record and the largest ever caused by the Bundibugyo strain. As of July 16, Congolese authorities had reported 2,073 laboratory-confirmed cases, with at least 796 deaths.
@@ -151,7 +262,7 @@ src :@thewarreporter
 
 src :@wfwitness
 [عکس]
-‏⚡️🇱🇧🇮🇱 A violent Israeli detonation targeted the pilot zone in Zawtar Al Sharqiya, where the Lebanese Army is expected to deploy following a planned Israeli withdrawal under the framework agreement.
+‏⚡️🇱🇧🇮🇱 A violent Israeli detonation targeted the ‘pilot zone’ in Zawtar Al Sharqiya, where the Lebanese Army is expected to deploy following a planned Israeli withdrawal under the framework agreement.
 ‏
 ‏@wfwitness
 18:51
@@ -1000,14 +1111,6 @@ src :@Indypersian
 ‏هند به عنوان سومین تامین‌کننده بزرگ دریانورد در جهان، بیش از ۳۰۰ هزار ملوان در ناوگان‌های تجاری بین‌المللی دارد. بر اساس گزارش اتحادیه دریانوردان هند، در حال حاضر حدود ۱۵ هزار دریانورد هندی در خلیج فارس گرفتار شده‌اند.
 ‏
 ‏@indypersian
-18:05
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏🔴رویترز: نیروهای پاکستانی در عربستان سعودی در حال آماده‌سازی برای اعزام به منظور مبارزه با حوثی‌ها هستند.  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
 18:05
 1405/04/25
 
@@ -2000,24 +2103,6 @@ src :@Indypersian
 src :@WAR_ROOM_NEWS
 ‏گزارش از انفجار در بندرعباس
 16:47
-1405/04/25
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Initial reports of explosions heard at Bandar Abbas Iran.
-‏
-‏@wfwitness
-16:47
-1405/04/25
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇶🇱🇧🇸🇾 An Iraqi official source told Al Jazeera:   The operation to seize the weapons hidden in the oil tanker inside Syrian territory took place on July 7th.  The Syrian side did not inform Iraq until the investigation were over.  @wfwitness
-16:46
 1405/04/25
 
 
@@ -3035,17 +3120,6 @@ src :@cataphract1
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴نگاهی به آرایش ناوگان آمریکا در محاصره دریایی ایران؛ هر چهار ناو لینکلن، بوش، باکسر و تریپولی در منطقه حضور دارند
-‏
-‏@MilitarryWorld | Parsa
-15:06
-1405/04/25
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏ترامپ خبر از آزادی یک شهروند آمریکایی از ایران داد و از این اقدام خیرخواهانه ایران تشکر کرد 
@@ -3953,34 +4027,6 @@ src :@RASTAKHIZ_PERSIAN
 
 src :@defence_news
 ‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned «اگر دنبال یه پلتفرم کامل برای فیلم، سریال، انیمه و انیمیشن هستی، وقتشه Meowvie رو امتحان کنی.  ✨ امکانات Meowvie: 🎥 آرشیو گسترده فیلم، سریال، انیمه و انیمیشن 🤖 هوش مصنوعی اختصاصی برای پاسخ به سوالات و پیشنهاد محتوا 🌐 نسخه تحت وب (قابل استفاده روی iPhone، iPad…»
-12:25
-1405/04/25
-
-
-
-
-src :@defence_news
-‏اگر دنبال یه پلتفرم کامل برای فیلم، سریال، انیمه و انیمیشن هستی، وقتشه Meowvie رو امتحان کنی.
-‏
-‏✨ امکانات Meowvie:
-‏🎥 آرشیو گسترده فیلم، سریال، انیمه و انیمیشن
-‏🤖 هوش مصنوعی اختصاصی برای پاسخ به سوالات و پیشنهاد محتوا
-‏🌐 نسخه تحت وب (قابل استفاده روی iPhone، iPad و همه مرورگرها)
-‏📱 اندروید
-‏💻 ویندوز
-‏🍎 macOS (Intel و Apple Silicon)
-‏📺 Android TV
-‏
-‏⚡ اگر فیلم یا سریال موردنظرت داخل آرشیو نبود، کافیه فقط درخواست ثبت کنی؛ پس از بررسی توسط پشتیبانی، در سریع‌ترین زمان ممکن (معمولاً تا ۳۰ دقیقه) به آرشیو اضافه می‌شود.
-‏
-‏🇮🇷 حتی در صورت اختلال یا قطع اینترنت بین‌الملل، Meowvie برای کاربران داخل ایران در دسترس خواهد بود.
-‏
-‏🔥 همین حالا می‌تونی وارد Meowvie بشی و تجربه‌اش کنی.
-‏
-‏🔗 لینک دانلود و ورود:
-‏meowvie.ir
-‏
-‏@meowvie_ir
 12:25
 1405/04/25
 
@@ -4932,22 +4978,6 @@ src :@USAMRYDATA
 
 src :@BellumActaNews
 ‏🇺🇸❌🇮🇷 — Intense anti-aircraft activity reported in Pakdasht - Parchin, Southeastern Tehran, where Parchin Military Complex is located
-03:53
-1405/04/25
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏AA activity central Tehran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت پدافند هوایی (AA) در مرکز تهران
-‏
-‏𝕏  ·  @shin_persian
 03:53
 1405/04/25
 
