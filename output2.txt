@@ -1,5 +1,40 @@
+src :@ClashReport
+[عکس]
+‏The U.S. will impose a 25% tariff on most Brazilian imports from July 22, citing unfair trade practices. 
+‏
+‏Brazil called the move unjustified and plans to challenge it through the WTO. 
+‏
+‏A separate U.S. investigation could raise total tariffs on some Brazilian goods to 37.5%.
+‏
+‏Source: NBC News
+12:16
+1405/04/25
+
+
+
+
 src :@wfwitness
-‏⚡️🇮🇱🇺🇸 Israeli Prime Minister Netanyahu will no longer travel to the United States next week after the memorial service for Senator Graham was postponed until the end of the month.
+‏⚡️🇯🇵 A nationwide credit card system outage has disrupted payments across Japan, affecting retailers, convenience stores, and public transport services, the cause remains unknown.
+‏
+‏Major card issuers, including Mitsubishi UFJ NICOS and Sumitomo Mitsui Card, said they are investigating the outage, while JR East’s Mobile Suica and the Mobile PASMO transit apps also experienced payment disruptions.
+‏
+‏@wfwitness
+12:15
+1405/04/25
+
+
+
+
+src :@World_Newsly
+[نظرسنجی]
+12:12
+1405/04/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇱🇺🇸 Israeli PM Netanyahu will no longer travel to the United States next week after the memorial service for Senator Graham was postponed until the end of the month.
 ‏
 ‏@wfwitness
 12:11
@@ -13,6 +48,10 @@ src :@WAR_ROOM_NEWS
 ‏مهم
 ‏
 ‏🔴گزارش‌ها حاکی از آن است که حوثی‌های یمن در حال آماده‌سازی برای بستن تنگه باب‌المندب، یکی از مهم‌ترین مسیرهای کشتیرانی جهان، هستند. این اقدام می‌تواند باعث اختلال شدید در تجارت جهانی و مجبور شدن کشتی‌ها به تغییر مسیر از اطراف آفریقا شود. طبق این گزارش، حوثی‌ها هنوز اقدامی نکرده‌اند و منتظر زمان مناسب هستند؛ اقدامی که گفته می‌شود در چارچوب افزایش فشار بر آمریکا و متحدانش انجام خواهد شد.
+‏
+‏منبع روزنامه تلگراف
+‏
+‏🆔@WAR_ROOM_NEWS
 12:11
 1405/04/25
 
@@ -72,6 +111,8 @@ src :@wfwitness
 
 src :@WAR_ROOM_NEWS
 ‏به نظر می‌رسد به احتمال زیاد، نخست‌وزیر نتانیاهو هفته آینده به ایالات متحده سفر نخواهد کرد به دنبال به تعویق افتادن مراسم یادبود سناتور گراهام به اواخر ماه، انتظار می‌رود نتانیاهو سفر خود به ایالات متحده را نیز به تعویق بیندازد
+‏
+‏🆔@WAR_ROOM_NEWS
 12:06
 1405/04/25
 
@@ -257,14 +298,6 @@ src :@ClashReport
 ‏While the Houthis have not acted yet, they are reportedly waiting for the right moment as part of a broader Iranian strategy to increase pressure on the US and its allies.
 ‏
 ‏Source: The Telegraph
-11:58
-1405/04/25
-
-
-
-
-src :@cataphract1
-‏کاتافراکت pinned a photo
 11:58
 1405/04/25
 
@@ -849,6 +882,8 @@ src :@Indypersian
 
 src :@WAR_ROOM_NEWS
 ‏صدای انفجارها پیاپی در بحرین شنیده می‌شود
+‏
+‏🆔@WAR_ROOM_NEWS
 11:10
 1405/04/25
 
@@ -1257,20 +1292,6 @@ src :@World_Newsly
 ‏✍🏻 Dangerman
 ‏▪️@World_Newsly
 10:36
-1405/04/25
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏‏🔴 سرتیپ محمد اکرمی‌نیا، سخنگوی ارتش درباره تنگه هرمز:
-‏
-‏«تنگه هرمز تا زمانی که آمریکا، نظام ما را که بر اساس حاکمیت قانون استوار است به رسمیت نشناسد، بسته خواهد ماند.»
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-10:34
 1405/04/25
 
 
@@ -2852,19 +2873,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump Reverses ICE Directive to Suspend Traffic Stops After Back-to-Back Deaths
-‏
-‏President Trump has overruled an internal ICE directive suspending vehicle traffic stops, despite two fatal operational shootings occurring in a single week.
-‏
-‏READ MORE
-05:25
-1405/04/25
-
-
-
-
 src :@Artemis_Force
 ‏حوالی ساعت ۴:٣٠ شنیده شدن صدای انفجار در بخش‌هایی از لرستان
 ‏
@@ -3218,16 +3226,6 @@ src :@Shin_Persian
 
 src :@BellumActaNews
 ‏🇮🇷🚀💥 — 3x Explosions reported over the Imam Ali missile city in Khorramabad in Lorestan Province
-04:02
-1405/04/25
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 The IRGC says its Air Force shot down an MQ-9 drone over the airspace of Andimeshk in southwestern Iran.
-‏
-‏@wfwitness
 04:02
 1405/04/25
 
@@ -4962,14 +4960,6 @@ src :@thewarreporter
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷🇧🇭⚡️- Reports of direct missile impacts on Sheikh Issa Air Base in Bahrain
-23:36
-1405/04/24
-
-
-
-
 src :@mwarmonitor
 ‏📝 ظاهراً تصمیم برای تصرف خارک گرفته شده فقط زمان اجرا مشخص نیست 
 ‏
@@ -5066,14 +5056,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:31
-1405/04/24
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- Major US strikes on Ahvaz, Iran.
-23:29
 1405/04/24
 
 
@@ -6022,14 +6004,6 @@ src :@Mena_Live
 
 
 
-src :@rnintel
-‏🇾🇪⚡- Ansarullah authorities have announced that Sana'a International Airport has been repaired and is once again operational, just two days after sustaining damage during the Saudi attacks.
-20:05
-1405/04/24
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏در فاصله چند روز تا فینال جام جهانی ۲۰۲۶، گزارش‌هایی درباره احتمال حضور «بیژن مرتضوی»، خواننده و نوازنده ایرانی، در برنامه بین دو نیمه بازی پایانی منتشر شده است؛ ادعایی که تاکنون هیچ‌یک از نهادهای رسمی مرتبط با این مراسم آن را تایید نکرده‌اند. 
@@ -6875,15 +6849,4 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 12:32
-1405/04/24
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇮🇷 — U.S. President Donald Trump says he's currently not negotiating with Iran.
-‏
-‏The Global Eye | Subscribe
-12:12
 1405/04/24
