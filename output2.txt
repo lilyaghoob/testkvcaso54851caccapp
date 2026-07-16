@@ -1,5 +1,47 @@
+src :@WAR_ROOM_NEWS
+‏🔴گزارشات از انفجار های سنگین در جزیره قشم، هرمزگان.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+04:45
+1405/04/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇶⚡️ — President Trump on Iraq: We don't think we need the military there anymore.  The relationship is a whole big relationship where we don't need the military there. We're there to help them. We're there to protect them, if need be. But we don't think…
+04:45
+1405/04/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارشات غیررسمی و تایید نشده از بمباران سایت موشکی خرم‌آباد توسط نیرو هوایی ارتش آمریکا.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+04:45
+1405/04/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴حملات هوایی ارتش آمریکا به پایگاه هوایی ارتش در شهر همدان.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+04:44
+1405/04/25
+
+
+
+
 src :@GeoPWatch
-‏Explosions in Qehsm!
+‏🇺🇸❌🇮🇷- Explosions in Qehsm!
 04:42
 1405/04/25
 
@@ -1467,21 +1509,6 @@ src :@defence_news
 ‏گزارش هایی مبنی بر صدای انفجار در پاکدشت ( تهران ) ، خنداب  ( مرکزی ) ، سمنان و زنجان مخابره شده است 
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-03:35
-1405/04/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸❌🇮🇷 — President Trump is leaning toward expanding U.S. military operations against Iran after receiving briefings on new military options from senior officials, WSJ reports. 
-‏
-‏➡️ Discussions have included broadening the air campaign against Iranian military and energy infrastructure, deploying U.S. ground forces to seize Kharg Island, Iran’s main oil export hub, and striking the deeply fortified, nuclear-linked Pickaxe Mountain complex, which has not yet been targeted.
-‏
-‏➡️ Trump has not made a final decision and continues to say he would prefer a diplomatic solution. 
-‏
-‏➡️ However, officials say he has requested more escalatory options as Iran has refused to meet U.S. demands regarding its nuclear program and continues threatening commercial shipping in the Strait of Hormuz.
 03:35
 1405/04/25
 
@@ -4269,14 +4296,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:02
-1405/04/24
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏انفجار در بندرعباس
-23:01
 1405/04/24
 
 
