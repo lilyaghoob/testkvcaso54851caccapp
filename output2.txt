@@ -1,3 +1,43 @@
+src :@cataphract1
+‏⚜️گزارشات اولیه حاکی از هدف قرار گرفتن پاکدشت   📃@Cataphract1
+04:20
+1405/04/25
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇺🇸/🇮🇷 NEW: Iran shot down an American MQ-9 ‘Reaper’ drone above Andimeshk, Khuzestan Province
+‏
+‏@Middle_East_Spectator
+04:19
+1405/04/25
+
+
+
+
+src :@Artemis_Force
+‏گزارش هایی مبنی بر صدای انفجار در پاکدشت ( تهران ) ، خنداب  ( مرکزی ) ، سمنان و زنجان مخابره شده است 
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+04:18
+1405/04/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇶🇺🇸 AP: The US military will leave Iraq by the end of September.
+‏
+‏President Donald Trump and Iraqi Prime Minister Ali al-Zaidi announced the withdrawal, with Trump stating that the US does not think it needs the military in Iraq anymore, and al-Zaidi saying that US forces will be out of Iraq by September 30, while US companies will remain in the country.
+‏
+‏@wfwitness
+04:18
+1405/04/25
+
+
+
+
 src :@defence_news
 ‏صدای انفجار در پاکدشت ( تهران )
 04:16
@@ -909,8 +949,11 @@ src :@VahidOnline
 ‏
 ‏داداش همین الان  ۳:۵۵ حدود ۱۰ بار صدا امد  ولی زیاد نزدیک نبود یوسف اباد
 ‏
-‏📡 @VahidOnline
 ‏+ ده‌ها پیام مشابه دیگر
+‏
+‏آپدیت: منابع حکومتی
+‏فرماندار پاکدشت: صدای دقایقی پیش در شهرستان پاکدشت به علت فعالیت سامانۀ پدافند هوایی بوده است.
+‏📡 @VahidOnline
 03:52
 1405/04/25
 
@@ -1545,14 +1588,6 @@ src :@GeoPWatch
 
 
 
-src :@Alibk3
-‏الانفجار الأخير في الكويت قوي جدًا.
-03:25
-1405/04/25
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇰🇼Explosions in Kuwait.
 03:25
@@ -1990,7 +2025,12 @@ src :@VahidOnline
 ‏
 ‏رئیس‌جمهور دونالد جی. ترامپ
 ‏realDonaldTrump
+‏
 ‏گویا اسمش "دنا کراری" است: twitter
+‏آپدیت:
+‏جرد گسنر، وکیل حقوق بشری مستقر در واشنگتن، در بیانیه‌ای گفت «من خوشحالم و با هیجان اعلام می‌کنم که موکلم، شهروند آمریکایی دنا کراری، که از دسامبر ۲۰۲۴ به دلیل اتهامات بی‌اساس در ایران گرفتار شده بود، اکنون آزاد است.»
+‏او افزود: «این اتفاق بدون تلاش‌های فوق‌العاده و پیگیرانه رئیس‌جمهوری [آمریکا،‌] دونالد ترامپ ممکن نبود. دنا اکنون در امنیت است و در حال بازگشت به ایالات متحده آمریکا است.»
+‏@VahidHeadline 
 ‏
 ‏📡 @VahidOnline
 02:29
@@ -2014,16 +2054,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 02:29
-1405/04/25
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli airstrikes targeted the occupied town of Beit Yahoun within the security zone of southern Lebanon.
-‏
-‏@wfwitness
-02:28
 1405/04/25
 
 
@@ -3472,16 +3502,6 @@ src :@ClashReport
 
 
 
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 President Trump: ‘We took out 99% of Iran’s missiles’
-‏
-‏@Middle_East_Spectator
-23:51
-1405/04/24
-
-
-
-
 src :@P_raetorio
 ‏#خبر برخی حملات به جنوب ایران توسط کویت و با موشک اتکامز انجام شده است
 ‏
@@ -3922,14 +3942,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇧🇭 Direct impacts at Sheikh Issa Airbase  @Middle_East_Spectator
-23:28
-1405/04/24
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻ترامپ در حال بررسی گزینه‌های حمله زمینی و بمباران تأسیسات هسته‌ای ایران
@@ -4041,16 +4053,6 @@ src :@jangaavaran1390
 ‏
 ‏آنها به شدت خواهان رسیدن به یک توافق هستند.
 23:22
-1405/04/24
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇧🇭 Direct impacts at Sheikh Issa Airbase
-‏
-‏@Middle_East_Spectator
-23:21
 1405/04/24
 
 
@@ -4174,26 +4176,6 @@ src :@mohem_mat
 src :@WAR_ROOM_NEWS
 ‏🔴هشدار حملات موشکی در بحرین
 23:13
-1405/04/24
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇧🇭 BREAKING: Sirens and explosions in Bahrain
-‏
-‏@Middle_East_Spectator
-23:12
-1405/04/24
-
-
-
-
-src :@Middle_East_Spectator
-‏— Reminder, we take ads
-‏
-‏@Elias_MES for inquiries.
-23:12
 1405/04/24
 
 
@@ -5390,17 +5372,6 @@ src :@Exciton_missile_program
 
 
 
-src :@cataphract1
-‏⚜ ونس:
-‏افرادی در دولت اسرائیل جنگ بی پایان میخواهند 
-‏
-‏📃@Cataphract1
-21:25
-1405/04/24
-
-
-
-
 src :@VahidOnline
 ‏بیانیه محمدباقر قالیباف، رئیس مجلس شورای اسلامی، به نقل از منابع حکومتی:
 ‏🔹این روزها که دوباره آتش جنگ شعله ورتر شده سوالاتی در بین مردم و گروه‌های مختلف پرسیده می‌شود و هرکس به فراخور نگاه خود به آن پاسخ می‌دهد. آیا ما به دنبال جنگ هستیم؟ آیا جنگ و سایه جنگ پایان می‌یابد؟ آیا با مذاکره می‌توانیم به اهداف خود برسیم؟ وقتی با آمریکای بدعهد طرفیم اساسا مذاکره چه فایده‌ای دارد؟ و در نهایت موضوع مهم این است که چگونه حق خود را بگیریم و پیروز این جنگ باشیم؟
@@ -5982,34 +5953,6 @@ src :@KayhanLondonChannel
 ‏
 ‏تا زمان تنظیم این خبر گزارشی از خسارت‌های احتمالی این دو زلزله منتشر نشده است.
 19:20
-1405/04/24
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏اسامی شهدا تیپ ۳۸۸ نیروی زمینی ارتش به شرح زیر می‌باشد:
-‏
-‏شهید وظیفه علی رضا قاسمی
-‏شهید وظیفه حسین جعفری 
-‏شهید وظیفه عباس حسن‌شاهی
-‏شهید وظیفه عباس حسام‌الدینی
-‏شهید وظیفه ابوالفضل ملایی
-‏شهید استواردوم فرشاد علوی
-‏شهید استواردوم رضا شفیعی
-‏
-‏تعداد زیادی از پرسنل و سربازان وظیفه همچنان بستری هستن و امید هست که با درمان به موقع ،اسمی به اسم های لیست بالا اضافه نشود
-‏
-‏ارتش ایالات متحده امدیکا بامداد امروز، با پرتاب ۱۳ تیر بمب و موشک، آسایشگاه و محل اسکان پرسنل تیپ ۳۸۸ نیرو زمینی ارتش از لشکر ۸۸  زاهدان را مورد حمله قرار دهد 
-‏
-‏محل های مورد هدف قرار گرفته : آسایشگاه ( ۲ آسایشگاه مورد هدف واقع شدا است و هر آسایشگاه بسته به نوع آسایشگاه و استعداد یگان و گردان تعداد پرسنل ش فرق می‌کند البته )
-‏مهمانسرا 
-‏ اماکن نگهبانی پادگان و....رو مورد هدف قرار داده است
-‏
-‏
-‏@artemis_force
-19:18
 1405/04/24
 
 
