@@ -6,6 +6,33 @@ src :@World_Newsly
 
 
 
+src :@wfwitness
+‏⚡️🇮🇱🇸🇦🇾🇪🇾🇪 Al-Mayadeen: Israeli aircraft participated alongside Saudi Arabian air defenses in countering a retaliatory Houthi response launched after Saudi Arabia bombed Sanaa Airport. 
+‏
+‏Israeli Gulfstream aircraft took off from Nevatim airbase to operate over the Red Sea, supporting Saudi air defenses with intelligence gathering and identifying the trajectories of incoming ballistic missiles and drones.
+‏
+‏@wfwitness
+19:44
+1405/04/25
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸 WSJ: Donald Trump and his allies have raised more than $780 million through an unprecedented network of political committees, nonprofits and cultural institutions during his second presidency.
+‏
+‏The money comes from wealthy donors and businesses and is being used to advance Trump’s political priorities, while much of the network operates with limited public disclosure.
+‏
+‏The accessible version of the report does not reveal the complete list of donors or companies involved.
+‏
+‏@wfwitness
+19:43
+1405/04/25
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏🔴تنگه هرمز امروز تقریباً خالی به نظر می‌رسد 
@@ -14,18 +41,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 19:43
-1405/04/25
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇱🇸🇦🇾🇪🇾🇪 Al-Mayadeen: Israeli aircraft participated alongside Saudi Arabian air defenses in countering a retaliatory Houthi response launched after Saudi Arabia bombed Sanaa Airport. 
-‏
-‏Israeli Gulfstream aircraft took off from Nevatim airbase to operate over the Red Sea, supporting Saudi air defenses with intelligence gathering and identifying the trajectories of incoming ballistic missiles and drones.
-‏
-‏@wfwitness
-19:41
 1405/04/25
 
 
@@ -45,7 +60,7 @@ src :@ClashReport
 
 
 src :@rnintel
-‏🇺🇸🇮🇷⚡- In the past hour then U.S. has struck Behbahan and Bandar Abbas on the southcoast of Iran, as well as Qeshm Island in the Persian / Arabian Gulf.
+‏🇺🇸🇮🇷⚡- In the past hour the U.S. has struck Behbahan and Bandar Abbas on the southcoast of Iran, as well as Qeshm Island in the Persian / Arabian Gulf.
 19:40
 1405/04/25
 
@@ -1380,16 +1395,6 @@ src :@tabzlive
 ‏
 ‏He also reiterated threats against Saudi airports and ports, declaring, "The real equation is Sana’a Airport for Riyadh Airport… airports for airports, ports for ports, and blockade for blockade,” adding that the Houthis “will not accept the continuation of the blockade” when Saudi Arabia “acts arrogantly and moves toward full escalation.”
 18:33
-1405/04/25
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷Mehr: A U.S. missile projectiles struck near Qeshm island around 6:10pm local time.
-‏
-‏@wfwitness
-18:31
 1405/04/25
 
 
@@ -3050,17 +3055,6 @@ src :@VahidOnline
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸⚡️ — Israel has allocated hundreds of millions of dollars to strengthen U.S. support for the Iran war and improve its international image, WSJ reports.
-‏
-‏➡️ Israel also allocated $45 million for a lobbying contract with former Trump campaign manager Brad Parscale.
-16:20
-1405/04/25
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‏ ‏ 
@@ -3825,15 +3819,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 14:35
-1405/04/25
-
-
-
-
-src :@Alibk3
-[عکس]
-‏الكويت
-14:34
 1405/04/25
 
 
