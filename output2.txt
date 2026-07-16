@@ -1,3 +1,75 @@
+src :@World_Newsly
+[عکس]
+‏🔴 پایگاه دریایی بوشهر 
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+02:30
+1405/04/26
+
+
+
+
+src :@World_Newsly
+‏🔴گزارش انفجار در بوشهر 
+‏
+‏✍🏻 𝑻𝑲𝑴
+‏▪️ @World_Newsly
+02:30
+1405/04/26
+
+
+
+
+src :@World_Newsly
+‏🔴چند دقیقه پیش امریکا به فرودگاه بندرعباس حمله کرد!
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+02:30
+1405/04/26
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸 Reuters: A 48-year-old man was arrested in Utah after stabbing a Muslim kiosk worker multiple times at a shopping mall in an allegedly targeted, religiously motivated attack. 
+‏
+‏The suspect reportedly asked for the worker's name and religion, before asking for a bottle of water in which he allegedly stabbed the worker while he retrieved the water bottle.
+‏
+‏The suspect, Peter Michael Larsen, remains in custody on suspicion of attempted murder while the victim is hospitalized in critical condition.
+‏
+‏@wfwitness
+02:29
+1405/04/26
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 این عکس از صدتا فحش بدتره  ✍🏻 exxon ▪️@World_Newsly
+02:27
+1405/04/26
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴لیستی از شهر‌هایی که تا به الان مورد حمله قرار گرفتند : 
+‏
+‏🔹️بندرعباس، اهواز، جزیره قشم، ایرانشهر، شهرستان حمیدیه، سیریک، بوستان، جزیره کیش، شهرستان چگنی، بوشهر ، دشتی و بندر لنگه.
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+02:26
+1405/04/26
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴نتیجه حملات به کویت
@@ -373,35 +445,10 @@ src :@defence_news
 
 
 
-src :@World_Newsly
-‏🔴وزیر جنگ آمریکا: ایران کنترل تنگه هرمز را در دست ندارد.
-‏
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-02:05
-1405/04/26
-
-
-
-
 src :@naya_foriraq
 ‏ترفيهي
 ‏
 ‏🌟وزير الحرب الأمريكي: إيران لا تسيطر على مضيق هرمز.
-02:04
-1405/04/26
-
-
-
-
-src :@World_Newsly
-‏تایید_نشده 
-‏
-‏🔴بمباران پل ارتباطی جم سیرافو
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 02:04
 1405/04/26
 
@@ -451,14 +498,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-‏🔴برق مناطقی از کیش قطع شده! ✍🏻 Hunter ▪️@World_Newsly
-02:00
-1405/04/26
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Tasnim: Following tonight's attacks by the United States on Kish Island, a power substation experienced issues, resulting in a power outage in a small area.  @wfwitness
 02:00
@@ -474,29 +513,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 02:00
-1405/04/26
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴بدون شرح در صداوسیما
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-02:00
-1405/04/26
-
-
-
-
-src :@World_Newsly
-‏🔴پاکستان به جمهوری اسلامی هشدار داده که هرگونه حمله به عربستان سعودی، به عنوان یک حمله به خود پاکستان تلقی خواهد شد
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-01:59
 1405/04/26
 
 
@@ -553,15 +569,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:56
-1405/04/26
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 حملات هوایی اسرائیل به شهر المنصوری، خارج از منطقه امنیتی جنوب لبنان، انجام شد.  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
-01:54
 1405/04/26
 
 
@@ -1597,20 +1604,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇺🇸❌🇮🇷 — Aftermath of the attack against a bridge in Kahuristan, near Bandar Abbas. The bridge fully collapsed.
 00:54
-1405/04/26
-
-
-
-
-src :@naya_foriraq
-‏الجيش الأمريكي:
-‏‏
-‏قام جنود مشاة البحرية الأمريكية من الوحدة الاستكشافية البحرية الحادية عشرة بعملية تفتيش وتحقق على متن ناقلة النفط "إم/تي وين ياو" في خليج عمان، في 16 يوليو.
-‏
-‏‏حتى اليوم، قامت القوات الأمريكية بتغيير مسار 3 سفن تجارية حاولت اختراق الحصار، وتعطيل سفينة واحدة لم تمتثل، والصعود على متن سفينة واحدة لضمان الامتثال الكامل للحصار البحري الأمريكي المستمر ضد إيران.
-‏
-‏‏يظل مضيق هرمز والمياه المحيطة به مفتوحة وحرة، باستثناء السفن التي تحاول انتهاك الحصار الأمريكي الذي يفرضه جدار فولاذي.
-00:53
 1405/04/26
 
 
