@@ -1,5 +1,73 @@
+src :@defence_news
+‏صدای انفجار در پاکدشت ( تهران )
+04:16
+1405/04/25
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏IRGC-owned confirms: 
+‏Air defense activation in parts of Tehran; explosion sounds reportedly heard near Parchin and Pakdasht; assessment ongoing
+‏
+‏ترجمه خودکار فارسی
+‏
+‏رسانه وابسته به سپاه پاسداران (IRGC) تأیید کرد:
+‏فعال‌شدن پدافند هوایی در بخش‌هایی از تهران؛ شنیده شدن صدای انفجار در نزدیکی پارچین و پاکدشت؛ ارزیابی‌ها در حال انجام است
+‏
+‏𝕏  ·  @shin_persian
+04:16
+1405/04/25
+
+
+
+
+src :@MilitarryWorld
+‏🔴فرماندار پاکدشت: 
+‏
+‏صدای دقایقی پیش در شهرستان پاکدشت به علت فعالیت سامانۀ پدافند هوایی بوده است.
+‏
+‏@MilitarryWorld | Parsa
+04:16
+1405/04/25
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷- The Semnan airport has been targeted by the United States, according to locals, who indicate that it has been targeted five times by missiles.
+04:14
+1405/04/25
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇸🇦🇰🇼⚡️ — The U.S. State Department has approved the potential sale of nearly $2.45 billion in military equipment to Saudi Arabia and Kuwait, pending congressional review.
+‏
+‏➡️ The $1.96 billion package for Saudi Arabia includes up to 20,000 Advanced Precision Kill Weapon System (APKWS) guidance kits, launchers, warheads, spare parts, training, and logistical support.
+‏
+‏➡️ The $484 million package for Kuwait will provide sustainment and support for its C-17 transport aircraft, including components, maintenance, software, training, and logistics services.
+04:13
+1405/04/25
+
+
+
+
 src :@GeoPWatch
 ‏🇮🇷❌🇯🇴- Air defenses in Jordan are active and attempting to intercept Iranian missiles.
+04:12
+1405/04/25
+
+
+
+
+src :@BellumActaNews
+‏Deputy Governor of Markazi Province: At 3:30 AM, a location outside the city of Khondab was targeted by two enemy airstrikes.
+‏
+‏@KurdishFrontReports
 04:12
 1405/04/25
 
@@ -842,7 +910,6 @@ src :@VahidOnline
 ‏داداش همین الان  ۳:۵۵ حدود ۱۰ بار صدا امد  ولی زیاد نزدیک نبود یوسف اباد
 ‏
 ‏📡 @VahidOnline
-‏
 ‏+ ده‌ها پیام مشابه دیگر
 03:52
 1405/04/25
@@ -946,6 +1013,8 @@ src :@VahidOnline
 ‏
 ‏سلام وحید جان از بروجرد صدای شدید و یهویی اومد (ساعت ۳:۵۰ صبح)
 ‏طبق تجربه، صدای شلیک موشک بود
+‏
+‏داداش الشتر لرستان دوبار صدا اومد معمولا از اینجا موشک پرتاب میکنن یبار 3 و 47 دقیقه یبارم حدودا 3و  56 دقیقه
 ‏
 ‏📡 @VahidOnline
 03:50
@@ -1171,7 +1240,11 @@ src :@wfwitness
 
 
 src :@World_Newsly
-‏🔴هنوز تایید نشده    ✍🏻 Nadershah ▪️@World_Newsly
+‏🔴بعضی از رسانه های داخلی حمله به تهران رو  تایید کردن 
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
 03:42
 1405/04/25
 
@@ -1456,14 +1529,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇰🇼 — Explosion in Kuwait.
-03:26
-1405/04/25
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Explosions in Zanjan provience.
 03:26
@@ -1491,22 +1556,6 @@ src :@Alibk3
 src :@GeoPWatch
 ‏🇺🇸❌🇰🇼Explosions in Kuwait.
 03:25
-1405/04/25
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇰🇼 — Explosion in Kuwait.
-03:24
-1405/04/25
-
-
-
-
-src :@Alibk3
-‏دوي انفجار عنيف في الكويت
-03:23
 1405/04/25
 
 
@@ -1763,14 +1812,6 @@ src :@MilitarryWorld
 ‏⭕️گزارش انفجار در بحرین
 ‏
 ‏@MilitarryWorld | Parsa
-02:42
-1405/04/25
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭- Sirens in Bahrain.
 02:42
 1405/04/25
 
@@ -3078,16 +3119,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 00:37
-1405/04/25
-
-
-
-
-src :@MilitarryWorld
-‏🔴آرژانتین تو یه بازی جذاب انگلیس رو برد و رفت فینال
-‏
-‏@MilitarryWorld | Parsa
-00:35
 1405/04/25
 
 
@@ -5648,14 +5679,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 20:19
-1405/04/24
-
-
-
-
-src :@defence_news
-‏https://t.me/jangaavaran1390/135858
-20:18
 1405/04/24
 
 
