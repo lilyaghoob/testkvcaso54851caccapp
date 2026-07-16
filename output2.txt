@@ -1,3 +1,103 @@
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷Mehr: A U.S. missile struck near Qeshm island aroun 6:10pm local time.
+‏
+‏@wfwitness
+18:31
+1405/04/25
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏نیروی فضایی ارتش ایالات متحده قراردادی به ارزش 69.2 میلیون دلار با شرکت Slingshot Aerospace برای توسعه شبیه‌سازهای مبتنی بر هوش مصنوعی منعقد کرد.
+‏
+‏نیروی فضایی ایالات متحده قراردادی به ارزش 69.2 میلیون دلار با شرکت Slingshot Aerospace در چارچوب برنامه SBIR فاز 3 امضا کرد. 
+‏
+‏این توافقنامه که برای مدت 4.5 سال اعتبار دارد، به منظور حمایت از برنامه OTTI (زیرساخت تست و آموزش عملیاتی) طراحی شده است.
+‏
+‏در چارچوب این قرارداد، شرکت Slingshot محیط‌های مبتنی بر هوش مصنوعی را برای تمرین سناریوهای دفاع و حفاظت از سامانه‌های فضایی ایالات متحده ارائه خواهد داد.
+‏
+‏این سیستم بر اساس عامل TALOS (عامل تفکر برای عملیات و استراتژی منطقی) است که به عنوان یک دشمن مجازی مستقل عمل می‌کند. TALOS رفتار واقع‌گرایانه سامانه‌های فضایی را شبیه‌سازی کرده و گزینه‌های استراتژیک پاسخ را تولید می‌کند.
+‏
+‏این فناوری در ابتدا در قالب یک قرارداد SBIR قبلی توسعه یافته بود.
+‏
+‏
+‏@PARVAZDAROJ|M.S
+18:31
+1405/04/25
+
+
+
+
+src :@Indypersian
+‏⭕️صدور حکم یک تا چهار اعدام برای ۱۲ جوان پرونده «میدان علیخانی اصفهان»
+‏
+‏📌کاربران شبکه‌های اجتماعی با فراگیر کردن هشتگ «بچه‌های اصفهان» از نهادهای حقوق بشری خواسته‌اند مانع اجرای حکم اعدام این ۱۲ جوان شوند
+‏
+‏♦️منابع حقوق‌بشری هشدار داده‌اند که جان ۱۲ جوان بازداشت‌شده در ارتباط با اعتراضات ۱۸ دی‌ماه ۱۴۰۴ در اصفهان، پس از تایید احکام اعدام آنان در دیوان عالی کشور، با خطر جدی و قریب‌الوقوع مواجه است.
+‏بیشتر بخوانید...
+‏
+‏
+‏@INDYPERSIAN
+18:31
+1405/04/25
+
+
+
+
+src :@World_Newsly
+‏🔴انفجار در قشم گزارش شد
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+18:31
+1405/04/25
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Syrian President Ahmad Al Shara replaced intelligence chief Hussein Al Salama with a trusted ally to ease internal power struggles and improve coordination between Syria's security agencies. 
+‏
+‏Source: The National News
+18:30
+1405/04/25
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇷🇸 Serbia’s Minister of Public Administration and Local Government, Jelena Paunović, sparked controversy after saying: “If I were Slobodan Milošević in 1998, I would ethnically cleanse Kosovo.”
+‏
+‏She added that she would not eliminate Kosovo Albanians, but would expel those who did not identify with the state and send them to their “home country.”
+18:29
+1405/04/25
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷انفجار في جزيرة قشم
+18:29
+1405/04/25
+
+
+
+
+src :@World_Newsly
+‏🔴وزارت کشور سوریه: یک شبکه قاچاق مواد مخدر در استان درعا در جنوب سوریه هدف گرفته شد.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+18:28
+1405/04/25
+
+
+
+
 src :@MilitarryWorld
 ‏🔴فوری / رویترز: 
 ‏
@@ -915,17 +1015,6 @@ src :@Parvazdaroj
 
 
 
-src :@World_Newsly
-‏🔴 رهبر انصارالله یمن: آمریکا، اسرائیل و هم‌پیمانانش تهدید ثبات جهانی هستند.
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-17:28
-1405/04/25
-
-
-
-
 src :@wfwitness
 ‏⚡️🇱🇧🇸🇾🇸🇾🇫🇷 NNA: Public Prosecutor at the Court of Cassation Judge Ahmad Rami Al-Hajj received a letter from the French judiciary requesting Lebanese authorities to arrest three officers from the former Syrian regime believed to be present in Lebanon.
 ‏
@@ -989,16 +1078,6 @@ src :@IranintlTV
 ‏
 ‏🔹خود وزیر آموزش‌وپرورش گفت حتی روز قبل امتحانات، اگر جنگ شروع بشه، تمام امتحانات مجازی خواهد شد. اما این اتفاق نیفتاد، چرا؟ چون مافیای کنکور نمی‌ذاره؟ در همه شهرها، حوزه‌های امتحانی نزدیک مقر نظامی است، پس چرا فقط جنوب رو لغو کردید؟ ما دلمون با بچه‌های جنوبه، اما این سیستم ناعادلانه آموزش رو نشون می‌ده.
 17:24
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏🔴 دیروز هستی طالبی دانش آموز کلاس یازدهمی مدرسه علامه ملارد بر اثر استرس و اضطراب شدید ناشی از امتحانات نهایی درحالی که فقط ۱۷ سالش بود دچار ایست قلبی شد و درگذشت.
-‏✍🏻 Hunter
-‏▪️@World_Newsly
-17:23
 1405/04/25
 
 
@@ -1781,17 +1860,6 @@ src :@intelslava
 
 
 
-src :@ClashReport
-[عکس]
-‏CNN found that Trump praised or promoted more than 20 companies on Truth Social shortly after his investment managers bought their stocks.
-‏
-‏Source: CNN
-16:28
-1405/04/25
-
-
-
-
 src :@naya_foriraq
 ‏سماع دوي انفجارات في بندر عباس
 16:27
@@ -2015,21 +2083,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 16:19
-1405/04/25
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇹 BBC: Families of the 43 victims killed in the 2018 Genoa Morandi Bridge collapse are awaiting a court verdict after nearly eight years
-‏
-‏A total of 57 defendants, including former motorway executives, engineers and transport officials, are on trial over allegations ranging from manslaughter to document falsification. 
-‏
-‏The verdict is expected to mark a major milestone in one of Italy’s deadliest infrastructure disasters and years-long search for accountability.
-‏
-‏@wfwitness
-16:16
 1405/04/25
 
 
@@ -3145,14 +3198,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@naya_foriraq
-‏انفجارات تهز الكويت
-14:33
-1405/04/25
-
-
-
-
 src :@didarnews1
 ‏🔴 یک منبع امنیتی عراقی گزارش داد برخورد یک پهپاد با یک مخزن نفت و نفتکش در بندر بصره، هیچ‌گونه خسارتی در پی نداشته است/ با این وجود، تمامی عملیات‌های بارگیری نفت در این بندر تا اطلاع ثانوی به حالت تعلیق درآمده است
 ‏
@@ -3428,18 +3473,6 @@ src :@thewarreporter
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دفتر نخست‌وزیر اسرائیل روز پنجشنبه ۲۵ تیرماه اعلام کرد بنیامین نتانیاهو هفته آینده به ایالات متحده سفر نخواهد کرد.
-‏به گزارش خبرگزاری رویترز، دفتر نخست‌وزیر اسرائیل دلیل لغو این سفر را به تعویق افتادن مراسم تدفین لیندسی گراهام، سناتور آمریکایی، تا پایان ماه جاری میلادی اعلام کرده است.
-‏
-‏@indypersian
-13:31
-1405/04/25
-
-
-
-
 src :@thewarreporter
 ‏🛳️🇾🇪 — The Houthis are preparing to close the Bab el-Mandeb Strait, a key global shipping route.
 ‏
@@ -3579,16 +3612,6 @@ src :@Exciton_missile_program
 [عکس]
 ‏این خودرویی که هدف گرفته شده احتمالا سامانه پدافندی مجید نیست. بیشتر شبیه لانچر موشکهای 358-359 است. هر چند با آن خودروی استانداردی که پیش از آن دیده بودیم متفاوت است. به نظر یک کانارد در جلوی موشک  دیده میشود. ممکن است من اشتباه کنم. الان چیز دیگری به ذهنم…
 13:09
-1405/04/25
-
-
-
-
-src :@Alibk3
-‏‏رويترز عن مصدر أمني عراقي: 
-‏
-‏تعليق جميع عمليات تحميل النفط في ميناء البصرة.
-13:08
 1405/04/25
 
 
@@ -5114,14 +5137,6 @@ src :@VahidOnline
 
 
 
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷 — USAF Airstrikes against Khorram Abad, Lorestan Province, Western Iran
-03:49
-1405/04/25
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی:
 ‏همین الان تو ارومیه صدای انفجار اومد از سمت کوه های اطراف شهر
@@ -6378,20 +6393,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 18:42
-1405/04/24
-
-
-
-
-src :@Mena_Live
-‏Jerusalem Post:
-‏
-‏Syrian president Al-Sharaa stated that Israel halted negotiations when the issue of withdrawal was raised, adding: "As long as they refuse to withdraw, why would we sign an agreement with them?"
-‏
-‏Al-Sharaa also informed Trump that it is impossible to disarm Hezbollah before Israel withdraws from Lebanon, arguing that forcibly disarming Hezbollah would push the region towards chaos.
-‏
-‏Turkish President Recep Tayyip Erdoğan conveyed a similar position to Trump, emphasizing that Israel is undermining regional stability and obstructing any political path to contain Iran's allies.
-‏
-‏@Mena_Live
-18:31
 1405/04/24
