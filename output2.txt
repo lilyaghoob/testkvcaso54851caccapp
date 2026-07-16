@@ -6,6 +6,115 @@ src :@World_Newsly
 
 
 
+src :@mohem_mat
+‏انفجار در قشم و بندرعباس تایید شد
+‏
+‏@mohem_mat
+19:32
+1405/04/25
+
+
+
+
+src :@World_Newsly
+‏🔴 سرلشگر فیاض الروایلی، رئیس ستاد کل نیروهای مسلح عربستان سعودی، روز چهارشنبه با سرلشگر پاتریک فرانک، معاون فرمانده ستاد فرماندهی مرکزی ایالات متحده (CENTCOM)، دیدار کرد تا درباره همکاری‌های نظامی گفتگو کنند.
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+‏
+‏🔹️ این گفتگوها بر "توسعه همکاری‌ها در زمینه‌های نظامی" برای پیشبرد منافع مشترک بین دو کشور متمرکز بود، بدون اینکه جزئیات بیشتری ارائه شود.
+19:31
+1405/04/25
+
+
+
+
+src :@MilitarryWorld
+‏🔴فوری/رسانه‌های پاکستانی گزارش می‌دهند: 
+‏
+‏دولت اسلام‌آباد امروز رسما میانجی‌گری بین ایالات متحده و ایران را متوقف کرد.
+‏
+‏@MilitarryWorld | Parsa
+19:31
+1405/04/25
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏اما آماری که نزدیک به واقعیت میتونه داشته باشه آمار ۵٢ تن شهید و زخمی هست که هم اکنون حدود ١۵ تن نیز در بيمارستان بستری هستن از این آمار( که از حال تک تک آنها با خبر نیستیم و مشخص نیست در چه شرایطی هستن و امکان به شهادت رسیدن آنها وجود دارد) همچنین حدود ۳۰ نفر از پرسنل و نیرو های وظیفه نیز پس از بهبود از بیمارستان مرخص شدن 
+‏
+‏البته امکان افزایش شهدا و یا آمار های مختلف ( همچون بنر شهدا تیپ) ممکن است در آینده منتشر شود و فرق کند این آمار
+‏در حال حاضر نیز با توجه به برنامه ریزی ها فعلی قرار است پیکر سه شهید رفسنجانی ماجرا، روز شنبه، ۲۷ تیرماه، از ساعت ۷:۳۰ صبح از میدان ابراهیم شهر رفسنجان به سمت میدان شهید سلیمانی تشییع شوند
+‏
+‏
+‏@artemis_force
+19:30
+1405/04/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Reports of explosions in Behbahan, Iran.  @wfwitness
+19:30
+1405/04/25
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸الاعلام الاميركي: ‏"اذهبوا إلى الجحيم، أنا أمثل الأمريكيين أولاً." هذا ما قاله نائب الرئيس الأمريكي جيه دي فانس رداً على الحملة التي تمولها إسرائيل بهدف عرقلة المفاوضات بين إيران والولايات المتحدة.
+19:30
+1405/04/25
+
+
+
+
+src :@ClashReport
+[عکس]
+‏WSJ report analyzes $781M financial network fueling Trump's second term.
+‏
+‏▪️MAGA Inc. secured $392M from tech and corporate donors
+‏▪️Legal settlements routed to Trump family foundation
+‏▪️White House ballroom donors obtained $50B in government contracts.
+‏
+‏READ MORE
+19:30
+1405/04/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Al-Manar: Two Israeli Merkava tanks have advanced towards the Northwestern outskirts of Haddatha, advancing toward the neighboring town of Haris in the Bint Jbeil district of southern Lebanon.
+‏
+‏@wfwitness
+19:29
+1405/04/25
+
+
+
+
+src :@mwarmonitor
+‏🚨شنیده شدن صدای انفجار در بندرعباس
+19:28
+1405/04/25
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — Hormozgan Province governorate confirms US missiles struck locations near Bandar Abbas.
+‏
+‏@IntelSlava
+19:27
+1405/04/25
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏کانون صنفی فرهنگیان استان مازندران با انتشار بیانیه‌ای، خواهان تعلیق فوری امتحانات نهایی در شهرها و استان‌های درگیر حملات هوایی و موشکی شد و تاکید کرد اصرار بر برگزاری امتحانات در این شرایط، جان و سلامت روانی دانش‌آموزان را به خطر می‌اندازد.
@@ -1020,14 +1129,6 @@ src :@tabzlive
 ‏
 ‏He also reiterated threats against Saudi airports and ports, declaring, "The real equation is Sana’a Airport for Riyadh Airport… airports for airports, ports for ports, and blockade for blockade,” adding that the Houthis “will not accept the continuation of the blockade” when Saudi Arabia “acts arrogantly and moves toward full escalation.”
 18:33
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏🔴انفجار در قشم گزارش شد  ✍🏻 Dangerman ▪️@World_Newsly
-18:32
 1405/04/25
 
 
@@ -2769,21 +2870,6 @@ src :@VahidOnline
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇦⚡️ — Former Ukrainian Defence Minister Mykhailo Fedorov claims that he had a personal conflict with Commander-in-Chief Syrskyi, who gave him an ultimatum that he could not accept.
-‏
-‏▶️ Fedorov also says that he valued Zelensky more than anyone else and is disappointed that the president did not support him in the conflict with Syrskyi.
-‏
-‏After Fedorov's dismissal, protests broke out in Ukraine.
-‏
-‏@IntelSlava
-16:19
-1405/04/25
-
-
-
-
 src :@Alibk3
 ‏‏شركة دانا غاز تعلن إغلاق أحد أكبر حقول الغاز الطبيعي لها في إقليم كردستان العراق بسبب مخاوف أمنيّة
 16:06
@@ -2924,14 +3010,6 @@ src :@didarnews1
 src :@naya_foriraq
 ‏🔻🇮🇶 إغلاق منشآت الإنتاج الرئيسية في حقل كورمور بمحافظة السليمانية شمالي العراق بشكل مؤقت
 15:44
-1405/04/25
-
-
-
-
-src :@naya_foriraq
-‏🔻🇮🇶 إغلاق منشآت الإنتاج الرئيسية في حقل كورمور بمحافظة السليمانية شمالي العراق بشكل مؤقت
-15:43
 1405/04/25
 
 
@@ -3237,19 +3315,6 @@ src :@P_raetorio
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴رسایی در مورد اینکه مردم درخواست داشتن که بفرستنش جنوب خط مقدم:
-‏
-‏زمانی که شما به دنیا نیومده بودید من تو خط مقدم بودم و جانباز شدم
-‏
-‏@MilitarryWorld | Parsa
-15:14
-1405/04/25
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏نیروهای امنیتی سوریه یک محموله تسلیحاتی متعلق به حزب‌الله را توقیف کردند. بنابر ادعای رسانه‌های سوریه این محموله که درون یکی از تانکرهای حمل نفت به مقصد شهر بانیاس جاسازی شده بود، از مبدأ عراق و از طریق گذرگاه مرزی التنف وارد شده و در مسیر انتقال به دست حزب‌الله در لبنان قرار داشت. این محموله شامل موارد زیر بود:
@@ -3275,19 +3340,6 @@ src :@cataphract1
 ‏
 ‏@Military_Tweet
 15:13
-1405/04/25
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏ترامپ خبر از آزادی یک شهروند آمریکایی از ایران داد و از این اقدام خیرخواهانه ایران تشکر کرد 
-‏
-‏دنا کراری، شهروند (جاسوس) دو تابعیتی ایرانی آمریکایی که به ادعا آزاد شده است
-‏
-‏@Squad_iran
-15:05
 1405/04/25
 
 
@@ -4387,25 +4439,6 @@ src :@GeoPWatch
 ‏Don't miss it, subscribe to 
 ‏📱 Old Glory Vortex 🇺🇸
 10:05
-1405/04/25
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ایالات متحده برای اولین بار، موشکی را از یک وینگمن پرتاب کرد.
-‏
-‏فرماندهی ایالات متحده اعلام کرد که  برای اولین بار، شلیک موفقیت‌آمیز موشک AIM-120 AMRAAM از یک وینگمن YFQ-44A (Anduril YFQ-44A CCA; Collaborative Combat Aircraft) انجام شد.
-‏
-‏این وینگمن از پایگاه هوایی ادواردز پرواز کرد. شلیک موشک به سمت یک هدف دیجیتالی در صحرای موهاوی انجام شد. تصمیم برای استفاده از سلاح توسط یک اپراتور انسانی گرفته شد.
-‏
-‏نرم‌افزار Lattice، هدف را پردازش کرد، اپراتور، وظیفه را تعیین کرد و وینگمن پرتاب را انجام داد. 
-‏
-‏یک آزمایش مشابه با وینگمن General Atomics YFQ-42A، در پاییز امسال انتظار می‌رود رخ دهد 
-‏
-‏@artemis_force
-10:01
 1405/04/25
 
 
@@ -5977,14 +6010,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:02
-1405/04/24
-
-
-
-
-src :@mwarmonitor
-‏🚨انفجار در بندرعباس
-23:01
 1405/04/24
 
 
