@@ -1,4 +1,75 @@
 src :@World_Newsly
+‏‏🔴 خبرگزاری فرانسه:
+‏
+‏پاکستان از آمریکا و ایران خواسته است تا مذاکرات را از سر بگیرند
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+11:51
+1405/04/25
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏‏🔴 سی‌بی‌اس: آمریکا درحال برنامه ریزی برای حمله به کوبا است.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+11:51
+1405/04/25
+
+
+
+
+src :@MilitarryWorld
+‏🔴آمریکا و اسرائیل بر ادامه همکاری‌های دوجانبه در خصوص پرونده ایران تأکید کردند.
+‏
+‏@MilitarryWorld | Parsa
+11:51
+1405/04/25
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏‏🔴 آمریکا ۲ میلیارد دلار سامانه موشکی به عربستان می‌فروشد
+‏وزارت خارجه آمریکا بامداد پنجشنبه از موافقت با فروش ۲ میلیارد دلار سامانه‌های موشکی نقطه‌زن به عربستان سعودی خبر داد.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+11:50
+1405/04/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇪🇺🇬🇷🇷🇺 FT⁠: Greece has delayed the EU’s 21st sanctions package against Russia over concerns that proposed restrictions on transporting Russian LNG to third countries would severely impact Greek-owned shipping company Dynagas.
+‏
+‏The package includes sanctions on additional Russian banks, cryptocurrency networks, defence companies, and a new mechanism to cap Russian oil prices. Greece’s objections have delayed adoption by at least a week, as unanimous approval from all EU member states is required.
+‏
+‏@wfwitness
+11:48
+1405/04/25
+
+
+
+
+src :@World_Newsly
+‏‌‏🔴  کپلر: ۷ کشتی دیروز از تنگه هرمز عبور کردند که هیچ‌کدام نفتکش یا حمل‌کننده گاز نبودند.
+‏
+‏‎✍🏻 Dangerman
+‏▪️@World_Newsly
+11:47
+1405/04/25
+
+
+
+
+src :@World_Newsly
 [عکس]
 ‏‏🔴 در پاسخ به حملات ایالات متحده، سپاه پاسداران و نیروهای مسلح ایران با استفاده از موشک و پهپاد در چندین موج، تأسیسات ایالات متحده را هدف قرار دادند:
 ‏
@@ -1416,43 +1487,11 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏‏🔴 آمریکا و اسرائیل بر ادامه همکاری‌های دوجانبه در خصوص پرونده ایران تأکید کردند.
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-09:29
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏‏🔴 کیهان: آمریکا از اینکه ایران به بحرین و کویت حمله کند دردش نمی‌آید
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-09:28
-1405/04/25
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴علی اکبر ولایتی: تنگه هرمز متعلق به ایران است و هیچ قدرتی در دنیا نمی‌تواند تنگه هرمز را از مالکیت ایران خارج کند
 ‏
 ‏@MilitarryWorld | Parsa
-09:28
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏‏🔴 اکسیوس: نخست‌وزیر عراق، درخواست‌های ایران مبنی بر عدم سفر به واشنگتن را رد کرد!
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 09:28
 1405/04/25
 
@@ -1533,19 +1572,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 09:22
-1405/04/25
-
-
-
-
-src :@World_Newsly
-‏🔴 پیت هگست، وزیر جنگ آمریکا، وزیر دفاع اسرائیل را در جریان آخرین تحولات مربوط به عملیات نظامی در ایران قرار داد.
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-09:21
 1405/04/25
 
 
@@ -3223,16 +3249,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 Air defense activity in central Tehran.
-‏
-‏@wfwitness
-03:53
-1405/04/25
-
-
-
-
 src :@BellumActaNews
 ‏🇺🇸❌🇮🇷 — Intense anti-aircraft activity reported in Pakdasht - Parchin, Southeastern Tehran, where Parchin Military Complex is located
 03:53
@@ -3584,16 +3600,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 03:35
-1405/04/25
-
-
-
-
-src :@MilitarryWorld
-‏🔴فوری/ گزارشات غیررسمی از فعالیت پدافند در پارچین و پاکدشت
-‏
-‏@MilitarryWorld | Parsa
-03:34
 1405/04/25
 
 
@@ -4629,34 +4635,6 @@ src :@selena_updates
 src :@rnintel
 ‏🇺🇸🇪🇸🇫🇷⚡- Spain became the first nation to book its place in the World Cup final, defeating France in the semifinals.
 00:40
-1405/04/25
-
-
-
-
-src :@defence_news
-[عکس]
-‏📱 سرویس های یک ماهه OPENVPN ❤️
-‏
-‏
-‏🚀 پلن‌های ویژه نامحدود:
-‏
-‏👤 تک‌کاربره — 350 تومان
-‏
-‏👥 دوکاربره — 550 تومان
-‏
-‏ 👥سه‌کاربره — 750 تومان
-‏
-‏🟢 بدون محدودیت حجم 
-‏📱 مخصوص دانلود و کارهای با حجم بالا و پهنای باند اختصاصی
-‏
-‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
-‏
-‏
-‏📩 برای خرید و دریافت سریع:
-‏
-‏😎@CFoxSupport
-00:38
 1405/04/25
 
 
