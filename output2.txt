@@ -1,9 +1,69 @@
+src :@mohem_mat
+[عکس]
+‏منان رییسی نماینده پایداری قم
+‏گفت که وی نیز از هیات مدیره کمیسیون عمران مجلس به دلیل رای نیاوردن خارج شده و علت آن را تماسهایی از بیرون می داند
+‏
+‏@mohem_mat
+16:11
+1405/04/26
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، در واکنش به گزارشی از مجله تایم، اسرائیل را به تلاش برای تاثیرگذاری بر سیاست‌های آمریکا و کشاندن این کشور به جنگ با جمهوری اسلامی متهم کرد.
+‏بیشتر: https://iranwire.com/fa/news-1/155085
+‏
+‏@Farsi_Iranwire
+16:09
+1405/04/26
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏محمدرضا ناصری، امام جمعه یزد با انتقاد از آنچه «گسترش پدیده بی‌حجابی» خوانده، در نماز جمعه این شهر گفت: «وضعیت کنونی حجاب در جامعه قابل‌قبول نیست و صدای اقشار مختلف درآمده و مسئولان و ستاد امر به معروف و دستگاه‌های فرهنگی باید با جدیت، برنامه‌ریزی و تدبیر در برابر فساد و بی‌حیایی ایستادگی کنند.»
+‏
+‏او ادامه داد: «مسئولان و نهادهای باید به وظایف قانونی و شرعی خود عمل کنند.»
+‏https://iranintl.com/202607176857
+16:09
+1405/04/26
+
+
+
+
+src :@Mena_Live
+‏U.S. Airstrikes hit 5 key Bridges in southern Iran:
+‏
+‏- The Griveh Bridge: connecting Bandar Abbas, Khomeir, and Lar.
+‏- The bridge after the village of Latidan (Kalemtel): connecting Bandar Abbas, Khomeir, and Lar.
+‏- Two bridges on the route to Kahorstan, Lar.
+‏- The unfinished bridge: connecting Bandar Khomeir, Keshvar, and Bandar Abbas.
+‏- The bridge in the village of Maro, Khomeir County.
+‏
+‏@Mena_Live
+16:09
+1405/04/26
+
+
+
+
 src :@MilitarryWorld
 ‏🔴آی‌۲۴نیوز: 
 ‏
 ‏طی حملات دیشب آمریکا، هفت پل و ایستگاه قطار در ایران موردهدف قرار گرفتند
 ‏
 ‏@MilitarryWorld | Parsa
+16:07
+1405/04/26
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 An Israeli military vehicle approaches the Lebanese Army checkpoint in the town of Mansouri, southern Lebanon.  @wfwitness
 16:07
 1405/04/26
 
@@ -3327,21 +3387,6 @@ src :@MilitarryWorld
 
 
 
-src :@intelslava
-[ویدئو]
-‏🇮🇷❌🇦🇪🇺🇸 — Satellite imagery: three hardened storage facilities destroyed at Sheikh Zayed Military City, UAE
-‏
-‏New imagery shows three hardened storage structures at Sheikh Zayed Military City, Abu Dhabi, reduced to rubble in a recent Iranian strike — located at 24°29'44.87"N 54°58'57.10"E.
-‏
-‏Their hardened construction points to munitions storage, most likely air defense interceptors. The complete collapse of three reinforced shelters suggests either direct precision hits or secondary detonation of the stored contents — the latter consistent with a strike on interceptor stocks.
-‏
-‏@IntelSlava
-11:35
-1405/04/26
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 آکسیوس: شکاف میان ترامپ و نتانیاهو وارد مرحله‌ای جدی شده است
 ‏
@@ -3739,17 +3784,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 10:23
-1405/04/26
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏تصویری که از حمله به نفتکش در نزدیکی عمان منتشر می‌شود متعلق به 3 روز پیش است و جدید نیست و امروز صرفا سازمان تجارت دریایی بریتانیا آن را تایید کرده است.
-‏
-‏@P_raetorio
-10:21
 1405/04/26
 
 
@@ -5626,17 +5660,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@cataphract1
-‏#فوری 
-‏⚜ تفنگداران دریایی آمریکا یک نفتکش ایرانی را توقیف کردند 
-‏
-‏📃@Cataphract1
-00:54
-1405/04/26
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US strikes hit the Bandar Abbas railway junction.
 ‏
@@ -6239,27 +6262,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 22:51
-1405/04/25
-
-
-
-
-src :@mohem_mat
-‏ورزش سه:
-‏داستان استخدام علی دایی به عنوان مربی تیم ملی؛
-‏
-‏ کفاشیان: گفتند احمدی‌نژاد گفته باید او سرمربی تیم ملی شود
-‏نظر من مربی خارجی بود
-‏آقای دایی جزو کاندیداهای ما نبود
-‏مایلی کهن و قطبی کاندیدهای ما بودند
-‏
-‏چرا علی دایی از تیم ملی برکنار شد؟
-‏
-‏ما در آوردنش دخیل نبودیم در رفتنش هم دخالت نکردیم!
-‏او خودش را بالاتر از فدراسیون می‌دانست!
-‏
-‏ @varzesh3
-22:49
 1405/04/25
 
 
