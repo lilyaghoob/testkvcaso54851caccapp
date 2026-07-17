@@ -1,3 +1,96 @@
+src :@MilitarryWorld
+‏🔴هم اکنون یک اسکادران بزرگ از جنگنده‌های F-16 آمریکایی با استفاده از چهار هواپیمای تانکر سوخت،
+‏در حال حرکت به سمت خاورمیانه می‌باشند.
+‏
+‏@MilitarryWorld | Parsa
+14:17
+1405/04/26
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡- A large squadron of F-16s are being dragged into the Middle East region using four aerial refuelers.
+14:15
+1405/04/26
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از حملات جدید سپاه علیه مواضع گروهای کرد مخالف در سلیمانیه عراق
+14:15
+1405/04/26
+
+
+
+
+src :@World_Newsly
+‏🔴 سازمان راهداری: تمام محورهای مواصلاتی کشور باز است
+‏
+‏🔸 در پی حملات آمریکا به زیرساخت‌های حمل و نقل و آسیب به پل‌های ارتباطی در جنوب کشور در شب گذشته، با تلاش راهداران در کمتر از ۱۲ ساعت با استفاده از کنارگذر ایجاد شده، تردد در محورهای آسیب دیده برقرار شد/مهر
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+14:15
+1405/04/26
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇸🇾 L’Orient: Lebanon’s Internal Security Forces arrested an Islamic State emir responsible for the group’s “southern” and “central” sectors in Syria, marking the first major test of renewed security cooperation between Beirut and Damascus. 
+‏
+‏The suspect was reportedly preparing attacks inside Syria, while parallel arrests were carried out by Syrian authorities following recent Islamic State attacks in the country. 
+‏
+‏The case is being viewed as an early indicator of growing intelligence and security coordination between Lebanon and Syria’s new government amid ongoing regional security challenges. 
+‏
+‏@wfwitness
+14:14
+1405/04/26
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏تصاویر هوایی نشان می‌دهد ارتش اسرائیل در محل شهرک خیام در جنوب لبنان که پیش‌تر آن را تخریب کرده بود، در حال ساخت یک پایگاه نظامی جدید است
+‏
+‏🆔@WAR_ROOM_NEWS
+14:13
+1405/04/26
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏وزارت برق، آب و انرژی‌های تجدیدپذیر کویت اعلام کرد در جریان حملات جمهوری اسلامی به این کشور، یکی از نیروگاه‌های تولید برق و تاسیسات آب‌شیرین‌کن هدف قرار گرفت و در پی آن آتش‌سوزی رخ داد.
+‏بیشتر: https://iranwire.com/fa/news-1/155080
+‏
+‏@Farsi_Iranwire
+14:13
+1405/04/26
+
+
+
+
+src :@Alibk3
+‏هجمات جديدة على قوات المعارضة ‏الإيرانية بالسليمانية
+14:13
+1405/04/26
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇸🇾🇺🇸 The IRGC says they carried out a surprise attack on a U.S. special operations command center in Syria’s Al-Tanf region.   The IRGC claims the strike destroyed a radar system, several helicopters, and killed multiple U.S. personnel.  Admin note: The…
+14:12
+1405/04/26
+
+
+
+
 src :@naya_foriraq
 ‏اقليم كردستان: بسبب اغلاق حقل كورمور انخفضت كمية الكهرباء المنتجة بمقدار 2500 ميغاواط.
 14:10
@@ -1171,18 +1264,6 @@ src :@mwarmonitor
 
 
 
-src :@World_Newsly
-‏🔴دلار 
-‏190.300
-‏
-‏✍🏻 Hunter
-‏▪️@World_Newsly
-13:07
-1405/04/26
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️سازمان عملیات تجارت دریایی بریتانیا (UKMTO) روز جمعه ۲۶ تیرماه اعلام کرد گزارش‌هایی درباره ورود افراد غیرمجاز به یک کشتی و در اختیار گرفتن کنترل آن در خلیج عدن دریافت کرده است.
@@ -1805,15 +1886,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 12:33
-1405/04/26
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 Drop Site: A senior Iranian official said that Tehran privately sent a message to US VP JD Vance during negotiations in Switzerland accusing Steve Witkoff and Jared Kushner of exploiting inside knowledge from US-Iran talks for financial gain and leaking…
-12:32
 1405/04/26
 
 
@@ -3887,16 +3959,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Alibk3
-‏‏مسؤول إسرائيلي: 
-‏
-‏مستعدون لسيناريوهات تصاعد المواجهة.
-07:45
-1405/04/26
-
-
-
-
 src :@militaryinpersian
 ‏نیم نگاهی به کارنامه تحلیل های گذشته کانال های تلگرامی وابسته به حکومت و مقایسه با تحلیل میلیتاری در پارسی (ریپلای شده) از حمله اسرائیل به سایت اس ۳۰۰ اصفهان قبل از جنگ ۱۲ روزه: همانطور که در اسکرین شات های فوق مشاهده میکنید تحلیلگران این کانال ها با توجه…
 07:43
@@ -4649,16 +4711,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-‏🔴چابهار رو دوباره زدن
-‏
-‏@MilitarryWorld | Parsa
-04:53
-1405/04/26
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- Explosions reported in Chabahar, southern Iran.
 04:51
@@ -4682,18 +4734,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 04:45
-1405/04/26
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️ - "First, they show that over a period of years starting during the 2020 election cycle, the People's Republic of China carried out what is believed to be the largest compromise of election data in history. resulting in China's illicit acquisition of 220 million US voter files. 
-‏
-‏That information includes names, addresses, phone numbers, political party preferences, and other sensitive data that would be needed to register to vote and engage in other nefarious activities, which is exactly what is happening.
-‏
-‏The intelligence even shows China has assigned a data exploitation unit specifically to this new project." - President Trump.
-04:44
 1405/04/26
 
 
@@ -6406,18 +6446,6 @@ src :@tglobaleye
 
 src :@defence_news
 ‏⚜️ ویدیویی از تلاش برای سرنگونی یک فروند پهپاد سبک با استفاده از سلاح‌های انفرادی در جنوب کشور منتشر شده است. این پهپاد با توجه به پیکربندی آیرودینامیکی، بال‌های کشیده و سطوح کانارد، به‌نظر می‌رسد از نوع Yabhon-H(از مشتقات پهپاد Orbiter)باشد.  ⚜️پهپاد Yabhon…
-20:08
-1405/04/25
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏خبرگزاری فارس به نقل از استانداری هرمزگان نوشت در حوالی ۱۸:۲۰ و ۱۸:۴۰ روز پنجشنبه ۲۵ تیر نقاطی در اطراف بندرعباس هدف موشک‌های آمریکا قرار گرفت. به گفته این نهاد، خسارت جانی یا خسارت به زیرساخت‌های مسکونی و تجاری در پی این حملات گزارش نشده است.
-‏همزمان خبرگزاری رویترز پنجشنبه ۲۵ تی ۱۴۰۵ر، حوالی ۸ شب، به نقل از شاهدان عینی از شنیده شدن صدای انفجار در مرکز شهر دبی خبر داد.
-‏
-‏@Farsi_Iranwire
 20:08
 1405/04/25
 
