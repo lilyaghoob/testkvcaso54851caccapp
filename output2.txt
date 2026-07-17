@@ -1,3 +1,49 @@
+src :@ClashReport
+[عکس]
+‏BIG: Netanyahu's public criticism of Trump's plan to sell F-35 fighter jets to Türkiye has strained relations with the White House.
+‏
+‏According to U.S. officials, Trump was angered after Netanyahu criticized the proposed sale during a Fox News interview before Trump's trip to Ankara.
+‏
+‏One official said Trump was "pissed off," while another said he felt "Bibi had no right" to weigh in on the issue.
+‏
+‏Source: Axios
+04:26
+1405/04/26
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏لیستی از نقاطی که تا به الان مورد حمله قرار گرفتند : 
+‏
+‏بندرعباس، اهواز، جزیره قشم، ایرانشهر، شهرستان حمیدیه، سیریک، بوستان، جزیره کیش، شهرستان چگنی، بوشهر ، دشتی و بندر لنگه
+‏
+‏@artemis_force
+04:25
+1405/04/26
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸 U.S. President Trump’s address to nation is scheduled to begin in 5 minutes.
+‏
+‏@wfwitness
+04:25
+1405/04/26
+
+
+
+
+src :@naya_foriraq
+‏انفجارات في قطر
+04:23
+1405/04/26
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏در رابطه با حمله به فرودگاه ایران شهر، در پی این حمله به تأسیسات برق و مخزن سوخت فرودگاه ایرانشهر خساراتی وارد شده است که به همین دلیل قطع جریان برق در فرودگاه ایرانشهر سیستان و بلوچستان رخ داده است و همانگونه که در پست بالا اشاره کردیم این حمله تا الان یک مجروح داشته است 
@@ -23,6 +69,9 @@ src :@VahidOnline
 ‏
 ‏ده دقیقه پیش صدا انفجار و پدافند، دوحه.
 ‏Still no threat cleared message.
+‏
+‏آپدیت ۴:۲۳:
+‏Security threat eliminated.
 ‏
 ‏📡 @VahidOnline
 04:20
@@ -1392,17 +1441,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 02:08
-1405/04/26
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇵🇸 IDF Apache helicopter launched a guided missile toward an apartment in western Gaza city moments ago.
-‏
-‏@wfwitness
-02:06
 1405/04/26
 
 
@@ -3675,14 +3713,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 23:23
-1405/04/25
-
-
-
-
-src :@Artemis_Force
-‏اخباری از گزارش انفجار در چابهار و کنارک رسیده است اما تاکنون به صورت رسمی تأیید نشده است تا این لحظه  @artemis_force
-23:22
 1405/04/25
 
 
