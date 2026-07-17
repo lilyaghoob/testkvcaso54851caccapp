@@ -51,3 +51,5 @@ Shin_Persian
 Farsi_Iranwire
 militaryinpersian
 Alibk3
+Navy_Iranian
+OSINTWarfare
