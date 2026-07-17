@@ -1,3 +1,135 @@
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Explosions reported in Erbil as a result of a drone attack.
+01:08
+1405/04/27
+
+
+
+
+src :@guard_warriors
+‏انفجار در یزد و لار ( سایت موشکی) و همزمان هم صدای جنگنده میاد بالا سرشون
+‏
+‏@Guard_Warriors
+01:06
+1405/04/27
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — Three explosions reported in Yazd, Iran.
+01:06
+1405/04/27
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴علی قلهکی: 
+‏
+‏🔹به احتمال ۹۹ درصد درگیری های این روزها به جنگ کامل تبدیل خواهد شد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+01:06
+1405/04/27
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏2130Z
+‏3 explosions heard in Yazd
+‏Yazd Province 
+‏Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۲۱۳۰ زولو (۰۱:۰۰ به وقت تهران)
+‏صدای ۳ انفجار در یزد شنیده شد
+‏استان یزد
+‏ایران
+‏
+‏𝕏  ·  @shin_persian
+01:05
+1405/04/27
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴علی قلهکی:
+‏
+‏🔹‏«قطر» قرار بود ۶میلیارد دلاری که از کره وارد این کشور گردید را به علاوه‌ی ۶میلیارد دلارِ دیگر _جمعا ۱۲میلیارد دلار_ در گام اولِ تفاهمنامه برای ایران آزاد کند؛ اولی را اوفک (دفتر کنترل داراییِ خارجیِ وزارت خزانه‌داری آمریکا) مستقیما جلویش را گرفت و دومی را نیز خود قطر همراهی نکرد!
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+01:05
+1405/04/27
+
+
+
+
+src :@Shin_Persian
+[ویدئو]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Lar missile site has been targeted
+‏Fars Province
+‏Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏سایت موشکی لار هدف قرار گرفته است
+‏استان فارس
+‏ایران
+‏
+‏𝕏  ·  @shin_persian
+01:04
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴 ایرنا :
+‏
+‏صدای جنگنده ها در آسمان یزد شنیده شده است
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+01:04
+1405/04/27
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇮🇶 — Explosions heard in Erbil. UAV attack.
+01:03
+1405/04/27
+
+
+
+
+src :@MilitarryWorld
+‏🔴فارس:
+‏
+‏شنیده شدن انفجار مجدد در بخش های شمالی اهواز 
+‏
+‏@MilitarryWorld | Parsa
+01:03
+1405/04/27
+
+
+
+
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — U.S. strikes against Ahvaz, Iran. The strikes likely targeted the northern part of the city.
 01:01
@@ -26,7 +158,7 @@ src :@Alibk3
 
 
 src :@World_Newsly
-‏🔴خبرگزاری  سپاه : 
+‏🔴خبرگزاری سپاه : 
 ‏
 ‏بین دیدار ما و شما ( آمریکا ) در میدان نبرد ، چند روز و چند شب فاصله است....
 ‏
@@ -171,17 +303,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴سنتکام:
-‏با تعطیل شدن مارکت جهانی (ساعت ۳:۳۰) حملات به ایران به اوج خودش میرسه
-‏✍🏻 Hunter
-‏▪️@World_Newsly
-00:55
-1405/04/27
-
-
-
-
 src :@MilitarryWorld
 ‏🔴اهواز مجددا هدف حملات قرار گرفت
 ‏
@@ -307,17 +428,6 @@ src :@World_Newsly
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- BREAKING: US airstrikes on Yazd, central Iran. The furthest US has struck since the end of the war.
 00:49
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 الان سه انفجار شدید تو تربت حیدریه شنیده شد
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-00:48
 1405/04/27
 
 
@@ -531,6 +641,17 @@ src :@cataphract1
 
 src :@World_Newsly
 ‏🔴 دست‌کم پنج صدای انفجار در بخش‌هایی از یزد، محدوده پارک کوهستان و شهرستان تفت شنیده شده است.  ✍🏻 NORTH VECTOR ▪️@World_Newsly
+00:36
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴 انفجار در اهواز
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
 00:36
 1405/04/27
 
@@ -1049,18 +1170,6 @@ src :@Alibk3
 
 src :@Alibk3
 ‏دوي انفجارات في السليمانية شمال العراق
-00:09
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷الحرس الثوري:
-‏ 
-‏في الموجة السابعة عشرة من عملية "النصر 2" تحت الشعار المبارك "يا صاحب الزمان، أدركني"، تم في فجر اليوم تدمير منصة طائرات الاستطلاع الأمريكية (الطائرات بدون طيار) في البحرين، واشتعلت فيها النيران.
-‏
-‏🔹 بالإضافة إلى ذلك، تم تدمير بالكامل مركز الذكاء الاصطناعي الرئيسي في البحرين، والذي كان يستخدمه "الشيطان الأكبر" في استهداف العدو لارتكاب جرائم حرب، وذلك عن طريق عدة صواريخ باليستية وأكثر من عشرات الطائرات بدون طيار.
 00:09
 1405/04/27
 
@@ -2352,16 +2461,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸❌🇮🇷 — NEW: U.S. Central Command:
-‏CENTCOM launched a round of strikes against Iran at 3 p.m. ET today for the seventh consecutive night. The strikes are designed to continue degrading Iranian military capabilities at the Commander in Chief's direction.
-23:23
-1405/04/26
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2751,15 +2850,6 @@ src :@mohem_mat
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🌞 - Ongoing attack on Iraqi Kurdistan by Iran which started about 2 hours ago.
-22:43
-1405/04/26
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏این دو پدر امروز باید بهترین روز زندگیشون میشد
@@ -3094,17 +3184,6 @@ src :@defence_news
 ‏➡️ @Accetoo
 ‏➡️ @Accetoo
 22:29
-1405/04/26
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴معاون اول رئیس جمهور، با تماس تلفنی با استانداری خوزستان از ایستادگی مردم این استان تقدیر کرد
-‏
-‏@MilitarryWorld | Parsa
-22:28
 1405/04/26
 
 
@@ -3562,19 +3641,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@ClashReport
-[عکس]
-‏Fox News Host Jesse Watters Jokes About Testosterone-Fueled US Troops 'Raping' Women
-‏
-‏Watters triggered intense backlash after laughing about US service members acting as "wild animals" toward women during a broadcast discussing testosterone treatments.
-‏
-‏READ MORE
-21:11
-1405/04/26
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏↩️ Quoted tweet: Shin ✓  @hey_itsmyturn  Over 10 explosions in Sulaymaniah KRI, #Iraq 🇮🇶 ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  ترجمه خودکار فارسی  بیش از ۱۰ انفجار در سلیمانیه اقلیم کردستان عراق، #عراق 🇮🇶  𝕏  ·  @shin_persian
@@ -3663,16 +3729,6 @@ src :@defence_news
 ‏
 ‏@PARVAZDAROJ
 21:08
-1405/04/26
-
-
-
-
-src :@ClashReport
-‏Iran's Tasnim:
-‏
-‏A Thai-flagged ship was fired upon by Iran's IRGC Navy in the Strait of Hormuz after ignoring warnings and attempting to transit without authorization.
-21:07
 1405/04/26
 
 
@@ -3886,26 +3942,6 @@ src :@cataphract1
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏2 blasts heard in Bandar Abbas
-‏Hormozgan Province 
-‏Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏۲ انفجار در بندر عباس شنیده شد
-‏استان هرمزگان
-‏ایران
-‏
-‏𝕏  ·  @shin_persian
-20:44
-1405/04/26
-
-
-
-
 src :@thewarreporter
 ‏🇪🇺🇺🇸🇮🇷 — The US is redeploying fighter jets from Europe to the Middle East.
 ‏
@@ -3937,28 +3973,6 @@ src :@thewarreporter
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇮🇷 — The Trump administration has informed Israel that it plans to send dozens of additional U.S. aerial refueling planes as President Trump considers expanding military operations against Iran.  While Trump hasn't made a final decision, officials say…
 20:38
-1405/04/26
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Kuwaiti Defense Minister visits army personnel wounded in strikes on military facilities and camps this morning. #Kuwait 🇰🇼
-‏
-‏Source: @KuwaitArmyGHQ
-‏https://x.com/KuwaitArmyGHQ/status/2078164332085653645
-‏
-‏ترجمه خودکار فارسی
-‏
-‏وزیر دفاع کویت از پرسنل ارتش که صبح امروز در حملات به تأسیسات و اردوگاه‌های نظامی مجروح شده‌اند، عیادت کرد. #کویت 🇰🇼
-‏
-‏منبع: @KuwaitArmyGHQ
-‏
-‏𝕏  ·  @shin_persian
-20:36
 1405/04/26
 
 
@@ -4385,7 +4399,7 @@ src :@KayhanLondonChannel
 src :@KayhanLondonChannel
 [عکس]
 ‏‏ 
-‏دلار با ثبت رکود جدید قیمت به مرز ۱۹۲ هزار تومان رسید 
+‏دلار با ثبت رکورد جدید قیمت به مرز ۱۹۲ هزار تومان رسید 
 ‏
 ‏افزایش قیمت‌ها در بازار آزاد ارز ایران روز جمعه ۲۶ تیرماه ۱۴۰۵ ادامه یافت و رکوردهای قیمتی جدیدی ثبت شد. 
 ‏
@@ -5364,19 +5378,6 @@ src :@didarnews1
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴وزارت برق، آب و انرژی‌های تجدیدپذیر کویت در اطلاعیه‌ای اعلام کرد که یکی از نیروگاه‌های برق و شیرین‌سازی آب این کشور مورد حمله ایران قرار گرفته است. این حمله، منجر به آسیب دیدن تأسیسات نیروگاه، وقوع آتش‌سوزی و خسارت به تعداد زیادی از واحدهای تولید برق شده است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-13:35
-1405/04/26
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏گزارش تحلیلی هفته؛ جنگ، تحریم و اعتراض؛ جمهوری اسلامی در سخت‌ترین پیچ بحران
@@ -5480,21 +5481,6 @@ src :@KayhanLondonChannel
 ‏از احمد بارکی زاده        
 ‏
 ‏https://kayhan.london/1405/04/26/405126/
-13:10
-1405/04/26
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴مهدی محمدی، مشاور قالیباف: 
-‏
-‏🔹خونخواهان خامنه ای به میدان بازگشته اند
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
 13:10
 1405/04/26
 
