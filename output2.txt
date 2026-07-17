@@ -1,3 +1,22 @@
+src :@ClashReport
+[عکس]
+‏Iranian media says US strikes collapsed Chabahar's maritime control tower after hitting it for the third time in over a week.
+09:56
+1405/04/26
+
+
+
+
+src :@World_Newsly
+‏🔴یک رادار متعلق به آمریکا در عمان مورد اصابت قرار گرفت
+‏✍🏻 Hunter
+‏▪️@World_Newsly
+09:53
+1405/04/26
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏تصویر لحظه انهدام برج مراقبت دریایی چابهار را طی حملات آمریکا نشان می‌دهد
@@ -922,19 +941,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-‏🔴 کنست رأی به انحلال خود داد؛ اسرائیل به سمت انتخابات زودهنگام می‌رود
-‏
-‏🔹️ پارلمان اسرائیل با تصویب نهایی طرح انحلال خود، به فعالیت دوره کنونی پایان داد و مسیر برگزاری انتخابات زودهنگام را هموار کرد. انتظار می‌رود زمان انتخابات جدید در روزهای آینده مشخص شود.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-08:18
-1405/04/26
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇸🇾🇮🇷 — The IRGC announced that, in a surprise attack, it targeted the U.S. Special Forces command center at Al-Tanf in southern Syria.  According to the statement, the attack destroyed a radar system and several helicopters, and resulted in the deaths of…
 08:15
@@ -1171,19 +1177,6 @@ src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇮🇷 NEW: Ballistic missile launches from Iran  @Middle_East_Spectator
 07:50
-1405/04/26
-
-
-
-
-src :@World_Newsly
-‏🔴یک مسئول اسرائیلی:
-‏
-‏🔹️ما برای سناریوهای تشدید تنش آماده هستیم.
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-07:46
 1405/04/26
 
 
@@ -2906,16 +2899,6 @@ src :@IranintlTV
 
 
 
-src :@ClashReport
-‏White House officials were surprised by Israeli reports claiming Trump would host Netanyahu on Monday because no meeting had actually been scheduled.
-‏
-‏Source: Axios
-04:26
-1405/04/26
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏لیستی از نقاطی که تا به الان مورد حمله قرار گرفتند : 
@@ -4182,15 +4165,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 00:33
-1405/04/26
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏ویدیو حمله به پل کهورستان بندرعباس  متاسفانه یک هموطن عزیزمان که راننده تریلر بودن در پی حمله به پل جاویدنام شدند💔
-00:32
 1405/04/26
 
 
