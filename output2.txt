@@ -1,3 +1,56 @@
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 The Hormozgan Province Governorate warns citizens:
+‏
+‏Due to the possibility of further enemy attacks, residents are advised to avoid unnecessary travel on roads and transportation routes within the province until further notice.
+‏
+‏@wfwitness
+03:06
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴انفجار در بحرین
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+03:05
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴استانداری هرمزگان: مردم از تردد غیر ضروری در جاده ها خودداری کنند، احتمال حمله مجدد وجود دارد.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+03:04
+1405/04/27
+
+
+
+
+src :@Alibk3
+‏انفجارات في البحرين دون تفعيل صفارات الإنذار
+03:04
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴 رهگیری‌ موشکها در آسمان اردن
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+03:03
+1405/04/27
+
+
+
+
 src :@World_Newsly
 ‏🔴 انفجار در چغادک.
 ‏
@@ -370,14 +423,6 @@ src :@VahidOnline
 
 
 
-src :@World_Newsly
-‏🔴وزارت داخلی عربستان: خطر در شهر ینبع برطرف شده  ✍🏻 Desert Eagle ▪️@World_Newsly
-02:42
-1405/04/27
-
-
-
-
 src :@Alibk3
 ‏انفجارات في الأردن
 02:42
@@ -427,34 +472,11 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴هم اکنون وقوع انفجار های مهیب در 80 کیلومتری ریاض، پایتخت عربستان سعودی.
-‏
-‏‌✍🏻 A$
-‏▪️@World_Newsly
-02:41
-1405/04/27
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴سفارت ایالات متحده آمریکا در اسرائیل بار دیگر از شهروندان آمریکایی خواست تا در مورد سفر خود به خاورمیانه تجدید نظر کنند.
 ‏
 ‏
 ‏🆔@WAR_ROOM_NEWS
-02:41
-1405/04/27
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴وزارت داخلی عربستان: خطر در شهر ینبع برطرف شده
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 02:41
 1405/04/27
 
@@ -1488,16 +1510,6 @@ src :@Shin_Persian
 ‏خرم‌آباد، استان لرستان، ایران پرتاب شد
 ‏
 ‏𝕏  ·  @shin_persian
-02:17
-1405/04/27
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Ballistic missile launches from Tabriz, Iran.
-‏
-‏@wfwitness
 02:17
 1405/04/27
 
@@ -4597,15 +4609,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 20:59
-1405/04/26
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🌲 - 🛰️🇱🇧🇮🇱 Satellite image shows Al Mahdi Secondary School in Bint Jbeil reduced to rubble following the Israeli demolition operation in the area.
-20:56
 1405/04/26
 
 
