@@ -1,3 +1,70 @@
+src :@World_Newsly
+‏🔴 انفجار در چغادک.
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+03:01
+1405/04/27
+
+
+
+
+src :@MilitarryWorld
+‏🔴حملات موشکی پی در پی به اردن
+‏
+‏@MilitarryWorld | Parsa
+03:01
+1405/04/27
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇯🇴 - Impacts in Jordan.
+03:00
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴فیلمی از وضعیت بمباران اخر الزمانی در بوشهر
+02:58
+1405/04/27
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷/🇯🇴 NEW: Sirens in Jordan  @Middle_East_Spectator
+02:58
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴اختلال شدید در اینترنت سراسری
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+02:57
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴انفجار مجدد در بوشهر 
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+02:57
+1405/04/27
+
+
+
+
 src :@BellumActaNews
 [عکس]
 ‏🇸🇦⚠️ — Air Raid alerts in Al-Kharj Governorate of the Kingdom of Saudi Arabia, 86 KM South of Riyadh!  @BellumActaNews
@@ -25,7 +92,7 @@ src :@World_Newsly
 
 src :@Indypersian
 [عکس]
-‏♦️حساب رسمی سازمان دفاع مدنی عربستان سعودی در اکس، پس از صدور هشدارهای اضطراری اولیه مبنی بر وقوع خطر در استان‌های الخرج و ینبع، در بیانیه‌های جدیدی از رفع کامل خطر در این مناطق خبر داد. این سازمان با انتشار هشدارهای تلفنی بر روی شبکه تلفن‌های همراه، ضمن اعلام پایان وضعیت اضطراری تاکید کرد که ساکنان برای حفظ سلامت خود باید همچنان به پیروی از دستورالعمل‌های دفاع مدنی ادامه دهند.
+‏♦️حساب رسمی سازمان دفاع مدنی عربستان سعودی در اکس، پس از صدور هشدارهای اضطراری اولیه مبنی بر وقوع خطر در استان‌های الخرج و ینبع، در بیانیه‌های جدیدی از رفع کامل خطر در این مناطق خبر داد. این سازمان با انتشار هشدار بر روی شبکه تلفن‌های همراه، ضمن اعلام پایان وضعیت اضطراری تاکید کرد که ساکنان برای حفظ سلامت خود باید همچنان به پیروی از دستورالعمل‌های دفاع مدنی ادامه دهند.
 ‏
 ‏@IndyPersian
 02:54
@@ -225,7 +292,7 @@ src :@bricsnews
 
 
 src :@MilitarryWorld
-‏⭕️آکسیوس:
+‏🔴آکسیوس:
 ‏
 ‏در تشدید تنش بسیار بزرگی، دقایقی پیش ایران برای اولین بار در 3 ماه گذشته به سمت عربستان سعودی موشک بالستیک شلیک کرده است.
 ‏
@@ -394,17 +461,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏‏🔴 انفجار در خوزستان
-‏‎
-‏‌✍🏻 A$
-‏▪️@World_Newsly
-02:40
-1405/04/27
-
-
-
-
 src :@Alibk3
 ‏محافظ هرمزغان يعلن استشهاد 3 وإصابة 8 آخرين بهجمات أميركية.
 02:40
@@ -452,33 +508,11 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@World_Newsly
-‏🔴معاون استانداری هرمزگان: زیرساخت های ارتباطی در حال ترمیم است!
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-02:39
-1405/04/27
-
-
-
-
 src :@cataphract1
 ‏⚜شنیده شدن صدای انفجار در یزد.
 ‏
 ‏📃@Cataphract1
 02:39
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏گزارش های اولیه از رهگیری موشک‌ها در عربستان سعودی.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-02:38
 1405/04/27
 
 
@@ -494,17 +528,6 @@ src :@GeoPWatch
 
 src :@wfwitness
 ‏⚡️🇮🇷 Tasnim reports that residents of  omidiyeh, Khuzestan province reported hearing an explosion a few minutes ago.  @wfwitness
-02:37
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد که چند ساعت پیش، چهار فروند کشتی که قصد عبور از تنگه هرمز را داشتند، توسط یک عملیات ترکیبی شامل پهپادها و موشک‌های کروز ضدکشتی متوقف شدند
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
 02:37
 1405/04/27
 
@@ -1577,30 +1600,6 @@ src :@tabzlive
 
 
 
-src :@Alibk3
-‏إطلاق صواريخ من إيران
-02:16
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏الله أكبر
-02:15
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏الله أكبر
-02:15
-1405/04/27
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -1823,16 +1822,6 @@ src :@MilitarryWorld
 ‏🔴صدای انفجار مجدد در بوشهر 
 ‏
 ‏@MilitarryWorld | Parsa
-02:08
-1405/04/27
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Initial reports of an explosion heard in Bushehr Iran.
-‏
-‏@wfwitness
 02:08
 1405/04/27
 
@@ -2533,16 +2522,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Overall, there's been far more use of fighter jets this attack, at the expense of no ATACMS ballistic missile launches from Kuwaiti or Bahraini territory.
-‏
-‏The last two nights, Ahvaz was struck by ATACMS ballistic missiles launched from Kuwaiti territory. Tonight, Ahvaz was struck by U.S. fighter jets flying above Iraqi territory.
-01:14
-1405/04/27
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- US airstrikes on Bandar Abbas, southern Iran.
 01:12
@@ -2573,18 +2552,6 @@ src :@Middle_East_Spectator
 
 src :@rnintel
 ‏🇮🇶🇮🇷 - Iran's attack on Iraq's Kurdistan region has now been ongoing for two hours.
-01:10
-1405/04/27
-
-
-
-
-src :@MilitarryWorld
-‏🔴فارس: 
-‏
-‏انهدام یک پهپاد MQ9 آمریکایی در بوشهر توسط سامانه پدافندی یکپارچه ایران
-‏
-‏@MilitarryWorld | Parsa
 01:10
 1405/04/27
 
@@ -3340,16 +3307,6 @@ src :@mohem_mat
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: ادامه حملات به راه‌های ارتباطی در جنوب
-‏@iranintlTV
-23:48
-1405/04/26
-
-
-
-
 src :@mwarmonitor
 ‏🚨فرماندهی مرکزی ایالات متحده (CENTCOM) امروز ساعت ۳ بعدازظهر به وقت شرق آمریکا، برای هفتمین شب متوالی، دور جدیدی از حملات علیه ایران را آغاز کرد. این حملات به دستور فرمانده کل قوا و با هدف ادامه تضعیف توانمندی‌های نظامی ایران انجام می‌شوند.
 ‏
@@ -3820,15 +3777,6 @@ src :@ClashReport
 ‏
 ‏Iranian drone strikes hit military facilities and critical infrastructure, including a power and water desalination plant, causing fires, damage to power generation units, and injuring several soldiers.
 23:26
-1405/04/26
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - CENTCOM released a statement.
-23:25
 1405/04/26
 
 
