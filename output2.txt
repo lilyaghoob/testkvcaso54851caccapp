@@ -1,3 +1,58 @@
+src :@BellumActaNews
+[عکس]
+‏🇸🇦⚠️ — Air Raid alerts in Al-Kharj Governorate of the Kingdom of Saudi Arabia, 86 KM South of Riyadh!  @BellumActaNews
+02:56
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏الصواريخ الإيرانية تستهدف قاعدة موفق السلطي الأمريكية في الأردن وسط تفعيل منظومة الباتريوت لإعتراض الهحوم.
+02:56
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴فعالیت پدافند در اردن  ✍🏻 Desert Eagle ▪️@World_Newsly
+02:55
+1405/04/27
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️حساب رسمی سازمان دفاع مدنی عربستان سعودی در اکس، پس از صدور هشدارهای اضطراری اولیه مبنی بر وقوع خطر در استان‌های الخرج و ینبع، در بیانیه‌های جدیدی از رفع کامل خطر در این مناطق خبر داد. این سازمان با انتشار هشدارهای تلفنی بر روی شبکه تلفن‌های همراه، ضمن اعلام پایان وضعیت اضطراری تاکید کرد که ساکنان برای حفظ سلامت خود باید همچنان به پیروی از دستورالعمل‌های دفاع مدنی ادامه دهند.
+‏
+‏@IndyPersian
+02:54
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴حمله مجدد به بوشهر  ‌✍🏻 A$ ▪️@World_Newsly
+02:53
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴فعالیت پدافند در اردن
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+02:51
+1405/04/27
+
+
+
+
 src :@intelslava
 [ویدئو]
 ‏🇮🇷❌🇯🇴🇺🇸 — Footage shows Iranian ballistic missiles flying through Jordanian airspace toward their targets.
@@ -485,39 +540,9 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴استانداری هرمزگان: حملات آمریکا امشب ۳ کشته و ۸ زخمی در پی داشته
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-02:37
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 صدای انفجار در امیدیه استان خوزستان شنیده شد.
-‏
-‏✍🏻 NORTH VECTOR
-‏▪️@World_Newsly
-02:37
-1405/04/27
-
-
-
-
 src :@naya_foriraq
 ‏🌟🇮🇷جراء العدوان الأمريكي الغاشم.. إرتقاء 3 شهداء و8 اصابات في محافظة هرمزغان كحصيلة أولية.
 02:37
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴صدای آژیر در پایگاه هوایی شاه سلطان، عربستان سعودی!   ‌✍🏻 A$ ▪️@World_Newsly
-02:36
 1405/04/27
 
 
@@ -563,15 +588,6 @@ src :@cataphract1
 
 src :@Alibk3
 ‏دوي انفجار في اميديه بخوزستان.
-02:35
-1405/04/27
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴بندر ینبع در غرب کشور عربستان سعودی و در کناره دریای سرخ قرار دارد!!  ✍🏻 Desert Eagle ▪️@World_Newsly
 02:35
 1405/04/27
 
@@ -1632,14 +1648,6 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-‏هبوط مروحية عسكرية في مستشفى رمبام بحيفا إثر حدث أمني جنوب لبنان.
-02:15
-1405/04/27
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — U.S. strikes against Bushehr, coastal southern Iran.
 02:15
@@ -1720,14 +1728,6 @@ src :@BellumActaNews
 
 
 
-src :@naya_foriraq
-‏🇮🇱إعلام العدو: حدث أمني في جنوب لبنان ومروحيات الجيش الإسرائيلي تنقل عدد من الجنوب إلى مستشفى رمبام.
-02:11
-1405/04/27
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — Earlier, a bridge between Bandar Abbas and Rudan was struck by U.S. munitions. This bridge is east of Bandar Abbas and follows strikes against bridges on highways west of Bandar Abbas.
 02:11
@@ -1758,14 +1758,6 @@ src :@P_raetorio
 ‏گزارش‌ها از حمله هوایی به هدفی در شهرستان داراب
 ‏
 ‏@P_raetorio
-02:10
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏انفجارات في مدينة جغادك جنوبي إيران.
 02:10
 1405/04/27
 
@@ -1943,14 +1935,6 @@ src :@P_raetorio
 
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- The US just struck three new bridges in the Hormozgan Province of southern Iran.
-02:02
-1405/04/27
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 U.S. airstrike reportedly targeted the bridge that connects Bandar Abbas and the city of Rudan in southern Iran.  @wfwitness
 02:02
 1405/04/27
 
@@ -3506,16 +3490,6 @@ src :@Americana_ir
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️فرماندهی مرکزی ارتش آمریکا، سنتکام، روز جمعه ۲۶ تیر با انتشار بیانیه‌ای اعلام کرد که در ساعت ۲۳:۳۰ به وقت ایران، دور جدیدی از حملات را علیه مواضعی در ایران آغاز کردیم. این هفتمین شب متوالی حملات هوایی آمریکا به مناطق جنوبی در ایران است.
-‏@indypersian
-23:39
-1405/04/26
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇮🇷 — U.S. airstrikes reported in Ahvaz, Khuzestan province, Bushehr, Bandar Abbas, Hormozgan Province and Sirik, southern Iran.
@@ -3846,15 +3820,6 @@ src :@ClashReport
 ‏
 ‏Iranian drone strikes hit military facilities and critical infrastructure, including a power and water desalination plant, causing fires, damage to power generation units, and injuring several soldiers.
 23:26
-1405/04/26
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸❌🇮🇷 — BREAKING: CENTCOM announces a new round of strikes has been conducted against Iran.
-23:25
 1405/04/26
 
 
@@ -4971,15 +4936,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 19:27
-1405/04/26
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏The Iranian currency hit an all-time low with 1.93 million Iranian rials to one US dollar.
-19:24
 1405/04/26
 
 
