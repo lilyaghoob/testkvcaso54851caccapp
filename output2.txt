@@ -1,4 +1,22 @@
 src :@thewarreporter
+‏🇺🇸🇯🇴🇶🇦🇰🇼🇧🇭🇮🇶☀️ — Following the overnight U.S. attacks, Iran retaliated by striking targets in Jordan, Qatar, Kuwait, Bahrain, and Iraq.
+‏
+‏@TheWarReporter
+06:50
+1405/04/26
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇶🇦— Qatari Ministry of Interior: A child was injured as a result of shrapnel from interception operations
+06:48
+1405/04/26
+
+
+
+
+src :@thewarreporter
 ‏🇺🇸🇮🇷 — The US has reportedly attacked 6 bridges in the past few hours in the city of Khomair in southern Iran.
 ‏
 ‏— Iranian News Agency | @TheWarReporter
@@ -1372,7 +1390,6 @@ src :@Artemis_Force
 
 src :@VahidOnline
 ‏پیام دریافتی 'از قطر':
-‏
 ‏ده دقیقه پیش صدا انفجار و پدافند، دوحه.
 ‏Still no threat cleared message.
 ‏
@@ -5075,17 +5092,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@thewarreporter
-[عکس]
-‏🇦🇪 — Dubai Media Office denies reports of explosions in the city.
-‏
-‏@TheWarReporter
-20:43
-1405/04/25
-
-
-
-
 src :@didarnews1
 ‏🔴دولت دبی: گزارش‌های رویترز مبنی بر شنیده شدن صدای انفجار در مرکز شهر دبی صحت ندارد
 ‏
@@ -5594,20 +5600,6 @@ src :@Parvazdaroj
 
 
 
-src :@GeoPWatch
-[عکس]
-‏#NEW
-‏🇸🇾❌🇱🇧🇱🇧 - The Syrian Ministry of Interior has announced the seizure of an Iranian arms smuggling attempt from the Iraqi Border on it's way to Lebanon's Hezbollah. 
-‏
-‏The shipment was found within an Iraqi oil tanker of a convoy that travels daily through Syria. 
-‏
-‏The cache included a large amount of FPV drones, 15 kilometer Fiber-Optic spools, modified-fuse "PG7-VL-AT-1" Projectiles, 12 "ALMAS" NLOS ATGMs, and a "Paveh" Anti-Ship Cruise Missile.
-18:26
-1405/04/25
-
-
-
-
 src :@mohem_mat
 ‏افشاگری شب گذشته ونس معاون ترامپ؛ شبیه مصاحبه شب آخر بدر البوسیدی وزیر خارجه عمان در شب ۸اسفند۱۴۰۴ در برنامه فیس دی نیشن؛ بود؛ حالا جی‌دی ونس می‌گوید جنگ طلبان ایده‌ای به‌جای توافق ندارند و تنها بر بمباران تاکید می‌کنند؛ ونس افشا می‌کند که کارزارهای افکار عمومی برای حمله به مذاکرات تامین مالی شده است.
 ‏
@@ -5979,39 +5971,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 15:18
-1405/04/25
-
-
-
-
-src :@militaryinpersian
-[عکس]
-‏#تسلیحات
-‏
-‏🚀🇺🇸❗️بررسی جنگ افزاری که در حملات شبانه اخیر آمریکا به ایران، نقش کلیدی ایفا کرده و بارها نقاط جنوبی کشور را هدف قرار داده است: پلتفرم "HIMARS/هیمارس" که توانایی شلیک طیف گسترده‌ای از مهمات از خانواده "MLRS" و "ATACMS" را دارد. دسته‌بندی این راکت‌ها و موشک‌ها به شرح زیر است:
-‏
-‏❗️راکت‌های خانواده GMLRS (هدایت‌شونده و دقیق):
-‏✪راکت GMLRS DPICM (M30) دارای مهمات فرعی دو منظوره.
-‏✪راکت GMLRS Unitary (M31/M31A1/M31A2): دارای سر جنگی تک‌مرحله‌ای برای اهداف نقطه‌ای.
-‏✪راکت GMLRS Alternative Warhead (M30A1/M30A2): معروف به AW، برای پوشش مناطق وسیع بدون باقی گذاشتن مهمات عمل‌نکرده.
-‏✪راکت ER GMLRS (XM404/XM403): نسخه با برد افزایش یافته (Extended Range) در دو نوع تک‌مرحله‌ای و AW.
-‏
-‏❗️موشک‌های بالستیک تاکتیکی ATACMS: این موشک‌ها ابعاد بزرگتری دارند و هیمارس می‌تواند در هر بارگذاری یک عدد از آن‌ها را حمل کند:
-‏✪موشک ATACMS BLK I (M39): نسخه اولیه با برد کوتاه‌تر و دارای مهمات فرعی زیاد.
-‏✪موشک ATACMS BLK IA (M39A1): نسخه بهبود یافته با هدایت GPS و برد بیشتر.
-‏✪موشک ATACMS Quick Reaction Unitary (QRU - M48): نسخه با سر جنگی تک‌مرحله‌ای پرقدرت.
-‏✪موشک ATACMS T2K (M57): موشک مدرن با دقت بسیار بالا.
-‏✪موشک ATACMS Modifications (M57): نسخه‌های تبدیل شده M39 به M57.
-‏
-‏⚠️موشک‌های نسل جدید:
-‏✪موشک Precision Strike Missile (PrSM): جدیدترین موشک دوربرد که قرار است جایگزین ATACMS شود (در تصویر سمت راست دیده می‌شود).
-‏
-‏✔️⚙️نکته فنی از تصویر: سامانه هیمارس می‌تواند 1 پاد (شامل 6 راکت معمولی یا 1 موشک ATACMS/PrSM) را حمل و شلیک کند.
-‏
-‏Leopard✍
-‏
-‏@MilitarytodayIR
-15:02
 1405/04/25
 
 
