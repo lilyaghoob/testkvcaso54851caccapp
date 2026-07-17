@@ -1,6 +1,81 @@
+src :@World_Newsly
+[عکس]
+‏🔴 هم اکنون یک اسکادران بزرگ از جنگنده‌های F-16 آمریکا به همراه  چهار هواپیمای تانکر سوخت،
+‏در حال حرکت به سمت خاورمیانه می‌باشند.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+14:32
+1405/04/26
+
+
+
+
+src :@cataphract1
+‏⚜ گزارش شده مصر و چندین کشور حاشیه خلیج فارس تلاش هایی را برای کاهش تنش بین آمریکا و ایران آغاز کرده اند. 
+‏
+‏📃@Cataphract1
+14:30
+1405/04/26
+
+
+
+
 src :@P_raetorio
 [عکس]
-‏تانک آبرامز M1A2 SEPv3 ارتش استرالیا با استتار تانک تایپ 99 چینی حین تمرینات این کشور
+‏سازمان تجارت دریایی بریتانیا اعلام کرد روز گذشته یک کشتی در نزدیکی دریای عرب دچار حمله و حادثه شده است،مشخص نیست این حمله توسط سنتکام صورت گرفته یا سپاه پاسداران…
+‏
+‏@P_raetorio
+14:29
+1405/04/26
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸🇸🇩⚡️ — A Reuters investigation has linked companies controlled by former US special forces soldier Steven Shaulis to aircraft supplying Rapid Support Forces (RSF) logistics hubs in Sudan.
+‏
+‏➡️ At least three Boeing aircraft operated by Shaulis-controlled companies flew from Chad to RSF-linked hubs in Libya, Somalia, and Sudan — including Nyala and Kufra, both critical RSF supply routes.
+‏
+‏➡️ A Boeing 737 linked to Shaulis was shot down during Sudanese military airstrikes on Nyala in May 2025, killing 54 people — including 51 RSF fighters.
+‏
+‏➡️ Key details remain unknown, including the source of funding for the flights and what cargo they carried — and Reuters found no evidence Shaulis or his companies have been sanctioned or formally charged.
+‏
+‏@IntelSlava
+14:29
+1405/04/26
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇱🇧🇮🇱 L’Orient: Hezbollah has denied any involvement in a circulating list accusing nearly 200 people of collaborating with Israel, calling it fabricated and stating it has “no link whatsoever” to the document. 
+‏
+‏The list surfaced days after Lebanese authorities arrested a man from Hezbollah accused of spying for Israel and allegedly providing intelligence that led to the killing of senior Hezbollah commanders, fueling speculation over its origin.
+‏
+‏@wfwitness
+14:28
+1405/04/26
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 منابع عربی از حمله به یک کشتی در بندر دقم عمان خبر دادند
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+14:28
+1405/04/26
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏تانک آبرامز M1A2 SEPv3 ارتش استرالیا با استتار عجیب تانک تایپ 99 چینی حین تمرینات این کشور
 ‏
 ‏@P_raetorio
 14:25
@@ -50,7 +125,7 @@ src :@jangaavaran1390
 ‏🔸 برخورد عجیب دولت اوکراین با مردمش
 ‏
 ‏در پی تصمیم دولت برای تغییر وزیر دفاع اوکراین، علیرغم شرایط جنگ با روسیه جمعیتی از مردم اوکراینی به خیابان ها آمده و به این تصمیم اعتراض کردند.
-‏روز گذشته زلنسکی، رئیس جمهور اوکراین، در کنفرانس خبری به جای تاکید بر لزوم برخورد با معترضین، اعلام کرد که اگر مردم ناراحتی دارند حق دارند به خیابان بیایند و اعتراض کنند. وی گفت فدرو وزیر دفاع را تیم دولت نگه خواهد داشت.
+‏روز گذشته زلنسکی، رئیس جمهور اوکراین، در کنفرانس خبری به جای تاکید بر لزوم برخورد با معترضین، اعلام کرد که اگر مردم ناراحتی دارند حق دارند به خیابان بیایند و اعتراض کنند. وی گفت فدرو وزیر دفاع را در تیم دولت نگه خواهد داشت.
 ‏
 ‏گویا آقای زلنسکی نمی‌داند کشورش در «برهه حساس کنونی» و وسط جنگ با روسیه قرار دارد، در چنین شرایطی قاعدتا پاسخ درست برخورد شدید با معترضین است نه گوش دادن به حرف مردم.
 14:25
@@ -1147,16 +1222,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@wfwitness
-‏⚡️🇮🇶🇮🇷Al Mayadeen: The largest gas company, which has a contract with an American gas company in Iraq, was targeted.
-‏
-‏@wfwitness
-13:21
-1405/04/26
-
-
-
-
 src :@Mena_Live
 ‏Syrian Military: The Iranian shelling that targeted Syria hit a deserted desert area and did not reach Tanf.
 ‏
@@ -1282,18 +1347,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 13:17
-1405/04/26
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴فارس: حمله به برج مراقبت بندر چابهار، اشتباه راهبردی دشمن بود و معادله زیرساخت در برابر زیرساخت را فعال کرد.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-13:15
 1405/04/26
 
 
@@ -3411,16 +3464,6 @@ src :@Parvazdaroj
 
 
 
-src :@P_raetorio
-‏ارتش پادشاهی اردن اعلام کرد بانداد امروز 3 موشک بالستیک شلیک شده به سمت این کشور را رهگیری کرده است.
-‏
-‏@P_raetorio
-10:01
-1405/04/26
-
-
-
-
 src :@MilitarryWorld
 ‏🔴کنست رأی به انحلال خود داد؛ اسرائیل به سمت انتخابات زودهنگام می‌رود
 ‏
@@ -3574,18 +3617,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:19
-1405/04/26
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — Ukrainian military personnel are attempting to create a "second front" against Russia in a number of African countries, according to the Russian Foreign Ministry.
-‏
-‏Specifically, this refers to Mali and Libya.
-‏
-‏@Intelslava
-09:18
 1405/04/26
 
 
@@ -5539,17 +5570,6 @@ src :@DEJradio
 ‏#گزارش_خبری #رسانه_خارجی
 ‏@DEJradio
 00:45
-1405/04/26
-
-
-
-
-src :@cataphract1
-[عکس]
-‏پل کهورستان در شهرستان خمیر استان هرمزگان که با حمله هوایی آمریکا تخریب شد.
-‏
-‏@Minas_Tirith2024
-00:42
 1405/04/26
 
 
