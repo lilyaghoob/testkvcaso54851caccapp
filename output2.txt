@@ -1,3 +1,147 @@
+src :@MilitarryWorld
+‏🔴اهواز مجددا هدف حملات قرار گرفت
+‏
+‏@MilitarryWorld | Parsa
+00:52
+1405/04/27
+
+
+
+
+src :@GeoPWatch
+‏#BREAKING
+‏⚡️🇺🇸❌🇮🇷 - A number of explosions were heard in central Iran's 'Yazd' 5+ minutes ago.
+00:52
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+[عکس]
+00:51
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴 اهواز زیر بمباران سنگین
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+00:51
+1405/04/27
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 فعالیت حداقل 11 سوخت رسان آمریکایی با گسترش یکسان در پوشش شرق و غرب ایران 
+‏
+‏بیشتر فعالیت در پایگاه های : 1- العدید 2- بن گوریون 3- الظفره
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+00:51
+1405/04/27
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴دود ناشی از انفجار در یزد.
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+00:50
+1405/04/27
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 انفجار محدوده پلیس راه اهواز
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+00:50
+1405/04/27
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🚨 شنیده شدن صدای انفجار در یزد
+00:49
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴در نجف آباد هم هیچ خبری نیست اما در اهواز چند انفجار رخ داد و یزد هنوز تایید نشده هست...
+‏
+‏بنظر میرسه حملات به هیمارس ها و ذخایر آنها، حداقل حملات دشمن رو تا حد زیادی خنثی کرد و احتمالا بزودی باید با جنگنده وارد بشن که شنیدم برنامه های مفصلی براشون تدارک دیده شد
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+00:49
+1405/04/27
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡- BREAKING: US airstrikes on Yazd, central Iran. The furthest US has struck since the end of the war.
+00:49
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴 الان سه انفجار شدید تو تربت حیدریه شنیده شد
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+00:48
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏مصدر إيراني: لا يوجد نشاط للدفاعات الجوية في أصفهان.
+00:48
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴صدای جنگنده در آسمان یزد
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+00:48
+1405/04/27
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Explosion reported in Ahvaz.
+00:48
+1405/04/27
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸❌🇮🇷 - US airstrikes reported in Yazd, Fars Province.
@@ -241,7 +385,7 @@ src :@MilitarryWorld
 
 src :@VahidOnline
 [عکس]
-‏چند پیام دریافتی تایید نشده:
+‏پیام‌های دریافتی:
 ‏
 ‏۱۲:۳۰ اهواز رو زدن 
 ‏صدای انفجار ولی زیاد نزدیک نبود
@@ -251,6 +395,9 @@ src :@VahidOnline
 ‏اهواز صدای انفجار ۱۲:۲۹
 ‏
 ‏ساعت  ۰۰٫۳۰  اهواز  ۲ تا انفجار  پشت سر هم
+‏
+‏منابع حکومتی:
+‏ معاون امنیتی انتظامی استانداری خوزستان: دقایقی پیش نقاطی در اطراف شهر اهواز توسط دشمن تروریستی آمریکا مورد حمله موشکی قرار گرفت.
 ‏
 ‏📡 @VahidOnline
 00:35
@@ -377,32 +524,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@World_Newsly
-‏⭕ دولت ترامپ در حال بررسی این موضوع است که به اسرائیل مجوز حمله مشترک به ایران را بدهد.
-‏
-‏در شرایطی که تنش‌های امنیتی رو به افزایش است، منابع دیپلماتیک آمریکایی فاش کردند که دولت ترامپ به طور جدی در حال بررسی این موضوع است که به ارتش اسرائیل آزادی عمل دهد و به اسرائیل مجوز انجام حملات برنامه‌ریزی‌شده و هماهنگ با ایالات متحده علیه اهدافی در داخل خاک ایران را بدهد.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-00:33
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 وقوع دو انفجار در نزدیکی فرودگاه اربیل و کنسولگری آمریکا
-‏
-‏رسانه‌های عراقی از شنیده‌شدن صدای دو انفجار در نزدیکی فرودگاه اربیل و ساختمان کنسولگری آمریکا خبر دادند.
-‏
-‏✍🏻 NORTH VECTOR
-‏▪️@World_Newsly
-00:31
-1405/04/27
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، رهبر جمهوری اسلامی، روز جمعه و همزمان با آغاز هفتمین شب حملات آمریکا علیه اهداف نظامی در ایران، با انتشار پیامی در اکس با تاکید بر اینکه «سیاست هم مذاکره هم جنگ تمام شد» نوشت: «اگر آمریکا طی ۲-۳ روز آینده جنگ را ادامه دهد، وارد مرحلهٔ «تهاجم و انهدام کامل» دشمن خواهیم شد. در صورت فعال‌سازی این راهبرد دیگر به مقابله‌به‌مثل اکتفا نمی‌کنیم و هیچ مرز سیاسی در مقابل نیروهای تهاجمی ایران امنیت نخواهد داشت.»
@@ -440,18 +561,6 @@ src :@Alibk3
 
 
 
-src :@World_Newsly
-‏⭕ فاکس نیوز: اسناد به دست آمده از یک گزارش محرمانه دولتی در ایران نشان می‌دهد تنها 9 درصد جمعیت 92 میلیونی ایران حامی وضع موجود هستند.
-‏بنا به ادعای فاکس نیوز بر اساس این گزارش 91 درصد مردم ایران خواستار تغییر بنیادین در ساختار یا تغییر کامل سیستم موجود هستند. در این گزارش آمده که 81 درصد پاسخ دهنده ها با دشواری نسبی در تهیه غذای مطلوب مواجه بوده و حدود 64 درصد آن ها به صورت پایدار از وضع موجود خشمگین هستند.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-00:29
-1405/04/27
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏برخی رسانه‌ها در ایران گزارش‌هایی از شنیده شدن صدای چند انفجار در بوشهر، قشم و سیریک در جنوب ایران منتشر کرده‌اند.
@@ -462,17 +571,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 00:28
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 شبکه برق سلیمانیه از مدار خارج شد.
-‏
-‏✍🏻 NORTH VECTOR
-‏▪️@World_Newsly
-00:27
 1405/04/27
 
 
@@ -493,28 +591,6 @@ src :@rnintel
 [عکس]
 ‏🇺🇸🇮🇷 - Iranian traffic is seen crossing dry riverbeds in the Bandar Abbas region, southern Iran, following the U.S. attacks on six bridges last night.
 00:26
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴موقت :میگن اصفهان هیچ خبری نیست،تاییده؟ 
-‏👍/👎
-‏✍🏻 Hunter
-‏▪️@World_Newsly
-00:25
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴فاکس نیوز: گزارش رسیده به پزشکیان نشان می دهد ۹۱ درصد ایرانیان از وضع موجود ناراضی اند و ۷۰ درصد خواهان تغییر نظام هستند.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-00:25
 1405/04/27
 
 
@@ -1155,16 +1231,6 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏الله اكبر
-‏
-‏اصابة مباشرة لمسيرة انتحارية على مقر إرهابيي المعارضة الكردية الإيرانية في محافظة أربيل شمالي العراق.
-23:53
-1405/04/26
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ 
@@ -1270,14 +1336,6 @@ src :@mohem_mat
 ‏صدای انفجار در سیریک و بوشهر و بندرعباس شنیده شده است
 ‏
 ‏@mohem_mat
-23:48
-1405/04/26
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷دوي انفجارات في بوشهر وقشم وسيريك جنوبي إيران.
 23:48
 1405/04/26
 
@@ -1923,14 +1981,6 @@ src :@P_raetorio
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡- Explosions heard in Sirik, southern Iran.
-23:30
-1405/04/26
-
-
-
-
 src :@cataphract1
 ‏⚜بر اساس بیانیه فرماندهی مرکزی ارتش آمریکا (CENTCOM)، هفتمین دور متوالی حملات آمریکا علیه ایران آغاز شده است.
 ‏
@@ -2081,14 +2131,6 @@ src :@mohem_mat
 ‏Je suis Min@ (@jesuisminaaa)
 ‏
 ‏ @mohem_mat
-23:27
-1405/04/26
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- "CENTCOM launched a round of strikes against Iran at 3 p.m. ET today for the seventh consecutive night. The strikes are designed to continue degrading Iranian military capabilities at the Commander in Chief's direction," - U.S. CENTCOM.
 23:27
 1405/04/26
 
@@ -2515,15 +2557,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-[عکس]
-‏🇮🇶🇮🇷 - Sulaymaniyeh, eastern Iraq's Kurdistan region, from the Iranians attack earlier.
-22:56
-1405/04/26
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🌞 - Iranian Shahed-136 drones intercepted above Erbil.
 22:56
@@ -2568,16 +2601,6 @@ src :@thewarreporter
 ‏We are delivering powerful blows, and their intensity will increase in the coming days".
 ‏
 ‏@TheWarReporter
-22:54
-1405/04/26
-
-
-
-
-src :@rnintel
-‏🇲🇱⚡️- Both FLA and Africa Corps outlets report a massive 200/300 vehicles long convoy has left Sévaré towards Gao. The convoy is central for a rumored massive FAMa+Africa Corps counter-offensive in northern Mali.
-‏
-‏The convoy is composed mainly of logistical vehicles and jeeps, but is reported to also have APCs and tanks.
 22:54
 1405/04/26
 
@@ -3190,19 +3213,6 @@ src :@ClashReport
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴عراقچی: 
-‏
-‏سه نفر از روستاییان هنگام عبور از پل بندر خمیر شهید شدن،اونا بیگناه بودن و ما هرگز اجازه نمیدیم خونشون هدر بره،ایران از جنوب تا شمال و از شرق تا غرب میهن ماست و ما تا آخرین نفس از هر وجب از خاک خود دفاع میکنیم.
-‏
-‏@MilitarryWorld | Parsa
-22:06
-1405/04/26
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، شامگاه جمعه ۲۶تیر۱۴۰۵ به نقل از یک «منبع آگاه» نوشت که نیروی دریایی سپاه، یک کشتی با پرچم تایلند که قصد عبور از تنگه هرمز را داشت، هدف قرار داده است.
@@ -3279,25 +3289,6 @@ src :@mwarmonitor
 ‏🔴 خبرگزاری کویت به نقل از سازمان آتش‌نشانی کویت: دو آتش‌سوزی در دو نقطه در جنوب کشور که هدف حمله ایران قرار گرفته بودند، مهار شد؛ این حادثه هیچ مصدومی نداشت.
 ‏
 ‏@mwarmonitor
-21:50
-1405/04/26
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸🇮🇱🇯🇴🇮🇶🇶🇦🇰🇼🇦🇪- List of images released showing the damage from recent attacks on U.S. bases in Jordan, Kuwait, Qatar, UAE, and Iraq.
-‏
-‏➡️ In Jordan’s King Faisal Air Base, images show damage to warehouses, hangars, and troop barracks.
-‏
-‏➡️ A U.S. Halliburton logistics warehouse in Kuwait’s Mina Abdullah Industrial Zone was destroyed and on fire.
-‏
-‏➡️In the Al Udeid Air Base in Qatar, a warehouse that is likely used to store munitions show new burn marks.
-‏
-‏➡️A ‘Patriot’ air defense system was destroyed at the U.S. base in Erbil Airport.
-‏
-‏➡️Three hardened storage facilities at Sheikh Zayed Military City, UAE, were completely destroyed.
 21:50
 1405/04/26
 
@@ -3398,20 +3389,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:36
-1405/04/26
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ وحید عابری، شهروند ۳۹ ساله بریتانیایی-ایرانی اهل لیورپول، توسط دادگاهی در لندن به اتهام جاسوسی برای جمهوری اسلامی ایران تفهیم اتهام شد. به گزارش خبرگزاری رویترز، او متهم است که پیشنهاد همکاری به سرویس اطلاعاتی جمهوری اسلامی ارائه داده است.
-‏
-‏کریستل پوس، دادستان پرونده، در دادگاه «وست‌مینستر» اعلام کرد که عابری با هدف کمک به نهادهای اطلاعاتی ایران با رابط‌هایی در این کشور تماس گرفته اما در این زمینه ناکام مانده است. پس از آن، او در سال ۲۰۲۵ نامه‌ای به کنسولگری جمهوری اسلامی در لندن نوشت و پرسید که چگونه می‌تواند به «هموطنان عزیزش» کمک کند.
-‏
-‏عابری روز چهارشنبه بازداشت شد و روز جمعه ۲۶ تیر در دادگاه حضور یافت؛ او با قرار بازداشت موقت، باید در تاریخ ۳۰ مرداد در دادگاه کیفری مرکزی انگلستان و ولز حاضر شود.
-‏@indypersian
-21:33
 1405/04/26
 
 
@@ -3765,18 +3742,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 20:59
-1405/04/26
-
-
-
-
-src :@mwarmonitor
-‏🔴 رونن کوهن، رئیس کمیته مشورتی حفاظت از شخصیت‌ها، در برنامه «کابینه جمعه» فاش کرد که اخیراً تلاش برای آسیب رساندن به یکی از اعضای خانواده نتانیاهو خنثی شده است.
-‏
-‏🔴به گفته کوهن، این عملیات خنثی‌سازی در آخرین لحظه انجام شده و اخیراً، پس از کشته‌شدن علی خامنه‌ای، رهبر جمهوری اسلامی ایران، رخ داده است. i24 news 
-‏
-‏@mwarmonitor
-20:57
 1405/04/26
 
 
@@ -4211,17 +4176,6 @@ src :@BellumActaNews
 [عکس]
 ‏The Iranian currency hit an all-time low with 1.93 million Iranian rials to one US dollar.
 19:24
-1405/04/26
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇬🇧 — Andy Burnham is now Leader of the Labour Party, the party with a majority in the UK parliament.
-‏
-‏He will become the 59th UK Prime Minister on Monday.
-19:22
 1405/04/26
 
 
@@ -6499,15 +6453,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 00:57
-1405/04/26
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️#LATEST U.S bombs Iranian bridge 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:47
 1405/04/26
