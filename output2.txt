@@ -1,3 +1,82 @@
+src :@mamlekate
+‏📝 ششمین شب حملات آمریکا به جمهوری اسلامی
+‏
+‏ششمین شب پیاپی حملات آمریکا به ایران با هدف قرار گرفتن ده‌ها موضع نظامی، زیرساخت‌های برق و چند پل در جنوب کشور همراه شد. هم‌زمان، کویت، بحرین و قطر از حملات، انفجارها و افزایش سطح تهدید امنیتی خبر دادند.
+‏
+‏@mamlekate
+09:21
+1405/04/26
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱🇮🇷 — Israel assesses, based on U.S. target maps, that Washington is preparing for a major operation in Iran.
+‏
+‏— Israeli media | @TheWarReporter
+09:20
+1405/04/26
+
+
+
+
+src :@jangaavaran1390
+‏چین و پاکستان خواستار آتش‌بس و از سرگیری مذاکرات بین واشنگتن و تهران شدند.
+09:20
+1405/04/26
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇮🇷🇺🇸⚡️ — A low-resolution satellite image showing the aftermath of a recent attack by an Iranian suicide drone on a U.S. MIM-104 Patriot PAC-3 air defense system position at Erbil Airport.
+‏
+‏The position was attacked in March, but the drone crashed behind the launch platform. The recent image shows signs of a fire and, presumably, rising black smoke, which may indicate damage to the launch platform.
+‏
+‏@Intelslava
+09:19
+1405/04/26
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏احظه ویرانی و سقوط کامل برج مراقبت چابهار…
+‏
+‏@P_raetorio
+09:19
+1405/04/26
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴بحرین، هم اکنون
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+09:19
+1405/04/26
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇦⚡️ — Ukrainian military personnel are attempting to create a "second front" against Russia in a number of African countries, according to the Russian Foreign Ministry.
+‏
+‏Specifically, this refers to Mali and Libya.
+‏
+‏@Intelslava
+09:18
+1405/04/26
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏تصویر ماهواره ای از شهرک نظامی زاید در ابوظبی که انهدام سه سازه پس از حمله موشکی ایران در روز ۱۲ جولای را نشان می دهد.
@@ -79,7 +158,7 @@ src :@World_Newsly
 
 
 src :@didarnews1
-‏🔴 ترامپ:
+‏🔴 ادعای ترامپ:
 ‏
 ‏🔹ما در ایران پیروزی بزرگی به دست می‌آوریم و شما خیلی زود ثمره این تلاش را خواهید دید.
 ‏
@@ -2898,24 +2977,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@IranintlTV
-[عکس]
-‏حملات متقابل آمریکا و جمهوری اسلامی روز پنجشنبه برای ششمین روز ادامه یافت. ارتش آمریکا از حملات تازه به اهداف نظامی و زیرساختی در جنوب ایران، از جمله در اطراف بندرعباس و قشم، با هدف کاهش توان جمهوری اسلامی برای تهدید کشتیرانی در تنگه هرمز خبر داد. 
-‏
-‏همزمان، جمهوری اسلامی حملات موشکی و پهپادی به پایگاه‌های آمریکا در منطقه را ادامه داد. رویترز گزارش داد با ازسرگیری محاصره دریایی بنادر ایران از سوی آمریکا و محدودیت‌های اعمال‌شده از سوی تهران در تنگه هرمز، تردد کشتی‌ها کاهش یافته و نگرانی‌ها درباره بازار جهانی انرژی افزایش یافته است.
-‏
-‏همزمان، اختلافی میان تهران و واشینگتن بر سر سخنان دونالد ترامپ درباره آزادی یک شهروند آمریکایی از زندان‌های ایران شکل گرفت؛ ادعایی که قوه قضاییه جمهوری اسلامی آن را رد کرد. 
-‏
-‏ترامپ همچنین هشدار داد در صورت شکست مذاکرات، حملات گسترده‌تری علیه زیرساخت‌های ایران انجام خواهد شد، در حالی که تهران تاکید کرد کنترل تنگه هرمز را از دست نخواهد داد.
-‏
-‏متن کامل را اینجا بخوانید
-‏https://iranintl.com/202607161049
-04:03
-1405/04/26
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇰🇼🇯🇴🇮🇶🇧🇭 — Explosions in Kuwait, Jordan, Iraq and Bahrain.
 04:02
@@ -3490,20 +3551,6 @@ src :@P_raetorio
 
 
 
-src :@jangaavaran1390
-‏حملات هوایی به بندر لنگه گذارش شده
-‏همچنین
-‏ گزارش  خبرنگار صداوسیما از فرودگاه ایرانشهر پس از حملۀ  آمریکا 
-‏
-‏حملۀ  آمریکا به فرودگاه ایرانشهر، تاکنون یک مصدوم درپی داشته است
-‏
-‏در پی این حمله به تأسیسات برق و مخزن سوخت فرودگاه ایرانشهر خساراتی وارد شده است
-01:45
-1405/04/26
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴تصویر جالبی از عضو سپاه تفنگداران دریایی ایالات متحده در کنار پرچم جمهوری اسلامی ایران در جریان بازرسی امروز این نیرو ها از کشتی M/T Wen Yao که در حال عبور از منطقه بود.
@@ -3544,15 +3591,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 01:42
-1405/04/26
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏تصویر جالبی از عضو سپاه تفنگداران دریایی ایالات متحده در کنار پرچم جمهوری اسلامی ایران در جریان بازرسی امروز این نیرو ها از کشتی M/T Wen Yao که در حال عبور از منطقه بود.
-01:40
 1405/04/26
 
 
@@ -4375,15 +4413,6 @@ src :@Exciton_missile_program
 
 
 
-src :@P_raetorio
-[عکس]
-‏صدای انفجار و پرواز جنگنده بر فراز ایرانشهر  @P_raetorio
-23:58
-1405/04/25
-
-
-
-
 src :@guard_warriors
 ‏✪ در پی حملات هوایی آمریکا، منابع محلی از شنیده شدن صدای حداقل ۱۰ انفجار مجدد در جزیره قشم خبر می‌دهند.
 ‏
@@ -4699,6 +4728,9 @@ src :@mamlekate
 ‏
 ‏سمت غرب بندر رو زدن مراکز نزدیک به اون نواحی برق قطع شده
 ‏
+‏
+‏🚀 درود باز از جم ساعت ۲ و ۵۶ دقیقه موشک فرستادن
+‏
 ‏@mamlekate
 23:31
 1405/04/25
@@ -4837,22 +4869,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 23:11
-1405/04/25
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — Explosions reported in Bushehr following US strikes.
-23:07
-1405/04/25
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — Fresh US strikes reported on Bandar Abbas, southern Iran.
-23:07
 1405/04/25
 
 
@@ -5327,20 +5343,6 @@ src :@selena_updates
 
 
 
-src :@thewarreporter
-‏🇺🇸🇯🇴🇮🇷 — Jordanian Foreign Minister Ayman Safadi:
-‏
-‏"The Iranian narrative that there are U.S. military bases in Jordan is incorrect.
-‏
-‏There are no American bases in Jordan, but rather American soldiers operating within the framework of military cooperation between us and Washington".
-‏
-‏@TheWarReporter
-21:20
-1405/04/25
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸🇯🇴 — The Jordanian Minister of Foreign Affairs stated that
 ‏"There are no American bases in Jordan, and there are only American soldiers present."
@@ -5396,19 +5398,6 @@ src :@mohem_mat
 ‏Happy together. محصول ۱۹۹۶
 ‏2046 . محصول ۲۰۰۴
 21:04
-1405/04/25
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴کاخ سفید دقایقی پیش با انتشار اطلاعیه‌ای اعلام کرد دونالد ترامپ، رئیس جمهور دولت آمریکا در فینال جام جهانی فوتبال شرکت خواهد کرد.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-21:02
 1405/04/25
 
 
