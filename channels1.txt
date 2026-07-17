@@ -34,3 +34,4 @@ RASTAKHIZ_PERSIAN
 defence_news
 Farsi_Iranwire
 militaryinpersian
+Navy_Iranian
