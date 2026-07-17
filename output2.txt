@@ -1,3 +1,79 @@
+src :@Alibk3
+[عکس]
+‏ست طائرات تزويد بالوقود أميركية تُحلق الآن فوق الخليج الفارسي، إلى جانب طائرة الإنذار المبكر والتحكم المحمول جواً E-3G Sentry التي تعمل فوق شرق السعودية.
+03:28
+1405/04/27
+
+
+
+
+src :@Alibk3
+[عکس]
+‏إغلاق المجال الجوي في البحرين.
+03:27
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏انفجارات عنيفة تهز البحرين وصافرات الانذار تدوي
+03:25
+1405/04/27
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Reports of renewed explosions on Kharj Island, Iran.  @wfwitness
+03:24
+1405/04/27
+
+
+
+
+src :@P_raetorio
+‏گزارش انفجار از اهواز
+‏
+‏
+‏@P_raetorio
+03:23
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴لارک همچنان زیر بمباران سنگین
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+03:23
+1405/04/27
+
+
+
+
+src :@P_raetorio
+‏گزارشات حاکی از انفجار در جزیره خارک
+‏
+‏
+‏@P_raetorio
+03:23
+1405/04/27
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Reports of renewed explosions on Kharj Island, Iran.  @wfwitness
+03:22
+1405/04/27
+
+
+
+
 src :@Mena_Live
 ‏The Iranian military: We targeted facilities belonging to the U.S. military at the Al-Adira and Ali Al-Salem bases, in addition to a number of bridges in Kuwait.
 ‏
@@ -19,7 +95,7 @@ src :@wfwitness
 
 
 src :@World_Newsly
-‏🔴گزارش تایید نشده از انفجار در لرستان
+‏🔴گزارش هایی از انفجار در لرستان
 ‏
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
@@ -81,7 +157,7 @@ src :@World_Newsly
 ‏🔴چند انفجار در خارک
 ‏
 ‏‌✍🏻 A$
-‏▪️@World_Newsly
+‏▪️@World_Newsl
 03:20
 1405/04/27
 
@@ -632,19 +708,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴 مقام ارشد آمریکایی: ایران یک موشک بالستیک به‌سوی پایگاه آمریکا در عربستان شلیک کرد
-‏
-‏یک مقام ارشد آمریکایی در گفت‌وگو با شبکه «ان۱۲» مدعی شد ایران یک فروند موشک بالستیک به‌سوی یکی از پایگاه‌های آمریکا در عربستان سعودی شلیک کرده است.
-‏
-‏✍🏻 NORTH VECTOR
-‏▪️@World_Newsly
-02:46
-1405/04/27
-
-
-
-
 src :@wfwitness
 ‏⚡️🇸🇦 Sirens in Al-Kharj, home to  Prince Sultan air base.  @wfwitness
 02:46
@@ -1179,26 +1242,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-‏⚡️🇸🇦 Sirens were also activated in Yanbu governate for a short while before all clear was given.
-‏
-‏@wfwitness
-02:29
-1405/04/27
-
-
-
-
-src :@wfwitness
-‏⚡️🇸🇦🇮🇷 Interception over Saudi Arabia.
-‏
-‏@wfwitness
-02:28
-1405/04/27
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏هجوم جديد في السعودية في ينبع حيث منشآت النفط الاستراتيجية.
@@ -1393,14 +1436,6 @@ src :@VahidOnline
 
 
 
-src :@Alibk3
-‏الله أكبر
-02:25
-1405/04/27
-
-
-
-
 src :@cataphract1
 ‏⚜شنیده شدن دو مورد انفجار در لرستان(خرم‌آباد)
 ‏
@@ -1411,24 +1446,8 @@ src :@cataphract1
 
 
 
-src :@Alibk3
-‏الله أكبر
-02:25
-1405/04/27
-
-
-
-
 src :@rnintel
 ‏🇮🇷🇸🇦⚡- Sirens at Prince Sultan Air Base, Saudi Arabia.
-02:25
-1405/04/27
-
-
-
-
-src :@Alibk3
-‏الله أكبر
 02:25
 1405/04/27
 
@@ -1519,14 +1538,6 @@ src :@P_raetorio
 
 src :@tabzlive
 ‏🇮🇷❌🇺🇸🇸🇦 — Alerts in Al-Kharj, location of Prince Sultan AB, Saudi Arabia.
-02:22
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏السعودية
 02:22
 1405/04/27
 
@@ -2185,34 +2196,9 @@ src :@MilitarryWorld
 
 
 
-src :@P_raetorio
-‏#فوری
-‏«چند نظامی آمریکایی در حمله روز‌های اخیر ایران به یک پایگاه هوایی در اردن زخمی شدند اما هیچکس کشته نشده است،میزان و سطح جراحات همچنان مشخص نیست»
-‏
-‏-شبکه خبری سی بی اس به نقل از یک مقام سنتکام
-‏
-‏@P_raetorio
-02:03
-1405/04/27
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- The US just struck three new bridges in the Hormozgan Province of southern Iran.
 02:02
-1405/04/27
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏#فوری
-‏گزارش‌های ا‌ولیه از حمله ارتش آمریکا به پل بندر‌عباس به سنت رودان
-‏
-‏@P_raetorio
-02:00
 1405/04/27
 
 
