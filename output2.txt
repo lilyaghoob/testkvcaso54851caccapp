@@ -1,3 +1,49 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷 - US airstrikes reported in Yazd, Fars Province.
+00:47
+1405/04/27
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴حملات هوایی آمریکا به شهر یزد، در مرکز ایران. این دورترین نقطه‌ای است که آمریکا از زمان پایان جنگ به آن حمله کرده است.
+‏
+‏@MilitarryWorld | Parsa
+00:47
+1405/04/27
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸🇮🇷⚡- BREAKING: US airstrikes on Yazd, central Iran. The furthest US has struck since the end of the war.
+00:47
+1405/04/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — Repeated explosions heard in Yazd, central Iran. Possible U.S. strikes.
+00:46
+1405/04/27
+
+
+
+
+src :@rnintel
+‏🇾🇪⚡- Ansarullah authorities have announced that Sana'a International Airport has been repaired and is once again operational, just two days after sustaining damage during the Saudi attacks.
+00:44
+1405/04/27
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️اسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی ایران، با انتشار پیامی در اکس، حملات پنجشنبه‌شب ایالات متحده به هرمزگان را محکوم کرد. بقایی در این پیام نوشت: «این روشی است که ایالات متحده تلاش می‌کند قدرت خود را به نمایش بگذارد. یعنی با حمله به زیرساخت‌های غیرنظامی.» او با اشاره به جزئیات این حملات افزود: «آمریکا شب گذشته در حملات به هرمزگان، با هدف قرار دادن پل‌ها و کشته‌شدن هشت ایرانی شامل چهار مرد و چهار زن، مرتکب جنایت جنگی دیگری شد.» سخنگوی وزارت خارجه در پایان گفت که ایران اکنون بیش از هر زمان دیگری مصمم است تا دشمنان خود را پشیمان کند.
@@ -195,7 +241,7 @@ src :@MilitarryWorld
 
 src :@VahidOnline
 [عکس]
-‏پیام‌های دریافتی:
+‏چند پیام دریافتی تایید نشده:
 ‏
 ‏۱۲:۳۰ اهواز رو زدن 
 ‏صدای انفجار ولی زیاد نزدیک نبود
@@ -1330,15 +1376,6 @@ src :@P_raetorio
 
 
 
-src :@naya_foriraq
-[عکس]
-‏من مرتفاعات خليفان التي تتواجد فيها قواعد الاحتلال الاميركي بمحافظة اربيل شمالي العراق.
-23:46
-1405/04/26
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷 Reports of an explosion heard in Andimeshk, Iran.
 ‏
@@ -1744,14 +1781,6 @@ src :@MilitarryWorld
 
 src :@Alibk3
 ‏دوي انفجار في بوشهر
-23:34
-1405/04/26
-
-
-
-
-src :@Alibk3
-‏دوي انفجار في سيريك الإيرانية
 23:34
 1405/04/26
 
@@ -2389,19 +2418,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇦⚡️ — President Trump says he is holding Canada responsible for failing to properly manage its forests, adding the U.S. is being “invaded by filthy, polluted, and unhealthy air” from the Canadian wildfires.
-‏
-‏➡️ He says he plans to call Canadian PM Carney today to ask “what they are going to do about it,” accusing Canada of “willful negligence” by refusing to carry out basic forest management and debris removal. 
-‏
-‏➡️ Trump added that the economic cost is “incalculable” and argued those costs should be added to the tariffs Canada is already paying.
-23:06
-1405/04/26
-
-
-
-
 src :@Mena_Live
 ‏Advisor to the Iranian Supreme Leader, Brigadier General Mohsen Rezai:
 ‏
@@ -2587,22 +2603,6 @@ src :@Indypersian
 ‏کارولین لویت، سخنگوی مطبوعاتی کاخ سفید، روز پنجشنبه اعلام کرد که قیمت کنونی نفت حدود ۸۰ دلار است و قیمت بنزین نیز نسبت به اوج این درگیری‌ها حدود ۶۰ سنت در هر گالن کاهش یافته است. او با تاکید بر شفافیت دولت، خاطرنشان کرد که برخلاف پیش‌بینی‌های بدبینانه مبنی بر جهش عظیم قیمت‌ها، بازار با اختلالات موقتی روبرو بوده است. با وجود این افزایش‌های اخیر، قیمت‌های فعلی همچنان با اوج ۱۱۴ دلاری در اردیبهشت‌ماه فاصله قابل‌توجهی دارند.
 ‏@indypersian
 22:53
-1405/04/26
-
-
-
-
-src :@rnintel
-‏🇮🇶🇮🇷 - Iran's attack on Iraq's Kurdistan region has now been ongoing for two hours.
-22:52
-1405/04/26
-
-
-
-
-src :@rnintel
-‏🇮🇶🇮🇷⚡- Continued explosions in Erbil, Iraq's Kurdistan region.
-22:52
 1405/04/26
 
 
@@ -4254,17 +4254,6 @@ src :@selena_updates
 
 src :@Mena_Live
 ‏❗️According to a statement from the Iranian army, the 65th Special Forces Brigade of the Iranian Army conducted 11 cross-border operations in Iraqi Kurdistan.  @Mena_Live
-19:18
-1405/04/26
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌🇷🇺 - The AFU has captured the village of Piddubne with media surfacing of Ukrainian forces operating in the southeastern part of the village confirming this.
-‏
-‏Fighting continues in Tolstoi and Myrne as the Ukrainian Military continues their offensive towards the western bank of the Mokri Yaly river.
 19:18
 1405/04/26
 
@@ -6521,22 +6510,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:47
-1405/04/26
-
-
-
-
-src :@DEJradio
-[عکس]
-‏⭕️🔺 کانال ۱۲ اسرائیل: آمریکا خود را برای تشدید حملات علیه جمهوری اسلامی آماده می‌کند
-‏
-‏کانال ۱۲ اسرائیل گزارش داد برآوردهای امنیتی اسرائیل نشان می‌دهد ایالات متحده احتمالاً از هفته آینده دامنه عملیات نظامی خود علیه جمهوری اسلامی را گسترش خواهد داد.
-‏بر اساس این گزارش، واشینگتن در حال تهیه بانک اهداف جدیدی است که نیروگاه‌ها، تأسیسات برق و دیگر زیرساخت‌های حیاتی جمهوری اسلامی را در بر می‌گیرد و هدف از آن، وارد کردن فشار بیشتر بر جمهوری اسلامی است.
-‏یک مقام ارشد اسرائیلی به کانال ۱۲ گفت اسرائیل خود را برای تشدید درگیری آماده کرده و برای هرگونه پیامد احتمالی بر امنیت این رژیم برنامه‌ریزی کرده است. با این حال، ارزیابی کنونی نهادهای امنیتی اسرائیل این است که رویارویی آمریکا و جمهوری اسلامی، دست‌کم در مقطع فعلی، به گسترش جنگ به اسرائیل منجر نخواهد شد.
-‏کانال ۱۲ همچنین به نقل از دو دیپلمات غربی گزارش داد قطر طرحی را برای کاهش تنش و ازسرگیری مذاکرات به آمریکا و جمهوری اسلامی ارائه کرده است. به گفته این منابع، جمهوری اسلامی در واکنش به این ابتکار، حملات خود به قطر را موقتاً متوقف کرده، اما هنوز چشم‌انداز روشنی برای ازسرگیری مذاکرات میان دو طرف وجود ندارد.
-‏این گزارش در حالی منتشر شده که وال‌استریت ژورنال نیز از بررسی گزینه‌های گسترده‌تر نظامی در کاخ سفید، از جمله حمله به زیرساخت‌های جدید، تصرف جزایر نزدیک تنگه هرمز و هدف قرار دادن تأسیسات زیرزمینی جمهوری اسلامی خبر داده است.
-‏
-‏#گزارش_خبری #رسانه_خارجی
-‏@DEJradio
-00:45
 1405/04/26
