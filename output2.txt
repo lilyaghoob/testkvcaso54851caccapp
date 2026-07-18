@@ -1,3 +1,114 @@
+src :@WAR_ROOM_NEWS
+‏بنابر گزارشات صدای دو انفجار در پایگاه موفق السلطی در اردن شنیده شد
+13:41
+1405/04/27
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Another Israeli airstrike targeted the town of Al Mansouri, southern Lebanon.  @wfwitness
+13:41
+1405/04/27
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷/🇯🇴 BREAKING: A renewed attack against Muwaffaq Salti Airbase in Jordan; multiple impacts reported
+‏
+‏@Middle_East_Spectator
+13:41
+1405/04/27
+
+
+
+
+src :@jangaavaran1390
+‏شرکت ملی نفت کویت اعلام کرد که حملات مکرر ایران به تاسیسات حیاتی بخش نفت، منجر به خسارت‌های مادی شده است.
+13:41
+1405/04/27
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 اثابت های چند ساعت پیش در اردن
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+13:41
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴شلیک ۲ موشک از خمین همین چند دقیقه پیش
+‏
+‏‎‌✍🏻 Dangerman
+‏▪️@World_Newsly
+13:41
+1405/04/27
+
+
+
+
+src :@wfwitness
+‏⚡️🇰🇼 The Kuwait Fire Force (KFF) said several firefighters and one worker were injured while responding to fires at two sites targeted in the latest attacks on Kuwait.  The KFF said five firefighting teams, supported by oil sector fire units, were deployed…
+13:40
+1405/04/27
+
+
+
+
+src :@Alibk3
+[عکس]
+‏غارة اسرائيلية تستهدف الجيش اللبناني في جنوب لبنان وإصابة ٢ من الجنود كحصيلة أولية
+13:39
+1405/04/27
+
+
+
+
+src :@MilitarryWorld
+‏🔴کارشناس صداوسیما: 
+‏
+‏به‌نظرم آمریکا در مواجهه با ایران کلا دو راه برایش مانده: بمب اتم یا حمله زیرساختی نابودکننده!
+‏
+‏@MilitarryWorld | Parsa
+13:39
+1405/04/27
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴شرکت نفت کویت: یک تاسیسات نفتی حیاتی در کویت امروز صبح مورد حملات مکرر از سوی ایران قرار گرفت.  پ.ن:ج.ا خودش داره جنگ زیرساختی رو به جاهای بد میکشونه
+13:38
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏الجيش الاردني يزعم التصدي لعدد من المسيرات
+13:38
+1405/04/27
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏My apologies sir, is there a problem with the war you ordered?
+13:38
+1405/04/27
+
+
+
+
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷/🇰🇼 BREAKING: Kuwait announces that Iran targeted and destroyed another water desalination plant; another powerplant was also targeted, sustaining damage  @Middle_East_Spectator
 13:37
@@ -34,7 +145,7 @@ src :@Alibk3
 src :@WAR_ROOM_NEWS
 ‏🔴شرکت نفت کویت: یک تاسیسات نفتی حیاتی در کویت امروز صبح مورد حملات مکرر از سوی ایران قرار گرفت.
 ‏
-‏پ.ن:ج.ا خودش داره جنگ زیرساخت‌ی رو به جاهای بد میکشونه
+‏پ.ن:ج.ا خودش داره جنگ زیرساختی رو به جاهای بد میکشونه
 13:35
 1405/04/27
 
@@ -50,7 +161,7 @@ src :@naya_foriraq
 
 
 src :@wfwitness
-‏⚡️🇯🇴🇮🇷Reports of explosions in Jordan.
+‏⚡️🇯🇴🇮🇷Reports of explosions at Al Azraq base, Jordan.
 ‏
 ‏@wfwitness
 13:35
@@ -771,29 +882,6 @@ src :@DEJradio
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴شلیک موشک از حوالی تبریز الان
-‏
-‏‎‌✍🏻 Dangerman
-‏▪️@World_Newsly
-13:08
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴شلیک موشک از تبریز/ارومیه
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-13:08
-1405/04/27
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇺🇸 🌞 🇮🇶 🇸🇾 — Iraq and Syria Revive Historic Kirkuk–Baniyas Oil Pipeline with US Backing
@@ -827,23 +915,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 13:06
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 عراق ۶۰ میلیارد دلار قرارداد انرژی با شرکت‌های آمریکایی امضا کرد
-‏
-‏🔹️ در نشست تجاری آمریکا-عراق، شرکت‌های انرژی غربی ده‌ها توافقنامه نفت، گاز و خطوط لوله با عراق امضا کردند. بغداد به دنبال تقویت روابط با واشنگتن و توسعه مسیرهای صادراتی جایگزین برای دور زدن تنگه هرمز است.
-‏
-‏🔹️ شورون قصد دارد در خط لوله‌ای از عراق به سواحل مدیترانه سوریه سرمایه‌گذاری کند. کونوکو فیلیپس نیز ۴۲ درصد سهام «بی‌پی انرژی کرکوک» را خریداری کرده و به بازسازی چهار میدان نفتی شمال عراق می‌پیوندد.
-‏
-‏🔹️ نخست‌وزیر عراق تأکید کرد بغداد از سیاست درهای باز برای جذب سرمایه‌گذاری استفاده می‌کند.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-13:05
 1405/04/27
 
 
@@ -1294,14 +1365,6 @@ src :@defence_news
 src :@WAR_ROOM_NEWS
 ‏صدای انفجار در اربیل عراق شنیده شده است
 12:13
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏انفجارات تهز محافظة أربيل شمال العراق
-12:08
 1405/04/27
 
 
@@ -4026,16 +4089,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇮🇷❌🇰🇼 — Kuwaiti Royal Army Air defenses are currently intercepting Iranian drone swarm attacks over the Emirate
 03:54
-1405/04/27
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇰🇼 NEW: Explosions and sirens in the micro-state of Kuwait
-‏
-‏@Middle_East_Spectator
-03:53
 1405/04/27
 
 
