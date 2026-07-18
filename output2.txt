@@ -1,3 +1,100 @@
+src :@P_raetorio
+‏⭕️فوری/وال استریت ژورنال:
+‏
+‏جنگنده های F35 ارتش آمریکا از بریتانیا به سمت خاورمیانه اعزام شدند
+01:10
+1405/04/28
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴اکنون تأیید شده است که  دو هلیکوپتر رزمی جستجو و نجات HH-60W Jolly Green II نیروی هوایی امریکا، در حمله موشکی بالستیک ایران به اردن آسیب دیده اند
+‏
+‏‎‌✍🏻 Dangerman
+‏▪️@World_Newsly
+01:10
+1405/04/28
+
+
+
+
+src :@World_Newsly
+‏🔴پرواز پهپادهای ایرانی در آسمان سلیمانیه در عراق
+‏
+‏‎‌✍🏻 Dangerman
+‏▪️@World_Newsly
+01:10
+1405/04/28
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇹🇷🇮🇷🛬 — Mahan Air Airbus A340-642 plane spotted arriving from 'Istanbul' in Tehran
+01:09
+1405/04/28
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴المیادین: مخالفت ها در آمریکا درمورد جنگ با ایران افزایش یافته.
+‏تعدادی از نمایندگان آمریکا، ترامپ و هگسث را مسئول مستقیم کشته شدن سربازان آمریکایی میدانند و قصد فشار بر ترامپ برای اتمام جنگ را دارند.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+01:09
+1405/04/28
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇸🇾🇱🇧 — Syrian media reports an Israeli airstrike targeted the Lebanese-Syrian border region near Tel Kelakh.
+01:08
+1405/04/28
+
+
+
+
+src :@BellumActaNews
+‏Drones heard in Sulaymaniyah Governorate, Kurdistan Region.
+‏
+‏@KurdishFrontReports
+01:07
+1405/04/28
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇺🇸🇦🇪✈️ — USAF KC-135R Stratotanker spotted over the Emirate of Dubai tonight
+‏
+‏@BellumActaNews
+01:07
+1405/04/28
+
+
+
+
+src :@World_Newsly
+‏🔴وال استریت ژورنال:
+‏
+‏جت های جنگی F35 ارتش آمریکا از بریتانیا به سمت خاورمیانه اعزام شدند.
+‏
+‏‎‌✍🏻 Dangerman
+‏▪️@World_Newsly
+01:07
+1405/04/28
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏روزنامه نیویورک تایمز به نقل از چند مقام آمریکایی نوشت حمله جمهوری اسلامی به اردن که جمعه به کشته شدن دو سرباز آمریکایی و مفقود شدن یک سرباز انجامید، چهارمین حمله به نیروهای آمریکایی در این کشور طی پنج روز گذشته بود.
@@ -19,7 +116,7 @@ src :@IranintlTV
 
 
 src :@wfwitness
-‏⚡️🇱🇧🇮🇱🇸🇾 Israeli airstrike targets the Lebanese Syrian border.
+‏⚡️🇱🇧🇮🇱🇸🇾 Israeli airstrike targets the Lebanese-Syrian border.
 ‏
 ‏@wfwitness
 01:06
@@ -1166,14 +1263,6 @@ src :@BellumActaNews
 
 
 
-src :@World_Newsly
-‏🔴 طبق گزارشات دقایقی پیش آمریکا پل سورمیچو که ایرانشهرو به چابهار متصل میکنه هدف قرار داد. ✍🏻 Hunter ▪️@World_Newsly
-00:18
-1405/04/28
-
-
-
-
 src :@MilitarryWorld
 ‏🔴نیویورک تایمز به نقل از مقامات آمریکایی: حمله ایران به اردن به تعدادی بالگرد آسیب رساند.
 ‏
@@ -1214,18 +1303,6 @@ src :@tabzlive
 ‏➡️ The second hit an eastern Jordanian base used by U.S. Black Hawk helicopters, damaging a significant number of them. Two days later, Iranian missiles struck Muwaffaq Salti Air Base in Azraq, injuring around 20 U.S. troops who rushed to take shelter in bunkers. 
 ‏
 ‏➡️ A follow-up attack on Friday at the Muwaffaq Salti Air Base killed two U.S. service members, left one missing, and injured four others.
-00:17
-1405/04/28
-
-
-
-
-src :@World_Newsly
-‏🔴وزارت امور خارجه آمریکا:
-‏
-‏شهروندان آمریکا در خاورمیانه، برای احتمال ایجاد اختلال در پروازها آماده باشند.
-‏‎‌✍🏻 Dangerman
-‏▪️@World_Newsly
 00:17
 1405/04/28
 
@@ -2547,14 +2624,6 @@ src :@thewarreporter
 
 
 
-src :@naya_foriraq
-‏وول ستريت جورنال عن مسؤولين أميركيين: إيران طوّرت أساليبها لتجاوز منظومات الدفاع الصاروخي الأميركية، وذلك عبر استخدام صواريخ تحلّق بسرعات فائقة للغاية وقادرة على المناورة خلال المرحلة النهائية من مسارها قبل الإصابة. هناك قلق من التحسن الملحوظ في دقة الضربات الإيرانية.
-23:13
-1405/04/27
-
-
-
-
 src :@cataphract1
 ‏⚜وال‌استریت ژورنال به نقل از مقام‌های آمریکایی گزارش داد که ایران در حال استفاده از موشک‌هایی با سرعت بسیار بالا و قابلیت مانور در مرحله پایانی پرواز است؛ موشک‌هایی که هنگام حرکت به سمت هدف، امکان تغییر مسیر دارند.
 ‏
@@ -3326,14 +3395,6 @@ src :@Americana_ir
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Explosions in Bandar Abbas, southern Iran.
-22:25
-1405/04/27
-
-
-
-
 src :@P_raetorio
 ‏#فوری
 ‏دولت آمریکا هشدار جدید سفر برای شهروندان آمریکایی در سراسر جهان به دلیل تحولات خاورمیانه صادر کرد!
@@ -3388,23 +3449,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 22:20
-1405/04/27
-
-
-
-
-src :@P_raetorio
-‏#فوری
-‏
-‏⭕️تلفات ارتش آمریکا به کاخ سفید رسیده و گزارش شده است که دونالد ترامپ،رئیس‌جمهور آمریکا بسیار عصبانی است.
-‏
-‏ترامپ دستور حمله‌ای قوی [علیه ایران] را برای ساعات آینده صادر کرده است.
-‏
-‏— رویترز 
-‏
-‏
-‏@P_raetorio
-22:19
 1405/04/27
 
 
@@ -3901,19 +3945,6 @@ src :@selena_updates
 
 
 
-src :@BellumActaNews
-‏🇮🇱📞🇺🇸❌🇮🇷 — Israeli Channel 13: Israel's defense establishment is preparing for the possibility of a major escalation in the region.
-‏
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-21:44
-1405/04/27
-
-
-
-
 src :@GeoPWatch
 ‏⚽️🇮🇱🇦🇷 — Netanyahu announced that he supports Argentina in the World Cup.
 ‏
@@ -3932,19 +3963,6 @@ src :@rnintel
 
 
 
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷 — New wave of US Retaliatory strikes in Iran began, with strikes reported in Sirik, Hormozgan province
-‏
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-21:39
-1405/04/27
-
-
-
-
 src :@militaryinpersian
 ‏رویترز : ترامپ از کشته شدن سربازانش بسیار عصبانی و خمشگین شده است.
 ‏
@@ -3953,19 +3971,6 @@ src :@militaryinpersian
 ‏
 ‏👑 @Fighter_Radar
 21:39
-1405/04/27
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸🇸🇦🛬 — A US Air Force Lockheed C-5 Galaxy cargo plane, designed for carrying heavy amounts of weaponry and equipment, is landing in Saudi Arabia as now 
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-21:38
 1405/04/27
 
 
