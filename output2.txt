@@ -1,3 +1,40 @@
+src :@World_Newsly
+‏🔴سی بی اس نیوز تایید کرد چند سرباز آمریکایی در حملات ایران در اردن زخمی شدن
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+04:21
+1405/04/27
+
+
+
+
+src :@MilitarryWorld
+‏🔴بندرعباس رو دوباره زدن
+‏
+‏@MilitarryWorld | Parsa
+04:20
+1405/04/27
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Airstrikes on Bandar Abbas.
+04:20
+1405/04/27
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Reports of new explosions in Bandar Abbas, Iran.  @wfwitness
+04:18
+1405/04/27
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏مشاهد من تصاعد أعمدة في مقرات المعارضة الإيرانية الإرهابية في السليمانية.
@@ -862,17 +899,6 @@ src :@P_raetorio
 
 
 
-src :@World_Newsly
-‏🔴لارک همچنان زیر بمباران سنگین
-‏
-‏‌✍🏻 A$
-‏▪️@World_Newsly
-03:23
-1405/04/27
-
-
-
-
 src :@P_raetorio
 ‏گزارشات حاکی از انفجار در جزیره خارک
 ‏
@@ -906,17 +932,6 @@ src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Reports of renewed explosions on Kharj Island, Iran.
 ‏
 ‏@wfwitness
-03:21
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴گزارش هایی از انفجار در لرستان
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 03:21
 1405/04/27
 
@@ -3651,14 +3666,6 @@ src :@mohem_mat
 ‏
 ‏
 ‏@sharghdaily
-23:41
-1405/04/26
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - Airstrikes reported in Ahvaz.
 23:41
 1405/04/26
 
