@@ -1,3 +1,104 @@
+src :@World_Newsly
+‏🔴ارتش اردن: ۴ فروند پهپاد که وارد فضای هوایی پادشاهی شده بودند، منهدم شدند.
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+13:31
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴 رویترز: کویت یکی از بدترین شب‌های خود را از زمان آغاز درگیری در خاورمیانه به دلیل حملات انتقامی ایران پشت سر گذاشت؛ دومین نیروگاه برق ظرف دو روز هدف قرار گرفت و پروازها تعلیق شدند.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+13:30
+1405/04/27
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ارتش اردن تائید کرد که طی حمله ایران پایگاه موفق السلطی در اردن هدف قرار گرفته است و اعلام کرد که ۴ پهپاد را رهگیری کرده است
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+13:30
+1405/04/27
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Image from the town of Mansouri following the Israeli airstrike.  The airstrike targeted greenhouses used for agriculture.  @wfwitness
+13:30
+1405/04/27
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷/🇰🇼 BREAKING: Kuwait announces that Iran targeted and destroyed another water desalination plant; another powerplant was also targeted, sustaining damage
+‏
+‏@Middle_East_Spectator
+13:29
+1405/04/27
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli artillery shelling on the occupied town of Baraachit within the security zone of southern Lebanon.  @wfwitness
+13:29
+1405/04/27
+
+
+
+
+src :@Alibk3
+‏يبدو أنّ الصواريخ استهدفت الأردن ..
+13:29
+1405/04/27
+
+
+
+
+src :@rnintel
+‏🇺🇸🇯🇴🇮🇷⚡️- Reports of air defences being activated in Jordan and Kuwait.
+13:28
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏هجوم بالمسيرات يستهدف القاعدة الامريكية
+13:27
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز الاردن
+13:27
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏انباء اولية عن سماع دوي انفجارات في الكويت والاردن
+13:27
+1405/04/27
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 Image from the town of Mansouri following the Israeli airstrike.  The airstrike targeted greenhouses used for agriculture.  @wfwitness
@@ -87,6 +188,8 @@ src :@rnintel
 
 src :@WAR_ROOM_NEWS
 ‏🔴اخبار اولیه از انفجارهایی در کویت و اردن
+‏
+‏🆔@WAR_ROOM_NEWS
 13:23
 1405/04/27
 
@@ -412,7 +515,7 @@ src :@P_raetorio
 
 src :@tabzlive
 [عکس]
-‏🇮🇷❌🇺🇸 — Iranian ballistic missile launches from Khomeyn, west-central Iran.
+‏🇮🇷❌🇺🇸 — Reports of Iranian ballistic missile launches from Khomeyn, west-central Iran.
 13:14
 1405/04/27
 
@@ -670,17 +773,6 @@ src :@Alibk3
 [عکس]
 ‏رصد إطلاق صاروخين من إيران
 13:03
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش شلیک موشک از لرستان
-‏
-‏‎‌✍🏻 Dangerman
-‏▪️@World_Newsly
-13:02
 1405/04/27
 
 
@@ -1517,14 +1609,6 @@ src :@wfwitness
 
 
 
-src :@naya_foriraq
-‏🔻🇮🇷مراسل نايا: دوي الانفجارات في مدينة مهران ناتج عن تفجير ذخائر حربية
-11:38
-1405/04/27
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇶🇸🇾⚡️ — Iraq, Syria, and the U.S. are planning to revive the historic 500-mile Kirkuk-Baniyas oil pipeline to Syria's Mediterranean coast as part of efforts to reduce reliance on energy routes through the Strait of Hormuz, according to Middle East Eye.…
@@ -1714,25 +1798,6 @@ src :@mohem_mat
 ‏رسانه‌های رژیم صهیونیستی مدعی شدند که این انفجارها در پی شلیک موشک‌هایی از جنوب لبنان به سمت این منطقه رخ داده است.
 ‏@TasnimNews
 11:23
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏🔻الحرس الثوري الإيراني موجهاً رسالة للشعب الأردني والجنود.
-‏
-‏أيها الشعب الأردني الكريم والجنود الأشاوس؛
-‏كما أدهشت استمرار تواجد الشعب الإيراني في الشوارع لمدة 140 يومًا لدعم الثورة الإسلامية العالم، فإن استمرار ردود أفعال مقاتلي الإسلام، التي تواكبها معونات إلهية وتحقق نجاحًا حاسمًا، قد أذهل العدو وأدخله في حالة من الارتباك والهزيمة، ودفعته إلى الانسحاب من ساحة المعركة واللجوء إلى جرائم حرب وعمليات غير إنسانية ضد المراكز والمؤسسات المدنية.
-‏
-‏الجيش الأمريكي القاتل للأطفال يحاول إخفاء هزيمته في الحرب المباشرة مع قواتنا المسلحة من خلال مهاجمة المستشفيات والجسور والسكك الحديدية والموانئ والمطارات وقتل المدنيين.
-‏
-‏في فجر اليوم، ردًا على أعمال الشر التي ارتكبها العدو الأمريكي الليلة الماضية، أطلق مقاتلو القوة الجوية التابعة لحرس الثورة الإسلامية عملية "نصر 2" تحت شعار "يا أبو الفضل العباس (ع)"، حيث شنوا هجومًا صاروخيًا وطائرات مسيرة مكثفًا ومتزامنًا على مواقع طائرات مقاتلة ومنصة إطلاق كبيرة في قاعدة أمريكية في الأزرق بالأردن، مما أدى إلى تدمير كامل على الأقل طائرتين وثلاث طائرات أمريكية، وإلحاق أضرار جسيمة بعدد آخر منها.
-‏
-‏الآن، حان دوركم أيها الشعب الأردني الكريم والجنود الأشاوس. وفقًا لفتاوى جميع علماء الإسلام من جميع المذاهب والطوائف، فإن الجنود الكافرين المهاجمين للأراضي الإسلامية دمهم مباح.
-‏
-‏ الآن، الجيش الأمريكي الذي دم القتلة، والذي قتل مئات الآلاف من المسلمين في أفغانستان، ومئات الآلاف من المسلمين في العراق، والآلاف من المسلمين في إيران، واليمن، ولبنان، وليبيا، والسودان، والفلبين، وفلسطين، هم في متناول أيديكم، وتقتضي واجباتكم الدينية والإنسانية أن تقضوا عليهم بأي وسيلة، وأن تطهروا الأرض المقدسة الأردن من قتلة المسلمين الأبرياء.
-11:20
 1405/04/27
 
 
@@ -1991,18 +2056,6 @@ src :@Alibk3
 
 
 
-src :@IranintlTV
-[عکس]
-‏فرزانه صادق، وزیر راه و شهرسازی، گفت: «جنگ امروز، جنگ کریدورهاست و دشمن می‌خواهد ایران را نه تنها در داخل کشور به بن‌بست برساند، بلکه ارتباطات ما را با سایر کشورها قطع کند.» 
-‏
-‏او ادامه داد: «ما وظیفه داریم به سرعت این ویرانی‌ها را مرمت کنیم.»
-‏ iranintl.com/202607184435
-11:00
-1405/04/27
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏⚡️طرح جدید دولت استرالیا: شهروندان روزانه ۳ ساعت برق رایگان دریافت می‌کنند
@@ -2145,14 +2198,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-‏⚡️🇧🇭🇮🇷 Sirens in Bahrain
-10:52
-1405/04/27
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🛩️🔥 در حملات آمریکا دهانه «تونل شهید میرزایی» (گلوگاه) در مسیر رفت و برگشت مسدود شد. دو پل بعد از گلوگاه و پل رفت سه راهی میناب نیز بمباران شده است. پل رودخانه شور در مسیر بندرعباس به سیرجان نیز تخریب شد.
@@ -2171,21 +2216,6 @@ src :@cataphract1
 ‏⚜ آژیر خطر در بحرین 
 ‏
 ‏📃@Cataphract1
-10:51
-1405/04/27
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇰🇼Kuwaiti Energy Ministry said another power generation and desalination plant came under attack on Saturday, causing a fire and forcing the precautionary shutdown of several generating units to protect workers and maintain grid stability.
-‏
-‏It urged residents to conserve electricity between 11:00 a.m. and 5:00 p.m. as repairs continue.
-‏
-‏According to Al-Monitor, Kuwait operates eight major desalination plants, which provide around 90% of the country’s drinking water. This marks the second reported attack on a Kuwaiti desalination plant in two days.
-‏
-‏@wfwitness
 10:51
 1405/04/27
 
@@ -2920,28 +2950,10 @@ src :@BellumActaNews
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏پرتاب ۳ تیر موشک بالستیک از پایگاه موشکی جم در بوشهر به سمت پایگاه آمریکا در منطقه
-09:02
-1405/04/27
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏الطائرات تتجنب دخول أجواء الكويت بسبب استمرار الهجمات.
 09:01
-1405/04/27
-
-
-
-
-src :@Alibk3
-[عکس]
-‏إطلاق صواريخ إيرانية نحو قواعد أميركية في المنطقة
-08:59
 1405/04/27
 
 
@@ -4081,16 +4093,6 @@ src :@BellumActaNews
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇧🇭 BREAKING: Sirens in Bahrain
-‏
-‏@Middle_East_Spectator
-03:17
-1405/04/27
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇯🇴 - Impacts in Jordan.
 03:00
@@ -4364,14 +4366,6 @@ src :@rnintel
 src :@OSINTWarfare
 [عکس]
 ‏Ballistic missile launches from Tabriz and Khorramabad toward Jordan.
-02:18
-1405/04/27
-
-
-
-
-src :@rnintel
-‏🇮🇷⚡- Ballistic missile launches from Iran.
 02:18
 1405/04/27
 
@@ -5686,20 +5680,6 @@ src :@Mena_Live
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏به‌دنبال حملات سنگین شامگاه پنجشنبه ۲۵تیر۱۴۰۵ به مناطقی در خوزستان و هرمزگان‌، «امیرحسین ثابتی» عضو جبهه پایداری و نماینده مردم تهران در مجلس شورای نظامی مدعی شد این حملات، احتمالا «مقدمه حمله زمینی آمریکا» به جزایر جنوب ایران است.
-‏
-‏سنتکام مرکز فرماندهی نظامی ایالات متحده اعلام کرده است که در ششمین شب از حملات هوایی خود به جنوب ایران، سامانه‌های دیده‌بانی ساحلی، پدافند هوایی، زیرساخت‌های لجستیکی نظامی و توانمندی‌های دریایی ایران را هدف قرار داده است
-‏بخوانید: iranwire.com/fa/news-1/155099
-‏
-‏@Farsi_Iranwire
-19:16
-1405/04/26
-
-
-
-
 src :@Mena_Live
 ‏❗️According to a statement from the Iranian army, the 65th Special Forces Brigade of the Iranian Army conducted 11 cross-border operations in Iraqi Kurdistan.
 ‏
@@ -6452,14 +6432,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/04/26/405121/
 13:31
-1405/04/26
-
-
-
-
-src :@warmonitors
-‏⚡️ Kuwait says Iran attacked a power and water desalination plant, causing widespread damage to the station
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:27
 1405/04/26
