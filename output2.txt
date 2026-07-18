@@ -1,3 +1,45 @@
+src :@World_Newsly
+‏🔴 وقوع انفجارهایی در سلیمانیه عراق و نزدیکی پایگاه هوایی عیسی در بحرین
+‏
+‏- برخاستن ستون‌های دود در بخش‌هایی از سلیمانیه عراق 
+‏
+‏✍🏻 NORTH VECTOR
+‏▪️@World_Newsly
+16:11
+1405/04/27
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸🇰🇼 — Satellite images show that the Shuaiba North Power Station in Kuwait sustained severe damage following Iranian attacks.
+‏
+‏@GeoPWatch
+16:09
+1405/04/27
+
+
+
+
+src :@Alibk3
+[عکس]
+‏ارتفاع اعمدة الدخان في محافظة السليمانية العراقية
+16:09
+1405/04/27
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏Al-Mayadeen W
+16:08
+1405/04/27
+
+
+
+
 src :@Alibk3
 ‏ارتفاع اعمدة الدخان في محافظة السليمانية العراقية
 16:07
@@ -618,14 +660,6 @@ src :@P_raetorio
 
 
 
-src :@naya_foriraq
-‏دوي انفجارات بمنطقة الميناء بالكويت
-15:30
-1405/04/27
-
-
-
-
 src :@P_raetorio
 ‏«دشمن بزدل آمریکایی تصمیم‌گرفت جنگی از هیچوقت پایان نیافته بود را از سر بگیرد و بجا انچه شایسته یک ارتش است پل‌ها بیمارستان‌ها،فرودگاه‌ها و تونل های ایران را هدف قرار دهد،حال کشورهایی که نیروهای آمریکایی را در خاک خود مستقر کرده و آن را برای حمله به ایران آماده کرده‌اند، باید برای پاسخ متناسب آماده باشند، نیروهای دفاع مدنی خود را هوشیار کنند و با دور کردن مردم از مناطق مورد حمله احتمالی، اقداماتی را برای محافظت از آنها انجام دهند.»
 ‏
@@ -1220,19 +1254,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 15:06
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 فوری/العربیه، یک مقام آمریکایی:
-‏
-‏ترامپ به ایران فرصتی داد تا تصمیمات درستی بگیرد، اما آنها تصمیمات اشتباهی را انتخاب کردند و عواقب سختی به زودی خواهد آمد.
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-15:05
 1405/04/27
 
 
@@ -2227,19 +2248,6 @@ src :@DEJradio
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇰🇼 Kuwait Petroleum Corporation:
-‏
-‏‘One of the vital sites in the oil sector was subjected this morning to repeated brutal Iranian attacks, resulting in a number of injuries and significant material losses.’
-‏
-‏@Middle_East_Spectator
-13:47
-1405/04/27
-
-
-
-
 src :@mwarmonitor
 ‏🔴شرکت ملی نفت کویت اعلام کرد حملات مکرر ایران به تأسیسات حیاتی بخش نفت این کشور، موجب مجروح شدن افراد و وارد شدن خسارات مادی شده است. — الجزیره
 ‏
@@ -2435,14 +2443,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 13:30
-1405/04/27
-
-
-
-
-src :@Alibk3
-‏يبدو أنّ الصواريخ استهدفت الأردن ..
-13:29
 1405/04/27
 
 
@@ -5000,14 +5000,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇯🇴 - Interceptions above Jordan.
-02:24
-1405/04/27
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸 FIFA President Infantino tells President Trump the World Cup "would not have been such an incredible success" without him.
 ‏
@@ -5071,14 +5063,6 @@ src :@BellumActaNews
 
 src :@BellumActaNews
 ‏🇺🇸🇺🇸❌🇮🇷 — Iranian channels report that USAF Fighter jets started to bomb not just bridges, but also tunnels  According to reports, over the past minutes, the Shahid Mirzai tunnel, used for both directions of traffic, is blocked due to USAF attacks.  The bridge…
-02:11
-1405/04/27
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸🇯🇴  - Iran attacked at least two Jordanian bases this week, resulting in several American service members being injured in the attack after their facility was struck, multiple U.S. officials told CBS News.
 02:11
 1405/04/27
 
