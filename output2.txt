@@ -1,16 +1,37 @@
-src :@World_Newsly
-‏🔴صدای آژیر و انفجار در کویت
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-05:31
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇷/🇯🇴 Insane footage of Iranian missiles slamming into Jordan  @Middle_East_Spectator
+05:37
 1405/04/27
 
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇰🇼 — Shahed-136 UAV activity heard on Kuwait intel cams.
+src :@Middle_East_Spectator
+‏—❗️🇮🇷/🇧🇭 NEW: Sirens and explosions in Bahrain
+‏
+‏@Middle_East_Spectator
+05:36
+1405/04/27
+
+
+
+
+src :@Minas_Tirith2024
+‏هشدار حملات پهپادی در کویت 
+‏
+‏@Minas_Tirith2024
+05:32
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴صدای آژیر و انفجار در کویت
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
 05:31
 1405/04/27
 
@@ -642,14 +663,6 @@ src :@Minas_Tirith2024
 
 src :@naya_foriraq
 ‏إنفجارات عنيفة و‏دوي صفارات الإنذار في البحرين
-04:58
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴 انفجار در جاسک  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
 04:58
 1405/04/27
 
@@ -1529,15 +1542,6 @@ src :@MilitarryWorld
 src :@naya_foriraq
 ‏إستهداف قواعد الأمريكان في الأردن من زاوية أخرى
 03:28
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏انفجارات عنيفة تهز البحرين وصافرات الانذار تدوي
-03:25
 1405/04/27
 
 
@@ -2675,16 +2679,6 @@ src :@intelslava
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇮🇷 BREAKING: Ballistic missile launches from Iran; seems like a large wave; Tabriz, Urmia, Khorammabad
-‏
-‏@Middle_East_Spectator
-02:18
-1405/04/27
-
-
-
-
 src :@BellumActaNews
 ‏🇺🇸🇺🇸❌🇮🇷 — Mehr News Agency: Moments ago, the Shahid Mirzai tunnel, a major transportation route between Hajiabad and Bandar Abbas, was heavily bombarded, and the tunnel has been completely destroyed and collapsed in both directions.  ➖➖➖➖➖➖➖➖ 💧 Rainbet.com…
 02:18
@@ -3599,17 +3593,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، رهبر جمهوری اسلامی، روز جمعه و همزمان با آغاز هفتمین شب حملات آمریکا علیه اهداف نظامی در ایران، با انتشار پیامی در اکس با تاکید بر اینکه «سیاست هم مذاکره هم جنگ تمام شد» نوشت: «اگر آمریکا طی ۲-۳ روز آینده جنگ را ادامه دهد، وارد مرحلهٔ «تهاجم و انهدام کامل» دشمن خواهیم شد. در صورت فعال‌سازی این راهبرد دیگر به مقابله‌به‌مثل اکتفا نمی‌کنیم و هیچ مرز سیاسی در مقابل نیروهای تهاجمی ایران امنیت نخواهد داشت.»
-‏
-‏@IndyPersian
-00:31
-1405/04/27
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏برخی رسانه‌ها در ایران گزارش‌هایی از شنیده شدن صدای چند انفجار در بوشهر، قشم و سیریک در جنوب ایران منتشر کرده‌اند.
@@ -3642,16 +3625,6 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #ilia
 00:22
-1405/04/27
-
-
-
-
-src :@Minas_Tirith2024
-‏بمباران سنگین در شهر لار استان فارس گزارش شده است
-‏
-‏@Minas_Tirith2024
-00:19
 1405/04/27
 
 
@@ -4046,14 +4019,6 @@ src :@tglobaleye
 src :@jangaavaran1390
 ‏از قرار انفجار در سیریک گزارش می شود
 23:37
-1405/04/26
-
-
-
-
-src :@Minas_Tirith2024
-‏اخباری مبنی بر وقوع انفجارهایی در مناطق سیریک ،قشم ،بوشهر و بندرعباس به گوش میرسد.
-23:36
 1405/04/26
 
 
