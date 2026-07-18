@@ -1,6 +1,28 @@
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — More footage from the ongoing Russian missile attack on Kyiv.
+03:04
+1405/04/28
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏☪ نيويورك تايمز، نقلًا عن مسؤولين أميركيين:  الهجوم الإيراني في الأردن ألحق أضراراً بعدد من المروحيات.
+03:02
+1405/04/28
+
+
+
+
+src :@World_Newsly
+‏🔴 ادعای انهدام یک جنگنده اف-۱۵ئی در پایگاه موفق‌السلطی اردن
+‏
+‏یک منبع مدعی شده است که در پی حمله ایران به پایگاه هوایی موفق‌السلطی در اردن، یک فروند جنگنده F-15E منهدم شده است.
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
 03:02
 1405/04/28
 
@@ -759,6 +781,9 @@ src :@VahidOnline
 ‏
 ‏صدای عبور جنگنده در بهبهان شنیده شد ولی تا این لحظه هیچ  صدای انفجاری من که ساکن شهرم نشنیده‌ام.
 ‏
+‏خبرگزاری مهر:
+‏برخلاف فضاسازی رسانه‌های ضدانقلاب، تاکنون هیچگونه حمله و بمبارانی‌ در بهبهان صورت نگرفته است. 
+‏
 ‏📡 @VahidOnline
 02:28
 1405/04/28
@@ -769,17 +794,6 @@ src :@VahidOnline
 src :@World_Newsly
 ‏🔴 گزارش های تایید نشده از انفجار در قم  ✍🏻 Desert Eagle ▪️@World_Newsly
 02:27
-1405/04/28
-
-
-
-
-src :@World_Newsly
-‏🔴گزارش انفجار در بروجن در چهارمحال بختیاری
-‏
-‏‎‌✍🏻 Dangerman
-‏▪️@World_Newsly
-02:26
 1405/04/28
 
 
@@ -4220,18 +4234,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 22:58
-1405/04/27
-
-
-
-
-src :@intelslava
-‏🇺🇦❌🇷🇺 — The Ukrainian army carried out 69 attacks on Russia’s borderline Belgorod Region in the past day, killing a civilian and injuring three others, Acting Governor Alexander Shuvayev said.
-‏
-‏▶️According to him, air defenses shot down 169 drones over the region in the past 24 hours, while Ukrainian forces also carried out three artillery strikes.
-‏
-‏@IntelSlava
-22:49
 1405/04/27
 
 
