@@ -1,7 +1,117 @@
+src :@Alibk3
+[ویدئو]
+‏سماء الاردن
+06:42
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+06:41
+1405/04/27
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇧🇭 — Large-scale attack ongoing against Bahrain. Repeated explosions heard in the timespan of one minute.
+06:40
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز البحرين
+06:40
+1405/04/27
+
+
+
+
+src :@Alibk3
+[عکس]
+‏موجة صواريخ جديدة تنطلق من إيران.
+06:39
+1405/04/27
+
+
+
+
+src :@Alibk3
+‏دوي 6 انفجارات في البحرين
+06:39
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏🔴 هم‌اکنون: گزارش‌ها از شلیک سه موشک از استان بوشهر حکایت دارد.
+‏
+‏✍🏻 NORTH VECTOR
+‏▪️@World_Newsly
+06:39
+1405/04/27
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏3 missiles reportedly launched from Bushehr Province at 06:35 local time /  0305Z
+‏(Via: @Vahid)
+‏Bushehr Province, #Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏3 فروند موشک بنا بر گزارش‌ها از استان بوشهر در ساعت ۰۶:۳۵ به وقت محلی / ۰۳۰۵ زولو (۰۶:۳۵ به وقت تهران) پرتاب شد
+‏(از طریق: Vahid@)
+‏استان بوشهر، #ایران
+‏
+‏𝕏  ·  @shin_persian
+06:39
+1405/04/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷❌🇺🇸 — Ballistic missile launches from Bushehr Province.
+06:38
+1405/04/27
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇹🇭🇰🇭 A Thai soldier was injured after stepping on a landmine near the Cambodian border in Kantharalak, Sisaket Province. Thailand says the mine is suspected to be an old one that didn’t fully detonate.   @wfwitness
+06:38
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏موجة صواريخ تنطلق من إيران
+06:37
+1405/04/27
+
+
+
+
 src :@VahidOnline
 [عکس]
-‏شلیک موشک از استان بوشهر
-‏
+‏شلیک سه موشک از استان بوشهر
+‏ساعت ۶:۳۵
+‏بنا بر پیام‌‌های دریافتی ساعت 
 ‏📡 @VahidOnline
 06:36
 1405/04/27
@@ -10,6 +120,7 @@ src :@VahidOnline
 
 
 src :@naya_foriraq
+[عکس]
 ‏🔻مصدر أردني لنايا: وقوع عدة إصابات في صفوف القوات الأمريكية نتيجة الهجوم الصاروخي الإيراني الذي طال قاعدة موفق السلطي بالأردن.
 06:36
 1405/04/27
@@ -898,15 +1009,6 @@ src :@naya_foriraq
 
 
 
-src :@Alibk3
-[عکس]
-‏الضربات الإيرانية في قاعدة موفق السلطي بالأردن
-05:24
-1405/04/27
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏لحظه اصابت موشک ایرانی به پایگاه آمریکایی موفق السلطی در اردن از زاویه‌ای دیگر.
@@ -924,26 +1026,6 @@ src :@World_Newsly
 ‏✍🏻 NORTH VECTOR
 ‏▪️@World_Newsly
 05:18
-1405/04/27
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القوات الأميركية تواصل إجلاء الأصول من الشرق الأوسط خشيةً من تعرضها لضربات إيرانية.
-05:16
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴شهیر شهیدثالث، تحلیلگر سیاسی، در گفت‌وگو با تلویزیون صدای آمریکا اظهار کرد جمهوری اسلامی ممکن است تا مرز سقوط پیش برود، اما تنگه هرمز را به آمریکا واگذار نخواهد کرد و حملات آمریکا نیز تغییری در این واقعیت ایجاد نمی‌کند.
-‏
-‏✍🏻 NORTH VECTOR
-‏▪️@World_Newsly
-05:16
 1405/04/27
 
 
@@ -1105,14 +1187,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏إطلاق صواريخ من الأراضي الكويتية تجاه الجمهورية الإسلامية الإيرانية
-05:00
-1405/04/27
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی:
 ‏انفجار شدید همین الان خرم آباد
@@ -1189,14 +1263,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@naya_foriraq
-‏إنفجارات عنيفة و‏دوي صفارات الإنذار في البحرين
-04:58
-1405/04/27
-
-
-
-
 src :@intelslava
 ‏🇮🇷❌🇧🇭🇺🇸 — Sirens are sounding in Bahrain.
 ‏
@@ -1210,14 +1276,6 @@ src :@intelslava
 src :@tabzlive
 ‏🇮🇷❌🇺🇸🇧🇭 — Sirens in Bahrain.
 04:58
-1405/04/27
-
-
-
-
-src :@naya_foriraq
-‏إنفجارات عنيفة و‏دوي صفارات الإنذار في البحرين
-04:57
 1405/04/27
 
 
@@ -1365,14 +1423,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇺🇸⚡️ — U.S. Department of State calls on Americans to reconsider travel to West Asia due to a "complex" security environment with the "potential for unforeseen escalation".
-04:31
-1405/04/27
-
-
-
-
 src :@Minas_Tirith2024
 ‏⚜به گزارش آکسیوس به نقل از یک مقام آمریکایی، ایران یک موشک بالستیک به سمت یک پایگاه نظامی آمریکا در عربستان سعودی شلیک کرده است.
 ‏
@@ -1412,15 +1462,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@P_raetorio
 04:29
-1405/04/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — U.S. Department of State calls on Americans to reconsider travel to West Asia due to a "complex" security environment with the "potential for unforeseen escalation".
-04:27
 1405/04/27
 
 
@@ -1717,17 +1758,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇰🇼🇮🇷 Alerts have been activated in Kuwait.
-‏
-‏@wfwitness
-03:52
-1405/04/27
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -1739,15 +1769,6 @@ src :@Shin_Persian
 ‏پدافند هوایی کویت در حال رهگیری حملات پهپادی متخاصم به دنبال تجاوز شریرانه ایران است. ستاد کل هشدار می‌دهد که هرگونه صدای انفجار شنیده شده ناشی از رهگیری‌هاست. دستورالعمل‌های ایمنی را دنبال کنید. #کویت 🇰🇼
 ‏
 ‏𝕏  ·  @shin_persian
-03:52
-1405/04/27
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 The town of Mansouri was subjected to two airstrikes.  @wfwitness
 03:52
 1405/04/27
 
@@ -1781,15 +1802,6 @@ src :@Middle_East_Spectator
 ‏— 🇺🇸/🇮🇷 Senior U.S. Official: ‘We believe Iran is running out of missiles, which is why they’ve increased the amount of ballistic missiles fired at Gulf states in recent days to give the impression they’re in a good position’
 ‏
 ‏@Middle_East_Spectator
-03:45
-1405/04/27
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli airstrikes on southern Lebanon.  @wfwitness
 03:45
 1405/04/27
 
@@ -2865,29 +2877,6 @@ src :@P_raetorio
 ‏گزارش‌های اولیه از حمله به پایگاه موشکی امام علی خرم آباد
 ‏
 ‏@P_raetorio
-02:21
-1405/04/27
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏National Early Warning Platform issues emergency alert in Al-Kharj Governorate warning of danger; follow instructions. #KSA 🇸🇦
-‏
-‏Source: @SaudiDCD
-‏https://x.com/SaudiDCD/status/2078251197891281200
-‏
-‏ترجمه خودکار فارسی
-‏
-‏سامانه ملی هشدار زودهنگام در استان الخرج اعلام وضعیت اضطراری کرده و نسبت به وجود خطر هشدار می‌دهد؛ دستورالعمل‌ها را دنبال کنید. #عربستان 🇸🇦
-‏
-‏منبع: @SaudiDCD
-‏https://x.com/SaudiDCD/status/2078251197891281200
-‏
-‏𝕏  ·  @shin_persian
 02:21
 1405/04/27
 
