@@ -1,3 +1,99 @@
+src :@MilitarryWorld
+‏🔴 آسوشیتدپرس: 
+‏
+‏از زمان آغاز جنگ با ایران در فوریه گذشته، ۱۶ سرباز آمریکایی کشته و بیش از ۴۳۰ نفر دیگر زخمی شدند
+‏
+‏@MilitarryWorld | Parsa
+22:07
+1405/04/27
+
+
+
+
+src :@Middle_East_Spectator
+‏Someone made a bot that forwards all MES posts but removes my personal commentary and opinions
+‏
+‏I don’t know whether to take this as a compliment or an insult 😂
+22:07
+1405/04/27
+
+
+
+
+src :@mwarmonitor
+‏📰 آسوشیتدپرس: از زمان آغاز جنگ با ایران در فوریه گذشته، ۱۶ نیروی نظامی آمریکایی کشته و بیش از ۴۳۰ نفر دیگر زخمی شده‌اند.
+‏
+‏@mwarmonitor
+22:07
+1405/04/27
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱🇮🇷 — The Israeli defense establishment is preparing for the possibility of a significant escalation in the region.
+‏
+‏— Israeli i24 News | @TheWarReporter
+22:05
+1405/04/27
+
+
+
+
+src :@mohem_mat
+‏توئیت پزشکیان در واکنش به نامه امشب رهبر: 
+‏
+‏پیام حکیمانه و وحدت آفرین رهبر عالی‌قدر انقلاب اسلامی و حمایت ایشان از سران سه قوه و مسئولان کشور مهم‌ترین پشتوانه و سرمایه در جهت صیانت از منافع ملی و سربلندی ایران اسلامی است. پایبندی به لوازم اتحاد مقدس و پرهیز از اختلاف و تفرقه رمز پیروزی در این بزنگاه تاریخی است
+‏
+‏@mohem_mat
+22:05
+1405/04/27
+
+
+
+
+src :@naya_foriraq
+‏الاعلام الاميركي: 16 عسكريا أمريكيا قتلوا وأصيب أكثر من 430 آخرين منذ اندلاع الحرب مع إيران في فبراير الماضي.
+22:05
+1405/04/27
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇱 Israel's defense establishment is preparing for the possibility of a major regional escalation.
+‏
+‏@BRICSNews
+22:04
+1405/04/27
+
+
+
+
+src :@ClashReport
+‏Ukrainian UAVs hit the largest order-processing hub of Wildberries, Russia's biggest e-commerce retailer, in the Moscow region.
+22:03
+1405/04/27
+
+
+
+
+src :@thewarreporter
+‏🏆🇦🇷🇮🇱 — Israeli PM Netanyahu met with Shimon Axel Wahnish, the Argentine ambassador to Israel, and expressed his support for Argentina ahead of tomorrow's World Cup final match against Spain.  @TheWarReporter
+22:03
+1405/04/27
+
+
+
+
+src :@World_Newsly
+‏مردم جنوب ایران، قبل ازاینکه دیر بشه فرار کنید و خودتونو از منطقه جنگی دور کنید؛
+22:03
+1405/04/27
+
+
+
+
 src :@naya_foriraq
 ‏🔻اهلنا شعبنا المسلم في الكويت 
 ‏
@@ -830,14 +926,6 @@ src :@mohem_mat
 
 
 
-src :@World_Newsly
-‏🔴مجله‌ی نیروهای هوایی و فضایی آمریکا:  پنتاگون درحال ارسال جنگنده‌های F-35 و F-16 بیشتری به خاورمیانه‌ست، اقدامی که نشون دهنده‌ی آمادگی آمریکا برای گسترش عملیات هواییه.  ‎‌✍🏻 Dangerman ▪️@World_Newsly
-21:28
-1405/04/27
-
-
-
-
 src :@defence_news
 ‏اینقدر سیستم تبلیغاتی ما فشل و در توهم گیر است که فکر نمی کند که حتی الان باید با هر وسیله ای یک چیز مثل هشتگ خون در برابر خون را پخش کند !
 ‏
@@ -883,14 +971,6 @@ src :@MilitarryWorld
 src :@BellumActaNews
 [عکس]
 ‏🇮🇷❌🇯🇴 — Videos shared on social media shows IRGC ballistic missiles flying through Jordanian airspace towards US Bases inside the Hashemite Kingdom  US Army & Jordanian Royal Army Patriot missiles are also seen engaging on missiles ➖➖➖➖➖➖➖➖ 💧 Rainbet.com the…
-21:25
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏🔴با احتساب 2 نظامی آمریکایی که در حمله موشکی ایران به پایگاه موفق السلطی در اردن کشته شدند( 17 ژوئیه)، مجموع تلفات نظامیان آمریکایی در جنگ از ابتدا تا کنون به 16 کشته رسید  ✍🏻 𝑻𝑲𝑴 ▪️ @World_Newsly
 21:25
 1405/04/27
 
@@ -3165,27 +3245,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏🇮🇷🇺🇸**نماذج من جرائم الحرب الأميركية في الهجمات الجوية على جنوب إيران خلال ١٠ أيام **
-‏
-‏>> تمثل هذه القائمة جزءًا من جرائم الحرب التي ارتكبتها الولايات المتحدة منذ 17 تير في المحافظات الجنوبية من إيران، وتشمل:
-‏>> ▫️ استهداف البنى التحتية للمياه والمنشآت الحيوية.
-‏>> ▫️ استهداف البنى التحتية للنقل المدني (الجسور، وخطوط السكك الحديدية، والمطارات).
-‏>> ▫️ استهداف البنى التحتية للموانئ، والمنشآت البحرية، وقطاع الثروة السمكية.
-‏>> ▫️ استهداف منشآت حماية البيئة.
-‏>> ▫️ الإضرار بمستشفى الأطفال في الأهواز.
-‏>> ▫️ استهداف المدنيين.
-‏>> ▫️ استهداف البنى التحتية للاتصالات والبث الإذاعي.
-‏>> ▫️ استهداف المصانع والمنشآت الصناعية.
-‏>> ▫️ استهداف البنى التحتية النفطية.
-‏>> ▫️ استهداف البنى التحتية للأرصاد الجوية.
-‏>> ▫️ استهداف المباني الإدارية المدنية.
-19:43
-1405/04/27
-
-
-
-
 src :@mohem_mat
 ‏خبرگزاریها:
 ‏
@@ -3702,20 +3761,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-[ویدئو]
-‏⚡️🇰🇼🇺🇸🇮🇷 Sentinel-2 satellite imagery between July 17 and 18 shows columns of smoke rising over Shuaiba Port in Kuwait, following IRGC strikes.
-‏
-‏Geolocation (approximate):
-‏29°07’19.87”N 48°07’53.51”E
-‏
-‏@wfwitness
-19:06
-1405/04/27
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏هم‌زمان با پایان هفتمین شب حملات آمریکا به ایران، مقام‌های جمهوری اسلامی از وارد شدن خسارت به بخشی از زیرساخت‌های حمل‌ونقل، آب و برق استان هرمزگان خبر دادند؛ حملاتی که به گفته مقام‌های محلی، باعث انسداد موقت برخی مسیرهای ارتباطی و اختلال در خدمات‌رسانی شده است.
@@ -3948,16 +3993,6 @@ src :@bricsnews
 
 src :@Artemis_Force
 ‏بازگشت آمریکایی ها به منطقه !  طی ساعات اخیر حدود ۱۰ ترابری ۱ سوخت رسان( به صورت قطعی ) و خبر از بازگشت ۴ سوخت رسان دیگر به منطقه مخابره شده است همچنین اخبار حاکی از آن هست ۱ اسکادران اف ۳۵ و یک اسکادران اف ۱۶ نیز به منطقه بازگشته اند ،مشخص نیس همان اسکادران…
-18:41
-1405/04/27
-
-
-
-
-src :@MilitarryWorld
-‏🔴وزیر برق عراق: ما دوست داریم که از عربستان سعودی برق وارد کنیم و برق بین دو کشور در تبادل باشد.
-‏
-‏@MilitarryWorld | Parsa
 18:41
 1405/04/27
 
@@ -4295,18 +4330,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 17:58
-1405/04/27
-
-
-
-
-src :@mohem_mat
-‏آیین گرامیداشت رهبر شهید انقلاب اسلامی که مقرر بود از سوی سران سه قوه روز یکشنبه ۲۸ تیرماه در مصلای امام خمینی (ره) تهران برگزار شود، لغو و به زمان دیگری موکول شده است. 
-‏
-‏ تاریخ بعدی برگزاری این مراسم متعاقباً به اطلاع عموم خواهد رسید.
-‏
-‏@mohem_mat
-17:49
 1405/04/27
 
 
@@ -5214,19 +5237,6 @@ src :@DEJradio
 
 
 
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇯🇴🇮🇷 — Iranian attack on US bases in Jordan.
-‏
-‏Impacts have been reported. 
-‏
-‏@TheWarReporter
-15:13
-1405/04/27
-
-
-
-
 src :@Mena_Live
 ‏Israeli Channel 12:
 ‏
@@ -5528,14 +5538,6 @@ src :@GeoPWatch
 
 
 
-src :@thewarreporter
-‏🇰🇼🇮🇷 — Kuwait announced that a fire broke out and components were damaged at an electrical power station and a second desalination plant as a result of the Iranian attack.  @TheWarReporter
-14:29
-1405/04/27
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏اطلاعات رسیده به ایران‌وایر حاکی از آن است که صبح روز شنبه ۲۷ تیر ۱۴۰۵، شماری از محکومان به اعدام پرونده موسوم به «میدان علیخانی» اصفهان با خشونت از بند عمومی به سلول‌های انفرادی منتقل شده‌اند؛ اقدامی که نگرانی‌ها درباره اجرای قریب‌الوقوع احکام اعدام این زندانیان را تشدید کرده است.
@@ -5705,16 +5707,6 @@ src :@DEJradio
 ‏#حوثی #یمن 
 ‏@DEJradio
 13:50
-1405/04/27
-
-
-
-
-src :@mwarmonitor
-‏🔴شرکت ملی نفت کویت اعلام کرد حملات مکرر ایران به تأسیسات حیاتی بخش نفت این کشور، موجب مجروح شدن افراد و وارد شدن خسارات مادی شده است. — الجزیره
-‏
-‏@mwarmonitor
-13:44
 1405/04/27
 
 
@@ -6790,18 +6782,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 01:56
-1405/04/27
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷 Iran says two oil tankers exploded while attempting to cross a route filled with mines in the Strait of Hormuz.
-‏
-‏"Ships must avoid entering the mined path in the Strait of Hormuz to protect their investments and crews."
-‏
-‏@BRICSNews
-01:37
 1405/04/27
 
 
