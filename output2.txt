@@ -1,3 +1,36 @@
+src :@defence_news
+[عکس]
+‏🔶  خبرگزاری CBS: حمله ایران به پایگاه‌های استراتژیک اردن، از جمله پایگاه هوایی موفق السلطی و پایگاه هوایی فیصل منجر به زخمی شدن تعدادی از نیروهای آمریکایی شد با این حال هنوز هیچ گزارش فوتی وجود ندارد
+‏
+‏@RASTAKHIZ_PERSIAN
+12:31
+1405/04/27
+
+
+
+
+src :@MilitarryWorld
+‏🔴حملات پهپادی مجدد سپاه به اربیل
+‏
+‏@MilitarryWorld | Parsa
+12:30
+1405/04/27
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏با حملات هوایی شامگاه جمعه آمریکا کلان‌شهر بندرعباس با وضعیت محاصره اقتصادی و نظامی مواجه شده است.  شما شهروندان ساکن شهرهای استان‌های جنوبی ایران درباره اختلال در زندگی روزمره، محدودیت‌های تردد یا مشکلات در اشتغال به ما بگویید. 
+‏
+‏مشاهدات و تجربیات خود را برای ما ارسال کنید. پیام‌های شما به صورت تلویزیونی و در شبکه‌های اجتماعی ایران اینترنشنال نمایش داده خواهد شد. پیام‌های خود را از طریق مدیابات به ایران اینترنشنال ارسال کنید. لینک مدیابات از طریق زیر قابل دسترس است:
+‏https://t.me/intlmedia_bot
+12:29
+1405/04/27
+
+
+
+
 src :@World_Newsly
 ‏🔴ولادیمیر زلنسکی، رئیس جمهوری اوکراین: تأسیسات انرژی در خاک روسیه را هدف قرار دادیم.
 ‏
@@ -1960,54 +1993,12 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@IranintlTV
-‏🗣روایت شما از زندگی در دوران پس از انقلاب ملی و جنگ - شنبه ۲۷ تیر
-‏
-‏🔹بامداد شنبه ۲۷ تیر، ساعت ۴:۵۷ صدایی شبیه انفجار آمد. خانه‌مان لرزید. ساعت ۲:۱۵ هم دو صدای انفجار دیگر شنیدیم. امتحانات کارشناسی ارشد و دکتری را غیرحضوری نکرده‌اند و دانشگاه‌هایمان هم خارج از شهر است.
-‏
-‏🔹نت وای‌فای کامل قطع شده.
-‏
-‏🔹ما ۲۷ تیرماه تا این لحظه بیش از ۱۴ ساعت است که آب لوله‌کشی محل‌مان قطع است. نه کولر داریم، نه آب خوردن، نه می‌توانیم از آب برای بهداشت استفاده کنیم و نه هیچ کار دیگری که به آب شهری مربوط باشد. برق هم معمولاً روزی ۳ ساعت قطع می‌شود، گاهی هم دوبار در روز.
-‏
-‏🔹داریم به فنا می‌رویم، پلی‌استیشنم به‌خاطر نوسان برق سوخت.
-‏
-‏🔹خواب بودیم، یک صدای بلند شنیدیم و متوجه شدیم از سمت کوه‌های خمین موشک زده می‌شود.
-‏
-‏🔹داریم به فنا می‌رویم، پلی‌استیشنم به‌خاطر نوسان برق سوخت.
-‏
-‏🔹تو این اوضاع جنگی، گرانی، بدبختی و گرمای هوا، نوسان برق و قطعی ۴ ساعته برق بلای جان مردم شده.
-‏
-‏🔹توی هوای گرم ۵۰ درجه، روزی دو بار و هر بار دو ساعت برق می‌رود و در آن زمان نه آنتن وجود دارد و نه اینترنت.
-‏
-‏🔹مردم عزیز جنوب، ما کنارتان هستیم. خواهشاً اگر کمکی از دستمان برمی‌آید بگویید تا انجام بدهیم. نمی‌خواهیم بیشتر از این اذیت شوید.
-‏
-‏🔹کاش امتحانات ما را کلاً لغو می‌کردند یا تعویق می‌انداختند. چرا فقط دو امتحان را عقب انداختند؟ واقعاً شرایط برای ما سخت و خطرناک است و آینده‌مان مطرح است.
-‏
-‏🔹دیگر خسته شده‌ایم. من به‌عنوان یک دانش‌آموز دوازدهم دیگر توان ادامه دادن ندارم. خستگی به جانم افتاده و انگار اصلاً برایشان مهم نیست. من در جنوب ایران زندگی نمی‌کنم، اما با آن‌ها هیچ فرقی ندارم. خیلی‌های دیگر هم مثل من هستند. دیگر نمی‌دانم تا کی می‌توانیم ادامه بدهیم.
-10:00
-1405/04/27
-
-
-
-
 src :@ClashReport
 ‏BIG: Iran's Tasnim:
 ‏
 ‏US strike destroys desalination plant in Jask, cutting drinking water to 20 villages (around 10,000 people). 
 ‏
 ‏The attack destroyed the plant's seawater pumping station and power transformer, leaving the area without running water.
-10:00
-1405/04/27
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏وزارت برق کویت اعلام کرد حمله جمهوری اسلامی باعث آتش‌سوزی و آسیب دیدن بخش‌هایی از یک نیروگاه برق شده است.
-‏این وزارتخانه از حمله جمهوری اسلامی به یک نیروگاه دیگر برق و آب‌شیرین‌کن در صبح شنبه خبر داد.
-‏همزمان اردن و بحرین، از رهگیری حملات انجام‌شده از ایران به این کشورها خبر دادند.
-‏https://iranintl.com/202607189532
 10:00
 1405/04/27
 
@@ -3722,16 +3713,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@MilitarryWorld
-‏🔴خبرگزاری های داخلی می گویند موشک ها به اردن اصابت داشته
-‏
-‏@MilitarryWorld | Parsa
-03:10
-1405/04/27
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇯🇴 - Impacts in Jordan.
 03:00
@@ -3869,17 +3850,6 @@ src :@cataphract1
 
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — Explosions reported in Omidiyeh, Khuzestan province, Iran.
-02:33
-1405/04/27
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸❌🇮🇷 — Another image has emerged showing damage to the Rudan–Bandar Abbas bridge in Hormozgan province, Iran.
-‏
-‏@IntelSlava
 02:33
 1405/04/27
 
@@ -6386,21 +6356,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇱🇻 — Latvia Bolsters Security at Key Energy Sites Amid Russian Threat Concerns
-‏
-‏Latvian authorities have heightened security measures around a major hydroelectric dam and the Inčukalns underground gas storage facility following intelligence reports of potential Russian threats.
-‏
-‏Prime Minister Andris Kulbergs has requested additional NATO air defenses and allied troop deployments. He also warned of possible Russian interference in Latvia’s upcoming October parliamentary elections and criticized certain EU member states for blocking new sanctions against Russia.
-‏
-‏The Global Eye | Subscribe
-13:09
-1405/04/26
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏ردپای دیگری از امارات 
@@ -6549,39 +6504,11 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇮🇷 — U.S. airstrikes reportedly targeted and destroyed six bridges in southern Iran overnight
-‏
-‏— Gariveh Bridge on Bandar Abbas–Khamir–Lar route
-‏— A bridge near Latidan village on return route
-‏— Two bridges on Kahurestan–Lar road
-‏— Unfinished bridge on Bandar Khamir–Kashar–Bandar Abbas route
-‏— Bridge at Maru village
-‏
-‏The Global Eye | Subscribe
-12:51
-1405/04/26
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran says it struck US military aircraft in Jordan.
 ‏
 ‏@BRICSNews
 12:50
-1405/04/26
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇰🇼 🇮🇷 — Kuwait says power and water desalination plants were targeted and sustained damage during Iranian attacks today.
-‏
-‏The Global Eye | Subscribe
-12:44
 1405/04/26
 
 
