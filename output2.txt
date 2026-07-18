@@ -1,19 +1,73 @@
-src :@wfwitness
-‏⚡️🇸🇾 Intense Gunfire and rocks thrown at Syrian forces following clashes in Azaz countryside of Aleppo.  @wfwitness
-02:46
+src :@warmonitors
+[عکس]
+‏⚡️#BREAKING Social media influencers Andrew and Tristian Tate have been arrested in Miami, US Marshals service tells AP 
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+02:52
 1405/04/28
 
 
 
 
-src :@World_Newsly
-‏🔴فارس: تکذیب اصابت موشک‌های دشمن در کیش و بندرلنگه 
+src :@OSINTWarfare
+[عکس]
+‏🇷🇺❌🇺🇦 — More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.  @IntelSlava
+02:51
+1405/04/28
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports of explosions heard in Qom, Iran.  @wfwitness
+02:50
+1405/04/28
+
+
+
+
+src :@naya_foriraq
+‏مصدر إيراني: لا وجود لعدوان على محافظة أراك الإيرانية.
+02:50
+1405/04/28
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Tasnim reports that at around 2:10 AM local time the area near Hajiabad was targeted by the U.S.
 ‏
-‏▪️استانداری هرمزگان: تاکنون اصابتی در کیش و بندرلنگه گزارش نشده است.
+‏@wfwitness
+02:49
+1405/04/28
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️تسنیم، خبرگزاری وابسته به سپاه، از حمله نظامی نیروهای آمریکایی به نقطه‌ای در حوالی حاجی‌آباد هرمزگان در ساعت ۲:۱۰ بامداد یکشنبه خبر داد. براساس این گزارش، این حمله هیچ مجروح غیرنظامی یا خسارتی به زیرساخت‌های مسکونی و تجاری در پی نداشته است.
+‏ 
+‏@indypersian
+02:47
+1405/04/28
+
+
+
+
+src :@BellumActaNews
+‏🇮🇷❌🌞🇮🇷 — IRGC is targeting camps in Iraqi Kurdistan belonging to the Kurdistan National Army, the armed wing of the Kurdistan Freedom Party (PAK) in bases in Erbil and Sulaymaniyah
 ‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-02:45
+‏@BellumActaNews
+02:47
+1405/04/28
+
+
+
+
+src :@wfwitness
+‏⚡️🇸🇾 Intense Gunfire and rocks thrown at Syrian forces following clashes in Azaz countryside of Aleppo.  @wfwitness
+02:46
 1405/04/28
 
 
@@ -651,15 +705,6 @@ src :@World_Newsly
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇦🇷🇺 Explosions rock Kyiv, Ukraine.  @wfwitness
-02:25
-1405/04/28
-
-
-
-
 src :@P_raetorio
 ‏♨️ گزارشهای تایید نشده از انفجار در قم و اراک
 ‏
@@ -730,14 +775,6 @@ src :@cataphract1
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 Tasnim: The sounds heard in Bandar Abbas have been confirmed, but no explosions have occurred as of this moment.  @wfwitness
-02:23
-1405/04/28
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -786,14 +823,6 @@ src :@Shin_Persian
 
 src :@Minas_Tirith2024
 ‏در همین میان حملات موشکی آخرزمانی روسیه به پایتخت اوکراین  #اوکراین  #روسیه    @P_raetorio
-02:22
-1405/04/28
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇦🇷🇺 Image showcasing impact in Kyiv following Russian arrival.  @wfwitness
 02:22
 1405/04/28
 
@@ -996,19 +1025,6 @@ src :@World_Newsly
 
 src :@Alibk3
 ‏دوي انفجارات في دهوك بكردستان العراق
-02:16
-1405/04/28
-
-
-
-
-src :@World_Newsly
-‏🔴 وقوع دو انفجار در بهبهان
-‏
-‏برخی منابع از وقوع دو انفجار در بهبهان، واقع در استان خوزستان، خبر داده‌اند.
-‏
-‏✍🏻 north vector
-‏▪️@World_Newsly
 02:16
 1405/04/28
 
@@ -1358,14 +1374,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 02:05
-1405/04/28
-
-
-
-
-src :@naya_foriraq
-‏الجيش الأمريكي: ‏ بدأت القوات الأمريكية اليوم، في تمام الساعة السادسة مساءً بتوقيت شرق الولايات المتحدة، شنّ غارات جوية جديدة على إيران بتوجيه من القائد الأعلى للقوات المسلحة. وتهدف هذه الغارات إلى تقويض قدرة إيران على تهديد الملاحة التجارية في مضيق هرمز،…
-02:04
 1405/04/28
 
 
@@ -4324,23 +4332,6 @@ src :@DEJradio
 ‏#انفجار #بندرعباس 
 ‏@DEJradio
 22:35
-1405/04/27
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️رویترز، شنبه ۲۷ تیر، گزارش داد طوفان و رعدوبرق شدید در منطقه نیویورک و نیوجرسی، برنامه آخرین جلسه‌های تمرینی تیم‌های ملی اسپانیا و آرژانتین را پیش از فینال جام جهانی ۲۰۲۶ مختل کرد.
-‏
-‏فدراسیون فوتبال اسپانیا اعلام کرد تمرین این تیم در زمین ملانی لین نیوجرسی، مطابق مقررات ایمنی آمریکا در شرایط طوفانی، لغو شد و بازیکنان تمرینات گرم کردن را در فضای سرپوشیده ادامه دادند.
-‏
-‏تمرین تیم ملی آرژانتین نیز در موریستاون نیوجرسی با ۴۵ دقیقه تاخیر آغاز شد. دیدار فینال جام جهانی میان اسپانیا و آرژانتین، یکشنبه برگزار می‌شود.
-‏
-‏این خبر در حالی منتشر می‌شود که لامین یامال، ستاره ۱۹ ساله اسپانیا، در دیدار نیمه‌نهایی مقابل فرانسه از ناحیه ران دچار ضرب‌دیدگی جزئی شد و وضعیت او پیش از فینال زیر نظر کادر پزشکی این تیم قرار دارد.
-‏
-‏@indypersian
-22:34
 1405/04/27
 
 
@@ -7496,15 +7487,6 @@ src :@Artemis_Force
 [عکس]
 ‏در حملات دیشب ابتدا اهداف نظامی و سپس زیر ساخت ها مورد حمله قرار گرفتن  و مناطقی همچون داراب، یزد، خرم آباد، اهواز، بوشهر، سیریک، بندر عباس، امیدیه، لار،جزیره لارک و هرمز ، جاسک و... ( در استان های شیراز، یزد، هرمزگان، لرستان،سیستان و بلوچستان، خوزستان و..)…
 06:46
-1405/04/27
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Reports of ATACMS tactical ballistic missile launches by the U.S. Army from Kuwait targeting Iran. The variant used is most likely the M57 Block IA.
-05:13
 1405/04/27
 
 
