@@ -1,7 +1,42 @@
-src :@mwarmonitor
-‏🚨 سخنگوی وزارت بهداشت ایران: در حملات آمریکایی طی سه هفته گذشته، ۵۰ نفر کشته و ۵۰۰ نفر مجروح شده‌اند.
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Explosions reported in Erbil as a result of a drone attack.
+15:02
+1405/04/27
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇷/🇯🇴/🇺🇸 BREAKING: Most U.S. military bases in Jordan have suffered heavy damage, some of them are still on fire hours after being struck by Iranian ballistics
 ‏
-‏@mwarmonitor
+‏@Middle_East_Spectator
+14:58
+1405/04/27
+
+
+
+
+src :@P_raetorio
+‏زهران ممدانی،شهردار نیویورک اعلام کرده است در حال بررسی توانایی و اختیار خود برای دستور دستگیری بنیامین نتانیاهو در صورت شرکت وی در مجمع عمومی سازمان ملل متحد است!
+‏
+‏@P_raetorio
+14:58
+1405/04/27
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ارتش کویت در بیاینیه‌ای اعلام کرد از ساعات اولیه روز شنبه ۲۷ تیرماه، موشک‌های بالستیک و پهپادهای «متخاصم» را در حریم هوایی این کشور شناسایی کرده و آنها را رهگیری و منهدم کرده است.
+‏سرلشکر سعود عبدالعزیز العطوان، سخنگوی وزارت دفاع کویت، در بیانیه‌ای که نیم‌روز شنبه در ایکس منتشر شد اعلام کرد «تجاوز» جمهوری اسلامی همچنان ادامه دارد و شماری از تاسیسات نظامی و امنیتی، همچنین زیرساخت‌های حیاتی و غیرنظامی این کشور را هدف قرار داده است.
+‏به گفته این مقام کویتی، این حملات تاسیسات مربوط به بخش‌های نفت، برق و آب را هدف قرار داده و موجب آتش‌سوزی و وارد آمدن خسارت‌های گسترده به شماری از زیرساخت‌ها شده است.
+‏ارتش کویت افزود نهادهای مسئول عملیات اطفای حریق و تعمیرات را آغاز کرده‌اند و در جریان این عملیات، شماری از نیروهای آتش‌نشانی و کارکنان بخش نفت هنگام انجام وظیفه مجروح شده‌اند و تحت درمان قرار دارند.
+‏در این بیانیه همچنین آمده است رهگیری موشک‌ها و پهپادها باعث سقوط بقایای آنها در چند نقطه و مناطق مسکونی شده و خساراتی به اموال وارد کرده است، اما هیچ تلفات انسانی در این مناطق گزارش نشده است.
+‏ارتش کویت در پایان تاکید کرد نیروهای مسلح این کشور با آمادگی کامل به انجام ماموریت‌های خود ادامه می‌دهند و تمامی اقدامات لازم را برای حفاظت از حاکمیت، امنیت و ثبات کشور در دستور کار دارند.
+‏
+‏@indypersian
 14:57
 1405/04/27
 
@@ -220,7 +255,7 @@ src :@Shin_Persian
 
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇮🇷/🇯🇴 NEW: More direct impacts in Jordan, after Iranian missiles struck about an hour ago
+‏—❗️🇮🇷/🇯🇴 NEW: More direct impacts in Jordan, after Iranian missiles struck about 2 hours ago
 ‏
 ‏@Middle_East_Spectator
 14:50
@@ -1386,17 +1421,6 @@ src :@wfwitness
 src :@wfwitness
 ‏⚡️🇯🇴🇮🇷Reports of explosions at Al Azraq base, Jordan.  @wfwitness
 13:42
-1405/04/27
-
-
-
-
-src :@World_Newsly
-‏شرکت ملی نفت کویت اعلام کرد که حملات مکرر ایران به تاسیسات حیاتی بخش نفت، منجر به خسارت‌های مادی شده است.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-13:41
 1405/04/27
 
 
@@ -2629,17 +2653,6 @@ src :@mohem_mat
 
 
 
-src :@P_raetorio
-[عکس]
-‏تیم رسانه‌ای سنتکام ادعای سپاه پاسداران مبنی بر برخورد دو کشتی به مین دریایی در تنگه هرمز را رد کرد.
-‏
-‏@P_raetorio
-11:30
-1405/04/27
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇮🇱 — Air defenses were activated in Kiryat Shmona, northern Israel. 
@@ -2765,18 +2778,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 11:12
-1405/04/27
-
-
-
-
-src :@P_raetorio
-[فایل]
-‏#music_time 
-‏
-‏
-‏@P_raetorio
-11:11
 1405/04/27
 
 
@@ -5098,14 +5099,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - Explosions reported in Erbil as a result of a drone attack.
-01:08
-1405/04/27
-
-
-
-
 src :@guard_warriors
 ‏انفجار در یزد و لار ( سایت موشکی) و همزمان هم صدای جنگنده میاد بالا سرشون
 ‏
@@ -5511,15 +5504,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:27
-1405/04/26
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Haj Qassem, and Zolfaghar, as well as Shahed-136 loitering munitions, targeting U.S. military bases across…
-23:23
 1405/04/26
 
 
