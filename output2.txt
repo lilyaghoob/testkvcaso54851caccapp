@@ -1,3 +1,75 @@
+src :@Alibk3
+[عکس]
+‏الحرس الثوري يُعلن إسقاط طائرة مسيّرة استطلاعية وتجسسية معادية في مناطق العمليات جنوب البلاد.
+19:47
+1405/04/28
+
+
+
+
+src :@Exciton_missile_program
+[عکس]
+‏تصویر ماهواره‌ای از انهدام انبار مرکزی قطعات لجستیکی نیروی هوایی آمریکا در پایگاه هوایی العدید قطر
+‏
+‏@Military_Tweet
+19:46
+1405/04/28
+
+
+
+
+src :@Exciton_missile_program
+[عکس]
+‏تصاویر ماهواره‌ای از ساختمان کنترل و فرماندهی مرکز داده کاوی و هوش مصنوعی بتلکو ارتش آمریکا مستقر در بحرین پس از حملات سپاه پاسداران
+‏
+‏کیارش فراهانی
+‏
+‏@P_raetorio
+19:46
+1405/04/28
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇺🇸 The Iranian Army claims it has downed a U.S. LUCAS kamikaze drone in southern Iran.  @wfwitness
+19:45
+1405/04/28
+
+
+
+
+src :@World_Newsly
+‏🔴 رسانه‌های اسرائیلی: احتمال صدور فرمان حمله به اسرائیل از سوی رهبری ایران
+‏
+‏رسانه‌های اسرائیلی به نقل از ارزیابی‌های امنیتی گزارش داده‌اند که ممکن است رهبری ایران دستور انجام حمله‌ای علیه اسرائیل را صادر کند.
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
+19:44
+1405/04/28
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏موشک های سپاه یک نیروگاه برق را در کویت مورد اصابت قرار داده است
+19:43
+1405/04/28
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷 Unconfirmed reports of launches from Kermanshah, Iran.  @wfwitness
+19:43
+1405/04/28
+
+
+
+
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇮🇷 — Israeli security assessments suggest that Iranian leadership will order an attack on Israel.
 ‏
@@ -1643,19 +1715,6 @@ src :@samueltarikh
 
 
 
-src :@World_Newsly
-‏🔴 فارس : انهدام یک فروند پهپاد آمریکایی MQ9 در همدان
-‏
-‏▪️دقایقی قبل یک پهپاد آمریکایی MQ9 توسط سامانه‌های نوین پدافند هوایی ارتش هدف قرار گرفته و سرنگون شد.
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-17:41
-1405/04/28
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏مهر: معاون امنیتی استاندار خوزستان اعلام کرد که دقایقی پیش، منطقه‌ای نزدیک به شهر آبادان مورد حمله موشکی قرار گرفت که این حمله به ایالات متحده نسبت داده شده است
 17:40
@@ -2752,16 +2811,6 @@ src :@Artemis_Force
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Reports of explosions in Abadan, Iran.
-‏
-‏@wfwitness
-16:43
-1405/04/28
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷❌🇮🇱🇺🇸 — BREAKING: The planes are leaving Ramon.
@@ -3055,14 +3104,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔️‌‌@WAR_ROOM_NEWS
 16:30
-1405/04/28
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴گزارش اولیه: پرتاب موشکی دیگر به سمت اردن.
-16:29
 1405/04/28
 
 
