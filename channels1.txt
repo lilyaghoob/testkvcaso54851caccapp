@@ -36,3 +36,4 @@ Farsi_Iranwire
 militaryinpersian
 Navy_Iranian
 samueltarikh
+TelNews_Magazine
