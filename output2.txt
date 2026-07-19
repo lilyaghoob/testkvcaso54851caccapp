@@ -1,4 +1,40 @@
 src :@World_Newsly
+‏🔴 ادعای قمری، معاون استاندار مرکزی: صدای انفجار لحظات پیش در اراک مربوط به اقدامات آفندی بوده و جای هیچ نگرانی نیست
+‏
+‏‎‌✍🏻 Dangerman
+‏▪️@World_Newsly
+00:16
+1405/04/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏انفجار در اربیل عراق
+00:16
+1405/04/29
+
+
+
+
+src :@naya_foriraq
+‏سماع دوي انفجار بقضاء كويا في محافظة اربيل شمالي العراق
+00:15
+1405/04/29
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏Israeli soldiers watch the Argentina–Spain World Cup final in southern Lebanon.
+00:15
+1405/04/29
+
+
+
+
+src :@World_Newsly
 ‏🔴شلیک موشک از خمین و ساوه  ‎‌✍🏻 Dangerman ▪️@World_Newsly
 00:11
 1405/04/29
@@ -7,7 +43,7 @@ src :@World_Newsly
 
 
 src :@wfwitness
-‏⚡️🇮🇷 Preliminary reports of explosions near Saveh, Khomein, Arak, and Qom in central Iran, with some alleging a possible connection to missile launches.  This remains unconfirmed, and no official Iranian source has commented on the cause of the blasts as of…
+‏⚡️🇮🇷 Preliminary reports of explosions near Saveh, Khomein, Arak, and Qom in central Iran, with possible missile launches.  This remains unconfirmed, and no official Iranian source has commented on the cause of the blasts as of now.  @wfwitness
 00:10
 1405/04/29
 
@@ -123,6 +159,11 @@ src :@mamlekate
 ‏
 ‏📝 ساوه صدای انفجار اومد ۲۳:۴۵
 ‏
+‏🚀 ساوه ۲۳ : ۴۵
+‏صدای شلیک موشک بود
+‏
+‏📝 ساوه ساعت ۱۱:۴۵ یکشنبه ۲۸ احتمالا یکی از موشکایی که شلیک کردن منفجر شده. همزمان چن تا موشک پرتاب شده بود.
+‏
 ‏@mamlekate
 00:07
 1405/04/29
@@ -234,7 +275,7 @@ src :@tabzlive
 
 
 src :@wfwitness
-‏⚡️🇮🇷 Preliminary reports of explosions near Saveh, Khomein, Arak, and Qom in central Iran, with some alleging a possible connection to missile launches.
+‏⚡️🇮🇷 Preliminary reports of explosions near Saveh, Khomein, Arak, and Qom in central Iran, with possible missile launches.
 ‏
 ‏This remains unconfirmed, and no official Iranian source has commented on the cause of the blasts as of now.
 ‏
@@ -1054,15 +1095,6 @@ src :@World_Newsly
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
 23:25
-1405/04/28
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ویدیویی در رسانه‌ ها منتشر شده تا افکار عمومی را از انتقادها نسبت به ثابتی، جلیلی و جریان تندروها منحرف کند و روایت دیگری از ماجرا بسازد  اما عزیزان شاید یادشان رفته که پس از هفته‌ ها تلاش تندروها برای به شکست کشاندن توافق و دمیدن بر آتش جنگ، این تفاهم در…
-23:24
 1405/04/28
 
 
@@ -1997,18 +2029,6 @@ src :@TelNews_Magazine
 
 
 
-src :@jangaavaran1390
-‏نیویورک تایمز: ایالات متحده، جنگنده‌های اضافی از جمله جنگنده‌های F-16 از آلمان، جنگنده‌های پنهان‌کار F-35 از بریتانیا و هواپیماهای تانکر سوخت را به خاورمیانه اعزام می‌کند.
-‏
-‏به گزارش‌ها، این اعزام‌ها قبل از حمله اخیر ایران در اردن که منجر به کشته شدن دو سرباز آمریکایی و زخمی شدن چندین نفر دیگر شد، انجام شده است.
-‏
-‏یک مقام نظامی اسرائیل گزارش داد که برخی از این هواپیماهای تانکر سوخت آمریکایی احتمالاً در پایگاه‌های نیروی هوایی اسرائیل مستقر خواهند شد.
-22:39
-1405/04/28
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— We officially wish the best of luck to the Islamic Republic of Spain in the World Cup Final!
@@ -2401,24 +2421,6 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸⚡️ — President Trump via Truth Social:
 ‏Planting beautiful Maple and Oak Trees at the White House!
-22:09
-1405/04/28
-
-
-
-
-src :@jangaavaran1390
-‏ترامپ: نظامیان آمریکایی برای جلوگیری از هسته‌ای شدن ایران جان خود را فدا کردند
-‏
-‏دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگو با نیویورک پست از ادامه عملیات نظامی علیه ایران دفاع کرد و در پاسخ به انتقاد برخی نمایندگان دموکرات درباره کشته شدن نظامیان آمریکایی در اردن گفت:
-‏
-‏🔹 «آن‌ها بالاترین فداکاری را انجام دادند، چون نمی‌خواستند ایران به سلاح هسته‌ای دست پیدا کند و نمی‌خواستند خاورمیانه منفجر شود.»
-‏
-‏🔹 ترامپ با مقایسه این تلفات با جنگ‌های ویتنام و افغانستان، اظهار داشت که هرچند کشته شدن نیروها «غم‌انگیز» است، اما این مأموریت برای جلوگیری از دستیابی ایران به سلاح هسته‌ای ضروری بوده است.
-‏
-‏🔹 وی همچنین ایران را مسئول این حمله دانست و مدعی شد که جلوگیری از برنامه هسته‌ای تهران برای پیشگیری از گسترش درگیری در منطقه اهمیت حیاتی دارد.
-‏
-‏#آمریکا #ترامپ #ایران #اردن #خاورمیانه #سیاست_خارجی
 22:09
 1405/04/28
 
@@ -2961,14 +2963,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-‏🇮🇶🌞🇮🇷⚡️ — Explosions in Erbil, Iraqi Kurdistan.
-21:40
-1405/04/28
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇰🇼— Explosions in Kuwait!  @GeoPWatch
 21:40
@@ -3117,14 +3111,6 @@ src :@wfwitness
 ‏⚡️🇾🇪🇾🇪 Ansarallah (Houthis) to address the Yemeni people in a very important statement tomorrow.
 ‏
 ‏@wfwitness
-21:36
-1405/04/28
-
-
-
-
-src :@tabzlive
-‏🇰🇼🇮🇷⚡️ — Explosions in Kuwait.
 21:36
 1405/04/28
 
@@ -3338,14 +3324,6 @@ src :@mwarmonitor
 src :@Alibk3
 ‏إطلاق صواريخ من إيران نحو الكويت
 21:31
-1405/04/28
-
-
-
-
-src :@naya_foriraq
-‏الكويت تعترف بتعرض المصالح الأمريكية على أراضيها لاستهداف بالصواريخ الإيرانية.
-21:30
 1405/04/28
 
 
@@ -3634,16 +3612,6 @@ src :@Alibk3
 
 
 
-src :@WAR_ROOM_NEWS
-‏نتانیاهو به گنده گویی های ممدانی پاسخ داد، پس از اینکه او گفت تلاش خواهد کرد تا دستگیری او را رقم بزند: "آقای ممدانی باید بر تلاش برای جبران خساراتی که ناشی از عملکردش به شهر نیویورک وارد شده، تمرکز کند."
-‏
-‏🆔️‌‌@WAR_ROOM_NEWS
-21:15
-1405/04/28
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️وزارت خارجه اردن، یکشنبه ۲۸ تیرماه اعلام کرد کاردار سفارت جمهوری اسلامی ایران در امان را احضار کرده و پیام اعتراض شدید این کشور را نسبت به ادامه حملات تهران به خاک اردن و همچنین اظهارات تحریک‌آمیز مقام‌های رسمی جمهوری اسلامی ایران درباره این کشور به او ابلاغ کرده است.
@@ -3689,16 +3657,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 21:14
-1405/04/28
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏دونالد ترامپ در یک پست در شبکه اجتماعی Truth Social، خواستار گنجاندن ایران در قانون جدید تحریم‌ها علیه روسیه شده است.
-‏
-‏🆔️‌‌@WAR_ROOM_NEWS
-21:12
 1405/04/28
 
 
@@ -3801,16 +3759,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Reports of jets over Western Tehran.
-‏
-‏@wfwitness
-21:05
-1405/04/28
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱☀️🇮🇷🇹🇷 — Senior Israeli officials told Israeli Broadcasting Authority:
 ‏
@@ -3818,16 +3766,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 21:04
-1405/04/28
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇱🇯🇴 i24NEWS: The Israeli military issued Jordan an advance warning before Iran launched missiles toward the Aqaba area in southern Jordan earlier today.
-‏
-‏@wfwitness
-21:03
 1405/04/28
 
 
@@ -7680,14 +7618,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 00:24
-1405/04/28
-
-
-
-
-src :@Mena_Live
-‏NYT: Several U.S. military helicopters were damaged during Iran's attacks on the airbase in Jordan.
-‏
-‏@Mena_Live
-00:16
 1405/04/28
