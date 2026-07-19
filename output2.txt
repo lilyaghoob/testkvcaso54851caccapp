@@ -1,7 +1,7 @@
 src :@World_Newsly
 [عکس]
 ‏🔴أمجد طه 
-‏چیزی مشکوک در جریان است. در ۲۴ ساعت گذشته تلويزيون دولتی ایران طبق گزارش ها نام جی دی ونس (JD Vance) را ۳۸ بار به صورت مثبت ذكر کرده - اغلب در حالی که به اسرائیل و متحدان آمريكا حمله می کرد. آنها بیشتر از رئيس جمهور خودشان از ونس تعریف کرده اند.
+‏چیزی مشکوک در جریان است. در ۲۴ ساعت گذشته تلويزيون دولتی ایران طبق گزارش ها نام جی دی ونس (JD Vance) را ۸۳ بار به صورت مثبت ذكر کرده - اغلب در حالی که به اسرائیل و متحدان آمريكا حمله می کرد. آنها بیشتر از رئيس جمهور خودشان از ونس تعریف کرده اند.
 ‏
 ‏ما در خاورمیانه ضرب المثلی داریم اگر رژیم اسلامی ایران موضع تو را دوست داشته باشد، احتمالا داری کار اشتباهی انجام میدهی اگر از موضعت متنفر باشد، احتمالا ۱۰۰ درصد درست میگویی.
 ‏
@@ -2622,18 +2622,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[عکس]
-‏حزب آزادی کردستان ایران اعلام کرد که جمهوری اسلامی با استفاده از پهپاد، یکی از مقرهای این حزب را در منطقه چم‌شاری، در نزدیکی داره‌ شه‌کران در اقلیم کردستان عراق، هدف قرار داده است.
-‏
-‏سازمان حقوق بشری هانا دراین مورد نوشت: «تا زمان انتشار این خبر، اطلاعاتی درباره تلفات احتمالی یا میزان خسارات ناشی از این حمله منتشر نشده است.»
-‏https://iranintl.com/202607183237
-03:08
-1405/04/28
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏☪ نيويورك تايمز، نقلًا عن مسؤولين أميركيين:  الهجوم الإيراني في الأردن ألحق أضراراً بعدد من المروحيات.
@@ -4054,14 +4042,6 @@ src :@Americana_ir
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷🇯🇴⚡️- BREAKING: U.S. Central Command announces that two American service members were killed in action in Jordan defending against Iranian missile and drone attacks.  Another service member is currently missing in action.
-00:57
-1405/04/28
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇯🇴🇮🇷 — CENTCOM:  "On July 17, two U.S. service members in Jordan were killed in action as CENTCOM and partner forces defended against Iranian ballistic missile and drone attacks.   Additionally, one service member is currently missing".  @TheWarReporter
 00:56
@@ -4189,24 +4169,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:32
-1405/04/28
-
-
-
-
-src :@rnintel
-‏🇺🇸🇸🇦⚡- "The Trump administration has tentatively agreed to allow Saudi Arabia to enrich uranium without enacting international safeguards (the Additional Protocol) intended to prevent nuclear weapons development. 
-‏
-‏The deal could potentially provide Saudi Arabia with a path to nuclear weapons unless the 'Additional Protocol' safeguards are put in place.
-‏
-‏The agreement has not yet been sent to Congress," - CNN.
-‏
-‏Note, Saudi Arabia has repeatedly stated that it would seek nuclear weapons if Iran acquired them, while also remaining a strong critic of Israel's nuclear arsenal.
-‏
-‏Note, a civilian nuclear program was a key incentive in American efforts to bring Saudi Arabia into the Abraham Accords. Riyadh now appears poised to secure that without formally joining the Trump-mediated framework.
-‏
-‏Note, Israel has long opposed a Saudi civilian nuclear program, especially one without it tied to the Abraham Accords.
-00:31
 1405/04/28
 
 
@@ -4376,15 +4338,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇷🇯🇴⚡️- Visual confirmation of a massive fire in the aftermath of Iranian strikes on Muwaffaq Salti Air Base in Jordan, which resulted in the deaths of two U.S. servicemembers last night.
-00:19
-1405/04/28
-
-
-
-
 src :@mwarmonitor
 ‏🔴نه رئیس‌جمهور ترامپ و نه کاخ سفید، تقریباً دو ساعت پس از اعلام خبر توسط سنتکام، هنوز درباره کشته‌شدن این نیروها اظهارنظری نکرده‌اند. نیویورک پست   @mwarmonitor
 00:19
@@ -4411,14 +4364,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:19
-1405/04/28
-
-
-
-
-src :@rnintel
-‏🇲🇱⚡️- Both FLA and Africa Corps outlets report a massive 200/300 vehicles long convoy has left Sévaré towards Gao. The convoy is central for a rumored massive FAMa+Africa Corps counter-offensive in northern Mali.  The convoy is composed mainly of logistical…
-00:17
 1405/04/28
 
 
@@ -4512,14 +4457,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@rnintel
-‏🇮🇷🇯🇴 - NASA's FIRMS shows the fire expanding at Jordan's Muwaffaq Salti Airbase. The location of the base struck is the billeting quarters housing U.S. military personnel.
-00:09
-1405/04/28
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏نیویورک تایمز می‌گوید در حمله ایران به پایگاه آمریکا در اردن به تعدادی از بالگردها خسارت وارد شده است
 00:09
@@ -4546,14 +4483,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:06
-1405/04/28
-
-
-
-
-src :@rnintel
-‏🇸🇾🇮🇱⚡- An Israeli military convoy of six vehicles has entered Syria's al-Qunaitra countryside, currently passing south of Kudnah Dam (approximately at 33.0187554, 35.9125749).
-00:05
 1405/04/28
 
 
@@ -7874,17 +7803,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 08:45
-1405/04/27
-
-
-
-
-src :@Navy_Iranian
-‏هدف قرار گرفتن آب‌شیرین‌کن روستای بونجی در شهرستان جاسک، توسط آمریکا 
-‏
-‏آب‌شیرین‌کن روستای بونجی که در ۱۵ بهمن ۱۳۹۴ با ظرفیت تولید ۳۵۰۰ مترمکعب آب شیرین در شبانه‌روز به بهره‌برداری رسیده بود و آب شرب حدود ۲۵ روستا و نزدیک به ۱۰ هزار نفر از ساکنان غرب شهرستان جاسک را تأمین می‌کرد، هدف حمله قرار گرفته و از مدار بهره‌برداری خارج شده است.
-‏
-‏
-‏⚓️ @Navy_Iranian | #MHB
-08:41
 1405/04/27
