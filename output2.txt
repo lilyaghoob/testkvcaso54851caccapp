@@ -1,3 +1,48 @@
+src :@rnintel
+‏🇬🇧🇮🇱⚡️- "An Israir flight was canceled after a service vehicle collided with the plane. This is the third time in less than a year that a British operational vehicle has damaged an Israir plane, leading to suspicions that the incident was intentional." - Ynet News, Israeli Media.
+19:06
+1405/04/28
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇮🇱 🇺🇸 — Israeli Prime Minister Benjamin Netanyahu has canceled a scheduled Fox News interview due to urgent security reasons.
+‏
+‏The Global Eye | Subscribe
+19:05
+1405/04/28
+
+
+
+
+src :@wfwitness
+[ویدئو]
+‏⚡️🇺🇸🇯🇴 A Sentinel-2 imagery timeline between June 25, and July 18 shows a buildup and repositioning of US military assets at King Hussein International Airport in Aqaba, Jordan.
+‏
+‏The site had appeared empty since May 29, with assets not reappearing until the June 28 pass, suggesting a roughly four-week gap before renewed activity began.
+‏
+‏Geolocation: 
+‏29°37’11.42”N 35°01’26.11”E
+‏
+‏@wfwitness
+19:05
+1405/04/28
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇱🇵🇸 Israel strikes Hamas weapons storage facility, weapons manufacturing site, and rocket launch site in the Gaza Strip.
+‏
+‏@BRICSNews
+19:04
+1405/04/28
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏سازمان عملیات تجارت دریایی بریتانیا اعلام کرد سطح تهدید دریایی در منطقه به ویژه دریای سرخ، همچنان بالا ارزیابی می‌شود. 
@@ -175,7 +220,6 @@ src :@rnintel
 [عکس]
 ‏🇲🇱🇷🇺 - In a separate and humiliating setback, the situation following the initial ambush on the Savare–Gao convoy deteriorated to such an extent that the Malian military, FAMa, and Russia's African Corps sent a small relief mission from the besieged city of Anefis to Gao.
 ‏
-‏
 ‏The relief mission convoy was also ambushed, this time at Tabrichaat (shown on the map).
 18:50
 1405/04/28
@@ -341,9 +385,11 @@ src :@naya_foriraq
 
 src :@VahidOnline
 [عکس]
-‏منابع حکومتی، روز یکشنبه ۲۸تیر۱۴۰۵، به نقل از معاون امنیتی و انتظامی استانداری خوزستان گزارش دادند که اطراف آبادان هدف حمله موشکی آمریکا قرار گرفته است.
+‏معاون امنیتی و انتظامی استانداری خوزستان عصر روز یکشنبه از «حمله موشکی آمریکا» به نقطه‌ای در اطراف شهر آبادان خبر داد.
 ‏
-‏به گفته این مقام، این حمله هیچ مجروحی بر جای نگذاشته است.
+‏ولی‌الله حیاتی اضافه کرد که این حمله کشته و مجروحی به جا نگذاشته است.
+‏
+‏سنتکام، ستاد فرماندهی ارتش آمریکا در منطقه خاورمیانه، [هنوز] درباره این ادعا بیانیه‌ای منتشر نکرده است. 
 ‏@VahidHeadline
 ‏
 ‏📡 @VahidOnline
@@ -2354,14 +2400,6 @@ src :@P_raetorio
 
 
 
-src :@rnintel
-‏🇮🇷⚡- Confirmed: Two Iranian ballistic missiles have been launched from Kermanshah, western Iran. Targets unknown.
-16:42
-1405/04/28
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴گزارشات از شنیده شدن صدای انفجار در شهر آبادان، خوزستان.
 ‏
@@ -3251,27 +3289,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@Military_Tweet
 15:53
-1405/04/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏ارتش اسرائیل اعلام کرد که موشک‌ها شهر العقبه در جنوب اردن را هدف قرار داده است، جایی که سفارت آمریکا چند ساعت پیش هشدارهایی صادر کرده بود.   @P_raetorio
-15:53
-1405/04/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏ارتش اسرائیل اعلام کرد که موشک‌ها شهر العقبه در جنوب اردن را هدف قرار داده است، جایی که سفارت آمریکا چند ساعت پیش هشدارهایی صادر کرده بود.
-‏
-‏
-‏@P_raetorio
-15:50
 1405/04/28
 
 
@@ -4938,17 +4955,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇧🇭 🇮🇷 — Bahrain Air defenses currently intercepting Iranian projectiles.
-‏
-‏The Global Eye | Subscribe
-12:53
-1405/04/28
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏⭕️ وال‌استریت ژورنال: آمریکا احتمال می‌دهد جمهوری اسلامی در هدف‌گیری از چین و روسیه کمک گرفته باشد 
@@ -5119,29 +5125,6 @@ src :@cataphract1
 
 src :@cataphract1
 ‏✨ به فروشگاه Atlas Relay خوش آمدید!  🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی ✅ تضمین امنیت ارتباطات شما 📞 پشتیبانی حرفه‌ای ۲۴ ساعته تعرفه ها : ✅ 10 گیگ 65 هزار تومان ✅ 20 گیگ 125 ✅ 30 گیگ 180 ✅ 40 گیگ 230 ✅ 50 گیگ 275 ✅ 100 گیگ 550 ⚜️سرور ها هیچگونه محدودیتی…
-11:56
-1405/04/28
-
-
-
-
-src :@cataphract1
-[عکس]
-‏✨ به فروشگاه Atlas Relay خوش آمدید!
-‏
-‏🛡 ارائه انواع سرویس‌های VPN با کیفیت عالی
-‏✅ تضمین امنیت ارتباطات شما
-‏📞 پشتیبانی حرفه‌ای ۲۴ ساعته
-‏تعرفه ها :
-‏✅ 10 گیگ 65 هزار تومان
-‏✅ 20 گیگ 125
-‏✅ 30 گیگ 180
-‏✅ 40 گیگ 230
-‏✅ 50 گیگ 275
-‏✅ 100 گیگ 550
-‏⚜️سرور ها هیچگونه محدودیتی برای تعداد کاربر و مدت زمان استفاده ندارند.
-‏
-‏https://t.me/AtlasRelayFastbot?start=cataphract
 11:56
 1405/04/28
 
@@ -5851,23 +5834,6 @@ src :@Parvazdaroj
 
 
 
-src :@cataphract1
-[عکس]
-‏⚜۱۹ ژوئیه ۱۸۷۰؛ آغاز جنگ فرانسه و پروس
-‏
-‏در چنین روزی، فرانسه به رهبری ناپلئون سوم به پروس اعلان جنگ کرد؛ جنگی که قرار بود به نمایش قدرت فرانسه تبدیل شود، اما در عمل به یکی از سنگین‌ترین شکست‌های تاریخ این کشور انجامید.
-‏
-‏ارتش فرانسه که از نظر سازماندهی، تجهیزات و آمادگی رزمی در وضعیت مناسبی قرار نداشت، در برابر نیروهای منسجم و مدرن پروس شکست‌های پیاپی را متحمل شد. تنها شش ماه پس از آغاز جنگ، نیروهای آلمانی وارد پاریس شدند و فرانسه ناچار به پذیرش شکست شد.
-‏
-‏این جنگ پیامدهای بزرگی برای اروپا داشت؛ از جمله سقوط امپراتوری دوم فرانسه، شکل‌گیری امپراتوری آلمان در سال ۱۸۷۱ و تغییر موازنه قدرت در قاره اروپا؛ تحولاتی که زمینه‌ساز بسیاری از رقابت‌های سیاسی و نظامی دهه‌های بعد شد.
-‏✒️#LT
-‏📃@Cataphract1
-08:35
-1405/04/28
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴وزارت امور خارجه ایالات متحده آمریکا یک "هشدار جهانی" صادر کرد و هشدار داد که "گروه‌هایی که از ایران حمایت می‌کنند، ممکن است به سایر منافع آمریکا در خارج از کشور یا مکان‌هایی که با ایالات متحده و/یا آمریکایی‌ها در سراسر جهان مرتبط هستند، حمله می کند
@@ -6062,17 +6028,6 @@ src :@defence_news
 src :@defence_news
 ‏پ.ن : بر اساس الگوی شب های گذشته نگاه کنیم ، جنوب نسبتا آرام بنظر می آید ، آیا این آرامش قبل طوفان است ؟!!!!!
 06:53
-1405/04/28
-
-
-
-
-src :@cataphract1
-[عکس]
-‏آتش‌سوزی چندین ساختمان در کیف
-‏
-‏@P_raetorio
-06:35
 1405/04/28
 
 
@@ -6612,16 +6567,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 01:35
-1405/04/28
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iranian attacks over the past five days have wounded dozens of US soldiers and damaged multiple helicopters.
-‏
-‏@BRICSNews
-01:22
 1405/04/28
 
 
