@@ -1,3 +1,49 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇬🇧 CBS News: Influencers Andrew and Tristan Tate have been arrested by U.S. federal authorities in Miami on a sealed warrant, with the UK seeking their extradition over rape and human trafficking charges.
+‏
+‏@wfwitness
+04:01
+1405/04/28
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — U.S. airstrikes have targeted Qeshm Island, southern Iran, tonight, Tasnim reports.
+04:01
+1405/04/28
+
+
+
+
+src :@World_Newsly
+‏🔴 اندرو و تریستان تیت در میامی دستگیر شدند. بریتانیا نیز اتهامات جدیدی شامل تج*وز، قا*اق ان*ان و کو*ک‌آز**ی علیه آن‌ها تأیید کرد و درخواست استرداد از آمریکا را ارائه خواهد کرد.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+04:00
+1405/04/28
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏حکیم جفریز، رهبر اقلیت دموکرات در مجلس نمایندگان آمریکا، در شبکه اجتماعی ایکس نوشت که به‌دلیل کشته شدن دو سرباز ایالات متحده در خاورمیانه «بسیار دل‌شکسته است» و افزود: «ما عمیقاً از میهن‌پرستی آن‌ها سپاس‌گزاریم و همراه با خانواده‌های‌شان سوگواری می‌کنیم.»
+‏
+‏او با ابراز امیدواری برای بازگشت ایمن سرباز مفقودالاثرآمریکایی دراردن نوشت: «دیگر نیازی نیست قهرمانان آمریکایی جان خود را به‌خاطر این جنگ بی‌ملاحظه از دست بدهند.»
+‏
+‏سناتور کریس مورفی، نماینده دموکرات مجلس سنای آمریکا، هم در ایکس با ابراز هم‌دردی برای کشته شدن دو سرباز آمریکایی نوشت: «ترامپ به‌طور  وحشتناکی، کنترل این جنگ را از دست داده است.»
+‏
+‏همجنین سناتور دموکرات کریس وان هولن در ایکس نوشت: «این جنگ بی‌معنی هرگز نباید آغاز می‌شد و باید همین حالا پایان یابد.»
+‏https://iranintl.com/202607195807
+03:57
+1405/04/28
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -24,6 +70,14 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷 Iran attacks Kurdish opposition group bases in northern Iraq.
 ‏
 ‏@BRICSNews
+03:57
+1405/04/28
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports of an explosion heard in Qeshm, Iran.  @wfwitness
 03:57
 1405/04/28
 
@@ -451,7 +505,7 @@ src :@OSINTWarfare
 
 
 src :@naya_foriraq
-‏انفجارات في بندرعباس جنوبي إيران
+‏انفجارات في بندرعباس وجزيرة قشم جنوبي إيران
 03:35
 1405/04/28
 
@@ -831,17 +885,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏‏🔴پرتاب مجدد موشک بالستیک به کی‌یف.
-‏‎
-‏‎‌✍🏻 Dangerman
-‏▪️@World_Newsly
-03:12
-1405/04/28
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇬🇧 Andrew Tate and his brother Tristan arrested in US following extradition request from the UK.
@@ -881,14 +924,6 @@ src :@IranintlTV
 ‏سازمان حقوق بشری هانا دراین مورد نوشت: «تا زمان انتشار این خبر، اطلاعاتی درباره تلفات احتمالی یا میزان خسارات ناشی از این حمله منتشر نشده است.»
 ‏https://iranintl.com/202607183237
 03:08
-1405/04/28
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇦🇷🇺 Renewed ballistic missile launch to Kyiv again.  @wfwitness
-03:07
 1405/04/28
 
 
@@ -1008,14 +1043,6 @@ src :@OSINTWarfare
 [عکس]
 ‏🇷🇺❌🇺🇦 — More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.  @IntelSlava
 02:51
-1405/04/28
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Unconfirmed reports of explosions heard in Qom, Iran.  @wfwitness
-02:50
 1405/04/28
 
 
