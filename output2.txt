@@ -1,3 +1,31 @@
+src :@P_raetorio
+[عکس]
+‏ویدیو سنتکام از دور جدید حملات خود به ایران  @P_raetorio
+08:26
+1405/04/28
+
+
+
+
+src :@World_Newsly
+‏🔴فوری : زلزله‌ ۵ ریشتری شهر سالند-خوزستان را در عمق ۱۲ کیلومتری زمین لرزاند ⏰️ : ۰۵:۵۵:۲۱  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
+08:26
+1405/04/28
+
+
+
+
+src :@Alibk3
+[عکس]
+‏سي إن إن: 
+‏
+‏واشنطن وافقت مبدئيًا على السماح للسعودية بتخصيب اليورانيوم.
+08:25
+1405/04/28
+
+
+
+
 src :@BellumActaNews
 [عکس]
 ‏🌲 - 🇱🇧🇮🇱🇱🇧 New details about the suspect, identified as Fouad Abdel Karim Khalifeh, reveal that he operated from within Hezbollah’s close social and family circles rather than from outside them.
@@ -1674,30 +1702,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴بروزرسانی تحرکات نظامی امریکا در منطقه
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-04:53
-1405/04/28
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 حمله پهپادی اوکراین به پالایشگاه نفت در میخایلوفسک روسیه در منطقه استاوروپول.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-04:46
-1405/04/28
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iranian lawmaker warns US troops to "flee" the Middle East.
 ‏
@@ -2755,14 +2759,6 @@ src :@bricsnews
 
 
 
-src :@Alibk3
-‏سماع دوي انفجارات في بهبهان الإيرانية.
-02:30
-1405/04/28
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏در همین میان حملات موشکی آخرالزمانی روسیه به پایتخت اوکراین  #اوکراین  #روسیه    @P_raetorio
@@ -3217,16 +3213,6 @@ src :@rnintel
 
 
 
-src :@P_raetorio
-‏فعالیت شدید جنگنده‌های آمریکایی بر فراز جزیره کیش
-‏
-‏@P_raetorio
-02:01
-1405/04/28
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴گزارشات از شنیده شدن صدای انفجار در سیریک و بندرعباس.
 ‏
@@ -3276,17 +3262,6 @@ src :@cataphract1
 
 
 
-src :@P_raetorio
-‏#فوری
-‏گزارش‌ها از شنیده شدن صدای انفجار در بندرعباس 
-‏
-‏@P_raetorio
-02:00
-1405/04/28
-
-
-
-
 src :@defence_news
 ‏اولین گزارش انفجار از سیریک منتشر شده است .
 ‏
@@ -3313,17 +3288,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 01:59
-1405/04/28
-
-
-
-
-src :@P_raetorio
-‏#فوری 
-‏گزارش ها از شنیده شدن صدای انفجار در اطراف سیریک
-‏
-‏@P_raetorio
-01:58
 1405/04/28
 
 
