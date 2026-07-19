@@ -1,3 +1,80 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸🇯🇴 — Iranian state media has published satellite imagery showing an aircraft hangar destroyed in the latest Iranian strike on Muwaffaq al-Salti Air Base in Jordan.
+‏
+‏➡️Wall Street Journal earlier reported that a U.S. F-15 was destroyed during the latest attack.
+‏
+‏@GeoPWatch
+13:31
+1405/04/28
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇮🇷❌🇺🇸🇯🇴 — Satellite imagery reveals damage to fighter jet shelters at Jordan's Muwaffaq Salti Air Base following Iranian missile strikes.
+‏
+‏@InteSlava
+13:31
+1405/04/28
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The U.S. Embassy in Amman, Jordan warns that, due to a "credible security threat," Aqaba International Airport and the seaport in Jordan have been evacuated.
+13:30
+1405/04/28
+
+
+
+
+src :@naya_foriraq
+‏‏السفارة الأميركية في الاردن: إخلاء المطار والميناء البحري بالعقبة جراء تهديد موثوق
+13:30
+1405/04/28
+
+
+
+
+src :@jangaavaran1390
+‏نیروی دریایی سپاه پاسداران انقلاب اسلامی مدعی شد که چهار شناور مورد حمایت آمریکا، مقررات دریایی را نقض کرده‌اند، در حالی که قصد عبور از تنگه هرمز را از طریق یک مسیر ناامن داشتند. این اقدام پس از آن صورت گرفت که گفته می‌شود سیستم‌های ناوبری این شناورها از کار…
+13:30
+1405/04/28
+
+
+
+
+src :@jangaavaran1390
+‏سفارت آمریکا در اردن:
+‏
+‏به دلیل یک تهدید امنیتی قریب‌الوقوع و موثق، فرودگاه و بندر العقبه تخلیه شده است.
+‏
+‏ما اکیداً توصیه می‌کنیم به همه شهروندان آمریکایی که از سفر به فرودگاه العقبه یا بندر دریایی خودداری کنند.
+13:29
+1405/04/28
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏نیروی دریایی سپاه پاسداران، ظهر یکشنبه اعلام کرد چهار کشتی را که به گفته این نیرو با خاموش کردن سامانه‌های ناوبری و بی‌توجهی به اخطارها، قصد خروج از تنگه هرمز از مسیر «ناایمن» را داشتند، متوقف کرده است. 
+‏
+‏نیروی دریایی سپاه افزود که در این اقدام دو کشتی دچار حادثه شدند و دو کشتی دیگر از ادامه مسیر منصرف شدند. 
+‏
+‏نیروی دریایی سپاه پاسداران همچنین اعلام کرده که کنترل تنگه هرمز در اختیار کامل این نیرو است و هیچ محموله‌ای بدون هماهنگی و اجازه از این تنگه عبور نخواهد کرد. 
+‏
+‏این نیروی نظامی همچنین تاکید کرد شناورهایی که وارد مسیر «ناایمن» شوند، ممکن است دچار حادثه شوند.
+‏ iranintl.com/202607192690
+13:27
+1405/04/28
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇯🇴⚡️ — The U.S. Embassy in Amman says Jordanian authorities evacuated Aqaba’s international airport and seaport today due to a “specific and credible threat.” 
@@ -1329,14 +1406,6 @@ src :@World_Newsly
 src :@Alibk3
 ‏دوي انفجار في البحرين وتفعيل صفارات الإنذار
 11:56
-1405/04/28
-
-
-
-
-src :@naya_foriraq
-‏انفجارات تهز البحرين في هذه الأثناء
-11:55
 1405/04/28
 
 
@@ -3456,16 +3525,6 @@ src :@defence_news
 src :@Alibk3
 ‏‏ترامب لنيويورك بوست:   الضربات الأميركية منعت طهران من امتلاك سلاح نووي.
 06:57
-1405/04/28
-
-
-
-
-src :@Alibk3
-‏‏ترامب لنيويورك بوست: 
-‏
-‏الضربات الأميركية منعت طهران من امتلاك سلاح نووي.
-06:54
 1405/04/28
 
 
@@ -5754,24 +5813,6 @@ src :@samueltarikh
 
 
 
-src :@ClashReport
-‏NEW: UAE says it’s deeply concerned about the recent regional escalation and is calling for:
-‏
-‏— An immediate halt to hostilities and de-escalation. 
-‏
-‏— Maximum restraint to avoid the region sliding into worse violence.
-‏
-‏— A swift return to negotiations.
-‏
-‏— Safe, uninterrupted shipping through the Strait of Hormuz, calling it vital to the global economy. 
-‏
-‏— An end to strikes on civilian infrastructure (schools, hospitals, desalination plants, energy facilities, etc.), calling such attacks a serious violation of international law that can’t be justified.
-23:55
-1405/04/27
-
-
-
-
 src :@guard_warriors
 ‏پیشبینی ها خبر از حملات شدیدتر امشب را میداد اما از شب های گذشته آرام تر است 
 ‏
@@ -7283,16 +7324,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 16:05
-1405/04/27
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇰🇼 - The Kuwaiti Academy of Security was struck by an Iranian missile.
-‏
-‏@GeoPWatch
-16:03
 1405/04/27
 
 
