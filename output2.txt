@@ -1,3 +1,116 @@
+src :@wfwitness
+‏⚡️🇮🇷 Tasnim: Two explosions were heard a few minutes ago in Qeshm Island, Iran.
+‏
+‏@wfwitness
+06:20
+1405/04/28
+
+
+
+
+src :@tabzlive
+[عکس]
+‏Last night and this morning, Russia launched another large-scale, combined missile and drone attack on Ukraine.
+‏
+‏Missiles launched:
+‏
+‏~34 Iskander-M/S-400 ballistic missiles launched from OTRK installations near Klintsy, Bryansk Oblast.
+‏
+‏~4 Iskander-M/S-400 ballistic missiles launched from OTRK installations near Klintsy, Bryansk Oblast.
+‏
+‏~4 Zircon hypersonic cruise missiles launched from ground-based installations near Manturovo, Kursk Oblast.
+‏
+‏~2 Zircon hypersonic cruise missiles launched from ground-based installations near Millerovo Airbase, Rostov Oblast.
+‏
+‏~4 Kh-59/69 cruise missiles launched from a Su-34 in the western Black Sea.
+‏
+‏~2 P-800 Oniks supersonic cruise missiles launched from a K-300 Bastion-P ground-based installation.
+‏
+‏~1 Kh-31P anti-radar missile launched from a Su-35 in the western Black Sea. 
+‏
+‏-----------------------
+‏
+‏Total missiles launched:
+‏
+‏~38 Iskander-M/S-400 ballistic missiles.
+‏~6 Zircon hypersonic cruise missiles.
+‏~4 Kh-59/69 cruise missiles.
+‏~2 P-800 Oniks supersonic cruise missiles.
+‏~1 Kh-31P anti-radar missile.
+‏
+‏~51 missiles in total.
+‏
+‏-----------------------
+‏
+‏Ukrainian air defence work:
+‏
+‏As of the time of writing, it appears that Ukrainian air defence was able to intercept a *minimum* of 2 Iskander-M/S-400s. 
+‏
+‏This is one of the lowest interception rates in a long time. 
+‏
+‏-----------------------
+‏
+‏The main targets for this strike was Ukrainian military targets in Kyiv. The following was targeted:
+‏
+‏- "Kyiv Central Design Bureau of Valves" machine building plant in Kyiv (50.455460, 30.430426).
+‏
+‏- The Meridian Radio Plant in Kyiv (50.446688, 30.415031).
+‏
+‏- Kyivkhimvolokno Plastics Factory in Kyiv (50.455144, 30.645816).
+‏
+‏- Artem Defence Plant in Kyiv (50.462179, 30.484543).
+‏
+‏- Auto-parts enterprise on the western outskirts of Kyiv (50.386199, 30.239884).
+‏
+‏- Either the Nova Poshta Warehouse No. 3 or the Nova Poshta Warehouse No. 9 in Kyiv (50.391379, 30.420608).
+‏
+‏- DB "Schenker" Logistics warehouse in Kyiv (50.361520, 30.304625). 
+‏
+‏- Yuzhnyi Port, Odesa Oblast (46.618334, 31.00382).
+‏
+‏- Unknown target near Karolino-Buhaz, Odesa Oblast.
+‏
+‏- Unknown target in Chornomorsk, Odesa Oblast.
+‏
+‏-----------------------
+‏
+‏Keep in mind, the numbers of missiles launched may be slightly higher than what I've listed, as the number of missiles detected is sometimes lower than actual launches.
+06:20
+1405/04/28
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇮🇷⚠️ — M5.0 Earthquake reported 28 km NE of Shūsh, North of Ahvaz, Khuzestan Province of Iran
+‏
+‏@BellumActaNews
+06:19
+1405/04/28
+
+
+
+
+src :@World_Newsly
+‏🔴گزارش انفجار جدید در قشم
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+06:17
+1405/04/28
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — Two U.S. strikes against Qeshm Island.
+06:17
+1405/04/28
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -57,9 +170,9 @@ src :@World_Newsly
 
 
 src :@Alibk3
-‏نائب المحافظ الإقليمي للأمن في محافظة خوزستان:
+‏نائب محافظ خوزستان:
 ‏
-‏استهدفت طائرات مقاتلة أميركية نقطة تقع بالقرب من مدينة شادگان.
+‏استهدفت طائرات مقاتلة أميركية نقطة تقع بالقرب من مدينة شادگان في خوزستان.
 06:15
 1405/04/28
 
@@ -238,9 +351,7 @@ src :@Indypersian
 
 src :@VahidOnline
 [عکس]
-‏🔄 مرکز لرزه‌نگاری کشوری:
-‏بزرگی زمین‌لرزه: ۵
-‏مرکز زلزله: سالند خوزستان
+‏🔄 زمین‌لرزه به بزرگی ۵ در عمق ۱۲ کیلومتری زمین در سالند خوزستان
 ‏
 ‏پیش از آپدیت:
 ‏پیام‌های دریافتی درباره لرزش زمین:
@@ -338,6 +449,25 @@ src :@VahidOnline
 ‏
 ‏سلام زلزله سمت دزفول خیلیییی شدید بود یکم دیگه ادامه میداشت من خودمو از تراس پرت میدادم 
 ‏اینقد طولانی بود که موقعی که بیدار شدم رفتم توی تراس هنوز قطع نشده بود توس عمرم اولین بارم بود همچین چیزی حس کرده بودم
+‏
+‏🔄
+‏پیام دریافتی به نقل از مرکز لرزه‌نگاری کشوری:
+‏گزارش مقدماتی زمین‌لرزه
+‏ بزرگی: 5
+‏ محل وقوع: استان خوزستان - حوالی سالند
+‏ تاریخ و زمان وقوع به وقت محلی: 1405/04/28 05:55:21
+‏طول جغرافیایی: 48.61
+‏عرض جغرافیایی: 32.58
+‏عمق زمین‌لرزه: 12 کیلومتر
+‏
+‏ نزدیک‌ترین شهرها:
+‏23 کیلومتری سالند (خوزستان)
+‏27 کیلومتری اندیمشک (خوزستان)
+‏29 کیلومتری دزفول (خوزستان)
+‏ 
+‏ نزدیکترین مراکز استان:
+‏103 کیلومتری خرم آباد
+‏140 کیلومتری اهواز
 ‏
 ‏📡 @VahidOnline
 05:57
@@ -1041,17 +1171,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-‏🔴 گزارش از فعالیت جنگنده‌ها بر فراز مناطق مرکزی و غربی تهران
-‏
-‏✍🏻 north vector
-‏▪️@World_Newsly
-04:18
-1405/04/28
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Reports of explosions on Qeshm Island and in Bandar Abbas.
 ‏
@@ -1707,14 +1826,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇺🇦🇷🇺 CCTV footage captures moment of Impact in Kyiv, Ukraine.  @wfwitness
 03:22
-1405/04/28
-
-
-
-
-src :@tabzlive
-‏🇺🇸⚡️ — Andrew and Tristan Tate have been arrested in Miami.  ➡️ The charges against the brothers have not yet been disclosed.
-03:21
 1405/04/28
 
 
@@ -2720,22 +2831,6 @@ src :@guard_warriors
 ‏فعالیت های شدید جنگنده های آمریکا بر فراز کیش 
 ‏
 ‏@Guard_Warriors
-02:05
-1405/04/28
-
-
-
-
-src :@BellumActaNews
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Seems like there's a cellular / internet outage in southern Iran at the moment.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏به نظر می‌رسد در حال حاضر یک قطعی شبکه سلولی / اینترنت در جنوب ایران رخ داده است.
-‏
-‏𝕏  ·  @shin_persian
 02:05
 1405/04/28
 
