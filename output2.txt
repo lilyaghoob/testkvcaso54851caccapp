@@ -1,3 +1,90 @@
+src :@Alibk3
+‏بعد رصد مسيرات، دوي 3 انفجارات في محافظة الزرقاء الأردنية حيث قاعد موفق السلطي.
+22:22
+1405/04/28
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏وزارت امور خارجه اردن کاردار سفارت ایران در امان را برای ابلاغ «پیام اعتراضی شدید» درباره حملات جمهوری اسلامی به این کشور احضار کرد.
+‏خبرگزاری رسمی اردن، روز یکشنبه ۲۸تیر ۱۴۰۵، گزارش داد وزارت امور خارجه این کشور همچنین نسبت به «اظهارات تحریک‌آمیز و تنش‌زا» از سوی نهادهای رسمی ایران اعتراض کرده است.
+‏
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155177
+‏@Farsi_Iranwire
+22:21
+1405/04/28
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇦🇷🇺 CERT-UA reports new infection tactics used by the Russia-linked hacking group UAC-0145, now spreading malware via fake CAPTCHA prompts on hacked websites that trick users into running malicious commands.
+‏
+‏Other methods include fake antivirus apps sent over Signal, and a fake Android security app that steals contacts, files, and real-time location.
+‏
+‏Victims include Ukrainian government and military-linked users; CERT-UA urges site admins and hosting providers to check for compromise and report suspicious activity.
+‏
+‏@wfwitness
+22:20
+1405/04/28
+
+
+
+
+src :@Alibk3
+[نظرسنجی]
+22:20
+1405/04/28
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴ترامپ :
+‏
+‏🔹️کاشت درختان زیبای افرا و بلوط در کاخ سفید!
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+22:20
+1405/04/28
+
+
+
+
+src :@samueltarikh
+[عکس]
+‏اریک دوهرتی تحلیلگر مشهور آمریکایی و از نزدیکان ترامپ:
+‏
+‏"رسمی شد: عراق به تازگی ۴۸ قرارداد با شرکت‌های آمریکایی، از جمله غول‌های نفتی ایالات متحده امضا کرد تا از طریق یک خط لوله جدید، تنگه هرمز را دور بزند.
+‏
+‏به گزارش خبرگزاری رویترز، ارزش کل این قراردادها بیش از ۶۰ میلیارد دلار است.
+‏فوق‌العاده مهم!
+‏
+‏شرکت‌های شورون، اکسان‌موبیل، شل و چند شرکت دیگر نیز در این قراردادها مشارکت دارند.
+‏رژیم ایران از این رویداد متنفر است."
+22:19
+1405/04/28
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴درحالی که همه دنیا منتظر پاسخ آمریکا و ایران به طرح قطر هستن ترامپ داره تو کاخ سفید درخت میکاره
+‏
+‏@MilitarryWorld | Maverick
+22:18
+1405/04/28
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴والا نیوز، خبرگزاری اسرائیلی: مقامات اسرائیل معتقدند ایران در نهایت به دستور آیت الله مجتبی خامنه‌ای به اسرائیل حمله خواهد کرد و درگیری را بسیار گسترده تر خواهد کرد.
@@ -1019,20 +1106,6 @@ src :@wfwitness
 
 src :@tabzlive
 ‏🇰🇼🇮🇷⚡️ — Explosions in Kuwait.
-21:36
-1405/04/28
-
-
-
-
-src :@World_Newsly
-‏🔴یک پیشنهاد جدید از سوی قطر مطرح شده است تا تبادل آتش بین ایالات متحده و ایران متوقف شود. مهم‌ترین بخش‌های این پیشنهاد عبارتند از:
-‏
-‏- ایالات متحده از حملات خودداری می‌کند.
-‏- ایران، دو مسیر دریایی در تنگه هرمز را به مدت 10 روز باز می‌کند.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
 21:36
 1405/04/28
 
@@ -2603,18 +2676,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-‏⚡️🇮🇱🇸🇾 The IDF is shelling Tal Ahmar in the eastern Quneitra countryside with artillery.
-‏
-‏3 shells recorded so far.
-‏
-‏@wfwitness
-20:29
-1405/04/28
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏تصاویر ماهواره‌ای منتشر شده توسط رسانه‌های دولتی ایران، یک انبار لجستیکی به شدت آسیب دیده در پایگاه هوایی العدید در قطر را نشان می‌دهد.
@@ -2799,16 +2860,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 20:23
-1405/04/28
-
-
-
-
-src :@Alibk3
-‏إذاعة جيش الاحتلال:
-‏
-‏عرض قطري جديد لتجديد الهدنة.
-20:22
 1405/04/28
 
 
@@ -3602,18 +3653,6 @@ src :@rnintel
 
 
 
-src :@MilitarryWorld
-‏🔴رئیس هلال احمر: 
-‏
-‏در تشییع میلیونی نه تنها یک فوتی هم نداشتیم بلکه شاهد چندین تولد نوزاد نیز بودیم
-‏
-‏@MilitarryWorld | Parsa
-18:53
-1405/04/28
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏قوه قضاییه جمهوری اسلامی با انتشار هشداری اعلام کرد انتشار برخی مطالب، تصاویر و ویدیوها که به تشخیص مرجع قضایی برخلاف امنیت ملی یا موجب ایجاد رعب و وحشت عمومی باشد، می‌تواند تا ۱۵ سال حبس و مجازات‌های دیگر در پی داشته باشد.
@@ -3868,18 +3907,6 @@ src :@Mena_Live
 [عکس]
 ‏🇺🇸🇮🇷🇯🇴 - Satellite imagery from King Hussein International Airport in Aqaba, Jordan, shows a significant buildup of U.S. military assets at the airport beginning on July 3.
 18:22
-1405/04/28
-
-
-
-
-src :@MilitarryWorld
-‏🔴سفیر ایران در روسیه: 
-‏
-‏درحال حاضر آمریکایی‌ها هوایی به ما حمله میکنن و فرار میکنن، اگه اونا زمینی بیان این خوب و به‌جاست چون اون موقع جنگ ما زمینی و مردونه میشه و ما در جنگ زمینی غیور هستیم.
-‏
-‏@MilitarryWorld | Parsa
-18:21
 1405/04/28
 
 
@@ -5906,18 +5933,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 13:37
-1405/04/28
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏آنیتا پاپیست، خواننده زیرزمینی که آثارش در شبکه‌های اجتماعی با استقبال مخاطبان روبه‌رو بود، با انتشار تصویر حکم قضایی خود اعلام کرد که به اتهام «جریحه‌دار کردن عفت عمومی» به ۷۴ ضربه شلاق محکوم شده است.
-‏بیشتر: https://iranwire.com/fa/news-1/155164
-‏
-‏@Farsi_Iranwire
-13:35
 1405/04/28
 
 
