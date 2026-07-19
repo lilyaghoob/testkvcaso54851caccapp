@@ -1,3 +1,51 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷 Unconfirmed reports of new launches from Iran.
+‏
+‏@wfwitness
+01:01
+1405/04/29
+
+
+
+
+src :@naya_foriraq
+‏مهزلة تحكمية كبرى ! 
+‏
+‏الحكم يلغي هدف لإسبانيا مستحق على الأرجنتين !
+01:00
+1405/04/29
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏وزارت خارجه قطر اعلام کرد محمد بن عبدالرحمن بن جاسم آل ثانی، نخست‌وزیر و وزیر خارجه این کشور، در گفت‌وگوی تلفنی با فیصل بن فرحان بن عبدالله آل سعود، وزیر خارجه عربستان سعودی، بر لزوم پایبندی همه طرف‌ها به گفت‌وگو، دیپلماسی و اجرای مفاد یادداشت تفاهم میان آمریکا و جمهوری اسلامی تاکید کرد.
+‏
+‏بر اساس این بیانیه، نخست‌وزیر و وزیر خارجه قطر همچنین بر ضرورت تضمین آزادی دریانوردی در تنگه هرمز برای حفظ امنیت منطقه‌ای، صیانت از دستاوردهای حاصل‌شده و تقویت ثبات منطقه تاکید کرد.
+‏
+‏او همچنین گفت دولت قطر از همه تلاش‌ها برای کاهش تنش‌ها و دستیابی به توافقی جامع که به صلح پایدار در منطقه منجر شود، حمایت کامل می‌کند.
+‏https://iranintl.com/202607198623
+00:59
+1405/04/29
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 مقاومت اسلامی عراق اعلام کرد در صورت ادامه تشدید تنش‌ها علیه ایران توسط ایالات متحده، مستقیماً نیروها، پایگاه‌ها و منافع ایالات متحده در عراق و سراسر منطقه را هدف قرار خواهد داد. این گروه افزود که در روزهای اخیر هیچ حمله‌ای به پایگاه‌های آمریکایی انجام نداده است.
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+00:57
+1405/04/29
+
+
+
+
 src :@tabzlive
 ‏🇮🇶🇮🇷❌🇺🇸 — The Islamic Resistance in Iraq says it remains committed to directly joining the fight against the U.S. if it continues to escalate its military campaign against Iran.
 ‏
@@ -1236,18 +1284,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@P_raetorio
 00:04
-1405/04/29
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش‌های تأییدنشده از شنیده‌شدن صداهایی در برخی نقاط استان‌های مرکزی و قم و دلیجان منتشر شده است.
-‏🔹تاکنون هیچ منبع رسمی وقوع انفجار در اراک، قم و دلیجان را تأیید نکرده و خبر در حال بررسی است.
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-00:03
 1405/04/29
 
 
@@ -2908,14 +2944,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏انطلاق نهائي كأس العالم بين اسبانيا والارجنتين.
-22:36
-1405/04/28
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏حجم عظیمی از سوخت‌رسان‌ها و ترابری‌های آمریکایی در راه خاورمیانه هستند!
@@ -3018,21 +3046,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155177
 ‏@Farsi_Iranwire
 22:21
-1405/04/28
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇦🇷🇺 CERT-UA reports new infection tactics used by the Russia-linked hacking group UAC-0145, now spreading malware via fake CAPTCHA prompts on hacked websites that trick users into running malicious commands.
-‏
-‏Other methods include fake antivirus apps sent over Signal, and a fake Android security app that steals contacts, files, and real-time location.
-‏
-‏Victims include Ukrainian government and military-linked users; CERT-UA urges site admins and hosting providers to check for compromise and report suspicious activity.
-‏
-‏@wfwitness
-22:20
 1405/04/28
 
 
@@ -7577,17 +7590,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:13
-1405/04/28
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴  واکنش ترامپ به خبر پایان یادداشت تفاهم با ایران در گفتگو با شبکه نیوزنیشن:
-‏
-‏«کمترین اهمیتی برایم ندارد.»
-‏
-‏🆔 @Americana_ir
-00:57
 1405/04/28
