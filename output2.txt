@@ -1,3 +1,55 @@
+src :@World_Newsly
+[عکس]
+‏🔴عراقچی: من آیت الله مجتبی خامنه‌ای را بعد از رهبری ندیدم و تعداد خیلی کمی از افراد هستند که او را دیده اند.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+13:46
+1405/04/28
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱 — The US is determined to deploy 100 refueling aircraft throughout Israel.
+‏
+‏— Israeli Channel 14 | @TheWarReporter
+13:44
+1405/04/28
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇦❌🇷🇺 — Ukrainian President Zelensky says Ukraine's SBU destroyed a Tu-95 strategic bomber at the Engels-2 airbase in Russia’s Saratov region during yesterday’s attack.
+13:43
+1405/04/28
+
+
+
+
+src :@rnintel
+‏🇮🇷⚡- Saudi's al-Hadath believes Iran's Supreme Leader Mojtaba Khamenei is not in Iran at all, and that all messages and statements attributed to him are written by IRGC's Chief Ahmad Vahidi.
+13:43
+1405/04/28
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴خضریان، عضو کمیسیون امنیت ملی مجلس: حضور گسترده ما در جنوب برای این است که به آمریکا بگوییم ما آمده ایم پدر شما را دربیاوریم.
+‏او همچنین افزود: پروژه هدف قرار دادن زیرساخت های کشور های منطقه در حال نهایی شدن است.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+13:42
+1405/04/28
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏‏السفارة الأميركية بالأردن:   السلطات أخلت مطار العقبة الدولي والميناء البحري ‏ونطلب من رعايانا عدم الاقتراب من تلك المواقع.
@@ -1631,14 +1683,6 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏انفجارات تهز البحرين في هذه الأثناء
-11:55
-1405/04/28
-
-
-
-
 src :@P_raetorio
 ‏فعال شدن آژیر خطر در بحرین
 ‏
@@ -2000,18 +2044,6 @@ src :@didarnews1
 
 
 
-src :@World_Newsly
-[عکس]
-‏⭕ تصویر ماهواره‌ای از انهدام آشیانه جنگنده‌های آمریکا در پایگاه الازرق اردن.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-11:37
-1405/04/28
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏📢🔺 “من از روی سکو پیام میدم، اینها خیلی احمق‌اند، میدونند که ممکن است سکوها رو بزنند اما نه تنها دستور تخلیه ندادن، تازه میخوان اورهال بدهند، جان مردم پوچ است
@@ -2019,17 +2051,6 @@ src :@DEJradio
 ‏#پیام_دریافتی
 ‏@DEJradio
 11:37
-1405/04/28
-
-
-
-
-src :@World_Newsly
-‏با صرف هزینه‌ای تقریبی معادل 50 میلیون دلار، میلیون‌ها پیام به شهروندان آمریکا ارسال شده است: وال استریت ژورنال جزئیات جدیدی را درباره عملیات تأثیرگذاری اسرائیل در آمریکا، به منظور حفظ حمایت از این کشور، فاش کرد. میلیون‌ها پیام مبتنی بر هوش مصنوعی به شهروندان آمریکایی ارسال شده است، در حالی که همزمان تبلیغات در رسانه‌های محافظه‌کار و فعال‌سازی چهره‌های تأثیرگذار محافظه‌کار نیز انجام شده است.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-11:36
 1405/04/28
 
 
@@ -4001,14 +4022,6 @@ src :@BellumActaNews
 
 
 
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Two U.S. strikes against Qeshm Island.
-06:17
-1405/04/28
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -5134,14 +5147,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- "Today at 6 p.m. ET, U.S. forces began launching new airstrikes against Iran at the Commander in Chief’s direction. The strikes are designed to further degrade Iran’s ability to threaten commercial shipping in the Strait of Hormuz and swiftly punish…
-01:58
-1405/04/28
-
-
-
-
 src :@Navy_Iranian
 ‏انفجار در سیریک
 ‏⚓️ @Navy_Iranian | #Tomcat
@@ -5854,14 +5859,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 00:14
-1405/04/28
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇯🇴🇮🇷 — Footage shows Iranian ballistic missiles striking Muwaffaq Salti Air Base in Jordan overnight.  Two U.S. service members were killed in the attack, while another remains missing.  @TheWarReporter
-00:13
 1405/04/28
 
 
