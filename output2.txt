@@ -1,4 +1,28 @@
 src :@World_Newsly
+[عکس]
+‏🔴 حمله پهپادی اوکراین به پالایشگاه نفت در میخایلوفسک روسیه در منطقه استاوروپول.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+04:46
+1405/04/28
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iranian lawmaker warns US troops to "flee" the Middle East.
+‏
+‏"If US troops truly understood what our wise Supreme Leader meant by 'unforgettable lessons,' they wouldn't waste a single second fleeing."
+‏
+‏@BRICSNews
+04:44
+1405/04/28
+
+
+
+
+src :@World_Newsly
 ‏🔴حمله هوایی با استفاده از پهپادها در نزدیکی یک مسجد در اردوگاه بریج، در مرکز نوار غزه
 ‏
 ‏‌✍🏻 SLXUGHTER
@@ -784,17 +808,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴 گزارش از شنیده شدن ۴ صدای انفجار در بندرعباس
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:35
-1405/04/28
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏According to The New York Times, Iran's attack on Jordan damaged a "significant number" of UH-60 Black Hawk helicopters.
@@ -1404,15 +1417,6 @@ src :@P_raetorio
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- Explosions reported in Bandar-e Lengeh, southern Iran.
 02:38
-1405/04/28
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏الدفاعات الجوية الأردنية ترفع أقصى مستويات الخطورة
-02:37
 1405/04/28
 
 
@@ -5927,18 +5931,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 20:31
-1405/04/27
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iranian Supreme Leader Mujtaba Khamenei issues statement as fighting with the US resumes
-‏
-‏"Today, the Great Satan has once again revealed its true, unmasked face, so that this dark episode of criminality and broken promises serves as yet another indisputable testament to the US's dishonesty, irrationality, unreliability, and malicious nature."
-‏
-‏@BRICSNews
-20:27
 1405/04/27
 
 
