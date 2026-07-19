@@ -1,3 +1,36 @@
+src :@ClashReport
+[عکس]
+‏Senior Iranian MP Ebrahim Azizi:
+‏
+‏If US troops truly understood what our wise Supreme Leader meant by ‘unforgettable lessons,’ they wouldn’t waste a single second fleeing.
+10:45
+1405/04/28
+
+
+
+
+src :@ClashReport
+‏An Iranian air defense system shot down an MQ-9 Reaper drone over Ahvaz.
+‏
+‏Source: Tasnim
+10:44
+1405/04/28
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏ابراهیم عزیزی، رییس کمیسیون امنیت ملی مجلس، با اشاره به پیام مکتوب مجتبی خامنه‌ای در خصوص جنگ با آمریکا، در شبکه ایکس نوشت که اگر سربازان آمریکایی می‌دانستند اشاره رهبر به «درس‌های فراموش‌نشدنی» به آن‌ها یعنی چه، «حتی یک ثانیه را هم برای فرار از دست نمی‌دادند.» 
+‏
+‏مجتبی خامنه‌ای، رهبر سوم جمهوری اسلامی، شنبه، ۲۷ تیر در پیامی مکتوب، اعلام کرده بود «ملت ایران برای دشمن آمریکایی درس‌های فراموش‌نشدنی دارد.»
+‏ iranintl.com/202607198149
+10:43
+1405/04/28
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏جواد مشمول، از نیروهای سرکوب مردم مشهد در ١٨ و ١٩ دی ماه و از نیروهای ج ا در سوریه در دوران بشار اسد، در حملات آمریکا به بندرعباس کشته شد
@@ -869,6 +902,8 @@ src :@VahidOnline
 ‏
 ‏چابهار یچی زدن همه ریختن بیرون ولی نه سمت اسکله نه پایگاه امام علی اصلا هیچ دودی هم نیست به شدت لرزوند
 ‏
+‏آپدیت: منابع حکومتی
+‏فرمانداری شهرستان چابهار: صدای انفجار شنیده‌ شده در روز جاری (۲۸ تیر) در حوالی شهر چابهار، ناشی از عملیات امحا و انهدام کنترل‌شده مهمات عمل‌نکرده بوده است.
 ‏📡 @VahidOnline
 09:48
 1405/04/28
@@ -910,17 +945,6 @@ src :@rus_cosmos
 ‏در نهایت فضانوردان موفقیت در اقیانوس آرام فرود آمد، اما به مدت دو هفته در بیمارستان  بستری و قرنطینه شدند.
 ‏
 ‏@rus_cosmos
-09:45
-1405/04/28
-
-
-
-
-src :@World_Newsly
-‏🔴روزنامه اطلاعات: مردم ایران «تاب‌آوری» بالایی دارند و آن را در جنگ اخیر نشان دادند؛ اما این موضوع نباید بهانـه ای برای تحمیل فشار بیشتر شود.
-‏
-‏‎‌✍🏻 Dangerman
-‏▪️@World_Newsly
 09:45
 1405/04/28
 
@@ -3466,15 +3490,6 @@ src :@bricsnews
 
 
 
-src :@P_raetorio
-[عکس]
-‏در همین میان حملات موشکی آخرالزمانی روسیه به پایتخت اوکراین  #اوکراین  #روسیه    @P_raetorio
-02:28
-1405/04/28
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی ۲:۱۷
 ‏
@@ -5535,14 +5550,6 @@ src :@bricsnews
 
 
 
-src :@ClashReport
-‏Ukrainian UAVs hit the largest order-processing hub of Wildberries, Russia's biggest e-commerce retailer, in the Moscow region.
-22:03
-1405/04/27
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Libya's National Oil Corporation (NOC) announced a new oil field discovery called "Eassar," which holds approximately 195 million barrels of oil. The field, located in the Sirte Basin, is expected to produce around 5,000 barrels per day. The discovery was made by Austria's OMV after drilling the B1-106/4 well.
@@ -5585,15 +5592,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 21:55
-1405/04/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Netanyahu 🤝 🇦🇷
-21:54
 1405/04/27
 
 
