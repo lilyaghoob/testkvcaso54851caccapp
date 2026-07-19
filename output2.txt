@@ -1,3 +1,53 @@
+src :@intelslava
+[عکس]
+‏An ICBM named "Ferran Torres," launched from Spain, struck Argentina.
+01:22
+1405/04/29
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Explosion in Argentina
+01:21
+1405/04/29
+
+
+
+
+src :@OSINTWarfare
+‏Explosion in Argentina
+01:19
+1405/04/29
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— General Ferran Torres of the Islamic Republic of Spain, the goalscorer against Argentina.
+01:18
+1405/04/29
+
+
+
+
+src :@World_Newsly
+‏🔴 منهای میلیتاری
+‏
+‏⭕ طنز
+‏
+‏🔻گلر ارژانتین مثل گنبد اهنین هرچی زدن گرفت ، ولی خب اخرش توسط محور مقاومت اوت نامبر شد.
+‏
+‏✍🏻 adolf hitler
+‏▪️@World_Newsly
+01:17
+1405/04/29
+
+
+
+
 src :@warmonitors
 ‏No world in which this is a foul
 ‏
@@ -24,7 +74,7 @@ src :@Indypersian
 
 
 src :@GeoPWatch
-‏🇪🇸❌🇦🇷— Spanish missile hits back of Argentina net (1-0 Spain)
+‏🇪🇸❌🇦🇷— Spain scored the opening goal against Argentina in the 2026 World Cup Final during extra time! 1-0.
 01:16
 1405/04/29
 
@@ -4532,17 +4582,6 @@ src :@thewarreporter
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸❌🇷🇺🇮🇷 — US President Donald Trump said that Iran should be included in the US sanctions bill against Russia.
-‏
-‏@IntelSlava
-20:33
-1405/04/28
-
-
-
-
 src :@mohem_mat
 ‏درخواست کمک اسرائیل از روحانیون یهودی برای مقابله با اقدامات جاسوسی ایران
 ‏
@@ -7475,15 +7514,6 @@ src :@Mena_Live
 
 
 
-src :@OSINTWarfare
-[عکس]
-‏Unconfirmed reports claim that two Kuwaiti Air Force Eurofighter Typhoon Multirole Fighters were destroyed in an Iranian ballistic missile strike targeting Ali Al Salem Air Base.
-03:13
-1405/04/28
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇬🇧 Andrew Tate and his brother Tristan arrested in US following extradition request from the UK.
@@ -7501,15 +7531,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 02:52
-1405/04/28
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇷🇺❌🇺🇦 — More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.  @IntelSlava
-02:51
 1405/04/28
 
 
