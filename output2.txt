@@ -1,3 +1,73 @@
+src :@ClashReport
+[عکس]
+‏Andrew Tate and his brother Tristan have been arrested in the US after UK prosecutors announced new criminal charges and requested their extradition.
+‏
+‏Andrew Tate faces seven additional rape charges, along with other alleged offences including sex trafficking.
+‏
+‏Tristan Tate is charged with sexual assault, two counts of rape, and trafficking-related offences.
+‏
+‏Prosecutors say the alleged crimes occurred between 2010 and 2017 and involve seven alleged victims.
+‏
+‏The US Marshals confirmed the brothers were arrested as part of extradition proceedings.
+10:36
+1405/04/28
+
+
+
+
+src :@defence_news
+‏#فوری
+‏
+‏دقایقی قبل، یک فروند پهپاد MQ۹ با آتش سامانه نوین پدافند پیشرفته نیروی هوافضای سپاه و تحت کنترل شبکه یکپارچه پدافند هوایی کشور، در آسمان اهواز ساقط شد.
+‏
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+10:35
+1405/04/28
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 رئیس کمیسیون امنیت ملی مجلس خطاب به سربازان آمریکایی: فرار کنید؛ حتی یک ثانیه را هم از دست ندهید
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+10:35
+1405/04/28
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇺🇸 Fars: An MQ9 drone was intercepted and shot down by a new, advanced air defense system of the Islamic Revolutionary Guard Corps Navy in the sky above Bushehr, Iran.  @wfwitness
+10:34
+1405/04/28
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ سنتکام:  در طول این هشتمین شب متوالی از حملات ایالات متحده، نیروهای CENTCOM با موفقیت به تاسیسات نظارتی ساحلی و پدافند هوایی ارتش ایران، قابلیت‌های دریایی، و همچنین محل‌های ذخیره‌سازی موشک‌ها و پهپادها ضربه زدند، تا به تضعیف توانمندی‌های نظامی ایران ادامه…
+10:33
+1405/04/28
+
+
+
+
+src :@jangaavaran1390
+‏ارتش اوکراین اعلام کرد که دیشب 18 موشک از مجموع 41 موشکی که توسط ارتش روسیه شلیک شده بود، را سرنگون کرده است. سرگئی سیبه، وزیر امور خارجه اوکراین، گفت که این بزرگترین حمله موشکی بالستیک روسیه از آغاز جنگ است
+10:33
+1405/04/28
+
+
+
+
 src :@defence_news
 ‏× شب گذشته، روس ها دست به حملات گسترده ایی علیه اوکراین زدند. از آنجایی ذخایر موشک های پدافندی اوکراینی ها در وضعیت بحرانی قرار دارد تمرکز اصلی حملات، بر پایه موشک های بالستیک و کروز قرار داشت.
 ‏
@@ -566,16 +636,6 @@ src :@naya_foriraq
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴 گزارشات از حملات موشکی و پهپادی سپاه به سمت پایگاه امریکا در کویت
-‏
-‏🆔@WAR_ROOM_NEWS
-10:01
-1405/04/28
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷🇺🇸🇰🇼 The Kuwaiti army released a statement claiming they were intercepting hostile missile and drone threats. The statement coincided sirens going off in the country.
@@ -835,21 +895,6 @@ src :@World_Newsly
 ‏✍🏻 north vector
 ‏▪️@World_Newsly
 09:40
-1405/04/28
-
-
-
-
-src :@World_Newsly
-‏🔴 اعلام منطقه نظامی بسته در بخش‌هایی از غرب نقب
-‏
-‏ارتش اسرائیل اعلام کرد بر اساس ارزیابی‌های امنیتی، از ساعت ۸ صبح امروز یکشنبه تا ساعت ۸ صبح دوشنبه، محدوده‌ای از تقاطع «یاد مردخای» تا «شاعر هَنگِو» و از آنجا تا گذرگاه «کرم ابوسالم» منطقه نظامی بسته اعلام شده است.
-‏
-‏بر اساس این بیانیه، این محدودیت به‌دلیل برگزاری راهپیمایی جنبش شهرک‌سازی «نحالا» اعمال شده است.
-‏
-‏✍🏻 north vector
-‏▪️@World_Newsly
-09:35
 1405/04/28
 
 
@@ -2039,16 +2084,6 @@ src :@BellumActaNews
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Tasnim: Two explosions were heard a few minutes ago in Qeshm Island, Iran.
-‏
-‏@wfwitness
-06:20
-1405/04/28
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏Last night and this morning, Russia launched another large-scale, combined missile and drone attack on Ukraine.
@@ -2476,14 +2511,6 @@ src :@jangaavaran1390
 
 src :@jangaavaran1390
 ‏طبق گزارش جدید وال استریت ژورنال، چندین هواپیمای سرنشین‌دار و بدون سرنشین آمریکایی در حمله ایران به پایگاه هوایی موفق السلطی در اردن آسیب دیده‌اند که منجر به کشته شدن دو نظامی آمریکایی و زخمی شدن چندین نفر دیگر نیز شده است. صدها پرسنل آمریکایی و ده‌ها هواپیما به طور موقت در این پایگاه برای حمله به ایران مستقر شده‌اند. این حمله نشان دهنده تمرکز فزاینده بر هدف قرار دادن دارایی‌های هوایی ایالات متحده در حالی است که درگیری همچنان رو به تشدید است.
-05:39
-1405/04/28
-
-
-
-
-src :@jangaavaran1390
-‏دونالد ترامپ، رئیس‌جمهور ایالات متحده، درباره ایران و عدم پایبندی آن‌ها به توافق‌نامه یادداشت تفاهم:  «من اصلاً اهمیتی نمی‌دهم.»
 05:39
 1405/04/28
 
@@ -6080,14 +6107,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@defence_news
-‏دو کشته و یک مفقودی و چهار زخمی در پی حمله موشکی پهپادی روز گذشته هوافضا به اردن توسط سنتکام اعلام شد  @RedLionCorps
-20:50
-1405/04/27
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 کشته شدن دو نظامی آمریکایی در اردن در جریان حملات ایران
@@ -7294,16 +7313,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 13:59
-1405/04/27
-
-
-
-
-src :@guard_warriors
-‏شلیک موشک از خمین و تبریز 
-‏
-‏@Guard_Warriors
-13:20
 1405/04/27
 
 
