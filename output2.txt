@@ -1,9 +1,52 @@
-src :@MilitarryWorld
-‏⭕️کولیوند، رئیس هلال احمر:
-‏تو تشییع جنازه علی خامنه‌ای با اون همه جمعیت نه‌تنها فوتی نداشتیم، بلکه چنتا مادر باردار همونجا زایمان کردن.
+src :@Alibk3
+[عکس]
+‏مشاهد جديدة من الأقمار الصناعية تُظهِر الدمار الحاصل في قاعدة الأزرق بالأردن حيث يظهر تدمير مواقع السكن للجنود الامريكيين وهي مدمّرة مع حظائر طائرات ومستودعات.
+14:10
+1405/04/29
+
+
+
+
+src :@World_Newsly
+‏🔴 بنیامین نتانیاهو، نخست‌وزیر اسرائیل، بعدازظهر امروز جلسه کابینه امنیتی را برگزار خواهد کرد.
 ‏
-‏@MilitarryWorld | Shayan
-14:05
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+14:10
+1405/04/29
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷❌🇺🇸🇯🇴 — Iran has carried out four attacks against U.S. forces in Jordan in five days, according to NYT.  ➡️ The first strike targeted a residential facility at King Faisal Air Base, injuring up to five U.S. troops.   ➡️ The second hit an eastern Jordanian…
+14:09
+1405/04/29
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏عباس علی‌آبادی، وزیر نیرو، در گفت‌وگو با صدا و سیمای جمهوری اسلامی اعلام کرد حملات آمریکا «مقدار زیادی از ظرفیت انرژی و آب کشور را تحت تاثیر قرار داده‌است.»
+‏
+‏وزیر نیرو گفت: «برق صرفه‌جویی شده از سوی مردم را به مناطق جنوبی اختصاص می‌دهیم.» 
+‏
+‏علی‌آبادی همچنین افزود «تلاش‌هایی در حال انجام است» که تا پنج هفته آینده، خاموشی‌ها در جنوب کشور تمام شود.
+‏ iranintl.com/202607204908
+14:08
+1405/04/29
+
+
+
+
+src :@World_Newsly
+‏🔴 یک گروه مسلح اپوزیسیون ایران: ایران در حملات به مواضع ما در اربیل از فسفر سفید استفاده می‌کند.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+14:07
 1405/04/29
 
 
@@ -1030,18 +1073,6 @@ src :@Indypersian
 ‏ بیشتر بخوانید... 
 ‏
 ‏@indypersian
-12:40
-1405/04/29
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴انفجار های بزرگ در نبطیه، جنوب لبنان بر اثر حملات اسرائیل
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 12:40
 1405/04/29
 
@@ -3247,8 +3278,11 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-‏هجوم في البحرين الآن
+src :@MilitarryWorld
+[عکس]
+‏🔴دومین دیدار میان وزارت دفاع عربستان و سنتکام در روزهای اخیر با هدف تقویت همکاری نظامی
+‏
+‏@MilitarryWorld | Parsa
 08:58
 1405/04/29
 
@@ -3256,10 +3290,8 @@ src :@Alibk3
 
 
 src :@Alibk3
-‏‏مسؤول أميركي: 
-‏
-‏نقل المزيد من الطائرات المقاتلة إلى الشرق الأوسط.
-08:55
+‏هجوم في البحرين الآن
+08:58
 1405/04/29
 
 
@@ -3487,14 +3519,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 08:03
-1405/04/29
-
-
-
-
-src :@Alibk3
-‏ضربات مباشرة في البحرين
-07:59
 1405/04/29
 
 
@@ -3799,14 +3823,6 @@ src :@Artemis_Force
 src :@tabzlive
 ‏🇮🇷❌🇺🇸🇰🇼 — IRGC announces conducting an attack against Ali Al-Salem AB, Kuwait; claiming to destroy an early warning radar with UAVs, and also claiming to strike aviation equipment, a spare parts warehouse, and a U.S. MQ-9A Reaper UCAV hangar.
 07:13
-1405/04/29
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — Sirens in Bahrain.
-07:09
 1405/04/29
 
 
@@ -7616,14 +7632,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 14:24
-1405/04/28
-
-
-
-
-src :@Mena_Live
-‏“Trump has directed US CENTCOM to "open the gates of hell” on Iran” — Israeli Channel 14 (Which has close ties to the Israeli Government)
-‏
-‏@Mena_Live
-14:11
 1405/04/28
