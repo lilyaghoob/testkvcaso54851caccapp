@@ -1,5 +1,141 @@
+src :@Mena_Live
+‏Syria vs Middle East Oil Production (January vs July 2026)
+‏
+‏Middle East average: 
+‏
+‏Production fell from ~28–29 million barrels per day in January 2026 to ~20–22 million barrels per day in July 2026, a decrease of ~6–8 million b/d (21–28% decrease).
+‏
+‏Syria: 
+‏
+‏Production rose from 40,000–50,000 b/d in January 2026 to ~130,000 b/d in July 2026, an increase of ~70,000–90,000 b/d (150–225% increase).
+‏
+‏@Mena_Live
+01:27
+1405/04/30
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ستاد کل فرماندهی ارتش کویت، بامداد سه‌شنبه، با انتشار بیانیه‌ای اعلام کرد که در پی حملات موشکی و پهپادی «متخاصم»، پدافند هوایی این کشور در حال حاضر مشغول مقابله و رهگیری این اهداف است. ارتش کویت با صدور اطلاعیه‌ای به مردم یادآور شد که شنیده شدن هرگونه صدای انفجار، ناشی از عملکرد و درگیری سامانه‌های دفاع جوی برای «انهدام پرتابه‌های دشمن» است.
+‏
+‏@indypersian
+01:26
+1405/04/30
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏↩️ Quoted tweet: Vahid Online ✓  @Vahid  تصویر دریافتی: دود انفجار در کوه دراک #شیراز، سه‌شنبه ۳۰ تیر حدود ساعت ۰۰:۴۰ بامداد #Iran  ↩️ Quoted tweet — see the post below for the reply.  English  Received image: Explosion smoke on Mount Derak #Shiraz, Tuesday…
+01:26
+1405/04/30
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏↩️ Quoted tweet:
+‏Vahid Online ✓ @Vahid
+‏
+‏تصویر دریافتی: دود انفجار در کوه دراک #شیراز، سه‌شنبه ۳۰ تیر حدود ساعت ۰۰:۴۰ بامداد
+‏#Iran
+‏
+‏↩️ Quoted tweet — see the post below for the reply.
+‏
+‏English
+‏
+‏Received image: Explosion smoke on Mount Derak #Shiraz, Tuesday, July 20, around 00:40 AM
+‏#Iran
+‏
+‏𝕏  ·  @shin_persian
+01:26
+1405/04/30
+
+
+
+
 src :@World_Newsly
-‏صدا در ماهشهر شنیده شد
+‏🔴وزارت کشور قطر تأیید کرد که سه نفر، از جمله یکی از آنها کودک، در اثر اصابت ترکش‌های ناشی از عملیات رهگیری، زخمی شده‌اند.
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+01:25
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴 معاون استانداری اصفهان: هیچ گونه تجاوز دشمن یا انفجار در سطح شهر اصفهان و سایر نقاط استان نداشته‌ایم
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+01:25
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏‏🔴 گزارش ۲ انفجار در بندر کنگ
+‏‎
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+01:25
+1405/04/30
+
+
+
+
+src :@MilitarryWorld
+‏🔴 صدای ۴ انفجار در ماهشهر
+‏
+‏@MilitarryWorld | Parsa
+01:24
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏‏🔴 ایرنا: امشب پرتابه دشمن به ارتفاعات اطراف شهر شیراز اصابت کرد.
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+01:24
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴صدا در ماهشهر شنیده شد  ✍🏻 Dangerman ▪️ @World_Newsly
+01:24
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴 قطر به سازمان ملل و شورای امنیت: ایران نفت‌کش ما را مورد هدف قرار داده است.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+01:23
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴صدا در ماهشهر شنیده شد
 ‏
 ‏✍🏻 Dangerman
 ‏▪️ @World_Newsly
@@ -108,13 +244,20 @@ src :@GeoPWatch
 
 src :@VahidOnline
 [عکس]
-‏منابع حکومتی:
+‏خبرگزاری مهر از شنیده شدن صدای دو انفجار در شهر اصفهان خبر داد.
+‏دقایقی بعد، استاندار اصفهان اعلام کرد که امشب حمله‌ای به شهر اصفهان صورت نگرفته است.
+‏@VahidOOnLine 
+‏فارس:
 ‏استاندار اصفهان گفت: امشب حمله‌ای به اصفهان صورت نگرفته است.
 ‏
 ‏وی ادامه داد: در حال بررسی علت شنیده شدن صدای انفجار اعلام شده از سوی شهروندان هستیم.
+‏تسنیم:
+‏ معاون استانداری اصفهان: هیچ گونه تجاوز دشمن یا انفجار در سطح شهر اصفهان و سایر نقاط استان نداشته‌ایم
+‏
 ‏من هم چند پیام مردد داشتم و از این رو فکر می‌کنم صدایی شنیده شده ولی مطمئن نیستم که دلیلی نظامی داشته یا نه.
 ‏
 ‏منابع زیادی هم هستند که هر روز کلی خبر دروغ تولید می‌کنند و از این رو اعتنا کردن به پیام‌هایی که بعد از چرندیات تولیدی اون کانال‌ها ارسال میشن هم خیلی سخته.
+‏
 ‏📡 @VahidOnline
 01:15
 1405/04/30
@@ -985,14 +1128,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴فوری / انفجار در شیراز  ✍🏻 Desert Eagle ▪️@World_Newsly
-00:50
-1405/04/30
-
-
-
-
 src :@MilitarryWorld
 ‏🔴گزارش چند انفجار در بندر لنگه
 ‏
@@ -1041,30 +1176,8 @@ src :@BellumActaNews
 
 
 
-src :@World_Newsly
-‏🔴صدای انفجار در بندر لنگه
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-00:49
-1405/04/30
-
-
-
-
 src :@samueltarikh
 ‏🚨گزارشات از انفجار در شیراز
-00:49
-1405/04/30
-
-
-
-
-src :@World_Newsly
-‏🔴فعالیت پدافند در کنارک
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 00:49
 1405/04/30
 
@@ -1121,14 +1234,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-‏🔴فوری / انفجار در شیراز  ✍🏻 Desert Eagle ▪️@World_Newsly
-00:48
-1405/04/30
-
-
-
-
 src :@MilitarryWorld
 ‏🔴فوری/ اصفهان هدف قرار گرفت
 ‏
@@ -1162,17 +1267,6 @@ src :@Alibk3
 
 src :@wfwitness
 ‏⚡️🇮🇷 Mehr: Two explosions reported in Isfahan.  The cause of the explosions is unknown and the situation is still under investigation.  @wfwitness
-00:47
-1405/04/30
-
-
-
-
-src :@World_Newsly
-‏🔴فوری / انفجار در شیراز
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 00:47
 1405/04/30
 
@@ -1308,17 +1402,6 @@ src :@Minas_Tirith2024
 
 src :@naya_foriraq
 ‏الولايات المتحدة ستفرض رسوماً جمركية بنسبة 50% على البضائع الكندية
-00:45
-1405/04/30
-
-
-
-
-src :@World_Newsly
-‏🔴خبرگزاری مهر ، خبر از شنیده شدن ۲ انفجار در اصفهان داد
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
 00:45
 1405/04/30
 
@@ -2831,16 +2914,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 23:42
-1405/04/29
-
-
-
-
-src :@MilitarryWorld
-‏🔴۴ انفجار مهیب در بندرعباس 
-‏
-‏@MilitarryWorld | Parsa
-23:40
 1405/04/29
 
 
@@ -4435,24 +4508,6 @@ src :@Middle_East_Spectator
 
 src :@Minas_Tirith2024
 ‏گزارشات از شلیک موشک از تبریز به سمت پایگاه های امریکایی   @Minas_Tirith2024
-21:32
-1405/04/29
-
-
-
-
-src :@Indypersian
-‏⭕️ایران در برابر دوراهی سال ۱۳۶۷؛ جنگ فرسایشی یا مصالحه؟
-‏
-‏📌به نظر می‌رسد تهران به پذیرش مصالحه‌ای پرهزینه تمایلی ندارد
-‏
-‏
-‏♦️سی‌وهشتمین سالگرد پذیرش قطعنامه ۵۹۸ شورای امنیت سازمان ملل که به جنگ ایران و عراق پایان داد، بحث گسترده‌ای را در فضای عمومی ایران برانگیخته است. بسیاری معتقدند شرایطی که روح‌الله خمینی را به پذیرش آتش‌بس با عراق در سال ۱۳۶۷ واداشت، با رویارویی کنونی جمهوری اسلامی ایران و ایالات متحده شباهت‌هایی دارد.
-‏بیشتر بخوانید...
-‏
-‏🖋راز زیمت 
-‏
-‏@INDYPERSIAN
 21:32
 1405/04/29
 
