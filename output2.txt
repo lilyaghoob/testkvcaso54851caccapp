@@ -1,4 +1,59 @@
+src :@Minas_Tirith2024
+‏یک نقطه در شمال غربی شیراز دقایقی قبل هدف حمله هوایی قرار گرفت.
+‏
+‏@Minas_Tirith2024
+17:56
+1405/04/29
+
+
+
+
 src :@jangaavaran1390
+‏سی‌ان‌ان گزارش داد: ترامپ با افزایش تنش‌ها با ایران، در حال بررسی اعزام جنگنده‌های اف-۱۶ و اف-۳۵ و تانکرهای سوخت‌رسانی از پایگاه‌های اروپایی به خاورمیانه است. در اتاق وضعیت، گزینه‌های تشدید جنگ از جمله تصرف جزیره خارک یا حمله به تأسیسات هسته‌ای کوه پی‌کاکس نیز مطرح شده است. راه‌حل دیپلماتیک منتفی نشده؛ مارکو روبیو، وزیر امور خارجه، تأکید کرد که درهای مذاکره همچنان باز است.
+17:54
+1405/04/29
+
+
+
+
+src :@Exciton_missile_program
+[عکس]
+‏🔴یک مقاله هوافضایی داخلی اوکراین را میخواندم که با زمزمه فروش موشکهای Fateh-110 و Zolfaghar به روسیه، شبیه سازهای آیرودینامیکی و سینماتیکی از این دو موشک کرده است. که من پارامترهای بدست آمده را ذکر میکنم. طبعا اینکارها کمیاب است. این موارد است که کشوری مانند اوکراین از این کشورهای اطراف ما متمایز میکند. نیروی انسانی نخبه:
+‏پارامترها⬇️
+‏
+‏♦️ارتفاع اتمام سوزش موتور:
+‏Fateh-110 ➡️ 15–20 km
+‏Zolfaghar ➡️ 25–30 km
+‏
+‏♦️حداکثر برد (ترجکتوری بهینه):
+‏Fateh-110 (450 kg): 355 km (زاویه نهایی = 43 درجه)
+‏Fateh-110 (650 kg): 290 km
+‏Zolfaghar (579 kg): 890 km (زاویه نهایی = 41 درجه)
+‏
+‏♦️سرعت نهایی سوزش موتور (Delta-v):
+‏Fateh-110 ➡️ 1.7 km/s
+‏Zolfaghar ➡️ 2.7 km/s
+‏
+‏شخصا هیچ کامنتی برای پارامترها ندارم. هر چی برخی از آنها حدودا از پیش برای ما مشخص بود. کامنت نویسی به چنین مقاله‌ای شبیه سازی های عددی و تحلیلی جدی‌تر از خودش میخواهد.
+‏
+‏@Exciton_missile_program 🚀
+17:54
+1405/04/29
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸❌🇮🇷 — US airstrike on the city of Sirik, Iran.
+17:52
+1405/04/29
+
+
+
+
+src :@jangaavaran1390
+[عکس]
 ‏دوباره یک صدای انفجاری آمد در شیراز
 17:51
 1405/04/29
@@ -2964,20 +3019,6 @@ src :@cataphract1
 
 
 
-src :@intelslava
-[عکس]
-‏🇮🇷❌🇺🇸 — Iran has released high-resolution satellite imagery of additional strikes on Muwaffaq al-Salti Air Base in Jordan.
-‏
-‏➡️ US military aircraft hangars, facilities, and equipment are visible as strike targets in the imagery.
-‏➡️ Two MQ-9 drones parked outside were struck and damaged.
-‏
-‏@IntelSlava
-15:40
-1405/04/29
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏High-resolution satellite imagery shows the aftermath of Iranian ballistic missile strikes on the U.S.-used Muwaffaq Salti Air Base in Jordan.
@@ -3653,14 +3694,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 15:08
-1405/04/29
-
-
-
-
-src :@Alibk3
-‏إذاعة جيش الاحتلال:  تم تقديم مقترح قطري جديد بهدف إنهاء التصعيد بين الولايات المتحدة وإيران.  أهم بنوده:  • الولايات المتحدة ستوقف الهجمات. • إيران ستفتح مسارين بحريين في مضيق هرمز لمدة 10 أيام.
-15:07
 1405/04/29
 
 
@@ -4981,16 +5014,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 12:26
-1405/04/29
-
-
-
-
-src :@jangaavaran1390
-‏مارکو روبیو درباره ایران:
-‏
-‏وظیفه ایالات متحده این نیست که برای همیشه از کل سیاره محافظت کند.
-12:24
 1405/04/29
 
 
@@ -6514,18 +6537,6 @@ src :@VahidOnline
 
 
 
-src :@Minas_Tirith2024
-[عکس]
-‏تصویر منتسب از حمله به کنارک 
-‏
-‏
-‏@P_raetorio
-03:50
-1405/04/29
-
-
-
-
 src :@bricsnews
 ‏JUST IN: Ship on fire in the Strait of Hormuz.
 ‏
@@ -7892,14 +7903,4 @@ src :@Artemis_Force
 [عکس]
 ‏شرح حملات بامداد امروز ایالات متحده آمریکا   حملات ایالات متحده آمریکا بامداد امروز نیز صورت گرفت که بخش های جنوبی کشور رو شامل می‌شد اعم از مناطقی همچون سیریک، کیش، قشم، گورک، بندر عباس، حاجی آباد، بهبهان، شادگان و.. خبری نیز در رابطه با حمله به شهرستان قصر…
 18:02
-1405/04/28
-
-
-
-
-src :@warmonitors
-‏⚡️ 5.5 magnitude quake hits Peru's Andes region, killing at least 5 people
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:52
 1405/04/28
