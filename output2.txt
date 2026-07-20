@@ -1,13 +1,43 @@
-src :@Middle_East_Spectator
-[ویدئو]
-19:22
+src :@tabzlive
+‏🇧🇭⚡️ — All clear in Bahrain. Ballistic missile(s) intercepted.
+19:25
+1405/04/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از حمله به سیریک
+19:24
+1405/04/29
+
+
+
+
+src :@P_raetorio
+‏نیروهای یمنی از طریق دستگاه‌های رادیویی در باند فرکانسی بالا VHF اعلام کرده‌اند که کشتی‌های عربستان سعودی باید به حرکت خود در دریای سرخ و خلیج عدن ادامه دهند و در بنادر عربستان توقف نکنند، در غیر این صورت، به اهداف مشروع نیروهای مسلح تبدیل خواهند شد.
+‏
+‏
+‏@P_raetorio
+19:24
+1405/04/29
+
+
+
+
+src :@P_raetorio
+‏گزارشات از انفجار در سیریک
+‏
+‏
+‏@P_raetorio
+19:23
 1405/04/29
 
 
 
 
 src :@Middle_East_Spectator
-[عکس]
+[ویدئو]
 ‏—❗️🇮🇷/🇯🇴 NEW: Satellite imagery confirms Iran struck the ‘Tower-22’ U.S. base in eastern Jordan on the border with Syria
 ‏
 ‏@Middle_East_Spectator
@@ -556,6 +586,10 @@ src :@militaryinpersian
 
 src :@tabzlive
 ‏🇮🇷❌🇫🇷 — France's Minister for Europe & Foreign Affairs Jean-Nöel Barrot announces that on Sunday evening, two employees of the French Embassy in Iran were detained and interrogated for several hours, and one of the employees was physically assaulted.
+‏
+‏➡️ Barrot said the two staff members have since returned safely to the French embassy and are expected to leave Iran within the coming hours.
+‏
+‏➡️ Paris warned the incident “will not go without consequences.”
 19:01
 1405/04/29
 
@@ -780,7 +814,6 @@ src :@WAR_ROOM_NEWS
 
 
 src :@VahidOnline
-[عکس]
 ‏رسانه‌های داخل ایران از پلمب چند کافه و رستوران در مرکز شهر تهران خبر داده‌اند.
 ‏براساس این گزارش‌ها جو کافه، ۱۴۰۱، سام‌کافه، دو بار، نووک و تئوری در خیابان‌های سنایی و ایرانشهر پلمب‌ شده‌اند.
 ‏وبسایت امتداد نوشت که به هریک از این کافه‌ها دلیل متفاوتی ارائه شده است از جمله «حجاب، داشتن ساندویچ در منو و صندلی در پیاده‌رو».
@@ -1253,34 +1286,10 @@ src :@Middle_East_Spectator
 
 
 
-src :@P_raetorio
-[عکس]
-‏تصویری از رهگیری/خودکشی موشک پدافندی در بحرین
-‏
-‏
-‏@P_raetorio
-18:35
-1405/04/29
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷🇧🇭🇰🇼ISNA: Explosions in Bahrain and Kuwait.  @wfwitness
 18:35
-1405/04/29
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏تصویر منتسب به شلیک موشک بالستیک از شیراز
-‏
-‏
-‏@P_raetorio
-18:34
 1405/04/29
 
 
@@ -2903,15 +2912,6 @@ src :@MilitarryWorld
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏گزارش‌هایی تائید نشده از حمله آمریکا در نزدیکی مجتمع صنایع الکترونیک  شیراز منتشر شده است.این مجتمع با صنایع الکترونیک دفاعی ایران مرتبط است و پیش‌تر نیز در جریان حملات نظامی به زیرساخت‌های نظامی ایران، هدف حملات قرار گرفته بود
-17:29
-1405/04/29
-
-
-
-
 src :@TelNews_Magazine
 ‏⭕️رویترز: یک کشتی باری یونانی نزدیک تنگه هرمز با اصابت پرتابه دچار آتش‌سوزی شد
 ‏
@@ -3290,15 +3290,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 17:18
-1405/04/29
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏بر اساس اخبار موجود، یک نفت‌کش متعلق به شرکت یونانی Dynacom در تنگه هرمز هدف قرار گرفته است.
-17:16
 1405/04/29
 
 
@@ -4278,14 +4269,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@WAR_ROOM_NEWS
-‏حوثی ها یمن، بر اساس اصل مقابله با محاصره، با محاصره ممنوعیت تردد دریایی برای عربستان سعودی را اعلام کردند
-15:44
-1405/04/29
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇪🇺⚠️ The closure of the Strait of Hormuz is choking out the EU out of its LNG supply
@@ -4376,16 +4359,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 15:36
-1405/04/29
-
-
-
-
-src :@rnintel
-‏🇾🇪🇸🇦⚡️- Yemen's Houthis have announced an immediate naval blockade on Saudi Arabia in retaliation for Saudi Arabia's blockade on their air and sea ports.
-‏
-‏"First: The Yemeni Armed Forces declare a ban on maritime navigation for the criminal Saudi enemy in accordance with the equation of "siege for siege," and it will enter into effect from the moment of this statement's announcement." - Yahya Saree, Ansarullah spokesperson.
-15:34
 1405/04/29
 
 
