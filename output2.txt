@@ -1,8 +1,77 @@
+src :@thewarreporter
+‏🇰🇼🇮🇷 — Sirens in Kuwait.
+‏
+‏@TheWarReporter
+08:12
+1405/04/29
+
+
+
+
+src :@rnintel
+‏🇵🇸🇮🇱⚡️- "Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West Bank, as Israel’s military commander for the region celebrated violent…
+08:11
+1405/04/29
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇰🇼 — Sirens in Kuwait!
+‏
+‏@GeoPWatch
+08:09
+1405/04/29
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇰🇼 — Kuwaiti Ministry of Defense announces air defenses are active due to Iranian UAVs.
+08:08
+1405/04/29
+
+
+
+
 src :@GeoPWatch
 ‏🇮🇷❌🇧🇭 — Reports of Direct Hits in Bahrain!
 ‏
 ‏@GeoPWatch
 08:08
+1405/04/29
+
+
+
+
+src :@rnintel
+‏🇺🇸🇧🇭🇮🇷⚡️- Approximately 1 hour ago sirens were activated in Bahrain.
+08:07
+1405/04/29
+
+
+
+
+src :@naya_foriraq
+‏منظومة الباتريوت تفشل بالتصدي للصواريخ الإيرانية في سماء المنامة عاصمة البحرين
+08:07
+1405/04/29
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+08:07
+1405/04/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏⚡️🇰🇼🇮🇷 هشدارهای منتشر شده در کویت.
+08:07
 1405/04/29
 
 
@@ -40,7 +109,7 @@ src :@Shin_Persian
 
 
 src :@wfwitness
-‏⚡️🇰🇼🇮🇷 Alerts in Kuwait
+‏⚡️🇰🇼🇮🇷 Sirens in Kuwait
 08:06
 1405/04/29
 
@@ -1248,14 +1317,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏عدوان أمريكي غاشم على مدينة تشابهار جنوب شرق إيران
-05:51
-1405/04/29
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی:
 ‏
@@ -1506,14 +1567,6 @@ src :@IranintlTV
 ‏
 ‏نورنیوز جزییات بیشتری درباره زمان، اهداف یا میزان خسارت این حملات منتشر نکرده است.
 ‏https://iranintl.com/202607202487
-05:12
-1405/04/29
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸🇮🇷وزير الخارجية الأمريكي: الولايات المتحدة لا تزال منفتحة على الحل الدبلوماسي في إيران.
 05:12
 1405/04/29
 
@@ -3107,16 +3160,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷🇧🇭⚡- "The U.S. Embassy has information to suggest that Iran may seek to target unspecified locations in central Manama.
-‏
-‏We urge all Americans to remain vigilant, follow local authorities’ instructions, and review the latest guidance from the U.S. Embassy," - U.S. Embassy in Bahrain.
-03:22
-1405/04/29
-
-
-
-
 src :@TelNews_Magazine
 ‏🚨سفارت آمریکا در بحرین یک هشدار امنیتی فوری صادر کرد:
 ‏
@@ -3133,16 +3176,6 @@ src :@TelNews_Magazine
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷/🇦🇪 BREAKING: Exclusive sources tell Middle East Spectator that at least 3 explosions were heard in Ras Al-Khaimah, United Arab Emirates  @Middle_East_Spectator
 03:22
-1405/04/29
-
-
-
-
-src :@rnintel
-‏🇮🇷🇴🇲⚡- Explosions in the Strait of Hormuz. Iran is likely targeting civilian commercial vessels again.
-‏
-‏Explosions could be heard in the UAE.
-03:21
 1405/04/29
 
 
@@ -4837,15 +4870,6 @@ src :@tglobaleye
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏گزارش شلیک مجدد موشک از ایران به سمت پایگاه آمریکا در منطقه
-00:55
-1405/04/29
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇪🇸 🇦🇷 — 2026 FIFA World Cup Final Underway: Spain vs Argentina🏆  The Global Eye | Subscribe
@@ -6340,16 +6364,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 21:21
-1405/04/28
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — A U.S. attack targeted areas outside the city of Abadan in southwestern Iran a short time ago.
-‏
-‏@TheWarReporter
-21:20
 1405/04/28
 
 
