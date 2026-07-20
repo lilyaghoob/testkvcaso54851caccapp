@@ -1,3 +1,110 @@
+src :@rnintel
+‏🇺🇸🇮🇷⚡- A loud explosion was heard in Bandar-e-Jask, southern Iran.
+03:37
+1405/04/29
+
+
+
+
+src :@Alibk3
+‏دوي انفجارات في جاسك الإيرانية
+03:36
+1405/04/29
+
+
+
+
+src :@Alibk3
+‏سماع دوي في الكويت.
+03:36
+1405/04/29
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Iran attacked a vessel that is now actively on fire in the Strait of Hormuz, roughly 8NM off the coast of Kumzar, Oman.
+03:36
+1405/04/29
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏سفارت ایالات متحده در بحرین از احتمال حمله ایران به منامه می‌گوید
+‏
+‏سفارت ایالات متحده اطلاعاتی دارد که نشان می‌دهد ایران ممکن است به دنبال هدف قرار دادن مکان‌های نامشخصی در مرکز منامه باشد.
+‏
+‏ما از همه آمریکایی‌ها می‌خواهیم که هوشیار باشند، از دستورالعمل‌های مقامات محلی پیروی کنند و آخرین راهنمایی‌های سفارت ایالات متحده را بررسی کنند.
+‏
+‏
+‏@P_raetorio
+03:35
+1405/04/29
+
+
+
+
+src :@TelNews_Magazine
+‏⭕️یک انفجار مهیب در بندرجاسک شنیده شد
+‏
+‏🌎 @TelNews_Magazine
+03:35
+1405/04/29
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports of explsions heard in Sirik, Iran.  @wfwitness
+03:35
+1405/04/29
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡- A loud explosion was heard in Bandar-e-Jask, southern Iran.
+03:34
+1405/04/29
+
+
+
+
+src :@World_Newsly
+‏🔴صدای آژیر خطر در جنوب اسرائیل در نزدیکی مرز با غزه  ✍🏻 Desert Eagle ▪️@World_Newsly
+03:33
+1405/04/29
+
+
+
+
+src :@World_Newsly
+‏🔴آتش گرفتن یک کشتی نزدیک ساحل عمان بر اثر حملات سپاه  ✍🏻 Desert Eagle ▪️@World_Newsly
+03:33
+1405/04/29
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡- US airstrikes on Sirik, southern Iran.
+03:33
+1405/04/29
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷 - Power cuts in Khormuj, Bushehr Province, southern Iran.
+03:33
+1405/04/29
+
+
+
+
 src :@MilitarryWorld
 ‏🔴خورموج مجددا هدف قرار گرفت
 ‏
@@ -8,10 +115,37 @@ src :@MilitarryWorld
 
 
 
+src :@World_Newsly
+[عکس]
+‏🔴صدای آژیر خطر در جنوب اسرائیل در نزدیکی مرز با غزه  ✍🏻 Desert Eagle ▪️@World_Newsly
+03:32
+1405/04/29
+
+
+
+
+src :@wfwitness
+‏⚡🇮🇱 Red alert sirens are sounding in the Gaza Envelope region, Southern Israel.  @wfwitness
+03:32
+1405/04/29
+
+
+
+
 src :@TelNews_Magazine
 ‏🚨انفجار های مجدد در خورموج و سیریک 
 ‏
 ‏🌎 @TelNews_Magazine
+03:32
+1405/04/29
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports of explsions heard in Sirik, Iran.
+‏
+‏@wfwitness
 03:32
 1405/04/29
 
@@ -29,6 +163,17 @@ src :@tabzlive
 
 src :@tabzlive
 ‏🇮🇱🇵🇸⚡️ — Red alerts in Kfar Azza and Sa'ad, near the Gaza Strip. Likely a false alarm.
+03:32
+1405/04/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴هم اکنون یک نفتکش در تنگه هرمز مورد اصابت موشک قرار گرفته و در حال سوختن است.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
 03:32
 1405/04/29
 
@@ -183,7 +328,7 @@ src :@wfwitness
 
 
 src :@naya_foriraq
-‏دوي صافرات الانذار في مستوطنات غلاف غزة
+‏🇮🇱دوي صافرات الانذار في مستوطنات غلاف غزة والعدو يزعم أنها بسبب تشخيص خاطئ.
 03:29
 1405/04/29
 
@@ -282,7 +427,7 @@ src :@intelslava
 
 
 src :@P_raetorio
-‏گزارشات محلی از چندین انفجار در خورموج استان بوشهر و قطعی برق در منطقه ای از این شهر 
+‏گزارشات محلی تایید نشده از چندین انفجار در خورموج استان بوشهر و قطعی برق در منطقه ای از این شهر 
 ‏
 ‏
 ‏@P_raetorio
@@ -345,7 +490,7 @@ src :@wfwitness
 
 
 src :@P_raetorio
-‏گزارشات محلی از وقوع چندین انفجار در سیریک 
+‏گزارشات محلی تایید نشده از وقوع چندین انفجار در سیریک 
 ‏
 ‏
 ‏@P_raetorio
@@ -412,7 +557,7 @@ src :@tabzlive
 
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇷🇺🇸 Footage from Mahshahr, southern Iran.
+‏⚡️🇮🇷🇺🇸 Footage from Bandar-e Emam Khomeini in southwestern Iran following U.S. strikes.
 ‏
 ‏@wfwitness
 03:24
@@ -1406,17 +1551,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴گزارش ها از حملات آمریکا از خاک کویت به ایران
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-03:05
-1405/04/29
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Mehr News reports the downing of a US drone in the southern Iranian airspace.
 03:05
@@ -1435,30 +1569,8 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴خرم آباد تحت حملات آمریکا
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-03:04
-1405/04/29
-
-
-
-
 src :@Alibk3
 ‏دوي انفجارات في خرم آباد الإيرانية
-03:04
-1405/04/29
-
-
-
-
-src :@World_Newsly
-‏🔴خبرگزاری های داخلی انفجار ها در بندر امام و ماهشهر را تایید کردند
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 03:04
 1405/04/29
 
@@ -2167,17 +2279,6 @@ src :@BellumActaNews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 U.S. Central command announces a new wave of strikes against Iran.
-‏
-‏@wfwitness
-02:46
-1405/04/29
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی: 
 ‏۵ ۶ تا همین الان کنارک
@@ -2257,14 +2358,6 @@ src :@Shin_Persian
 
 
 
-src :@rnintel
-‏🇰🇼🇮🇷⚡- Renewed missile launches from Kuwait towards Iran.
-02:46
-1405/04/29
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2332,14 +2425,6 @@ src :@TelNews_Magazine
 ‏
 ‏🌎 @TelNews_Magazine
 02:45
-1405/04/29
-
-
-
-
-src :@rnintel
-‏🇰🇼🇮🇷⚡- Kuwaiti missiles impacted in Bandar-e Mahshahr, southwest Iran. At least 3+ impacts reported.
-02:44
 1405/04/29
 
 
@@ -2422,24 +2507,8 @@ src :@Shin_Persian
 
 
 
-src :@rnintel
-‏🇰🇼🇮🇷⚡- Ground-based missiles have been launched from Kuwaiti territory towards Iran.
-02:44
-1405/04/29
-
-
-
-
 src :@cataphract1
 ‏⚜️صدای انفجار در تبریز گزارش شده است.  📃@Cataphract1
-02:44
-1405/04/29
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Unconfirmed reports of an explosion heard in Tabriz, Iran.  @wfwitness
 02:44
 1405/04/29
 
@@ -2636,19 +2705,6 @@ src :@BellumActaNews
 
 
 
-src :@P_raetorio
-‏#فوری 
-‏
-‏گزارشات تأییدنشده از شنیده شدن صدای انفجار در تبریز 
-‏
-‏
-‏@P_raetorio
-02:38
-1405/04/29
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پیام‌های دریافتی:
@@ -2708,24 +2764,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 02:37
-1405/04/29
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇮🇷❌🇮🇷🌞 — Rudaw reports that Iranian missiles targeted bases belonging to the Komala Party of Iranian Kurdistan in the Doli Alana area, near the Erbil province border, according to a Komala official.
-‏
-‏Amjad Hussein Panahi, the party’s head of relations, told Rudaw that the strike occurred at 12:20 a.m. as part of what he described as Iran’s ongoing attacks against the group. 
-‏
-‏He said that since the start of the Iran-U.S.-Israel conflict, Tehran has targeted Komala bases and positions with more than 91 missiles and drones.
-‏
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-02:36
 1405/04/29
 
 
@@ -3374,17 +3412,6 @@ src :@MilitarryWorld
 
 
 
-src :@TelNews_Magazine
-[عکس]
-‏⭕️نفت دید جام جهانی تموم شده و احتمالا قراره جنگ بشه اینجوری کشید بالا و خیلی ناگهانی از ۹۰ دلار رد شد:
-‏
-‏🌎 @TelNews_Magazine
-01:45
-1405/04/29
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇪🇸⚡️ — Spain wins the World Cup, defeating Argentina 1:0 in the final.
@@ -3850,14 +3877,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 00:42
-1405/04/29
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏صدای انفجار در بحرین شنیده شده
-00:41
 1405/04/29
 
 
@@ -6751,28 +6770,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@Military_Tweet
 15:53
-1405/04/28
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Official Iranian media are publishing satellite images showing damage caused by Iranian missile attacks to a 30-meter-wide hangar at the Muwaffaq Salti Air Base in Jordan.
-‏
-‏The media states that inside the hangar was an American fighter jet that was hit.
-15:50
-1405/04/28
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Kuwait’s Ministry of Electricity, Water and Renewable Energy announces that Iran attacked a powerplant and water desalination plant for the second time in 2 days.
-‏
-‏The attack led to fire breaking out in the plant’s facilities, causing severe damage in a number of electricity generation units, which necessitated activating emergency protocols.
-15:44
 1405/04/28
 
 
