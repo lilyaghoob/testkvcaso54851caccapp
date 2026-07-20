@@ -1,3 +1,41 @@
+src :@World_Newsly
+‏🔴  صدای انفجار در اصفهان  🔹دقایقی پیش صدای یک انفجار در شهر اصفهان شنیده شد.  🔹هنوز علت دقیق و منشأ این صدای بلند مشخص نشده و تا این لحظه هیچ‌کدام از نهادهای رسمی و مسئولان استانی در این باره اطلاع‌رسانی نکرده‌اند.    ✍🏻 CAPITANO ▪️@World_Newsly
+09:50
+1405/04/29
+
+
+
+
+src :@intelslava
+‏🇺🇸🇮🇷⚡️ — Iran: Reports of an explosion in Isfahan; it is not yet clear whether it was an attack or a controlled explosion.
+‏
+‏@Intelslava
+09:50
+1405/04/29
+
+
+
+
+src :@P_raetorio
+‏گزارش‌ها از انفجار مهیب در اصفهان  @P_raetorio
+09:47
+1405/04/29
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏فرماندار بوشهر، صبح دوشنبه گفت که دقایقی پیش چند نقطه در این شهر هدف حملات آمریکا قرار گرفت و افزود ابعاد این حملات در دست بررسی است.
+‏
+‏در هفته اخیر و در دور جدید حملات آمریکا به اهدافی در ایران، مناطقی از بوشهر چندین بار هدف حمله قرار گرفته است.
+‏https://iranintl.com/202607206685
+09:47
+1405/04/29
+
+
+
+
 src :@defence_news
 ‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
 09:46
@@ -1384,18 +1422,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[عکس]
-‏زمین‌لرزه‌ای به بزرگی ۵.۲، صبح دوشنبه، ۲۹ تیرماه کوزران در استان کرمانشاه را لرزاند.
-‏بنا بر این گزارش این زمین‌لرزه در مناطق مختلفی از غرب ایران احساس شده است.
-‏تا لحظه تنظیم این خبر گزارشی از میزان خسارات احتمالی این زمین‌لرزه منتشر نشده است.
-‏https://iranintl.com/202607209026
-07:38
-1405/04/29
-
-
-
-
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Al-Manar: Israeli drones are violating the airspace of multiple towns in the Nabatieh and Bekaa regions of Lebanon.
 ‏
@@ -1787,18 +1813,6 @@ src :@Alibk3
 ‏معاون الشؤون الأمنية في محافظة خوزستان:
 ‏
 ‏استهداف نقطة في محيط ميناء الإمام الخميني بصاروخ معادٍ.
-07:10
-1405/04/29
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏وزارت کشور بحرین اعلام کرد آژیر خطر بار دیگر در این کشور به صدا درآمد.
-‏
-‏این وزارتخانه از شهروندان و ساکنان خواست دستورالعمل‌های صادرشده از سوی نهادهای مسئول را دنبال کنند و تا اعلام وضعیت عادی، نکات ایمنی را رعایت کنند.
-‏https://iranintl.com/202607204471
 07:10
 1405/04/29
 
@@ -2346,18 +2360,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴روبیو، وزیر امورخارجه امریکا: ایالات متحده همچنان برای دستیابی به راه‌حل دیپلماتیک در قبال ایران آمادگی دارد.
-‏
-‏‎‌✍🏻 Dangerman
-‏▪️@World_Newsly
-05:21
-1405/04/29
-
-
-
-
 src :@tabzlive
 ‏🇮🇷❌🇯🇴 — Following the initial Iranian missile attack on Aqaba, Jordan, another wave of missiles attacked the area, with ballistic missiles appearing to directly impact the area.  ➡️ It's currently not clear what was hit.
 05:12
@@ -2875,17 +2877,6 @@ src :@wfwitness
 ‏⚡️🇮🇷 Unconfirmed reports of an explosion heard in Bandar Abbas, Iran.
 ‏
 ‏@wfwitness
-03:57
-1405/04/29
-
-
-
-
-src :@P_raetorio
-‏هم اکنون حمله توپخانه‌ ارتش اسرائیل به منطقه بیت یاحون واقع در جنوب لبنان.
-‏
-‏
-‏@P_raetorio
 03:57
 1405/04/29
 
