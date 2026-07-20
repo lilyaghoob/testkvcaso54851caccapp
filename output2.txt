@@ -1,3 +1,11 @@
+src :@OSINTWarfare
+‏The IRGC announced that it had shot down a U.S. Air Force MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Eslamabad-e Gharb, Kermanshah Province, Iran.
+08:24
+1405/04/29
+
+
+
+
 src :@jangaavaran1390
 ‏مارکو روبیو، وزیر امور خارجه ایالات متحده:
 ‏
@@ -5823,17 +5831,6 @@ src :@OSINTWarfare
 src :@OSINTWarfare
 [عکس]
 ‏The main U.S. Air Force equipment and spare parts warehouse at Al Udeid Air Base in Qatar was struck by an Iranian ballistic missile.  The missile impact left a crater approximately 76 meters (249 feet) in diameter.
-22:36
-1405/04/28
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏The main U.S. Air Force equipment and spare parts warehouse at Al Udeid Air Base in Qatar was struck by an Iranian ballistic missile.
-‏
-‏The missile impact left a crater approximately 76 meters (249 feet) in diameter.
 22:36
 1405/04/28
 
