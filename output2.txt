@@ -1,5 +1,27 @@
+src :@IranintlTV
+[عکس]
+‏زمین‌لرزه‌ای به بزرگی ۵.۲، صبح دوشنبه، ۲۹ تیرماه کوزران در استان کرمانشاه را لرزاند.
+‏بنا بر این گزارش این زمین‌لرزه در مناطق مختلفی از غرب ایران احساس شده است.
+‏تا لحظه تنظیم این خبر گزارشی از میزان خسارات احتمالی این زمین‌لرزه منتشر نشده است.
+‏https://iranintl.com/202607209026
+07:38
+1405/04/29
+
+
+
+
 src :@wfwitness
-‏⚡️🇮🇷 Fars: At 7:13 this morning, an earthquake of magnitude 5.2 struck the area near Kozeran in Kermanshah province.
+‏⚡️🇱🇧🇮🇱 Al-Manar: Israeli drones are violating the airspace of multiple towns in the Nabatieh and Bekaa regions of Lebanon.
+‏
+‏@wfwitness
+07:37
+1405/04/29
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Fars: At 7:13 this morning, an earthquake of magnitude 5.2 struck the area near Kuzaran in Kermanshah province.
 ‏
 ‏@wfwitness
 07:34
@@ -179,8 +201,10 @@ src :@naya_foriraq
 
 src :@VahidOnline
 [عکس]
-‏آپدیت: زمین‌لرزه به بزرگی ۵٫۲ 
-‏در عمق ۸ کیلومتری کورزان کرمانشاه
+‏زمین‌لرزه‌ها در کرمانشاه
+‏
+‏آپدیت: دو زلزله به بزرگی ۵٫۲ و ۵٫۷
+‏📍در عمق ۸ تا ۱۳ کیلومتری کورزان
 ‏
 ‏پیام‌های دریافتی:
 ‏الان کرمانشاه هستیم 
@@ -2536,14 +2560,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 03:33
-1405/04/29
-
-
-
-
-src :@wfwitness
-‏⚡🇮🇱 Red alert sirens are sounding in the Gaza Envelope region, Southern Israel.  @wfwitness
-03:32
 1405/04/29
 
 
