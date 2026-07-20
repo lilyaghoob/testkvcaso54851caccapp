@@ -1,3 +1,82 @@
+src :@TelNews_Magazine
+[عکس]
+‏⭕️روبیو، وزیر امورخارجه امریکا: ایالات متحده همچنان برای دستیابی به راه‌حل دیپلماتیک در قبال ایران آمادگی دارد.
+‏
+‏🌎 @TelNews_Magazine
+09:58
+1405/04/29
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 — Reports of U.S. strikes in Bushehr
+‏
+‏@GeoPWatch
+09:57
+1405/04/29
+
+
+
+
+src :@Alibk3
+‏🇾🇪بيان للقوات المسلحة اليمنية يوم غد إن شاء الله للإعلان عن موقف مهم يليق بتطلعات شعبنا العظيم.
+09:57
+1405/04/29
+
+
+
+
+src :@MilitarryWorld
+‏🔴 سپاه:
+‏
+‏ از اطلاعات مردم اردن ممنونیم؛ هواپیماهای بزرگ ترابری C17 و هواپیماهای فرمانده کنترل P8 ارتش امریکا در فرودگاه عقبه هدف موشک بالستیک قرار گرفتند
+‏
+‏@MilitarryWorld | Parsa
+09:56
+1405/04/29
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇷🇺🇺🇦 Russia says Ukraine launched 400 drones toward Moscow.
+‏
+‏@BRICSNews
+09:55
+1405/04/29
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴آجورلو، عضو هیات مذاکره‌کننده: میان مسوولان اختلاف نظری درباره حفظ تنگه هرمز وجود ندارد
+‏
+‏🔹تصویری که برخی از افراد درباره وجود اختلاف میان بخش‌های مختلف حاکمیت مطرح می‌کنند، با واقعیت منطبق نیست
+‏
+‏➖جهت مشاهده ادامه مطلب کلیک‌کنید:
+‏https://www.didarnews.ir/fa/news/202669
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+09:53
+1405/04/29
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Fars: The Boushehr Governor confirms two bombs hit the area.
+‏
+‏@wfwitness
+09:53
+1405/04/29
+
+
+
+
 src :@World_Newsly
 ‏🔴  صدای انفجار در اصفهان  🔹دقایقی پیش صدای یک انفجار در شهر اصفهان شنیده شد.  🔹هنوز علت دقیق و منشأ این صدای بلند مشخص نشده و تا این لحظه هیچ‌کدام از نهادهای رسمی و مسئولان استانی در این باره اطلاع‌رسانی نکرده‌اند.    ✍🏻 CAPITANO ▪️@World_Newsly
 09:50
@@ -1951,14 +2030,6 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-‏هجوووم في البحرين
-06:57
-1405/04/29
-
-
-
-
 src :@jangaavaran1390
 ‏به گفته‌ی واپو، به نقل از یک مقام آمریکایی، پنتاگون در حال برنامه‌ریزی برای یک «جنگ گسترده‌تر» است و تعداد هواپیماهای نظامی مستقر در منطقه را افزایش داده است.
 ‏
@@ -3017,15 +3088,6 @@ src :@Shin_Persian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 Image from Sirik, Iran.  @wfwitness
-03:52
-1405/04/29
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸🇮🇷 - Image circulating allegedly shows scenes from Konarak, southeast Iran.
@@ -3955,16 +4017,6 @@ src :@ClashReport
 
 
 
-src :@MilitarryWorld
-‏🔴چندین انفجار سنگین در کنارک و سر بندر 
-‏
-‏@MilitarryWorld | Parsa
-02:51
-1405/04/29
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏CENTCOM announced that a new wave of strikes against Iran has started.
@@ -3991,16 +4043,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 02:51
-1405/04/29
-
-
-
-
-src :@TelNews_Magazine
-‏🚨صدای انفجار بسیار مهیب در کنارک
-‏
-‏🌎 @TelNews_Magazine
-02:50
 1405/04/29
 
 
@@ -4449,17 +4491,6 @@ src :@thewarreporter
 ‏🇰🇼🇮🇷 — Iran is attacking Kuwait, air defenses have been activated.
 ‏
 ‏@TheWarReporter
-01:57
-1405/04/29
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇰🇼 — Kuwait Under Attack!
-‏
-‏@GeoPWatch
 01:57
 1405/04/29
 
@@ -7582,20 +7613,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 14:40
-1405/04/28
-
-
-
-
-src :@didarnews1
-‏🔴عراقچی: آمریکا به رهبران منطقه گفته بود یک ماه تحمل کنید کار ایران تمام است
-‏
-‏🔹رهبران منطقه باور کرده بودند یک ماهه کار ایران تمام است! یکی از رهبران منطقه تهدید به حمله نظامی به ایران کرد؛ من به او هشدار دادم که اگر بزنی مستقیماً با شما وارد جنگ خواهیم شد؛ و تا آخر جنگ آن کشور عربی را بمباران کردیم
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-14:32
 1405/04/28
 
 
