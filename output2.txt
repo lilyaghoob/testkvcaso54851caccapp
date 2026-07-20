@@ -1,7 +1,67 @@
+src :@tabzlive
+[عکس]
+‏🇮🇷❌🇺🇸🇯🇴 — The Pentagon has identified the two American soldiers killed in the Iranian missile attack on Muwaffaq Salti Air Base in Jordan on Friday.  — The Pentagon said Pvt. Isabella Gonzales, 19, of Carrollton, Texas, was killed in the attack on Friday.…
+19:41
+1405/04/29
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Initial:
+‏A factory in Khomein was hit, Markazi  Province, central Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏یک کارخانه در خمین، استان مرکزی، در مرکز ایران هدف قرار گرفت.
+‏
+‏𝕏  ·  @shin_persian
+19:40
+1405/04/29
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇦⚡️ — The hunt for ships continues. The Russian Ministry of Defense reports that during the day, 4 cargo ships and 1 bulk carrier were hit in the area near the port of "Odessa."
+‏
+‏@Intelslava
+19:39
+1405/04/29
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇱🇵🇸 The IDF announced they have killed a Palestinian Islamic Jihad operative who allegedly infiltrated the Nova music festival during the October 7th attack and commanded the abduction of a woman from the site.
+‏
+‏In a separate strike, the IDF said they have killed another Palestinian Islamic Jihad operative who allegedly attempted to advance attacks against IDF troops in the area of aid distribution centers in Gaza.
+‏
+‏@wfwitness
+19:38
+1405/04/29
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏صورة لمجنّدة امريكية تم الإعلان عن مقتلها بالهجوم الإيراني على الأردن
 19:38
+1405/04/29
+
+
+
+
+src :@World_Newsly
+‏🔴صدای انفجار مجدد در غرب شیراز
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+19:37
 1405/04/29
 
 
@@ -2599,14 +2659,6 @@ src :@cataphract1
 
 
 
-src :@tabzlive
-‏🇬🇧📞🇺🇸 — British Prime Minister Andy Burnham has spoken with President Trump for the first time, according to The Guardian.
-17:49
-1405/04/29
-
-
-
-
 src :@defence_news
 ‏ظرفیت 10 نفره برای میلیتاریست شو پذیرش داریم
 ‏
@@ -2994,15 +3046,6 @@ src :@ClashReport
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — The U.S. plans to send even more F-16 and F-35 fighter jets from bases in Europe to the Middle East, as well as additional aerial refueling tankers, as Trump considers widening the war against Iran, according to CNN, citing a U.S. official.
-17:33
-1405/04/29
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏بر اساس اطلاعات رسیده به «ایران‌وایر»، خانواده «ابوالفضل دامنجانی» از بازداشت‌شدگان دی‌ماه۱۴۰۴، از بیست روز قبل هیچ خبری از او ندارند.
@@ -3137,14 +3180,6 @@ src :@thewarreporter
 
 
 
-src :@intelslava
-‏⚡️🇺🇸 Arson and shooting attack outside of the Federal Building of New York.  @medmannews
-17:28
-1405/04/29
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸🇱🇧🇮🇱⚡️- The US State department announces that 3 pilot zones in southern Lebanon have begun.  These zones are planned to see the withdrawal of Israeli forces, and Lebanese military to take their place.  "Today, pilot zone operations began in the villages…
@@ -3183,19 +3218,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155217
 ‏
 ‏@Farsi_Iranwire
-17:26
-1405/04/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸 Reports of an explosion, likely US strikes, near the Sana’ye (Electronic Industries Complex) in Shiraz, Fars Province, Iran. 
-‏
-‏The Sana’ye complex is associated with Iran’s defence electronics industry and has previously been targeted during military strikes on Iranian military infrastructure.  
-‏
-‏@wfwitness
 17:26
 1405/04/29
 
@@ -3275,25 +3297,6 @@ src :@rnintel
 [عکس]
 ‏🇮🇷🇴🇲 - UKMTO confirms Iran is attacking commercial vessels in the Strait of Hormuz again. A vessel is currently on fire.
 17:23
-1405/04/29
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Shiraz
-‏Fars Province, Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏شیراز  
-‏استان فارس، ایران
-‏
-‏𝕏  ·  @shin_persian
-17:22
 1405/04/29
 
 
@@ -7412,12 +7415,4 @@ src :@Exciton_missile_program
 ‏
 ‏@P_raetorio
 19:46
-1405/04/28
-
-
-
-
-src :@mwarmonitor
-‏🔴آژانس بین‌المللی انرژی اتمی: ما در حال بررسی گزارش‌هایی هستیم مبنی بر وقوع حمله به یک محل در حال ساخت برای یک نیروگاه هسته‌ای برنامه‌ریزی‌شده در دارخوین، ایران.  @mwarmonitor
-19:37
 1405/04/28
