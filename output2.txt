@@ -1,3 +1,136 @@
+src :@World_Newsly
+‏🔴 گزارش ها از فعالیت سامانه های پدافندی در اردن.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+12:56
+1405/04/30
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇯🇴 — Reports of active Patriot interceptions at the Muwaffaq Salti U.S. base in Jordan.
+‏
+‏@GeoPWatch
+12:56
+1405/04/30
+
+
+
+
+src :@Alibk3
+‏انفجارات في الأردن مجددا
+12:56
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴 انفجار در اردن/ تایید نشده.
+‏
+‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
+‏▪️ @World_Newsly
+12:55
+1405/04/30
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇯🇴 — Reports of active air raid sirens in Jordan.
+‏
+‏@GeoPWatch
+12:55
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز الاردن
+12:55
+1405/04/30
+
+
+
+
+src :@Alibk3
+‏إطلاق صواريخ من إيران.
+12:54
+1405/04/30
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇷🇺🇬🇧 Sky News: A Russian warship, Neustrashimy, carried out a live-fire artillery exercise around 40 nautical miles south of Plymouth on Monday while being shadowed by a Royal Navy vessel, according to the UK Ministry of Defence.
+‏
+‏@wfwitness
+12:54
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏صافرات الانذار تدوي في الاردن
+12:54
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏اطلاق صاروخي جديد من ايران
+12:54
+1405/04/30
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏آمریکا از نسل جدید سلاح ضدپهپادی خود رونمایی کرده است.شرکت لاکهید مارتین از MORFIUS X-Rotor پرده برداشت؛ یک رهگیر هوایی مجهز به فناوری مایکروویو پرقدرت که برای مقابله با حملات انبوه پهپادها طراحی شده است. برخلاف سامانه‌های متداول که برای انهدام هر پهپاد به یک موشک گران‌قیمت نیاز دارند، MORFIUS با ارسال پالس‌های مایکروویوی، تجهیزات الکترونیکی پهپادها را از کار می‌اندازد و می‌تواند بیش از ۵۰ پهپاد را در یک مأموریت خنثی کند.این سامانه قابل بازیابی و استفاده مجدد است و پس از پایان مأموریت دوباره به پایگاه بازمی‌گردد. همچنین با سامانه‌های مختلف فرماندهی و کنترل سازگار بوده و به‌عنوان نخستین رهگیر مایکروویوی هوابردِ قابل‌بازیابی که از زمین پرتاب می‌شود معرفی شده است. با گسترش تهدید پهپادهای ارزان‌قیمت، آمریکا به‌جای استفاده از موشک‌های چند میلیون دلاری، روی فناوری «انرژی هدایت‌شده» سرمایه‌گذاری کرده است؛ فناوری‌ای که هدف آن از کار انداختن کردن یک دسته کامل از پهپادها به‌طور همزمان و کاهش چشمگیر هزینه دفاع هوایی است
+‏
+‏#پهپاد_رهگیر_مایکروویو
+‏
+‏🆔@WAR_ROOM_NEWS
+12:53
+1405/04/30
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷🚀‼️ — Reports of a missile launch from Shiraz Fars Province, Iran.
+‏
+‏@GeoPWatch
+12:53
+1405/04/30
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇷🇺 Politico: FBI Director Kash Patel is planning to visit Russia on 14–15 October, with stops in Moscow and St Petersburg, according to US officials. 
+‏
+‏The reported visit comes as relations between Washington and Moscow remain strained over the war in Ukraine and calls in Congress for tougher sanctions on Russia. 
+‏
+‏The visit is expected to be hosted by Russia’s Federal Security Service (FSB), although the schedule remains tentative and could change. 
+‏
+‏If the trip goes ahead, Patel would become the first FBI director known to visit Russia since Robert Mueller travelled there in 2013, years before he was appointed special counsel to investigate alleged Russian interference in the 2016 US election. 
+‏
+‏@wfwitness
+12:52
+1405/04/30
+
+
+
+
 src :@Exciton_missile_program
 ‏یکی از گزینه‌ها به ایران اجازه می‌دهد تا «هزینه‌های معقول خدمات» جهت عبور از تنگه را طبق مدل تنگه مالاکا دریافت کند.
 12:51
@@ -96,6 +229,7 @@ src :@World_Newsly
 
 
 src :@naya_foriraq
+[عکس]
 ‏اطلاق صاروخي جديد من ايران
 12:46
 1405/04/30
@@ -655,19 +789,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴سپاه: 
-‏
-‏دو نفتکش با قصد عبور از مسیر جنوب تنگه هرمز، بر اثر انفجار دچار حریق گسترده شده و متوقف شدن.
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-12:14
-1405/04/30
-
-
-
-
 src :@rnintel
 ‏🇧🇭🇮🇷⚡- Bahrain reports attempted Iranian attacks against the Gulf island nation overnight.
 12:14
@@ -693,17 +814,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴پدافند هوایی در اردن فعال شد
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-12:14
-1405/04/30
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷Possible missile launch from Asadabad, Hamadan Province, Iran.  @wfwitness
 12:13
@@ -716,18 +826,6 @@ src :@tabzlive
 ‏🇮🇱🇺🇸🇮🇷⚡️ — Israeli Prime Minister Benjamin Netanyahu held an overnight security meeting lasting more than five and a half hours to discuss rising regional tensions. 
 ‏
 ‏➡️ The meeting concluded at around 1:30 a.m.
-12:13
-1405/04/30
-
-
-
-
-src :@World_Newsly
-‏🔴خبر فوری
-‏سامانه‌های پدافند هوایی بر فراز پایگاه هوایی موفق السلطي در اردن فعال شده‌اند. 
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
 12:13
 1405/04/30
 
@@ -765,17 +863,6 @@ src :@GeoPWatch
 ‏🇮🇷❌🇯🇴 — Reports of loud explosions in Zarqa, Jordan. 
 ‏
 ‏@GeoPWatch
-12:11
-1405/04/30
-
-
-
-
-src :@World_Newsly
-‏🔴گزارش هدف قرارگرفتن لانچر در لار استان فارس
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
 12:11
 1405/04/30
 
@@ -1704,29 +1791,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 Three US Air Force KC-135T aerial refuelling tankers are heading from Pittsburgh towards the Middle East.
-‏
-‏The aircraft are operating under the serials 58-0074, 59-1504, and 63-8040.
-‏
-‏@wfwitness
-11:12
-1405/04/30
-
-
-
-
-src :@wfwitness
-‏⚡️🇯🇴🇮🇷 The Jordanian Armed Forces announced they have neutralised five Iranian drones.
-‏
-‏@wfwitness
-11:11
-1405/04/30
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏وزارت دفاع اردن: ۵ فروند پهپاد که از ایران شلیک شده بود را رهگیری کردیم
 ‏
@@ -1943,25 +2007,9 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏حدث أمني بحري في مضيق هرمز شرق دبا
-10:54
-1405/04/30
-
-
-
-
 src :@samueltarikh
 ‏نیروگاه برق الزور کویت هدف حمله پهپادی ج‌ا قرار گرفت.
 10:54
-1405/04/30
-
-
-
-
-src :@naya_foriraq
-‏حدث أمني بحري في مضيق هرمز شرق دبا
-10:53
 1405/04/30
 
 
@@ -2045,14 +2093,6 @@ src :@ClashReport
 ‏
 ‏GOOD LUCK AND GODSPEED!
 10:44
-1405/04/30
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶 اندلاع حريق داخل وزارة الصحة العراقية في العاصمة بغداد
-10:43
 1405/04/30
 
 
@@ -2349,17 +2389,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 10:01
-1405/04/30
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏تانکرهای سوخت رسان در راه خاورمیانه
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-10:00
 1405/04/30
 
 
@@ -3293,21 +3322,6 @@ src :@mohem_mat
 ‏
 ‏ @mohem_mat
 07:11
-1405/04/30
-
-
-
-
-src :@Alibk3
-[عکس]
-‏أكسيوس:
-‏
-‏يقترب ترامب من نقطة حاسمة في الحرب مع إيران، إذ يرى مسؤولون أميركيون وإسرائيليون أن هناك خيارين رئيسيين:
-‏
-‏وقف إطلاق نار لمدة 10 أيام لإعادة فتح مضيق هرمز.
-‏
-‏حملة عسكرية واسعة مع إسرائيل.
-07:10
 1405/04/30
 
 
@@ -4678,20 +4692,6 @@ src :@cataphract1
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - President Trump says every time Iran kills an American soldier, “they will pay for that killing many times over.”
-‏
-‏The statement is echoed by a US official talking to Axios: 
-‏Right now, President Trump is focused on making Iran pay for their violations of the MOU and their continued acts of terrorism in the Strait of Hormuz. In addition, the President will make Iran pay for the recent deaths of U.S. soldiers. These devastating blows will continue until the President deems otherwise, but talks between our countries are continuing.
-‏
-‏@GeoPWatch
-01:00
-1405/04/30
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Nicaraguan President Daniel Ortega announced that the country will no longer hold elections, ending any possibility of an electoral challenge after his current term. 
@@ -5213,14 +5213,6 @@ src :@guard_warriors
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 — Reports of a loud Explosion in Bandar Abbas, Iran.  @GeoPWatch
-00:04
-1405/04/30
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Air France has suspended flights to Riyadh, Saudi Arabia, through July 25 and Dubai, United Arab Emirates, through July 28, citing worsening security in the Middle East, due to the Iranian attacks on the 2 countries.
@@ -5644,16 +5636,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:09
-1405/04/29
-
-
-
-
-src :@mwarmonitor
-‏🔴پنتاگون پیشنهاد اعطای اختیار جدیدی برای محرمانه‌سازی داده‌ها ارائه کرده است تا بتواند اسناد غیرمحرمانه را از دسترسی عمومی و قوانین مربوط به دسترسی شهروندان به اطلاعات، پنهان کند. این اقدام می‌تواند آگاهی عمومی از نحوه هزینه‌کرد پول مالیات‌دهندگان در بزرگ‌ترین نهاد فدرال دولت آمریکا را دشوارتر کند و نگرانی‌هایی را در میان نهادهای ناظر برانگیخته است. — CBS News
-‏
-‏@mwarmonitor
-23:08
 1405/04/29
 
 
