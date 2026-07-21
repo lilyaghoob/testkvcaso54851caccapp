@@ -1,3 +1,35 @@
+src :@Alibk3
+‏‏ترامب أثناء لقائه بالرئيس اللبناني: 
+‏
+‏تم التعامل مع لبنان بشكل سيء، وسنتعامل نحن معه بشكل جيد الآن.
+18:46
+1405/04/30
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏بر اساس گزارش‌های رسیده به ایران‌اینترنشنال، دادگاه انقلاب اصفهان در خیابان نبوی‌منش، روز سه‌شنبه ۳۰ تیرماه، به دلیل پرواز یک پهپاد بر فراز این منطقه، برای ساعاتی تخلیه شده است.
+‏
+‏بنا بر این گزارش، افراد حاضر در محل به دلیل نگرانی از  «احتمال حمله پهپادی»، ساختمان دادگاه را ترک کرده‌اند.
+‏https://iranintl.com/202607216124
+18:44
+1405/04/30
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇳🇸🇾 UN Secretary-General António Guterres is expected to visit Syria later this week, where he is scheduled to meet with Syrian interim President Ahmed al-Sharaa in Damascus.
+‏
+‏@wfwitness
+18:44
+1405/04/30
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏وزارت خارجه کویت، محمد توتونچی، سفیر جمهوری اسلامی در این کشور را احضار کرد و از تهران خواست حملات غیرقانونی خود را فورا متوقف کند. 
@@ -38,14 +70,6 @@ src :@ClashReport
 src :@jangaavaran1390
 [عکس]
 ‏کارشناسی برای تمام فصول
-18:38
-1405/04/30
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇺🇸 MTV: The Lebanese delegation has arrived at the White House.  @wfwitness
 18:38
 1405/04/30
 
@@ -2346,15 +2370,6 @@ src :@cataphract1
 
 
 
-src :@Alibk3
-[عکس]
-‏حدث أمني جديد في البحر الأحمر
-16:53
-1405/04/30
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷🇮🇱⚡️- “We have no interest in joining war on Iran.” - Israeli Finance Minister Bezalel Smotrich.
 16:52
@@ -2424,14 +2439,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇫🇷 — France's Minister for Europe & Foreign Affairs Jean-Nöel Barrot announces that on Sunday evening, two employees of the French Embassy in Iran were detained and interrogated for several hours, and one of the employees was physically assaulted.  ➡️ Barrot…
-16:46
-1405/04/30
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — The burning gas carrier GAS LISBON, registered in Liberia, was attacked approximately 20 nautical miles (37 km) off the coast of Romania.
@@ -2440,14 +2447,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 16:45
-1405/04/30
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇱🇧🇮🇱 Lebanese Army released a statement regarding the Israeli violation in the pilot zone area:  During a deployment operation by military units in Zawtar al-Gharbiyeh, Nabatieh, Israeli occupation forces opened fire in the vicinity.  We emphasize that…
-16:43
 1405/04/30
 
 
@@ -4009,14 +4008,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-‏Kuwait says several power and water desalination plants were hit in Monday's Iranian attack.
-14:36
-1405/04/30
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏کانادا قرارداد ۱.۱ میلیارد دلاری تمدید خدمات پشتیبانی زیردریایی‌های کلاس ویکتوریا را به شرکت «باب‌کاک» (Babcock) واگذار کرد.
@@ -5494,6 +5485,20 @@ src :@thewarreporter
 
 
 
+src :@ircfspace
+[عکس]
+‏سایت فوتبال ۳۶۰ عادل فردوسی‌پور توسط قوه عاقله فیلتر و دیشب چند دقیقه قبل از شروع برنامه زنده از دسترس خارج شد. 
+‏
+‏هنوز علتش بطور رسمی اعلام نشده، اما این اتفاق پس از درخواست سرمربی پرافتخار(!) تیم فوتبال جمهوری اسلامی برای برخورد با این برنامه و یک روز پس از جوابیه به امیر قلعه‌نویی صورت گرفته!
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+11:13
+1405/04/30
+
+
+
+
 src :@thewarreporter
 [عکس]
 ‏🛳️🇦🇪🇮🇷 — A vessel was struck by an unknown projectile 17NM east of Dibba, the UAE, causing damage to the steering gear.
@@ -5664,18 +5669,6 @@ src :@mamlekate
 ‏به گزارش وال استریت ژورنال، مقام‌های اسرائیلی و آمریکایی می‌گویند اطلاعات اسرائیل نشان می‌دهد ایران پاییز گذشته هزاران سانتریفیوژ غنی‌سازی اورانیوم را به تونل‌هایی در اعماق یک کوه منتقل کرده است؛ اقدامی که نگرانی‌ها درباره توانایی تهران برای بازسازی برنامه هسته‌ای خود را افزایش می‌دهد.
 ‏
 ‏@mamlekate
-10:09
-1405/04/30
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — A high-ranking US official told Israel Hayom:
-‏
-‏"If Trump decides to expand the fighting against Iran, Israel is expected to participate in the conflict".
-‏
-‏@TheWarReporter
 10:09
 1405/04/30
 
@@ -7005,16 +6998,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 23:56
-1405/04/29
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US launches another wave of strikes on Iran.
-‏
-‏@BRICSNews
-23:55
 1405/04/29
 
 
