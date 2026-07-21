@@ -1,3 +1,29 @@
+src :@intelslava
+‏🇺🇦⚡️ — Former Ukrainian Defense Minister Fedorov will receive a new position in the Ukrainian government related to technological development.
+‏
+‏@IntelSlava
+23:19
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸 رئيس هيئة الأركان المشتركة الأميركية: نحن بحاجة لـ 1.5 تريليون دولار لمواجهة التحديات العسكرية المستقبلية
+23:19
+1405/04/30
+
+
+
+
+src :@tabzlive
+‏🇺🇦⚡️ — Commander-in-Chief of the Armed Forces of Ukraine Oleksandr Syrskyi has been fired and replaced with Mykhailo Drapatyi, commander of Ukraine's Joint Forces responsible for coordinating Ukrainian military operations between different service branches.
+23:18
+1405/04/30
+
+
+
+
 src :@samueltarikh
 ‏🚨کان نیوز:
 ‏
@@ -15,6 +41,29 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:18
+1405/04/30
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏بلومبرگ گزارش داد که اندی برنهام، نخست‌وزیر جدید بریتانیا، با ادامه استفاده آمریکا از پایگاه‌های نظامی این کشور برای انجام «حملات علیه ایران» موافقت کرده و بدین ترتیب، سیاستی را که در دوران نخست‌وزیر پیشین، کی‌یر استارمر، اتخاذ شده بود، حفظ کرده است.
+‏
+‏
+‏@P_raetorio
+23:17
+1405/04/30
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏ژنرال میخائیل دراپاتو توسط ولادیمیر زلنسکی به سمت رئیس ستاد کل جدید ارتش اوکراین منصوب شد. 
+‏
+‏@P_raetorio
+23:17
 1405/04/30
 
 
@@ -1708,18 +1757,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴سپاه پاسداران، بلغارستان، یکی از اعضای ناتو را تهدید کرد در صورت اجازه بلغارستان به آمریکا برای انجام عملیات علیه ایران، این کشور را شریک جرم آمریکا دانسته و اقدامات لازم را انجام خواهد داد.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-22:00
-1405/04/30
-
-
-
-
 src :@jangaavaran1390
 ‏سخنگوی ارتش: تجهیزات جدید ضدهوایی وارد سازمان رزم شد/بازسازی سامانه‌های آسیب‌دیده جنگ گذشته 
 ‏
@@ -2620,31 +2657,10 @@ src :@samueltarikh
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷❌🇺🇸🇮🇱 — Islamic Republic of Iran Army Air Defense Force announces shooting down an unidentified UAV above East Azerbaijan Province, northwestern Iran, hours ago.
-‏
-‏The only two UAVs owned by Israel and the United States to use elevon tail designs manufactured in July 2005 are the American RQ-170 Sentinel reconnaissance UAV and the Israeli IAI Harop attack UAV. It is very likely this UAV is an RQ-170 Sentinel, a particularly rare and expensive UAV; only 20-30 were built.
-‏
-‏However, the IAI Harop cannot be ruled out either, as Azerbaijan has previously allowed Israeli UAVs to operate through Azerbaijan. Though it is unlikely, as Israel has not publicly conducted attacks against Iran yet, and the Harop is an attack UAV.
-21:06
-1405/04/30
-
-
-
-
 src :@samueltarikh
 ‏یک مقام ارشد آمریکایی:
 ‏ما با روزهای سرنوشت‌ساز روبرو هستیم،
 ‏هم ایران و هم ایالات متحده در حال بررسی گام‌های بعدی خود هستند.
-21:06
-1405/04/30
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🌞 — Explosions in Erbil, Iraqi Kurdistan. Iranian drones are in the airspace.
 21:06
 1405/04/30
 
@@ -2728,14 +2744,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@tabzlive
-‏🇮🇷❌🌞 — Explosions in Erbil, Iraqi Kurdistan. Iranian drones are in the airspace.
-21:02
-1405/04/30
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇮🇶 — Reports of Attack on Erbil, Iraq 
 ‏
@@ -2773,14 +2781,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:02
-1405/04/30
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — NOW: Sirens in Bahrain. Ballistic missiles have been launched.
-21:01
 1405/04/30
 
 
@@ -3184,27 +3184,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 20:27
-1405/04/30
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏✈️ موتور سه‌جریانی تطبیقی؛ قلب تپنده جنگنده‌های نسل آینده
-‏
-‏فناوری Three-Stream Adaptive Engine یکی از مهم‌ترین دستاوردهای صنعت پیشرانش نظامی در دهه اخیر محسوب می‌شود. این فناوری توسط GE Aerospace (بخش GE Edison Works) با همکاری نیروی هوایی آمریکا و در قالب برنامه Adaptive Engine Transition Program (AETP) توسعه یافته است. هدف این پروژه، ساخت موتوری بود که بتواند بسته به شرایط مأموریت، بین «حداکثر رانش» و «حداکثر بهره‌وری سوخت» به‌صورت هوشمند تغییر حالت دهد.
-‏
-‏
-‏#هواپیما 
-‏#موتور
-‏
-‏
-‏مهران میهن‌پرست 
-‏
-‏
-‏@P_raetorio
-20:26
 1405/04/30
 
 
@@ -6887,27 +6866,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:21
-1405/04/29
-
-
-
-
-src :@Mena_Live
-‏❗️— Five Syrian sailors were killed after a Russian vessel targeted a cargo ship carrying grain near Ukrainian ports. 
-‏
-‏The sailors were residents of the Tartus Governorate.
-‏
-‏@Mena_Live
-23:21
-1405/04/29
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏اوکراین دفاع هوایی زمین پایه بسیار فشرده نجات داد. الان هم روسها اول از نیروی هوایی اوکراین نمیترسند که نفوذ عمیق هوایی نمیکنند. از پدافند اوکراین میترسند. آن تعداد رقم عجیب و غریبی که اوکراین فقط S-300 داشت، ج.ا خوابش را هم نمیدید. در خاک کوچکتر و هموار غیر کوهستانی، اوکراین شاید حداقل 16 برابر جمهوری اسلامی فقط S-300 عملیاتی داشت. گذشته از اینکه روسها در اطلاعات و جنگ شبکه محور انگشت کوچک اسرائیل هم نمیشوند. من قبلا هم گفتم اگر در سطح تاکتیکی (نه استراتژیک) تنها یک عامل مطرح شود که چه چیزی اوکراین را از سقوط کامل در روزها و ماه های اول نجات داد باید تنها گفت، پدافند فشرده اوکراین. رویای روسها با عدم تسلط بر آسمان در ابتدای جنگ فروپاشید.
-‏
-‏@Exciton_missile_program 🚀
-23:18
 1405/04/29
