@@ -1,8 +1,49 @@
+src :@thewarreporter
+‏🇰🇼🇮🇷 — Kuwaiti Ministry of Electricity and Water: 
+‏
+‏"Power plants and water desalination facilities were attacked yesterday by Iran".
+‏
+‏@TheWarReporter
+14:32
+1405/04/30
+
+
+
+
+src :@defence_news
+[عکس]
+‏نمونه ای از موشک و پرتاب گر مدل FULGUR  ساخت کمپانی اروپایی MBDA - این موشک دوش پرتاب ضد هوایی برای جایگزینی موشک های آمریکایی استینگر در حال توسعه است و به نظر ایتالیا اولین مشتری این موشک ها باشد. اولین تحویل برای سال 2028 میلادی در نظر گرفته شده است.  🇮🇷📝…
+14:31
+1405/04/30
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏سعیده ابطحی، خواهر سپیده ابطحی، از انتقال این مستندساز و تدوین‌گر سینما به زندان قرچک ورامین خبر داد و اعلام کرد که با وجود گذشت چند روز از بازداشت او، هنوز هیچ اتهامی به خانواده یا وکیلش اعلام نشده است.
+‏بخوانید: https://iranwire.com/fa/news-1/155257
+‏
+‏@Farsi_Iranwire
+14:30
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏استهداف محطة الزور في الكويت لهجوم بطائرة مسيرة
+14:29
+1405/04/30
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇵🇸 An Israeli arab citizen from Nazareth, Muhammad Awad, has been arrested for attempting to allegedly join Hamas and planning to assassinate Israeli Minister of National Security Itamar Ben-Gvir, the Shin Bet announced.
 ‏
-‏Ben-Gvir said it was the ninth time he has been targeted by groups, thanking security forces and vowing to continue his policies.  
+‏Ben-Gvir said it was the ninth time he has been targeted by arab groups, thanking security forces and vowing to continue his policies.  
 ‏
 ‏@wfwitness
 14:26
@@ -42,7 +83,7 @@ src :@MilitarryWorld
 
 
 src :@naya_foriraq
-‏تدمير محطات كهربائية جديدة في الكويت
+‏تدمير محطات كهربائية وتحلية جديدة في الكويت
 14:25
 1405/04/30
 
@@ -50,7 +91,7 @@ src :@naya_foriraq
 
 
 src :@naya_foriraq
-‏تدمير محطات كهربائية جديدة في الكويت
+‏تدمير محطات كهربائية وتحلية جديدة في الكويت
 14:25
 1405/04/30
 
@@ -888,22 +929,6 @@ src :@World_Newsly
 
 
 
-src :@IranintlTV
-[عکس]
-‏بر اساس اطلاعات رسیده به ایران‌اینترنشنال، ماموران سازمان اطلاعات سپاه پاسداران، ۲۰ تیرماه، آرش محمودی، نویسنده و روزنامه‌نگار اهل کرمانشاه را از محل کارش ربودند و به مکانی نامعلوم بردند. 
-‏
-‏به گفته نزدیکان این نویسنده ۴۱ ساله، او پس از چند روز بازجویی به زندان دیزل‌آباد کرمانشاه منتقل شده و بازپرس پرونده برای آزادی او وثیه‌ای سنگین درخواست کرده است. 
-‏
-‏آرش محمودی دو سال پیش هم به دلیل انتقاد از حکومت جمهوری اسلامی در شبکه‌های اجتماعی، بازداشت شده بود. 
-‏
-‏محمودی با دو مجموعه داستان «نیوکاسل» و «ما هم یک روز خانواده خوشبختی بودیم»، برنده چند جایزه ادبی، از جمله جوایز فرشته و آفرینش شده است.
-‏ iranintl.com/202607211330
-13:20
-1405/04/30
-
-
-
-
 src :@naya_foriraq
 ‏انفجارات عنيفة تهز شمال الكويت
 13:20
@@ -1077,14 +1102,6 @@ src :@P_raetorio
 ‏
 ‏
 ‏@P_raetorio
-13:15
-1405/04/30
-
-
-
-
-src :@naya_foriraq
-‏تفعيل صافرات الانذار في قطر
 13:15
 1405/04/30
 
@@ -6244,14 +6261,6 @@ src :@thewarreporter
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — A senior Iranian source says mediators have proposed a 10-day pause in strikes to create an opportunity to revive the US-Iran interim nuclear deal.  — Reuters | @TheWarReporter
-20:59
-1405/04/29
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 دونالد ترامپ در واکنش به کشته شدن چندین سرباز آمریکایی: 
@@ -6511,20 +6520,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 19:22
-1405/04/29
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، روز دوشنبه ۲۹ تیر، پستی از مسیح علینژاد درباره اعدام عرفان اسفندیاری، از بازداشت‌شدگان اعتراضات دی‌ماه، را در شبکه اجتماعی تروث سوشال بازنشر کرد.
-‏مسیح علینژاد در این پست نوشت عرفان اسفندیاری، ۱۹ ساله و تنها فرزند خانواده‌اش، روز دوشنبه اعدام شد. او نوشت که اسفندیاری نه کسی را کشته بود و نه سلاحی در اختیار داشت و تنها به دلیل باز کردن در خانه و پناه دادن به معترضانی که از نیروهای امنیتی می‌گریختند، به اعدام محکوم شد.
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155226
-‏@Farsi_Iranwire
-19:12
 1405/04/29
 
 
@@ -7009,16 +7004,6 @@ src :@ircfspace
 
 
 
-src :@defence_news
-‏بر اساس اخبار موجود یک سری جدید از حملات نیروهای مسلح ایران به سمت بحرین انجام شده و همچنین یک نفت کش سعودی نیز در تنگه هرمز هدف قرار گرفته است.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-16:58
-1405/04/29
-
-
-
-
 src :@Navy_Iranian
 [ویدئو]
 ‏دو نقطه احتمالی برخورد موشک در پایگاه ملک فصیل اردن 
@@ -7133,18 +7118,6 @@ src :@KayhanLondonChannel
 ‏- چت‌جی‌پی‌تی: برای اثر گذاشتن بر انسان، داشتن احساس ضروری نیست؛ باورپذیر بودن کافی است. این همان اصلی است که ادبیات، سینما و تئاتر قرن‌ها بر پایه آن بنا شده‌اند.
 ‏
 ‏https://kayhan.london/1405/04/29/405249/
-16:11
-1405/04/29
-
-
-
-
-src :@defence_news
-[عکس]
-‏ترامپ با انتشار این نظرسنجی اعلام کرد که اکثر مردم آمریکا از توافق با ایران حمایت می‌کنند.
-‏
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
 16:11
 1405/04/29
 
