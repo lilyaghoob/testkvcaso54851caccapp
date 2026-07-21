@@ -1,3 +1,19 @@
+src :@IranintlTV
+[عکس]
+‏محمد کرمی، فرمانده نیروی زمینی سپاه پاسداران در گفت‌وگو با دفاع‌پرس اعلام کرد نیروهای مسلح جمهوری اسلامی آماده پاسخ‌گویی به هرگونه «شرارت» ارتش آمریکا هستند. 
+‏
+‏کرمی افزود «انتقام» کشته‌شدن علی خامنه‌ای و فرماندهان نظامی کشته‌شده «به‌زودی» گرفته خواهد شد. 
+‏
+‏فرمانده نیروی زمینی سپاه پاسداران گفت: «آمادگی مستمر، آموزش‌های تخصصی و حضور یگان‌های این نیرو، رکن اصلی امنیت پایدار در خلیج فارس است و نیروهای سپاه با هوشیاری دائمی، سدی در برابر دشمنان ایجاد کردند.» 
+‏
+‏کرمی با اشاره به حملات ارتش آمریکا به جمهوری اسلامی گفت این نیرو با رصد تحرکات «فرامنطقه‌ای»، ظرفیت‌های دفاعی خود را برای «خنثی‌سازی» هرگونه تهدید به‌طور مستمر بازآرایی و تقویت می‌کند.
+‏ iranintl.com/202607217135
+14:07
+1405/04/30
+
+
+
+
 src :@cataphract1
 ‏⭕️آکسیوس به نقل از یک مقام آمریکایی گزارش داد:
 ‏
@@ -1439,14 +1455,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-‏انفجارات تهز البحرين
-12:58
-1405/04/30
-
-
-
-
 src :@Alibk3
 ‏انفجارات في البحرين
 12:58
@@ -1467,14 +1475,6 @@ src :@mwarmonitor
 
 src :@Alibk3
 ‏تفعيل الدفاعات الجوية في الأردن
-12:58
-1405/04/30
-
-
-
-
-src :@naya_foriraq
-‏اشتباكات واصوات انفجارات تسمع في مضيق هرمز
 12:58
 1405/04/30
 
@@ -1503,14 +1503,6 @@ src :@GeoPWatch
 ‏🇮🇷❌🇯🇴 — Reports of active air raid sirens in Jordan.
 ‏
 ‏@GeoPWatch
-12:55
-1405/04/30
-
-
-
-
-src :@naya_foriraq
-‏انفجارات تهز الاردن
 12:55
 1405/04/30
 
@@ -2148,19 +2140,6 @@ src :@Alibk3
 
 
 
-src :@P_raetorio
-‏مقصد پرتاب موشک ها به سمت اردن بوده است.
-‏
-‏صدای آژیر در اردن فعال شده است.
-‏
-‏
-‏@P_raetorio
-12:07
-1405/04/30
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷🚀‼️ — Reports of a missile launch from Northwestern Iran.
 ‏
@@ -2231,18 +2210,6 @@ src :@Shin_Persian
 src :@tabzlive
 [عکس]
 ‏🇮🇷❌🇺🇸 — Reports of Iranian ballistic missile launches from western Iran.
-12:05
-1405/04/30
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏به گزارش بلومبرگ، پس از حمله به دو کشتی تحت مدیریت شرکت کشتیرانی یونانی دیناکوم، تردد در تنگه هرمز عملا متوقف شده است. 
-‏
-‏بلومبرگ گزارش داد، مالکان و خدمه کشتی‌ها در تنگه هرمز برای جلوگیری از حمله، موقعیت خود را مخفی می‌کنند، از این رو ممکن است ابعاد واقعی تردد در این آبراه تا هفته‌ها یا ماه‌ها مشخص نشود.
-‏ iranintl.com/202607213738
 12:05
 1405/04/30
 
@@ -2420,20 +2387,6 @@ src :@Shin_Persian
 src :@rnintel
 ‏🇮🇷⚡- Possible Iranian ballistic missile launches from Kermanshah, western Iran.
 11:58
-1405/04/30
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏کارزار «سه‌شنبه‌های نه به اعدام» در صدوسی‌امین هفته خود اعلام کرد بیش از یک‌هزار و ۵۰۰ زندانی واحد دو زندان قزل‌حصار که همگی زیر حکم اعدام و عمدتا با اتهام‌های مرتبط با مواد مخدر هستند، بیش از یک هفته است در اعتراض به احکام اعدام دست به اعتصاب زده‌اند. 
-‏
-‏کارزار «سه‌شنبه‌های نه به اعدام» با پیوستن گروهی از زندانیان زندان نیشابور، به ۵۹ زندان سراسر ایران گسترش یافت. 
-‏
-‏این کارزار با محکوم کردن اعدام‌های فزاینده در ایران اعلام کرد عارف خوشکار، محمد امینی دهاقانی، عرفان اسفندیاری و گل‌محمد محمدی، چهار زندانی سیاسی، در دادرسی‌هایی ناعادلانه محاکمه و اعدام شدند.
-‏ iranintl.com/202607216934
-11:57
 1405/04/30
 
 
@@ -3066,25 +3019,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:46
-1405/04/30
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump: 
-‏
-‏I had a very good conversation with the new Prime Minister of the United Kingdom, Andy Burnham. 
-‏
-‏We discussed many subjects, including the outstanding relationship we have had with the UK. We will be meeting in the not too distant future for topics of mutual interest. 
-‏
-‏The Prime Minister has got a big job ahead of him, but he will be able to do it and, of course, the U.S.A. will be there to help! 
-‏
-‏We discussed North Sea Oil, Trade, the Military Alliance, Demining of the Hormuz Strait, and many other topics. The call was interesting, and went very well. I wished Prime Minister Burnham, 
-‏
-‏GOOD LUCK AND GODSPEED!
-10:44
 1405/04/30
 
 
@@ -5182,21 +5116,6 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 01:01
-1405/04/30
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Nicaraguan President Daniel Ortega announced that the country will no longer hold elections, ending any possibility of an electoral challenge after his current term. 
-‏
-‏Ortega said the move would prevent opposition groups from returning to power.
-‏
-‏Ortega, who has ruled since 2007 (after a previous presidency in the 1980s), did not explain how the change would be implemented.
-‏
-‏Source: Reuters
-01:00
 1405/04/30
 
 
