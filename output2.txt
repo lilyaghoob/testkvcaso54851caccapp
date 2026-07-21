@@ -1,5 +1,69 @@
+src :@samueltarikh
+‏هم اکنون گزارش های محلی از شنیده شدن صدای انفجار در منطقه نارمک، تهران خبر می‌دهند.
+02:16
+1405/04/31
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️دونالد ترامپ با بازنشر تصاویر عرفان اسفندیاری و گل‌محمد محمدی، دو معترض بازداشت‌شده دی‌ماه ۱۴۰۴ که اخیرا اعدام شده‌اند در شبکه اجتماعی «تروث سوشال» نوشت: «این‌ها جدیدترین افراد از بیش از ۵۲ هزار معترض بی‌گناه هستند. وحشی‌ها!!! دموکرات‌ها کی بیدار می‌شوند؟» عرفان اسفندیاری، جوان ۱۸ ساله و گل‌محمد محمدی، معترض ۲۳ ساله افغانی در جریان انقلاب ملی ایرانیان در دی‌ماه ۱۴۰۴ بودند که روز ۲۸ تیرماه اعدام شدند. رئیس جمهوری آمریکا همچنین تصویری از یک زن ایرانی منتشر کرد که کاغذی با نوشته «ما را نکشید» در دست دارد.
+‏
+‏@IndyPersian
+02:16
+1405/04/31
+
+
+
+
+src :@Alibk3
+[عکس]
+‏رويترز عن مصادر:
+‏
+‏باكستان تسعى للحصول على 10 مليارات دولار من تسهيلات الدعم الأميركية لتعزيز الاحتياطيات.
+02:14
+1405/04/31
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- Fighter jet activity is reported over Tehran, the capital of Iran. Preliminary, unconfirmed reports of explosions have been reported near the city.
+02:14
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴گزارش هایی تایید نشده از صدای انفجار در نارمک ✍🏻 Hunter ▪️@World_Newsly
+02:14
+1405/04/31
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷– Unconfirmed reports of airstrikes in eastern Tehran.  @GeoPWatch
+02:13
+1405/04/31
+
+
+
+
 src :@Alibk3
 ‏مسؤول أميركي يعلن عن إصابة أكثر 500 جندي أميركي منذ بدء الحرب على إيران.
+02:12
+1405/04/31
+
+
+
+
+src :@BellumActaNews
+‏🇺🇸❌🇮🇷❗️ — Initial reports of USAF bombings against Narrak area of East Tehran
+‏
+‏@BellumActaNews
 02:12
 1405/04/31
 
@@ -187,8 +251,8 @@ src :@naya_foriraq
 
 
 src :@VahidOnline
-‏در بخشی از نارمک تهران صدایی شنیده که معلوم نیست مربوط به چی بوده.
-‏پیام‌های دریافتی:
+‏در بخشی از نارمک تهران صدایی شنیده شده که معلوم نیست مربوط به چی بوده.
+‏پیام‌های دریافتی خیلی کم:
 ‏
 ‏سلام شرق نارمک صدای خیلی بلند مثل انفجار
 ‏
@@ -202,6 +266,7 @@ src :@VahidOnline
 ‏سمت نارمک ساعت ۲بامداد صدای انفجار اومد
 ‏
 ‏سمت نارمک صدایی شبیه به انفجار  بود ساعت ۲:۰۰
+‏
 ‏📡 @VahidOnline
 02:04
 1405/04/31
@@ -1430,15 +1495,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 00:04
-1405/04/31
-
-
-
-
-src :@Alibk3
-[عکس]
-‏صور الأقمار الصناعية لمطار رامون في إيلات تُظهر وجود ما لا يقل عن 24 طائرة تزويد بالوقود الأميركية.
-00:03
 1405/04/31
 
 
@@ -2838,18 +2894,6 @@ src :@samueltarikh
 
 
 
-src :@intelslava
-‏🇲🇦🇺🇸🇵🇸⚡️ — Morocco will train soldiers of the International Stabilization Forces (ISF), which are planned to operate in the Gaza Strip as part of the peace plan proposed by Trump.
-‏
-‏▶️ Representatives of the command based in Kfar Ga'at are in Rabat this week to plan the training for the deployment.
-‏
-‏@IntelSlava
-22:31
-1405/04/30
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏🔻 اگر به دنیای تجهیزات و فناوری‌های نظامی علاقه‌مندی، جای تو اینجاست.
@@ -3167,14 +3211,6 @@ src :@MilitarryWorld
 ‏🔴اتش سوزی وسیع در کوه دراک شیراز
 ‏
 ‏@MilitarryWorld | Parsa
-21:59
-1405/04/30
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷🇮🇶 - Major destruction at Erbil International Airport, Iraq's Kurdistan region, following sustained Iranian attacks.
 21:59
 1405/04/30
 
@@ -3986,14 +4022,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 20:29
-1405/04/30
-
-
-
-
-src :@samueltarikh
-‏هم اکنون چندین فروند از هواپیماهای بمب‌افکن B1 لنسر نیروی هوایی ایالات متحده از پایگاه هوایی RAF Fairford در بریتانیا مشاهده شدند که در حال خروج بودند به سمت خاورمیانه.
-20:24
 1405/04/30
 
 
@@ -5017,16 +5045,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 17:03
-1405/04/30
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌ 🇰🇼— Sirens in Kuwait!
-‏
-‏@GeoPWatch
-17:02
 1405/04/30
 
 
