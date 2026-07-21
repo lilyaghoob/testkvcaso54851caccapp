@@ -1,3 +1,126 @@
+src :@GeoPWatch
+‏🇮🇷❌🇯🇴 — Reports of loud explosions in Zarqa, Jordan. 
+‏
+‏@GeoPWatch
+12:11
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴گزارش هدف قرارگرفتن لانچر در لار استان فارس
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+12:11
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴سازمان دریانوردی بریتانیا:
+‏دقایقی پیش یک نفتکش در سواحل امارات هدف موشک ایران قرار گرفت.
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+12:10
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴شنیده شدن انفجار در الزرقا اردن
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+12:10
+1405/04/30
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Deviation & hold over Jordan
+‏
+‏ترجمه خودکار فارسی
+‏
+‏انحراف و توقف بر فراز اردن
+‏
+‏𝕏  ·  @shin_persian
+12:09
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز الأردن هذه الأثناء
+12:09
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴 اداره مرزبانی و گمرک سوریه: سلاح‌هایی که قرار بود به صورت قاچاق به خاک لبنان وارد شوند، توقیف شدند
+‏
+‏اداره بنادر و گمرک سوریه: این محموله شامل ۲۲۶ بمب بود و در خودرویی که به مقصد لبنان در حرکت بود، جاسازی شده بود.
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+12:08
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏🇸🇾حكومة الجولاني تدعي إحباط محاولة تهريب أسلحة باتجاه الأراضي اللبنانية
+12:08
+1405/04/30
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸 — Reports of Iranian ballistic missile launches from western Iran.
+12:08
+1405/04/30
+
+
+
+
+src :@P_raetorio
+‏بر اساس تصاویر مجموعا دستکم 4 موشک بالستیک شلیک شده است.
+‏
+‏@P_raetorio
+12:08
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴ارتش بحرین: ایران همچنان غیرنظامیان این کشور را هدف حملات موشکی و پهپادی قرار می‌دهد
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
+12:07
+1405/04/30
+
+
+
+
 src :@Alibk3
 ‏هجوم صاروخي يستهدف الأردن
 12:07
@@ -6,8 +129,21 @@ src :@Alibk3
 
 
 
+src :@P_raetorio
+‏مقصد پرتاب موشک ها به سمت اردن بوده است.
+‏
+‏صدای آژیر در اردن فعال شده است.
+‏
+‏
+‏@P_raetorio
+12:07
+1405/04/30
+
+
+
+
 src :@GeoPWatch
-‏🇮🇷❌🇺🇸— Reports of a missile launch from Northwestern Iran.
+‏🇮🇷🚀‼️ — Reports of a missile launch from Northwestern Iran.
 ‏
 ‏@GeoPWatch
 12:06
@@ -17,7 +153,21 @@ src :@GeoPWatch
 
 
 src :@naya_foriraq
-‏القيادة العامة لقوة دفاع البحرين أن إيران تواصل نهجها العدائي الممنهج عبر اعتداءاتها الآثمة التي تستهدف المدنيين في مملكة البحرين.
+‏المنشور اليومي في البحرين
+‏
+‏🇧🇭القيادة العامة لقوة دفاع البحرين: إيران تواصل نهجها العدائي الممنهج عبر اعتداءاتها الآثمة التي تستهدف المدنيين في مملكة البحرين.
+12:06
+1405/04/30
+
+
+
+
+src :@World_Newsly
+‏🔴شاید باورتون نشه ولی هنوز آتش بسه
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️ @World_Newsly
 12:06
 1405/04/30
 
@@ -270,7 +420,7 @@ src :@samueltarikh
 
 src :@GeoPWatch
 [عکس]
-‏🇮🇷❌🇺🇸 — Reports of Detected Missile Launch from Asabad, Hamadan Province, Iran. 
+‏🇮🇷🚀‼️— Reports of Detected Missile Launch from Asabad, Hamadan Province, Iran. 
 ‏
 ‏@GeoPWatch
 12:02
@@ -344,7 +494,7 @@ src :@WAR_ROOM_NEWS
 
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇷🇮🇱 Possible missile launch from Asadabad, Hamadan Province, Iran.
+‏⚡️🇮🇷Possible missile launch from Asadabad, Hamadan Province, Iran.
 ‏
 ‏@wfwitness
 11:59
@@ -669,14 +819,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏✅ همه ادعای درامد‌ دلاری دارن اما کی تو عمل ثابت میکنه؟ سود دیروز چنل ما رو تو تصویر میتونید ببینید از بازار انس جهانی طلا  🔴شما هم عضو خانواده کوچیک و پول‌ساز مون بشید👇🏼👇🏼  https://t.me/+XuFNsgBCJyw1NTg0
-11:40
-1405/04/30
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻پیش از آن که رای‌دهندگان به پای صندوق‌های رای بروند، راهی برای خروج از جنگ پیدا کنید  👤 لارا اینگراهام، مجری مطرح فاکس‌نیوز:  "زمان برای رئیس‌جمهور ترامپ به‌سرعت در حال سپری شدن است تا پیش از آنکه رأی‌دهندگان پای صندوق‌های رأی بروند، راهی برای خروج از جنگ…
@@ -925,14 +1067,6 @@ src :@cataphract1
 
 
 
-src :@World_Newsly
-‏🔴اصفهان صدای جنگنده ۱۱:۱۳   ✍🏻 Dangerman ▪️ @World_Newsly
-11:21
-1405/04/30
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏وال استریت ژورنال: از زمان آغاز درگیری‌ها با ایران در ماه فوریه، حداقل ۱۸ سرباز آمریکایی در جریان عملیات‌های نظامی این کشور جان خود را از دست داده‌اند
 ‏
@@ -954,18 +1088,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴اصفهان صدای جنگنده ۱۱:۱۳
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-11:21
-1405/04/30
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد دور تازه حملات نظامی آمریکا به مراکز فرماندهی و تاسیسات نظامی جمهوری اسلامی در ایران بامداد سه‌شنبه ۳۰ تیر به پایان رسیده است. هم‌زمان، گزارش‌های متعدد از وقوع انفجار در چند شهر جنوب و جنوب‌شرق ایران منتشر شد.
@@ -978,36 +1100,11 @@ src :@Farsi_Iranwire
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 فارس به نقل از یک منبع نظامی: تنگهٔ هرمز همچنان مسدود است!
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-11:20
-1405/04/30
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇮🇷 WSJ: At least 18 US service members have been killed supporting US operations during the war with Iran since the conflict began in February.  
 ‏
 ‏@wfwitness
-11:19
-1405/04/30
-
-
-
-
-src :@World_Newsly
-‏🔴وزارت دفاع اردن: ۵ فروند پهپاد که از ایران شلیک شده بود را رهگیری کردیم
-‏
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
 11:19
 1405/04/30
 
@@ -1740,6 +1837,9 @@ src :@mamlekate
 ‏📝 فاکس نیوز: ترامپ ظرف چند روز آینده درباره گسترش جنگ با جمهوری اسلامی تصمیم می‌گیرد
 ‏
 ‏مقام‌های ارشد آمریکایی دوشنبه ۲۹ تیر به شبکه فاکس‌نیوز گفتند انتظار می‌رود دونالد ترامپ، رییس‌جمهوری آمریکا، در روزهای آینده تصمیم بگیرد که آیا عملیات نظامی علیه جمهوری اسلامی را گسترش دهد و بار دیگر به یک جنگ تمام‌عیار بازگردد یا خیر.
+‏
+‏
+‏📝 حوثی‌ها از محاصره دریایی عربستان سعودی خبر دادند
 ‏
 ‏@mamlekate
 10:07
@@ -2806,16 +2906,6 @@ src :@mohem_mat
 
 
 
-src :@naya_foriraq
-‏الله أكبر
-‏
-‏موجة صاروخية تنطلق من إيران نحو القواعد الأمريكية في المنطقة.
-07:14
-1405/04/30
-
-
-
-
 src :@mohem_mat
 ‏تجربه یک سال گذشته نشان می دهد همان اندازه که احتمال دارد در میانه مذاکرات ایران و آمریکا، جنگ رخ دهد؛ به همان اندازه هم احتمال دارد در میانه جنگ ایران و آمریکا، توافق حاصل شود.
 ‏
@@ -3644,15 +3734,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧📞🇺🇸 — British Prime Minister Andy Burnham has spoken with President Trump for the first time, according to The Guardian.
-02:20
-1405/04/30
-
-
-
-
 src :@samueltarikh
 ‏هم اکنون سازمان دریانوردی بریتانیا از اصابت یک موشک ایران به یک نفتکش در تنگه هرمز خبر داد.
 02:20
@@ -4187,15 +4268,6 @@ src :@Mena_Live
 
 
 
-src :@Shin_Persian
-[عکس]
-‏↩️ Quoted tweet: Vahid Online ✓  @Vahid  تصویر دریافتی: دود انفجار در کوه دراک #شیراز، سه‌شنبه ۳۰ تیر حدود ساعت ۰۰:۴۰ بامداد #Iran  ↩️ Quoted tweet — see the post below for the reply.  English  Received image: Explosion smoke on Mount Derak #Shiraz, Tuesday…
-01:26
-1405/04/30
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸❌🇮🇷 – US airstrikes in Shiraz and Chabahar.
@@ -4464,19 +4536,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 00:56
-1405/04/30
-
-
-
-
-src :@P_raetorio
-‏#فوری 
-‏
-‏گزارشات تأییدنشده از شنیده شدن صدای انفجار در بندر لنگه 
-‏
-‏
-‏@P_raetorio
-00:55
 1405/04/30
 
 
@@ -5108,16 +5167,6 @@ src :@jangaavaran1390
 ‏📢 کانال:
 ‏https://t.me/NoLimit_Net
 23:59
-1405/04/29
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 — Reports of active air defense near Bushehr Power Plant! 
-‏
-‏@GeoPWatch
-23:58
 1405/04/29
 
 
