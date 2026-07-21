@@ -1,3 +1,36 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇷🇧🇭 Iran targets Amazon data center in Bahrain.
+‏
+‏@BRICSNews
+10:49
+1405/04/30
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻تنگه هرمز محور اولین رایزنی ترامپ و نخست‌وزیر جدید بریتانیا
+‏
+‏👤 دونالد ترامپ:
+‏
+‏"گفت‌وگوی بسیار خوبی با اندی برنهام، نخست‌وزیر جدید بریتانیا، داشتم. درباره موضوعات متعددی گفت‌وگو کردیم؛ از جمله روابط ممتاز و دیرینه‌ای که میان ایالات متحده و بریتانیا برقرار بوده است.
+‏
+‏ قرار است در آینده‌ای نه‌چندان دور برای بررسی موضوعات مورد علاقه و اهمیت مشترک با یکدیگر دیدار کنیم.
+‏نخست‌وزیر مسئولیت بزرگی پیش رو دارد، اما اطمینان دارم که از عهده آن برخواهد آمد و، البته، ایالات متحده نیز برای کمک در کنار او خواهد بود.
+‏
+‏در این گفت‌وگو درباره نفت دریای شمال، روابط تجاری، ائتلاف نظامی، مین‌روبی تنگه هرمز و همچنین موضوعات متعدد دیگری تبادل نظر کردیم.
+‏
+‏این تماس تلفنی، گفت‌وگویی جالب و بسیار موفق بود. برای نخست‌وزیر برنهام آرزوی موفقیت دارم."
+‏
+‏🆔 @Americana_ir
+10:48
+1405/04/30
+
+
+
+
 src :@didarnews1
 [عکس]
 ‏🔻قالیباف در نامه‌ای به رئیس‌جمهور برگزاری جلسات علنی در شرایط اضطرار را ابلاغ کرد/ ایسنا
@@ -49,7 +82,7 @@ src :@ClashReport
 
 
 src :@naya_foriraq
-‏اندلاح حريق داخل وزارة الصحة العراقية في العاصمة بغداد
+‏🇮🇶 اندلاح حريق داخل وزارة الصحة العراقية في العاصمة بغداد
 10:43
 1405/04/30
 
@@ -57,7 +90,7 @@ src :@naya_foriraq
 
 
 src :@naya_foriraq
-‏🇮🇶إعلام أمريكي عن تقارير استخباراتية أميركية: المواجهة بين طهران وواشنطن طويلة الأمد ومن المستبعد أن تخفف إيران من موقفها التفاوضي بسبب العمل العسكري الأميركي
+‏🇺🇸🇮🇷 إعلام أمريكي عن تقارير استخباراتية أميركية: المواجهة بين طهران وواشنطن طويلة الأمد ومن المستبعد أن تخفف إيران من موقفها التفاوضي بسبب العمل العسكري الأميركي
 10:41
 1405/04/30
 
@@ -1451,20 +1484,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@IranintlTV
-[عکس]
-‏روزنامه جوان، وابسته به سپاه پاسداران، با انتقاد از مصاحبه اخیر عباس عراقچی با جواد موگویی، نوشت: «تایید اطلاعات، یا بیان جزییات روز واقعه شهادت رهبری یا عدم ارتباط وزیر خارجه با رهبری، مسائلی نیست که بتوان به سادگی و با لبخند برای رسانه‌ها فاش کرد.»
-‏
-‏این روزنامه اضافه کرد: «لطفا در گفت‌وگوهای بعدی، نشانی بقیه تونل‌ها و پایگاه‌های نظامی را برای خودتان نگه دارید و در بیان جزییات وقایع مهم خویشتنداری کنید.»
-‏
-‏این رسانه وابسته به سپاه پاسداران افزود: «حفظ امنیت ملی، پاسداشت اعتماد عمومی و صیانت از منافع مردم، هدفی است که هیچ جذابیت رسانه‌ای، هیچ گفت‌وگوی پرمخاطب و هیچ رقابتی برای جلب توجه، نباید بر آن سایه بیفکند.» 
-‏https://iranintl.com/202607218777
-08:04
-1405/04/30
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏صبح همگی بخیر
@@ -2386,12 +2405,24 @@ src :@Indypersian
 
 
 
-src :@Indypersian
+src :@BellumActaNews
 [عکس]
-‏♦️کاخ سفید با انتشار نتایج نظرسنجی موسسه «بیگ دیتا پول» (BIG DATA POLL)، از حمایت افکار عمومی آمریکا از «توافق صلح با ایران» خبر داد. بر اساس این نظرسنجی که در پایان ماه ژوئن ۲۰۲۶ و از میان رای‌دهندگان ثبت‌نام‌شده انجام شده است، بیش از ۶۰.۴ درصد از شرکت‌کنندگان از یادداشت تفاهم و توافق صلح دولت دونالد ترامپ برای پایان دادن به جنگ با ایران حمایت کرده‌اند. در مقابل، ۲۳.۷ درصد مخالف این توافق بوده و ۱۵.۹ درصد نیز گزینه تردید یا اطمینان نداشتن را انتخاب کرده‌اند.
+‏🇺🇸❌🇮🇷 — Earlier, the US Air Force had conducted strikes on IRGC military facilities in the Darak mountain range near Shiraz, Fars Province
 ‏
-‏@IndyPersian
-04:14
+‏➖➖➖➖➖➖➖➖
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+‏➖➖➖➖➖➖➖➖
+‏@BellumActaNews
+04:19
+1405/04/30
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏The Odyssey: Rotten Tomatoes reportedly spoofing reviews, artificially inflating the audience score from 56% to 97%
+04:09
 1405/04/30
 
 
@@ -2401,6 +2432,27 @@ src :@Alibk3
 [عکس]
 ‏ثلاث طائرات تزود بالوقود أميركية أقلعت من قواعدها في الكيان قبل قليل.
 04:09
+1405/04/30
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇺🇸🤝🇧🇷⚡️ — Former federal deputy Eduardo Bolsonaro (PL) received a Green Card in the United States, granted by the administration of President Donald Trump
+‏
+‏➡️ The measure guarantees the former lawmaker the right to live, work, and study in the country indefinitely. The benefit was also granted to his wife, Heloísa Bolsonaro, and the couple's two children, Geórgia and Jair Henrique, aged 5 and 2, respectively.
+‏
+‏➡️ The decision came after an application submitted more than a year ago and grants rights similar to those of U.S. citizens, except for voting rights. The approval comes at a time of heightened diplomatic tensions between the governments of Brazil and the United States. Recently, the Trump administration imposed a new 25% tariff on Brazilian products.
+‏
+‏💬 Journalist Paulo Figueiredo, an ally of Eduardo, celebrated the Trump administration's decision:
+‏
+‏— Eduardo is now protected by the U.S. Constitution. (...) Any act of persecution or censorship, for example, against him, could fall within the same context as the actions that have already led to U.S. sanctions against Brazil — he stated.
+‏
+‏❗️ With Eduardo Bolsonaro's new immigration status, the possibility of extradition to serve a sentence in Brazil becomes even more distant. U.S. law now provides legal protections to the former lawmaker while he is on American territory.
+‏
+‏Source 🖇
+04:07
 1405/04/30
 
 
@@ -2446,6 +2498,14 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 03:51
+1405/04/30
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷🇮🇶🇮🇶انفجارات عند الحدود العراقية الإيرانية سمع دويها في محافظة السليمانية.
+03:48
 1405/04/30
 
 
@@ -2529,6 +2589,18 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 03:15
+1405/04/30
+
+
+
+
+src :@BellumActaNews
+‏🇺🇸🇺🇸❌🇮🇷 — 4x explosions were heard in the mountains near Kerman, close to the Shahid Bahonar military base. 
+‏
+‏Locals report that the sound was very loud, and it was heard near the city of Ekhtiarabad.
+‏
+‏@BellumActaNews
+03:13
 1405/04/30
 
 
@@ -3952,6 +4024,17 @@ src :@mwarmonitor
 
 
 
+src :@BellumActaNews
+[عکس]
+‏🇺🇸🇺🇸❌🇮🇷 — USAF fighters bombed the Imam Ali Base in Chabahar
+‏
+‏@BellumActaNews
+00:49
+1405/04/30
+
+
+
+
 src :@samueltarikh
 ‏🚨گزارشات از انفجار در شیراز
 00:49
@@ -4018,6 +4101,16 @@ src :@tglobaleye
 
 
 
+src :@BellumActaNews
+‏🇺🇸🇺🇸❌🇮🇷 — USAF fighter jets are reportedly bombing targets in Chabahar at low altitude.
+‏
+‏@BellumActaNews
+00:42
+1405/04/30
+
+
+
+
 src :@didarnews1
 ‏🔴به گزارش خبرگزاری ایرنا، در ساعات اخیر صدای حداقل ۱۴ انفجار بزرگ و کوچک در چابهار و کنارک شنیده شده است.
 ‏
@@ -4025,6 +4118,17 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
+00:38
+1405/04/30
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇸🇦⚠️🛰 — Mass GPS jamming across Riyadh metropolitan zone, as noticed via DeltaSweep platform
+‏
+‏@BellumActaNews
 00:38
 1405/04/30
 
@@ -4187,6 +4291,28 @@ src :@bricsnews
 
 src :@samueltarikh
 ‏آمریکا دیر یا زود مجبور می‌شود برای حفظ نظم از ابزار سخت ( جنگ تمام عیار) استفاده کند.
+00:26
+1405/04/30
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏#BREAKING | 🇺🇸 🇮🇷 — U.S. airstrikes reported in Bushehr and Qeshm Island, southern Iran.
+‏
+‏The Global Eye | Subscribe
+00:26
+1405/04/30
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏#BREAKING | 🇺🇸 🇮🇷 — U.S. airstrikes reported in Chabahar, Konarak, Sistan and Balochestan, southeastern Iran.
+‏
+‏The Global Eye | Subscribe
 00:26
 1405/04/30
 
@@ -5158,6 +5284,17 @@ src :@DEJradio
 ‏#سپاه_تروریستی_پاسداران
 ‏@DEJradio
 22:58
+1405/04/29
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏#BREAKING | 🇮🇱 🇺🇸 🇮🇷 — Israeli source to The Global Eye: Major regional escalation likely in coming days/weeks; Israel may intervene if developments warrant, contingent on Iran and proxy behavior.
+‏
+‏The Global Eye | Subscribe
+22:49
 1405/04/29
 
 
@@ -6163,16 +6300,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iranian air defense officer killed in US attacks on Tabriz.
-‏
-‏@BRICSNews
-19:21
-1405/04/29
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهوری آمریکا، روز دوشنبه ۲۹ تیر، پستی از مسیح علینژاد درباره اعدام عرفان اسفندیاری، از بازداشت‌شدگان اعتراضات دی‌ماه، را در شبکه اجتماعی تروث سوشال بازنشر کرد.
@@ -6197,17 +6324,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 19:12
-1405/04/29
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸 Odds of Democrats winning the US House this year surge to 85% as war with Iran resumes.
-‏
-‏@BRICSNews
-19:05
 1405/04/29
 
 
@@ -7414,25 +7530,4 @@ src :@ManotoTV
 [عکس]
 ‏جشن فرهنگ و هنر از سال ۱۳۴۷ آغاز شد و هر سال، هنرمندان و گروه‌های فرهنگی از سراسر ایران را گرد هم آورد. این رویداد، تلاشی برای معرفی و پاسداشت تنوع فرهنگی ایران بود و نشان می‌داد که فرهنگ ایرانی، از دل صداها، آیین‌ها و هنرهای گوناگون، هویتی مشترک می‌سازد.
 10:51
-1405/04/29
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏ 
-‏وقوع دو زلزله پی‌درپی در کرمانشاه 
-‏
-‏زلزله‌ای به بزرگی ۵/۲ ریشتر ساعت ۷:۱۳ بامداد دوشنبه ۲۹ تیرماه ۱۴۰۵ در منطقه کوزران استان کرمانشاه به وقوع پیوست. پنج دقیقه بعد زلزله‌ دیگری به بزرگی  ۵/۷ ریشتر  در عمق ۱۳ کیلومتری زمین در همین منطقه رخ داد. 
-‏
-‏لرزش‌های ناشی از این زمین‌لرزه‌ها علاوه بر استان کرمانشاه، در استان‌های ایلام، مرکزی، همدان، کردستان و لرستان نیز احساس شده است. 
-‏
-‏امید محترمی، سخنگوی سازمان مدیریت بحران کشور، اعلام کرده  پس از وقوع این زمین‌لرزه‌ها، تیم‌های عملیاتی و ارزیابی شامل نیروهای اورژانس، هلال‌احمر و تیم‌های تخصصی وزارت نیرو به منطقه اعزام شدند.
-‏تا زمان تنظیم این خبر آمار خسارت ناشی از این دو زلزله منتشر نشده است. 
-‏
-‏بخش کوزران از توابع شهرستان کرمانشاه با بیش از ۱۷ هزار نفر جمعیت در حدود ۳۵ کیلومتری غرب مرکز استان واقع شده است.
-‏
-‏استان کرمانشاه تجربه زلزله ۷/۳ ریشتری را در آبان ۱۳۹۶ دارد که در آن زلزله بیش از ۶۰۰ شهروند کشته و هزاران نفر زخمی شدند.
-10:47
 1405/04/29
