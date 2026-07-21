@@ -1,3 +1,25 @@
+src :@World_Newsly
+‏🔴 گزارش از صدای انفجار در ابدانان
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+03:55
+1405/04/30
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸🇮🇷 United States is moving closer to all-out war with Iran, WaPo reports.
+‏
+‏@BRICSNews
+03:53
+1405/04/30
+
+
+
+
 src :@Indypersian
 ‏⭕️اسپانیا چگونه با تلفیق میراث ۲۰۱۰ و تجربه ۲۰۲۴ پایانی شایسته برای جام جهانی رقم زد؟
 ‏
@@ -58,7 +80,7 @@ src :@World_Newsly
 
 
 src :@naya_foriraq
-‏انفجارات عند الحدود العراقية الإيرانية سمع دويها في محافظة السليمانية.
+‏🇮🇷🇮🇶🇮🇶انفجارات عند الحدود العراقية الإيرانية سمع دويها في محافظة السليمانية.
 03:48
 1405/04/30
 
@@ -971,15 +993,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 02:03
-1405/04/30
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 گزارش از شنیده‌شدن صدای انفجار در بندرعباس و جزیره قشم  برخی منابع از شنیده‌شدن صدای یک یا چند انفجار جدید در بندرعباس و جزیره قشم در استان هرمزگان خبر داده‌اند.  ✍🏻 north vector ▪️@World_Newsly
-02:01
 1405/04/30
 
 
@@ -6724,17 +6737,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇷🇺🇸 Iranian President Pezeshkian says Iran is in a "full-scale war" with the United States.
-‏
-‏@BRICSNews
-17:41
-1405/04/29
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏U.S. airstrikes targeted Shiraz, Fars Province, in southwestern Iran. One of the strikes reportedly hit the Electronic Industries Complex.
@@ -6869,16 +6871,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 17:13
-1405/04/29
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇾🇪🇸🇦 Yemen's Houthis declare an immediate naval blockade against Saudi Arabia.
-‏
-‏@BRICSNews
-17:12
 1405/04/29
 
 
