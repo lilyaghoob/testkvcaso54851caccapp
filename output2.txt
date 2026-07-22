@@ -1,3 +1,106 @@
+src :@RASTAKHIZ_PERSIAN
+‏🔶 شنیده شدن صدای انفجار شدید از کرمانشاه
+‏
+‏@RASTAKHIZ_PERSIAN
+11:03
+1405/04/31
+
+
+
+
+src :@guard_warriors
+‏دو صدای شدید انفجار در کرمانشاه 
+‏
+‏@Guard_Warriors
+11:02
+1405/04/31
+
+
+
+
+src :@mwarmonitor
+‏✈️هواپیماهای سوخت‌رسان نیروی هوایی آمریکا (USAF) از رومانی برای سوخت‌رسانی هوایی به بمب‌افکن‌ها B-1 در میانه مسیر به پرواز درآمده‌اند.  🔴همچنین، صبح امروز هواپیماهای سوخت‌رسان بیشتری به پایگاه هوایی دریایی سیگونلا (NAS Sigonella) سیسیل ایتالیا اعزام شدند.…
+11:02
+1405/04/31
+
+
+
+
+src :@Artemis_Force
+‏🛑صدای انفجار های مهیب در کرمانشاه 
+‏
+‏@artemis_force
+11:02
+1405/04/31
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻طبق اعلام روابط عمومی سازمان لیگ فوتبال ایران، فصل جدید لیگ برتر از روز جمعه ۲۳ مرداد کلید خواهد خورد.
+‏
+‏🔹مراسم قرعه‌کشی این رقابت‌ها ساعت ۱۶ روز سه‌شنبه ۶ مرداد، در سالن همایش‌های بین‌المللی هتل المپیک تهران برگزار می‌شود. این مراسم با حضور نمایندگان ۱۸ باشگاه حاضر در فصل جدید لیگ برتر برگزار خواهد شد.
+‏@iranintltvsport
+10:59
+1405/04/31
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏✈️یک فروند هواپیمای E-11A Battlefield Airborne Communications Node (BACN) (هواپیمای گره ارتباطات هوابرد میدان نبرد و رله مخابراتی) نیروی هوایی ایالات متحده (شماره دم 24-9049) لحظاتی پیش از پایگاه هوایی رابینز (Robins AFB) وارد پایگاه هوایی رامشتاین (Ramstein…
+10:59
+1405/04/31
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️اسماعیل کوثری، عضو کمیسیون امنیت ملی مجلس به خبرآنلاین گفت جمهوری اسلامی پس از ۱۱ سپتامبر و در پی اشغال افغانستان و عراق، به شبه‌نظامیان این دو کشور آموزش داد تا بتوانند از خود در برابر آمریکا دفاع کنند.
+‏
+‏کوثری در مصاحبه با این خبرگزاری، احتمال حمله زمینی آمریکا به ایران را رد کرد و گفت که اگر آمریکا می‌خواست نقاطی از ایران را اشغال کند، در همان دوره نخست جنگ این کار را کرده بود.
+‏
+‏ارتش آمریکا پس از ۲۰ سال حضور در افغانستان و در پی توافق با طالبان در  تابستان سال  ۲۰۲۱ از این کشور خارج شد.
+‏
+‏تعداد محدودی از نیروهای نظامی آمریکایی همچنان در عراق حضور دارند.
+‏@IndyPersian
+10:58
+1405/04/31
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇦🇿🇩🇪🇷🇺 — Azerbaijani President Ilham Aliyev, speaking after a meeting with German Chancellor Friedrich Merz in Berlin, told reporters that former and current German and Russian officials held a clandestine meeting in Baku this month.
+‏
+‏Aliyev said Baku had received no prior notification from either Germany or Russia and only became aware of the meeting after reading about it in a report by The Times. He added that Azerbaijani authorities subsequently launched an investigation into the visits.
+‏
+‏"In other words, our territory was simply used without our knowledge," he added.
+‏
+‏@TheWarReporter
+10:58
+1405/04/31
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Türkiye has issued a NAVTEX notice until August 30 for seismic surveys in the eastern Mediterranean ahead of constructing a 101-km natural gas pipeline linking Türkiye and Northern Cyprus.
+‏
+‏The planned bidirectional pipeline would supply gas to the island and could eventually transport Eastern Mediterranean gas to Türkiye and onward to Europe. 
+‏
+‏Source: Bloomberg
+10:57
+1405/04/31
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- "Washington’s Gulf Arab allies are increasingly frustrated as hostilities between the US and Iran intensify, jeopardizing their national security and economies.
 ‏
@@ -48,7 +151,7 @@ src :@Farsi_Iranwire
 
 src :@Navy_Iranian
 [عکس]
-‏لاشه های کروز JASSM (AGM-158) در آذربایجان شرقی
+‏لاشه  کروز JASSM (AGM-158) در آذربایجان شرقی
 ‏
 ‏@Navy_Iranian | #S_S
 10:48
@@ -1790,20 +1893,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد واشینگتن همچنان برای مذاکره و حل اختلافات با جمهوری اسلامی آمادگی دارد، اما تهران در مذاکرات رویکردی جدی از خود نشان نمی‌دهد.
-‏
-‏روبیو گفت اگر مسیر دیپلماسی به نتیجه نرسد، ایالات متحده برای حفاظت از منافع خود و متحدانش اقدام خواهد کرد.
-‏
-‏او تاکید کرد آمریکا همچنان راه‌حل دیپلماتیک را ترجیح می‌دهد، اما در صورت شکست مذاکرات، برای دفاع از منافع و امنیت متحدان خود تردیدی نخواهد داشت.
-‏https://iranintl.com/202607222470
-06:15
-1405/04/31
-
-
-
-
 src :@militaryinpersian
 [عکس]
 ‏حملات فوق سنگین آمریکا به پادگان بخردیان بهبهان
@@ -2239,17 +2328,6 @@ src :@MilitarryWorld
 src :@wfwitness
 ‏Air Defence activated in Isfahan.
 04:06
-1405/04/31
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️جلال ملکی، سخنگوی سازمان آتش‌نشانی تهران از وقوع «انفجار گاز» در یک منزل قدیمی دو طبقه در محدوده میدان ۹۵ نارمک در ساعت ۲:۰۴ بامداد چهارشنبه خبر داد. براساس این گزارش، این حادثه به دلیل تجمع گاز در فضای زیر سقف ایرانیت حیاط رخ داده و منجر به انفجار بدون حریق (اصطلاحا «کپ») شده است. ملکی گفت که این انفجار تنها موجب شکستن شیشه‌ها و آسیب به سقف ایرانیت شده و خوشبختانه هیچ‌گونه تخریب ساختمانی، خسارت جانی یا مصدومی برجای نگذاشته است.
-‏
-‏@IndyPersian
-04:05
 1405/04/31
 
 
@@ -5264,20 +5342,6 @@ src :@GeoPWatch
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — Iranian Army Spokesman Mohammad Akraminia:
-‏
-‏"Our deterrence has extended beyond our borders, making any invading ground forces incapable of even approaching our territory. 
-‏
-‏If the war moves to land, the enemy's potential for losses will increase due to its lack of knowledge of the local geography".
-‏
-‏@TheWarReporter
-21:45
-1405/04/30
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 NEW: The fourth American soldier eliminated by Iran, while trying to disarm a downed drone in Erbil, has been identified as Sgt. Michael Swinton, 30-years old
@@ -5300,19 +5364,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏✒️#LT
 ‏📃@Cataphract1
 21:42
-1405/04/30
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏📍🛰 فرودگاه رامون، ایلات، اسرائیل ۲۱ ژوئیه
-‏
-‏✈️دست‌کم ۲۴ فروند هواپیمای سوخت‌رسان نیروی هوایی آمریکا قابل مشاهده هستند. هیچ تصویری از پایگاه هوایی عودا (Ovda) وجود ندارد؛ پایگاهی که هواپیماهای سوخت‌رسانی که اخیراً از پایگاه هوایی العدید تخلیه شده بودند، به آن منتقل شدند.
-‏
-‏@mwarmonitor
-21:39
 1405/04/30
 
 
@@ -5371,16 +5422,6 @@ src :@mohem_mat
 ‏
 ‏@roozArooz_media
 21:27
-1405/04/30
-
-
-
-
-src :@mwarmonitor
-‏📰رویترز به نقل از منابع امنیتی: سرنگونی سه پهپاد حامل مواد منفجره در نزدیکی کنسولگری آمریکا در اربیل.
-‏
-‏@mwarmonitor
-21:26
 1405/04/30
 
 
@@ -7019,23 +7060,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 11:13
-1405/04/30
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏نسخه ارزان‌تر موشک پاتریوت رونمایی شد
-‏
-‏🔹لاکهید مارتین از موشک جدید PAC-3 رونمایی کرد. 
-‏
-‏🔹به گزارش رویترز، این محصول با هدف مقابله‌ کم‌هزینه‌تر با پهپادها و موشک‌ها طراحی شده است تا پاسخگوی تقاضای فزاینده‌ ارتش‌ها باشد.
-‏
-‏🔹قیمت هر فروند موشک PAC-3 MSE حدود چهار میلیون دلار برآورد می‌شود، اما مدل جدید PAC-3 کمتر از نصف این مبلغ هزینه خواهد داشت.
-‏
-‏⚙️#TECH
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-10:59
 1405/04/30
