@@ -1,8 +1,193 @@
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — Explosions in Bandar-e Mahshahr, southwestern Iran.
+00:27
+1405/05/01
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Explosions have reportedly been heard in Sirik, Iran, according to Iranian state broadcaster IRIB.
+00:26
+1405/05/01
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — Explosions in Ramshir, Khuzestan province, according to IRIB.
+00:26
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏🔴انفجار در رامشیر، استان خوزستان
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+00:26
+1405/05/01
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — Explosions in Sirik, southern Iran, according to IRIB.
+00:26
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 گزارش چندین انفجار در سرا‌وان سیستان
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:25
+1405/05/01
+
+
+
+
+src :@wfwitness
+‏Reports of explosions in Ahvaz.
+00:25
+1405/05/01
+
+
+
+
+src :@tabzlive
+‏🇮🇷🇺🇸⚡️ — Explosions in Ahvaz, southwestern Iran.
+00:25
+1405/05/01
+
+
+
+
+src :@MilitarryWorld
+‏🔴انفجار در سیریک هم اکنون
+‏
+‏@MilitarryWorld | Parsa
+00:25
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 اهواز کیانشهر انفجار 
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:25
+1405/05/01
+
+
+
+
+src :@wfwitness
+‏IRIB: Eplosions heard in Ziyarat, Sirik County, moments ago.
+00:25
+1405/05/01
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴 خبرنگار الجزیره در تهران به نقل از برخی منابع: در صورت حمله آمریکا به کوه کلنگ، ایران به اسرائیل نیز حمله خواهد کرد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+00:24
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴  انفجار در سیریک
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:23
+1405/05/01
+
+
+
+
+src :@wfwitness
+‏Reports of explosions in Ahvaz.
+00:23
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 انفجار در اربیل عراق
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:23
+1405/05/01
+
+
+
+
 src :@Alibk3
 ‏التلفزيون الإيراني:
 ‏
-‏قبل دقائق، سُمِع دوي انفجار في منطقة بماني التابعة لقضاء سيريك
+‏قبل دقائق، سُمِع دوي انفجار في منطقة بماني التابعة لقضاء سيريك.
 00:23
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 ماهشهر ۲ انفجار
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:22
+1405/05/01
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷سماع دوي انفجار في سيريك
+00:22
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 گزارش انفجار در بهبهان
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:22
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 اهواز زیر حملات سنگین 
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:21
 1405/05/01
 
 
@@ -969,19 +1154,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ:ما در حال ساخت یک تاسیسات نظامی بسیار بزرگ در کاخ سفید هستیم.
-‏این یک سالن رقص است در عین حال تاسیسات نظامی هم هست که در بالای آن یک پایگاه پهپادی و در زیر آن چیزهای بسیار فوق العاده ساخته می شود.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-23:47
-1405/04/31
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏یونان در آستانه خرید سامانه پدافند هوایی ۳.۴۲ میلیارد دلاری از اسرائیل
@@ -1044,31 +1216,9 @@ src :@thewarreporter
 
 
 
-src :@World_Newsly
-[عکس]
-‏⭕ پاکستان و قطر به طور فعال در تلاش هستند تا آمریکا و ایران را مجدداً به میز مذاکره بازگردانند.  — کانال 13 اسرائیل  ✍🏻 adolf hitler ▪️@World_Newsly
-23:44
-1405/04/31
-
-
-
-
 src :@intelslava
 ‏🇪🇺 🇷🇺 Ambassadors of European Union member states have once again failed to adopt the 21st package of sanctions against Russia.
 23:44
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏⭕ پاکستان و قطر به طور فعال در تلاش هستند تا آمریکا و ایران را مجدداً به میز مذاکره بازگردانند.
-‏
-‏— کانال 13 اسرائیل
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-23:43
 1405/04/31
 
 
@@ -1084,14 +1234,6 @@ src :@wfwitness
 ‏Prime Minister Nawaf Salam’s visit to Zawtar al-Gharbiya was symbolic and coordinated. I advised him to go early and coordinate with the Lebanese Army because Israel has not stopped opening fire.
 ‏
 ‏@wfwitness
-23:43
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴ترامپ:کسانی که مواد مخدر در دریا ها قاچاق میکنند، شجاع ترین افراد تاریخند!  ✍🏻 Desert Eagle ▪️@World_Newsly
 23:43
 1405/04/31
 
@@ -1133,18 +1275,6 @@ src :@intelslava
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ:کسانی که مواد مخدر در دریا ها قاچاق میکنند، شجاع ترین افراد تاریخند!
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-23:40
-1405/04/31
-
-
-
-
 src :@jangaavaran1390
 ‏پاکستان و قطر به طور فعال در تلاش هستند تا آمریکا و ایران را مجدداً به میز مذاکره بازگردانند.
 ‏
@@ -1157,14 +1287,6 @@ src :@jangaavaran1390
 
 src :@jangaavaran1390
 ‏ترامپ:  این تنش‌هایی است که بین ما وجود دارد. من این را "تنش" با جمهوری اسلامی ایران می‌نامم. آنها تحت فشار زیادی قرار دارند. و می‌خواهند یک توافق انجام دهند. اما من می‌گویم که آنها هنوز برای انجام یک توافق آماده نیستند. اما به زودی، خیلی زود، آماده خواهند…
-23:40
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏‏🔴 سنتکام: ایران تنگه هرمز را کنترل نمی‌کند. این مسیر آبی بین‌المللی علیرغم تهدیدها و حملات سپاه پاسداران باز است. کشتی‌های تجاری همچنان با پشتیبانی نظامی ایالات متحده از تنگه عبور می‌کنند. از اوایل ماه مه، نیروهای آمریکایی به عبور بیش از ۹۰۰ کشتی از تنگه…
 23:40
 1405/04/31
 
@@ -1217,18 +1339,6 @@ src :@ClashReport
 ‏
 ‏Source: Kan News
 23:38
-1405/04/31
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ: ما آمریکا رو داریم عالی اداره می کنیم و به من گزارش دادن تورم بیشترین کاهش رو تو ۶ سال اخیر داشته.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-23:36
 1405/04/31
 
 
@@ -1309,18 +1419,6 @@ src :@intelslava
 ‏— retired Major General of the Armed Forces of Ukraine Serhiy Kryvonos.
 ‏
 ‏@IntelSlava
-23:33
-1405/04/31
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏‏🔴 سنتکام: ایران تنگه هرمز را کنترل نمی‌کند. این مسیر آبی بین‌المللی علیرغم تهدیدها و حملات سپاه پاسداران باز است. کشتی‌های تجاری همچنان با پشتیبانی نظامی ایالات متحده از تنگه عبور می‌کنند. از اوایل ماه مه، نیروهای آمریکایی به عبور بیش از ۹۰۰ کشتی از تنگه کمک کرده‌اند.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 23:33
 1405/04/31
 
@@ -1879,14 +1977,6 @@ src :@Alibk3
 ‏
 ‏على رعايانا في الشرق الأوسط الاستعداد لاحتمال إلغاء رحلات جوية
 23:13
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-‏انفجارات عنيفة في سماء الأردن
-23:12
 1405/04/31
 
 
@@ -3208,19 +3298,6 @@ src :@intelslava
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 The IRGC Navy has warned against the use of alternative routes through the Strait of Hormuz, saying the waterway’s entry and exit points are clearly defined and remain under its complete control.
-‏
-‏The force said alternative routes are unsafe and dangerous, warning that any attempt to use them would have severe and irreversible consequences.
-‏
-‏@wfwitness
-21:52
-1405/04/31
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇱 🇺🇸 🇹🇷 — Israel weighing Boeing P-8 Poseidon acquisition amid concerns over Türkiye’s naval expansion
@@ -3364,21 +3441,6 @@ src :@defence_news
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇶🇺🇦🇷🇺 Ray Al-Youm: Iraqi security forces have arrested a suspect planning to attack the Badra oil field, seizing components of an improvised explosive device from his car. 
-‏
-‏The suspect confessed to being directed by a foreign national in exchange for $2,000, with Investigations revealing the foreign handler used a Ukrainian phone number and recruited the suspect through online chat rooms. 
-‏
-‏The Badra field is partially owned by Russia’s Gazprom Neft. Analysts suggest the incident may indicate Ukrainian security services are expanding sabotage operations against Russian energy assets in third countries.
-‏
-‏@wfwitness
-21:45
-1405/04/31
-
-
-
-
 src :@MilitarryWorld
 ‏🔴سپاه به کشور ها اخطار داد از مسیرهای جایگزین تنگه هرمز استفاده نکنن
 ‏
@@ -3427,21 +3489,6 @@ src :@thewarreporter
 ‏"Prepare as many coffins as possible".
 ‏
 ‏@TheWarReporter
-21:40
-1405/04/31
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇹🇷 Jerusalem Post: Israel’s defence establishment is considering acquiring Boeing P-8 Poseidon maritime patrol aircraft as part of efforts to strengthen its anti-submarine warfare capabilities amid growing concern over Turkey’s expanding naval power. Officials said discussions are underway, but the aircraft’s high cost means any purchase could be tied to a broader future US-Israel defence agreement. 
-‏
-‏Israeli officials view Turkey’s modernising submarine fleet as a potential long-term security challenge. 
-‏
-‏Turkey currently operates more than 10 diesel-electric submarines and is introducing a new class equipped with air-independent propulsion systems, while broader tensions between Israel and Turkey have fuelled concerns within Israel’s defence establishment. 
-‏
-‏@wfwitness
 21:40
 1405/04/31
 
@@ -3549,16 +3596,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 21:29
-1405/04/31
-
-
-
-
-src :@MilitarryWorld
-‏🔴فعالیت جنگنده‌های نیروی هوایی ارتش جمهوری اسلامی ایران در شرق تهران.
-‏
-‏@MilitarryWorld | Parsa
-21:28
 1405/04/31
 
 
@@ -6477,50 +6514,11 @@ src :@Americana_ir
 
 
 
-src :@didarnews1
-‏🔴سخنگوی وزارت کشور: مردم استان‌های جنوبی حداقل خاموشی را تجربه می‌کنند
-‏
-‏🔹رهبری پرهیز از برجسته‌کردن اختلافات سیاسی را وظیفه همگانی دانستند.
-‏
-‏🔹هر نقطه‌ای هدف تهاجم دشمن قرار می‌گیرد به‌سرعت ترمیم می‌شود.
-‏
-‏🔹تخریب مسئولانی که دیپلماسی را دوشادوش میدان، پیش می‌برند پذیرفتنی نیست.
-‏
-‏🔹اختلاف سلایق باید بر مبنای رهنمودهای رهبری مدیریت شود.
-‏
-‏🔹پاکستان میانجی اصلی ما در مذاکرات با آمریکاست و قاعدتا وزیر کشور در لابه‌لای این گفت‌وگوها اگر مسئله‌ای در این زمینه باشد هم منتقل می‌کند.
-‏
-‏🔹در ضربه به شبکه‌های ضدایرانی تعلل نمی‌شود.
-‏
-‏🔹برای تامین نیازهای کشور تدبیر شده و نگرانی وجود ندارد.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-12:21
-1405/04/31
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran says it launched a new wave of strikes targeting US military assets in Kuwait.
 ‏
 ‏@BRICSNews
 12:20
-1405/04/31
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴 نقشه حملات دیشب آمریکا به ایران
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-12:11
 1405/04/31
 
 
