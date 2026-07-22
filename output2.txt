@@ -1,3 +1,78 @@
+src :@BellumActaNews
+‏🇺🇸❌🇮🇷 — 4x USAF airstrikes against the iconic Nojeh Airbase of the Islamic Republic of Iran Air Force in Hamedan Province
+‏
+‏@BellumActaNews
+03:46
+1405/04/31
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏💥اکنون شلیک سنگین توپ های پدافندی در جنوب تهران
+03:45
+1405/04/31
+
+
+
+
+src :@IRRadar
+‏🔴 هشدار درباره احتمال محدودیت اینترنت در صورت تشدید درگیری‌ها
+‏
+‏همزمان با انتشار گزارش‌هایی از حملات به تهران، نگرانی‌ها درباره اعمال محدودیت‌های بیشتر بر دسترسی به اینترنت افزایش یافته است.
+‏
+‏با توجه به سوابق محدودسازی اینترنت در شرایط مشابه، در صورت وقوع حملات گسترده به پایتخت، ترور مقامات یا گسترش درگیری‌ها، احتمال اعمال محدودیت‌های گسترده‌تر بر اینترنت، از جمله محدود شدن دسترسی به اینترنت بین‌الملل، وجود دارد. 
+‏
+‏به کاربران توصیه می‌شود از همین حالا VPN و پروکسی‌های موردنیاز خود را ذخیره و آماده کنند تا در صورت اعمال محدودیت‌های احتمالی، دسترسی آن‌ها به اینترنت با مشکل مواجه نشود.
+‏
+‏📡 @IRRadar
+03:44
+1405/04/31
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — Continuous U.S. airstrikes against Tabriz, northwestern Iran.
+03:43
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 هم‌اکنون : فعالیت پدافند در غرب تهران
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+03:43
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 شلیک پهپاد به سمت کشورای‌های منطقه  
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
+03:43
+1405/04/31
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴سامانه های ضد هوایی در مرکز شهر تهران نیز فعال شده‌اند.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+03:42
+1405/04/31
+
+
+
+
 src :@wfwitness
 ‏⚡️🇺🇸🇮🇷 Footage shows the moment U.S. airstrikes targeted Tabriz tonight.  @wfwitness
 03:41
@@ -788,19 +863,6 @@ src :@Alibk3
 
 
 
-src :@World_Newsly
-‏🔴فوری
-‏
-‏🚨پدافند لواسان فعال شده دارن پارچینو میزنن
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-03:21
-1405/04/31
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -834,17 +896,6 @@ src :@MilitarryWorld
 
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Parchin, southeast Tehran, air defenses have gone active again.
-03:20
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴 زنجان انفجار
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
 03:20
 1405/04/31
 
@@ -1007,20 +1058,6 @@ src :@Alibk3
 
 
 
-src :@Alibk3
-‏للتواصل مع بوت القناة:
-‏@Ali_bk_3bot
-‏نستقبل التوثيقات، أي استفسار، أخبار عامة، مواد خبرية.
-‏
-‏برای ارتباط با ربات جدید کانال:
-‏@Ali_bk_3bot
-‏مستندات، هرگونه پرسش، اخبار عمومی و مطالب خبری را دریافت می‌کنیم.
-03:14
-1405/04/31
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Iranian media report the downing of a US drone in the south of the country.
 03:14
@@ -1053,7 +1090,7 @@ src :@VahidOnline
 ‏
 ‏گرچه همیشه هستند کسانی که هر صدایی رو به برخورد تعبیر کنند ولی از حجم پیام‌ها واضحه که صدای پدافند شنیده میشه در مناطق مختلف تهران
 ‏
-‏آپدیت: ساعت ۸:۱۰
+‏آپدیت: ساعت ۳:۴۰
 ‏تا الان به طور پیوسته در هر ثانیه کلی پیام میومد. الان داره به حدود یک پیام در ثانیه کاهش پیدا می‌کنه.
 ‏همچنان درباره صدای پدافند در همه مناطق تهران
 ‏📡 @VahidOnline
@@ -1406,15 +1443,6 @@ src :@naya_foriraq
 
 
 
-src :@Alibk3
-[عکس]
-‏‏القيادة المركزية الأميركية تعلن بدء الغارات على إيران.
-03:03
-1405/04/31
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -1465,29 +1493,12 @@ src :@GeoPWatch
 
 
 
-src :@Alibk3
-[عکس]
-‏البنتاغون يعلن مقتل الجندي الأميركي الثالث بضربة موفق السلطي بالأردن.
-03:01
-1405/04/31
-
-
-
-
 src :@MilitarryWorld
 ‏🔴فوری/ نایا:
 ‏
 ‏حملات امشب علیه استان خوزستان با موشک‌های بالستیک ATACMS انجام نشد؛ این حملات از طریق هواپیماهای جنگنده از حریم هوایی عراق صورت گرفت که روال هرشب آمریکا نیست!
 ‏
 ‏@MilitarryWorld | Parsa
-03:01
-1405/04/31
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — Air defense activity in Tehran.
 03:01
 1405/04/31
 
@@ -1555,14 +1566,6 @@ src :@VahidOnline
 ‏[+ ده‌ها پیام مشابه دیگر از مناطق مختلف شرق و شمال شرق تهران که دیگه نقل نمی‌کنم و ازشون عبور می‌کنم چون تازه رسیدم به پیام‌های ۱۰ دقیقه پیش و از پیام‌های تازه‌تر بی‌خبرم.
 ‏هم‌زمان دارم همه پست‌های قبلی مربوط به شهرهای دیگر رو هم آپدیت می‌کنم با پیام‌های تازه‌تر]
 ‏📡 @VahidOnline
-03:00
-1405/04/31
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Earlier strikes against Khuzestan Province were not conducted with ATACMS ballistic missiles; they were conducted via fighter jets from Iraqi airspace, breaking from CENTCOM's origibal routine.
 03:00
 1405/04/31
 
@@ -1838,14 +1841,6 @@ src :@militaryinpersian
 ‏📝  AmirF15
 ‏
 ‏👑 @Fighter_Radar
-02:55
-1405/04/31
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌ — U.S. airstrikes targeted Sirik, southern Iran.
 02:55
 1405/04/31
 
@@ -4593,18 +4588,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔶تخمی ولی در حین تخمی بودن عالی.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-22:11
-1405/04/30
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏یک جنگنده جی ۱۰ سی بر فراز ازبکستان دیده شده 
@@ -4701,14 +4684,6 @@ src :@Middle_East_Spectator
 
 src :@jangaavaran1390
 ‏رویترز: سه پهپاد در نزدیکی کنسولگری آمریکا در اربیل، عراق، مورد رهگیری قرار گرفتند.
-21:59
-1405/04/30
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏طبق گزارشات تائید نشده در پی حملات موشکی سپاه آسیب‌هایی به ساختمان سفارت اسرائیل در بحرین وارد شد
 21:59
 1405/04/30
 
