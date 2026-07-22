@@ -1,3 +1,138 @@
+src :@Alibk3
+‏التلفزيون الإيراني:
+‏
+‏قبل دقائق، سُمِع دوي انفجار في منطقة بماني التابعة لقضاء سيريك
+00:23
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 گزارش عبور جنگنده در آسمان تبریز
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:21
+1405/05/01
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از انفجار در ماهشهر نیز مخابره شده
+00:21
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 گزارش انفجار در رامشیر خوزستان
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:21
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 انفجار در اهواز
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:20
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 دور جدید حملات آمریکا به مواضع نظامی جمهوری اسلامی شروع شد.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:20
+1405/05/01
+
+
+
+
+src :@intelslava
+‏🇺🇸⚡️ — Today, the U.S. House of Representatives will consider a bill to ban members of Congress from engaging in insider trading.
+‏
+‏▶️This is related to several scandals in which lawmakers made investment decisions on the stock market based on confidential information.
+‏
+‏@IntelSlava
+00:20
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 انفجار در ماهشهر
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:20
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏‏🔴 شلیک موشک بالستیک از یزد
+‏
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:19
+1405/05/01
+
+
+
+
+src :@samueltarikh
+‏طبق گزارش ها هم اکنون تعداد زیادی هواپیمای سوخت رسان آمریکایی به همراه آواکس های شناسایی از خاک اصلی آمریکا به سمت خاورمیانه در حال حرکت می‌باشند.
+00:19
+1405/05/01
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از انفجار در اهواز
+00:19
+1405/05/01
+
+
+
+
+src :@wfwitness
+‏Reports of explosions in Ahvaz.
+00:19
+1405/05/01
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇦❌🇷🇺 — Ukraine has launched drones into Crimea and western Russia.
+‏
+‏➡️ Monitoring sources indicate that up to 310 drones have been launched so far.
+00:18
+1405/05/01
+
+
+
+
 src :@samueltarikh
 ‏⭕️گزارش انفجار در ماهشهر
 00:17
@@ -1333,18 +1468,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-‏‏🔴 حمله سپاه به اردن
-‏پایگاه موفق السطی
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-23:30
-1405/04/31
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -1373,18 +1496,6 @@ src :@jangaavaran1390
 ‏
 ‏بنابراین من معتقدم که طی ۱۰ سال آینده، کارهای زیادی برای انجام دادن و تولید زیادی در اینجا خواهیم داشت.
 23:29
-1405/04/31
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ:ما در نهایت مقابل جمهوری اسلامی ایران پیروز می شویم تا تضمین کنیم کاری که با بقیه کردند را با ما نکنند. آن ها ۵۲۰۰۰ معترض را قتل عام کردند و متاسفانه کسی درباره این کشتار صحبت نمی کنه و یک سری از رسانه ها در مورد آن حتی دروغ می گویند.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-23:28
 1405/04/31
 
 
@@ -1433,29 +1544,6 @@ src :@samueltarikh
 src :@mwarmonitor
 ‏🔴گزارش الجزيرة: ۴ انفجار در اربیل، منطقه کردستان عراق رخ داد.  @mwarmonitor
 23:26
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش‌ها حاکی از آن است که جنگنده‌های تایفون نیروی هوایی بریتانیا در حریم هوایی اردن در حال انجام عملیات رهگیری هستند.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-23:25
-1405/04/31
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ: ما به تنگه هرمز احتیاج نداریم اما اینکارا رو می کنیم چون ایران نباید سلاح هسته‌ای داشته باشه
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-23:25
 1405/04/31
 
 
@@ -2150,15 +2238,6 @@ src :@Shin_Persian
 ‏ایران
 ‏
 ‏𝕏  ·  @shin_persian
-22:50
-1405/04/31
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇻🇪⚡️ — The trial of ousted Venezuelan President Nicolás Maduro and his wife, Cilia Flores, is scheduled to begin on June 1, 2027, a New York judge ordered today.
 22:50
 1405/04/31
 
@@ -3464,14 +3543,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-‏Interceptions in Erbil
-21:33
-1405/04/31
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸❌🇮🇷 - A Boeing E-3B Sentry has just taken off from Prince Sultan Air Base.
@@ -3699,14 +3770,6 @@ src :@thewarreporter
 
 
 
-src :@WAR_ROOM_NEWS
-‏قالیباف، گفت: "معادله این جنگ مشخص است: یا همه یا هیچ"، و هشدار داد که اگر ایران نتواند نفت خود را صادر کند، هیچ کشوری در این منطقه نخواهد توانست.وی افزود: "اگر امنیت ما تضمین نشود، هیچ زیرساختی امن نخواهد بود"، و تصریح کرد که امنیت تنگه هرمز به عدم حضور نیروهای آمریکایی بستگی دارد. قالیباف همچنین گفت که شرایط در این تنگه به وضعیت قبل از جنگ باز نخواهد گشت.
-21:07
-1405/04/31
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸🫏⚡️- House minority leader Hakeem Jeffries is engaging with an unproven conspiracy that a Black high school student, Nolan Wells, was murdered by his White friends after a Fourth of July party on an island in Mississippi, where Wells drowned after staying behind to be with a girl.
@@ -3899,19 +3962,6 @@ src :@GeoPWatch
 ‏⚡️🇮🇷🇮🇷❌🇯🇴🇺🇸 - Reports of Ballistic Missile launches from Iran heading towards Jordan.
 ‏
 ‏@GeoPWatch
-20:52
-1405/04/31
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏آمریکا در میدانی بازی میکند که ج.ا هم بازیکنش است، با این فرق که آمریکا بازیکن قوی تری است. اما اسرائیلیها اساسا بازی اختصاصی میکنند. ترور فراوان مقامات. امری که ج.ا در آن هم بازی اسرائیلیها نیست و امکان کمتری دارد.دوم جنگ زیر ساختی که ج.ا امکاناتی دارد اما بسیار آسیب پذیرتر است.
-‏
-‏ج.ا با اقدامات امنیتی در پی ترور برخی مقامات اسرائیلی یا خانواده هایشان حداقل در خارج از اسرائیل هست که کمی این بازی یک طرفه را تغییر دهد. طبعا نفوذ امنیتی کمتر و امکان های نظامی پایین تر کار را پیچیده‌تر میکند.
-‏
-‏@Exciton_missile_program 🚀
 20:52
 1405/04/31
 
@@ -4725,25 +4775,6 @@ src :@ircfspace
 
 
 
-src :@intelslava
-[عکس]
-‏🇷🇺❌🇺🇦 — Russian forces strike ports at Chernomorsk and Odessa, targeting vessels, port infrastructure, fuel storage, and UAV depots.
-‏
-‏➡️ A dry cargo ship was hit during unloading at Chernomorsk's Sea Commercial Port, along with port infrastructure and fuel and lubricant tanks.
-‏
-‏➡️ Port facilities used for unloading and storing military cargo at Odessa's Sea Commercial Port were also struck.
-‏
-‏➡️ Two vessels — a dry cargo ship and a bulk carrier — were hit during a sea crossing while delivering cargo to the AFU at Odessa.
-‏
-‏➡️ Attack UAVs struck three UAV storage depots in Odessa and Molodezhnoye, approximately 10 km south-east of Odessa.
-‏
-‏@IntelSlava
-19:01
-1405/04/31
-
-
-
-
 src :@defence_news
 ‏رئیس اداره بنیاد شهید و امور ایثارگران شهرستان میناب اسامی شهدای مدرسه شجره طیبه میناب را که بقایای پیکرشان تفحص شده را اعلام کرد.
 ‏
@@ -5226,15 +5257,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 17:31
-1405/04/31
-
-
-
-
-src :@samueltarikh
-‏مرندی، عضو سابق تیم مذاکره‌کننده ایران:
-‏زمان آن رسیده که کویت، قطر، عربستان، بحرین، امارات و احتمالاً عمان تخلیه بشوند.
-17:29
 1405/04/31
 
 
