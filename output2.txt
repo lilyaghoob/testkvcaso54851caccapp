@@ -1,3 +1,85 @@
+src :@didarnews1
+‏🔴تغییر مسیر ۴ نفتکش در دریای سرخ
+‏
+‏🔹داده‌های رهگیری شناورها نشان می‌دهد ۴ نفتکش روز چهارشنبه در دریای سرخ مسیر خود را تغییر داده‌اند.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+20:11
+1405/04/31
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴تعدادی از هواپیماهای باری نظامی ایالات متحده به سمت منطقه، به ویژه اردن، در حرکت هستند.
+‏
+‏@MilitarryWorld | Parsa
+20:11
+1405/04/31
+
+
+
+
+src :@samueltarikh
+‏🚨آکسیوس: 
+‏
+‏ترامپ در آستانه اتخاذ تصمیمی سرنوشت‌ساز قرار گرفته: پذیرش آتش‌بس جدید با ایران یا آغاز یک عملیات نظامی گسترده و مشترک با اسرائیل
+20:11
+1405/04/31
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran says it will attack energy infrastructure if US strikes Iranian power plants.
+‏
+‏@BRICSNews
+20:11
+1405/04/31
+
+
+
+
+src :@samueltarikh
+‏🚨 ارتش آمریکا در حال انجام عملیات تخلیه تمام هواپیماهای سوخت رسان و ترابری خود از قطر می‌باشد.
+20:10
+1405/04/31
+
+
+
+
+src :@rnintel
+‏🇲🇱🇷🇺⚡- The second attempt of the very large convoy consisting of the Malian Armed Forces, FAMa, and Russia's African Corps to reach the city of Gao, northern Mali, has also failed.  Moments ago, the convoy struck a JNIM IED just east of Hombori, Gossi direction…
+20:10
+1405/04/31
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🛫⚠️ - There appears to be a high amount of possible GNSS interference or GPS spoofing off the coasts of Qatar, Bahrain and Saudi Arabia.
+‏
+‏@GeoPWatch
+20:09
+1405/04/31
+
+
+
+
+src :@rnintel
+‏🇸🇾🇮🇱⚡️- “Earlier today (Wednesday), a number of Israeli citizens arrived in the Hermon area with the intention of attempting to cross the border into Syrian territory. An IDF force operating in the area prevented the citizens from advancing and detained them.
+‏
+‏The detained citizens were transferred to the Israel Police for further handling.” - Israeli Defence Force.
+20:08
+1405/04/31
+
+
+
+
 src :@mohem_mat
 ‏عارف: 
 ‏
@@ -18,7 +100,7 @@ src :@mohem_mat
 
 src :@Alibk3
 [عکس]
-‏‏تم إصدار إشعار للملاحين الجويين (NOTAM) لمنطقة معلومات الطيران في بغداد (ORBB) لإنشاء مسارات مؤقتة جديدة للوصول والمغادرة من وإلى منطقة معلومات الطيران في طهران، اعتبارًا من 23 يوليو.
+‏إصدار إشعار للملاحين الجويين لمنطقة معلومات الطيران في بغداد لإنشاء مسارات مؤقتة جديدة للوصول والمغادرة من وإلى منطقة معلومات الطيران في طهران، اعتبارًا من 23 يوليو.
 20:07
 1405/04/31
 
@@ -73,9 +155,7 @@ src :@samueltarikh
 
 src :@WAR_ROOM_NEWS
 [عکس]
-‏تقویت‌های نظامی گسترده از سوی آمریکا در منطقه در جریان ست
-‏
-‏تعدادی از هواپیماهای ترابری نظامی آمریکایی به سمت منطقه، به ویژه اردن، در حرکت هستند
+‏در ادامه روند افزایش حضور نظامی ایالات متحده، تعدادی از هواپیماهای ترابری نظامی آمریکا در حال انتقال تجهیزات و پشتیبانی به منطقه هستند که بخش قابل‌توجهی از این پروازها به‌ویژه به مقصد اردن انجام می‌شود
 20:05
 1405/04/31
 
@@ -3398,18 +3478,6 @@ src :@guard_warriors
 
 
 
-src :@MilitarryWorld
-‏🔴سخنگوی وزارت کشور: 
-‏
-‏پاکستان میانجی اصلی ما در مذاکرات با آمریکاست!
-‏
-‏@MilitarryWorld | Parsa
-16:50
-1405/04/31
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇲🇱🇷🇺 - Note, the initial Savare-Gao convoy was supposed to break the siege of Anefis and attempt to recapture Kidal.   Instead, Gao needed rescuing from the besieged city of Anefis, FAMa's last stronghold in Azawad.
@@ -4600,27 +4668,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭 — Interceptions in Bahrain
-‏
-‏@GeoPWatch
-15:16
-1405/04/31
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇦🇪 — An F/A-18C Hornet flying South of Abu Dhabi near the UAE/Saudi Arabia Border.
-‏
-‏@GeoPWatch
-15:16
-1405/04/31
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴سیستم‌های پدافند هوایی در اطراف پایگاه هوایی عبدالعزیز عربستان فعال هستند
 15:15
@@ -4682,14 +4729,6 @@ src :@didarnews1
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇸🇦 — Sirens in Saudi Arabia!  @GeoPWatch
-15:13
-1405/04/31
-
-
-
-
 src :@thewarreporter
 ‏🇸🇦🇮🇷 — Sirens in Dammam, eastern Saudi Arabia.
 ‏
@@ -4738,16 +4777,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇸🇦 — Sirens in Saudi Arabia!
-‏
-‏@GeoPWatch
-15:11
-1405/04/31
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -4774,16 +4803,6 @@ src :@Shin_Persian
 src :@rnintel
 ‏🇮🇷🇧🇭⚡- Explosions heard outside Bahraini airspace, with Bahrain's air defenses active. Sirens are also sounding in the Gulf island nation.
 15:11
-1405/04/31
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭 — Loud explosion heard in Bahrain. Our source reported a loud explosion and the building shaking.
-‏
-‏@GeoPWatch
-15:10
 1405/04/31
 
 
@@ -4821,14 +4840,6 @@ src :@thewarreporter
 ‏🇧🇭🇮🇷 — Sirens in Bahrain. 
 ‏
 ‏@TheWarReporter
-15:06
-1405/04/31
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭 — Sirens in Bahrain!
 15:06
 1405/04/31
 
@@ -5468,22 +5479,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 12:29
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇫🇷⚡️- Daniel Siad, 69, model recruiter and alleged procurer of victims for Jeffrey Epstein, was found dead at his home in Paris. His death's details have not been made public yet.
-12:29
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇾🇪🇸🇦 - Ansarullah's blockade of Saudi seaports in the Red Sea has caused four tankers to U-turn towards the Suez Canal.  One of the tankers is Russia's TRUST, with the other three being MICA, NAVIG8 EXPRESS, and AGIOS GERASIMOS.  Source: Kpler's map.
-12:28
 1405/04/31
 
 
@@ -6275,21 +6270,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 08:41
-1405/04/31
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔻موافقت ترامپ با قرارداد همکاری هسته‌ای با سعودی
-‏
-‏🔹مقام‌های آمریکایی بامداد چهارشنبه از موافقت رئیس‌جمهور این کشور با توافق همکاری هسته‌ای ۳۰ ساله با عربستان سعودی خبر دادند./ ایسنا
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:34
 1405/04/31
 
 
@@ -7183,14 +7163,6 @@ src :@Mena_Live
 
 
 
-src :@samueltarikh
-‏هم اکنون گزارش های محلی از شنیده شدن صدای انفجار در منطقه نارمک، تهران خبر می‌دهند.
-02:16
-1405/04/31
-
-
-
-
 src :@mamlekate
 [عکس]
 ‏🔥 شیراز ۳۱ تیرماه ساعت ۰۱:۳۵ بامداد
@@ -7256,15 +7228,6 @@ src :@bricsnews
 ‏JUST IN: 🇰🇼🇮🇷 Sirens in Kuwait as Iran launches additional strikes.
 ‏
 ‏@BRICSNews
-01:16
-1405/04/31
-
-
-
-
-src :@samueltarikh
-‏ادعای وزیر جنگ آمریکا:
-‏ایران مجدداً به تلاش برای دستیابی به توانمندی های هسته ای ادامه می‌دهد.
 01:16
 1405/04/31
 
