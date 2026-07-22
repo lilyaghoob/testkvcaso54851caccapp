@@ -1,3 +1,95 @@
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 Footage shows the moment U.S. airstrikes targeted Tabriz tonight.  @wfwitness
+03:41
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 امشب پدافند در اکثر نقاط تهران فعال شده   ✍🏻 north vector ▪️@World_Newsly
+03:41
+1405/04/31
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷 - An Iranian air defense unit is placed next to the Ershad Cultural Center on Shariati Street, Tehran. It's currently active.
+03:40
+1405/04/31
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴ارتش آمریکا به شهرستان کنگاور در استان کرمانشاه نیز حملاتی را انجام داده است.
+‏
+‏
+‏🆔@Military_Times_Blog
+03:40
+1405/04/31
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 No airstrikes have been reported in Tehran as of now. Only air defense activity.
+‏
+‏@wfwitness
+03:39
+1405/04/31
+
+
+
+
+src :@cataphract1
+‏⚜️گزارشات تایید نشده از انفجار و هدف قرار گرفتن مجدد پارچین
+‏
+‏📃@Cataphract1
+03:39
+1405/04/31
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ظاهرا در نقاط مختلفی از تهران توپ های ضد هوایی شلیک شده
+03:38
+1405/04/31
+
+
+
+
+src :@MilitarryWorld
+‏🔴صدای چندین انفجار در شرق تهران شنیده شد
+‏
+‏@MilitarryWorld | Parsa
+03:38
+1405/04/31
+
+
+
+
+src :@rnintel
+‏🇮🇷⚡- Five explosions heard in eastern Tehran. Cause unknown.
+03:37
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 امشب پدافند در اکثر نقاط تهران فعال شده 
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
+03:37
+1405/04/31
+
+
+
+
 src :@World_Newsly
 ‏🔴 ۵ انفجار در شرق تهران 
 ‏
@@ -688,17 +780,6 @@ src :@BellumActaNews
 
 
 
-src :@Mena_Live
-[عکس]
-‏Iranian locals report multiple airstrikes in Tehran, the first of its kind since last April.
-‏
-‏@Mena_Live
-03:22
-1405/04/31
-
-
-
-
 src :@Alibk3
 ‏سماع دوي انفجار في زنجان الإيرانية.
 03:21
@@ -761,30 +842,6 @@ src :@rnintel
 
 src :@World_Newsly
 ‏🔴 زنجان انفجار
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-03:20
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴گزارش انفجار دوباره در بوشهر
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-03:20
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴 حملۀ موشکی آمریکا به بهبهان و امیدیه
-‏
-‏🔹معاون استاندار خوزستان: نقاطی در اطراف شهر بهبهان و امیدیه توسط دشمن تروریستی آمریکا مورد حملۀ موشکی قرار گرفت.
 ‏
 ‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
 ‏▪️ @World_Newsly
@@ -994,8 +1051,11 @@ src :@VahidOnline
 ‏
 ‏پیام‌ها رسیده به مرکز شهر و حتی مناطقی در غرب تهران
 ‏
-‏گرچه همیشه هستند کسانی که هر صدایی رو به برخورد تعبیر کنند ولی از غالب حجم پیام‌ها واضحه که صدای پدافند شنیده میشه در مناطق مختلف تهران
+‏گرچه همیشه هستند کسانی که هر صدایی رو به برخورد تعبیر کنند ولی از حجم پیام‌ها واضحه که صدای پدافند شنیده میشه در مناطق مختلف تهران
 ‏
+‏آپدیت: ساعت ۸:۱۰
+‏تا الان به طور پیوسته در هر ثانیه کلی پیام میومد. الان داره به حدود یک پیام در ثانیه کاهش پیدا می‌کنه.
+‏همچنان درباره صدای پدافند در همه مناطق تهران
 ‏📡 @VahidOnline
 03:13
 1405/04/31
@@ -1329,14 +1389,6 @@ src :@tabzlive
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡- US attacks against Baneh, Bandar Kangan, Sirik, Urmia and Omidiyeh across the south and west of Iran.
-03:04
-1405/04/31
-
-
-
-
 src :@naya_foriraq
 ‏الجيش الامريكي: ‏
 ‏بدأت قوات القيادة المركزية الأمريكية (سنتكوم) اليوم، في تمام الساعة السابعة مساءً بتوقيت شرق الولايات المتحدة، شنّ غارات جوية على أهداف عسكرية في إيران لليلة الحادية عشرة على التوالي. وتهدف هذه الغارات إلى مواصلة تقويض قدرة إيران على تهديد الملاحة التجارية في مضيق هرمز.
@@ -1445,14 +1497,6 @@ src :@tabzlive
 src :@naya_foriraq
 ‏انفجارات عنيفة عند الحدود العراقية الإيرانية سمع دويها في محافظة السليمانية.
 03:01
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- US attacks against Baneh, Bandar Kangan, Sirik, Urmia and Omidiyeh across the south and west of Iran.
-03:00
 1405/04/31
 
 
@@ -1569,6 +1613,12 @@ src :@mamlekate
 ‏📝 تهران دیباجی از ساعت سه صدای پدافند میاد
 ‏
 ‏📝 ساعت ۳:۲۳ رودهن. صدای دوتا انفجار رو می‌شنویم... از سمت خجیر هست
+‏
+‏
+‏
+‏📝 سلام. غرب تهران صدای پدافند میاد. ساعت ۳:۳۸
+‏
+‏📝 الو پدافند قلعه همین دو سه دقیقه پیش شدید کار میکرد
 ‏
 ‏@mamlekate_pm
 02:59
@@ -1802,14 +1852,6 @@ src :@tabzlive
 
 
 
-src :@Alibk3
-‏انفجار جديد في بوشهر
-02:55
-1405/04/31
-
-
-
-
 src :@MilitarryWorld
 ‏🔴۳ انفجار شدید دیگر در تبریز
 ‏
@@ -1867,14 +1909,6 @@ src :@militaryinpersian
 ‏📝  AmirF15
 ‏
 ‏👑 @Fighter_Radar
-02:52
-1405/04/31
-
-
-
-
-src :@Alibk3
-‏دوي 8 انفجارات في تبريز
 02:52
 1405/04/31
 
@@ -2043,22 +2077,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 02:49
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-‏تفعيل الدفاعات الجوية في بوشهر جنوبي إيران
-02:48
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-‏انفجارات في تشابهار وتبريز جنوب شرق وشمال غرب إيران
-02:48
 1405/04/31
 
 
@@ -2482,14 +2500,6 @@ src :@OSINTWarfare
 
 
 
-src :@wfwitness
-‏Atleast 10 explosions heard in Behbahan
-02:38
-1405/04/31
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 — U.S. strikes against Behbahan, Khuzestan Province, Iran.
 02:38
@@ -2538,14 +2548,6 @@ src :@BellumActaNews
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Locals report that multiple explosions in the cities of Behbahan and Mahshahr can be heard.   Witnesses described four strong explosions in Behbahan and several more in Mahshahr.  @wfwitness
-02:35
-1405/04/31
-
-
-
-
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — UNCONFIRMED: The bombing of Tehran is ongoing.  @IntelSlava
 02:35
@@ -2568,16 +2570,6 @@ src :@IranintlTV
 
 src :@OSINTWarfare
 ‏Reports of explosions in eastern Tehran.
-02:34
-1405/04/31
-
-
-
-
-src :@MilitarryWorld
-‏🔴فوری/هم اکنون حملات به ماهشهر و بهبهان
-‏
-‏@MilitarryWorld | Parsa
 02:34
 1405/04/31
 
@@ -6268,21 +6260,6 @@ src :@Navy_Iranian
 [عکس]
 ‏تصویر دردناک از ناو پشتیبانی بندرعباس که حین اورهال در مجتمع کشتی سازی و صنایع فراساحل ایران یا ایزوایکو مورد اصابت امریکا قرار گرفته و به این روز افتاده است .  این نخستین تصاویر رسمی از نابودی نیروی دریایی ارتش است !  لینک منبع   🇮🇷📝 @defence_news 📝🇮🇷
 15:51
-1405/04/30
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⭕️وزارت جنگ آمریکا هویت نظامی کشته‌شده در پایگاه هوایی اربیل عراق را اعلام کرد.
-‏
-‏بر اساس این بیانیه، گروهبان مایکل امانوئل سوینتون، ۳۰ ساله، اهل فیِت‌ویل در ایالت کارولینای شمالی، در تاریخ ۱۹ ژوئیه ۲۰۲۶ و در جریان عملیات انفجار کنترل‌شده یک پهپاد انتحاری ایرانی جان خود را از دست داده است.
-‏
-‏گروهبان سوینتون در آتشبار D، گردان دوم، هنگ ۵۵ پدافند هوایی، تیپ ۱۰۸ پدافند هوایی مستقر در فورت براگ ایالت کارولینای شمالی خدمت می‌کرد.
-‏✒️#LT
-‏📃@Cataphract1
-15:50
 1405/04/30
 
 
