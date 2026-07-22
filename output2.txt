@@ -1803,17 +1803,6 @@ src :@IRRadar
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴سامانه های ضد هوایی در مرکز شهر تهران نیز فعال شده‌اند.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-03:42
-1405/04/31
-
-
-
-
 src :@wfwitness
 ‏⚡️🇺🇸🇮🇷 Footage shows the moment U.S. airstrikes targeted Tabriz tonight.  @wfwitness
 03:41
@@ -1824,17 +1813,6 @@ src :@wfwitness
 
 src :@rnintel
 ‏🇺🇸🇮🇷 - An Iranian air defense unit is placed next to the Ershad Cultural Center on Shariati Street, Tehran. It's currently active.
-03:40
-1405/04/31
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴ارتش آمریکا به شهرستان کنگاور در استان کرمانشاه نیز حملاتی را انجام داده است.
-‏
-‏
-‏🆔@Military_Times_Blog
 03:40
 1405/04/31
 
@@ -1856,14 +1834,6 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 03:39
-1405/04/31
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ظاهرا در نقاط مختلفی از تهران توپ های ضد هوایی شلیک شده
-03:38
 1405/04/31
 
 
