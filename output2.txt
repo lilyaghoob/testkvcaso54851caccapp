@@ -1,3 +1,131 @@
+src :@World_Newsly
+‏🔴 ۵ انفجار در شرق تهران 
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
+03:36
+1405/04/31
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏NOW - 
+‏5 blasts in eastern Tehran
+‏Tehran Province, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۵ انفجار در شرق تهران
+‏استان تهران، ایران
+‏
+‏𝕏  ·  @shin_persian
+03:36
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش‌ها از احساس موج انفجار در شرق تهران؛ ادعای حمله دوباره به پارچین  بر اساس گزارش‌های منتشرشده، موج انفجار در بخش‌هایی از شرق تهران احساس شده است. هم‌زمان برخی منابع مدعی شده‌اند که منطقه پارچین در استان تهران بار دیگر هدف حمله قرار گرفته است.  ✍🏻 north…
+03:36
+1405/04/31
+
+
+
+
+src :@Artemis_Force
+‏کنگاور
+03:35
+1405/04/31
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Wingmen spotted over Arak
+‏Markazi Province, Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏بالهای پشتیبان بر فراز اراک مشاهده شدند
+‏استان مرکزی، ایران
+‏
+‏𝕏  ·  @shin_persian
+03:35
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 صدای انفجار در غرب تهران 
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
+03:34
+1405/04/31
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡- Initial reports of airstrikes on western Tehran.
+‏
+‏Correction: No airstrikes in western Tehran have taken place.
+03:34
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش‌های محلی از حمله شدید به پایگاه موشکی تبریز
+‏
+‏بر اساس گزارش‌های محلی، پایگاه موشکی تبریز شامگاه امشب هدف حمله‌ای شدید قرار گرفته است.
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
+03:34
+1405/04/31
+
+
+
+
+src :@Navy_Iranian
+‏توپ‌های پدافندی پایتخت چند دقیقه هست فعال شدند.
+‏
+‏⚓️ @Navy_Iranian | #Tomcat
+03:33
+1405/04/31
+
+
+
+
+src :@Middle_East_Spectator
+‏🇺🇸🇮🇷⚡- BREAKING: Five airstrikes against Parchin, just southeast of Tehran.  The town's home to one of Iran's most important missile bases.
+03:33
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴 فعالیت پدافند در غرب تهران 
+‏
+‏✍🏻 north vector
+‏▪️@World_Newsly
+03:33
+1405/04/31
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -18,7 +146,7 @@ src :@Shin_Persian
 
 
 src :@GeoPWatch
-‏🇺🇸❌🇮🇷- US airstrikes against the Parchin Nuclear facility, southeast of Tehran.
+‏🇺🇸❌🇮🇷- US airstrikes against the Parchin Nuclear site, southeast of Tehran.
 ‏
 ‏@GeoPWatch
 03:32
@@ -268,7 +396,7 @@ src :@Shin_Persian
 
 
 src :@WAR_ROOM_NEWS
-‏🔴فرماندهی مرکزی ایالات متحده ایالات متحده (سنتکام) اعلام کرد که امروز ساعت ۱۹:۰۰ به وقت شرقی، برای یازدهمین شب پیاپی، حملات به اهداف نظامی در ایران را آغاز کرده است.
+‏🔴فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که امروز ساعت ۱۹:۰۰ به وقت شرقی، برای یازدهمین شب پیاپی، حملات به اهداف نظامی در ایران را آغاز کرده است.
 03:27
 1405/04/31
 
@@ -695,17 +823,6 @@ src :@Alibk3
 
 
 
-src :@World_Newsly
-‏🔴اصابت ۳  موشک تاماهاوک به سایت هسته ای پارچین
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-03:19
-1405/04/31
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — IRIB reports U.S. strikes against Omidiyeh, Khuzestan Province minutes ago.
 03:19
@@ -732,30 +849,8 @@ src :@Shin_Persian
 
 
 
-src :@World_Newsly
-‏🔴۳انفجار مجدد اطراف پارچین
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-03:19
-1405/04/31
-
-
-
-
 src :@Parvazdaroj
 ‏https://t.me/Artemis_Force/12099
-03:18
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴پردیس صدا پدافند
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
 03:18
 1405/04/31
 
@@ -771,28 +866,6 @@ src :@Artemis_Force
 ‏حوالی ظهر دیروز نیز فعالیت پهپادی در آذربایجان شرقی گزارش شده بود که توسط نپاجا شکار شد
 ‏
 ‏@artemis_force
-03:18
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴بانه در استان کردستان انفجار مجدد
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
-03:18
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴 عبور جنگنده در آسمان قزوین.
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
 03:18
 1405/04/31
 
@@ -1535,14 +1608,6 @@ src :@P_raetorio
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡- Air defense activity over Sohanak, northeast Tehran.
-02:58
-1405/04/31
-
-
-
-
 src :@wfwitness
 ‏Initial reports of AA activity in western Tehran
 02:58
@@ -1739,14 +1804,6 @@ src :@tabzlive
 
 src :@Alibk3
 ‏انفجار جديد في بوشهر
-02:55
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- Continued explosions in Tabriz, northwest Iran.
 02:55
 1405/04/31
 
@@ -1991,14 +2048,6 @@ src :@GeoPWatch
 
 
 
-src :@Alibk3
-‏دوي انفجار عنيف في بوشهر
-02:49
-1405/04/31
-
-
-
-
 src :@naya_foriraq
 ‏تفعيل الدفاعات الجوية في بوشهر جنوبي إيران
 02:48
@@ -2037,14 +2086,6 @@ src :@Shin_Persian
 src :@OSINTWarfare
 ‏Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.
 02:48
-1405/04/31
-
-
-
-
-src :@Alibk3
-‏سماع دوي 4 انفجارات في تشابهار الإيرانية.
-02:47
 1405/04/31
 
 
@@ -2188,14 +2229,6 @@ src :@P_raetorio
 ‏
 ‏
 ‏@P_raetorio
-02:44
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-‏انفجارات في قشم
 02:44
 1405/04/31
 
@@ -2387,29 +2420,6 @@ src :@wfwitness
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏3 Explosions in Bandar Abbas
-‏Hormozgan Province, Iran
-‏
-‏English
-‏
-‏3 Explosions in Bandar Abbas
-‏Hormozgan Province, Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏۳ انفجار در بندرعباس
-‏استان هرمزگان، ایران
-‏
-‏𝕏  ·  @shin_persian
-02:40
-1405/04/31
-
-
-
-
 src :@intelslava
 ‏Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.
 02:40
@@ -2421,26 +2431,6 @@ src :@intelslava
 src :@wfwitness
 ‏⚡️🇮🇷 Unconfirmed reports of launches from Kangavar, Iran.  @wfwitness
 02:40
-1405/04/31
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏2301Z
-‏11 huge explosions in Behabahan
-‏Khuzestan Province, Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏۲۳۰۱ زولو (۰۲:۳۱ بامداد به وقت تهران)
-‏۱۱ انفجار مهیب در بهبهان
-‏استان خوزستان، ایران
-‏
-‏𝕏  ·  @shin_persian
-02:39
 1405/04/31
 
 
@@ -6347,21 +6337,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Navy_Iranian
-[عکس]
-‏تصویر دردناک از ناو پشتیبانی بندرعباس که حین اورهال در مجتمع کشتی سازی و صنایع فراساحل ایران یا ایزوایکو مورد اصابت امریکا قرار گرفته و به این روز افتاده است .
-‏
-‏این نخستین تصاویر رسمی از نابودی نیروی دریایی ارتش است !
-‏
-‏لینک منبع 
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-15:43
-1405/04/30
-
-
-
-
 src :@defence_news
 ‏تصویر دردناک از ناو پشتیبانی بندرعباس که حین اورهال در مجتمع کشتی سازی و صنایع فراساحل ایران یا ایزوایکو مورد اصابت امریکا قرار گرفته و به این روز افتاده است .  این نخستین تصاویر رسمی از نابودی نیروی دریایی ارتش است !  لینک منبع   🇮🇷📝 @defence_news 📝🇮🇷
 15:43
@@ -7048,24 +7023,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Artemis_Force
-[عکس]
-‏ناوشکن { رزم ناو آینده} یعنی زاموالت آماده بازگشت به خدمت پس از ارتقا های سنگین! ارتقا صرفا تسلیحاتی نبوده است
-‏
-‏ناوشکن زاموالت از کلاس زاموالت طبق گزارش های نوال نیوز آماده بازگشت به خدمت و چرخه ماموریتی خود است، طبق گزارش ارتقا صرفا نصب vls های اضافی مختص بالستیک نبوده است بلکه برد و استقامت/پایداری این ناوشکن نیز بیشتر شده است { برد جدید اعلام نشده است}
-‏
-‏در گزارش نوال نیوز آمده است ٢ برادر دیگر این ناوشکن آماده ارتقا هستن، همچنین مخصوصا DDG 1002 که همچنان به خدمت رزمی نیرو دریایی ایالات متحده آمریکا در نیامده است ( فقط تست و آزمایش شده است) و قرار است بعد از DDG 1000 او ارتقا یابد و سپس الحاق به نیرو دریایی ایالات متحده آمریکا شود
-‏
-‏از ارتقا های دیگر زاموالت هم می‌شود به نکاتی همچون نصب سیستم های تسلیحاتی جدید، محل اقامت جدید، بروزرسانی برخی از سیستم ها ناوبری، پاکسازی رسوب و.... و چندین مورد دیگر اشاره کرد
-‏
-‏
-‏@artemis_force
-13:02
-1405/04/30
-
-
-
-
 src :@Exciton_missile_program
 ‏یکی از گزینه‌ها به ایران اجازه می‌دهد تا «هزینه‌های معقول خدمات» جهت عبور از تنگه را طبق مدل تنگه مالاکا دریافت کند.
 12:51
@@ -7397,15 +7354,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 04:19
-1405/04/30
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏The Odyssey: Rotten Tomatoes reportedly spoofing reviews, artificially inflating the audience score from 56% to 97%
-04:09
 1405/04/30
 
 
