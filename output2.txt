@@ -1,3 +1,48 @@
+src :@intelslava
+[عکس]
+‏Satellite imagery shows the complete destruction of the U.S. AN/FPS-117 long-range 3D air surveillance and early warning radar at Ahmad al-Jaber Air Base in Kuwait.
+13:21
+1405/04/31
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸‏روبيو، وزير الخارجية الامريكي: الصين لم تفعل شيئا يغير مسار الحرب مع إيران.
+13:21
+1405/04/31
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Satellite imagery shows the complete destruction of the U.S. AN/FPS-117 long-range 3D air surveillance and early warning radar at Ahmad al-Jaber Air Base in Kuwait.
+13:21
+1405/04/31
+
+
+
+
+src :@World_Newsly
+‏🔴شبکه کان: جولانی اماده حمله به حزب الله می شود
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+13:20
+1405/04/31
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸‏روبيو، وزير الخارجية الامريكي: الصين لم تفعل شيئا يغير مسار الحرب مع إيران.
+13:19
+1405/04/31
+
+
+
+
 src :@rnintel
 ‏🇮🇳⚡️- Unrest is mounting in New Delhi following large gatherings by the Cockroach Janta Party (CJP), a semi-spontaneous movement of Gen Z Indian protesters demanding the resignation of India's Education Minister. At least a few thousand protesters were reported in the capital's streets.
 ‏
@@ -1023,22 +1068,6 @@ src :@defence_news
 ‏
 ‏❤️ کانال رضایت مشتریان 🔹 
 ‏@satisvpn
-12:27
-1405/04/31
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏‏🔴پنتاگون هویت سومین نظامی به کشته شده در اردن را منتشر کرد
-‏
-‏🚫 وزارت جنگ آمریکا ضمن تأیید هلاکت سومین نظامی ارتش این کشور که پیش‌تر «مفقود شده» توصیف شده بود، هویت او را منتشر کرد.
-‏
-‏🚫 بر اساس اعلام پنتاگون، گروهبان «انجل رامپرساد» ۲۸ ساله از منطقه اوزون پارک در ایالت نیویورک، در جریان حملات تلافی‌جویانه ایران به پایگاه موفق السلطی در اردن در ۱۷ ژوئیه (۲۶تیر) ۲۰۲۶ کشته شده است.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 12:27
 1405/04/31
 
@@ -2279,23 +2308,6 @@ src :@guard_warriors
 
 
 
-src :@naya_foriraq
-‏الله أكبر
-11:13
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇷الموجة الصاروخية التي انطلقت من إيران تتجه نحو القواعد الأمريكية في غرب آسيا
-11:13
-1405/04/31
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏🔥
@@ -3124,19 +3136,6 @@ src :@Indypersian
 src :@thewarreporter
 ‏🇫🇷🇮🇷 — French Foreign Minister Jean-Noël Barrot announced that two staff members of the French Embassy in Tehran were detained for several hours yesterday by Iranian security services.  The staff members have since returned to the embassy and are now safe…
 09:55
-1405/04/31
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧 Lebanese President Joseph Aoun: 
-‏
-‏Lebanon cannot be secure or united except when it is a single state with a single army that protects all Lebanese citizens without discrimination.
-‏
-‏@wfwitness
-09:54
 1405/04/31
 
 
@@ -5244,14 +5243,6 @@ src :@VahidOnline
 
 
 
-src :@intelslava
-‏🇺🇸❌🇮🇷 — UNCONFIRMED: The bombing of Tehran is ongoing.  @IntelSlava
-02:35
-1405/04/31
-
-
-
-
 src :@OSINTWarfare
 ‏Reports of explosions in eastern Tehran.
 02:34
@@ -5623,23 +5614,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 01:13
-1405/04/31
-
-
-
-
-src :@OSINTWarfare
-‏If you're interested in joining my friend's Discord server, The Headquarters – Geopolitics, OSINT & Intelligence
-‏
-‏• Real-time geopolitical news, conflict updates & OSINT analysis
-‏• Military, economic & intelligence discussions
-‏• Contributors include former/current DoD Intel, Space Force, Patriot operators & other experienced members
-‏• High-quality resources, education & informed discussion
-‏
-‏Owner: 
-‏@GEOIMINT
-‏https://discord.gg/m9ByZYGxY5
-01:12
 1405/04/31
 
 
@@ -7318,21 +7292,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/04/30/405303/
 13:22
-1405/04/30
-
-
-
-
-src :@mamlekate
-‏📝 فایننشال‌تایمز: با شکست مذاکرات، گزینه «تغییر رژیم» در ایران مجدد مورد توجه آمریکا قرار گرفته است
-‏
-‏روزنامه «فایننشال‌تایمز» در گزارشی پیش‌بینی کرده است که آمریکا نتوانسته است از مسیر مذاکره به اهدافش در مورد ایران برسد و به همین دلیل گزینه «تغییر رژیم» در ایران دوباره به دستور کار کاخ سفید بازگشته است.
-‏
-‏
-‏در این گزارش تحلیلی که دوشنبه ۲۹ تیرماه منتشر شد آمده، «میراث سیاست خارجی دونالد ترامپ احتمالا با ایران تعریف خواهد شد. قعلاً اوضاع خوب نیست. جنگ مجدد آغاز شده است، اما آمریکا برنامه‌ای قابل ملاحظه‌ای برای پیروزی ندارد و ممکن است ترامپ در باتلاق ایران فرو برود.»
-‏
-‏ساختار امنیت ملی آمریکا از همین حالا در حال پایین آوردن سطح انتظارات از معنای موفقیت است.
-‏
-‏@mamlekate
-13:19
 1405/04/30
