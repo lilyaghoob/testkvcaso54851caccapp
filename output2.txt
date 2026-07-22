@@ -1,5 +1,32 @@
+src :@IranintlTV
+[عکس]
+‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، گزارش داد آمریکا ساعت ۰۲:۵۵ بامداد چهارشنبه ۳۱ تیرماه یک نقطه در خارج از محدوده شهری بانه در استان کردستان را هدف حمله قرار داد.
+‏
+‏این خبرگزاری جزییات بیشتری درباره محل دقیق حمله یا خسارت‌های احتمالی منتشر نکرد.
+‏https://iranintl.com/202607229762
+05:00
+1405/04/31
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷-Map of the US strikes on Iran tonight, 7/22/2026
+‏
+‏🇺🇸⚡️Confirmed US impacts: Tabriz, Urmia, Baneh, Abhar, Bandar-e-Mahshahr, Behbahan, Bushehr, Bandar Abbas, Qeshm Island, Sirik, Parchin, Pardis, Konarak, and Chabahar.
+‏
+‏🇺🇸⁉️Unconfirmed US Impacts: Zanjan, Kermanshah, Kangavar, Omidiyeh, Fasa, Nahavand, Hamedan, Kerman, and Sahanak in the northeasternmost part of Tehran.
+‏
+‏@GeoPWatch
+04:58
+1405/04/31
+
+
+
+
 src :@tabzlive
-‏🇮🇷⚡️ — Air defense activity in eastern Tehran.
+‏🇮🇷⚡️ — Air defense activity in eastern and southern Tehran.
 04:57
 1405/04/31
 
@@ -31,7 +58,7 @@ src :@World_Newsly
 
 
 src :@naya_foriraq
-‏مجدداً تفعيل الدفاعات في طهران
+‏مجدداً تفعيل الدفاعات الجوية في العاصمة الإيرانية طهران
 04:56
 1405/04/31
 
@@ -1070,16 +1097,6 @@ src :@wfwitness
 ‏⚡️🇮🇷 AA activity over western Tehran.
 ‏
 ‏@wfwitness
-03:29
-1405/04/31
-
-
-
-
-src :@BellumActaNews
-‏🇺🇸❌🇮🇷 — Locals report Iranian Air Defense activity over Southwestern Tehran
-‏
-‏@BellumActaNews
 03:29
 1405/04/31
 
@@ -2581,18 +2598,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[عکس]
-‏جان فترمن، سناتور دموکرات آمریکا، روز سه‌شنبه اعلام کرد از تصمیم دونالد ترامپ، رییس‌جمهوری آمریکا، برای حمله به یک سایت ایرانی در کوه کلنگ‌گزلا حمایت می‌کند. ترامپ پیش‌تر گفته بود آمریکا «به‌زودی» و «به‌شدت» این منطقه را هدف حمله قرار خواهد داد.
-‏
-‏قرارگاه خاتم‌الانبیا نیز در واکنش به تصمیم ترامپ هشدار داده است که هرگونه حمله آمریکا به سایت‌های هسته‌ای ایران باعث گسترش جنگ خواهد شد.
-‏https://iranintl.com/202607210568
-02:35
-1405/04/31
-
-
-
-
 src :@OSINTWarfare
 ‏Reports of explosions in eastern Tehran.
 02:34
@@ -3201,18 +3206,6 @@ src :@P_raetorio
 ‏
 ‏@Minas_Tirith2024
 00:41
-1405/04/31
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️قرارگاه مرکزی خاتم الانبیاء با اشاره به تهدید مراکز هسته‌ای و حساس «ایران اسلامی» از سوی آمریکا، روز سه‌شنبه اعلام کرد: «چنانچه ارتش آمریکا وارد چنین مرحله ای بشود، آن را به عنوان توسعه جنگ در منطقه می دانیم و همه منافع آمریکا، هم پیمانان و حامیان آن کشور یاغی و شرور، هدف هجوم قدرتمند نیروهای مسلح جمهوری اسلامی ایران قرار خواهند گرفت.»
-‏پیش از این، دونالد ترامپ در جمع خبرنگاران در کاخ سفید اعلام کرد که ایالات متحده «به زودی» منطقه‌ای را که شایعه شده سانتریفیوژهای هسته‌ای ایران در آن قرار دارد، هدف حملات خود قرار خواهد داد. رئیس جمهوری آمریکا در پاسخ به پرسشی مبنی بر اینکه آیا ایران سانتریفیوژهای خود را به کوه «کلنگ گزلا» در منطقه نطنز منتقل کرده است، گفت: «ما احتمالا خیلی زود آن منطقه را هدف قرار خواهیم داد و آن‌ها هیچ کاری از دستشان برنمی‌آید.»
-‏
-‏@indypersian
-00:39
 1405/04/31
 
 
@@ -4796,16 +4789,6 @@ src :@Mena_Live
 ‏❗️ The artificial intelligence company OpenAI, the company behind ChatGPT, will establish a new development center in Israel.
 ‏
 ‏@Mena_Live
-21:07
-1405/04/30
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇧🇭 — Loud Explosion heard in Bahrain. 
-‏
-‏@GeoPWatch
 21:07
 1405/04/30
 
