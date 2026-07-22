@@ -69,14 +69,6 @@ src :@Alibk3
 
 
 
-src :@Alibk3
-‏وزير الخارجية الأميركي يواصل لليوم الثاني على التوالي، إطلاق تصريحات عن الاستعداد للمفاوضات، في محاولة لاحتواء ارتفاع أسعار النفط وخفضها، رغم استمرار العدوان الأميركي على إيران.
-05:16
-1405/04/31
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴 گزارش‌ها از برخاستن هواپیماهای سوخت‌رسان آمریکایی از تل‌آویو
@@ -747,14 +739,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸 — Iran's IRGC says its "operation to punish the aggressor" is underway, ending the statement with a Quranic verse declaring that victory comes only from God.
-04:05
-1405/04/31
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Air defenses are still active over the Tehran region, Isfahan region and areas of Tabriz.
 04:05
@@ -828,14 +812,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 04:02
-1405/04/31
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — Air defense activity in Konarak, southeastern Iran.
-04:01
 1405/04/31
 
 
