@@ -1,3 +1,59 @@
+src :@World_Newsly
+‏⭕ ارتش اسرائیل: هیچ سقوط موشکی در اسرائیل شناسایی نشد. موشک با موفقیت توسط ارتش ایالات متحده رهگیری شد. دودهایی که در اردن دیده شده‌اند، ناشی از بقایای موشک هستند.
+‏
+‏✍🏻 adolf hitler
+‏▪️@World_Newsly
+11:41
+1405/04/31
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴پس از اعلام دستگیری نتانیاهو در صورت ورود به نیویورک توسط زهران ممدانی، شهردار نیویورک، حالا رندی فاین، عضو کنگره آمریکا ، خطاب به ممدانی گفته تو یک مسلمان تروریستی!
+‏
+‏@MilitarryWorld | Parsa
+11:41
+1405/04/31
+
+
+
+
+src :@jangaavaran1390
+‏ارتش اسرائیل: هیچ سقوط موشکی در اسرائیل شناسایی نشد. موشک با موفقیت توسط ارتش ایالات متحده رهگیری شد. دودهایی که در اردن دیده شده‌اند، ناشی از بقایای موشک هستند.
+11:40
+1405/04/31
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇮🇱 —  Iranian missiles launched towards Aqaba, Jordan did not result in any impacts in Israel. Smoke seen over Aqaba was reportedly caused by falling debris from a missile intercepted by U.S. forces.  @GeoPWatch
+11:40
+1405/04/31
+
+
+
+
+src :@naya_foriraq
+‏🇮🇱انفجارات تهز إيلات
+11:39
+1405/04/31
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇮🇱 —  Iranian missiles launched towards Aqaba, Jordan did not result in any impacts in Israel. Smoke seen over Aqaba was reportedly caused by falling debris from a missile intercepted by U.S. forces.
+‏
+‏@GeoPWatch
+11:38
+1405/04/31
+
+
+
+
 src :@Alibk3
 ‏المستوطنون في إيلات جنوب فلسطين المحتلة يوثّقون الدخان المتصاعد في العقبة نتيجة الاستهداف الإيراني.
 11:37
@@ -1266,25 +1322,6 @@ src :@didarnews1
 
 
 
-src :@World_Newsly
-‏🔴چند انفجار در سلیمانیه، کردستان عراق
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-10:17
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶انفجارات تهز السليمانية شمالي العراق
-10:16
-1405/04/31
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏اثرات محاصره دریایی یمن علیه عربستان
@@ -1616,15 +1653,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 09:37
-1405/04/31
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏یک تصویر ماهواره‌ای از تنگه هرمز، به ویژه در جنوب جزیره لارک، که نشان می‌دهد یک تانکر نفتی در پی حمله سپاه در حال سوختن است و نشت نفت به دریا نیز رخ داده است
-09:35
 1405/04/31
 
 
@@ -2461,15 +2489,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏تصاویر، خوابگاه‌های پایگاه «تاور 22» ارتش آمریکا در شمال شرقی اردن را نشان می‌دهند که پس از حمله‌ای اخیر با موشک‌های بالستیک ایران، آسیب دیده‌اند.
-05:58
-1405/04/31
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says the US has no interest in meeting with Iran for negotiations.
 ‏
@@ -3038,16 +3057,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:31
-1405/04/31
-
-
-
-
-src :@MilitarryWorld
-‏🔴گزارش انفجار در پردیس تهران
-‏
-‏@MilitarryWorld | Parsa
-03:30
 1405/04/31
 
 
@@ -4320,18 +4329,6 @@ src :@OSINTWarfare
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷– Unconfirmed reports of airstrikes in eastern Tehran.
-‏
-‏Update: Gas Explosion
-‏
-‏@GeoPWatch
-02:09
-1405/04/31
-
-
-
-
 src :@mamlekate
 [عکس]
 ‏🔥 شیراز ۳۱ تیرماه ساعت ۰۱:۳۵ بامداد
@@ -4761,17 +4758,6 @@ src :@bricsnews
 
 
 
-src :@intelslava
-‏🇺🇸🇮🇷⚡️ — The war with Iran has already cost $37.5 bilion
-‏- U.S. Secretary of War Pete Hegseth
-‏
-‏@IntelSlava
-00:10
-1405/04/31
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏6 فروند هواپیمای سوخترسان امریکایی فرودگاه های اسرائیلی را ترک کرده و در حال حرکت به سمت شرق هستند 
@@ -4867,17 +4853,6 @@ src :@DEJradio
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇦⚡️ —  Major General Mykhailo Drapatiy has been appointed as the new Commander-in-Chief of the Armed Forces of Ukraine, Zelenskyy announced.
-‏
-‏@Intelslava
-23:54
-1405/04/30
-
-
-
-
 src :@mwarmonitor
 ‏✈️پرواز  همزمان ۶ فروند سوخت‌رسان آمریکایی بر فراز آسمان منطقه  📌طبق داده‌های رادار و سایت‌های رهگیری پرواز، هم‌زمان ۶ فروند هواپیمای سوخت‌رسان استراتژیک Boeing KC-135R Stratotanker متعلق به نیروی هوایی ایالات متحده در آسمان منطقه (اسرائیل، کرانه باختری و…
 23:54
@@ -4905,19 +4880,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 23:52
-1405/04/30
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌- President Volodymyr Zelenskyy has dismissed now former Commander in Chief of the Armed Forces of Ukraine Oleksandr Syrskyi.
-‏
-‏He served as Commander in Chief for 894 days and will be replaced by Major General Mykhailo Drapatyi.
-‏
-‏@GeoPWatch
-23:49
 1405/04/30
 
 
@@ -5968,20 +5930,6 @@ src :@tglobaleye
 
 
 
-src :@cataphract1
-[عکس]
-‏⚜تصویری منتسب به شیراز که بنظر می‌رسد به رادار نجم(از اجزای سامانه های پدافندی ۱۵ خرداد/آرمان) آسیب رسیده است.
-‏
-‏منبع
-‏
-‏🖋#Ethan 
-‏📃@Cataphract1
-19:33
-1405/04/30
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Israeli intelligence assesses that Iran has transferred thousands of uranium-enrichment centrifuges into the deeply buried Pickaxe Mountain complex near Natanz, indicating that Tehran is using the facility to further enrich part of its 60%-enriched uranium stockpile toward weapons-grade levels. Israel believes that Iran moved not only its advanced centrifuges but also part of its stockpile of highly enriched uranium to the underground facility after last year's 12-day war.
@@ -6136,20 +6084,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 18:17
-1405/04/30
-
-
-
-
-src :@cataphract1
-‏⚜خبرگزاری رویترز گزارش داد که صادرات نفت خام عربستان سعودی در ماه مه برای سومین ماه متوالی کاهش یافته و با ثبت ۳.۴۳ میلیون بشکه در روز به پایین‌ترین سطح خود رسیده است.
-‏
-‏⚜بر اساس این گزارش، این کاهش عمدتاً ناشی از اختلالات ایجادشده در پی تنش‌های آمریکا و ایران و همچنین افزایش مصرف داخلی نفت در عربستان بوده است.
-‏
-‏⚜رویترز افزود که با وجود افزایش جزئی تولید نفت، تنش‌های منطقه‌ای ـ از جمله تهدید حوثی‌های یمن به محاصره مسیرهای کشتیرانی عربستان ـهمچنان نگرانی‌ها درباره امنیت عرضه جهانی انرژی و تجارت دریایی را افزایش داده است.
-‏✒️#LT
-‏📃@Cataphract1
-18:08
 1405/04/30
 
 
