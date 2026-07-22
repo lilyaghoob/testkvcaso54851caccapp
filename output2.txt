@@ -1,3 +1,29 @@
+src :@Artemis_Force
+‏هرمزگان{ بندر عباس، سیریک ،قشم }،
+03:51
+1405/04/31
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارشات تایید نشده از انفجار و هدف قرار گرفتن مجدد پارچین در تهران
+03:49
+1405/04/31
+
+
+
+
+src :@MilitarryWorld
+‏🔴تسنیم: تهران فقط صدای پدافند میاد و جاییو نزدن
+‏
+‏@MilitarryWorld | Parsa
+03:48
+1405/04/31
+
+
+
+
 src :@BellumActaNews
 ‏🇺🇸❌🇮🇷 — 4x USAF airstrikes against the iconic Nojeh Airbase of the Islamic Republic of Iran Air Force in Hamedan Province
 ‏
@@ -776,17 +802,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴 انفجار جدید در سیریک
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:22
-1405/04/31
-
-
-
-
 src :@BellumActaNews
 ‏🇺🇸❌🇮🇷 — Deputy Governor of Iran's Khuzestan Province: 
 ‏Areas near the southern cities of Behbahan and Omidiyeh were targeted in a US missile attack.
@@ -810,17 +825,6 @@ src :@naya_foriraq
 
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- BREAKING: Five airstrikes against Parchin, just southeast of Tehran.  The town's home to one of Iran's most important missile bases.
-03:22
-1405/04/31
-
-
-
-
-src :@World_Newsly
-‏🔴 ابهر زنجان دو انفجار
-‏
-‏✍🏻 Dangerman
-‏▪️ @World_Newsly
 03:22
 1405/04/31
 
@@ -1042,30 +1046,6 @@ src :@MilitarryWorld
 
 
 
-src :@Alibk3
-‏Ali Bk pinned «للتواصل مع بوت القناة: @Ali_bk_3bot نستقبل التوثيقات، أي استفسار، أخبار عامة، مواد خبرية.  برای ارتباط با ربات جدید کانال: @Ali_bk_3bot مستندات، هرگونه پرسش، اخبار عمومی و مطالب خبری را دریافت می‌کنیم.»
-03:15
-1405/04/31
-
-
-
-
-src :@Alibk3
-‏تفعيل الدفاعات الجوية في شرق طهران
-03:14
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- Iranian media report the downing of a US drone in the south of the country.
-03:14
-1405/04/31
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — ~38 minutes ago, U.S. strikes against Kangavar District, Kermanshah Province, Iran.
 03:14
@@ -1084,15 +1064,18 @@ src :@VahidOnline
 ‏
 ‏🔄 ساعت ۳:۲۶:
 ‏ده‌ها پیام رگباری دیگر درباره صدای فعالیت پدافند
-‏من حتی نمی‌رسم بازشون کنم فقط از پیش‌نمایش دارم آخرین پیام هر کسی رو می‌بینم.
+‏من حتی نمی‌رسم بازشون کنم فقط از پیش‌نمایش دارم آخرین پیام هر کسی رو می‌بینم باز هم کلی عقبم.
 ‏
 ‏پیام‌ها رسیده به مرکز شهر و حتی مناطقی در غرب تهران
 ‏
 ‏گرچه همیشه هستند کسانی که هر صدایی رو به برخورد تعبیر کنند ولی از حجم پیام‌ها واضحه که صدای پدافند شنیده میشه در مناطق مختلف تهران
 ‏
-‏آپدیت: ساعت ۳:۴۰
+‏آپدیت ساعت ۳:۴۰:
 ‏تا الان به طور پیوسته در هر ثانیه کلی پیام میومد. الان داره به حدود یک پیام در ثانیه کاهش پیدا می‌کنه.
 ‏همچنان درباره صدای پدافند در همه مناطق تهران
+‏
+‏آپدیت ۳:۵۰:
+‏سکوت نسبی برقرار شد. میزان نوتیفیکیشن‌ها هم به حالت معمول برگشت.
 ‏📡 @VahidOnline
 03:13
 1405/04/31
@@ -1105,14 +1088,6 @@ src :@Indypersian
 ‏♦️فرماندهی مرکزی آمریکا (سنتکام) بامداد چهارشنبه، با اعلام آغاز موج جدید حملات علیه اهداف نظامی در ایران برای یازدهمین شب متوالی نوشت: «این حملات به اهداف نظامی در ایران با هدف ادامه تضعیف توانایی ایران در تهدید کشتیرانی تجاری در تنگه هرمز طراحی شده‌اند.» همزمان، فارس، خبرگزاری وابسته به سپاه، از شنیده شدن صدای چند انفجار در حوالی جنوب و غرب تبریز و نیز بهبهان و بندر ماهشهر در خوزستان خبر داد.
 ‏
 ‏@IndyPersian
-03:13
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- US airstrike against the Kermanshah countryside, western Iran.
 03:13
 1405/04/31
 
@@ -1191,14 +1166,6 @@ src :@militaryinpersian
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡- Air defenses are active over Parchin, southeast Tehran. There were unconfirmed reports of multiple attacks on the town earlier.
-03:10
-1405/04/31
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏نورنیوز گزارش داد دقایقی پیش صدای چند انفجار در حوالی سیریک، در شرق استان هرمزگان، شنیده شد.
@@ -1233,14 +1200,6 @@ src :@Indypersian
 ‏بیشتر بخوانید...
 ‏
 ‏@indypersian
-03:09
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- In the past five minutes in the south of Iran, US struck Sirik and the Chabahar-Konarak area again.
 03:09
 1405/04/31
 
@@ -1287,14 +1246,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US military says it is has begun another round of strikes against Iran.
 ‏
 ‏@BRICSNews
-03:07
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- Air defenses are active over Parchin, southeast Tehran. There were unconfirmed reports of multiple attacks on the town earlier.
 03:07
 1405/04/31
 
@@ -1363,14 +1314,6 @@ src :@MilitarryWorld
 
 src :@naya_foriraq
 ‏تفعيل الدفاعات الجوية في مدينة تبريز
-03:05
-1405/04/31
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷⚡- New explosions in Tabriz, northwest Iran.
 03:05
 1405/04/31
 
@@ -1505,14 +1448,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏انفجارات عنيفة عند الحدود العراقية الإيرانية سمع دويها في محافظة السليمانية.
-03:01
-1405/04/31
-
-
-
-
 src :@VahidOnline
 ‏فعالیت پدافند در شرق شهر و استان تهران:
 ‏
@@ -1608,6 +1543,8 @@ src :@mamlekate
 ‏
 ‏📝 تبریز ساعت ۳ و ۵ دقیقه صدای چندتا پدافند اومد.
 ‏
+‏📝 ابهر هم ساعت ۳.۱۵ صدای ۲ تا انفجار از دور اومد
+‏
 ‏
 ‏📝 تهران بازم داره صدای پدافند میاد ولی نسبت به حمله های قبلی صداش فرق کرده
 ‏
@@ -1622,6 +1559,12 @@ src :@mamlekate
 ‏📝 سلام. غرب تهران صدای پدافند میاد. ساعت ۳:۳۸
 ‏
 ‏📝 الو پدافند قلعه همین دو سه دقیقه پیش شدید کار میکرد
+‏
+‏📝 احتمالا پهپاد شناسایی آمریکاست. از شرق تا غرب رو رفت، الان باز برگشت، پدافند غرب فعال شد
+‏
+‏📝 سمت دانشگاه امام حسین همچنان پدافند فعاله ، صدای انفجار هم از سمت خجیر میاد ساعت ۳:۴۵ دقیقه
+‏
+‏📝 تهرانپارس پدافند داره کار میکنه هم سمت پارچین هم سمت اتوبان بابایی ولی صداش خیلی بم شده قبلا صداش اینجوری نبود
 ‏
 ‏@mamlekate_pm
 02:59
@@ -1766,14 +1709,6 @@ src :@MilitarryWorld
 ‏🔴بوشهر، بهبهان و تبریز رو بدجور زدن هرکدوم بالای ۱۰ انفجار تا الان
 ‏
 ‏@MilitarryWorld | Parsa
-02:56
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸البنتاغون: تحديد هوية جندي يعتقد أنه قتل في هجوم للعدو على قاعدة موفق السلطي الجوية في الأردن يوم 17 يوليو.
 02:56
 1405/04/31
 
@@ -1944,14 +1879,6 @@ src :@MilitarryWorld
 ‏🔴حملات سنگین به بهبهان و ماهشهر
 ‏
 ‏@MilitarryWorld | Parsa
-02:51
-1405/04/31
-
-
-
-
-src :@naya_foriraq
-‏انفجارات في مدينتي ماهشهر وبهبهان وبندرعباس جنوبي إيران
 02:51
 1405/04/31
 
@@ -2321,16 +2248,6 @@ src :@Shin_Persian
 
 
 
-src :@MilitarryWorld
-‏🔴انفجار در بندرعباس و چابهار
-‏
-‏@MilitarryWorld | Parsa
-02:43
-1405/04/31
-
-
-
-
 src :@wfwitness
 ‏⚡️🇺🇸🇮🇷 Unconfirmed reports of 4 U.S. airstrikes targeted Tabriz.
 ‏
@@ -2435,14 +2352,6 @@ src :@wfwitness
 
 src :@intelslava
 ‏Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.
-02:40
-1405/04/31
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Unconfirmed reports of launches from Kangavar, Iran.  @wfwitness
 02:40
 1405/04/31
 
@@ -4169,32 +4078,11 @@ src :@thewarreporter
 
 
 
-src :@WAR_ROOM_NEWS
-‏بلومبرگ:  🔴اندی برنهام، نخست‌وزیر جدید بریتانیا با استفاده از پایگاه‌های بریتانیایی برای انجام حملات قریب‌الوقوع آمریکا علیه ایران موافقت کرد.   🆔@WAR_ROOM_NEWS
-23:00
-1405/04/30
-
-
-
-
 src :@jangaavaran1390
 ‏ترامپ:
 ‏
 ‏دستورالعملی صادر کردم که به موجب آن، به تمام شرکت‌های هواپیمایی آمریکایی اجازه داده می‌شود تا پروازهای مستقیم به لبنان داشته باشند
 23:00
-1405/04/30
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏بلومبرگ:
-‏
-‏🔴اندی برنهام، نخست‌وزیر جدید بریتانیا با استفاده از پایگاه‌های بریتانیایی برای انجام حملات قریب‌الوقوع آمریکا علیه ایران موافقت کرد.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-22:58
 1405/04/30
 
 
@@ -4466,16 +4354,6 @@ src :@mohem_mat
 
 
 
-src :@WAR_ROOM_NEWS
-‏⚡️ دنی دانون، سفیر اسرائیل در سازمان ملل:نمایندگان برخی کشورهای حاشیه خلیج فارس به‌صورت محرمانه در سازمان ملل با اسرائیل تماس گرفته‌اند و درباره نحوه پیشرفت تقابل با ایران و برنامه‌های اسرائیل سؤال می‌کنند.او همچنین گفت که آمریکا در حال آماده‌سازی برای احتمال تشدید درگیری است، اما تاکنون از اسرائیل نخواسته در عملیات تهاجمی مشارکت کند
-‏
-‏🆔@WAR_ROOM_NEWS
-22:30
-1405/04/30
-
-
-
-
 src :@Artemis_Force
 ‏Task Force Artemis⚓️ pinned «🔻 HappySmile VPN 🚀 🔺 فوق سریع 🔹 فوق پایدار 🔻 بدون لحظه ای قطعی ✅ متصل با تمامی اپراتورها و نت‌های خانگی 🔺 تمامی سرویس‌ها آیپی ثابت هستند. 🐱 مولتی لوکیشن واقعی در 7 کشور 🇩🇪🇳🇱🇦🇹🇫🇷🇸🇪🇬🇧🇺🇸 🚀 10 گیگ --->❗فقط 40 تومن 🚀 20 گیگ --->❗فقط 79 تومن 🚀 30 گیگ --->❗فقط 118…»
 22:30
@@ -4519,14 +4397,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:27
-1405/04/30
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏عراق: سه پهپاد انتحاری ایران در نزدیکی کنسولگری آمریکا در اربیل رهگیری و سرنگون شدند.
-22:25
 1405/04/30
 
 
@@ -7292,20 +7162,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 09:03
-1405/04/30
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸❌🇮🇷 — Earlier, the US Air Force had conducted strikes on IRGC military facilities in the Darak mountain range near Shiraz, Fars Province
-‏
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-04:19
 1405/04/30
 
 
