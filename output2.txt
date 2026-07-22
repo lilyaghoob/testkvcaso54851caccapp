@@ -1,4 +1,29 @@
 src :@World_Newsly
+‏🔴 گزارش‌های اولیه از وقوع دو انفجار در ابهر، استان زنجان
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+02:53
+1405/05/01
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏وال‌استریت ژورنال به نقل از منابع آگاه گزارش داد که آمریکا همزمان با بررسی گسترش جنگ با جمهوری اسلامی، در حال اعزام نیرو، کادر درمانی و تجهیزات نظامی به خاورمیانه است.
+‏
+‏بر اساس این گزارش، در هفته گذشته نیروهای عملیات ویژه آمریکا به منطقه اعزام شده‌اند، جنگنده‌های بیشتری در پایگاه‌های خاورمیانه مستقر شده‌اند و بمب‌افکن‌های آمریکایی در پایگاه‌های آمریکا و بریتانیا در وضعیت آماده‌باش قرار گرفته‌اند تا در صورت نیاز عملیات خود را گسترش دهند.
+‏
+‏وال‌استریت ژورنال نوشت این تحرکات پس از کشته شدن سه نظامی آمریکایی در حمله منتسب به جمهوری اسلامی به یک پایگاه نظامی در اردن انجام شده است.
+‏https://iranintl.com/202607220762
+02:53
+1405/05/01
+
+
+
+
+src :@World_Newsly
 [عکس]
 ‏🔴بروزرسانی ؛ تحرکات نظامی امریکا در منطقه :
 ‏پنج فروند سوخت‌رسان KC-135 , یک فروند هواپیمای گشت دریایی P-8A Poseidon و یک فروند هواپیمای ترابری C17
@@ -1049,17 +1074,6 @@ src :@World_Newsly
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
 01:30
-1405/05/01
-
-
-
-
-src :@World_Newsly
-‏🔴وال استریت ژورنال: آمریکا در حال فرستادن نیروهای ویژه ، پزشک و سلاح به خاورمیانه هست.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-01:28
 1405/05/01
 
 
@@ -2473,14 +2487,6 @@ src :@cataphract1
 
 
 
-src :@tabzlive
-‏🇾🇪⚡️ — Ansarallah's armed forces will release a statement in approximately 24 minutes.
-00:36
-1405/05/01
-
-
-
-
 src :@P_raetorio
 ‏شنیده شدن صدای انفجار در بخش بمانی شهرستان سیریک
 ‏
@@ -2489,16 +2495,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 00:36
-1405/05/01
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ به سنتکام: درهای جهنم را باز و به جمهوری اسلامی حمله کنید
-‏@iranintlTV
-00:35
 1405/05/01
 
 
@@ -4886,18 +4882,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — Iranian Embassy in Spain, addressing the US:
-‏
-‏"Prepare as many coffins as possible".
-‏
-‏@TheWarReporter
-21:40
-1405/04/31
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇱 US informs Israel it plans to escalate attacks on Iran in the coming days, Israeli media reports.
 ‏
@@ -4962,16 +4946,6 @@ src :@defence_news
 ‏
 ‏@Minas_Tirith2024
 21:35
-1405/04/31
-
-
-
-
-src :@thewarreporter
-‏🇮🇶☀️🇮🇷 — Explosions in Erbil, Iraqi Kurdistan.
-‏
-‏@TheWarReporter
-21:33
 1405/04/31
 
 
@@ -7914,47 +7888,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 02:59
-1405/04/31
-
-
-
-
-src :@militaryinpersian
-‏بیش از ۵ انفجار سنگین در سایت هسته ای پارچین 
-‏
-‏
-‏📝  AmirF15
-‏
-‏👑 @Fighter_Radar
-02:55
-1405/04/31
-
-
-
-
-src :@militaryinpersian
-‏لانچر های موشکی تو امیدیه زدن 
-‏
-‏هم اکنون ده ها انفجار امیدیه
-‏تونل نمره یک بمباران کردند
-‏
-‏📝  AmirF15
-‏
-‏👑 @Fighter_Radar
-02:55
-1405/04/31
-
-
-
-
-src :@militaryinpersian
-‏#فوری
-‏
-‏سایت هسته ای پارچین زدن
-‏
-‏
-‏📝  AmirF15
-‏
-‏👑 @Fighter_Radar
-02:52
 1405/04/31
