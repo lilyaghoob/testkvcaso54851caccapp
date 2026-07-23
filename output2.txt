@@ -1,3 +1,42 @@
+src :@P_raetorio
+[عکس]
+‏قیمت نفت برنت به 96 دلار رسید
+‏
+‏
+‏@P_raetorio
+04:55
+1405/05/01
+
+
+
+
+src :@Alibk3
+[عکس]
+‏خام برنت يقفز إلى 95.47 دولارا للبرميل.
+04:54
+1405/05/01
+
+
+
+
+src :@intelslava
+[ویدئو]
+‏🇮🇷❌🇯🇴🇺🇸 — Satellite imagery confirms an aircraft hangar at King Faisal Air Base in Jordan was destroyed, with black smoke indicating an F-15 inside was successfully struck.
+‏
+‏➡️ Low-resolution satellite imagery shows the hangar at King Faisal Air Base destroyed, with black smoke consistent with a burning aircraft.
+‏
+‏➡️ The IRGC had previously announced it struck an F-15 hangar at the base.
+‏
+‏➡️ Coordinates: 30.344352, 36.129351 (Credit to EGYOSINT).
+‏
+‏@IntelSlava
+‏@LeonovZ
+04:52
+1405/05/01
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 تصویر امروز رادان در مرز شلمچه 
@@ -1104,14 +1143,6 @@ src :@tabzlive
 src :@OSINTWarfare
 ‏Heavy fighting has erupted in Yemen between Ansar Allah (Houthis) and the Saudi-backed Yemeni forces, with clashes reported across multiple frontlines.
 03:37
-1405/05/01
-
-
-
-
-src :@Alibk3
-‏أعمدة الدخان تتصاعد من الجانب الإيراني عند منفذ الشلامجة الحدودي مع العراق.
-03:36
 1405/05/01
 
 
@@ -2327,27 +2358,6 @@ src :@intelslava
 ‏Amidst the strike on a Saudi tanker, oil prices surged sharply, reaching $95 per barrel.
 ‏
 ‏@IntelSlava
-01:08
-1405/05/01
-
-
-
-
-src :@P_raetorio
-‏آمریکا نمی‌تواند با مذاکره به اهداف خود برسد. بنابراین تغییر رژیم دوباره در دستور کار قرار گرفته است
-‏
-‏نشریه فایننشال تایمز می نویسد، در جلسه هفته گذشته انجمن امنیتی آسپن ، مارک اسپر، که در دوره اول ریاست جمهوری ترامپ وزیر دفاع بود، استدلال کرد که ایالات متحده می‌تواند از دستیابی به دو هدف اصلی راضی باشد. اول، بازگشایی تنگه هرمز بدون اخذ عوارض و دوم، محدودیت‌هایی بر برنامه هسته‌ای ایران، معادل محدودیت‌هایی که دولت اوباما به آن دست یافت. به عبارت دیگر، هدف آمریکا باید صرفاً برقراری مجدد وضع موجود قبل از جنگ باشد.
-‏
-‏اما حتی این اهداف کوچک هم ممکن است قابل دستیابی نباشند. ایران مصمم است از کشتی‌هایی که از تنگه هرمز عبور می‌کنند عوارض دریافت کند. عبور از تنگه هرمز به طور بالقوه میلیاردها دلار درآمد کسب می‌کند و به تهران یک کنترل دائمی بر منابع انرژی جهان می‌دهد
-‏
-‏دولت ترامپ و استراتژيست های آمریکایی نگرانند در سناریو ادامه رژیم، توسعه توانایی های موشکی و پهپادی رژیم ایران در سال های آینده با کمک چین و روسیه رخ دهد، در جایی که احتمال می دهند دقت و برد ها به کمک چین و روسیه بیشتر شود و بتواند راکتور هسته ای دیمونا و پایگاه دیگو گارسیا را تهدید کند.
-‏
-‏فایننشال تایمز همچنان می نویسد ایالات متحده به این درک رسیده که ممکن است هرگز نتواند تهران را از طریق مذاکره محدود کند، به این معنی است که ایده تغییر رژیم در ایران دوباره در دستور کار واشنگتن قرار گرفته است.
-‏
-‏همچنان اضافه می کند مشهودترین بخش استراتژی رژیم چینج، تشدید فشار اقتصادی بر تهران است. محاصره صادرات نفت ایران توسط آمریکا از سر گرفته شده است. آمریکایی‌ها معتقدند که ظرف چند ماه می‌توانند بخش عمده‌ای از درآمدهای نفتی ایران را مسدود کرده و بحران اقتصادی عمیقی را در داخل کشور ایجاد کنند. همچنین، جستجو برای یافتن افراد داخلی رژیم که ممکن است با آمریکا و اسرائیل همکاری کنند، در جریان است مانند تلاش جذب احمدی نژاد و همچنین ایده تلاش برای ایجاد شورش داخلی در ایران نیز دوباره در دستور کار قرار گرفته است مانند تلاش برای مسلح سازی گروه های کرد که توسط ایالات متحده رد شد. 
-‏
-‏
-‏@P_raetorio
 01:08
 1405/05/01
 
@@ -3697,18 +3707,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 23:42
-1405/04/31
-
-
-
-
-src :@intelslava
-‏🇺🇦⚡️ — By dismissing Commander-in-Chief Alexander Syrsky under protest pressure, Vladimir Zelensky risks losing control over the army, potentially prompting commanders to align with forces that can influence him and provoking conflict within military leadership over defense budget management, Ukrainian media outlet Strana reported. 
-‏
-‏▶️He is also maneuvering on Defense Minister Mikhail Fyodorov's dismissal, seeking to partially meet protesters' demands while blocking Fyodorov's return to the ministry and waiting to see how Fyodorov, his supporters, and Europe will react to this partial concession.
-‏
-‏@IntelSlava
-23:41
 1405/04/31
 
 
