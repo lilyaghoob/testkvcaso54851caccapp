@@ -1,3 +1,30 @@
+src :@World_Newsly
+‏🔴 گزارش‌های محلی: بوشهر در حال حاضر به‌شدت هدف حملات قرار گرفته است
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+04:25
+1405/05/01
+
+
+
+
+src :@naya_foriraq
+‏من العدوان الأمريكي الغاشم على منفذ الشلامجة الحدودي بين إيران والعراق
+04:24
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏🔴 گذرگاه مرزی شلمچه هنگام تردد زائران هدف حمله قرار گرفت  ✍🏻 north vector ▪️ @World_Newsly
+04:24
+1405/05/01
+
+
+
+
 src :@naya_foriraq
 ‏2 شهداء كحصيلة أولية جراء العدوان الأمريكي الغاشم على منفذ الشلامجة
 04:21
@@ -991,15 +1018,6 @@ src :@Navy_Iranian
 
 
 
-src :@naya_foriraq
-[عکس]
-‏تصاعد اعمدة الدخان من منفذ الشلامجة الحدودي
-03:24
-1405/05/01
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏در اینفوگرافیک منتشر شده از اهداف حمله دیشب ایالات متحده و تعداد انفجار ها در بزرگترین حمله ایالات متحده در 11 شب گذشته بوده حداقل 66 انفجار تا 75 انفجار در 18 نقطه کشور و 12 استان رخ داده است که بیشترین حمله نصیب بهبهان، بندر ماهشهر و تبریز شده است.
@@ -1163,17 +1181,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴منابع عربی : چندین انفجار همزمان با فعال شدن پدافند شهر العقبه در اردن شنیده شد
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:09
-1405/05/01
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷/🇯🇴 BREAKING: Sirens in Aqabah, several Iranian ballistic impacts according to reports
 ‏
@@ -1214,14 +1221,6 @@ src :@thewarreporter
 ‏
 ‏— The Wall Street Journal | @TheWarReporter
 03:04
-1405/05/01
-
-
-
-
-src :@World_Newsly
-‏🔴مارکو روبیو(وزیر خارجه آمریکا):   ایران در وضعیت بسیار دشواری قرار دارد و مردم ایران با تورم شدید و افزایش چشمگیر قیمت مواد غذایی روبرو هستند.  چین از اقداماتی که ايران در تنگه هرمز انجام می‌دهد، راضی نیست و مخالفت خود را با وضع عوارض برای عبور از این تنگه…
-03:03
 1405/05/01
 
 
@@ -5849,15 +5848,6 @@ src :@Middle_East_Spectator
 [عکس]
 ‏— Exhibit 1: U.S. strikes a damaged and abandoned Arash-2 drone, alongside a house that was already obliterated. Yet they proudly uploaded this on CENTCOM.
 19:22
-1405/04/31
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏Yes, the U.S. has been striking (mostly) useless targets in the past 2 weeks.   They’re acting on old intelligence, sometimes even no intelligence at all.  Meanwhile Iran has been hitting jet hangars, radars, warehouses, barracks, powerplants, and desalination…
-19:21
 1405/04/31
 
 
