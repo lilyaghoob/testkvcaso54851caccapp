@@ -1,6 +1,106 @@
+src :@MilitarryWorld
+‏🔴تسنیم: دقایل قبل، اصابت ۲ موشک آمریکایی به محدوده روستای مسن قشم.
+‏
+‏@MilitarryWorld | Parsa
+00:11
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 انفجار در قشم
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+00:10
+1405/05/02
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇸⚡️ — US President Donald Trump has promised to end the conflict in Ukraine within 24 hours nearly a hundred times and lauded the Anchorage summit, Russian Foreign Ministry Spokeswoman Maria  Zakharova said.
+‏
+‏"[US Secretary of State] Marco Rubio said: ‘Do you think we’ve settled the war in Ukraine in 30 minutes? That's not how it works,’" she said. 
+‏
+‏“No one thought so. But everyone remembers how US President Donald Trump promised to end the conflict in Ukraine within 24 hours more than 80 times, and then praised the Anchorage summit."
+‏
+‏@IntelSlava
+00:10
+1405/05/02
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇷 — Two American missiles struck the vicinity of the village of Masen on Qeshm Island, Iran.
+‏
+‏@TheWarReporter
+00:09
+1405/05/02
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴دو موشک آمریکایی در نزدیکی روستای "مسن" در جزیره قشم اصابت کردند
+00:09
+1405/05/02
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Initial reports of an explosion heard in Qeshm Island, Iran.
+‏
+‏@wfwitness
+00:09
+1405/05/02
+
+
+
+
+src :@Alibk3
+‏صواريخ أميركية محيط قرية مسن في جزيرة قشم الإيرانية.
+00:08
+1405/05/02
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇺🇸🇬🇧🇮🇷 — The UK has stated that it is ready to defend itself, following a warning from Iran about 'consequences' if it allows the US to use its military bases.   The warning specifically mentioned the RAF Fairford base, from which a B1 bomber reportedly launched…
+00:08
+1405/05/02
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷عدوان اميركي يستهدف جزيرة قشم.
+00:08
+1405/05/02
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇸⚡️ — A Russian T-90A tank has been spotted in Louisiana, being transported to the Aberdeen Proving Ground in Maryland. The tank was apparently captured in Ukraine.
+‏
+‏@IntelSlava
+00:07
+1405/05/02
+
+
+
+
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸🇺🇦 Bloomberg: A U.S. manufacturer is set to produce Ukraine‑designed Magura sea drones for the first time, as the White House looks to bolster American military production and expand its unmanned arsenal. T
+‏⚡️🇺🇸🇺🇦 Bloomberg: A U.S. manufacturer is set to produce Ukraine‑designed Magura sea drones for the first time, as the White House looks to bolster American military production and expand its unmanned arsenal. 
 ‏
 ‏The Magura drones have been used successfully to attack Russian warships and infrastructure in the Black Sea. The precise model to be produced in the U.S. remains unspecified, with construction to allow domestic production now under way.  
 ‏
@@ -1055,17 +1155,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏‏🔴 شلیک موشک از اهواز به سمت کویت
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-23:12
-1405/05/01
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇾🇪🇸🇦⚡️ — War risk insurance premiums for ships transiting the southern Red Sea have more than doubled for some operators after Yemen's Houthis (Ansarallah) attacked at least one tanker overnight, according to Reuters.
@@ -1892,14 +1981,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏🇮🇱اعلام العدو: جاري تحقيق بوجود حادث امني عند الحدود مع الاردن.
-22:42
-1405/05/01
-
-
-
-
 src :@jangaavaran1390
 ‏ترامپ:
 ‏
@@ -2322,16 +2403,6 @@ src :@wfwitness
 src :@wfwitness
 ‏Reports of explosions in Shiraz
 22:15
-1405/05/01
-
-
-
-
-src :@Alibk3
-‏إعلام العدو:
-‏
-‏تم توجيه عدد من المستشفيات في إسرائيل للاستعداد للعمل في مناطق محمية تحت الأرض.
-22:14
 1405/05/01
 
 
@@ -3594,21 +3665,6 @@ src :@Mena_Live
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇮🇷 Israeli Defence Minister Israel Katz has said Israel is "prepared for every possibility" amid heightened tensions with Iran. 
-‏
-‏During a security assessment, Katz stated: 
-‏
-‏"If Iran attacks Israel, it will suffer a crushing blow."  
-‏
-‏@wfwitness
-20:42
-1405/05/01
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Emanuel (Mannie) Fabian ✓ @manniefabian
@@ -3869,16 +3925,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 20:08
-1405/05/01
-
-
-
-
-src :@MilitarryWorld
-‏🔴 شنیده شدن صدای انفجار در نزدیکی جزایر قشم و لارک
-‏
-‏@MilitarryWorld | Parsa
-20:06
 1405/05/01
 
 
@@ -5407,14 +5453,6 @@ src :@P_raetorio
 
 
 
-src :@thewarreporter
-‏🇾🇪🇮🇷 — The Iranian plane landed at Al-Hodeidah Airport.  @TheWarReporter
-18:17
-1405/05/01
-
-
-
-
 src :@samueltarikh
 ‏⭕️ یورو نیوز به نقل از مقام ارشد ناتو:
 ‏
@@ -5663,16 +5701,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-17:43
-1405/05/01
-
-
-
-
-src :@thewarreporter
-‏🇫🇷🇮🇷 — France has withdrawn its embassy staff from Tehran, Iran.
-‏
-‏@TheWarReporter
 17:43
 1405/05/01
 
