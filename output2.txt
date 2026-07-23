@@ -1,3 +1,38 @@
+src :@Indypersian
+[عکس]
+‏♦️بر اساس گزارش شبکه تلویزیونی دولتی کان اسرائیل، آمریکا به اسرائیل اطلاع داده است که قصد دارد در روزهای آینده حملات خود علیه ایران را تشدید کند؛ اقدامی که شامل استفاده از بمب‌افکن‌های سنگین برای نخستین بار از زمان آغاز کارزار مشترک آمریکا و اسرائیل علیه جمهوری اسلامی در سال جاری خواهد بود.
+‏طبق این گزارش، انتظار می‌رود این بمب‌افکن‌ها سایت هسته‌ای کوه کلنگ در نزدیکی قم را هدف قرار دهند. این اقدام در پی تهدیدهای مکرر دونالد ترامپ، رئیس‌جمهوری آمریکا، در هفته گذشته انجام خواهد شد که گفته بود این منطقه «به‌زودی» هدف حمله قرار خواهد گرفت.
+‏گزارش کان می‌افزاید هماهنگی امنیتی نزدیک میان اورشلیم و واشینگتن با هدف آن انجام می‌شود که اسرائیل برای احتمال واکنش ایران به تشدید حملات آمریکا آماده شود؛ واکنشی که می‌تواند شامل افزایش حملات ایران و شلیک موشک به سمت اسرائیل باشد.
+‏کان گزارش داده است که پس از دریافت این اطلاعیه از سوی آمریکا، اسرائیل امشب در بالاترین سطح آمادگی نظامی قرار دارد.
+‏
+‏@indypersian
+06:11
+1405/05/01
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — U.S. airstrikes targeted the vicinity of Islamabad-e-Gharb County in western Iran's Kermanshah province, according to state media.
+06:11
+1405/05/01
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️به گزارش خبرگزاری رسمی عربستان سعودی (واس)، یک منبع رسمی در سازمان کل حمل‌ونقل عربستان سعودی اعلام کرد کشتی «انسیلیا» که متعلق به یک شرکت سعودی است، هنگام حرکت در دریای سرخ هدف قرار گرفته و این حمله باعث آتش‌سوزی در بخش جلویی کشتی شده است.
+‏این منبع تاکید کرد همه اعضای خدمه سالم هستند و نهادهای مربوطه اقدامات لازم را برای تامین امنیت کشتی و خدمه آن و حفاظت از محیط زیست دریایی انجام داده‌اند.
+‏این مقام همچنین گفت چنین حملاتی نقض قوانین و کنوانسیون‌های بین‌المللی است که امنیت کشتی‌های تجاری و خدمه آنها را تضمین می‌کنند.
+‏
+‏@indypersian
+06:09
+1405/05/01
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇮🇷/🇰🇼 Impacts in Kuwait
@@ -81,11 +116,11 @@ src :@BellumActaNews
 
 
 src :@tabzlive
-‏🇺🇸❌🇮🇷 — Strategic U.S. Air Force aircrafts on the move to the CENTCOM area-of-responsibility to support larger-scale strikes against Iran.
+‏🇺🇸❌🇮🇷 — Strategic U.S. Air Force aircraft are on the move to the CENTCOM area of responsibility to support larger-scale strikes against Iran.
 ‏
-‏Yesterday, an E-11A BACN communications aircraft deployed from Robins AFB, Georgia to Prince Sultan AB, Saudi Arabia. The E-11A's purpose is to aggregate U.S. communications between different datalinks/radios and allow connections between military units that otherwise wouldn't be able to connect. The E-11A will be used to allow for communications between different strike groups to coordinate operations against Iran.
+‏Yesterday, an E-11A BACN communications aircraft deployed from Robins AFB, Georgia, to Prince Sultan AB, Saudi Arabia. The E-11A's purpose is to aggregate U.S. communications between different datalinks/radios and allow connections between military units that otherwise wouldn't be able to connect. The E-11A will be used to allow for communications between different strike groups to coordinate operations against Iran.
 ‏
-‏Right now, two EA-37B Compass Call electronic warfare aircrafts are deploying from CONUS to Naval Support Activity Souda Bay, Greece. These aircrafts will be used to disrupt Iranian air defenses, command-and-control, and communications through signal jamming.
+‏Right now, two EA-37B Compass Call electronic warfare aircraft are deploying from CONUS to Naval Support Activity Souda Bay, Greece. These aircraft will be used to disrupt Iranian air defenses, command and control, and communications through signal jamming.
 ‏
 ‏📝 Expect strikes against Iran to intensify in the coming days.
 06:00
@@ -1100,14 +1135,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-‏Bushehr is getting hit extremely hard, was just on the phone with someone there and could audibly hear the blast.
-04:08
-1405/05/01
-
-
-
-
 src :@Mena_Live
 ‏U.S. Airstrikes struck the Bushehr Airport in southern Iran
 ‏
@@ -2077,19 +2104,6 @@ src :@GeoPWatch
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️فرماندهی مرکزی آمریکا، سنتکام در بیانیه‌ای اعلام کرد که از ساعت ۱:۰۰ بامداد پنجشنبه به وقت تهران، نیروهای آمریکایی به دستور فرمانده کل قوا، دور تازه‌ای از حملات به اهداف نظامی ایران را آغاز کردند.
-‏در این بیانیه آمده، «این ماموریت ادامه خواهد داشت تا توانایی ایران برای تهدید دریانوردان غیرنظامی و کشتی‌های تجاری که در آب‌های منطقه تردد می‌کنند، بیش از پیش تضعیف شود.»
-‏
-‏
-‏@indypersian
-01:59
-1405/05/01
-
-
-
-
 src :@mamlekate
 ‏📝 ترامپ: هر حمله جمهوری اسلامی در هرمز با نابودی یک پل یا نیروگاه ایران پاسخ می‌گیرد
 ‏
@@ -2122,18 +2136,6 @@ src :@IranintlTV
 ‏
 ‏ارتش کویت همچنین اعلام کرد هرگونه صدای انفجاری که شنیده شود، ناشی از رهگیری این پهپادها از سوی سامانه‌های پدافند هوایی است و از شهروندان خواست دستورالعمل‌های ایمنی و امنیتی مقام‌های مسئول را رعایت کنند.
 ‏https://iranintl.com/202607221320
-01:53
-1405/05/01
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️به گزارش رویترز، حوثی‌های پنج‌شنبه شب اعلام کردند دو نفتکش سعودی را هدف قرار داده‌اند.
-‏حوثی‌های مورد حمایت حکومت ایران روز دوشنبه ادعا کرده بودند که محاصره دریایی علیه عربستان سعودی اعمال می‌کنند. این اقدام با هشدار ائتلاف تحت رهبری عربستان مواجه شد که اعلام کرد به این اقدام «قاطعانه» پاسخ خواهد داد.
-‏
-‏@indypersian
 01:53
 1405/05/01
 
