@@ -1,3 +1,39 @@
+src :@intelslava
+[عکس]
+‏Brent crude oil above $96
+05:31
+1405/05/01
+
+
+
+
+src :@Alibk3
+[عکس]
+‏الخارجية الأميركية:  هناك احتمال حدوث تصعيد غير متوقع في الشرق الأوسط.
+05:29
+1405/05/01
+
+
+
+
+src :@Alibk3
+‏الخارجية الأميركية:
+‏
+‏هناك احتمال حدوث تصعيد غير متوقع في الشرق الأوسط.
+05:28
+1405/05/01
+
+
+
+
+src :@World_Newsly
+‏🔴 صدای دو انفجار در شهر جاسک شنیده شد  ✍🏻 north vector ▪️ @World_Newsly
+05:27
+1405/05/01
+
+
+
+
 src :@World_Newsly
 ‏🔴 عربستان سعودی: انهدام کشتی را بی‌پاسخ نخواهیم گذاشت
 ‏
@@ -673,17 +709,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴 گزارش‌های محلی: بوشهر در حال حاضر به‌شدت هدف حملات قرار گرفته است
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-04:25
-1405/05/01
-
-
-
-
 src :@naya_foriraq
 ‏من العدوان الأمريكي الغاشم على منفذ الشلامجة الحدودي بين إيران والعراق
 04:24
@@ -1110,15 +1135,6 @@ src :@BellumActaNews
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷 Unconfirmed reports of Several explosions heard in Kermanshah, Iran.  @wfwitness
-03:53
-1405/05/01
-
-
-
-
-src :@Alibk3
-[عکس]
-‏عدوان أميركي على كرمانشاه الإيرانية
 03:53
 1405/05/01
 
@@ -3839,14 +3855,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 23:45
-1405/04/31
-
-
-
-
-src :@intelslava
-‏🇪🇺 🇷🇺 Ambassadors of European Union member states have once again failed to adopt the 21st package of sanctions against Russia.
-23:44
 1405/04/31
 
 
