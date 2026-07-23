@@ -1,3 +1,57 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏لحظه منتسب به اصابت موشک ایرانی به پایگاه آمریکا در اردن و وقوع یک انفجار ثانویه بزرگ
+12:26
+1405/05/01
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏کمپین حقوق بشر ایران خبر داد احد شکوهیان، از معترضان بازداشت‌شده در جریان اعتراضات دی‌ماه ۱۴۰۴، در شعبه ۲۶ دادگاه انقلاب تهران به ریاست ایمان افشاری، به سه بار اعدام محکوم شده است.
+‏بخوانید: https://iranwire.com/fa/news-1/155347
+‏
+‏@Farsi_Iranwire
+12:26
+1405/05/01
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#NEWS | 🇺🇸 🇮🇷 — CENTCOM Completes Latest Strikes Against Iran
+‏
+‏TAMPA, Fla. — At 10:30 p.m. ET on July 22, U.S. Central Command (CENTCOM) forces completed another round of strikes against Iran for the 12th consecutive night.
+‏
+‏U.S. forces struck Iranian military targets including maritime capabilities, missile and drone storage facilities, coastal surveillance sites, and air defense assets. The strikes further degrade Iran's ability to attack civilian mariners and commercial vessels. 
+‏
+‏This month, American forces have targeted dozens of Iranian military sites on land while resuming a blockade against Iran at sea. As of today, CENTCOM has redirected nine commercial vessels and disabled one to prevent ships from entering or departing Iranian ports. 
+‏
+‏More than 50,000 U.S. service members are operating across the Middle East and remain highly vigilant, focused, lethal, and ready.
+‏
+‏— U.S. Central Command (CENTCOM)
+‏
+‏The Global Eye | Subscribe
+12:25
+1405/05/01
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏مارکو روبیو، وزیر خارجه آمریکا، در واکنش به اظهارات عباس عراقچی، وزیر خارجه جمهوری اسلامی، درباره «چشم در برابر چشم» گفت: «سیاست دونالد ترامپ سر در برابر چشم است.»
+‏روبیو در حاشیه نشست آسه‌آن در مانیل افزود جمهوری اسلامی برای  اقداماتی که انجام می‌دهد، «بهای بسیار سنگینی» می‌پردازد و این هزینه همچنان ادامه خواهد داشت. او همچنین گفت زیرساخت‌های صنعتی و صنایع دفاعی جمهوری اسلامی «به‌شدت نابود شدند.»
+‏وزیر خارجه آمریکا همچنین گفت جمهوری اسلامی با وجود لفاظی‌ها، به‌شدت در حال آسیب دیدن است و هر روز از طریق کشورهای ثالث برای مذاکره پیام می‌فرستد و خواهان توافق است.
+‏روبیو در ادامه تاکید کرد نگرانی اصلی آمریکا، دستیابی جمهوری اسلامی به سلاح هسته‌ای است، نه تغییر رژیم. او همچنین گفت ترامپ گفته است مردم ایران شایسته رهبری بهتری هستند.
+12:22
+1405/05/01
+
+
+
+
 src :@defence_news
 ‏فیلم منتشر شده و گفته میشود لحظه اصابت کلاهک بالستیک به پایگاه ملک فیصل طی حملات دیروز نیروهای مسلح ایران است  @RedLionCorps
 12:22
@@ -1236,21 +1290,6 @@ src :@P_raetorio
 
 
 
-src :@ClashReport
-[عکس]
-‏The U.S. used a B-1 long-range bomber to strike Islamic Revolutionary Guard Corps (IRGC) targets in Iran on Tuesday, marking the first B-1 mission since fighting resumed 12 days ago. 
-‏
-‏The deployment signals a major escalation, as the bomber can carry heavy bomb loads and cruise missiles.
-‏
-‏The aircraft flew from a UK base.
-‏
-‏Source: Axios
-11:12
-1405/05/01
-
-
-
-
 src :@naya_foriraq
 ‏انفجارات تهز الأردن
 11:12
@@ -1671,18 +1710,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴وزیر نیرو: اولین نیروگاه زمین‌گرمایی کشور در شهر مشگین‌شهر استان اردبیل برای تولید برق به شبکه برق وصل شد.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-10:48
-1405/05/01
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🔴انتقال تجهیزات بیشتر به منطقه سنت‌کام 
@@ -1784,19 +1811,6 @@ src :@thewarreporter
 
 src :@thewarreporter
 ‏🇲🇦🇵🇸 — Moroccan state media reports that Morocco has signed an agreement to join the International Stabilization Force planned for the Gaza Strip.  @TheWarReporter
-10:35
-1405/05/01
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏از جمله اهدافی که ارتش آمریکا امروز در ایران بمباران کرد:
-‏
-‏- یک بولدوزر
-‏- یک هدف مخفی در توده خاک که احتمالا لانچر است
-‏- یک قایق کوچک که توسط امواج به ساحل آورده شده بود و فاقد موتور بود
 10:35
 1405/05/01
 
@@ -2223,17 +2237,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 09:37
-1405/05/01
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏الی کوهن، وزیر انرژی و زیرساخت‌های اسرائیل، گفت سطح آماده‌باش این کشور برای مقابله با تحولات احتمالی افزایش یافته است. او افزود اسرائیل «برای هر سناریو و هر تحول احتمالی» آماده است و گفت اگر جمهوری اسلامی به اسرائیل شلیک کند، اسرائیل «با قدرت» به آن حمله خواهد کرد.
-‏شبکه کان اسرائیل پیش‌تر گزارش داد آمریکا به اسرائیل اطلاع داده است در روزهای آینده حمله‌های خود علیه جمهوری اسلامی را تشدید خواهد کرد و پس از این اطلاع‌رسانی، اسرائیل در بالاترین سطح آماده‌باش قرار گرفته است.
-‏https://iranintl.com/202607235955
-09:33
 1405/05/01
 
 
@@ -6423,18 +6426,6 @@ src :@militaryinpersian
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏دونالد ترامپ، رییس‌جمهور ایالات متحده، هشدار داد که اگر جمهوری اسلامی ایران به کشتی‌های عبوری از تنگه هرمز حمله کند، آمریکا در پاسخ، زیرساخت‌های ایران از جمله پل‌ها و نیروگاه‌ها را هدف قرار خواهد داد.
-‏بیشتر: https://iranwire.com/fa/news-1/155316
-‏
-‏@Farsi_Iranwire
-17:00
-1405/04/31
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ توسعه این پروژه از سال 2022 به طور مشترک با نیروی هوایی سلطنتی و به طور کامل توسط خود شرکت BAE Systems، بدون هیچ گونه کمک مالی دولتی، انجام شده است. چارلز وودبرن، مدیرعامل BAE، اظهار داشت: "ما حرف‌های خود را با عمل ثابت کردیم." اولین نمونه اولیه در کارخانه واقع در وورتون مونتاژ شده است. آزمایش‌های زمینی به زودی آغاز خواهد شد و اولین پرواز برای سال 2027 برنامه‌ریزی شده است. Brontanax یکی از عناصر کلیدی برنامه Storm Fighter بریتانیا خواهد بود که دولت اخیراً 300 میلیون پوند برای آن اختصاص داده است. هدف این برنامه، تلاش برای تبدیل بریتانیا به اولین کشور اروپایی است که دارای نیروهای کامل نسل ششم است.
@@ -6677,17 +6668,6 @@ src :@OSINTWarfare
 ‏
 ‏The IRGC also says it hit a helicopter maintenance hangar, causing major damage to two heavy U.S. helicopters, and struck accommodation facilities, killing and injuring several personnel.
 14:37
-1405/04/31
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇺🇦🇺🇸⚡️— Ukraine has signed its first bilateral agreement with the Pentagon to export Ukrainian-made drones to the United States. — Militarnyi 
-‏
-‏🇪🇺 Legion Europa | Group Chat
-14:13
 1405/04/31
 
 
