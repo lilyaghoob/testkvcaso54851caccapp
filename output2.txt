@@ -1,3 +1,30 @@
+src :@P_raetorio
+[عکس]
+‏تصویر ماهواره‌ای متعلق به روز گذشته از پایگاه هوایی العدید حاکی از ان است که این پایگاه حتی از هواپیما‌های نیرو هوایی پادشاهی قطر نیز تخلیه شده است!
+‏
+‏پ.ن:هیچ اصابت جدیدی به پایگاه ثبت نشده است.
+‏
+‏@P_raetorio
+11:20
+1405/05/01
+
+
+
+
+src :@KayhanLondonChannel
+[عکس]
+‏‌‌‏ ‌‏ ‏ 
+‏تورم پوشاک از تورم کل اقتصاد ایران بیشتر شد 
+‏
+‏طبق آمار منتشر شده، تورم ماهانه پوشاک و کفش در خرداد سال ۱۴۰۵ به ۷/۹ درصد رسید، در حالی که تورم ماهانه کل کشور ۵/۹ درصد بوده است. همچنین تورم نقطه‌به‌نقطه که بیانگر تغییر قیمت‌ها در خرداد امسال نسبت به خرداد سال گذشته است ۸۲/۲ درصد و تورم سالانه آن ۵۲/۶ درصد ثبت شده است. 
+‏
+‏افزایش قیمت پوشاک سبب شده بسیاری از خانواده‌ها امکان خرید لباس نو را نداشته باشند و تقاضا به سمت بازار پوشاک دست‌دوم هدایت شود.
+11:17
+1405/05/01
+
+
+
+
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی اخبار بامدادی | پنج‌شنبه ۱ مرداد
@@ -2788,19 +2815,6 @@ src :@MilitarryWorld
 
 
 
-src :@P_raetorio
-‏از بامداد امروز تاکنون 2 حمله دشمن آمریکایی به نقاطی از بوشهر ثبت شده است.
-‏
-‏یک نقطه در اطراف شهر اندیمشک مورد حمله موشکی دشمن تروریستی آمریکا قرار گرفت./ تسنیم 
-‏
-‏
-‏@P_raetorio
-04:39
-1405/05/01
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -4540,14 +4554,6 @@ src :@selena_updates
 [عکس]
 ‏The UK Foreign, Commonwealth and Development Office announced that UK staff have been temporarily withdrawn from Iran as a precaution amid the worsening regional security situation and that the embassy continues to operate remotely.
 23:58
-1405/04/31
-
-
-
-
-src :@ClashReport
-‏NEW: UK evacuates diplomats from Iran temporarily due to security concerns.
-23:55
 1405/04/31
 
 
