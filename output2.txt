@@ -1,3 +1,75 @@
+src :@P_raetorio
+[ویدئو]
+‏برخی رسانه‌های روس از سرنگونی این جنگنده توسط پدافند خودی خبر می‌دهند.  @P_raetorio
+14:15
+1405/05/01
+
+
+
+
+src :@P_raetorio
+‏برخی رسانه‌های روس از سرنگونی این جنگنده توسط پدافند خودی خبر می‌دهند.
+‏
+‏@P_raetorio
+14:15
+1405/05/01
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏فوری 
+‏
+‏یک فروند جنگنده سوخو57 روسی احتمالا با شلیک اشتباه پدافند مسکو سرنگون شده است 
+‏
+‏@Minas_Tirith2024
+14:14
+1405/05/01
+
+
+
+
+src :@wfwitness
+‏⚡️🇰🇼🇮🇶 The border crossing between Iraq and Kuwait was targeted following an Iranian arrival.
+‏
+‏@wfwitness
+14:14
+1405/05/01
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Türkiye will begin Eurofighter Typhoon pilot training in the UK this August as part of the aircraft acquisition program, with pilot and maintenance training continuing in the coming years.
+14:14
+1405/05/01
+
+
+
+
+src :@naya_foriraq
+‏العراق يعلن استئناف العمل بمنفذ الشلامجة بعد توقف مؤقت بسبب القصف على الجانب الإيراني
+14:12
+1405/05/01
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏فوری
+‏
+‏سقوط جنگنده نسل ۵ سوخو ۵۷ روسیه در مسکو
+‏
+‏برخی منابع می‌گویند این حادثه در جریان پرواز آموزشی اتفاق افتاده و برخی می‌گویند جنگنده در حال مقابله با پهپاد های اوکراینی بوده است.
+14:12
+1405/05/01
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇺🇸 L’Orient: Direct flights between the United States and Lebanon are expected to resume for the first time since 1985, but operations will only begin after U.S. authorities complete a security assessment of Beirut International Airport and airlines determine the route is commercially viable. 
@@ -261,7 +333,7 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔴 فوری
 ‏
-‏🛑گزارش شده است که یک جنگنده سوخو-۵۷ روسیه در حین یک پرواز آموزشی در نزدیکی مسکو سقوط کرده است
+‏🛑گزارش شده است که یک جنگنده سوخو-۵۷ روسیه در حین یک پرواز آموزشی یا به گفته برخی منابع هنگام رهگیری پهپادهای اوکراینی در نزدیکی مسکو سقوط کرده است و خلبان نیز اجکت کرد 
 ‏
 ‏#سوخو_۵۷
 ‏#جنگ_اوکراین
@@ -2093,14 +2165,6 @@ src :@jangaavaran1390
 
 
 
-src :@P_raetorio
-‏تصویری که گفته می شود شلیک دو موشک بالستیک از حوالی شهر موشکی خمین است  همزمان آژیر هشدار حمله به پایگاه العدید قطر فعال شده است   @Minas_Tirith2024
-12:11
-1405/05/01
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏آثار اطلاق الصواريخ من ايران نحو قواعد الاحتلال في المنطقة
@@ -2171,16 +2235,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@WAR_ROOM_NEWS
-‏وزیر امور خارجه آمریکا، روبیو: "ایران هر روز التماس می‌کند تا به یک توافق برسد. مشکل این است که آن‌ها دائماً موضع خود را تغییر می‌دهند و نمی‌خواهند به توافق برسند. به همین دلیل، رئیس جمهور سطح تهدیدها را افزایش می‌دهد و آن‌ها باید هزینه این کار را بپردازند. شاید چند روز دیگر به خود آیند."
-‏
-‏🆔️‌‌@WAR_ROOM_NEWS
-12:05
-1405/05/01
-
-
-
-
 src :@wfwitness
 ‏⚡️🇯🇴🇮🇷 The Jordanian army announces it intercepted 4 Iranian missiles and 6 drones.
 ‏
@@ -2221,27 +2275,6 @@ src :@naya_foriraq
 src :@samueltarikh
 ‏پرتاب موشک بالستیک از خرم‌آباد به سمت اهداف آمریکایی در منطقه
 12:03
-1405/05/01
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏رویو در واکنش به درخواست ممادانی مبنی بر اینکه آمریکا باید به دادگاه کیفری بین‌المللی بپیوندد: "در آنجا افراد دیوانه و خطرناکی حضور دارند، ما بخشی از آن نخواهیم بود، و این دادگاه هیچ اختیاری بر آمریکا ندارد."
-‏
-‏پ.ن:ممدانی جان من جای تو بودم دیگه خفه میشدم 
-‏
-‏🆔️‌‌@WAR_ROOM_NEWS
-12:03
-1405/05/01
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏إطلاق صواريخ إيرانية باتجاه قواعد الاحتلال الأمريكي في المنطقة
-12:02
 1405/05/01
 
 
@@ -2372,29 +2405,6 @@ src :@wfwitness
 
 
 
-src :@WAR_ROOM_NEWS
-‏سخنگوی ارتش ایران:
-‏حملات تلافی‌جویانه نیروهای مسلح ما تا زمانی که ایالات متحده به حملات خود علیه زیرساخت‌ها و مناطق ساحلی کشور ادامه دهد، ادامه خواهد داشت.ارتش ایران از دوره آتش‌بس به بهترین نحو استفاده کرد تا توانایی‌های رزمی خود را تقویت کند و سطح آمادگی خود را برای مقابله با تمام سناریوهای دشمن افزایش دهد. همچنین، سناریوهای جدیدی را طراحی و بر توسعه آن‌ها کار کرد.
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-11:54
-1405/05/01
-
-
-
-
-src :@Alibk3
-‏المتحدث باسم الجيش الإيراني: 
-‏
-‏ستستمر الهجمات الانتقامية لقواتنا المسلحة ما دامت الولايات المتحدة تواصل هجماتها على البنى التحتية والمناطق الساحلية في البلاد.
-‏
-‏استفاد الجيش الإيراني إلى أقصى حد من فترة وقف إطلاق النار لتعزيز قدراته القتالية ورفع مستوى جاهزيته لمواجهة جميع سيناريوهات العدو، كما أعدّ سيناريوهات جديدة وعمل على تطويرها.
-11:53
-1405/05/01
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏‌
@@ -2465,15 +2475,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US says Iran is not ready to make a deal and will pay a higher price every night until they come to their senses.
 ‏
 ‏@BRICSNews
-11:46
-1405/05/01
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏بامداد امروز دو فروند شناور جست‌وجو و نجات دریایی «ناجی ۱۵» و «ناجی ۱۶» توسط نیروی دریایی آمریکا مورد اصابت قرار گرفته و آسیب‌های جدی دیدند(احتمالا غرق شده اند).   @Minas_Tirith2024
 11:46
 1405/05/01
 
@@ -2990,14 +2991,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-‏🇮🇷⚡- Two ballistic missiles launched from Khomeyn, central Iran. Likely target: Jordan.
-10:41
-1405/05/01
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏ستاد فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد دوازدهمین دور حملات شبانه خود به اهداف نظامی جمهوری اسلامی را بامداد پنج‌شنبه به وقت تهران به پایان رسانده است. همزمان رسانه‌های ایران از وقوع انفجارها در چند استان، از جمله خوزستان، بوشهر، هرمزگان و کرمانشاه خبر دادند.
@@ -3299,15 +3292,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 09:52
-1405/05/01
-
-
-
-
-src :@jangaavaran1390
-[ویدئو]
-‏تصاویر ماهواره‌ای تخریب انبار جنگنده‌های F-15 در پایگاه هوایی شاه فیصل اردن را تایید می‌کنند. دود سیاه نشان‌دهنده احتمالا آتش‌سوزی هواپیماست. سپاه پاسداران انقلاب اسلامی  پیش‌تر اعلام کرده بود انبار مربوط به جنگنده‌های F-15 در این پایگاه را مورد حمله قرار داده است.
-09:42
 1405/05/01
 
 
@@ -3650,18 +3634,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 08:30
-1405/05/01
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 Axios: The U.S. military used a B-1 long-range bomber to strike Islamic Revolutionary Guard Corps targets in Iran on Tuesday, marking the first B-1 combat mission since fighting resumed 12 days ago. 
-‏
-‏The deployment signals a significant escalation of the U.S. campaign, with the bomber joining strikes targeting Iranian military operations centers, aircraft hangars, drone storage facilities, maritime capabilities, and logistics infrastructure.
-‏
-‏@wfwitness
-08:15
 1405/05/01
 
 
@@ -5110,16 +5082,6 @@ src :@VahidOnline
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — IRIB reports explosions in Sirik, Ahvaz, and Ramshir. 
-‏
-‏@TheWarReporter
-00:31
-1405/05/01
-
-
-
-
 src :@samueltarikh
 [عکس]
 ‏«آنچه مارا به نابودی می‌کشاند، کسانی هستند که برای انجام دادن کاری که "ذاتا نادرست" است، صادقانه و متعهدانه و با تمام وجود تلاش می‌کنند.»
@@ -5161,16 +5123,6 @@ src :@didarnews1
 
 
 
-src :@Minas_Tirith2024
-‏دوازدهمین شب از دور جدید حملات امریکا به ایران آغاز شده است 
-‏
-‏@Minas_Tirith2024
-00:27
-1405/05/01
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴 خبرنگار الجزیره در تهران به نقل از برخی منابع: در صورت حمله آمریکا به کوه کلنگ، ایران به اسرائیل نیز حمله خواهد کرد
@@ -5206,17 +5158,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:17
-1405/05/01
-
-
-
-
-src :@Minas_Tirith2024
-‏#فوری
-‏گزارش‌های تایید نشده از حمله به اهواز
-‏
-‏@P_raetorio
-00:16
 1405/05/01
 
 
