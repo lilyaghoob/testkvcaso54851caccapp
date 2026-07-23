@@ -1,7 +1,38 @@
 src :@GeoPWatch
+‏🇮🇷❌🇧🇭👎 - Reports of an Iranian attack on Qatar this morning are false. Smoke was seen in the Al Murrah area due to a fire at a tire warehouse. The fire has already been contained by Civil Defense.
+‏
+‏@GeoPWatch
+13:10
+1405/05/01
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇦⚡️ — Shipping to Ukrainian ports has completely stopped. Ships have stopped calling at Ukrainian ports due to Russian attacks, said Minister of Agrarian Policy Taras Vysotsky.
+‏
+‏It is worth noting that 80% of exports went through these ports.
+‏
+‏@Intelslava
+13:09
+1405/05/01
+
+
+
+
+src :@GeoPWatch
 ‏🇮🇶💬🇮🇷 - Iraqi PM Ali Al-Zaidi has arrived in Iran for his first official visit since taking office in May.
 ‏
 ‏@GeoPWatch
+13:07
+1405/05/01
+
+
+
+
+src :@jangaavaran1390
+‏مارکو روبیو، وزیر امور خارجه:
+‏امیدوارم که حوثی‌ها متوقف شوند. آن‌ها نباید این کار را انجام دهند. آن‌ها توسط ایرانی‌ها فریب خوردند. حوثی‌ها عموماً باهوش بودند و در طول درگیری، از این مسائل دوری می‌کردند. اکنون به نظر می‌رسد که آن‌ها نیز فریب خورده‌اند و با حمله به عربستان سعودی و کشتی‌های آن، وارد این ماجرا شده‌اند.
 13:07
 1405/05/01
 
@@ -2026,16 +2057,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار بامدادی | پنج‌شنبه ۱ مرداد
-‏@iranintlTV
-11:15
-1405/05/01
-
-
-
-
 src :@naya_foriraq
 ‏سلسلة من الانفجارات المتتالية تهز الأردن وسط فشل منظومات الدفاع بالتصدي للصواريخ الإيرانية
 11:14
@@ -3487,23 +3508,6 @@ src :@BellumActaNews
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏بریتانیا از پهپاد رزمی Brontanax رونمایی کرد
-‏
-‏شرکت BAE Systems از پهپاد رزمی Brontanax، نخستین پهپاد کلاس «همرزم وفادار» (CCA) بریتانیا رونمایی کرد؛ پهپادی که قرار است در کنار جنگنده‌های Typhoon و Tempest عملیات انجام دهد.
-‏
-‏این پهپاد برای مأموریت‌هایی مانند اسکورت جنگنده‌ها، حملات دقیق، شناسایی، جنگ الکترونیک و سرکوب پدافند طراحی شده و با هزینه‌ای بسیار کمتر از یک جنگنده سرنشین‌دار، بخش عمده‌ای از توان رزمی آن را ارائه می‌دهد.
-‏
-‏نخستین پرواز Brontanax برای سال ۲۰۲۷ برنامه‌ریزی شده و انتظار می‌رود تا پایان دهه جاری وارد خدمت شود.
-‏
-‏#بریتانیا #Brontanax #پهپاد_رزمی #CCA #BAESystems
-07:01
-1405/05/01
-
-
-
-
 src :@Artemis_Force
 ‏آخرین وضعیت شرح حملات هوایی ایالات متحده آمریکا به ایران  دوازدهمین روز، حملات متوالی ایالات متحده آمریکا   بیانیه سنتکام : امروز، ساعت 17:30 به وقت شرقی، نیروهای ایالات متحده با دستور فرمانده کل، حملات بیشتری را علیه اهداف نظامی ایران آغاز کردند. این عملیات…
 06:59
@@ -3992,18 +3996,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 02:36
-1405/05/01
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦🇺🇳⚡️ — Ukraine has requested an emergency meeting of the UN Security Council, accusing Russia of attacking civilian cargo ships and blocking the Ukrainian shipping corridor in the Black Sea, which disrupts grain exports during the peak harvest period.
-‏
-‏Russia will, of course, veto this.
-‏
-‏@IntelSlava
-02:32
 1405/05/01
 
 
@@ -4838,16 +4830,6 @@ src :@guard_warriors
 ‏همان ترقه بازی همیشگی در جنوب
 ‏
 ‏@Guard_Warriors
-00:35
-1405/05/01
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - Reports of explosions in Baman Region of Sirik, Iran, according to Iranian state broadcaster IRIB.
-‏
-‏@GeoPWatch
 00:35
 1405/05/01
 
