@@ -1,3 +1,31 @@
+src :@BellumActaNews
+[عکس]
+‏🇺🇸🔎🇦🇷⚽️ — U.S. authorities seized the electronic devices of Argentina’s football federation (AFA) president Claudio “Chiqui” Tapia and other top AFA officials at JFK airport right before the team flew home after the 2026 FIFA World Cup.  
+‏
+‏They’re being investigated over how the federation handles massive international contracts worth hundreds of millions of dollars.  
+‏
+‏The probe is looking at companies like Tourprodenter and suspicious money flows through U.S. banks.  
+‏
+‏Tapia and others were summoned to testify on July 30 in Florida.  
+‏
+‏📎 : Source
+‏
+‏- JOIN /SCI/ -
+03:56
+1405/05/01
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷 Unconfirmed reports of Several explosions heard in Kermanshah, Iran.  @wfwitness
+03:53
+1405/05/01
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏عدوان أميركي على كرمانشاه الإيرانية
@@ -7,8 +35,37 @@ src :@Alibk3
 
 
 
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- Iranian media report US Strikes in Andimeshk, western Iran.
+03:52
+1405/05/01
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 گزارش‌از شنیده شدن چندین انفجار در شاه آباد(اسلام آباد غرب) کرمانشاه
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+03:52
+1405/05/01
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏من العدوان الأمريكي على مدينة "اسلام آباد غرب" في كرمانشاه الإيرانية.
+03:52
+1405/05/01
+
+
+
+
 src :@tabzlive
-‏🇺🇸❌🇮🇷 — A location near the city of Andimeshk was targeted by a U.S. missile attack, according to IRIB.
+‏🇺🇸❌🇮🇷 — A location near the city of Andimeshk, southwestern Iran, was targeted by a U.S. missile attack, according to IRIB.
 03:51
 1405/05/01
 
@@ -903,14 +960,6 @@ src :@VahidOnline
 
 
 
-src :@naya_foriraq
-‏🇮🇷🇮🇱🇺🇸سي إن إن: مدير الموساد الإسرائيلي شارك الأميركيين معلومات تفيد بأن منشأة "جبل الفأس" الإيرانية موقع محصن تحت الأرض وتم ربطها بالبرنامج النووي.
-02:26
-1405/05/01
-
-
-
-
 src :@World_Newsly
 ‏🔴گزارش‌ها از هدف قرار گرفتن محل استقرار نیروهای آمریکایی در کویت توسط ایران حکایت دارند
 ‏
@@ -931,21 +980,6 @@ src :@Indypersian
 ‏ارتش کویت همچنین از شهروندان خواست ضمن حفظ آرامش، دستورالعمل‌های امنیتی و ایمنی صادرشده از سوی نهادهای مسئول را رعایت کنند.
 ‏@indypersian
 02:25
-1405/05/01
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸وزير الخارجية الأمريكي: 
-‏ما يحدث الآن واضح السفن تحاول العبور عبر مضيق هرمز ويتم تفجيرها من قبل الإيرانيين.
-‏
-‏الاتفاقات مبنية على الامتثال وقد أبرمنا  اتفاقا مع ايران ثم انتهكته ولم يعد ساري المفعول.
-‏
-‏نبقى منفتحين على الدبلوماسية والحل التفاوضي لكن يبدو أنهم غير جادين في ذلك حاليا.
-‏
-‏في اليوم الذي كان يفترض أن تصدر فيه إيران البيان استهدفوا سفينة وضربوها.
-02:24
 1405/05/01
 
 
@@ -1123,19 +1157,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@World_Newsly
-‏🔴 العربیه: پاکستان به یمن هشدار داد در صورت حمله به کشتی‌های پاکستانی در تنگه باب‌المندب، ارتش پاکستان به یمن حمله خواهد کرد.
-‏
-‏بر اساس گزارش العربیه، اسلام‌آباد به نیروهای یمنی هشدار داده است که در صورت هدف قرار گرفتن کشتی‌های پاکستانی در تنگه باب‌المندب، ارتش پاکستان اقدام نظامی علیه یمن انجام خواهد داد.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-02:08
-1405/05/01
-
-
-
-
 src :@rnintel
 ‏🇮🇷🇰🇼⚡- An Iranian projectile, likely a one-way drone, impacted at Ali al-Salem Air Base, Kuwait.
 02:06
@@ -1280,14 +1301,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 01:53
-1405/05/01
-
-
-
-
-src :@Alibk3
-‏أعمدة دخان تغطّي قاعدة علي السالم في الكويت جراء سقوط صواريخ إيرانية بشكل مباشر.
-01:51
 1405/05/01
 
 
@@ -2437,14 +2450,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-‏Reports of two explosions in Bushehr.
-00:50
-1405/05/01
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇾🇪❌🇸🇦 - UKMTO Reports a maritime incident has occurred 70 Nautical Miles off Al Shuqaiq, Saudi Arabia.
@@ -3062,14 +3067,6 @@ src :@MilitarryWorld
 
 src :@samueltarikh
 ‏هم اکنون گزارش های محلی از وقوع انفجار های مهیب در اهواز خبر می‌دهند.
-00:12
-1405/05/01
-
-
-
-
-src :@rnintel
-‏🇮🇷⚡- Explosion in Ahvaz, southwest Iran.
 00:12
 1405/05/01
 
