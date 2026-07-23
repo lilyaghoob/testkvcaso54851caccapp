@@ -1,3 +1,75 @@
+src :@GeoPWatch
+‏🇮🇶💬🇮🇷 - Iraqi PM Ali Al-Zaidi has arrived in Iran for his first official visit since taking office in May.
+‏
+‏@GeoPWatch
+13:07
+1405/05/01
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️زمین‌لرزه‌ای به بزرگی ۴.۱  ظهر پنجشنبه ۳۱ تیرماه حوالی شهر بابامنیر از توابع شهرستان ممسنی در استان فارس را لرزاند.
+‏
+‏به گزارش رسانه‌های ایران، این زمین‌لرزه ساعت ۱۱:۲۸ در عمق ۱۰ کیلومتری زمین ثبت شده است. تاکنون گزارشی از خسارت احتمالی این زلزله منتشر نشده است.
+‏
+‏ طی روزهای گذشته چندین زمین‌لرزه در مناطق مختلف ایران از جمله کوزران  در استان کرمانشاه، سرگز و بندرخمیر در استان هرمزگان، به ثبت رسیده است.
+‏
+‏@indypersian
+13:06
+1405/05/01
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇪🇺🇷🇺⚡️ — The EU has agreed on a 21st sanctions package against Russia over the war in Ukraine, targeting the country's financial sector while softening some proposed measures after objections from member states.
+‏
+‏➡️ The package places 94 Russian financial institutions, including Moscow's stock exchange, under full EU sanctions, while freezing the Russian oil price cap at $44.10 per barrel for one year to prevent Moscow from benefiting from higher oil prices.
+‏
+‏➡️ EU diplomats also agreed to grant a renewable one-year exemption allowing EU companies to transfer Russian LNG to third countries after Greece secured a compromise. Imports of Russian LNG into the EU will still be banned from January 1.
+‏
+‏➡️ Several proposals were dropped or delayed during negotiations. A proposed visa ban on Russian soldiers who fought in Ukraine was postponed, Bulgaria blocked sanctions against Russian Orthodox Patriarch Kirill, and France and Portugal opposed a ban on imports of Russian cod and Alaskan pollock.
+13:05
+1405/05/01
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Overnight reports indicate that a widespread series of strikes and explosions took place across Iran, including:
+‏
+‏• Jask, Hormozgan Province — explosion reported.
+‏
+‏• Bushehr Province — blast reported near Bushehr; local reports said a major explosion was heard around 04:00.
+‏
+‏• Shalamcheh border crossing, Khuzestan Province — the deputy governor claimed a U.S. strike killed two people, with Iran’s border police reportedly targeted.
+‏
+‏• Abhar, Zanjan Province — two explosions reported around 22:38 UTC.
+‏
+‏• Southern Tehran — a smoke plume was observed.
+‏
+‏• Western Tehran — reported jet activity.
+‏
+‏@GeoPWatch
+13:04
+1405/05/01
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏وزارت کشور بحرین ظهر پنج‌شنبه اول مرداد در شبکه اجتماعی ایکس اعلام کرد آژیر هشدار به صدا درآمده است.
+‏این وزارتخانه از شهروندان و ساکنان خواست آرامش خود را حفظ کنند، به نزدیک‌ترین مکان امن بروند و اخبار را از طریق کانال‌های رسمی دنبال کنند.
+13:01
+1405/05/01
+
+
+
+
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — Two projectiles struck the city of Konarak, southeastern Iran, this morning, according to IRIB.
 13:01
@@ -118,7 +190,9 @@ src :@tglobaleye
 src :@rnintel
 ‏🇪🇺🇷🇺⚡️- The European Union has approved the 21st sanctions package against Russia.
 ‏
-‏This sanctions package primarily targets Russian financial institutions, and expanding shadow fleet sanctions. It still allows European Union countries to buy Russian oil and gas capped at the existing $44.10 per barrel limit, and has lowered restrictions on Greece exporting Russian LNG to third party, non EU states.
+‏This sanctions package primarily targets Russian financial institutions, and expanding shadow fleet sanctions. It still allows European Union countries to buy Russian oil and gas capped at the existing $44.10 per barrel limit, and has lowered restrictions on Greece exporting Russian LNG to third party, non EU states. 
+‏
+‏Greece has been given an exemption to continue shipping this LNG for the foreseeable future, despite the EU intending to ban these imports in January 2027. The exemption will be reviewed annually, but as Greece did this time, they are able to use their veto to block actions unless they get the exemptions extended. As we previously reported, Greek shipping companies have continued to be a major transport bridge for Russian gas throughout the war.
 12:57
 1405/05/01
 
@@ -1970,14 +2044,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏انفجارات تهز الأردن
-11:12
-1405/05/01
-
-
-
-
 src :@mohem_mat
 ‏روزنامه اطلاعات نوشت:
 ‏
@@ -2658,16 +2724,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇯🇴 — IRGC announces conducting a strike against U.S. bases in Jordan, likely several hours ago. 
-‏
-‏IRGC claims to have destroyed one THAAD anti-ballistic missile defense system, one MIM-104 Patriot air defense system, one C-RAM radar, a helicopter equipment warehouse, and a helicopter maintenance & repair hangar. IRGC also claims to have set fuel tanks connected to U.S. bases in Jordan ablaze.
-09:50
-1405/05/01
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️امیرمحمد گلوانی، کارشناس اقتصادی، در همایش «چشم‌انداز اقتصاد ایران ۱۴۰۵» دو سناریو برای آینده نرخ ارز ارائه کرد.
@@ -2846,22 +2902,6 @@ src :@Americana_ir
 src :@jangaavaran1390
 ‏در عربستان سعودی تایید شد: یک کشتی متعلق به عربستان سعودی در دریای سرخ مورد حمله قرار گرفت. آتش‌سوزی در قسمت جلویی کشتی رخ داد. تمام اعضای خدمه سالم و بی‌خطر هستند.
 09:06
-1405/05/01
-
-
-
-
-src :@Alibk3
-‏الحرس الثوري الإسلامي:
-‏
-‏الشعب الأردني الشريف والأصيل؛ إن إخوانكم المجاهدين في الحرس الثوري الإسلامي، وفي إطار تأديب الجيش الأمريكي تمكنوا من تدمير رادار تابع لمنظومة الدفاع الصاروخي الأمريكية «ثاد» كما تم استهداف وتدمير منظومة «باتريوت» ورادار «C-RAM»، وأُضرمت النيران في خزانات الوقود التابعة لهذه القاعدة الأمريكية ومستودع آخر لمعدات المروحيات، إضافة إلى حظيرة صيانة وإصلاح المروحيات، وتم تدميرهما.
-‏
-‏يُقال أحيانًا إن إيران، بهجماتها، انتهكت استقلال الدول ووحدة أراضيها وسيادتها، بينما هذا الحكم خاطئ تمامًا. فمن وجهة نظرنا، فإن استقلال دولتكم ووحدة أراضيها وسيادتها محترمة بالكامل.
-‏
-‏ما هي القاعدة الأمريكية الموجودة في الدول؟ إنها مكان يدخل إليه الأمريكيون، وكل من يريدون إدخاله، أحيانًا حتى سجناء من دول أخرى، ويخرجون منه دون رقابة من حرس حدودكم. والانضباط هناك يفرضه شرطي الجيش الأمريكي، لا شرطي جيشكم. والقاضي الأمريكي هو الذي يحكم في الجرائم التي تقع هناك، لا قاضيكم. والقانون الأمريكي هو السائد هناك، لا قانونكم. وليس فقط عسكريوكم، بل حتى وزير دفاعكم لا يحق له دخولها دون إذن من شرطي الجيش الأمريكي.
-‏
-‏إذًا، فالولايات المتحدة هي التي انتهكت وحدة أراضيكم وسيادتكم، وليس نحن. نحن نهاجم الأراضي التي يحتلها الجيش الأمريكي، وهو جيش لا يعرف سوى ارتكاب الجرائم. في اليوم الماضي، شيّع أهالي ميناب المفجوعون ما تبقى من أشلاء جثامين أبنائهم التلاميذ التي عُثر عليها أثناء البحث تحت الأنقاض، وألحقوها بجثامينهم في القبور. وكانوا 168 تلميذًا استشهدوا في اليوم الأول من هذه الحرب في هجوم شنّه الجيش الأمريكي قاتل الأطفال، وما زالت هذه الجرائم مستمرة، ويجري جزء منها باستخدام القواعد الأمريكية الموجودة على الأراضي الأردنية. ومن حقنا القانوني والشرعي والمنطقي أن نستهدف المعتدي على بلادنا وقاتل أبنائنا أينما كان يشن هجماته
-09:05
 1405/05/01
 
 
@@ -3092,21 +3132,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 08:30
-1405/05/01
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️جاسم البدیوی، دبیرکل شورای همکاری خلیج فارس، از شورای امنیت سازمان ملل و جامعه جهانی خواست برای متوقف کردن «حملات متجاوزانه جمهوری اسلامی»، اقدام فوری انجام دهند و برای آن «حد بگذارد».
-‏البدیوی، روز چهارشنبه ۳۱ تیر ماه، اعلام کرد حملات جمهوری اسلامی، تهدیدی برای امنیت و ثبات منطقه به شمار می‌رود و خطر گسترش درگیری‌ها را افزایش داده است.
-‏او از شورای امنیت سازمان ملل خواست به مسئولیت خود در حفظ صلح و امنیت بین‌المللی عمل کند و با اتخاذ تدابیر لازم، در برابر حملات نیروهای مسلح جمهوری اسلامی، حد و مرز روشنی تعیین کرده و برای پایان دادن به این حملات اقدام کند.
-‏البدیوی همچنین بر ضرورت احترام به حاکمیت کشورها، پایبندی به منشور سازمان ملل و قوانین بین‌المللی و اتخاذ موضعی هماهنگ از سوی جامعه جهانی برای جلوگیری از گسترش درگیری‌ها تاکید کرد.
-‏دبیرکل شورای همکاری خلیج فارس، در بخش دیگری از سخنانش، اظهارات حوثی‌ها علیه عربستان سعودی و تهدید این گروه به مختل کردن کشتیرانی در دریای سرخ و بستن تنگه باب‌المندب را با «شدیدترین عبارات» محکوم کرد
-‏
-‏@indypersian
-08:15
 1405/05/01
 
 
@@ -4874,27 +4899,6 @@ src :@samueltarikh
 
 
 
-src :@cataphract1
-[عکس]
-‏⭕️تحرکات جدید تجهیزات نظامی در ارتباط با جنگ ایران
-‏
-‏در ادامه جابه‌جایی تجهیزات نظامی آمریکا، دو فروند هواپیمای جنگ الکترونیک (EA-37B Compass Call II) هم‌اکنون در مسیر اعزام هستند. همچنین چند فروند هواپیمای سوخت‌رسان KC-135R از هاوایی به سمت ساحل شرقی ایالات متحده در حال انتقال‌اند؛ اقدامی که احتمالاً در آستانه عبور آن‌ها از اقیانوس اطلس در روز آینده انجام می‌شود.
-‏
-‏هواپیماهای در حال جابه‌جایی عبارت‌اند از:
-‏
-‏🔹 EA-37B «FAZE21» (شماره 19-5591)
-‏🔹 EA-37B «FAZE31» (شماره 19-1587)
-‏🔹 KC-135R (شماره 58-0056)
-‏🔹 KC-135R (شماره 61-0290)
-‏🔹 KC-135R (شماره 62-3578)
-‏✒️#LT
-‏📃@Cataphract1
-00:29
-1405/05/01
-
-
-
-
 src :@Minas_Tirith2024
 ‏ماهشهر و رامشیر در استان خوزستان نیز هدف حمله قرار گرفته اند
 ‏
@@ -4930,14 +4934,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 00:27
-1405/05/01
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - Explosions have reportedly been heard in Sirik, Iran, according to Iranian state broadcaster IRIB.
-00:26
 1405/05/01
 
 
@@ -5066,18 +5062,6 @@ src :@samueltarikh
 ‏⭕️کانال۱۲ عبری:
 ‏
 ‏پاکستان و قطر به طور فعال در تلاش هستند تا آمریکا و ایران را مجدداً به میز مذاکره بازگردانند.
-23:53
-1405/04/31
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜️تصویر ماهواره ای ثبت شده از ناو آبی-خاکی تریپولی LHA-7 از کلاس آمریکا که بعد از حدود 6 ماه دیپلویمنت در حوزه سنتکام بهمراه واحد اعزامی 31 به اوکیناوا بازگشته و در آنجا پهلو گرفته است.
-‏
-‏🖋#Ethan 
-‏📃@Cataphract1
 23:53
 1405/04/31
 
@@ -5347,16 +5331,6 @@ src :@Navy_Iranian
 [عکس]
 ‏بررسی یک گزارش؛ سوانح کلاس A نیروی دریایی آمریکا  طبق گزارشی که نیروی دریایی آمریکا (USN) منتشر کرده است، ظاهراً در تاریخ ۹ آپریل یک فروند پهپاد شناسایی MQ-4C تریتون نیروی دریایی آمریکا در مکانی نامشخص دچار سانحه کلاس A شده است (در واقع همان تریتونی که بر…
 23:04
-1405/04/31
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸 - Reports of Jet activity over Kermanshah, Kermanshah Province, Iran.
-‏
-‏@GeoPWatch
-23:02
 1405/04/31
 
 
@@ -5930,15 +5904,6 @@ src :@Americana_ir
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇬🇧 — 26-year-old man has been arrested on suspicion of murdering former UK politician Ann Widdecombe.  Devon and Cornwall Police confirmed the arrest of a British man, 26, in Newton Abbot on Friday afternoon. Widdecombe, 78, a former Conservative…
-20:31
-1405/04/31
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«امجد حسین‌پناهی» عضو رهبری حزب «کومه‌له زحمتکشان کردستان»، در گفت‌وگو با ایران وایر اعلام کرد سپاه پاسداران انقلاب اسلامی عصر روز چهارشنبه ۳۱تیر۱۴۰۵، با شلیک یک فروند موشک بە مقر این حزب در دره «آلانه» را واقع در استان اربیل هدف قرار داده است. به گفته او در این حمله دست‌کم چهار عضو این حزب زخمی شده‌اند‌.
@@ -6337,25 +6302,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 17:14
-1405/04/31
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏شرکت «Hanwha Philly Shipyard» قراردادی برای ساخت کشتی‌های نظارت بر پرتاب موشک‌ها برای وزارت جنگ آمریکا دریافت کرد.
-‏
-‏وزارت حمل و نقل ایالات متحده آمریکا اعلام کرد که شرکت‌های «Hanwha Philly Shipyard» و «TOTE Services» به عنوان مجری برنامه ساخت دو کشتی نظارت بر پرتاب موشک‌های مدل «Golden Defender» برای آژانس دفاع موشکی آمریکا انتخاب شده‌اند. این کشتی‌ها جایگزین کشتی‌های قدیمی‌تر «Pacific Tracker» و «Pacific Collector» (ساخته شده در سال‌های ۱۹۶۵ و ۱۹۷۰) خواهند شد که وظیفه نظارت بر مسیرها، جمع‌آوری اطلاعات تله‌متری و حفظ امنیت مناطق تمرین در اقیانوس آرام را بر عهده داشتند.
-‏
-‏این برنامه بخشی از طرح ایجاد یک سیستم دفاع هوایی و ضد موشکی نسل جدید به نام «Golden Dome» است. 
-‏
-‏تحویل اولین کشتی برای ماه ژوئن سال ۲۰۳۰ برنامه‌ریزی شده است. 
-‏
-‏هزینه این پروژه حدود ۲ میلیارد دلار تخمین زده شده است.
-‏
-‏@artemis_force
-17:10
 1405/04/31
 
 
