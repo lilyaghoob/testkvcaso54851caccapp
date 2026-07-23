@@ -1,3 +1,38 @@
+src :@mwarmonitor
+[عکس]
+‏🔴انتقال تجهیزات بیشتر به منطقه سنت‌کام 
+‏
+‏✈️دو فروند هواپیمای جنگ الکترونیک EA-37B "Compass Call II" هم‌اکنون در مسیر انتقال هستند. همچنین چندین فروند هواپیمای سوخت‌رسان KC-135R از هاوایی به سمت ساحل شرقی آمریکا در حال حرکت‌اند؛ اقدامی که احتمالاً در آستانه عبور از اقیانوس اطلس در روز آینده انجام می‌شود.
+‏
+‏EA-37B "FAZE21" – شماره 19-5591 (کد: AE1436)
+‏EA-37B "FAZE31" – شماره 19-1587 (کد: AE17CD)
+‏KC-135R – شماره 58-0056 (کد: AE04BB)
+‏KC-135R – شماره 61-0290 (کد: AE0427)
+‏KC-135R – شماره 62-3578 (کد: AE07BE)
+‏
+‏@mwarmonitor
+10:46
+1405/05/01
+
+
+
+
+src :@rnintel
+‏🇮🇷⚡- Two ballistic missiles launched from Khomeyn, central Iran. Likely target: Jordan.
+10:44
+1405/05/01
+
+
+
+
+src :@Minas_Tirith2024
+‏آکسیوس به نقل از یک منبع منطقه‌ای گزارش داد که رهبری ایران تازه‌ترین پیشنهاد ارائه‌شده از سوی قطری‌ها برای آتش‌بس را نپذیرفته است.
+10:44
+1405/05/01
+
+
+
+
 src :@MilitarryWorld
 ‏🔴پیام سپاه به مردم اردن: حق قانونی و شرعی و منطقی ماست که پایگاه آمریکایی مبدا تجاوز به کشورمان را هدف قرار دهیم
 ‏
@@ -1841,14 +1876,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴کشورهای عربی؛ متحد آمریکا، اما نه مشتاق جنگ 🔹️بحرین، کویت، قطر، امارات، عربستان سعودی و اردن روابط امنیتی گسترده‌ای با آمریکا دارند؛ اما این کشورها الزاماً خواهان تبدیل‌شدن خاکشان به میدان جنگ میان واشنگتن و تهران نیستند. 🔹️پایگاه‌های آمریکایی برای این کشورها…
-06:53
-1405/05/01
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏القيادة المركزية الأميركية تنشر مشاهد للعدوان على إيران.
@@ -2847,14 +2874,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-‏⚡️🇰🇼🇮🇷 Unconfirmed reports of launches from the state of Kuwait towards Iran.  @wfwitness
-03:49
-1405/05/01
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏“The U.S. is surging forces, medics and weaponry to the Middle East to give President Trump more muscular military options as he considers expanding the conflict against Iran”, — Wall Street Journal
@@ -2929,14 +2948,6 @@ src :@VahidOnline
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸🇮🇶 Tasnim confirms reports of a U.S. attack targeting the area around the passenger terminal at the Shalamcheh border crossing with Iraq.  This attack has resulted in no casualties, and the movement of pilgrims is proceeding without interruption.  @wfwitness
-03:45
-1405/05/01
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏مارکو روبیو، وزیر خارجه آمریکا گفت تفاهم‌نامه با جمهوری اسلامی بر پایه پایبندی به تعهدات بود، اما تهران آن را نقض کرد و در نتیجه این توافق دیگر معتبر نیست.
@@ -2957,30 +2968,11 @@ src :@VahidOnline
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸🇮🇶 Unconfirmed reports indicate that a U.S. attack has targeted the Shalamcheh border crossing between Iran and Iraq.  @wfwitness
-03:42
-1405/05/01
-
-
-
-
 src :@MilitarryWorld
 ‏🔴معاون استانداری خوزستان: دقایقی پیش، محوطه پایانه مرزی مسافربری شلمچه هدف حمله موشکی آمریکا قرار گرفت.
 ‏
 ‏@MilitarryWorld | Maverick
 03:40
-1405/05/01
-
-
-
-
-src :@wfwitness
-‏⚡️🇰🇼🇮🇷 Unconfirmed reports of launches from the state of Kuwait towards Iran.
-‏
-‏@wfwitness
-03:39
 1405/05/01
 
 
@@ -3100,14 +3092,6 @@ src :@thewarreporter
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- A post from 1 hour ago: "At 5:30 p.m. ET today, U.S. forces began launching more strikes against Iranian military targets at the Commander in Chief's direction. The mission will continue to further degrade Iran's ability to threaten civilian mariners and commercial vessels transiting regional waters."- US Central Command.
-03:02
-1405/05/01
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -3166,29 +3150,12 @@ src :@VahidOnline
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏دود غلیظی در آسمان کویت به دلیل هدف قرار گرفتن توسط پهپادهای انتحاری سپاه، به وجود آمده است.
-02:20
-1405/05/01
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴شهرایی که امشب هدف قرار گرفتن
 ‏
 ‏@MilitarryWorld | Parsa
 02:14
-1405/05/01
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏مجلس نمایندگان آمریکا بودجه 95 میلیارد دلاری تامین هزینه جنگ با جمهوری اسلامی رو تصویب کرد.
-02:12
 1405/05/01
 
 
@@ -5759,17 +5726,6 @@ src :@Shin_Persian
 
 
 
-src :@mwarmonitor
-[عکس]
-‏✈️ادامه پروازهای گسترده هواپیماهای ترابری C-17 نیروی هوایی آمریکا از ایالات متحده به پایگاه‌های نظامی این کشور در منطقه، به‌ویژه اردن، همچنان ادامه دارد.
-‏
-‏@mwarmonitor
-20:16
-1405/04/31
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏#تاریخنگار_فضایی 
@@ -5968,14 +5924,6 @@ src :@Navy_Iranian
 
 
 
-src :@Minas_Tirith2024
-‏Minas Tirith pinned Deleted message
-19:36
-1405/04/31
-
-
-
-
 src :@Middle_East_Spectator
 ‏— 🇾🇪/🇸🇦 Yemeni Armed Forces overhead on VHF radio to a Saudi vessel in the Red Sea (in Arabic):
 ‏
@@ -6087,22 +6035,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:19
-1405/04/31
-
-
-
-
-src :@Minas_Tirith2024
-‏یک منبع نظامی در گفت‌وگو با خبرنگار خبرگزاری تسنیم در واکنش به تهدید جدید ترامپ مبنی بر اینکه «اگر ایران هر کشتی را هدف قرار دهد به ازای آن یک پل یا نیروگاه از ایران را میزنیم» گفت: ایران در اعمال حاکمیت بر تنگه هرمز اراده فولادین دارد و به هیچوجه اجازه نخواهد داد که تنگه هرمز بار دیگر به عامل تهدید علیه ایران تبدیل شود.
-‏
-‏وی خاطرنشان کرد: عبور و مرور کشتی‌ها از این تنگه در صورت هماهنگی با ایران و ذیل ترتیبات ایران امن خواهد بود وگرنه ایران از اراده قاطع خود برای کنترل این تنگه چشم پوشی نمی‌کند و آن را در راستای ایمنی درازمدت تنگه می‌داند.
-‏
-‏این منبع نظامی خاطرنشان کرد: اگر آمریکایی‌ها پل یا نیروگاهی از ایران هدف قرار دهند، ایران متقابلاً زیرساختها و پلها در منطقه از جمله تاسیسات انرژی که آمریکا در آن منافعی دارد زیر ضربه خواهد برد.
-‏
-‏وی تاکید کرد: آمریکاییها باید در این 10 روز اخیر به اطمینان کامل رسیده باشند که ایران هر جا را اراده کند، هدف قرار می‌دهد. لذا قمار احتمالی ترامپ، بار دیگر به رسوایی او می‌انجامد.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-19:15
 1405/04/31
 
 
@@ -6894,19 +6826,6 @@ src :@Artemis_Force
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏دادگاه تجدیدنظر استان اصفهان حکم ۲۱ سال حبس تعزیری برای محمد عابدرفتار، متولد ۱۳۷۶ و ساکن شاهین‌شهر اصفهان، را تایید کرد.
-‏هرانا خبر داد او که از بازداشت‌شدگان اعتراضات سراسری دی‌ماه ۱۴۰۴ است، همچنین به دو سال منع اقامت در استان اصفهان محکوم شده.
-‏بیشتر: https://iranwire.com/fa/news-1/155309
-‏
-‏@Farsi_Iranwire
-14:47
-1405/04/31
-
-
-
-
 src :@OSINTWarfare
 ‏According to the IRGC, its strikes on the King Faisal and Prince Hassan Air Bases destroyed multiple U.S. drones and caused significant damage to military infrastructure.
 ‏
@@ -7220,34 +7139,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 11:02
-1405/04/31
-
-
-
-
-src :@mamlekate
-‏📝 سلام صدای انفجار شدید  شمال اصفهان ساعت ۱۰:۳۵  فلکه دانشگاه صنعتی ، نمی‌دونم چی بود
-‏
-‏@mamlekate
-10:45
-1405/04/31
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏آخرین وضعیت شرح حملات هوایی ایالات متحده آمریکا به ایران
-‏
-‏یازدهمین روز، حملات متوالی ایالات متحده آمریکا
-‏
-‏بیانیه سنتکام 
-‏ستاد فرماندهی مرکزی آمریکا (سنتکام) : نیروهای سنتکام امروز ساعت ۷ بعد از ظهر به وقت شرق آمریکا برای یازدهمین شب متوالی حمله به اهداف نظامی در ایران را آغاز کردند.
-‏حملات آمریکایی ها امشب محدوده ها و دامنه گسترده تری داشت و اهداف های نظامی بیشتری را مورد هدف قرار داده است مشخص هست ،حملات با بمب افکن ها های استراتژیک بوده است یا خیر ...ایالات متحده آمریکا طبق اخبار های مختلف ب خوزستان{ بهبهان،بندر ماهشهر،امیدیه }، آذربایجان شرقی { تبریز } ،کرمانشاه{ کنگاور }، هرمزگان{ بندر عباس، سیریک ،قشم }، سیستان و بلوچستان { چابهار،کنارک}،بوشهر { بندر بوشهر }، کهگیلویه و بویراحمد{لیکک}، همدان { کبودر اهنگ } ،کردستان{ بانه }،ایلام {آبدانان} حمله هوایی کرده است
-‏
-‏ایالات متحده آمریکا در بامداد امروز حملات هدفمندی رو علیه تاسیسات و سایت های نظامی داشته است و همانند روز های گذشته هدف آن سرکوب‌ مواضع پدافندی /و سپس حمله به سایت های موشکی ،پهپادی و..
-‏همچنین صدای پدافند نیز در تهران هم به گوش رسید
-‏
-‏@artemis_force
-10:45
 1405/04/31
