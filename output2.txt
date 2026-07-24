@@ -1169,17 +1169,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-‏🔴 گزارش از انفجار در جاسک
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:48
-1405/05/02
-
-
-
-
 src :@naya_foriraq
 ‏😆 Bahrain and Kuwait, now
 03:48
