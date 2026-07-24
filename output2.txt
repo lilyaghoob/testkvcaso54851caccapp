@@ -1,3 +1,68 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷- Map of the US strikes on Iran tonight, 7/24/2026
+‏
+‏🇺🇸⚡️Confirmed US impacts: Khorramabad, Khondab, Andimeshk, Ahvaz, Omidiyeh, Khorramshahr, Shiraz, Anarak, Yazd, Bandar Abbas, Bandar-e-Jask, Konarak, and Qeshm Island.
+‏
+‏🇺🇸⁉️Unconfirmed US Impacts: Borujerd, Kazerun, Taft, and Firuzabad.
+‏
+‏@GeoPWatch
+06:21
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴انفجار در پایگاه موفق السلطی اردن
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+06:19
+1405/05/02
+
+
+
+
+src :@Alibk3
+‏الصواريخ الإيرانية تتساقط على قاعدة موفق السلطي بالأردن   موشک‌های ایرانی پایگاه هوایی موفق السلطی در اردن را هدف قرار دادند
+06:18
+1405/05/02
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇯🇴 — Ballistic missiles were launched from Malard and Bidnageh, Tehran Province; Fardis, Alborz Province; and from somewhere in Isfahan Province.
+06:18
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش شلیک موشک از نجف آباد اصفهان
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+06:17
+1405/05/02
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 شلیک یک موشک دیگر از بیدگنه
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+06:16
+1405/05/02
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 شلیک موشک از اصفهان فولادشهر
@@ -95,18 +160,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 شلیک موشک از بیدگنه در ملارد در استان تهران
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:14
-1405/05/02
-
-
-
-
 src :@tabzlive
 ‏🇮🇷❌🇺🇸🇯🇴 — Ballistic missile launches from Iran towards Jordan.
 06:14
@@ -126,28 +179,6 @@ src :@Alibk3
 src :@Alibk3
 ‏تفعيل الدفاعات الجوية في الأردن الآن
 06:12
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴 صدای انفجار در  قزوین
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:12
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴 شلیک موشک از اصفهان، لرستان، خمین
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-06:11
 1405/05/02
 
 
@@ -338,15 +369,6 @@ src :@naya_foriraq
 
 
 
-src :@Alibk3
-[عکس]
-‏هجوم في الأردن
-06:00
-1405/05/02
-
-
-
-
 src :@naya_foriraq
 ‏انفجاران عنيفة تهز الاردن
 05:59
@@ -387,14 +409,6 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-‏هجوم في الأردن
-05:58
-1405/05/02
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -413,15 +427,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 05:57
-1405/05/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏إطلاق صواريخ من إيران.
-05:56
 1405/05/02
 
 
@@ -4831,16 +4836,6 @@ src :@jangaavaran1390
 
 
 
-src :@WAR_ROOM_NEWS
-‏وزیر دفاع اسرائیل کاتز:
-‏
-‏اگر ایران به اسرائیل حمله کند، متحمل ضربه‌ای مهلک خواهد شد
-20:57
-1405/05/01
-
-
-
-
 src :@ManotoTV
 [عکس]
 ‏تصاویری از سفر محمدرضا شاه پهلوی به مهاباد و استقبال مردم این شهر از او در دهه ۱۳۴۰.
@@ -6389,16 +6384,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 17:00
-1405/05/01
-
-
-
-
-src :@GeoPWatch
-‏🇵🇸❌🇮🇱— Stabbing attack in Jenin at a checkpoint, one IDF soldier wounded, and the attacker was killed.
-‏
-‏@GeoPWatch
-16:49
 1405/05/01
 
 
