@@ -1,4 +1,75 @@
 src :@Alibk3
+‏تفعيل الدفاعات الجوية في الأردن الآن
+06:12
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 شلیک موشک از اصفهان، لرستان، خمین
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+06:11
+1405/05/02
+
+
+
+
+src :@Alibk3
+‏إطلاق صواريخ باتريوت من قاعدة موفق السلطي بالأردن
+06:11
+1405/05/02
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🗺🇮🇷 Map of the U.S. strikes on Iran tonight
+‏
+‏💥 Explosions were reported in the following cities/towns:
+‏Khondab
+‏Khorramabad
+‏Borujerd
+‏Andimeshk
+‏Ahvaz
+‏Khorramshahr
+‏Taft
+‏Anarak
+‏Omidiyeh
+‏Firuzabad
+‏Bandar Abbas
+‏Suza (southern Qeshm Island)
+‏Jask
+‏Konarak
+‏+ air defense activity was noted in and around Tehran 
+‏
+‏ℹ️ Explosion counts might not be fully accurate, but an approximate made from public reports, strikes in rural areas might not be known for now.
+06:10
+1405/05/02
+
+
+
+
+src :@naya_foriraq
+‏انفجارات في مدينة خرمشهر جنوبي إيران
+06:09
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش انفجار در خرمشهر  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
+06:07
+1405/05/02
+
+
+
+
+src :@Alibk3
 [عکس]
 ‏تفعيل الدفاعات الجوية في الأردن  فعال کردن پدافند هوایی در اردن
 06:07
@@ -292,17 +363,6 @@ src :@World_Newsly
 
 
 
-src :@naya_foriraq
-[عکس]
-‏الله أكبر
-‏
-‏موجة صواريخ تنطلق من إيران
-05:52
-1405/05/02
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -335,14 +395,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 05:51
-1405/05/02
-
-
-
-
-src :@naya_foriraq
-‏استهداف مناطق سكنية في مدينة الاهواز جنوبي إيران من قبل العدو الأمريكي
-05:50
 1405/05/02
 
 
@@ -491,16 +543,6 @@ src :@tabzlive
 
 
 
-src :@Alibk3
-‏مسؤول أميركي: 
-‏
-‏ترامب لا يرى خيارات جيدة سوى مواصلة الضربات على إيران.
-05:13
-1405/05/02
-
-
-
-
 src :@World_Newsly
 ‏🔴وال استریت جورنال به نقل از مقام آمریکایی: 
 ‏
@@ -519,14 +561,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 05:11
-1405/05/02
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸🇮🇷مسؤول أمريكي: ترامب لا يرى خيارات جيدة سوى مواصلة الضربات على إيران.
-05:10
 1405/05/02
 
 
@@ -578,14 +612,6 @@ src :@World_Newsly
 ‏‌✍🏻 SLXUGHTER
 ‏▪️@World_Newsly
 05:04
-1405/05/02
-
-
-
-
-src :@Alibk3
-‏دوي انفجارات في الكويت
-05:03
 1405/05/02
 
 
@@ -742,16 +768,6 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-‏القيادة المركزية الأميركية:
-‏
-‏مضيق هرمز مفتوح.
-04:55
-1405/05/02
-
-
-
-
 src :@World_Newsly
 ‏🔴سنتکام
 ‏
@@ -761,15 +777,6 @@ src :@World_Newsly
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
 04:54
-1405/05/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القيادة المركزية الأميركية تعلن انتهاء جولة الغارات في إيران.
-04:52
 1405/05/02
 
 
@@ -1292,27 +1299,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴 وقوع انفجار در خنداب استان مرکزی   ✍🏻 north vector ▪️ @World_Newsly
-04:01
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴 فعالیت پدافند هوایی در حوالی میدان سپاه تهران
-‏
-‏بر اساس گزارش‌های اولیه، سامانه‌های پدافند هوایی در محدوده میدان سپاه تهران فعال شده‌اند.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-04:00
-1405/05/02
-
-
-
-
 src :@OSINTWarfare
 ‏Reports of an explosion at the port of Konarak in Sistan and Baluchestan Province, southeastern Iran.
 03:58
@@ -1332,31 +1318,9 @@ src :@intelslava
 
 
 
-src :@World_Newsly
-‏🔴 نورنیوز: پدافند هوایی تهران برای مقابله با تهدیدات متخاصم فعال شد
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-03:57
-1405/05/02
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏The U.S. Air Force (USAF) conducted airstrikes on Yazd in central Iran.
-03:57
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش‌ها از شنیده شدن صدای انفجارهای دوردست در تهران خبر می‌دهند
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
 03:57
 1405/05/02
 
@@ -2126,14 +2090,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@tabzlive
-‏🇺🇸⚡️ — U.S. Air Force E-11A BACNS communications aircraft crossing from North America to the Atlantic Ocean. This aircraft is intended for further large-scale strikes against Iran in the coming days.
-02:50
-1405/05/02
-
-
-
-
 src :@MilitarryWorld
 ‏🔴 آمریکا امشب اهواز رو با بمب افکن استراتژیک B1 بمبارون کرد.
 ‏
@@ -2180,14 +2136,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 02:47
-1405/05/02
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — U.S. strikes against Bandar Abbas, Iranian territory along the Strait of Hormuz.
-02:46
 1405/05/02
 
 
