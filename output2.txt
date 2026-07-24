@@ -1,13 +1,72 @@
-src :@P_raetorio
+src :@World_Newsly
+‏🔴 فرماندار جاسک:
+‏۱۰۰ شناور در حملات اخیر آمریکا آسیب دید
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+22:56
+1405/05/02
+
+
+
+
+src :@thewarreporter
 [عکس]
-‏حمله جنگنده‌های کویتی و بحرینی به ایران!
+‏🇺🇸🇮🇷 — Iranian media reports that at least 4 military personnel were killed in yesterday's US strikes on Ahvaz.
 ‏
-‏وال استریت ژورنال گفت در دهه اول ماه جولای جنگنده‌های کویتی و بحرینی در یک عملیات مشترک و در پاسخ به حملات سپاه پاسداران به آنها به عمق خاک ایران نفوذ کردند و برای نخستین بار به ایران حمله مستقیم انجام دادند،به گفته منابع کویتی اهداف این حمله شامل یک انبار پهپادی و  یک انبار تسلیحاتی بوده است!
+‏@TheWarReporter
+22:56
+1405/05/02
+
+
+
+
+src :@MilitarryWorld
+‏🔴نیویورک تایمز:
 ‏
-‏این اقدام نشان دهنده پیچیده شدن وضعیت منطقه و ناامیدی برخی از دولت‌های عربی از صلح و حرکت به سوی تشدید تنش‌ها است!
+‏هم اکنون ترامپ و تیم ارشد امنیت ملی خود در اتاق بیضی کاخ سفید یک جلسه سطح بالا در مورد تصمیم گیری آغاز جنگ با ایران برگزار میکند.
 ‏
-‏@P_raetorio
-22:51
+‏@MilitarryWorld | Parsa
+22:54
+1405/05/02
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴رکوردهایی که ترامپ تو این مدت تو مصاحبه‌هاش ثبت کرده:
+‏
+‏ «ما ایران رو شکست دادیم.» - 106 بار
+‏«ما ایران رو نابود کردیم.» - 95 بار
+‏ «توافق با ایران نزدیکه.» - 88 بار
+‏«تنگه هرمز بازه.» - 75 بار
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+22:54
+1405/05/02
+
+
+
+
+src :@thewarreporter
+‏🛳️🇺🇸🇮🇷 — Iranian State TV:
+‏
+‏"This afternoon, the U.S. military fired two missiles at an LPG tanker that was approaching the area from the Gulf of Oman, mistakenly believing that it was carrying Iranian gas. 
+‏
+‏The attack resulted in the deaths of two crew members and damage to the engine room, effectively stopping the ship".
+‏
+‏@TheWarReporter
+22:53
+1405/05/02
+
+
+
+
+src :@ClashReport
+‏Venezuela has formally notified the United Nations of its "irrevocable" decision to withdraw from the International Criminal Court.
+22:53
 1405/05/02
 
 
@@ -37,7 +96,7 @@ src :@thewarreporter
 
 src :@Americana_ir
 [عکس]
-‏♨️ هم‌اکنون دونالد ترامپ در مورد نوآوری هسته‌ای آمریکا در کاخ سفید اطلاعیه‌ای صادر می‌کند
+‏♨️ هم‌اکنون دونالد ترامپ در مورد نوآوری هسته‌ای آمریکا در کاخ سفید در حال صدور اطلاعیه‌ای است
 ‏
 ‏🆔 @Americana_ir
 22:50
@@ -611,34 +670,12 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@World_Newsly
-‏🔴عصر امروز ارتش آمریکا با پرتاب دو‌ موشک به یک تانکر ال پی جی که از سمت دریای عمان قصد ورود به منطقه را داشت این تانکر را به تصور اینکه قصد انتقال گاز ایران را داشته مورد اصابت قرار داد و با کشتن دو نفر از خدمه و ایراد خسارت به موتور خانه آن کشتی، آن را متوقف کرد/صداوسیما
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-22:23
-1405/05/02
-
-
-
-
 src :@mohem_mat
 ‏ادعای نیویورک تایمز: 
 ‏
 ‏ترامپ با مشاوران ارشد و اعضای دولت خود دیدار کرد تا بررسی کند که آیا باید حملات علیه ایران را تشدید کند یا خیر
 ‏
 ‏@mohem_mat
-22:22
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴چند انفجار شمال کویت را لرزاند
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 22:22
 1405/05/02
 
