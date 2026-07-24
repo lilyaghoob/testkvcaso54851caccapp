@@ -1,3 +1,84 @@
+src :@naya_foriraq
+‏مصدر إيراني: لاوجود لعدوان على مدينة دزفول حتى اللحظة.
+03:31
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 وقوع انفجار در خنداب استان مرکزی 
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+03:29
+1405/05/02
+
+
+
+
+src :@Alibk3
+‏مسؤولين أميركيين:
+‏
+‏ترامب يدرس العودة إلى مستوى الهجمات كما كانت في بداية الحرب
+03:28
+1405/05/02
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇸🇦طائرة تطلق انذار الطوارئ 7700 بعد مغادرتها قاعدة الملك عبد العزيز الجوية في الدمام بالسعودية.
+03:28
+1405/05/02
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Blast in Khandab
+‏Markazi Province
+‏Iran
+‏
+‏ترجمه خودکار فارسی
+‏
+‏انفجار در خنداب  
+‏استان مرکزی  
+‏ایران
+‏
+‏𝕏  ·  @shin_persian
+03:28
+1405/05/02
+
+
+
+
+src :@MilitarryWorld
+‏🔴خرم اباد رو هم زدن
+‏
+‏@MilitarryWorld | Parsa
+03:28
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 جنگنده‌ها بر فراز اربیل در اقلیم کردستان عراق به پرواز درآمدند
+‏
+‏بر اساس گزارش‌ها، جنگنده‌هایی در آسمان شهر اربیل، مرکز اقلیم کردستان عراق، در حال پرواز مشاهده شده‌اند.
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+03:27
+1405/05/02
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏رییس روابط عمومی وزارت بهداشت جمهوری اسلامی اعلام کرد که از ۶ تیر تا ساعت ۹ صبح اول مرداد،در حملات آمریکا ۵۵ تن کشته و ۶۲۹ نفر مصدوم شده‌اند.
@@ -675,14 +756,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-‏🔴 انفجار در بندرعباس  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
-02:50
-1405/05/02
-
-
-
-
 src :@naya_foriraq
 ‏جسم غريب يسقط في سماء قشم بعد إطلاق النار عليه الان
 02:50
@@ -1295,14 +1368,6 @@ src :@tabzlive
 
 
 
-src :@Alibk3
-‏انفجارات متعددة في الأهواز.
-02:24
-1405/05/02
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -1786,24 +1851,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 01:30
-1405/05/02
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Intense jet activity over Ilam
-‏Ilam Province, Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت شدید جت‌ها بر فراز ایلام
-‏استان ایلام، ایران
-‏
-‏𝕏  ·  @shin_persian
-01:29
 1405/05/02
 
 
@@ -2550,16 +2597,6 @@ src :@ClashReport
 ‏
 ‏Trump is seeking $67.1B in supplemental funding to replenish munitions.
 00:13
-1405/05/02
-
-
-
-
-src :@MilitarryWorld
-‏🔴تسنیم: دقایل قبل، اصابت ۲ موشک آمریکایی به محدوده روستای مسن قشم.
-‏
-‏@MilitarryWorld | Parsa
-00:11
 1405/05/02
 
 
@@ -7475,12 +7512,4 @@ src :@RASTAKHIZ_PERSIAN
 src :@OSINTWarfare
 ‏Heavy fighting has erupted in Yemen between Ansar Allah (Houthis) and the Saudi-backed Yemeni forces, with clashes reported across multiple frontlines.
 03:37
-1405/05/01
-
-
-
-
-src :@OSINTWarfare
-‏Yemen’s Ansar Allah (Houthis) announced that they targeted the Saudi oil tankers ENCELIA and LAYLA with ballistic missiles and drones.
-03:29
 1405/05/01
