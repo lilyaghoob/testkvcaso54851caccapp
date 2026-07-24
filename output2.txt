@@ -1,8 +1,104 @@
+src :@thewarreporter
+[عکس]
+‏🇺🇸🇮🇷 — US President Trump:
+‏
+‏"From now on, damages to ships, cargo, or related property will be paid from Iranian money the US holds and controls. 
+‏
+‏Damages may be substantial, but this is fair and equitable".
+‏
+‏@TheWarReporter
+10:36
+1405/05/02
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴اندیمشک
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+10:34
+1405/05/02
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴تصاویر دریافتی از شلیک موشک از کرج
+‏
+‏‌✍🏻 Dangerman
+‏▪️@World_Newsly
+10:34
+1405/05/02
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇺🇸 Iranian Foreign Minister Abbas Araghchi has accused the US of violating the Islamabad Memorandum and disrupting shipping by reimposing a naval blockade and attacking civilian infrastructure. 
+‏
+‏He said Gulf security can only be ensured through regional co‑operation, and warned that any state involved in aggression against Iran will be held internationally responsible. 
+‏
+‏Iran reserves the right to self‑defence and will treat any source of aggression as a legitimate target, he added.
+‏
+‏@wfwitness
+10:34
+1405/05/02
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump praises Laura Loomer's interview with Zelensky.
+10:33
+1405/05/02
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The US has introduced new tariffs of 10% to 12.5% on imports from 60 major trading partners, including the UK, EU, China, Canada, Japan, and India, covering 99.4% of US imports.
+10:33
+1405/05/02
+
+
+
+
 src :@MilitarryWorld
 ‏🔴نیویورک تایمز : تهران در صورت عملی شدن تهدیدها تلاویو را هدف قرار میدهد
 ‏
 ‏@MilitarryWorld | Parsa
 10:33
+1405/05/02
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴تصاویر ماهواره‌ای مستقل Sentinel-2 آسیب به مرکز داده Batelco RJR در منطقه عسکر بحرین پس از حملات ایران را تأیید می‌کند. این مرکز که از زیرساخت‌های مهم مخابراتی بحرین است و بخشی از سرورهای AWS را میزبانی می‌کند، آثار متعدد اصابت را در تصاویر ثبت‌شده در ۲۲ ژوئیه نشان می‌دهد.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+10:32
+1405/05/02
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴به نظر می‌رسد نیروی هوایی آمریکا پس از حملات اخیر ایران، بخش قابل‌توجهی از تجهیزات خود را به پایگاه هوایی «عوودا» در جنوب اسرائیل منتقل کرده است.بر اساس تصاویر ماهواره‌ای جدید، ۵ تا ۶ فروند هواپیمای سوخت‌رسان که ظاهراً از پایگاه العدید قطر منتقل شده‌اند، به همراه حدود ۶ فروند هواپیمای دیگر که احتمالاً از نوع C-130 هستند، در این پایگاه دیده می‌شوند.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+10:32
 1405/05/02
 
 
@@ -366,18 +462,6 @@ src :@naya_foriraq
 
 src :@World_Newsly
 [عکس]
-‏🔴 مانور مشترک ارتش آمریکا و اسرائیل در صحرای نقب
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-10:11
-1405/05/02
-
-
-
-
-src :@World_Newsly
-[عکس]
 ‏🔴 تمرین آمریکایی ها برای مقابله با ریز پرنده
 ‏
 ‏✍🏻 Dangerman
@@ -487,28 +571,6 @@ src :@mohem_mat
 
 
 
-src :@World_Newsly
-‏🔴 صدای انفجار در اربیل
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-10:06
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴 مقامات ایرانی: در صورت عملی شدن تهدید ترامپ علیه زیرساخت‌ها تنگه باب‌المندب بسته می‌شود و به اسرائیل نیز حمله می‌کنیم/ نیویورک‌تایمز
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-10:06
-1405/05/02
-
-
-
-
 src :@mohem_mat
 ‏استانداری گیلان:
 ‏
@@ -517,18 +579,6 @@ src :@mohem_mat
 ‏براساس بررسی‌های اولیه، تاکنون هیچ‌گونه گزارشی از خسارات انسانی دریافت نشده است./فارس
 ‏
 ‏@mohem_mat
-10:05
-1405/05/02
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 رسانه‌های عربی: دو انفجار در نزدیکی شهر پیرانشهر در شمال غربی ایران
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 10:05
 1405/05/02
 
@@ -572,31 +622,6 @@ src :@Artemis_Force
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴  ۷ فروند هواپیمای سوخت‌رسان دیگر آمریکا راهی خاورمیانه شدند
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-10:03
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴 کشته شدن ۴ نفر از هموطن ها در پی حمله موشکی به اطراف اهواز
-‏
-‏معاون امنیتی و انتظامی استانداری خوزستان اعلام کرد در پی حمله موشکی آمریکا به نقاطی در اطراف شهر اهواز، متاسفانه ۴ نفر کشته و ۵ نفر دیگر مجروح شدند.
-‏
-‏ ✍🏻 Dangerman
-‏▪️@World_Newsly
-10:02
-1405/05/02
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇶تحليق طائرات مسيرة في سماء العراق باتجاه محافظات شمال العراق.
 10:02
@@ -620,18 +645,6 @@ src :@Parvazdaroj
 src :@mwarmonitor
 ‏🚨به احتمال زیاد، بمب‌افکن‌های B-1B آمریکا هم‌اکنون در مسیر ایران هستند؛ همچنین بار دیگر هواپیماهای سوخت‌رسان از رومانی مشاهده شده‌اند.  🔴علاوه بر این، صدای برخاستن چندین جنگنده از پایگاه‌های اسرائیل و اردن شنیده شده و حضور هواپیماهای سوخت‌رسان نیز افزایش یافته…
 10:02
-1405/05/02
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 کاخ سفید اعلام کرد که توافق هسته‌ای بین آمریکا و عربستان سعودی "به حالت تعلیق درآمده" مگر اینکه عربستان سعودی به طور رسمی به پیمان ابراهیم بپیوندد و روابط خود را با اسرائیل عادی کند.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-10:01
 1405/05/02
 
 
@@ -1348,14 +1361,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 08:01
-1405/05/02
-
-
-
-
-src :@Alibk3
-‏دوي انفجارات في البحرين
-08:00
 1405/05/02
 
 
@@ -2133,30 +2138,6 @@ src :@tabzlive
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️به گزارش خبرگزاری تسنیم، بین ساعت ۳:۱۵ تا ۳:۴۰ بامداد جمعه دوم مردادماه، صدای انفجار در چند نقطه از کشور، از جمله مناطقی از تفت و شیرکوه در استان یزد، شنیده شده است.
-‏
-‏@indypersian
-04:46
-1405/05/02
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️بر اساس گزارش نیویورک‌تایمز، تهران پیشنهاد آتش‌بس ارائه‌شده از سوی دونالد ترامپ، رئیس‌جمهوری آمریکا را که توسط نخست‌وزیر عراق به تهران منتقل شده بود، رد کرده است.  علی الزیدی پس از دیدار هفته گذشته با ترامپ در واشینگتن، روز پنجشنبه به تهران سفر کرده بود.
-‏در گزارش نیویورک تایمز آمده است: جزئیات پیشنهاد آتش‌بس هنوز به‌طور کامل روشن نیست، اما مقام‌های تهران گفتند این تنها پیشنهادی بود که روی میز قرار داشت و حکومت علاقه‌ای به توافقی موقت ندارد که مسئله کنترل بر تنگه هرمز را حل‌نشده باقی بگذارد.
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی درباره دیدار با نخست وزیر عراق گفت، علی زیدی «دیدگاه‌ها و برداشت‌های خود» از سفرش به واشنگتن را منتقل کرده است، اما تهران و واشنگتن در حال حاضر میانجی‌های کافی دارند.
-‏
-‏@indypersian
-04:43
-1405/05/02
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مجددا یزد هدف قرار گرفت
 ‏
@@ -2870,14 +2851,6 @@ src :@rnintel
 src :@VahidOnline
 [عکس]
 ‏.
-02:59
-1405/05/02
-
-
-
-
-src :@wfwitness
-‏Explosions in Qeshm
 02:59
 1405/05/02
 
@@ -3951,19 +3924,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@ClashReport
-[عکس]
-‏Senior Iranian MP Ebrahim Azizi:
-‏
-‏The era of Sykes–Picot is long over. The day is not far when you will lose Diego Garcia, like your other colonies.  
-‏
-‏The UK would be wise to reflect on the fragility of its own borders and to recognize that Iran’s capabilities extend far beyond military options.
-23:18
-1405/05/01
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇮🇶❌🇰🇼🇯🇴🇸🇦– The Iraqi militia group Awliya al-Dam has claimed responsibility for a series of coordinated attacks targeting Jordan, Kuwait, and Saudi Arabia, according to Al Arabiya.
@@ -4057,19 +4017,6 @@ src :@selena_updates
 src :@mwarmonitor
 ‏بو حلوا عراقچی قالیباف میاد
 23:09
-1405/05/01
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran’s Foreign Minister Abbas Araghchi:
-‏
-‏Compromised individuals in the U.S. administration are burying their heads in the sand. They ignore the realities on the ground and seem focused only on 2028.   
-‏
-‏The mindless aggression they advocate will only ensure that POTUS pays heavier price for deal he's trying to achieve.
-23:08
 1405/05/01
 
 
@@ -4494,18 +4441,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 22:11
-1405/05/01
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — US President Trump said Israel 'would join in two minutes if I ask them to', but added, 'we don't need anybody' to launch a new operation against Iran. 
-‏
-‏He also warned there would be 'consequences' if Israel joined, suggesting Iran could retaliate against Israel.
-‏
-‏— Axios | @TheWarReporter
-22:09
 1405/05/01
 
 
@@ -6624,14 +6559,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@rnintel
-‏🇮🇷🇮🇱⚡️- The Israeli city of Ramat Gan, on the outskirts of Tel Aviv with a population of 172k people, has ordered all bomb shelters to be opened.   Home Front Command has made no statements about changes to instructions, and the Ramat Gan government says its…
-14:45
-1405/05/01
-
-
-
-
 src :@Mena_Live
 ‏The Mayor of Israel’s Ramat Gan has announced: "We have decided to open all the shelters in the city. 
 ‏
@@ -6639,18 +6566,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 14:40
-1405/05/01
-
-
-
-
-src :@rnintel
-‏🇷🇺🇺🇦⚡️- "'As of today, the entry of ships has been ​suspended. This is a decision taken by the shipowners. Ukraine, as a state, ⁠has not imposed any restrictions,' Interfax-Ukraine cited Taras Vysotskyi as saying on Wednesday.
-‏
-‏Ukraine has lost about a third of its capacity to export grain via the Black Sea ports due to Russian missile and ​drone attacks, traders and analysts have said.
-‏
-‏But Russian attacks on Ukraine's deepwater ports ​and international vessels have intensified in recent weeks. Brokers have said shipowners are refusing to ​enter Ukrainian ports because of sharply increased war-risk concerns, while traders have paused purchases." - Reuters.
-14:26
 1405/05/01
 
 
