@@ -1,3 +1,75 @@
+src :@OSINTWarfare
+‏Reports of Royal Saudi Air Force (RSAF) airstrikes targeting Yemen's Kamaran Island.
+23:57
+1405/05/02
+
+
+
+
+src :@intelslava
+‏🇸🇦🚫🇾🇪🇾🇪 — Reports of Royal Saudi Air Force (RSAF) airstrikes targeting the Yemeni island of Kamaran.
+‏
+‏@IntelSlava
+23:56
+1405/05/02
+
+
+
+
+src :@thewarreporter
+‏🇸🇦🇾🇪 — Saudi airstrikes on the Yemeni island of Kamaran.
+‏
+‏@TheWarReporter
+23:55
+1405/05/02
+
+
+
+
+src :@MilitiaNews
+[عکس]
+‏🚨تصویری که از حمله عربستان به بندر الحدیده یمن دست به دست می‌شود قدیمی است  @MilitiaNews
+23:54
+1405/05/02
+
+
+
+
+src :@tabzlive
+‏🇸🇦❌🇾🇪 — Moment of the Royal Saudi Air Force airstrikes against Hodeidah Port, Ansarallah-controlled Yemen.
+23:54
+1405/05/02
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇸🇦🇾🇪 — The Royal Saudi Air Force carried out airstrikes on the Port of Hodeidah in Houthi-controlled Yemen.
+‏
+‏@TheWarReporter
+23:53
+1405/05/02
+
+
+
+
+src :@Alibk3
+‏غارات سعودية تستهدف جزيرة كمران اليمنية.
+23:53
+1405/05/02
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦🇾🇪استمرار العدوان السعودي باستهداف جزيرة كمران في الحديدة باليمن.
+23:53
+1405/05/02
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏سفارت فرانسه در تهران با لحنی کنایه‌آمیز، گزارش روزنامه «تهران‌تایمز» درباره برگزاری یک نشست محرمانه میان سفیران اروپایی در تهران را تکذیب کرد و نوشت: «به خبرنگاران محترم روزنامه تهران تایمز، دفعه بعد لطفاً اطلاعات خود را با دوستان‌تان در سرویس‌های اطلاعاتی ایران که حدود ده دوربین برای نظارت بر سفارت فرانسه دارند، بررسی کنید. متاسفانه، هیچ مراسمی در سفارت ما در تاریخ ۲۰ ژوئیه برگزار نشد!»
@@ -17,6 +89,16 @@ src :@Alibk3
 ‏
 ‏الميناء بالميناء، والمطار بالمطار، وكلًّ تصعيدٍ سيُقابلُ بتصعيدٍ أكبر.
 23:53
+1405/05/02
+
+
+
+
+src :@intelslava
+‏🇮🇷🚫🇮🇶 — Reports of explosions in Erbil, Iraqi Kurdistan, following Iranian drone and missile strikes on the headquarters of Kurdish separatist groups.
+‏
+‏@IntelSlava
+23:52
 1405/05/02
 
 
@@ -1901,14 +1983,6 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏🇮🇷🇺🇸 الخارجية الأميركية: إيران قد تستهدف المصالح والشركات والمؤسسات الأميركية بالمنطقة
-22:37
-1405/05/02
-
-
-
-
 src :@MilitarryWorld
 ‏🔴هلیکوپترهای ایالات متحده به طور مداوم در طول مرز عراق و سوریه در حال فعالیتن
 ‏
@@ -2477,15 +2551,6 @@ src :@MilitarryWorld
 
 
 
-src :@Alibk3
-[عکس]
-‏‏ نيويورك تايمز عن مسؤولين مطلعين:  الرئيس ترامب كان يجتمع يوم الجمعة مع كبار مستشاريه وأعضاء حكومته البارزين لاتخاذ قرار بشأن ما إذا كان سيكثف الهجوم العسكري على إيران.
-21:54
-1405/05/02
-
-
-
-
 src :@mwarmonitor
 ‏⏺نیویورک تایمز: بر اساس ارزیابی نهادهای اطلاعاتی آمریکا، مجتبی خامنه‌ای، رهبر جدید ایران، برخلاف پدر و سلف خود، علاقه و تمایل بسیار بیشتری به دنبال کردن دستیابی به سلاح هسته‌ای دارد. این موضوع را مقام‌های آگاه از این ارزیابی‌ها به نیویورک تایمز اعلام کرده‌اند.
 ‏
@@ -2732,17 +2797,6 @@ src :@mohem_mat
 ‏حسام الدین آشنا Hosamoddin Ashena (@hesamodin1)
 ‏
 ‏@mohem_mat
-21:28
-1405/05/02
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸❌🇮🇷 — U.S. Marines deploy a HIMARS via KC-130J Super Hercules in the Middle East.
-‏
-‏@IntelSlava
 21:28
 1405/05/02
 
@@ -3550,18 +3604,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 20:37
-1405/05/02
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏♦️وال استریت ژورنال در خبری جالب توجه مدعی شد بحرین و کویت اوایل این ماه به صورت مخفیانه با جت‌های جنگنده خود به ایران حمله کردند. آن‌ها در این حملات، انبارهای پهپاد و موشک و سایر اماکن نظامی را هدف قرار دادند. امارات متحده عربی هم اطلاعات و پوشش هوایی لازم برای این عملیات را فراهم کرد.
-‏است.
-‏
-‏♦️این خبرگزاری در ادامه مدعی شده که دولت‌های عربی اکنون در حال بررسی این موضوع هستند که آیا ممکن است لازم باشد در تلاش برای باز کردن مسیرهای تجاری حیاتی خود در خلیج‌فارس، تهاجمی‌تر عمل کنند یا خیر.
-20:32
 1405/05/02
 
 
@@ -5107,33 +5149,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 18:19
-1405/05/02
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷 Iran’s Foreign Minister, Abbas Araqchi:
-‏
-‏‘Those that refer to the Supreme Leader’s statement [‘in principle I had a different opinion’] only create resentment and unrest in society.’
-‏
-‏@Middle_East_Spectator
-18:18
-1405/05/02
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇮🇷/🇮🇱 Iran’s FM, Abbas Araqchi, implies that opponents of the MoU within Iran are Israeli assets:
-‏
-‏‘The whole world is saying that the main loser of the agreement is Israel, yet what are some saying inside [Iran]?
-‏
-‏Sometimes I get suspicious that if Israel has infiltrated some of our places, maybe it has influence in this matter and among these people too.’
-‏
-‏@Middle_East_Spectator
-18:15
 1405/05/02
 
 
@@ -7364,25 +7379,3 @@ src :@OSINTWarfare
 ‏Instead, the thinking seems to be to stick with the same "shoot-and-scoot" strategy used during the last war. From Iran's perspective, it worked: they lost only a few launchers (two documented), which is a remarkably low number considering the intensity of the conflict.
 00:02
 1405/05/02
-
-
-
-
-src :@Exciton_missile_program
-‏مجید شریفی استاد روابط بین‌الملل:
-‏
-‏ما هنوز در میانه جنگ هستیم؛ ترامپ فعلا با سناریوی ویتنام مواجه نشده، یعنی بن‌بست تمام عیاری که او را از ادامه جنگ با ایران بازدارد
-23:56
-1405/05/01
-
-
-
-
-src :@Mena_Live
-‏Israel has issued six evacuation notices to families in Gaza today, all these buildings will be flattened. 
-‏
-‏Over the past few months, Israel has issued hundreds of such notices.
-‏
-‏@Mena_Live
-23:55
-1405/05/01
