@@ -1,3 +1,26 @@
+src :@Alibk3
+‏وكالة مهر:
+‏
+‏انقطعت الكهرباء عن مناطق في بندر عباس عقب الهجوم الأمريكي.
+03:47
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 فعالیت پدافند هوایی در بندرعباس
+‏
+‏بر اساس گزارش‌های اولیه، سامانه‌های پدافند هوایی در بندرعباس فعال شده‌اند.
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+03:45
+1405/05/02
+
+
+
+
 src :@MilitarryWorld
 ‏🔴گزارش ۲ انفجار در بروجرد
 ‏
@@ -19,7 +42,7 @@ src :@IranintlTV
 
 
 src :@BellumActaNews
-‏🇮🇷📉❗️ — Power down in Bandar Abbas following USAF bombings
+‏🇮🇷⚡️📉❗️ — Power down in Bandar Abbas following USAF bombings
 ‏
 ‏@BellumActaNews
 03:40
@@ -104,7 +127,10 @@ src :@naya_foriraq
 
 
 src :@VahidOnline
-‏پیام‌هایی دریافتی درباره مناطق مرکزی کشور:
+[عکس]
+‏عکس دریافتی با شرح: تفت در استان یزد
+‏
+‏پیام‌هایی دریافتی و تایید نشده درباره مناطق مرکزی کشور:
 ‏
 ‏ساعت ۳.۰۵ دقیقه شهرستان خنداب صدای انفجار خیلی بلند اومد
 ‏
@@ -122,6 +148,10 @@ src :@VahidOnline
 ‏
 ‏ساعت ۳.۳۰ دقیقه تفت صدای انفجار امد.
 ‏دکل تفتکوه رو منفجر کرد
+‏
+‏سلام ۳:۳۰ تفت استان یزد صدای انفجار مهیبی اومد که از خواب بیدار شدیم. از کوه های اطراف نور و گرد و غبار شدید بیرون آمده. 
+‏داخل شهر نبود
+‏
 ‏
 ‏بروجرد انگار زدن صدای انفجار اومد. دو انفجار پیاپی
 ‏
@@ -556,6 +586,7 @@ src :@Navy_Iranian
 
 
 src :@wfwitness
+[عکس]
 ‏⚡️🇺🇸🇮🇷 NYT: Iran rejected a ceasefire proposal from U.S. President Trump delivered to Tehran by Iraqi Prime Minister Ali al-Zaidi, according to Iranian and Iraqi officials.
 ‏
 ‏The proposal was reportedly presented during al-Zaidi’s visit to Tehran, where he met with President Masoud Pezeshkian, Foreign Minister Abbas Araghchi, and senior Iranian officials. 
@@ -604,6 +635,21 @@ src :@World_Newsly
 ‏
 ‏✍🏻 SLXUGHTER
 ‏▪️@World_Newsly
+03:14
+1405/05/02
+
+
+
+
+src :@mamlekate
+[عکس]
+‏📝 اهواز ساعت ۲:۲۰ سمت کیانشهر به طور وحشتناکی صدا انفجار اومد. حداقل ۲۰ تا انفجار پشت سرهم و بدون وقفه. الان هم ساعت ۳:۱۵ هنوزم داره میزنه ولی الان با فاصله شده
+‏
+‏
+‏📝 ساعت ۳.۰۵ دقیقه شهرستان خنداب صدای انفجار خیلی بلند اومد
+‏
+‏
+‏@mamlekate
 03:14
 1405/05/02
 
@@ -1123,15 +1169,6 @@ src :@Shin_Persian
 ‏https://x.com/CENTCOM/status/2080431218449911850
 ‏
 ‏𝕏  ·  @shin_persian
-02:44
-1405/05/02
-
-
-
-
-src :@naya_foriraq
-‏بيان للجيش الامريكي: 
-‏بدأت القوات الأمريكية ليلة أخرى من الضربات ضد أهداف عسكرية إيرانية في الساعة 6:45 مساءً بتوقيت شرق الولايات المتحدة، وهي الليلة الثالثة عشرة على التوالي التي تهدف إلى محاسبة إيران والحد من تهديدات الحرس الثوري الإيراني للشحن التجاري.
 02:44
 1405/05/02
 
@@ -6437,17 +6474,6 @@ src :@selena_updates
 [عکس]
 ‏U.S. President Donald Trump said he is deeply disappointed with the Houthis and warned that the United States will respond by striking Iran if the group continues targeting Saudi vessels.
 17:30
-1405/05/01
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇮🇱🇺🇸🇹🇷⚡️ — Israel is considering the purchase of Boeing P-8A Poseidon basic patrol aircraft to counter Turkey's growing submarine fleet. - Jerusalem Post.
-‏
-‏@IntelSlava
-17:28
 1405/05/01
 
 
