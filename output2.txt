@@ -1,3 +1,117 @@
+src :@MilitarryWorld
+‏🔴سیریک هدف قرار گرفت
+‏
+‏@MilitarryWorld | Parsa
+01:17
+1405/05/03
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🔴امشب وضعیت نسبتاً آرام است. یک فروند هواپیمای E-11A در حال آماده شدن برای برخاستن از عربستان سعودی است، هیچ هواپیمای آواکس (AWACS) در آسمان مشاهده نمی‌شود و تنها چند فروند هواپیمای سوخت‌رسان فعال هستند. در همین حال، روند انتقال هواپیماهای ترابری از ایالات متحده به پایگاه‌های نظامی در منطقه همچنان ادامه دارد.
+‏
+‏@mwarmonitor
+01:16
+1405/05/03
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — Explosion in Sirik, Iranian territory along the Strait of Hormuz.
+01:15
+1405/05/03
+
+
+
+
+src :@World_Newsly
+‏🔴ظاهرا خبری از انفجار و حمله نبوده، تو سلیمانیه زلزله اومده  ✍🏻 Desert Eagle ▪️@World_Newsly
+01:15
+1405/05/03
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 US military fires at ship attempting to bypass its blockade on Iranian ports.
+‏
+‏@BRICSNews
+01:15
+1405/05/03
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡- US airstrikes on the Chabahar-Konarak area, southeast Iran.
+01:14
+1405/05/03
+
+
+
+
+src :@cataphract1
+[عکس]
+‏⚜برخاستن ستون دود در بحرین.
+‏✒️#LT
+‏📃@Cataphract1
+01:14
+1405/05/03
+
+
+
+
+src :@World_Newsly
+‏🔴وضعیت در بحرین به حالت عادی بازگشت
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+01:14
+1405/05/03
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش انفجار در سیریک
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+01:14
+1405/05/03
+
+
+
+
+src :@wfwitness
+[عکس]
+‏Image showcases U.S. strikes targeting sirik
+01:13
+1405/05/03
+
+
+
+
+src :@Alibk3
+[عکس]
+‏دوي انفجار في سيريك الإيرانية
+01:13
+1405/05/03
+
+
+
+
+src :@World_Newsly
+‏🔴منابع عراقی خبر از شنیده شدن صدای انفجار در سلیمانیه عراق میدهند  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
+01:12
+1405/05/03
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇷❌🇺🇸🇧🇭 — Footage from Manama, Bahrain, shows an Iranian ballistic missile impact.
@@ -28,6 +142,8 @@ src :@wfwitness
 
 src :@rnintel
 ‏🇮🇷🇮🇶⚡- Explosions over Sulaymaniyeh Province, eastern Iraq's Kurdistan region.
+‏
+‏Correction: It was an earthquake.
 01:10
 1405/05/03
 
@@ -603,20 +719,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 فعالیت حداقل 6 سوخت رسان در منطقه
-‏
-‏فعال ترین پایگاه ها: العدید و پرنس سلطان
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-00:43
-1405/05/03
-
-
-
-
 src :@Alibk3
 ‏هجوم في البحرين
 00:43
@@ -793,17 +895,6 @@ src :@naya_foriraq
 
 
 
-src :@World_Newsly
-‏🔴آژیر های خطر در بحرین فعال شدند و پدافند در حال رهگیری میباشد
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-00:38
-1405/05/03
-
-
-
-
 src :@P_raetorio
 ‏#فوری 
 ‏
@@ -811,25 +902,6 @@ src :@P_raetorio
 ‏
 ‏
 ‏@P_raetorio
-00:37
-1405/05/03
-
-
-
-
-src :@World_Newsly
-‏🔴 بحرین انفجار  ✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧 ▪️ @World_Newsly
-00:37
-1405/05/03
-
-
-
-
-src :@World_Newsly
-‏🔴انفجار در کنارک
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 00:37
 1405/05/03
 
@@ -1246,14 +1318,6 @@ src :@tabzlive
 ‏
 ‏إذا كنت تقيم في أي مكان في غرب آسيا متأثر بالحرب التي استؤنفت، فلا تتردد في إرسال آخر المستجدات الميدانية ومقاطع الفيديو أو الصور من منطقتك عبر رسائل القناة الموجودة في الزاوية السفلية اليسرى من شاشتك. ستساعد صورك ومقاطع الفيديو الخاصة بك Tabz كثيرًا، وستظل هويتك مجهولة دائمًا، وسنطلب إذنك دائمًا قبل نشر أي شيء. كما سنمتنع عن نشر أي شيء تطلب منا عدم نشره. شكرًا لدعمك لـ Tabz!
 00:15
-1405/05/03
-
-
-
-
-src :@Alibk3
-‏عدوان سعودي بسلسلة غارات استهدف منشآت تابعة لمؤسسة الاتصالات بمدينة الحديدة.  وإصابة امرأة في العدوان على جزيرة كمران.
-00:10
 1405/05/03
 
 
@@ -2423,14 +2487,6 @@ src :@intelslava
 
 
 
-src :@rnintel
-‏🇾🇪⚡- Explosions heard in al-Hodeidah, Ansarullah-controlled western Yemen.
-23:20
-1405/05/02
-
-
-
-
 src :@MilitarryWorld
 ‏🔴ترامپ: 
 ‏
@@ -3018,16 +3074,6 @@ src :@Indypersian
 ‏🖌 مختار وفایی
 ‏@indypersian
 22:44
-1405/05/02
-
-
-
-
-src :@MilitarryWorld
-‏🔴سفارت آمریکا در اورشلیم از شهروندان خود می‌خواهد تا برای پناهگاه آماده شوند و مواد غذایی و دارو را انبار کنند
-‏
-‏@MilitarryWorld | Parsa
-22:43
 1405/05/02
 
 
@@ -3984,14 +4030,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 21:01
-1405/05/02
-
-
-
-
-src :@mwarmonitor
-‏اکبر عبدی مرد
-21:00
 1405/05/02
 
 
@@ -5218,17 +5256,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 18:51
-1405/05/02
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷/🇷🇺/🇨🇳 NEW: In a post on Truth Social, President Trump says that Russia and China are not helping Iran, because Putin and Xi promised him that they would not
-‏
-‏@Middle_East_Spectator
-18:49
 1405/05/02
 
 
@@ -6944,16 +6971,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 06:32
-1405/05/02
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US President Trump has lost faith in diplomacy and is in "revenge mode" against Iran, WSJ reports.
-‏
-‏@BRICSNews
-06:23
 1405/05/02
 
 
