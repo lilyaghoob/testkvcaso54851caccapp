@@ -1,3 +1,24 @@
+src :@P_raetorio
+‏#فوری
+‏وزارت امور خارجه جمهوری فدرال آلمان از تمام شهروندان این کشور خواست که فورا ایران را ترک کنند.
+‏
+‏ @P_raetorio
+15:00
+1405/05/02
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🇧🇭بحرین: ما مورد حملات ایران قرار گرفته‌ایم و از همه درخواست می‌کنیم که احتیاط لازم را به عمل آورند و از نزدیک شدن به هرگونه شیء نامشخص یا مشکوک خودداری کنند.
+‏
+‏🆔️‌‌@WAR_ROOM_NEWS
+15:00
+1405/05/02
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴توییت حساب وزارت خارجه آمریکا: سر در برابر چشم
@@ -2378,16 +2399,6 @@ src :@naya_foriraq
 src :@Alibk3
 [عکس]
 ‏تم رصد واعتراض صاروخ كروز أميركي وإسقاطه في أجواء قضاء كهنوج بمحافظة كرمان
-11:52
-1405/05/02
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🇺🇸🇮🇷🇪🇺 داده‌های ردیابی پرواز نشان می‌دهد که در ۲۴ ساعت گذشته از ماه مارس، شاهد افزایش چشمگیری در تعداد هواپیماهای C-17 Globemaster III و C-5M Super Galaxy متعلق به ایالات متحده بوده‌ایم که از پایگاه‌های مستقر در اروپا به سمت خاورمیانه پرواز می‌کنند.
-‏
-‏🆔️‌‌@WAR_ROOM_NEWS
 11:52
 1405/05/02
 
@@ -6680,29 +6691,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/01/405470/
 15:21
-1405/05/01
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏A Russian Su-57 Multirole Fighter crashed during a training flight. The pilot successfully ejected, and no injuries were reported.
-‏
-‏Russia's Investigative Committee has opened a criminal investigation into possible violations of flight rules or pre-flight preparation procedures.
-15:00
-1405/05/01
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏🐉Game of Thrones • 2011
-‏#دیالوگ 
-‏
-‏🎓#FACT
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-14:57
 1405/05/01
