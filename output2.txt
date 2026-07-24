@@ -1,7 +1,94 @@
+src :@OSINTWarfare
+‏Reports of an explosion at the port of Konarak in Sistan and Baluchestan Province, southeastern Iran.
+03:58
+1405/05/02
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏The U.S. Air Force (USAF) conducted airstrikes on Yazd in central Iran.
+03:57
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴فعالیت پدافند شرق تهران  ‌✍🏻 SLXUGHTER ▪️@World_Newsly
+03:55
+1405/05/02
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏خبرگزاری دانشجو به نقل از معاون سیاسی، امنیتی و اجتماعی استاندار هرمزگان گزارش داد ارتش آمریکا دقایقی پیش محله تپه‌الله‌اکبر بندرعباس را هدف قرار داد.
+‏
+‏به گفته معاون سیاسی، امنیتی و اجتماعی استاندار هرمزگان، تاکنون دو نفر در این حمله مجروح شده‌اند و دستگاه‌های امدادی و خدمات‌رسان در محل حادثه حضور دارند.
+‏https://iranintl.com/202607238814
+03:55
+1405/05/02
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇺🇸🇺🇸❌🇮🇷 — United States Air Force bombed military positions in Yazd, Central Iran
+‏
+‏@BellumActaNews
+03:55
+1405/05/02
+
+
+
+
+src :@BellumActaNews
+‏🇺🇸🇺🇸❌🇮🇷 — Iranian Anti-Air Artillery activity over Tehran.
+‏
+‏@BellumActaNews
+03:54
+1405/05/02
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش تأییدنشده از هدف قرار گرفتن تفت یزد در دقایقی پیش.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+03:53
+1405/05/02
+
+
+
+
+src :@MilitarryWorld
+‏🔴فوری/ فعالیت پدافند در مناطقی از شرق تهران
+‏
+‏@MilitarryWorld | Parsa
+03:53
+1405/05/02
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏غارات أميركية عنيفة تستهدف تفت في يزد.
 03:52
+1405/05/02
+
+
+
+
+src :@naya_foriraq
+‏تفعيل الدفاعات الجوية في شرق العاصمة الإيرانية طهران.
+03:51
 1405/05/02
 
 
@@ -88,6 +175,7 @@ src :@VahidOnline
 ‏پدافند پردیس فعال شده.
 ‏
 ‏شرق تهران صدای پدافند
+‏
 ‏[+ پیام‌های دیگری که با تفکیک اسم محلات مختلف شرق و شمال شرق تهران دارند فرستاده میشن و دیگه نقل نمی‌کنم چون همین محتواست که هی داره تکرار میشه.]
 ‏📡 @VahidOnline
 03:50
@@ -823,6 +911,8 @@ src :@mamlekate
 ‏
 ‏📝 پدافند شهرک‌ محلاتی شروع کردن زدن ۰۳:۵۰
 ‏
+‏📝 شرق تهران (پیروزی) هم پدافند شروع کرد ۰۳:۵۶
+‏
 ‏@mamlekate
 03:14
 1405/05/02
@@ -847,37 +937,6 @@ src :@IranintlTV
 ‏حدود ۲۰ دقیقه بعد، ساکنان بندرعباس از شنیده شدن چندین انفجار در این شهر نیز خبر دادند. به گفته شاهدان، انفجارها از حدود ساعت ۲:۴۱ آغاز شد و چندین موج انفجار پیاپی در غرب بندرعباس احساس شد. برخی نیز از لرزش ساختمان‌ها و قطع برق در بخشی از شهر خبر داده‌اند.
 ‏https://iranintl.com/202607237757
 03:14
-1405/05/02
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 گزارش‌ها: تمرکز بخش عمده حملات آمریکا بر اطراف اهواز است
-‏
-‏بر اساس گزارش‌های منتشرشده، تاکنون تنها دو منطقه در ایران، اهواز و بندرعباس، هدف حملات منتسب به نیروهای آمریکایی قرار گرفته‌اند؛ دو شهری که حدود ۹۷۵ کیلومتر از یکدیگر فاصله دارند.
-‏
-‏گفته می‌شود بخش عمده حملات و چندین موج انفجار در اطراف اهواز متمرکز بوده است.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-03:13
-1405/05/02
-
-
-
-
-src :@World_Newsly
-‏🔴 ایرنا: در حمله جدید منتسب به آمریکا به بندرعباس، دو نفر زخمی شده‌اند
-‏
-‏خبرگزاری دولتی ایرنا گزارش داد که در جریان حمله جدید منتسب به نیروهای آمریکایی به بندرعباس، تاکنون دو نفر زخمی شده‌اند.
-‏
-‏این گزارش در حال حاضر به‌طور مستقل تأیید نشده و جزئیات بیشتری درباره هویت مجروحان یا محل دقیق وقوع حادثه منتشر نشده است.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-03:13
 1405/05/02
 
 
@@ -2152,18 +2211,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[عکس]
-‏العربیه به نقل از مهند مبیضین، وزیر اطلاع‌رسانی پیشین اردن، گزارش داد هدف قرار گرفتن کشورهای عربی از خاک عراق ناشی از آن است که دولت عراق حاکمیت کامل بر قلمرو خود ندارد و کنترل گروه‌های شبه‌نظامی را که به گفته او با دستور تهران فعالیت می‌کنند، در اختیار ندارد.
-‏
-‏او همچنین گفت گروه‌های مورد حمایت جمهوری اسلامی در مرز اردن تجمع کرده بودند تا به گفته او برای حمایت از غزه از طریق اردن وارد عمل شوند، در حالی که مسیر جنوب لبنان باز بوده است.
-‏https://iranintl.com/202607235461
-01:23
-1405/05/02
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🚨به احتمال زیاد، بمب‌افکن‌های B-1B آمریکا هم‌اکنون در مسیر ایران هستند؛ همچنین بار دیگر هواپیماهای سوخت‌رسان از رومانی مشاهده شده‌اند.
@@ -2248,17 +2295,6 @@ src :@GeoPWatch
 ‏🇺🇸🛬🇶🇦 - For the last 3 days C-17s have been arriving at Al Udeid AB and departing quickly within a few hours. The base is still getting re-supplied and is clearly highly active.
 ‏
 ‏@GeoPWatch
-01:06
-1405/05/02
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴فارس: گزارش ها از رهگیری یک فروند موشک تاماهاوک در آسمان استان کرمان 
-‏
-‏@MilitarryWorld | Maverick
 01:06
 1405/05/02
 
@@ -2773,25 +2809,6 @@ src :@cataphract1
 
 src :@VahidOnline
 ‏Vahid Online وحید آنلاین pinned «⚠️تبلیغات خطرناک فیلترشکن⚠️  من  فیلترشکن و VPN تبلیغ نمی‌کنم. کلا هیچ تبلیغاتی انجام نمی‌دم. تبلیغاتی که اینجا دیده میشن به خود تلگرام سفارش داده میشن و من ازشون بی‌خبر هستم.  به نظر میاد همه تبلیغات هم کلاهبرداری باشند به ویژه اگر درباره فیلترشکن و فعالیت…»
-00:15
-1405/05/02
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇮🇷❌🇬🇧 — Head of the Islamic Republic of Iran's parliament's National Security Commission, Ebrahim Azizi on X issues a warning to Great Britain:
-‏
-‏The era of Sykes–Picot is long over.
-‏
-‏The day is not far when you will lose Diego Garcia, like your other colonies.
-‏
-‏The UK would be wise to reflect on the fragility of its own borders and to recognize that Iran’s capabilities extend far beyond military options.
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
 00:15
 1405/05/02
 
