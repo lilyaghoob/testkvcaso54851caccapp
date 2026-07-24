@@ -1,3 +1,76 @@
+src :@Mena_Live
+‏A large comet was observed over central Netherlands, specifically between Amsterdam and Utrecht, traveling eastward.  @Mena_Live
+02:16
+1405/05/03
+
+
+
+
+src :@rnintel
+‏🇾🇪🇸🇦 - Saudi and anti-Ansarullah Yemeni media are likely to blame the Aden-based government for the attacks on al-Hodeidah.  A similar narrative emerged following the strike on Sana'a International Airport, when responsibility was also attributed to Aden,…
+02:16
+1405/05/03
+
+
+
+
+src :@MilitarryWorld
+‏🔴سی‌ان‌ان:
+‏
+‏ترکیه در حال ارسال تجهیزات سنگین نظامی به سوریه برای آمادگی حکومت احمد الشرع برای مقابله با حزب الله است
+‏
+‏@MilitarryWorld | Parsa
+02:14
+1405/05/03
+
+
+
+
+src :@Alibk3
+[عکس]
+‏نيويورك بوست:
+‏
+‏السفن العابرة لمضيق هرمز تختنق وتلتزم الساحل الإيراني لتجنب غضب طهران.
+‏
+‏شهدت حركة الشحن التجاري عبر مضيق هرمز تباطؤًا حادًا منذ أن استأنفت الولايات المتحدة غاراتها على إيران قبل أسبوعين، حيث انخفضت حركة الملاحة إلى مستويات لم تشهدها منذ ذروة الصراع، وذلك مع ارتفاع تكاليف التأمين وتزايد المخاطر الأمنية.
+02:14
+1405/05/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴فاکس نیوز: جی دی ونس امروز در جلسه شورای امنیت ملی در کاخ سفید شرکت نکرد!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+02:14
+1405/05/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 مهدی عبداللهی پس از ۲۱ روز ربوده شدن توسط افراد مسلح در زابل کشته شد.
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+02:14
+1405/05/03
+
+
+
+
+src :@World_Newsly
+‏🔴 کانال 12 اسرائیل : شرکت های هواپیمایی اتریشی و شرکت لوفت هانزا پروازهای صبح خودشون به اسرائیل رو به دلیل تشدید تنش احتمالی با ایران لغو کردن.  ✍🏻 Nadershah ▪️@World_Newsly
+02:12
+1405/05/03
+
+
+
+
 src :@naya_foriraq
 ‏🇺🇸 إعلام أمريكي : ‏بينما تعود الولايات المتحدة وإيران إلى وتيرة يومية من الهجمات في جميع أنحاء الشرق الأوسط، يعيش مئات الدبلوماسيين الأمريكيين وعائلاتهم في حالة من عدم اليقين، غير متأكدين متى - أو حتى ما إذا كانوا - سيعودون إلى منازلهم ومدارسهم.
 02:11
@@ -544,30 +617,8 @@ src :@intelslava
 
 
 
-src :@World_Newsly
-‏🔴صدای بسیار شدید پرواز جنگنده ، شهر مراغه
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-01:27
-1405/05/03
-
-
-
-
 src :@tabzlive
 ‏🇮🇷🇺🇸⚡️ — The U.S. military fired two missiles at an LPG tanker approaching the Strait of Hormuz from the Gulf of Oman earlier today after "mistakenly identifying it as carrying Iranian gas," according to IRIB.  ➡️ The strike killed two crew members and damaged…
-01:25
-1405/05/03
-
-
-
-
-src :@World_Newsly
-‏🔴المیادین: واشینگتن از کرد های عراق خواسته زمینی وارد ایران شوند، ولی حکومت ایران به اربیل هشدار داده اینکار باعث گستردگی درگیری با کردستان عراق می شود
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 01:25
 1405/05/03
 
@@ -609,17 +660,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 01:22
-1405/05/03
-
-
-
-
-src :@World_Newsly
-‏🔴صدای جنگنده ها بر فراز اربیل عراق
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-01:21
 1405/05/03
 
 
@@ -1230,15 +1270,6 @@ src :@tglobaleye
 ‏#BREAKING | 🇺🇸 🇮🇷 — U.S. airstrikes reported in Chabahar, Konarak, Sistan and Balochestan, southeastern Iran.
 ‏
 ‏The Global Eye | Subscribe
-00:42
-1405/05/03
-
-
-
-
-src :@Alibk3
-[عکس]
-‏شركة الطيران الإيطالية تلغي رحلاتها المقررة غدًا إلى الكيان.
 00:42
 1405/05/03
 
@@ -2589,14 +2620,6 @@ src :@jangaavaran1390
 
 src :@jangaavaran1390
 ‏ترامپ درباره ایران: «هنوز مذاکره می‌کنیم، اما آماده اقدام نظامی هستیم»   دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی درباره ایران گفت که تهران خواهان توافق است، اما گاهی برای نشان دادن قدرت خود وانمود می‌کند که تمایلی به مذاکره ندارد.  ترامپ گفت:  «آن‌ها…
-23:29
-1405/05/02
-
-
-
-
-src :@rnintel
-‏🇾🇪⚡- Explosions heard in al-Hodeidah, Ansarullah-controlled western Yemen.
 23:29
 1405/05/02
 
@@ -7160,26 +7183,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 02:27
-1405/05/02
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 شبکه ۱۲ اسرائیل: مقامات آمریکایی به همتایان خود در اسرائیل، آماده‌ باش ابلاغ کردند.
-‏
-‏🔹 پ.ن: در جریان جنگ ۱۲ و ۴۰ روزه اسرائیل ۲۴ ساعت قبل از شروع جنگ درب پناهگاه های خود را باز کرده بود؛ ساعاتی پیش مجددا پناهگاه های اسرائیل بازگشایی شد.
-‏
-‏#اسرائیل
-‏
-‏@RASTAKHIZ_PERSIAN
-02:15
-1405/05/02
-
-
-
-
-src :@Navy_Iranian
-‏ترامپ :   از این به بعد هر موقع ایران یک نفتکش را در تنگه هرمز مورد حمله قرار دهد یک پل یا یک نیروگاه در ایران مورد حمله قرار میگیرد    ⚓️ @Navy_Iranian | #a_m
-02:11
 1405/05/02
