@@ -1,3 +1,11 @@
+src :@WAR_ROOM_NEWS
+‏ترامپ: "ایران‌ها خواهان یک توافق هستند، و من آماده هستم به حرف‌هایشان گوش کنم."
+09:10
+1405/05/03
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 سنت‌کام امشب هیچ حمله‌ای علیه ایران انجام نداد، احتمالاً به دلیل شام انجمن خبرنگاران کاخ سفید و سخنرانی ترامپ در آنجا بود.
@@ -15,21 +23,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 09:03
-1405/05/03
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏صبح همگی بخیر
-‏
-‏تصویری از هواگرد تحقیقاتی YF 118 بوئینگ 
-‏
-‏
-‏
-‏@PARVAZDAROJ|M.S
-09:02
 1405/05/03
 
 
@@ -941,19 +934,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴 به صدا درآمدن آژیرهای هشدار حمله هوایی در ینبع عربستان سعودی
-‏
-‏گزارش‌های اولیه حاکی از به صدا درآمدن آژیرهای هشدار حمله هوایی در شهر ینبع، واقع در غرب عربستان سعودی، است.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-06:43
-1405/05/03
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇻🇪🇺🇳⚡️ — Venezuela has formally notified the UN of its "irrevocable" decision to withdraw from the International Criminal Court (ICC), ending its participation while the court continues a yearslong investigation into alleged crimes involving members of the country's armed forces and other officials.
@@ -1201,14 +1181,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔️‌@WAR_ROOM_NEWS
 06:34
-1405/05/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ترامپ درباره ایران:وقتی در حال پیروزی در یک جنگ هستید، قرار است چه کار کنید؟ بجنگیدن را متوقف کنید؟ما با اختلاف زیادی در حال پیروزی در این جنگ هستیم. ما در حال حاضر با آنها در گفتگو هستیم و آنها حاضرند کارهایی را انجام دهند که هرگز فکرش را هم نمی‌کردند.  🆔@WAR_ROOM_NEWS
-06:33
 1405/05/03
 
 
@@ -2152,18 +2124,6 @@ src :@MilitarryWorld
 src :@intelslava
 ‏🇬🇧An explosion has struck an industrial park in Essex, practically destroying it.
 02:10
-1405/05/03
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏یک مقام آمریکایی اعلام کرد که ارتش ایالات متحده به یک نفتکش که درصدد عبور از خط محاصره بنادر ایران بود، شلیک کرد و آن را از کار انداخت.
-‏
-‏به گزارش خبرگزاری رویترز، این مقام که خواست نامش فاش نشود، گفت که نیروهای آمریکایی روز جمعه پس از تلاش کشتی «ام‌تی لاوین» برای عبور از محاصره، آن را در خلیج عمان از کار انداختند.
-‏https://iranintl.com/202607248615
-02:09
 1405/05/03
 
 
