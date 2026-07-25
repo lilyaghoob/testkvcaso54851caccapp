@@ -1,7 +1,76 @@
+src :@naya_foriraq
+‏هجوم صاروخي يستهدف مدينة جازان السعودية
+05:05
+1405/05/03
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇸🇦/🇾🇪 BREAKING: At least 5 ballistic missiles targeted the ARAMCO oil terminal at Jazan Port, KSA
+‏
+‏@Middle_East_Spectator
+05:05
+1405/05/03
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — Explosions in Jizan, southwestern Saudi Arabia near the Saudi-Yemeni border.
+05:04
+1405/05/03
+
+
+
+
+src :@World_Newsly
+‏🔴 گزارش‌های اولیه از وقوع انفجار در جیزان عربستان
+‏
+‏گزارش‌های اولیه حاکی از وقوع یک انفجار در شهر جیزان در جنوب عربستان سعودی است.
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+05:04
+1405/05/03
+
+
+
+
+src :@naya_foriraq
+‏انباء عن انفجارات في مدينة جازان السعودية.
+05:03
+1405/05/03
+
+
+
+
 src :@Middle_East_Spectator
 ‏—❗️🇸🇦/🇾🇪 BREAKING: Yemen has launched drones at Abha International Airport and Jazan Port in Saudi Arabia
 ‏
 ‏@Middle_East_Spectator
+05:03
+1405/05/03
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇾🇪❌🇸🇦 — Ansarallah ballistic missile launches towards the Abha International Airport.
+05:03
+1405/05/03
+
+
+
+
+src :@intelslava
+‏🇮🇱⚡️ — The office of the Prime Minister of Israel:
+‏
+‏At the invitation of President Trump, Prime Minister Benjamin Netanyahu will fly to Washington on Tuesday for an official visit.
+‏As part of the visit, the Prime Minister will meet with President Trump on Tuesday at the White House and will participate in the funeral ceremony of Senator Lindsey Graham, a friend of Israel.
+‏
+‏@IntelSlava
 05:03
 1405/05/03
 
@@ -36,7 +105,7 @@ src :@tabzlive
 
 
 src :@Alibk3
-‏أنباء عن دوي انفجار في جيزان السعودية.
+‏أنباء عن دوي انفجار في جازان السعودية.
 05:01
 1405/05/03
 
@@ -52,18 +121,8 @@ src :@naya_foriraq
 
 
 src :@Middle_East_Spectator
-‏— NOTE: Yemen has not launched any ballistic missiles or drones against Saudi Arabia, these reports are false.  @Middle_East_Spectator
+‏NOW possible launches from Yemen.
 05:00
-1405/05/03
-
-
-
-
-src :@Middle_East_Spectator
-‏— NOTE: Yemen has not launched any ballistic missiles or drones against Saudi Arabia, these reports are false.
-‏
-‏@Middle_East_Spectator
-04:55
 1405/05/03
 
 
@@ -726,19 +785,6 @@ src :@intelslava
 
 
 
-src :@World_Newsly
-‏🔴 گزارش‌ها از پرواز جنگنده‌ها بر فراز آسمان کویت
-‏
-‏گزارش‌های اولیه حاکی از پرواز جنگنده‌های نظامی بر فراز آسمان کویت است.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
-02:39
-1405/05/03
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴کاروان های ارتش عراق برای درگیری با نیابتی ها ( حشدالشعبی ) اعزام شدن
@@ -754,21 +800,6 @@ src :@GeoPWatch
 ‏🇰🇼🛩 - Fighter Jet Activity over Kuwait.
 ‏
 ‏@GeoPWatch
-02:39
-1405/05/03
-
-
-
-
-src :@World_Newsly
-‏🔴 رسانه آمریکایی: دیپلمات‌های آمریکا در خاورمیانه در بلاتکلیفی به سر می‌برند
-‏
-‏یک رسانه آمریکایی گزارش داد که هم‌زمان با بازگشت ایالات متحده و ایران به چرخه روزانه حملات در سراسر خاورمیانه، صدها دیپلمات آمریکایی و اعضای خانواده‌هایشان در وضعیت بلاتکلیفی قرار دارند.
-‏
-‏بر اساس این گزارش، این افراد نمی‌دانند چه زمانی، یا حتی آیا اصلاً، خواهند توانست به خانه‌ها و مدارس خود بازگردند.
-‏
-‏✍🏻 north vector
-‏▪️ @World_Newsly
 02:39
 1405/05/03
 
@@ -1489,14 +1520,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Explosion in Sirik, Iranian territory along the Strait of Hormuz.
-01:15
-1405/05/03
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US military fires at ship attempting to bypass its blockade on Iranian ports.
 ‏
@@ -1546,15 +1569,6 @@ src :@Alibk3
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷❌🇺🇸🇧🇭 — Footage from Manama, Bahrain, shows an Iranian ballistic missile impact.
-01:11
-1405/05/03
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇶🇹🇷 Reports of explosions in Sulaymaniyah are false, it was an earthquake.
 ‏
@@ -1587,14 +1601,6 @@ src :@GeoPWatch
 
 src :@naya_foriraq
 ‏هزة أرضية شعر بها سكان محافظة السليمانية شمالي العراق
-01:09
-1405/05/03
-
-
-
-
-src :@tabzlive
-‏🇧🇭⚡️ — All clear in Bahrain.
 01:09
 1405/05/03
 
@@ -2531,16 +2537,6 @@ src :@jangaavaran1390
 src :@OSINTWarfare
 ‏Reports of Royal Saudi Air Force (RSAF) airstrikes targeting Yemen's Kamaran Island.
 23:57
-1405/05/02
-
-
-
-
-src :@intelslava
-‏🇸🇦🚫🇾🇪🇾🇪 — Reports of Royal Saudi Air Force (RSAF) airstrikes targeting the Yemeni island of Kamaran.
-‏
-‏@IntelSlava
-23:56
 1405/05/02
 
 
