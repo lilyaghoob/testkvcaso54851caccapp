@@ -1,3 +1,47 @@
+src :@bricsnews
+‏JUST IN: 🇮🇳 India's Education Minister Dharmendra Pradhan officially resigns following major student protests.
+‏
+‏@BRICSNews
+13:06
+1405/05/03
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏شرکت «بی‌ای‌ئی سیستمز» (BAE Systems) قرارداد تأمین توپ دریایی 40Mk4 را از برزیل دریافت کرد
+‏
+‏@artemis_force
+13:05
+1405/05/03
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇺🇸🇯🇴 Satellite images released by the IRGC appear to show the complete destruction of a US military special forces ammunition storage facility at King Faisal Air Base in Jordan.
+‏
+‏@wfwitness
+13:03
+1405/05/03
+
+
+
+
+src :@jangaavaran1390
+‏روسیه گردشگران خارجی را برای جنگ در اوکراین به خدمت می‌گیرد
+‏
+‏رسانه های اوکراینی  مدعی شده است که روسیه از یک روش جدید برای جذب نیروی انسانی استفاده می‌کند؛ به این صورت که برخی اتباع خارجی با وعده کار یا سفر وارد روسیه شده، اما پس از ضبط مدارک هویتی، در برابر انتخابی اجباری قرار می‌گیرند: پیوستن به ارتش یا ناتوانی در بازگشت به کشورشان.
+‏
+‏بر اساس این گزارش، این افراد عمدتاً از کشورهای در حال توسعه هستند و پس از امضای قرارداد، به مناطق جنگی در اوکراین اعزام می‌شوند. همچنین ادعا شده که برخی از این نیروها بدون اطلاع کامل از ماهیت مأموریت خود، وارد چرخه جذب شده‌اند.
+13:03
+1405/05/03
+
+
+
+
 src :@Parvazdaroj
 [عکس]
 ‏لهستان و اوکراین درباره تبادل جنگنده‌های میگ-29 به ازای پهپادها گفتگو می‌کنند.
@@ -1666,27 +1710,6 @@ src :@samueltarikh
 
 
 
-src :@IranintlTV
-[عکس]
-‏محمد عبدالسلام، سخنگوی حوثی‌ها، در بیانیه‌ای پس از حمله به فرودگاه بین‌المللی صنعا، عربستان سعودی را به ادامه محاصره یمن متهم کرد و گفت این حمله نشان داد که بازگشایی این فرودگاه همچنان به تصمیم مقام‌های سعودی وابسته است.
-‏
-‏او همچنین اظهار داشت که عربستان سعودی با وجود انتشار بیانیه‌هایی درباره دفاع از حاکمیت یمن، در عمل همان روشی را در پیش گرفته که به گفته او اسرائیل در جنگ‌های خود به کار می‌گیرد.
-‏
-‏عبدالسلام، ریاض را به دروغ‌گویی، خودبرتربینی، دشمنی و اقدام‌های تهاجمی متهم کرد.
-‏
-‏او گفت محاصره یمن با حمایت عربستان سعودی ادامه دارد و این کشور پس از ناکامی در جنگ هشت‌ساله، اکنون تلاش می‌کند از طریق فشار اقتصادی به اهداف خود برسد.
-‏
-‏سخن‌گوی حوثی‌ها هشدار داد که عربستان سعودی با محاسبه نادرست، خود را به دشمن آشکار یمن تبدیل کرده است و ادامه این رویکرد می‌تواند برای امنیت و اقتصاد این کشور پیامدهای جدی داشته باشد.
-‏
-‏او همچنین گفت محاصره دریایی تنها نخستین گام در رویارویی میان محاصره و مقابله‌به‌مثل است و مردم یمن برای دستیابی به حقوق خود از هر ابزاری که لازم بدانند استفاده خواهند کرد.
-‏
-‏https://iranintl.com/2026072554
-10:05
-1405/05/03
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏در رابطه با وضعیت خانواده فریگیت های F110
@@ -3286,16 +3309,6 @@ src :@Mena_Live
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli artillery bombardment targeted the Ali al-Taher heights and Nabatieh Al-Fawqa in southern Lebanon.
-‏
-‏@wfwitness
-02:47
-1405/05/03
-
-
-
-
 src :@GeoPWatch
 ‏🇰🇼🛩 - Fighter Jet Activity over Kuwait.
 ‏
@@ -3481,17 +3494,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 01:38
-1405/05/03
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇹🇮🇱 ITA airways has cancelled all flights to Tel Aviv.
-‏
-‏@wfwitness
-01:37
 1405/05/03
 
 
@@ -5573,14 +5575,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@defence_news
-‏اتحادیه اروپا انتشار برخی از تصاویر ماهواره‌ای را به مدت ۲۴ ساعت به تعویق انداخت، بنا به درخواست آمریکا، به دلیل نگرانی‌های امنیتی مبنی بر استفاده از این تصاویر در پایش زمین.
-19:47
-1405/05/02
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴معادله جدید؛ به ازای شهادت هر ایرانی، به درک واصل شدن یک نیروی آمریکایی
@@ -5592,18 +5586,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-19:46
-1405/05/02
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸⚠️ - The U.S. has issued a new travel alert for its citizens in the Middle East :
-‏Americans currently in the Middle East should exercise caution and heightened vigilance and should be prepared for flight cancellations, periodic airspace closures, and potential travel disruptions. Some airlines in the region have postponed resumption of earlier flight schedules; others have cancelled some routes. Americans should follow the latest guidance from the nearest U.S. embassy or consulate and can contact the U.S. Department of State to receive information or assistance.
-‏
-‏@GeoPWatch
 19:46
 1405/05/02
 
@@ -5803,14 +5785,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 18:55
-1405/05/02
-
-
-
-
-src :@Artemis_Force
-‏آخرین وضعیت شرح حملات هوایی ایالات متحده آمریکا به ایران  سیزدهمین روز، حملات متوالی ایالات متحده آمریکا سنتکام: نیروهای آمریکایی امروز ساعت ۶:۴۵ عصر به وقت شرق آمریکا [۲:۱۵ به وقت تهران]، دور دیگری از حملات شبانه به اهداف نظامی ایران را آغاز کردند. این سیزدهمین…
-18:53
 1405/05/02
 
 
@@ -6250,16 +6224,6 @@ src :@warmonitors
 
 
 
-src :@bricsnews
-‏JUST IN: 🇬🇧🇮🇷 UK says its armed forces are ready to defend the country after Iran issues warning over US bombers.
-‏
-‏@BRICSNews
-15:22
-1405/05/02
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏هدف بعدی یک لانچر احتمالا پدافندی نصب شده پشت یک پیکاپه 
@@ -6462,13 +6426,4 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews
 13:27
-1405/05/02
-
-
-
-
-src :@militaryinpersian
-[عکس]
-‏تکه ای با ارزش از کتابچه دستورالعمل های عملیاتی و پروازی از جنگنده اف-۲۲ رپتور
-13:02
 1405/05/02
