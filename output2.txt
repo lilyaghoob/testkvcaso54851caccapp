@@ -1,16 +1,60 @@
-src :@bricsnews
+src :@VahidOnline
 [عکس]
-‏JUST IN: 🇺🇸 President Trump says "In America, we do not yield to political violence."
+‏دونالد ترامپ رئیس‌جمهوری آمریکا، جمعه شب (۲ مرداد) در مراسم شام انجمن خبرنگاران کاخ سفید گفت: «الا که همه رسانه‌ها یکجا حضور دارند، باید بگویم دولت ما دستاوردهای فوق‌العاده‌ای داشته که رسانه‌ها هرگز درباره آن‌ها صحبت نمی‌کنند. برای مثال، در دوران دولت من، رژیمی که زمانی هراس‌انگیز و قدرتمند بود و بی‌وقفه به آمریکا حمله می‌کرد، سرانجام سرنگون شد. رهبران پیشین آن کنار گذاشته شده‌اند و اکنون یک دیکتاتور همجنس‌گرا اداره آن را بر عهده دارد که با اختلافات داخلی روبه‌رو است.» آقای ترامپ پیشتر گفته بود که سی‌آی‌ای گفته است مجتبی خامنه‌ای، رهبر سوم جمهوری اسلامی و پسر علی خامنه‌ای، همنجسگرا است.
+‏@VahidHeadline
 ‏
-‏@BRICSNews
-06:26
+‏📡 @VahidOnline
+06:32
 1405/05/03
 
 
 
 
 src :@WAR_ROOM_NEWS
-‏🇺🇸🇮🇷 ایالات متحده آمریکا، یک کشتی را در دریای عمان از کار انداخت. به گفته یک مقام آمریکایی، این کشتی قصد داشت محاصره دریایی که علیه ایران اعمال شده بود را نقض کند.این کشتی، پنجمین کشتی است که از زمان بازگشت این محاصره، از کار افتاده است.
+[عکس]
+‏وسط خبرها یه صبح بخیر هم بگیم خدمت همراهان گرامی ❤️
+06:31
+1405/05/03
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 تصویر اولیه از حمله به صنعا منتشر شد
+‏
+‏تصاویر اولیه منتسب به محل وقوع یک حمله در شهر صنعا، پایتخت یمن، منتشر شده است.
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+06:29
+1405/05/03
+
+
+
+
+src :@ClashReport
+[عکس]
+‏CENTCOM didn't launch any attacks on Iran tonight, possibly because of the WHCA dinner and Trump's speech there.
+06:28
+1405/05/03
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏خبرگزاری آسوشیتدپرس: ارتش آمریکا یک کشتی تجاری را در دریای عمان توقیف کرد
+06:26
+1405/05/03
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸 President Trump says "In America, we do not yield to political violence."
+‏
+‏@BRICSNews
 06:26
 1405/05/03
 
@@ -816,22 +860,6 @@ src :@Alibk3
 src :@Middle_East_Spectator
 ‏NOW possible launches from Yemen.
 05:00
-1405/05/03
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 حملات روسیه زنجیره لجستیک اوکراین را شعله‌ور کرد
-‏
-‏🔹️ انفجارها سومی را لرزاند و مقامات محلی از اصابت به یک جایگاه سوخت خبر دادند. آتش‌سوزی‌هایی نیز در زاپوروژیه و سومی تحت کنترل کی‌یف گزارش شد که ساختمان‌ها و انبارهای نووا پشتا در حال سوختن هستند.
-‏
-‏🔹️ پیش‌تر، نیروهای روسیه یک مرکز لجستیک نووا پشتا در اودسا را که برای ذخیره محموله‌های نظامی استفاده می‌شد، هدف قرار داده بودند.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-04:55
 1405/05/03
 
 
@@ -2274,18 +2302,6 @@ src :@Shin_Persian
 
 
 
-src :@BellumActaNews
-‏🇺🇸❌🚢❗️ — NOW: The U.S. struck a gas tanker, believing it to be carrying Iranian gas, and killed two crewmembers. The strike also disabled the ship.
-‏
-‏📰💬 The full statement by IRIB reads as follows:
-‏
-‏This afternoon, the U.S. military fired two missiles at an LPG tanker that was approaching the area from the Gulf of Oman. The tanker was struck because it was mistakenly believed to be carrying Iranian gas. The attack resulted in the deaths of two crew members and damage to the engine room, effectively stopping the ship.
-00:35
-1405/05/03
-
-
-
-
 src :@MilitarryWorld
 ‏🔴خبرگزاری مهر:
 ‏
@@ -2987,27 +3003,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:35
-1405/05/02
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴گزارش‌هایی مبنی بر حملات هوایی به شهر حدیده در یمن منتشر شده است
-23:33
-1405/05/02
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴حمله به نفتکش سعودی در دریای سرخ
-‏
-‏🛑منابع یمنی از هدف قرار گرفتن نفتکش سعودی NCC MASA در جریان عبور از دریای سرخ خبر دادند. بر اساس این گزارش‌ها، این نفتکش هنگام عبور از تنگه باب‌المندب هدف حمله قرار گرفت و دچار آسیب شد.در همین حال، مقام‌های سعودی اعلام کرده‌اند که این کشتی تنها دچار آسیب جزئی به بدنه شده، تمامی خدمه در سلامت هستند و پس از انجام بررسی‌های لازم، نفتکش به مسیر خود ادامه داده است.
-‏
-‏🆔@WAR_ROOM_NEWS
-23:33
 1405/05/02
 
 
