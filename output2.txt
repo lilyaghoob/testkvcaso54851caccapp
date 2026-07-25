@@ -1,3 +1,16 @@
+src :@World_Newsly
+‏🔴 گزارش‌های اولیه از حمله به خمیس مشیط در عربستان سعودی
+‏
+‏بر اساس گزارش‌های اولیه، شهر خمیس مشیط در جنوب غربی عربستان سعودی هم‌اکنون هدف حمله قرار گرفته است.
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+06:10
+1405/05/03
+
+
+
+
 src :@mohem_mat
 ‏در شب گذشته
 ‏
@@ -185,7 +198,7 @@ src :@jangaavaran1390
 
 
 src :@Middle_East_Spectator
-‏— 🇸🇦/🇾🇪 NEW: Saudi Arabia condemns the ‘unprovoked’ attack against its energy infrastructure
+‏— 🇸🇦/🇾🇪 NEW: Saudi Arabia condemns the ‘unprovoked’ attack
 ‏
 ‏@Middle_East_Spectator
 05:47
@@ -657,14 +670,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Flights inbound to the Abha International Airport are currently flying in a holding pattern due to incoming Ansarallah ballistic missiles.
-05:10
-1405/05/03
-
-
-
-
 src :@Alibk3
 ‏أنباء عن دوي انفجار في جازان السعودية.
 05:09
@@ -920,15 +925,6 @@ src :@intelslava
 
 
 
-src :@Alibk3
-[عکس]
-‏‏ عدة طائرات من طراز P8 الأميركية نشطة الآن قرب السواحل الإيرانية في الخليج الفارسي.
-04:02
-1405/05/03
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏#اینفوگرافیک_اختصاصی حمله بامداد شب گذشته ایالات متحده آمریکا در تاریخ 24 جولای مجموع 9 استان و 17 شهر مورد حمله قرار گرفتند. در کم ترین حالت 60 انفجار در سطح کشور گزارش شده است.
@@ -1064,15 +1060,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:13
-1405/05/03
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏Abbas Van Gogh
-03:12
 1405/05/03
 
 
@@ -4590,16 +4577,6 @@ src :@mohem_mat
 
 
 src :@BellumActaNews
-‏🇺🇸🇮🇷 — The Iranian General Staff (Khatam al‑Anbiya Central Headquarters) says it will kill one member of the U.S. military for every Iranian killed.
-‏
-‏@TheWarReporter
-20:28
-1405/05/02
-
-
-
-
-src :@BellumActaNews
 ‏🇦🇪🇰🇼🇧🇭🇮🇷 — Kuwaiti and Bahraini fighter jets conducted covert strikes inside Iran earlier this month — their first direct retaliation — targeting drone and missile depots. 
 ‏
 ‏The UAE provided intelligence and air cover.
@@ -5864,14 +5841,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 16:02
-1405/05/02
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 برخی از موشک‌هایی که در درگیری‌های اخیر از سوی ایران شلیک می‌شوند، قابلیت انجام مانور دارند. اما این مانور لزوما در تمامی مراحل طی کردن مسیر، میسر نیست. در فاز نهایی چنین قابلیتی وجود دارد.  🔹زدن چنین موشک‌هایی با توجه به سامانه‌های پدافندی فعلی که در فاز…
-15:56
 1405/05/02
 
 
