@@ -1,7 +1,71 @@
+src :@World_Newsly
+[عکس]
+‏🔴حمله توپخانه ای ارتش اسرائیل به تپه علی الطاهر در جنوب لبنان
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+16:40
+1405/05/03
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇫🇷⚡️- Despite an increase in humidity and decreased wind strength in the area, the fires have resumed a slow advance towards Bordeaux.
+16:39
+1405/05/03
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇨🇦🇨🇳🪖⚡️ — A Canadian woman of Chinese origin who was serving as an intern at NATO's military headquarters in Belgium has been arrested on suspicion of espionage, Belgian prosecutors said.
+‏
+‏➡️ The woman is suspected of spying on behalf of a third country and of participating in a criminal organization. Authorities did not identify the country or organization she is accused of working for.
+‏
+‏➡️ The suspect was an intern at NATO's Supreme Headquarters Allied Powers Europe (SHAPE) in Mons. Prosecutors said SHAPE's security services flagged her to Belgian intelligence, prompting an investigation.
+‏
+‏➡️ A SHAPE spokesperson said there was no indication the incident had affected NATO's operational readiness, command and control arrangements, or ongoing missions.
+16:39
+1405/05/03
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli artillery shelling targeted Markaba and Ali al-Taher Heights in southern Lebanon a few moments ago.
+16:38
+1405/05/03
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇾🇪🇸🇦 Houthis threaten to face Saudi Arabia with 'unwavering strength.'
+‏
+‏@BRICSNews
+16:38
+1405/05/03
+
+
+
+
 src :@Alibk3
 ‏يديعوت أحرونوت عن مصادر: 
 ‏
-‏إسرائيل كانت تعتقد أن الهجوم الأميركي على إيران سيُنفّذ الليلة الماضية لكنهم أدركوا مع مرور الوقت أن ترامب سيؤجل ذلك
+‏إسرائيل كانت تعتقد أن الهجوم الأميركي على إيران كان سيُنفّذ الليلة الماضية، لكنهم أدركوا مع مرور الوقت أن ترامب أجّل ذلك
+16:37
+1405/05/03
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli artillery shelling targeted the occupied town of Markaba within the security zone.  @wfwitness
 16:37
 1405/05/03
 
@@ -1390,18 +1454,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴المدن: کویت و بحرین از احمد الشرع خواستند تا در صورت وقوع درگیری زمینی با ایران، نیروهای جهادی خود را برای کمک به این دو کشور بفرستد
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-14:55
-1405/05/03
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇬🇧The firefighters on the scene in Essex have been reduced to 30, since 50 had to rest and 20 were severely injured in the fire and had to be hospitalised. Casualties among civilians are not yet known, but residents say that the fire keeps spreading due to secondary explosions setting fire to nearby fields.
@@ -2185,16 +2237,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇱🇻❌🇧🇾🇷🇺 — Latvia has approved a nationwide ban on imports of a broad range of Russian and Belarusian consumer goods, including books, video games, clothing, toys, and sports equipment.
-‏
-‏➡️ The amendments, approved by Latvia's parliament, prohibit the import of Russian- and Belarusian-origin goods not already covered by EU sanctions, tariffs, or other trade restrictions. The ban also applies to products imported through third countries if they originate in Russia or Belarus.
-14:27
-1405/05/03
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏🔗 محمد کلهر | Mohammad Kalhor (@Mohammad_kali)
@@ -2285,18 +2327,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 14:25
-1405/05/03
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷❌🇺🇸 — Secretary of Iran’s Supreme National Security Council, Mohammad Bagher Zolghadr:
-‏Every column of smoke in the region signifies that a U.S. military, security, or financial facility has been struck.
-‏
-‏The continuous and deliberate strikes by our fighters are the lashes of the Iranian nation's anger falling upon the system of global domination, and, God willing, they will continue until the enemy is completely subdued and the blood of the innocent children of Minab, Lamerd, and others has been avenged.
-14:23
 1405/05/03
 
 
@@ -4564,15 +4594,6 @@ src :@Artemis_Force
 
 
 
-src :@rnintel
-[ویدئو]
-‏🇾🇪🇸🇦⚡️- BREAKING: Visual confirmation of Ansarullah missile impacts in Jizan, Saudi Arabia.
-05:38
-1405/05/03
-
-
-
-
 src :@BellumActaNews
 ‏#BREAKING 
 ‏
@@ -5139,18 +5160,6 @@ src :@bricsnews
 
 src :@mwarmonitor
 ‏🚨حمله موشکی به بحرین
-00:41
-1405/05/03
-
-
-
-
-src :@mwarmonitor
-‏🔴 کانال ۱۲ اسرائیل گزارش داد که شرکت‌های هواپیمایی Austrian Airlines و ITA Airways، از زیرمجموعه‌های گروه لوفت‌هانزا، پروازهای صبحگاهی خود به اسرائیل را لغو کرده‌اند.
-‏
-‏🔸این تصمیم در پی افزایش نگرانی‌ها از احتمال تشدید تنش‌ها با ایران اتخاذ شده است.
-‏
-‏@mwarmonitor
 00:41
 1405/05/03
 
@@ -6407,17 +6416,6 @@ src :@didarnews1
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇨🇳 US President Trump says Chinese President Xi Jinping told him he will not sell weapons to Iran.
-‏
-‏@BRICSNews
-19:01
-1405/05/02
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏⭕️🔺 ترامپ: شی جین‌پینگ و پوتین به من گفتند به جمهوری اسلامی سلاح نخواهند فروخت
@@ -6700,14 +6698,4 @@ src :@DEJradio
 ‏#سفارت #جنگ #جمهوری_اسلامی 
 ‏@DEJradio
 16:45
-1405/05/02
-
-
-
-
-src :@hafezeye_tarikhi
-[عکس]
-‏عادل فردوسی‌پور و جواد ظریف، وزیر امور خارجه وقت، در جریان مصاحبه برای برنامه نود (آذر ۱۳۹۴)
-‏@hafezeye_tarikhi
-16:40
 1405/05/02
