@@ -1,3 +1,59 @@
+src :@mohem_mat
+‏عراقچی: 
+‏
+‏آمریکا ۱۵ روز صبر می‌کرد، بحران ایجاد نمی‌شد. بند پنج تفاهمنامه ابهامی ندارد
+‏
+‏وقتی در بند ۵ گفته می‌شود «ایران ترتیباتی اتخاذ می‌کند»، یعنی این ایران است که مسیر و سازوکار لازم را تعیین می‌کند؛ به عبارت دیگر، کریدور را مشخص می‌کند تا ظرف یک ماه، میزان تردد به سطح پیش از جنگ بازگردد.
+‏
+‏ وی افزود: اگر یک ماه سپری می‌شد و تردد به سطح قبل از جنگ بازنمی‌گشت، آن زمان انتقاد‌ها می‌توانست وارد باشد. اما استدلال ما دقیقاً این بود که هنوز فقط دو هفته از آغاز اجرای توافق گذشته بود و دو هفته دیگر تا پایان مهلت باقی مانده بود.
+‏
+‏@mohem_mat
+12:31
+1405/05/03
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻دونالد ترامپ، رییس‌جمهوری آمریکا، در پاسخ به این سوال که جردن یا جیمز «بهترین بازیکن تاریخ» هستند، گفت: «مایکل جردن دوست من است. با او گلف بازی می‌کنم. آدم واقعا خوبی است.»
+‏
+‏🔹او گفت: «فکر می‌کنم لبران شاید نژادپرست باشد، یا شاید هم از ترامپ خوشش نمی‌آید. نمی‌دانم. من فقط کسانی را دوست دارم که از من خوششان بیاید، بنابراین بدون تردید مایکل جردن را انتخاب می‌کنم.»
+‏
+‏🔹لبران جیمز تاکنون به اظهارات دونالد ترامپ واکنش نشان نداده است. جیمز پیش‌تر بارها از ترامپ انتقاد کرده و از نامزدهای حزب دموکرات، از جمله هیلاری کلینتون، جو بایدن و کامالا هریس، حمایت کرده است.
+‏
+‏🔹جیمز در سال ۲۰۱۷ نیز پس از اختلاف بر سر دعوت تیم‌های قهرمان ان‌بی‌ای به کاخ سفید، ترامپ را «آدمی بی‌عرضه» توصیف کرده بود.
+‏
+‏🔹لبران جیمز، ۴۱ ساله، روز جمعه اعلام کرد که به دوران حرفه‌ای خود با تیم فیلادلفیا سونی‌سیکسرز ادامه خواهد داد.
+‏
+‏@iranintltvsport
+12:31
+1405/05/03
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷وزير الخارجية الايراني عباس عراقجي: واشنطن كانت تسعى إلى دفع الأمور نحو التصعيد وهي التي انتهكت الاتفاق وأوصلت الأمور إلى الوضع الراهن.
+12:30
+1405/05/03
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Germany's Chancellery refused to answer whether it received advance intelligence warnings about the 2022 Nord Stream sabotage, citing national security so broadly that it declined to respond even in classified form. 
+‏
+‏This unusual level of secrecy suggests the government may have received warnings but failed to act, though the Chancellery neither confirms nor denies that claim.
+‏
+‏Source: Ostdeutsche Allgemeine
+12:26
+1405/05/03
+
+
+
+
 src :@tabzlive
 ‏🇷🇴⚡️ — A Romanian Air Force F-16 shot down a drone that entered Romanian airspace on Friday, July 24. The drone was destroyed with an air-to-air missile over an uninhabited area near Padina, Buzău County.  After the drone was detected by Romania's radar surveillance…
 12:26
@@ -45,7 +101,7 @@ src :@samueltarikh
 
 
 src :@Alibk3
-‏هيئة بحرية بريطانية:  حدث أمني قبالة سواحل عمان متعلق بناقلة نفط وقوات عسكرية.
+‏هيئة بحرية بريطانية:  حدث أمني قبالة سواحل عمان متعلق بناقلة نفط وقوات عسكرية يوم أمس
 12:25
 1405/05/03
 
@@ -106,16 +162,10 @@ src :@Indypersian
 
 src :@Alibk3
 [عکس]
-‏حدث أمني قبالة السواحل العمانية
+‏هيئة بحرية بريطانية:
+‏
+‏حدث أمني قبالة سواحل عمان متعلق بناقلة نفط وقوات عسكرية يوم أمس
 12:22
-1405/05/03
-
-
-
-
-src :@Alibk3
-‏حدث أمني قبالة السواحل العمانية
-12:21
 1405/05/03
 
 
@@ -1916,20 +1966,6 @@ src :@Parvazdaroj
 
 
 
-src :@IranintlTV
-[عکس]
-‏رشاد العلیمی، رییس شورای ریاستی یمن، در شبکه ایکس نوشت حوثی‌ها هر بار که فرصتی برای کاهش تنش فراهم می‌شود، منافع مردم یمن را قربانی برنامه‌های جمهوری اسلامی می‌کنند.
-‏
-‏او افزود دولت یمن با ائتلاف حمایت از مشروعیت و شرکای بین‌المللی برای حفاظت از گذرگاه‌های آبی همکاری نزدیک خواهد داشت.
-‏
-‏العلیمی همچنین گفت حوثی‌ها چاره‌ای جز تن دادن به خواست مردم یمن ندارند و ادامه تنش‌آفرینی تنها به فرسایش بیشتر منابع و توان کشور منجر می‌شود.
-‏https://iranintl.com/202607258913
-09:01
-1405/05/03
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏پنجمین نمونه آزمایشی جنگنده نسل ششم J-36 چین دیده شد
@@ -2418,16 +2454,6 @@ src :@Minas_Tirith2024
 src :@Middle_East_Spectator
 ‏Yemen’s attack is over, goodnight.
 07:12
-1405/05/03
-
-
-
-
-src :@mohem_mat
-‏فرانسه استفاده کودکان زیر ۱۵ سال از شبکه‌های اجتماعی را ممنوع کرده است و به این ترتیب اولین کشور در اتحادیه اروپا شد که ممنوعیت کلی بر این پلتفرم‌ها وضع کرده، در حالی که نگرانی‌ها در سطح جهانی درباره اثرات مضر محتوای دیجیتال بر کودکان رو به افزایش است. آسوشیتد پرس
-‏
-‏@mohem_mat
-07:08
 1405/05/03
 
 
@@ -3795,14 +3821,6 @@ src :@tglobaleye
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡- US strikes against Behbahan, southwest Iran.
-00:27
-1405/05/03
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷- Reports of a strike on Behbahan, Khuzestan Province, Iran.
 ‏
@@ -3867,14 +3885,6 @@ src :@samueltarikh
 src :@RASTAKHIZ_PERSIAN
 ‏حمله به یک موسسه ارتباط ها و جزیره کمران و یک نقطه غیر نظامی در شمال الحدیده بود. اطلاعات بیشتر را در پیام های بعدی می نوشتم
 00:16
-1405/05/03
-
-
-
-
-src :@rnintel
-‏🇫🇷🇪🇺⚡️- French President Emmanuel Macron has formally asked the European Union to trigger the EU Civil Protection Mechanism to fight the wildfires in France.
-00:08
 1405/05/03
 
 
@@ -3967,15 +3977,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 23:53
-1405/05/02
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇫🇷⚡️- Wildfires in France have reached a near-unprecedented scale as dozens of thousands are being evacuated daily in the past days from different regions.  The Interior Minister L. Nunez has strongly advocated for the deployment of the army in the Gironde…
-23:52
 1405/05/02
 
 
@@ -4677,19 +4678,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 22:10
-1405/05/02
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇪🇺 — U.S. President Donald Trump:
-‏
-‏The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it’s not going to continue during the Trump Administration. The United States of America is not a “PIGGYBANK” for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of “ROBBING” American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment.
-‏
-‏The Global Eye | Subscribe
-22:07
 1405/05/02
 
 
@@ -6417,57 +6405,4 @@ src :@militaryinpersian
 [عکس]
 ‏تکه ای با ارزش از کتابچه دستورالعمل های عملیاتی و پروازی از جنگنده اف-۲۲ رپتور
 13:02
-1405/05/02
-
-
-
-
-src :@DEJradio
-[عکس]
-‏⭕️🚨 ترامپ: خسارت‌های واردشده به کشتی‌ها و محموله‌ها از دارایی‌های جمهوری اسلامی تحت کنترل آمریکا پرداخت خواهد شد
-‏
-‏دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در پیامی در شبکه اجتماعی «تروث سوشال» اعلام کرد از این پس و تا اطلاع ثانوی، هرگونه خسارت واردشده به کشتی‌ها، محموله‌ها یا هر موضوع مرتبط با آن‌ها، از محل دارایی‌های جمهوری اسلامی که در اختیار و تحت کنترل ایالات متحده قرار دارد، جبران خواهد شد.
-‏ترامپ در این پیام تأکید کرد این تصمیم شامل تمامی خسارت‌های مرتبط با کشتی‌ها و محموله‌ها می‌شود و افزود این خسارت‌ها ممکن است بسیار قابل توجه باشند.
-‏رئیس‌جمهوری آمریکا در ادامه نوشت با وجود احتمال سنگین بودن این خسارت‌ها، استفاده از دارایی‌های جمهوری اسلامی برای جبران آن‌ها را اقدامی «منصفانه و عادلانه» می‌داند.
-‏
-‏#ترامپ #پولهای_بلوکه #تنگه_هرمز
-‏@DEJradio
-12:30
-1405/05/02
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‏ ‏ 
-‏قیمت آتی نفت برنت از مرز ۱۰۱ دلار عبور کرد؛ نوسان قیمت‌ها در بازار فلزات گران‌بها
-‏
-‏- از روز گذشته قیمت نفت برنت در محدوده مرز ۱۰۰ دلار برای هر بشکه در نوسان است و قیمت آتی نفت برنت در روز جمعه دوم امرداد ۱۴۰۵ با ۳۷ سنت یا ۰/۳۷ درصد افزایش، به ۱۰۱ دلار و ۶ سنت در هر بشکه رسید.
-‏
-‏- روز پنجشنبه اول امرداد فقط یک نفتکش حامل ۲ میلیون بشکه نفت عراق به مقصد چین از تنگه هرمز عبور کرده و هیچ نفتکشی نیز از این آبراهه استراتژیک خلیج فارس عبور نکرده است.
-‏
-‏- مقامات جمهوری اسلامی افزایش قیمت جهانی نفت و اثرات آن بر اقتصاد جهان را به عنوان ابزار فشاری بر دونالد ترامپ در معادلات جنگ ارزیابی و از این فرایند استقبال می‌کنند.
-‏
-‏- عزت الله ضرغامی، وزیر دولت سیزدهم و رئیس پیشین سازمان صداوسیما، پس از افزایش اخیر قیمت نفت در شبکه‌ «ایکس» نوشت: «بهای نفت از ۱۰۰ دلار در هر بشکه گذشت. بهای بنزین هم در آمریکا در حال رکورد شکنی است. آقایان حرفی از مذاکره نزنید. لطفا! گاز ورمه (گاز نده). خودش داره میره!»
-‏
-‏- قیمت طلا در بازارهای جهانی، پس از ثبت کاهش دو درصدی روز گذشته، در معاملات روز جمعه، تحت تاثیر افزایش قیمت نفت برنت به بالای ۱۰۰ دلار در هر بشکه، به روند نزولی خود ادامه داد.
-‏
-‏https://kayhan.london/1405/05/02/405531/
-12:30
-1405/05/02
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏۱. خاطرات جلال ال‌احمد، ۱ دی ۱۳۳۷: 
-‏ساعت پنج وارد فرودگاه مهرآباد شدیم، چه فرودگاهی! پدرسوخته‌ها! مثل اینکه در مخ فرنگستانی! برای مردمی که نان بلوط می‌خورند، چنین فرودگاهی! [بعد از بازگشت از سفر طولانی به جنوب غرب ایران] میلیون‌ها دلار یا تومان چه می‌دانم! سنگ‌ها،چراغ‌ها،وسایل، بل‌ها،رستوران‌ها،تلفن‌ها،حتی برای تلفن به ولایات و خارجه! ولی درهایش بسته…گمان نمی‌کنم در میامی یا هالیوود هم چنین تفننی در یک فرودگاه شده باشد. ده،پدرسوخته‌ها. بگذرم.شاید واقعا چون من از آنجاها برگشته‌‌ام، به نظرم خیلی زننده امده این زرق و برق
-‏
-‏(منبع در توییتر)
-‏
-‏به قول سیمین دانشور همسرش، یکسره در حال نوشیدن کثافت مشروبات الکلی و سیگار بود. از ساعت 11 صبح تا شب. حالا خانوم بازیهایش هم که جای خود.  آخر هم در جوانی در 45 سالگی مرد. چهره رو که نگاه میکنی گویی 65 رو رد کرده است. مردی نا سالم و فاسد.
-‏
-‏@Exciton_missile_program 🚀
-12:28
 1405/05/02
