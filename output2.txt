@@ -1,3 +1,11 @@
+src :@wfwitness
+‏Reports of explosions in Bandar Abbas
+01:15
+1405/05/04
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- "The U.S. naval blockade against Iran remains in full effect. As of July 25, CENTCOM has redirected 12 commercial vessels trying to run the blockade, disabled 2 that didn't comply, and boarded 2 to ensure total compliance.
 ‏
@@ -787,17 +795,6 @@ src :@militaryinpersian
 ‏📝  AmirF15
 ‏
 ‏👑 @Fighter_Radar
-00:35
-1405/05/04
-
-
-
-
-src :@World_Newsly
-‏🔴 رسانه‌های اسرائیلی: ارتش اسرائیل و ارتش آمریکا سطح بسیار بالایی از آمادگی و هوشیاری را در انتظار هرگونه تحول مرتبط با ایران حفظ کرده‌اند. یک عملیات نظامی تهاجمی که پس از تهدیدات ترامپ برنامه‌ریزی شده بود، به دلایل اصلی متعددی به تعویق افتاد.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
 00:35
 1405/05/04
 
@@ -1673,21 +1670,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏🇮🇷المتحدث باسم الحرس الثوري الإيراني:
-‏ 
-‏
-‏أي دولة، سواء كانت إنجلترا أو دول الخليج أو غيرها، إذا دعمت أمريكا في الحرب، ستكون هدفنا المشروع.
-‏
-‏استخدمت طائرات B1 الأمريكية مؤخراً مطارات بريطانية. إذا حذت حذوها، فستكون هدفنا النهائي والمشروع.
-‏
-‏لدينا سيناريو خاص بنا لكل مشكلة.
-23:33
-1405/05/03
-
-
-
-
 src :@mohem_mat
 ‏عهد بستی 
 ‏آنچه بین ماست ابدیست 
@@ -1866,14 +1848,6 @@ src :@jangaavaran1390
 
 src :@rnintel
 ‏🇵🇸🇮🇱⚡- BREAKING: A drone crashed near the house of Israel's Minister of National Security Itamar Ben-Gvir in Hebron, West Bank, eastern State of Palestine.
-23:21
-1405/05/03
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶مجلس الوزراء العراقي يقرر تعطيل الدوام الرسمي يومي الاثنين والثلاثاء الموافقين 3-4 آب 2026 بمناسبة إحياء أربعينية الإمام الحسين (عليه السلام).
 23:21
 1405/05/03
 
@@ -2190,15 +2164,6 @@ src :@ClashReport
 ‏
 ‏Zelensky said the event "should never have taken place" and prosecutors have opened a parallel probe into possible negligence over its operational security.
 23:03
-1405/05/03
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇾🇪🔻🇨🇳 توقف الشحن البحري بين الصين والسعودية نتيجة ضربات أنصار الله في اليمن على باب المندب
-23:02
 1405/05/03
 
 
@@ -2631,15 +2596,6 @@ src :@Exciton_missile_program
 ‏( عکس: صحنه ای از بمباران فرشی جنگنده های آمریکایی روی مواضع داعش که سطح به سطح زمین را با 36 تن بمب (دقیق) جارو کردند)
 ‏
 ‏@Exciton_missile_program 🚀
-22:29
-1405/05/03
-
-
-
-
-src :@Alibk3
-[عکس]
-‏زيلينسكي يزعم أن أوكرانيا استهدفت سفنا في بحر قزوين تحتوي على شحنات عسكرية لها صلة بإيران
 22:29
 1405/05/03
 
@@ -3523,17 +3479,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@Military_Times_Blog
 21:30
-1405/05/03
-
-
-
-
-src :@cataphract1
-[عکس]
-‏موشک های بالستیک کوتاه برد سوخت جامد
-‏✒️#Chamrosh
-‏📃@Cataphract1
-21:29
 1405/05/03
 
 
@@ -4517,16 +4462,6 @@ src :@mohem_mat
 
 
 
-src :@wfwitness
-‏⚡️🇾🇪🇾🇪 Al Hudud: Yemeni army carried out airstrikes targeting Houthi sites in the Ghurab area and outskirts of Sharaab in Taiz Governorate, Yemen.
-‏
-‏@wfwitness
-18:58
-1405/05/03
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸🇮🇱❌🇮🇷 - According to YNET, Israel reportedly prepared for a major U.S. strike on Iran overnight between Friday and Saturday, but President Donald Trump delayed the operation to allow additional time for negotiations.
 ‏
@@ -5066,16 +5001,6 @@ src :@samueltarikh
 src :@rnintel
 ‏🇫🇷⚡️- Despite an increase in humidity and decreased wind strength in the area, the fires have resumed a slow advance towards Bordeaux.
 17:40
-1405/05/03
-
-
-
-
-src :@samueltarikh
-‏⭕️ کانال ۱۲ اسرائیل:
-‏
-‏ لغو پروازها به مقصد یا از مبدأ اسرائیل آغاز شده؛ این احتمالاً نشانه‌ای است از آنچه در راه است
-17:36
 1405/05/03
 
 
