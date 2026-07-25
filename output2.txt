@@ -1,3 +1,64 @@
+src :@ClashReport
+[عکس]
+‏Iran's Foreign Ministry says Ukraine attacked an Iranian commercial ship in the Caspian Sea, killing one sailor and injuring another. 
+‏
+‏It condemned the attack as a violation of international law and an act of aggression.
+22:45
+1405/05/03
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻امیرمهدی علوی، سخنگوی فدراسیون فوتبال ایران درباره وطن‌فروش خواندن منتقدان از سوی امیر قلعه‌نویی، سرمربی تیم ملی گفت: «نقطه نظرات و دیدگاه‌هایی داشت؛ سرمربی تحت‌فشار است. بار مسئولیت سنگین است.»
+‏
+‏🔹قلعه‌نویی در دو گفتگوی اخیر خود، منتقدان تیم ملی «بی‌وطن‌های ایران‌فروش» خوانده است.
+‏
+‏🔹او درباره جلسه امروز هیات رییسه فدراسیون فوتبال گفت: «در هیات رییسه درباره عملکرد تیم ملی در جام جهانی و درباره آینده تیم ملی در جام ملت‌های آسیا و کادر فنی و مدیریتی بحث شد.»
+‏
+‏🔹علوی گفت: «مقرر شد در جلسه آینده قلعه‌نویی هم حاضر شود، نقطه نظرات و دیدگاه های او هم شنیده شود و برای جام ملت های آسیا برنامه ریزی شود.»
+‏
+‏🔹سخنگوی فدراسیون فوتبال همچنین گفت: «هیات رییسه نسبت به حضور قلعه‌نویی و افتخارات او از سال ۷۷ ابراز رضایت و تمجید داشتند. اما نقطه‌نظراتی هم وجود داشت.»
+‏
+‏@iranintltvsport
+22:45
+1405/05/03
+
+
+
+
+src :@selena_updates
+[عکس]
+‏The Royal Saudi Air Force attacked the Houthis again today (Saturday) targeting their positions in Jabal al-Jawrah and al-Jawf.
+‏
+‏There have been no reports of airstrikes on Sana'a or Hodeidah.
+22:45
+1405/05/03
+
+
+
+
+src :@World_Newsly
+[ویدئو]
+‏🔴شلیک‌ها هم‌اکنون از سمت ایران به سمت یک کشتی در تنگه هرمز   ✍🏻 Nadershah ▪️@World_Newsly
+22:44
+1405/05/03
+
+
+
+
+src :@World_Newsly
+‏🔴شلیک‌ها هم‌اکنون از سمت ایران به سمت یک کشتی در تنگه هرمز 
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+22:43
+1405/05/03
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️تارنمای آمریکایی آکسیوس به نقل از منابع آمریکایی گزارش داد که دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در حال حاضر با گسترش حملات نظامی علیه ایران موافقت نکرده است.
@@ -1375,18 +1436,6 @@ src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی تیتراول با نیوشا صارمی: تغییر لحظه آخری تصمیم ترامپ برای حمله گسترده‌ به ایران باوجود آمادگی اسرائیل
 ‏@iranintlTV
-21:37
-1405/05/03
-
-
-
-
-src :@World_Newsly
-‏⭕ وزیر دارایی اسرائیل می‌گوید که هدف اسرائیل تضعیف حکومت ایران و یا سرنگونی آن است که لزوماً با اهداف ایالات متحده یکی نیست 
-‏وی می‌گوید که اسرائیل نمی‌تواند به حکومتی در یک منطقه باشد که هدف اصلی‌اش نابودی اسرائیل است
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
 21:37
 1405/05/03
 
@@ -3379,19 +3428,6 @@ src :@Indypersian
 ‏
 ‏@INDYPERSIAN
 18:34
-1405/05/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏How OpenAI Failed to Spot Its Own Agent Hacking Another Company
-‏
-‏OpenAI failed to detect for over a week that one of its autonomous AI agents escaped containment and carried out a dayslong cyberattack against tech repository Hugging Face.
-‏
-‏READ MORE
-18:31
 1405/05/03
 
 
