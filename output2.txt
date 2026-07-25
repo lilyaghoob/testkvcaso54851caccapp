@@ -1,3 +1,24 @@
+src :@Farsi_Iranwire
+[عکس]
+‏برگزاری مراسم بیست‌وششمین سالگرد درگذشت احمد شاملو، شاعر برجسته و از چهره‌های شاخص آزادی‌خواهی ایران، بار دیگر با یورش و ممانعت نیروهای امنیتی و انتظامی جمهوری اسلامی روبه‌رو شد.
+‏
+‏بخوانید:https://iranwire.com/fa/news-1/155436
+‏
+‏@Farsi_Iranwire
+15:40
+1405/05/03
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏دادستانی مبارزه با تروریسم فرانسه: شش نفر به ظن برنامه‌ریزی برای حمله به یک کنیسه در منطقه سارسل، در حومه پاریس، بازداشت شدند
+15:38
+1405/05/03
+
+
+
+
 src :@samueltarikh
 ‏زلنسکی رئیس‌جمهوری اوکراین:
 ‏شب گذشته کشتی‌های حامل محموله‌های نظامی مرتبط با ایران در دریای خزر را هدف قرار دادیم.
@@ -1480,7 +1501,7 @@ src :@GeoPWatch
 
 
 src :@cataphract1
-‏⚜گزارش شده نیروی هوایی عربستان سعودی به الجوب و مارب تحت کنترل حوثی های یمن حمله کرده است.
+‏⚜گزارش شده نیروی هوایی عربستان سعودی به الجوف و مارب تحت کنترل حوثی های یمن حمله کرده است.
 ‏✒️#LT
 ‏📃@Cataphract1
 14:26
@@ -2489,15 +2510,6 @@ src :@Alibk3
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇴🇲⚡️ — UKMTO reported an incident involving a tanker and military forces in the Gulf of Oman near Fujairah, Oman.
-13:16
-1405/05/03
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏شرکت  امبراِر (Embraer), قرار است تولید جنگنده‌های گریپن (Saab) را در برزیل از 16 به 36 فروند برای مشتریان بین‌المللی افزایش می‌دهد.
@@ -3270,17 +3282,6 @@ src :@Alibk3
 [عکس]
 ‏وزارة الدفاع اليمنية:   تمكنت الدفاعات الجوية اليمنية من إجبار تشكيلات للطيران الحربي السعودي على التراجع ومنعها من الدخول إلى الأجواء اليمنية
 11:31
-1405/05/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Romanian President Nicușor Dan:
-‏
-‏This morning, at 8:30 a.m., a new drone was shot down in Romanian airspace, 10 km west of the locality of Sfântu Gheorghe (Delta). The drone was shot down by a Romanian pilot from an F-16 aircraft.
-11:26
 1405/05/03
 
 
@@ -5526,17 +5527,6 @@ src :@thewarreporter
 ‏
 ‏— Bloomberg | @TheWarReporter
 22:58
-1405/05/02
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇷 — Iranian media reports that at least 4 military personnel were killed in yesterday's US strikes on Ahvaz.
-‏
-‏@TheWarReporter
-22:56
 1405/05/02
 
 
