@@ -1,3 +1,14 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — President Trump is attending the rescheduled White House Correspondents' Association dinner, three months after the original event was canceled in April when a man opened fire with a shotgun at a security checkpoint outside the ballroom.
+‏
+‏➡️ He will deliver a speech at the event soon.
+04:38
+1405/05/03
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، در حاشیه نشست شورای وزیران امور خارجه سازمان همکاری شانگهای در قرقیزستان با سرگئی لاوروف، وزیر امور خارجه روسیه، دیدار و در خصوص روابط دوجانبه، همکاری‌ها در چارچوب شانگهای و بریکس و تحولات غرب آسیا رایزنی کرد. عراقچی در این دیدار با «تقدیر» از مواضع مسکو در قبال تحولات اخیر، ناامنی در تنگه هرمز را نتیجه مستقیم عدم پایبندی آمریکا به تعهدات خود دانست و بر عزم ایران جهت دفاع از امنیت ملی و ممانعت از تهدیدات در این آبراه حیاتی تاکید کرد. به گزارش ایرنا، سرگئی لاوروف نیز با محکوم کردن اقدامات نظامی آمریکا و اسرائیل، بر اهمیت اعتمادسازی برای ایجاد سازوکار امنیتی متکی بر کشورهای منطقه تاکید و آمادگی روسیه را برای هرگونه مساعدت در این زمینه اعلام کرد.
@@ -1794,14 +1805,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — NOW: Sirens in Bahrain.
-00:48
-1405/05/03
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Amid fears of escalation with Iran, Austrian Airlines and ITA (Lufthansa Group) canceled their morning flights to Israel.
@@ -1990,19 +1993,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷🇹🇷⚡️ — President Trump switched aircraft before departing Türkiye earlier this month after U.S. officials assessed there was a credible threat from Iranian proxy forces targeting him and Air Force One, according to NYT.
-‏
-‏➡️ The intelligence indicated Trump and whatever aircraft he was traveling on were the targets, rather than the new jet specifically. The threat was also separate from intelligence provided by Israel.
-‏
-‏➡️ The details were closely held within the administration, with some officials told only that the aircraft change was a precaution linked to concerns about Iran. Key members of Congress were not briefed on the specific threat.
-00:39
-1405/05/03
-
-
-
-
 src :@P_raetorio
 ‏#فوری 
 ‏
@@ -2046,14 +2036,6 @@ src :@mwarmonitor
 ‏
 ‏
 ‏@mwarmonitor
-00:36
-1405/05/03
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — NOW: Sirens in Bahrain.
 00:36
 1405/05/03
 
@@ -2262,15 +2244,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 00:25
-1405/05/03
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇬🇧🇮🇷⚡️ — The U.S. and the United Kingdom are planning a high-level meeting in London next week to discuss the formation of an international coalition to help protect commercial shipping in the Strait of Hormuz, according to Axios.  ➡️ The meeting, whose…
-00:23
 1405/05/03
 
 
