@@ -1,3 +1,88 @@
+src :@ClashReport
+[عکس]
+‏A drone crashed near Ben-Gvir's home in Hebron. 
+‏
+‏Details are still being investigated.
+‏
+‏Source: N12
+23:11
+1405/05/03
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ای-۲۴:یک پهپاد در نزدیکی منزل ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل، سقوط کرد.ارتش اسرائیل پهپاد را کشف و جمع‌آوری کرده است. طبق گزارش‌ها، این حادثه خطری ایجاد نکرده و تحقیقات درباره علت و جزئیات آن ادامه دارد
+23:11
+1405/05/03
+
+
+
+
+src :@Mena_Live
+‏U.S. airstrikes over the past couple of weeks targeted nearly no major Iranian underground missile and drone production and storage facilities in central Iran, leaving Iran’s missile and drone capabilities largely unharmed. 
+‏
+‏Meaning Iran has had nearly three months to rehabilitate these sites and refill its stockpiles.
+‏
+‏@Mena_Live
+23:10
+1405/05/03
+
+
+
+
+src :@MilitarryWorld
+‏🔴سخنگوی ارتش: پدافند کشور بازسازی شد و تجهیزات جدید نیز وارد شد
+‏
+‏@MilitarryWorld | Parsa
+23:09
+1405/05/03
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏لطف‌الله دژکام، امام جمعه شیراز، در تجمع حامیان حکومت در این شهر گفت: «ما اکنون برای انتقام از خون رهبرمان شعار می‌دهیم و از آن نمی‌گذریم. باید پاسخ دشمن داده شود و خانه‌هایشان را روی سرشان خراب کنیم.»
+‏او ادامه داد: «اگر می‌خواهیم انتقام بگیریم و شعار آن را هم می‌دهیم، باید صبر خود را نیز بالا ببریم.»
+‏امام جمعه شیراز افزود: «صبر لازم است و ما باید پشت سر رهبرمان بایستیم، پای خود را محکم بر زمین بکوبیم و دندان‌هایمان را بر هم بفشاریم.»
+‏https://iranintl.com/202607252416
+23:09
+1405/05/03
+
+
+
+
+src :@Indypersian
+‏⭕️توافق هسته‌ای ریاض‌ـ‌‌واشنگتن؛ آغاز نظمی تازه در خاورمیانه
+‏
+‏📌این توافق، علاوه بر توسعه بخش انرژی، جایگاه عربستان سعودی را به‌عنوان بازیگری مستقل و دارای ظرفیت‌های پیشرفته تقویت می‌کند
+‏
+‏♦️توافق ایالات متحده و عربستان سعودی برای همکاری در حوزه انرژی هسته‌ای صلح‌آمیز، فراتر از یک قرارداد فناورانه، نشانه تحول در معادلات راهبردی خاورمیانه است. این توافق که پس از سال‌ها مذاکره و رایزنی میان دو کشور به دست آمده است، صرفا به همکاری‌های فنی در زمینه ساخت راکتورهای هسته‌ای محدود نمی‌شود، بلکه بیانگر یک تغییر راهبردی در ماهیت روابط ریاض و واشنگتن است. ابعاد اقتصادی، سیاسی و امنیتی این همکاری، پیامدهایی گسترده برای ساختار امنیتی منطقه دارد، و نقشی تعیین‌کننده در شکل‌دهی به نظم جدید خاورمیانه ایفا خواهد کرد.
+‏بیشتر بخوانید...
+‏
+‏🖋محمد خیر ندمان 
+‏
+‏@indypersian
+23:08
+1405/05/03
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇺🇸 Patriarch Bechara Al-Rahi, during the beatification Mass of Patriarch Elias Howayek in Diman:
+‏
+‏We thank God for the positive signs and successful outcome of President Joseph Aoun's visit to Washington.
+‏
+‏@wfwitness
+23:08
+1405/05/03
+
+
+
+
 src :@thewarreporter
 ‏🇸🇦🇾🇪🇮🇷 — IRGC Quds Force commander Esmail Qaani has called on Saudi Arabia to end the 11-year blockade on the Houthi-controlled Yemen.
 ‏
@@ -82,14 +167,6 @@ src :@Indypersian
 ‏
 ‏
 ‏@indypersian
-23:00
-1405/05/03
-
-
-
-
-src :@World_Newsly
-‏اخبار نظامی ایران و جهان pinned «اووووه😁😁 صاعقه زدش  ..»
 23:00
 1405/05/03
 
@@ -2662,17 +2739,6 @@ src :@mwarmonitor
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏پنج فروند تانکر سوخت رسان و یک فروند هواپیمای گشت دریایی P-8 متعلق به نیروی دریایی ایالات متحده، در حال حاضر در نزدیکی سواحل ایران حضور دارند
-‏
-‏🆔@WAR_ROOM_NEWS
-20:34
-1405/05/03
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏⏺به نظر می‌رسد عملیات پل هوایی نیروی هوایی آمریکا به پایان رسیده است؛ در حال حاضر تنها ۴ فروند هواپیمای ترابری C-17A در حال پرواز هستند. هر آنچه لازم بود منتقل شود، منتقل شده است. اکنون، پس از ۱۸ ساعت بدون شلیک حتی یک گلوله، مشخص نیست گام بعدی چه خواهد بود.
@@ -2807,20 +2873,6 @@ src :@Indypersian
 ‏این اطلاع‌رسانی در حالی منتشر می‌شود که در ماه‌های اخیر، برخی استان‌های ایران در پی تحولات امنیتی و نظامی منطقه شاهد افزایش اطلاعیه‌های رسمی درباره انجام انفجارهای کنترل‌شده و فعالیت‌های آموزشی نیروهای نظامی بوده‌اند.
 ‏
 ‏@indypersian
-20:22
-1405/05/03
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏قاسم روانبخش، عضو هیات رییسه کمیسیون امور داخلی مجلس، گفت در صورت تکرار حملات به مراکز هسته‌ای در ایران، جمهوری اسلامی «ملاحظات» در قبال کشورهایی مانند عربستان و قطر را کنار خواهد گذاشت و دامنه جنگ را به منطقه گسترش خواهد داد.
-‏
-‏او افزود در چنین شرایطی، علاوه بر پایگاه‌های آمریکا، زیرساخت‌های حیاتی کشورهای متحد ایالات متحده نیز در فهرست اهداف جمهوری اسلامی قرار خواهند گرفت.
-‏
-‏روانبخش همچنین گفت جمهوری اسلامی در صورت تکرار این حملات، خروج از پیمان منع گسترش سلاح‌های هسته‌ای (ان‌پی‌تی) را در دستور کار قرار خواهد داد و دکترین دفاعی خود را متناسب با آنچه «تهدیدات تهاجمی آمریکا» خواند، تغییر خواهد داد.
-‏https://iranintl.com/202607253913
 20:22
 1405/05/03
 
@@ -3260,15 +3312,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Katy Perry isn't happy about the White House using her music in edits of military strikes.
-19:16
-1405/05/03
-
-
-
-
 src :@samueltarikh
 ‏🔺پایان این مسیر از پیش هویداست و هرچقدر هم که میانجی‌گری‌ها و تلاش‌های پشت پرده طول بکشد بردار متغیرهای امنیتی روی نقطه انفجار قفل شده است این آرامش پیش از طوفان آخرین پرده از نمایشی است که در آن دیپلماسی تنها نقش طعمه را برای اثبات ناکارآمدی مسالمت بازی می‌کند تا در نهایت تاریخ با صراحتی تلخ گواهی دهد که واژه‌ها در برابر اراده آهن و باروت هیچ‌گاه یارای ماندن نداشته‌اند.
 19:13
@@ -3628,19 +3671,6 @@ src :@DEJradio
 ‏#نیروهای_مسلح #انتقام_سخت #عبدالرحیم_موسوی #جنگ 
 ‏@DEJradio
 18:40
-1405/05/03
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴رویترز: حملات ایران به تأسیسات سیا، پرسش‌هایی درباره نقش احتمالی روسیه ایجاد کرده!
-‏
-‏به گزارش رویترز روسیه داده‌های هدف‌یابی و فناوری پیشرفته پهپادی را در اختیار ایران قرار داده است و این حمایت احتمالی روسیه از ایران، نگرانی جدی برای عملیات‌های آمریکا ایجاد کرده است
-‏
-‏@MilitarryWorld | Parsa
-18:39
 1405/05/03
 
 
@@ -4327,21 +4357,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 17:17
-1405/05/03
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇦🇷🇺 Ukrianian forces have carried out long-range strikes against targets across multiple Russian regions. 
-‏
-‏Ukrianian President Zelenskyy claimed that the strikes hit a plant in Kirov supplying components for Russian weapons, an oil refinery in Tyumen, a logistics facility in Yekaterinburg, and a fuel depot in Rostov-on-Don.
-‏
-‏In the Caspian Sea, Ukrainian strikes also targeted vessels used in military cargo shipments involving Iran, including a warship.
-‏
-‏@wfwitness
-17:15
 1405/05/03
 
 
@@ -7177,33 +7192,4 @@ src :@Shin_Persian
 src :@OSINTWarfare
 ‏The U.S. and UK will discuss establishing an international coalition to safeguard vessels transiting the Strait of Hormuz.
 23:12
-1405/05/02
-
-
-
-
-src :@Shin_Persian
-[ویدئو]
-‏Zaryon OSINT @zarGEOINT
-‏
-‏🇮🇷🛰️ The Nain Military Airport in Iran's Isfahan Province has been hit multiple times by US strikes. 
-‏
-‏Satellite imagery shows the destruction of two buildings and damage to the radar system.
-‏
-‏📍 Geolocation: 33.08982, 53.425793
-‏
-‏@GeoConfirmed @FaytuksNetwork @hey_itsmyturn
-‏
-‏ترجمه خودکار فارسی
-‏
-‏🇮🇷🛰️ فرودگاه نظامی نائین در استان اصفهان ایران چندین بار هدف حملات آمریکا قرار گرفته است.
-‏
-‏تصاویر ماهواره‌ای تخریب دو ساختمان و آسیب به سامانه رادار را نشان می‌دهد.
-‏
-‏📍 موقعیت جغرافیایی: 33.08982, 53.425793
-‏
-‏@GeoConfirmed @FaytuksNetwork @hey_itsmyturn
-‏
-‏𝕏  ·  @shin_persian
-23:09
 1405/05/02
