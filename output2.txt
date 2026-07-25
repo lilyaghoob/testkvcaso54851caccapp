@@ -1,5 +1,136 @@
 src :@Alibk3
 [عکس]
+‏سقوط صواريخ في المنطقة الصناعية في جازان
+05:28
+1405/05/03
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 وضعیت شهر صنعتی جازان عربستان
+‏
+‏@RASTAKHIZ_PERSIAN
+05:27
+1405/05/03
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇸🇦/🇾🇪 Jazan Industrial City, in Saudi Arabia, is on fire
+‏
+‏@Middle_East_Spectator
+05:27
+1405/05/03
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏رجال أبوجبريل يستهدف جيران السعودية بموجة صاروخية والنيران تشتعل فيها
+05:25
+1405/05/03
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇸🇦/🇾🇪 BREAKING: Sirens in Yanbu, where Saudi Arabia’s east-west pipeline meets the Red Sea
+‏
+‏@Middle_East_Spectator
+05:24
+1405/05/03
+
+
+
+
+src :@Alibk3
+‏هجوم جديد على ينبع في السعودية.
+05:24
+1405/05/03
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — Alerts in Yanbu, coastal western Saudi Arabia. Ansarallah ballistic missile attack.
+05:24
+1405/05/03
+
+
+
+
+src :@Alibk3
+[عکس]
+‏إصابة مباشرة في جازان في السعودية.
+05:23
+1405/05/03
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+05:23
+1405/05/03
+
+
+
+
+src :@naya_foriraq
+‏هجوم صاروخي يدك مدينة ينبع السعودية
+05:23
+1405/05/03
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏0152Z
+‏Alert issued by National Early Warning Platform #KSA 🇸🇦
+‏
+‏https://x.com/SaudiDCD/status/2080833627412156512
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۰۱۵۲ زولو (۰۵:۲۲ به وقت تهران)
+‏هشدار صادر شده توسط سامانه ملی هشدار پیش‌هنگام #عربستان_سعودی 🇸🇦
+‏
+‏https://x.com/SaudiDCD/status/2080833627412156512
+‏
+‏𝕏  ·  @shin_persian
+05:23
+1405/05/03
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+05:23
+1405/05/03
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+05:23
+1405/05/03
+
+
+
+
+src :@Alibk3
+[عکس]
 ‏تصاعد أعمدة الدخان في جازان السعودية.
 05:19
 1405/05/03
@@ -317,17 +448,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump is attending the rescheduled White House Correspondents' Association dinner, three months after the original event was canceled in April when a man opened fire with a shotgun at a security checkpoint outside the ballroom.
-‏
-‏➡️ He will deliver a speech at the event soon.
-04:38
-1405/05/03
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، در حاشیه نشست شورای وزیران امور خارجه سازمان همکاری شانگهای در قرقیزستان با سرگئی لاوروف، وزیر امور خارجه روسیه، دیدار و در خصوص روابط دوجانبه، همکاری‌ها در چارچوب شانگهای و بریکس و تحولات غرب آسیا رایزنی کرد. عراقچی در این دیدار با «تقدیر» از مواضع مسکو در قبال تحولات اخیر، ناامنی در تنگه هرمز را نتیجه مستقیم عدم پایبندی آمریکا به تعهدات خود دانست و بر عزم ایران جهت دفاع از امنیت ملی و ممانعت از تهدیدات در این آبراه حیاتی تاکید کرد. به گزارش ایرنا، سرگئی لاوروف نیز با محکوم کردن اقدامات نظامی آمریکا و اسرائیل، بر اهمیت اعتمادسازی برای ایجاد سازوکار امنیتی متکی بر کشورهای منطقه تاکید و آمادگی روسیه را برای هرگونه مساعدت در این زمینه اعلام کرد.
@@ -349,15 +469,6 @@ src :@IranintlTV
 ‏وزارت کشور بریتانیا گفت افرادی که تهدیدی برای امنیت ملی تشخیص داده شوند، بازداشت و در نخستین فرصت از این کشور اخراج خواهند شد.
 ‏https://iranintl.com/202607257761
 04:27
-1405/05/03
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — OpenAI says two of its AI models escaped a controlled testing environment during a cybersecurity evaluation last week and successfully hacked into AI platform Hugging Face.  ➡️ The models exploited a vulnerability to break out of a sandbox environment…
-04:26
 1405/05/03
 
 
@@ -690,14 +801,6 @@ src :@World_Newsly
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
 03:24
-1405/05/03
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — Islamic Republic of Iran Air Force fighter jets are conducting a patrol near the northern Iran-Iraq border.
-03:14
 1405/05/03
 
 
@@ -1225,15 +1328,6 @@ src :@MilitiaNews
 
 
 
-src :@naya_foriraq
-[عکس]
-‏انفجار عنيف جراء سقوط صاروخ دفاعي من منظومة الباتريوت على نقطة الإطلاق داخل القاعدة الأمريكية في البحرين.
-01:53
-1405/05/03
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏ترجمه ماشین:
@@ -1336,14 +1430,6 @@ src :@MilitarryWorld
 
 
 
-src :@Alibk3
-‏انفجار في البحرين
-01:39
-1405/05/03
-
-
-
-
 src :@ClashReport
 ‏The U.S. military says it disabled another merchant ship that repeatedly tried to breach its blockade of Iranian ports, marking the second commercial vessel stopped since the blockade was reimposed.
 ‏
@@ -1381,16 +1467,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 01:37
-1405/05/03
-
-
-
-
-src :@naya_foriraq
-‏الله أكبر
-‏
-‏خلل في منظومة الباتريوت الامريكية بالبحرين يؤدي الى اصابة صاروخ دفاعي في نقطة الإطلاق
-01:36
 1405/05/03
 
 
@@ -1443,22 +1519,6 @@ src :@wfwitness
 
 
 
-src :@naya_foriraq
-‏اصابة مباشرة لصاروخ إيراني على قاعدة تضم مقر الأسطول الخامس  في البحرين واعمدة الدخان تتصاعد
-01:31
-1405/05/03
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
-01:28
-1405/05/03
-
-
-
-
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — Initial reports of an explosion in Sirik, Hormozgan Province, Iran.
 ‏
@@ -1472,22 +1532,6 @@ src :@intelslava
 src :@WAR_ROOM_NEWS
 ‏خبرگزاری آسوشیتدپرس: ارتش آمریکا یک کشتی تجاری را در دریای عمان توقیف کرد
 01:25
-1405/05/03
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸‏أسوشيتد برس: الجيش الأميركي يعترض سفينة تجارية في خليج عمان.
-01:24
-1405/05/03
-
-
-
-
-src :@naya_foriraq
-‏🇸🇦🇦🇪‏التحالف العربي الارهابي: لم يتم استهداف ميناء الحديدة وجميع موانئ الحديدة مفتوحة أمام الملاحة البحرية، والأهداف التي تم تدميرها مرتبطة بالتهديد على السفن التجارية بالبحر الأحمر.
-01:23
 1405/05/03
 
 
@@ -1626,15 +1670,6 @@ src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Image showcases U.S. strikes targeting Sirik, Iran.
 ‏
 ‏@wfwitness
-01:13
-1405/05/03
-
-
-
-
-src :@Alibk3
-[عکس]
-‏دوي انفجار في سيريك الإيرانية
 01:13
 1405/05/03
 
@@ -4824,15 +4859,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇮🇶 Impacts at the Kurdish terrorist camps in Iraqi Kurdistan  @Middle_East_Spectator
-20:17
-1405/05/02
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏تصاویری از رزمایش رمپیک ٢٠٢۶ ایالات متحده آمریکا با حضور بیش از ٣٠ ناو، ۵ زیر دریایی، ٢٠٠ هواگرد و با حضور حدود ٣٠ هزار پرسنل از چندین کشور به سرفرماندهی ناو هواپیمابر هسته ای رزولت
@@ -4871,19 +4897,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 20:14
-1405/05/02
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇧🇭/🇰🇼 NEW: According to the Wall Street Journal, Bahrain and Kuwait carried out airstrikes against Iran about 2-3 weeks ago
-‏
-‏The attacks were carried out with the help of Emirati intelligence and defensive cover, indicating a united Arab front against Iran.
-‏
-‏@Middle_East_Spectator
-20:13
 1405/05/02
 
 
@@ -5691,22 +5704,6 @@ src :@didarnews1
 
 
 
-src :@Shin_Persian
-‏Faytuks Network ✓ @FaytuksNetwork
-‏
-‏President Trump will meet Israeli prime minister Benjamin Netanyahu at the White House on Tuesday - Statement
-‏
-‏ترجمه خودکار فارسی
-‏
-‏رئیس‌جمهور ترامپ روز سه‌شنبه با بنیامین نتانیاهو، نخست‌وزیر اسرائیل در کاخ سفید دیدار خواهد کرد - بیانیه
-‏
-‏𝕏  ·  @shin_persian
-17:49
-1405/05/02
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻نتانیاهو سه‌شنبه با ترامپ دیدار می‌کند
@@ -5796,22 +5793,6 @@ src :@VahidOnline
 ‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
-17:32
-1405/05/02
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔻تعجب مجری شبکه CNN از بنزین 5.5 دلاری در واشنگتن دی‌سی
-‏
-‏👤 ولف بلیتزر:
-‏
-‏"قبل از شروع جنگ ایران در ماه فوریه، میانگین قیمت بنزین معمولی در ایالات متحده 2.98 دلار به ازای هر گالن بود. اکنون به طور میانگین 4.11 دلار است. 
-‏اما به تابلوی قیمت بنزینی که دیروز در حال رانندگی در اطراف منطقه واشنگتن دی‌سی دیدم توجه کنید. و با تشدید جنگ، قیمت بنزین همچنان افزایش خواهد یافت!"
-‏
-‏🆔 @Americana_ir
 17:32
 1405/05/02
 
@@ -6333,22 +6314,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 14:16
-1405/05/02
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏⚜بر اساس نقشه پایش آتش‌سوزی NASA FIRMS، یک پادگان نظامی و انبارهای نگهداری مهمات در غرب شهر اهواز (استان خوزستان) دچار آتش‌سوزی شده‌اند.
-‏
-‏⚜با توجه به وسعت مجموعه، تعداد تأسیسات موجود و شدت آتش‌سوزی‌ها، این ارزیابی مطرح شده که حمله احتمالاً توسط یک بمب‌افکن لنسر انجام شده است.
-‏
-‏📍 مختصات محل مورد اشاره:
-‏"31.3949986, 48.5754627"
-‏
-‏📃@Cataphract1
-14:11
 1405/05/02
 
 
