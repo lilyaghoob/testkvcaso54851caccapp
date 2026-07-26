@@ -49,7 +49,6 @@ RASTAKHIZ_PERSIAN
 defence_news
 Shin_Persian
 Farsi_Iranwire
-militaryinpersian
 Alibk3
 Navy_Iranian
 OSINTWarfare
