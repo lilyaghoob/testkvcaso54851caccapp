@@ -1,3 +1,30 @@
+src :@ClashReport
+[عکس]
+‏German police fatally shot 21-year-old Abdul Ballout, the suspect in the Berlin CSD car-ramming attack, during a gunfight after he opened fire on officers at a garden allotment in Berlin-Spandau.
+‏
+‏Source: BILD
+21:01
+1405/05/04
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏آکسیوس: فرمانده سنتکام پیشنهاد توقف حملات به تنگه هرمز را داد  به گزارش آکسیوس، دریاسالار «برد کوپر» فرمانده سنتکام به دولت آمریکا توصیه کرد کارزار بمباران در اطراف تنگه هرمز متوقف شود؛ زیرا این عملیات به سقف اثربخشی خود رسیده و ادامه آن دستاورد نظامی قابل‌توجهی…
+21:01
+1405/05/04
+
+
+
+
+src :@jangaavaran1390
+‏العربی می‌گوید مذاکرات ایران و عمان بر سر تنگه هرمز به نتایج مثبتی رسیده است ولی ایران تاکید دارد که مذاکرات با ایالات متحده باید به شکل گسترده‌تر و شامل همه موارد درگیری باشد
+20:59
+1405/05/04
+
+
+
+
 src :@BellumActaNews
 [عکس]
 ‏🇺🇦❌🇷🇺🇮🇷 — Ukrainian President Volodomyr Zelensky announces that Ukrainian drone forces conducted a strike against a Russian Arms company in Kirov as well multiple strikes against Russian Cargo ships going to Iran  Ukraine continues applying long‑range sanctions…
@@ -1503,20 +1530,6 @@ src :@Indypersian
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ :
-‏
-‏🔹️(عکس کیتلان کالینز خبرنگار CNN)
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-19:15
-1405/05/04
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇱🇮🇷 — Sylvan Adams, the President of the World Jewish Congress in Israel, met with Reza Pahlavi, the son of Iran's last Shah.
@@ -2661,17 +2674,6 @@ src :@mohem_mat
 src :@Parvazdaroj
 ‏ادامه دارد.
 ‏@PARVAZDAROJ | 𝑆𝐼𝐸𝑅𝑅𝐴
-17:23
-1405/05/04
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏#مقاله امروز سایت جنگاوران در مورد شاتگان بنلی ام ۴ است که در خدمت ارتش ایالات متحده قرار دارد
-‏
-‏https://jangaavaran.ir/benelli-m4
 17:23
 1405/05/04
 
