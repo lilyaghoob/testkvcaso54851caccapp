@@ -1,6 +1,51 @@
-src :@naya_foriraq
-‏نتن ياهو: سآتي إلى نيويورك من أجل الجمعية العامة للأمم المتحدة، ولست قلقا بشأن أي شيء.
-18:05
+src :@didarnews1
+‏🔴سردار رادان: توصیه داریم زائران عزیز مرز خسروی را در اولویت قرار دهند
+‏
+‏فرمانده کل انتظامی کشور در جمع خبرنگاران:
+‏🔹مرز خسروی مرز آماده‌ای است و با همت دوستانی که در استان انجام دادند نسبت به پارسال کاملا متفاوت شده است.
+‏🔹توصیه داریم زائران عزیز مرز خسروی را در اولویت بگذارند؛ هم زیرساخت آماده‌ای دارد و هم هوا بهتر است.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:11
+1405/05/04
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴نتانیاهو به فاکس نیوز: برنامه هسته‌ای ایران باید تموم بشه، چه با توافق چه بدون توافق.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+18:10
+1405/05/04
+
+
+
+
+src :@ClashReport
+‏Sudan: Sudan’s Army and allied Joint Forces claim to have retaken Bara and nearby towns (Umm Sayala, Jabrat al-Sheikh, Umm Qurfa, Gereikh) in North Kordofan, saying they now control the full Omdurman–El Obeid export road. 
+‏
+‏They report destroying 70+ RSF vehicles and easing pressure on El Obeid.
+18:09
+1405/05/04
+
+
+
+
+src :@ircfspace
+[عکس]
+‏توی هسته ایکس‌ری از نسخه ۲۶.۱.۲۳ به بعد یه سری هشدار برای قابلیت‌های منسوخ‌شده اضافه شده، که شامل allowInsecure و Shadowsocks، VMess، Trojan و VLESS بدون Flow میشن. مثلاً برای Shadowsocks این پیام در لاگ نمایش داده میشه:
+‏"The feature Shadowsocks (with no Forward Secrecy, etc.) is deprecated, not recommended for using and might be removed. Please migrate to VLESS Encryption as soon as possible".
+‏
+‏اگر در حال ساخت یا انتشار کانفیگ‌های مبتنی بر Xray هستین، بهتره به جایگزین‌های پیشنهادی مثل VLESS Encryption مهاجرت کنین، تا بعداً با حذفش به مشکل نخورین.
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+18:08
 1405/05/04
 
 
@@ -1605,14 +1650,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — U.S. Ambassador to the UN Mike Waltz told Fox News that President Trump is giving diplomacy with Iran a chance.
-16:47
-1405/05/04
-
-
-
-
 src :@Alibk3
 ‏المبعوث الأميركي في الأمم المتحدة:
 ‏
@@ -1626,20 +1663,6 @@ src :@Alibk3
 src :@naya_foriraq
 ‏🇮🇷اعلام خليجي: إيران أبلغت باكستان رفضها إنشاء ممر جديد في مضيق هرمز.
 16:46
-1405/05/04
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏⭕ در پست های اینده به عملیات کشتن ابوسیاف ، از رهبران داعش و مسئول فروش نفت و گاز داعش ( نفت و گاز استخراج شده در سوریه و عراق ) به ترکیه میپردازیم ، این عملیات معروف به طبخ استیک.
-‏
-‏ادامه دارد.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-16:45
 1405/05/04
 
 
@@ -1718,21 +1741,6 @@ src :@KayhanLondonChannel
 ‏از طرف جمعی از زندانیان سیاسی کنونی و سابق
 ‏
 ‏https://kayhan.london/1405/05/04/405666/
-16:42
-1405/05/04
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱⚡️ — Around 60–64 U.S. Air Force aerial refueling tankers are deployed across Israel as of Saturday.
-‏
-‏— Ben Gurion Airport: 27 tankers
-‏— Ovda Air Base: 13–17 tankers
-‏— Ramon Airport: 20 tankers
-‏
-‏Source: EGYOSINT
 16:42
 1405/05/04
 
@@ -2402,23 +2410,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏De-Wildberriesization
-‏
-‏Since 17 July, Ukrainian strikes have hit Wildberries warehouses across Russia — the country's largest e-commerce platform.
-‏
-‏Sites hit include Elektrostal, Kotovsk, Krasnodar, Nevinnomyssk, Voronezh, St. Petersburg (Shushary), Simferopol, and Yekaterinburg.
-‏
-‏At least eight workers have been killed and dozens injured.
-‏
-‏Ukrainian estimates say over 1.15 million m² of warehouse space — more than 20% of Wildberries' total network — has been damaged or knocked out in a single week, with inventory losses running into the billions.
-15:48
-1405/05/04
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‏ ‌‏ ‏ 
@@ -2487,17 +2478,6 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 15:45
-1405/05/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ukraine's new Army Chief, Maj. Gen. Mykhailo Drapatyi, announced a sweeping audit of the entire armed forces just five days after replacing Oleksandr Syrskyi as Commander-in-Chief.
-‏
-‏He said the goal is "not to look for the guilty, but to honestly assess the real state of affairs" — covering combat readiness, supply, manning, training, and command effectiveness across every unit, with "no untouchables" and full accountability for negligence or abuse.
-15:44
 1405/05/04
 
 
@@ -2586,21 +2566,6 @@ src :@GeoPWatch
 
 src :@Mena_Live
 ‏The Iranian Revolutionary Guard Corps struck an oil tanker that had strayed from the shipping route defined by Iran, according to Iranian television.  @Mena_Live
-15:36
-1405/05/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Chinese state media, citing top radar scientist Academician Ben De, claims that Pakistani J-10CE fighter jets used their onboard KLJ-7A AESA radars to detect, track, and shoot down Indian jets at ranges near 200 km during the May 2025 clashes, without relying on AWACS or a networked kill chain.
-‏
-‏Gallium nitride modules and low-probability-of-intercept waveforms meant Indian Rafales, MiG-29s, and Su-30MKIs allegedly never got a lock warning before PL-15 missiles hit.
-‏
-‏US and French officials have confirmed at least one Rafale and one other Indian jet were downed by J-10s that night.
-‏
-‏Source: Sohu
 15:36
 1405/05/04
 
@@ -3215,14 +3180,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@naya_foriraq
-‏📰فايننشال تايمز: أبلغت كبرى شركات التأمين البحري الحربي في لويدز لندن الوسطاء أنها ستتوقف عن بيع تغطية الحرب للشحنات المرتبطة بالسعودية في البحر الأحمر بعد هجمات الحوثيين على ناقلتين سعوديتين، ويستعد البعض لإلغاء وثائق التأمين الحالية.
-14:44
-1405/05/04
-
-
-
-
 src :@Mena_Live
 ‏The Yemeni Houthis have struck another Saudi ship in the Red Sea moments ago.
 ‏
@@ -3370,14 +3327,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@Exciton_missile_program 🚀
 14:30
-1405/05/04
-
-
-
-
-src :@naya_foriraq
-‏حدث امني في البحر الاحمر
-14:28
 1405/05/04
 
 
@@ -6323,22 +6272,6 @@ src :@bricsnews
 
 
 
-src :@didarnews1
-‏🔴اگر اسرائیل دوباره به جنگ برگردد بلای بزرگی بر سرش می‌آوریم
-‏
-‏سردار حسین محبی سخنگوی سپاه پاسداران:
-‏🔹اسرائیل با تحریک رئیس جمهور آمریکا و دادن اطلاعات غلط می‌خواهد آمریکا را در منطقه نگه دارد و اهدافش را با استفاده از توان آمریکا پیش ببرد.
-‏🔹اسرائیل می‌داند اگر به جنگ برگردند و ما روی آنها تمرکز کنیم چه بلایی بر سر او می‌آوریم.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-00:02
-1405/05/04
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Despite a de facto ceasefire with Iran, CENTCOM continues to pour personnel and military equipment into the Middle East region.
@@ -7308,15 +7241,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 18:13
-1405/05/03
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏#BREAKING | 🇬🇷 🇸🇦 🇾🇪 — Greek-operated Patriot air defense systems in Saudi Arabia successfully intercepted two ballistic missiles launched from Yemen targeting Aramco oil facilities in Yanbu on Saturday.
-‏
-‏The Global Eye | Subscribe
-18:09
 1405/05/03
