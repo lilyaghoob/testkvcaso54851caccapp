@@ -1,3 +1,46 @@
+src :@naya_foriraq
+‏نتن ياهو: سآتي إلى نيويورك من أجل الجمعية العامة للأمم المتحدة، ولست قلقا بشأن أي شيء.
+18:05
+1405/05/04
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴نتانیاهو به فاکس نیوز: زمانی جنگ با ایران تموم میشه که رژیم جمهوری اسلامی سقوط کنه با اونقدر ضعیف بشه که بفهمه هیچوقت نباید به فکر ساخت سلاح هسته‌ای باشه.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+18:05
+1405/05/04
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏مایک والتز، سفیر ایالات متحده در سازمان ملل، اعلام کرد دونالد ترامپ، رییس‌جمهوری آمریکا، به طور موقت حملات نظامی علیه ایران را متوقف کرده تا فرصت بیشتری برای پیشبرد مسیر دیپلماسی و مذاکرات فراهم شود.
+‏بیشتر بخوانید: https://iranwire.com/fa/election-news/155462
+‏@Farsi_Iranwire
+18:03
+1405/05/04
+
+
+
+
+src :@mwarmonitor
+‏🔴 بنیامین نتانیاهو در گفت‌وگو با فاکس نیوز: برنامه هسته‌ای ایران باید به هر شکل ممکن پایان یابد؛ چه از طریق توافق و چه بدون توافق.
+‏
+‏🔴 این جنگ زمانی پایان خواهد یافت که یا نظام ایران سقوط کند، یا آن‌قدر تضعیف شود که به این نتیجه برسد که باید برنامه هسته‌ای خود را متوقف کند.
+‏
+‏@mwarmonitor
+18:03
+1405/05/04
+
+
+
+
 src :@MilitarryWorld
 ‏🔴سی بی اس: بر اساس آخرین نظرسنجی ها، بیشتر مردم آمریکا نسبت به وضعیت جنگ بین ایران و آمریکا حس بلاتکلیفی و ناامیدی دارند.
 ‏
@@ -133,7 +176,7 @@ src :@Navy_Iranian
 ‏
 ‏در آن دوران  ناوهای هواپیمابر اغلب در قالب یک گروه رزمی و در فاصله‌ای نه‌چندان زیاد از یکدیگر حرکت می‌کردند، شباهت ظاهری ناوها، شرایط پرواز و فشار مأموریت باعث شد خلبان ناو مقصد را با ناو خود اشتباه بگید
 ‏
-‏اما جالب‌ترین بخش ماجرا، واکنش خدمه ناو USS Wasp بود آن‌ها به جای اقدام بر علیه خلبان بر روی بدنه هواپیما با گچ جمله Must Be Air Force را نوشتند
+‏اما جالب‌ترین بخش ماجرا، واکنش خدمه ناو USS Wasp بود آن‌ها بر روی بدنه هواپیما با گچ جمله Must Be Air Force را نوشتند
 ‏
 ‏پس از سوخت‌گیری و انجام هماهنگی‌های لازم هواپیما دوباره به ناو اصلی خود بازگشت اما تصویری که از آن با نوشته Must Be Air Force ثبت شد، به یکی از معروف‌ترین عکس‌های تاریخ هوانوردی دریایی تبدیل شد
 ‏
@@ -1783,25 +1826,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 حدود ۶۰ تا ۶۴ تانکر سوخت‌رسانی هوایی نیروی هوایی ایالات متحده تا ۲۵ ژوئیه در سراسر اسرائیل مستقر شدند که نشان‌دهنده تغییر قابل توجهی در پایگاه‌های این کشور است. ناوگان به جای تمرکز صرف در فرودگاه بن گوریون، اکنون در پایگاه هوایی اودا و فرودگاه رامون (ایلات) در جنوب اسرائیل پراکنده شده است.
-‏
-‏
-‏فرودگاه بن گوریون: ۲۷ تانکر
-‏
-‏پایگاه هوایی اودا: ۱۳ تا ۱۷ تانکر
-‏
-‏فرودگاه رامون (ایلات): ۲۰ تانکر
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-16:40
-1405/05/04
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏〰️F-14A Navigation〰️ 
@@ -1985,21 +2009,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦❌🇷🇺 — Ukrainian drones have attacked multiple Wildberries logistics facilities across Russia since July 17, with several warehouses damaged or destroyed.
-‏
-‏➡️ Wildberries, Russia's largest e-commerce platform, operates around 5.6 million square meters of warehouse space. The recent attacks have affected more than 1.15 million square meters of logistics capacity (more than 20% of Wildberries' total network), according to Ukrainian estimates.
-‏
-‏➡️ Reported strikes include facilities in Kotovsk, the Moscow region, Krasnodar, Nevinnomyssk, Voronezh, Simferopol in Crimea, Tver, and Shushary in Leningrad Oblast. Another attack targeted a logistics hub in Yekaterinburg, roughly 2,000 kilometers from Ukraine.
-‏
-‏➡️ At least eight Wildberries workers have been killed and dozens injured.
-16:31
-1405/05/04
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏دقت کردید از وقتی جولانی سوریه رو گرفت دیگه
@@ -2103,18 +2112,6 @@ src :@MilitarryWorld
 ‏ در دو شب اخیر آمریکایی‌ها حملات خودشون رو متوقف کردن و از اونجا که راهبرد ما هم تلافی‌جویانه بوده، عملیات‌های متقابل جمهوری اسلامی ایران هم متوقف شده.
 ‏
 ‏@MilitarryWorld | Parsa
-16:24
-1405/05/04
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇯🇵🇵🇭🇨🇳⚡️ — The U.S. and Japan joined the Philippines in five days of joint maritime exercises in the South China Sea.
-‏
-‏➡️ The drills, held from July 21 to 25, involved warships, coast guard vessels, surveillance aircraft, and fighter jets in operations aimed at improving interoperability among the three allies, the Philippine military said.
-‏
-‏➡️ The exercises are the latest in a series of expanded joint drills as the Philippines, backed by the U.S. and Japan, seeks to counter China's sweeping territorial claims in the South China Sea.
 16:24
 1405/05/04
 
@@ -2650,19 +2647,6 @@ src :@cataphract1
 
 
 
-src :@ClashReport
-[عکس]
-‏Al-Haj Hussein, known as "Al-Bous," commander of RSF Group 142 in the Rahid al-Nuba sector of North Kordofan, was killed in fighting with Sudan's Army.
-‏
-‏He's described as one of the most influential and powerful RSF commanders in the region, previously praised by Hemedti.
-‏
-‏The claim comes as the army pushes gains along the Omdurman–El Obeid road, having just retaken Bara and several nearby positions to squeeze RSF logistics.
-15:33
-1405/05/04
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜مرکز عملیات تجارت دریایی بریتانیا (UKMTO) با صدور یک هشدار دریانوردی اعلام کرد که پس از دریافت گزارشی از یک نفتکش درباره مشاهده برخورد یک پرتابه ناشناس با سطح آب در فاصله‌ای نزدیک به شناور، به کشتی‌های عبوری از جنوب دریای سرخ و محدوده تنگه باب‌المندب هشدار داده است.
@@ -2928,23 +2912,6 @@ src :@naya_foriraq
 src :@naya_foriraq
 ‏الله اكبر
 15:19
-1405/05/04
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻یاسر آسانی، وینگر آلبانیایی استقلال با انتشار پیامی در صفحه اینستاگرام خود، به گمانه‌زنی‌ها درباره آینده‌اش پایان داد و از ادامه حضورش در استقلال برای فصل جدید خبر داد.
-‏
-‏🔹وینگر ۲۹ ساله آلبانیایی، که در هفته‌های اخیر به یکی از خبرسازترین بازیکنان استقلال تبدیل شده بود، در پیامی خطاب به هواداران نوشت: «از امروز با تمام وجودم در کنار شما هستم؛ در کنار بزرگ‌ترین باشگاه ایران و هواداران پرشور و وفادارش. امیدوارم با هم روزهای باشکوهی را رقم بزنیم، خاطرات ماندگاری بسازیم و موفقیت‌های بیشتری برای استقلال به دست بیاوریم. مشتاق دیدار شما هستم.»
-‏
-‏🔹آسانی پیش از این، به دلیل پرداخت نشدن مطالبات فصل گذشته و پیش‌پرداخت قرارداد فصل جدید، با ارسال نامه‌ای به باشگاه، قراردادش را به صورت یک‌طرفه فسخ کرده بود.
-‏
-‏🔹با این حال، در روزهای گذشته مذاکرات میان مدیران استقلال و این بازیکن به نتیجه رسید و اختلافات مالی دو طرف برطرف شد.
-‏
-‏@iranintltvsport
-15:18
 1405/05/04
 
 
@@ -3419,14 +3386,6 @@ src :@naya_foriraq
 src :@WAR_ROOM_NEWS
 ‏🔴گزارش از هدف قرار گرفتن یک کشتی سعودی دیگر توسط حوثی ها یمن در دریای سرخ
 14:28
-1405/05/04
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
-14:26
 1405/05/04
 
 
@@ -6975,14 +6934,6 @@ src :@VahidOnline
 
 
 
-src :@mwarmonitor
-‏🚨ترامپ روز جمعه به ارتش دستور داد به ایران حمله نکند  💬نویسنده: باراک راوید   ⏺دونالد ترامپ، رئیس‌جمهور آمریکا، روز جمعه پس از بیانیه‌ای دربارهٔ نوآوری‌های هسته‌ای آمریکا در دفتر بیضی شکل کاخ سفید، به پرسش‌های خبرنگاران پاسخ داد. به گفتهٔ دو منبع آگاه از این…
-20:45
-1405/05/03
-
-
-
-
 src :@Middle_East_Spectator
 ‏Within one day I received more death threats from Ukrainians than from Israelis in the past 3 years combined.
 ‏
@@ -7368,23 +7319,4 @@ src :@BellumActaNews
 ‏
 ‏The Global Eye | Subscribe
 18:09
-1405/05/03
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏تصاویر جدیدی در فضای مجازی منتشر شده است که احتمالاً پنجمین نمونه اولیه از هواپیمای پیشرفته چینی J-36 را نشان می دهد که توسط شرکت هواپیماسازی چنگدو ساخته شده است.
-‏
-‏این نمونه اولیه گفته می شود که ترکیبی اصلاح شده از ورودی هوا و نازل موتور دریافت کرده است. 
-‏
-‏هدف اصلی تغییرات یافتن تعادل بهینه بین پنهانکاری، راندمان پیشرانه، امضای حرارتی و قابلیت کنترل است.
-‏
-‏توجه ویژه ای به طراحی دم شده است: مهندسان چینی احتمالاً گزینه های مختلف نازل را برای کاهش همزمان رادار و امضای فروسرخ هواپیما و در عین حال مانورپذیری بالا آزمایش می کنند.
-‏
-‏فرض بر این است که J-36 به عنوان یک جنگنده برای کسب برتری هوایی ساخته نمی شود، بلکه به عنوان یک سکوی چند منظوره دوربرد برای انهدام هواپیماهای آواکس، هواپیماهای تانکر، پست های فرماندهی، هوانوردی دریایی و سایر عناصر مهم سیستم کنترل طرف مقابل در منطقه هند و اقیانوس آرام ساخته می شود.
-‏
-‏@PARVAZDAROJ | Mmd
-18:03
 1405/05/03
