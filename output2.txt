@@ -1,5 +1,68 @@
+src :@tabzlive
+[عکس]
+‏🇵🇸🇮🇱⚡️ — Palestinian Authority President Mahmoud Abbas has sent letters to several world leaders, the EU, the Arab League, and the president of the U.N. Security Council, urging urgent international action to halt Israeli military operations and settler violence against Palestinians in the occupied West Bank.
+‏
+‏➡️ Abbas said the violence reflects a systematic Israeli policy to expand settlements, weaken the Palestinian Authority, and undermine the prospects of a two-state solution. 
+‏
+‏➡️ He called on the international community to pressure Israel to end settler attacks and settlement activity, hold those responsible accountable, implement relevant UN Security Council resolutions, and provide international protection for Palestinians.
+17:17
+1405/05/04
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏〰️F-14A Navigation〰️
+‏
+‏#اختصاصی #تامکت #اف۱۴
+‏
+‏    همانطور که پیش تر گفتیم آلایمنت ناوبری INS نیاز به سه دسته اطلاعات دارد که باید از طریق CAP (با آن آشنا شدید) وارد شوند. برای اینکار افسر رادار باید سوئیچ WCS را در حالت استند بای قرار دهد و خنک کننده رادار AWG-9 را فعال کند، حال به آرامی کامپیوتر های مربوطه فعال می شوند؛ اگر کامپیوتر ها فعال بشوند و نقص فنی وجود نداشته باشد، هر دو نمایشگر TID و DDD  در کابین عقب روشن خواهند شد.
+‏     بعد از روشن شدن نمایشگر ها افسر رادار می تواند BIT های مربوطه را اجرا کند تا از سلامت سیستم ها اطمینان حاصل کند. برای آغاز آلایمنت افسر رادار باید کتگوری CAP را در حالت NAV قرار دهد و از بین مسیج ها OWN A/C را انتخاب کند، حال می تواند از بخش کیبورد به ترتیب LAT و LONG را انتخاب تا مختصات دقیق هواپیما بر روی زمین را تا شش رقم وارد کند، باید بعد از وارد شدن مختصات دکمه Enter را فشار بدهد تا WCS مختصات هواپیما بر روی زمین را بصورت ذخیره داشته باشد.
+‏
+‏4/
+‏
+‏@PARVAZDAROJ | 𝑆𝐼𝐸𝑅𝑅𝐴
+17:16
+1405/05/04
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇦⚡️ — According to Ukrainian sources, Russian Garpiya-A1 loitering munitions, and possibly Geran-series loitering munitions as well, are being used to intermittently deploy high-explosive fragmentation munitions.  The munitions are reportedly released through…
+17:15
+1405/05/04
+
+
+
+
+src :@Mena_Live
+‏Turkish Exporters' Assembly:
+‏
+‏The value of Turkish exports to Syria increased by 26.4% in the first half of 2026 compared to the same period last year.
+‏
+‏The value of exports reached $1.284 billion and 328 million, while the weight of the exported products exceeded 3 million tons.
+‏
+‏Products from the milling industry topped the list of exported goods, followed by cement and then electrical and energy products.
+‏
+‏@Mena_Live
+17:14
+1405/05/04
+
+
+
+
 src :@Navy_Iranian
 ‏داده‌های ماهواره‌ای بتاریخ ۲۶ جولای از دود برفراز  تاسیسات آرامکو در جیزان پس از حملات موشکی/پهپادی اخیر انصار الله   @RedLionCorps
+17:13
+1405/05/04
+
+
+
+
+src :@defence_news
+‏ایران در طول آتش‌بس چه پیشرفتی در توان نظامی خود داشت؟  سردار محبی سخنگوی سپاه: ما از این فرصت استفاده کردیم، توان خودمان را افزایش دادیم، سرعت تولید و دقت موشک‌هایمان را بالا بردیم، آمادگی‌های نظامی‌مان را بیشتر کردیم، پدافند غیرعامل‌مان را قوی‌تر کردیم.…
 17:13
 1405/05/04
 
@@ -12,6 +75,14 @@ src :@Navy_Iranian
 ‏
 ‏
 ‏@RedLionCorps
+17:12
+1405/05/04
+
+
+
+
+src :@naya_foriraq
+‏🇮🇱اعلام العدو: الكابينت يوافق على إدخال ما يسمى بـ"مجلس السلام" إلى قطاع غزة.
 17:12
 1405/05/04
 
@@ -3444,14 +3515,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Iranian Army spokesman said Iran has suspended its retaliatory strikes after the U.S. paused its bombing campaign for a second consecutive night.
-13:53
-1405/05/04
-
-
-
-
 src :@KayhanLondonChannel
 ‏‏
 ‏مشکل اصلی، جمهوری اسلامی است؛ چه با جنگ، چه بی‌جنگ!
@@ -3650,14 +3713,6 @@ src :@GeoPWatch
 ‏🇮🇷❌🇺🇸 - Iran’s military says it has put a halt to retaliatory operations after the U.S. has stopped its airstrikes.
 ‏
 ‏@GeoPWatch
-13:33
-1405/05/04
-
-
-
-
-src :@naya_foriraq
-‏🇷🇴‏رومانيا تتهم روسيا مجددا بانتهاك مجالها الجوي وتزعم انها اسقطت مسيرات: من غير المقبول أن تستمر روسيا بانتهاك مجالنا الجوي
 13:33
 1405/05/04
 
@@ -6446,18 +6501,6 @@ src :@MilitiaNews
 
 
 
-src :@Mena_Live
-‏📌The "Pride and Dignity" tent has been dismantled, following an order from President Ahmed al-Shar'a. 
-‏📌This occurred after a delegation from the Presidential office, sent by the President and represented by Sheikh Saif_al-Hamoud_al-Jarba arrived.
-‏📌 An agreement was reached to form a delegation of revolutionaries from Hasakah to meet with the President and explain the concerns of the Hasakah governorate with the continued YPG/PKK presence in the governorate.
-‏
-‏@Mena_Live
-22:49
-1405/05/03
-
-
-
-
 src :@militaryinpersian
 ‏روسیه اطلاعات حیاتی و شناسایی دقیق از مواضع، عناصر و زیرساختهای آمریکا در منطقه را در اختیار جمهوری اسلامی گذاشته است.  بنابراین سپاه و ارتش توانستند ضرباتی فراتر از توان معمول خود بزنند. روسیه بهای سنگینی خواهد پرداخت، حتی سنگین تر از قبل! و مجری اوکراین…
 22:35
@@ -6830,17 +6873,6 @@ src :@BellumActaNews
 src :@BellumActaNews
 [عکس]
 ‏🇲🇱- According to the Malian Army from July 22-23 2026, airstrikes on a JNIM-FLA base located 40 km from Didiéni destroyed a good chunk of terrorists along with separate strikes taking out armored vehicles operated by JNIM-FLA near Kidal and Soribougou
-20:53
-1405/05/03
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏روزنامه نیویورک پست گزارش داد آمریکا در حال بررسی طرحی برای اجرای یک عملیات ویژه با هدف خارج کردن ذخایر اورانیوم غنی‌شده ایران از تاسیسات هسته‌ای این کشور است؛ عملیاتی که برخی کارشناسان آن را «پیچیده‌ترین عملیات نظامی تاریخ» توصیف کرده‌اند.
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155442
-‏@Farsi_Iranwire
 20:53
 1405/05/03
 
