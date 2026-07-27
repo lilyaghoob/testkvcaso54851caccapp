@@ -1,4 +1,22 @@
 src :@tabzlive
+‏🇮🇱❌🇱🇧 — Two rounds of IDF artillery strikes have been conducted against Ali al-Taher heights, Lebanon over the past two hours.
+02:32
+1405/05/06
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی برنامه با کامبیز حسینی | توقف حملات بدون آتش‌بس؛ منطقه میان مذاکره و جنگی تمام‌عیار
+‏@iranintlTV
+02:24
+1405/05/06
+
+
+
+
+src :@tabzlive
 ‏🇺🇸🇮🇱⚡️ — Israeli Prime Minister Benjamin Netanyahu has landed in Washington D.C. He will meet with President Trump on Tuesday.
 02:13
 1405/05/06
@@ -173,15 +191,6 @@ src :@Alibk3
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇺🇸 Israeli PM Netanyahu departs for Washington.  @wfwitness
-01:56
-1405/05/06
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏الغارديان:
@@ -212,19 +221,6 @@ src :@World_Newsly
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
 01:50
-1405/05/06
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇺🇸🇮🇷 NYP⁠: Israeli PM Netanyahu is expected to present President Trump with new intelligence alleging that Iran is expanding activity at its underground Pickaxe Mountain nuclear facility during their meeting in Washington.
-‏
-‏Israeli intelligence believes Iran has moved uranium enrichment centrifuges into the heavily fortified site near Natanz, raising concerns that Tehran is rebuilding parts of its nuclear programme despite recent US and Israeli strikes.
-‏
-‏@wfwitness
-01:47
 1405/05/06
 
 
@@ -396,19 +392,6 @@ src :@ClashReport
 ‏Eight US House members demanded Rubio review ties with Malaysia over the policy, and the Malaysian ambassador was summoned.
 ‏
 ‏Anwar firmly rejected the pressure, reaffirming the hard line against what he called the "illegal Zionist Israeli entity."
-01:14
-1405/05/06
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇦🇺🇫🇷 Project Sunrise's Airbus A350 1000XLR is currently 14 hours into its journey home from Melbourne to Toulouse. It will stay 10 more hours in the air. The distance crossed is expected to exceed 20 thousand kilometers (more than half-way around the globe), smashing by ~5000km the current record crossed by a civilian airliner.
-‏
-‏Project Sunrise aims to eventually establish routine flights between Australia and the rest of the world, notably Europe, reducing the tyranny of distance. 
-‏
-‏@wfwitness
 01:14
 1405/05/06
 
@@ -690,14 +673,6 @@ src :@ClashReport
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸☀️🇮🇶🇮🇷 Footage showcases Iranian Drones launched from Piranshar in Iran on route to Erbil in the Kurdistan Region of Iraq.  Footage confirms the earlier report of active coalition sorties to intercept the incoming wave of drones.  @wfwitness
-00:43
-1405/05/06
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -712,18 +687,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:42
-1405/05/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇮🇷 Times of Israel: Mediators from Pakistan, Egypt, and Qatar believe they are close to a breakthrough to revive the US-Iran memorandum of understanding, with a proposal to resolve disputes over the Strait of Hormuz. 
-‏
-‏Iran and Oman have approved the proposal, but President Trump is waiting until after his meeting with Israeli Prime Minister Benjamin Netanyahu to make a decision.
-‏
-‏@wfwitness
-00:38
 1405/05/06
 
 
@@ -1234,15 +1197,6 @@ src :@mwarmonitor
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Renewed explosions heard in southern Lebanon.  This is unsual given it’s been nonstop for over 20 minutes.  @wfwitness
-23:44
-1405/05/05
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهوری آمریکا، با حضور در کارخانه «جنرال موتورز» در میشیگان، با حمایت از حمله به جمهوری اسلامی اعلام کرد ایالات متحده جمهوری اسلامی را حسابی در هم کوبیده است.
@@ -1326,31 +1280,12 @@ src :@tglobaleye
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇶 A U.S. drone reportedly went down near Haditha Dam in Iraq’s Anbar province. 
-‏
-‏@wfwitness
-23:37
-1405/05/05
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - President Trump: 
 ‏We will cripple Iran with full force, but we'll see how it ends. Right now, friendly talks are underway.
 ‏
 ‏@GeoPWatch
 23:37
-1405/05/05
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 The explosions heard in southern Lebanon were the result of an Israeli detonation in the occupied town of Kfar Tebnit within the security zone.  @wfwitness
-23:36
 1405/05/05
 
 
@@ -1400,14 +1335,6 @@ src :@samueltarikh
 ‏نیوزنیشن:
 ‏
 ‏مذاکرات میان ایران و آمریکا شکست خورده است، ایالات متحده تعطیلی کامل صنعت اتمی ایران را میخواهد و تهران‌ با آن کاملاً مخالفت کرده است.
-23:34
-1405/05/05
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Renewed explosions heard in southern Lebanon.  @wfwitness
 23:34
 1405/05/05
 
@@ -1481,22 +1408,6 @@ src :@mwarmonitor
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Explosions rock the occupied Lebanese town of Markaba within the security zone.  @wfwitness
-23:30
-1405/05/05
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Several detonations targeted the occupied Lebanese towns within the security zone.  @wfwitness
-23:29
-1405/05/05
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇺🇦🇷🇺⚡️ — Trump and Zelensky will discuss a peaceful resolution between Moscow and Kiev on July 28 — CNN.
 ‏
@@ -1540,20 +1451,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:28
-1405/05/05
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏افراح الزوبی، وزیر خارجه یمن، اعلام کرد دولت این کشور خواهان راه‌حل مسالمت‌آمیز برای پایان دادن به درگیری با حوثی‌ها است، اما اگر حوثی‌ها به فشارهای خود ادامه دهند، دولت برای تشدید تنش آماده است.
-‏
-‏او افزود هیچ گفت‌وگوی مستقیمی با حوثی‌ها وجود ندارد و عمان نقش میانجی را ایفا می‌کند. به گفته الزوبی، حوثی‌ها به دلیل نبود واکنش جدی جامعه بین‌المللی به حملات علیه کشتیرانی، جسورتر شده‌اند.
-‏
-‏وزیر خارجه یمن همچنین گفت حوثی‌ها در پی تکرار «مدل جمهوری اسلامی در تنگه هرمز» در باب‌المندب هستند و خواهان برقراری پروازهای مستقیم از ایران برای جبران کمبودهای نظامی، نیروی انسانی، منابع مالی و تسلیحات هستند. او گفت آمادگی‌های امنیتی برای حفاظت از صادرات نفت یمن در حال انجام است.
-‏https://iranintl.com/202607274107
-23:26
 1405/05/05
 
 
@@ -1613,16 +1510,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:26
-1405/05/05
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Several detonations targeted the occupied Lebanese towns within the security zone.
-‏
-‏@wfwitness
-23:25
 1405/05/05
 
 
@@ -3028,21 +2915,6 @@ src :@Artemis_Force
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇺🇸🇱🇧🇱🇧 Kan: The coordination mechanism between the U.S., Israel, and Lebanon was informed that the Lebanese Armed Forces discovered a Hezbollah weapons cache during operations in one of the pilot zones.
-‏
-‏This is believed to be the first time since the pilot began that LAF operations have uncovered a Hezbollah target containing weapons. Diplomatic sources view the discovery as evidence that the current mechanism is working and could pave the way for greater LAF involvement in disarming Hezbollah. Israeli officials confirmed the discovery.
-‏
-‏Another round of U.S.-mediated talks between Israel and Lebanon is expected to take place in Rome next week.
-‏
-‏@wfwitness
-21:13
-1405/05/05
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏🔴 سایت فروشگاهی یکساله، فقط ۸ میلیون!
@@ -3071,15 +2943,6 @@ src :@jangaavaran1390
 src :@samueltarikh
 ‏در پایگاه العدید قطر تمامی هواپیماهای سوخت‌رسان و ترابری آمریکایی بار دیگر از پایگاه خارج شده‌اند، در پایگاه پرنس سلطان عربستان نیز هواپیماهای آمریکایی به آرایش زمان جنگ بازگشته‌اند و سه فروند هواپیمای آواکس E-3 نیز دوباره در این پایگاه مستقر شده‌اند.
 21:11
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇸🇾 Kan: Despite public statements to the contrary, Syria's security establishment is developing contingency plans for potential operations against Hezbollah in Lebanon, if deemed necessary.  A Syrian security source close to the government said that…
-21:10
 1405/05/05
 
 
@@ -3158,18 +3021,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇶 Lebanese Minister of Energy Joe Al-Saddi: 
-‏
-‏The situation with Iraq is positive, and a technical team will arrive soon to begin work on the possibility of exporting Iraqi oil through the Mediterranean from the Tripoli refinery.
-‏
-‏@wfwitness
-21:00
-1405/05/05
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says Iran wants to meet to negotiate and there is a good chance of reaching a deal.
 ‏
@@ -3218,19 +3069,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 20:57
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇵🇸 An IDF drone strike targeted a motorcycle near the Khara'a Mosque in Jabalia, northern Gaza, earlier today, killing one person.
-‏
-‏Local sources identified the man killed as Mahmoud Taroush, referring to him as a "mujahid" (fighter) and a "heroic martyr".
-‏
-‏@wfwitness
-20:56
 1405/05/05
 
 
