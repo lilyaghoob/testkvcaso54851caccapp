@@ -24,14 +24,6 @@ src :@didarnews1
 
 
 
-src :@naya_foriraq
-‏مشاهد لتدمير حظيرة طائرات في قاعدة الملك فيصل الجوية في الأردن في 22 يوليو، والتي تعد مستودع ذخيرة للقوات الخاصة الأمريكية.
-08:47
-1405/05/05
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸 ❌🇨🇳🇷🇺 - According to the New York Times, U.S. officials worry that Putin and Xi Jinping could be taking into account U.S. munitions shortages from the Iran War into calculations of their next moves, in Ukraine and Europe for Russia and against Taiwan for China.
 ‏
@@ -3429,14 +3421,6 @@ src :@mwarmonitor
 
 
 
-src :@naya_foriraq
-‏🇮🇶🇸🇦‏الاعلام السعودي: رئيس الوزراء العراقي سيزور السعودية الخميس المقبل.
-21:40
-1405/05/04
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Iranian Foreign Minister, Abbas Araghchi, said that Israel incited Ukrainian President Zelensky to attack an Iranian ship and that this action will not go unanswered.
@@ -6788,16 +6772,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 09:04
-1405/05/04
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - It is now morning in Iran, and the U.S. has not conducted strikes on Iran for a second consecutive night.
-‏
-‏Reports of explosions last night in Bandar Abbas were inaccurate.
-‏
-‏@GeoPWatch
-08:52
 1405/05/04
