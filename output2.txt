@@ -1,3 +1,63 @@
+src :@WAR_ROOM_NEWS
+‏Channel photo updated
+21:01
+1405/05/05
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏Channel photo removed
+21:01
+1405/05/05
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇶 Lebanese Minister of Energy Joe Al-Saddi: 
+‏
+‏The situation with Iraq is positive, and a technical team will arrive soon to begin work on the possibility of exporting Iraqi oil through the Mediterranean from the Tripoli refinery.
+‏
+‏@wfwitness
+21:00
+1405/05/05
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 President Trump says Iran wants to meet to negotiate and there is a good chance of reaching a deal.
+‏
+‏@BRICSNews
+20:59
+1405/05/05
+
+
+
+
+src :@defence_news
+[عکس]
+‏منبع نظامی خارجی نگفته که ایران در حال آماده شدن برای حمله به اوکراین است ، این توییت بابک تقوایی ( کارشناس بسیار خوشنام !!!! دفاعی ) است که روزی در همین مملکت فعالیت می کرد و حالا هم در خارج از کشور فعال است.
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+20:58
+1405/05/05
+
+
+
+
+src :@World_Newsly
+‏🔴 بدر البوسعیدی، وزیر خارجه عمان، در گفتگو با همتایان منطقه‌ای خود بر اهمیت دستیابی به تفاهمی که ایمنی کشتیرانی در تنگه هرمز را تضمین کند، تأکید کرد.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+20:58
+1405/05/05
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏بنابر اطلاعاتی که منابع مطلع در اختیار «ایران‌وایر» قرار داده‌اند، شامگاه یکشنبه ۴مرداد۱۴۰۵ نیروهای سپاه پاسداران در جاده مریوان به سنندج بدون اخطار یا دستور ایست قبلی به خودروی «مهدی توکلی»، هنرمند، عکاس و مربی آموزشی سینمای جوان سنندج، شلیک کرده‌اند. مهدی توکلی ،مادر و خواهر او در همان لحظە کشته شدند.
@@ -13,7 +73,7 @@ src :@mohem_mat
 [عکس]
 ‏این آخرین نقشه بر مبنای آخرین نظرسنجی ها برای انتخابات سنا در آبان ماه است
 ‏
-‏دموکراتها پیشرفت خیلی خوبی داشتند و حتی در ایالت غیر ممکن آلاسکا هم اندکی پیش افتادند ولی اگر نتیجه مطابق این نقشه باشه
+‏دموکراتها پیشرفت خیلی خوبی داشتند و حتی در ایالت غیر ممکن آلاسکا و در ایالتهای سخت جورجیا و کارولینای شمالی هم اندکی پیش افتادند ولی اگر نتیجه مطابق این نقشه باشه
 ‏اتفاقی دردناک برای دموکراتها می افته در این حالت
 ‏دو حزب به تساوی ۵۰ به ۵۰ در سنا می رسند و در این حالت طبق قانون 
 ‏ونس معاون رییس جمهور که رییس سنا محسوب می شه دارای رای محسوب می شه و جمهوریخواهان به برتری ۵۱ به ۵۰ می رسند
@@ -34,7 +94,7 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇵🇸 An IDF drone strike targeted a motorcycle near the Khara'a Mosque in Jabalia, northern Gaza, earlier today, killing one person.
 ‏
-‏Local sources identified the man killed as Mahmoud Taroush, referring to him as a "mujahid" (fighter) and a "heroic martyr." 
+‏Local sources identified the man killed as Mahmoud Taroush, referring to him as a "mujahid" (fighter) and a "heroic martyr".
 ‏
 ‏@wfwitness
 20:56
@@ -1315,19 +1375,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴زهران ممدانی، شهردار نیویورک:
-‏
-‏من علاقه‌ای به وارد شدن در یک بحث و جدال با نخست‌وزیر نتانیاهو ندارم.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-19:44
-1405/05/05
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇵🇸 An IDF drone strike killed a man in Khan Younis, Gaza, earlier today.
@@ -1640,15 +1687,6 @@ src :@Shin_Persian
 ‏https://x.com/CENTCOM/status/2081768966091907309
 ‏
 ‏𝕏  ·  @shin_persian
-19:19
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇦🇾🇪 Satellite imagery captured on 26 July shows a major fire continuing to burn at Saudi Aramco’s Jazan Oil Refinery, with thick black smoke still rising from a large oil storage tank.  The imagery indicates the blaze remained active following the recent…
 19:19
 1405/05/05
 
@@ -2964,26 +3002,6 @@ src :@defence_news
 ‏به یاری خدا، اقدام خواهیم کرد و موفق خواهیم شد! 
 ‏
 ‏@Unaatann
-17:35
-1405/05/05
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏کاظم غریب‌آبادی، معاون وزیر خارجه جمهوری اسلامی، در سخنرانی خود در فرهنگسرای اندیشه اعلام کرد در مذاکرات اخیر اسلام‌آباد «هیچ‌گونه» التماسی برای تداوم مذاکرات از سوی هیات جمهوری اسلامی صورت نگرفت.
-‏
-‏معاون وزیر خارجه جمهوری اسلامی گفت: «در مذاکرات اخیر اسلام‌آباد، طرف آمریکایی طرحی را ارائه کرد که خواسته‌های افراطی در آن منعکس شده بود و عنوان کرد که در صورت رد این طرح، مذاکرات با شکست مواجه شده و بازمی‌گردند.»
-‏
-‏او افزود هیات جمهوری اسلامی این درخواست‌ها را «با صراحت رد کرد» و به هیات آمریکایی اعلام کرد که «برگردید.» 
-‏
-‏معاون وزیر خارجه جمهوری اسلامی همچنین اعلام کرد در مذاکرات عمان، طرف مقابل اصرار داشت مسیر جنوبی تنگه هرمز فعال باشد، اما جمهوری اسلامی این درخواست را نپذیرفت.
-‏
-‏غریب‌آبادی گفت: «به آنها گفتیم نتیجه این اقدام هرچه باشد، طرح‌های شما را نخواهیم پذیرفت.»
-‏
-‏غریب‌آبادی همچنین دیپلماسی جمهوری اسلامی را «عزت‌مندانه» نامید.
-‏https://iranintl.com/202607271007
 17:35
 1405/05/05
 
