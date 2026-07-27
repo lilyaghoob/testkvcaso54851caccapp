@@ -1,3 +1,12 @@
+src :@Alibk3
+[ویدئو]
+‏إصابات مباشرة لمقرات المعارضة الإيرانية المُخربة في أربيل.
+01:25
+1405/05/06
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴سپاه عکس جدیدی از آیت الله مجتبی خامنه‌ای منتشر کرد.
@@ -1852,20 +1861,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، با انتشار ویدیویی درباره محل رفت‌وآمد ملانیا ترامپ، همسر رییس‌جمهوری آمریکا، طرفداران جمهوری اسلامی را برای کشتن او ترغیب کرد.
-‏
-‏در این ویدیو، محل رفت‌و‌آمد ملانیا ترامپ، مکان‌های مورد علاقه و فروشگاه‌هایی که از آن‌ها خرید می‌کند، مشخص شده است.
-‏
-‏در پایان ویدیوی تسنیم، بارون، فرزند دونالد ترامپ، نیز تهدید شده و با مخاطب قرار دادن او گفته می‌شود: «باید منتظر ما باشد.»
-‏https://iranintl.com/202607273599
-22:27
-1405/05/05
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏🔵روایت یاشار سلطانی از اطلاعات غلط فرزین به مقامات ارشد نظام
@@ -2052,23 +2047,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 22:20
-1405/05/05
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻سایت اتلتیک گزارش داده که جیمی راسکین، عضو ارشد دموکرات کمیته قضایی مجلس نمایندگان، ضمن احضار جیانی اینفانتینو، از فیفا خواسته است تا ۱۸ مرداد، همه اسناد مربوط به تماس‌های این نهاد با دونالد ترامپ، رییس‌جمهوری آمریکا، دولت او و سازمان ترامپ، شرکت خانوادگی رییس جمهور را ارائه کند.
-‏
-‏🔹در نامه‌ای که شامگاه یکشنبه ارسال شده و نشریه اتلتیک می‌گوید آن را مشاهده کرده است، راسکین از اینفانتینو خواسته فهرست «هرگونه مورد دارای ارزش، از جمله انتقال پول، هدایا، جوایز، تقدیرها یا حضورهای عمومی» که به دونالد ترامپ، اعضای دولت او، اعضای خانواده آنها یا نهادهای وابسته مانند سازمان ترامپ ارائه شده است، در اختیار کمیته قرار دهد.
-‏
-‏🔹به نوشته اتلتیک، راسکین در این نامه تاکید کرده است که همه مکاتبات میان کارکنان فیفا و افراد وابسته به دولت ترامپ یا کمیته مراسم تحلیف او، از جمله پیام‌هایی که در پیام‌رسان‌هایی مانند سیگنال، تلگرام، واتس‌اپ، ایکس و تروت سوشال رد و بدل شده و ممکن است حذف شوند، باید حفظ شوند.
-‏
-‏🔹جزییاتی از پرونده قانون‌گذار آمریکایی برای اینفانتینو را اینجا بخوانید.
-‏ 
-‏@iranintltvsport
-22:19
 1405/05/05
 
 
@@ -3679,19 +3657,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@intelslava
-[عکس]
-‏🇷🇺⚡️ — The authorized strength of the Armed Forces of the Russian Federation has been set at 2,426,130 personnel, including 1,535,000 military personnel.
-‏
-‏The decree was signed by Russian President Vladimir Putin.
-‏
-‏@IntelSlava
-19:50
-1405/05/05
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇷🇺🇸 Iran says it remains in full control of the Strait of Hormuz.
@@ -4318,27 +4283,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@intelslava
-‏🇺🇸⚡️ — The American administration believes that if the media publishes updated data on the stockpiles of Patriot and THAAD missiles in the United States, it could pose a threat to the country's national security, according to The Wall Street Journal.
-18:26
-1405/05/05
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇮🇷🇸🇦⚡️ — Large fires, thick plumes of smoke, and visible signs of burning were observed today at the Abqaiq oil processing complex, owned by Saudi Aramco, the largest oil refining facility in the kingdom.
-‏
-‏According to an analysis of today's launches, the attacks originated from Iraq.
-‏
-‏The Saudis have stated that the attacks were carried out by Iranian proxies.
-18:25
-1405/05/05
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇸🇦 — Saudi Aramco’s Abqaiq oil processing facility shows signs of fire and smoke following a reported drone attack on 27 July.
@@ -4374,23 +4318,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 18:16
-1405/05/05
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🇮🇷⚡️ — According to sources cited by The New York Times, Trump is considering three main options regarding Iran: escalating military action, tightening economic sanctions, or declaring victory and withdrawing troops.
-‏
-‏"Trump appears to be trapped in a war with Iran, even though he wields the largest 'hammer' in the world. The president, who believed his power was limitless, has discovered several limitations, which has further frustrated him and made him unstable. His presidency has gradually been consumed by a war from which he cannot find a way out," the publication writes.
-‏
-‏As an example of this "instability," the publication cites how, last week, Trump's Secretary of Energy signed a historic agreement with Saudi Arabia on the supply of civilian nuclear energy to the kingdom, only for the president to undermine the deal less than 24 hours later, shocking the Saudis with a statement that the agreement, which had been negotiated for 18 months, was doomed to fail unless the country joined the Abraham Accords and recognized Israel.
-‏
-‏Aaron David Miller, a former American diplomat with extensive experience in the Middle East, stated that Mr. Trump has once again "pushed the Saudis away, pleased Benjamin Netanyahu, and given Iran strong arguments as to why entering into deals with the United States is a futile endeavor that will inevitably lead to betrayal."
-‏
-‏@Intelslava
-18:14
 1405/05/05
 
 
