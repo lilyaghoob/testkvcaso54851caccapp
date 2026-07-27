@@ -1,21 +1,72 @@
+src :@World_Newsly
+[عکس]
+‏🔴احتمالا پهپاد از نوع MQ-9 است
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+19:45
+1405/05/05
+
+
+
+
+src :@World_Newsly
+‏🔴زهران ممدانی، شهردار نیویورک:
+‏
+‏من علاقه‌ای به وارد شدن در یک بحث و جدال با نخست‌وزیر نتانیاهو ندارم.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+19:44
+1405/05/05
+
+
+
+
+src :@Alibk3
+‏عضو الكابينت الإسرائيلي إيلي كوهين:
+‏
+‏إذا أقامت تركيا قواعد عسكرية في سوريا، فسنقوم نحن أيضا بإقامة قواعد هناك.
+19:44
+1405/05/05
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇱🇵🇸 An IDF drone strike killed a man in Khan Younis, Gaza, earlier today.
+‏
+‏Local sources identified him as Mohammad Asleem, referring to him as a "martyr commander". He was also said to be the fourth of his brothers killed during the war.
+‏
+‏@wfwitness
+19:43
+1405/05/05
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — A top Lockheed Martin executive says high-energy laser weapons capable of destroying incoming drones, cruise missiles, and other aerial threats could be operational with the U.S. military before the end of the decade, Breaking Defense reports.
+‏
+‏"They're here, they're effective, and they are working," Stephanie Hill, president of Lockheed's rotary and mission systems division, said. Hill dismissed the long-running perception that operational laser weapons are always years away, saying, "Not anymore."
+‏
+‏An arm of Lockheed Martin earlier this month secured a major Pentagon contract to get some of those laser systems into the hands of troops. 
+‏
+‏Hill said directed-energy weapons could dramatically reduce the cost of air defense because, "If you have power... you have basically an infinite magazine," describing the systems as "highly effective" and "highly cost-effective" compared with expensive missile interceptors.
+19:43
+1405/05/05
+
+
+
+
 src :@MilitarryWorld
 ‏🔴نیویورک تایمز :
 ‏
 ‏ترامپ در حال بررسی سه گزینه اصلی در مورد ایران است: تشدید اقدامات نظامی، تشدید تحریم‌های اقتصادی، یا اعلام پیروزی و عقب‌نشینی نیروها.
 ‏
 ‏@MilitarryWorld | Parsa
-19:40
-1405/05/05
-
-
-
-
-src :@cataphract1
-‏⚜آکسیوس گزارش داد که همزمان با آغاز دور جدید مذاکرات میان ایران، ایالات متحده و عمان با محوریت نحوه مدیریت تنگه هرمز، دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرده است که در صورت شکست این مذاکرات، واشنگتن اقدامات نظامی گسترده و قدرتمند علیه ایران را از سر خواهد گرفت.
-‏
-‏⚜ترامپ در گفت‌وگو با باراک راوید، خبرنگار آکسیوس، تأکید کرده است که اگر این گفت‌وگوها به نتیجه ملموسی نرسد، گزینه تشدید عملیات نظامی همچنان روی میز خواهد بود.
-‏✒️#LT
-‏📃@Cataphract1
 19:40
 1405/05/05
 
@@ -330,30 +381,9 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴اسموتریچ، وزیر امور مالی اسرائیل: ایران از نظر اقتصادی در ضعیف ترین حالت خودشه و ما اجازه نمیدیم حکومتی که می خواهد مارا نابود کند، دوام بیاورد.  ✍🏻 Desert Eagle ▪️@World_Newsly
-19:30
-1405/05/05
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇵🇸 IDF drone struck a group of people in western Gaza City a short while ago, killing 3 people.  One of them was identified as Amro Abu Alrish   @wfwitness
-19:28
-1405/05/05
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴اسموتریچ، وزیر امور مالی اسرائیل: ایران از نظر اقتصادی در ضعیف ترین حالت خودشه و ما اجازه نمیدیم حکومتی که می خواهد مارا نابود کند، دوام بیاورد.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 19:28
 1405/05/05
 
@@ -1759,20 +1789,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 Israeli artillery fire targets Ali Al Taher hill, southern Lebanon.  @wfwitness
 18:07
-1405/05/05
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏⚜تصاویر ماهواره‌ای و ویدئوهای منتشرشده، ستون‌های دود برخاسته از پایانه نفتی جنوب ینبع متعلق به شرکت آرامکوی عربستان در ساحل دریای سرخ را نشان می‌دهد.
-‏
-‏⚜این تأسیسات به‌ویژه پس از بسته شدن تنگه هرمز، اهمیت راهبردی بیشتری یافته است؛ زیرا به‌عنوان یکی از دو پایانه غربی خط لوله شرق–غرب عربستان، نقش مهمی در صادرات نفت خام این کشور ایفا می‌کند. پایانه دیگر این خط لوله، پایانه نفتی شمال ینبع است.
-‏
-‏✒️#LT
-‏📃@Cataphract1
-18:06
 1405/05/05
 
 
@@ -3198,16 +3214,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Alibk3
-‏بعد قليل، مشاهد حصرية للهجوم على معامل بقيق النفطية فجر اليوم..
-‏
-‏دقایقی دیگر، تصاویر اختصاصی از حمله به تأسیسات نفتی بقیق در بامداد امروز...
-16:40
-1405/05/05
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🔥🇸🇦 - I have conducted an independent analysis on behalf of the GeoPWatch Team regarding reports of an attack on the Saudi Aramco Abqaiq oil processing facility.  The following has been identified:   • Reports from people on the ground of smoke in the Abqaiq…
@@ -3495,6 +3501,18 @@ src :@Middle_East_Spectator
 
 
 
+src :@cataphract1
+‏وزارت دفاع عربستان سعودی دقایقی پیش اعلام کرد تعدادی پهپاد پرتاب شده از عراق که در راه تأسیسات نفتی در مناطق شرقی و ریاض بوده‌اند از سوی پدافند و نیروی هوایی این کشور رهگیری شده‌اند.
+‏
+‏در اطلاعیه وزارت دفاع عربستان گروه‌های مسلح عراقی نزدیک به ایران عامل حمله معرفی شده‌اند و  اشاره شده است که عربستان در راستای دفاع از خود، حق پاسخگویی در زمان و مکان مناسب را محفوظ می‌داند.
+‏
+‏@Minas_Tirith2024
+16:03
+1405/05/05
+
+
+
+
 src :@didarnews1
 ‏🔴وزارت دفاع عربستان: چند پهپاد از سمت عراق وارد آسمان کشور شد
 ‏
@@ -3736,19 +3754,6 @@ src :@DEJradio
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇦🇮🇶🇮🇶🇮🇷 Saudi Ministry of Defense: Saudi air defences intercepted and destroyed a number of drones over the past several hours that attempted to target oil facilities in the Eastern Province and Riyadh.
-‏
-‏Ministry spokesman Maj. Gen. Turki Al-Maliki said the drones were launched from Iraqi territory by Iranian-backed militias, describing the attacks as terrorist attempts.
-‏
-‏@wfwitness
-15:47
-1405/05/05
-
-
-
-
 src :@intelslava
 ‏🇮🇳🇺🇦🇷🇺⚡️ — India has summoned the Ukrainian ambassador following an attack on a cargo ship with four Indian nationals on board in the port of Odesa, according to Indian Express.
 ‏
@@ -3859,15 +3864,6 @@ src :@Farsi_Iranwire
 
 src :@Shin_Persian
 ‏↩️ Quoted tweet: De Faakto MENA ✓  @DeFaakto  🇮🇷 تحليل OSINT  غرفة المحرك أم مقصورة الطاقم؟ رواية متضاربة حول أول ناقلة "معطَّلة" فعلياً منذ إعلان الحصار الأمريكي على إيران  ▪️ أعلنت القيادة المركزية الأمريكية (CENTCOM) تعطيل الناقلة M/T Lavine التي ترفع علم…
-15:03
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli artillery fire targets Ali Al Taher hill, southern Lebanon.  @wfwitness
 15:03
 1405/05/05
 
@@ -6289,6 +6285,16 @@ src :@Mena_Live
 ‏@Mena_Live
 00:12
 1405/05/05
+
+
+
+
+src :@Minas_Tirith2024
+‏به جای روزی دو ساعت خبر خوندن، پنج دقیقه کانال شریف رو بخون هر خبری لازمه بدونی اینجا هست:
+‏
+‏https://t.me/+nAjELgCZ1lZiODU8
+23:59
+1405/05/04
 
 
 
