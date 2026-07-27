@@ -1,3 +1,32 @@
+src :@WAR_ROOM_NEWS
+‏🇮🇷🇫🇷 ایران سفیر فرانسه را احضار کرد به دلیل آنچه که دولت فرانسه را به دخالت در امور داخلی خود توصیف کرد.
+‏
+‏🆔️‌@WAR_ROOM_NEWS
+13:46
+1405/05/05
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🇬🇧🇸🇦🇾🇪🇮🇷 نخست‌وزیر بریتانیا، برنهام، در گفتگوی تلفنی با محمد بن سلمان، ولیعهد عربستان سعودی، حملات اخیر ایران و حوثی‌ها به عربستان را محکوم کرد.برنهام مجدداً بر حمایت بریتانیا از امنیت عربستان سعودی تأکید کرد و در مورد تلاش‌ها برای کاهش تنش‌ها در سراسر خاورمیانه گفتگو کرد.
+‏
+‏🆔️‌@WAR_ROOM_NEWS
+13:43
+1405/05/05
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏⭕ محمدرضا شاه پهلوی دقیقا با همین نگاه پروژه ساخت یک نیروی هوایی مدرن رو اغاز کرد ، اول به سراغ F-5 رفت ، بعد F-4 رو در مدل‌های مختلف وارد خدمت کرد و در ادامه F-14 رو به ایران اورد ، جنگنده‌ای که در اون زمان پیشرفته‌ترین رهگیر جهان محسوب میشد ، او حتی برنامه…
+13:41
+1405/05/05
+
+
+
+
 src :@MilitarryWorld
 ‏🔴وزیر دفاع جدید انگلیس: از اقدامات تهاجمی علیه ایران حمایت نخواهیم کرد
 ‏
@@ -2276,31 +2305,8 @@ src :@Farsi_Iranwire
 
 
 
-src :@World_Newsly
-‏⭕ پس از آنکه تهران به دلیل حمله اوکراین به یک کشتی ایرانی در دریای کاسپین خشمگین شد و تهدید به واکنش کرد، زلنسکی در مصاحبه با اسکای نیوز گفت که ایران و کره شمالی "از قبل به اوکراین حمله کرده‌اند".
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-11:12
-1405/05/05
-
-
-
-
 src :@Ali_bk_2
 ‏منابع ما:  تأسیسات مهمی وابسته به شرکت آرامکو عربستان بامداد امروز با تعدادی پهپاد هدف قرار گرفتند.
-11:11
-1405/05/05
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏منابع عربی ادعا میکنند :امروز صبح، تعدادی پهپاد به تأسیسات مهم متعلق به شرکت آرامکو عربستان سعودی حمله کردند
-‏
-‏تائید نشده 
-‏
-‏🆔@WAR_ROOM_NEWS
 11:11
 1405/05/05
 
@@ -2357,16 +2363,6 @@ src :@Ali_bk_2
 
 src :@Alibk3
 ‏الله أكبر
-11:10
-1405/05/05
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏اسماعیل بقایی، سخنگوی وزارت امور خارجه، اعلام کرد که جمهوری اسلامی هرگز اجازه نخواهد داد آمریکا زمان جنگ و صلح را تعیین کند. او گفت ایران تا زمانی که منافعش ایجاب کند از خود دفاع خواهد کرد و هر زمان که دیپلماسی در راستای منافع ملی باشد، از آن استفاده می‌کند.بقایی همچنین آمریکا را به‌دلیل ناکامی در تحقق هدف خود برای به زانو درآوردن ایران ظرف سه روز، گرفتار «باتلاقی که خود ساخته» توصیف کرد
-‏
-‏🆔@WAR_ROOM_NEWS
 11:10
 1405/05/05
 
@@ -4181,32 +4177,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 04:27
-1405/05/05
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸🇸🇦🇾🇪⚡️ — Ship traffic through the Bab el-Mandeb Strait fell sharply on Sunday following the recent Houthi (Ansarallah) attacks on Saudi Aramco facilities, while transit through the Strait of Hormuz remained subdued despite the U.S. and Iran pausing military strikes, Reuters reports.
-‏
-‏➡️ Only 11 commodity vessels crossed the Bab el-Mandeb on Sunday—the lowest daily total in months—while fewer than 10 commodity vessels transited the Strait of Hormuz each day over the weekend.
-04:14
-1405/05/05
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — NVIDIA is in talks to provide a roughly $250 billion financial backstop for OpenAI to lease a massive 10-gigawatt data center project in Ohio, according to WSJ.
-‏
-‏➡️ The project, being developed by SoftBank Energy, could cost more than $500 billion, excluding the cost of NVIDIA chips, and would use electricity controlled by the U.S. government under a recent trade deal with Japan. OpenAI is in advanced talks to lease the site, while Anthropic, Microsoft, and Google have also expressed interest.
-‏
-‏➡️ The chipmaker is also discussing financing up to $350 billion worth of AI chips for OpenAI.
-‏
-‏➡️ The campus would require about 10 gigawatts of power, enough to supply several million homes, with the first 800-megawatt phase expected to come online in 2028. It would mark OpenAI's first data center as a tenant, reducing its reliance on cloud providers such as Microsoft, Amazon, and Oracle.
-03:59
 1405/05/05
 
 
