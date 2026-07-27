@@ -1,3 +1,73 @@
+src :@Farsi_Iranwire
+[عکس]
+‏آندری سیبیا، وزیر خارجه اوکراین، در واکنش به تهدیدهای عباس عراقچی، وزیر خارجه جمهوری اسلامی، اعلام کرد اظهارات تهران «بی‌اساس و غیرموجه» است و جمهوری اسلامی به دلیل حمایت نظامی از روسیه، جایگاهی برای قربانی جلوه دادن خود ندارد.
+‏سیبیا روز دوشنبه ۵مرداد ۱۴۰۵، در پیامی در شبکه ایکس نوشت که حکومت ایران از سال ۲۰۲۲ با ارسال سلاح به روسیه، به طور مستقیم در تجاوز نظامی مسکو علیه اوکراین مشارکت داشته و این تسلیحات در کشتن شهروندان اوکراینی به کار رفته است.
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155518
+‏
+‏
+‏@Farsi_Iranwire
+18:32
+1405/05/05
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏وزارت خارجه قطر در بیانیه‌ای، حمله پهپادی از خاک عراق به تاسیسات نفتی عربستان سعودی در مناطق شرقی و ریاض را محکوم کرد.
+‏
+‏در این بیانیه، از این حملات به عنوان نقض حاکمیت عربستان سعودی و تهدیدی علیه امنیت و ثبات این کشور نام برده شده است.
+‏
+‏وزارت خارجه قطر همچنین بر همبستگی کامل این کشور با عربستان سعودی و حمایت از تمامی اقدامات مشروع ریاض در راستای حفظ حاکمیت، امنیت و تمامیت ارضی این کشور تاکید کرد.
+‏
+‏همزمان وزارت خارجه مصر نیز حمله پهپادی به عربستان سعودی را محکوم کرد و آن را نقض امنیت و ثبات این کشور و تهدیدی برای امنیت و ثبات منطقه خواند.
+‏https://iranintl.com/202607272312
+18:30
+1405/05/05
+
+
+
+
+src :@Alibk3
+‏أسوشيتد برس عن مسؤولين:
+‏
+‏الوسطاء في المفاوضات، قطر وباكستان، يحرزون تقدمًا نحو استئناف المفاوضات بين الولايات المتحدة وإيران واستعادة هدنة مؤقتة، وذلك بعد أن أوقف الطرفان هجماتهما لمدة ثلاثة أيام.
+18:30
+1405/05/05
+
+
+
+
+src :@ClashReport
+[عکس]
+‏BIG: A state-backed Shanghai company has begun limited mass production of China's first domestic immersion DUV lithography machines, with about 5 units due for delivery to SMIC, Hua Hong, and CXMT in 2026, ramping to 20 in 2027.
+‏
+‏The tools target 28 nm processes and can support 7 nm-class production via multi-patterning, though they still lag ASML in throughput, accuracy, and reliability.
+‏
+‏ASML shares dropped sharply on the news and trading was briefly halted, while Applied Materials, Lam Research, and KLA also fell.
+‏
+‏It doesn't close the EUV gap needed for leading-edge chips, but it's a real step in blunting US and Dutch export controls on mature and mid-range nodes.
+‏
+‏Source: The Information
+18:30
+1405/05/05
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Romania spent about €1.5 million to shoot down three Russian drones that entered its airspace over three days, mainly due to the cost of AIM-9X missiles fired by F-16s. 
+‏
+‏Officials say the current response is too expensive and expect cheaper counter-drone systems to arrive in 2027.
+‏
+‏Source: Digi24
+18:27
+1405/05/05
+
+
+
+
 src :@intelslava
 ‏🇺🇸⚡️ — The American administration believes that if the media publishes updated data on the stockpiles of Patriot and THAAD missiles in the United States, it could pose a threat to the country's national security, according to The Wall Street Journal.
 18:26
@@ -27,15 +97,6 @@ src :@tabzlive
 ‏
 ‏➡️ Kuwait will receive $7.85 billion upfront from the transaction.
 18:25
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli artillery fire once again targets Ali Al Taher hill, southern Lebanon.  @wfwitness
-18:24
 1405/05/05
 
 
@@ -249,15 +310,6 @@ src :@selena_updates
 ‏
 ‏Hamas' Internal Security apparatus is a central and clandestine body within the Hamas terrorist organization. Under Ladawi's command, the apparatus collected intelligence for senior Hamas officials, supporting their decision-making and facilitating the planning and execution of terrorist attacks.
 18:10
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli artillery fire targets Ali Al Taher hill, southern Lebanon.  @wfwitness
-18:07
 1405/05/05
 
 
@@ -739,21 +791,6 @@ src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇾🇪/🇸🇦 The Aramco fuel tanks at King Fahd Road can be seen burning in the video above  The video was recorded in front of ‘Autozone Jizan’ on King Abdulaziz Road, coordinates 16.8844760, 42.5805224  When drawing a line from the video POV to the fuel tanks…
 17:37
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇨🇳 ⁠Reuters: China said it will take countermeasures if the US imposes sanctions on Chinese artificial intelligence companies over allegations they copied American AI models through distillation, calling the accusations baseless and accusing Washington of pursuing AI hegemony.
-‏
-‏China’s Commerce Ministry defended model distillation as a widely used industry practice, urged the US to stop suppressing Chinese technology firms under the guise of national security, and called for greater international cooperation on AI governance.
-‏
-‏The dispute follows US allegations that Beijing-based Moonshot AI used distillation techniques involving Anthropic’s Claude Fable 5 model to accelerate development of its Kimi K3 model. 
-‏
-‏@wfwitness
-17:36
 1405/05/05
 
 
@@ -2211,14 +2248,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-‏⚡️🇸🇦🇾🇪 Satellite imagery captured on 26 July shows a major fire continuing to burn at Saudi Aramco’s Jazan Oil Refinery, with thick black smoke still rising from a large oil storage tank.  The imagery indicates the blaze remained active following the recent…
-16:23
-1405/05/05
-
-
-
-
 src :@naya_foriraq
 ‏🇾🇪يحيى سريع: تم بحمد الله استهداف عدداً من الأهداف والنقاط الحساسة لإمدادات ونقل النفط الخام من شرق السعودية إلى ينبع بعدد من الطائرات المسيرة وذلك رداً على اختراق المسيرات التابعة للعدو السعودي للأجواء اليمنية.
 16:23
@@ -2441,18 +2470,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@IranintlTV
-[عکس]
-‏صفحه رسمی وزارت دفاع عربستان سعودی در ایکس اعلام کرد پهپادهایی که از سوی گروه‌های مسلح مورد حمایت جمهوری اسلامی وارد حریم هوایی عراق شده بودند، رهگیری و منهدم شدند. 
-‏
-‏در این بیانیه آمده است پهپادهای پرتاب‌شده از خاک عراق تلاش کردند تاسیسات نفتی در منطقه شرقی عربستان سعودی و شهر ریاض را هدف قرار دهند.
-‏https://iranintl.com/202607270517
-16:03
-1405/05/05
-
-
-
-
 src :@cataphract1
 ‏وزارت دفاع عربستان سعودی دقایقی پیش اعلام کرد تعدادی پهپاد پرتاب شده از عراق که در راه تأسیسات نفتی در مناطق شرقی و ریاض بوده‌اند از سوی پدافند و نیروی هوایی این کشور رهگیری شده‌اند.
 ‏
@@ -2597,23 +2614,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 15:52
-1405/05/05
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ukrainian Foreign Minister Andrii Sybiha:
-‏
-‏Iran’s threats are unjustified and groundless. The regime in Teheran is a direct accomplice to Russian aggression against Ukraine, fuelling Moscow’s criminal war with weapons that have killed Ukrainians since 2022. 
-‏
-‏Iran has no standing to pretend to be a victim, let alone justify its threats with absurd references to the UN Charter. 
-‏
-‏With its statements, Iran also tries to shift attention away from Russia’s terror against civilian shipping in the Black Sea, which is threatening global food security. But it will not succeed. 
-‏
-‏Russia’s attacks on freedom of navigation will be at the spotlight of today’s emergency UN Security Council meeting and we expect strong responses by the international community.
-15:51
 1405/05/05
 
 
@@ -2821,32 +2821,11 @@ src :@DEJradio
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇦🇮🇶🇮🇶🇮🇷 Saudi Ministry of Defense: Saudi air defences intercepted and destroyed a number of drones over the past several hours that attempted to target oil facilities in the Eastern Province and Riyadh.
-‏
-‏Ministry spokesman Maj. Gen. Turki Al-Maliki said the drones were launched from Iraqi territory by Iranian-backed militias, describing the attacks as terrorist attempts.
-‏
-‏@wfwitness
-15:47
-1405/05/05
-
-
-
-
 src :@tabzlive
 ‏🇸🇦🇮🇶🇮🇷⚡️ — BREAKING: Saudi Arabia's Ministry of Defense says its air defenses intercepted and destroyed several drones that attempted to target oil facilities in the Eastern Province and Riyadh during the past few hours.
 ‏
 ‏➡️ The drones were launched from Iraqi territory by Iranian-backed militias, according to the MoD spokesman, adding that Saudi Arabia reserves the right to respond at a time and place of its choosing.
 15:47
-1405/05/05
-
-
-
-
-src :@Alibk3
-‏مصادرنا:   تم استهداف منشآت مهمة تابعة لشركة أرامكو السعودية فجر اليوم بعدد من المسيّرات
-15:41
 1405/05/05
 
 
@@ -3000,26 +2979,6 @@ src :@Shin_Persian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli artillery fire targets Ali Al Taher hill, southern Lebanon.  @wfwitness
-15:03
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Israeli artillery fire targets Ali Al Taher hill, southern Lebanon.
-‏
-‏@wfwitness
-15:02
-1405/05/05
-
-
-
-
 src :@mwarmonitor
 ‏🔴نفتالی بنت، نخست‌وزیر سابق اسرائیل، اعلام کرد که در صورت بازگشت به قدرت، قطر را «دولت متخاصم»  اعلام خواهد کرد.
 ‏
@@ -3098,14 +3057,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 14:56
-1405/05/05
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇱🇮🇷 Israeli Channel 13: Shin Bet Director David Zini warned senior Israeli officials that Iran and other countries are attempting to interfere in Israel’s upcoming elections. Zini reportedly said foreign actors are seeking to undermine the electoral process…
-14:55
 1405/05/05
 
 
@@ -3423,21 +3374,6 @@ src :@mohem_mat
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 IDF spokesperson Colonel Ella Waweya on a drawing found in the town of Taybeh:
-‏
-‏Two drawings of Adolf Hitler were found inside a house in Taybeh, southern Lebanon. 
-‏
-‏The drawings are believed to be part of a school assignment.
-‏
-‏@wfwitness
-14:27
-1405/05/05
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«حمیدرضا حاجی‌بابایی»، نایب رییس مجلس شورای اسلامی، روز دوشنبه ۵مرداد۱۴۰۵ در نطق پیش از دستور نشست مجلس که به صورت وبیناری برگزار شد، با هشدار به اوکراین، گفت هرگونه «شیطنت» در منطقه و دریای خزر با «پاسخ پشیمان‌کننده ملت بزرگ ایران» روبه‌رو خواهد شد.
@@ -3497,21 +3433,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 Reuters: The US dollar weakened against major currencies and oil prices fell sharply after Iran agreed to halt its attacks as long as the United States maintains its pause in bombing, easing fears of a wider regional conflict.  
-‏
-‏Brent crude dropped 6.5% to $90.45 a barrel, helping improve market sentiment and reducing inflation concerns. The dollar fell 0.2% against the Japanese yen and 0.3% against the euro, while the pound gained 0.1%.  
-‏
-‏Investors are now turning their attention to this week’s Federal Reserve, Bank of England, and Bank of Japan policy meetings, with markets pricing in a roughly 33% chance of a US interest rate hike after last week’s surge in oil prices.  
-‏
-‏@wfwitness
-14:12
-1405/05/05
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴گزارش از صدای انفجار در شهر کرَکِ در جنوب اردن
 14:08
@@ -3531,17 +3452,6 @@ src :@KayhanLondonChannel
 ‏
 ‏در آنسو میلیون‌ها بازنشسته و مستمری‌بگیر سازمان تأمین اجتماعی سالهاست در انتظار افزایش دستمزدها بر اساس مصوبات قانونی هستند اما کمبود منابع مالی مانع از افزایش ارقام مستمری شده است.
 14:07
-1405/05/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇺🇸 Israeli PM Netanyahu departs for Washington.
-‏
-‏@wfwitness
-14:06
 1405/05/05
 
 
@@ -4837,21 +4747,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 11:41
-1405/05/05
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏«فداحسین مالکی»، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، با رد گمانه‌زنی‌ها درباره «احتمال ازسرگیری مذاکرات میان ایران و آمریکا»، مدعی شد جمهوری اسلامی از مرحله بازدارندگی عبور کرده و وارد «مرحله هجومی» شده است.
-‏
-‏مالکی امروز دوشنبه ۵مرداد۱۴۰۵ در گفت‌وگو با خبرگزاری «ایلنا» گفت در شرایط کنونی «به هیچ عنوان» موضوع مذاکره میان تهران و واشنگتن مطرح نیست و آنچه از سوی آمریکا درباره مذاکره بیان می‌شود، «فرار رو به جلوی ترامپ» است. 
-‏
-‏بخوانید: https://iranwire.com/fa/news-1/155483
-‏
-‏@Farsi_Iranwire
-11:39
 1405/05/05
 
 
@@ -6556,13 +6451,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 18:33
-1405/05/04
-
-
-
-
-src :@samueltarikh
-‏العربیه:
-‏ایران با تمام پیشنهادات عمان برای ایجاد گذرگاه جدید در تنگه هرمز مخالفت کرده است،هیئت دیپلماتیک عمانی پس از مخالفت های ایران، تهران را ترک کردند.
-18:29
 1405/05/04
