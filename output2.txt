@@ -1,3 +1,48 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇲🇽 Mexico Navy seized 834 kilograms of cocaine during an operation in Tonalá, Chiapas.
+‏
+‏Security Secretary Omar García Harfuch said the seizure prevented approximately 1.66 million doses from being distributed.
+‏
+‏@wfwitness
+06:01
+1405/05/06
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇵🇸🇮🇱⚡️ — Red Alert in Kissufim, Israel; a village near the Gaza Strip, Palestine. This is likely a false alarm.
+05:59
+1405/05/06
+
+
+
+
+src :@BellumActaNews
+‏🇮🇱⚠️ — Rocket sirens are sounding in Kissufim near the Gaza border
+‏
+‏https://t.me/idf_telegram/24745
+05:58
+1405/05/06
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇨🇳🇮🇳 NDTV: satellite imagery shows at least 11 Chinese J-20 stealth fighters deployed near the border with India, with seven detected at Hotan airfield, 245 km from India Daulat Beg Oldi air base, and four at the high-altitude Damxung airfield facing the Tawang sector, as the fleet has reportedly grown from around 50 units in 2019 to an estimated 300-500 by mid-2026.
+‏
+‏Indian military sources say such deployments have become routine practice for China to respond quickly to border tensions, as New Delhi own fifth-generation fighter, the AMCA, remains at least a decade from operational status, leaving India reliant on 36 French Rafale jets and more than 260 Su-30MKI aircraft to counter the growing gap.
+‏
+‏@wfwitness
+05:58
+1405/05/06
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏هم‌زمان با اعدام چند معترض بازداشت شده اعتراضات دی‌ماه در اصفهان در بامداد سه‌شنبه، ویدیوهای منتشر شده در فضای مجازی تجمعات اعتراضی و شعارهای ضدحکومتی شهروندان را در اطراف میدان علیخانی اصفهان نشان می‌دهد. 
@@ -10,7 +55,7 @@ src :@IranintlTV
 
 src :@naya_foriraq
 [عکس]
-‏استهداف احد مقرات المعارضة الكردية في محافظة السليمانية شمالي العراق بسرب من الطائرات الانتحارية
+‏🇮🇶مع أول ساعات الصباح.. إستهداف أحد مقرات المعارضة الكردية الإرهابية في محافظة السليمانية شمالي العراق بسرب من الطائرات الإنتحارية.
 05:56
 1405/05/06
 
@@ -18,7 +63,7 @@ src :@naya_foriraq
 
 
 src :@naya_foriraq
-‏استهداف احد مقرات المعارضة الكردية في محافظة السليمانية شمالي العراق بسرب من الطائرات الانتحارية
+‏🇮🇶مع أول ساعات الصباح.. إستهداف أحد مقرات المعارضة الكردية الإرهابية في محافظة السليمانية شمالي العراق بسرب من الطائرات الإنتحارية.
 05:55
 1405/05/06
 
@@ -1143,18 +1188,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-‏🇮🇶🇺🇦⚡️ — Iraqi National Security Adviser Qasim Al-Aboudi says authorities have arrested several individuals accused of working for Ukraine and carrying out attacks inside Iraq.
-‏
-‏Al-Aboudi said an Iraqi intelligence unit concluded there was Ukrainian involvement in the country after investigating the incidents. "We arrested a limited number of groups that carried out attacks inside Iraqi territory and targeted several facilities," he said, adding that the suspects "confessed to working for Ukraine" during questioning.
-‏
-‏Al-Aboudi did not identify the facilities allegedly targeted or say whether the groups had conducted attacks outside Iraq.
-01:34
-1405/05/06
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏⭕️نیوزنیشن:
 ‏
@@ -2142,14 +2175,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Several detonations targeted the occupied Lebanese towns within the security zone.  @wfwitness
-23:29
-1405/05/05
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇺🇦🇷🇺⚡️ — Trump and Zelensky will discuss a peaceful resolution between Moscow and Kiev on July 28 — CNN.
 ‏
@@ -2252,16 +2277,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 23:26
-1405/05/05
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Several detonations targeted the occupied Lebanese towns within the security zone.
-‏
-‏@wfwitness
-23:25
 1405/05/05
 
 
@@ -3499,21 +3514,6 @@ src :@Artemis_Force
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇺🇸🇱🇧🇱🇧 Kan: The coordination mechanism between the U.S., Israel, and Lebanon was informed that the Lebanese Armed Forces discovered a Hezbollah weapons cache during operations in one of the pilot zones.
-‏
-‏This is believed to be the first time since the pilot began that LAF operations have uncovered a Hezbollah target containing weapons. Diplomatic sources view the discovery as evidence that the current mechanism is working and could pave the way for greater LAF involvement in disarming Hezbollah. Israeli officials confirmed the discovery.
-‏
-‏Another round of U.S.-mediated talks between Israel and Lebanon is expected to take place in Rome next week.
-‏
-‏@wfwitness
-21:13
-1405/05/05
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏🔴 سایت فروشگاهی یکساله، فقط ۸ میلیون!
@@ -4398,29 +4398,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 19:26
-1405/05/05
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇸❌🇮🇷 — US President Donald Trump told Axios that he is ready for "strong military action" if negotiations with Iran fail
-‏
-‏➡️ President Trump told Axios on Monday that he decided to pause U.S. strikes on Iran in order to give negotiations another chance, but stressed that he could order a return to expanded military operations if diplomacy fails.
-‏
-‏➡️ The current negotiations are focused on a new deal that would reopen the Strait of Hormuz and relaunch talks on a comprehensive nuclear deal.
-‏
-‏📞 The talks are being conducted mainly between Iran and Oman. But Qatar, Pakistan, Egypt and Trump's envoys, Steve Witkoff and Jared Kushner, are actively involved.
-‏
-‏"We are in very deep talks with Iran. If they don't work out, we will go back to very strong military action," Trump said in the interview.
-‏
-‏Asked how long he's willing to give diplomacy, the president said: "Not much time. Either it goes fast or not at all."
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-19:24
 1405/05/05
 
 
