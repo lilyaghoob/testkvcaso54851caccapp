@@ -1,3 +1,25 @@
+src :@World_Newsly
+[عکس]
+‏🔴در همین حال و در چند روز اخیر، هر روز، به صورت آهسته و پیوسته، ارتش اسرائیل با ورود به شهرک ها و روستا های مختلف کرانه باختری، کنترل بیشتری بر این مناطق را اعمال می کند.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+12:52
+1405/05/06
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇸🇦🇯🇴🇮🇷🇮🇶 — Iran-backed Iraqi factions have fired 20 drones at Israel, Jordan, and Saudi Arabia over the past few days.
+‏
+‏— Israeli i24 News | @TheWarReporter
+12:50
+1405/05/06
+
+
+
+
 src :@jangaavaran1390
 ‏وزیر دفاع اسرائیل، اسرائیل کاتز، گفته است که اسرائیل بسیار تمایل دارد به اهداف انرژی ایران حمله کند، اما در حال حاضر، ایالات متحده این حملات را تایید نمی‌کند.
 12:46
@@ -942,7 +964,7 @@ src :@mohem_mat
 
 src :@WAR_ROOM_NEWS
 [عکس]
-‏مطمعن باشید کسانی که امروز جنایات اصفهان را مرتکب شدید در زمان مقرر به حساب تک تک شما جنایتکاران کثیف 
+‏کسانی که امروز جنایات اصفهان را مرتکب شدید،مطمعن باشید در زمان مقرر به حساب تک تک شما جنایتکاران کثیف 
 ‏خواهیم رسید 
 ‏
 ‏نه می‌بخشیم ن فراموش میکنیم🥀
@@ -1858,17 +1880,6 @@ src :@Artemis_Force
 ‏این دو کشتی، در تاریخ 15 ژوئن 2026، از پایگاه دریایی تشین‌دائو، برای یک ماموریت دریایی دوربرد، با هدف آموزش عملی 400 دانشجوی مراکز آموزشی نظامی چین، حرکت خود را آغاز کردند.
 ‏
 ‏@artemis_force
-10:02
-1405/05/06
-
-
-
-
-src :@World_Newsly
-‏🔴نیروهای مسلح اردن: نیروی هوایی اردن یک فروند پهپاد که حریم هوایی منطقه «صحرای شرقی» را نقض کرده بود، رهگیری و سرنگون کرد.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 10:02
 1405/05/06
 
@@ -3828,22 +3839,6 @@ src :@OSINTWarfare
 
 
 
-src :@intelslava
-‏🇹🇩Ⓜ️⚡️ — The government of Chad has announced the start of the process of withdrawing from the International Criminal Court (ICC) in The Hague, just days after Venezuela also made a similar announcement on Friday.
-‏
-‏In a statement, the Chadian government said the decision was made after a "thorough analysis of the Court's activities since its establishment in 2002, as well as its achievements, which, nevertheless, are characterized by limited and uneven effectiveness."
-‏
-‏The government also criticized the "excessive focus of the Court on African countries." According to the statement, out of 13 investigations launched since the Rome Statute came into force, nine concern African countries, while only four have been initiated in other regions of the world, "without any significant progress." It also claims that there are currently only seven detainees in the Court, six of whom are linked to cases concerning African countries.
-‏
-‏Last week, the website of Chad's Ministry of Foreign Affairs stated that the U.S. Deputy Secretary of State had asked Chad to withdraw from the Court, but Chad's Foreign Minister emphasized today that the decision was not made under pressure from the United States.
-‏
-‏@IntelSlava
-00:08
-1405/05/06
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴علی قلهکی: 
@@ -4093,14 +4088,6 @@ src :@mwarmonitor
 
 src :@rnintel
 ‏🇸🇦🇮🇶🇾🇪⚡- Pro-Iranian Iraqi-based groups have denied attacking Saudi Arabia's Abqaiq oil refinery earlier today.
-23:32
-1405/05/05
-
-
-
-
-src :@intelslava
-‏🇮🇶🇸🇦⚡️ — Saudi Arabia's Ministry of Defense confirmed that the Islamic Resistance in Iraq targeted Aramco's Abqaiq refinery, the world's largest oil processing and crude stabilization facility.  The ministry said it intercepted several drones launched from…
 23:32
 1405/05/05
 
@@ -5176,18 +5163,6 @@ src :@selena_updates
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱🇹🇷 — Reporter: "Netanyahu opposes sending F-35 jets to Turkey".
-‏
-‏US President Trump: "Nobody tells me what we should be selling or not. Turkey has been a great ally".
-‏
-‏@TheWarReporter
-20:33
-1405/05/05
-
-
-
-
 src :@cataphract1
 ‏⚜دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگو با کانال ۱۲ اسرائیل اعلام کرد که ایالات متحده در حال انجام «مذاکراتی بسیار عمیق» با ایران است.
 ‏
@@ -5775,21 +5750,6 @@ src :@defence_news
 ‏
 ‏@RedLionCorps
 17:36
-1405/05/05
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏نیروهای «حوثی» یمن، وابسته به جمهوری اسلامی اعلام کردند با استفاده از پهپاد، تعدادی از مراکز انتقال نفت خام عربستان را در مسیر انتقال نفت از شرق این کشور به بندر ینبع هدف قرار داده‌اند. 
-‏
-‏«یحیی سریع»، سخنگوی نیروهای مسلح یمن، دوشنبه ۵مرداد۱۴۰۵ مدعی شد که این حملات در واکنش به آنچه «نقض حریم هوایی یمن توسط پهپادهای سعودی» خوانده، انجام شده است.
-‏
-‏بخوانید: https://iranwire.com/fa/news-1/155513
-‏
-‏@Farsi_Iranwire
-17:34
 1405/05/05
 
 
