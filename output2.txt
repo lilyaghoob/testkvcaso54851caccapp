@@ -1,3 +1,56 @@
+src :@Alibk3
+[ویدئو]
+‏عمليات اعتراض في الأردن ومحاولات لصد الصواريخ
+01:26
+1405/05/07
+
+
+
+
+src :@Exciton_missile_program
+‏🚨فوری/هم اکنون گزارش‌های اولیه مبنی بر پرتاب 6 موشک بالستیک از استان مرکزی به سمت کشور های منطقه
+01:25
+1405/05/07
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌ 🇯🇴- Reports of active air defense in Jordan. It appears the BM’s launched from Khomein are targetting Jordan.
+‏
+‏@GeoPWatch
+01:25
+1405/05/07
+
+
+
+
+src :@Alibk3
+[عکس]
+‏سماء إيران قبل قليل
+01:25
+1405/05/07
+
+
+
+
+src :@intelslava
+‏🇮🇷⚡️ — Iran fired 6x ballistic missile from Khomeyn city.
+01:24
+1405/05/07
+
+
+
+
+src :@wfwitness
+[ویدئو]
+‏Images showing the alleged launches
+01:23
+1405/05/07
+
+
+
+
 src :@samueltarikh
 ‏⭕️فوری/ موشک ها به مقصد اردن شلیک شدن
 01:23
@@ -95,15 +148,6 @@ src :@GeoPWatch
 src :@wfwitness
 ‏Images showing the alleged launches
 01:20
-1405/05/07
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏مشاهد من إطلاق صواريخ في سماء إيران الإسلامية.
-01:19
 1405/05/07
 
 
@@ -1194,19 +1238,6 @@ src :@samueltarikh
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴قیمت نفت برنت 83 دلار 
-‏
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-23:49
-1405/05/06
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏UKMTO Operations Centre @UK_MTO
@@ -1903,47 +1934,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏ستة انفجارات سمعت بوضوح قرب مؤسسات نفطية و غازية دون تفعيل صافرات الإنذار بالمنطقة الشرقية في السعودية
-23:03
-1405/05/06
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏حدث بحري استهداف سفينة في البحر الاحمر
-23:02
-1405/05/06
-
-
-
-
-src :@Alibk3
-‏السعودية تزعُم أن دفاعاتها الجوية اعترضت ودمرت عددًا من الطائرات المسيّرة خلال الساعات الماضية والتي حاولت استهداف المنشآت النفطية في المنطقة الشرقية.
-23:02
-1405/05/06
-
-
-
-
-src :@naya_foriraq
-‏انفجارات عنيفة تهز المنطقة الشرقية من السعودية
-23:02
-1405/05/06
-
-
-
-
-src :@naya_foriraq
-‏انفجارات عنيفة تهز المنطقة الشرقية من السعودية
-23:02
-1405/05/06
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏مهنام نواب صفوی، ۲۲ ساله، خواننده رپ فارسی و از بازداشت‌شدگان دی‌ماه، از سوی شعبه پنجم دادگاه انقلاب اصفهان به ریاست قاضی همتی‌نژاد به اعدام محکوم شده است.
@@ -1974,14 +1964,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Alibk3
-‏السعودية تزعُم أن دفاعاتها الجوية اعترضت ودمرت عددًا من الطائرات المسيّرة خلال الساعات الماضية والتي حاولت استهداف المنشآت النفطية في المنطقة الشرقية.
-23:01
-1405/05/06
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -2000,19 +1982,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 23:00
-1405/05/06
-
-
-
-
-src :@Alibk3
-[عکس]
-‏جيروزاليم بوست:
-‏
-‏نتنياهو سافر سراً إلى الولايات المتحدة بعد أن حذرت المخابرات من تهديد إيراني
-‏
-‏وبحسب N12، أوصت قوات الأمن الإسرائيلية بأن تغادر رحلة نتنياهو في ظل ظروف سرية بعد تقارير تفيد بأن إيران تصعد جهودها لمهاجمة مسؤولين إسرائيليين.
-22:59
 1405/05/06
 
 
@@ -2945,18 +2914,6 @@ src :@IranintlTV
 
 
 
-src :@MilitarryWorld
-‏🔴نتانیاهو: 
-‏
-‏با رئیس‌ جمهور ترامپ بر سر هدف مشترک جلوگیری از دستیابی ایران به سلاح هسته‌ ای، توافق کامل داریم
-‏
-‏@MilitarryWorld | Parsa
-21:50
-1405/05/06
-
-
-
-
 src :@mamlekate
 ‏📝 اطلاعات سپاه مهدی توکلی، فعال فرهنگی کُرد و دو عضو خانواده‌اش را به رگبار بست و کشت
 ‏
@@ -3126,16 +3083,6 @@ src :@Middle_East_Spectator
 
 src :@Shin_Persian
 ‏🔁 Quoting above tweet: Zaryon OSINT  @zarGEOINT  🇮🇷🛰️ On February 24, a US strike destroyed a port facility belonging to the IRGC Navy's Hazrat Seyyed al-Shohada Headquarters near Zibakenar in northwestern Iran.  📍 Geolocation: 37.44678, 49.85293  @GeoConfirmed…
-21:39
-1405/05/06
-
-
-
-
-src :@MilitarryWorld
-‏🔴نتانیاهو گفتگو با ترامپ را یک گفتگو فوق العاده عالی توصیف کرد
-‏
-‏@MilitarryWorld | Parsa
 21:39
 1405/05/06
 
@@ -3522,25 +3469,6 @@ src :@thewarreporter
 
 
 
-src :@samueltarikh
-‏⭕️وزیر خارجه اوکراین در مورد ایران:
-‏
-‏من با عباس عراقچی، وزیر امور خارجه ایران، برای یک گفتگوی صریح تماس گرفتم. دیپلماسی به معنای گفتگوی مستقیم است، حتی زمانی که این گفتگو دشوار باشد. من تاکید کردم که هدف ما اجتناب از تشدید غیرضروری است.
-‏
-‏من مجدداً تأکید کردم که تمام اقدامات اوکراین صرفاً برای دفاع از کشورمان در برابر تجاوز روسیه است و هرگز به منظور هدف قرار دادن کشتی‌های غیرنظامی یا مردم عادی نبوده است.
-‏
-‏این موضوع در مورد اظهارات ایران در مورد شهروند ایرانی که فوت کرده و همچنین کشتی غیرنظامی که در یک حادثه اخیر مورد هدف قرار گرفت، نیز صادق است. هدف ما مقابله با تجاوز روسیه است، که ریشه تمام این حوادث است، و روسیه است که مسئولیت کامل تمام تحریکات و تلفات را بر عهده دارد.
-‏
-‏من بر ضرورت اجتناب از هرگونه اقدام تحریک‌آمیز، و همچنین پایان دادن به هرگونه حمایت از جنگ روسیه علیه اوکراین، تاکید کردم. این جنگ غیرقانونی است و باید پایان یابد.
-‏
-‏موضع ما بدون تغییر باقی مانده است: اروپا و خاورمیانه شایسته ثبات، امنیت و صلح هستند.
-‏﻿
-21:01
-1405/05/06
-
-
-
-
 src :@mohem_mat
 ‏سید عباس عراقچی وزیر امور خارجه جمهوری اسلامی ایران و آندری سیبیها وزیر امور خارجه اوکراین عصر امروز سه‌شنبه به صورت تلفنی گفت‌وگو کردند.
 ‏
@@ -3818,31 +3746,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇾🇪❌🇸🇦 - The Houthis are claiming to have carried out another ballistic missile attack on a Saudi oil tanker in the Red Sea.
-‏
-‏@GeoPWatch
-20:39
-1405/05/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇾🇪🇸🇦 The Houthis have announced that they targeted the Saudi oil tanker NCC Ghazal for violating the naval blockade on Saudi Arabia and ignoring warning calls. 
-‏
-‏The attack was carried out with ballistic missiles, forcing the vessel to retreat.  
-‏
-‏The military reaffirmed its commitment to maintaining the naval blockade, operating under the equation of “blockade for blockade” and “comprehensive escalation for comprehensive escalation”.  
-‏
-‏@wfwitness
-20:38
-1405/05/06
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏رئیس‌جمهور ترکیه، اردوغان، خطاب به نخست‌وزیر عراق، علی الزیدی: شما می‌توانید روزانه یک میلیون بشکه نفت به ترکیه عرضه کنید و نیازی به اتکا به هیچ طرف دیگری ندارید عراق همسایه ماست و ان‌شاءالله، به محض اینکه یک میلیون بشکه نفت به ما منتقل شود، قادر خواهیم بود نیازهای خود را برآورده کنیم.
 ‏
@@ -4021,15 +3924,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 A large explosion was observed in al-Mansouri, southern Lebanon, as a result of Israeli demolition activity.  @wfwitness
-20:20
-1405/05/06
-
-
-
-
 src :@defence_news
 ‏🔸מקור ישראלי אומר לי שפגישת טראמפ נתניהו התקיימה אך ורק במתכונת מורחבת, ללא חלק של 4 עיניים כפי שקורה בד״כ בפגישות מן הסוג הזה
 ‏
@@ -4092,16 +3986,6 @@ src :@Indypersian
 src :@jangaavaran1390
 ‏استاد خوش چشم هستند که خارجشم تازه بهتر بلدن
 20:16
-1405/05/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Multiple Israeli drones have been flying above the towns of Jebchit, Abba, Harouf, Choukine, and Braiqaa, as well as the city of Nabatieh, southern Lebanon.
-‏
-‏@wfwitness
-20:15
 1405/05/06
 
 
@@ -4684,25 +4568,6 @@ src :@DEJradio
 
 
 
-src :@intelslava
-‏🇮🇷🇺🇸⚡️ — Iranian conservative newspaper Kayhan:
-‏
-‏"Do not fall into the trap of the truce proposed by Trump.
-‏The enemy's weapons arsenals are depleted, and the time has come to break the naval blockade.
-‏
-‏Returning to the illusion of negotiations would be a mistake. The US military machine in the Persian Gulf has reached a dead end. Trump's retreat is not a result of strength, but a consequence of the depletion of missile stocks and air defense assets.
-‏
-‏The enemy needs a 'recovery period' to rebuild its military capabilities. Any reliance on Washington's diplomatic smile would be a mistake.
-‏
-‏Now is not the time to stop fighting, but a time to cement a new order through decisive strikes and the lifting of the naval blockade. Precisely now, when the US Army is facing a serious shortage of ammunition, the path to achieving stable security lies through decisive military action on the ground."
-‏
-‏@IntelSlava
-18:44
-1405/05/06
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇱 — Israeli PM Netanyahu arrives at the White House to meet with US President Trump.
@@ -5127,28 +4992,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 17:49
-1405/05/06
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏تصاویر دریافتی در ۲۵ تیر با شرح: ترمینال مسافربری فرودگاه بوشهر و باقی‌مانده‌های یک هواپیما
-‏
-‏سخنگوی دولت، امروز: فرودگاه بوشهر دیگر قابل استفاده نیست و باید از نو ساخته شود. از یک هواپیما که تازه خریده بودیم فقط دم آن باقی مانده است.
-‏Vahid
-‏سخنگوی دولت جمهوری اسلامی می‌گوید فرودگاه بوشهر در حملات اخیر آمریکا کاملا تخریب شده و دیگر قابل استفاده نیست و «حتما باید از اول ساخته شود.»
-‏
-‏فاطمه مهاجرانی روز سه‌شنبه، ۶ مرداد، در نشست خبری هفتگی‌اش با خبرنگاران گفت در بازدید از فرودگاه بوشهر «بقایای هواپیمای نوی به تازگی خریداری شده» را دیده که بر اثر اصابت مستقیم موشک، جز بخش کوچکی از دُم آن، تمام بدنه آن نابود شده بود.
-‏این نخستین بار است که یک مقام حکومت ایران از تخریب کامل فرودگاه بوشهر بر اثر حملات به ایران خبر می‌دهد.
-‏@VahidHeadline
-‏یک توییت به همراه اسکرین‌شات‌هایی درباره اطلاعات یک ایرباس ۳۱۹:
-‏عمر این هواپیما 24 سال بوده! سال 2019 هم خریداری شده بوده.
-‏iranimerican
-‏
-‏📡 @VahidOnline
-17:47
 1405/05/06
 
 
@@ -6040,14 +5883,6 @@ src :@KayhanLondonChannel
 ‏
 ‏از سوی دیگر با وجود کمبود آموزگار، تعداد زیادی از آموزگاران شاغل در شهر تهران نیز درخواست انتقال به دیگر شهرها را دارند. افزایش هزینه زندگی، از جمله اجاره‌بهای مسکن، مهمترین دلیل درخواست آموزگاران شاغل در پایتخت برای انتقال به دیگر شهرها اعلام شده است.
 15:18
-1405/05/06
-
-
-
-
-src :@GeoPWatch
-‏🇾🇪❌🇸🇦🔥 - Analysis and Satellite Imagery conducted by the GeoPWatch team shows:  A probable point of impact within the Jazan Refinery tank farm, located approximately 45 km north of the city of Jazan, following the Houthi strike on Saturday, 25 July.  Imagery…
-15:16
 1405/05/06
 
 
