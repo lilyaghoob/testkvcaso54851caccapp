@@ -1,4 +1,30 @@
 src :@tabzlive
+‏🇮🇶🇮🇶⚡️ —  Explosions occured at a Popular Mobilization Forces-owned ammunition depot in Basra Governorate, Iraq.
+03:02
+1405/05/07
+
+
+
+
+src :@guard_warriors
+‏انفجار انبار مهمات حشدالشعبی در بصره عراق
+‏
+‏@Guard_Warriors
+03:02
+1405/05/07
+
+
+
+
+src :@rnintel
+‏🇮🇶⚡- BREAKING: Explosions heard in the pro-Iranian stronghold of Basrah, southern Iraq.
+02:59
+1405/05/07
+
+
+
+
+src :@tabzlive
 ‏🇮🇶⚡️ — Rising smoke in Ad Dayr, Basra Governorate, Iraq.
 02:53
 1405/05/07
@@ -1211,7 +1237,8 @@ src :@VahidOnline
 ‏پست سنتکام، ترجمه ماشین:
 ‏امروز ساعت ۵:۴۵ بعدازظهر به وقت شرق آمریکا [۱:۱۵ چهارشنبه به وقت تهران]، نیروهای سپاه پاسداران انقلاب اسلامی چندین موشک بالستیک را از ایران، در تلاشی برای انجام حمله‌ای غافلگیرانه به نیروهای آمریکایی مستقر در خاورمیانه، شلیک کردند. 
 ‏
-‏همه موشک‌های ایران با موفقیت رهگیری شدند. نیروهای آمریکایی همچنان هوشیار و در بالاترین سطح آمادگی قرار دارند.
+‏همه موشک‌های ایران با موفقیت رهگیری شدند.
+‏نیروهای آمریکایی همچنان هوشیار و در بالاترین سطح آمادگی قرار دارند.
 ‏CENTCOM 
 ‏
 ‏📡 @VahidOnline
@@ -1594,15 +1621,6 @@ src :@intelslava
 
 src :@RASTAKHIZ_PERSIAN
 ‏🚨فوری/هم اکنون گزارش‌های اولیه مبنی بر پرتاب 6 موشک بالستیک از استان مرکزی به سمت کشور های منطقه
-01:20
-1405/05/07
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷❌🇺🇸 — Iranian ballistic missiles have reportedly been launched from Khomein, Iran.
 01:20
 1405/05/07
 
@@ -6471,14 +6489,6 @@ src :@Parvazdaroj
 
 
 
-src :@rnintel
-‏🇯🇴🇮🇱⚡️- Jordan shot down an unknown drone that breached their border earlier this morning. The IDF has also announced they downed a drone from an unknown origin near their border with Jordan.
-12:02
-1405/05/06
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏رزمایش ارتش ایالات متحده، نورثرن استرایک
@@ -6539,22 +6549,6 @@ src :@Parvazdaroj
 
 
 
-src :@rnintel
-‏🇨🇳🇸🇰⚡️- Xi Jinping held talks with Slovak President Peter Pellegrini in Beijing today.
-11:43
-1405/05/06
-
-
-
-
-src :@rnintel
-‏🇯🇴🇮🇱⚡️- Jordan shot down an unknown drone that breached their border earlier this morning. The IDF has also announced they downed a drone from an unknown origin near their border with Jordan.
-11:38
-1405/05/06
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏◆ در سال ۱۹۵۲ میلادی، خلبان یک فروند جنگنده مک‌دانل F2H-2 بانشی نیروی دریایی آمریکا از اسکادران VF-62 «گلادیاتورز» از ناو هواپیمابر یواس‌اس کورال سی (CVB-43) به‌طور اشتباهی بر روی ناو هواپیمابر واسپ (CV-18) فرود می‌آید.
@@ -6565,14 +6559,6 @@ src :@Artemis_Force
 ‏
 ‏@Parvazdaroj | Phoenix
 11:35
-1405/05/06
-
-
-
-
-src :@rnintel
-‏🇯🇵⚡️- BREAKING: 7.1 earthquake detected around 15 minutes ago south-west of Japan.
-11:32
 1405/05/06
 
 
