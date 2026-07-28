@@ -2588,16 +2588,6 @@ src :@samueltarikh
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۶ مرداد
-‏@iranintlTV
-20:24
-1405/05/06
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇱/🇺🇦 NEW: President Trump received Israeli Prime Minister Netanyahu and Ukrainian President Zelenskyy at the White House today in two separate meetings
@@ -2964,15 +2954,6 @@ src :@MilitarryWorld
 ‏‏ما و شخص رییس جمهور از حق مردم برای دسترسی به اینترنت آزاد کوتاه نمی‌آییم
 ‏
 ‏@MilitarryWorld | Parsa
-19:52
-1405/05/06
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇸🇾 🇸🇾 🇸🇾 🇸🇾 — Syria Today: The Sotooro Forces, Syriac Military Council (MFS), and Khabur Guards are integrating to the Syrian Ministry of Interior and Ministry of Defense on an individual basis.
 19:52
 1405/05/06
 
@@ -6609,15 +6590,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:52
-1405/05/05
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏روسیه در حال ساخت پناهگاه‌های مستحکم جدید برای هواپیماها در پایگاه هوایی لیپتسک است.
-‏
-‏@Minas_Tirith2024
-22:49
 1405/05/05
