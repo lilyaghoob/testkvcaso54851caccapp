@@ -1,3 +1,65 @@
+src :@Artemis_Force
+[عکس]
+‏کشتی آموزشی چی چی‌گوآن (شماره بدنه 83) و کشتی پشتیبانی "کونلون‌شان" (شماره بدنه 998) نیروی دریایی ارتش چین، به بندر موآرا (برونئی) با یک سفر چهار روزه وارد شدند.
+‏
+‏این دو کشتی، در تاریخ 15 ژوئن 2026، از پایگاه دریایی تشین‌دائو، برای یک ماموریت دریایی دوربرد، با هدف آموزش عملی 400 دانشجوی مراکز آموزشی نظامی چین، حرکت خود را آغاز کردند.
+‏
+‏@artemis_force
+10:02
+1405/05/06
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇷🇺🇸 Iran unveils faster & stealthier kamikaze drone "built to slip through American air defences."
+‏
+‏@BRICSNews
+10:01
+1405/05/06
+
+
+
+
+src :@MilitarryWorld
+‏🔴همشهری:
+‏
+‏حنی توی جلسه مجازی مجلس هم ۵۰ نماینده غیبت کردن!
+‏
+‏@MilitarryWorld | Parsa
+09:59
+1405/05/06
+
+
+
+
+src :@naya_foriraq
+‏إعلام أمريكي: سلطنة عُمان قدمت لإيران مقترحاً لآلية إقليمية مشتركة لإدارة مضيق هرمز تعتمد على رسوم طوعية
+09:58
+1405/05/06
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇷🇺🇺🇦 Footage from Chekhov, Moscow region following Ukrainian arrivals.  @wfwitness
+09:58
+1405/05/06
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇷🇺🇺🇦 Additional image from Koledino, Moscow Oblast.  @wfwitness
+09:57
+1405/05/06
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇷🇺🇺🇦 Footage from Koledino (Moscow Oblast), a warehouse is on fire.  The fire didn't spread to the Wildberries facility.  @wfwitness
@@ -1306,19 +1368,6 @@ src :@BellumActaNews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇨🇳🇮🇳 NDTV: satellite imagery shows at least 11 Chinese J-20 stealth fighters deployed near the border with India, with seven detected at Hotan airfield, 245 km from India Daulat Beg Oldi air base, and four at the high-altitude Damxung airfield facing the Tawang sector, as the fleet has reportedly grown from around 50 units in 2019 to an estimated 300-500 by mid-2026.
-‏
-‏Indian military sources say such deployments have become routine practice for China to respond quickly to border tensions, as New Delhi own fifth-generation fighter, the AMCA, remains at least a decade from operational status, leaving India reliant on 36 French Rafale jets and more than 260 Su-30MKI aircraft to counter the growing gap.
-‏
-‏@wfwitness
-05:58
-1405/05/06
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏هم‌زمان با اعدام چند معترض بازداشت شده اعتراضات دی‌ماه در اصفهان در بامداد سه‌شنبه، ویدیوهای منتشر شده در فضای مجازی تجمعات اعتراضی و شعارهای ضدحکومتی شهروندان را در اطراف میدان علیخانی اصفهان نشان می‌دهد. 
@@ -1381,18 +1430,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇮🇷🔥 — Local channels report that Islamic Republic of Iran's security forces opened fire on the protesters gathered outside the execution site, likely aimed to disperse the crowds  @BellumActaNews
 05:52
-1405/05/06
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 IRIB: Three men convicted over their involvement in the January 2026 nationwide anti-government protests were publicly executed this morning in Alikhani Square in Isfahan. 
-‏
-‏Iranian authorities claim the men were responsible for the killing of four police officers during unrest in the city.
-‏
-‏@wfwitness
-05:44
 1405/05/06
 
 
@@ -3274,20 +3311,6 @@ src :@thewarreporter
 
 
 
-src :@MilitarryWorld
-‏🔴دونالد ترامپ درباره ایران: آنها دوباره رفتار مناسبی نشان می‌دهند
-‏
-‏‏مدتی بود که اوضاع کمی آرام شده بود. اما آن‌ها دوباره رفتار مناسبی از خود نشان ندادند، و من مجبور شدم دوباره وارد عمل شوم.
-‏
-‏‏اکنون، به نظر می‌رسد آن‌ها دوباره رفتار مناسبی از خود نشان می‌دهند.
-‏
-‏@MilitarryWorld | Parsa
-23:17
-1405/05/05
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری آسوشیتدپرس به نقل از مقام های منطقه ای گزارش داد میانجی ها در تلاش برای بازگرداندن آمریکا و جمهوری اسلامی به میز مذاکره به پیشرفت هایی دست یافته‌اند؛ موضوعی که پس از توقف حملات دو طرف و کاهش تنش های نظامی در روزهای اخیر مطرح شده است.
@@ -4991,16 +5014,6 @@ src :@warmonitors
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 President Trump says he won't spend much time on negotiations and will use "strong military measures" if talks fail with Iran.
-‏
-‏@BRICSNews
-18:56
-1405/05/05
-
-
-
-
 src :@didarnews1
 ‏🔴میانجی‌گران قطری و پاکستانی طبق گزارش آسوشیتدپرس، در جهت از سرگیری مذاکرات تهران و واشنگتن و بازگرداندن آتش‌بس موقت پیشرفت داشته‌اند.
 ‏
@@ -5320,16 +5333,6 @@ src :@defence_news
 ‏مردم ایران بدانند که آتش‌بس و تفاهم‌نامه تصمیم نظام بود و ما فریب نخوردیم.
 ‏ اینکه کسی تبلیغات کند و بگوید آمریکا از این فرصت استفاده کرد و ما را فریب داد، درست نیست. /انتخاب
 17:46
-1405/05/05
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 More than 600 US military service members have been injured since the Iran War began in February.
-‏
-‏@BRICSNews
-17:45
 1405/05/05
 
 
