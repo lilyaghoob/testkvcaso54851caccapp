@@ -1,3 +1,46 @@
+src :@World_Newsly
+[عکس]
+‏🔴نتانیاهو وارد کاخ سفید شد
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+19:10
+1405/05/06
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇧🇷 Brazilian President Lula's odds of winning reelection surge to all-time high.
+‏
+‏@Brics_Info
+19:08
+1405/05/06
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Former French Navy Rafale pilot and YouTuber Pierre-Henri Chuet is under formal investigation in France over China-linked military training and the possible transfer of sensitive defense knowledge. 
+‏
+‏Source: La Voix du Nord
+19:08
+1405/05/06
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏مقامات روسی در حال بررسی طرحی برای تجهیز کشتی‌های غیرنظامی حامل غلات و محصولات کشاورزی به مسلسل‌های سنگین و موشک‌های پدافند هوایی پرتابل هستند تا در برابر پهبادها اوکراینی از خود دفاع کنند
+19:08
+1405/05/06
+
+
+
+
 src :@didarnews1
 [عکس]
 ‏🔴لایحه جدید سنای آمریکا برای تحریم ایران و روسیه
@@ -1783,18 +1826,6 @@ src :@IranintlTV
 ‏
 ‏برد کوپر، فرمانده سنتکام، این همکاری را «نقطه عطفی تاریخی» توصیف کرد و گفت این کارگروه بر توسعه کاربردهای هوش مصنوعی در پشتیبانی اطلاعاتی، حفاظت از زیرساخت‌های حیاتی و پایش وضعیت امنیتی منطقه تمرکز خواهد داشت.
 ‏https://iranintl.com/202607286948
-17:28
-1405/05/06
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ: اگر ایران توافق نکنه، من برمی گردم و ماموریت را تا آخرش انجام میدم!
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 17:28
 1405/05/06
 
@@ -4265,16 +4296,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@jangaavaran1390
-‏ای۲۴ اسرائیل 
-‏
-‏گروه‌های عراقی مورد حمایت ایران در چند روز گذشته، ۲۰ پهپاد به سمت اسرائیل، اردن و عربستان سعودی شلیک کرده‌اند.
-13:17
-1405/05/06
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏هم‌زمان با افزایش برخوردهای امنیتی با کاربران شبکه‌های اجتماعی، کانال یوتیوب «نیما تکیدو»، از پرمخاطب‌ترین یوتیوبرهای فارسی‌زبان، توسط پلیس فتا توقیف شد. پیشتر ایونت «رانی ورد کاپ» با حضور «نیما تکیدو»، یوتیوبر فارسی‌زبان، در ایران‌مال به دلیل استقبال هواداران او لغو شده بود.
@@ -5640,17 +5661,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 03:09
-1405/05/06
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇾🇪 Ship traffic in Bab el-Mandeb Strait down over 50% after Yemeni Houthis announce blockade.
-‏
-‏@BRICSNews
-02:48
 1405/05/06
 
 
