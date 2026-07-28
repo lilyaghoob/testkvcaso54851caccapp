@@ -1,6 +1,78 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 نیروهای مسلح یمن یک عملیات نظامی را علیه نفتکش سعودی به نام (NCC GHAZAL) انجام دادند. این عملیات به دلیل نقض تصمیم ممنوعیت تردد دریایی علیه دشمن سعودی و عدم پاسخگویی به هشدارهای صادر شده، با استفاده از تعدادی موشک بالستیک انجام شد. در نتیجه، نفتکش مجبور به عقب‌نشینی و بازگشت شد، بحمدالله.
+‏
+‏🔹 نیروهای مسلح یمن بر ادامه اجرای تصمیم ممنوعیت تردد دریایی علیه دشمن سعودی، در چارچوب معادله محاصره از طریق محاصره و تشدید از طریق تشدید، تاکید می‌کنند.
+‏
+‏#خبر
+‏
+‏@RASTAKHIZ_PERSIAN
+23:23
+1405/05/06
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The Trump administration is set to ban imports of new Chinese humanoid robots, quadruped robots, and connected power inverters, citing national security concerns. 
+‏
+‏Officials say the move aims to protect the U.S. AI supply chain, reduce cybersecurity risks, and encourage domestic manufacturing.
+‏
+‏Source: CNBC
+23:21
+1405/05/06
+
+
+
+
+src :@ClashReport
+‏Saudi Arabia says it intercepted and destroyed several drones targeting oil facilities in the Eastern Province, blaming Iran-backed militias operating from Iraq.
+23:20
+1405/05/06
+
+
+
+
 src :@naya_foriraq
-‏F.B bro wait 😆
-23:16
+‏🇮🇶انفجارات في محافظة اربيل قضاء كوية شمالي العراق.
+23:19
+1405/05/06
+
+
+
+
+src :@Alibk3
+‏هجوم بالمسيّرات على أربيل شمال العراق.
+23:19
+1405/05/06
+
+
+
+
+src :@naya_foriraq
+‏ستة انفجارات سمعت بوضوح قرب مؤسسات نفطية و غازية دون تفعيل صافرات الإنذار بالمنطقة الشرقية في السعودية
+23:19
+1405/05/06
+
+
+
+
+src :@rnintel
+‏🇸🇦🇮🇶🇾🇪⚡- Saudi Arabia has presented its counterparts in Baghdad intelligence showing the drones that attacked the Abqaiq oil refinery were launched from Iraqi territory.  Iraq's intelligence had earlier claimed Ukrainian special forces are operating in the…
+23:18
+1405/05/06
+
+
+
+
+src :@World_Newsly
+‏🔴 پلیس اقلیم کردستان عراق:
+‏🔹 ۶ حمله پهپادی در ۲۴ ساعت گذشته استان سلیمانیه را هدف قرار داد.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+23:18
 1405/05/06
 
 
@@ -270,17 +342,6 @@ src :@World_Newsly
 
 src :@Alibk3
 ‏حدث أمني في البحر الأحمر
-23:07
-1405/05/06
-
-
-
-
-src :@World_Newsly
-‏🔴کانال ۱۲ اسرائیل: نتانیاهو به ترامپ تأکید کرده که حملات بیشتر علیه تأسیسات هسته‌ای بازسازی‌شده ایران اجتناب‌ناپذیر است!
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
 23:07
 1405/05/06
 
@@ -2843,17 +2904,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Alibk3
-[عکس]
-‏وزير الخارجية الأوكراني: 
-‏
-‏اتصلت بنظيري الإيراني لإجراء محادثة صريحة وشددت على أن هدفنا هو تجنب أي تصعيد.
-20:38
-1405/05/06
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏روزها
@@ -4389,24 +4439,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/06/405764/
 18:28
-1405/05/06
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️
-‏فرماندهی مرکزی ایالات متحده (سنتکام) روز سه‌شنبه ششم مرداد، از دستیابی به توافقی با امارات متحده عربی برای تشکیل اولین کارگروه دوجانبه با هدف شتاب‌بخشی به توسعه کاربردهای هوش مصنوعی نظامی خبر داد.
-‏
-‏این کارگروه مشترک که «تالون ساینپس» (Task Force Talon Synapse) نام دارد، قرار است طی هفته‌های آینده به‌طور رسمی آغاز به کار کند. مقر این تیم ۲۰ نفره در ابوظبی خواهد بود و از متخصصان آمریکایی و اماراتی در زمینه‌های هوش مصنوعی، داده و امنیت سایبری تشکیل می‌شود.
-‏
-‏دریادار برد کوپر، فرمانده سنتکام، این توافق را یک «سنگ‌بنای تاریخی» خواند و تاکید کرد که این همکاری به ارتقای سریع فناوری‌های نوآورانه در عرصه نظامی کمک خواهد کرد. ایده اولیه تشکیل این گروه سال گذشته در دیدار کوپر و شیخ طحنون بن زاید آل نهیان، مشاور امنیت ملی امارات، مطرح شده بود.
-‏
-‏تمرکز اصلی این کارگروه بر ادغام هوش مصنوعی در بخش‌های پشتیبانی اطلاعاتی، حفاظت از زیرساخت‌های حیاتی و پایش محیط امنیتی منطقه خواهد بود.
-‏
-‏@indypersian
-18:27
 1405/05/06
 
 
@@ -6417,14 +6449,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/06/405715/
 11:27
-1405/05/06
-
-
-
-
-src :@rnintel
-‏🇨🇳🇮🇳⚡️- NDTV reveals China has deployed at least 11 J-20 stealth fighters in two air bases facing India.
-11:23
 1405/05/06
 
 
