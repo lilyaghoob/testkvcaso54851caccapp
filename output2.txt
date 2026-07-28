@@ -1,3 +1,80 @@
+src :@MilitarryWorld
+‏🔴وزیر دفاع اسرائیل می‌گوید که جنگنده‌های آمریکایی طی این مدت از اسرائیل پرواز می‌کردند،و از آنجا نیز سوختگیری می‌کردم (منظور بمباران‌های شبانه چند وقت اخیر است)
+‏
+‏@MilitarryWorld | Parsa
+13:32
+1405/05/06
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧 L’Orient: Lebanon’s Electricity Regulatory Authority said electricity sector reform is already underway, presenting the government’s newly approved policy as a roadmap to restructure the sector over the coming years rather than a plan that still needs to begin. 
+‏
+‏The first implementation decrees are expected in the coming weeks, including transforming Électricité du Liban (EDL) into a state-owned joint-stock company and legally separating electricity generation, transmission, distribution, wholesale purchasing, and supply activities. 
+‏
+‏The reform is intended to open the sector to private investment while maintaining state ownership during the transition. 
+‏
+‏@wfwitness
+13:31
+1405/05/06
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴هواپیمای ترابری ایرانی سیمرغ در حال اخذ مدرک استاندارد، از سال ۱۴۰۶ وارد چرخه تجاری می شود.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+13:31
+1405/05/06
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏یکی از نکات قابل توجه ی که به آن اشاره نشد یا توجه نشده بود حملات هوایی ایالات متحده آمریکا به عمده دکل های مخابراتی در هرمزگان بوده است، طبق گفته مدیرکل ارتباطات و فناوری اطلاعات هرمزگان در حملات ایالات متحده آمریکا به جنوب کشور به بیش از ١١۶ دکل مخابراتی حمله هوایی صورت گرفته است { فقط در هرمزگان}  که خیلی از آنها از کار افتاده اند و از مدار فعالیت خارج شده اند 
+‏
+‏@artemis_force
+13:30
+1405/05/06
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏حال خلبان باید وضعیت سوئیچ XMTI را مشخص کند که مربوط به حالت عملیاتی پاد و وضعیت آنتن ها برای ارسال و دریافت امواج می باشد.
+‏این سوئیچ سه حالت با شماره های ۱، ۲ و ۳ دارد؛ در حالت اول فقط آنتنی که پشت هواپیما را پوشش می دهد فعال می شود و بصورت خودکار دست به اخلال میزند.
+‏در حالت دوم هر دو آنتن فعال می شوند اما اخلال با توجه به وضعیت تهدیدات انجام می شود و پاد بصورت خودکار تشخیص می دهد که چه تهدیدی چه موقع و با کدام آنتن ها اخلال بشود و چه موقع دیگر نیازی به اخلال نیست.( در این مود هر زمان که انتن جلویی فعال شود، راندمان رادار هواپیما کاهش پیدا می کند)
+‏حالت سوم تنها حالتی می باشد که حتی اگر مستر سوئیچ CMDS در وضعیت Man باشد فعال می شود؛
+‏در این مود اخلال بصورت مداوم با تمام توان از هر دو آنتن انجام می شود و پاد بر روی هر امواجی که دریافت کند اخلال می اندازد به همین دلیل عملکرد رادار و هشداردهنده هواپیما نیز دچار مشکل می شود.
+‏پس رادار موقتا به مود Stand by میرود تا امواجی ارسال نکند.
+‏بخش سمت چپ تصویر نشان می دهد که هر Push button موجب اخلال در چه باند های راداری می شود
+‏
+‏5/
+‏
+‏@PARVAZDAROJ | 𝑆𝐼𝐸𝑅𝑅𝐴
+13:28
+1405/05/06
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏فرزند ایران جاویدنام آناهیتا آذر شب 💔🫡
+‏
+‏نیمه‌شب، هم‌زمان با اجرای احکام اعدام، مردم معترض اصفهان در میدان علیخانی این شهر دست به اعتراض زدند. در جریان این درگیری‌ها، دختر جوانی به نام آناهیتا آذرشب توسط نیروهای سرکوبگر کشته شد. 💔🥀
+13:28
+1405/05/06
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏دو مقام ارشد دولت جمهوری اسلامی در فاصله چند ساعت، آمارهای متفاوتی از تلفات حملات اخیر آمریکا به جنوب ایران اعلام کردند؛ اختلافی که ابهام‌ها درباره شمار واقعی قربانیان را افزایش داده است.
@@ -46,34 +123,6 @@ src :@IranintlTV
 ‏کاتز همچنین گفت که دونالد ترامپ، رییس‌جمهوری آمریکا، «درک می‌کند که اسرائیل از مناطق حائل در لبنان، غزه و سوریه عقب‌نشینی نخواهد کرد». او افزود: «هفته گذشته از غزه بازدید کردم؛ هنوز تونل‌های بسیار بزرگی در آنجا وجود دارد.»
 ‏https://iranintl.com/202607285181
 13:24
-1405/05/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ukraine aims to have a prototype of the European-developed Freyja missile defense system ready by mid-2027 as a lower-cost alternative to the U.S. Patriot. 
-‏
-‏Ukraine will provide the interceptor and launcher, while European partners will contribute radars, sensors, and guidance technology. 
-‏
-‏The project uses an open architecture, allowing countries to integrate their own components, with the goal of reducing Europe's reliance on Patriot systems against Russian ballistic missiles.
-‏
-‏Source: Reuters
-13:24
-1405/05/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A new DEA assessment says the Trump administration's Operation Southern Spear has not significantly reduced the flow of cocaine into the U.S., despite claims that maritime drug trafficking has been nearly eliminated. 
-‏
-‏Traffickers have adapted by using larger ships, aircraft, and coastal routes, while cocaine prices, purity, and availability remain largely unchanged. 
-‏
-‏Source: WaPo
-13:23
 1405/05/06
 
 
@@ -609,14 +658,6 @@ src :@World_Newsly
 
 
 
-src :@naya_foriraq
-‏🇮🇱🇺🇸وزير الحرب الصهيوني كاتس: نريد جدا معاودة شن الحرب على إيران لكن الولايات المتحدة تمنعنا، طائرات أميركية تشن غارات في إيران انطلاقا من مطارات إسرائيلية.
-12:55
-1405/05/06
-
-
-
-
 src :@samueltarikh
 ‏تو بد بلاتکلیفی گرفتاریم ...
 12:54
@@ -725,17 +766,6 @@ src :@World_Newsly
 
 src :@jangaavaran1390
 ‏وزیر دفاع اسرائیل، اسرائیل کاتز، گفته است که اسرائیل بسیار تمایل دارد به اهداف انرژی ایران حمله کند، اما در حال حاضر، ایالات متحده این حملات را تایید نمی‌کند.
-12:45
-1405/05/06
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏تصاویری از عملیات جابجایی سامانه HIMARS توسط C130 در منطقه مسئولیت سنتکام
-‏
-‏@artemis_force
 12:45
 1405/05/06
 
@@ -941,20 +971,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 12:21
-1405/05/06
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 منابع روسی: اوکراین تا پاییز امسال توان شلیک موشک بالستیک جدید به مسکو را خواهد داشت. احتمالاً یک ماه پیش پرتاب آزمایشی انجام شده و به زودی تولید و شلیک تعداد بیشتری را آغاز می‌کند.
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-12:20
 1405/05/06
 
 
@@ -3493,19 +3509,6 @@ src :@Shin_Persian
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴ابوالفضل سپاهی، علیرضا سپاهی و امیرحسین صفری، 3 تن از معترضین دی ماه، همزمان با اذان صبح در میدان علیخانی اصفهان اعدام میشن!
-‏
-‏+ساعت 03:41 دقیقه صبح اذان خونده میشه
-‏
-‏@MilitarryWorld | Parsa
-03:25
-1405/05/06
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇺🇦🇷🇺⚡️ — Members of the US Senate will meet with Volodymyr Zelenskyy in Washington late on July 28, Reuters reported.
 ‏
@@ -3577,14 +3580,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 03:05
-1405/05/06
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏⚫ای کاش صبح رو زنده نباشم، دیگه نمیکشم خدا، خودت تموم کن این بدبختی مارو.   🆔@WAR_ROOM_NEWS
-02:51
 1405/05/06
 
 
@@ -5800,6 +5795,25 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏https://t.me/RASTAKHIZ_PERSIAN/1741?single
 16:12
+1405/05/05
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 وزارت دفاع عربستان سعودی اعلام کرد که جنبش مقاومت اسلامی عراق پالایشگاه ابقایق در عربستان سعودی بزرگترین مجتمع جهان برای فرآوری نفت و تثبیت نفت خام را مورد هدف قرار داده است.
+‏
+‏🔹 وزارت دفاع اعلام کرد که چندین پهپاد پرتاب شده از عراق را سرنگون کرده است، اما در مورد اصابت و وقوع خسارت چیزی بیان نکرد
+‏
+‏🔹 صبح امروز بود که گزارش‌های اولیه ای مبنی بر حمله به پالایشگاه آرامکو در ابقایق منتشر شده بود و بر اساس تصاویر ساکنین محلی
+‏ ستون‌های دود از این مجتمع صنعتی به آسمان بلند شده بود و نقشه آتش‌سوزی ناسا نیز نشان‌دهنده وجود آتش‌سوزی‌های گسترده در این پالایشگاه است.
+‏
+‏#عربستان
+‏#عراق
+‏
+‏@RASTAKHIZ_PERSIAN
+16:10
 1405/05/05
 
 
