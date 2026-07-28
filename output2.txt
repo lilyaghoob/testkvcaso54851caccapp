@@ -1,6 +1,31 @@
+src :@rnintel
+[عکس]
+‏🇺🇸🇮🇷🇯🇴⚡- "At 5:45 p.m. ET today, Islamic Revolutionary Guard Corps forces launched multiple ballistic missiles from Iran in an attempted surprise attack on U.S. forces based in the Middle East. All Iranian missiles were successfully intercepted. U.S. forces…
+03:06
+1405/05/07
+
+
+
+
 src :@tabzlive
-‏🇮🇶🇮🇶⚡️ —  Explosions occured at a Popular Mobilization Forces-owned ammunition depot in Basra Governorate, Iraq.
-03:02
+‏🇮🇱❌🇱🇧 — IDF artillery strikes against the Ali al-Taher heights, Lebanon.
+03:06
+1405/05/07
+
+
+
+
+src :@rnintel
+‏🇺🇸🇯🇴🇮🇷⚡- BREAKING: CENTCOM claims Iran launched a "surprise" attack on U.S. military installations in Jordan in the past hour.
+03:04
+1405/05/07
+
+
+
+
+src :@rnintel
+‏🇺🇸🇯🇴🇮🇷⚡- BREAKING: CENTCOM claims Iran launched a "surprise" attack on U.S. military installations in Jordan in the past hour.
+03:04
 1405/05/07
 
 
@@ -5239,14 +5264,6 @@ src :@bricsnews
 
 
 
-src :@rnintel
-‏🇫🇷⚡️- Fires in Gironde have started regaining strength. Their trajectory has also changed due to new winds. The fires are now encroaching on the territory of the military base of Souge, home of the prestigious 13th Parachute Dragoon Regiment.
-18:13
-1405/05/06
-
-
-
-
 src :@ircfspace
 [عکس]
 ‏از چندروز آینده بخش جدیدی از قانون هوش مصنوعی اتحادیه اروپا (AI Act) اجرایی می‌شود که شرکت‌ها را ملزم می‌کند در موارد مشخص، استفاده از هوش مصنوعی را به‌صورت شفاف اعلام کنند. بر اساس این مقررات، اگر محتوایی مانند تصویر، ویدئو، صدا یا متن با هوش مصنوعی تولید یا به‌گونه‌ای دستکاری شده باشد که بتواند کاربران را درباره واقعی بودن آن گمراه کند، باید برچسب مناسب داشته باشد. 
@@ -5256,15 +5273,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 18:13
-1405/05/06
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇫🇷⚡️- Fires in Gironde have started regaining strength. Their trajectory has also changed due to new winds. The fires are now encroaching on the territory of the military base of Souge, home of the prestigious 13th Parachute Dragoon Regiment.
-18:10
 1405/05/06
 
 
@@ -5945,16 +5953,6 @@ src :@defence_news
 
 
 
-src :@rnintel
-‏🇸🇦🇾🇪⚡️ — Saudi Aramco has temporarily shut its 400,000-barrel-per-day Jazan refinery after a Houthi attack damaged the facility's integrated gasification combined cycle (IGCC) system and tank farm.
-‏
-‏➡️ Repair work is underway, with the company expected to restart operations by August 15.
-16:06
-1405/05/06
-
-
-
-
 src :@OSINTWarfare
 ‏The Main Directorate of Intelligence of Ukraine's Ministry of Defence (HUR) has warned the military that Iran may launch at least three medium-range ballistic missiles from Tabriz in northwestern Iran against military infrastructure in Kyiv within the next 48 hours, in response to Ukraine's attack on an Iranian vessel in the Caspian Sea several days ago.
 ‏
@@ -6177,14 +6175,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 14:50
-1405/05/06
-
-
-
-
-src :@rnintel
-‏🇺🇦🇮🇷⚡- Ukrainian monitoring channels detect movement in Iran indicating a possible Iranian medium-range ballistic missile launch towards Ukraine in the next 24 hours.
-14:43
 1405/05/06
 
 
