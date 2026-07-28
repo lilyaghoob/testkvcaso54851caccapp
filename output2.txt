@@ -1,3 +1,67 @@
+src :@tabzlive
+[عکس]
+‏🇾🇪🇸🇦⚡️ — UKMTO says it received a report from the captain of a tanker in the southern Red Sea of hearing an explosion nearby.
+‏
+‏➡️ The crew and vessel are safe, with no injuries or environmental damage reported.
+23:12
+1405/05/06
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴بنابر گزارشات یک کشتی سعودی در پی حمله حوثی ها در دریای سرخ دچار آتش‌سوزی شده است
+23:11
+1405/05/06
+
+
+
+
+src :@Minas_Tirith2024
+‏از خاک عراق و توسط شبه‌نظامیان وابسته به ایران انجام شده است
+23:11
+1405/05/06
+
+
+
+
+src :@samueltarikh
+‏هم اکنون گزارش ها از حملات پهپادی متعدد به سمت تأسیسات نفتی در شرق عربستان سعودی.
+23:10
+1405/05/06
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - UKMTO has released a warning, off the coast of Jazan, Saudi Arabia. The incident occurred 27th July. This comes after the Houthi’s earlier statement today claiming to have targeted Saudi tanker “NCC Ghazal”.
+‏
+‏@GeoPWatch
+23:09
+1405/05/06
+
+
+
+
+src :@Alibk3
+[عکس]
+‏حدث أمني في البحر الأحمر
+23:08
+1405/05/06
+
+
+
+
+src :@samueltarikh
+‏پلیس اقلیم کردستان عراق:
+‏ ۶ حمله پهپادی در ۲۴ ساعت گذشته استان سلیمانیه را هدف قرار داد.
+23:08
+1405/05/06
+
+
+
+
 src :@samueltarikh
 ‏⭕️وزارت دفاع عربستان سعودی: 
 ‏
@@ -16,8 +80,44 @@ src :@Middle_East_Spectator
 
 
 
+src :@World_Newsly
+[عکس]
+‏🔴در مراسم خاکسپاری امروز لیندزی گراهام، ترامپ، زلنسکی، نتانیاهو و شاهزاده رضا پهلوی حضور داشتند.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+23:07
+1405/05/06
+
+
+
+
+src :@World_Newsly
+‏🔴وزارت دفاع عربستان سعودی: 
+‏
+‏سامانه‌های دفاعی ما در ساعات گذشته پهپادهایی را که قصد هدف قرار دادن تأسیسات نفتی در منطقه شرقی را داشتند، منهدم کردند
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+23:07
+1405/05/06
+
+
+
+
 src :@Alibk3
 ‏حدث أمني في البحر الأحمر
+23:07
+1405/05/06
+
+
+
+
+src :@World_Newsly
+‏🔴کانال ۱۲ اسرائیل: نتانیاهو به ترامپ تأکید کرده که حملات بیشتر علیه تأسیسات هسته‌ای بازسازی‌شده ایران اجتناب‌ناپذیر است!
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
 23:07
 1405/05/06
 
@@ -196,7 +296,7 @@ src :@VahidOnline
 
 
 src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: Saudi Arabia’s Ministry of Defense announces the Kingdom came under attack from drones in the past few hours
+‏—❗️🇸🇦/🇾🇪 BREAKING: Saudi Arabia’s Ministry of Defense announces the Kingdom came under attack from drones again in the past few hours
 ‏
 ‏The drones attempted to target petroleum facilities in Eastern Saudi Arabia and were launched from Iraq, according to the statement.
 ‏
@@ -2050,19 +2150,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-‏🔴حوثی‌های یمن اعلام کردند که یک عملیات نظامی را علیه نفتکش سعودی به نام NCC Ghazal انجام داده‌اند و با استفاده از چندین موشک بالستیک، این نفتکش را هدف قرار داده‌اند. دلیل این اقدام، نقض محاصره دریایی اعلام‌شده توسط آن‌ها علیه عربستان سعودی و همچنین بی‌توجهی به هشدارهای قبلی بوده است.
-‏
-‏آن‌ها مدعی هستند که این نفتکش مجبور به بازگشت شده است
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
-21:10
-1405/05/06
-
-
-
-
 src :@thewarreporter
 ‏🛳️🇴🇲🇮🇷 — Iranian Deputy Foreign Minister Kazem Gharibabadi:
 ‏
@@ -2354,24 +2441,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[عکس]
-‏کاظم غریب‌آبادی، معاون وزیر خارجه جمهوری اسلامی، روز سه‌شنبه ششم مرداد، در یک گفت‌وگوی تلویزیونی گفت سیاست جمهوری اسلامی این است که تنگه هرمز «هیچ‌گاه به وضعیت پیش از جنگ بازنگردد.»
-‏
-‏او افزود هر ناو اروپایی که بخواهد به تنگه هرمز نزدیک شود، «هدف مشروع» جمهوری اسلامی خواهد بود.
-‏
-‏غریب‌آبادی همچنین گفت عمان پیشنهاد کرده بود کشوری برای مین‌زدایی از بخش جنوبی تنگه هرمز اعزام شود، اما جمهوری اسلامی با این درخواست مخالفت کرده است.
-‏
-‏او تاکید کرد جمهوری اسلامی در ۱۵ روز گذشته هیچ درخواستی برای مذاکره با آمریکا نداشته و این آمریکا بوده که از طریق عمان درخواست گفت‌وگو داده و پیام فرستاده است که اقدام نظامی علیه جمهوری اسلامی انجام نخواهد داد.
-‏
-‏غریب‌آبادی همچنین گفت: «محاصره دریایی نمی‌تواند جمهوری اسلامی را وادار به گفت‌وگو کند. ما پس از انقلاب ۵۷ تحت گسترده‌ترین تحریم‌ها بودیم و یاد گرفته‌ایم چگونه تحت تحریم‌های شدید زندگی کنیم.»
-‏https://iranintl.com/202607285418
-20:56
-1405/05/06
-
-
-
-
 src :@MilitiaNews
 ‏وزیر امور خارجه اوکراین در توییتر: با عراقچی تماس گرفتم، که یه گفتگوی صریح و سازنده داشته باشیم. هدفمون تشدید تنش نیست
 ‏@MilitiaNews
@@ -2632,16 +2701,6 @@ src :@Alibk3
 ‏وزير الخارجية الأوكراني: 
 ‏
 ‏اتصلت بنظيري الإيراني لإجراء محادثة صريحة وشددت على أن هدفنا هو تجنب أي تصعيد.
-20:38
-1405/05/06
-
-
-
-
-src :@Alibk3
-‏القوات المسلحة اليمنية: 
-‏
-‏نفذنا عملية عسكرية استهدفت سفينة(NCC GHAZAL) النفطية السعودية لخرقها قرار حظر الملاحة البحرية المفروض على العدو السعودي ورفضها النداءات التحذيرية وذلك بعدد من الصواريخ الباليستية وتم إجبارها على التراجع والعودة بفضل الله.
 20:38
 1405/05/06
 
@@ -5002,16 +5061,6 @@ src :@Artemis_Force
 
 
 
-src :@samueltarikh
-‏ترامپ :
-‏
-‏ «نیازی ندارم که بیبی (بنیامین نتانیاهو) درباره این موضوع چیزی به من بگوید. بیبی این حرف‌ها را می‌زند چون می‌خواهد همچنان در این موضوع دخیل بماند. به او گفتم: چرا باید این را به من بگویی؟ اگر توافقی صورت نگیرد، آن سایت را به‌راحتی نابود خواهیم کرد.»
-16:42
-1405/05/06
-
-
-
-
 src :@mamlekate
 ‏📝 فرار ۱۵ «تراستی» 
 ‏
@@ -6196,16 +6245,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@GeoPWatch
-‏🇮🇶❌🇮🇱🇯🇴🇸🇦 - According to i24NEWS, over the last 2 days around 20 drones were fired by Iranian backed militias in Iraq at Israel, Jordan, and Saudi Arabia.
-‏
-‏@GeoPWatch
-11:50
-1405/05/06
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏در بلاک های ۳۰/۳۲ تا ۵۰/۵۲ سری C و D شکاری اف۱۶ که در نیروهوایی آمریکا عملیاتی هستند، مرسوم است به منظور ECM و ECCCM و ... پاد های ALQ-131V و ALQ-184V در نسخه های مختلف حمل شود.
@@ -6341,19 +6380,6 @@ src :@bricsnews
 ‏Tsunami warning has been issued.
 ‏
 ‏@BRICSNews
-11:10
-1405/05/06
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇷🇺🇺🇦⚡- Russian forces have captured the town of Chasov Yar, Donetsk region. 
-‏
-‏"After more than 840 days of fighting, the Battle of Chasiv Yar has effectively come to an end. Russian forces have captured the city, with the last reported Ukrainian holdouts withdrawing from the southwestern outskirts sometime within the past week. Fighting for Chasiv Yar began on April 4, 2024, when Russian mechanized units launched an assault on the Kanal Microdistrict.
-‏
-‏The city has been almost completely destroyed, reportedly suffering devastation on a scale exceeding that seen in Bakhmut. The withdrawal appears to have been driven by the deterioration of Ukrainian positions around Kostyantynivka, which threatened to leave the Chasiv Yar garrison cut off," - AMK Mapping.
 11:10
 1405/05/06
 
