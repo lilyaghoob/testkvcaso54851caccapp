@@ -970,14 +970,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Operators carrying Saudi crude oil are increasingly conducting dark port calls at Yanbu and making untracked transits through the Bab el-Mandeb Strait or abandoning voyages in response to the Houthi (Ansarallah) maritime embargo, according to Lloyd's List.
-03:27
-1405/05/06
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴ابوالفضل سپاهی، علیرضا سپاهی و امیرحسین صفری، 3 تن از معترضین دی ماه، همزمان با اذان صبح در میدان علیخانی اصفهان اعدام میشن!
@@ -1019,21 +1011,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Rep. Jamie Raskin, the top Democrat on the House Judiciary Committee, has asked FIFA President Gianni Infantino to testify before Congress and provide records related to FIFA's relationship with President Trump, NYT reports.
-‏
-‏➡️ Raskin requested communications between FIFA and the Trump administration, details of any gifts or benefits provided to Trump or his associates, and records concerning FIFA's move into Trump Tower, the World Cup ticketing controversy, and the FIFA Peace Prize awarded to Trump.
-‏
-‏➡️ He also questioned the DOJ's decision to drop parts of a long-running FIFA corruption case.
-‏
-‏➡️ Raskin warned that if Democrats regain control of the House after the midterm elections, they could issue subpoenas and launch a broader investigation into FIFA's ties to the Trump administration.
-03:21
-1405/05/06
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸🇮🇱⚡️ — Israeli Prime Minister Benjamin Netanyahu has landed in Washington D.C. He will meet with President Trump on Tuesday.
 03:21
@@ -1068,19 +1045,6 @@ src :@IranintlTV
 ‏پیش‌تر روزنامه وال‌استریت ژورنال گزارش داد اسرائیل به شواهدی دست یافته که نشان می‌دهد برای نخستین بار از زمان آغاز ساخت دژ مخفی «کوه کلنگ» در سال ۲۰۲۰، سانتریفیوژهای هسته‌ای به این محل منتقل شده‌اند.
 ‏
 ‏https://iranintl.com/202607274527
-03:12
-1405/05/06
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇳🇨🇳⚡️ — China has deployed at least 11 J-20 "Mighty Dragon" stealth fighters to two high-altitude airbases facing India, marking the largest concentration of the aircraft observed at Chinese bases near the border to date, according to NDTV.
-‏
-‏➡️ The images show seven J-20s at Hotan Air Base in Xinjiang on July 9 and four J-20s at Damxung Air Base in Tibet on June 25.
-‏
-‏➡️ India currently operates 36 Rafale fighters alongside an aging fleet of Su-30MKI aircraft and does not field an operational fifth-generation fighter.
 03:12
 1405/05/06
 
@@ -1630,14 +1594,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 01:00
-1405/05/06
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
-00:58
 1405/05/06
 
 
