@@ -1,3 +1,40 @@
+src :@World_Newsly
+[عکس]
+‏🔴دیدار و گفتگو نتانیاهو و زلنسکی در حاشیه مراسم یادبود لیندزی گراهام 
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+00:21
+1405/05/07
+
+
+
+
+src :@World_Newsly
+‏🔴 فوری
+‏در حال حاضر هواپیماهای ترابری نظامی فوق سنگین آمریکایی به صورت پی در پی از اروپا به سمت عربستان سعودی و اردن در حال حرکت می‌باشند،
+‏یک پل هوایی نظامی تمام عیار از اروپا به سمت خاورمیانه در جریان است.
+‏✍🏻 Hunter
+‏▪️@World_Newsly
+00:18
+1405/05/07
+
+
+
+
+src :@World_Newsly
+‏🔴 رئیس کمیسیون امنیت ملی مجلس: 
+‏
+‏وزیر خارجه(عراقچی) به جای اخراج کاردار سفارت اوکراین، به تلفن وزیر امور خارجه اوکراین پاسخ داد
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:17
+1405/05/07
+
+
+
+
 src :@MilitiaNews
 ‏سایت دارای سه مجموعه ورودی اصلی(زرد رنگ) است: شرقی(یک و دو)، میانی(سه و چهار) و غربی(پنج و شش)؛ همچنین دو ورودی فرعی مخصوص پرسنل نیز وجود دارد(سبز رنگ). ارتفاع کوه ۱۶۰۸ متر از سطح دریاست. اختلاف ارتفاع عمودی خالص بین دهانه ورودی میانی و یال کوه ۱۴۵ متر و بین…
 00:13
@@ -1461,17 +1498,6 @@ src :@Indypersian
 
 
 
-src :@World_Newsly
-‏🔴 شنیده‌شدن صدای چند انفجار شدید در اربیل عراق
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-22:40
-1405/05/06
-
-
-
-
 src :@Minas_Tirith2024
 ‏وزیر خارجه اوکراین در تماس تلفنی با وزیر خارجه مملکت گفت که قصدی برای تنش افزایی ندارند. هدفشان تنها دفاع در مقابل روسهاست
 ‏
@@ -2373,19 +2399,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155585
 ‏@Farsi_Iranwire
 21:49
-1405/05/06
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱⚡️ — 49% of Americans believe Israeli Prime Minister Benjamin Netanyahu should be arrested during his visit to America, while 47% say he is guilty of war crimes and 54% view him unfavorably, according to a new Economist/YouGov poll.
-‏
-‏The survey also found that 47% believe Netanyahu has damaged U.S.-Israel relations. 
-‏
-‏Among 2024 Kamala Harris voters, 74% support arresting Netanyahu, 72% believe Israel is committing genocide against Palestinians, and 83% hold an unfavorable view of the Israeli leader.
-21:48
 1405/05/06
 
 
@@ -4237,20 +4250,6 @@ src :@bricsnews
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، با انتشار پیامی در شبکه اجتماعی ایکس از برگزاری «دیداری خوب» با دونالد ترامپ، رئیس‌جمهوری آمریکا، در دفتر بیضی کاخ سفید خبر داد.
-‏
-‏زلنسکی ضمن قدردانی از حمایت‌های ایالات متحده و ابراز تسلیت به مناسبت درگذشت سناتور لیندزی گراهام—که او را «دوست واقعی اوکراین» خواند—تاکید کرد در این دیدار درباره صدور مجوز تولید موشک‌های رهگیر سامانه پدافندی پاتریوت و ایده‌های دیگر برای کمک به اوکراین گفتگو شده است.
-‏
-‏رئیس‌جمهوری اوکراین همچنین با اشاره به مباحث مطرح‌شده در زمینه دیپلماسی افزود: «احیای روند دیپلماتیک اهمیت بالایی دارد و تیم‌های ما جزئیات ارتباطات بعدی را تنظیم خواهند کرد.»
-‏@indypersian
-19:18
-1405/05/06
-
-
-
-
 src :@samueltarikh
 [عکس]
 ‏زلنسکی پس از ملاقاتش با ترامپ: 
@@ -4981,14 +4980,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 17:56
-1405/05/06
-
-
-
-
-src :@intelslava
-‏🇮🇷🇺🇦⚡️ — Ukrainian monitoring channels are reporting that Iran may launch up to three ballistic missiles at Ukraine in the coming days.  The Iranian Foreign Minister stated that the attack "cannot go unanswered," and lawmakers have warned that Kiev will "understand"…
-17:51
 1405/05/06
 
 
@@ -6933,12 +6924,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 00:35
-1405/05/06
-
-
-
-
-src :@OSINTWarfare
-‏An Iranian drone attack is underway in Erbil, Iraqi Kurdistan.
-00:18
 1405/05/06
