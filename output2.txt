@@ -1,8 +1,57 @@
+src :@naya_foriraq
+‏هجوم مسير يستهدف موقع الحزب الديمقراطي الكردستاني الإيراني المعارض شمال شرق محافظة أربيل شمالي العراق
+13:51
+1405/05/07
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇮🇷 Reuters: The head of US CENTCOM, General Brad Cooper, has warned American troops in the Middle East that cellphone videos posted online are helping Iran assess the effectiveness of its strikes and identify US military positions.
+‏
+‏According to a letter obtained by Reuters, Cooper cited footage recorded during Iran’s 17 July missile attack on Muwaffaq Salti Air Base in Jordan, saying videos shared on social media provide Iranian forces with “near real-time” battle damage assessments. Reuters, citing sources, reported that some US personnel in Jordan may soon be ordered to surrender their personal mobile phones as part of tighter operational security measures.
+‏
+‏Since the conflict with Iran began in February, 18 US service members have been killed and more than 600 wounded, according to Reuters.  
+‏
+‏@wfwitness
+13:50
+1405/05/07
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇾🇪 NEW: Yemen is considering tolls in the Mandab Strait – Reuters
+‏
+‏@Middle_East_Spectator
+13:49
+1405/05/07
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏رویترز: حوثی‌ها در حال بررسی وضع عوارض بر کشتی‌هایی هستند که از دریای سرخ از تنگه باب المندب عبور می‌کنند.
+13:48
+1405/05/07
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏رویترز: حوثی‌ها در حال بررسی وضع عوارض بر کشتی‌هایی هستند که از دریای سرخ از تنگه باب المندب عبور می‌کنند.
+13:48
+1405/05/07
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏رويترز: 
 ‏
-‏الحوثيون يدرسون فرض رسوم على السفن التي تعبر من البحر الأحمر عبو مضيق باب المندب
+‏الحوثيون يدرسون فرض رسوم على السفن التي تعبر من البحر الأحمر عبر مضيق باب المندب
 13:47
 1405/05/07
 
@@ -1832,14 +1881,6 @@ src :@KayhanLondonChannel
 ‏
 ‏او افزوده «بدن در برابر عامل زیان آور بیولوژیک و زیستی پس از چندسال آنتی‌بادی تولید کرده و مقاوم می‌شود؛ اما در مقابل عامل زیان آور شیمیایی که در سم کشاورزی، کود غیراستاندارد شیمیایی و شیرابه و پساب و آب آلوده وجود دارد و بیشترین میزان آن در سم کشاورزی و آب است، هیچ بدنی توان تولید آنتی بادی و مقاوم شدن، حتی بعد از چند سال را ندارد.»
 11:41
-1405/05/07
-
-
-
-
-src :@naya_foriraq
-‏🔻خلل تقني يتعرض له تطبيق التليجرام عند أغلب المستخدمين في العراق.
-11:39
 1405/05/07
 
 
@@ -5923,14 +5964,6 @@ src :@OSINTWarfare
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇾🇪/🇸🇦 BREAKING: Newly released satellite imagery from yesterday shows that Yemeni missiles directly hit petroleum facilities in Yanbu, Saudi Arabia  An Aramco fuel depot at the Yanbu Bulk Plant (23.954322, 38.304607) was hit, with imagery showing damage…
-20:21
-1405/05/06
-
-
-
-
 src :@defence_news
 ‏🔸מקור ישראלי אומר לי שפגישת טראמפ נתניהו התקיימה אך ורק במתכונת מורחבת, ללא חלק של 4 עיניים כפי שקורה בד״כ בפגישות מן הסוג הזה
 ‏
@@ -6821,23 +6854,4 @@ src :@mwarmonitor
 src :@Exciton_missile_program
 ‏«ما بسیار مشتاق هستیم که به اهداف زیرساخت انرژی رژیم ایران حمله کنیم اما در حال حاضر، ایالات متحده اجازه این کار را نمی‌دهد»  -یسرائیل کاتز در مصاحبه با کانال 14 اسرائیل   @P_raetorio
 14:00
-1405/05/06
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏حالت های XMTI 1 و XMTI 2 فقط زمانی فعال می شوند که خلبان از هوتاس CMS Down را فشار بدهد و اگر CMS Right فشرده شود پاد به حالت Stand by برمیگردد.
-‏در پنل C-9492B دو دکمه با نام های FRM و SPL نیز وجود دارد که هر کدام یک تکنیک اختصاصی برای اخلال کردن دارد، گر فعال شوند اولویت دارند و تمامی حالت های XMTI 1، XMTI 2 و XMTI 3 کنار می روند. این مود های خاص مطابق تکنیک های ذخیره شده در دیتابیس پاد دست به اخلال میزنند.
-‏بر روی هر Push button چندین لایت وجود دارد؛ لایت S زمانی که پاد در حالت Stand by می باشد به رنگ کهربایی روشن می شود.
-‏لایت A زمانی که پاد اکتیو است به رنگ سبز روشن می شود.
-‏لایت T زمانی که پاد در فرکانس مذکور دست به ارسال امواج میزند به رنگ آبی روشن می شود.
-‏لایت F با رنگ قرمز هم زمانی روشن می شود که پاد برای اخلال در فرکانس مشخص دچار نقص بشود.
-‏لایت C بر روی FRM مربوط به BIT می باشد و لایت های RP و RG برای پاد های اف۱۶ کار نمی کنند.
-‏
-‏6/6
-‏
-‏@PARVAZDAROJ | 𝑆𝐼𝐸𝑅𝑅𝐴
-13:51
 1405/05/06
