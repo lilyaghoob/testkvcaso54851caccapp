@@ -1,3 +1,60 @@
+src :@mwarmonitor
+‏🔴نیویورک تایمز: ایران در حال بررسی اجرای حمله‌ای علیه یک بندر دریایی در اوکراین بود، اما پس از موجی از رایزنی‌ها و تلاش‌های دیپلماتیک، در حال حاضر این وضعیت آرام شده است.  @mwarmonitor
+11:12
+1405/05/07
+
+
+
+
+src :@USAMRYDATA
+[عکس]
+‏⏺️ایرباس از پهپاد بال وفادار U760 Ravenstorm برای همکاری با پهپادهای دیگر رونمایی کرد
+‏
+‏🔸شرکت هوافضای اروپایی ایرباس در نمایشگاه بین‌المللی هوافضا (ILA) 2026 در برلین، جدیدترین پهپاد بال‌وفادار خود با نام U760 Ravenstorm را رونمایی خواهد کرد. این پهپاد که برای همکاری با جنگنده‌های سرنشین‌دار طراحی شده، در کنار مجموعه‌ای کامل از سامانه‌های هوایی بدون سرنشین (UAS) معرفی شده است.
+‏
+‏🔸مجموعه جدید ایرباس که در این نمایشگاه به نمایش گذاشته می‌شود، شامل یک هواگرد خودکار جدید با نام U145 است که بر پایه هلیکوپتر محبوب H145 این شرکت ساخته شده است. همچنین U740 Valkyrie که با همکاری شرکت Kratos توسعه یافته، یکی دیگر از هواگردهای رزمی مشارکتی بدون سرنشین (UCCA) است که برای نیروی هوایی آلمان معرفی شده است.
+‏
+‏🔸ایرباس همچنین پهپادهای باری مختلفی با ظرفیت حمل بار از ۲۵ تا ۱۲۰ کیلوگرم را به نمایش می‌گذارد که برای ارائه قابلیت‌های پیشرفته در حوزه نظارت، جمع‌آوری اطلاعات و افزایش انعطاف‌پذیری عملیاتی طراحی شده‌اند.
+‏
+‏⚙️#TECH
+‏➖➖➖➖➖➖➖➖➖
+‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
+11:11
+1405/05/07
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Romania's Port of Constanța has deployed two autonomous Triton maritime surveillance systems to detect and monitor sea drones. 
+‏
+‏The move aims to strengthen protection of the port's critical infrastructure and follows a June incident in which a Ukrainian maritime drone, affected by Russian electronic warfare, exploded near the port.
+‏
+‏Source: The Romania Journal
+11:11
+1405/05/07
+
+
+
+
+src :@P_raetorio
+‏طی حمله بامداد امروز عربستان سعودی و آمریکا به پایگاه های حشدالشعبی در بصره تاکنون 12 عضو این سازمان کشته شدند.  @P_raetorio
+11:09
+1405/05/07
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇷🇺🇺🇦 Ifax: Russian FSB has charged Telegram founder Pavel Durov with allegedly facilitating terrorist activities and issued an international warrant for his arrest.  The FSB claim Telegram has allowed channels, chats and bots allegedly used by Ukrainian…
+11:07
+1405/05/07
+
+
+
+
 src :@rnintel
 ‏🇺🇦🇮🇷⚡- Ukrainian monitoring channels detect movement in Iran indicating a possible Iranian medium-range ballistic missile launch towards Ukraine in the next 24 hours.
 11:05
@@ -1575,21 +1632,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 08:58
-1405/05/07
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇨🇳 Reuters: Iran is expected to receive the first shipment of up to 400 Chinese-made shoulder-fired air defence missile systems within weeks. The purchase is part of Tehran's efforts to rebuild its air defences after recent fighting exposed weaknesses in its ability to counter low-flying aircraft and drones.
-‏
-‏The package includes QW-12 and FN-16 man-portable air defence systems, with the contract said to be worth between $60 million and $70 million. China's Foreign Ministry has denied any knowledge of the deal and Pakistan rejected reports that its territory would be used to transport the weapons.
-‏
-‏The acquisition comes as Iran seeks to strengthen its military capabilities despite international sanctions, with sources also saying Tehran is pursuing Chinese anti-ship cruise missiles.
-‏
-‏@wfwitness
-08:55
 1405/05/07
 
 
@@ -4535,17 +4577,6 @@ src :@DEJradio
 
 
 
-src :@P_raetorio
-‏خبر روزنامه اسرائیل هیوم درباره ارائه امتیاز واشنگتن به تهران و آمادگی ترامپ به‌طور ضمنی برای پرداخت هزینه عبور کشتی‌ها از تنگه هرمز به ایران #کذب و #چاخان است.
-‏
-‏
-‏@P_raetorio
-23:12
-1405/05/06
-
-
-
-
 src :@Minas_Tirith2024
 ‏از خاک عراق و توسط شبه‌نظامیان وابسته به ایران انجام شده است
 23:11
@@ -6897,20 +6928,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/06/405713/
 11:16
-1405/05/06
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏🔋از نمک مذاب تا عرق بدن؛ باتری‌های عجیبی که می‌توانند انرژی تجدیدپذیر ذخیره کنند
-‏
-‏🔸در شرایطی که موانع زیست‌محیطی و کمبود منابع معدنی، آینده باتری‌های متداول لیتیومی را در هاله‌ای از ابهام قرار داده، دانشمندان سراسر جهان به سراغ راهکارهای غیرمعمول رفته‌اند؛ فناوری‌هایی که با به دام انداختن سرمای هوای منجمد، حرارت نمک داغ، ماسه صحرا و حتی ترکیبات شیمیایی عرق بدن انسان کار می‌کنند.
-‏
-‏🔸یکی از این روش‌ها عجیب، مربوط به پروژه Crescent Dunes در صحرای نوادا است که از گرمای سوزان بهره می‌گیرد. ده هزار آینه غول‌پیکر، پرتوهای خورشید را روی مخزنی متمرکز می‌کنند تا مخلوطی از نمک نیترات پتاسیم و سدیم را تا دمای ۵۶۰ درجه سانتی‌گراد داغ کنند. این نمک برای تولید بخار پرفشار و چرخش توربین‌های معمولی تولید برق به کار می‌رود.
-‏⚙️#TECH
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-11:06
 1405/05/06
