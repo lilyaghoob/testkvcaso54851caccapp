@@ -4800,19 +4800,3 @@ src :@Artemis_Force
 ‏@artemis_force
 08:32
 1405/05/06
-
-
-
-
-src :@ircfspace
-[عکس]
-‏اپ #Aether یک فیلترشکن متن‌باز و رایگان بر پایه هسته Aether هست، که برای اندروید (AetherMobile) و ویندوز (AetherDesktop) ارائه شده و از پروتکل‌های مسک، وایرگارد و گول و حالت‌های اسکن مختلف پشتیبانی می‌کنه.
-‏اتصال مجدد خودکار، انتخاب و تغییر خودکار پروتکل درصورت شکست اتصال، برخورداری از حالت نویز، امکان تنظیم MTU و Keepalive و همینطور Split Tunneling، بخشی از امکانات این برنامه هستن.
-‏
-‏👉 github.com/QW-AI-Code/Aether/releases
-‏👉 github.com/QW-AI-Code/Aether_Desktop/releases
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-07:38
-1405/05/06
