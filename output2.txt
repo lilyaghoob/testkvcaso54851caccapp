@@ -1,3 +1,95 @@
+src :@guard_warriors
+‏صدای انفجار در نورآباد ممسنی
+‏
+‏@Guard_Warriors
+02:27
+1405/05/08
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏@ 2249Z, 3 Blasts in Nurabad, Fars Province, Iran 
+‏(Per @Vahid)
+‏
+‏ترجمه خودکار فارسی
+‏
+‏@ 2249Z (۰۲:۱۹ به وقت تهران)، سه انفجار در نورآباد، استان فارس، ایران
+‏(به گزارش وکیل)
+‏
+‏𝕏  ·  @shin_persian
+02:27
+1405/05/08
+
+
+
+
+src :@naya_foriraq
+‏انفجار في محافظة فارس
+02:26
+1405/05/08
+
+
+
+
+src :@VahidOnline
+‏پیام‌های دریافتی تایید نشده از ساعت ۲:۱۹
+‏
+‏سلام وحید جان صدا ۳ تا انفجار شنیدیم نوراباد فارس
+‏
+‏۳ تا انفجار همین الان نوراباد ممسنی
+‏
+‏آقا. وحید نورآباد ممسنی رو بد زدن
+‏۳ تا شیشه ها لریزد
+‏
+‏وحید همین الان نور آباد صدای انفجار اومد ۳ تا بود دقیقن
+‏
+‏نور اباد رو زدنننننننن
+‏خیلی سنگین بود
+‏از سمت پادگان نیرو زمینی بود
+‏ما خیلی ازش دوریم ولی شیشه ها لرزید
+‏
+‏
+‏وحید جان چند لحظه قبل صدا چندتا انجار شدید نوراباد فارس
+‏
+‏آقا وحید نوراباد ممسنی رو زدن
+‏صدا هواپیما هم میاد
+‏
+‏وحید همین الان نور آبادو زدن
+‏
+‏پیام‌های ساعت ۲:۲۴:
+‏اوه یدونه دیگه
+‏
+‏یدونه دیگه ام زدن
+‏البته دور بود
+‏
+‏وحید بازم زد
+‏📡 @VahidOnline
+02:25
+1405/05/08
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — More than 40 Russian Geran-2 drones are flying in Ukrainian airspace.
+02:24
+1405/05/08
+
+
+
+
+src :@Alibk3
+‏الطائرات لا تستطيع الهبوط في مطار الرياض حتى الآن.
+02:24
+1405/05/08
+
+
+
+
 src :@tabzlive
 ‏Three Tu-160M strategic bombers carried out launch maneuvers of Kh-101 cruise missiles from their launch lines in western Vologda Oblast.
 ‏
@@ -1501,14 +1593,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏🇮🇷هجوم مسلح من قبل عناصر إرهابية في مدينة ايرانشهر بمحافظة بلوشستان جنوب شرق إيران؛ استشهاد منتسب كحصيلة أولية.
-00:36
-1405/05/08
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇮🇷 — Israeli officials assess there is a high probability that Iran will retaliate against Israel if the US launches strikes on Iran tonight using Israeli territory.
 ‏
@@ -1960,31 +2044,11 @@ src :@MilitarryWorld
 
 
 
-src :@Shin_Persian
-[عکس]
-‏اتفاقی برای این گروپ‌زاده افتاده که به ما نمیگید؟
-00:08
-1405/05/08
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇦🇷 NEW: A bomb warning was issued at the U.S. Embassy in Buenos Aires, Argentina
 ‏
 ‏@Middle_East_Spectator
 00:04
-1405/05/08
-
-
-
-
-src :@Alibk3
-[عکس]
-‏وزير الدفاع السعودي لـ نائب ترامب فانس:
-‏
-‏الهجمات التي شنتها الفصائل العراقية على البنية التحتية والطاقة السعودية تجاوزت "خطًا أحمر" وأن المملكة كان يجب أن ترد.
-00:03
 1405/05/08
 
 
@@ -2269,17 +2333,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:40
-1405/05/07
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇻🇪🇮🇷⚡️ — Venezuela summoned Iran's ambassador to deliver a formal note of protest over remarks authorities described as "contemptuous and inappropriate."
-‏
-‏➡️ The move came after Iranian Foreign Minister Abbas Araghchi said: "This is not Venezuela, where they take one person and everyone else gets scared and backs down."
-23:39
 1405/05/07
 
 
@@ -7591,13 +7644,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 03:02
-1405/05/07
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏رهگیری موشک های بالستیک سپاه پاسداران بر فراز اردن. مشخصا برخلاف دفعات گذشته پدافند اردن(امریکا) در رهگیری موفق تر بوده است.  @P_raetorio
-02:22
 1405/05/07
