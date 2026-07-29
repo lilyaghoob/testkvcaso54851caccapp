@@ -1,3 +1,64 @@
+src :@Alibk3
+‏كاميرات المراقبة توثق لحظة استهداف مقر الحشد الشعبي في قضاء الدير بالبصرة
+03:52
+1405/05/07
+
+
+
+
+src :@naya_foriraq
+‏الجيش الامريكي يصدر بيان
+03:51
+1405/05/07
+
+
+
+
+src :@rnintel
+‏🇮🇶⚡- A second airstrike just struck Popular Mobilization Forces positions in the Wasit region of central Iraq.
+03:51
+1405/05/07
+
+
+
+
+src :@tabzlive
+‏🇮🇶⚡️ — Repeated explosions in Al-Suwaira, Wasit Governorate, Iraq.  It is clear the PMF is being attacked by another armed force.
+03:51
+1405/05/07
+
+
+
+
+src :@naya_foriraq
+‏الجيش الامريكي يصدر بيان
+03:51
+1405/05/07
+
+
+
+
+src :@World_Newsly
+‏‏🔴 شبکه 11 عبری: ایران تلاش‌ های خود برای آسیب‌ رساندن فیزیکی به مقامات ارشد اسرائیلی، چه فعلی و چه سابق، در تمامی سطوح و رده‌ ها را افزایش داده است
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+03:50
+1405/05/07
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇶🇸🇦 Explosions reported roughly an hour ago at a Popular Mobilization Forces ammunition depot in Basra Province, Iraq. 
+‏
+‏@wfwitness
+03:49
+1405/05/07
+
+
+
+
 src :@intelslava
 ‏🇺🇸❌🇮🇶 — A second airstrike has struck a Popular Mobilization Forces (PMF) position in Iraq's Wasit Governorate.
 ‏
@@ -428,14 +489,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏مصدر امني لنايا : انفجار كدس عتاد قرب احد المقرات العسكرية في محافظة البصرة جنوبي العراق.
-02:49
-1405/05/07
-
-
-
-
 src :@tabzlive
 ‏🇮🇶⚡️ — Explosions heard in Basra Governorate, southern Iraq bordering Iran.
 02:44
@@ -533,15 +586,6 @@ src :@naya_foriraq
 [عکس]
 ‏القوات الجوية الأميركية طيران الإرضاع الجوي و طائرات النقل الثقيل تحاول قدر الإمكان تجنب المرور بالعراق وتسلك مسارات السعودية الأردن خوفا من استهدافها في سماء العراق التي شهدت البارحة سقوط مسيرتين أمريكية
 02:34
-1405/05/07
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏القوات الجوية الأميركية طيران الإرضاع الجوي و طائرات النقل الثقيل تحاول قدر الإمكان تجنب المرور بالعراق وتسلك مسارات السعودية الأردن خوفا من استهدافها في سماء العراق التي شهدت البارحة سقوط مسيرتين أمريكية
-02:33
 1405/05/07
 
 
@@ -1333,27 +1377,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Alibk3
-‏برأيك.. 
-‏
-‏ما هو سبب الهجوم الإيراني المفاجئ ؟
-01:48
-1405/05/07
-
-
-
-
-src :@World_Newsly
-‏🔴 مرندی : ایران برای جنگ تمام عیار کامل آمادست.
-‏
-‏✍🏻 𝙎𝙚𝙣𝙖𝙩𝙤𝙧
-‏▪️ @World_Newsly
-01:46
-1405/05/07
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مقام آمریکایی در گفتگو با باراک راوید تائید کرد که ایران به پایگاه ارتش آمریکا در اردن حمله کرده است
 ‏
@@ -1369,17 +1392,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 01:46
-1405/05/07
-
-
-
-
-src :@World_Newsly
-‏🔴 مقام آمریکایی در گفتگو با باراک راوید تائید کرد که ایران به پایگاه ارتش آمریکا در اردن حمله کرده است
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-01:45
 1405/05/07
 
 
@@ -1435,15 +1447,6 @@ src :@GeoPWatch
 
 
 
-src :@Alibk3
-[عکس]
-‏الملاحة الجوية تُظهر مغادرة عدد من الطائرات المدنية والعسكرية أجواء منطقة الخليج الفارسي
-01:44
-1405/05/07
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇯🇴/🇮🇷 Direct impacts at Muwaffaq Salti Airbase, Jordan
@@ -1470,28 +1473,6 @@ src :@didarnews1
 
 src :@tabzlive
 ‏🇮🇷❌🇺🇸🇯🇴 — U.S. air defenses intercepted several Iranian ballistic missiles over Jordan.
-01:44
-1405/05/07
-
-
-
-
-src :@World_Newsly
-‏🔴 انفجار مهیب در پایگاه موفق السلطی در پایتخت اردن
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-01:44
-1405/05/07
-
-
-
-
-src :@World_Newsly
-‏⭕ نمیدونم‌‌ ولی احساس میکنم‌ بعد نشست نتانیاهو و ترامپ ، کلاغای روسی یا چینی ی خبرایی اوردن که ایران امشب این‌ حملرو انجام داده ، باید صبر کرد دید.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
 01:44
 1405/05/07
 
@@ -1535,34 +1516,11 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 تصاویر ماهواره‌ای نشان می‌دهند که بیش از ۲۰ فروند هواپیمای تانکر سوخت‌رسان آمریکایی در پایگاه هوایی رامون در اسرائیل حضور دارند.
-‏
-‏ همچنین، تصاویر نشان می‌دهند که تعدادی از هواپیماهای C-17 و C-130 آمریکایی در پایگاه هوایی ملک حسین در شهر عقبه، اردن، مستقر هستند.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-01:43
-1405/05/07
-
-
-
-
 src :@MilitiaNews
 ‏خبرگزاری آسوشیتدپرس: نتانیاهو پس از تنش‌ها بر سر کوه پیک‌اکس (Pickaxe Mountain) تأکید کرد که تصمیم درباره اقدام نظامی علیه ایران در نهایت در دست ترامپ است. او گفت که صرفاً اطلاعات اطلاعاتی را با ترامپ به اشتراک گذاشته و می‌داند که ایالات متحده پیش از هرگونه اقدام علیه سایت هسته‌ای ادعایی، جدول زمانی و ملاحظات خاص خود را دارد.
 ‏
 ‏@MilitiaNews
 01:42
-1405/05/07
-
-
-
-
-src :@Alibk3
-[عکس]
-‏الملاحة الجوية تُظهر مغادرة عدد من الطائرات المدنية والعسكرية أجواء منطقة الخليج الفارسي
-01:41
 1405/05/07
 
 
@@ -2895,17 +2853,6 @@ src :@tglobaleye
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 An explosion was observed in Kfar Tebnit, southern Lebanon, as a result of Israeli demolition activity.
-‏
-‏@wfwitness
-23:15
-1405/05/06
-
-
-
-
 src :@didarnews1
 ‏🔴نماینده مجلس: صداوسیما در اختیار افکار یک گروه و سلیقه خاص قرار گرفته
 ‏
@@ -2946,17 +2893,6 @@ src :@DEJradio
 ‏#تنگه_هرمز #جنگ #محاصره_دریایی
 ‏@DEJradio
 23:14
-1405/05/06
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇾🇪🇸🇦⚡️ — UKMTO says it received a report from the captain of a tanker in the southern Red Sea of hearing an explosion nearby.
-‏
-‏➡️ The crew and vessel are safe, with no injuries or environmental damage reported.
-23:13
 1405/05/06
 
 
