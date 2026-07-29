@@ -1,3 +1,47 @@
+src :@ClashReport
+[عکس]
+‏Anduril has produced its first YFQ-44A autonomous combat aircraft at its new Arsenal-1 factory in Ohio, just four months after production began. 
+‏
+‏The drone is part of the U.S. Air Force's Collaborative Combat Aircraft (CCA) program and is designed to operate alongside crewed fighters.
+23:40
+1405/05/07
+
+
+
+
+src :@MilitarryWorld
+‏🔴بازار سهام وال استریت آمریکا در پی اقدام قریب‌الوقوع آمریکا علیه ایران، بیش از 1 تریلیون دلار ریزش کرد.
+‏
+‏@MilitarryWorld | Parsa
+23:40
+1405/05/07
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇻🇪🇮🇷⚡️ — Venezuela summoned Iran's ambassador to deliver a formal note of protest over remarks authorities described as "contemptuous and inappropriate."
+‏
+‏➡️ The move came after Iranian Foreign Minister Abbas Araghchi said: "This is not Venezuela, where they take one person and everyone else gets scared and backs down."
+23:39
+1405/05/07
+
+
+
+
+src :@World_Newsly
+‏🔴بازار سهام وال استریت آمریکا در پی اقدام قریب‌الوقوع آمریکا علیه ایران،
+‏بیش از 1 تریلیون دلار ریزش کرد.
+‏
+‏‌✍🏻 A$
+‏▪️@World_Newsly
+23:39
+1405/05/07
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهوری آمریکا، اعلام کرد پس از حمله موشکی جمهوری اسلامی به نیروهای آمریکا در اردن، اکنون «نوبت» واشنگتن است که به جمهوری اسلامی پاسخ دهد. او گفت تهران از آمریکا خواسته حمله نکند، اما به گفته او، پس از شلیک پنج موشک به اهداف آمریکایی، پاسخ نظامی آمریکا در راه خواهد بود.
@@ -1914,20 +1958,6 @@ src :@Artemis_Force
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴شبکه ای ۲۴ اسرائیل به نقل از مقامات ارشد اسرائیل: ما به شواهدی دست پیدا کردیم که نشان می دهد مجتبی خامنه‌ای قطعا زنده هست، اما تمایلی برای حضور در انظار عمومی ندارد.
-‏این مقامات همچنین اعلام کردند ذخیره موشکی ایران بین ۱۵۰۰ تا ۱۶۰۰ عدد است و در صورت حمله گسترده به ایران، این کشور در پاسخ به حملات دچار مشکل می شود و مقامات ایرانی از این موضوع آگاه هستند.
-‏ این شبکه همچنین اعلام کرد اطلاعات دقیق و کاملی از مکان و جزییات مواد هسته‌ای ایران دارد .
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-22:24
-1405/05/07
-
-
-
-
 src :@Parvazdaroj
 ‏ما کانفیگ نمی‌فروشیم،
 ‏پایداری + اعصابِ راحت می‌فروشیم.
@@ -2046,17 +2076,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 22:18
-1405/05/07
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ukrainian Air Force lost contact with an F-16 during an air-defense mission on July 29. 
-‏
-‏The pilot ejected after an onboard emergency, was safely rescued, and is undergoing medical evaluation.
-22:17
 1405/05/07
 
 
@@ -3361,37 +3380,6 @@ src :@cataphract1
 
 
 
-src :@wfwitness
-‏⚡️🇮🇱🇺🇸🇮🇷 Jerusalem Post: A senior diplomatic source said Iran is currently keeping centrifuges at Pickaxe Mountain, where enrichment is still underway, and Israel does not believe that Iran's nuclear program has been fully destroyed despite setting it back. According to the source, the leaders discussed different courses of action against Iran. Trump is currently weighing on pursuing a new agreement, maintaining and intensifying economic pressure and sanctions, or escalating military action. 
-‏
-‏The source claimed that Iran is under serious economic strain, including fuel shortages and inflation, and that Tehran's greatest concern is an economic collapse that could trigger widespread public unrest. 
-‏
-‏During the discussion, Netanyahu presented maps showing that Turkey controls about 5% of Syrian territory, while Israel controls only about 0.1%, to argue that Israel's presence is intended to counter threats from Iran, Hezbollah, and other organizations. Additionally, the source said Netanyahu succeeded in convincing Trump that the two disagree over US arms sales to Turkey. 
-‏
-‏@wfwitness
-20:50
-1405/05/07
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇶🇸🇦🇺🇸 Harakat Ansar Allah al-Awfiya released a statement regarding the latest developments in Iraq:
-‏
-‏We condemn the continued violations of Iraq’s sovereignty and call for decisive action to protect the country’s airspace, borders, and national institutions from any external interference.
-‏
-‏We demand an end to all foreign military presence in Iraq, a review of relations with Saudi Arabia, the rapid strengthening of Iraq’s air defense capabilities, and the approval of the Popular Mobilization Forces (PMF) Service Law.
-‏
-‏We also call for transparent investigations into recent security breaches and reaffirm that defending Iraq’s sovereignty and independent national decision-making is a responsibility that cannot be compromised.
-‏
-‏@wfwitness
-20:50
-1405/05/07
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️سازمان امنیت داخلی اسرائیل و اداره امنیت وزارت دفاع این کشور، یک شهروند اسرائیلی را که پیش‌تر به‌صورت مستمر و در دوره ذخیره در یک یگان محرمانه خدمت کرده بود، به اتهام ارتباط با فردی که خود را مامور اطلاعاتی ایران معرفی کرده بود، بازداشت کردند. دادستانی اسرائیل نیز علیه او به اتهام ارتباط با مامور خارجی و تلاش برای ارائه اطلاعات به دشمن کیفرخواست صادر کرده است.
@@ -3513,19 +3501,6 @@ src :@thewarreporter
 src :@samueltarikh
 ‏سازمان امنیت دریایی بریتانیا:
 ‏تاسیسات مخازن گاز مایع شناور تحت مالکیت آمریکا در بندر دمیاط مصر هدف حملات پهپادی قرار گرفت.
-20:27
-1405/05/07
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴وضعیت شدیدا بحرانی ذخایر موشک های پاتریوت و تاد ارتش امریکا بر اساس تخمین اندیشکده CSIS 
-‏
-‏در صورتی که جنگی با ابعاد همان جنگ 40 روزه مجددا آغاز شود با توجه به مصرف گسترده موشک های پدافندی در کشورهای عربی و اسرائیل و محدودیت زرادخانه امریکا ممکن است حتی شاهد نرخ اصابت 2 تا 3 برابری پرتابه های شلیک شده از ایران باشیم.
-‏
-‏@MilitarryWorld | Maverick
 20:27
 1405/05/07
 
@@ -7693,12 +7668,4 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews
 23:51
-1405/05/06
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: Saudi Arabia’s Ministry of Defense announces the Kingdom came under attack from drones again in the past few hours  The drones attempted to target petroleum facilities in Eastern Saudi Arabia and were launched from Iraq, according to the…
-23:37
 1405/05/06
