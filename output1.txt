@@ -1,4 +1,27 @@
 src :@MilitarryWorld
+‏🔴فاکس نیوز
+‏
+‏جنگ در منطقه به اوج خود می رسد، آماده باشید
+‏
+‏@MilitarryWorld | Parsa
+04:04
+1405/05/07
+
+
+
+
+src :@World_Newsly
+‏🔴 حملات گسترده به مناطق مختلف عراق توسط آمریکا و عربستان ادامه داره
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+04:04
+1405/05/07
+
+
+
+
+src :@MilitarryWorld
 [عکس]
 ‏🔴فوری/ با اعلام رسمی سنتکام آمریکا و عربستان در کنار هم درحال حمله به مواضع شبه نظامیان ایران در عراق هستند
 ‏
@@ -322,17 +345,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴فوری | تصویری از اصابت به پایگاه هوایی موفق السلطی اردن
-‏✍🏻 Hunter
-‏▪️@World_Newsly
-02:13
-1405/05/07
-
-
-
-
 src :@jangaavaran1390
 ‏فوری
 ‏
@@ -398,17 +410,6 @@ src :@OmidIranAzad
 ‏
 ‏@OmidIranAzad
 02:06
-1405/05/07
-
-
-
-
-src :@World_Newsly
-‏🔴  انفجاری در شهر اربیل عراق رخ داده است. هنوز جزئیات بیشتری از علت یا خسارات این حادثه منتشر نشده است.
-‏
-‏✍🏻 Dangerman
-‏▪️@World_Newsly
-02:03
 1405/05/07
 
 
@@ -1038,26 +1039,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 01:17
-1405/05/07
-
-
-
-
-src :@MilitarryWorld
-‏🔴۶ موشک از مرکز کشور شلیک شده
-‏
-‏@MilitarryWorld | Parsa
-01:15
-1405/05/07
-
-
-
-
-src :@MilitarryWorld
-‏🔴فوری/ سپاه به اردن حمله کرده
-‏
-‏@MilitarryWorld | Parsa
-01:14
 1405/05/07
 
 
