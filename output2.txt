@@ -1,3 +1,83 @@
+src :@BellumActaNews
+‏🏴❌🇪🇬❗️ — A US-owned and operated LNG floating storage facility, flagged in the Marshall Islands, was struck by at least one UAV off Damietta, Egypt, reports Ambrey
+‏
+‏@BellumActaNews
+19:31
+1405/05/07
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇦🇷🇺 Russian missile attack targeted an oil/fuel depot in Odessa earlier this afternoon.
+‏
+‏@wfwitness
+19:30
+1405/05/07
+
+
+
+
+src :@mwarmonitor
+‏⏺شرکت Inchcape Shipping Services اعلام کرد که هنگام تخلیه محموله در پایانه گاز طبیعی مایع (LNG) بندر دمیاط مصر، یک انفجار رخ داده است.  @mwarmonitor
+19:30
+1405/05/07
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴خبرگزاری اسوشیتدپرس: شش مشاور حکومت جمهوری اسلامی در حملات دیشب عربستان به عراق کشته شدند.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+19:29
+1405/05/07
+
+
+
+
+src :@mwarmonitor
+‏⏺شرکت Inchcape Shipping Services اعلام کرد که هنگام تخلیه محموله در پایانه گاز طبیعی مایع (LNG) بندر دمیاط مصر، یک انفجار رخ داده است.
+‏
+‏@mwarmonitor
+19:29
+1405/05/07
+
+
+
+
+src :@ClashReport
+[عکس]
+‏CSIS estimates the US has burned through so much of its air defense stockpile in the Iran war that Patriot inventories are now under 1,000 interceptors and THAAD is down to about 250.
+‏
+‏Pre-war baselines were roughly 2,330 Patriots and 360 THAADs, meaning more than half of each has been used up.
+‏
+‏On top of that, more than 1,000 Tomahawks and 1,100 JASSMs have been fired, along with heavy drawdowns of SM-3, SM-6, and PrSM missiles.
+‏
+‏Rebuild timelines are brutal.
+‏
+‏Tomahawk, THAAD, and Patriot need 3+ years to return to pre-war levels, with major FY27 Patriot buys not delivering until May 2029.
+‏
+‏It leaves a multi-year vulnerability window for any Western Pacific fight with China.
+‏
+‏It also constrains transfers to Ukraine and Gulf allies.
+19:28
+1405/05/07
+
+
+
+
+src :@wfwitness
+‏⚡️🇪🇬 Egyptian gas storage tankers at Damietta Port may have been attacked by drones, according to two Egyptian security sources.  There is no immediate official confirmation.  @wfwitness
+19:28
+1405/05/07
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏🚫 ادعا: پس از تهدیدهای اخیر و تلاش برای حمله به کشتی‌های تجاری و دریانوردان غیرنظامی که از تنگه هرمز عبور می‌کنند، سپاه پاسداران انقلاب اسلامی ایران (IRGC) همچنان مدعی است که دریانوردان بین‌المللی باید فقط از مسیرهایی استفاده کنند که سپاه تعیین می‌کند.
@@ -77,9 +157,7 @@ src :@mwarmonitor
 
 
 src :@Alibk3
-‏شركة أمبري البريطانية:
-‏
-‏منشأة تخزين عائمة للغاز الطبيعي المسال مملوكة لشركة أمريكية وتحمل علم جزر مارشال، تعرضت لهجوم من طائرة مسيرة واحدة على الأقل في مدينة دمياط، مصر.
+‏البحرية البريطانية تعلن عن تعرض منشأة تخزين غاز طبيعي مسال عائمة أميركية في دمياط بمصر لهجوم بمسيرة.
 19:25
 1405/05/07
 
@@ -115,7 +193,7 @@ src :@Indypersian
 
 
 src :@naya_foriraq
-‏انفجار بمحطة الغاز الطبيعي المسال في ميناء دمياط بمصر أثناء تفريغ شحنة
+‏🇪🇬انفجار بمحطة الغاز الطبيعي المسال في ميناء دمياط بمصر أثناء تفريغ شحنة
 19:24
 1405/05/07
 
@@ -133,7 +211,7 @@ src :@ClashReport
 
 
 src :@naya_foriraq
-‏انفجار بمحطة الغاز الطبيعي المسال في ميناء دمياط بمصر أثناء تفريغ شحنة
+‏🇪🇬انفجار بمحطة الغاز الطبيعي المسال في ميناء دمياط بمصر أثناء تفريغ شحنة
 19:23
 1405/05/07
 
@@ -2227,18 +2305,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴منابع عراقی: تلفات حشدالشعبی بسیار بیشتر از چیزی است که اعلام شده
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-17:57
-1405/05/07
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏ارتقاء عدد من المستشارين الإيرانيين نتيجة العدوان السعودي الأمريكي على العراق فجر اليوم
@@ -2554,25 +2620,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻فدراسیون دوچرخه‌سواری آلمان به طور رسمی درخواست خود را برای میزبانی آغاز مسابقات تور دو فرانس ۲۰۲۹ ارائه کرده است.
-‏
-‏🔹بر اساس این پیشنهاد، مهم‌ترین رقابت دوچرخه‌سواری جهان قرار است ۴۰ سال پس از فرو ریختن دیوار برلین از این شهر آغاز شود و سپس از مناطق مرکزی و شرقی آلمان عبور کند.
-‏
-‏🔹الیزابت کایزر، مسئول امور ایالت‌های شرقی در دولت آلمان، گفت اکنون زمان آن رسیده است که درباره دستاوردهای مردم ایالت‌های شرقی آلمان با اعتمادبه‌نفس بیشتری سخن گفته شود.
-‏
-‏🔹او افزود تور دو فرانس می‌تواند این پیام را در سطح بین‌المللی مطرح کند.
-‏
-‏🔹قرار است تصمیم نهایی درباره شهرها و مسیر مراحل این مسابقات اوایل سال آینده گرفته شود.
-‏
-‏@iranintltvsport
-17:30
-1405/05/07
-
-
-
-
 src :@Alibk3
 ‏المتحدث باسم القائد العام للقوات المسلحة العراقية يدين ويستنكر العدوان السعودي الأمريكي ويؤكد أن التعاطي مع هذه الاعتداءات هي "مسؤولية حصرية للحكومة العراقية دون سواها"
 17:29
@@ -2737,22 +2784,6 @@ src :@Farsi_Iranwire
 ‏بیشتر: https://iranwire.com/fa/news-1/155617
 ‏
 ‏@Farsi_Iranwire
-17:12
-1405/05/07
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇱🇸🇾 Three members of the Israeli settler group "Bashan Pioneers" illegally crossed the border into Syria and spent nearly a full day there before being apprehended by Israeli troops.
-‏
-‏The IDF said the three crossed the border in the Mount Hermon area on Tuesday night, but were located only this morning, handing them over to the police.
-‏
-‏The military also noted that there has been an increase in attempts by activists to cross the border into Syria in recent weeks.
-‏
-‏The IDF strongly condemns this incident, which is another serious disruption to operational activities and poses a risk to the safety of IDF troops operating in the area
-‏
-‏@wfwitness
 17:12
 1405/05/07
 
@@ -3476,15 +3507,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇮🇶🇺🇸🇸🇦🇮🇱 The Military Spokesperson of the Islamic Resistance, Saraya Awliya al‑Dam, Abu Mahdi al‑Ja’fari, is expected to issue an important statement shortly.   @wfwitness
-16:21
-1405/05/07
-
-
-
-
 src :@didarnews1
 ‏🔴 وزیر جنگ آمریکا امروز با نتانیاهو (در واشنگتن) دیدار می‌کند. 
 ‏
@@ -3541,18 +3563,6 @@ src :@Alibk3
 ‏4- يجب طرد السفير السعودي من العراق فورًا، وقطع العلاقات الدبلوماسية والاقتصادية مع السعودية.
 ‏
 ‏5- في حال تقاعست الحكومة عن اداء واجبها فعلى الشعب العراقي الغيور المطالبة بحصر سلاح الحكومة بيد المقاومة.
-16:17
-1405/05/07
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇱🇺🇦 Haaretz: Israeli PM Netanyahu declined to meet Ukrainian President Zelensky during their visit to Washington, according to Ukrainian sources.
-‏
-‏A Ukrainian source said Netanyahu’s office initially proposed the meeting but later informed Kyiv that the prime minister’s schedule was too tight.
-‏
-‏@wfwitness
 16:17
 1405/05/07
 
@@ -6480,15 +6490,6 @@ src :@rnintel
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇸🇦❌🇾🇪❗️ — The Yemeni Houthis claimed to have shot down a 'Karayel' reconnaissance drone flying over Sadaa province today.
-06:56
-1405/05/07
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇷🇨🇳 Iran to receive first shipment of ~400 Chinese-made air-defence missile launchers.
@@ -7327,20 +7328,6 @@ src :@MilitiaNews
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🔴سازمان UKMTO گزارشی از فعالیت مشکوک دریافت کرده است. کاپیتان یک نفتکش گزارش داده که هنگام عبور از بخش جنوبی دریای سرخ، صدای انفجاری را شنیده است.
-‏
-‏🔸این گزارش تأیید می‌کند که خدمه و کشتی در سلامت کامل هستند. هیچ خسارت محیط زیستی نیز گزارش نشده است.
-‏به کشتی‌ها توصیه می‌شود با احتیاط عبور کنند و هرگونه فعالیت مشکوک را به UKMTO گزارش دهند.
-‏
-‏@mwarmonitor
-00:06
-1405/05/07
-
-
-
-
 src :@mamlekate
 [عکس]
 ‏📞 امروز ۶ مرداد ۱۴۰۵، پیکر دو تن از کشته‌شدگان خیزش دی ماه، امیرعلی حیدری و سروش کرمی، نبش قبر و جابه‌جا شدند.
@@ -7699,17 +7686,6 @@ src :@bricsnews
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🔴بیش از ۲۰ فروند کشتی در سراسر خاورمیانه جهت پشتیبانی از عملیات نظامی فعال هستند، که شامل اجرای سخت‌گیرانه محاصره «دیوار فولادی» آمریکا 🇺🇸 علیه ایران نیز می‌شود. تا تاریخ ۲۸ ژوئیه، سنتکام (CENTCOM) برای تضمین پایبندی کامل، مسیر ۱۸ شناور تجاری را تغییر داده، ۲ فروند را از کار انداخته و وارد ۲ فروند دیگر شده است
-‏
-‏@mwarmonitor
-21:06
-1405/05/06
-
-
-
-
 src :@Mena_Live
 ‏Helzwar Metani, Director of Media and Communications in the Eastern Region of the Syrian Ministry of Defense:
 ‏
@@ -7798,13 +7774,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 19:40
-1405/05/06
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 نتانیاهو، نخست‌وزیر اسرائیل، ساعت ۱۰:۵۷ صبح وارد کاخ سفید شد، او از طریق ورودی کناری بال غربی وارد شد.  🆔 @Americana_ir
-19:30
 1405/05/06
