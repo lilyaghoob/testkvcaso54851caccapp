@@ -1,8 +1,36 @@
+src :@tabzlive
+‏🇪🇬⚡️ — Egypt's Ministry of Petroleum says a fire broke out aboard a regasification vessel and a storage vessel at Damietta Port, adding that emergency teams responded immediately to bring the situation under control.  ➡️ Petroleum Minister Karim Badawi traveled…
+21:21
+1405/05/07
+
+
+
+
+src :@mwarmonitor
+‏🚨شنیده شدن صدای انفجار در سلیمانیه
+21:20
+1405/05/07
+
+
+
+
+src :@GeoPWatch
+‏🇮🇶🌞💥 - Reports of Explosion in Sulaymaniyah, Iraq.
+‏
+‏@GeoPWatch
+21:19
+1405/05/07
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 مقتدی صدر روحانی ملی گرای عراقی: از برادران سپاه پاسداران میخواهم سرزمین ما را هدف حملە خود قرار ندهد و از گروەهای شبەنظامی میخواهم کشورهای عربی منطقە را هدف قرار ندهند.
 ‏
-‏🔹 من هدف قرار دادن سرزمین‌های مقدس عراق که مرکز تشیع در عالم است را از سوی هر کشور یا هر طرفی را محکوم می‌کنم و همچنین اقدامات شبه‌ نظامیان افسار گسیخته (حشد الشعبی) را که عراق را به جنگی بی‌حاصل می‌کشانند، محکوم می‌کنم
+‏🔹 من هدف قرار دادن سرزمین‌های مقدس عراق که پایتخت تشیع در عالم است را از سوی هر کشور یا هر طرفی را محکوم می‌کنم و همچنین اقدامات شبه‌ نظامیان افسار گسیخته (حشد الشعبی) را که عراق را به جنگی بی‌حاصل می‌کشانند هم محکوم می‌کنم.
+‏
+‏🔹 ((اگر اقدامات برادران سپاه پاسداران انقلاب اسلامی نبود، این سرزمین مقدس هدف بمباران قرار نمی‌گرفت. همچنین اگر اقدامات شبه‌ نظامیان افسار گسیخته که به برادران ما در کشورهای خلیج عربی حمله می کنند نبود بهانه ای هم نبود تا آنها سرزمین مقدس ما را هدف قرار دهند.))
 ‏
 ‏#عراق
 ‏
@@ -2292,18 +2320,6 @@ src :@Alibk3
 
 
 
-src :@tabzlive
-‏🇪🇬⚡️ — An explosion has been reported at the LNG terminal of Egypt's Damietta Port during cargo discharge operations.
-‏
-‏➡️ Authorities responded to the incident and the situation has been brought under control, with the vessels involved relocated outside the port area.
-‏
-‏➡️ Port authorities expect operations at other berths and terminals to resume later tonight. The cause of the explosion has not yet been disclosed.
-19:24
-1405/05/07
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ خبرنگار شبکه آی۲۴نیوز به نقل از یک منبع دیپلماتیک ارشد اسرائیلی، روز چهارشنبه هفتم مردادماه، جزئیات جدیدی از دیدار بنیامین نتانیاهو و دونالد ترامپ در کاخ سفید افشا کرد. به گفته این منبع، محور اصلی و غالب این گفتگوها موضوع ایران بوده است.
@@ -2492,17 +2508,6 @@ src :@IranintlTV
 ‏
 ‏این فرماندهی همچنین اعلام کرد از حدود سه ماه پیش تاکنون، به عبور حدود هزار کشتی و انتقال ۵۰۰ میلیون بشکه نفت خام از تنگه هرمز کمک کرده است.
 ‏https://iranintl.com/202607299195
-19:18
-1405/05/07
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏باراک راوید، خبرنگار نشریه Axios، در شبکه X (توییتر سابق) نوشت که به گفته یک مقام ارشد اسرائیلی، نخست‌وزیر بنیامین نتانیاهو در دیدار خود با رئیس‌جمهور ترامپ، نسبت به احتمال دستیابی به توافق هسته‌ای با ایران ابراز تردید کرده است.این مقام گفت که دو طرف درباره سه گزینه بحث کردند: توافق هسته‌ای، افزایش فشار اقتصادی، یا حملات نظامی مجدد علیه ایران. نتانیاهو همچنین گفت که اسرائیل منطقه حائل خود را در جنوب سوریه حفظ خواهد کرد، تا زمانی که تهدیدات از سوی گروه‌های جهادی همچنان وجود داشته باشد.
-‏
-‏
-‏🆔️‌@WAR_ROOM_NEWS
 19:18
 1405/05/07
 
@@ -5508,18 +5513,6 @@ src :@USAMRYDATA
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏خبرگزاری رویترز به نقل از سه منبع آگاه گزارش داده است که جمهوری اسلامی ایران قرار است طی چند هفته آینده نخستین محموله از سامانه‌های پدافند هوایی دوش‌پرتاب ساخت چین را دریافت کند؛ تجهیزاتی که به گفته این منابع، بخشی از برنامه تهران برای بازسازی توان پدافند کوتاه‌برد خود پس از جنگ اخیر با آمریکا و اسرائیل است.
-‏بیشتر: https://iranwire.com/fa/news-1/155601
-‏
-‏@Farsi_Iranwire
-13:05
-1405/05/07
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏F-4F Manuals (exported to Germany)
@@ -5748,21 +5741,6 @@ src :@tglobaleye
 
 src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 — Ansarallah announces shooting down a Karayel reconnaissance UAV operated by Saudi Arabia above Sa'dah Governorate, northwestern Yemen bordering Saudi Arabia, at dawn today.
-12:14
-1405/05/07
-
-
-
-
-src :@defence_news
-[عکس]
-‏ورود پیکر خلبان قهرمان سوخو-24 به ایران
-‏
-‏پیکر مطهر شهید ‌امیر سرتیپ دوم خلبان مجید کاظمی صبح امروز وارد پایگاه هوایی شهید لشگری در شهر تهران و در ادامه به منظور برگزاری مراسم تشییع و تدفین، به پایگاه شهید دوران شیراز منتقل شد.
-‏
-‏ این شهید عزیز، خلبان یکی از دو فروند Su-24 ایرانی بود که در تاریخ 11 اسفند سال گذشته در حمله هوایی به قطر شرکت کرده بود.
-‏
-‏@Military_Tweet
 12:14
 1405/05/07
 
@@ -6585,17 +6563,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 08:31
-1405/05/07
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇶🇦❌🇮🇷 - The Islamic Revolutionary Guard Corps states that DNA testing has confirmed that Brig. Gen. Majid Kazemi, an Iranian Air Force Su-24MK tactical bomber pilot, was among the pilots killed while carrying out last March's strike on the U.S. Al Udeid Air Base in Qatar. His Su-24MK was shot down by a Qatari Emiri Air Force F-15QA fighter jet on the 2nd of March. His body is expected to be returned to Iran in the coming hours.
-‏
-‏@GeoPWatch
-08:29
 1405/05/07
 
 
