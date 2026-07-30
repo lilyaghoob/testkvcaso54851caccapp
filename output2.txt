@@ -1,3 +1,108 @@
+src :@Alibk3
+‏مصادر تنفي وقوع غارات أميركية على بندر عباس حتى الآن.
+04:32
+1405/05/08
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Fars: American missile strikes targeted multiple areas in Abadan, western Iran.  @wfwitness
+04:31
+1405/05/08
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇰🇼❌🇮🇷 — Explosions in Abadan, southwestern Iran. The missiles from Kuwait are targeting the area.
+04:30
+1405/05/08
+
+
+
+
+src :@World_Newsly
+‏🔴معاون امنیتی و انتظامی استانداری خوزستان: نقاطی در محدوده شهری آبادان مورد اصابت پرتابه‌های آمریکا قرار گرفته است.
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+04:29
+1405/05/08
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏وی افزود: فقط مادر فرماندار از کون گاییده شد، بقیه سالمن.
+04:29
+1405/05/08
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — US forces strike locations near Qeshm Island and Abadan in separate near-simultaneous attacks, Iranian provincial officials say.
+‏
+‏@IntelSlava
+04:29
+1405/05/08
+
+
+
+
+src :@naya_foriraq
+‏نائب محافظ خوزستان: مناطق في محيط مدينة آبادان تعرضت لهجوم صاروخي من قبل العدو الإرهابي الأمريكي.
+04:29
+1405/05/08
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇸🇦⚡️ — President Trump met with Saudi Defense Minister Prince Khalid bin Salman at the White House on Wednesday, Axios reports.
+‏
+‏➡️ The meeting was added to Prince Khalid's schedule after his talks with Vice President JD Vance, during which he emphasized that Saudi Arabia continues to favor de-escalation with Iran, despite this week's joint U.S.-Saudi strikes on Iran-backed militias in Iraq.
+‏
+‏➡️ The Saudi minister gave President Trump a message from the Saudi Crown Prince MBS about the war with Iran and the broader regional situation.
+04:28
+1405/05/08
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱🇺🇸⚡️ — Israeli Prime Minister Benjamin Netanyahu met with Secretary of War Pete Hegseth in Washington.
+04:28
+1405/05/08
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏چندین مخاطب در پیام‌های ارسالی به وحیدآنلاین از شنیده شدن صدای دو تا سه انفجار در کیش، حدود ساعت ۳:۳۰ بامداد، خبر داده‌اند. در برخی پیام‌ها آمده است که انفجارها در نزدیکی بندرگاه یا در آب‌های اطراف جزیره رخ داده‌اند.
+‏
+‏تاکنون هیچ منبع رسمی یا مستقلی این گزارش‌ها را تایید نکرده و اطلاعات بیشتری درباره علت یا محل دقیق انفجارها در دست نیست.
+‏https://iranintl.com/202607306853
+04:27
+1405/05/08
+
+
+
+
+src :@intelslava
+‏🇺🇸🇰🇼❌🇮🇷 — New wave of American missiles launched from Kuwait, striking targets inside Iran.
+04:27
+1405/05/08
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Deputy Governor of Hormozgan confirms U.S. airstrikes near Qeshm.
 ‏
@@ -869,14 +974,6 @@ src :@wfwitness
 
 
 
-src :@World_Newsly
-‏🔴انفجار در بندر عباس  ✍🏻 Desert Eagle ▪️@World_Newsly
-03:43
-1405/05/08
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -1346,14 +1443,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏انفجارات في جزيرة كيش جنوبي إيران
-03:35
-1405/05/08
-
-
-
-
 src :@Alibk3
 ‏غارات أميركية عبادان الإيرانية.
 03:35
@@ -1472,27 +1561,11 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏اطلاق صواريخ من الكويت
-03:32
-1405/05/08
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
 ‏
 ‏𝕏  ·  @shin_persian
-03:31
-1405/05/08
-
-
-
-
-src :@naya_foriraq
-‏اطلاق صواريخ من الكويت
 03:31
 1405/05/08
 
@@ -1675,16 +1748,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — The Trump administration does not currently have a strategy for restarting negotiations with Iran to end the conflict, AP reports.
-‏
-‏➡️ A senior U.S. official said, despite efforts by some mediators to revive talks or establish conditions for their resumption, the administration is not actively pursuing diplomacy at this time.
-03:03
-1405/05/08
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏دادگاه فدرال آمریکا هادی مطر، مردی را که در سال ۲۰۲۲ به سلمان رشدی، نویسنده بریتانیایی-آمریکایی، حمله کرده بود، به اتهام حمایت از یک گروه تروریستی خارجی و اجرای دستورهای حکومت ایران مجرم شناخت. 
@@ -1707,14 +1770,6 @@ src :@Minas_Tirith2024
 ‏منابع محلی از چند انفجار در سیریک و نورآباد ممسنی خبر می دهند
 ‏
 ‏@Minas_Tirith2024
-02:57
-1405/05/08
-
-
-
-
-src :@tabzlive
-‏🇸🇦⚡️ — Irregular activity at King Fahd International Airport, Dammam, Saudi Arabia. Flights are heavily delayed, and flights inbound to the airport are flying in holding patterns. The airport appears to have been closed.
 02:57
 1405/05/08
 
@@ -1775,16 +1830,6 @@ src :@thewarreporter
 ‏🇺🇸🇮🇷 — A senior US official told Axios that the U.S. military is conducting airstrikes in Iran.
 ‏
 ‏@TheWarReporter
-02:53
-1405/05/08
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — Sirik Attacked.
-‏
-‏@IntelSlava
 02:53
 1405/05/08
 
@@ -1856,14 +1901,6 @@ src :@MilitarryWorld
 
 
 
-src :@intelslava
-‏I expect a US airstrike within the next 1-3 hours.  @IntelSlava
-02:49
-1405/05/08
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پست خبرنگار اکسیوس:
@@ -1927,14 +1964,6 @@ src :@Middle_East_Spectator
 src :@Middle_East_Spectator
 ‏🇺🇸❌🇮🇷 — BREAKING: The U.S. military is currently conducting airstrikes in Iran, according to Axios, citing a U.S. official.
 02:45
-1405/05/08
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — BREAKING: The U.S. military is currently conducting airstrikes in Iran, according to Axios, citing a U.S. official.
-02:44
 1405/05/08
 
 
@@ -2025,24 +2054,6 @@ src :@guard_warriors
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏@ 2249Z, 3 Blasts in Nurabad, Fars Province, Iran 
-‏(Per @Vahid)
-‏
-‏ترجمه خودکار فارسی
-‏
-‏@ 2249Z (۰۲:۱۹ به وقت تهران)، سه انفجار در نورآباد، استان فارس، ایران
-‏(به گزارش وحید)
-‏
-‏𝕏  ·  @shin_persian
-02:27
-1405/05/08
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی تایید نشده از ساعت ۲:۱۹
 ‏
@@ -2072,14 +2083,6 @@ src :@VahidOnline
 ‏وحید بازم زد
 ‏📡 @VahidOnline
 02:25
-1405/05/08
-
-
-
-
-src :@Alibk3
-‏الطائرات لا تستطيع الهبوط في مطار الرياض حتى الآن.
-02:24
 1405/05/08
 
 
@@ -2813,19 +2816,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:02
-1405/05/08
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇦🇷 The U.S. Embassy in Buenos Aires was evacuated after a bomb threat, with a large police presence deployed around the diplomatic area in the Palermo neighborhood. Sources told local media that embassy staff received an anonymous phone call claiming there was a bomb outside the building.
-‏
-‏Argentina Federal Police confirmed the threat was made by phone and said a preventive evacuation was carried out, with the Explosives Unit deployed to the scene and the surrounding street closed off. The embassy later said the threat was ruled out after a thorough investigation, with all staff confirmed safe, and thanked Argentine authorities for their quick response.
-‏
-‏@wfwitness
-00:01
 1405/05/08
 
 
@@ -7641,17 +7631,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 04:56
-1405/05/07
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇺🇦 President Trump says it was a "great honor to meet with President Zelenskyy of Ukraine."
-‏
-‏"The meeting went very well."
-‏
-‏@BRICSNews
-04:27
 1405/05/07
