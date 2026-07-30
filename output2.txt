@@ -1,3 +1,127 @@
+src :@GeoPWatch
+[عکس]
+‏Last night and this morning, Russia launched another large-scale, combined missile and drone attack on Ukraine.
+‏
+‏Missiles launched:
+‏
+‏~8 Iskander-M/S-400 ballistic missiles launched from OTRK installations near Klintsy, Bryansk Oblast.
+‏
+‏~6 Kn-23 ballistic missiles launched from 3 Hwasong-11A launchers near Liski, Voronezh Oblast. 
+‏
+‏~4 modified S-300 ballistic missiles launched from Kursk Oblast. 
+‏
+‏~2 Zircon hypersonic cruise missiles launched from ground-based installations near Belgorod City, Belgorod Oblast.
+‏
+‏~1 Zircon hypersonic cruise missile launched from ground-based installations near Manturovo, Kursk Oblast. 
+‏
+‏~30 Kh-101 cruise missiles launched from 6 Tu-95MS strategic bombers at their launch lines near the city of Cherepovets, Vologda Oblast.
+‏
+‏~18 Kh-101 cruise missiles launched from 3 Tu-160M strategic bombers at their launch lines near the city of Cherepovets, Vologda Oblast.
+‏
+‏~8 Kalibr cruise missiles launched from a Buyan-M corvette at Novorossiysk Naval Base, Krasnodar Krai. 
+‏
+‏~1 Kalibr cruise missile launched from a vessel of an unknown type at Novorossiysk Naval Base, Krasnodar Krai.
+‏
+‏-----------------------
+‏
+‏Total missiles launched:
+‏
+‏~48 Kh-101 cruise missiles.
+‏~9 Kalibr cruise missiles.
+‏~8 Iskander-M/S-400 ballistic missiles.
+‏~6 Kn-23 ballistic missiles
+‏~4 modified S-300 ballistic missiles
+‏~3 Zircon hypersonic cruise missiles.
+‏
+‏~78 missiles in total.
+‏
+‏-----------------------
+‏
+‏Ukrainian air defence work:
+‏
+‏As of the time of writing, it appears that Ukrainian air defence was able to intercept a *minimum* of 25 Kh-101s, 6 Kalibrs, and 1 Iskander-M/S-400, 
+‏
+‏-----------------------
+‏
+‏The main targets for this strike was Ukrainian military targets in western Ukraine, central Ukraine, and Kyiv. The following was targeted:
+‏
+‏- Mayak Defence Plant in northern Kyiv (50.487948, 30.490509) by ~2 Iskander-M ballistic missiles.
+‏
+‏- Vicinity of Nova Poshta Warehouse #12 in western Kyiv (50.416879, 30.406535) by ~2 Iskander-M ballistic missiles.
+‏
+‏- Industrial zone in western Kyiv (50.424845, 30.400269) by ~2 Iskander-M ballistic missiles.
+‏
+‏- Lviv State Aviation Repair Plant in Lviv City (49.817646, 23.955727) by ~4 Kh-101 cruise missiles.
+‏
+‏- Unknown target southeast of Lviv City by Kh-101 cruise missiles.
+‏
+‏- Unknown target in the city of Kalush, Ivano-Frankivsk Oblast by Kh-101 cruise missiles.
+‏
+‏- Unknown target southeast of Khmelnytskyi City by Kh-101 cruise missiles. 
+‏
+‏- Unknown target on the outskirts of Vinnytsia City by ~1 Zircon hypersonic cruise missile. 
+‏
+‏- Unknown target in the city of Orativ, Vinnytsia Oblast by ~2 Zircon hypersonic cruise missiles. 
+‏
+‏- Unknown target in Haisyn, Vinnytsia Oblast by ~3 Kalibr cruise missiles. 
+‏
+‏- Unknown target in Kropyvnytskyi City by ~2 Kn-23 ballistic missiles.
+‏
+‏- Unknown target and nearby residential building in the town of Radushne, Dnipropetrovsk Oblast, by ~4 Kn-23 ballistic missiles.
+‏
+‏- Unknown target (possibly Nova Poshta warehouse) near Poltava City by Kh-101 cruise missiles. 
+‏
+‏- Unknown target in Sumy City by ~4 modified S-300 ballistic missiles. 
+‏
+‏- Possible impact near the Polish village of Otrocz, eastern Poland, by 1-2 Kh-101 cruise missiles. 
+‏
+‏-----------------------
+‏
+‏Keep in mind, the numbers of missiles launched may be slightly higher than what I've listed, as the number of missiles detected is sometimes lower than actual launches. These numbers may be adjusted in the coming hours as more information comes available.
+10:16
+1405/05/08
+
+
+
+
+src :@FlightRadar247
+‏🇮🇲 یک نفتکش با پرچم جزیره من (وابسته به تاج و تخت بریتانیا) در حالی که برای بارگیری در فاصله ۶ مایل دریایی از پایانه دریایی در حرکت بود، هدف حمله یک پهپاد قرار گرفت.
+10:16
+1405/05/08
+
+
+
+
+src :@FlightRadar247
+‏شرکت خط لوله دریای خزر (Caspian Pipeline Consortium - CPC):
+‏
+‏یک نفتکش هنگام بارگیری نفت در محل پهلوگیری خود، هدف حمله یک پهپاد قرار گرفت.
+10:16
+1405/05/08
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏شرح حال حملات ایالات متحده آمریکا در عملیات بامدادی ساعاتی پیش
+‏
+‏بیانیه سنتکام:
+‏نیروهای ایالات متحده امروز ساعت ۸ شب به وقت شرقی، حملاتی را علیه ایران آغاز کردند. این حملات پاسخی قاطع به تلاش‌های دیروز ایران برای حمله به نیروهای آمریکایی مستقر در خاورمیانه است.
+‏ایالات متحده آمریکا بامداد امروز حملاتی رو علیه ایران آغاز کرد و همانطور که سنتکام اشاره کرده است در پاسخ به حملات روز گذشته ایران بوده است در حملات بامدادی امروز مناطقی همچون آبادان، شادگان، اروندکنار، اهواز{ خوزستان} جزیره قشم و کیش،بندر عباس، سیریک،بستک { هرمزگان} نورآباد،کازرون،لار{ فارس} بوشهر،چغادک،برازجان،جم{بوشهر} تبریز{آذربایجان شرقی} 
+‏
+‏آسیب های مردمی : یک منزل مسکونی در قشم مورد اصابت پرتابه قرار گرفت، طبق گزارش استانداری هرمزگان : تیم‌های امدادی از همان ساعت حادثه در حال جست‌وجو برای یافتن ۵ نفر محبوس‌ در زیر آوار بودن که ٢ مصدوم{ کودک} زودتر از باقی خانواده پیدا شون و به بیمارستان منتقل شدن و آوار برداری نیز ادامه داشته است 
+‏
+‏در حمله به قشم ساعاتی برق نیز قطع شده بود
+‏
+‏
+‏@artemis_force
+10:15
+1405/05/08
+
+
+
+
 src :@Parvazdaroj
 [عکس]
 ‏امروزه برخی از فلانک تاور ها هنوز بعد از جنگ سرپا و سالم بدون اسیب خاصی باقی موندن 
@@ -6,7 +130,7 @@ src :@Parvazdaroj
 ‏
 ‏در مواردی ارتش انگلیس بعد از بمباران یکی از این برج ها ۳ بار سعی در نابودی اون با تی ان تی داشتن ولی حتی بعد از این هم سازه سالم باقی موند 
 ‏
-‏بعد از این همه تلاش متفقین تصمیم گرفتن تسلیحات خودشون رو برای نابودی برج ها خرج نکنن و بیخیال بقیه شدن 
+‏بعد از این همه تلاش متفقین تصمیم گرفتن تسلیحات خودشون رو برای نابودی برج ها خرج نکنن و بیخیال تخریب بقیه شدن 
 ‏
 ‏پارت بعدی ساعت ۲ 
 ‏
@@ -192,6 +316,8 @@ src :@MilitiaNews
 
 src :@WAR_ROOM_NEWS
 ‏مقامات در استان فارس اعلام کردند که دو نقطه در شهرستان‌های کازرون و فراشبند بامداد امروز مورد اصابت موشک‌های آمریکایی قرار گرفتند
+‏
+‏🆔@WAR_ROOM_NEWS
 09:59
 1405/05/08
 
@@ -1033,14 +1159,6 @@ src :@MilitarryWorld
 
 src :@WAR_ROOM_NEWS
 ‏🇯🇴🇮🇷 گزارش‌هایی مبنی بر وقوع انفجار در اردن پس از شلیک موشک‌های ایران منتشر شده است.
-08:31
-1405/05/08
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴ارتش اردن اعلام کرد که ۵ موشک از ایران به سمت اردن شلیک شده است.
 08:31
 1405/05/08
 
@@ -2035,17 +2153,6 @@ src :@mohem_mat
 
 
 
-src :@WAR_ROOM_NEWS
-‏اظهارات نخست‌وزیر اسرائیل، نتانیاهو، درباره ایران:
-‏من گفتم که می‌توان شرایطی را ایجاد کرد تا این رژیم بسیار ضعیف‌تر شود، اما در نهایت، این مردم ایران هستند که باید سرنوشت خود را در دست بگیرند.به نظر من، ایران از همیشه ضعیف‌تر است. به نظر من، اسرائیل از همیشه قوی‌تر است. اما نمی‌توانم به شما بگویم که این رژیم از بین رفته است. اینطور نیست.من یک پیش‌بینی می‌کنم. به نظر من، پس از این شکاف عمیق بین مردم و رژیم، و پس از این قتل عام، این رژیم در نهایت سقوط خواهد کرد.
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-06:42
-1405/05/08
-
-
-
-
 src :@FlightRadar247
 ‏🎮 کانال‌های ما 🎮
 ‏
@@ -2079,38 +2186,6 @@ src :@FlightRadar247
 ‏
 ‏🔥 اگر از علاقه‌مندان دنیای گیم هستید، حتماً در تمام کانال‌های ما عضو شوید؛ هر کانال محتوای اختصاصی خودش را دارد و با عضویت در همه آن‌ها، هیچ بازی، آموزش، خبر یا محتوای جذابی را از دست نخواهید داد. ❤️
 06:42
-1405/05/08
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏روزنامه نیویورک تایمز گزارش می‌دهد که قبل از آغاز جنگ، به آقای ترامپ گفته بودید که برنامه موشکی بالستیک ایران را می‌توان در عرض چند هفته نابود کرد، که این کار بدون مسدود کردن تنگه هرمز قابل انجام است، و اینکه تغییر رژیم نیز ممکن است... چرا فکر می‌کنید ارزیابی اولیه شما اینقدر با واقعیت فاصله داشت؟
-‏
-‏نتانیاهو: این ارزیابی اولیه من نبود، و این یک اظهار نظر نادرست درباره آنچه من گفته بودم است.
-‏
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-06:39
-1405/05/08
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏تلویزیون ایران: جسد دو کودک از زیر آوار خانه‌ای که در حمله هوایی نیروهای آمریکایی در جزیره قشم ویران شده بود، بیرون کشیده شد. تلاش‌ها برای نجات سه نفر دیگر که زیر آوار گرفتار شده‌اند، ادامه دارد.
-‏
-‏🆔️‌‌@WAR_ROOM_NEWS
-06:38
-1405/05/08
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴قشم
-06:37
 1405/05/08
 
 
@@ -3550,16 +3625,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-‏NEW: The U.S. military is carrying out airstrikes in Iran.
-‏
-‏Source: Barak Ravid
-02:52
-1405/05/08
-
-
-
-
 src :@guard_warriors
 ‏باراک راوید ( آکسیوس):
 ‏ یک مقام آمریکایی به من می‌گوید ارتش ایالات متحده در حال انجام حملات هوایی در ایران است.
@@ -3821,19 +3886,6 @@ src :@tglobaleye
 
 
 
-src :@ClashReport
-[عکس]
-‏BAE Systems has secured a £5.9 billion ($7.8 billion) UK government contract to continue developing the Dreadnought-class nuclear submarines, which will replace the ageing Vanguard fleet from the early 2030s.
-‏
-‏The award is part of an £8.4 billion defense funding package supporting the UK's continuous at-sea nuclear deterrent.
-‏
-‏Source: Reuters
-01:18
-1405/05/08
-
-
-
-
 src :@Minas_Tirith2024
 ‏تایید نشده: شنیده شدن صدای دو انفجار در آسمان ریاض و توقف فعالیت  فرودگاه بین‌المللی ملک خالد
 ‏
@@ -3865,15 +3917,6 @@ src :@GeoPWatch
 src :@samueltarikh
 ‏🚨هم اکنون دو صدای انفجار مهیب در شهر ریاض پایتخت عربستان شنیده شد و پرواز های فرودگاه بین‌المللی ملک خالد به تعلیق درامد
 01:13
-1405/05/08
-
-
-
-
-src :@ClashReport
-[عکس]
-‏X has suspended the account of Iran's state-affiliated Tasnim News Agency.
-01:11
 1405/05/08
 
 
@@ -4620,17 +4663,6 @@ src :@thewarreporter
 
 
 
-src :@FlightRadar247
-[عکس]
-‏نیروی هوایی اوکراین در تاریخ ۲۹ جولای در جریان یک ماموریت پدافند هوایی، ارتباط خود را با یک فروند اف-۱۶ از دست داد.
-‏
-‏خلبان پس از بروز وضعیت اضطراری در هواپیما، از آن خارج شد، به سلامت نجات یافت و تحت معاینات پزشکی قرار دارد.
-22:53
-1405/05/07
-
-
-
-
 src :@didarnews1
 ‏🔴عذرخواهی اسرائیل از آمریکا
 ‏
@@ -5330,17 +5362,6 @@ src :@defence_news
 
 
 
-src :@FlightRadar247
-[عکس]
-‏🇮🇹🤝🇺🇸🇷🇴 — ایتالیا رسماً مشارکت خود در مأموریت پلیس هوایی پیشرفته ناتو در رومانی را به پایان رساند و استقرار موفقیت‌آمیزی را با هدف تأمین امنیت حریم هوایی جنوب شرقی این اتحاد به پایان رساند.
-‏
-‏در طول این مأموریت، هواپیماهای یوروفایتر ایتالیایی از پایگاه هوایی میهایل کوگالنیچانو در کونستانسا عملیات انجام دادند و در کنار نیروهای رومانیایی برای انجام وظایف هشدار واکنش سریع (QRA) همکاری کردند.
-20:58
-1405/05/07
-
-
-
-
 src :@defence_news
 ‏یک تانکر آمریکایی حامل گاز طبیعی که پرچم جزایر مارشال را بر فراز خود دارد، در منطقه بندر دمیاط در مصر، مورد اصابت یک پهپاد قرار گرفته است.  تاکنون هیچ گروهی مسئولیت این حادثه را در بندر «دمیاط» (Damietta) مصر بر عهده نگرفته است.  @Military_Tweet
 20:58
@@ -5379,14 +5400,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@Minas_Tirith2024
 20:56
-1405/05/07
-
-
-
-
-src :@FlightRadar247
-‏🇷🇺❌🇺🇦 — برخاستن چهار بمب‌افکن استراتژیک Tu-160M ​​نیروی هوافضای روسیه از پایگاه هوایی اوکراینکا. این بمب‌افکن‌های استراتژیک در حال پرواز رزمی هستند.
-20:54
 1405/05/07
 
 
@@ -6905,15 +6918,6 @@ src :@rus_cosmos
 ‏حملات آمریکا به نقطه کلیدی در مرز کشور
 ‏
 ‏حملات نیرو هوایی آمریکا به مرز غربی کشور نشان میدهد که آمریکا یک برنامه کاملا عملی و واقعی برای حمایت کامل هوایی از هجوم گسترده‌ ده‌ها هزار جنگجوی کورد مسلح دارد که آنها به راحتی و تحت حمایت کامل اطلاعاتی و هوایی آمریکا می‌توانند بخش‌های زیادی از کشور را تصرف کنند.
-14:06
-1405/05/07
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏احراز شهادت یکی از قهرمانان سوخو 24 ارتش/ ورود پیکر مطهر شهید امیر سرتیپ دوم خلبان کاظمی به کشور تا ساعاتی دیگر/اجا   @artemis_force
 14:06
 1405/05/07
 
