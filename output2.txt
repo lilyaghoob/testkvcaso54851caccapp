@@ -173,7 +173,7 @@ src :@mohem_mat
 ‏بوشهر 
 ‏شادگان
 ‏بندرعباس 
-‏کیش
+‏
 ‏گزارش شده اند. در قشم دو نفر مجروح و چند نفر مفقود هستند
 ‏
 ‏@mohem_mat
@@ -1076,17 +1076,6 @@ src :@World_Newsly
 
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — A large explosion reported in Ahvaz Now.
-04:55
-1405/05/08
-
-
-
-
-src :@World_Newsly
-‏🔴انفجار در اروندکنار، استان خوزستان
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 04:55
 1405/05/08
 
