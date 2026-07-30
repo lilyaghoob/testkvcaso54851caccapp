@@ -1,3 +1,19 @@
+src :@wfwitness
+‏⚡️🇺🇸🇮🇷 US CENTCOM:   U.S. forces began launching strikes against Iran at 8 p.m. ET today. The strikes are a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.  @wfwitness
+04:06
+1405/05/08
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇮🇷 — CENTCOM: U.S. forces began launching strikes against Iran at 8 p.m. ET today. The strikes are a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East.  @IntelSlava
+04:03
+1405/05/08
+
+
+
+
 src :@intelslava
 [عکس]
 ‏🇺🇸❌🇮🇷 — CENTCOM:
@@ -845,16 +861,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 Initial reports of launches from the Bidganeh missile base in the Tehran province of Iran.
-‏
-‏@wfwitness
-03:37
-1405/05/08
-
-
-
-
 src :@World_Newsly
 ‏🔴صدای چند انفجار در کیش  ✍🏻 Desert Eagle ▪️@World_Newsly
 03:37
@@ -953,17 +959,6 @@ src :@World_Newsly
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
 03:36
-1405/05/08
-
-
-
-
-src :@World_Newsly
-‏🔴صدای انفجار در آبادان
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-03:35
 1405/05/08
 
 
@@ -2001,29 +1996,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏⭐️وول ستريت جورنال: ‏
-‏أعدّ الأدميرال براد كوبر، قائد القيادة المركزية الأمريكية، خيارًا لشنّ حملة جوية قاسية ضد إيران قد تستمر لمدة تصل إلى أسبوعين، بهدف شلّ قدراتها الصاروخية، في الوقت الذي يدرس فيه ترامب مدى التصعيد الذي سيتخذه بعد الهجوم الصاروخي الإيراني المفاجئ.
-‏
-‏‏يقول مسؤولون إن القوات الإسرائيلية قد تُضمّن إذا عادت الولايات المتحدة إلى عمليات قتالية واسعة النطاق ضد إيران.‏
-‏
-‏على الرغم من ادعاء هيغسيث السابق بأن برنامج الصواريخ الإيراني قد "دُمر فعلياً"، قال ترامب في مقابلة إن إيران قد لا تزال تمتلك ما بين 21 و22% من صواريخها؛ بينما يُقدّر بعض المحللين النسبة بأكثر من ذلك.‏
-‏
-‏اعتقد الأدميرال براد كوبر، قائد القيادة المركزية الأمريكية، في البداية أن الحرب قد تستغرق ستة أسابيع أو أكثر عند اندلاعها؛ وقد ساهم إسقاط طائرة أمريكية من طراز إف-15إي فوق إيران خلال الحملة الانتخابية في قرار ترامب بالسعي إلى وقف إطلاق النار بعد ذلك بوقت قصير.
-02:05
-1405/05/08
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — Sirik Explosion.
-02:03
-1405/05/08
-
-
-
-
 src :@MilitarryWorld
 ‏🔴رویترز: انفجارهای شدید و پیاپی، کیف پایتخت اوکراین را به لرزه درآورد.
 ‏
@@ -2039,14 +2011,6 @@ src :@tabzlive
 ‏🇺🇸⚡️ — The Pentagon awarded Lockheed Martin a $59 billion deal to triple Patriot missile production over the next seven years.
 ‏
 ‏➡️ The deal builds on the $4.7 billion contract Lockheed received in April to boost production of the most advanced Patriot interceptors with a new $53.86 billion modification that covers the duration of the seven-year contract.
-01:55
-1405/05/08
-
-
-
-
-src :@tabzlive
-‏🇷🇺❌🇺🇦 — Earlier, six Russian Aerospace Forces Tu-95MS strategic bombers took off from Oleyna AB, Russia.
 01:55
 1405/05/08
 
@@ -2192,16 +2156,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Alibk3
-‏إعلام العدو:
-‏
-‏تم وضع إسرائيل في حالة تأهب استعدادًا لما سيحدث خلال الليل.
-01:20
-1405/05/08
-
-
-
-
 src :@rnintel
 ‏🇮🇷⚡- Explosions in Tabriz, northwest Iran.
 01:19
@@ -2269,15 +2223,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 01:16
-1405/05/08
-
-
-
-
-src :@Alibk3
-[عکس]
-‏المزيد من الطائرات السعودية تتجنب الهبوط.
-01:15
 1405/05/08
 
 
@@ -7711,12 +7656,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 04:27
-1405/05/07
-
-
-
-
-src :@OSINTWarfare
-‏U.S. Central Command says U.S. forces and the Royal Saudi Air Force (RSAF) carried out precision airstrikes in eastern Iraq, targeting Iran-aligned groups that it said were directed by the IRGC to attack U.S. forces and Saudi energy infrastructure.
-04:03
 1405/05/07
