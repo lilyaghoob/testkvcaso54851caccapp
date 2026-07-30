@@ -1,7 +1,47 @@
+src :@didarnews1
+‏🔴فوری| سپاه: با استعانت از خدای متعال، متجاوز همین امروز تنبیه خواهد شد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+11:05
+1405/05/08
+
+
+
+
+src :@cataphract1
+‏⚜ به گفته وزارت دفاع کویت یک ساختمان چینی در شمال این کشور طی حملات ایران آسیب شدید دیده و یک کارگر نیز کشته شده
+‏
+‏📃@Cataphract1
+11:05
+1405/05/08
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏⚡️ وزارت دفاع کویت اعلام کرد در پی حمله ایران، ساختمانی متعلق به یک شرکت چینی در شمال این کشور هدف قرار گرفت که بر اثر آن یک کارگر کشته و خسارات قابل‌توجهی به ساختمان وارد شد.این وزارتخانه افزود نیروهای امدادی و امنیتی بلافاصله در محل حاضر شدند و ارتش کویت نیز برای حفظ امنیت و حاکمیت کشور در آمادگی کامل قرار دارد.
+11:03
+1405/05/08
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏الحرس الثوري الإسلامي:   بحول الله تعالى، سيتم معاقبة المعتدي اليوم.
 11:03
+1405/05/08
+
+
+
+
+src :@jangaavaran1390
+‏سپاه پاسداران انقلاب اسلامی:
+‏
+‏به حول و قوه الهی، امروز مجازات متجاوزین اعمال خواهد شد.
+11:02
 1405/05/08
 
 
@@ -1850,14 +1890,6 @@ src :@MilitarryWorld
 
 
 
-src :@WAR_ROOM_NEWS
-‏🇯🇴🇮🇷 گزارش‌هایی مبنی بر وقوع انفجار در اردن پس از شلیک موشک‌های ایران منتشر شده است.
-08:31
-1405/05/08
-
-
-
-
 src :@didarnews1
 ‏🔴فرماندار بوشهر: ۲ نقطه در این شهرستان مورد تهاجم قرار گرفت
 ‏
@@ -2706,14 +2738,6 @@ src :@Shin_Persian
 
 
 
-src :@jangaavaran1390
-‏در حال حاضر، آژیرهای خطر در چندین شهر در شرق لهستان به صدا درآمده‌اند، این در حالی است که گزارش‌هایی مبنی بر عبور احتمالی موشک‌های کروز روسی به فضای هوایی لهستان منتشر شده است.
-05:49
-1405/05/08
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇮🇷 U.S. CENTCOM says they’ve completed new wave of “heavy” strikes against Iran: 
@@ -3440,6 +3464,14 @@ src :@Middle_East_Spectator
 
 
 
+src :@selena_updates
+[عکس]
+04:07
+1405/05/08
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏پست سنتکام، ترجمه ماشین:
@@ -4135,6 +4167,15 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 01:16
+1405/05/08
+
+
+
+
+src :@selena_updates
+[عکس]
+‏X has suspended the account of Iran's state-affiliated Tasnim News Agency.
+01:14
 1405/05/08
 
 
@@ -4861,6 +4902,21 @@ src :@didarnews1
 
 
 
+src :@selena_updates
+[عکس]
+‏The Iran-backed terrorist Shi'a militias in Iraq issued a statement vowing to take revenge on the US and Saudi Arabia following last night’s strikes in Iraq, in which at least 20 of their members were killed:
+‏
+‏We are giving the government in Iraq a deadline until the 23rd of the month of Safar (August 9), to see how they respond to the attack and what they will do against those responsible for it.
+‏
+‏Out of a desire to safeguard the security of the pilgrims during the Arbaeen events, we are postponing our response at this stage until the conclusion of the events. 
+‏
+‏Nevertheless, the response against the American enemy will certainly come, and if necessary, it may also be directed against its agents in Saudi Arabia.
+22:40
+1405/05/07
+
+
+
+
 src :@thewarreporter
 ‏🛳️🇾🇪 — The Houthis are considering imposing fees on ships passing through the Red Sea via the Bab-el-Mandeb Strait.  — Reuters | @TheWarReporter
 22:40
@@ -4972,6 +5028,33 @@ src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇪🇬/🇮🇷 BREAKING: An American LNG tanker was hit by a drone in Damietta Port, Egypt  Another vessel that was docked was also hit, allegedly.  @Middle_East_Spectator
 22:21
+1405/05/07
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Turkish President Erdogan ranted against Israel again in a live statement, including blaming it for the US-Iran current conflict:
+‏
+‏Israel's current war-driven government continues to push our region toward instability through its provocations and orchestrated actions. By disregarding fundamental human rights and trampling international law, Israel is gradually occupying palestinian territories step by step.
+‏
+‏Israel's occupation, its illegal settlements, and its policies of displacement, intimidation, and oppression against Palestinians in the West Bank - just as it has done in Gaza - are the primary source of the problems in our region.
+‏
+‏The cost of this aggression is being borne not only by our palestinian brothers and sisters, and not only by the brotherly people of Lebanon, but also by people of different faiths and by the region as a whole. 
+‏
+‏For example, because of the conflicts in our region, the global oil supply is experiencing one of the largest shocks in history. Unfortunately, it is not only oil. Prices for many key inputs in global markets - including natural gas, fertilizers, diesel fuel, and petrochemical products - have also risen rapidly.
+‏
+‏In the same live statement, he justified the Turkish occupation and massacres done in Cyprus and threatened with more of that:
+‏
+‏20 July 1974 was a historic turning point that secured the existence, freedom, and security of the Turkish Cypriot people. Within the framework of its rights and responsibilities as a guarantor under international agreements, Turkey put an end to the oppression endured by the Turkish Cypriots and took the lead in establishing peace and stability on the island.
+‏
+‏Today, it is not possible to reach a sound conclusion on the Cyprus issue by ignoring historical realities. The issue in Cyprus goes beyond a technical debate over power-sharing between two communities; it is fundamentally a matter of recognizing the sovereign equality and equal international status of the Turkish Cypriot people.
+‏
+‏Therefore, no initiative that disregards the sovereign equality, inherent rights, and legitimate interests of the Turkish Cypriots in the Eastern Mediterranean can succeed. We are closely monitoring every step taken by those who seek to exploit the tensions in our region, turning Cyprus into part of new military alignments and geopolitical calculations.
+‏
+‏To those who are making this miscalculation, I would like to reiterate this fact: just as it has throughout history, and just as it did 52 years ago, Türkiye will never leave its Turkish Cypriot brothers and sisters alone. Whatever the cost, it will never again allow the tragedies of the past to be repeated.
+22:20
 1405/05/07
 
 
@@ -5144,6 +5227,19 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 21:52
+1405/05/07
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Lebanese security forces arrested a man for stealing $400,000 from his father and transferring the money to ISIS terrorists in Syria, with investigators linking him to a cross-border cell that included 3 coordinators already imprisoned in Tripoli, bringing the number of suspected members in Lebanese custody to 4. 
+‏
+‏2 additional perpetrators are believed to have fled across the border into Syria. The cell financed ISIS with the aim of supporting attacks in Syria. 
+‏
+‏No other details have yet been publicly released.
+21:50
 1405/05/07
 
 
@@ -5536,6 +5632,25 @@ src :@defence_news
 
 
 
+src :@selena_updates
+[عکس]
+‏The Iraqi government condemned the American-Saudi attacks on the Iran-backed PMF terrorists overnight:
+‏
+‏We condemn and denounce the attack carried out this morning by American and Saudi forces. This attack occurred at a time when the government was investigating reports of potential threats to Saudi territory.
+‏
+‏The National Security Council has decided to implement a comprehensive security plan to counter any violation of Iraq's sovereignty and to prevent any entity from posing a threat to neighboring countries.
+‏
+‏The Ministry of Foreign Affairs has been instructed to take action in accordance with international law to document the situation and protect Iraq's rights.
+‏
+‏We reaffirm our rejection of all hostile acts, regardless of the party carrying them out or the justifications used. Addressing and confronting these attacks is the sole responsibility of the Iraqi government and its constitutional institutions.
+‏
+‏Additionally, Iraqi Prime Minister Ali al-Zaidi has canceled an official trip to Saudi Arabia, where he was set to meet Saudi Crown Prince MBS, that was scheduled for tomorrow, Thursday.
+20:45
+1405/05/07
+
+
+
+
 src :@Mena_Live
 ‏At least 20 people were killed and 32 others were injured in a preliminary toll from the joint US-Saudi attacks that targeted a number of official headquarters of the Popular Mobilization Forces (PMF) in several Iraqi governorates.
 ‏
@@ -5625,20 +5740,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 20:21
-1405/05/07
-
-
-
-
-src :@didarnews1
-‏🔴سردار کوثری عضو کمیسیون امنیت ملی مجلس گفت: 
-‏
-‏🔹نمی‌توان گفت چون طی چند شب اخیر آمریکا حملات خود به ایران را متوقف کرده، پس ما هم حملات را قطع کنیم‌؛  کاری که ما  با اردن کردیم، بسیار مناسب بود! این بزرگترین اشتباه است که ما حملات خود را تابع اقدامات نظامی طرف مقابل کنیم؛ هر کسی در هر رده‌ای چنین انتظاری از جمهوری اسلامی دارد، کاملا اشتباه می‌کند./ جماران
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-20:20
 1405/05/07
 
 
