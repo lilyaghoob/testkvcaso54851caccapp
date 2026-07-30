@@ -2593,20 +2593,6 @@ src :@defence_news
 
 
 
-src :@tabzlive
-‏⚡️🇪🇬 Egyptian government media "Al-Ahram" publishes an article stating that Iran and the Houthis are not responsible for the drone attack in Domyat.
-‏
-‏They cite the Houthi statement and interactions with the Iranian Foreign Ministry in their article.
-‏
-‏Considering it is literally a government newspaper and therefore has its own censor, it seems that the official media stance is not to escalate anything with Iran considering the attack was only directed at a US asset and not any other port asset belonging to Egypt.
-‏
-‏@medmannews
-21:53
-1405/05/08
-
-
-
-
 src :@Minas_Tirith2024
 ‏به هر ترتیب ، ادعای انهدام/آسیب ۶ فروند جنگنده F-35 در موفق السلطی آنقدر بزرگ است که اگر با تصویر ماهواره ای رسمی ثابت شود تبدیل به بزرگترین دستاورد نظامی ایران و شاهکار قرن می شود و اگر رد شود اعتبار بیانیه‌های سپاه را مجددا به سطح ماجرای خلبان زن اسرائیلی در جنگ ۱۲ روزه تقلیل می دهد!
 ‏
@@ -2978,14 +2964,6 @@ src :@didarnews1
 src :@Mena_Live
 ‏🇸🇾Syria’s exports surged 123.1% year-on-year in March 2026 compared with March 2025:  Main export destinations were ranked as follows:  Iraq — 20.2% Italy — 13.4% Germany — 13.0% Türkiye — 5.5% Saudi Arabia — 4.8% France — 4.3% Lebanon — 3.8%  CEIC/IMF  @Mena_Live
 21:16
-1405/05/08
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — Islamic Republic of Iran Army announces conducting an Arash-2 UAV strike against Sheikh Isa AB, Bahrain; targeting power generators, the navigation system, and administrative & support buildings of U.S. forces present inside the base.
-21:12
 1405/05/08
 
 
