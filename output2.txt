@@ -1,3 +1,14 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇨🇳🇺🇸 China announces it is preparing to retaliate after US imposes import ban on Chinese robots.
+‏
+‏@BRICSNews
+09:38
+1405/05/08
+
+
+
+
 src :@P_raetorio
 ‏معاون سیاسی، امنیتی و اجتماعی استاندار فارس از تجاوز هوایی دشمن آمریکایی در بامداد امروز (پنجشنبه هشتم مرداد ۱۴۰۵) به مناطقی در شهرستان‌های کازرون و فراشبند خبر داد و تاکید کرد: این حملات خوشبختانه هیچ تلفات جانی در پی نداشته و هم‌اینک وضعیت منطقه پایدار و عادی می باشد.
 ‏
@@ -2379,27 +2390,11 @@ src :@MilitarryWorld
 
 
 
-src :@intelslava
-‏🇺🇸❌🇮🇷 — A large explosion reported in Ahvaz Now.
-04:55
-1405/05/08
-
-
-
-
 src :@MilitarryWorld
 ‏🔴اهواز ۴ انفجار شدید گزارش شد
 ‏
 ‏@MilitarryWorld | Parsa
 04:53
-1405/05/08
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — A large explosion reported in Ahvaz Now.
-04:50
 1405/05/08
 
 
@@ -2824,16 +2819,6 @@ src :@IranintlTV
 
 
 
-src :@intelslava
-‏🇺🇸❌🇮🇷 — Fresh explosions reported in Bandar Abbas and Qeshm Island at approximately 04:35–04:37 local time.
-‏
-‏@IntelSlava
-04:41
-1405/05/08
-
-
-
-
 src :@VahidOnline
 ‏پیام‌های دریافتی:‌ 
 ‏
@@ -2918,45 +2903,9 @@ src :@IranintlTV
 
 
 
-src :@intelslava
-‏🇺🇸❌🇮🇷 — US strikes hit Kazerun, Fars Province, Iran.
-04:37
-1405/05/08
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷🇺🇸 Explosions were also heard on Qeshem Island, Kish Island, and Bandar Abbas, southern Iran.  @wfwitness
 04:36
-1405/05/08
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — US strikes on Iran are targeting a very wide range of targets, a US official tells Fox News.
-‏
-‏@IntelSlava
-04:36
-1405/05/08
-
-
-
-
-src :@intelslava
-‏🇺🇸❌🇮🇷 — US forces strike locations near Qeshm Island and Abadan in separate near-simultaneous attacks, Iranian provincial officials say.
-‏
-‏@IntelSlava
-04:29
-1405/05/08
-
-
-
-
-src :@intelslava
-‏🇺🇸🇰🇼❌🇮🇷 — New wave of American missiles launched from Kuwait, striking targets inside Iran.
-04:27
 1405/05/08
 
 
@@ -3009,14 +2958,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 04:23
-1405/05/08
-
-
-
-
-src :@intelslava
-‏🇺🇸🇰🇼❌🇮🇷 — New wave of American missiles launched from Kuwait, striking targets inside Iran.
-04:20
 1405/05/08
 
 
@@ -4497,18 +4438,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔️‌‌@WAR_ROOM_NEWS
 23:16
-1405/05/07
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏اظهارات ترامپ درباره ایران:
-‏
-‏من مایلم که تعرفه‌هایی بر روی ایران وضع شود.لیندسی هم این موضوع را مطرح کرد.
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-23:14
 1405/05/07
 
 
