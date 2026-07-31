@@ -5155,15 +5155,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏حمله‌ی هدفمند دیشب آمریکا به قشم، طبق اعلام منابع داخلی ۳ نفر در این حملات کشته  و ۶ نفر مجروح شدند  🆔@WAR_ROOM_NEWS
-17:59
-1405/05/08
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — The Trump administration presented President Trump with options for carrying out broader military operations against Iran.
 ‏
