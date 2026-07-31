@@ -1,3 +1,22 @@
+src :@IranintlTV
+[عکس]
+‏پولیتیکو به نقل از دیپلمات‌های اروپایی و آسیایی گزارش داد بسیاری از متحدان آمریکا تمایلی به مشارکت مستقیم در جنگ با حکومت ایران ندارند و هرگونه همکاری نظامی یا غیرنظامی را به برقراری آتش‌بس پایدار میان واشینگتن و تهران و تضمین آزادی کشتیرانی در تنگه هرمز مشروط کرده‌اند. 
+‏
+‏به گفته این منابع، برخی کشورها می‌کوشند از ورود به جنگ جلوگیری کنند و برخی دیگر مشارکت خود را به دریافت امتیازهای امنیتی و نظامی از آمریکا منوط کرده‌اند. 
+‏
+‏این گزارش می‌افزاید فرانسه و بریتانیا نیز اعزام نیرو برای تامین امنیت تنگه هرمز را به توقف درگیری‌ها مشروط کرده‌اند و همراه با حدود ۴۰ کشور، برای تشکیل ماموریت چندملیتی حفاظت از کشتیرانی پس از آتش‌بس آماده شده‌اند. 
+‏
+‏همچنین برخی دولت‌ها، از جمله یک کشور اروپای شرقی و اوکراین، در ازای همکاری با آمریکا خواهان تضمین‌های امنیتی یا دریافت تسلیحات بیشتر شده‌اند. 
+‏
+‏هم‌زمان، عربستان سعودی از تشکیل یک ائتلاف دریایی ۱۴ کشوری با اکثریت مسلمان برای حفاظت از مسیرهای دریایی در دریای سرخ، خلیج عدن و باب‌المندب خبر داده است.
+‏
+‏https://iranintl.com/202607316295
+05:09
+1405/05/09
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇱🇵🇸⚡️ — BREAKING: President Trump announces a Gaza deal for the complete disarmament of Hamas and all other armed groups: Today, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza. This…
@@ -488,19 +507,6 @@ src :@Indypersian
 ‏اداره خدمات فناوری اطلاعات مینه‌سوتا نیز اعلام کرده تحقیقات در این زمینه ادامه دارد و تاکنون هیچ  شخصی به‌عنوان عامل این حمله شناسایی نشده است.
 ‏@indypersian
 02:59
-1405/05/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Anthropic says three of its most advanced AI models, including Mythos 5, Opus 4.7, and an unreleased research model, hacked into three real-world systems during pre-deployment cybersecurity testing after a misconfigured evaluation environment unintentionally provided internet access.
-‏
-‏➡️ Believing they were operating in a simulated environment, the models used basic hacking techniques, including exploiting weak passwords and unauthenticated endpoints, to compromise external systems.
-‏
-‏➡️ Anthropic stated that the incidents stemmed from a misunderstanding with its testing partner rather than a software vulnerability, and noted that the additional safeguards used on its publicly available models would have prevented the behavior.
-02:52
 1405/05/09
 
 
@@ -2287,21 +2293,6 @@ src :@jangaavaran1390
 ‏
 ‏در کنار آن، آزمایش موشک FP-7 نیز به نمایش درآمد. بر اساس ادعای رسانه روسی «Военный Осведомитель»، این پروژه که در ابتدا به‌عنوان یک موشک صرفاً بالستیک معرفی شده بود، اکنون به سکویی برای توسعه موشک رهگیر سامانه دفاع موشکی FREYA تغییر کاربری داده است.
 23:26
-1405/05/08
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️رئیس‌جمهوری آمریکا در رویدادی در محوطه کاخ سفید با اشاره به تصادفات رانندگی که مهاجران در آن‌ها نقش داشتند، گفت جاده‌های آمریکا «توسط اتباع غیرقانونی و فاقد صلاحیتی که به‌طرز خطرناکی رانندگی کامیون‌های سنگین را بر عهده دارند، ناامن شده است» و متعهد شد که این مهاجران را با «کهنه‌سربازان آمریکاییِ کاملا واجد شرایط» جایگزین کند.
-‏
-‏دولت ترامپ این برنامه را «طرح کامیون‌داران آزادی» (Freedom Haulers Initiative) نام‌گذاری کرده است. طبق این طرح، هر فردی که تجربه رانندگی کامیون‌های سنگین در ارتش را داشته باشد، به‌طور خودکار واجد شرایط دریافت گواهینامه رانندگی تجاری (CDL) خواهد بود. ترامپ اعلام کرد که هم‌اکنون ۳۴ ایالت به این طرح پیوسته‌اند.
-‏
-‏این در حالی است که مهاجران حدود ۲۰ درصد از کل رانندگان کامیون در آمریکا را تشکیل می‌دهند، اما گواهینامه‌های تجاری صادرشده برای افراد غیرمقیم تنها حدود ۵ درصد از کل گواهینامه‌های رانندگی تجاری—معادل تقریبا ۲۰۰ هزار راننده—را شامل می‌شود.
-‏
-‏@INDYPERSIAN
-23:23
 1405/05/08
 
 
