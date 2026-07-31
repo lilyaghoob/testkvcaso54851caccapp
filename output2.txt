@@ -1,6 +1,15 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇦🇷🇺 The Ukrainian capital Kyiv is currently under heavy Russian bombardment.  @wfwitness
+02:41
+1405/05/10
+
+
+
+
 src :@naya_foriraq
 [عکس]
-‏🇷🇺🇺🇦قصف صاروخي روسي كبير على العاصمة الأوكرانية كييف والنيران تشعل السماء.
+‏🇷🇺🇺🇦قصف صاروخي روسي كبير على العاصمة الأوكرانية كييف والنيران تشعل السماء وسط انقطاع واسع للكهرباء.
 02:36
 1405/05/10
 
@@ -2109,27 +2118,9 @@ src :@Navy_Iranian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇲🇽 The operation in Atotonilco el Alto, Jalisco, ended with the capture of Ramón Ángel "R1," accused of masterminding the assassination of former Uruapan, Michoacán mayor Carlos Manzo, led by Mexican Army Special Forces.  Following his capture, he was transferred…
-00:18
-1405/05/10
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏ایران هشدار داد که قبرس نباید اجازه دهد پایگاه‌های نظامی‌اش برای پشتیبانی از عملیات‌های جدید آمریکا مورد استفاده قرار گیرند، قبرس در حال حاضر، پس از استقرار سراسری سامانه‌های پیشرفته پدافند هوایی ساخت اسرائیل، یکی از قدرتمندترین شبکه‌های دفاع هوایی منطقه را در اختیار دارد.
 00:18
-1405/05/10
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇲🇽 A reported clash occurred in the center of Atotonilco el Alto, Jalisco, leaving one person injured. An SSPC aircraft was reportedly conducting ISR operations in the area, and an armed EC-725 Cougar helicopter fitted with machine gun pods has since been…
-00:16
 1405/05/10
 
 
@@ -2426,16 +2417,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 An explosion was observed in Haddatha, southern Lebanon, as a result of Israeli demolition activity.
-‏
-‏@wfwitness
-23:53
-1405/05/09
-
-
-
-
 src :@intelslava
 ‏🇺🇳🇷🇺⚡️ — NATO is considering deploying additional US nuclear weapons in Europe due to the threat from Russia — DPA
 ‏
@@ -2587,23 +2568,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:40
-1405/05/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🔋 Google unveiled yesterday a new feature that would allow to edit Google Earth satellite imagery using AI prompts.
-‏
-‏It doesn't take a genius to see how this tool could be used for disinformation.
-‏
-‏The feature has been taken down today. 
-‏
-‏🫡OSINT has not yet perished.
-‏
-‏@wfwitness
-23:37
 1405/05/09
 
 
