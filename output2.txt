@@ -4342,17 +4342,6 @@ src :@VahidOnline
 
 
 
-src :@Middle_East_Spectator
-[ویدئو]
-‏— 🇮🇷/🇯🇴/🇺🇸 F-15/16/35 hangar at Muwaffaq Salti: Destroyed ✅
-‏
-‏@Middle_East_Spectator
-19:12
-1405/05/08
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏انتشار ویدیویی از ضرب‌وشتم چند زن در ایران در جریان یک پخش زنده اینستاگرامی، موجی از واکنش‌ها را در فضای مجازی به دنبال داشته است.
@@ -4587,14 +4576,6 @@ src :@mohem_mat
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: Initial reports of Saudi airstrikes in Sanaa, the capital of Yemen  @Middle_East_Spectator
-18:49
-1405/05/08
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏توئیتر بدون هیچ توضیحی به یکباره تمام صفحات فارسی، انگلیسی، عبری و عربی خبرگزاری تسنیم را بست
@@ -4650,16 +4631,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 18:38
-1405/05/08
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: Initial reports of Saudi airstrikes in Sanaa, the capital of Yemen
-‏
-‏@Middle_East_Spectator
-18:34
 1405/05/08
 
 
