@@ -1,6 +1,35 @@
+src :@tabzlive
+[عکس]
+‏⚽️ — NEW: FIFA has abandoned plans to sell a 20% stake in a new $20 billion commercial-rights entity after UEFA threatened to boycott FIFA competitions and opposition spread across world football, according to the New York Post.  ➡️ The proposed deal died…
+03:15
+1405/05/10
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏رویترز در تحقیقی ویژه گزارش داد صرافی رمزارزی بدون مجوز «شلبیت» در دبی، با شبکه‌ای گسترده از سایت‌های قمار فارسی‌زبان مرتبط است و به بخشی از سازوکار چندمیلیارددلاری جمهوری اسلامی برای دور زدن تحریم‌ها تبدیل شده است. 
+‏
+‏این صرافی که سیاوش کیوان‌پور آن را اداره می‌کند، از مه ۲۰۲۴ دست‌کم چهار میلیارد دلار رمزارز پردازش کرده و با بانک مرکزی، نهادهای تحریم‌شده و کیف پول‌های منتسب به سپاه پاسداران ارتباط داشته است.
+‏
+‏رویترز نوشت بیش از دو هزار سایت قمار در این شبکه فعالیت دارند و ساشا سبحانی و پویان مختاری از چهره‌های اصلی تبلیغاتی آن هستند. شلبیت همچنین صدها میلیون دلار به بایننس منتقل کرده است. نهاد تنظیم مقررات دارایی‌های مجازی دبی فعالیت بدون مجوز شلبیت را ممنوع کرده است.
+‏
+‏رویترز تاکید کرد نتوانسته ثابت کند سپاه مستقیما شلبیت یا کل شبکه قمار را اداره می‌کند. سبحانی و مختاری نیز ارتباط با پول‌شویی، سپاه یا حکومت را رد کرده و گفته‌اند شلبیت و کیوان‌پور را نمی‌شناسند.
+‏متن کامل گزارش را اینجا بخوانید
+‏
+‏https://iranintl.com/202607311839
+03:14
+1405/05/10
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 CNN : 
 ‏CENTCOM is preparing for a two-week period of heavy bombing of missile sites.
+‏
+‏@GeoPWatch
 03:13
 1405/05/10
 
@@ -8,7 +37,7 @@ src :@GeoPWatch
 
 
 src :@naya_foriraq
-‏إغلاق جزئي في مطار دنفر الدولي بسبب تهديد أمني محتمل
+‏🇺🇸إغلاق جزئي في مطار دنفر الدولي بالولايات المتحدة الأمريكية بسبب تهديد أمني محتمل.
 03:12
 1405/05/10
 
@@ -1194,19 +1223,6 @@ src :@mohem_mat
 ‏
 ‏او پیش‌تر در روز جمعه به خبرنگاران گفت که قصد دارد حملات سنگین نظامی را از سر بگیرد تا حکومت را وادار کند پای میز مذاکره بیاید. ترامپ پیش‌بینی کرد که اگر آمریکا به‌اندازه کافی به ایران ضربه بزند، حکومت تندرو سرانجام تسلیم می شود
 01:19
-1405/05/10
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇪🇺🇺🇦🪖⚡️ — The Pentagon is preparing to hand leadership of the U.S.-led NATO Security Assistance Group in Wiesbaden, Germany, to another NATO member, marking another step in the U.S. shifting greater responsibility for Ukraine support to European allies, according to POLITICO.
-‏
-‏➡️ The transition is expected to take up to a year and will not interrupt military aid to Ukraine, with U.S. European Command remaining involved through an American deputy commander. The Security Assistance Group coordinates the delivery of military equipment to Ukraine and oversees the training and logistical support of Ukrainian forces.
-‏
-‏➡️ NATO officials said the move reflects allies taking on greater responsibility, while a Ukrainian official said it reduces the risks posed by political uncertainty in the United States. However, the Ukrainian official also expressed concern that NATO's bureaucracy could slow assistance, noting that no ally can fully replace U.S. satellite intelligence, targeting capabilities, and heavy airlift logistics.
-01:18
 1405/05/10
 
 
@@ -5388,25 +5404,6 @@ src :@intelslava
 
 
 
-src :@intelslava
-‏🇫🇮🇸🇪🇪🇺❌🇪🇸 — Finland has also expressed support for immediate Schengen restrictions on Spain, while Sweden's PM has said that they are an option if Spain doesn't bring the situation under control.
-‏
-‏@IntelSlava
-16:06
-1405/05/09
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺🇺🇦⚡️ — The process of dispersing explosive ammunition across the residential area in Khmelnytskyi.  Ukrainian channels are calling this a "controlled detonation of old ammunition."  @Intelslava
-16:02
-1405/05/09
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏ایالات متحده، یک ماهواره به نام NROL-95 را از پایگاه کاناورال پرتاب کرد!!! 
@@ -6811,13 +6808,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 03:27
-1405/05/09
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏The same new variant of the Haj Qassem was used once again, equipped with a new adapter installed between the warhead and the missile's solid-fuel booster, along with a redesigned single-cone warhead.
-03:13
 1405/05/09
