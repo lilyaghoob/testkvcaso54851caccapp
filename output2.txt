@@ -1,3 +1,81 @@
+src :@MilitiaNews
+[عکس]
+12:32
+1405/05/09
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇧🇷🇺🇸 Brazil's President Lula da Silva says US is attempting to interfere with the country's election.
+‏
+‏@BRICSNews
+12:31
+1405/05/09
+
+
+
+
+src :@MilitiaNews
+[عکس]
+‏رویترز: به گزارش رسانه دولتی ایران، عباس عراقچی، وزیر امور خارجه ایران از همتایان اروپایی خود در بلغارستان و قبرس خواست از استفاده از سرزمین های خود برای عملیات نظامی آمریکا علیه ایران جلوگیری کنند.
+‏
+‏عراقچی از موافقت بلغارستان برای استقرار موقت هواپیماها و پرسنل نفتکش KC-135 آمریکا انتقاد کرد و نسبت به حمایت از اقداماتی که تهران آن را خصمانه می داند هشدار داد. او همچنین نگرانی‌هایی را در مورد استفاده احتمالی از پایگاه بریتانیایی RAF Akrotiri در قبرس برای عملیات ایالات متحده مطرح کرد.
+‏
+‏وزیر امور خارجه ایران از کشورهای اروپایی خواست از دخالت در فعالیت‌های نظامی که می‌تواند تنش‌ها با تهران را تشدید کند خودداری کنند و بر رویکردی مستقل‌تر از سوی دولت‌های اروپایی تاکید کرد.
+‏
+‏@MilitiaNews
+12:31
+1405/05/09
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏🇦🇿🇬🇧🇨🇾🇮🇷 — Cypriot Police have arrested Rashad Sultanov, a 44-year-old dual Azerbaijani-British citizen, on suspicion of spying on RAF Akrotiri Air Base in Cyprus and sharing information with the IRGC.
+‏
+‏@TheWarReporter
+12:29
+1405/05/09
+
+
+
+
+src :@mohem_mat
+‏شبکه ۱۲ اسرائیل گزارش داده است
+‏
+‏ طی هفته‌های اخیر و هم‌زمان با تشدید تنش‌ها میان ایران و آمریکا و حملات ایالات متحده، چندین نشست محرمانه میان مقام‌های ارشد امارات و اسرائیل در یک کشور ثالث برگزار شده است.
+‏
+‏براساس این گزارش، هدف از برگزاری این نشست‌ها، هماهنگی مواضع و بررسی اقدامات مشترک در قبال ایران بوده است. محل برگزاری دیدارها نیز به‌دلیل ملاحظات امنیتی فاش نشده است.
+‏
+‏شبکه ۱۲ نوشت مقام‌های امارات در این نشست‌ها مخالفت قاطع خود را با تفاهم‌نامه ایران و آمریکا اعلام کرده و آن را تلاشی از سوی تهران برای خرید زمان و بهبود وضعیت اقتصادی، بدون ارائه امتیازات واقعی، توصیف کرده‌اند.
+‏
+‏همچنین دو طرف درباره گسترش همکاری‌ها و افزایش هماهنگی در مجامع بین‌المللی با هدف تشدید فشار بر ایران گفت‌وگو کرده‌اند؛ بااین‌حال، توافق شده است که هرگونه اقدام در این زمینه تنها با هماهنگی ایالات متحده انجام شود./ جماران
+‏
+‏@sharghdaily
+12:29
+1405/05/09
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇰🇼🇮🇷 WSJ: The Iran war has strained the long-standing US-Kuwait defence relationship, as Tehran has pummelled Kuwait with hundreds of missiles and drones targeting its infrastructure. 
+‏
+‏The US military footprint, once seen as a guarantee of security, has drawn repeated Iranian strikes, including one in March that killed six American servicemembers.
+‏
+‏Washington is rethinking the scope of its large troop presence in Kuwait, even as Kuwaiti officials still need a firm commitment of US support.
+‏
+‏@wfwitness
+12:27
+1405/05/09
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴تابوت نیرو های کشته شده سپاه بر اثر حملات آمریکا و عربستان به عراق، از راه گذرگاه مهران، وارد ایران شدند.
@@ -1333,18 +1411,6 @@ src :@IranintlTV
 
 
 
-src :@wfwitness
-‏⚡️🇸🇦🇸🇾 SPA: Saudi Crown Prince Mohammed bin Salman received a phone call from Syrian Interim President Al Sharaa, who condemned the attempted targeting of Saudi oil facilities by Iran-backed militias in Iraq and reaffirmed Syria’s support for the Kingdom’s security and sovereignty.
-‏
-‏The two leaders also discussed bilateral relations, ways to strengthen cooperation, and reviewed regional and international developments, including ongoing efforts to de-escalate tensions and enhance regional security and stability.
-‏
-‏@wfwitness
-10:50
-1405/05/09
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷/🇵🇸 NOTE: The report by Barak Ravid on Axios about the IRGC advising Hamas not to disarm in Gaza is completely made up
@@ -1654,22 +1720,6 @@ src :@Artemis_Force
 ‏این دومین بار در طی چند مدت اخیر هست که شناور بدون سرنشین Lightfish شرکت آمریکایی «Seasats» با موفقیت از ناو های چینی تصویر برداری می‌کند و هر بار نیز نزدیک تر از بار قبل می‌شود، سری گذشته Lightfish اولین عبور هوشمند از تنگه تایوان را به پایان رساند و از ناو تایپ ۵۶ نیرو دریایی ارتش خلق چین تصویر برادری کرده بود.
 ‏
 ‏@artemis_force
-09:48
-1405/05/09
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏رسانه‌های ایران با انتشار تصاویری گزارش دادند تابوت‌های پنج عضو سپاه پاسداران که در حملات آمریکا و عربستان سعودی به مواضع گروه‌های شبه‌نظامی مورد حمایت جمهوری اسلامی در عراق کشته شده بودند، از طریق مرز مهران وارد ایران شد.
-‏
-‏رسانه‌ها نوشتند این تابوت‌ها از مرز مهران به ایران منتقل شدند.
-‏
-‏ساعاتی پس از حملات آمریکا و عربستان سعودی به عراق، برخی رسانه‌های ایران و کانال‌های تلگرامی وابسته به حکومت از کشته شدن چهار عضو سپاه پاسداران خبر داده بودند.
-‏
-‏با این حال، جعفر صفری، سرپرست کنسولگری جمهوری اسلامی در کربلا، در یک مصاحبه ویدیویی این گزارش‌ها را تکذیب کرد و گفت ساختمانی که هدف حمله قرار گرفت، «متروکه و خالی از سکنه» بود.
-‏https://iranintl.com/202607319824
 09:48
 1405/05/09
 
@@ -2885,19 +2935,6 @@ src :@rnintel
 
 
 
-src :@selena_updates
-[عکس]
-‏An Israeli man in his 30s was stabbed at the O.Z.O.R.A. music festival in central Hungary and was taken to hospital after suffering serious injuries. 
-‏
-‏Fejér County Police arrested 2 people for assault causing life-threatening bodily harm and said the investigation remains ongoing while additional security measures have been introduced across the festival grounds.
-‏
-‏Authorities have not disclosed a motive or the identities of those involved.
-02:50
-1405/05/09
-
-
-
-
 src :@P_raetorio
 ‏⚜️ترامپ:
 ‏امروز، هیئت صلح به یک توافق تاریخی برای خلع سلاح کامل حماس و تمامی گروه‌های مسلح دیگر در غزه دست یافت. این یک گام عظیم در مسیر برقراری صلح و امنیتی پایدار است.
@@ -3514,19 +3551,6 @@ src :@tglobaleye
 src :@P_raetorio
 ‏ساختمان اطلاعات سپاه شهر اهواز-ساعتی پیش  @P_raetorio
 00:32
-1405/05/09
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴رائفی پور پلن نابودی عربستان رو کشف کرد: 
-‏
-‏عراق از شمال حمله کنه و یمن از جنوب
-‏
-‏@MilitarryWorld | Parsa
-00:27
 1405/05/09
 
 
@@ -5886,17 +5910,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@bricsnews
-[ویدئو]
-‏JUST IN: 🇪🇸 Thousands of illegal immigrants seen surging into Spain.
-‏
-‏@BRICSNews
-16:57
-1405/05/08
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸 - US GDP growth last quarter is at 1.5%, well short of expectation.
 ‏
@@ -6400,23 +6413,6 @@ src :@Shin_Persian
 
 
 
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇺🇸 🇨🇳 — SpaceX Tightens Supply Chain to Limit Chinese Influence
-‏
-‏SpaceX is intensifying efforts to reduce Chinese involvement in its supply chain, directing suppliers not to employ or assign Chinese nationals at facilities producing parts for the company and requiring the replacement of Chinese-made surveillance and networking equipment, including systems from firms such as Hikvision, over national security concerns.
-‏
-‏The measures form part of broader U.S. efforts to decouple critical technologies from China. In a related Nikkei survey of 67 key product categories, China led in 19 in 2025, up from 18 the previous year, while the U.S. remained first with 23 (down from 27)
-‏
-‏(Source: Nikkei Asia)
-‏
-‏The Global Eye | Subscribe
-13:42
-1405/05/08
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️#BREAKING EU lays out $11.4 billion for 7 AI gigafactories as it aims to catch up with US and China 
@@ -6536,18 +6532,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 12:32
-1405/05/08
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
-‏
-‏Original text in comments
-‏ترجمه خودکار فارسی در بخش نظرات
-‏
-‏𝕏  ·  @shin_persian
-12:29
 1405/05/08
