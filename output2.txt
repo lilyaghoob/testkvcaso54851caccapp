@@ -1,3 +1,30 @@
+src :@selena_updates
+[عکس]
+‏Amr Adib, popular Egyptian TV personality, after Egypt ultimately admitted that 2 vessels at its Damietta seaport were targeted by Iran yesterday: The Egyptian response must be strong, violent, and clear, and directed at the advocates of self-control, wisdom, and extreme silence. Knowing the source of the drones is not impossible; strike it with an even fiercer blow so that we do not receive new drones. This is a case of self-defense, and no one will stop you or hold you accountable under any law. Whoever wishes Egypt ill must pay a heavy price.
+‏
+‏Iran’s Foreign Minister Abbas Araghchi tries to blame Israel for the Iranian attack on Egypt: Egypt is considered a friend and important partner in the region, and its security constitutes an utmost priority for us. We must all remain vigilant toward Israeli schemes and "false flag" operations that aim to undermine regional peace. The threat is clear, shared, and fears Muslim solidarity.
+04:02
+1405/05/09
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏یک مقام «هیات صلح» به رویترز گفت حماس و دیگر گروه‌های مسلح سلاح‌های خود را به کمیته ملی مسئول اداره غزه تحویل خواهند داد.
+‏
+‏ این اظهارات در چارچوب توافقی مطرح شده است که آزادی گروگان‌ها، آتش‌بس و انتقال اداره غزه به یک نهاد غیرحزبی را مد نظر دارد.
+‏
+‏بنا به همین گزارش یک مقام آمریکایی گفت جمهوری اسلامی تلاش کرد حماس را از پذیرش توافق پیشنهادی هیات صلح غزه منصرف کند، اما آمریکا توانست بر این تلاش غلبه کند. 
+‏
+‏این توافق که با میانجیگری آمریکا، مصر، قطر، ترکیه و امارات دنبال می‌شود، افزایش ورود کمک‌های بشردوستانه و ایجاد سازوکاری برای اداره غزه پس از جنگ را هدف قرار داده است.
+‏https://iranintl.com/202607305812
+03:59
+1405/05/09
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Spain Deploys Military to Ceuta Enclave as Thousands Breach Border
@@ -170,14 +197,6 @@ src :@tabzlive
 
 
 
-src :@Alibk3
-‏ترامب:   توصل مجلس السلام اليوم إلى اتفاق تاريخي يقضي بنزع سلاح حركة حماس وجميع الجماعات المسلحة الأخرى في غزة بشكل كامل. هذه خطوة هائلة نحو السلام والأمن الدائمين.
-03:24
-1405/05/09
-
-
-
-
 src :@naya_foriraq
 ‏‏حركة الجهاد الإسلامي: نتحفظ على ما تم الإعلان عنه بشأن اتفاق غزة بصيغته المتداولة.
 03:24
@@ -254,14 +273,6 @@ src :@OSINTWarfare
 [عکس]
 ‏The same new variant of the Haj Qassem was used once again, equipped with a new adapter installed between the warhead and the missile's solid-fuel booster, along with a redesigned single-cone warhead.
 03:13
-1405/05/09
-
-
-
-
-src :@Alibk3
-‏هجوم بطائرات مسيّرة على السليمانية شمال العراق.
-03:08
 1405/05/09
 
 
@@ -404,6 +415,7 @@ src :@rnintel
 
 
 src :@VahidOnline
+[عکس]
 ‏پست ترامپ ترجمه ماشین:
 ‏
 ‏امروز، «هیئت صلح» به توافقی تاریخی برای خلع سلاح کامل حماس و همه گروه‌های مسلح دیگر در غزه دست یافت. این گامی عظیم به‌سوی صلح و امنیت پایدار است.
@@ -1576,18 +1588,6 @@ src :@jangaavaran1390
 ‏📢 کانال:
 ‏https://t.me/AlwaysOnNet
 00:05
-1405/05/09
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، در شبکه اجتماعی ایکس نوشت: «مصر دوست و شریک مهمی در منطقه است و امنیت آن برای ما از بالاترین درجه اهمیت برخوردار است.»
-‏
-‏عباس عراقچی افزود: «همه ما باید نسبت به طرح‌ها و عملیات‌های اسرائیل که با هدف تضعیف صلح منطقه‌ای انجام می‌شوند، هوشیار باشیم.»
-‏https://iranintl.com/202607307074
-00:02
 1405/05/09
 
 
@@ -5350,16 +5350,6 @@ src :@Navy_Iranian
 
 
 
-src :@intelslava
-‏🇦🇺❤⚡️ — In Australia, Telegram is being sued – the messaging app is accused of spreading terrorist propaganda. The platform failed to remove videos of executions and mass killings after being requested to do so, and also did not block accounts, channels, and groups associated with such content, according to the eSafety internet safety regulator.
-‏
-‏@Intelslava
-15:40
-1405/05/08
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏آخرین آمار شهدای نیرو های مسلح پس از پایان عملیات خشم حماسی/جنگ رمضان   سپاه :  ١-شهید حسین عموری  ٢-شهید سعید توکلی‌زاده  ٣-شهید محسن نجاتی   ۴-شهید محمدرضا خزینی  ۵- شهید محمدناصر دلیرور اکبرآبادی  ارتش:   ۶-شهید محمد جواد روانفر  ٧-شهید حمیدرضا دهقان  ٨…
@@ -6629,12 +6619,4 @@ src :@BellumActaNews
 ‏
 ‏The Global Eye | Subscribe
 04:44
-1405/05/08
-
-
-
-
-src :@cataphract1
-‏⚜️گزارشات انفجار در بوشهر، آبادان و کیش و دیگر نقاط در جنوب کشور  🖋#Ethan  📃@Cataphract1
-03:56
 1405/05/08
