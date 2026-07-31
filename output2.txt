@@ -1,16 +1,65 @@
-src :@Navy_Iranian
+src :@MilitarryWorld
+‏🔴ترامپ: حماس خلع سلاح شد   امروز، هیئت صلح به یک توافق تاریخی برای خلع سلاح کامل حماس و تمامی گروه‌های مسلح دیگر در غزه دست یافت. این یک گام عظیم در مسیر برقراری صلح و امنیتی پایدار است.  این توافق، گامی حیاتی برای آن است که غزه سرانجام توسط یک دولت جدید فلسطینی…
+11:17
+1405/05/09
+
+
+
+
+src :@FlightRadar247
+‏شلیک موشک بالستیک از یزد، مرکز ایران.
+11:17
+1405/05/09
+
+
+
+
+src :@Middle_East_Spectator
+‏I suspect it was either a test launch or mass hallucination by Iraqi channels.
+11:16
+1405/05/09
+
+
+
+
+src :@thewarreporter
 [عکس]
-‏نیروی دریایی ایالات متحده، به صورت رسمی C-2A Greyhound را از ناوگان عملیاتی خود خارج کرد.
-‏ 
-‏هواپیمای C-2A Greyhound، متعلق به اسکادران 40 تدارکات نیروی دریایی، روز گذشته در پایگاه هوایی دریایی پنساکولا  فرود آمد و آخرین پرواز خود را به عنوان یک پلتفرم عملیاتی به پایان رساند.
-‏ 
-‏این پلتفرم، که توسط شرکت Grumman Aircraft Engineering Corporation بر اساس هواپیمای E-2 Hawkeye طراحی شده بود و برای انتقال بار به ناوهای هواپیمابر استفاده می‌شد، برای اولین بار در نوامبر 1960 به پرواز درآمد و در سال 1966 وارد خدمت شد. 
+‏🇦🇿🇬🇧🇨🇾🇮🇷 — Cypriot Police have arrested Rashad Sultanov, a 44-year-old dual Azerbaijani-British citizen, on suspicion of spying on RAF Akrotiri Air Base in Cyprus and sharing information with the IRGC.
 ‏
-‏در طول شش دهه خدمت، هواپیمای C-2A Greyhound بیش از 250,000 فرود در ناوهای هواپیمابر انجام داده، میلیون‌ها سرباز را جابجا کرده و بیش از 45 میلیون کیلوگرم بار حمل کرده است.
+‏@TheWarReporter
+11:16
+1405/05/09
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇺🇸 IRGC Brigadier General Ali Abdollahi:
 ‏
+‏“The Americans and their mercenaries today realized, deep in their souls, that their coffins are part of their equipment in the region. That elder, mentor, and martyred leader had said: ‘The era of hit-and-run is over.’”
 ‏
-‏@artemis_force
-11:12
+‏@wfwitness
+11:16
+1405/05/09
+
+
+
+
+src :@DEJradio
+[عکس]
+‏👑📌 یادبود ارتشی‌های جانفدای‌ راه‌آزادی؛
+‏نادر مومنی آبان ۹۸ با سه گلوله کشته شد
+‏
+‏هشتم امرداد زادروز نادر مومنی از افسران میهن‌دوست نیروی زمینی ارتش و جانباز دوران جنگ ایران و عراق بود. 
+‏
+‏نادر در نخستین روز خیزش آبان خونین ۹۸ به خیابان آمد و با سه گلوله جنگی کشته شد؛ او‌ سابقه حضور سه سال حضور مستمر در جبهه‌های جنگ داشت.
+‏
+‏تابلوی برق کنار «خیابان معلم» شهرستان شهریار جایی است که او مورد اصابت گلوله قرار گرفت و در دم جان سپرد.
+‏
+‏#علیه_فراموشی #نادر_مومنی #IRGCterrorists #آبان_خونین 
+‏@DEJradio
+11:16
 1405/05/09
 
 
@@ -389,7 +438,7 @@ src :@World_Newsly
 
 
 src :@Middle_East_Spectator
-‏4-6 ballistics
+‏2 ballistics at least
 10:54
 1405/05/09
 
@@ -465,14 +514,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 10:50
-1405/05/09
-
-
-
-
-src :@naya_foriraq
-‏إطلاق من ايران
-10:49
 1405/05/09
 
 
@@ -2769,15 +2810,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇮🇱 No this is not snow but ashes spreading across towns outside the security zone following the IDF detonation in Beaufort.  @wfwitness
-01:18
-1405/05/09
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏The Special Forces of the Syrian Military has begun training on night warfare operations utilizing advanced night vision systems.
@@ -3567,16 +3599,6 @@ src :@bricsnews
 
 
 
-src :@MilitarryWorld
-‏🔴حیدر العبودی، سخنگوی دولت عراق، اعلام کرد دولت این کشور هیچ‌گونه اطلاع قبلی از حملات انجام‌شده به خاک عراق نداشته است
-‏
-‏@MilitarryWorld | Parsa
-23:20
-1405/05/08
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏توضیحاتی وجود ندارد 
@@ -3598,17 +3620,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 23:15
-1405/05/08
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏2015: A Saudi-led coalition to attack Yemen
-‏
-‏2026: A Saudi-led coalition to defend Saudi Arabia from Yemen.
-23:14
 1405/05/08
 
 
@@ -5400,14 +5411,6 @@ src :@thewarreporter
 
 
 
-src :@thewarreporter
-‏🇮🇱🇮🇷 — The Israeli security agency Shin Bet and Israeli Police announced the arrest of Amir Hisham Muhammad Titi, a 34-year-old Israeli resident of the Galilee, on suspicion of carrying out intelligence-gathering tasks on behalf of Iranian intelligence.  According…
-18:05
-1405/05/08
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏هم‌زمان با صدمین سالروز تولد احمد شاملو، مراسم رونمایی از مجموعه ۱۷ جلدی آثار منتشر شده این شاعر و نویسنده معاصر ایران که قرار بود در کتاب‌فروشی چشمه البرز کرج برگزار شود، به گفته نشر چشمه «به دستور مقامات» لغو شد. این ناشر در صفحه اینستاگرام خود نوشت: «قرار بود امروز در کتاب‌فروشی چشمه البرز در کرج از مجموعه ۱۷ جلدی منتشرنشده‌های احمد شاملو رونمایی کنیم... نگذاشتند که بشود.»
@@ -6402,22 +6405,6 @@ src :@DEJradio
 
 
 
-src :@DEJradio
-[عکس]
-‏💣🔺 کشته‌شدن یک کارمند در حمله جمهوری اسلامی به ساختمان یک شرکت چینی در کویت
-‏
-‏وزارت دفاع کویت اعلام کرد حمله جمهوری اسلامی به ساختمانی متعلق به یک شرکت چینی در شمال این کشور، یک کشته بر جا گذاشته است.
-‏سخنگوی وزارت دفاع کویت گفت این حمله روز پنج‌شنبه انجام شد و در پی اصابت آن به ساختمان شرکت چینی، یکی از کارکنان کشته شد.
-‏به گفته این مقام کویتی، ساختمان هدف‌قرارگرفته نیز در این حمله به‌شدت آسیب دیده است.
-‏
-‏#انفجار #کویت
-‏@DEJradio
-11:58
-1405/05/08
-
-
-
-
 src :@warmonitors
 ‏⚡️ An Iranian strike has hit a Chinese firm's building, killing a worker, Kuwait’s military says
 ‏
@@ -6527,16 +6514,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/08/405830/
 11:18
-1405/05/08
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‌‏ ‌‏ ‏ 
-‏کدام صلح؟
-‏
-‏طرح از س. روزبه
-11:15
 1405/05/08
