@@ -1,3 +1,55 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏🔴پنج فروند تانکر سوخت‌رسان آمریکایی در آسمان خاورمیانه در حال پرواز هستند.
+23:55
+1405/05/09
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴پرزیدنت ترامپ:من دارم در مورد ایران کاری رو انجام میدم که از چیزی که قبلا میگفتم بسیار بزرگتره. قبلا می خواستم برم نیروی نظامیشون رو نابود کنم بر گردم.
+‏ولی الان فهمیدم اگه بخوام اینکارو بکنم، نیاز به یک محافظت و ماندگاری داریم. چون در غیر این صورت دوباره همه چیو میسازن.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+23:55
+1405/05/09
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 An explosion was observed in Haddatha, southern Lebanon, as a result of Israeli demolition activity.
+‏
+‏@wfwitness
+23:53
+1405/05/09
+
+
+
+
+src :@intelslava
+‏🇺🇳🇷🇺⚡️ — NATO is considering deploying additional US nuclear weapons in Europe due to the threat from Russia — DPA
+‏
+‏The discussion primarily concerns non-strategic nuclear weapons — they are less powerful than strategic ones and are intended for strikes against enemy troops, airfields, ports, and command centers, delivered by aircraft or short-range missiles.
+‏
+‏Currently, according to expert estimates, there are only about 100 US B61-12 bombs in Europe at six airbases in Germany, Belgium, Italy, the Netherlands, and Turkey — including at the German base Büchel, from where, if necessary, they can be used by Luftwaffe aircraft.
+‏
+‏NATO Secretary General Mark Rutte did not rule out an increase in the number of US nuclear weapons in Europe.
+‏
+‏According to him, the alliance must ensure that no one can attack with nuclear weapons without facing the possibility of a response.
+‏
+‏Nuclear expert Robert Peters from the Heritage Foundation clarified: the optimal solution would be to deploy an additional 100–150 non-strategic warheads, as Russia has at least a tenfold advantage in this type of weapon.
+‏
+‏@IntelSlava
+23:52
+1405/05/09
+
+
+
+
 src :@MilitarryWorld
 ‏🔴ترامپ: میخواید ببینید همه چیز به سرعت به پایان میرسه؟ به این دیوانه‌ها سلاح‌های هسته‌ای بدید، خیلی سریع به پایان میرسه.
 ‏
@@ -86,8 +138,8 @@ src :@mohem_mat
 
 src :@World_Newsly
 [عکس]
-‏🔴پرزیدنت ترامپ: اوکراین کشور بسیار غنی است. خاکش جوری حاصل خیزه که کم نظیره. 
-‏ما باهاشون قراردادی رو امضا کردیم که مربوط به خاک کم نظیرشونه. ما بر اساس این قرارداد هر وقت بخوایم، می توانیم به اوکراین برویم و هر چی دوست داریم از آنجا برداریم.
+‏🔴پرزیدنت ترامپ: اوکراین کشور بسیار غنی است. خاکش جوری حاصل خیزه و کم نظیره. 
+‏ما باهاشون قراردادی رو امضا کردیم که مربوط به عناصر کم نظیرشونه. ما بر اساس این قرارداد هر وقت بخوایم، می توانیم به اوکراین برویم و هر چی دوست داریم از آنجا برداریم.
 ‏
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
@@ -704,18 +756,6 @@ src :@World_Newsly
 
 src :@jangaavaran1390
 ‏وال استریت ژورنال می‌گوید که کشورهای عربی منطقه ترامپ را مورد انتقاد شدیدی قرار دادند زیرا معتقدند هیچ استراتژیک درستی در مقابله با ایران ندارد،و تنها آنها را تبدیل به هدف برای ایران کرده است
-22:44
-1405/05/09
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ایتالیا توافق شنگن را به طور رسمی با اسپانیا به حالت تعلیق درآورد.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 22:44
 1405/05/09
 
@@ -1572,16 +1612,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@tabzlive
-‏🇮🇱🇱🇧⚡️ — Since 2 March, Lebanon’s National Council for Scientific Research (CNRS) and the National Center for Natural Hazards and Early Warning have recorded 1,038 explosions, mostly linked to Israeli demolitions in southern Lebanon. 
-‏
-‏➡️ Three of the blasts were strong enough to be detected by seismic monitoring stations, measuring above magnitude 3.2 on the Richter scale.
-21:24
-1405/05/09
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏سنتکام در بخش فکت چک خود بار دیگر ادعای سپاه پاسدارن مبنی بر بسته بودن تنگه هرمز را رد کرد…
@@ -1641,15 +1671,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:18
-1405/05/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇹🇪🇸🇲🇦⚡️ — NEW: Italy has suspended the Schengen free movement with Spain amid the migrant crisis in Ceuta.
-21:13
 1405/05/09
 
 
@@ -2270,41 +2291,6 @@ src :@samueltarikh
 ‏ترامپ به فاکس نیوز:
 ‏تنها کاری که باید انجام داد، ادامه جنگ با ایران است.
 20:21
-1405/05/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏CENTCOM:
-‏
-‏The Strait of Hormuz remains open for commercial vessel transit. Iran does not control it. Thousands of ships have sailed through the international waterway over the past four months.
-20:20
-1405/05/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Spanish PM Pedro Sánchez:
-‏
-‏Solidarity and empathy are optional. 
-‏
-‏Respect for European treaties and data is not.
-‏👇🏼
-‏
-‏Number of irregular entries between 2021 and 2026 according to Frontex:
-‏
-‏Via Italy: 478,600
-‏Via the Western Balkans: 340,600
-‏Via Greece: 259,800
-‏Via Spain: 234,760
-‏Via the eastern border: 48,000
-‏
-‏This is not the time to divide. It is the time to continue building a strong and united EU.
-20:19
 1405/05/09
 
 
@@ -3386,14 +3372,6 @@ src :@KayhanLondonChannel
 ‏- مرتضی افقه اقتصاددان و استاد دانشگاه می‌گوید مسئله اصلی، پرداخت یا عدم پرداخت یارانه نیست؛ بلکه کیفیت حکمرانی اقتصادی، شیوه شناسایی گروه‌های هدف، منابع تأمین مالی و توان دولت در مهار تورم است. در چنین شرایطی، حتی مؤثرترین سیاست‌های حمایتی نیز اگر در کنار کنترل تورم و اجرای کارآمد قرار نگیرند، به مرور زمان اثر خود را از دست خواهند داد.
 ‏
 ‏https://kayhan.london/1405/05/09/405893/
-19:01
-1405/05/09
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🇪🇸🇲🇦 موج هزاران مهاجر از مراکش به خاک اروپا؛ سئوتا زیر فشار  ⚜سئوتا یک شهر کوچک اسپانیایی روی خاک آفریقاست که تنها مرز زمینی اتحادیه اروپا با آفریقا محسوب می‌شود و همین ویژگی آن را به نقطه داغ مهاجرت تبدیل کرده.در ۳۰ ژوئیه صدها نفر با شنا از سمت مراکش وارد…
 19:01
 1405/05/09
 
@@ -4998,21 +4976,6 @@ src :@bricsnews
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Ukraine has lost around 50,000 soldiers in the fighting, while Russia has lost as many as 700,000 soldiers, Zelenskyy stated in an interview with American news channel Fox News.
-‏
-‏In February of this year, Zelenskyy stated that 55,000 Ukrainian soldiers had been killed. Apparently, some have managed to resurrect in the past six months.
-‏
-‏In the interview, Zelenskyy also mentioned that, in addition to the dead, there is a "huge number" of missing persons in Ukraine, but he declined to provide a specific figure. Convenient.
-‏
-‏@Intelslava
-13:02
-1405/05/09
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏فرانسه اولین هلیکوپتر NH90 Standard 2 را برای نیروهای عملیات ویژه دریافت کرد.
@@ -6321,12 +6284,4 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 23:56
-1405/05/08
-
-
-
-
-src :@samueltarikh
-‏گزارش ها از تجمع بزرگ نیرو های زمینی وابسته به عربستان در شمال یمن، منابع عربی از احتمال حمله زمینی قریب‌الوقوع نیروهای وابسته به امارات و عربستان به حوثی ها خبر می‌دهند.
-23:53
 1405/05/08
