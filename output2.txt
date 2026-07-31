@@ -1,3 +1,16 @@
+src :@ClashReport
+[عکس]
+‏Spain Deploys Military to Ceuta Enclave as Thousands Breach Border
+‏
+‏Spain has mobilized ground, air, and naval support to reinforce border security in Ceuta after thousands of migrants bypassed fences and swam onto the North African enclave's shores.
+‏
+‏READ MORE
+03:56
+1405/05/09
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏محمد بن سلمان، ولیعهد پادشاهی عربی سعودی، و حمد بن عیسی آل خلیفه، پادشاه بحرین، در تماس تلفنی درباره تشکیل ائتلاف چندملیتی دفاع دریایی، آخرین تحولات منطقه و تلاش‌های جاری برای تقویت امنیت و ثبات منطقه گفت‌وگو کردند.
@@ -593,15 +606,6 @@ src :@bricsnews
 
 
 
-src :@Alibk3
-[عکس]
-‏‏طائرة الإنذار المبكر E-3G تواصل التحليق بالقرب من الكويت، بالتزامن مع تحرك عدد من طائرات التزويد بالوقود الأميركية القادمة من تل أبيب والرياض
-02:09
-1405/05/09
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴ترامپ: حماس خلع سلاح شد
@@ -708,17 +712,6 @@ src :@World_Newsly
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
 01:57
-1405/05/09
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ترامب: 
-‏
-‏توصل مجلس السلام اليوم إلى اتفاق تاريخي يقضي بنزع سلاح حركة حماس وجميع الجماعات المسلحة الأخرى في غزة بشكل كامل. هذه خطوة هائلة نحو السلام والأمن الدائمين.
-01:56
 1405/05/09
 
 
@@ -3738,19 +3731,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 20:20
-1405/05/08
-
-
-
-
-src :@ClashReport
-[عکس]
-‏US Army Awards Lockheed Martin $58 Billion Patriot Contract
-‏
-‏The contract, worth up to $58.6 billion for Patriot interceptor missiles, expands production through 2032 as ongoing conflicts in Iran and Ukraine deplete American air defense stockpiles.
-‏
-‏READ MORE
-20:19
 1405/05/08
 
 
