@@ -1,5 +1,100 @@
 src :@tabzlive
 [عکس]
+‏🇨🇳🇺🇸⚡️ — Chinese military-linked researchers have used outputs from OpenAI and Anthropic models to train domestic AI systems through model distillation, helping advance China's defense and security capabilities, Reuters reports.
+‏
+‏➡️ Researchers linked to the People's Liberation Army (PLA) are using U.S. frontier AI models to build smaller, locally deployable systems for applications including surveillance, cyber warfare, tactical decision-making, and content monitoring, despite U.S. efforts to restrict China's access to advanced AI technology.
+‏
+‏➡️ One paper from researchers in PLA Unit 96941, a military intelligence and cyber warfare unit, described using OpenAI's GPT-3.5 to summarize sensitive military source code before training a domestic model to operate entirely within Chinese military networks.
+14:41
+1405/05/09
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇪🇸🇲🇦 There are many arguments that can help explain the shocking videos that came out of Ceuta yesterday, but among them, one points out to the tensions between Spain and the U.S. and American interests inside Spain.   An earlier instance of mass migration…
+14:40
+1405/05/09
+
+
+
+
+src :@Navy_Iranian
+‏قدرت دریایی فقط با ساخت ناو و زیردریایی به دست نمی‌آید؛ بلکه با سرمایه‌گذاری روی زیرساخت‌هایی مانند حوض خشک، اسکله، کارگاه‌های تعمیراتی و زنجیره پشتیبانی شکل می‌گیرد. در همین راستا است که برای مثال ، استرالیا در قالب برنامه AUKUS شرکت Leidos Gibbs & Cox را…
+14:39
+1405/05/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇬🇧🇨🇾🇮🇷⚡️ — A 44-year-old British-Azerbaijani man, Rashad Sultanov, has been arrested in Cyprus on suspicion of conducting hostile surveillance of RAF Akrotiri on behalf of Iran's IRGC, BBC reports.
+‏
+‏➡️ Sultanov, from Islington, north London, is accused of gathering intelligence on the British military base between May 11 and June 22, 2025, and sharing it with the IRGC. 
+‏
+‏➡️ He was arrested by Cypriot police on July 17 and remains in custody pending extradition proceedings.
+14:39
+1405/05/09
+
+
+
+
+src :@MilitiaNews
+[عکس]
+‏اسرائیل اعلام کرد که احمد حسین محمد کفینا، از فرماندهان ارشد گروه گردان های مجاهدین در نوار غزه را در حمله این هفته در جنوب غزه کشته است.
+‏
+‏کفینه به عنوان فرمانده منطقه مرکزی غزه این گروه بود.
+‏
+‏این همچنین گزارش قبلی WFW در مورد حمله ارتش اسرائیل که او را هدف قرار داده بود تأیید می کند.
+‏
+‏@MilitiaNews
+14:39
+1405/05/09
+
+
+
+
+src :@GeoPWatch
+‏🛶🇪🇸👮 - Spain's enclave of Ceuta has declared an "Absolute Migratory Emergency" after a massive surge of illegal migrants flooded the Spanish enclave yesterday and breached the border fence today without control.  Ceuta’s government demanded that Spain declare…
+14:38
+1405/05/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇪🇺🇪🇸🇲🇦⚡️ — EU Commission President Ursula von der Leyen:
+‏The images coming from Ceuta are unacceptable.
+‏
+‏We cannot allow anyone to come to our Union without abiding by our rules.
+‏
+‏Dangerous crossings must stop immediately. Smuggling networks must be dismantled. And returns must be swift, as our rules allow.
+14:38
+1405/05/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏EU’s von der Leyen:
+‏
+‏The images coming from Ceuta are unacceptable.
+‏
+‏We cannot allow anyone to come to our Union without abiding by our rules.
+‏
+‏Dangerous crossings must stop immediately. Smuggling networks must be dismantled. And returns must be swift, as our rules allow.
+14:37
+1405/05/09
+
+
+
+
+src :@tabzlive
+[عکس]
 ‏🇨🇺⚡️ — Cuba announced new measures to open parts of its state-run economy to private businesses, including easing land-use restrictions, allowing companies to import fuel and medicines, and authorizing private tourism operators, as the country faces increased U.S. pressure.
 ‏
 ‏President Miguel Díaz-Canel said the reforms are not intended to satisfy Washington and stressed that Cuba will not pursue large-scale privatization. 
@@ -1989,25 +2084,6 @@ src :@Mena_Live
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇵🇸🇺🇲🇮🇱 The National Committee for the Administration of Gaza has welcomed the progress on the roadmap, saying it represents an important milestone for Palestinians in the Strip.
-‏
-‏The technocratic committee affirmed its full readiness to assume administrative responsibilities, restore essential services, strengthen the rule of law, and lead recovery and reconstruction efforts.
-‏
-‏The committee said its mission is to serve the people of Gaza through a Palestinian administration guided by the principle of one authority, one law, and one security apparatus, in line with U.S. President Trump’s Gaza plan and UN Security Council Resolution 2803.
-‏
-‏“The task ahead is immense,” the statement said, adding that the committee will work in full coordination with the Board of Peace, the International Stabilisation Force and regional and international partners. 
-‏
-‏“The people of Gaza have waited long enough. The NCAG is ready to assume its responsibilities.”
-‏
-‏@wfwitness
-12:39
-1405/05/09
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️کنفدراسیون فوتبال آسیا (AFC) روز جمعه هشتم مرداد ماه اعلام کرد، در کنار اتحادیه فوتبال اروپا (یوفا) و کنفدراسیون فوتبال آمریکای شمالی، مرکزی و کارائیب (کونکاکاف) در مخالفت با پیشنهاد فیفا برای فروش بخشی از سهام فعالیت‌های تجاری جام جهانی ایستاده است.
@@ -2956,34 +3032,6 @@ src :@mohem_mat
 ‏پاکستان از طرفین می‌خواهد که حداکثر خویشتنداری را به کار گیرند.
 ‏
 ‏@sharghdaily
-10:58
-1405/05/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Cuba is beginning to implement major economic reforms as U.S. sanctions and an oil blockade deepen its crisis.
-‏
-‏The changes would give private businesses more freedom to operate in fuel, agriculture, tourism, and imports of medicine, while allowing some foreign investment. 
-‏
-‏However, President Díaz-Canel says strategic sectors like healthcare, science, culture, and essential services will remain state-controlled.
-‏
-‏Source: Reuters
-10:58
-1405/05/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A British man has been arrested in Cyprus for allegedly spying on the UK’s RAF Akrotiri base for Iran’s Revolutionary Guards.
-‏
-‏He is accused of conducting surveillance and sharing intelligence, and now faces extradition and charges under the UK’s National Security Act.
-‏
-‏Source: BBC
 10:58
 1405/05/09
 
@@ -3970,32 +4018,10 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇷🇺🇰🇵❌🇺🇦 — Ukrainian President Zelensky said Russia used a North Korean ballistic missile (KN-23) to strike the village of Radushne near Kryvyi Rih yesterday night, killing five members of the same family—two parents and their three children.
-‏
-‏➡️ A military source told Reuters that the strike marked the first known use of a North Korean missile in the war since August 2025, suggesting Moscow has received a fresh supply of the weapons.
-05:04
-1405/05/09
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏US President Donald Trump says the Gaza Board of Peace has reached an agreement for the complete disarmament of Hamas and all other armed groups in Gaza.
 05:00
-1405/05/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸❌🇮🇷 — The U.S. Treasury Department has imposed sanctions on six entities and individuals in China, India, Russia, and Iran for supporting Mahan Air, which Washington says acts as a key logistics arm for the IRGC by transporting personnel, weapons, military equipment, and UAV-related materials.
-‏
-‏➡️ One of the sanctioned entities is DadeNegar Startup Studio, which the Treasury described as an IRGC front company that collected the locations of U.S. and Israeli equipment and received requests for strikes on American targets in the Middle East to support Iranian military targeting.
-04:53
 1405/05/09
 
 
