@@ -1,3 +1,16 @@
+src :@World_Newsly
+[عکس]
+‏🔴ژنرال جک کین، جانشین سابق فرمانده نیروی زمینی ارتش آمریکا به فاکس نیوز : 
+‏دولت دونالد ترامپ شواهد فراوانی دارد که نشان می دهد دولت تهران نه تمایلی و نه توانایی برای یک توافق معنادار با آمریکا دارد.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+02:45
+1405/05/11
+
+
+
+
 src :@naya_foriraq
 ‏انفجارات جديدة في أربيل
 02:40
@@ -18,7 +31,7 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇵🇸 A short while ago, an IDF Apache helicopter fired a guided missile directly into the bedroom of an apartment in a residential building in Deir al-Balah, central Gaza.
 ‏
-‏Local sources reported that the strike killed Kamal Abu Mu'eileq and his wife.
+‏According to local sources, the strike killed Kamal Abu Mu'eileq, who was reportedly the the head of Hamas' Administrative Authority, along with his wife.
 ‏
 ‏@wfwitness
 02:34
@@ -684,14 +697,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 01:03
-1405/05/11
-
-
-
-
-src :@World_Newsly
-‏🔴 گزارش‌ها از احتمال سفر عاصم منیر به تهران خبر می‌دهند  برخی گزارش‌ها حاکی از آن است که عاصم منیر، فرمانده ارتش پاکستان، ممکن است طی روزهای آینده به تهران سفر کند.  ✍🏻 Dangerman ▪️@World_Newsly
-01:00
 1405/05/11
 
 
@@ -7302,14 +7307,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 03:01
-1405/05/10
-
-
-
-
-src :@Mena_Live
-‏Iran-U.S. Talks stall as the U.S. continues to mobilize aerial power and air defense capabilities in the Middle East.
-‏
-‏@Mena_Live
-02:44
 1405/05/10
