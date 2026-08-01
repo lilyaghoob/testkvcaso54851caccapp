@@ -4891,34 +4891,6 @@ src :@bricsnews
 
 
 
-src :@defence_news
-[عکس]
-‏📱 سرویس های یک ماهه OPENVPN ❤️
-‏
-‏
-‏🚀 پلن‌های ویژه نامحدود:
-‏
-‏👤 تک‌کاربره — 350 تومان
-‏
-‏👥 دوکاربره — 550 تومان
-‏
-‏ 👥سه‌کاربره — 750 تومان
-‏
-‏🟢 بدون محدودیت حجم 
-‏📱 مخصوص دانلود و کارهای با حجم بالا و پهنای باند اختصاصی
-‏
-‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
-‏
-‏
-‏📩 برای خرید و دریافت سریع:
-‏
-‏😎@CFoxSupport
-19:52
-1405/05/09
-
-
-
-
 src :@cataphract1
 ‏⭕️پیت هگست(پیت ورزشکار)، وزیر دفاع آمریکا، اعلام کرد: «ما متعهد هستیم با همکاری کنگره، بودجه‌ای به ارزش ۱.۵ تریلیون دلار تأمین کنیم، اما این شیوه با روش‌های گذشته تأمین مالی وزارت دفاع متفاوت است. تاکنون ۷۵ میلیارد دلار سرمایه‌گذاری بخش خصوصی از سوی شرکت‌های صنایع دفاعی برای احداث کارخانه‌های جدید، خرید تجهیزات نو و راه‌اندازی خطوط مونتاژ تازه به‌منظور تولید سریع‌تر مهمات آینده انجام شده و این روند در نهایت موجب صرفه‌جویی در هزینه‌های پرداختی از سوی مالیات‌دهندگان خواهد شد.»
 ‏✒️#LT
@@ -7023,30 +6995,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 08:55
-1405/05/09
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇰🇼🇮🇷 — US officials told The Wall Street Journal:
-‏
-‏"The Pentagon has reduced its presence in Kuwait in response to Iranian attacks on U.S. bases, in an effort to minimize risks. 
-‏
-‏The Pentagon was already studying the possibility of reducing its forces before the war with Iran broke out".
-‏
-‏@TheWarReporter
-08:50
-1405/05/09
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US officials told The Washington Post:
-‏
-‏"Our intelligence suggests that Iran is behind a cyberattack on the water system in Minnesota".
-‏
-‏@TheWarReporter
-08:47
 1405/05/09
