@@ -18,6 +18,18 @@ src :@rnintel
 
 
 
+src :@IranintlTV
+[عکس]
+‏«سازمان هماهنگی دریایی»، متعلق به حوثی‌های یمن، گزارش‌ها مبنی بر قصد این گروه نیابتی تهران برای اعمال عوارض بر کشتی‌هایی را که از باب‌المندب عبور می‌کنند، تکذیب کرد.
+‏
+‏به گزارش خبرگزاری رویترز، این گروه شبه‌نظامی گفت عبور از این تنگه همچنان رایگان است.
+‏https://iranintl.com/202608013219
+04:11
+1405/05/10
+
+
+
+
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇮🇷 — The US and Israel are planning what could be one of the most severe attacks yet on Iran's energy infrastructure, potentially as early as this weekend.  — CBS | @TheWarReporter
 04:10
@@ -1393,16 +1405,6 @@ src :@MilitarryWorld
 src :@rnintel
 ‏⚽️⚡️- All 55 UEFA member countries have agreed to boycott the World Cup, as well as every other FIFA competitions, if G. Infantino's plans to sell stakes in the tournament to private investors goes through.
 01:25
-1405/05/10
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: جنگ جنگ تا پیروزی!
-‏@iranintlTV
-01:22
 1405/05/10
 
 
