@@ -3532,18 +3532,6 @@ src :@warmonitors
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ اسکات بسنت، وزیر خزانه‌داری آمریکا، روز جمعه نهم مردادماه، در جریان جلسه کابینه در کمپ‌دیوید، به خبرنگاران گفت که ایالات متحده در «سراسر جهان» در حال جستجو برای یافتن دارایی‌های ایران است و «این پول‌ها به مردم ایران تعلق خواهد گرفت [میرسد]».
-‏
-‏وزارت خزانه‌داری در هفته‌های گذشته با به‌روز کردن فهرست تحریم‌ها، شبکه‌های مالی و پول‌شویی مرتبط با جمهوری اسلامی را هدف قرار داده است.
-‏@indypersian
-21:30
-1405/05/09
-
-
-
-
 src :@mohem_mat
 ‏ادعای تسنیم
 ‏
@@ -6784,23 +6772,4 @@ src :@OSINTWarfare
 ‏
 ‏By the end of the current program, five of Japan's eight Aegis destroyers are expected to be capable of launching Tomahawk missiles: JS Chokai, JS Kirishima, JS Haguro, JS Myoko, and JS Atago.
 03:49
-1405/05/09
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇱🇮🇷 — The U.S. Central Intelligence Agency (CIA) and the Israeli intelligence service Mossad are intensifying efforts to locate Iranian Supreme Leader Mojtaba Khamenei who has not appeared in public since succeeding his father following the February 2026 airstrike.
-‏
-‏Intelligence officials believe Mojtaba Khamenei was seriously injured in the strike, has avoided using phones and computers for more than 150 days, and is hiding in a heavily protected underground facility, possibly in Tehran or near Qom.
-‏
-‏With electronic surveillance producing few leads, intelligence efforts have shifted from cyber collection to human intelligence (HUMINT).
-‏
-‏Former Mossad officials say the Supreme Leader is believed to communicate through multiple layers of unwitting couriers carrying handwritten messages, making infiltration of his inner circle the most viable way to confirm his location — or even whether he is still alive.
-‏
-‏Some intelligence officials suspect the IRGC may be concealing his death, while others believe the Iranian government could be using body doubles to obscure his movements.
-‏
-‏— The Times | @TheWarReporter
-03:34
 1405/05/09
