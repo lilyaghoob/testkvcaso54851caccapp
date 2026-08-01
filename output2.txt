@@ -1,8 +1,90 @@
+src :@P_raetorio
+[عکس]
+‏نتیجه اصابت پهپاد انتحاری‌ گران 4 روسی به مرکز خرده فروشی Nova Poshta در منطقه وینیتسیا اوکراین 
+‏
+‏@P_raetorio
+15:41
+1405/05/10
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏مدیر برنامه‌ریزی تلفیقی شرکت ملی گاز ایران گفت: «در جریان جنگ ۴۰ روزه چهار پالایشگاه گاز کشور آسیب دید و در مقطعی روزانه حدود ۲۳۰ میلیون مترمکعب از ظرفیت پالایش گاز از مدار خارج شد.»
+‏
+‏او اضافه کرد: «بازگشت کامل این ظرفیت دست‌کم دو تا دو سال و نیم زمان می‌برد.»
+‏
+‏پیش‌تر فاطمه مهاجرانی، سخنگوی دولت گفته بود «در حملاتی که در جنگ صورت گرفت، ۲۳۰ میلیون متر مکعب از ظرفیت تولید گاز از دست رفته است.»
+‏https://iranintl.com/202608015327
+15:41
+1405/05/10
+
+
+
+
+src :@defence_news
+[عکس]
+‏🔶 تکنولوژیا...
+‏
+‏@RASTAKHIZ_PERSIAN
+15:40
+1405/05/10
+
+
+
+
+src :@MilitarryWorld
+‏🔴تحلیلگر صداوسیما: 
+‏
+‏اگر ۲ ماه دیگر محاصره را تحمل کنیم و تنگه هرمز را بسته نگه داریم، قیمت نفت در بیش از ۱۵۰ دلار تثبیت خواهد شد و دیگر پایین‌تر از این نخواهد آمد
+‏
+‏@MilitarryWorld | Parsa
+15:40
+1405/05/10
+
+
+
+
+src :@Alibk3
+[عکس]
+‏السفارة الأميركية بالأردن تدعو رعاياها لمغادرة الشرق الأوسط.
+15:40
+1405/05/10
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 تکنولوژیا...
+‏
+‏
+‏@RASTAKHIZ_PERSIAN
+15:39
+1405/05/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇦🇹🇷🇰🇼 Saudi Minister of Foreign Affairs, Faisal bin Farhan, held a phone call with his Turkish counterpart Hakan Fidan. They discussed the developments in the region, emphasized the need to strengthen all diplomatic efforts and to de-escalate the situation in the region. It was also reported that Faisal bin Farhan had a similar conversation with his Kuwaiti counterpart, Sheikh Jarrah Al-Sabah.
+‏
+‏@wfwitness
+15:38
+1405/05/10
+
+
+
+
 src :@GeoPWatch
 [ویدئو]
 ‏🗂 — Dear subs, consider joining The New Dawn folder. The New Dawn is a network of some (17) news channels that will keep you updated about the conflicts around the world.
 ‏
 ‏Join The New Dawn
+‏
+‏@GeoPWatch
 15:38
 1405/05/10
 
@@ -16,6 +98,14 @@ src :@tabzlive
 ‏➡️ China's growing satellite network is improving its real-time intelligence gathering, precision targeting, and tracking of U.S. forces, while advances in its BeiDou navigation system, AI-assisted data analysis, remote sensing, and anti-satellite technologies are strengthening its military capabilities.
 ‏
 ‏➡️ The Pentagon has warned that China's expanding space assets enhance its ability to coordinate military operations and conduct persistent surveillance of U.S. forces, while the State Department has accused Chinese companies of supplying satellite imagery that could assist Iran in targeting American forces.
+15:37
+1405/05/10
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴ایالات متحده تا این لحظه به شهروندانش در عمان اردن اسرائیل و عراق هشدار تخلیه فوری داده است
 15:37
 1405/05/10
 
@@ -2583,18 +2673,6 @@ src :@ClashReport
 
 
 
-src :@IranintlTV
-[عکس]
-‏ابراهیم رضایی، عضو کمیسیون امنیت ملی مجلس، با اشاره به اخباری در خصوص احتمال حمله آمریکا به زیرساخت‌های انرژی در ایران، در شبکه ایکس نوشت: «اگر به ایران ضربه‌ای زده شود، کل منطقه و تاسیسات آن را به عصر حجر بر می‌گردانیم. به نفعتان است که حماقت نکنید.»
-‏
-‏او افزود: «خیال می‌کنند در دو روزی که بازار تعطیل است می‌توانند یک ضربه کاری و سریع بزنند و ما را تسلیم کنند؛ این توهمی است که نتانیاهو در گوش ترامپ خوانده است.»
-‏https://iranintl.com/202608013766
-12:27
-1405/05/10
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇯🇴 — US Embassy in Amman:  "Americans currently in the Middle East should exercise caution and heightened vigilance and should be prepared for flight cancellations, periodic airspace closures, and potential travel disruptions.   Americans in the region should…
 12:27
@@ -2874,7 +2952,7 @@ src :@Artemis_Force
 
 src :@Parvazdaroj
 [عکس]
-‏★اگر به آیرودینامیک جی۳۵ دقت کنیم متوجه میشویم توسعه ای که از روی FC-31 صورت گرفته دقیقا برای ساخت یک هواگرد ناونشین بوده. شکل آیرودینامیکی هواپیمای جی۳۵ به گونه ای طراحی شده که ضمن پایین نگه داشتن RCS بتواند با الزامات فرود روی ناو یعنی پایداری در سرعت های پایین و در لحظه approche روی ناو هواپیمابر کارایی خود را حفظ کرده و خلبان بتواند کنترل مناسبی روی آن داشته باشد.برای دستیابی به این هدف، طراحان تغییرات کلیدی در هندسه و سطوح کنترلی جنگنده اعمال کرده‌اند. از جمله می‌توان به افزایش مساحت بال‌ها اشاره کرد که باعث کاهش سرعت واماندگی در سرعت‌های پایین می‌شود. همچنین، فلپ‌ها و ایریلرون‌ها بزرگ‌تر شده‌اند تا کنترل دقیق‌تری در لحظه‌ی فرود فراهم شود.
+‏★اگر به آیرودینامیک جی۳۵ دقت کنیم متوجه میشویم توسعه ای که از روی FC-31 صورت گرفته دقیقا برای ساخت یک هواگرد ناونشین بوده. شکل آیرودینامیکی هواپیمای جی۳۵ به گونه ای طراحی شده که ضمن پایین نگه داشتن RCS بتواند با الزامات فرود روی ناو یعنی پایداری در سرعت های پایین و در لحظه اپروچ روی ناو هواپیمابر کارایی خود را حفظ کرده و خلبان بتواند کنترل مناسبی روی آن داشته باشد.برای دستیابی به این هدف، طراحان تغییرات کلیدی در هندسه و سطوح کنترلی جنگنده اعمال کرده‌اند. از جمله می‌توان به افزایش مساحت بال‌ها اشاره کرد که باعث کاهش سرعت واماندگی در سرعت‌های پایین می‌شود. همچنین، فلپ‌ها و ایریلرون‌ها بزرگ‌تر شده‌اند تا کنترل دقیق‌تری در لحظه‌ی فرود فراهم شود.
 ‏
 ‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
 12:02
@@ -3031,17 +3109,6 @@ src :@rnintel
 ‏
 ‏These same sources explain that, coinciding with the monarchy’s celebrations, the intelligence services warned of the ‘likelihood’ of a ‘gesture of magnanimity’ on the part of King Mohammed VI. These initial warnings, however, were soon followed by all the crossings on foot that had previously been taking place from Castillejos and the mass arrival of coaches from various parts of the neighbouring country. Within ten days, around 1,000 migrants had managed to reach the autonomous city after crossing the sea. Intelligence services interpreted these flows as ‘test runs’ by Morocco and once again alerted the government." - The Objective.
 11:53
-1405/05/10
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏ارتش کویت اعلام کرد به دلیل سقوط ترکش‌هی یک پهپاد سرنگون شده ایرانی تاسیسات یک شرکت در جزیره بوبیان آسیب دید.
-‏
-‏@P_raetorio
-11:52
 1405/05/10
 
 
@@ -3772,16 +3839,6 @@ src :@intelslava
 
 
 
-src :@WAR_ROOM_NEWS
-‏ای‌بی‌سی:
-‏
-‏دو مقام آمریکایی گفتند که برنامه‌ریزی برای حملات احتمالی به ایران به طور جدی آغاز شده است، اما این برنامه‌ها ممکن است در هر زمان تغییر کنند.یک منبع دیگر نیز گفت که حملات احتمالی با مقامات اسرائیلی مورد بحث قرار گرفته است، اما مشخص نیست که آیا اسرائیل به طور مستقیم در این عملیات مشارکت خواهد کرد یا خیر.
-10:42
-1405/05/10
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US officials told CNN:
 ‏
@@ -3840,17 +3897,6 @@ src :@cataphract1
 ‏⚜ دقایقی پیش کویت گزارش داد که مورد حمله موشکی قرار گرفته است، اگرچه در طول شب گذشته حمله‌ای از سوی آمریکا انجام نشده بود؛ CNN گزارش داد که آمادگی‌ آمریکایی ها برای حمله به تاسیسات هسته‌ای، از جمله کوه کلنگ نیز تسریع شده است.
 ‏
 ‏📃@Cataphract1
-10:39
-1405/05/10
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴 در پی صحبت‌های احتمالی‌ای که از جنگ زده شد، قیمت نفت از ۹۰ دلار عبور کرد.
-‏
-‏@MilitarryWorld | Parsa
 10:39
 1405/05/10
 
@@ -4412,14 +4458,6 @@ src :@Alibk3
 
 
 
-src :@Alibk3
-‏الكويت
-09:55
-1405/05/10
-
-
-
-
 src :@mohem_mat
 ‏سی‌ان‌ان به نقل از مقامات آمریکایی:
 ‏
@@ -4492,15 +4530,6 @@ src :@rus_cosmos
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇴🇲🇮🇷 UKMTO reports a tanker was struck by an unknown projectile about 11 nautical miles northeast of Lima, Oman. The attack damaged the vessel’s engine room, leaving it not under command. No casualties have been reported.  @wfwitness
-09:46
-1405/05/10
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏یک حادثه دریایی دیگر در منطقه خصب، نزدیک آب های دریایی عمان
@@ -4509,18 +4538,6 @@ src :@mohem_mat
 ‏
 ‏@Squad_iran | #T
 09:43
-1405/05/10
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇸🇻🇪 FT: U.S.-backed talks between Venezuela’s government and opposition are set to begin this weekend to discuss a roadmap for new presidential elections. 
-‏
-‏The negotiations will focus on agreeing to an election timetable, electoral procedures, and the possible release of remaining political prisoners, though divisions have already emerged within both the government and opposition over the talks.
-‏
-‏@wfwitness
-09:42
 1405/05/10
 
 
@@ -7046,25 +7063,6 @@ src :@tglobaleye
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔻جزئیات جلسه مهم کابینه دولت ترامپ در کمپ دیوید
-‏
-‏ ▪️کمتر از یک ساعت دیگر، ترامپ برای اولین بار در تاریخ ایالات متحده میزبان جلسه کابینه دولت آمریکا در "کمپ دیوید" با پخش زنده تلویزیونی خواهد بود.
-‏
-‏▪️کابینه ترامپ برای یک جلسه استراتژیک مهم در حالی که دولت در حال بررسی اقدام بعدی خود در قبال ایران است، به کمپ دیوید رفته است.
-‏
-‏▪️این جلسه تنها چند ساعت پس از آن برگزار می‌شود که ترامپ از توافقی که آن را «تاریخی» خواند، خبر داد که در آن حماس با خلع سلاح کامل تحت توافقی که با مصر، قطر و ترکیه انجام شده، موافقت کرده است.
-‏
-‏▪️ترامپ مدعی شد که این توافق راه را برای تشکیل یک دولت جدید فلسطینی در غزه هموار می‌کند و گامی بزرگ به سوی صلح پایدار است.
-‏
-‏🆔 @Americana_ir
-17:53
-1405/05/09
-
-
-
-
 src :@Shin_Persian
 ‏Faytuks Network ✓ @FaytuksNetwork
 ‏
@@ -7197,15 +7195,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:45
-1405/05/09
-
-
-
-
-src :@MilitiaNews
-‏وزارت دفاع کویت اعلام کرد که نیروهای مسلح این کشور هواپیماهای بدون سرنشین متخاصم را که اوایل صبح امروز وارد حریم هوایی کویت شده بودند، رهگیری و منهدم کردند.
-‏
-‏این وزارتخانه گفت که حملات ایران همچنین چندین سایت نظامی و زیرساختی حیاتی را هدف قرار دادند که باعث خسارات مادی ناشی از ریزش آوار شد اما تلفات جانی نداشت.
-‏@MilitiaNews
-15:40
 1405/05/09
