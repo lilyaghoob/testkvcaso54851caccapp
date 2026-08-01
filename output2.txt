@@ -1,5 +1,25 @@
 src :@tabzlive
-‏🇮🇷❌🇮🇶 — Repeated Iranian UAV attacks against Suleymaniyeh, Iraqi Kurdistan. International Coalition fighter jets are airborne.
+‏🇮🇷❌🇮🇶 — Explosions in Erbil, Iraqi Kurdistan. Shahed-136 UAV and International Coalition fighter jet activity reported.
+02:06
+1405/05/11
+
+
+
+
+src :@ClashReport
+‏Hungary's PM Péter Magyar:
+‏
+‏Due to the further drop in the Danube's water level, one of the last two generating units at the Paks Nuclear Power Plant will be shut down at 1:30 a.m. 
+‏
+‏As a result, the plant's output will fall to just 240 megawatts, and tomorrow it will be completely shut down for the first time in 44 years.
+02:04
+1405/05/11
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇮🇶 — Repeated Iranian UAV attacks against Sulaymaniyah, Iraqi Kurdistan. International Coalition fighter jets are airborne.
 02:02
 1405/05/11
 
@@ -624,29 +644,6 @@ src :@World_Newsly
 ‏✍🏻 Dangerman
 ‏▪️@World_Newsly
 00:55
-1405/05/11
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴نخست وزیر عراق: ما هرگز اجازه نخواهیم داد از خاک ما علیه بقیه کشور ها تهدید ایجاد شود.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-00:54
-1405/05/11
-
-
-
-
-src :@World_Newsly
-‏🔴اینترنت شما هم وحشتناک ضعيف شده؟
-‏👍/👎
-‏✍🏻 Hunter
-‏▪️@World_Newsly
-00:54
 1405/05/11
 
 
@@ -2436,14 +2433,6 @@ src :@tabzlive
 
 
 
-src :@Alibk3
-‏سماع اصوات طائرات مسيّرة في سماء السليمانية شمال العراق.
-23:02
-1405/05/10
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️تیم ملی کاراته ایران روز شنبه دهم مرداد در رقابت‌های کاراته آسیای میانه که در بیشکک، پایتخت قرقیزستان برگزار شد، با کسب ۷ مدال طلا، ۳ نقره و ۶ برنز و مجموع ۱۶ مدال، عنوان قهرمانی این مسابقات را به دست آورد.
@@ -2741,21 +2730,6 @@ src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇷🇺 — Investigators are considering several theories regarding the Moscow Balzi Rossi restaurant explosion.   According to one, an unknown individual allegedly smuggled an 'unknown object' into the restaurant, Russian media says.  The Global Eye…
 22:41
-1405/05/10
-
-
-
-
-src :@Alibk3
-[عکس]
-‏وزارة الخارجية الايرانية: 
-‏
-‏سنستخدم جميع الوسائل المشروعة للدفاع عن الحقوق والأمن القومي، 
-‏
-‏وأكدت على استمرار الدفاع القوي عن إيران في مواجهة التهديدات والهجمات غير القانونية من قبل الولايات المتحدة.
-‏ 
-‏أشارت وزارة الخارجية، في إشارة إلى دور الولايات المتحدة في زعزعة استقرار مضيق هرمز وتصعيد التوترات، إلى أن الادعاءات المتعلقة بعبور السفن كانت بمثابة ستار لأعمال عسكرية وضغوط على إيران.
-22:40
 1405/05/10
 
 
@@ -3760,15 +3734,6 @@ src :@Farsi_Iranwire
 src :@Middle_East_Spectator
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — A U.S. official told Axios that Iran has been "very aggressive" in recent days, with some U.S. officials surprised by the extent to which Tehran has been willing to escalate the war.
-21:34
-1405/05/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
 21:34
 1405/05/10
 
