@@ -673,6 +673,20 @@ src :@Alibk3
 
 
 
+src :@World_Newsly
+[عکس]
+‏🔴 برخاست یک فروند هواپیمای آواکس آمریکا از پایگاه شاهزاده سلطان عربستان
+‏
+‏براساس گزارش‌های منتشرشده، یک فروند هواپیمای هشدار زودهنگام و کنترل هوابرد (آواکس) متعلق به نیروی هوایی آمریکا از پایگاه هوایی شاهزاده سلطان در عربستان سعودی به پرواز درآمده است.
+‏
+‏✍🏻 Dangerman
+‏▪️@World_Newsly
+00:55
+1405/05/11
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇱🇵🇸 Over the last couple of days, IDF drones have targeted and killed several people across the Gaza Strip.
@@ -1822,16 +1836,6 @@ src :@Indypersian
 
 
 
-src :@Alibk3
-‏رئيس الوزراء العراقي:
-‏
-‏القوات المسلحة تجدد التزامها الثابت بعدم السماح باستخدام الأراضي العراقية منطلقًا أو ممرًا للاعتداء على الدول الشقيقة والصديقة
-23:46
-1405/05/10
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴یک فروند هواپیمای نظارتی و هشدار اولیه E-3G متعلق به نیروی هوایی ایالات متحده از پایگاه هوایی شاهزاده سلطان در عربستان سعودی برخاست
@@ -1940,15 +1944,6 @@ src :@selena_updates
 
 
 
-src :@Alibk3
-[عکس]
-‏‏طائرتان للتزود بالوقود الأميركية تغادران مطار بن غوريون.
-23:39
-1405/05/10
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇷🇺🇸 Iranian Foreign Minister Araghchi warns US against thinking of any military "adventures" against Iran.
@@ -1976,15 +1971,6 @@ src :@mohem_mat
 ‏اردکانی همچنین گفت موج هوای خنک در روزهای آینده ادامه دارد و تا پایان شهریور، با وجود افزایش نسبی دما، گرمای شدید رخ نخواهد داد./ فرارو
 ‏
 ‏@mohem_mat
-23:38
-1405/05/10
-
-
-
-
-src :@Alibk3
-[عکس]
-‏‏طائرتان للتزود بالوقود الأميركية تغادران مطار بن غوريون.
 23:38
 1405/05/10
 
@@ -2241,14 +2227,6 @@ src :@didarnews1
 
 
 
-src :@tabzlive
-‏🇱🇧⚡️ — A few minutes ago, a loud explosion was heard across southern Lebanon; the explosion was accompanied by a tremor in the ground.
-23:17
-1405/05/10
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 گزارش‌های تأییدنشده از پراکندگی گسترده نیروها و تجهیزات نظامی در ایران
 ‏
@@ -2423,14 +2401,6 @@ src :@MilitarryWorld
 ‏🔴خضریان، نماینده مجلس: بودجه فاضلاب شهرستان‌ها را حذف کنیم، مردم متوجه نمی‌شوند
 ‏
 ‏@MilitarryWorld | Parsa
-23:05
-1405/05/10
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇮🇶 — Earlier, Iranian Shahed-136 UAVs targeted Erbil; now, Shahed-136 UAVs are targeting Sulaymaniyah.
 23:05
 1405/05/10
 
