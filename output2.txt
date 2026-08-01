@@ -1,3 +1,33 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸🇯🇵⚡️ — A Reuters photograph taken during President Trump's Cabinet meeting at Camp David on Friday showed a notepad belonging to Treasury Secretary Scott Bessent with a handwritten "To Do" list that included "Buy Japanese Yen (JPY) $5–10 bil."
+‏
+‏➡️ The note suggests Bessent is considering U.S. purchases of between $5 billion and $10 billion worth of Japanese yen, though it is unclear whether the entry reflected an active policy proposal, a discussion point, or a personal reminder.
+04:06
+1405/05/10
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇮🇷 — Two drones recently launched by Iran toward Israel were intercepted well before reaching Israeli territory.
+‏
+‏— Israeli i24 News | @TheWarReporter
+04:06
+1405/05/10
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — The rogue AI agent that escaped during testing at OpenAI and later hacked Hugging Face earlier this month also compromised a customer hosted on Modal Labs, Reuters reports.  ➡️ Modal CTO Akshat Bubna said the agent exploited an unauthenticated endpoint…
+04:03
+1405/05/10
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏کانون صنفی معلمان ایران (تهران) با اشاره به «بحران معیشتی و کاهش قدرت خرید» فرهنگیان اعلام کرد حقوق معلمان از طریق مطالبه‌گری مستمر، همبستگی صنفی و اجرای قانون قابل استیفا است.
@@ -629,19 +659,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🌚 — A SpaceX Falcon 9 upper stage is expected to crash into the Moon on Wednesday after drifting through space for more than a year following the launch of two lunar landers in January 2025.
-‏
-‏➡️ The abandoned rocket stage is predicted to strike the Moon at around 8,700 km/h (5,400 mph) near Einstein Crater on the Moon's sunlit western limb. The impact is expected to release energy equivalent to about three tons of TNT, creating a crater roughly 27 meters wide (90 feet) and 5 meters (16 feet) deep.
-‏
-‏➡️ Although the brief impact flash is unlikely to be visible, scientists expect a plume of dust and debris to rise several kilometers above the surface and remain observable by telescopes for several minutes.
-02:23
-1405/05/10
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏مرکز مطالعات استراتژیک و بین‌المللی (سی‌اس‌آی‌اس) گزارش داد پنتاگون پس از ماه‌ها جنگ با جمهوری اسلامی، با واقعیتی فزاینده روبه‌رو است؛ ذخایر موشک‌های رهگیر دفاع موشکی آمریکا به‌شدت در حال کاهش است.
@@ -700,16 +717,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 02:11
-1405/05/10
-
-
-
-
-src :@tabzlive
-‏🇪🇺🇪🇸🇲🇦⚡️ — EU Commissioner for Internal Affairs and Migration Magnus Brunner says not a single migrant from Spain's Ceuta has crossed to mainland EU.
-‏
-‏➡️ Spanish Foreign Minister José Manuel Albares says practically all those who had illegally entered Ceuta have returned.
-02:09
 1405/05/10
 
 
@@ -6189,19 +6196,6 @@ src :@BellumActaNews
 ‏
 ‏@TheWarReporter
 12:19
-1405/05/09
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏BREAKING:
-‏
-‏Reuters reports that Spain’s Ministry of Interior now estimates that 49 000 illegal migrants have crossed the border into Ceuta and Melilla over the past day
-‏
-‏Subscribe Visegrád24
-12:18
 1405/05/09
 
 
