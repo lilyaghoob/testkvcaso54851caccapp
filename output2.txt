@@ -1,3 +1,11 @@
+src :@rnintel
+‏🇸🇾🇮🇶⚡- Unconfirmed reports that a Syrian recon drone entered Iraqi airspace along the Syria-Iraq border. The drone was fired upon by the pro-Iranian Popular Mobilization Forces and was forced to retreat.
+15:54
+1405/05/11
+
+
+
+
 src :@tabzlive
 ‏🇮🇱❌🇱🇧 — The Lebanese Army said five of its soldiers were lightly wounded in an Israeli airstrike while escorting civilians in military vehicles in the town of Kfra, in the Bint Jbeil district of southern Lebanon.
 15:50
@@ -6443,14 +6451,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@OSINTWarfare
-‏The Ukrainian Ground Forces' 422nd Unmanned Systems Regiment "Luftwaffe" destroyed a Russian mobile air defense group with a RAM-2X loitering munition.
-19:31
-1405/05/10
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇸🇨🇳 Elon Musk says "China's biggest growth in electricity has come from solar, which has by far the highest potential."
@@ -6538,14 +6538,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 18:48
-1405/05/10
-
-
-
-
-src :@OSINTWarfare
-‏Scatter orders have been issued to the Islamic Republic of Iran Army and government agencies. Several headquarters, bases, and facilities have been evacuated in anticipation of a possible resumption of the war with the U.S. and Israel.
-18:43
 1405/05/10
 
 
@@ -6665,15 +6657,6 @@ src :@mamlekate
 ‏رویترز روز جمعه در یک گزارش تحقیقاتی به فعالیت گسترده شبکه قماری پرداخت که با مشارکت چهره‌های مشهور شبکه‌های اجتماعی از جمله ساشا سبحانی و پویان مختاری به حکومت ایران در دور زدن تحریم‌ها اسلامی کمک می‌کند.
 ‏
 ‏@mamlekate
-18:19
-1405/05/10
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏A Russian jet-powered Geran-4 loitering munition struck a Rozetka warehouse in Brovary, Kyiv Oblast, today, killing one person and injuring six others.
 18:19
 1405/05/10
 
@@ -6927,15 +6910,6 @@ src :@defence_news
 ‏📢 کانال چین‌نگار
 ‏ChinNegar
 16:47
-1405/05/10
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇮🇷⚡️ — T-72 tanks in service with the Islamic Republic of Iran Army's 92nd Armoured Division on the move towards Abadan, southwestern coastal Iran.
-16:36
 1405/05/10
 
 
