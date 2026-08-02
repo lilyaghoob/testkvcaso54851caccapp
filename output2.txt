@@ -1,3 +1,17 @@
+src :@MilitarryWorld
+‏🔴 مارکو روبیو، وزیر خارجه آمریکا، به فاکس نیوز:
+‏
+‏ایران به دنبال ساخت سلاح هسته‌ای و ایجاد یک سپر موشکی متعارف برای محافظت از برنامه خود بود.
+‏
+‏ایران هنوز موشک و پهپاد دارد، اما سپر دفاعی سنتی خود را از دست داده است.
+‏
+‏@MilitarryWorld | Parsa
+09:27
+1405/05/11
+
+
+
+
 src :@mohem_mat
 ‏روایت خبرگزاری دولت از ناپدید شدن ۱۷ صیاد ایرانی از اردیبهشت ماه / ماجرای برخورد لنج شاهین ۲ با بالگرد آمریکایی چه بود؟
 ‏
@@ -6522,18 +6536,6 @@ src :@intelslava
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌ 🇱🇧 – Israeli Army Radio: 
-‏
-‏Officer injured during clash with Hezbollah militants in the Ali al-Tahir area in southern Lebanon last night
-‏
-‏@GeoPWatch
-15:31
-1405/05/10
-
-
-
-
 src :@guard_warriors
 ‏هشدارهای امنیتی مشابهی امروز از سوی نمایندگی‌های ایالات متحده در اردن، عراق و اسرائیل صادر شد:
 ‏
@@ -6867,15 +6869,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #S_S
 14:12
-1405/05/10
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🇮🇱🇵🇸🌐 - The Board of Peace alongside the "mediating countries" of Egypt, Qatar, the USA and Türkiye have announced that the Hamas Political Party have agreed upon a "detailed roadmap" for the next phases of the ongoing Gaza ceasefire.  The NCAG is to enter…
-14:10
 1405/05/10
 
 
@@ -7449,16 +7442,4 @@ src :@Artemis_Force
 ‏
 ‏یکی از مزیت‌های اصلی Typhoon، عدم نیاز به حضور خدمه در کنار توپ است؛ اپراتور از داخل اتاق فرمان یا مرکز کنترل شناور، سامانه را هدایت می‌کند که این موضوع ایمنی خدمه را افزایش می‌دهد.
 09:32
-1405/05/10
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏درود بر همه شما عزیزان
-‏امیدوارم هفته خوبی را اغاز کرده باشید
-‏
-‏@PARVAZDAROJ
-09:24
 1405/05/10
