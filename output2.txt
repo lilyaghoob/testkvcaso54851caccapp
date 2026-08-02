@@ -1,3 +1,11 @@
+src :@tabzlive
+‏🇺🇸⚡️ — Numerous 911 calls are being made for breathing problems in Spokane.
+05:25
+1405/05/11
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 خانه‌های زیادی در اسپوکن در مجاورت آتش قرار دارند. 
@@ -229,14 +237,6 @@ src :@tabzlive
 src :@tabzlive
 ‏🇺🇸⚡️ — Main highways are very congested in Spokane as people flee the city. It is highly advised to take side streets.
 04:15
-1405/05/11
-
-
-
-
-src :@tabzlive
-‏🇺🇸⚡️ — More power outages in evacuation zones in Spokane. It is possible power was intentionally shut off in these areas to attempt to assist containing the wildfire.
-04:14
 1405/05/11
 
 
@@ -520,19 +520,6 @@ src :@World_Newsly
 
 
 
-src :@Alibk3
-[عکس]
-‏أكسيوس:
-‏
-‏ولي العهد السعودي يعرب عن قلقه لترامب بشأن خطته لشن هجوم واسع النطاق على إيران.
-‏
-‏مصدر ثانٍ على اطلاع على المكالمة قال إن الأمير محمد بن سلمان حث ترامب على تهدئة الوضع وتجنب شن الضربات.
-03:25
-1405/05/11
-
-
-
-
 src :@naya_foriraq
 ‏🇺🇸🇸🇦مسؤول أمريكي: ولي العهد السعودي محمد بن سلمان تحدث مع الرئيس ترامب يوم السبت، وأعرب عن قلقه إزاء خططه لشن ضربات عسكرية جديدة واسعة النطاق ضد إيران.
 03:23
@@ -756,14 +743,6 @@ src :@World_Newsly
 
 
 
-src :@Alibk3
-‏السليمانية
-02:33
-1405/05/11
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇶☀️ Footage shows a drone strike targeting a Unit 70 base in Tasluja, west of Sulaymaniyah, in the Kurdistan Region of Iraq.  @wfwitness
@@ -775,15 +754,6 @@ src :@wfwitness
 
 src :@naya_foriraq
 ‏لحظه اصابت پهپاد انتحاری به مقر تروریست‌های تجزیه طلب در السلیمانیه عراق
-02:25
-1405/05/11
-
-
-
-
-src :@Alibk3
-[عکس]
-‏السليمانية.
 02:25
 1405/05/11
 
