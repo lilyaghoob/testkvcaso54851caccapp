@@ -1,3 +1,94 @@
+src :@cataphract1
+[عکس]
+‏سرویس‌های L33TNET VPN
+‏
+‏- سرویس‌های ۹۰ روزه
+‏  • 50 گیگ · 340,000
+‏  • 75 گیگ · 490,000
+‏  • 115 گیگ · 750,000
+‏  • 150 گیگ · 975,000
+‏  • 225 گیگ · 1,470,000
+‏  • 500 گیگ · 3,250,000
+‏
+‏- سرویس‌های ۳۰ روزه
+‏  • 20 گیگ · 150,000
+‏  • 30 گیگ · 210,000
+‏  • 40 گیگ · 275,000
+‏  • 60 گیگ · 390,000
+‏  • 100 گیگ · 650,000
+‏  • 200 گیگ · 1,000,000
+‏
+‏موقعیت سرورها:
+‏🇩🇪 آلمان
+‏🇺🇸 آمریکا
+‏🇩🇰 دانمارک
+‏🇹🇷 ترکیه
+‏🇬🇧 انگلیس
+‏🇫🇮 فنلاند
+‏🇸🇪 سوئد
+‏🇪🇸 اسپانیا
+‏🇫🇷 فرانسه
+‏🇮🇪 ایرلند
+‏🇯🇵 ژاپن
+‏🇨🇦 کانادا
+‏
+‏محدودیت کاربر: ۱۰ نفر
+‏دارای اکانت تست
+‏
+‏تهیه در ربات: 
+‏• @l33tnet_bot
+‏• @l33tnet_bot
+‏
+‏پشتیبانی:
+‏• @l33tnet
+‏
+‏کانال:
+‏• @l33tnetwork
+23:52
+1405/05/11
+
+
+
+
+src :@World_Newsly
+‏🔴حملات اسرائیل به منطقه مجدل زون، جنوب لبنان
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+23:51
+1405/05/11
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️فارس، خبرگزاری وابسته به سپاه پاسداران، از ورود یک محموله ۱۱ تنی «کمک‌های بشردوستانه، دارویی و درمانی» روسیه از طریق مرز زمینی آستارا و تحویل آن به جمعیت هلال‌احمر ایران خبر داد. فرماندار آستارا با اشاره به ارسال این اقلام در راستای «همکاری‌های انسان‌دوستانه دو کشور» گفت: «این محموله پس از انجام تشریفات اداری، برای بهره‌برداری در شبکه امدادی هلال‌احمر به استان‌های مختلف ارسال می‌شود.»
+‏
+‏@IndyPersian
+23:48
+1405/05/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇦❌🇷🇺 — Ukraine has launched drones into Crimea and western Russia.
+23:48
+1405/05/11
+
+
+
+
+src :@rnintel
+‏🇱🇧🇮🇱⚡- Israeli attacks on Majdal Zoun, southern Lebanon.
+23:47
+1405/05/11
+
+
+
+
 src :@mohem_mat
 ‏اخراج کارمند کاخ سفید پس از شرط‌بندی‌های پرسود بر اساس دسترسی زودهنگام به سخنرانی‌های ترامپ
 ‏
@@ -1842,18 +1933,6 @@ src :@tabzlive
 
 
 
-src :@World_Newsly
-[عکس]
-‏⭕ بدون شرح.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-21:05
-1405/05/11
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇱الاعلام العبري: غالبية المحادثات تدور حاليا حول مضيق هرمز ولا نعرف مصير بقية القضايا، هناك استفهام بشأن مخزون اليورانيوم بإيران وتعهدات إدارة ترمب بشأن سلوك طهران.
 21:02
@@ -1878,13 +1957,13 @@ src :@cataphract1
 [عکس]
 ‏⚜️آخرین لایه دفاعی، سامانه THAAD است که موشک را در مرحله نهایی پرواز و هنگام ورود مجدد به جو، در ارتفاع بالا رهگیری می‌کند.
 ‏
-‏⚜️مأموریت اصلی تاد، مقابله با موشک‌های بالستیک کوتاه‌برد و میان‌برد است، اما آمریکا در حال بررسی نسخه‌های ارتقایافته‌ای است که بتوانند در برابر برخی موشک‌های قاره‌پیما نیز مؤثر باشند.
+‏⚜️مأموریت اصلی تاد، مقابله با موشک‌های بالستیک کوتاه‌برد و میان‌برد و برد بلند است، اما آمریکا در حال بررسی نسخه‌های ارتقایافته‌ای است که بتوانند در برابر برخی موشک‌های قاره‌پیما نیز مؤثر باشند.
 ‏
 ‏⚜️برای هماهنگی همه این سامانه‌ها، آمریکا از شبکه‌ای شامل ماهواره‌های هشدار زودهنگام، رادارهای برد بلند، رادارهای X-band، سامانه‌های دریایی Aegis و شبکه فرماندهی و کنترل C2BMC استفاده می‌کند.
 ‏
 ‏⚜️ماهواره‌ها شلیک موشک را تشخیص می‌دهند، رادارها مسیر آن را محاسبه می‌کنند و اطلاعات در اختیار مرکز فرماندهی قرار می‌گیرد تا مناسب‌ترین سامانه رهگیر انتخاب شود.
 ‏
-‏⚜️در این، هدف این است که یک موشک مهاجم در صورت امکان بیش از یک فرصت رهگیری داشته باشد. در حال حاضر GMD لایه اصلی دفاع از خاک آمریکا در برابر حملات محدود ICBM است. علاوه بر آن، آمریکا امکان استفاده تکمیلی از سامانه‌های Aegis BMD و در برخی سناریوها THAAD را نیز بررسی و توسعه داده است تا در آینده فرصت‌های بیشتری برای رهگیری فراهم شود.
+‏⚜️ هدف این است که یک موشک مهاجم در صورت امکان بیش از یک فرصت رهگیری داشته باشد. در حال حاضر GMD لایه اصلی دفاع از خاک آمریکا در برابر حملات محدود ICBM است. علاوه بر آن، آمریکا امکان استفاده تکمیلی از سامانه‌های Aegis BMD و در برخی سناریوها THAAD را نیز بررسی و توسعه داده است تا در آینده فرصت‌های بیشتری برای رهگیری فراهم شود.
 ‏
 ‏📃@Cataphract1
 20:59
@@ -1903,7 +1982,7 @@ src :@cataphract1
 ‏
 ‏⚜️لایه دوم دفاعی، سامانه Aegis BMD است که روی ناوشکن‌ها و رزم‌ناوهای نیروی دریایی آمریکا نصب می‌شود.
 ‏
-‏⚜️جدیدترین رهگیر این سامانه، SM-3 Block IIA، علاوه بر مقابله با موشک‌های کوتاه‌برد، میان‌برد و برد متوسط، در حال ارزیابی برای رهگیری برخی موشک‌های قاره‌پیما در بخش پایانی مرحله میانی پرواز نیز هست.
+‏⚜️جدیدترین رهگیر این سامانه، SM-3 Block IIA، علاوه بر مقابله با موشک‌های کوتاه‌برد، میان‌برد و برد بلند، در حال ارزیابی برای رهگیری برخی موشک‌های قاره‌پیما در بخش پایانی مرحله میانی پرواز نیز هست.
 ‏
 ‏⚜️در صورت موفقیت این برنامه، Aegis BMD می‌تواند به یک لایه مکمل برای دفاع از خاک آمریکا تبدیل شود.
 ‏
@@ -2539,20 +2618,6 @@ src :@intelslava
 
 src :@Navy_Iranian
 ‏دور زدن باب المندب   گروهی از نفتکش های عربستان سعودی در حال دور زدن باب المندب و آفریقا هستند تا از طریق کانال کانال سوئز وارد دریای سرخ و سپس به بندر ینبع برسند.  ناامن کردن کانال سوئز و یا هدف قرار بندر ینبع میتواند گزینه بعدی نیروهای مقاومت باشد.  @Navy_Iranain…
-20:09
-1405/05/11
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏وال‌استریت ژورنال گزارش داد کشورهای عربی حاشیه خلیج فارس از دونالد ترامپ، رییس‌جمهوری آمریکا، خواسته‌اند حملات جدید علیه جمهوری اسلامی را به تعویق بیندازد و به‌جای آن، گفت‌وگو با تهران را دنبال کند.
-‏
-‏بر اساس این گزارش، پیشنهاد جدید برای بازگشایی تنگه هرمز شامل ایجاد مسیرهای تازه برای تردد کشتی‌هاست، اما اختلاف‌ها درباره دریافت عوارض از کشتی‌ها همچنان پابرجاست.
-‏
-‏این روزنامه افزود محمد بن سلمان، ولیعهد عربستان سعودی، پیش از اعلام توقف حملات، در تماسی با ترامپ از او خواسته بود تنش‌ها را کاهش دهد و مسیر دیپلماتیک را ادامه دهد.
-‏https://iranintl.com/202608021189
 20:09
 1405/05/11
 
@@ -4257,14 +4322,6 @@ src :@Artemis_Force
 ‏روز گذشته در صنایع جنرال داینامیکس GDBIW ناوشکن آینده USS William Charette (DDG 130) Arleigh Burke-class Flight III نام گذاری و غسل داده شد و سپس برنامه آب اندازی آن به اجرا در آمده است... و آماده آب اندازی شده است، هم اکنون نیز جای این ناوشکن، ناوشکن دیگری وارد مونتاژ سکشن های بدنه خود شده است که اواسط سال آینده آب اندازی خواهد شد 
 ‏
 ‏@artemis_force
-16:01
-1405/05/11
-
-
-
-
-src :@rnintel
-‏🇱🇧🇮🇱⚡- Five Lebanese soldiers slightly wounded after being targeted by Israeli fire. The soldiers were escorting civilians in military vehicles from the town of Kfra, Bint Jbeil direction, southern Lebanon.
 16:01
 1405/05/11
 
@@ -6680,44 +6737,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:54
-1405/05/10
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇺🇸 🇲🇦 — Message from President Donald Trump to His Majesty the King Mohammed VI on Throne Day
-‏
-‏Your Majesty King Mohammed VI:
-‏
-‏On behalf of the United States of America, I send my congratulations to Your Majesty and to the great people of Morocco on Throne Day.  This year, we celebrate 250 years of American history and enduring friendship with Morocco – a bond forged in trust and mutual respect.
-‏
-‏The United States has been clear:  we recognize Moroccan sovereignty over Western Sahara, and we support Morocco’s serious, credible, and realistic autonomy proposal as the only basis for a just and lasting solution.  Any other path prolongs the status quo and is unacceptable.  This urgently needed solution will not only bring peace to the region but prosperity and greater integration for all of Africa.  This dispute must end now, and the United States will continue to drive progress toward that end.
-‏
-‏Your Majesty’s wise leadership has been a cornerstone of stability.  Morocco’s steadfast focus on advancing peace, combating extremism, and protecting American and Moroccan security, including through its vital role in the Abraham Accords, reflects a valuable partnership for the United States.  To this end, we will also work together to secure the Sahel region.  Your vision for growth opens doors to good fortune for both our people and economies.  I have directed my teams to encourage economic and social development with Morocco, including in the Western Sahara territory.  American trusted technology and innovation across strategic sectors from energy, artificial intelligence, critical minerals, and defense will continue to serve as your partners for the next 250 years.
-‏
-‏Together, we are building a new era.  It is one that puts the interests of both our peoples first.  I look forward to even greater success for our two nations as we continue to work together.
-‏
-‏Sincerely,
-‏Donald J. Trump
-‏
-‏The Global Eye | Subscribe
-23:48
-1405/05/10
-
-
-
-
-src :@Mena_Live
-‏Syrian Internal Security: 
-‏
-‏We dismantled an active ISIS terrorist cell in Deir ez-Zor, arresting its leader and several members. 
-‏
-‏One militant was neutralized before he could detonate a suicide vest, while another suspect attempted to use a hand grenade but was captured. 
-‏
-‏The Cell was responsible for multiple bombings and assassinations targeting security forces.
-‏
-‏@Mena_Live
-23:48
 1405/05/10
