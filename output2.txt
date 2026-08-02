@@ -1,3 +1,40 @@
+src :@Parvazdaroj
+[عکس]
+‏در عملیات واقعی، خدمه اغلب تصویر FLIR را روی هاد می‌بینند و همزمان سمبول‌های فرمان TFR را دنبال می‌کنند. سیستم‌های مرتبط با TFR عبارتند از پاد ناوبری، AFCS یا سیستم کنترل پرواز خودکار، AIUها، ارتفاع‌سنج راداری و کامپیوتر مرکزی یا CC. کامپیوتر TFR اطلاعات را از INS، رادار TFR و ارتفاع‌سنج راداری دریافت می‌کند، سپس فرمان g عمودی مناسب را محاسبه کرده و آن را به AFCS ارسال می‌کند یا در حالت دستی به صورت جعبه فرمان پیچ روی نمایشگر نشان می‌دهد. CC نیز سمبول‌های فرمان، هشدارها و احتیاط‌ها را روی هاد، تکرارکننده HUD، ADI و نمایشگر TFR نمایش می‌دهد.
+‏
+‏اصول کار TFR بر اسکن زمین پیش رو استوار است. رادار با پرتوی ۵٫۵ درجه‌ای از انرژی پالسی، هم در صفحه عمودی (نودینگ) و هم در صفحه افقی (سوئیپینگ) اسکن می‌کند. در حالت نرمال، آنتن در صعود یا پرواز افقی از مثبت ۱۰ درجه تا منفی ۲۰ درجه نسبت به بردار سرعت اسکن می‌کند و در شیرجه این محدوده نسبت به نصف زاویه شیرجه تنظیم می‌شود. در صفحه افقی، آنتن مجموعاً ۳۰ درجه پوشش می‌دهد؛ ۱۵ درجه به چپ و ۱۵ درجه به راست بردار پرواز در قالب یک رستر ۸ میله‌ای. 
+‏
+‏2/
+‏
+‏
+‏@PARVAZDAROJ | 𝐃𝐆𝐑
+10:15
+1405/05/11
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇨🇩🇺🇳🦠 — The Ebola outbreak in the DR Congo is now the worst in the country's history, and is still "intensifying, with sustained transmission and continued increases in reported cases and deaths", according to the WHO.
+‏
+‏▶️ The current outbreak has infected 3,605 people, 1,587 of which have already died - a 44% fatality rate.
+‏
+‏@GeoPWatch
+10:14
+1405/05/11
+
+
+
+
+src :@P_raetorio
+‏#فوری ترور در قلب مسکو!  گزارش شده است یک بمب در محل جشن تولد ژنرال الکساندر چایکو،فرمانده نیروی هوافضای ارتش روسیه منفجر شده است و چندین فرمانده نظامی روس کشته یا زخمی شده‌اند!  @P_raetorio
+10:12
+1405/05/11
+
+
+
+
 src :@Indypersian
 ‏⭕️ ابتکار دریایی عربستان سعودی؛ تلاشی برای حفاظت از تجارت جهانی و مسیرهای کشتیرانی
 ‏
@@ -6561,21 +6598,6 @@ src :@defence_news
 
 src :@defence_news
 ‏خلاصه کلام، ما بیشتر از تربیت نظامی، سیاستمدار تربیت کردیم!!!!  🇮🇷📝 @defence_news 📝🇮🇷
-15:35
-1405/05/10
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇱– GPS jamming has reportedly been detected in northern Israel, specifically in the Haifa area.
-‏
-‏Users in the region have reported disruptions affecting GPS navigation and location-based services. The cause of the interference remains unclear at this time.
-‏
-‏Further details are expected as the situation develops.
-‏
-‏@GeoPWatch
 15:35
 1405/05/10
 
