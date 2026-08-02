@@ -1,3 +1,37 @@
+src :@MilitarryWorld
+‏🔴کاخ سفید: به ترامپ اعتماد کنید
+‏
+‏@MilitarryWorld | Parsa
+00:27
+1405/05/12
+
+
+
+
+src :@Alibk3
+[عکس]
+‏وول ستريت جورنال:
+‏
+‏وألغى مرة أخرى التصعيد العسكري الذي هدد به، دون الكشف عن تفاصيل تذكر.
+00:24
+1405/05/12
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴 پست جدید کاخ سفید: به ترامپ اعتماد کنید.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+00:24
+1405/05/12
+
+
+
+
 src :@samueltarikh
 ‏⭕️کاخ سفید: به ترامپ اعتماد کنید
 00:23
@@ -1550,18 +1584,6 @@ src :@MilitarryWorld
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴اطلاعیه ارتش جمهوری اسلامی ایران: سرباز وظیفه، ابوالفضل گودرزی، در درگیری با افراد مسلح در مرز مریوان کشته شد.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-22:02
-1405/05/11
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇮🇷🇮🇱⚡- "Washington informed us for the second time in a week of an imminent attack that could shake the Middle East before canceling it at the last minute without explanation, and this harms Israel's operational readiness and drains it," - An Israeli security…
 22:02
@@ -2416,17 +2438,6 @@ src :@jangaavaran1390
 src :@jangaavaran1390
 ‏منابع منطقه‌ای گزارش می‌دهند مذاکرات ایران و عمان در مورد تنگه هرمز پیشرفت داشته است و پیشنهاد سازش جدید عمان ممکن است راه توافق را در آینده نزدیک هموار کند. به گفته منابع اسرائیلی، در صورت پیشرفت در هرمز، مسائل باقیمانده به ویژه برنامه هسته‌ای ایران و ذخایر…
 20:38
-1405/05/11
-
-
-
-
-src :@MilitarryWorld
-‏🔴سخنگوی وزارت خارجه: پیامدهای هرگونه حمله به ایران محدود نخواهد ماند
-‏
-‏
-‏@MilitarryWorld | Parsa
-20:37
 1405/05/11
 
 
@@ -3512,15 +3523,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #S_S
 18:48
-1405/05/11
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القناة i24 العبرية:  خلاف وخيبة أمل خليجي من ترامب وراء إلغاء الهجوم الليلي على إيران  كشفت التطورات الأخيرة عن خلافات متزايدة بين دول الخليج والإدارة الأميركية بشأن طريقة التعامل مع التصعيد مع إيران، في وقت يتزايد فيه شعور دول المنطقة بالخيبة من مواقف ترامب.
-18:47
 1405/05/11
 
 
@@ -5064,18 +5066,6 @@ src :@bricsnews
 
 
 
-src :@didarnews1
-‏🔴آکسیوس: اعلام لغو حمله توسط ترامپ بار دیگر نشان داد توانایی نتانیاهو برای نفوذ بر رئیس جمهور آمریکا خیلی کاهش یافته است‌
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-11:10
-1405/05/11
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏وزارت جنگ ایالات متحده یک توافق‌نامه کلی با شرکت Northrop Grumman برای تولید، ارتقاء و نگهداری AN/AAQ-28 LITENING امضا کرد. 
@@ -6380,14 +6370,4 @@ src :@mwarmonitor
 ‏
 ‏🌐https://heathrow.global-exchange.co.uk
 00:26
-1405/05/11
-
-
-
-
-src :@Mena_Live
-‏Phone conversation between the Iranian Foreign Minister and the commander of the Pakistani army and the Turkish foreign minister an hour ago.
-‏
-‏@Mena_Live
-00:22
 1405/05/11
