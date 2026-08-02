@@ -1,3 +1,41 @@
+src :@World_Newsly
+[عکس]
+‏🔴 ادعای سی‌ان‌ان‌: ترامپ با وجود ملاقات با نتانیاهو، او را در موضوع ایران و غزه ناکام گذاشت
+‏
+‏نخست‌وزیر اسرائیل به شدت خواهان آن است که آمریکا جنگ علیه ایران را با جدیت از سر بگیرد
+‏
+‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️@World_Newsly
+22:56
+1405/05/11
+
+
+
+
+src :@World_Newsly
+‏🔴والا نیوز:
+‏
+‏قرار بود اسرائیل در حمله آمریکا به ایران مشارکت داشته باشد اما قطر برای ادامه مذاکرات، زمان خواست، عربستان درباره جنگ هشدار داد و پاکستان و ترکیه فشار آوردند
+‏
+‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️@World_Newsly
+22:55
+1405/05/11
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇦⚡️ — The body of an Iranian sailor killed in the Ukrainian attack on an Iranian commercial ship in the Caspian Sea last week has been returned to Iran, ISNA reports.
+‏
+‏The 8 surviving crew members and the ship's owner also returned to the country today.
+22:55
+1405/05/11
+
+
+
+
 src :@MilitarryWorld
 ‏🔴والا نیوز:
 ‏
@@ -27,6 +65,8 @@ src :@Alibk3
 ‏المنطقة الأمنية في قطاع غزة مدمرة بالكامل ولا منازل فيها والأمر نفسه في جنوبي لبنان.
 ‏
 ‏موقفنا واضح بأننا لن نغادر غزة قبل نزع سلاح حماس وتدمير الأنفاق في الجانب "الأحمر".
+‏
+‏في حال قررت السلطة الفلسطينية مواجهتنا فستلقى مصير غزة.
 22:50
 1405/05/11
 
@@ -1589,19 +1629,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@World_Newsly
-‏🔴 یک منبع امنیتی اسرائیلی به کان نیوز: لغو حمله برنامه‌ریزی‌شده ترامپ به ایران، آمادگی عملیاتی و برنامه‌ریزی نظامی را تضعیف کرد.
-‏
-‏🔹️ این دومین بار در یک هفته است که آمریکا اسرائیل را از حمله‌ای برنامه‌ریزی‌شده مطلع کرده و در آخرین لحظه بدون توضیح آن را لغو کرده است. هزاران نیروی ارتش و نهادهای دفاعی اسرائیل هفته‌ها برای تشدید احتمالی منطقه‌ای آماده شده بودند.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-20:43
-1405/05/11
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇱🇺🇸🇮🇷⚡️ — An Israeli security source told Kan News that President Trump's decision to cancel a planned large-scale strike on Iran is damaging operational readiness and undermining military planning.
@@ -1631,17 +1658,6 @@ src :@mohem_mat
 src :@naya_foriraq
 ‏🇮🇱إعلام العدو: ‏حافظ آلاف من أفراد الجيش والدفاع الإسرائيليين على حالة تأهب قصوى خلال عطلة نهاية الأسبوع، عقب تحذيرات أمريكية من ضربة أمريكية وشيكة على البنية التحتية الإيرانية، قبل أن يُلغي الرئيس ترامب العملية في اللحظة الأخيرة. وانتقد مسؤولون أمنيون إسرائيليون بشدة هذا الإلغاء المفاجئ - وهو الثاني خلال أسبوع - مؤكدين أن القرارات الأمريكية غير المتوقعة تُقوّض بشدة التخطيط العملياتي والاستعداد.
 20:40
-1405/05/11
-
-
-
-
-src :@World_Newsly
-‏⭕ نیروهای آمریکایی به عقب‌نشینی خود از منطقه کردستان عراق ادامه می‌دهند. همچنین، یک سامانه پدافند هوایی پاتریوت که در فرودگاه بین‌المللی اربیل مستقر بود، به یک کشور دیگر در منطقه منتقل شده است، کشوری که مورد اصابت موشک‌ها و پهپادها قرار گرفته است.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-20:39
 1405/05/11
 
 
@@ -6650,42 +6666,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 22:59
-1405/05/10
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏—❗️🇪🇸❌🇲🇦 Spanish publication GEOPOL 21 proposes a hypothetical 50-kilometre buffer zone around Ceuta and Melilla
-‏
-‏➡️ This "counterfactual simulation" explores what a Spanish-controlled security zone extending 50 kilometres inland from Ceuta and Melilla could mean for North Africa.
-‏
-‏➡️ The scenario is presented as a theoretical way to move potential threats farther from the two Spanish enclaves.
-‏
-‏✅ @balkanspectator — the leading Balkan news channel in English
-22:56
-1405/05/10
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇷🇺 — Chef Valzi Rossi said the explosion did not damage the restaurant or kitchen.  According to chef Carmine Alfieri, the problem originated outside the restaurant. The premises and kitchen are in perfect condition, and no Balzi Rossi employees…
-22:52
-1405/05/10
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — A U.S. Department of War source told Fox News:
-‏
-‏"We are prepared for a large-scale war against Iran. 
-‏
-‏In the past few hours, President Trump has approved a number of lethal and dangerous attacks against the forces of the IRGC".
-‏
-‏@TheWarReporter
-22:52
 1405/05/10
