@@ -1,5 +1,19 @@
 src :@World_Newsly
 [عکس]
+‏🔴 خانه‌های زیادی در اسپوکن در مجاورت آتش قرار دارند. 
+‏
+‏🔹️آتش‌سوزی اولد تریلز در حال پیشروی به سمت شمال غربی شهر است.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+05:21
+1405/05/11
+
+
+
+
+src :@World_Newsly
+[عکس]
 ‏🔴 آتش‌سوزی گسترده در اسپوکن واشنگتن؛ ده‌ها هزار نفر تخلیه شدند
 ‏
 ‏🔹️ دو آتش‌سوزی هم‌زمان در شمال و غرب شهر اسپوکن در ایالت واشنگتن فعال است. وزش بادهای شدید ۳۰ تا ۴۵ مایلی شرایط را وخیم‌تر کرده. مناطق شمال شرقی و غربی شهر تخلیه شده و آتش به مناطق مسکونی شرق رودخانه اسپوکن رسیده است.
@@ -875,20 +889,6 @@ src :@Indypersian
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 ورود اسماعیل قاآنی فرمانده سپاه قدس به عراق 
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-01:59
-1405/05/11
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇶دوي انفجارات في محافظة اربيل شمالي العراق.
 01:58
@@ -902,18 +902,6 @@ src :@IranintlTV
 ‏🎧نسخه صوتی سیاست با مراد ویسی: انتظار منطقه‌ای برای حمله آمریکا
 ‏@iranintlTV
 01:57
-1405/05/11
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴المیادین: آمادگی گروه های کرد مستقر در عراق برای حمله زمینی به ایران
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-01:50
 1405/05/11
 
 
@@ -6310,16 +6298,6 @@ src :@DEJradio
 
 
 
-src :@intelslava
-‏Good news
-‏
-‏https://t.me/The_Europe_Update/9676
-14:45
-1405/05/10
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‏ ‌‏ ‏ 
@@ -6438,18 +6416,6 @@ src :@Shin_Persian
 ‏ایران
 ‏
 ‏𝕏  ·  @shin_persian
-14:37
-1405/05/10
-
-
-
-
-src :@intelslava
-‏🇺🇦🇷🇺⚡️ — More than 6,000 Ukrainian drones flew toward the Moscow Region in July, Moscow Mayor Sergey Sobyanin stated.
-‏
-‏He also noted that 780 drones were destroyed as they approached the capital.
-‏
-‏@IntelSlava
 14:37
 1405/05/10
 
