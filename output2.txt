@@ -1,3 +1,36 @@
+src :@ClashReport
+[عکس]
+‏Armenian President Vahan Khachaturyan has reappointed Nikol Pashinyan as prime minister after the government's resignation earlier today.
+15:41
+1405/05/11
+
+
+
+
+src :@tabzlive
+‏🇮🇷🇺🇸⚡️ — Iran's Fars News Agency, citing a source close to the country's nuclear negotiating team, denied reports that an agreement had been reached to reopen the Strait of Hormuz, calling the claims false.
+‏
+‏Separately, a military source told Fars that the strait will remain closed "as long as the United States continues its hostile actions," adding that ships will only be permitted to transit through designated routes with authorization from the IRGC Navy.
+15:41
+1405/05/11
+
+
+
+
+src :@thewarreporter
+‏🛳️🇺🇸🇮🇷 — A source close to the Iranian negotiating team told the Fars News Agency:
+‏
+‏"There is no agreement regarding the reopening of the Strait of Hormuz. The news reports circulating about this matter are false. 
+‏
+‏As long as the hostile actions of the US continue, the Strait of Hormuz will remain closed. Ship traffic will only be possible through the designated route and with permission from the IRGC Navy".
+‏
+‏@TheWarReporter
+15:38
+1405/05/11
+
+
+
+
 src :@naya_foriraq
 ‏مستشار الأمن القومي العراقي يقول انه تم الاتفاق على فتح مكتب لبعثة الناتو في بغداد
 15:37
@@ -3677,17 +3710,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — NEW: President Trump announces canceling an attack against Iran out of hopes a deal could rapidly be made involving opening the Strait of Hormuz and ending Iran's "nuclear threat".
-‏
-‏He says the perimeters of a deal” have been agreed to.
-05:45
-1405/05/11
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — U.S. President Trump says he has held off on another attack against Iran to allow negotiations to continue 'rapidly'. 
@@ -6225,18 +6247,6 @@ src :@OSINTWarfare
 
 
 
-src :@GeoPWatch
-‏⚡️🇵🇸🇵🇸🇪🇬 - The Hamas Political movement and the PIJ held a meeting in Egypt's Cairo, headed by Zaher Jabarin and Ziyad AlNakhala. Khalil AlHayya, the recently elected Chairman of Hamas has too participated via phone-call.
-‏
-‏The meeting called for Israel to abide by the ceasefire and lift its ongoing blockade, the complete withdrawal from the strip, and the halting of aggression and assassinations, to allow for the immediate recovery of Gaza and the deployment of the NCAG. The leaders also condemned Israel's escalations, the abuse of prisoners, and the "Judaization" of the West Bank.
-‏
-‏@GeoPWatch
-20:32
-1405/05/10
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏بله عزیزانم 
@@ -6254,14 +6264,6 @@ src :@thewarreporter
 ‏
 ‏— Yedioth Ahronoth | @TheWarReporter
 20:31
-1405/05/10
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇮🇷 — An Israeli official told CBS:   "We are not aware of any decision to resume military operations against Iran.  We have not been asked to participate in any military actions against Iran".  @TheWarReporter
-20:28
 1405/05/10
 
 
@@ -6527,18 +6529,6 @@ src :@Parvazdaroj
 
 
 
-src :@GeoPWatch
-‏🇺🇸🇮🇱❌🇮🇷 – Alexus Grynkewich, head of U.S. European Command (EUCOM), warned the Pentagon this week that he does not have sufficient naval forces to continue defending Israel from ballistic missile attacks. Sources told The Washington Post that Grynkewich's warning was sent in writing to senior Pentagon officials. 
-‏
-‏➡️According to them, Grynkewich stated that without an additional destroyer, he would be forced to choose between defending the U.S. and defending Israel.
-‏
-‏@GeoPWatch
-18:40
-1405/05/10
-
-
-
-
 src :@Artemis_Force
 ‏بلومبرگ: کشتی حامل گاز قطر هنگام عبور از تنگه هرمز مورد اصابت قرار گرفت.
 ‏
@@ -6557,30 +6547,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:32
-1405/05/10
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷‼️ - Multiple reports indicate a series of precautionary evacuations may be underway at military and government facilities across Iran.
-‏
-‏Reported locations include :
-‏• The 37th Armored Brigade near Shiraz
-‏• The Al-Mahdi military base in Urmia
-‏• The Ministry of Intelligence headquarters
-‏• The Shahid Rajaei Port in Bandar Abbas
-‏• The Fourth Tactical Air Base (Vahdati) in Dezful. 
-‏• A report claims soldiers at Dezful were ordered to return to their families after the base was evacuated.
-‏
-‏The reports have been partially contradicted by Iranian officials. Hormozgan’s Deputy Governor, speaking to Tasnim News Agency, dismissed claims of evacuations in the province as “completely baseless,” stating that no evacuation orders have been issued and that the security situation remains stable.
-‏
-‏Similar dispersal measures have been observed during previous periods of heightened tensions.
-‏
-‏At the moment, there is no independent confirmation of the reported evacuations.
-‏
-‏@GeoPWatch
-18:29
 1405/05/10
 
 
@@ -6716,17 +6682,6 @@ src :@mamlekate
 ‏منابع خبری گزارش داده‌اند ‏آروین در آخرین گفتگو با خانواده‌اش گفته بود: ‏«نگذارید من را فراموش کنند. ما برای آزادی میهن رفتیم، نگذارید مسیری که رفتیم خاموش شود.»
 ‏
 ‏@mamlekate
-18:18
-1405/05/10
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇹🇷🇮🇶⚡️ — Türkiye and Iraq have signed a one-year interim agreement to continue operating the Iraq–Türkiye oil pipeline.
-‏
-‏➡️ Under the agreement, Iraq aims to boost pipeline exports from the current 180,000 barrels per day to as much as 750,000 barrels per day, while both countries negotiate a longer-term pipeline arrangement.
 18:18
 1405/05/10
 
@@ -6942,19 +6897,6 @@ src :@defence_news
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🤝🇯🇵 - US Treasury Secretary Scott Bessent postures for an intervention in the Forex market, intentionally exposing a 'To Do List' reading "Buy Japanese Yen (JPY) $5-10 bil" to journalists. 
-‏
-‏This is the third time the Trump's Department of Treasury contemplated an intervention in forex market. The first intervention, worth $20 billion, was aimed to secure the election victory for Trump's ally Javier Milei in Argentina. The second intervention proposal involves providing the UAE with a cash line at the height of the war in Iran back in April. The Department was also the suspect behind multiple 'manipulative' trades in the oil future market during the Iran War.
-‏
-‏The Bank of Japan alone has spent over $126 billion in the last two years defending the Yen. Previous interventions have proved ineffective, with the Yen back to historic low months if not weeks after.
-16:40
-1405/05/10
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇮🇷⚡️ — T-72 tanks in service with the Islamic Republic of Iran Army's 92nd Armoured Division on the move towards Abadan, southwestern coastal Iran.
@@ -7134,27 +7076,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 15:44
-1405/05/10
-
-
-
-
-src :@defence_news
-[عکس]
-‏🔶 تکنولوژیا...
-‏
-‏@RASTAKHIZ_PERSIAN
-15:40
-1405/05/10
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 تکنولوژیا...
-‏
-‏
-‏@RASTAKHIZ_PERSIAN
-15:39
 1405/05/10
