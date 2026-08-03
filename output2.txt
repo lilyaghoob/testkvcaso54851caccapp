@@ -1,3 +1,34 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 تولید نفت پالایش‌شده روسیه به پایین‌ترین سطح در بیش از دو دهه اخیر سقوط کرد
+‏
+‏🔹 بر اساس گزارش بلومبرگ، میزان پالایش نفت روسیه در ماه ژوئیه به ۳.۶ میلیون بشکه در روز کاهش یافته که نسبت به ماه ژوئن ۱۵۰ هزار بشکه در روز کمتر است. این پایین‌ترین سطح پالایش نفت روسیه از ماه مه ۲۰۰۲ تاکنون محسوب می‌شود.
+‏
+‏🔹 برای مقایسه، پالایشگاه‌های روسیه در ژوئیه ۲۰۲۱ روزانه حدود ۵.۵۹ میلیون بشکه نفت خام را فرآوری می‌کردند. این افت چشمگیر نشان‌دهنده کاهش قابل‌توجه ظرفیت عملیاتی صنعت پالایش روسیه در سال‌های اخیر است.
+‏
+‏#روسیه 
+‏#نفت 
+‏#انرژی
+‏
+‏@RASTAKHIZ_PERSIA
+23:22
+1405/05/12
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر اقتصاد:
+‏
+‏دشمن آرزوی زمین زدن اقتصاد ایران را به گور خواهد برد
+‏
+‏@MilitarryWorld | Parsa
+23:21
+1405/05/12
+
+
+
+
 src :@tglobaleye
 ‏#BREAKING | 🇮🇷 🇺🇦 — Senior Iranian official Mohsen Rezaee:  We were prepared to attack three locations in Ukraine, but after that country apologized, we canceled the attack.  The Global Eye | Subscribe
 23:16
@@ -1107,7 +1138,7 @@ src :@MilitarryWorld
 
 
 src :@naya_foriraq
-‏🇹🇷الاعلام الغربي: سفينة شحن تركية كانت متجهة إلى روسيا تتعرض لهجوم بطائرات مسيّرة في البحر الأسود.
+‏🇹🇷 سفينة شحن تركية كانت متجهة إلى روسيا تتعرض لهجوم بطائرات مسيّرة في البحر الأسود.
 21:51
 1405/05/12
 
@@ -1991,14 +2022,6 @@ src :@Indypersian
 ‏🖋بدیع یونس 
 ‏
 ‏@INDYPERSIAN
-20:48
-1405/05/12
-
-
-
-
-src :@MilitarryWorld
-‏📱 اشتراک Gemini (۱۲ ماهه)تعداد به شدت محدود!  💵 قیمت با تخفیف: فقط ۶۳۰ هزار تومان  ✅ فعال‌سازی روی اکانت شخصی خودتون 🛡 بدون نیاز لاگین در اکانت شما  ❗️ موجودی محدوده و بعد از اتمام، امکان ثبت سفارش با این قیمت وجود نداره.  ⬇️ ثبت سفارش و خرید:⬇️ https://a…
 20:48
 1405/05/12
 
@@ -4185,20 +4208,6 @@ src :@tglobaleye
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ خبرگزاری رویترز روز دوشنبه ۱۲ مرداد، با بررسی داده‌های کشتیرانی، اعلام کرد که در روزهای شنبه و یکشنبه، دو نفتکش حامل نفت عربستان سعودی با خاموش کردن سیستم‌های ردیابی خود (AIS) از تنگه باب‌المندب عبور کردند، در حالی که پس از گزارش‌ها درباره حمله به کشتی‌ها، رفت‌وآمد در تنگه هرمز کند شده است.
-‏
-‏داده‌های موسسه کپلر نشان می‌دهد تعداد شناورهای تجاری عبوری از باب‌المندب روز یکشنبه به ۱۸ کاهش یافت، در حالی که این رقم روز شنبه ۲۷ و روز جمعه ۲۸ فروند بود. حوثی‌های هم‌پیمان جمهوری اسلامی ایران از دو هفته قبل تهدیدهای خود علیه کشتی‌های عبوری از این تنگه که دریای سرخ را به آب‌های آزاد وصل می‌کند، از سر گرفتند.
-‏
-‏نفتکش «لسووس» با پرچم مالتا حاوی حدود یک میلیون بشکه نفت خام عربستان سعودی و نفتکش غول‌پیکر «دش وایباو» حامل ۲ میلیون بشکه نفت این کشور به مقصد بندر سیکای هند (محل دریافت نفت شرکت ریلاینس) از مسیر باب‌المندب عبور کرده‌اند. مقصد نفتکش لسووس هنوز مشخص نیست.
-‏@indypersian
-16:23
-1405/05/12
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏همزمان با مطرح شدن پیشنهاد حذف بودجه برخی پروژه‌های عمرانی برای تامین هزینه‌های جنگی، مقام‌های محلی در استان‌های اردبیل و خراسان رضوی از کمبود منابع مالی، فرسودگی شبکه‌های آب و تنش آبی در ده‌ها منطقه خبر دادند.
@@ -4442,21 +4451,6 @@ src :@defence_news
 src :@intelslava
 ‏🇺🇦🇷🇺⚡️ — Footage has emerged of today's attack by Ukrainian Nazis on Arkhipo-Osipovka, near Gelendzhik.  As a result of the attack, 3 people were killed and 13 were injured, including children.  @Intelslava
 15:32
-1405/05/12
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Wildberries has banned its employees from bringing smartphones to work.
-‏
-‏Starting today, only button phones without cameras can be used.
-‏
-‏The measure is explained by security concerns, as well as the potential for unauthorized recordings. Wildberries believes that such publications could reveal information about facilities and create additional risks.
-‏
-‏@Intelslava
-15:30
 1405/05/12
 
 
@@ -6566,21 +6560,4 @@ src :@OSINTWarfare
 [عکس]
 ‏An interesting image showing the new two-seat Su-57D alongside a Su-30SM2.
 23:22
-1405/05/11
-
-
-
-
-src :@Exciton_missile_program
-‏@Exciton_missile_program 🚀
-23:18
-1405/05/11
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏@Exciton_missile_program 🚀
-23:17
 1405/05/11
