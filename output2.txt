@@ -1,3 +1,67 @@
+src :@MilitarryWorld
+‏🔴منبع ایرانی به المیادین:
+‏
+‏مذاکرات ما با همسایه ابدی مان، سلطان نشین عمان در حال انجام است، به ویژه اینکه تنگه هرمز منحصراً در آب هایخخ سرزمینی دو کشور قرار دارد.
+‏
+‏@MilitarryWorld | Parsa
+22:57
+1405/05/12
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴محسن رضایی: ترامپ اینبار تصمیم گرفت خودش بدون اسرائیل به ایران حمله کند که به مردم آمریکا بگوید این اسرائیل نبود که ما را مجبور به حمله کرد و ما خودمان این تصمیم را گرفتیم و در نهایت پیروزی را به نام خودش ثبت کند.  ✍🏻 Desert Eagle ▪️@World_Newsly
+22:56
+1405/05/12
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇷🇺🇦 Iran says it was prepared to launch strikes on Ukraine before they called and said the attack on an Iranian ship was a mistake.
+‏
+‏@BRICSNews
+22:55
+1405/05/12
+
+
+
+
+src :@tabzlive
+‏🇺🇸⚡️ — Two people in Michigan have died in connection with a major outbreak of cyclosporiasis, marking the first known deaths linked to the foodborne illness.
+‏
+‏The outbreak has resulted in 11,234 confirmed cases and 193 hospitalizations. 
+‏
+‏Deaths from cyclosporiasis are rare, as the infection is generally not considered life-threatening.
+22:54
+1405/05/12
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴محسن رضایی: ترامپ اینبار تصمیم گرفت خودش بدون اسرائیل به ایران حمله کند که به مردم آمریکا بگوید این اسرائیل نبود که ما را مجبور به حمله کرد و ما خودمان این تصمیم را گرفتیم و در نهایت پیروزی را به نام خودش ثبت کند.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+22:53
+1405/05/12
+
+
+
+
+src :@naya_foriraq
+‏🇧🇭البحرين:  ‏خفر السواحل تعلن عن تغيير منطقة العمل الخاصة بمشروع المسح البحري ثلاثي الأبعاد.
+22:53
+1405/05/12
+
+
+
+
 src :@P_raetorio
 ‏در رقابت میان دو نمونه آزمایشی YF-22 و YF-23، نیروی هوایی در نهایت طرح لاکهید را برگزید. برخلاف روایت رایجی که این انتخاب را صرفاً به دلیل مانورپذیری بیشتر YF-22 نسبت می‌دهد، تصمیم نهایی حاصل مجموعه‌ای از ملاحظات عملیاتی، ریسک صنعتی و ارزیابی قابلیت توسعه…
 22:49
@@ -695,19 +759,6 @@ src :@P_raetorio
 
 
 
-src :@World_Newsly
-‏🔴 خبرنگار: این حداقل پنجمین بار از آوریل است که حملات هوایی علیه ایران را متوقف می‌کنید. پیام شما به مردم آمریکا درباره اینکه این بار چه چیزی تغییر کرده چیست؟
-‏
-‏🔹️ ترامپ: «خب، نمی‌دانم. می‌خواهم قبل از اینکه سر از تنشان جدا کنم، آخرین فرصت را به آنها بدهم.»
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-22:05
-1405/05/12
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏آخرین فرصت
 22:02
@@ -1352,14 +1403,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 21:25
-1405/05/12
-
-
-
-
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Iranian leaders believe President Trump's military threats are intended to strengthen his negotiating position, not trigger a wider war, according to Reuters.
-21:24
 1405/05/12
 
 
@@ -2023,18 +2066,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 20:31
-1405/05/12
-
-
-
-
-src :@MilitarryWorld
-‏🔴مقامات آمریکایی به شبکه سی‌بی‌اس نیوز گفتند که با وجود اظهارات ترامپ، مذاکرات مستقیم با ایران برنامه‌ریزی نشده است.
-‏
-‏تماس‌ها بین تیم مذاکره‌کننده آمریکایی و طرف ایرانی از طریق واسطه‌ها همچنان ادامه دارد.
-‏
-‏@MilitarryWorld | Parsa
-20:30
 1405/05/12
 
 
@@ -4980,20 +5011,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏هیات رییسه مجلس خبرگان رهبری، روز دوشنبه ۱۲مرداد، با انتشار بیانیه‌ای ضمن حمایت از مواضع «مجتبی خامنه‌ای»، سومین رهبر جمهوری اسلامی، امید به تفاهم و توافق با آمریکا را «بی‌فایده» خوانده و آن‌چه «زمزمه‌های تسلیم‌طلبی به نام دفاع از صلح» نامیده را «خیانتی نابخشودنی» توصیف کرده است. 
-‏
-‏این بیانیه ساعاتی پس از آن منتشر شد که «مسعود پزشکیان»، رییس‌جمهوری اسلامی، تفاهم‌نامه اسلام‌آباد را حاصل «خرد جمعی» اعضای شورای عالی امنیت ملی خواند و آن را «مرکز ثقل روابط خارجی» ایران در آینده توصیف کرد. 
-‏بخوانید: https://iranwire.com/fa/news-1/155773
-‏
-‏@Farsi_Iranwire
-13:08
-1405/05/12
-
-
-
-
 src :@Parvazdaroj
 ‏https://t.me/Artemis_Force/12387
 13:04
@@ -6269,30 +6286,10 @@ src :@rnintel
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 President Trump says negotiations with Iran will officially restart tomorrow.
-‏
-‏@BRICSNews
-01:42
-1405/05/12
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇪🇹 - Fighting between the TPLF's Army 70 and Army 13 and the Ethiopian military, ENDF, largely subsided overnight, aside from a few TPLF drone strikes targeting ENDF positions early this morning. A major internet blackout remains in effect across much of the…
 01:41
-1405/05/12
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸 President Trump says a US strike on Iran would have been the biggest attack since World War II.
-‏
-‏@BRICSNews
-01:31
 1405/05/12
 
 
