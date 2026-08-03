@@ -1,5 +1,70 @@
 src :@tglobaleye
 [عکس]
+‏#NEWS |🛢— Current Oil Prices 
+‏
+‏The Global Eye | Subscribe
+08:55
+1405/05/12
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ میزان، خبرگزاری قوه قضائیه روز دوشنبه ۱۲ مردادماه از اعدام دو نفر دیگر در ایران به اتهام همکاری با اسرائیل در جریان جنگ ۱۲ روزه و جنگ اخیر خبر داد.
+‏
+‏در گزارش خبرگزاری قوه قضائیه این دو متهم امید بهزاد و پوریا صفوت معرفی و به «ارسال مختصات، تصاویر و اطلاعات مراکز نظامی و امنیتی برای افسران موساد و کانال‌های ارتباطی وابسته به این سرویس جاسوسی» متهم شده‌اند. قوه قضائیه مدعی است که همکاری این دو نفر با اسرائیل «کمک شایانی به آن‌ها در رسیدن به اهداف» این کشور داشته است.
+‏
+‏خبرگزاری میزان در شرح اتهام امید بهزاد نوشته است: «بررسی‌های فنی انجام‌شده بر روی تلفن همراه امید بهزاد نشان داد او در جریان جنگ رمضان [عنوانی که حکومت ایران به جنگ اخیر با آمریکا و اسرائیل می‌دهد]، بار‌ها مختصات، موقعیت جغرافیایی و اطلاعات مربوط به مراکز نظامی، انتظامی و امنیتی را برای کانال‌های وابسته به موساد ارسال کرده است.»
+‏
+‏در همین گزارش، پوریا صفوت متهم شده است که «در شرایط جنگی، اقدام به ارسال مختصات مکان‌های نظامی و امنیتی به شبکه اینترنشنال می‌کرد.»
+‏
+‏این دو نفر در حالی اعدام شده‌اند که مقام‌های ارشد جمهوری اسلامی و ازجمله عباس عراقچی، وزیر امور خارجه، وجود حفره‌های عمیق امنیتی در داخل نظام را تائید کرده‌اند.
+‏
+‏براساس گزارش نهادهای حقوق بشری، از دی‌ماه امسال تاکنون بین ۴۳۰ تا ۴۴۲ نفر در ایران اعدام شده اند.
+‏
+‏@indypersian
+08:54
+1405/05/12
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 ناتوانی در بستن کامل تنگه هرمز؟
+‏
+‏🔹بر اساس داده‌های رهگیری نفتکش‌ها ( TankerTrackers) ، ادعای «انسداد کامل تنگه هرمز» با واقعیت تردد نفتکش‌ها همخوانی ندارد.
+‏
+‏🔹بر اساس این داده‌ها، طی ۲۱ روز گذشته به‌طور میانگین روزانه حدود ۷.۵ میلیون بشکه نفت از تنگه هرمز عبور کرده است. یعنی در مجموع حدود ۱۵۷.۵ میلیون بشکه نفت در این مدت از این آبراه صادر شده است.
+‏
+‏🔹علاوه بر این، تنها در ۲۴ ساعت گذشته نیز نفتکش‌هایی با مجموع ظرفیت حدود ۱۳ میلیون بشکه وارد خلیج فارس شده‌اند که نشان می‌دهد جریان حمل‌ونقل نفت همچنان ادامه دارد.
+‏
+‏🔹این ارقام نشان می‌دهد که با وجود تنش‌ها و کاهش تردد نسبت به شرایط عادی، ادعای «انسداد کامل» با داده‌های رهگیری کشتی‌ها سازگار نیست و صادرات نفت از مسیر تنگه هرمز همچنان ادامه دارد .
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+08:54
+1405/05/12
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Iran says it has executed two men accused of spying for Israel during the 12-day and most recent war. 
+‏
+‏Authorities say the pair provided Mossad and affiliated channels with coordinates, images, and information on Iranian military and security sites to assist Israeli operations.
+‏
+‏@wfwitness
+08:53
+1405/05/12
+
+
+
+
+src :@tglobaleye
+[عکس]
 ‏#BREAKING | 🇮🇷 🇴🇲 — Iranian forces reportedly attempted to strike a civilian tanker in the Strait of Hormuz. 
 ‏
 ‏A projectile struck the water near the vessel, causing an explosion in the vicinity, but the ship sustained no damage and the crew remains safe, according to maritime reports including UKMTO.
@@ -130,7 +195,7 @@ src :@mohem_mat
 src :@tabzlive
 ‏🇷🇺❌🇷🇴🇺🇦 — There have been repeated Russian Geran-2 UAV incusions into Romanian airspace the past several days, prompting Romanian Air Force F-16AM Fighting Falcon fighter jets to scramble to intercept. The Geran-2s are violating Romanian airspace to reach Ukrainian targets.
 ‏
-‏The latest incident occured several hours ago; Ukrainian air defenses shot down a Geran-2 UAV over Romanian territory, prompting intercepted remnants to fall on a farm field.
+‏The latest incident occured several hours ago; Ukrainian air defenses shot down a Geran-2 UAV on Romanian territory after flying through for 20 minutes, prompting intercepted remnants to fall on a farm field.
 08:26
 1405/05/12
 
@@ -1603,15 +1668,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 01:50
-1405/05/12
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴گزارش درگیری در تنگه هرمز   ✍🏻 Nadershah ▪️@World_Newsly
-01:48
 1405/05/12
 
 
@@ -5719,41 +5775,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐃𝐆𝐑
 09:01
-1405/05/11
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏#تاریخنگار_فضایی 
-‏
-‏در 2 آگوست 1934، در شهر باستانی روسیه پاولوفسکی پوساد، والری فدوروویچ بیکوفسکی متولد شد.
-‏
-‏ بیکوفسکی یکی از کیهانوردان اولین گروه افسانه ای شوروی بود و دو بار قهرمان اتحاد جماهیر شوروی شد. 
-‏
-‏والری بیکوفسکی در مجموع 20 روز و 17 ساعت و 47 دقیقه و 21 ثانیه را در فضای بین سیاره ای گذراند. او سه پرواز فضایی انجام داد: در سال های 1963، 1976 و 1978.
-‏
-‏@rus_cosmos
-08:55
-1405/05/11
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏✈️نیروی هوایی آمریکا (USAF) – فعالیت‌ها در خاورمیانه
-‏پایگاه هوایی سویهان، امارات متحده عربی
-‏
-‏⏺ طی ساعات گذشته جابه‌جایی قابل‌توجهی از هواپیماهای ترابری C-17 از پایگاه هوایی سویهان در امارات متحده عربی مشاهده شده است.
-‏
-‏⏺از حدود ساعت ۱۸:۰۰ به وقت زولو (UTC) شامگاه ۳۱ ژوئیه، پنج فروند C-17 با شناسه‌های پروازی MOOSE 54 تا MOOSE 58 وارد پایگاه سویهان شده و پس از مدت کوتاهی آن را ترک کرده‌اند. به‌جز یک فروند، تمامی این هواپیماها به فرودگاه بین‌المللی ملک حسین در اردن پرواز کرده‌اند. هواپیمای MOOSE 54 نیز راهی پایگاه هوایی رامشتاین در آلمان شده است.
-‏
-‏⏺چند روز پیش نیز تحرکات مشابهی با حضور چندین فروند C-17 در اربیل مشاهده شد. پس از آن گزارش‌هایی منتشر شد مبنی بر اینکه یک سامانه پدافند موشکی پاتریوت از عراق خارج شده است.
-‏
-‏⏺هنوز مشخص نیست این هواپیماها چه محموله‌ای را جابه‌جا می‌کنند، اما داده‌های ACARS نشان می‌دهد که آن‌ها ابتدا در پایگاه سویهان تجمیع شده و سپس به سمت اردن حرکت می‌کنند.
-‏
-‏@mwarmonitor
-08:52
 1405/05/11
