@@ -1,3 +1,124 @@
+src :@tabzlive
+[عکس]
+‏Changes on the frontline in Ukraine for July 2026:
+‏
+‏Yellow = Russian advances
+‏Light blue = Ukrainian advances
+‏
+‏Russian advances:
+‏Donetsk Oblast: ~204.4 km²
+‏Zaporizhzhia Oblast: ~65.6 km²
+‏Kharkiv Oblast: ~57.9 km²
+‏Sumy Oblast: ~52.6 km²
+‏Dnipropetrovsk Oblast: ~6.0 km²
+‏Luhansk Oblast: ~0.7 km²
+‏Kherson Oblast: ~0 km²
+‏
+‏Total: ~387.2 km² (up by 62.23% compared to June)
+‏
+‏Ukrainian advances:
+‏Dnipropetrovsk Oblast: ~52 km²
+‏Donetsk Oblast: ~41 km²
+‏Zaporizhzhia Oblast: ~10.4 km²
+‏Luhansk Oblast: ~5.5 km²
+‏Kharkiv Oblast: ~5.1 km²
+‏Sumy Oblast: ~3.3 km²
+‏Kherson Oblast: ~0 km²
+‏
+‏Total: ~117.3 km² (down by 49.67% compared to June).
+‏
+‏Note: The main figures (not including the section below) covers net gains for each side. Ukrainian advances that took place on territory Russia occupied within this month will simply be subtracted from the Russian total, and vice versa.
+‏
+‏Net changes overall (Russian advances minus Ukrainian advances): 
+‏
+‏+269.9 km² in favour of Russia (up by 4807.28% compared to June).
+20:37
+1405/05/12
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴مقامات آمریکایی به سی بی اس گفته اند با وجود اظهارات ترامپ، اما واقعا برنامه‌ای برای مذاکره بین ایران و آمریکا وجود نداشته و دو کشور از طریق میانجی ها در حال رد و بدل کردن پیام هستند.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+20:36
+1405/05/12
+
+
+
+
+src :@didarnews1
+‏دیدارنیوز pinned a photo
+20:34
+1405/05/12
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚽️ — President Trump is expected to strongly back FIFA President Gianni Infantino as he faces growing calls to resign over his failed plan to sell stakes in the World Cup's commercial rights, according to The Telegraph.
+‏
+‏A senior administration official told the newspaper Trump would do "everything possible" to help Infantino, citing his role in helping deliver what Trump described as the "best World Cup ever."
+20:34
+1405/05/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏سنتکام، فرماندهی مرکزی ایالات متحده، با تاکید بر اینکه «نیروهای آمریکا همچنان به طور سختگیرانه محاصره آمریکا علیه ایران را اجرا می‌کنند»، اعلام کرد که از ابتدای آغاز محاصره دریایی سواحل و بنادر در جنوب ایران تاکنون ۴۴ کشتی تجاری مجبور به تغییر مسیر شده‌اند.
+‏
+‏سنتکام همچنین اعلام کرد که دو کشتی از کار انداخته شده و دو کشتی دیگر مورد بازرسی قرار گرفته‌اند.
+‏https://iranintl.com/202608038551
+20:33
+1405/05/12
+
+
+
+
+src :@ManotoTV
+[عکس]
+‏جمهوری اسلامی در میانه جنگ، فقر و نارضایتی گسترده، از اعدام به‌عنوان ابزاری برای ایجاد وحشت، پراکنده‌کردن خشم عمومی و جلوگیری از شکل‌گیری اعتراض سازمان‌یافته استفاده می‌کند.
+20:33
+1405/05/12
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇦⚡️ — Zelensky is proposing to Putin an air ceasefire, a halt to strikes on energy infrastructure, a freeze of the war along the current front line, and the start of difficult negotiations. He is also willing to meet with Putin in person, according to Presidential…
+20:33
+1405/05/12
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏طيران مروحي عراقي تحت إشراف أمريكي في سماء العاصمة بغداد
+20:32
+1405/05/12
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴رسانه های اسرائیلی امروز نوشتند کار های ترامپ برنامه های مردم اسرائیل را به هم زده و مردم اسرائیل در حال دیوانه شدن از دست او هستند!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+20:32
+1405/05/12
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️محمد اتابک، وزیر صنعت، معدن و تجارت جمهوری اسلامی ایران، روز دوشنبه ۱۲ مرداد ماه برای شرکت در جلسه کمیته مشترک تجاری ایران و پاکستان و دیدار با مسوولان ارشد این کشور، وارد اسلام‌آباد شد.
@@ -1292,15 +1413,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — U.S. Department of War announces signing framework agreements with Northrop Grumman and Lockheed Martin to triple production for MIM-104 Patriot PAC-3 MSE interceptors and quadruple production for THAAD interceptors.
-19:17
-1405/05/12
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇵🇰 🇮🇷 🇺🇸 — Pakistan will invite Iranian Foreign Minister Abbas Araghchi to Islamabad for discussions on possible negotiations with the United States, diplomatic sources told Al Arabiya.
@@ -2128,15 +2240,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴نتانیاهو: من قصد دارم شرکای جدیدی داشته باشیم. برای همین هست که من به شدت در هند سرمایه گذاری کرده ام و نارندرا دوست خوب من است و ما در هند بسیار محبوبیت داریم  ✍🏻 Desert Eagle ▪️@World_Newsly
-18:32
-1405/05/12
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏وزارت خارجه پاکستان اعلام کرد محمد اسحاق دار، معاون نخست وزیر و وزیر خارجه پاکستان، امروز با عباس عراقچی، وزیر خارجه جمهوری اسلامی، گفت‌وگو و از او دعوت کرد تا در اولین فرصت مناسب به پاکستان سفر کند.
@@ -2527,20 +2630,6 @@ src :@MilitarryWorld
 src :@naya_foriraq
 ‏🇮🇶رويترز: ناقلة تحمل مليوني برميل من النفط العراقي تعبر مضيق هرمز متجهة إلى الصين
 17:54
-1405/05/12
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، با انتشار پستی در تروث‌سوشال نوشت که برخلاف نظرسنجی‌های منتشر شده در «رسانه‌های جعلی»، با اقدامات دولت ایالات متحده از جمله «خلع سلاح هسته‌ای» جمهوری اسلامی، میزان رضایت از او در بهترین وضعیت قرار دارد.
-‏
-‏ترامپ نوشت: «چرا نباید چنین باشند؟ با توجه به بزرگ‌ترین کاهش‌های مالیاتی و بالاترین آمار اشتغال در تاریخ، بزرگ‌ترین میزان سرمایه‌گذاری خارجی در آمریکا در تاریخ جهان، مرز کاملاً امن، یک پیروزی بزرگ در ونزوئلا، خلع سلاح هسته‌ای جمهوری اسلامی، احترام و موفقیت بی‌سابقه در سراسر جهان و بسیاری موارد دیگر.»
-‏
-‏ترامپ با دعوت از شهروندان آمریکایی به رای دادن به جمهوری‌خواهان، نوشت: «اعداد جعلی نظرسنجی‌های چپ افراطی را باور نکنید. آنها فاسد و متقلب هستند؛ درست مانند دموکرات‌هایی که کشور را نابود می‌کنند و آنها نیز فاسد و متقلب هستند.»
-‏https://iranintl.com/202608036958
-17:47
 1405/05/12
 
 
@@ -3499,17 +3588,6 @@ src :@mohem_mat
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇸🇾التهريب متواصل من سوريا
-‏
-‏القوات الامنية العراقية تضبط كمية من الأدوية البشرية عددها (2,160) حبة من مخدر الأسنان مخبأة داخل عجلة قادمة من سوريا
-16:35
-1405/05/12
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸⚽️ ⁠New York Post: FIFA President Gianni Infantino is reportedly seeking political backing from the Trump administration to help preserve his leadership, with sources saying he has requested a private meeting with US Secretary of State Marco Rubio.  The…
@@ -4406,17 +4484,6 @@ src :@P_raetorio
 ‏⚜بر اساس این گزارش، با وجود هفته‌ها حملات هوایی آمریکا، نهادهای اطلاعاتی این کشور بر این باورند که کارزار بمباران تاکنون نتوانسته ایران را به آغاز مذاکرات وادار کند.
 ‏✒️#LT
 ‏📃@Cataphract1
-14:47
-1405/05/12
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺❌🇺🇦 — Russian Geran-4 loitering munition hit another Ukrainian cargo ship in the Black Sea.
-‏
-‏@IntelSlava
 14:47
 1405/05/12
 
@@ -5664,20 +5731,6 @@ src :@didarnews1
 
 
 
-src :@didarnews1
-‏🔴وال استریت جورنال:
-‏
-‏🔹دونالد ترامپ به مسیر دیپلماتیک بازگشت، چرا که دستیابی به یک پیروزی قاطع بر ایران، با توجه به دشواری دستیابی به اهدافی که واشنگتن از طریق تشدید تنش‌های نظامی به دنبال آن بود، دور از دسترس شده است.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-09:51
-1405/05/12
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇷❌🇴🇲🛢 — Hours ago, UKMTO reported that it received an incident report 20NM northeast of Khasab, Sultanate of Oman.
@@ -6827,23 +6880,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 20:47
-1405/05/11
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔻نظرسنجی موسسه پیو: مردم کانادا و مکزیک این روزها بیش از آمریکا به چین دیدگاه مثبتی دارند
-‏
-‏▪️کانادایی‌ها با دیدگاه مثبت به:
-‏چین: ۴۴٪
-‏ایالات متحده: ۳۳٪
-‏
-‏▪️مکزیکی‌ها با دیدگاه مثبت به:
-‏چین: ۵۹٪
-‏ایالات متحده: ۴۰٪
-‏
-‏🆔 @Americana_ir
-20:35
 1405/05/11
