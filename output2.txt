@@ -666,14 +666,6 @@ src :@IranintlTV
 
 
 
-src :@Middle_East_Spectator
-‏Middle East Spectator — MES pinned «—❗️🇺🇸/🇮🇷 NEW: Multiple conflict fronts across the Middle East remain tense, and possible U.S.-Iran negotiations are the biggest short-term variable  Constant shifts in geopolitical news disturb global energy prices and lift risk-averse sentiment in the crypto…»
-01:22
-1405/05/13
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷❌🇮🇶🌞 — An Iranian drone struck the headquarters of a Kurdish separatist group in the Khabat District of Iraq's western Erbil Governorate.
@@ -6986,20 +6978,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 03:23
-1405/05/12
-
-
-
-
-src :@IRRadar
-‏🔴 اختلال در سرویس تحریم‌گذر اپراتورها؛ اختلال در بسیاری از VPNها
-‏
-‏بر اساس گزارش‌های دریافتی، سرویس تحریم‌گذر مورد استفاده برخی اپراتورها که برای دسترسی به سرویس‌های تحریم‌شده مانند Spotify به‌کار گرفته می‌شد، از زیرساخت آذربایجان خارج و به زیرساخت آلمان منتقل شده است.
-‏
-‏گزارش‌ها حاکی از آن است که این جابه‌جایی باعث اختلال در دسترسی به برخی سرویس‌های تحریم‌شده، کاهش سرعت و بروز مشکل برای تعدادی از کاربران در استفاده از سرویس‌هایی مانند Spotify و ChatGPT شده است. 
-‏
-‏همچنین برخی کاربران از اختلال در اتصال به بسیاری از VPNهای بدون تانل خبر می‌دهند.
-‏
-‏📡 @IRRadar
-02:56
 1405/05/12
