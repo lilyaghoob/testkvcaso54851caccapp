@@ -1,3 +1,89 @@
+src :@intelslava
+[ویدئو]
+‏Reports of explosions in Kuwait following an Iranian drone attack.
+02:26
+1405/05/13
+
+
+
+
+src :@OSINTWarfare
+[ویدئو]
+‏Reports of explosions in Kuwait following an Iranian drone attack.
+02:26
+1405/05/13
+
+
+
+
+src :@MilitarryWorld
+‏🔴فوری/نایا: کویت رو زدن  @MilitarryWorld | Parsa
+02:24
+1405/05/13
+
+
+
+
+src :@rnintel
+‏🇮🇷🇮🇶🇰🇼⚡- Explosions are also heard in northern Kuwait too.
+02:24
+1405/05/13
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏انفجارات تهز شمال الكويت مجددا ؛ اصابة مباشرة لقاعدة أمريكية
+02:24
+1405/05/13
+
+
+
+
+src :@rnintel
+‏🇮🇶🇮🇷🇰🇼⚡- Loud explosions heard over the Kuwait-Iraq international border. Kuwaiti air defenses in the east of the country are engaging Iraqi/Iranian one-way drones.
+02:24
+1405/05/13
+
+
+
+
+src :@naya_foriraq
+‏انفجارات قوية في الكويت تسمع دويها في محافظة البصرة.
+02:23
+1405/05/13
+
+
+
+
+src :@rnintel
+‏🇮🇶🇮🇷🇰🇼⚡- Loud explosions heard over the Kuwait-Iraq international border. Kuwaiti air defenses in the east of the country are engaging Iraqi/Iranian one-way drones.
+02:23
+1405/05/13
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️-زمین‌لرزه‌ای به بزرگی ۴.۱، بامداد سه‌شنبه ۱۳ مرداد، حوالی فارغان در استان هرمزگان را لرزاند. به گزارش تسنیم، این زمین‌لرزه در عمق ۱۰ کیلومتری زمین رخ داد.
+‏
+‏@indypersian
+02:23
+1405/05/13
+
+
+
+
+src :@naya_foriraq
+‏انفجارات قوية في الكويت تسمع دويها في محافظة البصرة.
+02:22
+1405/05/13
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏برخی از منابع از شنیدن شدن انفجارهای مهیب در کویت؛ که صدای آن در استان بصره نیز شنیده شده است خبر می دهند
 02:21
@@ -2559,34 +2645,6 @@ src :@thewarreporter
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ:
-‏
-‏قراره فردا تنگه هرمز رو باز کنیم و بعدش در مورد موضوع هسته ای مذاکره کنیم
-‏
-‏@MilitarryWorld | Parsa
-21:41
-1405/05/12
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸ترامب: "كنا سنهاجمهم بقوة بالامس. بقوة كبيرة جدًا. بقوة أكبر من أي هجوم منذ الحرب العالمية الثانية."
-21:41
-1405/05/12
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸ترامب: نتحدث مع ايران لفتح مضيق هرمز.
-21:40
-1405/05/12
-
-
-
-
 src :@didarnews1
 ‏🔴ترامپ: ما هم‌اکنون به درخواست ایران و با پشتیبانی عربستان سعودی، امارات متحده عربی، قطر و دیگران، در حال گفت‌وگو هستیم
 ‏
@@ -2614,14 +2672,6 @@ src :@GeoPWatch
 
 src :@rnintel
 ‏🇺🇸🇮🇷🇵🇰⚡- Pakistan has denied President Trump's claim of any upcoming scheduled talks between the U.S. and Iran. Islamabad says itself and Qatar, as mediators, are still working to bring the two sides to the table.
-21:37
-1405/05/12
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ: گفت‌وگو ها با ایران ادامه دارد  @MilitarryWorld | Parsa
 21:37
 1405/05/12
 
@@ -3622,20 +3672,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️وزارت خارجه پاکستان، روز دوشنبه ۱۲ مهر ماه، با انتشار بیانیه‌ای درباره گفتگوی تلفنی اخیر وزیران خارجه جمهوری اسلامی ایران و پاکستان، از دعوت رسمی اسحاق دار از عراقچی برای سفر به اسلام آباد خبر داد.
-‏بر اساس این بیانیه، در این گفتگوی تلفنی دو طرف درباره تحولات منطقه‌ای و بین‌المللی از جمله «وضعیت وخیم» در قدس شرقی تبادل نظر کردند.
-‏اسحاق دار در پایان این گفتگو از عراقچی دعوت کرد تا در زمان مناسب به پاکستان سفر کند.
-‏اسلام‌آباد در ماه‌های اخیر، به عنوان میانجی‌گر کلیدی مذاکرات پایان جنگ میان تهران و واشنگتن فعالیت کرده است.
-‏
-‏@indypersian
-19:51
-1405/05/12
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پست ترامپ، ترجمه ماشین:
@@ -4540,14 +4576,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 17:39
-1405/05/12
-
-
-
-
-src :@intelslava
-‏https://t.me/LeonovZ/61
-17:32
 1405/05/12
 
 
