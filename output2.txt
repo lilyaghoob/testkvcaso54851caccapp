@@ -1,3 +1,14 @@
+src :@World_Newsly
+‏🔴خبرنگار العربیه: روز گذشته 39 کشتی از تنگه باب‌المندب عبور کردند.
+‏
+‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️@World_Newsly
+13:37
+1405/05/12
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری «تسنیم»، گزارش داده که نیروی زمینی سپاه پاسداران همزمان با آغاز تردد زائران اربعین، بیمارستان‌های صحرایی و مراکز درمانی سیار خود را در مرزهای مهران، خسروی و باشماق مستقر کرده است.
@@ -27,7 +38,9 @@ src :@ClashReport
 
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇱🇨🇾 Last week, it was reported that Israel's Yashar party candidate Gadi Eisenkot had put on election billboards near the Larnaca airport in Cyprus. The twin billboards display the Hebrew messages “Israelis, enjoy! You deserve it” and “Relaxed? Enjoyed? Now come back and win!” to passengers heading out of and into the Larnaca airport, respectively.
+‏⚡️🇮🇱🇨🇾 Election campaign billboards for Israeli Yashar party leader Gadi Eisenkot have been erected near Larnaca International Airport in Cyprus, targeting Israeli travellers departing from and returning to Israel.
+‏
+‏One billboard, aimed at outbound passengers, reads: “Israelis, enjoy! You deserve it,” while the other, directed at returning travellers, says: “Relaxed? Enjoyed? Now come back and win!”
 ‏
 ‏The twin billboards has angered the locals, raising questions over national sovereignty and increasing Israeli settlement. 
 ‏
@@ -1864,17 +1877,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 10:39
-1405/05/12
-
-
-
-
-src :@World_Newsly
-‏⭕ سی‌ان‌ان: یک افسر ارشد سنتکام هفته گذشته ایمیلی به گروه بزرگی از تحلیلگران ارسال کرد و در آن نوشت: «ما به دنبال راه‌های جدید، خلاقانه و غیرمتعارف برای فشار و مجازات ایران هستیم.» به گفته دو منبع، این اقدامی نسبتاً غیرمعمول است که در آن تصمیم گرفته شد از طریق ایمیل یک «طوفان فکری» گسترده انجام شود.
-‏
-‏✍🏻 adolf hitler
-‏▪️@World_Newsly
-10:38
 1405/05/12
 
 
@@ -5824,22 +5826,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/11/405992/
 13:42
-1405/05/11
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏ 
-‏معیشت و درآمد بیش از نیمی از کاربران در ایران به اینترنت وابسته است
-‏
-‏- یافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) نشان می‌دهد ضریب نفوذ اینترنت در میان جامعه بالای ۱۵ سال کشور به ۸۹/۳ درصد رسیده، به‌طوری که معیشت و درآمد بیش از نیمی از کاربران به اینترنت وابسته است.
-‏
-‏- ۲۰/۳ درصد از کاربران، وابستگی معیشت و درآمد خود به اینترنت و شبکه‌های اجتماعی را «زیاد و خیلی زیاد» توصیف کرده‌اند. ۹/۳ درصد میزان این وابستگی را در حد «متوسط» و ۲۵/۸ درصد در حد «کم» ارزیابی کرده‌اند. در مقابل، ۴۳/۵ درصد اعلام کرده‌اند که درآمدشان هیچ‌گونه وابستگی به فضای مجازی ندارد.
-‏
-‏- اینترنت در ایران از ابتدای سال جاری میلادی به مدت سه هفته در جریان اعتراضات دی‌۴۰۴ و سه ماه نیز به علت جنگ اسرائیل و آمریکا با جمهوری اسلامی قطع بوده است. اینترنت در حالی پس از سه ماه قطع کامل، دوباره وصل شد که گزارش‌ها بیانگر تداوم اختلالات از جمله فیلترینگ و کاهش سرعت حکایت دارد.
-‏
-‏https://kayhan.london/1405/05/11/405986/
-13:39
 1405/05/11
