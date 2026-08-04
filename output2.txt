@@ -7,18 +7,6 @@ src :@Alibk3
 
 
 
-src :@IranintlTV
-[عکس]
-‏سازمان عملیات تجارت دریایی بریتانیا گفت یک کشتی باری هدف یک پرتابه ناشناس قرار گرفته است.
-‏
-‏این سازمان اشاره کرد که این حادثه در ۲۰ مایل دریایی (۳۷ کیلومتری) شمال شرقی الخصب عمان روی داده است.
-‏https://iranintl.com/202608044242
-03:50
-1405/05/13
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏الشيخ أكرم الكعبي مغردًا.
@@ -7135,12 +7123,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 04:00
-1405/05/12
-
-
-
-
-src :@GeoPWatch
-‏🇪🇬 – Exclusive footage shows the alert of an earthquake in Egypt, with a preliminary magnitude of 5.2  @GeoPWatch
-03:55
 1405/05/12
