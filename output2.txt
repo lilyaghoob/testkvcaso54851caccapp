@@ -1,3 +1,14 @@
+src :@P_raetorio
+[عکس]
+‏سازمان تجارت دریایی بریتانیا اعلام کرد شب گذشته یک کشتی در نزدیکی عمان هدف یک پرتابه قرار گرفته است.
+‏
+‏@P_raetorio
+10:04
+1405/05/13
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏نیروی دریایی کره جنوبی، اولین آزمایش‌های پاکسازی مین با استفاده از هوش مصنوعی و شناورهای بدون سرنشین را انجام داد.
@@ -2493,16 +2504,6 @@ src :@BellumActaNews
 ‏
 ‏The statement reads: "The implementation of this roadmap will include, in the first stage, the adoption of the necessary measures to restore consular services, and subsequently, progress towards the normalization of diplomatic relations, according to the schedule agreed upon by both parties."
 02:51
-1405/05/13
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی برنامه با کامبیز حسینی | شل‌کن‌سفت‌کن‌های ترامپ؛ مردم ایران کی سرنوشت خود را به دست می‌گیرند؟
-‏@iranintlTV
-02:47
 1405/05/13
 
 
