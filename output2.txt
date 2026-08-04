@@ -1,3 +1,74 @@
+src :@Middle_East_Spectator
+‏NOTE: The IRGC has not targeted any new ship in the Strait of Hormuz. 
+‏
+‏Reports of a vessel being targeted are false. NASA firemap imagery is related to the attack from last night against a cargo vessel.
+03:27
+1405/05/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏دمار في المنطقة الصناعية بجبل علي في دبي
+03:24
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏دمار شامل في المدينة الصناعية بجبل علي
+03:22
+1405/05/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏سفينة تحترق في مضيق هرمز الآن
+03:22
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر
+03:21
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏استهداف سفينة في الخليج الفارسي بالقرب من مضيق هرمز والنيران تشتعل فيها
+03:21
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر
+03:21
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏دمار شامل في منطقة المارينا بالمدينة الصناعية في دبي نتيجة هجوم مجهول
+03:18
+1405/05/14
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏پیت هگست، وزیر جنگ آمریکا، گزارش سی‌ان‌ان مبنی بر این‌که ارتش این کشور در جریان جنگ با جمهوری اسلامی نزدیک به ۸۰ درصد از ذخایر موشک‌های رهگیر تاد را مصرف کرده است، رد کرد.
@@ -722,14 +793,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏الغاء رحلة اسطنبول - بغداد لاسباب غير معروفة بعد ان شهدت تأخير دام 6 ساعات
-02:08
-1405/05/14
-
-
-
-
 src :@tabzlive
 ‏🇷🇺❌🇺🇦 — Ammonia leak in Holosiivs'kyi District, Kyiv as a result of Russian missile strikes.
 ‏
@@ -899,14 +962,6 @@ src :@World_Newsly
 
 
 
-src :@naya_foriraq
-‏🇮🇱‏اعلام العدو عن مسؤول صهيوني كبير: ترامب يريد التوصل إلى اتفاق بأي ثمن، مشيراً إلى أن "المسافة بين السلام والحرب مع ترامب هي المسافة بين الأحرف على لوحة المفاتيح
-01:51
-1405/05/14
-
-
-
-
 src :@tabzlive
 ‏🇷🇺❌🇺🇦 — Some of the earlier Russian missiles targeted ammunition depots in Kyiv. Secondary explosions reported.
 01:50
@@ -1034,15 +1089,6 @@ src :@wfwitness
 
 
 
-src :@naya_foriraq
-[عکس]
-‏سقوط لعبة "ديلاب هوا" بعدد من العوائل في مدينة ألعاب جلولاء بمحافظة ديالى شرقي العراق وانباء عن عدة أصابات بشرية بالغة
-01:38
-1405/05/14
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴وضعیت آخر الزمانی کی‌یف 
@@ -1058,14 +1104,6 @@ src :@MilitarryWorld
 
 src :@tabzlive
 ‏🇷🇺❌🇺🇦 — Two Iskander-Ms towards Kyiv. Impacts.
-01:37
-1405/05/14
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇦🇷🇺 Footage from Kyiv showcasing multiple fires following fresh Russian ballistic arrivals.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 01:37
 1405/05/14
 
@@ -1132,24 +1170,6 @@ src :@World_Newsly
 ‏✍🏻 Nadershah
 ‏▪️@World_Newsly
 01:29
-1405/05/14
-
-
-
-
-src :@Alibk3
-[عکس]
-‏سي إن إن عن مصدرين:  الجيش الأميركي استخدم ما يقرب من 80٪ من صواريخ اعتراض نظام THAAD وحوالي 50٪ من صواريخ اعتراض نظام Patriot.  دول الخليج تعرب عن قلقها بشأن نقص أنظمة الدفاع الجوي، مما يؤثر على قدرتها على الدفاع ضد الردود الإيرانية.
-01:28
-1405/05/14
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏عدة انفجارات في كييف بعد هجوم باليستي روسي
-01:25
 1405/05/14
 
 
@@ -1230,19 +1250,6 @@ src :@GeoPWatch
 ‏🇷🇺❌🇺🇦 - 3 Iskander-Ms have been launched towards Kyiv. Kyiv is currently suffering from a severe shortage in Patriot Interceptor missiles, these Iskander-Ms are most likely going to impact.
 ‏
 ‏@GeoPWatch
-01:15
-1405/05/14
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ترامب:
-‏
-‏أرقام شعبيتي الحقيقية أفضل من أي وقت مضى، وليس كما تقول وسائل الإعلام المزيفة.
-‏
-‏بفضل خفض الضرائب، وخلق فرص العمل، والاستثمارات، وتأمين الحدود، والانتصار في فنزويلا، ونزع السلاح النووي من إيران، أصبحت أمريكا أكثر نجاحًا
 01:15
 1405/05/14
 
@@ -1743,19 +1750,6 @@ src :@samueltarikh
 ‏⭕️وزارت خارجه قطر:
 ‏
 ‏تمام کشور های منطقه در حال تلاش برای آغاز مذاکرات میان ایران و آمریکا می‌باشند،اما تاکنون هیچ مذاکراتی میان دو طرف بر قرار نشده است،ایران تمایلی برای برگزاری مذاکرات مستقیم با آمریکا ندارد.
-00:30
-1405/05/14
-
-
-
-
-src :@Alibk3
-[عکس]
-‏سي إن إن عن مصدرين:
-‏
-‏الجيش الأميركي استخدم ما يقرب من 80٪ من صواريخ اعتراض نظام THAAD وحوالي 50٪ من صواريخ اعتراض نظام Patriot.
-‏
-‏دول الخليج تعرب عن قلقها بشأن نقص أنظمة الدفاع الجوي، مما يؤثر على قدرتها على الدفاع ضد الردود الإيرانية.
 00:30
 1405/05/14
 
@@ -3552,20 +3546,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 21:12
-1405/05/13
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ وزارت امور خارجه قطر روز سه‌شنبه ۱۳ مرداد اعلام کرد که میانجی‌گران مناقشه میان ایالات متحده و جمهوری اسلامی ایران به‌طور پیوسته در حال تلاش برای «ایجاد شرایط مناسب جهت ازسرگیری گفتگوی مستقیم» میان دو کشور هستند.
-‏
-‏ماجد بن محمد الانصاری، سخنگوی وزارت امور خارجه قطر، در نشست خبری هفتگی خود گفت کشورهای خاورمیانه به‌طور مشترک در تلاش‌اند تا از هرگونه تشدید جدید درگیری‌ها جلوگیری کنند. به گفته او، کشورهای قطر، عمان و پاکستان برای تسهیل تعاملات و «نزدیک کردن دیدگاه‌های واشنگتن و تهران» تلاش‌های مستمری به کار بسته‌اند.
-‏
-‏الانصاری همچنین بر موضع قاطع قطر در خصوص آزادی کشتیرانی در تنگه هرمز تاکید کرد و افزود حداقل خواسته در مرحله کنونی، بازگشت به وضعیت قبلی این تنگه، منطبق بر قوانین بین‌المللی و با هماهنگی تمامی کشورهای ساحلی و ذی‌نفع است.
-‏@indypersian
-21:09
 1405/05/13
 
 
@@ -5455,15 +5435,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏🇮🇷⚡️ — Iranian President Masoud Pezeshkian has denied circulating rumors that he plans to resign, stating that he will remain in office and continue carrying out his duties.
-15:28
-1405/05/13
-
-
-
-
 src :@mwarmonitor
 ‏🔴  وزیر خزانه‌داری آمریکا در مصاحبه با شبکه CNBC گفت:
 ‏
@@ -6606,30 +6577,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #a_m
 04:28
-1405/05/13
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏It's not even Tuesday in Eastern US XD
-‏
-‏ترجمه خودکار فارسی
-‏
-‏هنوز در شرق آمریکا سه‌شنبه نشده XD
-‏
-‏𝕏  ·  @shin_persian
-03:20
-1405/05/13
-
-
-
-
-src :@bricsnews
-‏JUST IN: Cargo ship attacked in the Strait of Hormuz.
-‏
-‏@BRICSNews
-03:18
 1405/05/13
