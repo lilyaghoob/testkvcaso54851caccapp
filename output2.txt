@@ -1,3 +1,11 @@
+src :@tabzlive
+‏🇨🇺⚡️ — A few hours ago, Cuba's electricity collapsed for the second time in 24 hours. Cuba's Unión Eléctrica claims this occured due to weather conditions.
+05:36
+1405/05/13
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️نرم‌افزار پیام‌رسان «تلگرام»، روز دوشنبه، به‌طور ناگهانی از فروشگاه «اپ‌استور» شرکت اپل در سراسر جهان حذف شد. بر اساس اعلام کاربران شبکه‌های اجتماعی، جست‌وجوی نام تلگرام در اپ‌استور با هیچ نتیجه‌ای همراه نیست و صفحات رسمی دانلود این برنامه با «خطای ۴۰۴» مواجه می‌شوند. اگرچه این پیام‌رسان روی دستگاه‌هایی که از قبل آن را نصب داشته‌اند کماکان بدون مشکل کار می‌کند، اما امکان دانلود تازه یا نصب مجدد آن روی آیفون و آیپد فعلا وجود ندارد. تاکنون هیچ‌یک از شرکت‌های اپل یا تلگرام بیانیه رسمی درباره دلایل این تصمیم صادر نکرده‌اند و مشخص نیست که این اقدام دائم است یا موقت و آیا ناشی از بررسی‌های قانونی و محتوایی است یا یک نقص فنی.
@@ -1164,31 +1172,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 01:49
-1405/05/13
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Over the past 24 hours, the following military operations were conducted by the IDF against Lebanon: 
-‏
-‏Airstrikes:
-‏Ali al-Taher (2x)
-‏UAV strikes: 
-‏Ali al-Taher
-‏Mazraat Buyut as Sayad
-‏Artillery bombardment: 
-‏Mansouri (2x)
-‏Meiss El Jabal (2x)
-‏Haddatha (2x)
-‏Beit Yahoun
-‏Demolition activity: 
-‏Kouine
-‏Between Taybeh and Qantara
-‏Machine gun fire: 
-‏Mansouri (2x)
-‏Haddatha
-01:45
 1405/05/13
 
 
