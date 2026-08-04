@@ -1,6 +1,50 @@
+src :@Indypersian
+[عکس]
+‏♦️به گزارش تسنیم، زمین‌لرزه‌ای به بزرگی ۴، بامداد چهارشنبه، حوالی یاسوج در مرز استان‌های كهگيلويه و بويراحمد، اصفهان و فارس را لرزاند. براساس این گزارش، این زلزله در عمق ۶ کیلومتری زمین رخ داد.
+‏
+‏@IndyPersian
+03:05
+1405/05/14
+
+
+
+
+src :@Alibk3
+‏تصاعد الدخان من منطقة جبل علي الصناعية، جنوب مدينة دبي، الإمارات
+03:04
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز سواحل الإمارات
+03:04
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏الله أكبر
+03:04
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز سواحل الإمارات
+03:04
+1405/05/14
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇦🇪/🇾🇪 NEW: Smoke is seen rising near Jebel Ali Port, Dubai  A warehouse or fuel depot has caught on fire, possibly hit by a Yemeni missile (unconfirmed).  @Middle_East_Spectator
+‏—❗️🇦🇪/🇾🇪 NEW: Smoke is seen rising near Jebel Ali Industrial Area, Dubai  A warehouse or fuel depot has caught on fire, possibly hit by a Yemeni missile (unconfirmed).  @Middle_East_Spectator
 03:03
 1405/05/14
 
@@ -11,6 +55,14 @@ src :@Alibk3
 [عکس]
 ‏تصاعد الدخان من منطقة جبل علي الصناعية، جنوب مدينة دبي، الإمارات
 03:03
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز سواحل الإمارات
+03:02
 1405/05/14
 
 
@@ -27,7 +79,7 @@ src :@tabzlive
 
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇦🇪/🇾🇪 EXCLUSIVE: Sources tell Middle East Spectator the sounds of explosions came from Jebel Ali Port, Dubai  @Middle_East_Spectator
+‏—❗️🇦🇪/🇾🇪 EXCLUSIVE: Sources tell Middle East Spectator the sounds of the explosions came from Jebel Ali Industrial Area, Dubai  @Middle_East_Spectator
 03:02
 1405/05/14
 
@@ -973,14 +1025,6 @@ src :@Alibk3
 
 
 
-src :@tabzlive
-‏🇷🇺❌🇺🇦 — Three Iskander-Ms towards Kyiv.  There's seemingly no MIM-104 Patriot interceptors in Kyiv right now so these missiles will impact.
-01:27
-1405/05/14
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏عدة انفجارات في كييف بعد هجوم باليستي روسي
@@ -1009,15 +1053,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 01:22
-1405/05/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧🇺🇸🇮🇹⚡️ — The seventh round of direct negotiations between Lebanon and Israel began earlier today in Rome under U.S. sponsorship.  Delegations from both countries are discussing issues related to implementing the U.S.-mediated framework agreement signed…
-01:21
 1405/05/14
 
 
@@ -1052,18 +1087,6 @@ src :@World_Newsly
 src :@GeoPWatch
 [عکس]
 ‏🇷🇺❌🇺🇦 - 3 Iskander-Ms have been launched towards Kyiv. Kyiv is currently suffering from a severe shortage in Patriot Interceptor missiles, these Iskander-Ms are most likely going to impact.  @GeoPWatch
-01:19
-1405/05/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump claims his real approval rating is the best its ever been: 
-‏My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history, a totally secure Border, a giant Victory in Venezuela, the Denuclearization of Iran, unparalleled respect and success throughout the World, and much more? 
-‏
-‏Don’t believe the Radical Left’s Fake Poll numbers. They are Crooked and Corrupt, just like the Country Destroying Dumocrats are Crooked and Corrupt. VOTE REPUBLICAN FOR GREATNESS IN AMERICA!
 01:19
 1405/05/14
 
@@ -1384,14 +1407,6 @@ src :@World_Newsly
 
 
 
-src :@naya_foriraq
-‏انفجارات ضخمة تهز العاصمة الاوكرانية كييف
-00:54
-1405/05/14
-
-
-
-
 src :@cataphract1
 ‏⚜سی‌ان‌ان به نقل از دو منبع آگاه گزارش داد که ارتش ایالات متحده از زمان آغاز جنگ با ایران، حدود ۸۰ درصد از موشک‌های رهگیر سامانه THAAD و نزدیک به ۵۰ درصد از موشک‌های رهگیر سامانه پاتریوت را مصرف کرده است.
 ‏
@@ -1400,22 +1415,6 @@ src :@cataphract1
 ‏⚜همچنین این گزارش می‌افزاید که دونالد ترامپ روز جمعه پس از گفت‌وگو با متحدان منطقه‌ای آمریکا، از اجرای حمله برنامه‌ریزی‌شده علیه ایران عقب‌نشینی کرد. به گفته منابع سی‌ان‌ان، رهبران کشورهای خاورمیانه به ترامپ هشدار داده بودند که از واکنش احتمالی ایران علیه زیرساخت‌های انرژی منطقه نگران هستند؛ موضوعی که در نهایت موجب شد رئیس‌جمهور آمریکا به پیت هگست، وزیر دفاع، دستور دهد فعلاً عملیات متوقف شود.
 ‏✒️#LT
 ‏📃@Cataphract1
-00:52
-1405/05/14
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷التلفزيون الايراني:
-‏
-‏- على الرغم من التحذيرات التي أطلقتها الجمهورية الإسلامية الإيرانية بشأن أي محاولة أمريكية لفتح ممر جديد في مضيق هرمز، فقد أقدمت القيادة المركزية الأمريكية، وهي منظمة إرهابية، على إطلاق ادعاءات استفزازية بشأن مسار في الجزء الجنوبي من هذا الممر المائي.
-‏
-‏- زعمت القيادة المركزية الأمريكية أن المسار الجنوبي لمضيق هرمز مفتوح ومتاح لجميع السفن التجارية التي تسعى إلى العبور من خلال هذا الممر المائي الدولي.
-‏
-‏- كما زعمت هذه المنظمة الإرهابية أن القوات الأمريكية قد ساعدت أكثر من ألف سفينة خلال الأشهر الثلاثة الماضية على اجتياز هذا المضيق بنجاح، على الرغم من الهجمات الإيرانية.
-‏
-‏- في حين أن طهران قد حذرت مرارًا وتكرارًا السفن التجارية في المياه الجنوبية لإيران، مشددة على أن المسار الوحيد المعتمد لعبور مضيق هرمز هو الممر الذي حددته إيران، وأن العبور من أي مسار آخر سيؤدي إلى إلحاق أضرار جسيمة بهذه السفن.
 00:52
 1405/05/14
 
@@ -1499,17 +1498,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:46
-1405/05/14
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇺🇸 القيادة الوسطى الأمريكية ساعدنا بخروج ١٠٠٠ سفينة من هرمز 
-‏
-‏The shape of ships that CENTCOM helpe after went out Hormuz
-00:45
 1405/05/14
 
 
@@ -2113,14 +2101,6 @@ src :@OSINTWarfare
 ‏
 ‏Troops have been placed on Alert Level C, units have been deployed to the Syrian–Iraqi border, and all military personnel have been ordered to report to their units immediately.
 23:40
-1405/05/13
-
-
-
-
-src :@Alibk3
-‏مهلة ترامب التي تحدث عنها للتوصل إلى اتفاق ستنتهي بعد 8 ساعات بتوقيت واشنطن.
-23:37
 1405/05/13
 
 
