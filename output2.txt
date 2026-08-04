@@ -1,3 +1,64 @@
+src :@tglobaleye
+‏🍎 Last night, Apple briefly removed Telegram from the App Store because a single user had planted illegal pornographic content in a public group chat.
+‏
+‏⬅️ Telegram was restored within hours. But I want to explain what happened — to warn other app developers and help protect online communities from similar attacks.
+‏
+‏🧹Because Telegram quickly removes illegal content from public groups using user reports, AI filters, content hashes, and other moderation tools, the attacker had to resort to a technical trick. He inserted AI-modified illegal content by editing an old message in an active group chat. As a result, the content was effectively hidden from the group’s members, preventing them from seeing and promptly reporting it.
+‏
+‏💰  The attacker was a takedown extortionist: someone who demands ransom from group owners in exchange for not targeting their communities. These extortionists use automated accounts  to plant illegal content in public groups and then report it directly to Apple, attempting to trigger the removal of legitimate communities whose owners refused to pay them.
+‏
+‏🤝 From a practical standpoint, illegal pornographic content in Telegram’s public groups is not a systemic problem. Our moderation is effective. The fact that attackers must resort to backdated, effectively invisible content and other technical tricks proves this.
+‏
+‏⚠️ However, there are two important lessons here for app developers and online communities:
+‏
+‏— Extortionists have found a way to manipulate Apple into overreacting. Apple removed Telegram from the App Store before contacting us. This creates a potential systemic risk for every mobile app that hosts user-generated content. If an app used by more than a billion people can be removed from the App Store without prior warning, any app can be.
+‏
+‏— The tactics used by takedown extortionists are evolving, putting communities across social platforms at risk. Telegram has extensive experience identifying the tricks used by coordinated reporting gangs and protecting legitimate communities (even when doing so risks our own app being temporarily removed from the App Store). Other platforms may not be equally prepared.
+‏
+‏Stay vigilant! ☝️
+18:54
+1405/05/13
+
+
+
+
+src :@cataphract1
+‏⭕️مارکو روبیو، وزیر امور خارجه آمریکا:
+‏
+‏«در گفت‌وگوها برای بازگشایی تنگه هرمز پیشرفت‌هایی حاصل شده است، اما هنوز هیچ توافق نهایی به دست نیامده است. امیدواریم این توافق در آینده‌ای بسیار نزدیک نهایی شود.
+‏
+‏در حال حاضر کشتی‌ها در حال عبور از تنگه هستند و انتقال نفت نیز از این مسیر ادامه دارد. تنگه هرمز باز است.»
+‏✒️#LT
+‏📃@Cataphract1
+18:54
+1405/05/13
+
+
+
+
+src :@mwarmonitor
+‏🔴شبکه پرس تی‌وی ایران به نقل از یک مقام ارشد: دستیابی به توافق با سلطنت عمان در مورد تنگه هرمز در صورت توقف دخالت‌های آمریکا، امکان‌پذیر است.
+‏
+‏@mwarmonitor
+18:54
+1405/05/13
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴مارک لوین، شخصیت رسانه‌ای و تحلیلگر سیاسی نزدیک به ترامپ: 
+‏دیکتاتور سعودی (بن سلمان)، دوست آمریکا نیست!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+18:53
+1405/05/13
+
+
+
+
 src :@mwarmonitor
 ‏📰واشنگتن، ۴ اوت (رویترز) - مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه اعلام کرد که در گفت‌وگوها با ایران و عمان درباره افزایش عبور کشتی‌ها از تنگه هرمز پیشرفت‌هایی حاصل شده است، اما هنوز هیچ توافق نهایی به دست نیامده است.
 ‏
@@ -1540,19 +1601,6 @@ src :@defence_news
 
 src :@naya_foriraq
 ‏🇮🇶شركة دانا للغاز وشركة كريسنت للنفط: سنقوم بتوريد 100 مليون قدم مكعب من الغاز يوميًا من حقل كورمور الى السلطات العراقية لمدة عام..
-17:28
-1405/05/13
-
-
-
-
-src :@World_Newsly
-‏‏🔴 یک منبع آگاه در مذاکرات عمان
-‏
-‏ایران خواهان دریافت 7 درصد از کل عوارض سفینه‌های تجاری عبوری از تنگه هرمز است، در حالی که آمریکا تلاش می‌کند این درصد را به 5 درصد کاهش دهد. این منبع آگاه تأکید کرد که کشتی‌های روسیه و چین از پرداخت این عوارض معاف خواهند بود.
-‏
-‏✍🏻 Nadershah
-‏▪️@World_Newsly
 17:28
 1405/05/13
 
@@ -6083,17 +6131,6 @@ src :@Shin_Persian
 
 
 
-src :@cataphract1
-‏⚜ محسن رضایی:
-‏قرار بود سه نقطه در اکراین را هدف قرار بدهیم اما بعد از عذرخواهی اکراین حمله را لغو کردیم 
-‏
-‏📃@Cataphract1
-22:30
-1405/05/12
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏کینگ مارشال ژنرال محسن رضایی : 
@@ -6303,14 +6340,6 @@ src :@DEJradio
 
 
 
-src :@mwarmonitor
-‏🔴پنتاگون: توافق‌نامه چارچوبی با شرکت‌های لاکهید مارتین و نورثروپ گرومن برای افزایش ظرفیت تولید قطعات مربوط به سیستم‌های دفاع موشکی منعقد شد.  @mwarmonitor
-20:15
-1405/05/12
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -6513,23 +6542,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 19:08
-1405/05/12
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇾🇪 🇾🇪 —  Heavy artillery and rocket fire erupted against Houthi positions in the Sahl al-Silsilah axis, Ta'izz direction, southern Yemen.
-‏
-‏Initial reports indicate that Houthi militants were attempting to infiltrate high ground south of Ar Rahidah. Frontline Houthi sources confirm suffering casualties.
-‏
-‏Reports also suggest the artillery fire originated from positions held by the al-Islah Party. If confirmed, it would mark a significant turning point in the recent escalation in the Yemeni file since November 2025, bringing one of Yemen's most influential anti-Houthi factions directly into the fighting once again. The Muslim Brotherhood affiliate chapter's longstanding network with tribes provides them with major influence across much of Yemen, even within Houthi-controlled territory.
-‏
-‏(Source: Rerum Novarum)
-‏
-‏The Global Eye | Subscribe
-19:06
 1405/05/12
 
 
