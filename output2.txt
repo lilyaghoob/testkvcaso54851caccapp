@@ -1,3 +1,40 @@
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇺🇸/🇮🇷 NEW: Iranian ballistic missiles, for the first time, are proven to have advanced anti-jamming capabilities, and warheads being equipped with a 4-element GNSS/GPS module for improved accuracy
+‏
+‏This explains the increase in accuracy and lethality of Iran’s ballistic missiles in recent months.
+‏
+‏@Middle_East_Spectator
+23:52
+1405/05/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The U.S. Army is seeking a next-generation surface-to-air missile to counter small drones at longer ranges, with a target cost of under $150,000 per missile. 
+‏
+‏The Army wants the new missile to integrate with existing air defense systems, improve on the current Coyote counter-drone system, and provide a more weather-resistant alternative to laser-based defenses.
+‏
+‏Source: Defense News
+23:51
+1405/05/13
+
+
+
+
+src :@World_Newsly
+‏🔴آرش علایی، خبرنگار کنگره آمریکا: ترامپ جمهوری اسلامی و کشور های عربی را با هم در تله انداخت، با حمله به جمهوری اسلامی، کشور های عربی هم بر اثر حملات سپاه نابود می شوند تا سیاست بر پایه دین در خاورمیانه با هم نابود بشه و بعد از آن تمام شبکه هایی که جمهوری اسلامی یا کشور های عربی پولشونو میدادن هم نابود خواهند شد.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+23:48
+1405/05/13
+
+
+
+
 src :@World_Newsly
 ‏🔴گزارش ها از شنیده شدن صدای انفجار در شلمچه در مرز ایران و عراق  ✍🏻 Desert Eagle ▪️@World_Newsly
 23:46
@@ -1486,17 +1523,6 @@ src :@Indypersian
 ‏
 ‏رئیس‌جمهوری آمریکا نیز از نقش کلیدی قطر تحت رهبری امیر این کشور در پشتیبانی از دیپلماسی، تسهیل گفتگوها و حمایت دوحه از ابتکار عمل‌های بین‌المللی برای مهار تنش‌ها در منطقه قدردانی کرد.
 ‏@indypersian
-22:05
-1405/05/13
-
-
-
-
-src :@World_Newsly
-‏🔴سپاه هرمزگان: از فردا به مدت ۷۲ ساعت، انفجارهای کنترل‌شده برای امحای مهمات عمل‌نکرده در اطراف بندرعباس انجام می‌شود.
-‏
-‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️@World_Newsly
 22:05
 1405/05/13
 
@@ -5411,21 +5437,6 @@ src :@USAMRYDATA
 
 
 
-src :@Artemis_Force
-[عکس]
-‏سازمان امداد و نجات دریایی بریتانیا UKMTO گزارشی مبنی بر وقوع یک حادثه در فاصله ۲۰ مایل دریایی شمال شرقی الخصب، عمان دریافت کرده است.
-‏
-‏یک کشتی باری روی کانال VHF 16 اعلام کرده است که مورد اصابت یک پرتابه ناشناخته قرار گرفته است.
-‏
-‏مقامات در حال بررسی و تحقیق هستند.
-‏به کشتی‌ها توصیه می‌شود با احتیاط و احتیاط لازم عبور کنند و هرگونه فعالیت مشکوک را به UKMTO گزارش دهند.
-‏🔴 @talkh79
-13:30
-1405/05/13
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -6100,6 +6111,14 @@ src :@bricsnews
 
 
 
+src :@Artemis_Force
+‏اسرائیل، انتقال سامانه‌های پدافندی گنبد آهنین ساخت آمریکا به اوکراین را مسدود کرد.  اسرائیل، انتقال دو گردان گنبد آهنین متعلق به ایالات متحده آمریکا به اوکراین را مسدود کرد.   نخست‌وزیر اسرائیل، بنیامین نتانیاهو، با این انتقال مخالفت کرد و نگران بود که این…
+09:15
+1405/05/13
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇺🇸 🇮🇱 🇵🇸 — Board of Peace clarifies Gaza disarmament terms after Netanyahu-Mladenov meeting
@@ -6585,14 +6604,4 @@ src :@Exciton_missile_program
 ‏✒️#LT
 ‏📃@Cataphract1
 23:54
-1405/05/12
-
-
-
-
-src :@Mena_Live
-‏Mazloum Abdi to annouce SDF dissolution tomorrow
-‏
-‏@Mena_Live
-23:51
 1405/05/12
