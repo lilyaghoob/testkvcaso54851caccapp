@@ -1,3 +1,57 @@
+src :@mohem_mat
+‏ادعای بلومبرگ: 
+‏
+‏ایران درحال بررسی گزینه کمک اروپایی‌ها برای پاکسازی مین‌های دریایی در تنگه هرمز است تا راه مذاکرات هموارتر شود/ هم‌میهن
+‏
+‏@mohem_mat
+21:47
+1405/05/13
+
+
+
+
+src :@MilitarryWorld
+‏🔴دونالد ترامپ، با امیر قطر درباره مذاکرات مربوط به تنگه هرمز گفتگو کرد.
+‏
+‏@MilitarryWorld | Parsa
+21:46
+1405/05/13
+
+
+
+
+src :@jangaavaran1390
+‏دونالد ترامپ، رئیس جمهور آمریکا، با امیر قطر درباره مذاکرات مربوط به تنگه هرمز گفتگو کرد.
+21:44
+1405/05/13
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇸🇾حكومة الجولاني تأمر برفع الجاهزية فوراً على كامل الحدود السورية العراقية لجميع الفرق والوحدات العسكرية.
+21:43
+1405/05/13
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏هند فعلاً قید خرید جنگنده نسل پنجم سوخو-۵۷ را زده است.
+‏
+‏دبیر دفاع هند، راجش کومار سینگ، اعلام کرد که دهلی‌نو در حال حاضر برنامه‌ای برای خرید نسخه‌های جدید خانواده سوخو، از جمله Su-57E، ندارد و تمرکز اصلی این کشور بر توسعه جنگنده بومی نسل پنجم AMCA و ارتقای ناوگان Su-30MKI است.
+‏
+‏این تصمیم نشان می‌دهد که هند به‌جای سرمایه‌گذاری روی یک جنگنده خارجی، مسیر خودکفایی در فناوری‌های نسل پنجم را دنبال می‌کند؛ هرچند تا زمان ورود AMCA به خدمت، همچنان با ارتقای سوخوهای موجود و توسعه سایر برنامه‌های هوایی، شکاف توان رزمی خود را پوشش خواهد داد.
+‏
+‏#هند #Su57 #سوخو57 #AMCA #نیروی_هوایی #هوافضا #دفاعی
+21:42
+1405/05/13
+
+
+
+
 src :@didarnews1
 ‏🔴تا دو میلیون و ۵۰۰ هزار شغل در یک سال از بین رفته است!
 ‏
@@ -2635,19 +2689,6 @@ src :@defence_news
 
 
 
-src :@ClashReport
-[عکس]
-‏Syria Commits to Slashing Russian Oil Imports in Bid for US Sanctions Relief
-‏
-‏Syria has signaled its readiness to severely curtail imports of Russian crude as it negotiates with US to shed its decades-old designation as a state sponsor of terrorism.
-‏
-‏READ MORE
-18:39
-1405/05/13
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏ترامپ دقایقی پیش در صفحه تروث سوشال خود خبری را بازنشر کرد:
@@ -3395,17 +3436,6 @@ src :@Artemis_Force
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴وضعیت ترامپ در ساعات مختلف شبانه روز 
-‏
-‏@MilitarryWorld | Maverick
-17:53
-1405/05/13
-
-
-
-
 src :@samueltarikh
 ‏🚨مارکو روبیو وزیر خارجه آمریکا ادعا کرد در گفتگوها با ایران برای بازگشایی مجدد تنگه هرمز پیشرفت‌هایی حاصل شده است
 17:49
@@ -3463,14 +3493,6 @@ src :@naya_foriraq
 ‏
 ‏#شاركها
 17:45
-1405/05/13
-
-
-
-
-src :@naya_foriraq
-‏غرق سفينة هندية على بعد 13 ميل قبالة سواحل الحديدة بعد إستهدافها بزورق إنتحاري مسير.
-17:44
 1405/05/13
 
 
@@ -3769,21 +3791,6 @@ src :@mohem_mat
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏شلیک توپ ۷۶ میلی‌متری ناوچه پدافند هوایی Forbin فرانسه
-‏
-‏ناوچه پدافند هوایی Forbin نیروی دریایی فرانسه در جریان یک تمرین، با یکی از دو قبضه توپ ۷۶ میلی‌متری Leonardo (OTO Melara سابق) اقدام به شلیک کرد.
-‏
-‏نسخه‌های جدید این توپ علاوه بر آتش پرحجم، توانایی درگیری مؤثر با اهداف هوایی را دارند و در برخی پیکربندی‌ها، مانند نمونه مورد استفاده نیروی دریایی ایتالیا، می‌توانند با سامانه کنترل آتش مستقل به‌عنوان یک سامانه دفاع نزدیک (CIWS) نیز عمل کنند.
-‏
-‏این توپ دریای بر ضد اهداف هوای بین ۸ تا ۱۰ کیلومتر و بر ضد اهداف زمینی تا ۲۵ کیلومتر با مهمات‌های هدایت ماهواره برد دارد.. این تو با مهمات‌های انفجار مجاورتی در آسمان بر ضد اهداف هوایی کاربرد بالایی دارد و دست کم آمریکایی‌ها با توپ سینه ۱۲۷ میلیمتری خود در جریان درگیری با حوثی‌ها سال پیش پهپادهای آنها را نیز سرنگون کردند
-17:00
-1405/05/13
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇷🇺 - A Russian soldier opened fire on fellow soldiers before turning his weapon on civilians in the village of Khmelnytske, near Sevastopol in Russian occupied Crimea.
 ‏
@@ -3830,17 +3837,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 16:50
-1405/05/13
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏وضعیت ترامپ در ساعات مختلف شبانه روز 
-‏
-‏@Minas_Tirith2024
-16:48
 1405/05/13
 
 
@@ -4298,20 +4294,6 @@ src :@Shin_Persian
 src :@samueltarikh
 ‏امارات متحده عربی ورود همه شناورهای ایرانی، از جمله کشتی‌ها و لنج‌ها، را به بنادر خود ممنوع کرد.
 15:58
-1405/05/13
-
-
-
-
-src :@mohem_mat
-‏ادعای وزیر خزانه داری آمریکا: 
-‏
-‏ممکن است فردا به توافقی با ایران در مورد هرمز برسیم
-‏
-‏اسکات بسنت در مصاحبهای با سی‌ان‌بی‌سی گفت: ممکن است فردا به توافقی با ایران برای باز کردن تنگۀ هرمز برسیم. / انتخاب
-‏
-‏@mohem_mat
-15:49
 1405/05/13
 
 
@@ -4836,16 +4818,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 13:57
-1405/05/13
-
-
-
-
-src :@mohem_mat
-‏در اوج گرمای طاقت‌فرسای تابستان ژاپن، باغ‌وحش «تاما» در توکیو شاهد یک تراژدی تلخ بود. سه شیر ماده به دلیل شدت گرما، دچار کم‌آبی شدید و نارسایی چندعضوی شده و جان خود را از دست دادند./ نورنیوز
-‏
-‏@mohem_mat
-13:56
 1405/05/13
 
 
@@ -6378,19 +6350,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — An FBI supervisory special agent has been arrested and charged with stealing approximately $1 million in cryptocurrency from adversarial accounts.
-‏
-‏Patrick Steven Yaroch, a nine-year bureau veteran, allegedly used his official access and classified intelligence to transfer the funds to personal wallets. He later self-reported the misconduct, returned the assets, and was fired the same day as his arrest.
-‏
-‏The Global Eye | Subscribe
-00:37
-1405/05/13
-
-
-
-
 src :@MilitiaNews
 ‏میلیشا | Militia pinned «🔴تو این وضعیت اقتصادی یه چیزی رو برادرانه بهتون بگم: رفیق گلم تو کشوری هستیم که بدون درآمد دلاری نمیتونی امور زندگیت رو بگذرونی.   🔵 با حقوق کارگری چند سال کار باید بکنی تا یه پراید 500 میلیونی بخری یا یه خونه 5 میلیاردی؟ تا کی میخوای شرمنده زن و بچت و آرزو…»
 00:07
@@ -6567,32 +6526,4 @@ src :@Parvazdaroj
 ‏https://t.me/+j7u7OfPAeawyZTc0
 ‏https://t.me/+j7u7OfPAeawyZTc0
 21:50
-1405/05/12
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US President Trump:
-‏
-‏"This is their last chance to sign a good document".
-‏
-‏@TheWarReporter
-21:46
-1405/05/12
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — Reporter: "Talks with Iran are now off.
-‏
-‏US President Trump: "They are going on right now. It's an amazing thing.
-‏
-‏They are not denying it this time.
-‏
-‏But for some reason, when they are talking, they don't like to say that they are talking".
-‏
-‏@TheWarReporter
-21:42
 1405/05/12
