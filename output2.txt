@@ -1,3 +1,91 @@
+src :@OSINTWarfare
+[عکس]
+‏🇦🇪⚡️ — Residents are reporting hearing a loud explosion in Dubai, UAE. The cause of the blast remains unknown.  @IntelSlava
+03:12
+1405/05/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏وقوع حادث صناعي في منطقة جبل علي الصناعية، وسماع دوي 7 انفجارات على مدار 20 دقيقة.
+03:11
+1405/05/14
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇾🇪❌🇦🇪 — Loud explosions rock the UAE.  @IntelSlava
+03:10
+1405/05/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏وقوع حادث صناعي في منطقة جبل علي الصناعية، وسماع دوي 7 انفجارات على مدار 20 دقيقة.
+03:10
+1405/05/14
+
+
+
+
+src :@Middle_East_Spectator
+‏May be an industrial accident, that’s what Emirati sources say.
+‏
+‏Have to wait and see.
+03:09
+1405/05/14
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇾🇪❌🇦🇪 — Loud explosions rock the UAE.
+‏
+‏@IntelSlava
+03:09
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏دوي اصوات انفجارات مجددا في دبي المنطقة الصناعية
+03:08
+1405/05/14
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡- Jeanine John Taele, a 38-year-old man, has been arrested on suspicion of attempting to assassinate President Trump at his Rancho Palos Verdes golf club, as Trump is slated to speak there later tonight. 
+‏
+‏Taele was arrested on Saturday after taking photos and videos at the golf club and appeared to be monitoring security patterns. In addition, Taele had multiple firearms and stockpiles of ammunition; he was also noted to have multiple notebooks filled with “concerning statements”.
+03:07
+1405/05/14
+
+
+
+
+src :@cataphract1
+‏⚜یک مقام ارشد اسرائیلی به کانال ۱۲ اسرائیل گفت که دونالد ترامپ به دنبال دستیابی به توافق با ایران «به هر قیمتی» است و در توصیف رویکرد او اظهار داشت: «فاصله میان صلح و جنگ برای ترامپ، تنها به اندازه چند حرف روی صفحه‌کلید است.»
+‏
+‏⚜این مقام همچنین افزود که اسرائیل به‌طور مستقیم از روند مذاکرات آمریکا و ایران درباره تنگه هرمز در جریان قرار نمی‌گیرد و بخش عمده اطلاعات خود را از کانال‌های غیرمستقیم دریافت می‌کند. با این حال، به گفته وی، تل‌آویو همچنان در وضعیت آماده‌باش کامل قرار دارد.
+‏✒️#LT
+‏📃@Cataphract1
+03:07
+1405/05/14
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش تسنیم، زمین‌لرزه‌ای به بزرگی ۴، بامداد چهارشنبه، حوالی یاسوج در مرز استان‌های كهگيلويه و بويراحمد، اصفهان و فارس را لرزاند. براساس این گزارش، این زلزله در عمق ۶ کیلومتری زمین رخ داد.
@@ -1346,16 +1434,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@naya_foriraq
-‏في خبر غير مهم
-‏
-‏🇰🇼‏مجلس الوزراء الكويتي: الغزو العراقي جريمة غدر ارتكبت فجر الثاني من أغسطس.
-00:59
-1405/05/14
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏شبکه خبری بلومبرگ گزارش داد تهران در حال بررسی این موضوع است که آیا به کشورهای اروپایی اجازه انجام عملیات مین‌روبی در تنگه هرمز را بدهد یا خیر.
@@ -1842,18 +1920,6 @@ src :@MilitarryWorld
 
 
 
-src :@Alibk3
-‏موقع واللا العبري: 
-‏
-‏مخاوف داخل الجيش الإسرائيلي من هجمات تشنها الفصائل في العراق ضد إسرائيل
-‏
-‏الجيش يرفع مستوى التأهب تحسبا لهجمات الفصائل في العراق
-00:05
-1405/05/14
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏☦️ ✝️ 🇬🇷🇻🇦 — The Pastoral Committees of the Syriac Orthodox, Syriac Catholic, Greek Orthodox, and Greek Melkite Catholic churches have issued a statement condemning the arbitrary detentions of their faithful from Saidnaya (the village - not to be confused with Sednaya prison). 
@@ -2048,14 +2114,6 @@ src :@ClashReport
 ‏
 ‏Source: Defense News
 23:51
-1405/05/13
-
-
-
-
-src :@Alibk3
-‏معاون الشؤون الأمنية في محافظة خوزستان الإيرانية ينفي الأخبار الكاذبة حول سماع دوي انفجار في منطقة الشلامجة.
-23:46
 1405/05/13
 
 
@@ -4469,20 +4527,6 @@ src :@tglobaleye
 
 
 
-src :@cataphract1
-‏⭕️مارکو روبیو، وزیر امور خارجه آمریکا:
-‏
-‏«در گفت‌وگوها برای بازگشایی تنگه هرمز پیشرفت‌هایی حاصل شده است، اما هنوز هیچ توافق نهایی به دست نیامده است. امیدواریم این توافق در آینده‌ای بسیار نزدیک نهایی شود.
-‏
-‏در حال حاضر کشتی‌ها در حال عبور از تنگه هستند و انتقال نفت نیز از این مسیر ادامه دارد. تنگه هرمز باز است.»
-‏✒️#LT
-‏📃@Cataphract1
-18:54
-1405/05/13
-
-
-
-
 src :@mwarmonitor
 ‏🔴شبکه پرس تی‌وی ایران به نقل از یک مقام ارشد: دستیابی به توافق با سلطنت عمان در مورد تنگه هرمز در صورت توقف دخالت‌های آمریکا، امکان‌پذیر است.
 ‏
@@ -5544,19 +5588,6 @@ src :@Artemis_Force
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: The U.S. has used ‘virtually all’ of its long-range ground to ground missiles, such as ATACMs and PrSMs, according to Reuters
-‏
-‏These missiles, which allowed the U.S. Army to carry out precision strikes against targets in southern Iran from a safe distance, will take years to fully replenish.
-‏
-‏@Middle_East_Spectator
-14:59
-1405/05/13
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏تراااامپ
@@ -5564,14 +5595,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖
 ‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
 14:49
-1405/05/13
-
-
-
-
-src :@OSINTWarfare
-‏Ansar Allah (Houthis) announced that they carried out a precision drone strike against a “sensitive target” at Najran Airport in Saudi Arabia.
-14:42
 1405/05/13
 
 
@@ -5744,18 +5767,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 13:48
-1405/05/13
-
-
-
-
-src :@rnintel
-‏🇾🇪🇸🇦⚡- "The Yemeni armed forces were able to target a sensitive Saudi enemy target at Najran International Airport, southern Saudi Arabia, using a drone, and the strike was precise.
-‏
-‏This targeting comes in response to the Saudi enemy's violation of airspace in the Yemeni governorates of Sa'dah and Hajjah with its drones.
-‏
-‏We assure the Saudi enemy that any violation of our airspace will not go unpunished," - Ansarullah.
-13:45
 1405/05/13
 
 
