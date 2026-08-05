@@ -1,8 +1,19 @@
+src :@GeoPWatch
+[عکس]
+‏The Ukrainian Air Force confirms that not a single missile was shot down by Ukrainian air defence overnight, due to Ukraine being completely out of Patriot interceptors.
+09:51
+1405/05/14
+
+
+
+
 src :@Americana_ir
 [عکس]
 ‏🔴 چهره مسلمان و منتقد اسراییل نامزد نهایی دموکرات‌ها در انتخابات سنای میشیگان شد
 ‏
 ‏▪️عبدل ال‌سید، چهره مورد حمایت برنی سندرز و از منتقدان سرسخت اسراییل، در رقابتی نزدیک هیلی استیونز، چهره جریان مرکزی حزب و حامی اسرائیل را شکست داد و نامزد نهایی دموکرات‌ها در انتخابات سنای میشیگان شد.
+‏
+‏▪️ال‌سید در صورت پیروزی در رقابت نهایی، نخستین سناتور مسلمان تاریخ آمریکا خواهد بود.
 ‏
 ‏🆔 @Americana_ir
 09:45
@@ -2804,22 +2815,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@IranintlTV
-[عکس]
-‏سازمان حقوق بشری هه‌نگاو گزارش داد شمسی خسروی، شهروند ۴۴ ساله اهل سقز که در زندان قرچک ورامین محبوس است، پس از محاکمه در دادگاه انقلاب اسلامی تهران با «خطر جدی صدور حکم اعدام» روبه‌روست.
-‏
-‏به نوشته هه‌نگاو، قاضی ابوالقاسم صلواتی در جلسه رسیدگی به پرونده او در شعبه ۱۵ دادگاه انقلاب اسلامی تهران گفته است «حکمی به غیر از اعدام» در انتظارش نخواهد بود.
-‏
-‏بر اساس این گزارش، خسروی از حق دسترسی به دادرسی منصفانه و وکیل انتخابی محروم بوده است. هه‌نگاو به نقل از منابع آگاه افزود نهادهای امنیتی و دستگاه قضایی جمهوری اسلامی او را به اتهام‌هایی از جمله «افساد فی‌الارض»، «جاسوسی برای اسرائیل» و «همکاری با احزاب کردستانی اپوزیسیون حکومت» متهم کرده‌اند.
-‏
-‏بر اساس این گزارش، خسروی ۱۴ اسفند سال گذشته در محور کرج ـ تهران به دست نیروهای حکومتی بازداشت شد و دو ماه در وضعیت «ناپدیدسازی قهری» و بدون امکان ارتباط با خانواده در بازداشت بود.
-‏https://iranintl.com/202608043046
-02:58
-1405/05/14
-
-
-
-
 src :@OSINTWarfare
 ‏🇦🇪⚡️ — Residents are reporting hearing a loud explosion in Dubai, UAE. The cause of the blast remains unknown.  @IntelSlava
 02:58
@@ -2862,16 +2857,6 @@ src :@intelslava
 ‏🇦🇪⚡️ — Residents are reporting hearing a loud explosion in Dubai, UAE. The cause of the blast remains unknown.
 ‏
 ‏@IntelSlava
-02:55
-1405/05/14
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇮🇱 – The Israeli Channel 12 reports an IDF soldier was seriously injured in a shooting incident at a military base. Military police are investigating.
-‏
-‏@GeoPWatch
 02:55
 1405/05/14
 
@@ -2984,18 +2969,6 @@ src :@Americana_ir
 ‏ 
 ‏🆔 @Americana_ir
 02:43
-1405/05/14
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇺🇸 — Fox News reports an armed man was arrested at Trump National Golf Course for allegedly monitoring security preparations ahead of President Trump’s visit.
-‏
-‏▶️ An illegally-modified rifle, high-capacity magazines, body armor and a notebook with "concerning statements" were recovered after authorities raided his home.
-‏
-‏@GeoPWatch
-02:42
 1405/05/14
 
 
