@@ -1,3 +1,31 @@
+src :@GeoPWatch
+‏🇮🇱❌🇮🇷 - IDF Strikes are currently ongoing in Al-Mansouri, Southern Lebanon.
+16:53
+1405/05/14
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇮🇱🇱🇧🇱🇧 — IDF:   "Hezbollah has violated the ceasefire agreement, and the military will take action against it forcefully".  @TheWarReporter
+16:52
+1405/05/14
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇱/🇱🇧 NEW: Israel violates the ceasefire and issues evacuation warnings for the town of Mansouri, southern Lebanon
+‏
+‏@Middle_East_Spectator
+16:49
+1405/05/14
+
+
+
+
 src :@samueltarikh
 ‏مقامات ارشد منطقه ای رویترز:
 ‏
@@ -10,11 +38,24 @@ src :@samueltarikh
 
 src :@guard_warriors
 [عکس]
-‏✪ به نظر می‌رسد آنتن مقاوم در برابر اخلال ۴ کاناله (CRPA) که روی RV موشک ایرانی خیبرشکن نصب شده، یک مدل SWT-JRL1 ساخت چین است.
+‏✪ به نظر می‌رسد آنتن مقاوم در برابر اخلال ۴ اِلِمانی (CRPA) که روی RV موشک ایرانی خیبرشکن نصب شده، یک مدل SWT-JRL1 ساخت چین است.
 ‏
 ‏می‌تواند سیگنال‌های ماهواره‌ای مانند BD3-B1، GPS-L1، GALILEO E1 و GLONASS G1 را دریافت کند، اطلاعات موقعیت‌یابی ناوبری را خروجی دهد و با عملکرد ضد تداخل برای سیگنال ناوبری فرکانس BD3-B1، GPS-L1 و GALILEO شانس برخورد موشک را افزایش دهد.
 ‏
 ‏@Guard_Warriors | Mmd
+16:47
+1405/05/14
+
+
+
+
+src :@World_Newsly
+‏🔴سی‌ان‌ان به نقل از یک مقام منطقه‌ای:
+‏
+‏احتمال رسیدن آمریکا و ایران به توافق موقت در روز جمعه ۵۰/۵۰ است
+‏
+‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️@World_Newsly
 16:47
 1405/05/14
 
@@ -1694,15 +1735,6 @@ src :@mohem_mat
 ‏این منبع افزود، وی قرار است با عاصم منیر، فرمانده ارتش پاکستان، شهباز شریف، نخست‌وزیر و اسحاق دار، معاون وزیر امور خارجه دیدار داشته باشد.
 ‏
 ‏@mohem_mat
-15:03
-1405/05/14
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴قبض آب و برق خیلیا توی تیرماه جهش عجیبی داشته.  بعضی فیش‌های ۳۰۰ هزار تومنی به حدود ۸۰۰ هزار تا یک میلیون تومن رسیده و دلیل این افزایش مشخص نیست.  ‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏 ▪️@World_Newsly
 15:03
 1405/05/14
 
@@ -6418,14 +6450,6 @@ src :@Exciton_missile_program
 
 
 
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷/🇴🇲 NEW: Under the current deal being discussed between Iran and Oman, Iran would control all inbound traffic through the Strait of Hormuz, using a corridor within Iranian waters, while charging for maritime service fees  Outbound traffic would use…
-21:51
-1405/05/13
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇳 🇷🇺 — India Rules Out Near-Term Acquisition of Russia’s Su-57E 'Fifth-Generation' Fighter
@@ -6649,16 +6673,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 20:39
-1405/05/13
-
-
-
-
-src :@samueltarikh
-‏نشریه AP: بر اساس این توافق، کشتی‌ها از طریق مسیری تحت کنترل ایران وارد خلیج فارس شده و از طریق مسیری تحت کنترل عمان خارج می‌شوند.
-‏
-‏این توافق پیشنهادی همچنین به لغو محاصره بنادر ایران توسط ایالات متحده مرتبط خواهد بود
-20:38
 1405/05/13
 
 
@@ -6944,16 +6958,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 17:04
-1405/05/13
-
-
-
-
-src :@Mena_Live
-‏Iran is demanding a 7% share of the revenue from every commercial ship that passes through the Strait of Hormuz, while the United States is trying to negotiate a 5% share. 
-‏
-‏Ships belonging to Russia and China will be exempt from this tax.
-‏
-‏@Mena_Live
-16:50
 1405/05/13
