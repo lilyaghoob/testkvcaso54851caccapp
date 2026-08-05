@@ -1,3 +1,35 @@
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - President Donald Trump when asked by a reporter ‘Where are we with Iran?’ :
+‏
+‏We will know in the next 48 hours.
+12:47
+1405/05/14
+
+
+
+
+src :@jangaavaran1390
+‏فایننشال تایمز:
+‏
+‏دونالد ترامپ به اوکراین موشک‌های پدافندی پاتریوت را ارائه نخواهد داد، زیرا در حال حاضر این موشک‌ها برای محافظت از دارایی‌های آمریکایی در خاورمیانه میخواهد.
+12:46
+1405/05/14
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏چهار تن از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ در پرونده‌های جداگانه، در مجموع به یک حکم اعدام، ۹ سال حبس، ۱۴۸ ضربه شلاق و پرداخت ۴۴ میلیون تومان جزای نقدی دو سال ممنوعیت خروج از کشور و دو سال محرومیت از خدمات اجتماعی محکوم شده‌اند.
+‏بخوانید: https://iranwire.com/fa/news-1/155867
+‏
+‏@Farsi_Iranwire
+12:45
+1405/05/14
+
+
+
+
 src :@rnintel
 ‏🇬🇧🇪🇺🇷🇺⚡- Former senior officials from the E3 (the UK, France, and Germany) met with Russian officials in Vienna, Austria, to explore potential conditions for peace talks to end Moscow’s war on Ukraine, Bloomberg reports.
 ‏
@@ -3915,16 +3947,6 @@ src :@naya_foriraq
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 – Air raid alerts are sounding in Kyiv again.
-‏
-‏@GeoPWatch
-05:23
-1405/05/14
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇴🇲🛥🔥 — A vessel near the Omani coast appears on fire on NASA Firms since around ~1:50 AM GMT +3
@@ -4699,14 +4721,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏ایالات متحده منابع اطلاعاتی خود را در کوبا تقویت کرده، از جمله با اعزام جاسوسان و مأموران آمریکایی به این جزیره برای اصلاحات یا تغییر رژیم. یک منبع ادعا می‌کند که ایالات متحده اخیراً افسران و مأموران اطلاعاتی بیشتری را به این جزیره اعزام کرده، اما از افشای دامنه عملیات و سازمان‌های درگیر خودداری کرده است. منبع دوم این اقدام را افزایش «حضور» سیا در کوبا توصیف کرد.
-23:44
-1405/05/13
-
-
-
-
 src :@OSINTWarfare
 ‏The Syrian Arab Army has raised the state of alert to maximum readiness without providing a reason.
 ‏
@@ -4801,18 +4815,6 @@ src :@mwarmonitor
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 درگیری‌های میان ایران و اسراییل که در حدود یک سال و نیم گذشته رخ داده، ضعف و قوت موشک‌های بالستیک نیرو هوافضا سپاه را نمایان کرده است. جدای از نکات مثبت، یکی از ضعف‌های موشک‌های ایرانی، عدم دقت مورد نظر برای برخورد به اهداف تعیین شده بود؛ بر خلاف چیزی که…
 23:30
-1405/05/13
-
-
-
-
-src :@jangaavaran1390
-‏تلگراف:
-‏
-‏ایران پیشنهاد یک توافق صلح را مطرح کرده است که با باز شدن تنگه هرمز، کنترل عبور و مرور کشتی‌ها را به ایران می‌دهد و یک سیستم عوارض داوطلبانه، مشابه سیستم سنگاپور، برای تأمین هزینه‌های خدمات ایجاد می‌کند.
-‏
-‏عمان از این رویکرد حمایت می‌کند و معتقد است که کشورها و صاحبان کشتی‌ها با کمال میل در این طرح مشارکت خواهند کرد.
-23:27
 1405/05/13
 
 
@@ -6200,18 +6202,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 17:32
-1405/05/13
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏حکم سه سال حبس تعزیری کریم جلیل‌زاده، شهروند ساکن تهران و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، در دادگاه تجدیدنظر عینا تایید شد.
-‏بیشتر: https://iranwire.com/fa/news-1/155834
-‏
-‏@Farsi_Iranwire
-17:13
 1405/05/13
 
 
