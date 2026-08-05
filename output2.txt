@@ -1,3 +1,57 @@
+src :@ircfspace
+‏این قضیه اینترنت نیم‌بها و ترافیک تشویقی برای استفاده از سایت‌ها و سرویس‌های داخلی واقعا داستان جالبیه. فقط ایرادش اونجاست که کاری می‌کنن تا سایت‌های داخلی روی ملانت باز نشن، یا به حدی کند باشن که بازم فیلترشکنت رو روشن کنی!
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+10:56
+1405/05/14
+
+
+
+
+src :@samueltarikh
+‏⭕️فایننشال‌تایمز به نقل از سخنگوی کاخ سفید: تنگه هرمز هم‌اکنون تحت کنترل کامل نیروی دریایی آمریکا قرار دارد و واشنگتن به اعمال محاصره دریایی در این منطقه ادامه می‌دهد
+10:55
+1405/05/14
+
+
+
+
+src :@ClashReport
+[عکس]
+‏CBS's 60 Minutes reportedly shelved an investigation into Jeffrey Epstein's banking network after correspondent Sharyn Alfonsi was fired during the show's leadership shake-up following Bari Weiss's takeover.
+‏
+‏The report focused on Senator Ron Wyden's findings that Deutsche Bank, JPMorgan Chase, and Bank of America processed hundreds of millions of dollars in suspicious Epstein-linked transactions.
+‏
+‏CBS denies suppressing the story, saying it wasn't finished.
+10:55
+1405/05/14
+
+
+
+
+src :@ClashReport
+[عکس]
+‏AI Trump wearing a military uniform meets with AI General Patton and AI General MacArthur.
+10:52
+1405/05/14
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Ukraine's military intelligence says North Korea has begun deploying a missile unit to western Russia, with plans to provide up to 120 ballistic missiles and six launchers for use against Ukraine. 
+‏
+‏If confirmed, it would mark a significant expansion of Russia–North Korea military cooperation.
+‏
+‏Source: Reuters
+10:52
+1405/05/14
+
+
+
+
 src :@wfwitness
 ‏⚡️🇸🇾 Rudaw: Northeast Syria's Hasaka province will have a share in oil revenues generated from the Rumeilan oilfields, the head of the Syrian Petroleum Company (SPC), shortly after the state-run company struck a deal with US-based HKN Energy to restore production capacity at the country's largest hydrocarbon complex.
 ‏
@@ -2520,15 +2574,6 @@ src :@jangaavaran1390
 src :@jangaavaran1390
 [عکس]
 ‏سلام صبح بخیر
-05:54
-1405/05/14
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🇮🇷🇴🇲⚡️ — BREAKING: The US, Iran, and Oman are on the verge of an interim agreement to reopen the Strait of Hormuz, with a Wednesday announcement expected, Axios reports.
 05:54
 1405/05/14
 
@@ -5415,21 +5460,6 @@ src :@bricsnews
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇳 🇾🇪 🇾🇪 — An Indian cargo vessel, Faize Noore Oliya, sank in the Red Sea after being struck by an explosives-laden boat approximately 13 nautical miles south of Al Hudaydah, off Yemen’s western coast.
-‏
-‏All 14 crew members — 13 Indian nationals and one Yemeni — were safely rescued by the Yemeni Navy and Coast Guard (recognized government). No injuries were reported.
-‏
-‏The incident was reported by Yemeni authorities and media. Further details on the vessel’s voyage and the perpetrators are pending.
-‏
-‏The Global Eye | Subscribe
-19:11
-1405/05/13
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏ناوگان اقیانوس آرام روسیه، تمرین‌هایی را برای دفاع از مرزهای شرق دور آغاز کرد.
@@ -5440,30 +5470,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 19:02
-1405/05/13
-
-
-
-
-src :@tglobaleye
-‏🍎 Last night, Apple briefly removed Telegram from the App Store because a single user had planted illegal pornographic content in a public group chat.
-‏
-‏⬅️ Telegram was restored within hours. But I want to explain what happened — to warn other app developers and help protect online communities from similar attacks.
-‏
-‏🧹Because Telegram quickly removes illegal content from public groups using user reports, AI filters, content hashes, and other moderation tools, the attacker had to resort to a technical trick. He inserted AI-modified illegal content by editing an old message in an active group chat. As a result, the content was effectively hidden from the group’s members, preventing them from seeing and promptly reporting it.
-‏
-‏💰  The attacker was a takedown extortionist: someone who demands ransom from group owners in exchange for not targeting their communities. These extortionists use automated accounts  to plant illegal content in public groups and then report it directly to Apple, attempting to trigger the removal of legitimate communities whose owners refused to pay them.
-‏
-‏🤝 From a practical standpoint, illegal pornographic content in Telegram’s public groups is not a systemic problem. Our moderation is effective. The fact that attackers must resort to backdated, effectively invisible content and other technical tricks proves this.
-‏
-‏⚠️ However, there are two important lessons here for app developers and online communities:
-‏
-‏— Extortionists have found a way to manipulate Apple into overreacting. Apple removed Telegram from the App Store before contacting us. This creates a potential systemic risk for every mobile app that hosts user-generated content. If an app used by more than a billion people can be removed from the App Store without prior warning, any app can be.
-‏
-‏— The tactics used by takedown extortionists are evolving, putting communities across social platforms at risk. Telegram has extensive experience identifying the tricks used by coordinated reporting gangs and protecting legitimate communities (even when doing so risks our own app being temporarily removed from the App Store). Other platforms may not be equally prepared.
-‏
-‏Stay vigilant! ☝️
-18:54
 1405/05/13
 
 
@@ -6018,14 +6024,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 16:06
-1405/05/13
-
-
-
-
-src :@samueltarikh
-‏🔴 وزارت خارجه قطر: تا کنون هیچ توافقی حاصل نشده است و در حال حاضر، مهم‌ترین مسئله بازگشت به مسیر دیپلماتیک است.
-16:03
 1405/05/13
 
 
