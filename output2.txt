@@ -1,24 +1,125 @@
+src :@World_Newsly
+[عکس]
+‏🔴 اسماعیل بقایی:
+‏
+‏توافق ایران و عمان، به خودی خود، نمی‌تواند امنیت کشتی‌هایی را که از تنگه هرمز عبور می‌کنند، تضمین کند، زیرا عواملی که باعث بی‌ثباتی در تنگه هرمز می‌شوند، به ویژه محاصره دریایی آمریکا و سایر اقدامات تهاجمی و تهدیدآمیز علیه ایران و منافع آن، همچنان وجود دارند
+‏
+‏
+‏✍🏻 Nadershah
+‏▪️@World_Newsly
+19:41
+1405/05/14
+
+
+
+
+src :@Artemis_Force
+‏🛑پهپاد MQ-4C نیروی دریایی ایالات متحده در حال حاضر به سمت دریای کارائیب حرکت می‌کند تا از کوبا نظارت به عمل آورد.
+‏
+‏@artemis_force
+19:40
+1405/05/14
+
+
+
+
+src :@wfwitness
+[عکس]
+19:40
+1405/05/14
+
+
+
+
 src :@Shin_Persian
 [عکس]
-‏UKMTO Operations Centre @UK_MTO
+‏Shin ✓ @hey_itsmyturn
 ‏
-‏UKMTO WARNING 106-26
+‏UKMTO WARNING 28082035-26 — ATTACK
 ‏
-‏Click here to view the full warning⤵️
-‏http://www.ukmto.org/-/media/ukmto/products/20260805-ukmto_warning_106-26.pdf?rev=6615b240feb846a6b31df169b9ea788a
+‏Incident reported 95NM southeast of Aden, Yemen. The Master of a tanker reported hearing a loud explosion in close proximity to the vessel.
 ‏
-‏#MaritimeSecurity #MarSec
+‏Source: @UK_MTO
+‏https://www.ukmto.org/recent-incidents
+‏
+‏#Yemen 🇾🇪
 ‏
 ‏ترجمه خودکار فارسی
 ‏
-‏UKMTO هشدار ۱۰۶-۲۶
+‏هشدار UKMTO 28082035-26 — حمله
 ‏
-‏برای مشاهده کامل هشدار اینجا کلیک کنید⤵️
-‏http://www.ukmto.org/-/media/ukmto/products/20260805-ukmto_warning_106-26.pdf?rev=6615b240feb846a6b31df169b9ea788a
+‏وقوع حادثه در ۹۵ مایل دریایی جنوب شرق عدن، یمن گزارش شده است. ناخدای یک نفتکش از شنیدن صدای یک انفجار مهیب در نزدیکی شناور خبر داد.
 ‏
-‏#امنیت_دریایی #MarSec
+‏منبع: @UK_MTO
+‏https://www.ukmto.org/recent-incidents
+‏
+‏#یمن 🇾🇪
 ‏
 ‏𝕏  ·  @shin_persian
+19:40
+1405/05/14
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌❓ - UKMTO has just reported an attack 95 Nautical Miles southeast of Aden, Yemen.
+‏
+‏Loud explosion was heard in close proximity to the vessel, but no damage was reported and all crew was accounted for and safe.
+‏
+‏@GeoPWatch
+19:39
+1405/05/14
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارش از حمله به یک کشتی در نزدیکی سواحل یمن
+19:39
+1405/05/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏استهداف سفينة قبالة السواحل اليمنية.
+19:39
+1405/05/14
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارش از حمله به یک کشتی در نزدیکی سواحل یمن
+19:39
+1405/05/14
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇾🇪🇾🇪⚡️ — UKMTO says the master of a tanker reported hearing a loud explosion near their vessel. The incident occurred 95NM southeast of Aden, Yemen.
+19:38
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏حدث بحري في البحر الاحمر
+19:38
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+‏حدث بحري في البحر الاحمر
 19:37
 1405/05/14
 
@@ -1329,20 +1430,6 @@ src :@ClashReport
 
 
 
-src :@tabzlive
-‏🇱🇧🇮🇱🇮🇹🇺🇸⚡️ — The latest round of U.S.-mediated talks between Israel and Lebanon in Rome ended early after Israel issued an evacuation warning for Al-Mansouri in southern Lebanon ahead of planned airstrikes, according to Al Jadeed.
-‏
-‏Intensive diplomatic contacts are underway in an effort to prevent the strikes. The U.S. delegation requested that negotiations be suspended at 4:00 p.m. local time to conduct private consultations, with talks set to resume tomorrow.
-‏
-‏All three negotiation tracks made progress, with discussions on the border issue and Lebanon's international rights the most advanced. 
-‏
-‏Lebanon also requested a renewed 60-day comprehensive ceasefire, along with agreement on a date for its formal announcement.
-18:18
-1405/05/14
-
-
-
-
 src :@MilitarryWorld
 ‏🔴ارتش اسرائیل: در پاسخ به نقض‌های مکرر آتش‌بس از سوی حزب‌الله سایت‌هایی را در جنوب لبنان مورد حمله قرار دادیم.
 ‏
@@ -1855,15 +1942,6 @@ src :@IranintlTV
 ‏
 ‏@iranintltv
 17:54
-1405/05/14
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏‏🔴 الحدث: سفر عراقچی به اسلام‌آباد در آینده نزدیک انجام خواهد شد  ✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏 ▪️@World_Newsly
-17:53
 1405/05/14
 
 
@@ -3229,15 +3307,6 @@ src :@wfwitness
 
 
 
-src :@naya_foriraq
-[عکس]
-‏جيش العدو يصدر انذارات في جنوب لبنان
-16:08
-1405/05/14
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏جيش الاحتلال يصدر أمر إخلاء في المنصوري جنوبي لبنان
@@ -3344,17 +3413,6 @@ src :@didarnews1
 
 
 
-src :@Alibk3
-[عکس]
-‏‏الخارجية السعودية: 
-‏
-‏لقاء جمع بين وزيري خارجية السعودية والعراق لتناول عمق العلاقات بين البلدين، وضمان عدم تحول أراضي العراق إلى "أداة للعدوان"
-15:49
-1405/05/14
-
-
-
-
 src :@defence_news
 [عکس]
 ‏📱 سرویس های یک ماهه OPENVPN ❤️
@@ -3388,15 +3446,6 @@ src :@defence_news
 ‏
 ‏https://t.me/tablighatvaghaye
 15:47
-1405/05/14
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏‏وزير الخارجية العراقي يلتقي نظيره السعودي في عمّان رغم عدم مرور ايام على العدوان على البلاد والذي اسفر عن 20 شهيد واكثر من 30 جريح
-15:45
 1405/05/14
 
 
@@ -3589,26 +3638,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 15:28
-1405/05/14
-
-
-
-
-src :@wfwitness
-‏⚡️🇸🇾☀ Al Majalla: Several important details from the meeting between Syrian President Ahmed al-Sharaa and SDF commander Mazloum Abdi has emerged. 
-‏
-‏During the meeting, the Syrian leadership asked Mazloum Abdi to submit a list of nominees for positions in state institutions. Among the potential candidates, Ilham Ahmad is expected to visit the Syrian Foreign Ministry in the coming days to discuss the possibility of assuming an official role there, including Deputy FM or Senior Adviser to the FM.
-‏
-‏No official position has yet been formally offered to Mazloum Abdi. However, the Syrian leadership has stressed the importance of his presence in Damascus. Among the ideas proposed by Mazloum Abdi is serving as a presidential envoy or presidential adviser for the affairs of Syria's communities, including the Kurds. 
-‏
-‏The meetings in Damascus also addressed education and the teaching of the Kurdish language in schools located in predominantly Kurdish areas. Syria's Education Minister met the two Kurdish leaders and had previously visited the Kurdistan Region of Iraq. A joint committee has been established to follow up on the issue. 
-‏
-‏Mazloum Abdi is expected to announce soon the dissolution of the SDF and all its military and civilian institutions, including the YPG and the Autonomous Administration. The YPJ are expected to receive a special status, allowing them to play a role within Syria's Internal Security apparatus in counterterrorism. This proposal originates from the SDF.
-‏
-‏@wfwitness 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-15:27
 1405/05/14
 
 
@@ -3903,14 +3932,6 @@ src :@DEJradio
 ‏#ایرانشهر #ترور
 ‏@DEJradio
 14:25
-1405/05/14
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏تعدادی از نظامیان اسرائیلی در انفجار یک مین در مجدل زون، جنوب لبنان، زخمی و با بالگرد به بیمارستان منتقل شدند.
-14:16
 1405/05/14
 
 
@@ -5683,14 +5704,6 @@ src :@MilitiaNews
 ‏
 ‏@MilitiaNews
 09:23
-1405/05/14
-
-
-
-
-src :@GeoPWatch
-‏🇦🇪❓ - Reports claiming a Houthi attack on Jebel Ali Port in Dubai this morning remain unconfirmed.  Sources on the ground, living in close proximity to the port, reported hearing no explosions, no alerts, and no indications from authorities consistent with…
-09:14
 1405/05/14
 
 
