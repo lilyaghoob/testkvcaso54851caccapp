@@ -1,3 +1,18 @@
+src :@ClashReport
+[عکس]
+‏A new Congressional Budget Office report estimates President Trump’s proposed 15-ship "Trump-class" fleet would cost $275 billion, up more than 50% from earlier projections. 
+‏
+‏The first ship alone is expected to cost $23.4 billion, $8 billion above the Navy’s initial estimate, while each additional vessel could cost over $18 billion. 
+‏
+‏The higher price is largely driven by Trump’s decision to switch the ships to nuclear propulsion.
+‏
+‏Source: NYT
+00:21
+1405/05/15
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴حمله گسترده پهپادی اوکراین به روسیه
@@ -2427,19 +2442,6 @@ src :@rnintel
 [عکس]
 ‏🇾🇪🇸🇦🇸🇴⚡- A failed attack on a tanker in the Gulf of Aden. UKMTO reports a projectile struck in close proximity to a vessel in the area. The crew are reportedly safe.
 20:52
-1405/05/14
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Wildberries—Russia's dominant e-commerce platform—may need up to about 1.3 trillion rubles (roughly $16 billion) to stabilize and rebuild after Ukrainian drone strikes destroyed or heavily damaged at least 14 logistics hubs.
-‏
-‏The company's own direct losses could exceed 100 billion rubles (around $1.2 billion), reaching 200 billion (about $2.5 billion) in a worst case.
-‏
-‏Source: The Bell
-20:51
 1405/05/14
 
 
@@ -7027,32 +7029,4 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 00:36
-1405/05/14
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏The southern route through the Strait of Hormuz remains free and open for all commercial vessels, U.S. Central Command says. Over the past three months, U.S. forces have assisted more than 1,000 vessels in transiting the strait despite unwarranted Iranian aggression.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏مسیر جنوبی از طریق تنگه هرمز همچنان برای تمامی کشتی‌های تجاری آزاد و باز است، به گفته ستاد فرماندهی مرکزی ایالات متحده (سنتکام). طی سه ماه گذشته، نیروهای آمریکایی به بیش از ۱۰۰۰ کشتی در عبور از این تنگه علی‌رغم تجاوزات ناروا و غیرموجه ایران کمک کرده‌اند.
-‏
-‏𝕏  ·  @shin_persian
-00:25
-1405/05/14
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — US military has used up nearly 80% of key missile interceptors as commanders warn stockpiles 'dangerously low,' sources say — CNN
-‏
-‏The Global Eye | Subscribe
-00:22
 1405/05/14
