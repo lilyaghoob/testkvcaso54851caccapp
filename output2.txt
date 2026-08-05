@@ -1,3 +1,41 @@
+src :@bricsnews
+‏JUST IN: 🇮🇱🇺🇸 Israeli Prime Minister Netanyahu says President Trump is a "great friend" of Israel, but Israel will do "whatever it takes" for its security.
+‏
+‏@BRICSNews
+20:11
+1405/05/14
+
+
+
+
+src :@World_Newsly
+‏‏🔴 حسن روحانی گفته که ایت الله سید علی خامنه‌ای هیچ‌وقت دنبال جنگ نبودند.
+‏‎
+‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️@World_Newsly
+20:09
+1405/05/14
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇮🇶جنايات الكرخ تصدر حكماً بحق باسم خشان بالحبس الشديد ثلاث سنوات وغرامة مالية.
+20:08
+1405/05/14
+
+
+
+
+src :@samueltarikh
+‏گزارش های اولیه از حمله موشکی به یک نفتکش در نزدیکی یمن.
+20:08
+1405/05/14
+
+
+
+
 src :@World_Newsly
 ‏🔴وزیر انرژی ترکیه اعلام کرد: آنکارا برای کاهش وابستگی به تنگه هرمز، در حال مذاکره با عراق جهت توسعه مسیرهای جایگزین انتقال نفت و افزایش ظرفیت آن به ۲.۵ میلیون بشکه در روز است.
 ‏
@@ -359,6 +397,8 @@ src :@mwarmonitor
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇾🇪/🇸🇦 NEW: A vessel was attacked 95 nautical miles off the coast of Aden, per UKMTO
+‏
+‏Likely another Saudi oil tanker targeyed by Yemen’s Armed Forces.
 ‏
 ‏@Middle_East_Spectator
 19:46
@@ -2060,21 +2100,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@World_Newsly
-‏🔴تنها چند فروند هواپیما از تحریم‌های آمریکا خارج شدند/ شالوده اصلی تحریم‌ها همچنان پابرجاس
-‏
-‏🔸رویترز به نقل از اطلاعات منتشرشده در وب‌سایت وزارت خزانه‌داری آمریکا گزارش داد واشنگتن تحریم‌های مرتبط با مقابله با تروریسم علیه دو فروند هواپیما و سه شرکت هواپیمایی مرتبط با سپاه پاسداران انقلاب اسلامی را لغو کرده است.
-‏
-‏🔸هنوز درباره علت این تصمیم و ارتباط احتمالی آن با مذاکرات جاری توضیح رسمی منتشر نشده است.
-‏
-‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️@World_Newsly
-18:05
-1405/05/14
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏طبق گزارش مختلف چندین چنل و پیچ خارجی، ایران از آنتن‌های CRPA ساخت چین در موشک‌های خود استفاده می‌کند.
@@ -3510,14 +3535,6 @@ src :@mohem_mat
 ‏
 ‏‎@mohem_mat
 16:16
-1405/05/14
-
-
-
-
-src :@naya_foriraq
-‏شركة يورو وينجز للطيران تعلق رحلاتها الى مطار اربيل الدولي
-16:15
 1405/05/14
 
 
@@ -6786,16 +6803,6 @@ src :@samueltarikh
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸 US military says it assisted over 1,000 ships in crossing the Strait of Hormuz over the past 3 months.
-‏
-‏@BRICSNews
-00:27
-1405/05/14
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -6897,14 +6904,6 @@ src :@OSINTWarfare
 ‏
 ‏Troops have been placed on Alert Level C, units have been deployed to the Syrian–Iraqi border, and all military personnel have been ordered to report to their units immediately.
 23:40
-1405/05/13
-
-
-
-
-src :@samueltarikh
-‏🔴طبق گزارش ها، در بزرگ‌ترین استقرار تاریخ هواپیماهای سوخت‌رسان آمریکایی در منطقه، هم اکنون 190 هواپیمای سوخت رسان آمریکایی در سراسر خاورمیانه و اطراف آن مستقر شدند
-23:35
 1405/05/13
 
 
