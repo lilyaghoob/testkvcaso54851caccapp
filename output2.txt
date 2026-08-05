@@ -1,3 +1,14 @@
+src :@tabzlive
+[عکس]
+‏🇺🇦❌🇷🇺 — Ukrainian drones attacked a Wildberries warehouse in Aleksin, Russia's Tula region.
+‏
+‏The warehouse is engulfed in flames as a result of the attack.
+05:01
+1405/05/14
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏وول ستريت جورنال: 
@@ -1085,14 +1096,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-‏🇷🇺🇺🇦⚡️ — Iskander-M TEL activity in Bryansk, Russia. High threat for launches towards Kyiv.
-02:12
-1405/05/14
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦 – Reports of Iskander-M TEL launch from Bryansk, Russia.
 ‏
@@ -1113,24 +1116,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 02:09
-1405/05/14
-
-
-
-
-src :@tabzlive
-‏🇷🇺🇺🇦⚡️ — Iskander-M TEL activity in Bryansk, Russia. High threat for launches towards Kyiv.
-02:09
-1405/05/14
-
-
-
-
-src :@tabzlive
-‏🇷🇺❌🇺🇦 — Ammonia leak in Holosiivs'kyi District, Kyiv as a result of Russian missile strikes.
-‏
-‏Multiple locations in Holosiivs'kyi District were struck.
-02:06
 1405/05/14
 
 
