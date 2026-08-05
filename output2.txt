@@ -1477,18 +1477,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴دولت عراق اعلام کرد امسال ۲۲ میلیون زائر از سراسر جهان در اربعین شرکت کردند.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-17:28
-1405/05/14
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Former Mossad Director David Barnea Joins US Defense Tech Firm Ondas
@@ -1660,16 +1648,6 @@ src :@Middle_East_Spectator
 ‏— 🇺🇸/🇮🇷 President Trump: ‘We’re having very good talks with Iran’
 ‏
 ‏@Middle_East_Spectator
-17:16
-1405/05/14
-
-
-
-
-src :@tabzlive
-‏🇯🇴🇵🇸🇮🇱⚡- Jordan convened an emergency meeting of Arab foreign ministers in Amman to address what it described as escalating tensions in Jerusalem and its holy sites.
-‏
-‏In a joint statement, the ministers reaffirmed that East Jerusalem is occupied Palestinian territory and the future capital of an independent Palestinian state. They accused Israel of undermining the historic status quo at both Islamic and Christian holy sites, warning that continued actions in the city could further inflame regional tensions and risk a wider conflict.
 17:16
 1405/05/14
 
