@@ -1169,15 +1169,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱⚡️ — The U.S. Air Force has begun relocating some of its aerial refueling aircraft that had been stationed at Ben Gurion Airport in recent weeks, amid ongoing security developments, according to Israeli Channel 12.
-00:34
-1405/05/16
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏The departure of U.S. Marine Corps aerial refueling aircraft from Oman has been observed, amid unusual movements in the region.
@@ -2078,20 +2069,6 @@ src :@jangaavaran1390
 ‏
 ‏ارتش آمریکا با ورود HERO-120 به تولید، گام دیگری در تجهیز یگان‌های خود به مهمات سرگردان ارگانیک و افزایش توان حملات دقیق و کم‌هزینه در میدان نبرد برداشته است.
 23:36
-1405/05/15
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏مسعود پزشکیان، در پاسخ به پرسشی درباره «اصلاح نظام بانکی» گفت: «۴۷ سال است می‌خواهیم درست کار کنیم، اما هر بار می‌گویند وقتش نیست و یک بهانه‌ای می‌آورند و این مساله هر روز ما را در باتلاق فرو می‌برد.»
-‏
-‏او افزود «ما مجبوریم اصلاحات را انجام دهیم» و اگر در حوزه آب، برق، گاز، بنزین و گازوئیل درست عمل نکنیم، مشکلات بیشتر می‌شود.
-‏
-‏پزشکیان گفت: «هر بار که می‌خواهیم به این مسائل ورود کنیم، می‌گویند الان دست نزنید، چون اگر دست بزنید صدا بلند می‌شود. خب چه زمانی باید دست بزنیم؟ زمانی که خودمان غرق شدیم، کشور نابود شد و همه ضرر کردند؟» 
-‏https://iranintl.com/202608065329
-23:35
 1405/05/15
 
 
@@ -7290,12 +7267,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 03:45
-1405/05/15
-
-
-
-
-src :@Mena_Live
-‏Trump has been cornered; Iran today repeated its demands with zero concessions; even if Trump wanted to, he cannot resume the war with Iran due to severe air defense and ground-based missile shortages; the midterms are in two months, which is another factor…
-03:17
 1405/05/15
