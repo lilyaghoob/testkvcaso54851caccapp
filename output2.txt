@@ -1,3 +1,37 @@
+src :@wfwitness
+‏⚡️🇮🇱 The Israeli Security Cabinet is expected to convene today at 7:00 pm local time in Jerusalem.
+‏
+‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+13:37
+1405/05/15
+
+
+
+
+src :@MilitarryWorld
+‏🔴الحدث: توافقنامه مربوط به هرمز هنوز نیازمند تایید شورای عالی امنیت ملی ایران است. این نهاد هنوز توافقنامه را تایید نکرده است 
+‏
+‏@MilitarryWorld | Parsa
+13:37
+1405/05/15
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏خبرگزاری «رویترز» به نقل از یک منبع ارشد ایرانی و دو مقام منطقه‌ای گزارش داده است که توافق پیشنهادی ایران و عمان درباره تنگه هرمز، به تهران اجازه می‌دهد ورود کشتی‌ها به خلیج فارس را کنترل کند.
+‏بیشتر: https://iranwire.com/fa/news-1/155943
+‏
+‏@Farsi_Iranwire
+13:36
+1405/05/15
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 چین از پهپاد KVD002 در حمله به هدف دریایی متحرک رونمایی کرد
@@ -2289,19 +2323,6 @@ src :@Artemis_Force
 
 
 
-src :@ClashReport
-[عکس]
-‏Two IDF reservists were killed and four seriously wounded by an IED in a booby-trapped building in Majdal Zoun, southern Lebanon.
-‏
-‏They are the first Israeli military fatalities under the shaky June truce with Hezbollah.
-‏
-‏The killed soldiers were named as Maj. (res.) Harel Birenstock, 34, a company commander, and Sgt. Maj. (res.) Tamir Vaknin, 33.
-10:09
-1405/05/15
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️#BREAKING Two Israeli soldiers killed in southern Lebanon. 
@@ -2638,15 +2659,6 @@ src :@mohem_mat
 ‏
 ‏@KhabarOnline_ir
 09:20
-1405/05/15
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 WaPo: U.S. President Trump reportedly confronted Defense Secretary Pete Hegseth during a meeting at Camp David over severe U.S. missile shortages that officials say are limiting military options against Iran.   Trump reportedly questioned why the shortages…
-09:19
 1405/05/15
 
 
@@ -3814,18 +3826,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇳🇬- BREAKING NEWS: A huge breakthrough has been made by the Nigerian Army in regards to Operation Hadin Kai (Anti-IS operations in the Lake Chad Basin and Borno State). Today, the Army has released images of several high-ranking ISWAP terrorists operating in Northeastern Nigeria and the Lake Chad region after several devices and a camcorder were retrieved. The devices and footage revealed the identities of many vital militants within ISWAP, as well as locations involved in high ISWAP activities.
 01:32
-1405/05/15
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ: 
-‏
-‏ترجیح میدهم با ایران به توافق برسم چونکه دوست ندارم مردم کشته شوند
-‏
-‏@MilitarryWorld | Parsa
-01:29
 1405/05/15
 
 
@@ -5558,21 +5558,6 @@ src :@mamlekate
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏مسعود پزشکیان، رییس‌جمهوری ایران، در گفت‌وگوی تلفنی با خلیل الحیه، رییس جدید دفتر سیاسی گروه حماس، گفت فلسطین همچنان در صدر اولویت‌های سیاست خارجی جمهوری اسلامی قرار دارد.
-‏رسانه‌های دولتی ایران گزارش دادند که مسعود پزشکیان روز چهارشنبه ۱۴ مرداد در تماس تلفنی با خلیل الحیه، انتخاب او به ریاست دفتر سیاسی حماس را تبریک گفت.
-‏به گزارش این رسانه‌ها، پزشکیان در این گفت‌وگو تاکید کرد که مساله فلسطین همچنان جایگاهی محوری در سیاست خارجی جمهوری اسلامی دارد و از هر تصمیم یا ابتکاری که رهبران فلسطینی در مذاکرات غیرمستقیم با اسراییل اتخاذ کنند، حمایت خواهد کرد.
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/155895
-‏@Farsi_Iranwire
-18:07
-1405/05/14
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏طبق گزارش مختلف چندین چنل و پیچ خارجی، ایران از آنتن‌های CRPA ساخت چین در موشک‌های خود استفاده می‌کند.
@@ -6629,12 +6614,4 @@ src :@rus_cosmos
 src :@rus_cosmos
 [فایل]
 13:38
-1405/05/14
-
-
-
-
-src :@Navy_Iranian
-‏این یعنی بسته شدن تنگه هرمز یک اقدام نظامی نیست ، یک اقدام اقتصادی و سیاسیه و اقدامات نظامی کمتر اثری روی باز شدن یا بسته شدن تنگه دارند    حالا چرا جریان نفت از حدود ۱۰ درصد با احتصاب نفت ایران به حدود ۲۵ درصد بدونه نفت ایران رسیده ؟  هرچقدر روند ادامه دار…
-13:35
 1405/05/14
