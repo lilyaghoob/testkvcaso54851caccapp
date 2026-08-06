@@ -1,3 +1,39 @@
+src :@bricsnews
+‏JUST IN: 🇮🇷 Iran says it has arrested 21 alleged Mossad agents accused of spying on military sites.
+‏
+‏@BRICSNews
+15:10
+1405/05/15
+
+
+
+
+src :@rnintel
+‏🇾🇪⚡- Death toll from the Ansarullah missile and drone attack on the Saudi-backed Hadhramaut Emergency Forces al-Ruwyk base, al-Abr direction, eastern Yemen, rises to 40, with over 100+ injured. A large number of emergency rescue personnel are included in the…
+15:10
+1405/05/15
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار نیمروزی | پنج‌شنبه ۱۵ مرداد
+‏@iranintlTV
+15:09
+1405/05/15
+
+
+
+
+src :@rnintel
+‏🇾🇪⚡- One-way drone strike on the Saudi-backed Hadhramaut Emergency Forces al-Ruwyk base, al-Abr direction, eastern Yemen.  Ansarullah just double-tapped the base it struck with missiles earlier, with emergency services currently operating on the ground.
+15:08
+1405/05/15
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇨🇴🇺🇦 Financial Times: Colombian armed groups have repeatedly sent fighters to Ukraine to gain drone warfare expertise, later using those skills against the Colombian army, as drones have overturned the state long-held aerial advantage over rebels and traffickers, with the defense ministry recording 264 drone attacks by illegal groups between 2024 and 2025, including a December attack on a military base that killed seven.
@@ -450,6 +486,7 @@ src :@ClashReport
 
 
 src :@wfwitness
+[عکس]
 ‏⚡️🇺🇸 Washington Post: Trump privately told donors two weeks ago that he wants JD Vance to win the 2028 presidential election, saying “at the end of the day, we need to elect JD” during an Oval Office meeting. An adviser with direct knowledge of the comment said Trump has privately resolved that Vance will be the Republican successor, though it is too early to determine when Vance will announce or when Trump will publicly endorse him.  
 ‏
 ‏This contrasts with Trump’s public posture, where he has continued to present Vance and Secretary of State Marco Rubio as competing for his favor. Other advisers cautioned that Trump has not firmly settled on Vance, noting he tells different people different things and could still change course.  
@@ -989,13 +1026,14 @@ src :@cataphract1
 ‏
 ‏⚜در طول جنگ ایران و عراق، نیروهای عراقی در مراحل ابتدایی جنگ و همچنین در سال‌های پایانی آن، موفق به تصرف شمار قابل توجهی از تجهیزات و ادوات زرهی ایران شدند.
 ‏
-‏⚜بخش زیادی از این تجهیزات غنیمتی، به‌ویژه تانک‌ها، برای جلوگیری از آسیب‌دیدن در نبرد، به انبارهایی در مناطق داخلی عراق و دور از خطوط مقدم منتقل شدند.
-‏
-‏⚜در این تصاویر تانک های M60A1،تانک M47 پاتن و چیفتن دیده می شود.
-‏
-‏⚜به عنوان مثال عملیات توکلنا علی‌الله در سال ۱۳۶۷ که شامل بازپس‌گیری فاو، شلمچه، جزایر مجنون و سپس حمله به دهلران بود، بزرگ‌ترین غنیمت زرهی عراق را به همراه داشت.
+‏⚜به عنوان مثال در عملیات توکلنا علی‌الله در سال ۱۳۶۷ که شامل بازپس‌گیری فاو، شلمچه، جزایر مجنون و سپس حمله به دهلران بود، بزرگ‌ترین غنیمت زرهی برای عراق را به همراه داشت.
 ‏
 ‏⚜همچنین در عملیات نصر در دی ۱۳۵۹ که بزرگ‌ترین رویارویی زرهی جنگ محسوب می‌شود، عراق شمار قابل توجهی از تانک‌های چیفتن و M60 ایران را منهدم یا به غنیمت گرفت.
+‏
+‏⚜بخش زیادی از این تجهیزات غنیمتی، به‌ویژه تانک‌ها، برای جلوگیری از آسیب‌دیدن در نبرد، به انبارهایی در مناطق داخلی عراق و دور از خطوط مقدم منتقل شدند.
+‏
+‏⚜در این تصاویر تانک های M60A1، تانک M47M پاتن و چیفتن دیده می شود.
+‏
 ‏✒️#LT
 ‏📃@Cataphract1
 14:10
@@ -3447,14 +3485,6 @@ src :@Americana_ir
 
 
 
-src :@tabzlive
-‏🇺🇸⚡️ — President Trump denies reports of strategic munitions shortages and announces the leakers of these stories are being "hunted down":  The U.S. has massive amounts of “munitions,” especially of certain types. Additionally, large amounts are being manufactured…
-09:42
-1405/05/15
-
-
-
-
 src :@didarnews1
 ‏🔴معاون رئیس‌جمهور آمریکا جی.دی ونس :  در حکومت ایران افرادی هستند که می‌خواهند جنگ را پایان دهند و تندروهایی هم هستند که خواهان ادامه آن می‌باشند.
 ‏
@@ -5600,16 +5630,6 @@ src :@mwarmonitor
 
 
 
-src :@mwarmonitor
-‏🔴سخنگوی وزارت امور خارجه ایران اعلام کرد که بیانیه مشترک میان عمان و ایران، مشروط بر اینکه «برخی طرف‌های ثالث» دخالت نکنند، در مرحله نهایی قرار دارد. با این حال، تأکید کرد که این توافق «به‌خودیِ خود» امنیت تنگه هرمز را تضمین نمی‌کند. همچنین وی شایعات مربوط به سفر محمدباقر قالیباف یا عباس عراقچی به پاکستان یا قطر را رد کرد و گفت هیچ برنامه‌ای برای چنین سفرهایی وجود ندارد.
-‏
-‏@mwarmonitor
-19:30
-1405/05/14
-
-
-
-
 src :@defence_news
 [عکس]
 ‏ارتش اسرائیل هشداری برای منطقه منصوری در جنوب لبنان صادر کرد و اعلام کرد اهالی فوراً منازل خود را تخلیه کرده و از روستا به سمت شمال، حداقل به فاصله ۱۰۰۰ متری، به مناطق باز بروند و بعد اعلام کردند که عملیاتی را در پاسخ به نقص آتش بس توسط حزب‌الله در جنوب آغاز کردند.
@@ -6082,22 +6102,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 17:39
-1405/05/14
-
-
-
-
-src :@rnintel
-‏🇺🇸🫏⚡️- Democrat Representative Shri Thanedar in Michigan has lost his primary race to DSA-endorsed socialist Donavan McKinney. Capping off a night of huge wins in the state for the DSA
-17:38
-1405/05/14
-
-
-
-
-src :@rnintel
-‏🇺🇸🫏⚡️- We rescind our call of this race as Stevens is overperforming in rural counties and Black turnout is higher than expected.   El-Sayed is still in position to win but by a slim margin and Stevens could pull ahead.
-17:36
 1405/05/14
 
 
