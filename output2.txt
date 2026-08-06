@@ -1,5 +1,41 @@
 src :@WAR_ROOM_NEWS
 [عکس]
+‏حزب دموکرات آمریکا هم نیمه گمشده‌ش رو پیدا کرد... 
+‏
+‏راست‌های مقیم گاراژ، با این خبر هیجان‌انگیز، روزتون خوش.
+‏
+‏@Garajetadayoni | گاراژ
+10:32
+1405/05/15
+
+
+
+
+src :@GeoPWatch
+‏⚡️🇺🇦🇮🇷 – A spokesperson of the Ukrainian Navy stated they have units ready to assist in international demining operations in the Strait of Hormuz, while adding that "Ukraine must contribute to international maritime security."
+‏
+‏@GeoPWatch
+10:32
+1405/05/15
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Lt. Gen. Igor Yerusalimov, ~53, a senior Russian officer, was buried under heavy security in Moscow with multiple sources linking his death to the Aug 1 bombing at the Balzi Rossi restaurant.
+‏
+‏Russian authorities haven't publicly confirmed his cause of death or named him as a victim.
+‏
+‏Yerusalimov was a staff officer with operational-planning experience on the Ukrainian direction, promoted to lieutenant general in 2025.
+10:30
+1405/05/15
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
 ‏سرویس‌های اطلاعاتی روسیه برای ترور مدیران شرکت‌های دفاعی آلمان که به اوکراین سلاح و تجهیزات نظامی تأمین می‌کنند، برنامه‌ریزی کرده بودند.یکی از اهداف اصلی، استفان تومان، مدیر استارتاپ Donaustahl، بوده است. گفته می‌شود برنامه‌ریزی این عملیات از دسامبر ۲۰۲۵ آغاز شد و مأموران روس خانه او در ایالت باواریا را به دلیل تأمین پهپادهای شناسایی و انتحاری MAUS برای اوکراین، تحت نظر داشتند.طبق این گزارش، عاملان ترور از طریق اینترنت جذب شده بودند؛ فردی به نام سرگئی ن. ابتدا مأمور زیر نظر گرفتن او شد و سپس آلا س.، شهروند رومانی، به این عملیات پیوست. هر دو در مارس ۲۰۲۶ به‌ترتیب در اسپانیا و آلمان بازداشت شدند.در پی این تهدیدها، استفان تومان تمامی حضورهای عمومی خود را لغو کرده و اکنون تحت حفاظت شدید شخصی قرار دارد.
 ‏
 ‏🆔@WAR_ROOM_NEWS
@@ -2552,16 +2588,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: ایران‌فروشی در دریای خزر
-‏@iranintlTV
-02:25
-1405/05/15
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏نيويورک تایمز: 
@@ -2714,16 +2740,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 02:00
-1405/05/15
-
-
-
-
-src :@GeoPWatch
-‏🇮🇱❌🇮🇷 -  Israeli airstrikes have reportedly targeted the Burj al-Shamali camp near Tyre, located outside Israel’s declared security zone in southern Lebanon.
-‏
-‏@GeoPWatch
-01:59
 1405/05/15
 
 
@@ -5027,21 +5043,6 @@ src :@samueltarikh
 
 
 
-src :@didarnews1
-‏🔴اسماعیل بقایی سخنگوی وزارت خارجه:
-‏
-‏روند مذاکرات بین ایران و عمان درباره تنگه هرمز «حرفه‌ای» و «رو به جلو» است؛ مختصات جغرافیایی مسیر مد نظر طرفین، مورد تفاهم قرار گرفته و چنانچه برخی طرف‌های ثالث در این زمینه کارشکنی نکنند، بیانیه مشترک دو کشور مشتمل بر ملاحظات و نکات عمده مورد توافق نیز در مرحله بررسی و تدوین نهایی است.
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-18:51
-1405/05/14
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Authorities are investigating an incident at Leipzig/Halle Airport after an employee discovered a drone carrying an unidentified explosive device near the southern runway and close to parked Ukrainian Antonov cargo aircraft. 
@@ -7074,36 +7075,4 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe
 10:43
-1405/05/14
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏خط بردار پرواز هواپیما مسیر پرواز واقعی را نشان می‌دهد و با صعود و نزول حرکت می‌کند. این خط همان اطلاعات رابطه‌ای را که بردار سرعت روی هاد ارائه می‌دهد، روی نمایشگر TFR نیز فراهم می‌کند و به ویژه هنگام صعود برای عبور از قله‌های بلند، امکان بررسی فوری اینکه فرمان TFR فاصله ایمن را تأمین می‌کند یا نه را می‌دهد.
-‏
-‏در بالا سمت راست نمایشگر، نشانگر موقعیت ویدئوی خام قرار دارد. نقطه روی این مقیاس آزیموت میله اسکن TFR را نشان می‌دهد که ویدئوی خام از آن انتخاب شده است. در پرواز مستقیم و افقی، میله مرکزی مشخص است و در چرخش، میله بیرونی کریدور فرمان. این نشانگر تأیید می‌کند که کریدور فرمان و قابلیت Lead into Turn به درستی کار می‌کنند و با شروع چرخش باید نقطه به سمت جهت چرخش حرکت کند.
-‏
-‏در قسمت بالا چپ، نمایش فرمان پیچ و نگرش وجود دارد. افق مصنوعی همراه با جعبه فرمان دستی TFR یا نوار توپر اتوماتیک یا نوار خط‌چین حالت Blended نمایش داده می‌شود و یک دایره بردار سرعت نیز برای مرجع وجود دارد.
-‏
-‏
-‏8/
-‏
-‏@PARVAZDAROJ | 𝐃𝐆𝐑
-10:31
-1405/05/14
-
-
-
-
-src :@ircfspace
-‏چند پورت مهم مانند پورت ٢٢ از سمت زیرساخت بر روی آیپی‌های ایران به سمت شبکه بین‌الملل محدود شده است.
-‏همچنین شواهد و بررسی‌ها نشان می‌دهند که ارتباطات زیرساخت برای ایجاد یک قطعی گسترده در حالت آماده‌باش می‌باشد.
-‏
-‏© manageit
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-10:28
 1405/05/14
