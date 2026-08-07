@@ -1406,17 +1406,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏رويترز عن مصادر: 
-‏
-‏تركيا والسعودية وباكستان ستوقع اتفاقية دفاع مشترك في السعودية اليوم الجمعة.
-01:26
-1405/05/16
-
-
-
-
 src :@Shin_Persian
 ‏↩️ Quoted tweet:
 ‏Faytuks Network ✓ @FaytuksNetwork
@@ -1484,14 +1473,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 01:22
-1405/05/16
-
-
-
-
-src :@Ali_bk_2
-‏Senior Saudi officer Mansour Al-Turki was killed in the Yemeni strikes.
-01:15
 1405/05/16
 
 
