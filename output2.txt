@@ -1,3 +1,70 @@
+src :@guard_warriors
+[عکس]
+‏✪ کره شمالی یک کارگاه تولید موشک‌های بالستیک جدید ساخته و سپس آن را زیر زمین پنهان کرده است، و این موشک‌ها همچنین به روسیه تحویل داده می‌شوند.
+‏
+‏بر اساس گزارش NK News که به تصاویر ماهواره‌ای منتشر شده است، این ساختمان با ابعاد 65 در 35 متر و ارتفاع 2 تا 3 طبقه، در بازه زمانی از اواخر سال 2024 تا فوریه 2026 در محوطه کارخانه تولید موشک‌های بالستیک KN-23 (Hwasong-11Ga) ساخته شده است.
+‏
+‏نکته جالب این است که این سازه، که شبیه به کارگاه‌های تولید و مونتاژ معمول در کره شمالی است، بعدها با خاک پوشانده شده و در دامنه کوه مجاور ادغام شده است.
+‏
+‏@Guard_Warriors | Mmd
+19:21
+1405/05/16
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏↩️ Quoted tweet: Current Report ✓  @Currentreport1  Iran has recovered largely intact US MQ-9 Reaper and Israeli Hermes 900 drones.  IRGC engineers are expected to examine the captured systems, study their technologies and reverse-engineer key components to…
+19:20
+1405/05/16
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇾🇪 — Explosions in Ma'rib, Presidential Leadership Council-controlled northwestern Yemen. Ansarallah ballistic missile strike.
+19:20
+1405/05/16
+
+
+
+
+src :@selena_updates
+[عکس]
+‏UAE's Abu Dhabi National Oil Company (ADNOC) says that 15 of its vessels have been attacked by missiles and drones while transiting the Strait of Hormuz since the start of the conflict, including 3 vessels targeted this week alone, leaving 1 crew member dead and 20 others injured. 
+‏
+‏The UAE state energy company said the repeated attacks are significantly affecting its people, assets and operations as it works with authorities to protect personnel and maintain deliveries to customers.
+19:20
+1405/05/16
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 طوفان سبز بر می خیزد!  🔹 خمینی برای انجام موفقیت آمیز ماموریتش تغییر حالت داد: او سبک بیان پیچیده ای که تا آن زمان داشت را کنار گذاشت و شروع کرد به ساده صحبت کردن، طوری که هیچ گاه دایره واژگانش بیش از دو هزار کلمه نبود و آنقدر عبارت واحدی را بارها و بارها…
+19:19
+1405/05/16
+
+
+
+
+src :@rnintel
+‏🇸🇦🇾🇪🇮🇶⚡- Chief of the Badr Organisation, which heads 10 pro-Iranian Popular Mobilization Forces brigades, Hadi al-Amiri, has called on the rest of the PMF to postpone retaliatory strikes on Saudi Arabia.   Meanwhile, additional Iraqi Armed Forces reinforcements…
+19:18
+1405/05/16
+
+
+
+
+src :@wfwitness
+‏⚡️🇾🇪 The Houthis targeted the Al-Mil camp north of the city of Marib with rockets and drones.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+19:17
+1405/05/16
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 طوفان سبز بر می خیزد!   🔹 فردای آن روز، شاپور بختیار، نخست وزیر سکولاری که شاه به حکومت کشور منصوب کرده بود، با یک در خواست رک و صریح سراغ الیعذر سافریر، رئیس جدید ایستگاه موساد در تهران رفت: ممکن است موساد لطف کند و خمینی را در حومه پاریس که الان در آنجا…
 19:17
@@ -2106,17 +2173,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The Pentagon has released 41 additional files related to UFOs, or unidentified anomalous phenomena (UAP), marking its fifth such disclosure in recent months.
-‏
-‏The newly released material includes documents, photographs and videos from the Pentagon, FBI, CIA, State Department and Executive Office of the President, with records spanning from 1950 to 2026.
-16:45
-1405/05/16
-
-
-
-
 src :@MilitarryWorld
 ‏🔴اعرافی خطاب به عربستان:
 ‏
@@ -3087,23 +3143,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 14:51
-1405/05/16
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Scientists at Stanford University have used generative artificial intelligence to design the world's first fully functional viruses capable of replicating in the laboratory, marking the first time AI has created complete viral genomes that were then synthesized and shown to work in living cells.
-‏
-‏The team used two genome language models, Evo 1 and Evo 2, which were trained on vast genetic datasets from viruses, bacteria, plants and humans. Similar to large language models that predict the next word in a sentence, the AI predicts patterns in DNA, enabling it to generate entirely new genetic sequences rather than copying existing viruses.
-‏
-‏Researchers generated hundreds of previously unknown bacteriophage genomes - viruses that infect bacteria but cannot infect humans or animals. Of the 302 AI-designed viruses synthesized in the laboratory, 16 successfully infected and killed Escherichia coli (E. coli), demonstrating that the AI-generated genomes were fully functional and capable of replication.
-‏
-‏Lead researcher Brian Hie described the achievement as a major milestone in synthetic biology, saying it is the first time generative AI has produced complete viral genomes that function inside cells. The researchers believe the technology could accelerate the development of phage therapies, an emerging alternative to antibiotics for treating drug-resistant bacterial infections.
-‏
-‏The breakthrough has also raised significant biosafety and biosecurity concerns. In a commentary published in Science, researchers from Johns Hopkins University's Center for Health Security warned that AI-generated virus design could lower barriers to creating novel pathogens and argued that research involving viruses with disease-causing potential should be approached with extreme caution. The Stanford team said they deliberately excluded viruses capable of infecting complex organisms from the AI's training data and conducted all experiments in secure laboratory facilities to reduce potential risks.
-14:50
 1405/05/16
 
 
@@ -4179,19 +4218,6 @@ src :@intelslava
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇶 LBCI: A government meeting will be held on Monday to expedite logistical preparations for transporting Iraqi fuel to Lebanon via tankers.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-12:43
-1405/05/16
-
-
-
-
 src :@didarnews1
 ‏🔴کدام بی‌خبریم؟ 
 ‏
@@ -4693,32 +4719,6 @@ src :@rnintel
 
 
 
-src :@guard_warriors
-‏✪ اخبار:
-‏
-‏سخنگوی طالبان: 
-‏
-‏گروه تروریستی داعش در افغانستان به‌طور کامل سرکوب شده و تمامی مراکز و پایگاه‌های این گروه ازبین رفته است.
-‏
-‏به هیچ گروهی اجازه داده نخواهد شد از خاک افغانستان برای اقدام علیه کشورهای دیگر استفاده کند.
-‏
-‏هشدار اطلاعاتی آمریکا: روسیه شاید به ناتو حمله کند
-‏
-‏طبق گزارش وال‌استریت‌ژورنال، ارزیابی‌های جدید اطلاعاتی آمریکا نشان می‌دهد که روسیه ممکن است به یک کشور عضو ناتو، حملۀ محدود کند.
-‏
-‏این ارزیابی که توسط مقامات آمریکایی در اختیار وال‌استریت‌ژورنال قرار گرفته و سناریو هایی ازجمله حمل زمینی، سایبری یا استفاده از گروه‌های مسلح ناشناس را بررسی کرده.
-‏
-‏طبق این ارزیابی‌های اطلاعاتی آمریکا، حمله روسیه به ناتو در فاصلۀ پاییز امسال تا سال ۲۰۲۹ انجام می‌شود.
-‏
-‏محسن رضایی: اجازه باز شدن مسیر دوم در تنگه هرمز را نخواهیم داد
-‏
-‏@Guard_Warriors | Mmd
-11:16
-1405/05/16
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏گزارشات از حملات مجدد حوثی ها به مواضع نیروهای یمنی طرفدار سعودی
 11:13
@@ -4909,17 +4909,6 @@ src :@DEJradio
 ‏#فرودگاه_جهرم #جنگ #آلمان
 ‏@DEJradio
 10:39
-1405/05/16
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ آزمایش یکی از پیشرفته‌ترین هواپیماهای بدون سرنشین نظامی آمریکایی با یک حادثه به پایان رسید. هواپیمای XQ-58 Valkyrie شرکت Kratos، پس از پرواز از پایگاه Dugway Proving Ground در ایالت یوتا، سقوط کرد. خوشبختانه، هیچ‌کس مجروح نشد، اما آزمایش‌های پروازی به طور موقت متوقف شده‌اند تا زمانی که تحقیقات به پایان برسد.
-‏
-‏@Guard_Warriors | Mmd
-10:36
 1405/05/16
 
 
@@ -5161,33 +5150,6 @@ src :@intelslava
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ نیروی هوایی آمریکا به بررسی موتورهای جدید برای F-15EX و F-16 می‌پردازد
-‏
-‏با توجه به تاخیرهای مزمن در تحویل، مشکلات مربوط به کیفیت محصولات و کاهش تعداد تامین‌کنندگان در صنعت دفاعی، نیروی هوایی آمریکا قصد دارد رویکرد خود را در زمینه خرید موتورهای هواپیما برای این جنگنده‌ها تغییر دهد و برنامه‌ای را برای افزایش رقابت باز کند.
-‏
-‏در تاریخ 3 آگوست، مرکز مدیریت چرخه عمر نیروی هوایی آمریکا (AFLCMC) یک درخواست اطلاعات (RFI) منتشر کرد و از شرکت‌ها خواست تا پیشنهاداتی را برای توسعه، تولید و پشتیبانی از موتورها، هم برای نیروی هوایی آمریکا و هم برای مشتریان خارجی، ارائه دهند. پاسخ‌ها تا 28 آگوست قابل ارسال هستند.
-‏
-‏بر اساس برآورد این سازمان، تقاضای کل آمریکا و سایر کاربران خارجی می‌تواند تا سال مالی 2034 به بیش از 180 موتور در سال برسد. نیروی هوایی می‌خواهد دریابد که در چه حجم‌هایی از تولید، سرمایه‌گذاری در ظرفیت‌های جدید، اتوماسیون و نوسازی تولید برای تولیدکنندگان سودآور خواهد بود.
-‏
-‏در این سند، همچنین از شرکت‌ها خواسته شده است تا آسیب‌پذیرترین بخش‌های زنجیره تولید، از جمله تامین آلیاژهای تیتانیوم و نیکل، امکانات ریخته‌گری و آهنگری، و همچنین قطعاتی که توسط یک تامین‌کننده تولید یا از خارج خریداری می‌شوند، را ارزیابی کنند. علاوه بر این، شرکت‌های بالقوه باید یک برنامه برای یکپارچه‌سازی و صدور گواهینامه موتورهای خود برای F-15EX و F-16 ارائه دهند.
-‏
-‏نیروی هوایی آمریکا قصد دارد از حجم‌های ثابت سفارشات منصرف شود. به جای آن، تخصیص قراردادها به عملکرد تولیدکنندگان بستگی خواهد داشت، که از طریق تحویل به موقع، کیفیت محصولات و توانایی پاسخگویی سریع به نیازهای مشتری سنجیده می‌شود. همچنین، برنامه‌ریزی برای اجرای یک سیستم نظارت مداوم بر فرآیندهای تولید است.
-‏
-‏این ابتکار عمل می‌تواند منجر به تغییر موقعیت تامین‌کنندگان فعلی شود. در حال حاضر، تنها موتور کاملاً یکپارچه برای F-15EX، موتور GE Aerospace F110-GE-129 است، در حالی که شرکت Pratt & Whitney همچنان موتور F100-PW-229 را ترویج می‌کند، اما استفاده از آن نیازمند کارهای اضافی برای یکپارچه‌سازی و صدور گواهینامه خواهد بود.
-‏
-‏در عین حال، نیروی هوایی مشخص نکرده است که آیا موتور جدید باید یک طرح کاملاً جدید، یک نسخه به‌روز شده از یک محصول موجود یا یک توسعه بیشتر از راهکارهای موجود باشد.
-‏
-‏یک نمونه خوب از وضعیت فعلی صنعت ساخت موتور در آمریکا، موتورهای Pratt & Whitney F135 برای جنگنده‌های F-35 هستند. میانگین تاخیر در تحویل تمام 123 موتور در سال 2024، 238 روز بوده است. علاوه بر این، زمان امضای قراردادها برای دوره‌های بعدی نیز به میزان تقریبی شش ماه به تعویق افتاده است تا این موتور ارتقاهایی را برای یکپارچه سازی با بلاک ۴ دریافت کند.
-‏
-‏@Guard_Warriors | Mmd
-08:35
-1405/05/16
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇺🇦❌🇷🇺 – Ukrainian drones struck yet another Wildberries storage facility in Russia, this time in Yekaterinburg. The fire does not appear to have spread too much... so far.
@@ -5381,14 +5343,6 @@ src :@rnintel
 ‏
 ‏The new requirements will apply to foreign media representatives and qualified nationals from Mexico and Canada entering the United States for business as part of the United States-Mexico-Canada Agreement, as well as their dependents." - The Daily Signal, and re-posted by the official Department of State x.com account.
 05:17
-1405/05/16
-
-
-
-
-src :@rnintel
-‏🇵🇭🇨🇳⚡️- China Coast Guard vessel 3104 accidentally rammed the Chinese Navy’s Type 052D guided missile destroyer Guilin (DDG-164) while chasing a Filipino patrol boat in the South China Sea.
-05:12
 1405/05/16
 
 
@@ -6357,27 +6311,6 @@ src :@thewarreporter
 
 
 
-src :@guard_warriors
-‏سیا یک گروه عملیاتی مخفی برای کوبا ایجاد کرده است!!!
-‏
-‏بر اساس گزارش روزنامه نیویورک تایمز سازمان اطلاعات مرکزی ایالات متحده (سیا) یک گروه عملیاتی مخفی تشکیل داده است که وظیفه آن فشار بر دولت کوبا با هدف ایجاد تغییرات اقتصادی، سیاسی و در سطوح مدیریتی است که به نفع واشنگتن باشد.
-‏
-‏این گروه شامل متخصصان تحلیل اطلاعات و انجام عملیات سایبری است. 
-‏
-‏ذکر شده است که این واحد در حال استخدام نیرو است، از جمله مبلغان، مسئولان جاسوسان، و همچنین متخصصان عملیات سایبری و عملیات اعمال فشار
-‏
-‏همچنین ذکر شده است که سیا در سال 1960 یک گروه مخفی مشابه را برای آماده‌سازی عملیاتی برای اعزام مزدوران به خلیج خوک‌ها ایجاد کرده بود، که این عملیات با شکست مواجه شد.
-‏﻿
-‏پ ن : حقیقتا من مانده ام که چگونه روزنامه ها و مجلات ايالات متحده آمریکا از سازمان سیا خبر دارند یا آمار دقیق تسلیحات مصرفی در عملیات خشم حماسی/ جنگ رمضان، حقیقتا موارد عادی نیست ....
-‏
-‏
-‏@artemis_force
-21:59
-1405/05/15
-
-
-
-
 src :@mwarmonitor
 ‏🔴به گزارش CBS News: به گفته مقامات آمریکایی، دونالد ترامپ، رئیس‌جمهور آمریکا، امروز قرار بود در تماسی تلفنی با محمد بن سلمان (MBS)، ولیعهد عربستان سعودی، درباره مسائل مربوط به ایران، از جمله تنگه هرمز، گفت‌وگو کند.
 ‏
@@ -6408,16 +6341,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 21:56
-1405/05/15
-
-
-
-
-src :@guard_warriors
-‏صدای انفجار در قشم
-‏
-‏@Guard_Warriors
-21:53
 1405/05/15
 
 
@@ -7144,15 +7067,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:26
-1405/05/15
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 مطابق نظرسنجی جدید رویترز-ایپسوس؛ تنها ۳۵ درصد از آمریکایی‌ها جنگ ایالات متحده با ایران را تأیید می‌کنند. همچنین ۵۸ درصد مردم آمریکا انتظار دارند قیمت بنزین در روزهای آینده بیشتر افزایش یابد.
-‏
-‏🆔 @Americana_ir
-19:17
 1405/05/15
