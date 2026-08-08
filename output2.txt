@@ -552,23 +552,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-‏🇾🇪 - Clashes between Ansarullah and the Saudi-backed Yemeni National Resistance Forces are happening west of Hays, north of the al-Kassayah military camp, and south of Hays, along the Shar'ab heights.
-03:32
-1405/05/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇾🇪 - Clashes between Ansarullah and the Saudi-backed Yemeni National Resistance Forces are happening west of Hays, north of the al-Kassayah military camp, and south of Hays, along the Shar'ab heights.
-03:21
-1405/05/17
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇾🇪 - Scenes from the Hays direction, southwest Yemen.
@@ -618,20 +601,6 @@ src :@rnintel
 
 src :@rnintel
 ‏🇸🇦⚡- "The Saudis are the architects of their own misfortune. Missed opportunities and strategic blunders have plagued Riyadh," - The Foreign Policy.
-03:04
-1405/05/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — Iranian Foreign Minister Abbas Araghchi:
-‏Iran's Powerful Armed Forces have shown their readiness, capability, and might in face of the world's most expensive military.
-‏
-‏When Muslims stand together, we can face every challenge by malicious outsiders head-on.
-‏
-‏Time to rely only on ourselves and embrace true brotherhood.
 03:04
 1405/05/17
 
