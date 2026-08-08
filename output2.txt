@@ -1040,18 +1040,6 @@ src :@Shin_Persian
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 تصویر ماهواره‌ای آتش‌سوزی یک کشتی در نزدیکی سواحل عمان در تنگه هرمز را نشان می‌دهد.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-03:49
-1405/05/17
-
-
-
-
 src :@rnintel
 ‏🇾🇪 - Clashes between Ansarullah and the Saudi-backed Yemeni National Resistance Forces are happening west of Hays, north of the al-Kassayah military camp, and south of Hays, along the Shar'ab heights.
 03:46
