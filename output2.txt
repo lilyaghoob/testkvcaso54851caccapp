@@ -1,3 +1,68 @@
+src :@Artemis_Force
+[عکس]
+‏شرکت «بوئینگ» تولید نسخه جدید و دوربرد بمب JDAM LR را آغاز کرد.
+‏
+‏شرکت «بوئینگ» تولید اولیه بلوک BSU-111/B را برای برنامه JDAM Long Range نیروی دریایی ایالات متحده آغاز کرده است. 
+‏
+‏ارزش این قرارداد 75 میلیون دلار است. 
+‏
+‏هدف، تبدیل بمب هوایی JDAM به یک مهمات هدایت‌شونده با موتور مستقل است که قادر به انتقال سرجنگی با وزن تا 500 پوند (≈227 کیلوگرم) به مسافت بیش از 300 مایل دریایی (≈560 کیلومتر) باشد.
+‏
+‏در طول آزمایش‌ها در آوریل 2026، نمونه‌های اولیه از هواپیمای F/A-18 پرتاب شدند و مسافتی حدود 200 مایل دریایی را طی کردند، که جداسازی از هواپیما، ناوبری و پرواز کنترل‌شده را تایید کرد. با این حال، مسافت ادعایی بیش از 300 مایل دریایی در حال حاضر مربوط به یک پیکربندی پیشرفته است و نه نتیجه‌ی آزمایش‌های تاییدشده‌ی عمومی.
+‏
+‏
+‏@artemis_force
+10:05
+1405/05/17
+
+
+
+
+src :@World_Newsly
+‏🔴 منابع سوری از حمله نظامی اسرائیل به روستای «جباتا الخشب» در شمال القنیطره و بازداشت یک شهروند سوری خبر دادند.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+10:05
+1405/05/17
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Satellite imagery confirms a ship is on fire in the Strait of Hormuz.
+10:03
+1405/05/17
+
+
+
+
+src :@Alibk3
+[عکس]
+‏صور الأقمار الصناعية تؤكد وجود سفينة مشتعلة في مضيق هرمز.
+10:03
+1405/05/17
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏◆ بعد از سال ها چشم انتظاری توسط اکثر میلیتاریست های ایرانی،بالاخره نیروی هوایی با همکاری پدافند ارتش تصمیم به خریداری آواکس گرفت .
+‏روسیه که چیزی برای صادرات نداشت اما ایران پیشنهاد پروژه مشابه کره شمالی داد که گفتند بخاطر جنگ فعلا در توانشان نیست .
+‏
+‏◆ چین هم برای کا جی ۵۰۰ اعلام کرد تا زمانی که وضعیت جنگ و تنگه هرمز مشخص نشود هیچ تسلیحات پیشرفته ای نمی‌فروشند. 
+‏
+‏این هم اخر عاقبت متحدان ما 
+‏
+‏@PARVAZDAROJ
+10:02
+1405/05/17
+
+
+
+
 src :@BellumActaNews
 [عکس]
 ‏🇬🇷🇦🇪🇺🇸🤝 — Greece Considers Deploying Apache Helicopters to the UAE
@@ -1021,20 +1086,6 @@ src :@tabzlive
 ‏🇺🇸⚡️ — The U.S. Army will purchase at least $400 million worth of counter-drone laser systems from AeroVironment as the military expands its defenses against unmanned aircraft, Bloomberg reports.
 ‏
 ‏The contract will provide the Army with dozens of AeroVironment's Locust systems and would mark the Pentagon's first production contract for a directed-energy counter-drone weapon beyond the prototype stage.
-06:54
-1405/05/17
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 گزارش‌هایی از حمله به جده عربستان و چرخش هواپیماهای مسافربری در اطراف فرودگاه بدون اجازه فرود
-‏
-‏🔹️ بر اساس گزارش‌های اولیه، ظاهراً حمله‌ای به جده صورت گرفته و چندین هواپیمای مسافربری در اطراف فرودگاه این شهر در حال چرخش هستند و هنوز مجوز فرود دریافت نکرده‌اند. این وضعیت معمولاً نشانه وقوع یک حادثه امنیتی یا حمله در نزدیکی فرودگاه است.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
 06:54
 1405/05/17
 
@@ -3562,16 +3613,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-‏‏الخارجية الأميركية: 
-‏
-‏عقوبات على 6 كيانات وشخص واحد على صلة بتمويل النظام الإيراني .
-22:16
-1405/05/16
-
-
-
-
 src :@guard_warriors
 ‏رویترز :
 ‏ایالات متحده فروش ۵۲۵۰ رهگیر را به بحرین، کویت، قطر و امارات متحده عربی برای بازسازی ذخایر تایید کرده است.
@@ -3623,28 +3664,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 22:07
-1405/05/16
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Bloomberg:
-‏
-‏The U.S. military plans to purchase $400 million worth of anti-drone laser systems.
-22:06
-1405/05/16
-
-
-
-
-src :@Alibk3
-[عکس]
-‏‏بلومبيرغ: 
-‏
-‏الجيش الأميركي يعتزم شراء أجهزة ليزر مضادة للمسيّرات بقيمة 400 مليون دولار.
-22:06
 1405/05/16
 
 
@@ -3705,14 +3724,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:58
-1405/05/16
-
-
-
-
-src :@Ali_bk_2
-‏Hebrew Channel 15:  The Israeli army concealed that Hezbollah launched a drone toward a military force in southern Lebanon over the past twenty-four hours.
-21:57
 1405/05/16
 
 
@@ -6407,12 +6418,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 10:59
-1405/05/16
-
-
-
-
-src :@Parvazdaroj
-‏https://t.me/Artemis_Force/12475
-10:03
 1405/05/16
