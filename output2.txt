@@ -1,3 +1,31 @@
+src :@World_Newsly
+[عکس]
+‏🔴 یونان در حال بررسی امکان اعزام دو فروند بالگردهای آپاچی (AH-64D) به امارات است تا از عملیات مقابله با پهپادها در چارچوب توافقنامه دفاعی دوجانبه‌ای که در سال ۲۰۲۰ امضا شده است، پشتیبانی کند
+‏
+‏✍🏻 exxon
+‏▪️@World_Newsly
+01:15
+1405/05/18
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏The U.S. State Department announced that Ukraine has purchased a range of munitions from Turkey for the Ukrainian Armed Forces.
+‏
+‏The package includes:
+‏
+‏• 12 M270 MLRS launchers
+‏• 70 M39 ATACMS tactical ballistic missiles
+‏• 2,524 M26 227 mm unguided rockets with DPICM cluster warheads
+‏• 47,000 M509A1 203 mm cluster artillery shells for 2S7 Pion and M110 self-propelled howitzers
+01:13
+1405/05/18
+
+
+
+
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -21,7 +49,7 @@ src :@Shin_Persian
 
 src :@World_Newsly
 [عکس]
-‏🔴تحليق گسترده جنگنده‌های آمریکایی بر فراز تنگه هرمز در تلاش برای تأمین پوشش هوایی جهت عبور کشتی‌ها از مسیر عمان.
+‏🔴 پروازهای مکرر و گسترده جنگنده‌های آمریکایی بر فراز تنگه هرمز، به منظور ایجاد پوشش هوایی برای کشتی‌هایی که قصد عبور از این تنگه از طریق مسیر عمان را دارند.
 ‏
 ‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
 ‏▪️ @World_Newsly
@@ -1232,19 +1260,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:03
-1405/05/17
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴قوه قضاییه نزدیک ۱۰۰ نفر از هنرمندان و بازیگران را بخاطر اعتراض به اعدام ها، احضار کرد.
-‏
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-23:02
 1405/05/17
 
 
@@ -6943,15 +6958,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 01:36
-1405/05/17
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇷 Iranian President Masoud Pezeshkian says Iran has internal challenges and differing viewpoints.
-‏
-‏@BRICSNews
-01:14
 1405/05/17
