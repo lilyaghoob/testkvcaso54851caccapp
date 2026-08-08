@@ -260,14 +260,6 @@ src :@World_Newsly
 
 
 
-src :@intelslava
-[نظرسنجی]
-03:49
-1405/05/17
-
-
-
-
 src :@rnintel
 ‏🇾🇪 - Clashes between Ansarullah and the Saudi-backed Yemeni National Resistance Forces are happening west of Hays, north of the al-Kassayah military camp, and south of Hays, along the Shar'ab heights.
 03:46
@@ -1002,14 +994,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 01:14
-1405/05/17
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Higher than normal IDF military operations in the Mansouri axis, southern Lebanon.  Repeated IDF artillery bombardments has been conducted towards Mansouri. Machine gun fire has also been directed towards the town.   IDF ground forces are currently…
-01:10
 1405/05/17
 
 
