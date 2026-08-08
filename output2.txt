@@ -1,3 +1,15 @@
+src :@World_Newsly
+[عکس]
+‏🔴درگیری های تازه بین نیروهای دولتی یمن و شبه نظامیان انصارالله در جنوب و غرب منطقه تعز
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+13:26
+1405/05/17
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏🔻خبرگزاری تسنیم خبر داده که کنفدراسیون فوتبال آسیا با درخواست ایران برای میزبانی همزمان استقلال و تراکتور در ورزشگاه بصره عراق مخالفت کرد.
@@ -195,7 +207,7 @@ src :@intelslava
 src :@Ali_bk_2
 ‏Iraqi Oil Minister:
 ‏
-‏The Strait of Hormuz crisis has affected us, and we are holding talks with Iran to allow Iraqi oil exports.
+‏The Strait of Hormuz crisis has affected us, with our oil exports falling by about 75%, and there are talks with Iran to allow Iraqi oil exports.
 13:11
 1405/05/17
 
@@ -205,7 +217,7 @@ src :@Ali_bk_2
 src :@Alibk3
 ‏‏وزير النفط العراقي: 
 ‏
-‏أزمة هرمز أثرت علينا، نجري حوارًا مع إيران للسماح بتصدير النفط العراقي.
+‏أزمة هرمز أثرت علينا حيث تراجعت صادراتنا النفطية حوالي 75%؜، وهناك حوار مع إيران للسماح بتصدير النفط العراقي.
 13:11
 1405/05/17
 
@@ -1270,11 +1282,11 @@ src :@GeoPWatch
 
 
 src :@didarnews1
-‏🔴جهانگیر: آقای خرازی به دادگاه ویژه روحانیت احضار شد
+‏🔴جهانگیر: خرازی به دادگاه ویژه روحانیت احضار شد
 ‏
 ‏سخنگوی قوه قضائیه:
 ‏
-‏🔹با توجه به کسوت روحانیت آقای خرازی، رسیدگی به اتهامات مطرح‌شده در صلاحیت دادگاه ویژه روحانیت قرار دارد و بلافاصله پس از اظهارات اخیر وی، اقدامات قانونی برای تحت تعقیب قرار دادن ایشان آغاز شد.
+‏🔹با توجه به کسوت روحانیت خرازی، رسیدگی به اتهامات مطرح‌شده در صلاحیت دادگاه ویژه روحانیت قرار دارد و بلافاصله پس از اظهارات اخیر وی، اقدامات قانونی برای تحت تعقیب قرار دادن ایشان آغاز شد.
 ‏
 ‏🔹بر اساس آخرین اطلاعات، نام‌برده امروز به دادگاه ویژه روحانیت احضار شده و پرونده وی تحت تعقیب کیفری قرار گرفته است.
 ‏
@@ -1830,22 +1842,6 @@ src :@rus_cosmos
 src :@rus_cosmos
 [عکس]
 11:04
-1405/05/17
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 الجزیره:  بعید است که عمان گفت‌وگوهای خود با ایران را بدون هماهنگی با آمریکا انجام داده باشد
-‏
-‏🔹 واشنگتن‌ از مفاد توافق احتمالی بر سر تنگه هرمز، آگاهی دارد
-‏
-‏
-‏
-‏✍🏻 CAPITANO
-‏▪️@World_Newsly
-11:03
 1405/05/17
 
 
@@ -3330,16 +3326,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 04:11
-1405/05/17
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️به گزارش مهر، ساعت ۰۳:۰۷:۳۵ بامداد شنبه، ۱۷ مرداد ماه، زلزله‌ای به بزرگی ۴.۶ حوالی شهر گلباف در کرمان را لرزاند. براساس این گزارش، این زمین‌لرزه به طول جغرافیایی ۵۷.۸۶ و در عمق ۸ کیلومتری زمین رخ داد.
-‏@indypersian
-04:00
 1405/05/17
 
 
@@ -5122,21 +5108,6 @@ src :@selena_updates
 ‏
 ‏It summarizes the strategic developments across the main fronts of the war since October 7 and explains why the conflict has left Israel, the Gulf states, the Middle East, and ultimately the world facing a more dangerous future.
 20:53
-1405/05/16
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇦🇫 — Pentagon releases fifth batch of UAP files, including pilot account of massive triangular object over Afghanistan in 2002.
-‏
-‏The Department of War (Pentagon) has released 41 new documents, images, and related materials on unidentified anomalous phenomena as part of its ongoing declassification effort. Among them is a military pilot’s recollection of a large, silent equilateral triangular object observed over Bagram Airfield, Afghanistan, around 4:30 a.m. in 2002.
-‏
-‏The pilot described the object as roughly 500 feet across. It moved steadily from west to east at consistent altitude and speed, with no visible lights or sound, and temporarily blocked out the stars. A second pilot also witnessed it and remarked, “Did you see that?” An official rendering based on the description accompanies the file. The incident remains unresolved.
-‏
-‏The Global Eye | Subscribe
-20:52
 1405/05/16
 
 
