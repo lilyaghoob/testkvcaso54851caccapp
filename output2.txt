@@ -1,11 +1,16 @@
-src :@selena_updates
-[عکس]
-‏A Houthi source threatens the Saudis following today’s Houthi attack on the Al-Makha port:
+src :@jangaavaran1390
+‏یک سخنگوی ارتش یمن به رویترز گفته است که حوثی‌ها حملات موشکی و پهپادی خود را علیه بندر المخا از سر گرفته‌اند.
+23:21
+1405/05/18
+
+
+
+
+src :@naya_foriraq
+‏مصدر امني لنايا 
 ‏
-‏Any concentration of Saudi officers [in Yemen] will become a target, and today’s attack conveyed this message forcefully. The Saudi officers and their concentrations of forces will not be able to evade missile and UAV strikes.
-‏
-‏Precise monitoring operations of the movements of the Saudi officers are ongoing. Everyone should avoid approaching weapons depots or any concentration of forces belonging to Saudi Arabia.
-23:15
+‏العثور على مبلغ يقارب مليار دينار عراقي في منزل مدير الشركة العامة لتجارة السيارات في العاصمة بغداد منطقة الوزيرية .
+23:21
 1405/05/18
 
 
@@ -17,7 +22,31 @@ src :@Indypersian
 ‏براساس این گزارش، فرماندهی دفاع هوافضای شمال آمریکا با یادآوری اینکه قبل از ورود ترامپ به نیوجرسی، محدودیت‌های موقت پروازی اعمال شده بود، اعلام کرد پدافند زمینی ارتش آمریکا نیز در قالب دفاع چندلایه در منطقه مستقر بوده است. مقامات نظامی پس از این حادثه بار دیگر به تمامی خلبانان غیرنظامی هشدار دادند که طبق قوانین اداره هوانوردی فدرال، حتما پیش از هر پرواز اطلاعیه‌های هوانوردی را بررسی کنند و در صورت رهگیری توسط جنگنده‌ها، فرکانس رادیویی خود را بلافاصله به حالت اضطراری تغییر داده و مسیر خود را بازگردانند.
 ‏
 ‏@IndyPersian
-23:14
+23:20
+1405/05/18
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴یه مراسم تعزیه، امروز تو ساختمون وزارت خارجه با حضور عراقچی انجام شد
+‏
+‏@MilitarryWorld | Parsa
+23:18
+1405/05/18
+
+
+
+
+src :@selena_updates
+[عکس]
+‏A Houthi source threatens the Saudis following today’s Houthi attack on the Al-Makha port:
+‏
+‏Any concentration of Saudi officers [in Yemen] will become a target, and today’s attack conveyed this message forcefully. The Saudi officers and their concentrations of forces will not be able to evade missile and UAV strikes.
+‏
+‏Precise monitoring operations of the movements of the Saudi officers are ongoing. Everyone should avoid approaching weapons depots or any concentration of forces belonging to Saudi Arabia.
+23:15
 1405/05/18
 
 
@@ -2111,22 +2140,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[عکس]
-‏مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در حکمی محسن رضایی را به‌عنوان نماینده خود در شورای عالی امنیت ملی منصوب کرد.
-‏
-‏در متن این حکم، دلیل انتخاب رضایی «تجارب ارزشمند» او و حضورش در جنگ هشت‌ساله ایران و عراق عنوان شده است. مجتبی خامنه‌ای ابراز امیدواری کرد رضایی در انجام این مسئولیت موفق باشد.
-‏
-‏مجتبی خامنه‌ای همچنین در این حکم از فعالیت‌های محمدباقر ذوالقدر، نماینده پیشین رهبر جمهوری اسلامی در شورای عالی امنیت ملی، تشکر کرد.
-‏
-‏پیش‌تر برخی رسانه‌های حکومتی از انتصاب محسن رضایی به این سمت خبر دادند، اما دقایقی بعد مطالب خود را حذف کردند.
-‏https://iranintl.com/202608098575
-20:46
-1405/05/18
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏طی حکم رهبر انقلاب، سردار محسن رضایی به نمایندگی ایشان در شورای امنیت ملی منصوب شد
@@ -2286,14 +2299,6 @@ src :@rnintel
 ‏🇮🇷⚡️ — NEW: Iranian Supreme Leader Mojtaba Khamenei has appointed Maj. Gen. Mohsen Rezaei as his representative to the Supreme National Security Council (SNSC), according to an official decree.
 ‏
 ‏He was also appointed Mojtaba's military adviser earlier this year.
-20:37
-1405/05/18
-
-
-
-
-src :@naya_foriraq
-‏‏الناتو: مستعدون للردع والدفاع في مواجهة أي تحرك روسي عند الضرورة.
 20:37
 1405/05/18
 
@@ -2576,16 +2581,6 @@ src :@jangaavaran1390
 ‏
 ‏https://t.me/Minas_Tirith2024/13862
 19:59
-1405/05/18
-
-
-
-
-src :@jangaavaran1390
-‏امروز آقای پزشکیان گفت که اینترنت قرار بود اصلاً دیگه وصل نشه و قطع بمونه کامل ولی ما صحبت کردیم با سران مشکل حل شد 
-‏
-‏کاری به جزئیات ماجرا را ندارم ولی یک مسئله‌ای هست شاید در ایران رئیس جمهور اون قدرت رئیس جمهورهای دیگر را نداشته باشه... ولی شما فکر بکنید ما یک رئیس جمهوری داشتیم در این وضعیت که خودش موافق بستن اینترنت بود... مثلاً شما فکر کنید در دور قبلی یکی مثل جلیلی و امثالهم به قدرت می‌رسید... مشخصا هرگز دیگه اینترنت نداشتیم.... کما بر اینکه همون سه عضوی هم که بعدها در همین شورای عالی فضای مجازی که تشکیل شده بود مخالفت کردند هر سه از همین حزب پایداری بودند...
-19:58
 1405/05/18
 
 
@@ -2972,17 +2967,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 19:09
-1405/05/18
-
-
-
-
-src :@MilitarryWorld
-‏جالب اینه تموم فرم ها رایگانه، حتما عضو شین و‌ چک کنید چقد راحت سود میشه کرد 😉✅
-‏
-‏JOIN JOIN JOIN 
-‏JOIN JOIN JOIN
-19:05
 1405/05/18
 
 
