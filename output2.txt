@@ -1,6 +1,15 @@
+src :@GeoPWatch
+[عکس]
+‏🇸🇦⁉️- Unverified reports of an explosion in Jubail, Saudi Arabia.
+04:17
+1405/05/18
+
+
+
+
 src :@Ali_bk_2
 [عکس]
-‏Satellite images show that something has hit a land-based gas facility in Jubail, Saudi Arabia. The facility is on fire, with a massive 125-megawatt flame.
+‏Satellite images show that something has hit a land-based gas facility in Jubail, Saudi Arabia; the facility is on fire with a massive 125-megawatt flame.
 04:11
 1405/05/18
 
@@ -9,7 +18,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏صور الأقمار الصناعية تُظهر أن شيئًا ما قد أصاب محطة غاز بري في الجبيل، السعودية. المحطة مشتعلة، بلهب هائل بقوة 125 ميغاواط.
+‏صور الأقمار الصناعية تُظهر أن شيئًا ما قد أصاب محطة غاز بري في الجبيل في السعودية، المحطة مشتعلة بلهب هائل بقوة 125 ميغاواط.
 04:11
 1405/05/18
 
@@ -25,7 +34,7 @@ src :@GeoPWatch
 
 
 src :@naya_foriraq
-‏انفجار في السعودية
+‏إنفجار في السعودية
 04:10
 1405/05/18
 
@@ -33,7 +42,7 @@ src :@naya_foriraq
 
 
 src :@naya_foriraq
-‏انفجار في السعودية
+‏إنفجار في السعودية
 04:10
 1405/05/18
 
@@ -1963,18 +1972,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 22:40
-1405/05/17
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏سنتکام اعلام کرد در چارچوب محاصره دریایی بنادر ایران تا ۱۷ مرداد، ۵۳ کشتی تجاری مجبور به تغییر مسید شدند، دو کشتی از کار افتادند و دو کشتی نیز بازرسی و توقیف شده‌اند. 
-‏
-‏ارتش آمریکا همچنین به بیش از ۳۰ کشتی اجازه داده برای انتقال کمک‌های بشردوستانه از محاصره عبور کنند.
-‏https://iranintl.com/202608086172
-22:39
 1405/05/17
 
 
@@ -6793,19 +6790,6 @@ src :@Minas_Tirith2024
 ‏✒️#LT
 ‏📃@Cataphract1
 08:58
-1405/05/17
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸🇨🇴 – The U.S. State Department announced it plans to give $1 billion dollars in security assistance to the new Colombian government, headed by Abelardo de la Espirella, who was sworn in Friday.
-‏
-‏▶️ He won the runoff on ⁠promises to crack down on armed groups, shrink ⁠the state by as much as 40% and ​revive the oil and gas sector.
-‏
-‏@GeoPWatch
-08:54
 1405/05/17
 
 
