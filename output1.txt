@@ -1016,14 +1016,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏اخبار نظامی ایران و جهان pinned a video
-02:42
-1405/05/18
-
-
-
-
 src :@Fighter_Radar
 ‏پرواز ۹ سوخت رسان آمریکایی در منطقه 
 ‏
