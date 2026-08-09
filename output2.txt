@@ -1,6 +1,51 @@
-src :@World_Newsly
-‏اخبار نظامی ایران و جهان pinned a photo
-23:36
+src :@MilitarryWorld
+‏🔴مشاور قالیباف: ترامپ با ما توافق نخواهد کرد
+‏
+‏@MilitarryWorld | Parsa
+23:41
+1405/05/18
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇱🇧 — IDF artillery shelling against Ali al-Taher Heights, southern Lebanon.
+23:40
+1405/05/18
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇾🇪 — The Houthis (Ansarallah) have launched a new wave of drones against Mokha, PLC-controlled Yemen.
+‏
+‏Air defenses are currently active over the city.
+23:39
+1405/05/18
+
+
+
+
+src :@intelslava
+‏🇺🇦🇷🇺⚡️ — For every Russian strike, there will be our response. The Russian war will become increasingly felt by them at home, in Russia,** - Zelenskyy.
+‏
+‏Zelenskyy once again resorted to threats, while looking at the burning Ukraine.
+‏
+‏@Intelslava
+23:39
+1405/05/18
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦⚡️ — Malaya Tokmachka is almost completely liberated. According to war correspondents, only one street remains to be cleared.
+‏
+‏Despite attempts by the Ukrainian forces to halt our advance, our soldiers are continuing their offensive in the Orekhovsky direction, slowly but surely.
+‏
+‏@Intelslava
+23:38
 1405/05/18
 
 
@@ -688,6 +733,19 @@ src :@WAR_ROOM_NEWS
 
 src :@jangaavaran1390
 ‏طبق آمار اعلام‌شده، حدود ۱۸ میلیون ایرانی بدون حتی یک‌بار ازدواج وارد ۴۰سالگی شدند، تقریبا۶ میلیون نفر بالای ۴۰ سال هم که طلاق گرفتند. یعنی حدود ۲۴ میلیون نفر، نزدیک به یک‌سوم جمعیت کشور. این تصویری از جامعه‌ای هسست که ازدواج و تشکیل خانواده در آن، از یک انتخاب…
+22:20
+1405/05/18
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴خبرگزاری تسنیم با یک عکس، تمام زندگی نامه محسن رضایی را به طور خلاصه توضیح داد.
+‏این کار پس از رسیدن رضایی به دبیری شورای عالی امنیت ملی انجام شد
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
 22:20
 1405/05/18
 
@@ -2506,18 +2564,6 @@ src :@ManotoTV
 
 
 
-src :@tabzlive
-‏🇮🇷🇴🇲🇺🇸⚡️ — An agreement governing traffic through the Strait of Hormuz has been negotiated between Iran, Oman, and the U.S. but has remained pending for several days, Axios reports.
-‏
-‏Under the proposed deal, Iran would receive partial control over traffic through the strait, something it did not have before the war. Qatari and Pakistani mediators had expected the agreement to be announced Wednesday, but its prospects have since faded.
-‏
-‏U.S. officials say there are growing divisions within Iran's leadership. One camp, led by President Masoud Pezeshkian, is said to be increasingly concerned about a potential economic collapse and believes Tehran needs an agreement with Washington. Another camp, led by IRGC commander Ahmad Vahidi, opposes making concessions to the U.S.
-20:33
-1405/05/18
-
-
-
-
 src :@ClashReport
 ‏Trump said the U.S. is “low keying it” with Iran and is only “semi-negotiating” while watching the country’s worsening economic situation.
 ‏
@@ -2563,19 +2609,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 20:31
-1405/05/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump told Axios that the U.S. is "low keying it" with Iran, signaling Washington is holding off on renewed major military action for now while allowing economic pressure to build.
-‏
-‏"We are only semi-negotiating with them. We are just watching Iran with its huge inflation and the fact they have no money," Trump said, arguing that Iran is "in very bad shape" economically and struggling to pay its troops as the U.S. naval blockade intensifies pressure.
-‏
-‏"It will work out. It always works out. It's like a chess game," Trump said of the standoff with Tehran.
-20:30
 1405/05/18
 
 
@@ -6463,24 +6496,6 @@ src :@Shin_Persian
 
 
 
-src :@OSINTWarfare
-[عکس]
-‏India has begun official steps to join France’s FCAS sixth-generation fighter program, effectively choosing it over the British-Japanese GCAP.
-‏
-‏For India, the move is about more than acquiring a new fighter. FCAS is a next-generation combat system designed to link manned fighters with drones, electronic warfare and intelligence assets through a common data network.
-‏
-‏The decision comes amid the rapid expansion of Chinese airpower and delays to India’s own AMCA program.
-‏
-‏However, FCAS is itself undergoing major restructuring following disagreements between Dassault and Airbus, which led France and Germany to abandon their joint development of the manned fighter.
-‏
-‏
-‏It remains unclear which part of the program India intends to join and whether it would receive a full development role, a significant stake, or access to selected technologies.
-03:22
-1405/05/18
-
-
-
-
 src :@rnintel
 ‏🇹🇷🇷🇺🇺🇦⚡- "Turkey is restricting commercial ship traffic entering the Black Sea via the Dardanelles Strait following heightened security concerns over recent attacks on vessels in the region. 
 ‏
@@ -6500,16 +6515,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 02:12
-1405/05/18
-
-
-
-
-src :@OSINTWarfare
-‏✍️ In the ideal version of my world, I wouldn't have to listen, in the Polish countryside, to how drunk guests from the neighbors' wedding are having sex somewhere in the bushes by the road.
-‏
-‏Unfortunately, my world is not the best version of itself.
-02:04
 1405/05/18
 
 
@@ -6731,22 +6736,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:44
-1405/05/17
-
-
-
-
-src :@Mena_Live
-‏❗️The Israeli Military noticed an increase in Hamas’ Al Qassam Brigades FVP Fiber drone activity in the West Bank for the first time.  @Mena_Live
-23:41
-1405/05/17
-
-
-
-
-src :@Mena_Live
-‏❗️The Israeli Military noticed an increase in Hamas’ Al Qassam Brigades FVP Fiber drone activity in the West Bank for the first time.
-‏
-‏@Mena_Live
-23:40
 1405/05/17
