@@ -1,3 +1,45 @@
+src :@Ali_bk_2
+[عکس]
+‏Satellite images show that something has hit a land-based gas facility in Jubail, Saudi Arabia. The facility is on fire, with a massive 125-megawatt flame.
+04:11
+1405/05/18
+
+
+
+
+src :@Alibk3
+[عکس]
+‏صور الأقمار الصناعية تُظهر أن شيئًا ما قد أصاب محطة غاز بري في الجبيل، السعودية. المحطة مشتعلة، بلهب هائل بقوة 125 ميغاواط.
+04:11
+1405/05/18
+
+
+
+
+src :@GeoPWatch
+‏🇸🇦⁉️- Unverified reports of an explosion in Jubail, Saudi Arabia.
+04:11
+1405/05/18
+
+
+
+
+src :@naya_foriraq
+‏انفجار في السعودية
+04:10
+1405/05/18
+
+
+
+
+src :@naya_foriraq
+‏انفجار في السعودية
+04:10
+1405/05/18
+
+
+
+
 src :@tabzlive
 ‏🇸🇩❌🇸🇩 — The pro-government Darfur Joint Forces repelled a UAE-backed RSF offensive against the strategic Bir Saliba area in west Darfur.
 03:42
@@ -3248,35 +3290,6 @@ src :@thewarreporter
 src :@samueltarikh
 ‏🚨کانال ۱۳ اسرائیل: اسرائیل در حال آماده‌سازی برای احتمال اقدام یک‌جانبه علیه ایران است
 20:43
-1405/05/17
-
-
-
-
-src :@Ali_bk_2
-‏Hebrew Broadcasting Corporation:
-‏
-‏The commander of U.S. Central Command arrived in Israel this afternoon for military talks on the war fronts, including Iran and Gaza.
-20:38
-1405/05/17
-
-
-
-
-src :@Alibk3
-‏هيئة البث العبرية: 
-‏
-‏قائد القيادة الأميركية الوسطى وصل إلى إسرائيل عصر اليوم لإجراء مباحثات عسكرية حول جبهات الحرب بما في ذلك إيران وغزة.
-20:36
-1405/05/17
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🔻حشدٌ … يحمي حدودَ الوطن .
-20:36
 1405/05/17
 
 
@@ -6808,18 +6821,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 08:42
-1405/05/17
-
-
-
-
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 – The Russian Ministry of Defense claims it hit a fuel depot and a Fire Point facility in Kyiv. 
-‏
-‏▶️ Fire Point is the enterprise that manufactures warheads for Ukraine's 'Flamingo' missile.
-‏
-‏@GeoPWatch
-08:34
 1405/05/17
 
 
