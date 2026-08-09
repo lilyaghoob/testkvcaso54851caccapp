@@ -1,3 +1,51 @@
+src :@Ali_bk_2
+‏The Iranian parliament’s National Security Committee has approved by majority a draft bill on securing the Strait of Hormuz.
+17:52
+1405/05/18
+
+
+
+
+src :@Alibk3
+‏لجنة الأمن القومي في البرلمان الإيراني تعتمد بالأغلبية مسودة مشروع قانون بشأن تأمين مضيق هرمز.
+17:52
+1405/05/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏نیروهای امنیتی سوریه اعلام کرد که یک هسته ۹ نفره از اعضای داعش را در منطقه خان ارنبه در استان قنیطره، نزدیک جولان در مرز اسرائیل، بازداشت کرده است
+‏
+‏🆔@WAR_ROOM_NEWS
+17:50
+1405/05/18
+
+
+
+
+src :@jangaavaran1390
+‏مدیرعامل شرکت روساتوم روسیه: ما در حال بازگرداندن متخصصان به نیروگاه هسته‌ای بوشهر هستیم. پنج نفر از آن‌ها از قبل به کار خود بازگشته‌اند. بازگشت کامل متخصصان به ایران، که به دلیل شرایط جنگی کشور را ترک کرده بودند، تنها پس از دستیابی به یک آتش‌بس نهایی بین ایران و آمریکا امکان‌پذیر خواهد بود. ساخت و ساز ساختمان‌های اصلی و فرعی واحدهای ۲ و ۳ در نیروگاه بوشهر همچنان ادامه دارد.
+17:50
+1405/05/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Netanyahu Rejects Trump Proposal to Disarm Hamas in Gaza
+‏
+‏Israeli Prime Minister Benjamin Netanyahu has explicitly rejected a 15-point Gaza peace plan backed by the Trump administration, which envisioned a phased Israeli military withdrawal.
+‏
+‏READ MORE
+17:47
+1405/05/18
+
+
+
+
 src :@naya_foriraq
 ‏اعلام سعودي: انصار الله استهدفوا المرتزقة في المخا بـ30 صاروخا باليستيا
 17:46
@@ -213,7 +261,11 @@ src :@World_Newsly
 
 src :@selena_updates
 [عکس]
-‏U.S. President Donald Trump posted
+‏U.S. President Donald Trump posted this.
+‏
+‏Additonally, he has told senior aides that he may be willing to end the war with Iran without securing a nuclear deal, provided the Strait of Hormuz fully reopens.
+‏
+‏He believes Iran's nuclear program has been damaged sufficiently that it cannot meaningfully recover during his presidency.
 17:31
 1405/05/18
 
@@ -3283,30 +3335,12 @@ src :@didarnews1
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Officially, the appointment of Major General Mohsen Rezaei as the representative of the Leader of the Islamic Revolution in the Supreme National Security Council.
-13:55
-1405/05/18
-
-
-
-
 src :@MilitarryWorld
 ‏🔴فرمانده نیروی زمینی ارتش: 
 ‏
 ‏پای نظامی آمریکایی به ایران باز شود آن را قطع می‌کنیم
 ‏
 ‏@MilitarryWorld | Parsa
-13:55
-1405/05/18
-
-
-
-
-src :@Alibk3
-[عکس]
-‏رسميًا، تعيين اللواء محسن رضائي ممثلاً لقائد الثورة الإسلامية في المجلس الأعلى للأمن القومي.
 13:55
 1405/05/18
 
@@ -4455,18 +4489,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 10:58
-1405/05/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏دموکرات‌های مجلس نمایندگان در حال آماده‌سازی تحقیقات گسترده‌ای درباره دولت ترامپ، روابط تجاری او، حامیان مالی و پیمانکاران دولتی هستند، در صورتی که در انتخابات نوامبر کنترل مجلس را به دست آورند.به جای پیگیری فوری روند استیضاح، آن‌ها قصد دارند از ابزارهایی مانند احضار، جلسات استماع و درخواست اسناد برای جمع‌آوری مدارک استفاده کنند.
-‏
-‏منبع: رویترز
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-10:55
 1405/05/18
 
 
@@ -6581,14 +6603,4 @@ src :@VahidOnline
 src :@Minas_Tirith2024
 ‏عمان در بیانیه‌ای بدون نام بردن از ایران، برای اولین بار "حملات مکرر به کشتی‌های عبوری از تنگه هرمز" را محکوم کرد. به گفته مسقط، "چنین حوادثی قوانین بین‌المللی را نقض می‌کند، ایمنی دریایی را تهدید می‌کند و خطر تضعیف امنیت و ثبات منطقه‌ای را به همراه دارد."
 17:57
-1405/05/17
-
-
-
-
-src :@mwarmonitor
-‏🔴به گزارش شبکه MS NOW، خانواده‌های ۵۰۰۰ ملوان مستقر در ناو هواپیمابر یو‌اس‌اس آبراهام لینکلن، هانگ کائو، وزیر نیروی دریایی آمریکا، را درباره ادعاهای مربوط به کمبود غذا، آب آلوده و خستگی شدید خدمه مورد بازخواست قرار دادند.
-‏
-‏@mwarmonitor
-17:50
 1405/05/17
