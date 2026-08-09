@@ -1,3 +1,57 @@
+src :@MilitarryWorld
+‏⭕️دادسرای جنایی تهران :
+‏
+‏🔴ساعاتی پیش جنازه حمیدرضا رجب‌زاده(مداح) اطراف تهران کشف شد،جنازه رجب‌‌زاده توسط قاتلین تکه تکه شده و سپس سوخته.
+‏
+‏@MilitarryWorld | Parsa
+18:46
+1405/05/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Taiwan is rapidly expanding its use of drones and unmanned boats to prepare for a potential Chinese invasion, drawing heavily on lessons from Ukraine.  
+‏
+‏Its strategy is to create a “hellscape” around Taiwan by using large numbers of drones, missiles and artillery to locate and attack invading Chinese forces, making an amphibious assault extremely costly.   
+‏
+‏The challenge is that Taiwan still needs to change its military organization, training and doctrine to effectively operate drone swarms and survive Chinese electronic warfare. 
+‏
+‏Source: NYT
+18:46
+1405/05/18
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏رسانه دفتر رهبر جمهوری اسلامی از دیدار مسعود پزشکیان با مجتبی خامنه‌ای خبر داده است؛ بااین‌حال، از این دیدار نیز هیچ عکس، فایل صوتی یا ویدیویی منتشر نشده است.
+‏بخوانید: https://iranwire.com/fa/news-1/156055
+‏
+‏@Farsi_Iranwire
+18:46
+1405/05/18
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇹🇼🇺🇦🇨🇳⚡️ — Taiwan is accelerating plans to build large fleets of aerial and maritime attack drones designed to help repel a potential Chinese invasion, drawing heavily on lessons from Ukraine, NYT reports.
+‏
+‏The strategy is based on the U.S.-developed “hellscape” concept: overwhelming approaching Chinese forces with waves of drones, missiles, and artillery while keeping Taiwanese units highly mobile to avoid counterstrikes. Taiwan still needs major changes to training, doctrine, battlefield intelligence sharing, and unit mobility to effectively implement the strategy.
+‏
+‏Taiwan aims to produce 100,000 drones per month by 2030, roughly half for export, while its military plans to acquire more than 210,000 aerial and maritime drones. Taipei has also established a new Littoral Combat Command integrating drones, mobile missiles, and artillery for coastal defense.
+‏
+‏Taiwan is simultaneously expanding its domestic drone industry to reduce reliance on foreign supplies during a potential Chinese blockade. Drone exports reached $115 million in the first three months of 2026, already exceeding the total for all of 2025.
+18:42
+1405/05/18
+
+
+
+
 src :@intelslava
 ‏🇺🇦❌🇷🇺 — The Russian Armed Forces launched 195 ballistic missiles at Ukraine in July. Only 29 were intercepted, according to monitoring channels.
 ‏
@@ -368,7 +422,7 @@ src :@wfwitness
 
 src :@VahidOnline
 [عکس]
-‏داستان امروز منابع حکومتی درباره چرایی سرنوشت مداحی که ۶ ماه به بهانه "دعوت به حجاب" مزاحم یک "دختر بلاگر" شده بود:
+‏داستان امروز منابع حکومتی درباره چرایی سرنوشت مداحی که ۶ ماه به بهانه "دعوت به حجاب" مزاحم یک "دختر بلاگر" شده بود تا رفت سر قرار باهاش:
 ‏
 ‏حمیدرضا رجب‌زاده حدود ۱۵ روز پیش ناپدید شده بود اما ۴ روز پیش ویدیویی از پیکر آسیب دیدهٔ این فرد در یک کانال ضدانقلاب منتشر و در فضای مجازی دست به دست شد. 
 ‏
@@ -3661,19 +3715,6 @@ src :@Artemis_Force
 
 
 
-src :@ClashReport
-[عکس]
-‏Pentagon Demands Rapid Weapons Production Surge Amid Shortages
-‏
-‏US Department of Defense has ordered the domestic arms industry to radically accelerate weapons production, issuing a strict 21-day deadline for contractors to submit new delivery schedules.
-‏
-‏READ MORE
-14:10
-1405/05/18
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏گزارشاتی نیز منتشر شده شب گذشته که تأسیسات مجتمع گازی بری در جبیل عربستان سعودی مورد اصابت قرار گرفته است. داده های آتش سوزی ناسا نیز از آتش در آن منطقه منتشر شد
@@ -3758,16 +3799,6 @@ src :@mohem_mat
 ‏
 ‏@emtedadnet
 14:06
-1405/05/18
-
-
-
-
-src :@MilitarryWorld
-‏🔴فارس: پزشکیان امروز با رهبر دیدار و گفت و گو کرد!
-‏
-‏@MilitarryWorld | Parsa
-14:05
 1405/05/18
 
 
@@ -6805,13 +6836,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 18:51
-1405/05/17
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Greece is considering deploying two AH-64D Apache attack helicopters to the United Arab Emirates to support counter-drone operations under the bilateral defense agreement signed in 2020.
-18:43
 1405/05/17
