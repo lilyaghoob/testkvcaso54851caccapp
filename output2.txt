@@ -1,3 +1,14 @@
+src :@thewarreporter
+[عکس]
+‏🇮🇱🇱🇧🇪🇬 — The Israeli Foreign Ministry posted a map on its X account containing numerous geographical inaccuracies, including depicting a large part of southern Lebanon as Israeli territory.
+‏
+‏@TheWarReporter
+15:36
+1405/05/18
+
+
+
+
 src :@mohem_mat
 ‏الجزیره به نقل از جی‌دی‌ونس:
 ‏
@@ -3711,14 +3722,6 @@ src :@jangaavaran1390
 
 
 
-src :@P_raetorio
-‏حوثی‌ها مدعی شدند با یک پهپاد تاسیسات آرامکو در جیزان را هدف قرار داده‌اند.  @P_raetorio
-10:22
-1405/05/18
-
-
-
-
 src :@didarnews1
 ‏🔴ادعای تحلیلگر معروف ترک: ترکیه به ایران در نابودی مزدوران کرد مورد حمایت آمریکا کمک کرد
 ‏
@@ -6267,24 +6270,6 @@ src :@Artemis_Force
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇷 — The Iranian Supreme National Security Council says the US must fundamentally change course:
-‏
-‏• Stop threats and regional wars
-‏• End the blockade around Iran
-‏• Compensate Iran for war-related damages
-‏• Lift sanctions
-‏• Release Iran’s frozen assets
-‏
-‏Tehran says until these conditions are met, there will be no negotiations.
-‏
-‏@TheWarReporter
-17:29
-1405/05/17
-
-
-
-
 src :@rnintel
 ‏🇾🇪⚡- Two explosions in Ma'rib, central Yemen.  Ansarullah is likely attacking the city again.
 17:24
@@ -6743,12 +6728,4 @@ src :@mwarmonitor
 ‏
 ‏🌐https://heathrow.global-exchange.co.uk
 15:39
-1405/05/17
-
-
-
-
-src :@mwarmonitor
-‏🔴  وزارت امور خارجه امارات متحده عربی اعلام کرد که این کشور هدف قرار دادن یک نفتکش شرکت ملی نفت ابوظبی (ADNOC) توسط ایران با موشک هنگام عبور از تنگه هرمز را محکوم می‌کند.  🔴 این وزارتخانه می‌گوید استفاده از تنگه هرمز به‌عنوان ابزاری برای اعمال فشار یا باج‌گیری،…
-15:34
 1405/05/17
