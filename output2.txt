@@ -3945,7 +3945,7 @@ src :@RASTAKHIZ_PERSIAN
 ‏🔶 تصور اینکه توافق امنیتی عربستان، پاکستان و ترکیه باعث کمرنگ شدن نقش امنیتی امریکا در منطقه و ضربه زدن به این نقش خواهد شد بی شباهت به ساده لوحی نیست 
 ‏
 ‏🔹 امریکا سال هاست به دنبال کاهش هزینه های اقتصادی حضور امنیتی خود در خاورمیانه و تمرکز بیشتر بر شرق آسیا است و تمایل دارد کشورهای منطقه در چارچوب منظومه فکری و امنیتی امریکا و تحت نظارت این کشور، خود عهده دار امنیت منطقه شوند.
-‏این مسئله در گذشته در افغانستان هم دیده شد؛ زمانی که جمهوری اسلامی خروج امریکا از این کشور را جشن گرفته بود و متوجه هزینه های این تغییرات بر روی  وضعیت داخلی ایران نبود.
+‏این مسئله در گذشته در افغانستان هم دیده شد؛ زمانی که جمهوری اسلامی خروج امریکا از این کشور را جشن گرفته بود و متوجه هزینه های این تغییرات بر روی وضعیت داخلی ایران نبود.
 ‏
 ‏#یادداشت 
 ‏
@@ -6895,30 +6895,4 @@ src :@OSINTWarfare
 ‏
 ‏Even though Ceuta is not connected to mainland Europe or the Schengen Area, Meloni is still obeying orders coming from a certain country in the Middle East.
 04:43
-1405/05/17
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸🇫🇷⚡️- French metalworkers from Atelier Missor, who recently finished a statue of Lady Liberty for Washington D.C. (first picture), have unveiled the first images of their next work: a 30-meter tall statue of Prometheus (second and third pictures) which will be installed next to SpaceX's Starbase in southern Texas.
-03:53
-1405/05/17
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏WH / CENTCOM official en route #Bahrain 🇧🇭
-‏
-‏ترجمه خودکار فارسی
-‏
-‏مقام کاخ سفید / سنتکام در راه #Bahrain 🇧🇭
-‏
-‏𝕏  ·  @shin_persian
-03:52
 1405/05/17
