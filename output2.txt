@@ -1,6 +1,15 @@
+src :@tabzlive
+‏🇸🇩❌🇸🇩 — The pro-government Darfur Joint Forces repelled a UAE-backed RSF offensive against the strategic Bir Saliba area in west Darfur.
+03:42
+1405/05/18
+
+
+
+
 src :@Indypersian
 [عکس]
-‏♦️به گزارش تسنیم، ساعت ۰۳:۰۸ بامداد یکشنبه، ۱۸ مردادماه، زمین‌لرزه‌ای به بزرگی ۴ حوالی هفتکل و ایذه در خوزستان را لرزاند.
+‏♦️به گزارش تسنیم، ساعت ۰۳:۰۸ بامداد یکشنبه، ۱۸ مردادماه، زمین‌لرزه‌ای به بزرگی ۴ حوالی هفتکل و ایذه در خوزستان را لرزاند. بر اساس اعلام مرکز لرزه‌نگاری موسسه ژئوفیزیک دانشگاه تهران، این زمین‌لرزه در عمق ۸ کیلومتری زمین رخ داده است. کانون این زلزله در ۲۶ کیلومتری هفتکل، ۳۳ کیلومتری قلعه‌تل و ۳۵ کیلومتری ایذه ثبت شده و تکان‌های آن در نقاط مختلف استان احساس شده است.
+‏
 ‏
 ‏ 
 ‏@indypersian
@@ -1912,15 +1921,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 22:40
-1405/05/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — CENTCOM says U.S. forces have redirected 53 commercial vessels, disabled 2, and boarded 2 to ensure compliance since the reinforcement of the blockade on Iranian ports.
-22:39
 1405/05/17
 
 
@@ -6921,12 +6921,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 03:52
-1405/05/17
-
-
-
-
-src :@rnintel
-‏🇾🇪 - Clashes between Ansarullah and the Saudi-backed Yemeni National Resistance Forces are happening west of Hays, north of the al-Kassayah military camp, and south of Hays, along the Shar'ab heights.
-03:46
 1405/05/17
