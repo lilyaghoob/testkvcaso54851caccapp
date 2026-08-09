@@ -1,3 +1,28 @@
+src :@ClashReport
+[عکس]
+‏Trump:
+02:02
+1405/05/19
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 وال استریت ژورنال: حملات ایران آسیب‌پذیری پایگاه‌های آمریکا را فاش کرد؛ ۱۳ میلیارد دلار خسارت و ۴۲ هواپیما منهدم شد.
+‏
+‏🔹️ از آغاز عملیات «خشم حماسی»، ایران بیش از ۲۰۰۰ حمله هوایی، موشکی و پهپادی به پایگاه‌های آمریکا انجام داده و به ۲۰ سایت در ۸ کشور آسیب زده است. خسارت وارده به تجهیزات و تأسیسات آمریکا ۱۳ میلیارد دلار و ۴۲ هواپیما منهدم یا آسیب دیده است.
+‏
+‏🔹️ با این حال، آمریکا آمادگی کافی برای دفاع از پایگاه‌های خود را ندارد. گزینه پیش روی کنگره و پنتاگون روشن است: یا حالا برای حفاظت هزینه کنند، یا در آینده با مشکل جدی‌تری روبرو شوند.
+‏
+‏✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+01:59
+1405/05/19
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، با انتشار نموداری درباره سقوط ارزش ریال ایران در تروث سوشال نوشت: «۵۱ سال رفتار بد!» و در ادامه افزود: «ایران هیچ پولی ندارد.»
@@ -573,10 +598,11 @@ src :@World_Newsly
 
 src :@VahidOnline
 [عکس]
-‏ترامپ نموداری منتشر کرده روش نوشته شده: ایران هیچ پولی ندارد.
+‏ترامپ نموداری منتشر کرده روش نوشته شده: ایران هیچ پولی ندارد: realDonaldTrump
 ‏و در شرح تصویر نوشته: ۵۱ سال رفتار بد!
-‏realDonaldTrump
+‏
 ‏۵۱ سال یعنی از سال ۱۳۵۴
+‏در روزهای اخیر بارها درباره عمر جمهوری اسلامی گفته بود ۳ ساله داریم می‌گیم ۴۷ سال گذشته، پس دیگه الان ۵۰ سال شده. امروز گویا رسیده به ۵۱.
 ‏📡 @VahidOnline
 00:56
 1405/05/19
@@ -1285,18 +1311,6 @@ src :@selena_updates
 ‏In Spain, totality will occur close to sunset, with the total phase beginning in parts of the country at around 8:26 p.m. local time and lasting roughly one to two minutes depending on location. 
 ‏
 ‏The event will be the first total solar eclipse visible from the Iberian Peninsula in more than a century and the first visible from mainland Europe since the 1999 eclipse. This prompted extensive preparations across Spain as thousands of visitors and eclipse chasers are expected to gather to witness the rare event.
-00:15
-1405/05/19
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴 یه نفتکش میخواست از مسیر عمان سیریک عبوز کنه مورد حمله قرار گرفت
-‏
-‏‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
 00:15
 1405/05/19
 
@@ -6870,15 +6884,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 02:12
-1405/05/18
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇶/🇮🇶/🇮🇷 NEW: Iraqi security forces arrested 3 people and seized a shipment of Iranian drones and drone parts in Wasit, likely belonging to the Islamic Resistance in Iraq
-‏
-‏@Middle_East_Spectator
-02:00
 1405/05/18
