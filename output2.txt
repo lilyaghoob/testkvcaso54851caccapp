@@ -1,3 +1,15 @@
+src :@Indypersian
+[عکس]
+‏♦️به گزارش خبرگزاری فارس، مدیریت شهری تهران با هماهنگی پلیس راهور فرآیند جمع‌آوری سنگ‌فرش‌های معابر مرکزی و تاریخی پایتخت و جایگزینی آن‌ها با آسفالت را آغاز کرده است. محمد آقامیری، رئیس کمیته عمران شورای اسلامی شهر تهران، با اشاره به «ناکامی طرح پیاده‌راه‌سازی» در خیابان‌هایی چون ۳۰ تیر، بهارستان و ۱۷ شهریور به‌دلیل نبود مسیرهای جایگزین گفت: «با توجه به سنگین شدن بار ترافیکی معابر، پلیس راهور ترجیح داد که مسیرهای پیش‌بینی شده برای پیاده‌راه را به مسیرهای سواره‌رو بازگرداند تا گره‌های ترافیکی کاهش یابد. این سنگ‌فرش‌ها به دلیل اصطکاک بالا با لاستیک خودروها، موجب خوردگی و همچنین تشدید آلودگی هوا می‌شوند.» آقامیری تاکید کرد که مدیریت شهری در حال آسفالت این معابر است، هرچند که این کار نیازمند زیرسازی کامل و هزینه‌بر بوده و تنها در برخی نقاط واجد ارزش شهری، حداقلی از سنگ‌فرش‌ها حفظ خواهد شد.
+‏قدمت سنگ‌فرش خیابان‌های مرکزی پایتخت به زمان رضاشاه پهلوی (سال‌های ۱۳۱۱ تا ۱۳۱۵) بازمی‌گردد. دورانی که برای نخستین بار خیابان‌های نادری (جمهوری) و قوام‌السلطنه (۳۰ تیر) سنگ‌فرش شدند. اجرای مجدد طرح سنگ‌فرش در دهه ۹۰ توسط شهرداری تهران آغاز شد اما اکنون پس از یک دهه، جای خود را به آسفالت می‌دهد.
+‏
+‏@IndyPersian
+03:28
+1405/05/18
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏India has begun official steps to join France’s FCAS sixth-generation fighter program, effectively choosing it over the British-Japanese GCAP.
@@ -3801,23 +3813,6 @@ src :@selena_updates
 
 
 
-src :@Indypersian
-‏⭕️چرا با افزایش سن باید تمرینات سرعت واکنش را انجام دهیم؟
-‏
-‏📌سرعت واکنش، فاصله زمانی میان درک یک محرک تا آغاز واکنش فیزیکی به آن است
-‏
-‏
-‏♦️وقتی بیشتر افراد به حفظ آمادگی جسمانی در سال‌های سالمندی فکر می‌کنند، معمولا تمرکزشان بر سه عامل اصلی است: قدرت، تحرک و تمرین‌های هوازی. اما «سرعت واکنش» مهارتی شناختی و جسمی است که به رغم اهمیت فراوانش کمتر به آن توجه می‌کنند؛ در حالی که کاهش تدریجی آن بر همه چیز، از توانایی جلوگیری از زمین خوردن گرفته تا نحوه پردازش اطلاعات محیط توسط مغز، تأثیر می‌گذارد.
-‏بیشتر بخوانید...
-‏
-‏
-‏@indypersian
-19:15
-1405/05/17
-
-
-
-
 src :@samueltarikh
 ‏علوفه‌ی حیوانات مدام کم و کمتر می‌شد، همه به جان هم افتاده بودند، حالا دیگر ادای احترام به یادبود موسس مزرعه نه به‌خاطر احترام و اعتقاد که فقط از سر اجبار و ترس بود.
 ‏گوسفندان بیشتری به کشتارگاه برده می‌شدند و صاحب مزرعه مدام از دسیسه‌های دشمن خونخواری به نام گرگ به‌عنوان منشأ و باعث و بانی تمامی مشکلات مزرعه سخن می‌گفت.
@@ -5119,24 +5114,6 @@ src :@Shin_Persian
 
 
 
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — Over the course of a month, the Russian Armed Forces destroyed 400,000 square meters of warehouse space belonging to Ukrainian businesses, according to Forbes.
-‏
-‏The strikes hit Fozzy Group, Rozetka, Epicentr, Nova Poshta, and hundreds of small entrepreneurs who stored their goods in the warehouses of large companies.
-‏
-‏Warehouses of two tobacco companies in the Kyiv region were also destroyed as a result of a strike on August 5.
-‏
-‏JTI Ukraine (Camel, Winston, LD) reported that its finished goods warehouse was completely destroyed. The company does not expect supply disruptions to stores.
-‏
-‏Imperial Brands Ukraine (Davidoff, West) stated that products at distributor and retail partner warehouses were affected. The damage is estimated at tens of millions of hryvnias, and short-term supply disruptions have already occurred in some areas of Kyiv.
-‏
-‏@IntelSlava
-16:20
-1405/05/17
-
-
-
-
 src :@OSINTWarfare
 [ویدئو]
 ‏A Ukrainian P-18 radar was destroyed by a Geran-4 loitering munition equipped with an electro-optical (EO) seeker near the settlement of Novofedorivka, Mykolaiv Oblast.
@@ -5217,20 +5194,6 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #Tomcat
 16:02
-1405/05/17
-
-
-
-
-src :@intelslava
-‏🇺🇦⚡️ — As of the beginning of August, Ukraine's state and state-guaranteed debt reached 9.49 trillion hryvnias, or 211.6 billion dollars.
-‏
-‏Over the course of the month, it grew by 173.9 billion hryvnias, primarily due to the receipt of financing from the European Union and the World Bank to cover budget needs during the war.This was announced by Danylo Hetmantsev, the Chairman of the Verkhovna Rada Committee on Finance, Tax and Customs Policy.
-‏
-‏He clarified that since the beginning of 2026, the debt in hryvnia equivalent has increased by 448.1 billion hryvnias.
-‏
-‏@IntelSlava
-15:59
 1405/05/17
 
 
@@ -5319,17 +5282,6 @@ src :@Mena_Live
 src :@rnintel
 ‏🇺🇸⚡️- BREAKING: Pam Bondi has been removed as Attorney General and will be replaced in the interim by Deputy Attorney General Todd Blanche, according to Fox News.
 15:52
-1405/05/17
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺⚡️ — The aftermath of a strike by Ukrainian FP-2 drones on a vessel near the coast of Gelendzhik, Krasnodar Krai.
-‏
-‏@Intelslava
-15:50
 1405/05/17
 
 
@@ -5474,19 +5426,6 @@ src :@mwarmonitor
 
 
 
-src :@intelslava
-[عکس]
-‏🇷🇺🇺🇦⚡️ — It has become known that on July 31st, a helicopter of the army aviation of the Ukrainian Ground Forces was lost during a combat flight mission involving the dispersal of aircraft in the Kirovohrad region.
-‏
-‏As a result of the helicopter crash, the flight engineer, senior lieutenant Yaroslav Demchevsky, was killed.
-‏
-‏@Intelslava
-15:32
-1405/05/17
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇸🇦🤝🇵🇰🤝🇹🇷 — Pakistan's foreign ministry announced the signing of the joint defense agreement with Turkey and Saudi Arabia.
@@ -5602,20 +5541,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 15:18
-1405/05/17
-
-
-
-
-src :@intelslava
-‏🇺🇦🇺🇸⚡️ — The United States will be providing Ukraine with Patriot missile interceptors on a monthly basis, but even then, it will still not be enough, Zelenskyy stated.
-‏
-‏According to him, an agreement on this matter has already been reached with Washington.
-‏
-‏Trump previously stated that he had refused Zelenskyy's request for additional missiles due to a shortage.
-‏
-‏@Intelslava
-15:16
 1405/05/17
 
 
@@ -6255,24 +6180,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@intelslava
-‏⚡️🇮🇷 A cell in Iran has been confirmed to be operating in an assassination program.
-‏
-‏An Iranian police officer (Sniper, Security), was kidnapped on August 4th, recently, a video of his torture was released on Iranian telegram channels that were Anti-Regime.
-‏
-‏Actions included cutting out his own heart while it was still beating, ejaculating on his corpse, taking his guts out, and so on.
-‏
-‏The cell says that anyone who does such actions in Iran will be rewarded between 1,000 to 2,000 US dollars, and they have a list of police officers in Iran they will target.
-‏
-‏The government confirmed his death today.
-‏
-‏@medmannews
-13:12
-1405/05/17
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏شرکت آمریکایی Saronic Technologies، آزمایش‌های دریایی اولین ناو بدون سرنشین خود به نام Marauder را آغاز کرده است.
@@ -6294,21 +6201,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 13:01
-1405/05/17
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸⚡️ — The Pentagon has removed a key military official coordinating the delivery of military aid to Ukraine from his position, according to ABC News.
-‏
-‏The official is Lieutenant General Charles Constanza. He had only two months left in his service with a military unit in Poland, which oversees aid to Ukraine and manages troops on NATO's eastern flank.
-‏
-‏The reasons for his removal have not been disclosed.
-‏
-‏@Intelslava
-12:56
 1405/05/17
 
 
@@ -6429,18 +6321,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 12:10
-1405/05/17
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦🇩🇪⚡️ — A cargo ship from Germany was attacked by drones in the Black Sea near Odessa, according to the newspaper Bild.
-‏
-‏The ship in question is the Emil, which sails under the flag of Liberia and is owned by the German company Johann M. K. Blumenthal GmbH & Co. KG, headquartered in Hamburg.
-‏
-‏@Intelslava
-12:06
 1405/05/17
 
 
