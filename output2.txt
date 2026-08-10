@@ -1,6 +1,21 @@
+src :@ClashReport
+[عکس]
+‏The potential obstacle to Ukraine producing Patriot missiles may be competition, not just security.
+‏
+‏A Republican official said Lockheed Martin and Raytheon would publicly frame their concerns around intellectual-property theft and technology transfer.
+‏
+‏But their real worry is that Ukraine could improve the Patriot system and produce it at scale, faster and for much less money than existing U.S. production lines.
+‏
+‏Source: The Atlantic
+10:39
+1405/05/19
+
+
+
+
 src :@jangaavaran1390
 [عکس]
-‏داستانش عکس مربوط به تانک پاکستانی الضرار است؛ یک ارتقای عمیق روی تانک قدیمی چینی تایپ 59 که خودش ریشه در T-54 شوروی دارد. در این تمرین در حال انجام عملیات حرکت کوتاه یک حالت آموزشی/تمرینی حرکت تانک با زنجیر کوتاه‌شده یا پیکربندی ویژه شنی اشاره دارد برای مواقع اضطراری و پاره شدن بخشی از شنی
+‏داستان عکس مربوط به تانک پاکستانی الضرار است؛ یک ارتقای عمیق روی تانک قدیمی چینی تایپ 59 که خودش ریشه در T-54 شوروی دارد. در این تمرین در حال انجام عملیات حرکت کوتاه یک حالت آموزشی/تمرینی حرکت تانک با زنجیر کوتاه‌شده یا پیکربندی ویژه شنی اشاره دارد برای مواقع اضطراری و پاره شدن بخشی از شنی
 10:37
 1405/05/19
 
@@ -2794,17 +2809,6 @@ src :@Mena_Live
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴یه زمانی خونه، ماشین و... قسطی بود. بعد شد لپ‌تاپ و کامپیوتر و یکم بدترش گوشی و حالا گوشت و مرغ هم...
-‏
-‏@MilitarryWorld | Parsa
-00:04
-1405/05/19
-
-
-
-
 src :@cataphract1
 ‏⚜️ کاتافراکت همواره با ارائه اطلاعات غلط که به طور فاحشی با واقعیت در تضاد هستند مقابله کرده است و با بررسی آن(فکت چک)، حقیقت را در اختیار عموم قرار داده است.  ⚜️ اخیرا که ارائه اطلاعات مبهم و داده های آماری غیرقابل اعتبارسنجی از ذخایر موشک های پدافندی در…
 00:01
@@ -3964,15 +3968,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump reposts Hillary Clinton praising his Gaza plan.
-21:00
-1405/05/18
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷 BREAKING: In an executive order, Supreme Leader Ayatollah Mojtaba Khamenei has appointed IRGC Maj. Gen. Mohsen Rezaei as one of his two representatives in the Supreme National Security Council  Mohammad Baqer Zolqadr will remain Secretary of the SNSC…
 20:57
@@ -4185,15 +4180,6 @@ src :@MilitiaNews
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran’s Supreme Leader Mojtaba Khamenei has appointed Mohsen Rezaei as his representative to the Supreme National Security Council.
-20:39
-1405/05/18
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US President Trump told Axios that the U.S. is 'low-keying it' with Iran and is only 'semi-negotiating while monitoring the country's worsening economic situation'. 
 ‏
@@ -4237,18 +4223,6 @@ src :@rnintel
 ‏
 ‏He was also appointed Mojtaba's military adviser earlier this year.
 20:37
-1405/05/18
-
-
-
-
-src :@ClashReport
-‏Trump on Iran:
-‏
-‏We are only semi-negotiating with them. We are just watching Iran with its huge inflation and the fact they have no money.
-‏
-‏Source: Axios
-20:35
 1405/05/18
 
 
@@ -6690,31 +6664,4 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/18/406347/
 10:45
-1405/05/18
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏ 
-‏شروط جمهوری اسلامی برای بازگشایی «تنگه هرمز»؛ جی‌دی ونس: رژیم ایران چندپاره شده است
-‏
-‏-وزارت خارجه عمان اعلام کرد: «مذاکرات با جمهوری اسلامی درباره تنگه هرمز در فضایی مثبت و سازنده به پیش می‌رود»؛ با اینهمه هنوز طرفین بر سر بازگشایی تنگه هرمز به توافق نرسیده‌اند. جی‌. دی. ونس معاون دونالد ترامپ می‌گوید: «یکی از دلایل مشکل بودن مذاکره با جمهوری اسلامی نظام چندپاره آن است.»
-‏
-‏-احمد بخشایش اردستانی، عضو کمیسیون «امنیت ملی» مجلس شورای اسلامی در گفتگو با وبسایت «دیده‌بان ایران» درباره مذاکرات مربوط به تنگه هرمز گفت که جمهوری اسلامی به اسم عمان اکنون در حال مذاکره با آمریکا است و افزود: «آمریکا می‌خواهد زیر بار نرود، عمان را جلو انداخته است.»
-‏
-‏ذوالقدر دبیر «شورای عالی امنیت ملی» برای آمریکا شش شرط گذاشت از جمله اینکه ایالات متحده باید «به جنگ و تجاوز علیه ایران و متحدان ایران در لبنان، فلسطین، یمن وعراق برای همیشه پایان دهد».
-‏
-‏
-‏https://kayhan.london/1405/05/18/406362/
-10:40
-1405/05/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: The Yemeni Armed Forces have taken responsibility for targeting the Jazan Aramco refinery in Saudi Arabia last night, in response to airspace violations by drones  @Middle_East_Spectator
-10:38
 1405/05/18
