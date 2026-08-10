@@ -1,3 +1,93 @@
+src :@defence_news
+‏به گزارش بلومبرگ، ایالات متحده به دلیل کاهش شدید ذخایر تسلیحاتی خود نه تنها ارسال تسلیحات موشکی به اوکراین را متوقف کرده بلکه حتی قصد تحویل تسلیحات خریداری شده با پول اتحادیه اروپا از امریکا به اوکراین را نیز ندارد.
+‏
+‏@Minas_Tirith2024
+19:28
+1405/05/19
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iran’s attacks have caused about $13 billion in damage to the U.S., with 2,000+ missile and drone strikes against U.S. bases since Operation Epic Fury began. 
+‏
+‏The attacks damaged 20 facilities in eight countries and damaged or destroyed 42 U.S. aircraft.
+‏
+‏Source: WSJ
+19:26
+1405/05/19
+
+
+
+
+src :@thewarreporter
+‏🇵🇰🇹🇷🇸🇦 — Pakistan, Turkey, and Saudi Arabia sign a joint defense agreement named the 'Mecca Agreement'.   @TheWarReporter
+19:26
+1405/05/19
+
+
+
+
+src :@samueltarikh
+‏⭕️کانال ۱۲عبری:
+‏
+‏آمریکا همچنان حضور خود را در زمینه سوخت‌رسانی هوایی در فرودگاه بن‌گوریون کاهش می‌دهد، به طوری که تعداد هواپیماهای تانکر اکنون به سطحی نزدیک به زمان آتش‌بس رسیده است، زمانی که تقریباً 20 فروند از این هواپیماها در این فرودگاه مستقر بودند
+19:26
+1405/05/19
+
+
+
+
+src :@MilitarryWorld
+‏🔴پزشکیان: قدردان زحمات مردمی که ۱۶۰ شب در خیابان ها آمدند، هستم.
+‏
+‏از مردمی که با وجود گرانی و گلایه، به خیابان نیامدند ولی با دشمن هم همراه نشدن، تشکر می کنم
+‏
+‏@MilitarryWorld | Parsa
+19:25
+1405/05/19
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇨🇴⚡️ — Secretary of State Marco Rubio:
+‏The Trump Administration is closely monitoring the large earthquake that struck Colombia and stands ready to support the people of Colombia and President Abelardo De La Espriella's Administration.
+19:24
+1405/05/19
+
+
+
+
+src :@cataphract1
+[عکس]
+‏💢 آرایش جنگنده‌های آمریکا در سنتکام 
+‏
+‏⚜بر اساس یک برآورد های اکانت تخصصی اوسینت DefenceGeek منتشرشده ، آمریکا در حال حاضر بیش از ٢٧٠ فروند جنگنده و هواگرد را در حوزه مسؤلیت سنتکام و قابل استفاده در سناریوی درگیری با ایران در اختیار دارد.
+‏
+‏⚜ترکیب این نیرو به صورت تقریبی شامل:
+‏
+‏▪️ ۶۴ فروند F-15E Strike Eagle
+‏▪️ ۵۵ فروند F-35A Lightning II
+‏▪️ ۶۱ فروند F-16C/CM Fighting Falcon
+‏▪️۳۰ فروند A-10C Thunderbolt II
+‏▪️ ۱۲ فروند F/A-18C/D Hornet
+‏▪️ ۱۰ فروند F-35C Lightning II
+‏▪️ ۶ فروند EA-18G Growler
+‏
+‏⚜نکته مهم این است که این رقم، لزوماً به معنای تمام ظرفیت هوایی آمریکا برای عملیات علیه ایران نیست. 
+‏
+‏⚜هواگرد های نظامی دیگری در پایگاه‌هایی اروپایی مانند Lakenheath، Spangdahlem و Aviano قرار دارند که می‌توانند در صورت نیاز به منطقه اعزام شوند، اما در این برآورد جزو نیروهای مستقر و آماده در سنتکام محسوب نشده‌اند.
+‏
+‏📃@Cataphract1
+19:24
+1405/05/19
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏⚔️military shot⚔️
@@ -2956,18 +3046,6 @@ src :@Alibk3
 
 
 
-src :@MilitarryWorld
-‏🔴پزشکیان:
-‏
-‏در موضوع بنزین نمی‌توانم دستور بدهم که از فردا فلان اتفاق بیفتد؛ چون ممکن است کشور را دچار مشکل کنیم.
-‏
-‏@MilitarryWorld | Parsa
-14:38
-1405/05/19
-
-
-
-
 src :@Middle_East_Spectator
 ‏— 🇮🇷/🇦🇪 NEW: The United Arab Emirates says it thwarted a major cyberattack against its civilian and industrial sectors, including energy and aviation infrastructure
 ‏
@@ -5403,20 +5481,6 @@ src :@tglobaleye
 ‏
 ‏📊 Join now for real-time conflict intel
 22:45
-1405/05/18
-
-
-
-
-src :@cataphract1
-‏⚜به گزارش شبکه ۱۳ اسرائیل، آمریکا در حال افزایش فشار بر اسرائیل برای کاهش و پایان دادن به درگیری‌ها در غزه، لبنان و ایران است.
-‏
-‏⚜واشنگتن از اسرائیل می‌خواهد شدت حملات را کاهش دهد، از مواضع بیشتری در جنوب لبنان عقب‌نشینی کند و طرح استقرار یک نیروی چندملیتی در غزه را پیش ببرد.
-‏
-‏⚜با این حال، اسرائیل در برابر بخشی از این خواسته‌ها مقاومت می‌کند. بنیامین نتانیاهو اعلام کرده است که ارتش اسرائیل همچنان به اقدامات خود علیه تهدیدها ادامه خواهد داد و اسرائیل این گزینه را برای خود محفوظ می‌دارد که در صورت ازسرگیری توسعه برنامه هسته‌ای یا موشک‌های بالستیک ایران، بار دیگر به ایران حمله کند.
-‏✒️#LT
-‏📃@Cataphract1
-22:44
 1405/05/18
 
 
