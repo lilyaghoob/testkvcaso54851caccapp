@@ -1,3 +1,39 @@
+src :@MilitarryWorld
+‏🔴نخست وزیر پاکستان: تفاهم‌نامه مکه هرگز برای تجاوزگری نخواهد بود.
+‏
+‏@MilitarryWorld | Parsa
+20:31
+1405/05/19
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴رئیس ستاد ارتش اسرائیل:نیروهای ما کاملاً آماده دفاع هستند ما برای بازگشت به درگیری‌های شدید نیز آماده‌ایم
+‏
+‏🆔@WAR_ROOM_NEWS
+20:31
+1405/05/19
+
+
+
+
+src :@jangaavaran1390
+‏ترامپ: اگر ایران غرامت می‌خواهد، آمریکا هم از ایران غرامت می‌خواهد!  دونالد ترامپ در واکنش به گزارش‌هایی درباره درخواست غرامت از سوی نمایندگان جمهوری اسلامی ایران بابت خسارات واردشده در درگیری نظامی پنج‌ماهه اخیر، گفت:  «می‌بینم که نمایندگان جمهوری اسلامی…
+20:29
+1405/05/19
+
+
+
+
+src :@jangaavaran1390
+‏ترامپ در شبکه Truth Social: "می‌بینم که ایران درخواست غرامت برای خساراتی است که در جریان درگیری نظامی به آنها وارد شده است. اکنون من نیز از ایران درخواست غرامت می‌کنم - برای تمام کسانی که آنها کشته و مجروح کرده‌اند."
+20:28
+1405/05/19
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏🇺🇸🇮🇷⚡️ ترامپ در تروث‌سوشال:  ترامپ با اشاره به درخواست مقام‌های جمهوری اسلامی برای دریافت غرامت بابت خسارات واردشده در جنگ پنج‌ماهه اخیر گفت: «ایده جالبی است؛ چون من هم اکنون از ایران بابت کشته و زخمی شدن نیروها و شهروندان آمریکایی در حملات و درگیری‌های مختلف،…
 20:26
@@ -130,7 +166,7 @@ src :@mohem_mat
 
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇮🇷 Full list of appointments by Iran’s Supreme Leader, Ayatollah Mojtaba Khamenei:
+‏— 🇮🇷 Full list of appointments by Iran’s Supreme Leader, Ayatollah Mojtaba Khamenei:
 ‏
 ‏– Chief of the General Staff of the Armed Forces: Major General Ali Abdollahi
 ‏
@@ -1688,6 +1724,7 @@ src :@didarnews1
 
 
 src :@RASTAKHIZ_PERSIAN
+[عکس]
 ‏🔶 رسانه رهبر انقلاب از انتشار احکام انتصاب تنی چند از فرماندهان بلندپایه نظامی جمهوری اسلامی ایران تا ساعتی دیگر خبر داد  #خبر @RASTAKHIZ_PERSIAN
 19:11
 1405/05/19
@@ -2383,15 +2420,6 @@ src :@World_Newsly
 ‏✍🏻 Desert Eagle
 ‏▪️@World_Newsly
 18:41
-1405/05/19
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱⚡️ — The U.S. Air Force has begun relocating some of its aerial refueling aircraft that had been stationed at Ben Gurion Airport in recent weeks, amid ongoing security developments, according to Israeli Channel 12.
-18:37
 1405/05/19
 
 
@@ -3688,20 +3716,6 @@ src :@OSINTWarfare
 
 
 
-src :@MilitarryWorld
-‏🔴سخنگوی سپاه، محبی : موشک‌های ایران دیگه فقط از یه نقطه شلیک نمی‌شن که همون مسیر رو برن و به یه نقطه دیگه برسند
-‏
-‏می‌تونن وسط پرواز مسیرشون رو عوض کنن تا از پدافند دشمن عبور کنند
-‏
-‏حتی بعضی موشک‌ها می‌تونن حین پرواز مسیرشون رو به سمت یه هدف ثانویه تغییر بدند
-‏
-‏@MilitarryWorld | Parsa
-15:45
-1405/05/19
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏رکنا،  اولین عکس از خانم بلاگر و ۵ همدستش در قتل حمیدرضا رجب زاده مداح تهرانی را منتشر کرد
@@ -3949,14 +3963,6 @@ src :@DEJradio
 ‏#جمهوری_اسلامی #ترکیه #پیمان_مکه
 ‏@DEJradio
 15:05
-1405/05/19
-
-
-
-
-src :@jangaavaran1390
-‏وزیر امور خارجه پاکستان پس از امضای پیمان دفاعی با ترکیه و عربستان سعودی: "این توافقنامه دفاعی است و هدف آن هیچ کشوری نیست. هدف آن تقویت همکاری‌های امنیتی و بازدارندگی مشترک است."
-15:04
 1405/05/19
 
 
@@ -4236,18 +4242,6 @@ src :@intelslava
 
 
 
-src :@mohem_mat
-‏ذوالقدر شرایط 6 گانه باز شدن تنگه هرمز را اعلام میکند و چند ساعت بعد از دبیری شعام خلع میشود! من تا این لحظه بین دریائی از تحلیل، حتی یک تحلیل قانع کننده از جابجائی ذوالقدر و محسن رضائی ندیده ام. دوستان اگر تحلیلی نظرشان را جلب کرده لطفا به اشتراک بگذارند.
-‏
-‏شهیر شهیدثالث Shahir Shahidsaless (@ShShahidsaless)
-‏
-‏@mohem_mat
-14:15
-1405/05/19
-
-
-
-
 src :@didarnews1
 ‏🔴 فرزند شهید لاریجانی: رهبر انقلاب در مسئله رد صلاحیت علی لاریجانی ۳ بار نسبت به شورای نگهبان اعلام نارضایتی کرد.
 ‏
@@ -4415,14 +4409,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 13:45
-1405/05/19
-
-
-
-
-src :@jangaavaran1390
-‏امارات متحده عربی اعلام کرد که حملات سایبری پیچیده‌ای را که هدف آن‌ها بخش‌های هواپیمایی، انرژی و آموزش بود، خنثی کرده است.
-13:44
 1405/05/19
 
 
@@ -5059,16 +5045,6 @@ src :@didarnews1
 
 
 
-src :@WAR_ROOM_NEWS
-‏ظاهراً حوثی ها مجدد طی حملات پهپادی مقر نیروهای دفاع ملی یمن تحت حمایت عربستان را در بندر المخا در ساحل دریای سرخ را هدف قرار داده اند
-‏
-‏🆔@WAR_ROOM_NEWS
-11:09
-1405/05/19
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‏ ‌‏ ‏ 
@@ -5293,25 +5269,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 10:44
-1405/05/19
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇬🇧 🇨🇳 — Chinese-made components in cameras fitted to Royal Navy K3 Scout surveillance drones were found transmitting “heartbeat” data to an IP address in China.
-‏
-‏The £12 million fleet, supplied by British firm Kraken Technology Group and in use by Royal Marines special forces units since March, sent routine signals confirming the devices were online and functioning. The issue was uncovered during a routine cyber vulnerability assessment.
-‏
-‏The Ministry of Defence stated that a thorough investigation found no evidence of sensitive data or systems being accessed, compromised, or transmitted externally. Internet connectivity to the cameras has been removed.
-‏
-‏The incident has renewed concerns over supply-chain security in military systems, particularly equipment operating near British special forces and earmarked for potential Gulf operations.
-‏
-‏(Source: The Telegraph)
-‏
-‏The Global Eye | Subscribe ✈️
-10:36
 1405/05/19
 
 
@@ -6713,27 +6670,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 20:32
-1405/05/18
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺 حمیدرضا رجب‌زاده مداح سرکوبگر را ربودند و کشتند. برای خانواده او ویدیویی از آخرین لحظات جان دادن رجب‌زاده را فرستادند. برخی منابع ادعا کردند چهار نفر به اتهام قتل این مداح بازداشت شدند. برخی منابع حکومتی انگشت اتهام را به سوی مخالفان حکومت دراز کردند اما…
-20:31
-1405/05/18
-
-
-
-
-src :@DEJradio
-[عکس]
-‏⭕️🔺 حسن حسن زاده فرمانده سـ.ـپاه تهران بزرگ روز یکشنبه ۱۸ مرداد ۱۴۰۵ از گردان‌های پدافند هوایی «لشکر۲۷ محمد رسول الله» بازدید کرد. ادعا شده بود این گردان‌ها با تجهیزات جدید ارتقاء یافته‌اند اما آنچه برای بازدید او به نمایش درآمد توپ‌های ضدهوایی کوتاه‌بُرد دو لول ۱۴/۵ میلی‌متری ZPU-2روسی بود که برای مقابله با هواگردها (پهپادها) در ارتفاع پایین کاربرد دارند.
-‏این توپ‌ها را پشت تویوتا سوار کردند تا حداقل به اسم «متحرک» باشند!
-‏این توپ‌ها نه سامانه کشف مناسبی برای جنگنده‌های پیشرفته دارد و نه بُرد و دقت لازم برای درگیری مؤثر با آنها را، و اوپراتور باید با چشم پرنده مهاجم را ببیند و همچنان با چرخاندن دستگیره توپ را به سمت هدف می‌چرخاند.
-‏
-‏#ضدهوایی 
-‏@DEJradio
-20:28
 1405/05/18
