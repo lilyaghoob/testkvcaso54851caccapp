@@ -1,5 +1,87 @@
-src :@RASTAKHIZ_PERSIAN
+src :@OSINTWarfare
+[عکس]
+‏Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck two transporter-erector-launchers (TELs) associated with Russian S-300/400 surface-to-air missile (SAM) systems, as well as an Orion…
+18:47
+1405/05/19
+
+
+
+
+src :@Parvazdaroj
+‏تا ساعاتی دیگر چندین فرمانده رده بالا جابجا خواهند شد،این تصمیمات نقش مهمی در آینده نیروی هوایی و آسمان ایران خواهد داشت
+‏یا بدتر از قبل،یا امیدی برای آغاز بازسازی
+‏
+‏@PARVAZDAROJ
+18:46
+1405/05/19
+
+
+
+
+src :@ClashReport
+‏NEW: Iran's Supreme Commander-in-Chief Mojtaba Khamenei will publish decrees appointing several high-ranking military commanders within hours.
+18:46
+1405/05/19
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏فرانسه به‌دنبال تبدیل تانک‌های قدیمی AMX-30 به ربات‌های زمینی
+‏
+‏ ارتش فرانسه در حال بررسی تبدیل ده‌ها دستگاه AMX-30 ذخیره‌شده در انبارها به سامانه‌های رباتیک زمینی VTSP است.
+‏
+‏ تانک AMX-30 از اواسط دهه ۱۹۶۰ در خدمت ارتش فرانسه بود و در سال ۲۰۱۸ به‌طور کامل بازنشسته شد. با وجود اسقاط بخش عمده ناوگان، دست‌کم ۱۰۰ دستگاه، عمدتاً از نوع ارتقایافته AMX-30 Brenus، همچنان در انبارها باقی مانده‌اند.
+‏
+‏ طرح پیشنهادی، این تانک‌های قدیمی را به خودروهای بدون سرنشین و کنترل از راه دور تبدیل می‌کند که در آینده می‌توانند با کمک هوش مصنوعی تا حدی به‌صورت خودکار عمل کنند و داری برجک با تسلیحات خودکار است
+‏
+‏ هدف اصلی، استفاده مجدد از تجهیزات موجود و ایجاد ظرفیت رباتیک ارزان‌تر برای جنگ‌های پرشدت بدون نیاز به طراحی و تولید یک خودروی رزمی کاملاً جدید است.
+‏
+‏ در صورت عملیاتی شدن، AMX-30های رباتیک احتمالاً بیشتر برای مأموریت‌های پرخطر، شناسایی، حمل تجهیزات یا ایجاد فشار بر مواضع دشمن به‌کار خواهند رفت؛ نه اینکه الزاماً جایگزین تانک‌های مدرن سرنشین‌دار شوند.
+18:46
+1405/05/19
+
+
+
+
+src :@samueltarikh
 ‏🔶 رسانه رهبر انقلاب از انتشار احکام انتصاب تنی چند از فرماندهان بلندپایه نظامی جمهوری اسلامی ایران توسط رهبر انقلاب تا ساعتی دیگر خبر داد
+‏
+‏#خبر
+‏@RASTAKHIZ_PERSIAN
+18:46
+1405/05/19
+
+
+
+
+src :@didarnews1
+‏🔴تا ساعتی دیگر احکام انتصاب تنی چند از فرماندهان بلندپایه نظامی جمهوری اسلامی ایران توسط فرمانده معظم کل قوا منتشر خواهد شد./فارس
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:45
+1405/05/19
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴هیات مذاکره کننده از صداسیما خواست تا افراد تکراری مانند محمد جواد لاریجانی را برای مصاحبه دعوت نکنند چون باعث تشویش اذهان عمومی می شود!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+18:45
+1405/05/19
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 رسانه رهبر انقلاب از انتشار احکام انتصاب تنی چند از فرماندهان بلندپایه نظامی جمهوری اسلامی ایران تا ساعتی دیگر خبر داد
 ‏
 ‏#خبر
 ‏@RASTAKHIZ_PERSIAN
@@ -1584,17 +1666,6 @@ src :@selena_updates
 
 
 
-src :@World_Newsly
-‏🔴 امارات متحده عربی اعلام کرد که یک حمله سایبری بزرگ علیه بخش‌های غیرنظامی و صنعتی خود، از جمله زیرساخت‌های انرژی و هواپیمایی، را خنثی کرده است
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-16:09
-1405/05/19
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏Ayatollah Sayyed Ali Khamenei and General Mohsen Rezaei, somewhere in the Persian Gulf, 1980s.
@@ -1719,18 +1790,6 @@ src :@tglobaleye
 src :@OSINTWarfare
 ‏Two Shabwah Defense Forces fighters were killed in Ansar Allah (Houthis) attacks targeting their positions in Bayhan District, Shabwah Governorate.
 15:49
-1405/05/19
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴رکنا : این خانم به همراه این ۵ مرد متهمین قتل حمیدرضا رجب زاده(مداح) هستن :
-‏
-‏‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-15:45
 1405/05/19
 
 
@@ -5555,19 +5614,6 @@ src :@guard_warriors
 ‏
 ‏
 ‏@PARVAZDAROJ|M.S
-20:45
-1405/05/18
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴سیدمجتبی حسینی خامنه‌ای، رهبر جمهوری اسلامی، در حکمی محسن رضایی را به‌عنوان نماینده خود در شورای‌عالی امنیت ملی منصوب کرد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
 20:45
 1405/05/18
 
