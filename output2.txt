@@ -913,15 +913,6 @@ src :@MilitiaNews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — CENTCOM says U.S. forces have redirected 55 commercial vessels, disabled 2, and boarded 2 to ensure compliance since the reinforcement of the blockade on Iranian ports.
-01:18
-1405/05/19
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏Bloomberg:
@@ -1244,18 +1235,6 @@ src :@Alibk3
 
 src :@naya_foriraq
 ‏أنباء عن أن المسيرة التي تم اسقاطها في أجواء جنوبي إيران تابعة للسعودية.
-00:53
-1405/05/19
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏Black and Brown Voters don’t want Communism or Socialism — Not surprisingly, they are flocking to the Republican Party!
-‏
-‏They remember that Abraham Lincoln was a Republican!
 00:53
 1405/05/19
 
