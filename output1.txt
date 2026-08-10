@@ -1,3 +1,20 @@
+src :@World_Newsly
+[عکس]
+‏🔥 فروش استثنایی اکانت‌های هوش مصنوعی با ۹۰٪ تخفیف
+‏
+‏💎 جمنای ادونسد پرو | طرح اساتید آمریکا | اورجینال یک‌ساله: ۸ میلیون تومان
+‏
+‏🤖 چت‌جی‌پی‌تی پلاس | یک‌ساله: ۱۲ میلیون تومان
+‏
+‏ ⚡ ظرفیت محدود | سفارش:
+‏
+‏ @Gemini_Advanced_Pro
+14:24
+1405/05/19
+
+
+
+
 src :@Fighter_Radar
 [عکس]
 ‏🇪🇹🔹نیروهای مسلح اتیوپی (ENDF) سه حمله پهپادی علیه مواضع نیروهای دفاعی تیگرای (TDF) در محور مِرِوا، جنوب منطقه تیگرای، انجام دادند.
@@ -1438,17 +1455,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 11:21
-1405/05/19
-
-
-
-
-src :@World_Newsly
-‏🔴خبرگزاری «ریا» روسیه: در پی حمله اوکراین به تاتارستان، 12 نفر کشته و 39 نفر زخمی شدند.
-‏
-‏‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-11:20
 1405/05/19
 
 
@@ -4330,45 +4336,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #Tomcat
 14:35
-1405/05/18
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏دیدگان بهتر
-‏
-‏شرکت لاکهید در نسخه block IV جنگنده F-35 نسل جدید این سیستم را به نام Advanced ETOS را توسعه داده است که قابلیت های بهتری به نسبت سیستم اولیه ارائه می کند
-‏
-‏تغییرات این نسخه به نسبت نسخه قبلی:
-‏
-‏سیستم Multispectral که از باند های SWIR و MWIR و Near IR (در نسخه قبلی تنها از MWIR استفاده میشد) که در شرایط پیچیده آب و هوایی کارایی بهتری را به نسبت گذشته دارد
-‏
-‏به کار گیری نسل جدیدتر HDTV و Detector ها که کنتراست بهتری در فواصل دورتر برای اهداف مشخص می کند و همچنین این سیستم دهانه اپتیکی بزرگتری به نسبت قبل استفاده می کند که باعث بهبود عملکرد در برد های بیشتر می شود
-‏
-‏همچنین این ارتقا بدون تغییرات گسترده در شکل و اندازه سیستم به نسبت گذشته بوده است که به طور کلی هم بر روی RCS تاثیر بسیار اندکی دارد که قابل چشم پوشی می باشد
-‏
-‏در نسخه گذشته در تمرینات هوایی موفق به کشف جنگنده F-22 Raptor در فاصله بیش از  30km شده است و همچنین گرمای حاصل از موتور موشک بالستیک را از 1100km را تشخیص داده است که به مراتب در Advanced ETOS این اعداد فراتر رفته اند
-‏
-‏2/2
-‏
-‏@Guard_Warriors | Saraph
-14:24
-1405/05/18
-
-
-
-
-src :@Exciton_missile_program
-‏I have written a brief post on my blog regarding the revelation of the GNSS positioning system in IRGC ballistic missile. This topic holds significant importance for future developments, and its relevance extends well beyond the issue of accuracy alone.🚀 …
-14:21
-1405/05/18
-
-
-
-
-src :@Exciton_missile_program
-‏I have written a brief post on my blog regarding the revelation of the GNSS positioning system in IRGC ballistic missile. This topic holds significant importance for future developments, and its relevance extends well beyond the issue of accuracy alone.🚀 …
-14:21
 1405/05/18
