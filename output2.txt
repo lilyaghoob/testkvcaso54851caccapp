@@ -1,3 +1,49 @@
+src :@Ali_bk_2
+[عکس]
+‏The Wall Street Journal:
+‏
+‏Senior Cabinet and White House officials are advising Trump that tightening existing sanctions and issuing new sanctions on Iran may be Trump’s most effective option for forcing the regime to surrender.
+02:03
+1405/05/20
+
+
+
+
+src :@Alibk3
+[عکس]
+‏وول ستريت جورنال: 
+‏
+‏كبار مسؤولي مجلس الوزراء والبيت الأبيض ينصحون ترامب بأن تشديد العقوبات الحالية وإصدار عقوبات جديدة على إيران قد يكون الخيار الأكثر فعالية لترامب في إجبار النظام على الاستسلام.
+02:03
+1405/05/20
+
+
+
+
+src :@Ali_bk_2
+‏Explosions heard in Yemen’s Ibb province, with the cause unclear so far, whether it was shelling or missile launches.
+02:01
+1405/05/20
+
+
+
+
+src :@Alibk3
+‏دوي انفجارات في محافظة إب اليمنية، من غير الواضح السبب قصف أو إطلاق صواريخ، حتى الآن.
+02:01
+1405/05/20
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇾🇪 — Explosions in Ma'rib, PLC-controlled northwestern Yemen. Ansarallah ballistic missile & UAV attack.
+02:00
+1405/05/20
+
+
+
+
 src :@wfwitness
 ‏⚡️🇾🇪 Two explosions were heard in Marib, Yemen, moments ago as the Iran-backed Houthis launched a new wave of missiles and drones toward the city.
 ‏
@@ -981,15 +1027,6 @@ src :@cataphract1
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇮🇶⚡️ — IRGC Quds forces commander Ismail Qaani arrived in Baghdad to meet with PMF figures, according to Saudi Al Arabiya.
-23:55
-1405/05/19
-
-
-
-
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: ترامپ: آمریکا هم از جمهوری‌اسلامی غرامت می‌خواهد
@@ -1276,20 +1313,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، در کاخ سفید گفت جمهوری اسلامی گاهی در تنگه هرمز مین دریایی کار می‌گذارد، اما «نیروهای آمریکایی این مین‌ها را پیدا کرده و تمام تنگه را مین‌روبی کردند».
-‏
-‏ترامپ تاکید کرد که «تنگه هرمز باز است» و آمریکا «صددرصد کنترل» آن را در اختیار دارد. او افزود آمریکا به هر کسی که بخواهد اجازه عبور می‌دهد، اما اجازه ورود کشتی‌ها به ایران از طریق تنگه را نمی‌دهد.
-‏
-‏ترامپ همچنین گفت: «ایران همچنان می‌تواند دردسر درست کند، اما ورشکسته است، کاملا ورشکسته. آنها حتی حقوق سربازانشان را هم پرداخت نمی‌کنند و با تورم دست‌وپنجه نرم می‌کنند.»
-‏https://iranintl.com/202608103891
-23:26
-1405/05/19
-
-
-
-
 src :@mohem_mat
 ‏آزاده مختاری:
 ‏
@@ -1388,16 +1411,6 @@ src :@cataphract1
 src :@intelslava
 ‏🇮🇱❌🇵🇸 — Yedioth Ahronoth:  Israeli soldier William Shakin died by suicide after suffering from post-traumatic stress disorder (PTSD) following months of combat service inside Gaza with the Golani Brigade’s 13th Battalion.  Shakin immigrated to Israel after…
 23:23
-1405/05/19
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی چشم‌انداز: ماموریت ویژه مجتبی خامنه‌ای به محسن رضایی چیست؟!
-‏@iranintlTV
-23:20
 1405/05/19
 
 
@@ -2112,24 +2125,6 @@ src :@mohem_mat
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Saudi-backed forces announce the launch of the hashtag #Sanaa_Is_Our_Date on the X platform “formerly Twitter” in response to the devastating attacks by the Yemeni forces.
-22:20
-1405/05/19
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القوات الموالية للسعودية تعلن إطلاق هاشتاغ #صنعاء_موعدنا على منصّة إكس «تويتر سابقًا» ردًا على هجمات القوات اليمنية المدمرة.
-22:20
-1405/05/19
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Israeli occupying forces have entered the village of Tel Levid, near Nablus, and are preparing to demolish the home of Farouk Ramadan and his family in the coming hours who killed two invading soldiers two weeks ago.
@@ -2267,15 +2262,6 @@ src :@Minas_Tirith2024
 src :@samueltarikh
 ‏🚨مقام ایرانی به المیادین:  تهران تا زمانی که واشنگتن شرایط تفاهم‌نامه ماه ژوئن، به ویژه لغو توقیف دارایی‌های ایران و پایان دادن به جنگ در لبنان را که هر دو از الزامات کلیدی هستند، برآورده نکند، تنگه هرمز را بازگشایی نخواهد کرد.
 21:56
-1405/05/19
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Brent crude rises 5% ($4) and approaches $88 per barrel.
-21:55
 1405/05/19
 
 
