@@ -1,6 +1,28 @@
 src :@tabzlive
-‏🇮🇱❌🇱🇧 — Over the past two hours, there has been heavier than normal IDF artillery bombardment of Ali al-Taher, southern Lebanon.
-04:37
+‏🇾🇪❌🇾🇪 — Air defenses in Aden, PLC-controlled Yemen, have been engaging Houthi (Ansarallah) drones over the past hour.  Pro-PLC media reports that air defenses stationed around the Al-Maashiq Presidential Palace were activated.
+04:45
+1405/05/19
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏ربکا گرانت، تحلیلگر امنیت ملی آمریکا، به فاکس‌نیوز گفت فشار بر تهران در پی محاصره بنادر جنوبی ایران از سوی آمریکا، تاکنون به موثرترین ابزار دیپلماتیک در جریان این درگیری تبدیل شده است.
+‏
+‏گرانت گفت: «نیروی دریایی و دیگر نیروهای نظامی آمریکا کنترل آن منطقه را در دست دارند.»
+‏
+‏او افزود: «محاصره‌ای که دوباره برقرار شده، فشار زیادی بر جمهوری اسلامی وارد کرده و این موضوع را می‌توان در فهرست خواسته‌های افراطی و غیرقابل‌قبول تهران مشاهده کرد.»
+‏
+‏گرانت تاکید کرد: «نیروی دریایی آمریکا می‌تواند این محاصره را تا هر زمان که لازم باشد ادامه دهد.»
+‏
+‏او گفت: «دو ناو هواپیمابر، ناو آبی‌ـ‌خاکی باکسر، انواع هواپیماها و سامانه‌های هوایی مستقر در پایگاه‌های زمینی، همان فشاری است که تفاوت را ایجاد خواهد کرد.»
+‏
+‏این تحلیلگر امنیت ملی آمریکا افزود: «باید برای گزینه‌های نظامی آماده باشیم، اما آنچه هفته‌های گذشته نشان داده این است که جمهوری اسلامی نمی‌تواند فشار ناشی از ناتوانی در فروش نفت را تحمل کند.»
+‏
+‏گرانت همچنین گفت: «پایانه اصلی در جزیره خارک، که حدود ۹۰ درصد نفت ایران از آنجا بارگیری می‌شود، اکنون عملا از فعالیت خارج شده است.»
+‏http
+04:44
 1405/05/19
 
 
@@ -1074,16 +1096,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump via Truth Social:
-‏51 years of bad behavior!
-00:53
-1405/05/19
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦 - False alarm, Russia is using electronic warfare methods to show 'ghost missiles' on radar systems. No missiles have been launched yet, but this could mean that they are testing response methods.  @GeoPWatch
 00:52
@@ -1811,14 +1823,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇾🇪 — The Houthis (Ansarallah) have launched a new wave of drones against Mokha, PLC-controlled Yemen.  Air defenses are currently active over the city.
-00:03
-1405/05/19
-
-
-
-
 src :@cataphract1
 ‏⚜️ کاتافراکت همواره با ارائه اطلاعات غلط که به طور فاحشی با واقعیت در تضاد هستند مقابله کرده است و با بررسی آن(فکت چک)، حقیقت را در اختیار عموم قرار داده است.  ⚜️ اخیرا که ارائه اطلاعات مبهم و داده های آماری غیرقابل اعتبارسنجی از ذخایر موشک های پدافندی در…
 00:01
@@ -2128,24 +2132,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:41
-1405/05/18
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — IDF artillery shelling against Ali al-Taher Heights, southern Lebanon.
-23:40
-1405/05/18
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇾🇪 — The Houthis (Ansarallah) have launched a new wave of drones against Mokha, PLC-controlled Yemen.
-‏
-‏Air defenses are currently active over the city.
-23:39
 1405/05/18
 
 
