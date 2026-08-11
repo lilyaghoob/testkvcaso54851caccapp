@@ -1,23 +1,65 @@
-src :@ClashReport
-[ویدئو]
-‏Quite a story: After an Iranian assassination threat, Trump was secretly switched to a different plane while leaving the NATO summit in Ankara.
+src :@rus_cosmos
+[عکس]
+‏#تاریخنگار_فضایی 
 ‏
-‏He’d arrived in Türkiye on the new Qatar-gifted 747-8 (its first international presidential trip). 
+‏در 11 آگوست 2023 فضاپیما لونا-25 روسیه توسط راکت فضایی سایوز و از پایگاه فضایی واستوچنی به فضا پرتاب شد.
 ‏
-‏For departure, he publicly boarded the older legacy Air Force One on camera, saying he wanted to fly it “for old time’s sake.”
+‏این فضاپیما قرار بود در نزدیکی قطب جنوب ماه و در دهانهٔ بگوسلوسکی فرود آید.
 ‏
-‏But minutes after boarding, he and a few aides were transferred out of sight — via an airport catering truck whose container was hydraulically raised to a door on the side away from media — onto a smaller C-32A (modified 757). 
+‏این فضاپیما پس از وارد شدن به مدار بیضوی به قصد فرود بر سطح ماه دچار شکست مانور مداری شد و بر سطح ماه سقوط کرد
 ‏
-‏The legacy 747 then flew as a decoy, still using the Air Force One call sign. 
+‏@rus_cosmos
+08:01
+1405/05/20
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#NEWS | 🇮🇱 🇮🇷 🇱🇧 — Israeli forces conducted overnight strikes and controlled demolitions across southern Lebanon, with airstrikes and artillery concentrated on al-Mansouri.
 ‏
-‏Journalists and some White House staff on board had no idea Trump wasn’t with them. 
+‏According to Lebanese media and local reports, Israeli airstrikes and artillery fire targeted the village of al-Mansouri from the afternoon onward, focusing on what the IDF described as Hezbollah operational infrastructure. Powerful explosions were also reported in the areas of al-Taybeh, Deir Seryan, Hula, and Markaba. Artillery fire resumed around the Ali al-Taher heights, where an Israeli drone dropped explosives.
 ‏
-‏They were told to keep window shades closed, which is unusual.
+‏The activity in al-Mansouri stood out amid a recent pattern of primarily ground-based operations and demolitions in the south. Israel had issued an uncommon evacuation warning for the village the previous week, citing renewed Hezbollah activity as residents began returning through Lebanese army checkpoints.
 ‏
-‏Both planes landed at RAF Mildenhall in the UK minutes apart. 
+‏The Global Eye | Subscribe ✈️
+08:01
+1405/05/20
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏A Saudi medical evacuation aircraft departed from the border town of Sharurah to evacuate Saudi officers and soldiers wounded in the recent Yemeni attacks on mobilization camps in Marib, before landing at Riyadh International Airport.
+07:58
+1405/05/20
+
+
+
+
+src :@Alibk3
+[عکس]
+‏طائرة إخلاء طبي سعودية أقلعت من مطار شرورة الحدودي لإجلاء ضباط وجنود سعوديين مصابين جراء الهجمات اليمنية الأخيرة على معسكرات التحشيد في مأرب، قبل أن تهبط في مطار الرياض الدولي.
+07:58
+1405/05/20
+
+
+
+
+src :@jangaavaran1390
+‏پهپادهای ناشناس بر فراز دیگو گارسیا؛ نگرانی جدید برای پایگاه راهبردی آمریکا
 ‏
-‏Source: The Washington Post
-07:56
+‏ چند مورد مشاهده پهپاد ناشناس بر فراز یا اطراف تأسیسات مشترک آمریکا و بریتانیا در جزیره دیگو گارسیا در اقیانوس هند گزارش شده است؛ جزیره‌ای بسیار دورافتاده که یکی از مهم‌ترین پایگاه‌های راهبردی آمریکا در منطقه محسوب می‌شود. 
+‏
+‏این پایگاه علاوه بر باند هوایی بزرگ، برای عملیات بمب‌افکن‌های آمریکایی، پشتیبانی از نیروهای فضایی، حضور شناورهای نیروی دریایی و پشتیبانی لجستیکی مورد استفاده قرار می‌گیرد.
+‏
+‏ منشأ پهپادها مشخص نیست.
+‏وزارت دفاع بریتانیا تأیید کرده که گزارش‌هایی درباره مشاهده پهپاد دریافت شده، اما حاضر نشده درباره نوع پهپاد، زمان دقیق مشاهده، عامل آن یا اقدامات دفاعی انجام‌شده توضیح بدهد. فرماندهی اقیانوس آرام آمریکا نیز گفته به دلایل امنیت عملیاتی درباره جزئیات اقدامات حفاظتی پایگاه صحبت نمی‌کند. 
+‏
+‏نکته مهم‌تر این است که دیگو گارسیا یک جزیره تقریباً بسته و بسیار دورافتاده است و فعالیت تفریحی یا غیرنظامی معمولی که بتواند حضور پهپادها را توضیح دهد، در آن بسیار محدود است.
+07:58
 1405/05/20
 
 
@@ -1781,28 +1823,6 @@ src :@ClashReport
 ‏
 ‏Mansouri was appointed intelligence director in May 2024 and previously commanded the Sebha military zone.
 01:23
-1405/05/20
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏A Saudi attempt to break Iranian control over the Strait of Hormuz..
-‏
-‏More than 15 Saudi tankers are heading to ports in Oman or the UAE.
-01:14
-1405/05/20
-
-
-
-
-src :@Alibk3
-[عکس]
-‏محاولة سعودية لكسر السيطرة الإيرانية على مضيق هرمز..
-‏
-‏أكثر من 15 ناقلة سعودية متجهة إلى موانئ سلطنة عمان أو الإمارات.
-01:13
 1405/05/20
 
 
