@@ -1,3 +1,38 @@
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇸🇩 — RSF Claims Capture of Geissan Border Town in Southeast Sudan
+‏
+‏Sudan’s Rapid Support Forces (RSF) and allied fighters say they have taken the strategic border town of Geissan (also spelled Geissan/Qaysan) in Blue Nile State, southeast of Ad Damazin.
+‏
+‏Local authorities and an army source confirmed an attack on the town and surrounding farms Tuesday morning by the RSF and a faction of the Sudan People’s Liberation Movement-North (SPLM-N). The Sudanese Armed Forces stated they are confronting the assault and have inflicted heavy losses. An army source told AFP the attack was launched from inside Ethiopian territory.
+‏
+‏The RSF’s parallel administration claimed its forces “liberated” the town. Independent verification of full control remains pending, and fighting continues in the area. Geissan lies near the Ethiopian border (roughly 60 km from Kurmuk, which the army retook last month). Sudanese authorities have repeatedly accused the RSF of using Ethiopian territory as a staging ground; Ethiopia has rejected such claims.
+‏
+‏(Map: Rerum Novarum)
+‏
+‏The Global Eye | Subscribe ✈️
+19:19
+1405/05/20
+
+
+
+
+src :@Ali_bk_2
+‏Satellite images show the aftermath of a drone attack on the Zawiya oil refinery in Libya.
+19:19
+1405/05/20
+
+
+
+
+src :@Alibk3
+‏صور الأقمار الصناعية تظهر آثار هجوم بطائرة مسيرة على مصفاة الزاوية النفطية الليبية.
+19:19
+1405/05/20
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Axios:  The International Atomic Energy Agency will soon remove nuclear materials stored inside a secret site in Syria.  The removal of nuclear materials from Syrian territory comes after US understandings with Damascus and Tel Aviv.
@@ -7,9 +42,29 @@ src :@Ali_bk_2
 
 
 
+src :@jangaavaran1390
+‏محسن رضایی، دبیر شورای عالی امنیت ملی :  تا زمانی که آمریکا با شرایط ایران، از جمله پایان جنگ در غزه و لبنان، موافقت نکند، تنگه هرمز باز نخواهد شد. و اگر به توافقی بین ایران و عمان در مورد مسیرهای تردد در این تنگه برسیم، این موضوع جداگانه از مسئله بستن هرمز…
+19:18
+1405/05/20
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏أكسيوس:   الوكالة الدولية للطاقة الذرية ستزيل قريبًا مواد نووية مخزنة داخل موقع سري في سوريا.  إزالة المواد النووية في الأراضي السورية تأتي بعد تفاهمات أمريكية مع دمشق وتل أبيب.
+19:18
+1405/05/20
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏حمید حسینی، سخنگوی اتحادیه صادرکنندگان فرآورده‌های نفت، گاز و پتروشیمی، اعلام کرد بخشی از بنزین تولیدی پالایشگاه‌های قدیمی کیفیت پایین‌تری دارد و با بنزین باکیفیت مخلوط می‌شود.
+‏
+‏حسینی افزود در شرایط فعلی امکان واردات بنزین وجود ندارد.
+‏https://iranintl.com/202608118107
 19:18
 1405/05/20
 
@@ -3135,27 +3190,6 @@ src :@mohem_mat
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏سامانه مرموز روی ناو آزمایشی چین
-‏
-‏تصاویر جدید نشان می‌دهد چین یک سامانه ناشناس را روی ناو آزمایشی رادارگریز خود نصب کرده است.
-‏
-‏ یک احتمال، سلاح صوتی برای مختل‌کردن خدمه است.
-‏
-‏ احتمال دیگر، سلاح مایکروویو پرقدرت برای از کار انداختن پهپادها و مقابله با حملات انبوه پهپادی است.
-‏
-‏چین پیش‌تر نمونه زمینی چنین سامانه‌هایی را آزمایش کرده، اما هنوز عملکرد سامانه دریایی جدید تأیید نشده است.
-‏
-‏ این ناو یک پلتفرم آزمایشی است و چین از آن برای آزمایش فناوری‌های جدید جنگ دریایی استفاده می‌کند.
-‏
-‏#چین #پهپاد #نیروی_دریایی #سلاح_مایکروویو
-15:40
-1405/05/20
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇺🇦🇲🇩🇷🇴⚡️ — Ukraine is considering moving grain exports by rail through Moldova to Romania’s port of Constanța as a safer alternative to Black Sea shipping amid increased Russian attacks on Ukrainian ports and vessels, Reuters reports.
@@ -3656,22 +3690,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 14:41
-1405/05/20
-
-
-
-
-src :@Ali_bk_2
-‏The British navy confirms the occurrence of a security incident in the Bab al-Mandab after a Saudi ship was targeted this morning.
-14:38
-1405/05/20
-
-
-
-
-src :@Alibk3
-‏البحرية البريطانية تؤكد وقوع حدث أمني في باب المندب بعد استهداف سفينة سعودية صباح اليوم.
-14:38
 1405/05/20
 
 
@@ -6745,26 +6763,4 @@ src :@samueltarikh
 ‏
 ‏آمریکا همچنان حضور خود را در زمینه سوخت‌رسانی هوایی در فرودگاه بن‌گوریون کاهش می‌دهد، به طوری که تعداد هواپیماهای تانکر اکنون به سطحی نزدیک به زمان آتش‌بس رسیده است، زمانی که تقریباً 20 فروند از این هواپیماها در این فرودگاه مستقر بودند
 19:26
-1405/05/19
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
-‏
-‏Original text in comments
-‏ترجمه خودکار فارسی در بخش نظرات
-‏
-‏𝕏  ·  @shin_persian
-19:20
-1405/05/19
-
-
-
-
-src :@samueltarikh
-‏🔶 رسانه رهبر انقلاب از انتشار احکام انتصاب تنی چند از فرماندهان بلندپایه نظامی جمهوری اسلامی ایران توسط رهبر انقلاب تا ساعتی دیگر خبر داد  #خبر @RASTAKHIZ_PERSIAN
-19:20
 1405/05/19
