@@ -1,3 +1,98 @@
+src :@mwarmonitor
+‏🔴 وال استریت ژورنال: نیروهای آمریکایی به سمت یک کشتی که پرچم پاناما را به اهتزاز درآورده بود و قصد نقض محاصره بنادر ايران را داشت، شلیک کردند.
+‏
+‏@mwarmonitor
+15:58
+1405/05/20
+
+
+
+
+src :@mohem_mat
+‏وزیر دفاع پاکستان به بلومبرگ: 
+‏
+‏آمریکا و ایران به دستیابی به نوعی توافق و صلح پایدار نزدیک شده‌اند.
+‏
+‏ نشانه‌ها در چند روز گذشته نشان می‌دهد که ما به توافق صلح نزدیک شده‌ایم
+‏
+‏@mohem_mat
+15:57
+1405/05/20
+
+
+
+
+src :@naya_foriraq
+‏قوات العدو الأمريكي تطلق النار على سفينة ترفع علم بنما قرب مضيق هرمز
+15:56
+1405/05/20
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏It appears that the US military targeted a ship and carried out a landing operation on it in the Gulf of Oman.
+15:56
+1405/05/20
+
+
+
+
+src :@Alibk3
+[عکس]
+‏يبدو أن الجيش الأميركي استهدف سفينةً ونفّذ عملية إنزال عليها في خليج عُمان.
+15:56
+1405/05/20
+
+
+
+
+src :@ClashReport
+‏NEW: U.S. forces fired on the Panama-flagged Vela Nova after it allegedly attempted to break the naval blockade of Iranian ports.
+‏
+‏A U.S. military helicopter struck the ship’s rudder in the Gulf of Oman. 
+‏
+‏All 17 crew members were reported safe.
+‏
+‏Source: WSJ
+15:55
+1405/05/20
+
+
+
+
+src :@naya_foriraq
+‏قوات العدو الأمريكي تطلق النار على سفينة ترفع علم بنما قرب مضيق هرمز
+15:55
+1405/05/20
+
+
+
+
+src :@P_raetorio
+‏گزارش‌ها از حمله هوایی جنگنده‌های عربستانی به هدفی در استان صعده یمن
+‏
+‏@P_raetorio
+15:54
+1405/05/20
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Ukrainian Drones Destroy Air Defenses Shielding Putin's Holiday Palace
+‏
+‏Ukrainian long-range drones have destroyed an S-400 missile launch pad deployed near Vladimir Putin's lavish Black Sea estate.
+‏
+‏READ MORE
+15:54
+1405/05/20
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇩🇪 — German Interior Minister Alexander Dobrindt moves to turn the BfV into an operational intelligence service
@@ -611,6 +706,7 @@ src :@Indypersian
 
 
 src :@wfwitness
+[عکس]
 ‏⚡️🇬🇧 FT: Nick Blair, son of former British Prime Minister Tony Blair, has incorporated a London-based defence technology company called Pyra Group and is in discussions to raise $200 million from investors. Pyra is described as building technology that integrates different systems into a single platform. Blair incorporated the company last November and is its sole listed officer.
 ‏
 ‏The fundraising comes amid broader surge in European defence investment. VC funds had invested $12.3 billion into defence technology companies by late June, nearly double the figure from the same period last year and above the $9.95 billion raised across all of 2024. In the UK alone, Cambridge Aerospace announced a $300 million raise on Monday valuing it at $3.4 billion, while maritime drone firm Kraken Technology Group carries a valuation of approximately $1 billion.
@@ -2528,22 +2624,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@naya_foriraq
-‏الله اكبر
-12:39
-1405/05/20
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
-12:39
-1405/05/20
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏The aftermath of the attack on the ship in the Bab al-Mandeb Strait.
@@ -2849,17 +2929,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: Damascus criminal court sentenced former Assad-era officer Atef Najib to death for premeditated murder and torture. 
-‏
-‏Najib, Bashar al-Assad’s cousin, was accused of overseeing the torture of detainees, including children, and responsibility for multiple deaths.
-11:54
-1405/05/20
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏اکبر چراغی، شهروند ۳۵ ساله ناشنوا و دارای اختلال گفتار، روز ۱۸ دی ۱۴۰۴ در جریان اعتراضات در تهران هدف تیراندازی نیروهای حکومتی قرار گرفت و جان خود را از دست داد.
@@ -2867,15 +2936,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 11:54
-1405/05/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏🛢️ Oil rebounded from below $80 to ~$89 Brent, nearing $90, as hopes for a US-Iran deal to reopen the Strait of Hormuz fade.
-11:53
 1405/05/20
 
 
@@ -3189,24 +3249,6 @@ src :@KayhanLondonChannel
 ‏
 ‏از سوی دیگر در حالیکه شروط جدیدی از سوی جمهوری اسلامی برای بازگشایی تنگه هرمز مطرح شده، دونالد ترامپ نیز موضوع دریافت غرامت از جمهوری اسلامی بابت اقدامات تروریستی سالهای گذشته و کشتار شهروندان در اعتراضات دی۴۰۴ را مطرح کرده است.
 11:22
-1405/05/20
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏The killing of two Pakistanis and an Indonesian in the targeting of the ship in the Bab al-Mandeb Strait.
-11:20
-1405/05/20
-
-
-
-
-src :@Alibk3
-[عکس]
-‏مقتل باكستانيان وإندونيسي في استهداف السفينة بباب المندب.
-11:19
 1405/05/20
 
 
@@ -4134,19 +4176,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 07:03
-1405/05/20
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏توییت مشاور قالیباف 
-‏
-‏با موضوع رازگشایی از وقایع جابجایی دبیر شعام
-‏
-‏@mohem_mat
-07:02
 1405/05/20
 
 
@@ -6193,17 +6222,6 @@ src :@VahidOnline
 
 
 
-src :@defence_news
-[عکس]
-‏📣 تا ساعتی دیگر احکام انتصاب تنی چند از فرماندهان بلندپایه نظامی جمهوری اسلامی ایران توسط فرمانده معظم کل قوا منتشر خواهد شد.
-‏
-‏@mashreghnews_channel
-18:32
-1405/05/19
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇷🇺🌹🤝🏴☪️ — The Muslim Brotherhood’s official website has openly celebrated Islamic-Communist Abdul El-Seyed’s win.
@@ -6471,22 +6489,6 @@ src :@Mena_Live
 
 
 
-src :@defence_news
-‏💢تبلیغات در کانال وقایع
-‏عرض سلام خدمت مخاطبین گرامی !
-‏
-‏
-‏برای  تبلیغات در کانال ما با هزینه بسیار مناسب(جای دیگه پیدا نمیکنی)  به کانال زیر  مراجعه کنید تعرفه ها و آیدی ادمین تبلیغاتو گذاشتم 👇👇
-‏
-‏https://t.me/tablighatvaghaye
-‏https://t.me/tablighatvaghaye
-‏https://t.me/tablighatvaghaye
-16:49
-1405/05/19
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Ansar Allah (Houthis) released footage showing the launch of ballistic missiles and one-way attack UAVs (OWA-UAVs) targeting troop concentrations and ammunition depots belonging to Saudi-backed forces in Mokha (Mocha/Mukha), southwestern Yemen.
@@ -6511,27 +6513,4 @@ src :@Artemis_Force
 src :@Artemis_Force
 ‏در رابطه با جزیره خارک!!!  دونالد ترامپ از ابتدا جنگ رمضان ( عملیات خشم حماسی) بار ها در رابطه با تصرف خارک صحبت کرده است، حقیقتا جزیره خارک از لحاظ ارزش مادی یکی از با ارزش ترین مناطق کشور تلقی میشه، دلیل ش هم مشخص است، منابع نفتی و از همه مهم تر پایانه نفتی…
 16:03
-1405/05/19
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‌‏ ‌‏ ‏ 
-‏جدیدترین آمار مهاجرت نخبگان از ایران؛ آمریکا و امارات مقاصد اصلی جوانان دانش‌آموخته
-‏
-‏- قائم‌ مقام «بنیاد ملی نخبگان» با اعلام آمار جدیدی از مهاجرت نخبگان از ایران گفته، بیشترین مهاجرت نخبگان در سنین ۲۷ تا ۳۳ سالگی انجام می‌شود.
-‏
-‏- بر اساس این آمار برای رشته‌های غیرپزشکی، مقاصد اصلی شامل آمریکا (۳۶ درصد)، کانادا (۲۴ درصد)، آلمان (۷ درصد) و انگلستان (۵ درصد) است.
-‏
-‏- در جامعه پزشکی نیز امارات با ۲۲ درصد، کانادا با ۲۰ درصد، آلمان با ۱۳ درصد و استرالیا با ۱۱ درصد، بیشترین مقاصد مهاجرتی را تشکیل می‌دهند.
-‏
-‏- دولت بجای فراهم آوردن زیرساخت‌های رفاهی و امنیت شغلی برای نخبگان و دیگر دانش‌آموختگان با ایجاد دست‌انداز در مسیر مهاجرت این افراد تلاش کرده تا نرخ مهاجرت را کاهش دهد.
-‏
-‏- در سال جاری آزادسازی مدارک دانشگاهی در ایران با تأیید دیوان عدالت اداری و مصوبات وزارت علوم و بهداشت، بین ۱۰ تا ۳۰ برابر درصد در رشته‌های مختلف افزایش یافت.
-‏
-‏- همچنین رقم وثیقه مورد نیاز برای مشمولان سربازی برای دریافت معافیت تحصیلی خارج از کشور نیز از ۸۰ میلیون تومان در سال گذشته به ۲۰۰ میلیون تومان افزایش یافته است.
-‏
-‏https://kayhan.london/1405/05/19/406469/
-15:56
 1405/05/19
