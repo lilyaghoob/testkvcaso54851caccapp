@@ -868,18 +868,6 @@ src :@DEJradio
 
 
 
-src :@IranintlTV
-[عکس]
-‏محمدرضا نقدی، مشاور عالی فرمانده کل سپاه پاسداران، در صداوسیما گفت: «باید بتوانیم عملیات را به خاک و سرزمین دشمن منتقل کنیم و دور از سرزمین خودمان عملیات انجام دهیم.»
-‏
-‏او افزود: «در حال حاضر، سپاه پاسداران مکلف شده است این توانمندی را ایجاد کند و در زمان مقتضی بتواند چنین عملیاتی را انجام دهد.»
-‏https://iranintl.com/202608110828
-00:12
-1405/05/21
-
-
-
-
 src :@tabzlive
 ‏🇷🇺🇺🇦⚡️ — Russian preparations for their next large-scale missile/UAV attack has begun. At least one Tu-95MS strategic bomber flew to Oleyna AB to be equipped with Kh-101 cruise missiles, and more are expected to be equipped in the next few days.
 ‏
@@ -1675,18 +1663,6 @@ src :@Middle_East_Spectator
 ‏
 ‏It also renewed its warning to Yemenis fighting alongside Saudi-backed forces, urging them to withdraw "before it is too late."
 22:48
-1405/05/20
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇾🇪🇸🇦 — Yemen’s Houthis (Ansarallah) announced that they struck Saudi troop concentrations, weapons depots, and command centers in the Mokha area and at Tadaween camp in Marib with a large-scale barrage of ballistic missiles and drones, leaving dozens killed or wounded, including Saudi personnel.
-‏
-‏The group says it will continue targeting Saudi military buildups that are intended to escalate the conflict. 
-‏
-‏It also renewed its warning to Yemenis fighting alongside Saudi-backed forces, urging them to withdraw "before it is too late."
-22:45
 1405/05/20
 
 
