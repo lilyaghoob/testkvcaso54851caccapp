@@ -1,3 +1,46 @@
+src :@naya_foriraq
+[عکس]
+‏📈استمرار ارتفاع أسعار النفط وسط تصاعد التوترات في المنطقة حيث وصل سعر برميل النفط الواحد إلى ما يقارب 90 دولار والارتفاع مستمر.
+10:27
+1405/05/20
+
+
+
+
+src :@WAR_ROOM_NEWS
+[ویدئو]
+‏حملات روسیه به اوکراین
+10:27
+1405/05/20
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇨🇳⚡️ — China accounts for over 97% of the global market for humanoid robots, significantly outpacing its American competitors, according to Bloomberg, citing data from Smart Analytics Global.
+‏
+‏In the first half of 2026, approximately 19,100 humanoid robots were delivered worldwide – nearly four times more than in the same period last year.  Deliveries for the entire current year are expected to reach around 60,000 units, and by 2030, they are projected to reach 500,000.
+‏
+‏The largest manufacturer is Shanghai-based Agibot, which delivered approximately 8,400 robots in six months, capturing 44% of the global market. It surpassed Unitree Robotics from Hangzhou, which delivered 5,900 robots.
+‏
+‏The volumes of both Chinese companies significantly exceed the deliveries of leading American manufacturers – Tesla, Figure AI, and Agility Robotics.
+‏
+‏Furthermore, the purpose of the robots is also changing. While about half of the deliveries last year were for industrial and commercial use, that figure is now over 70%.  Although the number of humanoid robots actually performing economically useful work remains relatively small, government support and funding in China are accelerating their adoption.
+‏
+‏Bloomberg notes that China's advantage is particularly noticeable against the backdrop of rapid industry development. At the World Artificial Intelligence Conference in Shanghai, dozens of Chinese manufacturers presented new models with improved speed, agility, and functionality.
+‏
+‏However, geopolitical risks could slow down further market development. At the end of July, the United States banned the import of new Chinese humanoid and four-legged robots, as well as some components, citing risks to national and cybersecurity.
+‏
+‏Nevertheless, Chinese robotics companies are currently attracting record investments and have no intention of slowing down.
+‏
+‏@Intelslava
+10:27
+1405/05/20
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Brent crude jumps $2, approaching $90 per barrel.
@@ -20,9 +63,9 @@ src :@mamlekate
 [عکس]
 ‏عرضه مسکن سانتی‌متری!
 ‏
-‏۱. باز هم تحقیر مردم علاوه بر اینکه جیبشون رو خالی می‌کنند #بورس
-‏
-‏۲. پنج سال دیگه: فرار اختلاس‌گران طرح مسکن سانتی‌متری.
+‏- وقتی میخوای از عن‌ کره بگیری!
+‏- باز هم تحقیر مردم علاوه بر اینکه جیبشون رو خالی می‌کنند #بورس
+‏- پنج سال دیگه: فرار چند هزار کیلومتری اختلاس‌گران طرح مسکن سانتی‌متری.
 ‏
 ‏@mamlekate
 10:23
@@ -2408,16 +2451,6 @@ src :@ClashReport
 
 
 
-src :@WAR_ROOM_NEWS
-‏ژنرال فوذی المنصوری، رئیس سازمان اطلاعات نظامی ارتش ملی لیبی (LNA) در منطقه شرقی کشور، که تحت فرماندهی خلیفه حفتر فعالیت می‌کرد، در یک انفجار ماشین مقابل خانه‌اش در بنغازی کشته شد.
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-01:28
-1405/05/20
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Major General Fawzi al-Mansouri, Director of Military Intelligence for eastern Libya's LNA under Khalifa Haftar, was killed in a car bombing outside his home in Benghazi. 
@@ -3071,17 +3104,6 @@ src :@intelslava
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏ایالات متحده به توافقی با سوریه و آژانس بین‌المللی انرژی اتمی (IAEA) دست یافته است تا مواد هسته‌ای را از یک مرکز مخفی سوری به نام "سایت 99" خارج کند.این مرکز حاوی اورانیوم غنی‌شده (یولوت) و سایر بقایای برنامه هسته‌ای سابق سوریه به نام "ال-کبار" است. این مواد نمی‌توانند مستقیماً برای ساخت سلاح هسته‌ای استفاده شوند، اما به طور بالقوه می‌توانند در ساخت یک "بمب کثیف" به کار روند.سوریه با این شرط که آژانس بین‌المللی انرژی اتمی (IAEA) بتواند این مواد را خارج کند، با این اقدام موافقت کرد. این موافقت در پی تلاش‌های دیپلماتیک به رهبری ایالات متحده حاصل شد.
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-23:16
-1405/05/19
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏Those Sicilian fishermen don’t stand a chance, my money is on Juventus 🇮🇹🇮🇹 
@@ -3158,18 +3180,6 @@ src :@selena_updates
 ‏With this decision, Colombia reaffirms its commitment to the pursuit of a stable and lasting peace in the Middle East.
 ‏
 ‏This statement is published in accordance with the commitment made by both nations on Saturday, August 8
-23:10
-1405/05/19
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏اظهارات ترامپ درباره ایران:
-‏
-‏همانطور که احتمالاً شنیده‌اید، ما تمام تنگه را پاکسازی مین کرده‌ایم. شاید شما این را نشنیده باشید.ما کنترل ۱۰۰ درصدی این تنگه را در اختیار داریم.
-‏
-‏🆔️‌@WAR_ROOM_NEWS
 23:10
 1405/05/19
 
