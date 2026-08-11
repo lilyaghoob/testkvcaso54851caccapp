@@ -1,3 +1,15 @@
+src :@World_Newsly
+[عکس]
+‏🔴اطلاعاتی در مورد حسین طائب، فرمانده جدید بسیج
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+14:15
+1405/05/20
+
+
+
+
 src :@OSINTWarfare
 ‏🇺🇦⚡️ — Servicemen from the 121st Brigade of the Ukrainian Armed Forces have appealed to the newly appointed Commander-in-Chief, Dmytro Drapatyi, complaining that they have received no rotations since April, while also facing severe shortages of food and water.
 ‏
@@ -5,6 +17,27 @@ src :@OSINTWarfare
 ‏
 ‏@IntelSlava
 14:13
+1405/05/20
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴پست جدید پرزیدنت ترامپ:  می‌بینم که نمایندگان جمهوری اسلامی ایران برای خساراتی که در طول درگیری نظامی پنج‌ماهه گذشته (که به این دلیل آغاز شد که آنها سلاح هسته‌ای نخواهند داشت) به آنها وارد شده، درخواست غرامت می‌کنند، در حالی که این موضوع هرگز در هیچ‌یک از…
+14:13
+1405/05/20
+
+
+
+
+src :@intelslava
+‏🇺🇦⚡️ — Servicemen from the 121st Brigade of the Ukrainian Armed Forces have appealed to the newly appointed Commander-in-Chief, Dmytro Drapatyi, complaining that they have received no rotations since April, while also facing severe shortages of food and water.
+‏
+‏According to the servicemen, the conditions have become so desperate that they have been forced to “drink their own urine” in order to survive.
+‏
+‏@IntelSlava
+14:12
 1405/05/20
 
 
@@ -56,24 +89,6 @@ src :@rnintel
 src :@rnintel
 ‏🇺🇸🇦🇪🇷🇺⚡- The U.S. has sold two Russian ghost tankers it had seized in January to UAE's Global Marketing Systems, GMS. GMS will dismantle and scrap the two Russian vessels, ERA and LILEO, at its scrapyards in India.
 14:09
-1405/05/20
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Targeting of a camp belonging to the Iranian terrorist opposition with drones in Soran, on the outskirts of Erbil in Iraqi Kurdistan, with columns of smoke rising.
-14:07
-1405/05/20
-
-
-
-
-src :@Alibk3
-[عکس]
-‏استهداف معسكر للمعارضة الإيرانية الإرهابية بطائرات مسيرة في سوران في ضواحي أربيل بكردستان العراق وتصاعد لأعمدة الدخان.
-14:07
 1405/05/20
 
 
@@ -1697,18 +1712,6 @@ src :@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 11:57
-1405/05/20
-
-
-
-
-src :@World_Newsly
-‏‏🔴 احتمال شنیدن صدای انفجار در جنوب اصفهان
-‏‏ سپاه اصفهان اعلام کرده که ممکنه تا ساعت ۱۴ امروز، صدای انفجارهای کنترل‌شده‌ای در مناطق صفه، بهارستان و اطراف اون‌ها شنیده بشه.
-‏‎
-‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-11:55
 1405/05/20
 
 
