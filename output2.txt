@@ -1,3 +1,41 @@
+src :@World_Newsly
+‏🔴منابع عراقی خبر از شنیده شدن صدای انفجار در اربیل عراق میدهند
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+01:29
+1405/05/21
+
+
+
+
+src :@Ali_bk_2
+‏A large fire in Erbil, with the cause still unknown.
+01:28
+1405/05/21
+
+
+
+
+src :@Alibk3
+‏حريق كبير في أربيل دون معرفة الأسباب حتى الآن.
+01:28
+1405/05/21
+
+
+
+
+src :@World_Newsly
+‏🔴به گفته شهروندان تهرانی ، صدایی مثل جنگنده در اسمان برخی مناطق تهران شنیده میشه ، عده‌ای دیگر هم گزارش دادند پرواز هواپیما در ارتفاع پایین هست
+‏
+‏‌✍🏻 SLXUGHTER
+‏▪️@World_Newsly
+01:27
+1405/05/21
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏بنیاد عبدالرحمن برومند برای حقوق بشر در ایران در شبکه اجتماعی ایکس نوشت جمهوری اسلامی از ابتدای سال ۲۰۲۶ تاکنون، دست‌کم ۹۱۶ حکم اعدام را اجرا کرده است که ۱۵ مورد از آنها در ماه جاری میلادی انجام شده‌اند.
@@ -762,18 +800,6 @@ src :@Indypersian
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 اینفوگرافیک از موشک بالستیک شهاب ۳
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-00:00
-1405/05/21
-
-
-
-
 src :@Artemis_Force
 ‏https://t.me/taskforceads
 ‏
@@ -855,18 +881,6 @@ src :@jangaavaran1390
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 اینفوگرافیک از موشک بالستیک شهاب ۲
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-23:55
-1405/05/20
-
-
-
-
 src :@cataphract1
 ‏کاتافراکت pinned a photo
 23:54
@@ -942,17 +956,6 @@ src :@selena_updates
 ‏The 2 sides agreed to re-establish consular services and create a formal coordination channel between their governments. 
 ‏
 ‏The agreement marks the first official bilateral mechanism since Venezuela severed relations with Israel in 2009 and will allow both countries to provide consular assistance to their citizens while opening the door to broader diplomatic normalization. The move represents a significant geopolitical shift for Caracas, historically closely aligned with Iran, and follows growing cooperation between Venezuela’s new government and Israel.
-23:53
-1405/05/20
-
-
-
-
-src :@World_Newsly
-‏🔴الجزیره:رئیس‌جمهور، آقای پزشکیان، پیامی را از نخست‌وزیر و فرمانده ارتش پاکستان دریافت کرده است.
-‏
-‏✍🏻 SLXUGHTER
-‏▪️@World_Newsly
 23:53
 1405/05/20
 
@@ -3147,22 +3150,6 @@ src :@didarnews1
 
 
 
-src :@Ali_bk_2
-‏The sound of two explosions was heard in Yemen’s Marib province.
-20:43
-1405/05/20
-
-
-
-
-src :@Alibk3
-‏سماع دوي انفجارين في محافظة مأرب اليمنية.
-20:43
-1405/05/20
-
-
-
-
 src :@naya_foriraq
 ‏🇾🇪سماع دوي انفجارين متتاليين في مأرب.
 20:43
@@ -3297,17 +3284,6 @@ src :@guard_warriors
 ‏
 ‏
 ‏@Guard_Warriors
-20:33
-1405/05/20
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Iranian Supreme National Security Council Secretary Mohsen Rezaei:
-‏
-‏‏Iran’s message is clear: the Strait of Hormuz will not be reopened until the United States ends the war and blockade, releases Iran’s frozen assets, and agrees to a comprehensive regional ceasefire, including Lebanon and Gaza. The strait will remain closed until all conditions are met.
 20:33
 1405/05/20
 
@@ -4425,17 +4401,6 @@ src :@P_raetorio
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇮🇱‏نتنياهو: الجولان أرضنا وستظل دائما لإسرائيل.
-‏
-‏🇸🇾رد الجولاني: حكم على بشار الاسد بالاعدام.
-18:40
-1405/05/20
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‏ ‌‏ ‏ 
@@ -4778,14 +4743,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:12
-1405/05/20
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶 انفجار عبوة ناسفة بالدجيل جنوب صلاح الدين ؛ اثنان شهداء كحصيلة اولية
-18:11
 1405/05/20
 
 
