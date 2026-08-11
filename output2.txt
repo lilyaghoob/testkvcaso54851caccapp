@@ -5284,19 +5284,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇬🇧👀🇨🇳 - The UK Ministry of Defense has discovered that the Royal Navy’s new fleet of spy drones have been secretly transmitting information from the drone's camera to China, according to The Telegraph.
-‏
-‏The camera was reportedly secretly transmitting data to a device and IP address in China.
-‏
-‏@GeoPWatch
-17:15
-1405/05/19
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏آخرین شرح حال محاصره دریایی ایران به نقل از 
@@ -5497,18 +5484,6 @@ src :@KayhanLondonChannel
 ‏
 ‏https://kayhan.london/1405/05/19/406469/
 15:56
-1405/05/19
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❗️- The Iranian President claims to have met with Mojtaba Khamenei, stating that their meeting lasted 7 hours.
-‏
-‏Despite this claim, Mojtaba Khamenei has not made a public appearance, nor has there been independently verified proof of life, for 5 months and 2 days since assuming office.
-‏
-‏@GeoPWatch
-15:54
 1405/05/19
 
 
