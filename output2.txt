@@ -1,5 +1,96 @@
 src :@Ali_bk_2
 [عکس]
+‏Coinciding with the arrival of a UAE government aircraft, the Pakistani interior minister's aircraft also headed toward Tehran.
+15:31
+1405/05/20
+
+
+
+
+src :@Alibk3
+[عکس]
+‏بالتزامن مع وصول طائرة حكومية إماراتية، طائرة وزير الداخلية الباكستاني أيضًا اتجهت نحو طهران.
+15:31
+1405/05/20
+
+
+
+
+src :@MilitarryWorld
+‏🔴سخنگوی کمیسیون انرژی مجلس اعلام کرد: افزایش قیمت بنزین فعلاً منتفی است
+‏
+‏@MilitarryWorld | Parsa
+15:31
+1405/05/20
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻در پایان مجمع انتخاباتی فدراسیون پرورش اندام، مجتبی ملکی به‌عنوان رییس این فدراسیون انتخاب شد. در دور اول این رای‌گیری، مجتبی ملکی ۱۹ رای و محمد نصیری ۱۲ رای کسب کردند تا انتخابات راهی دور دوم شود.
+‏
+‏🔹در دور دوم نیز مجتبی ملکی با کسب ۳۵ رای از ۵۱ رای به مدت ۴ سال به‌عنوان رییس فدراسیون بدنسازی و پرورش اندام انتخاب شد.
+‏
+‏🔹مجتبی ملکی در دهه هشتاد از چهره‌های شاخص مسابقات قوی‌ترین مردان ایران، «مردان آهنین»، به شمار می‌رفت.
+‏
+‏@iranintltvsport
+15:30
+1405/05/20
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏طائرة من طراز بوينغ 737 تابعة للأسطول الملكي الإماراتي A6-RJA تحلق من أبو ظبي إلى طهران
+‏
+‏‏هل ستتجه المزيد من الجزية الإماراتية إلى إيران، أم أن مسؤولاً إماراتياً رفيع المستوى يقوم بزيارة؟
+15:30
+1405/05/20
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇾🇪/🇸🇦 NEW: The Yemeni Armed Forces targeted a Saudi cargo vessel in the Red Sea, resulting in deaths
+‏
+‏@Middle_East_Spectator
+15:29
+1405/05/20
+
+
+
+
+src :@ClashReport
+[عکس]
+‏German Interior Minister Alexander Dobrindt plans to transform the BfV domestic intelligence agency into a more operational service with powers to disrupt terrorism, sabotage and foreign espionage. 
+‏
+‏The proposed reform would allow cyber operations, device infiltration, data manipulation and AI-based mass data analysis, alongside a major expansion of personnel and capabilities.
+‏
+‏Source: BILD
+15:28
+1405/05/20
+
+
+
+
+src :@World_Newsly
+‏🔴ادعای حمید رسایی:
+‏
+‏مردم ایران ناشکر هستند. برکات جمهوری اسلامی در هیچ کجای دنیا نیست ولی اونا قدرشو نمیدونن.
+‏
+‏✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️ @World_Newsly
+‏‌
+15:27
+1405/05/20
+
+
+
+
+src :@Ali_bk_2
+[عکس]
 ‏A UAE government aircraft takes off from Abu Dhabi heading toward Tehran.
 15:26
 1405/05/20
@@ -205,7 +296,7 @@ src :@WAR_ROOM_NEWS
 
 src :@P_raetorio
 [عکس]
-‏ارتش روسیه 6 کیلومتر مربع در جبهه دوبرپول استان دونتسک پیشروی کرد.
+‏ارتش روسیه 6 کیلومتر مربع در جبهه Dobropillya استان دونتسک پیشروی کرد.
 ‏
 ‏@P_raetorio
 15:12
@@ -1149,15 +1240,6 @@ src :@OSINTWarfare
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴پست جدید پرزیدنت ترامپ:  می‌بینم که نمایندگان جمهوری اسلامی ایران برای خساراتی که در طول درگیری نظامی پنج‌ماهه گذشته (که به این دلیل آغاز شد که آنها سلاح هسته‌ای نخواهند داشت) به آنها وارد شده، درخواست غرامت می‌کنند، در حالی که این موضوع هرگز در هیچ‌یک از…
-14:13
-1405/05/20
-
-
-
-
 src :@intelslava
 ‏🇺🇦⚡️ — Servicemen from the 121st Brigade of the Ukrainian Armed Forces have appealed to the newly appointed Commander-in-Chief, Dmytro Drapatyi, complaining that they have received no rotations since April, while also facing severe shortages of food and water.
 ‏
@@ -1603,17 +1685,6 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #a_m
 13:36
-1405/05/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇾🇪🇸🇦⚡️ — Three crew members aboard a commercial vessel were killed after it was struck by a ballistic missile launched by the Houthis (Ansarallah) while sailing through the Bab al-Mandab Strait, according to Al Hadath.
-‏
-‏The victims were two Pakistani nationals and one Indonesian. The missile was said to have been launched from eastern Taiz Governorate.
-13:33
 1405/05/20
 
 
@@ -2803,14 +2874,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏قصف اخر باب المندب
-11:39
-1405/05/20
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏A Financial Times investigation reports that during the opening of Sudan’s civil war in April 2023, RSF forces stole at least 1.5 tonnes of gold worth ~$100 million from Sudan’s state refinery and banks.
@@ -2862,19 +2925,6 @@ src :@Navy_Iranian
 src :@WAR_ROOM_NEWS
 ‏خبرهایی منتشر شده است مبنی بر کشته شدن ۳ نفر از نیروها حشد شعبی در منطقه عملیاتی صلاح الدین
 11:37
-1405/05/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Poland and the Baltic states are boosting security around critical infrastructure over fears Russia could stage a false-flag attack using Ukrainian drones to trigger a NATO crisis. 
-‏
-‏Lithuania has deployed troops to protect energy sites, while Latvia and Poland have tightened security around dams, gas facilities and power links. 
-‏
-‏Source: Reuters
-11:36
 1405/05/20
 
 
@@ -6089,16 +6139,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 18:20
-1405/05/19
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 NEW: Yemeni drones are striking Mokha Port, controlled by Saudi-backed mercenary forces
-‏
-‏@Middle_East_Spectator
-18:15
 1405/05/19
 
 
