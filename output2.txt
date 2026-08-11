@@ -1332,19 +1332,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇾 Internal security forces have arrived in the city of Ayn al-Arab, east of Aleppo, Syria.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-01:48
-1405/05/20
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦 – Russia launched around 10 missiles against Ukraine, including ballistic 'Iskander-M/KN-23' missiles and hypersonic 'Zircon' missiles, as well as multiple gliding bombs against targets in Kyiv and Zaporizhzhia. Multiple impacts were recorded.
 ‏
@@ -2859,19 +2846,6 @@ src :@mohem_mat
 [عکس]
 ‏۱۰ اوت روز تنبلی است. در این روز می‌توانید هیچ‌کاری نکنید و حتی به چیزی هم فکر نکنید. امروز مجاز به تنبلی هستید  Lazy Day  @mohem_mat
 22:25
-1405/05/19
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏۱۰ اوت روز تنبلی است. در این روز می‌توانید هیچ‌کاری نکنید و حتی به چیزی هم فکر نکنید. امروز مجاز به تنبلی هستید
-‏
-‏Lazy Day
-‏
-‏@mohem_mat
-22:24
 1405/05/19
 
 
