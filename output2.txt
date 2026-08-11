@@ -1,3 +1,27 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇸🇾 Syria's ex-President Bashar al-Assad officially sentenced to death by Syrian court.
+‏
+‏He currently resides in Russia where he fled to.
+‏
+‏@BRICSNews
+12:06
+1405/05/20
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏اولین نمونه از ناوچه تایپ ۳۱ لهستانی، ORP Wicher، از صنایع کشتی سازی خارج شده است و آماده آب اندازی هست
+‏
+‏@artemis_force
+12:04
+1405/05/20
+
+
+
+
 src :@Americana_ir
 [عکس]
 ‏🔻محبوبیت چین از آمریکا در ۲۷ کشور جهان پیشی گرفت
@@ -51,7 +75,7 @@ src :@wfwitness
 
 
 src :@WAR_ROOM_NEWS
-‏🔴 دادگاه جنایی دمشق طی حکمی غیابی بشار اسد دیکتاتور فراری سابق سوریه را به اعدام محکوم کرد
+‏🔴 دادگاه جنایی دمشق طی حکمی غیابی بشار اسد دیکتاتور فراری سابق سوریه و همچنین برادرش ماهر اسد و دیگر سران سابق را به اعدام محکوم کرد
 11:56
 1405/05/20
 
@@ -1292,24 +1316,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 10:42
-1405/05/20
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ترامپ: 
-‏
-‏ما کنترل بخش بزرگی از پول و دارایی های ایران رو در دست داریم 
-‏ما سه استراتژی در مقابل ایران داریم اول نظارت بر وخامت اوضاع و دوم فشار اقتصادی
-‏
-‏اگر اینا جوابگو نبود حمله نظامی قاطع انجام میدیم  
-‏اسرائیل قوی ترین لابی رو داشت تو واشنگتن
-‏
-‏‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-10:40
 1405/05/20
 
 
@@ -5617,16 +5623,6 @@ src :@didarnews1
 
 
 
-src :@bricsnews
-‏JUST IN: 🇸🇪🇷🇺 Sweden says it disrupted a Russian intelligence operation inside the country.
-‏
-‏@BRICSNews
-17:44
-1405/05/19
-
-
-
-
 src :@BellumActaNews
 ‏🇹🇷🇸🇦🇪🇬🇸🇴🇸🇴🇬🇼 — Somaliland came close to securing formal recognition from Guinea-Bissau in late July, which would have made it the second UN member state to recognize the breakaway region after Israel did so in December 2025.
 ‏
@@ -5977,16 +5973,6 @@ src :@Artemis_Force
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇷 Iran says Saudi Arabia, Pakistan and Turkey's joint defense agreement marks a "strategic shift" towards the US.
-‏
-‏@BRICSNews
-14:53
-1405/05/19
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‏ ‌‏ ‏ 
@@ -6282,25 +6268,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 12:12
-1405/05/19
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏سوئیس به برنامه جنگنده نسل ششم GCAP علاقه‌مند شده است.
-‏
-‏به نظر می‌رسد سوئیس به برنامه (GCAP) که به طور مشترک توسط بریتانیا، ایتالیا و ژاپن توسعه داده می‌شود، علاقه‌مند شده است. این موضوع پس از سفر اورس لوهر، مدیر Armasuisse، به ژاپن در تاریخ ۴ تا ۷ آگوست مطرح شد
-‏
-‏پروژه GCAP در سال ۲۰۲۲ بر اساس برنامه‌های بریتانیایی Tempest و ژاپنی F-X آغاز شد. تا سال ۲۰۳۵، شرکا امیدوارند جنگنده‌ای نسل ششم با قابلیت پنهان‌کاری، هوش مصنوعی و قابلیت تعامل با وینگمن  را به دست آورند.
-‏
-‏کشورهای دیگری نیز به این برنامه علاقه‌مند هستند. کانادا، جایگاه ناظر را کسب کرده است، و استرالیا، عربستان سعودی و هند امکان مشارکت خود را بررسی می‌کنند. 
-‏
-‏برای سوئیس، GCAP می‌تواند راهی برای گسترش روابط دفاعی فراتر از اروپا و دسترسی به توسعه فناوری‌های پیشرفته هوایی باشد.
-‏
-‏در حال حاضر، تنها در حال بررسی این موضوع است و صحبت‌ها فقط در مورد همکاری احتمالی است
-‏
-‏@PARVAZDAROJ|M.S
-12:01
 1405/05/19
