@@ -1130,18 +1130,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴صدای انفجار در آسمان دمشق شنیده می شود.
-‏
-‏ 
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-00:57
-1405/05/21
-
-
-
-
 src :@MilitarryWorld
 ‏🔴همتی: گرونی ها به خاطر وضعیت جنگی تا حدودی طبیعیه
 ‏
