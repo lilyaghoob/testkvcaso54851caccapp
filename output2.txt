@@ -5811,17 +5811,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇸🇾❌🇮🇱 — A group calling themselves the "Islamic Resistance Front" in Syria announces on video that they've targeted IDF barracks in the western countryside of Daraa with "direct and focused strikes."
-‏
-‏@GeoPWatch
-13:52
-1405/05/20
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴به نظر می‌رسد که ارتش آمریکا یک کشتی را هدف قرار داده و عملیاتی را بر روی آن در خلیج عمان انجام داده است.
@@ -6710,15 +6699,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 05:19
-1405/05/20
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷/🇸🇦/🇦🇪/🇶🇦/🇰🇼/🇧🇭/🇴🇲 The Wall Street Journal: ‘Gulf states have accepted a new normal in the Strait of Hormuz; Iran is in control’
-‏
-‏@Middle_East_Spectator
-04:54
 1405/05/20
