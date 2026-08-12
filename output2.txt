@@ -1,3 +1,86 @@
+src :@didarnews1
+‏🔴رویترز به نقل از یک منبع ارشد ایرانی: هیچ بحثی در مورد تمدید آتش‌بس با ایالات متحده وجود ندارد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+14:26
+1405/05/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏China and Indonesia plan rare joint naval drills east of Taiwan, prompting Taiwan to accuse Beijing of trying to legitimize its claims over the waters.
+‏
+‏Indonesia says it is a routine "passing exercise" and not a war-fighting drill.
+‏
+‏Source: FT
+14:25
+1405/05/21
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇦❌🇷🇺 — WATCH: Intense Russian air defense activities last night during the Ukrainian attack against the city of Novorossiysk.
+14:25
+1405/05/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴پاکستان: روند صلح گسترده‌تر متوقف شده است؛ امیدواریم به زودی از سر گرفته شود
+‏
+‏@MilitarryWorld | Parsa
+14:25
+1405/05/21
+
+
+
+
+src :@rnintel
+‏🇺🇸🇹🇷🇺🇦⚡- Turkey has acknowledged it has requested permission from the U.S. to retransfer one of the largest ammunition packages Ukraine has ever received, including thousands of cluster munitions. 
+‏
+‏The package will contain:
+‏- 70 M39 ATACMS ballistic missiles.
+‏- 2,524 M26 rockets,
+‏- 47,000 M509A1 203mm artillery shells.
+14:24
+1405/05/21
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran says there are no discussions on extending the ceasefire with the United States.
+‏
+‏@BRICSNews
+14:24
+1405/05/21
+
+
+
+
+src :@naya_foriraq
+‏رويترز عن مصدر إيراني كبير: لا موعد لوقف إطلاق النار ولا شيء هناك لتمديده
+14:23
+1405/05/21
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏رویترز به نقل از یک منبع ارشد ایرانی: هیچ بحثی در مورد تمدید آتش بس میان ایران و آمریکا وجود ندارد
+14:22
+1405/05/21
+
+
+
+
 src :@tabzlive
 ‏🇮🇷🇧🇷 — Iran is set to join the BRICS-backed New Development Bank (NDB), Iranian Central Bank Governor Abdolnaser Hemmati said.
 14:22
@@ -1699,21 +1782,6 @@ src :@ClashReport
 ‏Our vision is to eventually bring all the countries in the region together under this framework, if possible.
 ‏
 ‏This agreement is not directed against any country. Its sole purpose is to promote peace and stability in the region and the well-being of our peoples.
-‏
-‏Source: Asharq Al-Awsat
-12:09
-1405/05/21
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Turkish President Erdogan on the Mecca Agreement:
-‏
-‏We have taken on a historic responsibility to help ensure stability in our region. 
-‏
-‏The main goal of the agreement is to strengthen deterrence. It is open to all brotherly nations.
 ‏
 ‏Source: Asharq Al-Awsat
 12:09
@@ -3850,18 +3918,6 @@ src :@Artemis_Force
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ:
-‏
-‏من به ایران اعتماد ندارم ایران بارها دروغ گفته است و من آخرین کسی هستم که به آنها اعتماد می‌کند. ایران قرار نیست به یک زورگو در خاورمیانه تبدیل شود.
-‏
-‏@MilitarryWorld | Parsa
-06:35
-1405/05/21
-
-
-
-
 src :@Ali_bk_2
 ‏The Yemeni forces launch a drone attack on Saudi military supplies at the port of Mocha.
 05:51
@@ -5124,21 +5180,6 @@ src :@rnintel
 
 
 
-src :@didarnews1
-[عکس]
-‏📸 دیدار وزیر کشور پاکستان با پزشکیان
-‏
-‏#سیاسی 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-21:05
-1405/05/20
-
-
-
-
 src :@rnintel
 ‏🇩🇪🇺🇦⚡- ZEIT reports that video footage shows the first drone at Leipzig/Halle Airport striking the wing of the parked Ukrainian Antonov cargo aircraft at Leipzig Airport before failing to detonate and falling to the ground.   Investigators are treating the…
 21:03
@@ -5363,19 +5404,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 20:39
-1405/05/20
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇸🇾 – Former Syrian dictator Bashar al-Assad was sentenced to death in absentia, along with his brother Mahed, for crimes including premeditated murder of multiple people, murder of children, torture and arbitrary detention.
-‏
-‏Both fled to Moscow after Bashar was toppled in late 2024, but another death sentence was issued against their cousin, Atef Najib, who is in state custody.
-‏
-‏@GeoPWatch
-20:38
 1405/05/20
 
 
@@ -6325,14 +6353,6 @@ src :@OSINTWarfare
 ‏Under the contract, production will take place at Raytheon facilities in Tucson, Arizona, and Huntsville, Alabama.
 ‏
 ‏The contract is separate from previous agreements covering increased production, procurement, and maintenance of SM-3 interceptors, with the latest deal covering entirely new orders.
-17:41
-1405/05/20
-
-
-
-
-src :@rnintel
-‏🇾🇪⚡- Aden-based Yemeni Armed Forces are currently attacking Ansarullah positions along the Ma'rib, Ta'izz and the Ad Dali fronts, central and southern Yemen.
 17:41
 1405/05/20
 
