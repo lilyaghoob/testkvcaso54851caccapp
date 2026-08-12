@@ -1,3 +1,85 @@
+src :@Ali_bk_2
+‏The Yemeni army targets the port of Mocha with several ballistic missiles.
+12:12
+1405/05/21
+
+
+
+
+src :@Alibk3
+‏الجيش اليمني يستهدف ميناء المخأ بعدد من الصواريخ الباليستية
+12:12
+1405/05/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزارت خارجه پاکستان: وزیر کشورمان پیام مهمی را از سوی نخست‌وزیر و فرمانده ارتش به رهبری ایران منتقل کرده است
+‏
+‏@MilitarryWorld | Parsa
+12:12
+1405/05/21
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Israeli troops identified a Hamas sniper who posed an immediate threat near the Yellow Line area, where IDF troops are operating in northern Gaza and eliminated him.
+‏
+‏However, a number of Hamas terrorists crossed into the Yellow Zone on Monday night after being spotted by army reconnaissance. They seized engineering equipment and returned to the Hamas-controlled zone without being fired upon.
+‏
+‏Last week saw more than 65 incidents of crossing into the Yellow Line area under Israeli control without any response by gunfire. This is 3 times the rate compared to the period before soldiers were told to stand down infront of terrorist advancements.
+‏
+‏***
+‏Trump dictates and Netanyahu lies.
+12:10
+1405/05/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Turkish President Erdogan on the Mecca Agreement:
+‏
+‏Our vision is to eventually bring all the countries in the region together under this framework, if possible.
+‏
+‏This agreement is not directed against any country. Its sole purpose is to promote peace and stability in the region and the well-being of our peoples.
+‏
+‏Source: Asharq Al-Awsat
+12:09
+1405/05/21
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Turkish President Erdogan on the Mecca Agreement:
+‏
+‏We have taken on a historic responsibility to help ensure stability in our region. 
+‏
+‏The main goal of the agreement is to strengthen deterrence. It is open to all brotherly nations.
+‏
+‏Source: Asharq Al-Awsat
+12:09
+1405/05/21
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ظاهراً حوثی ها به مواضع نیروهای دولتی در بندر المخا حمله کردند
+‏
+‏🆔@WAR_ROOM_NEWS
+12:09
+1405/05/21
+
+
+
+
 src :@mohem_mat
 ‏یوسی کوهن چه گفت؟
 ‏
@@ -26,6 +108,14 @@ src :@mohem_mat
 
 src :@tabzlive
 ‏🇾🇪⚡️ — Ongoing report of an explosion in the PLC-controlled Al-Rayyan Airport in Mukalla, eastern Yemen.
+12:07
+1405/05/21
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز ميناء المخا في اليمن
 12:07
 1405/05/21
 
@@ -109,6 +199,8 @@ src :@WAR_ROOM_NEWS
 ‏سرباز روس پهپاد اوکراینی رو دیده و قبل اصابت از پشت وانت پرید پایین
 ‏
 ‏به هر حال راننده و کناریش با اصابت پهپاد  مجروحیت پیدا میکنن
+‏
+‏🆔@WAR_ROOM_NEWS
 12:02
 1405/05/21
 
@@ -1777,16 +1869,6 @@ src :@wfwitness
 
 
 
-src :@WAR_ROOM_NEWS
-‏شورای انتقالی جنوب یمن، که از سوی عربستان سعودی پشتیبانی می‌شود، اعلام کرد که ۹ تن از سربازانش در اثر حملات موشکی و پهپادی نیروهای انصارالله به مناطق غربی یمن، در تاریخ‌های ۹ و ۱۰ اوت، کشته شده‌اند.
-‏
-‏🆔@WAR_ROOM_NEWS
-09:38
-1405/05/21
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇨🇴🇸🇾🇮🇱🇸🇦 The Saudi Ministry of Foreign Affairs issued an official statement condemning the Colombian government's decision to recognize Israel's sovereignty over the Golan Heights:  The Ministry of Foreign Affairs expresses the Kingdom of Saudi Arabia's…
@@ -3146,30 +3228,6 @@ src :@rnintel
 
 
 
-src :@Ali_bk_2
-‏Enemy media:
-‏
-‏A short while ago, an interceptor projectile was launched toward a target that was later identified as a missile launched at our forces in southern Lebanon. No one was injured.
-‏
-‏The incident is under investigation.
-02:03
-1405/05/21
-
-
-
-
-src :@Alibk3
-‏إعلام العدو:
-‏
-‏قبل فترة وجيزة، أُطلقت مقذوفة اعتراضية باتجاه هدف تم تحديده لاحقًا على أنه صاروخ أُطلق على قواتنا في جنوب لبنان. لم يصب أحد.
-‏
-‏يجري التحقيق في الحادث.
-02:02
-1405/05/21
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇱جيش الإحتلال الإسرائيلي: أُطلق صاروخ اعتراضي نحو هدف تم تحديده لاحقًا على أنه نيران من قواتنا في المنطقة الأمنية جنوب لبنان.
 02:01
@@ -3393,16 +3451,6 @@ src :@DEJradio
 
 
 
-src :@MilitarryWorld
-‏🔴تسنیم در یک خبر اختصاصی مدعی شد عربستان سعودی درخواستی محرمانه به حوثی ها داده تا جنگ را متوقف کنند که با رد درخواست از طرف انصارالله رو‌به‌رو شده.
-‏
-‏@MilitarryWorld | Parsa
-00:06
-1405/05/21
-
-
-
-
 src :@jangaavaran1390
 ‏چرا توپ تانک‌های مدرن دیگه خان ندارن؟ اگه به لوله توپ تانک‌های مدرن مثل آبرامز، لئوپارد ۲ یا تی-۹۰ نگاه کنید، می‌بینید که کاملاً صاف و بدون خان هستن. اما چرا ؟  
 ‏خان چیکار می‌کنه؟ خان‌ها شیارهای مارپیچ داخل لوله هستن که به گلوله چرخش می‌دن تا مثل یه فرفره پایدار بمونه و دقیق پیش بره. خان برای قرن‌ها روی تفنگ‌ها و توپ‌ها عالی کار می‌کرد. 
@@ -3610,18 +3658,6 @@ src :@jangaavaran1390
 ‏
 ‏در ماه گذشته، نیروهای آمریکایی حدود 50 موشک از سیستم پاتریوت برای رهگیری موشک‌های ایرانی با مسیرهای قابل تنظیم شلیک کردند که به پایگاه‌های آمریکایی در اردن هدف گرفته بودند. هزینه این عملیات حدود 200 میلیون دلار تخمین زده می‌شود.
 23:39
-1405/05/20
-
-
-
-
-src :@mohem_mat
-‏روایت جدید از فرآیند انتخاب رهبری توسط مجلس خبرگان/ علاوه بر رای مکتوب، اعضای خبرگان به‌صورت ویدیویی رای خود را ضبط کردند و در اختیار افراد مطمئن قرار دادند/ آیت‌الله سید مجتبی خامنه‌ای با اکثریت مطلق آرا از میان گزینه‌ها انتخاب و معرفی شدند
-‏
-‏https://www.jamaran.news/fa/tiny/news-1722565
-‏
-‏ @jamarannews
-23:38
 1405/05/20
 
 
@@ -4664,7 +4700,7 @@ src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — "I am fighting for my country. Russia has always been in my heart."
 ‏
-‏A Ukrainian teenager, whom Kyiv considered to have been kidnapped by the Russians, is fighting in the Russian Armed Forces.
+‏A Ukrainian teenager, whom Kiev considered to have been kidnapped by the Russians, is fighting in the Russian Armed Forces.
 ‏
 ‏Alexander Mustyats, from the village of Krynky in the Kherson region, who was previously listed by Ukrainian authorities as missing, joined the Russian Army at the age of 19, according to The Times.
 ‏
