@@ -349,19 +349,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-[عکس]
-‏🇧🇷⚡️ — Brazilian presidential candidate Flavio Bolsonaro’s campaign is drafting a new fiscal framework that would tighten government spending as public debt rises, potentially freezing federal spending in real terms, Reuters reports.
-‏
-‏Under the proposal, spending growth would remain below revenue growth, with increasingly strict limits as debt climbs. One version under discussion would allow zero real spending growth when gross government debt exceeds 80% of GDP, while permitting higher spending growth as debt falls.
-‏
-‏The proposed framework would replace Lula’s existing fiscal rules and could be submitted to Congress as a constitutional amendment if Bolsonaro wins October’s presidential election.
-03:59
-1405/05/21
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏خبرگزاری رویترز گزارش داد قیمت نفت روز سه‌شنبه به بالاترین سطح یک هفته اخیر رسید، زیرا معامله‌گران نسبت به دستیابی به توافقی که بتواند ثبات را به خاورمیانه بازگرداند و تنگه هرمز را بازگشایی کند، بیش از پیش تردید پیدا کرده‌اند.
@@ -404,15 +391,6 @@ src :@Ali_bk_2
 src :@Alibk3
 ‏هجوم جديد بطائرة مسيّرة على محطة كهرباء الزاوية في ليبيا.
 03:44
-1405/05/21
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump continues to insist that Washington’s Reflecting Pool was vandalized by former Olympian David Hearn.  Trump acknowledged that contractors made an error while rushing to complete work ahead of the July 4 opening, but maintained that it…
-03:42
 1405/05/21
 
 
