@@ -1861,18 +1861,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[عکس]
-‏مهدی بستانچی، رئیس هیئت‌مدیره انجمن تولیدکنندگان سیستم‌های تهویه مطبوع، از افزایش ۱۰ تا ۲۵ درصدی قیمت کولرهای گازی خبر داد و گفت افزایش قیمت‌ها باعث شده بخشی از مصرف‌کنندگان به جای کولر به سراغ گزینه‌های ارزان‌تر مانند پنکه و پنکه‌های مه‌پاش بروند.
-‏
-‏به گفته بستانچی، میزان افزایش قیمت کولرهای گازی بسته به برند، ظرفیت و مشخصات فنی متفاوت است و محدودیت مالی خانوارها، تقاضا برای وسایل سرمایشی ارزان‌تر را افزایش داده است.
-‏https://iranintl.com/202608139462
-10:17
-1405/05/22
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏‏🔴 تصویر روز ناسا؛ خورشیدگرفتگی کامل در اسپانیا
@@ -3347,14 +3335,6 @@ src :@GeoPWatch
 src :@intelslava
 ‏🇺🇦🇷🇺⚡️ — The aftermath of a massive overnight drone attack on Novorossiysk, captured by Western satellites.  The roof of the Bread Products Combine was damaged, a conveyor belt for grain collapsed at the Grain Terminal, a tanker was hit near the oil loading…
 01:14
-1405/05/22
-
-
-
-
-src :@MilitarryWorld
-‏🔥این شبا همه از پیش بینی فوتبال دارن پول درمیارن🔥 💖اگه توم دوس داری فوتبال لیگ های اروپایی با یه ادم حرفه ای پیش بینی کنی و کسب درامد کنی عضو کانال بکس بت شو💖 a21 📣کانال بکس بت برای عاشقان فوتبال چون هم فوتبال میبینی هم پیش بینی میکنی و پول در میاری🔥💵 ‼️توم…
-01:13
 1405/05/22
 
 
@@ -6110,20 +6090,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 13:25
-1405/05/21
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏US-Iran talks failed again? Color me surprised xD
-‏
-‏ترجمه خودکار فارسی
-‏
-‏مذاکرات آمریکا و ایران دوباره شکست خورد؟ چه غافلگیرکننده xD
-‏
-‏𝕏  ·  @shin_persian
-13:21
 1405/05/21
