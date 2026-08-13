@@ -1,3 +1,32 @@
+src :@Ali_bk_2
+‏CBS:
+‏
+‏A sailor from the air wing of the U.S. aircraft carrier USS Lincoln fell overboard in early August. The sailor was rescued by a search-and-rescue helicopter and treated by the medical department before being transferred off the ship for further medical care.
+21:34
+1405/05/22
+
+
+
+
+src :@Alibk3
+‏‏ سي بي إس:
+‏
+‏بحاراً من الجناح الجوي لحاملة الطائرات الأمريكية "يو إس إس لينكولن" سقط في البحر مطلع شهر أغسطس. وقد تم انتشال البحار بواسطة مروحية بحث وإنقاذ، وتلقى العلاج من قبل القسم الطبي، ثم نُقل من السفينة لتلقي الرعاية الطبية.
+21:34
+1405/05/22
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇾🇪انصار الله يستهدفون منشأة حيوية بالحريقية قرب باب المندب بصاروخين باليستيين.
+21:33
+1405/05/22
+
+
+
+
 src :@naya_foriraq
 [عکس]
 ‏🇮🇶 تخوف جماهيري من عودة مضافات ولاية جنوب بغداد 
@@ -3869,14 +3898,6 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏ملك السعودية المرحوم سلمان بن عبد العزيز يعفي نفسه من رئاسة مجلس الوزراء ويكلف محمد بن سلمان برئاسة المجلس
-16:46
-1405/05/22
-
-
-
-
 src :@Artemis_Force
 ‏تصاویری جدید از ناو هواپیمابر هسته ای آینده کلاس جرالد آر فورد USS John F. Kennedy (CVN 79) Gerald R. Ford-class   @artemis_force
 16:41
@@ -4020,24 +4041,6 @@ src :@didarnews1
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏17 members of the Saudi-backed Homeland Shield forces killed and wounded after Yemeni forces attacked a camp in the al-Abr area of Hadhramaut province with drones.
-15:43
-1405/05/22
-
-
-
-
-src :@Alibk3
-[عکس]
-‏17 قتيل وجريح من قوات درع الوطن الموالية للسعودية بعد هجوم للقوات اليمنية بالطائرات المسيرة استهدفت معسكرًا في منطقة العبر بمحافظة حضرموت.
-15:43
-1405/05/22
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺📌 آسمان ایران در جنگ ۱۲روزه، جنگ ۴۰روزه و همچنین در دو هفته حملات مستقل آمریکا، به تونل رفت‌وآمد جنگنده‌های مهاجم تبدیل شد و همچنان چنین است. نیروی هوایی ارتش فرسوده است و در مقابل با جنگنده‌های پیشرفته آمریکا و اسرائیل عملا هیچ‌کاره است.
@@ -4146,14 +4149,6 @@ src :@OSINTWarfare
 ‏
 ‏On June 8, the same aircraft flew from Abu Dhabi to Mehrabad, transporting $3 billion worth of gold.
 15:20
-1405/05/22
-
-
-
-
-src :@defence_news
-‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
-15:08
 1405/05/22
 
 
@@ -6232,24 +6227,4 @@ src :@rus_cosmos
 [عکس]
 ‏بخش زیادی از خورشید در اثر سایه ماه گرفته شده است
 21:41
-1405/05/21
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.  The S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched…
-21:32
-1405/05/21
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.
-‏
-‏The S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched from Russian Su-57 multirole fighters.
-21:32
 1405/05/21
