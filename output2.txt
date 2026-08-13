@@ -1,3 +1,15 @@
+src :@Middle_East_Spectator
+‏—❗️🇸🇦/🇾🇪 BREAKING: Ansarallah (Houthi) forces are rapidly advancing and surrounding the city of Marib, currently held by Saudi-backed forces
+‏
+‏Sources on the ground report that an offensive to capture the city is possible within the coming hours and days, if Sayyed Abdul Malik Al-Houthi orders it.
+‏
+‏@Middle_East_Spectator
+03:16
+1405/05/23
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️ روزنامه واشنگتن‌پست به نقل از چهار مقام آمریکایی گزارش داد ارتش ایالات متحده از آغاز جنگ با ایران تاکنون دست‌کم ۴۵ فروند پهپاد «MQ-9 Reaper» را از دست داده است؛ رقمی که حدود ۲۵ درصد از ناوگان این پهپادها را شامل می‌شود.
@@ -75,7 +87,7 @@ src :@tabzlive
 
 
 src :@wfwitness
-‏⚡️🇮🇷🇮🇶 Initial reports of explosions in Erbil, Northern Iraq.
+‏⚡️🇮🇷🇮🇶 Initial reports of explosions in Erbil, Iraqi Kurdistan.
 ‏
 ‏@wfwitness
 ‏
@@ -352,15 +364,6 @@ src :@World_Newsly
 
 src :@World_Newsly
 ‏🔴 عربستان سعودی سومین نشست برنامه‌ریزی ائتلاف دریایی چندملیتی را در فرماندهی ناوگان غرب در جده با حضور نمایندگان ۳۹ کشور برگزار کرد.  🔹️ در این نشست فرمانده سعودی و معاون پاکستانی برای دوره نخست منصوب شدند و ۱۵ کشور بیانیه مشترک را امضا کردند. مقر این ائتلاف…
-01:50
-1405/05/23
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇶إشادات شعبية في الأوساط الحشدية بمواقف مدير المكتب السياسي لمنظمة بدر، ودفاعه عن سلاح فصائل المقاومة العراقية.
 01:50
 1405/05/23
 
@@ -1290,17 +1293,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇵🇸⚡️ — Trump's son-in-law Jared Kushner is planning to visit Israel next week for talks on the situation in Gaza, Axios reports.
-‏
-‏"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated," a U.S. official said.
-00:12
-1405/05/23
-
-
-
-
 src :@World_Newsly
 ‏🔴 جروزالم پست: مقام‌های دفاعی اسرائیل از سرعت بازسازی توان نظامی جمهوری اسلامی بعد از جنگ شوکه شدن و میگن ظرفیت تولید موشک‌های بالستیک ایران با سرعت زیادی در حال برگشتنه.
 ‏
@@ -1310,16 +1302,6 @@ src :@World_Newsly
 ‏✍🏻 CAPITANO
 ‏▪️@World_Newsly
 00:10
-1405/05/23
-
-
-
-
-src :@tabzlive
-‏🇮🇷🇦🇪⚡️ — UAE's state-owned energy group Abu Dhabi National Oil Company reports two of its vessels were attacked while transiting the Strait of Hormuz today.
-‏
-‏Earlier, two anti-ship cruise missiles were launched from Sirik, Iranian territory along the Strait of Hormuz around an hour apart from each other. These anti-ship missiles likely targeted ADNOC tankers.
-00:04
 1405/05/23
 
 
@@ -1809,24 +1791,6 @@ src :@DEJradio
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Jerusalem Post:  Israeli defense officials expressed shock at the speed of Iran’s military recovery after the Iran war, as the Israeli army is now witnessing a rapid shift in Iran’s ballistic missile production capabilities.
-23:12
-1405/05/22
-
-
-
-
-src :@Alibk3
-[عکس]
-‏‏جيروزاليم بوست:  أعرب مسؤولون دفاعيون إسرائيليون عن صدمتهم من سرعة تعافي إيران العسكري بعد الحرب الإيرانية، حيث يشهد الجيش الإسرائيلي الآن تحولاً سريعاً في قدراته الإنتاجية للصواريخ الباليستية.
-23:12
-1405/05/22
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏تصویر ماهواره ای از پالایشگاه ایلسکی روسیه و آسیب وارد شده به یکی از واحدهای اصلی فرآوری این تاسیسات پس از حمله پهپادی اوکراین 
@@ -1857,26 +1821,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 23:10
-1405/05/22
-
-
-
-
-src :@Ali_bk_2
-‏Jerusalem Post:
-‏
-‏Israeli defense officials expressed shock at the speed of Iran’s military recovery after the Iran war, as the Israeli army is now witnessing a rapid shift in Iran’s ballistic missile production capabilities.
-23:09
-1405/05/22
-
-
-
-
-src :@Alibk3
-‏‏جيروزاليم بوست:
-‏
-‏أعرب مسؤولون دفاعيون إسرائيليون عن صدمتهم من سرعة تعافي إيران العسكري بعد الحرب الإيرانية، حيث يشهد الجيش الإسرائيلي الآن تحولاً سريعاً في قدراته الإنتاجية للصواريخ الباليستية.
-23:09
 1405/05/22
 
 
@@ -2238,15 +2182,6 @@ src :@BellumActaNews
 ‏
 ‏The Global Eye | Subscribe ✈️
 22:24
-1405/05/22
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 The Guardian: The USS Abraham Lincoln's crew is facing growing concerns over conditions and mental health after spending nine months at sea, including a record 250 consecutive days without making land. Navy Times and Stars and Stripes reported multiple…
-22:22
 1405/05/22
 
 
