@@ -1,3 +1,28 @@
+src :@Ali_bk_2
+[ویدئو]
+‏Erbil
+02:58
+1405/05/23
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+02:58
+1405/05/23
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+02:58
+1405/05/23
+
+
+
+
 src :@tabzlive
 ‏🇮🇷❌🇮🇶 — Explosions in Erbil, Iraqi Kurdistan. Shahed-136 UAV strike.
 02:56
@@ -7,7 +32,7 @@ src :@tabzlive
 
 
 src :@wfwitness
-‏⚡️🇮🇷🇮🇶 Initial reports of Iranian drone strikes in Erbil, Northern Iraq.
+‏⚡️🇮🇷🇮🇶 Initial reports of explosions in Erbil, Northern Iraq.
 ‏
 ‏@wfwitness
 ‏
@@ -1333,14 +1358,6 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏شركة أدنوك الإماراتية: تعرض سفينتين تابعتين لنا لهجوم أثناء عبورهما مضيق هرمز دون إصابات.
-00:02
-1405/05/23
-
-
-
-
 src :@intelslava
 ‏🇷🇺🇺🇦⚡️ — By the end of the second consecutive night, Ukrainian monitoring systems are again reporting a high probability of missile and drone strikes on Ukraine, urging the local population to prepare.
 ‏
@@ -1512,14 +1529,6 @@ src :@mohem_mat
 
 
 
-src :@naya_foriraq
-‏🇺🇸‏نائب الرئيس الأمريكي فانس بشأن إيران: هذا الأمر ينتهي بنا في موقف قوي.
-23:50
-1405/05/22
-
-
-
-
 src :@warmonitors
 ‏⚡Axios, citing sources: Jared Kushner plans to visit Israel next week for talks on Gaza
 ‏
@@ -1598,25 +1607,6 @@ src :@ClashReport
 ‏
 ‏Source: Axios
 23:42
-1405/05/22
-
-
-
-
-src :@naya_foriraq
-‏هجوم سيبراني استهدف منصة دائرة الضرائب الفرنسية
-23:40
-1405/05/22
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇶🔻 جرف النصر .. كعبة المنجز الأمني العراقي الحشداوي   
-‏
-‏دول إقليمية تريد عودة مثلث الموت ؛ دار استراحة المقاتلين العرب ؛ مضافات ما يسمى ولاية جنوب بغداد الارهابية ..
-23:38
 1405/05/22
 
 
@@ -2215,15 +2205,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — U.S. military leaders are privately raising concerns inside the Pentagon and the White House about low morale and widespread fatigue among American service members who’ve been deployed for months to support the war with Iran, NBC News reports.
-22:34
-1405/05/22
-
-
-
-
 src :@didarnews1
 ‏‏🔴 سقاب اصفهانی در شبکه خبر: به دلیل خسارات وارد شده در جنگ هم  دچار کمبود تولید در بنزین داریم هم در واردات بنزین دچار مشکل هستیم
 ‏
@@ -2669,28 +2650,6 @@ src :@defence_news
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Iranian Parliament National Security Committee Chairman, Ebrahim Azizi:
-‏
-‏‏As long as you surrender to the enemy of Islam, they will do nothing but seize your lands and humiliate you. But when you become a pawn in the enemy’s hands and try to roam the region, you will face a strong response from the Islamic Republic of Iran.
-21:53
-1405/05/22
-
-
-
-
-src :@Alibk3
-[عکس]
-‏رئيس لجنة الأمن القومي في البرلمان الإيراني، ابراهيم عزيزي:
-‏
-‏‏طالما أنكم تستسلمون لعدو الإسلام، فلن يفعلوا سوى اغتصاب أراضيكم وإذلالها، ولكن عندما تصبحون لعبة في أيدي العدو وتحاولون التجول في المنطقة، ستواجهون رداً قوياً من الجمهورية الإسلامية الإيرانية.
-21:53
-1405/05/22
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏تصویر ماهواره‌ای سطح خسارت به 11 انبار شرکت وایلدبریز روسیه که در یک ماه اخیر هدف پهپاد‌های اوکراینی قرار گرفتند.
@@ -2722,29 +2681,11 @@ src :@samueltarikh
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏A Turkish heavy transport aircraft landed today in the Saudi capital. It departed from Tekirdag, the base from which Turkey sends Bayraktar drone equipment.
-21:50
-1405/05/22
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸❌🇮🇷 – The USAF has lost at least 45 MQ-9 'Reaper' drones during the Iran war, which represent around 25% of the entire pre-war fleet and $1.3 billion dollars in losses.
 ‏
 ‏@GeoPWatch
-21:49
-1405/05/22
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرة نقل ثقيلة تركية هبطت اليوم في العاصمة السعودية. لقد انطلقت من تكيرداغ، وهي القاعدة التي ترسل منها تركيا معدات طائرات بيرقدار بدون طيار.
 21:49
 1405/05/22
 
