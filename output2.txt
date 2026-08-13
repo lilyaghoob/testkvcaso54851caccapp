@@ -1,3 +1,11 @@
+src :@Minas_Tirith2024
+‏گزارش واشنگتن پست: ارتش ایالات متحده حداقل ۴۵ فروند پهپاد MQ-9 Reaper را در جنگ با ایران از دست داده است که تقریباً یک چهارم کل ناوگان این نوع پهپادها را تشکیل می‌دهد. تخمین زده می‌شود که این خسارات بیش از ۱.۳ میلیارد دلار هزینه برای مالیات‌دهندگان به همراه داشته باشد.
+20:53
+1405/05/22
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏بارش‌های شدید موسمی در برخی استان‌های ایران که از شامگاه چهارشنبه ۲۱مرداد آغاز و تا بامداد پنجشنبه ۲۲مرداد۱۴۰۵ ادامه یافت موجب جاری شدن سیلاب، مسدود شدن راه‌های روستایی و خسارت به زیرساخت‌ها و بخش کشاورزی شد.
@@ -1879,19 +1887,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — NEW: The U.S. is preparing to deploy the USS George Washington to the Middle East to replace the USS Abraham Lincoln as part of a previously scheduled carrier rotation, WSJ reports.
-‏
-‏The Lincoln has been deployed for more than 250 days, and it has not made a port call in 200 days, setting a record for consecutive days at sea. Its unusually prolonged deployment with few port calls has prompted lawmakers to raise concerns over deteriorating living conditions and crew welfare.
-‏
-‏Officials stressed that the George Washington rotation was planned before those concerns emerged.
-19:07
-1405/05/22
-
-
-
-
 src :@World_Newsly
 ‏‏🔴 آمریکا یک ناو هواپیمابر جدید را به خاورمیانه اعزام خواهد کرد.
 ‏
@@ -2521,19 +2516,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 18:31
-1405/05/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israeli Diaspora Minister: War on Syria an Absolute Certainty
-‏
-‏The Likud official, Amichai Chikli, has reiterated his belief that a military confrontation with Syria is inevitable, describing the neighboring nation as “Gaza on steroids.”
-‏
-‏READ MORE
-18:30
 1405/05/22
 
 
@@ -3273,22 +3255,6 @@ src :@jangaavaran1390
 ‏
 ‏https://jangaavaran.ir/sinking-of-iris-dena
 17:32
-1405/05/22
-
-
-
-
-src :@Indypersian
-‏⭕️سایه جنگ جدید بر سر خاورمیانه؛ واشنگتن حضور دیپلماتیکش را محدود نگه می‌دارد
-‏
-‏📌تلاش‌ها برای پایان‌ دادن قطعی جنگ همچنان در بن‌بست قرار دارد
-‏
-‏♦️وزارت خارجه ایالات متحده، هم‌زمان با ادامه تنش‌ها با جمهوری اسلامی ایران که هیچ نشانه‌ای از حل‌وفصل آن دیده نمی‌شود، از سفارتخانه‌های این کشور در خاورمیانه خواست برای ادامه فعالیت با تعداد محدودی از کارکنان برنامه‌ریزی کنند.
-‏بیشتر بخوانید...
-‏
-‏
-‏@indypersian
-17:27
 1405/05/22
 
 
@@ -6331,23 +6297,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #A_A
 20:58
-1405/05/21
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇷⚡️ — BREAKING: Multiple sailors aboard the USS Abraham Lincoln have attempted to jump overboard as its crew faces mounting mental health pressures during the extended deployment supporting operations against Iran, The Guardian reports.
-‏
-‏The carrier’s roughly 5,000 sailors and Marines are in their ninth month at sea and have spent a record 250 consecutive days without making land. Families have raised concerns about severe burnout, deteriorating living conditions, and inadequate support aboard the ship.
-‏
-‏Reports describe moldy showers, broken toilets and laundry facilities, shortages of hot water and basic hygiene products, and limited food. 
-‏
-‏Several suicide attempts have been thwarted aboard the aircraft carrier. One wife said her husband had tried to jump overboard after his spell at sea kept being extended, adding, "He’s scared." She received a call about the incident after her husband jumped but has not heard from anyone with the Navy in several weeks now.
-‏
-‏In one of many incidents, a sailor on watch spotted a shipmate preparing to go overboard and intervened, pulling them back onto the deck. In another incident, watchstanders prevented a crew member from jumping from the carrier.
-‏
-‏The carrier originally deployed in November 2025 for operations in the Pacific but was redirected to the Middle East after the war with Iran began, with its planned return repeatedly postponed.
-20:52
 1405/05/21
