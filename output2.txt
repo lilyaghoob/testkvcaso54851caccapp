@@ -6,6 +6,19 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
+src :@ClashReport
+[عکس]
+‏Israeli officials are shocked by Iran’s rapid military recovery after the 2026 war. 
+‏
+‏Despite thousands of strikes, Iran is rebuilding its ballistic-missile capabilities much faster than expected, potentially restoring its arsenal to pre-war levels by 2027 and becoming a "major threat" again by 2028.
+‏
+‏Source: The Jerusalem Post
+23:22
+1405/05/22
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏جروزالم پست: اسرائیل از سرعت بازسازی توان نظامی ایران پس از جنگ اخیر ابراز نگرانی کرده‌اند. به گفته آنها، ارتش اسرائیل اکنون شاهد افزایش سریع ظرفیت تولید موشک‌های بالستیک ایران است  🆔@WAR_ROOM_NEWS
 23:20
@@ -1029,7 +1042,7 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 ‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:12
 1405/05/22
 
@@ -1132,7 +1145,7 @@ src :@wfwitness
 ‏
 ‏@wfwitness
 ‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:02
 1405/05/22
 
@@ -2170,17 +2183,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-[عکس]
-‏French Vice-Admiral Olivier Lebas, former commander of France's aircraft carrier Charles de Gaulle, died at 62 in a mountaineering fall in the Pyrenees. 
-‏
-‏He fell from ~2,700m on the Pic des Spijeoles.
-20:41
-1405/05/22
-
-
-
-
 src :@mwarmonitor
 ‏📌به گزارش شبکه ۱۳ اسرائیل، برَد کوپر، فرمانده سنتکام، به مقام‌های اسرائیلی گفته است که برای ازسرگیری حملات در داخل ایران تلاش می‌کند و معتقد است ازسرگیری جنگ می‌تواند موضع تهران در مذاکرات را تغییر دهد.
 ‏
@@ -2247,17 +2249,6 @@ src :@IranintlTV
 ‏معاون نماینده آمریکا در سازمان ملل از حوثی‌ها خواست حملات به کشورهای منطقه و اقداماتی را که آزادی کشتیرانی در دریای سرخ مختل می‌کند، متوقف کنند.
 ‏https://iranintl.com/202608138233
 20:38
-1405/05/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Following Colombia’s 7.4-magnitude earthquake, the government initially delayed accepting some foreign rescue teams, saying its own personnel were sufficient.
-‏
-‏It later requested specialized rescue teams from only four countries: the United States, El Salvador, Ecuador and Israel, drawing criticism over the delay as the critical 72-hour survival window narrowed.
-20:36
 1405/05/22
 
 
@@ -2367,21 +2358,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 20:31
-1405/05/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏CENTCOM:
-‏
-‏CENTCOM is creating Task Force Falcon Strike, its first multinational, multi-domain attack drone unit. 
-‏
-‏Led by U.S. Special Operations Command Central, it will combine U.S. and regional partner drones operating in the air, on the sea, and underwater. 
-‏
-‏The force builds on Task Force Scorpion Strike and aims to create a unified drone-based deterrent across the Middle East.
-20:28
 1405/05/22
 
 
@@ -6086,18 +6062,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:39
-1405/05/21
-
-
-
-
-src :@thewarreporter
-‏🇱🇧 — The Lebanese Parliament has voted to abolish the death penalty, potentially making it the first country in the Middle East to formally end capital punishment.
-‏
-‏A majority of MPs in the 128-seat parliament backed the measure, while Hezbollah's parliamentary bloc voted against it.
-‏
-‏The legislation will now go to the Cabinet before being submitted to President Joseph Aoun for signing. The government has already expressed its support for the measure.
-‏
-‏@TheWarReporter
-23:26
 1405/05/21
