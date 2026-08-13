@@ -1,3 +1,12 @@
+src :@rnintel
+[عکس]
+‏🇸🇩🇪🇹⚡- BREAKING: Massive Rapid Support Forces advances in the Ad Damazin direction, Blue Nile State, southeast Sudan.  The Rapid Support Forces counteroffensive continues to gain momentum.
+14:08
+1405/05/22
+
+
+
+
 src :@guard_warriors
 [عکس]
 ‏✪ پیامدهای حملات پهپادی نیروهای مسلح اوکراین به منطقه محل پرتاب موشک‌های کروز "کالیبر" از ناوهای جنگی "امیرال اسن" و "امیرال ماکاروف" از کلاس 11356R در خلیج نووروسیسک، که توسط ماهواره‌های شرکت آمریکایی Vantor ثبت شده است.
@@ -16,6 +25,21 @@ src :@MilitarryWorld
 ‏تراز آبی دریای خزر به پایین‌ترین میزان خود طی حدود ۲۰۰ سال اخیر رسیده است.
 ‏
 ‏@MilitarryWorld | Parsa
+14:07
+1405/05/22
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Ukraine launched a major coordinated strike on Novorossiysk overnight 11–12 August using 15+ domestic weapon systems including missiles, jet drones, and sea drones. 
+‏
+‏Both key Kalibr-capable frigates (Admiral Makarov and Essen) were damaged, along with several other vessels. 
+‏
+‏Grain terminals and oil export infrastructure were also hit. 
+‏
+‏No ships appear sunk, but the strike significantly degrades Black Sea Fleet capability and disrupts a major Russian export hub.
 14:07
 1405/05/22
 
@@ -1075,19 +1099,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏Kushner, Iger to Buy Lakers for Record $12.5 Billion
-‏
-‏Josh Kushner, brother of Jared Kushner and founder of Thrive Capital and Bob Iger, the former Disney CEO agreed to buy a controlling stake in the Los Angeles Lakers at a record $12.5 billion value.
-‏
-‏READ MORE
-12:20
-1405/05/22
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️آناهیتا زارعی، وزنه‌بردار نوجوان ایران، روز پنجشنبه ۲۲ مرداد ماه، در مسابقات قهرمانی نوجوانان و جوانان آسیا با کسب دو مدال طلا در دوضرب و مجموع، عنوان قهرمانی دسته ۷۷ کیلوگرم نوجوانان آسیا را به دست آورد.
@@ -1471,23 +1482,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran’s Foreign Minister Abbas Araghchi:
-‏
-‏The U.S. has long miscalculated due to intelligence failures. 
-‏
-‏Case in point: The war on Iran. Now, an even bigger miscalculation on the Strait of Hormuz. 
-‏
-‏Worse than fake news is fake intelligence. Be careful. 
-‏
-‏Allah is Great, Greater than ANY power on Earth. In Allah we trust.
-11:36
-1405/05/22
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇱🇧 The Lebanese Minister of Defense releases a heavy statement in regards to the general amnesty law that passed yesterday which did not take into account the ministries statement:
@@ -1703,19 +1697,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 11:19
-1405/05/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Leavitt Steps Down As Spokeswoman After 18 Months on the Job
-‏
-‏White House Press Secretary Karoline Leavitt, 28, will leave her role to spend more time with her family with no successor yet named, President Trump announced.
-‏
-‏READ MORE
-11:16
 1405/05/22
 
 
@@ -3458,24 +3439,6 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇱🇮🇷🇹🇷⚡️ — U.S. intelligence officials were skeptical of the Iranian assassination threat against President Trump that was provided by Israel to the CIA and prompted his secret departure from Ankara, Türkiye, last month, WaPo reports.  The intelligence was…
 04:04
-1405/05/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇨🇴⚡️ — At least 224 people have been killed as a result of Monday's powerful earthquake in Colombia, while more than 2,700 remain reported missing.  The disaster has also destroyed or damaged roughly 1,600 buildings.
-03:41
-1405/05/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸🇮🇷🇹🇷⚡️ — Israel briefed the Trump administration on intelligence indicating a possible plot to target Air Force One with shoulder-fired surface-to-air missiles, WSJ reports.  U.S. security officials subsequently moved President Trump to a separate military…
-03:23
 1405/05/22
 
 
