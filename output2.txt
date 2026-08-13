@@ -1,8 +1,49 @@
+src :@tabzlive
+[عکس]
+‏🇩🇪⚡️ — Germany’s cabinet has approved a major reform of the Federal Intelligence Service (BND) that would allow its agents to actively intervene against threats abroad rather than merely collect intelligence, BILD reports.
+‏
+‏Under the proposed law, the BND could sabotage weapons, replace bombs with dummies, delete computer data, and conduct other operations to prevent attacks against Germany or allied countries. In extreme emergency or wartime self-defense situations, agents could also use “kinetic means,” including firearms, although targeted killings and assassination squads would remain prohibited.
+‏
+‏Previously, BND officers sometimes had access to threats but lacked legal authority to intervene. In some cases agents knew the locations of Iranian missiles destined for Hezbollah but were legally unable to disable them, with some BND chiefs authorizing such actions anyway at their own risk. The new legislation is intended to provide an explicit legal basis for such operations.
+‏
+‏The reform would also significantly expand the BND’s foreign surveillance and hacking powers, including access to additional sources such as smart-home data. Foreign data collected by the agency could be stored unread for up to six months, allowing intelligence officers to examine it retrospectively.
+14:26
+1405/05/22
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏وزارت دفاع اسرائیل اعلام کرد یک محموله بزرگ نظامی از آمریکا وارد اسرائیل شده که شامل هزاران تن تجهیزات نظامی و تسلیحات است. این محموله در بندر حیفا تخلیه شده و شامل بولدوزرهای زرهی D9، خودروهای هاموی، خودروهای زرهی JLTV، کامیون‌های اوشکوش و تجهیزات دیگر برای تقویت آمادگی و توان عملیاتی نیروهای زمینی ارتش اسرائیل است.
+‏
+‏🆔@WAR_ROOM_NEWS
+14:25
+1405/05/22
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️کیفیت هوای تهران روز پنجشنبه ۲۲ مرداد با ثبت میانگین شاخص ۱۰۰ در مرز شرایط ناسالم برای گروه‌های حساس قرار گرفت.
+‏
+‏به گزارش خبرگزاری صداوسیما جمهوری اسلامی ایران و بر اساس اعلام شرکت کنترل کیفیت هوای تهران، میانگین کیفیت هوای پایتخت طی ۲۴ ساعت گذشته با آلاینده شاخص ازن روی عدد ۱۰۰ قرار داشته است.
+‏
+‏از ابتدای سال تاکنون، تهران ۱۲ روز هوای پاک، ۱۱۳ روز هوای قابل قبول، ۱۹ روز هوای ناسالم برای گروه‌های حساس و دو روز هوای ناسالم برای همه را تجربه کرده است.
+‏
+‏@indypersian
+14:24
+1405/05/22
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Enemy media:
 ‏
-‏The Israeli Ministry of War has completed receiving and unloading another cargo ship at the Port of Haifa, which was carrying thousands of tons of military equipment and combat materiel. The shipment includes, among other things: essential D9 bulldozers, Hummer vehicles, JLTV armored vehicles, Oshkosh trucks, and much other equipment.
+‏The Israeli Ministry of War has completed receiving and unloading another cargo ship at the Port of Haifa, which was carrying thousands of tons of military equipment and combat materiel. The shipment includes, among the weapons: D9 bulldozers, Hummer vehicles, JLTV armored vehicles, Oshkosh trucks, and much other equipment.
 14:23
 1405/05/22
 
@@ -13,7 +54,7 @@ src :@Alibk3
 [عکس]
 ‏إعلام العدو: 
 ‏
-‏أكملت وزارة الحرب الاسرائيلية استلام وتفريغ سفينة شحن أخرى في ميناء حيفا، كانت تحمل آلاف الأطنان من المعدات العسكرية ووسائل القتال. وتشمل الشحنة، من بين أمور أخرى: جرافات D9 ضرورية، ومركبات هامر، ومركبات مدرعة من طراز JLTV، وشاحنات من طراز أوشكوش، ومعدات أخرى كثيرة.
+‏أكملت وزارة الحرب الاسرائيلية استلام وتفريغ سفينة شحن أخرى في ميناء حيفا، كانت تحمل آلاف الأطنان من المعدات العسكرية ووسائل القتال. وتشمل الشحنة، من بين الأسلحة، جرافات D9، مركبات هامر، مركبات مدرعة من طراز JLTV، وشاحنات من طراز أوشكوش، ومعدات أخرى كثيرة.
 14:23
 1405/05/22
 
@@ -46,7 +87,7 @@ src :@wfwitness
 
 src :@tabzlive
 [عکس]
-‏🇺🇸🇯🇵🇨🇳⚡️ — The U.S. and Japan are advancing plans to mine massive rare-earth deposits 6 km beneath the Pacific near Minamitorishima, potentially creating the world’s deepest undersea mine and reducing dependence on China.
+‏🇺🇸🇯🇵🇨🇳⚡️ — The U.S. and Japan are advancing plans to mine massive rare-earth deposits 6 km beneath the Pacific near Minamitorishima, potentially creating the world’s deepest undersea mine and reducing dependence on China, Bloomberg reports.
 ‏
 ‏Japanese researchers estimate the seabed contains more than 16 million tons of rare earths, including critical heavy elements such as dysprosium, terbium, yttrium, and gadolinium. The yttrium deposits alone could reportedly cover 780 years of global demand, while samples contain little radioactive material compared with many land-based deposits.
 ‏
@@ -1565,7 +1606,7 @@ src :@defence_news
 
 src :@naya_foriraq
 [عکس]
-‏🔻رئيس مجلس القضاء الاعلى العراقي يلتقي وزير العدل السوري فور وصوله إلى سوريا للقاء الجولاني ؛ في الوقت ذاته الذي تواجه فيه حكومة الجولاني الحالية انتقادات مستمرة من منظمات حقوق الإنسان الدولية بشأن ملفات العدالة والتعامل مع المكونات المحلية.
+‏🔻رئيس مجلس القضاء الاعلى العراقي يلتقي وزير العدل السوري
 11:44
 1405/05/22
 
@@ -2523,15 +2564,6 @@ src :@warmonitors
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏درود خدمت همراهان عزیز و روز شما بخیر
-10:02
-1405/05/22
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏تصویری ماهواره ی مشکلات زیست محیطی در منطقه خلیج فارس حوالی تنگه هرمز
@@ -3340,19 +3372,6 @@ src :@jangaavaran1390
 [عکس]
 ‏سلام صبح بخیر
 07:19
-1405/05/22
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، با انتشار پیامی در اکس، به محکومیت اعدام معترضان در ایران از سوی فرانسه واکنش نشان داد و نوشت: «کشورهایی مانند فرانسه باید دست از موعظه کردن جهان درباره حقوق بشر و حقوق بین‌الملل بردارند. این ریاکاری آشکار و شرم‌آور است.» عراقچی در ادامه نوشت حمایت فرانسه از اقدامات اسرائیل در غزه و «تجاوز علیه ایران»، آنچه را این کشور «برتری اخلاقی» خود تصور می‌کرد، از بین برده است.
-‏اظهارات عراقچی پس از آن مطرح شد که ژان نوئل بارو، وزیر امور خارجه فرانسه، با انتشار پیامی در اکس نوشت هفت ماه پس از «جنایات گسترده علیه مردم ایران که برای عدالت و کرامت به‌پا خاستند»، حکومت ایران همچنان با افزایش اعدام‌ها به «خون‌ریزی» ادامه می‌دهد. او افزود: «این سرکوب غیرقابل‌تحمل و غیرانسانی باید پایان یابد، عاملان آن پاسخگو شوند و زندانیان سیاسی آزاد شوند.» بارو همچنین تاکید کرد مردم ایران باید بتوانند آزادانه درباره آینده خود تصمیم بگیرند و حقوق بنیادین آنها باید رعایت شود.
-‏
-‏همزمان، ۳۲ کشور شامل ۲۹ کشور اروپایی به همراه کانادا، استرالیا و نیوزیلند با انتشار بیانیه‌ای مشترک، ادامه اعدام معترضان و استفاده جمهوری اسلامی از مجازات اعدام را محکوم کردند. در این بیانیه آمده است استفاده از مجازات اعدام برای «خاموش کردن صدای مخالفان، ارعاب جوامع و مجازات افرادی که از حقوق بنیادین خود استفاده می‌کنند» تحت هیچ شرایطی قابل توجیه نیست.
-‏@indypersian
-07:15
 1405/05/22
 
 
@@ -4248,16 +4267,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 23:02
-1405/05/21
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏یجوری قیمت بنزین تو امریکا بردن بالا که از کرمان زد بیرون
-‏
-‏@MilitaryDarJahanMovazi
-22:57
 1405/05/21
 
 
@@ -6069,27 +6078,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 14:39
-1405/05/21
-
-
-
-
-src :@rnintel
-‏🇺🇸🇹🇷🇺🇦⚡- Turkey has confirmed that it has requested U.S. approval to transfer to Ukraine what could become one of the largest ammunition packages delivered to Kiev to date, including thousands of cluster munitions.
-‏
-‏The package will contain:
-‏- 70 M39 ATACMS ballistic missiles.
-‏- 2,524 M26 rockets,
-‏- 47,000 M509A1 203mm artillery shells.
-14:24
-1405/05/21
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran says there are no discussions on extending the ceasefire with the United States.
-‏
-‏@BRICSNews
-14:24
 1405/05/21
