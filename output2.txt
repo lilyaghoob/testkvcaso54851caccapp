@@ -147,17 +147,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-[عکس]
-‏📱❌🇾🇪 — X has suspended the account of Houthi (Ansarallah) spokesman Yahya Saree.
-‏
-‏Saree's previous account was also suspended.
-05:34
-1405/05/22
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش دیفنس‌نیوز، ناو هواپیمابر یو‌اس‌اس تئودور روزولت اکنون نخستین ناو نیروی دریایی آمریکا است که به مرکز جنگ هوایی بدون سرنشین (UAWC) مجهز شده؛ مرکزی که از پهپاد «ام‌کیو-۲۵ای استینگری» (MQ-25A Stingray) ساخت بوئینگ پشتیبانی خواهد کرد. این پهپاد نخستین هواپیمای بدون سرنشین عملیاتی مستقر بر ناو هواپیمابر در نیروی دریایی آمریکا به شمار می‌رود.
@@ -166,19 +155,6 @@ src :@Indypersian
 ‏بر اساس یادداشت پنتاگون که اخیرا در گزارش نوسازی برنامه‌های تسلیحاتی منتشر شده، مرکز جنگ هوایی بدون سرنشین ناو «تئودور روزولت» در اسفند ۱۴۰۴ (مارس ۲۰۲۶) به نخستین ناو هواپیمابر کاملا عملیاتی و قابل استقرار برای پشتیبانی از ام‌کیو-۲۵ تبدیل شد. 
 ‏@indypersian
 05:32
-1405/05/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇳⚡️ — The U.S. Justice Department has charged 11 people over a decade-long sham marriage scheme that helped mostly Chinese nationals obtain legal immigration status in the U.S.
-‏
-‏Foreign nationals paid six facilitators as much as $100,000 to arrange marriages with U.S. citizens, who were paid up to $30,000 to participate. Those involved allegedly then helped the couples file paperwork with the Department of Homeland Security to secure lawful permanent residency.
-‏
-‏Authorities say the operation arranged around 1,000 fraudulent marriages over roughly a decade. Attorney General Todd Blanche described it as "one of the largest marriage fraud prosecutions in U.S. history."
-05:25
 1405/05/22
 
 
@@ -311,15 +287,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — BREAKING: Multiple sailors aboard the USS Abraham Lincoln have attempted to jump overboard as its crew faces mounting mental health pressures during the extended deployment supporting operations against Iran, The Guardian reports.  The carrier’s roughly…
-04:35
-1405/05/22
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Wreckage of a new unidentified Russian UAV, designated “Gerbera-2” by the Ukrainian side.
@@ -396,15 +363,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇮🇷🇹🇷⚡️ — U.S. intelligence officials were skeptical of the Iranian assassination threat against President Trump that was provided by Israel to the CIA and prompted his secret departure from Ankara, Türkiye, last month, WaPo reports.  The intelligence was…
-04:04
-1405/05/22
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏مقام‌های کنونی و پیشین آمریکا به واشینگتن‌پست گفتند سازمان اطلاعات مرکزی آمریکا، سیا، ارزیابی اسرائیل درباره تهدید فوری جمهوری اسلامی علیه جان دونالد ترامپ، رییس‌جمهوری آمریکا، را قانع‌کننده نمی‌دانست، اما سرویس مخفی با اجرای یک عملیات امنیتی کم‌سابقه، او را مخفیانه از ترکیه خارج کرد.
@@ -412,15 +370,6 @@ src :@IranintlTV
 ‏به گزارش واشینگتن‌پست، اطلاعات مربوط به این تهدید از سوی اسرائیل در اختیار آمریکا قرار گرفته بود، اما تحلیلگران سیا نسبت به اعتبار آن تردید داشتند و آن را دارای «درجه اطمینان پایین» ارزیابی کردند. با این حال، سرویس مخفی برای جلوگیری از هرگونه خطر، ترامپ را پس از نشست ناتو در آنکارا، مخفیانه با یک هواپیمای نظامی دیگر به بریتانیا منتقل کرد، در حالی که خبرنگاران و همراهان او با ایرفورس وان قدیمی سفر می‌کردند.
 ‏
 ‏این روزنامه نوشت برخی مقام‌های اطلاعاتی آمریکا معتقد بودند هشدار اسرائیل ممکن است علاوه بر اطلاع‌رسانی، با هدف تاثیرگذاری بر تصمیم‌های ترامپ نیز مطرح شده باشد. با این حال، کاخ سفید اعلام کرد رییس‌جمهوری آمریکا با تهدیدهای متعددی، از جمله از سوی جمهوری اسلامی، روبه‌رو است و همه تدابیر لازم برای حفاظت از او اتخاذ می‌شود.
-03:41
-1405/05/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇨🇴⚡️ — At least 224 people have been killed as a result of Monday's powerful earthquake in Colombia, while more than 2,700 remain reported missing.  The disaster has also destroyed or damaged roughly 1,600 buildings.
 03:41
 1405/05/22
 
@@ -504,37 +453,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸🇮🇷🇹🇷⚡️ — Israel briefed the Trump administration on intelligence indicating a possible plot to target Air Force One with shoulder-fired surface-to-air missiles, WSJ reports.  U.S. security officials subsequently moved President Trump to a separate military…
-03:23
-1405/05/22
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇾🇪 — Houthi (Ansarallah) drones were spotted north of the coastal city of Mokha earlier tonight and were successfully engaged by air defenses, according to PLC outlets.
-03:10
-1405/05/22
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇾🇪 — Violent clashes between Houthi (Ansarallah) forces and Saudi-backed government forces broke out across several fronts in Yemen’s Lahij, Taiz, and Hodeidah Governorates earlier tonight.
-‏
-‏In northern Lahij, fighting and artillery exchanges erupted along the Haifan front, with clashes spreading across several nearby positions after Houthi forces attempted to advance under cover of heavy and medium weapons fire.
-‏
-‏In Taiz, government forces engaged Houthi forces in heavy fighting northeast of the city after Houthi shelling targeted military positions in the Kalabah area.
-‏
-‏National Resistance forces reported that they thwarted a Houthi infiltration attempt in the Jabal Dabbas area on the Hays front south of Hodeidah, causing personnel and equipment losses.
-03:08
-1405/05/22
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏روایت یکی از خبرنگاران همراه دونالد ترامپ نشان می‌دهد گروه رسانه‌ای کاخ سفید، بدون اطلاع، بخشی از یک عملیات امنیتی برای حفاظت از رییس‌جمهوری آمریکا در برابر تهدیدهای منتسب به جمهوری اسلامی بوده‌اند.
@@ -547,25 +465,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202608127863
 03:05
-1405/05/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇳⚡️ — More than 257 million young people aged 15 to 24 globally—representing roughly 20% of the world's youth—were classified as NEET (not in employment, education, or training) in 2025, according to the UN's ILO.
-03:03
-1405/05/22
-
-
-
-
-src :@warmonitors
-‏This Solar eclipse gave me the will to live again.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-02:54
 1405/05/22
 
 
@@ -3466,21 +3365,6 @@ src :@cataphract1
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ گزارش شده است که در تاریخ 22 جولای، یک زیردریایی غیراتمی به نام "دراگن" به طور مخفیانه به نیروی دریایی اسرائیل تحویل داده شد. این زیردریایی، سومین زیردریایی از نوع "دلفین 2" است که برای اسرائیل ساخته شده است. روز بعد از تحویل (23 جولای)، زیردریایی "دراگون" از کیل (آلمان) به دریا رفت تا برنامه آزمایش خود را تحت پرچم اسرائیل به پایان برساند. این زیردریایی در کارخانه کشتی‌سازی کیلر ورفت (که قبلاً به عنوان کارخانه اصلی هاوالدتس‌ورکه-دویچه ورفت یا HDW شناخته می‌شد) توسط شرکت آلمانی تیسن‌کروپ مارین سیستمز (TKMS) ساخته شده است.
-‏
-‏اسرائیل، زیردریایی "دراگون" را در سال 2011 از شرکت TKMS بر اساس یک طرح اصلاح‌شده و با قراردادی به ارزش 840 میلیون یورو سفارش داد. دولت آلمان 135 میلیون یورو از این مبلغ را تأمین کرد. ساخت این زیردریایی در کیل در سال 2012 آغاز شد و در تاریخ 1 آگوست 2023 از کارخانه خارج شد. مراسم نام‌گذاری زیردریایی در تاریخ 12 نوامبر 2024 برگزار شد و این زیردریایی در جولای 2025 برای آزمایش‌های کارخانه‌ای به دریا رفت. با ورود این زیردریایی به ناوگان، نیروی دریایی اسرائیل اکنون دارای شش زیردریایی غیراتمی ساخت آلمان است: سه فروند از نوع "دلفین" (دلفین، لویاتان و تکوما که در سال‌های 1999-2000 وارد خدمت شدند) و سه فروند از نوع "دلفین 2" (تانیین و راهاو که در سال‌های 2014-2016 وارد خدمت شدند، و اکنون "دراگون" که اصلاح شده است).
-‏
-‏زیردریایی "دراگون" با وزن 3000 تن و طول 80 متر، بزرگترین زیردریایی است که پس از جنگ جهانی دوم در آلمان ساخته شده است. مهم‌ترین تفاوت "دراگون" با دو زیردریایی قبلی از نوع "دلفین 2"، وجود یک ماژول VMPL (Vertical Multi-Purpose Lock) است که توسط TKMS طراحی شده و در وسط بدنه اصلی قرار دارد. این ماژول با طول تقریبی 2 متر، برای قرار دادن وسایل زیردریایی، یک محفظه برای غواصان یا سیستم‌های پرتاب عمودی موشک‌ها طراحی شده است. همچنین، "دراگون" دارای یک محفظه بزرگتر برای سیستم‌های متحرک است که به نظر می‌رسد چهار سیستم پرتاب عمودی موشک در آن نصب شده است. عکس "دراگون" در حال خروج از کیل در تاریخ 23 جولای که توسط عکاسی به نام مایکل نیتز گرفته شده است.
-‏
-‏@Guard_Warriors | Mmd
-21:05
-1405/05/21
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇷⚰️ — A Basij member named Saeed Kazemi was abducted by unknown individuals and killed in Tehran yesterday in what is described as a coordinated attack involving a deliberate car crash followed by knife assaults.
@@ -4068,29 +3952,6 @@ src :@rnintel
 src :@naya_foriraq
 ‏🇮🇶المجلس الوزاري العراقي للأمن الوطني: قرار انتهاء مهمة التحالف الدولي في العراق في 30 أيلول المقبل هو  توقيت نهائي لا عودة عنه.
 19:32
-1405/05/21
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ 114 فروند جنگنده رافال را به هند با قیمت 39.7 میلیارد دلار پیشنهاد می‌دهد، اما این بار با تأکید بر تولید داخلی
-‏
-‏مناقصه‌ای که برای تامین "جنگنده چندمنظوره میان‌رده" (Medium Multi-Role Combat Aircraft، یا MMRCA/MRFA) برگزار شده و مانند یک سریال هندی خوب، سال‌هاست که ادامه دارد، ممکن است به زودی به پایان برسد.
-‏
-‏شرکت داسو، پیشنهاد نهایی خود را برای تحویل 114 فروند جنگنده رافال به نیروی هوایی هند ارائه داد. ارزش این پیشنهاد، حدود 39 میلیارد دلار تخمین زده می‌شود.
-‏
-‏بر اساس این پیشنهاد، 20 فروند از هواپیماها از فرانسه به صورت آماده تحویل داده خواهند شد. 94 فروند دیگر نیز در هند، با مشارکت تولیدکنندگان محلی، مونتاژ خواهند شد. پیش‌بینی می‌شود که سهم قطعات تولیدی هند، تا 60 درصد باشد. همچنین، ادغام موشک‌های هندی "آسترا" نیز در برنامه است. این یک فرصت بزرگ برای صنایع دفاعی هند است: حجم سفارشات برای شرکت‌های داخلی، حدود 1.6 لاک کرور روپیه تخمین زده می‌شود.
-‏
-‏این داستان از سال 2007 با برگزاری مناقصه MMRCA برای 126 فروند جنگنده چندمنظوره آغاز شد. در سال 2012، رافال با شکست دادن رقبا (از جمله میگ-35)، برنده شد. اما این معامله به دلیل اختلاف نظر در مورد قیمت و انتقال فناوری، به سرانجام نرسید. در سال 2016، هند به صورت فوری، تنها 36 فروند رافال را خریداری کرد. این هواپیماها تا پایان سال 2022 تحویل داده شدند.
-‏
-‏اکنون، دهلی دوباره به فکر خرید بزرگ است. اگر پیشنهاد داسو پذیرفته شود، هند به طور قابل توجهی تعداد جنگنده‌های فرانسوی در نیروی هوایی خود را افزایش خواهد داد و رافال، تولید داخلی عمیقی در این کشور خواهد داشت. در صورت تایید این معامله، تعداد کل رافال‌ها در هند، با در نظر گرفتن سفارش احتمالی رافال M برای نیروی دریایی، می‌تواند به 200 فروند برسد.
-‏
-‏مطالب پیشین
-‏
-‏@Guard_Warriors | Mmd
-19:31
 1405/05/21
 
 
@@ -4740,19 +4601,6 @@ src :@mwarmonitor
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ 26 سال از غرق شدن زیردریایی هسته ای پروژه 949A Antey K-141 Kursk می گذرد.
-‏
-‏در 12 اوت 2000، یک زیردریایی موشکی در جریان تمرینات ناوگان شمال در دریای بارنتس غرق شد. مجموعه ای از تصمیمات فنی اشتباه، سهل انگاری و حماقت انسانی جان همه 118 خدمه زیردریایی هسته ای کورسک را گرفت.
-‏
-‏@Guard_Warriors | Mmd
-18:02
-1405/05/21
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏📸 گفت‌وگوی پزشکیان و حسین طائب رئیس جدید سازمان بسیج در نشست امروز اعضای هیئت اندیشه‌ورز بسیج جامعه پزشکی با رئیس‌جمهور
@@ -4859,16 +4707,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@warmonitors
-‏⚡Al Hadath: The Lebanese state is committed to the option of negotiating with Israel.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:44
-1405/05/21
-
-
-
-
 src :@Middle_East_Spectator
 ‏— 🇰🇼 NEW: Kuwait announces it foiled a ‘terrorist plot’ to target vital facilities in the country with drones
 ‏
@@ -4965,32 +4803,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏#جهیمان_العتیبی
 ‏
 ‏@RASTAKHIZ_PERSIAN
-17:04
-1405/05/21
-
-
-
-
-src :@warmonitors
-‏⚡️UK Government Announces:
-‏
-‏13 more asylum hotels have closed and are being returned to local communities:
-‏
-‏Ramada Jarvis Hotel, Loughborough
-‏Chimney House Hotel, Sandbach
-‏Britannia Ashley Hotel, Hale
-‏Gold Thorn Hotel, Wolverhampton
-‏Grand Metropole Hotel, Blackpool
-‏Nottingham Hotel, Nottingham
-‏Grosvenor Hotel, Stratford-upon-Avon
-‏Staycity Apartments Deptford Bridge, Lewisham
-‏Needham House, Hitchin
-‏Holiday Inn Bridgwater
-‏Holiday Inn Express Dunstable
-‏Dubrovnik Hotel, Bradford
-‏Best Western Brook Hotel, Norwich
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:04
 1405/05/21
 
@@ -5205,49 +5017,11 @@ src :@Middle_East_Spectator
 
 
 
-src :@warmonitors
-‏⚡️ The death toll after an overloaded ferry capsized on a lake in Zimbabwe has risen to 44, police say
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-16:09
-1405/05/21
-
-
-
-
-src :@warmonitors
-‏nuke tiktok
-‏x.com/niggrballzz/st…
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-16:09
-1405/05/21
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇮🇱/🇱🇧 NEW: Israel carried out airstrikes against the Lebanese town of Al-Mansouri
 ‏
 ‏@Middle_East_Spectator
-16:07
-1405/05/21
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ پالمر لاکی، بنیانگذار شرکت آمریکایی Anduril Industries، برای اولین بار به صراحت اعلام کرد که هدف اصلی غرب، این است که عملیات ارتش آزادی‌بخش خلق چین برای "اتحاد مجدد" تایوان را بسیار پرهزینه کند.
-‏
-‏به گفته او، ایالات متحده و متحدانش به دنبال پیروزی در جنگ نیستند، بلکه می‌خواهند پکن را متقاعد کنند که از سناریوی نظامی در مرحله تصمیم‌گیری منصرف شود.
-‏
-‏قابل توجه این است که لاکی، حوزه‌های کمک نظامی به تایوان را فاش کرد. شرکت Anduril در حال حاضر موشک‌ها و مهمات انتحاری را به این جزیره عرضه می‌کند که برای تحمیل خسارت به نیروهای پیاده‌نظام ارتش چین در هنگام عبور از تنگه تایوان طراحی شده‌اند.
-‏
-‏همزمان، این شرکت در ایجاد یک سیستم دفاع هوایی برای محافظت از زیرساخت‌های حیاتی تایوان در برابر حملات هوایی نیز مشارکت دارد.
-‏
-‏@Guard_Warriors | Mmd
 16:07
 1405/05/21
 
@@ -5729,17 +5503,6 @@ src :@P_raetorio
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ گروه ۴۹ ناوهای جنگی نیروی دریایی ارتش خلق چین، در تاریخ ۱۲ اوت، از پایگاه دریایی سانیا خارج شد و به سمت خلیج عدن حرکت کرد.
-‏
-‏@Guard_Warriors | Mmd
-13:10
-1405/05/21
-
-
-
-
 src :@didarnews1
 ‏🔴 دو مقام آمریکایی به نیویورک تایمز گفتند که در آخرین روز حضور دونالد ترامپ، رئیس‌جمهور آمریکا، در ترکیه، اطلاعات امنیتی آمریکا یک تهدید احتمالی از سوی ایران علیه او شناسایی کرده است. بر اساس این اطلاعات، ایران از هتل و طبقه دقیق محل اقامت ترامپ اطلاع داشته است؛ همچنین گزارش شده فردی حامل یک موشک دوش‌پرتاب در نزدیکی محل برگزاری نشست ناتو مشاهده شده است.
 ‏
@@ -5865,42 +5628,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 12:22
-1405/05/21
-
-
-
-
-src :@warmonitors
-[عکس]
-‏Super Cup is on, easy win for PSG in my books 🙏
-‏
-‏What do you think? 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-12:19
-1405/05/21
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ لاشه هواپیمای MiG-29 اوکراینی که در 10 اگوست به دلیل آتش گرفتن یک موشک هوا به هوا در حین شکار پهپادهای انتحاری در منطقه اودسا سقوط کرد.
-‏
-‏این عکس همچنین بقایای موشک های هوا به هوای کوتاه برد R-60 را نشان می دهد که احتمالاً یکی از آنها باعث سقوط این جنگنده شده است.
-‏
-‏@Guard_Warriors | Mmd
-12:19
-1405/05/21
-
-
-
-
-src :@warmonitors
-‏⚡Yemeni sources told Sky News Arabia that the Houthis have resumed shelling the port of Mocha with ballistic missiles.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-12:14
 1405/05/21
 
 
@@ -6265,19 +5992,6 @@ src :@samueltarikh
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ احتمالاً قطعات مهمات S-71K "Carpet" که در 9 اوت در نزدیکی روستای Crokmaz در مولداوی، در مرز با منطقه اودسا کشف شد. 
-‏
-‏این مهمات یک پهپاد کوچک یا موشک کروز است که از جت های جنگنده Su-57 پرتاب می شود.
-‏
-‏@Guard_Warriors | Mmd
-10:37
-1405/05/21
-
-
-
-
 src :@rnintel
 ‏🇪🇬⚡- Egyptian President Abdel Fattah el-Sisi's schizophrenic foreign policy continues to face questions over its strategic direction. Egypt had been expected to become the fourth signatory to the historic Mecca Agreement defense pact over the weekend, but…
 10:33
@@ -6546,19 +6260,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 09:25
-1405/05/21
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ کره شمالی در تاریخ 12 اوت، یک موشک بالستیک را از منطقه وونسان به سمت دریای ژاپن پرتاب کرد.
-‏
-‏برد این پرتاب 690 کیلومتر بود و سر جنگی موشک در خارج از منطقه اقتصادی انحصاری ژاپن، غرب هوکایدو، سقوط کرد. ارتفاع در نقطه اوج به 90 کیلومتر رسید.
-‏
-‏@Guard_Warriors | Mmd
-09:14
 1405/05/21
 
 
