@@ -1,3 +1,15 @@
+src :@Farsi_Iranwire
+[عکس]
+‏کریس رایت، وزیر انرژی ایالات متحده، در گفت‌وگو با شبکه فاکس‌نیوز گفت توان جمهوری اسلامی برای ایجاد اختلال در منطقه در حال کاهش است و همزمان قابلیت آمریکا برای اسکورت و انتقال محموله‌ها از منطقه افزایش یافته است.
+‏بیشتر: https://iranwire.com/fa/news-1/156303
+‏
+‏@Farsi_Iranwire
+15:53
+1405/05/23
+
+
+
+
 src :@didarnews1
 ‏🔴 علم الهدی: آسایش و زندگی راحت بدون داشتن انرژی هسته‌ای محقق نمی‌شود
 ‏
@@ -11,7 +23,7 @@ src :@didarnews1
 
 
 src :@Ali_bk_2
-‏The U.S. War Department announces an agreement with Boeing and RTX to increase production of spare parts for SM-3 missiles, naval anti-aircraft interceptors.
+‏The U.S. War Department announces an agreement with Boeing and RTX to increase production of spare parts for SM-3 missiles designed to intercept ballistic missiles outside the atmosphere.
 15:46
 1405/05/23
 
@@ -19,7 +31,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏وزارة الحرب الأمريكية تعلن عن اتفاق مع شركتي بوينغ و RTX لزيادة إنتاج قطع الغيار لصواريخ SM-3، الاعتراضية البحرية المضادة للطائرات.
+‏وزارة الحرب الأمريكية تعلن عن اتفاق مع شركتي بوينغ و RTX لزيادة إنتاج قطع الغيار صواريخ SM-3 المخصصة لاعتراض الصواريخ الباليستية خارج الغلاف الجوي
 15:46
 1405/05/23
 
@@ -2063,19 +2075,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏Ukraine Offers Black Sea Truce to Russia Amid Global Food Supply Fears
-‏
-‏Ukraine proposed to Russia a truce to halt attacks on civilian targets in the Black Sea as escalating strikes on ports and commercial vessels raise fears over global food security.
-‏
-‏READ MORE
-12:57
-1405/05/23
-
-
-
-
 src :@jangaavaran1390
 ‏کانال ۱۲
 ‏ترامپ هنوز از نتانیاهو به طور علنی در آستانه انتخابات حمایت نکرده است: در ملاقاتی که دو هفته پیش بین آن‌ها انجام شد، رئیس‌جمهور آمریکا از نخست‌وزیر درباره وضعیتش در نظرسنجی‌ها سوال کرد. نتانیاهو در آن لحظه مکث کرد و یکی از مشاورانش وارد گفتگو شد. به گفته یک مقام سابق آمریکایی، ضعف نتانیاهو در نظرسنجی‌ها یکی از دلایل تردید در کاخ سفید است.
@@ -2144,16 +2143,6 @@ src :@Alibk3
 [عکس]
 ‏عدد طائرات التزويد بالوقود الامريكية تتناقص في مطار بن غوريون بشكل كبير، حيث كان هنالك حوالي 60 طائرة في شهر مايو، أما الآن، توجد حوالي 20 طائرة فقط.
 12:50
-1405/05/23
-
-
-
-
-src :@ClashReport
-‏Japan Coast Guard reports four Chinese Coast Guard vessels were operating around the Senkaku Islands on Aug. 14, marking the sixth consecutive day of Chinese maritime presence in the area.
-‏
-‏Japan said the vessels remained in the contiguous zone and warned them against entering its territorial waters.
-12:49
 1405/05/23
 
 
@@ -3389,17 +3378,6 @@ src :@naya_foriraq
 
 
 
-src :@P_raetorio
-[عکس]
-‏انبار شرکت وایلدبریز برای دومین روز متوالی در باشقیرستان مورد اصابت پهپاد‌های اوکراینی قرار گرفت!
-‏
-‏@P_raetorio
-11:20
-1405/05/23
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏✈️ پرواز هواپیمای آواکس آمریکا بر فراز عربستان
@@ -3812,21 +3790,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 10:24
-1405/05/23
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ecuadorian police seized about 1,000 pounds of cocaine from a truck near the Colombian border,  with Haaland’s face stamped on the packages.
-‏
-‏Authorities estimated its value at more than $11 million in the U.S. and nearly $20 million in Europe.
-‏
-‏Organized crime experts say cartels often use celebrity and politician images to mark shipments and signal their quality.
-‏
-‏Source: WaPo
-10:23
 1405/05/23
 
 
@@ -5710,20 +5673,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:37
-1405/05/22
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏فدراسیون بین‌المللی روزنامه‌نگاران صدور حکم ۱۵سال زندان برای «یلدا معیری»، عکاس خبری ایرانی، را محکوم کرد و از قوه قضاییه جمهوری اسلامی خواست اتهامات مطرح‌شده علیه او را لغو کند.
-‏
-‏«آنتونی بلانگر»، دبیرکل این فدراسیون، این حکم را بخشی از تشدید فشار بر روزنامه‌نگاران و منتقدان در ایران توصیف کرد و گفت هدف از صدور این احکام «ساکت کردن روزنامه‌نگاران و مخالفان» است.
-‏بخوانید: https://iranwire.com/fa/news-1/156275
-‏
-‏@Farsi_Iranwire
-21:27
 1405/05/22
 
 
