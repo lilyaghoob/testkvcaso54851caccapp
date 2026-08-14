@@ -976,15 +976,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iranian Foreign Minister Abbas Araghchi: What was stated in the Islamabad memorandum of understanding was an “end to the war,” not a ceasefire. The United States violated this memorandum, and the fighting subsequently resumed.  Therefore, there is…
-00:39
-1405/05/24
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏Iranian Deputy Foreign Minister:
@@ -1005,18 +996,6 @@ src :@Alibk3
 ‏قال ترامب إنه بعد هزيمة إيران، سيعلن قريبًا عن أن مضيق هرمز جزء من الأراضي الأمريكية. لا يمكن الاستيلاء على مضيق هرمز بالتغريدات، ولا بالناقلات الجوية، ولا بإصدار الأوامر، ولا بالخطابات الانتخابية. إيران لا تخاف من التهديدات، ولا تخضع لعروض القوة.
 ‏
 ‏هذا المضيق سيُفتح ويُغلق فقط بموجب أوامر من إيران، وطالما أنكم لا تقبلون حقيقة الهزيمة وتتوقفون عن التوهم، فإن إيران ستواصل تطبيق الحصار.
-00:38
-1405/05/24
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iranian Foreign Minister Abbas Araghchi:
-‏What was stated in the Islamabad memorandum of understanding was an “end to the war,” not a ceasefire. The United States violated this memorandum, and the fighting subsequently resumed.
-‏
-‏Therefore, there is no such thing as a 60-day ceasefire that would require an extension.
 00:38
 1405/05/24
 
@@ -1909,21 +1888,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:14
-1405/05/23
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻سهراب بختیاری‌زاده، سرمربی استقلال، پس از برد پرگل هفته اول برابر مس شهربابک، با تمجید از بازیکنانش گفت: «تک تک بازیکنان را باور و به یک تیم متعهد اعتقاد دارم. تک‌تک بازیکنان من ستاره هستند و برای من چیزی که مهم است، حس همدلی  است و همین باعث شد که امروز تیم پیروز بازی باشیم.»
-‏
-‏🔹بختیاری‌زاده درباره حساسیت خودش روی عملکرد بازیکنان تیم در طول بازی گفت: «یک‌سری چیزها در فوتبال قانون و اصول کاری است و جدا از هر نتیجه‌ای باید اجرا شود. چه ما گل زده باشیم و چه عقب باشیم، باید منضبط باشیم و استقرار بازیکنان در فضای مناسب باشد و باید همیشه منظم بازی کنیم. به لحاظ روحی سعی می‌کردم بچه‌ها را از غرور دور کنم تا فکر نکنند بعد از دو گل کار تمام شده است.»
-‏
-‏🔹سرمربی استقلال درباره انتظارش از اعضای تیم گفت: «در تیم‌های بزرگ مانند استقلال، بازیکن باید شرایط مالی خوبی داشته باشد و از آن طرف هم در تمرینات با عشق کار کند. همانطور که در دهه ۶۰ و قبل از آن بازیکنانی بودند که قهرمان آسیا شدند و می‌توانستند در تیم‌های دیگر شرایط بهتری داشته باشند، اما برای عشق و علاقه‌شان در استقلال بازی کردند.»
-‏
-‏@iranintltvsport
-23:12
 1405/05/23
 
 
@@ -6622,14 +6586,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 02:45
-1405/05/23
-
-
-
-
-src :@GeoPWatch
-‏🇾🇪❌🇾🇪 - Houthi Launch of 2 BM from Qarn Dhmar.
-‏
-‏@GeoPWatch
-02:33
 1405/05/23
