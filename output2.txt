@@ -1,3 +1,51 @@
+src :@Ali_bk_2
+‏Several explosions were heard in the Strait of Hormuz after the IRGC targeted non-compliant vessels.
+18:33
+1405/05/23
+
+
+
+
+src :@Alibk3
+‏دوي عدة انفجارات في مضيق هرمز، جراء استهداف سفن مخالفة.
+18:33
+1405/05/23
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴لاوروف، وزیر خارجه روسیه: آتش بس در اوکراین برقرار نخواهد شد.
+‏به زودی حمله به تاسیساتی که از ماشین جنگی اوکراین با حمایت غربی ها ، پشتیبانی می کنند را افزایش خواهیم داد. 
+‏
+‏@MilitarryWorld | Parsa
+18:30
+1405/05/23
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴سفارت اسرائیل در پرتغال برای ایرانیان حاضر جلوی سفارت، سرود “ای ایران، ای مرز پر گوهر” را پخش کرد.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+18:28
+1405/05/23
+
+
+
+
+src :@jangaavaran1390
+‏به گزارش خبرگزاری رویترز، پس از بازدید ولادیمیر پوتین، رئیس جمهور روسیه از جزیره اتوروفو، یکی از چهار جزیره تحت کنترل روسیه که توکیو ادعای مالکیت آن را دارد، ژاپن در حال بررسی اقدامات سختگیرانه‌تر علیه روسیه، از جمله احتمالاً تشدید تحریم‌های موجود، است.
+18:28
+1405/05/23
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏احمد علم‌الهدی، امام جمعه مشهد، در نماز جمعه این شهر گفت: «اخیرا زمزمه‌ای در میان مردم راه انداخته‌اند که مردم پنج، شش ماه عزادارند، گریه می‌کنند، غم و مصیبت دارند؛ حالا که چهلم تدفین رهبر تمام شد، چه مانعی دارد یک‌سری برنامه‌های شاد در شهرها اجرا کنند. آقای‌مان را زیر خاک کردیم، برنامه شاد؟ ما شادی کنیم؟» 
@@ -1786,20 +1834,6 @@ src :@Artemis_Force
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴ابراهیم عزیزی، رئیس کمیسیون امنیت ملی مجلس: آمریکا را تا شکست نهایی رها نخواهیم کرد و بهتر است سرعت فرار خود از منطقه را بیشتر کنند.
-‏ما با پاسخ کوبنده، آمریکا را وادار به آتش بس کردیم و همه جهان شکست آمریکا را دیدند.
-‏ما با شعائر اسلامی تمامی اراضی خود را حفظ کردیم.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-16:13
-1405/05/23
-
-
-
-
 src :@MilitarryWorld
 ‏🔴وزارت جنگ ایالات متحده با شرکت‌های "بوئینگ" و "آر‌تی‌اکس" قرارداد بست تا تولید قطعات یدکی موشک‌های SM-3 را افزایش دهد. این موشک‌ها برای رهگیری موشک‌های بالیستیک در خارج از جو زمین طراحی شده‌اند
 ‏
@@ -3041,17 +3075,6 @@ src :@mohem_mat
 
 
 
-src :@MilitarryWorld
-‏🔴وزارت امور خارجه عربستان سعودی: 
-‏ما با شدیدترین لحن هدف قرار گرفتن دو نفتکش متعلق به شرکت اماراتی ADNOC هنگام عبور از تنگه هرمز را محکوم می‌کنیم.
-‏
-‏@MilitarryWorld | Parsa
-14:07
-1405/05/23
-
-
-
-
 src :@Ali_bk_2
 [ویدئو]
 ‏Maritime data shows 13 confirmed transits through the Strait of Hormuz on August 13, an increase of 44% compared with the previous day, when only nine vessels transited, while Bab al-Mandab recorded 29 transits, an increase of 4%.
@@ -4251,16 +4274,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@jangaavaran1390
-‏یک تانکر در حال عبور از تنگه هرمز مورد اصابت یک پهپاد قرار گرفت.
-‏
-‏این کشتی آسیب جزئی دید، در حالی که تمام خدمه سالم هستند و وضعیت آن‌ها مشخص است. هیچگونه اثرات زیست‌محیطی گزارش نشده است. این حادثه در نزدیکی شهر خصب، عمان رخ داد.
-11:40
-1405/05/23
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‏
@@ -4351,17 +4364,6 @@ src :@Ali_bk_2
 ‏British Navy:
 ‏
 ‏An oil tanker was attacked by a "drone boat" while transiting the Strait of Hormuz
-11:39
-1405/05/23
-
-
-
-
-src :@Alibk3
-[عکس]
-‏البحرية البريطانية: 
-‏
-‏تعرض ناقلة نفط لهجوم "بزورق مسير" أثناء عبورها من مضيق هرمز
 11:39
 1405/05/23
 
@@ -4519,16 +4521,6 @@ src :@rnintel
 ‏
 ‏Image two: Rerum Novarum's map of the Hays direction.
 11:09
-1405/05/23
-
-
-
-
-src :@Ali_bk_2
-‏Latvia's Defense Ministry:
-‏
-‏NATO fighter jets shoot down a drone over airspace in eastern Latvia
-11:06
 1405/05/23
 
 
@@ -6707,26 +6699,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:34
-1405/05/22
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: The USS George Washington (CVN-73), USS Shoup (DDG-86) and USS Robert Smalls (CG-62) have transited the Singapore Strait westbound
-‏
-‏The George Washington carrier may replace the USS Abraham Lincoln, currently deployed for 9+ months against Iran, with its crew increasingly desperate and suicidal.
-‏
-‏@Middle_East_Spectator
-18:31
-1405/05/22
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 ناوهای قدرتمندتر، اما ناوگان کوچک‌تر  🔹جنگ فالکلند در سال ۱۹۸۲ نشان داد که این محاسبات می‌تواند خطرناک باشد. تنها یک سال قبل، برنامه نات کاهش ناوگان ناوشکن و ناوچه‌ها به حدود ۵۰ فروند را پیشنهاد کرده بود.  🔹جنگ فالکلند اثرات خود را در  بازنگری دفاعی ۱۹۹۸…
-18:30
 1405/05/22
