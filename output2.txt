@@ -1,3 +1,26 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Lockheed Martin has completed the first integrated live-fire test of its Kodiak containerized launcher at Washington’s Yakima Training Center, successfully loading and firing a Reduced-Range Practice Rocket less than six months after initial trials.
+‏
+‏Kodiak can conceal up to 12 GMLRS rockets inside a standard shipping container and supports the wider MLRS family, including ATACMS and PrSM. 
+‏
+‏Deployable by air, land or sea, the system is designed to provide dispersed precision fires from a low-signature, difficult-to-detect platform.
+16:05
+1405/05/23
+
+
+
+
+src :@bricsnews
+‏JUST IN: NATO scrambles 4 fighter jets to shoot down military drone entering unauthorized airspace.
+‏
+‏@BRICSNews
+16:05
+1405/05/23
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏The Missile Defense Agency has awarded Lockheed Martin a $211.4 million contract modification to build new Configuration 3 (C3) THAAD launchers for the United Arab Emirates (UAE) under a Foreign Military Sales (FMS) agreement.
@@ -93,13 +116,15 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇱⚡️ — President Trump has repeatedly stopped short of endorsing Israeli Prime Minister Benjamin Netanyahu ahead of Israel’s Oct. 27 election, as Netanyahu’s coalition trails the opposition in polls and tensions between the two leaders grow, Axios reports.
 ‏
+‏Trump has been asked four times in recent weeks whether he endorses Netanyahu and has declined to do so each time.
+‏
 ‏Netanyahu’s coalition is polling at roughly 49–53 seats, well below the 61 needed for a majority, while opposition parties hold a combined 67–70 seats. Former IDF chief Gadi Eizenkot also leads Netanyahu in favorability in most surveys.
 ‏
 ‏Trump and Netanyahu have increasingly diverged over Iran, Gaza, and Lebanon. Trump has grown frustrated with the Israeli leader, privately describing him as his “own worst enemy.” 
 ‏
 ‏Their latest disagreement centered on Netanyahu’s public rejection of Trump’s Gaza plan for disarming Hamas, although Netanyahu subsequently agreed to give the initiative a chance and restrain Israeli strikes.
 ‏
-‏Netanyahu’s rivals, including Eizenkot, Naftali Bennett, and Yair Lapid, have meanwhile sent back-channel messages to Trump’s circle urging him to remain neutral in the election. Trump has been asked four times in recent weeks whether he endorses Netanyahu and has declined to do so each time.
+‏Netanyahu’s rivals, including Eizenkot, Naftali Bennett, and Yair Lapid, have meanwhile sent back-channel messages to Trump’s circle urging him to remain neutral in the election.
 15:56
 1405/05/23
 
@@ -5457,18 +5482,6 @@ src :@tglobaleye
 
 
 
-src :@didarnews1
-‏‏🔴 سقاب اصفهانی در شبکه خبر: به دلیل خسارات وارد شده در جنگ هم  دچار کمبود تولید در بنزین داریم هم در واردات بنزین دچار مشکل هستیم
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-22:34
-1405/05/22
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇸🇾 🇮🇶 🇮🇷 🇮🇷 — Iranian-backed Shiite militias in Iraq have threatened to open a new front against Syria if Damascus moves against Hezbollah in Lebanon.  In response, Syrian forces have reportedly deployed additional heavy reinforcements along the…
@@ -6600,14 +6613,4 @@ src :@Artemis_Force
 src :@guard_warriors
 ‏https://t.me/Artemis_Force/12667
 16:39
-1405/05/22
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran says security forces killed members affiliated with "American and Israeli intelligence agencies."
-‏
-‏@BRICSNews
-16:16
 1405/05/22
