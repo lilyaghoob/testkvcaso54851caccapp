@@ -3860,18 +3860,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏اسماعیل سقاب اصفهانی، رییس سازمان بهینه‌سازی و مدیریت راهبردی انرژی ایران، گفته است دولت تاکنون هیچ مصوبه‌ای برای افزایش قیمت بنزین یا تغییر سازوکار فعلی سهمیه‌بندی سوخت تصویب نکرده و سه سناریو برای مدیریت مصرف و تامین بنزین در دست بررسی است.
-‏بیشتر: https://iranwire.com/fa/news-1/156291
-‏
-‏@Farsi_Iranwire
-12:29
-1405/05/23
-
-
-
-
 src :@Artemis_Force
 ‏تصویری از عبور ناوگروه USS George Washington (CVN 73) Nimitz-class aircraft carrier, USS Robert Smalls (CG 62) Ticonderoga-class guided missile cruiser and USS Shoup (DDG 86) Arleigh Burke-class Flight IIA    @artemis_force
 12:25
