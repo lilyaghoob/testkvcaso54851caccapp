@@ -1,4 +1,24 @@
 src :@GeoPWatch
+‏🇾🇪❌🇾🇪 – The internationally-recognized Yemeni government, the Presidential Leadership Council (PLC), said four civilians died in today's Houthi strikes on the Mokha port.
+‏
+‏@GeoPWatch
+23:37
+1405/05/23
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏اوکراین در حال تست یک پهپاد رهگیر نتحاری با موتور جت است که ۶۰۰ کیلومتر در ساعت سرعت دارد و می‌تواند،پهپادهای جت روسی را شکار کند 
+‏به نظر می‌رسد با این سرعتی که پهپادهای رهگیر در حال حرکت هستند به زودی شاهد استفاده از پهبادهای رهگیر جت بر ضد جنگنده‌ها نیز باشیم
+23:34
+1405/05/23
+
+
+
+
+src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 – President Trump said he will soon declare the Strait of Hormuz to be "territory of the United States".
 ‏
 ‏@GeoPWatch
@@ -149,6 +169,12 @@ src :@mohem_mat
 ‏ترامپ : 
 ‏
 ‏به زودی تنگه هرمز را قلمرو آمریکا اعلام خواهم کرد!
+‏
+‏‏ ترامپ اعلام کرد محاصره دریایی همچنان ادامه دارد و هیچ کشتی‌ای اجازه عبور نخواهد داشت، مگر آنکه از سوی ما مجوز دریافت کرده باشد.
+‏
+‏‏ ترامپ: محاصره دریایی علیه ایران به مثابه دیواری فولادین است.
+‏
+‏‏ ترامپ هشدار داد: در صورت هرگونه حمله از سوی ایران، با قدرتی صد برابر بیشتر پاسخ خواهیم داد.
 ‏
 ‏@mohem_mat
 23:26
@@ -549,18 +575,6 @@ src :@P_raetorio
 ‏ASAPSERVICE
 ‏Fast • Secure • Reliable
 22:52
-1405/05/23
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴آبلاردو د لا اسپرییا، رئیس جمهور جدید راستگرای کلمبیا، از پرزیدنت ترامپ خواست تا نیروهای آمریکایی را برای مقابله با کارتل های مواد مخدر به کلمبیا اعزام کند.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-22:51
 1405/05/23
 
 
@@ -2503,16 +2517,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏بیانیه فرماندهی مرکزی ایالات متحده آمریکا در مورد محاصره ایران:
-‏
-‏تا تاریخ ۱۴ اوت، نیروهای فرماندهی مرکزی، مسیر ۶۲ کشتی تجاری را تغییر دادند، ۳ فروند را غیرفعال کردند و ۲ فروند را بازرسی کردند تا از رعایت قوانین اطمینان حاصل کنند.
-19:50
-1405/05/23
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‏ ‌‏ ‏ 
@@ -2935,15 +2939,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 NBC News: Luigi Mangione is expected to plead guilty to federal charges in connection with the 2024 killing of UnitedHealthcare CEO Brian Thompson in Manhattan. The expected plea change comes less than a month before Mangione is scheduled to go to trial…
-19:17
-1405/05/23
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -3010,22 +3005,6 @@ src :@OSINTWarfare
 [عکس]
 ‏Reliance Industries and Rolls-Royce have announced a strategic partnership to develop an indigenous combat aircraft engine for India’s Advanced Medium Combat Aircraft (AMCA) program.
 19:15
-1405/05/23
-
-
-
-
-src :@wfwitness
-‏⚡️🇷🇺🇵🇱 Euronews: A Russian court has jailed a man accused of spying for Poland, one day after Warsaw said it foiled an alleged Russian-linked assassination plot.
-‏
-‏Russian authorities accused the man of gathering and passing sensitive information to Polish intelligence.
-‏
-‏The sentencing comes amid escalating espionage accusations between Russia and Poland as tensions between Moscow and NATO remain high.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:14
 1405/05/23
 
 
@@ -3271,16 +3250,6 @@ src :@OSINTWarfare
 [عکس]
 ‏Fresh image of Neustrashimy (772), a Project 11540 Neustrashimy-class (Yastreb-class) guided-missile frigate of the Russian Navy’s Baltic Fleet, currently on combat duty in the North Sea.
 18:43
-1405/05/23
-
-
-
-
-src :@MilitarryWorld
-‏🔴وزارت نفت عراق اعلام کرد برای صادرات نفت عراق و عبور از تنگه هرمز، با ایران و آمریکا مذاکره می کند.
-‏
-‏@MilitarryWorld | Parsa
-18:38
 1405/05/23
 
 
@@ -6276,30 +6245,4 @@ src :@BellumActaNews
 ‏
 ‏Abu Bakr rejected the response and called on local Arabs to examine both accounts and draw their own conclusions.
 23:44
-1405/05/22
-
-
-
-
-src :@mwarmonitor
-‏🔴مقام‌های دفاعی اسرائیل از سرعت بازسازی توان نظامی ایران پس از جنگ شوکه شده‌اند؛ به‌طوری‌که ارتش اسرائیل (IDF) اکنون شاهد بازگشت سریع ظرفیت‌های تولید موشک‌های بالستیک ایران است.
-‏
-‏🔴به گزارش جروزالم پست، ایران راه‌های خلاقانه‌ای برای بازسازی تهدید موشکی خود پیدا کرده است و در صورتی که بتواند تولید ماهانه ۱۰۰ تا ۳۰۰ موشک را حفظ کند، ممکن است تا اوایل تا اواسط سال ۲۰۲۷ به سطح زرادخانه موشکی پیش از جنگ بازگردد.
-‏
-‏
-‏@mwarmonitor
-23:37
-1405/05/22
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️UK train derailment:
-‏
-‏Inside one of the overturned carriage from the Lewes train derailment 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:34
 1405/05/22
