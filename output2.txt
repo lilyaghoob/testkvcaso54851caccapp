@@ -831,15 +831,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧⚡️ — United Kingdom has issued a national alert warning of an increased risk of wildfires throughout the country, warning residents to not conduct any activity capable of starting a fire.
-21:53
-1405/05/23
-
-
-
-
 src :@Ali_bk_2
 ‏Yemeni forces burn and destroy two sailboats that were transporting Saudi weapons to the Port of Mocha, causing fires to break out on them.
 21:53
@@ -3214,19 +3205,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@ClashReport
-[عکس]
-‏No to 'Half Measures': Russia Rejects Ceasefire Proposals for Black Sea Strikes
-‏
-‏Moscow has categorically rejected the prospect of a maritime ceasefire with Ukraine in the Black Sea, explicitly ruling out any measures that offer a pause to Kyiv.
-‏
-‏READ MORE
-18:53
-1405/05/23
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Perseids and tanks in Gaza
@@ -3316,23 +3294,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 18:35
-1405/05/23
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Reports from military families and service members suggest the problems aboard the USS Abraham Lincoln may extend to other ships and even troops on land. 
-‏
-‏Anonymous accounts describe severe conditions, including shortages of food, water, soap, and supplies, broken water systems, limited showers, sanitation issues, exhaustion, and declining morale after months of deployment.
-‏
-‏Families say sailors are struggling with long hours, little rest, and a lack of communication from leadership. 
-‏
-‏One service member said conditions on other ships are also deteriorating, while families of deployed troops say they feel their concerns are not being heard.
-‏
-‏Source: MeidasTouch
-18:34
 1405/05/23
 
 
