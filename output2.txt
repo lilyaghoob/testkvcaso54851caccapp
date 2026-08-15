@@ -126,6 +126,7 @@ src :@KayhanLondonChannel
 
 
 src :@Ali_bk_2
+[عکس]
 ‏Enemy media announces that 3 soldiers were seriously wounded in a security incident in southern Lebanon.
 18:11
 1405/05/24
@@ -134,6 +135,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
+[عکس]
 ‏إعلام العدو يعلن إصابة 3 جنود بجروح خطيرة بحدث أمني جنوب لبنان.
 18:11
 1405/05/24
@@ -6264,15 +6266,4 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe ✈️
 18:32
-1405/05/23
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇬🇧 — The UK government has temporarily banned the sale of disposable barbecues across Great Britain, citing a “significant risk to the public” amid ongoing drought and heatwave conditions.
-‏
-‏The Global Eye | Subscribe ✈️
-18:23
 1405/05/23
