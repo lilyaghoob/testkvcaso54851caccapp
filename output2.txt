@@ -1,3 +1,32 @@
+src :@mwarmonitor
+‏📰 ارتش آمریکا آخرین ناو هواپیمابر خود در اقیانوس آرام را خارج می‌کند تا عملیات در ایران را در اولویت قرار دهد. 
+‏
+‏📰 بر اساس این گزارش، نیروی دریایی آمریکا در حال انتقال ناو هواپیمابر یو‌اس‌اس جورج واشنگتن (USS George Washington) از منطقه اقیانوس آرام به سمت خاورمیانه است تا جایگزین یو‌اس‌اس آبراهام لینکلن (USS Abraham Lincoln) شود که پس از یک استقرار طولانی در عملیات مرتبط با ایران فعالیت کرده است. 
+‏
+‏📰 این جابه‌جایی باعث می‌شود برای مدتی هیچ ناو هواپیمابر آمریکایی در غرب اقیانوس آرام حضور نداشته باشد؛ موضوعی که نگرانی‌هایی درباره خلأ موقت قدرت دریایی آمریکا در برابر چین ایجاد کرده است. 
+‏
+‏📌تحلیلگران می‌گویند این اقدام نشان‌دهنده فشار شدید بر منابع نیروی دریایی آمریکا به دلیل تمرکز بیشتر بر عملیات خاورمیانه و ایران است. 
+‏
+‏@mwarmonitor
+23:02
+1405/05/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇨🇳⚡️ — The Trump administration is struggling to balance rapid military adoption of AI with security concerns and competition with China, producing a series of contradictory policies across the Pentagon and other agencies, NYT reports.
+‏
+‏The administration has repeatedly reversed course on AI safety reviews, foreign access to advanced models, and restrictions on NVIDIA chip sales to China.
+‏
+‏Washington is increasingly concerned that China may be only around six months behind the U.S. in advanced AI models, potentially giving Beijing stronger capabilities for cyber operations against American military networks and critical infrastructure.
+22:59
+1405/05/25
+
+
+
+
 src :@selena_updates
 [عکس]
 ‏Two D9 bulldozers, two excavators, and Israeli tanks have entered the area near the Enis Abu Samala stadium, north of Al-Bureij camp in central Gaza, for infrastructure demolitions.
@@ -2262,15 +2291,6 @@ src :@mohem_mat
 ‏
 ‏‎ @iran_eghtesadi 🇮🇷
 19:47
-1405/05/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — NEW: The U.S. is preparing to deploy the USS George Washington to the Middle East to replace the USS Abraham Lincoln as part of a previously scheduled carrier rotation, WSJ reports.  The Lincoln has been deployed for more than 250 days, and it has…
-19:46
 1405/05/25
 
 
@@ -5408,30 +5428,6 @@ src :@mwarmonitor
 
 
 
-src :@mwarmonitor
-‏⏺ مقامات امنیت سایبری اسرائیل درباره موج جدیدی از حملات فیشینگ ایران علیه روزنامه‌نگاران اسرائیلی هشدار داده‌اند.
-‏
-‏▪️این حملات عمدتاً از طریق واتساپ و تلگرام انجام می‌شوند. مهاجمان خود را جای افراد مورد اعتماد، روزنامه‌نگاران یا منابع احتمالی برای مصاحبه جا می‌زنند و با ارسال پیام‌های شخصی‌سازی‌شده، قربانیان را ترغیب می‌کنند روی لینک‌های مخرب کلیک کنند یا اطلاعات ورود به حساب گوگل خود را در اختیار آنها قرار دهند.
-‏
-‏🎯 هدف مهاجمان: دسترسی به منابع خبری، مکاتبات، مطالب کاری و اطلاعات حساس، با هدف جاسوسی، جمع‌آوری اطلاعات و انجام عملیات نفوذ و تأثیرگذاری.
-‏
-‏مقامات از روزنامه‌نگاران خواسته‌اند:
-‏
-‏تماس‌های غیرمنتظره را از طریق یک کانال ارتباطی دیگر تأیید کنند.
-‏
-‏هرگز رمز عبور یا کدهای تأیید را از طریق لینک‌های موجود در پیام‌ها وارد نکنند.
-‏
-‏احراز هویت دومرحله‌ای (2FA) را فعال کنند.
-‏
-‏هرگونه فعالیت مشکوک را فوراً گزارش دهند. i24 news 
-‏
-‏@mwarmonitor
-11:21
-1405/05/25
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏این روز ها اگر سرگرمی ندارید ، پیشنهاد میکنم یک مقدار تخمه تهیه کنید و به ایکس بروید و به تماشای دعواها  و  بحث های آمریکایی هایی که در افغانستان و عراق خدمت کردند با سایر آمریکایی بنشینید.
@@ -6027,12 +6023,4 @@ src :@OSINTWarfare
 ‏
 ‏Meanwhile, the USS Boxer (LHD-4), an amphibious assault ship currently deployed against Iran, has run out of women’s hygiene products, likely referring to tampons and sanitary pads.
 23:03
-1405/05/24
-
-
-
-
-src :@samueltarikh
-‏⭕️#برگی_از_تاریخ   🔸فروپاشی اتحاد جماهیر شوروی نمونه‌ای کلاسیک از فروپاشی ساختاری یک نظام اقتدارگرای متمرکز است که در آن انباشت تدریجی ناکارآمدی‌های اقتصادی، فرسایش مشروعیت ایدئولوژیک، شکاف‌های قومی_ملی و محدودیت‌های فزاینده در فضای تصمیم‌گیری سرانجام به نقطه‌ای…
-22:59
 1405/05/24
