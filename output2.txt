@@ -403,22 +403,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Continuous Israeli artillery against the Ali al-Taher Heights, southern Lebanon.
-02:28
-1405/05/25
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Israeli airstrike reported in Deir Siryan, southern Lebanon.
-02:27
-1405/05/25
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 Israeli artillery shelling again on Ali Al Taher hill, southern Lebanon.
