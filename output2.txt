@@ -359,19 +359,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇹🇷🇮🇷⚡️ — Journalists traveling with President Trump from Türkiye to Britain after last month's NATO summit were kept unaware that he had secretly switched aircraft because of a perceived Iranian threat, leaving the original Air Force One to continue as a decoy with reporters and government staff aboard, WaPo reports.
-‏
-‏Reporters recalled unusual signs during the flight, including orders to keep all window shades closed and Trump not speaking to the press before departure. The significance became clear only after the secret operation was revealed.
-‏
-‏Several journalists said they felt deceived and potentially put at risk, arguing that while traveling with the president inherently carries dangers, they had “never been provided any opportunity to consent to being used like this.”
-02:58
-1405/05/25
-
-
-
-
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Israeli artillery shelling between Nabatiyeh al-Fouqa and Kfarroumman, southern Lebanon.
 ‏
@@ -6454,14 +6441,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 07:34
-1405/05/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 Strait of Hormuz traffic is down 80% from levels before US-Iran war.
-‏
-‏@BRICSNews
-06:24
 1405/05/24
