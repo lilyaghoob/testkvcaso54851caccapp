@@ -211,16 +211,6 @@ src :@samueltarikh
 
 
 
-src :@bricsnews
-‏JUST IN: 🇷🇴 NATO fighter jet scrambled to shoot down drone violating Romania's airspace.
-‏
-‏@BRICSNews
-10:21
-1405/05/25
-
-
-
-
 src :@MilitarryWorld
 ‏🌟ویدئوبازی محبوب Chicky choice🌟  فقط کافیه مرغ از خیابون رد کنی و پولت افزایش بدی😍💵 💖توی سایت بت اینجا بازی کن و پیش بینی کن و پول در بیار😍 ⬅️امکان شارژ با کارت بانکی راحت و امن ⬅️تسویه حساب سریع بدون احراز  🎁هربار شارژ کنی 12% بیشتر شارژ میشی✅ 🎁اگ باختی…
 10:21
@@ -1127,19 +1117,6 @@ src :@World_Newsly
 
 
 
-src :@World_Newsly
-‏🔴وزارت دفاع رومانی اعلام کرد که یک جت جنگنده اسپانیایی مدل F-18 که در ماموریت نظارت هوایی ناتو حضور داشت، یک پهپاد را که به طور غیرقانونی وارد فضای هوایی رومانی شده بود، سرنگون کرد.
-‏
-‏🔹️آنها منشاء این پهپاد را مشخص نکردند.
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-08:29
-1405/05/25
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇦🇷🇺🇺🇸🇹🇷🇰🇵 The Guardian: Russian forces launched a missile attack on Kyiv early Sunday, causing fires in at least two districts of the Ukrainian capital, according to Kyiv Mayor Vitali Klitschko. Ukraine’s military administration reported one injury, while falling debris reportedly started fires in a northern suburb and an area south of the city center.
@@ -1555,17 +1532,6 @@ src :@wfwitness
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇰🇵🇷🇺 Kim Jong Un says North Korea will continue strengthening its friendship with Russia.
-‏
-‏@BRICSNews
-06:49
-1405/05/25
-
-
-
-
 src :@wfwitness
 ‏⚡️🇰🇵🇷🇺 Reuters: North Korean leader Kim Jong Un reaffirmed ties with Russian President Vladimir Putin as North Korea marked the anniversary of its liberation from Japanese colonial rule.
 ‏
@@ -1620,20 +1586,6 @@ src :@jangaavaran1390
 ‏
 ‏#آمریکا #ایران #Strava #CENTCOM #ارتش_آمریکا #امنیت_سایبری #OPSEC #پایگاه_نظامی #جنگ_مدرن #اطلاعات_نظامی
 06:35
-1405/05/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible. 
-‏
-‏More sun later in the day is better (including for fighting crime!), but, even more importantly, NO MORE RIDICULOUSLY CHANGING CLOCKS AND WATCHES TWICE YEARLY, with all of the disruption and chaos it causes. 
-‏
-‏FINALLY, GET IT DONE!!!
-06:20
 1405/05/25
 
 
@@ -1715,14 +1667,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-‏🇿🇼⚡️ — At least 15 people were killed and 27 remain missing after an overcrowded ferry capsized on Zimbabwe’s Lake Kariba earlier today.  Authorities said 77 people were rescued. Records showed at least 114 adult passengers and five crew members were aboard…
-05:41
-1405/05/25
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش روزنامه «اورشلیم‌پست»، نیروی دریایی ارتش اسرائیل پس از کسب تجربه از «شکست‌های امنیتی» حمله هفتم اکتبر حماس، سامانه‌ها و ساختار دفاع ساحلی خود در امتداد نوار غزه را با ایجاد یک سامانه چندلایه و یکپارچه به عنوان «دیوار آهنین» بازسازی کرده است. این راهبرد دفاعی جدید با بهره‌گیری از شناورهای گشتی ارتقایافته «شالداگ مارک ۵»، شبکه‌ای از پهپادهای شناسایی و تهاجمی هماهنگ، گشت‌های ساحلی با خودروهای چهارچرخ و قواعد سفت‌وسخت درگیری طراحی شده تا با هرگونه تلاش نیروهای حماس برای بازسازی توانمندی‌های دریایی و نفوذ کماندویی یا زیرسطحی به‌طور قاطع و در کمترین زمان ممکن مقابله کند.
@@ -1755,40 +1699,6 @@ src :@Indypersian
 ‏ 
 ‏@indypersian
 05:15
-1405/05/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iranian Foreign Ministry spokesperson Esmaeil Baghaei mocks the Trump administration by contrasting Marco Rubio’s criticism of Iran prioritizing military spending over its people with President Trump saying the U.S. must prioritize “military protection” over domestic programs for the American people.
-05:08
-1405/05/25
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — INTERESTING: More than 1,300 Strava users have shared workout data from U.S. military installations across the Middle East, exposing information that likely helped Iran to track and target American personnel, Sky News reports.  The publicly available…
-05:02
-1405/05/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇵🇸⚡️ — Israel has launched a PR campaign aimed at influencing how AI systems such as ChatGPT and Perplexity answer questions about Israel, Gaza, and the IDF, according to newly filed U.S. foreign-agent disclosures, POLITICO reports.
-‏
-‏As part of a $100,000 Israel-backed campaign, PR contractors created content for the Hanover Institute for Public Policy, publishing question-formatted reports including “Is the IDF the World’s Most Moral Army?” and “Is There a Policy of Starvation in Gaza?” The material contains no named authors and is presented as sourced research intended for public distribution.
-‏
-‏Tests by POLITICO found that ChatGPT and Perplexity cited Hanover Institute material when responding to neutral questions concerning Gaza, Zionism, and antisemitism.
-‏
-‏The effort follows a separate $46.5 million Israeli influence campaign involving former Trump campaign manager Brad Parscale’s firm, which explicitly included the creation of websites and online content intended to produce favorable “GPT framing results.”
-‏
-‏A contractor involved in the newer campaign said its purpose was to put “accurate, sourced facts into the public record” and counter "misinformation."
-04:37
 1405/05/25
 
 
@@ -1846,17 +1756,6 @@ src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — Earlier tonight, several Russian ballistic missiles struck Kryvyi Rih in Ukraine’s Dnipropetrovsk Oblast.  @IntelSlava
 03:54
-1405/05/25
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇷🇺❌🇺🇦 — Up to 6 Russian Iskander-M ballistic missiles struck Kyiv, Ukraine, a short while ago.
-‏
-‏Fires can be observed following the strikes.
-03:46
 1405/05/25
 
 
@@ -2090,16 +1989,6 @@ src :@ClashReport
 ‏
 ‏The U.S. President ought to worry about his own security rather than his endless bluffing regarding the Strait of Hormuz; before he ends up hiding in a food truck.
 01:45
-1405/05/25
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇱🇱🇧 Israel launches airstrike on southern Lebanon.
-‏
-‏@BRICSNews
-01:43
 1405/05/25
 
 
@@ -2379,16 +2268,6 @@ src :@ClashReport
 ‏
 ‏We are going to win.
 00:53
-1405/05/25
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇨🇳 US to tell dozens of countries to choose between America or China in the AI race.
-‏
-‏@BRICSNews
-00:44
 1405/05/25
 
 
@@ -2776,17 +2655,6 @@ src :@guard_warriors
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇷🇺🇮🇳 President Putin says Russia will continue to strengthen relations with India.
-‏
-‏@BRICSNews
-23:44
-1405/05/24
-
-
-
-
 src :@didarnews1
 ‏📌 رئیس سازمان بهینه‌سازی: طی ۱۰-۱۵ روز آینده دولت در مورد اجرای یکی از ۳ طرح بنزینی تصمیم نهایی‌ را خواهد گرفت
 ‏#دیدار_نیوز
@@ -2944,17 +2812,6 @@ src :@VahidOnline
 src :@WAR_ROOM_NEWS
 ‏در ادامه اعتراضات به شرایط اعزام ناوهای هواپیمابر آمریکا اعزامی به خاورمیانه شبکه CBS با جفرسون کلی که پسرش جکسون ۲۰ساله برای اولین مأموریت دریایی‌اش به ناو آبراهام لینکلن رفته است، مصاحبه‌ای داشته است. او در این مصاحبه اظهار داشته که «آن‌ها نباید این‌قدر…
 23:27
-1405/05/24
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏قطر ادعاها درباره بازداشت سه خلبان ایرانی را رد کرد؛ این ادعاها پس از درخواست تهران برای آزادی آنها مطرح شده بود. سخنگوی وزارت خارجه قطر این ادعاها را در بحبوحه تلاش‌های دیپلماتیک جاری گمراه‌کننده توصیف کرد. نیروهای مسلح ایران اعلام کردند این خلبانان پس از سقوط جنگنده‌های سوخو ۲۴ آنها در روزهای ابتدایی جنگ آمریکا و اسرائیل علیه ایران اسیر شده و به مدت شش ماه در بازداشت بوده‌اند.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-23:26
 1405/05/24
 
 
@@ -4238,17 +4095,6 @@ src :@cataphract1
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇰🇵 President Trump says North Korea's "Kim Jong Un and I get along great!"
-‏
-‏@BRICSNews
-20:14
-1405/05/24
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 شرکت Zvook اوکراین اقدام به معرفی و آزمایش یک سیستم هشدار زودهنگام متحرک با استفاده از سنسور های صوتی نموده است 
@@ -4686,17 +4532,6 @@ src :@Americana_ir
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: Afghan Taliban celebrates 5th anniversary of its return to power.
-‏
-‏@BRICSNews
-18:53
-1405/05/24
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏The U.S. Missile Defense Agency (MDA) has issued a pre-solicitation notice for a new mobile radar designed to detect and track ballistic, cruise and hypersonic missiles.
@@ -4725,17 +4560,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 18:44
-1405/05/24
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇮🇳 India announces plans to build up to 8 new chip manufacturing plants and 5 nuclear reactors.
-‏
-‏@BRICSNews
-18:30
 1405/05/24
 
 
@@ -4808,17 +4632,6 @@ src :@KayhanLondonChannel
 ‏
 ‏بازنشستگان معترض خواستار برقراری بیمه پایه و تکمیلی، پرداخت هزینه‌های درمانی معوق، اجرای مرحله سوم متناسب‌سازی حقوق و بهبود وضعیت معیشتی خود شدند.
 18:18
-1405/05/24
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇹🇷🇵🇸 Turkish President Erdogan says Turkey cannot leave Gaza alone and will do everything it can to support it.
-‏
-‏@BRICSNews
-18:16
 1405/05/24
 
 
@@ -4948,15 +4761,6 @@ src :@defence_news
 
 
 
-src :@ManotoTV
-[عکس]
-‏تصاویری از بیست‌وششمین اجلاس سالانه انجمن بین‌المللی حمل‌ونقل هوایی (یاتا) که در سال ۱۳۴۹ خورشیدی (۱۹۷۰ میلادی) در تهران برگزار شد؛ رویدادی بین‌المللی که نمایندگان و مدیران صنعت هوانوردی جهان را برای گفت‌وگو درباره مسائل و آینده حمل‌ونقل هوایی، در ایران گرد هم آورد.
-17:00
-1405/05/24
-
-
-
-
 src :@ircfspace
 [عکس]
 ‏پژوهشگران شرکت امنیتی Socket شبکه‌ای متشکل از ۷۳۷ افزونه رایگان VPN رو در فروشگاه Chrome شناسایی کردن که عمدتاً کاربران روسی‌زبان رو هدف قرار می‌دادن. این افزونه‌ها در مجموع ۷۵٬۴۸۶ بار نصب شده بودن و ۲۷۴ مورد از اونها با جعل نام و هویت ۶۶ سرویس معتبر از جمله Proton VPN، NordVPN، Surfshark، ExpressVPN، CyberGhost، Windscribe، TunnelBear و Cloudflare 1.1.1.1 منتشر شده بودن.
@@ -5005,16 +4809,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 16:57
-1405/05/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇴🇲🇮🇷 Iran reaches agreement with Oman on navigation movement in the Strait of Hormuz.
-‏
-‏@BRICSNews
-16:51
 1405/05/24
 
 
@@ -5352,16 +5146,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe ✈️
 15:12
-1405/05/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇦🇪🇮🇷 UAE says Iran must immediately end all hostilities and fully reopen the Strait of Hormuz.
-‏
-‏@BRICSNews
-15:07
 1405/05/24
 
 
@@ -5877,16 +5661,6 @@ src :@warmonitors
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇩 At least 38 dead following 7.7 magnitude earthquake in Indonesia.
-‏
-‏@BRICSNews
-12:32
-1405/05/24
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏No one guessed Law😭🤦‍♂️ 
@@ -6110,16 +5884,6 @@ src :@DEJradio
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇷🇦🇪 Iran attacks UAE oil giant ADNOC ship in the Strait of Hormuz.
-‏
-‏@BRICSNews
-11:33
-1405/05/24
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‏ ‏
@@ -6159,18 +5923,6 @@ src :@DEJradio
 ‏#نیروهای_مسلح #جنگ #IRGCterrorists
 ‏@DEJradio
 11:15
-1405/05/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran says the "memorandum of understanding was the end of the war…"
-‏
-‏"The United States violated the memorandum, and the conflict resumed."
-‏
-‏@BRICSNews
-11:10
 1405/05/24
 
 
@@ -6224,38 +5976,4 @@ src :@Americana_ir
 ‏🔗 لینک منبع
 ‏🆔 @Americana_ir
 10:53
-1405/05/24
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏● نیروهای تیپ موتورسوار توپخانه 147 اوکراین در حال استفاده از سامانه M142 HIMARS هستند. 🇺🇦
-‏
-‏• سامانه M142 HIMARS (High Mobility Artillery Rocket System) یک سامانه راکت‌انداز متحرک چرخ‌دار است که بر روی شاسی کامیون تاکتیکی نصب شده و برای اجرای آتش دقیق در بردهای مختلف طراحی شده است.
-‏
-‏• این سامانه می‌تواند یک محفظه حاوی راکت‌های هدایت‌شونده خانواده GMLRS یا یک موشک تاکتیکی را حمل کند.
-‏
-‏• اوکراین از HIMARS در جریان جنگ با روسیه استفاده گسترده‌ای داشته و این سامانه به یکی از شناخته‌شده‌ترین تجهیزات توپخانه‌ای تحویلی به این کشور تبدیل شده است.
-‏
-‏• مهمات GMLRS و در ادامه ATACMS، قابلیت اجرای حملات دقیق در بردهای مختلف را برای نیروهای اوکراینی فراهم کرده‌اند و استفاده از آن‌ها بر نحوه استقرار و پشتیبانی نیروهای روسیه نیز تأثیر گذاشته است.
-‏
-‏• مشخصات کلی:
-‏
-‏• نوع: سامانه راکت‌انداز چندگانه متحرک
-‏• مدل: M142 HIMARS
-‏• شاسی: چرخ‌دار
-‏• ظرفیت پرتاب: یک محفظه راکتی یا یک موشک تاکتیکی
-‏• مهمات اصلی: GMLRS و ATACMS
-‏• تحرک بالا و قابلیت جابه‌جایی هوایی
-‏
-‏#HIMARS
-‏#M142
-‏#Ukraine
-‏#Artillery
-‏
-‏
-‏✯ @katapeltikon (کاتاپلتیکاْن) 🎖
-10:41
 1405/05/24
