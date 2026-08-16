@@ -1,3 +1,48 @@
+src :@ClashReport
+[عکس]
+‏The Trump administration is struggling to balance AI dominance, national security and competition with China, as shifting policies and its feud with Anthropic create uncertainty. 
+‏
+‏Despite Anthropic’s advanced AI being valuable to the military and intelligence agencies, the Pentagon has moved to remove its technology from military systems. 
+‏
+‏Meanwhile, China is rapidly closing the AI gap, raising concerns that inconsistent U.S. policies on AI regulation, Anthropic and chip exports could weaken America’s technological advantage. 
+‏
+‏Critics warn that the administration’s constantly changing approach risks undermining the AI dominance it seeks to maintain.
+‏
+‏Source: NYT
+23:05
+1405/05/25
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇺🇸 🇵🇸 🇪🇬 — US envoy Jared Kushner meets Hamas leaders and Egyptian President Sisi in Egypt
+‏
+‏Kushner held talks Sunday in El-Alamein with Hamas chief Khalil al-Hayya on advancing the Gaza peace plan and pressing for concrete disarmament steps. He also met President Abdel Fattah al-Sisi, with both sides stressing the need for all parties to fulfill ceasefire obligations. 
+‏
+‏Mediators from Egypt, Qatar and Turkey, plus Board of Peace envoys, joined the Hamas discussions. Kushner is next expected in Israel to meet Netanyahu.
+‏
+‏The Global Eye | Subscribe ✈️
+23:04
+1405/05/25
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🔴چند لحظه پس از اینکه هواپیماهای سوخت‌رسان و جنگنده‌های نیروی هوایی آمریکا (USAF) منطقه اطراف تنگه هرمز را ترک کردند، گزارش‌هایی از شلیک موشک‌های ضدکشتی از سوی ایران به سمت این آبراه منتشر شد.
+‏
+‏🔸هواپیماهای سوخت‌رسان نیروی هوایی آمریکا و جنگنده‌ها (و احتمالاً هواپیمای هشدار زودهنگام هوابرد E-2D AWACS از ناو هواپیمابر) تقریباً در تمام طول روز فعال بودند.
+‏
+‏@mwarmonitor
+23:03
+1405/05/25
+
+
+
+
 src :@mwarmonitor
 ‏📰 ارتش آمریکا آخرین ناو هواپیمابر خود در اقیانوس آرام را خارج می‌کند تا عملیات در ایران را در اولویت قرار دهد. 
 ‏
@@ -869,17 +914,6 @@ src :@World_Newsly
 [ویدئو]
 ‏🔴 دقایقی پیش نیروی دریایی سپاه یک موشک کروز ضدکشتی را به سمت یک شناور در تنگه هرمز شلیک کرد  ✍🏻 exxon ▪️@World_Newsly
 21:56
-1405/05/25
-
-
-
-
-src :@World_Newsly
-‏🔴 دقایقی پیش نیروی دریایی سپاه یک موشک کروز ضدکشتی را به سمت یک شناور در تنگه هرمز شلیک کرد
-‏
-‏✍🏻 exxon
-‏▪️@World_Newsly
-21:52
 1405/05/25
 
 
@@ -1955,20 +1989,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe ✈️
 20:20
-1405/05/25
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با انتشار تصویری از تبلیغات حزب لیکود در شبکه ایکس نوشت: «نگذارید آنها برنده شوند.»
-‏
-‏در بنر منتشرشده، تصاویر زهران ممدانی، شهردار نیویورک، نعیم قاسم، دبیرکل حزب‌الله لبنان، مجتبی خامنه‌ای، رهبر جمهوری اسلامی، و رجب طیب اردوغان، رییس‌جمهوری ترکیه، دیده می‌شود.
-‏
-‏روی این بنر نوشته شده است: «این بار نتانیاهو نجات نخواهد یافت و ما به او اجازه پیروزی نمی‌دهیم.»
-‏https://iranintl.com/202608168740
-20:14
 1405/05/25
 
 
@@ -5386,21 +5406,6 @@ src :@Americana_ir
 
 
 
-src :@mwarmonitor
-‏🔴«یک مقام ارشد اروپایی، در پی نارضایتی از نحوه مدیریت جنگ با ایران توسط دولت ترامپ، گفت:
-‏
-‏«ائتلاف میان ترکیه، پاکستان و عربستان سعودی؛ پیامی به آمریکا.»»
-‏
-‏🟢یعنی از دید این مقام اروپایی، توافق دفاعی سه‌جانبه میان ترکیه، پاکستان و عربستان می‌تواند پیامی به واشنگتن درباره کاهش اتکای کشورهای منطقه به تضمین‌های امنیتی آمریکا و حرکت به سمت استقلال بیشتر در حوزه امنیت منطقه‌ای باشد. کانال ۱۳ اسرائیل 
-‏
-‏
-‏@mwarmonitor
-11:25
-1405/05/25
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏ترکیب عجیب اتمی
@@ -5414,14 +5419,6 @@ src :@Navy_Iranian
 ‏به همین دلیل پیش از ماموریت با جرثقیل بر روی ناو گذاشته میشده که خود باعث ایجاد محدودیت های عملیاتی بوده و 3 ناو USS Midway(CVB-41) و USS F.D.Roosevelt(CVB-42) و USS Coral Sea(CVB-43) برای حمل این هواگرد و سلاح اتمی تغییر کردن و اسکادران VC-5 را به وجود آوردند
 ‏
 ‏⚓️ @Navy_Iranian | #Poseidon
-11:23
-1405/05/25
-
-
-
-
-src :@mwarmonitor
-‏🔴 قطر تکذیب کرده است که خلبانان ایرانی را در بازداشت دارد و گفته است که آنها حریم هوایی قطر را نقض کرده و به تلاش‌ها برای تماس با آنها پاسخ نداده بودند.  🔴 ماجد الانصاری، سخنگوی وزارت امور خارجه قطر، می‌گوید تیم‌های جست‌وجو و نجات بقایای یکی از خلبانان را…
 11:23
 1405/05/25
 
@@ -5998,29 +5995,4 @@ src :@Middle_East_Spectator
 src :@Exciton_missile_program
 ‏در ادامه اعتراضات به شرایط اعزام ناوهای هواپیمابر آمریکا اعزامی به خاورمیانه شبکه CBS با جفرسون کلی که پسرش جکسون ۲۰ساله برای اولین مأموریت دریایی‌اش به ناو آبراهام لینکلن رفته است، مصاحبه‌ای داشته است. او در این مصاحبه اظهار داشته که «آن‌ها نباید این‌قدر…
 23:10
-1405/05/24
-
-
-
-
-src :@tglobaleye
-‏🇷🇺 🇹🇷 🇺🇸 🇺🇦 — The Russian Foreign Ministry has requested clarification from the US and Turkey regarding arms deliveries to Ukraine.
-‏
-‏According to Zakharova, the conditions for the large-scale arms shipments from the US via Turkey remain contradictory. "Such deliveries will not affect the course of the special operation according to the Russian scenario," she said, "they will significantly damage relations between Russia, the US, and Turkey and undermine trust, while at the same time peace-promoting rhetoric is being used." 
-‏
-‏🇪🇺 Legion Europa | Group Chat
-23:08
-1405/05/24
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏A crew member aboard the USS Abraham Lincoln (CVN-72) sent a photo to a relative showing the carrier’s latest meal service, complaining that the food was being served as mixed scoops rather than allowing sailors to choose individual items.
-‏
-‏The crew was told that the food had been blended together, with the beans singled out as particularly unappetizing.
-‏
-‏Meanwhile, the USS Boxer (LHD-4), an amphibious assault ship currently deployed against Iran, has run out of women’s hygiene products, likely referring to tampons and sanitary pads.
-23:03
 1405/05/24
