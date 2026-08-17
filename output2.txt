@@ -1,3 +1,52 @@
+src :@MilitarryWorld
+‏🔴ترامپ: محاصره دریایی آمریکا به اعمال فشارهای اقتصادی جدید بر حکومت ایران ادامه می‌دهد.
+‏
+‏@MilitarryWorld | Parsa
+15:51
+1405/05/26
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴حسین صمصامی، عضو کمیسیون اقتصادی مجلس: افزایش قیمت بنزین باعث تشویش اذهان عمومی می شود و مانند جرقه در انبار باروت است.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+15:51
+1405/05/26
+
+
+
+
+src :@wfwitness
+‏⚡️🇾🇪🇸🇦 The Houthis have claimed responsibility for an attack on a Saudi military landing ship accompanied by four military boats in the Red Sea off the coast of Mokha.   The operation, carried out with ballistic missiles, resulted in the complete burning of…
+15:49
+1405/05/26
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻دانیال ایری، مدافع ۲۲ ساله و ملی‌پوش نساجی، با امضای قراردادی رسمی به پرسپولیس پیوست تا فصل جدید را با پیراهن سرخپوشان آغاز کند. 
+‏
+‏🔹ایری فصل گذشته عضو ملوان بود و در جریان جام جهانی ۲۰۲۶ نیز به اردوی تیم ملی ایران دعوت شد، هرچند هنوز فرصت حضور در ترکیب تیم ملی را پیدا نکرده است. این مدافع پس از پایان دوران خدمت سربازی باید به ذوب‌آهن بازمی‌گشت، اما پیش از پایان فصل گذشته با نساجی قرارداد امضا کرد و با وجود حضور در فهرست این باشگاه، برای قائمشهری‌ها به میدان نرفت. پس از کش‌وقوس‌های فراوان، در نهایت مسیر این بازیکن به پرسپولیس رسید. 
+‏
+‏🔹طبق گزارش «ورزش سه»، باشگاه پرسپولیس برای دریافت رضایت‌نامه ایری از نساجی ۱۹۰ میلیارد تومان پرداخت کرده است.
+‏
+‏🔹قرارداد ایری با پرسپولیس نیز پنج‌ساله خواهد بود و بر اساس جزئیات منتشرشده، این مدافع در فصل نخست ۷۷ میلیارد تومان دریافت خواهد کرد. رقم قرارداد او در سال‌های بعد به صورت پلکانی افزایش پیدا می‌کند و مجموع دریافتی او از قرارداد پایه طی پنج سال، حدود ۷۰۰ میلیارد تومان خواهد بود.
+‏
+‏🔹جزییات بیشتر این گزارش را در سایت بخوانید
+‏
+‏@iranintltvsport
+15:48
+1405/05/26
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️دونالد ترامپ، رئیس جمهور آمریکا، روز دوشنبه گفت که در مورد پرونده ایران عجله‌ای ندارد و به «کانال‌های ارتباطی پنهانی با سپاه پاسداران ایران» اشاره کرد. او افزود: «ما به صورت مستقیم با مقامات سپاه پاسداران ایران صحبت می‌کنیم».
@@ -70,6 +119,8 @@ src :@tabzlive
 
 src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - Houthi military spokesman Yahya Saree claims a Saudi naval landing craft and four escort boats were struck off the coast of al-Mukha in the Red Sea with several ballistic missiles.
+‏
+‏@GeoPWatch
 15:41
 1405/05/26
 
@@ -108,6 +159,8 @@ src :@World_Newsly
 
 src :@GeoPWatch
 ‏🇺🇸‼️❗️ - The U.S. Navy has awarded Raytheon a $22.9 billion dollar contract to boost the output of Tomahawk missiles.
+‏
+‏@GeoPWatch
 15:40
 1405/05/26
 
@@ -144,6 +197,8 @@ src :@Alibk3
 
 src :@GeoPWatch
 ‏🇮🇷❌🇮🇶🇹🇷 - 2 drones were reportedly launched overnight by the IRGC targeting the KRG’s Prime Minister’s private office, and the residence of the Director of the Protection Agency in the Pirmam district of Erbil, Iraq.
+‏
+‏@GeoPWatch
 15:38
 1405/05/26
 
@@ -229,6 +284,8 @@ src :@IranintlTV
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Al Arabiya: 
 ‏Reports indicate that an agreement has been reached to extend the 60-day period between Iran and the United States.
+‏
+‏@GeoPWatch
 15:35
 1405/05/26
 
@@ -1449,17 +1506,6 @@ src :@defence_news
 
 
 
-src :@World_Newsly
-‏🔴 پلیس راهور فراجا: حتی یک خودروی تولید داخل در مرکز آزمون تصادف تست نشده است!
-‏
-‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-14:33
-1405/05/26
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏روزنامه آمریکایی «وال‌استریت ژورنال» روز دوشنبه ۲۶مرداد۱۴۰۵ گزارش داد که جمهوری اسلامی طی دو ماه گذشته، به جای اعتماد به مسیر مذاکرات با آمریکا، توان خود را صرف آماده‌سازی برای درگیری گسترده‌تری با آمریکا و اسراییل کرده است.
@@ -2435,15 +2481,6 @@ src :@rus_cosmos
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧 The Lebanese Parliment has approved the draft law aimed at abolishing the death penalty in Lebanon after amendments were introduced.  The death penalty has been suspended in Lebanon for more than 20 years.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto…
-13:31
-1405/05/26
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‏ ‏
 ‏آکسیوس: دولت ترامپ برای تماس با فرماندهان سپاه از کانال بارزانی استفاده کرد
@@ -3277,17 +3314,6 @@ src :@Alibk3
 
 
 
-src :@P_raetorio
-[عکس]
-‏وضعیت پمپ بنزین‌ها، این روز‌ها در روسیه:
-‏
-‏@P_raetorio
-11:49
-1405/05/26
-
-
-
-
 src :@intelslava
 ‏🇮🇪⚡️ — Based on FOI data, non-Irish were as much as 1.4 times more likely to be allocated social housing compared to Irish households. 
 ‏
@@ -3376,16 +3402,6 @@ src :@tglobaleye
 src :@naya_foriraq
 ‏الله أكبر  🇾🇪🇸🇦هجوم صاروخي لأنصار الله على سفن معادية في باب المندب.
 11:40
-1405/05/26
-
-
-
-
-src :@MilitarryWorld
-‏🔴 سخنگوی وزارت خارجه: ایران وضعیت خلبانان ارتش را از مجاری دیپلماتیک پیگیری می‌کند
-‏
-‏@MilitarryWorld | Parsa
-11:35
 1405/05/26
 
 
@@ -6227,14 +6243,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 15:58
-1405/05/25
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 Gulf states consider removing US military bases after completely losing trust in President Trump's Iran war strategy, WaPo reports.
-‏
-‏@BRICSNews
-15:47
 1405/05/25
