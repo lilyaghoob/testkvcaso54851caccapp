@@ -1,6 +1,45 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴ابراهیم رضایی، عضو کمیسیون امنیت ملی مجلس: ترامپ باز هم حرف از تسلیم ایران زده است. ایران بزرگ تسلیم‌شدنی نیست، کسی باید تسلیم شود که با ماشین غذا و با خفت و خواری فرار می‌کند.
+‏
+‏@MilitarryWorld | Parsa
+19:57
+1405/05/26
+
+
+
+
+src :@didarnews1
+‏دیدارنیوز pinned a photo
+19:56
+1405/05/26
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴گزارش ها از برخورد موشک کروز روسی به خاک مولداوی!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+19:55
+1405/05/26
+
+
+
+
+src :@tabzlive
+‏🇮🇶🇮🇶⚡️ — Head of the Iraqi Security Media Cell Lieutenant General Saad Maan in an interview with Iraqi News Agency reported that Asa'ib Ahl al-Haqq, Kata'ib Imam al-Ali, and Saraya al-Salam have followed through on their agreements to disarm their weapons to the Iraqi state, adding that "a large amount of weapons of various types have been received from these factions".
+19:54
+1405/05/26
+
+
+
+
 src :@naya_foriraq
 [عکس]
-‏🇺🇸توم باراك: نحن ندعم بشكل كامل قيادة رئيس الوزراء في استعادة السيادة الكاملة للعراق وضمان بقاء جميع الأسلحة وقوات الأمن تحت سلطة الدولة العراقية.
+‏🇺🇸🇮🇶 توم باراك: نحن ندعم بشكل كامل قيادة رئيس الوزراء في استعادة السيادة الكاملة للعراق وضمان بقاء جميع الأسلحة وقوات الأمن تحت سلطة الدولة العراقية.
 19:50
 1405/05/26
 
@@ -751,7 +790,7 @@ src :@bricsnews
 
 src :@Ali_bk_2
 [عکس]
-‏An oil tanker operated by an Emirati company was stopped while transiting the Strait of Hormuz using the route designated by Iran.
+‏Stopping and detaining an oil tanker operated by an Emirati company while it was transiting the Strait of Hormuz using the route designated by Iran.
 18:50
 1405/05/26
 
@@ -760,7 +799,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏‏تم إيقاف ناقلة نفط تديرها شركة إماراتية أثناء عبورها مضيق هرمز باستخدام الممر الذي حددته إيران.
+‏‏إيقاف وحجز ناقلة نفط تديرها شركة إماراتية أثناء عبورها مضيق هرمز باستخدام الممر الذي حددته إيران.
 18:50
 1405/05/26
 
@@ -3119,19 +3158,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Russia Constructed Secret Network of Bases for Deep Drone Strikes on NATO
-‏
-‏Russia has established a covert network of 10 launch bases fitted with advanced long-range strike drones capable of hitting targets deep inside NATO territory.
-‏
-‏READ MORE
-16:13
-1405/05/26
-
-
-
-
 src :@Ali_bk_2
 ‏Reuters, citing an Iranian official:
 ‏
@@ -3258,15 +3284,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 16:04
-1405/05/26
-
-
-
-
-src :@ClashReport
-[عکس]
-‏RTX’s Raytheon won a $22.9B multi-year U.S. Navy contract to produce Tomahawk cruise missiles, targeting annual production of 1,000+ missiles.
-16:03
 1405/05/26
 
 
@@ -3595,16 +3612,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 15:37
-1405/05/26
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ: بسیاری از سیستم‌های پیشرفته‌تر پدافند هوایی که اکنون در خاورمیانه نیاز داریم را بایدن به اوکراین داده است
-‏
-‏@MilitarryWorld | Parsa
-15:36
 1405/05/26
 
 
@@ -5464,30 +5471,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:49
-1405/05/26
-
-
-
-
-src :@didarnews1
-‏🔴سردار محبی: رسانه‌ها رابطه میدان و دیپلماسی را در ذهن مردم تثبیت کردند
-‏
-‏سخنگوی سپاه در مراسم تجلیل از خبرنگاران:
-‏
-‏🔹رسانه‌ها به خوبی توانستند رابطه میان خیابان، میدان و دیپلماسی را برقرار و این پیوند را در اذهان مردم تثبیت کنند.
-‏
-‏🔹رسانه‌ها در جریان جنگ با دغدغه‌مندی و هماهنگی، اجازه ندادند رخنه‌ای برای تفرقه‌افکنی ایجاد شود.
-‏
-‏🔹از رسانه ملی و خبرگزاری‌ها تا انسان‌رسانه‌ها، اصحاب رسانه در جریان جنگ بسیار هماهنگ و دغدغه‌مند بودند و حتی در ساعات نیمه‌شب برای پیگیری اخبار و اطلاع‌رسانی دقیق با ما در ارتباط بودند.
-‏
-‏🔹در این مدت آن‌قدر همراهی و همکاری اصحاب رسانه را دیدیم که احساس کردم همه این عزیزان رسانه‌ای، جزئی از خانواده سپاه هستند.
-‏
-‏#سیاسی 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-10:44
 1405/05/26
 
 
