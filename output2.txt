@@ -1,3 +1,39 @@
+src :@defence_news
+[عکس]
+‏📱 سرویس های یک ماهه WireGuard 📱
+‏
+‏😇 بدون محدودیت حجم
+‏🎲 مخصوص بازی و امور نیازمند پینگ پایین
+‏
+‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
+‏
+‏💰 فقط 0️⃣0️⃣0️⃣0️⃣5️⃣4️⃣ تومان
+‏⚡️ پینگ بهتر، سرعت بالاتر و اتصال پایدارتر
+‏🌍 مناسب گیم، استریم، دانلود و استفاده روزمره
+‏🔒 امنیت بالا و کیفیت اتصال متفاوت
+‏
+‏📩 برای خرید و دریافت سریع:
+‏
+‏😎@CFoxSupport
+19:22
+1405/05/26
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump Threatens to 'Bomb the Sh*t Out of Oman' If They Get in the Way
+‏
+‏Donald Trump threatened military strikes against Oman if the Gulf nation interferes with US strategy, as Muscat negotiates with Tehran over commercial access to the Strait of Hormuz.
+‏
+‏READ MORE
+19:17
+1405/05/26
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇷🇺 Russia builds secret bases that can launch drones deep inside NATO.
 ‏
@@ -22,8 +58,19 @@ src :@Farsi_Iranwire
 
 
 
+src :@World_Newsly
+‏🔴وزارت نیرو: ۴۲۰۰ مگاوات برق را بخاطر جنگ از دست دادیم!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+19:16
+1405/05/26
+
+
+
+
 src :@tabzlive
-‏🇲🇩🇷🇺⚡️ — NEW: Moldovan authorities are responding to an explosion near the village of Talmaza, around 13 miles from the Ukrainian border, after a suspected Russian Banderol cruise missile entered Moldovan airspace from Ukraine and may have crashed in the area.
+‏🇲🇩🇷🇺⚡️ — NEW: Moldovan authorities are responding to an explosion in the area of Talmaza, located near the Ukrainian border, after a suspected Russian Banderol cruise missile entered Moldovan airspace from Ukraine and may have crashed in the area.
 19:16
 1405/05/26
 
@@ -43,7 +90,7 @@ src :@IranintlTV
 
 
 src :@GeoPWatch
-‏🇷🇺❌🇲🇩 - The Russian Banderol Cruise Missile has reportedly impacted near Talmaza, Moldova.
+‏🇷🇺❌🇲🇩 - The Russian Banderol Cruise Missile has reportedly impacted near Talmaza, Moldova.  @GeoPWatch
 19:15
 1405/05/26
 
@@ -3657,14 +3704,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-‏Yemen’s Houthis say they struck a Saudi military landing ship and four escort boats off Mokha with ballistic missiles, destroying the ship and several boats.
-15:20
-1405/05/26
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏یکی از عجیب‌ترین حوادث تاریخ هوانوردی ناونشین آمریکا در ۹ ژوئیه ۱۹۹۱ اتفاق افتاد.
@@ -5695,14 +5734,6 @@ src :@mohem_mat
 
 
 
-src :@mohem_mat
-‏ترامپ به پیت هگست وزیر جنگ دستور داده هرگونه رزمایش نظامی مشترک آینده میان آمریکا و کره جنوبی را به میزان قابل توجهی کاهش دهد. او این رزمایش‌ها را “کاملاً نامناسب و خصمانه” در قبال کره شمالی خوانده و مدعی شده که این کشور “تهدیدآمیز نبوده و رفتاری محترمانه…
-09:20
-1405/05/26
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏◆ تا ساعاتی دیگر یک‌ هیئت ارشد از نیروی هوایی ایران به پاکستان میرسد. هدف از این سفر،بستن قرارداد برای آموزش پرسنل فنی ایرانی با تاکتیک های نوین و جدید هوایی است .
@@ -6654,16 +6685,4 @@ src :@Exciton_missile_program
 ‏
 ‏@P_raetorio
 19:49
-1405/05/25
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran places $30,000 bounty for capturing or killing US soldiers if a ground invasion occurs.
-‏
-‏"Courageous Iranian women who carry out such an action will receive double the reward."
-‏
-‏@BRICSNews
-19:17
 1405/05/25
