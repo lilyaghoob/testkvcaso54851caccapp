@@ -1,3 +1,83 @@
+src :@OSINTWarfare
+[عکس]
+‏An interesting 38North analysis examines open-source information on the combat use of North Korean Hwasong-11B (KN-23) / Hwasong-11Ka (KN-24) operational-tactical ballistic missiles, primarily the KN-23, against targets in Ukraine.
+‏
+‏The analysis reaches several conclusions that differ from mainstream Ukrainian and Western assessments. We previously highlighted some of these discrepancies as well.
+‏
+‏By comparing missile launches conducted in North Korea, tracked through foreign technical intelligence, with launches against Ukrainian targets, and accounting for known accuracy and failure rates, the author concludes that the initial issue was apparently not poor manufacturing quality.
+‏
+‏Instead, the missiles were being used in Ukraine under conditions absent from North Korean test launches, particularly against advanced electronic warfare (EW) and air defense systems. EW interference disrupted satellite navigation, while air defenses could damage or deflect missiles even without fully intercepting them.
+‏
+‏The need to evade interception also forced the missiles to fly more complex trajectories, making it harder to maintain the intended point of impact. Combined with interception damage, this contributed to lower accuracy and higher failure rates.
+‏
+‏According to the analysis, when satellite navigation was disrupted, the missiles often had to rely on their less sophisticated inertial navigation systems. Accuracy deteriorated with increasing range and trajectory complexity, falling to 1,000–3,000 meters, still potentially sufficient for nuclear strikes against large area targets.
+‏
+‏Experience gained in Ukraine apparently led to repeated modernization of the missiles, improving their resilience against advanced EW systems. Later batches regained the accuracy demonstrated during North Korean test launches, achieving accuracy in the tens of meters even at maximum range, with later claims of 1–5 meter accuracy.
+‏
+‏Various structural and trajectory-related improvements were also developed and tested, increasing both missile reliability and performance.
+‏
+‏Other interesting details include the estimate that around 250 KN-23/KN-24 missiles had been transferred by September 2025.
+‏
+‏The analysis also states that KN-23 missiles were used between November 2023 and December 2025 from only a single launcher operated by Korean People’s Army personnel.
+‏
+‏Finally, materials from the Memorial Museum of Combat Feats in the Special Military Operation Abroad reportedly contain a reference to the participation of a KPA missile unit in the operation.
+20:22
+1405/05/26
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 A large scale detonation rocked the occupied town of Zawtar Al Sharqiyeh a few moments ago in the security zone of southern Lebanon.
+‏
+‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+20:21
+1405/05/26
+
+
+
+
+src :@selena_updates
+[عکس]
+‏US President Donald Trump on Iran
+20:20
+1405/05/26
+
+
+
+
+src :@Ali_bk_2
+‏Stopping and detaining an oil tanker operated by an Emirati company while it was transiting the Strait of Hormuz using the route designated by Iran.
+20:19
+1405/05/26
+
+
+
+
+src :@Alibk3
+‏‏إيقاف وحجز ناقلة نفط تديرها شركة إماراتية أثناء عبورها مضيق هرمز باستخدام الممر الذي حددته إيران.
+20:19
+1405/05/26
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴وای نت به نقل از یک مقام ارشد پیشین حکومت ایران: مجتبی خامنه‌ای به شدت ایزوله شده و هیچ دستگاه الکترونیکی نباید در اطراف او وجود داشته باشد، غذای او را کسی پیش از خوردنش امتحان می کند که سمی نباشد و یک پزشک و یک پرستار ۲۴ ساعته مراقب او هستند.
+‏در همین حال یک مقام ارشد اسرائیلی می گوید نکته مهم این است که اصلا مجتبی خامنه‌ای در تصمیم گیری های مهم نقش خاصی ندارد و فقط نقش دستگاه امضا را ایفا می کند و تصمیمات و قدرت دست سپاه پاسداران و فرماندهی آن است و برای ثبات جامعه ایران، فرمان های کشور را از زبان مجتبی خامنه‌ای می گویند و طوری وانمود می کنند که او در راس تصمیم گیری ها هست در حالی که با او در بهترین حالت فقط مشورت می شود.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+20:16
+1405/05/26
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏🔴یک نفتکش تحت مدیریت یک شرکت اماراتی، هنگام عبور از تنگه هرمز و در حالی که از کریدور تعیین‌شده توسط ایران استفاده می‌کرد، «متوقف و بازرسی» شد.
@@ -1444,15 +1524,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-18:33
-1405/05/26
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴جرد کوشنر، مشاور ارشد و داماد ترامپ، با نتانیاهو دیدار کرد و درمورد حماس و آینده غزه با او گفت و گو کرد.  ✍🏻 Desert Eagle ▪️@World_Newsly
 18:33
 1405/05/26
 
@@ -3393,22 +3464,6 @@ src :@intelslava
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸 Reuters: Iran has shifted from a defensive posture to a “fully offensive” policy, according to a senior Iranian official, as Tehran gives Washington several weeks to fully implement its memorandum of understanding.
-‏
-‏The official said Iran will not tolerate an indefinite US naval blockade and has prepared to escalate tensions in the Strait of Hormuz and across the region if diplomacy fails.
-‏
-‏The deadline is expected to be conveyed to Washington and regional governments through mediators, raising the risk of further military escalation if an agreement is not reached.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-16:20
-1405/05/26
-
-
-
-
 src :@mwarmonitor
 ‏🔴مقام ارشد ایرانی به رویترز گفت که ایران تصمیم گرفته است از موضع دفاعی به یک سیاست «کاملاً تهاجمی» تغییر مسیر دهد.
 ‏
@@ -3462,26 +3517,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 16:14
-1405/05/26
-
-
-
-
-src :@Ali_bk_2
-‏Reuters, citing an Iranian official:
-‏
-‏We are prepared for escalation if diplomacy fails, because relying on mediators to reach an agreement is not realistic, and we will not wait for the United States to continue the naval blockade indefinitely.
-16:10
-1405/05/26
-
-
-
-
-src :@Alibk3
-‏رويترز عن مسؤول إيراني: 
-‏
-‏‏ مستعدون للتصعيد في حال فشلت الدبلوماسية، لأن الاعتماد على الوسطاء للتوصل لاتفاق ليس أمرا واقعيا ولن ننتظر أن تواصل أميركا الحصار البحري إلى أجل غير مسمى..
-16:10
 1405/05/26
 
 
@@ -5172,16 +5207,6 @@ src :@defence_news
 
 
 
-src :@P_raetorio
-‏یگان ضد تروریسم دولت اقلیم کردستان اعلام کرد روز گذشته دو فروند پهپاد انتحاری حدید-۱۱۰ از ایران به سوی دفتر نخست‌وزیر و محل اقامت دستگاه اطلاعات اقلیم پرتاب شده‌‌اند اما حمله تلفاتی در برنداشته‌ است.
-‏
-‏@Minas_Tirith2024
-11:54
-1405/05/26
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏⚜تردد تجاری قابل رصد از تنگه هرمز در طول  اول هفته تقریباً به حالت توقف کامل رسید.
@@ -6373,17 +6398,6 @@ src :@tglobaleye
 
 
 
-src :@defence_news
-[عکس]
-‏حمله پهپادی ارتش اوکراین به انبار  لجستیکی کولدینو در حومه مسکو 
-‏
-‏@Minas_Tirith2024
-21:15
-1405/05/25
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS |✖️🇧🇷 — X publishes open-source algorithm code revealing Brazil 2026 election recommendation filter
@@ -6468,15 +6482,4 @@ src :@rnintel
 ‏
 ‏"I LOVE ISRAEL I AM A Good Goyim"
 20:21
-1405/05/25
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — Former Vice President Kamala Harris and Rep. Alexandria Ocasio-Cortez may run as Democratic presidential and vice-presidential nominees in 2028, sources say.
-‏
-‏The Global Eye | Subscribe ✈️
-20:20
 1405/05/25
