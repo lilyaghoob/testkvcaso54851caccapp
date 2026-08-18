@@ -1,3 +1,108 @@
+src :@mohem_mat
+[عکس]
+‏ترامپ در تروث سوشال با انتشار این عکس نوشته :
+‏
+‏قلمرو جدید آمریکا
+‏
+‏@mohem_mat
+14:56
+1405/05/27
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏در اثر اصابت دو موشک کروز روسی به روستای یچینکی استان خارکف 10 نفر‌ کشته و 24 تن زخمی شدند.
+‏
+‏@P_raetorio
+14:55
+1405/05/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇦🇷🇺⚡️ — Ukraine is increasingly using near-real-time commercial satellite imagery to provide frontline drone units with precise intelligence on Russian positions, NYT reports.
+‏
+‏Imagery that previously took days to reach troops can now arrive within 15 minutes to a few hours, allowing operators to rapidly locate Russian personnel, equipment, supply routes, and concealed positions before launching drone strikes.
+‏
+‏The development is effectively turning satellite intelligence from a tool primarily reserved for senior commanders into one directly integrated with frontline drone operations.
+‏
+‏Ukrainian units have used the capability to target Russian air defenses, electronic warfare systems, and logistics infrastructure, including installations in Russian-controlled Crimea and Zaporizhzhia.
+14:55
+1405/05/27
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏حوثی ها مواضع نیروهای وفادار به عربستان سعودی را در مأرب با موشک هدف قرار داد.  🆔️‌@WAR_ROOM_NEWS
+14:54
+1405/05/27
+
+
+
+
+src :@intelslava
+[عکس]
+‏Earlier today, a Russian Su-35S operating near Horlivka, Donetsk Oblast, attempted to shoot down a possible Ukrainian MiG-29MU2 Multirole Fighter that was launching glide bombs at Russian positions in Kostyantynivka from west of Kramatorsk. The Su-35S engaged the aircraft with an R-37 or R-77 air-to-air missile.
+‏
+‏Later, the Russian Ministry of Defense announced that a Russian fighter had shot down a Ukrainian MiG-29.
+14:54
+1405/05/27
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Earlier today, a Russian Su-35S operating near Horlivka, Donetsk Oblast, attempted to shoot down a possible Ukrainian MiG-29MU2 Multirole Fighter that was launching glide bombs at Russian positions in Kostyantynivka from west of Kramatorsk. The Su-35S engaged the aircraft with an R-37 or R-77 air-to-air missile.
+‏
+‏Later, the Russian Ministry of Defense announced that a Russian fighter had shot down a Ukrainian MiG-29.
+14:54
+1405/05/27
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏دونالد ترامپ، رییس‌جمهوری آمریکا، تصویری در شبکه اجتماعی تروث سوشال منتشر کرد که نقشه تنگه هرمز و بخش‌هایی از ایران، خلیج فارس و دریای عمان را نشان می‌دهد.
+‏
+‏در بالای این تصویر عبارت «قلمرو جدید آمریکا» نوشته شده و محدوده تنگه هرمز با یک دایره مشخص شده است. در بخش پایینی تصویر نیز عبارت «تنگه هرمز» با حروف درشت دیده می‌شود.
+‏
+‏ترامپ همراه این تصویر توضیح دیگری منتشر نکرده است.
+‏https://iranintl.com/202608189410
+14:54
+1405/05/27
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏رئیس‌جمهور آمریکا، دونالد ترامپ، تصویری را در شبکه اجتماعی Truth Social منتشر کرده که در آن تنگه هرمز به‌عنوان «قلمرو جدید ایالات متحده» (New US Territory) نشان داده شده است.
+‏
+‏@mwarmonitor
+14:54
+1405/05/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇸🇾⚡️ — Wassim al-Assad, a cousin of ousted Syrian President Bashar al-Assad, has been sentenced to death for crimes committed during Syria’s nearly 14-year war.
+‏
+‏The Fourth Criminal Court in Damascus issued the sentence earlier today after convicting him of charges including premeditated murder and torture.
+14:53
+1405/05/27
+
+
+
+
 src :@World_Newsly
 [عکس]
 ‏🔴 پست جدید ترامپ 
@@ -3604,18 +3709,6 @@ src :@jangaavaran1390
 
 
 
-src :@mohem_mat
-‏این که تنگه هرمز بسته باشه؛ اما قیمت نفت بالا نره و تو رنج ۸۰-۹۰ دلار باشه، سودش برای ایران کجاست؟
-‏
-‏Arash Hashemi • آرش هاشمی (@iaaraash)
-‏
-‏@mohem_mat
-09:34
-1405/05/27
-
-
-
-
 src :@intelslava
 ‏🇺🇦🇷🇺⚡️ — 69 civilians were killed, and 406 were injured as a result of attacks by the Ukrainian Armed Forces on Russian regions between August 10th and 16th, according to the Russian Ministry of Foreign Affairs.
 ‏
@@ -4376,21 +4469,6 @@ src :@tabzlive
 [عکس]
 ‏🇮🇱❌🇱🇧 — Israeli airstrikes targeted Al-Mansouri and Deir Siryan in southern Lebanon a short while ago.
 04:09
-1405/05/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇴🇲🇮🇷⚡️ — U.S. officials say Oman is making progress in talks with Iran to allow more commercial shipping through the Strait of Hormuz, potentially easing pressure on global energy markets and U.S. gas prices, WSJ reports.
-‏
-‏However, U.S. officials remain divided over Oman’s role. Some senior administration officials privately accuse Muscat of favoring Tehran and worry an Iran-Oman agreement could reinforce Iranian control over the strait. 
-‏
-‏Others argue Oman’s longstanding relationship with Iran makes it a valuable mediator and say Trump is scapegoating Muscat as he struggles to secure a nuclear agreement with Tehran.
-‏
-‏Trump favors a deal that fully reopens the Strait of Hormuz rather than one that leaves Tehran with greater control over commercial passage.
-04:03
 1405/05/27
 
 
@@ -6752,20 +6830,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 16:51
-1405/05/26
-
-
-
-
-src :@mwarmonitor
-‏🔸این قرارداد تاریخی ۲۲.۹ میلیارد دلاری برای تسریع تولید موشک کروز تام‌هاوک دقیقاً همان اقدام قاطعانه‌ای است که آمریکا شایسته آن است.
-‏
-‏🔸شرکای ما در بخش صنایع دفاعی، از جمله شرکت RTX، در پاسخ به این درخواست در حال افزایش تولید مهمات حیاتی هستند تا نیروهای رزمی ما همچنان با برخورداری از توانمندی‌های برتر و قاطع، دست بالا را حفظ کنند.
-‏
-‏🔸اعتبار و قدردانی ویژه از مایکل دافی (Michael Duffey)، معاون وزیر جنگ آمریکا در امور اکتساب و پشتیبانی، برای پیشبرد این طرح و تسریع تحویل توانمندی‌های حملات دوربرد؛ قابلیتی که ارتش آمریکا را همچنان مرگبار نگه می‌دارد و موجب بازدارندگی در برابر تجاوز می‌شود.
-‏
-‏@mwarmonitor
-16:49
 1405/05/26
 
 
