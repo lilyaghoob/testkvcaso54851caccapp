@@ -1231,16 +1231,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: ورود کشتی نظام به قلب طوفان
-‏@iranintlTV
-02:05
-1405/05/27
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏-همه ما می‌دانیم که سربازان ورماخت و اس‌اس، مخصوصاً خدمه تانک در بسیاری از موارد از ماده مخدر شیشه برای جبران بی‌خوابی و خستگی استفاده می‌کردند، اما آیا شخص هیتلر هم از مواد مخدر استفاده می‌کرد؟
@@ -6945,21 +6935,4 @@ src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇰🇷 🇰🇵 — U.S. President Donald Trump:  Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea.…
 08:23
-1405/05/26
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Aryan @GEOIMINT
-‏
-‏It seems that the latest documentary released by IRGC-affiliated media (https://t.me/noghtezan_info/653) is for the most part just a dump of archival footage that has been censored or manipulated in some way to make it appear new. View images and replies for clarification:
-‏
-‏ترجمه خودکار فارسی
-‏
-‏به نظر می‌رسد مستند تازه‌ای که رسانهٔ وابسته به سپاه پاسداران انقلاب اسلامی منتشر کرده (https://telegram.me/noghtezan_info/653) در بیشتر موارد صرفاً مجموعه‌ای از تصاویر آرشیوی است که به نحوی سانسور یا دستکاری شده تا جدید به نظر برسد. برای شفاف‌سازی، تصاویر و پاسخ‌ها را ببینید:
-‏
-‏𝕏  ·  @shin_persian
-07:56
 1405/05/26
