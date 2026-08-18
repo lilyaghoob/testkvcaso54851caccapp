@@ -1,3 +1,53 @@
+src :@World_Newsly
+[عکس]
+‏🔴 شکاف قیمت گازوئیل و نفت خام در آمریکا به رکورد تاریخی رسید
+‏
+‏گزارش‌ها حاکی از آن است که شکاف قیمتی میان گازوئیل و نفت خام (Diesel Crack) در آمریکا برای نخستین بار در تاریخ به ۱۰۲.۲۰ دلار رسیده است.
+‏
+‏به گفته تحلیلگران، افزایش بی‌سابقه این شاخص می‌تواند هزینه سوخت مورد استفاده در بخش‌های کشاورزی، حمل‌ونقل و گرمایش را به‌طور قابل‌توجهی افزایش دهد و در نتیجه، به رشد قیمت مواد غذایی و تشدید فشارهای تورمی منجر شود.
+‏
+‏همچنین هشدار داده شده است که ادامه این روند می‌تواند هزینه‌های پالایش و حمل‌ونقل را به زنجیره تأمین منتقل کرده و قیمت کالاها و خدمات را برای مصرف‌کنندگان و کسب‌وکارها افزایش دهد.
+‏
+‏✍🏻 north vector
+‏▪️ @World_Newsly
+06:55
+1405/05/27
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸🇴🇲🇮🇷⚡️- "UKMTO has received a report of an incident in the Strait of Hormuz.
+‏
+‏The Company Security Officer has reported that the vessel was struck by an unknown projectile while conducting an outbound transit of the Strait of Hormuz. The impact caused damage to the engine room and resulted in a crew casualty. The remaining crew are currently being assisted by the Omani Coast Guard." - United Kingdom Maritime Trade Operations (UKMTO).
+06:54
+1405/05/27
+
+
+
+
+src :@jangaavaran1390
+‏سازمان UKMTO گزارش داد که یک کشتی در تنگه هرمز مورد اصابت یک پرتابه قرار گرفته است، که در نتیجه، بخش موتورخانه آسیب دیده و یکی از اعضای خدمه مجروح شده است.
+06:53
+1405/05/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇴🇲⚡️ — NEW: UKMTO reports a vessel was struck by a projectile while conducting an outbound transit of the Strait of Hormuz. 
+‏
+‏The impact damaged the engine room and caused one crew casualty, while the remaining crew are being assisted by the Omani Coast Guard. 
+‏
+‏No environmental impact has been reported so far.
+06:52
+1405/05/27
+
+
+
+
 src :@GeoPWatch
 ‏🇺🇸💰📈- Nasdaq is preparing to open its stock market for overnight trading beginning Dec. 6, a major expansion that would allow investors to buy and sell shares for nearly 23 hours a day, five days a week.
 ‏
@@ -11,9 +61,10 @@ src :@GeoPWatch
 
 
 src :@Middle_East_Spectator
+[عکس]
 ‏—❗️🇺🇸/🇮🇷 NEW: Iran has struck a vessel in the Strait of Hormuz
 ‏
-‏The attack caused a fire in the engine room and casualties among the crew.
+‏The attack caused a fire in the engine room and resulted in casualties among the crew.
 ‏
 ‏@Middle_East_Spectator
 06:50
@@ -1334,16 +1385,6 @@ src :@DEJradio
 
 
 
-src :@tabzlive
-‏🇮🇶⚡️ — Kata'ib Hezbollah's lead security official Abu Mujahid al-Asaf has declared that Kata'ib Hezbollah will only work with the Iraqi government if American and Turkish forces fully withdraw from Iraq and the Kurdish Peshmerga forces are fully dissolved.
-‏
-‏Abu Mujahid al-Asaf also condemned Iraq's Prime Minister Ali al-Zaidi, claiming he has made the situation in Iraq worse by listening to U.S. Special Envoy Tom Barrack and others who harbor hatred towards Shi'as. al-Asaf also threatened al-Zaidi with retaliation should hostile actions against Kata'ib Hezbollah continue.
-00:43
-1405/05/27
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏🇺🇸📊🍁 — THE BATTLE FOR THE U.S. SENATE IS ABOUT TO EXPLODE THIS FALL, with a staggering $549 MILLION in political ads already reserved across eight of America’s most competitive Senate races.
@@ -1941,18 +1982,6 @@ src :@Indypersian
 ‏عراقچی در ادامه با یادآوری حمایت‌های تاریخی تهران نوشت: «ما از دوستان کرد خود در برابر صدام و داعش حمایت کردیم و از امنیتی که در مرزهای ما برقرار کرده‌اند سپاسگزاریم.»
 ‏@indypersian
 23:54
-1405/05/26
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴هم‌اکنون چهار فروند هواپیمای تانکر سوخت‌رسان ارتش آمریکا در حال انجام عملیات در منطقه 
-‏
-‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-23:53
 1405/05/26
 
 
@@ -3187,17 +3216,6 @@ src :@ClashReport
 ‏
 ‏Source: POLITICO
 21:57
-1405/05/26
-
-
-
-
-src :@jangaavaran1390
-‏انتقاد ترامپ از کره جنوبی:
-‏من اخیراً با رئیس‌جمهور کره جنوبی صحبت کردم. گفتم: "آیا می‌توانید به ما در مورد ایران کمک کنید؟ اگر مایل باشید، ما به کمک شما نیازی نداریم." او گفت: "نه، ممنون."
-‏
-‏من گفتم: "منظورتان چیست؟ ما ۳۹۰۰۰ سرباز در آنجا داریم که شما را از کیم جونگ اون محافظت می‌کنند، و شما نمی‌خواهید در یک عملیات نظامی بسیار ساده در ایران به ما کمک کنید؟ این عجیب است."
-21:56
 1405/05/26
 
 
