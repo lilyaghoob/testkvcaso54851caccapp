@@ -2323,19 +2323,6 @@ src :@selena_updates
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump’s approval rating has fallen to 33% in the latest Economist/YouGov poll, the lowest recorded across either of his presidential terms, while 62% disapprove of his performance and 50% strongly disapprove.
-‏
-‏Only 22% of Americans rate the economy positively, while 65% believe the country is on the wrong track. 
-‏
-‏The Iran war and gas prices are the main drivers of the disapproval.
-22:28
-1405/05/26
-
-
-
-
 src :@Minas_Tirith2024
 ‏⚜به گزارش سی‌ان‌ان، اوکراین تقریباً با کمبود شدید موشک‌های رهگیر پاتریوت مواجه شده است؛ به‌طوری‌که یک سامانه پرتاب پاتریوت در نزدیکی کی‌یف حدود ۱۰ هفته است که بدون استفاده باقی مانده است.
 ‏
@@ -2368,19 +2355,6 @@ src :@mwarmonitor
 ‏🔴 ترامپ: ما به دنبال تمدید توافق‌نامه با ايران نیستیم.
 ‏
 ‏@mwarmonitor
-22:24
-1405/05/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — AI-generated legislative drafts are flooding the U.S. House, leaving congressional lawyers to fix proposals riddled with legal errors, incorrect citations, and vague or unnecessarily complicated language, POLITICO reports.
-‏
-‏The House Office of Legislative Counsel is spending more time repairing some AI-written bills than it would take to draft them from scratch, adding to an already heavy workload.
-‏
-‏The errors slipping through could delay legislation, lead to lawsuits or create unclear laws that courts and federal agencies struggle to interpret, as congressional staff and outside groups increasingly turn to tools such as ChatGPT and Claude to generate legislative language.
 22:24
 1405/05/26
 
