@@ -1,3 +1,59 @@
+src :@mohem_mat
+[عکس]
+‏روزها
+‏
+‏ادوارد نورتون در جوانی و ابتدای بازیگری درخشش بی نظیری داشت و همه معتقد بودند که پدیده ای استثنایی در عالم بازیگری است ولی اون درخشش ادامه پیدا نکرد
+‏
+‏احتمالا فیلم ازش زیاد دیدید. فیلمهایی که ازش توصیه می کنم که به نظرم اولین فیلم مهمی است که بازی کرده :
+‏ترس کهن . ۱۹۹۶
+‏Primal Fear
+‏
+‏و در درجه بعد:  تاریخ مجهول آمریکا. ۱۹۹۸
+‏American History X
+‏
+‏که باید حداقل یک اسکار برایش می آورد
+‏
+‏@mohem_mat
+19:12
+1405/05/27
+
+
+
+
+src :@Minas_Tirith2024
+‏گزارش های تایید نشده‌ای وجود دارد که دقایقی پیش یک موشک بالستیک از سوی حوثی‌ها به امارات متحده عربی شلیک شد که رهگیری شده است.
+‏
+‏@P_raetorio
+19:11
+1405/05/27
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 President Trump orders his team to avoid talks with Iran until Tehran is ready to sign a deal.
+‏
+‏@BRICSNews
+19:08
+1405/05/27
+
+
+
+
+src :@jangaavaran1390
+‏هند در آستانه قرارداد ۹ میلیارد دلاری زیردریایی با آلمان
+‏
+‏هند و آلمان  تنها چند هفته با امضای قراردادی حدود ۹ میلیارد دلار برای ساخت ۶ زیردریایی تایپ 214 فاصله دارند؛ پروژه‌ای که می‌تواند بزرگ‌ترین برنامه زیردریایی متعارف هند باشد.
+‏
+‏ ساخت زیردریایی‌ها در کارخانه Mazagon Dock در بمبئی، انتقال قابل‌توجه فناوری به هند، هدف‌گذاری ۴۵ تا ۶۰ درصد ساخت داخل، مجهز به پیشران مستقل از هوا (AIP) برای افزایش ماندگاری زیر آب
+‏
+‏سامانه AIP به زیردریایی اجازه می‌دهد بدون نیاز به بالا آمدن برای شارژ باتری‌ها، در شرایط عملیاتی برای هفته‌ها زیر آب باقی بماند.
+19:07
+1405/05/27
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️ وزارت امور خارجه عربستان سعودی با انتشار بیانیه‌ای، حملات هوایی ارتش اسرائیل به فرودگاه نظامی «ابو‌الظهور» در استان ادلب سوریه را به‌شدت محکوم کرد و آن را «نقض آشکار قوانین بین‌المللی و حاکمیت جمهوری عربی سوریه» دانست.
@@ -13,7 +69,8 @@ src :@Indypersian
 
 
 src :@mohem_mat
-‏اکسیوس
+‏الجزیره
+‏
 ‏‏ یک مقام آمریکایی اعلام کرد
 ‏ هیچ‌گونه تناقضی در اظهارات دولت این کشور در خصوص مذاکرات با ایران وجود ندارد.
 ‏‎
@@ -2779,23 +2836,6 @@ src :@thewarreporter
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇹🇷🇷🇺🇦🇪🇺🇸 Kommersant: Turkey's talks with the UAE on selling its Russian-made S-400 systems have stalled, according to Russia's Kommersant, which says the F-35 deal with the US remains suspended as a result. 
-‏
-‏The report ties this to a US State Department letter sent to Congress on July 22 recommending against approval, citing Turkey's continued possession of the S-400s. Erdoğan told Al Jazeera last weekend that he expects Trump to follow through on the F-35s, referencing the conditional green light Trump gave at July's NATO summit in Ankara.
-‏
-‏The report said decommissioning the S-400s is also an option, but this is inconsistent with the original contract's terms. Citing Kremlin spokesman Dmitry Peskov's July 10 comment that Moscow and Ankara are in contact on the systems' future, the report said Russia is unlikely to block the sale to UAE, since the UAE isn't a NATO member and Moscow-Abu Dhabi relations carry no particular tension.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:21
-1405/05/27
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇸🇾 — The Israeli Air Force carried out four airstrikes overnight on Abu al-Duhur Air Base in eastern Idlib, Syria, targeting the runway.  The base houses Syria's fledgling post-Assad Air Force, including roughly two restored Su-22s, several L-39 trainers…
 17:21
@@ -2810,15 +2850,6 @@ src :@ClashReport
 ‏
 ‏Lindsey having fun just a few weeks ago! Check out the hat!
 17:20
-1405/05/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump via Truth Social:
-17:15
 1405/05/27
 
 
@@ -4307,25 +4338,6 @@ src :@P_raetorio
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏بریتانیا و پهپادهای دوربرد برای اوکراین
-‏
-‏بر اساس گزارش دیفنز اکسپرس، بریتانیا در سال ۲۰۲۶ قصد انتقال حدود ۱۵۰ هزار فروند پهپاد در انواع مختلف به اوکراین را دارد.
-‏
-‏در همین حال، گزارش‌ها تأیید می‌کنند که پهپاد جت Nyan ساخت شرکت Callen-Lenz، زیرمجموعه BAE Systems، حدود شش ماه است در حملات اوکراین علیه اهدافی در خاک روسیه به کار گرفته می‌شود.
-‏
-‏نیان با طول بال حدود ۲.۹ متر، وزن برخاست بیش از ۷۵ کیلوگرم و قابلیت حمل تا ۲۰ کیلوگرم محموله، بردی بیش از ۲۵۰ کیلومتر دارد و با پرتابگر کاتاپولت به پرواز درمی‌آید.
-‏
-‏گزارش همچنین از یک پهپاد بریتانیایی دیگر با برد اعلامی تا ۹۶۰ کیلومتر خبر می‌دهد که مشخصات آن هنوز علنی نشده است.
-‏
-‏به نظر می‌رسد همکاری لندن و کی‌یف در حوزه پهپادهای دوربرد وارد مرحله‌ای شده که استفاده عملیاتی از این سامانه‌ها دیگر مانند گذشته پنهان نگه داشته نمی‌شود.
-15:01
-1405/05/27
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏ترامپ در آخرین اظهارات خود گفته است دیگر به دنبال تمدید آتش بس و توافق با جمهوری اسلامی نیست
 15:00
@@ -4588,26 +4600,6 @@ src :@Parvazdaroj
 
 
 
-src :@mohem_mat
-‏سید محمد خاتمی در دیدار جمعی از اصحاب رسانه گفت: 
-‏
-‏در صلح هم امتیاز داده می شود و هم امتیاز گرفته می شود.
-‏
-‏مراد از «صلح شرافتمندانه»، تن دادن به حکم خرد در عرصه عمل است که مورد تأیید خدای خرد آفرین است؛ یعنی: جنگ، شرّ بزرگ و صلح، خیر بزرگ.
-‏
-‏جنگ به دو صورت خاتمه می یابد: با تسلیم کامل یا نابودی یک طرف(که خود، شرّ است)، با تفاهم و مصالحه در جایی که به خصوص برداشتن خصم و تسلیم کامل او در عمل ممکن نباشد.
-‏
-‏امروز بقاء و موجودیت خود را به دشمن تحمیل کرده ایم. می توانیم با پرهیز از تنش مصالح عمومی و خیر جامعه و عزت ایران و آینده آن را تأمین کنیم. و فضای زندگی را به روی مردمی که در تنگنای سخت زندگی به خصوص از نظر معیشت و نومیدی از آینده بهتر بسر می برند بگشاییم و به سوی ایران آباد و سربلند برویم؛ این است معنی «صلح شرافتمندانه».
-‏
-‏هرچند اعتماد به آمریکا نیست و اسرائیل هم از هیچ کاری برای ادامه تنش و درگیری فرو گذار نمی کند، ولی باید با این مانع هم با تدبیر و دیپلماسی سنجیده روبه‌رو شد./ جماران
-‏
-‏@jamarannews
-14:30
-1405/05/27
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇮🇱🇸🇾 — The Israeli Air Force carried out four airstrikes overnight on Abu al-Duhur Air Base in eastern Idlib, Syria, targeting the runway.  The base houses Syria's fledgling post-Assad Air Force, including roughly two restored Su-22s, several L-39 trainers…
@@ -4719,20 +4711,6 @@ src :@cataphract1
 
 
 
-src :@mohem_mat
-‏شبکه ان‌بی‌سی آمریکا مدعی شد
-‏
-‏ روسیه از طریق دریای خزر، قطعات پهپادی و موشکی به ایران منتقل می‌کند تا به بازسازی ذخایری کمک کند که در حملات آمریکا و اسرائیل آسیب دیده‌اند.
-‏براساس این گزارش، مسیر خزر برای نیروهای دریایی غربی عملاً دست‌نیافتنی است؛ زیرا طبق کنوانسیون ۲۰۱۸، کشورهای غیرساحلی حق حضور نظامی در این دریا را ندارند.
-‏ان‌بی‌سی همچنین مدعی شده برخی کشتی‌ها در این مسیر سامانه‌های ردیابی خود را خاموش می‌کنند.
-‏
-‏@mohem_mat
-14:06
-1405/05/27
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Iran has denied responsibility for a drone attack targeting the office of Iraqi Kurdistan Prime Minister Masrour Barzani after the Kurdish leader accused Tehran of carrying out the strike. 
@@ -4754,22 +4732,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 14:04
-1405/05/27
-
-
-
-
-src :@mohem_mat
-‏رئیس اتاق مشترک ایران و عراق: 
-‏
-‏ ایران حدود ۱۲ میلیارد دلار از عراق طلبکار است که البته این رقم با توجه به جریان مبادلات و پرداخت‌ها در مقاطع مختلف تغییر می‌کند.
-‏
-‏با توجه به ظرفیت‌های موجود، امکان افزایش حجم تجارت دو کشور تا حدود ۲۰ میلیارد دلار نیز وجود دارد
-‏
-‏هم‌میهن
-‏
-‏@mohem_mat
-14:03
 1405/05/27
 
 
@@ -4801,18 +4763,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@P_raetorio
 13:59
-1405/05/27
-
-
-
-
-src :@mohem_mat
-‏تفاهم اسلام آباد منقضی شد. امریکا حمله نظامی نمی کند، می کوشد فشار اقتصادی را به حد اکثر برساند تا با گرسنگی دادن به مردم ایران، به زعم خود، آن ها را وادار به شورش و اغتشاش کند و نظام را به تسلیم وادار نماید؛ اگر نشد، در هنگامه آشوب ها حمله نظامی خواهد کرد!
-‏
-‏محمدحسین خوشوقت (@MKhoshvaght)
-‏
-‏@mohem_mat
-13:50
 1405/05/27
 
 
