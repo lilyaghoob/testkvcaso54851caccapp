@@ -1,8 +1,119 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶سوخو Su-15 
+‏یک جنگنده رهگیر مافوق صوت دو موتوره که توسط اتحاد جماهیر شوروی ساخته شد ،در سال 1965 وارد خدمت شد و یکی از اعضا خط مقدم دفاع هوایی در دهه 1990 باقی ماند. 
+‏
+‏🔹جنگنده Su-15 برای جایگزینی Sukhoi Su-11 و Sukhoi Su-9 طراحی شد که با معرفی بمب افکن های استراتژیک جدیدتر و توانمندتر ناتو در حال منسوخ شدن بودند ، این جنگنده دارای بیشینه سرعت 2200 کیلومتر و سقف پروازی 18 کیلومتری بود.
+‏
+‏@RASTAKHIZ_PERSIAN
+18:23
+1405/05/27
+
+
+
+
+src :@samueltarikh
+‏سازمان تجارت دریایی بریتانیا از حمله دیگر موشکی ایران به یک کشتی باری در تنگه هرمز خبر داد، یک خدمه این کشتی کشته شده است.
+18:21
+1405/05/27
+
+
+
+
+src :@defence_news
+‏مستند طبیعت و راز بقا
+18:21
+1405/05/27
+
+
+
+
+src :@naya_foriraq
+‏حدث بحري قرب سواحل عمان
+18:21
+1405/05/27
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر
+18:21
+1405/05/27
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏علی مدنی‌زاده، وزیر اقتصاد، در گفت‌وگو با خبرگزاری دانشجو اعلام کرد در شرایط فعلی، اولویت نخست جمهوری اسلامی فراهم‌کردن زمینه افزایش تاب‌آوری و مقاومت اقتصادی است.
+‏
+‏مدنی‌زاده گفت: «باید تلاش کنیم فشارهایی را که دشمنان از ابعاد مختلف به اقتصاد کشور وارد می‌کنند، به حداقل برسانیم و مانع اثرگذاری آن‌ها شویم.»
+‏
+‏وزیر اقتصاد همچنین افزود باید مشارکت حداکثری مردم را در اقتصاد کشور از طریق صرفه‌جویی و سرمایه‌گذاری برای بازسازی کشور و نوسازی اقتصاد جلب کنیم.
+‏https://iranintl.com/202608189974
+18:21
+1405/05/27
+
+
+
+
+src :@ClashReport
+[عکس]
+‏USS Abraham Lincoln's supply crisis stemmed from Iran destroying the main US naval logistics hub in Bahrain early in the war, forcing resupply from Diego Garcia 2,200 miles away, according to national security reporter David Rohde.
+‏
+‏Rohde says Defense Secretary Hegseth "hid" the scale of the damage rather than publicly acknowledging it. 
+‏
+‏Hegseth has called reports of crisis conditions on the Lincoln "completely misrepresented."
+‏
+‏The carrier has been at sea over 250 days with reported food rationing, broken plumbing, and mental health strain. 
+‏
+‏WSJ put Bahrain reconstruction costs at roughly $400 million. 
+‏
+‏The USS George Washington is en route as relief.
+18:20
+1405/05/27
+
+
+
+
+src :@guard_warriors
+‏ترامپ : با کسی مذاکره نمی‌کنیم و محاصره هم با همین روند پیش می‌بریم
+‏
+‏
+‏@Guard_Warriors
+18:20
+1405/05/27
+
+
+
+
+src :@defence_news
+‏نشریه آلمانی فوکوس و نشریه فرانسوی L’Indépendant در گزارش های اخیر خود مدعی شدند که در تابستان سال جاری پدافند روسیه با کمک گرفتن از هواپیماهای آواکس سری A-50U در برابر موشک های کروز فلامینگو اوکراین بسیار موفق تر عمل کرده است.  گفته شده که در طی 11 حمله اخیر…
+18:19
+1405/05/27
+
+
+
+
 src :@MilitarryWorld
 ‏🔴فارس: امروز چهلم رهبر شهید با حضور همه پسرانش (به جز آیت الله مجتبی خامنه ای) برگزار شد
 ‏
 ‏@MilitarryWorld | Parsa
 18:17
+1405/05/27
+
+
+
+
+src :@ClashReport
+[عکس]
+‏India and Germany are weeks away from signing a ~$9 billion deal for six German-designed Type 214 submarines with air-independent propulsion, India's largest conventional submarine program ever.
+‏
+‏The boats will be built at Mumbai's Mazagon Dock with significant technology transfer, targeting 45-60% local content. 
+‏
+‏AIP technology enables 2-3 weeks submerged without surfacing.
+18:16
 1405/05/27
 
 
@@ -378,7 +489,7 @@ src :@Ali_bk_2
 [عکس]
 ‏British maritime authority:
 ‏
-‏A bulk carrier was hit by an unidentified projectile while transiting the Strait of Hormuz. The impact caused damage to the starboard side of the vessel and resulted in one crew member being injured.
+‏A cargo ship was hit by an unidentified projectile while transiting the Strait of Hormuz. The impact caused damage to the starboard side of the vessel and resulted in one crew member being injured.
 17:55
 1405/05/27
 
@@ -397,7 +508,7 @@ src :@Alibk3
 [عکس]
 ‏هيئة البحرية البريطانية: 
 ‏
-‏تعرضت سفينة شحن سائبة لمقذوف مجهول أثناء عبورها مضيق هرمز. وأدى الاصطدام إلى أضرار في الجانب الأيمن من السفينة، كما أسفر عن إصابة أحد أفراد الطاقم.
+‏تعرضت سفينة شحن لمقذوف مجهول أثناء عبورها مضيق هرمز. وأدى الاصطدام إلى أضرار في الجانب الأيمن من السفينة، كما أسفر عن إصابة أحد أفراد الطاقم.
 17:55
 1405/05/27
 
@@ -3317,19 +3428,6 @@ src :@Alibk3
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump administration official Rodney Mims Cook Jr. quietly held talks with Kremlin officials during a June visit to Russia’s St. Petersburg Economic Forum. 
-‏
-‏Carrying a diplomatic passport, Cook reportedly met senior Russian officials as part of an unofficial effort to reopen U.S.-Russia dialogue over the Ukraine war, presenting the trip publicly as a cultural mission.
-‏
-‏Source: FT
-14:40
-1405/05/27
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜سوریه حملات هوایی اسرائیل به پایگاه هوایی نظامی ابوالظهور در ادلب را نقض حاکمیت این کشور و اقدامی در جهت تشدید خطرناک تنش‌ها دانست.
@@ -3388,17 +3486,6 @@ src :@selena_updates
 
 src :@Parvazdaroj
 ‏◆ تا ساعاتی دیگر یک‌ هیئت ارشد از نیروی هوایی ایران به پاکستان میرسد. هدف از این سفر،بستن قرارداد برای آموزش پرسنل فنی ایرانی با تاکتیک های نوین و جدید هوایی است . همچنین از توانایی پاکستان در خصوص نگهداری و اورهال،آموزش خلبانان جنگنده جی ۱۰ بازدید خواهد شد…
-14:33
-1405/05/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Syria condemned Israeli airstrikes on Abu al-Duhur Military Airbase in Idlib as a violation of its sovereignty and a dangerous escalation.
-‏
-‏It urged the UN and international community to condemn the attacks and said it would defend its rights under international law.
 14:33
 1405/05/27
 
@@ -3741,14 +3828,6 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏🇶🇦وزارة الخارجية القطرية: المبعوثون ينتظرون وصول سلطنة عمان وإيران إلى اتفاق ثنائي بشأن مضيق هرمز قبل العودة إلى المفاوضات الأوسع بين الولايات المتحدة وإيران.
-13:53
-1405/05/27
-
-
-
-
 src :@mohem_mat
 ‏تفاهم اسلام آباد منقضی شد. امریکا حمله نظامی نمی کند، می کوشد فشار اقتصادی را به حد اکثر برساند تا با گرسنگی دادن به مردم ایران، به زعم خود، آن ها را وادار به شورش و اغتشاش کند و نظام را به تسلیم وادار نماید؛ اگر نشد، در هنگامه آشوب ها حمله نظامی خواهد کرد!
 ‏
@@ -3859,14 +3938,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 13:39
-1405/05/27
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶🇺🇸رئيس ائتلاف دولة القانون نوري المالكي للقائم بأعمال سفارة الولايات المتحدة لدى العراق: الدولة ومؤسساتها الدستورية هي المرجعية في إدارة الملفات الأمنية والعسكرية وحصر السلاح.
-13:35
 1405/05/27
 
 
@@ -6674,14 +6745,6 @@ src :@samueltarikh
 
 
 
-src :@samueltarikh
-‏لحظاتی پیش قیمت نفت مجدداً از 90 دلار عبور کرد.
-21:36
-1405/05/26
-
-
-
-
 src :@Artemis_Force
 ‏#فوری
 ‏
@@ -6860,17 +6923,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:11
-1405/05/26
-
-
-
-
-src :@defence_news
-[عکس]
-‏اولین دیگ بخار 90 هزار پوندی با فشار کاری 17 بار در ایران توسط ماشین‌سازی اراک طراحی و ساخته شد. این دیگ بخار با فشار کاری 17 بار طراحی و ساخته شده است و علاوه بر صرفه‌جویی قابل توجه در منابع ارزی کشور، گامی مهم در اثبات توان‌مندی مهندسان و متخصصان ایرانی در طراحی و ساخت بویلرهای با ظرفیت و فشار بالا به شمار می‌رود.
-‏
-‏@Projectirantech
-21:08
 1405/05/26
 
 
@@ -7267,13 +7319,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 18:21
-1405/05/26
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇷🇺 🇷🇺 — Russia’s Supreme Court cancels registration of liberal opposition party Yabloko's federal list of candidates for State Duma elections  The court found violations involving the unauthorized use of intellectual property in campaign materials…
-18:17
 1405/05/26
