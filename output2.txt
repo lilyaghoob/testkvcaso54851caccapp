@@ -780,19 +780,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇦🇿🇺🇸⚡️ — Azerbaijan has filed a lawsuit against CNN in a U.S. federal court over a June report claiming that Azerbaijani territory was used by Israel for military and intelligence operations against Iran.
-‏
-‏Baku says the allegations were false and that CNN published them despite receiving an official denial that Azerbaijan allows foreign forces to use its territory for operations against neighboring countries.
-‏
-‏Azerbaijan repeatedly demanded that CNN retract or correct the claims but says no changes were made. The lawsuit was filed on August 17 in the U.S. District Court for the District of Delaware.
-14:25
-1405/05/28
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‏ ‏
 ‏⁠از سرکوب اعتراضات دی‌۴۰۴ تا جنگ؛ جامعه ایران دچار «مهاجرت ذهنی و اجتماعی» شده است
@@ -1817,20 +1804,6 @@ src :@Indypersian
 
 
 
-src :@IranintlTV
-[عکس]
-‏علی نیکزاد، نایب‌رییس مجلس، در نشست مجازی این مجلس اعلام کرد تنگه هرمز «دشمن آمریکایی - اسرائیلی را به فلاکت کشانده است.» 
-‏
-‏نایب‌رییس مجلس گفت: «تحولات اخیر، ملت‌های آزادی‌خواه جهان را به این نتیجه رسانده است که اقتدار و امنیت یک کالای وارداتی و خریدنی نیست، بلکه یک فرآیند درون‌زا و مبتنی بر اراده ملت‌هاست.» 
-‏
-‏نیکزاد همچنین افزود کشور را نمی‌توان در «شرایط جنگی با رویکرد عادی اداره کرد» و گفت: «مجلس برای انجام اصلاحات عزم جدی دارد و از تمام ابزارهای قانونی خود در این زمینه استفاده خواهد کرد.»
-‏ iranintl.com/202608195423
-12:55
-1405/05/28
-
-
-
-
 src :@Indypersian
 ‏⭕️آمریکا می‌تواند فقط با فشار اقتصادی، ایران را وادار به توافق کند؟
 ‏
@@ -2351,18 +2324,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-‏Turkish drone strike neutralized 4 suspected pirates off Somalia after they hijacked a Turkish-owned cargo ship the day before.
-‏
-‏Armed men seized the MV Lutuf off Puntland on Aug 17. 
-‏
-‏On Aug 18, a Turkish drone struck four of them in a small boat near shore.
-12:10
-1405/05/28
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏#تاریخنگار_فضایی
@@ -2661,15 +2622,6 @@ src :@wfwitness
 src :@mwarmonitor
 ‏🔴رافائل گروسی؛ من در حال حاضر در سوریه هستم؛ در چارچوب همکاری‌های جاری با دولت سوریه برای روشن‌سازی و حل‌وفصل مسائل باقی‌مانده مربوط به پادمان‌ها، در ارتباط با اجرای توافقنامه پادمان‌های سوریه تحت معاهده منع گسترش سلاح‌های هسته‌ای (NPT) با آژانس بین‌المللی…
 11:49
-1405/05/28
-
-
-
-
-src :@ClashReport
-[عکس]
-‏IDF Chief Eyal Zamir meets his Greek counterpart.
-11:47
 1405/05/28
 
 
