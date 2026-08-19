@@ -1974,21 +1974,6 @@ src :@mwarmonitor
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻تیم فوتبال پرسپولیس در هفته دوم لیگ برتر، استقلال خوزستان را در استادیوم قلعه‌حسن‌خان با نتیجه ۴ بر یک شکست داد و بالاتر از استقلال، صدرنشین شد.
-‏
-‏🔹محمد خدابنده‌لو در دقیقه ۶، علی علیپور در دقیقه ۲۰، ایگور سرگیف در دقیقه ۴۸ و پوریا شهرآبادی در دقیقه ۳+۹۰ برای پرسپولیس و پیام نیازمند (گل به‌خودی) در دقیقه ۶۴ برای استقلال خوزستان به ثمر رساندند.
-‏
-‏🔹در دیگر بازی‌های امشب، ملوان با نتیجه دو بر یک ذوب‌آهن را شکست داد، مس شهربابک و خیبر خرم‌آباد به تساوی یک - یک رسیدند و بازی فجر سپاسی و صنعت نفت آبادان با تساوی بدون گل به پایان رسید.
-‏
-‏@iranintltvsport
-21:38
-1405/05/28
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇷 🇺🇸 🇪🇺 — Iran weighing strikes on US military assets in Europe—including bases in NATO member Bulgaria—if Trump escalates conflict, Financial Times reports.  
@@ -3235,14 +3220,6 @@ src :@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:09
-1405/05/28
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇻🇦🇮🇹 Lebanese President Joseph Aoun left Beirut International Airport this afternoon, heading to Rome for a visit.   He is scheduled to meet with Pope Leo XIV tomorrow and the Italian Prime Minister Giorgia Meloni the following day, Friday.  @wfwitness…
-20:08
 1405/05/28
 
 
