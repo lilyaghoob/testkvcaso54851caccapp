@@ -1059,15 +1059,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli warplanes carried out airstrikes against Ali al-Taher Hill and Kfar Roummane, immediately northeast of Nabatieh.
-01:33
-1405/05/28
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇱🇧🇮🇱⚡️- Ongoing Israeli airstrikes across southern Lebanon. Multiple explosions have been reported, specifically in Nabatieh.
