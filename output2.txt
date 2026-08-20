@@ -1,12 +1,36 @@
-src :@Indypersian
-[عکس]
-‏♦️میثم ظهوریان، عضو کمیسیون اقتصادی مجلس شورای اسلامی، با انتقاد از طرح جدید سازمان بهینه‌سازی برای تغییر نظام سهمیه‌بندی بنزین، هشدار داد کاهش سهمیه ماهانه بنزین خانوارها می‌تواند پیامدهای اجتماعی گسترده‌ای به همراه داشته باشد.
-‏او در شبکه اجتماعی ایکس نوشت یکی از ایرادهای اساسی این طرح، نبود تحلیل درباره برندگان و بازندگان آن و نحوه مدیریت آثار اجتماعی اجرای آن است.
-‏به گفته ظهوریان، خانوارهای دارای خودرو در حال حاضر به‌طور میانگین ماهانه ۱۹۰ لیتر بنزین با نرخ‌های ۱۵۰۰ تا ۵۰۰۰ تومان مصرف می‌کنند، اما در طرح جدید این میزان به ۹۰ لیتر کاهش خواهد یافت.
-‏او افزود اگر قیمت بنزین در بازار، مشابه آنچه در طرح آزمایشی کرمان مطرح شده، به حدود ۸۰ هزار تومان برسد، به‌طور متوسط ماهانه حدود هشت میلیون تومان هزینه اضافی به هر خانوار تحمیل خواهد شد؛ موضوعی که به گفته او «می‌تواند به‌عنوان زیرساخت یک انفجار اجتماعی عمل کند.»
-‏این نماینده مجلس همچنین تاکید کرد گزارش‌های موجود نشان می‌دهد تاکنون مطالعه قابل اتکایی درباره پیامدهای اجتماعی این طرح و نحوه مدیریت تبعات آن، از جمله افزایش هزینه سوخت مازاد بر سهمیه، در اختیار مجلس قرار نگرفته است.
-‏@indypersian
-03:18
+src :@GeoPWatch
+‏🇾🇪❌🇾🇪🇾🇪 – The internationally recognized Yemeni government, the Presidential Leadership Council (PLC) carried out 81 attacks against Houthi positions in the last 24 hours, according to Al-Jazeera.
+‏
+‏@GeoPWatch
+03:27
+1405/05/30
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇱🇧 — Israeli airstrike targeted Al-Mansouri in southern Lebanon.
+03:27
+1405/05/30
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇱🇧 — Israeli airstrikes are targeting Kfar Rumman and Ali al-Taher Heights, southern Lebanon.
+03:27
+1405/05/30
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli jets have re-entered the airspace of southern Lebanon at a low altitude.
+‏
+‏@wfwitness 
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+03:25
 1405/05/30
 
 
@@ -1195,21 +1219,6 @@ src :@P_raetorio
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — New research suggests more than 150 Polymarket wallets may have traded using inside information about U.S. military operations, Reuters reports.
-‏
-‏The Anti-Corruption Data Collective identified 152 highly successful wallets betting on military and defense events, collectively earning about $8 million with an average win rate of 97.2%.
-‏
-‏Some suspicious wagers were placed shortly before U.S. military actions, including strikes involving Iran, and were subsequently copied by large traders and automated bots. Researchers warn that because Polymarket transactions are publicly visible, such activity could inadvertently signal sensitive information to foreign intelligence services.
-‏
-‏The findings do not prove insider trading, and researchers acknowledge that luck or other explanations are possible. However, they have intensified concerns about national security risks and calls for tighter oversight of prediction markets.
-00:16
-1405/05/30
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️محمدجواد عسگری، رئیس کمیسیون کشاورزی مجلس، گفت به دلیل سوءمدیریت در وزارت جهاد کشاورزی، حدود ۲۰ هزار و ۵۰۰ تن مرغ منجمد در سردخانه‌ها باقی مانده بود که تاریخ مصرف آنها به پایان رسید.
@@ -1240,19 +1249,6 @@ src :@cataphract1
 ‏🖋#Ethan 
 ‏📃@Cataphract1
 00:15
-1405/05/30
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇬🇧⚡️ — UK Prime Minister Andy Burnham and Foreign Secretary Ed Miliband support restoring Britain’s foreign aid spending from 0.3% to 0.7% of GNI, making tax rises more likely, according to The i Paper.
-‏
-‏The two have privately backed finding a path toward the previous 0.7% target, although no timeframe has been agreed.
-‏
-‏Returning to that level would eventually require roughly £13 billion in additional annual spending, potentially increasing pressure on the Treasury to find new revenue or make spending adjustments.
-00:14
 1405/05/30
 
 
@@ -2684,6 +2680,22 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 21:44
+1405/05/29
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا (OFAC) روز پنج‌شنبه ۱۰ عضو یک شبکه انتقال وجوه نقد به حزب‌الله لبنان، شامل ۹ تبعه کشور ترکیه و یک تبعه ایران، را به فهرست تحریم‌های خود اضافه کرد.
+‏
+‏این شبکه با سوءاستفاده از پیک‌ها و پروازهای تجاری میان لبنان، ترکیه، امارات متحده عربی و ایران، صدها میلیون دلار پول نقد را خارج از سیستم رسمی مالی جابه‌جا می‌کرده است. به گفته خزانه‌داری آمریکا، مدیریت این شبکه بر عهده بازرگانی ترکیه‌ای به نام «یونس آلپر یلماز» بوده که از صرافی‌های ترکیه و حساب‌های بانکی پوششی برای انتقال پول و ارائه خدمات به نیروی قدس سپاه پاسداران و حزب‌الله استفاده می‌کرده است.
+‏
+‏در میان افراد تحریم‌شده، نام مسعود موسی‌فر (تبعه ایران) به همراه سایر پیک‌ها و هماهنگ‌کنندگان مالی شامل خلیل ابراهیم کاچماز، اوندر دده، وصفی آکیوز، محمد آکیوز، محمد آجور، فیاد کاراصالح، گولای کایا ساوچی و امراه آیاز به چشم می‌خورد.
+‏
+‏
+‏@INDYPERSIAN
+21:42
 1405/05/29
 
 
@@ -4155,19 +4167,6 @@ src :@Exciton_missile_program
 ‏
 ‏@Exciton_missile_program 🚀
 19:05
-1405/05/29
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌🇷🇺 -The Russian military has begun expanding out of their bridgehead southwest of Druzhkivka, advancing west out of Krasnyi Kut towards Novomykolaivka along with advancing east of Pryyut.
-‏
-‏➡️ Russian forces have also captured the village of Rozkishne, from there they have reached Mykolaipillya where media surfaced of Russian personnel waving their flags in the village.
-‏
-‏@GeoPWatch
-19:02
 1405/05/29
 
 
