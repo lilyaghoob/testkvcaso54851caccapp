@@ -1,3 +1,35 @@
+src :@IranintlTV
+[عکس]
+‏مرکز عملیات تجارت دریایی بریتانیا اعلام کرد شش فرد مسلح وارد یک نفتکش در خلیج عدن شدند و کنترل آن را به دست گرفتند. افراد مسلح در حال تغییر مسیر نفتکش به سوی سومالی هستند.
+‏
+‏این نفتکش هنگام حرکت به سمت غرب در خلیج عدن و در ۱۳۶ مایل دریایی شرق المکلا در یمن، از نزدیک‌شدن یک شناور غیرمجاز خبر داده و از طریق کانال ۱۶ رادیویی درخواست کمک کرده بود.
+‏
+‏مقام‌ها در حال بررسی این حادثه هستند و مرکز عملیات تجارت دریایی بریتانیا از شناورها خواسته است هنگام عبور از منطقه احتیاط کنند و فعالیت‌های مشکوک را گزارش دهند.
+‏https://iranintl.com/202608206761
+15:45
+1405/05/29
+
+
+
+
+src :@Parvazdaroj
+‏ناو هواپیمابر هسته ای جرج واشنگتن وارد حوزه فرماندهی تحت مسئولیت فرماندهی مرکزی ایالات متحده آمریکا شده است 
+‏
+‏@artemis_force
+15:44
+1405/05/29
+
+
+
+
+src :@World_Newsly
+‏🔴ناتو برای دومین روز متوالی عملیات گسترده هوایی اطراف شهر کالینینگراد روسیه (کونیگسبرگ سابق) انجام داد.  ✍🏻 Desert Eagle ▪️@World_Newsly
+15:42
+1405/05/29
+
+
+
+
 src :@cataphract1
 [عکس]
 ‏⚜ستاد فرماندهی مرکزی ایالات متحده (CENTCOM) اعلام کرد: «ملوانان آمریکایی در ۲۰ اوت (۲۹ مرداد) در حالی که ناو هواپیمابر USS George Washington (CVN-73) در حال عبور از دریای عرب بود، روی عرشه پروازی این ناو مشغول فعالیت بودند.
@@ -37,7 +69,9 @@ src :@ClashReport
 ‏
 ‏The vaccine, combined with Merck's Keytruda, showed significant improvement in preventing melanoma recurrence versus Keytruda alone.
 ‏
-‏The treatment works by sequencing each patient's tumor and creating a custom mRNA vaccine targeting up to 34 unique cancer markers, training the immune system to hunt remaining cancer cells.
+‏The treatment works by sequencing each patient's tumor and using AI to identify up to 34 unique cancer markers, then creating a custom mRNA vaccine that trains the immune system to hunt remaining cancer cells. 
+‏
+‏Manufacturing is individualized, typically taking weeks per patient.
 ‏
 ‏Moderna stock surged over 110%, adding tens of billions in market cap. 
 ‏
@@ -630,21 +664,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧🇮🇱🇵🇸⚡️ — UK Foreign Secretary Ed Miliband condemned Israel’s E1 settlement tender as an “unacceptable and destructive act,” warning it would separate the West Bank from East Jerusalem and undermine the viability of a two-state solution.
-‏
-‏Miliband said he directly urged Israeli Foreign Minister Gideon Sa’ar to halt the E1 project, withdraw the tender, and stop further settlement expansion. The UK also summoned Israel’s chargé d’affaires to demand an immediate reversal.
-‏
-‏Britain plans to announce additional measures in the coming weeks targeting Israeli settlement policies, including sanctions against those involved in what it considers illegal settlement expansion.
-‏
-‏"Britain will not stand back and accept the destruction of the two-state solution," Miliband said.
-14:53
-1405/05/29
-
-
-
-
 src :@rnintel
 ‏🇮🇱⚡️- Clowns have been brought to Ben Gurion International Airport to entertain stranded passengers affected by the strike.
 14:53
@@ -673,18 +692,6 @@ src :@IranintlTV
 src :@World_Newsly
 ‏🔴رئیس مجلس عراق از قالیباف خواست تا اجازه عبور نفتکش های عراقی از تنگه هرمز را بدهد.  ✍🏻 Desert Eagle ▪️@World_Newsly
 14:51
-1405/05/29
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Head of the Iranian Parliament's National Security Commission Ebrahim Azizi:
-‏We are watching your every move. Any further mistake or miscalculation will carry consequences far greater than before.
-‏
-‏End your presence in the region immediately, before it is too late, and accept Iran’s new regional order.
-14:50
 1405/05/29
 
 
@@ -1641,23 +1648,6 @@ src :@bricsnews
 ‏JUST IN: 🇷🇺 Europe's largest nuclear plant 'Zaporizhzhia' controlled by Russia loses external power due to damage.
 ‏
 ‏@BRICSNews
-13:32
-1405/05/29
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔥 اکانت های پریمیوم هوش مصنوعی | AIROVA
-‏
-‏✨ آفر ویژه اکانت هوش مصنوعی جمنای ادونسد پرو | یک‌ساله — ۷/۳۰۰ میلیون و ۶ ماهه ۵/۳۰۰ میلیون تومن
-‏
-‏🤖📩 سفارش:
-‏ @AirovaSupport
-‏
-‏📢 کانال: 
-‏@AirovaAI
 13:32
 1405/05/29
 
@@ -3951,14 +3941,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 10:15
-1405/05/29
-
-
-
-
-src :@Parvazdaroj
-‏https://t.me/Artemis_Force/12816
-10:00
 1405/05/29
 
 
@@ -7127,34 +7109,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:51
-1405/05/28
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏The first three F-16V Block 70 Multirole Fighters (serial numbers 6722, 6727, and 6728) of the 66 ordered by Taiwan left Lockheed Martin’s production line in South Carolina on August 17 and were transported to Fort Worth, Texas. The aircraft are expected to arrive in Taiwan soon.
-‏
-‏The remaining 63 fighters are scheduled for delivery by 2027–2028. All 66 F-16Vs will be based at Zhihang Air Base in Taitung and operated by the 7th Tactical Fighter Wing.
-15:44
-1405/05/28
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Mehdi H. ✓ @mhmiranusa
-‏
-‏Befre and after images of air strike to the Iranian Air Defense Control and Reporting Center (CRC) near Karaj during the 39-day war.
-‏The after image is dated June 28, 2026 and is sourced from https://t.me/GEOIMINT.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏تصاویر قبل و بعد از حمله هوایی به مرکز کنترل و گزارش پدافند هوایی ایران (CRC) در نزدیکی کرج در طول جنگ ۳۹ روزه.
-‏تصویر بعد به تاریخ ۲۸ ژوئن ۲۰۲۶ است و منبع آن https://telegram.me/GEOIMINT است.
-‏
-‏𝕏  ·  @shin_persian
-15:42
 1405/05/28
