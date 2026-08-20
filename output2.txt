@@ -1,3 +1,25 @@
+src :@GeoPWatch
+[عکس]
+‏🇷🇺❌🇺🇦 – NASA's FIRMS confirms fires are raging in multiple zones in Kyiv, including an Antonov facility in northwestern Kyiv (2) and two facilities that appear to be warehouses or deposits belonging to the Ukrainian government (3). 
+‏
+‏@GeoPWatch
+07:46
+1405/05/29
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏صبح همگی بخیر
+‏
+‏@artemis_force
+07:45
+1405/05/29
+
+
+
+
 src :@jangaavaran1390
 ‏گزارشی در روزنامه لبنانی "الاخبار" که با حزب‌الله هم سو است: حوثی‌ها در یمن در حال آماده‌سازی برای تشدید تنش با عربستان سعودی هستند و همچنین عملیات زمینی را نیز مد نظر دارند.
 07:39
@@ -1674,16 +1696,6 @@ src :@VahidOnline
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 – Russian 'Geran' drones and jet-powered UAVs were spotted in northern Ukraine, around Chernihiv, on their way to Kyiv.
-‏
-‏@GeoPWatch
-01:14
-1405/05/29
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇱‏بريطانيا تستدعي القائم بالأعمال الإسرائيلي بسبب المشروع الاستيطاني E1، وسنفرض عقوبات ردا على التوسع الاستيطاني الإسرائيلي.
 01:13
@@ -1854,16 +1866,6 @@ src :@World_Newsly
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 – Russian warships have reportedly launched 'Kalibr' cruise missiles to assist in the wave of strikes against Ukraine from their base in Novorossiysk.
-‏
-‏@GeoPWatch
-00:58
-1405/05/29
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Former Israeli PM Ehud Barak called Netanyahu's escalation with Türkiye over the Syria airbase strike "reckless and stupid" with "a strong political smell of manufacturing security anxieties ahead of elections."
@@ -1886,19 +1888,6 @@ src :@Ali_bk_2
 ‏Bloomberg:
 ‏
 ‏US refineries operating at full capacity since the outbreak of the war with Iran reflect the scale of the pressure the crisis has placed on the energy market, as fuel supplies remain disrupted.
-00:51
-1405/05/29
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌🇷🇺 - Over the last month the Russian military has completed their capture of Biltske along with media surfacing of Russian forces entering the settlements of Myrne, Shevchenko, Svitle, Vodyanske, and Chernihivka.
-‏
-‏➡️ Further north Russian forces have also managed to capture the villages of Novyi Donbas, Vilne, and Stepy, from there Russian personnel have begun infiltrating into Hannivka as well as the city of Dobropillya itself.
-‏
-‏@GeoPWatch
 00:51
 1405/05/29
 
@@ -6204,30 +6193,6 @@ src :@USAMRYDATA
 
 
 
-src :@Artemis_Force
-[عکس]
-‏شرکت کره‌ای Hanwha Systems قراردادی از سازمان تدارکات دفاعی (DAPA) دریافت کرده است تا چهار فروند از کشتی‌های نیروی دریایی جمهوری کره را با سیستم‌های مدرن الکترواپتیکی و مادون قرمز تجهیز کند.
-‏
-‏این سیستم‌های جدید بر روی موارد زیر نصب خواهند شد:
-‏* یک کشتی پشتیبانی؛
-‏* یک کشتی نجات زیردریایی؛
-‏* دو شناور نجات سطحی.
-‏
-‏پایه این سیستم، مجموعه Target Acquisition Designation System است که قبلاً برای بالگردهای تهاجمی سبک ارتش کره توسعه یافته بود. این مجموعه شامل یک دوربین تلویزیونی با دید روز، یک دوربین حرارتی، یک تله‌متر لیزری و یک نشانگر هدف لیزری است.
-‏
-‏علاوه بر این، Hanwha Systems یک سیستم انتقال داده‌های ویدیویی در زمان واقعی نیز ارائه خواهد داد که امکان انتقال تصاویر از کشتی‌ها را مستقیماً به مراکز فرماندهی و سایر کشتی‌های ناوگان فراهم می‌کند.
-‏
-‏در DAPA تأکید شده است که کشتی‌های پشتیبانی و شناورهای نجات نیروی دریایی جمهوری کره تا کنون به طور قابل توجهی از کشتی‌های جنگی مجهزتر نبوده‌اند و در بسیاری از موارد، به مشاهده بصری متکی بودند. 
-‏
-‏تحویل تجهیزات باید تا پایان سال 2028 به اتمام برسد.
-‏
-‏@artemis_force
-14:31
-1405/05/28
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🔴این افراد به نیابت از حکومت ایران، اقدام به هک و سرقت اطلاعات از ایالات متحده آمریکا و متحدان آن نموده‌اند.
@@ -7199,21 +7164,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 07:56
-1405/05/28
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Speaker of the Parliament of Iran, Mohammad Bagher Ghalibaf is en route Baghdad, #Iraq 🇮🇶
-‏
-‏ترجمه خودکار فارسی
-‏
-‏رئیس مجلس ایران، محمدباقر قالیباف در مسیر بغداد، #عراق 🇮🇶 است
-‏
-‏𝕏  ·  @shin_persian
-07:45
 1405/05/28
