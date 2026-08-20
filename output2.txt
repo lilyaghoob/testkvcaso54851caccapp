@@ -1,8 +1,135 @@
+src :@ClashReport
+[عکس]
+‏A new Anti-Corruption Data Collective study identified 152 Polymarket wallets that may have traded using non-public U.S. military information. 
+‏
+‏The wallets collectively made about $8 million, with an extraordinary 97.2% average win rate on military and defense bets.
+‏
+‏Researchers say some suspicious wagers appeared shortly before U.S. military actions, including strikes involving Iran, and were quickly copied by large traders and bots. 
+‏
+‏Because Polymarket transactions are publicly visible on the blockchain, researchers warn these trades could effectively broadcast sensitive military signals to foreign intelligence services.
+‏
+‏The findings don’t prove insider trading—luck or other explanations are possible—but they are adding pressure for tighter regulation, including identity verification and restrictions on prediction markets involving sensitive government information.
+‏
+‏Source: Reuters
+00:02
+1405/05/30
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇨🇺 US imposes new sanctions on Cuba.
+‏
+‏@BRICSNews
+00:01
+1405/05/30
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇨🇲⚡️ — Cameroonian President Paul Biya, the world's oldest serving head of state, has been absent from the country for 50 days, fueling speculation over his health and raising questions about a potential power vacuum.  ➡️ The 93-year-old has not appeared in…
+00:01
+1405/05/30
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸🤝🇶🇦- U.S. Approves Potential $4.5 Billion Defence Sale to Qatar
+‏
+‏➡️The U.S. State Department has approved a possible $4.5 billion Foreign Military Sale to Qatar for up to four KC-46A Pegasus aerial refueling aircraft and associated equipment.
+‏
+‏➡️The proposed package includes eight Pratt & Whitney PW4062 turbofan engines, radar warning receivers, communications and navigation equipment, spare parts, training, logistics support and other related systems.
+‏
+‏➡️The KC-46A would provide Qatar with an expanded aerial refueling capability, allowing Qatari military aircraft to operate over greater distances and remain airborne for longer periods. The aircraft can also support broader strategic airlift and military logistics missions.
+‏
+‏➡️The potential sale comes within the broader context of deepening U.S.–Qatar defence and security cooperation, with both countries maintaining extensive military ties and Qatar hosting major U.S. military infrastructure in the region.
+‏
+‏➡️If finalized, the deal would mark a significant addition to Qatar’s air capabilities and further integrate its armed forces with advanced U.S.-origin defence systems.
+‏
+‏@GeoPWatch
+00:00
+1405/05/30
+
+
+
+
 src :@MilitarryWorld
 ‏🔴واشنگتن پست: کشور های عربی از سیاست ترامپ در قبال ایران ناراضین
 ‏
 ‏@MilitarryWorld | Parsa
 23:58
+1405/05/29
+
+
+
+
+src :@cataphract1
+‏کاتافراکت pinned a photo
+23:57
+1405/05/29
+
+
+
+
+src :@cataphract1
+‏سرویس‌های L33TNET VPN  - سرویس‌های ۹۰ روزه   • 50 گیگ · 340,000   • 75 گیگ · 490,000   • 115 گیگ · 750,000   • 150 گیگ · 975,000   • 225 گیگ · 1,470,000   • 500 گیگ · 3,250,000  - سرویس‌های ۳۰ روزه   • 20 گیگ · 150,000   • 30 گیگ · 210,000   • 40 گیگ · 275…
+23:57
+1405/05/29
+
+
+
+
+src :@cataphract1
+[عکس]
+‏سرویس‌های L33TNET VPN
+‏
+‏- سرویس‌های ۹۰ روزه
+‏  • 50 گیگ · 340,000
+‏  • 75 گیگ · 490,000
+‏  • 115 گیگ · 750,000
+‏  • 150 گیگ · 975,000
+‏  • 225 گیگ · 1,470,000
+‏  • 500 گیگ · 3,250,000
+‏
+‏- سرویس‌های ۳۰ روزه
+‏  • 20 گیگ · 150,000
+‏  • 30 گیگ · 210,000
+‏  • 40 گیگ · 275,000
+‏  • 60 گیگ · 390,000
+‏  • 100 گیگ · 650,000
+‏  • 200 گیگ · 1,000,000
+‏
+‏موقعیت سرورها:
+‏🇩🇪 آلمان
+‏🇺🇸 آمریکا
+‏🇩🇰 دانمارک
+‏🇹🇷 ترکیه
+‏🇬🇧 انگلیس
+‏🇫🇮 فنلاند
+‏🇸🇪 سوئد
+‏🇪🇸 اسپانیا
+‏🇫🇷 فرانسه
+‏🇮🇪 ایرلند
+‏🇯🇵 ژاپن
+‏🇨🇦 کانادا
+‏
+‏محدودیت کاربر: ۱۰ نفر
+‏دارای اکانت تست
+‏
+‏تهیه در ربات: 
+‏• @l33tnet_bot
+‏• @l33tnet_bot
+‏
+‏پشتیبانی:
+‏• @l33tnet
+‏
+‏کانال:
+‏• @l33tnetwork
+23:57
 1405/05/29
 
 
@@ -1137,23 +1264,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏The USS Abraham Lincoln began its journey home to San Diego on Thursday after a nine-month deployment, much of it supporting U.S. operations against Iran.
-‏
-‏Its roughly 5,000 sailors spent nearly all of the 272-day deployment at sea, amid reports of supply shortages, water and plumbing problems, and worsening conditions aboard the carrier.
-‏
-‏The Japan-based USS George Washington has replaced the Lincoln in the Middle East. 
-‏
-‏The Lincoln now faces a roughly 13,000-mile journey home, expected to take four to five weeks.
-‏
-‏Source: NYT
-22:41
-1405/05/29
-
-
-
-
 src :@MilitarryWorld
 ‏🔴یک زن به اتهام تلاش برای بمب‌گذاری در ساختمان کنگره ایالتی نیویورک، پیش از اجرای عملیات توسط FBI بازداشت شد
 ‏
@@ -2055,16 +2165,6 @@ src :@mohem_mat
 ‏
 ‏‏✅ دو منبع به من گفتند که ایالات متحده امروز رسماً حزب‌الله را به عنوان وابسته به سپاه پاسداران انقلاب اسلامی ایران (IRGC) معرفی خواهد کرد و آن را یک سازمان ایرانی و نه لبنانی در نظر خواهد گرفت. انتظار می‌رود وزارت امور خارجه ایالات متحده امروز بیانیه‌ای صادر کند.
 ‏‎✅ @Saberinfa
-21:25
-1405/05/29
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇱🇧🇮🇷 — The U.S. imposed new sanctions on Hezbollah, redesignating the group as a Specially ​Designated Global Terrorist entity "for service to the Iranian regime ⁠under the command of Iran’s IRGC-Quds ​Force,"
-‏
-‏Washington also sanctioned 10 individuals accused of facilitating Hezbollah’s financial network and intermediaries allegedly involved in moving hundreds of millions of dollars between Lebanon, Türkiye, the UAE, and Iran.
 21:25
 1405/05/29
 
@@ -5866,19 +5966,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌🇹🇷 — Israel's Defense Minister, Yisrael Katz, has again criticized and issued a threat to Erdogan:
-‏➡️Erdogan is leading Turkey into unnecessary adventures in Syria.
-‏
-‏➡️Erdogan should not put Israel's resolve to defend itself to the test.
-‏
-‏@GeoPWatch
-12:23
-1405/05/29
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‌‏ ‌‏ ‏
 ‏⁠ افزایش بی‌خاصیت رقم وام مسکن؛ کارشناسان می‌گویند قدرت خرید را افزایش نمی‌دهد!
@@ -6139,86 +6226,6 @@ src :@DEJradio
 ‏#پلیس_راهور #ایست_بازرسی #جنگ
 ‏@DEJradio
 11:59
-1405/05/29
-
-
-
-
-src :@cataphract1
-‏سرویس‌های L33TNET VPN  - سرویس‌های ۹۰ روزه   • 50 گیگ · 340,000   • 75 گیگ · 490,000   • 115 گیگ · 750,000   • 150 گیگ · 975,000   • 225 گیگ · 1,470,000   • 500 گیگ · 3,250,000  - سرویس‌های ۳۰ روزه   • 20 گیگ · 150,000   • 30 گیگ · 210,000   • 40 گیگ · 275…
-11:57
-1405/05/29
-
-
-
-
-src :@cataphract1
-[عکس]
-‏سرویس‌های L33TNET VPN
-‏
-‏- سرویس‌های ۹۰ روزه
-‏  • 50 گیگ · 340,000
-‏  • 75 گیگ · 490,000
-‏  • 115 گیگ · 750,000
-‏  • 150 گیگ · 975,000
-‏  • 225 گیگ · 1,470,000
-‏  • 500 گیگ · 3,250,000
-‏
-‏- سرویس‌های ۳۰ روزه
-‏  • 20 گیگ · 150,000
-‏  • 30 گیگ · 210,000
-‏  • 40 گیگ · 275,000
-‏  • 60 گیگ · 390,000
-‏  • 100 گیگ · 650,000
-‏  • 200 گیگ · 1,000,000
-‏
-‏موقعیت سرورها:
-‏🇩🇪 آلمان
-‏🇺🇸 آمریکا
-‏🇩🇰 دانمارک
-‏🇹🇷 ترکیه
-‏🇬🇧 انگلیس
-‏🇫🇮 فنلاند
-‏🇸🇪 سوئد
-‏🇪🇸 اسپانیا
-‏🇫🇷 فرانسه
-‏🇮🇪 ایرلند
-‏🇯🇵 ژاپن
-‏🇨🇦 کانادا
-‏
-‏محدودیت کاربر: ۱۰ نفر
-‏دارای اکانت تست
-‏
-‏تهیه در ربات: 
-‏• @l33tnet_bot
-‏• @l33tnet_bot
-‏
-‏پشتیبانی:
-‏• @l33tnet
-‏
-‏کانال:
-‏• @l33tnetwork
-11:57
-1405/05/29
-
-
-
-
-src :@cataphract1
-‏⭕️منابع العربیه:
-‏
-‏⚜ترامپ به تیم مذاکره‌کننده خود اعلام کرده است که شانس دستیابی به توافق با ایران کاهش یافته است.
-‏
-‏⚜ترامپ دستور داده است مذاکرات با ایران برای چند هفته متوقف شود و احتمال تمدید این توقف نیز وجود دارد.
-‏
-‏⚜دولت ترامپ گزارش‌هایی درباره طرح ایران برای ازسرگیری حملات علیه کشتی‌ها دریافت کرده است.
-‏
-‏⚜دولت آمریکا همچنین اطلاعاتی درباره احتمال تشدید حملات حوثی‌ها در باب‌المندب دریافت کرده است.
-‏
-‏⚜ترامپ به تیم خود گفته است که در صورت شکست فشارهای اقتصادی، احتمال انجام حملات گسترده علیه ایران وجود دارد.
-‏✒️#LT
-‏📃@Cataphract1
-11:52
 1405/05/29
 
 
