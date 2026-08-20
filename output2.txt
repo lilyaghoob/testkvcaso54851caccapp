@@ -1,4 +1,14 @@
 src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | پنجشنبه ۲۹ مرداد
+‏@iranintlTV
+18:39
+1405/05/29
+
+
+
+
+src :@IranintlTV
 [عکس]
 ‏حمیدرضا حاجی‌بابایی، نایب‌رییس دوم مجلس، در گفت‌وگو با خبرگزاری فارس گفت: «هر کسی که قیمت نفت را بالا نگه دارد، مانند حوثی‌های یمن، به جمهوری اسلامی کمک می‌کند.»
 ‏
@@ -1671,20 +1681,6 @@ src :@Alibk3
 
 
 
-src :@IranintlTV
-[عکس]
-‏فرماندهی مرکزی آمریکا، سنتکام، اعلام کرد گروه ضربت ناو هواپیمابر «یواس‌اس جورج واشینگتن» وارد حوزه عملیاتی این فرماندهی در خاورمیانه شده و فعالیت خود را در منطقه آغاز کرده است.
-‏
-‏سنتکام اعلام کرد این گروه ضربت در چارچوب یک ماموریت برنامه‌ریزی‌شده به منطقه اعزام شده است.
-‏
-‏سنتکام همچنین تصویری از عرشه «یواس‌اس جورج واشینگتن» در دریای عرب منتشر کرد که چندین جنگنده و ملوانان نیروی دریایی آمریکا را نشان می‌دهد.
-‏https://iranintl.com/202608205805
-16:17
-1405/05/29
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️ابراهیم عزیزی، رئیس کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی، روز پنجشنبه ۲۹ مردادماه در شبکه اجتماعی ایکس نوشت: «ما تک‌تک حرکات شما را زیر نظر داریم. هرگونه اشتباه یا محاسبه نادرست دیگری، پیامدهایی به‌مراتب سنگین‌تر از گذشته خواهد داشت. پیش از آنکه خیلی دیر شود، فورا به حضور خود در منطقه پایان دهید و نظم منطقه‌ای جدید ایران را بپذیرید.»
@@ -1933,9 +1929,10 @@ src :@World_Newsly
 
 src :@cataphract1
 [عکس]
-‏⚜ستاد فرماندهی مرکزی ایالات متحده (CENTCOM) اعلام کرد: «ملوانان آمریکایی در ۲۰ اوت (۲۹ مرداد) در حالی که ناو هواپیمابر USS George Washington (CVN-73) در حال عبور از دریای عرب بود، روی عرشه پروازی این ناو مشغول فعالیت بودند.
+‏⚜با اعلام سنتکام ناو هواپیمابر جورج واشنگتن (CVN-73) وارد منطقه خاورمیانه (دریای عرب شده است. 
 ‏
-‏⚜گروه رزمی ناو هواپیمابر George Washington پس از ورود به منطقه تحت مسئولیت سنتکام در روز گذشته، در چارچوب یک استقرار برنامه‌ریزی‌شده در منطقه خاورمیانه فعالیت خود را آغاز کرده است.»
+‏⚜این ناو هواپیمابر به همراه ناوگروهش جایگزین ناو گروه آبراهام لینکلن در منطقه خاورمیانه و فرماندهی محاصره‌ دریایی علیه ایران خواهند شد. 
+‏
 ‏✒️#LT
 ‏📃@Cataphract1
 15:41
@@ -3466,19 +3463,6 @@ src :@tglobaleye
 
 
 
-src :@ClashReport
-[عکس]
-‏Senior Iranian MP Ebrahim Azizi:
-‏
-‏We are watching your every move. Any further mistake or miscalculation will carry consequences far greater than before.
-‏
-‏End your presence in the region immediately, before it is too late, and accept Iran’s new regional order.
-13:08
-1405/05/29
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇨🇲 — Over 100 killed in gold mine collapse on Cameroon-CAR border
@@ -4885,18 +4869,6 @@ src :@DEJradio
 ‏
 ‏#پروپاگاندا #نیلوفر_شادمهری #اسلام
 ‏@DEJradio
-10:37
-1405/05/29
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏این حجم از سوختن رسانی بر فراز تنگه هرمز و فعالیت مداوم پلت فرم های شناسایی ارتش آمریکا در محدوده تنگه هرمز نشانه ای ندارد جز یک عملیات منظم ورود و خروج کشتی ها از سمت جنوب تنگه هرمز و جریان بی وقفه نفت به سمت بازارهای جهانی. 
-‏
-‏
-‏🆔@Military_Times_Blog
 10:37
 1405/05/29
 
@@ -6508,18 +6480,6 @@ src :@Shin_Persian
 
 
 
-src :@tglobaleye
-‏🇪🇸🇲🇦🇪🇺⚡️— Defying the EU, the Socialist regime in Spain is transferring 500 African migrant women to mainland Spain from the invaded enclave of Ceuta.
-‏
-‏According to the socialist regime's Minister of Inclusion, Social Security and Migration, Elma Saiz, these women came in during the invasion waves of July 30-31st, and some have been subjected to sexual assault or rape by their fellow African invaders.
-‏
-‏🇪🇺 Legion Europa | Group Chat
-21:15
-1405/05/28
-
-
-
-
 src :@Mena_Live
 ‏Netanyahu: 
 ‏
@@ -6895,32 +6855,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 19:01
-1405/05/28
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️Big things coming up in Russia:
-‏
-‏United Russia has the highest odds of gaining the most seats at 72%. 
-‏
-‏Which party do you see winning Russia’s parliamentary election? 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-18:39
-1405/05/28
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️Moderna stock, $MRNA, surges over +110% after announcing the first ever positive Phase 3 results for a personalized cancer vaccine.
-‏
-‏via: @KobeissiLetter 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-18:39
 1405/05/28
