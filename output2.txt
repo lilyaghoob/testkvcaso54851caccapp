@@ -1,3 +1,32 @@
+src :@World_Newsly
+[عکس]
+‏🔴روس اتم: با وجود محدودیت ها، به ساخت نیروگاه هسته‌ای در ایران ادامه می دهیم.
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+15:55
+1405/05/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از پرواز جنگنده‌های اسرائیلی بر فراز درعا ~ سوریه
+15:55
+1405/05/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏جنگنده‌های اسرائیلی طی ساعات اخیر اهداف حزب الله را در منطقه قلعه بوفور در جنوب لبنان هدف قرار دادند
+15:54
+1405/05/29
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Iranian television:  Detention of an oil tanker violating laws in the Strait of Hormuz.  Maritime navigation data confirms the stopping of an oil tanker in the Strait of Hormuz, and the tanker is stationary near Qeshm.
@@ -1408,18 +1437,6 @@ src :@naya_foriraq
 ‏
 ‏من تجيب قاليباف من كبيسة
 13:56
-1405/05/29
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴گلپایگانی، رئیس دفتر علی خامنه‌ای: تمام آرمان های رهبر پیشین را رهبر کنونی دارد و در حال پیشبرد آن است و آیت الله مجتبی خامنه‌ای خواب را از چشمان دشمنان گرفته!
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-13:54
 1405/05/29
 
 
@@ -3804,19 +3821,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ
 10:32
-1405/05/29
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏گزارش پدافند هوایی اوکراین:
-‏
-‏مجموعاً ۲۱۴ پرتابه شامل ۱۶۸ پهپاد تهاجمی و ۴۶ تیر موشک از انواع مختلف به‌کار گرفته شد که محور اصلی حملات، منطقه کیف بود.روسیه در این حمله از موشک‌های کروز زیرکون، بالستیک اسکندر-ام و کا ان ـ۲۳و پدافندی اس-۴۰۰، موشک‌های کروز خ-۱۰۱، اسکندر-ک، خا-۵۹ و کالیبر و همچنین دو مهمات سرگردان باندِرول استفاده کرد.نیروی هوایی اوکراین اعلام کرد ۱۸۶ هدف شامل ۳۱ تیر موشک کروز، ۸ تیر موشک کالیبر، دو مهمات سرگردان و ۱۴۵ پهپاد گران منهدم یا با جنگ الکترونیک سرکوب شده‌اند. با این حال، اصابت پرتابه های مهاجم در ۲۸ نقطه و سقوط بقایای اهداف رهگیری‌شده در دو نقطه ثبت شده است
-‏
-‏🆔@WAR_ROOM_NEWS
-10:31
 1405/05/29
 
 
@@ -7050,49 +7054,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 16:09
-1405/05/28
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: The USS Abraham Lincoln aircraft carrier was not resupplied because Secretary of War Pete Hegseth lied to Trump about the U.S. Navy’s 5th HQ in Bahrain being completely destroyed by Iranian strikes – MS NOW (MSNBC)
-‏
-‏@Middle_East_Spectator
-15:55
-1405/05/28
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇷🇺 President Putin says Russia's economy remains resilient despite "terrorist attacks" targeting industrial sites.
-‏
-‏@BRICSNews
-15:55
-1405/05/28
-
-
-
-
-src :@defence_news
-[عکس]
-‏نیروی‌ دریایی چین از 2016 تا 2026 و راهی که همچنان با سرعت طی می‌کنند.
-‏
-‏
-‏@RedLionCorps
-15:55
-1405/05/28
-
-
-
-
-src :@defence_news
-‏صدای بلند موتور برق ها و چراغ های خاموش مغازه ها و گرمای کشنده ترکیب جالبی نیست آقایان !
-‏
-‏آهان ! حضرات همیشه زیر نور و کنار کولر روشن هستند؟!!! حله !
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-15:53
 1405/05/28
