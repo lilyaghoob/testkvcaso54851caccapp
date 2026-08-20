@@ -1,3 +1,117 @@
+src :@GeoPWatch
+[عکس]
+‏Last night, Russia launched another large-scale, combined missile and drone attack on Ukraine. Missiles launches: 
+‏
+‏~22 Kh-101 cruise missiles launched from 6 Tu-95MS strategic bombers at their launch lines near the city of Cherepovets, Vologda Oblast.
+‏
+‏~16 Kh-101 cruise missiles launched from 2 Tu-160M strategic bombers at their launch lines near the city of Cherepovets, Vologda Oblast.
+‏
+‏~9 Zircon hypersonic cruise missiles launched from near Manturovo, Kursk Oblast.
+‏
+‏~4 Zircon hypersonic cruise missiles launched from near Millerovo, Rostov Oblast.
+‏
+‏~8 Kalibr cruise missiles launched from a Buyan-M corvette at Novorossiysk Naval Base, Krasnodar Krai.
+‏
+‏~3 Kh-59/69 cruise missiles launched from a Su-57 in northern Kursk Oblast.
+‏
+‏~2 Kh-59/69 cruise missiles launched from a Su-34/35 near Siverskodonetsk, Luhansk Oblast.
+‏
+‏~1 Kh-59/69 cruise missile launched from a Su-34/35 in western Belgorod Oblast.
+‏
+‏~8 Iskander-M/S-400 ballistic missiles launched from OTRK installations near the city of Klintsy, Bryansk Oblast.
+‏
+‏~2 Kn-23 ballistic missiles launched from near Liski, Voronezh Oblast. 
+‏
+‏----------------------- 
+‏
+‏Total missiles launched: 
+‏
+‏~38 Kh-101 cruise missiles.
+‏~13 Zircon hypersonic cruise missiles
+‏~8 Kalibr cruise missiles
+‏~8 Iskander-M/S-400 ballistic missiles
+‏~6 Kh-59/69 cruise missiles
+‏~2 Kn-23 ballistic missiles
+‏
+‏~75 missiles in total. 
+‏
+‏----------------------- 
+‏
+‏Ukrainian air defence work: 
+‏
+‏As of the time of writing, it appears Ukrainian air defence was able to shoot down a *minimum* of 30 Kh-101s, 6 Kalibrs, and 2 Kh-59/69s. 
+‏
+‏----------------------- 
+‏
+‏The main targets for this strike was Ukrainian military enterprises in Kyiv City and Kyiv Oblast. The following was targeted: 
+‏
+‏Antonov Aircraft Plant in northwestern Kyiv (50.4651796 30.3905940) by Iskander-Ms, Zircons, and a Kalibr.
+‏
+‏Industrial zone in western Kyiv (50.446792, 30.391383) by Iskander-Ms, Zircons, and a Kalibr.
+‏
+‏Industrial enterprise in western Kyiv (50.421438, 30.444244) by Iskander-Ms/Zircons.
+‏
+‏Warehouse complex in eastern Kyiv (50.441523, 30.684197) by Iskander-Ms/Zircons/Kn-23s.
+‏
+‏Oil depot in Brovary, Kyiv Oblast (50.523408, 30.831310) by Iskander-Ms/Zircons/Kh-101s/Kh-59/69s.
+‏
+‏Logistics depot in Brovary, Kyiv Oblast (50.523557, 30.838888) by Iskander-Ms/Zircons/Kh-101s/Kh-59/69s.
+‏
+‏Unknown target in Kyiv by Iskander-Ms/Zircons.
+‏
+‏Unknown target in/near Dnipro by Kh-101s.
+‏
+‏Unknown target near Pavlohrad, Dnipropetrovsk Oblast, by Kh-59/69s. 
+‏
+‏----------------------- 
+‏
+‏Keep in mind, the numbers of missiles launched may be slightly higher than what I've listed, as the number of missiles detected is sometimes lower than actual launches. These numbers may be adjusted in the coming hours as more information comes available.
+11:07
+1405/05/29
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴غریب آبادی: آمریکا اسم شکست بعدیش را «جنگ اقتصادی» گذاشته‌ است
+‏
+‏معاون وزیر امور خارجه:
+‏
+‏🔹ادعا می‌کنند ایران در آستانه شکست است و به یک نخ بند است، اما به همه متحدانشان التماس می کنند که کمکشان کنند!
+‏
+‏🔹مشکل، محاسبات غلطی است که هر بار برای پوشاندنش، مجبور می‌شوند شکست بزرگ‌تری برای خودشان بسازند.
+‏
+‏🔹جنگ نظامی نتیجه نداد، حالا اسم شکست بعدی را «جنگ اقتصادی» نامید
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+11:05
+1405/05/29
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏حمله به جنوب لبنان
+‏
+‏@P_raetorio
+11:04
+1405/05/29
+
+
+
+
+src :@samueltarikh
+‏🚨فوری/ ترامپ :  متاسفانه ایران از آخرین فرصت مذاکرات استفاده نکرد، بنابراین، امروز، من اعلام می‌کنم که بزرگترین عملیات اقتصادی که تا به حال علیه هر کشوری در تاریخ انجام شده است،آغاز خواهد شد.  این یک جنگ اقتصادی و انزوا بی‌سابقه خواهد بود، اعلام می‌کنم که…
+11:03
+1405/05/29
+
+
+
+
 src :@USAMRYDATA
 [عکس]
 ‏💸دنیا هیچ‌وقت این‌قدر ثروتمند نبوده است؛ ثروتی که البته فقط روی کاغذ است
@@ -2980,18 +3094,6 @@ src :@naya_foriraq
 
 
 
-src :@GeoPWatch
-[عکس]
-‏#BREAKING 
-‏🇺🇸❌🇮🇷 - President Donald Trump has announced what he calls the “most crushing economic operation ever taken against any country” on Iran.
-‏
-‏According to President Trump  any country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will face tremendous economic consequences.
-02:34
-1405/05/29
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏☄️ ترامپ:
@@ -3945,18 +4047,6 @@ src :@BellumActaNews
 ‏Join EuroIntel. Be confidently wrong about fewer things.
 ‏
 ‏👉👉 https://t.me/eurointel
-23:29
-1405/05/28
-
-
-
-
-src :@didarnews1
-‏🔴وال استریت ژورنال: دولت ترامپ نگران است عمان به ایران برای رسیدن به توافقی که بیشتر به نفع تهران باشد کمک کند
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
 23:29
 1405/05/28
 
@@ -5233,29 +5323,6 @@ src :@bricsnews
 
 
 
-src :@selena_updates
-[عکس]
-‏Islamic State has significantly expanded its Spanish-language propaganda network, increasing both the number of channels distributing jihadist material and messages specifically targeting Spain.
-‏
-‏At least 8 ISIS-linked or pro-ISIS propaganda outlets have distributed Spanish-language material or threats involving Spain: Mathani, La Voz de Al-Ándalus, Al Khayr Media, Halummu Media, Al Faruk, Al Fursan, Tech Haven and Ansar Al-Ándalus. The latter emerged in 2025 and produced roughly 30 Spanish-language messages during its most active period, according to the Centro Memorial de las Víctimas del Terrorismo.
-‏
-‏Some of the material has recycled propaganda surrounding previous attacks. Networks have praised the perpetrators of the 2017 Barcelona and Cambrils attacks, circulated references to the 2004 Madrid bombings, and republished threats against Spain over its participation in the international coalition against ISIS.
-‏
-‏Spain holds particular symbolic importance in jihadist ideology because ISIS and Al-Qaeda repeatedly invoke Al-Andalus, the medieval Muslim-occupied territories of the Iberian Peninsula. Extremist propaganda portrays modern Spanish territory as supposedly lost Muslim land that should be “recovered,” a narrative used for years to threaten Spain and mobilise islamist jihadist sympathizers.
-‏
-‏The threat extends beyond ISIS. Despite Al-Qaeda's decline, propaganda structures associated with its network remain active, including Al-Andalus, historically linked to Al-Qaeda in the Islamic Maghreb, and Al Zallaqa, associated with the Al-Qaeda-linked JNIM organization in the Sahel region.
-‏
-‏Spanish authorities have meanwhile intensified counterterrorism operations. Interior Ministry figures recorded 43 jihadism-related operations and 82 arrests by July 28, 2026. A July operation resulted in 4 arrests in Toledo, Madrid, Barcelona and Ceuta, with police saying the terrorists had repeatedly distributed material supporting ISIS and accessed jihadist propaganda online.
-‏
-‏Young people and online radicalisation remain major concerns. Spain arrested 14 minors in jihadism-related investigations during 2025, while another 37 detainees were aged 18 to 25. Authorities also issued 13,411 notifications concerning extremist online content in 2025, more than 4 times the 3,208 recorded a year earlier.
-‏
-‏Spain remains at Level 4 - “high risk” - of its five-level terrorist alert system.
-19:32
-1405/05/28
-
-
-
-
 src :@Artemis_Force
 ‏ژاپن، جنگنده‌های خود را به پرواز درآورد به دلیل حضور هواپیماهای نظامی چین در نزدیکی سواحل ناگازاکی و اوکیناوا!!!
 19:31
@@ -5337,15 +5404,6 @@ src :@mwarmonitor
 
 
 
-src :@selena_updates
-[عکس]
-‏The account of the Iranian consulate in Hyderabad, India, responds to US President Trump’s post yesterday in which he announced that the Strait of Hormuz is a new territory belonging to the United States, and declared California as part of the Islamic Republic of Iran.
-19:02
-1405/05/28
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏هند ، مناقصه ای را برای خرید ۶۰ فروند هواپیمای ترابری به ارزش ۱۰.۴ میلیارد دلار برای نیروی هوایی هند اعلام کرد. 
@@ -5416,31 +5474,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:39
-1405/05/28
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Statement by the Yemen's Houthis:
-‏
-‏The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: 
-‏
-‏First, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from passing through. Second, striking Saudi troop concentrations wherever they may be. Third, protecting Yemen's sovereignty and confronting any enemy airspace incursions. 
-‏
-‏In implementing this blockade for a blockade, from the declaration of the maritime embargo against the Saudi enemy on July 20th until today, the Yemeni Armed Forces have targeted eight Saudi oil tankers: five in the Red Sea and three in the Gulf of Aden and the Arabian Sea. 
-‏
-‏Additionally, 48 Saudi oil tankers were prevented from passing and forced to turn back, including 34 in the Arabian Sea and the Indian Ocean, and 14 in the Red Sea. 
-‏
-‏In response to the Saudi aggression against Sana'a Airport and Hodeidah Port, and to reinforce the principle of protecting Yemeni sovereignty from violations of our country's airspace, particularly in the governorates of Sa'dah and Hajjah, the Yemeni Armed Forces carried out nine military operations targeting Yanbu, Najran, Jizan, Abha, and oil supply lines in the Eastern Province. 
-‏
-‏Furthermore, to solidify the principle of targeting Saudi troop concentrations wherever they may be, the Armed Forces conducted fourteen military operations targeting Saudi enemy troop concentrations in Al-Ruwaik, Al-Abr, Al-Wadi'ah, Ma'rib, and Al-Mukha, as well as ships and boats transporting equipment and reinforcements belonging to the Saudi enemy. 
-‏
-‏The results of these operations included the death and injury of hundreds of Saudi enemy troops, including commanders and officers; the burning and destruction of a large number of warehouses and equipment belonging to the Saudi enemy; the sinking and burning of two military landing ships transporting Saudi weapons and reinforcements in Al-Mukha; the burning and sinking of more than ten ships belonging to the Saudi enemy, which were engaged in acts of piracy, banditry, and looting in the Red Sea under Saudi directives. 
-‏
-‏We warn the Saudi regime against the dangers of any escalation. Any escalation will be met with a comprehensive response. The Saudi regime has no option but to lift the blockade, implement the agreements reached, end the aggression, pay salaries, allow the occupiers to leave, and return the wealth of the Yemeni people to all of us. We advise those of our countrymen who have been misled to return and leave the enemy camps, because they are Yemenis, and we do not want to target them or make them victims.
-18:34
 1405/05/28
 
 
