@@ -18,25 +18,22 @@ src :@Alibk3
 
 
 
-src :@MilitarryWorld
+src :@World_Newsly
 ‏🔴پالایش ملی: با ۹۰ میلیون جمعیت، روزی ۱۵۳ میلیون لیتر مصرف بزنین داریم
 ‏
-‏@MilitarryWorld | Parsa
-20:51
+‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️ @World_Newsly
+20:52
 1405/05/29
 
 
 
 
-src :@didarnews1
-‏🔴رحمن قهرمان پور:
+src :@MilitarryWorld
+‏🔴پالایش ملی: با ۹۰ میلیون جمعیت، روزی ۱۵۳ میلیون لیتر مصرف بزنین داریم
 ‏
-‏🔹آمریکا در حال آماده شدن برای جنگ فراگیر با ایران در آبان یا آذر است
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-20:50
+‏@MilitarryWorld | Parsa
+20:51
 1405/05/29
 
 
@@ -982,34 +979,10 @@ src :@ClashReport
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴ضرغامی: از اول انقلاب تحریم بودیم ولی کشور رشد کرده، پیرزن رو از تاکسی خالی نترسونین!
-‏
-‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-19:50
-1405/05/29
-
-
-
-
 src :@Mena_Live
 ‏In a short moment Rohani TV will present a speech by Mazloum Abdi announcing the dissolution of the Syrian Democratic Forces.
 ‏
 ‏@Mena_Live
-19:49
-1405/05/29
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴شهردار کیف اعلام کرد روسیه برای اولین بار در چند ماه اخیر به زیرساخت های حیاتی این شهر حمله کرده و ممکن است آب گرم ساکنان کیف قطع شود.
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
 19:49
 1405/05/29
 
@@ -2788,19 +2761,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — Sentinel-2 satellite imagery from yesterday shows a Nimitz-class U.S. aircraft carrier, either the USS George H.W. Bush or the USS Abraham Lincoln, sailing in the Gulf of Oman.
-‏
-‏The carrier is accompanied by at least one Arleigh Burke-class guided-missile destroyer.
-‏
-‏Source: MoloWarMonitor
-17:49
-1405/05/29
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇸🇦/🇾🇪 BREAKING: Yemen’s Armed Forces announce carrying out two military operations in Saudi Arabia with drones
 ‏
@@ -3679,14 +3639,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 15:32
-1405/05/29
-
-
-
-
-src :@ClashReport
-‏Israel’s Ben-Gurion Airport was temporarily brought to a standstill after workers halted check-in and flights amid operational difficulties and complaints over heavy workloads.   The disruption came during the busy summer travel season, with about 100,000…
-15:30
 1405/05/29
 
 
@@ -4998,14 +4950,6 @@ src :@mwarmonitor
 
 src :@Ali_bk_2
 ‏North Korea launches 10 ballistic missiles toward the Sea of Japan.
-12:34
-1405/05/29
-
-
-
-
-src :@Alibk3
-‏كوريا الشمالية تطلق 10 صواريخ باليستية نحو بحر اليابان.
 12:34
 1405/05/29
 
