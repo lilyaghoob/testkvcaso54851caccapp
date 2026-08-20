@@ -1,7 +1,69 @@
-src :@MilitarryWorld
+src :@GeoPWatch
+[عکس]
+‏🇷🇺🇰🇵❌🇺🇦 – Ukrainian intelligence believes Russia has received North Korean Hwasong-11C (KN-30) ballistic missiles for the first time, added to the KN-23 and KN-24 missiles it had already received.
+‏
+‏These are much larger that their previously used counterparts, with Ukrainian intelligence claiming they can fit a 2,500 kilogram warhead.
+‏
+‏@GeoPWatch
+23:11
+1405/05/29
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: طرح تازه آمریکا برای سرنگونی جمهوری‌اسلامی
+‏@iranintlTV
+23:11
+1405/05/29
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇷🇸 🇲🇪 It has been revealed that Milonjko Spajic, the Prime Minister of Montenegro, was a reserve officer in the Serbian Army.
+23:09
+1405/05/29
+
+
+
+
+src :@World_Newsly
+‏🔴‏ شریعتی نماینده مجلس: نزدیک ۸۰ درصد قاچاق سوخت مربوط به گازوئیل است، نه بنزین 
+‏
+‏‏ رئیس ستاد مبارزه با قاچاق کالا اعلام کردند روزانه ۲۰ میلیون لیتر سوخت قاچاق می‌شود که ۸۰ درصد آن گازوئیل است.
+‏
+‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️ @World_Newsly
+23:09
+1405/05/29
+
+
+
+
+src :@World_Newsly
 ‏🔴شریعتی، نمایندهٔ مجلس: ۶۹ میلیون ایرانی خودرو ندارند
 ‏
-‏@MilitarryWorld | Parsa
+‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
+‏▪️ @World_Newsly
+23:08
+1405/05/29
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏کامبیز حسینی - «دادگاه تاریخ»، مستند داستانی جمشید برزگر با فیلم‌نامه‌ای از او و سعید دهقان، با بازسازی محاکمه فرضی یک قاضی پیشین جمهوری اسلامی می‌پرسد: آیا در ایران پس از گذار، حتی متهمان به سرکوب نیز باید از دادرسی عادلانه برخوردار باشند؟
+‏
+‏«دادگاه تاریخ» در ظاهر درباره محاکمه یک قاضی پیشین جمهوری اسلامی است؛ اما آنچه فیلم پیش می‌کشد، بسیار فراتر از سرنوشت یک متهم است. پرسش اصلی فقط این نیست که پس از تغییر نظام سیاسی، با مقام‌های متهم به سرکوب، شکنجه، صدور احکام اعدام و نقض گسترده حقوق بشر چه باید کرد؛ پرسش دشوارتر این است که آن‌ها را چگونه باید محاکمه کرد.
+‏
+‏اگر نظام سیاسی آینده ایران بر حاکمیت قانون و حقوق بشر استوار باشد، آیا کسانی که خود به نقض همین حقوق متهم‌اند نیز باید از حق داشتن وکیل، اصل برائت، قاضی مستقل، امکان اعتراض به مدارک و محاکمه عادلانه برخوردار باشند؟
+‏
+‏ادامه این مطلب را در وب‌سایت ایران‌اینترنشنال بخوانید.
+‏https://iranintl.com/202608206021
 23:07
 1405/05/29
 
@@ -375,16 +437,6 @@ src :@cataphract1
 
 
 
-src :@MilitarryWorld
-‏🔴نرخ نفت برنت از ۹۵ دلار گذشت!
-‏
-‏@MilitarryWorld | Parsa
-22:51
-1405/05/29
-
-
-
-
 src :@mohem_mat
 ‏ادعاهای ونس‏ معاون رئیس‌جمهور آمریکا 
 ‏
@@ -543,16 +595,6 @@ src :@World_Newsly
 
 
 
-src :@MilitarryWorld
-‏🔴یک زن به اتهام تلاش برای بمب‌گذاری در ساختمان کنگره ایالتی نیویورک، پیش از اجرای عملیات توسط FBI بازداشت شد
-‏
-‏@MilitarryWorld | Parsa
-22:37
-1405/05/29
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴بن گویر وزیر امنیت ملی اسرائیل:
@@ -623,18 +665,6 @@ src :@World_Newsly
 src :@rnintel
 ‏🇸🇾⚡- "Syrian Justice Minister Ahmad al-Sayed met with Mazloum Abdi in Damascus to discuss the completion of the January agreement with the Syrian Democratic Forces (SDF) and the process of their integration into state institutions," - SANA, Syrian state media.
 22:32
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-‏🔴 حاجی بابایی نایب رئیس مجلس:
-‏
-‏کشورهای حاشیهٔ خلیج فارس تو کشور خودشون نباید خط لوله بزنن برای انتقال نفت چونکه اینجوری خاصیت تنگه هرمز رو کم میکنن!
-‏
-‏@MilitarryWorld | Parsa
-22:31
 1405/05/29
 
 
@@ -1323,18 +1353,6 @@ src :@World_Newsly
 
 
 
-src :@MilitarryWorld
-‏🔴معاون ریاست جمهوری یمن: 
-‏
-‏تشدید تنش های اخیر از طرف حوثی ها مستقیما از سپاه پاسداران در ایران نشات می گیرد.
-‏
-‏@MilitarryWorld | Parsa
-21:46
-1405/05/29
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏⭕️⭕️ محاصره و تحریم‌ها به بحران بنزین گره خورد؛ ذخایر استراتژیک جمهوری اسلامی در «قرمز تیره»
@@ -1803,18 +1821,6 @@ src :@Mena_Live
 
 
 
-src :@MilitarryWorld
-‏🔴وزیر خارجه چین:
-‏
-‏تحریم و فشار به تنش‌های خاورمیانه پایان نمی‌دهد
-‏
-‏@MilitarryWorld | Parsa
-21:17
-1405/05/29
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏مقایسه نظام مقدس جمهوری اسلامی با پیرزنِ به همه کَس داده توسط عزت‌الله ضرغامی
@@ -1899,16 +1905,6 @@ src :@bricsnews
 
 
 
-src :@MilitarryWorld
-‏🔴وزارت خزانه‌داری آمریکا لیست جدیدی از تحریم‌ها را علیه اشخاص و نهادهای مرتبط با جمهوری اسلامی ایران وضع کرد.
-‏
-‏@MilitarryWorld | Parsa
-21:09
-1405/05/29
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇱⚡️ — Israel’s Supreme Court unanimously overturned the government’s decision to shut down Army Radio, ruling that it was driven by “improper” political considerations.
@@ -1934,17 +1930,6 @@ src :@Indypersian
 ‏
 ‏@INDYPERSIAN
 21:06
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴حسیب قوی مرکز، یکی از فرماندهان کلیدی جبهه مقاومت ملی ضد طالبان (NRF) امروز توسط نیروهای ویژه طالبان کشته شد.
-‏
-‏@MilitarryWorld | Parsa
-21:04
 1405/05/29
 
 
@@ -1976,41 +1961,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 21:03
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🚨 کاهش شدید پهنای باند اینترنت ایران
-‏
-‏طبق گزارش Cloudflare، پهنای باند اینترنت ایران از حدود ۹۰٪ به ۵۹٪ کاهش پیدا کرده است. 📉
-‏
-‏اما با V2X VPN، بدون نگرانی از محدودیت‌ها و اختلالات، به اینترنت آزاد و پایدار متصل بمونید. 💜⚡️
-‏
-‏🔐 سرویس‌های اختصاصی V2Ray + WireGuard ما برای دسترسی سریع‌تر و پایدارتر به اینترنت در اختیار شما هستند.
-‏
-‏🔥 با خرید یک سرویس حجمی، تمام این امکانات را در قالب یک کانفیگ دریافت می‌کنید:
-‏♾️ کاربر نامحدود
-‏🌍 ۱۲ سرور V2Ray در لوکیشن‌های مختلف
-‏⚡️ سرورهای قدرتمند و پرسرعت WireGuard
-‏▶️ سرور اختصاصی YouTube بدون تبلیغات
-‏🎮 سرور اختصاصی گیم
-‏
-‏همه‌ی این امکانات در یک کانفیگ؛ بدون دردسرِ جابه‌جایی بین چندین کانفیگ مختلف. 🔥
-‏
-‏🧪 قبل از خرید، رایگان تست کنید!
-‏با دریافت اکانت تست رایگان، کیفیت و سرعت سرورها را خودتان تجربه کنید و بعد با خیال راحت سرویس موردنظرتان را خریداری کنید.
-‏
-‏🛒 خرید سرویس‌های حجمی:
-‏@VPN_V2X_BOT
-‏
-‏♾️ برای خرید سرویس نامحدود یا حجمی بدون انقضا، با پشتیبانی در ارتباط باشید:
-‏@V2X_Support
-‏
-‏💜 @V2X_VPN — اینترنت آزاد، سریع و پایدار
-21:02
 1405/05/29
 
 
@@ -2110,19 +2060,6 @@ src :@Indypersian
 
 
 
-src :@World_Newsly
-‏🔴کانال ۱۵ عبری:
-‏
-‏🔹️نتانیاهو در حال حاضر نشست ویژه‌ای با حضور رؤسای دستگاه‌های امنیتی و اطلاعاتی برگزار می‌کند تا درباره تحولات آینده، به‌ویژه در سوریه و روابط با ترکیه، گفت‌وگو کند. این نشست در پی اعلام آنکارا مبنی بر ادامه فعالیت‌های خود در سوریه برگزار می‌شود
-‏
-‏‌✍🏻 SLXUGHTER
-‏▪️@World_Newsly
-20:57
-1405/05/29
-
-
-
-
 src :@Ali_bk_2
 ‏Hebrew Channel 15:
 ‏
@@ -2138,27 +2075,6 @@ src :@Alibk3
 ‏
 ‏يعقد نتنياهو حاليًا اجتماعًا خاصًا بمشاركة رؤساء الأجهزة الأمنية، بما في ذلك أجهزة الاستخبارات، لمناقشة جميع التطورات المستقبلية، لا سيما في سوريا، وفي العلاقة مع تركيا. ويأتي ذلك على خلفية إعلان الأتراك استمرار نشاطهم في سوريا.
 20:53
-1405/05/29
-
-
-
-
-src :@World_Newsly
-‏🔴پالایش ملی: با ۹۰ میلیون جمعیت، روزی ۱۵۳ میلیون لیتر مصرف بزنین داریم
-‏
-‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-20:52
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-‏🔴پالایش ملی: با ۹۰ میلیون جمعیت، روزی ۱۵۳ میلیون لیتر مصرف بزنین داریم
-‏
-‏@MilitarryWorld | Parsa
-20:51
 1405/05/29
 
 
@@ -2352,17 +2268,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 20:39
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴پلتفرم X زیر توییت رئیس پارلمان عراق با عنوانی جعلی برای خلیج فارس، یادآوری کرده که خلیج فارس درست است
-‏
-‏@MilitarryWorld | Parsa
-20:36
 1405/05/29
 
 
@@ -2562,19 +2467,6 @@ src :@didarnews1
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴وال استریت ژورنال: این اولین باری است که یک مقام ارشد دولت ترامپ پس از مدت‌ها خواستار تغییر نظام در ایران شد
-‏
-‏اسکات بسنت در صحبت‌های امروز خود از تغییر نظام در ایران صحبت کرد. بازگشت به اهداف ۲۸ فوریه؟
-‏
-‏@MilitarryWorld | Parsa
-20:17
-1405/05/29
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Mazloum Abdi and the Syrian Presidential Envoy in charge of the SDF agreement.
@@ -2599,33 +2491,11 @@ src :@Navy_Iranian
 
 
 
-src :@IranintlTV
-[عکس]
-‏فرماندهی مرکزی ایالات متحده، سنتکام، پنج‌شنبه ۲۹ مرداد با انتشار تصاویری از هواپیماهای چندمنظوره ام‌وی-۲۲بی آسپری تفنگداران دریایی آمریکا در حال برخاستن از عرشه ناو یواس‌اس باکسر اعلام کرد این ناو در دریای عرب به اجرای محاصره آمریکا علیه ایران ادامه می‌دهد.
-‏
-‏سنتکام افزود تا ۲۹ مرداد نیروهای آمریکایی برای اطمینان از اجرای این محاصره، مسیر ۶۷ کشتی تجاری را تغییر داده‌اند، سه کشتی را از کار انداخته‌اند و وارد دو کشتی شده‌اند.
-‏https://iranintl.com/202608202074
-20:12
-1405/05/29
-
-
-
-
 src :@Mena_Live
 ‏Iranian authorities announce that they have repaired all 6 bridges that were damages as a result of U.S. attacks in the recent round of war and will be reopened within the next 6 hours.
 ‏
 ‏@Mena_Live
 20:12
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-‏🔴تریتا پارسی: بازگشت به جنگ، قوی ترین پیش فرض موجود است
-‏
-‏@MilitarryWorld | Parsa
-20:10
 1405/05/29
 
 
@@ -2773,22 +2643,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 20:01
-1405/05/29
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏پیر پالیو، رهبر حزب محافظه‌کار کانادا، پنج‌شنبه ۲۹ مرداد از گفت‌وگوی خود با شاهزاده رضا پهلوی خبر داد و اعلام کرد از او برای سفر به کانادا دعوت کرده است.
-‏
-‏پالیو گفت دو طرف درباره ادامه فشار بین‌المللی بر جمهوری اسلامی، حفظ دسترسی ایرانیان به اینترنت و استفاده از دارایی‌های مسدودشده حکومت ایران به جای پول مالیات‌دهندگان غربی برای حمایت از مردم ایران گفت‌وگو کردند.
-‏
-‏او افزود در این گفت‌وگو بر تعیین آینده ایران از سوی ایرانیان از طریق انتخابات آزاد و فرایند دموکراتیک تدوین قانون اساسی تاکید شده است.
-‏
-‏پالیو همچنین گفت محافظه‌کاران کانادا از تحریم‌های جامع، توقیف دارایی‌های حکومت و اخراج اعضای سپاه پاسداران از کانادا حمایت می‌کنند.
-‏https://iranintl.com/202608202490
-19:56
 1405/05/29
 
 
@@ -3104,16 +2958,6 @@ src :@tglobaleye
 
 
 
-src :@MilitarryWorld
-‏🔴به گفته بسنت، احتمالاً ایالات متحده جنگ گسترده‌ای را علیه ایران از سر نخواهد گرفت، زیرا فشار اقتصادی خود را افزایش می‌دهد
-‏
-‏@MilitarryWorld | Parsa
-19:27
-1405/05/29
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 — The George Washington Carrier Strike Group is operating in Middle East during a scheduled deployment after arriving in the CENTCOM theater yesterday. — CENTCOM 
@@ -3145,19 +2989,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 19:27
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴مجری: تحریم هایی که کردید شامل چین هم میشه؟ چون چین و ایران شریک اقتصادی اصلی هم هستند.
-‏
-‏بسنت: خیلی حرفا بهتره توی محافل خصوصی زده بشه!
-‏
-‏@MilitarryWorld | Parsa
-19:24
 1405/05/29
 
 
@@ -3469,16 +3300,6 @@ src :@mwarmonitor
 
 
 
-src :@MilitarryWorld
-‏🔴وزیر خزانه داری آمریکا درباره ایران: سخت ترین تحریم های تاریخ را اعمال خواهیم کرد‌‌
-‏
-‏@MilitarryWorld | Parsa
-18:52
-1405/05/29
-
-
-
-
 src :@mwarmonitor
 ‏🔴آمیت سیگال خبرنگار و تحلیلگر سیاسی کانال ۱۲ اسرائیل 
 ‏
@@ -3783,17 +3604,6 @@ src :@Mena_Live
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴بیانیه وزارت امور خارجه ایران برای تحریم های جدید آمریکا.
-‏
-‏@MilitarryWorld | Parsa
-18:32
-1405/05/29
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏سازمان حقوق بشر کارون از افزایش شمار زندانیان سیاسی و عقیدتی در زندان شیبان اهواز خبر داده و گفته است بیش از ۶۰۰ نفر در بندهای مختلف این زندان نگهداری می‌شوند. بسیاری از این زندانیان، هستند که در موج بازداشت‌های پس از جنگ ۴۰ روزه ایران و آمریکا و اسرائیل بازداشت شده‌اند.
@@ -3841,19 +3651,6 @@ src :@mohem_mat
 ‏
 ‏سازندگان این داستان رو به نسخه بسیار تاریک از داستان سیندرلا تشبیه کردن
 18:27
-1405/05/29
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴تصاویر ماهواره‌ای جدید از حضور یک ناوهواپیمابر آمریکا در دریای عمان
-‏
-‏این ناو که مشخص نیست جرج واشنگتن است یا آبراهام لینکلن به همراه یک ناوشکن موشک‌انداز هدایت‌شونده از کلاس Arleigh Burke در حال حرکت در دریای عمان دیده شده.
-‏
-‏@MilitarryWorld | Parsa
-18:21
 1405/05/29
 
 
@@ -4220,19 +4017,6 @@ src :@Alibk3
 ‏
 ‏تمكنت قواتنا بفضل الله من تنفيذ عمليتين عسكريتين بطائرتين مسيرتين الأولى استهدفت هدفاً حساساً للعدو السعودي في مطار نجران والأخرى استهدفت أرامكو نجران وقد حققت العمليتان هدفيهما بنجاح بفضل الله.
 17:32
-1405/05/29
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇦🇿🇺🇳🇦🇫🇵🇰 — The Azerbaijani State Security Service (DTX) says Namiq Agalarov, who had been internationally wanted since 2009, was arrested abroad and extradited to Azerbaijan to face investigation.
-‏
-‏Agalarov is accused of participating in armed ambushes and attacks against personnel of the UN-mandated International Security Assistance Force (ISAF), representatives of international organizations, foreign nationals, and logistics networks in Afghanistan, Pakistan, and other countries between 2008 and 2009.
-‏
-‏@TheWarReporter
-17:24
 1405/05/29
 
 
@@ -5094,22 +4878,6 @@ src :@mwarmonitor
 src :@rnintel
 ‏🇷🇴🇷🇺🇺🇦⚡️- "On Thursday, August 20, two Romanian Air Force F-16 aircraft scrambled towards the location where a small maritime drone was spotted in Romania's Exclusive Economic Zone, near the Neptun Alpha platform, approximately 80 nautical miles east of Constanța. One of the aircraft engaged the target and fired its onboard cannon at it, successfully hitting the target." - Romanian Ministry of National Defence.
 14:35
-1405/05/29
-
-
-
-
-src :@Ali_bk_2
-‏Strike at Ben Gurion Airport in Tel Aviv, and employees are leaving the airport.
-14:29
-1405/05/29
-
-
-
-
-src :@Alibk3
-‏إضراب في مطار بن غوريون بتل أبيب، والموظفون يغادرون المطار.
-14:29
 1405/05/29
 
 
@@ -7165,37 +6933,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:14
-1405/05/28
-
-
-
-
-src :@samueltarikh
-‏ترامپ:
-‏بسیاری از خطوط لوله در حال ساخت هستند،
-‏تنگه هرمز دیگر آن اهمیت گذشته را نخواهد داشت.
-23:11
-1405/05/28
-
-
-
-
-src :@warmonitors
-[عکس]
-‏x.com/ziayusufuk/sta…
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:09
-1405/05/28
-
-
-
-
-src :@samueltarikh
-‏⭕️ترامپ به آکسیوس:
-‏
-‏در حال حاضر، ایالات متحده با ایران مذاکره نمی‌کند. آن‌ها در حال تلف کردن وقت هستند. مذاکره با آن‌ها تلف وقت است.
-‏
-‏ایرانی‌ها هنوز مقداری قدرت دارند، اما به طور کلی، آن‌ها دیگر آن قدرت قبلی را ندارند.
-23:07
 1405/05/28
