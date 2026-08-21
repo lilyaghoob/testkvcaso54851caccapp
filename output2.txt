@@ -1,3 +1,62 @@
+src :@World_Newsly
+[عکس]
+‏🔴ادعای آخوندی در سخنرانی تجمعات طرفداران حکومت ایران: هنوز هم از بیت رهبری بوی گوشت سوخته می آید!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+23:55
+1405/05/30
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
+‏
+‏NATO Air Exercises in Northern Europe Summary
+‏
+‏The map I've created below is for illustrative purposes only, using some of the OSINT flight tracking data relating to the surge in NATO air activity around Poland, Germany and Denmark in the last few days. It comes in the context of a number of Russian sabotage operations, UAV and missile incursions across the eastern borders of NATO and ongoing NATO air defence missions under Operation EASTERN SENTRY and NATO Air Policing missions.
+‏
+‏Current NATO comments suggest these movements may have been a couple of different (unannounced) exercises over the 3-day period, featuring assets from across Europe.
+‏
+‏@MATA_osint @ArmchairAdml @InsiderGeo @vcdgf555 @steffanwatkins @TheIntelFrog
+‏
+‏ترجمه خودکار فارسی در بخش نظرات
+‏
+‏𝕏  ·  @shin_persian
+23:53
+1405/05/30
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴 نیویورکر: ترامپ همچنان در برابر ایران بازنده است
+‏
+‏🔹اهداف اولیه دولت ترامپ محقق نشده، حکومت ایران همچنان منسجم است و بسته ماندن تنگه هرمز، هزینه‌های نظامی و سیاسی آمریکا را افزایش داده است.
+‏
+‏
+‏
+‏✍🏻 CAPITANO
+‏▪️@World_Newsly
+23:53
+1405/05/30
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد:مرحله تازه تقابل تهران و واشینگتن؛آمریکا چه نقشه‌ای برای جمهوری اسلامی دارد؟
+‏@iranintlTV
+23:52
+1405/05/30
+
+
+
+
 src :@MilitarryWorld
 ‏🔴 عکاسی از پایگاه B-2ها؛ ۶ ماه زندان برای یک تبعه چین
 ‏
@@ -755,7 +814,8 @@ src :@VahidOnline
 ‏دو روز پیش:
 ‏اجتماع "عید بیعت با امام زمان(عج) " برگزار می‌شود
 ‏
-‏به گزارش ایسنا، این مراسم با هدف تجدید پیمان با امام زمان(عج) و همچنین تجدید بیعت با مقام معظم رهبری، حضرت آیت‌الله سید مجتبی خامنه‌ای، از ساعت ۲۰:۳۰ تا ۲۳:۰۰ در میدان ولیعصر(عج) تهران برگزار می‌شود."
+‏به گزارش ایسنا، این مراسم با هدف تجدید پیمان با امام زمان(عج) و همچنین تجدید بیعت با مقام معظم رهبری، حضرت آیت‌الله سید مجتبی خامنه‌ای، از ساعت ۲۰:۳۰ تا ۲۳:۰۰ در میدان ولیعصر(عج) تهران برگزار می‌شود.
+‏در این اجتماع علی‌اکبر رائفی‌پور و شیخ اسماعیل رمضانی به ایراد سخنرانی خواهند پرداخت. "
 ‏isna
 ‏
 ‏📡 @VahidOnline
@@ -1214,16 +1274,6 @@ src :@ClashReport
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇹⚡️ — The U.S. State Department has approved a possible $364 million sale to Italy of Guidance Section Single Variant Air-to-Air Advanced Precision Kill Weapon System-II equipment and related support.
-‏
-‏BAE Systems in New Hampshire will serve as the principal contractor.
-22:50
-1405/05/30
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهوری آمریکا، پستی از دیوید شون، وکیل آمریکایی، را در تروت سوشال بازنشر کرد که در آن آمده است رهبران جمهوری اسلامی «فقط رفتار غیرقانونی و تروریستی را می‌شناسند».
@@ -1317,18 +1367,6 @@ src :@IranintlTV
 
 
 
-src :@World_Newsly
-[عکس]
-‏🔴 فعالیت‌های نظامی آمریکا در نزدیکی تنگه هرمز به‌طور گسترده‌ای افزایش پیدا کرده است.
-‏
-‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-22:36
-1405/05/30
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇷الجنرال وحيدي: لن يتوقف الأعداء أبداً عن إضمار الكراهية والتآمر ضد هذه الأمة العظيمة.
 ‏سيستمر تعزيز إنتاج منتجات الصناعات الدفاعية والعسكرية، بقيادة وزارة الدفاع وجهود القوات المسلحة، بذكاء وسرعة ودهاء أكبر مما كان عليه في الماضي.
@@ -1351,20 +1389,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 22:36
-1405/05/30
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴بن‌گویر وزیر امنیت اسرائیل داره یک سری خُندق (گودال) دور زندان های نگه‌داری فلسطینی ها میسازه؛ قراره داخل اونا ده ها تمساح بزاره تا اگه ی فلسطینی خواست فرار کنه تمساح ها بخورنش🐊
-‏
-‏همچنین اون معتقده هیچ فلسطینی بی طرفی وجود نداره و داره چوبه های دار برای صف های اعدام میسازه تا روزی حداقل ۴۰ فلسطینی رو اعدام کنه.
-‏
-‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
-‏▪️ @World_Newsly
-22:34
 1405/05/30
 
 
@@ -4533,16 +4557,6 @@ src :@USAMRYDATA
 ‏🎓#FACT
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-17:11
-1405/05/30
-
-
-
-
-src :@intelslava
-‏🇸🇪🇮🇱⚡️ — During a Swedish election debate on August 17, 2026, Simona Mohamsson, the Minister of Education and of Palestinian/Lebanese origin, wore a Star of David to denounce antisemitism. This gesture, justified by the desire to "protect" Swedish Jews in the face of a rise in attacks (+15% between 2020 and 2025), sparked a heated online controversy, with some seeing it as a provocation or blind support for Israel.
-‏
-‏@IntelSlava
 17:11
 1405/05/30
 
