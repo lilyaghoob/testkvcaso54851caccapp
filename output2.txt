@@ -1,3 +1,66 @@
+src :@Exciton_missile_program
+[فایل]
+14:17
+1405/05/30
+
+
+
+
+src :@Exciton_missile_program
+‏از جناب ریحانی هم بابت حضورشان در پس زمینه و خواندن سطر اول خطبه نشست صوتی متشکریم.
+‏
+‏
+‏@P_raetorio
+14:17
+1405/05/30
+
+
+
+
+src :@didarnews1
+‏📌ابوترابی‌فرد : با وحدت ملی از تنگناهای اقتصادی عبور می‌کنیم
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+14:16
+1405/05/30
+
+
+
+
+src :@P_raetorio
+‏از جناب ریحانی هم بابت حضورشان در پس زمینه و خواندن سطر اول خطبه نشست صوتی متشکریم.
+‏
+‏
+‏@P_raetorio
+14:15
+1405/05/30
+
+
+
+
+src :@ClashReport
+[عکس]
+‏US Faces Critical Missile Shortages: Can It Still Defend Several Allies at Once?
+‏
+‏CSIS estimates the US has about 800 Patriot missiles left, sharpening doubts in Europe, Asia, and the Gulf over whether Washington can defend several theaters at once.
+‏
+‏READ MORE
+14:15
+1405/05/30
+
+
+
+
+src :@P_raetorio
+[فایل]
+14:13
+1405/05/30
+
+
+
+
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‏ ‏
@@ -13,14 +76,6 @@ src :@KayhanLondonChannel
 ‏- میثم ظهوریان نائب رئيس کمیسیون اقتصادی مجلس شورای اسلامی هشدار داده که افزایش قیمت بنزین سبب «انفجار اجتماعی» در ایران خواهد شد.
 ‏ 
 ‏https://kayhan.london/1405/05/30/407131/
-14:09
-1405/05/30
-
-
-
-
-src :@P_raetorio
-‏Live stream finished (1 hour)
 14:09
 1405/05/30
 
@@ -731,22 +786,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 13:01
-1405/05/30
-
-
-
-
-src :@P_raetorio
-‏Live stream started
-13:00
-1405/05/30
-
-
-
-
-src :@P_raetorio
-‏Live stream finished (55 minutes)
-12:59
 1405/05/30
 
 
@@ -1463,14 +1502,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@P_raetorio
-‏Live stream started
-12:03
-1405/05/30
-
-
-
-
 src :@mohem_mat
 ‏وال‌استریت‌ژورنال به نقل از منابع آگاه گزارش داد
 ‏
@@ -1481,14 +1512,6 @@ src :@mohem_mat
 ‏این منابع می‌گویند امارات ابتدا محدودیت‌ های حمل‌ونقل کالا را افزایش خواهد داد و در صورت ادامه تنش‌ها، ممکن است اقدامات گسترده‌تری علیه نهادهای مرتبط با ایران در نظر بگیرد.
 ‏
 ‏@mohem_mat
-12:02
-1405/05/30
-
-
-
-
-src :@P_raetorio
-‏Praetorio pinned a photo
 12:02
 1405/05/30
 
@@ -4117,19 +4140,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏The U.S. Navy is considering renaming the future USS Doris Miller, an aircraft carrier honoring the Black sailor who became a hero during Pearl Harbor.
-‏
-‏Officials have discussed naming the carrier after President Trump instead, while honoring Miller with another warship and recommending him for the Medal of Honor.
-‏
-‏Source: CNN
-01:11
-1405/05/30
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇦 🇷🇺 — Ukraine developed a plan this year to swarm Moscow’s airports with up to 1,000 AI-guided drones per night, according to a new report in The Atlantic.
@@ -5823,20 +5833,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@didarnews1
-‏🔴 ادعای گزاف وزیر خزانه‌داری آمریکا: 
-‏
-‏🔹ما سخت‌ترین تحریم‌ها را علیه ايران اعمال خواهیم کرد و این امر منجر به فروپاشی نظام خواهد شد.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-19:33
-1405/05/29
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷 NEW: The U.S. Department of Treasury says it will impose the ‘harshest sanctions in history’ on Iran  @Middle_East_Spectator
 19:32
@@ -6313,18 +6309,6 @@ src :@Artemis_Force
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏گزارش افزایش قیمت برخی داروها در ایران بار دیگر نگرانی درباره هزینه درمان و سرنوشت ارز ترجیحی دارو را افزایش داده است؛ موضوعی که سازمان غذا و دارو می‌گوید نباید آن را به معنای آغاز موج جدید گرانی دارو تعبیر کرد.
-‏بیشتر: https://iranwire.com/fa/news-1/156541
-‏
-‏@Farsi_Iranwire
-16:49
-1405/05/29
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏سنگاپور ظاهراً نصب موشک ضدکشتی بلو اسپر ساخت اسرائیل را روی ناوچه‌های کلاس Formidable آغاز کرده است؛ تصاویر جدید از ناوچه RSS Steadfast نخستین شواهد تصویری این موضوع را نشان می‌دهد. 
@@ -6624,25 +6608,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 14:26
-1405/05/29
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‏ ‏
-‏⁠ جمهوری اسلامی آرین حسینی از بازداشت‌شدگان اعتراضات دی۴۰۴ را اعدام کرد
-‏ 
-‏- قوه قضاییه جمهوری اسلامی از اجرای حکم اعدام قائم (آرین) حسینی از بازداشت‌شدگان اعتراضات دی۴۰۴ و از محکومان به اعدام در پرونده «میدان علیخانی» اصفهان خبر داد.
-‏ 
-‏- آرین حسینی، تبعه افغانستان، متهم شده بود شامگاه ۱۸ دی‌ماه ۱۴۰۴ در میدان علیخانی «با سلاح سرد حضور فعال داشته» و به جسد یکی از مأموران کشته شده لگد زده است. او همچنین به مشارکت در آتش‌ زدن یک خیریه متهم شده بود!
-‏ 
-‏- حکم اعدام چهار شهروند دیگر محکوم به اعدام در پرونده «میدان علیخانی» شامل عرفان اسفندیاری، گل‌محمد محمدی، ابوالفضل سپاهی بادجانی و امیرحسین صفری حسین‌آبادی پیشتر اجرا شده بود.
-‏ 
-‏- علیرضا سپاهی ۲۵ ساله و از جمله محکومان به اعدام در این پرونده قرار بود به همراه ابوالفضل سپاهی بادجانی و امیرحسین صفری حسین‌آبادی در ملاء عام اعدام شود اما پیش از اجرای حکم دچار سکته قلبی شد و اجرای حکم اعدام او به تعویق افتاد.
-‏ 
-‏- پرونده معروف به پرونده «میدان علیخانی» با اعتراضات شامگاه ۱۸ دی ۱۴۰۴ مرتبط است که در محدوده میدان علیخانی، میان ملک‌شهر و کاوه اصفهان رخ داد. در جریان این اعتراضات چهار نیروی سرکوبگر بسیج و یگان ویژه کشته شدند. قوه قضاییه ۵۹ شهروند را در ارتباط با این پرونده بازداشت و برای ۱۳ شهروند حکم اعدام صادر کرده است.
-‏ 
-‏https://kayhan.london/1405/05/29/407083/
-14:12
 1405/05/29
