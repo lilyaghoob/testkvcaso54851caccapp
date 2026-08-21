@@ -1,12 +1,28 @@
-src :@Farsi_Iranwire
+src :@WAR_ROOM_NEWS
 [عکس]
-‏رییس مجلس شورای اسلامی با تاکید بر وضعیت هشدارآمیز اقتصادی در ایران گفت: «ما هر چقدر قدرت نظامی داشته باشیم ولی اگر مردم گرسنه باشند و گردش مالی، رشد اقتصادی و تولید ملی نداشته باشیم، دوام نمی‌آوریم.»
+‏🇺🇦🇷🇺 ارتش اوکراین، "الکسا اسپاتیوم" (Alexa Spatium) را دریافت کرده است، اولین پهپاد رهگیری جت-محور تولید داخلی این کشور، که برای نابودی موشک‌های "گران-3"، "گران-4" و "گران-5" روسیه طراحی شده است.این پهپاد رهگیر همچنین می‌تواند با پهپادهای شناسایی، هلیکوپترها و اهداف زمینی و سطحی درگیر شود.این پهپاد از یک موتور توربوجت استفاده می‌کند، ظرف چند دقیقه از یک پرتابگر متحرک پرواز می‌کند و در صورت عدم هدف قرار گرفتن، می‌تواند برای استفاده مجدد بازگردد.
 ‏
-‏«محمدباقر قالیباف» که در عراق به سر می‌برد، روز جمعه ۳۰مرداد۱۴۰۵ در جمع افرادی که «فعالان اقتصادی ایران و عراق» معرفی شده‌اند، تصمیمات جدید دولت ایالات متحده و اعمال تحریم‌های اقتصادی شدید علیه جمهوری اسلامی را «ظالمانه» خواند و گفت: «باید برای غلبه بر آن‌ها برنامه‌ریزی کنیم تا بتوانیم بر آن‌ها فائق آییم».
-‏بخوانید: https://iranwire.com/fa/news-1/156587
+‏🆔️‌@WAR_ROOM_NEWS
+18:45
+1405/05/30
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر کشور بلغارستان: بلغارستان تمام اقدامات ممکن را برای محافظت از پایگاه هوایی بزمِر[متعلق به آمریکا] در برابر تهدیداتی که از سوی ایران مطرح می‌شود، اتخاذ کرده است.
 ‏
-‏@Farsi_Iranwire
-18:42
+‏@MilitarryWorld | Parsa
+18:45
+1405/05/30
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇹🇷🇮🇱🇵🇸 Turkish Minister of Justice Akın Gürlek announced that Istanbul’s 11th Heavy Penal Court is prosecuting 35 defendants, including Benjamin Netanyahu and Afek Moskovitch, over the attack on the Global Freedom Flotilla, which was sailing to deliver humanitarian…
+18:43
 1405/05/30
 
 
@@ -3496,20 +3512,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@MilitarryWorld
-‏‏🔴 استفاده از متانول در بنزین تولیدی ستاره خلیج فارس تایید شد/ احتمال افزایش خوردگی در برخی قطعات خودروها 
-‏
-‏‏مدیرعامل شرکت نفت ستاره خلیج فارس استفاده از متانول در ترکیب بنزین این پالایشگاه را تایید کرد.
-‏
-‏‏انجمن خودروسازان ایران پیش از این در نامه‌ای هشدار داده بود که استفاده از متانول در بنزین سیستم سوخت رسانی، باک، فیلتر و پمپ بنزین، لوله های فلزی، واشرها و قطعات پلاستیکی را دچار خوردگی شدید می‌کند.»
-‏
-‏@MilitarryWorld | Parsa
-14:04
-1405/05/30
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏ترافیک کشتیرانی در تنگه هرمز در ادامه بن‌بست مذاکرات ایران و آمریکا و افزایش نگرانی‌ها درباره امنیت این آبراه استراتژیک، بار دیگر کاهش یافت.
@@ -4578,15 +4580,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 11:45
-1405/05/30
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 While the Lebanese Prime Minister and Defense Minister were giving their speeches in the south the IDF violated Lebanese airspace by flying over multiple areas of southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook…
-11:30
 1405/05/30
 
 
@@ -6598,12 +6591,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 18:48
-1405/05/29
-
-
-
-
-src :@Middle_East_Spectator
-‏As many as of you know, I have been busy for over a year writing three short novellas.
-18:45
 1405/05/29
