@@ -1,3 +1,31 @@
+src :@mwarmonitor
+‏🔸به گزارش آکسیوس، وزارت دادگستری آمریکا (DOJ)، تیک‌تاک و شرکت بایت‌دنس بر سر پرداخت ۴۰۰ میلیون دلار برای حل‌وفصل اتهامات مربوط به نقض قوانین آمریکا درباره حریم خصوصی کودکان در فضای آنلاین به توافق رسیده‌اند.
+‏
+‏🔸بر اساس این توافق، تیک‌تاک این مبلغ را پرداخت می‌کند، اما بدون پذیرش تخلف یا مسئولیت.
+‏
+‏🔸وزارت دادگستری آمریکا ظاهراً این پرونده را یکی از بزرگ‌ترین مبالغ وصول‌شده در چارچوب قانون حمایت از حریم خصوصی کودکان توصیف کرده است.
+‏
+‏@mwarmonitor
+00:06
+1405/05/31
+
+
+
+
+src :@tabzlive
+‏🇮🇱❌🇱🇧 — IDF operations against southern Lebanon the past 15 minutes:
+‏
+‏- Merkava tank strikes against al-Mansouri, Tebnine
+‏- Quadcopter UAV bomb strike against al-Mansouri
+‏- Artillery strikes against Zawtar El Charqiyeh
+‏- Sweeps against Khiam, Zawtar El Charqiyeh
+‏- Machine gun fire against Khiam
+00:03
+1405/05/31
+
+
+
+
 src :@Indypersian
 ‏IndyPersian pinned a video
 00:01
@@ -118,18 +146,6 @@ src :@ClashReport
 ‏
 ‏Construction is under budget and ahead of schedule. Thank you for your attention to this matter!
 23:58
-1405/05/30
-
-
-
-
-src :@World_Newsly
-[عکس]
-‏🔴ادعای آخوندی در سخنرانی تجمعات طرفداران حکومت ایران: هنوز هم از بیت رهبری بوی گوشت سوخته می آید!
-‏
-‏✍🏻 Desert Eagle
-‏▪️@World_Newsly
-23:55
 1405/05/30
 
 
@@ -1332,17 +1348,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 23:00
-1405/05/30
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The U.S. Supreme Court has temporarily allowed the Trump administration to continue construction of its $400 million White House ballroom, pausing a lower-court order that would have halted most above-ground work.
-‏
-‏The temporary stay gives the justices more time to consider the administration’s request to keep construction moving while a lawsuit challenging the project proceeds.
-22:55
 1405/05/30
 
 
@@ -4956,19 +4961,6 @@ src :@thewarreporter
 
 
 
-src :@mwarmonitor
-[عکس]
-‏🔵توان عملیاتی نیروی هوایی را افزایش می‌دهد: دومین هواپیمای سوخت‌رسان «گیدعون» وارد اسکادران جدید سوخت‌رسانی شد
-‏
-‏🔹مراسم ورود دومین هواپیمای سوخت‌رسان و ترابری «گیدعون» به نیروی هوایی ارتش اسرائیل، روز گذشته (پنج‌شنبه) در پایگاه هوایی نواتیم برگزار شد.
-‏
-‏@mwarmonitor
-16:15
-1405/05/30
-
-
-
-
 src :@OSINTWarfare
 ‏Syrian Foreign Minister Asaad al-Shaibani said Syria is considering joining the Mecca Joint Defense Agreement between Pakistan, Turkey, and Saudi Arabia, but has not yet made a decision.
 16:14
@@ -6809,25 +6801,6 @@ src :@BellumActaNews
 
 
 
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇨🇲 — Cameroon’s President Paul Biya Returns After 73-Day Absence
-‏
-‏Cameroon’s 93-year-old President Paul Biya returned to the capital on Thursday after 73 days abroad, his longest recorded stay outside the country since taking power in 1982.
-‏
-‏The world’s oldest serving head of state arrived at Yaoundé-Nsimalen International Airport on a flight from Geneva, accompanied by First Lady Chantal Biya. He waved to ruling-party supporters from his vehicle as the motorcade headed to the presidential palace.
-‏
-‏His office had described the trip, which began on 7 June, as a “brief private stay in Europe.” The unusually long absence fuelled speculation about his health and drew criticism from opposition figures who said the government had left the country on “autopilot.”
-‏
-‏Biya has ruled Cameroon since 1982 and began his eighth term after winning a disputed election in October 2025.
-‏
-‏The Global Eye | Subscribe ✈️
-00:27
-1405/05/30
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏💢سال 1968 و هلیکوپتر سیکورسکی CH-53A سی‌استالیون در حال یدک کش کردن لندینگ کرفت 17000 تنی! یو‌اس‌اس آستین(LPD-4)
@@ -6837,14 +6810,4 @@ src :@cataphract1
 ‏🖋#Ethan 
 ‏📃@Cataphract1
 00:15
-1405/05/30
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇨🇺 US imposes new sanctions on Cuba.
-‏
-‏@BRICSNews
-00:01
 1405/05/30
