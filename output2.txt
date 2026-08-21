@@ -1018,16 +1018,6 @@ src :@World_Newsly
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی برنامه با کامبیز حسینی | پس از جمهوری اسلامی، با عاملان سرکوب چه می‌کنیم؟
-‏@iranintlTV
-01:49
-1405/05/30
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پس از «دونالد ترامپ» رییس‌جمهور ایالات متحده و «اسکات بسنت» وزیر خرانه‌داری آمریکا، «جی‌دی ونس» معاون اول ریس‌جمهور آمریکا از آغاز «مرحله جدیدی» از جنگ ایالات متحده و ایران خبر داد و گفت: «موثرترین ابزاری که برای اعمال بر حکومت ایران داریم، فشار اقتصادی است.»
@@ -4278,21 +4268,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian
 19:22
-1405/05/29
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏#BREAKING | 🇺🇸 — Up to 319 million SpaceX (SPCX) shares — worth roughly $42–45 billion depending on the prevailing price — become eligible for sale today as the next scheduled tranche of post-IPO lock-up restrictions lifts.
-‏
-‏This is the second major release after the larger ~911.5 million-share unlock on August 6. SpaceX used a staggered schedule rather than a single 180-day cliff. Additional tranches follow in September and October, with a bigger earnings-linked release later in the year. Elon Musk’s shares remain locked until June 2027.
-‏
-‏Unlocks make shares eligible to trade; they do not automatically mean they will be sold. The stock has already absorbed the first large wave without collapsing.
-‏
-‏The Global Eye | Subscribe ✈️
-19:21
 1405/05/29
 
 
