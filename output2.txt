@@ -1,3 +1,27 @@
+src :@P_raetorio
+[عکس]
+‏شرکت امریکایی Tiberius مراحل آزمایش موشک کروز ارزان قیمت Invictus را آغاز کرده است.
+‏
+‏این موشک  دارای موتور رم‌جت(RAE) با سرعت 3 ماخ و برد 200 کیلومتری و سرجنگی 15 کیلوگرم و همچنین قیمت تمام شده این موشک حدود 200 هزار دلار است.
+‏
+‏@P_raetorio
+19:50
+1405/05/31
+
+
+
+
+src :@World_Newsly
+‏🔴ارتش اسرائیل (IDF) دقایقی پیش یک هدف  متعلق به حزب‌الله را در شهر تایبه در جنوب لبنان مورد حمله قرار داد.
+‏
+‏✍🏻 Farah Dokht
+‏@World_Newsly
+19:50
+1405/05/31
+
+
+
+
 src :@USAMRYDATA
 [عکس]
 ‏تام باراک: ۵۷ پیامبر نتوانستند بحران‌های خاورمیانه را حل کنند؛ چگونه انتظار دارید ما در یک‌سال‌ونیم این کار را انجام دهیم؟
@@ -974,23 +998,6 @@ src :@ClashReport
 
 
 
-src :@World_Newsly
-‏🔴پوتین: 
-‏
-‏💢بازار جهانی به دلیل مشکلات مربوط به صادرات اوکراین، با کمبود غلات مواجه نخواهد شد.
-‏
-‏💢 حملات روسیه به زیرساخت‌های اوکراین موثر است و به ارتش کمک می‌کند.
-‏
-‏💢ضدحملات ما بسیار ویرانگرتر از حملاتی است که اوکراین علیه روسیه انجام می‌دهد.
-‏
-‏✍🏻 Farah Dokht
-‏@World_Newsly
-18:38
-1405/05/31
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏The number of active U.S. refueling aircraft near the Strait of Hormuz and those arriving there from Ben Gurion Airport indicates that the United States is trying to move a number of oil tankers through the Omani route in the Strait of Hormuz.
@@ -1120,21 +1127,6 @@ src :@IranintlTV
 ‏جزییات بیشتر
 ‏
 ‏@iranintltvsport
-18:28
-1405/05/31
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iranian MP Ebrahim Rezaei:
-‏
-‏It has been reported that American enemy aircraft and fuel tankers are present at airports in Qatar, Kuwait, the Emirates, and beyond.   
-‏
-‏They have turned their homes into enemy bunkers.   
-‏
-‏They shouldn't complain later.
 18:28
 1405/05/31
 
@@ -2215,24 +2207,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏احمد وحیدی، فرمانده کل سپاه پاسداران، در پیامی به پیمان جبلی، رییس سازمان صدا و سیما، ضمن حمایت از رویکرد این سازمان، نوشت که صدا و سیما در دوره جنگ اخیر، «در ثبت و ماندگار ساختن این حماسه، سهمی ارزشمند در تقویت جبهه رسانه‌ای انقلاب اسلامی بر عهده گرفت.» 
-‏
-‏وحیدی همچنین عملکرد صدا و سیما را «مجاهدت ارزشمند و نقش‌آفرینی موثر» توصیف کرد. 
-‏
-‏این در حالی است که در روزهای اخیر، محمدباقر قالیباف و مسعود پزشکیان صراحتا از عملکرد صدا و سیما انتقاد کرده بودند. 
-‏
-‏محمدباقر قالیباف ۲۷ مردادماه گفته بود که صدا و سیما در زمینه «جنگ شناختی» تاکنون موفقیت‌های لازم را نداشته است. رییس مجلس همچنین گفته بود: «تبیین ناکارآمدی‌های ساختاری، رویکردی و عملکردی صدا و سیما فرصتی مبسوط می‌طلبد.» 
-‏
-‏مسعود پزشکیان نیز در چند نوبت از عملکرد این سازمان انتقاد کرده است. پزشکیان ۱۰ خردادماه گفته بود روایت‌های صدا و سیما از شرایط کشور غیرواقعی است و این رسانه نیازمند بازنگری جدی است.
-‏https://iranintl.com/202608226578
-16:44
-1405/05/31
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇶🇦🇰🇼🇮🇷⚡️ — Qatar has cut government department budgets by as much as 30% and reduced overseas aid funding by roughly 85% as the war with Iran takes a growing toll on the Gulf state’s finances, FT reports.
@@ -3283,17 +3257,6 @@ src :@bricsnews
 
 
 
-src :@P_raetorio
-[عکس]
-‏نیرو زمینی اسرائیل چندین خانه در روستای کفر تبنیت را منفجر کرد.
-‏
-‏@P_raetorio
-14:32
-1405/05/31
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️محمدباقر قالیباف، رئیس مجلس شورای اسلامی در پیامی به زبان انگلیسی در اکس از دریافت پیام‌هایی از کشورهای همسایه درباره شکل‌دهی به ترتیبات جدید امنیتی و همکاری‌های اقتصادی در منطقه خبر داد.
@@ -3741,15 +3704,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 13:30
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏The non-compliant MINOAN vessel, which was targeted on 17 August, has begun leaking large quantities of crude oil in the Strait of Hormuz.
-13:26
 1405/05/31
 
 
@@ -5946,12 +5900,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 19:54
-1405/05/30
-
-
-
-
-src :@rnintel
-‏🇹🇷🇮🇱⚡- BREAKING: Following arrest warrants issued by an Istanbul court, Turkey's Ministry of Justice has requested Interpol Red Notices for Benjamin Netanyahu and Afek Moskovitch over "crimes against humanity" related to the Global Sumud Flotilla.
-19:51
 1405/05/30
