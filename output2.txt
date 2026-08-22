@@ -1,3 +1,40 @@
+src :@didarnews1
+‏🔴رویترز به نقل از یک مقام آمریکایی:
+‏
+‏🔹 در کاخ سفید درباره جنگ با ایران و راه‌حل پایان دادن به بحران آن، اجماع وجود ندارد. 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+11:10
+1405/05/31
+
+
+
+
+src :@MilitarryWorld
+‏🔴سازمان دریانوردی ملل متحد: ۱۹ دریانورد در بحران هرمز کشته شده‌اند
+‏
+‏@MilitarryWorld | Parsa
+11:09
+1405/05/31
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇲🇲 At least 14 people were killed and 20 others wounded after Myanmar’s military (Tatmadaw) carried out an airstrike on a Buddhist monastery in Swel Le Oh village in Sagaing Region, where more than 100 people were taking part in a weeklong meditation retreat. 
+‏
+‏A fighter jet reportedly dropped two bombs on the monastery compound, with the second strike damaging a nearby house. 
+‏
+‏@wfwitness
+11:08
+1405/05/31
+
+
+
+
 src :@defence_news
 [عکس]
 ‏شرکت ایرباس هلیکوپترز، قراردادی به ارزش ۱۱۵.۴ میلیون دلار برای تامین ۱۲ فروند بالگردهای UH-72B لاکوتا برای ارتش ایالات متحده به دست آورد. این پروژه باید تا ۳۱ دسامبر ۲۰۳۰ به پایان برسد.
@@ -2155,16 +2192,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏ترامپ در یک سخنرانی در میرتل بیچ ایالت کارولینای جنوبی گفت: «من در میان جمهوری‌خواهان، بیشترین رای همجنس‌گرایان را در تاریخ سیاست به دست آوردم و سرود ملی همجنس‌گرایان را هم پخش کردم.»
-‏https://iranintl.com/202608225409
-03:40
-1405/05/31
-
-
-
-
 src :@intelslava
 ‏⚡🇷🇺🇺🇦 A new strike on Kiev has begun using ballistic missiles.
 03:37
@@ -2550,21 +2577,6 @@ src :@bricsnews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇨🇴 An alleged member of the Adán Izquierdo dissident group was captured following a clash with Third Brigade troops in Los Ceibos, Palmira, Valle del Cauca department, after the structure attacked the Santa Elena police substation in El Cerrito hours earlier.
-‏
-‏The operation led to the seizure of a rifle fitted with a 60mm grenade launcher, magazines, and ammunition, leaving one non-commissioned officer wounded but out of danger.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-01:06
-1405/05/31
-
-
-
-
 src :@intelslava
 ‏🇺🇸⚡️ — As reported by the Wall Street Journal, US Army Secretary Dan Driscoll is expected to leave his post this year amid a number of disagreements with Secretary of War Pete Hegseth.
 ‏
@@ -2895,16 +2907,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 00:18
-1405/05/31
-
-
-
-
-src :@MilitarryWorld
-‏🔴گزارش ها از شلیک گسترده تانک ها و خودرو های زرهی ارتش اسرائیل در نزدیکی شهر نبطیه، پایتخت حزب‌الله در جنوب لبنان.
-‏
-‏@MilitarryWorld | Parsa
-00:09
 1405/05/31
 
 
@@ -4628,21 +4630,6 @@ src :@Parvazdaroj
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴تیتر رجانیوز:
-‏
-‏ دوگانه سازی موشک و معیشت از ظریف تا قالیباف 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-18:33
-1405/05/30
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏اسرائیل دومین فروند از هواپیمای سوخت رسان KC_46 را در فرودگاه نواتیم تحویل گرفت
@@ -6062,49 +6049,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/05/30/407090/
 11:14
-1405/05/30
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏Takeoff Distance Available ( TODA )
-‏
-‏امروز باهم وارد یکسری توضیحات در مورد مسافت ها برای تیک آف می‌شیم و تعاریف رو طبق ICAO Annex 14 & FAA در کنار پرفورمنس پیش می‌بریم 
-‏
-‏اولین موضوع TORA که مخفف TakeOff Run Available هست ، معنی آن باند در دسترس برای تیک‌آف هست ، طبق انکس ۱۴ طولی از باند که اعلام شده و برای دویدن هواپیما در حال تیک‌آف در دسترس و مناسب است
-‏
-‏موضوع دوم Clearway ( CWY ) هست که به معنی محوطه پاک هست اما چرا پاک ؟ دوباره طبق انکس ۱۴ ، ناحیه مستطیلی و ۳ بُعدی و مشخص در سطح زمین یا آب در انتهای باند در جهت تیک‌آف است ، این ناحیه به عنوان منطقه مناسبی انتخاب یا آماده شده که هواپیما میتواند بخشی از اوجگیری اولیه خود را تا ارتفاع مشخصی در بالای آن انجام دهد.
-‏
-‏ویژگی های آن : از انتهای TORA شروع می‌شود ، حداکثر طول آن نصف TORA است ، عرض آن ۱۵۲ متر ( ۵۰۰ فوت ) در امتداد محور باند ، شیب آن ۱.۲۵ درصد و تنها مانعی که می‌تواند در آن باشد Approach Light ها هستند با ارتفاعی حداکثر به اندازه ۰.۶۶ متر 
-‏
-‏و تعریف سوم ما TODA یا TakeOff Distance Available که فاصله در دسترس برای تیک‌آف هست و به طور خلاصه :
-‏TODA = TORA + Clearway
-‏
-‏نکات تکمیلی : این اعداد به عنوان فاصله های اعلام شده ( Declared Distances ) برای هر جهت باند در نشریات اطلاعات هوانوردی ( AIP ) درج می‌شوند.
-‏
-‏
-‏#ZAE 
-‏#Aviation #TODA
-‏#Annex #Runway 
-‏@Sky_Airlines
-11:10
-1405/05/30
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏
-‏‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠سرکوب حداکثری با اسم رمز «نفوذ»
-‏ 
-‏سرمقاله از روشنک آسترکی
-‏ 
-‏«مقابله با نفوذ سرویس‌های اطلاعاتی دشمن و دولت‌ها یا نهادهای بیگانه در کشور» نام طرحی است که کلیات آن این هفته در مجلس شورای اسلامی به تصویب رسید. این طرح اگر چه ظاهرا علیه «دشمن» تدوین شده اما در عمل شهروندان ایران را به اشکال مختلف هدف سرکوب‌های شدید امنیتی و قضایی قرار می‌دهد.
-‏ 
-‏https://kayhan.london/1405/05/30/407093/
-11:09
 1405/05/30
