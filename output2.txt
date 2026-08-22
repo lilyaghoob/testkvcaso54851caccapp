@@ -1,3 +1,56 @@
+src :@World_Newsly
+[عکس]
+‏🔴محسن رضایی: در جنگ اقتصادی هر خانه یک لانچر است، هر محله یک پایگاه موشکی هست، همه جوانان در اقتصاد مقاومتی برای اقتصاد کشور به میدان می آیند!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+22:51
+1405/05/31
+
+
+
+
+src :@World_Newsly
+‏🔴پولیتیکو: طبق اسناد وزارت دفاع آلمان، این کشور قصد دارد تقریباً 12 میلیارد یورو برای ایجاد یک زرادخانه جدید از موشک‌های دوربرد هزینه کند تا از روسیه بازدارندگی ایجاد کند
+‏
+‏✍🏻 Farah Dokht
+‏@World_Newsly
+22:49
+1405/05/31
+
+
+
+
+src :@mohem_mat
+‏محسن رضایی اعلام کرد 
+‏
+‏در صورتی که کشورهای همسایه در جنگ اقتصادی علیه ایران مشارکت کنند، اجازه خروج حتی یک قطره نفت از تنگه هرمز داده نخواهد شد.
+‏
+‏ترامپ می‌خواهد بازی جدیدی به‌نام جنگ اقتصادی راه بیندازد که حسابش را خواهیم رسید
+‏‎
+‏‏ ما هر روز به اندازۀ تولیدمان آن‌طرف ناوهای آمریکا نفت می‌فروشیم
+‏
+‏‏ترامپ به اسم عملیات آزادی ۳ ناوچه به‌سوی تنگۀ هرمز روانه کرد و وقتی هر ۳ ناوچه را زدیم، او ۴۸ ساعت بعد گفت عملیات را متوقف کرده‌ام
+‏
+‏‎@mohem_mat
+22:48
+1405/05/31
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴ما از خاک ایران دفاع خواهیم کرد و نمی گذاریم آمریکایی ها وارد ایران شوند. به آمریکایی ها می گوییم دیگر نیرو اعزام نکنند، چون آنها را میزنیم!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+22:47
+1405/05/31
+
+
+
+
 src :@MilitarryWorld
 ‏🔴محسن رضایی خطاب به آمریکایی‌ها: اگر در منطقه نیرو اضافه کنید آن‌پایگاه رو می‌زنیم
 ‏
@@ -1562,17 +1615,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏Israel's Gadi Eisenkot:
-‏
-‏There is no Palestinian state, and in the government we will form, no Palestinian state will arise.
-20:34
-1405/05/31
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏ناوهواپیمابر آبراهام لینکلن پس ۲۷۴ روز خاورمیانه را به سمت آمریکا ترک کرد ، این مدت احتمالا در زمان رسیدن به بندر ، به بیش از ۳۰۰ روز نیز برسد که پس از فورد یکی از طولانی ترین استقرار های دریایی ناوهواپیمابر پس از ویتنام را رقم زده است 
@@ -2188,25 +2230,6 @@ src :@naya_foriraq
 src :@naya_foriraq
 ‏انفجار عبوة ناسفة في ريف دمشق
 19:35
-1405/05/31
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Axios reporter Barak Ravid claims 40 tankers moved through the Strait of Hormuz on Friday night carrying roughly 16 million barrels of oil, citing three US officials.
-‏
-‏Open-source tracking data contradicts this. 
-‏
-‏Kpler showed only 7 visible ships on Thursday, with critics noting "zero west-to-east tanker crossings and zero barrels of oil exiting on Friday" in satellite-enhanced data. 
-‏
-‏16 million barrels would require multiple fully loaded supertankers, hard to reconcile with recent single-digit visible traffic.
-‏
-‏The US says protected convoys transit at night with tracking systems off. 
-‏
-‏Dark transits are real and documented, but no independent source has corroborated the specific volumes claimed.
-19:34
 1405/05/31
 
 
@@ -3643,45 +3666,6 @@ src :@samueltarikh
 src :@samueltarikh
 ‏⭕️آمریکا و کانادا نتوانستند به یک توافق تجاری دست پیدا کنند و آمریکا تعرفه های ۵۰ درصدی به برخی از کالاهای وارداتی از طرف کانادا را اعمال خواهد کرد که این موضوع باعث تشدید تنش بین دو کشور شده و کانادا با ترک مذاکرات اعلام کرد وضعیت آن به حالت تعلیق درآمده است!
 16:29
-1405/05/31
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏آیا تحریم‌های ثانویه ترامپ به فروپاشی ایران می‌انجامد؟
-‏تحلیلگران نشریه اسرائیل هیوم در پاسخ می‌گویند خیر! راز تاب‌آوری، یک «اقتصاد موازی و ضدتحریم» است که هسته قدرت را از بحران اقتصاد مدنی مصون می‌کند.
-‏فروپاشی مستلزم قطع کامل نفت، فلج تجاری و شکاف درونی حاکمیت است، نه صرفاً تورم.
-‏
-‏🔗 hassan hamzeh (@hamzeh_ir) 
-‏
-‏ @mohem_mat
-16:27
-1405/05/31
-
-
-
-
-src :@mohem_mat
-‏از حدود ۱۰ روز دیگه با نفوذ تاوه و جریانهای شمالی و عقب روندن جنب حاره‌ای، هوای خنکی تو کشور حاکم میشه و کاهش محسوس دما رو داریم به نظر دیگه بعدشم گرمای شدیدی نخواهیم داشت و کمر تابستون و گرماش هم میشکنه
-‏
-‏🔗 🌳 Hadi (@hadinik) 
-‏
-‏ @mohem_mat
-16:26
-1405/05/31
-
-
-
-
-src :@mohem_mat
-‏کشورهای حوزه خلیج فارس را تهدید می‌کنند که اگر بخواهید با ساخت خط لوله، تنگه هرمز را دور بزنید یعنی در پازل آمریکا هستید و هدف مشروع خواهید بود. در حالی که ایران اولین کشوری بود که خودش با ساخت خط لوله گوره – جاسک، تنگه هرمز را  دور زد!
-‏
-‏وحید حاجی‌‌پور (@vahidhajipour1)
-‏
-‏ @mohem_mat
-16:26
 1405/05/31
 
 
