@@ -1,3 +1,51 @@
+src :@Ali_bk_2
+[عکس]
+‏An oil tanker has remained stationary near the Strait of Hormuz for the past two hours, while AIS data shows it is at anchor after turning back while departing the UAE.
+00:39
+1405/06/01
+
+
+
+
+src :@Alibk3
+[عکس]
+‏ناقلة نفط لم تتحرك قرب مضيق هرمز خلال الساعتين الماضيتين، فيما تُظهر بيانات AIS أنها في وضع الإرساء بعد أن عكست مسارها أثناء مغادرتها الإمارات
+00:39
+1405/06/01
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏الاعلام الغربي: ‏هناك أمر غريب يحدث مع ناقلة النفط "نيو فويج". لم تتحرك بالقرب من مضيق هرمز خلال الساعتين الماضيتين. ويشير موقعها عبر نظام التعرف الآلي (AIS) إلى أنها راسية. كانت متجهة من الإمارات العربية المتحدة، والآن عادت أدراجها دون أن تتحرك.
+00:39
+1405/06/01
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇰🇪🇸🇴⚡- Al-Shabaab launched a cross-border attack on a Kenyan military base in Mangai, northeast Kenya, at -1.7477909, 41.1778682. 
+‏
+‏The attack was repelled but left two Kenyan soldiers dead. Al-Shabaab continues to operate almost entirely freely in the Boni forest region.
+00:38
+1405/06/01
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇹🇷 — Israel assesses that the escalation with Turkey has been contained.
+‏
+‏— Israel Hayom | @TheWarReporter
+00:38
+1405/06/01
+
+
+
+
 src :@samueltarikh
 ‏🔴پولیتیکو: طبق اسناد وزارت دفاع آلمان، این کشور قصد دارد تقریباً 12 میلیارد یورو برای ایجاد یک زرادخانه جدید از موشک‌های دوربرد هزینه کند تا از روسیه بازدارندگی ایجاد کند
 00:36
@@ -3224,15 +3272,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏عدد طائرات التزويد بالوقود الأمريكية النشطة بالقرب من مضيق هرمز والقادمة من مطار بن غوريون، يدل على أن الولايات المتحدة تحاول تمرير أعداد من ناقلات النفط عبر الممر العماني في مضيق هرمز.
-19:11
-1405/05/31
-
-
-
-
 src :@P_raetorio
 ‏«روز گذشته در یک عملیات نسباتا بزرگ حدود 40 نفتکش معادل 16 میلیون بشکه نفت با کمک ارتش آمریکا از تنگه هرمز عبور کردند،همچنین 7 میلیون بشکه نفت از طریق خط لوله در کشور‌های منطقه صادر شده است»
 ‏
@@ -3309,14 +3348,6 @@ src :@WAR_ROOM_NEWS
 src :@defence_news
 ‏https://t.me/Minas_Tirith2024/14174
 19:07
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-‏Occupation Army Minister Katz:  The army was the one that recommended several times targeting Syria’s Abu al-Duhur military airbase, in light of the clear intelligence it received regarding Turkey’s intention to conduct activities there that would endanger…
-19:06
 1405/05/31
 
 
@@ -4444,15 +4475,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 15:17
-1405/05/31
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏⭐️تمهيداً لمعركة كبيرة في حال لم يسلم لاهور نفسه.. نقل دبابات الى محيط فندق لالازار بمحافظة السليمانية مكان تواجد لاهور شيخ جنكي.  انتقال تانک به اطراف هتل لاله‌زار در السلیمانیه که "لاهور شیخ جنکی" در آن حضور دارد.
-15:13
 1405/05/31
 
 
@@ -5876,39 +5898,4 @@ src :@OSINTWarfare
 ‏
 ‏If the target is not destroyed, the interceptor can return to the launch area for reuse. It can carry high-explosive fragmentation, shaped-charge, or thermobaric warheads. Its combination of high maximum speed and relatively low minimum speed allows it to quickly reach targets while conserving fuel.
 00:51
-1405/05/31
-
-
-
-
-src :@samueltarikh
-‏گزارش ها از شلیک گسترده تانک ها و خودرو های زرهی ارتش اسرائیل در نزدیکی شهر نبطیه، پایتخت حزب‌الله در جنوب لبنان.
-00:38
-1405/05/31
-
-
-
-
-src :@samueltarikh
-‏⭕️گزارشگر: آیا تغییر ایران به جنگ اقتصادی به این معناست که گزینه‌های نظامی ایالات متحده محدود شده‌اند؟
-‏
-‏ترامپ: نه، به هیچ وجه.
-00:38
-1405/05/31
-
-
-
-
-src :@OSINTWarfare
-‏A U.S. Air Force F-35A Multirole Fighter declared an in-flight emergency while flying over the United Arab Emirates, squawking the international emergency transponder code 7700.
-00:38
-1405/05/31
-
-
-
-
-src :@samueltarikh
-‏خبرگزاری بین المللی وابسته به سپاه:
-‏ممکن است به زودی اتفاقات بسیار جالبی در رابطه با پایبندی ایران به پیمان منع گسترش سلاح‌های هسته‌ای (NPT) رخ دهد.
-00:37
 1405/05/31
