@@ -1,3 +1,41 @@
+src :@ClashReport
+[عکس]
+‏Iran’s Secretary of the Supreme National Security Council, Mohsen Rezai:
+‏
+‏The Americans have completely lost hope in military attacks and now imagine that an economic blockade can support their military efforts.
+‏
+‏Netanyahu has promised Trump that if Iran is placed under an economic blockade for six months—or even two or three months—it will surrender.
+‏
+‏The world has realized that Trump’s bluster is empty talk.
+‏
+‏Iran has learned over the years how to overcome sanctions and continue selling oil.
+22:25
+1405/05/31
+
+
+
+
+src :@World_Newsly
+[عکس]
+‏🔴نوری همدانی، مرجع تقلید شیعه: دشمن دندان تیز کرده و با همه توان برای مقابله با جمهوری اسلامی به میدان آمده. استقامت در برابر دشمن و پاسخ قاطع به تجاوز آن از واحب ترین امور است!
+‏
+‏✍🏻 Desert Eagle
+‏▪️@World_Newsly
+22:25
+1405/05/31
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸⚡️ — Iran’s Secretary of the Supreme National Security Council, Mohsen Rezaei: Trump’s foolish decision to attack Iran has increased people’s desire around the world to acquire nuclear weapons, especially after they saw that membership in the IAEA and…
+22:23
+1405/05/31
+
+
+
+
 src :@defence_news
 ‏الکسی لیخاچف، مدیرعامل شرکت دولتی روساتوم، تأیید کرد که این شرکت روسی، متخصصان خود را به نیروگاه هسته‌ای بوشهر در ایران باز می‌گرداند.
 ‏
@@ -1092,18 +1130,6 @@ src :@Indypersian
 
 
 
-src :@World_Newsly
-‏🔴مرندی: 
-‏اگر رژیم نتانیاهو احمقانه به ترکیه حمله کند، ایران بیکار نخواهد نشست.
-‏
-‏✍🏻 Farah Dokht
-‏@World_Newsly
-21:00
-1405/05/31
-
-
-
-
 src :@mwarmonitor
 ‏🔴‏نتانیاهو: یک کشور فلسطینی که تحت کنترل ایران باشد، نه در غزه و نه در کرانه باختری، ایجاد نخواهد شد.
 ‏
@@ -1154,7 +1180,7 @@ src :@mohem_mat
 
 
 src :@naya_foriraq
-‏🇮🇱‏نتنياهو:  لن تقوم دولة فلسطينية تسيطر عليها إيران لا في غزة ولا في الضفة.
+‏🇮🇱‏نتنياهو: لن تقوم دولة فلسطينية تسيطر عليها إيران لا في غزة ولا في الضفة.
 20:53
 1405/05/31
 
@@ -1299,17 +1325,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔️‌@WAR_ROOM_NEWS
 20:39
-1405/05/31
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇸🇾⚡️ — An explosive device targeted a bus carrying Internal Security Forces personnel on the Ma’arouna-Tall road in the Damascus countryside, injuring several members of the force, SANA reports. 
-‏
-‏The number and severity of the injuries were not disclosed, and no group has claimed responsibility.
-20:38
 1405/05/31
 
 
@@ -1969,18 +1984,6 @@ src :@naya_foriraq
 
 
 
-src :@IranintlTV
-[عکس]
-‏محمدرضا عارف، معاون اول مسعود پزشکیان، در شبکه ایکس نوشت: «دولت اجازه نخواهد داد تروریسم اقتصادی آمریکا، ثبات اقتصادی و معیشت مردم را هدف قرار دهد.»
-‏
-‏عارف اضافه کرد: «تجربه انقلاب اسلامی نشان داده که فشار اقتصادی قادر به تغییر اراده ملت ایران نیست و نتیجه عکس می‌دهد.»
-‏https://iranintl.com/202608221153
-19:35
-1405/05/31
-
-
-
-
 src :@naya_foriraq
 ‏انفجار عبوة ناسفة في ريف دمشق
 19:35
@@ -2360,15 +2363,6 @@ src :@defence_news
 
 src :@Ali_bk_2
 ‏Occupation Army Minister Katz:  The army was the one that recommended several times targeting Syria’s Abu al-Duhur military airbase, in light of the clear intelligence it received regarding Turkey’s intention to conduct activities there that would endanger…
-19:06
-1405/05/31
-
-
-
-
-src :@ClashReport
-[عکس]
-‏U.S. Health Secretary Robert F. Kennedy Jr. launched a national initiative to improve responses when autistic people are reported missing.
 19:06
 1405/05/31
 
@@ -2997,16 +2991,6 @@ src :@intelslava
 ‏🇷🇺🇮🇷⚡️ — Russian soldiers in Donetsk with a flag bearing the portrait of late Iranian Major General Qassem Soleimani.
 ‏
 ‏@IntelSlava
-17:22
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-‏Axios, citing U.S. officials, claims:
-‏
-‏About 40 oil tankers crossed the Strait of Hormuz to and from the Omani-American route on Friday night. About 16 million barrels.
 17:22
 1405/05/31
 
@@ -6039,14 +6023,4 @@ src :@OSINTWarfare
 [عکس]
 ‏The U.S. State Department approved a potential $364 million Foreign Military Sale (FMS) to Italy for 5,031 Advanced Precision Kill Weapon System II (APKWS II) guidance kits.
 22:46
-1405/05/30
-
-
-
-
-src :@samueltarikh
-‏⭕️مدیرعامل شرکت نفت ستاره خلیج فارس: 
-‏
-‏استفاده از متانول در سوخت در کشورهایی مانند چین، آمریکا و اروپا تجربه شده و این ترکیب هیچ آسیبی به خودرو وارد نمی‌کند و قرار است این ترکیب در ایران نیز انجام شود
-22:26
 1405/05/30
