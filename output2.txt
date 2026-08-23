@@ -968,15 +968,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇾🇮🇱⚡️ — Syrian Foreign Minister Asaad al-Shaibani met Mossad chief Roman Gofman in Jordan earlier today in an attempt to ease tensions following Israel’s recent strike on Syria’s Abu al-Duhur Air Base, according to Axios.
-18:36
-1405/06/01
-
-
-
-
 src :@mwarmonitor
 ‏🔴فرستاده ویژه آمریکا، تام باراک، مطرح کرد که حمله اسرائیل به یک پایگاه هوایی در سوریه ممکن است با هدف تحریک ترکیه و کشاندن آن به یک درگیری، پیش از انتخابات اسرائیل، انجام شده باشد.
 ‏
@@ -1208,22 +1199,6 @@ src :@World_Newsly
 ‏
 ‏‌‌‌✍🏻 𝑫𝒂𝒏𝒈𝒆𝒓𝒎𝒂𝒏
 ‏▪️ @World_Newsly
-18:23
-1405/06/01
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iranian Parliament Speaker Ghalibaf:
-‏Importing frozen meat to fix meat prices. Okay, that might work.  
-‏
-‏What’s the plan for bonds, import frozen yields? Frozen homebuyers for housing? Frozen paychecks for wages?   
-‏
-‏A frozen foreign policy delivers a frozen economy. 
-‏
-‏The only thing still moving? The Iran boomerang.
 18:23
 1405/06/01
 
