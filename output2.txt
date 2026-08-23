@@ -1,3 +1,57 @@
+src :@tabzlive
+[عکس]
+‏🇮🇷⚡️ — Iranian President Masoud Pezeshkian:
+‏We will continue working to increase gasoline production while distributing fuel in line with the amount we produce. 
+‏
+‏As before, our people will understand the circumstances and cooperate, but efforts to conserve fuel must begin with us in the government and government institutions.
+‏
+‏Plans should be developed to reduce the use of government vehicles, cut fuel consumption across state institutions, and decrease unnecessary vehicle journeys.
+19:36
+1405/06/01
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Russia is reportedly escalating a covert sabotage campaign against European defence factories supplying Ukraine. 
+‏
+‏Western intelligence says the Kremlin increasingly uses local criminals recruited online and paid in cryptocurrency, giving Moscow plausible deniability while keeping attacks below NATO’s Article 5 threshold.
+‏
+‏Recent fires and explosions in Estonia, Bulgaria, Italy, the Czech Republic and Lithuania are being investigated, though Russian involvement has not been proven in every case.
+‏
+‏Source: The Telegraph
+19:35
+1405/06/01
+
+
+
+
+src :@mohem_mat
+‏دولت مخالفت خود با طرح «مقابله با نفود» را تصویب کرد
+‏
+‏ به گزارش جماران، در جلسه امروز هیئت دولت بحث تعیین نماینده و نظر دولت در خصوص گزارش کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی درباره «طرح مقابله با نفوذ سرویس‌های اطلاعاتی و دولت‌ها یا نهادهای بیگانه» در کشور به بحث گذاشته شد و به دلیل ایرادات جدی، از جمله محدودیت‌های علمی و تشدید و تسریع مهاجرت نخبگان و بازتاب ناخوشایند آن در سطح ملی و بین‌المللی، هیئت وزیران مخالفت خود با آن را تصویب کرد.
+‏
+‏@jamarannews
+19:35
+1405/06/01
+
+
+
+
+src :@MilitarryWorld
+‏🔴سخنگوی کمیسیون امنیت ملی:
+‏ دریافت هزینه خدمات از کشتی‌های عبوری از تنگه هرمز تصویب شد 
+‏
+‏این هزینه‌ها از کشتی‌ها به ریال یا هر ارز دیگری که مورد نظر ایران باشد، دریافت خواهد شد
+‏
+‏@MilitarryWorld | Parsa
+19:34
+1405/06/01
+
+
+
+
 src :@ircfspace
 [عکس]
 ‏رئیس پلیس امنیت اقتصادی فراجا از کشف ۹۹۷ دستگاه ماهواره استارلینگ در ۴ ماه نخست امسال خبر داد و گفت: در این رابطه ۱۶۳ نفر دستگیر و ۱۵ دستگاه خودروی حامل تجهیزات استارلینک توقیف شده است. /ایرنا
@@ -136,7 +190,7 @@ src :@tabzlive
 [عکس]
 ‏🇷🇺🇪🇺⚡️ — Russia has launched a "fresh" sabotage campaign against European defense manufacturers, using local criminals to maintain plausible deniability and avoid provoking a direct NATO response, according to The Telegraph, citing Western intelligence sources.
 ‏
-‏Recent incidents include suspected arson at Estonia’s Milrem Robotics, which supplies military systems to Ukraine, as well as recent explosions and fires at defense facilities in Bulgaria, Italy, and the Czech Republic. 
+‏Recent incidents include suspected arson at Estonia’s Milrem Robotics, which supplies military systems to Ukraine, as well as recent explosions and fires at defense facilities in Bulgaria, Italy, and the Czech Republic. Russian involvement has not been proven in every case.
 ‏
 ‏Several other suspected sabotage plots targeting Ukraine-linked military supply chains have also been uncovered across Europe.
 ‏
@@ -1964,14 +2018,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Ansarallah-ran Saba News Agency, citing an Ansarallah military source, reports Ansarallah air defenses shot down a Royal Saudi Land Forces MQ-27 ScanEagle reconnaissance UAV above Hajjah Governorate, Ansarallah-controlled northwestern Yemen.
-17:16
-1405/06/01
-
-
-
-
 src :@wfwitness
 ‏⚡️🇺🇸🇷🇺🇺🇦 TASS: The planned visit of US special envoy Steve Witkoff and senior White House adviser Jared Kushner to Kyiv and Moscow has been postponed.
 ‏
@@ -3217,16 +3263,6 @@ src :@GeoPWatch
 
 
 
-src :@MilitarryWorld
-‏🔴وزیر نفت: برای قیمت بنزین تصمیمی گرفته نشده است
-‏
-‏@MilitarryWorld | Parsa
-14:17
-1405/06/01
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻پزشک اهل اوهایو در قتل طراحی‌شده توسط دختر نوجوانش کشته شد
@@ -3910,23 +3946,6 @@ src :@Artemis_Force
 ‏
 ‏@PARVAZDAROJ|M.S
 12:02
-1405/06/01
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iran-linked hackers forced a small British energy generator offline for 4 days in July in what is believed to be the first known cyberattack to successfully shut down a UK electricity-generating facility, intensifying concern over Tehran-linked operations against Western infrastructure. 
-‏
-‏The British government has confirmed that a cyber incident affected a small-scale generator but has withheld its identity and location on security grounds, stressing that the site was not classified as critical infrastructure and that the outage posed no threat to the national grid or wider electricity supply. 
-‏
-‏The National Cyber Security Centre was notified of the breach, while the Department for Energy Security and Net Zero subsequently contacted power companies with cyber-security guidance. British authorities have not publicly released the technical method used in the intrusion or formally identified the specific hacking group responsible, making the reported Iranian attribution more definitive in media accounts than in the government’s public statements. 
-‏
-‏The incident occurred amid a broader surge in attacks on industrial-control systems and shortly after disruptive cyber incidents struck water facilities across multiple U.S. states, where Iranian involvement has also been suspected but not conclusively attributed by U.S. authorities.
-‏
-‏The case is particularly significant because the attackers appear to have crossed the threshold from merely penetrating an energy network to causing a sustained physical operational shutdown, illustrating the growing capacity of state-linked cyber actors to translate access to digital systems into disruption of real-world infrastructure.
-12:00
 1405/06/01
 
 
