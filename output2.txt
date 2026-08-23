@@ -554,15 +554,6 @@ src :@cataphract1
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏A U.S. E-3 early warning aircraft is patrolling near Saudi oil infrastructure.
-02:42
-1405/06/01
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏طائرة الإنذار المبكر E-3 الأميركية تقوم بدوريات بالقرب من البنية التحتية النفطية السعودية.
@@ -1264,15 +1255,6 @@ src :@World_Newsly
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏An oil tanker has remained stationary near the Strait of Hormuz for the past two hours, while AIS data shows it is at anchor after turning back while departing the UAE.
-00:39
-1405/06/01
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏ناقلة نفط لم تتحرك قرب مضيق هرمز خلال الساعتين الماضيتين، فيما تُظهر بيانات AIS أنها في وضع الإرساء بعد أن عكست مسارها أثناء مغادرتها الإمارات
@@ -1339,34 +1321,12 @@ src :@naya_foriraq
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Trump circles the Strait of Hormuz and captions it:
-‏
-‏New American territory.
-00:34
-1405/06/01
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏ترامب يضع دائرة حول مضيق هرمز، ويعلّق عليها:
 ‏
 ‏أرض أميركية جديدة.
 00:34
-1405/06/01
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏NBC:
-‏
-‏The war with Iran is pushing global trade to seek alternative and more dangerous routes, with growing interest in the Arctic route as an alternative to traditional maritime corridors.
-00:30
 1405/06/01
 
 
@@ -1833,20 +1793,6 @@ src :@mohem_mat
 ‏
 ‏@KhabarOnline_ir
 23:41
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Senior Zionist intelligence official:
-‏
-‏Unless Israel draws clear red lines in Syria and the Mediterranean, the Turkish army and navy will make further incursions into Israel’s northern and maritime borders.
-‏
-‏Israel may find itself facing Turkish tanks in the Golan Heights and Turkish warships off the coast of Caesarea.
-‏﻿
-23:40
 1405/05/31
 
 
@@ -2585,15 +2531,6 @@ src :@BellumActaNews
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Axios, citing U.S. officials, claims:  About 40 oil tankers crossed the Strait of Hormuz to and from the Omani-American route on Friday night. About 16 million barrels.
-22:07
-1405/05/31
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏أكسيوس عن مسؤولين أميركيين تزعم:  عبرت نحو 40 ناقلة نفط مضيق هرمز من وإلى المسار العُماني الأميركي ليلة الجمعة. نحو 16 مليون برميل.
@@ -2849,28 +2786,10 @@ src :@Parvazdaroj
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏An airstrike targeted the town of Sarbin in southern Lebanon.
-21:43
-1405/05/31
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏غارة استهدفت بلدة صربين جنوب لبنان
 21:43
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏An airstrike targeted the town of Sarbin in southern Lebanon.
-21:42
 1405/05/31
 
 
@@ -2898,15 +2817,6 @@ src :@naya_foriraq
 [عکس]
 ‏🇮🇱🇱🇧غارات اسرائيلية على الجنوب اللبناني.
 21:42
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Iranian anti-ship missiles launched at violating vessels in the Strait of Hormuz, with explosions heard.
-21:41
 1405/05/31
 
 
@@ -3018,24 +2928,8 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Ali_bk_2
-‏Explosions in the Strait of Hormuz
-21:26
-1405/05/31
-
-
-
-
 src :@Alibk3
 ‏انفجارات في مضيق هرمز
-21:26
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-‏Explosions in the Strait of Hormuz
 21:26
 1405/05/31
 
@@ -3163,16 +3057,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 20:58
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-‏Netanyahu:
-‏
-‏There will be no Palestinian state controlled by Iran, neither in Gaza nor in the West Bank.
-20:54
 1405/05/31
 
 
@@ -3326,15 +3210,6 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #a_m
 20:32
-1405/05/31
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏4 U.S. refueling aircraft are flying near the Strait of Hormuz, while a P-8 is patrolling along the coasts of Oman and Yemen.
-20:31
 1405/05/31
 
 
@@ -5871,17 +5746,4 @@ src :@Minas_Tirith2024
 src :@RASTAKHIZ_PERSIAN
 ‏RASTAKHIZ pinned Deleted message
 08:00
-1405/05/31
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING
-‏⚡️🇺🇸🇨🇦 – Trade talks between the U.S. and Canada collapsed after Canadian PM Mark Carney withdrew from the negotiations, triggering 50% tariffs set by the Trump administration.
-‏
-‏Carney said those tariffs will be matched dollar for dollar.
-‏
-‏@GeoPWatch
-07:27
 1405/05/31
