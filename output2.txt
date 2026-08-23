@@ -1,3 +1,48 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — House Democratic leader Hakeem Jeffries and Trump's son-in-law Jared Kushner held a private meeting in New York to discuss potential areas of cooperation between Democrats and the administration if Democrats win the House, NYT reports.
+‏
+‏The meeting was described as a broad discussion and a catch-up between Jeffries and Kushner, who have remained in contact since working together on criminal justice legislation during Trump’s first term.
+15:46
+1405/06/01
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Israel carried out a targeted attack on a vehicle on Salah al-Din Road, near the entrance to the Al-Maghazi camp in central Gaza.
+‏
+‏Ismail Abu Al-Foul (photo), a resident of northern Gaza, was killed and several others were wounded in a strike.
+15:45
+1405/06/01
+
+
+
+
+src :@ClashReport
+‏Hakeem Jeffries and Jared Kushner held a private meeting to discuss possible cooperation between Democrats and the Trump administration if Democrats win the House. 
+‏
+‏The meeting suggests Trump’s allies are preparing for a possible Democratic House majority, where Jeffries could become speaker.
+‏
+‏Source: NYT
+15:43
+1405/06/01
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏ارتش آمریکا در جریان رزمایش Project Sandhills 2.0 در فورت براگ، از پهپادهای رهگیر FPV مدل Bumblebee V2 رونمایی کرد که مستقیماً از یک کانتینر پرتاب موسوم به «Bee Hive Payload» نصب‌شده روی تریلر، به پرواز درمی‌آیند.این سامانه به‌عنوان یک محفظه متحرک نگهداری و پرتاب سریع عمل می‌کند و امکان ذخیره‌سازی، آماده‌سازی و پرتاب سریع چندین پهپاد رهگیر کم‌هزینه را برای مقابله با تهدیدات پهپادی فراهم می‌سازد
+‏
+‏🆔@WAR_ROOM_NEWS
+15:43
+1405/06/01
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏🔻خواهر جاویدنام احمد خسروانی با انتشار یک استوری در صفحه شخصی خود، تصویری از پیام قدیمی برادرش درباره موفقیت او در رده‌های پایه بسکتبال منتشر کرد و با اشاره به توانایی‌های ورزشی احمد، از سرنوشت او نوشت: «سهمش از این همه استعداد و تلاش، فقط یک گلوله بود.»
@@ -2326,21 +2371,6 @@ src :@guard_warriors
 
 
 
-src :@ClashReport
-[عکس]
-‏Zelensky says Russia still has roughly 600–630 ballistic missiles and could produce up to 1,300 a year, calling the ballistic threat a key priority for Ukrainian strikes and sanctions.
-‏
-‏He also said Ukraine recently destroyed an Iskander launcher near the border as part of an ongoing “hunt” for Russian missile systems.
-‏
-‏On the ground war, Zelensky warned Russia could eventually try to push toward Kyiv or Chernihiv oblasts to create a “buffer zone,” while stressing that Kyiv remains one of Putin’s long-term objectives.
-‏
-‏On Mykhailo Fedorov, Zelensky said he was offered “four different options” to remain on the team but refused them, adding that Fedorov had been “pushed towards the wrong things.”
-12:08
-1405/06/01
-
-
-
-
 src :@MilitarryWorld
 ‏🔴دلار به ۱۹۸ هزارتومن رسید
 ‏
@@ -3009,17 +3039,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 11:03
-1405/06/01
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇦❌🇷🇺 — Overnight, Ukrainian forces attacked a logistics centre in Kolpino, St. Petersburg.
-‏
-‏According to Russia’s Emergencies Ministry, a fire broke out across 82,000 m² of the 680×120 m warehouse. NASA’s FIRMS also shows large fire hotspots at the complex.
-11:00
 1405/06/01
 
 
@@ -4364,24 +4383,6 @@ src :@rnintel
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏An oil tanker has remained stationary near the Strait of Hormuz for the past two hours, while AIS data shows it is at anchor after turning back while departing the UAE.
-00:39
-1405/06/01
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ناقلة نفط لم تتحرك قرب مضيق هرمز خلال الساعتين الماضيتين، فيما تُظهر بيانات AIS أنها في وضع الإرساء بعد أن عكست مسارها أثناء مغادرتها الإمارات
-00:39
-1405/06/01
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏الاعلام الغربي: ‏هناك أمر غريب يحدث مع ناقلة النفط "نيو فويج". لم تتحرك بالقرب من مضيق هرمز خلال الساعتين الماضيتين. ويشير موقعها عبر نظام التعرف الآلي (AIS) إلى أنها راسية. كانت متجهة من الإمارات العربية المتحدة، والآن عادت أدراجها دون أن تتحرك.
@@ -4415,28 +4416,6 @@ src :@thewarreporter
 src :@samueltarikh
 ‏🔴پولیتیکو: طبق اسناد وزارت دفاع آلمان، این کشور قصد دارد تقریباً 12 میلیارد یورو برای ایجاد یک زرادخانه جدید از موشک‌های دوربرد هزینه کند تا از روسیه بازدارندگی ایجاد کند
 00:36
-1405/06/01
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Trump circles the Strait of Hormuz and captions it:
-‏
-‏New American territory.
-00:34
-1405/06/01
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ترامب يضع دائرة حول مضيق هرمز، ويعلّق عليها:
-‏
-‏أرض أميركية جديدة.
-00:34
 1405/06/01
 
 
@@ -4902,15 +4881,6 @@ src :@intelslava
 ‏
 ‏Even more ambitious are the German-British future projects: together, the two countries are developing a new high-performance cruise missile, as well as a hypersonic glide vehicle (a special warhead for missiles). This weaponry is to become part of the so-called "Trinity House" agreement. Both governments have already publicly stated that the new systems must be capable of striking targets at a range of over 2,000 km.
 22:15
-1405/05/31
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏حملات جنگنده‌های اسرائیلی به مواضع حزب الله در مناطق صور و المنصوری در جنوب لبنان
-22:07
 1405/05/31
 
 
