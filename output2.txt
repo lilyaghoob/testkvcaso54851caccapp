@@ -1,3 +1,12 @@
+src :@naya_foriraq
+[عکس]
+‏اربيل امن وامان
+01:49
+1405/06/02
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇰🇵🇷🇺🇺🇦 Yonhap: South Korea’s military says it has not detected signs that North Korea is preparing to imminently send additional troops to Russia, although preparations for a possible deployment are continuing. 
@@ -461,14 +470,6 @@ src :@samueltarikh
 
 
 
-src :@naya_foriraq
-‏🇮🇶تحشيدات عسكرية ضخمه تابعة للبيشمركة تتجه لقضاء خبات لمواجهة الهركية.
-00:44
-1405/06/02
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 00:41
@@ -480,15 +481,6 @@ src :@Ali_bk_2
 src :@Alibk3
 [عکس]
 ‏أربع ناقلات نفط سعودية فارغة إضافية غادرت خليج عمان متجهة إلى موانئ سعودية في البحر الأحمر، عبر طريق يلتف حول أفريقيا، بسبب هجمات القوات اليمنية.
-00:41
-1405/06/02
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺🇺🇦⚡️ — Footage shows Russian forces shooting down a Ukrainian FP-5 Flamingo cruise missile with machine-gun fire over Kursk Oblast.  The debris shown afterward confirm that the missile was successfully brought down.  The interception occurred at an altitude…
 00:41
 1405/06/02
 
@@ -817,16 +809,6 @@ src :@tglobaleye
 
 
 
-src :@intelslava
-‏🇮🇱❌🇵🇸 — Israeli artillery is shelling the northeastern part of the Al-Bureij refugee camp in the central Gaza Strip.
-‏
-‏@IntelSlava
-00:02
-1405/06/02
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴نیویورک پست: رهبران ارشد غیرنظامی ایران برای دستیابی به توافق با ترامپ و پایان دادن به جنگ فشار می‌آورند
@@ -951,17 +933,6 @@ src :@MilitarryWorld
 
 
 
-src :@intelslava
-‏🇮🇷⚡️ — The Persian Gulf Strait Authority (PSGA) announced that vessels violating Iran’s rules for transiting the Strait of Hormuz will be placed on a “non-compliance” list.
-‏Such vessels will be denied permission to transit the strait in the future and could face fines, seizure, or confiscation by the IRGC.
-‏
-‏@IntelSlava
-23:50
-1405/06/01
-
-
-
-
 src :@jangaavaran1390
 ‏پهپادهای چینی به گروه‌های جنایی در جنوب اسرائیل قاچاق می‌شوند
 ‏
@@ -1042,18 +1013,6 @@ src :@cataphract1
 ‏کانال اطلاع‌رسانی
 ‏
 ‏• @l33tnetwork
-23:46
-1405/06/01
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦🇩🇪⚡️ — Ukraine has never been involved in operations related to the sabotage of Nord Stream 2, Zelensky stated.
-‏
-‏He noted that the investigation is ongoing, and that citizens of Ukraine are among those implicated in the case. According to him, Kyiv is ready to cooperate with the investigation, and the Prosecutor General's Office and the Ministry of Foreign Affairs are maintaining constant contact with the German side.
-‏
-‏@IntelSlava
 23:46
 1405/06/01
 
@@ -1153,35 +1112,6 @@ src :@Minas_Tirith2024
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 23:41
-1405/06/01
-
-
-
-
-src :@intelslava
-‏🇺🇸🇧🇭⚡️ — The United States has postponed the return of families of military personnel stationed in Bahrain for an indefinite period.
-‏
-‏The U.S. Navy informed the families of approximately 1,300 service members who were evacuated from Bahrain that they should not expect a swift return.
-‏
-‏Families have been advised to establish new permanent residences, primarily within the United States.
-‏
-‏The commander of NAVCENT, Admiral Kurt R. Tidd, stated that the duration of the evacuation was not initially planned and that numerous changes have been made in the decision-making process.
-‏
-‏The possibility of returning to Bahrain remains open should security conditions improve.
-‏
-‏@IntelSlava
-23:40
-1405/06/01
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇹🇼🇨🇳⚡️ — Taiwanese M1A2T Abrams MBTs fitted with anti-drone cope cages during the Han Kuang 42 exercises, which rehearsed the defence of Taipei’s main airport against a potential PLA airborne assault modeled on Russia’s attempted seizure of Antonov Airport in Kyiv.
-‏
-‏@IntelSlava
-23:37
 1405/06/01
 
 
@@ -1334,30 +1264,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 23:24
-1405/06/01
-
-
-
-
-src :@intelslava
-‏🇶🇦⚡️— According to a report in the Financial Times, due to the damage caused by the conflict with Iran, Qatar has reduced the budgets of its ministries by 30% and decreased funding for foreign aid by approximately 85%.
-‏
-‏@IntelSlava
-23:23
-1405/06/01
-
-
-
-
-src :@intelslava
-‏🇵🇰🇮🇷⚡️ — The Chief of the Pakistani Army, General Asim Munir, will travel to Tehran on Monday leading an official delegation, according to Iranian Foreign Ministry spokesman Esmail Baghaei.
-‏
-‏Baghaei stated that the purpose of the visit is to strengthen bilateral cooperation between Iran and Pakistan, as well as to continue Islamabad's efforts to maintain peace and security in the region.
-‏
-‏During the visit, General Munir is expected to meet with high-ranking Iranian officials and hold talks on bilateral and regional issues.
-‏
-‏@IntelSlava
-23:22
 1405/06/01
 
 
@@ -1696,16 +1602,6 @@ src :@defence_news
 
 
 
-src :@intelslava
-‏🇾🇪🇾🇪❌🇸🇦 — According to a military source, Ansar Allah shot down a Royal Saudi Land Forces MQ-27 ScanEagle surveillance and reconnaissance UAV over Hajjah Governorate in northwestern Yemen.
-‏
-‏@IntelSlava
-22:53
-1405/06/01
-
-
-
-
 src :@jangaavaran1390
 ‏محسن رضایی، دبیر شورای عالی امنیت ملی ایران:
 ‏اگر جنگ اقتصادی ادامه یابد، حتی یک قطره نفت هم صادر نخواهد شد، نه از طریق تنگه هرمز و نه از هیچ جای خلیج فارس.
@@ -2015,27 +1911,6 @@ src :@World_Newsly
 ‏
 ‏✍🏻 adolf hitler
 ‏▪️@World_Newsly
-22:41
-1405/06/01
-
-
-
-
-src :@intelslava
-‏🇷🇺❌🇺🇦 —  SURIYAKMAPS: Russia opened a new front in 
-‏Sumy Oblast this week.
-‏
-‏Putyvl — cross-border ops at 
-‏Vovkivka. New axis of pressure.
-‏
-‏Also this week:
-‏→ Kozacha Lopan falling east to west
-‏→ Ukraine halted Russia at Vasilivka
-‏→ Mykolaivka — 4 infiltration points
-‏
-‏Full northern fronts breakdown 👇
-‏
-‏🔗 [https://youtu.be/BIRd2IaGOts]
 22:41
 1405/06/01
 
