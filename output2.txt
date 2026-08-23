@@ -3287,18 +3287,6 @@ src :@mwarmonitor
 
 
 
-src :@IranintlTV
-[عکس]
-‏فرماندهی مرکزی ایالات متحده (سنتکام)، یک‌شنبه یکم شهریور با انتشار تصویری از ناوشکن موشک‌انداز یواس‌اس جان فین در دریای عرب، اعلام کرد نیروهای آمریکایی تا ۲۳ اوت و در چارچوب محاصره دریایی ایران، ۷۰ کشتی تجاری را وادار به تغییر مسیر کرده‌اند. 
-‏
-‏در این بیانیه آمده است نیروهای آمریکایی همچنین سه کشتی را از کار انداخته‌اند و دو کشتی را بازرسی کرده‌اند.
-‏https://iranintl.com/202608239513
-20:45
-1405/06/01
-
-
-
-
 src :@mamlekate
 ‏📝 دلار در آستانه اعلام تحریم‌های جدید آمریکا از ۲۰۰ هزار تومان گذشت
 ‏
@@ -6623,20 +6611,4 @@ src :@thewarreporter
 ‏
 ‏— The Telegraph | @TheWarReporter
 01:18
-1405/06/01
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇪🇬🇮🇷 — Iranian Secretary of the Supreme National Security Council, Mohsen Rezai:
-‏
-‏"We are telling all neighboring countries not to participate in the economic war alongside the US; otherwise, we will consider them enemies.
-‏
-‏We are not seeking to expand the war, but if countries around Iran cooperate with the Americans in the economic war, we will strike their interests.
-‏
-‏If countries around Iran join the Americans in the economic war, not a single drop of oil will leave the Persian Gulf or the Strait of Hormuz, and we will also target other routes through which oil is exported from the Persian Gulf".
-‏
-‏@TheWarReporter
-01:15
 1405/06/01
