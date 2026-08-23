@@ -1,3 +1,73 @@
+src :@GeoPWatch
+‏⚡️🇺🇸 – A state of emergency has been called in Nevada as wildfires force more than 14,000 people to evacuate.
+‏
+‏@GeoPWatch
+20:36
+1405/06/01
+
+
+
+
+src :@MilitarryWorld
+‏🔴نتانیاهو: به واقعیت پیش از ۷ اکتبر بازنخواهیم گشت و به هیچ جبهه‌ای در غزة اجازه نخواهیم داد که جوامع اسرائیلی را تهدید کند و امنیت را تضعیف نماید.
+‏
+‏@MilitarryWorld | Parsa
+20:36
+1405/06/01
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸❌🇮🇷 — U.S. Central Command claims that as of August 23, U.S. forces have redirected 70, disabled 3, and boarded 2 vessels as part of the ongoing blockade against Iranian ports.
+‏
+‏Photo shows the Flight IIA Restart Arleigh Burke-class guided missile cruiser USS John Finn and a MH-60R Seahawk helicopter equipped with four AGM-114 Hellcat missiles in the Arabian Sea enforcing the blockade against Iran.
+20:36
+1405/06/01
+
+
+
+
+src :@mohem_mat
+[عکس]
+‏‏✅ واشنگتن پست: بر اساس داده‌های وزارت دفاع آمریکا، شمار مجروحان جنگ با ایران به ۷۷۴ نفر رسیده که شامل ۱۸ کشته و ۷۵۶ زخمی است.
+‏
+‏‏✅ حدود ۶۰ مجروح جدید نیز در روزهای اخیر ثبت شده که برخی با جراحات شدید مغزی ناشی از انفجار در پایگاه‌های آمریکا هستند.
+‏‎✅ @Saberinfa
+20:36
+1405/06/01
+
+
+
+
+src :@mohem_mat
+[عکس]
+‏برخی خبرنگاران حوزه موسیقی
+‏از بازگشت
+‏احمد سعیدی
+‏خواننده لوس آنجلسی به ایران خبر می دهند گفته می شود آلبوم جدید وی در ایران منتشر می شود
+‏
+‏@mohem_mat
+20:35
+1405/06/01
+
+
+
+
+src :@mwarmonitor
+[عکس]
+‏🔸یک ملوان نیروی دریایی آمریکا، عملیات پروازی را روی عرشه ناوشکن موشک‌انداز هدایت‌شونده USS John Finn (DDG 113) زیر نظر دارد؛ این ناوشکن در حال حرکت در دریای عرب و اجرای محاصره آمریکا علیه ایران است.
+‏
+‏🔸تا ۲۳ اوت، نیروهای آمریکایی برای اطمینان از رعایت مقررات، ۷۰ کشتی تجاری را تغییر مسیر داده، ۳ کشتی را از کار انداخته و ۲ کشتی را بازرسی و توقیف کرده‌اند.
+‏
+‏@mwarmonitor
+20:35
+1405/06/01
+
+
+
+
 src :@samueltarikh
 ‏گزارش ها از دیدار محرمانه وزیر خارجه سوریه و رئیس موساد در اردن.
 20:33
@@ -1041,21 +1111,6 @@ src :@IranintlTV
 ‏
 ‏سخنگوی کمیسیون امنیت ملی و سیاست خارجی مجلس همچنین افزود این هزینه‌ها از «کشتی‌های کشورهای مجاز به عبور از تنگه هرمز، به ریال یا هر ارز دیگری که مورد نظر جمهوری اسلامی باشد» دریافت خواهد شد.
 ‏https://iranintl.com/202608237807
-19:02
-1405/06/01
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇩🇪⚡️ — A majority of Germans expect Chancellor Friedrich Merz to leave office before the next federal election in 2029, according to a YouGov poll.
-‏
-‏The survey found that 54% believe Merz will depart before the current parliamentary term ends, including 18% who expect him to be replaced by the end of 2026. 
-‏
-‏Only 29% think he will remain chancellor through at least the next scheduled election.
-‏
-‏The poll also points to weakening authority within Merz’s CDU, with 67% saying his standing in the party has declined despite recent changes to the cabinet and party leadership.
 19:02
 1405/06/01
 
@@ -3329,18 +3384,6 @@ src :@Artemis_Force
 
 
 
-src :@MilitarryWorld
-‏🔴عباس عراقچی، وزیر امور خارجه: آمریکا راهی جز صحبت با احترام و مذاکره عدالت محور با ایران ندارد.
-‏
-‏اینکه بعد حمله نظامی دوباره رسیدند به همان راه قدیمی یعنی تحریم های اقتصادی، نشان از استیصال آمریکاست
-‏
-‏@MilitarryWorld | Parsa
-15:02
-1405/06/01
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏◆ به تازگی تصاویری از نصب موشک هوا به هوای دوربرد AIM-424 مالیس که تحت پروژه LRAAM تحت توسعه می‌باشد در زیر بال‌های جنگنده F/A-18E سوپرهورنت از اسکادران تست VX-23 نیروی دریایی آمریکا و دهلیز داخلی جنگنده نسل پنجمی F-35C لایتنینگ ۲ منتشر شده است.
@@ -3499,20 +3542,6 @@ src :@warmonitors
 
 
 
-src :@mohem_mat
-‏دبیر مصوبات را بیان می‌کند یا بیان خود را مصوب می‌داند؟
-‏
-‏حسام الدین آشنا Hosamoddin Ashena (@hesamodin1)
-‏
-‏کنایه آشنا احتمالا به رضایی 
-‏
-‏@mohem_mat
-14:31
-1405/06/01
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🛢️ Brent crude closed the week at $94 per barrel, while Emirati Murban topped $103. WTI also rose, but more slowly.
@@ -3521,32 +3550,6 @@ src :@BellumActaNews
 ‏
 ‏🇺🇸 U.S. diesel prices are also nearing their 2022 record.
 14:30
-1405/06/01
-
-
-
-
-src :@mohem_mat
-‏چون نیک بنگری اضافه کردن اتانول به بنزین مثل رایگان کردن مترو و اتوبوس است.
-‏
-‏فکر می‌کنید بعدی چه باشد؟
-‏
-‏بهمن هدایتی | Bahman Hedayati (@HedayatiBahman)
-‏
-‏@mohem_mat
-14:30
-1405/06/01
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏برادران واچفسکی
-‏که عموما آنها را با ساخت سری فیلمهای ماتریکس می شناسیم بعدها هر دو عمل تغییر جنسیت دادند و الان به نام خواهران واچفسکی فعالیت می کنند
-‏
-‏@mohem_mat
-14:26
 1405/06/01
 
 
@@ -5999,16 +6002,6 @@ src :@OSINTWarfare
 
 
 
-src :@mwarmonitor
-‏🔴‏نتانیاهو: یک کشور فلسطینی که تحت کنترل ایران باشد، نه در غزه و نه در کرانه باختری، ایجاد نخواهد شد.
-‏
-‏@mwarmonitor
-20:58
-1405/05/31
-
-
-
-
 src :@Artemis_Force
 ‏ویدیویی از ناو هواپیمابر هسته ای USS George Washington (CVN 73) که در دریا عرب مستقر شده است، با اضافه شدن این ناو هواپیمابر هسته ای، هم اکنون ٣ ناو هواپیمابر هسته ای و ١ ناو آبی خاکی / بالگرد بر ( چند منظوره) در منطقه عملیاتی ناوگان پنجم حضور دارند/سنتکام،…
 20:53
@@ -6053,17 +6046,4 @@ src :@BellumActaNews
 ‏Join now before the free slots run out 👇👇👇
 ‏https://chat.whatsapp.com/HUwRXAD1ihcFLEP0vbX9Mj
 20:44
-1405/05/31
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏ناوهواپیمابر آبراهام لینکلن پس ۲۷۴ روز خاورمیانه را به سمت آمریکا ترک کرد ، این مدت احتمالا در زمان رسیدن به بندر ، به بیش از ۳۰۰ روز نیز برسد که پس از فورد یکی از طولانی ترین استقرار های دریایی ناوهواپیمابر پس از ویتنام را رقم زده است 
-‏
-‏جایگزین این کشتی درحال حاضر ناوهواپیمابر جورج واشنگتن است که تا همین امروز نزدیک به ۱۰۰ روز است دریانوردی کرده 
-‏
-‏⚓️ @Navy_Iranian | #a_m
-20:32
 1405/05/31
