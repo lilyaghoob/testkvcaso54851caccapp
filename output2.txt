@@ -917,19 +917,6 @@ src :@World_Newsly
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 Al-Manar: An explosion was observed in Haddatha, southern Lebanon, as a result of Israeli demolition activity.
-‏
-‏@wfwitness 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-01:25
-1405/06/02
-
-
-
-
 src :@World_Newsly
 [عکس]
 ‏🔴استاد خوش‌چشم، کارشناس ارشد صداوسیما: حتی در محاصره می‌توانیم نفت بفروشیم
@@ -1783,25 +1770,6 @@ src :@World_Newsly
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇦🇪🇬🇧 Bloomberg: UAE officials have warned that a negative verdict in Manchester City’s long-running Premier League financial case could damage improving relations between the UAE and UK, according to two people familiar with the matter. 
-‏
-‏Manchester City, owned by UAE Vice President Sheikh Mansour bin Zayed Al Nahyan, is awaiting a ruling on 115 alleged breaches of Premier League financial rules. The case has been ongoing since 2023, with City denying all wrongdoing. 
-‏
-‏The warning comes as UK Prime Minister Andy Burnham seeks to deepen economic ties with the UAE. 
-‏
-‏At the Farnborough International Airshow last month, Emirati officials reportedly expressed interest in British defence technology, while the UAE has committed billions of pounds to investment in Britain.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:45
-1405/06/01
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇮🇷 NEW: The Persian Gulf Strait Authority (PSGA) announces that any vessels that violate the Iranian arrangements for crossing the Strait of Hormuz will be placed on a ‘non-compliance’ list
@@ -2151,21 +2119,6 @@ src :@World_Newsly
 ‏✍🏻 Farah Dokht
 ‏@World_Newsly
 23:12
-1405/06/01
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇪🇨 Ecuador Army carried out a large-scale weapons, ammunition, and explosives control operation in central Quito, covering the San Roque, Plaza 24 de Mayo, Centro Histórico, and Playón de la Marín sectors.
-‏
-‏Seized items included 48 doses of suspected marijuana and cocaine, 24 bladed weapons, 8 allegedly stolen cellphones, a pistol replica, 78 homemade pipes, and various drug paraphernalia, among other items.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:11
 1405/06/01
 
 
@@ -5635,6 +5588,29 @@ src :@OSINTWarfare
 
 
 
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶ساختار های دفاع هوایی 
+‏
+‏🔹آسمان باز یا دفاع لایه ای کدام موفق تر است ؟ 
+‏
+‏🔹ساختار آسمان باز (free sky) یک ساختار عمدتا غربی با پیشینه ی حدود هفتاد ساله است که به طور سیستمی از زمان جنگ جهانی دوم پیاده سازی شد  در این ساختار الزاما به شبکه سراسری پدافندی راداری نیست و معمولا فرماندهی مرکزی کشوری و تمرکز بالا در ساختار فرماندهی به صورت واحد وجود ندارد .
+‏
+‏🔹در این ساختار مدیریت آسمان به صورت نواحی و مناطق نیمه مستقل انجام می شود و اصراری بر سفید بودن کل آسمان نیست ، همچنین الزامی بر مدیریت کل آسمان نیست و موجب چالاکی بیشتر سیستم در نواحی تحت پوشش می شود .
+‏
+‏🔹در سیستم آسمان باز تمرکز استقرار و پوشش سامانه های زمین پایه در مناطق نظامی است و حفاظت از مناطق غیرنظامی برعهده نیروی هوایی است که البته به صورت مستمر برقرار نیست و به نوعی ضعف عملکرد است .
+‏
+‏🔹تا چند دهه پس از جنگ جهانی دوم سیستم دفاع هوایی شوروی نمودی از دفاع لایه ای و امریکا نمودی از اسمان باز بود که رفته رفته دستخوش تغییرات شد و در حدود سه دهه اخیر عملا فاقد ان شکل اند.
+‏
+‏#پدافند
+‏
+‏@RASTAKHIZ_PERSIAN
+13:15
+1405/06/01
+
+
+
+
 src :@rus_cosmos
 [عکس]
 ‏#تاریخنگار_فضایی 
@@ -6118,6 +6094,27 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #Tomcat
 11:04
+1405/06/01
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 شناور استرالیایی؛ حلقه جدید زنجیره لجستیکی آمریکا برای جنگ جزیره‌ای
+‏
+‏🔹 تفنگداران دریایی آمریکا نمونه آزمایشی Ancillary Surface Craft یا ASC را که توسط استرالیا طراحی شده، تحویل گرفتند؛ شناوری حدود ۱۵۰ فوتی که برای انتقال مستقیم نیرو، سوخت، تجهیزات و محموله به سواحل کم‌عمق و مناطق فاقد بندر و اسکله ساخته شده است. این شناور می‌تواند تا ۴۶ تن محموله یا ۴۰ تفنگدار مجهز را جابه‌جا کند و با تکیه بر آبخور کم و سونار رو به جلو، برای حرکت در آب‌های کم‌عمق و حتی مسیرهای فاقد نقشه‌برداری کامل طراحی شده است.
+‏
+‏🔹 این شناور جایگزین Medium Landing Ship نیست؛ بلکه مکمل آن است. کشتی بزرگ‌تر برای جابه‌جایی نیرو و تجهیزات میان جزایر و مناطق عملیاتی استفاده می‌شود و ASC قرار است در مرحله نهایی، محموله را از آب‌های نزدیک ساحل به نقاطی منتقل کند که برای شناورهای بزرگ‌تر قابل دسترسی نیستند.
+‏
+‏🔹 مشارکت استرالیا نیز اتفاقی نیست. ارتش استرالیا همزمان در حال توسعه توان عملیات ساحلی و جزیره‌ای خود است و دو کشور به دنبال ایجاد شبکه‌ای مشترک برای عملیات در محیط اقیانوس آرام هستند. 
+‏
+‏#آمریکا 
+‏#استرالیا
+‏#تفنگداران_دریایی
+‏
+‏@RASTAKHIZ_PERSIAN
+11:03
 1405/06/01
 
 
