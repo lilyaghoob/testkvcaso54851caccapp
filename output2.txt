@@ -1,7 +1,68 @@
 src :@Ali_bk_2
-‏British Maritime Authority:
+[عکس]
+‏Three cargo ships are heading from Türkiye towards the port of Ashdod in the Zionist entity.
+01:47
+1405/06/03
+
+
+
+
+src :@Alibk3
+[عکس]
+‏3 سفن محمّلة بالبضائع تتجه من تركيا نحو ميناء أسدود في الكيان الصهيوني.
+01:47
+1405/06/03
+
+
+
+
+src :@samueltarikh
+‏گزارشات اولیه از حادثه دریایی نزدیک سواحل عمان!  🔸برخی منابع از یک حادثه دریایی برای یک کشتی نزدیک سواحل عمان خبر می‌دهند.
+01:44
+1405/06/03
+
+
+
+
+src :@samueltarikh
+‏گزارشات اولیه از حادثه دریایی نزدیک سواحل عمان!
 ‏
-‏Report of an incident 9 nautical miles northeast of Oman.
+‏🔸برخی منابع از یک حادثه دریایی برای یک کشتی نزدیک سواحل عمان خبر می‌دهند.
+01:44
+1405/06/03
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇴🇲🇬🇧 UKMTO: An oil tanker has been struck by an unknown projectile 9 nautical miles north‑east of Ash Shishah, Oman, causing damage to the engine room and disabling the vessel. 
+‏
+‏The crew are reported safe. The environmental impact is unknown.
+‏
+‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+01:43
+1405/06/03
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: Oil tanker attacked in the Strait of Hormuz.
+‏
+‏@BRICSNews
+01:42
+1405/06/03
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏The British Navy announces that a vessel was targeted 9 nautical miles northeast of the Sultanate of Oman, resulting in damage to the engine room and disabling the vessel.
 01:41
 1405/06/03
 
@@ -9,9 +70,8 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏‏هيئة البحرية البريطانية: 
-‏
-‏بلاغ عن حادثة على بعد 9 أميال بحرية شمال شرق سلطنة عمان.
+[عکس]
+‏البحرية البريطانية تعلن ‏استهداف سفينة على بُعد 9 أميال بحرية شمال شرق سلطنة عمان ما أدى إلى إلحاق أضرار بغرفة المحركات وتعطلها.
 01:41
 1405/06/03
 
@@ -19,9 +79,10 @@ src :@Alibk3
 
 
 src :@naya_foriraq
+[عکس]
 ‏الله أكبر
 ‏
-‏‏إستهداف ناقلة نفط على بعد 9 أميال بحرية شمال شرق سلطنة عمان.
+‏🔻‏إستهداف ناقلة نفط بمقذوف حربي على بعد 9 أميال بحرية شمال شرق سلطنة عمان.
 01:41
 1405/06/03
 
@@ -3500,26 +3561,6 @@ src :@mohem_mat
 
 
 
-src :@Ali_bk_2
-‏Netanyahu:
-‏
-‏Iran tried to assassinate one of my sons.
-19:57
-1405/06/02
-
-
-
-
-src :@Alibk3
-‏نتنياهو:
-‏
-‏حاولت إيران اغتيال أحد أبنائي.
-19:57
-1405/06/02
-
-
-
-
 src :@defence_news
 ‏#فوری
 ‏
@@ -3587,33 +3628,11 @@ src :@didarnews1
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Trump:
-‏
-‏We are defeating everyone, including Iran, whose economy and military are heading into a death spiral.
-19:50
-1405/06/02
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇮🇷 NEW: The U.S. has only 41 days of crude oil supply left, the lowest since the 1970s
 ‏
 ‏@Middle_East_Spectator
-19:50
-1405/06/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ترامب:
-‏
-‏نحن ننتصر على الجميع، بما في ذلك إيران، التي يتجه اقتصادها وعسكريتها نحو دوامة موت.
 19:50
 1405/06/02
 
@@ -4272,17 +4291,6 @@ src :@intelslava
 
 
 
-src :@samueltarikh
-[عکس]
-‏🚨ترامپ در تروث:
-‏
-‏ایران به طور کامل در حال فروپاشی است!!!‌‌
-18:11
-1405/06/02
-
-
-
-
 src :@intelslava
 ‏🇺🇦🇷🇺⚡️ — Russia thinks it is winning – that is not the case.
 ‏
@@ -4390,14 +4398,6 @@ src :@defence_news
 ‏
 ‏🆔 @Titrekootah
 18:00
-1405/06/02
-
-
-
-
-src :@samueltarikh
-‏🔴افغانستان ۱۳۹ تن کالای ایرانی را با ادعای بی‌کیفیت بودن برگرداند!  ادعا شده که پس از ارزیابی‌های فنی، مشخص شد که این محموله‌ها با استانداردهای کیفیت داخلی افغانستان مطابقت ندارند
-17:58
 1405/06/02
 
 
