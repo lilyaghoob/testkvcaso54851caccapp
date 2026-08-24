@@ -1,3 +1,18 @@
+src :@GeoPWatch
+[عکس]
+‏⚡️🇺🇦🇬🇧 – Ukraine opened up its 'Avenger' data repository to the UK, in what the British Defense Ministry called a "goldmine" to protect critical infrastructure across the country.
+‏
+‏The data is expected to be used to train AI models capable of identifying approaching soldiers, tanks and armoured vehicles by their sound through buried fiber-optic cables. They would also be able to identify Russian drones and provide early warning to British forces.
+‏
+‏The move comes after Andy Burham gave Ukraine access to information that will allow Kyiv to manufacture 'Storm Shadow' cruise missiles.
+‏
+‏@GeoPWatch
+01:10
+1405/06/03
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️عایشه وهاب، نخستین نماینده افغان‌تبار راه‌یافته به کنگره آمریکا، در گفتگو با شبکه «دموکراسی ناو» با ابراز تاسف از وضعیت کنونی افغانستان گفت: «بسیار ناامیدکننده است که می‌بینیم در افغانستان مانع رفتن زنان و کودکان به مدرسه و داشتن یک زندگی عادی می‌شوند. من معتقدم این روند فاجعه‌ای در آینده افغانستان خواهد بود.» او با تاکید بر ضرورت حفظ تعامل سیاسی افزود: «ایالات متحده باید دیپلماسی را به کار بگیرد و فارغ از اینکه چه گروهی در قدرت است، ما باید روابط دیپلماتیک داشته باشیم تا به این امید، بتوانیم آن‌ها را در زمینه حقوق بشر، حقوق زنان و حقوق شهروندی در مسیر درست هدایت کنیم.» وهاب گفت: «افغانستان به متحدان دیگری هم نیاز دارد. گروه‌های مختلفی از جنگ‌سالاران وجود دارند که آن‌ها هم طالبان نیستند اما به دنبال قدرت‌اند و عملکردی کاملا شکست‌خورده داشته‌اند. ما دیدیم که چگونه حتی تحت حمایت ایالات متحده، این گروه‌های جنگ‌سالار عملا کشور را غارت و تباه کردند.»
@@ -6282,14 +6297,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:41
-1405/06/02
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇸🇾🇹🇷 Syria, Turkey and Israel form joint security committee to prevent clashes.
-‏
-‏@BRICSNews
-01:08
 1405/06/02
