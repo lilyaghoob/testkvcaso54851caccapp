@@ -1846,21 +1846,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧🇦🇪⚡️ — UK Prime Minister Andy Burnham is seeking closer economic and political ties with the UAE, with investment in British infrastructure, AI, renewable energy, and defense technology among areas of potential cooperation, Bloomberg reports.
-‏
-‏However, Manchester City’s long-running case over 115 alleged breaches of Premier League financial rules could complicate the relationship. UAE officials have warned that a negative ruling against the Sheikh Mansour-owned club could damage improving UK-UAE ties.
-‏
-‏At the Farnborough International Airshow last month, Emirati delegates expressed interest in British defense technology.
-‏
-‏The relationship is particularly important to Burnham’s plans for economic revival, given Abu Dhabi’s extensive investments in Britain and Manchester.
-23:37
-1405/06/01
-
-
-
-
 src :@samueltarikh
 ‏🔸ابر تورم آلمان ۱۹۲۳ نه صرفا یک پدیده‌ی پولی بلکه فروپاشی کامل قرارداد اجتماعی بود. وقتی نرخ تورم ماهانه به ده‌ها هزار درصد رسید و مارک در برابر دلار به رقم‌های تریلیونی سقوط کرد پول دیگر نه واحد حساب بود نه وسیله‌ی مبادله‌ی پایدار و نه مخزن ارزش. انسان‌ها ناچار شدند زمان را به واحد ارزش تبدیل کنند. حقوق را صبح می‌گرفتند و ظهر خرج می‌کردند چون عصر همان اسکناس‌ها فقط برای سوخت بخاری ارزش داشت.
 ‏
@@ -2324,18 +2309,6 @@ src :@jangaavaran1390
 ‏
 ‏ایران، هرگونه مشارکت یا حمایت هر کشوری از جنگ اقتصادی آمریکا علیه مردم ایران را به عنوان یک اقدام جنگی تلقی خواهد کرد.
 22:53
-1405/06/01
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iran’s Secretary of the Supreme National Security Council, Mohsen Rezaee:
-‏If the economic war continues, not a single drop of oil will be exported, neither through the Strait of Hormuz nor from anywhere in the Persian Gulf. 
-‏
-‏Iran will regard any country’s participation in or support for America’s economic war against the Iranian people as an act of war.
-22:52
 1405/06/01
 
 
@@ -6565,14 +6538,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 05:50
-1405/06/01
-
-
-
-
-src :@OSINTWarfare
-‏🇮🇷🇹🇷🇸🇦🇵🇰⚡️ — Mehdi Rahimi, head of the Iranian Parliament’s news agency, told Al Mayadeen that Iran has received an invitation to join the Mecca Defense Pact.
-‏
-‏@IntelSlava
-04:20
 1405/06/01
