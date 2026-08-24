@@ -1,3 +1,38 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴سپاه قاطعانه از دولت حمایت می‌کند
+‏
+‏‏سپاه پاسداران انقلاب اسلامی در بیانیه‌ای به مناسبت فرارسیدن هفته دولت ضمن حمایت قاطع از قوه مجریه تأکید کرد: هم افزایی سپاه و دولت، رمز عبور از تحریم‌های چندلایه و تقویت تاب‌آوری ملی است.
+‏
+‏@MilitarryWorld | Parsa
+17:43
+1405/06/02
+
+
+
+
+src :@intelslava
+‏🇮🇷🇵🇰⚡️ — A representative of the Iranian Ministry of Foreign Affairs also stated: "The visit of the Pakistani army commander to Tehran today is taking place within the framework of the good relations between Iran and Pakistan. Pakistan has been working for several months to help de-escalate tensions in the region. It is expected that the Minister of Foreign Affairs of Oman will visit tomorrow. During the visit, it is planned to discuss bilateral relations and issues related to ensuring the security of the Strait of Hormuz and shipping routes within it."
+‏
+‏@IntelSlava
+17:39
+1405/06/02
+
+
+
+
+src :@intelslava
+‏🇷🇺❌🇺🇦 — Since the start of the special military operation, the Russian Armed Forces have damaged (or destroyed) 492 locomotives and 249 railway cars belonging to Ukrainian Railways (Ukrzaliznytsia), according to Minister for Regional Development, Communities, and Territories, Nikolai Kalashnik.
+‏
+‏Since the beginning of 2026, the Russian Armed Forces have attacked Ukrainian railway infrastructure 1534 times.
+‏
+‏@IntelSlava
+17:39
+1405/06/02
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇺🇸🇨🇦⚡️ — President Trump accused Canada of taking advantage of the U.S. through high tariffs on American agricultural products and said the trade relationship had created a $60 billion deficit.
@@ -2260,19 +2295,6 @@ src :@jangaavaran1390
 
 
 
-src :@selena_updates
-[عکس]
-‏Iran has announced the discovery of more than 7.5 trillion cubic feet (212.4 billion cubic meters) of natural gas in a field in southern Fars Province, Oil Minister Mohsen Paknejad said Sunday. 
-‏
-‏Around 5.7 trillion cubic feet (161 billion cubic meters) is estimated to be recoverable based on a 72–73% recovery rate, with Paknejad saying the volume is equivalent to roughly 15 years of production from one phase of the giant South Pars field.
-‏
-‏The newly discovered gas is reportedly “sweet,” potentially lowering development and processing costs, while the field also contains significant gas condensate reserves.
-14:50
-1405/06/02
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مدیر اکتشاف شرکت ملی نفت : میدان گازی تازه‌کشف‌شده به‌تنهایی می‌تواند تا ۱۵ سال گاز کشور را تامین کند.
 ‏
@@ -2646,16 +2668,6 @@ src :@Artemis_Force
 
 
 
-src :@ClashReport
-‏Kremlin:
-‏
-‏The Ukrainian authorities, having opened Pandora’s box, are feeling the consequences of their actions every night and will continue to do so.
-14:03
-1405/06/02
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏★نخستین تصور ذهنی که از جنگنده ها در ذهن یک انسان شکل میگیرد توان مانور های پیچیده در همه جهات از جمله حرکت معروف invert کردن است اما جالب است بدانید برخی جنگنده های نسل ۴ به پایین ( بیشتر نمونه های آمریکایی) به دلیل بکار رفتن برخی قطعات در سیستم سوخت‌رسانی و روغن موتور که با جاذبه کار می‌کردند تنها برای ثانیه هایی مشخص که در Technical order آن جنگنده مشخص میشد می‌توانستند خود را در چنین حالتی حفظ کنند در صورت عبور از این چند ثانیه آسیب به موتور یا خاموشی و قطع جریان سوخت محتمل بود
@@ -2940,15 +2952,6 @@ src :@MilitarryWorld
 ‏🔴رویترز به نقل از یک منبع پاکستانی:واشنگتن از عاصم منیر خواسته است از نفوذ پاکستان برای بازگرداندن ایران به میز مذاکرات استفاده کند
 ‏
 ‏@MilitarryWorld | Maverick
-13:24
-1405/06/02
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Houthis in Yemen struck a tanker 63 nautical miles west of Yanbu, Saudi Arabia, causing a fire on the vessel deck.
 13:24
 1405/06/02
 
@@ -3367,17 +3370,6 @@ src :@tglobaleye
 
 
 
-src :@MilitarryWorld
-‏🔴ستاد نیروی هوایی اسرائیل:
-‏ما در تمام جبهه‌ها در حالت آماده‌باش و آمادگی بالا باقی خواهیم ماند
-‏
-‏@MilitarryWorld | Parsa
-12:44
-1405/06/02
-
-
-
-
 src :@guard_warriors
 ‏✪ افزایش تنش ها میان ترکیه و اسرائیل
 ‏
@@ -3437,19 +3429,6 @@ src :@P_raetorio
 [عکس]
 ‏ترامپ گفتگویی ادعایی از محمد باقر قالیباف منتشر کرد با سرتیتر «ما گرسنه‌ایم، ما نمی‌توانیم زنده بمانیم.»
 12:36
-1405/06/02
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iran’s Persian Gulf Strait Authority (PGSA) has announced the establishment of a non-compliance list targeting vessels that violate Tehran’s newly imposed transit rules for the Strait of Hormuz. 
-‏
-‏According to the announcement, blacklisted vessels could face greater difficulty securing future passage permits, as well as potential fines, seizure or confiscation by the IRGC.
-‏
-‏A list has already been published and the majority of vessels currently on it are Emirati- or Qatari-owned. Iran has already introduced a new clearance regime requiring vessels to obtain authorization before transiting the waterway.
-12:31
 1405/06/02
 
 
@@ -4206,18 +4185,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli forces are currently bulldozing infrastructure in the town of Houla, southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:45
-1405/06/02
-
-
-
-
 src :@mwarmonitor
 ‏📌نخست‌وزیر بریتانیا، اندی برنهام، روز دوشنبه برای شرکت در مراسم روز استقلال اوکراین وارد کی‌یف خواهد شد. بر اساس اعلام دولت بریتانیا، برنهام قرار است اعلام کند که دولت این کشور به شرکت دفاعی MBDA اجازه می‌دهد اطلاعات طبقه‌بندی‌شده مربوط به قطعات بریتانیایی موشک کروز SCALP را منتشر کند تا اوکراین و فرانسه بتوانند خطوط مونتاژ این موشک را در خاک اوکراین راه‌اندازی کنند. 
 ‏
@@ -4306,18 +4273,6 @@ src :@rnintel
 ‏
 ‏"It used to be that you needed a $500-million-a-year company in order to reach a worldwide audience of consumers. Now all you need is a Steam account." - Gabe "GabeN" Newell.
 10:31
-1405/06/02
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Al-Manar: Israeli artillery shelling targeted the town of Houla and the Wadi al-Saloqi area in southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:29
 1405/06/02
 
 
@@ -4817,26 +4772,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 05:49
-1405/06/02
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — Toward Odesa, so far this night:   5 Kh-31 missiles, 3 Kh-59 cruise missiles, 3 Banderol cruise missiles, 2 Onyx supersonic missiles, 2-3 KABs, and 3 Shahed-238 have been launched.  @IntelSlava
-05:45
-1405/06/02
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — Toward Odesa, so far this night:
-‏
-‏ 5 Kh-31 missiles, 3 Kh-59 cruise missiles, 3 Banderol cruise missiles, 2 Onyx supersonic missiles, 2-3 KABs, and 3 Shahed-238 have been launched.
-‏
-‏@IntelSlava
-05:43
 1405/06/02
 
 
