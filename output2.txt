@@ -1,3 +1,13 @@
+src :@bricsnews
+‏JUST IN: 🇮🇷 Iran says it may begin seizing ships that violate its Strait of Hormuz transit rules.
+‏
+‏@BRICSNews
+04:07
+1405/06/02
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏به گزارش مرکز آمار ایران، «تورم» نقطه‌به‌نقطه «تولیدکننده» در بهار ۱۴۰۵، هم‌زمان با جنگ و تشدید فشارها بر اقتصاد بیمار ایران، با جهش ۳۳.۸ واحد درصدی نسبت به فصل قبل، از ۶۵ درصد به ۹۸.۹ درصد رسیده است.
@@ -6574,19 +6584,4 @@ src :@OSINTWarfare
 ‏
 ‏@IntelSlava
 04:20
-1405/06/01
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇬🇧 BREAKING: Iranian hackers shut down a power plant in the UK for 4 consecutive days with a sophisticated cyber attack, according to The Telegraph
-‏
-‏It is thought to be the first time that hackers affiliated with the Iranian government have succeeded in closing down such a facility in the UK, and believed to be the most successful cyber attack of its kind.
-‏
-‏The incident took place at the same time as a series of attacks on U.S. water infrastructure last month, which affected 12 states and caused concern in the White House.
-‏
-‏@Middle_East_Spectator
-04:10
 1405/06/01
