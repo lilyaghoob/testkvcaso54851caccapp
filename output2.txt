@@ -2456,15 +2456,6 @@ src :@World_Newsly
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli Air Force airstrike between Ali al-Taher heights and Nabatieh El Fawqa, southern Lebanon.
-22:47
-1405/06/01
-
-
-
-
 src :@Mena_Live
 ‏Israel has informed the Peace Council that it will give Hamas a 3-day deadline to stop launching kites with incendiary devices from Gaza, or else it will carry out a large-scale aerial attack on Gaza/Israeli Channel 14
 ‏
