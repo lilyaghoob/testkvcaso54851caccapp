@@ -1,4 +1,34 @@
 src :@jangaavaran1390
+‏رسانه‌های سعودی:
+‏
+‏فرمانده ارتش پاکستان، پیشنهادی از سوی آمریکا را به تهران منتقل کرد مبنی بر اینکه در ازای باز شدن تنگه هرمز و توقف حملات متحدان ایران، آمریکا از تحریم‌ها دست برداشته و محاصره را لغو خواهد کرد.
+12:11
+1405/06/03
+
+
+
+
+src :@Ali_bk_2
+‏Saudi media:
+‏
+‏The Pakistani army chief carried a US offer to Tehran to lift the blockade and sanctions in exchange for reopening the Strait of Hormuz and halting attacks by Iran’s allies.
+12:10
+1405/06/03
+
+
+
+
+src :@Alibk3
+‏وسائل إعلام سعودية:
+‏
+‏‏قائد الجيش الباكستاني حمل إلى طهران عرضا أمريكيًا لوقف الحصار ورفع العقوبات، مقابل فتح مضيق هرمز ووقف هجمات حلفاء إيران.
+12:10
+1405/06/03
+
+
+
+
+src :@jangaavaran1390
 ‏سخنگوی وزارت امور خارجه چین: "همکاری چین با ایران در چارچوب قوانین بین‌المللی انجام می‌شود و نباید آن را مختل کرد." این اظهارات در واکنش به اعلام جنگ اقتصادی آمریکا علیه ایران بیان شد.
 12:06
 1405/06/03
@@ -2613,14 +2643,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏وزارت امور خارجه ایالات متحده، تا سقف 10 میلیون دلار و امکان اسکان مجدد، برای اطلاعات مربوط به فرماندهان ارشد سپاه پاسداران انقلاب اسلامی ارائه می‌دهد.
-06:02
-1405/06/03
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — The U.S. State Department is offering up to $10 million and possible relocation for information on senior IRGC commanders.
@@ -5163,22 +5185,6 @@ src :@tglobaleye
 
 
 
-src :@selena_updates
-[عکس]
-‏Syrian Foreign Minister Asaad al-Shaibani met Israel's Mossad Director Roman Gofman in Jordan on Sunday in a high-level effort to defuse mounting tensions between Israel and Syria following Israel’s recent strike on the Abu al-Duhur airbase. 
-‏
-‏The talks focused on preventing further escalation and restoring security coordination between the two sides, as Washington pushes for a resumption of Israeli-Syrian security negotiations.
-‏
-‏Syrian Foreign Minister Assad al-Shaibani: We expect that negotiations with Israel regarding a security agreement will resume soon. Communications with Israel were cut off after its attack on the Abu al-Duhur Air Base on August 18th. Syria currently does not trust Israel, and the priority is to stop its attacks on our territory. Syria is extending a hand to diplomacy, and Israel should seize this historic opportunity.
-‏
-‏***
-‏I could not agree more with him. Israel has a partner in Syria not an enemy, and by acting like until now it is only harming Israel's interests. And for those who don't agree that Syria is not an enemy (I am reffering to the leadership), it's still wiser to "keep an eye on things" from the inside than through hostilities.
-19:05
-1405/06/02
-
-
-
-
 src :@mamlekate
 ‏📞 امروز صبح مثل همیشه با کوله رفتم فروشگاه شهروند تو ورودی بهم گفتن که باید کوله ‌ات رو تحویل بدی و نمیتونی اینجوری بری داخل احتمال دزدی هست. من حاضر نشدم تحویل بدم و گفتم اصلا نمیخوام خرید کنم و رفتم سمت در خروجی که اونجا گفتن باید کیفتو بگردیم! یعنی یا باید تحویل بدی یا میگردیم.
 ‏اینکه یه فروشگاه در حد پلیس میخواد بگردتت یعنی وضعیت معیشت داره به جاهای بدی میرسه.
@@ -5419,19 +5425,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@selena_updates
-[عکس]
-‏U.S. Treasury Secretary Scott Bessent has signaled what he described as the “final stretch” of Washington’s economic campaign against Iran, telling the media that “at dawn, Economic Invasion Day against Iran will begin - the largest financial offensive ever against any adversary.” 
-‏
-‏Bessent said the objective is to “cut off every economic artery” sustaining Tehran’s government and warned countries considering continued economic ties with Iran that “they would be wise not to underestimate the price of putting the United States to the test.” 
-‏
-‏The centerpiece of the measures expected to be announced is reportedly a sweeping secondary-sanctions regime that could threaten countries conducting economic trade with Iran with loss of access to U.S. commerce, effectively forcing governments and businesses to choose between economic relations with Iran or the United States.
-18:01
-1405/06/02
-
-
-
-
 src :@defence_news
 [عکس]
 ‏😀 ترامپ: ایران کاملاً در حال فروپاشی است!!! /اقتصاد آنلاین
@@ -5442,15 +5435,6 @@ src :@defence_news
 ‏
 ‏🆔 @Titrekootah
 18:00
-1405/06/02
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Another kite from Gaza landed in Israel, in Nahal Oz, this time inside the kibbutz.
-17:57
 1405/06/02
 
 
@@ -6469,25 +6453,4 @@ src :@Minas_Tirith2024
 src :@defence_news
 ‏سخنگوی وزارت امور خارجه ایران همچنین گفت: "دیدار امروز فرمانده ارتش پاکستان از تهران، در چارچوب روابط خوب بین ایران و پاکستان انجام می‌شود. پاکستان از چند ماه قبل تلاش می‌کند تا به کاهش تنش در منطقه کمک کند. انتظار می‌رود که وزیر امور خارجه عمان فردا از تهران بازدید کند. در طول این دیدار، انتظار می‌رود که درباره روابط دوجانبه و موضوعاتی مربوط به امنیت تنگه هرمز و مسیرهای کشتیرانی و تردد در آن بحث شود."
 12:12
-1405/06/02
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏خبری به نقل از رویترز در حال پخش است که سفر عاصم منیر به ایران لغو شده است اما در سایت خبرگزاری رویترز تنها به تماس تلفی عاصم منیر و ترامپ پیش از این سفر اشاره شده و تاکید می کند اطلاعاتی از محتوای تماس وجود ندارد.
-‏
-‏@Minas_Tirith2024
-12:11
-1405/06/02
-
-
-
-
-src :@defence_news
-‏منابع پاکستانی گزارش دادند که ژنرال عاصم منیر ، فرمانده کل ارتش این کشور به همراه وزیر کشور پاکستان به سمت ایران حرکت کردند.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-12:11
 1405/06/02
