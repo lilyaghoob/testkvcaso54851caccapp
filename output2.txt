@@ -1,3 +1,52 @@
+src :@ClashReport
+[عکس]
+‏NEW: Canada will impose tariffs of up to 50% on about 700 U.S. products starting Sept. 8, retaliating after trade talks collapsed and the U.S. raised tariffs on Canadian goods.
+‏
+‏Steel and aluminum will face 50% tariffs, while cars remain at 25%.
+‏
+‏The measures cover roughly $20 billion in U.S. imports.
+18:39
+1405/06/03
+
+
+
+
+src :@naya_foriraq
+‏🇨🇦🇺🇸‏كندا تصعد الحرب التجارية مع امريكا
+‏
+‏- كندا تفرض رسوماً جمركية تتراوح بين 15% و50% على منتجات أميركية بقيمة تقارب 20 مليار دولار.
+‏
+‏- كندا تضاعف الرسوم على منتجات الصلب الأميركية من 25% إلى 50%
+‏
+‏- الحكومة الكندية تعلن عن حزمة دعم بقيمة 7.5 مليار دولار كندي لمساعدة الشركات والعمال المتضررين من الرسوم الأميركية الجديدة
+18:37
+1405/06/03
+
+
+
+
+src :@didarnews1
+‏🔴ترامپ مدعی شد:
+‏
+‏همین الان نیروی دریایی ایالات متحده به من اطلاع داد که تمام مین‌های موجود در آب‌های بین‌المللی تنگه هرمز جمع‌آوری و/یا منفجر شده‌اند.
+‏
+‏به ایران اطلاع داده شده است که هر کشتی یا قایقی که اقدام به مین‌گذاری جدید کند، بلافاصله و به‌طور سیستماتیک منهدم خواهد شد.
+‏
+‏ما از طریق نیروی فضایی، تک‌تک نقاط تنگه را زیر نظر داریم؛ همان‌طور که کوه «کلنگ» و سه سایت هسته‌ای دیگری را که پیش‌تر منهدم شده‌اند نیز زیر نظر داریم.
+‏
+‏سیاست «تحمل صفر» در قبال مین‌گذاری اکنون با تمام قدرت در حال اجراست.
+‏
+‏از توجه شما به این موضوع سپاسگزارم رئیس‌جمهور دونالد جی. ترامپ
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:37
+1405/06/03
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏مسعود پزشکیان، رییس‌ دولت در جمهوری اسلامی، سه‌شنبه سوم شهریور گفت تصمیم شورای امنیت برای پذیرش و امضای توافق‌نامه با هماهنگی سران قوا، نیروهای نظامی و دیگر بخش‌ها و بر اساس «خرد جمعی» اتخاذ شد.
@@ -2469,23 +2518,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏Israeli Defense Minister Israel Katz in Syria:
-‏
-‏We will not move from Mount Hermon or the security zone as long as there are jihadist threats against the State of Israel. 
-‏
-‏The message to the Syrian president is clear: when you wake up in the morning in the palace in Damascus, look up toward Mount Hermon, and see the IDF—you know that we are here to protect our communities and our border.
-‏
-‏We acted against a Turkish attempt to establish a foothold in Syria in a way that endangered Israel’s security interests. 
-‏
-‏We made our position clear, and we will continue to stand firm on it in the future.
-16:26
-1405/06/03
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ قطر: جمهوری اسلامی با بستن تنگه هرمز قوانین بین‌المللی را نقض کرده است
@@ -3917,17 +3949,6 @@ src :@Parvazdaroj
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇮🇶تحالف العزم: مثنى السامرائي ليس أول زعيم يُعتقل قبله نيلسون مانديلا اعتُقل 20 عاماً.
-‏
-‏غدروك يا شبل الاسد
-14:03
-1405/06/03
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 بریتانیا فناوری تولید موشک‌های Storm Shadow را در اختیار اوکراین قرار می‌دهد.
@@ -4332,14 +4353,6 @@ src :@mohem_mat
 src :@samueltarikh
 ‏⭕️خط فقر در تهران برای یک خانواده ۴ نفره به ۱۶۰ میلیون تومن رسید
 12:57
-1405/06/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏رسانه‌های سعودی گزارش دادند:  فرمانده ارتش پاکستان پیشنهاد آمریکا مبنی بر پایان دادن به محاصره و لغو تحریم‌ها در ازای باز کردن تنگه هرمز و متوقف کردن حملات متحدان ایران را به تهران ارائه کرد.
-12:56
 1405/06/03
 
 
@@ -5268,20 +5281,6 @@ src :@didarnews1
 
 
 
-src :@didarnews1
-‏🔴سید محسن نقوی وزیر کشور پاکستان:
-‏
-‏🔹فیلد مارشال سید عاصم منیر و من دیدار بسیار مثبت و مفیدی با رئیس‌جمهور ایران داشتیم. بحث ما روی درگیری ایران و آمریکا، تنش‌های خاورمیانه و راه پیش رو متمرکز بود، همچنین گام‌هایی که هر دو طرف برای احیای یادداشت تفاهم اسلام‌آباد باید بردارند تا به حل جامع درگیری منجر شود. رئیس‌جمهور ایران دیدگاه و نگرانی‌های دولت خود را صادقانه مطرح کرد و تبادل نظر سازنده‌ای در این مسائل داشتیم. پیشرفت قابل توجهی حاصل شد و جلسه با نتیجه‌ای بسیار مثبت به پایان رسید. امیدواریم این حرکت راه را برای پیشرفت بیشتر و صلح پایدار در منطقه هموار کند.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-10:18
-1405/06/03
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏صبح همگی بخیر
@@ -6191,18 +6190,6 @@ src :@bricsnews
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏پیت هگست، وزیر جنگ آمریکا، اعلام کرد دولت دونالد ترامپ استفاده از گزینه نظامی علیه ایران را منتفی نمی‌داند و هم‌زمان با تشدید فشارهای اقتصادی بر تهران، گزینه انجام حملات در تنگه هرمز یا دیگر مناطق ایران همچنان روی میز است.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/156709
-‏@Farsi_Iranwire
-23:48
-1405/06/02
-
-
-
-
 src :@warmonitors
 ‏⚡Netanyahu congratulates President Trump on new sanctions against Iran:
 ‏
@@ -6885,21 +6872,4 @@ src :@defence_news
 src :@rnintel
 ‏🇬🇧🇺🇦⚡️- UK Prime Minister Andy Burnham, during his first foreign visit to Ukraine to attend the country's Independence Day parade, announced that Britain has agreed to share Storm Shadow missile technology with Kiev, paving the way for Ukraine to manufacture the long-range cruise missiles domestically.
 18:48
-1405/06/02
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏قیمت دلار در بازار آزاد ایران روز دوشنبه دوم شهریور بار دیگر روندی صعودی در پیش گرفت و در معاملات صبح از ۲۰۲ هزار تومان عبور کرد.
-‏
-‏همزمان قیمت سکه امامی به ۲۲۲ میلیون تومان رسید و بهای طلا نیز در سطوح بی‌سابقه‌ای معامله شد.
-‏
-‏بر اساس آخرین نرخ‌های ثبت‌شده، دلار آمریکا در بازار تهران به ۲۰۲ هزار و ۶۰۰ تومان رسید. سکه طرح امامی نیز ۲۲۲ میلیون تومان قیمت خورد.
-‏در همین زمان، قیمت یک مثقال طلای آب‌شده به ۹۶ میلیون و ۲۰۰ هزار تومان و قیمت یک گرم طلای ۱۸ عیار به ۲۳ میلیون و ۲۰۷ هزار و ۸۶۰ تومان رسید.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-18:41
 1405/06/02
