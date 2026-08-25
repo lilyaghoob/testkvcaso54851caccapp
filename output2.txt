@@ -1,3 +1,60 @@
+src :@ClashReport
+‏BIG: The US asked Ukraine not to attack Moscow in recent days due to a visit by senior American officials.
+‏
+‏Source: RBC-Ukraine
+18:31
+1405/06/03
+
+
+
+
+src :@defence_news
+‏سی‌بی‌اس گزارش کرده است که رتکلیف، رئیس سازمان سیا برای دیدارهایی وارد مسکو شده است
+‏
+‏@RedLionCorps
+18:30
+1405/06/03
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏دونالد ترامپ، رییس‌جمهور آمریکا، روز سه‌شنبه سوم شهریور اعلام کرد نیروی دریایی آمریکا به او اطلاع داده است که همه مین‌های دریایی از آب‌های بین‌المللی تنگه هرمز جمع‌آوری یا منفجر شده‌اند. او همچنین تهدید کرد هر شناور یا کشتی که اقدام به مین‌گذاری دوباره در این آب‌ها کند، «فورا و به‌صورت سیستماتیک» هدف قرار خواهد گرفت.
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/156742
+‏
+‏
+‏@Farsi_Iranwire
+18:29
+1405/06/03
+
+
+
+
+src :@jangaavaran1390
+‏به گزارش نشریه فایننشال تایمز، که به نقل از منابعی آشنا با این درخواست صحبت می‌کند، دولت ترامپ هفته گذشته از اوکراین خواست تا از پرتاب موشک‌های دوربرد و پهپادها به سمت مسکو، سن پترزبورگ و سایر مناطق شمالی روسیه در روزهای دوشنبه، سه‌شنبه و چهارشنبه خودداری کند، زیرا در این روزها، ایالات متحده قصد داشت یک هواپیمای نظامی حامل یک مقام ارشد را به پایتخت روسیه اعزام کند. این درخواست از سوی کی‌یف مورد موافقت قرار گرفت.
+18:27
+1405/06/03
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇵🇱🇰🇷⚡️ — Poland has received 28 K2 Black Panther tanks under its latest $6.7 billion defense agreement with South Korea, marking the first deliveries from the new order as Warsaw continues to modernize its armored forces.
+‏
+‏The K2, developed by South Korea, is designed to combine high mobility, advanced fire-control systems, and strong protection. 
+‏
+‏The latest delivery brings Poland’s K2 fleet to 208 tanks.
+‏
+‏A further 88 K2GF tanks are expected by 2027, while 64 Poland-specific K2PL tanks are planned for delivery between 2028 and 2030, with most set to be produced domestically.
+18:27
+1405/06/03
+
+
+
+
 src :@jangaavaran1390
 ‏ترامپ از طریق شبکه Truth Social:
 ‏من همین الان از طرف نیروی دریایی ایالات متحده مطلع شدم که تمام مین‌ها از آب‌های بین‌المللی تنگه هرمز جمع‌آوری و/یا منفجر شده‌اند.
@@ -6247,18 +6304,6 @@ src :@samueltarikh
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏ایمان رشیدی، شهروند بهایی ساکن یزد، روز یکشنبه ۱ شهریور ۱۴۰۵ با معرفی خود به شعبه اجرای احکام دادگاه انقلاب یزد، برای گذراندن حکم حبس به زندان این شهر منتقل شد.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/156708
-‏@Farsi_Iranwire
-22:53
-1405/06/02
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏پرس تی وی با انتشار بیانیه ای اعلام کرد این شبکه هیچ خبری در خصوص رد پیشنهاد امریکا از سوی ایران منتشر نکرده است و این خبر کذب است 
 ‏
@@ -6919,14 +6964,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 18:41
-1405/06/02
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏ترکیه ۱۰۰ قایق انتحاری طوفان ساخت شرکت داخلی آسلسان را سفارش خواهد داد
-‏طوفان ۴۰۰ کیلومتر برد و دارای کلاهک جنگی ۳۵۰ کیلوگرمی است
-18:30
 1405/06/02
