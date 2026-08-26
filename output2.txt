@@ -1,3 +1,32 @@
+src :@GeoPWatch
+[عکس]
+‏🇷🇺❌🇺🇦 - Drone threat in Kyiv and surrounding regions. Alerts have been issued across multiple regions.
+‏
+‏@GeoPWatch
+02:20
+1405/06/05
+
+
+
+
+src :@rnintel
+‏🇾🇪⚡- Ansarullah missile attack on al-Khawkhah and Mocha, southwest Yemen.
+02:20
+1405/06/05
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: ایرانِ بی‌بنزین؛ بمب ساعتی زیر پای نظام
+‏@iranintlTV
+02:18
+1405/06/05
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇩🇪🇺🇦⚡️ — German investigators probing the suspected August 4 sabotage attempt at Leipzig/Halle Airport have discovered an antenna believed to have been installed to strengthen control signals and guide the explosive-laden drone toward Ukrainian cargo aircraft…
@@ -722,22 +751,6 @@ src :@mwarmonitor
 src :@naya_foriraq
 ‏🇮🇶طيران حربي كثيف يحلق فوق محافظة اربيل شمالي العراق.
 00:14
-1405/06/05
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏بلومبرگ به نقل از سه فرد مطلع گزارش داد وزارت دادگستری آمریکا در حال ایجاد دادگاهی برای تسهیل روند تصرف نظامی نفتکش‌های ایرانی و به غنیمت گرفتن آنها از سوی آمریکا است.
-‏
-‏آرون ریتز، دادستان ناحیه جنوبی تگزاس مستقر در هیوستون، تایید کرد وزارت دادگستری در حال احیای «دادگاه‌های غنایم» است. دفتر او نیز در این زمینه با وزارت دادگستری همکاری می‌کند.
-‏
-‏ریتز این دادگاه‌ها را بخشی از «مجموعه قوانین قدیمی دریایی» توصیف کرد. 
-‏
-‏به گزارش بلومبرگ، ایجاد چنین دادگاهی می‌تواند چارچوب حقوقی لازم را برای رسیدگی به نفتکش‌هایی فراهم کند که آمریکا در جریان عملیات نظامی تصرف می‌کند و قصد دارد آنها را به‌عنوان غنیمت در اختیار بگیرد.
-‏https://iranintl.com/202608269606
-00:13
 1405/06/05
 
 
@@ -2451,17 +2464,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸 – Trump reposted on Truth Social a Tweet that reads: I don't think the GOP fully grasps how badly they are fucking up right now.
-‏
-‏@GeoPWatch
-21:33
-1405/06/04
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴عارف: 
@@ -3092,14 +3094,6 @@ src :@tglobaleye
 ‏
 ‏🇪🇺 Legion Europa | Group Chat
 20:18
-1405/06/04
-
-
-
-
-src :@rnintel
-‏🇭🇹⚡️- On August 23rd, the Viv Ansanm gang coalition launched a barbaric assault on farmers and civilians right outside of Port-au-Prince, Haiti, in the middle of the night— torching homes, killing livestock, and abducting dozens of individuals.   The death…
-20:17
 1405/06/04
 
 
