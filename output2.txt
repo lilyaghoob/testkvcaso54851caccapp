@@ -1129,16 +1129,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی برنامه با کامبیز حسینی | روز دوم «عملیات طرد اقتصادی» چگونه گذشت؟
-‏@iranintlTV
-02:29
-1405/06/04
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇦❌🇷🇺 - Ukrainian drones are enroute towards Ryazan, Russia and Yaroslavl, Russia.
 ‏
