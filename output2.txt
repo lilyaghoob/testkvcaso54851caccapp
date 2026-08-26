@@ -1962,20 +1962,6 @@ src :@mohem_mat
 
 
 
-src :@IranintlTV
-[عکس]
-‏ماجد الانصاری، سخنگوی وزارت خارجه قطر، در شبکه ایکس اعلام کرد محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، پنج‌شنبه پنجم شهریور وارد تهران خواهد شد و با شماری از مقام‌های جمهوری اسلامی دیدار خواهد کرد تا درباره راه‌های کاهش تنش و فراهم کردن شرایط مناسب برای گفت‌وگو رایزنی کند.
-‏
-‏الانصاری گفت این سفر در راستای موضع ثابت قطر مبنی بر این انجام می‌شود که مسیر دیپلماتیک بهترین راه برای حل اختلافات و تقویت امنیت و ثبات در منطقه است.
-‏
-‏او افزود در این گفت‌وگوها، آزادی کشتیرانی در تنگه هرمز و ضرورت بازگشت وضعیت این آبراه به شرایط پیش از ۹ اسفند نیز بررسی خواهد شد.
-‏https://iranintl.com/202608268282
-22:23
-1405/06/04
-
-
-
-
 src :@jangaavaran1390
 ‏گزارش بلومبرگ، احتمال دارد پوتین اوکراین را با سلاح «هسته‌ای» مورد حمله قرار دهد: به گفته این خبرگزاری، تعداد فزاینده‌ای از مقامات روسی به این نتیجه رسیده‌اند.
 22:22
@@ -2092,23 +2078,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇺🇸🇪🇺Reuters: Senior European diplomats will attempt to reassure a Pentagon Under Secretary of Defense Colby next week that they have been stepping up defence as uncertainty around U.S.  troop deployment in Europe and Russia continue to build. 
-‏
-‏NATO member countries participating in the review have received a questionnaire which covers issues raging from defence strategy and procurement to support for U.S. foreign policy priorities. 
-‏
-‏One European official is uncertain if this this review will help inform a final decision and is a real excercise or if one has already been made.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:11
-1405/06/04
-
-
-
-
 src :@rnintel
 ‏🇺🇸⚡- Upon his return to the United States, CIA Director John Ratcliffe met at the White House, which also included Secretary of War Pete Hegseth and Chairman of the JCOS Dan Caine.
 22:10
@@ -2150,14 +2119,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 22:04
-1405/06/04
-
-
-
-
-src :@wfwitness
-‏⚡️🇸🇾🇸🇾🇮🇱 The spiritual leader of the Druze community in Suwayda, Hikmat al-Hijri:   We are an integral part of Israel and share the same beliefs with it.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:02
 1405/06/04
 
 
@@ -5997,15 +5958,4 @@ src :@mamlekate
 src :@OSINTWarfare
 ‏The Trump administration has formally submitted a bilateral civil nuclear energy agreement with Saudi Arabia for congressional review.
 01:45
-1405/06/04
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🛢— Current Oil Prices 
-‏
-‏The Global Eye | Subscribe ✈️
-01:33
 1405/06/04
