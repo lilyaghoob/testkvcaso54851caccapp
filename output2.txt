@@ -1,3 +1,20 @@
+src :@naya_foriraq
+‏🇮🇷الجيش الإيراني: مناطق شرق مضيق هرمز وشمال المحيط الهندي وبحر العرب وبحر عمان تخضع لسيطرتنا العملياتية.
+10:56
+1405/06/04
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇰🇪🇸🇴⚡- For the second time in just two days, al-Shabaab launched a cross-border attack on a Kenyan military base near the town of Konton, northeast Kenya (the base is located at 2.0361126, 40.9083649).  Kenyan military sources report repelling the attack and…
+10:54
+1405/06/04
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏شرکت ردیابی نفتکش‌ها «تانکر ترکرز» از انجام هم‌زمان دست‌کم ۱۵ عملیات انتقال نفت میان کشتی‌ها در دریای عمان خبر داده است؛ عملیاتی که حدود ۲۵ میلیون بشکه نفت خام و فرآورده‌های نفتی را در بر می‌گیرد.
@@ -3820,15 +3837,6 @@ src :@VahidOnline
 
 
 
-src :@P_raetorio
-[عکس]
-‏🔶 هم زمان با طلوع خورشید روز ۳ شهریور ۱۳۲۰ ارتش های شوروی و بریتانیا با پشتیبانی هوایی اقدام به عبور از مرز ایران نمودند. سفرای شوروی و بریتانیا همزمان با حمله نظامی به ایران به طور مشترک به خانه نخست وزیر رجبعلی منصور رفتند و بیان کردند با توجه دو اولتیماتوم…
-22:37
-1405/06/03
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇺🇦📞🇦🇲 — Ukrainian President Volodymyr Zelenskyy stated on the social media platform X that high-level dialogue with Armenia has intensified, and he expressed hope that this will be followed by close cooperation at various levels and in different areas.
@@ -3852,14 +3860,6 @@ src :@naya_foriraq
 ‏
 ‏‏سيدي، هذه ليست نورماندي، هذه ليلة ارتجال وقد نسيت نصك الخاص.
 22:36
-1405/06/03
-
-
-
-
-src :@naya_foriraq
-‏🇹🇷‏وقع زلزال بقوة 4.2 درجة في أديامان جنوب تركيا.
-22:30
 1405/06/03
 
 
@@ -5679,18 +5679,6 @@ src :@Mena_Live
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏«دونالد ترامپ»، رییس‌جمهوری ایالات متحده، با اشاره به اعدام و کشتار معترضان، وضعیت حقوق بشر در ایران را «فاجعه‌ای انسانی در ابعادی عظیم» توصیف کرد و خواستار توقف فوری آن شد.
-‏بخوانید: https://iranwire.com/fa/news-1/156735
-‏
-‏@Farsi_Iranwire
-17:12
-1405/06/03
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏The Greek-owned oil tanker "Venetian," which violated the route, was targeted by a missile in the Strait of Hormuz.
@@ -6194,14 +6182,6 @@ src :@BellumActaNews
 
 
 
-src :@rnintel
-‏🇺🇸🇷🇺⚡️- A C-17A Globemaster belonging to the U.S. Air Force flew from Riga to Moscow this morning.
-14:52
-1405/06/03
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻ترامپ پس از ۸ ماه دوباره نگران معترضان ایرانی شد
@@ -6327,20 +6307,6 @@ src :@thewarreporter
 ‏
 ‏— The New York Times | @TheWarReporter
 14:16
-1405/06/03
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺📷 هم‌زمان با ذخیره‌سازی اضطراری سوخت توسط نیروهای مسلح، بر اساس گزارش منابع میدانی، روز دوشنبه سوم شهریور ۱۴۰۵ به علت کمبود بنزین صف‌های طولانی چند کیلومتری در جایگاه‌های سوخت ایجاد شد که امتداد آن به خروجی برخی بزرگراه‌ها و اتوبان‌های اصلی کشید و در برخی مناطق ترافیک قفل شد.
-‏
-‏در مناطق شمالی تهران عملا بنزین نایاب شده است. شهروندان می‌گویند پمپ بنزین‌ در محله‌های پاسداران و فرمانیه کلا تعطیل است.
-‏
-‏#بنزین #سوخت #کمبود_بنزین
-‏@DEJradio
-14:10
 1405/06/03
 
 
@@ -6877,20 +6843,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 11:03
-1405/06/03
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏یکی از بدترین روز های تاریخ تامکت
-‏
-‏در ۲۷ ام آبان ماه سال ۱۳۶۰, یک فروند اف۱۴ به خلبانی سروان غلامرضا نظام‌آبادی و کابین عقب ستوان‌یکم فتح‌الله جلال‌آبادی در تله میراژ های عراقی بصورت ساندویچ اتک قرار گرفتند و پس از برخورد موشک در نزدیکی اهواز به سلامت ایجکت کردند
-‏
-‏تصویر از سروان نظام‌آبادی
-‏
-‏
-‏@PARVAZDAROJ | 𝐃𝐆𝐑
-10:55
 1405/06/03
