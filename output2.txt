@@ -1,5 +1,32 @@
+src :@ClashReport
+[عکس]
+‏Dan Caine, Pete Hegseth, and CIA Director John Ratcliffe were seen leaving the White House following yesterday’s U.S.-Russia intelligence talks.
+‏
+‏Source
+23:25
+1405/06/04
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏طبق گزارشات حوثی ها طی حملات موشکی مواضع نیروهای شبه‌نظامی یمنی وفادار به عربستان سعودی را در بندر المخا هدف قرار دادند
+23:23
+1405/06/04
+
+
+
+
 src :@Alibk3
-‏القوات المسلحة اليمنية تُطلق صواريخ نحو المخا
+‏القوات اليمنية تُطلق صواريخ باليستية نحو مستودعات أسلحة سعودية في ميناء المخأ.
+23:22
+1405/06/04
+
+
+
+
+src :@naya_foriraq
+‏🇾🇪صواريخ انصار الله تستهدف المليشيات الموالية للسعودية في المخا.
 23:22
 1405/06/04
 
@@ -11,6 +38,18 @@ src :@Farsi_Iranwire
 ‏بانک مرکزی جمهوری اسلامی، اعلام کرد نرخ تورم در ایران برای هجدهمین ماه پیاپی افزایش یافته و تورم نقطه‌به‌نقطه در مردادماه ۱۴۰۵ به ۸۴.۴ درصد رسیده است.
 ‏
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/156805
+23:21
+1405/06/04
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏وزیر انرژی آمریکا: ما خواهان پایان دادن به برنامه هسته‌ای ايران از طریق مذاکرات هستیم.
+‏
+‏خسته شید لاشیااااا خسته شید ما خسته شدیم بسه 😂
+‏
+‏🆔️‌@WAR_ROOM_NEWS
 23:21
 1405/06/04
 
@@ -3137,19 +3176,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-[عکس]
-‏France Doesn't Want Ukraine Buying Non-European Arms With EU Funds
-‏
-‏Paris is pressing Brussels to prevent Ukraine from relying indefinitely on exemptions that allow EU-backed military funds to be spent on US, Chinese, and other non-European equipment.
-‏
-‏READ MORE
-18:52
-1405/06/04
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇷🇺 Russia says President Putin was briefed on talks between CIA Director John Ratcliffe and Russian intelligence officials in Moscow.
 ‏
@@ -3256,26 +3282,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 18:40
-1405/06/04
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ترامپ در گفت‌وگو با خبرنگار الجزیره تأکید کرد که از نظر او، تحریم‌های اقتصادی علیه ایران می‌توانند به اندازه حملات نظامی اثرگذار باشند. وی همچنین درباره ادامه جنگ گفت که هیچ عجله‌ای برای پایان دادن به آن ندارد و آمادگی دارد در صورت لزوم، جنگ را تا هر زمانی که ممکن باشد ادامه دهد
-‏
-‏🆔@WAR_ROOM_NEWS
-18:38
-1405/06/04
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏پولیتیکو: دولت ترامپ قصد دارد گروه اعتراضی مستقر در بریتانیا بنام اقدام فلسطین، را به‌عنوان یک سازمان تروریستی جهانی ویژه معرفی کند. در صورت اعمال این تحریم، دارایی‌های این گروه در آمریکا مسدود شده و ارائه کمک مالی، کالا یا خدمات به آن از سوی شهروندان و نهادهای آمریکایی ممنوع خواهد شد. این نخستین مورد شناخته‌شده از اعمال تحریم‌های ضدتروریسم آمریکا علیه یک گروه فعال چپ‌گرای بریتانیایی خواهد بود.
-‏
-‏🆔@WAR_ROOM_NEWS
-18:37
 1405/06/04
 
 
@@ -3480,14 +3486,6 @@ src :@Farsi_Iranwire
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 در کودکی واقعه‌ای که توجه مرا به عالم معنی بیش از پیش جلب نمود، روزی روی داد که با مربی خود در کاخ سلطنتی سعدآباد در کوچه‌ای که با سنگ مفروش بود قدم می‌زدم. در آن هنگام ناگهان مردی را با چهره ملکوتی دیدم که بر گرد عارضش هاله‌ای از نور مانند صورتی که نقاشان…
 17:59
-1405/06/04
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸🇨🇳الولايات المتحدة: عرقلنا قراصنة صينيين اخترقوا وكالة ناسا والاحتياطي الفيدرالي والمعاهد الوطنية للصحة ومجلس الشيوخ.
-17:56
 1405/06/04
 
 
@@ -6247,25 +6245,4 @@ src :@Shin_Persian
 src :@Shin_Persian
 ‏↩️ Quoted tweet: Nu jā △ 🇱🇻🇺🇦  @AlfredsPodins  CIA director Ratcliffe arriving back to Riga International Airport (RIX) from Moscow, August 25, 2026  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  ترجمه خودکار فارسی  مدیر سیا رتکلیف در حال بازگشت به…
 23:29
-1405/06/03
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏TankerTrackers.com, Inc. ✓ @TankerTrackers
-‏
-‏A busy day in the Gulf of Oman, where there are at least fifteen sets of STS transfer sessions taking place. We count 25 million barrels of crude oil; plus some refined products. The oil originates from almost every country in the region, minus Iran.
-‏
-‏#OOTT #IranWar #Tankers
-‏
-‏ترجمه خودکار فارسی
-‏
-‏روزی پرکار در دریای عمان، جایی که دستکم پانزده مجموعه عملیات انتقال کشتیبهکشتی (STS) در جریان است. ما ۲۵ میلیون بشکه نفت خام را شمارش میکنیم؛ بهعلاوه مقداری فرآوردههای پالایشی. این نفت تقریباً از هر کشور منطقه سرچشمه میگیرد، منهای ایران.
-‏
-‏#OOTT #IranWar #Tankers
-‏
-‏𝕏  ·  @shin_persian
-23:22
 1405/06/03
