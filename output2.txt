@@ -1,3 +1,37 @@
+src :@Alibk3
+[عکس]
+‏رُصدت ناقلة النفط المتوقفة حاليًا في مضيق هرمز بعد تعرضها لهجوم بصاروخ للحوس الثوري الإسلامي، فيما شوهدت القاطرة «ماريا ليدر» وهي تساعدها قبالة السواحل العُمانية.
+21:38
+1405/06/04
+
+
+
+
+src :@Mena_Live
+‏Kuwaiti Al-Moushtaraka Contracting Company has won a $50 million Syrian Ministry of Transport contract to rehabilitate and maintain the international road linking Damascus to the Nasib border crossing with Jordan. The project will take 400 days.
+‏
+‏@Mana_Live
+21:37
+1405/06/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iran's Ghalibaf:
+‏
+‏We welcome China’s principled statement rejecting illegal sanctions against Iran.
+‏
+‏The Iran-China comprehensive strategic partnership is rooted in mutual respect, win-win cooperation, and a shared vision for a multipolar world. 
+‏
+‏This relationship needs no one’s permission.
+21:36
+1405/06/04
+
+
+
+
 src :@mwarmonitor
 ‏🔴وزیر انرژی آمریکا: ما خواهان پایان دادن به برنامه هسته‌ای ايران از طریق مذاکرات و بازرسی‌های آژانس بین‌المللی انرژی اتمی هستیم.
 ‏
@@ -19,7 +53,18 @@ src :@GeoPWatch
 
 
 
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی تیتراول با نیوشا صارمی: تردید بی‌سابقه ترامپ در سلامت مجتبی خامنه‌ای: اگر مرده، خوب لاپوشانی می‌شود
+‏@iranintlTV
+21:32
+1405/06/04
+
+
+
+
 src :@didarnews1
+[عکس]
 ‏🔴عارف: 
 ‏
 ‏🔹آمریکا به امضای رئیس‌جمهورش احترام بگذارد؛ راهبرد ما جنگ نیست، اما خوب دفاع می‌کنیم
@@ -2648,19 +2693,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇱🇧🇸🇾 Lebanese Army: A Syrian national was arrested in the town of Aihah, near the border, while attempting to smuggle a quantity of rocket shells into Lebanese territory.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:56
-1405/06/04
-
-
-
-
 src :@jangaavaran1390
 ‏به گفته حسین محبی، سخنگوی سپاه پاسداران انقلاب اسلامی ایران، ایران و عمان به توافق‌هایی در مورد تقسیم سهم آب در آب‌های تنگه هرمز و توزیع درآمدهای مربوطه رسیده‌اند. وی البته می‌گوید که دخالت آمریکا باعث می‌شود این طرح اجرا نشود
 17:52
@@ -2694,25 +2726,6 @@ src :@Americana_ir
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷Al Jazeera: U.S. President Trump said that the ongoing confrontation with Iran is not subject to any timeline and will continue for as long as necessary, reeassuring that the U.S. is achieving a big victory and that economic pressure is effective against Iran.
-‏
-‏"We are achieving a very big victory, and the Iranians are suffering from huge inflation, and their economy is collapsing.
-‏
-‏Iranians are treating their people very badly and are killing a very large number of protesters.
-‏
-‏There is no set timeline for a decision on returning to the negotiating table, and I am not in a hurry.
-‏
-‏I believe that both economic warfare and military strikes are effective."
-‏
-‏@wfwitness
-17:50
-1405/06/04
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 در کودکی واقعه‌ای که توجه مرا به عالم معنی بیش از پیش جلب نمود، روزی روی داد که با مربی خود در کاخ سلطنتی سعدآباد در کوچه‌ای که با سنگ مفروش بود قدم می‌زدم. در آن هنگام ناگهان مردی را با چهره ملکوتی دیدم که بر گرد عارضش هاله‌ای از نور مانند صورتی که نقاشان غرب از عیسی‌بن مریم می‌سازند، نمایان بود. در آن حین به من الهام شد که با خاتم ائمه اطهار حضرت امام قائم رو به رو هستم. مواجهه من با امام آخر زمان چند لحظه بیشتر به طول نینجامید که از نظر ناپدید شد و مرا در بهت و حیرت گذاشت. در آن موقع مشتاقانه از مربی خود سؤال کردم: او را دیدی؟ مربی متحیرانه جواب داد: «چه کسی را دیدم؟ اینجا که کسی نیست!» اما من این قدر به اصالت و حقیقت آنچه که دیده بودم اطمینان داشتم که جواب مربی سالخورده من کوچک‌ترین تأثیری در اعتقاد من نداشت.
@@ -2736,19 +2749,6 @@ src :@Americana_ir
 ‏🔴 ترامپ دقایقی قبل در مصاحبه با الجزیره اعلام کرد که هم "جنگ اقتصادی" و هم "حمله نظامی" علیه ایران مؤثر هستند و ادعای خود مبنی بر اینکه ایالات متحده در این جنگ «پیروزی بزرگی» داشته و اقتصاد ایران «در حال فروپاشی» است را تکرار کرد.
 ‏
 ‏🆔 @Americana_ir
-17:45
-1405/06/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇷🇺IRNA: Iranian Ambassador to Russia Jalali met with CEO of Gazprom Alexey Miller today to discuss implementing a strategic energy agreement between Iran and Russia. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:45
 1405/06/04
 
@@ -2841,23 +2841,6 @@ src :@Indypersian
 src :@RASTAKHIZ_PERSIAN
 ‏ترکیه در مورد اسرائیل سختگیری می‌کند، اما واقعیت کاملاً متفاوت است. اسماعیل حقی پکین، رئیس سابق اطلاعات ترکیه، به تازگی در سی‌ان‌ان ترک تأیید کرد که پایگاه راداری کورجیک در مالاتیا به رهگیری موشک‌هایی که اسرائیل را هدف قرار می‌دهند، کمک می‌کند. آنکارا از اینکه در انزوا رها شود، وحشت دارد و پشت درهای بسته، انطباق خود را نشان می‌دهد.
 17:34
-1405/06/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇺🇸🇮🇱 L’Orient: U.S. Ambassador Michel Issa said there is no agreement to halt Israeli attacks because Hezbollah has not yet handed over its weapons.
-‏
-‏Issa said the Lebanese state must complete the disarmament process before a broader arrangement with Israel can move forward.
-‏
-‏His remarks come as Beirut continues to push for an end to Israeli strikes and a withdrawal from Lebanese territory.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:33
 1405/06/04
 
 
@@ -5206,17 +5189,6 @@ src :@DEJradio
 
 
 
-src :@Alibk3
-[عکس]
-‏الغارديان: 
-‏
-‏ بعد العملية العسكرية الجريئة لاختطاف الرئيس الفنزويلي نيكولاس مادورو ، غمر الغرور ترامب، فظن أن نصراً مماثلاً وسريعاً ينتظره في الشرق الأوسط، لكنها تسببت بجرح غائر في الهيبة الوطنية الأمريكية.
-10:41
-1405/06/04
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨📷 میلاد شاهینی بـ.ـسیجی عضو مسجد «امام‌رضا» گرگان از جمله سرکوبگرانی است که در قیام ۱۴۰۱ و ۱۴۰۴ که علیه مردم بود. 
@@ -5391,17 +5363,6 @@ src :@Artemis_Force
 ‏
 ‏@Minas_Tirith2024
 10:20
-1405/06/04
-
-
-
-
-src :@Alibk3
-[عکس]
-‏رويترز: 
-‏
-‏ضربة قوية لرئيس الوزراء البريطاني الجديد آندي بورنهام، الذي تعهد بتخفيف ضغوط تكلفة المعيشة، حيث ستشهد معظم الأسر البريطانية ارتفاعاً في تكاليف الطاقة اعتباراً من أكتوبر بعد أن أعلنت هيئة تنظيم الطاقة عن زيادة بنسبة 4٪ في الحد الأقصى لأسعارها نتيجة الحرب في إيران.
-10:16
 1405/06/04
 
 
@@ -6558,12 +6519,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 21:37
-1405/06/03
-
-
-
-
-src :@Mena_Live
-‏Mazloum Abdi appointed as advisor to the Syrian President for Kurdish affairs.  @Mena_Live
-21:35
 1405/06/03
