@@ -1,3 +1,24 @@
+src :@ClashReport
+[عکس]
+‏Darline Graham won South Carolina’s GOP Senate runoff, defeating Rep. Ralph Norman 52%–48% with strong backing from President Trump. 
+‏
+‏Graham, appointed after her brother Lindsey Graham’s death, now faces Democrat Annie Andrews in November and is heavily favored to win.
+09:14
+1405/06/04
+
+
+
+
+src :@ClashReport
+‏The Trump administration has temporarily paused or rescheduled U.S. visa appointments worldwide while consular officers undergo new screening training. 
+‏
+‏The State Department did not say how long the disruption will last.
+09:12
+1405/06/04
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏‏✅ قیمت نفت برنت به ۸۶ دلار رسید
@@ -2719,19 +2740,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Satellite imagery shows at least 15 simultaneous ship-to-ship oil transfers happening in the Gulf of Oman today, moving roughly 25 million barrels of crude from nearly every regional producer except Iran.
-‏
-‏The transfers are part of the workaround system that emerged after the Strait of Hormuz became restricted. 
-‏
-‏Shuttle tankers load inside the Persian Gulf, pass through the strait, and transfer cargo to larger vessels waiting in the Gulf of Oman for onward delivery to Asian markets.
-23:40
-1405/06/03
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏دو منبع آگاه به گفت‌وگوهای مارکو روبیو، وزیر خارجه آمریکا، با مقام‌های کشورهای مختلف، به کانال ۱۲ اسراییل گفته‌اند واشنگتن در حال حاضر انتظار ندارد حملات تهاجمی جدیدی علیه ایران انجام دهد و تمرکز دولت دونالد ترامپ به افزایش فشار اقتصادی بر تهران و تامین امنیت کشتیرانی در تنگه هرمز معطوف شده است.
@@ -3246,14 +3254,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 22:44
-1405/06/03
-
-
-
-
-src :@ClashReport
-‏At least four Chinese CH-4 armed drones have been visually confirmed at Abéché Air Base in eastern Chad, near the Sudanese border.  Abéché's location makes it well-positioned for operations along the Darfur border.
-22:40
 1405/06/03
 
 
