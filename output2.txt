@@ -1,3 +1,31 @@
+src :@MilitarryWorld
+‏🔴سخنگوی سپاه: تنگه هرمز در اختیار ماست
+‏
+‏@MilitarryWorld | Parsa
+15:43
+1405/06/04
+
+
+
+
+src :@GeoPWatch
+‏🇺🇦❌🇷🇺 - Air Raid Alerts in Sevastopol, Crimea.
+15:40
+1405/06/04
+
+
+
+
+src :@GeoPWatch
+‏🇺🇦❌🇷🇺 - All districts of Sevastopol, Crimea and nearby settlements are reportedly under attack by Ukranian drones.
+‏
+‏@GeoPWatch
+15:39
+1405/06/04
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇧🇾🇷🇺❌🇺🇦- Belarusian President Alexander Lukashenko has ordered a snap combat-readiness inspection of the country’s Armed Forces.
@@ -1812,18 +1840,6 @@ src :@rus_cosmos
 
 
 
-src :@ClashReport
-‏Kremlin:
-‏
-‏There was no contact between Putin and CIA Director Ratcliffe.
-‏
-‏Contacts with CIA Director Ratcliffe took place through the intelligence services.
-13:07
-1405/06/04
-
-
-
-
 src :@BellumActaNews
 ‏🇺🇸🇮🇷 — US Secretary of State Marco Rubio told U.S. allies that Washington does not plan to resume major strikes on Iran for the time being.
 ‏
@@ -1927,25 +1943,6 @@ src :@jangaavaran1390
 
 src :@naya_foriraq
 ‏🇮🇶🇺🇸 دوي صافرات الإنذار بالسفارة الأميركية في بغداد وسط حالة من الرعب تصيب سكان مجمع بغداد رزدنتي الملاصق لمجمع السفارة !
-12:52
-1405/06/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏France is pushing to limit Ukraine's ability to buy non-European military equipment with EU loan money, seeking to steer the €60 billion defense portion of the EU's €90 billion support package toward European and French producers.
-‏
-‏Ukraine has secured two exemptions so far: one for Chinese drone components and another for US Patriot interceptor missiles. 
-‏
-‏France wants these exemptions to be temporary, with European suppliers replacing foreign ones as production ramps up.
-‏
-‏Nine EU countries including Germany, Sweden, and Poland pushed back, calling for Ukraine to have "maximum flexibility to procure the equipment it urgently needs."
-‏
-‏France has a clear commercial interest: its Franco-Italian SAMP/T system is Europe's closest alternative to the US Patriot.
-‏
-‏Source: Euronews
 12:52
 1405/06/04
 
@@ -3515,17 +3512,6 @@ src :@Alibk3
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏‏🔴 قیمت نفت برنت: ۸۶ دلار
-‏
-‏@MilitarryWorld | Parsa
-09:27
-1405/06/04
-
-
-
-
 src :@naya_foriraq
 ‏🔻الإعلام الأمريكي: 
 ‏تم إخلاء يائير نتنياهو سرًا من ميامي قبل عدة أشهر، وذلك بعد اكتشاف خلية إيرانية كانت تراقبه في اللحظات الأخيرة.
@@ -4110,23 +4096,6 @@ src :@tabzlive
 src :@GeoPWatch
 ‏🇺🇦❌🇷🇺 - Ukrainian drones are enroute towards Ryazan, Russia and Yaroslavl, Russia.  @GeoPWatch
 03:15
-1405/06/04
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌🇷🇺 - Ukrainian Drones have just hit a Wildberries factory in Kotovsk, Russia, rendering multiple direct hits.  @GeoPWatch
-03:14
-1405/06/04
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING  🇺🇸❌🇷🇺‼️ - Reports are circulating that the U.S. embassy in Moscow has taken down all previously flown U.S. flags.
-03:06
 1405/06/04
 
 
