@@ -6973,17 +6973,6 @@ src :@BellumActaNews
 
 
 
-src :@BellumActaNews
-[عکس]
-‏JUST IN: Bitcoin surges to $81,000 as $225,000,000 in shorts are liquidated from the crypto market in 10 minutes.
-‏
-‏@WatcherGuru
-06:49
-1405/06/03
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — The U.S. State Department is offering up to $10 million and possible relocation for information on senior IRGC commanders.
