@@ -1,5 +1,16 @@
 src :@ClashReport
 [عکس]
+‏House Democrats elevated several pro-Israel lawmakers on the Foreign Affairs Committee, giving Rep. Jared Moskowitz the top Democratic role on the Middle East panel.
+‏
+‏If Democrats win the House, he could have significant influence over U.S. policy toward Israel and the region.
+09:18
+1405/06/04
+
+
+
+
+src :@ClashReport
+[عکس]
 ‏Darline Graham won South Carolina’s GOP Senate runoff, defeating Rep. Ralph Norman 52%–48% with strong backing from President Trump. 
 ‏
 ‏Graham, appointed after her brother Lindsey Graham’s death, now faces Democrat Annie Andrews in November and is heavily favored to win.
@@ -1351,20 +1362,6 @@ src :@tabzlive
 
 
 
-src :@intelslava
-‏🇮🇱🇸🇾🇹🇷⚡️ — President Erdoğan stated that Turkey is aware of Israel's attempts to impose "bloody scenarios" on the region and emphasized that Ankara will not allow such plans to be realized.
-‏
-‏Erdoğan also stated that Turkey will continue to provide support in the process of rebuilding the Syrian state and will not cease this support despite objections from "criminal organizations stained with the blood of innocent people."
-‏
-‏He emphasized that Turkey's foreign policy is determined solely by the will of the Turkish people and cannot be directed or limited by external actors.
-‏
-‏@IntelSlava
-02:31
-1405/06/04
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇦❌🇷🇺 - Ukrainian drones are enroute towards Ryazan, Russia and Yaroslavl, Russia.
 ‏
@@ -1389,18 +1386,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 02:22
-1405/06/04
-
-
-
-
-src :@intelslava
-‏🇺🇳🇺🇸🇷🇺⚡️ — NATO intelligence has reportedly “picked up signals” indicating that Russia may be planning to test NATO’s response by carrying out limited incursions into European territory.
-‏
-‏This also coincides with CIA Director John Ratcliffe’s visit to the Kremlin, during which he reportedly delivered an ultimatum concerning recent Russian drone incursions into NATO territory.
-‏
-‏@IntelSlava
-02:15
 1405/06/04
 
 
@@ -1436,16 +1421,6 @@ src :@GeoPWatch
 ‏
 ‏Reports further claim the Russian DRG escaped following the attack and may remain active in the Druzhkivka area.
 02:05
-1405/06/04
-
-
-
-
-src :@intelslava
-‏🇺🇸🇸🇦⚡️ — The Trump administration has formally submitted a bilateral civil nuclear energy agreement with Saudi Arabia for congressional review.
-‏
-‏@IntelSlava
-01:58
 1405/06/04
 
 
@@ -1693,16 +1668,6 @@ src :@ClashReport
 
 
 
-src :@intelslava
-‏🇺🇸🇮🇷⚡️ — In recent days, Secretary of State Marco Rubio has told several of his counterparts from other countries that, "at this time," the United States does not plan to initiate new strikes against Iran, but rather intends to focus its policy on other pressure tactics. This was reported by a senior U.S. official and another source familiar with the details.
-‏
-‏@IntelSlava
-01:17
-1405/06/04
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸 - Beloved bodybuilder and YouTuber Rich Piana died nine years ago today at the age of 46.
@@ -1759,14 +1724,6 @@ src :@Alibk3
 ‏
 ‏وزير الخارجية الأميركي لم يستبعد شن ضربات إذا هاجمت إيران أولا.
 01:09
-1405/06/04
-
-
-
-
-src :@intelslava
-‏🇺🇸🇷🇺⚡️ — The U.S. Embassy in Moscow has removed the American flag following CIA Director John Ratcliffe’s unannounced four-hour visit.  @IntelSlava
-01:07
 1405/06/04
 
 
@@ -2108,16 +2065,6 @@ src :@samueltarikh
 ‏هیچ‌کس تو دانشگاه بهت یاد نمی‌ده چطور اپلای کنی یا از کجا اخبار مهاجرتو دنبال کنی؛ این چیزا رو باید از اینجا یاد بگیری: 👇
 ‏
 ‏https://t.me/+qPRTxDaH1qdiYTU0
-00:29
-1405/06/04
-
-
-
-
-src :@intelslava
-‏🇪🇺⚡️ — The European Commission has proposed launching negotiations to extend the "Roam Like at Home" policy, which currently allows free roaming in the EU, Iceland, Liechtenstein, Norway, Moldova and Ukraine, to Albania, Bosnia and Herzegovina, Kosovo Montenegro, North Macedonia and Serbia.
-‏
-‏@IntelSlava
 00:29
 1405/06/04
 
@@ -2672,18 +2619,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:47
-1405/06/03
-
-
-
-
-src :@ClashReport
-‏Iran's Deputy FM Kazem Gharibabadi:
-‏
-‏The reopening of the Strait of Hormuz will only happen in exchange for ending the war on all fronts, lifting the blockade, and resolving the situation in Yemen.
-‏
-‏We told Pakistan's Army Chief that reopening the Strait of Hormuz depends on America fulfilling its commitments under the memorandum of understanding.
-23:46
 1405/06/03
 
 
@@ -7021,42 +6956,4 @@ src :@BellumActaNews
 ‏
 ‏@TheWarReporter
 09:31
-1405/06/03
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Jet activity over Baghdad, #Iraq 🇮🇶
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت جت بر فراز بغداد، #عراق 🇮🇶
-‏
-‏𝕏  ·  @shin_persian
-09:21
-1405/06/03
-
-
-
-
-src :@Navy_Iranian
-‏برخی اخبار حاکیت از بازسازی ناو شهید سلیمانی و ناو زاگرس دارند. 
-‏
-‏منبع همچین اخباری مشخص نیست اما باتوجه به آسیب صنایع دریایی ما که در گذشته بررسی کرده بودیم، این مورد دور از انتظار است.
-‏
-‏ناوی همانند زاگرس در حالت نیمه غرق مانده و صرفا  یک بخشی از بالای عرشه آن زیر آب نرفته است. 
-‏
-‏ناو های شهید باقری و شهید دلواری نیز اصابت های سنگینی داشتند. ناو شهید صیاد شیزاری اصابت سبک تری داشت. با توجه به آلومینیوم بودن بدنه آنها غرق شدن آنها دور از ذهن است اما بازسازی آنها کماکان بی عقلی است.
-‏
-‏ناوی که نتوانسته در مقابل پهپاد ام کیو ۹ مقابله بکند، چرا بازسازی شود؟ ناوی که پشتیبانی هوایی ندارد، چرا ساخته شود؟
-‏
-‏در حال حاضر اولولیت باید تقویت نیروهوایی باشد، نیروی دریایی صرفا درگیر تهیه / ساخت قایق موشک انداز بشود که مثلا با دزدان دریایی مقابله بکند. از طرفی وضعیت آموزش را از اساس تغییر بدهند. به نیروهای تفنگدار و تکاور اهمیت بیشتری بدهند و تجهیز درست حسابی داشته باشند.
-‏
-‏بعد از تقویت نیروهوایی رفتن به سمت خرید یا ساخت ناو توجیه پذیر میشود.
-‏
-‏@Navy_Iranian | #A_A
-09:20
 1405/06/03
