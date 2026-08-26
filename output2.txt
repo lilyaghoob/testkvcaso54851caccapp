@@ -1,5 +1,25 @@
+src :@intelslava
+‏Reports of an attack using drones in Soran, Erbil, in the Kurdistan Region of Iraq.
+00:25
+1405/06/05
+
+
+
+
+src :@Mena_Live
+‏"Hamas is not showing any signs of disarming. On the contrary, we are seeing attempts to resume the independent production of various types of weapons in order to arm its forces." (Maariv/Israeli security official)
+‏
+‏@Mena_Live
+00:24
+1405/06/05
+
+
+
+
 src :@Alibk3
-‏أنباء أولية عن إسقاط طائرة تجسس سعودية فوق محافظة إب اليمنية
+‏مصدر خاص:
+‏
+‏ إسقاط طائرة تجسس سعودية فوق محافظة إب اليمنية
 00:22
 1405/06/05
 
@@ -681,14 +701,6 @@ src :@ClashReport
 
 
 
-src :@Alibk3
-‏القوات اليمنية تُطلق صواريخ باليستية نحو مستودعات أسلحة سعودية في ميناء المخأ.
-23:22
-1405/06/04
-
-
-
-
 src :@naya_foriraq
 ‏🇾🇪صواريخ انصار الله تستهدف المليشيات الموالية للسعودية في المخا.
 23:22
@@ -1086,22 +1098,6 @@ src :@Middle_East_Spectator
 ‏‘I’m tired, boss’
 ‏
 ‏@Middle_East_Spectator
-23:00
-1405/06/04
-
-
-
-
-src :@Alibk3
-[عکس]
-‏المتحدث باسم الخارجية الإيرانية:
-‏
-‏‏أرسلت أمريكا حاملة الطائرات الأمريكية "يو إس إس أبراهام لينكولن" إلى المنطقة لبسط نفوذها، بعد شهور من الحرب - وأكثر من 200 يوم دون توقف في أي ميناء، تتجه الآن إلى تايلاند لراحة واستجمام الطاقم.
-‏
-‏‏المهمة: مشروع القوة.
-‏‏المهمة الحالية: مشروع العطلة.
-‏
-‏‏"أنا متعب يا رئيس."
 23:00
 1405/06/04
 
@@ -2722,19 +2718,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏Netanyahu Dismisses Iran Deal Prospects, Calls Iranian Leaders 'Savages'
-‏
-‏Netanyahu said he had no objection to a “good agreement” with Iran but told Trump he believed no deal could be made with its leadership, which he called “savages.”
-‏
-‏READ MORE
-20:43
-1405/06/04
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴طبق برآورد آزمایشگاه بودجه دانشگاه ییل؛ تعرفه‌های ترامپ برای هر خانوار آمریکایی به طور متوسط بیش از ۱۰۰۰ دلار در سال هزینه خواهد داشت.
@@ -2830,19 +2813,6 @@ src :@DEJradio
 ‏#موشتبا 
 ‏@DEJradio
 20:29
-1405/06/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Qatar's LNG Exports Collapse 96%, Erasing $24 Billion in Gas Revenue
-‏
-‏Qatar has lost an estimated $24 billion in gas sales after LNG exports plunged 96% amid the Strait of Hormuz shutdown, equivalent to roughly five months of national income.
-‏
-‏READ MORE
-20:23
 1405/06/04
 
 
@@ -4277,18 +4247,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:30
-1405/06/04
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇸⚡️ — There were no direct contacts between President Putin and the Director of the CIA.
-‏
-‏Communication with the Director of the CIA was conducted through intelligence agencies, and Putin was informed about the meeting and the results of the negotiations – Peskov.
-‏
-‏@Intelslava
-15:26
 1405/06/04
 
 
