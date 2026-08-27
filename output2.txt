@@ -1,3 +1,48 @@
+src :@mwarmonitor
+‏📰 جان راتکلیف، رئیس سازمان اطلاعات مرکزی آمریکا (CIA)، بنا بر گزارش وال‌استریت ژورنال، این هفته در سفری غافلگیرکننده به مسکو رفت تا به روسیه درباره حمله به کشورهای عضو ناتو هشدار دهد. وال‌استریت ژورنال 
+‏
+‏@mwarmonitor
+08:36
+1405/06/05
+
+
+
+
+src :@naya_foriraq
+‏🇷🇺🇺🇦هجوم روسي بالطائرات المسيرة الإنقضاضية يستهدف مصانع أوكرانية في العاصمة كييف والنيران تشتعل فيها.
+08:35
+1405/06/05
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸⚡️ — Trump, the Secretary of Defense, the Director of the CIA, and a US Air Force General held an emergency meeting after Ratcliffe's visit to Moscow.
+‏
+‏The meeting at the White House took place immediately after the head of US intelligence returned from Moscow. It is noted that Trump's meeting with the leaders of the security apparatus was held in a closed format and lasted for about three hours.
+‏
+‏After the meeting, the heads of the agencies left the White House together. Details of the meeting have not been disclosed.
+‏
+‏@Intelslava
+08:33
+1405/06/05
+
+
+
+
+src :@intelslava
+‏🇺🇸🇷🇺⚡️ — The CIA Director visited Moscow to warn Putin against attacking the Baltic states, according to Politico.
+‏
+‏According to the publication, John Ratcliffe warned Russia against escalating tensions with Lithuania, Latvia, and Estonia, and also demanded that Russia cease its military and economic support of Iran.
+‏
+‏@Intelslava
+08:33
+1405/06/05
+
+
+
+
 src :@MilitarryWorld
 ‏🔴حمله موشکی ایران به یک نفتکش در تنگه هرمز،
 ‏سازمان تجارت دریایی بریتانیا:
@@ -1480,20 +1525,6 @@ src :@Mena_Live
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️بانک مرکزی اعلام کرد نرخ تورم نقطه‌به‌نقطه در مردادماه ۱۴۰۵ به ۸۴ درصد رسیده است.
-‏بر اساس گزارش بانک مرکزی، تورم ماهانه در اردیبهشت‌ماه با ثبت ۸.۵ درصد به بالاترین سطح خود رسید؛ روندی که به گفته این نهاد، از ماه‌ها قبل آغاز شده بود و تحت تاثیر مجموعه‌ای از عوامل، از جمله جنگ، محاصره اقتصادی و افزایش انتظارات تورمی تشدید شد.
-‏بانک مرکزی اعلام کرد آثار این تحولات با وقفه زمانی در شاخص بهای کالاها و خدمات مصرفی نمایان شده و به همین دلیل، فشارهای تورمی در ماه‌های پایانی سال گذشته و سال جاری ادامه یافته است.
-‏
-‏مرکز آمار ایران پیش‌تر اعلام‌کرده بود نرخ تورم سالانه (۱۲ ماهه منتهی به تیرماه) ۶۶ درصد و تورم نقطه به نقطه (تیر ۱۴۰۵ در مقایسه با تیر ۱۴۰۴) در نخستین ماه تابستان ۷۵ درصد بوده است.
-‏@indypersian
-02:52
-1405/06/05
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏آنا کلی، معاون اول سخنگوی کاخ سفید، چهارشنبه به «الشرق» گفت هیچ مذاکره یا گفت‌وگویی با جمهوری اسلامی در جریان نیست یا برنامه‌ریزی نشده است. او این سخنان را در پاسخ به پرسشی درباره انتقال پیام دولت آمریکا به تهران از سوی نخست‌وزیر قطر بیان کرد.
@@ -1760,17 +1791,6 @@ src :@rnintel
 
 
 
-src :@intelslava
-[عکس]
-‏🇮🇷⚡️ — Reports of explosions in the Strait of Hormuz following IRGC Navy anti-ship missile launches targeting vessels violating the blockade.
-‏
-‏@IntelSlava
-00:58
-1405/06/05
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇺🇦🇮🇱 President Zelensky says Ukraine shares "deep bonds" with Israel.
@@ -1791,18 +1811,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 00:54
-1405/06/05
-
-
-
-
-src :@intelslava
-‏🇺🇸🇷🇺🇺🇦⚡️ — Former Trump special envoy for Ukraine, Kurt Kellogg, has called the involvement of Steve Witkoff and Jared Kushner in the Ukraine negotiations a mistake.
-‏
-‏In his opinion, they have a poor understanding of the war, Russia, and its capabilities, and they lack the necessary expertise for such negotiations.
-‏
-‏@Intelslava
-00:53
 1405/06/05
 
 
@@ -6214,19 +6222,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 09:03
-1405/06/04
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏▪️امارات متحده عربی در حال بومی‌سازی تولید سامانه‌های رهگیر پهپادها در داخل خاک خود است.
-‏
-‏▪️تولید سامانه Guardian عملاً آغاز شده و این سامانه با ظرفیت ۳۰ رهگیر در روز تولید می‌شود. Guardian برای مقابله با پهپادهایی مانند «شاهد» طراحی شده است.
-‏
-‏▪️هم‌زمان، تولید سامانه Coyote نیز در داخل امارات در حال انجام است.
-‏
-‏@mwarmonitor
-09:01
 1405/06/04
