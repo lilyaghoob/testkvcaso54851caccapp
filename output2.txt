@@ -1,3 +1,81 @@
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦 -  6 Iskander Missiles are currently over South Eastern Kyiv.  @GeoPWatch
+03:58
+1405/06/05
+
+
+
+
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦 -  6 Iskander Missiles are currently over South Eastern Kyiv.
+‏
+‏@GeoPWatch
+03:57
+1405/06/05
+
+
+
+
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦 -  6 Iskander Missiles are currently enroute to Kyiv.
+‏
+‏@GeoPWatch
+03:57
+1405/06/05
+
+
+
+
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦 - Iskander Missile launch detected from Bryansk, Russia.
+‏
+‏@GeoPWatch
+03:55
+1405/06/05
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇦⚡️ — Several Iskander-M tactical ballistic missiles were launched from Bryansk Oblast toward Kyiv.
+‏
+‏@IntelSlava
+03:55
+1405/06/05
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏مقام‌های نپال ابتدا زمین‌لرزه را عامل سیلاب مرگبار در مرز این کشور با تبت اعلام کردند، اما بررسی‌های علمی نشان می‌دهد رانش سنگ و یخ احتمالا مسیر رودخانه‌ای را مسدود کرده و شکستن این سد طبیعی، موج ویرانگری از آب و گل‌ولای ایجاد کرده است.
+‏
+‏خبرگزاری فرانسه گزارش داد در این حادثه دست‌کم ۱۶۰ نفر جان باختند و صدها نفر ناپدید شدند.
+‏
+‏سازمان زمین‌شناسی آمریکا اعلام کرد لرزش‌هایی که ابتدا زمین‌لرزه‌ای به بزرگی ۴.۴ تصور شده بود، احتمالا ناشی از رانش زمین بوده است. ارزیابی کارشناسان نیز از وقوع بهمن سنگ و یخ و مسدود شدن رودخانه «لهنده» حکایت دارد.
+‏
+‏نبود بارندگی پیش از حادثه، هشدار زودهنگام را دشوار کرده است. کارشناسان می‌گویند شکستن ناگهانی سدهای طبیعی می‌تواند موجی سریع از آب، گل‌ولای و آوار ایجاد کند که به گفته یک آب‌شناس، مانند «بتن مایع» حرکت می‌کند.
+‏
+‏کارشناسان می‌گویند هنوز برای مرتبط دانستن قطعی این فاجعه با تغییرات اقلیمی زود است، هرچند افزایش گرما، عقب‌نشینی یخچال‌ها و کاهش یخ‌های دائمی می‌تواند خطر رانش و سیلاب را در هیمالیا افزایش دهد.
+‏
+‏https://iranintl.com/202608273072
+03:54
+1405/06/05
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇦❌🇷🇺 - Ukraine has just launched a massive aerial drone attack on Russia. Russian sources are reporting approximately 330 drones.
+‏
+‏@GeoPWatch
+03:54
+1405/06/05
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇮🇱🇵🇸 Senior official for President Trump's Board of Peace says Israel is jeopardizing the ceasefire in Gaza.
 ‏
@@ -202,14 +280,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 - 4 S8000 Banderol cruise missiles just targeted Odesa.  @GeoPWatch
-03:29
-1405/06/05
-
-
-
-
 src :@Mena_Live
 ‏On the first day of the Damascus International Fair, a Syrian-Turkish agreement was signed to expand the Bab al-Hawa industrial city in Idlib governorate.
 ‏
@@ -261,14 +331,6 @@ src :@Indypersian
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 - 5 Cruise Missiles are enroute to Kyiv.  @GeoPWatch
-03:16
-1405/06/05
-
-
-
-
 src :@Indypersian
 ‏⭕️علاقه شدید به شیرینی می‌تواند بر تصمیم‌گیری‌ها اثرگذار باشد
 ‏
@@ -291,14 +353,6 @@ src :@Indypersian
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 - Reports of explosions in Zaporizhzhia City, Ukraine.  @GeoPWatch
-03:15
-1405/06/05
-
-
-
-
 src :@intelslava
 ‏🇷🇺🇺🇦⚡️ — Russia struck Kryvyi Rih, Zaporizhzhia, and Kremenchuk with approximately eight Iskander-M/KN-23 tactical ballistic missiles.
 ‏
@@ -306,15 +360,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 03:14
-1405/06/05
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦 - SU-34s were detected conducting launch maneuvers over the West of the Black Sea, off the coast of Crimea. Target is likely Odesa.
-03:13
 1405/06/05
 
 
@@ -1816,25 +1861,6 @@ src :@mohem_mat
 ‏ترامپ از سرسختی ایران و امتناع این کشور از کوتاه آمدن خشمگین است اما دستیارانش او را متقاعد کرده‌اند که به طرح جدید فرصت بدهد / انتخاب
 ‏
 ‏@entekhabsite
-23:07
-1405/06/04
-
-
-
-
-src :@intelslava
-[عکس]
-‏⚡️🇮🇷🇺🇸 — Iranian Foreign Ministry Spokesperson Esmail Baghaei Via X:
-‏America sent the USS Abraham Lincoln to the region to project power.
-‏
-‏After months of war - and more than 200 days without a single port call - it is now heading to Thailand for crew R&R.
-‏
-‏Mission: Project Power.  
-‏Current mission: Project Vacation.
-‏
-‏“I’m tired, boss.” 
-‏
-‏⭐️ Follow @MaxOsintIntel
 23:07
 1405/06/04
 
