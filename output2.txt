@@ -1,3 +1,59 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇺🇸🇮🇷 Trump administration tells mediators it will not reaccept the terms of the June MOU deal with Iran.
+‏
+‏@BRICSNews
+21:21
+1405/06/05
+
+
+
+
+src :@mohem_mat
+‏ادعای ترامپ: 
+‏اقدامات ما در قبال ایران به معنای کنار گذاشتن گزینه نظامی نیست.
+‏
+‏@mohem_mat
+21:21
+1405/06/05
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️محمدباقر قالیباف، رئیس مجلس شورای اسلامی، در واکنش به اظهارات اسکات بسنت، وزیر خزانه‌داری آمریکا، ایالات متحده را «امپراتوری رو به زوال» خواند و اسرائیل را «نیروی نیابتی» این کشور توصیف کرد.
+‏
+‏قالیباف پنجشنبه پنجم شهریورماه در شبکه اجتماعی ایکس نوشت آمریکا به‌جای اختصاص میلیاردها دلار به اسرائیل و ۷۵۰ پایگاه نظامی، می‌تواند این منابع را برای مردم خود هزینه کند. او سپس خطاب به بسنت نوشت: «اسکاتی، اعتبارت در خطر است. یک کاری بکن.»
+‏
+‏این واکنش پس از آن مطرح شد که وزیر خزانه‌داری آمریکا در شبکه اجتماعی ایکس از نحوه هزینه‌کرد منابع ایران توسط جمهوری اسلامی انتقاد کرد. بسنت نوشته بود حکومت ایران به‌جای اختصاص میلیاردها دلار به نیروهای نیابتی خود، باید این منابع را برای مردم ایران هزینه کند.
+‏ 
+‏@indypersian
+21:21
+1405/06/05
+
+
+
+
+src :@jangaavaran1390
+‏دونالد ترامپ، با صدور یک فرمان اجرایی از دفتر بیضی‌شکل، دستور دادند که وزارت کشور نام دریاچه انتاریو را به "دریاچه آمریکا" تغییر دهد. این اقدام در پاسخ به آخرین اختلافات تجاری بین کانادا و ایالات متحده صورت گرفته است.
+‏این دریاچه یک دریاچه مرزی بین ایالات متحده و کانادا است
+21:20
+1405/06/05
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇾🇪 — Yemeni National Resistance Forces has acknowledged six ballistic missile impacts by Ansarallah towards its controlled territories earlier today.
+‏
+‏According to the NRF, four ballistic missiles struck NRF-controlled islands in the Red Sea, and two ballistic missiles struck areas in Al-Khawkhah District, NRF-controlled areas on the coast of the Red Sea.
+21:20
+1405/06/05
+
+
+
+
 src :@mohem_mat
 ‏پالایشگاه‌های چینی همچنان روزانه حدود ۱.۲ میلیون بشکه نفت ایران دریافت می‌کنند؛ رقمی که تفاوت چندانی با سال گذشته ندارد.
 ‏
@@ -703,21 +759,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Kuwait and Qatar have increased crude shipments through the Strait of Hormuz to around 70% of their pre-war levels, helping support global oil supplies and keep prices in check. 
-‏
-‏They have been using “shuttle” operations, moving oil through the strait and transferring it to other tankers in the Gulf of Oman. 
-‏
-‏Total oil flows through Hormuz have risen to roughly 7–8 million barrels per day, up from about 4 million in mid-July, despite continued risks to shipping.
-‏
-‏Source: Bloomberg
-20:34
-1405/06/05
-
-
-
-
 src :@didarnews1
 ‏♦️ الجزیره به نقل از منبع آمریکایی:
 ‏
@@ -788,19 +829,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇦🇷🇺 Ukraine strikes nuclear fuel storage facility at Zaporizhzhia Nuclear Power Plant.
 ‏
 ‏@BRICSNews
-20:29
-1405/06/05
-
-
-
-
-src :@ClashReport
-[عکس]
-‏‘Butcher of Bosnia’: Ratko Mladic, Architect of Srebrenica Genocide, is Dead at 83
-‏
-‏Ratko Mladic, the Bosnian Serb general convicted of genocide, crimes against humanity and war crimes over Srebrenica and other atrocities, has died aged 83.
-‏
-‏READ MORE
 20:29
 1405/06/05
 
@@ -2972,14 +3000,6 @@ src :@MilitarryWorld
 
 
 
-src :@jangaavaran1390
-‏جنگاوران pinned a photo
-17:30
-1405/06/05
-
-
-
-
 src :@BellumActaNews
 ‏💸 Vole Beaver Club
 ‏
@@ -3790,24 +3810,6 @@ src :@Alibk3
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏A missile barrage launched toward Mokha in Yemen
-15:41
-1405/06/05
-
-
-
-
-src :@Alibk3
-[عکس]
-‏إطلاق رشقة صاروخية نحو المخا في اليمن
-15:41
-1405/06/05
-
-
-
-
 src :@Mena_Live
 ‏During the first half of this year, 247 Turkish companies have submitted requests to establish factories in Syria, taking advantage of lower production costs and the proximity of the Syrian market to Turkey./Bold Media
 ‏
@@ -4175,26 +4177,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 15:02
-1405/06/05
-
-
-
-
-src :@Indypersian
-‏⭕️ ژنراتور خریدیم، بنزین و گازوئیل نیست؛ بحران انرژی کسب‌وکارهای ایران را به بن‌بست رساند
-‏
-‏📌مغازه‌داران طی ساعت‌های طولانی از یک جایگاه سوخت به جایگاه دیگر می‌روند تا چند لیتر بنزین یا گازوئیل برای موتوربرق خود تهیه کنند، اما گاه دست‌ خالی بازمی‌گردند.
-‏
-‏♦️ مردم ایران این روزها در چرخه‌ای فرساینده از بحران‌ها گرفتار شده‌اند که همچون حلقه‌های زنجیر به هم متصل‌اند. از یک سو تورم فزاینده، بیکاری، بی‌پولی و کمبود و گرانی دارو بیداد می‌کند و از سوی دیگر خاموشی‌های پیاپی و مشکلات تامین سوخت کسب‌وکار و زندگی مردم را مختل کرده است و برای گریز از هر یک از این مشکلات، با هزینه‌ها و گرفتاری‌های تازه روبه‌رو می‌شوند.
-‏
-‏برای نمونه با شروع خاموشی‌ها در تابستان، بسیاری از کسب‌وکارها برای اینکه بتوانند چراغ کسب‌وکارشان را روشن نگه‌ دارند، به خرید موتوربرق روی آوردند، اما حالا برای تامین سوخت همان موتورها، دچار مشکل شده‌اند.
-‏
-‏روایت‌های کاربران در شبکه‌های اجتماعی طی ماه‌های اخیر نشان می‌دهد که بسیاری از صاحبان کسب‌وکار برای خرید موتوربرق ناچار شدند پول قرض بگیرند، بخشی از دارایی‌های خود را بفروشند یا قسمت عمده‌ای از پس‌اندازشان را صرف کنند، اما اکنون به دلیل چالش‌های تامین سوخت موردنیاز این دستگاه‌ها هم سرمایه‌ و پس‌اندازشان را از دست داده‌اند و هم کسب‌وکارشان دچار رکود شده است.
-‏
-‏ بیشتر بخوانید...
-‏
-‏@indypersian
-15:00
 1405/06/05
 
 
@@ -5289,21 +5271,6 @@ src :@rnintel
 
 
 
-src :@tglobaleye
-[عکس]
-‏—🇺🇸/🇷🇺 NEW: CIA Director John Ratcliffe made an unannounced four-hour visit to Moscow to warn Russia against escalatory action toward Estonia, Latvia and Lithuania, according to people familiar with the talks.
-‏
-‏➡️ The trip echoes then-CIA Director William Burns’ late-2021 mission to Moscow, when he warned the Kremlin against entering in Ukraine. Russia launched its full-scale operation three months later.
-‏
-‏🔗 Mario Nawfal
-‏
-‏✅ @balkanspectator — the leading Balkan news channel in English
-10:45
-1405/06/05
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇲🇩🇷🇺🇺🇦⚡- Overnight, five Russian drones entered Moldovan airspace during Russia's missile and drone attack on Ukraine.
@@ -6178,16 +6145,6 @@ src :@cataphract1
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇷🇨🇳 Iran welcomes China's statement against US sanctions imposed on Iran.
-‏
-‏@BRICSNews
-00:39
-1405/06/05
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏پهپاد انتحاری اوکراینی یک مینی بوس حامل غیر نظامیان را در اطراف شهر لیسیچانسک (لوهانسک اشغالی) هدف قرار داده است که منجر به مرگ ۹ نفر شد.
@@ -6440,17 +6397,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 21:22
-1405/06/04
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏The Houthis of Yemen have succeeded in halting Saudi Arabia’s oil exports through the Red Sea, forcing Riyadh to rely more heavily on alternatives such as the SUMED pipeline, which connects the Red Sea with the Mediterranean and allows some Saudi oil to bypass the disrupted maritime route.
-‏
-‏Saudi oil → Yanbu → tanker north → Ain Sokhna → SUMED pipeline → Sidi Kerir → Mediterranean
-‏
-‏@Mena_Live
-21:18
 1405/06/04
