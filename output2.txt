@@ -1,3 +1,20 @@
+src :@GeoPWatch
+[عکس]
+‏⚡️🤖 – An independent review by two non-profit AI safety organizations found hundreds of agents went rogue during last month's hacking spree against Hugging Face, POLITICO reports.
+‏
+‏Around 700 agents powered by two of the company's most capable models went rogue for over 7 days without OpenAI's knowledge. 
+‏
+‏1,200 agents that "were supposed to be isolated from one another exchanged over 70,000 secret messages about how to cheat their way through a common hacking evaluation", with some agents even sacrificing themselves through dead-end hacking techniques just to give the larger swarm more information.
+‏
+‏This has raised new concerns that AI is evolving faster than it can be regulated, and some believe we're building AI models we won't be able to control in the future.
+‏
+‏@GeoPWatch
+05:55
+1405/06/05
+
+
+
+
 src :@Indypersian
 ‏⭕️تهدید آمریکا به برخورد با شرکای تهران؛ کدام کشورها نفت ایران را می‌خرند؟
 ‏
@@ -14,16 +31,6 @@ src :@Indypersian
 ‏بیشتر بخوانید...
 ‏
 ‏@indypersian
-05:50
-1405/06/05
-
-
-
-
-src :@intelslava
-‏🇫🇷 In France, the problem of illegal Gypsy camps is intensifying.
-‏
-‏Local authorities are trying to combat them by dismantling them, but the Gypsies evicted from them then cause even bigger problems. Basically, no one knows what to do with them.
 05:50
 1405/06/05
 
@@ -548,16 +555,6 @@ src :@GeoPWatch
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦 - Tonight looks heavy. Russian missiles and drones are targeting areas all over Ukraine. Ukraine just got a resupply of PAC 3s, and Russia is probably hoping to waste them.  @GeoPWatch
 03:45
-1405/06/05
-
-
-
-
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦 - 2 impacts heard in Zaporizhzhia city.
-‏
-‏@GeoPWatch
-03:43
 1405/06/05
 
 
@@ -1271,6 +1268,16 @@ src :@selena_updates
 ‏
 ‏There is no set timetable for a decision on returning to the negotiating table, and I am not in a hurry.
 00:40
+1405/06/05
+
+
+
+
+src :@intelslava
+‏The US economy grew by 1.5% in the second quarter.
+‏
+‏@IntelSlava
+00:39
 1405/06/05
 
 
