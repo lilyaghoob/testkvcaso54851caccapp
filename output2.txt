@@ -10,18 +10,6 @@ src :@Shin_Persian
 
 
 
-src :@intelslava
-‏🇷🇺🇭🇺 Russia may halt oil and gas supplies to Hungary after Budapest called Moscow a threat
-‏
-‏- State Duma deputy Andrei Kolesnik.
-‏
-‏According to him, energy cooperation between the two countries may now be called into question, and Hungary's decision may have been made under pressure from Brussels.
-06:00
-1405/06/05
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏⚡️🤖 – An independent review by two non-profit AI safety organizations found hundreds of agents went rogue during last month's hacking spree against Hugging Face, POLITICO reports.
@@ -1292,6 +1280,16 @@ src :@selena_updates
 ‏
 ‏There is no set timetable for a decision on returning to the negotiating table, and I am not in a hurry.
 00:40
+1405/06/05
+
+
+
+
+src :@intelslava
+‏The US economy grew by 1.5% in the second quarter.
+‏
+‏@IntelSlava
+00:39
 1405/06/05
 
 
