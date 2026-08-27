@@ -1,11 +1,71 @@
+src :@GeoPWatch
+‏❌🇺🇦⚠️- Russian jet-powered UAV heading toward Velyka Dymerka, Kyiv Oblast, on a southwesterly course.
+‏
+‏@GeoPWatch
+01:06
+1405/06/06
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump:
+‏
+‏Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028.
+‏
+‏Congratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America!
+01:06
+1405/06/06
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump posts his presidential rankings, putting himself alone in the “Greatest” bracket.
+01:04
+1405/06/06
+
+
+
+
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦⚠️- 1 new Russian drone reported from Bryansk toward Krasilivka, Kyiv Oblast.
+‏
+‏@GeoPWatch
+01:04
+1405/06/06
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏🔻تیم فوتبال بارسلونا در دیدار به تعویق افتاده از هفته اول لالیگا، اتلتیک بیلبائو را با نتیجه دو بر صفر شکست داد. رافینیا در دقیقه ۳۹ و فرمین لوپس در دقیقه ۸۲ گل‌های بازی را به ثمر رساندند.
 ‏
-‏🔹با این برد، بارسلونا به دلیل تفاضل گل بهتر نسبت به رئال مادرید، سویا و بتیس، صدرنشین شد.
+‏🔹تیم هانسی فلیک پس از پیروزی مقابل الچه، دومین مسابقه فصل خود را نیز با پیروزی پشت سر گذاشت. با این برد، بارسلونا به دلیل تفاضل گل بهتر نسبت به رئال مادرید، سویا و بتیس، صدرنشین شد.
 ‏
 ‏@iranintltvsport
-01:01
+01:04
+1405/06/06
+
+
+
+
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦⚠️- 2 Russians drone reported above Bryansk.
+‏
+‏@GeoPWatch
+01:04
+1405/06/06
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸ترامب ينشر رسميا تم تغير اسم بحرية أونتاريو الى بحرية اميركا.
+01:03
 1405/06/06
 
 
@@ -13,6 +73,7 @@ src :@IranintlTV
 
 src :@naya_foriraq
 [عکس]
+‏🇺🇸ترامب ينشر رسميا تم تغير اسم بحرية أونتاريو الى بحرية اميركا.
 00:59
 1405/06/06
 
@@ -2925,18 +2986,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇷🇺- President Donald Trump: 
-‏
-‏Putin will not attack NATO.
-‏
-‏@GeoPWatch
-21:05
-1405/06/05
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏وزیر نفت جمهوری اسلامی می‌گوید: «تا این لحظه فرآیند فروش نفت در خارج از آب‌های سرزمینی ما، در آب‌های دور، فروش به معنای تحویل به مشتری‌ها ادامه دارد.»
@@ -4007,16 +4056,6 @@ src :@P_raetorio
 
 
 
-src :@GeoPWatch
-‏⚡️🇺🇸🇪🇺 – The U.S. is facing a "beyond critical" shortage of anti-air Patriot missiles in Europe, AP News reports.
-‏
-‏@GeoPWatch
-19:16
-1405/06/05
-
-
-
-
 src :@defence_news
 ‏امیر الهامی فرمانده پدافند هوایی ارتش : عملکرد پدافند در انهدام جنگنده‌های دشمن خود را نشان داد.
 ‏
@@ -4663,14 +4702,6 @@ src :@rnintel
 [عکس]
 ‏🇸🇩 - The Rapid Support Forces have captured the town of Kurmuk, with reports that the Sudanese Armed Forces withdrew all the way north to Pomfa - Ad Damazin direction, Blue Nile State, southeast Sudan.  The Rapid Support Forces have also effectively merged…
 16:55
-1405/06/05
-
-
-
-
-src :@naya_foriraq
-‏🇾🇪🇾🇪الجيش اليمني يشن هجوما على جزر بالبحر الأحمر بالصواريخ الباليستية
-16:53
 1405/06/05
 
 
