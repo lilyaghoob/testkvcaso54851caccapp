@@ -1,3 +1,16 @@
+src :@didarnews1
+‏🔴قالیباف در دیدار با وزیر خارجهٔ قطر: ترامپ با محاسبات غلطش ناامنی دامنه‌دار در منطقه ایجاد کرده
+‏
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:38
+1405/06/05
+
+
+
+
 src :@BellumActaNews
 [عکس]
 ‏🇺🇸🇬🇧🇵🇸 — The U.S. has designated UK-based Palestine Action as a 'terrorist organization' and imposed sanctions, freezing its assets.
@@ -2038,19 +2051,6 @@ src :@ClashReport
 
 
 
-src :@selena_updates
-[عکس]
-‏U.S. allies are warning that Iranian naval mines still remain in the Strait of Hormuz despite President Donald Trump’s declaration that the U.S. Navy has completely cleared the strategic waterway. 
-‏
-‏Allied assessments acknowledge significant U.S. progress in demining international shipping lanes but estimate that some of the roughly 80–150 mines believed to have been laid by Iran could still be present elsewhere in the strait, potentially displaced by currents and difficult to locate. 
-‏
-‏U.S. officials reject those figures as outdated, while Central Command maintains that internationally recognized transit routes are free of Iranian sea mines.
-16:01
-1405/06/05
-
-
-
-
 src :@naya_foriraq
 ‏🇺🇸‏البيت الأبيض: لا توجد مفاوضات جارية حاليا مع إيران.
 16:01
@@ -2364,17 +2364,6 @@ src :@defence_news
 src :@Navy_Iranian
 ‏بوستر پیدا شده در سواحل ایران    ⚓️ @Navy_Iranian
 15:32
-1405/06/05
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iran struck a tanker off the coast of Oman in the Strait of Hormuz, resulting in a fire aboard the vessel.
-‏
-‏Separately, today Iran attacked a Kuwaiti tanker in the same general area.
-15:30
 1405/06/05
 
 
@@ -6367,34 +6356,4 @@ src :@Artemis_Force
 ‏
 ‏ شرکت Kratos در حال افزایش ظرفیت تولید J85 است تا این موتور در تعداد بالا و با هزینه کمتر تولید شود.
 19:01
-1405/06/04
-
-
-
-
-src :@cataphract1
-‏⚜ترامپ: به نظر من، مجتبی خامنه‌ای فوت نکرده است.  او به شدت مجروح شده بود، در سمت چپ بدنش، بازو، پا، کل ناحیه به شدت آسیب دیده بود.  اما فکر نمی‌کنم او فوت کرده باشد.  اگر فوت کرده باشد، آن‌ها یک نمایش بسیار خوبی را اجرا می‌کنند، زیرا دائماً صحبت می‌کنند که…
-18:41
-1405/06/04
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏صبح زود جمعه ۲۸ اگوست، یک پدیده نجومی شگفت‌انگیز رخ خواهد داد: ماه در آسمان سحرگاهی وارد سایه زمین می‌شود و رنگی متمایل به قرمز پیدا می‌کند.
-‏
-‏این پدیده متاسفانه از ایران دیده نمی‌شود.
-‏
-‏این ماه گرفتگی در اروپا دیده می‌شود.
-‏
-‏🇮🇹 ایتالیا: شروع گرفتگی جزئی ۰۳:۲۳، اوج ۰۶:۱۲، پایان ۰۹:۰۱؛ حداکثر حدود ۹۳٪ از قرص ماه در سایه زمین قرار می‌گیرد.
-‏
-‏🇷🇺 روسیه (کالینینگراد): شروع گرفتگی جزئی حدود ۰۴:۳۳، اوج حدود ۰۶:۱۳؛ در اوج حدود ۹۶٪ از قرص ماه در سایه زمین قرار دارد.
-‏
-‏🇳🇱 هلند: شروع گرفتگی جزئی ۰۳:۲۳، اوج حدود ۰۶:۱۴، پایان ۰۹:۰۴؛ حداکثر حدود ۹۳٪.
-‏
-‏
-‏@rus_cosmos
-18:40
 1405/06/04
