@@ -1628,20 +1628,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-‏The U.S. imposed new Iran-related sanctions on Friday, six months into the war with Tehran.
-‏
-‏Washington plans to restrict Egypt’s Banque Misr over dealings with Iran, including cutting its UAE branches’ access to U.S. financial institutions. 
-‏
-‏The Treasury also sanctioned a Hong Kong entity and an individual linked to Iran’s Bank Melli.
-‏
-‏Source: Reuters
-18:24
-1405/06/06
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️وزارت خزانه‌داری ایالات متحده روز جمعه ششم شهریورماه، از اعمال دو تحریم جدید در ارتباط با ایران خبر داد؛ یکی از این تحریم‌ها فردی را هدف قرار داده که به گفته این وزارتخانه با بانک ملی ایران در ارتباط است و تحریم دیگر یک شرکت مستقر در هنگ‌کنگ را نشانه رفته است.
@@ -5196,22 +5182,6 @@ src :@mohem_mat
 
 
 
-src :@mohem_mat
-‏گزارش فاکس‌نیوز درباره پرونده ایران که ترامپ را خشمگین کرد
-‏
-‏فاکس‌نیوز: 
-‏
-‏اقتصاد ایران زیر فشار شدید اقدامات اقتصادی آمریکا قرار گرفته، اما بدون همراهی چین احتمال فروپاشی آن کمتر است و پکن هم تمایلی به همکاری با واشنگتن نشان نمی‌دهد.
-‏
-‏ترامپ مدعی شده ایران به فروپاشی اقتصادی نزدیک است و آمریکا کنترل کامل تنگه هرمز را دارد و همه مین‌‌های موجود در آب‌‌های بین‌‌المللی تنگه پاکسازی شده‌اند. با این حال، بیانیه مشترک ایران و عمان درباره ایجاد کریدور موقت کشتیرانی و اجرای پروژه مشترک مین‌روبی ظاهراً با ادعای ترامپ تناقض دارد.
-‏
-‏@sharghdaily
-08:24
-1405/06/06
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇮🇷 — U.S. Treasury Secretary Scott Bessent:
@@ -6655,15 +6625,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 20:31
-1405/06/05
-
-
-
-
-src :@Minas_Tirith2024
-‏وزیر خارجه قطر در تهران : درباره موضوع خلبانان درهای قطر به روی ایران باز است و مسائل مربوط به برادران ایرانی با صداقت پیگیری خواهد شد.
-‏
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-20:26
 1405/06/05
