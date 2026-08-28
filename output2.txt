@@ -1,3 +1,43 @@
+src :@ClashReport
+[عکس]
+‏Ukrainian monitoring channels say a Russian Geran-4 jet-powered kamikaze drone flew about 960 km from occupied Crimea to Volyn in 1 hour 55 minutes, averaging roughly 500 km/h.
+‏
+‏The drone was reportedly shot down near Torchyn, making the flight a possible new recorded range maximum for the Geran-4.
+20:56
+1405/06/06
+
+
+
+
+src :@didarnews1
+‏دیدارنیوز pinned a photo
+20:56
+1405/06/06
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇦❌🇷🇺 — Ukrainian MICH-2000 Shahed-type loitering munitions attacked the Engels-2 Air Base in Russia, which hosts strategic bombers operated by the Russian Aerospace Forces (VKS).  @IntelSlava
+20:55
+1405/06/06
+
+
+
+
+src :@guard_warriors
+‏اسکات بسنت، وزیر خزانه‌داری آمریکا:
+‏آمریکا اعلام کرده تمام مسیرهای اقتصادی ایران را هدف قرار خواهد داد و هشدار داده حامیان تهران نمی‌توانند همزمان از دلار و سیستم مالی جهانی استفاده کنند.
+‏بسنت همچنین از اقدام علیه بانک مصر در امارات به‌دلیل آنچه «حمایت از ایران» خوانده شده، خبر داد.
+‏
+‏@Guard_Warriors
+20:53
+1405/06/06
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Iran’s Leader of the Islamic Revolution:  I categorically declare; committing anything that harms social unity is prohibited.  In a message marking Government Week, His Eminence Ayatollah Sayyed Mojtaba Hosseini Khamenei, the Leader of the Islamic Revolution…
@@ -19,6 +59,16 @@ src :@Alibk3
 src :@naya_foriraq
 [عکس]
 ‏🇮🇷قائد الثورة الإسلامية سماحة السيد مجتبى الخامنئي:  أعلن بشكل قاطع؛ ارتكاب أي شيء يضر بالوحدة الاجتماعية أمر ممنوع.  أثمن إجراءات حكومتنا التي نفذت رغم قيود ومؤامرات العدو الأمريكي والصهيوني والعقوبات والحصار.
+20:51
+1405/06/06
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏زلنسکی گفت اوکراین امروز اطلاعاتی از طرف آمریکایی درباره دیدارها در مسکو دریافت کرده و آمریکا دیدگاهی کاملاً واقع‌بینانه درباره اقدامات لازم دارد. به گفته او، هدف این است که تولید پهپادهای مناسب برای حملات عمقی علیه روسیه به روزانه ۱۰۰۰ فروند برسد، در حالی که این رقم در حال حاضر به‌طور میانگین حدود ۳۰۰ فروند در روز است.
+‏
+‏🆔@WAR_ROOM_NEWS
 20:51
 1405/06/06
 
@@ -1197,17 +1247,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 19:22
-1405/06/06
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russia's Medvedev:
-‏
-‏There are no plans for mobilization in Russia.
-19:18
 1405/06/06
 
 
@@ -4037,16 +4076,6 @@ src :@Artemis_Force
 
 
 
-src :@WAR_ROOM_NEWS
-‏ترامپ به اکسیوس گفت:تنگه هرمز باز است و ایالات متحده در نبرد بر سر هرمز دست بالا را دارد. پاسخ ایران نیز بسیار محدود بوده است. ایرانی‌ها نمی‌خواهند ما دوباره به آنها حمله کنیم و خلاصه ماجرا همین است
-‏
-‏🆔@WAR_ROOM_NEWS
-14:01
-1405/06/06
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇷🇺⚡️ — Trump Personally Sent the CIA Director to Moscow to Discuss Negotiations on Ukraine
 ‏
@@ -4811,18 +4840,6 @@ src :@rus_cosmos
 
 
 
-src :@didarnews1
-‏🔴 اسماعیل کوثری، عضو کمیسیون امنیت ملی مجلس: سپاه پاسداران از سال ۶۶ برای بستن تنگه هرمز برنامه داشت.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-11:49
-1405/06/06
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏صبح امروز هارالد پنجم،پادشاه نروژ در سن 89 سالگی درگذشت.
@@ -5573,22 +5590,6 @@ src :@intelslava
 
 
 
-src :@intelslava
-‏About 70 grain carriers are stuck in the Black Sea at the mouth of the Danube, unable to enter Ukrainian ports
-‏
-‏– Reuters.
-‏
-‏After Russian strikes effectively blocked the Black Sea ports, part of the grain exports was redirected through the Sulina Canal. However, its capacity is insufficient: only two to three vessels per day are allowed into Ukrainian ports.
-‏
-‏Due to worsening weather, the Sulina Canal may be closed for two days, which will further increase the queue of vessels. Ukraine is also giving priority to fuel ships, delaying grain exports.
-‏
-‏@IntelSlava
-02:24
-1405/06/06
-
-
-
-
 src :@mwarmonitor
 ‏🔴 سخنگوی فرماندهی مرکزی ایالات متحده به شبکه فاکس نیوز: از ابتدای ماه مه، به حدود ۱۵۰۰ کشتی کمک کرده‌ایم تا از تنگه هرمز عبور کنند.
 ‏
@@ -5890,16 +5891,6 @@ src :@rnintel
 ‏
 ‏The deal would reportedly allow the U.S. to tap into over a dozen Venezuelan oil fields, more than doubling current U.S. oil reserves.
 01:33
-1405/06/06
-
-
-
-
-src :@intelslava
-‏In USA GOP politicians are warning that the growing backlash against AI-powered data centers could cost the party a Senate seat in the 2026 midterms.
-‏
-‏@IntelSlava
-01:32
 1405/06/06
 
 
