@@ -4329,17 +4329,6 @@ src :@thewarreporter
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇪🇺 — The U.S. military is experiencing a “beyond critical” shortage of advanced missile interceptors in Europe largely driven by President Donald Trump’s war with Iran, — AP
-‏
-‏The Global Eye | Subscribe ✈️
-19:40
-1405/06/05
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Russia used the new 9M723-2 ballistic missile, known as the “Iskander-1000,” against Kyiv for the first time during one of the summer missile strikes, according to Ukraine’s Main Directorate of Intelligence (HUR).
