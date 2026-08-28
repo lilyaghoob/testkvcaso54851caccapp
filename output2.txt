@@ -1,3 +1,21 @@
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — An approximate map of Israeli Air Force airstrikes against southern Lebanon on August 27. Points correspond to the general neighborhood/town/area of the airstrike, not exact coordinates.
+‏
+‏Airstrikes were conducted against the following:
+‏Nabatieh El Fawqa (4x)
+‏Wadi Salouqi valley (3x)
+‏Arab Salim (2x)
+‏Outskirts of al-Qantara (2x)
+‏Ali al-Taher (2x)
+‏Al-Mansouri
+‏Baraachit
+05:00
+1405/06/06
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇲🇽⚡️- The U.S. military struck three Mexican drug cartel drones using high-energy laser weapons near the border this week, according to Reuters.
 04:54
@@ -2160,21 +2178,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 23:36
-1405/06/05
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇷🇺🇺🇦⚡️ — CIA Director John Ratcliffe secretly visited Moscow this week to deliver a U.S. intelligence assessment of the war in Ukraine and urge Moscow to reach a deal before its military and economic position worsens amid U.S. intelligence concerns that Vladimir Putin is not receiving honest assessments from his advisers about Russia’s heavy losses and limited battlefield gains, NYT reports.
-‏
-‏Ratcliffe delivered the message directly to FSB chief Aleksandr Bortnikov, warning of Russia’s deteriorating position but making no threats over potential consequences if Putin continued the war.
-‏
-‏Ratcliffe told the FSB chief that Russia had captured only around 1% of Ukraine’s territory during the 18 months since Ratcliffe became CIA director, while the life expectancy of a Russian frontline soldier was under 35 minutes. He attributed Russia’s mounting and unsustainable costs largely to Ukraine’s "mastery" of drone warfare.
-‏
-‏Some U.S. officials hope Putin, a former intelligence officer himself, will consider a direct CIA assessment more credible and urgent than messages delivered through conventional diplomatic channels.
-23:34
 1405/06/05
 
 
