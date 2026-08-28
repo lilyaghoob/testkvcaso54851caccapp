@@ -1,4 +1,24 @@
 src :@GeoPWatch
+‏🇷🇺❌🇺🇦⚠️ - Multiple Russian drones are currently targeting Kyiv, with some detected over Vyshneve approximately 10KM from Kyiv City Center.
+‏
+‏@GeoPWatch
+01:30
+1405/06/07
+
+
+
+
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦🔴 - Air Raid Alert in Kyiv.
+‏
+‏@GeoPWatch
+01:28
+1405/06/07
+
+
+
+
+src :@GeoPWatch
 [عکس]
 ‏🇮🇱❌🇱🇧 – UNIFIL recorded 1,030 projectiles launched by the IDF and IAF against Lebanon in the week between 21-27 August—an average of 147 launches per day.
 ‏
@@ -1377,26 +1397,6 @@ src :@ClashReport
 src :@wfwitness
 ‏⚡️🇱🇧🇱🇧🇮🇱 Hezbollah Secretary-General Sheikh Naim Qassem called for Islamic unity between sects in a recent speech and stated that it entails liberating the region from dependence and exploitation while confronting sectarian, religious and political divisions.…
 23:04
-1405/06/06
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇮🇷 – An explosion was heard in the Strait of Hormuz following a possible launch from Sirik.
-‏
-‏@GeoPWatch
-23:03
-1405/06/06
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇷🇺🇮🇷 – Russian President Vladimir Putin and his Iranian counterpart, Masoud Pezeshkian, will hold a bilateral meeting on September 1, in the margin of the Shanghai Cooperation Organization (SCO) summit in Kyrgyzstan, Mehr News reports.
-‏
-‏@GeoPWatch
-23:00
 1405/06/06
 
 
@@ -6002,14 +6002,6 @@ src :@bricsnews
 
 
 
-src :@rnintel
-‏🇺🇸🇻🇪⚡️- The U.S. and Venezuela are in talks over a "massive" deal that would give the U.S. an ownership stake in Venezuela's oil fields, according to Axios.  The deal would reportedly allow the U.S. to tap into over a dozen Venezuelan oil fields, more than…
-02:20
-1405/06/06
-
-
-
-
 src :@mwarmonitor
 ‏🔴وال‌استریت ژورنال: ترامپ شخصاً راتکلیف را به روسیه اعزام کرد.
 ‏
@@ -6211,14 +6203,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 02:02
-1405/06/06
-
-
-
-
-src :@rnintel
-‏🇨🇩🇷🇼🇧🇮⚡- A medical plane was shot down as it attempted to land in the Minembwe region, M23-allied Twirwaneho-controlled South Kivu region, eastern Democratic Republic of Congo.   All four on board were killed in the crash. Initial reports suggest the anti…
-01:59
 1405/06/06
 
 
