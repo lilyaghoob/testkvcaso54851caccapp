@@ -2173,23 +2173,6 @@ src :@selena_updates
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻در پایان هفته چهارم لیگ برتر فوتبال ایران، تیم تراکتور، با ۴ برد از ۴ بازی و کسب همه ۱۲ امتیاز ممکن، در صدر جدول جا خوش کرد. استقلال که می‌توانست همین رکورد را داشته باشد،‌ اما نتوانست فولاد را در اهواز شکست دهد و ۱۰ امتیازی شد و در رده دوم جا گرفت. 
-‏
-‏🔹تراکتور و استقلال تنها تیم‌های لیگ بیست و ششم هستند که تاکنون گلی نخورده‌اند. اما پرسپولیس که هفته سوم بازی را به تراکتور باخته بود، با یک بازی و جذاب، ملوان را شکست داد و به رده سوم آمد. 
-‏
-‏🔹این پیروزی شاگردان مهدی تارتار، جمع مربیان استقلالی در صدر جدول را بهم زد؛ آلومینیوم پیروز قربانی با تساوی با خیبر، ۸ امتیاز و گل‌گهر مهدی رحمتی با شکست مقابل سپاهان، در رده چهارم و پنجم قرار گرفتند. 
-‏
-‏🔹در پایین جدول، اما نساجی مازندران و چادرملو اردکان هر دو با یک امتیاز قرار دارند. نساجی به دلیل گل خورده کمتر و البته زدن یک گل، هفدهم است و چادرملو با ۷ گل خورده و صفر گل زده، هجدهم. مس شهربابک و استقلال خوزستان هم در رده ۱۵ و ۱۶و فعلا در محدوده سقوط قرار دارند.
-‏
-‏@iranintltvsport
-21:45
-1405/06/07
-
-
-
-
 src :@jangaavaran1390
 ‏به گزارش کانال ۱۲، شین بت اسرائیل تأیید کرده است که یائیر نتانیاهو، پسر نخست وزیر بنیامین نتانیاهو، پس از شناسایی یک تهدید جدی برای جانش توسط مقامات، فوراً به اسرائیل بازگردانده شد.
 ‏
@@ -3322,20 +3305,6 @@ src :@DEJradio
 
 
 
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — The attack on Kiev is still ongoing
-‏
-‏So far, hundreds of buildings have been damaged or destroyed, and almost 40 people are dead.
-‏
-‏The attack has been going on for 82 hours and is the longest single bombardment since World War II.
-‏
-‏@IntelSlava
-18:39
-1405/06/07
-
-
-
-
 src :@rnintel
 ‏🇳🇪⚡️- Elements belonging to the anti-junta coup in Niamey have reportedly seized an air base as well as the Parachutist Bataillon's barracks near the capital.  The Parachutist Bataillon's barracks are located nearby the Air Base 101, a stronghold of the Africa…
 18:38
@@ -3356,14 +3325,6 @@ src :@samueltarikh
 ‏پزشکیان:
 ‏در زمستان برخی ادارات را تعطیل و فعالیت آنها را به صورت دورکاری ادامه می‌دهیم.
 18:34
-1405/06/07
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — The attack on Kiev has been going on for about 80 hours now.  @IntelSlava
-18:32
 1405/06/07
 
 
