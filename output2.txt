@@ -1108,20 +1108,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[عکس]
-‏محمدباقر قالیباف، رییس مجلس جمهوری اسلامی، در واکنش به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر حفظ انسجام اجتماعی، نوشت پیام او «نصب‌العین ما و تمام مسوولان کشور است».
-‏
-‏قالیباف افزود: «باید از دوگانه‌سازی‌های موهوم به هر شکلی پرهیز کرد و هر اقدامی که به انسجام اجتماعی آسیبی برساند، برای همه ما حرام ملی و شرعی است.»
-‏
-‏مجتبی خامنه‌ای پیش‌تر بر پرهیز از «سخن ناامیدکننده» و «دوگانه‌سازی‌های موهوم» تاکید کرده و گفته بود ارتکاب هر اقدامی که به انسجام اجتماعی آسیب بزند، ممنوع است.
-‏https://iranintl.com/202608287312
-03:14
-1405/06/07
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸🇻🇪⚡️- BREAKING: President Trump announced a major agreement with Venezuela that secures the U.S. over 65 billion barrels of Venezuelan oil.
@@ -1480,6 +1466,18 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 01:44
+1405/06/07
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، با اشاره به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر پرهیز از «سخن ناامیدکننده»، «دوگانه‌سازی‌های موهوم» و اقداماتی که به انسجام اجتماعی آسیب می‌زند، نوشت این موضع برای همه «یک راهبرد روشن و غیرقابل تفسیر» است.
+‏
+‏پیش‌تر، مجتبی خامنه‌ای، رهبر جمهوری اسلامی، ششم شهریور در پیامی به مناسبت هفته دولت گفته بود هر اقدامی که به انسجام اجتماعی آسیب بزند، «ممنوع» است.
+‏https://iranintl.com/202608288195
+01:43
 1405/06/07
 
 
@@ -5876,18 +5874,4 @@ src :@Parvazdaroj
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — Iranian state television Channel 3 aired a video targeting U.S. President Donald Trump's son, Barron Trump, and claimed that his movements and security arrangements had been monitored.  The video referenced a $10 million reward for targeting Barron…
 08:53
-1405/06/06
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇮🇷🇮🇷 — Israeli Science and Technology Minister Gila Gamliel:
-‏
-‏"Reza Pahlavi will return to Iran in a big way and will be received with the royal pomp and ceremony he deserves.
-‏
-‏It will happen very soon, God willing".
-‏
-‏@TheWarReporter
-08:50
 1405/06/06
