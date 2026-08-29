@@ -1,3 +1,20 @@
+src :@rus_cosmos
+[عکس]
+‏تصویر ماهواره‌ای از باقیمانده ناوچه‌های جماران، نقدی ،بایندر و چند شناور دیگر
+11:28
+1405/06/07
+
+
+
+
+src :@P_raetorio
+‏تانکر ترکرز از رصد ۱۵ جفت کشتی و مجموعا ۲۵ میلیون بشکه نفت و فرآورده در دریای عمان طی عملیات‌های کشتی به کشتی در طول امروز خبر داد.  پ.ن: منابع مستقل هم کم‌کم در حال تأیید عملیات‌های گسترده انتقال نفت به خارج از تنگه هرمز با حجمی بسیار فراتر از تصورات اولیه…
+11:27
+1405/06/07
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏وال استریت ژورنال به نقل از مقامات آمریکایی: واشنگتن برای به اصطلاح مقابله با جمهوری اسلامی به سرعت مقادیر زیادی مهمات به خاورمیانه منتقل کرده است
 11:23
@@ -3070,19 +3087,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-[عکس]
-‏Hezbollah Leader Naim Qassem:
-‏
-‏We have thwarted the so-called "Greater Israel" project and prevented it from reaching Beirut and undermining Lebanon's power and capabilities.
-‏
-‏Today, the enemy does not dare to build settlements in southern Lebanon because, due to the presence of the resistance, the situation there is unstable for them.
-23:04
-1405/06/06
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇨🇳 — China has removed two of its most senior generals from the state Central Military Commission.  
@@ -3170,21 +3174,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏Hungary’s Fidesz party is debating major changes after losing power to Péter Magyar’s Tisza party following 16 years under Viktor Orbán.
-‏
-‏With Fidesz polling below 20%, senior figures leaving politics and corruption allegations hurting the party, insiders say options include restructuring, rebranding without Orbán or even dissolving Fidesz entirely.
-‏
-‏Orbán remains party leader for now, but his future will be reviewed at a party congress next May.
-‏
-‏Source: Euronews
-22:41
-1405/06/06
-
-
-
-
 src :@Ali_bk_2
 ‏Iranian anti-ship missiles launched toward violating ships.
 22:37
@@ -3250,24 +3239,6 @@ src :@Alibk3
 ‏
 ‏المفاوضات تحصل تحت الحرب وتعطي شرعية للحرب.
 22:35
-1405/06/06
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏به‌هرحال این اوضاعی است که می‌بینید و تفسیر لازم ندارد. ما هم می‌سوزیم و می‌سازیم. قسمتمان این بوده یا نبوده دیگر اهمیت ندارد. سگ بریند روی قسمت و همه چیز.
-‏
-‏
-‏صادق هدایت 
-‏نامه به شهید نورایی(1326)
-‏
-‏#ادبیات
-‏
-‏
-‏@P_raetorio
-22:33
 1405/06/06
 
 
