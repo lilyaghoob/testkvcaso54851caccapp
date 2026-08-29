@@ -1,3 +1,14 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏۵ نفتکش ایرانی در ۲۴ ساعت گذشته از تنگه هرمز عبور کرده‌اند و در حال بازگشت هستند یا در حال انجام عملیات انتقال کشتی‌به‌کشتی (STS) در سواحل امارات و عمان هستند! نکته قابل‌توجه این است که ظاهراً این کار را به‌صورت علنی انجام می‌دهند.
+‏
+‏🆔@WAR_ROOM_NEWS
+11:08
+1405/06/07
+
+
+
+
 src :@MilitarryWorld
 ‏🔴کیهان: فرمانده ارتش پاکستان هیچ کاری نداشت و بی خودی با پزشکیان و قالیباف و محسن رضایی دیدار کرد!
 ‏
@@ -2222,6 +2233,8 @@ src :@mamlekate
 ‏
 ‏📝 پزشکیان از کاهش درآمدها و ناتوانی دولت در اجرای برخی وعده‌ها خبر داد
 ‏
+‏
+‏📝 پزشکیان: از شروط بازگشایی تنگه هرمز این است که آمریکا، حملات اسرائیل به لبنان را متوقف کند.
 ‏
 ‏@mamlekate
 01:03
@@ -5791,20 +5804,4 @@ src :@rus_cosmos
 ‏ 
 ‏@rus_cosmos
 11:49
-1405/06/06
-
-
-
-
-src :@rnintel
-‏🇸🇩🇪🇹⚡- Rapid Support Forces Commander-in-Chief Hamdan 'Hemedti' Dagalo arrives in Addis Ababa, Ethiopia.
-11:10
-1405/06/06
-
-
-
-
-src :@rnintel
-‏🇸🇩🇹🇩⚡- Large convoys of Chadian military equipment, approximately 100 vehicles, have arrived at the town of Tina along the border with Sudan.  The reinforcements include air defenses and jamming equipment. The deployment follows heavy Sudanese airstrikes on…
-11:08
 1405/06/06
