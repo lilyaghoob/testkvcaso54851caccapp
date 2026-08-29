@@ -1,3 +1,13 @@
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: نشانه‌های زمستان سخت و خطر قحطی
+‏@iranintlTV
+01:48
+1405/06/08
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏North Korea has replaced Defense Minister No Kwang-chol with Kim Song-gi in a senior military reshuffle led by Kim Jong-un.
@@ -2349,16 +2359,6 @@ src :@samueltarikh
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | شنبه ۷ شهریور
-‏@iranintlTV
-21:22
-1405/06/07
-
-
-
-
 src :@intelslava
 ‏https://t.me/The_Europe_Update/10948
 21:19
@@ -3714,16 +3714,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 17:27
-1405/06/07
-
-
-
-
-src :@GeoPWatch
-‏🚢🛢- Oil exports from the Persian (Arabian) Gulf have recovered to 16 million barrels per day, representing approximately two-thirds of pre-war levels. Concurrently, the increasing practice of tankers operating in "dark" mode and utilizing ship-to-ship transfers to circumvent disruptions has contributed to a decline in oil prices from over $120 in April to approximately $89.
-‏
-‏@GeoPWatch
-17:19
 1405/06/07
 
 
