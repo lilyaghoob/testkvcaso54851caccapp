@@ -1,4 +1,41 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴ترامپ، مقاله‌ای از روزنامه نیویورک پست با عنوان "ترامپ در جنگ با ایران پیروز می‌شود - بر سر راه خود بمانید" را دوباره منتشر کرد.
+‏
+‏@MilitarryWorld | Parsa
+17:32
+1405/06/07
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏تصاویری از حملات هوایی ارتش اسرائیل به منطقه تپه علی الطاهر در جنوب لبنان
+‏
+‏🆔@WAR_ROOM_NEWS
+17:30
+1405/06/07
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇸🇾🇸🇾 — Mowafaq Tarif, the spiritual leader of Israel's Druze community, spoke by phone with Salman al-Hijri, the son of Hikmat al-Hijri, the spiritual leader of Syria's Druze community.
+‏
+‏During the call, Tarif told Salman to 'consider yourself a Syrian citizen', recognize Ahmed al-Sharaa as President, and negotiate with Damascus.
+‏
+‏Salman hung up the phone.
+‏
+‏— Syria Weekly | @TheWarReporter
+17:30
+1405/06/07
+
+
+
+
 src :@GeoPWatch
+[عکس]
 ‏🇬🇷🤝🇮🇱- Greece and Israel are set to execute a €3.1 billion agreement for the “Achilles’ Shield” program, which will integrate Spyder, Barak MX, and David’s Sling systems with Greece’s existing defense infrastructure. 
 ‏
 ‏This AI-enabled network is designed to counter drones, aircraft, and ballistic missiles, with a projected delivery timeline of 35 months and a requirement for 25% Greek industrial participation.
@@ -3130,16 +3167,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏🔴معاون علمی پزشکیان: اگر طرح «مقابله با نفوذ» به تصویب برسد، عملاً تمامی روابط علمی بین‌المللی کشور را قطع می‌کند
-‏
-‏@MilitarryWorld | Parsa
-12:27
-1405/06/07
-
-
-
-
 src :@Minas_Tirith2024
 ‏بنا به برآورد گلدمن ساکس، یکی از بزرگ‌ترین و معتبرترین شرکت‌های سرمایه‌گذاری و خدمات مالی جهان، صادرات نفت خلیج فارس به ۱۵ تا ۱۶ میلیون بشکه در روز رسیده است و همین موضوع باعث کاهش قیمت نفت از ۱۲۰ دلار در ماه آوریل به ۸۸ دلار در پایان آگوست شده است.
 12:23
@@ -3450,16 +3477,6 @@ src :@P_raetorio
 
 
 
-src :@WAR_ROOM_NEWS
-‏وال استریت ژورنال به نقل از مقامات آمریکایی: واشنگتن برای به اصطلاح مقابله با جمهوری اسلامی به سرعت مقادیر زیادی مهمات به خاورمیانه منتقل کرده است
-‏
-‏🆔@WAR_ROOM_NEWS
-11:23
-1405/06/07
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏انتشار پیامی از سوی مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در حمایت از دولت مسعود پزشکیان و تاکید بر حفظ «انسجام اجتماعی» با استقبال شماری از مقام‌های حکومتی روبه‌رو شده است.
@@ -3515,27 +3532,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 11:12
-1405/06/07
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏(سنتکام) اعلام کرد که نیروهای آمریکایی مسیر ۸۲ فروند کشتی تجاری را تغییر داده‌اند، ۳ فروند را غیرفعال کرده‌اند و به ۲ فروند دیگر ورود کرده‌اند تا از رعایت مقررات مربوط به بنادر ایران اطمینان حاصل کنند
-‏
-‏🆔@WAR_ROOM_NEWS
-11:12
-1405/06/07
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏۵ نفتکش ایرانی در ۲۴ ساعت گذشته از تنگه هرمز عبور کرده‌اند و در حال بازگشت هستند یا در حال انجام عملیات انتقال کشتی‌به‌کشتی (STS) در سواحل امارات و عمان هستند! نکته قابل‌توجه این است که ظاهراً این کار را به‌صورت علنی انجام می‌دهند.
-‏
-‏🆔@WAR_ROOM_NEWS
-11:08
 1405/06/07
 
 
@@ -5973,21 +5969,4 @@ src :@warmonitors
 src :@samueltarikh
 ‏وال‌استریت ژورنال: گزارش‌های اخیر حاکی از آن است که برخلاف تهدیدهای دولت ترامپ مبنی بر اجرای «روز-دی اقتصادی» علیه ایران، فعالیت‌های تجاری و بانکی ایران در دبی همچنان بدون وقفه در جریان است.
 17:33
-1405/06/06
-
-
-
-
-src :@ManotoTV
-[عکس]
-‏اکونومیست می‌نویسد کارزار تازه تحریمی آمریکا علیه جمهوری اسلامی، با وجود ادعای بی‌سابقه‌بودن، بعید است رژیم را سرنگون کند. قدرتمندترین ابزار واشنگتن یعنی تحریم‌های ثانویه علیه چین هنوز به کار گرفته نشده، و فشار اقتصادی بیشتر ممکن است به‌جای تضعیف سپاه، نفوذ اقتصادی آن را تقویت کند. در این میان، این مردم عادی هستند که بیشترین هزینه را می‌پردازند.
-17:30
-1405/06/06
-
-
-
-
-src :@Mena_Live
-‏The speaker of the Syrian parlimanent issues decrees:  Establishment of Parliament Committee for Budget and Accounts:  Establishment of Parliament Committee for Public Freedoms and Human Rights  Establishment of Parliament Committee for Agriculture and Food…
-17:28
 1405/06/06
