@@ -1,5 +1,35 @@
+src :@ClashReport
+[عکس]
+‏North Korea has replaced Defense Minister No Kwang-chol with Kim Song-gi in a senior military reshuffle led by Kim Jong-un.
+‏
+‏Source: Yonhap
+01:45
+1405/06/08
+
+
+
+
+src :@rnintel
+‏🇳🇪🇷🇺⚡- Niger's junta has regained control over Air Base 101 in Niamey International Airport with the assistance of Russia's African Corps drone attacks.
+01:44
+1405/06/08
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇰🇵‼️ - North Korea's defense minister has been dismissed by Kim Jong Un.
+01:43
+1405/06/08
+
+
+
+
 src :@Middle_East_Spectator
-‏— 🇰🇵 NEW: North Korea’s Minister of Defense has been dismissed and replaced upon the orders of Kim Jong Un
+‏— 🇰🇵 NEW: North Korea’s Minister of Defense, No Kwang-Chol, has been dismissed and replaced upon the orders of Kim Jong Un
+‏
+‏Kim Song-gi, director of the General Political Bureau of the North's Korean People's Army, was appointed as the country's new Defense Minister.
 ‏
 ‏@Middle_East_Spectator
 01:42
@@ -2329,21 +2359,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻تیم فوتبال پرسپولیس در جریان هفته چهارم لیگ برتر، در استادیوم قلعه‌حسن‌خان، ملوان را با نتیجه ۳ بر صفر شکست داد و با ۹ امتیاز، پایین‌تر از تراکتور و استقلال به رده سوم جدول رسید. 
-‏
-‏🔹محمد پاپی (گل به‌خودی) در دقیقه ۲۰، تیوی بیفوما در دقیقه ۳۴ و علی علیپور، در دقیقه ۵۶ برای پرسپولیس گل زدند.
-‏
-‏🔹بازی مس شهربابک-صنعت نفت آبادان و فجرسپاسی-ذوب آهن با تساوی بدون گل به پایان رسید.
-‏
-‏@iranintltvsport
-21:21
-1405/06/07
-
-
-
-
 src :@intelslava
 ‏https://t.me/The_Europe_Update/10948
 21:19
@@ -3162,21 +3177,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran's Ghalibaf:
-‏
-‏Liar liar pants on fire.
-‏
-‏For real 130s, tell your staffer to pull Moody's showing $130+ billion in war costs, and ask another how much Jane Street burned north of $130 million shorting oil for you in just one futures roll.
-‏
-‏Liar liar yields on fire.
-19:11
-1405/06/07
-
-
-
-
 src :@defence_news
 ‏🔶 آمریکا در حال بررسی قطع کمک‌های امنیتی به پیشمرگه‌های کردستان عراق است
 ‏
@@ -3756,17 +3756,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸🇮🇷 – President Trump reposted a New York Post article titled "Trump is winning the Iran war—stay the course".
-‏
-‏@GeoPWatch
-17:14
-1405/06/07
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏حمله هوایی به تپه علی الطاهر
@@ -4155,14 +4144,6 @@ src :@tglobaleye
 src :@rnintel
 ‏🇷🇺🇬🇪⚡- A record 113,000 Russians fled to Georgia in just one week, last week, amid the rumors of a possible Russian mobilization
 16:16
-1405/06/07
-
-
-
-
-src :@rnintel
-‏🇳🇪⚡- Gunfire has erupted for the third time in Niamey, Niger.
-16:14
 1405/06/07
 
 
