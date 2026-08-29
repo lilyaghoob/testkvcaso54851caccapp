@@ -1,3 +1,34 @@
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦🔴 - Air Raid Alert in Kyiv.
+‏
+‏@GeoPWatch
+22:15
+1405/06/07
+
+
+
+
+src :@cataphract1
+‏⚜به گزارش پولیتیکو، اطلاعات نظامی اوکراین اعلام کرده است که کرملین به برنامه‌ریزان نظامی روسیه دستور داده است طرح‌هایی برای حملات زمینی احتمالی به سمت کی‌یف و چرنیهیف آماده کنند.
+‏
+‏⚜با این حال، مقام‌های اوکراینی تأکید کرده‌اند که در حال حاضر هیچ شواهدی از تجمع نیروهای روسیه برای آغاز چنین حمله‌ای وجود ندارد.
+‏
+‏✒️#LT
+‏📃@Cataphract1
+22:14
+1405/06/07
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡- DHS on X has confirmed that Milo Yiannopoulos is in ICE custody.
+22:14
+1405/06/07
+
+
+
+
 src :@MilitarryWorld
 ‏🔴عراقچی: ملت ایران در جنگ ۴۰ روزه، درس بزرگی به جهان اسلام داد
 ‏
@@ -11,7 +42,7 @@ src :@MilitarryWorld
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
-‏Duolingo English Test will be no longer to users in Iran or Iranian ID holders from September 1, 2026.
+‏Duolingo English Test will be no longer available for users in Iran or Iranian ID holders from September 1, 2026.
 ‏
 ‏ترجمه خودکار فارسی
 ‏
@@ -1088,21 +1119,6 @@ src :@Artemis_Force
 ‏◆ جالب است بدانید که هر دو اسکادران نام‌برده یعنی اسکادران ضربتی VMFA-232 و اسکادران سوخت‌رسان و پشتیبانی VMGR-152 سپاه تفنگداران دریایی آمریکا در دو متعلق به گروه ۱۲ (MAG-12) و وابسته به وینگ اول سپاه تفنگداران دریایی ایالات متحده آمریکا (MAW-1) می‌باشند که پایگاه گروه ۱۲ در حال حاضر پایگاه ایواکونی در ژاپن هست.
 ‏
 ‏@Parvazdaroj | Phoenix
-20:15
-1405/06/07
-
-
-
-
-src :@selena_updates
-[عکس]
-‏U.S. President Donald Trump has announced what he called “the biggest oil deal in world history,” saying the United States and Venezuela have reached an agreement giving the U.S. majority control over more than 65 billion barrels of proven Venezuelan oil reserves at no cost to American taxpayers.
-‏
-‏Under the agreement, a new U.S.-linked private venture is expected to receive century-long development rights covering 17 Venezuelan oil fields, with the United States holding a 55% effective share of output, including an ownership stake and the right to purchase crude at cost. 
-‏
-‏Venezuelan authorities say the project could attract around $100 billion in investment and generate more than $209 billion in tax revenue, while Trump says the arrangement will more than double U.S. oil reserves and ultimately help lower American fuel prices.
-‏
-‏However, substantially increasing Venezuelan production is expected to require years of infrastructure rehabilitation and major private investment.
 20:15
 1405/06/07
 
@@ -3841,14 +3857,6 @@ src :@GeoPWatch
 
 
 
-src :@rnintel
-‏🇳🇪⚡- Initial reports of negotiations between Niger's junta and the attempted coup leaders.
-14:28
-1405/06/07
-
-
-
-
 src :@Ali_bk_2
 ‏BBC:  The United States plans to cut military aid to the Peshmerga forces, its main ally in the Middle East, as the US Department of Defense has informed the leaders of Iraq’s Kurdistan Region that it does not plan to renew the agreement to provide security…
 14:26
@@ -5263,16 +5271,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦‼️ – Power outages reported in Odessa following strikes by at least two 'Onyx' supersonic missiles.
-‏
-‏@GeoPWatch
-06:17
-1405/06/07
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏↩️ Quoted tweet: Baxtiyar Goran ☀️ ✓  @BaxtiyarGoran  State Department says “suspected terrorists” are not allowed in the US.  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  ترجمه خودکار فارسی  وزارت خارجه می‌گوید «مظنونان به تروریسم» اجازه ورود به…
@@ -5760,13 +5758,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:19
-1405/06/06
-
-
-
-
-src :@samueltarikh
-‏⭕️به دلیل تحریم های جدید آمریکا علیه ایران،
-‏بانک مرکزی عراق تعاملات 14 فرد و 19 شرکت فعال در زمینه‌های نفت، تجارت و حمل‌ونقل را متوقف کرد.
-22:15
 1405/06/06
