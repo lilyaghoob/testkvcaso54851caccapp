@@ -1,4 +1,15 @@
+src :@tabzlive
+‏🇧🇭⚡️ — Bahrain’s Coast Guard is investigating an armed robbery at sea involving a Bahraini vessel carrying three people.
+‏
+‏Armed men attacked the boat in Bahrain’s northern territorial waters before seizing the vessel and everything aboard.
+22:11
+1405/06/08
+
+
+
+
 src :@mwarmonitor
+[عکس]
 ‏🔴«وقتی اعلام کردم که در انتخابات ریاست‌جمهوری سال ۲۰۲۴ نامزد می‌شوم، درست در همان ابتدا، فورد در حال آماده شدن برای تعطیل کردن کارخانه بزرگ خود در دیترویت بود. سپس، چون من در نظرسنجی‌ها پیشتاز بودم، آن‌ها تصمیم گرفتند آن را کمی بیشتر باز نگه دارند تا ببینند…
 22:06
 1405/06/08
@@ -985,16 +996,6 @@ src :@bricsnews
 ‏The change only is visible to US users.
 ‏
 ‏@BRICSNews
-20:27
-1405/06/08
-
-
-
-
-src :@tabzlive
-‏🇷🇺🇺🇦⚡️ — Russian attacks have destroyed around 90% of Ukraine’s modern storage facilities for goods, according to Agriculture Minister Taras Vysotskyi.
-‏
-‏Vysotskyi said the destruction does not pose a risk of famine or leave Ukraine without sufficient food, but warned that continued strikes on logistics infrastructure could reduce the availability and variety of products in stores.
 20:27
 1405/06/08
 
@@ -5602,20 +5603,4 @@ src :@defence_news
 src :@rnintel
 ‏🇺🇸⚡- DHS on X has confirmed that Milo Yiannopoulos is in ICE custody.
 22:14
-1405/06/07
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Duolingo English Test will be no longer available for users in Iran or Iranian ID holders from September 1, 2026.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏آزمون دولینگو انگلیسی از تاریخ ۱ سپتامبر ۲۰۲۶ دیگر برای کاربران در ایران یا دارندگان مدارک هویتی ایرانی در دسترس نخواهد بود.
-‏
-‏𝕏  ·  @shin_persian
-22:11
 1405/06/07
