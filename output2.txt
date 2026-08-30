@@ -1,3 +1,48 @@
+src :@Middle_East_Spectator
+‏Response 2 hours after the U.S. attack, footage of the retaliation released less than ~1 hour after
+‏
+‏Things certainly have changed.
+02:37
+1405/06/09
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏فاکس نیوز: سپاه در جریان حملات تلافی‌جویانه، اهداف نظامی آمریکا در اردن را هدف قرار داد، اما تاکنون هیچ‌گونه اصابتی تأیید نشده است.
+‏«تا این لحظه هیچ‌گونه اصابت قابل‌توجهی گزارش نشده است. تقریباً تمام موشک‌ها رهگیری شده‌اند.»
+02:34
+1405/06/09
+
+
+
+
+src :@intelslava
+‏Iran's Islamic Revolutionary Guard Corps (IRGC):
+‏
+‏“We have destroyed technical and repair infrastructure, as well as aircraft maintenance facilities, at the two American airbases of King Hussein and Al-Azraq in Jordan.”
+‏
+‏@IntelSlava
+02:33
+1405/06/09
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏یک منبع آمریکایی به فاکس‌نیوز گفت تقریبا تمام موشک‌هایی که جمهوری اسلامی در مرحله اخیر حملات شلیک کرده، رهگیری شده‌اند. این منبع درباره شمار موشک‌های شلیک‌شده، محل رهگیری آنها یا خسارت احتمالی جزییات بیشتری ارائه نکرد.
+‏
+‏این گزارش پس از آن منتشر شد که کانال «اخبار سپاه پاسداران»، نزدیک به این نیروی نظامی، و سایت تابناک، نزدیک به محسن رضایی، از شلیک موج جدید موشک‌ها و پهپادهای ایران خبر داده یا مدعی حمله به کشتی‌ها و ناوهای جنگی آمریکا در تنگه هرمز شده بودند. پرس‌تی‌وی نیز از شلیک موشک به اهدافی در تنگه هرمز خبر داده بود.
+‏
+‏مقام‌های آمریکایی پیش‌تر به‌طور رسمی این گزارش‌ها را تایید نکرده بودند.
+‏https://iranintl.com/202608303691
+02:32
+1405/06/09
+
+
+
+
 src :@rus_cosmos
 ‏سپاه اعلام کرد که امشب به دو پایگاه در اردن حمله موشکی کرده است؛ 
 ‏
@@ -2110,16 +2155,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇺🇸 — Ballistic missile launches from Tabriz, Khorromabad, Khomein, Lorestan.
-‏
-‏Targeting Jordan or Iraqi Kurdistan.
-01:11
-1405/06/09
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏خوب پس با این تفاسیر باید منتظر واکنش جمهوری اسلامی باشیم احتمالاً یه چند تا موشک سمت اردن ول خواهند داد
 01:11
@@ -3093,14 +3128,6 @@ src :@defence_news
 
 
 
-src :@WAR_ROOM_NEWS
-‏گزارش‌هایی مبنی بر شنیده شدن صدای انفجار مجدد در جزیره لارک منتشر شده است
-00:21
-1405/06/09
-
-
-
-
 src :@thewarreporter
 ‏🇧🇭🇮🇷 — The Bahraini Foreign Ministry said its Coast Guard is investigating reports that a Bahraini-flagged vessel was hijacked and robbed at gunpoint in Gulf waters.
 ‏
@@ -4013,20 +4040,6 @@ src :@jangaavaran1390
 src :@rnintel
 ‏🇺🇸🇮🇷⚡- Iranian outlets confirm U.S. airstrikes liquidated Iranian personnel on Larak Island.
 23:08
-1405/06/08
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏خبرگزاری فارس، وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در جزیره لارک خبر داد.
-‏
-‏فارس نوشت که هنوز محل دقیق و علت وقوع این انفجار مشخص نیست.
-‏
-‏پیش‌تر الجزیره به نقل از مقام آمریکایی از هدف قرار گرفتن دو سکوی پرتاب موشک سپاه پاسداران در جزیره لارک از سوی ارتش آمریکا خبر داد.
-‏https://iranintl.com/202608305202
-23:07
 1405/06/08
 
 
