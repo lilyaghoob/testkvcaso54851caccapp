@@ -1,18 +1,41 @@
-src :@Ali_bk_2
-‏Lebanese President:
+src :@tabzlive
+[عکس]
+‏🇺🇸🇴🇲⚡️ — A U.S. Navy CMV-22B Osprey squawked 7700 emergency code while operating over the Gulf of Aden.
 ‏
-‏The Lebanese state will be present in the south with its army and institutions, and it alone will have the authority to decide on war and peace.
-18:52
+‏The aircraft is now flying over southern Oman.
+18:57
 1405/06/08
 
 
 
 
-src :@Alibk3
-‏الرئيس اللبناني: 
+src :@mwarmonitor
+[عکس]
+‏🔴نیروی هوایی آمریکا (USAF) – مأموریت «نیروی بمب‌افکن» (Bomber Task Force)
 ‏
-‏الدولة اللبنانية ستكون حاضرة في الجنوب بجيشها ومؤسساتها وستكون وحدها هي من يملك قرار الحرب والسلم.
-18:52
+‏✈️۳ فروند بوئینگ KC-46 پگاسوس:
+‏
+‏AE5F9B | 18-46048 — PICO 11
+‏AE5F9A | 18-46047 — PICO 12
+‏AE5F9E | 18-46051 — PICO 13
+‏
+‏
+‏✈️۲ فروند بوئینگ KC-135 استراتوتانکر:
+‏
+‏AE04F6 | 58-0069 — PICO 21
+‏AE068D | 62-3517 — PICO 22
+‏
+‏
+‏✈️امروز پنج فروند هواپیمای سوخت‌رسان در پایگاه هوایی فیرچایلد (Fairchild Air Force Base) مستقر شده‌اند؛ سه فروند KC-46 از پایگاه گارد ملی هوایی پیس (Pease Air National Guard Base) و دو فروند KC-135 از پایگاه هوایی مک‌دیل (MacDill Air Force Base).
+‏
+‏✈️پرواز PICO 11 تا 13 در تمام مسیر خود تا فیرچایلد قابل ردیابی بود، در حالی که PICO 21 و 22 بین ساعت ۰۱:۰۰ تا ۰۱:۳۰ به وقت UTC از مک‌دیل پرواز کردند، اما از طریق LiveATC قابل ردیابی نبودند.
+‏
+‏🔸به نظر می‌رسد PICO 23 نیز پروازی نداشته است.
+‏
+‏✈️این هواپیماهای سوخت‌رسان از یک مأموریت نیروی بمب‌افکن (BTF) متعلق به بال دوم بمب‌افکن نیروی هوایی آمریکا در پایگاه بارکسدیل پشتیبانی می‌کنند؛ این یگان قرار است به سمت استرالیا حرکت کند.
+‏
+‏@mwarmonitor
+18:56
 1405/06/08
 
 
@@ -1013,7 +1036,7 @@ src :@IranintlTV
 
 
 src :@intelslava
-‏A Ukrainian officer, after finishing his service, is very frank and reveals how the Bandera regime uses residential buildings and civilian infrastructure as shields for military production facilities.
+‏🇺🇦⚡️ — A Ukrainian officer, after finishing his service, is very frank and reveals how the Bandera regime uses residential buildings and civilian infrastructure as shields for military production facilities.
 ‏
 ‏Read it, because it's very interesting.
 ‏
@@ -1841,16 +1864,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 16:10
-1405/06/08
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇻🇪⚡️ — President Trump reposts:
-‏Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice.
-16:08
 1405/06/08
 
 
@@ -3367,14 +3380,6 @@ src :@Shin_Persian
 
 
 
-src :@intelslava
-‏The first results are starting to come in from the Icelandic referendum on resuming EU accession negotiations.  After 15% of the votes have been counted, 51.5% are in favor and 48.5% are against.  The votes counted so far are from the capital. Earlier, when…
-12:25
-1405/06/08
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⭕️خدمه 183 نفره لاوان هم اکنون در اقامتگاه های نیروی دریایی هند در کوچی نگهداری می شوند، پیش از این نیز ناو پشتیبانی بوشهر که در کنار لاوان و دنا در رزمایش میلان 2026 شرکت داشت درخواست پناهندگی به سریلانکا کرده بود که آن هم با موافقت مقامات سریلانکایی مواجه شده بود.
@@ -3741,6 +3746,32 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 11:36
+1405/06/08
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Leader of the Islamic Revolution:
+‏
+‏If Muslims were united as one, with a firm grip, would the Palestinian people be left so defenseless and subjected to the oppression and crimes of the occupiers?
+‏
+‏And would the countries and peoples living in the areas surrounding the Persian Gulf face this situation if they had established their unity under the banner of Islam? Would the rootless and corrupt elements dare to cast their eyes on their lands and resources from thousands of kilometers away?
+11:35
+1405/06/08
+
+
+
+
+src :@Alibk3
+[عکس]
+‏قائد الثورة الإسلامية:
+‏
+‏لو كان المسلمون يدا واحدة تحكم قبضتها بصلابة، أكان الشعب الفلسطيني يغدو أعزل هكذا، ويتعرض لظلم المحتلين وجرائمهم؟
+‏
+‏وهل كانت الدول والشعوب التي تسكن في المناطق المحيطة بالخليج الفارسي ستواجه هذا الوضع لو كانت قد أقامت وحدتها تحت راية الإسلام؟ هل كانت العناصر عديمة الهوية والفاسدة ستجرؤ على التطلع إلى أراضيها وثرواتها من مسافة آلاف الكيلومترات؟
+11:35
 1405/06/08
 
 
@@ -4172,14 +4203,6 @@ src :@mohem_mat
 ‏
 ‏🇮🇷 @jamarannews
 09:54
-1405/06/08
-
-
-
-
-src :@P_raetorio
-‏پالایشگاه سنت‌پترزبورگ مورد اصابت پهپاد‌های اوکراینی قرار گرفت.  @P_raetorio
-09:43
 1405/06/08
 
 
