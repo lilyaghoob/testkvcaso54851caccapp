@@ -6,6 +6,29 @@ src :@rus_cosmos
 
 
 
+src :@Farsi_Iranwire
+[عکس]
+‏رسانه‌های حکومتی ایران روز یکشنبه ۸ شهریور ۱۴۰۵، پیام مکتوبی منتسب به «مجتبی خامنه‌ای»، رهبر جمهوری اسلامی، منتشر کردند که در آن از کشورهای مسلمان، به‌ویژه دولت‌های حاشیه خلیج فارس، خواسته شده است علیه آمریکا و اسرائیل متحد شوند.
+‏بیشتر: https://iranwire.com/fa/news-1/156918
+‏
+‏@Farsi_Iranwire
+13:07
+1405/06/08
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏🇮🇸 🇪🇺⚡️— Icelanders voted to reject reopening EU membership talks. Opponents cited threats to sovereignty and fishing rights; supporters cited economic and security benefits. (Source: Reuters)
+‏
+‏🇪🇺 Legion Europa | Group Chat
+13:02
+1405/06/08
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇷🇺🇺🇦 The Russian Ministry of Defense says the Armed Forces have begun preparations to launch massive strikes against Ukraine’s energy infrastructure.  These orders were issued in response to continued Ukrainian attacks on Russia’s civilian infrastructure…
@@ -5650,18 +5673,6 @@ src :@mwarmonitor
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏رسانه آمریکایی «مورس ریپورت»، مدعی شده که ارتش آمریکا با اجرای عملیاتی مخفیانه، مسیر تازه‌ای را در بخش عمانی تنگه هرمز برای عبور کشتی‌های تجاری آماده کرده است.
-‏بیشتر: https://iranwire.com/fa/news-1/156904
-‏
-‏@Farsi_Iranwire
-15:22
-1405/06/07
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ تصاویر ماهواره ای بیشتری که نشان میدهد Type-54B به 48 سیلوی عمودپرتاب افزایش داشته.
@@ -6028,20 +6039,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/06/07/407618/
 13:08
-1405/06/07
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏لبنیات در فروشگاه‌های ایران بدون خریدار می‌ماند
-‏ 
-‏بر اساس گزارش‌های میدانی در حالیکه قیمت لبنیات با افزایش بی‌سابقه‌ای روبرو شده مردم توان خرید محصولات لبنی را ندارند. برخی فروشندگان از مرجوع شدن لبنیات به علت کاهش شدید تقاضا خبر می‌دهند.
-‏ 
-‏بر اساس داده‌های مرکز آمار ایران، در امرداد امسال قیمت لبنیات نسبت به امرداد سال گذشته ۱۶۳ درصد افزایش یافته است. همچنین میانگین افزایش قیمت گروه لبنیات در امرداد و طی تنها چهار هفته ۷/۸ درصد بوده است.
-‏ 
-‏افزایش پیوسته‌ی قیمت لبنیات مصرف سرانه آن در ایران را کاهش داده بطوریکه این رقم از حدود ۱۳۰ کیلوگرم در سال ۱۳۸۹ به کمتر از ۴۰ کیلوگرم در سال‌های اخیر رسیده است.
-13:03
 1405/06/07
