@@ -2165,19 +2165,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏104 years ago today, Turkish forces under Mustafa Kemal Pasha won the decisive Battle of Dumlupınar, crushing the invading Greek forces and securing the success of the Great Offensive.
-‏
-‏The victory paved the way for the liberation of Anatolia and the birth of a sovereign Turkish Republic.
-‏
-‏Today, Türkiye commemorates 30 August as Zafer Bayramı — Victory Day.
-10:46
-1405/06/08
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏✨ Global Exchange
