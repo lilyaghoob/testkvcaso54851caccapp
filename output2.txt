@@ -2068,16 +2068,6 @@ src :@ClashReport
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦💥 - Several impacts in Dnipro.
-‏
-‏@GeoPWatch
-22:40
-1405/06/07
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏علیرضا الهامی، فرمانده قرارگاه مشترک پدافند هوایی، در تجمع حامیان حکومت در تهران، گفت که بر اساس تاکیدات علی خامنه‌ای، پدافند هوایی اولویت نخست دفاع از کشور و خط مقدم دفاع از موجودیت، حیثیت و آبروی جمهوری اسلامی است.
@@ -2087,17 +2077,6 @@ src :@IranintlTV
 ‏او گفت که علی خامنه‌ای در سال ۱۳۸۸، فرمان تشکیل قرارگاه مشترک پدافند هوایی را صادر کرده بود.
 ‏https://iranintl.com/202608297298
 22:40
-1405/06/07
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦🔴 - Large scale air raid alerts throughout Kyiv, with Ballistic Missile threat's reported.
-‏
-‏@GeoPWatch
-22:39
 1405/06/07
 
 
@@ -5898,21 +5877,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 04:46
-1405/06/07
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Delcy Rodríguez @delcyrodriguezv
-‏
-‏Venezuela announces a historic agreement with the United States government, which will have a significant impact on our nation’s revival.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏ونزوئلا توافق تاریخی با دولت ایالات متحده را اعلام می‌کند که تأثیر چشمگیری بر احیای ملت ما خواهد داشت.
-‏
-‏𝕏  ·  @shin_persian
-04:26
 1405/06/07
