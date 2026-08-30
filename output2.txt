@@ -1,3 +1,16 @@
+src :@ClashReport
+[عکس]
+‏104 years ago today, Turkish forces under Mustafa Kemal Pasha won the decisive Battle of Dumlupınar, crushing the invading Greek forces and securing the success of the Great Offensive.
+‏
+‏The victory paved the way for the liberation of Anatolia and the birth of a sovereign Turkish Republic.
+‏
+‏Today, Türkiye commemorates 30 August as Zafer Bayramı — Victory Day.
+10:46
+1405/06/08
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏✨ Global Exchange
@@ -1433,20 +1446,6 @@ src :@mohem_mat
 
 
 
-src :@IranintlTV
-[عکس]
-‏مریم سعیدپور، عکاس ایرانی، برای مجموعه دوران جنگ خود با عنوان «آغوش دردناک» در جوایز بین‌المللی عکاسی ۲۰۲۶ به عنوان عکاس هنرهای زیبای سال انتخاب شد و در جمع نامزدهای نهایی جایزه اصلی بخش حرفه‌ای این رقابت قرار گرفت.
-‏جوایز بین‌المللی عکاسی در بیانیه‌ای اعلام کرد «آغوش دردناک» «تصویری عمیقا شخصی است که در دوران جنگ در تهران ثبت شده و از طریق حرکت ساده یک آغوش، ترس، محافظت و اشتیاق برای صلح را بیان می‌کند.»
-‏سعیدپور گفت که روزهای جنگ را روی پشت‌بام گذراند و می‌خواست «تهران را در آغوش بگیرد» و از آن در برابر آسیب محافظت کند. او افزود که آرزو داشت رهبران جهان یکدیگر را در آغوش بگیرند تا دیگر جنگی وجود نداشته باشد.
-‏سعیدپور به عنوان برنده یکی از بخش‌های حرفه‌ای، جایزه‌ای هزار دلاری دریافت می‌کند و برای کسب عنوان «عکاس بین‌المللی سال» و جایزه ۱۰ هزار دلاری آن رقابت خواهد کرد.
-‏
-‏https://iranintl.com/202608307567
-05:27
-1405/06/08
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦🔴 - Air Raid Alert in Kyiv.
 ‏
@@ -2464,16 +2463,6 @@ src :@DEJradio
 
 src :@rnintel
 ‏🇸🇾⚡- Unidentified jets over Damascus, Syria.
-23:47
-1405/06/07
-
-
-
-
-src :@ClashReport
-‏Iran's Deputy FM Kazem Gharibabadi:
-‏
-‏The Iranian armed forces have complete oversight of any activity in the Strait of Hormuz, and the claims made by the Americans regarding ships passing through the strait are absolutely not true.
 23:47
 1405/06/07
 
@@ -3926,20 +3915,6 @@ src :@naya_foriraq
 
 
 
-src :@WAR_ROOM_NEWS
-‏گزارش‌ها از برنامه روسیه برای گشودن جبهه‌ای جدید در منطقه چرنیهیو اوکراین و اختصاص نیرویی حدود ۵۰۰ تا ۶۰۰ هزار سرباز به این محور حکایت دارد. همزمان، نگرانی از احتمال آغاز موج تازه بسیج در روسیه افزایش یافته و گفته می‌شود تنها طی یک هفته حدود ۱۱۳ هزار شهروند روس به گرجستان گریخته اند
-‏
-‏#جنگ_اوکراین_روسیه
-‏#سرباز
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-19:36
-1405/06/07
-
-
-
-
 src :@didarnews1
 ‏🔴سیمایی صراف: بازگشت اساتید و دانشجویان اخراجی با بررسی پرونده‌ها و رویکرد حقوقی انجام شد
 ‏
@@ -4484,17 +4459,6 @@ src :@tglobaleye
 src :@naya_foriraq
 ‏وزارة التربية العراقية تغلق 158 مؤسسة تعليمية غير مجازة بالتعاون مع الأمن الوطني
 17:32
-1405/06/07
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏تصاویری از حملات هوایی ارتش اسرائیل به منطقه تپه علی الطاهر در جنوب لبنان
-‏
-‏🆔@WAR_ROOM_NEWS
-17:30
 1405/06/07
 
 
