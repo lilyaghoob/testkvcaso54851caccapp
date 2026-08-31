@@ -1,3 +1,74 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴سازمان تجارت دریایی بریتانیا از وقوع حادثه‌ای با حضور یک تانکر و نیروهای نظامی در اقیانوس هند، نزدیک عمان، خبر داد.
+‏
+‏@MilitarryWorld | Maverick
+23:42
+1405/06/09
+
+
+
+
+src :@mohem_mat
+‏فرزانه صادق وزیر راه: 
+‏
+‏چندین خلبان ما در طول جنگ برای جابه‌جایی دارو پرواز کردند و به آن‌ها حمله شد
+‏
+‏دشمن در جنگ به ۱۰۰ هواپیما و ۲۵ فرودگاه غیرنظامی ما حمله کرد.
+‏
+‏@mohem_mat
+23:41
+1405/06/09
+
+
+
+
+src :@Indypersian
+‏⭕️ عربستان سعودی در مسیر تبدیل‌شدن به قطب پهپادی خاورمیانه
+‏
+‏📌عربستان سعودی با بهره‌گیری از منابع مالی، شرکای خارجی و ظرفیت‌های داخلی، در تلاش است بخش‌های راهبردی زنجیره ارزش دفاعی را از طراحی و مهندسی تا تولید و نگهداری در اختیار بگیرد
+‏
+‏♦️ شبه‌نظامیان حوثی‌ چند روز پیش به کشتی‌های عربستان سعودی در دریای سرخ و پالایشگاه نفت جیزان حمله کردند. این حملات بار دیگر یادآور این واقعیت است که حوثی‌ها‌، مانند سایر نیروهای نیابتی جمهوری اسلامی ایران در منطقه، تهدیدی منطقه‌ای برای همگان و به‌ویژه برای عربستان سعودی به شمار می‌روند.
+‏
+‏تا همین چند سال پیش، وقتی از قدرت هوایی عربستان سعودی سخن گفته می‌شد، بلافاصله نام جنگنده‌های بزرگ غربی مانند «اف‌ــ۱۵» و «تایفون» و سامانه‌های تسلیحاتی آمریکایی و اروپایی به میان می‌آمد، اما امروز تحولی دیگر در عربستان سعودی در حال شکل‌گیری است که کمتر رسانه‌ای شده است، اما با ماهیت جنگ‌های آینده پیوند بالقوه بیشتری دارد. عربستان سعودی بی‌سروصدا تولید پهپادها و موشک‌های کروز را در کارخانه‌هایش آغاز کرده است و برخی از این محصولات وارد مرحله تولید و تحویل به نیروهای مسلح شده‌اند.
+‏
+‏بیشتر بخوانید...
+‏
+‏@indypersian
+23:40
+1405/06/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷🇴🇲⚡️ — UKMTO announces receiving a report of an "incident involving a tanker and military forces" on the Indian Ocean, east of Oman.
+‏
+‏The wording and location is more consistent with the U.S. Navy boarding a ship than it is the IRGC Navy attacking a ship. However, this suspicion of mine is unconfirmed and there are no further details as of now.
+23:40
+1405/06/09
+
+
+
+
+src :@samueltarikh
+[عکس]
+‏هم اکنون سازمان عملیات تجارت دریایی بریتانیا از وقوع حادثه‌ای نظامی با حضور یک نفتکش بزرگ و نیروهای نظامی در اقیانوس هند، نزدیک عمان، خبر داد.
+23:39
+1405/06/09
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏سازمان امنیت تجارت دریایی بریتانیا از وقوع حادثه‌ای میان یک تانکر و نیروهای نظامی در اقیانوس هند، نزدیک عمان، خبر داد
+23:39
+1405/06/09
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏🚨سازمان امداد و نجات دریایی بریتانیا UKMTO گزارشی از وقوع یک حادثه درگیری میان یک نفتکش و نیروهای نظامی در اقیانوس هند دریافت کرده است.
@@ -15,7 +86,7 @@ src :@mwarmonitor
 
 src :@Ali_bk_2
 [عکس]
-‏A security incident off the coast of Oman.
+‏A security incident off the Indian Ocean, with a military boarding of a vessel.
 23:37
 1405/06/09
 
@@ -32,8 +103,17 @@ src :@samueltarikh
 
 
 
+src :@WAR_ROOM_NEWS
+‏اظهارات ترامپ درباره ایران:ما کنترل تنگه هرمز را در شرایط بسیار خوبی در دست داریم.به طور متوسط، هر شب حدود ۳۰ کشتی از این منطقه عبور می‌کنند. این تعداد بسیار زیادی است
+23:37
+1405/06/09
+
+
+
+
 src :@Alibk3
 [عکس]
+‏حدث أمني قبالة المحيط الهندي، إنزال عسكري على سفينة.
 23:37
 1405/06/09
 
@@ -132,8 +212,7 @@ src :@WAR_ROOM_NEWS
 
 src :@naya_foriraq
 [عکس]
-‏الله اكبر
-‏استهداف سفينة عند السواحل العمانية بمضيق هرمز اثناء محاولة عبورها المضيق.
+‏حدث بحري لسفينة عند السواحل العمانية بمضيق هرمز اثناء محاولة عبورها المضيق.
 23:34
 1405/06/09
 
@@ -952,14 +1031,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇸🇾🇸🇾⚡️ — Four members of Syria’s Internal Security Forces were wounded while clashing with the Druze National Guard, led by Israeli-backed Hikmat al-Hijri, around Walgha, Mansoura, and Tal Hadid in the western Suwayda countryside, southern Syria.
-22:49
-1405/06/09
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏نوید محمدزاده، بازیگر سینما و تئاتر، حدود دو هفته پس از انتشار پستی در حمایت از فلسطین و واکنش‌های گسترده به آن، از تئاتر ارکسترال «آرش» کنار گذاشته شد. سازندگان این اثر «حواشی پیش‌آمده» و «عدم رغبت تماشاگران» را از دلایل این تصمیم عنوان کرده‌اند.
@@ -1450,23 +1521,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 22:04
-1405/06/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇻🇪 Bloomberg: President Trump is presenting his deal for a US stake in 65 billion barrels of Venezuelan oil as a win that will cut gasoline prices and rebuild crude reserves, though it remains uncertain whether either outcome materializes during his term. 
-‏
-‏The push followed Trump's frustration that ExxonMobil and ConocoPhillips were not moving fast enough to raise Venezuelan output, prompting the administration to launch a US-controlled venture meant to give producers more confidence to develop the 17 fields involved.
-‏
-‏The White House has not clarified the source of the $100 billion in expected investment, and while Trump has ruled out taxpayer funding, the private partner on the deal, North American Blue Energy Partners, lacks the scale to cover that sum alone. Analysts note that many of the fields lack properly proven reserves, and the deal faces the same execution risk as other unfinished Trump initiatives, including the Gaza peace plan and the Iran ceasefire.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:02
 1405/06/09
 
 
@@ -3244,19 +3298,6 @@ src :@cataphract1
 
 
 
-src :@mohem_mat
-[عکس]
-‏ترامپ در تروث سوشال نوشت:
-‏
-‏ ایران با خطر از دست دادن یک شریان اقتصادی اصلی روبرو است پس از اینکه امارات تجارت خود را با این کشور متوقف کرد
-‏
-‏@mohem_mat
-19:45
-1405/06/09
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️لیونل مسی، پرافتخارترین فوتبالیست تاریخ و کاپیتان تیم ملی آرژانتین، روز دوشنبه نهم شهریور ماه اعلام کرد از فوتبال ملی خداحافظی می‌کند.
@@ -3613,16 +3654,6 @@ src :@didarnews1
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ: ایران با خطر از دست دادن یک شریان اقتصادی اصلی روبرو است پس از اینکه امارات تجارت خود را با این کشور متوقف کرد
-‏
-‏@MilitarryWorld | Parsa
-19:14
-1405/06/09
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇨🇳 Treasury Secretary Bessent says the US has more in common with China on Iran.
 ‏
@@ -3916,21 +3947,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 18:44
-1405/06/09
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️مسعود پزشکیان، روز دوشنبه نهم شهریور ماه، در حاشیه اجلاس سران کشورهای عضو سازمان همکاری شانگهای و شانگهای پلاس در قرقیزستان، با روسای جمهوری تاجیکستان، جمهوری آذربایجان و قرقیزستان دیدار و درباره توسعه روابط دوجانبه و تحولات منطقه‌ای گفتگو کرد.
-‏به گزارش ایرنا، پزشکیان در دیدار با امامعلی رحمان، رئیس‌جمهور تاجیکستان، با اشاره به پیوندهای عمیق تاریخی، فرهنگی و تمدنی میان دو ملت، روابط تهران و دوشنبه را فراتر از مناسبات متعارف دیپلماتیک دانست و بر عزم ایران برای توسعه و تعمیق همکاری‌های سیاسی، اقتصادی، علمی و فرهنگی میان دو کشور تاکید کرد. امامعلی رحمان نیز با تاکید بر روابط دوستانه دو کشور اظهار داشت که ملت ایران با خرد و حکمت بر چالش‌های پیش‌رو غلبه خواهد کرد.
-‏ایرنا گزارش کرد، پزشکیان و الهام علی‌اف، آخرین تحولات و روند همکاری‌های میان تهران و باکو را بررسی و «بر ضرورت تعمیق مناسبات دو کشور در زمینه‌های مختلف تاکید کردند.»
-‏پزشکیان در دیدار با رئیس‌جمهور قرقیزستان نیز، پیشنهاد ایجاد «یک مرکز لجستیکی» متعلق به قرقیزستان در بندرعباس را مطرح کرد و گفت ایران می‌تواند مسیر مناسبی برای انتقال کالاهای قرقیزستان از طریق دریا به کشورهای حوزه خلیج فارس، شبه‌قاره هند و شرق آسیا باشد.
-‏مسعود پزشکیان پیش از این دیدارها با شهباز شریف و ناندرا مودی، نخست وزیران پاکستان و هند دیدار کرده بود.  
-‏
-‏@indypersian
-18:43
 1405/06/09
 
 
@@ -5959,42 +5975,6 @@ src :@DEJradio
 
 
 
-src :@mwarmonitor
-[عکس]
-‏✨ Global Exchange
-‏
-‏
-‏💎 اگر به‌دنبال یک مسیر امن، سریع و اقتصادی برای جابه‌جایی پول، انتقال حواله‌جات بین‌المللی و صرافی ارز دیجیتال هستید، Global Exchange همراه مطمئن شماست.
-‏
-‏🔄 خدمات جامع ما:
-‏▫️ارسال و انتقال انواع ارز از سراسر جهان به ایران (تحویل سریع تومان)
-‏▫️ خرید و فروش انواع ارزهای مسافرتی و تجاری (دلار 💵 | یورو 💶 | درهم 🇦🇪)
-‏▫️ خرید و فروش تتر (USDT) با نرخ لحظه‌ای، شفاف و رقابتی
-‏
-‏▫️ تبدیل مستقیم و بدون واسطه:
-‏تتر ⇄ لیر 🇹🇷 | دلار 💵 | یورو 💶 | تومان 🇮🇷
-‏▫️ انجام تمامی تراکنش‌ها با بالاترین سطح امنیت و تسویه در کوتاه‌ترین زمان
-‏
-‏✅ پوشش کامل حواله‌جات ارزی از سراسر دنیا به ایران
-‏✅ قیمت‌های واقعی و شفاف بدون کارمزد پنهان
-‏✅ تسویه فوری و پشتیبانی اختصاصی
-‏
-‏📩 برای دریافت مشاوره، استعلام نرخ لحظه‌ای و ثبت سفارش همین حالا با ما در ارتباط باشید:
-‏🆔 @Global_exchange_istanbul
-‏📱 https://wa.me/905344974743
-‏
-‏🆔 @Global_exchange_uk
-‏📱 https://wa.me/447349997266
-‏
-‏🌐 www.globalexchange.com.tr
-‏
-‏🌐 https://heathrow.global-exchange.co.uk
-11:41
-1405/06/09
-
-
-
-
 src :@Americana_ir
 ‏🔻در پرده چهارم جنگ، ایران اهرم خود در تنگه هرمز را از دست می‌دهد
 ‏
@@ -6514,16 +6494,6 @@ src :@samueltarikh
 
 
 
-src :@samueltarikh
-‏_گزارش ها حاکی از شلیک موشک از سایتی در لار استان فارس است.
-‏
-‏_مردم محلی از شلیک دو فروند موشک بالستیک از پایگاه موشکی امام علی خرم آباد خبر می دهند.
-01:27
-1405/06/09
-
-
-
-
 src :@guard_warriors
 ‏فعالیت پدافند اردن
 ‏
@@ -6670,13 +6640,3 @@ src :@guard_warriors
 ‏@Guard_Warriors
 00:12
 1405/06/09
-
-
-
-
-src :@guard_warriors
-‏سپاه : جواب می‌دیم همین 
-‏
-‏@Guard_Warriors
-23:37
-1405/06/08
