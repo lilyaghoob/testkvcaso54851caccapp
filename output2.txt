@@ -1,3 +1,78 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴حملات شدید اسرائیل به جنوب لبنان
+‏
+‏@MilitarryWorld | Parsa
+20:38
+1405/06/09
+
+
+
+
+src :@mohem_mat
+[عکس]
+‏واردات لوازم خانگی ممنوع شد که قیمت تولیدات داخل بیاد پایین، اما کیفیتشون اومده پایین و قیمت‌ها سر به فلک کشیده.
+‏
+‏@Aghaye_Eghtesad
+20:37
+1405/06/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇻🇪⚡️ — Chevron, GE Vernova, India’s ONGC, Italy’s Eni, and Colombia’s GeoPark are nearing final agreements for energy projects in Venezuela after months of negotiations, Reuters reports.
+‏
+‏Most of the deals involve transferring existing oil contracts to Venezuela’s amended hydrocarbons framework, which gives foreign companies greater flexibility to develop and operate fields, export crude, and receive proceeds from sales. Other agreements cover new energy and electricity projects.
+‏
+‏Chevron’s agreements are expected to be particularly large. The agreements could be signed as early as this week and are separate from the broader U.S.-Venezuela deal announced last week.
+20:37
+1405/06/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The Pentagon has signed seven-year agreements with Lockheed Martin and General Dynamics Ordnance and Tactical Systems to expand missile production. 
+‏
+‏The deals are aimed at increasing output and speeding deliveries of critical components for the THAAD and Patriot PAC-3 MSE interceptor programs.
+20:36
+1405/06/09
+
+
+
+
+src :@mohem_mat
+‏روزنامه وال استریت ژورنال:
+‏ 
+‏ژاپن با ثبت رکورد جدید در هزینه‌های نظامی (۵۵.۶ میلیارد دلار)، آشکارا خود را برای جنگی متفاوت آماده می‌کند.
+‏ 
+‏جنگی که در آن هوش مصنوعی فرماندهی می‌کند، پهپادها حمله‌ور می‌شوند و موشک‌های ابرفراصوت از اعماق دریا شلیک می‌شوند.
+‏ 
+‏ همچنین بودجه‌ای ویژه برای مقابله با جنگ شناختی اختصاص داده است.
+‏
+‏@Eslahatnews
+20:36
+1405/06/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇨🇩🦠 — Confirmed Ebola cases in the Democratic Republic of Congo have surpassed 6,000.
+‏
+‏The outbreak is now the largest in the country’s history, exceeding the previous record epidemic between 2018 and 2020. 
+‏
+‏2,911 deaths have been reported by the government. It is being driven by the Bundibugyo strain of Ebola, for which there are currently no approved vaccines or treatments.
+20:34
+1405/06/09
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇱⚡️ — Maj. Gen. Dado Bar Kalifa has been officially nominated as the next commander of the IDF’s Central Command.
@@ -5,6 +80,25 @@ src :@tabzlive
 ‏Israeli Defense Minister Katz approved Chief of Staff Lt. Gen. Eyal Zamir’s recommendation for the appointment. 
 ‏
 ‏Bar Kalifa is expected to take up the position in 2027, “subject to an operational situation assessment.
+20:32
+1405/06/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Belgium shut down a renewed push by Poland, Netherlands, Spain and Sweden to use €210 billion in frozen Russian assets for Ukraine. 
+‏
+‏Belgium's Defense Minister Francken: 
+‏
+‏Non-negotiable; the door is closed.
+‏
+‏He warned Baltic states to stop "putting us in a corner." 
+‏
+‏Belgium fears Russian lawsuits — Moscow already won a €220B damages ruling against Euroclear in a Russian court. 
+‏
+‏A similar EU proposal failed in Dec 2025 over the same concerns.
 20:32
 1405/06/09
 
@@ -3268,20 +3362,6 @@ src :@cataphract1
 
 
 
-src :@mohem_mat
-[عکس]
-‏در کشور ژاپن میزان تولید و فروش «پوشک بزرگسالان» نسبت به خردسالان پیشی گرفته است!
-‏
-‏علت: سالمندی جمعیت و کاهش شدید نرخ تولد…/ آپدیت ام دی
-‏هم‌میهن 
-‏
-‏@mohem_mat
-16:49
-1405/06/09
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏عراقچی باهوش متوجه نکته‌ای شد و پرده از رازی برداشت که آمریکای ساده ازش بی‌خبر بود:
@@ -3312,17 +3392,6 @@ src :@DEJradio
 ‏#ترامپ #جنگ 
 ‏@DEJradio
 16:49
-1405/06/09
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏توئیت های علی احمدنیا، مسئول رسانه ایی تیم دکتر پزشکیان در مورد بالا رفتن قیمت دلار در زمان دولت سیزدهم
-‏
-‏@Squad_iran
-16:48
 1405/06/09
 
 
@@ -3713,18 +3782,6 @@ src :@intelslava
 ‏— Russian Ambassador to Belgium, Denis Gonchar.
 ‏
 ‏@IntelSlava
-16:20
-1405/06/09
-
-
-
-
-src :@MilitarryWorld
-‏🔴اسرائیل و یونان یک قرارداد دفاعی بزرگ به ارزش ۳.۱ میلیارد یورو امضا کردند که با نام "سپر آکیلس" شناخته می‌شود.
-‏
-‏در حال حاضر، ۱۹ شرکت یونانی در این پروژه مشارکت دارند. این قرارداد شامل سامانه‌های رهگیری موشکی دیویدز اسلینگ، باراک MX و اسپایدر، به همراه رادارهای اسرائیلی و سیستم‌های فرماندهی است.
-‏
-‏@MilitarryWorld | Parsa
 16:20
 1405/06/09
 
@@ -4667,14 +4724,6 @@ src :@Farsi_Iranwire
 ‏بخوانید: https://iranwire.com/fa/news-1/156957
 ‏
 ‏@Farsi_Iranwire
-14:21
-1405/06/09
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷الرئيس الايراني مسعود بزشكيان: هناك تيارات داخل الولايات المتحدة ترى مصالحها في استمرار الحرب وترغب في استمرار الصراعات.
 14:21
 1405/06/09
 
@@ -6426,18 +6475,6 @@ src :@thewarreporter
 
 
 
-src :@BellumActaNews
-‏🇮🇷🚀 — Ballistic Missile launch from East Azerbaijan
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-01:13
-1405/06/09
-
-
-
-
 src :@samueltarikh
 ‏صدای انفجارهای پی‌درپی در اردن
 01:12
@@ -6773,13 +6810,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 21:09
-1405/06/08
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Four Algerian Air Force (AAF) Su-30MKAs, accompanied by an Il-78 aerial refueling aircraft, arrived at Niamey Airport in Niger today.  The deployment comes after a military mutiny at Air Base 101 in Niamey was reportedly thwarted over the weekend. Algeria…
-20:33
 1405/06/08
