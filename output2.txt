@@ -963,14 +963,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-‏NOTE: Alerts occasionally get activated in the UAE due to Iranian anti-ship launches towards the Strait of Hormuz.
-02:15
-1405/06/09
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇮🇷🇦🇪⚡️- Visual confirmation of a missile launch from Iran, likely headed towards the UAE.
@@ -2495,20 +2487,6 @@ src :@Shin_Persian
 ‏فعالیت پدافند هوایی در اردن
 ‏
 ‏𝕏  ·  @shin_persian
-01:12
-1405/06/09
-
-
-
-
-src :@intelslava
-‏🇮🇱🇵🇸⚡️ — Soldiers from the "Rotem" battalion of the IDF's "Givati" brigade refused to obey an order, did not show up for an operational mission in the Gaza Strip, and the operation was canceled.
-‏
-‏The incident was investigated, and disciplinary measures were taken against those involved.
-‏
-‏Five soldiers who were the organizers of this incident were sentenced to 10 days in prison, and another 11 soldiers were sentenced to five days in prison.
-‏
-‏@IntelSlava
 01:12
 1405/06/09
 
