@@ -1,3 +1,29 @@
+src :@defence_news
+[عکس]
+‏تصاویری از علی فیاضی و حمید عوض زاده، 2 عضو نیرو دریایی سپاه که در حمله هوایی شب گذشته ارتش آمریکا به هدفی در جزیره لارک به شهادت رسیدند.
+‏
+‏@P_raetorio
+18:27
+1405/06/09
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️فرماندهی مرکزی ایالات متحده (سنتکام) روز دوشنبه نهم شهریور ماه با انتشار پیامی در شبکه اجتماعی اکس، ادعای رسانه‌ها و نهادهای وابسته به سپاه پاسداران مبنی بر برخورد یک ابرنفتکش با مین‌های دریایی در تنگه هرمز را تکذیب کرد. 
+‏سنتکام با رد این ادعا تاکید کرد: «هیچ کشتی‌ای در تنگه هرمز با مین برخورد نکرده است.» 
+‏ستاد فرماندهی مرکزی آمریکا همچنین افزود: «این تلاشی دیگر از سوی سپاه پاسداران برای ارعاب کشتیرانی تجاری منطقه از طریق اطلاعات نادرست است.»
+‏یروی دریایی سپاه پاسداران صبح دوشنبه اعلام کرده بود یک «سوپرنفتکش» در زمان عبور از مسیر جنوبی تنگه هرمز و بر اثر اصابت با «۲ مین دریایی» دچار «آتش‌سوزی‌های مهیب» و متوقف شده است.
+‏دونالد ترامپ، رئیس جمهوری آمریکا روز پنجشنبه گفته بود نیروهای سنتکام تنگه هرمز را مین‌زدایی کرده‌اند: «ما تنگه را به‌طور کامل از مین پاک کرده‌ایم؛ هر قایقی که اقدام به مین‌ریزی کند را از بین می‌بریم.»
+‏
+‏@indypersian
+18:25
+1405/06/09
+
+
+
+
 src :@mohem_mat
 ‏این روزها کمتر کسی ادعاهای عجیب ‌و غریب دونالد ترامپ را جدی می‌گیرد. او در تازه‌ترین پستش مدعی شده شمار کشته‌شدگان اعتراض‌ها در ایران از ۱۰۰ هزار نفر گذشته و ایران را بار دیگر یک «ملت درمانده» (failed nation)  خواند؛ تعبیری که برخلاف اصطلاح شناخته‌شده «دولت درمانده»  (Failed State)، معنای حقوقی یا عرفی مشخصی در روابط بین‌الملل ندارد.
 ‏
@@ -1577,19 +1603,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@ClashReport
-[عکس]
-‏Breaking the Silence, an Israeli veterans group founded by former and serving soldiers, says the Israeli military has killed Palestinians in Gaza and then searched for evidence linking them to Hamas or other armed groups to justify the attacks.
-‏
-‏The group calls this “retrospective incrimination”, saying soldiers often did not have that information when the strikes were carried out.
-‏
-‏Source: MEE
-16:51
-1405/06/09
-
-
-
-
 src :@naya_foriraq
 ‏اشتباكات في البحر الاحمر بين انصار الله ومرتزقة السعودية في اليمن
 16:51
@@ -1669,19 +1682,6 @@ src :@VahidOnline
 ‏araghchi
 ‏
 ‏📡 @VahidOnline
-16:49
-1405/06/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israel and Russia Spread Migration Hoaxes: Spanish PM Sánchez
-‏
-‏Sánchez says Russian and Israeli-linked networks were weaponizing migration disinformation to weaken Spain over its positions regarding "the genocide in Gaza or Putin's invasion of Ukraine."
-‏
-‏READ MORE
 16:49
 1405/06/09
 
@@ -1957,15 +1957,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 16:38
-1405/06/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — IRGC Navy announces hours ago, an oil supertanker transiting the southern route of the Strait of Hormuz was struck by two naval mines, setting the ship ablaze and forcing it to stop.
-16:36
 1405/06/09
 
 
@@ -3828,18 +3819,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/06/09/407718/
 13:43
-1405/06/09
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ خبرگزاری دانشجو صبح دوشنبه نهم شهریور ماه گزارش کرد یکی از اعضای سپاه به نام علی فیاضی، در جریان حمله نیمه‌شب گذشته آمریکا به جزیره لارکِ‌ کشته شده است.
-‏وزارت امور خارجه و رسانه‌های داخلی ایران از جمله تسنیم و خبرگزاری مهر از کشته شدن چندین نظامی و غیرنظامی در حمله آمریکا به لارک خبر داده‌اند. با این حال هنوز هویت و تعداد دقیق قربانیان این حمله اعلام نشده است.
-‏
-‏@indypersian
-13:41
 1405/06/09
 
 
@@ -6041,14 +6020,6 @@ src :@Shin_Persian
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-02:06
-1405/06/09
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇮🇷🇸🇦⚡️- Air traffic has been temporarily halted in Jeddah, Saudi Arabia.
@@ -6450,16 +6421,6 @@ src :@Shin_Persian
 ‏#Iran
 ‏
 ‏𝕏  ·  @shin_persian
-01:10
-1405/06/09
-
-
-
-
-src :@defence_news
-‏پرتاب موشک از ارومیه، تبریز و زنجان نیز گزارش شده است ؛ هنوز هیچ خبری از مقصد احتمالی موشک ها مخابره نشده است 
-‏
-‏@Minas_Tirith2024
 01:10
 1405/06/09
 
@@ -7035,19 +6996,6 @@ src :@OSINTWarfare
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇴🇲 🇮🇷 — UKMTO has received a time-late report of an incident 12NM north of Khasab, Oman. 
-‏
-‏A tanker has been struck by an unknown projectile whilst transiting inbound in the Strait of Hormuz. No casualties or environmental impact are reported at this time.
-‏
-‏The Global Eye | Subscribe ✈️
-20:12
-1405/06/08
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Kuwaiti Al-Moushtaraka Contracting Company has won a $50 million Syrian Ministry of Transport contract to rehabilitate and maintain the international road linking Damascus to the Nasib border crossing with Jordan. The project will take 400 days.  @Mana_Live
@@ -7086,13 +7034,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 19:09
-1405/06/08
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ تصویری از پهپاد انتحاری جدید پاکستان با برد 3000 کیلومتر   @Guard_Warriors | DmW
-18:24
 1405/06/08
