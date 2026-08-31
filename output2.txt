@@ -2292,25 +2292,6 @@ src :@mwarmonitor
 
 
 
-src :@IranintlTV
-[عکس]
-‏اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت دولت دونالد ترامپ، رییس‌جمهوری آمریکا، قصد دارد این هفته بانک دیگری را به دلیل ارتباط با مبادلات ایران تحریم و فشار بر شرکای اقتصادی جمهوری اسلامی را افزایش دهد.
-‏
-‏بسنت پیش از نشست گروه ۲۰ در کارولینای شمالی به آسوشیتدپرس گفت واشینگتن می‌کوشد اعضای این گروه را به مشارکت در کارزار طرد اقتصادی حکومت ایران ترغیب کند. او افزود کشورها و بانک‌هایی که به همکاری مالی با جمهوری اسلامی ادامه دهند، ممکن است با اقدامات تلافی‌جویانه آمریکا روبه‌رو شوند.
-‏
-‏وزارت خزانه‌داری آمریکا پیش‌تر پیشنهاد محروم کردن شعب بانک مصر در امارات از دسترسی به نظام مالی آمریکا را مطرح کرده بود، اما خود این بانک را مستقیما تحریم نکرد.
-‏
-‏بسنت همچنین گفت درباره ادامه خریدهای چین از ایران با مقام‌های پکن گفت‌وگو خواهد کرد و برای تحریم چین «همه گزینه‌ها روی میز است». او افزود واشینگتن و پکن درباره ضرورت بازگشایی تنگه هرمز و جلوگیری از دستیابی ایران به سلاح هسته‌ای اتفاق نظر دارند.
-‏
-‏مشخصات بانکی که قرار است این هفته تحریم شود، هنوز اعلام نشده است.
-‏
-‏https://iranintl.com/202608303443
-02:12
-1405/06/09
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴محسن رضایی امشب
@@ -2887,33 +2868,11 @@ src :@Alibk3
 
 
 
-src :@ClashReport
-‏Oil prices rose more than 2% on Monday, pushing Brent above $90 a barrel after U.S. strikes on Iranian launchers on Larak island in the Strait of Hormuz.
-‏
-‏Source: Reuters
-01:44
-1405/06/09
-
-
-
-
 src :@cataphract1
 ‏⚜ تا کنون برخورد یک موشک به اردن گزارش شده 
 ‏
 ‏📃@Cataphract1
 01:44
-1405/06/09
-
-
-
-
-src :@ClashReport
-‏Treasury Secretary Scott Bessent said the U.S. could sanction China over its continued purchases from Iran, warning that “all options are on the table.”
-‏
-‏He also rejected claims that Washington is reluctant to target Beijing, calling that “a completely false narrative.”
-‏
-‏Source: AP
-01:43
 1405/06/09
 
 
