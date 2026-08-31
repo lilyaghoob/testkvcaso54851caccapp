@@ -6511,16 +6511,3 @@ src :@Artemis_Force
 ‏@artemis_force
 09:03
 1405/06/08
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏France is ready to export its Missile de Croisière Naval (MdCN), or Naval Cruise Missile, to Sweden.
-‏
-‏The move comes ahead of a new France-Sweden defence partnership and a €4.3 billion deal for four FDI (Frégate de Défense et d'Intervention) frigates for the Swedish Navy.
-‏
-‏The export would mark the MdCN’s first deployment outside France. Often considered Europe’s equivalent to the Tomahawk, the missile has a reported range of around 1,400 km and has been operated exclusively by the French Navy for nearly a decade.
-03:59
-1405/06/08
