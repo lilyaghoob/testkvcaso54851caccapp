@@ -719,18 +719,6 @@ src :@wfwitness
 
 
 
-src :@GeoPWatch
-‏⚡️🇺🇸 – More than 20 people could be missing following a flash flood in the Grand Canyon, Arizona, U.S., following a flash flood caused by heavy rain.
-‏
-‏An additional 60 people were airlifted into safety, and a search and rescue mission is ongoing.
-‏
-‏@GeoPWatch
-04:05
-1405/06/09
-
-
-
-
 src :@intelslava
 ‏🇷🇺🇺🇦⚡️ — Kiev has been under bombardment for 115 hours.
 ‏
@@ -921,18 +909,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 An Israeli airstrike targeted the town of Al-Mansouri in southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-02:48
-1405/06/09
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏یک خبرنگار فاکس‌نیوز به نقل از یک منبع آمریکایی در شبکه اجتماعی ایکس گزارش داد ایران نیروهای آمریکایی مستقر در اردن را هدف حمله قرار داده است. در این گزارش جزییاتی درباره محل حمله، نوع سلاح‌های استفاده‌شده یا خسارت و تلفات احتمالی ارائه نشده است.
@@ -980,28 +956,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 02:42
-1405/06/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇯🇴🇸🇦 Following Iranian launches towards Jordan, all air traffic towards King Abdulaziz International Airport in Jeddah, Saudi Arabia, has halted with planes idling nearby.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom…
-02:41
-1405/06/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷A U.S. KC-135 stratotanker is continuing to circle. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-02:38
 1405/06/09
 
 
@@ -1107,18 +1061,6 @@ src :@BellumActaNews
 ‏Don’t miss out:
 ‏🔗 Join now to stay ahead
 02:29
-1405/06/09
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸🇯🇴 – The IRGC claims to have struck "technical infrastructure" and fighter hangars at the King Hussein and Al-Azraq airbases in Jordan, inflicting heavy damage.
-‏
-‏This has not been independently confirmed.
-‏
-‏@GeoPWatch
-02:28
 1405/06/09
 
 
@@ -1284,16 +1226,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 02:19
-1405/06/09
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸🇦🇪 - Sirens in the UAE appear to be from Iranian activity off the coast of the nation.
-‏
-‏@GeoPWatch
-02:18
 1405/06/09
 
 
@@ -1477,15 +1409,6 @@ src :@Middle_East_Spectator
 ‏—❗️🇮🇷/🇦🇪 BREAKING: Missile alerts in the United Arab Emirates
 ‏
 ‏@Middle_East_Spectator
-02:09
-1405/06/09
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸🇦🇪 - Sirens in UAE.
 02:09
 1405/06/09
 
