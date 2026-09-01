@@ -1,3 +1,14 @@
+src :@OSINTWarfare
+[عکس]
+‏One person was killed and nine others, including a child, were injured in the attack on Boryspil, Kyiv Oblast, according to the Kyiv Regional State Administration.
+‏
+‏A five-story residential building and several vehicles in a parking lot were damaged, while 48 residents were evacuated.
+05:02
+1405/06/10
+
+
+
+
 src :@intelslava
 ‏The widely promoted Ukrainian Lima electronic warfare (EW) system, which was allegedly capable of disrupting even Kh-47M2 Kinzhal air-launched ballistic missiles, is now under investigation after authorities found that it failed to meet its declared specifications.…
 04:54
@@ -4920,17 +4931,6 @@ src :@Mena_Live
 
 
 
-src :@OSINTWarfare
-[عکس]
-‏Russia has increased its use of jet-powered drones against Ukraine fivefold compared with June, Ukrainian Air Force spokesperson Yuriy Ihnat said.
-‏
-‏Yesterday, Zelenskyy stated that over the past four days alone, the Russian Armed Forces had launched around 800 jet-powered drones.
-17:45
-1405/06/09
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran's Armed Forces spokesman says President Trump and American leaders can only dream of owning the Strait of Hormuz.
 ‏
@@ -6607,13 +6607,4 @@ src :@Navy_Iranian
 ‏
 ‏@RedLionCorps
 07:40
-1405/06/09
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Yesterday, the heavy nuclear-powered battlecruiser Admiral Nakhimov (080), Project 11442M of the Russian Navy, entered the final phase of its sea trials.
-05:05
 1405/06/09
