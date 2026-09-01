@@ -1,3 +1,69 @@
+src :@defence_news
+[عکس]
+‏تصویری منتشر شده که گفته میشود از پرواز آزمایشی و شلیک موشک هوا به هوای دوربرد PL-15E ( این نسخه به عنوان صادراتی تا ۱۵۰ کیلومتر برد ادعایی دارد) توسط پهپاد رزمی پنهانکار GJ-11 ارتش چین می‌باشد
+‏
+‏
+‏@RedLionCorps
+12:48
+1405/06/10
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Financial Times:  A member of the European Central Bank's Governing Council warned that a prolonged war with Iran could keep inflation rates elevated, particularly as pressure on energy prices continues.
+12:46
+1405/06/10
+
+
+
+
+src :@Alibk3
+[عکس]
+‏حاولت قوة خاصة تابعة للاحتلال "الإسرائيلي" تنفيذ مهمة أمنية في مدينة غزة، إلا أن القوة انكشفت أثناء تنفيذها للمهمة، ما دفع الاحتلال إلى التدخل جويًا عبر أكثر من 10 طائرات حربية مختلفة، شنت سلسلة غارات مكثفة وعنيفة في المنطقة، أسفرت عن ارتقاء عدد من الشهداء…
+12:46
+1405/06/10
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر نیرو: اگر جنگ اتفاق نمی‌افتاد و بعضی نیروگاه‌ها از دست نمی‌رفتند، امروز در نقطه تراز قرار داشتیم
+‏
+‏@MilitarryWorld | Parsa
+12:45
+1405/06/10
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇵🇸 — Israeli veterans’ group Breaking the Silence says that the Israeli military has killed Palestinians in Gaza and then searched for evidence linking them to Hamas or other armed groups to justify the attacks, MEE reports.
+‏
+‏Executive Director Nadav Weiman described this as “retrospective incrimination,” claiming soldiers often lacked such information when the attacks occurred. 
+‏
+‏Weiman summarized the process as: “First, we shoot, we kill, and then we think,” before seeking a justification.
+12:44
+1405/06/10
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Israel-Backed Druze Militia Storms Syrian Positions
+‏
+‏Israel-aligned Druze militia launched its heaviest assault in months on Syrian government forces near Sweida overnight into Tuesday, as Damascus accused Israel of backing a breakaway force destabilizing the country's south.
+‏
+‏READ MORE
+12:43
+1405/06/10
+
+
+
+
 src :@Ali_bk_2
 ‏Financial Times:
 ‏
@@ -3250,16 +3316,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-‏❗Several Iskander-M/S-400 ballistic missiles used against Kyiv, Brovary and Boryspil
-‏
-‏~ 2-3x Iskander-M ballistic missiles with cluster warheads used aswell
-03:08
-1405/06/10
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦💥 - Russia is actively using Cluster Munitions to target Kyiv. Impacts have been reported in Western Kyiv.
 ‏
@@ -3858,16 +3914,6 @@ src :@samueltarikh
 
 
 
-src :@MilitarryWorld
-‏🔴نیوزویک: ایالات متحده قصد دارد یک کارزار رزمی ۱۰روزه محدود علیه ایران در جهت استهلاک هرچه بیشتر اقتصاد این کشور انجام دهد
-‏
-‏@MilitarryWorld | Parsa
-00:28
-1405/06/10
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The United Kingdom Maritime Trade Operations (UKMTO) Center has issued an advisory after receiving a report within the last few hours of an incident involving a tanker and unspecified military forces near the entrance to the Gulf of Oman.
@@ -4283,14 +4329,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@defence_news
-‏ظاهرا شب گذشته چندین اصابت موفق در پایگاه هوایی موفق السلطي در اردن داشتیم.   🇮🇷📝 @defence_news 📝🇮🇷
-23:09
-1405/06/09
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴اکسیوس به نقل از سه مقام آمریکایی: ترامپ در حال بررسی حملات محدود علیه ایران برای مهار حملات به تردد کشتی‌ها در تنگه هرمز است 
@@ -4600,15 +4638,6 @@ src :@Minas_Tirith2024
 [عکس]
 ‏تصویر ماهواره‌ای منتشر شده از پایگاه موفق سلطی اردن، اثر احتمالی از اصابت دیده شده که بنظر سازه‌ای مورد اصابت قرار گرفته است  @RedLionCorps
 22:15
-1405/06/09
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Jamming operations over the Middle East.
-22:10
 1405/06/09
 
 
@@ -5874,20 +5903,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Saraph
 18:00
-1405/06/09
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏«عباس موسوی»، معاون تشریفات و سرپرست معاونت سیاسی دفتر مسعود پزشکیان، از تعیین شروط تازه آمریکا برای حضور هیات جمهوری اسلامی در مجمع عمومی سازمان ملل خبر داد و گفت: «تهران در حال بررسی اصل حضور و سطح هیات اعزامی به نیویورک است.» 
-‏
-‏موسوی امروز دوشنبه ۹شهریور۱۴۰۵ به خبرگزاری دولتی «ایرنا» گفت که آمریکا به‌عنوان میزبان مقر سازمان ملل «اخیرا شروطی گذاشته» که به گفته او «به هیچ وجه مسموع و قانونی نیست و بدعت‌گذاری جدیدی است.» او جزییات این شروط را اعلام نکرد.
-‏بخوانید: https://iranwire.com/fa/news-1/156972
-‏
-‏@Farsi_Iranwire
-17:58
 1405/06/09
 
 
