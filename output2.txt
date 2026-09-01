@@ -1,4 +1,64 @@
 src :@mwarmonitor
+[عکس]
+‏🔴یک ملوان نیروی دریایی آمریکا، برخاست یک بالگرد ترابری/چندمنظوره UH-1Y Venom را از عرشه پرواز ناو تهاجمی آبی‌خاکی USS Boxer (LHD-4) هدایت می‌کند؛ این ناو در حالی که در دریای عرب در حال حرکت است، در چارچوب اجرای محاصره دریایی آمریکا علیه ایران فعالیت می‌کند.
+‏
+‏🔴بر اساس این گزارش، تا ۱ سپتامبر، نیروهای آمریکایی برای اطمینان از رعایت مقررات محاصره:
+‏
+‏۸۴ کشتی تجاری را تغییر مسیر داده‌اند؛
+‏
+‏۳ کشتی را از کار انداخته‌اند؛
+‏
+‏و ۲ کشتی را سوار و بازرسی کرده‌اند.
+‏
+‏
+‏@mwarmonitor
+19:02
+1405/06/10
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇷🇺🇮🇷 Russian President Putin meets with Iranian President Pezeshkian.
+‏
+‏@BRICSNews
+19:01
+1405/06/10
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇷🇺❌🇺🇦 - Drones above Svyatoshyn District, Central Kyiv.
+‏
+‏@GeoPWatch
+19:00
+1405/06/10
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Yemeni sources announce the killing of ISIS spokesman Abu Hudhaifa al-Ansari in Yemen.
+18:59
+1405/06/10
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مصادر يمنية تعلن عن مقتل المتحدث باسم تنظيم د11عش أبو حذيفة الأنصاري في اليمن.
+18:59
+1405/06/10
+
+
+
+
+src :@mwarmonitor
 ‏🚨سازمان امداد و نجات دریایی بریتانیا UKMTO گزارشی از وقوع یک حادثه درگیری میان یک نفتکش و نیروهای نظامی در اقیانوس هند دریافت کرده است.  🔸به شناورها توصیه می‌شود آخرین اطلاعات امنیت دریایی را مد نظر قرار داده و نسبت به تغییرات محیط عملیاتی هوشیار باشند. مقامات…
 18:56
 1405/06/10
@@ -318,7 +378,7 @@ src :@IranintlTV
 
 
 src :@intelslava
-‏Rosatom forecasts a 14% rise in cargo traffic along Russia’s Northern Sea Route in 2026, after volumes exceeded 37 million tonnes for two straight years.
+‏🇷🇺🇨🇳⚡️ — Rosatom forecasts a 14% rise in cargo traffic along Russia’s Northern Sea Route in 2026, after volumes exceeded 37 million tonnes for two straight years.
 ‏
 ‏Chinese carriers are expanding Arctic shipping, with more than 30 voyages planned this year as trade between China and Russia grows.
 ‏
@@ -528,7 +588,7 @@ src :@Indypersian
 
 
 src :@intelslava
-‏The Russian people stand in solidarity with Iranians as they defend their interests
+‏🇷🇺🇮🇷⚡️ — The Russian people stand in solidarity with Iranians as they defend their interests
 ‏
 ‏- President Vladimir Putin
 ‏
@@ -623,9 +683,11 @@ src :@WAR_ROOM_NEWS
 
 
 src :@intelslava
-‏Iran is developing new air defense systems that have no known foreign equivalents, Commander of the Air Defense Forces Alireza Elhami has said.
+‏🇮🇷⚡️ — Iran is developing new air defense systems that have no known foreign equivalents, Commander of the Air Defense Forces Alireza Elhami has said.
 ‏
 ‏“New, completely domestically designed and engineered air defense systems are being developed and created. These projects are gradually entering operational service as weapons that have no known foreign analogues,” Tasnim news agency quoted him as saying.
+‏
+‏@IntelSlava
 18:18
 1405/06/10
 
@@ -854,17 +916,6 @@ src :@MilitarryWorld
 ‏ایرانی‌ها می‌خواهند با ما معامله کنند، اما مواضع آنها همیشه دیرهنگام است و از آنچه لازم است، فاصله دارد.
 ‏
 ‏@MilitarryWorld | Parsa
-18:04
-1405/06/10
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — CENTCOM says U.S. forces have redirected 84 commercial vessels, disabled 3, and boarded 2 to ensure compliance since the reinforcement of the blockade on Iranian ports.
-‏
-‏An increase of 1 redirected vessel since Saturday's update.
 18:04
 1405/06/10
 
@@ -4914,19 +4965,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌🇷🇺 - An airfield in Hvardiis'ke, Crimea, was struck by Ukrainian projectiles, sparking a fire that was picked up by NASA's FIRMS less than an hour ago. 
-‏
-‏The same airfield suffered a larger fire yesterday, also due to a Ukrainian attack.
-‏
-‏@GeoPWatch
-06:44
-1405/06/10
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️#SHOCKING Nearly 80 people rescued in Grand Canyon flooding, 2 others died and 1 is unaccounted for, officials say 
@@ -5748,19 +5786,6 @@ src :@mwarmonitor
 
 
 
-src :@mwarmonitor
-[عکس]
-‏⏺در ۲۸ روز گذشته، کشورهای عربی روزانه ۶.۹۲ میلیون بشکه نفت خام را از طریق خط محاصره دریایی نیروی دریایی آمریکا صادر کرده‌اند.
-‏
-‏⏺از این میزان، ۲.۵۳ میلیون بشکه در روز (Mbpd) از پایانه‌های نفتی واقع در دریای عمان بارگیری شده، در حالی که ۴.۳۹ میلیون بشکه در روز از تنگه هرمز عبور کرده است؛ عمده این نفت برای تأمین محموله نفتکش‌های دیگری بوده که در دریای عمان منتظر بوده‌اند. تانکر ترکر
-‏
-‏@mwarmonitor
-22:05
-1405/06/09
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏برای پوشش هرچه گسترده‌تر و حرفه‌ای‌تر انواع موضوعات جذاب در حوزه نظامی و هوانوردی ایران و جهان، مجموعه‌ای منحصربه‌فرد خلق کردیم.
@@ -5869,16 +5894,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏#خبر
 ‏
 ‏@RASTAKHIZ_PERSIAN
-21:43
-1405/06/09
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US considering new strikes in the Strait of Hormuz to weaken Iran's ability to attack ships.
-‏
-‏@BRICSNews
 21:43
 1405/06/09
 
