@@ -1,4 +1,46 @@
 src :@GeoPWatch
+‏🇷🇺❌🇺🇦💥 - Explosion reported in Kyiv.  @GeoPWatch
+19:10
+1405/06/10
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Bank of America vice president Erin Piacenti was killed Monday in a random stabbing in Times Square.
+‏
+‏Police said a woman armed with multiple knives stabbed two people before officers used a taser and then opened fire as she advanced toward them.
+19:10
+1405/06/10
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱🇺🇸⚡️ — Shin Bet chief David Zini traveled to Washington on Saturday for talks with FBI officials on several “sensitive issues,” according to Israel’s Channel 13.
+‏
+‏Neither Israeli nor U.S. authorities have confirmed the reported visit.
+19:09
+1405/06/10
+
+
+
+
+src :@rnintel
+‏🇮🇷🇴🇲⚡- On August 31, yesterday, only 5 vessels transited the Strait of Hormuz, a 50% decrease compared to 10 transits the previous day.
+‏
+‏Of the five vessels, two were ghost tankers and one was under US, UK, and EU sanctions, which indicates at least three of the five were very possibly Iranian ships. Four of the five vessels entered the Gulf, while only one existed to the Arabian Sea.
+‏
+‏Note, this does not indicate a low supply of Gulf oil to the global market. The US is currently leading an operation to export oil and gas from the Strait of Hormuz, which requires smaller, but faster vessels passing through the Hormuz via Omani waters under US military protection, then transferring its medium to a larger tanker. Dozens of ship-to-ship transfers occur daily in the Arabian Sea. The use of smaller and faster ships makes it difficult for Iran to detect and disable them.
+19:07
+1405/06/10
+
+
+
+
+src :@GeoPWatch
 [عکس]
 ‏🇷🇺❌🇺🇦💥 - Explosion reported in Kyiv.
 ‏
@@ -11,9 +53,9 @@ src :@GeoPWatch
 
 src :@wfwitness
 [عکس]
-‏⚡🇮🇱🇺🇸 Israel's Shin Bet chief David Zini reportedly made an unannounced trip to Washington to meet FBI officials, according to Israeli broadcaster Channel 13, which cited unnamed sources describing the talks as covering "sensitive issues." 
+‏⚡🇮🇱🇺🇸 N13: Israel's Shin Bet chief Zini reportedly made an unannounced trip to Washington to meet FBI officials to discuss "sensitive issues." 
 ‏
-‏Neither government has confirmed the visit, which comes amid heightened regional tensions and reported security concerns involving the family of Israeli Prime Minister Benjamin Netanyahu.
+‏Neither government has confirmed the visit, which comes amid heightened regional tensions and reported security concerns involving the family of Israeli Prime Minister Netanyahu.
 ‏
 ‏@wfwitness
 ‏
@@ -722,6 +764,9 @@ src :@rnintel
 
 src :@WAR_ROOM_NEWS
 ‏سنتکام اعلام کرد که در جریان محاصره دریایی ایران مسیر ۸۴ کشتی تجاری را تغییر داده، سه فروند را غیرفعال کرده و دو فروند را بازرسی کرده است
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
 18:20
 1405/06/10
 
@@ -3497,14 +3542,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@rnintel
-‏🇫🇷🇸🇪⚡️- Sweden has bought four French frigates from Naval Group for €4.3B. The first frigate will be delivered in 2030.
-13:49
-1405/06/10
-
-
-
-
 src :@naya_foriraq
 ‏انفجارات تهز ادلب السورية
 13:46
@@ -4960,18 +4997,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌🇸🇾 – Up to 10 Israeli military vehicles, escorted by aircraft, pushed deeper into Syria's Dara'a province today, according to al-Jazeera.
-‏
-‏The column was seen advancing towards the village of Jumla.
-‏
-‏@GeoPWatch
-07:15
-1405/06/10
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴مرکز عملیات تجارت دریایی بریتانیا گزارش داد، ۳ پرتابه ناشناس به یک نفت‌کش برخورد کرد.
@@ -6219,47 +6244,4 @@ src :@Americana_ir
 [عکس]
 ‏🔻مراکز داده برای جبران برق از دست رفته باید نیروگاه‌ برق احداث کنند  👤 جی‌دی ونس، معاون رئیس‌جمهور آمریکا:  "شما باید برق را به شبکه سراسری بازگردانید، نه اینکه از آن برداشت کنید. اگر چنین اتفاقی بیفتد، مراکز داده چندان موضوع مناقشه‌برانگیزی نخواهند بود. …
 19:17
-1405/06/09
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 IRGC Brigadier General Mohammad Reza Naqdi:
-‏
-‏‘We expected to achieve victory against the United States, because God is with us and we are confident in his promise and support.
-‏
-‏But honestly, we did not think it would be this easy.’
-‏
-‏@Middle_East_Spectator
-19:09
-1405/06/09
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 IRGC Brigadier General Mohammad Reza Naqdi:
-‏
-‏‘Our assessment of the capabilities of the U.S. armed forces was greater than what turned out to be the case. They greatly exaggerated their capabilities. 
-‏
-‏The image we had of the United States has now collapsed, and it has become clear that the aircraft carriers and fighter jets turned out not to be that important.’
-‏
-‏@Middle_East_Spectator
-19:09
-1405/06/09
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 IRGC Brigadier General Mohammad Reza Naqdi:
-‏
-‏‘More than 90% of our ballistic missiles are still there.
-‏
-‏We are currently producing at a rate far exceeding our consumption on the front lines. Our stockpile is increasing.’
-‏
-‏@Middle_East_Spectator
-19:07
 1405/06/09
