@@ -1,3 +1,31 @@
+src :@OSINTWarfare
+[عکس]
+‏A possible U.S. LUCAS one-way attack drone struck a communications tower in the city of Sirik, causing it to collapse.
+02:10
+1405/06/11
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏وزارت دفاع کویت اعلام کرد در حال مقابله با پهپاد‌های ایرانی است.
+‏
+‏@P_raetorio
+02:09
+1405/06/11
+
+
+
+
+src :@naya_foriraq
+‏🔻توقف العمليات الجوية في مطار البحرين الدولي.
+02:07
+1405/06/11
+
+
+
+
 src :@MilitarryWorld
 ‏🔴سنتکام: حملات امشب ما به ایران تموم شد
 ‏
@@ -20,7 +48,7 @@ src :@Mena_Live
 
 src :@Ali_bk_2
 [عکس]
-‏U.S. Central Command announces the end of attacks on Iran today.
+‏U.S. Central Command announces the end of attacks on Iran for today.
 02:06
 1405/06/11
 
@@ -29,7 +57,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏القيادة المركزيةالأمريكية تعلن انتهاء الهجمات على إيران هذا اليوم.
+‏القيادة المركزية الأميركية تعلن انتهاء الهجمات على إيران لهذا اليوم
 02:06
 1405/06/11
 
@@ -110,21 +138,6 @@ src :@GeoPWatch
 src :@Middle_East_Spectator
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — Reporter: Iran is right now threatening fresh attacks against the U.S. bases.  Treasury Secretary Bessent: They are not threatening; they are doing it.
-02:04
-1405/06/11
-
-
-
-
-src :@naya_foriraq
-‏الجيش الأمريكي: 
-‏الولايات المتحدة الأمريكية أكملت قوات القيادة المركزية (CENTCOM) بنجاح موجة من الضربات ضد أهداف عسكرية إيرانية في 1 سبتمبر.
-‏
-‏ضربت القوات الأمريكية أهداف الحرس الثوري الإسلامي بما في ذلك مواقع الدفاع الجوي وأنظمة الرادار والأصول والمرافق البحرية وقدرات زرع الألغام ومواقع الاتصالات.
-‏
-‏تأتي الضربات بعد محاولات الهجمات الأخيرة التي شنها الحرس الثوري الإيراني ضد الشحن التجاري في مضيق هرمز وضد أفراد الخدمة الأمريكية.
-‏
-‏يعمل أكثر من 50000 من أفراد الخدمة الأمريكية حاليا في جميع أنحاء الشرق الأوسط ولا يزالون يقظين ومميتين ومستعدين لمواصلة تنفيذ العمليات التي يديرها القائد العام.
 02:04
 1405/06/11
 
@@ -832,14 +845,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏انفجارات جديدة في الكويت
-01:37
-1405/06/11
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -1301,16 +1306,6 @@ src :@ClashReport
 [عکس]
 ‏NEW: Apple Maps is now rolling out “Lake America” in place of Lake Ontario for U.S. users, after Trump signed an executive order and contacted Apple directly.
 00:59
-1405/06/11
-
-
-
-
-src :@ClashReport
-‏No U.S. casualties from Iranian attack on facilities in Jordan so far, two U.S. officials say.
-‏
-‏Source: Reuters
-00:58
 1405/06/11
 
 
@@ -3423,14 +3418,6 @@ src :@Artemis_Force
 
 
 
-src :@P_raetorio
-‏شلیک موشک بالستیک از یزد گزارش می شود   @Minas_Tirith2024
-23:11
-1405/06/10
-
-
-
-
 src :@samueltarikh
 ‏شلیک موشک از یزد
 23:11
@@ -4764,16 +4751,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors
 21:56
-1405/06/10
-
-
-
-
-src :@cataphract1
-‏⚜خبرگزاری فارس اعلام کرد که موشک  و پهپاد به سمت مواضع ایالات متحده شلیک شده است.
-‏✒️#LT
-‏📃@Cataphract1
-21:55
 1405/06/10
 
 
