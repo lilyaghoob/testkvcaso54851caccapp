@@ -1,3 +1,16 @@
+src :@OSINTWarfare
+[عکس]
+‏Russia has begun mass production of the Volna Kupol Garant electronic warfare (EW) system, designed to disrupt Starlink satellite communications.
+‏
+‏Russian enterprises are procuring components to produce several hundred more systems, reportedly 300–400 units. Each system is said to cover an area of 15–25 sq. km.
+‏
+‏Russia is expected to use these systems to protect key facilities in Ukrainian territories under Russian control from Ukrainian UAVs.
+02:04
+1405/06/12
+
+
+
+
 src :@warmonitors
 [عکس]
 ‏⚡️#BREAKING A shooting in downtown Minneapolis has multiple victims, including 2 police officers, authorities say 
@@ -1602,16 +1615,6 @@ src :@jangaavaran1390
 ‏
 ‏گزارش همچنین یادآوری می‌کند که ایران در سال ۲۰۲۳ پیشنهاد انتقال پهپاد پدافندی ۳۵۸ به روسیه را مطرح کرده بود، اما مسکو در آن زمان ظاهراً علاقه چندانی نشان نداد.
 23:24
-1405/06/11
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏سنتکام، فرماندهی مرکزی ایالات متحده، با تاکید بر اینکه نیروی دریایی ارتش آمریکا محاصره دریایی ایران را سختگیرانه اجرا می‌کند، اعلام کرد که از ابتدای محاصره دریایی ایران تاکنون ۸۶ کشتی تجاری مجبور به تغییر مسیر شده‌اند، سه کشتی از کار افتاده‌اند و دو کشتی مورد بازرسی قرار گرفته‌اند.
-‏https://iranintl.com/202609022141
-23:21
 1405/06/11
 
 
@@ -6540,14 +6543,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 02:18
-1405/06/11
-
-
-
-
-src :@Mena_Live
-‏Deputy Governor of Hasakah announces the permanent deployment of Syrian Internal Security on the outskirts of the city of Qamishli.
-‏
-‏@Mena_Live
-02:06
 1405/06/11
