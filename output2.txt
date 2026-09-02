@@ -1,3 +1,30 @@
+src :@mwarmonitor
+‏🚨شنیده شدن صدای انفجار در کرمانشاه
+10:47
+1405/06/11
+
+
+
+
+src :@mwarmonitor
+‏❌صدای انفجاری در جزیره لاوان، شنیده شد.  @mwarmonitor
+10:46
+1405/06/11
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Sirens sounded overnight in several border communities in northern Israel due to a supposed drone that crossed from Lebanon into Israeli territory.
+‏
+‏A preliminary investigation later indicated that several interceptor missiles were likely launched towards a false target.
+10:45
+1405/06/11
+
+
+
+
 src :@defence_news
 ‏شهادت ۴ نفر از رزمندگان هوافضا در کرمانشاه
 ‏
@@ -550,28 +577,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@defence_news
-[عکس]
-‏🔶 اولین Lynx XM30 تحویل ارتش آمریکا شد؛ آغاز آزمون رقیب اروپایی برای جایگزینی Bradley
-‏
-‏🔹 شرکت American Rheinmetall در ۱ سپتامبر ۲۰۲۶ نخستین نمونه از ۸ نمونه آزمایشی Lynx XM30 را به ارتش آمریکا تحویل داد . XM30 یکی از دو نامزد اصلی برنامه جایگزینی M2 Bradley است و قرار است در برابر تهدیدات نسل جدید، از جمله پهپادها، سلاح‌های دقیق و جنگ شبکه‌محور، آزمایش شود. 
-‏
-‏🔹 نقطه قوت اصلی Lynx، معماری ماژولار و باز آن است که امکان اضافه‌کردن حسگرهای جدید، سامانه‌های حفاظت فعال، تجهیزات پردازشی و دیگر تجهیزات پرمصرف را در طول عمر خودرو فراهم می‌کند. پیشرانه هیبریدی-الکتریکی نیز علاوه بر حرکت خودرو، ظرفیت تولید برق بیشتری برای سامانه‌های آینده فراهم می‌کند. 
-‏
-‏🔹  مرحله فعلی فقط نمایش یک نمونه اولیه نیست؛ ارتش آمریکا اکنون باید مشخص کند آیا Lynx واقعاً می‌تواند تحرک، حفاظت، قدرت آتش و ظرفیت ارتقای فناوری موردنیاز نسل بعدی نیروهای مکانیزه را فراهم کند یا خیر. تصمیم مهم بعدی برای انتخاب برنده این رقابت برای سال ۲۰۲۷ برنامه‌ریزی شده است. 
-‏
-‏#Rheinmetall
-‏#Lynx
-‏#XM30
-‏#Bradley
-‏
-‏@RASTAKHIZ_PERSIAN
-10:04
-1405/06/11
-
-
-
-
 src :@tabzlive
 ‏🇺🇸🇮🇷⚡️ — U.S. Central Command spokesman Captain Tim Hawkins directly lied to Axios' Barak Ravid regarding the origins of reporting on the U.S. strike against a wedding ceremony in Kuhestak.  He claimed that the reports originated from Iranian state media,…
 10:04
@@ -616,14 +621,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 10:02
-1405/06/11
-
-
-
-
-src :@defence_news
-‏تصاویر محل عروسی در بندر کوهستک شهرستان سیریک که هدف حمله آمریکا قرار گرفت  در پی این حمله تاکنون ۲ نفر به شهادت رسیده و ۵۰ نفر نیز مصدوم شده‌اند  🇮🇷📝 @defence_news 📝🇮🇷
-10:01
 1405/06/11
 
 
@@ -2676,14 +2673,6 @@ src :@rus_cosmos
 ‏
 ‏آن‌ها فقط دارند روندی را طی می‌کنند که اجتناب‌ناپذیر است. مردم ایران چه زمانی قرار است قیام کنند و مبارزه کنند؟
 05:10
-1405/06/11
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Israeli Air Force fighter jets continue to maneuver in southern Lebanon, flying westwards.
-05:09
 1405/06/11
 
 
@@ -4876,24 +4865,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@mwarmonitor
-‏🚨حمله انتحاری در مشهد
-23:55
-1405/06/10
-
-
-
-
-src :@mwarmonitor
-‏🔴پوتین دستور داد تا وزارت دفاع روسیه حملات گسترده‌ای را علیه زیرساخت‌های انرژی در اوکراین انجام دهد.
-‏
-‏@mwarmonitor
-23:52
-1405/06/10
-
-
-
-
 src :@cataphract1
 ‏L33TNET VPN Services  لیت‌نِت | اتصالاتِ امن، پایدار و پرسرعت  ——— ——— ———  - سرویس‌های ۹۰ روزه   • 50 گیگ · 340,000   • 75 گیگ · 490,000   • 115 گیگ · 750,000   • 150 گیگ · 975,000   • 225 گیگ · 1,470,000   • 500 گیگ · 3,250,000  - سرویس‌های ۳۰ روزه   • 20…
 23:52
@@ -5343,16 +5314,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Minas_Tirith2024
-‏به گزارش استانداری خوزستان، نقطه ای در حومه شهر اهواز نیز هدف حمله قرار گرفته است 
-‏
-‏@Minas_Tirith2024
-23:08
-1405/06/10
-
-
-
-
 src :@Artemis_Force
 ‏حمله موشکی از کرمانشاه 
 ‏
@@ -5368,16 +5329,6 @@ src :@tglobaleye
 ‏#BREAKING | 🇯🇴 🇮🇷 — Jordanian air defenses intercept multiple Iranian ballistic missiles.
 ‏
 ‏The Global Eye | Subscribe ✈️
-23:07
-1405/06/10
-
-
-
-
-src :@Minas_Tirith2024
-‏پایگاه شاهزاده حسن اردن نیز مجددا هدف حمله قرار گرفته است 
-‏
-‏@Minas_Tirith2024
 23:07
 1405/06/10
 
@@ -5429,30 +5380,10 @@ src :@selena_updates
 
 
 
-src :@Minas_Tirith2024
-‏گفته میشود موفق سلطی اردن هدف حملات موشکی نیروهای مسلح ایران قرار دارد
-‏
-‏@RedLionCorps
-23:03
-1405/06/10
-
-
-
-
 src :@guard_warriors
 ‏فعلا گزارشی از اصابت یا فعال شدن آژیر ندیدیم
 ‏
 ‏@Guard_Warriors
-23:02
-1405/06/10
-
-
-
-
-src :@Minas_Tirith2024
-‏معاون سیاسی و امنیتی استان هرمزگان: در حمله به یک مراسم عروسی در سیریک دو نفر شهید و تعدادی از افراد نیز مجروح شدند
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
 23:02
 1405/06/10
 
