@@ -1,3 +1,26 @@
+src :@rnintel
+‏🇺🇸⚡️- The jury in the Lindsay Clancy trial has informed the judge it has not been able to reach a unanimous verdict, again.
+22:51
+1405/06/11
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️روزنامه «لو پاریزین» روز چهارشنبه ۱۱ شهریور گزارش داد کیلیان امباپه، ستاره رئال مادرید، یکی از ۲۶ نفری بوده که یک گروه تبهکار در فرانسه برای ربودن یا حمله به آن‌ها برنامه‌ریزی کرده است.
+‏
+‏بر اساس این گزارش، هدایت این گروه به یک جوان ۱۸ ساله فرانسوی-سوئیسی نسبت داده شده که با نام مستعار «لیستر زد» فعالیت می‌کرد. فهرست اهداف این گروه شامل بازیکنان فوتبال، خوانندگان رپ و صاحبان کسب‌وکارهای ثروتمند بوده است.
+‏
+‏این جوان پس از حمله و سرقت از یک ساعت‌فروش در ماه آوریل شناسایی شد. تحقیقات نشان می‌دهد او حتی پس از زندانی شدن نیز فعالیت‌های خود را متوقف نکرده و از داخل زندان با استفاده از اسنپ‌چت به هدایت فعالیت‌های مجرمانه ادامه داده است.
+‏
+‏@indypersian
+22:50
+1405/06/11
+
+
+
+
 src :@MilitarryWorld
 ‏🔴 وزارت خارجه آمریکا با لحنی تند پیشنهاد حکومت طالبان برای سرمایه‌گذاری ایالات متحده در بخش معادن افغانستان را رد کرد.
 ‏
@@ -38,7 +61,7 @@ src :@wfwitness
 
 
 src :@rnintel
-‏🇷🇺🇲🇱⚡️- Russia has seemingly increased its military support to the Malian junta in August. At least three back-and-forth flights between Moscow and Bamako have been registered on public flight trackers. The plane used for those trips, an Ilyushin Il-76TD, belongs to Ministry for Emergency Situations and very likely doesn't only contain humanitarian supplies. Earlier this year in February, Russia sent undeclared military supplies alongside humanitarian cargo to Madagascar.
+‏🇷🇺🇲🇱⚡️- Russia has seemingly increased its military support to the Malian junta in August. At least three back-and-forth flights between Moscow and Bamako have been registered on public flight trackers. The plane used for those trips, an Ilyushin Il-76TD, belongs to the Ministry for Emergency Situations and very likely doesn't only contain humanitarian supplies. Earlier this year in February, Russia sent undeclared military supplies alongside humanitarian cargo to Madagascar.
 ‏
 ‏The current third return flight, SUM76362, has re-entered Russian airspace a few hours ago.
 22:43
@@ -1443,14 +1466,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli detonation targets the town of Houla, southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-20:39
-1405/06/11
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏نتانیاهو:ما می‌توانیم در هر لحظه‌ای به ایران حمله کنیم
 ‏
@@ -2491,21 +2506,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 19:13
-1405/06/11
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، چهارشنبه ۱۱ شهریورماه، با انتشار پیامی در تروث سوشال پیشنهاد کرد نام «تنگه هرمز» به «تنگه ترامپ» تغییر کند و گفت این آبراه اکنون تحت کنترل ایالات متحده قرار دارد.
-‏
-‏ترامپ نوشت: «حالا که آن را تحت کنترل ایالات متحده آمریکا درآورده‌ایم، آیا باید نام تنگه هرمز را به تنگه ترامپ تغییر دهیم؟»
-‏
-‏رئیس‌جمهوری آمریکا در ادامه افزود: «مانند خود آمریکا، این تنگه نیز جذاب‌تر از همیشه خواهد بود!»
-‏ 
-‏@indypersian
-19:08
 1405/06/11
 
 
@@ -5912,14 +5912,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇮🇷🇧🇭⚡️- Explosion heard in Bahrain, locals tell Rerum Novarum.
-04:53
-1405/06/11
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پست ترامپ، ترجمه ماشین:
@@ -6396,15 +6388,4 @@ src :@Exciton_missile_program
 ‏
 ‏🆔@Military_Times_Blog
 22:54
-1405/06/10
-
-
-
-
-src :@DEJradio
-‏🚨⭕️ سپاه پاسداران با انتشار اطلاعیه‌ای،از آغاز حملات تلافی‌جویانه خود در پاسخ به حملات امشب ایالات متحده به مواضع نظامی جمهوری اسلامی خبر داد. این سازمان تروریستی مدعی شد پنجاهمین پهپاد ام‌کیو-۹ را هدف قرار داده است.
-‏
-‏#جنگ #تنگه_هرمز
-‏@DEJradio
-22:51
 1405/06/10
