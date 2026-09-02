@@ -1,3 +1,89 @@
+src :@Artemis_Force
+[عکس]
+‏صبح همگی بخیر
+‏
+‏روزی روزگاری 
+‏
+‏@artemis_force
+09:32
+1405/06/11
+
+
+
+
+src :@mwarmonitor
+‏🚨 آتش‌نشانی کویت: آتش‌سوزی که پس از هدف قرار گرفتن یک مجتمع مسکونی در یکی از مناطق پایتخت کویت با یک پهپاد ایرانی رخ داده بود، تحت کنترل درآمد.
+‏
+‏@mwarmonitor
+09:31
+1405/06/11
+
+
+
+
+src :@GeoPWatch
+‏🇮🇱🇱🇧💥 – The IDF said interceptor launches earlier were directed at a false target, suggesting the alarms that sounded in northern Israel were also a false alarm.
+‏
+‏That would explain why there were no reports of shoot-downs or explosions.
+‏
+‏The IDF posted this statement:
+‏Following the sirens that sounded overnight (Wednesday), regarding a hostile aircraft infiltration in several areas in northern Israel, an initial assessment indicates that several interceptors were likely launched toward a false target.
+‏
+‏@GeoPWatch
+09:30
+1405/06/11
+
+
+
+
+src :@Ali_bk_2
+‏Kuwait Fire Force:
+‏
+‏A fire that broke out in a residential complex after it was targeted by an Iranian drone has been brought under control.
+09:29
+1405/06/11
+
+
+
+
+src :@naya_foriraq
+‏انفجارات جديدة تهز الكويت
+09:29
+1405/06/11
+
+
+
+
+src :@Alibk3
+‏الإطفاء الكويتي: 
+‏
+‏السيطرة على حريق اندلع في مجمع سكني بعد استهدافه بمسيرة إيرانية.
+09:29
+1405/06/11
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Kuwait and Bahrain came under Iranian drone and missile attacks overnight, with air-raid sirens activated in both Gulf states.
+09:28
+1405/06/11
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏دونالد ترامپ:
+‏
+‏آن‌طور که شبکه فیک‌نیوز ABC گزارش داده، من تلاش نمی‌کنم ایران را پای میز مذاکره بکشانم. اصلاً برایم مهم نیست که توافقی امضا کنند که برای خودشان بی‌ارزش است. من موقعیت فعلی‌مان را بسیار بیشتر دوست دارم؛ با کنترل تقریباً کامل بر تنگه هرمز و اقتصاد آن‌ها که کاملاً در حال فروپاشی است. آن‌ها فقط دارند روندِ اجتناب‌ناپذیر را کش می‌دهند. مردم ایران چه زمانی می‌خواهند بپا خیزند و مبارزه کنند؟
+09:27
+1405/06/11
+
+
+
+
 src :@MilitarryWorld
 ‏🔴دولت جدید و محافظه‌کار پرو، از کشورهای نفتی آمریکای لاتین، اعلام کرد با توجه به محدودشدن تنگه هرمز از سوی ایران و اختلال در تجارت بین‌المللی و افزایش قیمت انرژی و افزایش تشدید تنش‌ها درخاورمیانه از سوی ایران، روابط دیپلماتیکش با ایران را قطع  می‌کند.
 ‏
@@ -2149,14 +2235,6 @@ src :@Alibk3
 
 
 
-src :@naya_foriraq
-‏🇮🇱صافرات الانذار تدوي في شمال فلسطين المحتلة خشية إختراق طيران مسير قادم من لبنان.
-04:54
-1405/06/11
-
-
-
-
 src :@rnintel
 ‏🇮🇷🇧🇭⚡️- Explosion heard in Bahrain, locals tell Rerum Novarum.
 04:53
@@ -2700,17 +2778,6 @@ src :@Ali_bk_2
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦💥 - Renewed explosions in Odesa. Power outages reported, a new wave of Banderol Cruise Missiles are approaching the city.
-‏
-‏@GeoPWatch
-03:37
-1405/06/11
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇷🇺🇮🇷 Russian President Putin pledges support for Iran.
 ‏
@@ -2743,24 +2810,6 @@ src :@Alibk3
 [عکس]
 ‏النيران تشتعل بالقاعدة الأميركية في مطار أربيل
 03:31
-1405/06/11
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Erbil Airport is burning after IRGC strikes
-03:29
-1405/06/11
-
-
-
-
-src :@Alibk3
-[عکس]
-‏مطار أربيل يحترق بضربات الحرس الثوري
-03:29
 1405/06/11
 
 
@@ -4601,28 +4650,6 @@ src :@mwarmonitor
 
 
 
-src :@P_raetorio
-‏«اصابت پرتابه دشمن به یک محوطه نظامی در میان جم و عسولیه خسارت جانی نداشت»
-‏
-‏-فرماندار عسلویه
-‏
-‏ @P_raetorio
-23:50
-1405/06/10
-
-
-
-
-src :@mwarmonitor
-‏🚨 تلویزیون رسمی اردن: به صدا درآمدن آژیرهای هشدار در سراسر کشور.
-‏
-‏@mwarmonitor
-23:48
-1405/06/10
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [ویدئو]
 ‏🔶 ترامپ :
@@ -5467,14 +5494,6 @@ src :@didarnews1
 
 
 
-src :@Artemis_Force
-‏حمله به منطقه ای غیرنظامی در کوهستک  استانداری هرمزگان از حمله آمریکایی ها به یک منطقه‌ مسکونی در کوهستک در شرق هرمزگان خبر داد  برق و آنتن تلفن همراه در محدوده شهرستان کوهستک (هرمزگان) قطع شد؛  بر اساس آخرین گزارش‌ها پیش از قطع برق، برخی از مردم زیر آوار…
-22:50
-1405/06/10
-
-
-
-
 src :@BellumActaNews
 ‏🇺🇸🇮🇶☀️🇮🇷 — Explosions in Erbil, Iraqi Kurdistan.
 ‏
@@ -5935,19 +5954,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 21:27
-1405/06/10
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Water-supply disruptions and reduced pressure were reported across Be’er Sheva in southern Israel today as unusually severe seawater turbidity forced most of Israel’s major desalination plants to suspend operations.
-‏
-‏Residents in several areas, including Neve Ze’ev, the Old City and neighborhoods Aleph, Bet, Gimel, Heh and Tet, were warned of possible intermittent outages, while the municipality suspended irrigation of public gardens and operation of fountains and urged residents to limit non-essential water use.
-‏
-‏Israel’s Water Authority said the exceptional turbidity - possibly linked to microscopic algae carried from the Nile region - had forced five of the country’s six major desalination facilities offline, with authorities drawing on reservoirs, groundwater and other sources to maintain household supplies while the plants remain affected.
-21:26
 1405/06/10
 
 
