@@ -1,3 +1,70 @@
+src :@ClashReport
+‏German investigators have identified suspects in the attempted drone attack at Leipzig/Halle Airport. 
+‏
+‏The government says they were acting on behalf of Russian state agencies.
+‏
+‏One suspect is a Belarusian with a Russian passport whose DNA was found at the scene. 
+‏
+‏A second man, with Latvian and Russian passports, is suspected of helping organize the attack.
+15:56
+1405/06/11
+
+
+
+
+src :@defence_news
+[عکس]
+‏ایالات متحده آمریکا به دنبال FFG X!
+‏
+‏ایالات متحده آمریکا، پس از خریداری و سفارش FFX ( فریگیت کلاس لجند)، حال به دنبال FFG X رفته است،اما با یک تفاوت با FFX،چرا که این فریگیت نیز همانند فریگیت قبلی ( پروژه کانستلیشن)، یک نمونه خارجی هست و از قضا قرار است مشترک ساخته شود ( حتی در صنایع خارجی) 
+‏
+‏طی ساعات گذشته،کاخ سفید و نیروی دریایی ایالات متحده در حال بررسی امکان استفاده از طرح‌های خارجی به عنوان مبنا برای ساخت یک کلاس جدید از ناوهای محافظ هستند
+‏
+‏در فهرست ارائه شده گزینه‌های مورد بررسی، موارد زیر قرار دارند:
+‏
+‏نسخه صادراتی فریگیت کلاس موگامی ژاپن 
+‏
+‏فریگیت کره‌ای کلاس چوننام کرهٔ جنوبی 
+‏
+‏ناو ترکیه‌ای کلاس استانبول
+‏
+‏بحث در اینجا فقط در مورد خرید ناوهای آماده نیست,یک طرح در حال بررسی است که به عنوان مدل فنلاندیشناخته می‌شود
+‏
+‏به احتمال زیاد، دو ناو اول از این ناوها در کارخانه کشتی‌سازی خارجی ( کشور مادر) ساخته خواهند شد. پس از آن، شریک خارجی باید در زیرساخت‌ها و توانمندی‌های صنایع کشتی‌سازی آمریکا در داخل کشور سرمایه‌گذاری کند
+‏
+‏پ ن : البته ایالات متحده آمریکا، طرح های داخلی FFG X را هم در نظر گرفته 
+‏
+‏@artemis_force
+15:55
+1405/06/11
+
+
+
+
+src :@GeoPWatch
+‏🇷🇺❌🇺🇦🔴 - Air Raid Alert Kyiv.
+‏
+‏@GeoPWatch
+15:53
+1405/06/11
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، چهارشنبه ۱۱ شهریورماه در واکنش به حملات آمریکا به مناطق جنوبی ایران، در شبکه اجتماعی ایکس، آمریکا را تهدید کرد و گفت راهبرد جدید تهران در میدان جنگ، دیپلماسی و مقابله با محاصره اقتصادی، بنیان این کشور را «در هم خواهد شکست».
+‏
+‏رضایی خطاب به آمریکا نوشت: «با این دست و پا زدن‌ها، نه تنها از قعر جهنمی که برای خود ساخته‌اید بیرون نخواهید آمد، بلکه به زودی خواهید دید راهبرد جدید ایران در میدان جنگ، دیپلماسی و مقابله با محاصره اقتصادی، بنیان‌تان را درهم خواهد شکست.»
+‏
+‏ 
+‏@indypersian
+15:52
+1405/06/11
+
+
+
+
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی اخبار نیم‌روزی | چهارشنبه ۱۱ شهریور
@@ -1949,21 +2016,6 @@ src :@defence_news
 
 
 
-src :@ClashReport
-[عکس]
-‏Turkish President Erdogan on Syria:
-‏
-‏We are the ones who most want Syria to remain united and whole, with all of its components. This is important for sustainable development and capacity-building in Syria.
-‏
-‏On the dissolution of the SDF, I believe it will open the door to a new era for the entire region. 
-‏
-‏The chapter of terrorism must now be closed, and the era of weapons and violence must come to an end.
-13:41
-1405/06/11
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇹🇷🇺🇸⚡️ — Turkish President Erdoğan:
@@ -2010,19 +2062,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏Turkish President Erdogan on the Mecca Alliance:
-‏
-‏This alliance was established to ensure stability and security in our region. 
-‏
-‏We will continue on our path together with our brothers, growing stronger.
-13:38
-1405/06/11
-
-
-
-
 src :@tabzlive
 ‏🇨🇳🇺🇸🇮🇷⚡️ — China was the only G20 member to block consensus at the Finance Ministers’ meeting in North Carolina, opposing language supporting free navigation through the Strait of Hormuz.
 ‏
@@ -2035,19 +2074,6 @@ src :@tabzlive
 
 src :@naya_foriraq
 ‏🇹🇷أردوغان: يجب ألا يُفسر موقف تركيا بشأن العضوية في منظمة شنغهاي للتعاون على أنه تحول عن الغرب. هدفنا هو زيادة نفوذنا.
-13:36
-1405/06/11
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Turkish President Erdogan on Türkiye’s F-35s:
-‏
-‏We are continuing talks on Türkiye’s re-entry into the program.
-‏
-‏Once the processes in the United States are completed, the issue will be behind us.
 13:36
 1405/06/11
 
@@ -5263,16 +5289,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷🚢 – The U.S. struck two Iranian oil tankers owned by the government under a new "tanker for tanker" policy, according to Axios' Barak Ravid.
-‏
-‏@GeoPWatch
-03:58
-1405/06/11
-
-
-
-
 src :@rnintel
 ‏🇺🇸⚡️- BREAKING: Utah District Judge Tony Graf ruled that Tyler Robinson will face trial for the murder of Charlie Kirk.  The judge is also allowing prosecutors to seek the death penalty.
 03:52
@@ -6161,19 +6177,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 23:20
-1405/06/10
-
-
-
-
-src :@BellumActaNews
-[ویدئو]
-‏🇮🇷🚀 — IRGC ballistic missile launch from Bidganeh, Tehran Province
-‏➖➖➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖➖➖
-‏@BellumActaNews
-23:17
 1405/06/10
 
 
