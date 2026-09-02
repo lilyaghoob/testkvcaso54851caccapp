@@ -30,6 +30,7 @@ src :@GeoPWatch
 
 
 src :@Ali_bk_2
+[عکس]
 ‏US officials:  The US military struck two Iranian government tankers as part of the recent round of strikes.
 04:09
 1405/06/11
@@ -69,6 +70,7 @@ src :@wfwitness
 
 
 src :@Alibk3
+[عکس]
 ‏مسؤولين أميركيين:   الجيش الأميركي هاجم ناقلتين تابعتين للحكومة الإيرانية في إطار جولة الضربات الأخيرة.
 04:07
 1405/06/11
@@ -153,6 +155,10 @@ src :@wfwitness
 ‏⚡️🇺🇸🇮🇷Axios: The U.S. attacked two Iranian government tankers during Tuesday’s wave of strikes as part of what a U.S. official described as a tanker-for-tanker policy. 
 ‏
 ‏The Iranian tankers were anchored off Iran’s coast north of the US naval blockade line when US drones struck their engine rooms. 
+‏
+‏CENTCOM Spokesman Captain Hawkins also commented on the reports that U.S. strikes killed two people at a wedding: 
+‏
+‏“We're aware of the reports, which originated from Iranian state media. The U.S. military never targets civilians, unlike the IRGC."
 ‏
 ‏@wfwitness
 ‏
