@@ -1,3 +1,80 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇧🇭🇺🇸 - Sirens in Bahrain!
+‏
+‏@GeoPWatch
+04:31
+1405/06/11
+
+
+
+
+src :@intelslava
+‏🇮🇷❌🇧🇭🇺🇸 — Reports of explosions in Bahrain.
+‏
+‏@IntelSlava
+04:31
+1405/06/11
+
+
+
+
+src :@wfwitness
+‏Reports of renewed explosions in Bahrain
+04:31
+1405/06/11
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸🇧🇭 — Sirens in Bahrain.
+04:30
+1405/06/11
+
+
+
+
+src :@naya_foriraq
+‏انفجارات جديدة تهز البحرين
+04:30
+1405/06/11
+
+
+
+
+src :@Ali_bk_2
+‏Bahrain
+04:30
+1405/06/11
+
+
+
+
+src :@Ali_bk_2
+‏Bahrain
+04:29
+1405/06/11
+
+
+
+
+src :@Alibk3
+‏البحرين
+04:29
+1405/06/11
+
+
+
+
+src :@Alibk3
+‏البحرين
+04:29
+1405/06/11
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — U.S. Central Command (CENTCOM) says its forces have successfully completed a new wave of strikes against Iranian military targets.  The strikes targeted IRGC assets, including air defense systems, radar installations, maritime assets and facilities…
@@ -756,14 +833,6 @@ src :@wfwitness
 
 
 
-src :@naya_foriraq
-‏استمرار الإنفجارات في أربيل شمالي العراق وسط هجمات واسعة بالطائرات المسيرة الإنتحارية.
-03:06
-1405/06/11
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Egypt may be preparing to buy 24 additional Rafale fighter jets from Dassault Aviation, according to La Tribune. Cairo has reportedly sent France a formal request for proposal, though Dassault declined to comment.
@@ -773,14 +842,6 @@ src :@ClashReport
 ‏A new deal would increase its fleet to 78 aircraft.
 ‏
 ‏Source: La Tribune
-03:05
-1405/06/11
-
-
-
-
-src :@naya_foriraq
-‏دوي 4 انفجارات في البحرين
 03:05
 1405/06/11
 
@@ -1009,17 +1070,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇻🇪AP: Chevron is expected to announce expanded operations in Venezuela, as U.S. Energy Secretary Wright and other oil executives are expected to visit Venezuela on Wednesday. 
-‏
-‏@wfwitness
-02:44
-1405/06/11
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏فرانسه اعلام کرد شورای امنیت سازمان ملل متحد در ماه جاری درباره تمدید ماموریت هیات کارشناسان ناظر بر تحریم‌های جمهوری اسلامی رای‌گیری خواهد کرد.
@@ -1099,20 +1149,6 @@ src :@tabzlive
 ‏
 ‏We are leading the way, and the World is watching!
 02:34
-1405/06/11
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy. 
-‏
-‏We need Patriots like Hung leading our Navy and Marine Corps, and I can think of no one better than him to make sure our Great Navy and Marine Corps remain the FIERCEST and BEST Force the World has ever seen. 
-‏
-‏The Senate needs to confirm this Warfighter, ASAP, so he can continue the fantastic work he has been doing over the past 4 months.
-02:33
 1405/06/11
 
 
@@ -1364,17 +1400,6 @@ src :@Mena_Live
 ‏Atomic Energy Agency Report: We found 73 tons of natural uranium in Syria
 ‏
 ‏@Mena_Live
-02:18
-1405/06/11
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸🇧🇭 - Air Raid Sirens in Bahrain!
-‏
-‏@GeoPWatch
 02:18
 1405/06/11
 
@@ -3224,22 +3249,6 @@ src :@mwarmonitor
 ‏🔴این محدودیت از ساعت ۱۹:۰۰ به وقت UTC امشب تا ۰۳:۰۰ UTC برقرار خواهد بود و در اطلاعیه هوانوردی FAA (NOTAM) تنها به‌عنوان «بسته‌شدن عملیاتی» (Operational Closure) درج شده است.
 ‏
 ‏@mwarmonitor
-23:50
-1405/06/10
-
-
-
-
-src :@intelslava
-‏🇰🇵🇺🇸⚡️ — North Korea rejected US demands for denuclearization and stated that it will continue to strengthen its nuclear arsenal. Pyongyang emphasized that the US "hostile policy" toward North Korea has not changed.
-‏
-‏A North Korean foreign ministry official called US criticism of the country's human rights situation, calls for complete denuclearization, and planned military drills with South Korea and Japan evidence of Washington's "hostile approach."
-‏
-‏Pyongyang called its nuclear weapons an "absolute guarantee" of sovereignty and stated that repeated US demands will not change North Korea's nuclear status.
-‏
-‏North Korea also said that expecting a reduction in regional tensions is "pointless" as long as Washington adheres to its current policy, stressing that US policy toward North Korea has also not changed.
-‏
-‏@IntelSlava
 23:50
 1405/06/10
 
