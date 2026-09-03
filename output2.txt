@@ -1,3 +1,49 @@
+src :@didarnews1
+[عکس]
+‏🔴 ترامپ:
+‏
+‏🔹حجم صادرات نفت از تنگه هرمز به حالت قبل بازگشته است!
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+15:25
+1405/06/12
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump will visit Ireland on 12 September for a two-day trip, meeting President Catherine Connolly and Taoiseach Micheál Martin before travelling to his Doonbeg golf resort.
+‏
+‏Connolly has previously criticised Trump, calling him a “bully.”
+‏
+‏Source: BBC
+15:25
+1405/06/12
+
+
+
+
+src :@didarnews1
+‏🔴 روحانی: فرقی ندارد مذاکره‌کننده چه کسی باشد؛ همه باید پشت او بایستیم
+‏
+‏🔹 حسن روحانی گفت فارغ از اینکه مسئول مذاکرات چه کسانی هستند، همه جریان‌های سیاسی باید از تیم مذاکره‌کننده کشور حمایت کنند.
+‏
+‏🔹 او درباره تنگه هرمز نیز گفت این آبراه باید «پررونق» باشد و افزود ایران به‌دنبال مختل‌کردن تجارت جهانی نیست و عبور بی‌ضرر کشتی‌ها را می‌پذیرد.
+‏
+‏🔹 روحانی بار دیگر از صداوسیما انتقاد کرد و گفت: «رئیس‌جمهور می‌گوید صداوسیما را نگاه نمی‌کند؛ اصلاً چه کسی اعصاب دارد که نگاه کند؟» او پرسید آیا رسانه ملی باید همچنان در اختیار یک «گروهک» باقی بماند؟
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+15:24
+1405/06/12
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏نوید ذره‌بین ایرانی، عکاس و شهروند بهایی ساکن مشهد، با گذشت ۲۳۰ روز از زمان بازداشت، همچنان بدون برگزاری دادگاه در زندان وکیل‌آباد مشهد نگهداری می‌شود.
@@ -141,7 +187,7 @@ src :@P_raetorio
 [عکس]
 ‏«این فوق‌العاده است! سوریه خود را به عنوان یک جایگزین برای تنگه هرمز معرفی می‌کند.»
 ‏
-‏-دونالد ترامپ در مورد مقابله واشنگتن پست در مورد جایگزینی سوریه و دریای مدیترانه برای تنگه هرمز
+‏-دونالد ترامپ در مورد مقاله واشنگتن پست در مورد جایگزینی سوریه و دریای مدیترانه برای تنگه هرمز
 ‏
 ‏@P_raetorio
 15:19
@@ -542,9 +588,7 @@ src :@Ali_bk_2
 [عکس]
 ‏Trump:
 ‏
-‏This is great!
-‏
-‏Syria is seeking to become an alternative to the Strait of Hormuz.
+‏This is great! Syria is seeking to become an alternative to the Strait of Hormuz.
 15:02
 1405/06/12
 
@@ -555,9 +599,7 @@ src :@Alibk3
 [عکس]
 ‏ترامب:
 ‏
-‏هذا رائع!
-‏
-‏سوريا تسعى إلى أن تكون بديلًا لمضيق هرمز.
+‏هذا رائع! سوريا تسعى إلى أن تكون بديلًا لمضيق هرمز.
 15:01
 1405/06/12
 
@@ -909,21 +951,6 @@ src :@IranintlTV
 ‏🔹غنا در ادامه مسیر خود در مقدماتی جام ملت‌های آفریقا، در دیداری حساس به مصاف ساحل عاج خواهد رفت.
 ‏
 ‏@iranintltvsport
-14:45
-1405/06/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russian Major General Varpakhovich was critically wounded in a shooting. 
-‏
-‏He is accused of ordering strikes on Okhmatdyt and a residential building in Uman that killed 24 people in 2023–24.
-‏
-‏A gunman on a motorcycle opened fire outside his home, hitting him in the torso and face.
-‏
-‏He remains in critical condition.
 14:45
 1405/06/12
 
@@ -4900,22 +4927,6 @@ src :@Alibk3
 
 
 
-src :@Ali_bk_2
-‏The Yemeni army targets Saudi-backed forces massing on Yemen's west coast with ballistic missiles.
-02:14
-1405/06/12
-
-
-
-
-src :@Alibk3
-‏الجيش اليمني يستهدف تحشيدات القوات الموالية للسعودية في الساحل الغربي باليمن بصواريخ باليستية.
-02:14
-1405/06/12
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Russia has begun mass production of the Volna Kupol Garant electronic warfare (EW) system, designed to disrupt Starlink satellite communications.
@@ -5778,23 +5789,6 @@ src :@bricsnews
 
 
 
-src :@didarnews1
-[عکس]
-‏🔻پایان دربی ۱۰۷ با نتیجه مساوی
-‏
-‏🔹️استقلال ۱ - پرسپولیس ۱
-‏
-‏#ورزشی 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-21:44
-1405/06/11
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇦🇹 Austria is preparing a constitutional ban on “political Islam,” with Chancellor Christian Stocker calling it incompatible with democracy and Western values.
@@ -6244,17 +6238,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 19:33
-1405/06/11
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏دونالد ترامپ:
-‏
-‏حالا که تنگه هرمز تحت کنترل ایالات متحده است، آیا باید نام آن را به تنگه ترامپ تغییر دهیم؟؟؟ مثل خود آمریکا، این تنگه "هات‌تر" از هر زمانی در گذشته خواهد شد!
-19:19
 1405/06/11
 
 
