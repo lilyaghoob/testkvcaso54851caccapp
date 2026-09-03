@@ -1,3 +1,36 @@
+src :@mwarmonitor
+[عکس]
+‏🔸تقریباً ۱۲ دولت اروپایی به‌طور علنی اعلام کردند که پس از متهم کردن مسکو از سوی آلمان به دست داشتن در حمله لایپزیگ، سفیر یا کاردار روسیه را احضار خواهند کرد.
+‏
+‏🔹این کشورها عبارت‌اند از:
+‏
+‏📌آلمان، فرانسه، بلژیک، هلند، پرتغال، فنلاند، سوئد، دانمارک، جمهوری چک، بریتانیا و ایرلند.
+‏
+‏🔸همچنین سرویس اقدام خارجی اتحادیه اروپا (EEAS) نیز سفیر روسیه نزد اتحادیه اروپا را احضار کرد.
+‏
+‏@mwarmonitor
+16:10
+1405/06/12
+
+
+
+
+src :@Ali_bk_2
+‏Netanyahu announces the release of 5 Lebanese civilians in exchange for the bodies of Jews in Lebanon.
+16:10
+1405/06/12
+
+
+
+
+src :@Alibk3
+‏نتنياهو يعلن إطلاق سراح 5 مدنيين لبنانيين مقابل جثث يهود في لبنان.
+16:10
+1405/06/12
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇪⚡️ — President Trump will visit Ireland for two days starting September 12, BBC reports.
@@ -200,7 +233,7 @@ src :@cataphract1
 
 
 src :@Americana_ir
-‏📰 ممنوعیت استفاده برخی دانش‌آموزان آمریکایی از هوش مصنوعی
+‏📰 ممنوعیت استفاده دانش‌آموزان نیویورکی از هوش مصنوعی
 ‏
 ‏▪️شهر نیویورک، بزرگ‌ترین نظام آموزشی آمریکا، استفاده از ابزارهای هوش مصنوعی برای دانش‌آموزان کلاس‌های پایه تا هشتم برای این سال تحصیلی ممنوع کرده است؛ یکی از سخت‌گیرانه‌ترین سیاست‌های AI در آمریکا.
 ‏
@@ -1920,29 +1953,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-‏🇪🇺🇷🇺⚡️ — Several European intelligence services have identified at least four Russian-controlled sabotage networks operating across the EU, according to SPIEGEL. 
-‏
-‏The networks operate independently, with no cooperation between them, and appear to be competing against each other.
-14:09
-1405/06/12
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇩🇪🇺🇦❌🇷🇺 — Germany plans to increase military support for Ukraine after concluding that Russia was responsible for last month’s attempted drone attack at Leipzig/Halle Airport, according to Der Spiegel. 
-‏
-‏Germany is preparing to deliver several thousand attack drones and additional IRIS-T air-defense missiles to Ukraine in September. 
-‏
-‏The government is also considering deeper intelligence cooperation, including assistance in gathering target coordinates for Ukrainian counterattacks against Russia.
-14:06
-1405/06/12
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏ژاپن در حال ایجاد یک مجموعه موشک های هایپرسونیک جدید است!! 
@@ -1972,16 +1982,6 @@ src :@jangaavaran1390
 ‏دولت دونالد ترامپ تلاش می‌کند درگیری نظامی با ایران را دست‌کم تا انتخابات میان‌دوره‌ای کنگره در سوم نوامبر (۱۲ آبان) مهار کند تا جنگ به موضوعی غالب در کارزار انتخاباتی برای جمهوری‌خواهان تبدیل نشود.
 ‏
 ‏رویترز به نقل از چهار فرد مطلع از گفت‌وگوهای داخلی دولت آمریکا گزارش داده است که مقام‌های کاخ سفید در عین حال احتمال افزایش اقدامات نظامی پس از انتخابات را بررسی می‌کنند، هرچند برای آنها بازگشت به یک جنگ تمام‌عیار هنوز قطعی نیست.
-14:01
-1405/06/12
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇾🇪 — The Saudi-backed PLC says their forces are engaged in fierce clashes with the Houthis (Ansarallah) on the Barah front west of Taiz, southwestern Yemen.
-‏
-‏PLC forces also said they intercepted three Houthi drones in the Jabal Habshi district.
 14:01
 1405/06/12
 
@@ -2087,21 +2087,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇵🇸⚡️ — Gaza’s sewage system is facing an “unprecedented crisis,” according to the Palestinian Water Authority. 
-‏
-‏Around 55,000 cubic metres of untreated wastewater are discharged or leaked into the environment each day, including 40,000 cubic metres flowing into the sea and another 15,000 through absorption pits and damaged networks.
-‏
-‏All five main wastewater treatment plants have stopped operating, while only 18 of around 74 pre-crisis pumping stations remain partially operational. 
-‏
-‏The population covered by sewage networks has fallen from more than 85% before the crisis to about 45%.
-13:51
-1405/06/12
-
-
-
-
 src :@P_raetorio
 ‏یسرائیل کاتز، وزیر دفاع اسرائیل:  اگر ایران به اسرائیل حمله کند، این اتفاق اسرائیل را از هرگونه محدودیت موجود در حمله به ایران رها خواهد کرد. ما به تمام زیرساخت‌های ملی، نظامی و غیرنظامی در ایران، از جمله زیرساخت‌های انرژی، حمله خواهیم کرد و ایران را به اعماق…
 13:51
@@ -2185,15 +2170,6 @@ src :@defence_news
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇮🇷 — Israeli Defense Minister Katz warned that if Iran attacks Israel, it would “release Israel from any existing restrictions” on strikes against Iran.   He said Israel would target “all national, military, and civilian infrastructures,” including energy…
-13:44
-1405/06/12
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏🇮🇷🇵🇸وفد قيادي من حركة المقاومة الإسلامية حماس يجري زيارة إلى الجمهورية الإسلامية التقى خلالها بكبار المسؤولين الإيرانيين وقدم الوفد شرحا مفصلا لما توصلت إليه الحركة مع الوسطاء وممثلي مجلس السلام من اتفاق على خارطة الطريق لتنفيذ المرحلة الثانية.
@@ -2267,17 +2243,6 @@ src :@mohem_mat
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇮🇷 — Israeli Defense Minister Katz warned that if Iran attacks Israel, it would “release Israel from any existing restrictions” on strikes against Iran. 
-‏
-‏He said Israel would target “all national, military, and civilian infrastructures,” including energy facilities, and push Iran “deep into the Stone Age and darkness.”
-13:36
-1405/06/12
-
-
-
-
 src :@jangaavaran1390
 ‏کاتز، وزیر دفاع اسرائیل، برای چندمین بار مستقیما عنوان کرد که در صورت حمله جمهوری اسلامی ایران به اسرائیل، اسرائیل بدون هیچ گونه محدودیتی، تمامی زیرساخت های نظامی، غیر نظامی، انرژی و غیره ایران را هدف قرار خواهد داد.
 13:35
@@ -2317,18 +2282,6 @@ src :@selena_updates
 ‏The July 31 guidance, based on an emergency protocol developed by women’s rights group Terre des Femmes, provides warning signs, recommended actions and contacts for specialist support services. Although German police recorded just 68 forced-marriage cases in 2024, specialist organization SOLWODI says it alone assisted 261 people facing threatened or completed forced marriages in 2025, highlighting the substantial gap between reported crimes and cases reaching counseling services.
 ‏
 ‏Authorities and campaigners are also warning of the related risk of female genital mutilation, another Islamic practice, during overseas trips: Germany’s latest federal estimate says around 11,100 minor girls may already have been subjected to FGM, while as many as 25,000 more are considered at risk, underscoring growing concern that holidays can be used to carry out practices that are criminal offences under German law.
-13:32
-1405/06/12
-
-
-
-
-src :@tabzlive
-‏🇹🇷🇬🇧⚡️ — Türkiye says its Eurofighter Typhoon procurement deal with the UK is moving forward, with Turkish pilots scheduled to begin flight training in Britain on September 7.
-‏
-‏Defense Ministry spokesman Zeki Aktürk said terminology training began in August. 
-‏
-‏The pilots will undergo eight months of flight training, followed by three months of instructor-pilot training, with additional groups continuing to be sent for training in phases.
 13:32
 1405/06/12
 
@@ -4788,14 +4741,6 @@ src :@Navy_Iranian
 
 
 
-src :@Ali_bk_2
-‏Kuwait
-05:06
-1405/06/12
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏الكويت
@@ -4822,14 +4767,6 @@ src :@Shin_Persian
 ‏https://x.com/KuwaitArmyGHQ/status/2095324773253341615
 ‏
 ‏𝕏  ·  @shin_persian
-05:05
-1405/06/12
-
-
-
-
-src :@Alibk3
-‏الكويت
 05:05
 1405/06/12
 
@@ -6247,16 +6184,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:34
-1405/06/11
-
-
-
-
-src :@mwarmonitor
-‏🔴‏نتانیاهو: ما نظام حکومت ایران را سرنگون خواهیم کرد - این نظام سقوط خواهد کرد. تمام نهادهای ما در حال تلاش برای سرنگونی این نظام هستند. اگر آنها به ما حمله کنند، این آخرین حمله آنها خواهد بود.
-‏
-‏@mwarmonitor
-20:31
 1405/06/11
 
 
