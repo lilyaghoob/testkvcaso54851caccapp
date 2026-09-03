@@ -1,3 +1,27 @@
+src :@WAR_ROOM_NEWS
+‏نیروهای ارتش یمن مورد حمایت عربستان سعودی در سراسر محدوده پیشروی اولیه حوثی‌ها ضدحملاتی انجام دادند و مدعی شدند تقریباً تمامی مواضع از دست‌رفته را بازپس گرفته و تلفات سنگینی به حوثی‌ها وارد کرده‌اند.با توجه به اینکه هر دو طرف مدعی پیشروی و تصرف مواضع هستند، نتیجه نهایی درگیری‌ها در حال حاضر مشخص نیست
+‏
+‏#یمن
+‏
+‏🆔@WAR_ROOM_NEWS
+21:26
+1405/06/12
+
+
+
+
+src :@MilitarryWorld
+‏🔴فوری/ارتش اسرائیل: ما طی ساعات گذشته توانستیم زیرساخت‌های متعلق به حزب‌الله را در ارتفاعات علی الطاهر در جنوب لبنان به کنترل عملیاتی خود درآوردیم!
+‏
+‏ایران پیش تر اعلام کرده بود در صورت حمله به این مجتمع زیر زمینی در جنوب لبنان که نیرو های سپاه نیز در آن حضور دارند شدیداً به اسرائیل حمله خواهد کرد.
+‏
+‏@MilitarryWorld | Parsa
+21:26
+1405/06/12
+
+
+
+
 src :@cataphract1
 ‏⚜ ارتش اسرائیل فیلمی از تأسیسات زیرزمینی در تپه علی الطاهر را منتشر کرد   📃@Cataphract1
 21:20
@@ -1921,14 +1945,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli jets are flying at a low altitude in southern Lebanese airspace.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:36
-1405/06/12
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏مأموریت ژاپن به سوی قمرهای مریخ
@@ -1943,27 +1959,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 19:36
-1405/06/12
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Israeli Prime Minister’s Office:
-‏As part of the negotiations with Lebanon, Prime Minister Netanyahu instructed officials to advance efforts to locate and return the bodies of the leaders of Lebanon’s Jewish community—the martyrs who were abducted and murdered by terrorist organizations in the mid-1980s.
-‏
-‏The Prime Minister has been involved in this issue for decades, dating back to his tenure as Israel’s ambassador to the United Nations.
-‏
-‏In recent months, numerous efforts have been undertaken to locate them, by both Lebanon and Israel, including operations on the ground. In light of these significant efforts, it was decided to release five Lebanese civilians who had been detained in areas of southern Lebanon under IDF control. After their questioning was completed, it was determined that they are civilians who are not members of a terrorist organization, were not involved in terrorism, and that there is no reason to continue holding them in Israel.
-‏
-‏The Prime Minister of Lebanon, Nawaf Salam, is trying to take credit for the release of the 5 Lebanese:
-‏The safe return to their homeland of every Lebanese who was released is an important step on the path to addressing this issue. I thank the American administration, and especially Ambassador Michel Issa, for the efforts made on this matter.
-‏
-‏We will continue to act until the release of all our prisoners, clarification of the fate of the missing, and the achievement of a full Israeli withdrawal from Lebanese territory.
-‏
-‏Those to be released are 2 Syrians and 2 Lebanese - Ali Shour, Hussein Ayash, Asaad al-Khasikha, and Wissam Ibrahim al-Samawi.
-19:35
 1405/06/12
 
 
@@ -3233,16 +3228,6 @@ src :@intelslava
 
 
 
-src :@MilitarryWorld
-‏🔴چین: به شدت از تحریم‌های مرتبط با ایران که علیه ما اعمال شده، ابراز تاسف می‌کنیم و قاطعانه با آن‌ها مخالف هستیم
-‏
-‏@MilitarryWorld | Parsa
-17:50
-1405/06/12
-
-
-
-
 src :@mwarmonitor
 ‏🔖آرایش رزمی نیروهای آمریکا (US ORBAT) – جنگنده‌ها – ۳ سپتامبر ۲۰۲۶
 ‏
@@ -4267,19 +4252,6 @@ src :@didarnews1
 
 
 
-src :@selena_updates
-[عکس]
-‏Israeli police detained Fares Rayan, an Arab terrorist former security prisoner released in the 2011 Gilad Shalit deal, after officers encountered him riding a motorcycle in central Tel Aviv while being in Israel illegally.
-‏
-‏Rayan admitted paying NIS 1,200 ($400) to enter Israel. His original 2010 conviction included assisting an attempted terrorist attack, shooting at a person, weapons trafficking and membership in an illegal terrorist organization. He had been sentenced to 12 years but was released after roughly a year under the Shalit deal. 
-‏
-‏Authorities subsequently released him and returned him to a checkpoint after he signed an undertaking not to enter Israel again. The IDF disputed claims that the military prosecution authorized the decision, saying Israel Police made the decision without consulting military prosecutors and that the special mechanism allowing his original sentence to be reinstated under the terms of the Shalit agreement had expired in 2018.
-15:34
-1405/06/12
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷 NEW: In the U.S. attacks on Iran two nights ago, six Artesh Navy personnel were martyred
@@ -4571,20 +4543,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 15:07
-1405/06/12
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Two Arabs aged 17 and 19 were killed last night by the IDF during an attempt to recover livestock stolen from Jews in the village of al-Mughayyir in the Ramallah district in Judea and Samaria (West Bank).
-‏
-‏IDF Spokesperson:
-‏IDF forces secured the entry last night of Judea and Samaria District police officers and a civilian into the village of al-Mughayyir in the Binyamin Brigade sector. The entry was secured for the purpose of returning livestock belonging to Israeli citizens that were found in the area of the village. The livestock were identified by distinguishing marks indicating their ownership by Israeli citizens.
-‏
-‏During the forces' operation, a violent disturbance developed in the area, during which terrorists threw blocks and stones at the force, which responded with fire toward key instigators to remove the threat. Hits were identified.
-15:04
 1405/06/12
 
 
@@ -4948,17 +4906,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@selena_updates
-[عکس]
-‏Iran launched a missile and drone attack targeting Kuwait early this morning, despite the United States carrying out no strikes on Iranian territory overnight. 
-‏
-‏At approximately 4:30 a.m., the Kuwaiti military reported that the country’s air-defense systems had been activated to intercept incoming missiles and unmanned aerial vehicles.
-14:33
-1405/06/12
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
@@ -5236,19 +5183,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 13:38
-1405/06/12
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The German southwestern state of Baden-Württemberg has issued schools with emergency guidance aimed at identifying students who may be taken abroad during the summer holidays for forced Islamic marriages, urging teachers to treat an unexplained failure to return to class as a possible warning that a young person has been married against their will or prevented from returning to Germany. 
-‏
-‏The July 31 guidance, based on an emergency protocol developed by women’s rights group Terre des Femmes, provides warning signs, recommended actions and contacts for specialist support services. Although German police recorded just 68 forced-marriage cases in 2024, specialist organization SOLWODI says it alone assisted 261 people facing threatened or completed forced marriages in 2025, highlighting the substantial gap between reported crimes and cases reaching counseling services.
-‏
-‏Authorities and campaigners are also warning of the related risk of female genital mutilation, another Islamic practice, during overseas trips: Germany’s latest federal estimate says around 11,100 minor girls may already have been subjected to FGM, while as many as 25,000 more are considered at risk, underscoring growing concern that holidays can be used to carry out practices that are criminal offences under German law.
-13:32
 1405/06/12
 
 
