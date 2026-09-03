@@ -1,3 +1,25 @@
+src :@Ali_bk_2
+[عکس]
+‏Bloomberg:
+‏
+‏The US-Iran conflict has reached an impasse, and there are no indications of a solution or a settlement in the near term.
+17:25
+1405/06/12
+
+
+
+
+src :@Alibk3
+[عکس]
+‏بلومبرغ:
+‏
+‏الصراع الأميركي الإيراني وصلت إلى طريق مسدود، ولا توجد مؤشرات على حل أو تسوية قريبة.
+17:25
+1405/06/12
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏یسرائیل کاتس، وزیر دفاع اسرائیل، پنج‌شنبه ۱۲ شهریور در مراسم روش هشانا با کارکنان وزارت دفاع اعلام کرد حمله جمهوری اسلامی به این کشور، اسرائیل را از همه محدودیت‌ها رها خواهد کرد و این کشور حتی زیرساخت‌های انرژی را نیز هدف قرار خواهد داد.
@@ -2308,16 +2330,6 @@ src :@Ali_bk_2
 [عکس]
 ‏U.S. aerial refueling aircraft, including an Emirati aircraft, are currently operating over the Strait of Hormuz to refuel fighter jets, with the possibility of escorting oil tankers.
 14:44
-1405/06/12
-
-
-
-
-src :@Ali_bk_2
-‏Yemeni war media:
-‏
-‏Stay tuned. At 4 p.m., new footage will be broadcast showing the targeting of gatherings and vehicles of the Saudi enemy on several fronts using a Rajum drone.
-14:43
 1405/06/12
 
 
@@ -6520,39 +6532,4 @@ src :@Navy_Iranian
 [عکس]
 ‏#تکمیلی | با بررسی دقیق تر لاشه‌های باقی‌مانده از موشک مورد استفاده در جنایت اخیر یه یک خانه مسکونی، به نظر این موشک SLAM-ER نیست و بقایای لاشه با بدنه AGM-154C JSOW تطابق بیشتری دارند.  در کادر قرمز، یک بالک کنترلی مشاهده شده که با یکی از بالک‌های کنترلی…
 17:33
-1405/06/11
-
-
-
-
-src :@Shin_Persian
-‏Open Source Intel @Osint613
-‏
-‏An American source told Saudi channel Al-Hadath that the Trump administration monitored the movement of members of the Revolutionary Guards from Iran into Lebanon.
-‏
-‏Members of the Lebanese security apparatus are suspected of involvement in issuing passports to Iranian operatives. According to the source, the passage of Iranians using Lebanese documents is being checked at Beirut airport and at the land border crossings.
-‏
-‏It was also noted that loopholes exist in the registration of deaths in the Hezbollah environment, used as a means to bring Iranians in.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏یک منبع آمریکایی به شبکه سعودی الحدث گفت که دولت ترامپ رفت‌وآمد اعضای سپاه پاسداران انقلاب اسلامی از ایران به لبنان را زیر نظر داشته است.
-‏
-‏برخی اعضای نهادهای امنیتی لبنان مظنون به دست داشتن در صدور گذرنامه برای عوامل ایرانی هستند. به گفته این منبع، تردد ایرانیان با استفاده از مدارک لبنانی در فرودگاه بیروت و گذرگاه‌های مرزی زمینی در حال بررسی است.
-‏
-‏همچنین اشاره شد که در ثبت فوت افراد در محیط وابسته به حزب‌الله خلأهایی وجود دارد که از آن‌ها به عنوان راهی برای وارد کردن ایرانیان به لبنان استفاده می‌شود.
-‏
-‏𝕏  ·  @shin_persian
-17:25
-1405/06/11
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏در تصاویر دیشب منتشر شده توسط سنتکام هم مهمات سری JSOW به صورت واضح در زیر اف 18 سوپر هورنت آمریکایی مشخص است ! 
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-17:24
 1405/06/11
