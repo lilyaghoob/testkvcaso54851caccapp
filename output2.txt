@@ -1,3 +1,69 @@
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸🇮🇱🇱🇧⚡️ — Iran warned the U.S. that a major Israeli offensive against the Ali al-Taher ridge in southern Lebanon would trigger a “large-scale Iranian attack,” according to Reuters. 
+‏
+‏Tehran delivered the warning through Oman around mid-August.
+‏
+‏Two regional officials said more than a dozen IRGC personnel, including at least two senior officers, are sheltering on the ridge alongside Hezbollah fighters. 
+‏
+‏A foreign official said U.S. pressure subsequently led Israel to postpone an assault on the ridge.
+16:50
+1405/06/12
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏محمدرضا علیان‌نژاد، معاون تربیت و آموزش ارتش جمهوری اسلامی، در گفت‌وگو با خبرگزاری فارس گفت دکترین نظامی جمهوری اسلامی دفاعی است و افزود: «اگر قرار باشد حمله پیش‌دستانه‌ای انجام شود، قطعا هم توانایی آن وجود دارد و هم نیروها آموزش‌های لازم را طی کرده‌اند.»
+‏
+‏او تاکید کرد آموزش‌های نفوذ و حمله با تجهیزات مختلف در نیروهای هوایی، زمینی و دریایی ارائه شده و قابلیت اجرا دارد.
+‏
+‏علیان‌نژاد همچنین گفت ارتش در جنگ ۱۲ روزه به ضرورت انتقال سریع تجربه‌های میدان نبرد، آموزش‌های واقع‌گرایانه و تربیت نیروهای چندمهارتی رسیده و این تجربه‌ها در جنگ ۴۰ روزه به کار گرفته شده‌اند. 
+‏https://iranintl.com/202609033247
+16:49
+1405/06/12
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Occupation Army Minister Katz holds multi-front security consultations.
+16:49
+1405/06/12
+
+
+
+
+src :@Alibk3
+[عکس]
+‏وزير جيش الاحتلال كاتس يجري مشاورات أمنية متعددة الجبهات.
+16:49
+1405/06/12
+
+
+
+
+src :@VahidOnline
+[عکس]
+‏916208
+‏
+‏📡 @VahidOnline
+16:49
+1405/06/12
+
+
+
+
+src :@naya_foriraq
+‏‏نظام ال سعود يعلن تقديم دعم مالي لمرتزقته في اليمن ويؤكد ارساله لما يسمى بـ"البنك المركزي اليمني".
+16:48
+1405/06/12
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏هویت یکی دیگر از کشته شدگان حمله آمریکا به کوهستک مشخص شد. «محمد ملاحی»، نوجوان ۱۶ ساله بلوچ، هنگام حمله هوایی آمریکا به بندر کوهستک در نزدیکی محل حمله در حال تردد با موتورسیکلت بوده و بر اثر اصابت ترکش به سر جان باخته است.
@@ -896,6 +962,8 @@ src :@didarnews1
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏سرهنگ‌دوم عدنان الحمادی، فرمانده تیپ ۳۵، و فتحی الحمادی، از نیروهای وابسته به عربستان سعودی، در جریان حملات زمینی حوثی ها کشته شدند.
+‏
+‏🆔@WAR_ROOM_NEWS
 15:39
 1405/06/12
 
@@ -1983,16 +2051,6 @@ src :@Ali_bk_2
 
 
 
-src :@Ali_bk_2
-‏Occupation army minister:
-‏
-‏There are indications we are seeing that the severe economic pressure on Iran, and fears of an uprising breaking out and the regime falling, may drive them to take desperate steps. Any Iranian attack on Israel will free us from all restraints, and we will strike all infrastructure, including energy infrastructure, and return Iran to the Stone Age and darkness.
-14:43
-1405/06/12
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏همزمان با ادامه افزایش نرخ ارز در ایران، قیمت پوند بریتانیا پنج‌شنبه ۱۲ شهریور در بازار آزاد برای نخستین بار از مرز ۳۰۰ هزار تومان عبور کرد و تا زمان تنظیم این گزارش به ۳۰۰ هزار و ۲۸۰ تومان رسید. 
@@ -2544,15 +2602,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 13:47
-1405/06/12
-
-
-
-
-src :@Alibk3
-[عکس]
-‏اسعار النفط في تصاعد مستمر.. خام برنت يقفز إلى 97.22 دولارا للبرميل.
-13:46
 1405/06/12
 
 
@@ -6149,20 +6198,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@VahidOnline
-[عکس]
-‏محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، با هشدار به ایالات متحده گفت تهران در جنگ جاری از «راهبردی جدید» استفاده خواهد کرد.
-‏
-‏رضایی، چهارشنبه ۱۱ شهریور ۱۴۰۵، در پستی در ایکس نوشت که تلاش‌های آمریکا برای خروج از شرایط کنونی نتیجه‌ای نخواهد داشت و افزود: «به‌زودی خواهید دید که راهبرد جدید ایران در میدان نبرد، دیپلماسی و مقابله با محاصره اقتصادی، پایه‌های شما را درهم خواهد شکست.»
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-19:45
-1405/06/11
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇸🇾 — A senior Israeli official says Israel's efforts to reach a security agreement with Syria have failed, partly due to disagreements over Israel's withdrawal from the buffer zone.
 ‏
@@ -6589,12 +6624,4 @@ src :@Shin_Persian
 [عکس]
 ‏گویا در جهان این کسخل ها فقط دلار افزایش ارزش داشته و باقی ارز ها قیمتشون ثابت مونده :)))
 16:59
-1405/06/11
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓  @hey_itsmyturn  Foundation of Martyrs and Veterans Affairs of Khuzestan Province confirms the death of 7 due to US strikes on Ahvaz and Aghajari last night. Statement announces the name of 7 men and calls them "Defenders of the homeland", presumably…
-16:47
 1405/06/11
