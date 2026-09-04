@@ -579,15 +579,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump announced that Adam Telle, currently serving as Assistant Secretary of the Army for Civil Works, will become Acting Secretary of the Army effective immediately.
-02:11
-1405/06/13
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Trump:
