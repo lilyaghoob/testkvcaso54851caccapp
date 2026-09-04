@@ -1,3 +1,18 @@
+src :@rus_cosmos
+[عکس]
+‏#تاریخنگار_فضایی 
+‏
+‏در 4 سپتامبر، سیارک ویکتوریا 12 توسط ستاره شناس انگلیسی جان راسل هیند در سال 1850 کشف شد.
+‏
+‏ویکتوریا 12  یک سیارک بزرگ و درخشان در کمربند سیارکی است، منطقه ای از فضا که بین مدارهای مریخ و مشتری قرار دارد. این اولین سیارکی بود که توسط هیند کشف شد، که در طول زندگی حرفه ای خود در مجموع 10 سیارک را کشف کرد.
+‏
+‏@rus_cosmos
+09:50
+1405/06/13
+
+
+
+
 src :@Ali_bk_2
 ‏More than one attack has taken place in different areas along the Hays front in Yemen, but the main attack aims to seize Mount Dabbas for fire control.
 09:41
@@ -34,6 +49,17 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 09:27
+1405/06/13
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇰🇵🇺🇸 North Korea rejects US demands to denuclearize, says it will expand its nuclear arsenal.
+‏
+‏@BRICSNews
+09:24
 1405/06/13
 
 
@@ -802,6 +828,16 @@ src :@wfwitness
 
 
 
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 US military conducts "internal review of a civilian casualty" at a wedding during strikes on Iran, Axios reports.
+‏
+‏@BRICSNews
+06:17
+1405/06/13
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️یک مقام دفتر ریاست‌جمهوری کره جنوبی روز جمعه ۱۳ شهریور اعلام کرد که سئول گزینه‌های عملی، از جمله اقدامات نظامی، برای حمایت از آزادی کشتیرانی در تنگه هرمز را بررسی می‌کند.
@@ -900,6 +936,16 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸❌🇮🇷 — A Reuters analysis on the deadly September 1 strike that hit a wedding celebration in Kuhestak, southern Iran, points to a direct hit by a U.S. munition.  Four weapons experts who reviewed verified footage and images said the damage was consistent…
 05:58
+1405/06/13
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇰🇷 South Korea considers military action in the Strait of Hormuz.
+‏
+‏@BRICSNews
+05:57
 1405/06/13
 
 
@@ -1192,6 +1238,16 @@ src :@Indypersian
 
 
 
+src :@bricsnews
+‏JUST IN: 🇷🇺🇺🇦 Russian general accused by Ukraine of ordering an attack on a children's hospital has been assassinated.
+‏
+‏@BRICSNews
+03:41
+1405/06/13
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏رویترز به نقل از چند رسانه کره جنوبی گزارش داد سئول در حال آماده‌سازی مقدمات لازم برای اعزام تجهیزات نظامی با هدف کمک به تامین آزادی کشتیرانی در تنگه هرمز است و قصد دارد در صورت نهایی شدن تصمیم، این ماموریت را تا پایان سال آغاز کند.
@@ -1471,6 +1527,16 @@ src :@Indypersian
 src :@naya_foriraq
 ‏🇮🇱جيش الإحتلال الإسرائيلي: رصد إطلاق نار باتجاه قوات الجيش الإسرائيلي التي تعمل شرق الخط الأصفر في شمال قطاع غزة. مسلحون في غزة يخططون لتنفيذ أعمال معادية ضد قواتنا.
 02:32
+1405/06/13
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇱🇱🇧 Israel launches strikes against Hezbollah targets in southern Lebanon.
+‏
+‏@BRICSNews
+02:30
 1405/06/13
 
 
@@ -2975,6 +3041,16 @@ src :@P_raetorio
 
 
 
+src :@bricsnews
+‏JUST IN: 🇺🇸🇨🇳 US says China is willing to cooperate in pressure against the Iranians.
+‏
+‏@BRICSNews
+22:12
+1405/06/12
+
+
+
+
 src :@MilitarryWorld
 ‏🔴معاون پزشکیان: به عنوان یکی از ۴ قدرت جهانی میخوایم قله های تکنولوژی رو فتح کنیم
 ‏
@@ -3162,6 +3238,16 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 21:51
+1405/06/12
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 Vice President JD Vance says the US will not talk to Iran unless they stop shooting at ships.
+‏
+‏@BRICSNews
+21:50
 1405/06/12
 
 
@@ -3467,6 +3553,16 @@ src :@Farsi_Iranwire
 src :@naya_foriraq
 ‏🇮🇷انباء متداولة عن إطلاقات من ايران نحو المصالح الاميركية في المنطقة.
 20:58
+1405/06/12
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇦🇺🇸 Ukrainian President Zelensky says American negotiators will visit Kyiv and Moscow.
+‏
+‏@BRICSNews
+20:57
 1405/06/12
 
 
@@ -4504,6 +4600,16 @@ src :@Shin_Persian
 
 
 
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 President Trump says the US has "virtually unlimited" ammunition for the war with Iran.
+‏
+‏@BRICSNews
+18:30
+1405/06/12
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏​«خطاب به آشغال‌های خائنی که از گزارش دقیق عملیات نظامی ما در ایران امتناع می‌ورزند؛ ما عملاً مقادیر نامحدودی مهمات با کیفیت متوسط تا بالا داریم، بسیار بیشتر از آنچه بتوانیم برای این کار یا هر جنگ دیگری که بعید است رخ دهد (که وقوع آن بسیار بعید است!) استفاده کنیم. علاوه بر این، ما در حال تولید مهمات در سطوحی هستیم که هرگز قبلاً دیده نشده است. ما در حال ذخیره‌سازی و آماده‌سازی برای هرگونه شرایط غیرمترقبه‌ای هستیم که ممکن است اتفاق بیفتد. ما آن‌ها را برای خودمان، یعنی ایالات متحده، نگه می‌داریم تا اینکه به دیگران بفروشیم، اما فروش به متحدان به‌زودی دوباره آغاز خواهد شد. همچنین، لطفاً بدانید که دولت بایدن مهمات بسیار بیشتری را بدون هیچ هزینه‌ای به اوکراین داد، بسیار بیشتر از آنچه ما در ایران استفاده کرده‌ایم. صدها میلیارد دلار به‌صورت رایگان به اوکراین و ناتو داده شد، هزینه‌ای که اگر از اروپا خواسته می‌شد خودش پرداخت می‌کرد — اما ما آن پول را، اگرچه کمی با تأخیر، طلب خواهیم کرد! از توجه شما به این موضوع متشکرم. رئیس‌جمهور دونالد جی. ترامپ»
@@ -4588,6 +4694,16 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 18:09
+1405/06/12
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇱🇮🇷 Israel threatens to attack Iran's energy facilities.
+‏
+‏@BRICSNews
+18:02
 1405/06/12
 
 
@@ -4696,6 +4812,16 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
+src :@bricsnews
+‏JUST IN: 🇮🇷 Iran received over $1 billion in oil revenues during the 11-day period ending September 2, Iranian media reports.
+‏
+‏@BRICSNews
+17:10
+1405/06/12
+
+
+
+
 src :@KayhanLondonChannel
 [عکس]
 ‏‏
@@ -4761,6 +4887,16 @@ src :@tglobaleye
 
 
 
+src :@bricsnews
+‏JUST IN: 🇴🇲🇬🇧 Oman's Sultan to visit the UK as tensions grow between the US and Iran.
+‏
+‏@BRICSNews
+16:54
+1405/06/12
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏916208
@@ -4815,6 +4951,16 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 16:34
+1405/06/12
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran warns it may launch an "asymmetrical" response to US attacks.
+‏
+‏@BRICSNews
+16:28
 1405/06/12
 
 
@@ -5579,8 +5725,28 @@ src :@Minas_Tirith2024
 
 
 
+src :@bricsnews
+‏JUST IN: 🇷🇺🇺🇦 Russian President Putin says there is a chance of a peace deal with Ukraine.
+‏
+‏@BRICSNews
+13:20
+1405/06/12
+
+
+
+
 src :@samueltarikh
 ‏⭕️ارتش ایران مدعی است که در حمله بامداد امروز، به پایگاه‌های هواپیماهای جنگنده آمریکایی در کویت و همچنین به مواضع نیروهای آمریکایی در امارات متحده عربی حمله شده است.
+13:07
+1405/06/12
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran says it attacked US military bases in Kuwait and the UAE.
+‏
+‏@BRICSNews
 13:07
 1405/06/12
 
@@ -5740,6 +5906,16 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 12:09
+1405/06/12
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇷🇺🇩🇪 Russia says "Germany is very close to destroying all political and economic relations with us."
+‏
+‏@BRICSNews
+12:06
 1405/06/12
 
 
@@ -5998,13 +6174,4 @@ src :@Americana_ir
 src :@samueltarikh
 ‏🔴آکسیوس: وزیر خارجه آمریکا از سفارتخانه‌ های این کشور خواسته به دولت‌های میزبان برای قطع فوری تجارت با ایران فشار بیاورند
 10:14
-1405/06/12
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏#تکمیلی | با بررسی دقیق تر لاشه‌های باقی‌مانده از موشک مورد استفاده در جنایت اخیر یه یک خانه مسکونی، به نظر این موشک SLAM-ER نیست و بقایای لاشه با بدنه AGM-154C JSOW تطابق بیشتری دارند.  در کادر قرمز، یک بالک کنترلی مشاهده شده که با یکی از بالک‌های کنترلی…
-09:48
 1405/06/12
