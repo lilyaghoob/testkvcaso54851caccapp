@@ -745,19 +745,6 @@ src :@Mena_Live
 
 
 
-src :@tabzlive
-[عکس]
-‏🇹🇷🇬🇷⚡️ — Turkish intelligence chief Ibrahim Kalin traveled to Athens last week for talks with his Greek counterpart Themistoklis Demiris, Skai reports.
-‏
-‏The discussions focused on developments in the southeastern Mediterranean, Syria, and Libya, as well as growing tensions between Türkiye and Israel.
-‏
-‏Kalin delivered no ultimatum. Instead, the meeting underscored both sides’ interest in keeping bilateral relations stable.
-01:37
-1405/06/13
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، در گفتگو با شبکه جی‌بی نیوز گفت ایالات متحده با استفاده از توانمندی‌های نیروی فضایی آمریکا، تمامی فعالیت‌های ایران را به‌طور مداوم رصد می‌کند.
@@ -6121,12 +6108,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 04:30
-1405/06/12
-
-
-
-
-src :@Middle_East_Spectator
-‏It is truly a tragedy that the Arab world no longer has leaders like King Faisal, Nasser, and Sheikh Zayed.  The modern-day Arab is docile, pacified, and so drenched in Western-style consumerism to the extent that neither Palestine nor the affairs of the Muslims…
-04:23
 1405/06/12
