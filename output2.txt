@@ -3058,16 +3058,6 @@ src :@GeoPWatch
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | جمعه ۱۳ شهریور
-‏@iranintlTV
-20:26
-1405/06/13
-
-
-
-
 src :@Middle_East_Spectator
 ‏❗️🇺🇸/🇮🇷 Cruise missiles towards U.S. Navy vessels in the Gulf of Oman
 ‏
