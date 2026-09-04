@@ -1,6 +1,80 @@
+src :@intelslava
+‏iran has launched 5 anti ship missiles toward the strait of hormuz.
+‏
+‏@IntelSlava
+23:30
+1405/06/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The UN General Assembly has voted to promote a new world map that more accurately represents the size of continents, especially Africa.
+‏
+‏The resolution, backed by 164 countries, supports replacing the widely used Mercator projection, which makes Africa appear much smaller than it is. 
+‏
+‏Source: BBC
+23:28
+1405/06/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The U.S. has approved two potential defense deals with Saudi Arabia worth an estimated $5.75 billion.
+‏
+‏The first covers $5 billion worth of extended-range JDAMs, with Boeing as the principal contractor, while the second involves $750 million in AGT-1500 engines, with Honeywell as the main contractor.
+‏
+‏Source: Reuters
+23:27
+1405/06/13
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️توماس پیگوت، سخنگوی وزارت امور خارجه ایالات متحده، روز جمعه ۱۳ شهریور تاکید کرد واشنگتن همچنان متعهد به قطع دسترسی جمهوری اسلامی ایران به سیستم مالی جهانی و جلوگیری از هرگونه اقدام تهران در جهت تهدید ثبات منطقه‌ای است.
+‏
+‏این اظهارات تنها چند ساعت پس از آن مطرح شد که وزارت خزانه‌داری آمریکا بانک «گلدن گلوبال» ترکیه را به فهرست بلندبالای تحریم‌های خود اضافه کرد. واشنگتن این نهاد مالی را به همکاری با ایران متهم کرده است.
+‏
+‏سخنگوی وزارت خارجه آمریکا تصریح کرد اقدام جدید تحریمی علیه این بانک ترکیه‌ای، پیام واضحی به تمامی موسسات مالی در سراسر جهان ارسال می‌کند؛ مبنی بر اینکه تسهیل فعالیت‌های مالی غیرقانونی ایران، پیامدهای سنگینی به همراه خواهد داشت.
+‏@indypersian
+23:27
+1405/06/13
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — Five anti-ship cruise missile launches from Sirik towards the Strait of Hormuz.
+23:27
+1405/06/13
+
+
+
+
 src :@mwarmonitor
 ‏🚨شنیده شدن صدای انفجار در سیریک
 23:27
+1405/06/13
+
+
+
+
+src :@intelslava
+‏🇺🇸/🇷🇺NEW: Witkoff and Kushner are going to Moscow with a peace proposal - Trump.
+23:27
+1405/06/13
+
+
+
+
+src :@naya_foriraq
+‏اصوات انفجارات في سيريك
+23:26
 1405/06/13
 
 
@@ -15,7 +89,7 @@ src :@mwarmonitor
 
 
 src :@Ali_bk_2
-‏Missile launches from Sirik toward the Strait
+‏Iranian missile launches from Sirik toward the Strait of Hormuz.
 23:26
 1405/06/13
 
@@ -23,7 +97,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏إطلاق صواريخ من سيريك نحو الضيق
+‏إطلاق صواريخ إيرانية من سيريك نحو مضيق هرمز.
 23:26
 1405/06/13
 
@@ -31,15 +105,7 @@ src :@Alibk3
 
 
 src :@naya_foriraq
-‏اصوات انفجارات في جزيرة سيريك
-23:25
-1405/06/13
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — A Ukrainian member of parliament reports that the Russian Armed Forces struck a drone at an aircraft in the Kiev airport "Zhulyany."  @Intelslava
+‏اصوات انفجارات في سيريك
 23:25
 1405/06/13
 
@@ -1690,15 +1756,6 @@ src :@Indypersian
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇳 CNN: The UN General Assembly is voting on whether to adopt a new world map that more accurately reflects the relative sizes of countries and continents, following a campaign led by African nations.   The proposal calls for replacing the centuries-old…
-20:53
-1405/06/13
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇩🇪 — German Interior Minister Alexander Dobrindt said Friday that authorities believe a climate activist is behind this week’s sabotage attacks on power substations. 
@@ -2633,14 +2690,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏بر اساس برخی گزارشات و تصاویر ایران از مرکز کشور ( اصفهان) دست به پرتاب یک موشک بالستیک زده است ولی مشخص نیست هدف چیست
-20:00
-1405/06/13
-
-
-
-
 src :@rnintel
 ‏🇾🇪 - Situation update in the Ta'izz direction:   After nearly 24 hours of fighting, Ansarullah's offensive along the Ta'izz axis appears to have failed.  Ansarullah initially achieved tactical gains, capturing several positions around the Bani Bakari Heights…
 19:57
@@ -2771,20 +2820,6 @@ src :@mwarmonitor
 ‏🔴بر اساس گزارش رویترز، وزارت خزانه‌داری آمریکا امروز بانک سرمایه‌گذاری گلدن گلوبال (Golden Global Yatırım Bankası) و دو شرکت تابعه آن را تحریم کرده و مدعی شده است که این مجموعه در انتقال درآمدهای نفتی ایران از چین به ترکیه و پردازش تراکنش‌های مرتبط با نیروی قدس سپاه نقش داشته است. 
 ‏
 ‏@mwarmonitor
-19:47
-1405/06/13
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️وزارت نفت عراق روز جمعه ۱۳ شهریور اعلام کرد صادرات نفت خام این کشور در ماه اوت به نزدیک ۷۰ میلیون بشکه رسیده که بالاترین میزان از زمان آغاز جنگ و بروز بحران در تنگه هرمز است.
-‏
-‏سلیم الرکابی، سخنگوی وزارت نفت عراق، در گفتگو با خبرگزاری رسمی این کشور (INA) تاکید کرد که میانگین تولید روزانه نفت خام عراق از ۳ میلیون بشکه و صادرات روزانه آن از ۲.۲ میلیون بشکه فراتر رفته است. به گفته او، این میزان صادرات درآمدی در حدود ۴.۵ میلیارد دلار به همراه داشته که بالاترین درآمد اولیه از زمان شروع بحران محسوب می‌شود و نقشی حیاتی در تقویت اقتصاد ملی داشته است.
-‏
-‏الرکابی همچنین خاطرنشان کرد که عراق در راستای برنامه‌های راهبردی خود، در حال حرکت به سمت ایجاد مسیرهای صادرات دریایی خارج از تنگه هرمز است. هدف از این اقدام، افزایش ارزش بازار و قیمت فروش نفت عراق، ارتقای انعطاف‌پذیری پایگاه‌های صادراتی و تضمین پایداری عملیات فروش نفت در شرایط بحرانی عنوان شده است.
-‏@indypersian
 19:47
 1405/06/13
 
@@ -3304,14 +3339,6 @@ src :@VahidOnline
 
 
 
-src :@naya_foriraq
-‏اطلاق صاروخي من ايران
-19:22
-1405/06/13
-
-
-
-
 src :@Minas_Tirith2024
 ‏⚜️گزارش شلیک موشک از اصفهان
 ‏
@@ -3566,18 +3593,6 @@ src :@defence_news
 src :@rnintel
 ‏🇺🇸⚡️- Multiple legal experts say language from the judge and defense today signals that the Lindsay Clancy jury is currently in an 11-1 deadlock, with a single holdout wanting to vote guilty while the remaining eleven favor not guilty.
 18:56
-1405/06/13
-
-
-
-
-src :@intelslava
-‏Emil Graesholm, head of Danish counterintelligence (PET), warns that Russia is actively preparing sabotage operations against Denmark's defense industry. 
-‏
-‏These threats, reported as early as 2024, include the recruitment of ordinary Danish citizens to gather information on facilities and security conditions.
-‏
-‏@IntelSlava
-18:53
 1405/06/13
 
 
@@ -5958,15 +5973,4 @@ src :@samueltarikh
 src :@samueltarikh
 ‏ایران عزیز ما، این کهن‌دیار خسته‌دل زیر آوار دردهایی که تمامی ندارند نفس‌های آخر را می‌کشد. خاک مادری ما که روزی گهواره‌ی تمدن و فرهنگ بود امروز در بند بی‌تدبیری و تباهی به ویرانه‌ای مبدل شده که فرزندانش یکی‌یکی از آن می‌گریزند یا زیر بار سنگین اندوه خرد می‌شوند. هر گوشه از این آب و خاک داغی تازه بر دل دارد و گویی آسمان نیز سال‌هاست با این سرزمین بی‌دفاع قهر کرده است...
 23:45
-1405/06/12
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇸🇦/🇾🇪 BREAKING: Ansarallah (the Houthis) have initiated a large scale offensive into the Al-Khokha and Al-Mokha directions, controlled by Saudi-backed PLC fighters in western Yemen
-‏
-‏@Middle_East_Spectator
-23:30
 1405/06/12
