@@ -1,3 +1,47 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏در جریان حملات پهپادی شبانه اوکراین، دو پایانه نفت در مناطق آدلر و سیریوس در سوچی هدف قرار گرفتند. در پی این حملات، پایانه نفتی لوک‌اویل در آدلر دچار آتش‌سوزی شد و همچنین گزارش‌هایی از آسیب یا آتش‌سوزی در نزدیکی سامانه پدافندی S-400 در منطقه سیریوس منتشر شده است.همزمان، در استرلیتاماک در جمهوری باشقیرستان نیز گزارش‌هایی از حمله پهپادی و ادامه آتش‌سوزی در مجتمع پتروشیمی استرلیتاماک منتشر شده است
+‏
+‏🆔@WAR_ROOM_NEWS
+10:54
+1405/06/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The Gulf’s 2026 economic rebound is fading as the U.S.-Iran war drags on.
+‏
+‏Dubai and neighboring Gulf states are seeing sharp declines in tourism, aviation, hotels, real estate and major events. 
+‏
+‏Dubai airport passenger traffic fell 31% in the first half, hotel occupancy dropped to 56%, and luxury property sales fell 59%. 
+‏
+‏Major events, including Bahrain’s F1 race and Saudi Arabia’s E-Sports World Cup, have been relocated or canceled.
+‏
+‏Governments are offering stimulus and tourism incentives, but business leaders increasingly expect weak conditions through year-end—and potentially a slow recovery even after the fighting stops.
+‏
+‏Source: WSJ
+10:54
+1405/06/13
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏#فوری
+‏«بین 70 تا 100 عضو حزب‌الله و سپاه قدس  از ماه ژوئن تاکنون در تونل‌های منطقه تپه علی الطاهر، کشته شده‌اند.به مدت چند روز، حزب‌الله تلاش کرد تا با استفاده از کواد‌‌ها، آب و غذا به آن‌ها برساند، اما هر بار که یکی از آن‌ها برای دریافت آذوقه بیرون می‌رفت،نیروهای اسرائیلی او را شناسایی و هدف قرار می‌دادند.اولویت ایران و حزب‌الله، خارج کردن سلاح‌ها از آن منطقه و نجات جان آن‌ها بود، اما به نظر می‌رسد که احتمال انجام این کار روز به روز کمتر می‌شد»
+‏
+‏-نیویورک تایمز به نقل از یک مقام نیروی قدس سپاه پاسداران
+‏
+‏@P_raetorio
+10:53
+1405/06/13
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇨🇳🇺🇸 China rare earth firms halt select exports to United States.
 ‏
@@ -3137,16 +3181,6 @@ src :@rnintel
 
 
 
-src :@WAR_ROOM_NEWS
-‏سنتکام اعلام کرد نیروهای آمریکایی از زمان تشدید محاصره بنادر ایران، ۸۷ کشتی تجاری را تغییر مسیر داده، ۳ کشتی را از کار انداخته و ۲ کشتی را برای اطمینان از رعایت مقررات، بازرسی و توقیف کرده‌اند
-‏
-‏🆔@WAR_ROOM_NEWS
-23:06
-1405/06/12
-
-
-
-
 src :@Ali_bk_2
 ‏Netanyahu claims:
 ‏
@@ -3677,17 +3711,6 @@ src :@Exciton_missile_program
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏محمد حمود الزمر، مشهور به «عزام الزمر»، فرمانده جبهه البرح در نیروهای هم پیمان با عربستان سعودی، در جبهه الکدحه، بر اثر حمله زمینی کشته شد.
-‏
-‏🆔@WAR_ROOM_NEWS
-21:59
-1405/06/12
-
-
-
-
 src :@Middle_East_Spectator
 ‏The IDF entered the Ali Taher complex more than a week ago. Amit Segal, an Israeli military journalist, even leaked the images but was forced to delete them by the military censorship.
 ‏
@@ -3707,16 +3730,6 @@ src :@Middle_East_Spectator
 src :@naya_foriraq
 ‏🇺🇸ترامب: لقد فعلت الصواب بشأن إيران، أريد فقط إنهاء الحرب في أوكرانيا، لم تكن المملكة المتحدة موجودة لمساعدتي.
 21:53
-1405/06/12
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ونس:ما تا زمانی که ایران از شلیک به کشتی‌ها دست نکشد، با آنها مذاکره نخواهیم کرد
-‏
-‏🆔@WAR_ROOM_NEWS
-21:51
 1405/06/12
 
 
@@ -3745,16 +3758,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 21:49
-1405/06/12
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ونس ،معاون ترامپ:برخلاف سپاه پاسداران، ایالات متحده هرگز در جنگ، غیرنظامیان را هدف قرار نمی‌دهد.ما هرگز چنین کاری نخواهیم کرد؛ و تاکنون نیز چنین نکرده‌ایم
-‏
-‏🆔@WAR_ROOM_NEWS
-21:44
 1405/06/12
 
 
@@ -6521,14 +6524,4 @@ src :@Exciton_missile_program
 ‏
 ‏@Exciton_missile_program 🚀
 10:59
-1405/06/12
-
-
-
-
-src :@samueltarikh
-‏🔻پالایشگاه‌های هندی استفاده از کشتی‌های فهرست سیاه ایران را متوقف می‌کنند
-‏
-‏خبرگزاری رویترز به نقل از منابعی با اطلاع مستقیم گزارش داد پس از اعلام فهرست اولیه کشتی‌های ممنوعه ایران، دست‌کم سه پالایشگاه نفت هند و یک شرکت بزرگ بین‌المللی انرژی قصد دارند به‌دلیل نگرانی‌های امنیتی، استفاده از کشتی‌های قرارگرفته در این فهرست را متوقف کنند.
-10:53
 1405/06/12
