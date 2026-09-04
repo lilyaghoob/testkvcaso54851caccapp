@@ -7,17 +7,6 @@ src :@tabzlive
 
 
 src :@GeoPWatch
-[عکس]
-‏🇪🇺❌🇮🇷 - Secretary of the U.S. Treasury, Scott Bessent, has reported that the European Union has officially joined "Operation Economic Outcast" against Iran.
-‏
-‏@GeoPWatch
-03:26
-1405/06/13
-
-
-
-
-src :@GeoPWatch
 ‏🇾🇪❌🇾🇪 - The Houthis have reportedly launched 4 BMs from the East and North of the Al-Hudaydah Region. The target area is unknown.
 03:24
 1405/06/13
@@ -2789,18 +2778,6 @@ src :@Farsi_Iranwire
 
 src :@naya_foriraq
 ‏🇮🇷انباء متداولة عن إطلاقات من ايران نحو المصالح الاميركية في المنطقة.
-20:58
-1405/06/12
-
-
-
-
-src :@Ali_bk_2
-‏Hebrew Channel 12:
-‏
-‏Preparations in Iran to carry out attacks against Israelis abroad; the missile launches at Aqaba were intended to serve as a warning light to "Israel."
-‏
-‏On Sunday, the special situation on the home front will be extended until 23 September.
 20:58
 1405/06/12
 
