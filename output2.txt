@@ -1,3 +1,65 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸🇩🇪⚡️ — OpenAI agents took control of a German-language wiki this spring and turned it into a communication hub where AI agents exchanged methods for bypassing restrictions, manipulating evaluations, avoiding detection, and preserving communications after shutdowns, Reuters reports.
+‏
+‏Researchers identified more than 15,000 edits linked to AI agents on DseWiki, including discussions about using Tor, establishing backup pages after moderators removed content, and disguising their activity.
+‏
+‏OpenAI became aware of the incident weeks ago but did not publicly disclose it.
+16:12
+1405/06/13
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻اختلاف کاخ سفید و تحلیل‌گران بر سر آمار واقعی عبور نفت از تنگه هرمز 
+‏ 
+‏▪️خبرگزاری اکسیوس گزارش داد، کاخ سفید و تحلیل‌گران بخش خصوصی بر سر میزان واقعی عبور نفت از تنگه هرمز اختلاف دارند. 
+‏
+‏▪️ترامپ ادعا کرده روزانه ۱۸ میلیون بشکه در حال عبور است و وزیر انرژی آمریکا هم از عبور ۱۷ میلیون بشکه در یک روز سخن گفته، در حالی که میانگین چندروزه حدود ۸ میلیون بشکه برآورد می‌شود.
+‏
+‏▪️تنگه هرمز پیش از جنگ با ایران روزانه حدود ۲۰ میلیون بشکه نفت جابه‌جا می‌کرد و دولت آمریکا مدعی موفقیت در بازگشایی آن است.
+‏
+‏▪️شرکت‌های ردیابی نفتکش‌ها معمولاً ارقام پایین‌تری گزارش می‌کنند، چون بسیاری از کشتی‌ها سیستم شناسایی خود را خاموش می‌کنند. 
+‏
+‏▪️تحلیل‌گران می‌گویند چند هفته طول می‌کشد تا داده‌های دقیق‌تر از بنادر مقصد مشخص شود. با این حال، به نظر می‌رسد نفت بیشتری نسبت به قبل خارج می‌شود، هرچند احتمالاً به اندازه ادعاهای دولت نیست و همین موضوع به ترامپ حس برتری می‌دهد.
+‏
+‏🆔 @Americana_ir
+16:10
+1405/06/13
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — Crew members aboard the USS Abraham Lincoln have been told not to speak to the gathered journalists about the reportedly deteriorating living conditions during their deployment in CENTCOM, The Guardian reports.
+‏
+‏The ship’s captain, Dan Keeler, disputed much of the reporting, saying there was a “disconnect” between coverage at home and conditions aboard the carrier. He acknowledged that fresh fruit and vegetables eventually became unavailable and that supplies such as soap and toothpaste had to be carefully rationed to ensure everyone received some.
+‏
+‏Keeler declined to address reports of attempted suicides because of an ongoing investigation. 
+‏
+‏Responding to President Trump’s remark that the 270-day deployment was “not nearly long enough,” he said simply: “The president speaks for himself.”
+16:08
+1405/06/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Berlin's fire department spent nearly a million euros on a PR truck with the slogan "Diversity that moves." 
+‏
+‏On its first public outing, it got stuck in the entrance of a fire station because it was too tall to fit through. 
+‏
+‏The expandable show trailer jammed under the building's overhang, causing significant property damage.
+16:07
+1405/06/13
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Sailors aboard the USS Abraham Lincoln were reportedly instructed not to speak to the media about deteriorating conditions on the ship as they arrived in Thailand after a record 286 days at sea. 
@@ -1012,19 +1074,6 @@ src :@MilitarryWorld
 ‏🔴اتحادیه اروپا: ما با واشنگتن و شرکای خود در گروه ۷ همکاری می‌کنیم تا بر ایران فشار وارد کنیم و به کاهش تنش و ثبات کمک کنیم
 ‏
 ‏@MilitarryWorld | Parsa
-14:40
-1405/06/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Milei Says Falklands are Argentine as He Moves to Sanction Oil Projects
-‏
-‏The Argentine president said he would bar companies involved in unauthorized oil projects in the Falklands from operating in the country.
-‏
-‏READ MORE
 14:40
 1405/06/13
 
@@ -2182,15 +2231,6 @@ src :@jangaavaran1390
 ‏
 ‏ برآورد منابع اوکراینی: برد کنترل زنده اکنون به حدود ۱۵۰ تا ۱۷۵ کیلومتر از دورترین ایستگاه زمینی رسیده؛ تقریباً دو برابر سطح گزارش‌شده در ۲۰۲۵.
 12:45
-1405/06/13
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏آن چیزی که یک زمان تحت عنوان آبرامز اوکراینی شناخته میشد و امروز با ظاهر جدید اصولا تمیز دادن آن از یک تانک روسی چندان راحت نیست!
-12:40
 1405/06/13
 
 
@@ -3916,15 +3956,6 @@ src :@OSINTWarfare
 
 
 
-src :@tabzlive
-[عکس]
-‏🇦🇷🇫🇰🇬🇧⚡️ — Argentina's Intelligence Secretariat posted an image of the Falkland Islands with the caption, "We are watching."
-06:26
-1405/06/13
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US military conducts "internal review of a civilian casualty" at a wedding during strikes on Iran, Axios reports.
 ‏
@@ -3968,15 +3999,6 @@ src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇱🇱🇧🇱🇧🇮🇷 — Iran has sent a message to the US through Oman, warning that it will respond forcefully to any Israeli offensive against the Ali al-Taher ridge in southern Lebanon, where IRGC personnel, including at least two senior Iranian officers, are believed…
 05:59
-1405/06/13
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸❌🇮🇷 — A Reuters analysis on the deadly September 1 strike that hit a wedding celebration in Kuhestak, southern Iran, points to a direct hit by a U.S. munition.  Four weapons experts who reviewed verified footage and images said the damage was consistent…
-05:58
 1405/06/13
 
 
