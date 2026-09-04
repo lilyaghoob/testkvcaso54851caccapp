@@ -1,26 +1,56 @@
-src :@Ali_bk_2
-‏Trump:
+src :@samueltarikh
+‏⭕️فوری/ترامپ: 
 ‏
-‏We may strike Mount Ras al-Fa's in Iran soon.
-22:12
+‏ممکن است به‌زودی به کوه پیکاکس (کوه کلنگ) در ایران ضربه بزنیم
+22:18
 1405/06/13
 
 
 
 
-src :@Alibk3
-‏‏ترمب: 
+src :@samueltarikh
+‏🔴ترامپ در مورد جنگ ایران:
 ‏
-‏منعنا إيران من الحصول على سلاح نووي.
-22:12
+‏بسیاری از افراد آن را جنگ نمی‌دانند. من آن را یک درگیری نظامی می‌دانم، زیرا برای ما اهمیت چندانی ندارد؛ یک مسئله بزرگ نیست.
+22:17
+1405/06/13
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 President Trump says US might strike Iran again soon.
+‏
+‏@BRICSNews
+22:16
+1405/06/13
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ در مورد جنگ ایران:
+‏
+‏بسیاری از افراد آن را جنگ نمی‌دانند. من آن را یک درگیری نظامی می‌دانم، زیرا برای ما اهمیت چندانی ندارد؛ یک مسئله بزرگ نیست.
+‏
+‏@MilitarryWorld | Parsa
+22:16
 1405/06/13
 
 
 
 
 src :@naya_foriraq
-‏ترامب: نقوم بشنّ ضربات متقطعة في إيران. نحن نستهدف كميات كبيرة من النفط
-22:11
+‏ترامب: قد نضرب "جبل الفأس" قريبًا جدًا.
+22:15
+1405/06/13
+
+
+
+
+src :@naya_foriraq
+‏المراسل: إذا لم يكن الصراع مع إيران حربًا، فما هو بالضبط؟  ترامب: أصفه بأنه صراع عسكري لأننا نعتبره أمرًا بسيطًا بالنسبة لنا؛ إنه ليس شيئًا كبيرًا،  نقوم بشنّ ضربات متقطعة في إيران. نحن نستهدف كميات كبيرة من النفط.
+22:14
 1405/06/13
 
 
@@ -925,15 +955,6 @@ src :@DEJradio
 
 
 
-src :@tabzlive
-[عکس]
-‏🇰🇼⚡️ — A local from Kuwait reported air defense activity from Kuwait around an hour ago. It is unclear if an Iranian attack was conducted.
-20:42
-1405/06/13
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🇾🇪⚠️ هشدار شورای رهبری ریاست‌جمهوری یمن به غیرنظامیان تعز
 ‏
@@ -1012,14 +1033,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 20:39
-1405/06/13
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇯🇴🇮🇷⚡️ — A U.S. senior official denied to Axios/Channel 12's Barak Ravid that any attack was conducted by Iran towards U.S. bases in Jordan.
-20:38
 1405/06/13
 
 
@@ -1304,14 +1317,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 20:28
-1405/06/13
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — IRGC Navy anti-ship cruise missile launch from Sirik towards the Strait of Hormuz.
-20:27
 1405/06/13
 
 
@@ -1623,14 +1628,6 @@ src :@IranintlTV
 ‏او ادامه داد: «خیلی‌ها گفتند بلد نیستی قلب نشان بدهی؛ به خواهرزاده‌ام گفتم به من یاد بده چطور قلب نشان بدهم. او هم به من یاد داد و دفعه بعد همان کار را کردم. خیلی‌ها گفتند نباید این کار را می‌کردی، اما سوال من این است که چرا نباید؟ مگر در دنیا الزاما کسی که در یک موقعیت رسمی قرار دارد باید عصا قورت داده برود و بیاید؟.»
 ‏https://iranintl.com/202609049142
 20:16
-1405/06/13
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇯🇴 — Al-Arabiya reported air defense activity in northern Jordan four minutes ago.
-20:14
 1405/06/13
 
 
@@ -2442,23 +2439,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: The US Air Force is fast-tracking a cheap, expendable drone to replace the MQ-9 Reaper. 
-‏
-‏The new "Massed Modular Aircraft" would cost about $10 million — a third of a Reaper — with at least 180 planned. 
-‏
-‏The reason: 45 Reapers lost in the Iran war, about 25% of the fleet, over $1 billion gone. 
-‏
-‏Production ended in 2025 so there's no way to replace them. 
-‏
-‏A top general said they're going through Reapers "at a rate that is concerning."
-19:33
-1405/06/13
-
-
-
-
 src :@Mena_Live
 ‏Syria Closes Recruitment facilities nation wide due to extreme amount of people applying to be a member of the Syrian Military
 ‏
@@ -2546,21 +2526,6 @@ src :@Artemis_Force
 
 
 
-src :@ClashReport
-[عکس]
-‏Explosive devices were found near overhead power lines at two substations in Saxony’s Görlitz district, Germany, raising fears of further sabotage.
-‏
-‏On September 2, similar rocket-like devices were found damaging power lines at a substation in Brandenburg, about 50 km away, while another sabotage attack targeted a substation near Bergheim, close to Cologne. 
-‏
-‏Police are investigating.
-‏
-‏Source: BILD
-19:30
-1405/06/13
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ روسیه برای اولین بار، در جریان یکی از حملات موشکی تابستانی، از موشک جدید 9М723-2، که با نام "اسکندر-1000" شناخته می‌شود، علیه کی‌یف استفاده کرد. این موضوع توسط اداره اطلاعات مرکزی اوکراین اعلام شد.
@@ -2618,21 +2583,6 @@ src :@Middle_East_Spectator
 
 src :@rnintel
 ‏🇮🇷⚡️ — A missile launch was conducted from Isfahan, Iran, a few moments ago. It's likely an anti-ship ballistic missile targeting the Strait of Hormuz.
-19:27
-1405/06/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW:The Pentagon pulled its mandatory testosterone screening order just one day after issuing it. 
-‏
-‏The guidance, which would have required blood tests for all troops 30 and older, was removed from the website and reclassified as a "draft." 
-‏
-‏Medical experts had objected, saying there's insufficient evidence for mass screening of men without symptoms. 
-‏
-‏Source: Military
 19:27
 1405/06/13
 
@@ -3643,15 +3593,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇮🇷🔻منصات التتبع: ‏لم تُرصد أي سفينة اليوم تعبر مضيق هرمز عبر المسار "الآمن" للولايات المتحدة  ويمكن رؤية ثلاث سفن فقط، سبق أن تعرضت لهجوم إيراني مهجورة وراسية.
-17:53
-1405/06/13
-
-
-
-
 src :@MilitarryWorld
 ‏🔴وزیر خارجه عمان: از تلاش برای توافق درباره تنگه هرمز عقب‌نشینی نمی‌کنیم 
 ‏
@@ -3775,18 +3716,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 17:37
-1405/06/13
-
-
-
-
-src :@MilitarryWorld
-‏🔴روزنامه معاریو:
-‏
-‏جسد 15 تن از شبه‌نظامیان حزب‌الله را در تونل‌های علی الطاهر، جنوب لبنان کشف کردیم.
-‏
-‏@MilitarryWorld | Parsa
-17:33
 1405/06/13
 
 
@@ -5163,28 +5092,6 @@ src :@samueltarikh
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏The Wall Street Journal:
-‏
-‏The war between the United States and Iran is dashing hopes for an economic recovery in the Gulf in 2026, with a sharp decline in tourism, aviation, hotels, real estate and major events, amid expectations that the economy will remain weak through the end of the year.
-11:49
-1405/06/13
-
-
-
-
-src :@Alibk3
-[عکس]
-‏وول ستريت جورنال:
-‏
-‏الحرب بين الولايات المتحدة وإيران تبدد آمال التعافي الاقتصادي الخليجي في 2026، مع تراجع حاد في السياحة والطيران والفنادق والعقارات والفعاليات الكبرى، وسط توقعات باستمرار ضعف الاقتصاد حتى نهاية العام.
-11:48
-1405/06/13
-
-
-
-
 src :@defence_news
 [عکس]
 ‏بنا بر گزارش وبسایت خبری Jutarnji، کرواسی به دنبال خرید 18 دستگاه از سیستم راکت انداز چندگانه K239 کره جنوبی مجهز به سیستم کنترل و فرماندهی Topaz C2 ساخت لهستان است.ارزش این قرارداد در حدود 435 میلیون یورو است و بازه زمانی تکمیل آن تا 2029 در نظر گرفته شده. نکته جالب توجه اینجاست که کرواسی از کاربران سامانه هیمارس آمریکایی است اما در نهایت به جای خرید تعداد بیشتری از این سامانه به سراغ رقیب ساخت کره جنوبی رفته که البته قرار است با راکت اندازهای 122 میلیمتری ارتش این کشور نیز جایگزین شود. کره جنوبی به یکی از بازیگران اصلی بازار صادرات تسلیحات جهان تبدیل شده و این مسئله را مدیون بازاریابی فعال در یک دهه گذشته، ارائه محصولات با کیفیت در کنار قیمت مناسب و در نهایت تسریع در تحویلدهی و ارائه محصول در زمانی به مراتب کمتر از رقبا است. یکی از مهمترین دلایل موفقیت در صادرات تسلیحات از سوی کره جنوبی، بازه های زمانی کوتاه مدتی است که برای تحویل محصولات خود تعیین میکند.
@@ -6290,16 +6197,6 @@ src :@warmonitors
 
 
 
-src :@samueltarikh
-‏⭕️رویترز:
-‏
-‏پاکستان و قطر طی دو هفته گذشته دو بار از ترامپ خواسته‌اند بخشی از دارایی‌های مسدودشده ایران را برای کمک به کاهش تنش آزاد کند، اما ترامپ هر دو درخواست را رد کرده است
-23:04
-1405/06/12
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -6339,14 +6236,6 @@ src :@BellumActaNews
 ‏
 ‏Those to be released are 2 Syrians and 2 Lebanese - Ali Shour, Hussein Ayash, Asaad al-Khasikha, and Wissam Ibrahim al-Samawi.
 23:00
-1405/06/12
-
-
-
-
-src :@samueltarikh
-‏Samuel pinned a photo
-22:55
 1405/06/12
 
 
@@ -6407,14 +6296,4 @@ src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔰 همراه با ما در آسمان تاریخ و نظامی گری به پرواز درآیید تا در کنار هم افق های تازه ای در این عرصه را به نظاره بنشینیم! اتحادیه هما، مجموعه ای پیشرو از کانال های نظامی نویس/تحلیلی/تاریخی با ارائه جدیدترین اخبار از تحولات و رویدادهای منطقه و جهان در کنار معرفی و بررسی حوزه تسلیحات، ادوات و تاکتیک های نظامی و بررسی آینده پژوهانه این حوزه ها همراه با طرح مطالب تاریخی و عبرت آموز
 22:21
-1405/06/12
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇨🇳 US says China is willing to cooperate in pressure against the Iranians.
-‏
-‏@BRICSNews
-22:12
 1405/06/12
