@@ -35,18 +35,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏سازمان حقوق بشری کردپا و خبرگزاری رکنا از جان باختن نیلوفر مجاور، دختر ۲۷ ساله اهل پیرانشهر، که پس از فریب از سوی یک مرد به مدت ۱۰ روز، در مکانی نامشخص به‌شدت هدف خشونت، شکنجه و تجاوز جنسی و جسمی و محرومیت از آب و غذا قرار گرفته بود، خبر دادند.
-‏به گزارش کردپا، نیلوفر مجاور پس از گذشت ۱۰ روز دچار مرگ مغزی شد و پس از چند روز بستری شدن در بیمارستان، خانواده با اهدای دو کلیه او که تنها اعضای سالم باقی‌مانده بدنش بودند، موافقت کردند و او جانش را از دست داد.
-‏طبق گزارش کردپا، خانواده نیلوفر مجاور علیه فردی به نام عزت‌الدین سیدطاهری که از وضعیت آسیب‌پذیر نیلوفر سوءاستفاده کرده و به طرز هولناکی او را مورد شکنجه و تجاوز قرار داده بود، شکایت کرده‌اند؛ با این حال، این فرد هنوز بازداشت نشده است.
-‏سهیلا مهدی‌زاده، ‌خاله نیلوفر مجاور، در گفت‌وگو با کردپا ضمن اشاره به جنایت‌های صورت گرفته علیه خواهرزاده‌اش گفت پس از پرونده نیلوفر مشخص شد که عزت‌الدین سیدطاهری زنان بسیاری را این‌گونه فریب و آزار داده و حتی برخی گزرش‌های تایید نشده از شکنجه و قتل سه زن دیگر به دست این فرد خبر می‌دهد. این فرد تاکنون او بازداشت نشده و فراری است.
-02:50
-1405/06/14
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇮🇷🛢 – The New York Post claims Iran has only 2 months worth of fuel left in its reserves, due to a combination of the U.S. blockade and additional sanctions that have cut off Tehran from the resources needed to repair its energy infrastructure.
@@ -2905,16 +2893,6 @@ src :@Indypersian
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇷 🇴🇲 — Iran has reportedly launched several ballistic and/or anti-ship missiles towards the Strait of Hormuz.  The Global Eye | Subscribe ✈️
-20:58
-1405/06/13
-
-
-
-
-src :@intelslava
-‏Yakutia's government and Golden Asset Group signed an agreement to build a gold extraction plant with a 600,000-ton annual capacity at the Delankir deposit in Yakutia. The project involves 24.3 billion rubles ($280 million) in investment and will create 500 jobs.
-‏
-‏@IntelSlava
 20:58
 1405/06/13
 
