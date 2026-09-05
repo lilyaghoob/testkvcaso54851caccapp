@@ -1,3 +1,31 @@
+src :@rnintel
+[عکس]
+‏🇾🇪 - Situation update in the Ta'izz direction:   After nearly 24 hours of fighting, Ansarullah's offensive along the Ta'izz axis appears to have failed.  Ansarullah initially achieved tactical gains, capturing several positions around the Bani Bakari Heights…
+21:04
+1405/06/14
+
+
+
+
+src :@GeoPWatch
+‏🇨🇴❌🇨🇴 – An ELN drone strike killed at least three Colombian soldiers and injured another five in Ocaña, northern Santander.
+‏
+‏President Abelardo de la Espirella vowed a strong response to the attack.
+21:03
+1405/06/14
+
+
+
+
+src :@jangaavaran1390
+‏به نظر می‌رسد که مقامات نظامی ایران تصمیم گرفتند تا اراده ترامپ مبنی بر وعده‌اش در مورد هر حمله و زدن یک کشتی ایرانی را بیازمایند 
+‏و احتمالاً با پرتاب به سمت کشتی‌های آمریکا ایالات متحده تصمیم به حمله به مراکز پرتاب خواهد زد... ‌‌ بر طبق سنوات گذشته
+21:03
+1405/06/14
+
+
+
+
 src :@MilitarryWorld
 ‏🔴ترامپ:
 ‏
@@ -1699,14 +1727,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 18:40
-1405/06/14
-
-
-
-
-src :@jangaavaran1390
-‏پنتاگون در تحقیقی بی‌سابقه درباره کاهش ذخایر مهمات، حدود 50 مقام ارشد نظامی را تحت تست دروغسنجی قرار داد. این اقدام پس از گزارش‌هایی صورت گرفت که نشان می‌داد جنگ با ایران ذخایر موشک‌های رهگیر را به شدت کاهش داده است؛ از جمله ۸۰ درصد موشک‌های THAAD و حدود نیمی از موشک‌های پاتریوت.
-18:35
 1405/06/14
 
 
@@ -5079,17 +5099,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦 - 2 Hours after the Ceasefire went into effect, Russia is currently launching Ballistic Missiles to Dnipro.
-‏
-‏@GeoPWatch
-01:52
-1405/06/14
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇦 🇺🇸 🇷🇺 — Ukraine Orders Temporary Frontline Ceasefire as U.S. Envoys Prepare Moscow-Kyiv Talks
@@ -5544,15 +5553,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@rnintel
-[عکس]
-‏🇷🇺🇺🇦⚡️- A Russian drone hit the SBU's headquarters in Kyiv today for the first time since 2022. According to local outlets, the SBU acting head's office was specifically targeted.
-21:28
-1405/06/13
-
-
-
-
 src :@samueltarikh
 ‏🔴قرارگاه خاتم الانبیا: 
 ‏
@@ -5592,21 +5592,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 21:07
-1405/06/13
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏روسیه سامانه مقابله با استارلینک را به تولید انبوه رساند
-‏
-‏تولید انبوه سامانه پیشرفته جنگ الکترونیک ویژه مقابله با اینترنت ماهواره‌ای استارلینک در روسیه آغاز شد. 
-‏
-‏ویژگی برجسته سامانه مذکور که والنا‌کوپول‌گارانت نام دارد، توانایی مختل‌کردن عملکرد ماهواره‌های استارلینک در مدار زمین با استفاده از سیگنال‌های رادیویی متمرکز و پرقدرت است که بدون تاثیرگذاری بر ترمینال‌های زمینی، سامانه داخلی ماهواره‌ها را دچار فروپاشی کرده و خدمات‌رسانی به پهپادها و ادوات هدایت‌شونده اوکراینی را قطع می‌کند. 
-‏
-‏قدرت عملیاتی این سامانه به‌گونه‌ای است که هر دستگاه می‌تواند منطقه وسیعی را پوشش داده و با استقرار چندین دستگاه، امکان اختلال در عملکرد شبکه‌ای استارلینک در یک منطقه کامل فراهم می‌شود. 
-‏
-‏@rus_cosmos
-21:02
 1405/06/13
