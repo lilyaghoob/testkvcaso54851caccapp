@@ -1,3 +1,14 @@
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇮🇷 🇺🇸 — Iran's Tasnim reports a U.S. missile strike on an Iranian oil tanker six miles off Kharg Island this morning. No casualties; crew evacuating. Damage assessment ongoing.
+‏
+‏The Global Eye | Subscribe ✈️
+12:13
+1405/06/14
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏رسانه‌های داخلی ایران از حمله به یک نفتکش ایرانی در نزدیکی جزیره خارک خبر داده‌اند. براساس این گزارش‌ها، عملیات تخلیه نفتکش پس از حمله آغاز شده و نیروهای امدادی در حال بررسی وضعیت شناور هستند.
@@ -3476,19 +3487,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏The UN General Assembly has voted to promote a new world map that more accurately represents the size of continents, especially Africa.
-‏
-‏The resolution, backed by 164 countries, supports replacing the widely used Mercator projection, which makes Africa appear much smaller than it is. 
-‏
-‏Source: BBC
-23:28
-1405/06/13
-
-
-
-
 src :@mwarmonitor
 ‏🚨شنیده شدن صدای انفجار در سیریک
 23:27
@@ -4175,14 +4173,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe ✈️
 20:48
-1405/06/13
-
-
-
-
-src :@naya_foriraq
-‏🇷🇺طائرة روسية مسيرة تشن غارات على مقر جهاز الأمن الأوكراني (SBU) في كييف.
-20:47
 1405/06/13
 
 
