@@ -1,3 +1,11 @@
+src :@WAR_ROOM_NEWS
+‏اگر خواستید کیفیت یک عقیده را بسنجید، نگاه کنید که پیروان آن عقیده چه خدمتی به جامعه بشری ارائه کرده اند...
+13:42
+1405/06/14
+
+
+
+
 src :@samueltarikh
 ‏⭕️خبرنگار صداوسیما تو لبنان:
 ‏
@@ -312,10 +320,9 @@ src :@IranintlTV
 ‏
 ‏بر اساس گزارش‌های رسیده، این جوان معترض به صورت ماهانه و بدون اطلاع اطرافیان و خانواده‌اش، مبالغی را برای کمک به تامین هزینه‌های سنگین دارو و شیمی‌درمانی کودکان نیازمند به حساب نهادهای حمایتی واریز می‌کرده است.
 ‏
-‏این اقدام انسان‌دوستانه چندین ماه پس از کشته‌شدن این جوان و به تازگی برای خانواده‌اش روشن شده است. خانواده میراییز تا پیش از این تماس، به هیچ‌وجه از کمک‌های مالی مستمر پسرشان به کودکان بیمار اطلاعی نداشتند.
+‏این اقدام انسان‌دوستانه چندین ماه پس از کشته‌شدن این جوان و به تازگی برای خانواده‌اش روشن شده است. خانواده میراییز تا چند روز اخیر، به هیچ‌وجه از کمک‌های مالی مستمر پسرشان به کودکان بیمار اطلاعی نداشتند.
 ‏
-‏جاویدنام ابوالفضل میراییز، جوان اهل گرگان، در شامگاه ۱۸ دی‌ماه با شلیک مستقیم نیروهای حکومتی به سر و پایش جان باخت. 
-‏https://iranintl.com/202609051607
+‏جاویدنام ابوالفضل میراییز، جوان اهل گرگان، در شامگاه ۱۸ دی‌ماه با شلیک مستقیم نیروهای حکومتی به سر و پایش جان باخت.
 13:08
 1405/06/14
 
@@ -1708,21 +1715,6 @@ src :@mwarmonitor
 
 
 
-src :@ClashReport
-[عکس]
-‏The U.S. used access to advanced Nvidia AI chips as an incentive to help secure a preliminary Armenia-Azerbaijan peace deal.
-‏
-‏Washington offered Armenia export approvals for tens of thousands of Nvidia processors tied to the $5 billion Firebird data-center project, giving Prime Minister Pashinyan a major economic benefit he could point to as a “peace dividend.”
-‏
-‏The move is a notable example of the Trump administration’s “chip diplomacy”—using access to scarce U.S. AI technology to advance foreign-policy goals.
-‏
-‏Source: WSJ
-10:49
-1405/06/14
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴محسنی اژه‌ای، رئیس قوه قضاییه در اجلاس بریکس:
@@ -2907,14 +2899,6 @@ src :@wfwitness
 
 
 
-src :@jangaavaran1390
-‏به گزارش واپو، سفر نادر جان راتکلیف، رئیس سازمان سیا، به مسکو نتوانست ولادیمیر پوتین را به کاهش تنش در جنگ اوکراین متقاعد کند و در عوض، ممکن است عزم رئیس جمهور روسیه را برای دستیابی به پیروزی نظامی تقویت کرده باشد.
-06:38
-1405/06/14
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸Reuters: The Trump Administration is considering candidates to replace Deputy Secretary of War Feinberg, with reviews of candidates beginning in June. 
@@ -3884,17 +3868,6 @@ src :@GeoPWatch
 src :@naya_foriraq
 ‏🇮🇱🔻جيش الاحتلال يدعي اعتراض مسيّرة أطلقها حزب الله باتجاههم في جنوب لبنان.
 23:41
-1405/06/13
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏کوه استراتژیک شیخ سعید واقع در شهرستان جبل حبشی، استان تعز، تحت کنترل نیروهای یمنی قرار گرفته است. بدین ترتیب، تسخیر کامل تمامی مواضع، روستاها و رشته‌کوه‌های منطقه قهبان به پایان رسید. این منطقه که بر منطقه الطویر اشراف دارد، در مجاورت الکدحه و شهرستان الوازعیه قرار می‌گیرد.
-‏
-‏
-‏قابل رد یا تائید نیست
-23:37
 1405/06/13
 
 
