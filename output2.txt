@@ -1,3 +1,33 @@
+src :@MilitarryWorld
+‏🔴فوری/سپاه پاسداران از حمله موشکی به یک ناو هواپیمابر و یک ناوشکن آمریکایی با موفقیت کامل و فرار این دو ناو از ترس خبر داد
+‏
+‏@MilitarryWorld | Parsa
+02:02
+1405/06/15
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇷⚡️- Iran says it has targeted a U.S. aircraft carrier and destroyer with ballistic missiles, claiming both were struck and forced to flee.
+01:59
+1405/06/15
+
+
+
+
+src :@tabzlive
+‏🇮🇷❌🇺🇸 — NEW: Iran's IRGC says its Aerospace Force targeted a U.S. aircraft carrier and destroyer with several ballistic missiles, claiming both vessels were "damaged" and "forced to flee the area of engagement." 
+‏
+‏It warned that continued U.S. military actions would bring “devastating responses” from Iran’s Armed Forces.
+‏
+‏This attack is the one that prompted CENTCOM to strike three Iranian tankers on Saturday.
+01:57
+1405/06/15
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️فاطمه عزیزخانی، پژوهشگر ارشد دفتر اقتصادی مرکز پژوهش‌های مجلس، همزمان با جهش نرخ دلار تا مرز ۲۳۰ هزار تومان، با هشدار درباره ورود معیشت مردم به یک «چرخه فرساینده»، اعلام کرد: «بر اساس آمار و بررسی‌های مرکز پژوهش‌های مجلس، خط فقر در سال ۱۴۰۵ برای کل کشور حدود ۳۲ میلیون تومان و برای شهر تهران رقم تکان‌دهنده ۶۲.۵ میلیون تومان برآورد شده است.» او با تاکید بر اینکه خط فقر سرانه به ۸ میلیون و ۶۰۰ هزار تومان رسیده است، هشدار داد که به دلیل کاهش رشد اقتصادی و تعطیلی بنگاه‌ها، «خانوارهای شاغل نیز به‌تدریج به زیر خط فقر سقوط می‌کنند» و افزود: «خطر اصلی، ترکیب تورم و بیکاری است؛ چراکه با فاصله گرفتن دستمزدها از هزینه زندگی، خانوارها برای بقا ناچار به حذف تدریجی تفریح، پس‌انداز، آموزش، درمان، کیفیت تغذیه و در نهایت حتی اقلام پایه غذایی شده‌اند.» عزیزخانی با اشاره به اینکه حذف هزینه‌های اساسی به افت بهره‌وری، تشدید نابرابری و فرسایش شدید سرمایه انسانی می‌انجامد، تاکید کرد که ادامه این روند فرسایشی، طبقات کم‌درآمد و حقوق‌بگیر را در برابر شدیدترین آسیب‌های اجتماعی و معیشتی کاملا بی‌پناه کرده است.
@@ -12,9 +42,7 @@ src :@Indypersian
 
 
 src :@Ali_bk_2
-‏The IRGC:
-‏
-‏The IRGC Aerospace Force announced that it targeted a US aircraft carrier and a US Navy destroyer with several ballistic missiles.
+‏The IRGC announced that it targeted a US aircraft carrier and a US Navy destroyer with several ballistic missiles.
 ‏
 ‏The two ships were damaged and forced to leave the area of operations for fear of being subjected to another attack.
 01:56
@@ -24,9 +52,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏اللحرس الثوري الإسلامي:
-‏
-‏أعلنت القوة الجوفضائية التابعة للحرس الثوري الإيراني أنها استهدفت بعدة صواريخ بالستية حاملة طائرات ومدمّرة تابعتين للجيش الأميركي.
+‏الحرس الثوري يعلن استهداف بعدة صواريخ بالستية حاملة طائرات ومدمّرة تابعتين للجيش الأميركي.
 ‏
 ‏السفينتين تعرضتا لأضرار واضطرتا إلى مغادرة منطقة الاشتباك خشية تعرضهما لهجوم آخر.
 01:55
@@ -36,8 +62,7 @@ src :@Alibk3
 
 
 src :@naya_foriraq
-‏الحرس الثوري:
-‏
+‏🔻الحرس الثوري:
 ‏شنّت القوات الجوية التابعة للحرس الثوري الإسلامي هجومًا بصواريخ باليستية متعددة على حاملة طائرات ومدمرة تابعتين للجيش الأمريكي المعتدي، الذي كان يضايق السفن الإيرانية ويشارك في الحصار البحري.
 ‏
 ‏اضطرت هاتان السفينتان الحربيتان إلى مغادرة منطقة النزاع بعد تعرضهما لأضرار وخشية هجوم جديد.
@@ -1645,19 +1670,6 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏پیشروی نیروهای حوثی در منطقه الکَدحه و کسب تسلط کامل بر آن، منجر به قطع دائمی مسیر ارتباطی میان شهرهای تعز و المخا شده است. از سوی دیگر، پیشروی در منطقه البَرح و سقوط اردوگاه خالد و کوه‌های آتش، شهر المخا را در معرض تهدید مستقیم قرار خواهد داد. هم‌زمان، پیشروی نیروهای همسو با امارات به سمت منطقه الجراحی، امکان ایجاد شکافی را فراهم می‌آورد که از طریق آن نیروهای حوثی قادر خواهند بود به سمت مناطق حَیس و الخوخه پیشروی نموده و نیروهای نفوذکرده را محاصره کنند.
 22:43
-1405/06/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🪖🇷🇺⚡️ — U.S. Ambassador to NATO Matthew Whitaker said alliance members should not tolerate deliberate acts of “hybrid war” and pledged that the U.S. would stand by allies confronting such incidents.
-‏
-‏Whitaker described last month’s attempted drone attack at Germany’s Leipzig/Halle Airport, which Berlin blamed on Russia, as particularly concerning.
-‏
-‏“If we can identify who’s doing it — which Germany did — we make sure we express strongly that is unacceptable and we will not tolerate it,” Whitaker said, adding that NATO countries should remain vigilant and strengthen protection of critical infrastructure, including energy facilities.
-22:42
 1405/06/14
 
 
