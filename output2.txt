@@ -1,3 +1,22 @@
+src :@selena_updates
+[عکس]
+‏During a press conference with the President of Lebanon, the Prime Minister of Greece, Kyriakos Mitsotakis, stated: 
+‏
+‏Israel is a strategic partner of our country, and we have cooperation in the areas of defense, economics, and politics.
+00:05
+1405/06/15
+
+
+
+
+src :@Artemis_Force
+‏https://t.me/taskforceads/5
+00:04
+1405/06/15
+
+
+
+
 src :@Mena_Live
 [عکس]
 ‏🇾🇪⚡- Yemeni pro-PLC sources state Ansarullah have established a checkpoint at the Sherajah checkpoint, al-Kudnah area, southwest Ta'izz. The reports confirm Ansarullah advances in the area.
@@ -93,10 +112,14 @@ src :@jangaavaran1390
 
 src :@VahidOnline
 [عکس]
-‏به گزارش خبرگزاری تسنیم نیروی دریایی سپاه پاسداران انقلاب اسلامی روز شنبه در بیانیه‌ای اعلام کرد که سه نفتکش را که از «مسیرهای غیرمجاز در تنگه هرمز عبور می‌کردند، و همچنین سه شناور دیگر آمریکایی را در مناطق دیگر هدف قرار داده است.»
+‏نیروی دریایی سپاه پاسداران، شامگاه شنبه ۱۴ شهریور ماه با انتشار بیانیه‌ای اعلام کرد سه شناور «در مسیرهای غیرمجاز عبوری از تنگه هرمز» را هدف قرار داده است. 
+‏این اظهارات پس از آن مطرح شد که سنتکام، فرماندهی مرکزی آمریکا، از حمله به سه نفتکش ایرانی در خلیج فارس و دریای عمان خبر داد.
 ‏
-‏ نیروی دریایی سپاه در این بیانیه به هدف قرار گرفتن سه نفتکش ایرانی توسط نیروهای آمریکایی در صبح امروز اشاره کرده و گفته است که این حملات خساراتی به‌بار آورده است.
-‏@VahidOnLive
+‏در پی این بیانیه، خبرگزاری تسنیم نیز تصاویری مربوط به همین حملات را منتشر کرد.
+‏@VahidOOnLine
+‏علی محمدی، معاون سیاسی نیروی دریایی سپاه، روز شنبه در گفتگو با خبرگزاری فارس، گفت: «در ۱۰ روز منتهی به هشتم شهریور، نیروی دریایی سپاه هر شب بین ۲ تا ۵ شناور متخلف را تنبیه و مجازات کرده و پس از آن نیز هرگاه اراده کرده با کشتی‌های متخلف برخورد کرده است.» 
+‏او گفت:‌ «حملات آمریکا کوچک‌ترین خللی در اشراف و تحمیل اراده نیروی دریایی سپاه بر این منطقه ایجاد نکرده است.»
+‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
 23:58
@@ -186,7 +209,7 @@ src :@P_raetorio
 
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇸🇦/🇾🇪 NEW: Ansarallah (the Houthis) have taken control of the strategic heights of Al-Kadaha, cutting off the connection between Taizz and Yemen’s western coast  Ansarallah is attempting to gain control over Jabal Habashi, which would give it fire control…
+‏—❗️🇸🇦/🇾🇪 NEW: Ansarallah (the Houthis) have taken control of the strategic heights of Al-Kudhah, cutting off the connection between Taizz and Yemen’s western coast  Ansarallah is attempting to gain control over Jabal Habashi, which would give it fire control…
 23:51
 1405/06/14
 
@@ -204,7 +227,7 @@ src :@tabzlive
 
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇸🇦/🇾🇪 NEW: Ansarallah (the Houthis) have taken control of the strategic heights of Al-Kadaha, cutting off the connection between Taizz and Yemen’s western coast
+‏—❗️🇸🇦/🇾🇪 NEW: Ansarallah (the Houthis) have taken control of the strategic heights of Al-Kudhah, cutting off the connection between Taizz and Yemen’s western coast
 ‏
 ‏Ansarallah is attempting to gain control over Jabal Habashi, which would give it fire control over all remaining roads into Taiz.
 ‏
@@ -1973,21 +1996,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 21:15
-1405/06/14
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧⚡️ — The IDF is preparing for a significant reduction of its forces in southern Lebanon following the destruction of tunnels along the Ali Taher Ridge, Kan News reports.
-‏
-‏Under a plan being discussed by Israel’s defense establishment, troops would withdraw from the current "security zone" in some areas, including positions north of the Litani such as Beaufort, and redeploy closer to the Israeli border. 
-‏
-‏The proposed deployment, dubbed the “gray line,” would consist of IDF outposts roughly three to four kilometers inside Lebanese territory.
-‏
-‏The plan has not yet been finalized or approved by Israel’s political leadership.
-21:14
 1405/06/14
 
 
@@ -5114,26 +5122,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 12:03
-1405/06/14
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ژاپن؛ تبدیل ناوهای بازنشسته به ابزار دیپلماسی دفاعی
-‏
-‏ژاپن در حال استفاده از یک ابزار جدید برای گسترش نفوذ امنیتی خود در آسیاست؛ واگذاری تجهیزات و شناورهای نظامی بازنشسته به کشورهای دوست.
-‏
-‏توکیو به‌جای آنکه برخی شناورهای قدیمی خود را صرفاً از رده خارج و اسقاط کند، می‌تواند آنها را در قالب همکاری‌های دفاعی در اختیار شرکای منطقه‌ای قرار دهد؛ اقدامی که علاوه بر کاهش هزینه‌های نگهداری، به افزایش توان دریایی کشورهای شریک و تقویت روابط امنیتی ژاپن با آنها کمک می‌کند.
-‏
-‏این سیاست بخشی از تغییر بزرگ‌تر در رویکرد دفاعی ژاپن است. توکیو در سال‌های اخیر محدودیت‌های صادرات تجهیزات دفاعی را کاهش داده و تلاش می‌کند از صنعت دفاعی و توان نظامی خود به‌عنوان ابزاری برای تقویت ائتلاف‌ها و مقابله با افزایش قدرت نظامی چین استفاده کند.
-‏
-‏در واقع، یک ناو بازنشسته برای ژاپن فقط یک قطعه تجهیزات قدیمی نیست؛ می‌تواند به ابزاری برای ایجاد وابستگی آموزشی، فنی و لجستیکی و در نهایت گسترش نفوذ راهبردی ژاپن در منطقه هند-آرام تبدیل شود.
-‏
-‏#ژاپن #چین #نیروی_دریایی #کشتی_جنگی #دیپلماسی_دفاعی #هند_آرام #جنگاوران
-‏https://t.me/jangaavaran1390
-11:31
 1405/06/14
 
 
