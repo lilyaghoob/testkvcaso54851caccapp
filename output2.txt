@@ -1,3 +1,45 @@
+src :@ClashReport
+[عکس]
+‏Egyptian television presenter Sarah Khalifa has been sentenced to death by hanging in Egypt over a major drug case.
+‏
+‏She and 11 others were convicted of forming an organized criminal gang to manufacture and traffic synthetic drugs, allegedly using imported materials. 
+‏
+‏Authorities seized more than 750kg of narcotics and raw materials, as well as firearms and ammunition.
+‏
+‏Source: The Guardian
+22:26
+1405/06/14
+
+
+
+
+src :@Ali_bk_2
+‏Enemy media:  A Border Police (Magav) soldier was killed in Netanya.
+22:24
+1405/06/14
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 جرد کوشنر و استیو ویتکاف در دیدار با پوتین در کاخ کرملین
+‏
+‏🆔 @Americana_ir
+22:24
+1405/06/14
+
+
+
+
+src :@Alibk3
+‏إعلام العدو:  مقتل جندي من وحدة "المجر" (حرس الحدود) في نتانيا.
+22:24
+1405/06/14
+
+
+
+
 src :@Ali_bk_2
 ‏Scenes from occupied Netanya.  Apparently a soldier suffering from PTSD.
 22:22
@@ -3454,24 +3496,6 @@ src :@samueltarikh
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏US Central Command claims responsibility for the attack on Iranian oil tankers.
-17:11
-1405/06/14
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القيادة المركزية الأميركية تتبنى الهجوم على ناقلات نفط إيرانية
-17:11
-1405/06/14
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏قیمت دلار در بازار آزاد ایران روز شنبه ۱۴ شهریور با جهشی دیگر به ۲۲۸ هزار تومان رسید و بهای یورو نیز از ۲۶۳ هزار تومان عبور کرد.
@@ -3689,19 +3713,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 Israeli detonation targets the town of Al Mansouri for the ninth time today.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 16:55
-1405/06/14
-
-
-
-
-src :@ClashReport
-[عکس]
-‏For the first time in decades, NATO allies held submarine-hunting drills off Iceland without U.S. ships or aircraft, as European and Canadian forces took the lead in defending the North Atlantic.
-‏
-‏The exercise focused on the GIUK Gap, a key route for Russian nuclear-powered submarines entering the Atlantic, amid growing concerns over Russia and the U.S. pullback from Europe.
-‏
-‏Source: POLITICO
-16:47
 1405/06/14
 
 
@@ -5754,15 +5765,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:27
-1405/06/13
-
-
-
-
-src :@cataphract1
-‏⚜ ترامپ:
-‏ممکن است خیلی زود به کوه کلنگ حمله کنیم 
-‏
-‏📃@Cataphract1
-22:25
 1405/06/13
