@@ -1,8 +1,21 @@
+src :@OSINTWarfare
+[عکس]
+‏Boeing has delivered the 22nd F-15EX to the U.S. Air Force. It will be the first F-15EX stationed at Kadena Air Base in Japan.
+‏
+‏The United States plans to deploy 48–72 F-15EXs to Japan. This aircraft is part of the initial EX order, while Boeing plans to increase production to 48 aircraft per year to meet both U.S. and foreign demand. The U.S. Air Force has ordered approximately 300 F-15EXs.
+04:20
+1405/06/14
+
+
+
+
 src :@intelslava
 [عکس]
 ‏The US Department of State has approved the possible sale of tank engines, bombs, precision guidance kits, and other systems to Saudi Arabia for a total of around $5.75 bln, according to a statement on its website.
 ‏
 ‏Saudi Arabian authorities have requested permission from the United States to purchase over 5,000 BLU-111 bombs, 5,000 BLU-117 bombs, about 10,000 Joint Direct Attack Munition (JDAM) guidance kits, and other equipment and support, according to the document.
+‏
+‏@IntelSlava
 04:14
 1405/06/14
 
@@ -679,15 +692,6 @@ src :@Indypersian
 ‏♦️رجب طیب اردوغان، رئیس‌جمهوری ترکیه، در گفتگوی تلفنی با شیخ محمد بن زاید آل نهیان، رئیس دولت امارات متحده عربی، با اشاره به تحولات خاورمیانه تأکید کرد که آنکارا «برای پایان یافتن تنش میان ایران و آمریکا و روندهای درگیری مشابه در منطقه تلاش می‌کند، ابتکارات دیپلماتیک صلح‌محور خود را ادامه خواهد داد و حملات علیه کشورهای برادر در منطقه را هرگز نمی‌پذیرد و تایید نمی‌کند.» بر اساس بیانیه مرکز ارتباطات ریاست‌جمهوری ترکیه، اردوغان در این تماس همچنین تصریح کرد که همکاری‌های دوجانبه میان ترکیه و امارات به‌ویژه در حوزه‌های صنایع دفاعی و اقتصادی با شتاب بیشتری ادامه خواهد داشت و دو کشور برای توسعه روابط مشترک و هماهنگی در سایر مسائل منطقه‌ای و بین‌المللی مصمم هستند.
 ‏@indypersian
 00:51
-1405/06/14
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇺🇸🇶🇦 Iranian Minister of Foreign Affairs Spokesperson, Esmaeil Baqaei, reiterating that Iran only strikes military targets, citing a document released by the Qatari government:  "The Qatari government has confirmed, in an official document submitted to…
-00:49
 1405/06/14
 
 
@@ -1644,14 +1648,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Scenes from Mayfadoun, southern Lebanon, following the Israeli strike.
-23:20
-1405/06/13
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇮🇷⚡️ — Trump says the Strait of Hormuz could eventually become unnecessary as new pipelines and alternative oil routes reduce reliance on the key waterway.
 ‏
@@ -1669,32 +1665,6 @@ src :@jangaavaran1390
 ‏
 ‏این محموله‌ها شامل فروش تخمینی ۵ میلیارد دلاری کیت بمب هدایت ماهواره جیدم نسخه er است که شرکت بوئینگ پیمانکار اصلی آن خواهد بود، و همچنین فروش جداگانه‌ای به ارزش ۷۵۰ میلیون دلار از موتورهای تانک ابرامز از نوع  AGT-1500 است که شرکت هانی‌ول پیمانکار اصلی آن خواهد بود.
 23:17
-1405/06/13
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇸🇦⚡️ — The U.S. State Department has approved two potential arms sales to Saudi Arabia worth a combined $5.75 billion.
-‏
-‏The packages include an estimated $5 billion sale of extended-range Joint Direct Attack Munitions (JDAM-ER), with Boeing as the principal contractor, and a separate $750 million sale of AGT-1500 tank engines, with Honeywell as the main contractor.
-23:15
-1405/06/13
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇳⚡️ — The U.S. and China are preparing for their first official bilateral talks focused exclusively on artificial intelligence since President Trump returned to office, with discussions expected in mid-September, Reuters reports.
-‏
-‏U.S. Treasury Secretary Scott Bessent is expected to lead the American delegation, while China could be represented by Vice Premier He Lifeng or senior official Ding Xuexiang.
-‏
-‏Washington wants to discuss cooperation on monitoring AI-driven cyberattacks and has floated a proposal for American and Chinese AI labs to share information and police themselves to reduce cyber risks. 
-‏
-‏The agenda and participants have not yet been finalized, while former Microsoft executive Craig Mundie has been acting as an intermediary between the two sides ahead of the dialogue.
-23:13
 1405/06/13
 
 
@@ -2752,34 +2722,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏نفت برنت
 21:13
-1405/06/13
-
-
-
-
-src :@Indypersian
-‏⭕️ محققان توانستند با ترکیب دو نوع سلول بنیادی به ترمیم قرنیه و بهبود بینایی کمک کنند
-‏
-‏
-‏📌در این آزمایش انسانی اولیه، پژوهشگران روشی تازه را برای درمان آسیب‌های شدید قرنیه بررسی کردند که نتایج آن پس از چند ماه، بهبود وضعیت سطح چشم و بینایی بیماران را نشان داد
-‏
-‏
-‏♦️کراتوپاتی مرتبط با آنیریدیا (ARK) از آن دسته بیماری‌هایی پیش‌رونده و مهارنشدنی است که چشم‌پزشکان را با دشواری جدی روبه‌رو می‌کند. جهش در ژن پکس۶ (PAX6) عملکرد سلول‌های بنیادی لیمبال را که وظیفه حفظ شفافیت قرنیه را بر عهده دارند، مختل می‌کند و در نتیجه، بافت ملتحمه به‌آرامی به قرنیه پیشروی می‌کند و آن را مانند یخی که کم‌کم سطح پنجره را می‌پوشاند، کدر می‌کند.
-‏
-‏پیوند معمول قرنیه هم قادر به رفع این مشکل نیست، زیرا تنها سطح قرنیه را ترمیم می‌کند و نمی‌تواند اختلال زمینه‌ای در تامین سلول‌های بنیادی را برطرف کنند. پیامد این وضعیت برای مبتلایان، کاهش پیش‌رونده بینایی در هر دو چشم است، در حالی که گزینه‌های درمانی موثر چندانی در دست نیست، با این حال به‌ گزارش گجت‌ریویو، اکنون پژوهشگران بیمارستان چشم مورفیلدز و کالج دانشگاهی لندن (UCL) این معادله را تغییر داده‌اند.
-‏
-‏در روش جدید که «آر‌ای‌اف‌تی‌ــ‌او‌اس» (RAFT-OS) نام دارد، با انتقال هم‌زمان دو نوع متمایز سلول بنیادی، هم سطح قرنیه و هم لایه‌های ساختاری آن را  که پیوندهای متداول قادر به ترمیم کامل آن‌ها نیستند، هدف قرار می‌گیرند.
-‏
-‏آر‌ای‌اف‌تی‌ــ‌او‌اس مخفف عبارت (Real Architecture for 3D Tissues–Ocular Surface) نوعی داربست کلاژنی مهندسی‌شده برای بازسازی سطح چشم است که دو نوع سلول بنیادی اهداکننده روی آن کشت داده شده‌اند: سلول‌های اپی‌تلیال لیمبال، یعنی لایه مسئول نوسازی سطح، برای بازسازی سطح قرنیه و کراتوسیت‌های استروما، یعنی سلول‌های پشتیبان ساختاری، برای تثبیت بافت‌های عمقی‌تر.
-‏
-‏این روش را می‌توان به بازسازی ساختمانی تشبیه کرد که طی آن، هم نمای بیرونی و هم دیوارهای باربر بنا هم‌زمان تعویض می‌شوند، نه اینکه صرفا روی بخش‌های آسیب‌دیده رنگ تازه‌ای زده شود.
-‏
-‏
-‏
-‏بیشتر بخوانید...
-‏
-‏@indypersian
-21:10
 1405/06/13
 
 
