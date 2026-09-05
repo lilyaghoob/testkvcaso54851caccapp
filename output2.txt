@@ -1076,22 +1076,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-‏Zelensky:
-‏
-‏It is clear that these Russian strikes on airports are a reaction to discussions and preparations regarding the possibility of the American side using an aircraft to arrive in Ukraine and land at either "Kyiv" or "Boryspil" airport. 
-‏
-‏These Russian-Iranian "Shahed" drones are a response to American diplomacy. 
-‏
-‏We have recorded this Russian move and will adjust our operations regarding Russian airspace next week, as it has become dangerous due to the presence of drones and missiles in the sky. 
-‏
-‏Of course, there are and will be no threats to diplomacy from our side.
-12:33
-1405/06/14
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇷🇺 US delegation arrives in Russia.
 ‏
@@ -1147,21 +1131,6 @@ src :@tglobaleye
 ‏Israeli Diaspora Minister Chikli and Dodik attended the event. Dodik linked the office to $2 billion in joint projects. This partnership intensified after October 2023, with Dodik calling RS "the Israel of the Balkans" and receiving a Knesset award in January 2026. RS has maintained a representative office in Jerusalem since 1998. The relationship accelerated after the US lifted sanctions on Dodik in October 2025.
 ‏
 ‏The Global Eye | Subscribe ✈️
-12:30
-1405/06/14
-
-
-
-
-src :@ClashReport
-[ویدئو]
-‏NEW: Russia hit near both Kyiv airports as Witkoff and Kushner were reportedly about to fly in from Moscow. 
-‏
-‏A drone hit two old Soviet planes at Zhulyany, the in-city airport. 
-‏
-‏A Ukrainian MP said the envoys had been close to agreeing to land at Boryspil but would likely take a train instead. 
-‏
-‏The envoys landed in Moscow on September 5 and are still expected in Kyiv tomorrow.
 12:30
 1405/06/14
 
@@ -3266,17 +3235,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — U.S. government investigators subjected around 50 members of the military’s Joint Staff to polygraph examinations in August as part of an investigation into leaks of classified information to journalists, according to NYT.
-‏
-‏Military officers and civilian employees were questioned about whether they had disclosed classified material to the media, including information about dwindling U.S. munitions stockpiles amid the war with Iran.
-04:40
-1405/06/14
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 50 members of the US Joint Chiefs of Staff are under investigation for leaking information about Iran war to the press.
 ‏
@@ -4291,15 +4249,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:16
-1405/06/13
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🔻حشدُ الله.. حُماةُ الأرض، حُماةُ العراق.
-22:07
 1405/06/13
 
 
