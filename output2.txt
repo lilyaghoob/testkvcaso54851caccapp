@@ -3235,21 +3235,6 @@ src :@mamlekate
 
 
 
-src :@intelslava
-[عکس]
-‏🇪🇸🇲🇦⚡️ — Illegal immigrants arm themselves with knives and homemade tools to attack the Police and the Army.
-‏
-‏Tension in the autonomous city has reached a critical limit after a radical increase in violence in the settlements was confirmed. According to reports gathered by the State Security Forces and police sources, the deployed personnel are facing a daily scenario of harassment where numerous Moroccans not only habitually carry bladed weapons, but have also begun to manufacture and adapt their own harmful tools, such as knives, saws, and sharp objects.
-‏
-‏This situation poses a serious risk to the integrity of the officers and soldiers who safeguard order in the face of uncontrolled migratory pressure.
-‏
-‏@IntelSlava
-15:06
-1405/06/14
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏القوات الامنية العراقية تلقي القبض على غسان الجميلي شقيق عدنان الجميلي المدان بقضايا فساد
@@ -5727,16 +5712,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 20:29
-1405/06/13
-
-
-
-
-src :@Middle_East_Spectator
-‏❗️🇺🇸/🇮🇷 Cruise missiles towards U.S. Navy vessels in the Gulf of Oman
-‏
-‏Likely to suppress the carrier strike group from launching a counterattack.
-‏
-‏@Middle_East_Spectator
-20:26
 1405/06/13
