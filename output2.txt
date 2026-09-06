@@ -1,3 +1,84 @@
+src :@Ali_bk_2
+[عکس]
+‏A U.S. aircraft crashes at Miami Airport.
+22:02
+1405/06/15
+
+
+
+
+src :@Alibk3
+[عکس]
+‏تحطم طائرة أميركية في مطار ميامي
+22:02
+1405/06/15
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏صدای انفجار قبل از شلیک موشک‌های سوخت جامد؛ واقعاً چه اتفاقی می‌افتد؟
+‏
+‏
+‏@P_raetorio
+22:00
+1405/06/15
+
+
+
+
+src :@guard_warriors
+‏بر اساس اعلام رسمی دولت، از ساعت ۰۰:۰۰ بامداد سه‌شنبه ۱۷ شهریور، قیمت نرخ سوم بنزین (کارت جایگاه) به ۱۰ هزار تومان تغییر خواهد کرد.   @Guard_Warriors
+22:00
+1405/06/15
+
+
+
+
+src :@MilitarryWorld
+‏🔴زیلنسکی به ویتکاف:
+‏
+‏تو برامون از موشکای پاتریوت مهم تری
+‏
+‏@MilitarryWorld | Parsa
+22:00
+1405/06/15
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇩🇪 The AfD is .1% of votes away from obtaining a majority in the Saxony-Anhalt parliament.
+21:59
+1405/06/15
+
+
+
+
+src :@cataphract1
+[عکس]
+‏واللا چی بگم 😐
+21:58
+1405/06/15
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏⚡️🇻🇦🇺🇦🇷🇺 – Pope Leo XIV has called for peace in Ukraine as U.S. envoys Witkoff and Kushner prepare to visit Kyiv to restart peace negotiations with Moscow.
+‏
+‏He specifically said his heart is with those who have "lived in anguish and fear for years" in Ukraine.
+‏
+‏@GeoPWatch
+21:58
+1405/06/15
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏وضعیت جسمی ترانه رحیمی، زندانی محکوم به اعدام در اصفهان، وخیم گزارش شده و او با مشکلات جدی حرکتی روبه‌رو است؛ به‌طوری که بخش زیادی از توان راه رفتن خود را از دست داده است. 
@@ -2526,16 +2607,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | یک‌شنبه ۱۵ شهریور
-‏@iranintlTV
-19:03
-1405/06/15
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏♦️بر اساس تصاویر ماهواره‌ای جدید، احتمال وارد شدن خسارت به یک ساختمان یا انبار در محدوده اسکان نیروها در پایگاه هوایی علی السالم کویت مطرح شده است؛ این سازه در تصاویر جدید دیگر مشاهده نمی‌شود. سپاه پاسداران نیز در ۲ سپتامبر از حمله موشکی به این پایگاه خبر داده بود و ارتش ایران روز ۳ سپتامبر از انجام حمله‌ای جداگانه خبر داد. با این حال، میزان خسارت واردشده به پایگاه هنوز به‌طور مستقل تأیید نشده است
@@ -2937,32 +3008,10 @@ src :@tglobaleye
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Reuters:
-‏
-‏The United States plans to withdraw its air defense systems from Iraqi Kurdistan by the end of September, with the possibility of redeploying them to Jordan, Britain and Cyprus.
-18:34
-1405/06/15
-
-
-
-
 src :@warmonitors
 ‏⚡️ Mercedes driver Kimi Antonelli wins Formula 1’s Italian Grand Prix
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-18:34
-1405/06/15
-
-
-
-
-src :@Alibk3
-[عکس]
-‏‏رويترز:
-‏
-‏تعتزم الولايات المتحدة سحب أنظمة الدفاع الجوي التابعة لها من كردستان العراق بحلول نهاية سبتمبر، مع احتمال إعادة نشرها في الأردن أو بريطانيا وقبرص.
 18:34
 1405/06/15
 
@@ -3225,24 +3274,6 @@ src :@Exciton_missile_program
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏A Qatari delegation heads to Tehran.
-18:11
-1405/06/15
-
-
-
-
-src :@Alibk3
-[عکس]
-‏وفد قطري يتوجه إلى طهران.
-18:11
-1405/06/15
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏توئیت داماد حسن روحانی در دفاع از پدر زنش
@@ -3272,24 +3303,6 @@ src :@MilitarryWorld
 src :@GeoPWatch
 ‏#NEW ⚡️🇾🇪🇾🇪❌🇸🇦 - The Ansarullah (Houthis) Military forces publish video footage of the accurate targeting of what it claims to be a PLC-commander meetup of MRAPs using a ballistic missile.  @GeoPWatch
 18:00
-1405/06/15
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Satellite imagery shows an unclear gas fire at the Ras Laffan facility in Qatar.
-17:59
-1405/06/15
-
-
-
-
-src :@Alibk3
-[عکس]
-‏صور الأقمار الصناعية تُظهر حريق غير واضح للغاز في محطة راس لفان في قطر.
-17:59
 1405/06/15
 
 
@@ -3687,17 +3700,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 16:39
-1405/06/15
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴جواب یک اخوند به حرفای یه دختر
-‏
-‏@MilitarryWorld | Parsa
-16:35
 1405/06/15
 
 
@@ -5495,14 +5497,6 @@ src :@samueltarikh
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦💥 - 2 S8000 Cruise Missiles are enroute to Kyiv Oblast.
-01:30
-1405/06/15
-
-
-
-
 src :@samueltarikh
 ‏ج.ا از روز اول آمریکا و اسرائیل را نه به‌عنوان دو کشور یا دو بازیگر سیاسی بلکه به‌عنوان دو نماد تعریف کرده. نماد استکبار جهانی و نماد ظلم تاریخی علیه امت اسلامی. یعنی این دو در ذهن و روایت ج.ا فقط دشمن سیاسی نیستند بلکه دشمن معنایی‌اند و دشمن هویتی‌اند. وقتی…
 01:26
@@ -5799,26 +5793,4 @@ src :@defence_news
 ‏
 ‏@Projectirantech
 22:06
-1405/06/14
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — US Secretary of War Pete Hegseth: 
-‏
-‏"If Iran fires on our ships, we will destroy and sink their oil tankers".
-‏
-‏@TheWarReporter
-21:59
-1405/06/14
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran warns attacks on US military vessels could increase.
-‏
-‏@BRICSNews
-21:58
 1405/06/14
