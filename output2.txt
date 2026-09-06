@@ -1,3 +1,13 @@
+src :@MilitarryWorld
+‏🔴وزیر بهداشت: کمبود داروهای ما از قبل جنگ کمتره
+‏
+‏@MilitarryWorld | Parsa
+21:05
+1405/06/15
+
+
+
+
 src :@mohem_mat
 ‏وزیر انرژی آمریکا گرانی گازوئیل را تقصیر اوکراین انداخت
 ‏
@@ -3528,17 +3538,6 @@ src :@bricsnews
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴وضعیت جوری شده که حتی استاد هم نمیتونه تحلیلش کنه
-‏
-‏@MilitarryWorld | Parsa
-15:38
-1405/06/15
-
-
-
-
 src :@mohem_mat
 ‏در حالیکه حسین پاک خبرنگار حوزه مقاومت صدا و سیما دیروز از لبنان ادعا می‌کرد رزمندگان ایرانی و لبنانی از نظر آذوقه و مهمات در "علی الطاهر" وضعیت عاشورایی دارند و این منطقه تقریبا سقوط کرده و ضروری است اقدامی نظامی یا مشابه از سوی ایران صورت بگیرد تا اسراییل متوقف شود
 ‏ در خبر نیمروزی امروز خبرنگار دیگر صداوسیما مدعی شد: برخلاف برخی ادعاهای طرف‌های وابسته به رژیم صهیونیستی، تپه علی‌الطاهر اشغال نشده است.
@@ -5628,13 +5627,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:19
-1405/06/14
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇾🇪 - Situation update in the Ta'izz direction:   After nearly 24 hours of fighting, Ansarullah's offensive along the Ta'izz axis appears to have failed.  Ansarullah initially achieved tactical gains, capturing several positions around the Bani Bakari Heights…
-21:04
 1405/06/14
