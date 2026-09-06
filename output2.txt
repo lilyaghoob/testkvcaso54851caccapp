@@ -1,3 +1,45 @@
+src :@GeoPWatch
+‏🇾🇪❌🇾🇪 – Over 140 people have died during the recent clashes in Yemen, AFP News reports citing military sources.
+‏
+‏@GeoPWatch
+20:47
+1405/06/15
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇱🇱🇧🇱🇧 Kan: The IDF is preparing for a significant reduction of its forces in southern Lebanon following the destruction of Hezbollah’s tunnel network at the Ali Taher ridge.  According to Israeli security officials, discussions have recently been held over…
+20:43
+1405/06/15
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏مهمات جدید جنگنده سوخو۵۷؛ از موشک کروز تا سلاح خودمختار
+‏
+‏روسیه در نمایشگاه El Alamein 2026 مجموعه‌ای از مهمات جدید خانواده S-71 و S8000 را در کنار سوخو۵۷ به نمایش گذاشته است.
+‏
+‏ مهمات S-71M «Monokhrom»
+‏پیشرفته‌ترین عضو خانواده؛ مجهز به حسگرهای الکترواپتیکی و حرارتی و طراحی‌شده برای جست‌وجوی هدف. گزارش‌ها برد آن را حدود ۳۵۰ کیلومتر برآورد می‌کنند.
+‏
+‏مهمات S-71K «Kovyor»
+‏یک مهمات کروز پنهانکار برای حمله به اهداف دارای مختصات مشخص؛ برد حدود ۳۰۰ کیلومتر و سرجنگی حدود ۲۵۰ کیلوگرم. هدایت آن عمدتاً مبتنی بر ناوبری اینرسی و مختصات از پیش تعیین‌شده است.
+‏
+‏مهمات S8000 «Banderol»
+‏موشک کروز کوچک‌تر و ارزان‌تر که هدف اصلی آن می‌تواند تولید انبوه و حمله در تعداد بالا باشد.
+‏
+‏ تفاوت اصلی این خانواده در یک چیز خلاصه می‌شود: Su-57 فقط یک جنگنده پنهانکار نیست؛ روسیه در حال ساخت مجموعه‌ای از مهمات کوچک، دورایستا و کم‌قابل‌کشف برای آن است.
+‏
+‏یعنی جنگنده می‌تواند از فاصله صدها کیلومتری، بدون نزدیک‌شدن مستقیم به شبکه پدافندی، حمله را انجام دهد.
+20:42
+1405/06/15
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏فرمانده انتظامی آران و بیدگل، روز یکشنبه ۱۵ شهریور ۱۴۰۵، از پلمب شش واحد صنفی در این شهرستان خبر داد و دلیل آن را انتشار محتوای «مغایر با عفت عمومی و هنجارهای اجتماعی» در صفحات مجازی این واحدهای صنفی اعلام کرد.
@@ -1132,23 +1174,6 @@ src :@intelslava
 
 
 
-src :@ClashReport
-[عکس]
-‏Israel’s religious nationalist movement has gained growing influence within the Israeli military.
-‏
-‏Once dominated by a largely secular elite, the IDF has seen a significant rise in religious Zionists among officers, reservists, and senior commanders over the past two decades.
-‏
-‏Supporters argue that they bring "stronger Jewish values and commitment to national service," while critics warn that some far-right religious ideas — including settlement ideology and revenge rhetoric during the Gaza war — are reshaping military culture and challenging the army’s traditionally secular character.
-‏
-‏This shift has been driven by higher participation in military service, religious pre-military programs, and a long-term effort to increase the movement’s presence within the army.
-‏
-‏Source: FT
-19:36
-1405/06/15
-
-
-
-
 src :@mohem_mat
 ‏🔻نکته‌ی درست
 ‏
@@ -1172,14 +1197,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 19:35
-1405/06/15
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇱🇱🇧🇱🇧 A short while ago, an IDF drone strike targeted a vehicle inside a parking lot on Mahmoud Fakih Street, near the Husseiniya in the city of Nabatieh, southern Lebanon.  3 Hezbollah operatives were killed, according to local reports.  @wfwitness
-19:34
 1405/06/15
 
 
@@ -1228,21 +1245,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:34
-1405/06/15
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A U.S. missile likely missed its target and hit a wedding party in Kuhestak, southern Iran, killing at least four civilians and injuring more than 90, according to U.S. officials and investigations cited by The Washington Post.
-‏
-‏The strike involved six Navy-launched missiles aimed at a communications complex; five hit the target, while one appears to have gone off course and struck a nearby home about 440 feet away.
-‏
-‏The Pentagon is investigating the incident, while officials say the strike was "not intentional" and that the military is reviewing how the missile missed.
-‏
-‏Source: WaPo
-19:33
 1405/06/15
 
 
@@ -2389,24 +2391,6 @@ src :@MilitarryWorld
 src :@tglobaleye
 ‏#BREAKING | 🇩🇪 — Germany: Saxony-Anhalt state election underway with higher midday turnout  Polling stations opened at 8 a.m. local time across the eastern German state. About 1.7 million eligible voters are electing a new Landtag. Stations close at 6 p.m.…
 18:23
-1405/06/15
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏نیویورک‌تایمز گزارش داد با وجود تلاش ارتش آمریکا برای محافظت از نفتکش‌ها در برابر حملات جمهوری اسلامی، عبور نفت از تنگه هرمز همچنان به‌طور قابل توجهی کمتر از پیش از جنگ است.
-‏
-‏بر اساس داده‌های تنکرترکرز، در هفت روز منتهی به پنج‌شنبه ۱۲ شهریور، روزانه به‌طور میانگین ۶.۷ میلیون بشکه نفت از این تنگه عبور کرده که نزدیک به ۶۰ درصد کمتر از ماه‌های پیش از آغاز جنگ در ۹ اسفند است.
-‏
-‏نیویورک‌تایمز نوشت جمهوری اسلامی در ماه‌های خردا، تیر و مرداد دست‌کم ۲۳ کشتی را هدف قرار داده و ادامه حملات باعث شده بسیاری از شرکت‌های خصوصی کشتیرانی به خلیج فارس بازنگردند.
-‏
-‏یوجین گولز، استاد علوم سیاسی دانشگاه نوتردام، وضعیت تنگه هرمز را «بن‌بستی مرگبار» توصیف کرد و گفت: «ایران نمی‌تواند آن را کاملا ببندد و آمریکا نیز نمی‌تواند آن را کاملا باز کند.»
-‏
-‏به نوشته نیویورک‌تایمز، جمهوری اسلامی از ایجاد اختلال در کشتیرانی و محدود کردن عرضه نفت به‌عنوان اهرم فشار بر آمریکا استفاده کرده و خواستار دریافت هزینه از کشتی‌های عبوری از تنگه هرمز است؛ موضوعی که آمریکا با آن مخالف است.
-‏https://iranintl.com/202609067955
-18:22
 1405/06/15
 
 
@@ -4227,19 +4211,6 @@ src :@cataphract1
 
 
 
-src :@Minas_Tirith2024
-[عکس]
-‏«حملات ما به پایگاه‌های متجاوزان، تنها یک آغاز بود.قوانین بازی تغییر کرده‌اند.از این به بعد، هرگونه تجاوز به منافع ایران، با پاسخی سریع‌تر، سنگین‌تر و دردناک‌تر مواجه خواهد شد»
-‏
-‏-محمدباقر قالیباف،رئیس مجلس شورای اسلامی
-‏
-‏@P_raetorio
-13:17
-1405/06/15
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‏ ‏
 ‏⁠ آیا جنگ آمریکا و جمهوری اسلامی به جنگ منطقه‌ای تبدیل شده است؟
@@ -4862,14 +4833,6 @@ src :@VahidOnline
 
 
 
-src :@Minas_Tirith2024
-‏درگیری‌ها در یمن به جنگ زمینی تمام‌عیار رسیده و هر دو طرف تلاش دارند در مناطقی از جنوب غربی یمن پیشروی کنند. نیروی هوایی عربستان سعودی که می‌تواند از آسمان کمک بزرگی برای نیروهای شورای ریاست‌جمهوری باشد هنوز دخالتی نداشته است. جبهه جنگ هم فعلاً سیال و اخبار…
-09:04
-1405/06/15
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏تصویری از رزم ناو کلاس تیکاندروگا در تایلند!
@@ -5209,14 +5172,6 @@ src :@samueltarikh
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦💥 - 2 S8000 Cruise Missiles are enroute to Kyiv Oblast.
 01:30
-1405/06/15
-
-
-
-
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦💥 - 2 S8000 Cruise Missiles are enroute to Kyiv Oblast.
-01:29
 1405/06/15
 
 
