@@ -1,5 +1,17 @@
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧🇱🇧 — The IDF has issued an evacuation warning for a building in Arabsalim, southern Lebanon, claiming it belongs to Hezbollah.
+‏
+‏Residents are urged to stay at least 300 meters away from the building.
+06:40
+1405/06/15
+
+
+
+
 src :@naya_foriraq
 [عکس]
+‏🇮🇱🇱🇧جيش الإحتلال الصهيوني يصدر إنذار عاجل بالإخلاء لسكان بلدة عربصاليم في جنوب لبنان.
 06:36
 1405/06/15
 
@@ -551,17 +563,6 @@ src :@intelslava
 [عکس]
 ‏Hairy fella
 03:39
-1405/06/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇷🇺🇵🇱⚡️ — U.S. envoys Steve Witkoff and Jared Kushner have landed in Rzeszów, Poland, following their trip to Russia for talks with Vladimir Putin.
-‏
-‏Witkoff and Kushner will be in Kyiv tomorrow for talks with Zelensky.
-03:18
 1405/06/15
 
 
@@ -4492,18 +4493,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 17:25
-1405/06/14
-
-
-
-
-src :@didarnews1
-‏🔴ادعای فرماندهی مرکزی آمریکا (سنتکام): سه نفتکش ایرانی را هدف قرار دادیم.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-17:24
 1405/06/14
 
 
