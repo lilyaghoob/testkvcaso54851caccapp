@@ -1,16 +1,79 @@
-src :@guard_warriors
-‏بر اساس اعلام رسمی دولت، از ساعت ۰۰:۰۰ بامداد سه‌شنبه ۱۷ شهریور، قیمت نرخ سوم بنزین (کارت جایگاه) به ۱۰ هزار تومان تغییر خواهد کرد.   @Guard_Warriors
-22:20
+src :@jangaavaran1390
+[عکس]
+‏نیروی هوایی و دریای ایالات متحده درصدد عملیاتی کردن موشک agm ۱۵۸ بی و سی بر روی تمام جنگنده‌ها اف ۳۵ تا سال ۲۰۲۷ هستند. این موشک‌ها به  بین ۵۵۰ تا حدود ۱۰۰۰ کیلومتر برد دارند ... این موشک‌ها تا پیش از این  بمب افکن‌های ب ۱ به شکل عملیاتی استفاده شد و در جنگ با ایران نیز مورد بهره‌برداری قرار گرفت
+22:26
 1405/06/15
 
 
 
 
-src :@naya_foriraq
-‏🇮🇷رضائي:
-‏قبل 48 ساعة، ولأول مرة، اختبرنا صاروخاً إيرانياً مضاداً للسفن فوق سفينة حربية أمريكية.
+src :@intelslava
+[عکس]
+‏A Boeing 767 operated by Prime Air has crashed.
 ‏
-‏‏لقد خلق هذا الصاروخ الخاص "جحيماً" للأمريكيين، ففروا هاربين.
+‏@IntelSlava
+22:26
+1405/06/15
+
+
+
+
+src :@defence_news
+[عکس]
+‏تصویر منتشر شده از بالگرد میل۲۸ روس مسلح به موشک کروز باندرول با برد +۵۰۰ و سرجنگی تا۱۵۰ ک‌گ، طبق گفته منابع روس در آینده در نظر دارن از جنگنده ها و بالگردهای دیگر نیز به این کروز به نسبت ارزان قیمت مجهز کنند
+‏
+‏@RedLionCorps
+22:26
+1405/06/15
+
+
+
+
+src :@MilitarryWorld
+‏🔴محسن رضایی:  برای اولین‌بار، ۴۸ ساعت پیش اولین موشک ناوشکن خودمان را روی ناو آمریکایی تست کردیم.  @MilitarryWorld | Parsa
+22:25
+1405/06/15
+
+
+
+
+src :@Middle_East_Spectator
+‏— 🇮🇷/🇺🇸 NEW: The Secretary of Iran’s Supreme National Security Council, Major General Mohsen Rezaei, says that Iran tested a new advanced anti-ship ballistic missile against U.S. Navy vessels 48 hours ago
+‏
+‏@Middle_East_Spectator
+22:24
+1405/06/15
+
+
+
+
+src :@intelslava
+[عکس]
+‏Precision-guided air-launched munitions for the Su-57E, displayed by Rosoboronexport at the El Alamein International Airshow 2026 in Egypt:
+‏
+‏• S-71M “Monokhrom” stealth cruise missile
+‏• S-71K “Kovyor” stealth cruise missile
+‏• S8000 “Banderol” small cruise missile
+‏• An unidentified small-sized munition
+22:24
+1405/06/15
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇺🇸 NEW: President Trump claims the moon as American territory
+‏
+‏@Middle_East_Spectator
+22:22
+1405/06/15
+
+
+
+
+src :@guard_warriors
+‏بر اساس اعلام رسمی دولت، از ساعت ۰۰:۰۰ بامداد سه‌شنبه ۱۷ شهریور، قیمت نرخ سوم بنزین (کارت جایگاه) به ۱۰ هزار تومان تغییر خواهد کرد.   @Guard_Warriors
 22:20
 1405/06/15
 
@@ -890,18 +953,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇦⚡️ — President Trump via Truth Social:
-‏Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. 
-‏
-‏It has been that way for years - but no longer!
-21:18
-1405/06/15
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨⭕️ جروزالم‌پست: جمهوری اسلامی در تدارک حملۀ هماهنگ چندجبهه‌ای علیه اسرائیل است
@@ -918,15 +969,6 @@ src :@DEJradio
 ‏#اسرائیل #هفتم_اکتبر #جمهوری_اسلامی
 ‏@DEJradio
 21:18
-1405/06/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇵🇸⚡️ — Young Palestinians watching Lion King in Gaza.
-21:17
 1405/06/15
 
 
@@ -1078,15 +1120,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 21:02
-1405/06/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧⚡️ — The IDF is preparing for a significant reduction of its forces in southern Lebanon following the destruction of tunnels along the Ali Taher Ridge, Kan News reports.  Under a plan being discussed by Israel’s defense establishment, troops would withdraw…
-20:58
 1405/06/15
 
 
@@ -2286,24 +2319,6 @@ src :@thewarreporter
 
 
 
-src :@intelslava
-‏🗳️🇩🇪 Voting has just ended.  The first exit polls should appear within a few minutes, with full results coming tonight.
-19:34
-1405/06/15
-
-
-
-
-src :@intelslava
-‏🗳️🇩🇪 Voting has just ended.
-‏
-‏The first exit polls should appear within a few minutes, with full results coming tonight.
-19:34
-1405/06/15
-
-
-
-
 src :@mwarmonitor
 ‏❓برای بازگشت میزان عرضه به سطح پیش از جنگ، چه مقدار نفت باید از تنگه هرمز عبور کند؟
 ‏
@@ -2688,26 +2703,6 @@ src :@didarnews1
 
 
 
-src :@intelslava
-‏🇺🇸🇫🇷🇬🇧🇺🇦⚡️ — In addition to Trump's special envoys, national security advisers from Britain, France, and Germany are also in Kiev.
-‏
-‏- Reuters
-‏
-‏@IntelSlava
-19:13
-1405/06/15
-
-
-
-
-src :@intelslava
-‏🇩🇪⚡️ — Turnout at 2:00 PM reached 54.4% and is record-breaking – already higher than in the previous elections overall.  In the previous elections, turnout at 2:00 PM was 27.1%.  @IntelSlava
-19:08
-1405/06/15
-
-
-
-
 src :@naya_foriraq
 ‏🇷🇺🇺🇦 نيويورك تايمز: نظام المشتريات العسكرية الأوكراني عانى من عمليات احتيال وهدر وسوء إدارة جسيمة خلال الحرب. وتُظهر عمليات تدقيق سرية أن حوالي 1.2 مليار دولار قد ضاعت في عام 2024 وحده نتيجةً للمدفوعات الزائدة، وفشل العقود، وضعف الرقابة.
 19:07
@@ -3040,20 +3035,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@intelslava
-‏🇩🇪⚡️ — Nine people were injured after corrosive liquid was thrown at an AfD information stand in Bad Kreuznach. Disinfectant was reportedly poured from a nearby building, hospitalising AfD politicians Nicole Höchst and Sebastian Münzenmaier. 
-‏
-‏The attack has been condemned by AfD leaders, including co-leader Alice Weidel, who confirmed the incident and attributed it to the “irresponsible demonisation of the opposition.” Right-wing commentator Naomi Seibt and others have linked it to broader hostility against conservatives. 
-‏
-‏This follows previous attacks on AfD members, amid ongoing political tensions and the party’s anticipated victory in the Saxony-Anhalt state election.
-‏
-‏@IntelSlava
-18:45
-1405/06/15
-
-
-
-
 src :@jangaavaran1390
 ‏ژاپن به دنبال پیوستن به برنامه جنگنده نسل ششم اف ۴۷ آمریکا است..ولی همکنون آمریکا هیچ تصمیمی برای صادرات این طرح نگرفتند. ژاپن یک بار بر سر برنامه جنگنده نسل پنجم اف ۲۲ نیز به همین وضعیت گرفتار شد... زمانی که خواهان خرید این جنگنده بود ولی ایالات متحده با صادرات آن مخالفت کرد و ممکن است این بحث در مورد اف ۴۷ نیز پیش بیاید
 18:45
@@ -3088,18 +3069,6 @@ src :@naya_foriraq
 ‏
 ‏أوه. مخطط النقاط الخاص بالاحتياطي الفيدرالي يومض باللون الأحمر 😁
 18:44
-1405/06/15
-
-
-
-
-src :@intelslava
-‏🇷🇺🇩🇪⚡️ — The allegations against Russia in connection with the drone incident in Leipzig are, by and large, the beginning of a real war
-‏
-‏– Sergei Lavrov.
-‏
-‏@IntelSlava
-18:43
 1405/06/15
 
 
@@ -3177,16 +3146,6 @@ src :@Artemis_Force
 src :@jangaavaran1390
 ‏جنگاوران pinned «به جای روزی دو ساعت خبر خوندن، پنج دقیقه کانال شریف رو بخون هر خبری لازمه بدونی اینجا هست:  https://t.me/+LQfiRAH993ZhY2Jk»
 18:31
-1405/06/15
-
-
-
-
-src :@jangaavaran1390
-‏به جای روزی دو ساعت خبر خوندن، پنج دقیقه کانال شریف رو بخون هر خبری لازمه بدونی اینجا هست:
-‏
-‏https://t.me/+LQfiRAH993ZhY2Jk
-18:30
 1405/06/15
 
 
@@ -3628,32 +3587,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏👀دنبال سایت معتبر برای شرطبندی می‌گردید⁉️
-‏
-‏🎲سایت بین المللی و معتبر Melbet
-‏
-‏                                 👍😁😊🙂
-‏🥇واریز و برداشت ارزی و ریالی‼️ 
-‏🔥بونوس 100% اولین واریز‼️
-‏⚽️بونوس ورزشی هرچهارشنبه‼️
-‏🆗کازینو و انفجار با ضرایب جهانی‼️
-‏
-‏🎁کد هدیه ثبت نام :Melbet90
-‏
-‏🇩🇪دانلود اپلیکیشن MELBET👉
-‏
-‏🔗لینک وبسایت👉
-‏⭕️جهت استفاده از vpn از IP های آسیایی یا کانادا استفاده کنید.🇨🇦 🇹🇷
-‏
-‏✔ https://t.me/+x60dZGAgXTUxM2U0
-17:24
-1405/06/15
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏حوثیها در این حمله، در قواره جنگ اوکراین و روسیه عمل کردند. اینجا فاصله کوتاه است. اما یکی از طرح ریزیها برای سرکوب لانچرهای سپاه اینست که با کمک پهپادهای کوچک شناسایی که حامل تسلیحات نیستند، محل لانچر شناسایی شود و با موشکهای بالستیک زمین پرتاب با فاصله مثلا 500 کیلومتری محل لانچر مورد اصابت قرار گیرد. این امری است که کره جنوبی هم برای سرکوب سریع لانچرها و توپخانه کره شمالی مد نظر دارد. در جنگ اوکراین هم در موقعیتهای بسیاری موثر واقع شد. فایده این نوع حمله زمانی است که طرف مقابل شبکه پیش اخطار و شناسایی مناسب نداشته باشد و امکان واکنش برای فرار گرفته شود.
@@ -4014,18 +3947,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 15:44
-1405/06/15
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️فرماندهی مرکزی ایالات متحده، سنتکام، روز یکشنبه ۱۵ شهریور با انتشار تصاویری از گشت‌زنی یک جنگنده پنهان‌کار اف‌ـ۳۵ای نیروی هوایی آمریکا بر فراز آب‌های منطقه، از ادامه محاصره دریایی ایران خبر داد.
-‏سنتکام اعلام کرد نیروهای آمریکایی تا ۱۵ شهریور، برای اجرای این محاصره مسیر ۹۲ کشتی تجاری را تغییر داده، سه کشتی را از کار انداخته و به عرشه دو کشتی وارد شده‌اند.
-‏
-‏@indypersian
-15:42
 1405/06/15
 
 
@@ -5675,23 +5596,6 @@ src :@rnintel
 src :@Mena_Live
 ‏Microsoft Store now available in Syria  @Mena_Live
 23:30
-1405/06/14
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏کانال «نوشدارو» قبل از اشتباه‌هایی که گرون تموم میشن به کمکت میاد:
-‏
-‏-  راه‌های تشخیص کلاهبرداری‌ها رو یاد می‌گیری؛
-‏- با تکنیک‌های حفاظت از سرمایه و حریم خصوصی آشنا میشی؛
-‏- و بهت یادآوری می‌کنیم که با وجود این همه استرس و اضطراب، مراقب سلامت روان خودت و کودکان هم باشی... ❤️
-‏
-‏نوشدارو رو همین حالا دنبال کن:
-‏@NooshDaroo_web
-‏@NooshDaroo_web
-23:18
 1405/06/14
 
 
