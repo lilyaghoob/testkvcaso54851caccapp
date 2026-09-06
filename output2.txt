@@ -22,7 +22,7 @@ src :@Middle_East_Spectator
 
 src :@Ali_bk_2
 [عکس]
-‏Al-Telegraph:  The Pentagon refuses to pay compensation to the families of American soldiers killed by Iran in the Middle East "because it does not consider it a war"
+‏Al-Telegraph:  The Pentagon refuses to pay compensation to the families of American soldiers killed by Iran in the Middle East "because it does not consider it an official war"
 17:44
 1405/06/15
 
@@ -31,7 +31,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏التلغراف:   البنتاغون يرفض صرف تعويضات لأهالي الجنود الأمريكيين الذين قتلتهم إيران في الشرق الأوسط "لأنها لا تعتبر ذلك حرباً" 🤣
+‏التلغراف:   البنتاغون يرفض صرف تعويضات لأهالي الجنود الأمريكيين الذين قتلتهم إيران في الشرق الأوسط "لأنها لا تعتبر ذلك حرباً رسمية" 🤣
 17:44
 1405/06/15
 
@@ -148,7 +148,7 @@ src :@Ali_bk_2
 [عکس]
 ‏Al-Telegraph:
 ‏
-‏The Pentagon refuses to pay compensation to the families of American soldiers killed by Iran in the Middle East "because it does not consider it a war"
+‏The Pentagon refuses to pay compensation to the families of American soldiers killed by Iran in the Middle East "because it does not consider it an official war"
 17:36
 1405/06/15
 
@@ -159,7 +159,7 @@ src :@Alibk3
 [عکس]
 ‏التلغراف: 
 ‏
-‏البنتاغون يرفض صرف تعويضات لأهالي الجنود الأمريكيين الذين قتلتهم إيران في الشرق الأوسط "لأنها لا تعتبر ذلك حرباً" 🤣
+‏البنتاغون يرفض صرف تعويضات لأهالي الجنود الأمريكيين الذين قتلتهم إيران في الشرق الأوسط "لأنها لا تعتبر ذلك حرباً رسمية" 🤣
 17:35
 1405/06/15
 
@@ -1519,25 +1519,6 @@ src :@jangaavaran1390
 ‏
 ‏ویسکانسی آخرین گلوله رزمی خود را ۲۸ فوریه ۱۹۹۱ شلیک کرد. تنها چند ماه بعد، هر دو نبردناو از خدمت خارج شدند و در نهایت به موزه تبدیل شدند.
 14:59
-1405/06/15
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻باشگاه گل‌گهر سیرجان در واکنش به عدم صدور دستور موقت برای خداداد عزیزی، مدیر تیم تراکتور، ضمن تاکید بر اینکه دریافت دفاعیات از سوی فرد مورد اتهام حق قانونی اوست، اعلام کرد رفتارهای رخ‌داده در جریان و پس از دیدار این تیم مقابل تراکتور را از مسیر قضایی نیز پیگیری خواهد کرد.
-‏
-‏🔹خداداد عزیزی در جریان این مسابقه از سوی داور اخراج شد، اما به گفته باشگاه گل‌گهر، رفتارهای توهین‌آمیز او مقابل رختکن نیز ادامه پیدا کرد. در ادامه نیز فایل صوتی منتسب به او که حاوی الفاظ رکیک است، در فضای مجازی منتشر شد.
-‏
-‏🔹باشگاه گل‌گهر اعلام کرده است نسخه اصلی این فایل صوتی را در اختیار دارد و آن را برای بررسی و رسیدگی در اختیار مراجع ذی‌صلاح قرار خواهد داد.
-‏
-‏🔹این باشگاه همچنین نسبت به عدم صدور دستور موقت در این پرونده اعتراض کرده و این پرسش را مطرح کرده است که با وجود اخراج مدیر تیم تراکتور در جریان مسابقه و ادامه رفتارهای توهین‌آمیز پس از آن، چرا تا زمان صدور رأی نهایی، اقدامی فوری و بازدارنده صورت نگرفته است.
-‏
-‏🔹جزییات را در سایت بخوانید.
-‏
-‏@iranintltvsport
-14:58
 1405/06/15
 
 
@@ -3648,20 +3629,6 @@ src :@Shin_Persian
 
 
 
-src :@wfwitness
-‏⚡️🇰🇼 Kuwait’s Ministry of Electricity, Water and Renewable Energy announced that several main transformer stations went out of service due to a technical malfunction, causing power outages in parts of Hawalli and Mubarak Al-Kabeer governorates.
-‏
-‏The ministry said emergency teams were deployed to the affected sites and are working to restore electricity as quickly as possible. Officials did not provide further details on the cause of the malfunction.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-09:32
-1405/06/15
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇷🇺🇺🇸 Russia says talks with US envoys were "useful."
 ‏
@@ -5641,17 +5608,4 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 17:58
-1405/06/14
-
-
-
-
-src :@cataphract1
-[عکس]
-‏سپاه دیروز حداقل 3-5 بالستیک ضدکشتی به سمت دریای عمان یا تنگه پرتاب کرد تا شناورهای آمریکایی را برای پر هزینه کردن محاصره برای آمریکا بزند که به نظر اصابتی رخ نداده است. شناورهای غیرنظامی بزرگ در فاصله کوتاه عموما حرکت ممتد در خط مستقیم و قابل پیش بینی دارند، مگر مسیر خاص باشد. اما شناور نظامی میتواند پرتاب موشک را متوجه شود و مانور خاص انجام دهد. شاید یکی از عللی که حوثیها در هدف قرار دادن شناروهای تجاری حتی در فواصل دور موفقیت نسبی داشته اند همین مورد است (اما حتی هدف قرار دادن چنین هدفی هم با بالستیک بسی پیچیده و مشکل است).
-‏
-‏اما مانور شناور شناورهای نظامی کارایی مطلق در برابر هر موشکی ندارد. یک موشک پیشرفته میتواند بخشی از این مانورها را ناکارآمد کند. در هر صورت موفقیت یک موشک بالستیک ضد کشتی بسیار وابسته به اطلاعات دقیق از انواع سنسورها میدانی است. وگرنه شانس اصابت جدا از طراحی موشک کاهش خواهد یافت.🚀🚢 (بحث آماری پیشین در رابطه با بالستیکهای ضد کشتی حوثیها)
-‏
-‏@Exciton_missile_program 🚀
-17:51
 1405/06/14
