@@ -1,15 +1,73 @@
-src :@Ali_bk_2
+src :@BellumActaNews
 [عکس]
-‏A U.S. aircraft crashes at Miami Airport.
-22:02
+‏🇩🇪 According to the exit poll, this is the 18–24-year-old vote in Saxony-Anhalt. A projected 42% have just voted AfD.
+‏
+‏Broken down by gender, it is:
+‏Women: 39%
+‏Men: 49%
+22:06
 1405/06/15
 
 
 
 
-src :@Alibk3
+src :@BellumActaNews
 [عکس]
-‏تحطم طائرة أميركية في مطار ميامي
+‏🇩🇪 📊 After counting the votes in more than half (1458 out of 2660) of the electoral districts, the "Alternative for Germany" party is leading with 48% of the votes, which would allow this party to form a government in the state of Saxony-Anhalt on its own.
+‏
+‏If the final result is below 46%, and at the same time, the "Sahra Wagenknecht" bloc surpasses the 5% threshold (currently, BSW has 5.1%), then the leading opposition party in Germany would be just one seat short of being able to form a government on its own.
+22:06
+1405/06/15
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏A U.S. aircraft crashes at Miami Airport.
+22:04
+1405/06/15
+
+
+
+
+src :@Indypersian
+‏⭕️املاک ۳۶ میلیون پوندی منتسب به مجتبی خامنه‌ای در لندن برای فروش گذاشته شدند
+‏
+‏📌دولت بریتانیا اخیرا پس از آنکه انصاری نتوانست اقساط وام‌های مسکن مربوط به این املاک را پرداخت کند، اجازه فروش دو آپارتمان را صادر کرده است. دارایی‌های انصاری در بریتانیا مسدود شده است و او اجازه ورود به این کشور را ندارد
+‏
+‏
+‏♦️دو آپارتمان لوکس در منطقه کنزینگتون لندن، که گزارش‌ها حاکی از ارتباط این املاک با مجتبی خامنه‌ای است، برای فروش گذاشته شده‌اند. این دو پنت‌هاوس دوطبقه (دوبلکس) در ساختمان شماره ۳ای خیابان «پالاس گرین» و در نزدیکی کاخ کنزینگتون، اقامتگاه رسمی شاهزاده و شاهدخت ولز در لندن، قرار دارند. مالک رسمی این املاک علی انصاری، بنیان‌گذار «بانک آینده»، است که آنها را در مجموع به قیمت نزدیک به ۳۶ میلیون پوند خریداری کرده بود.
+‏بیشتر بخوانید...
+‏
+‏
+‏@indypersian
+22:03
+1405/06/15
+
+
+
+
+src :@naya_foriraq
+‏🔻امرأة تخالف طابور الوقود وتتسبب باعتقال مدير محطة في كركوك
+‏
+‏🇮🇶امرأة تخالف طابور الانتظار وتحاول الحصول على حصتها من الوقود بالحيلة فيما امتنع مدير محطة البنزين في محافظة كركوك شمالي العراق عن تزويدها بالوقود إلا بعد التزامها بالطابور لتجري بعدها مكالمة هاتفية  قبل وصول قوة مجهولة قامت باعتقال مدير المحطة ويقال انه قد انشمر ورة الشمس
+22:03
+1405/06/15
+
+
+
+
+src :@rnintel
+‏🇩🇪⚡️- According to the current results of the regional election, the AfD is 0.1% away from obtaining a majority of seats in Sachsen-Anhalt.
+22:03
+1405/06/15
+
+
+
+
+src :@P_raetorio
+‏صدای انفجار قبل از شلیک موشک‌های سوخت جامد؛ واقعاً چه اتفاقی می‌افتد؟   @P_raetorio
 22:02
 1405/06/15
 
@@ -1099,19 +1157,6 @@ src :@Indypersian
 src :@naya_foriraq
 [عکس]
 ‏انباء عن إصابة الصحفي علي شبيب والمصور في قناة المنار بغارات إسرائيلية وسط مدينة النبطية جنوبي لبنان
-20:38
-1405/06/15
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russia is showcasing new precision-guided munitions for the Su-57E jet export variant ahead of Egypt's El Alamein International Airshow 2026. 
-‏
-‏The display includes the S-71M "Monokhrom," S-71K "Kovyor," "Banderol" (also called "Dan-T"), and an unidentified small-diameter munition. 
-‏
-‏The presentation at an Egyptian airshow signals Moscow is actively marketing the Su-57 export package to Middle Eastern and African buyers.
 20:38
 1405/06/15
 
@@ -3673,17 +3718,6 @@ src :@MilitarryWorld
 
 
 
-src :@P_raetorio
-[عکس]
-‏حمله موشکی ارتش روسیه به هدفی در شهر دنیپرو
-‏
-‏ @P_raetorio
-16:52
-1405/06/15
-
-
-
-
 src :@defence_news
 ‏موشک بالستیک!
 16:44
@@ -3878,14 +3912,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 15:52
-1405/06/15
-
-
-
-
-src :@naya_foriraq
-‏محافظ البنك المركزي العراقي: لا عقوبات من جهات دولية على القطاع المصرفي بعد اليوم
-15:48
 1405/06/15
 
 
@@ -5003,18 +5029,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 11:04
-1405/06/15
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏سپاه پاسداران اعلام کرد نیروی دریایی این نهاد به یک شناور هدایت‌پذیر از راه دور ارتش آمریکا در تنگه هرمز حمله کرده است؛ ادعایی که مقام‌های آمریکایی هنوز به آن واکنش نشان نداده‌اند.
-‏بخوانید: https://iranwire.com/fa/news-1/157205
-‏
-‏@Farsi_Iranwire
-11:02
 1405/06/15
 
 
