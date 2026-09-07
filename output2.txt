@@ -1,3 +1,22 @@
+src :@intelslava
+[عکس]
+‏🇾🇪🇾🇪❌🇸🇦 — Ansar Allah announced that it had shot down another Royal Saudi Air Force (RSAF) Wing Loong II and a CH-4B Rainbow unmanned combat aerial vehicle (UCAV) over Al-Bayda and Al-Jawf governorates.
+‏
+‏@IntelSlava
+14:19
+1405/06/16
+
+
+
+
+src :@OSINTWarfare
+‏Ansar Allah announced that it shot down a Royal Saudi Air Force (RSAF) Wing Loong II unmanned combat aerial vehicle (UCAV) over the Taiz Governorate.  Heavy clashes are ongoing between Ansar Allah and the Saudi-backed Presidential Leadership Council (PLC)…
+14:18
+1405/06/16
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏«محمدباقر قالیباف»، رییس مجلس شورای اسلامی، در واکنش به اظهارات وزیر جنگ آمریکا، شرکت‌ها و تاسیسات نفتی و گازی آمریکایی در منطقه را به حمله تهدید کرد.
@@ -7,18 +26,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 14:15
-1405/06/16
-
-
-
-
-src :@GeoPWatch
-‏🇸🇦❌🇾🇪- In Al Jawf, the Royal Saudi Air Force (RSAF) conducted cruise-missile strikes against targets within the governorate. 
-‏
-‏➡️ Additionally, PLC-aligned forces have initiated a ground offensive in Al Jawf, with combat operations reportedly ongoing in the region.
-‏
-‏@GeoPWatch
-14:13
 1405/06/16
 
 
@@ -1371,19 +1378,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-[عکس]
-‏Genocide Convict Mladić Buried With Military Honors
-‏
-‏Convicted genocide perpetrator Ratko Mladić is being buried with military honors in Belgrade on Monday, as thousands paid tribute and rival football ultras chanted his name earlier this week.
-‏
-‏READ MORE
-12:30
-1405/06/16
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏بازیگران عمداً خسته، گرسنه و تحت سرما نگه داشته می‌شدند تا فرسودگی روانی‌شان واقعی باشد. میزان غذای روزانه‌شان هم در طول فیلم‌برداری کمتر و کمتر می‌شد؛ بخشی از عصبانیت و وحشت آخر فیلم حاصل همین فشار واقعی است.
@@ -2492,17 +2486,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 10:59
-1405/06/16
-
-
-
-
-src :@P_raetorio
-[ویدئو]
-‏تصویر ماهواره ای با کیفیت از پایگاه هوایی علی السالم کویت انهدام دو سازه در این پایگاه پس از حملات اخیر از ایران را نشان می دهد
-‏
-‏@Minas_Tirith2024
-10:56
 1405/06/16
 
 
@@ -4297,16 +4280,6 @@ src :@DEJradio
 
 
 
-src :@intelslava
-‏🇺🇸🇮🇷 US Energy Secretary Chris Wright says a nuclear deal with Iran may not be reached, warning that Washington could instead seek to destroy Tehran’s ability to develop nuclear weapons.
-‏
-‏@BreakingGlobalHQ
-23:20
-1405/06/15
-
-
-
-
 src :@mwarmonitor
 ‏📰 وزیر انرژی دولت ترامپ می‌گوید: «ممکن است هیچ توافقی درباره برنامه هسته‌ای ایران وجود نداشته باشد»؛ اما آمریکا در هر حال در حال پیروز شدن است. نیویورک پست 
 ‏
@@ -4453,17 +4426,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 22:28
-1405/06/15
-
-
-
-
-src :@intelslava
-[عکس]
-‏A Boeing 767 operated by Prime Air has crashed.
-‏
-‏@IntelSlava
-22:26
 1405/06/15
 
 
@@ -5181,21 +5143,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 19:54
-1405/06/15
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏بنیامین نتانیاهو، نخست‌وزیر اسراییل، در نشست کابینه گفت اسراییل «قوی‌تر از همیشه» و دشمنانش «ضعیف‌تر از همیشه» هستند و تاکید کرد که این کشور به همراه آمریکا به دستاوردهای مهمی در از بین بردن «تهدیدی موجودیتی» از سوی ایران، دست یافته است.
-‏نتانیاهو، روز ۱۵ شهریور ۱۴۰۵، گفت: «بمب‌های اتمی و موشک‌های بالستیک را از بالای سر خود دور کرده‌ایم و با قدرت زیادی به محور ایران ضربه زده‌ایم.»
-‏او در ادامه گفت پایان حکومت ایران نزدیک است و افزود: «این حکومت ضعیف است، برای بقای خود می‌جنگد و در حال فروپاشی است.»
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/157235
-‏@Farsi_Iranwire
-19:50
 1405/06/15
 
 
@@ -5973,12 +5920,4 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe ✈️
 14:36
-1405/06/15
-
-
-
-
-src :@Navy_Iranian
-‏چرا کاتاپولت بخار بجای الکترومغناطیسی؟  از وقتی که ترامپ به ریاست جمهوری آمریکا بازگشته است، سیاست کاهش پیچیدگی و افزایش قابلیت اطمینان را در پیش گرفته است و این تصمیم هم بخشی از آن سیاست است.  به‌طور کلی بر روی کاغذ کاتاپولت الکترومغناطیسی نسبت‌به کاتاپولت…
-14:19
 1405/06/15
