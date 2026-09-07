@@ -1,4 +1,63 @@
+src :@Middle_East_Spectator
+[عکس]
+‏This video is from Marib, 2025.
+‏
+‏Lubnat Camp has not fallen and remains under control of Ansarallah.
+19:42
+1405/06/16
+
+
+
+
+src :@USAMRYDATA
+[ویدئو]
+‏مخاطبای گوشی بابام:
+‏
+‏#FUN
+‏➖➖➖➖➖➖➖
+‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
+19:41
+1405/06/16
+
+
+
+
+src :@GeoPWatch
+‏🇮🇱❌🇵🇸 – Artillery and airstrikes are being reported around the industrial city in southern Gaza Strip. 
+‏
+‏@GeoPWatch
+19:41
+1405/06/16
+
+
+
+
+src :@rnintel
+‏🇾🇪🇸🇦⚡- Ansarullah have shot down a second Saudi-operated Chinese-made drone in less than 24 hours, this time a CH-4 over the Hajjah Governorate in northern Yemen.
+19:39
+1405/06/16
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — Yemen’s Houthis (Ansarallah) announced they shot down a Saudi Royal Air Force Wing Loong II armed reconnaissance drone while it was conducting “hostile operations” over Al-Bayda Governorate this morning.  This is the third drone downed by the Hourhis…
+19:39
+1405/06/16
+
+
+
+
+src :@wfwitness
+‏⚡️🇾🇪🇸🇦🇾🇪 The Houthi's have accused Saudi Arabia of escalation, citing air strikes and the “Al‑Jawf massacre”, and warned that the “continuous Saudi aggression against Yemen will not remain without response and punishment”.   The statement said Saudi Arabia…
+19:37
+1405/06/16
+
+
+
+
 src :@Ali_bk_2
+[عکس]
 ‏Yemeni Armed Forces:
 ‏
 ‏The Yemeni Armed Forces successfully shot down an enemy Saudi CH4 armed reconnaissance drone while it was carrying out hostile missions earlier in the skies over Al Jawf Governorate. This is the second drone of this type to be shot down in the past 12 hours, and the fourth in the past 24 hours. It was shot down using an appropriate weapon.
@@ -9,6 +68,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
+[عکس]
 ‏القوات المسلحة اليمنية:
 ‏
 ‏تمكنت القوات المسلحة اليمنية بفضل من إسقاط طائرة استطلاع مسلح نوع CH4 تابعة للعدو السعودي وذلك أثناء قيامها بمهام عدائية قبل قليل في أجواء محافظة الجوف، وتعد هذه الطائرة هي الثانية من هذا النوع التي تم إسقاطها خلال ال12 ساعة الماضية، والرابعة خلال ال24 ساعة الماضية، وتم إسقاطها بسلاح مناسب.
@@ -3402,19 +3462,6 @@ src :@cataphract1
 
 
 
-src :@Middle_East_Spectator
-[ویدئو]
-‏— 🇰🇼/🇮🇷 Hangars at Ali Al-Salem Airbase, Kuwait: Destroyed ✅
-‏
-‏(Satellite imagery from today finally showed the damage from the most recent round of Iran-U.S. strikes)
-‏
-‏@Middle_East_Spectator
-15:06
-1405/06/16
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏U.S. envoys Steve Witkoff and Jared Kushner brought what a senior Ukrainian presidential official described as new and more effective proposals for ending Russia’s war in Ukraine during talks with President Volodymyr Zelensky in Kiev on Sunday, following their meeting with Russian President Vladimir Putin in Moscow a day earlier. 
@@ -5199,17 +5246,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-[عکس]
-‏September 21
-‏
-‏“The world is yours”
-04:51
-1405/06/16
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏At the “VIVA AVIA!” aviation festival at Mochishche Airfield in Novosibirsk, a new Su-34 fighter-bomber built at the Novosibirsk Aircraft Plant (NAZ) for the Russian Aerospace Forces (VKS) was spotted. The aircraft performed aerobatics while still wearing its factory primer.
@@ -5322,22 +5358,6 @@ src :@BellumActaNews
 ‏
 ‏📎 Gabe Guidarini
 01:51
-1405/06/16
-
-
-
-
-src :@rnintel
-‏🇾🇪⚡- For the second night in a row, Ansarullah have launched two ballistic missiles at Ta'izz, southwest Yemen.
-01:44
-1405/06/16
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️- An Amazon Prime Air Boeing 767 cargo plane crashed after going off the runway at Miami International Airport in Florida.  So far, there's no word on injuries or fatalities. Police and fire units are on the scene.
-01:19
 1405/06/16
 
 
@@ -5831,13 +5851,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 20:02
-1405/06/15
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇷 — CENTCOM is conducting an internal review of a civilian casualty incident at a wedding during U.S. strikes on Iran on Tuesday.  U.S. officials said the strike in the area targeted a communication tower used for both civilian and military communications.…
-19:40
 1405/06/15
