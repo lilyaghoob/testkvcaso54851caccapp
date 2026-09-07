@@ -1,3 +1,34 @@
+src :@didarnews1
+‏🔴 از ساعت ۱۲ امشب بنزین لیتری ۱۰ هزار تومن می شود
+‏
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+19:16
+1405/06/16
+
+
+
+
+src :@rnintel
+‏🇾🇪⚡- In the past hour, Presidential Leadership Council forces have launched a major offensive in the al-Bayda' Governorate, southern Yemen.  The fighting is no longer confined to a few directions, Yemen is once again engaged in a full-scale civil war, with…
+19:15
+1405/06/16
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇸🇦/🇾🇪 NEW: Saudi airstrikes targeted the central prison in Al-Jawf Governorate, which houses many Al-Qaeda and ISIS terrorists
+‏
+‏@Middle_East_Spectator
+19:14
+1405/06/16
+
+
+
+
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۱۶ شهریور
@@ -51,8 +82,8 @@ src :@WAR_ROOM_NEWS
 ‏#جنگ
 ‏#نقشه
 ‏
-‏سبز مناطق تحت کنترل حوثی‌ها 
-‏قرمز مناطق تحت کنترل نیروهای دولتی یمن تحت حمایت ائتلاف عربی 
+‏🟢سبز مناطق تحت کنترل حوثی‌ها 
+‏🔴قرمز مناطق تحت کنترل نیروهای دولتی یمن تحت حمایت ائتلاف عربی 
 ‏
 ‏🆔@WAR_ROOM_NEWS
 19:10
@@ -3351,14 +3382,6 @@ src :@mohem_mat
 
 
 
-src :@Middle_East_Spectator
-‏High likelihood for the launch of Yemeni ballistic missiles towards Saudi Arabia in the next 24 hours.
-15:00
-1405/06/16
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️پله‌های ومبلی پارک در لندن، جایی که با نام فردی مرکوری و خاطره اجراهای گروه «کویین» گره خورده است، به مناسبت هشتادمین سالروز تولد این ستاره زرتشتی‌ با تصویر او پوشانده شد.
@@ -5214,18 +5237,6 @@ src :@mamlekate
 
 
 
-src :@mamlekate
-‏📝 وزیر دفاع پیشین آمریکا (دوره اوباما) می‌گوید «جنگ ایران» ممکن است شش ماه دیگر ادامه یابد
-‏
-‏لئون پانه‌تا، وزیر دفاع پیشین آمریکا در دوره باراک حسین اوباما، با اشاره به بن‌بست میان واشینگتن و تهران هشدار داد «جنگ ایران» احتمالا دست‌کم شش ماه دیگر ادامه می‌یابد و ممکن است به «جنگی بی‌پایان» مانند جنگ‌های عراق و افغانستان تبدیل شود.
-‏
-‏@mamlekate
-02:36
-1405/06/16
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🗳 🇩🇪 🚷 65% of AfD voters in Saxony-Anhalt reported facing financial struggles.  Turns out that when you correctly link mass immigration to the decline in job security, homeownership, accessible healthcare, quality education, decent wages, and almost every…
@@ -5319,14 +5330,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇦🇿🇹🇷 | Azerbaijan's president was briefed on the SALVO and the KAYRA, two USVs produced domestically in cooperation with Turkey's DEARSAN — AZERTAC
 01:00
-1405/06/16
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️- The reported suspect in the attempted attack on Amy Acton.
-00:59
 1405/06/16
 
 
@@ -5797,23 +5800,6 @@ src :@bricsnews
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴علی قلهکی: افزایش قیمت بنزین اثری بر روی صرفه‌جویی ندارد
-‏
-‏🔹افزایش نرخِ سوم‌ بنزین به «۹۷۵۰ تومان» اگرچه شوکِ ارقامِ دیگر را ندارد ولی چندان هم در کاهش مصرف سوخت اثر خاصی نخواهد گذاشت.ت
-‏
-‏🔹به دلیل پاره‌ای مسائل در کشور، نیاز به کنترل مصرف سوخت هستیم که این نرخ از پسِ آن بر نخواهد آمد، چون مردم از دیگر مخارج خود خواهند زد و به سبدِ هزینه‌ی بنزین اضافه خواهند کرد!
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-20:05
-1405/06/15
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏I swear La Liga games are so underrated. Im in for Getafe beating Celta de Vigo.
@@ -5907,15 +5893,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 19:25
-1405/06/15
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ناو هواپیمابر هسته ای آبراهام لینکلن (CVN-72) نیروی دریایی ایالات متحده، ساعاتی پیش توقف خود در بندر لایم-چابانگ (تایلند) را که از 2 سپتامبر سال 2026 آغاز شده بود، به پایان رساند و به مسیر خود به سمت پایگاه اصلی خود، پس از انجام ماموریت در خاورمیانه، ادامه داد.
-‏
-‏@artemis_force
-19:15
 1405/06/15
