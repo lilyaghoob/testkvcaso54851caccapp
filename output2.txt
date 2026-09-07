@@ -1,5 +1,54 @@
+src :@cataphract1
+‏⚜ گزارشات حاکی از پرواز دوباره جنگنده های دولت یمن برای بمباران حوثی ها می‌باشد 
+‏
+‏📃@Cataphract1
+03:26
+1405/06/17
+
+
+
+
 src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: Yemeni ballistic missiles and drones targeted an Aramco facility in Abha, KSA
+‏— 🇸🇦/🇾🇪 Targeted so far:
+‏
+‏– King Khalid Airbase, Khamis Mushait.
+‏
+‏– Abha International Airport.
+‏
+‏– ARAMCO bulk plant, Abha.
+‏
+‏– ARAMCO refinery, Jazan
+‏
+‏@Middle_East_Spectator
+03:25
+1405/06/17
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — Ansarallah UAV activity continues near King Khalid AB, KSA. Footage shows a low-altitude interception near the base.
+03:25
+1405/06/17
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 – NASA's FIRMS appears to suggest Houthi missiles struck the Jazan refinery about an hour ago, and two separate fires (122 FRP and 72 FRP) are raging at the facility.
+‏
+‏📝 Note the red squares don't indicate two massive fires: the satellites that detected them have a lower resolution, so a larger piece of terrain is highlighted for each fire.
+‏
+‏@GeoPWatch
+03:23
+1405/06/17
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇸🇦/🇾🇪 BREAKING: Yemeni ballistic missiles and drones targeted an Aramco storage and distribution site in Abha, Saudi Arabia
 ‏
 ‏@Middle_East_Spectator
 03:22
@@ -1694,23 +1743,6 @@ src :@wfwitness
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦 - A large-scale Russian aerial attack is expected against Ukraine tonight, with Kyiv and Kyiv Oblast facing the highest threat with the Lviv Oblast also potentially targeted.
-‏
-‏▶️ Current estimates suggest the potential use of hundreds of drones, up to 40 cruise missiles and 35–50 ballistic/hypersonic missiles. Up to 8 Tu-95MS and 4 Tu-160 strategic bombers could participate, potentially carrying as many as 60 Kh-101 cruise missiles, with 4 Tu-160 bombers in the air right now flying from East Russia to West Russia to their launch lines.
-‏
-‏▶️ Geran-4 jet drones are expected to continue operating ahead of the main strike, to wear out Air Defense systems protecting the capital. 
-‏
-‏⚡️ Nonetheless, nothing is officially confirmed.
-‏
-‏@GeoPWatch
-23:59
-1405/06/16
-
-
-
-
 src :@jangaavaran1390
 ‏قطع و وصل شدن تموم شد. 👎🔥 | Nexora VPN📶
 ‏
@@ -2051,19 +2083,6 @@ src :@Indypersian
 ‏این جهش قیمتی پس از رشد ۸ درصدی برنت و ۱۰ درصدی WTI در هفته گذشته رخ می‌دهد. ازسرگیری حملات متقابل و کاهش شدید عرضه نفت خاورمیانه در جریان این منازعه، کشورهای خریدار را مجبور کرده است برای جبران کسری بازار به استفاده از ذخایر استراتژیک خود روی آورند.
 ‏
 ‏@indypersian
-23:36
-1405/06/16
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇷🇺 – Two Russian Su-35s fighter jets crashed against each other above Kursk earlier today. The debris of both aircraft is pictured above.
-‏
-‏The status of the pilots remains unknown.
-‏
-‏@GeoPWatch
 23:36
 1405/06/16
 
@@ -2679,15 +2698,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 22:28
-1405/06/16
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇷🇺⚡️ — The Fighterbomber Telegram channel, which is closely affiliated with the Russian Aerospace Forces, reports two Su-35S fighter jets collided in Russia’s Kursk region.  The cause is under investigation, the channel noted.
-22:27
 1405/06/16
 
 
@@ -3375,21 +3385,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دفتر نخست‌وزیری بریتانیا اعلام کرد اندی برنهام، نخست‌وزیر این کشور، روز دوشنبه ۱۶ شهریور در گفتگویی تلفنی با دونالد ترامپ، رئیس‌جمهوری آمریکا، بر لزوم تداوم تلاش‌ها برای دست‌یابی به آتش‌بس و پایان دادن به جنگ روسیه در اوکراین توافق کردند.
-‏
-‏سخنگوی دفتر نخست‌وزیری بریتانیا گفت: «نخست‌وزیر بر حمایت بریتانیا از اوکراین و مذاکرات صلح اخیر به رهبری آمریکا تاکید کرد.» این گفتگو پس از دیدارهای آخر هفته جرد کوشنر و استیو ویتکاف، فرستادگان صلح آمریکا، با ولادیمیر پوتین در مسکو و ولودیمیر زلنسکی در کی‌یف انجام شد.
-‏
-‏برنهام و ترامپ همچنین تحولات خاورمیانه را مورد بررسی قرار دادند. نخست‌وزیر بریتانیا در این گفتگو بر اهمیت راهکار دو دولتی برای حل مناقشه اسرائیل و فلسطین، بازگشایی تنگه هرمز و اطمینان از دست نیافتن ایران به سلاح هسته‌ای تاکید کرد.
-‏
-‏@indypersian
-21:32
-1405/06/16
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡🇩🇪 German police launched an urgent search near the Weisweiler power plant in North Rhine-Westphalia after confirming that several launch devices had been installed near a high-voltage power line, prompting a temporary closure of the A4 motorway. 
@@ -3839,15 +3834,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 20:49
-1405/06/16
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜ میگن شی جین پینگ میخواد کل ژنرال های نظامیش رو سر اینکه چرا این ایده به ذهنشون نرسیده برکنار کنه  📃@Cataphract1
-20:47
 1405/06/16
 
 
@@ -5230,14 +5216,6 @@ src :@mohem_mat
 ‏
 ‏@USPolity
 17:08
-1405/06/16
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 NEW: The Yemeni Armed Forces, Ansarallah, have released images of targeting Saudi-backed PLC troop concentrations and supply hubs in the Al-Wadi’ah camp with ballistic missiles and precision-guided artillery rockets  @Middle_East_Spectator
-17:05
 1405/06/16
 
 
