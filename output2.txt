@@ -1,3 +1,67 @@
+src :@MilitarryWorld
+‏🔴رویترز می گوید در پی تقابل نظامی چند روز گذشته ایران و آمریکا، عبور نفت کش ها از تنگه هرمز کاهش یافته و به پایین ترین سطح خود در 3 ماه گذشته رسیده است.
+‏
+‏@MilitarryWorld | Parsa
+11:07
+1405/06/16
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏#تاریخنگار_فضایی 
+‏
+‏در 7 سپتامبر 2013 کاوشگر جو و محیط غبار ماه ( The Lunar Atmosphere and Dust Environment Explorer) یا لدی (LADEE) توسط ناسا به سمت ماه پرتاب شد 
+‏
+‏این فضاپیما سوار بر یک موشک میناتور 5  و از مرکز فضایی "ناسا" در ایالت ویرجینیا به فضا پرتاب شد.
+‏
+‏این فضاپیما در طول هفت ماه چرخش خود به دور ماه توانست با تجهیزات خود اگزوسفر ماه و غبارهای آن را بررسی کند 
+‏
+‏
+‏@rus_cosmos
+11:06
+1405/06/16
+
+
+
+
+src :@ClashReport
+[عکس]
+‏China is actively researching humanoid robots for military use. 
+‏
+‏Reuters reviewed 100+ procurement records, patents, and military papers showing the PLA planning for eventual battlefield deployment. 
+‏
+‏A 2025 military university paper modeled humanoid robots in an urban assault force clearing buildings alongside troops. 
+‏
+‏The PLA's newspaper called for accelerating transfer of robot tech from labs to training grounds. 
+‏
+‏State defense company Norinco has built a humanoid called Fuxi for sentry duty and reconnaissance. 
+‏
+‏Chinese manufacturers made 95% of global humanoid shipments in 2025. 
+‏
+‏No armed humanoid has been deployed yet — analysts say five to ten years before they're battlefield-ready. 
+‏
+‏A PLA researcher wrote: 
+‏
+‏Humanoid robots will stream onto the battlefield.
+11:03
+1405/06/16
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏همچنین در این تصویر با وضوح بالا خسارت به وارده به این ساختمان طی جنگ 39 روزه که پیشتر در کانال گفته شده بود مشخص است.
+‏
+‏@P_raetorio
+11:03
+1405/06/16
+
+
+
+
 src :@mohem_mat
 ‏♨️دلایل رویکرد تحصیلکرده‌ها به خرافات: همه دنبال خوشبختی اند
 ‏
@@ -20,6 +84,18 @@ src :@mohem_mat
 ‏🔹تمایل به این‌گونه رویکردها بسیار عمیق‌تر و با عمری بسیار طولانی‌تر از فناوری‌های مدرن هستند. در ابتدای قرن بیستم، علم رو به رشد سبب شده بود که بسیاری از پژوهشگران بر این باور باشند که سرانجام علم همه اشکال باورهای غیرعلمی را از میدان به در می‌کند، در حالی که آنچه شاهدش شدیم، این بود که این رویکردها خود را در علم و کنشگرانش نیز بازتولید کرده‌اند./اعتماد
 ‏
 ‏🇮🇷 @jamarannews
+11:02
+1405/06/16
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴فوری
+‏
+‏کانال ۱۴ اسرائیل:ارتش اسرائیل قصد دارد طی روزهای آینده کل مجموعه تونل‌های علی طاهر در نبطیه جنوب لبنان را منهدم کند و هشدارهای ایران درباره احتمال ورود مجدد به جنگ را نادیده گرفته است
+‏
+‏🆔@WAR_ROOM_NEWS
 11:02
 1405/06/16
 
@@ -2419,14 +2495,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-‏NEW: An Amazon Prime Air Boeing 767 cargo jet overran the runway at Miami International Airport and caught fire.   Heavy black smoke visible from across the city.   The FAA issued a ground stop.
-01:26
-1405/06/16
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇶🇺🇸 المتحدث باسم وزارة الخارجية الأمريكية: 
 ‏"لقد انطلق العراق في مسار جديد تحت قيادة رئيس الوزراء الزيدي، وذلك في شراكة كاملة مع الولايات المتحدة. وكما أوضح الرئيس ترامب خلال استضافته الزيارة التاريخية لرئيس الوزراء الزيدي في 14 يوليو، فإن الولايات المتحدة تدعم بقوة رؤيته لضمان مستقبل أفضل لجميع العراقيين خالين من الإرهاب، ومنع الهجمات داخل الأراضي العراقية ومنها، وتحقيق شراكة أمريكية عراقية قوية ومثمرة للطرفين".
@@ -3206,16 +3274,6 @@ src :@P_raetorio
 
 
 
-src :@MilitarryWorld
-‏🔴خبر رفع فیلتر اینستاگرام تکذیب شد
-‏
-‏@MilitarryWorld | Parsa
-22:48
-1405/06/15
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏Trump posts:  Goodbye, Iranian Kharg Island.
@@ -3237,17 +3295,6 @@ src :@Alibk3
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — Iranian Secretary of the Supreme National Security Council, Mohsen Rezai:  "48 hours ago, for the first time, we tested an Iranian anti-ship missile above an American warship.  This special missile created a hell for the Americans, and they fled". …
 22:44
-1405/06/15
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏#بدون_شرح 
-‏
-‏@P_raetorio
-22:43
 1405/06/15
 
 
@@ -5010,14 +5057,6 @@ src :@samueltarikh
 ‏وارد حومه شمالی شهر حیس در جنوب بندر استراتژیک الحدیده شدند و آن را تصرف کردند،
 ‏نیرو های تحت حمایت عربستان و امارات در حال پیشروی به سمت بندر استراتژیک الحدیده در سواحل دریای سرخ می‌باشند.
 16:27
-1405/06/15
-
-
-
-
-src :@Minas_Tirith2024
-‏سایت پدافندی S-300/S-400 بندر سوچی نیز شب گذشته هدف حمله پهپادهای اوکراینی قرار گرفت که انفجار ثانویه و اثر سوزش سوخت جامد در ویدئو دیده می شود.  @Minas_Tirith2024
-16:20
 1405/06/15
 
 
