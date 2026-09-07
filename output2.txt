@@ -1,4 +1,44 @@
 src :@Middle_East_Spectator
+‏More launches from Yemen.
+03:16
+1405/06/17
+
+
+
+
+src :@Ali_bk_2
+‏Launched
+03:14
+1405/06/17
+
+
+
+
+src :@Alibk3
+‏انطلقت
+03:14
+1405/06/17
+
+
+
+
+src :@Ali_bk_2
+‏Launched
+03:14
+1405/06/17
+
+
+
+
+src :@Alibk3
+‏انطلقت
+03:14
+1405/06/17
+
+
+
+
+src :@Middle_East_Spectator
 ‏Initial reports of impacts at King Khalid Airbase in Khamis Mushait, KSA.
 03:06
 1405/06/17
@@ -573,38 +613,6 @@ src :@naya_foriraq
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Field developments in southwest al-Bayda following an attack by UAE-backed forces:
-‏
-‏UAE-backed forces launched an attack along a front stretching about 8 km from Hayd al-Khazzan toward al-Nasifa.
-‏
-‏The prior announcement of the operation deprived it of the element of surprise and gave Yemeni forces time to prepare.
-‏Several members of the Giants Brigades were killed, including commanders and fighters.
-‏
-‏A lull currently prevails after the first wave ended, with no significant territorial gains.
-01:42
-1405/06/17
-
-
-
-
-src :@Alibk3
-[عکس]
-‏مستجدات ميدانية في جنوب غرب البيضاء بعد هجوم القوات الموالية للإمارات:
-‏
-‏بدأت قوات القوات الموالية للإمارات هجومًا على جبهة بطول نحو 8 كم من حيد الخزان باتجاه الناصفة.
-‏
-‏الإعلان المسبق عن العملية أفقدها عنصر المفاجأة، ومنح القوات اليمنية وقتاً للاستعداد.
-‏سقط عدد من قتلى قوات العمالقة، بينهم قياديون ومقاتلون.
-‏
-‏حالياً يسود هدوء بعد انتهاء الموجة الأولى، دون تحقيق تقدم ميداني يُذكر.
-01:42
-1405/06/17
-
-
-
-
 src :@naya_foriraq
 ‏رشقة صاروخية نحو خميس مشيط بالسعودية  https://t.me/naya_foriraq
 01:38
@@ -781,28 +789,6 @@ src :@samueltarikh
 ‏@llFrreak
 ‏@llFrreak
 ‏@llFrreak
-01:26
-1405/06/17
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Iran's National Security Council chief:
-‏
-‏In recent days, Washington has received a clear warning from Iran's new missiles. The economic war will be met by imposing a maritime exclusion zone across the Persian Gulf extending to the vicinity of the blockade. The operational situation regarding warships and U.S. bases has been radically reassessed.
-01:26
-1405/06/17
-
-
-
-
-src :@Alibk3
-[عکس]
-‏رئيس مجلس الأمن القومي الإيراني:
-‏
-‏في الأيام الأخيرة، تلقت واشنطن تحذيراً واضحاً من الصواريخ الإيرانية الجديدة. سيتم الرد على الحرب الاقتصادية بفرض منطقة حظر بحري عبر الخليج الفارسي وصولاً إلى محيط الحصار. وقد أُعيد تقييم الوضع العملياتي تجاه السفن الحربية والقواعد الأمريكية بشكل جذري.
 01:26
 1405/06/17
 
