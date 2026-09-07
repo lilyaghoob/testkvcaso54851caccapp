@@ -1,3 +1,58 @@
+src :@ClashReport
+[عکس]
+‏UAE presidential adviser Gargash says "rebuilding trust with Iran may take decades." 
+‏
+‏At the Hili Forum in Abu Dhabi he said:
+‏
+‏UAE energy exports "will not be held hostage" to the Hormuz crisis, that no single state should control the strait, and called the UAE's response to Iranian missile attacks a "military success story."
+13:20
+1405/06/16
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇷🇺 Russia says "there will never be trust in the West again."
+‏
+‏@BRICSNews
+13:20
+1405/06/16
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏هلسینکی،پاییتخت فنلاند پس از بمباران جنگنده‌های شوروی در طول جنگ زمستان میان دو کشور،1939
+‏
+‏#مروری_بر_تاریخ 
+‏
+‏@P_raetorio
+13:18
+1405/06/16
+
+
+
+
+src :@ClashReport
+[عکس]
+‏NEW: Germany is making its case at the ICJ today that the Nicaragua v. Germany lawsuit over Gaza should be dismissed before reaching the merits. 
+‏
+‏Nicaragua accuses Germany of facilitating genocide through military and financial support for Israel. 
+‏
+‏Germany's lead objection: the Court would have to rule on Israel's conduct first, but Israel isn't a party and hasn't consented — making the case legally impossible to proceed. 
+‏
+‏Nicaragua responds tomorrow, arguing Germany's own obligations can be judged independently. 
+‏
+‏A ruling on these preliminary objections is expected in about six months. 
+‏
+‏Hearings run through Thursday.
+13:17
+1405/06/16
+
+
+
+
 src :@defence_news
 [عکس]
 ‏تصاویر ماهواره ای با کیفیت پايگاه احمد الجابر هم اومده و سه برخورد  دیده میشه
@@ -5,6 +60,23 @@ src :@defence_news
 ‏ 
 ‏
 ‏و بله تماما رهگیری شده بودن 👍
+13:17
+1405/06/16
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻نقطه آسیب‌پذیر آمریکا در برابر کانادا
+‏
+‏▪️مجله اکونومیست گزارش داد، منطق پشت جنگ تجاری دونالد ترامپ با کانادا ساده است: آمریکا همه برگ‌های برنده را در دست دارد. اما این دیدگاه، میزان آسیب‌پذیری آمریکا در برابر یکی از بزرگ‌ترین شرکای تجاری‌اش را دست‌کم می‌گیرد.
+‏
+‏▪️کانادا حدود ۱۵ درصد از کل صادرات کالایی آمریکا را خریداری می‌کند و برای ۳۴ ایالت، بزرگ‌ترین مقصد صادراتی به شمار می‌رود. کانادا عمداً تلاش می‌کند این پیوندهای تجاری را به اهرم فشار سیاسی تبدیل کند. 
+‏
+‏▪️راهبرد کانادا بیش از هر جا در غرب میانه آمریکا آشکار است. میشیگان، اوهایو و آیووا همگی میزبان رقابت‌های سرنوشت‌ساز سنا هستند و هر سه از این جنگ آسیب خواهند دید. اقدامات تلافی‌جویانه کانادا تنها تهدید پیش روی جمهوری‌خواهان نیست. تعرفه‌های خود ترامپ نیز قیمت‌ها را در آمریکا افزایش خواهد داد.
+‏
+‏🆔 @Americana_ir
 13:17
 1405/06/16
 
@@ -2089,21 +2161,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏The U.S. Navy secretly spent four months clearing Iranian mines from the Strait of Hormuz.
-‏
-‏Small teams of Navy divers and underwater robots used sonar to locate Iranian mines, which were then destroyed with explosives.
-‏
-‏Trump said the mines had been cleared, but shipping companies remain cautious as Iran could re-mine the strait and missile and drone attacks continue.
-‏
-‏Source: FT
-10:40
-1405/06/16
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏نیروی هوایی پاکستان از سامانه پدافند هوایی آسلسان کورکوت ساخت ترکیه رونمایی کرد
@@ -2163,19 +2220,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 10:35
-1405/06/16
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Germany’s ruling CDU is preparing tougher citizenship rules to counter the rising AfD.
-‏
-‏The proposals include ending dual citizenship, stricter German-language requirements, full financial independence and stronger requirements to reject antisemitism.
-‏
-‏Source: The Telegraph
-10:34
 1405/06/16
 
 
@@ -4814,15 +4858,6 @@ src :@GeoPWatch
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔻چرا دیتاسنترها این روزها در آمریکا موضوعی جنجالی شده‌اند؟  ▪️این روزها در آمریکا موضوعی که تا همین چند وقت پیش در محافل تخصصی فناوری و انرژی مطرح بود، به یکی از بحث‌های داغ سیاسی تبدیل شده است: دیتاسنترها یا مراکز داده. مراکز عظیمی که برای توسعه هوش مصنوعی…
-20:12
-1405/06/15
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Precision-guided air-launched munitions for the Su-57E, displayed by Rosoboronexport at the El Alamein International Airshow 2026 in Egypt:
@@ -5180,14 +5215,6 @@ src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 A Colonel in the Iranian Army: ‘I humbly request that the Supreme Commander provide me with a boat loaded with bombs and a suicide vest so that I can ram it into an American warship and blow it up.‘  @Middle_East_Spectator
 19:29
-1405/06/15
-
-
-
-
-src :@defence_news
-‏پرونده جنگ رمضان  قسمت سوم : حمله سوخو۲۴ های نهاجا به پایگاه هوایی العدید  تسلیحاتی که می‌توانست جان ۴ خلبان ایرانی را نجات دهد!  راوی: مجتبی خاجی  @IRANDEZH_ONLINE
-19:28
 1405/06/15
 
 
