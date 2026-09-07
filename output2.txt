@@ -2574,15 +2574,6 @@ src :@BellumActaNews
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏A U.S. aircraft crashes at Miami Airport.
-22:04
-1405/06/15
-
-
-
-
 src :@naya_foriraq
 ‏🔻امرأة تخالف طابور الوقود وتتسبب باعتقال مدير محطة في كركوك
 ‏
