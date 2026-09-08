@@ -1,3 +1,41 @@
+src :@tabzlive
+‏🇸🇦🇾🇪❌🇾🇪 — Saudi-led Coalition spokesman Maj. Gen. Turki Al-Maliki says the Houthis (Ansarallah) recently targeted “civilian and economic sites” in Saudi Arabia’s Abha, Khamis Mushait, Jazan, and Najran, injuring 73 civilians, including women and children.…
+09:07
+1405/06/17
+
+
+
+
+src :@Ali_bk_2
+‏Satellite images now show fires breaking out at the Jazan refinery in Saudi Arabia.
+09:06
+1405/06/17
+
+
+
+
+src :@Alibk3
+‏صور الأقمار الصناعية تظهر الآن اشتعال النيران بمصفاة جازان بالسعودية.
+09:06
+1405/06/17
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏صبح همگی بخیر
+‏
+‏آینده نیرو دریایی ایتالیا 
+‏
+‏
+‏@artemis_force
+09:04
+1405/06/17
+
+
+
+
 src :@intelslava
 ‏Expel the British ambassador tonight!  
 ‏
@@ -74,7 +112,7 @@ src :@naya_foriraq
 
 
 src :@mohem_mat
-‏حکم اخراج مهیار افتخاری و امیرمحمد کریمی، دو دانشجوی دانشگاه تهران، در کمیته تجدیدنظر این دانشگاه تأیید شد.
+‏حکم اخراج مهیار افتخاری و امیرمحمد کریمی، دو دانشجوی دانشگاه تهران، به دلیل برخی اعتراضات زمستان ۱۴۰۴ در این دانشگاه در کمیته تجدیدنظر دانشگاه تأیید شد.
 ‏
 ‏طبق ادعا ها، امیرمحمد کریمی فرزند سردار کریمی هئیت علمی دانشگاه مالک اشتر وزارت دفاع است
 ‏
@@ -497,21 +535,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 08:25
-1405/06/17
-
-
-
-
-src :@mohem_mat
-‏در ساختار ناکارآمد و فسادزده کشور، اثر تحریمهای خارجی فزاینده میشود؛ باندهای فاسد اقتصادی رشد می کنند و توان مقابله با نفوذ عمیق وجود ندارد.
-‏"تغییر ساختار اجتناب ناپذیر است".
-‏
-‏Mohamad Sarafraz (@sarafrazmohamad)
-‏
-‏رییس اسبق صدا و سیما
-‏
-‏@mohem_mat
-08:21
 1405/06/17
 
 
@@ -1262,14 +1285,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-‏🇷🇺❌🇺🇦 — Four Iskander-M SRBM launches from Bryansk Oblast, Russia towards Kyiv, Ukraine.
-04:14
-1405/06/17
-
-
-
-
 src :@intelslava
 ‏🇷🇺🇺🇦⚡️ — Repeated launch maneuvers by Russian Tu-95MS strategic bombers.
 ‏
@@ -1938,22 +1953,6 @@ src :@Ali_bk_2
 src :@Alibk3
 ‏دوي انفجار ثامن في جنوب السعودية.
 02:13
-1405/06/17
-
-
-
-
-src :@Ali_bk_2
-‏Circulating footage shows drones exploding in Saudi Arabia.
-02:06
-1405/06/17
-
-
-
-
-src :@Alibk3
-‏مشاهد متداولة لانفجار مسيرات في السعودية.
-02:06
 1405/06/17
 
 
@@ -5038,17 +5037,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[عکس]
-‏The Hind Rajab Foundation (HRF) has filed a criminal complaint in Slovenia against Israeli Foreign Minister Gideon Sa’ar ahead of his expected visit to Ljubljana on 9–10 September 2026.
-‏
-‏HRF alleges that Sa’ar, as a member of Israel’s Security Cabinet, bears responsibility for war crimes, torture, and acts of genocide in Gaza.
-18:52
-1405/06/16
-
-
-
-
 src :@samueltarikh
 ‏بسیج عمومی در سراسر یمن در حال وقوع است،
 ‏یمن بار دیگر پس از 5 سال درگیر یک جنگ داخلی تمام‌عیار شده است و نبردهای متعددی در تقریباً تمام جبهه‌های یمن در جریان است.
@@ -6575,19 +6563,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 09:11
-1405/06/16
-
-
-
-
-src :@ircfspace
-[عکس]
-‏کاسپین یه ابزار رایگان و متن‌باز برای ویندوز، مک، لینوکس و رزبری‌پای هست، که دستگاهتون رو به یک هات‌اسپات مجهز به VPN تبدیل می‌کنه تا بتونین فیلترشکن رو با همه دستگاه‌های خونه به اشتراک بذارین.
-‏کافیه لینک VLESS، VMess، Trojan، Shadowsocks یا Hysteria2 خودتون رو وارد کنید، تا ترافیک دستگاه‌هایی که به Wifi کاسپین وصل میشن، از تانل Xray رد بشه؛ بدون اینکه لازم باشه روی تک‌تک دستگاه‌ها VPN یا پروکسی نصب کنین. درضمن اگه تانل قطع بشه، کاسپین دسترسی اینترنت دستگاه‌های متصل رو قطع می‌کنه.
-‏
-‏👉 github.com/Iman/caspian/releases
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-09:02
 1405/06/16
