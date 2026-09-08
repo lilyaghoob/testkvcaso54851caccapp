@@ -1,3 +1,23 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷 - An MQ-4C Triton has just taken off from Prince Hassan Air Base.
+‏
+‏@GeoPWatch
+05:34
+1405/06/17
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇷🇺❌🇺🇦 - The Iskander-Ks are approaching Kyiv from the North East.  @GeoPWatch
+05:33
+1405/06/17
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏علی مدنی‌زاده، وزیر امور اقتصادی و دارایی، گفت «توسعه روابط با روسیه» در برنامه‌های دولت قرار دارد و افزود مسعود پزشکیان «به‌صورت جدی پیگیر اجرای طرح‌های مشترک تهران و مسکو بوده و است.»
@@ -472,17 +492,6 @@ src :@tabzlive
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦💥 - Patriot Interceptors were reported above Kyiv, with reports of some interceptions. However impacts have also been reported and detected in Kyiv and Bila Tservka.
-‏
-‏@GeoPWatch
-04:06
-1405/06/17
-
-
-
-
 src :@Indypersian
 ‏⭕️ماموریت‌های ویژه یگان مخفی اسرائیل؛ ساخت باند فرود هواپیما برای پیاده کردن نیرو پشت خطوط دشمن
 ‏
@@ -519,15 +528,6 @@ src :@IranintlTV
 src :@tabzlive
 ‏🇷🇺❌🇺🇦 — Zircon impacts in Kyiv, Ukraine. Unsuccessful MIM-104 Patriot interception attempts were made.  Four Iskander-M SRBMs are now approaching.
 04:03
-1405/06/17
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦 - Iskander-Ms and 4 Kn-23s are on the way to Kyiv.
-04:02
 1405/06/17
 
 
