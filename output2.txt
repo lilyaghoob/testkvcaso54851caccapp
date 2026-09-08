@@ -1,3 +1,48 @@
+src :@rnintel
+[عکس]
+‏🇾🇪 - A very low-tier false news report by a channel affiliated with Iran's IRGC's propagation wing:
+‏
+‏- Map 1: Rerum Novarum's map of the southwest Ta'izz direction.
+‏- Map 2: An Arabic map of the same direction.
+‏- Map 3: The IRGC's propaganda channel's map of the same direction.
+‏
+‏The channel, using the Arabic map, claimed that Ansarullah forces have captured a key junction. The map incorrectly labels the junction "al-Mafraq," when in reality, al-Mafriq is located further west, just east of the Khalid bin Walid Military Camp. The rest of the locations seem correctly labelled on the Arabic map, as compared to Rerum Novarum's.
+‏
+‏The junction in question that was captured is the Moazza'a Junction, which Rerum Novarum reported on three days ago. It was not captured today, or even recently.
+‏
+‏The IRGC's propaganda channel, instead of matching the Arabic map with Google Map to assess the location from the terrain or roads, decides to publish the loss of al-Mafraq to the Ansarullah forces, a completely different location that doesn't even match the terrain of the Arabic map that posted just minutes prior.
+‏
+‏The junction does however lie on a key Ta'izz - Mocha supply route, as previously stated by Rerum Novarum.
+‏
+‏Rerum Novarum has previously reported on the Khalid bin Walid Military Camp and its importance HERE.
+21:16
+1405/06/17
+
+
+
+
+src :@intelslava
+‏JUST IN: 🇬🇧 Technical failure at NATS Swanwick control centre halts departures from London Heathrow and Gatwick, causing major air traffic disruption as engineers work to restore normal operations.
+‏
+‏@BreakingGlobalHQ
+21:13
+1405/06/17
+
+
+
+
+src :@mohem_mat
+‏به گزارش «الحدث»، نبیه بری، رئیس پارلمان لبنان، و نواف سلام، نخست‌وزیر این کشور، بر سر آغاز استقرار ارتش لبنان در منطقه اقلیم التفاح در جنوب لبنان به توافق رسیده‌اند.
+‏
+‏جلوگیری از تکرار سرنوشت تپه علی‌الطاهر در این منطقه، از اهداف این اقدام عنوان شده است.
+‏
+‏@Squad_iran
+21:13
+1405/06/17
+
+
+
+
 src :@defence_news
 [عکس]
 ‏امرپ RG-31 مارک 5 در کنار وانت های تویوتا لندکروز. امرپ مذکور در کلاس امرپ های سبک تا متوسط قرار میگیرد اما با این وجود همچنان از ابعاد قابل توجهی برخوردار است اما این ابعاد به چه دلیل است؟ 
@@ -12,6 +57,15 @@ src :@defence_news
 ‏#حفاظت
 ‏
 ‏@SNTankograd
+21:12
+1405/06/17
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🔻مشاهد حصرية لنايا...  🇾🇪🇸🇦مساجد مدينتي جيزان وأبها تبدأ بالتكبير، عقب مشاهدة الصواريخ اليمنية في سمائهما وهي تتجه نحو أهداف غير مدنية.
 21:12
 1405/06/17
 
@@ -2383,14 +2437,6 @@ src :@tglobaleye
 ‏Source: Visegrád24
 ‏
 ‏The Global Eye | Subscribe ✈️
-19:03
-1405/06/17
-
-
-
-
-src :@naya_foriraq
-‏🇾🇪🇾🇪عضو المكتب السياسي لحركة أنصار الله محمد البخيتي: سنرد على كل حماقة سعودية في اليمن بقصف العصب الاقتصادي والأصول العسكرية للمملكة واستمرار الحرب بالداخل سيؤدي لخسارة سعودية.  https://t.me/naya_foriraq
 19:03
 1405/06/17
 
@@ -4858,17 +4904,6 @@ src :@thewarreporter
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸🇮🇷⚡️ — Iranian air defenses shot down U.S. Army MQ-1C unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.
-‏
-‏@IntelSlava
-16:38
-1405/06/17
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇬🇷 — Israel and Greece signed the €3.1 billion 'Achilles Shield' air-defense deal today in Tel Aviv, marking the largest defense agreement between the two countries.  The system will integrate David's Sling, SPYDER, and BARAK MX into a nationwide missile…
 16:36
@@ -5313,14 +5348,6 @@ src :@Artemis_Force
 ‏
 ‏
 ‏@artemis_force
-15:01
-1405/06/17
-
-
-
-
-src :@rnintel
-‏🇮🇷⚡- Senior Basij commander Abdolraouf Ishaqi was liquidated in a shooting operation just outside the city of Rask, Sistan and Baluchestan province, southeast Iran, near the border with Pakistan.
 15:01
 1405/06/17
 
@@ -7189,12 +7216,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/06/16/408145/
 21:28
-1405/06/16
-
-
-
-
-src :@Navy_Iranian
-‏حملات ضد کشتی ایران علیه ناو های آمریکایی   همانطور که اطلاع دارید ، روز گذشته سپاه پاسداران با استفاده از موشک بالستیک ضدکشتی دست به عملیات علیه دو ناو آمریکایی زد. در مقابل سنتکام اعلام کرد که دو ناو مورد هدف قرار گرفته آسیبی ندیده اند و ناوشکن از موشک اجنتاب…
-21:13
 1405/06/16
