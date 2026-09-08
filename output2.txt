@@ -1,3 +1,27 @@
+src :@tabzlive
+[عکس]
+‏Here are the flight routes for last night's combined Russian missile and drone attack on Ukraine.
+‏
+‏Preliminarily, the following was launched:
+‏
+‏~24 Kh-101 cruise missiles.
+‏~16 Iskander-M/S-400 ballistic missiles
+‏~10 Iskander-K cruise missiles
+‏~6 Kn-23 ballistic missiles
+‏~2 Zircon hypersonic cruise missiles
+‏~2 Oniks supersonic cruise missiles.
+‏
+‏~60 missiles total
+‏
+‏As of now, I've been able to confirm the interception of approximately 19 Kh-101 cruise missiles, 6 Iskander-K cruise missiles, and 2 Kn-23 ballistic missiles. 
+‏
+‏These numbers will be further adjusted in the coming hours ahead of my full summary of the attack.
+06:39
+1405/06/17
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏دیدار مجازی پیش‌روی شاهزاده رضا پهلوی با نمایندگان و سناتورهای ارشد «ائتلاف استرالیا» با حمایت شماری از اعضای این ائتلاف همراه شده است.
@@ -708,16 +732,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 03:48
-1405/06/17
-
-
-
-
-src :@tabzlive
-‏The Tu-95MS strategic bombers also conducted launch maneuvers. 
-‏
-‏The Kh-101s were launched in several waves, and will enter Ukrainian airspace as such.
-03:46
 1405/06/17
 
 
