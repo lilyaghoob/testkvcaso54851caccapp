@@ -1,3 +1,15 @@
+src :@ClashReport
+‏Türkiye is set to sign an agreement with Russia to increase nitrogen fertilizer imports, including urea, as it faces supply difficulties from Persian Gulf producers.
+‏
+‏The deal will be signed in Moscow by Turkish Deputy Agriculture Minister Ahmet Bagci and his Russian counterpart, Maxim Borovoy, following recent talks between Presidents Erdogan and Putin.
+‏
+‏Source: Bloomberg
+13:15
+1405/06/17
+
+
+
+
 src :@Navy_Iranian
 [عکس]
 ‏نیروی دریایی ٣٣۶ میلیون دلار برای آماده‌سازی ساخت ناو هواپیمابر ویلیام جی. کلینتون اختصاص داد.
@@ -1706,19 +1718,6 @@ src :@mohem_mat
 
 src :@naya_foriraq
 ‏نايا - NAYA pinned a video
-10:46
-1405/06/17
-
-
-
-
-src :@ClashReport
-[عکس]
-‏British diplomats have privately assured the US that new sanctions on Israeli settlements are largely symbolic and will not materially affect UK-Israel trade or security ties.
-‏
-‏The reassurance is aimed at limiting any backlash from the Trump administration as Andy Burnham’s government prepares to announce the measures.
-‏
-‏Source: Bloomberg
 10:46
 1405/06/17
 
@@ -4838,22 +4837,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Minas_Tirith2024
-‏اخبار میدانی یمن 
-‏
-‏♦️در روزهای گذشته، جنگ یمن بعد از چند سال رکود بالاخره وارد فاز جنگ زمینی شد. در ابتدا نیروهای حوثی با یک عملیات غافلگیرانه موفق شدند تا تقاطع راهبردی الشارجه پیشروی کنند. این اقدام موجب مسدود شدن موقت جاده حیاتی تعز–مخا شد. هدف اصلی این تهاجم، جداسازی شهر تعز از کرانه ساحلی و تضعیف پایگاه‌های پشتیبانی ائتلاف بود. در پاسخ به این تحرک، نیروهای مخالف حوثی‌ها دست به یک پاتک گسترده و هماهنگ زدند. در جریان این عملیات، نیروهای دولتی موفق به بازپس‌گیری کامل تقاطع الشارجه و بازگشایی مجدد جاده تعز–مخا شدند و خطر ایزوله شدن شهر تعز را برطرف ساختند. در ادامه متصرفات حوثی‌ها در غرب تعز هم باز پس گرفته شد. در مواجهه با این عقب‌نشینی‌های زمینی، نیروهای حوثی به حملات موشکی روی آوردند و مناطقی در غرب شهر تعز را با موشک‌های بالستیک هدف قرار دادند.
-‏
-‏♦️در جبهه ساحلی، نیروهای وابسته‌ به شورای ریاست‌جمهوری یمن پس از درگیری‌های سنگین، تسلط خود را بر کل شهرستان حِیس تحکیم نموده و با پاکسازی مناطق روستایی باقی‌مانده در شمال حیس، خطوط تماس را به سمت جنوب استان الحدیده پیش بردند. در ادامه نیروهای دولتی پیشروی به سمت مواضع حوثی‌ها در شهرستان الجراحی را آغاز کرده و موفق به بازپس‌گیری چندین نقطه در این محور شدند. اخبار زیادی از تصرف الجراحی منتشر شده اما تا این لحظه تأیید نمی‌شود.
-‏
-‏♦️در محور الجوف، نیروهای شورای ریاست‌جمهوری در یک عملیات غافلگیرکننده، موفق شدند کنترل بخش‌های گسترده و اصلی پادگان استراتژیک اللبنات و مناطق اطراف آن را در شرق استان الجوف در دست بگیرند. پس از این اقدام، یگان‌های رزمی نیروهای دولتی پیشروی خود را به سمت مناطق و ورودی‌های شرقی شهر الحزم ادامه داده‌اند. در استان البیضا هم تعدادی از نقاط راهبردی در خطوط تماس، توسط نیروهای شورای ریاست‌جمهوری تصرف شده‌اند و تلاش برای پیشروی‌های عمقی ادامه دارد.
-‏
-‏♦️در مجموع، نیروهای مخالف حوثی‌ها ابتکار عمل را در جبهه‌های مختلف نبرد در دست گرفته‌اند، هر چند هنوز نمی‌توان مدعی شد که به دستاوردهای راهبردی و تثبیت شده رسیده‌اند.
-21:30
-1405/06/16
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇶🇦🇺🇸 Qatar says Gulf states cannot rely solely on the United States for security.
 ‏
@@ -5008,17 +4991,6 @@ src :@defence_news
 
 
 
-src :@Minas_Tirith2024
-[عکس]
-‏به گزارش کانال روسی فایتربمبر دو فروند جنگنده سوخو۳۵ روسی در آسمان منطقه کورسک با یکدیگر برخورد کرده اند
-‏
-‏@Minas_Tirith2024
-20:53
-1405/06/16
-
-
-
-
 src :@samueltarikh
 ‏جو ویلسون، نماینده کنگره آمریکا:
 ‏
@@ -5164,15 +5136,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 20:27
-1405/06/16
-
-
-
-
-src :@Minas_Tirith2024
-‏یحیی سریع اعلام کرد یک فروند پهپاد CH-4 متعلق به سعودی را بر فراز استان جوف سرنگون کردند که بدین ترتیب می‌شود چهارمین پهپاد در ۲۴ ساعت گذشته 
-‏https://t.me/army21ye/3674
-20:22
 1405/06/16
 
 
@@ -6244,16 +6207,4 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 13:17
-1405/06/16
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇵🇸 — Israeli Defense Minister Israel Katz: 
-‏
-‏"We will start a full-scale war against the Palestinian Authority if it is confirmed that they are preparing for an attack like October 7th".
-‏
-‏@TheWarReporter
-13:16
 1405/06/16
