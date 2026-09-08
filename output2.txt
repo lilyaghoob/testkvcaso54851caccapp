@@ -1,8 +1,85 @@
+src :@mamlekate
+[عکس]
+‏هوش مصنوعی شاید یکی از مشهورترین معماهای حل‌نشده ریاضیات را حل کرده باشد.
+‏
+‏شرکت OpenAI اعلام کرده یک سیستم هوش مصنوعی داخلی توانسته برای «مسئله ناویر–استوکس» راه‌حلی ارائه کند؛ مسئله‌ای که نزدیک به ۹۰ سال ذهن ریاضی‌دان‌ها را درگیر کرده و یکی از هفت «مسئله هزاره» است.
+‏
+‏معادلات ناویر–استوکس رفتار مایعات و گازها را توصیف می‌کنند؛ از جریان آب و گردباد گرفته تا حرکت هوا اطراف هواپیما، پیش‌بینی آب‌وهوا و حتی جریان خون.
+‏
+‏سؤال بزرگ این بود: آیا یک جریان کاملاً آرام و منظم می‌تواند طبق همین معادلات، در مدت زمان محدودی به نقطه‌ای برسد که رفتار ریاضی آن «بی‌نهایت» شود و مدل عملاً از کار بیفتد؟
+‏
+‏نتیجه‌ای که OpenAI منتشر کرده می‌گوید: بله.
+‏
+‏طبق توضیح شرکت، راه‌حل شامل نوعی گرداب است که مدام به سمت داخل فشرده و کشیده می‌شود، سرعتش افزایش پیدا می‌کند و در نهایت به یک «تکینگی» می‌رسد؛ در حالی که انرژی کل سیستم همچنان محدود باقی می‌ماند.
+‏
+‏بخش عجیب‌تر ماجرا اینجاست: شرکت OpenAI می‌گوید حدود ۱۰ هزار عامل هوش مصنوعی به‌طور هم‌زمان روی مسئله کار کردند و پس از حدود ۸۸ ساعت به این نتیجه رسیدند. سپس اثبات با زبان رسمی Lean نیز بررسی و صورت‌بندی شد.
+‏
+‏اگر این اثبات پس از بررسی مستقل ریاضی‌دان‌ها تأیید شود، اهمیت ماجرا فقط حل یک مسئله ریاضی نیست؛ ممکن است یکی از واضح‌ترین نشانه‌ها باشد که هوش مصنوعی از «کمک به پژوهشگر» به سمت «تولید مستقل کشف علمی» در حال حرکت است.
+‏
+‏و شاید سؤال بزرگ بعدی دیگر این نباشد که: «آیا هوش مصنوعی می‌تواند علم را جلو ببرد؟» بلکه این باشد: «با چه سرعتی؟»
+‏
+‏@mamlekate
+02:17
+1405/06/18
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — UKMTO says a vessel was subject "to interaction as part of ongoing military activity in the region" in the Strait of Hormuz on Tuesday evening.
+02:16
+1405/06/18
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🚀Losing around 100 PAC-3 missiles will certainly cause serious concern and sleepless nights for the Trump administration, Israel, and the U.S. military, especially the soldiers stationed at U.S. bases.
+‏
+‏Meanwhile, there is someone currently in Kyiv listening to mournful Shia religious lamentations.”
+02:15
+1405/06/18
+
+
+
+
+src :@naya_foriraq
+‏حدث امني بحري بالقرب من مضيق هرمز.
+02:14
+1405/06/18
+
+
+
+
+src :@ClashReport
+‏IRGC:
+‏
+‏The vigilance and decisive combat operations of the Armed Forces of the Islamic Republic of Iran against the aggressor enemy are increasingly leaving the enemy helpless, and will continue until the aggression is stopped.
+‏
+‏This powerful battle will continue.
+02:12
+1405/06/18
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 UKMTO reports a commercial vessel in the Strait of Hormuz was “subject to interaction as part of ongoing military activity in the region”
+‏
+‏@wfwitness
+02:12
+1405/06/18
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇯🇴/🇮🇷 IRGC Statement (1):
 ‏
-‏‘In retaliation for the unprovoked U.S. attack against Iranian oil tankers, the IRGC Aerospace Force launched a ballistic missile strike on American bases in Jordan with the codename ‘Ya Haidar Al-Karrar’
+‏‘In retaliation for the unprovoked U.S. attack against Iranian oil tankers, the IRGC Aerospace Force launched a powerful ballistic missile strike on American bases in Jordan with the codename ‘Ya Haidar Al-Karrar’.
 ‏
 ‏In this operation to punish the aggressor with a heavy attack using a combination of solid and liquid fuel ballistic missiles, maintenance hangars, forward hangars and shelters of F-35, F-16, and F-15 fighter jets were struck, and heavy damage was inflicted on the enemy.‘
 ‏
@@ -38,7 +115,7 @@ src :@tabzlive
 ‏
 ‏The attacks targeted maintenance and preparation hangars, deployment areas for F-35, F-16, and F-15 fighter jets, and aircraft shelters, which the IRGC claimed caused heavy damage.
 ‏
-‏The IRGC said its military operations against U.S. forces will continue until the attacks stop, concluding, "This battle will continue.”
+‏The IRGC said its military operations against U.S. forces will continue until the attacks stop, concluding, "This powerful battle will continue.”
 02:11
 1405/06/18
 
@@ -46,7 +123,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏حدث امني بحري
+‏حدث امني بحري بالقرب من مضيق هرمز.
 02:11
 1405/06/18
 
@@ -406,14 +483,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏الجيش الأمريكي: ‏أعلنت القيادة المركزية الأمريكية أن القوات الأمريكية دمرت خمس ناقلات نفط خام إيرانية في 8 سبتمبر/أيلول، وذلك بعد هجومين صاروخيين باليستيين شنهما الحرس الثوري الإيراني على سفينة حربية تابعة للبحرية الأمريكية خلال يومين. وقد نجت السفينة من الهجومين، ولم يُصب أي من أفراد القوات الأمريكية بأذى.
-01:46
-1405/06/18
-
-
-
-
 src :@guard_warriors
 ‏تلویزیون سوریه در گزارشی گفته که یک موشک بالستیک رو رهگیری کردن 
 ‏
@@ -479,16 +548,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202609088511
 01:44
-1405/06/18
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر 
-‏
-‏زاوية صفر مشاهد بعد قليل من إطلاق صاروخ باتجاه الأزرق
-01:43
 1405/06/18
 
 
@@ -1763,21 +1822,6 @@ src :@guard_warriors
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇨🇴🇨🇱🇵🇪🇪🇨 Colombia National Police and the Attorney General Office dismantled the "Los Orión" network, dedicated to the transnational trafficking of explosives, capturing six of its members, including leader alias "Mauro"
-‏
-‏The group smuggled explosives from Chile, Peru, and Ecuador to supply the "Jaime Martínez" and "Dagoberto Ramos" structures, as authorities seized 17,000 detonators, 100 kg of chemical inputs, weapons, and vehicles.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:59
-1405/06/18
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2634,21 +2678,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-23:47
-1405/06/17
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: Iran launched a second wave of missile attacks on U.S. Navy ships within three days, but none of the American vessels were hit. 
-‏
-‏The strikes are raising concern in Washington because Iran appears to be using more advanced missiles capable of targeting moving ships.
-‏
-‏U.S. officials are also examining whether China or Russia may be helping Iran locate American warships.
-‏
-‏Source: WSJ
 23:47
 1405/06/17
 
@@ -4210,21 +4239,6 @@ src :@mwarmonitor
 src :@OSINTWarfare
 ‏The IRGC Navy claims it monitored, ambushed, and captured a highly advanced U.S. unmanned underwater vehicle (UUV) in the Strait of Hormuz.  The UUV has been identified as the Dive-LD, an autonomous underwater vehicle (AUV) developed by Anduril. The Dive-LD…
 21:31
-1405/06/17
-
-
-
-
-src :@mamlekate
-‏📝 تحریم ۳۵ شرکت، ایرلاین، نهاد و فرد در ارتباط با صنعت هوانوردی حکومت ایران
-‏
-‏دفتر کنترل دارایی‌های وزارت خزانه‌داری آمریکا (OFAC) ۱۷ شهریور ۱۴۰۵ در چارچوب عملیات «طرد اقتصادی»، ۳۶ فرد و نهاد وابسته به جمهوری اسلامی را به دلیل حمایت از بخش هوانوردی حکومت ایران که جمهوری اسلامی از آن برای جابجایی تسلیحات، نیرو و محموله‌های غیرقانونی استفاده می‌کند، تحریم کرد.
-‏
-‏
-‏📝 هشدار بسنت: تجارت با شرکت‌های هواپیمایی جمهوری اسلامی پیامدهای سنگینی دارد
-‏
-‏@mamlekate
-21:30
 1405/06/17
 
 
