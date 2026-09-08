@@ -1,14 +1,97 @@
+src :@MilitarryWorld
+‏🔴خبرگزاری انتخاب: برخی منابع خبری می‌گویند حداقل ۳۰ موشک بالستیک به سمت پایگاه های آمریکا در اردن پرتاب شده است
+‏
+‏@MilitarryWorld | Parsa
+01:27
+1405/06/18
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 – Preliminary reports indicate another Iranian oil tanker, identified as the 'DERYA', was struck by U.S. forces.
+‏
+‏Reports are just emerging, so it's unclear if the attack took place before the Iranian retaliation was launched.
+‏
+‏@GeoPWatch
+01:27
+1405/06/18
+
+
+
+
+src :@Shin_Persian
+[ویدئو]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Jordan
+‏
+‏ترجمه خودکار فارسی
+‏
+‏اردن
+‏
+‏𝕏  ·  @shin_persian
+01:26
+1405/06/18
+
+
+
+
+src :@Alibk3
+‏لمتابعة التغطية الإخبارية على قناة الاحتياط.
+‏
+‏For English-language news coverage, follow our English-language channel.
+‏https://t.me/Ali_bk_2
+01:26
+1405/06/18
+
+
+
+
 src :@Ali_bk_2
 [ویدئو]
-‏Missiles are raining down on US bases in Jordan
+‏Missiles over Jordan
+01:24
+1405/06/18
+
+
+
+
+src :@GeoPWatch
+[ویدئو]
+‏🇮🇷❌🇺🇸🇯🇴 - Further footage of tonight's Iranian attack on U.S. bases in Jordan. Utilizing over 40 Ballistic Missiles.
+‏
+‏@GeoPWatch
+01:24
+1405/06/18
+
+
+
+
+src :@bricsnews
+[ویدئو]
+‏JUST IN: 🇮🇷🇺🇸 Iran launches cluster munition missiles at US bases in Jordan.
+‏
+‏@BRICSNews
+01:23
+1405/06/18
+
+
+
+
+src :@naya_foriraq
+‏مصدر محلي لنايا 
+‏
+‏اكثر من ٥٠ عمليات إطلاق من منظومة الباترويت في قاعدة الأزرق
 01:22
 1405/06/18
 
 
 
 
-src :@rnintel
-‏🇮🇷🇯🇴 - Jordan has decided to use the entire globe's supply of Patriot interceptors by deciding to intercept every single submunition of every Iranian cluster.
+src :@Ali_bk_2
+[ویدئو]
+‏Missiles are raining down on US bases in Jordan
 01:22
 1405/06/18
 
@@ -136,7 +219,7 @@ src :@rnintel
 
 src :@rus_cosmos
 [عکس]
-‏تصویر زیر نمایی برش‌خورده از کلاهک بارشی موشک‌ خرمشهر-۴ 
+‏تصویر فوق نمایی برش‌خورده از کلاهک بارشی موشک‌ خرمشهر-۴ 
 ‏
 ‏ کلاهک بارشی ( Multiple independently targetable reentry vehicle ) به‌جای برخورداری از یک سرجنگی واحد، به‌تناسب ماموریت، از چندین و چند نوع ریزمهمات کوچک‌تر بهره‌مند است.
 01:19
@@ -433,14 +516,6 @@ src :@samueltarikh
 
 
 
-src :@naya_foriraq
-‏انفجارات تسمع بوضوح من ام الرشراش إيلات نتيجة الصواريخ الإيرانية
-01:12
-1405/06/18
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸 - In the last 20 minutes Iran has launched around 40 Ballistic Missiles. If confirmed, this is the largest Iranian attack since April.
 ‏
@@ -463,14 +538,6 @@ src :@guard_warriors
 
 src :@samueltarikh
 ‏⭕️هم اکنون شلیک موشک از زنجان
-01:12
-1405/06/18
-
-
-
-
-src :@naya_foriraq
-‏يوم القيامة في الأردن بالمختصر
 01:12
 1405/06/18
 
@@ -503,6 +570,11 @@ src :@mamlekate
 
 src :@WAR_ROOM_NEWS
 ‏بنابر گزارش سپاه پاسداران ۱۳ تیر موشک بالستیک به سمت اردن شلیک کرده که ظاهراً چند مورد کلاهک خوشه‌ای هم داشتند
+‏
+‏#موشک_بالستیک 
+‏#موشک_پتریوت 
+‏#سپاه
+‏#امریکا
 ‏
 ‏🆔@WAR_ROOM_NEWS
 01:11
@@ -669,33 +741,6 @@ src :@Middle_East_Spectator
 ‏
 ‏More than 30+ missiles launched.
 01:09
-1405/06/18
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏A very violent Iranian attack on American bases in Jordan
-01:09
-1405/06/18
-
-
-
-
-src :@Ali_bk_2
-[ویدئو]
-‏Allahu Akbar  Direct hits in Jordan
-01:09
-1405/06/18
-
-
-
-
-src :@Alibk3
-[عکس]
-‏هجوم إيراني عنيف جدا على القواعد الأميركية بالأردن
-01:08
 1405/06/18
 
 
@@ -970,14 +1015,6 @@ src :@tabzlive
 
 
 
-src :@Middle_East_Spectator
-‏Launches from Zanjan, Qom, Yazd
-01:02
-1405/06/18
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸 - New BM launches from Kermanshah, Iran.
 ‏
@@ -1018,16 +1055,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 01:02
-1405/06/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇺🇸/🇯🇴 BREAKING: Interception attempts ongoing at Muwaffaq Salti Airbase and Prince Hassan Airbase, Jordan
-‏
-‏@Middle_East_Spectator
-01:01
 1405/06/18
 
 
@@ -1119,38 +1146,10 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸 – More blasts heard in Khorram, additional launches towards Jordan.
-‏
-‏@GeoPWatch
-01:00
-1405/06/18
-
-
-
-
-src :@Middle_East_Spectator
-‏This is a substantial barrage.
-01:00
-1405/06/18
-
-
-
-
 src :@guard_warriors
 ‏از منطقه نیگرای اراک هم شلیک کردن 
 ‏
 ‏@Guard_Warriors
-01:00
-1405/06/18
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸❗️- Reports of additional BM launches from East of Arak, Araz, Markazi Province, Iran.
-‏
-‏@GeoPWatch
 01:00
 1405/06/18
 
@@ -1680,34 +1679,10 @@ src :@Shin_Persian
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏BM launch from Yazd
-‏
-‏Yazd Province
-‏
-‏[Delayed Post via FromIran · 120-second delay] 👇
-‏https://fromiran.sh1n.org/instant
-‏
-‏ترجمه خودکار فارسی
-‏
-‏پرتاب موشک بالستیک از یزد
-‏
-‏استان یزد
-‏
-‏[انتشار با تأخیر از طریق FromIran · ۱۲۰ ثانیه تأخیر] 👇
-‏https://fromiran.sh1n.org/instant
-‏
-‏𝕏  ·  @shin_persian
-00:55
-1405/06/18
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏پرتاب موشک از یزد و اصفهان مخابره شده
+‏
+‏🆔@WAR_ROOM_NEWS
 00:55
 1405/06/18
 
@@ -1727,6 +1702,8 @@ src :@MilitarryWorld
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏ظاهرا سپاه موشک‌هایی نیز به سمت تنگه هرمز شلیک کرده است
+‏
+‏🆔@WAR_ROOM_NEWS
 00:53
 1405/06/18
 
@@ -1746,14 +1723,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@rnintel
-‏🇮🇷⚡- Ballistic missile launches from the center of Iran.
-00:52
-1405/06/18
-
-
-
-
 src :@P_raetorio
 ‏#فوری
 ‏گزارش‌ها از شلیک موشک بالستیک از اصفهان
@@ -1767,6 +1736,8 @@ src :@P_raetorio
 
 src :@WAR_ROOM_NEWS
 ‏اخبار حاکی از پرتاب موشک‌هایی از ایران است
+‏
+‏🆔@WAR_ROOM_NEWS
 00:52
 1405/06/18
 
@@ -1981,15 +1952,6 @@ src :@P_raetorio
 ‏ASAPSERVICE
 ‏Fast • Secure • Reliable
 00:16
-1405/06/18
-
-
-
-
-src :@P_raetorio
-[ویدئو]
-‏⚜ بازار تحلیل ها دوباره داغ شد  📃@Cataphract1
-00:14
 1405/06/18
 
 
@@ -3449,14 +3411,6 @@ src :@didarnews1
 
 
 
-src :@MilitarryWorld
-‏🔴فوری/شبکه خبری i24: ارتش آمریکا در حال حمله گسترده به نفتکش های ایرانی در خلیج فارس و دریای عمان می‌باشد  @MilitarryWorld | Parsa
-22:50
-1405/06/17
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️خبرگزاری فارس، سه‌شنبه شب ۱۷ شهریور از شنیده شدن صدای انفجار در شهرستان جاسک خبر داد. این خبرگزاری وابسته به سپاه پاسداران، به نقل از منابع محلی اعلام کرد که این انفجارها حوالی ساعت ۲۱:۴۵ به وقت محلی رخ داده است. بر اساس این گزارش انفجار در دو مرحله و با فاصله کوتاه رخ داده و صدا از سمت دریا و نزدیک منطقه «سنگ سیاه» شنیده شده است.
@@ -4178,16 +4132,6 @@ src :@mwarmonitor
 
 
 
-src :@intelslava
-‏🇮🇷⚡️ — The IRGC Navy launched two anti-ship cruise missiles toward vessels in the Strait of Hormuz.
-‏
-‏@IntelSlava
-21:49
-1405/06/17
-
-
-
-
 src :@defence_news
 ‏خدمت عزیزان در سنتکام باید عرض کنیم که آناناس ! 2025 میلادی تازه اولین مورد تحویلش بوده ! برو یکی دیگه را رنگ کن فدات بشم ! ما خودمون نقاشیم ! 
 ‏
@@ -4344,16 +4288,6 @@ src :@mamlekate
 
 
 
-src :@intelslava
-‏🇷🇺🇪🇺⚡️ — Lavrov advised people to remember Putin's words that if Europe attacks Russia, the war will be "completely different and very short."
-‏
-‏@Intelslava
-21:30
-1405/06/17
-
-
-
-
 src :@mohem_mat
 ‏نام خیابان ترامپ در کانادا تغییر خواهد کرد
 ‏
@@ -4388,26 +4322,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 21:21
-1405/06/17
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇸⚡️ — Putin tells Trump Russia has no hostile plans toward Europe, accusing European leaders of using the alleged Russian threat to justify higher military spending and continued support for Ukraine.
-‏
-‏@Intelslava
-21:17
-1405/06/17
-
-
-
-
-src :@intelslava
-‏JUST IN: 🇬🇧 Technical failure at NATS Swanwick control centre halts departures from London Heathrow and Gatwick, causing major air traffic disruption as engineers work to restore normal operations.
-‏
-‏@BreakingGlobalHQ
-21:13
 1405/06/17
 
 
@@ -5038,19 +4952,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 19:26
-1405/06/17
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 شهباز شریف نخست وزیر پاکستان: حملات بزدلانه حوثی ها به تاسیسات انرژی و غیر نظامی عربستان را به شدیدترین وجه ممکن محکوم میکنیم.
-‏بر همبستگی استوار با عربستان سعودی و رهبران و مردم این کشور تاکید میکنیم.
-‏
-‏#پاکستان
-‏
-‏@RASTAKHIZ_PERSIAN
-19:21
 1405/06/17
 
 
@@ -6772,16 +6673,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/06/17/408150/
 11:34
-1405/06/17
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇾🇪🇸🇦 Yemen's Houthis announce they carried out attacks against multiple Saudi Aramco oil facilities.
-‏
-‏@BRICSNews
-11:19
 1405/06/17
 
 
