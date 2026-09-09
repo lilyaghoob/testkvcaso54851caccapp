@@ -1,3 +1,57 @@
+src :@Ali_bk_2
+[عکس]
+‏Disruptions in the airspace over Jeddah.
+02:16
+1405/06/19
+
+
+
+
+src :@Alibk3
+[عکس]
+‏اضطرابات في المجال الجوي فوق جدة.
+02:16
+1405/06/19
+
+
+
+
+src :@Ali_bk_2
+‏Yemeni forces seize control of Al-Khokha and Khalid Camp, while media outlets affiliated with Saudi-backed forces confirm that their forces have withdrawn to Mokha.  A tactical withdrawal.
+02:14
+1405/06/19
+
+
+
+
+src :@Alibk3
+‏القوات اليمنية تسيطر على الخوخة، ومعسكر خالد، ووسائل إعلام القوات الموالية للسعودية تؤكد انسحاب قواتهم إلى المخأ.  انسحاب تكتيكي.
+02:14
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏🇾🇪القوات المسلحة اليمنية تحكم قبضتها على حيس وتواصل تقدمها باتجاه الساحل الغربي.
+02:14
+1405/06/19
+
+
+
+
+src :@Indypersian
+[عکس]
+‏فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار تصویری، از سوخت‌گیری هوایی هواپیمای هشدار زودهنگام و کنترل (E-3 Sentry) نیروی هوایی آمریکا توسط هواپیمای سوخت‌رسان (KC-135 Stratotanker) بر فراز خاورمیانه خبر داد.
+‏سنتکام در توضیح این تصویر اعلام کرد این هواپیما قابلیت رصد و پایش گسترده میدان نبرد و همچنین هماهنگی عملیات میان نیروهای هوایی و زمینی را در یک منطقه وسیع دارد.
+‏
+‏@indypersian
+02:12
+1405/06/19
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇷🇺🇸⚡️ — Iran is likely to reverse-engineer the captured U.S. Dive-LD autonomous underwater vehicle, which would give Tehran access to valuable American undersea drone technology, Reuters reports.  The U.S. Navy and manufacturer Anduril have downplayed the…
@@ -1204,36 +1258,10 @@ src :@wfwitness
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Sirens are sounding over fears of drone infiltration.
-00:55
-1405/06/19
-
-
-
-
 src :@MilitarryWorld
 ‏🔴بقایی: حوثیا مستقلن و نیابتی ما نیستن
 ‏
 ‏@MilitarryWorld | Parsa
-00:55
-1405/06/19
-
-
-
-
-src :@Alibk3
-[عکس]
-‏صفارات الإنذار تدوي خشية تسلل طائرات مسيّرة.
-00:55
-1405/06/19
-
-
-
-
-src :@Ali_bk_2
-‏Hearing the sound of an explosion on Iran's Qeshm Island.
 00:55
 1405/06/19
 
@@ -1247,14 +1275,6 @@ src :@wfwitness
 ‏@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:54
-1405/06/19
-
-
-
-
-src :@Alibk3
-‏سماع دوي انفجار في جزيرة قشم الإيرانية.
 00:54
 1405/06/19
 
@@ -1404,22 +1424,6 @@ src :@Indypersian
 
 
 
-src :@Ali_bk_2
-‏Hearing the sound of an explosion on Iran's Qeshm Island.
-00:50
-1405/06/19
-
-
-
-
-src :@Alibk3
-‏سماع دوي انفجار في جزيرة قشم الإيرانية.
-00:50
-1405/06/19
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏در جبهه غرب تعز درگیری های بسیار سنگینی در اطراف شهرهای الوازعیه (نقطه پین شده) و المفرق (کمپ خالد بن ولید) گزارش شده است؛ در این محور نیروهای انصارالله در حال حمله به این دو منطقه حساس هستند که اگر به هر طریقی تصرف شوند خطری بزرگ برای بندر المخا ، مرکز اصلی لجستیک ائتلاف عربی در جبهه ساحل غربی خواهد بود .
@@ -1489,15 +1493,6 @@ src :@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:45
-1405/06/19
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏After Yemeni forces advanced yesterday in Al-Wazi'iyah district, reports today say they have taken control of Khalid bin Al-Walid Camp following their advance in Mawza.  If control of the camp is confirmed, Mokha would effectively be liberated.  With the continued…
-00:44
 1405/06/19
 
 
@@ -3727,20 +3722,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 21:46
-1405/06/18
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️سرتیپ ترکی المالکی، سخنگوی رسمی نیروهای ائتلاف حامی دولت قانونی در یمن با صدور بیانیه‌ای از تداوم حملات شبه‌نظامیان حوثی به زیرساخت‌ها و سرمایه‌های ملی عربستان سعودی خبر داد.
-‏
-‏بر اساس این بیانیه، حوثی‌ها روز چهارشنبه ۱۸ شهریور، با استفاده از چندین موشک بالستیک و پهپاد، شهرهای خمیس مشیط، ابها و جازان را هدف حملات خود قرار داده‌اند. المالکی این اقدامات را نشان‌دهنده تفکر افراطی و رویکرد این گروه در تصعید بحران و هدف قرار دادن غیرنظامیان دانست.
-‏
-‏سخنگوی ائتلاف تاکید کرد که فرماندهی نیروهای مشترک بر اساس مسئولیت خود در حفاظت از حاکمیت عربستان سعودی، شهروندان و غیرنظامیان، با این حملات مقابله خواهد کرد. او افزود این اقدامات منطبق با اصل دفاع از خود بر اساس ماده ۵۱ منشور ملل متحد و حقوق بین‌الملل صورت می‌گیرد.
-‏@indypersian
-21:44
 1405/06/18
 
 
