@@ -1,3 +1,69 @@
+src :@OSINTWarfare
+[عکس]
+‏On September 8, Mitsubishi F-2A multirole fighters of the Japan Air Self-Defense Force (JASDF) made a historic landing in India to participate in Exercise Veer Guardian 26, aimed at strengthening cooperation, enhancing interoperability, and exchanging expertise with the Indian Air Force amid shared security concerns.
+20:17
+1405/06/18
+
+
+
+
+src :@samueltarikh
+‏🚨خبرگزاری فارس از وقوع دو انفجار در تنگه هرمز خبر داد
+20:17
+1405/06/18
+
+
+
+
+src :@samueltarikh
+‏نبرد تمام عیار برای تصرف پایگاه نظامی اُم ریش تحت کنترل حوثی ها آغاز شده است در منطقه مأرب، مرکز یمن، نیروهای تحت حمایت عربستان به حومه شرقی این پایگاه بزرگ رسیده‌اند.
+20:17
+1405/06/18
+
+
+
+
+src :@MilitarryWorld
+‏🔴خبرگزاری فارس از وقوع دو انفجار در تنگه هرمز خبر داد
+‏
+‏@MilitarryWorld | Parsa
+20:16
+1405/06/18
+
+
+
+
+src :@jangaavaran1390
+‏قیمت گاز طبیعی در اروپا برای اولین بار در بیش از سه سال گذشته از مرز 80 یورو به ازای هر مگاوات-ساعت عبور کرد. این افزایش قیمت‌ها ناشی از تنش‌های موجود با ایران و افزایش هزینه‌های انرژی است که همزمان با شروع فصل سرما رخ می‌دهد.
+20:16
+1405/06/18
+
+
+
+
+src :@jangaavaran1390
+‏خبرگزاری فارس  گزارش داد که صدای انفجاری از دریا، در نزدیکی شهر جاسک در جنوب کشور، حوالی ساعت 19:20 به وقت محلی شنیده شد.
+‏
+‏علت و محل دقیق این انفجار هنوز مشخص نیست.
+20:15
+1405/06/18
+
+
+
+
+src :@mohem_mat
+‏خبرگزاری رویترز به نقل از دیپلمات‌ها اعلام کرد
+‏ شورای حکام آژانس بین‌المللی انرژی اتمی، پرونده ایران را به دلیل نقض تعهداتش به شورای امنیت سازمان ملل ارجاع داده است.
+‏
+‏‏ نمایندگی ایران در آژانس بین‌المللی انرژی اتمی اعلام کرد که تصمیم این آژانس مبنی بر ارجاع پرونده هسته‌ای ایران به شورای امنیت، اقدامی جانبدارانه و دارای انگیزه‌های سیاسی است.
+‏
+‏‎@mohem_mat
+20:14
+1405/06/18
+
+
+
+
 src :@MilitarryWorld
 ‏🔴جنتی: 
 ‏
@@ -15,7 +81,7 @@ src :@wfwitness
 ‏
 ‏The official continued that Tehran has no intention of backing down despite growing economic pressure, the U.S. naval blockade and attacks on Iranian oil tankers, describing the conflict as an existential threat to the Islamic Republic.
 ‏
-‏Iran has also been rebuilding its military capabilities since the most intense phase of the war ended in April and believes it is prepared for a prolonged conflict.
+‏They acknowledged Iran’s worsening economic situation, but maintained that they believe they have no choice but to continue fighting until the U.S. is too weary to continue.
 ‏
 ‏@wfwitness
 20:11
@@ -3346,18 +3412,6 @@ src :@VahidOnline
 
 
 
-src :@MilitarryWorld
-‏🔴روزنامه جروزالم پست:
-‏
-‏اسرائیل در حال حاضر خود را برای یک حمله چندجانبه از سوی ایران در روزهای آینده، همزمان با سال نو یهودی که برگزار می‌شود، آماده می‌کند.
-‏
-‏@MilitarryWorld | Parsa
-16:34
-1405/06/18
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻آیا توانایی‌های ذهنی نوجوانان رو به افول است؟
@@ -3559,14 +3613,6 @@ src :@USAMRYDATA
 
 
 
-src :@jangaavaran1390
-‏نخست‌وزیر اسرائیل، نتانیاهو، اعلام کرد که به وکلای خود دستور داده تا علیه روزنامه هاآرتس و روزنامه‌نگار شلومی الدار، به دلیل افترا، شکایت کنند. او این گزارش را که رئیس‌جمهور امارات، محمد بن زاید، پیش از حمله بزرگ حماس در تاریخ ۷ اکتبر به او هشدار داده بود، رد کرد.
-16:15
-1405/06/18
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏«ماموستا محمد نزهتی»، روحانی اهل سنت و امام جماعت منطقه چیانه در شهرستان پیرانشهر، در یک حمله مسلحانه کشته شد.
@@ -3579,24 +3625,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 16:11
-1405/06/18
-
-
-
-
-src :@jangaavaran1390
-‏‏ شروط جدید ایران برای توقف جنگ اعلام شد
-‏
-‏سخنگوی سپاه: 
-‏اگر دشمن خواهان پایان این وضعیت است، باید
-‏۱- ضمن توقف کامل جنگ، 
-‏۲- از تهدید مجدد دست بکشد،
-‏۳- ارتش رژیم صهیونیستی از لبنان عقب‌نشینی کند، 
-‏۴- محاصرهٔ یمن پایان یابد،
-‏۵- ۲۴ میلیارد دلار دارایی مسدودشدهٔ ایران آزاد شود
-‏۶- و از هرگونه مداخله در توان هسته‌ای و موشکی کشور دست بردارد.
-‏‎
-16:07
 1405/06/18
 
 
@@ -4223,43 +4251,12 @@ src :@Shin_Persian
 
 
 
-src :@mohem_mat
-‏گروه هواپیمایی لوفت‌هانزا اعلام کرد از اواخر ماه آینده به‌تدریج پروازهای خود به دبی را از سر خواهد گرفت. / انتخاب
-‏
-‏@entekhabsite
-14:40
-1405/06/18
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏در ۲۴ ساعت اخیر ۲ نفتکش دیگر احتمالا توسط پرتابه های ایرانی هدف قرار گرفته اند یکی در نزدیکی آبهای امارات و دیگری بندر فاو عراق 
 ‏
 ‏@Minas_Tirith2024
 14:40
-1405/06/18
-
-
-
-
-src :@mohem_mat
-‏با این وضع چه توضیحی دارند؟ 
-‏
-‏وقتی رؤسای جمهور سابق کشور مثل سید محمد خاتمی و شیخ حسن روحانی به صرف یک اظهارنظر مورد زهرآگین‌ترین حملات لفظی و تهدیدهای عملی قرار می‌گیرند، تکلیف بقیهٔ شهروندان کشور روشن است!
-‏ظاهراً برخی مقام‌های مسئول، اهمیت حمایت یا سکوت رضایت‌مندانهٔ نیروهای میانهٔ جامعه را اصلاً درک نمی‌کنند و یا اهمیت آن را نادیده می‌گیرند. 
-‏به وضوح می‌توان روند ناخشنودی نیروهای میانه از روند کنونی را مشاهده کرد.
-‏صاحب‌نظرانِ سخنگوی غیررسمی این اقشار هم قهر همراه با سکوت را به اعلام موضع سیاسی در این شرایط ترجیح می‌دهند.
-‏در این میان، آنچه مشخص نیست، نقش دولت و شخص رئیس‌جمهور است. بخش عظیمی از رأی‌دهندگان به آقای پزشکیان، وضع جاری را برنمی‌تابند و در این مورد دچار نگرانی و دلهره شده‌اند.
-‏آنها اغلب می‌پرسند که آیا قرار است نقش رئیس‌جمهور در تحولات کشور از یک طرف حاشیه‌ای باشد و از طرف دیگر، مسئول عموم بحران‌های بسیار خطرناک آتی معرفی شود؟
-‏به نظرم تاکنون منطق "انشألله گربه است" از سوی دست‌اندرکاران دولت تا اندازه‌ای قابل پذیرش و یا حداقل قابل تردید بود، اما الان واقعیت‌ها وجه مهیب خود را به نمایش گذاشته و راهی برای خوش‌خیالی باقی نمانده است. 
-‏از این رو، لازم است دست‌اندرکاران دولت به پایگاه رأی خود توضیح دهند که با این وضع، کشور به کدام سمت در حرکت است و نقش آنها در این زمینه مشخصاً چیست و چه می‌خواهد باشد. 
-‏
-‏احمد زیدآبادی 
-‏
-‏@ahmadzeidabad
-14:39
 1405/06/18
 
 
@@ -6308,14 +6305,6 @@ src :@warmonitors
 
 
 
-src :@OSINTWarfare
-‏The IRGC announced that it targeted the U.S. Navy Arleigh Burke-class guided-missile destroyers USS Delbert D. Black (DDG-119) and USS John Paul Jones (DDG-53), assigned to Carrier Strike Group 11 (CSG-11), with anti-ship ballistic missiles (ASBMs).
-02:48
-1405/06/18
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏UKMTO Operations Centre @UK_MTO
@@ -6416,15 +6405,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 01:44
-1405/06/18
-
-
-
-
-src :@OSINTWarfare
-[ویدئو]
-‏Two-minute footage shows Jordanian PAC-2 interceptors engaging incoming Iranian submunitions.  Jordan appears to be burning through its older Patriot interceptor stockpiles.
-01:39
 1405/06/18
 
 
@@ -6552,22 +6532,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 01:13
-1405/06/18
-
-
-
-
-src :@samueltarikh
-‏بیش از 30 موشک شلیک شده است.
-01:12
-1405/06/18
-
-
-
-
-src :@samueltarikh
-‏⭕️هم اکنون شلیک موشک از زنجان
-01:12
 1405/06/18
 
 
