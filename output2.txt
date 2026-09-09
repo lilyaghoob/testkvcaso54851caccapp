@@ -1,3 +1,26 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇱❌🇱🇧🇵🇸 – The IDF is striking Al-Mansouri, southern Lebanon. Artillery and drone attacks have also been reported for multiple hours in eastern Khan Younis and southern Rafah, in Gaza.
+‏
+‏@GeoPWatch
+09:15
+1405/06/18
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+‏🔶 نفتکش Riesco متعلق به کشورمان در اثر حمله نیروی دریایی امریکا در دریای عمان با طور کامل غرق شد 
+‏
+‏#خبر
+‏
+‏@RASTAKHIZ_PERSIAN
+09:13
+1405/06/18
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏علیرضا سلیمی، عضو هیات‌رییسه مجلس، چهارشنبه ۱۸ شهریور در گفت‌وگو با خبرگزاری خانه ملت، اعلام کرد تنها راه مقابله با اسرائیل، «مقاومت، پاسخ کوبنده و سیلی سخت» است.
@@ -42,7 +65,7 @@ src :@Americana_ir
 
 src :@RASTAKHIZ_PERSIAN
 [عکس]
-‏🔶 یک جنگنده برای هر ماموریت جدای از توانایی‌های تسلیحاتی و اویونیکی، باید توانایی عملکردی (پرفورمنسی) مناسب برای ماموریت را داشته باشد.
+‏🔶 یک جنگنده جدای از توانایی‌های تسلیحاتی و اویونیکی، باید توانایی عملکردی (پرفورمنسی) مناسب برای ماموریت را داشته باشد.
 ‏
 ‏🔹یکی از معیارهای پرفورمنسی، توانایی اوجگیری یا کلایمب است. خود این مقوله به چند زیر مجموعه تقسیم می‌شود، که یکی از آن‌ها معیار 
 ‏Time to Climb
@@ -1870,17 +1893,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - A brand new P-8A Poseidon  appeared visible for 10 seconds and has now gone dark.
-‏
-‏@GeoPWatch
-02:34
-1405/06/18
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇬🇧🇸🇦⚡- A number of US and UK aerial refuelers have arrived at King Abdul Aziz International Airport, Riyadh, over the past few hours. Most were relocated from nearby bases in the Middle East region.
 02:31
@@ -2672,16 +2684,6 @@ src :@Shin_Persian
 ‏به نظر می‌رسد سپاه پاسداران انقلاب اسلامی امشب علیه اردن از کلاهک‌های مهمات خوشه‌ای استفاده کرده است.
 ‏
 ‏𝕏  ·  @shin_persian
-01:16
-1405/06/18
-
-
-
-
-src :@P_raetorio
-‏با توجه به تعداد ریزمهمات به نظر موشک از نوع قدر خوشه ای است 
-‏
-‏@Minas_Tirith2024
 01:16
 1405/06/18
 
@@ -4429,14 +4431,6 @@ src :@warmonitors
 src :@mwarmonitor
 ‏❌ظاهراً نفتکش اولی هدف قرار گرفته
 22:33
-1405/06/17
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏بر اساس گفته برخی از منابع به نظر می‌رسد یک نفتکش ایرانی هدف قرار گرفته
-22:32
 1405/06/17
 
 
