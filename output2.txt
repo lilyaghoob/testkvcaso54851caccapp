@@ -1,3 +1,41 @@
+src :@GeoPWatch
+[عکس]
+‏⚡️🇺🇦🇳🇴 – The plane in which Ukrainian President Zelensky was flying to attend Norwegian King Harald's funeral was "almost struck by a drone" when taking off from Moldova, Norwegian Prime Minister Jonas Store said.
+‏
+‏The incident took place on Tuesday, and no further details were given.
+‏
+‏@GeoPWatch
+22:29
+1405/06/18
+
+
+
+
+src :@defence_news
+‏به جای روزی دو ساعت خبر خوندن، پنج دقیقه کانال شریف رو بخون هر خبری لازمه بدونی اینجا هست:
+‏
+‏https://t.me/+R84npHC7NyMyYTQ0
+22:29
+1405/06/18
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏طبق اطلاع ایران‌وایر، میلاد مروتی، کتابفروش و دانشجوی رشته حقوق اهل مهاباد، پس از ۴۳ روز بازداشت، روز چهارشنبه ۱۸ شهریور، با وثیقه پنج میلیارد تومانی از زندان مهاباد آزاد شد.
+‏
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/157402
+‏
+‏
+‏@Farsi_Iranwire
+22:28
+1405/06/18
+
+
+
+
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — Reporter: "We've seen a lot of attacks in the Strait of Hormuz".
 ‏
@@ -142,6 +180,8 @@ src :@jangaavaran1390
 
 src :@WAR_ROOM_NEWS
 ‏ترامپ درباره ایران:من کاری بسیار فراتر از یک توافق هسته‌ای انجام می‌دهم. مسائل بسیار بیشتری از مسائل هسته‌ای وجود دارد.ما قطعاً به توافق هسته‌ای خواهیم رسید، تقریباً به طور کامل، اما مسائل دیگری نیز در دستور کار قرار خواهند گرفت.به نظر من، جنگ بلافاصله پس از انتخابات به پایان خواهد رسید
+‏
+‏🆔@WAR_ROOM_NEWS
 22:15
 1405/06/18
 
@@ -341,6 +381,8 @@ src :@USAMRYDATA
 
 src :@WAR_ROOM_NEWS
 ‏یمن بدجوری بوی سوریه میده
+‏
+‏🆔@WAR_ROOM_NEWS
 22:05
 1405/06/18
 
@@ -514,7 +556,7 @@ src :@tabzlive
 ‏
 ‏The truce is linked to negotiations that secured the release of 360 civilians abducted from Ngoshe village in March. 
 ‏
-‏Three sources with contacts inside Boko Haram said the ceasefire is expected to be extended for another 40 days. Communities around Ngoshe have seen attacks stop since the agreement took effect.
+‏Three sources with contacts inside Boko Haram said the ceasefire is expected to be extended for another 40 days (deadline wasn't detailed). Communities around Ngoshe have seen attacks stop since the agreement took effect.
 ‏
 ‏The deal does not include Boko Haram rival ISWAP, and Nigerian authorities have not publicly confirmed the ceasefire.
 21:46
@@ -628,15 +670,6 @@ src :@WAR_ROOM_NEWS
 src :@naya_foriraq
 ‏🇾🇪🇸🇦السعودية تعترف: انصار الله هاجموا الأربعاء مدن "خميس مشيط" و"أبها" و"جازان" السعودية بصواريخ باليستية وطائرات مسيّرة.
 21:41
-1405/06/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇳🇴🇺🇦⚡️ — NEW: Norwegian Prime Minister Jonas Gahr Støre says Ukrainian President Zelensky’s plane was nearly hit by a drone on Tuesday while taking off from Moldova on his way to Oslo to attend King Harald’s funeral.
-21:40
 1405/06/18
 
 
@@ -1956,16 +1989,6 @@ src :@mwarmonitor
 
 
 
-src :@IranintlTV
-[عکس]
-‏خبرگزاری فارس، وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در جاسک در شامگاه چهارشنبه خبر داد و نوشت که این صدای انفجار از سمت دریا در مناطق جنوبی شهرستان جاسک شنیده شد.
-‏https://iranintl.com/202609096168
-19:58
-1405/06/18
-
-
-
-
 src :@mwarmonitor
 ‏🚨 رویترز به نقل از دیپلمات‌ها: شورای مدیران آژانس بین‌المللی انرژی اتمی، پرونده ايران را به دلیل نقض تعهداتش، به شورای امنیت ارجاع داد.
 ‏
@@ -2960,23 +2983,6 @@ src :@jangaavaran1390
 
 
 
-src :@ClashReport
-[عکس]
-‏Axios reports that many Republicans and White House aides have largely stopped trying to restrain Trump, even as they increasingly question his political instincts.
-‏
-‏“Why bother?” one longtime adviser said. “He’s the boss.”
-‏
-‏With Republicans worried about the midterms, aides increasingly “humor his whims.” A donor summed up the dynamic: “What he wants, he gets.”
-‏
-‏Yet insiders reject the idea that Trump is fading. “Discount Trump at your peril,” one adviser said, arguing that Trump will remain “the dominant political figure even after his term ends.”
-‏
-‏Source: Axios
-18:34
-1405/06/18
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏بررسی تصاویر ماهواره‌ای نشان می‌دهد فعالیت‌های ساخت‌وساز در سایت هسته‌ای مشکوک ایران در کوه کلنگ گزلا، در سال جاری میلادی به‌طور چشمگیری افزایش یافته است. این تاسیسات زیرزمینی که در دل کوه گرانیتی و در نزدیکی مجتمع هسته‌ای نطنز قرار دارد، از سوی تحلیلگران محلی احتمالی برای حفاظت از برنامه هسته‌ای ایران ارزیابی شده است.
@@ -3222,15 +3228,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 18:14
-1405/06/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Turkish Air Force pilots training under the Eurofighter Typhoon procurement agreement with the UK Government have completed terminology training and begun flight training.
-18:11
 1405/06/18
 
 
@@ -4927,19 +4924,6 @@ src :@Americana_ir
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏تلاش‌ها برای کنار زدن «مسعود پزشکیان» از ریاست‌جمهوری وارد مرحله تازه‌ای شده است. یک نماینده مجلس می‌گوید در نشست غیرعلنی نمایندگان با «محمدباقر قالیباف»، موضوع «عدم کفایت» پزشکیان مطرح شده و یکی از نمایندگان تهران با مقایسه او با «ابوالحسن بنی‌صدر» گفته است رییس‌جمهور توانایی اداره کشور را ندارد و باید کنار برود.
-‏
-‏بخوانید : https://iranwire.com/fa/news-1/157369
-‏
-‏@Farsi_Iranwire
-14:06
-1405/06/18
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏قیمت جنگنده F-35 به میزان 11 درصد افزایش یافت.
@@ -5718,25 +5702,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #S_S
 11:42
-1405/06/18
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷🛢 - Brent Crude Oil has officially hit $100 per barrel.
-‏
-‏@GeoPWatch
-11:38
-1405/06/18
-
-
-
-
-src :@defence_news
-‏بلومبرگ: قیمت هر بشکه نفت برنت برای اولین بار از تاریخ ۲۴ جولای، به ۱۰۰ دلار رسیده است.
-11:37
 1405/06/18
 
 
