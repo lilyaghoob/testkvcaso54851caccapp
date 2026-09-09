@@ -1,3 +1,16 @@
+src :@GeoPWatch
+[عکس]
+‏🔼🛢 – Current oil prices, following the exchange of fire between the U.S. and Iran.
+‏
+‏Brent is about to reach $100 per barrel, and WTI is very close to $95 per barrel.
+‏
+‏@GeoPWatch
+04:04
+1405/06/18
+
+
+
+
 src :@Navy_Iranian
 ‏حدود ٣٠ تا ۴٠ نفتکش متعلق به ایران در حوالی جزیره خارک و منطقه خلیج فارس حضور دارند، امار بسیار بزرگی هست حداقل، و یک سوم نفتکش های مارو تشکیل می‌دهد، همچنین طی روز های گذشته اخباری منشر شده بود مبنی بر اینکه نیرو دریایی ایالات متحده آمریکا در حال برسی برای…
 04:01
@@ -2933,18 +2946,6 @@ src :@Indypersian
 
 
 
-src :@intelslava
-‏🇺🇦🇷🇺⚡️ — Kiev is willing to make concessions in order for Russia to stop attacking Ukrainian ports and energy infrastructure
-‏
-‏— Vladimir Zelensky.
-‏
-‏@IntelSlava
-23:37
-1405/06/17
-
-
-
-
 src :@jangaavaran1390
 ‏ترکیه حملات حوثی های یمن را محکوم کرد  وزارت امور خارجه ترکیه با انتشار بیانیه ای اعلام کرد حملات حوثی های یمنی به عربستان سعودی را به شدت محکوم می کند. و حوثی ها را به توقف فوری حملات می خواند.
 23:36
@@ -3345,16 +3346,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-23:17
-1405/06/17
-
-
-
-
-src :@OSINTWarfare
-‏The CIA’s headquarters in Riyadh was effectively destroyed, while several U.S. military bases in the region sustained extensive damage.
-‏
-‏The U.S. Navy’s top admiral also said personnel will not be returning to Bahrain “anytime soon.” - CNN
 23:17
 1405/06/17
 
