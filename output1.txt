@@ -3334,16 +3334,6 @@ src :@defence_news
 
 
 
-src :@mwarmonitor
-‏🔴 نتانیاهو: ما باید این ماموریت را به پایان برسانیم و رژیم ایران را سرنگون کنیم.
-‏
-‏@mwarmonitor
-20:05
-1405/06/17
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏New - 61% of new York City voters say Mamdani has done better then they expected (Suffolk)
