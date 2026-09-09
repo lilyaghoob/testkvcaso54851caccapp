@@ -212,7 +212,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏🇸🇦🇾🇪عدوان سعودي بعدد من الغارات على محافظات مأرب والجوف وتعز اليمنية.
+‏🇸🇦🇾🇪عدوان سعودي بعدد من الغارات على محافظات مأرب والجوف وتعز والحديدة اليمنية.
 07:25
 1405/06/18
 
@@ -3933,18 +3933,6 @@ src :@didarnews1
 
 
 
-src :@mohem_mat
-‏رسانه اسراییلی مدعی شد :
-‏
-‏آمریکا مشغول حمله به نفتکشهای ایرانی است
-‏
-‏@mohem_mat
-22:48
-1405/06/17
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran threatens to strike US bases and interests in the region if any of its ships are attacked.
 ‏
@@ -4550,26 +4538,6 @@ src :@Exciton_missile_program
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇱 🇵🇸 — Britain, France and Canada will ban imports from West Bank settlements, joined by a 12-country statement that also includes Denmark, Finland, Iceland, Ireland, Norway, Poland, Portugal, Spain and Sweden  The governments say settlement expansion…
-20:57
-1405/06/17
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇬🇧 — Hundreds of flights cancelled at UK airports as air traffic control issue causes widespread disruption. — BBC
-‏
-‏The Global Eye | Subscribe ✈️
-20:49
-1405/06/17
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇦🇪🇵🇸 — Emirati President Mohammed bin Zayed gave Israeli PM Netanyahu a direct warning around 10 days before October 7, 2023, saying Hamas was preparing a major operation against Israel.  Netanyahu responded that he believed Hamas was primarily focused on…
 20:49
@@ -4703,19 +4671,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 20:04
-1405/06/17
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇪🇺 🇨🇦 — The EU and Canada are negotiating a broad partnership spanning trade, defense, security, space, research, supply chains, and critical minerals to reduce reliance on the US and China. 
-‏
-‏They aim for the closest possible legal arrangement short of Canadian EU membership. Ursula von der Leyen is expected to unveil the initiative on September 16, with Mark Carney addressing the European Parliament the next day. (Source: Bloomberg)
-‏
-‏The Global Eye | Subscribe ✈️
-20:03
 1405/06/17
 
 
@@ -5066,55 +5021,9 @@ src :@warmonitors
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇱 🇬🇧 — Israel is closing the British consulate in Jerusalem, announces further retaliatory measures 
-‏
-‏Retaliatory measures against the UK include:
-‏
-‏— Closing the British Consulate.
-‏— Removing British representatives from the U.S.-led Civil-Military Coordination Center in southern Israel.
-‏— Canceling the British Support Team training PA forces in Ramallah.
-‏— Banning 11 anti-Israeli MPs from entering Israel.
-‏
-‏Foreign Minister Gideon Sa’ar frames this as a response to new UK trade restrictions on settlements in Judea and Samaria, calling Britain’s move a blatant, unacceptable intervention in Israeli politics ahead of elections.
-‏
-‏Banned MPs:
-‏— Jeremy Corbyn
-‏— Zarah Sultana
-‏— Naz Shah
-‏— Diane Abbott
-‏— Hannah Spencer
-‏— Carla Denyer
-‏— Sian Berry
-‏— Ellie Chowns
-‏— John McDonnell
-‏— Richard Burgon
-‏— Adrian Ramsay
-‏
-‏Source: Visegrád24
-‏
-‏The Global Eye | Subscribe ✈️
-19:03
-1405/06/17
-
-
-
-
 src :@Artemis_Force
 ‏نیروی دریایی سپاه خبر از به غنیمت گرفتن یک زهپاد ( زیردریایی هدایت پذیر از دور ) امریکایی Dive‑LD در ورودی تنگه هرمز داده است و اعلام کرده است به طی ساعات آینده  تصاویر آن را منتشر می کند.  🇮🇷📝 @defence_news 📝🇮🇷
 19:01
-1405/06/17
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇮🇷 — US sanctions 27 Iranian airlines and aviation-linked entities, targeting foreign intermediaries to deepen Iran’s economic isolation.
-‏
-‏The Global Eye | Subscribe ✈️
-18:54
 1405/06/17
 
 
