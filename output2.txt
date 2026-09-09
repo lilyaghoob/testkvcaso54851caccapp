@@ -1,4 +1,44 @@
 src :@mwarmonitor
+[عکس]
+‏⏺در حال جست‌وجو برای یافتن اجسام و قطعات خارجی (FOD)!
+‏
+‏⏺ملوانان با انجام عملیات بازرسی و پاک‌سازی عرشه پرواز ناو جرج واشنگتن، به دنبال شناسایی و جمع‌آوری هرگونه جسم خارجی هستند تا ناو برای انجام عملیات پروازی در حمایت از فرماندهی مرکزی آمریکا (CENTCOM) در خاورمیانه آماده بماند.
+‏
+‏@mwarmonitor
+09:36
+1405/06/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Anthropic alignment lead Evan Hubinger says there is a “>10% chance” AI could “kill all humans” within the next decade.
+09:36
+1405/06/18
+
+
+
+
+src :@mwarmonitor
+‏⏺کره‌جنوبی تیمی را برای ارزیابی شرایط در تنگه هرمز اعزام کرده است؛ اقدامی که نشان می‌دهد سئول در بحبوحه افزایش فشارهای آمریکا برای کمک به عملیات این کشور علیه ایران، در حال بررسی جدی‌تر اعزام نیروهای نظامی است. بلومبرگ 
+‏
+‏@mwarmonitor
+09:34
+1405/06/18
+
+
+
+
+src :@Artemis_Force
+‏نیروی دریایی سپاه خبر از به غنیمت گرفتن یک زهپاد ( زیردریایی هدایت پذیر از دور ) امریکایی Dive‑LD در ورودی تنگه هرمز داده است و اعلام کرده است به طی ساعات آینده  تصاویر آن را منتشر می کند.  🇮🇷📝 @defence_news 📝🇮🇷
+09:32
+1405/06/18
+
+
+
+
+src :@mwarmonitor
 ‏🔴 دولت ترامپ با ابتکار تحت رهبری بریتانیا برای اعمال تحریم‌های جدید علیه شهرک‌های اسرائیلی در کرانه باختری مخالفت نکرده است؛ این خبر را آکسیوس به نقل از مقام‌های آمریکایی و دیپلمات‌های غربی گزارش داده است.
 ‏
 ‏@mwarmonitor
@@ -44,7 +84,7 @@ src :@jangaavaran1390
 
 src :@ClashReport
 [عکس]
-‏AI researcher Jacob Coxon says he quit both the company and the industry, saying the labs are racing toward self-improving superintelligence without adequate control.
+‏AI researcher Jacob Coxon says he quit Anthropic and the industry, saying the labs are racing toward self-improving superintelligence without adequate control.
 ‏
 ‏He warned the systems will soon be able to “hack anything, revolutionize any field overnight, and acquire real power and resources,” and that people inside the labs “earnestly believe that it could kill us all by the end of the decade.”
 09:25
@@ -4664,30 +4704,10 @@ src :@defence_news
 
 
 
-src :@mwarmonitor
-‏▪️مقامات اتحادیه اروپا برای دستیابی به قابلیت‌های پیشرفته پدافند هوایی و فضایی به اسرائیل روی آورده‌اند؛ چراکه اروپا در تلاش است با تهدیدهای فزاینده امنیتی مقابله کند. به گزارش POLITICO، رئیس آژانس فضایی اسرائیل در بروکسل با اکاترینا زاهاریوا، کمیسر اتحادیه اروپا، دیدار و درباره سامانه‌های هشدار زودهنگام، تصویربرداری ماهواره‌ای، هوش مصنوعی، رباتیک و فناوری‌های دوگانه‌کاربرد گفت‌وگو کرده است.
-‏
-‏@mwarmonitor
-21:49
-1405/06/17
-
-
-
-
 src :@defence_news
 ‏در وسط این بزن بزن ها و ماجراها عرض بشود که نفت برنت هم به بشکه ای 99 دلار رسید ! حالا اگر تنگه هرمز بازه که .... 
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
-21:49
-1405/06/17
-
-
-
-
-src :@mwarmonitor
-‏🔴شاخه خبرگزاری سبا نیوز نزدیک به دولت یمن گزارش داده است که ائتلاف به رهبری عربستان سعودی در یمن یک حمله هوایی علیه محل تجمع نیروهای حوثی و مرکز فرماندهی آنها در مدرسه الرحبه، در منطقه جبل حبشی استان تعز انجام داده است. الجزیره
-‏
-‏@mwarmonitor
 21:49
 1405/06/17
 
@@ -5666,16 +5686,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 18:23
-1405/06/17
-
-
-
-
-src :@Artemis_Force
-‏نیروی دریایی سپاه خبر از به غنیمت گرفتن یک زهپاد ( زیردریایی هدایت پذیر از دور ) امریکایی Dive‑LD در ورودی تنگه هرمز داده است و اعلام کرده است به طی ساعات آینده  تصاویر آن را منتشر می کند.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-18:21
 1405/06/17
 
 
