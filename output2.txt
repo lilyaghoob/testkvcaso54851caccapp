@@ -819,17 +819,6 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸 - A new UKMTO Advisory has just been published stating that a vessel was subject to interaction as part of ongoing military activity.
-‏
-‏@GeoPWatch
-02:30
-1405/06/18
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏UKMTO Operations Centre @UK_MTO
