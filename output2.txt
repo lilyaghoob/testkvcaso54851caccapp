@@ -1,3 +1,65 @@
+src :@WAR_ROOM_NEWS
+‏⚡️🇾🇪 یمن | تشدید درگیری‌ها در ساحل غربی
+‏
+‏نیروهای تروریست حوثی در چندین محور از ساحل غربی یمن، از منطقه حیس در جنوب الحدیده تا منطقه غیل در بخش الوازعیه استان تعز، عملیات تهاجمی گسترده‌ای را آغاز کرده‌اند.درگیری‌های شدید در منطقه صقم در حیس جریان دارد و حوثی‌ها همزمان حملات پهپادی سنگینی را علیه مرکز این بخش و مناطق اطراف انجام داده‌اند. درگیری‌ها همچنین در ورودی‌های شرقی اردوگاه خالد در نزدیکی مناطق ساحلی تعز تشدید شده و گزارش‌هایی از پیشروی حوثی‌ها در الوازعیه و تصرف چند منطقه و قرار گرفتن الشقیراء زیر آتش آن‌ها منتشر شده است. در واکنش به این تحولات، نیروهای العمالقه جنوبی از اعزام نیروهای کمکی برای پشتیبانی از مقاومت ملی خبر داده‌اند. با این حال یک منبع میدانی اعلام کرد که شهر حیس همچنان تحت کنترل نیروهای دولتی قرار دارد و گزارش‌های منتشرشده درباره سقوط مرکز این بخش به دست حوثی‌ها را رد کرد
+‏
+‏#جنگ_یمن
+‏#وضعیت_میدانی
+‏
+‏🆔@WAR_ROOM_NEWS
+00:10
+1405/06/19
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 بالگردهای بلک‌هاوک آسیب دیده در موفق السلطی اردن. (حداقل ۳ فروند)
+‏
+‏🔹احتمالا مربوط به حملات شب گذشته باشد.
+‏
+‏مکپر
+‏
+‏#آمریکا #اردن #ایران
+‏
+‏@RASTAKHIZ_PERSIAN
+00:10
+1405/06/19
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Around 20 minutes ago, Iranian missile launches were detected from Sirik towards the Strait of Hormuz.
+‏
+‏@wfwitness
+00:09
+1405/06/19
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏در جبهه غرب تعز درگیری های بسیار سنگینی در اطراف شهرهای الوازعیه (نقطه پین شده) و المفرق (کمپ خالد بن ولید) گزارش شده است؛ در این محور نیروهای انصارالله در حال حمله به این دو منطقه حساس هستند که اگر به هر طریقی تصرف شوند خطری بزرگ برای بندر المخا ، مرکز اصلی…
+00:09
+1405/06/19
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏در جبهه غرب تعز درگیری های بسیار سنگینی در اطراف شهرهای الوازعیه (نقطه پین شده) و المفرق (کمپ خالد بن ولید) گزارش شده است؛ در این محور نیروهای انصارالله در حال حمله به این دو منطقه حساس هستند که اگر به هر طریقی تصرف شوند خطری بزرگ برای بندر المخا ، مرکز اصلی لجستیک ائتلاف عربی در جبهه ساحل غربی خواهد بود .
+‏
+‏@Minas_Tirith2024
+00:07
+1405/06/19
+
+
+
+
 src :@cataphract1
 ‏⭕️مارکو روبیو، وزیر امور خارجه آمریکا، درباره ایران گفت:
 ‏
@@ -38,14 +100,6 @@ src :@cataphract1
 
 
 
-src :@Middle_East_Spectator
-‏Initial reports that Saudi-backed PLC forces are preemptively evacuating the entire coastal city of Al-Khukha.
-00:01
-1405/06/19
-
-
-
-
 src :@wfwitness
 ‏⚡️🇵🇰🇸🇦🇾🇪 ⁠Türkiye Today: Pakistan is seriously considering launching airstrikes against the Houthis in Yemen at Saudi Arabia’s request, according to Pakistani sources, as Islamabad weighs activating the Makkah Joint Defence Agreement with Saudi Arabia and…
 00:00
@@ -56,14 +110,6 @@ src :@wfwitness
 
 src :@ClashReport
 ‏CIA Director John Ratcliffe is preparing to take a larger role in US efforts to end the Russia-Ukraine war, potentially replacing or reducing the role of special envoy Steve Witkoff and Jared Kushner.  US officials told European counterparts that Ratcliffe…
-00:00
-1405/06/19
-
-
-
-
-src :@Middle_East_Spectator
-‏Initial reports that Saudi-backed PLC forces are preemptively evacuating the entire coastal city of Al-Khukha.
 00:00
 1405/06/19
 
@@ -2038,14 +2084,6 @@ src :@jangaavaran1390
 
 
 
-src :@WAR_ROOM_NEWS
-‏بنابر گزارشات ترامپ اکنون در حال برگزاری یک جلسه اضطراری در کاخ سفید درباره ایران است
-21:39
-1405/06/18
-
-
-
-
 src :@jangaavaran1390
 ‏اکنون می‌توانید ببینید که منظور این افراطیون از اتحاد، فقط این هست که وایسا اول این دشمن های خارجی رو بکشیم بعد بیایم شما رو بکشیم.
 21:38
@@ -2979,22 +3017,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷🇺🇸Bloomberg: A senior Iranian official warned they’re prepared for a more intense conflict with the U.S. and would escalate its response if Washington continues attacks on Iranian territory and infrastructure. 
-‏
-‏The official continued that Tehran has no intention of backing down despite growing economic pressure, the U.S. naval blockade and attacks on Iranian oil tankers, describing the conflict as an existential threat to the Islamic Republic.
-‏
-‏They acknowledged Iran’s worsening economic situation, but maintained that they believe they have no choice but to continue fighting until the U.S. is too weary to continue.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-20:11
-1405/06/18
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏#فوری
@@ -3034,16 +3056,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 20:09
-1405/06/18
-
-
-
-
-src :@ClashReport
-‏Iran’s Fars news agency reported that an explosion was heard from the sea near southern Jask at around 7:20 p.m. local time. 
-‏
-‏The cause and location of the blast remain unknown.
-20:07
 1405/06/18
 
 
@@ -3248,19 +3260,6 @@ src :@defence_news
 ‏
 ‏😎@CFoxSupport
 19:50
-1405/06/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏CIA Director John Ratcliffe is preparing to take a larger role in US efforts to end the Russia-Ukraine war, potentially replacing or reducing the role of special envoy Steve Witkoff and Jared Kushner.
-‏
-‏US officials told European counterparts that Ratcliffe could lead more of the shuttle diplomacy between Moscow and Kyiv while maintaining contacts with intelligence officials. 
-‏
-‏Source: FT
-19:45
 1405/06/18
 
 
@@ -4473,6 +4472,14 @@ src :@bricsnews
 
 
 
+src :@Middle_East_Spectator
+‏—❗️🇸🇦/🇾🇪 NEW: Saudi-backed PLC forces seem to have captured the Lubnat Camp from Ansarallah in Al-Jawf Governorate, Al-Hazm direction  They also managed to capture this same camp two days ago in the morning, and then immediately lost it in the afternoon. …
+17:08
+1405/06/18
+
+
+
+
 src :@mohem_mat
 ‏روزنامه هنگ‌کنگی SCMP:
 ‏
@@ -5188,17 +5195,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 14:55
-1405/06/18
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏به مناسبت نزدیک شدن به بیست و پنجمین سالگرد حملات ۱۱ سپتامبر، تصاویر ماهواره ای از روزهای نخست پس از این حادثه در محل برج های دوقلوی سازمان تجارت جهانی منتشر شده است.
-‏
-‏@Minas_Tirith2024
-14:52
 1405/06/18
 
 
