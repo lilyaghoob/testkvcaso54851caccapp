@@ -1,3 +1,130 @@
+src :@GeoPWatch
+[عکس]
+‏⚡️🇺🇸 – Current approximate locations of U.S. aircraft carriers around the globe.
+‏
+‏Currently, two are deployed in the Middle East, one (USS Abraham Lincoln, CVN 72) is returning to port after deployment, four are at port, three are under maintenance and one is training.
+‏
+‏@GeoPWatch
+00:47
+1405/06/19
+
+
+
+
+src :@mamlekate
+‏📝 قشم رو زدن
+‏
+‏@mamlekate_pm
+00:46
+1405/06/19
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇱🇧🇮🇱 In the last 24 hours the IDF conducted 40 strikes on southern Lebanon:
+‏
+‏• Nabatieh El Fawqa
+‏• Kfar Rumman
+‏• Zawtar El Sharqiyeh
+‏• Kfar Tibnit
+‏• Touline
+‏• Al Mansouri
+‏• Houla
+‏• Zibqin
+‏• Harouf
+‏• Zebdine
+‏• Beit Yahoun
+‏• Hadatha
+‏• Mays al-Jabal
+‏• Barachit
+‏• Srobbine
+‏• Haris
+‏• Qantara
+‏
+‏The IDF also carried out several detonations with the majority in the town of Al Mansouri with reports of over 40 detonations the highest record on a single town since the occupation.
+‏
+‏@wfwitness
+00:45
+1405/06/19
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏After Yemeni forces advanced yesterday in Al-Wazi'iyah district, reports today say they have taken control of Khalid bin Al-Walid Camp following their advance in Mawza.  If control of the camp is confirmed, Mokha would effectively be liberated.  With the continued…
+00:44
+1405/06/19
+
+
+
+
+src :@Alibk3
+[عکس]
+‏بعد تقدم القوات اليمنية أمس في مديرية الوازعية، تتحدث أنباء اليوم عن سيطرتها على معسكر خالد بن الوليد، عقب تقدمها في موزع.  وفي حال تأكدت السيطرة على المعسكر، فإن المخا ستكون بحكم المحررة.  ومع استمرار التقدم في الوازعية باتجاه ذوباب، ستقترب القوات اليمنية…
+00:44
+1405/06/19
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷 New explosions reported on Iran's Qeshm Island.
+‏
+‏@BRICSNews
+00:43
+1405/06/19
+
+
+
+
+src :@Artemis_Force
+‏صدای چندین انفجار مهیب در نوار ساحل جنوبی کشور به گوش رسیده است 
+‏
+‏@artemis_force
+00:43
+1405/06/19
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️به گزارش ایرنا، محمود جوادی‌نژاد، مدیرکل دامپزشکی خراسان رضوی، اعلام کرد یک محموله ۱۰۰ تنی گوشت مرغ منجمد که تاریخ مصرف آن و مهلت تمدیدشده نگهداری‌اش به پایان رسیده بود، در فرایند صنعتی به محصولاتی از جمله سوسیس و کالباس تبدیل شد.
+‏جوادی‌نژاد گفت این محموله متعلق به شرکت پشتیبانی امور دام استان بود و پس از انجام آزمایش‌های تشخیصی و طی مراحل قانونی، مجوز استفاده از آن در صنایع غذایی صادر شد. به گفته او، این مرغ‌ها برای مصرف مستقیم خانوار وارد بازار نشدند و در کارخانه‌های فرآوری تحت فرایندهایی از جمله حرارت با دمای بالا قرار گرفتند.
+‏
+‏
+‏@indypersian
+00:43
+1405/06/19
+
+
+
+
+src :@intelslava
+‏The New York Times writes that European Commission officials are very insistent in asking Ukrainian authorities about what happened to previous tranches of financial aid and where the 27 billion dollar deficit in the defense ministry's budget came from.
+‏
+‏The current leadership of Ukraine's defense ministry claims that the previous leadership spent the money too quickly, but former minister Fedorov denies this.
+‏
+‏@IntelSlava
+00:43
+1405/06/19
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Several Israeli detonations have rocked southern Lebanese towns of Khiam, Barachit and Al Mansouri.
+‏
+‏@wfwitness
+00:42
+1405/06/19
+
+
+
+
 src :@Minas_Tirith2024
 ‏صدای چند انفجار در محدوده بندرعباس/جزیره قشم شنیده شده است 
 ‏
@@ -55,7 +182,7 @@ src :@tabzlive
 
 src :@Middle_East_Spectator
 [عکس]
-‏— 🇸🇦/🇾🇪 NEW: The President of the Houthi-led government in Yemen announces a Presidential pardon to all Saudi-backed PLC forces currently fighting on the western coast front, provided they lay down their arms and surrender to Ansarallah
+‏— 🇸🇦/🇾🇪 NEW: The President of the Houthi-led government in Yemen announces a Presidential pardon to all Saudi-backed PLC forces currently fighting on the western coast, provided they lay down their arms and surrender to Ansarallah
 ‏
 ‏@Middle_East_Spectator
 00:38
@@ -73,7 +200,8 @@ src :@naya_foriraq
 
 
 src :@Ali_bk_2
-‏The Yemeni president issues a presidential amnesty for all deceived Saudi-aligned militants on the western coast fronts who laid down their weapons.
+[عکس]
+‏Yemeni President issues a presidential pardon for all deceived armed men loyal to Saudi Arabia on the western coast fronts who laid down their weapons.
 00:36
 1405/06/19
 
@@ -81,6 +209,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
+[عکس]
 ‏الرئيس اليمني يصدر عفوًا رئاسيًا عن كل المسلحين المخدوعين الموالين للسعودية بجبهات الساحل الغربي ممن ألقوا أسلحتهم.
 00:36
 1405/06/19
@@ -157,6 +286,8 @@ src :@wfwitness
 ‏This comes despite the two states' public disputes and rising tensions.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:34
 1405/06/19
 
@@ -2468,19 +2599,6 @@ src :@naya_foriraq
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴طبق برخی گزارش‌ها تائید نشده منطقه الجوف تا حدودی از لوس وجود تروریست ها حوثی آزاد شد،حوثی ها از این شهر عقب نشینی و فرار کردند و ارتش ملی یمن بزودی وارد عمران و صنعا و الحدیده خواهد شد( در حال پیشروی هستند) ساعات آینده بسیار مهم و تعیین کننده است
-‏
-‏پی نوشت:یکی از علت های پیش روی خیره کننده ارتش یمن پشتیبانی هوایی است هر جا کارشون گره میخوره با بمباران هوایی راه باز میکنن به احتمال زیاد حوثی ها دوباره به کوه های صعده فرار میکنن شایدم اینبار کار حوثی هارو برا همیشه تمام کنن و ارتش یمن داره به نزدیکی های صنعا پایتخت حوثی ها میرسه
-‏
-‏🆔@WAR_ROOM_NEWS
-21:54
-1405/06/18
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏اسماعیل بقائی، سخنگوی وزارت خارجه جمهوری اسلامی، شامگاه چهارشنبه ۱۸ شهریور گفت ارجاع پرونده هسته‌ای جمهوری اسلامی به شورای امنیت سازمان ملل «اساسا موضوعیت ندارد، زیرا تهران مرتکب هیچ‌گونه عدم پایبندی نشده است».
@@ -3079,23 +3197,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷 The International Atomic Energy Agency (IAEA) has passed a resolution of censure against Iran, referring its nuclear file to the UN Security Council. 
-‏
-‏The vote passed 23‑0, with China and Russia leading the opposition. Tehran warned that the move could open the possibility of new military strikes against its nuclear facilities, pointing to the precedent set in June 2025 when Israel attacked Iran a day after a similar IAEA decision.  
-‏
-‏IAEA Director General Rafael Grossi said there is “no engagement, no information” from Iran, which has suspended co‑operation with inspectors. Iran said Grossi’s concerns are “irrelevant” amid the “damaged international and regional peace and security” created by the war.  
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-20:48
-1405/06/18
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏▫️شركة «أبل» تطلق هاتفها الجديد iPhone 18 Pro Max.
@@ -3162,23 +3263,6 @@ src :@tglobaleye
 ‏#BREAKING | 🇺🇳 🇮🇷 — The IAEA Board of Governors has formally reported Iran to the UN Security Council for the first time in 20 years over breaches of its nuclear safeguards obligations.  
 ‏
 ‏The Global Eye | Subscribe ✈️
-20:39
-1405/06/18
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️نماینده جمهوری اسلامی ایران در سازمان‌های بین‌المللی مستقر در وین، روز چهارشنبه ۱۸ شهریور، در واکنش به تصویب قطعنامه جدید شورای حکام آژانس بین‌المللی انرژی اتمی و ارجاع پرونده ایران به شورای امنیت، این اقدام را «سیاسی و بدون اجماع» خواند و نسبت به فروپاشی کامل رژیم منع اشاعه هسته‌ای هشدار داد.
-‏
-‏این نمایندگی در شبکه اجتماعی ایکس هدف آمریکا را «به‌تسلیم‌کشانیدن ملت ایران و غارت نفت آن» دانست و آن را «توهم‌آمیز» توصیف کرد. در این پیام آمده است: «واشنگتن و متحدانش پس از دو سال جنگ همه‌جانبه به این هدف نرسیده‌اند و تصویب قطعنامه‌های سوگیرانه نیز شکست آن‌ها را جبران نخواهد کرد.»
-‏
-‏حساب رسمی نماینده ایران در وین، بار دیگر ادعای صلح‌آمیز بودن تاسیسات هسته‌ای در نطنز را تکرار کرد و حملات آمریکا به این تاسیسات را نقض منشور سازمان ملل دانست. او همچنین به حادثه اصابت موشک به مدرسه در میناب و کشته شدن ۱۶۸ دانش‌آموز و اصابت موشک به مراسم عروسی در کوهستگ اشاره کرده و ایالات متحده را به «جنایت جنگی» متهم کرد.
-‏
-‏روز چهارشنبه، شورای حکام آژانس بین‌المللی انرژی اتمی با صدور قطعنامه‌ای، پرونده ایران را به دلیل نقض تعهدات منع اشاعه هسته‌ای، پس از ۲۰ سال به شورای امنیت سازمان ملل متحد ارجاع داده است. این اقدام با مخالفت چین و روسیه نیز همراه بود.
-‏ 
-‏@indypersian
 20:39
 1405/06/18
 
@@ -3680,16 +3764,6 @@ src :@intelslava
 src :@naya_foriraq
 ‏🇺🇸وكالة معلومات الطاقة الأمريكية: انخفضت صادرات النفط من ينبع في السعودية بنحو 50٪ في شهر أغسطس مقارنة بشهر يوليو، وذلك بسبب الاضطرابات التي شهدتها مضيق باب المندب.
 19:39
-1405/06/18
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷💥❓ - Unconfirmed reports of 2 explosions heard from Jask, Hormozgan Province, Iran.
-‏
-‏@GeoPWatch
-19:38
 1405/06/18
 
 
@@ -6555,14 +6629,6 @@ src :@Parvazdaroj
 
 
 
-src :@intelslava
-‏🇺🇦🇷🇺⚡️ — Novorossiysk after the attack by Ukrainian drones.  @Intelslava
-10:07
-1405/06/18
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏★از زمان جنگ خلیج فارس ۱ و ۲ تصوری پدید آمد با این عنوان که بصورت کلاسیک نمیتوان در آسمان حریف ابرقدرت ها شد و برتری هوایی را حفظ یا بدست گرفت از این رو سرمایه‌گذاری و تمایل شدیدی بر روی توان به اصطلاح نامتقارن گذاشته شد تصوری که غلط نبود اما تمام ماجرا هم نبود ! برخلاف تصور نیروی هوایی یک ساختار بسیار منعطف و چالاک دارد و اگر این ساختار بصورت اصولی ساخته شود شکست دادن آن بسیار سخت و پیچیده خواهد بود حتی برای یک ابرقدرت 
@@ -6615,17 +6681,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 09:22
-1405/06/18
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇰🇵 North Korea builds new uranium enrichment facility.
-‏
-‏@BRICSNews
-09:10
 1405/06/18
 
 
@@ -6935,17 +6990,6 @@ src :@cataphract1
 
 src :@Exciton_missile_program
 ‏⚜تعداد زیادی موشک در راه اردن. ✒️#LT 📃@Cataphract1
-01:13
-1405/06/18
-
-
-
-
-src :@mamlekate
-[عکس]
-‏شلیک چندین موشک از سمت نجف آباد اصفهان ساعت ۱۲:۵۰ دقیقه بامداد ۱۸ شهریور
-‏
-‏@mamlekate
 01:13
 1405/06/18
 
