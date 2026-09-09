@@ -1,9 +1,64 @@
+src :@Alibk3
+[عکس]
+‏الجيش الأميركي ينقل مروحيات بلاك هوك من قاعدة موفق السلطي الأميركية بالأردن، بينها مروحيات متضررة.
+19:48
+1405/06/18
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli airstrike targets the town of Al Mansouri and Bani Hayan, southern Lebanon.
+‏
+‏@wfwitness
+19:45
+1405/06/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏CIA Director John Ratcliffe is preparing to take a larger role in US efforts to end the Russia-Ukraine war, potentially replacing or reducing the role of special envoy Steve Witkoff and Jared Kushner.
+‏
+‏US officials told European counterparts that Ratcliffe could lead more of the shuttle diplomacy between Moscow and Kyiv while maintaining contacts with intelligence officials. 
+‏
+‏Source: FT
+19:45
+1405/06/18
+
+
+
+
+src :@mohem_mat
+‏ادعای رویترز با استناد به داده‌ها: محموله‌های نفتی مخفیانه در خلیج فارس، با حمایت ایالات متحده، عرضه را به دو سوم سطح قبل از جنگ افزایش داده است.
+‏
+‏@mohem_mat
+19:45
+1405/06/18
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Initial reports of two explosions in Jask, Hormozgan province, Iran.
+‏
+‏@wfwitness
+19:44
+1405/06/18
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 گزارش هایی از انفجار در جاسک 
 ‏
 ‏🔹 گزارش‌های تأییدنشده از شنیده شدن دو انفجار در منطقه جاسک، استان هرمزگان، منتشر شده است.
 ‏
-‏#ایران #جاسک #هرمزگان
+‏#ایران
+‏#جاسک
+‏#هرمزگان
+‏
 ‏@RASTAKHIZ_PERSIAN
 19:43
 1405/06/18
@@ -888,27 +943,6 @@ src :@Americana_ir
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇷🇺🇺🇦⚡️ — CIA Director John Ratcliffe is preparing to take a larger role in U.S.-Russia-Ukraine negotiations as the Trump administration considers reducing the involvement of Steve Witkoff and Jared Kushner, according to the FT. 
-‏
-‏Trump has not made a final decision, and Witkoff could remain involved alongside Ratcliffe.
-‏
-‏The potential shake-up follows stalled U.S. diplomacy and recent Witkoff-Kushner visits to Moscow and Kyiv that produced few new ideas, with Putin showing little willingness to soften his demands. “You can’t solve this by dipping in and out,” one person said, arguing the war requires organized, full-time diplomacy.
-‏
-‏European capitals welcome a larger Ratcliffe role after growing frustrated with Witkoff’s unconventional approach. 
-‏
-‏Ukraine also says it can work with any of them: “We’re OK with [Ratcliffe], and with Jared and Steve too. The problem is the Russians.” 
-‏
-‏Kyiv believes Witkoff has not pressured Putin enough, while Moscow partly blamed him for the failed Alaska summit.
-‏
-‏Meanwhile, Kushner has told friends he would prefer to move on from Ukraine and focus on Gaza and the U.S.-Israeli war with Iran.
-18:44
-1405/06/18
-
-
-
-
 src :@defence_news
 ‏صرفا جهت این که گفته باشیم عرض می کنم ! در روزهای اخیر تعداد قابل توجهی از پرسنل فراجا اقدام به ارسال کلیپ از خودشان در فضای مجازی و اعتراض به وضعیت #معیشت کردند. صد البته که به بنده ارتباط نداره و مسئولین خودشان می دانند ولی در هر صورت گفتیم که گفته باشیم ! 
 ‏
@@ -1382,7 +1416,7 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏🚨فوری | آماده‌سازی‌ها برای یک عملیات تهاجمی بزرگ در جریان است
 ‏
-‏🔴شیخ بکیل الصوفی، رئیس اداره امور قبایل در وزارت کشور یمن:به حوثی‌ها می‌گویم: زمان اقدام علیه شما نزدیک است و به‌دلیل اقداماتی که انجام داده‌اید، از یمن بیرون رانده خواهید شد
+‏🔴شیخ بکیل الصوفی، رئیس اداره امور قبایل در وزارت کشور یمن:به حوثی‌ها می‌گویم: زمان اقدام علیه شما نزدیک است و به‌دلیل انچه که انجام داده‌اید، از یمن بیرون رانده خواهید شد
 ‏
 ‏🆔@WAR_ROOM_NEWS
 18:12
@@ -3868,18 +3902,6 @@ src :@mohem_mat
 src :@Artemis_Force
 ‏کره شمالی، ناوهای جدید را به بخشی از سیستم بازدارندگی هسته‌ای تبدیل می‌کند  کره شمالی رسماً دومین ناو موشک هدایت شونده خود را از کلاس چوی هیون با نام کان گون را به ناوگان خود اضافه کرد.   خبر مهم این است که این ناو، نقش جدیدی را ایفا می‌کند.   پیونگ‌یانگ برای…
 14:38
-1405/06/18
-
-
-
-
-src :@mohem_mat
-‏رسانه‌های محلی عراق از هدف قرار گرفتن یک نفت‌کش خارجی توسط پهپاد در آب‌های سرزمینی این کشور خبر دادند.
-‏
-‏‏ رسانه‌های محلی عراق اعلام کردند که وقوع این حادثه منجر به آتش‌سوزی در بخشی از یک نفتکش شده است. بر اساس گزارش‌های منتشر شده، تیم‌های امداد و نجات موفق شدند حریق را مهار و تحت کنترل درآورند.
-‏
-‏‎@mohem_mat
-14:37
 1405/06/18
 
 
