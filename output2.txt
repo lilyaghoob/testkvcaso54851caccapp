@@ -1,8 +1,26 @@
 src :@Ali_bk_2
 [عکس]
+‏Yemeni forces seize Al-Shuqayra, the center of Al-Wazi'iyah District!
+02:01
+1405/06/19
+
+
+
+
+src :@Alibk3
+[عکس]
+‏القوات اليمنية تسيطر على الشقيرة مركز مديرية الوازعية!
+02:00
+1405/06/19
+
+
+
+
+src :@Ali_bk_2
+[عکس]
 ‏Reuters:
 ‏
-‏Iran is likely to reverse-engineer the U.S. drone that was captured underwater.
+‏Iran is likely to reverse-engineer the U.S. unmanned submarine that was captured underwater.
 01:56
 1405/06/19
 
@@ -1711,26 +1729,10 @@ src :@intelslava
 
 
 
-src :@Ali_bk_2
-‏They entered... Ansar Allah
-00:30
-1405/06/19
-
-
-
-
 src :@guard_warriors
 ‏صدای انفجار در قشم
 ‏
 ‏@Guard_Warriors
-00:30
-1405/06/19
-
-
-
-
-src :@Alibk3
-‏دخلوا.. الأنصار
 00:30
 1405/06/19
 
