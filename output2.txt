@@ -1,3 +1,41 @@
+src :@rus_cosmos
+[عکس]
+‏فرودگر ال-کا اتحاد جماهیر شوروی که برای فرود کیهانوردان شوروی بر ماه در دهه ۱۹۷۰ طراحی شد.
+‏
+‏متاسفانه بدلیل عدم کارکرد صحیح موتورهای راکت فضایی ان-۱ کیهانوردان شوروی هیچگاه به ماه سفر نکردند.
+‏
+‏
+‏@rus_cosmos
+21:21
+1405/06/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇹🇼 An unauthorized drone entered the airspace over Ching Chuan Kang Air Base in Taichung, Taiwan on Tuesday night, temporarily closing the airport and forcing eight fighter jets to divert to Hsinchu Air Base.
+‏
+‏The intrusion lasted from 7:37 p.m. to 8:02 p.m. A commercial flight from Macau was also delayed and forced to circle before landing.
+‏
+‏Police did not locate the drone or its operator. The Aviation Police Bureau is investigating.
+‏
+‏@wfwitness
+21:21
+1405/06/18
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇾🇪/🇸🇦 BREAKING: Initial reports that Ansarallah (the Houthis) have captured Camp Khalid, Mokha direction  It is one of the most strategically important military positions in the area, situated on the road to Mokha.  @Middle_East_Spectator
+21:19
+1405/06/18
+
+
+
+
 src :@Navy_Iranian
 [فایل]
 ‏بیایید ضخامت تقریبی ورق جانبی موتورخانه را برای بزرگ‌ترین نفت‌کش های ایران با طول حدود 330 متر و ظرفیت 2 میلیون بشکه محاسبه کنیم.   در ابتدا محاسبه حداقل ضخامت خالص (t net):   حداقل ضخامت خالص ورق‌های پوسته جانبی بر اساس طول کشتی (L) با فرمول تقریبی زیر تعیین…
@@ -36,7 +74,7 @@ src :@Navy_Iranian
 ‏
 ‏
 ‏سپس اعمال حاشیه خوردگی محیطی (t corr):
-‏بخش موتورخانه به دلیل حرارت درکنار رطوبت بالا، بالاترین نرخ فرسودگی را دارد. حاشیه خوردگی برای ورق‌های دوجداره جانبی در مجاورت موتورخانه برابر با 2.0 میلی‌متر است.
+‏بخش موتورخانه به دلیل حرارت درکنار رطوبت بالا، بالاترین نرخ فرسودگی را دارد. حاشیه خوردگی برای ورق‌های دوجداره جانبی در مجاورت موتورخانه حدوداً 2 الی3 میلی‌متر است.
 ‏
 ‏ ضخامت نهایی در زمان ساخت (t gross):
 ‏
@@ -1587,16 +1625,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇪🇺🇮🇷🇺🇸⚡️ — European natural gas prices have surged above €80 per megawatt-hour for the first time in more than three years as the war with Iran pushes up energy costs ahead of winter.
-‏
-‏Prices have now more than doubled since the war began, raising the prospect of higher household and industrial energy bills, renewed inflationary pressure, and further strain on Europe’s fragile economy.
-19:34
-1405/06/18
-
-
-
-
 src :@Indypersian
 ‏⭕️ فایننشال تایمز: ایران برای دور زدن تحریم‌ها به رمزارز روی آورده است
 ‏
@@ -2278,23 +2306,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 18:40
-1405/06/18
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇺🇦🇷🇺 Financial Times: CIA Director John Ratcliffe is preparing to take a larger role in US negotiations with Russia and Ukraine, as the Trump administration seeks to revive stalled diplomatic efforts to end the war. US officials have told European counterparts that Ratcliffe could take over more of the shuttle diplomacy currently handled by Steve Witkoff and Jared Kushner.
-‏
-‏The possible shift comes as the White House considers reducing Witkoff and Kushner’s involvement in the Ukraine talks, although President Trump has not made a final decision. Ratcliffe recently visited Moscow and held discussions with senior Russian intelligence officials, while a planned meeting with Vladimir Putin was reportedly cancelled.
-‏
-‏European capitals have welcomed the possibility of greater Ratcliffe involvement, hoping it could bring fresh momentum to the negotiations. Meanwhile, Putin continues to demand an end to US support for Ukraine as a condition for a ceasefire, while Kushner is reportedly looking to focus more on diplomacy surrounding Gaza and the war involving Iran.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-18:38
 1405/06/18
 
 
