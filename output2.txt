@@ -4487,17 +4487,6 @@ src :@defence_news
 
 
 
-src :@tglobaleye
-[عکس]
-‏🇲🇲 — Territorial control map of the Myanmar/Burma Civil War, as of September 7, 2026 by independent conflict tracker Thomas van Linge✖️
-‏
-‏The Global Eye | Subscribe ✈️
-21:10
-1405/06/17
-
-
-
-
 src :@Artemis_Force
 ‏🛑ایالات متحده آمریکا طی ساعات اخیر بسته تحریمی دیگری رو علیه ایران آغاز کرده است که این بسته تحریمی ،ایرلاین های کشور را مورد هدف قرار می‌دهد
 ‏
@@ -4513,17 +4502,6 @@ src :@Artemis_Force
 src :@thewarreporter
 ‏🇮🇱🇦🇪🇵🇸 — Israeli PM Netanyahu's Office:  "The press reports are false. No warning was given to the PM from the UAE before October 7th.   If there was any relevant information , it was passed through intelligence channels between the two countries".  @TheWarReporter
 21:05
-1405/06/17
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇸🇩 — Territorial control map of the Sudanese Civil War, as of September 7, 2026 by independent conflict tracker Thomas van Linge✖️
-‏
-‏The Global Eye | Subscribe ✈️
-21:03
 1405/06/17
 
 
