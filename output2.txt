@@ -1,3 +1,34 @@
+src :@Mena_Live
+[عکس]
+‏The Yemeni Houthis have captured the strategic port city of Mokha, extending their control over the Bab-el-Mandeb Strait at the exit of the Red Sea and disrupting a critical logistical maritime hub for Saudi-backed forces in Yemen.
+‏
+‏@Mena_Live
+05:08
+1405/06/19
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️وال استریت ژورنال می‌نویسد، حکومت ایران در تلاش برای شکستن بن‌بست در تنگه هرمز که اقتصادش را تحت فشار شدید قرار داده است، بیش از گذشته در حال تشدید درگیری با آمریکا است.نیروهای جمهوری اسلامی در هفته گذشته دست‌کم سه بار به سوی ناوهای جنگی آمریکا، از جمله یک ناو هواپیمابر، موشک شلیک کرده‌اند و به‌طور مستقیم نیروی دریایی آمریکا را هدف قرار داده‌اند؛ اقدامی که از آغاز جنگ سابقه نداشته است. جمهوری اسلامی همچنین روز چهارشنبه یک شلیک گسترده موشکی به سوی نیروهای آمریکایی مستقر در اردن انجام داد.نیروهای جمهوری اسلامی در هفته گذشته دست‌کم سه بار به سوی ناوهای جنگی آمریکا، از جمله یک ناو هواپیمابر، موشک شلیک کرده‌اند و به‌طور مستقیم نیروی دریایی آمریکا را هدف قرار داده‌اند؛ اقدامی که از آغاز جنگ سابقه نداشته است. قابلیتی که آنها را به تهدیدی بزرگ‌تر از دیگر تسلیحات جمهوری اسلامی تبدیل می‌کند. هرچند ناوهای آمریکا در این حمله‌ها آسیب ندیدند، احتمال ارتقا توان تهران برای انجام حملات با کمک روسیه و چین قوت گرفته است. به گفته برخی منابع، موشک‌ها به فناوری‌های پیشرفته مجهز شده‌اند و می‌توانند هنگام پرواز به سوی اهداف متحرک مسیر خود را تغییر دهند. این درحالی است که اصابت موشک به یک ناو جنگی آمریکایی تقریبا به‌طور قطع واکنش شدید آمریکا را در پی خواهد داشت و خطر ازسرگیری یک جنگ تمام‌عیار را افزایش می‌دهد.اصابت موشک به یک ناو جنگی آمریکایی تقریبا به‌طور قطع واکنش شدید آمریکا را در پی خواهد داشت و خطر ازسرگیری یک جنگ تمام‌عیار را افزایش می‌دهد.آلیس گوئر، شریک در شرکت مشاوره ریسک سیاسی «آزور استراتژی» در لندن، گفت جمهوری اسلامی ممکن است حتی در موفقیت احتمالی حمله به یک ناو آمریکایی نیز منفعت ببیند. آسیب‌دیدن یک کشتی آمریکایی می‌تواند بازارها و کشورهای خلیج فارس را دچار نگرانی کند و ترامپ را تحت فشار قرار دهد.
+‏@indypersian
+05:08
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷🇺🇸رويترز: تعرضت عدة طائرات عسكرية أمريكية لأضرار خلال هجمات ليلية استهدفت قاعدة موفق السلطي الجوية في الأردن.
+‏
+‏إصابة طائرة أي 10 ثاندربولت وتضرر 8 مقاتلات من طراز إف 15.
+05:07
+1405/06/19
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇾🇪⚡️🇸🇦🇾🇪-As a result of the Houthis offensive toward the coastal city of Mocha the towns/cities of Hays, Al Khawkhah, Al Mafraq, and Jabar Al-nar have all been completely captured by Houthi forces.
@@ -1669,16 +1700,6 @@ src :@P_raetorio
 
 
 
-src :@Middle_East_Spectator
-‏NOTE: Reports of U.S. airstrikes on Sirik are still unconfirmed.
-‏
-‏Only IRNA has reported this so far.
-01:07
-1405/06/19
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷❓ – Unconfirmed reports by the Iranian outlet IRNA claim "enemy projectiles" have struck Sirik, southern Iran.
 ‏
@@ -1872,14 +1893,6 @@ src :@GeoPWatch
 ‏⚡️🇮🇱 – Air raid sirens sounding in northern Israel due to an unknown aircraft infiltration.
 ‏
 ‏@GeoPWatch
-01:01
-1405/06/19
-
-
-
-
-src :@rnintel
-‏🇮🇱⚡️- "Explosions are expected to be heard in the coming hours in the Galilee region, due to airstrikes being carried out by the army in Lebanon." - Israel Channel 12.
 01:01
 1405/06/19
 
@@ -3939,16 +3952,6 @@ src :@warmonitors
 
 
 
-src :@intelslava
-‏🇮🇷🇺🇸⚡️ — Iran warns the IAEA’s decision to refer Tehran to the UN Security Council could undermine and ultimately collapse the global nuclear non-proliferation regime.
-‏
-‏@Intelslava
-21:22
-1405/06/18
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏فرودگر ال-کا اتحاد جماهیر شوروی که برای فرود کیهانوردان شوروی بر ماه در دهه ۱۹۷۰ طراحی شد.
@@ -4610,29 +4613,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 19:36
-1405/06/18
-
-
-
-
-src :@OSINTWarfare
-[ویدئو]
-‏— Dear subscribers, join our affiliates folder: WAR FILES
-‏
-‏WAR FILES is a curated collective of independent news channels and conflict monitors — united by one mission: accurate, fast, and uncompromising coverage of global conflicts and geopolitical developments.
-‏
-‏We don’t chase headlines — we document, verify, and expose.
-‏Every channel in this folder shares a commitment to truth over trend, facts over propaganda, and depth over noise.
-‏
-‏Our network spans multiple regions and perspectives — military analysts, field observers, journalists, and open-source researchers — giving you a 360° understanding of events as they unfold.
-‏Diversity of thought is encouraged; misinformation is not tolerated.
-‏
-‏Expect real-time updates, field reports, verified intelligence, and analytical breakdowns of ongoing wars, defense movements, and regional flashpoints.
-‏
-‏If you seek clarity amid chaos — if you want coverage that cuts through bias and distortion — then WAR FILES is for you.
-‏
-‏Join WAR FILES 👉 [https://t.me/addlist/PNefmPQS3CJhZGUy]
-19:35
 1405/06/18
 
 
