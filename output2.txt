@@ -1,5 +1,160 @@
 src :@Ali_bk_2
-‏Warning
+[عکس]
+‏Live..  The Yemeni forces seize Yakhtul, the first area of Mokha.
+04:26
+1405/06/19
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مباشر..  القوات اليمنية تسيطر على يختل أولى مناطق المخأ.
+04:26
+1405/06/19
+
+
+
+
+src :@intelslava
+‏🇾🇪❌️🇸🇦 — Sirens are sounding in Khamis Mushait and Abha following a ballistic missile attack launched by Ansar Allah.
+‏
+‏@IntelSlava
+04:25
+1405/06/19
+
+
+
+
+src :@OSINTWarfare
+‏Sirens are sounding in Khamis Mushait and Abha, Saudi Arabia, following an Ansar Allah ballistic missile attack.
+04:25
+1405/06/19
+
+
+
+
+src :@wfwitness
+‏Alerts for the Khamis Mushait Governorate in Saudi Arabia  @wfwitness
+04:24
+1405/06/19
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇾🇪❌🇸🇦 — Alerts in Abha, KSA.
+04:24
+1405/06/19
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - Alert in Abha, Saudi Arabia.
+‏
+‏@GeoPWatch
+04:24
+1405/06/19
+
+
+
+
+src :@Ali_bk_2
+‏Air defenses activated in Khamis Mushait, Saudi Arabia.
+04:24
+1405/06/19
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇸🇦/🇾🇪 BREAKING: Alerts in Khamis Mushait and Abha, KSA
+‏
+‏Yemeni ballistic missiles and drones are headed towards Saudi Arabia.
+‏
+‏@Middle_East_Spectator
+04:24
+1405/06/19
+
+
+
+
+src :@Alibk3
+‏تفعيل الدفاعات الجوية في خميس مشيط بالسعودية
+04:24
+1405/06/19
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏0053Z
+‏Alert issued in Abha; Threat type unspecified #KSA 🇸🇦
+‏
+‏https://x.com/SaudiDCD/status/2097850919975031244
+‏
+‏ترجمه خودکار فارسی
+‏
+‏0053Z (۰۴:۲۳ به وقت تهران)
+‏در ابها هشدار صادر شد؛ نوع تهدید مشخص نشده است #KSA 🇸🇦
+‏
+‏https://x.com/SaudiDCD/status/2097850919975031244
+‏
+‏𝕏  ·  @shin_persian
+04:23
+1405/06/19
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇾🇪❌🇸🇦 — Alerts in Khamais Mushait, KSA.
+04:23
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز السعودية
+04:23
+1405/06/19
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - Alert in Khamis Mushait, Saudi Arabia.
+‏
+‏@GeoPWatch
+04:23
+1405/06/19
+
+
+
+
+src :@wfwitness
+[عکس]
+‏Alerts for the Khamis Mushait Governorate in Saudi Arabia
+‏
+‏@wfwitness
+04:23
+1405/06/19
+
+
+
+
+src :@Ali_bk_2
+‏Air defenses activated in Khamis Mushait, Saudi Arabia.
 04:22
 1405/06/19
 
@@ -7,7 +162,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏انذار
+‏تفعيل الدفاعات الجوية في خميس مشيط بالسعودية
 04:22
 1405/06/19
 
@@ -45,8 +200,24 @@ src :@Ali_bk_2
 
 
 
+src :@naya_foriraq
+‏الله اكير
+04:22
+1405/06/19
+
+
+
+
 src :@Alibk3
 ‏وصلوا
+04:22
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏الله اكير
 04:22
 1405/06/19
 
@@ -747,24 +918,6 @@ src :@IranintlTV
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Yemeni forces have fully taken control of the strategic Khalid bin al-Walid military base.  Only the Fire Mountains now stand between them and Mokha.
-02:29
-1405/06/19
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القوات اليمنية تسيطر بشكل كامل على قاعدة خالد بن الوليد العسكرية الاستراتيجية.  ولم يعد يفصلها عن المخا سوى جبال النار.
-02:29
-1405/06/19
-
-
-
-
 src :@cataphract1
 ‏⚜ به گزارش رویترز عربستان با واسطه پاکستان از ایران خواسته به حوثی ها بگه حملاتشون رو علیه عربستان قطع کنن اما ایران گفته ما حوثی هارو کنترل نمی‌کنیم 
 ‏
@@ -783,32 +936,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202609094134
 02:23
-1405/06/19
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Disruptions in the airspace over Jeddah.
-02:16
-1405/06/19
-
-
-
-
-src :@Alibk3
-[عکس]
-‏اضطرابات في المجال الجوي فوق جدة.
-02:16
-1405/06/19
-
-
-
-
-src :@naya_foriraq
-‏🇾🇪القوات المسلحة اليمنية تحكم قبضتها على حيس وتواصل تقدمها باتجاه الساحل الغربي.
-02:14
 1405/06/19
 
 
@@ -905,14 +1032,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 01:48
-1405/06/19
-
-
-
-
-src :@naya_foriraq
-‏🔻مصدر لنايا: اليوم أقيمت أولى جلسات المحكمة للمجاهد العراقي المختطف في أمريكا "محمدباقر السعدي" والذي أختطف في فترة سابقة أثناء تواجده في دولة تركيا؛ يذكر أن القوات الأمنية الأمريكية وفرت للمجاهد المختطف ظروف صعبة حيث منعت إيصال الطعام إليه لعدة أيام.
-01:47
 1405/06/19
 
 
@@ -1662,15 +1781,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇱🇧⚡️ — Drone alerts in the Galilee Panhandle, northern Israel.
-00:56
-1405/06/19
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری فارس، در اولین دقایق بامداد پنج‌شنبه ۱۹ شهریور ۱۴۰۵، گزارش داد صدای چندین انفجار در مناطق ساحلی قشم، سیریک و شهرستان میناب شنیده شده است. بر اساس این گزارش، استانداری هرمزگان ماهیت صداهای شنیده‌شده در قشم را از سمت دریا عنوان کرده است.
@@ -1695,14 +1805,6 @@ src :@mwarmonitor
 
 
 
-src :@wfwitness
-‏⚡️🇾🇪🇾🇪 Reports suggest that the city of Hays, Yemen, has fallen to the Houthis after the Giants Brigades withdrew from the area.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:55
-1405/06/19
-
-
-
-
 src :@MilitarryWorld
 ‏🔴بقایی: حوثیا مستقلن و نیابتی ما نیستن
 ‏
@@ -1716,15 +1818,6 @@ src :@MilitarryWorld
 src :@WAR_ROOM_NEWS
 ‏🔴گزارش از حملات جنگنده‌های سعودی به اهداف حوثی ها در استان الجوف،یمن
 00:54
-1405/06/19
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇾🇪🇸🇦⚡️ — Secretary of State Marco Rubio on Houthi (Ansarallah) attacks on Saudi Arabia: The Houthis, in many ways, are agents and proxies of the Iranians. I think behind some of this is clearly the Iranian hand.   The U.S. has a very strong defensive military…
-00:53
 1405/06/19
 
 
@@ -2174,23 +2267,6 @@ src :@WAR_ROOM_NEWS
 ‏#وضعیت_میدانی
 ‏
 ‏🆔@WAR_ROOM_NEWS
-00:10
-1405/06/19
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 بالگردهای بلک‌هاوک آسیب دیده در موفق السلطی اردن. (حداقل ۴ فروند)
-‏
-‏🔹احتمالا مربوط به حملات شب گذشته باشد.
-‏
-‏مکپر
-‏
-‏#آمریکا #اردن #ایران
-‏
-‏@RASTAKHIZ_PERSIAN
 00:10
 1405/06/19
 
@@ -3704,17 +3780,6 @@ src :@didarnews1
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦 – A storage and logistics area is burning in a train station in eastern Kyiv following new Russian strikes. This area has been struck multiple times this year.
-‏
-‏@GeoPWatch
-21:32
-1405/06/18
-
-
-
-
 src :@jangaavaran1390
 ‏ترامپ در حال حاضر یک جلسه اضطراری در کاخ سفید درباره ایران برگزار می‌کند.
 21:28
@@ -3742,21 +3807,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/06/18/408252/
 21:26
-1405/06/18
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸🇮🇷 – UKMTO published a few hours ago two advisories regarding possible Iranian strikes off the coast of the UAE and Iraq.
-‏
-‏Interestingly, it's the first Iranian strikes in weeks that do not take place in the Strait of Hormuz, but that targeted apparently docked vessels as retaliation for U.S. attacks.
-‏
-‏Iran claimed it targeted at least 8 tankers yesterday—it appears at least two were struck.
-‏
-‏@GeoPWatch
-21:25
 1405/06/18
 
 
@@ -4476,29 +4526,6 @@ src :@OSINTWarfare
 ‏
 ‏Join WAR FILES 👉 [https://t.me/addlist/PNefmPQS3CJhZGUy]
 19:35
-1405/06/18
-
-
-
-
-src :@intelslava
-[ویدئو]
-‏— Dear subscribers, join our affiliates folder: WAR FILES
-‏
-‏WAR FILES is a curated collective of independent news channels and conflict monitors — united by one mission: accurate, fast, and uncompromising coverage of global conflicts and geopolitical developments.
-‏
-‏We don’t chase headlines — we document, verify, and expose.
-‏Every channel in this folder shares a commitment to truth over trend, facts over propaganda, and depth over noise.
-‏
-‏Our network spans multiple regions and perspectives — military analysts, field observers, journalists, and open-source researchers — giving you a 360° understanding of events as they unfold.
-‏Diversity of thought is encouraged; misinformation is not tolerated.
-‏
-‏Expect real-time updates, field reports, verified intelligence, and analytical breakdowns of ongoing wars, defense movements, and regional flashpoints.
-‏
-‏If you seek clarity amid chaos — if you want coverage that cuts through bias and distortion — then WAR FILES is for you.
-‏
-‏Join WAR FILES 👉 [https://t.me/addlist/PNefmPQS3CJhZGUy]
-19:34
 1405/06/18
 
 
@@ -6734,24 +6761,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 10:50
-1405/06/18
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏IRIAF 8th AFB is now on high alert
-‏Isfahan, #Isfahan Province, #Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏پایگاه هشتم نیروی هوایی ارتش جمهوری اسلامی ایران اکنون در حالت آماده‌باش کامل است
-‏اصفهان، استان #Isfahan، #Iran
-‏
-‏𝕏  ·  @shin_persian
-10:44
 1405/06/18
 
 
