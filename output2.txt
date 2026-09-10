@@ -1,3 +1,110 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+23:58
+1405/06/19
+
+
+
+
+src :@mwarmonitor
+‏🚨 سازمان امداد و نجات دریایی بریتانیا: گزارش‌هایی مبنی بر وقوع حادثه‌ای برای دو کشتی در فاصله ۴ مایلی دریایی غرب شهر خصب در کشور عمان دریافت شده است.
+‏
+‏@mwarmonitor
+23:57
+1405/06/19
+
+
+
+
+src :@tabzlive
+[عکس]
+‏— 🇸🇦/🇾🇪 Yemen situation update
+‏
+‏– Dhubab: The status of the city is currently unclear; it seems that Saudi-backed forces have completely withdrawn from the city, but Ansarallah has not decided to enter it yet. As a result, the city is stuck in somewhat of a ‘no man’s land’. For all practical reasons, the city has already fallen to Ansarallah and they can enter Dhubab whenever they wish, which is why it has been marked green on the map. Periodic Saudi airstrikes against the city still continue.
+‏
+‏– Mayun Island: Despite various reports over the past few hours, there has been no visual confirmation that the island has fallen to Ansarallah. Until then, we can neither confirm nor deny its capture, and must wait for verification.
+‏
+‏– Al-Shuqayra: Ansarallah have captured the crossroads. Furthermore, the adjacent Jabal Nuhan is also being threatened.
+‏
+‏@Middle_East_Spectator
+23:57
+1405/06/19
+
+
+
+
+src :@Ali_bk_2
+‏A maritime security incident near the Omani coast.
+23:56
+1405/06/19
+
+
+
+
+src :@Alibk3
+‏حدث أمني بحري قرب السواحل العمانية.
+23:56
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر استهداف سفينة قرب بحر عمان
+23:55
+1405/06/19
+
+
+
+
+src :@Ali_bk_2
+‏A maritime security incident near the Omani coast.
+23:54
+1405/06/19
+
+
+
+
+src :@Alibk3
+‏حدث أمني بحري قرب السواحل العمانية.
+23:54
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر
+‏استهداف سفينة قرب بحر عمان
+23:54
+1405/06/19
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴توییت نتانیاهو: 
+‏
+‏امشب بزرگترین تونل ساخت ایران در خارج از این کشور را نابود کردیم
+‏
+‏.@MilitarryWorld | Parsa
+23:53
+1405/06/19
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇶☀️ Nothing is happening in Erbil; reports are categorically denied.
+‏
+‏@wfwitness
+23:52
+1405/06/19
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Vice President JD Vance privately sought direct, unfiltered assessments from U.S. military commanders about the Iran war, and what he heard was much more concerning than the administration’s public message. 
@@ -1467,16 +1574,6 @@ src :@Alibk3
 
 
 
-src :@wfwitness
-‏⚡️🇸🇦🇾🇪🇾🇪 Alerts in Saudi Arabia's Khamis Mushait Governorate.
-‏
-‏@wfwitness
-22:44
-1405/06/19
-
-
-
-
 src :@naya_foriraq
 ‏رشقة من أنصار الله نحو خميس مشيط
 22:44
@@ -2260,14 +2357,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-22:08
-1405/06/19
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶🇺🇸وزارة الخزانة الأمريكية تعلن عن عقوبات جديدة ضد مسؤولون تنفيذيون في شركات عراقية.
 22:08
 1405/06/19
 
@@ -3352,24 +3441,6 @@ src :@Alibk3
 
 
 
-src :@mwarmonitor
-‏🔴 مقام وزارت خارجه آمریکا:
-‏
-‏🔴 واشنگتن از نزدیک فراخوان‌ها در جنوب لبنان برای اعمال حاکمیت دولت لبنان را زیر نظر دارد.
-‏
-‏🔴 این مقام گفت واشنگتن از جوامع و مناطقی که خواستار پایان دادن به شلیک و نگهداری سلاح توسط حزب‌الله در مناطق خود هستند، حمایت می‌کند.
-‏
-‏🔴 این مقام از لبنان خواست طرحی برای خلع سلاح حزب‌الله در سراسر خاک لبنان تدوین کند.
-‏
-‏🔴 این مقام گفت «چارچوب سه‌جانبه» همچنان «تنها نقشه راه برای صلح» است.
-‏
-‏@mwarmonitor
-21:18
-1405/06/19
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇮🇷 — Iran is resuming limited ballistic missile production underground, assembling weapons from stockpiled components after U.S.-Israeli strikes damaged its production facilities and a naval blockade restricted fuel imports.
 ‏
@@ -3702,15 +3773,6 @@ src :@Ali_bk_2
 
 src :@jangaavaran1390
 ‏هانگ کاو، سرپرست موقت وزارت نیروی دریایی آمریکا، در مصاحبه با «ایپوک تایمز» ادعا کرد که ایران پایگاه پشتیبانی دریایی بحرین (مقر ناوگان پنجم) را به‌طور کامل ویران کرده است. او افزود این خسارات باعث شده خدمه ناو «آبراهام لینکلن» جایی برای استراحت نداشته باشند. همچنین به دلیل تهدیدات ایران، کشتی‌های تدارکاتی مجبور به سفر به جزیره دیگو گارسیا شده‌اند. در حالی که دولت آمریکا درباره تعمیر و بازپس‌گیری پایگاه‌های آسیب‌دیده در خاورمیانه تصمیم می‌گیرد، کاو اعلام کرد نیروی دریایی در حال بررسی حضور آینده در بحرین است و یک گروه ویژه برای این منظور تشکیل شده است.
-20:51
-1405/06/19
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏The Yemeni military media publishes images of the wreckage of the Saudi "Karyal" reconnaissance aircraft, which was shot down while carrying out hostile activities over Hajjah province.
 20:51
 1405/06/19
 
@@ -4352,16 +4414,6 @@ src :@rnintel
 
 
 
-src :@MilitarryWorld
-‏🔴کاظمی : نمیزاریم دشمن مدارس رو غیر حضوری کنه.
-‏
-‏@MilitarryWorld | Parsa
-19:46
-1405/06/19
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️در حومه شهر یانگژو چین، دهکده‌ای با قدمت بیش از ۶۰۰ سال به نام «بوسی جاوان» یا «دهکده پارسیان» قرار دارد. تاریخ این مکان با یک داستان عاشقانه آغاز می‌شود. در دوران سلسله تانگ، بازرگانان ایرانی از طریق جاده ابریشم دریایی به یانگژو آمدند. گفته می‌شود تاجر جوانی در این دهکده بیمار شد و تحت مراقبت یک خانواده محلی قرار گرفت. او عاشق دختر این خانواده شد و با او ازدواج کرد. این پیوند باعث شد بازرگانان ایرانی بیشتری به یانگژو بیایند و در آنجا ساکن شوند. امروزه بیش از ۱۰۰ خانوار با نام خانوادگی «لی» ریشه خود را در این تاجران پارسی می‌دانند.
@@ -4426,18 +4478,6 @@ src :@samueltarikh
 ‏🚨روسیه در شورای امنیت: 
 ‏
 ‏اجازه بازگشت تحریم‌ها علیه ایران را نخواهیم داد
-19:31
-1405/06/19
-
-
-
-
-src :@MilitarryWorld
-‏🔴سردار احمد وحیدی: 
-‏
-‏خدای ما خدای زنده است، خدای غربی ها خدای مرده است.
-‏
-‏@MilitarryWorld | Parsa
 19:31
 1405/06/19
 
@@ -6287,26 +6327,6 @@ src :@KayhanLondonChannel
 src :@Parvazdaroj
 ‏یک عزیزی پیام جالبی داده بود،اینکه در تبریز سکونت دارد و ماه هاست خبری از صدای لذت بخش شکاری ها در اوایل صبح نیست! از این پیام ها زیاد دریافت کردیم.  جواب ساده است،جنگنده ای نمانده که بپرد ،آنهایی هم ماندند،در گوشه نقاط کشور پنهان شده و ماموریتی ندارند . خلبان…
 12:04
-1405/06/19
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🛑گروه سپاهان ذوب 
-‏
-‏🔸کوره های ذوب
-‏🔸باکس سایلنسر موتور برق
-‏🔸دستگاه بلوک زنی
-‏🔸دستگاه تولید چوب لباسی
-‏🔸فروش بوته و قالب و لوازم ریخته گری
-‏🔸تفنگ های pcp
-‏
-‏آدرس سایت جهت بازدید محصولات(فیلترشکن خاموش):  
-‏
-‏www.sepahankalatak.ir
-12:03
 1405/06/19
 
 
