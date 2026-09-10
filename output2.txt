@@ -1,3 +1,46 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏تصاویری از بقایای هواپیمای شناسایی مسلح "کاریال" متعلق به ائتلاف سعودی که توسط حوثی ها در لحظه‌ای که در حال انجام عملیات  در آسمان استان حجه بود، سرنگون شد
+‏
+‏🆔️‌@WAR_ROOM_NEWS
+21:05
+1405/06/19
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏سپاه پاسداران با پخش این تصویر اعلام کرد یک شناور بدون سرنشین Saildrone Explorer را در تنگه هرمز هدف قرار داده است.  @P_raetorio
+21:03
+1405/06/19
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏ارتش اسرائیل و سازمان شین بت، کشته شدن فراح حامد، که گفته می‌شود عضو حماس بوده است، در یک حمله هوایی در نوار غزه روز چهارشنبه را تأیید کردند.
+‏
+‏🆔️‌@WAR_ROOM_NEWS
+21:02
+1405/06/19
+
+
+
+
+src :@ClashReport
+‏Anthropic says it blocked several scientists from using Claude for biological research that could potentially support bioweapons development. 
+‏
+‏The company could not determine whether the work was legitimate or malicious, but shut it down after users evaded safeguards and, in some cases, appeared linked to military research.
+‏
+‏Source: NYT
+21:02
+1405/06/19
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️حسن حسن‌زاده، فرمانده سپاه تهران بزرگ، در جریان رزمایش این نیروها گفت که ایران از فاز عملیات‌های دفاعی عبور کرده و اکنون در آستانه ورود به «عملیات‌های تهاجمی» قرار دارد.
@@ -15,7 +58,9 @@ src :@Indypersian
 
 src :@wfwitness
 [عکس]
-‏⚡🇱🇧 Lebanese Prime Minister Nawaf Salam: Today, we are not simply opening an additional expansion at the Port of Beirut; we are opening a new window for Lebanon to the world and taking a practical step toward restoring the port’s position as one of the Mediterranean’s leading harbors and a pillar of the Lebanese economy.
+‏⚡🇱🇧 Lebanese Prime Minister Nawaf Salam on the setting stone for the Beirut port expansion:
+‏
+‏Today, we are not simply opening an additional expansion at the Port of Beirut; we are opening a new window for Lebanon to the world and taking a practical step toward restoring the port’s position as one of the Mediterranean’s leading harbors and a pillar of the Lebanese economy.
 ‏
 ‏The Port of Beirut has always been an essential part of the capital’s history, identity and economic development, linking Lebanon with regional and international markets and helping Beirut emerge as a major center for trade, banking, education and journalism.
 ‏
@@ -219,6 +264,8 @@ src :@wfwitness
 ‏The total death toll from the Israeli aggression since October 8, 2023, has risen to 8,950 victims and 30,642 wounded.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:54
 1405/06/19
 
@@ -251,6 +298,8 @@ src :@wfwitness
 ‏The statement urged civilians to avoid the Taiz–Mocha road until further notice and stay away from gatherings of Houthi personnel and equipment, citing concerns for civilian safety.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:53
 1405/06/19
 
@@ -282,6 +331,8 @@ src :@wfwitness
 ‏⚡️🇾🇪🇾🇪🇸🇦 The Houthis have released images showing what they claim is the wreckage of a Saudi‑operated Karayel armed reconnaissance drone, which they say was downed by air defences while conducting hostile operations over Hajjah province.  
 ‏ 
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:52
 1405/06/19
 
@@ -2970,16 +3021,6 @@ src :@OSINTWarfare
 
 
 
-src :@WAR_ROOM_NEWS
-‏🇾🇪⚡️- خبر فوری: جنبش انصارالله، شهر ضباب واقع در جنوب غربی یمن را به تصرف خود درآورده است
-‏
-‏🆔@WAR_ROOM_NEWS
-17:56
-1405/06/19
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏آمریکا موشک دوربرد ارزان و پرتعداد «Anthem» را آزمایش می‌کند
@@ -3257,16 +3298,6 @@ src :@MilitarryWorld
 
 
 
-src :@WAR_ROOM_NEWS
-‏رئیس نیروهای وابسته به ائتلاف که در ریاض مستقر است، خواستار مداخله کشورهای عربی و جامعه جهانی برای حفاظت از ساحل غربی یمن شد
-‏
-‏🆔@WAR_ROOM_NEWS
-17:31
-1405/06/19
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏تصاویری از شبه نظامیان انصار‌الله پس از تصرف شهر الخوخه یمن با استایل کاملا نظامی!
@@ -3503,32 +3534,6 @@ src :@MilitarryWorld
 ‏🤝اسپانسر باشگاه یوونتوس🇮🇹
 ‏🤩آموزش ثبت نام در 1 دقیقه
 ‏💀 https://t.me/+mneyQS4mfqNjNjBk
-17:09
-1405/06/19
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏👀دنبال سایت معتبر برای شرطبندی می‌گردید⁉️
-‏▪️ سایت بین المللی و معتبر 1xbet
-‏⚽️⚽️⚽️
-‏🔠دارای مجوز بین المللی CURACAO
-‏تسویه حساب کمتر از 2دقیقه 
-‏
-‏🤑شارژ حساب از طریق یو ووچر و پی اس ووچر ،تمام ارزها
-‏┅━━━━━━━━━━━
-‏🎁 واریز اول و هر شنبه دو برابر شارژ شوید(بونوس ۱۰۰٪) 
-‏💡کد هدیه ثبت نام: S5670
-‏👽ثبت نام کنید.     👇
-‏📲 نصب اپلیکیشن اندرید کلیک کنید👉
-‏
-‏🌐آدرس سایت ▫️
-‏
-‏‼️جهت استفاد از وبسایت از آی پی کشورهای آسیایی یا کانادا ، استفاده کنید🇨🇦  🇮🇳🇹🇷
-‏
-‏            🚨 امنیت مالی در 1xbet🚨
 17:09
 1405/06/19
 
@@ -4495,27 +4500,6 @@ src :@rnintel
 
 
 
-src :@P_raetorio
-[عکس]
-‏در جریان تهاجم روسیه به اوکراین، وضعیت اقتصادی روس ها را میتوان در مقاطع زمانی مختلفی تقسیم بندی کرد. در یک بازه چهار ساله، در ابتدا با افزایش هزینه های نظامی و سنگین شدن تحریم های غرب و تحریم خرید انرژی از روسیه، اقتصاد این کشور در شاخصه های مختلف افت کرد.
-‏
-‏در میانه جنگ اما با تدابیری که روس ها اندیشیدند به مرور وضعیت شاخصه های اقتصادی به سمت بهبود پیش رفت اما امروز با افزایش تهاجم اوکراین به زیر ساخت های روسیه و ایضا افزایش هزینه های جنگ، وضعیت اقتصادی روسیه رو به وخامت گذاشته است.
-‏
-‏در بحث تولید فرآورده های نفتی، صادرات گندم، تولیدات صنعتی و ......... سال 2026 تا به این جای کار برای اقتصاد روسیه افت قابل ملاحظه ای را به نسبت زمان مشابه در سال قبل نشان میدهد. علاوه بر این تقریبا بخش عمده بودجه بازسازی و نوسازی زیرساخت های غیر نظامی در روسیه به حوزه نظامی و جنگ اختصاص یافته که این مسئله در سال های آتی نتایجش مشخص خواهد شد.
-‏
-‏پیش بینی میشود سهم هزینه‌های نظامی روسیه از تولید ناخالص داخلی که در سال 2025 میلادی به حدود 7.3 درصد در سال جاری افزایش یابد.
-‏
-‏#روسیه
-‏#اوکراین
-‏#آمار
-‏
-‏@SNTankograd
-14:57
-1405/06/19
-
-
-
-
 src :@mohem_mat
 ‏@Kayvan_Hosseini
 ‏روزی که‌ نتانیاهو به روزنامه چپ میانه «هاآرتص» نامه فرستاده و گفته می‌خواهد از آنها شکایت کند، روزنامه دست راستی «تایمز اسرائیل» هم از منابع اماراتی، افشاگری «هاآرتص» را مبنی بر اینکه او قبل از ۷ اکتبر از حمله حماس خبر داشته، تایید کرد.
@@ -4607,14 +4591,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 14:47
-1405/06/19
-
-
-
-
-src :@rnintel
-‏🇩🇿🇦🇪⚡- "Algeria decided today to sever its diplomatic relations with the United Arab Emirates, after exhausting all means capable of preserving bilateral relations," - Algeria's Ministry of Foreign Affairs.
-14:45
 1405/06/19
 
 
