@@ -683,22 +683,6 @@ src :@Alibk3
 
 
 
-src :@Ali_bk_2
-‏Yemeni forces seize control of Al-Khokha and Khalid Camp, while media outlets affiliated with Saudi-backed forces confirm that their forces have withdrawn to Mokha.  A tactical withdrawal.
-02:14
-1405/06/19
-
-
-
-
-src :@Alibk3
-‏القوات اليمنية تسيطر على الخوخة، ومعسكر خالد، ووسائل إعلام القوات الموالية للسعودية تؤكد انسحاب قواتهم إلى المخأ.  انسحاب تكتيكي.
-02:14
-1405/06/19
-
-
-
-
 src :@naya_foriraq
 ‏🇾🇪القوات المسلحة اليمنية تحكم قبضتها على حيس وتواصل تقدمها باتجاه الساحل الغربي.
 02:14
@@ -1648,19 +1632,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 00:55
-1405/06/19
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇮🇱 Drone alert sirens are active in the Confrontation Line region, Northern Israel.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:54
 1405/06/19
 
 
@@ -7069,12 +7040,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 04:32
-1405/06/18
-
-
-
-
-src :@Navy_Iranian
-‏تاکنون در مجموع ٨ نفتکش طی ٢ حمله نیرو دریایی ایالات متحده آمریکا، از کار افتاده و یا غرق شده اند، همچنین اعلام شده است اگر حملات ایران به نیرو دریایی ایالات متحده آمریکا ادامه داشته باشد، الباقی نفتکش های ایران مورد حمله قرار خواهد گرفت  و حملات بیشتر خواهد…
-03:57
 1405/06/18
