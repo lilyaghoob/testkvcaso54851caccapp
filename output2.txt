@@ -1,3 +1,34 @@
+src :@Navy_Iranian
+[عکس]
+‏دو کشتی دز نزدیکی سواحل عمان مورد حمله قرار گرفتند 
+‏
+‏⚓️ @Navy_Iranian | #a_m
+00:41
+1405/06/20
+
+
+
+
+src :@Navy_Iranian
+[عکس]
+‏شب گذشته یک کاروان از نفتکش ها از طریق مسیر عمانی از خلیج فارس عبور کردند
+‏
+‏⚓️ @Navy_Iranian | #a_m
+00:39
+1405/06/20
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏استهداف السفينة الثانية في مضيق هرمز واندلاع حرائق واسعة فيها.
+00:38
+1405/06/20
+
+
+
+
 src :@Shin_Persian
 [عکس]
 ‏Ben Tzion Macales ✓ @BenTzionMacales
@@ -70,9 +101,7 @@ src :@ClashReport
 
 src :@wfwitness
 [عکس]
-‏⚡️🇴🇲 UKMTO reported an incident involving two vessels approximately 4 nautical miles west of Khasab, Oman. A vessel’s master reported seeing four unknown projectiles strike two unknown vessels around 6 nautical miles north of his position, causing a fire on one vessel while the status of the second remained unclear.
-‏
-‏UKMTO said authorities are investigating the incident, which has been classified as an attack. No further details on the vessels or the projectiles were provided in the warning.
+‏⚡️🇮🇷🇴🇲 UKMTO reported an incident involving two vessels approximately 4 nautical miles west of Khasab, Oman, where the vessels were struck by projectiles, a fire started on one, and the fate of the other remains uncertain.
 ‏
 ‏@wfwitness
 00:33
@@ -2359,15 +2388,6 @@ src :@Indypersian
 
 
 
-src :@naya_foriraq
-[عکس]
-‏اسعار النفط تصل الى 107$ للبرميل الواحد
-22:30
-1405/06/19
-
-
-
-
 src :@jangaavaran1390
 ‏نیروهای دفاعی اسرائیل (IDF) قصد دارند امشب تونل‌های زیرزمینی واقع در زیر منطقه "علی طاهر" در جنوب لبنان را تخریب کنند.
 ‏
@@ -3258,20 +3278,6 @@ src :@mohem_mat
 src :@rnintel
 ‏🇺🇸⚡️- Evan Hubinger, Alignment Science Lead at Anthropic, confirmed online claims that Anthropic believed AI could kill all humans.  According to him, the odds of the AI race annihilating mankind are above 10% during the decade.
 21:50
-1405/06/19
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با تایید اظهارات ترامپ درباره «از سرگیری فعالیت جمهوری اسلامی برای ساخت سلاح اتمی»، گفت که تا زمانی که او در این سمت است، تهران به این هدف نخواهد رسید. نتانیاهو گفت: «ما محور ایران را هدف قرار می‌دهیم. اقدام‌های بیشتری در راه است.»
-‏
-‏نتانیاهو با اشاره به از سرگیری فعالیت‌های اتمی تهران، گفت: «پس از آنکه توانایی فوری این کشور برای تولید بمب هسته‌ای را، هم در عملیات طلوع شیران و هم در عملیات غرش شیران، از بین بردیم، اکنون دوباره در حال تلاش است.»
-‏
-‏نتانیاهو با محور خواندن ایران، گفت: «ضربات سنگینی نه تنها در نوار غزه، بلکه در لبنان نیز وارد می‌کنیم. ما ارتفاعات بوفورت را نابود کرده‌ایم و اکنون در حال هدف قرار دادن ارتفاعات علی طاهر هستیم.»
-‏https://iranintl.com/202609100042
-21:49
 1405/06/19
 
 
@@ -5939,15 +5945,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Navy_Iranian
-[عکس]
-‏موقعیت مکانی تقریبی نفتکش‌های ایرانی که در دور جدید درگیری‌های ایران و آمریکا در سپتامبر ۲۰۲۶ توسط آمریکا در خلیج عمان مورد هدف قرار گرفته‌اند.  نقشه فوق بر اساس AIS نفتکش‌ها و گزارش‌های تانکر ترکرز تهیه شده است. البته توجه داشته باشید که مواردی مثل نفتکش…
-15:52
-1405/06/19
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Regarding the current situation in Yemen, Taiz is at risk of encirclement, with the Taiz–Al-Turbah road being the only major route that remains to be cut off.
@@ -6998,14 +6995,4 @@ src :@DEJradio
 ‏#پاکستان #جمهوری_اسلامی #حوثی
 ‏@DEJradio
 01:37
-1405/06/19
-
-
-
-
-src :@warmonitors
-‏⚡️Israel continues to bomb southern Lebanon
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:39
 1405/06/19
