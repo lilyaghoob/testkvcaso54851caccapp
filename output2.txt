@@ -1,12 +1,61 @@
+src :@ClashReport
+[عکس]
+‏Vice President JD Vance privately sought direct, unfiltered assessments from U.S. military commanders about the Iran war, and what he heard was much more concerning than the administration’s public message. 
+‏
+‏Commanders warned that the war was draining critical U.S. weapons stockpiles, particularly Patriot interceptors and long-range missiles, while potentially weakening America’s ability to deter China, Russia and North Korea.
+‏
+‏They also told Vance that Iran was proving more resilient than expected and willing to absorb enormous damage rather than collapse.
+‏
+‏Vance, who had opposed the war before it began, used these private assessments to advise Trump and became increasingly involved in efforts to negotiate an end to the conflict.
+‏
+‏Source: NYT
+23:51
+1405/06/19
+
+
+
+
+src :@BellumActaNews
+‏Multiple explosions reported in Erbil, Kurdistan Region.
+‏
+‏@KurdishFrontNews
+23:50
+1405/06/19
+
+
+
+
+src :@BellumActaNews
+‏Explosions are continuously being heard in Erbil. No further details or reports.
+‏
+‏@KurdishFrontNews
+23:50
+1405/06/19
+
+
+
+
+src :@jangaavaran1390
+‏کانال 13 اسرائیل:
+‏
+‏ارزیابی‌های امنیتی که امروز در اسرائیل انجام شد، به صراحت احتمال انتخاب ایران برای آغاز یک عملیات تهاجمی را مورد تأکید قرار دادند.
+‏
+‏مقامات اسرائیلی اعلام کردند که تصمیمی برای "افزایش آمادگی و هوشیاری" در طول تعطیلات کشور گرفته شده است.
+23:50
+1405/06/19
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇸🇦/🇾🇪 Yemen situation update
 ‏
-‏– Dhubab: The status of the city is currently unclear; it seems that Saudi-backed forces have withdrawn from the city, but Ansarallah has not decided to enter it yet. As a result, the city is stuck in somewhat of a ‘no man’s land’. For all practical reasons, the city has already fallen to Ansarallah and they can enter Dhubab whenever they wish, which is why it has been marked green on the map.
+‏– Dhubab: The status of the city is currently unclear; it seems that Saudi-backed forces have completely withdrawn from the city, but Ansarallah has not decided to enter it yet. As a result, the city is stuck in somewhat of a ‘no man’s land’. For all practical reasons, the city has already fallen to Ansarallah and they can enter Dhubab whenever they wish, which is why it has been marked green on the map. Periodic Saudi airstrikes against the city still continue.
 ‏
 ‏– Mayun Island: Despite various reports over the past few hours, there has been no visual confirmation that the island has fallen to Ansarallah. Until then, we can neither confirm nor deny its capture, and must wait for verification.
 ‏
-‏– Al-Shuqayra: Ansarallah have captured the crossroads. Furthermore, Jabal Nuhan is being threatened.
+‏– Al-Shuqayra: Ansarallah have captured the crossroads. Furthermore, the adjacent Jabal Nuhan is also being threatened.
 ‏
 ‏@Middle_East_Spectator
 23:47
@@ -3839,14 +3888,6 @@ src :@GeoPWatch
 
 
 
-src :@jangaavaran1390
-‏سپاه پاسداران به یک شناور بدون سرنشین آمریکایی در تنگه هرمز حمله کرد.
-20:33
-1405/06/19
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏حوثی‌ها می‌گویند عربستان در چند جبهه فعال جنگ یمن، در 24 ساعت گذشته تنها 64 حمله هوایی انجام داده است. 64 حمله هوایی در 24 ساعت، آنهم برای چند جبهه بسیار وسیع که نبردهایی بسیار فعال و پردینامیک در آن جریان دارد، تقریبا هیچ است. تازه ممکن است، بخش مهمی از همین تعداد حملات نیز به محورهای شمالی اختصاص یافته باشد.
@@ -6888,13 +6929,3 @@ src :@VahidOnline
 ‏📡 @VahidOnline
 00:26
 1405/06/19
-
-
-
-
-src :@Mena_Live
-‏The newly appointed interim chargé d'affaires who heads the Israeli Embassy in Turkey, arrived today at the Turkish Ministry of Foreign Affairs to receive his accreditation.
-‏
-‏@Mena_Live
-23:50
-1405/06/18
