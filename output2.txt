@@ -1,3 +1,58 @@
+src :@P_raetorio
+[عکس]
+‏ویدیویی که تحت عنوان امرپ های غنیمتی انصار‌الله در بندر المخا توسط رسانه‌های وابسته به این سازمان منتشر شده است قدیمی و برای سال 2020 و تحویل این امرپ‌ها توسط امارات متحده عربی به شورای انتقالی جنوب است.
+‏
+‏@P_raetorio
+17:16
+1405/06/19
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The U.S. is pressuring NATO allies to weaken the ICC, urging them to withdraw from the Rome Statute, condemn the court and end support for it. 
+‏
+‏U.S. envoy Matthew Whitaker reportedly warned: “We will be watching closely who stands with America,” while a U.S. paper said Washington would “systematically dismantle” the ICC’s capabilities.
+‏
+‏Source: POLITICO
+17:15
+1405/06/19
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇾🇪🇾🇪 The Houthis have captured the strategic Al Omari Base with the Dhubab Airstrip. Not only does this give them high ground near the PLC's last Red Sea port city Dhubab, which they can later use to launch yet another assault to push the PLC out of the Yemeni Red Sea coastline completely, but they are also now only 30 kilometers from the Bab Al-Mandab strait.
+‏
+‏@wfwitness
+17:14
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏مرتزقة الامارات تتأهب للنزول لشوارع عدن وطرد مرتزقة السعودية الفارين من المعارك منها
+17:14
+1405/06/19
+
+
+
+
+src :@MilitarryWorld
+‏🔴فرماندهی جبهه داخلی اسرائیل: 
+‏
+‏از سال نو لذت ببرید، اما برای هرگونه تشدید ناگهانی و غیرمنتظره وضعیت، آماده بمانید.
+‏
+‏@MilitarryWorld | Parsa
+17:13
+1405/06/19
+
+
+
+
 src :@naya_foriraq
 ‏‏رئيس المرتزقة المقيم في الرياض يدعو لتدخل العرب والعالم لحماية الساحل الغربي
 17:11
@@ -1357,24 +1412,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-[عکس]
-‏مسؤولي انصار الله يبدأون بالاستماع إلى احتياجات المواطنين في الخوخة وقضاء حوائجهم بعد هروب مرتزقة السعودية من المدينة
-16:00
-1405/06/19
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏أسعار النفط تصل إلى 104 دولارات للبرميل بعد تقارير سعودية عن انخفاض في الإنتاج
-15:59
-1405/06/19
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇾🇪/🇸🇦 BREAKING: Ansarallah forces have landed on Mayun Island (Perim Island), known as the ‘Pearl of Bab Al-Mandab’
@@ -1643,14 +1680,6 @@ src :@Farsi_Iranwire
 ‏بیشتر: https://iranwire.com/fa/news-1/157424
 ‏
 ‏@Farsi_Iranwire
-15:33
-1405/06/19
-
-
-
-
-src :@wfwitness
-‏⚡🇵🇰🇮🇷🇸🇦🇾🇪 Reuters: Pakistan conveyed a Saudi warning to Iran urging Tehran to rein in Yemen’s Houthis after the group intensified attacks on Saudi Arabia, according to Saudi, Pakistani and Iranian sources.  The warning followed Houthi strikes on an airbase…
 15:33
 1405/06/19
 
@@ -3469,14 +3498,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-12:45
-1405/06/19
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«نرگس حیدری»، مربی فیتنس و بدنسازی اهل ایذه و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، به پنج سال حبس تعزیری محکوم شده است.
@@ -4172,17 +4193,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴طبق گزارشات منابع تقریباً با نقشه اگر مخا هم تایید شده بدانیم، مناطقی که بدست نیروهای انصار الله یمن افتاده، اینطور است. جزیره زقر در سمت چپ تصویر بالا هم که مشاهده میشه طبق گزارشات مواضع نیروهای مورد حمایت سعودی چند مورد هدف حملات موشکی و پهپادی نیروهای انصار الله قرار گرفت
-‏
-‏@MilitarryWorld | Parsa
-11:33
-1405/06/19
-
-
-
-
 src :@defence_news
 ‏ترامپ در مورد ایران:
 ‏
@@ -4234,17 +4244,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 11:17
-1405/06/19
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏منابع نزدیک به ائتلاف عربی عقب نشینی از المخا به سمت ذباب را تایید کرده اند
-‏
-‏@Minas_Tirith2024
-11:12
 1405/06/19
 
 
@@ -4788,6 +4787,17 @@ src :@samueltarikh
 ‏
 ‏ایران در حال فروپاشی است و برای دهه‌ها قلدر خاورمیانه بود اما اکنون دیگر این‌طور نیست.
 09:13
+1405/06/19
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏تصاویر ماهواره‌ای از پالایشگاه جیزان و دو مخزن سوخت منهدم شده در حمله انصار‌الله
+‏
+‏@P_raetorio
+09:12
 1405/06/19
 
 
