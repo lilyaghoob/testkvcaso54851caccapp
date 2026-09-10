@@ -1,3 +1,22 @@
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏"Anthropic said that it identified and removed accounts using Claude for influence operations campaigns to shape public opinion, including three Iranian state-aligned accounts."
+‏https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development/
+‏
+‏ترجمه خودکار فارسی
+‏
+‏«آنتروپیک اعلام کرد حساب‌هایی را که از کلود برای اجرای کارزارهای نفوذ با هدف شکل دادن به افکار عمومی استفاده می‌کردند، شناسایی و حذف کرده است؛ از جمله سه حساب همسو با حکومت ایران.»
+‏https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development/
+‏
+‏𝕏  ·  @shin_persian
+01:55
+1405/06/20
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏شرکت آنتروپیک اعلام کرد عوامل حکومتی جمهوری اسلامی از مدل هوش مصنوعی «کلود» برای بررسی محتوای شبکه‌های اجتماعی داخل ایران و شناسایی مخالفان احتمالی و محتوای حساس سیاسی استفاده کرده‌اند.
@@ -2059,22 +2078,6 @@ src :@GeoPWatch
 
 
 
-src :@IranintlTV
-[عکس]
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، همزمان با افزایش شدت حملات اسرائیل به جنوب لبنان و تشدید تنش‌ها میان حوثی‌های وابسته به تهران و عربستان سعودی، با عاصم منیر، رییس ستادکل ارتش پاکستان و فیصل بن فرحان، وزیر خارجه عربستان سعودی، به‌صورت تلفنی گفت‌وگو کرد.
-‏
-‏کانال تلگرامی عباس عراقچی درباره گفت‌وگوی او با وزیر خارجه عربستان سعودی نوشت که طرفین در این گفت‌وگو با اشاره به تشدید تنش‌ها و افزایش ناامنی در منطقه، بر ضرورت تداوم همکاری و تلاش‌های دیپلماتیک برای جلوگیری از گسترش دامنه تنش‌ها و بازگرداندن ثبات و امنیت به منطقه تأکید کردند.
-‏
-‏این کانال درباره تماس عراقچی و عاصم منیر نیز نوشت: «طرفین در این تماس، ضمن بررسی آخرین تحولات منطقه، درباره تشدید تنش‌ها و افزایش ناامنی در منطقه و پیامدهای آن برای صلح و ثبات منطقه‌ای تبادل نظر کردند.»
-‏
-‏کانال تلگرامی وزیر خارجه جمهوری اسلامی افزود: «طرفین همچنین ضمن اشاره به ضرورت هوشیاری و هماهنگی کشورهای منطقه در قبال تحولات جاری، بر استفاده از ظرفیت‌های مشترک برای کمک به استقرار صلح و امنیت پایدار در منطقه تاکید کردند.»
-‏https://iranintl.com/202609104992
-22:55
-1405/06/19
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇸🇦🇾🇪 — 100–200 U.S. military advisers are now on the ground in Saudi Arabia, providing real-time intelligence and targeting support against the Houthis — marking a significant escalation in U.S. involvement.
 ‏
@@ -2443,18 +2446,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@IranintlTV
-[عکس]
-‏ارتش اسرائیل اعلام کرد شامگاه پنج‌شنبه بیش از ۱۱۰۰ تن مواد منفجره برای انهدام تونل‌های حزب‌الله در زیر ارتفاعات علی‌طاهر در جنوب لبنان استفاده شد.
-‏
-‏ارتش اسرائیل شامگاه پنج‌شنبه اعلام کرد نیروهایش عملیات انهدام مسیرها و زیرساخت‌های زیرزمینی حزب‌الله در رشته‌کوه علی‌طاهر در نزدیکی نبطیه در جنوب لبنان را به پایان رسانده‌اند.
-‏https://iranintl.com/202609101916
-22:46
-1405/06/19
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇸🇦/🇾🇪 NEW: Alerts in Abha and Khamis Mushait, Saudi Arabia
@@ -2621,24 +2612,6 @@ src :@intelslava
 ‏🇸🇦❌🇾🇪 — Reports of Saudi airstrikes on the Ansar Allah-controlled coastal city of Mokha (Mocha).
 ‏
 ‏@IntelSlava
-22:40
-1405/06/19
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏IRIAF C-130 on Mehrabad airport runway
-‏Tehran, Tehran Province, #Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏هواپیمای سی-۱۳۰ نیروی هوایی ارتش جمهوری اسلامی ایران روی باند فرودگاه مهرآباد
-‏تهران، استان تهران، #Iran
-‏
-‏𝕏  ·  @shin_persian
 22:40
 1405/06/19
 
