@@ -1,14 +1,20 @@
-src :@naya_foriraq
-‏‏المراسلة: كيف ستتمكن إيران من إطلاق الصواريخ إذا قمنا بتدميرها؟  ‏ترامب: بإمكانهم دائماً إطلاق الصواريخ. كان لديهم الكثير منها.
-02:46
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - Satellite imagery shows a large smoke plume and fire hotspots originating from the East-West Saudi Crude Oil Pipeline.
+02:52
 1405/06/20
 
 
 
 
-src :@naya_foriraq
-‏🇺🇸‏ترامب: سنقوم بمعالجة الدين البالغ 40 تريليون دولار من خلال النمو الاقتصادي. نحن نحقق نموًا بوتيرة أسرع من أي وقت مضى.
-02:45
+src :@GeoPWatch
+[عکس]
+‏🇺🇦❌🇷🇺-The Russian military is advancing west of Hryshyne where they have established positions in fields and tree lines just north of Udachne.
+‏
+‏➡️ From there Russian forces continued their advance towards the village of Serhiivka where footage surfaced of Ukrainian strikes on Russian positions in the eastern part of the settlement.
+‏
+‏@GeoPWatch
+02:50
 1405/06/20
 
 
@@ -414,17 +420,6 @@ src :@intelslava
 ‏
 ‏Iran views closing the waterway as an economic “nuclear option” if talks with US collapse.
 00:57
-1405/06/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇾🇪❌🇸🇦 — Yemen’s Houthis (Ansarallah) appear to have struck Saudi Arabia’s East-West oil pipeline at several locations.
-‏
-‏Six fire hotspots were detected along the pipeline route at roughly the same time this evening.
-00:56
 1405/06/20
 
 
@@ -1266,33 +1261,9 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-‏حدث أمني بحري قرب السواحل العمانية.
-23:56
-1405/06/19
-
-
-
-
 src :@naya_foriraq
 ‏الله اكبر استهداف سفينة قرب بحر عمان
 23:55
-1405/06/19
-
-
-
-
-src :@Ali_bk_2
-‏A maritime security incident near the Omani coast.
-23:54
-1405/06/19
-
-
-
-
-src :@Alibk3
-‏حدث أمني بحري قرب السواحل العمانية.
-23:54
 1405/06/19
 
 
@@ -1568,15 +1539,6 @@ src :@thewarreporter
 ‏Israeli officials stated that a decision was made to "increase readiness and preparedness" during the country's holiday period.
 ‏﻿
 23:30
-1405/06/19
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Brent crude jumps to $107 per barrel.
-23:29
 1405/06/19
 
 
@@ -4228,16 +4190,6 @@ src :@Parvazdaroj
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸 - According to The Wall Street Journal, Arab and Israeli officials are preparing for a major escalation in the Iran war as U.S. sanctions increasingly strain Iran’s economy, potentially pushing Tehran toward greater kinetic action.
-‏
-‏@GeoPWatch
-20:47
-1405/06/19
-
-
-
-
 src :@Navy_Iranian
 ‏Sepah Navy on fire  🔥🔥🔥
 20:47
@@ -4308,21 +4260,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 20:35
-1405/06/19
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇾🇪❌🇾🇪 - The Yemeni Armed Forces have lifted restrictions on the use of weapons against Houthi movements within the designated area.
-‏
-‏The Yemeni Armed Forces will begin using all types of weapons and firepower to eliminate any military movements by the terrorist Houthi militia within the kill box shown on the map.
-‏
-‏For the safety of civilians, they must avoid using the Taiz–Mokha road until further notice, and stay away from gatherings of personnel and equipment belonging to the terrorist Houthi militia
-‏
-‏@GeoPWatch
-20:33
 1405/06/19
 
 
@@ -6748,24 +6685,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:26
-1405/06/19
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏🚀 خرمشهر-۴ (خیبر) و سرجنگی ریزمهماتی
-‏
-‏تصویر، پیکربندی منتسب به سرجنگی ریزمهماتی خرمشهر-۴ را نشان می‌دهد؛ در نمای برش‌خورده، دو گروه ریزمهمات با ابعاد متفاوت دیده می‌شود. بر اساس اطلاعات منتشرشده، خرمشهر-۴ با برد حدود ۲,۰۰۰ کیلومتر و سرجنگی حدود ۱,۵۰۰ کیلوگرم می‌تواند در برخی پیکربندی‌ها تا حدود ۸۰ ریزمهمات حمل کند.
-‏
-‏تصویر دوم نیز توالی کلی عملکرد را نشان می‌دهد:
-‏
-‏Launch → Warhead Separation → Fairing/Casing Separation → Submunition Dispersion → Impact
-‏
-‏یعنی پس از پرتاب، سرجنگی جدا شده، پوشش آن باز/جدا می‌شود و ریزمهمات پیش از برخورد در منطقه هدف پراکنده می‌شوند.
-‏
-‏
-‏@rus_cosmos
-02:49
 1405/06/19
