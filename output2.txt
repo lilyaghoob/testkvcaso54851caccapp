@@ -1,14 +1,60 @@
-src :@Middle_East_Spectator
-‏Counting or not counting Houthi violence?
+src :@P_raetorio
+‏#فوری
+‏گزارش‌های تایید نشده‌ای از پیشروی سریع نزدیک شدن نیرو‌های انصار‌الله به بندر استراتژیک المخا منتشر شده است.
+‏
+‏@P_raetorio
+07:45
+1405/06/19
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻وال‌استریت ژورنال: جنگ ایران ممکن است تا پایان ریاست‌جمهوری ترامپ ادامه یابد
+‏
+‏▪️روزنامه وال‌استریت ژورنال گزارش داد، مشاوران ارشد ترامپ به‌طور خصوصی به او هشدار داده‌اند که جنگ با ایران ممکن است تا پایان دوره ریاست‌جمهوری او ادامه پیدا کند و حتی تا ژانویه ۲۰۲۹ طول بکشد.
+‏
+‏▪️ایالات متحده همچنان به اجرای محاصره دریایی و کارزار تحریم‌ها علیه ایران ادامه می‌دهد. در همین حال، پنتاگون مدت استقرار برخی نیروها را تمدید کرده، اسکادران‌های جنگنده را جابه‌جا کرده و برای ادامه استقرار سامانه‌های پدافند هوایی و نیروهای تفنگداران دریایی در سراسر خاورمیانه برنامه‌ریزی کرده است.
+‏
+‏🆔 @Americana_ir
+07:45
+1405/06/19
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦توقف العمليات الجوية في مطار الملك عبدالعزيز في جدة بالسعودية.
+07:43
+1405/06/19
+
+
+
+
+src :@tabzlive
+‏🇾🇪🇸🇦⚡️ — All clear in Khamis Mushait Governorate, Saudi Arabia. The attack likely targeted King Khalid AB.
 07:42
 1405/06/19
 
 
 
 
-src :@Middle_East_Spectator
-‏They captured Mokha on the 1-year death anniversary of Charlie Kirk
-07:40
+src :@didarnews1
+‏🔴رویترز: 
+‏
+‏🔹پاکستان در پی حملات گسترده حوثی‌های یمن به عربستان، پیام هشدارآمیز ریاض را به ایران منتقل و از تهران خواست تا حملات حوثی‌ها علیه عربستان را مهار کند
+‏
+‏🔹اسلام‌آباد از تهران خواست تا با استفاده از نفوذ خود بر حوثی‌ها، از بروز یک بحران منطقه‌ای گسترده‌تر جلوگیری کند.
+‏
+‏🔹به گفته یک مقام ایرانی، ایران در پاسخ اعلام کرد که «کنترلی بر حوثی‌ها ندارد.»
+‏
+‏🔹پاکستان اعلام کرد که هرگونه نقش نظامی این کشور ماهیت تدافعی خواهد داشت و بر حفاظت از خاک عربستان متمرکز خواهد بود، نه انجام عملیات در یمن.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+07:42
 1405/06/19
 
 
@@ -1651,14 +1697,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏انفجارات تهز السعودية
-04:23
-1405/06/19
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇾🇪❌🇸🇦 - Alert in Khamis Mushait, Saudi Arabia.
@@ -1741,6 +1779,19 @@ src :@Alibk3
 src :@OSINTWarfare
 ‏National Resistance Forces (NRF) began withdrawing from Al-Mukha (Mocha) hours ago amid the rapid advance of Ansar Allah forces.  There are claims that the Southern Giants Brigades remain in the city and are holding their positions. That is what they claim…
 04:21
+1405/06/19
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇸🇦/🇾🇪 BREAKING: Ansarallah (the Houthis) have captured Yakhtal, just north of Mokha
+‏
+‏The process of liberating Mokha city from Saudi-backed mercenary forces has begun.
+‏
+‏@Middle_East_Spectator
+04:19
 1405/06/19
 
 
@@ -1957,14 +2008,6 @@ src :@rnintel
 
 src :@OSINTWarfare
 ‏The Homeland Shield Forces, Southern Giants Brigades, and National Resistance Forces of the Saudi-backed Presidential Leadership Council (PLC) have withdrawn from the city of Hays, the last major city on the Al-Khukhah axis along Yemen’s western coast, as…
-03:11
-1405/06/19
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇾🇪 — Ansarallah ballistic missile and UAV attack towards al-Mokha, PLC-controlled southwestern Yemen.
 03:11
 1405/06/19
 
@@ -6181,22 +6224,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 14:55
-1405/06/18
-
-
-
-
-src :@didarnews1
-‏🔴سخنگوی سپاه:
-‏
-‏🔹اگر دشمن خواهان پایان این وضعیت است، باید ضمن توقف کامل جنگ، از تهدید مجدد دست بکشد، ارتش رژیم صهیونیستی از لبنان عقب‌نشینی کند، محاصرهٔ یمن پایان یابد، ۲۴ میلیارد دلار دارایی مسدودشدهٔ ایران آزاد شود و از هرگونه مداخله در توان هسته‌ای و موشکی کشور دست بردارد.
-‏
-‏🔹به‌جایی رسیده‌ایم که اگر دشمن ۲ یا ۳ هدف ما را بزند، ما با ۲۰ هدف پاسخ محکم می‌دهیم.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-14:52
 1405/06/18
 
 
