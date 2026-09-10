@@ -202,19 +202,6 @@ src :@bricsnews
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The Pentagon is in talks to lend about $5 billion to AI cloud-computing startup Fluidstack through its Office of Strategic Capital, which would make it the office’s largest loan to date, WSJ reports.
-‏
-‏Fluidstack would use the financing to strengthen U.S. supply chains and manufacturing capacity for data center components rather than directly build a new AI facility. 
-‏
-‏The company has been pursuing the loan for several months with assistance from Erebor Bank, founded by Palmer Luckey.
-02:36
-1405/06/20
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️شرکت مخابرات ایران با انتشار اطلاعیه‌ای در سامانه کدال (سامانه اطلاعات جامع شرکت‌های پذیرفته شده فهرست شده در بورس)  اعلام کرد هزینه مکالمه تلفن ثابت با تلفن‌های همراه از روز جمعه ۲۰ شهریور ۴۵ درصد افزایش می‌یابد.
