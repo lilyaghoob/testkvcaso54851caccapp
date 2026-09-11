@@ -1,3 +1,32 @@
+src :@IranintlTV
+[عکس]
+‏عباس گودرزی، سخنگوی هیات‌رییسه مجلس، اخباری مبنی بر افزایش ۵۰ درصدی حقوق نمایندگان را تکذیب کرد و با اشاره به قانون بودجه گفت: «نمایندگان مجلس نیز مانند سایر کارکنان، افزایش حقوق مصوب در قانون بودجه را در ابتدای سال دریافت کرده‌اند و در مقطع فعلی هیچ مبلغی به حقوق نمایندگان اضافه نشده است.»
+‏
+‏او ادامه داد: «دشمن پس از شکست در میدان نظامی، به سمت جنگ شناختی و عملیات روانی رفته و تلاش می‌کند میان مردم و مسئولان شکاف ایجاد کند؛ سیاستی که مدت‌هاست دنبال می‌شود و هدف آن تاثیرگذاری بر افکار عمومی و ایجاد بی‌اعتمادی است.»
+‏https://iranintl.com/202609117634
+13:13
+1405/06/20
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Anthropic claims China’s Moonshot AI secretly routed some Kimi users’ requests to Claude, then presented Claude’s answers as if they came from Kimi.
+‏
+‏Anthropic says Moonshot generated 23M+ Claude exchanges from May–July 2026 through 5,380 allegedly fraudulent accounts. 
+‏
+‏During one 10-day period alone, about 300,000 real customer requests were allegedly routed to Claude, mostly Opus.
+‏
+‏Anthropic further claims Moonshot saved exchanges and used “cross-session replay” to reconstruct Claude reasoning traces for model training.
+‏
+‏Some allegedly rerouted prompts contained enterprise code, credentials and sensitive imagery, raising concerns that Kimi customers may not have known their data was reaching a U.S. AI provider.
+13:12
+1405/06/20
+
+
+
+
 src :@naya_foriraq
 ‏‏بحسب الرئيس التنفيذي لمطارات دبي، بول غريفيث، فإن دبي تدرس نقل أجزاء من مطارها الجديد تحت الأرض، بما في ذلك تخزين الوقود، للحماية من الضربات المحتملة بالطائرات بدون طيار والصواريخ في أعقاب الحرب الإيرانية.
 13:11
@@ -1815,27 +1844,6 @@ src :@naya_foriraq
 
 
 
-src :@Indypersian
-[عکس]
-‏⭕️تخریب «پادگان روس‌ها»؛ میراث فرهنگی می‌گوید از شهرداری سبزوار شکایت کرده است
-‏
-‏♦️بازتاب گسترده تخریب بنای تاریخی موسوم به «پادگان روس‌ها» در سبزوار در شبکه‌های اجتماعی و اعتراض هنرمندان و شهروندان این شهر، به واکنش مسئولان میراث‌فرهنگی منجر شد.
-‏
-‏این بنای تاریخی که به دوره پهلوی اول و زمان پادشاهی رضاشاه پهلوی تعلق داشت و از آن به عنوان «خانه تاریخی تومانیان» نیز یاد می‌شود، صبح چهارشنبه ۱۸ شهریور با یک دستگاه لودر تخریب شد.
-‏
-‏علیرضا ایزدی، مدیرکل ثبت آثار وزارت میراث‌فرهنگی با اعلام شکایت قضایی از شهرداری سبزوار، این اقدام را غیرقانونی خواند و گفت این بنا با وجود ثبت نشدن در فهرست آثار ملی، در نقشه لکه‌گذاری بافت تاریخی سبزوار به عنوان اثری واجد ارزش شناسایی و ابلاغ شده بود و تخریب آن بدون استعلام از متولی قانونی انجام شده است.
-‏
-‏به گزارش تسنیم، ایزدی گفت بهانه مقابله با آسیب‌های اجتماعی نمی‌تواند توجیهی برای تخریب بناهای تاریخی باشد و راهکار مواجهه با فرسودگی، احیای هویت‌مند و حفظ حافظه شهری است.
-‏
-‏وزارت میراث‌فرهنگی اعلام کرده است این پرونده را از مراجع قضایی پیگیری خواهد کرد و در صورت تکمیل مستندات فنی، بازسازی عین‌به‌عین کالبد، پلان و جداره‌های بنا را تنها مسیر جبران خسارت می‌داند.
-‏
-‏@indypersian
-11:10
-1405/06/20
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏🔻 جمهورنا الكريم...
@@ -1901,21 +1909,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 11:02
-1405/06/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏OpenAI CEO Sam Altman told employees the company is open to slowing the development of advanced AI systems, potentially in coordination with other AI labs, amid growing safety concerns. 
-‏
-‏The comments follow recent incidents involving AI systems escaping human control and calls from researchers for stronger safeguards. 
-‏
-‏OpenAI has also backed mandatory U.S. AI safety requirements and previously said the pace of frontier AI development may eventually need to be deliberately slowed.
-‏
-‏Source: Bloomberg
-11:01
 1405/06/20
 
 
@@ -2016,23 +2009,6 @@ src :@cataphract1
 ‏⚜ترامپ با این درخواست مخالفت کرد. مقام‌های ارشد آمریکایی تأکید کرده‌اند که در حال حاضر دولت آمریکا برنامه‌ای برای مداخله مستقیم علیه حوثی‌ها ندارد.
 ‏✒️#LT
 ‏📃@Cataphract1
-10:53
-1405/06/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Anthropic caught a UAE-linked operation using Claude to run an influence campaign against the Muslim Brotherhood and Sudan. 
-‏
-‏A single operator used an AI persona called "Deadshot" to generate intel briefs, fake UN testimonies, targeting lists of EU parliament members and journalists, and content for ~300 fake influencer accounts — all designed to be deniable and delivered to senior UAE officials.
-‏
-‏They cloned a real Swiss/Sudanese human-rights NGO's identity, drafted speeches for the UN Human Rights Council with instructions to never mention the UAE, and built counter-dossiers on UN officials who'd criticized UAE actions in Sudan.
-‏
-‏Anthropic banned the accounts, rated it Category Three (multi-platform, no confirmed mass public impact), and published the findings in its September 2026 threat report. 
-‏
-‏The UAE has a long-running campaign against the Brotherhood dating to 2014, and notably has also invested in Anthropic through MGX.
 10:53
 1405/06/20
 
@@ -6259,13 +6235,4 @@ src :@Artemis_Force
 src :@Exciton_missile_program
 ‏با این خوشه ها و تعداد موشکها. اگر هواگرد داخل محوطه و زیر شلتر نبوده باشند و اینها بلند نشده باشند، احتمال آسیب به آنها کم نیست. به نظر سپاه امشب همه توانش را جمع کرده تا امشب موشکهایش به پایگاه ها برسند و بتواند خسارت و تلفات بگیرد.  @Exciton_missile_program…
 13:56
-1405/06/19
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏در همين راستا
-13:12
 1405/06/19
