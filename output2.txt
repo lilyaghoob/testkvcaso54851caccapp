@@ -1,3 +1,113 @@
+src :@ClashReport
+[عکس]
+‏NEW: China’s Commerce Ministry warned that Beijing has the “firm resolve and sufficient means” to respond to U.S. intelligence operations targeting Chinese companies.
+‏
+‏The warning followed CIA Deputy Director Michael Ellis calling Chinese AI, semiconductor, and biotech firms “legitimate intelligence targets.” 
+‏
+‏Beijing accused Washington of turning economic competition into a national-security issue and applying a double standard on commercial espionage.
+‏
+‏China said it could use existing laws, including its Counter-Espionage Law, to punish such activities and protect Chinese firms.
+17:36
+1405/06/20
+
+
+
+
+src :@MilitarryWorld
+‏🔴رئیس جمهور اوکراین از حملات شدید پهپادی به تأسیسات نفتی روسیه خبر داد.
+‏
+‏🌎@MilitarryWorld | Parsa
+17:36
+1405/06/20
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸⚡️ — Anthropic says it disrupted an Iranian-linked effort that used its Claude AI model to help track U.S. Navy vessels in the Middle East and identify potential communications vulnerabilities. 
+‏
+‏They combined ship and aircraft transponder data, military imagery and commercial satellite photos to monitor American warships.
+‏
+‏In a separate investigation, Anthropic said it shut down three Iranian state-aligned influence operations that used Claude to build and manage multilingual propaganda campaigns. The networks explicitly linked their work to Iran’s doctrine of “Jihad al-Tabyin,” or “explanatory jihad,” and used AI to produce operational manuals, personas, messaging strategies and coordinated amplification plans.
+‏
+‏Anthropic says the actors used Claude to turn official Iranian intelligence material into content in Farsi, Arabic, Urdu, Malay, Spanish and English, with plans covering as many as 20 languages. 
+‏
+‏The system was also used to disguise state-backed material as independent reporting or foreign commentary and to create hashtag campaigns designed to appear organic.
+‏
+‏One network was linked to a director-level official at Iran’s Bina Cultural Observatory and produced material in the voice of an IRGC spokesperson. During the 2026 U.S.-Israel-Iran war, it also falsely attributed claims to Western institutions including CSIS, Brookings and RAND to make its messaging appear more credible.
+‏
+‏Anthropic said the networks distributed material through Iranian platforms including Eitaa, Bale and Rubika, as well as X, Instagram, Telegram, TikTok and YouTube. 
+‏
+‏The campaigns also targeted the Bahá’í community, international officials and Iranian opposition figures, while one operation produced ICCO-branded plans covering nine international influence campaigns and preparations for the funeral of Iran’s late Supreme Leader, Ali Khamenei.
+17:35
+1405/06/20
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇺🇸/🇮🇷 What was Iran's reaction to the September 11 attacks?
+‏
+‏The morning following 9/11, thousands of Iranians gathered in the streets of the capital Tehran to hold a candlelight vigil for the victims. According to eyewitnesses, the vigil lasted for several miles.
+‏
+‏At Tehran's largest soccer stadium, a crowd of 60,000 people observed a minute of silence and recited prayers for those killed, before the start of Iran's World Cup qualification match.
+‏
+‏On the same day, the Iranian President at the time, Mohammad Khatami, said the following: 'On behalf of the Iranian people and the Islamic Republic of Iran, I denounce this terrorist act, which led to the killing of defenseless people, and I express my deepest sorrow and sympathy with the American people.'
+‏
+‏The Supreme Leader, Ayatollah Ali Khamenei, also commented on the attack: 'Islam condemns the massacre of defenseless people, whether Muslim or Christian or others, anywhere and by any means. However, this act should not be used as a pretext to carry out any attack on Afghanistan, which will lead to another human tragedy.'  
+‏
+‏@Middle_East_Spectator
+17:34
+1405/06/20
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ شرکت چینی MizarVision اعلام کرده است که پلتفرم هوشمند تحلیل داده‌های بزرگ خود را توسعه داده است؛ این پلتفرم قادر به ادغام اطلاعات از منابع مختلف از جمله تصاویر ماهواره‌ای تجاری، داده‌های اطلاعاتی عمومی و سایر ابزارهای فنی است.
+‏
+‏ویژگی بارز این فناوری، صرفاً دریافت تصاویر از فضا نیست، بلکه ایجاد یک سیستم یکپارچه است که با کمک هوش مصنوعی می‌تواند حجم عظیمی از اطلاعات را به سرعت تحلیل کرده، تغییرات موجود در مناطق مختلف را شناسایی کرده و تصویری دقیق‌تر از وضعیت موجود را در زمان واقعی ارائه دهد.
+‏
+‏این پلتفرم چینی، بازتاب‌دهنده روند کلی تکامل اطلاعاتیابی مدرن است؛ یعنی گذار از نظارت ساده به پردازش خودکار داده‌ها. در آینده، برتری با کسی خواهد بود که نه تعداد بیشتری ماهواره داشته باشد، بلکه بتواند اطلاعات دریافتی را سریع‌تر به تصمیمات عملی تبدیل کند.
+‏
+‏این سیستم هوش مصنوعی، داده‌های منابع مختلف را ادغام کرده و امکان شناسایی سریع‌تر اشیاء، طبقه‌بندی آن‌ها و ارزیابی وضعیت را فراهم می‌کند. در واقع، این امر به معنای ایجاد یک ساختار جدید در اطلاعاتیابی جغرافیایی است که در آن ماهواره‌ها، ابزارهای فنی و الگوریتم‌های هوش مصنوعی به عنوان یک مجموعه اطلاعاتی یکپارچه عمل می‌کنند.
+‏
+‏بدین ترتیب، چین به طور فعال در حال توسعه حوزه GEOINT نسل جدید است؛ هدف آن ایجاد سیستم دریافت اطلاعاتی است که بتواند تغییرات میدان نبرد را تقریباً به صورت آنلاین رصد کرده، اقدامات دشمن را تحلیل نموده و نتایج آماده‌ای را در اختیار فرماندهان قرار دهد.
+‏
+‏@Guard_Warriors | Mmd
+17:34
+1405/06/20
+
+
+
+
+src :@mohem_mat
+‏«در درونم چیزی اتفاق افتاده بود و بدترین چیزها همیشه در درون آدم اتفاق می‌افتد. اگر اتفاق در بیرون بیوفتد، مثل وقتی که اردنگی می‌خوریم، می‌شود زد به چاک؛ امّا از درون غیرممکن است.»
+‏
+‏زندگی در پیش رو/ رومن گاری
+‏
+‏@mohem_mat
+17:34
+1405/06/20
+
+
+
+
+src :@mohem_mat
+‏کانال ۱۲ اسرائیل به نقل از یک مقام این کشور درباره پیامدهای تسلط حوثی‌ها بر تنگه باب‌المندب، گفت: این وضعیت حتی از وضعیت تنگه هرمز هم وخیم‌تر است.
+‏
+‏این مقام اسرائیلی افزود: حوثی‌ها قادر خواهند بود به سمت کشتی‌ها شلیک کنند و برخلاف حامیانشان در ایران، نیازی به استفاده از رادارها و سیستم‌های پیشرفته نخواهند داشت.
+‏
+‏@mohem_mat
+17:33
+1405/06/20
+
+
+
+
 src :@mohem_mat
 ‏وزارت امور خارجه ایران: 
 ‏
@@ -125,6 +235,8 @@ src :@wfwitness
 ‏"But the material without which none of this can be built is now concentrated in the hands of the very country which the director general of MI5 has identified as the most serious threat to Britain's national security."
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:23
 1405/06/20
 
@@ -570,18 +682,6 @@ src :@cataphract1
 
 
 
-src :@mohem_mat
-‏حداقل خدا پدر حسن روحانی رو بیامرزه که مزه تورم تک رقمی رو چشیدیم عقده نشد برامون
-‏
-‏amir tajernia (@TajerniaAmir)
-‏
-‏@mohem_mat
-17:06
-1405/06/20
-
-
-
-
 src :@Ali_bk_2
 ‏A statement issued by the Yemeni Armed Forces  The Yemeni Armed Forces, with the help of God Almighty and with the large participation of our people and their free tribes, launched on September 3 this year the wide-ranging, specialized military operation "And…
 17:05
@@ -623,24 +723,6 @@ src :@Ali_bk_2
 
 src :@jangaavaran1390
 [عکس]
-17:04
-1405/06/20
-
-
-
-
-src :@mohem_mat
-‏مطالبه‌ی یک‌ماهه‌ی رهبر عزیز از دستگاه‌های حاکمیتی روحانیت به سر آمده است.
-‏جامعه، منتظر گزارش آنان از علل ناکارآمدی در پیاده‌سازی آموزه‌های دینی است.
-‏شخصا معتقدم گرفتار ناترازی روحانیت هستیم.
-‏راهبرد «سیاست ما عین دیانت ماست»، توسط برخی روحانیون حکومتی به راهبرد «دیانت ما عین سیاست ماست»، تغییر ماهیت داده است.
-‏آن‌ها اگر کلا از «دین» حرف نزنند، بهتر به «اسلام» خدمت کرده‌اند.
-‏
-‏🔗 سید عزت الله ضرغامی (@Zarghami_ez) 
-‏
-‏ضرغامی هم روشن فکر شده بعد از نقد سریال سرگذشت ندیمه سراغ نقد روحانیت رفته
-‏
-‏@mohem_mat
 17:04
 1405/06/20
 
@@ -899,15 +981,6 @@ src :@ClashReport
 ‏
 ‏Meltdown over cost of funding U.S. debt is only the beginning.
 16:53
-1405/06/20
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏هر وقت میایم مشهد بیشتر به حال خودمون تأسف میخوریم که توی این شهر زندگی نمیکنیم! کسب و کارها یه رونق خاصی دارن...حتی توی این شرایط! دستفروش خیلی کمه. نانوایی‌ها،قصابی‌ها،لبنیاتی‌ها و ... تا ساعت ۱-۲بامداد فعالند! ساعت ۱ بامداد رفتم از ابزار و یراق فروشی واسه…
-16:52
 1405/06/20
 
 
@@ -1791,7 +1864,7 @@ src :@Navy_Iranian
 ‏پس  ۲ راه برای حوثی‌ها وجود دارد:
 ‏اول آنکه با همین روش تهاجم سریع عدن را نیز تصاحب کنند تا قطع پشتیبانی از تعز باعث سقوط آن شود که البته روش پر ریسکی است و احتمال کمتر.
 ‏
-‏دوم هم آنکه با فشار مستقیم بر تعز مزدوران را عقب بزنند که احتمالا با وجود پشتیبانی عدن از تعز تلفات بیشتری خواهد داشت ولی ریسک کمتری دارد و احتمال بیشتر.
+‏دوم هم آنکه با فشار مستقیم بر تعز یا جاده های منتهی به آن ، مزدوران را عقب بزنند که احتمالا با وجود پشتیبانی عدن از تعز تلفات بیشتری خواهد داشت ولی ریسک کمتری دارد و احتمال بیشتر.
 ‏
 ‏
 ‏⚓️ @Navy_Iranian | #A_O
@@ -2466,14 +2539,6 @@ src :@Alibk3
 ‏التلفزيون الإيراني: 
 ‏
 ‏القوات البحرية التابعة للحرس الثوري دمّرت اليوم زورقًا مسيّرًا أمريكيًا في المياه الإيرانية
-14:31
-1405/06/20
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli drones are currently flying over Beirut and Dahieh at a very low altitude.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 14:31
 1405/06/20
 
@@ -4656,23 +4721,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 04:54
-1405/06/20
-
-
-
-
-src :@Middle_East_Spectator
-[ویدئو]
-‏Charlie Kirk's ass
-04:49
-1405/06/20
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪/🇦🇪 BREAKING: Clashes have erupted on the outskirts of Aden between Saudi-backed PLC forces that had withdrawn from Mokha and former UAE-backed forces  @Middle_East_Spectator
-04:47
 1405/06/20
 
 
