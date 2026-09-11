@@ -2222,39 +2222,6 @@ src :@thewarreporter
 
 
 
-src :@ClashReport
-[عکس]
-‏Russia's balance of payments just posted a record $12.2 billion in "net errors and omissions" for Q2 2026 — the largest unexplained hole since records began in 1994. 
-‏
-‏The previous record was $8.3 billion in 2009. 
-‏
-‏It jumped from $1.4 billion the quarter before — an 8.7x increase.
-‏
-‏In plain terms: $12.2 billion left Russia and nobody can officially account for where it went. 
-‏
-‏That's roughly 10% of quarterly export revenue and a third of the trade surplus.
-‏
-‏The central bank calls it a statistical discrepancy. 
-‏
-‏Bloomberg reported in July that several of Russia's richest people — including Kremlin-connected figures — moved billions abroad over the past year through crypto, gold, Dubai property, and private funds. 
-‏
-‏Destinations: UAE, Cyprus, Türkiye, Saudi Arabia, Africa. 
-‏
-‏Motivations cited: slowing economy, budget strain, and fear of state asset seizures — which have totaled ~980 billion rubles in 2026 alone.
-‏
-‏It's not courtroom proof of capital flight. 
-‏
-‏Sanctions workarounds, parallel imports, and oil payment timing can all inflate the number. 
-‏
-‏Russia still ran a $21.4 billion current-account surplus that quarter. 
-‏
-‏Source: TVP World
-23:04
-1405/06/19
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏شورای امنیت سازمان ملل روز پنجشنبه ۱۹شهریور۱۴۰۵ با هدف بررسی گزارش دوره‌ای فعالیت کمیته۱۷۳۷ و اجرای تحریم‌های مرتبط با برنامه هسته‌ای جمهوری اسلامی تشکیل جلسه داد.
@@ -2358,25 +2325,6 @@ src :@RASTAKHIZ_PERSIAN
 src :@WAR_ROOM_NEWS
 ‏وزارت خزانه‌داری آمریکا تحریم‌های جدیدی علیه نهادهایی که از متحدان ایران در خاورمیانه حمایت می‌کنند اعمال کرد که شامل چند تاجر عراقی نیز می‌شود
 22:56
-1405/06/19
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A Guardian-produced documentary at Venice reveals how Israel built AI systems to mass-generate low-ranking Hamas targets in Gaza. 
-‏
-‏Those targets were then bombed at home, at night, with full knowledge their families would die too.
-‏
-‏The film, NAZA, features 24 Israeli military and intelligence insiders speaking anonymously. 
-‏
-‏They describe hacking phones to locate targets. Listening to conversations with wives and children moments before strikes. Destroying entire neighborhoods with up to 25% of residents still sheltering inside. Systematically burning civilian homes.
-‏
-‏The title is a military acronym — it's the Israeli army's euphemism for civilians expected to be killed in an attack.
-‏
-‏One insider from a unit reporting directly to Netanyahu's office said their mission was to "thwart peace."
-22:55
 1405/06/19
 
 
