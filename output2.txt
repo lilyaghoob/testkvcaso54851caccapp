@@ -1,3 +1,61 @@
+src :@wfwitness
+‏⚡🇮🇱🇱🇧 N12: The IDF says strikes are expected in Lebanon in the coming hours, with explosions expected to be heard across the Western Galilee.
+‏
+‏@wfwitness
+18:52
+1405/06/20
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🔽🛢 – Brent crude oil has fallen around 3% to less than $105 dollars per barrel. The U.S. benchmark price, WTI, has also fallen around 3% to barely less than $100 per barrel.
+‏
+‏@GeoPWatch
+18:50
+1405/06/20
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر جنگ آمریکا:
+‏تحریم های اقتصادی علیه ایران روز به روز بیشتر خواهد شد.
+‏
+‏@MilitarryWorld | Parsa
+18:50
+1405/06/20
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏✈️🇺🇦پهپاد اف‌پی-۱ اوکراین رکورد ۳۲۰۰ کیلومتری زد و پالایشگاه گاز روسیه را هدف گرفت
+‏
+‏⚜پهپادهای دوربرد اف‌پی-۱ اوکراین بیش از ۳۲۰۰ کیلومتر پرواز کردند تا تأسیسات پردازش میعانات گازی نووی‌اورنگوی در منطقه یامالو-نتس روسیه، یکی از بزرگ‌ترین تأسیسات پردازش میعانات گازی این کشور را هدف بگیرند و رکورد مسافت جدیدی برای این پهپاد ثبت کردند.این برد جهشی بزرگ نسبت به برد اولیه ۷۰۰ کیلومتری این پهپاد محسوب می‌شود و عمق دسترسی اوکراین به اهداف داخل خاک روسیه را به‌طور چشمگیری افزایش می‌دهد.ایرینا ترخ مدیرعامل شرکت سازنده فایرپوینت گفت آنها در حال پاک‌کردن دکترین «عقبه عمیق» از ادبیات نظامی روسیه هستند.به گفته منابع اوسینت، این نخستین‌باری است که پهپادهای اف‌پی-۱ به منطقه یامالو-نتس رسیده‌اند و این تأسیسات دورترین هدف از مرز اوکراین از آغاز جنگ محسوب می‌شود.
+‏
+‏🆔@WAR_ROOM_NEWS
+18:48
+1405/06/20
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇷🇺🇨🇳 Reuters: AI company Anthropic said it disrupted attempts to use its Claude models to support biological weapons research and a suspected Russia-linked cyber espionage campaign against Ukrainian officials, as its latest threat intelligence report also flagged operators in China, Russia, and Yemen using the platform to develop weapons software, including for missiles, drones, and munitions targeting systems.
+‏
+‏The report tied one hacking group to Russia's SVR-linked Midnight Blizzard, which allegedly used AI to run phishing and Wi-Fi hijacking operations against Ukraine's government and military, while separately accusing China-based labs, including Alibaba, Moonshot, and DeepSeek, of running large scale attacks to extract Claude capabilities and train their own models.
+‏
+‏@wfwitness
+18:48
+1405/06/20
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️وزارت امور خارجه جمهوری اسلامی ایران اعلام کرد نشستی با حضور عراق و سایر کشورهای منطقه روز دوشنبه ۲۳ شهریور در عمان برای بررسی مسیرهای تجارت دریایی در تنگه هرمز برگزار خواهد شد.
@@ -101,6 +159,8 @@ src :@wfwitness
 ‏King Harald paid tribute to his sister following her death, describing her as an important member of the royal family and of Norway’s modern history.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:41
 1405/06/20
 
@@ -2602,17 +2662,6 @@ src :@mwarmonitor
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴بلومبرگ: به دلیل جنگ‌ های ایران و اوکراین تولید نفت خام ریاض و مسکو مجموعا در ماه گذشته حدود ۵.۵ میلیون بشکه در روز کمتر از ژانویه ثبت شده است
-‏
-‏@MilitarryWorld | Parsa
-15:05
-1405/06/20
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏وضعیت پروژه ٣ گانه هسته ای نیرو های مسلح هند و آخرین وضعیت ناوگان SSBN ( زیر دریایی حامل بالستیک نیرو دریایی هندوستان)
@@ -2780,14 +2829,6 @@ src :@WAR_ROOM_NEWS
 ‏السحیم با اشاره به محدوده اعلام‌شده معتقد است اینکه این منطقه به ذوباب، باب‌المندب و جزیره میون امتداد پیدا نکرده و عمدتاً اطراف المخا، جبل النار و محور جاده‌ای را دربر می‌گیرد، می‌تواند نشانه تلاش دولت برای تبدیل منطقه پیشروی حوثی‌ها به یک منطقه آتش باشد. بر اساس این تحلیل، نیروهای دولتی ممکن است ابتدا با حملات هوایی و توپخانه‌ای مواضع و مسیرهای تدارکاتی حوثی‌ها را هدف قرار دهند و سپس با قطع خطوط پشتیبانی، جبل النار را بازپس گرفته و فشار بر المخا را افزایش دهند. در این صورت، پیشروی سریع حوثی‌ها به سمت ساحل می‌تواند آنها را وارد محدوده‌ای کرده باشد که نیروهای دولتی برای اجرای ضدحمله و ایجاد تله آتش آماده کرده‌اند
 ‏
 ‏🆔@WAR_ROOM_NEWS
-14:34
-1405/06/20
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
 14:34
 1405/06/20
 
@@ -4958,19 +4999,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 00:51
-1405/06/20
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇮🇷🇴🇲 – Two vessels were struck by four Iranian projectiles off the coast of Oman, according to a UKMTO warning. 
-‏
-‏At least one of the vessels caught fire, and there was no immediate confirmation of the status of the crewmembers of either vessel.
-‏
-‏@GeoPWatch
-00:48
 1405/06/20
 
 
