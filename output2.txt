@@ -2723,17 +2723,6 @@ src :@mwarmonitor
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran's Ghalibaf:
-‏
-‏The brave Yemeni people will certainly triumph, by the permission of God Almighty.
-22:41
-1405/06/19
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🛢 — Brent Crude tops 100 USD mark, now trading at 107.3 USD amid escalating Middle East conflict
