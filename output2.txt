@@ -1,3 +1,27 @@
+src :@mohem_mat
+‏➖ آیا رهبری موروثی شده است؟
+‏
+‏امام جمعه‌ی قم درباره‌ی ادعاهایی پیرامون موروثی شدن رهبری گفت: اگر موضوع موروثی بود، نیازی به تشکیل جلسه خبرگان و بررسی و رأی‌گیری وجود نداشت؛ بنابراین روند انتخاب رهبری نشان‌دهنده نقش و وظیفه مستقل خبرگان است.
+‏
+‏ سعیدی گفت: آنچه در نشست خبرگان در شرایط بمباران مطرح شد، بیانگر این واقعیت بود که اعضای خبرگان حتی اگر رهبر انقلاب شخصی را برای رهبری معرفی کنند، وظیفه مستقل خود را انجام خواهند داد؛ همان‌گونه که در انتخاب رهبری فعلی نیز این استقلال رأی وجود داشت.
+‏
+‏@ensafnews
+16:06
+1405/06/20
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇾🇪/🇸🇦 NEW: According to our sources, hundreds of Saudi armored vehicles and reinforcements will enter Yemen from the Al-Wadi’ah border crossing today and tomorrow
+‏
+‏@Middle_East_Spectator
+16:03
+1405/06/20
+
+
+
+
 src :@MilitarryWorld
 ‏🔴امام‌جمعه یاسوج: اقا مجتبی روزی ۱۰ ساعت فعاله، تو ختم پدرشم بود
 ‏
@@ -269,7 +293,7 @@ src :@Navy_Iranian
 [عکس]
 ‏تصاحب نیمه غربی استان تعز بدون تسلط و کنترل کامل بر شهر تعز و کوه‌های جنوبی آن چندان عاقلانه نخواهد بود و قطعا انصار الله این را می‌داند.
 ‏
-‏زیرا اگر در این نقطه بمانند یک تک قدرتمند از جبهه جنوب (عدن) و از شرق (تعز) ، انصار الله را قیچی می‌کنند و به همان سرعتی که این ۳۰۰۰ کیلومتر مربع تصاحب شد از دست می‌رود. 
+‏زیرا اگر در این نقطه بمانند یک تک قدرتمند از جبهه جنوب (عدن) و از شرق (تعز) ، انصار الله را قیچی می‌کنند و به همان سرعتی که این 5000 کیلومتر مربع تصاحب شد از دست می‌رود. 
 ‏
 ‏پس  ۲ راه برای حوثی‌ها وجود دارد:
 ‏اول آنکه با همین روش تهاجم سریع عدن را نیز تصاحب کنند تا قطع پشتیبانی از تعز باعث سقوط آن شود که البته روش پر ریسکی است و احتمال کمتر.
@@ -1283,28 +1307,6 @@ src :@USAMRYDATA
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇦🇮🇷🇴🇲⚡️ — Gulf foreign ministers are set to meet Iranian Foreign Minister Abbas Araghchi in Salalah, Oman, on Monday to discuss a temporary shipping arrangement for vessels transiting the Strait of Hormuz, according to FT.
-14:23
-1405/06/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇦🇪🇩🇪⚡️ — The UAE has pledged €40 billion in new investment in Germany during MbZ's state visit, on top of €34 billion already invested.
-‏
-‏The funding will target German industry, AI and technology, digital infrastructure, and energy, including around 1 GW of new data centers, with €10 billion earmarked for Bavaria. Companies also signed 29 deals and MoUs worth more than €9.4 billion, while Germany approved daily Emirates flights between Dubai and Berlin.
-‏
-‏Both leaders described the visit as coming at a “defining moment” and pledged closer cooperation amid growing geopolitical and economic uncertainty.
-14:21
-1405/06/20
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇱🇬🇧 Israel expels British military team that was monitoring West Bank settler violence and sharing intelligence with the US.
 ‏
@@ -2087,23 +2089,6 @@ src :@Minas_Tirith2024
 src :@naya_foriraq
 ‏🇺🇦انفجارات عنيفة تهز العاصمة الاوكرانية كييف
 13:17
-1405/06/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Anthropic claims China’s Moonshot AI secretly routed some Kimi users’ requests to Claude, then presented Claude’s answers as if they came from Kimi.
-‏
-‏Anthropic says Moonshot generated 23M+ Claude exchanges from May–July 2026 through 5,380 allegedly fraudulent accounts. 
-‏
-‏During one 10-day period alone, about 300,000 real customer requests were allegedly routed to Claude, mostly Opus.
-‏
-‏Anthropic further claims Moonshot saved exchanges and used “cross-session replay” to reconstruct Claude reasoning traces for model training.
-‏
-‏Some allegedly rerouted prompts contained enterprise code, credentials and sensitive imagery, raising concerns that Kimi customers may not have known their data was reaching a U.S. AI provider.
-13:12
 1405/06/20
 
 
@@ -3225,24 +3210,6 @@ src :@cataphract1
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Another Yemeni missile barrage is being launched now
-11:32
-1405/06/20
-
-
-
-
-src :@Alibk3
-[عکس]
-‏بحسب مصادرنا فإن الهجمات الصاروخية الأخيرة استهدفت ميناء رأس العارة في محافظة لحج
-11:32
-1405/06/20
-
-
-
-
 src :@mamlekate
 ‏📝 آنتروپیک از جزییات بهره‌گیری جمهوری اسلامی از هوش مصنوعی برای تبلیغات و نظارت پرده برداشت
 ‏
@@ -3348,24 +3315,6 @@ src :@mohem_mat
 ‏
 ‏@sharghdaily
 11:23
-1405/06/20
-
-
-
-
-src :@mohem_mat
-‏🔹  پزشکیان: به جلیلی گفته‌ام هر کجا که می‌تواند اختیار می‌دهم مشکلات را حل کند
-‏
-‏رئیس‌جمهور:
-‏🔺برای افزایش نرخ بنزین آزاد جلساتی با اتحادیه تاکسیرانان و تاکسی‌های اینترنتی برگزار کردیم تا هیچ یک از آنها با مشکلی مواجه نشوند.
-‏🔺دولت برای دورکاری برخی ادارات و مجموعه‌های دولتی در فصل زمستان برنامه دارد.
-‏🔺موافق ادامه جنگ نیستم اما باید در مقابل روندهای پیش‌رو تاب‌آوری کشور را افزایش دهیم.
-‏🔺باید حتی از کمک همین دانشجویان نسل زد برای حل مشکلات جامعه استفاده کنیم.
-‏🔺از تمام کاندیداهای انتخابات ریاست جمهوری و رقبای انتخاباتی خودم که امروز در کنار دولت قرار گرفته‌ و برای حل مشکلات کشور تلاش می‌کنند، قدردانی می‌کنم.
-‏🔺حتی به همین آقای جلیلی هم گفته‌ام که برای حل مشکلات به دولت کمک کند، هرکجا که می‌تواند اختیار می‌دهم که مشکلات را حل کند
-‏
-‏‎ @iran_eghtesadi 🇮🇷
-11:20
 1405/06/20
 
 
@@ -4817,23 +4766,6 @@ src :@BellumActaNews
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇸🇦/🇾🇪 Yemen situation update
-‏
-‏– Dhubab: The status of the city is currently unclear; it seems that Saudi-backed forces have completely withdrawn from the city, but Ansarallah has not decided to enter it yet. As a result, the city is stuck in somewhat of a ‘no man’s land’. For all practical reasons, the city has already fallen to Ansarallah and they can enter Dhubab whenever they wish, which is why it has been marked green on the map. Periodic Saudi airstrikes against the city still continue.
-‏
-‏– Mayun Island: Despite various reports over the past few hours, there has been no visual confirmation that the island has fallen to Ansarallah. Until then, we can neither confirm nor deny its capture, and must wait for verification.
-‏
-‏– Al-Shuqayra: Ansarallah have captured the crossroads. Furthermore, the adjacent Jabal Nuhan is also being threatened.
-‏
-‏@Middle_East_Spectator
-23:47
-1405/06/19
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇮🇱🇮🇷 Prime Minister Netanyahu says Israel destroyed Iran's largest site outside of Iran in Lebanon.
@@ -6250,43 +6182,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #Tomcat
 16:10
-1405/06/19
-
-
-
-
-src :@OSINTWarfare
-‏Ansar Allah naval forces are clashing with naval forces loyal to the Presidential Leadership Council (PLC), which are attempting to land on Perim (Mayun) Island.
-‏
-‏Perim Island sits at a strategic chokepoint in the Bab al-Mandab Strait.
-16:03
-1405/06/19
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏استرالیا، نیروهای مهندسی خود را تقویت می‌کند
-‏
-‏ارتش استرالیا، سه شناور نوین برای ساخت پل تولید شرکت Birdon را خریداری کرده است. 
-‏
-‏این شناورها برای استقرار سریع پل‌های موقت و عبور تجهیزات سنگین از رودخانه‌ها طراحی شده‌اند.
-‏
-‏ویژگی‌های این شناورهای جدید:
-‏
-‏مجهز به دو سیستم پیشرانش آبی هستند که مانورپذیری بالا و موقعیت‌یابی دقیق در هنگام ساخت پل را فراهم می‌کنند.
-‏
-‏برای کشیدن، اتصال و تثبیت بخش‌های شناور در طول ساخت پل طراحی شده‌اند.
-‏
-‏طراحی آن‌ها بر اساس تجربه طولانی سال‌ها بهره‌برداری و با در نظر گرفتن بازخوردهای مهندسان نظامی، بهبود یافته است.
-‏
-‏تولید این شناورها در استرالیا و توسط شرکت Birdon انجام می‌شود، که مسئولیت نگهداری و ارتقاء کل ناوگان شناورهای مهندسی ارتش را نیز بر عهده دارد.
-‏
-‏این اقدام، بخشی از برنامه‌ای است که از سال 2003 آغاز شده است. 
-‏
-‏در این مدت، شرکت Birdon، 24 شناور برای ساخت پل به ارتش استرالیا تحویل داده است و این امر، پایه‌ای برای قابلیت‌های مهندسی ارتش در ساخت پل‌ها فراهم کرده است.
-‏
-‏@artemis_force
-16:02
 1405/06/19
