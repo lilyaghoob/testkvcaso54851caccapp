@@ -1,7 +1,37 @@
+src :@WAR_ROOM_NEWS
+‏🔴یکی از اعضای بلند پایه جنبش تروریستی انصارالله گفت در چارچوب معادله افزایش تنش با افزایش تنش هرگونه هدف قرار دادن زیرساخت‌ها، فرودگاه‌ها یا بنادر در مناطق المخا، ذوباب، میون و سایر مناطق یمن توسط رژیم سعودی، با پاسخ متقابل مواجه خواهد شد.
+‏
+‏🆔@WAR_ROOM_NEWS
+14:00
+1405/06/20
+
+
+
+
+src :@Ali_bk_2
+‏Axios:
+‏
+‏The US Central Command commander arrived in Saudi Arabia on Thursday for urgent meetings on the advances made by the Houthis in Yemen.
+13:59
+1405/06/20
+
+
+
+
 src :@Alibk3
 ‏أكسيوس: 
 ‏
-‏قائد القيادة المركزية الأمريكية وصل إلى السعودية يوم أمس الخميس لعقد اجتماعات عاجلة بشأن التقدم الذي يحرزه الحوثيون في اليمن
+‏قائد القيادة المركزية الأمريكية وصل إلى السعودية يوم أمس، الخميس، لعقد اجتماعات عاجلة بشأن التقدم الذي أحرزه الحوثيون في اليمن
+13:57
+1405/06/20
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇾🇪 Houthis gain control of Yemen's Red Sea coastline, threatening key shipping route.
+‏
+‏@BRICSNews
 13:57
 1405/06/20
 
@@ -2502,18 +2532,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@WAR_ROOM_NEWS
-‏خبرنگار: آیا ممکن است جنگ با جمهوری اسلامی تا پایان دوره ریاست‌جمهوری شما ادامه داشته باشد؟
-‏
-‏ترامپ:نه حتی یک احتمال هم وجود ندارد
-‏
-‏🆔@WAR_ROOM_NEWS
-10:48
-1405/06/20
-
-
-
-
 src :@jangaavaran1390
 ‏بر اساس گزارش اکسیوس و تأیید رویترز، محمد بن‌سلمان، ولیعهد سعودی، روز پنجشنبه دو بار با دونالد ترامپ تماس گرفت و خواستار حمله مستقیم آمریکا به مواضع حوثی‌ها در یمن شد.
 ‏
@@ -3043,17 +3061,6 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷🇮🇳 Iranian President Masoud Pezeshkian departs to attend BRICS summit in New Delhi, India.
 ‏
 ‏@BRICSNews
-09:48
-1405/06/20
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Axios:
-‏
-‏Saudi Crown Prince Mohammed bin Salman called US President Trump twice on Thursday, asking him to launch attacks against the Houthis as they approach a vital choke point in the Red Sea, but Trump refused, as he does not plan direct intervention against them at this time.
 09:48
 1405/06/20
 
@@ -4641,16 +4648,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 22:46
-1405/06/19
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US imposes new sanctions targeting entities supporting Iran-backed groups in the Middle East.
-‏
-‏@BRICSNews
-22:43
 1405/06/19
 
 
