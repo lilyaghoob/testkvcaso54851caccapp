@@ -1,3 +1,57 @@
+src :@naya_foriraq
+‏‏بحسب الرئيس التنفيذي لمطارات دبي، بول غريفيث، فإن دبي تدرس نقل أجزاء من مطارها الجديد تحت الأرض، بما في ذلك تخزين الوقود، للحماية من الضربات المحتملة بالطائرات بدون طيار والصواريخ في أعقاب الحرب الإيرانية.
+13:11
+1405/06/20
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏بر اساس گزارش‌های رسمی منطقه‌ای روسیه و اوکراین، طی ۴۸ ساعت گذشته دست‌کم ۵۰ غیرنظامی کشته و ۳۶۵ نفر دیگر در نتیجه حملات روسیه و اوکراین زخمی شده‌اند.
+‏
+‏در حملات روسیه ۳۱ غیرنظامی کشته و ۲۱۴ نفر زخمی شدند
+‏
+‏در حملات اوکراین نیز ۱۹ غیرنظامی کشته و ۱۵۱ نفر زخمی شدند
+‏
+‏🆔@WAR_ROOM_NEWS
+13:10
+1405/06/20
+
+
+
+
+src :@ClashReport
+‏Gulf foreign ministers are expected to meet Iranian Foreign Minister Abbas Araghchi in Salalah, Oman, on Monday to discuss a temporary arrangement for shipping through the Strait of Hormuz.
+‏
+‏Source: FT
+13:09
+1405/06/20
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار بامدادی | جمعه ۲۰ شهریور
+‏@iranintlTV
+13:08
+1405/06/20
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏تصویری که شرکت ماهواره ای vantor روز ۱۵ سپتامبر ۲۰۰۱ از محل حملات ۱۱ سپتامبر منتشر کرد.
+‏
+‏
+‏@rus_cosmos
+13:08
+1405/06/20
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇾🇪❌🇸🇦 - According to Yemeni Government Sources, the Houthis have seized the strategic island of Perim in the Bab El-Mandeb strait early this morning, as government forces reportedly withdrew from the area.
@@ -22,6 +76,8 @@ src :@GeoPWatch
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🛑طبق گزارش کانال آی ۲۴ حوثی‌ها پس از عقب‌نشینی نیروهای دولتی از جزیره میون (پریم) در تنگه، کنترل تنگه باب‌المندب را به دست گرفته‌اند
+‏
+‏🆔@WAR_ROOM_NEWS
 13:04
 1405/06/20
 
@@ -1997,7 +2053,7 @@ src :@WAR_ROOM_NEWS
 
 src :@WAR_ROOM_NEWS
 [عکس]
-‏تروریست ها حوثی چند لحظه پیش چندین موشک بالستیک شلیک کردند هدف نامشخص احتمالم داره به سمت عربستان بوده باشه
+‏تروریست ها حوثی چند لحظه پیش چندین موشک بالستیک شلیک کردند
 ‏
 ‏🆔@WAR_ROOM_NEWS
 10:50
@@ -2173,18 +2229,6 @@ src :@DEJradio
 ‏
 ‏#شناسایی #پویا_ملکی #IRGCterrorists
 ‏@DEJradio
-10:43
-1405/06/20
-
-
-
-
-src :@ClashReport
-‏Kremlin:
-‏
-‏The decision by Lithuania to lift the ban on the deployment of nuclear weapons, if implemented, would be a very serious escalation.
-‏
-‏Lithuania will become a target for Russian nuclear weapons if it deploys similar weapons on its territory.
 10:43
 1405/06/20
 
