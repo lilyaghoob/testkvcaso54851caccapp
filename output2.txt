@@ -1,4 +1,17 @@
 src :@mohem_mat
+‏ادعای اکسیوس: 
+‏
+‏بن سلمان، ولیعهد عربستان، روز پنجشنبه دو بار با ترامپ تماس گرفت و از او خواست حوثی‌ها را هدف قرار دهد ولی ترامپ این درخواست را رد کرد
+‏
+‏
+‏@mohem_mat
+09:17
+1405/06/20
+
+
+
+
+src :@mohem_mat
 ‏توافق محرمانه انرژی آمریکا و کوبا بر سر مطالبات سیاسی شکست خورد
 ‏
 ‏خبرگزاری آناتولی:
@@ -10,6 +23,35 @@ src :@mohem_mat
 ‏واشنگتن همچنین می‌خواست سرمایه‌گذاران آمریکایی کنترل این شرکت را در دست بگیرند. 
 ‏
 ‏@sharghdaily
+09:12
+1405/06/20
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Anthropic's new threat report reveals that a cell in northern Yemen (highly likely Houthi-linked) used Claude Code as a substitute for an entire missile engineering team. 
+‏
+‏They ran multiple Claude instances simultaneously — one writing code, one researching, one reviewing — to develop guidance software for a tactical guided rocket, a 2,000+ km ballistic missile, and a hypersonic glide vehicle variant called "R2000."
+‏
+‏The specific tasks: integrating open-source autopilot onto a phone-class flight computer, writing navigation and control software, running six-degree-of-freedom trajectory simulations, and using reinforcement learning to tune flight-control algorithms. 
+‏
+‏They compiled everything into a standalone offline executable so they could keep working without Claude.
+‏
+‏They actually test-fired a guided rocket in Yemen. 
+‏
+‏It appears to have failed. 
+‏
+‏Within hours they were back in Claude doing post-test failure analysis on the telemetry data.
+‏
+‏Anthropic's safeguards blocked many requests but the operators evaded them by hiding the end use, splitting work across many sessions, and using other workarounds. 
+‏
+‏Linked accounts were banned. 
+‏
+‏Anthropic says there's no evidence they fielded an operational weapon — but they already had an offline toolkit that no longer needed Claude.
+‏
+‏This is one of six conventional-weapons cases in the report (three China, two Russia, one Yemen), alongside cyber ops, influence campaigns, a Mali-linked mass surveillance platform, bio-misuse attempts, and Chinese labs illegally distilling Claude.
 09:12
 1405/06/20
 
@@ -393,18 +435,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 08:37
-1405/06/20
-
-
-
-
-src :@mohem_mat
-‏اگر خواستید در امر حجاب به تنظیمات دلبخواه برگردید، حتما در قدم اول درآمد سرانه واقعی (برمبنای قدرت خرید) تقریبا نصف شده از سال ۹۰ تا ۱۴۰۳ را به وضعیت قبل برگردانید تا دیرتر صدای مردم بلند شود ،وگرنه با این سطح حساسیت جامعه اجمالا بهتر است بازگشت به تنظیمات دلبخواه را بیخیال شوید
-‏
-‏قربانعلی صلواتیان (@salavatianghali)
-‏
-‏@mohem_mat
-08:35
 1405/06/20
 
 
