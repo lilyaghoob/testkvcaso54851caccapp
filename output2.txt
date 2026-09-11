@@ -3172,17 +3172,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[ویدئو]
-‏Satellite imagery of Al-Azraq air base in Jordan shows what appears to be a strike on a fighter shelter and possible runway craters from Iran's latest ballistic missile barrage. 
-‏
-‏The imagery corroborates CBS reporting that eight F-15s took light damage (returned to service) and one A-10 lost a wing.
-22:12
-1405/06/19
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏سخنگوی ارتش اسرائیل درباره شبکه تونل‌های حزب الله در رشته‌کوه علی طاهر گفت:طول زیرساخت‌های تروریستی منهدم‌شده بیش از ۲ کیلومتر است. در داخل این تأسیسات زیرزمینی ده‌ها راکت، موشک و پهپاد ساخت ایران و همچنین مسلسل، ده‌ها موشک ضدزره و صدها مین و بمب دست‌ساز کشف شد
@@ -6670,15 +6659,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 05:38
-1405/06/19
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏The Yemeni Houthis have captured the strategic port city of Mokha, extending their control over the Bab-el-Mandeb Strait at the exit of the Red Sea and disrupting a critical logistical maritime hub for Saudi-backed forces in Yemen.
-‏
-‏@Mena_Live
-05:08
 1405/06/19
