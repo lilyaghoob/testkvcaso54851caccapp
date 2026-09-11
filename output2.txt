@@ -1,3 +1,72 @@
+src :@mohem_mat
+‏«پیت هگست» وزیر جنگ آمریکا در سخنانی به مناسبت ماجرای ۱۱ سپتامبر مدعی شد: 
+‏
+‏ما تنگه هرمز را کنترل می‌کنیم و این نبرد را به پایان خواهیم رساند
+‏
+‏نیروهای ما با یک حکومت دینی اسلامی جنگیده‌اند که نزدیک به نیم قرن خواهان مرگ ما بوده و از حملات ۱۱ سپتامبر ابراز خوشحالی کرده است
+‏
+‏@mohem_mat
+18:42
+1405/06/20
+
+
+
+
+src :@GeoPWatch
+‏⚡️🇮🇷 – Reports of the sounds of explosions or gunfire on Qeshm Island are related to the testing of air defense systems.
+‏
+‏@GeoPWatch
+18:41
+1405/06/20
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇱🇧 — Israeli warplanes carried out airstrikes on Al-Mansouri and Wadi Saluki in southern Lebanon a short while ago.
+18:41
+1405/06/20
+
+
+
+
+src :@wfwitness
+‏⚡🇳🇴 ABC: Princess Astrid of Norway, the elder sister of King Harald V, has died at the age of 94.
+‏
+‏King Harald paid tribute to his sister following her death, describing her as an important member of the royal family and of Norway’s modern history.
+‏
+‏@wfwitness
+18:41
+1405/06/20
+
+
+
+
+src :@intelslava
+‏The price of natural gas on European exchanges has exceeded the threshold of $1,000 per 1,000 cubic meters for the first time since December 2022. On September 10th, futures contracts for October on the TTF hub in the Netherlands rose by 4.04%, reaching €82.45 per MWh, which is approximately $1,006 per 1,000 m³.
+‏
+‏The increase in prices is linked to the worsening situation in the Middle East and concerns about supply. Following the de facto closure of the Strait of Hormuz due to the conflict between the United States, Israel, and Iran, the volume of LNG deliveries on the global market has decreased by almost 20%.
+‏
+‏@IntelSlava
+18:41
+1405/06/20
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏وزیر جنگ آمریکا درباره ایران:
+‏
+‏جنگجویان ما جنگی را علیه یک نظام مذهبی اسلامی آغاز کرده‌اند که تقریباً نیم قرن پیش، آرزوی مرگ ما را داشت و از وقایع یازدهم سپتامبر استقبال کرد.این نظام، دهه‌هاست که حملات تروریستی علیه آمریکایی‌ها را حمایت می‌کند، که در نتیجه آن، هزاران نفر، از جمله همکاران ما در عراق و افغانستان، جان خود را از دست داده‌اند.
+‏
+‏🆔️‌@WAR_ROOM_NEWS
+18:37
+1405/06/20
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏وزیر جنگ آمریکا در مورد ایران: ما کنترل تنگه هرمز را در دست داریم. ما این نبرد را به پایان خواهیم رساند.
 ‏
@@ -766,29 +835,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Anthropic says it disrupted an Iranian-linked effort that used its Claude AI model to help track U.S. Navy vessels in the Middle East and identify potential communications vulnerabilities. 
-‏
-‏They combined ship and aircraft transponder data, military imagery and commercial satellite photos to monitor American warships.
-‏
-‏In a separate investigation, Anthropic said it shut down three Iranian state-aligned influence operations that used Claude to build and manage multilingual propaganda campaigns. The networks explicitly linked their work to Iran’s doctrine of “Jihad al-Tabyin,” or “explanatory jihad,” and used AI to produce operational manuals, personas, messaging strategies and coordinated amplification plans.
-‏
-‏Anthropic says the actors used Claude to turn official Iranian intelligence material into content in Farsi, Arabic, Urdu, Malay, Spanish and English, with plans covering as many as 20 languages. 
-‏
-‏The system was also used to disguise state-backed material as independent reporting or foreign commentary and to create hashtag campaigns designed to appear organic.
-‏
-‏One network was linked to a director-level official at Iran’s Bina Cultural Observatory and produced material in the voice of an IRGC spokesperson. During the 2026 U.S.-Israel-Iran war, it also falsely attributed claims to Western institutions including CSIS, Brookings and RAND to make its messaging appear more credible.
-‏
-‏Anthropic said the networks distributed material through Iranian platforms including Eitaa, Bale and Rubika, as well as X, Instagram, Telegram, TikTok and YouTube. 
-‏
-‏The campaigns also targeted the Bahá’í community, international officials and Iranian opposition figures, while one operation produced ICCO-branded plans covering nine international influence campaigns and preparations for the funeral of Iran’s late Supreme Leader, Ali Khamenei.
-17:35
-1405/06/20
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 What was Iran's reaction to the September 11 attacks?
@@ -1152,21 +1198,6 @@ src :@VahidOnline
 ‏@VahidHeadline
 ‏
 ‏📡 @VahidOnline
-17:16
-1405/06/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱🇾🇪⚡️ — An Israeli official told Channel 12 that Houthi (Ansarallah) control of the Bab el-Mandeb Strait poses a greater threat to shipping than the current situation in Hormuz, largely because of the geography.
-‏
-‏The eastern shipping channel past Perim (Mayyun) Island is only around three kilometers wide, putting passing vessels within direct visual range of Houthi positions.
-‏
-‏“They will be able to fire at whatever they want with anti-tank missiles. They will be able to see the ships with their own eyes. That’s the difference,” the official said.
-‏
-‏The official noted that Iran requires radar, surveillance, and anti-ship systems to threaten vessels in Hormuz, while at Bab el-Mandeb, a Houthi fighter on Perim (Mayyun) Island could target a tanker using a basic ATGM without sophisticated targeting equipment, giving the group “enormous power.”
 17:16
 1405/06/20
 
@@ -1778,14 +1809,6 @@ src :@Alibk3
 src :@jangaavaran1390
 ‏حوثی‌ها اعلام کردند که «عملیات خدا قوی‌تر و مجازاتش سخت‌تر است» که در تاریخ ۳ سپتامبر آغاز شد، به پایان رسیده است. این عملیات با هدف اخراج نیروهای نظامی سعودی از شش منطقه در استان‌های تعز و حدیده انجام شد و مساحتی به وسعت ۵,۴۰۰ کیلومتر مربع را پوشش می‌داد.
 16:34
-1405/06/20
-
-
-
-
-src :@jangaavaran1390
-‏حوثی‌ها اعلام کردند که «عملیات خدا قوی‌تر و مجازاتش سخت‌تر است» که در تاریخ ۳ سپتامبر آغاز شد، به پایان رسیده است. این عملیات با هدف اخراج نیروهای نظامی سعودی از شش منطقه در استان‌های تعز و حدیده انجام شد و مساحتی به وسعت ۵,۴۰۰ کیلومتر مربع را پوشش می‌داد.
-16:33
 1405/06/20
 
 
@@ -2526,15 +2549,6 @@ src :@mwarmonitor
 
 
 
-src :@intelslava
-[عکس]
-‏🇮🇱🇸🇦🇾🇪🇮🇷⚡️ — NEW: An Israel security source tells Channel 12 that Bab al‑Mandab is riskier than Hormuz because Houthi units can use anti‑tank weapons or small missiles at close range from boats or shore, and because they rely less on the sophisticated systems Iran uses in Hormuz, making attacks simpler, faster, and harder to detect.
-15:06
-1405/06/20
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴بلومبرگ: به دلیل جنگ‌ های ایران و اوکراین تولید نفت خام ریاض و مسکو مجموعا در ماه گذشته حدود ۵.۵ میلیون بشکه در روز کمتر از ژانویه ثبت شده است
@@ -2825,14 +2839,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 14:21
-1405/06/20
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🛑طبق گزارش کانال آی ۲۴ حوثی‌ها پس از عقب‌نشینی نیروهای دولتی از جزیره میون (پریم) در تنگه، کنترل تنگه باب‌المندب را به دست گرفته‌اند  🆔@WAR_ROOM_NEWS
-14:18
 1405/06/20
 
 
