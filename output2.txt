@@ -1,6 +1,14 @@
+src :@naya_foriraq
+‏🔻إستهداف صاروخي من قبل بحرية الحرس الثوري لسفينة في مضيق هرمز، أدى إلى تعطلها عن العمل.
+03:09
+1405/06/22
+
+
+
+
 src :@Ali_bk_2
 [عکس]
-‏The British Navy reports that a Panama-flagged tanker reported being struck by an unidentified missile while transiting the Strait of Hormuz, and the tanker was disabled as a result of the strike.
+‏The British Navy confirms that a ship was targeted by a missile in the Strait of Hormuz, causing it to become disabled.
 03:06
 1405/06/22
 
@@ -9,7 +17,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏البحرية البريطانية تفيد بأن ناقلة ترفع علم بنما أبلغت عن تعرضها لإصابة بصاروخ مجهول أثناء عبورها مضيق هرمز، والناقلة تعطلت نتيجة لتلك الإصابة.
+‏البحرية البريطانية تؤكد استهداف سفينة في مضيق هرمز بصاروخ مما أدى لتعطلها.
 03:06
 1405/06/22
 
@@ -2715,14 +2723,6 @@ src :@Parvazdaroj
 src :@naya_foriraq
 ‏انفجارات قوية في خميس مشيط
 21:31
-1405/06/21
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
-21:30
 1405/06/21
 
 
