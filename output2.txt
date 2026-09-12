@@ -736,22 +736,6 @@ src :@IranintlTV
 
 
 
-src :@Ali_bk_2
-‏Reuters, citing two security sources:  Iraq orders the closure of the Shalamcheh border crossing with Iran as a precautionary measure following the recent attacks on Saudi Arabia
-03:30
-1405/06/21
-
-
-
-
-src :@Alibk3
-‏رويترز عن مصدرين أمنيين:   العراق يأمر بإغلاق معبر الشلامجة الحدودي مع إيران كإجراء احترازي عقب الهجمات الأخيرة على السعودية
-03:30
-1405/06/21
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇶مصدر لنايا: توجيه فوري وصل للبصرة الان من القيادة العامة للقوات المسلحة يقضي بغلق منفذ الشلامجة المتآخم لايران بشكل نهائي من الان والى إشعار اخر. الإغلاق يشمل المسافرين والبضائع.
 03:28
