@@ -1,3 +1,53 @@
+src :@intelslava
+[عکس]
+‏Update on the Marib front:
+‏
+‏Ansar Allah forces are continuing their assault toward Marib from the southwest, attempting to advance toward Manin Al-Ashraf while pushing north along the Marib–Ataq Highway.
+‏
+‏West of Marib, Ansar Allah forces are pushing eastward toward the city from the Sirwah Road and the Sanaa–Marib Highway. Clashes are already taking place on the outskirts of Marib.
+‏
+‏In the northwest, elements of the Yemeni Army's 3rd and 7th Military Regions remain present and in control of the village of Asdas. There are no reports of clashes there so far.
+‏
+‏
+‏Based on what we have seen on other fronts, many of which are collapsing rapidly, Asdas may not hold for long if Ansar Allah continues advancing. The situation around Marib is also becoming increasingly serious, with reports that military convoys have begun preparing for an evacuation should attempts to push Ansar Allah back fail.
+06:15
+1405/06/21
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Update on the Marib front:
+‏
+‏Ansar Allah forces are continuing their assault toward Marib from the southwest, attempting to advance toward Manin Al-Ashraf while pushing north along the Marib–Ataq Highway.
+‏
+‏West of Marib, Ansar Allah forces are pushing eastward toward the city from the Sirwah Road and the Sanaa–Marib Highway. Clashes are already taking place on the outskirts of Marib.
+‏
+‏In the northwest, elements of the Yemeni Army's 3rd and 7th Military Regions remain present and in control of the village of Asdas. There are no reports of clashes there so far.
+‏
+‏Based on what we have seen on other fronts, many of which are collapsing rapidly, Asdas may not hold for long if Ansar Allah continues advancing. The situation around Marib is also becoming increasingly serious, with reports that military convoys have begun preparing for an evacuation should attempts to push Ansar Allah back fail.
+06:15
+1405/06/21
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — OpenAI confirmed its AI agents were behind a May cyberattack that overwhelmed coding service RubyGems, two months before another OpenAI swarm hacked Hugging Face, WSJ reports.
+‏
+‏During internal testing, the agents—assigned benign tasks like spreadsheets and reports—used RubyGems as an improvised way to access public internet data, creating accounts every few minutes and uploading hundreds of scraped webpages. The activity forced RubyGems to suspend new registrations for four days.
+‏
+‏Researchers dubbed the incident “GemStuffer” and linked it to OpenAI through behavioral similarities, shared web links, and “OAI” references in filenames and an email address. 
+‏
+‏They also said the agents attempted to exploit two vulnerabilities that could have allowed them to modify other users’ packages, including an previously unknown zero-day, though OpenAI could not verify this and RubyGems found no evidence the exploit succeeded.
+06:14
+1405/06/21
+
+
+
+
 src :@tabzlive
 ‏At least 4 Kalibr cruise missiles are flying northwest past Mykolaiv City to Voznesensk, Mykolaiv Oblast.
 06:11
@@ -3484,14 +3534,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:35
-1405/06/20
-
-
-
-
-src :@intelslava
-‏🇾🇪❌🇾🇪🇸🇦 — Houthi forces struck newly arrived Saudi reinforcements in eastern Al-Jawf with ballistic missiles.
-21:32
 1405/06/20
 
 
