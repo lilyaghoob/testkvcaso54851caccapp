@@ -1,10 +1,28 @@
-src :@MilitarryWorld
-‏🔴صنعا: اگر عربستان محاصره و تجاوز را پایان ندهد، معادله علیه ریاض تغییر خواهد کرد
+src :@intelslava
+‏S&P forecasts that Saudi Arabia's oil production will rise by 2027 but will remain significantly below its stated maximum possible production capacity of 12.3 million barrels per day.
+‏
+‏@IntelSlava
+21:12
+1405/06/21
+
+
+
+
+src :@samueltarikh
+‏⭕️صنعا: اگر عربستان محاصره و تجاوز را پایان ندهد، معادله علیه ریاض تغییر خواهد کرد
 ‏
 ‏‏رئیس کمیته نظامی نیروهای مسلح یمن: اگر عربستان به سمت صلح شرافتمندانه حرکت و توافق تبادل اسرا را اجرا نکند، سرنوشتش تسلیم خواهد بود.
+21:10
+1405/06/21
+
+
+
+
+src :@bricsnews
+‏JUST IN: BRICS countries call for preventing an arms race in outer space.
 ‏
-‏@MilitarryWorld | Parsa
-21:08
+‏@BRICSNews
+21:10
 1405/06/21
 
 
@@ -14,7 +32,7 @@ src :@rus_cosmos
 [عکس]
 ‏رونمایی از پهپادهای رادارگریز روسی در مصر
 ‏
-‏در نمایشگاه هوایی العلمین ۲۰۲۶ مصر، شرکت روس‌آبارون‌اکسپورت (شرکت دولتی صادرات نظامی روسیه) برای نخستین بار از پهپادهای رادارگریز اس-۷۱ام (مونوکروم) و اس-۷۱کی (کاور) رونمایی کرد. 
+‏در نمایشگاه هوایی العلمین ۲۰۲۶ مصر، شرکت روس‌آبارون‌اکسپورت (شرکت دولتی صادرات نظامی روسیه) برای نخستین بار از پهپادهای رادارگریز اس-۷۱ام (مونوکروم) تصویر 👆و اس-۷۱کی (کاور) تصویر 👇رونمایی کرد. 
 ‏
 ‏این پرنده‌ها محصولاتی بین پهپادهای سنتی و موشک محسوب می‌شوند و به‌عنوان بال‌پرنده‌های وفادار برای جنگنده نسل پنجم سوخو-۵۷ طراحی شده‌اند. 
 ‏
@@ -24,11 +42,49 @@ src :@rus_cosmos
 ‏
 ‏پهپاد اس‌-۷۱-ام یک سکوی حامل کلاهک خودکار با حسگر الکترواپتیکی و پردازشگر داده است که قابلیت جستجو و حمله خودکار به اهداف متحرک زمینی را دارد. 
 ‏
-‏در مقابل، اس-۷۱کا یک بمب هوایی هدایت‌شونده ارزان‌قیمت با ناوبری اینرسیایی و بدون جستجوگر پایانی است که برای اهداف ثابت طراحی شده، دارای کلاهک شکافنده-انفجاری OFAB-250-270 با وزن ۲۵۰ کیلوگرم است و برد آن حدود ۳۰۰ کیلومتر است.
+‏پهپاد اس-۷۱کا یک بمب هوایی هدایت‌شونده ارزان‌قیمت با ناوبری اینرسیایی و بدون جستجوگر پایانی است که برای اهداف ثابت طراحی شده، دارای کلاهک شکافنده-انفجاری OFAB-250-270 با وزن ۲۵۰ کیلوگرم است و برد آن حدود ۳۰۰ کیلومتر است.
 ‏
 ‏
 ‏@rus_cosmos
-21:06
+21:09
+1405/06/21
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Intense UAV activity
+‏
+‏Jolfa and Hadishahr, East Azerbaijan Province
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/ln1IGm3vtVZBIKezFIrBKXhb
+‏
+‏ترجمه خودکار فارسی
+‏
+‏فعالیت شدید پهپادی
+‏
+‏جلفا و هادیشهر، استان آذربایجان شرقی
+‏
+‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/ln1IGm3vtVZBIKezFIrBKXhb
+‏
+‏𝕏  ·  @shin_persian
+21:09
+1405/06/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴صنعا: اگر عربستان محاصره و تجاوز را پایان ندهد، معادله علیه ریاض تغییر خواهد کرد
+‏
+‏‏رئیس کمیته نظامی نیروهای مسلح یمن: اگر عربستان به سمت صلح شرافتمندانه حرکت و توافق تبادل اسرا را اجرا نکند، سرنوشتش تسلیم خواهد بود.
+‏
+‏@MilitarryWorld | Parsa
+21:08
 1405/06/21
 
 
@@ -4169,20 +4225,6 @@ src :@bricsnews
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️قیمت دلار آمریکا در بازار آزاد ایران، روز شنبه ۲۱ شهریور به ۲۳۷ هزار و ۹۰۰ تومان رسید.
-‏دلار در مقایسه با روز گذشته ۶ هزار تومان افزایش یافته که معادل رشد حدود ۲.۶ درصدی است.
-‏نرخ دلار آزاد نسبت به شنبه هفته گذشته نیز حدود ۴.۷ درصد افزایش نشان می‌دهد، دلار در ۱۴ شهریور حدود ۲۲۷ هزار و ۲۰۵ تومان معامله می‌شد.
-‏در مقایسه با یک ماه قبل نیز روند صعودی بازار ارز شدت بیشتری داشته است. دلار در ۲۱ مرداد حدود ۱۸۷ هزار و ۸۰۰ تومان بود و نرخ امروز نشان‌دهنده افزایش حدود ۲۶.۷ درصدی در یک ماه است.
-‏
-‏@indypersian
-14:51
-1405/06/21
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏شرکت آمریکایی GA-ASI پهپاد شناسایی-رزمی Wildfire را معرفی کرد.
@@ -4773,16 +4815,6 @@ src :@Artemis_Force
 
 
 
-src :@intelslava
-‏🇨🇳🇮🇳🇷🇺⚡️ — Chinese leader Xi Jinping arrives in New Delhi today to attend the BRICS summit—his first visit to India in seven years.
-‏
-‏@IntelSlava
-12:33
-1405/06/21
-
-
-
-
 src :@thewarreporter
 ‏🇸🇦🇮🇶🇮🇷🇮🇶 — The Iraqi PM's Office announced that Iraq had dismissed a military commander after an investigation found that recent drone attacks targeting Saudi Arabia were launched from Iraqi territory.  The commander, who oversaw operations in Maysan province…
 12:29
@@ -5245,16 +5277,6 @@ src :@Navy_Iranian
 
 
 
-src :@bricsnews
-‏JUST IN: 🇨🇳🇮🇳 Chinese President Xi Jinping arrives in India for BRICS Summit.
-‏
-‏@BRICSNews
-09:54
-1405/06/21
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -5665,22 +5687,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 04:13
-1405/06/21
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Yemeni warplanes struck IRGC-backed Houthi equipment and positions in Dhubab and on northern fronts, Yemen.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏جنگنده‌های یمنی تجهیزات و مواضع حوثی‌های تحت حمایت سپاه پاسداران انقلاب اسلامی را در ذوباب و جبهه‌های شمالی یمن هدف قرار دادند.
-‏
-‏𝕏  ·  @shin_persian
-03:34
 1405/06/21
 
 
