@@ -1445,24 +1445,8 @@ src :@Middle_East_Spectator
 
 
 
-src :@Ali_bk_2
-‏A Yemeni attack in Khamis Mushait, Saudi Arabia.
-00:52
-1405/06/21
-
-
-
-
 src :@naya_foriraq
 ‏انفجارات تهز السعودية
-00:51
-1405/06/21
-
-
-
-
-src :@Alibk3
-‏هجوم يمني في خميس مشيط بالسعودية.
 00:51
 1405/06/21
 
