@@ -1,3 +1,59 @@
+src :@Artemis_Force
+[عکس]
+‏صبح همگی بخیر
+‏
+‏@artemis_force
+09:01
+1405/06/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏حسین مظفری، امام جمعه قزوین گفت: «عفاف و حجاب یک نماد ملی و دینی برای ما، به‌ویژه زنان ما محسوب می‌شود و باید این پرچم را بالا نگه داشته و مر اقب توطئه‌های شوم فرهنگی دشمنان در این عرصه باشیم.»
+‏
+‏او ادامه داد: «امروز جامعه ما تحت تاثیر تبلیغات سوء دشمن قرار گرفته که در این در این عرصه نیز با همراهی، همدلی وهم افزایی بر نقشه‌های دشمن پیروز خواهیم شد.»
+‏https://iranintl.com/202609135429
+09:01
+1405/06/22
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 تصاویر ماهواره‌ای خسارات حمله به خط لوله «شرق-غرب» عربستان.
+‏
+‏🔹️ تصاویر ماهواره‌ای منتشرشده، خسارات واردشده به یکی از تأسیسات پمپاژ خط لوله نفت «شرق-غرب» عربستان سعودی را پس از حمله پهپادی نشان می‌دهد. تصاویر، آثار آتش‌سوزی و آسیب به زیرساخت‌های این خط لوله را آشکار کرده‌اند.
+‏
+‏🔹️ در ابتدا احتمال داده می‌شد حوثی‌ها مسئول این حمله باشند، اما مقام‌های سعودی اعلام کردند پهپادهای مهاجم از خاک عراق به سمت عربستان پرتاب شده‌اند. دولت عراق نیز تحقیقات درباره این حمله را آغاز کرده است. 
+‏
+‏🔹️ تاکنون هیچ گروهی رسماً مسئولیت حمله را بر عهده نگرفته و برخی گروه‌های مسلح عراقی نیز مسئولیت آن را رد کرده‌اند.
+‏
+‏#SaudiArabia
+‏#Iraq
+‏#OilPipeline
+‏#EastWestPipeline
+‏#DroneAttack
+‏#MiddleEast
+‏#SatelliteImagery
+‏
+‏@RASTAKHIZ_PERSIAN
+09:00
+1405/06/22
+
+
+
+
+src :@MilitarryWorld
+‏🔴اصابت موشک ناشناس به یک نفتکش در تنگه هرمز  این نفتکش در پی این حادثه دچار نقص فنی و از حرکت متوقف شده است.  @MilitarryWorld | Parsa
+08:59
+1405/06/22
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏The UK Maritime Trade Operations (UKMTO) reported that a projectile struck a vessel while it was transiting the Strait of Hormuz.
@@ -3771,16 +3827,6 @@ src :@bricsnews
 
 
 
-src :@MilitarryWorld
-‏🔴فوری،منابع عربی: هم اکنون شلیک موشک به سوی تنگه هرمز
-‏
-‏@MilitarryWorld | Parsa
-20:47
-1405/06/21
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔴پهپادهای اوکراینی یک کشتی روسی را در بندر سوچی در کراسنودار هدف قرار دادند
@@ -4188,17 +4234,6 @@ src :@BellumActaNews
 
 
 
-src :@P_raetorio
-[عکس]
-‏سنتکام اعلام کرد طی دور جدید محاصره دریایی تاکنون 100 کشتی و نفتکش از مبدا یا به مقصد ایران متوقف کرده است.
-‏
-‏@P_raetorio
-19:41
-1405/06/21
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏ولادیمیر بوگروف، طراح ارشد برنامه «انرگیا–بوران»، درگذشت.
@@ -4305,30 +4340,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 19:31
-1405/06/21
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russia has been drone-striking gas stations inside Kyiv, hitting them district by district during morning rush hour, including a double-tap strike that hit first responders 15 minutes after the initial attack.  
-‏
-‏A target list of ~20 Kyiv stations is circulating. 
-‏
-‏This is an expansion of a months-long campaign that's already hit 200–300 stations nationwide, mostly near the front lines.
-19:29
-1405/06/21
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Dario Amodei, CEO of Anthropic, says within 6–12 months an AI swarm could be capable of taking over the entire internet with a persistent botnet — "potentially causing hundreds of billions of dollars in damage." 
-‏
-‏He's calling for pacing AI development.
-19:23
 1405/06/21
 
 
