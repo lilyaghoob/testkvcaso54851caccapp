@@ -1,3 +1,39 @@
+src :@tabzlive
+‏🇱🇾⚡️ — On July 12, a Libyan national army outpost located in the Arendiga area near the border of Niger was raided by the Southern Liberation Operation Room rebel groups, killing an unknown number of soldiers and capturing 15 soldiers and equipment.  LNA forces…
+07:55
+1405/06/22
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇸🇦🇾🇪🇾🇪 — A Western source said that some Saudi-backed Yemeni Presidential Leadership Council (PLC) forces on Yemen's western coast had only 20% of the manpower they had on paper, with the remaining 80% made up of 'ghost soldiers' who did not actually exist.
+‏
+‏"The failure this time is not with the Yemenis. It is a disaster made in Washington and Riyadh. It is a Saudi-American fuck-up of epic proportions," a Middle Eastern source said.
+‏
+‏— CNN | @TheWarReporter
+07:54
+1405/06/22
+
+
+
+
+src :@ircfspace
+[عکس]
+‏نسخه جدید از هسته متن‌باز و رایگان Aether منتشر شده و این بار Tor هم بهش اضافه کردن. حالا می‌تونین از تور بصورت اتصال مستقیم، اتصال Tor از طریق وارپ و حالت معکوس استفاده کنین. پل‌های Tor هم بصورت خودکار از BridgeDB گرفته میشن و Aether می‌تونه پل‌هایی مثل Snowflake و WebTunnel رو امتحان کنه.
+‏
+‏یه قابلیت جالب دیگه MASQUE-in-MASQUE هست، که در واقع دو لایه‌ی مسک رو پشت سرهم برقرار می‌کنه. این حالت باعث میشه برای خروجی، رنج آی‌پی متفاوتی نسبت به یک اتصال MASQUE معمولی داشته باشین و توی این حالت دیگه آیپی ایران رو از کلودفلر نمی‌گیرین و رفتار اتصال تا حدی شبیه متد Gool میشه.
+‏
+‏👉 github.com/CluvexStudio/Aether/releases
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+07:53
+1405/06/22
+
+
+
+
 src :@mohem_mat
 ‏یک نفتکش با پرچم پاناما هنگام حرکت به سمت داخل تنگه هرمز، بر اثر اصابت یک پرتابه ناشناس آسیب دیده استفاده است 
 ‏
