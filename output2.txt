@@ -1,7 +1,35 @@
+src :@ClashReport
+[عکس]
+‏Barack Obama is urging Democrats to make AI oversight a major political priority, warning the technology could be “dangerous” if governments fail to act quickly.
+‏
+‏At a private fundraiser, Obama told House Democratic leader Hakeem Jeffries to develop a clear AI policy framework if Democrats retake the House, and said 2028 presidential candidates should make AI a central part of their agendas.
+‏
+‏Obama said AI could bring major benefits in medicine and clean energy, but warned about safety risks, harm to children and widespread job displacement.
+‏
+‏He described himself as neither an AI “accelerationist” nor a “doomer.”
+‏
+‏Source: NYT
+16:35
+1405/06/22
+
+
+
+
 src :@OSINTWarfare
 ‏The Prime Ministers of Northern Ireland, Scotland and Wales will sign a memorandum of understanding at their summit in Cardiff calling for independence referendums.
 ‏
 ‏Never thought I’d see something like this in my lifetime.
+16:32
+1405/06/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻شش سال پیش، در چنین روزی، نوید افکاری، کشتی‌گیر ایرانی و از معترضان اعتراضات مرداد سال ۱۳۹۷، با وجود درخواست و واکنش نهادهای بین‌المللی، حقوق‌بشری و همچنین چهره‌های سرشناس بین‌المللی در ۲۲ شهریور ۱۳۹۹ توسط حکومت ایران اعدام شد.
+‏
+‏@iranintltvsport
 16:32
 1405/06/22
 
@@ -1433,19 +1461,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Union at Breaking Point: Scottish, Welsh, Irish Leaders to Demand Independence
-‏
-‏Leaders of Scotland, Wales, and Northern Ireland will meet in Cardiff to sign a joint declaration asserting their nations’ right to self-determination.
-‏
-‏READ MORE
-14:52
-1405/06/22
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴یادداشتی به قلم محمد منصورنژاد
@@ -2095,20 +2110,6 @@ src :@Alibk3
 [عکس]
 ‏مصادرنا:   أعمدة دخان تتصاعد من مصفى ينبع السعودي
 13:55
-1405/06/22
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دبیرکل اتحادیه عرب گفت که نقش جمهوری اسلامی در قبال شماری از کشورهای عربی بسیار منفی است و تهران باید سیاست‌های خود را تغییر دهد.
-‏
-‏نبیل فهمی، در گفت‌وگو با الجزیره گفت درگیری در منطقه خلیج فارس از طریق مداخله نظامی قابل حل نیست و هشدار داد که «این بحران در آستانه ادامه‌دار شدن است.»
-‏
-‏دبیرکل اتحادیه عرب افزود کشورهای عربی باید برای ادامه روابط خود با ایران، «چارچوب‌های روشنی» ایجاد کنند.
-‏https://iranintl.com/202609138676
-13:51
 1405/06/22
 
 
@@ -4208,17 +4209,6 @@ src :@rnintel
 
 
 
-src :@naya_foriraq
-‏🇾🇪القوات المسلحة اليمنية:
-‏رداً على استمرار العدو السعودي المجرم في عدوانه على بلدنا نفذت القوات المسلحة اليمنية عملية عسكرية نوعية استهدفت من خلالها مخازن الأسلحة  وغرف القيادة والسيطرة التى تدير العدوان على بلدنا وشعبنا في القاعدة العسكرية بمنطقة شرورة السعودية.
-‏وقد نفذت العملية بدفعة كبيرة من الصواريخ الباليستية والطائرات المسيرة وكانت الإصابة دقيقة ومباشرة بفضل الله وعونه. 
-‏نؤكد للعدو السعودي المجرم أن استمرار عدوانه على شعبنا سيقابل بعمليات أشد وأكبر فى عمق أراضيه وستكون عواقبها عليه وخيمة بإذن الله وقوته.
-00:59
-1405/06/22
-
-
-
-
 src :@Ali_bk_2
 [ویدئو]
 ‏Yemeni Armed Forces spokesman Brig. Gen. Yahya Saree:
@@ -4312,14 +4302,6 @@ src :@Shin_Persian
 src :@rnintel
 ‏🇾🇪🇸🇦⚡- Saudi / Yemeni airstrikes on Ansarullah positions in the Ta'izz countryside, southern Yemen.
 00:39
-1405/06/22
-
-
-
-
-src :@naya_foriraq
-‏🇸🇦الاعلام الاجنبي: ‏أفادت تقارير بأن القوات المدعومة من السعودية في اليمن تضم بعض الكتائب التي تتألف من نحو 80% من "الجنود الوهميين"، وهم جنود مزيفون موجودون على الورق فقط لتحصيل رواتبهم.
-00:36
 1405/06/22
 
 
@@ -5850,41 +5832,4 @@ src :@Exciton_missile_program
 ‏
 ‏@Exciton_missile_program 🚀
 16:42
-1405/06/21
-
-
-
-
-src :@defence_news
-‏وزارت امور خارجه کشور بحرین: ما در جلسه وزارتی پیشنهادی درباره اوضاع تنگه هرمز شرکت نخواهیم کرد و در هیچ جلسه‌ای که ایران در آن حضور داشته باشد، مشارکت نخواهیم کرد.
-‏
-‏
-‏این یادش رفته استان ماست و موقتا جدا شده
-16:34
-1405/06/21
-
-
-
-
-src :@defence_news
-[عکس]
-‏تصاویر جدید از جنگنده نسل ششم چین
-‏
-‏تصاویر و ویدئوی جدیدی از روند آزمایش دومین جنگنده نسل ششم چین منتشر شده است. این جنگنده که در رسانه‌ها با نام‌های J-50 یا J-XD شناخته می‌شود، توسط شرکت شنیانگ توسعه یافته و از طراحی بدون سکان عمودی، پیکربندی پنهانکار و دو موتور بهره می‌برد.
-‏
-‏ادامه آزمایش‌های این هواپیما در کنار پروژه J-36 نشان می‌دهد چین توسعه نسل آینده جنگنده‌های رزمی خود را با سرعت دنبال می‌کند.
-‏
-‏#چین #جنگنده_نسل_ششم #J50 #J36 #هوانوردی_نظامی #جنگنده_پنهانکار
-16:33
-1405/06/21
-
-
-
-
-src :@defence_news
-[عکس]
-‏🔶 واکنش پاکستان در حمایت از عربستان!
-‏
-‏@RASTAKHIZ_PERSIAN
-16:32
 1405/06/21
