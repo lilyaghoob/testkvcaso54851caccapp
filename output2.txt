@@ -1,3 +1,39 @@
+src :@Minas_Tirith2024
+‏دقایقی پیش وزیر خارجه عمان اعلام کرد نشست هرمز بین ایران و کشورهای عربی به تعویق افتاد.
+‏
+‏@Minas_Tirith2024
+22:46
+1405/06/22
+
+
+
+
+src :@jangaavaran1390
+‏ترامپ در جواب این سوال که ایران می‌گوید یک کشتی آنها شب گذشته توسط آمریکا هدف قرار گرفته می‌گوید چیزی نمی‌خواد بگوید
+22:44
+1405/06/22
+
+
+
+
+src :@didarnews1
+‏🔴ترامپ: نظرسنجی‌ها جعلی هستند؛ محبوبیتم در آمریکا عالی است
+‏
+‏🔹دونالد ترامپ، رئیس‌جمهور آمریکا، اعتبار برخی نظرسنجی‌ها درباره میزان محبوبیت خود را زیر سؤال برد و مدعی شد که عملکرد دولتش با استقبال خوبی روبه‌رو شده است.
+‏
+‏ترامپ گفت:
+‏🔹«فکر می‌کنم نظرسنجی‌ها جعلی هستند. میزان محبوبیت من در ایرلند خوب است و میزان محبوبیتم در آمریکا عالی است.»
+‏🔹او افزود که تنها نظرسنجی‌هایی که به گفته او «معتبر» هستند، وضعیت مناسبی را برای دولتش نشان می‌دهند.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+22:43
+1405/06/22
+
+
+
+
 src :@Ali_bk_2
 ‏Postponement of the meeting between Iran and regional countries on the Strait of Hormuz at Saudi Arabia’s request following the targeting of the East-West oil pipeline.
 22:41
@@ -1768,15 +1804,6 @@ src :@P_raetorio
 
 
 
-src :@ClashReport
-[عکس]
-‏Ukraine’s National Security and Defense Council sanctioned Iuliia Mendel, former press secretary to President Zelensky.
-20:21
-1405/06/22
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇦🇬🇧🇩🇪🇵🇱🇫🇷🇮🇹🇷🇺Der Spiegel:  On the train targeted by Russian drones near the Ukrainian-Polish border was former British Prime Minister Boris Johnson and carrying Foreign and Security policy Adviser to German Chancellor Friedrich Merz, Günter Sautter.  The…
@@ -2096,21 +2123,6 @@ src :@Alibk3
 
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- Iran's hardliners sabotaged a potential peace deal with the United States after an operation targeting three vessels in the Strait of Hormuz was carried out in early July.  Senior cleric Hossein Taeb, who was recently appointed head of the Basij, made…
-19:45
-1405/06/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇨🇦🇺🇸🇪🇺⚡️ — Canadian Prime Minister Mark Carney is accelerating a major strategic pivot toward Europe following the collapse of trade talks with the U.S., WSJ reports.
-‏
-‏Carney has discussed an “Associate Member of the European Union” arrangement with European leaders, stopping short of full EU or single-market membership. 
-‏
-‏Canadian and European officials are exploring ways to integrate Canada more closely into Europe’s $21 trillion market in strategic sectors, including energy, critical minerals, AI, semiconductors, research, and defense.
-‏
-‏Potential measures include easier movement of goods and workers, shared infrastructure, joint technology projects, and deeper defense cooperation.
 19:45
 1405/06/22
 
@@ -3054,17 +3066,6 @@ src :@defence_news
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏نیروهای اسرائیلی به تخریب‌ها در جنوب لبنان ادامه می‌دهند.
-‏
-‏تصاویر از مناطق المنصوری، زوتار الشرقیه و قنطره گرفته شده‌اند.
-18:09
-1405/06/22
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏در جبهه تعز گزارش می‌شود انصار‌الله موفق به تصرف شط الرقا و روستای الراوا شده است.
@@ -3080,24 +3081,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇸 President Trump says he doesn't "care" if Gulf nations meet with Iran.
 ‏
 ‏@BRICSNews
-18:07
-1405/06/22
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏4 oil/LNG tankers crossed the strait using the corridor designated by Iran. Three of the four tankers are under U.S. sanctions.
-18:07
-1405/06/22
-
-
-
-
-src :@Alibk3
-[عکس]
-‏4 ناقلات نفط/غاز طبيعي سائل عبرت المضيق باستخدام الممر الذي حددته إيران. ثلاث من هذه الناقلات الأربع تخضع لعقوبات أميركية.
 18:07
 1405/06/22
 
@@ -5214,19 +5197,6 @@ src :@Artemis_Force
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴بورس تهران وارد کانال ۷.۴ میلیون واحد شد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-09:31
-1405/06/22
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻تسلا دوباره بازار خودروهای برقی آمریکا را در دست می‌گیرد
@@ -5697,22 +5667,4 @@ src :@DEJradio
 ‏
 ‏@DEJradio
 22:53
-1405/06/21
-
-
-
-
-src :@Mena_Live
-‏Syrian Minister of Energy:
-‏
-‏Syria currently produces 102,000 barrels of oil per day.
-‏
-‏The daily oil requirement for domestic consumption is approximately 300,000 barrels.
-‏
-‏Syria has been significantly affected by the crisis in the Strait of Hormuz.
-‏
-‏We are planning to establish new oil refineries in several governorates.
-‏
-‏@Mena_Live
-22:41
 1405/06/21
