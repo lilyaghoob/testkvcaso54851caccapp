@@ -42,6 +42,7 @@ src :@Navy_Iranian
 
 
 src :@naya_foriraq
+[عکس]
 ‏🔻إرتفاع أسعار النفط العالمية حيث وصل سعر البرميل الواحد إلى 108 دولاراً.
 01:42
 1405/06/23
@@ -121,7 +122,9 @@ src :@cataphract1
 
 
 src :@wfwitness
-‏Reports of an Iranian missile launch towards the Strait of Hormuz.
+‏⚡️🇮🇷🇺🇲 Reports of an Iranian missile launch towards the Strait of Hormuz.
+‏
+‏@wfwitness
 01:39
 1405/06/23
 
@@ -6356,14 +6359,4 @@ src :@bricsnews
 src :@OSINTWarfare
 ‏The IRGC Navy struck the Riyan Star dry bulk carrier with an anti-ship cruise missile in the Strait of Hormuz.
 03:14
-1405/06/22
-
-
-
-
-src :@Mena_Live
-‏Chat GPT now available in Syria.
-‏
-‏@Mena_Live
-01:51
 1405/06/22
