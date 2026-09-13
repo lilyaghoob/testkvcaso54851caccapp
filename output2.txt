@@ -1,3 +1,44 @@
+src :@intelslava
+‏Zelensky imposed sanctions on his former press secretary Yulia Mendel.
+‏
+‏Recently, in an interview, Mendel stated that Zelensky is the main beneficiary of the war.
+‏
+‏@IntelSlava
+22:06
+1405/06/22
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱🇱🇧⚡️ — The IDF has withdrawn from the Ali Taher Ridge in southern Lebanon after destroying a Hezbollah underground compound, with forces reorganizing along the Yellow Line while remaining at Beaufort Castle for now, Channel 12 reports.
+‏
+‏Despite the withdrawal, Israel continues strikes and surveillance around Ali Taher and nearby villages to prevent Hezbollah operatives from returning. 
+‏
+‏The IDF is considering a significant reduction of some forces in Lebanon, potentially transferring regular brigades to the West Bank to ease the burden on reservists. No final decision has been made, and the alert level in Lebanon remains unchanged.
+22:05
+1405/06/22
+
+
+
+
+src :@Ali_bk_2
+‏Yemeni forces control the areas of Al-Ajram, Al-Ahraz, and Ghayl Bani Omar in Al-Shamaytin District, west of Taiz.
+22:04
+1405/06/22
+
+
+
+
+src :@Alibk3
+‏القوات اليمنية تسيطر على مناطق العجرم والأحراز وغيل بني عمر بمديرية الشمايتين غرب تعز.
+22:04
+1405/06/22
+
+
+
+
 src :@samueltarikh
 ‏⭕️خبرگزاری تسنیم: 
 ‏
@@ -8,10 +49,43 @@ src :@samueltarikh
 
 
 
+src :@VahidOnline
+[عکس]
+‏روزنامه نیویورک تایمز روز یکشنبه ۲۲ شهریور ماه در گزارشی به نقل از چند مقام ایرانی نوشت، مسعود پزشکیان، پس از حمله نیروهای سپاه پاسداران به سه کشتی تجاری در تنگه هرمز در اوایل تیرماه گذشته، به‌شدت خشمگین شده و این اقدام را «بی‌پروایانه و غیرمسئولانه» خوانده است.
+‏
+‏این حمله‌ها که منجر به آتش‌سوزی یک نفت‌کش حامل گاز مایع قطر و آسیب به شناورهای دیگر شد، درست زمانی رخ داد که ایران به توافقی با ایالات متحده برای پایان دادن به درگیری‌ها نزدیک شده بود.
+‏
+‏بر اساس این گزارش که فرناز فصیحی به نقل از مقامات ایرانی نوشته است، پزشکیان پس از آگاهی از این ماجرا با احمد وحیدی، فرمانده کل سپاه پاسداران، تماس گرفته و با لحنی تند خواستار پاسخگویی شده است. با این حال، وحیدی ضمن سلب مسئولیت و ابراز بی‌اطلاعی، به رئیس‌جمهوری اعلام کرده که نه مجوزی برای این اقدام صادر کرده و نه شورای عالی امنیت ملی از این عملیات مطلع بوده است.
+‏@VahidOOnLine
+‏
+‏📡 @VahidOnline
+22:02
+1405/06/22
+
+
+
+
 src :@samueltarikh
 ‏⭕️سی‌ان‌ان: 
 ‏
 ‏عمان پیشنهاد ایران برای دریافت اجباری عوارض را رد کرد و پرداخت‌های داوطلبانه برای ایمنی ناوبری و زیست‌محیطی را پیشنهاد داد.
+22:02
+1405/06/22
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻آمریکایی‌ها هنوز در رکود مطالعه گیر کرده‌اند
+‏
+‏▪️بر اساس داده‌های جدید دولتی، در سال گذشته فقط کمی بیش از ۱۶ درصد آمریکایی‌ها در یک روز متوسط برای لذت کتاب می‌خواندند. 
+‏
+‏▪️این رکود مطالعه نزدیک به پایین‌ترین سطح دو دهه اخیر باقی مانده و زمان صرف‌شده برای آن هم کاهش یافته است؛ آمریکایی‌ها در سال ۲۰۲۵ به‌طور متوسط روزی ۱۶ دقیقه مطالعه می‌کردند که ۷ دقیقه کمتر از یک دهه پیش است، در حالی که روزانه ۲٫۶ ساعت تلویزیون تماشا می‌کردند.
+‏
+‏▪️در سال ۲۰۰۵ این رقم ۲۷ درصد بود و در نظرسنجی ۲۰۲۵ زنان (۱۹ درصد) و افراد بالای ۶۵ سال (۲۷ درصد) بیشتر از دیگران مطالعه می‌کردند.
+‏
+‏🆔 @Americana_ir
 22:02
 1405/06/22
 
@@ -2129,18 +2203,6 @@ src :@samueltarikh
 
 
 
-src :@wfwitness
-‏⚡🇱🇧🇮🇱 Artillery fire reported in Beit Yahoun, southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-18:55
-1405/06/22
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇺🇸🇺🇦🇷🇺⚡️ — Trump stated that Zelensky must stop strikes on diesel fuel producers in Russia, which is leading to a crisis in the world.  "This is not related to the Middle East, but to what is happening between Russia and Ukraine. We discussed this with Zelensky."…
@@ -2976,17 +3038,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 17:51
-1405/06/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Israeli forces continue to carry out demolitions in southern Lebanon.
-‏
-‏Photos are from Al-Mansouri, Zawtar al-Sharqiyah, and Qantara.
-17:50
 1405/06/22
 
 
@@ -3828,22 +3879,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 15:54
-1405/06/22
-
-
-
-
-src :@intelslava
-‏🇷🇴🇷🇺🇺🇦⚡️ — The Romanian Ministry of Defense announced that a UAV fell on the country's territory.
-‏
-‏The ministry claims that the UAV also violated Moldova's airspace.
-‏
-‏After the UAV was detected in the airspace, two F-16 fighter jets were scrambled.
-‏
-‏The drone fell in a cornfield in Romania's Suceava County. A small fire broke out due to the drone hitting the ground.
-‏
-‏@IntelSlava
-15:51
 1405/06/22
 
 
@@ -5723,14 +5758,4 @@ src :@Americana_ir
 ‏🔗 لینک منبع
 ‏🆔 @Americana_ir
 22:19
-1405/06/21
-
-
-
-
-src :@bricsnews
-‏JUSR IN: 🇨🇺 BRICS calls to end the economic blockade and sanctions on Cuba.
-‏
-‏@BRICSNews
-22:05
 1405/06/21
