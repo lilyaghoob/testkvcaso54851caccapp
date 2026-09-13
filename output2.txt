@@ -1,3 +1,32 @@
+src :@mohem_mat
+[عکس]
+‏توییت محمدجواد ظریف درباره پیشنهاد رهبر چین برای ایفای نقش در مذاکرات صلح بین ایران و آمریکا*
+‏
+‏ابتکارات سازنده رئیس‌جمهور شی جین‌پینگ، فرصتی به‌موقع برای کاهش تنش‌ها فراهم می‌کند. امنیت پایدار منطقه‌ای نیازمند احترام به حاکمیت، توقف اجبار و پایبندی به حقوق بین‌الملل است. دیپلماسی چندجانبه تنها مسیر عملی به سوی صلح است.
+‏
+‏@jamarannews
+13:19
+1405/06/22
+
+
+
+
+src :@Ali_bk_2
+‏Saudi-aligned forces announce that more than 500 of their personnel were killed and around 1500 wounded in the latest battles against the Yemeni army on the western coast.
+13:19
+1405/06/22
+
+
+
+
+src :@Alibk3
+‏القوات الموالية للسعودية تعلن مقتل أكثر من 500 عنصر وجرح حوالي 1500 من قواتهم في معارك الساحل الغربي الأخيرة ضد الجيش اليمني
+13:18
+1405/06/22
+
+
+
+
 src :@mwarmonitor
 ‏▪️رئیس‌جمهور چین، شی جین‌پینگ، در اجلاس بریکس در دهلی‌نو از ابتکارات جدیدی برای تعمیق همکاری در زمینه‌های هوش مصنوعی، تجارت و زنجیره‌های تأمین میان اعضای گسترش‌یافته این بلوک موسوم به «بریکس بزرگ» رونمایی کرد؛ به گزارش رویترز.
 ‏
@@ -1802,15 +1831,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏The UK Maritime Trade Operations (UKMTO) reported that a projectile struck a vessel while it was transiting the Strait of Hormuz.
-08:54
-1405/06/22
-
-
-
-
 src :@mohem_mat
 ‏چین به احتمال زیاد این بار هم قطعنامه علیه ایران را در شورای امنیت وتو می‌کند مگر اینکه ایران بخواهد از NPT خارج شود
 ‏
@@ -1940,18 +1960,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 08:47
-1405/06/22
-
-
-
-
-src :@ClashReport
-‏An IRGC Navy political deputy said, responding to Trump’s remarks that the U.S. controls the Strait of Hormuz:
-‏
-‏If that is the case, then bring it on. Move one of your warships to within 100 kilometers.
-‏
-‏Source: Fars
-08:46
 1405/06/22
 
 
@@ -2102,21 +2110,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 08:31
-1405/06/22
-
-
-
-
-src :@mohem_mat
-‏یکی سگش رو بدون قلاده آورده بود پارک یکی از مادرا اعتراض کرد 
-‏طرف گفت این سگم بچه منه مگه شما بچه هاتونو با زنجیر میبندید میارید پارک؟!
-‏عرض کردم خدمت شون بچه های ما کسی رو گاز نمیگیرن اگرم بگیرن لازم نیست طرف بره واکسن هاری بزنه...
-‏ناراحت شد خانومی
-‏
-‏نسیم هستم (@NasimHmp)
-‏
-‏@twittervid_bot
-08:30
 1405/06/22
 
 
@@ -3830,15 +3823,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏صور من مشاهد عملية "والله أشدُ بأساً وأشدُ تنكيلاً" العسكرية النوعية الواسعة من عدة مسارات متزامنة - 12 سبتمبر 2026م
-21:48
-1405/06/21
-
-
-
-
 src :@samueltarikh
 ‏عراق از کشف 47 پهپاد و 46 موشک و تجهیزات مرتبط در یک مکان متروکه در نزدیکی مرز با ایران خبر داد
 21:46
@@ -4233,19 +4217,6 @@ src :@guard_warriors
 
 
 
-src :@selena_updates
-[عکس]
-‏Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian and Indian Prime Minister Narendra Modi have arrived for the BRICS summit in New Delhi, as leaders of the expanded bloc focus on escalating Middle East tensions, global trade disputes and strengthening the Global South’s influence. 
-‏
-‏BRICS leaders called for restraint and diplomacy in the Middle East, opposed unilateral sanctions and trade restrictions, and pushed for reforms of the UN and global financial institutions, while the summit also puts renewed India-China engagement in the spotlight.
-‏
-‏The gathering brings together Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Indonesia, Iran, Saudi Arabia and the UAE, highlighting BRICS’ growing global weight but also the challenge of maintaining consensus among members with sharply different strategic interests.
-20:54
-1405/06/21
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ ارتش چین به بازسازی سیستم پشتیبانی آتش در مهم‌ترین منطقه برای خود ادامه می‌دهد. یکی از تیپ‌های سنگین پیاده‌نظام، متعلق به ارتش 71، تحت فرماندهی شرقی نیروی هوایی-فضایی چین (PLA)، در دو ماه گذشته، محموله‌ای از توپ‌های خودکششی PLZ-05 کالیبر 155 میلی‌متری جدید دریافت کرده است و با این سلاح‌ها، سیستم‌های توپخانه‌ای قدیمی کالیبر 122 میلی‌متری خود را جایگزین کرده است.
@@ -4460,19 +4431,6 @@ src :@Exciton_missile_program
 src :@Exciton_missile_program
 [عکس]
 ‏@Exciton_missile_program 🚀
-20:24
-1405/06/21
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Hundreds of protesters rallied outside the Israeli Embassy in Bangkok on September 10 under banners reading “Thailand Is Not For Sale” and “This Is Not The Promised Land,” demanding tougher action against illegal foreign businesses, landholding arrangements and misconduct by some Israeli visitors. 
-‏
-‏Led by veteran political activist Sondhi Limthongkul under his “Take Our Thailand Back” campaign, demonstrators accused some Israelis of disregarding Thai laws and customs and called for greater scrutiny of nominee companies, property ownership and Israeli-linked religious centers, while organizers submitted 4 demands to the Israeli ambassador. 
-‏
-‏The protest followed months of public controversy over tourist behavior and foreign commercial activity in several Thai destinations. Thailand’s Foreign Ministry had already raised the issue directly with Israeli Ambassador Alona Fisher-Kamm, with both governments agreeing on the need for Israeli visitors to respect Thai laws, customs and local communities.
 20:24
 1405/06/21
 
