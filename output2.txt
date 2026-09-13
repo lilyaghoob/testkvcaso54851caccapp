@@ -1,3 +1,23 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: Northern Ireland, Scotland and Wales planning to leave the United Kingdom.
+‏
+‏@BRICSNews
+02:11
+1405/06/23
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏A small update on the situation on the Taiz front:  Ansar Allah are pushing toward Najd al-Nashamah, south of Taiz City. It remains unclear whether they have captured the area, but clashes are ongoing with the Homeland Shield Forces (National Shield Forces).…
+02:08
+1405/06/23
+
+
+
+
 src :@DEJradio
 ‏🔥🚨 گزارش‌ها از وقوع انفجاری قدرتمند در بندر راهبردی سیریک  رسانه‌های داخلی ایران از شنیده‌شدن صدای انفجاری قدرتمند در شهر بندری سیریک در جنوب استان هرمزگان خبر دادند؛ با این حال، مقام‌های جمهوری اسلامی تاکنون وقوع این انفجار یا علت آن را تأیید نکرده‌اند. هنوز…
 02:04
@@ -4620,15 +4640,6 @@ src :@rnintel
 [عکس]
 ‏🇾🇪⚡- BREAKING: Unknown party has carried out airstrikes on positions in al-Mudarabah, Aden direction, Lahij region, southern Yemen.   Fighting between pro-PLC forces (Giant Brigades and the Homeland Shield Forces) with the Ansarullah has been ongoing for over…
 17:55
-1405/06/22
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇾🇪⚡- Intense clashes in al-Mudarabah have been ongoing for well over 12 hours - Aden direction in the Lahij region of southern Yemen.
-17:51
 1405/06/22
 
 
