@@ -1,3 +1,55 @@
+src :@P_raetorio
+[عکس]
+‏در یمن گزارش می‌شود ارتش شورای ریاست جمهوری یمن ضد حمله‌ای را در سه جبهه بندر المراد، بندر ذباب و جبهه الغیل استان تعز آغاز کرده است.
+‏
+‏@P_raetorio
+21:26
+1405/06/22
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏A bomb exploded in front of one of the churches in the Syrian city of Hama.
+21:24
+1405/06/22
+
+
+
+
+src :@Alibk3
+[عکس]
+‏انفجار عبوة ناسفة امام احد الكنائس في مدينة حماة السورية.
+21:24
+1405/06/22
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸القيادة المركزية الأميركية: مجهزون جيدا ومستعدون لأي طارئ.
+21:22
+1405/06/22
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇾🇪⚡- Over 300 members of the Tihamah Brigades have defected to the Ansarullah.
+‏
+‏The Tihamah was designed with the UAE and Southern Transitional Council assistance. It initially operated completely independent, but was then restructured to become one of the 3 (and at times 4) divisions of the National Resistance Forces, NRF. The forces operated exclusively in the southwest, with the goal of capturing al-Hodeidah.
+‏
+‏The defections likely came after Riyadh influenced the PLC to reshape the military group. The Tihamah's commander-in-chief and several other senior officials were replaced with pro-PLC figures. The military group has also been withdrawn from the NRF, and now once again acts independently (but 'loyal' to the PLC).
+‏
+‏In other words, the PLC and Saudi took over yet another former STC formation's leadership, which led to mass defection amongst its members–a repeat of what happened with the (Southern) Giant Brigades earlier this year.
+21:22
+1405/06/22
+
+
+
+
 src :@mohem_mat
 ‏برابرترها! 
 ‏
@@ -100,6 +152,8 @@ src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 The IDF is conducting a limited withdrawal from Lebanon, with Israeli forces moving from the Ali al-Taher heights near Nabatieh towards Beaufort Castle, where they will remain.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 21:14
 1405/06/22
 
@@ -4181,25 +4235,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@P_raetorio
-‏اسرائیل تاسیسات علی‌الطاهر حزب الله را با طول تقریبی 5.4km  با حدود 1100 تن ماده انفجاری منفجر کرد. هرچند در ابتدا اعلام شد که در طول 2km بوده است که احتمالا دو مسیر اصلی آن مدنظر بوده است (ynet و برخی منابع اسرائیلی دیگر 5.4km را ذکر کرده اند). تاسیسات به شکلی منفجر شده است که دیگر قابل بهره برداری مجدد نباشد. برای مقایسه بزرگی و اهمیت این تاسیسات، نموداری از میزان مواد منفجره و طول چند تاسیسات دیگر گرد آورده‌ام که مهندسی رزمی اسرائیل آن‌ها را منفجر کرده است. روند خطی نمودار، نسبت طول به مواد منفجره را نشان می‌دهد و هم‌خوان به نظر می‌رسد. اما این همه موضوع نیست. چند پارامتر میزان ماده انفجاری مورد استفاده را تعیین می‌کند:
-‏
-‏1. طول تاسیسات
-‏2. اندازه و شکل سطح مقطع تاسیسات
-‏3. جنس و استحکام جداره
-‏4. جنس و استحکام خاک و سنگی که تاسیسات در آن احداث شده است
-‏5. ساختار داخلی و نقشهٔ تاسیسات و میزان انشعابات
-‏6. عمق تونل. زیرا روی تنش داخلی محیط سنگی یا خاکی، میزان روباره روی تونل و درجه محصوریت انفجار اثر می‌گذارد. مثلا اگر عمق بسیار زیاد باشد، مجرای خروج سریع گاز انفجار محدودتر می‌شود و شدت فشار داخلی افزایش می‌یابد
-‏8. نحوه کارگذاشتن ماده انفجاری، نوع آن و میزان هم‌زمانی انفجارها. در اینجا چند انفجار می‌توانند مهندسی مشترک یا نزدیک داشته باشند.
-‏9. نوع ماده انفجاری
-‏
-‏@Exciton_missile_program 🚀
-14:40
-1405/06/22
-
-
-
-
 src :@BellumActaNews
 ‏🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🇮🇪❌🇬🇧 — The sun finally sets over Britannia? Irish, Scots and Welsh leaders meet to plan break-up of United Kingdom  ➡️ Leaders of Scotland, Wales and Northern Ireland will meet in Cardiff on Monday to sign a joint declaration asserting their…
 14:40
@@ -5772,30 +5807,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:32
-1405/06/21
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜ویکتور موراخوفسکی سرهنگ بازنشسته 72 ساله ارتش شوروی/روسیه و کارشناس حوزه تسلیحات در مقاله ای با نام «تانک‌ها از میدان نبرد ناپدید شده‌اند» به تحلیل آینده تانک‌های ارتش روسیه پرداخته است.
-‏
-‏⚜موراخوفسکی در مقاله استدلال می‌کند که میدان نبرد مدرن، به‌ویژه تجربه جنگ اوکراین، شرایط استفاده از تانک را به‌طور اساسی تغییر داده است.
-‏
-‏⚜گسترش پهپادهای شناسایی، کوادکوپتر ها، مهمات سرگردان و ... باعث شده تانکها در بخش بزرگی از عمق منطقه تاکتیکی، تا حدود ۵۰ کیلومتر از خط مقدم به‌سرعت کشف و هدف قرار گیرند؛ در نتیجه آنها دیگر نمی‌تواند مانند گذشته به‌صورت مستقل و در فضای باز مانور کند.
-‏
-‏⚜از دید او، مشکل اصلی خود تانک نیست بلکه آسیب‌پذیری آن در برابر یک شبکه متراکم از کشف و انهدام است.
-‏
-‏⚜بنابراین ضعف اصلی نبود پدافند هوایی کوتاه‌برد همراه یگان‌های تانکی است. راهکارهای فعلی مانند زره قفسی، جنگ الکترونیک یا دفاع فعال به‌تنهایی کافی نیستند. تانکها در کنار پیاده‌نظام، پهپادها، جنگ الکترونیک، سامانه‌های شناسایی و پدافند نزدیک ضدپهپاد باید فعالیت کند.
-‏
-‏⚜او برای حفاظت تانک، ترکیبی از رادار، سامانه‌های الکترواپتیکی و حسگرهای صوتی برای کشف پهپادها و همچنین سلاح‌های نزدیک‌برد مانند سلاح های ساچمه زنی برای مقابله با کوادکوپتر ها را مطرح می‌کند.
-‏
-‏⚜همچنین ایده اختصاص یک تانک در هر گروه تانکی که حامل تعداد زیادی پهپاد رهگیر را مطرح می‌کند تا از سایر تانک‌ها دفاع کند. در نهایت، موراخوفسکی به این نتیجه می‌رسد که دوران تانک به پایان نرسیده، بلکه دوران تانک مستقل و بدون چتر دفاعی به پایان رسیده است.
-‏
-‏⚜تانک آینده باید در قالب یک سامانه رزمی چندلایه و ضدپهپاد به کار گرفته شود.
-‏
-‏✒️#Crash
-‏📃@Cataphract1
-21:22
 1405/06/21
