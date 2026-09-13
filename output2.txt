@@ -1,3 +1,20 @@
+src :@Indypersian
+[عکس]
+‏♦️حسینعلی حاجی‌دلیگانی، نماینده شاهین‌شهر در مجلس، از آماده‌شدن طرحی سه‌فوریتی برای خروج ایران از پیمان منع گسترش سلاح‌های هسته‌ای (ان‌پی‌تی) خبر داد و گفت تعدادی از نمایندگان این طرح را امضا کرده‌اند و قرار است با نظر هیئت‌رئیسه برای رای‌گیری به صحن مجلس ارائه شود.
+‏
+‏حاجی‌دلیگانی روز شنبه ۲۱ شهریورماه در گفتگو با «انتخاب» با انتقاد از عملکرد آژانس بین‌المللی انرژی اتمی، خواستار خروج فوری ایران از ان‌پی‌تی شد. او همچنین گفت «بهتر است هرچه زودتر آزمایش‌های لازم برای سلاح هسته‌ای انجام دهیم» و برخورداری از قدرت بازدارندگی اتمی را برای ایران ضروری دانست.
+‏
+‏محمدرضا محسنی‌ثانی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، نیز در گفتگو با «دیده‌بان ایران» از احتمال تغییر رویکرد جمهوری اسلامی در قبال برنامه هسته‌ای و تعهدات بین‌المللی سخن گفت. او درباره احتمال تجدیدنظر در دکترین هسته‌ای و سطح غنی‌سازی اورانیوم گفت: «ما دیگر چیزی به عنوان ان‌پی‌تی را نمی‌شناسیم که خود را مقید به حضور یا خروج در آن بکنیم.»
+‏
+‏این اظهارات در حالی مطرح می‌شود که اسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی، پیش‌تر گفته بود دسترسی بازرسان آژانس بین‌المللی انرژی اتمی به مراکز هسته‌ای آسیب‌دیده ایران همچنان مسدود است. او در عین حال گفته بود همکاری با آژانس درباره مراکز آسیب‌ندیده در چارچوب ان‌پی‌تی و توافقنامه جامع پادمان ادامه دارد.
+‏ 
+‏@indypersian
+04:14
+1405/06/22
+
+
+
+
 src :@wfwitness
 ‏⚡️🇾🇪🇾🇪🇺🇸🇸🇦CNN: The PLC contacted CENTCOM regarding the rapid Houthi advance towards western Yemen, to which they replied that they were monitoring the situation closely and Saudi air support was on the way, but it never came.
 ‏
@@ -2189,19 +2206,6 @@ src :@selena_updates
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️خبرگزاری دولتی ایرنا، شامگاه شنبه ۲۱ شهریور ماه، از شنیده شدن صدای دست‌کم دو انفجار در جزیره قشم خبر داد.
-‏
-‏ایرنا به نقل از منابع محلی نوشت، این صداها از سمت دریا شنیده شده اما تا این لحظه جزئیات بیشتری از آن منتشر نشده است.
-‏
-‏@indypersian
-22:08
-1405/06/21
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏⚜ویکتور موراخوفسکی سرهنگ بازنشسته 72 ساله ارتش شوروی/روسیه و کارشناس حوزه تسلیحات در مقاله ای با نام «تانک‌ها از میدان نبرد ناپدید شده‌اند» به تحلیل آینده تانک‌های ارتش روسیه پرداخته است.
@@ -3950,36 +3954,10 @@ src :@ClashReport
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧⚡️ — Cryptocurrency billionaire Christopher Harborne has donated £36 million ($49 million) to Nigel Farage’s Reform UK, matching another record £36 million contribution made to the party a day earlier.
-‏
-‏The two donations give Reform UK £72 million from just two donors in under 48 hours as it prepares for the next election and faces allegations of funding irregularities, which the party denies.
-‏
-‏The £72 million total exceeds what either Labour or the Conservatives spent during last year’s general election campaign.
-19:28
-1405/06/21
-
-
-
-
 src :@jangaavaran1390
 ‏روسها طی یک هفته گذشته به شکل هدفمندی در حال هدف قرار دادن تقریباً تمامی پمپ بنزین‌ها در اوکراین با پهپادهای انتحاری هستند 
 ‏آنها حتی پمپ بنزین‌های پایتخت را نیز هدف قرار می‌دهند محله به محله
 19:26
-1405/06/21
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Anthropic CEO Dario Amodei is calling for an immediate slowdown in AI development, warning that increasingly capable rogue AI agents could have devastating consequences within months.
-‏
-‏“We must slow the pace at which we improve the capabilities of AI models,” Amodei wrote, arguing that development would remain rapid even with a slowdown.
-‏
-‏Amodei warned that within “6–12 months” a similar AI swarm could potentially seize control of large parts of the internet through a persistent botnet, causing “hundreds of billions of dollars in damage,” with the potential harm increasing as AI capabilities advance without sufficient safeguards.
-19:25
 1405/06/21
 
 
@@ -6340,17 +6318,4 @@ src :@OSINTWarfare
 ‏
 ‏Ansar Allah forces have captured Jabal Jardad (Jabal Qardad) and continue pushing back Presidential Leadership Council (PLC) forces, forcing them to retreat.
 04:21
-1405/06/21
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇾🇪⚡️🇸🇦🇾🇪- Southwest of Taizz Ansarullah forces have captured the town of Dar Qashimiyah as well as reaching and capturing the village of Jabal Jirad.
-‏
-‏➡️ With this advance PLC forces in and around the city of Taizz are being threatened with an operational encirclement with supply lines running in and out of the city becoming more exposed and vulnerable to Houthi rockets/artillery.
-‏
-‏@GeoPWatch
-04:13
 1405/06/21
