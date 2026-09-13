@@ -1,8 +1,30 @@
+src :@WAR_ROOM_NEWS
+‏یک مقام آمریکایی ادعا کرد: پیشنهاد عمان، مبنی بر پرداخت‌های اختیاری در ازای تضمین امنیت کشتیرانی و حفاظت از محیط زیست، مطرح شده است، این در حالی است که اصرار ایران بر اعمال عوارض اجباری رد شده است
+‏
+‏@WAR_ROOM_NEWS
+20:56
+1405/06/22
+
+
+
+
+src :@intelslava
+‏🇵🇱🇷🇺⚡️ — "If Russia were to attack us, I think we would win quite quickly," said Polish Foreign Minister Sikorski.
+‏
+‏"If the Ukrainians have destroyed half of Russia's refining capacity in six months, we could do it in six weeks," he said.
+‏
+‏@Intelslava
+20:55
+1405/06/22
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
-‏— 🇸🇦/🇾🇪 NEW: Saudi Arabia bombed houses of the Subaiha tribe in Al-Mudarabah, southern Yemen, an area with no ongoing fighting
+‏— 🇸🇦/🇾🇪 NEW: Saudi Arabia bombed houses of the Subaiha tribe in Al-Mudarabah, southern Yemen, an area with no ongoing clashes
 ‏
-‏The airstrikes reportedly took place because the tribe complained about them being ‘thrown into the fire with no support’ on the Red Sea front.
+‏The airstrikes reportedly took place because the tribe (Saudi-allied) complained about them being used as cannon fodder by the PLC.
 ‏
 ‏@Middle_East_Spectator
 20:52
@@ -1016,6 +1038,7 @@ src :@P_raetorio
 
 
 src :@Ali_bk_2
+[عکس]
 ‏Israel Hayom citing regional diplomatic sources:
 ‏
 ‏Mohammed bin Salman approached Israel through the United States, requesting intelligence and other assistance to prevent the Houthis from closing Bab al-Mandab.
@@ -1026,6 +1049,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
+[عکس]
 ‏يسرائيل هيوم عن مصادر دبلوماسية إقليمية: 
 ‏
 ‏محمد بن سلمان توجه إلى إسرائيل عبر الولايات المتحدة بطلب الحصول على مساعدة استخباراتية وغيرها لمنع إغلاق الحوثيين لباب المندب
@@ -3511,16 +3535,6 @@ src :@bricsnews
 
 
 
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — Ukraine urges partners to impose a full trade embargo, entry bans, and broader sanctions on Russia after strikes near the Ukraine-Poland border.
-‏
-‏@IntelSlava
-15:40
-1405/06/22
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇸🇪 — Swedes are heading to the polls Sunday in a closely fought parliamentary election that will decide whether the nationalist Sweden Democrats enter government for the first time or the centre-left opposition returns to power.  
@@ -5770,29 +5784,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 21:03
-1405/06/21
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏هیئت کره‌ای از امارات متحده عربی بازگشت:ارزیابی وضعیت در تنگه هرمز پایان یافت 
-‏
-‏یک گروه کارشناسی از کره جنوبی، که برای ارزیابی شرایط امنیتی در منطقه تنگه هرمز اعزام شده بود، امروز از امارات متحده عربی بازگشت
-‏
-‏این هیئت از ابوظبی بازدید کرد و پایگاه‌های نظامی، بنادر و زیرساخت‌های لجستیکی مرتبط با استقرار احتمالی نیروها را بررسی کرد
-‏
-‏در سئول اعلام شد که این سفر صرفاً جنبه ارزیابی داشته است، اما این سفر با بحث‌هایی درباره نقش احتمالی کره جنوبی در تضمین امنیت تنگه هرمز، در سایه فشارهای ایالات متحده، مرتبط است
-‏
-‏این بررسی در زمانی انجام می‌شود که واشنگتن از سئول می‌خواهد نیروها یا تجهیزات را برای حمایت از عملیات ایالات متحده در مقابله با ایران اعزام کند
-‏
-‏رسانه‌های محلی به گزینه‌های عمدتاً غیررزمی اشاره می‌کنند،از جمله هواپیمای گشتی P-8A و گروه‌های پاکسازی مین
-‏
-‏به گزارش‌ها، یک کشتی تدارکاتی دریایی به دلیل نیاز به پرسنل ( آسیب به پرسنل در صورت حمله ایران به آن کشتی مد نظر بوده)،از این طرح حذف شده است
-‏
-‏مسئله مداخله کره جنوبی ممکن است در هفته آینده در گفت‌وگوی دفاعی کره‌جنوبی و آمریکا در بوسان مطرح شود.
-‏
-‏@artemis_force
-20:55
 1405/06/21
