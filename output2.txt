@@ -1,3 +1,56 @@
+src :@BellumActaNews
+‏🤖 Anthropic CEO Dario Amodei and Sam Altman Call For A Slowdown In Frontier AI
+‏
+‏Dario Amodei has spent five years arguing that Anthropic could build frontier AI carefully and still win commercially. On Saturday he added a condition to that thesis: the whole industry has to ease off the accelerator.
+‏
+‏In a roughly 3,900-word essay titled “We Must Pace the Frontier,” the Anthropic co-founder and CEO wrote that “we must slow the pace at which we improve the capabilities of AI models.” He was explicit that pacing does not mean halting training or technical progress. It means building in enough time for alignment work, third-party verification and operational rigor to keep up with what the models can do.
+‏
+‏Within hours, OpenAI CEO Sam Altman posted on X that “I agree with Dario that we need to pace the frontier,” adding that OpenAI would match Anthropic’s first commitment. Elon Musk’s reaction ran three words: “Dario is right.”
+‏
+‏Amodei has been skeptical of slowdown calls before. In the essay he dismisses the 2023 “pause” letter as premature, because the models of that era could not act as coherent agents and there was little to study. He says two developments since the summer convinced him that the calculus has flipped.
+‏
+‏📝: The only reason all the big AI CEOs are calling for a "slow down" in AI development are physical constraints in data center construction and the maintenance of LLMs which need an ever increasing number of MWh to keep operating.
+‏
+‏While they may cite cybersecurity as a reason, that hasn't stopped the development of LLMs until building data centers became impossible due to the price of raw materials (lack thereof) or opposition from the communities which were going to have to share local resources with the data centers.
+‏
+‏Dario Amodei and Sam Altman's calls for the slow down of AI development "coincide" with China restricting the export of rare earth metals necessary in data center construction, memory chip shortages, and a lack of energy production.
+‏
+‏Already 5% of the U.S' energy output is used to power existing data centers. The data center construction frenzy may lead to as much as 25% the U.S' energy production being used to power data centers LLMs rely on. 
+‏
+‏With the price of diesel skyrocketing and the looming threat of shortages of other petrochemical products which are used in the construction of data centers and computer chips, the resources to maintain the AI boom just aren't available anymore so the AI companies need an excuse to scale back and the excuse they've decided on is the "AI doomsday" shtick to show how "responsible" Amodei and Altman are with their toys.
+‏
+‏🔗 https://www.forbes.com/sites/gabrielalinzainescu/2026/09/13/anthropic-ceo-dario-amodei-calls-for-a-slowdown-in-frontier-ai/
+03:25
+1405/06/23
+
+
+
+
+src :@intelslava
+‏🇾🇪❌🇸🇦 — Renewed alert sirens activated in Khamis Mushait and Abha.
+03:25
+1405/06/23
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇺🇸🤖🤖 — CEO of OpenAI, Sam Altman voices support for Dario Amodei's call to slow down AI development: I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.  Committing to having…
+03:24
+1405/06/23
+
+
+
+
+src :@naya_foriraq
+‏الله أكبر
+03:22
+1405/06/23
+
+
+
+
 src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - All Clear issued in Abha and Khamis Mushait.  @GeoPWatch
 03:22
@@ -6,8 +59,16 @@ src :@GeoPWatch
 
 
 
+src :@naya_foriraq
+‏الله أكبر
+03:22
+1405/06/23
+
+
+
+
 src :@Ali_bk_2
-‏New Yemeni attack toward Khamis Mushait now
+‏Confirming what we published..  New Yemeni attack toward Khamis Mushait now
 03:22
 1405/06/23
 
@@ -15,7 +76,23 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏هجوم يمني جديد نحو خميس مشيط الآن
+‏تأكيدا لما نشرناه..  هجوم يمني جديد نحو خميس مشيط الآن
+03:22
+1405/06/23
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — Alerts in Khamis Mushait, southern Saudi Arabia.
+03:22
+1405/06/23
+
+
+
+
+src :@naya_foriraq
+‏هجوم صاروخي جديد يدك مدينة أبها
 03:22
 1405/06/23
 
@@ -23,7 +100,7 @@ src :@Alibk3
 
 
 src :@wfwitness
-‏⚡️🇸🇦🇾🇪 Renewed alert in Khamis Mushait.  @wfwitness
+‏⚡️🇸🇦🇾🇪 Renewed alerts in Khamis Mushait.  @wfwitness
 03:21
 1405/06/23
 
@@ -39,7 +116,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏أبها
+‏هجوم صاروخي جديد يدك مدينة أبها
 03:21
 1405/06/23
 
@@ -80,7 +157,7 @@ src :@Ali_bk_2
 
 src :@wfwitness
 [عکس]
-‏⚡️🇸🇦🇾🇪 Renewed alert in Khamis Mushait.
+‏⚡️🇸🇦🇾🇪 Renewed alerts in Khamis Mushait.
 ‏
 ‏@wfwitness
 03:21
@@ -255,7 +332,7 @@ src :@BellumActaNews
 
 
 src :@wfwitness
-‏⚡️🇸🇦🇾🇪 Alerts lifted in Khamis Mushait.  @wfwitness
+‏⚡️🇸🇦🇾🇪 Alerts lifted in Khamis Mushait.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:18
 1405/06/23
 
@@ -415,6 +492,8 @@ src :@wfwitness
 ‏The outage comes as Saudi oil production has already fallen to 6.2 million barrels per day in August from 10.9 million in February. The International Energy Agency expects global oil supply to decline by 5.7 million barrels per day, or around 6%, this year amid continuing disruptions.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:13
 1405/06/23
 
@@ -865,14 +944,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏الله اكبر
-02:57
-1405/06/23
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -970,14 +1041,6 @@ src :@bricsnews
 
 
 
-src :@naya_foriraq
-‏🇺🇸ترامب: الكثير من كمية الديزل تأتي من روسيا.  تتعرض مصانع روسيا لقصف من قبل أوكرانيا.  لقد طلبت من زيلينسكي عدم قصف مصانع الديزل والمصافي.
-02:44
-1405/06/23
-
-
-
-
 src :@Ali_bk_2
 ‏Heavy clashes between Yemeni forces and UAE- and Saudi-aligned forces on the Kahbub front, on the border of Lahj governorate.
 02:44
@@ -1000,14 +1063,6 @@ src :@wfwitness
 ‏@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-02:43
-1405/06/23
-
-
-
-
-src :@naya_foriraq
-‏🇾🇪🇸🇦القوات اليمنية تتمكن من دحر مرتزقة السعودية والسيطرة على منطقة كهبوب في باب المندب.
 02:43
 1405/06/23
 
@@ -2858,20 +2913,6 @@ src :@jangaavaran1390
 ‏
 ‏#روسیه #تانک #UVZ #اورال_واگن_زاود #جنگ_اوکراین #پهپاد
 23:15
-1405/06/22
-
-
-
-
-src :@intelslava
-‏🇷🇺🇮🇳⚡️ — The Russian Ministry of Foreign Affairs is considering the possibility of reducing or eliminating the fee for electronic visas for Indian citizens.
-‏
-‏This was mentioned by Maxim Reshetnikov, head of the Ministry of Economic Development, in an interview with RT on the sidelines of the BRICS summit. He recalled that the Indian side had previously eliminated the fee for electronic visas for Russian citizens.
-‏
-‏Reshetnikov called for an increase in the number of flights between India and Russia – currently, there are only 15 per week.
-‏
-‏@IntelSlava
-23:14
 1405/06/22
 
 
@@ -5646,15 +5687,6 @@ src :@tglobaleye
 ‏For the first time ever, Scotland, Wales and Northern Ireland are led by pro-independence first ministers. There could be no clearer sign that the status quo is not sustainable, and that Westminster must prepare for a post-UK future.
 ‏
 ‏The Global Eye | Subscribe ✈️
-15:18
-1405/06/22
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇯🇵🗳 — Major defeat for Pro-China and Pacifist Parties in Okinawa, as Japan ruling camp-backed Koja wins governor race  ➡️ Genta Koja, the candidate backed by Prime Minister Sanae Takaichi's ruling coalition, has won Sunday's Okinawa gubernatorial election…
 15:18
 1405/06/22
 
