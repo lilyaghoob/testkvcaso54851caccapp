@@ -397,14 +397,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏هجوم صاروخي جديد يدك مدينة أبها
-03:21
-1405/06/23
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -631,14 +623,6 @@ src :@tabzlive
 
 
 
-src :@naya_foriraq
-‏فشل كبير لمنظومة الباتريوت الأمريكية في صد وإعتراض الصواريخ اليمنية التي دكت مناطق جنوب السعودية.
-03:17
-1405/06/23
-
-
-
-
 src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - Alerts issued in Najran, Abha, Khamis Mushait and Jazan.  @GeoPWatch
 03:17
@@ -754,14 +738,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 03:15
-1405/06/23
-
-
-
-
-src :@naya_foriraq
-‏تنفيذ عملية تأديبية واسعة من قبل رجال أبوجبريل على آل سعود
-03:14
 1405/06/23
 
 
@@ -1219,22 +1195,6 @@ src :@bricsnews
 
 
 
-src :@Ali_bk_2
-‏Heavy clashes between Yemeni forces and UAE- and Saudi-aligned forces on the Kahbub front, on the border of Lahj governorate.
-02:44
-1405/06/23
-
-
-
-
-src :@Alibk3
-‏اشتباكات ضارية بين القوات اليمنية والقوات الموالية للإمارات والسعودية في جبهة كهبوب، على حدود محافظة لحج.
-02:44
-1405/06/23
-
-
-
-
 src :@wfwitness
 ‏⚡️🇸🇾 Several protests have broken out in Syria over the high cost of living and an ongoing fuel crisis.
 ‏
@@ -1279,22 +1239,6 @@ src :@rnintel
 [عکس]
 ‏🇾🇪⚡- PLC forces have captured the small towns of Shamlan and Manawikh, with fighting ongoing for An Najmah, al-Bayda' direction, southern Yemen.  An Najmah is Ansarullah's final line of defense before Dhi Naeem, which sits on the only main road (shown in yellow)…
 02:37
-1405/06/23
-
-
-
-
-src :@Ali_bk_2
-‏Diesel prices in the United States officially reach a record high of $6.20 per gallon, up 69% since the war on Iran began.
-02:35
-1405/06/23
-
-
-
-
-src :@Alibk3
-‏سعر الديزل في الولايات المتحدة يصل رسميًا إلى مستوى قياسي بلغ 6.20 دولار للجالون، بزيادة قدرها 69% منذ بدء الحرب على إيران.
-02:35
 1405/06/23
 
 
