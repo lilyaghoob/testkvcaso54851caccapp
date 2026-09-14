@@ -1,4 +1,5 @@
 src :@Ali_bk_2
+[عکس]
 ‏The Pentagon:
 ‏
 ‏‏$22.3 billion for munitions expended, $7.4 billion for cumulative commitments, and $3.7 billion for equipment losses, but they do not include infrastructure repairs.
@@ -11,6 +12,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
+[عکس]
 ‏البنتاغون:
 ‏
 ‏‏22.3 مليار دولار للذخائر المستهلكة، و7.4 مليار دولار للالتزامات التراكمية، و3.7 مليار دولار لخسائر المعدات، لكنها لا تشمل إصلاحات البنية التحتية.
