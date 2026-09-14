@@ -360,14 +360,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏الله أكبر
-03:22
-1405/06/23
-
-
-
-
 src :@Ali_bk_2
 ‏Confirming what we published..  New Yemeni attack toward Khamis Mushait now
 03:22
@@ -1061,22 +1053,6 @@ src :@Shin_Persian
 
 
 
-src :@Ali_bk_2
-‏Yemeni attack toward Khamis Mushait in Saudi Arabia.
-03:00
-1405/06/23
-
-
-
-
-src :@Alibk3
-‏هجوم يمني نحو خميس مشيط بالسعودية.
-03:00
-1405/06/23
-
-
-
-
 src :@tabzlive
 ‏🇾🇪❌🇸🇦 — NOW: Alerts in Khamis Mushait, southern Saudi Arabia.
 03:00
@@ -1417,14 +1393,6 @@ src :@rnintel
 ‏
 ‏Around an hour ago, Ansarullah struck Ma'rib city with at least two ballistic missiles.
 01:52
-1405/06/23
-
-
-
-
-src :@intelslava
-‏🇮🇷❌🇺🇸 — IRGC fires anti-ship ballistic missiles toward US Navy near the Strait of Hormuz.
-01:46
 1405/06/23
 
 
