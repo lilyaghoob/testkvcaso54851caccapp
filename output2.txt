@@ -1,3 +1,11 @@
+src :@jangaavaran1390
+‏ترامپ در صفحه خود در شبکه Truth، مقاله‌ای را به اشتراک گذاشته است که وضعیت اقتصادی وخیم در ایران را توصیف می‌کند: "برای ایرانی‌ها سوخت تمام شده است، زیرا فشار اقتصادی افزایش می‌یابد."
+07:52
+1405/06/23
+
+
+
+
 src :@mohem_mat
 ‏خبرگزاری مهر نوشت:
 ‏
@@ -4046,15 +4054,6 @@ src :@Mena_Live
 
 
 
-src :@jangaavaran1390
-‏رئیس مجلس نمایندگان آمریکا: ایرانی‌ها شرکای قابل اعتمادی در مذاکرات نیستند. البته، آن‌ها هر روز دروغ می‌گویند. آن‌ها سر میز مذاکره می‌نشینند، به شما چیزی می‌گویند، و سپس برعکس آن را انجام می‌دهند.
-‏برای برخی از آن‌ها، این بخشی از دینشان است.
-22:21
-1405/06/22
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏300 عضو لشکر تهامه به انصار‌الله پیوستند!
@@ -6470,32 +6469,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
 09:04
-1405/06/22
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇸🇦🇾🇪🇾🇪 — A Western source said that some Saudi-backed Yemeni Presidential Leadership Council (PLC) forces on Yemen's western coast had only 20% of the manpower they had on paper, with the remaining 80% made up of 'ghost soldiers' who did not actually exist.
-‏
-‏"The failure this time is not with the Yemenis. It is a disaster made in Washington and Riyadh. It is a Saudi-American fuck-up of epic proportions," a Middle Eastern source said.
-‏
-‏— CNN | @TheWarReporter
-07:54
-1405/06/22
-
-
-
-
-src :@ircfspace
-[عکس]
-‏نسخه جدید از هسته متن‌باز و رایگان Aether منتشر شده و این بار Tor هم بهش اضافه کردن. حالا می‌تونین از تور بصورت اتصال مستقیم، اتصال Tor از طریق وارپ و حالت معکوس استفاده کنین. پل‌های Tor هم بصورت خودکار از BridgeDB گرفته میشن و Aether می‌تونه پل‌هایی مثل Snowflake و WebTunnel رو امتحان کنه.
-‏
-‏یه قابلیت جالب دیگه MASQUE-in-MASQUE هست، که در واقع دو لایه‌ی مسک رو پشت سرهم برقرار می‌کنه. این حالت باعث میشه برای خروجی، رنج آی‌پی متفاوتی نسبت به یک اتصال MASQUE معمولی داشته باشین و توی این حالت دیگه آیپی ایران رو از کلودفلر نمی‌گیرین و رفتار اتصال تا حدی شبیه متد Gool میشه.
-‏
-‏👉 github.com/CluvexStudio/Aether/releases
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-07:53
 1405/06/22
