@@ -1,3 +1,57 @@
+src :@warmonitors
+‏Live stream finished (24 seconds)
+02:22
+1405/06/24
+
+
+
+
+src :@warmonitors
+‏Live stream started
+02:21
+1405/06/24
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏The Saudi coalition threatens to respond to Yemeni strikes with missiles and drones that caused casualties and damage.
+02:21
+1405/06/24
+
+
+
+
+src :@Alibk3
+[عکس]
+‏التحالف السعودي يهدد بالرد على الضربات اليمنية بالصواريخ والمسيرات التي أدت لسقوط إصابات ووقوع أضرار.
+02:21
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦السعودية: تعرضنا لقصف صاروخي وبالطائرات المسيرة في أبها وخميس مشيط والطائف؛ إصابة 13 شخص كحصيلة أولية.
+02:20
+1405/06/24
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️جی‌دی ونس، معاون رئیس‌جمهوری ایالات متحده، روز دوشنبه ۲۳ شهریور، پیش از برگزاری یک گردهمایی انتخاباتی در کانزاس‌سیتی، در گفتگو با خبرنگاران از تماس‌های مستقیم آمریکا با حوثی‌ها خبر داد.
+‏ونس گفت واشنگتن با مقام‌های عربستان سعودی،  امارات متحده عربی و دیگر طرف‌های متاثر از وضعیت منطقه در تماس مداوم است و تحولات را از نزدیک دنبال می‌کند. او افزود: «ما همچنین با خود حوثی‌ها وارد گفتگوهای مستقیم شده‌ایم.»
+‏
+‏@indypersian
+02:17
+1405/06/24
+
+
+
+
 src :@Ali_bk_2
 ‏Suspension of school classes tomorrow in a number of Saudi cities and governorates, including Abha, Khamis Mushait, Ahad Rufaidah, Muhayil Asir, Rijal Alma, Sarat Ubaida, Al-Harajah, Al-Farsha, Al-Raboua, and Dhahran al-Janub, in addition to King Khalid University in Abha and Khamis Mushait and its colleges at the main campus, as well as Taif University and its branches in Ranyah, Al-Khurmah, and Turbah.
 02:13
@@ -2088,14 +2142,6 @@ src :@thewarreporter
 
 
 
-src :@naya_foriraq
-‏🇸🇦🇾🇪طائرات العدو السعودي تشن غارات على مديرية ذوباب وارتقاء ضحايا من المدنيين.
-23:18
-1405/06/23
-
-
-
-
 src :@thewarreporter
 ‏🛳️🇮🇷 — The IRGC Navy says the supertanker EL GAIA struck a sea mine while attempting to pass through a 'prohibited zone' south of the Strait of Hormuz.
 ‏
@@ -2658,16 +2704,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی آیا حلقه محاصره جمهوری اسلامی به‌شدت تنگ‌تر می‌شود؟!
-‏@iranintlTV
-22:42
-1405/06/23
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 Israeli airstrike targets the town of Qantara and srobbine, southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
@@ -2680,18 +2716,6 @@ src :@wfwitness
 src :@samueltarikh
 ‏⭕️ترامپ: اوکراین و روسیه موافقت کردند حمله به زیرساخت‌های یکدیگر را متوقف کنند  افزایش قیمت گازوئیل بیشتر ناشی از جنگ روسیه و اوکراین است نه ایران.‌‌
 22:42
-1405/06/23
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏فرماندهی نیروی دریایی سپاه پاسداران دوشنبه ۲۳ شهریور در بیانیه‌ای اعلام کرد: «سوپرنفتکش «الگایا» که قصد عبور از منطقه ممنوعه در جنوب تنگه هرمز را داشت، بر اثر برخورد با مین‌های دریایی منفجر شد. تلاش برای مهار آتش بی‌نتیجه بوده و کل نفتکش در شعله‌های آتش گرفتار شده است.»
-‏
-‏نیروی دریایی سپاه پاسداران افزود: «پیش از این نسبت به خطرناک بودن معبر غیرقانونی هشدار داده شده بود. تنگه هرمز مسدود و همچنان تحت کنترل هوشمند ما است.»
-‏https://iranintl.com/202609148878
-22:40
 1405/06/23
 
 
@@ -2854,14 +2878,6 @@ src :@mwarmonitor
 
 
 
-src :@Alibk3
-‏هجوم يمني على نجران في السعودية
-22:28
-1405/06/23
-
-
-
-
 src :@jangaavaran1390
 ‏فرماندهی نیروی دریایی سپاه از برخورد یک نفت کش با مین های دریایی در تنگه هرمز خبر داد
 ‏
@@ -2959,21 +2975,6 @@ src :@mohem_mat
 
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- 60 Minutes has conducted an interview with the weapons system officer who was shot down in April of this year by the Iranian military while crewing an F-15E Strike Eagle fighter jet.
-22:25
-1405/06/23
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Naval Forces Command in the IRGC:
-‏
-‏The Strait of Hormuz is closed and remains under the intelligent control of the IRGC naval forces.
-‏
-‏The giant oil tanker «Algaya» exploded after striking naval mines while attempting to cross the prohibited area south of the Strait of Hormuz. Attempts to control the fire failed, as the flames engulfed the tanker completely.
-‏
-‏A warning had previously been issued about the dangers of illegal passage through this corridor.
 22:25
 1405/06/23
 
@@ -3907,21 +3908,6 @@ src :@tglobaleye
 ‏
 ‏ 
 ‏The Global Eye | Subscribe ✈️
-20:44
-1405/06/23
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️در پی انتشار اخباری درباره تلاش شهرداری مرودشت برای اجرای برنامه توسعه شهری در شرق حریم تخت‌جمشید، سهیل دلشاد، تاریخ‌شناس و پژوهشگر خط میخی، نسبت به پیامدهای این اقدام برای آثار باقی‌مانده از شهر باستانی پارسه هشدار داد.
-‏دلشاد روز دوشنبه ۲۳ شهریورماه با انتشاری تصاویری از نقشه حریم شرقی تخت جمشید در شبکه اجتماعی ایکس نوشت: «توسعه شهری مرودشت در حریم تخت‌جمشید آخرین میخ است بر تابوت شهر پارسه است.»
-‏این فعال فرهنگی با اشاره به ساختار شهر باستانی پارسه نوشت: «صفه تخت‌جمشید در حقیقت شرقی‌ترین بخش این شهر بزرگ است و در جای‌جای غرب صفه تا پس از کمربندی مرودشت، آثار باقی‌مانده از این شهر بزرگ هخامنشی وجود دارد.»
-‏این تاریخ‌شناس همچنین به دروازه کشف‌شده در محوطه تل آجری به عنوان یکی از شناخته‌شده‌ترین آثار باقی‌مانده از شهر پارسه اشاره کرد.
-‏محمدجواد جعفری، سرپرست پایگاه میراث جهانی تخت‌جمشید، پیش‌تر در گفتگو با ایرنا اعلام کرده بود حریم درجه ۲ تخت‌جمشید علاوه بر حفاظت از منظر این اثر جهانی، بیش از ۱۱۰ اثر تاریخی دیگر را در دشت مرودشت دربرمی‌گیرد و هرگونه توسعه شهری بر حفاظت از این آثار تاثیر می‌گذارد.
-‏
-‏@indypersian
 20:44
 1405/06/23
 
