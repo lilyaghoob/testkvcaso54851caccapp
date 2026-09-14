@@ -1,3 +1,58 @@
+src :@Parvazdaroj
+‏برای تشخیص اسپین از نشانه‌های بصری بیرون کابین، نرخ یاو بیش از حد و عقربه چرخش استفاده میشود. عقربه چرخش همیشه در جهت اسپین قفل می‌شود. AOA شاخص اصلی تشخیص اسپین نیست چون پروب AOA در حضور رول و یاو بزرگ اطلاعات نادرست می‌دهد. نشانگر AOA ممکن است کمتر از ۳۰ واحد و حتی لحظه‌ای زیر ۱۵ واحد نشان دهد، اما در بیشتر اسپین عمودی حدود ۳۰ واحد می‌ماند. حتی اگر AOA نشان‌داده‌شده در شرایط خروج از کنترل پایین بیاید، استیک باید جلو بماند تا هواپیما تخلیه شود و حرکات یاو و رول متوقف گردد.
+‏
+‏ادوات خارجی در صورت ورود به اسپین نگه داشته می‌شود. جتیسون کردن آن‌ها برای بازیابی اسپین لازم نیست و فقط خطر برخورد هواپیما با ادوات را افزایش می‌دهد.
+‏
+‏5/
+‏ادامه دارد
+‏
+‏
+‏@PARVAZDAROJ | 𝐃𝐆𝐑
+11:02
+1405/06/23
+
+
+
+
+src :@Ali_bk_2
+‏Important statement from the Yemeni Armed Forces announcing a military operation deep inside Saudi Arabia at 11AM, shortly.
+11:02
+1405/06/23
+
+
+
+
+src :@Alibk3
+‏بيان مهم للقوات المسلحة اليمنية للإعلان عن عملية عسكرية في العمق السعودي، في تمام الساعة 11صباحاً، بعد قليل.
+11:01
+1405/06/23
+
+
+
+
+src :@Navy_Iranian
+‏تصویری از نجات خلبان F-15 ساقط شده توسط ایران  خلبان به دلیل سرعت برخورد با  زمین ، به شدت آسیب دیده ، به همین دلیل نیروهای آمریکا با استفاده از سی 130 ، چندین بالگرد سبک برای جستجو و نجات خلبان اعزام کردند. (در نتیجه مزخزفات حفاری و انتقال اورانیوم کنار بزارید)…
+11:01
+1405/06/23
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Germany plans to spend nearly €3.4 billion on U.S.-made Typhon launchers and Tomahawk cruise missiles, giving the Bundeswehr its first ground-based long-range strike capability. 
+‏
+‏Berlin wants to own and operate the system itself after Trump scrapped an earlier plan for U.S.-controlled Tomahawks in Germany. 
+‏
+‏It is also seeking possible co-production and a role for European industry in the supply chain, though no deal has been finalized.
+‏
+‏Source: POLITICO
+10:58
+1405/06/23
+
+
+
+
 src :@mohem_mat
 ‏کوروش احمدی: 
 ‏
@@ -16,8 +71,22 @@ src :@mohem_mat
 
 
 
+src :@IranintlTV
+[عکس]
+‏خبرگزاری صداوسیما صبح دوشنبه ۲۳ شهریور گزارش داد محمد اسلامی، رییس سازمان انرژی اتمی و معاون رییس‌جمهوری، و هیات همراهش شنبه با یک پرواز عادی عازم وین، پایتخت اتریش، شدند، اما در مسیر سفر متوقف شدند و به مقصد نرسیدند.
+‏
+‏صداوسیما این رخداد را به «کارشکنی‌های آمریکا و همراهی برخی کشورها» نسبت داد و افزود اسلامی همان روز به تهران بازگشت.
+‏
+‏ساعاتی پیش بلومبرگ به نقل از یک مقام آمریکایی گزارش داده بود اتریش در پی فشار دولت دونالد ترامپ، اجازه ورود محمد اسلامی به وین را نداده است. قرار بود او دوشنبه در کنفرانس عمومی آژانس بین‌المللی انرژی اتمی سخنرانی کند. 
+‏https://iranintl.com/202609141894
+10:57
+1405/06/23
+
+
+
+
 src :@wfwitness
-‏⚡️🇾🇪🇾🇪 Yemen's Houthi movement has announced that it will release a statement announcing a military operation at 11 a.m. local time.
+‏⚡️🇾🇪🇾🇪🇸🇦 Yemen's Houthi movement has announced that it will release a statement announcing a military operation "deep in Saudi Arabia" at 11 a.m. local time.
 ‏
 ‏@wfwitness
 10:56
@@ -105,6 +174,8 @@ src :@wfwitness
 ‏The surge also follows renewed Houthi attacks on Saudi Arabia, while a planned meeting between Iran and Gulf states on the Strait of Hormuz was postponed. 
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 10:52
 1405/06/23
 
@@ -415,7 +486,7 @@ src :@Indypersian
 
 src :@Navy_Iranian
 [فایل]
-‏جزوه کامل پهپاد  MQ-1 
+‏پهپاد  MQ-1 
 ‏
 ‏@Navy_Iranian | #S_S
 10:26
@@ -2764,25 +2835,6 @@ src :@cataphract1
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️در حالی که تورم شدید، افزایش هزینه‌های زندگی و بالا رفتن نرخ بیکاری موجب شده است بسیاری از مردم برای کسب درآمد به شغل‌هایی مانند پیک موتوری یا مسافرکشی با موتورسیکلت روی بیاورند، کمترین قیمت موتورسیکلت صفر در ایران به حدود ۲۳۰ میلیون تومان رسیده است.
-‏
-‏قیمت موتورسیکلت در ایران از ابتدای سال ۱۴۰۵ حدود ۴۰ تا ۵۰ درصد افزایش یافته و ارزان‌ترین مدل‌های صفر کیلومتر و اقتصادی اکنون حدود ۲۳۰ میلیون تومان قیمت دارند. افزایش قیمت‌ها و کاهش قدرت خرید باعث شده است بخشی از متقاضیان به بازار موتورسیکلت‌های دست‌دوم روی بیاورند.
-‏
-‏«فرارو» روز یکشنبه ۲۲ شهریورماه به نقل از اصغر فرضی‌پور قره‌لر، رئیس اتحادیه فروشندگان دوچرخه و موتورسیکلت و لوازم یدکی تهران، گزارش داد که مشکلات ثبت سفارش، تخصیص ارز، واردات و ترخیص قطعات از عوامل اصلی افزایش قیمت‌ها است. به گفته او، بخش قابل‌توجهی از قطعات اصلی از خارج تامین می‌شود و افزایش نرخ ارز، هزینه حمل‌ونقل، نیروی انسانی، انرژی و خدمات نیز قیمت نهایی را بالا برده است.
-‏
-‏فرضی‌پور گفت از حدود ۴۰ تولیدکننده موتورسیکلت در ایران، تنها ۲۴ تا ۲۵ مجموعه فعال‌اند و ظرفیت تولید داخلی قطعات پاسخگوی نیاز بازار نیست. کمبود قطعه به خدمات پس از فروش نیز سرایت کرده و گاهی موتورسیکلت‌ها یک تا دو ماه در مراکز خدمات متوقف می‌مانند. در برخی موارد نیز برای تامین قطعه مورد نیاز تعمیر، از قطعات موتورسیکلت‌های صفر استفاده می‌شود.
-‏
-‏رئیس این اتحادیه کاهش عرضه و افزایش هزینه‌های تولید را از دیگر عوامل فشار بر بازار دانست و گفت حدود ۴۰ تا ۴۵ درصد حمل‌ونقل شهری با موتورسیکلت انجام می‌شود و این وسیله برای بسیاری از افراد ابزار کار و کسب درآمد است.
-‏ 
-‏@indypersian
-05:11
-1405/06/23
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏Reports of a Saudi airstrike mistakenly targeting UAE-aligned forces near Kahbub, resulting in the destruction of 5 vehicles and an armored vehicle and the deaths of those aboard.
@@ -3779,14 +3831,6 @@ src :@ClashReport
 [عکس]
 ‏Republican Rep. Randy Fine calls for the breakup of the United Kingdom.
 00:58
-1405/06/23
-
-
-
-
-src :@ClashReport
-‏A Gulf official told Barak Ravid that Saudi Arabia proposed changes to the Omani-Iranian Hormuz plan, fearing it could create a new status quo in the strait unacceptable to Riyadh and other GCC states.
-00:57
 1405/06/23
 
 
