@@ -1,3 +1,11 @@
+src :@tabzlive
+‏🇮🇷❌🇮🇶 — Iranian Shahed-136 UAV strike against Kurdish militia positions in Sulaymaniyah, Iraqi Kurdistan.
+04:18
+1405/06/23
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏خبرگزاری تسنیم، وابسته به نهادهای امنیتی در ایران، در واکنش به تعویق نشست وزیران خارجه کشورهای ساحلی خلیج فارس در عمان، به نقل از یک منبع آگاه مدعی شد عربستان سعودی با «بهانه‌جویی» و بحرین تحت نفوذ آمریکا و اسرائیل مانع برگزاری این نشست شده‌اند.
@@ -784,14 +792,6 @@ src :@GeoPWatch
 
 
 
-src :@naya_foriraq
-‏تنفيذ عملية تأديبية واسعة من قبل رجال أبوجبريل على آل سعود
-03:12
-1405/06/23
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇾🇪❌🇸🇦 — NASA FIRMS shows a significant fire at the Jazan oil refinery after a possible impact from a Houthi ballistic launch.
@@ -834,15 +834,6 @@ src :@ManotoTV
 ‏
 ‏این تصاویر بخش‌هایی از این سفر در تابستان ۱۳۵۵ را نشان می‌دهند.
 03:09
-1405/06/23
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏اصابات مباشرة في منشأة نفطية بجازان السعودية
-03:08
 1405/06/23
 
 
@@ -1333,17 +1324,6 @@ src :@tabzlive
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Trump:
-‏
-‏The Iranians are suffering from a fuel shortage.
-02:18
-1405/06/23
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇷🇺🇸🇦🇹⚡️ — Iran’s nuclear chief Mohammad Eslami has been blocked from attending the IAEA General Conference in Vienna after Austria denied him entry following pressure from the Trump administration, Bloomberg reports.
@@ -1351,17 +1331,6 @@ src :@tabzlive
 ‏Eslami had been scheduled to address the conference on Monday. A lower-level Iranian representative may speak later in the week instead.
 ‏
 ‏U.S. Energy Secretary Chris Wright is expected to use the conference to warn that “Iran must never develop or obtain a nuclear weapon,” while demanding full Iranian cooperation with the IAEA and access for its inspectors.
-02:18
-1405/06/23
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ترامب: 
-‏
-‏الإيرانيون يعانون من نقص الوقود.
 02:18
 1405/06/23
 
@@ -6587,13 +6556,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 04:42
-1405/06/22
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Things are heating up in Taiz, with the risk of encirclement increasing by the hour.  Ansar Allah forces have captured Jabal Jardad (Jabal Qardad) and continue pushing back Presidential Leadership Council (PLC) forces, forcing them to retreat.
-04:20
 1405/06/22
