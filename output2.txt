@@ -1,3 +1,27 @@
+src :@ClashReport
+[عکس]
+‏Trump:
+‏
+‏The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. 
+‏
+‏Don’t kill the Golden Goose!
+18:59
+1405/06/23
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 ترامپ مدعی شد که روسیه و اوکراین موافقت کرده‌اند که به تأسیسات انرژی یکدیگر حمله نکنند.
+‏
+‏🆔 @Americana_ir
+18:58
+1405/06/23
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴اسکات بسنت، وزیر خزانه‌داری ایالات متحده، درباره ایران:
@@ -10,6 +34,17 @@ src :@MilitarryWorld
 ‏اگر چیزی دیدید، بگویید.
 ‏@MilitarryWorld | Maverick
 18:57
+1405/06/23
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏هویتزر  کششی چینی ۱۵۵ میلی‌متری AH4 از جمله سلاح‌هایی بوده است که نیروهای تحت حمایت عربستان طی عقب‌نشینی از ساحل غربی یمن در برابر قوای انصارالله به جا گذاشته‌اند.
+‏
+‏@Minas_Tirith2024
+18:56
 1405/06/23
 
 
@@ -281,6 +316,8 @@ src :@mwarmonitor
 
 src :@WAR_ROOM_NEWS
 ‏همچنین گزارش انفجار در چابهار مخابره شده است
+‏
+‏🆔@WAR_ROOM_NEWS
 18:40
 1405/06/23
 
@@ -383,6 +420,8 @@ src :@wfwitness
 
 src :@WAR_ROOM_NEWS
 ‏بنابر برخی گزارشات دو انفجار در بندر جاسک شنیده شد
+‏
+‏🆔@WAR_ROOM_NEWS
 18:36
 1405/06/23
 
@@ -754,9 +793,9 @@ src :@IranintlTV
 
 
 src :@WAR_ROOM_NEWS
-‏مولوی یوسف گرگیج، از علمای اهل سنت و اهل بلوچستان زاهدان، توسط عواملی ناشناس در مقابل ورودی محل سکونت خود، به شهادت رسید.
+‏مشرق نیوز:مولوی یوسف گرگیج، از علمای اهل سنت و اهل بلوچستان زاهدان، توسط عواملی ناشناس در مقابل ورودی محل سکونت خود، به شهادت رسید
 ‏
-‏منبع: مشرق نیوز
+‏🆔@WAR_ROOM_NEWS
 18:19
 1405/06/23
 
@@ -1239,7 +1278,7 @@ src :@IranintlTV
 
 src :@Americana_ir
 [عکس]
-‏🔴مطابق نظرسنجی سی‌بی‌اس نیوز، 62 درصد افرادی که در اثر افزایش قیمت‌ها تحت فشار قرار گرفتند؛ تصمیم دارند در انتخابات میان‌دوره‌ای به دموکرات‌ها رای بدهند.
+‏🔴 مطابق نظرسنجی سی‌بی‌اس نیوز، 62 درصد افرادی که در اثر افزایش قیمت‌ها تحت فشار قرار گرفتند؛ تصمیم دارند در انتخابات میان‌دوره‌ای به دموکرات‌ها رای بدهند.
 ‏
 ‏🆔 @Americana_ir
 17:53
@@ -2038,18 +2077,6 @@ src :@OSINTWarfare
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦🇷🇺⚡️ — Ukrainian President Zelensky:
-‏We are working with manufacturers on a new generation of drone interceptors to counter Russian jet-powered Shahed drones. 
-‏
-‏Developments are underway, and testing is ongoing. We are accelerating all processes.
-16:55
-1405/06/23
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏وزارت امور خارجه چین امروز دوشنبه ۲۳شهریور۱۴۰۵ گزارش‌ها درباره کمک نهادهای چینی به جمهوری اسلامی برای هدف قرار دادن یک پایگاه نظامی آمریکا در اردن را تکذیب کرد.
@@ -2278,21 +2305,6 @@ src :@rus_cosmos
 ‏و من الله توفیق
 ‏
 ‏@PARVAZDAROJ
-16:40
-1405/06/23
-
-
-
-
-src :@ClashReport
-[عکس]
-‏EU countries failed to agree on extending sanctions against roughly 3,000 Russian individuals and companies, leaving ambassadors one day to reach a deal before the measures expire.
-‏
-‏Slovakia is demanding the removal of Alisher Usmanov and Mikhail Fridman from the sanctions list while also resisting a proposal to extend sanctions from six months to 12 months. 
-‏
-‏Most EU capitals oppose removing anyone while Russian attacks on Ukraine continue. 
-‏
-‏Source: POLITICO
 16:40
 1405/06/23
 
@@ -3819,19 +3831,6 @@ src :@jangaavaran1390
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️شاهزاده محمد بن سلمان، ولیعهد عربستان سعودی، روز دوشنبه ۲۳ شهریورماه با بردلی کوپر، فرمانده ستاد فرماندهی ارتش ایالات متحده آمریکا دیدار کرد.
-‏
-‏به گزارش تلویزیون دولتی عربستان سعودی، دو طرف در این دیدار درباره آخرین تحولات منطقه گفتگو کردند.
-‏
-‏@indypersian
-13:43
-1405/06/23
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨📷 سنتکام تصاویری ماهواره‌ای از قایق‌های تندرو سپاه در جزیره خارک منتشر کرد که نشان می‌دهند این قایق‌ها مبتدیانه در زیر پوشش درختان جزیره خارک استتار شدند.
@@ -5087,14 +5086,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:54
-1405/06/23
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏سپاه اعلام کرد که امروز صبح، یک پهپاد آمریکایی از نوع MQ-1 را در تنگه هرمز سرنگون کرده است
-09:46
 1405/06/23
 
 
@@ -7131,16 +7122,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 19:02
-1405/06/22
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺⭕️  پس از هدفگیری نفتکش «ریسکو» متعلق به جمهوری اسلامی توسط آمریکا یک لکه نفتی به وسعت ۴۰۰ کیلومتر در حال گسترش در تنگه هرمز است. کارشناسان هشدار دادند این وضعیت اکوسیستم‌ سواحل ایران و عمان را تهدید می‌کند. این کشتی بدون توجه به هشدارها قصد شکستن محاصره را داشت.
-‏
-‏#محاصره_دریایی #ریسکو 
-‏@DEJradio
-18:58
 1405/06/22
