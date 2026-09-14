@@ -1,3 +1,40 @@
+src :@tabzlive
+[عکس]
+‏🇮🇶🇸🇦⚡️ — Western diplomatic sources told Al-Sharqiya that Iraq has received warnings it could be designated a state sponsor of terrorism over repeated attacks and threats launched from its territory against neighboring countries.
+‏
+‏The warnings followed drone attacks on Saudi Arabia's East-West oil pipeline traced to Iraq’s Maysan Governorate. 
+‏
+‏Baghdad was told it must identify and prosecute those responsible for attacks launched from Iraqi territory or risk the designation.
+15:11
+1405/06/23
+
+
+
+
+src :@ClashReport
+‏Germany says it is "increasingly concerned" about fuel prices as gasoline hits an all-time high of €2.27/liter and diesel nears €2.40. 
+‏
+‏Station operators warn €3 is conceivable. 
+‏
+‏Previous government relief measures had no lasting effect. 
+‏
+‏SPD leaders pushing for a fuel price cap; the CDU economy minister has rejected it so far.
+15:10
+1405/06/23
+
+
+
+
+src :@rnintel
+‏🇸🇩🇦🇪⚡- UAE says two of its military personnel were killed in exercises in the Emirati State today without giving further details.
+‏
+‏Note, the UAE has a history of covering casualties in Sudan as 'casualties in training missions'.
+15:08
+1405/06/23
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -348,7 +385,7 @@ src :@wfwitness
 
 
 src :@intelslava
-‏🇾🇪🇸🇦 Yemen Houthi forces strike Saudi Arabia’s King Khalid Air Base in Khamis Mushait.
+‏🇾🇪🇸🇦⚡️ — Yemen Houthi forces strike Saudi Arabia’s King Khalid Air Base in Khamis Mushait.
 ‏
 ‏- Dozens of ballistic missiles and drones target hangars, radar systems, runways, and ammunition depots.
 ‏
@@ -1840,17 +1877,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-[عکس]
-‏Finland has joined France’s Forward Deterrence initiative, strengthening bilateral defence cooperation and European security.
-‏
-‏The two countries will establish a Nuclear Steering Group to support the cooperation, while Alexander Stubb said Finland has no plans to station nuclear weapons on its territory in peacetime.
-12:50
-1405/06/23
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«اسماعیل بقایی»، سخنگوی وزارت امور خارجه جمهوری اسلامی، امروز دوشنبه ۲۳شهریور۱۴۰۵ اعلام کرد عربستان سعودی خواستار تعویق نشست منطقه‌ای مسقط شده و انتساب این درخواست به تحولات یمن را «انحراف از ریشه‌های اصلی این بحران» خواند.
@@ -2185,14 +2211,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 12:13
-1405/06/23
-
-
-
-
-src :@P_raetorio
-‏Praetorio pinned a photo
-12:08
 1405/06/23
 
 
@@ -4824,14 +4842,6 @@ src :@DEJradio
 
 
 
-src :@rnintel
-‏🇸🇪⚡️- At 5239 districts counted out of 6629, the right-wing coalition has 174 seats against the left bloc's 175.
-01:16
-1405/06/23
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔥🚨 گزارش‌ها از وقوع انفجاری قدرتمند در بندر راهبردی سیریک
@@ -5890,15 +5900,6 @@ src :@Americana_ir
 
 
 
-src :@Navy_Iranian
-[عکس]
-‏ببین کی داره از غافلگیری صحبت میکنه ...
-21:56
-1405/06/22
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ شرکت هواپیماسازی برزیلی Embraer هواپیماهای تهاجمی سبک EMB-314/A-29 "سوپر توکانو" را به مشتریان خود تحویل می‌دهد. اخیراً، نیروی هوایی پاراگوئه (تصاویر 1-3) یک فروند جدید از این هواپیما را دریافت کرد.
@@ -6126,19 +6127,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Navy_Iranian
-[عکس]
-‏شهید جمشید رجبی ، شهید حمله آمریکا به کشتی کانتینربری 
-‏
-‏این حمله یک شهید و 4 زخمی (2 تن ایرانی و 2 تن پاکستانی) برجای گذاشت که افراد زخمی به قشم منتقل شدند
-‏
-‏@Navy_Iranian | #S_S
-20:43
-1405/06/22
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜به گزارش اسرائیل هیوم، محمد بن‌سلمان، ولیعهد عربستان سعودی، به‌طور غیرمستقیم از طریق فرماندهی مرکزی آمریکا (CENTCOM) خواستار دریافت اطلاعات و کمک‌های اطلاعاتی اسرائیل و سایر حمایت‌ها در مقابله با حوثی‌ها شده است.
@@ -6147,14 +6135,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 20:43
-1405/06/22
-
-
-
-
-src :@Navy_Iranian
-‏گزارش رویترز در خصوص وضعیت ذخیره سازی و ادامه فعالیت صادراتی عربستان در دریای سرخ :    طبق این گذارش با مجموع ذخایر ینبع و ذخایر دیگر در مصر احتمالا چیزی حدود ۵ تا ۷ روز دیگر عربستان می‌تواند بدونه از سر گیری فعالیت خطوط انتقال نفت ، نفت را برای مشتریان خود…
-20:41
 1405/06/22
 
 
