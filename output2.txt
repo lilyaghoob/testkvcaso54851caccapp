@@ -1,3 +1,32 @@
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇺🇸 🇿🇦 — The United States has announced new visa restrictions targeting certain South African officials and individuals.  
+‏ 
+‏Secretary of State Marco Rubio said the policy applies to foreign nationals “responsible for, or complicit in, the enactment or implementation of laws or policies that enable uncompensated land seizures, race-based discrimination, and/or the incitement of imminent violence against members of minority ethnic or racial groups in South Africa.”
+‏ 
+‏The Global Eye | Subscribe ✈️
+01:03
+1405/06/25
+
+
+
+
+src :@ClashReport
+‏Finneas (Billie Eilish's brother) pulled out of Ed Sheeran's Loop tour after Macklemore was dropped for saying "Free Palestine" and showing Gaza imagery onstage.  Stadium owners including Robert Kraft pressured venues to remove Macklemore.  Three other support…
+01:03
+1405/06/25
+
+
+
+
+src :@tabzlive
+‏🇾🇪⚡️ — The Houthis (Ansarallah) have laid mines in the Bab al-Mandab Strait, according to German news agency DPA, citing a Yemeni military source.
+01:03
+1405/06/25
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴دقایقی پیش مادر ابراهیم رئیسی بعد از گذشت دو سال از مرگ فرزندش، فوت کرد.
@@ -56,7 +85,11 @@ src :@IranintlTV
 
 src :@Ali_bk_2
 [عکس]
-‏New images show the extent of the widespread damage inflicted on U.S. bases by Iranian attacks.  The images show an E-3 Sentry aircraft being directly hit and destroyed at Sultan Base in Saudi Arabia.  And the destruction at the U.S. camps of Arifjan and Buehring…
+‏New images show the extent of the widespread damage inflicted on U.S. bases by Iranian attacks.
+‏
+‏The images show an E-3 Sentry aircraft being directly hit and destroyed at Sultan Base in Saudi Arabia.
+‏
+‏And the destruction at the U.S. camps of Arifjan and Buehring in Kuwait.
 00:58
 1405/06/25
 
@@ -65,7 +98,11 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏صور جديدة للدمار في معسكرات الأميركية عريفجان بوهرينغ بالكويت، وقاعدة السلطان بالسعودية.
+‏صور جديدة تُظهر حجم الأضرار الواسعة التي لحقت بالقواعد الأميركية جراء الهجمات الإيرانية.
+‏
+‏تظهر الصور إصابة مباشرة لطائرة E-3 Sentry وتدميرها في قاعدة سلطان بالسعودية.
+‏
+‏والدمار في معسكرات الأميركية عريفجان بوهرينغ بالكويت.
 00:58
 1405/06/25
 
@@ -99,32 +136,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:53
-1405/06/25
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏New images show the extent of the widespread damage inflicted on U.S. bases by Iranian attacks.
-‏
-‏The images show an E-3 Sentry aircraft being directly hit and destroyed at Sultan Base in Saudi Arabia.
-‏
-‏And the destruction at the U.S. camps of Arifjan and Buehring in Kuwait.
-00:52
-1405/06/25
-
-
-
-
-src :@Alibk3
-[عکس]
-‏صور جديدة تُظهر حجم الأضرار الواسعة التي لحقت بالقواعد الأميركية جراء الهجمات الإيرانية.
-‏
-‏تظهر الصور إصابة مباشرة لطائرة E-3 Sentry وتدميرها في قاعدة سلطان بالسعودية.
-‏
-‏والدمار في معسكرات الأميركية عريفجان بوهرينغ بالكويت.
-00:52
 1405/06/25
 
 
@@ -1455,7 +1466,7 @@ src :@didarnews1
 
 
 src :@naya_foriraq
-‏🇺🇸نائب الرئيس الأمريكي، فانس، إلى مؤسسة نيويورك للصحافة: إيران تطلق أحيانًا النار على السفن التجارية، والولايات المتحدة غير متورطة في عمليات عدوانية.
+‏🇺🇸نائب الرئيس الأمريكي، فانس: إيران تطلق أحيانًا النار على السفن التجارية، والولايات المتحدة غير متورطة في عمليات عدوانية.
 23:15
 1405/06/24
 
@@ -1920,7 +1931,7 @@ src :@wfwitness
 
 
 src :@naya_foriraq
-‏🇺🇸الاعلام الاميركي: ‏وقالت هيئة رقابية تابعة لوزارة الدفاع الأمريكية (البنتاغون) إن الضربات الإيرانية ألحقت أضراراً بمئات المباني العسكرية والدبلوماسية الأمريكية، فضلاً عن عشرات الطائرات.
+‏🇺🇸الاعلام الاميركي: ‏قالت هيئة رقابية تابعة لوزارة الدفاع الأمريكية (البنتاغون) إن الضربات الإيرانية ألحقت أضراراً بمئات المباني العسكرية والدبلوماسية الأمريكية، فضلاً عن عشرات الطائرات.
 22:48
 1405/06/24
 
@@ -1957,6 +1968,14 @@ src :@OSINTWarfare
 
 src :@Ali_bk_2
 ‏A Yemeni attack targets Khamis Mushait in Saudi Arabia.
+22:46
+1405/06/24
+
+
+
+
+src :@Alibk3
+‏هجوم يماني يستهدف خميس مشيط في السعودية.
 22:46
 1405/06/24
 
@@ -2005,8 +2024,26 @@ src :@naya_foriraq
 
 
 
+src :@Ali_bk_2
+[عکس]
+‏A Yemeni attack also targets Abha in Saudi Arabia.
+22:44
+1405/06/24
+
+
+
+
 src :@naya_foriraq
 ‏انفجارات في ابها
+22:44
+1405/06/24
+
+
+
+
+src :@Alibk3
+[عکس]
+‏هجوم يمني يستهدف أبها في السعودية أيضاً.
 22:44
 1405/06/24
 
@@ -2023,9 +2060,25 @@ src :@GeoPWatch
 
 
 
+src :@Ali_bk_2
+‏A Yemeni attack targets Jazan in Saudi Arabia.
+22:43
+1405/06/24
+
+
+
+
 src :@naya_foriraq
 ‏انفجارات تهز السعودية
 22:43
+1405/06/24
+
+
+
+
+src :@Alibk3
+‏هجوم يمني يستهدف جيزان في السعودية.
+22:42
 1405/06/24
 
 
@@ -2113,6 +2166,14 @@ src :@MilitarryWorld
 src :@rnintel
 ‏🇾🇪🇸🇦⚡- Alerts in southwest Saudi Arabia.
 22:42
+1405/06/24
+
+
+
+
+src :@Ali_bk_2
+‏A Yemeni attack targets Jazan in Saudi Arabia.
+22:41
 1405/06/24
 
 
@@ -2366,7 +2427,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏🇺🇸الاعلام الاميركي: وتكافح القوات المدعومة من السعودية في اليمن لوقف تقدم الحوثيين، ومن غير المرجح أن تستعيد ميناء المخا الرئيسي على البحر الأحمر، والذي سيطر عليه الحوثيون الأسبوع الماضي، وفقًا لعدة تقييمات عسكرية من أوروبا الغربية.
+‏🇺🇸الاعلام الاميركي: تكافح القوات المدعومة من السعودية في اليمن لوقف تقدم الحوثيين، ومن غير المرجح أن تستعيد ميناء المخا الرئيسي على البحر الأحمر، والذي سيطر عليه الحوثيون الأسبوع الماضي، وفقًا لعدة تقييمات عسكرية من أوروبا الغربية.
 22:08
 1405/06/24
 
@@ -2628,20 +2689,6 @@ src :@Americana_ir
 ‏🔗 لینک منبع
 ‏🆔 @Americana_ir
 21:55
-1405/06/24
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏Everybody knows the Crooked Joe Biden FBI didn’t do what they should have with respect to the Lunatic who shot me in Butler, PA. By the time I got into Office, on January 20th, most of the information was missing, altered, corrupted, or gone. 
-‏
-‏New info was just found! Why wasn’t it seen long ago? This was all a Democrat Plot, to get me out of the Election, that failed. 
-‏
-‏Dirty Cop Christopher Wray should pay a price for the way he handled this assassination attempt, and certainly for the things he said. GOD BLESS AMERICA — MAKE AMERICA GREAT AGAIN!
-21:52
 1405/06/24
 
 
