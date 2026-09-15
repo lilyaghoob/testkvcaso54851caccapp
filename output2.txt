@@ -1,3 +1,16 @@
+src :@GeoPWatch
+[عکس]
+‏⚡️🇸🇦🛢 – According to TankerTrackers data, Saudi Arabia loaded 8.7 million barrels of crude oil today at its east coast terminals. 
+‏
+‏Riyadh appears to have redirected its oil output back towards the Strait of Hormuz following the destruction of the East-West Pipeline.
+‏
+‏@GeoPWatch
+03:16
+1405/06/25
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏سازمان حقوق بشری هه‌نگاو گزارش داد در آستانه چهارمین سالگرد کشته شدن مهسا ژینا امینی، حضور نیروهای نظامی و امنیتی در شهرهای کردستان، به‌ویژه سقز و سنندج، افزایش یافته است.
@@ -10,18 +23,6 @@ src :@IranintlTV
 ‏
 ‏پیام‌های رسیده به ایران‌اینترنشنال از چند شهر دیگر ایران نیز از افزایش فشار برای اعمال حجاب اجباری و حضور دوباره گشت ارشاد، حجاب‌بان‌ها و نیروهای لباس‌شخصی در خیابان‌ها حکایت دارند.
 03:06
-1405/06/25
-
-
-
-
-src :@Mena_Live
-‏Spokesperson for the coalition forces (Saudi Government): “A drone was launched by the Houthi militia and was intercepted south of the city of Makkah Al-Mukarramah.
-‏
-‏This is the second attempt to target MakkahAl Mukarramah following a previous attempt in 2017 involving the launch of a missile.”
-‏
-‏@Mena_Live
-03:04
 1405/06/25
 
 
@@ -1577,15 +1578,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 00:01
-1405/06/25
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇵🇸 Israeli Defense Minister Israel Katz confirms that the commander of Hamas’s Rafah Brigade was killed in an IDF and Shin Bet strike this evening.  Katz said the commander had been advancing attacks against Israeli troops, adding: “No terrorist is immune…
-00:00
 1405/06/25
 
 
@@ -5167,15 +5159,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 16:47
-1405/06/24
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇸🇦🤝🇪🇬— Saudi Crown Prince Mohammed bin Salman is set to travel to Cairo tomorrow for talks with Egyptian President Abdel Fattah el-Sisi.  ➡️ With tensions escalating across the region, Riyadh’s key partnerships with Pakistan, Türkiye, and the United States…
-16:44
 1405/06/24
 
 
