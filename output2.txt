@@ -1,3 +1,141 @@
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 – Additional alerts issued for Abha and Khamis Mushait, where King Khalid Airbase is located.
+‏
+‏@GeoPWatch
+22:47
+1405/06/24
+
+
+
+
+src :@intelslava
+‏🇾🇪🇾🇪❌🇸🇦 — Air raid sirens have been activated in Jazan, Abha and Khamis Mushait, southern Saudi Arabia, following ballistic missile launches by Ansar Allah.
+‏
+‏@IntelSlava
+22:46
+1405/06/24
+
+
+
+
+src :@OSINTWarfare
+‏Air raid sirens are sounding in Jazan, Abha and Khamis Mushait in southern Saudi Arabia following Ansar Allah ballistic missile launches.
+22:46
+1405/06/24
+
+
+
+
+src :@Ali_bk_2
+‏A Yemeni attack targets Khamis Mushait in Saudi Arabia.
+22:46
+1405/06/24
+
+
+
+
+src :@Alibk3
+‏هجوم يماني يستهدف خميس مشيط في السعودية.
+22:46
+1405/06/24
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏به گزارش تسنیم، محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، گفت: «آمریکا در دوران افول خود به بازیگری عصبی تبدیل شده و توان حفظ هژمونی خود را ندارد.»
+‏
+‏او افزود: «جنگ اخیر نشان داد که اولویت آمریکا نه تامین امنیت کشورهای منطقه، بلکه حفظ منافع خود و اسرائیل است؛ بنابراین امنیت وارداتی هرگز تضمین‌کننده صلح پایدار نخواهد بود.»
+‏https://iranintl.com/202609157004
+22:45
+1405/06/24
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️سفارت ایالات متحده در بیروت روز سه‌شنبه ۲۴ شهریور با انتشار تصاویری از بازدید میشل عیسی از مناطق جنوبی این کشور، بر تداوم حمایت آمریکا از دولت لبنان برای تقویت اقتدار دولتی تاکید کرد.
+‏
+‏میشل عیسی، سفیر آمریکا در این سفر میدانی برای ارزیابی شرایط، پیشرفت‌ها و چالش‌ها در «مناطق آزمایشی» حضور یافت. او با ابراز همدردی عمیق با ساکنانی که رنج آوارگی و بلاتکلیفی را تحمل کرده‌اند، وضعیت جوامع محلی را از نزدیک مشاهده کرد.
+‏
+‏بر اساس طرحی با میانجیگری ایالات متحده، قرار است اسرائیل کنترل برخی مناطق اشغالی در جنوب لبنان، موسوم به «مناطق آزمایشی» را به نیروهای مسلح لبنان واگذار کند. با این‌حال این طرح با توجه به اقدامات تحریک‌آمیز حزب‌الله و تداوم انجام عملیات از سوی اسرائیل، به‌کندی پیش می‌رود.
+‏@indypersian
+22:45
+1405/06/24
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — NOW: Alerts in Jazan Province, southwestern Saudi Arabia.
+22:44
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز خميس مشيط
+22:44
+1405/06/24
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏A Yemeni attack also targets Abha in Saudi Arabia.
+22:44
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏انفجارات في ابها
+22:44
+1405/06/24
+
+
+
+
+src :@Alibk3
+[عکس]
+‏هجوم يمني يستهدف أبها في السعودية أيضاً.
+22:44
+1405/06/24
+
+
+
+
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 – Alerts were issued in Jazan, Saudi Arabia.
+‏
+‏@GeoPWatch
+22:43
+1405/06/24
+
+
+
+
+src :@wfwitness
+‏⚡🇸🇦🇾🇪 Alert raised in Jazan, Saudi Arabia.  @wfwitness
+22:43
+1405/06/24
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇱🇵🇸 Palestinian outlets stated that three missiles struck tents of displaced people in the Al-Sumoud camp, west of Khan Younis, killing two, including an eight-year-old, with several others wounded.  Reconnaissance aircraft were reported flying intensively…
+22:43
+1405/06/24
+
+
+
+
 src :@Ali_bk_2
 ‏A Yemeni attack targets Jazan in Saudi Arabia.
 22:43
@@ -6,8 +144,54 @@ src :@Ali_bk_2
 
 
 
+src :@naya_foriraq
+‏انفجارات تهز السعودية
+22:43
+1405/06/24
+
+
+
+
+src :@wfwitness
+‏⚡🇸🇦🇾🇪 Alert raised in Jazan, Saudi Arabia.  @wfwitness
+22:43
+1405/06/24
+
+
+
+
 src :@Alibk3
 ‏هجوم يمني يستهدف جيزان في السعودية.
+22:42
+1405/06/24
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇱🇵🇸 ToI: The IDF says it struck an alleged senior member of Hamas in the southern Gaza Strip a short while ago.  @wfwitness
+22:42
+1405/06/24
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — NOW: Alerts in Jazan Province, southwestern Saudi Arabia.
+22:42
+1405/06/24
+
+
+
+
+src :@ClashReport
+‏US prosecutors allege that two Chinese companies used Binance accounts to move $61mn linked to black-market Iranian oil sales.
+‏
+‏The Justice Department says the funds passed through digital wallets connected to a broader network that handled more than $1.5bn in Iranian oil proceeds. 
+‏
+‏Prosecutors allege some of the money was intended for the Iranian government, and its agents and proxies.
+‏
+‏Source: FT
 22:42
 1405/06/24
 
@@ -39,6 +223,22 @@ src :@Shin_Persian
 
 src :@Shin_Persian
 ‏↩️ Quoted tweet: Emanuel (Mannie) Fabian ✓  @manniefabian  The IDF says it struck a senior member of Hamas in the southern Gaza Strip a short while ago.  Further details will be provided later, the army adds.  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.…
+22:42
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز السعودية
+22:42
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز السعودية
 22:42
 1405/06/24
 
@@ -1557,14 +1757,6 @@ src :@samueltarikh
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Israeli Air Force airstrike against Nabatieh al-Fawqa, southern Lebanon.
-21:07
-1405/06/24
-
-
-
-
 src :@P_raetorio
 ‏«دشمن سعودی طی شبانه روز اخیر 54 بمب علیه اهداف غیر نظامی در استان‌های تعز،الجوف،صعده و مأرب استفاده کرد.این جنایات دشمن بی پاسخ نخواهد ماند»
 ‏
@@ -1627,16 +1819,6 @@ src :@samueltarikh
 ‏
 ‏موساد و ارتش اسرائیل از طریق ارتش آمریکا،
 ‏اطلاعات بسیار گسترده حساسی از حوثی های یمن را در اختیار عربستان سعودی قرار داد.
-21:05
-1405/06/24
-
-
-
-
-src :@tabzlive
-‏🇩🇪🇺🇳⚡️ — German Chancellor Friedrich Merz has canceled his planned trip to New York for next week’s UN General Assembly, with the government saying his presence is “needed” in Berlin.
-‏
-‏Foreign Minister Johann Wadephul will represent Germany at the General Assembly instead.
 21:05
 1405/06/24
 
@@ -1951,19 +2133,6 @@ src :@Alibk3
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: The Trump administration is redirecting $52 million in U.S. military aid from Slovakia, North Macedonia, Tunisia and Iraq to Panama, Peru, Ecuador and Colombia.
-‏
-‏The State Department said the money will support efforts against drug trafficking, help secure the Panama Canal and prevent strategic rivals from gaining influence in the Western Hemisphere.
-‏
-‏Source: AP
-20:55
-1405/06/24
-
-
-
-
 src :@Ali_bk_2
 ‏Two explosions heard in the Strait of Hormuz now
 20:55
@@ -2209,18 +2378,6 @@ src :@P_raetorio
 [عکس]
 ‏نیرو‌های ویژه ارتش اسرائیل طی عملیاتی  معین العرابید، فرمانده بخش امنیت داخلی حماس درون شهر غزه ربودند و به اسرائیل بردند.  @P_raetorio
 20:41
-1405/06/24
-
-
-
-
-src :@wfwitness
-‏⚡🇱🇧🇮🇱 Artillery fire reported in Haris, southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-20:40
 1405/06/24
 
 
@@ -2484,18 +2641,6 @@ src :@didarnews1
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 An Israeli airstrike targeted the town of Mansouri in southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-20:28
-1405/06/24
-
-
-
-
 src :@MilitarryWorld
 ‏🔴عراقچی : در زمان مناسب میزان واقعی تلفات نیروهای آمریکایی را افشا می‌کنیم
 ‏ 
@@ -2688,14 +2833,6 @@ src :@Alibk3
 src :@intelslava
 [عکس]
 ‏🇺🇸🇮🇱🇸🇦❌🇮🇷 — NEW: Top military commanders from the U.S., Israel and several Arab countries met in Germany last week to discuss the war with Iran and wider regional tensions, two Israeli officials told Axios. The private retreat was organized by CENTCOM commander Adm. Brad Cooper and was not announced by any of the participating countries.
-20:15
-1405/06/24
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli jets over southern Lebanon.  @wfwitness
 20:15
 1405/06/24
 
@@ -3125,17 +3262,6 @@ src :@mamlekate
 
 
 
-src :@intelslava
-[عکس]
-‏🇾🇪❌🇸🇦 — Oil storage tanks ablaze after a claimed Houthi missile strike on the Aramco Abha Bulk Plant north of Abha, Saudi Arabia.
-‏
-‏18.485593, 42.505660
-19:54
-1405/06/24
-
-
-
-
 src :@didarnews1
 ‏🔴عربستان سعودی به مشتریان اروپایی خود اعلام کرده که برخی محموله‌های نفت خامِ اواخر سپتامبر لغو خواهند شد؛ این اتفاق پس از آن رخ می‌دهد که حملهٔ هفتهٔ گذشته موجب تعطیلی خط لولهٔ شرق–غرب عربستان شد.
 ‏
@@ -3228,42 +3354,6 @@ src :@rnintel
 [عکس]
 ‏🇾🇪🇸🇦⚡- Several Saudi / Yemeni airstrikes struck al-Ma'Kashah in the Hayfan area of southeast Ta'izz, Ansarullah-controlled southern Yemen.
 19:45
-1405/06/24
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Qatar's LNG exports plunge by around 90% in a single quarter, from nearly 20 million tons to less than 2 million tons between April and June 2026.
-19:44
-1405/06/24
-
-
-
-
-src :@Alibk3
-[عکس]
-‏صادرات قطر من الغاز الطبيعي المسال تنهار بنحو 90% خلال ربع واحد، من قرابة 20 مليون طن إلى أقل من مليوني طن بين أبريل ويونيو 2026.
-19:44
-1405/06/24
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏یک شب مانده به چهارمین سالگرد قتل حکومتی مهسا ژینا امینی، گزارش‌هایی دربارهٔ بازگشت گشت ارشاد و نیروهای لباس‌شخصی منتشر شده است.
-‏خیابان شهر شما چه شکلی است؟
-‏شهر را قرق کرده‌اند؟
-‏امشب در «برنامه»، تصویر خیابان را از زبان خود مردم می‌شنویم. 
-‏با حفظ امنیت خود، مشاهداتتان را در برنامه بگویید.
-‏روایت شما تصویر واقعی خیابان‌های ایران را کامل می‌کند.
-‏«برنامه» صدای شماست. ما شما را بدون نوبت و مستقیم از ایران روی خط می‌آوریم. بیایید و روایت خود را برای همیشه ثبت کنید. تاریخ با صدای شما نوشته می‌شود.
-‏برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:
-‏۰۰۴۴۷۵۲۲۱۱۰۱۱۰ ۰۰۴۴۷۵۴۴۱۱۰۱۱۰ ۰۰۴۴۷۵۱۱۱۰۲۵۵۳
-‏«برنامه با کامبیز حسینی» «یک ایران صدای شما را می‌شنود»
-19:42
 1405/06/24
 
 
@@ -3524,24 +3614,6 @@ src :@naya_foriraq
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Air traffic in Jeddah, Saudi Arabia, is disrupted following a Yemeni attack now.
-19:08
-1405/06/24
-
-
-
-
-src :@Alibk3
-[عکس]
-‏تعطل الملاحة الجوية في جدة السعودية جراء هجوم يمني الآن.
-19:08
-1405/06/24
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏درباره خبری که تسنیم با شرح حمله به قایق‌های صیادی منتشر کرده بود:
@@ -3614,14 +3686,6 @@ src :@Parvazdaroj
 
 
 
-src :@naya_foriraq
-‏🇮🇷بحرية حرس الثورة الإسلامية: نعلن بشكل قاطع أن مضيق هرمز مغلق وتحت سيطرتنا الاستخباراتية، وأن أي سفن تدخل طرقاً غير آمنة ستتعرض لحوادث.
-19:03
-1405/06/24
-
-
-
-
 src :@MilitarryWorld
 ‏🔴اسکات بسنت، وزیر خزانه‌داری آمریکا:
 ‏
@@ -3660,25 +3724,6 @@ src :@guard_warriors
 ‏این پهپادها قادرند بیش از 30 ساعت در هوا بمانند، در ارتفاعی حدود 18 کیلومتر پرواز کنند و با استفاده از یک مجموعه قدرتمند از حسگرها، در مسافت‌های هزاران کیلومتری به شناسایی بپردازند.
 ‏@artemis_force
 19:01
-1405/06/24
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷وسائل اعلام ايرانية: انتخاب إيران لعضوية اللجنة العامة للمؤتمر العام السبعين للوكالة الدولية للطاقة الذرية في اقتراع سري.
-19:01
-1405/06/24
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇷🇮🇶محمد باقر قاليباف لبافل طالباني:
-‏
-‏خلال حرب الأربعين يوماً كانت لدى الأمريكيين أطماع بشن عمليات أمنية وعسكرية ضد إيران انطلاقاً من إقليم كردستان العراق لكن بفضل مساعدة اصدقائنا في الإقليم والاستجابة السريعة للقوات المسلحة الإيرانية، تم إحباط هذه المؤامرة المعادية. يسعى الأمريكيون والكيان الصهيوني باستمرار لبذر بذور الفرقة بين الجيران - ولا سيما بين إيران والعراق - خاصة في ظل الظروف الراهنة، وبعد أن أُجبروا على الانسحاب من الأراضي والأجواء العراقية
-19:00
 1405/06/24
 
 
@@ -3841,14 +3886,6 @@ src :@Artemis_Force
 
 
 
-src :@naya_foriraq
-‏🇮🇷مصدر للتلفزيون الايراني: مقاطع الفيديو المتداولة للطيار الامريكي المزعوم مفبركة، أن هذه الصور ليست سوى إنتاج هوليوودي وجزء من عملية نفسية تقوم بها الولايات المتحدة للتغطية على الهزيمة الثقيلة التي مني بها جيشها في توغله في جنوب أصفهان. وفقًا للتحليلات الفنية، من المستحيل علميًا أن ينجو الطيار من السقوط الحر على ارتفاع شاهق وبسرعة 160 كيلومترًا في الساعة.
-18:34
-1405/06/24
-
-
-
-
 src :@Indypersian
 ‏⭕️جهش ۱۰۳ درصدی قیمت دارو؛ دولت پایان دوره «داروی ارزان» را اعلام کرد
 ‏
@@ -3977,14 +4014,6 @@ src :@MilitarryWorld
 
 src :@rnintel
 ‏🇾🇪🇮🇶🇸🇦⚡️- BREAKING: Damages to Saudi Arabia's East-West Pipeline will take more than a month to repair, sources tell Marhelm Data.
-18:26
-1405/06/24
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶رئيس الوزراء العراقي: التحقيقات بشأن استهداف السعودية قيد التحقيق وتحليل النتائج.
 18:26
 1405/06/24
 
@@ -4134,18 +4163,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:09
-1405/06/24
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️بر اساس گزارش بازرس کل وزارت جنگ آمریکا به کنگره که روز دوشنبه ارائه شد، هزینه جنگ با ایران به ۳۳.۴ میلیارد دلار افزایش یافته که ۲۲.۳ میلیارد دلار آن مربوط به هزینه‌های تسلیحاتی بوده است. این گزارش همچنین از «کمبودهای راهبردی در ذخایر و گلوگاه‌های پایگاه صنعتی» در جریان عملیات «خشم حماسی» خبر می‌دهد.
-‏
-‏پنتاگون در این گزارش و جزئیات ارائه‌شده تایید کرد که در جریان درگیری‌ها، چهار جنگنده اف-۱۵، یک جنگنده ای-۱۰، دو هواپیمای عملیات ویژه ام‌سی-۱۳۰جی، حدود ۲۴ تا ۳۰ پهپاد ام‌کیو-۹ ریپر و یک پهپاد ام‌کیو-۴سی منهدم شده و به تجهیزاتی نظیر جنگنده اف-۳۵، هواپیماهای سوخت‌رسان کی‌سی-۱۳۵ و آواکس ای-۳ آسیب رسیده است. این اطلاعات پیش‌تر در گزارش اردیبهشت ماه پنتاگون به کنگره نیز ذکر شده بودند. همچنین بر اساس این گزارش، حملات جمهوری اسلامی ایران به پایگاه‌های آمریکایی در کویت، بحرین، قطر، امارات، عربستان، عراق، عمان و اردن موجب آسیب به صدها ساختمان شد.
-‏@indypersian
-18:03
 1405/06/24
 
 
@@ -6611,34 +6628,10 @@ src :@Minas_Tirith2024
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸 – Iran claimed it shot down another USAF MQ-1 drone over the Strait of Hormuz.
-‏
-‏@GeoPWatch
-07:26
-1405/06/24
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏down a U.S. Army MQ-1C Gray Eagle unmanned combat aerial vehicle (UCAV) over the western part of the Strait of Hormuz early this morning.
 07:24
-1405/06/24
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇾🇪❌🇸🇦 – The recent Houthi missile wave appears to have scored a direct hit on an ARAMCO refinery in Yanbu.
-‏
-‏NASA FIRMS detected two fires around two hours ago, each emitting around 40MW of Fire Radiative Power (FRP)—for reference, a normal FRP value seats between 5-10.
-‏
-‏@GeoPWatch
-06:08
 1405/06/24
 
 
