@@ -1,3 +1,87 @@
+src :@Ali_bk_2
+[عکس]
+‏Air traffic has stopped at Taif Airport, east of Mecca.
+13:21
+1405/06/24
+
+
+
+
+src :@Alibk3
+[عکس]
+‏توقف حركة الطيران في مطار الطائف، شرقي مكة المكرمة
+13:21
+1405/06/24
+
+
+
+
+src :@guard_warriors
+[عکس]
+‏✪ آلمان قصد دارد 3.4 میلیارد یورو را برای خرید موشک‌های کروز آمریکایی "تاماهاوک " و سیستم‌های پرتاب متحرک "تایفون" اختصاص دهد.
+‏
+‏@Guard_Warriors | DmW
+13:20
+1405/06/24
+
+
+
+
+src :@ClashReport
+‏Oil tanker El Gaia being towed into Omani port after being hit near Hormuz.
+‏
+‏CENTCOM said yesterday Iran hit it with a missile last month then a drone this weekend. 
+‏
+‏Iran says it struck naval mines in a restricted zone. 
+‏
+‏Oman and India confirming an attack and fire; one Indian crew member still missing. 
+‏
+‏The tanker had its AIS off for days before the incident.
+13:19
+1405/06/24
+
+
+
+
+src :@DEJradio
+[عکس]
+‏🚨🔸 حکومت برای جبران کمبود نیروهای امنیتی، از مسیر سـ.ـپاه و بسیــج اقدام به برگزاری دوره آموزش نظامی و امدادی برای یگان‌های «جانفدا» کرده است. 
+‏
+‏بر اساس گزارش‌های دریافتی در مراحل ابتدایی داوطلبانی که از نظر جسمی و فیزیکی از آمادگی نسبی برخوردار باشند در کلاس‌های تیراندازی و کمک‌های اولیه شرکت می‌کنند. 
+‏
+‏منابع داخلی گزارش دادند شماری از باشگاه‌های رزمی به صورت گروهی اعضای خود را در این کلاس‌ها ثبت نام کرده‌اند. دوره‌ها برای زنان و مردان در پایگاه‌های بسیج، مساجد و برخی مدارس برگزار می‌شود.
+‏
+‏به‌عنوان نمونه، در اردبیل برای زنان عضو باشگاه رزمی «ستارگان سبلان» دوره فراگیری تیراندازی با سلاح کلاشنیکف برگزار شده است.
+‏رسانه‌های حکومتی اعلام کردند که نیروهای مسلح قصد فعال‌سازی هزار گردان مقاومت دارند. همین رسانه‌ها تبلیغ می‌کنند که بسیاری از داوطلبان زنان هستند.
+‏
+‏#آموزش_نظامی #جنگ #جانفدا #IRGCterrorists
+‏@DEJradio
+13:17
+1405/06/24
+
+
+
+
+src :@ClashReport
+‏First-ever live emergency alert sent to Mecca.
+‏
+‏Saudi Civil Defense warned residents of "potential danger," told them to shelter indoors away from windows, then gave the all-clear eight minutes later. 
+‏
+‏Same alerts went to Jeddah, Taif, Yanbu, Abha, Jazan, and AlUla.
+13:17
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏🔻مركز الأمن البحري العماني: سحب ناقلة النفط "إلجايا" لأحد الموانئ العمانية عقب تعرضها لإصابة بمقذوف مجهول.
+13:17
+1405/06/24
+
+
+
+
 src :@mohem_mat
 ‏داستان خلبان آمریکایی که با اون سرعت بدون چتر نجات سفوط کرده و زنده مونده، یا خالی‌بندیه یا تو چنگ ۴۰ روزه خدا با اونا بوده نه با ما.
 ‏
@@ -351,7 +435,7 @@ src :@Parvazdaroj
 
 src :@P_raetorio
 ‏#فوری
-‏فعلا شدن آژیر حمله موشکی از مبدا یمن بر فراز شهر مکه
+‏فعال شدن آژیر حمله موشکی از مبدا یمن بر فراز شهر مکه
 ‏
 ‏@P_raetorio
 12:58
@@ -2155,23 +2239,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏U.S. oil executives warn that the global fuel crisis has arrived as inventories fall, strategic reserves run low and attacks disrupt Middle Eastern energy infrastructure.
-‏
-‏Chevron CEO Mike Wirth said the buffers that had protected the market “have largely now played out,” adding: “I wish I could tell you that I saw some reason why things would ease, but it’s difficult right now to see that happen.”
-‏
-‏U.S. crude has jumped 19% in three weeks to around $101 a barrel, while diesel hit a record $6.23 a gallon and gasoline rose to $4.32.
-‏
-‏The Trump administration insists the disruption is temporary.
-‏
-‏Source: WSJ
-11:13
-1405/06/24
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴خلبان آمریکایی از کدام نقطه ایران فرار کرد؟!
@@ -2187,21 +2254,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 11:12
-1405/06/24
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Putin moved Russia’s annual Valdai foreign policy conference from Sochi to the Moscow area over security concerns about Ukrainian drone strikes, according to people familiar with the decision.
-‏
-‏The change was reportedly made at the insistence of Putin’s security service after Ukraine intensified long-range attacks on targets around the Black Sea. 
-‏
-‏Putin has not visited Sochi since October 2025 and has increasingly avoided Russian cities within range of Ukrainian drones.
-‏
-‏Source: FT
-11:11
 1405/06/24
 
 
@@ -2832,14 +2884,6 @@ src :@Shin_Persian
 
 src :@naya_foriraq
 ‏رشقة صاروخية نحو خميس مشيط
-10:34
-1405/06/24
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
 10:34
 1405/06/24
 
@@ -3923,24 +3967,6 @@ src :@Middle_East_Spectator
 src :@tabzlive
 ‏🇸🇦⚡️ — All clear in Yanbu, Taif, and Jeddah Governorates, KSA.
 05:41
-1405/06/24
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏The Saudi Civil Defense announces that the danger has passed after the missiles reached their targets.
-05:40
-1405/06/24
-
-
-
-
-src :@Alibk3
-[عکس]
-‏الدفاع المدني السعودي يعلن زوال الخطر، بعد أن وصلت الصواريخ أهدافها.
-05:40
 1405/06/24
 
 
@@ -6143,20 +6169,6 @@ src :@USAMRYDATA
 
 
 
-src :@DEJradio
-[عکس]
-‏🔺🇺🇸ترامپ: جمهوری اسلامی با عجله خواهان توافق است؛ تصمیم نهایی با من خواهد بود
-‏دونالد ترامپ، رئیس‌جمهوری آمریکا، اعلام کرد جمهوری اسلامی به‌شدت و با عجله خواهان دستیابی به توافق با ایالات متحده است.
-‏ترامپ روز دوشنبه با انتشار پیامی در تروث‌سوشال نوشت: «ایرانِ در حال شکست می‌خواهد خیلی سریع و به‌شدت به توافق برسد.»
-‏رئیس‌جمهوری آمریکا افزود شخصاً تصمیم خواهد گرفت که آیا ایالات متحده وارد تعامل با جمهوری اسلامی شود یا نه؛ با این حال تأکید کرد واشینگتن در اصل، آمادۀ بررسی چنین تعاملی است.
-‏#ترامپ #توافق
-‏@DEJradio
-19:48
-1405/06/23
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏دونالد ترامپ، رییس‌جمهور ایالات متحده، با اشاره به تمایل جمهوری اسلامی برای رسیدن به توافق گفت واشنگتن درباره ورود به مذاکرات با تهران «دیدگاه بازی» دارد و او در این‌باره تصمیم خواهد گرفت.
@@ -7289,18 +7301,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@guard_warriors
-[عکس]
-‏البته که ما هم یک فروند یاک ١٣٠ در اطراف پایتخت سقوط کرد ( توسط اف ٣۵ مورد حمله قرار گرفت)، و نه خبری از رسکیو بود نه تیم های نجات واحد های دیگر، و مستند ساز و عرضم به خدمت شما مجری تلویزیون جواد قارایی خلبان یاک ١٣٠ را پیدا کرد عملا، البته خلبان احتمال زیاد می‌توانست با نزدیک ترین جاده و خطوط ارتباطی و تلفن هم میهن ها اسنپ یا تاکسی را هم تهیه کند
-‏
-‏
-‏@artemis_force
-15:16
-1405/06/23
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏در رابطه با ماجرا سقوط اف ١۵ در اصفهان!، ماجرا اصفهان حتی از زبان همین براوو نیز غیر قابل باور بنظر می‌رسید، و زیادی صحبتش درباره شخص خودش غیر قابل باور بنظر میرسد! که حقیقتا از هر منظری نگاه کنیم ماجرا قهرمان بودن خودش رو نمی‌توان پذیرفت!  اما نکات قابل توجه…
@@ -7565,14 +7565,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 13:31
-1405/06/23
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran denies US reports claiming Tehran was involved in attack on Saudi oil pipeline.
-‏
-‏@BRICSNews
-13:16
 1405/06/23
