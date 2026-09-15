@@ -2472,17 +2472,6 @@ src :@P_raetorio
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️صفحه اینستاگرام رستوران «دستپخت بی بی» در تهران، پس از انتشار نوشته‌ای در روایتگر با عنوان «هیچی کتلت بی بی نمیشه» به‌همراه ترانه «بی بی گل» از معین، با دستور قضایی به اتهام «انتشار محتوای مجرمانه» مسدود شد. این درحالی اتفاق افتاد که پیش از این نیز، نواب ابراهیمی، آشپز، در پی انتشار دستور پخت کتلت در اینستاگرام همزمان با سالگرد کشته‌شدن قاسم سلیمانی، فرمانده سابق سپاه قدس، در سال ۱۴۰۱ بازداشت شده بود.
-‏
-‏@indypersian
-01:09
-1405/06/24
-
-
-
-
 src :@samueltarikh
 ‏به جای روزی دو ساعت خبر خوندن، پنج دقیقه کانال شریف رو بخون هر خبری لازمه بدونی اینجا هست:
 ‏
@@ -7784,19 +7773,6 @@ src :@warmonitors
 ‏
 ‏The latest jet-powered Geran variants are faster, carry larger warheads and incorporate improved targeting, communications and resistance to electronic warfare. Russia’s adaptation of the Iranian design has become so extensive that CSIS recently concluded that Russia has effectively mastered the platform through continuous battlefield-driven development
 09:26
-1405/06/23
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇷🇺 Russia's Dmitry Medvedev says companies are not afraid of AI destroying humanity due to "corporate greed."
-‏
-‏"The creators of various sorts of generative AI are not being sincere."
-‏
-‏@BRICSNews
-09:04
 1405/06/23
 
 
