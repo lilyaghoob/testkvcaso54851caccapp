@@ -1,3 +1,11 @@
+src :@naya_foriraq
+‏وزارة العدل الايرانية: سيتم نقل 49 مواطنًا إيرانيًا مسجونين في سجون العراق اليوم عبر الحدود البرية في مهران إلى البلاد
+14:36
+1405/06/24
+
+
+
+
 src :@mamlekate
 ‏📝 آمریکا: میلیون‌ها دلار درآمد نفتی جمهوری اسلامی در بایننس پول‌شویی شده است
 ‏
@@ -173,6 +181,8 @@ src :@WAR_ROOM_NEWS
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇾🇪/🇮🇷 NEW: An image allegedly shows the former commander of Hezbollah’s ‘Ridwan Force’, Haytham Ali Tabatabaei (Abu Ali), fighting alongside Ansarallah on the Yemeni coast around 2015-2016
+‏
+‏He also served as Hezbollah’s last publicly known Chief of Staff before being assassinated by Israel in 2025.
 ‏
 ‏@Middle_East_Spectator
 14:26
@@ -3637,14 +3647,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏رشقة صاروخية نحو خميس مشيط
-10:34
-1405/06/24
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -4334,14 +4336,6 @@ src :@OSINTWarfare
 
 
 
-src :@tabzlive
-‏🇸🇦❌🇾🇪 — Royal Saudi Air Force airstrikes against Dimnat Khadir district, southeast of Ta'izz city, Ansarallah-controlled southwestern Yemen.
-05:49
-1405/06/24
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇸🇦/🇾🇪 Where missile alerts were activated in Saudi Arabia tonight
@@ -4358,14 +4352,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 05:47
-1405/06/24
-
-
-
-
-src :@tabzlive
-‏🇸🇦⚡️ — All clear in Yanbu, Taif, and Jeddah Governorates, KSA.
-05:43
 1405/06/24
 
 
@@ -4422,14 +4408,6 @@ src :@Shin_Persian
 src :@Middle_East_Spectator
 ‏🇸🇦⚡️ — All clear in Yanbu, Taif, and Jeddah Governorates, KSA.
 05:42
-1405/06/24
-
-
-
-
-src :@tabzlive
-‏🇸🇦⚡️ — All clear in Yanbu, Taif, and Jeddah Governorates, KSA.
-05:41
 1405/06/24
 
 
@@ -6820,23 +6798,6 @@ src :@rus_cosmos
 ‏مهندسی صنایع | مدیریت | مهندسی هوافضا
 ‏
 ‏📌کافیه تو هر کدوم از دپارتمان ها که مربوط به رشته خودتون هست یه سرچ بزنید، همه منابع و دوره ها رو در اختیار دارید
-18:04
-1405/06/23
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏سیروان حبیبی، شهروند اهل سنندج و عضو حزب حیات آزاد کردستان «پژاک»، در شهر کامیاران توسط نیروهای وزارت اطلاعات بازداشت و به مکانی نامعلوم منتقل شده است.
-‏به گزارش شبکه حقوق بشر کردستان، نیروهای وزارت اطلاعات شامگاه ۱۷ شهریور شهرک بعثت کامیاران را محاصره کردند و بامداد روز بعد، هنگام تردد حبیبی با موتورسیکلت، او را تعقیب کردند. در جریان این تعقیب، خودروی ماموران با موتورسیکلت او برخورد کرد و حبیبی با خشونت بازداشت شد.
-‏پژاک نیز روز ۲۳ شهریور در بیانیه‌ای اعلام کرد که حبیبی هنگام انجام یک ماموریت تشکیلاتی و در حالی که سلاحی همراه نداشته، بازداشت شده است.
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/157586
-‏
-‏
-‏@Farsi_Iranwire
 18:04
 1405/06/23
 
