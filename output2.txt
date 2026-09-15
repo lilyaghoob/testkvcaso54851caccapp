@@ -1,5 +1,5 @@
 src :@Ali_bk_2
-‏Drone attack targeting Saudi Arabia
+‏Saudi Arabia claims it intercepted a drone that was heading toward Mecca.
 02:53
 1405/06/25
 
@@ -7,7 +7,15 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏هجوم بالمسيّرات نحو السعودية
+‏السعودية تزعم اعتراض مسيرة كانت متجهة إلى مكة المكرمة.
+02:52
+1405/06/25
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦ضمن سياسة تحريك مشاعر التكفيريين.. السعودية تزعم: إعتراض مسيرة كانت تستهدف مكة المكرمة.
 02:52
 1405/06/25
 
@@ -614,17 +622,6 @@ src :@Minas_Tirith2024
 src :@rnintel
 ‏🇮🇷🇮🇱⚡- BREAKING: Israeli jets carried out multiple simulation runs on Iran throughout today, even breaking into Iranian northwestern airspace at times.
 01:29
-1405/06/25
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏خبر فوری 
-‏
-‏جنگنده‌های اسرائیلی امروز در طول روز چندین پرواز شبیه‌سازی‌شده بر فراز مناطق مرتبط با ایران انجام دادند و در برخی مواقع حتی وارد حریم هوایی شمال‌غرب ایران شدند.
-01:28
 1405/06/25
 
 
@@ -2625,14 +2622,6 @@ src :@MilitarryWorld
 src :@naya_foriraq
 ‏انفجارات تهز السعودية
 22:41
-1405/06/24
-
-
-
-
-src :@naya_foriraq
-‏🇾🇪‏مجلس الأمن يعقد جلسة طارئة لمناقشة التطورات في باب المندب.
-22:40
 1405/06/24
 
 
