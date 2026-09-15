@@ -1,4 +1,92 @@
 src :@Ali_bk_2
+‏A Yemeni attack targets Yanbu in Saudi Arabia.
+05:12
+1405/06/24
+
+
+
+
+src :@Alibk3
+‏هجوم يمني يستهدف ينبع في السعودية.
+05:12
+1405/06/24
+
+
+
+
+src :@Ali_bk_2
+‏A booming sound was heard in the Yemeni capital, Sanaa, just now.
+05:11
+1405/06/24
+
+
+
+
+src :@Alibk3
+‏سماع دوي في العاصمة اليمنية صنعاء الآن.
+05:11
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏هجوم صاروخي يستهدف ينبع في السعودية
+05:11
+1405/06/24
+
+
+
+
+src :@Ali_bk_2
+‏A Yemeni attack targets Yanbu in Saudi Arabia.
+05:10
+1405/06/24
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Emergency warning · Saudi Arabia
+‏Source: @SaudiDCD
+‏
+‏[Via FromIran]
+‏https://fromiran.sh1n.org/incidents/XC430W0pszuDr1aKUHYpOTND
+‏
+‏ترجمه خودکار فارسی
+‏
+‏هشدار اضطراری · عربستان سعودی
+‏منبع: @SaudiDCD
+‏
+‏[از طریق FromIran]
+‏https://fromiran.sh1n.org/incidents/XC430W0pszuDr1aKUHYpOTND
+‏
+‏𝕏  ·  @shin_persian
+05:10
+1405/06/24
+
+
+
+
+src :@Alibk3
+‏هجوم يمني يستهدف ينبع في السعودية.
+05:10
+1405/06/24
+
+
+
+
+src :@naya_foriraq
+‏عدوان سعودي على العاصمة اليمنية صنعاء
+05:07
+1405/06/24
+
+
+
+
+src :@Ali_bk_2
 ‏A booming sound was heard in the Yemeni capital, Sanaa, just now.
 05:07
 1405/06/24
@@ -7,7 +95,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏سماع دوي في العاصمة اليمنية صنعاء الآن
+‏سماع دوي في العاصمة اليمنية صنعاء الآن.
 05:07
 1405/06/24
 
@@ -1290,32 +1378,6 @@ src :@IranintlTV
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏The Pentagon:
-‏
-‏‏$22.3 billion for munitions expended, $7.4 billion for cumulative commitments, and $3.7 billion for equipment losses, but they do not include infrastructure repairs.
-‏
-‏‏More than 50 aircraft have been damaged or destroyed so far.
-01:21
-1405/06/24
-
-
-
-
-src :@Alibk3
-[عکس]
-‏البنتاغون:
-‏
-‏‏22.3 مليار دولار للذخائر المستهلكة، و7.4 مليار دولار للالتزامات التراكمية، و3.7 مليار دولار لخسائر المعدات، لكنها لا تشمل إصلاحات البنية التحتية.
-‏
-‏‏أكثر من 50 طائرة تضررت أو دُمرت حتى الآن.
-01:21
-1405/06/24
-
-
-
-
 src :@naya_foriraq
 ‏🔻‏تم إقلاع طائرات حربية تابعة لحلف الناتو في ليتوانيا بسبب احتمال وجود طائرة مسيرة بالقرب من فيلنيوس.
 01:20
@@ -2373,14 +2435,6 @@ src :@ClashReport
 
 
 
-src :@naya_foriraq
-‏الحرس الثوري يمارس هوايته باستهداف السفن الأمريكية في خليج فارس
-23:39
-1405/06/23
-
-
-
-
 src :@Artemis_Force
 ‏تصویری از ناو بوشهر در تاریخ ۱۵ اسفند هنگام تخلیه پرسنل ناو در اقیانوس هند   ناو بوشهر ،بعد از تهدیدات مطرح شده ( زیر دریایی )،اقدام به تخلیه پرسنل خود کرده است و پرسنل ناو نیز بعد از سوار شدن قایق های نجات راهی آب های آزاد شدن تا از حملات غافلگیر کننده ایالات…
 23:39
@@ -2422,14 +2476,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 23:39
-1405/06/23
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷 مدير العلاقات العامة في مطارات محافظة خراسان الرضوية: رحلة شركة "سبهران" المتجهة من مشهد إلى كرمانشاه عادت إلى مطار مشهد بعد إقلاعها، بسبب عطل فني في محرك الطائرة، ونفذت هبوطًا اضطراريًا.
-23:38
 1405/06/23
 
 
