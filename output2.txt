@@ -1,3 +1,13 @@
+src :@bricsnews
+‏JUST IN: 🇸🇦🇾🇪 Saudi Arabia says it intercepted a Yemeni Houthi drone entering Mecca's airspace.
+‏
+‏@BRICSNews
+03:23
+1405/06/25
+
+
+
+
 src :@tabzlive
 ‏🇸🇦❌🇾🇪 — The Royal Saudi Air Defense Forces intercepted and destroyed a Houthi-launched drone south of Mecca at approximately 6:50 p.m. on Tuesday, before it entered the city’s prohibited airspace.
 ‏
@@ -7030,16 +7040,6 @@ src :@OSINTWarfare
 
 
 
-src :@bricsnews
-‏JUST IN: 🇰🇵🇷🇺 Supreme Leader Kim Jong Un says North Korea is strengthening its alliance with Russia.
-‏
-‏@BRICSNews
-04:05
-1405/06/24
-
-
-
-
 src :@warmonitors
 ‏Food delivery apps are a responsible for so much of what’s wrong in our societies, especially in the west.
 ‏
@@ -7064,15 +7064,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 03:27
-1405/06/24
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Ukrainian attack drones struck the Syzran Oil Refinery in Russia’s Samara Region tonight.
-‏
-‏So, no energy ceasefire?
-03:23
 1405/06/24
