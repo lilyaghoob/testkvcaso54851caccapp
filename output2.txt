@@ -1,6 +1,27 @@
+src :@mohem_mat
+‏داستان خلبان آمریکایی که با اون سرعت بدون چتر نجات سفوط کرده و زنده مونده، یا خالی‌بندیه یا تو چنگ ۴۰ روزه خدا با اونا بوده نه با ما.
+‏
+‏پشه خسته (@Tiredgnat)
+‏
+‏@mohem_mat
+13:14
+1405/06/24
+
+
+
+
+src :@intelslava
+‏🇺🇸🇸🇦🇾🇪⚡️ — Washington has so far resisted Saudi requests for direct military intervention against the Houthis, limiting support to intelligence, three sources told Reuters.
+13:13
+1405/06/24
+
+
+
+
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ منابع نظامی یمن: چهار کارشناس سپاه قدس و حزب‌الله در مرکز فرماندهی حوثی‌ها کشته شدند
+‏
 ‏منابع نظامی یمن از کشته‌شدن چهار کارشناس نظامی ایرانی و لبنانی در حمله به یک مرکز فرماندهی حوثی‌ها در استان الجوف، در شمال شرق یمن، خبر دادند.
 ‏به گزارش العربیه و الحدث، این منابع اعلام کردند افراد کشته‌شده وابسته به نیروی قدس سپاه پاسداران و حزب‌الله لبنان بودند و هنگام هدف قرار گرفتن مرکز فرماندهی، در محل حضور داشتند. 
 ‏بر اساس گزارش‌های منتشرشده به نقل از منابع نظامی، مرکز هدف‌گرفته‌شده برای مدیریت و هماهنگی عملیات حوثی‌ها در جبهه‌های الجوف استفاده می‌شد و کارشناسان ایرانی و لبنانی در زمینه پشتیبانی فنی و مشاوره نظامی به این گروه کمک می‌کردند.
@@ -2519,14 +2540,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-‏Iran's IRGC says it intercepted and destroyed a fourth MQ-1 drone in four days east of the Strait of Hormuz using a new air defense system.
-10:52
-1405/06/24
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻یاسر آسانی، ستاره آلبانیایی استقلال، پس از درخشش چشمگیر در پیروزی ۳ بر صفر تیمش مقابل السد قطر، با انتشار پستی در اینستاگرام نوشت: «این تازه شروع است؛ این همان تیمی است که باید باشیم. همه با هم تا آخر». 
@@ -2762,29 +2775,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith204
 10:37
-1405/06/24
-
-
-
-
-src :@ClashReport
-[عکس]
-‏BIG: US just confirmed it has weapons in orbit for the first time ever. 
-‏
-‏Air Force Secretary Meink: 
-‏
-‏The United States now has on-orbit space control weapons capable of defending the joint force against hostile adversary action.
-‏
-‏Refused to say what kind, how many, or when they were launched. 
-‏
-‏Space Force says they can be used for "disruption, degradation and even destruction" offensively or defensively. 
-‏
-‏Experts think space-based jammers or electronic warfare is most likely — kinetic weapons create debris problems. 
-‏
-‏This ends decades of official ambiguity. 
-‏
-‏The first Space Force painting literally depicts a spaceplane killing a hostile satellite.
-10:36
 1405/06/24
 
 
@@ -4402,15 +4392,6 @@ src :@cataphract1
 [عکس]
 ‏⚜️تصویری از بالگرد استلث لیتل برد(نسخه پنهانکار لیتل برد) در مقایسه با MH-6 لیتل برد، استلث لیتل برد بدنه ای کشیده تر با زوایای تیزتر برای کاهش مقطع راداری دارد و علاوه بر آن نیز از پنهانکاری حرارتی بهره می برد.  ⚜️ ژنرال دن کین در برنامه 60 Minutes اعلام…
 01:43
-1405/06/24
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇾🇪❌🇸🇦 — Alerts sounded in Khamis Mushait and Abha, Saudi Arabia.
-01:36
 1405/06/24
 
 
@@ -7593,14 +7574,5 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran denies US reports claiming Tehran was involved in attack on Saudi oil pipeline.
 ‏
 ‏@BRICSNews
-13:16
-1405/06/23
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏هشدار نهاد مدیریت آبراه خلیج‌فارس به بیمه لویدز لندن: اگر با شناورهای متخلف کار کنید براتون خیلی بد میشه
 13:16
 1405/06/23
