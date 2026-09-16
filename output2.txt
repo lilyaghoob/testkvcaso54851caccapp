@@ -1,5 +1,53 @@
 src :@IranintlTV
 [عکس]
+‏سازمان حقوق بشری هانا گزارش داد: «دقایقی پیش، در نخستین ساعات بامداد چهارشنبه، اردوگاه حزب کومله کردستان ایران در زرگویزله، در اقلیم کردستان عراق، هدف حمله پهپادی قرار گرفت.»
+‏
+‏هانا بر اساس اطلاعات دریافتی نوشت: «پهپاد مهاجم از سمت کرمانشاه به سوی این اردوگاه پرتاب شده است.»
+‏
+‏بر اساس این گزارش، این حمله پهپادی در شرایطی انجام شد که دو روز پیش نیز اردوگاه‌های این حزب در همین منطقه هدف حملات موشکی قرار گرفته بودند.
+‏
+‏هانا نوشت جزییات خسارت‌ها و تلفات احتمالی این حمله هنوز مشخص نیست.
+‏
+‏https://iranintl.com/202609163095
+05:26
+1405/06/25
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸🇮🇷مسؤولين أمريكيين وإقليميين مطلعين: 
+‏القوات الأمريكية أطلقت ما بين 60 و70 صاروخًا اعتراضية من طراز MIM-104 Patriot، وأكثر من 12 صاروخًا اعتراضية من طراز THAAD، لمواجهة الهجوم الصاروخي الباليستي الإيراني الذي وقع الأسبوع الماضي ضد القواعد الأمريكية في الأردن، والذي تضمن حوالي 20 صاروخًا باليستيًا.
+05:25
+1405/06/25
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Ansar Allah has released a 26-minute video documenting clashes with Emergency Forces and National Shield Forces in eastern Al-Jawf, showing their forces destroying multiple vehicles and pieces of equipment.
+05:24
+1405/06/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — WSJ, citing U.S. and regional officials familiar with the matter, reports that U.S. forces fired 60-70 MIM-104 Patriot interceptors and over 12 THAAD interceptors to counter last week's Iranian ballistic missile attack against U.S. bases in Jordan consisting of around 20 ballistic missiles. 
+‏
+‏The heavy use of air defense interceptors to counter a single attack is about the amount that would've been used in a full week earlier in the war, according to one of the officials.
+‏
+‏Officials to WSJ also acknowledged Iranian use of cluster munitions and that some ballistics got past air defenses, striking aircraft including fighter jets at Muwaffaq Salti AB.
+05:22
+1405/06/25
+
+
+
+
+src :@IranintlTV
+[عکس]
 ‏روزنامه وال‌استریت‌ژورنال گزارش داد قیمت گازوییل در آمریکا سه‌شنبه به رکورد بی‌سابقه ۶.۲۷ دلار در هر گالن (حدود ۳.۸ لیتر) رسید و اشاره کرد که هم‌زمانی جنگ ایران و شکنندگی عرضه جهانی سوخت، هزینه‌های انرژی را افزایش داده است.
 ‏
 ‏این روزنامه افزود میانگین قیمت گازوییل در سراسر آمریکا از ۳.۶۹ دلار در هر گالن در سال گذشته افزایش یافته است و جمعه برای نخستین بار از مرز ۶ دلار عبور کرد.
@@ -1241,19 +1289,6 @@ src :@samueltarikh
 ‏
 ‏#مهسا_امینی
 01:19
-1405/06/25
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏کمپین حقوق بشر ایران درباره صدور حکم اعدام برای حسین رسولی‌نسب، از بازداشت‌شدگان اعتراضات دی‌ماه سال گذشته، نوشت: «اجرای حکم اعدام دست‌کم ۲۹ معترض بازداشت‌شده دی‌ماه خونین ۱۴۰۴، تداوم اتهام‌زنی‌های سنگین امنیتی به معترضان محبوس و صدور احکام سنگین بر پایه همین اتهامات در دادگاه‌های غیرقانونی انقلاب، نگرانی‌ها درباره جان سایر بازداشت‌شدگان اعتراضات دی‌ماه را به‌شدت افزایش داده است.»
-‏
-‏این سازمان حقوق بشری افزود که بررسی‌هایش نشان می‌دهد «بیشتر متهمان این پرونده‌ها، جوانانی هستند که پیش‌تر سابقه بازداشت یا فعالیت سیاسی مشخص و سازمان‌یافته‌ای نداشته‌اند و آشنایی کافی با حقوق قانونی خود و شیوه‌های بازجویی و اعمال فشارهای امنیتی ندارند.»
-‏
-‏https://iranintl.com/202609150395
-01:18
 1405/06/25
 
 
@@ -2917,14 +2952,6 @@ src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 – Alerts were issued in Jazan, Saudi Arabia.
 ‏
 ‏@GeoPWatch
-22:43
-1405/06/24
-
-
-
-
-src :@naya_foriraq
-‏انفجارات تهز السعودية
 22:43
 1405/06/24
 
