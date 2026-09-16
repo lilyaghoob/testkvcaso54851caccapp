@@ -1,3 +1,49 @@
+src :@Indypersian
+[عکس]
+‏♦️شهباز شریف، نخست وزیر پاکستان روز چهارشنبه ۲۵ شهریورماه، با انتشار بیانیه‌ای، ضمن محکومیت شدید حمله پهپادی حوثی‌ها به مکه، بر ایستادگی پاکستان با عربستان سعودی و لزوم پایان مخاصمات منطقه‌ای از راه گفتگو و دیپلماسی تاکید کرد.
+‏
+‏در بیانیه شهباز شریف که در اکس منتشر شده آمده است: «من به شدیدترین لحن ممکن، حمله پهپادی بزدلانه و شنیع به مکان مقدس مکه مکرمه را محکوم می‌کنم.
+‏مردم پاکستان از این اقدام شرم‌آور بسیار غمگین و پریشان هستند. هیچ واژه‌ای نمی‌تواند عمق اندوه و رنجی را که ما از این اقدام ناپذیرفتنی و غیرقابل بخشش احساس می‌کنیم، بیان کند.»
+‏
+‏نخست وزیر پاکستان با تقدیر از عملکرد ارتش عربستان سعودی در رهگیری و انهدام یک پهپاد در آسمان مکه افزود: «ما به هوشیاری، شجاعت و حرفه‌ای‌گری فوق‌العاده نیروهای مسلح سلطنتی عربستان سعودی برای اقدام سریع و قهرمانانه‌شان درود می‌فرستیم.»
+‏
+‏شهباز شریف با اشاره به تداوم درگیری‌های پرهزینه در خاورمیانه نوشت: «من بار دیگر از همه طرف‌ها می‌خواهم که حداکثر خویشتنداری را به خرج داده و از لبه تشدید بیشتر تنش‌ها عقب‌نشینی کنند. منطقه ما پیش از این نیز از درگیری آسیب‌های بسیار زیادی دیده است. گفتگو و دیپلماسی تنها راه پایدار به سوی صلح باقی می‌ماند.»
+‏
+‏نخست وزیر پاکستان، که یکی از سه عضو «پیمان دفاعی مکه» است نوشت: «پاکستان در دفاع از حاکمیت و تمامیت ارضی عربستان سعودی و همچنین امنیت و حرمت حرمین شریفین - وظیفه‌ای که هر پاکستانی آن را عزیز و نزدیک به قلب خود می‌داند - استوار و شانه به شانه در کنار کشور برادر، پادشاهی عربستان سعودی می‌ایستد.»
+‏
+‏@indypersian
+10:26
+1405/06/25
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Residents of Piddington, an Oxfordshire village, voted in a symbolic referendum to leave the UK in protest against plans to house up to 1,256 male asylum seekers at a nearby former military base.
+‏
+‏Out of 312 votes cast, 285 supported leaving, 26 voted against, and one ballot was spoiled.
+‏
+‏Source: BBC
+10:25
+1405/06/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — At least two foreign-flagged tankers bound for the U.S. were targeted in cyberattacks while passing through the Strait of Gibraltar, according to WSJ. 
+‏
+‏The vessels were later boarded by U.S. Coast Guard and FBI teams in the Gulf of Mexico after their operational and IT systems were found to have been compromised. 
+‏
+‏Officials warned such breaches could potentially cause navigation failures, collisions, explosions, or oil spills, but the U.S. has not identified who was responsible.
+10:23
+1405/06/25
+
+
+
+
 src :@MilitarryWorld
 ‏🔴جی دی ونس: 
 ‏
@@ -11,7 +57,9 @@ src :@MilitarryWorld
 
 
 src :@mamlekate
-‏📞 صدای انفجار شدید اصفهان محدوده سپاهان شهر ۹:۱۷دقیقه
+‏📞 صدای انفجار شدید اصفهان محدوده سپاهان شهر ۹:۱۷دقیقه چهارشنبه ۲۵ شهریور
+‏
+‏📞 ساعت ۱۰:۰۹ هم یک صدای انفجار بود
 ‏
 ‏@mamlekate_pm
 10:22
@@ -39,7 +87,7 @@ src :@WAR_ROOM_NEWS
 
 src :@wfwitness
 [عکس]
-‏⚡️🇨🇩🏴 Islamic State Central Africa (ISCAP) claims to have conducted an armed assault on Congolese Army forces in Hoyo, Ituri Province, Democratic Republic of the Congo.
+‏⚡️🇨🇩🏴 Islamic State Central Africa Province (ISCAP) claims to have conducted an armed assault on Congolese Army forces in Hoyo, Ituri Province, Democratic Republic of the Congo.
 ‏
 ‏@wfwitness
 10:20
@@ -995,21 +1043,6 @@ src :@samueltarikh
 
 
 
-src :@ClashReport
-[عکس]
-‏Yemen's Houthis claim they shot down a Saudi F-15 jet over Marib using a locally made surface-to-air missile. 
-‏
-‏No wreckage photos or pilot details released.
-‏
-‏Saudi Arabia hasn't confirmed any loss. 
-‏
-‏They also claim to have forced other Saudi jet formations to withdraw and say Saudi jets flew 450+ airstrikes that week.
-09:21
-1405/06/25
-
-
-
-
 src :@jangaavaran1390
 ‏حوثی‌های یمن مدعی شده‌اند که یک جنگنده سعودی از نوع اف-۱۵ را سرنگون کرده‌اند. هنوز هیچ مدرکی ارائه نشده است
 09:21
@@ -1035,28 +1068,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe ✈️
 09:17
-1405/06/25
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏سی‌بی‌اس‌نیوز گزارش داد تصاویر جدیدی که به‌طور اختصاصی به دست آورده، برای نخستین بار گستردگی خسارت حملات موشکی و پهپادی جمهوری اسلامی به چند موضع نظامی آمریکا در خاورمیانه را نشان می‌دهد.
-‏
-‏این تصاویر را نظامیان آمریکایی در اختیار سی‌بی‌اس‌نیوز قرار داده‌اند. یکی از آنها گفت خسارت گسترده به پایگاه‌های آمریکا به اطلاع مردم این کشور نرسیده است.
-‏
-‏در تصویری از پایگاه هوایی شاهزاده سلطان در عربستان سعودی، یک هواپیمای چهارموتوره بویینگ ای-۳ سنتری دیده می‌شود که موشک به بخش عقبی آن اصابت کرده و دم هواپیما از بدنه سوخته جدا شده است.
-‏
-‏تصاویر دیگری از این پایگاه، ساختمان‌ها و آسایشگاه‌هایی را نشان می‌دهند که بخش‌های داخلی آنها تخریب شده است.
-‏
-‏ سی‌بی‌اس‌نیوز همچنین از ثبت خسارت‌های مشابه در کمپ بوهرینگ در کویت خبر داد؛ پایگاهی که محل استقرار و آماده‌سازی نیروهای زمینی، خودروهای زرهی و شماری از هواپیماهای ارتش آمریکاست.
-‏
-‏پنتاگون به درخواست سی‌بی‌اس‌نیوز برای اظهارنظر درباره این گزارش پاسخ نداد.
-‏هم‌میهن
-‏
-‏@mohem_mat
-09:15
 1405/06/25
 
 
@@ -2077,28 +2088,6 @@ src :@Indypersian
 
 
 
-src :@Indypersian
-[عکس]
-‏⭕️نشست محرمانه روسای ارتش آمریکا، اسرائیل و کشورهای عربی درباره ایران؛ آمریکا نیروهایش را از منطقه خارج نمی‌کند
-‏
-‏📌سنتکام برگزاری این نشست را تایید کرد و در بیانیه‌ای گفت: «رهبران ارشد نظامی هشت کشور در یک کنفرانس برنامه‌ریزی‌شده در آلمان حضور داشتند. رهبران درباره فرصت‌های تقویت همکاری‌های امنیتی در خاورمیانه گفتگو کردند»
-‏
-‏
-‏♦️دو مقام اسرائیلی به آکسیوس گفتند فرماندهان ارشد نظامی آمریکا، اسرائیل و چند کشور عربی هفته گذشته در آلمان دیداری برگزار کردند و درباره جنگ با ایران و تنش‌های گسترده‌تر در منطقه گفت‌وگو کردند.
-‏
-‏این نشست غیرعلنی به ابتکار دریاسالار برد کوپر، فرمانده سنتکام، برگزار شد و هیچ‌یک از کشورهای شرکت‌کننده آن را به‌طور رسمی اعلام نکردند.
-‏
-‏نشست‌های مشابهی در گذشته برگزار شده بود، اما این نخستین گردهمایی از این نوع پس از آن است که آمریکا و اسرائیل بیش از شش ماه پیش وارد جنگ ایران شدند.
-‏
-‏بیشتر بخوانید...
-‏
-‏@indypersian
-04:15
-1405/06/25
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏سی‌بی‌اس‌نیوز گزارش داد تصاویر جدیدی که به‌طور اختصاصی به دست آورده، برای نخستین بار گستردگی خسارت حملات موشکی و پهپادی جمهوری اسلامی به چند موضع نظامی آمریکا در خاورمیانه را نشان می‌دهد.
@@ -2304,18 +2293,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:23
-1405/06/25
-
-
-
-
-src :@tabzlive
-‏🇸🇦❌🇾🇪 — The Royal Saudi Air Defense Forces intercepted and destroyed a Houthi-launched drone south of Mecca at approximately 6:50 p.m. on Tuesday, before it entered the city’s prohibited airspace.
-‏
-‏Saudi-led coalition spokesman Maj. Gen. Turki al-Maliki said it was the second attempted Houthi attack targeting Mecca, citing the ballistic missile launch on July 27, 2017, as the first. 
-‏
-‏Al-Maliki said the security of the Two Holy Mosques and pilgrims is a “red line,” adding that the coalition would take what he described as necessary and deterrent measures in response to Houthi attacks.
-03:19
 1405/06/25
 
 
