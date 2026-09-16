@@ -1,3 +1,18 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸🇸🇦🇨🇳⚡️ — U.S. intelligence officials have raised concerns that China could gain access to sensitive F-35 technology if the Trump administration completes its planned $24 billion sale of 48 F-35 fighter jets and a spare engine to Saudi Arabia, NYT reports.
+‏
+‏A recent Defense Intelligence Agency assessment highlights China’s access to Saudi military facilities, its defense relationship with Riyadh, and the widespread use of Chinese telecommunications technology. 
+‏
+‏Analysts have questioned whether the U.S. and Saudi Arabia could adequately secure F-35 facilities and prevent Chinese military or intelligence personnel from accessing sensitive technology, particularly the aircraft’s advanced radar and surveillance systems.
+‏
+‏Similar security concerns previously emerged over a proposed F-35 sale to the UAE, particularly as Abu Dhabi strengthened military, intelligence, and technology ties with China. That sale ultimately did not proceed.
+01:46
+1405/06/26
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏U.S. intelligence agencies have raised concerns that China could obtain sensitive F-35 fighter jet technology through espionage or military ties with Saudi Arabia, according to internal reports.
@@ -2694,17 +2709,6 @@ src :@Parvazdaroj
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The Federal Reserve has raised interest rates by 25 basis points to a target range of 3.75% to 4.00%, marking its first rate hike since July 2023. 
-‏
-‏The decision was unanimous and comes in opposition to President Trump’s calls for lower interest rates.
-21:35
-1405/06/25
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏داستان ساخت اوهایو به اواخر جنگ سرد باز می‌گردد.
@@ -3472,26 +3476,6 @@ src :@jangaavaran1390
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️آنتونیو گوترش، دبیرکل سازمان ملل متحد، در نشست خبری پیش از آغاز نشست سالانه مجمع عمومی، به بررسی بحران‌های کلیدی جهان از جمله تنش‌های خاورمیانه، فاجعه انسانی سودان و خطرات نوظهور فناوری پرداخت.
-‏
-‏گوترش که ماه‌های پایانی دوره دوم دبیرکلی سازمان ملل را سپری می‌کند، تنش‌زدایی را «اولویت اول، دوم و سوم» خواند و تاکید کرد که آزادی کشتیرانی در تنگه هرمز و باب‌المندب باید کاملا رعایت شود. دبیرکل سازمان ملل درباره دیدار احتمالی سران جمهوری اسلامی ایران و آمریکا در نیویورک، تصریح کرد که بحران کنونی ابعادی فراتر از رابطه واشنگتن و تهران یافته و حملات به کشورهای حوزه خلیج فارس اقتصاد جهانی را تحت تأثیر قرار داده است. وی برقراری گفتگوی جدی میان ایالات متحده، ایران و کشورهای منطقه با یاری میانجیگران را تنها راه حل دانست و بر لزوم اجرای طرح صلح غزه، ارسال کمک‌های بشردوستانه، توقف الحاق کرانه باختری و تحقق راهکار دو دولتی تاکید کرد.
-‏
-‏اگرچه گوترش پاسخ دقیقی درباره حضور رئیس‌جمهوری اسلامی ایران و هیات همراه او در نیویورک نداد، نام مسعود پزشکیان در برنامه دومین روز نشست سالانه مجمع عمومی سازمان ملل، در روز چهارشنبه، اول مهر، به‌عنوان چهارمین سخنران ثبت شده است. با این‌وجود با توجه به ابهامات درباره صدور ویزا برای هیات همراه پزشکیان، هنوز مشخص نیست که او به نیویورک سفر کند یا خیر.
-‏
-‏گوترش همچنین با اشاره به بحران ویرانگر سودان و آوارگی بیش از ۱۴ میلیون نفر، خواستار بازخواست کشورهایی شد که با ارسال سلاح به طرف‌های درگیر، موجبات کشتار غیرنظامیان را فراهم می‌کنند.
-‏
-‏وی در بخش دیگری از سخنان خود، هوش مصنوعی را یک «تهدید وجودی» برای جهان توصیف کرد و از دولت‌ها خواست پیش از آغاز مجمع عمومی، برای نظارت و همکاری‌های بین‌المللی در این حوزه اقدام کنند.
-‏
-‏ 
-‏@indypersian
-20:55
-1405/06/25
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏فضاپیما تک سر نشین Space Cruiser که با نام STAR هم شناخته می شود ، متعلق به سازمان پروژه های پژوهشی دفاعی پیشرفته موسوم به DARPA یک پروژه نظامی برای نابودی و رهگیری ماهواره های شوروی بود که قصد داشتند کلاهک های جنگی آمریکا را ردیابی کنند.
@@ -3813,14 +3797,6 @@ src :@Middle_East_Spectator
 src :@naya_foriraq
 ‏🇮🇶🔻وزارة الدفاع العراقية تنفي صدور برقية استخباراتية بشأن نية السعودية استهداف مقرات الحشد الشعبي.
 20:27
-1405/06/25
-
-
-
-
-src :@naya_foriraq
-‏🇵🇰وزارة الخارجية الباكستانية: في الوقت الذي كانت فيه البحرية الباكستانية تجري تمرينًا دوريًا، قامت سفينة هندية بتنفيذ مناورات عدوانية في منطقة قريبة.
-20:24
 1405/06/25
 
 
@@ -7315,28 +7291,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:47
-1405/06/25
-
-
-
-
-src :@cataphract1
-‏⚜به گزارش ایرنا، صدای چندین انفجار در جزیره قشم در جنوب ایران شنیده شده است.
-‏
-‏⚜منابع محلی می‌گویند این انفجارها از سمت دریا به گوش رسیده‌اند.
-‏✒️#LT
-‏📃@Cataphract1
-01:42
-1405/06/25
-
-
-
-
-src :@cataphract1
-‏⚜به گزارش العربیه، یک منبع نظامی یمنی اعلام کرد که حوثی‌ها در تنگه باب‌المندب مین‌های دریایی کار گذاشته‌اند.
-‏
-‏⚜این اقدام می‌تواند تهدیدی جدی برای کشتی‌های تجاری و نفتکش‌های عبوری از این تنگه راهبردی باشد.
-‏✒️#LT
-‏📃@Cataphract1
-01:42
 1405/06/25
