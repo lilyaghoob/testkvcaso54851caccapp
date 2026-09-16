@@ -1,3 +1,24 @@
+src :@OSINTWarfare
+[عکس]
+‏In Taiz Governorate, Royal Saudi Air Force (RSAF) airstrikes targeted the Al-Barh Bridge in Maqbanah District on September 15 and 16, aiming to cut supply routes. The strikes killed two civilians and injured a third.
+03:20
+1405/06/26
+
+
+
+
+src :@ClashReport
+‏Trump is expected to meet Gulf leaders on the sidelines of the UN General Assembly in New York next week to discuss the Iran war and plans for the aftermath.
+‏
+‏The meeting is expected to include officials from Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait and Oman.
+‏
+‏Source: Axios
+03:19
+1405/06/26
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -35,7 +56,7 @@ src :@bricsnews
 
 
 src :@naya_foriraq
-‏‏أكسيوس: 
+‏🔻‏أكسيوس: 
 ‏ترامب سيعقد مباحثات بشأن إيران مع قادة وفود دول الخليج بنيويورك الأسبوع المقبل.
 ‏
 ‏‏ترامب سيطلع دول الخليج على أفكار لاستراتيجية ما بعد الحرب مع إيران.
@@ -49,7 +70,9 @@ src :@Ali_bk_2
 [عکس]
 ‏Axios:
 ‏
-‏Trump is set to hold talks on Iran with Gulf leaders in New York next week.
+‏Trump is set to hold talks with Persian Gulf leaders in New York next week to discuss the war in Iran and plans for what follows.
+‏
+‏The meeting is expected to include officials from Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait and Oman.
 03:14
 1405/06/26
 
@@ -60,7 +83,9 @@ src :@Alibk3
 [عکس]
 ‏أكسيوس: 
 ‏
-‏من المقرر أن يجري ترامب محادثات بشأن إيران مع زعماء الخليج في نيويورك الأسبوع المقبل.
+‏من المقرر أن يجري ترامب محادثات مع زعماء الخليج الفارسي في نيويورك الأسبوع المقبل، لمناقشة الحرب في إيران والخطط المتعلقة بما يليها.
+‏
+‏ومن المتوقع أن يضم الاجتماع مسؤولين من السعودية والإمارات وقطر والبحرين والكويت وعمان.
 03:14
 1405/06/26
 
@@ -485,21 +510,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 01:49
-1405/06/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇸🇦🇨🇳⚡️ — U.S. intelligence officials have raised concerns that China could gain access to sensitive F-35 technology if the Trump administration completes its planned $24 billion sale of 48 F-35 fighter jets and a spare engine to Saudi Arabia, NYT reports.
-‏
-‏A recent Defense Intelligence Agency assessment highlights China’s access to Saudi military facilities, its defense relationship with Riyadh, and the widespread use of Chinese telecommunications technology. 
-‏
-‏Analysts have questioned whether the U.S. and Saudi Arabia could adequately secure F-35 facilities and prevent Chinese military or intelligence personnel from accessing sensitive technology, particularly the aircraft’s advanced radar and surveillance systems.
-‏
-‏Similar security concerns previously emerged over a proposed F-35 sale to the UAE, particularly as Abu Dhabi strengthened military, intelligence, and technology ties with China. That sale ultimately did not proceed.
-01:46
 1405/06/26
 
 
@@ -1251,20 +1261,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇸🇾 Lebanese prime minister Nawaf Salam:   We are establishing a relationship with Syria based on the mutual interests of both countries.   As for the transfer of Syrian detainees in Lebanon for their trial in Syria, this is not a concession, as some have…
 00:17
-1405/06/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump via Truth Social:
-‏Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. 
-‏
-‏Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. 
-‏
-‏We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!
-00:16
 1405/06/26
 
 
@@ -7147,15 +7143,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 05:43
-1405/06/25
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Ansar Allah has released a 26-minute video documenting clashes with Emergency Forces and National Shield Forces in eastern Al-Jawf, showing their forces destroying multiple vehicles and pieces of equipment.
-05:24
 1405/06/25
 
 
