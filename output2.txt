@@ -1,7 +1,52 @@
+src :@selena_updates
+[عکس]
+‏The U.S. Air Force will integrate its Collaborative Combat Aircraft (CCA) fighter drones into a large-force employment exercise for the first time this December, when the autonomous aircraft participate in Emerald Flag, marking a major step toward operational deployment of robotic wingmen alongside crewed fighters. 
+‏
+‏Emerald Flag is a recurring U.S. Air Force large-scale experimentation and combat-integration exercise, led primarily by the Air Force Test Center at Eglin Air Force Base in Florida. Unlike a conventional training exercise focused mainly on pilots practicing combat scenarios, Emerald Flag is designed to test new technologies and connect them with operational forces under realistic, complex battlefield conditions.
+‏
+‏Lt. Col. Lyndon Bartlett of the Air Force’s Experimental Operations Unit said the exercise will be the program’s first genuine large-scale force-integration test. The service is currently developing the General Atomics FQ-42 Vengeance and Anduril FQ-44 Fury, with the Fury already having flown in formation with F-35s during testing in July, although the F-35 was not controlling the drone.  
+‏
+‏The Air Force ultimately plans to field at least 500 CCAs by 2032, using increasingly autonomous aircraft to extend the reach, weapons capacity and survivability of crewed combat jets in contested airspace.
+22:50
+1405/06/25
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏شاهزاده رضا پهلوی در پیامی به مناسبت چهارمین سالگرد قتل حکومتی مهسا ژینا امینی در شبکه ایکس نوشت چهار سال پس از کشته شدن او، ملت ایران در مرحله دیگری از مبارزه برای «بازپس‌گیری ایران» قرار دارد.
+‏او با اشاره به کشته شدن شماری از معترضان، از جمله نیکا شاکرمی، سارینا اسماعیل‌زاده، کیان پیرفلک، خدانور لجه‌ای، حمیدرضا روحی و مجیدرضا رهنورد، نوشت جمهوری اسلامی پس از کشته شدن مهسا امینی، جوانان دیگری را نیز هدف قرار داد.
+‏شاهزاده پهلوی خیزش‌های سال‌های ۱۳۹۶، ۱۳۹۸، ۱۴۰۱ و ۱۴۰۴ را بخش‌هایی از مسیری توصیف کرد که به گفته او به «انقلاب شکوهمند شیر و خورشید» رسیده است. او هدف این حرکت را «بازپس‌گیری ایران از رژیم تبهکاری که نزدیک به نیم قرن است میهن‌مان را به گروگان گرفته است» عنوان کرد.
+‏او همچنین نوشت همبستگی کنونی مخالفان جمهوری اسلامی «یک‌شبه» شکل نگرفته و حاصل مسیری طولانی و پرهزینه است.
+‏شاهزاده رضا پهلوی در پایان با گرامی‌داشت یاد مهسا امینی و دیگر کشته‌شدگان اعتراضات نوشت: «ما راه آنان را تا آزادی و بازپس‌گیری ایران ادامه خواهیم داد.»
+‏https://iranintl.com/202609169442
+22:49
+1405/06/25
+
+
+
+
 src :@samueltarikh
 ‏کان عبری:
 ‏
 ‏عربستان گفته اگه اسرائیل به ما کمک کنه ما هم روابطمون رو عادی سازی میکنیم.
+22:47
+1405/06/25
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️وزارت خزانه‌داری ایالات متحده روز چهارشنبه ۲۵ شهریور اعلام کرد که شبکه اجرای جرایم مالی این وزارتخانه نشستی را با حضور موسسات مالی جهانی برگزار کرده است تا «عملیات طرد اقتصادی»(Operation Economic Outcast) را به جلو ببرد؛ تلاشی تازه با هدف انزوای تهران و محدود کردن توانایی آن در تأمین مالی جنگ در خاورمیانه.
+‏
+‏خزانه‌داری در بیانیه‌ای اعلام کرد که این نشست اطلاعات لازم را برای مسدود کردن جریان‌های درآمدی و شبکه‌های تامین مالی مرتبط با جمهوری اسلامی ایران در اختیار موسسات مالی قرار داده است.
+‏
+‏اسکات بسنت، وزیر خزانه‌داری آمریکا، در بیانیه‌ای تاکید کرد: «خزانه‌داری به قطع کردن تک‌تک خطوط حیاتی اقتصادی که برای تهران باقی مانده است، ادامه می‌دهد.» وی افزود که موسسات مالی در حمایت از این عملیات هم‌گام با دولت ایالات متحده هستند. خزانه‌داری همچنین هشدار داد که به‌زودی هیچ فضایی برای حکومت ایران باقی نخواهد ماند تا ظرفیت خود برای «اقدامات تروریستی» را بازسازی کند.
+‏
+‏ 
+‏@indypersian
 22:47
 1405/06/25
 
@@ -3368,21 +3413,6 @@ src :@Indypersian
 src :@Middle_East_Spectator
 ‏Something is happening.
 19:13
-1405/06/25
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️آنتونیو گوترش، دبیرکل سازمان ملل متحد، حملات حوثی‌ها به زیرساخت‌های غیرنظامی عربستان سعودی و ایجاد مانع برای کشتیرانی در باب‌المندب را محکوم کرد و از طرف‌های درگیر خواست برای پایان دادن به تشدید درگیری‌ها در خاورمیانه وارد گفتگو شوند.
-‏
-‏گوترش روز چهارشنبه ۲۵ شهریورماه در پاسخ به سوال خبرنگار رویترز گفت: «فرستادگان ویژه ما تلاش گسترده‌ای در این زمینه انجام می‌دهند.» او افزود: «ما حملات حوثی‌ها به زیرساخت‌های غیرنظامی در عربستان سعودی و ایجاد مانع برای کشتیرانی در باب‌المندب را به‌صراحت محکوم کرده‌ایم.»
-‏
-‏دبیرکل سازمان ملل متحد در ادامه گفت: «در عین حال، از هر دو طرف می‌خواهیم بتوانند گفتگو را آغاز کنند تا به این تشدید شدید و نگران‌کننده درگیری در خاورمیانه پایان دهند.»
-‏ 
-‏@indypersian
-19:12
 1405/06/25
 
 
@@ -7525,12 +7555,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:06
-1405/06/24
-
-
-
-
-src :@Mena_Live
-‏Chinese-supplied equipment, including four reactor bodies, reactor internals, furnace coils and steam-generator components, is being installed as part of Baniyas Refinery’s overhaul.   The project will raise capacity from around 80,000 to 130,000 barrels per…
-22:51
 1405/06/24
