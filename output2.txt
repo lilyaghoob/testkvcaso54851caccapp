@@ -1,3 +1,32 @@
+src :@naya_foriraq
+‏🔻إنفجارات في محافظة السليمانية شمالي العراق.
+09:05
+1405/06/25
+
+
+
+
+src :@naya_foriraq
+‏🔻إنفجارات في محافظة السليمانية شمالي العراق.
+09:04
+1405/06/25
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏صبح همگی بخیر
+‏
+‏امیدوارم ساعات خوبی رو امروز سپری کنید
+‏
+‏@artemis_force
+09:03
+1405/06/25
+
+
+
+
 src :@mohem_mat
 ‏کور خوانده‌ایم! 
 ‏
@@ -18,22 +47,6 @@ src :@mohem_mat
 ‏احمد زیدآبادی 
 ‏@ahmadzeidabad
 09:02
-1405/06/25
-
-
-
-
-src :@Ali_bk_2
-‏Yemeni air defenses confront Saudi aircraft over the city of Marib.
-09:01
-1405/06/25
-
-
-
-
-src :@Alibk3
-‏الدفاعات الجوية اليمنية تتصدى لطائرات سعودية فوق مدينة مأرب.
-09:01
 1405/06/25
 
 
@@ -65,7 +78,7 @@ src :@mohem_mat
 src :@Ali_bk_2
 ‏‏Statement issued by the Yemeni Armed Forces
 ‏‏In the name of Allah, the Most Gracious, the Most Merciful
-‏‏Allah Almighty said: {O you who have believed, if you support Allah, He will support you and plant firmly your feet.} Allah Almighty has spoken the truth.
+‏‏Allah Almighty said: {O you who have believed, if you support Allah, He will support you and plant firmly your feet.} Allah Almighty has spoken the truth
 ‏
 ‏‏The Saudi warplanes carried out
 ‏
@@ -101,6 +114,7 @@ src :@naya_foriraq
 
 
 src :@Alibk3
+[عکس]
 ‏‏بيانٌ صادرٌ عنِ القواتِ المسلحةِ اليمنيةِ
 ‏‏بسمِ اللهِ الرحمنِ الرحيمِ
 ‏‏قالَ تعالى: { یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تَنصُرُوا۟ ٱللَّهَ یَنصُرۡكُمۡ وَیُثَبِّتۡ أَقۡدَامَكُمۡ } صدقَ اللهُ العظيم
@@ -1531,20 +1545,6 @@ src :@naya_foriraq
 
 
 
-src :@IranintlTV
-[عکس]
-‏عصر ایران به نقل از یک منبع آگاه گزارش داد دولت گرجستان با پیوستن به تحریم‌های جدید آمریکا، پرواز همه شرکت‌های ایرانی به این کشور را از دوشنبه آینده متوقف می‌کند.
-‏
-‏این منبع گفت سازمان هواپیمایی کشوری تاکنون در این باره اطلاع‌رسانی نکرده است.
-‏
-‏عصر ایران افزود بررسی خبرنگار این پایگاه خبری از چند آژانس گردشگری نیز نشان می‌دهد فروش تور گرجستان تنها تا یکشنبه آینده انجام می‌شود.
-‏https://iranintl.com/202609153931
-02:42
-1405/06/25
-
-
-
-
 src :@OSINTWarfare
 ‏Another update on the situation on the Taiz front:  Ansar Allah forces are attempting to advance from Al-Jinan toward Al-Ashruh and from Al-Mazandeh toward Al-Aril Hill in Bani Bakari.
 02:41
@@ -2142,14 +2142,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 00:53
-1405/06/25
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸فانس: حركة المرور في مضيق هرمز عادت لـ 50% من طاقتها😄
-00:51
 1405/06/25
 
 
@@ -3916,16 +3908,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 21:34
-1405/06/24
-
-
-
-
-src :@intelslava
-‏🇾🇪⚔️🇸🇦 — Houthis launch an offensive against Saudi Arabia. Follow us on WhatsApp for more geopolitical updates and BTC trading signals.
-‏
-‏READ: https://chat.whatsapp.com/D7vrLPhrrqZGMo6LbwsFVv
-21:33
 1405/06/24
 
 
@@ -6850,16 +6832,6 @@ src :@defence_news
 
 
 
-src :@mwarmonitor
-‏🔴  یکی از دستیاران رئیس‌جمهور روسیه، ولادیمیر پوتین، گفته است اگر ورشو وارد درگیری نظامی مستقیم با مسکو شود، لهستان ظرف دو تا سه روز دیگر وجود نخواهد داشت.
-‏
-‏@mwarmonitor
-12:41
-1405/06/24
-
-
-
-
 src :@bricsnews
 ‏JUST IN: Ship attacked in the Strait of Hormuz.
 ‏
@@ -7264,21 +7236,6 @@ src :@Artemis_Force
 
 
 
-src :@Artemis_Force
-[عکس]
-‏◆ طبق اعلام وزارت دفاع استرالیا، نیروی هوایی این کشور، موشک‌های کروز دوربرد AGM-158B JASSM-ER و موشک‌های کروز ضدکشتی برد بلند AGM-158C LRASM را عملیاتی کرده است.
-‏
-‏◆ در نیروی هوایی استرالیا، ۲ موشک کروز JASSM-ER و LRASM در تست‌های عملیاتی توسط جنگنده‌های چندمنظوره F/A-18F سوپرهورنت نیروی هوایی استرالیا و در جریان رزمایش RIMPAC 26 نیز هواپیمای گشت دریایی و ضدزیردریایی P-8A پوسایدن با موفقیت موشک کروز ضدکشتی LRASM را شلیک کرده و هدف خود را منهدم کرد.
-‏
-‏◆ تصویری از جنگنده چندمنظوره F/A-18F سوپرهورنت از اسکادران یکم نیروی هوایی استرالیا با نام مستعار Fighting First که در زیر بال آن موشک کروز AGM-158B JASSM-ER به همراه ۳ مخزن سوخت اکسترنال ۴۸۰ گالنی FPU-12/A در زیر بال‌ها و جایگاه سنترلاین آن مشاهده می‌شود.
-‏
-‏@Parvazdaroj | Phoenix
-10:02
-1405/06/24
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏میم چپ سوز:
@@ -7297,15 +7254,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 09:32
-1405/06/24
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏درود بر همگان
-‏
-‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
-09:01
 1405/06/24
