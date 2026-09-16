@@ -1,3 +1,59 @@
+src :@ClashReport
+[عکس]
+‏A drone was spotted near Danish Defense Minister Jeppe Bruus’ home in Gladsaxe, prompting a major police operation, TV 2 reported.
+‏
+‏The drone’s origin is unknown. Police sealed off the area, while military bomb disposal personnel were also deployed.
+13:45
+1405/06/25
+
+
+
+
+src :@intelslava
+‏🇷🇺🇯🇵⚡️ — Russia warns Japan it will take necessary countermeasures if Tokyo continues activities that pose a direct threat to the Russian Federation, according to the Russian Defense Ministry.
+‏
+‏@Intelslava
+13:43
+1405/06/25
+
+
+
+
+src :@jangaavaran1390
+‏حالا هلیکوپتر سایه داشت یا نداشتن
+‏اون تصاویر پرواز بر فراز کشور در روز روشن و خلبانی که نجات یافت هم سایه داشت؟!
+‏ مبارزه با حقیقت دردی رو دوا نمیکنه..اگر میکرد وضعیت این نبود
+13:43
+1405/06/25
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇩🇪 Bloomberg: German military hospitals are preparing for mass casualty scenarios amid the growing threat from Russia, with the Ulm military hospital considering reviving a Cold War-era underground bunker that can house up to 2,000 people for 90 days.
+‏
+‏The Bundeswehr estimates up to 1,000 wounded troops could arrive in Germany daily in a war scenario, straining the country five military hospitals and forcing civilian facilities to help with triage, as hospitals are also evaluating anti-drone barriers, bulletproof glass, and expanded medical stockpiles as part of broader resilience planning.
+‏
+‏Only a few hundred German doctors currently have experience treating war-related injuries, and a proposed Health Security Act meant to coordinate hospital resources has been delayed to the fall, leaving officials warning that the country healthcare system remains far from ready for a large-scale conflict.
+‏
+‏@wfwitness
+13:43
+1405/06/25
+
+
+
+
+src :@MilitarryWorld
+‏🔴سخنگوی ارتش پاکستان: توافق مکه روابط با ایران را تحت تأثیر قرار نمی‌دهد
+‏
+‏@MilitarryWorld | Parsa
+13:43
+1405/06/25
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇷❌🇺🇸 — Iran’s IRGC announced that a U.S. MQ-9 Reaper drone was shot down by Iranian air defences over Qeshm Island, southern Iran.
@@ -53,9 +109,11 @@ src :@IranintlTV
 
 
 src :@tabzlive
-‏🇩🇰⚡️ — A drone was spotted near Danish Defense Minister Jeppe Bruus’ home this morning, prompting a major police response and the cordoning off of the area, TV 2 reports. 
+‏🇩🇰⚡️ — A drone was spotted near Danish Defense Minister Jeppe Bruus’ home in Gladsaxe this morning, prompting a major police response and the cordoning off of the area, TV 2 reports. 
 ‏
 ‏The Danish Defence also deployed its Explosive Ordnance Disposal unit, but it and police have since left the scene.
+‏
+‏The drone’s origin is unknown.
 13:38
 1405/06/25
 
@@ -1670,22 +1728,6 @@ src :@Shin_Persian
 
 
 
-src :@mohem_mat
-[عکس]
-‏روزها
-‏
-‏فیلم "فارغ التحصیل" محصول ۱۹۶۷ اثر دوست داشتنی "مایک نیکولز" را عموما شاهکار بازی "داستین هافمن" می دانند ولی "آن بنکرافت" با بازی در نقش پیر زنی هوسران به نام "خانم رابینسون" چنان باورپذیر در فیلم بازی کرد که بعدها همه او را به شوخی با نام خانم رابینسون صدا می زدند که خیلی هم او را ناراحت می کرد و به گفته خودش سد راهی برای آینده اش شد .
-‏در ایران عموما وی با بازی در فیلم "معجزه گر" در نقش معلم سخت کوشِ دختری ناشنوا و نابینا(هلن کلر) که برایش اسکار به ارمغان آورد شناخته می شود .
-‏ولی نقش مهمترش همسر "مِل بروکس" بودن بود .کارگردان طناز و شوخ طبع سینما که زندگی خوبی با هم تا آخر عمر در کنارش داشت.
-‏"آن بنکرافت" در سال ۲۰۰۵ بر اثر سرطان درگذشت ولی اگر زنده بود امروز ۹۲ ساله می شد
-‏
-‏@mohem_mat
-11:30
-1405/06/25
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏ارتش اسرائیل و شین بت در بیانیه‌ای اعلام کردند بامداد امروز نائل ابو عبید، فرمانده جدید گردان رفح حماس را ترور کرده است.  @P_raetorio
@@ -2735,15 +2777,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 09:50
-1405/06/25
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 The Los Angeles Fire Department announces 3 people have died in the NBC news helicopter crash, with another person taken to the hospital.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-09:39
 1405/06/25
 
 
@@ -4500,17 +4533,6 @@ src :@samueltarikh
 ‏
 ‏قبل از شروع جنگ ۱۲ روزه؛ به ترامپ پیشنهاد ۵۰۰ میلیارد دلار پول دادیم که روی شرکت های آمریکایی سرمایه گذاری میکنیم. اونم گفت من میگم اورانیومتو تحویل بده و از‌ گروه های نیابتی حمایت نکن اونوقت تو پیشنهاد رشوه به من میدی؟! نابودتون میکنم.
 00:09
-1405/06/25
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴بنر دیده شده تو تجمعات 
-‏
-‏@MilitarryWorld | Parsa
-00:08
 1405/06/25
 
 
@@ -7083,13 +7105,4 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 13:59
-1405/06/24
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏یک لکه نفت بزرگ در خلیج فارس ، این لکه دیروز ظاهر شده و به نظر دو شب پیش یک تانکر توسط یکی از طرفین مورد اصابت قرار گرفته    ⚓️ @Navy_Iranian | #a_m
-13:42
 1405/06/24
