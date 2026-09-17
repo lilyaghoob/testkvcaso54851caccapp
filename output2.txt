@@ -1,3 +1,43 @@
+src :@P_raetorio
+[عکس]
+‏تصاویر ماهواره حاکی از آن است که سایت هسته‌ای-نظامی طالقان 2 که هم در عملیات روز توبه و هم طی جنگ 39 وبران شده بوپ مجددا قصد بازسازی آن را دارند‌!
+‏
+‏@P_raetorio
+20:16
+1405/06/26
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇮🇷/☢️ NEW: Satellite imagery shows that Iran is rapidly expanding construction at the Taleqan-2 nuclear site in Tehran, northern Iran
+‏
+‏Taleqan-2 is a high-explosive testing chamber that was used in the early 2000s for Iran’s nuclear weapons program ‘AMAD’.
+‏
+‏@Middle_East_Spectator
+20:15
+1405/06/26
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏مرکز عملیات تجارت دریایی بریتانیا اعلام کرد گزارشی از «فعالیت مشکوک» در ۷۵ مایل دریایی شرق عدن در یمن دریافت کرده است.
+‏
+‏بر اساس این هشدار که منبع آن «مقام‌های نظامی» اعلام شده، یک نفتکش که به سمت غرب در حرکت بود گزارش داد یک قایق کوچک آن را تعقیب کرده و تلاش کرده است نفتکش را متوقف کند.
+‏
+‏این حادثه پنج‌شنبه ۲۶ شهریور، ساعت ۱۷:۲۹ به وقت ایران، گزارش شد. مرکز عملیات تجارت دریایی بریتانیا اعلام کرد مقام‌ها در حال بررسی آن هستند.
+‏
+‏این مرکز از کشتی‌های عبوری خواست با احتیاط در منطقه تردد کنند و هرگونه فعالیت مشکوک را گزارش دهند.
+‏https://iranintl.com/202609170922
+20:13
+1405/06/26
+
+
+
+
 src :@selena_updates
 [عکس]
 ‏Autonomous AI agents have been observed spontaneously developing their own vocabulary and communication conventions, with up to 55% of their messages becoming difficult for humans to understand within days, according to new research from AI company Emergence. Agents powered by Gemini, OpenAI models, Claude, Grok, DeepSeek, Qwen and Mistral were placed in persistent simulated societies where they interacted, remembered events and made decisions. 
@@ -1496,23 +1536,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇳🇺🇸🇮🇷⚡️ — A UN-backed fact-finding mission says it found “reasonable grounds” to believe the U.S. committed war crimes in two February 28 strikes in Iran that killed scores of civilians.
-‏
-‏The team cited the strike on a clearly identifiable school in Minab, where around 170 people were killed, most of them girls aged 7–12. 
-‏
-‏A preliminary U.S. assessment found Washington was “likely” responsible but may have struck the school accidentally using outdated intelligence that identified the area as part of an Iranian military installation. 
-‏
-‏The Trump administration has not formally accepted responsibility or released the Pentagon investigation.
-‏
-‏The mission also alleged a U.S. war crime in Lamerd, where a missile dispersed tungsten pellets over a sports complex and residential area, killing 22 civilians. CENTCOM denies responsibility for that strike.
-18:15
-1405/06/26
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏🔴 ذوالقدر، مشاور سیاسی رهبر جمهوری اسلامی: تا به زیر کشیدن ترامپ و نتانیاهو، تنگهٔ هرمز را نخواهیم گشود.
@@ -1531,20 +1554,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 18:14
-1405/06/26
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏مجید ابن‌الرضا، سرپرست وزارت دفاع و پشتیبانی نیروهای مسلح جمهوری اسلامی، پنج‌شنبه ۲۶ شهریور گفت: «سامانه‌های پاتریوت و تاد و موشک‌های تاماهاک آمریکا در جنگ اخیر در مواجهه با فناوری موشکی و پهپادی جمهوری اسلامی با چالش روبه‌رو شدند.»
-‏
-‏ابن‌الرضا همچنین گفت توان بازدارندگی جمهوری اسلامی در اختیار دانشمندان، محققان و مهندسان وزارت دفاع است و طراحی و تولید نسل جدید سامانه‌های نظامی ادامه خواهد یافت.
-‏
-‏او در بخش دیگری از سخنانش بر افزایش نقش زنان در صنایع دفاعی تاکید کرد و از اجرای برنامه‌هایی برای جذب، حفظ و توانمندسازی زنان متخصص و نخبه در وزارت دفاع خبر داد.
-‏https://iranintl.com/202609179791
-18:12
 1405/06/26
 
 
@@ -2563,19 +2572,6 @@ src :@intelslava
 
 
 
-src :@ClashReport
-[ویدئو]
-‏Satellite imagery shows Houthis have dug roughly 20 km of trenches in the mountains around Bab al-Mandab between Sept 8-16. 
-‏
-‏Time-lapse comparisons clearly show new earthworks appearing across the hillsides.
-‏
-‏The trenches serve a dual purpose: defending against any Saudi-backed counteroffensive to retake the coast, and providing observation posts overlooking the shipping channel.
-17:01
-1405/06/26
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«آرتین غضنفری»، عکاس خبری و شهروند بهایی، با گذشت بیش از هشت ماه از زمان بازداشت، همچنان در زندان تهران بزرگ نگهداری می‌شود. به گفته یک منبع مطلع نزدیک به خانواده او، این زندانی با وجود ابتلا به چند بیماری و تشخیص پزشکان مبنی بر نیاز به بستری و جراحی، از دسترسی به درمان تخصصی خارج از زندان محروم مانده است.
@@ -2652,17 +2648,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Saudi civil defense confirmed a Houthi drone was intercepted over Taif, but falling debris killed one Yemeni resident and injured a Saudi woman and a Pakistani resident (critical condition). 
-‏
-‏Several buildings and vehicles were also damaged.
-16:52
-1405/06/26
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇸🇦/🇾🇪/🇴🇲 BREAKING: Saudi Arabia has requested a two-week ceasefire with Ansarallah (the Houthis) through Oman – Al Mayadeen
 ‏
@@ -2684,18 +2669,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 16:52
-1405/06/26
-
-
-
-
-src :@ClashReport
-‏General Motors has entered the missile supply chain, producing components for Lockheed Martin’s Patriot PAC-3 MSE interceptors as the U.S. seeks to replenish depleted weapons stocks.
-‏
-‏GM delivered its first batch of missile-housing components in August.
-‏
-‏Source: WSJ
-16:51
 1405/06/26
 
 
@@ -5747,7 +5720,7 @@ src :@guard_warriors
 ‏
 ‏به گفته این نشریه، تنها یک ماهواره به نام کاسموس-2573، یک ماهواره جاسوسی اپتیکی بوده است. همچنین، 3 ماهواره دیگر، عملیات جاسوسی را در طیف راداری (SAR) انجام داده‌اند، 2 ماهواره دیگر در طیف مادون قرمز (IR) و 8 ماهواره باقی‌مانده، اسکن الکترونیکی منطقه را انجام داده‌اند.
 ‏
-‏علاوه بر این، مدارگرد مشابهی از ماهواره‌ها پس از حملات ایران نیز مشاهده شده است، که نشان‌دهنده جمع‌آوری اطلاعات برای ارزیابی دقیق میزان خسارات باشد.
+‏علاوه بر این، مدارگرد مشابهی از ماهواره‌ها پس از حملات ایران نیز مشاهده شده است، که ممکن است نشان‌دهنده جمع‌آوری اطلاعات برای ارزیابی دقیق میزان خسارات باشد.
 ‏
 ‏@Guard_Warriors | Mmd
 09:14
@@ -6480,22 +6453,6 @@ src :@warmonitors
 src :@rnintel
 ‏🇲🇦🇮🇱⚡- The foreign ministers of Israel and Morocco ‌agreed to upgrade diplomatic ties and open embassies and appoint ambassadors in ⁠both countries.
 00:10
-1405/06/26
-
-
-
-
-src :@rnintel
-‏🇾🇪🇸🇦🇦🇪⚡- "UAE is conducting an intensive lobbying campaign in Washington aimed at persuading the U.S. administration not to support Saudi Arabia’s renewed war against the Houthis and pushing against weapons packages that could give Riyadh greater offensive capabilities to change the balance of power in Yemen.
-‏
-‏Following the collapse of the Saudi-Emirati partnership in Yemen, Riyadh has become the principal external Arab power carrying the burden of the confrontation. A decisive Saudi victory would also allow Riyadh to rebuild the anti-Houthi camp under its leadership and weaken the value of the military and political networks the UAE spent years constructing across southern and coastal Yemen.
-‏
-‏Abu Dhabi does not need to support the Houthis to benefit from their ability to exhaust Saudi Arabia. It simply needs to prevent Riyadh from obtaining the level of American assistance required to turn defensive containment into a decisive military victory.
-‏
-‏That is why the confrontation is moving from Yemen to Washington. The UAE possesses extensive political, security and commercial relationships in the United States, allowing opposition to deeper Saudi military action to be presented through the language of restraint: preventing another regional war, avoiding another Yemen quagmire, limiting escalation with Iran and questioning whether a major Saudi offensive could produce a stable political settlement.
-‏
-‏But behind the language of “restraint” lies a brutal Gulf struggle for power. Abu Dhabi does not need the Houthis to win. It only needs Saudi Arabia not to win," - The Dark Box, citing its high-level sources.
-00:05
 1405/06/26
 
 
