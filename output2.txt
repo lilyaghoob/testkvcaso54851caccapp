@@ -431,19 +431,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇵🇸🇺🇳⚡️ — For the second consecutive year, the U.S. has denied Palestinian Authority President Mahmoud Abbas a visa to travel to New York to address the UN General Assembly, Reuters reports.
-‏
-‏Abbas’s office was informed of the decision on Wednesday. Dozens of other PA officials who had planned to accompany him had their visa applications rejected as well.
-‏
-‏The Palestinian Mission to the UN then submitted a resolution to allow Abbas to address the UNGA virtually as he did last year.
-03:33
-1405/06/26
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏سی‌ان‌ان به نقل از مقام‌های آمریکایی و منابع اطلاعاتی بین‌المللی گزارش داد جمهوری اسلامی با استفاده از اطلاعات دریافتی از ماهواره‌های جاسوسی روسیه، دقت حملات خود به مواضع و دارایی‌های ایالات متحده در منطقه را به شکل چشمگیری افزایش داده است.
