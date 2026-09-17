@@ -2785,16 +2785,6 @@ src :@ManotoTV
 
 
 
-src :@intelslava
-‏🇬🇧⚡️ —Follow us on WhatsApp for more geopolitical news
-‏
-‏👉https://chat.whatsapp.com/LsbyqUalqWfEpUAqpCBCUT
-22:25
-1405/06/25
-
-
-
-
 src :@MilitarryWorld
 ‏🔴وزیر دارایی ترکیه: 
 ‏
@@ -3975,6 +3965,16 @@ src :@rus_cosmos
 [عکس]
 ‏تصاویر ماهواره‌ای نشان می‌دهند که سه تانکر نفتی از تنگه هرمز عبور می‌کنند و مسیر تعیین‌شده توسط ایالات متحده را طی می‌کنند. این موضوع نشان می‌دهد که ایران نتوانسته است به طور کامل تنگه هرمز را مسدود کند.
 20:39
+1405/06/25
+
+
+
+
+src :@intelslava
+‏EU chief Ursula von der Leyen says the Leipzig attack marks a new escalation of Russian hybrid threats on European soil, citing sabotage, cyberattacks, arson and drone incursions.
+‏
+‏@IntelSlava
+20:35
 1405/06/25
 
 
