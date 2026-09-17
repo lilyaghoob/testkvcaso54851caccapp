@@ -1,3 +1,43 @@
+src :@guard_warriors
+[عکس]
+‏✪ سیستم لیزری جمع‌وجور با وزن تا 380 کیلوگرم، برای نصب بر روی پلتفرم‌های مختلف رزمی و هدف قرار دادن اهداف هوایی طراحی شده است.
+‏
+‏این سیستم برای افزایش بقا و محافظت از هواپیماها در برابر تهدیدات موشک‌های هوا به هوا و موشک‌های پدافند هوایی طراحی شده است. این سیستم، موشک‌های نزدیک‌شونده با هدایت حرارتی را شناسایی و جهت آن‌ها را تعیین می‌کند، و سپس با استفاده از مکانیزم‌های ردیابی و هدف‌گیری، یک پرتو متمرکز را به سمت هدف هدایت می‌کند. یک فرستنده داخلی، انرژی را در طیف مادون قرمز تولید می‌کند و بر سیستم هدایت موشک تأثیر گذاشته و عملکرد آن را مختل می‌کند. در نتیجه، موشک دیگر قادر به هدف‌گیری و حمله به هواپیمای مورد نظر نیست.
+‏
+‏دقت ردیابی دینامیکی: ۱۰۰ کیلوژول بر متر مربع (RMS)
+‏
+‏توان انتقال: حداقل ۱۰۰ کیلووات
+‏
+‏علیه موشک‌های حرارتی: در فاصله ۸ تا ۱۲ کیلومتری، با تابش مداوم ۰.۵ ثانیه‌ای می‌تواند جستجوگر نوری موشک‌ها را کور کرده و از کار بیندازد.
+‏
+‏علیه موشک‌های راداری: در فاصله ۵ تا ۷ کیلومتری، با تابش ۲ تا ۴ ثانیه‌ای می‌تواند بدنه فلزی را سوراخ کرده و باعث انفجار یا احتراق سوخت موشک شود.
+‏
+‏@Guard_Warriors | Mmd
+15:55
+1405/06/26
+
+
+
+
+src :@ClashReport
+[عکس]
+‏U.S. Ambassador to Ankara Tom Barrack said Turkish President Erdogan and Trump will meet in New York on the sidelines of the UN General Assembly.
+15:53
+1405/06/26
+
+
+
+
+src :@Mena_Live
+‏Algerian Ambassador to Egypt Ammar Belani: "Israel, Morocco and the Emirates are the new face of the axis of evil."
+‏
+‏@Mena_Live
+15:53
+1405/06/26
+
+
+
+
 src :@mamlekate
 [عکس]
 ‏📝 اعضای هیات علمی دانشگاه شیراز از ۲۸ شهریور اعتصاب می‌کنند
@@ -7,6 +47,13 @@ src :@mamlekate
 ‏به گزارش شورای صنفی اعضای هیات علمی دانشگاه شیراز، این تصمیم در پی پیگیری های مکرر درباره احکام و حقوق قانونی اعضای هیات علمی و حل نشدن مشکلات مربوط به آن اتخاذ شده است. این شورا اعلام کرده سازمان برنامه و بودجه بنایی برای حل این مسائل ندارد و تعلیق فعالیت ها بر اساس مصوبه جلسه عمومی خردادماه انجام می شود.
 ‏
 ‏شورای صنفی دانشگاه شیراز همچنین حمایت خود را از اطلاعیه کانون صنفی استادان دانشگاهی ایران درباره تعلیق فعالیت های دانشگاهی از آغاز ترم جدید اعلام کرده و از هیات رییسه دانشگاه خواسته است به تفاهم های پیشین پایبند باشد.
+‏
+‏
+‏💎 چهارسال پیش:
+‏
+‏«گوش کنید! این صدای مردم است!
+‏
+‏باید خودمان را جمع کنیم و وقت خواستن است. اگر تمام مردم در یک لحظه یک چیز را بخواهند، این قدرت حریفی نخواهد داشت و آزادی برای همه سودمند است؛ حتی برای مخالفان امروز.»
 ‏
 ‏@mamlekate
 15:53
@@ -111,7 +158,7 @@ src :@WAR_ROOM_NEWS
 
 
 src :@naya_foriraq
-‏وزارة التربية العراقية تقرر بدء الدوام المدرسي في 1 تشرين الأول بعد استكمال استعداداتها لانطلاق العام الدراسي الجديد
+‏🇮🇶وزارة التربية العراقية تقرر بدء الدوام المدرسي في 1 تشرين الأول بعد استكمال استعداداتها لانطلاق العام الدراسي الجديد.
 15:45
 1405/06/26
 
@@ -181,6 +228,8 @@ src :@wfwitness
 ‏Iran has maintained that regional tensions will not ease without an end to what it describes as US-Israeli hostilities, while China has publicly called for restraint and the reopening of the Strait of Hormuz. 
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 15:43
 1405/06/26
 
@@ -1370,19 +1419,6 @@ src :@IranintlTV
 
 
 
-src :@ClashReport
-[عکس]
-‏Le Pen Says Ukraine Conflict Risks Becoming WWIII or a Hundred Years’ War
-‏
-‏French presidential frontrunner warned that the Russia-Ukraine conflict could escalate into a NATO war, while calling for Türkiye, Germany and Poland to take part in negotiations.
-‏
-‏READ MORE
-14:38
-1405/06/26
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏حملات جنگنده‌های سعودی به مواضع حوثی ها در منطقه الحوبان در شرق شهر تعز در جنوب غربی یمن  🆔@WAR_ROOM_NEWS
 14:38
@@ -1409,18 +1445,6 @@ src :@mohem_mat
 ‏هم‌میهن
 ‏
 ‏@mohem_mat
-14:37
-1405/06/26
-
-
-
-
-src :@ClashReport
-‏Türkiye has proposed a deal to Russia and Ukraine aimed at stopping attacks on civilian ships in the Black Sea.
-‏
-‏A Turkish diplomat said Ankara shared a draft memorandum with both sides to “come up with a solution to those strikes taking place in the Black Sea.”
-‏
-‏Source: AFP
 14:37
 1405/06/26
 
@@ -5496,30 +5520,6 @@ src :@Americana_ir
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Guys, there is a huge misunderstanding about the circulating images of the RSAF F-15, apparently. 
-‏Some of the Persian websites that are being translated are showing the 25 of Shahrivar 1405 as 2021, which wrong (use http://taghvim.com for converting the date), problem is with the translation button of google as it sucks at converting Hijri Shamsi to Gregorian. 
-‏In case you doubt it, you may take an ACTUAL PERSIAN screenshot and ask any LLM/AI for converting the date. 
-‏
-‏I'm not in a position to confirm those images of the wreckage officially, yet, the RSAF 5539 was DOWNED. LLA and forensics shows the image was not touched, there's no signature of any LLMs for generation, and the image is certainly not old (try tineye for this matter)
-‏
-‏ترجمه خودکار فارسی
-‏
-‏بچه‌ها، ظاهراً سوءتفاهم بزرگی درباره تصاویر در حال انتشار از اف-۱۵ نیروی هوایی سلطنتی عربستان سعودی وجود دارد.
-‏برخی از وب‌سایت‌های فارسی که ترجمه می‌شوند، ۲۵ شهریور ۱۴۰۵ را سال ۲۰۲۱ نشان می‌دهند که اشتباه است (برای تبدیل تاریخ از http://taghvim.com استفاده کنید). مشکل از دکمه ترجمه گوگل است، چون در تبدیل تاریخ هجری شمسی به میلادی افتضاح عمل می‌کند.
-‏اگر شک دارید، می‌توانید از متن واقعاً فارسی اسکرین‌شات بگیرید و از هر مدل زبانی بزرگ (LLM) یا هوش مصنوعی بخواهید تاریخ را تبدیل کند.
-‏
-‏هنوز در موقعیتی نیستم که بتوانم آن تصاویر لاشه را رسماً تأیید کنم، اما اف-۱۵ شماره ۵۵۳۹ نیروی هوایی سلطنتی عربستان سعودی ساقط شد. بررسی‌های LLA و جرم‌یابی دیجیتال نشان می‌دهد تصویر دست‌کاری نشده، هیچ نشانه‌ای از تولید آن توسط مدل‌های زبانی بزرگ وجود ندارد و تصویر قطعاً قدیمی نیست (برای بررسی این موضوع tineye را امتحان کنید).
-‏
-‏𝕏  ·  @shin_persian
-21:45
-1405/06/25
-
-
-
-
 src :@Minas_Tirith2024
 ‏وقتی تفکر و استراتژی درست نظامی ندارید نتیجه این می شود که با 64 میلیارد دلار بودجه نظامی به هوچیگری و مظلوم نمایی متوسل می شوید   @Minas_Tirith2024
 21:36
@@ -5586,38 +5586,6 @@ src :@MilitiaNews
 
 src :@rnintel
 ‏🇺🇸⚡️- The Fed raises interest rates by 25 basis points.
-21:32
-1405/06/25
-
-
-
-
-src :@Shin_Persian
-‏Emanuel (Mannie) Fabian ✓ @manniefabian
-‏
-‏Three Hamas and Palestinian Islamic Jihad operatives were killed in recent Israeli strikes in the Gaza Strip, the military announces.
-‏
-‏A strike earlier today in Gaza City killed Saeed Asaad Saeed Akrim, identified by the IDF as a commander in Hamas's Daraj-Tuffah Battalion.
-‏
-‏Akrim had been involved in placing explosive devices and advancing other attacks on Israeli troops, the IDF says.
-‏
-‏The military says two separate strikes yesterday in northern Gaza killed Nimer Yasser Nimer Arshi, a rocket-launching Islamic Jihad operative in the Daraj-Tuffah area, and Ahmad Baza'at Saleh Shaer, a member of Hamas's Shejaiya Battalion who planted explosive devices.
-‏
-‏The three had been advancing attacks "while systematically violating the ceasefire," and were killed to "remove the threat," the army adds.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏ارتش اعلام کرد سه عامل حماس و جهاد اسلامی فلسطین در حملات اخیر اسرائیل در نوار غزه کشته شدند.
-‏
-‏در حمله‌ای که اوایل امروز در شهر غزه انجام شد، سعید اسعد سعید اکریم، که ارتش دفاعی اسرائیل او را یکی از فرماندهان گردان درج-تفاح حماس معرفی کرده است، کشته شد.
-‏
-‏ارتش دفاعی اسرائیل می‌گوید اکریم در کارگذاری مواد منفجره و پیشبرد حملات دیگر علیه نیروهای اسرائیلی نقش داشت.
-‏
-‏ارتش می‌گوید در دو حمله جداگانه روز گذشته در شمال غزه، نمر یاسر نمر عرشی، عامل پرتاب راکت جهاد اسلامی در منطقه درج-تفاح، و احمد بزاعت صالح شاعر، عضو گردان شجاعیه حماس که مواد منفجره کار می‌گذاشت، کشته شدند.
-‏
-‏ارتش می‌افزاید این سه نفر «در حالی که به‌طور نظام‌مند آتش‌بس را نقض می‌کردند»، در حال پیشبرد حملات بودند و برای «رفع تهدید» کشته شدند.
-‏
-‏𝕏  ·  @shin_persian
 21:32
 1405/06/25
 
@@ -6842,16 +6810,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Mena_Live
-‏Houthi Yemeni Armed Forces: “Stay tuned for exclusive footage of the downing of a Saudi F15 fighter jet and its wreckage in the Marib province.”
-‏
-‏@Mena_Live
-16:25
-1405/06/25
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
@@ -7043,14 +7001,4 @@ src :@OfficialRezaPahlavi
 ‏
 ‏@OfficialRezaPahlavi
 16:01
-1405/06/25
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇽🇰 Former Kosovo President Hashim Thaçi found guilty of war crimes.
-‏
-‏@BRICSNews
-15:56
 1405/06/25
