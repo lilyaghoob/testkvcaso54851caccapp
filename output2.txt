@@ -1,8 +1,29 @@
+src :@Mena_Live
+‏Bloomberg:
+‏
+‏Saudi Aramco is seeking to secure thousands of tons of diesel fuel from the Mediterranean region, as its supplies have been disrupted due to a series of attacks targeting its energy facilities in recent weeks.
+‏
+‏@Mena_Live
+01:23
+1405/06/27
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Bloomberg:
 ‏
 ‏Saudi Aramco is seeking to secure thousands of tons of diesel fuel from the Mediterranean, as its supplies have been affected by a series of attacks targeting its energy facilities in recent weeks.
+01:23
+1405/06/27
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇺🇸🇮🇶 الانسحاب المذل للقوات الأمريكية من محافظات اقليم كوردستان العراق مروراً بمدينة البغدادي بأتجاه سريع الأنبار الأردن
 01:23
 1405/06/27
 
@@ -1462,20 +1483,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 23:10
-1405/06/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇷🇺🇨🇳⚡️ — Iranian Parliament Speaker Ghalibaf:
-‏The unipolar order in which one side extracts concessions through force and coercion has ended. 
-‏
-‏China and Russia’s vetoes rejected the political abuse of the Security Council and reaffirmed the rule of law. 
-‏
-‏We must defend multilateralism; unilateralism serves no one’s interests.
-23:09
 1405/06/26
 
 
@@ -3761,14 +3768,6 @@ src :@cataphract1
 
 
 
-src :@naya_foriraq
-‏🇮🇶متحدث باسم الحكومة العراقية: رئيس الوزراء سيذهب إلى الولايات المتحدة الأسبوع المقبل.
-20:39
-1405/06/26
-
-
-
-
 src :@Mena_Live
 ‏Trump: "I will soon make a very important decision regarding Iran. The possibility of eliminating the Iranian regime is a weighty decision, and all options are on the table. I cannot go into details."
 ‏
@@ -5966,15 +5965,6 @@ src :@cataphract1
 ‏✒️#Crash
 ‏📃@Cataphract1
 14:52
-1405/06/26
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏The Syrian Minister of Energy and Syrian President al-Sharaa have reached an agreement regarding fuel pricing in Syria.  @Mena_Live
-14:51
 1405/06/26
 
 
