@@ -7094,18 +7094,3 @@ src :@thewarreporter
 ‏— AP | @TheWarReporter
 07:24
 1405/06/26
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏A short analysis of why I think a radar-guided missile was used to shoot down the Royal Saudi Air Force (RSAF) F-15SA in Yemen, based on the thermal-camera footage released by Ansar Allah.
-‏
-‏The pilot initially performs a sharp evasive maneuver, suggesting the crew detected or received warning of an incoming threat. The F-15SA is equipped with the AN/AAR-57 Common Missile Warning System (CMWS), a passive electro-optical missile-warning system designed to detect the signatures of incoming missiles and provide an alert to the crew. The aircraft also carries the AN/ALQ-239 Digital Electronic Warfare System (DEWS), which provides radar-warning, threat identification and emitter geolocation.
-‏
-‏Immediately after the maneuver, the pilot releases chaff five times in succession. Chaff consists of very fine radar-reflective fibers, typically glass fibers coated with aluminum, which rapidly disperse into a cloud designed to create false radar returns and seduce radar-guided missiles away from the aircraft. The F-15SA's countermeasure system can automatically or manually dispense chaff and flares depending on the threat.
-‏
-‏This is the most significant clue in the footage. Chaff is primarily intended to counter radar-based threats, whereas flares are used against infrared-guided missiles. The repeated chaff deployment therefore suggests that the crew was responding to a radar-related threat.
-05:55
-1405/06/26
