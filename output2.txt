@@ -2142,15 +2142,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏استهداف سفينة بمضيق هرمز على بعد 16 ميلا بحريا شمال شرقي خصب بسلطنة عمان.
-23:02
-1405/06/26
-
-
-
-
 src :@didarnews1
 ‏🔴به گزارش آسوشیتدپرس، دولت آمریکا مانعی برای سفر هیأت ایرانی به نیویورک جهت شرکت در مجمع عمومی سازمان ملل ایجاد نمی‌کند و ویزای مقامات صادر خواهد شد. انتظار می‌رود رئیس‌جمهور و وزیر خارجه ایران امسال هم در نیویورک حاضر باشند.
 ‏
@@ -2194,24 +2185,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:01
-1405/06/26
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Satellite imagery shows damage to at least three aircraft hangars or shelters for F-15 fighter jets inside Saudi Arabia’s King Khalid Air Base.
-22:58
-1405/06/26
-
-
-
-
-src :@Alibk3
-[عکس]
-‏صور الأقمار الصناعية تظهر تضرر ثلاثة حظائر طائرات أو ملاجئ على الأقل لمقاتلات F-15 داخل قاعدة خالد السعودية.
-22:58
 1405/06/26
 
 
@@ -2432,14 +2405,6 @@ src :@Middle_East_Spectator
 
 src :@intelslava
 ‏🇺🇦🔥 In Ukraine, in the Mykolaiv district of Lvov Oblast, a terrorist attack occurred near the building of the Territorial Recruitment and Social Support Center (TCC).  It is known that someone threw an explosive device near the building.  A TCC serviceman…
-22:46
-1405/06/26
-
-
-
-
-src :@Ali_bk_2
-‏A Yemeni attack targets Abha in Saudi Arabia
 22:46
 1405/06/26
 
