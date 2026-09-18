@@ -1,3 +1,44 @@
+src :@defence_news
+[عکس]
+‏📱 سرویس های یک ماهه WireGuard 📱
+‏
+‏😇 بدون محدودیت حجم
+‏🎲 مخصوص بازی و امور نیازمند پینگ پایین
+‏
+‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
+‏
+‏💰 فقط 0️⃣0️⃣0️⃣0️⃣5️⃣4️⃣ تومان
+‏⚡️ پینگ بهتر، سرعت بالاتر و اتصال پایدارتر
+‏🌍 مناسب گیم، استریم، دانلود و استفاده روزمره
+‏🔒 امنیت بالا و کیفیت اتصال متفاوت
+‏
+‏📩 برای خرید و دریافت سریع:
+‏
+‏😎@CFoxSupport
+14:45
+1405/06/27
+
+
+
+
+src :@rnintel
+‏🇵🇰⚡️- At least 16 people, including five police officers, have been killed in a terror attack in a mosque in north-western Pakistan. Local security forces are still engaged in a firefight with the attackers.
+14:45
+1405/06/27
+
+
+
+
+src :@ClashReport
+‏NEW: Saudi Aramco has told at least two European refiners they will receive no Saudi crude next month after an attack on the kingdom’s key East-West pipeline to the Red Sea.
+‏
+‏Source: Bloomberg
+14:45
+1405/06/27
+
+
+
+
 src :@guard_warriors
 [عکس]
 ‏✪ پنتاگون شرکت برنده قرارداد توسعه جنگنده دریایی نسل ششم F/A-XX برای نیروی دریایی ایالات متحده را انتخاب کرده است. این موضوع در تاریخ 8 سپتامبر توسط منابع خبرگزاری رویترز اعلام شد. شرکت‌های بوئینگ و نورتروپ گرومن در این پروژه رقابت می‌کنند، اما نام برنده هنوز به طور رسمی اعلام نشده است. انتظار می‌رود این اعلامیه در هفته‌های آینده صورت گیرد.
@@ -2733,22 +2774,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-[فایل]
-‏✈️ آپدیت اپلیکیشن MelBet 🥇
-‏
-‏🎁 کد هدیه 100 دلاری: Sport100
-‏
-‏🔒 برای تعیین رمز ورود حداقل از 8 کاراکتر و حروف بزرگ و کوچک انگلیسی و اعداد انگلیسی استفاده کنید، مانند Hamid120
-‏
-‏🇮🇷 برای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.
-‏✅ ورود به اپلیکیشن بدون فیلترشکن
-10:19
-1405/06/27
-
-
-
-
 src :@mohem_mat
 ‏آمریکا اعلام کرد که رسماً عضویت و مشارکت خود در شورای حقوق بشر سازمان ملل را پایان داده است.
 ‏
@@ -4874,14 +4899,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 21:40
-1405/06/26
-
-
-
-
-src :@rnintel
-‏🇺🇸🇶🇦🇮🇱⚡- Qatar has become the newest member from the Middle East to submit a request for the purchase of F-35 jets, following Saudi Arabia, the UAE and Turkey.  Israel has lodged a protest, as it did with Turkey's request, against the sale of the F-35s to…
-21:39
 1405/06/26
 
 
