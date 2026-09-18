@@ -1,3 +1,51 @@
+src :@didarnews1
+[عکس]
+‏🔴اولین تصویر از قربانیان جنایت خانوادگی در پونک
+‏
+‏🔹در این جنایت تلخ، ۳ زن و ۲ مرد قربانی طمع یکی از نزدیک‌ترین فرد زندگی خود شدند.
+‏متهم مادر و یکی از خواهرانش را خفه کرده و ۲ برادر و یکی دیگر از خواهرانش را با شلیک گلوله کشته است.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+21:10
+1405/06/27
+
+
+
+
+src :@thewarreporter
+‏🇨🇳🇮🇷🇮🇱 — Chinese, Iranian and Israeli firms have conducted first-of-their-kind AI-driven influence campaigns using Chinese open-source models, including DeepSeek, to create autonomous 'agents' capable of handling the entire process — from opening fake social media accounts to coordinating messaging — with minimal human involvement.
+‏
+‏The AI agents created networks of fake accounts across Instagram, Facebook, X, and TikTok, posting about politics and current events to influence public opinion.
+‏
+‏Iran's campaign was the most 'concerning'. The agents posed as ordinary Americans in major U.S. cities, tagged journalists and politicians, spread anti-Republican memes, and gained around 80,000 followers in the first half of 2026.
+‏
+‏One Israeli campaign was run by IntelEye, founded by former NSO Group employees, using DeepSeek to control thousands of accounts posting both pro- and anti-Netanyahu content ahead of Israel's October elections. IntelEye said the operation was 'defensive research'.
+‏
+‏— The New York Times | @TheWarReporter
+21:09
+1405/06/27
+
+
+
+
+src :@mohem_mat
+[عکس]
+‏اولین تصویر از قربانیان جنایت خانوادگی در پونک
+‏
+‏در این جنایت تلخ، ۳ زن و ۲ مرد قربانی طمع یکی از نزدیک‌ترین فرد زندگی خود شدند.
+‏متهم مادر و یکی از خواهرانش را خفه کرده و ۲ برادر و یکی دیگر از خواهرانش را با شلیک گلوله کشته است.
+‏
+‏🔗 ندا خدایاری | خبرنگار (@Nedakhodayari1) 
+‏
+‏@mohem_mat
+21:08
+1405/06/27
+
+
+
+
 src :@samueltarikh
 ‏الاخبار: 
 ‏
@@ -3316,18 +3364,6 @@ src :@samueltarikh
 
 
 
-src :@ClashReport
-‏Pakistan has reintroduced austerity measures to conserve fuel amid renewed Middle East tensions. 
-‏
-‏Markets, shops and malls must close by 9pm, while restaurants can operate until 11pm.
-‏
-‏The government will cut fuel allowances for official vehicles by 50% for three months, reduce non-salary spending by 5%, suspend vehicle and durable goods purchases, and restrict official foreign travel.
-16:55
-1405/06/27
-
-
-
-
 src :@samueltarikh
 ‏⭕️سخنگوی وزارت خارجه آمریکا در خصوص سفر هیات ایرانی به آمریکا برای حضور در نشست سالانه سازمان ملل: 
 ‏
@@ -3517,20 +3553,6 @@ src :@selena_updates
 ‏
 ‏Following the cases, the Shin Bet and police warned that hostile intelligence and militant organizations continue attempting to recruit Israelis for espionage and security-related missions, including through approaches on social media.
 16:33
-1405/06/27
-
-
-
-
-src :@mohem_mat
-‏سیدعلی پورطباطبایی، روزنامه‌نگار:
-‏
-‏برجام فقط یک توافق سیاسی نبود. قطعنامه ۲۲۳۱ پرونده هسته‌ای ایران را از مسیر تحریم‌های فصل هفتم خارج کرد، مشروعیت برنامه صلح‌آمیز هسته‌ای را تثبیت کرد و برای تحریم‌های شورای امنیت تاریخ پایان گذاشت.
-‏دیروز مسکو و پکن دقیقاً روی همین نقطه ایستادند: وقتی قطعنامه ۲۲۳۱ منقضی شده، کمیته تحریم و هیأت کارشناسان آن مبنای حقوقی ندارد.
-‏این یعنی برجام هنوز در صحنه بین‌المللی کار می‌کند. حتی مخالفان سیاسی آن ناچارند با منطق حقوقی همان توافق حرف بزنند. وتوی دیروز نشان داد دیپلماسی ظریف فقط یک متن روی کاغذ نبود؛ چارچوبی ساخت که سال‌ها بعد هم می‌تواند مانع فشار یک‌جانبه در شورای امنیت شود و برای ایران دستاورد حقوقی بیاورد.
-‏
-‏@Avash_media
-16:30
 1405/06/27
 
 
@@ -4449,20 +4471,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 13:38
-1405/06/27
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴باراک راوید: ترامپ ساعتی پیش در یک تماس تلفنی به من گفت که در جنگ با ایران به یک نقطه حساس و سرنوشت‌ساز نزدیک شده. جایی که باید تصمیم بگیرد آیا حملات گسترده آمریکا را دوباره از سر بگیرد تادر نهایت به این درگیری پایان دهد یا نه
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-13:34
 1405/06/27
 
 
