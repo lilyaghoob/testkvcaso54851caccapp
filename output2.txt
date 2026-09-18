@@ -1,3 +1,13 @@
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | جمعه ۲۷ شهریور
+‏@iranintlTV
+21:18
+1405/06/27
+
+
+
+
 src :@mohem_mat
 ‏ترامپ گفت:
 ‏
@@ -11,7 +21,9 @@ src :@mohem_mat
 
 
 src :@WAR_ROOM_NEWS
-‏قالیباف: دورانه‌ای آغاز شده که در آن هواپیماهای شما از مدل‌های F-35 و F-15 مورد هدف قرار می‌گیرند،آنچه که قبلاً یک کابوس وحشتناک بود، اکنون به یک واقعیت روزمره تبدیل شده است. با آن کنار بیایید.
+‏قالیباف: دورانی که جنگنده‌های اف۳۵ و اف۱۵ شما شکار می‌شوند و مجبور می‌شوید گزارش کنید که منهدم شده‌اند همین حالا آغاز شده است چیزی که زمانی تنها یک کابوس وحشتناک بود حالا به واقعیتی روزمره تبدیل شده است با آن کنار بیایید
+‏
+‏🆔@WAR_ROOM_NEWS
 21:14
 1405/06/27
 
@@ -308,6 +320,8 @@ src :@Minas_Tirith2024
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏یکی از دو سامانه پرتابگر اس-۴۰۰ که نیروهای روسیه چند روز پیش در از آن به عنوان لانچر پرتاب موشک های تغییر کاربری یافته به حالت تهاجم زمین‌به‌زمین برای حمله به کیف استفاده کرده بودند، توسط نیروهای دفاعی اوکراین منهدم شد
+‏
+‏🆔@WAR_ROOM_NEWS
 20:55
 1405/06/27
 
@@ -1765,15 +1779,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱❌🇱🇧 — Earlier, white phosphorus artillery strikes were conducted by the IDF towards al-Qantara, southern Lebanon.
-19:14
-1405/06/27
-
-
-
-
 src :@Artemis_Force
 ‏Task Force Artemis⚓️ pinned a photo
 19:13
@@ -3072,19 +3077,6 @@ src :@OSINTWarfare
 ‏
 ‏The F-2000A is part of Italy’s Task Force Air Arabia detachment, which deployed four F-2000A Eurofighters, one E-550A airborne early warning and control (AEW&C) aircraft, and four C-130J/KC-130J aircraft to assist Saudi Arabia with air defense duties.
 17:23
-1405/06/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A Russian S-400 air defence system launcher was reportedly destroyed in Bryansk Oblast, ~90 km from Ukrainian border.
-‏
-‏The launcher was allegedly modified to fire RM-48U ballistic missiles, recently used in strikes on Kyiv. 
-‏
-‏Ukrainian intelligence claims up to 17 S-400 launchers have been converted for ground attacks.
-17:22
 1405/06/27
 
 
