@@ -1,3 +1,64 @@
+src :@MilitarryWorld
+‏🔴مشاور ارشد ترامپ:
+‏ترامپ مصمم است جنگ ایران را به‌زودی پایان دهد 
+‏
+‏شرکای او در منطقه نیز همین‌طور هستند؛ هیچ‌کس جنگ نمی‌خواهد 
+‏
+‏او به مذاکرات و گفت‌و‌گو‌ها فرصت می‌دهد
+‏﻿
+‏@MilitarryWorld | Parsa
+20:01
+1405/06/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇩🇪⚡️ — Germany’s governing CDU/CSU and SPD are negotiating a new fuel-relief package that would cut gasoline prices and later introduce a government price ceiling, BILD reports.
+‏
+‏Under the proposal, the energy tax on gasoline would be reduced by 14 cents per liter, with the resulting VAT reduction bringing the total price cut to around 17 cents per liter. The measure could take effect as early as October 1 and would also benefit businesses.
+‏
+‏A separate fuel price cap would then be introduced by January 1, setting maximum gasoline and diesel prices based on movements in global oil prices, similar to systems used in Belgium and Luxembourg. 
+‏
+‏Financing remains unresolved, with the federal government negotiating with Germany’s states over sharing the multibillion-euro cost.
+20:00
+1405/06/27
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸ترامب: الولايات المتحدة تتحدث مع الحوثيين، الحوثيون أيضًا يرغبون في إبرام صفقة.
+19:58
+1405/06/27
+
+
+
+
+src :@rnintel
+‏🇮🇷🇮🇱⚡️- Israel is investigating a “serious espionage case” involving alleged spying for Iran from within the IDF.
+19:58
+1405/06/27
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇩🇪Bild: Germany is negotiating a package aimed at reducing the impact of high fuel prices through a temporary fuel-tax reduction and a fuel-price cap.
+‏
+‏The energy tax on gas could be reduced by 14 cents per litre, meaning the price of fuel would drop by 17 cents due to decreased VAT. 
+‏
+‏Counter financing is still being negotiated, which has caused a delay in passing the legislation. 
+‏
+‏@wfwitness
+19:58
+1405/06/27
+
+
+
+
 src :@defence_news
 ‏💢تبلیغات در کانال وقایع
 ‏عرض سلام خدمت مخاطبین گرامی !
@@ -278,14 +339,6 @@ src :@IranintlTV
 ‏جزییات بیشتر
 ‏
 ‏@iranintltvsport
-19:36
-1405/06/27
-
-
-
-
-src :@mwarmonitor
-‏📝سوالی دارید دایرکت جواب میدم...
 19:36
 1405/06/27
 
@@ -2972,18 +3025,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏🔴ماکرون:  تنگهٔ هرمز اساساً مسدود مانده است و هیچ توافقی برای باز کردن این تنگه وجود ندارد
-‏
-‏در واقع، وضعیت مربوط به حمل‌ونقل نسبت به چند هفته پیش، وخیم‌تر شده است.
-‏
-‏@MilitarryWorld | Parsa
-15:51
-1405/06/27
-
-
-
-
 src :@rnintel
 ‏🇪🇺⚡️- BREAKING: According to today's data, gas prices across the EU have reached historic price heights. Records were broken in Germany, France, Poland and Denmark. Diesel prices had their records broken in Germany, France, Italy and Latvia.  Should the trend…
 15:47
@@ -5122,6 +5163,18 @@ src :@Middle_East_Spectator
 
 
 
+src :@mwarmonitor
+‏⏺دونالد ترامپ به وزارت دادگستری دستور داده است تا نسبت به حکم دادگاهی که محدودیت‌های مربوط به سلاح‌های موسوم به «سلاح‌های گانگستری» را کاهش داده است، درخواست تجدیدنظر نکند.
+‏
+‏▪️این تصمیم به برخی از آمریکایی‌ها اجازه می‌دهد تفنگ‌های لوله‌کوتاه، شاتگان‌های لوله‌کوتاه و صداخفه‌کننده‌ها را با نظارت کمتر دولت در اختیار داشته باشند یا به فروش برسانند.CBS News 
+‏
+‏@mwarmonitor
+05:13
+1405/06/27
+
+
+
+
 src :@Ali_bk_2
 ‏Air defenses activated in Sanaa, Yemen.
 04:57
@@ -5164,15 +5217,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:35
-1405/06/27
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇾🇪🇸🇦⚡️- Unbelievable scenes at King Fahd Industrial Port, Yanbu, Saudi Arabia, after it was struck by Ansarullah ballistic missiles earlier today.
-02:52
 1405/06/27
 
 
@@ -6101,14 +6145,6 @@ src :@OSINTWarfare
 
 
 
-src :@guard_warriors
-‏✪ وزارت امور خارجه آمریکا اعلام کرد ارزش توافق فروش 48 فروند از جنگنده‌های F-35A لایتنینگ 2 به عربستان سعودی حدود ۲۴.۳ میلیارد دلار برآورد می‌شود.  @Guard_Warriors | Mmd
-21:26
-1405/06/26
-
-
-
-
 src :@samueltarikh
 ‏آمریکا با فروش جنگنده‌های فوق‌پیشرفته F-۳۵ به عربستان موافقت کرد
 21:26
@@ -6446,30 +6482,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 20:03
-1405/06/26
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇵🇱🇷🇺 Poland's Prime Minister Tusk says Russia plans drone and missile strikes against nations supporting Ukraine.
-‏
-‏@BRICSNews
-20:00
-1405/06/26
-
-
-
-
-src :@BellumActaNews
-‏🇸🇦🇨🇳🇮🇷🇾🇪 — Saudi Arabia asked China to privately pressure Iran to restrain the Houthis after their seizure of Yemen's Red Sea coast and the Bab al-Mandab Strait.
-‏
-‏Three Iranian sources said Beijing passed the message to Tehran, going beyond its public calls for restraint.
-‏
-‏Iran's response was that regional stability depends on ending the U.S.-Israeli war against Iran first.
-‏
-‏China issued no threats and did not leverage its economic influence over Tehran.
-‏
-‏— Reuters | @TheWarReporter
-19:59
 1405/06/26
