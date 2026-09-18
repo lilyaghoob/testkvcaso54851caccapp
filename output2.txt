@@ -1,3 +1,28 @@
+src :@ClashReport
+‏Cybersecurity researchers hacked into an OpenAI employee’s ChatGPT account using Anthropic tools, gaining access to internal software information and GitHub code.
+‏
+‏The three Hacktron AI researchers exploited a flaw in OpenAI’s third-party Discourse community forum as part of the company’s bug bounty programme and were paid $6,500. OpenAI said it fixed the vulnerabilities.
+‏
+‏Source: FT
+10:08
+1405/06/27
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The UN General Assembly voted to allow Palestinian President Mahmoud Abbas to address world leaders by video after the U.S. denied him a visa to travel to New York.
+‏
+‏The resolution also allows Abbas and other Palestinian officials to participate virtually in UN meetings for the next year if they cannot enter the U.S.
+‏
+‏Source: Reuters
+10:07
+1405/06/27
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏بازگشت احتمالی F-16 به نیروی هوایی آمریکا
@@ -1315,25 +1340,6 @@ src :@Indypersian
 
 
 
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، پنج‌شنبه گفت به نظر او جمهوری اسلامی هنوز برای رسیدن به توافق آماده نیست و افزود واشینگتن تنها توافقی را خواهد پذیرفت که آن را «خوب» بداند.
-‏
-‏ترامپ گفت آمریکا توان جمهوری اسلامی برای دستیابی به سلاح هسته‌ای را از بین برده و گفت اگر از بمب‌افکن‌های بی‌۲ استفاده نمی‌کرد، ایران می‌توانست به سمت ساخت سلاح هسته‌ای پیش برود.
-‏
-‏او جمهوری اسلامی را در «وضعیت بسیار ضعیفی» توصیف کرد و اضافه کرد اقتصاد ایران در بدترین وضعیت خود قرار دارد، تورم از ۳۰۰ درصد فراتر رفته و حکومت قادر به پرداخت حقوق نیروهای نظامی و پلیس نیست.
-‏
-‏ترامپ همچنین گفت آمریکا تنگه هرمز را کنترل می‌کند و  نیروهای آمریکایی شب‌ها شمار زیادی از کشتی‌ها را از بین می‌برند و رادارهای جمهوری اسلامی را نابود کرده‌اند.
-‏
-‏رییس‌جمهوری آمریکا در پاسخ به سوالی درباره احتمال اعزام نیروهای بیشتر یا دستیابی به توافق گفت: «فکر می‌کنم در نهایت پیروز خواهیم شد. نمی‌دانم این پیروزی از طریق توافق به دست می‌آید یا نه.»
-‏
-‏https://iranintl.com/202609182136
-05:05
-1405/06/27
-
-
-
-
 src :@Ali_bk_2
 ‏Air defenses activated in Sanaa, Yemen.
 04:57
@@ -2070,17 +2076,6 @@ src :@Alibk3
 ‏
 ‏حاولت ناقلة النفط المخالفة «ترند»، التي ترفع علم توغو، ليلة أمس العبور بشكل غير قانوني من مضيق هرمز، بتحريض وخداع من الجيش الأمريكي، إلا أنها تعرّضت للاستهداف، وتوقفت بعد اندلاع حريق فيها.
 01:01
-1405/06/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran’s IRGC Navy said a Togo-flagged tanker, Trend, was hit and stopped after catching fire while attempting to illegally cross the Strait of Hormuz.
-‏
-‏The IRGC warned that any unauthorized vessel passage through the strategic waterway would result in the “destruction” of the vessel.
-00:58
 1405/06/27
 
 
@@ -3517,14 +3512,6 @@ src :@guard_warriors
 ‏
 ‏P1/2
 ‏@Guard_Warriors | Mmd
-22:01
-1405/06/26
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶🇨🇳حادث سير عنيف في محافظة ذي قار اصابة اكثر من ٨ افراد بينهم افراد من الجنسية الصينية.
 22:01
 1405/06/26
 
@@ -6865,16 +6852,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 10:51
-1405/06/26
-
-
-
-
-src :@guard_warriors
-‏✪ الکساندر میخایف، مدیرعامل شرکت روسوبورون اکسپورت، به خبرگزاری ریانووستی گفت: اولین قرارداد صادرات 10 فروند هواپیمای آموزشی-رزمی Yak-130M امضا شده است.
-‏
-‏او در نمایشگاه هوایی بین‌المللی العالمین ۲۰۲۶ در مصر گفت، هواپیمای آموزشی رزمی یاک-۱۳۰ام اولین نمایش بین‌المللی خود را در نمایشگاه هوایی دبی در اواخر سال ۲۰۲۵ تجربه کرد و اولین قرارداد برای تحویل بیش از ۱۰ فروند هواپیما در سال ۲۰۲۶ امضا و لازم‌الاجرا شد.
-‏
-‏@Guard_Warriors | Mmd
-10:07
 1405/06/26
