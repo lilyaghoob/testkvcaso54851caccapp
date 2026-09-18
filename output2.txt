@@ -475,14 +475,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-‏🇮🇶⚡️ — Fighter jet activity in Erbil, northern Iraq.
-01:57
-1405/06/27
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏French President Macron will host leaders of parliamentary parties at the Élysée Palace on September 18 to discuss international conflicts and their domestic consequences.
@@ -3830,18 +3822,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 20:50
-1405/06/26
-
-
-
-
-src :@intelslava
-‏The head of Turkish intelligence, Ibrahim Kalin, visited the Afghan capital Kabul and the city of Kandahar yesterday.
-‏
-‏Ibrahim Kalin met with his counterpart Abdulhaq Wasiq and representatives of the Afghan interim government.
-‏
-‏@IntelSlava
-20:49
 1405/06/26
 
 
