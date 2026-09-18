@@ -1,3 +1,64 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 این روزها که شناورهای عبوری از تنگه هرمز، مورد هدف قرار گرفته می‌شوند، vlcc ها هم در اهداف قرار دارند.
+‏
+‏🔹نام آن‌ها مخفف 
+‏Very Large Crude Carrier 
+‏است، که در حال حاضر بزرگترین شناورهای عملیاتی در حوزه انتقال نفت خام هستند؛ سوپر نفتکش‌ نیز اصطلاح دیگری برای همین شناورهع است. ظرفیت بارگیری این شناورها تا حدود دو میلیون بشکه نفت خام هم می‌تواند برسد.
+‏
+‏🔹این شناورها در واقع ستون فقرات انتقال نفت خام به نقاط مختلف دنیا هستند.فرآیند انتقال نفت خام از یک شناور به شناور دیگر که sts نامیده شده و مخفف 
+‏Ship to Ship 
+‏است، در تنگه هرمز معمولا برای پر کردن vlcc ها انجام می‌شد.
+‏
+‏مکپر
+‏
+‏#تنگه_هرمز
+‏#vlcc #sts 
+‏
+‏@RASTAKHIZ_PERSIAN
+12:47
+1405/06/27
+
+
+
+
+src :@guard_warriors
+‏✪ وزیر دفاع ایتالیا در ۱۸ سپتامبر ۲۰۲۶ اعلام کرد یک فروند جنگنده EF-2000 ایتالیایی در جریان حمله به پایگاه هوایی ملک فهد در طائف آسیب دیده است. در این حادثه هیچ نیروی ایتالیایی آسیب ندیده و خسارت دیگری به تجهیزات یا زیرساخت‌های مورد استفاده نیروهای ایتالیایی گزارش نشده است.
+‏@Guard_Warriors | Mmd
+12:45
+1405/06/27
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇱🇧🇮🇱 IDF soldiers deliberately threw stun grenades towards Lebanese army soldiers stationed at the newly established position on the outskirts of Deir Mimas, with the aim of pushing them away from the area.  It is important to note that Deir Mimas is a…
+12:44
+1405/06/27
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇲 Initial reports that a tanker was struck near the Strait of Hormuz.
+‏
+‏@wfwitness
+12:44
+1405/06/27
+
+
+
+
+src :@Minas_Tirith2024
+‏به گفته وزیر دفاع ایتالیا روز گذشته طی حملات انصار الله یمن به پایگاه هوایی ملک فهد در طائف عربستان یک فروند جنگنده تایفون نیروی هوایی ایتالیا مورد اصابت قرار گرفته است. و هیچ نیرویی کشته یا تجهیزات دیگری آسیب ندید
+‏
+‏@RedLionCorps
+12:42
+1405/06/27
+
+
+
+
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Israeli artillery bombardment targeted the town of Shaqra in southern Lebanon.
 ‏
@@ -14,16 +75,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 12:41
-1405/06/27
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏همزمان با تشدید بحران اقتصادی جمهوری اسلامی و افزایش نارضایتی مردم، سپاه پاسداران و بسیج از صبح جمعه رزمایش نظامی و امنیتی «جان‌فدایان ایران» را در تهران برگزار می‌کنند. نیروهای شبه‌نظامی، حامیان حکومت و کودکان و نوجوانان سازمان‌دهی‌شده نیز در این رزمایش شرکت دارند.
-‏https://iranintl.com/202609180943
-12:40
 1405/06/27
 
 
@@ -2034,38 +2085,6 @@ src :@P_raetorio
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 Financial Times: OpenAI confirmed that its systems were breached by external security researchers who exploited Anthropic models to gain unauthorised access.
-‏
-‏The incident was disclosed in a statement on Monday, noting that the researchers used the competing AI provider's technology to bypass OpenAI's safeguards and extract internal data.
-‏
-‏OpenAI said the breach affected a limited set of non‑public datasets and that it has since patched the vulnerability and is reviewing its security protocols.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:16
-1405/06/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏BIG: The Trump administration is considering signing business deals with Russia before the war in Ukraine ends, marking a shift from Trump’s earlier position that economic agreements should wait until a peace settlement.
-‏
-‏Officials believe offering Moscow economic incentives could help persuade Putin and members of Russia’s elite to support an agreement. 
-‏
-‏Possible areas previously discussed by Russian officials include rare earths, aluminum, Arctic projects and energy.
-‏
-‏Source: NYT
-10:16
-1405/06/27
-
-
-
-
 src :@guard_warriors
 ‏✪ ژنرال دن کین، رئیس ستاد مشترک ارتش آمریکا، گفت نیروهای ایالات متحده باید برای جنگ‌های آینده در خارج از زمین، از جمله در محدوده اطراف ماه، آماده باشند.
 ‏
@@ -2404,6 +2423,20 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 09:31
+1405/06/27
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏بر اساس تصاویری که از همایش «جانفدایان ایران» در تهران منتشر شده، در این مراسم که جمعه ۲۷ شهریور در حال برگزاری است، تابوت‌هایی با تصاویر دونالد ترامپ، رییس‌جمهوری ایالات متحده و بنیامین نتانیاهو، نخست‌وزیر اسرائیل به نمایش گذاشته شده است.
+‏
+‏در مصاحبه‌هایی که با حاضران در این مراسم انجام شده، شماری از آن‌ها بر پیگیری انتقام از ترامپ و نتانیاهو به‌دلیل کشتن علی خامنه‌ای تاکید کرده‌اند.
+‏
+‏در مراسم‌های مشابهی که در ماه‌های اخیر در نقاط مختلف ایران برگزار شده نیز تصاویری از «اعدام نمادین» ترامپ و نتانیاهو و همچنین دست‌نوشته‌هایی با مضمون انتقام به نمایش درآمده بود.
+‏https://iranintl.com/202609181681
+09:30
 1405/06/27
 
 
@@ -2981,18 +3014,6 @@ src :@Indypersian
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️باشگاه چلسی پنجشنبه ۲۶ شهریور در بیانه‌ای اعلام کرد شرکت «کلیرلیک کپیتال»، که بهداد اقبالی و خوزه فلیسیانو آن را اداره می‌کنند، سهام تاد بولی و مارک والتر را خریداری می‌کند و در نتیجه کنترل کامل باشگاه را در اختیار خواهد گرفت. هانس‌یورگ ویس همچنان سهامدار و شریک گروه مالکیت چلسی باقی می‌ماند و بولی نیز پس از چهار سال از ریاست باشگاه کنار می‌رود.
-‏بهداد اقبالی، سرمایه‌گذار ایرانی‌ــ‌آمریکایی، در ایران متولد شده و در کودکی همراه خانواده‌اش به آمریکا مهاجرت کرده است. او در سال ۱۳۸۵ شرکت «کلیرلیک کپیتال» را همراه خوزه فلیسیانو بنیان گذاشت. کلیرلیک از سال ۱۴۰۱ سهامدار عمده چلسی بوده است و اکنون با خرید سهام بولی و والتر کنترل کامل باشگاه را به دست می‌گیرد.
-‏اقبالی و فلیسیانو در بیانیه مشترکی از بولی بابت دوران ریاستش تشکر کردند و گفتند با در اختیار گرفتن کنترل کامل چلسی، تمرکز کلیرلیک بر ادامه سرمایه‌گذاری در زیرساخت‌های باشگاه، عملکرد ورزشی، پرورش بازیکنان و دستیابی به موفقیت بلندمدت خواهد بود.
-‏@indypersian
-06:06
-1405/06/27
-
-
-
-
 src :@tabzlive
 ‏🇸🇦❌🇾🇪 — Around 50 minutes ago, Ansarallah air defenses activated in eastern Sana'a, capital of Ansarallah-controlled Yemen.
 06:02
@@ -3269,24 +3290,6 @@ src :@rnintel
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏All U.S. refueling aircraft over the Middle East have stopped transmitting tracking data.
-02:10
-1405/06/27
-
-
-
-
-src :@Alibk3
-[عکس]
-‏جميع طائرات التزوّد بالوقود الأميركية فوق الشرق الأوسط توقفت عن إرسال بيانات التتبّع.
-02:10
-1405/06/27
-
-
-
-
 src :@samueltarikh
 ‏شاید برات جالب باشه بدونی سال ۹۸، یکی از بچه‌های مهندسی مکانیک توی خوابگاه احمدی‌روشن دانشگاه شریف، کانال تلگرامی‌ای رو ساخت که الان، بعد از ۷ سال، بزرگ‌ترین کانال اقتصادی به زبان فارسیه و یکی از قوی‌ترین گروه‌های مشاوره‌ی اقتصادی کشور پشت این کاناله!
 ‏
@@ -3356,24 +3359,6 @@ src :@rnintel
 src :@Mena_Live
 ‏The U.S. Has started a large-scale military Withdrawal (of equiment) from Iraq.  @Mena_Live
 01:50
-1405/06/27
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Satellite images showing damage at the Jazan refinery in Saudi Arabia.
-01:49
-1405/06/27
-
-
-
-
-src :@Alibk3
-[عکس]
-‏صور الأقمار الصناعية لأضرار في مصفاة جيزان السعودية.
-01:48
 1405/06/27
 
 
@@ -7133,22 +7118,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 12:51
-1405/06/26
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠معطلی بیش از ۵۷۰۰ دستگاه کامیون در مرز «بازرگان»
-‏ 
-‏علی‌اکبر ذاکری، رئیس انجمن شرکت‌های حمل‌ونقل بین‌المللی آذربایجان شرقی، از توقف بیش از ۵۷۰۰ کامیون در مرز بازرگان خبر داد و خواستار ساماندهی فوری تردد و کاهش صف خودروهای سنگین شد.
-‏ 
-‏او پیشنهاد کرده است بخشی از تردد کامیون‌های ترانزیتی و صادراتی از مسیر جلفا انجام شود تا فشار موجود بر مرز و گمرک بازرگان کاهش یابد.
-‏ 
-‏همچنین پیشنهاد شده صدور اسناد ترانزیتی و بخشی از تشریفات گمرکی در گمرکات اجرایی از جمله تبریز و ارومیه انجام شود تا فرآیند عبور کامیون‌ها تسریع شود.
-‏ 
-‏در هفته‌های گذشته گزارش‌ها و ویدئوهای زیادی از معطلی رانندگان کامیون در مرزهای زمینی ایران منتشر شده است. فعالان صنفی تأکید دارند ناکارآمدی جمهوری اسلامی در ساماندهی به ترانزیت زمینی کالا، علاوه بر افزایش زمان انتظار رانندگان، بر هزینه‌های حمل‌ونقل، صادرات و ترانزیت کالا نیز اثرگذار خواهد بود.
-12:45
 1405/06/26
