@@ -1,3 +1,35 @@
+src :@didarnews1
+‏🔴سی‌ان‌ان: پس از اعلام ممنوعیت ورود از سوی ترامپ، از ورود تیم خبری ما به کاخ سفید جلوگیری شد و ما اقدام قانونی خواهیم کرد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:15
+1405/06/28
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️کمیته مرکزی وزارت علوم جمهوری اسلامی، روز شنبه ۲۸ شهریور ماه، حکم اخراج دو دانشجوی دانشگاه‌ صنعتی شریف و یک دانشجوی دانشگاه بهشتی را هفت ماه پس از اعتراضات اسفند ۱۴۰۴ تایید کرد.
+‏
+‏به گزارش دیده‌بان ایران، بر اساس این حکم، فریبرز کهن‌زاد، دانشجوی مهندسی صنایع دانشگاه صنعتی شریف، به اتهام «ایجاد بلوا و آشوب در دانشگاه» به اخراج از دانشگاه و پنج سال محرومیت از تحصیل محکوم شده است.
+‏
+‏پرنیان خدابخشی، دانشجوی مهندسی مواد دانشگاه صنعتی شریف، نیز به اتهام حمل پرچم شیر و خورشید به اخراج از دانشگاه محکوم شده است.
+‏
+‏همچنین علیرضا جعفرزاده، دانشجوی اقتصاد سیاسی بین‌الملل دانشگاه شهید بهشتی، به اتهام «لیدری تجمعات غیرقانونی، ایجاد درگیری، سخنرانی و سردادن شعارهای هنجارشکن» به اخراج از دانشگاه محکوم شده است.
+‏
+‏بر اساس این احکام، خدابخشی و جعفرزاده در صورت ابراز ندامت، مشمول سه ترم محرومیت از تحصیل با احتساب سنوات خواهند شد.
+‏
+‏
+‏@indypersian
+18:15
+1405/06/28
+
+
+
+
 src :@tabzlive
 ‏🇸🇦❌🇾🇪 — Royal Saudi Air Force airstrikes against Ansarallah positions on the eastern Ta'izz front, western Yemen.
 ‏
@@ -1069,21 +1101,6 @@ src :@ClashReport
 ‏
 ‏Source: WaPo
 16:34
-1405/06/28
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇪🇺🪖🇺🇦🇷🇺⚡️ — European officials and Western intelligence sources believe Russia is preparing to escalate its war in Ukraine while intensifying hybrid operations against Kyiv’s European allies, The Telegraph reports.
-‏
-‏Intelligence officials say Moscow is making administrative preparations that could enable a “stealth mobilization" after this weekend’s State Duma elections while increasing recruitment through contracts and targeting Russians facing legal, financial, or academic difficulties. 
-‏
-‏The officials consider a highly visible mass mobilization of around 300,000 troops less likely.
-‏
-‏European governments are simultaneously warning of an intensifying Russian hybrid campaign against NATO countries, including potential sabotage and other disruptive operations.
-16:33
 1405/06/28
 
 
@@ -3533,22 +3550,6 @@ src :@jangaavaran1390
 
 
 
-src :@Indypersian
-‏⭕️تمدید تحریم‌های ایران تا سال ۲۰۳۱؛ قالیباف بار دیگر آمریکا را تهدید کرد
-‏
-‏📌قانون تحریم‌های ایران مصوب سال ۱۹۹۶ تا سال ۲۰۳۱ تمدید شد تا از انقضای محدودیت‌های اعمال‌شده بر بخش‌های انرژی و صنایع تسلیحاتی ایران جلوگیری شود
-‏
-‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، روز جمعه «قانون لیندزی اُ. گراهام برای تحریم روسیه و ایران در سال ۲۰۲۶» را امضا و به قانون تبدیل کرد. بر اساس این قانون، که به نام سناتور گراهام نام‌گذاری شده است، چارچوب قانونی مربوط به تحریم‌ها، تعرفه‌ها و سایر محدودیت‌های اعمال‌شده علیه روسیه گسترش می‌یابد و در عین حال تحریم‌های موجود علیه ایران تمدید می‌شود.
-‏
-‏بیشتر بخوانید...
-‏
-‏@indypersian
-11:29
-1405/06/28
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ترامپ: کنترل امنیت گرینلند را برای همیشه در اختیار گرفتیم؛ حضور نظامی گسترده ایجاد می‌کنیم
@@ -3855,26 +3856,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 09:32
-1405/06/28
-
-
-
-
-src :@didarnews1
-‏🔴 جزئیات توافق میان آمریکا، دانمارک و گرینلند:
-‏
-‏🔹 آمریکا «بدون پرداخت هزینه»، کنترل دائمی بر امنیت در گرینلند را به دست می‌آورد
-‏
-‏🔹 کشورهای رقیب ایالات متحده نمی‌توانند بدون تأیید کتبی آمریکا، در گرینلند پایگاه یا حضور نظامی داشته باشد
-‏
-‏🔹 واشنگتن بلافاصله شروع به ساخت برای حضور نظامی گسترده‌ در این جزیره خواهد کرد
-‏
-‏🔹 ترامپ این توافق را با «عمر نامحدود» توصیف کرده 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-09:31
 1405/06/28
 
 
