@@ -1,3 +1,93 @@
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 - Reports of explosions in Riyadh.
+‏ 
+‏@GeoPWatch
+03:36
+1405/06/28
+
+
+
+
+src :@rnintel
+‏🇾🇪🇸🇦⚡️- Several explosions have been heard in Riyadh, Saudi Arabia, locals tell Rerum Novarum.
+03:36
+1405/06/28
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — BREAKING: Alerts in Riyadh, eastern KSA.
+03:36
+1405/06/28
+
+
+
+
+src :@rnintel
+‏🇾🇪🇸🇦⚡️- Ballistic missile launches by Ansarullah in Yemen towards Riyadh, the capital of Saudi Arabia.
+03:35
+1405/06/28
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Explosions heard in the Saudi capital, Riyadh
+03:35
+1405/06/28
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — BREAKING: Alerts in Riyadh, eastern KSA.
+03:34
+1405/06/28
+
+
+
+
+src :@Alibk3
+[عکس]
+‏دوي انفجارات في العاصمة السعودية الرياض
+03:34
+1405/06/28
+
+
+
+
+src :@intelslava
+‏🇾🇪🇾🇪❌🇸🇦 — Ansar Allah launched ballistic missiles from Yemen toward Riyadh, the capital of Saudi Arabia.
+‏
+‏@IntelSlava
+03:34
+1405/06/28
+
+
+
+
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 - Inbound flights at Riyadh International Airport have been put into holding patterns. 
+‏ 
+‏@GeoPWatch
+03:34
+1405/06/28
+
+
+
+
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 - Alerts in Riyadh.
+‏
+‏@GeoPWatch
+03:33
+1405/06/28
+
+
+
+
 src :@Ali_bk_2
 ‏A Yemeni attack targets the Saudi capital, Riyadh
 03:33
@@ -17,6 +107,14 @@ src :@Alibk3
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn  Emergency warning — Riyadh · Saudi Arabia Source: @SaudiDCD  [Via FromIran] https://fromiran.sh1n.org/incidents/oplNbLtd008jppdawTpKCT3j  ترجمه خودکار فارسی  هشدار اضطراری — ریاض · عربستان سعودی منبع: @SaudiDCD  [از طریق FromIran] …
+03:32
+1405/06/28
+
+
+
+
+src :@rnintel
+‏🇸🇦⚡️- BREAKING: Air raid alarms have been sounded in Riyadh, the capital of Saudi Arabia.
 03:32
 1405/06/28
 
@@ -1299,14 +1397,6 @@ src :@Ali_bk_2
 
 
 
-src :@tabzlive
-‏🇱🇺⚡️ — UAV activity near Luxembourg Airport, Luxembourg. All flights inbound are being diverted.
-01:12
-1405/06/28
-
-
-
-
 src :@MilitarryWorld
 ‏⭕️امشب تو تجمعات نیشابور ی دختر جوون  از ماشین پیاده شد و بین تمامی افرادی که تو تجمعات بودن ماده ی مخدر شیشه پخش کرد بعد سوار ماشین شد و فورا از اونجا رفت
 ‏
@@ -2134,14 +2224,6 @@ src :@Alibk3
 
 
 
-src :@Ali_bk_2
-‏Yemeni missile salvos are being launched again now
-23:59
-1405/06/27
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2160,14 +2242,6 @@ src :@Shin_Persian
 ‏https://fromiran.sh1n.org/incidents/LI_dvfgo9V_W_9Sj5NXIsrwV
 ‏
 ‏𝕏  ·  @shin_persian
-23:59
-1405/06/27
-
-
-
-
-src :@Alibk3
-‏رشقات صاروخية يمنية تنطلق مجددا الآن
 23:59
 1405/06/27
 
@@ -5734,14 +5808,6 @@ src :@VahidOnline
 
 
 
-src :@rnintel
-‏🇫🇷⚡️- France will convene the G7 leaders to discuss the ongoing energy crisis.
-15:56
-1405/06/27
-
-
-
-
 src :@didarnews1
 ‏🔴امانوئل مکرون، رئیس‌جمهور فرانسه:
 ‏
@@ -5833,14 +5899,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@rnintel
-‏🇪🇺⚡️- BREAKING: According to today's data, gas prices across the EU have reached historic price heights. Records were broken in Germany, France, Poland and Denmark. Diesel prices had their records broken in Germany, France, Italy and Latvia.  Should the trend…
-15:47
-1405/06/27
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏🇱🇹 🇷🇺⚡️— A Russian man swam from the *Kaliningrad Oblast to Lithuania and applied for asylum. He was sent back to Russia.
@@ -5857,14 +5915,6 @@ src :@tglobaleye
 src :@defence_news
 ‏♦️ چاینا نیوزویک، مجله حزب کمونیست چین:
 15:27
-1405/06/27
-
-
-
-
-src :@rnintel
-‏🇪🇺⚡️- BREAKING: According to today's data, gas prices across the EU have reached historic price heights. Records were broken in Germany, France, Poland and Denmark. Diesel prices had their records broken in Germany, France, Italy and Latvia.  Should the trend…
-15:23
 1405/06/27
 
 
@@ -6171,21 +6221,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - JPMorgan :
-‏
-‏We simply don’t know how to model the endgame.
-‏
-‏The bank says says it no longer has a baseline outlook for oil for the first time since the Iran war began, and that several economic “red lines” it assumed Washington would avoid have now been crossed, while the path toward ending the disruption has become less clear.
-‏
-‏@GeoPWatch
-13:49
-1405/06/27
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻رسانه‌های آمریکایی در بند ترامپ
@@ -6206,25 +6241,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 13:47
-1405/06/27
-
-
-
-
-src :@GeoPWatch
-‏🇾🇪❌🇸🇦🇮🇹 - An Italian Air Force F-2000 Eurofighter was hit during overnight attacks on King Fahd Air Base in Taif, Mecca region, Saudi Arabia according to the Italian Defense Ministry.  @GeoPWatch
-13:39
-1405/06/27
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇾🇪❌🇸🇦🇮🇹 - An Italian Air Force F-2000 Eurofighter was hit during overnight attacks on King Fahd Air Base in Taif, Mecca region, Saudi Arabia according to the Italian Defense Ministry.
-‏
-‏@GeoPWatch
-13:38
 1405/06/27
 
 
@@ -7139,14 +7155,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:57
-1405/06/27
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇵🇱🇷🇺 Poland says Russia is planning to strike NATO territory.
-‏
-‏@BRICSNews
-03:35
 1405/06/27
