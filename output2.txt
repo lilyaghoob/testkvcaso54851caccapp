@@ -1,3 +1,51 @@
+src :@IranintlTV
+[عکس]
+‏یک مقام ارشد آمریکایی تاکید کرد با توسعه زیرساخت‌ها و مسیرهای جایگزین انتقال نفت، اهرم فشار حکومت ایران بر تنگه هرمز هفته‌به‌هفته کاهش می‌یابد.
+‏به گزارش ایران‌اینترنشنال این مقام در توضیح دیدار دونالد ترامپ با رهبران شورای همکاری خلیج فارس که قرار است هفته آینده در نیویورک برگزار شود، با استناد به آمار ارائه‌شده از سوی وزیر انرژی آمریکا گفت روزانه به‌طور میانگین ۱۰ تا ۱۱ میلیون بشکه نفت در حال انتقال است؛ رقمی که به گفته او، در مقایسه با چند ماه پیش افزایش چشمگیری داشته است.
+‏به گفته این مقام، توسعه زیرساخت‌ها و نتیجه‌بخش‌بودن مسیرهای جایگزینی که نیروی دریایی آمریکا برای دور زدن تنگه هرمز ایجاد می‌کند، توان حکومت ایران برای اعمال فشار از طریق این آبراه را کاهش داده است.
+‏او همچنین تاکید کرد این اقدامات، همراه با محاصره و عملیات موسوم به خشم اقتصادی، ارزش ریال را به پایین‌ترین سطح تاریخی و تورم را به بالاترین سطح تاریخی رسانده‌اند.
+‏این مقام ارشد آمریکایی گفت واشینگتن انتظار دارد حکومت ایران، به هر شکلی که باشد، از تلاش برای دستیابی به سلاح هسته‌ای دست بردارد. 
+‏https://iranintl.com/202609181043
+05:11
+1405/06/28
+
+
+
+
+src :@mwarmonitor
+‏↩️مقامات اروپایی همچنان درباره افزایش تهدیدهای روسیه علیه این قاره هشدار می‌دهند.
+‏
+‏📌رئیس‌جمهور فنلاند از شهروندان کشورش خواست از نظر ذهنی خود را برای «وقوع اتفاقی» آماده کنند. پولیتیکو 
+‏
+‏@mwarmonitor
+05:10
+1405/06/28
+
+
+
+
+src :@warmonitors
+‏DC mfs be like I do evil at evil for a living.
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+05:09
+1405/06/28
+
+
+
+
+src :@mwarmonitor
+‏🔴 واشینگتن پست: دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد کاخ سفید به توافقی دست یافته است که به ایالات متحده «کنترل دائمی بر امنیت» گرینلند می‌دهد.
+‏
+‏🔴ترامپ این توافق را پیروزی در راستای هدف خود برای افزایش نفوذ آمریکا بر این قلمرو واقع در قطب شمال دانست.
+‏
+‏@mwarmonitor
+05:09
+1405/06/28
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇺🇦⚡️ — The U.S. State Department has approved a possible $2.68 billion Foreign Military Sale to Ukraine to expand and upgrade its air-defense capabilities.
@@ -18,6 +66,8 @@ src :@wfwitness
 ‏The package includes S-300 Clone missiles, GAM-67 missiles, Range-Extended Air Defense Laser Guided Rocket systems, and counter-drone radars, along with related equipment, training, and logistics support.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 05:00
 1405/06/28
 
@@ -115,9 +165,11 @@ src :@ClashReport
 
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸 Reuters: Google's Gemini model accessed the internet and hacked three companies during a May cybersecurity test conducted by independent evaluator Irregular, the first known instance of Google's AI autonomously committing such an act, with the model guessing credentials or finding them in public repositories to access protected systems before halting in each case.
+‏⚡️🇺🇸 Reuters: Google's Gemini model accessed the internet and hacked three companies during a May cybersecurity test conducted by independent evaluator Irregular. 
 ‏
-‏Google's VP of security engineering, Heather Adkins, said the affected entities were notified and testing processes were revised, while Irregular said the same issue had also been disclosed by Meta, Anthropic, and OpenAI, raising broader questions about safeguards as AI agents gain greater autonomy.
+‏This is the first known instance of Google's AI autonomously committing such an act, with the model guessing credentials or finding them in public repositories to access protected systems before halting in each case.
+‏
+‏Google's VP of security engineering, Heather Adkins, said the affected entities were notified and testing processes were revised, while Irregular said the same issue had also been disclosed by Meta, Anthropic, and OpenAI.
 ‏
 ‏@wfwitness
 ‏
@@ -6510,18 +6562,6 @@ src :@mwarmonitor
 
 
 
-src :@mwarmonitor
-‏📰فایننشال تایمز (FT) گزارش می‌دهد که پژوهشگران امنیت سایبری با استفاده از ابزارهای کلود (Claude) شرکت آنتروپیک، موفق شدند به سیستم‌های اوپن‌ای‌آی نفوذ کنند.
-‏
-‏📰آن‌ها با سوءاستفاده از یک آسیب‌پذیری در انجمن گفت‌وگوی جامعه کاربران اوپن‌ای‌آی که روی پلتفرم دیسکورس (Discourse) میزبانی می‌شود، به اطلاعات ورود داخلی و حساب کاربری ChatGPT یکی از کارکنان دسترسی پیدا کردند؛ حسابی که به کدهای داخلی گیت‌هاب شرکت متصل بود.
-‏
-‏@mwarmonitor
-13:02
-1405/06/27
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏ایالات متحده، فروش احتمالی 48 فروند جنگنده F-35 به عربستان سعودی به ارزش 24.3 میلیارد دلار را تایید کرد.
@@ -6597,33 +6637,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 12:39
-1405/06/27
-
-
-
-
-src :@mwarmonitor
-‏🔴 به‌روزرسانی: کورونت ایست ۰۸۰ – جنگنده‌های F-15E با کد «MO» به خانه بازمی‌گردند | 
-‏
-‏جنگنده‌های F-15E بال ۳۶۶ شکاری نیروی هوایی آمریکا با کد «MO» قرار است صبح امروز پایگاه هوایی سلطنتی لکن‌هیث (EGUL) در بریتانیا را ترک کرده و به ایالات متحده بازگردند.
-‏
-‏هواپیماهای سوخت‌رسان زیر از این پرواز پشتیبانی خواهند کرد:
-‏
-‏🔹 KC-135R با کد «BLUE64» شماره بدنه: 59-1516 | کد ردیابی: AE04E6 📍 مبدأ: فرودگاه پرست‌ویک (EGPK)
-‏
-‏🔹 KC-135؟ با کد «BLUE65» وضعیت: هنوز تأیید نشده است.
-‏
-‏🔹 KC-46A با کد «BLUE66» شماره بدنه: 17-46034 | کد ردیابی: AE5E0F 📍 مبدأ: فرودگاه پورتسموث (KPSM)
-‏
-‏🔹 KC-135R با کد «BLUE74» شماره بدنه: 60-0359 | کد ردیابی: AE04A2 📍 مبدأ: فرودگاه پرست‌ویک (EGPK)
-‏
-‏🔹 KC-135T با کد «BLUE75» شماره بدنه: 59-1468 | کد ردیابی: AE0386 📍 مبدأ: فرودگاه مارسی (LFMI)
-‏
-‏🔹 KC-46A با کد «BLUE76» شماره بدنه: 16-46015 | کد ردیابی: AE5BC0 📍 مبدأ: فرودگاه پورتسموث (KPSM)
-‏
-‏
-‏@mwarmonitor
-12:08
 1405/06/27
 
 
@@ -6919,17 +6932,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/06/27/408711/
 11:16
-1405/06/27
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— The Big Zeshk was also at the parade in Tehran today
-‏
-‏@Middle_East_Spectator
-11:14
 1405/06/27
 
 
