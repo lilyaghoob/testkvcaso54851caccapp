@@ -1,4 +1,47 @@
 src :@Ali_bk_2
+[عکس]
+01:48
+1405/06/29
+
+
+
+
+src :@Alibk3
+[عکس]
+01:48
+1405/06/29
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏دبیر شورای عالی امنیت ملی ایران، محسن رضایی اعلام کرد شروط تهران برای شروع مذاکرات شامل پایان جنگ در همه جبهه‌ها، آزادسازی دارایی‌های بلوکه‌شده ایران و پایان محاصره دریایی است.
+01:46
+1405/06/29
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏The U.S. Embassy in Saudi Arabia issues a security warning to Americans about the possibility of airspace closure due to developments in the region.
+01:45
+1405/06/29
+
+
+
+
+src :@Alibk3
+[عکس]
+‏السفارة الأميركية في السعودية تصدر تحذيرًا أمنيًا للأميركيين من احتمال إغلاق المجال الجوي على خليفة التطورات فى المنطقة.
+01:45
+1405/06/29
+
+
+
+
+src :@Ali_bk_2
 ‏The U.S. Embassy in Lebanon issues a security warning to Americans about the possibility of airspace closure due to developments in the region.
 01:42
 1405/06/29
@@ -43,6 +86,8 @@ src :@tabzlive
 src :@naya_foriraq
 [عکس]
 ‏السفارة الأمريكية في تركيا تنضم لقائمة السفارات التي ترفع مستوى الخطورة
+‏
+‏https://t.me/naya_foriraq
 01:41
 1405/06/29
 
@@ -89,7 +134,7 @@ src :@rnintel
 src :@guard_warriors
 ‏آمریکا در چند ساعت گذشته مجموعه‌ای از هشدارها را برای کشورهای خاورمیانه صادر کرده است:
 ‏
-‏هشدارهای برنامه ثبت‌نام مسافران هوشمند )از سوی سفارتخانه‌ها صادر شده است:
+‏هشدارهای برنامه ثبت‌نام مسافران هوشمند از سوی سفارتخانه‌ها صادر شده است:
 ‏- اسرائیل
 ‏- عراق
 ‏- لبنان
@@ -2404,17 +2449,6 @@ src :@Ali_bk_2
 ‏‏Secretary of Iran's Supreme National Security Council, Major General Mohsen Rezaei:
 ‏
 ‏Iran has announced seven conditions for the U.S. government to begin any negotiations. Tehran’s message is clear and unambiguous: if Washington wants to get out of the predicament it has put itself in and avoid becoming further entangled in it, it has no choice but to accept Iran’s rights and conditions.
-22:47
-1405/06/28
-
-
-
-
-src :@Alibk3
-[عکس]
-‏‏رئيس مجلس الأمن القومي الإيراني، اللواء محسن رضائي:
-‏
-‏أعلنت إيران سبعة شروط للحكومة الأمريكية لبدء أي مفاوضات. رسالة طهران واضحة لا لبس فيها: إذا أرادت واشنطن الخروج من المأزق الذي وضعته بنفسها وعدم التورط فيه أكثر، فليس أمامها خيار سوى قبول حقوق إيران وشروطها.
 22:47
 1405/06/28
 
