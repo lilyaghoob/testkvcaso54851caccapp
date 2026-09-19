@@ -1,3 +1,43 @@
+src :@tabzlive
+[عکس]
+‏🇻🇪🇺🇸⚡️ — Venezuelan opposition leader María Corina Machado is preparing to return to Venezuela from exile in Panama and push for new presidential elections, despite concerns among some Trump administration officials that her return could disrupt Washington’s relationship with the U.S.-backed interim government, WSJ reports.
+‏
+‏“I cannot lead the process from abroad,” Machado said. “The moment to return has arrived.” 
+‏
+‏She plans to travel across Venezuela’s 23 states, rebuild her grassroots political network, and begin preparations for an election in which she intends to run. Her team is also identifying potential officials who could take over state institutions under a future transition.
+‏
+‏Machado says she is prepared to enter Venezuela “by land, sea, or air,” although no date has been set. 
+‏
+‏Some U.S. officials fear Machado’s return could trigger a confrontation with the interim government, while Machado argues her presence would contribute to, rather than undermine, a democratic transition.
+04:54
+1405/06/28
+
+
+
+
+src :@ClashReport
+‏Tonight, Saudi Arabia issued an early warning over potential danger in Riyadh amid increased attacks by Yemen’s Houthis.
+‏
+‏Saudi Civil Defence later said the danger had passed in Riyadh and al-Kharj.
+04:54
+1405/06/28
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸 Reuters: Google's Gemini model accessed the internet and hacked three companies during a May cybersecurity test conducted by independent evaluator Irregular, the first known instance of Google's AI autonomously committing such an act, with the model guessing credentials or finding them in public repositories to access protected systems before halting in each case.
+‏
+‏Google's VP of security engineering, Heather Adkins, said the affected entities were notified and testing processes were revised, while Irregular said the same issue had also been disclosed by Meta, Anthropic, and OpenAI, raising broader questions about safeguards as AI agents gain greater autonomy.
+‏
+‏@wfwitness
+04:53
+1405/06/28
+
+
+
+
 src :@rnintel
 [عکس]
 04:50
@@ -1070,14 +1110,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇷🇺🇮🇷 The bill imposes sanctions, tariffs and prohibitions targeting Russia and extends the Iran Sanctions Act. It requires the President to block visas and assets of the Russian president, selected military commanders and other designated individuals and…
 01:45
-1405/06/28
-
-
-
-
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Israeli Air Force airstrike against al-Qantara, southern Lebanon.
-01:43
 1405/06/28
 
 
@@ -2218,18 +2250,6 @@ src :@MilitarryWorld
 ‏ممکنه خاموشی‌ها توی زمستون ادامه داشته باشه.
 ‏
 ‏@MilitarryWorld | Parsa
-00:44
-1405/06/28
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 An Israeli detonation was observed in Al-Mansouri, southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:44
 1405/06/28
 
@@ -5572,6 +5592,17 @@ src :@defence_news
 ‏
 ‏@RedLionCorps
 17:30
+1405/06/27
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏An Italian Air Force F-2000A (Eurofighter Typhoon) was damaged during an overnight Ansar Allah drone and/or missile attack on King Fahd Air Base in Taif, Saudi Arabia.
+‏
+‏The F-2000A is part of Italy’s Task Force Air Arabia detachment, which deployed four F-2000A Eurofighters, one E-550A airborne early warning and control (AEW&C) aircraft, and four C-130J/KC-130J aircraft to assist Saudi Arabia with air defense duties.
+17:23
 1405/06/27
 
 
