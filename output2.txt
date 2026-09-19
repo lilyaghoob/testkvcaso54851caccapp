@@ -1,3 +1,32 @@
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 IDF: An explosive device detonated near a vehicle inside the "security zone" in southern Lebanon, resulting in injuries to two soldiers.
+‏
+‏@wfwitness
+15:26
+1405/06/28
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — A Pentagon investigation found that the Feb. 28 U.S. missile strike on Shajarah Tayyebeh Elementary School in Minab, Iran, resulted from a cascade of preventable failures, including outdated intelligence, rushed targeting procedures, and gaps in civilian-protection reviews, Bloomberg reports.
+‏
+‏The strike killed more than 150 people, including at least 123 children.
+‏
+‏Officials involved in the investigation say U.S. intelligence databases still classified the site as an IRGC facility, despite visible changes showing that it had operated as a school for nearly a decade. The school appeared on Google Maps, maintained its own website, and had been physically separated from the neighboring military compound years earlier.
+‏
+‏Investigators also found that the rapid pace of the opening U.S. campaign — which involved more than 1,000 strikes in the first 24 hours — compressed targeting reviews. 
+‏
+‏CENTCOM personnel relied heavily on Palantir’s Maven AI system, with some mistakenly expecting it to identify stale intelligence or inconsistencies automatically. Palantir maintains that it was not responsible for the underlying intelligence and says there is no evidence its software caused the strike.
+‏
+‏The investigation additionally examined major cuts to the Pentagon’s civilian-harm-mitigation teams, whose staffing had been reduced by roughly 90%, including CENTCOM’s team falling from 10 personnel to one. No member of that team reviewed the Minab target before the attack.
+15:22
+1405/06/28
+
+
+
+
 src :@MilitarryWorld
 ‏🔴مکرون:
 ‏
@@ -943,30 +972,12 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-[عکس]
-‏توقف حركة الطيران قرب مطار الرياض الدولي قبل لحظات   https://t.me/naya_foriraq
-14:21
-1405/06/28
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇾🇪❌🇸🇦 - A black plume can be seen from Riyadh International Airport.
 ‏
 ‏@GeoPWatch
 14:20
-1405/06/28
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏الان تجدد الانفجارات قرب مطار الرياض
-14:19
 1405/06/28
 
 
@@ -2294,14 +2305,6 @@ src :@didarnews1
 
 
 
-src :@P_raetorio
-‏Praetorio pinned a photo
-11:47
-1405/06/28
-
-
-
-
 src :@MilitarryWorld
 ‏🔴الجزیره: قانون جدید تحریم‌های ترامپ، اختیارات کلیدی تحریمی علیه ایران را تا سال ۲۰۳۱ حفظ می‌کند
 ‏
@@ -3034,23 +3037,6 @@ src :@Artemis_Force
 
 
 
-src :@Indypersian
-[عکس]
-‏⭕️برآورد تازه پنتاگون: جنگ ایران ۴۳.۶ میلیارد دلار هزینه داشته است
-‏
-‏♦️برآورد تازه فرماندهی مرکزی آمریکا، سنتکام، نشان می‌دهد هزینه عملیات نظامی آمریکا در جنگ با ایران تا ۱۲ شهریورماه به حدود ۴۳.۶ میلیارد دلار رسیده است. این رقم در سندی که پنتاگون در اختیار کمیته‌های امنیت ملی کنگره قرار داده، آمده و تازه‌ترین برآورد موجود از هزینه‌های نظامی این جنگ است، جنگی که آمریکا و اسرائیل آن را ۹ اسفند ۱۴۰۴ آغاز کردند.
-‏
-‏بر اساس این برآورد، حدود ۲۸.۱ میلیارد دلار از این رقم مربوط به هزینه جایگزینی مهمات و تسلیحات مصرف‌شده در جریان جنگ است، رقمی که بیش از ۶۰ درصد کل برآورد هزینه جنگ را تشکیل می‌دهد. این بخش از هزینه‌ها شامل موشک‌ها، بمب‌ها و به‌ویژه موشک‌های رهگیر سامانه‌های دفاع هوایی مورد استفاده آمریکا است. رقم هزینه مهمات در برآورد جدید، نسبت به ۲۱.۷ میلیارد دلار اعلام‌شده از سوی دفتر بودجه کنگره آمریکا (CBO) برای مهمات مصرف‌شده تا اول اوت، بیش از ۶ میلیارد دلار افزایش یافته است.
-‏
-‏حدود ۱۱.۲ میلیارد دلار دیگر به هزینه‌های اضافی مرتبط با عملیات، از جمله فعالیت نیروها، هواپیماها، ناوها، پایگاه‌ها، سوخت، پشتیبانی و خدمات پزشکی اختصاص دارد و حدود ۴.۳ میلیارد دلار نیز برای جایگزینی تجهیزات نظامی از دست‌رفته یا آسیب‌دیده برآورد شده است. بنابراین رقم ۴۳.۶ میلیارد دلار صرفا به معنای پرداخت نقدی انجام‌شده نیست و بخشی از آن، هزینه‌های برآوردشده برای جبران مهمات و تجهیزات مصرف‌شده یا از دست‌رفته است.
-‏
-‏@indypersian
-08:51
-1405/06/28
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏✅ مدیر عامل هلدینگ هتلداران مروارید آسیا در دیدار با استاندار اصفهان گفت: اصفهان یک شهر نیست یک جهان است که تاریخ در دل آن نفس می کشد و این شهر بار دیگر تاریخ ساز می شود.
@@ -3328,15 +3314,6 @@ src :@tabzlive
 
 
 
-src :@Ali_bk_2
-[ویدئو]
-‏Panic among foreign workers following the Yemeni attack on Riyadh now.
-06:02
-1405/06/28
-
-
-
-
 src :@intelslava
 ‏🇾🇪🇾🇪❌🇸🇦 — Air raid sirens were activated in Riyadh and Al-Kharj Governorates, Saudi Arabia, following an Ansar Allah ballistic missile attack.
 ‏
@@ -3440,15 +3417,6 @@ src :@bricsnews
 ‏JUST IN: 🇺🇸🇺🇦 US approves potential $2.68 billion military deal for Ukraine.
 ‏
 ‏@BRICSNews
-05:20
-1405/06/28
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇩🇰🇬🇱⚡️ — BREAKING: President Trump says the U.S. has reached an agreement with Denmark and Greenland granting Washington permanent authority over U.S. security requirements in Greenland, while leaving Greenland under Danish sovereignty.  Trump described…
 05:20
 1405/06/28
 
