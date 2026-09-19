@@ -1,3 +1,48 @@
+src :@Ali_bk_2
+[عکس]
+‏Yemeni missiles evade Saudi air defenses over Riyadh on their way to their targets.
+03:57
+1405/06/28
+
+
+
+
+src :@Alibk3
+[عکس]
+‏الصواريخ اليمنية تتجاوز الدفاعات الجوية السعودية فوق الرياض نحو أهدافها.
+03:57
+1405/06/28
+
+
+
+
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 - Preliminary reports are suggesting that 1 BM managed to get past interceptors at Prince Sultan AB.
+‏
+‏@GeoPWatch
+03:55
+1405/06/28
+
+
+
+
+src :@OSINTWarfare
+‏Earlier, Royal Saudi Air Force (RSAF) airstrikes targeted the vicinity of Al-Balaq Al-Sharqi and Al-Balaq Al-Awsat, southwest of Marib city, as well as Um Rish Camp in Al-Jubah District, Marib Governorate.
+03:55
+1405/06/28
+
+
+
+
+src :@rnintel
+[ویدئو]
+‏🇾🇪🇸🇦⚡️- An explosion heard in Riyadh, Saudi Arabia, during the Ansarullah missile attack.
+03:53
+1405/06/28
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش فرارو، بررسی قیمت مواد غذایی از دی‌ماه تاکنون نشان می‌دهد بهای برخی اقلام اساسی بین ۴۴ تا ۲۹۳ درصد افزایش یافته است. بیشترین افزایش قیمت در این مدت مربوط به گوشت، برنج و مرغ بوده است.
@@ -928,16 +973,6 @@ src :@naya_foriraq
 ‏🇷🇺 الدب الروسي يداعب اوروبا 
 ‏
 ‏أوقفت مطار لوكسمبورغ الرحلات الجوية في وقت متأخر من يوم الجمعة بعد ورود تقارير عن نشاط طائرات بدون طيار غير معروفة بالقرب من المطار، مما اضطر الطائرات القادمة إلى التوقف أو تغيير مسارها.
-01:35
-1405/06/28
-
-
-
-
-src :@tabzlive
-‏🇨🇭⚡️ — Switzerland's Federal Council has adopted a new national security strategy aimed at preparing the country for an “increasingly unstable” international environment, citing Russia’s war in Ukraine, hybrid threats, and critical dependencies.
-‏
-‏The 2026 Security Policy Strategy contains 46 measures centered on three priorities: strengthening the resilience of the state, economy, and society; improving protection for civilians, institutions, and critical infrastructure; and expanding Switzerland’s defense capabilities.
 01:35
 1405/06/28
 
@@ -2198,24 +2233,6 @@ src :@Middle_East_Spectator
 src :@Minas_Tirith2024
 ‏واشنگتن پست به نقل از چندین منبع در وزارت جنگ امریکا می گوید تعداد واقعی سربازان کشته شده امریکایی در جنگ با ایران 22 یا 23 نفر است که چند نفر بیشتر از 18 کشته اعلام شده به شکل رسمی است.  @Minas_Tirith2024
 00:14
-1405/06/28
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏A KC-135R refueling aircraft from Tel Aviv is flying over northern Iraq.
-00:14
-1405/06/28
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرة تزويد بالوقود KC-135R قادمة من تل أبيب تحلق فوق شمال العراق.
-00:13
 1405/06/28
 
 
@@ -3662,22 +3679,6 @@ src :@defence_news
 ‏
 ‏
 ‏خلاصه قسمت تنظیمات گروه تلگرام 😁
-22:03
-1405/06/27
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏#BREAKING
-‏⚡️🇺🇸🇮🇷 – Six U.S. officials cited by the Washington Post claim the number of dead U.S. servicemembers during the Iran war is higher than the Pentagon has publicly admitted.
-‏
-‏Five officials said at least 22 U.S. soldiers have died, 4 more than what the Pentagon has disclosed in its DCAS database.
-‏
-‏The sixth official said the actual number was 23.
-‏
-‏@GeoPWatch
 22:03
 1405/06/27
 
@@ -5441,14 +5442,6 @@ src :@thewarreporter
 
 
 
-src :@rnintel
-‏🇮🇷🇴🇲⚡️ — Two explosions in the Strait of Hormuz.
-17:35
-1405/06/27
-
-
-
-
 src :@defence_news
 ‏اسرائیل پس از اعلام قصد واشنگتن برای فروش جنگنده‌های F-35 به ارزش ۲۵ میلیارد دلار به عربستان سعودی، از آمریکا درخواست «جبران خسارت» خواهد کرد. این درخواست شامل دسترسی به تسلیحات پیشرفته، پروژه‌های دفاعی طبقه‌بندی‌شده، همکاری در سامانه‌های پدافند هوایی پیکان 4 و 5، و سلاح‌های فضایی است.
 17:31
@@ -5643,15 +5636,6 @@ src :@samueltarikh
 ‏
 ‏ایالات متحده همچنان مقام‌های نمایندگی ایران در سازمان ملل، مقام‌های ایرانیِ در حال سفر و افراد تحت تکفل آنها را از خرید کالاهای لوکس در اینجا منع خواهد کرد.
 16:55
-1405/06/27
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏The Ukrainian Air Force continues to operate individual S-300V1 anti-ballistic missile (ABM) system units.
-16:53
 1405/06/27
 
 
