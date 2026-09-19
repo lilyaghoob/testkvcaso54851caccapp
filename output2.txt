@@ -1,3 +1,38 @@
+src :@Indypersian
+[عکس]
+‏♦️به گزارش فرارو، بررسی قیمت مواد غذایی از دی‌ماه تاکنون نشان می‌دهد بهای برخی اقلام اساسی بین ۴۴ تا ۲۹۳ درصد افزایش یافته است. بیشترین افزایش قیمت در این مدت مربوط به گوشت، برنج و مرغ بوده است.
+‏
+‏در حالی که افزایش اعتبار کالابرگ در آستانه اجرا قرار دارد، پیش‌تر مسعود پزشکیان، رئیس دولت جمهوری اسلامی روز دوشنبه ۲۳ شهریورماه در مراسمی دولتی با حضور بازنشستگان، درباره برنامه‌های حمایتی دولت برای بهبود معیشت مردم گفت رقم کالابرگ به زودی افزایش می‌یابد.
+‏
+‏فاطمه مهاجرانی، سخنگوی دولت نیز اعلام کرده بود: «به محض اینکه منبع مالی پایدار برای کالابرگ تأمین شود، مبلغ کالابرگ افزایش پیدا خواهد کرد.»
+‏
+‏با این حال، میزان نهایی افزایش اعتبار کالابرگ و دهک‌های مشمول هنوز مشخص نشده است.
+‏
+‏@indypersian
+03:50
+1405/06/28
+
+
+
+
+src :@Ali_bk_2
+[ویدئو]
+‏Yemeni missiles fly over the Saudi capital, Riyadh.
+03:49
+1405/06/28
+
+
+
+
+src :@Alibk3
+[ویدئو]
+‏الصواريخ اليمنية تحلق فوق العاصمة السعودية الرياض.
+03:49
+1405/06/28
+
+
+
+
 src :@tabzlive
 ‏🇾🇪❌🇸🇦🇺🇸 — Highly likely the attack targeted Prince Sultan AB, al-Kharj, eastern KSA. This base hosts both Royal Saudi Air Force and U.S. Air Force personnel.
 ‏
@@ -1094,14 +1129,6 @@ src :@wfwitness
 src :@rnintel
 ‏🇾🇪🇸🇦⚡️- Ansarullah shelling of the Farasan Islands in the Red Sea, Saudi Arabia. Alerts have been sounded in Farasan City.
 01:25
-1405/06/28
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Alerts in Farasan Governorate, Saudi Arabian islands in the Red Sea.
-01:24
 1405/06/28
 
 
@@ -2288,22 +2315,6 @@ src :@IranintlTV
 ‏
 ‏https://iranintl.com/202609180165
 00:02
-1405/06/28
-
-
-
-
-src :@Ali_bk_2
-‏Sirens sound in Khamis Mushait and Jazan again.
-00:01
-1405/06/28
-
-
-
-
-src :@Alibk3
-‏صفارات الإنذار تدوي في خميس مشيط وجازان مجددًا.
-00:01
 1405/06/28
 
 
@@ -5594,14 +5605,6 @@ src :@DEJradio
 
 
 
-src :@rnintel
-‏🇨🇭⚡️- Switzerland also reached an all-time high gas price today.
-16:59
-1405/06/27
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏چهاردهمین پرواز آزمایشی استارشیپ
@@ -6859,14 +6862,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 11:01
-1405/06/27
-
-
-
-
-src :@Middle_East_Spectator
-‏The aim of the Janfada campaign is to create thousands of ‘civil defense battalions’ that can be called up in case of an attack on the homeland.
-11:00
 1405/06/27
 
 
