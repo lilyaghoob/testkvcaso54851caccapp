@@ -1,3 +1,44 @@
+src :@samueltarikh
+‏⭕️عضو دفتر سیاسی جنبش انصارالله:
+‏
+‏ملت یمن با هرگونه آتش‌بس یا کاهش تنش، تا زمانی که عربستان محاصره یمن را رفع نکند، موافقت نخواهد کرد
+10:12
+1405/06/28
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iranian authorities announced the execution of Hossein Pedaran, convicted of espionage and accused of providing Mossad with classified information on military and missile sites in Isfahan.
+‏
+‏Authorities said he shared details about military locations and missile sites, and that encrypted devices and hidden recording equipment were found at his home.
+‏
+‏Iran said he re-established contact with Mossad via Telegram after the start of the 12-day war before his arrest.
+‏
+‏Source: Tasnim
+10:10
+1405/06/28
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏در پی برگزاری مسابقه ماراتن در بوستان ولایت تهران و حضور برخی زنان بدون حجاب اجباری، مدیرکل ورزش و جوانان استان تهران گفت مجوز برگزاری این رویداد از سوی شورای تامین استان صادر شده بود و پیش از آغاز مسابقه، از شرکت‌کنندگان تعهد رعایت «شئونات اسلامی» گرفته شده بود.
+‏
+‏حبیب ستوده‌نژاد در گفت‌وگو با خبرگزاری تسنیم گفت با ورزشکارانی که «خاطی» شناخته شوند، برخورد قانونی و انضباطی خواهد شد.
+‏
+‏او افزود عوامل اجرایی برگزارکننده و نیروهای حراست در طول مسیر حضور داشتند و هر زمان که لازم بود، به شرکت‌کنندگان تذکر می‌دادند. به گفته ستوده‌نژاد، حتی از حضور برخی زنان در مسابقه جلوگیری شده است.
+‏
+‏مدیرکل ورزش و جوانان استان تهران همچنین گفت حدود ۹۵ درصد شرکت‌کنندگان مسائل موردنظر را رعایت کردند و به دیگر ورزشکاران نیز در طول مسیر تذکر داده شد.
+‏https://iranintl.com/202609199738
+10:08
+1405/06/28
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏⭕️پاسخ عراقچی به وزیر خارجه فرانسه: اشک تمساح بس است آقای بارو
@@ -109,6 +150,8 @@ src :@Indypersian
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏گزارش‌ها از کشته شدن ژنرال فراق العسّار از فرماندهان ارشد حوثی‌ها حکایت دارد. این گروه در بیانیه‌ای از او به‌عنوان فرمانده تیپ یکم کماندو یاد کرده است. العسّار در جریان حمله‌ای در جبهه کَهْبوب، در نزدیکی تنگه باب‌المندب، کشته شده است.
+‏
+‏🆔@WAR_ROOM_NEWS
 09:48
 1405/06/28
 
@@ -117,6 +160,8 @@ src :@WAR_ROOM_NEWS
 
 src :@WAR_ROOM_NEWS
 ‏نهاد تنظیم‌کننده بانکداری ترکیه، BDDK، مجوز فعالیت شعبه استانبول بانک ملت  لغو کرد و به این ترتیب فعالیت‌های این بانک دولتی ایرانی را که از سال ۱۹۸۲ در ترکیه حضور داشت، رسماً به پایان رساند
+‏
+‏🆔@WAR_ROOM_NEWS
 09:46
 1405/06/28
 
@@ -144,6 +189,8 @@ src :@Americana_ir
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏تصاویر ماهواره‌ای از خسارات حمله اوکراین به فرودگاه «روستوف-مرکزی» در روستوف-نا-دون منتشر شده است؛ بر اساس گزارش‌ها، یک فروند آنتونوف-۱۲، یک فروند آنتونوف-۲۶ و دو فروند بالگرد میل-۸ منهدم شده‌اند.
+‏
+‏🆔@WAR_ROOM_NEWS
 09:38
 1405/06/28
 
@@ -3458,14 +3505,6 @@ src :@P_raetorio
 
 
 
-src :@ClashReport
-‏BREAKING: Trump:  I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely…
-00:57
-1405/06/28
-
-
-
-
 src :@cataphract1
 ‏#فوری 
 ‏⚜ ترامپ خبر از توافق با دانمارک برای کنترل کامل امنیتی گرینلند توسط ارتش آمریکا داد 
@@ -4666,17 +4705,6 @@ src :@Artemis_Force
 
 
 
-src :@P_raetorio
-[عکس]
-‏ارتش اوکراین اعلام کرد یک مرکز فرماندهی و هدایت اپراتور‌های پهپاد شناسایی-رزمی اوریون ارتش روسیه را در فرودگاه ساکی کریمه منهدم کرد.
-‏
-‏@P_raetorio
-21:59
-1405/06/27
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇹🪖 — The Italian Government announced that it will deploy Italian Navy warships to protect its commercial vessels through the Bab al-Mandeb strait, Defence Minister Guido Crosetto said, warning Rome would not wait for an EU decision.
@@ -4773,17 +4801,6 @@ src :@samueltarikh
 ‏#تاریخ
 ‏@samueltarikh0
 21:38
-1405/06/27
-
-
-
-
-src :@P_raetorio
-‏اوکراینی ‌ها طی 20 روز اخیر حدود 13 هواگرد روس را بر روی زمین منهدم کردند…فرض کنید چنین موفقیت بزرگی در چنین زمان کوتاهی در یک منطقه دیگری رخ می‌داد چه غوغایی از طرفین بپا می‌شد…
-‏
-‏مهدی ایراندوست
-‏@P_raetorio
-21:34
 1405/06/27
 
 
@@ -5971,14 +5988,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 16:57
-1405/06/27
-
-
-
-
-src :@samueltarikh
-‏عربستان سعودی از تشکیل یک ائتلاف نظامی دریایی بزرگ از سراسر جهان برای بازگشایی تنگه هرمز خبر داد.
-16:55
 1405/06/27
 
 
