@@ -1,4 +1,29 @@
 src :@mohem_mat
+‏خبرنگار : چه پاسخی برای روزنامه "واشنگتن پست" دارید که مدعی است شمار تلفات نیروهای نظامی در ایران بیش از آن چیزی است که پنتاگون اعلام کرده است؟
+‏
+‏ پیت هگست وزیر جنگ آمریکا: کار این دلقک‌ها همیشه استناد به منابع ناشناس است. این یک دروغ است؛ تیتر خبری است که می‌خواهند با آن ما و رئیس‌جمهور را بد جلوه دهند و موفقیت تاریخی ما در جنگ را زیر سوال ببرند.
+‏
+‏@mohem_mat
+13:00
+1405/06/29
+
+
+
+
+src :@mohem_mat
+‏واشنگتن‌تایمز نوشت:
+‏
+‏ترامپ قرار است چهارشنبه، شخصا در فرودگاه پایگاه مشترک اندروز از شی جین‌پینگ، رئیس‌جمهور چین، استقبال کند.
+‏این کار غیرمعمول است، چون ترامپ معمولاً از رهبران خارجی در کاخ سفید استقبال می‌کند نه فرودگاه. / آمریکانا
+‏
+‏@mohem_mat
+12:58
+1405/06/29
+
+
+
+
+src :@mohem_mat
 ‏دنیای اقتصاد:
 ‏
 ‏ مصرف سرانه گوشت قرمز در ایران از حدود ۱۴ کیلوگرم در اواسط دهه ۱۳۸۰ به نزدیک ۵ کیلوگرم در سال‌های اخیر کاهش یافته است.
@@ -1300,21 +1325,6 @@ src :@P_raetorio
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻تیم فوتبال امید ایران در دومین مسابقهٔ خود در بازی‌های آسیایی ناگویا ۲۰۲۶، برابر چین به تساوی بدون گل رسید.در دقیقهٔ ۳۹، عباس کهریزی به‌دلیل مصدومیت از زمین خارج شد و یوسف مزرعه جای او را گرفت. در دقیقهٔ ۵۰ هم چینی‌ها تیر دروازهٔ خلیفه را به لرزه درآوردند.
-‏
-‏🔹تیم زیر ۲۳ سال ایران با کسب این یک امتیاز، چهارامتیازی شد و با تفاضل گل بهتر نسبت به چین، همچنان در صدر گروه B قرار دارد.
-‏
-‏🔹نمایندهٔ ایران در نخستین بازی، ۳ بر ۱ امارات را شکست داد و در آخرین دیدار مرحلهٔ گروهی هم، اول مهر به مصاف کرهٔ شمالی خواهد رفت.
-‏
-‏@iranintltvsport
-10:35
-1405/06/29
-
-
-
-
 src :@MilitarryWorld
 ‏🔴قالیباف: تا محقق نشدن شروط ایران، تنگۀ هرمز باز نخواهد شد
 ‏
@@ -1881,19 +1891,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:18
-1405/06/29
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏داستان اسباب‌بازی‌ ۵ اومده و منوچهر والی‌زاده عزیز بین ما نیست که بجای وودی حرف بزنه☹️
-‏
-‏🔗 سعا (@SAA_IRAN) 
-‏
-‏@mohem_mat
-09:14
 1405/06/29
 
 
@@ -5955,60 +5952,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 13:04
-1405/06/28
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏تصاویر ماهواره‌ای که توسط شرکت آمریکایی Satellogic گرفته شده‌اند، نشان می‌دهند که ساخت شش شیلتر بتنی دیگر برای جنگنده ها در پایگاه هوایی کریمسک تقریباً به پایان رسیده است. 
-‏
-‏این فعالیت در اواخر سال 2025 آغاز شد و بدون وقفه ادامه یافته.
-‏
-‏این پایگاه کمتر از 400 کیلومتر با خط تماس و در محدوده برد سلاح‌های دوربرد اوکراینی قرار دارد. شیلتر های جدید برای جنگنده‌های سوخو-30 و سوخو-35 که در این پایگاه مستقر هستند، طراحی شده‌اند.
-‏
-‏با این حال، هنوز هم تعدادی از جنگنده‌ها به صورت آشکار... در تصاویر ماهواره ی قرار دارند، به این معنی که حتی پس از افزایش ظرفیت محافظت‌شده، بخشی از این هواپیماها همچنان آسیب‌پذیر هستند.
-‏
-‏
-‏@PARVAZDAROJ|M.S
-13:01
-1405/06/28
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷 — U.S. Ambassador to Israel Mike Huckabee:
-‏
-‏"At some point, I do believe we are going to see another uprising in Iran.
-‏
-‏And perhaps there will be a way that the people can be better prepared, armed, and be able to truly resist what will be an incredibly even more weakened Iranian government".
-‏
-‏@TheWarReporter
-12:58
-1405/06/28
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇵🇰🇹🇷🇸🇦 — U.S. Ambassador to Israel Mike Huckabee:  "The Mecca Alliance is not being threatened by Israel. Israel has no intention of attacking Turkey, Saudi Arabia or Pakistan. And the U.S. has no ambitions to go into these countries.  So whatever agreement…
-12:57
-1405/06/28
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇱🇵🇰🇹🇷🇸🇦 — U.S. Ambassador to Israel Mike Huckabee:
-‏
-‏"The Mecca Alliance is not being threatened by Israel. Israel has no intention of attacking Turkey, Saudi Arabia or Pakistan. And the U.S. has no ambitions to go into these countries.
-‏
-‏So whatever agreement they are making, they clearly believe that it is in their best interest. Perhaps it is to protect against the Houthis or terrorist organizations.
-‏
-‏I never certainly saw or heard any anxiety in Washington that, 'Oh my gosh, this is a terrible thing'. I don't think that anyone saw it that way".
-‏
-‏@TheWarReporter
-12:56
 1405/06/28
