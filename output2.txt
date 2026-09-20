@@ -1,3 +1,21 @@
+src :@Ali_bk_2
+[عکس]
+‏A U.S. C-130J-30 military transport aircraft has just taken off from MacDill Air Force Base in Florida (the headquarters of the U.S. command).
+07:05
+1405/06/29
+
+
+
+
+src :@Alibk3
+[عکس]
+‏طائرة نقل عسكرية أميركية من طراز C-130J-30 أقلعت الآن من قاعدة ماكديل الجوية في فلوريدا (مقر القيادة الأميركية).
+07:05
+1405/06/29
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏بر اساس گزارشات ، تصاویر ماهواره‌ای از منطقه ویژه اقتصادی «آلابوگا» در تاتارستان روسیه، از احداث تأسیسات زیرزمینی جدید برای تولید پهپادهای خانواده شاهد/گرَن خبر می‌دهند.
@@ -37,7 +55,7 @@ src :@Alibk3
 
 src :@Ali_bk_2
 [عکس]
-‏A U.S. C-130J-30 military transport aircraft took off from MacDill Air Force Base in Florida (the headquarters of the U.S. command).
+‏A U.S. C-130J-30 military transport aircraft has just taken off from MacDill Air Force Base in Florida (the headquarters of the U.S. command).
 06:51
 1405/06/29
 
@@ -46,7 +64,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏طائرة نقل عسكرية أميركية من طراز C-130J-30 أقلعت من قاعدة ماكديل الجوية في فلوريدا (مقر القيادة الأميركية).
+‏طائرة نقل عسكرية أميركية من طراز C-130J-30 أقلعت الآن من قاعدة ماكديل الجوية في فلوريدا (مقر القيادة الأميركية).
 06:51
 1405/06/29
 
@@ -1434,24 +1452,6 @@ src :@rnintel
 [عکس]
 ‏🇺🇸⚡️ — President Trump will now return to the White House tonight instead of tomorrow night.
 02:05
-1405/06/29
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏A sharp increase in the pizza index near the Pentagon.
-02:00
-1405/06/29
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ارتفاع مؤشر البيتزا قرب البنتاغون بشكل كثيف.
-02:00
 1405/06/29
 
 
