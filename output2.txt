@@ -1734,14 +1734,6 @@ src :@MilitarryWorld
 
 
 
-src :@Ali_bk_2
-‏The U.S. Embassy in Baghdad issues a security warning to Americans about the possibility of airspace closure in light of developments in the region.
-01:23
-1405/06/29
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇺🇸🇮🇱📞 — The United States Embassy in Jerusalem has issued a security alert to American citizens in Israel, warning that heightened tensions in the Middle East could lead to flight disruptions, airspace closures, and restrictions or changes affecting passenger travel.
@@ -1750,15 +1742,6 @@ src :@BellumActaNews
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
-01:23
-1405/06/29
-
-
-
-
-src :@Alibk3
-[عکس]
-‏السفارة الأميركية في بغداد تصدر تحذيرًا أمنيًا للأميركيين من احتمال إغلاق المجال الجوي على خليفة التطورات فى المنطقة.
 01:23
 1405/06/29
 
@@ -3543,21 +3526,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/157801
 ‏@Farsi_Iranwire
 22:08
-1405/06/28
-
-
-
-
-src :@ClashReport
-[عکس]
-‏11% of French gas stations report fuel shortages, driven by high oil prices from Middle East tensions.
-‏
-‏Diesel hit ~€2.41/L, near record highs. 
-‏
-‏Grand Est (16%) and Pays de la Loire (15%) are worst hit. 
-‏
-‏The government says strategic stocks are adequate and the problem is logistics, not supply.
-22:07
 1405/06/28
 
 
