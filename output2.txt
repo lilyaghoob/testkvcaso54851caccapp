@@ -1,3 +1,87 @@
+src :@Minas_Tirith2024
+[عکس]
+‏لاشه موشک بالستیک یافته شده در مسکو پس از حمله بامداد امروز که احتمال اولین حمله بالستیک از اوکراین به پایتخت روسیه از ابتدای جنگ تاکنون را مطرح می‌کند.
+‏
+‏
+‏@Minas_Tirith2024
+08:00
+1405/06/29
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 رومانی به تأمین موشک‌های پدافندی برای سامانه‌های Patriot اوکراین کمک می‌کند.
+‏
+‏🔹️ رومانی و اوکراین در چارچوب همکاری‌های دفاعی خود، موضوع تأمین مجدد موشک‌های مورد استفاده سامانه‌های Patriot اوکراین را دنبال می‌کنند. جزئیات مربوط به تعداد و زمان‌بندی این تأمین هنوز اعلام نشده است.
+‏
+‏🔹️ همزمان، بخارست و کی‌یف اجرای پروژه‌های مشترک تولید پهپاد را با پشتیبانی برنامه SAFE اتحادیه اروپا پیش می‌برند. بر  اساس برنامه اعلام‌شده، تولید پهپادها در رومانی و با مشارکت شرکت‌های اوکراینی انجام خواهد شد.
+‏
+‏#Romania
+‏#Ukraine
+‏#Patriot
+‏#AirDefense
+‏#SAFE
+‏#Drones
+‏#DefenseIndustry
+‏#NATO
+‏#MilitaryNews
+‏
+‏@RASTAKHIZ_PERSIAN
+08:00
+1405/06/29
+
+
+
+
+src :@ircfspace
+[عکس]
+‏اسکریپت Google Flow Helper برای اجرا از طریق افزونه مرورگر Tampermonkey ساخته شده و کمک می‌کنه محدودیت‌های دسترسی به Google Flow برای کاربران ایرانی دور زده بشه.
+‏این اسکریپت درخواست‌های داخلی Google Flow رو زیر نظر می‌گیره و وقتی به پاسخ مربوط به تنظیمات و محدودیت‌های سرویس میرسه، یه فلگ مشخص رو پیدا می‌کنه و مقدارش رو از false به true تغییر میده. بعد پاسخ اصلاح‌شده رو به خود رابط Flow تحویل میده؛ در نتیجه فرانت‌اند تصور می‌کنه اون قابلیت برای کاربر فعال شده و محدودیت مربوطه رو اعمال نمی‌کنه.
+‏این ابزار VPN یا فیلترشکن نیست و خودش محدودیت شبکه یا فیلترینگ اینترنت ایران رو دور نمیزنه. آدرس flow.google.com باید از اینترنت شما قابل دسترس باشه. این اسکریپت بیشتر برای مرحله بعده؛ یعنی وقتی به Google Flow دسترسی دارید اما خود سرویس بخاطر محدودیت منطقه‌ای یا تنظیمات سمت کلاینت اجازه استفاده از سرویس رو نمیده.
+‏
+‏👉 github.com/maanimeisam/Google-Flow-Helper
+‏💡 telegra.ph/Google-Flow-Helper-09-20
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+07:59
+1405/06/29
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Footage allegedly shows Yemen's National Army engaging Ansar Allah forces from the strategic Jabal Rasin (Rasin Mountain) in Taiz Governorate.  I am not sure whether this is confirmed or makes sense, as fighting is still ongoing for control of Jabal Jardad…
+07:58
+1405/06/29
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇦🇨🇳 Financial Times: Saudi Arabia has withdrawn from China mBridge cross-border digital currency platform, part of Beijing's effort to build an alternative to dollar-dominated payment systems, with Riyadh's central bank saying it completed its proof-of-concept phase in May 2025 and calling the exit part of its original plan.
+‏
+‏The move follows a similar 2024 exit by the Bank for International Settlements amid reported U.S. pressure, as President Trump has threatened 100% tariffs on BRICS nations pursuing alternatives to the dollar.
+‏
+‏@wfwitness
+07:57
+1405/06/29
+
+
+
+
+src :@jangaavaran1390
+‏الکس پلیتسس، تحلیلگر مسائل امنیتی شبکه سی‌ان‌ان، گفت که ترامپ در کمپ دیوید جلسه‌ای برگزار کرد تا گزینه‌های مربوط به حملات احتمالی در یمن را بررسی و ارزیابی کند.
+07:57
+1405/06/29
+
+
+
+
 src :@Navy_Iranian
 ‏⬅️ادامه: 
 ‏
@@ -1942,14 +2026,6 @@ src :@tglobaleye
 
 
 
-src :@wfwitness
-‏⚡️🇺🇸🇧🇭 The U.S. Embassy in Manama has issued a security alert to US citizens in Bahrain, warning of potential flight and travel disruptions amid rising tensions in the region.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom…
-01:30
-1405/06/29
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏شاهزاده رضا پهلوی شنبه در سخنرانی در رویداد کوروش کبیر در تورنتو گفت: «حماسه دی نتیجه یک هیجان زودگذر نبود، بلکه پشت آن راهی طولانی و پرهزینه قرار داشت. جمهوری اسلامی که در ۱۸ و ۱۹ دی سقوط خود را قطعی می‌دید، دست به یکی از بزرگ‌ترین جنایت‌های تاریخ زد.»
@@ -3253,15 +3329,6 @@ src :@P_raetorio
 
 src :@jangaavaran1390
 [عکس]
-‏ارتش بریتانیا، نمونه‌های اولیه آخرین مدل تانک جنگی خود، به نام "چلنجر 3"، را به نمایش گذاشت. این تانک در حال حاضر مراحل آزمایش‌های عملیاتی و ارزیابی قابلیت تحرک را پشت سر می‌گذارد، پیش از اینکه انتظار می‌رود در سال 2027 به ناوگان عملیاتی این ارتش اضافه شود.
-23:16
-1405/06/28
-
-
-
-
-src :@jangaavaran1390
-[عکس]
 ‏در ۱۹ سپتامبر ۱۹۶۹، بالگرد B-۲۴ (که بعدها میل-۲۴ هایند نام گرفت) اولین پرواز خود را انجام داد.
 ‏
 ‏آزمایش‌های دولتی در ژوئن ۱۹۷۰ آغاز شد و به مدت یک سال و نیم ادامه یافت.
@@ -3287,17 +3354,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:12
-1405/06/28
-
-
-
-
-src :@jangaavaran1390
-‏محسن رضایی، دبیر شورای عالی امنیت ملی :
-‏7 شرطی که ایران برای آغاز هرگونه مذاکره تعیین کرده است، به دولت آمریکا اطلاع داده شده است.
-‏
-‏پیام تهران روشن و غیرقابل‌انکار است؛ اگر واشنگتن می‌خواهد از بحرانی که برای خود ایجاد کرده، فرار کند و از درگیر شدن بیشتر در آن اجتناب کند، هیچ راهی جز پذیرش حقوق و شرایط ایران ندارد.
-23:11
 1405/06/28
 
 
@@ -3474,15 +3530,6 @@ src :@selena_updates
 ‏
 ‏The Houthis also begun installing radar systems on hills overlooking the southern Red Sea.
 22:50
-1405/06/28
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏بدون شرح
-22:48
 1405/06/28
 
 
@@ -6310,15 +6357,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 08:10
-1405/06/28
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏صبح همگی بخیر
-‏
-‏@artemis_force
-08:00
 1405/06/28
