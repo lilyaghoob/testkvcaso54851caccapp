@@ -1,3 +1,14 @@
+src :@P_raetorio
+[عکس]
+‏نمایی از وضعیت مسکو 
+‏
+‏@Minas_Tirith2024
+10:29
+1405/06/29
+
+
+
+
 src :@guard_warriors
 [عکس]
 ‏✪ نصب سکوی خارجی در قسمت چپ بدنه، برای چهارمین ناو هواپیمابر چینی Type-004 آغاز شده است.
@@ -2531,22 +2542,6 @@ src :@warmonitors
 
 
 
-src :@Ali_bk_2
-‏Regardless of what comes of these warnings and movements, the progress made by the Yemeni forces and the liberation of the Bab al-Mandab Strait, placing Saudi Arabia in a difficult position, in addition to Trump being at the decision-making stage and the need to achieve a success, have strengthened the possibility of a counter-response by the enemy to the liberation of Bab al-Mandab at the regional level.
-02:23
-1405/06/29
-
-
-
-
-src :@Alibk3
-‏بغضّ النظر عمّا سيحصل من هذه الإنذارات والتحركات، التقدم الذي أحرزته القوات اليمنية وتحرير مضيق باب المندب، ووضع السعودية في موقف حرج، بالإضافة إلى وجود ترامب في مرحلة اتخاذ القرارات والحاجة إلى تحقيق إنجاز، قد عزز فرضية الرد المضاد من قبل العدو على تحرير باب المندب على مستوى المنطقة.
-02:23
-1405/06/29
-
-
-
-
 src :@ManotoTV
 [عکس]
 ‏محمدرضاشاه در تاسیسات نفتی لاوان
@@ -3990,30 +3985,6 @@ src :@Minas_Tirith2024
 src :@samueltarikh
 ‏دولت بریتانیا به شهروندان خود در اطلاعیه ای فوری اعلام کرده خود را برای هر شرایط امنیتی ویژه ای آماده کنند.
 23:22
-1405/06/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏نگاه شکارچی به شکارش !
-‏
-‏تصویری زیبا از نمای کابین جنگنده F-16 نیروی هوایی اوکراین که یک پهپاد قوای روسیه را منهدم نموده است.
-‏
-‏@Minas_Tirith2024
-23:19
-1405/06/28
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏ژنرال محسن رضایی:
-‏
-‏آمریکا برای خروج از جنگ، چاره‌ای جز پذیرش ۷ شرط ایران ندارد.
-23:16
 1405/06/28
 
 
@@ -5544,29 +5515,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 16:49
-1405/06/28
-
-
-
-
-src :@defence_news
-[عکس]
-‏تصویری منتشر شده از ترکیب خودرو آفرودی چند منظوره اسراییلی/آمریکایی Tomcar Tx(تولید شرکت اصل اسرائیلی tomcar در آمریکا)  و موشک ضد زره دهلاویه در اختیار نیروهای دولت وفاق ملی لیبی 
-‏
-‏
-‏@RedLionCorps
-16:44
-1405/06/28
-
-
-
-
-src :@defence_news
-[عکس]
-‏تصویر یکی از محافظین نزدیک رمضان قدیروف رییس جمهور چچن که در آن با سلاح تهاجمی سری BREN 2 ساخت شرکت CZ جمهوری چک دیده می شود. این سلاح از مهمات 5.56 میلی متری ناتو استفاده می کند.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-16:43
 1405/06/28
 
 
