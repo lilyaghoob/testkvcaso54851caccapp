@@ -4712,16 +4712,6 @@ src :@cataphract1
 
 
 
-src :@guard_warriors
-‏✪ گویا به جزیره قشم حملاتی صورت گرفته 
-‏
-‏@Guard_Warriors
-03:50
-1405/06/29
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏تصویری تاریخی از کشتی هوایی بریتانیایی R33 متعلق به شرکت Armstrong Whitworth، در حالی که دو فروند جنگنده Gloster Grebe به قسمت زیرین آن متصل شده‌اند.
