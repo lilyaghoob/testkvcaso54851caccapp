@@ -1,3 +1,14 @@
+src :@mohem_mat
+[عکس]
+‏پیگیری خبرگزاری فارس از حضور بازیگر کشف حجاب کرده در یک قسمت یک سریال شبکه نمایش خانگی
+‏
+‏@mohem_mat
+19:10
+1405/06/29
+
+
+
+
 src :@mwarmonitor
 ‏📝 ویدیوی منتشر شده در خبرگزاری رکنا لحظات پر اضطراب داخل هواپیمای بوئینگ ۷۳۷ شرکت سپهران را نشان می‌دهد که در دوشنبه ۲۳ شهریور پس از برخاستن از فرودگاه مشهد به مقصد کرمانشاه با ترکیدگی لاستیک مواجه شد و با گزارش آسیب به موتور مجبور شد به فرودگاه مشهد بازگردد.…
 19:05
@@ -1588,23 +1599,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇷🇺🇮🇷⚡️ — A leaked 44-page Russian government roadmap for 2024–2026, obtained by Fox News, details plans to deepen cooperation with Iran across finance, nuclear energy, oil and gas, aviation, transport, technology, and media.
-‏
-‏The plan includes expanding national-currency trade and independent banking channels, exploring central-bank digital currency payments, continued Rosatom work at Bushehr Units 1–3, Russian involvement in the Shadegan, Kish, and North Pars energy projects, and potentially manufacturing Russian aircraft components in Iran.
-‏
-‏It also covers the Rasht-Astara railway and wider North-South Transport Corridor, Iranian investment in Russian port infrastructure, Russian technology and information-security contracts in Iran, and joint media projects and journalist training.
-‏
-‏Approved in September 2024, the document predates the current U.S.-Iran war and does not confirm which projects remain active, although several have since advanced publicly. 
-‏
-‏The overall plan seeks to make Russia-Iran ties more institutionalized and resistant to Western sanctions and financial pressure.
-17:15
-1405/06/29
-
-
-
-
 src :@MilitarryWorld
 ‏🔴 ترامپ: آماده دیدار با رئیس‌جمهور ایران هستم  @MilitarryWorld | Maverick
 17:14
@@ -1801,18 +1795,6 @@ src :@MilitarryWorld
 src :@MilitarryWorld
 ‏🔥بازی‌های جذاب امشب🔥 ۲۹ شهریور  💥آپشن‌های متنوع با بالاترین ضرایب   🧮انواع روش‌های شارژ   📝پشتیبانی ۲۴ ساعته  💸واریز جوایز در سریعترین زمان  🏧۱۰٪ بونوس برای واریز ریالی و کریپتو  📲لینک اصلی سایت 👇 Https://brool90.com/  🔥هیجان را در بت‌روول تجربه کنید کانال…
 16:59
-1405/06/29
-
-
-
-
-src :@tabzlive
-‏🇾🇪🇮🇷⚡️ — IRGC experts visited Yemen’s Bab al-Mandeb region to oversee tunnel construction and discuss the installation of radar systems, two Houthi military sources told AFP.
-‏
-‏The Iranian personnel visited Bab al-Mandeb, Mokha’s port and airport, and the Jabal al-Nar camp east of Mokha between Thursday and Friday. They supervised tunnel excavation in mountainous areas overlooking Mokha and the Bab al-Mandeb Strait.
-‏
-‏The experts also discussed installing radars near Mokha and on Zuqar Island in the southern Red Sea.
-16:57
 1405/06/29
 
 
@@ -2172,16 +2154,6 @@ src :@Artemis_Force
 
 
 
-src :@MilitarryWorld
-‏🔴محسن رضایی:  اگر آمریکایی‌ها جدی هستند، بگذارند سربازانشان بیایند و وارد ایران شوند، چرا نمی‌آیند؟
-‏
-‏@MilitarryWorld | Parsa
-16:24
-1405/06/29
-
-
-
-
 src :@didarnews1
 ‏🔴قرارگاه مرکزی خاتم‌الانبیا اعلام کرد که بر اساس اطلاعات دریافتی، ایالات متحده تصمیم گرفته است اقدامات خود علیه ایران را از سر بگیرد.
 ‏
@@ -2459,17 +2431,6 @@ src :@WAR_ROOM_NEWS
 ‏﻿
 ‏🆔@WAR_ROOM_NEWS
 16:04
-1405/06/29
-
-
-
-
-src :@MilitarryWorld
-‏🔴پزشکیان: باید راهی پیدا کنیم که مردم ما به عزت و سربلندی و قدرت برسند
-‏
-‏
-‏@MilitarryWorld | Parsa
-16:03
 1405/06/29
 
 
@@ -6144,16 +6105,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 22:50
-1405/06/28
-
-
-
-
-src :@guard_warriors
-‏فعالیت پدافند هوایی در کرمانشاه 
-‏
-‏@Guard_Warriors
-22:30
 1405/06/28
 
 
