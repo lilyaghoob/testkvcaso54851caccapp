@@ -4953,18 +4953,6 @@ src :@guard_warriors
 
 
 
-src :@mohem_mat
-‏فرمانده سنتکام مدعی شد: 
-‏
-‏ایران به لطف محاصره شدید ما، از زمان شروع این محاصره حتی یک بشکه نفت هم صادر نکرده است.
-‏
-‏@mohem_mat
-19:04
-1405/06/28
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏لاکهید مارتین، اولین هواپیمای جنگنده F-35A را به نیروی هوایی آلمان تحویل داد.
@@ -4982,14 +4970,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 19:04
-1405/06/28
-
-
-
-
-src :@mohem_mat
-‏محسن رضایی به الجزیره گفت:   به نفع واشنگتن است که شرایط ما را برای پایان جنگ بپذیرد و تهدیدات ترامپ به هیچ نتیجه‌ای نخواهد رسید. ما برای یک جنگ سرنوشت‌ساز آماده‌ایم.  ما نقاط ضعف ارتش آمریکا را می‌دانیم و بیش از هر زمان دیگری برای مقابله با حملات هوایی آن…
-18:59
 1405/06/28
 
 
@@ -6288,17 +6268,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 09:33
-1405/06/28
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇺🇸 🇺🇦⚡️— The U.S. State Department approved a potential $2.68 billion sale of air defense equipment and support to Ukraine. 
-‏
-‏The package includes extended-range air defense systems, mobile launchers, counter-drone radars, spare parts, software, and technical support. Ukraine will finance the purchase using European contributions and previously appropriated U.S. Foreign Military Financing.
-‏
-‏🇪🇺 Legion Europa | Group Chat
-09:28
 1405/06/28
