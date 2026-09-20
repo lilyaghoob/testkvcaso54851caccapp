@@ -1,6 +1,41 @@
+src :@ClashReport
+‏Zelensky:
+‏
+‏I just spoke with President Trump. It was an important conversation, and we managed to discuss many things. 
+‏
+‏We agreed to meet in New York, and this meeting could bring about significant changes. There is a diplomatic dynamic at play.
+21:45
+1405/06/29
+
+
+
+
+src :@Mena_Live
+‏A coalition reconnaissance plane is hovering over the Idlib Governorate.
+‏
+‏@Mena_Live
+21:43
+1405/06/29
+
+
+
+
 src :@samueltarikh
 ‏عراقچی پس از توقف کوتاهی در قطر برای شرکت در نشست سازمان ملل عازم نیویورک شد
 21:43
+1405/06/29
+
+
+
+
+src :@ClashReport
+[عکس]
+‏In Russia’s State Duma elections, exit polls showed the ruling United Russia party leading with 49.4% of the vote in a VCIOM survey and 52.8% in an INSOMAR poll. 
+‏
+‏The Communist Party was second on 14.2%-14.8%, followed by the LDPR on 9.9%-10.7%, New People on 8.6%-9.7% and A Just Russia on 5.5%-6.6%. 
+‏
+‏Voter turnout was reported at more than 56%.
+21:42
 1405/06/29
 
 
@@ -1342,14 +1377,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇮🇱❌🇱🇧 — Israeli Air Force airstrike against al-Mansouri, southern Lebanon.
-19:58
-1405/06/29
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻تیم فوتبال رئال مادرید در هفته هفتم لالیگا با نتیجه دو بر یک مقابل اتلتیکومادرید شکست خورد. گریمالدو در دقیقه ۵۳ و جاناتان دیوید در دقیقه ۵۹ برای اتلتیکو گل زدند و رودیگر در دقیقه ۸۹ تنها گل رئال مادرید را به ثمر رساند.
@@ -1949,15 +1976,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 18:54
-1405/06/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏📸 Treasury Secretary Bessent meets with Chinese Vice Premier He Lifeng ahead of the Trump-Xi summit.
-18:53
 1405/06/29
 
 
@@ -2881,16 +2899,6 @@ src :@Minas_Tirith2024
 ‏سؤال من این است که آیا و چه زمانی کل آن کشور را نابود کنم؟ بهتر است که آن‌ها درست رفتار کنند.
 ‏
 ‏@Minas_Tirith2024
-17:28
-1405/06/29
-
-
-
-
-src :@ClashReport
-‏Luxembourg deployed additional drone-detection assets, including support from foreign partners, after Luxembourg Airport briefly suspended operations on Friday following sightings of “unidentified and unauthorized drones.”
-‏
-‏Source: Reuters
 17:28
 1405/06/29
 
