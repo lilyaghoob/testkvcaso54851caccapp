@@ -1,5 +1,38 @@
+src :@GeoPWatch
+[عکس]
+‏🔽🛢 – Brent crude oil prices have dipped below $100 dollars per barrel for the first time since September 9.
+‏
+‏The situations in both the Bab al-Mandab and the Hormuz Straits, while dire, have stabilized over the past weeks.
+‏
+‏@GeoPWatch
+01:31
+1405/06/31
+
+
+
+
+src :@OSINTWarfare
+‏The wreckage of an FH-95 (CH-95) UCAV operated by the Rapid Support Forces (RSF), downed by the Sudanese Armed Forces (SAF).  The UCAV has two hardpoints on each wing. On the visible wing, one hardpoint is fitted with a dual rack carrying TL-2D/TL-20 air-to…
+01:30
+1405/06/31
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️علی الزیدی، نخست‌وزیر عراق، در گفتگو با روزنامه «نیویورک‌تایمز» با اشاره به ممانعت تهران از عبور نفتکش‌های عراقی از تنگه هرمز گفت: «ما با مقامات جمهوری اسلامی ایران مفصل صحبت کردیم، تصمیم آن‌ها قاطع است و حتی اجازه عبور به نفتکش‌های عراقی هم نمی‌دهند، چون هدف تهران افزایش بهای جهانی نفت و وارد آوردن فشار اقتصادی است.» الزیدی گفت دولت او اکنون پیگیر طرح‌هایی برای احداث و گسترش خطوط لوله جایگزین از مسیر ترکیه است تا نفت عراق بدون نیاز به گذر از خلیج فارس به بازارهای بین‌المللی و اروپا برسد.
+‏
+‏@indypersian
+01:28
+1405/06/31
+
+
+
+
 src :@Ali_bk_2
 [عکس]
+‏Disruptions to air traffic over Riyadh in Saudi Arabia.
 01:27
 1405/06/31
 
@@ -8,6 +41,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
+‏اضطرابات في المجال الجوي فوق الرياض في السعودية.
 01:27
 1405/06/31
 
@@ -2787,14 +2821,6 @@ src :@Shin_Persian
 src :@naya_foriraq
 ‏🇾🇪🇸🇦السعودية تعلق الدراسة غداً الاثنين في كليات جامعة الملك خالد في أبها وخميس مشيط خوفا من رد فعل اليمن على الاعتدائات السعودية الاخيرة.
 22:14
-1405/06/30
-
-
-
-
-src :@Indypersian
-‏IndyPersian pinned «⭕️ از ۱۳۶۶ تا ۱۴۰۵؛ ایران و آمریکا در آستانه تکرار یک رویارویی دریایی  📌آیا تهران بار دیگر در همان مسیری قرار گرفته است که چهار دهه پیش به رویارویی مستقیم دریایی با واشنگتن انجامید؟  ♦️آمریکا مشغول انجام عملیاتی است که درست ۳۸ سال پیش ریگان انجام داد، البته…»
-22:13
 1405/06/30
 
 
@@ -6812,15 +6838,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 01:32
-1405/06/30
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸 – Trump on Truth Social:
-‏
-‏@GeoPWatch
-01:27
 1405/06/30
