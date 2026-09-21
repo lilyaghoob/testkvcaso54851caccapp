@@ -95,7 +95,7 @@ src :@bricsnews
 
 
 src :@tabzlive
-‏🇰🇷🇰🇵⚡️ — Three South Korean soldiers were injured in a suspected mine blast inside the DMZ today, according to Yonhap.
+‏🇰🇷🇰🇵⚡️ — Three South Korean soldiers were injured (two of them are seriously injured) in a suspected mine blast inside the DMZ today, according to Yonhap.
 ‏
 ‏The soldiers were taken to the Armed Forces Capital Hospital. 
 ‏
@@ -6654,14 +6654,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 09:02
-1405/06/29
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇷🇺🇺🇦 Russia says it repelled the largest drone attack from Ukraine to date.
-‏
-‏@BRICSNews
-08:50
 1405/06/29
