@@ -1,3 +1,11 @@
+src :@tabzlive
+‏🇮🇱❌🇱🇧 — Israeli Air Force airstrike against the vicinity of the Ali al-Taher heights, southern Lebanon.
+06:58
+1405/06/30
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️سخنگوی وزارت خارجه قطر روز یکشنبه گفت میانجی‌های قطری در پشت صحنه در تلاش‌اند شکاف میان ایران و آمریکا را کاهش دهند و با تبادل پیشنهادها، زمینه را برای ازسرگیری مذاکرات فراهم کنند.
@@ -1800,17 +1808,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — Iranian Grand Ayatollah Mousa Shubairi Zanjani has died at the age of 98. 
-‏
-‏Iranian state media reports that details regarding his funeral and burial ceremonies will be announced later.
-00:52
-1405/06/30
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Trump is increasingly frustrated by political and legal setbacks and believes too few allies are publicly defending his second-term record. He has also complained that prominent figures have not thanked him for his attempted overhaul of the Kennedy Center.
@@ -2931,14 +2928,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏#تبلیغات
-22:13
-1405/06/29
-
-
-
-
 src :@MilitarryWorld
 ‏🔴وزیر اقتصاد: ارائه کالابرگ با مبالغ جدید به دهک‌های پایین از ۱۵ مهر آغاز می‌شود
 ‏
@@ -3113,14 +3102,6 @@ src :@MilitarryWorld
 ‏🔴صابرین نیوز: دولت عراق تصمیم گرفته تمامی پروازها به و از ایران و از تمامی فرودگاه‌های عراق را از روز سه‌شنبه آینده لغو و متوقف کند
 ‏
 ‏@MilitarryWorld | Parsa
-21:52
-1405/06/29
-
-
-
-
-src :@jangaavaran1390
-‏وزیر امور خارجه راهی نیویورک شد گفتی شده وی قصد داشت در دوحه قطر توقف کوتاهی داشته باشد
 21:52
 1405/06/29
 
