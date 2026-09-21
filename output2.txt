@@ -1,3 +1,14 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇻🇪🇺🇳Acting Venezuelan President Rodriguez has arrived in New York for the UN General Assembly. 
+‏
+‏@wfwitness
+16:26
+1405/06/30
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری «رویترز» گزارش داده تولیدکنندگان نفت خلیج فارس برای ادامه صادرات در شرایط ناامن تنگه هرمز، استفاده از شبکه انتقال نفت از یک کشتی به کشتی دیگر در آب‌های نزدیک عمان را به‌شدت افزایش داده‌اند.
@@ -2907,17 +2918,6 @@ src :@Shin_Persian
 
 
 
-src :@P_raetorio
-[عکس]
-‏به گزارش فاینشنال تایمز از ابتدای سال 2022 تاکنون 2.1 میلیون متر مربع از 5.8 میلیون متر مربع انبار های مواد غذایی،صنعتی و لجستیک اوکراینی‌ها در اثر حملات روس‌ها ویران شده است که خسارت آن تاکنون حدود 3 میلیارد دلار براورد می‌شود!
-‏
-‏@P_raetorio
-13:00
-1405/06/30
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏دو فروند جنگنده نسل ۵ F-35A به فنلاند رسیدند.
@@ -4391,16 +4391,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — UPDATE: This was not an Orbiter-class UAV, but an ADM-160 MALD decoy missile launched by a U.S. fighter jet. Iranian media and the Islamic Republic of Iran Army made a mistake in identifying this as an Orbiter, though the wreckage does look very similar to an Orbiter.
-‏
-‏The ADM-160 MALD was launched to identify Iranian air defense positions. MALDs are not intended for kinetic strikes themselves; their role is to pretend to be a missile and cause air defense systems to reveal themselves and waste their munitions.
-07:30
-1405/06/30
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏ارتش جمهوری اسلامی ایران اعلام کرد که یک فروند پهپاد اوربیتر را بر فراز تنگه هرمز سرنگون کرده است. خلاصه اش احتمال بالا پهپاد اماراتی را انداخته باشند   @RedLionCorps
@@ -4415,16 +4405,6 @@ src :@jangaavaran1390
 ‏
 ‏احتمالاً یه عده هم اونور نشستن و میگن بزار این زمستون بگذره از اول بهار میایم رو سرتون
 07:27
-1405/06/30
-
-
-
-
-src :@tabzlive
-‏🇰🇵🇰🇷⚡️ — Yonhap reports three Republic of Korea Army 25th Infantry Division soldiers have been injured at the Korean Demilitarized Zone following a suspected DPRK mine explosion. Two of the soldiers have serious injuries.
-‏
-‏The soldiers were taken to the Armed Forces Capital Hospital.
-07:24
 1405/06/30
 
 
@@ -4916,18 +4896,6 @@ src :@OSINTWarfare
 [عکس]
 ‏I refrained from posting anything about Taiz over the past few days because the situation remains uncertain, and getting confirmed information from the ground has been nearly impossible. In many cases, even Yemenis themselves don't have a clear picture of…
 02:25
-1405/06/30
-
-
-
-
-src :@intelslava
-‏🇮🇷🇺🇸⚡️ — CNN reports Iran’s medicine shortages are worsening amid sanctions, inflation, and large unpaid insurance debts to pharmacies.
-‏
-‏The Iranian Pharmacists Association says nearly 800 medicines are now in short supply. More than 18,000 private pharmacies await about $300 million in insurance reimbursements.
-‏
-‏Pharmacies told CNN some heart, cholesterol, and migraine drugs are scarce or unavailable, while patients described cutting doses or turning to purchases from abroad.
-02:19
 1405/06/30
 
 
@@ -5747,14 +5715,6 @@ src :@defence_news
 ‏
 ‏@RedLionCorps
 20:49
-1405/06/29
-
-
-
-
-src :@Minas_Tirith2024
-‏Minas Tirith pinned Deleted message
-20:48
 1405/06/29
 
 
