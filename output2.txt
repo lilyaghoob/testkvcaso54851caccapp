@@ -1,3 +1,54 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli artillery fire targets the town of Qantara, southern Lebanon.
+‏
+‏@wfwitness
+08:04
+1405/06/31
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 آمریکا در حال انتقال پهپادهای MQ-9 Reaper از آفریقا به حوزه فرماندهی جنوبی است.
+‏
+‏🔹️ بر اساس گزارش CNN، پنتاگون در حال برنامه‌ریزی برای انتقال بخش عمده‌ای از پهپادهای MQ-9 Reaper تحت فرماندهی آفریقا (AFRICOM) به حوزه مسئولیت فرماندهی جنوبی آمریکا (SOUTHCOM) است. تعداد دقیق پهپادهای منتقل‌شده هنوز اعلام نشده است.
+‏
+‏🔹️ این جابه‌جایی در چارچوب افزایش حضور و همکاری نظامی آمریکا در آمریکای لاتین انجام می‌شود و اکوادور و کلمبیا از جمله کشورهای مورد توجه واشنگتن هستند. گزارش‌ها این تحرکات را با عملیات و همکاری‌های ضدقاچاق مواد مخدر و ضدتروریسم در منطقه مرتبط دانسته‌اند.
+‏
+‏#USA
+‏#Ecuador
+‏#Colombia
+‏#MQ9
+‏#Reaper
+‏#SOUTHCOM
+‏#AFRICOM
+‏#LatinAmerica
+‏#MilitaryNews
+‏#USMilitary
+‏
+‏@RASTAKHIZ_PERSIAN
+08:03
+1405/06/31
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇫🇷🇺🇸⚡️ — French President Emmanuel Macron:
+‏Upon my arrival in New York, I met with President Donald Trump.
+‏
+‏We decided to act together to ease tensions in energy markets by protecting critical infrastructure in the Middle East and freedom of navigation in the Strait of Hormuz.
+‏
+‏We will also join forces to secure a moratorium on strikes against energy infrastructure and Ukrainian civilian infrastructure.
+08:03
+1405/06/31
+
+
+
+
 src :@thewarreporter
 ‏🇬🇧🇸🇦🇾🇪 — The UK is close to offering Saudi Arabia defensive military support against frequent Houthi attacks.  PM Andy Burnham is leaning toward backing the move, while London is expected to urge other countries to provide similar assistance.  — Bloomberg…
 08:02
@@ -28,6 +79,9 @@ src :@ircfspace
 [عکس]
 ‏طبق گزارش Qrator Radar، شبکه همراه اول با شناسه AS197207 در ساعت ۱۳ روز ۲۹ شهریور، بطور ناگهانی ۱۹۰ پیشوند شبکه رو اعلام کرد که باعث ایجاد ۱۰٬۸۶۵ تداخل مسیریابی با ۱٬۵۲۴ شبکه در ۱۰۰ کشور شد.
 ‏این رخداد که بعنوان BGP Hijack ثبت شده، در ۲ مرحله اتفاق افتاد؛ مرحله اول حدود ۸ دقیقه و مرحله دوم حدود ۱۵ دقیقه طول کشید و حداکثر انتشار اون به ۱۰۰ درصد رسید.
+‏
+‏وقوع BGP Hijack میتونه باعث قطع دسترسی، انحراف ترافیک، اختلال گسترده و در بعضی شرایط شنود یا دستکاری ارتباطات بشه! 
+‏البته در این‌مورد مشخص نیست که بصورت عمدی بوده، یا خطای فنی ...
 ‏
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
@@ -6771,16 +6825,4 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 08:14
-1405/06/30
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇰🇷🇰🇵 – Three South Korean soldiers were injured, two of them seriously, after an explosion in the Demilitarized Zone that borders North Korea.
-‏
-‏Preliminary reports suggest a landmine was the cause of the explosion.
-‏
-‏@GeoPWatch
-08:05
 1405/06/30
