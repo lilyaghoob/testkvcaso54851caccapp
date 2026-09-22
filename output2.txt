@@ -1,5 +1,77 @@
+src :@bricsnews
+‏JUST IN: 🇬🇧🇮🇱 President Trump questions UK Prime Minister Burnham about decision to sanction illegal Israeli settlements.
+‏
+‏@BRICSNews
+21:06
+1405/06/31
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴جمهوری آذربایجان رسماً پروازها به ایران را متوقف کرد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+21:04
+1405/06/31
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇮🇷Bloomberg: The U.S. modified and expanded its U.S. of AI in its to help vet intelligence following the February strike on a school in Minab.
+‏
+‏CENTCOM has reportedly changed procedures for updating and reviewing planned targets, added open-source data to help track civilian activity, and made upgrades to its Maven AI system to better identify inconsistencies in intelligence.
+‏
+‏The changes follow an internal investigation that found outdated intelligence and excessive reliance on AI contributed to the strike, which killed more than 150 people, including at least 123 children.
+‏
+‏@wfwitness
+21:04
+1405/06/31
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏شرکت L3Harris، تولید قطعات برای موشک Tomahawk را گسترش می‌دهد.
+‏
+‏شرکت L3Harris Technologies و نیروی دریایی ایالات متحده در شهر چاینا لیک، یک توافقنامه چندساله برای تولید قطعات حیاتی موشک‌ها، از جمله موشک کروز Tomahawk، به ویژه موتور Mk 135، امضا کردند.
+‏
+‏پیش از این، این شرکت با نیروی دریایی توافقی را برای افزایش تولید موتور های Mk 104 برای موشک‌های پدافند هوایی Standard Missile با انواع مختلف منعقد کرده بود.
+‏
+‏این توافقنامه نشان‌دهنده تلاش ایالات متحده برای افزایش تولید Tomahawk و سایر مهمات دقیق است، زیرا ذخایر این مهمات در جریان عملیات علیه ایران کاهش یافته است. این مشارکت با مرکز NAWCWD در چاینا لیک، از زیرساخت‌ها و تخصص این مرکز دولتی برای افزایش ظرفیت تولید موتورها و بخش‌های جنگی استفاده می‌کند.
+‏
+‏
+‏@artemis_force
+21:03
+1405/06/31
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇸🇦🇾🇪🇾🇪 FT⁠: Donald Trump’s reluctance to directly join Saudi Arabia’s fight against the Houthis is straining ties with Riyadh, with Saudi officials increasingly questioning Washington’s reliability as a defence partner.
+‏
+‏Saudi Crown Prince Mohammed bin Salman has reportedly asked Trump for US air strikes against the Houthis, but Washington has declined to participate directly, while continuing to provide Saudi Arabia with weapons, intelligence and targeting information. The US also recently approved a potential $24.3bn sale of F-35s to Saudi Arabia.
+‏
+‏“MBS will not forget this,” said retired US Lieutenant General Karen Gibson, adding that the hesitation shows the US “will not necessarily fight when Saudi Arabia believes its vital interests are threatened.”
+‏
+‏@wfwitness
+21:02
+1405/06/31
+
+
+
+
 src :@jangaavaran1390
 ‏ترامپ در گفتگو با نخست وزیر انگلستان گفت که ایران امروز در مورد مذاکرات با آنها صحبت کرده است
+‏وی گفت که توافق حاصل می‌شود و روابط در حال بهبود است
 21:01
 1405/06/31
 
@@ -1305,30 +1377,6 @@ src :@Mena_Live
 
 
 
-src :@IranintlTV
-[عکس]
-‏مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در پیامی مکتوب نوشت: «دانش‌آموزان و دانشجویان باید با شکستن مرزهای دانش و فتح قله‌های پیشرفت، ماموریت تاریخی خود را در جهت اعتلای ایران به انجام برسانند.»
-‏
-‏او افزود: «در روزگاری که توحش نظام سلطه، به‌ویژه دولت آمریکا و اسرائیل، بیداد می‌کند، قدرت برآمده از دانش همراه با تقوا و اخلاق، سپری پولادین و شمشیری بران در برابر آنها است.»
-‏
-‏خامنه‌ای اضافه کرد: «دانش‌آموزان و دانشجویان در دوران تحصیل، درست فکر کردن و ابتکار ورزیدن را تمرین کنند و پاسدار هویت ملی، استقلال فرهنگی، زبان مادری، پرچم مقدس نظام اسلامی و دیگر نمادهای آن باشند.»
-‏
-‏او همچنین گفت: «وضعیت فعلی معیشت معلمان قانع‌کننده نیست و مسئولان باید با برنامه‌ریزی برای بهبود آن تلاش‌های موثر کنند.»
-‏https://iranintl.com/202609224235
-19:18
-1405/06/31
-
-
-
-
-src :@wfwitness
-‏⚡️🇹🇷🇵🇸 Turkish President Recep Erdoğan at the UN General Assembly: "The state of Palestine, officially recognized by the overwhelming majority of member states here, but His Excellency Mahmoud Abbas, the esteemed president of the state of Palestine, has been…
-19:18
-1405/06/31
-
-
-
-
 src :@Middle_East_Spectator
 ‏Won’t cover any UN speeches except Pezeshkian and maybe Netanyahu.
 ‏
@@ -2542,17 +2590,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/157933
 ‏@Farsi_Iranwire
 18:01
-1405/06/31
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔴 هم‌اکنون دونالد ترامپ در مجمع عمومی سازمان ملل سخنرانی می‌کند 
-‏
-‏🆔 @Americana_ir
-17:59
 1405/06/31
 
 
@@ -4927,20 +4964,6 @@ src :@didarnews1
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴وزرای امور خارجه ترکیه، عربستان سعودی، مصر و پاکستان در نیویورک با یکدیگر دیدار کردند
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-11:21
-1405/06/31
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏● آغاز جنگ در ۳۱ شهریور یا در ۳۰ ام؟ نیروی هوایی روایت متفاوتی دارد 
@@ -5991,37 +6014,6 @@ src :@selena_updates
 
 
 
-src :@Artemis_Force
-[عکس]
-‏عرض ادب و احترام
-‏هزینه تبلیغات به شرح زیر میباشد:
-‏
-‏0⃣🔁ریپلا 50 تومان
-‏
-‏1⃣✅ شیش ساعت به همراه سنجاق 150 تومان
-‏
-‏2⃣✅ دوازده ساعت به همراه سنجاق 290 تومن
-‏
-‏3⃣✅ بیست و چهار ساعت به همراه سنجاق 360 تومن
-‏
-‏4⃣✅ پست شبانه پست آخر 210 تومن
-‏
-‏5⃣✅ بیست و چهار ساعت بدون پین 200 تومن
-‏
-‏برای  تبلیغات و پرداخت هزینه به آیدی 👤ادمین تبلیغات به نشانی زیر مراجعه نمایید، کمی منتظر بمانید در اسرع وقت پاسخگوی شما خواهیم بود.
-‏
-‏👨‍💻جهت ارتباط  آیدی آقای تبلیغات👇
-‏@aqaye_tablighat
-‏@aqaye_tablighat
-‏@aqaye_tablighat
-‏
-‏آقای تبلیغات در تلگرام با 0⃣0⃣4⃣ هزار ممبر
-23:32
-1405/06/30
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺📢 بر اساس اطلاعات دریافتی، دولت ترکیه به تمام فرودگاه‌های این کشور اعلام کرد که اجازه ندارند به هواپیماهای ایرانی سوخت‌‌رسانی کنند. 
@@ -6104,16 +6096,6 @@ src :@tglobaleye
 ‏
 ‏The Global Eye | Subscribe ✈️
 22:55
-1405/06/30
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇦 Ukrainian President Zelenskyy says Ukraine is ready for an unconditional ceasefire and diplomacy.
-‏
-‏@BRICSNews
-22:51
 1405/06/30
 
 
@@ -6230,14 +6212,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 21:17
-1405/06/30
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇺🇸/🇮🇶 NEW: Iraq has caved to U.S. pressure and will ban newly sanctioned Iranian airlines from landing or taking off in Iraq, starting tomorrow – AFP
-‏
-‏@Middle_East_Spectator
-21:05
 1405/06/30
