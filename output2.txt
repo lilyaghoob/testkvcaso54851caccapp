@@ -1,4 +1,46 @@
 src :@WAR_ROOM_NEWS
+‏مارکو روبیو، وزیر امور خارجه آمریکا، درباره ایران:تقریباً ۶۰ تا ۷۰ درصد از حجم نفت که قبلاً از تنگه هرمز خارج می‌شد، اکنون نیز خارج می‌شود و این میزان در حال افزایش است
+15:36
+1405/06/31
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر دفاع اسرائیل:
+‏در صورت لزوم برای سومین بار جنگ با ایران را شروع میکنیم.
+‏
+‏@MilitarryWorld | Parsa
+15:35
+1405/06/31
+
+
+
+
+src :@didarnews1
+‏🔴روبیو:
+‏
+‏🔹 کتائب حزب‌الله عراق مسئول حملات پهپادی اوایل ماه جاری به خط لوله شرق-غرب عربستان سعودی بوده است
+‏
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+15:33
+1405/06/31
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸الاعلام الامريكي: دول الخليج تخطط لإخبار ترامب بتجنب أي تصعيد مع إيران.
+15:33
+1405/06/31
+
+
+
+
+src :@WAR_ROOM_NEWS
 ‏وزیر امور خارجه آمریکا، روبیو: درگیری بین حوثی‌ها و عربستان خطرناک است و ما همیشه در کنار ریاض خواهیم بود و از آن حمایت خواهیم کرد
 ‏
 ‏🆔@WAR_ROOM_NEWS
@@ -927,15 +969,6 @@ src :@P_raetorio
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇳🇭🇰⚡️ — Sensitive F-35 components were unexpectedly diverted to Hong Kong this summer while being transported from Australia to the U.S. for repairs, triggering a congressional inquiry over concerns that classified technology could have been exposed to…
-14:35
-1405/06/31
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏توافق هسته‌ای ترکیه و آمریکا برای توسعه رآکتورهای نسل چهارم🇹🇷🇺🇸☢️
@@ -1005,20 +1038,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-‏Australia said F-35 fighter jet parts were mistakenly diverted to Hong Kong while being shipped to the U.S. for repairs.
-‏
-‏Defense Minister Richard Marles said Australia is working with the U.S. and Lockheed Martin on an investigation. 
-‏
-‏It remains unclear why the shipment was rerouted or how it ended up in Hong Kong. Australia said it believes no sensitive components were involved.
-‏
-‏Source: CNN
-14:25
-1405/06/31
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏با شروع ماه مهر و شروع سال تحصیلی یادی کنیم از معلمان شهید مدرسه میناب
@@ -1071,21 +1090,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇹🇷🇺🇸⚡️ — Türkiye Nuclear Energy Inc. and the U.S. Trade and Development Agency have signed a grant agreement on Small Modular Reactors (SMRs) and fourth-generation nuclear reactors at Türkevi in New York.
-‏
-‏Under the agreement, reactor designs from U.S. companies will be assessed for technical, economic, regulatory, and licensing feasibility in Türkiye. 
-‏
-‏The grant does not finance reactor construction but creates a pathway for U.S. SMR companies to evaluate potential commercial deployment.
-‏
-‏Energy Minister Alparslan Bayraktar said the cooperation supports Türkiye’s goals of net-zero emissions by 2053 and full energy independence.
-14:20
-1405/06/31
-
-
-
-
 src :@jangaavaran1390
 ‏به گزارش رویترز، ایالات متحده قصد دارد یک پایگاه نظامی مربوط به دوران جنگ سرد را در جنوب گرینلند بازسازی کند و یک پایگاه دیگر در ساحل شرقی این جزیره بسازد که اکنون توسط گشت‌های سورتمه‌سواری دانمارک مورد استفاده قرار می‌گیرد.
 14:20
@@ -1109,16 +1113,6 @@ src :@MilitarryWorld
 ‏🔴قالیباف: با موشک‌هایمان بدون محدودیت، به هر هدفی که بخواهیم شلیک‌ می‌کنیم
 ‏
 ‏@MilitarryWorld | Parsa
-14:18
-1405/06/31
-
-
-
-
-src :@ClashReport
-‏Kremlin:
-‏
-‏Putin has always said that Russia supports a lasting peace, not a ceasefire that, in essence, achieves nothing.
 14:18
 1405/06/31
 
@@ -3079,18 +3073,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-‏🔴پزشکیان:
-‏
-‏دشمن در تلاش است تا تمام راه‌های هوایی‌ و زمینی را بر ایران ببندد تا ما را مجبور به تسلیم کند ولی نمی‌داند ما تسلیم زورگویی دشمنان نمی‌شویم.
-‏
-‏@MilitarryWorld | Parsa
-10:39
-1405/06/31
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏⭕️⭕️ضرب‌الاجل بغداد به شبه‌نظامیان وابسته به جمهوری اسلامی؛ خلع سلاح و انحلال تا ژوئن ۲۰۲۷
@@ -3275,26 +3257,6 @@ src :@Parvazdaroj
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏درود بر شما وقت بخیر🌺 نقلی از  میرزا ابوالقاسم قائم‌مقام فراهانی در گفتگو با فتحعلی شاه قاجار پیرامون جنگ با روسیه :
-‏
-‏به قانون حساب، کسی که شش کرور عایدات دارد (مملکت ایران) با کسی که ششصد کرور دارد (مملکت روسیه) از در جنگ در نمی‌آید.
-‏
-‏و اما نقل دیگری از قائم مقام در دوره دوم جنگ های ایران و روس و بحران های منتهی به امضای عهدنامه ترکمانچای که از سوی وی تنظیم و نوشته شد :
-‏
-‏موضع من ایران است، چه به نام چه به ننگ
-‏
-‏#تاریخ
-‏#ایران
-‏
-‏@SNTankograd
-10:00
-1405/06/31
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏+ تو اون ۵۰ ساعت چیزای عجیب هم دیدی؟
@@ -3472,14 +3434,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 09:00
-1405/06/31
-
-
-
-
-src :@naya_foriraq
-‏🇸🇦🇾🇪عدوان سعودي بعدد من الصواريخ يطال مديرية الظاهر والمناطق المجاورة ضمن محافظة صعدة اليمنية.
-08:51
 1405/06/31
 
 
@@ -4571,24 +4525,6 @@ src :@DEJradio
 src :@rnintel
 ‏🇱🇻🇷🇺⚡- Air raids have gone active in Kraslava, eastern Latvia.
 00:35
-1405/06/31
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴علی قلهکی:
-‏
-‏🔹کسانی که با بی‌تدبیری‌شان باعث شدند «علی الزیدی» در عراق نخست وزیر شود و تبعاتِ منفیِ زیادی برای ایران به وجود بیاید، هنوز برکنار نشدند؟!
-‏
-‏▪️پی‌نوشت: به صحبت‌های تندِ «علی الزیدی» نخست وزیر جدید عراق و همچنین عملکرد پیدا و پنهان وی علیه ایران رجوع کنید!
-‏🔻بانیانِ این وضعیت نباید مجددا از مسئولیتِ اقداماتِ مخرب‌شان، شانه خالی کنند!
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-00:33
 1405/06/31
 
 
@@ -6567,31 +6503,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 15:45
-1405/06/30
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 قطعات حساس جنگنده F-35 پس از انحراف محموله به هنگ‌کنگ ناپدید شدند.
-‏
-‏🔹️ بر اساس گزارش‌های منتشرشده، محموله‌ای از قطعات غیرقابل‌استفاده F-35 که از استرالیا برای تعمیر به آمریکا ارسال شده بود، در جریان انتقال از مسیر اصلی منحرف و در تابستان 2026 به هنگ‌کنگ منتقل شد. پنتاگون ناپدیدشدن بخشی از این قطعات را تأیید کرده است.
-‏
-‏🔹️ یکی از قطعات گزارش‌شده، پوشش کابین F-35 است که از فناوری‌های مرتبط با ویژگی‌های پنهان‌کاری این جنگنده بهره می‌برد. با این حال، هنوز مشخص نیست این قطعات اکنون در اختیار چه فرد یا نهادی قرار دارند و هیچ مدرک عمومی تأیید نمی‌کند که چین به آن‌ها دسترسی پیدا کرده یا آن‌ها را بررسی کرده باشد.
-‏
-‏🔹️ این حادثه موجب بررسی موضوع در کنگره آمریکا شده و دفتر برنامه F-35 اعلام کرده است که با همکاری نهادهای آمریکایی و شرکت‌های مرتبط، برای بازیابی قطعات، بررسی علت حادثه و جلوگیری از تکرار آن اقدام می‌کند.
-‏
-‏#USA
-‏#China
-‏#HongKong
-‏#F35
-‏#F35LightningII
-‏#LockheedMartin
-‏#USMilitary
-‏#MilitaryTechnology
-‏#Stealth
-‏
-‏@RASTAKHIZ_PERSIAN
-15:34
 1405/06/30
