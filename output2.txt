@@ -1,3 +1,19 @@
+src :@ircfspace
+[عکس]
+‏مراقب این نوع هک باشید! 
+‏یه صفحه جعلی شبیه Cloudflare میگه برای تأیید ربات نبودن، Win + R رو باز کن و Ctrl + V بزن.
+‏چون شبیه تأییدیه‌های معمول کلودفلره، ممکنه طبق عادت انجامش بدید، اما در واقع دارید یه دستور مخرب رو اجرا می‌کنید.
+‏
+‏© milad_joodi
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+07:45
+1405/06/31
+
+
+
+
 src :@mwarmonitor
 ‏🔴بریتانیا با یک توافق محدود و زمان‌دار برای حمایت از عربستان سعودی در برابر افزایش حملات پهپادی و موشکی حوثی‌ها موافقت کرده است؛ حملاتی که اخیراً تلاش برای هدف قرار دادن ریاض را نیز شامل شده است.
 ‏
@@ -3240,25 +3256,6 @@ src :@warmonitors
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: Trump administration proposed a $5 billion investment fund ("PACT") to rebuild Middle Eastern energy infrastructure damaged in the Iran war, seeking matching contributions from eight Gulf/regional partners for a $10 billion total. 
-‏
-‏It's a tacit admission the seven-month conflict has wrecked regional pipelines and refineries. 
-‏
-‏Gulf officials are skeptical.
-‏
-‏Rebuilding without a peace deal risks Iran targeting new infrastructure, and smaller states like Kuwait and Qatar still depend on the Strait of Hormuz regardless. 
-‏
-‏The fund would be managed by the US Development Finance Corporation, an agency that normally targets developing countries, not wealthy Gulf monarchies.
-‏
-‏Source: WSJ
-22:44
-1405/06/30
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏🇦🇷 ۱۰۰۰ روز با خاویر میلی؛
@@ -3346,23 +3343,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 22:36
-1405/06/30
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump hit a career-low 32% approval in Reuters/Ipsos, down from 47% at inauguration. 
-‏
-‏The real story is inside the GOP.
-‏
-‏Republican approval dropped 9 points in one week (82%→73%), and for the first time more Republicans disapprove than approve of his handling of cost of living (51-44%). 
-‏
-‏The Iran war and surging fuel prices are the drivers, both contradict his 2024 pitch of taming inflation and ending foreign wars. 
-‏
-‏Midterms are six weeks away.
-22:30
 1405/06/30
 
 
