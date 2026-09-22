@@ -1,5 +1,35 @@
+src :@Indypersian
+[عکس]
+‏♦️قیمت دلار روز سه‌شنبه ۳۱ شهریور با شروع معاملات در بازار آزاد چهار هزار و ۲۰۰ تومان بالا رفت و به ۲۳۵ هزار تومان رسید.
+‏به گزارش فرارو، قیمت دلار آزاد در طول هفت روز گذشته دو درصد رشد داشته است و در بازه یک‌ماهه افزایش قیمت ۲۱ درصدی را ثبت کرده است. دلار آزاد در یک ماه اخیر ۳۸ هزار تومان گران شده است.
+‏@IndyPersian
+02:11
+1405/07/01
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇸🇦❓ - Air Traffic at Riyadh Airport has been on hold for close to an hour.
+‏
+‏@GeoPWatch
+02:11
+1405/07/01
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇮🇶🇴🇲 Spokesperson for the Iranian National Civil Aviation Organization:  Starting at midnight tonight, local time, the airports of Baghdad and Muscat will not be accepting flights from Iran.   Therefore, we are coordinating and consulting to redirect flights…
+02:10
+1405/07/01
+
+
+
+
 src :@Ali_bk_2
-‏Air traffic is halted over Riyadh as we reported half an hour ago; no explosions so far.
+‏Air traffic is suspended over Riyadh as we reported half an hour ago; no explosions so far.
 02:07
 1405/07/01
 
@@ -7,6 +37,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
+[عکس]
 ‏توقف الرحلات في مطار الرياض والطائرات تتجنب الهبوط.
 02:07
 1405/07/01
@@ -2504,19 +2535,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇺🇸🇹🇷🇸🇾🇮🇶🇯🇴🇦🇪🇸🇦🇺🇳Lebanese Prime Minister Nawaf Salam is currently participating in a multilateral summit hosted by the United States and chaired by U.S. President Donald Trump, with the participation of the Gulf Cooperation Council states, Egypt, Syria, Turkey, Iraq, Jordan, and Lebanon, on the sidelines of the United Nations General Assembly in New York.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:54
-1405/06/31
-
-
-
-
 src :@didarnews1
 ‏🔴صداوسیما:با اصرار نماینده آمریکا دیدار آقای عراقچی با ویتکاف در حاشیه مجمع عمومی برگزار شد
 ‏
@@ -2574,21 +2592,6 @@ src :@MilitarryWorld
 ‏🔴العربیه: ویتکاف به طور مستقیم و بدون واسطه با هیئت ایرانی ۳ ساعت گفتگو کرد!
 ‏
 ‏@MilitarryWorld | Maverick
-22:51
-1405/06/31
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️حسین محبی، سخنگوی سپاه پاسداران، روز سه‌شنبه ۳۱ شهریور ماه در گفتگو با تلویزیون العربی گفت در صورت حمله دوباره آمریکا به هر نقطه‌ای از ایران، از جمله کوه کلنگ، سپاه با «تمام توان» پاسخ خواهد داد.
-‏
-‏محبی با اشاره به جنگ ۴۰ روزه و جنگ ۱۲ روزه گفت سپاه در صورت حمله احتمالی آمریکا به‌گونه‌ای واکنش نشان خواهد داد که به گفته او، واشنگتن نتواند «به هدف و غایت خود دست یابد».
-‏
-‏او درباره چگونگی این واکنش گفت سازوکار دفاعی و تهاجمی سپاه از «اسرار نظامی» است و افزود: «ما توان دفاعی یا هجومی خود را تبلیغ نمی‌کنیم؛ ما آن را در میدان عمل و از طریق اقدام نشان می‌دهیم.»
-‏
-‏@indypersian
 22:51
 1405/06/31
 
@@ -4336,16 +4339,6 @@ src :@Farsi_Iranwire
 ‏
 ‏
 ‏@Farsi_Iranwire
-18:26
-1405/06/31
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇺🇸🇺🇳 – Trump confirmed the U.S. will build "two very major military bases" in Greenland, and the final deal with Denmark and Greenland will be signed later today.
-‏
-‏@GeoPWatch
 18:26
 1405/06/31
 
