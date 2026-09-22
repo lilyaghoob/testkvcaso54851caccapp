@@ -1,3 +1,53 @@
+src :@wfwitness
+‏Initial reports of explosions in the Strait of Hormuz
+00:51
+1405/07/01
+
+
+
+
+src :@Ali_bk_2
+‏An explosion was heard in the Strait of Hormuz.
+00:50
+1405/07/01
+
+
+
+
+src :@Alibk3
+‏سماع دوي انفجار في مضيق هرمز.
+00:50
+1405/07/01
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Netanyahu’s UN speech is expected to focus heavily on Iran, with aides saying it will contain unspecified “surprises.” 
+‏
+‏Israel’s delegation is also preparing for possible heckling or a coordinated walkout during the speech.
+‏
+‏Source: ynet
+00:48
+1405/07/01
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Netanyahu will make a very brief U.S. visit this week to address the UN General Assembly, spending only a few hours in the New York area before returning to Israel.
+‏
+‏He is expected to land in New Jersey rather than at JFK, partly over concerns about protests and possible complications involving New York Mayor Zohran Mamdani.
+‏
+‏Source: ynet
+00:47
+1405/07/01
+
+
+
+
 src :@Minas_Tirith2024
 ‏⭕️پس از نخستین دیدار مستقیم میان ایران و آمریکا از زمان فروپاشی چارچوب تفاهم‌نامه ، رسانه‌های ایرانی برگزاری این دیدار را تأیید کردند.
 ‏
@@ -1944,15 +1994,6 @@ src :@cataphract1
 src :@Ali_bk_2
 [عکس]
 ‏A U.S. drone airstrike targets a person in the Barum area of Mukalla, Hadramawt Governorate, Yemen.
-22:42
-1405/06/31
-
-
-
-
-src :@Alibk3
-[عکس]
-‏غارة أميركية بمسيرة تستهدف شخصًا بمنطقة بروم في مدينة المكلا محافظة حضرموت اليمنية.
 22:42
 1405/06/31
 
@@ -5852,17 +5893,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 11:10
-1405/06/31
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺❌🇺🇦 — Ukraine’s Air Force says no ballistic missiles or Oniks were intercepted overnight; only one of four Kalibrs was downed.
-‏
-‏The main strike directions were Dnipropetrovsk, Kirovohrad, and Poltava regions, with missile and attack UAV impacts recorded at 22 locations. The Ukrainian summary did not disclose the numbers of Iskander-M/S-400/KN-23 or Oniks used.
-11:09
 1405/06/31
 
 
