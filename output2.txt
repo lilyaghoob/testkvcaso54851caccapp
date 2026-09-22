@@ -3552,21 +3552,6 @@ src :@defence_news
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump is expected to press UK Prime Minister Andy Burnham over Britain’s defense spending when they meet at the UN on Tuesday.
-‏
-‏The U.S. is pushing NATO allies toward a 5% of GDP target, while Britain plans 3.5% by 2035. 
-‏
-‏Washington is also reviewing its troop deployments in Europe and allies’ commitments to NATO, with Britain reportedly set to receive “special attention.”
-‏
-‏Source: The Telegraph
-21:55
-1405/06/30
-
-
-
-
 src :@MilitarryWorld
 ‏🔴جی دی ونس: این انتخابات میان‌دوره‌ای میان کسانی است که معتقدند این کشور باید آینده‌ای داشته باشد و کسانی که ترجیح می‌دهند آن را ویران کرده و از نو بسازند
 ‏
