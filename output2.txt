@@ -263,14 +263,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-‏Zelensky warned that Russia is preparing a “massive attack” on Ukraine, citing intelligence reports.
-02:39
-1405/07/01
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏وزارت خارجه آمریکا به فروشگاه‌های عمده‌فروشی و خرده‌فروشی نیویورک درباره فروش کالاهای لوکس به مقام‌های جمهوری اسلامی که برای شرکت در مجمع عمومی سازمان ملل به این شهر سفر کرده‌اند، هشدار داد.
