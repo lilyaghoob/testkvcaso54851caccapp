@@ -1,3 +1,14 @@
+src :@tglobaleye
+[عکس]
+‏#NEWS | 🇬🇧 — UK military has jammed foreign satellites for a year using ground-based electronic warfare to disrupt adversaries and protect nuclear submarines and sensitive operations. Source: BBC
+‏
+‏The Global Eye | Subscribe ✈️
+21:40
+1405/07/01
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇺🇦⚡️ — U.S. Department of State spokesman Ian Bateson told Deutsche Welle that the United States has not yet made a final decision on granting Ukraine a license to domestically produce MIM-104 Patriot interceptor missiles due to ongoing negotiations.
@@ -915,14 +926,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-‏Israeli reports identified Neria Leiter, son of Israel’s ambassador to the U.S. Yechiel Leiter, as the victim of a suspected vehicle-ramming attack near the Mevoim checkpoint in the West Bank.
-20:38
-1405/07/01
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏A settler, approximately 40 years old, is in serious condition and unconscious following a ramming attack.
@@ -1141,21 +1144,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — The Trump administration is considering a 90-day ban on U.S. diesel exports to lower domestic fuel prices ahead of the midterm elections, according to POLITICO. 
-‏
-‏Diesel prices have reached an average of $6.52 per gallon amid the war with Iran and Ukrainian attacks on Russian refineries.
-‏
-‏The proposal has sparked opposition from oil industry executives and senior administration officials, including Energy Secretary Chris Wright, who warn that an export ban could eventually reduce refinery output and drive fuel prices higher.
-‏
-‏Trump is considering announcing the measure by the end of the week, although no final decision has been made. The White House has dismissed the report as fake news.
-20:25
-1405/07/01
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏🚀🇵🇰 EXCLUSIVE: A Missile test has been conducted tonight in Balochistan, as visible from the sky in Panjgur.
@@ -1306,23 +1294,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻در پایان چهارمین روز بازی‌های آسیایی ناگویا کاروان ایران با کسب دو مدال طلا و یک برنز، به رده هفتم جدول مدال‌ها صعود کرد.
-‏
-‏🔹در کاراته محمود نعمتی با نتیجه‌ی ۶ بر ۳ سوفیانی از عربستان سعودی را شکست داد و دومین مدال طلای کاروان ایران را کسب کرد.
-‏
-‏🔹همچنین تیم فوتبال الکترونیک ایران با شکست دادن مالزی به مدال طلا رسید.
-‏
-‏🔹علی پاکدامن، شمشیرباز اسلحه سابر ایران، در مرحله نیمه‌نهایی بازی‌های آسیایی ناگویا با نتیجه ۱۵ بر ۹ مقابل شن چن‌پنگ از چین شکست خورد و از رسیدن به فینال بازماند تا به مدال برنز دست پیدا کند.
-‏
-‏@iranintltvsport
-20:18
-1405/07/01
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️مارکو روبیو، وزیر امور خارجه آمریکا، روز چهارشنبه اول مهر اعلام کرد که ایالات متحده از ولادیمیر پوتین، رئیس‌جمهوری روسیه، برای حضور در نشست سران گروه ۲۰ (G20) که قرار است در ماه آبان در میامی برگزار شود، دعوت به عمل آورده است.
@@ -1468,20 +1439,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iran’s Supreme National Security Council Secretary Mohsen Rezaee:
-‏Iran’s new diplomacy will not return to the past. 
-‏
-‏We will force the U.S. to respect the rights of the Iranian people and comply with the conditions communicated to it. Otherwise, the Strait of Hormuz will not reopen.
-‏
-‏Enough negotiations. Take action.
-20:08
-1405/07/01
-
-
-
-
 src :@defence_news
 [عکس]
 ‏مدیر ناسا اخیرا در یک جلسه صحبت از بازگشت این سازمان به بحث " پرواز های سریع در ارتفاع بالا " کرده و در زمان مطرح کردن این صحبت این تصویر که به نظر بدنه یک هواگرد بوده و دارای شباهت هایی به سری معروف SR 71 است نیز نمایش داده شده است.
@@ -1590,21 +1547,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇦🇪🇮🇷The UAE Central Bank has imposed enforcement measures on branches of Bank Melli Iran operating in the UAE, for violations of local regulations and supervisory requirements.
-‏
-‏The Central Bank said the measures include a prohibition on all financial transactions between the bank’s UAE branches and Iran, including trade finance and fund transfers.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:57
-1405/07/01
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️محمدباقر قالیباف، رئیس مجلس شورای اسلامی روز چهارشنبه اول مهرماه با انتشار تصاویری از سخنرانی مسعود پزشکیان در مجمع عمومی سازمان ملل متحد، او را «صدای قدرتمند شجاعت، مقاومت و استقامت جمهوری اسلامی ایران» دانست.
@@ -1647,15 +1589,6 @@ src :@naya_foriraq
 ‏شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 52 غارةً جويةً وصاروخاً من خلال طائرات "F15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف والعدوان الصاروخي انطلق من جيزان، استهدفت محافظات الحديدة وتعز والبيضاء ومأرب وصعدة وخلفت شهداء وجرحى بينهم نساء وأطفال ودماراً في المنشآت المدنية من شبكات اتصالات ومدارس وجسور وطرقات وغيرها. 
 ‏ليبلغ إجمالي غارات العدوان السعودي منذ بدء التصعيد على بلدِنا العزيز 988 غارةً وصاروخاً.
 19:56
-1405/07/01
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇻🇪 Venezuela acting President Delcy Rodríguez, on X: "We held a historic meeting with the President of the United States, Donald Trump, with whom we discussed strengthening the bilateral relationship between our countries and advancing a cooperation agenda…
-19:55
 1405/07/01
 
 
