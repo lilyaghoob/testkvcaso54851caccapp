@@ -1,3 +1,56 @@
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports of multiple explosions near Qeshm Island.
+‏
+‏@wfwitness
+00:46
+1405/07/02
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارشات غیررسمی و تایید نشده از چندین انفجار در نزدیکی جزیره قشم.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+00:45
+1405/07/02
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — CNN has viewed a letter written by U.S. Acting Secretary of the U.S. Navy Hung Cao to U.S. Senator Kirsten Gillibrand (D-NY) where he states that eight U.S. Navy sailors on board the Abraham Lincoln Carrier Strike Group attempted suicide since the beginning of its deployment.
+‏
+‏A military official told CNN this number is unusually high.
+00:44
+1405/07/02
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇺🇸/🇮🇷 NEW: There were 8 cases of attempted suicide aboard the USS Abraham Lincoln aircraft carrier during its deployment against Iran – CNN
+‏
+‏@Middle_East_Spectator
+00:44
+1405/07/02
+
+
+
+
+src :@MilitarryWorld
+‏🔴سم آلتمن مدیرعامل شرکت OpenAI در نشست سازمان ملل گفت: هوش مصنوعی می‌تواند تصمیماتی بگیرد که انسان‌ها دیگر قادر به درک یا کنترل آنها نیستند. در این شرایط لازم است که به شدت مراقب باشیم
+‏
+‏@MilitarryWorld | Parsa
+00:42
+1405/07/02
+
+
+
+
 src :@Middle_East_Spectator
 ‏— 🇺🇸/🇮🇷 NEW: The U.S. has rejected Iran’s conditions that were conveyed by Araqchi to Witkoff at the UN – Yonhap
 ‏
@@ -2846,20 +2899,6 @@ src :@Indypersian
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️سفارت هند در عمان تایید کرد که خدمه جان‌باخته در جریان حمله به یک کشتی تجاری در سواحل عمان، یک شهروند هندی بوده است.
-‏
-‏مرکز امنیت دریایی عمان اعلام کرد که یکی از ناوهای نیروی دریایی این کشور ۲۷ خدمه کشتی فله‌بر «ام‌وی کیپ دائو» (MV Cape Dao) با پرچم آنتیگوآ و باربودا را تخلیه کرده‌اند. در پی این حمله که در فاصله ۲.۵ مایلی دریایی از استان مسندم عمان رخ داد، موتورخانه کشتی دچار آتش‌سوزی شد. پیش‌تر مرکز امنیت دریایی بریتانیا اعلام کرده بود که دو نفر از خدمه این کشتی کشته شده‌اند.
-‏
-‏سفارت هند اعلام کرد که برای تضمین امنیت سایر خدمه این کشتی، از جمله ۱۹ تبعه هندی، با مقامات عمانی در ارتباط نزدیک است. تاکنون هیچ گروهی مسئولیت این حمله را بر عهده نگرفته است.
-‏@indypersian
-20:26
-1405/07/01
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇵🇸 — The son of the Israeli ambassador to the U.S., Yechiel Leiter, who serves as an IDF soldier, was injured in a car-ramming attack west of Ramallah in the West Bank.
 ‏
@@ -3371,27 +3410,6 @@ src :@DEJradio
 
 
 
-src :@WAR_ROOM_NEWS
-‏شروطی که جمهوری اسلامی از ایالات متحده می‌خواهد پیش از هرگونه مذاکره عملی شوند:
-‏
-‏توقف اقدامات تهاجمی آمریکا، از جمله محاصره دریایی و اقتصادی
-‏
-‏ پایان دادن به جنگ در تمام جبهه‌ها
-‏
-‏ آزادسازی وجوه مسدودشده 
-‏
-‏ پذیرش مسیری امن برای تردد دریایی بر اساس مکانیسمی که بین دو کشور ساحلی توافق شود
-‏
-‏🍍
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-19:21
-1405/07/01
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏کشتی ضد مین تورنئی (M941) روز گذشته به پایگاه دریایی زبروک در بلژیک رسید تا به ناوگان رزمی این کشور اضافه شود.
@@ -3468,16 +3486,6 @@ src :@naya_foriraq
 ‏قلت له اعطي نيوجيرسي😆
 ‏
 ‏https://t.me/naya_foriraq
-19:09
-1405/07/01
-
-
-
-
-src :@MilitarryWorld
-‏🔴روبیو: ایران و نیابتی هاش دارن غیرنظامی هارو میکشن و بسیار شرورن
-‏
-‏@MilitarryWorld | Parsa
 19:09
 1405/07/01
 
@@ -4113,16 +4121,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 18:02
-1405/07/01
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇺🇳 President Pezeshkian: ‘Peaceful nuclear technology and know-how is the right of the Iranian nation and we consider it part of our national development’
-‏
-‏@Middle_East_Spectator
-18:01
 1405/07/01
 
 
