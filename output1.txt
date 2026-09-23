@@ -503,21 +503,6 @@ src :@MilitarryWorld
 
 
 
-src :@Fighter_Radar
-[عکس]
-‏جان فدایان❌
-‏جهاد نکاحیان ✅
-‏
-‏
-‏📝  AmirF15
-‏
-‏👑 @Fighter_Radar
-00:42
-1405/07/02
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏گزارش از انفجارهایی نزدیک سیریک
 00:40
