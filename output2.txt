@@ -1,9 +1,60 @@
+src :@Ali_bk_2
+[عکس]
+‏The Wall Street Journal:
+‏
+‏Chinese aid to Iran is its secret weapon in its war with the United States. In addition to providing intelligence, China has shipped about 1300 military consignments to Iran’s Ministry of Defense containing “dual-use” components and chemical compounds that can be used in drones and ballistic missile guidance systems.
+12:27
+1405/07/02
+
+
+
+
+src :@Alibk3
+[عکس]
+‏وول ستريت جورنال: 
+‏
+‏المساعدات الصينية لإيران هي سلاحها السري في حربها مع الولايات المتحدة، بالإضافة لتزويدها بمعلومات استخبارية، شحنت الصين حوالي 1300 شحنة عسكرية إلى وزارة الدفاع الإيرانية تحتوي على مكونات "ذات استخدام مزدوج" ومركّبات كيميائية يمكن استخدامها في الطائرات بدون طيار وأنظمة توجيه الصواريخ الباليستية.
+12:26
+1405/07/02
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇾🇪 Iran threatens to shut down the Bab el-Mandeb Strait.
+‏
+‏"Linking the Strait of Hormuz and the Bab el-Mandeb will change the battlefield."
+‏
+‏@BRICSNews
+12:22
+1405/07/02
+
+
+
+
 src :@guard_warriors
 [عکس]
 ‏✪ یک تصویر ماهواره‌ای از تاریخ ۱ سپتامبر، مربوط به ساخت یک زیردریایی هسته‌ای جدید از کلاس Type-095 برای نیروی دریایی چین، که در حال ساخت در یک داک خشک‌ در کارخانه کشتی‌سازی هوولودائو است.
 ‏
 ‏@Guard_Warriors | Mmd
 12:22
+1405/07/02
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Russian drone/missile strike on Kyiv hit multiple data centers, knocking out internet for ~100,000 households. 
+‏
+‏ISPs UTELS, Pavutina, Crazy Network, and Etherlink all reported major node damage.
+‏
+‏Hosting providers Cityhost and MiroHost lost Kyiv-based equipment, with MiroHost's local facility destroyed entirely (95% of clients unaffected on foreign servers). 
+‏
+‏Providers are warning of significant price increases, saying current ~300-350 UAH rates are no longer viable given the cost of maintaining resilient infrastructure under constant attack. 
+‏
+‏Russia claimed the sites supported military communications; Ukraine says they were civilian telecom infrastructure.
+12:21
 1405/07/02
 
 
@@ -6544,28 +6595,4 @@ src :@Parvazdaroj
 ‏@Linganosupport
 ‏@Linganosupport
 12:33
-1405/07/01
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏ماموریت نجات تلسکوپ فضایی سوئیفت  شکست خورد.
-‏
-‏فضاپیمای لینک متعلق به شرکت اکاتایال اسپیس در ۳ ژوئن ۲۰۲۶ پرتاب شد تا به رصدخانه سوئیفت برسد، آن را بگیرد و مدارش را از حدود ۳۴۷ کیلومتر به حدود ۶۰۰ کیلومتر افزایش دهد.
-‏
-‏اواخر ژوئن، لینک دچار مشکل کنترل وضعیت شد و شروع به چرخش کرد. ۲ مورد از ۳ چرخ عکس‌العملی (Reaction Wheel) آن از کار افتادند.
-‏
-‏ناسا در ۱۹ اگوست اعلام کردند که لینک دیگر قادر به گرفتن و بالا بردن مدار سوئیفت نیست.
-‏
-‏با این حال، مأموریت کاملاً متوقف نشد؛ لینک برای آزمایش فناوری‌های نزدیک‌شدن و عملیات سرویس‌دهی مداری همچنان به کار ادامه داد. 
-‏
-‏خود سوئیفت هم فعلاً هنوز در مدار است و حتی بخشی از ابزارهای علمی آن دوباره فعال شده‌اند، اما به دلیل کاهش ارتفاع مدار، انتظار می‌رود در اواخر ۲۰۲۶ وارد جو شود و از بین برود.
-‏
-‏جالب اینکه لینک توانست در اوایل سپتامبر تا حدود ۱۵ کیلومتری سوئیفت نزدیک شود، اما دیگر سوخت و توان لازم برای نجات و افزایش مدار آن را نداشت.
-‏
-‏
-‏@rus_cosmos
-12:22
 1405/07/01
