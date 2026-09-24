@@ -1,3 +1,54 @@
+src :@IranintlTV
+[عکس]
+‏دونالد ترامپ، رییس‌جمهوری آمریکا، در آستانه دیدار با شی جین‌پینگ، رییس‌جمهوری چین، گفت موضوع ایران یکی از محورهای گفت‌وگوی او با رهبر چین خواهد بود.
+‏
+‏ترامپ در پاسخ به پرسش خبرنگاران درباره مذاکرات مربوط به ایران گفت: «خواهیم دید. درباره این موضوع و بسیاری موضوعات دیگر گفت‌وگو خواهم کرد، اما اوضاع در این زمینه نیز به‌خوبی پیش می‌رود.»
+‏
+‏شی پس از ورود به واشینگتن در پیامی کتبی گفت چین و آمریکا باید به جای رقیب، شریک یکدیگر باشند. او ابراز امیدواری کرد با تلاش مشترک دو طرف، سفرش به آمریکا ثمربخش باشد.
+‏
+‏دیدار ترامپ و شی در شرایطی برگزار می‌شود که موضوع جمهوری اسلامی در روزهای اخیر به یکی از محورهای مورد توجه پیش از مذاکرات دو کشور تبدیل شده است و شماری از قانون‌گذاران آمریکایی نیز از ترامپ خواسته‌اند موضوع حمایت چین از تهران را در این دیدار مطرح کند.
+04:45
+1405/07/02
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Reports that Ansar Allah has cut the main Taiz–Aden route are incorrect.  The 4th Mountain Infantry Brigade of Yemen’s National Army and Saudi-backed Nation's Shield Forces repelled an Ansar Allah assault and infiltration attempt in Al-Ashbut village, Al-Maqatirah…
+04:44
+1405/07/02
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏A series of Pakistani airstrikes on Afghanistan’s Kandahar province.
+04:44
+1405/07/02
+
+
+
+
+src :@Alibk3
+[عکس]
+‏الغارات الباكستانية على قندهار الأفغانية
+04:44
+1405/07/02
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇨🇳⚡️ — President Trump and Chinese President Xi Jinping as the pair of U.S. Air Force B-1 Lancer conduct a flyover.  Trump certainly looks impressed, while Xi barely reacted.
+04:43
+1405/07/02
+
+
+
+
 src :@Ali_bk_2
 ‏A Yemeni missile barrage is launched toward its targets.
 04:42
@@ -8,6 +59,19 @@ src :@Ali_bk_2
 
 src :@Alibk3
 ‏رشقة صاروخية يمنية تنطلق نحو أهدافها.
+04:42
+1405/07/02
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇵🇰🇦🇫 Pakistan says it carried out air and drone strikes against 10 locations in Afghanistan after accusing the Taliban of launching drones into Pakistani territory on September 23.
+‏
+‏Pakistan’s information minister said air defenses intercepted all of the drones before they reached their intended targets. Islamabad described its subsequent strikes as limited to sites used to launch and store the drones. 
+‏
+‏@wfwitness
 04:42
 1405/07/02
 
@@ -703,16 +767,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
-‏@iranintlTV
-02:08
-1405/07/02
-
-
-
-
 src :@Ali_bk_2
 ‏Reports of a Saudi drone being shot down over Yemen’s Hajjah Governorate.
 02:06
@@ -1138,24 +1192,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Initial reports of Yemeni forces advancing from Haifan, east of Taiz, toward Al-Maqatirah district and cutting off the last major supply route for Saudi-backed forces, Aden-Taiz!
-01:06
-1405/07/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏أنباء أولية عن تقدم القوات اليمنية من حيفان شرق تعز، نحو مديرية المقاطرة وقطع آخر طريق إمداد رئيسي للقوات الموالية للسعودية عدن-تعز!
-01:06
-1405/07/02
-
-
-
-
 src :@GeoPWatch
 ‏🇾🇪❌🇾🇪 - Ansarallah forces have reportedly completely cut off the main Taiz-Aden route. This will significantly hinder Saudi-backed forces ability to receive supplies in Taiz.
 ‏
@@ -1171,22 +1207,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 01:05
-1405/07/02
-
-
-
-
-src :@Ali_bk_2
-‏Initial reports of Yemeni forces advancing from Haifan, east of Taiz, toward Al-Maqatirah district and cutting off the last major supply route for Saudi-backed forces, Aden-Taiz!
-01:01
-1405/07/02
-
-
-
-
-src :@Alibk3
-‏أنباء أولية عن تقدم القوات اليمنية من حيفان شرق تعز، نحو مديرية المقاطرة وقطع آخر طريق إمداد رئيسي للقوات الموالية للسعودية عدن-تعز!
-01:01
 1405/07/02
 
 
