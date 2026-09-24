@@ -772,26 +772,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-[عکس]
-‏🇪🇹❌🇪🇹 — Mada Masr, citing a local media source, reports that three Ethiopian Air Force fighter jets and over six Ethiopian Air Force UCAVs have conducted twenty-one airstrikes against Alamata, TDF-controlled Southern Zone, Tigray Province, killing fourteen civilians and injuring twenty-two. Strikes reportedly targeted educational facilities including a secondary school. 
-‏
-‏A senior official tells Mada Masr that senior Tigrayan officials are limiting their movements due to fears of Ethiopian UCAV strikes.
-22:51
-1405/07/02
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇦🇪🇮🇱🇺🇳⚡️ — The UAE delegation did not leave the UN General Assembly during Israeli Prime Minister Netanyahu's speech.
-22:50
-1405/07/02
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مکرون خواهان برقرای آتش بس فوری در خاورمیانه شد
 ‏
