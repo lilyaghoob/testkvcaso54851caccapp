@@ -1,9 +1,85 @@
+src :@Farsi_Iranwire
+[عکس]
+‏«سعید شنبه‌زاده»، نوازنده و پژوهشگر موسیقی جنوب ایران، ادعای دوستی «محسن نامجو» با خود را رد کرد و از اظهارات او درباره شرایط کنونی ایران و دعوت هنرمندان خارج از کشور به بازگشت انتقاد کرد.
+‏بیشتر: https://iranwire.com/fa/news-1/158014
+‏
+‏@Farsi_Iranwire
+13:17
+1405/07/02
+
+
+
+
+src :@ClashReport
+[عکس]
+‏NEW: All flights operated by Iranian airlines to the UAE have been canceled since midnight, according to Iran’s Civil Aviation Organization, ISNA reported.
+13:16
+1405/07/02
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏حمله هوایی به جنوب لبنان
+‏
+‏@P_raetorio
+13:15
+1405/07/02
+
+
+
+
+src :@ClashReport
+‏Denmark’s defense intelligence service warned that Russia is expected to intensify hybrid warfare against Western countries and NATO in the coming months.
+‏
+‏“The Danish defence intelligence service assesses that in the coming months, Russia will further intensify its hybrid warfare by carrying out more frequent attacks against the West and NATO, with greater consequences for the affected countries than in the past.”
+‏
+‏Source: Reuters
+13:15
+1405/07/02
+
+
+
+
+src :@Ali_bk_2
+‏Iranian News Agency:
+‏
+‏All flights by Iranian airlines to the UAE were canceled as of midnight last night
+13:15
+1405/07/02
+
+
+
+
+src :@Alibk3
+‏وكالة الأنباء الإيرانية:
+‏
+‏ ألغيت جميع رحلات شركات الطيران الإيرانية للإمارات اعتبارا من منتصف الليلة الماضية
+13:15
+1405/07/02
+
+
+
+
 src :@MilitarryWorld
 ‏🔴خوش چشم:
 ‏
 ‏باید با حمله پیش‌دستانه پایگاه های آمریکا تو اروپا رو بزنیم 
 ‏
 ‏@MilitarryWorld | Parsa
+13:12
+1405/07/02
+
+
+
+
+src :@intelslava
+‏🇷🇺🇺🇸🇺🇦⚡️ — Kremlin welcomes the US invitation for President Putin to attend the December G20 summit in Miami, but states that no decision has been made regarding his attendance or a potential Trump-Putin meeting.
+‏
+‏Moscow also rejects the EU's planned transfer of proceeds from frozen Russian assets to Ukraine as illegal, while reiterating its preference for a lasting Ukraine settlement over a temporary ceasefire.
+‏
+‏@Intelslava
 13:12
 1405/07/02
 
@@ -2242,28 +2318,6 @@ src :@mwarmonitor
 
 
 
-src :@P_raetorio
-[عکس]
-‏حمله هوایی به جنوب لبنان
-‏
-‏@P_raetorio
-09:40
-1405/07/02
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏گزارش شده است اسرائیل با مذاکره با سران امارات متحده عربی مانع فروش سامانه‌های پدافندی S-400 به امارات برای جلوگیری از دستیابی ترکیه به F-35 شده است!
-‏
-‏@P_raetorio
-09:39
-1405/07/02
-
-
-
-
 src :@intelslava
 ‏🇮🇷⚡️ — Iran has announced that it has restored 50% of the damaged production capacity at the South Pars gas field in the Persian Gulf, six months after it was struck by Israel, according to Al Jazeera.
 ‏
@@ -2584,34 +2638,6 @@ src :@ClashReport
 ‏
 ‏They agreed to keep communication channels open and discussed peace efforts in Europe and the Middle East.
 07:59
-1405/07/02
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Canadian PM Mark Carney said he examined the possibility of U.S.-led military action against Canada, calling it an “extreme tail risk.”
-‏
-‏“I think you have a responsibility in these roles to look at extreme tail risk,” Carney told The New York Times. “That’s not a base case, but it would be irresponsible not to [prepare].”
-‏
-‏Carney also said Canada is looking to reduce reliance on Elon Musk’s Starlink and is considering alternatives to buying a full fleet of U.S.-made F-35 fighter jets.
-‏
-‏Despite worsening trade tensions, Carney said he and Trump speak “frequently.”
-‏
-‏Source: NYT
-07:57
-1405/07/02
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS!
-07:54
 1405/07/02
 
 
@@ -3374,14 +3400,6 @@ src :@warmonitors
 src :@rnintel
 ‏🇺🇸⚡️- Republican Senators from Kansas are demanding that ICE cease operations in the state unless they cooperate with local law enforcement.
 03:14
-1405/07/02
-
-
-
-
-src :@naya_foriraq
-‏🔻دوي انفجار عنيف في محافظة السليمانية شمالي العراق.
-03:05
 1405/07/02
 
 
@@ -5604,21 +5622,6 @@ src :@warmonitors
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏در پی تشدید فشار و آزار شهروندان بهایی در ایران، یک شهروند بهایی به نام رومینا گلی، از سوی دادگاه انقلاب ساری به زندان و محرومیت از حقوق اجتماعی محکوم شد.
-‏بر اساس گزارش رسیده، شعبه دوم دادگاه انقلاب ساری، رومینا گلی را بابت اتهام «فعالیت آموزشی یا تبلیغی انحرافی مغایر یا مخل به شرع اسلام»، موضوع ماده ۵۰۰ مکرر قانون مجازات اسلامی، به پنج سال حبس و ۱۰ سال محرومیت از حقوق اجتماعی محکوم کرده است.
-‏این شهروند بهایی همچنین بابت اتهام «تبلیغ علیه نظام»، طبق ماده ۵۰۰ قانون مجازات اسلامی، به هفت ماه و ۱۶ روز حبس محکوم شده است.
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/157988
-‏
-‏
-‏@Farsi_Iranwire
-17:44
-1405/07/01
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Bilateral Trade
@@ -6313,27 +6316,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/07/01/409021/
 13:36
-1405/07/01
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‏ ‏
-‏⁠طرح استیضاح وزیر کار دولت پزشکیان تصویب شد
-‏ 
-‏- احمد میدری به همراه معاونان و مدیران ارشد وزارت کار روز گذشته در نشست کمیسیون اجتماعی مجلس شورای اسلامی حاضر شد اما در پایان این نشست که «پرتنش» توصیف شده نتوانست نمایندگان را قانع و طرح استیضاح او به صحن علنی مجلس شورای اسلامی رفت.
-‏ 
-‏- احمد میدری نخستین‌ بار در ۲۱ اسفند ۱۴۰۳ و در رابطه با انتصابات در این وزارتخانه به مجلس شورای اسلامی احضار شده و اولین کارت زرد خود را نمایندگان دریافت کرده بود.
-‏ 
-‏- او یکبار دیگر در ۲۳ اردیهشت‌ماه ۱۴۰۴ در صحن علنی مجلس شورای احضار شده بود تا درباره «انتصاب‌های سیاسی در سازمان بهزیستی» پاسخ دهد ولی در نهایت توانست با قانع کردن نمایندگان از خطر دریافت کارت زرد عبور کند.
-‏ 
-‏- وزیر کار بار دیگر در دی ۱۴۰۴ به صحن علنی مجلس شورای اسلامی فرا خوانده شد اما به علت عدم حضور کارت زرد دوم را از نمایندگان گرفت.
-‏ 
-‏- مهرماه سال گذشته زهرا سعیدی نماینده مبارکه در مجلس شورای اسلامی در اظهاراتی جنجالی گفت: «۲۵ نفر از نمایندگان مجلس برای پافشاری بر استیضاح وزیر کار، با استامپ قرمز به نشانه «خون» پای برگه‌ها انگشت زدند و سوگند یاد کردند هیچکس از امضا عقب‌نشینی نکند.»
-‏ 
-‏- در حالی که شماری از نمایندگان دو سال است به دنبال استیضاح میدری هستند اما شرایط جنگ و تلاش برای ارائه تصویری از ساختار یکپارچه حکومت ممکن است سبب موفقیت لابی دولت پزشکیان در مجلس برای جلوگیری از عزل وزیر کار شود.
-‏ 
-‏https://kayhan.london/1405/07/01/409039/
-13:12
 1405/07/01
