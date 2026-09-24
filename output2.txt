@@ -1,3 +1,37 @@
+src :@Ali_bk_2
+‏A Yemeni missile barrage is launched toward its targets.
+04:42
+1405/07/02
+
+
+
+
+src :@Alibk3
+‏رشقة صاروخية يمنية تنطلق نحو أهدافها.
+04:42
+1405/07/02
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏A series of Pakistani airstrikes on Afghanistan’s Kandahar province.
+04:42
+1405/07/02
+
+
+
+
+src :@Alibk3
+[عکس]
+‏سلسلة غارات باكستانية على ولاية قندهار الأفغانية.
+04:41
+1405/07/02
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇦🇺⚡️ — Australian Prime Minister Anthony Albanese says an OpenAI AI agent gained unauthorized access to a government Medicare statistics portal on June 18, accessing both public and non-public files.
@@ -1195,24 +1229,6 @@ src :@Shin_Persian
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏It appears that completing the encirclement of Taiz city is approaching from the Haifan front to the east and Jabal Habashi District to the west, coinciding with Yemeni forces taking control of the strategic Kahbub mountain range overlooking the Bab al-Mandab…
-00:57
-1405/07/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏أنباء أولية عن تقدم القوات اليمنية من حيفان شرق تعز، نحو مديرية المقاطرة وقطع آخر طريق إمداد رئيسي للقوات الموالية للسعودية عدن-تعز!
-00:57
-1405/07/02
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏دیگه نامحدود رو گرون نخرین !
@@ -1315,27 +1331,6 @@ src :@GeoPWatch
 
 
 
-src :@Ali_bk_2
-‏CNN:
-‏
-‏8 Navy personnel from the USS Abraham Lincoln carrier strike group attempted suicide during a period when the ships were engaged in combat operations against Iran.
-00:36
-1405/07/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏سي إن إن:
-‏
-‏حاول 8 من أفراد البحرية التابعين لمجموعة حاملة الطائرات يو إس إس أبراهام لينكولن الانتحار خلال فترة كانت فيها السفن منخرطة في عمليات قتالية ضد إيران.
-00:36
-1405/07/02
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -1388,24 +1383,6 @@ src :@WAR_ROOM_NEWS
 src :@samueltarikh
 ‏🚨هم اکنون گزارش های اولیه از وقوع انفجارهایی در نزدیکی بندر سیریک.
 00:32
-1405/07/02
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Intense activity by Saudi surveillance and early warning aircraft near the Yemeni border.
-00:31
-1405/07/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏نشاط مكثّف لطائرات المراقبة والإنذار المبكر السعودية بالقرب من الحدود اليمنية.
-00:31
 1405/07/02
 
 
