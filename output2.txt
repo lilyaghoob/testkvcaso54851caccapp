@@ -1,3 +1,84 @@
+src :@OSINTWarfare
+‏Unconfirmed reports of two ballistic missile launches from Urmia, western Iran.
+20:32
+1405/07/02
+
+
+
+
+src :@jangaavaran1390
+‏وزیر دفاع اسرائیل: ورود زیردریایی «دراگون» (ششمین زیردریایی نیروی دریایی) که پس از ۲۳ روز از آلمان به حیفا رسید و ۱۲ سال زمان ساخت نیاز داشت، پیامی به تهدیدکنندگان و در راس آن حکومت آیت‌الله ها در تهران است.
+20:30
+1405/07/02
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏⚜تصاویری از تلفات اخیر حوثی ها در جبهه های نبرد یمن
+‏
+‏#تلفات_حوثی 
+‏#یمن
+‏
+‏پیوند۱
+‏
+‏🆔@WAR_ROOM_NEWS
+20:29
+1405/07/02
+
+
+
+
+src :@mamlekate
+‏📝 دیدار ترامپ و شی: تاکید بر تجارت و هوش مصنوعی، سکوت درباره جنگ ایران
+‏
+‏روسای جمهوری ایالات متحده و چین پنج‌شنبه دوم مهر در کاخ سفید دیدار کردند. سخنان دو رهبر در نشست رسانه‌ای پیش از آغاز مذاکرات بر تجارت، امنیت و بر تجارت، امنیت و هوش مصنوعی متمرکز بود. با وجود انتظار برای پرداختن به مساله ایران، دو رهبر در سخنان علنی به این موضوع اشاره‌ای نکردند.
+‏
+‏@mamlekate
+20:28
+1405/07/02
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱❌🇮🇷 — Israeli Defense Minister Katz said the arrival of the Israeli Navy’s sixth submarine, INS Drakon, sends a message to Iran.
+‏
+‏The submarine arrived at Haifa Naval Base after a 23-day voyage from Germany, following approximately 12 years of planning, construction and testing.
+‏
+‏“The submarine’s arrival is an important message to all those who seek to threaten us, foremost among them the murderous Ayatollah regime in Tehran,” Katz said during the arrival ceremony.
+20:27
+1405/07/02
+
+
+
+
+src :@rnintel
+‏🇮🇷⚡️- Initial reports of ballistic missile launches from Urmia, northwestern Iran.
+20:27
+1405/07/02
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️  — Iran has been conducting ballistic missile launch tests today. Launches have been reported from Urmia, West Azerbaijan Province and Kahrizak, Tehran Province.
+20:27
+1405/07/02
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏سپاه مجدد چند موشک به تنگه هرمز شلیک کرده است
+20:27
+1405/07/02
+
+
+
+
 src :@jangaavaran1390
 ‏رئیس جمهور چین، شی جینپینگ، از آمریکا و ایران خواستند تا در اسرع وقت به مسیر حل و فصل مسائل از طریق مذاکره بازگردند. این مطلب در رسانه‌های چینی منتشر شد.
 20:26
@@ -1494,21 +1575,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇦⚡️ — Saudi Arabia is increasing crude oil flows through its East-West Pipeline to the Red Sea port of Yanbu, although tanker loadings have yet to resume, according to Reuters.
-‏
-‏Aramco has told European refiners it is still building up sufficient oil volumes at Yanbu before restarting exports. 
-‏
-‏The pipeline resumed operations on Tuesday, but pressure testing and other preparations could take several days, while a return to full capacity may take six weeks or longer.
-‏
-‏Around six crude tankers are due to load at Yanbu from September 24-27.
-19:00
-1405/07/02
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Israel's Defense Minister, Israel Katz, against the Turkish President:
@@ -2193,14 +2259,6 @@ src :@jangaavaran1390
 
 
 
-src :@naya_foriraq
-‏بيان مهم للقوات المسلحة اليمنية في تمام الساعة 5:50مساءً، بعد قليل.
-17:51
-1405/07/02
-
-
-
-
 src :@Ali_bk_2
 ‏Enemy media:
 ‏
@@ -2244,14 +2302,6 @@ src :@Alibk3
 [عکس]
 ‏تفعيل الدفاعات الجوية في مدينة سحاب الأردنية دون معرفة الأسباب.
 17:47
-1405/07/02
-
-
-
-
-src :@naya_foriraq
-‏‏رئيس السلطة الفلسطينية محمود عباس يبدأ كلمته في الامم المتحدة عبر الفيديو بعد عدم منحه تأشيرة للمشاركة في اجتماعات نيويورك
-17:46
 1405/07/02
 
 
@@ -3840,14 +3890,6 @@ src :@mohem_mat
 
 
 
-src :@jangaavaran1390
-‏سنای آمریکا ممکن است از پنجشنبه به طرحی رای دهد که ترامپ را موظف به پایان جنگ با ایران کند، مگر با مجوز کنگره. دموکرات‌ها می‌خواهند این رأی‌گیری پیش از انتخابات میان‌دوره‌ای نوامبر انجام شود.
-14:57
-1405/07/02
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ 🇫🇮 اولین هواپیماهای جنگنده F-35A فنلاند وارد این کشور شدند.
@@ -4588,26 +4630,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@WAR_ROOM_NEWS
-‏وزیر خزانه‌داری ایالات متحده اعلام کرد که جمهوری اسلامی ایران در نهایت به عقب‌نشینی خواهد پرداخت.
-‏
-‏اسکات بسنت بیان داشت که مدت زمان دقیق درگیری با ایران (چه یک هفته، یک ماه یا دو ماه) مشخص نیست، اما به گفته وی، ایران در نهایت تسلیم خواهد شد!
-‏
-‏در خصوص وضعیت نفتکش‌ها، او اظهار داشت که احتمالاً برخی از این شناورها هدف حمله قرار می‌گیرند؛ با این حال، بخش عمده‌ای از آن‌ها همچنان مسیر خود را ادامه می‌دهند و نیروی دریایی ایالات متحده از بروز اختلالات گسترده در حرکت آن‌ها جلوگیری می‌کند.
-‏
-‏همچنین بسنت تأکید کرد که افزایش قیمت انرژی ماهیت موقتی دارد و پس از عبور از این بحران، قیمت انرژی کاهش یافته و قدرت خرید شهروندان ایالات متحده بهبود خواهد یافت.
-‏
-‏او سه سناریو را برای پایان این بحران مطرح نمود: اختلافات و فروپاشی درون حاکمیت ایران، شکل‌گیری یک خیزش داخلی، یا دستیابی به توافقی که ایران به مفاد آن پایبند بماند.
-‏
-‏وزیر خزانه‌داری ایالات متحده در پایان تأکید کرد که در صورت دستیابی به توافقی جدید، انتظار می‌رود ایران این بار به تعهدات خود پایبند بماند.
-‏
-‏🆔@WAR_ROOM_NEWS
-13:23
-1405/07/02
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏هواگرد های آسیب دیده و از دست رفته آمریکایی 
@@ -4652,14 +4674,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 13:17
-1405/07/02
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏اعلام کشته شدن ۲ سرباز سعودی دیگر بر اثر حملات نیروهای حوثی در جنوب عربستان  پیوند۱  🆔@WAR_ROOM_NEWS
-13:08
 1405/07/02
 
 
@@ -4788,16 +4802,6 @@ src :@GeoPWatch
 
 
 
-src :@WAR_ROOM_NEWS
-‏سردار فدوی: به هرگونه حمله آمریکا و اسرائیل پاسخی بسیار سخت‌تر خواهیم داد
-‏
-‏🆔@WAR_ROOM_NEWS
-12:51
-1405/07/02
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴رئیس‌جمهوری چین: پکن و واشنگتن باید شریک باشند نه رقیب
@@ -4824,21 +4828,6 @@ src :@mamlekate
 ‏سیبیها در پیام خود عنوان کرد: «دیپلماسی به معنای گفتگوی مستقیم است، حتی در شرایط دشوار.»
 ‏
 ‏@mamlekate
-12:45
-1405/07/02
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏چگونه قطعات و تجهیزات تسلیحاتی از چین به دست حوثی‌ها می‌رسد؟
-‏
-‏ بلومبرگ در یک گزارش تحقیقی با ردیابی شبکه‌ای پیچیده از حمل‌ونقل و تجارت، مسیری را بررسی کرده که از چین آغاز می‌شود و به کارگاه‌های حوثی‌ها در صنعا می‌رسد؛ مسیری که طی آن تجهیزات و قطعات چینی، از جمله برخی اقلام با کاربرد دوگانه، در محموله‌های مرتبط با حوثی‌ها به یمن منتقل شده و احتمالاً در تولید موشک و پهپاد مورد استفاده قرار گرفته‌اند. واحد مبارزه با تروریسم در عدن نیز اعلام کرده که اکثریت قریب‌به‌اتفاق این قطعات برای مصارف نظامی و تولید تجهیزات نظامی در نظر گرفته شده‌اند و تنها تعداد محدودی کاربرد دوگانه غیرنظامی و نظامی دارند و انتقال آن‌ها نقض تحریم تسلیحاتی سازمان ملل علیه حوثی‌ها محسوب می‌شود. این بررسی همچنین نشان می‌دهد حوثی‌ها دیگر صرفاً به واردات تسلیحات آماده متکی نیستند و به‌تدریج توانایی تولید بخشی از قطعات و تجهیزات مورد نیاز زرادخانه خود را در داخل یمن توسعه داده‌اند؛ در این میان مسیر کانتینرها، شبکه واسطه‌ها و تاجران و خلأهای موجود در سازوکار نظارت سازمان ملل نیز مورد بررسی قرار گرفته است
-‏
-‏#حوثی_یمن 
-‏
-‏🆔@WAR_ROOM_NEWS
 12:45
 1405/07/02
 
@@ -5765,14 +5754,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:19
-1405/07/02
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️- Republican Senators from Kansas are demanding that ICE cease operations in the state unless they cooperate with local law enforcement.
-03:14
 1405/07/02
 
 
