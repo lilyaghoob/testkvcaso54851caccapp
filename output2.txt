@@ -1,3 +1,108 @@
+src :@OSINTWarfare
+‏Unconfirmed reports of two ballistic missile launches from Urmia, western Iran.
+20:18
+1405/07/02
+
+
+
+
+src :@MilitarryWorld
+‏🔴دلار در تهران مجدداً از 235 هزار تومان عبور کرد.
+‏
+‏@MilitarryWorld | Parsa
+20:17
+1405/07/02
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports of two ballistic missile launches from Urmia, Iran.
+‏
+‏@wfwitness
+20:16
+1405/07/02
+
+
+
+
+src :@Ali_bk_2
+‏Reports of missiles being launched from Iran.
+20:15
+1405/07/02
+
+
+
+
+src :@Alibk3
+‏أنباء عن اطلاق صواريخ من إيران.
+20:15
+1405/07/02
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷انباء عن اطلاقات صاروخية من عدة مناطق في الجمهورية الاسلامية.
+20:15
+1405/07/02
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸⚡️ — Iranian Parliament Speaker Ghalibaf:
+‏Happy 5.1% 10Y America 🎉. Mashallah. Celebrate: it’s the floor two years out. 
+‏
+‏You wanted Iran dragged back to 1970s? Nobody told you Iran isn’t for arrogant amateurs? We’ll return you to 1970s rates, plus high gas prices, diesel shortages and bell-bottoms. Enjoy the nostalgia!
+20:15
+1405/07/02
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iran's Ghalibaf:
+‏
+‏You wanted Iran dragged back to 1970s? Nobody told you Iran isn’t for arrogant amateurs? We’ll return you to 1970s rates, plus high gas prices, diesel shortages and bell-bottoms. Enjoy the nostalgia!
+20:14
+1405/07/02
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏2BMs launched from Urmia
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/MKqpIpdZRoe3K8exCUR1eJn3
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۲ موشک بالستیک از ارومیه پرتاب شدند
+‏
+‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/MKqpIpdZRoe3K8exCUR1eJn3
+‏
+‏𝕏  ·  @shin_persian
+20:14
+1405/07/02
+
+
+
+
+src :@naya_foriraq
+‏🇮🇶‏رويترز: إن شركة فيتول اشترت ​ما لا يقل عن ‌25 مليون برميل من الخام العراقي في سبتمبر أيلول.
+20:12
+1405/07/02
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Reuters, citing sources:  U.S. and Iranian negotiators are discussing a phased path to end the war in New York.
@@ -2279,14 +2384,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏🇮🇱مسؤول صهيوني: إسرائيل تتابع الأنشطة الإيرانية في منشأة تحت الأرض بالقرب من نطنز وتقدر أن جولة جديدة من القتال قد تحدث مع الولايات المتحدة او بدونها.
-17:14
-1405/07/02
-
-
-
-
 src :@MilitarryWorld
 ‏🔴یک روزنامه آمریکایی: 
 ‏
@@ -2427,15 +2524,6 @@ src :@VahidOnline
 ‏@VahidHeadline
 ‏
 ‏📡 @VahidOnline
-17:07
-1405/07/02
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇶الحشد الشعبي يحبط مخططا ارهابيا لاستهداف مواقع عسكرية في محافظة الأنبار غربي العراق
 17:07
 1405/07/02
 
@@ -3208,16 +3296,6 @@ src :@bricsnews
 
 
 
-src :@MilitarryWorld
-‏🔴چین خواستار پایان درگیری آمریکا و ایران شد
-‏
-‏@MilitarryWorld | Parsa
-15:58
-1405/07/02
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏The occupation army claims to have seized weapons and discovered tunnels dug in the West Bank to a depth of 12 meters
@@ -3445,24 +3523,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 15:37
-1405/07/02
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Saudi Arabia says it "intercepted" 6 ballistic missiles launched from Yemen
-15:37
-1405/07/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏السعودية تقول أنها "تصدت" لـ 6 صواريخ باليستية أُطلقت من اليمن
-15:36
 1405/07/02
 
 
@@ -6383,35 +6443,6 @@ src :@BellumActaNews
 
 
 
-src :@Shin_Persian
-[عکس]
-‏MahsaAlert ✓ @mahsaalert
-‏
-‏در روزهایی که خبر لغو پروازها مطرح شده، می‌توانید در #مهساالرت رفت‌وآمد پروازها را به‌صورت زنده دنبال کنید.
-‏با انتخاب آیکون هواپیما، اطلاعات پروازها و تردد هوایی آسمان ایران و اطراف آن را ببینید.
-‏
-‏لینک دانلود:  
-‏https://s4i.co/tvZOA
-‏
-‏#MahsaAlert
-‏
-‏English
-‏
-‏On days when flight cancellations are being reported, you can track flight movements live on #مهساالرت.
-‏By selecting the airplane icon, you can view flight information and air traffic over Iran and the surrounding area.
-‏
-‏Download link:  
-‏https://s4i.co/tvZOA
-‏
-‏#MahsaAlert
-‏
-‏𝕏  ·  @shin_persian
-22:23
-1405/07/01
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Syrian Minister of Foreign Affairs meets with Russia’s Lavrov.
@@ -6663,18 +6694,4 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 20:22
-1405/07/01
-
-
-
-
-src :@cataphract1
-‏⚜به گزارش واشنگتن پست پنتاگون با اعلام کشته شدن یک نیروی نظامی دیگر مرتبط با جنگ ایران، شمار تلفات نظامی آمریکا را که به‌طور عمومی اعلام شده، به ۱۹ نفر رساند.
-‏
-‏⚜ارتش آمریکا، آخرین مورد را کاپیتان بیانکا سی. ویلکرسون، ۳۷ ساله، معرفی کرد که روز ۱۸ سپتامبر بر اثر یک عارضه پزشکی غیررزمی در جریان پشتیبانی از عملیات آمریکا در دوحه، قطر جان باخت.
-‏
-‏⚜با این حال، مقام‌های آمریکایی می‌گویند شمار واقعی نیروهای نظامی آمریکا که از زمان آغاز درگیری با ایران در منطقه جان خود را از دست داده‌اند، بیشتر است. بر اساس این گزارش، دست‌کم ۲۲ تا ۲۳ نفر در این مدت کشته شده‌اند که برخی از این موارد در پایگاه داده عمومی پنتاگون ثبت نشده‌اند.
-‏✒️#LT
-‏📃@Cataphract1
-20:14
 1405/07/01
