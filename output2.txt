@@ -1917,18 +1917,6 @@ src :@MilitarryWorld
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، در ادامه دیدارهای دیپلماتیک خود در حاشیه هشتادویکمین نشست مجمع عمومی سازمان ملل متحد در نیویورک، به‌طور جداگانه با ایمن الصفدی، وزیر امور خارجه اردن؛ ژینبک کولوبایف، وزیر امور خارجه قرقیزستان؛ اد میلیبند، وزیر امور خارجه بریتانیا؛ و خوسه مانوئل آلبارس، وزیر امور خارجه اسپانیا دیدار و گفتگو کرد.
-‏این دیدارها در چارچوب رایزنی‌های هیات ایرانی با مقام‌های کشورهای مختلف درباره روابط دوجانبه و تحولات منطقه‌ای و بین‌المللی انجام شد. دیدار عراقچی و میلیبند همچنین نخستین ملاقات وزرای خارجه ایران و بریتانیا طی حدود یک سال گذشته بود.
-‏
-‏@indypersian
-00:04
-1405/07/03
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇾🇪🇸🇦⚡️- “We will close the Bab al-Mandab Strait and consider any American interests to be targets if the United States militarily intervenes to assist Saudi Arabia." - Houthi military adviser to AFP.
 00:03
@@ -4519,16 +4507,6 @@ src :@selena_updates
 ‏He has not responded to this day to the missiles Iran fired at Turkish territory. Now he has signed the "Mecca Agreement" to defend Saudi Arabia. But when the Houthis fired missiles at Mecca and it was time to fulfill his commitment, he vanished.
 ‏
 ‏I suggest he stop meddling with Israel. Israel is strong and knows how to protect itself. We are not the Kurds and defenseless people he still oppresses in Turkey today.
-19:00
-1405/07/02
-
-
-
-
-src :@mohem_mat
-‏سازمان هواپیمایی امارات: تصمیم به لغو پروازهای ایران بر اساس تحریم‌های آمریکا انجام شد
-‏
-‏@Squad_iran
 19:00
 1405/07/02
 
