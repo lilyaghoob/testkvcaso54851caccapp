@@ -1,3 +1,47 @@
+src :@Ali_bk_2
+‏NewsNation claims:
+‏
+‏Indirect talks are currently taking place between U.S. and Iranian officials in New York, mediated by Qatar.
+02:21
+1405/07/04
+
+
+
+
+src :@Alibk3
+‏نيوز نيشن تزعم:
+‏
+‏تجري حاليًا محادثات غير مباشرة بين مسؤولين أميركيين وإيرانيين في نيويورك، وتتوسط فيها قطر.
+02:21
+1405/07/04
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Hacking group ShinyHunters claims to have breached the FBI and stolen personal information belonging to nearly all current and former agents, as well as job applicants.  The group said the attack was retaliation for an FBI advisory issued in May detailing…
+02:18
+1405/07/04
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇺🇦Reuters: The Trump Administration has made legally binding commitments to spend all of the $400 million of the funds Congress approved last year, ensuring that it won’t expire on September 30th. 
+‏
+‏This week $307 million of the Ukraine Security Assistance Initiative has already been obligated, with the remaining $93 million being locked in by the 30th of this month. 
+‏
+‏The first deliveries of the initiative began this month and included offensive weapons and spare parts for vehicles with the rest of the deliveries expected by October 2029, however Patriot missiles weren’t included in the package. 
+‏
+‏@wfwitness
+02:17
+1405/07/04
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏Footage shows Royal Moroccan Air Force (RMAF) F-16C Block 52+ multirole fighters taking off from Orange-Caritat Air Base in France during the joint ORYX aerial exercise with French Air and Space Force Rafale multirole fighters.
@@ -27,6 +71,8 @@ src :@wfwitness
 ‏Netanyahu’s office denied receiving warnings from Kamel or Egypt, while former and current officials continue to dispute what information reached the prime minister and how Israeli authorities interpreted the warnings before the attack.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 02:06
 1405/07/04
 
@@ -635,18 +681,6 @@ src :@Navy_Iranian
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 A large Israeli detonation was observed in Braachit, southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-01:02
-1405/07/04
-
-
-
-
 src :@rnintel
 ‏🇪🇹⚡- Tigray Defense Forces aligned troops have captured Tsemera, Sekota direction, Tigray-Amhara regional border.  The Tigray separatist forces are now just 19km from the city of Sekota.
 01:00
@@ -852,20 +886,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، جمعه سوم مهر در سازمان ملل به خبرنگاران گفت تهران یک طرح مشخص هفت‌روزه برای بازگشایی تنگه هرمز به آمریکا ارائه کرده و اکنون تصمیم‌گیری درباره آن بر عهده واشینگتن است.
-‏
-‏عراقچی گفت: «اگر شرایط لازم فراهم شود، تنگه می‌تواند بازگشایی شود و عبور و مرور عادی دریایی ظرف هفت روز از سر گرفته شود. اکنون انتخاب با آمریکا است.»
-‏
-‏او افزود اقداماتی که آمریکا باید انجام دهد تازه نیست و همه آنها پیش‌تر در تفاهم‌نامه‌ای که جمهوری اسلامی و آمریکا در ماه ژوئن بر سر آن توافق کردند، آمده است.
-‏https://iranintl.com/202609255910
-00:26
-1405/07/04
-
-
-
-
 src :@MilitarryWorld
 ‏🔴عراقچی : 
 ‏
@@ -908,19 +928,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 00:08
-1405/07/04
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇺🇦⚡️ — The Trump administration has committed $307 million of the $400 million in military aid approved by Congress for Ukraine and plans to secure the remaining $93 million before the funding expires on September 30, according to Reuters.
-‏
-‏The first shipments began arriving this month and include offensive weapons and spare parts for armored vehicles. The remaining deliveries are expected to continue through October 2029. 
-‏
-‏The package does not include Patriot interceptor missiles, despite Ukraine’s repeated requests for additional air defenses.
-00:05
 1405/07/04
 
 
@@ -2955,14 +2962,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-‏ما يسمى بـ "الرئيس اليمني" التابع للسعودية، يدعو من الرياض، اليمنيين للتعبئة العامة لمواجهة تقدم القوات اليمنية.
-20:43
-1405/07/03
-
-
-
-
 src :@didarnews1
 ‏🔴یک مقام ارشد ایرانی به رویترز: ایران حتی در صورت پذیرش پیشنهاد تهران از سوی آمریکا برای بازگشایی تنگه هرمز، هیچ امتیازی در زمینه هسته‌ای نخواهد داد
 ‏
@@ -3036,24 +3035,6 @@ src :@jangaavaran1390
 ‏توپ یک سیستم هدایت راداری بود و توسط یک رادار ساخت تالس هدایت می‌شد
 ‏این پروژه در ارتباط با تلاش فرانسه برای ارائه یک سامانه پدافند هوایی متحرک و صادراتی مطرح شد و در برخی منابع با ارتش مصر مرتبط دانسته شده است؛ با این حال، شواهد معتبری از ورود همین پیکربندی به خدمت عملیاتی مصر در دست نیست.
 20:34
-1405/07/03
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Saudi Foreign Ministry:  Saudi Arabia, Turkey and Pakistan will hold an emergency meeting of the chiefs of staff to discuss support for Riyadh under the mutual defense agreement.
-20:31
-1405/07/03
-
-
-
-
-src :@Alibk3
-[عکس]
-‏الخارجية السعودية:  السعودية وتركيا وباكستان ستعقد اجتماعًا عاجلًا لرؤساء الأركان لمناقشة دعم الرياض بموجب اتفاقية الدفاع المشترك.
-20:31
 1405/07/03
 
 
@@ -3322,14 +3303,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 20:11
-1405/07/03
-
-
-
-
-src :@Ali_bk_2
-‏Reports of missiles being launched from Iran toward the Strait of Hormuz.
-20:07
 1405/07/03
 
 
