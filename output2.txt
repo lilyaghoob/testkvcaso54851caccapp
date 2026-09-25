@@ -1,13 +1,36 @@
+src :@ClashReport
+[عکس]
+‏Colombia’s new government has cut diplomatic ties with Iran, saying the move was based on “hemispheric national security” concerns.
+04:04
+1405/07/03
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇨🇴❌🇮🇷 — Colombia’s Ministry of Foreign Affairs announced that it formally severed diplomatic relations with the Islamic Republic of Iran effective September 19, 2026.
+‏
+‏@IntelSlava
+04:03
+1405/07/03
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏The New York Times:
 ‏
 ‏Iran proposes a 7-day plan to end the war. Tehran presented Washington, through mediators, with a plan that includes:
 ‏
-‏A halt to all hostilities for 7 days, including in Lebanon.
-‏The release of frozen Iranian assets estimated at more than $12 billion.
-‏Lifting sanctions on Iranian oil and lifting the naval blockade.
-‏Reopening the Strait of Hormuz on the seventh day.
+‏• A halt to all hostilities for 7 days, including in Lebanon.
+‏
+‏• The release of frozen Iranian assets estimated at more than 12 billion dollars.
+‏
+‏• Lifting sanctions on Iranian oil and lifting the naval blockade.
+‏
+‏• Reopening the Strait of Hormuz on the seventh day.
 ‏
 ‏Beginning comprehensive negotiations on Iran’s nuclear program immediately afterward instead of waiting 60 days.
 04:01
@@ -22,10 +45,13 @@ src :@Alibk3
 ‏
 ‏إيران تقترح خطة من 7 أيام لإنهاء الحرب، طهران قدمت لواشنطن، عبر وسطاء، خطة تتضمن:
 ‏
-‏وقف جميع الأعمال القتالية لمدة 7 أيام، بما فيها لبنان.
-‏الإفراج عن أصول إيرانية مجمدة تُقدّر بأكثر من 12 مليار دولار.
-‏رفع العقوبات عن النفط الإيراني ورفع الحصار البحري.
-‏إعادة فتح مضيق هرمز في اليوم السابع.
+‏• وقف جميع الأعمال القتالية لمدة 7 أيام، بما فيها لبنان.
+‏
+‏• الإفراج عن أصول إيرانية مجمدة تُقدّر بأكثر من 12 مليار دولار.
+‏
+‏• رفع العقوبات عن النفط الإيراني ورفع الحصار البحري.
+‏
+‏• إعادة فتح مضيق هرمز في اليوم السابع.
 ‏
 ‏بدء مفاوضات شاملة حول البرنامج النووي الإيراني مباشرة بعد ذلك بدلًا من انتظار 60 يوما.
 04:01
@@ -398,15 +424,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 02:28
-1405/07/03
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇷🇺🇮🇷⚡️ — Russian Foreign Minister Sergey Lavrov met with Iranian Foreign Minister Abbas Araghchi on the sidelines of the UN General Assembly.
-02:25
 1405/07/03
 
 
@@ -3669,17 +3686,6 @@ src :@didarnews1
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸🇨🇳⚡️ — United States President Donald Trump and Chinese President Xi Jinping in the Oval Office.
-‏
-‏@IntelSlava
-19:43
-1405/07/02
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇾🇪🇸🇦🇸🇩⚡- Unconfirmed reports indicate several explosions targeting Saudi Arabia’s Border Emergency Forces along the Saudi-Yemen border in the Jizan area.  Note, Rerum Novarum has previously documented that Saudi security personnel deployed along the Saudi…
@@ -4868,18 +4874,6 @@ src :@Parvazdaroj
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 16:04
-1405/07/02
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇨🇳 President Trump says Chinese President Xi Jinping looks "strong, vibrant, and fit."
-‏
-‏"Better than ever."
-‏
-‏@BRICSNews
-15:59
 1405/07/02
 
 
