@@ -1,3 +1,38 @@
+src :@tabzlive
+[عکس]
+‏🇸🇦⚡️ — Saudi Aramco has hired U.S. investment bank Evercore to advise on a major restructuring that could establish a standalone gas division and pave the way for a potential listing valued at more than $100 billion, according to Bloomberg.
+‏
+‏The restructuring, known as “Project Gamma,” could attract outside investment through an IPO or the sale of a minority stake. Boston Consulting Group has also advised Aramco on the project.
+23:57
+1405/07/04
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦⚡️ — Following an attack on several data centers in Kiev, Ukraine, the online telethon was disrupted.
+‏
+‏@Intelslava
+23:53
+1405/07/04
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦⚡️ — The result of a second strike on the data center of the internet provider COSMONOVA|NET located in the "Protasov" business center in Kiev.
+‏
+‏It is reported that as a result of the attack, the data center ceased operations.
+‏
+‏@Intelslava
+23:52
+1405/07/04
+
+
+
+
 src :@intelslava
 ‏🇷🇺🇪🇺⚡️ — Russia has no intention of going to war with Europe, but if Russia is attacked, this war will be short – Lavrov.
 ‏
@@ -203,11 +238,15 @@ src :@rus_cosmos
 
 
 src :@mamlekate
-‏فروپاشی اقتصادی ایران
+‏📝 فروپاشی اقتصادی ایران
 ‏
 ‏ رابین بروکس از اکونومیست: ایران کارت‌هایش را بسیار بد بازی کرده کنترل تنگه هرمز را از دست داده، جایی که تردد نفتکش‌ها در بالاترین سطح طی ماه‌های اخیر قرار دارد. این یعنی ایران در مذاکرات با ترامپ دیگر چیزی برای ارائه ندارد، آن هم در شرایطی که اقتصادش هم با فروپاشی مواجه است.
-‏
 ‏NR2OH
+‏
+‏📝 آمریکا ۵ میلیارد دلار برای آغاز صندوق بازسازی زیرساخت‌های انرژی کشورهای عربی خلیج فارس پیشنهاد کرد
+‏
+‏به گفته مقام‌های آمریکا و خاورمیانه‌ و بر اساس اسنادی که وال‌استریت ژورنال مشاهده کرده است، دولت ترامپ پیشنهاد کرده پنج میلیارد دلار در یک صندوق جدید سرمایه‌گذاری کند تا به کشورهای خاورمیانه برای بازسازی زیرساخت‌های انرژی که در جنگ ایران آسیب دیده‌اند کمک کند و وابستگی آنها به تنگه هرمز برای انتقال نفت و گاز را کاهش دهد.
+‏
 ‏@mamlekate
 23:36
 1405/07/04
@@ -5107,29 +5146,6 @@ src :@Artemis_Force
 
 
 
-src :@intelslava
-‏🇮🇷⚡️ — Iran threatens to cut off all air traffic in the Middle East.
-‏
-‏"Flights in the region are either open to everyone, or to no one. If Iran's ability to fly and access airport services is restricted, then no country in the region will have such an opportunity," wrote Mohammad Mohber, advisor to the Supreme Leader of Iran, on the social media platform X.
-‏
-‏@Intelslava
-13:50
-1405/07/04
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺🇺🇦⚡️ — In addition to attacks on facilities, the operators of attack drones continue to control the roads. Tractor-trailers carrying cargo are being destroyed.
-‏
-‏@Intelslava
-13:50
-1405/07/04
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ در حالی‌که قطر و عمان برای از سرگیری مذاکرات جمهوری اسلامی و آمریکا تلاش می‌کنند، بر اساس گزارش وال‌استریت ژورنال، محمد بن‌سلمان از آمریکا خواسته محاصره دریایی ایران را ادامه دهد.
@@ -5671,18 +5687,6 @@ src :@Parvazdaroj
 
 
 
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — The pharmaceutical plant "Darnitsa" in Kiev has been attacked again.
-‏
-‏According to my sources, five data centers across Ukraine were also targeted overnight.
-‏
-‏@Intelslava
-11:01
-1405/07/04
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻کاریکاتور جدید نیویورکر؛ رئیس‌جمهور بدون اینکه کسی بفهمد در حال حرکت است   ▪️مجله نیویورکر کاریکاتوری طنزآمیز از بری بلیت، کاریکاتوریست معروف با عنوان «POTUS on the Move» منتشر کرد، که در آن دونالد ترامپ به‌صورت مخفیانه در سه صحنه جابه‌جا می‌شود: زیر میز…
@@ -5699,18 +5703,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 10:07
-1405/07/04
-
-
-
-
-src :@intelslava
-‏🇺🇸🇷🇺🇺🇦⚡️ — The United States has not provided Ukraine with Patriot missiles, despite requests from Kiev, according to Reuters.
-‏
-‏Washington did not include these weapons in the latest package of military aid because it itself is short of them following the conflict in the Middle East.
-‏
-‏@Intelslava
-09:53
 1405/07/04
 
 
