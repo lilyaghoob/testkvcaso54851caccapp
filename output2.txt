@@ -794,15 +794,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇦 Reports of explosions in Riyadh moments ago.   @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-04:20
-1405/07/04
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇮🇷 BREAKING: President Trump has rejected Iran’s demands and expects to resume bombing after the midterm elections – WSJ
@@ -2842,15 +2833,6 @@ src :@Farsi_Iranwire
 src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — The moment of the impact of "Geran-5" drones on the "Incom" business center in Kiev, where the internet provider Datagroup is located.  Furthermore, the COSMONOVA provider confirmed the strike on its data center, located in the "Protasov" business…
-21:56
-1405/07/03
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇸🇦🇵🇰🇹🇷❌🇾🇪🇾🇪 — Pakistani Foreign Ministry:  Pakistan, Saudi Arabia, and Turkey are planning an urgent meeting of military leaders.  Pakistan, Saudi Arabia, and Turkey will discuss the issue of providing support to Riyadh under the joint defense agreement. …
 21:56
 1405/07/03
 
