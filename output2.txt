@@ -1,16 +1,43 @@
-src :@naya_foriraq
-‏بيان 
-‏••••• 
+src :@ClashReport
+[عکس]
+‏A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
 ‏
+‏The senators said Putin is responsible for launching the full-scale invasion and that allowing him to attend while Russia continues attacks on Ukrainian civilians raises “serious concerns.”
+‏
+‏The letter was led by Senate Armed Services Committee Chair Roger Wicker (R) and Senate Foreign Relations Committee Democrat Jeanne Shaheen (D), and was signed by both Republican and Democratic senators.
+‏
+‏Source: WaPo
+09:36
+1405/07/04
+
+
+
+
+src :@Ali_bk_2
+‏Iraqi Prime Minister:
+‏
+‏We are holding direct talks with the U.S. side to exempt some Iraqi airports from the measures taken by the U.S. Treasury Department regarding Iranian airlines’ flights to airports in countries across the region.
+09:35
+1405/07/04
+
+
+
+
+src :@Alibk3
+‏رئيس الوزراء العراقي:
+‏
+‏ نجري حواراً مباشراً مع الجانب الامريكي لاستثناء بعض المطارات العراقية من الإجراءات التي اتخذتها وزارة الخزانة الأمريكية بشأن رحلات شركات الطيران الإيرانية إلى مطارات دول المنطقة
+09:35
+1405/07/04
+
+
+
+
+src :@naya_foriraq
+‏🇮🇶المكتب الاعلامي لرئيس مجلس الوزراء:
 ‏نظراً للإجراءات التي اتخذتها وزارة الخزانة الأمريكية بشأن رحلات شركات الطيران الإيرانية إلى مطارات دول المنطقة، بما فيها مطارات العراق، 
 ‏
 ‏فإن الحكومة العراقية تجري حواراً مباشراً مع الجانب الامريكي لاستثناء بعض المطارات العراقية من هذه الاجراءات، بما يسمح باستئناف الرحلات الجوية، لدواعٍ  إنسانية، تتعلق بالعلاج والدراسة والزيارات الدينية ومصالح المدنيين.
-‏
-‏وإذ تعمل الحكومة العراقية على تهدئة الأوضاع في المنطقة، فإنها تؤكد أن استمرار الأزمات يزيد المشهد تعقيداً، وتدعو جميع الأطراف إلى الحوار والتفاوض وصولاً إلى حلول تنهي الأزمة والصراعات الراهنة، وبما يحقق مصالح دول وشعوب المنطقة.
-‏
-‏•••••
-‏المكتب الاعلامي لرئيس مجلس الوزراء
-‏26-ايلول-2026
 09:30
 1405/07/04
 
@@ -2374,24 +2401,6 @@ src :@Alibk3
 [عکس]
 ‏با ایرانِ بزرگ، تا آخرین نفس..
 01:24
-1405/07/04
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏A Yemeni attack targets Jazan in Saudi Arabia.
-01:20
-1405/07/04
-
-
-
-
-src :@Alibk3
-[عکس]
-‏هجوم يمني يستهدف جازان في السعودية.
-01:20
 1405/07/04
 
 
@@ -6568,15 +6577,4 @@ src :@defence_news
 ‏
 ‏@RedLionCorps
 09:36
-1405/07/03
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏آدینه تون بخیر 
-‏
-‏@artemis_force
-09:34
 1405/07/03
