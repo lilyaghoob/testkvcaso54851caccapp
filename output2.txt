@@ -1,3 +1,23 @@
+src :@MilitarryWorld
+‏🔴سخنگوی حوثی ها: با ضربات موشکی و پهپادی به تجاوزات سعودی پاسخ داده‌ایم
+‏
+‏@MilitarryWorld | Parsa
+21:21
+1405/07/04
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏فیصل بن فرحان وزیر خارجه عربستان در سازمان ملل گفت ایران به‌طور مستقیم زیرساخت‌های اقتصادی و شهروندان این کشور را هدف قرار داده است و از جامعه جهانی خواست مسئولیت خود را در برابر این حملات انجام دهد. او همچنین خواستار محکومیت اقدامات تهاجمی حوثی‌ها شد و گفت این گروه با تهدید امنیت کشتیرانی در دریای سرخ و تنگه باب‌المندب، امنیت منطقه و تجارت دریایی را به خطر می‌اندازد.
+‏
+‏🆔@WAR_ROOM_NEWS
+21:18
+1405/07/04
+
+
+
+
 src :@MilitiaNews
 ‏به گزارش AP ، درگیری‌های تازه میان نیروهای پاکستان و طالبان افغانستان در امتداد مرز دو کشور بار دیگر تنش‌ها را افزایش داده است.
 ‏
@@ -2979,16 +2999,6 @@ src :@Artemis_Force
 
 
 
-src :@MilitarryWorld
-‏🔴دو انفجار در تنگه هرمز در حال حاضر رخ داده است
-‏
-‏@MilitarryWorld | Parsa
-16:58
-1405/07/04
-
-
-
-
 src :@MilitiaNews
 [عکس]
 ‏🇷🇺🇩🇪 احتمال ارتباط حمله آتش‌زایی در مونیخ با GRU روسیه
@@ -3346,9 +3356,9 @@ src :@OSINTWarfare
 ‏• 2023 — 11 aircraft (in two batches)
 ‏• 2024 — 13 aircraft (in three batches)
 ‏
-‏The fighters manufactured in 2025 were reportedly delivered at the beginning of 2026, with 14 aircraft produced under the 2025 procurement program.
+‏The fighters manufactured in 2025 were delivered at the beginning of 2026, with 14 aircraft produced under the 2025 procurement program.
 ‏
-‏Thus, the total number of serial-production Su-57s manufactured by 2026 was 49 aircraft, including the aircraft lost in the 2019 crash. Excluding that aircraft, the total number currently in service is 48 Su-57s.
+‏Thus, the total number of serial-production Su-57s manufactured by 2026 was 49 aircraft, including the aircraft lost in the 2019 crash. Another Su-57 was lost in July 2026 during a training flight, bringing the total number currently in service to 47 aircraft.
 ‏
 ‏In 2019, Russia signed a contract for 76 Su-57s to be delivered by 2028. At present, this remains the only known order for Su-57s for Russia's own armed forces.
 ‏
@@ -6145,51 +6155,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 21:41
-1405/07/03
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Iraq’s Foreign Minister Fuad Hussein:
-‏"We asked Tehran to allow Iraqi oil to pass through the Strait of Hormuz, but received no positive response."
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فؤاد حسین، وزیر امور خارجه عراق:
-‏«از تهران خواستیم اجازه دهد نفت عراق از تنگه هرمز عبور کند، اما پاسخ مثبتی دریافت نکردیم.»
-‏
-‏𝕏  ·  @shin_persian
-21:20
-1405/07/03
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇮🇹 — Italy’s government approved school rules banning burqas and niqabs in classrooms, capping students with poor Italian skills at 30% per class. 
-‏
-‏PM Giorgia Meloni stated the measures aim to improve integration and prevent “ghetto classes.” Schools face fines up to €1,000 for non-compliance.
-‏
-‏The Global Eye | Subscribe ✈️
-21:18
-1405/07/03
-
-
-
-
-src :@samueltarikh
-‏⭕️آکسیوس: قطر و ایران منتظر پاسخ ترامپ به پیشنهاد ایران هستند
-21:17
-1405/07/03
-
-
-
-
-src :@samueltarikh
-‏Samuel pinned a photo
-21:17
 1405/07/03
