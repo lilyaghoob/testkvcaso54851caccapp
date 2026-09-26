@@ -1,3 +1,46 @@
+src :@Artemis_Force
+[عکس]
+‏ایالات متحده در حال آماده‌سازی برای یک عملیات نظامی احتمالی علیه کوبا است.
+‏
+‏ایالات متحده آمادگی نیروهای پلیس نظامی، کادر پزشکی، مهندسان و واحدهای پشتیبانی را برای استقرار احتمالی در کوبا طی ۹۰ تا ۱۲۰ روز آینده بررسی می‌کند. این موضوع توسط شبکه خبری CBS News گزارش شده است. 
+‏
+‏در حال حاضر دستوراتی برای انتقال نیروها صادر نشده است، بلکه این یک ارزیابی اولیه از آمادگی است.
+‏
+‏به گفته منابع، سناریوهایی در نظر گرفته می‌شود که مربوط به ناآرامی‌های احتمالی در جزیره یا اقداماتی علیه منافع آمریکا است. در پنتاگون تاکید شده است که این یک رویه استاندارد برنامه‌ریزی است و نه آمادگی برای یک حمله فوری.
+‏
+‏
+‏@artemis_force
+11:05
+1405/07/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The EU Council approved temporary trade-liberalization measures for Armenian products, allowing around 80% of Armenia’s exports to the EU to enter without import duties, including some agricultural goods.
+‏
+‏The Armenian Foreign Ministry said the move will diversify Armenia’s trade, expand access to the EU market and deepen economic cooperation. The preferential regime will apply for two years.
+‏
+‏Armenia said it is the only country without EU candidate status or a Deep and Comprehensive Free Trade Area agreement to receive such benefits.
+‏
+‏Source: Armenpress
+11:04
+1405/07/04
+
+
+
+
+src :@MilitarryWorld
+‏🔴پزشکیان: در دیدار با رهبر انقلاب ۷ ساعت روی زمین نشسته بودیم و گفت‌گو می‌کردیم
+‏
+‏@MilitarryWorld | Parsa
+11:04
+1405/07/04
+
+
+
+
 src :@Parvazdaroj
 [عکس]
 ‏شرکت ایرباس قصد دارد در اواخر اکتبر یا اوایل نوامبر، پیشنهادی غیرمنتظره به پرتغال برای عرضه جنگنده‌های یورو فایتر تایفون ارائه دهد. این موضوع توسط خود این شرکت در روز پنجشنبه اعلام شد. پرتغال به دنبال جایگزینی برای 28 فروند جنگنده قدیمی تر لاکهید مارتین F-16M آمریکایی است. هنوز مناقصه رسمی اعلام نشده است، اما رقابت در حال افزایش است.
@@ -1639,15 +1682,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏سلام صبح بخیر
-06:00
-1405/07/04
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏روزنامه وال‌استریت ژورنال به نقل از «مقامات آمریکایی» گزارش داد که رئیس‌جمهوری آمریکا، پیشنهاد جمهوری اسلامی برای برقراری آتش‌بس هفت‌روزه را رد کرده و به دستیاران خود گفته است که انتظار دارد پس از انتخابات میان‌دوره‌ای ماه نوامبر، بمباران را از سر بگیرد.
@@ -2796,21 +2830,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[عکس]
-‏Brazilian President Luiz Inacio Lula da Silva announced a ban on online betting operations, less than two years after the industry was legalized.
-‏
-‏The measure comes ahead of the October 4 first-round election, where Lula faces a tight race with right-wing Senator Flavio Bolsonaro. 
-‏
-‏The government says the ban addresses rising household debt linked to gambling, while Bolsonaro called it “populist” and politically motivated.
-‏
-‏Licensed betting sites will be blocked from October 6, after users are allowed to withdraw remaining funds.
-01:48
-1405/07/04
-
-
-
-
 src :@thewarreporter
 ‏🇮🇱🇦🇪🇵🇸 — The New York Times has confirmed an earlier Haaretz report that Emirati President Mohammed bin Zayed warned Israeli PM Netanyahu before October 7 that Hamas was preparing a major attack.  According to five former senior Israeli officials, the warning…
 01:47
@@ -3410,17 +3429,6 @@ src :@OSINTWarfare
 src :@OSINTWarfare
 ‏https://x.com/MoloWarMonitor/status/2103229268755120304
 23:00
-1405/07/03
-
-
-
-
-src :@MilitarryWorld
-‏🔴مرندی:
-‏ هیچ پیشرفتی در مذاکرات غیرمستقیم با ترامپ حاصل نشده است؛ منطقه به سمت تشدید تنش‌ها پیش می‌رود
-‏
-‏@MilitarryWorld | Parsa
-22:57
 1405/07/03
 
 
