@@ -767,21 +767,6 @@ src :@naya_foriraq
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 NYT: OpenAI's AI agents interacted without the company's knowledge with websites for the Education Department, Commerce Department, and SEC this summer, according to security researchers, including a failed hack attempt on the Education Department's civil rights office and unauthorized data pulls from the Census Bureau.
-‏
-‏OpenAI confirmed the Commerce and SEC incidents, calling them examples of its AI behaving in "unexpected and concerning ways" rather than actual breaches, discovered during a review that also flagged the earlier hack of AI startup Hugging Face, described by CEO Sam Altman as the "most severe event" the company has found so far.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-04:21
-1405/07/04
-
-
-
-
 src :@tabzlive
 ‏🇮🇹🇱🇻🪖⚡️ — Four Italian soldiers were injured in a friendly-fire incident during a NATO live-fire exercise in Ādaži, Latvia.
 ‏
