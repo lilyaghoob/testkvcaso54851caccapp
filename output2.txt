@@ -908,21 +908,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-[عکس]
-‏Russia could quickly restart up to 80% of its Black Sea and Sea of Azov grain export capacity if attacks stop and a ceasefire is reached.
-‏
-‏Three terminals, accounting for about 20% of regional export capacity, suffered major damage and may take months to repair.
-‏
-‏Türkiye is leading diplomatic efforts to restore Black Sea grain trade.
-‏
-‏Source: Reuters
-17:21
-1405/07/04
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔥 سایت جهانی WePari 🔥
@@ -6462,22 +6447,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:34
-1405/07/03
-
-
-
-
-src :@Mena_Live
-‏CBS Report: U.S. forces are planning a military operation against Cuba, similar to the military operation against Venezuela.
-‏
-‏@Mena_Live
-18:19
-1405/07/03
-
-
-
-
-src :@BellumActaNews
-‏🇺🇸 Family sues Texas daycare over allegedly operating a “child fight club.”
-18:18
 1405/07/03
