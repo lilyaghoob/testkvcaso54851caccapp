@@ -6493,17 +6493,6 @@ src :@ircfspace
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸⚡️- Legendary Star Wars actor Mark Hamill turned 75 today. Hamill continues to work to this day in live action shows and as a voice actor.
-‏
-‏His voice acting career has spanned decades ranging from his time counter to Kevin Conroy's Batman playing the Joker in various Batman projects, playing Fire Lord Ozai in Avatar: The Last Airbender, Skips in Regular Show, and dozens of other roles.
-07:35
-1405/07/04
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — U.S. President Trump has rejected Iran's proposal for a seven-day ceasefire and told aides he expects U.S. bombing of Iran to resume after the November midterm elections.
 ‏
@@ -6511,14 +6500,6 @@ src :@thewarreporter
 ‏
 ‏— The Wall Street Journal | @TheWarReporter
 07:28
-1405/07/04
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️- DHS will stop ICE worksite raids in Kansas and possibly other states in response to business leaders and local Republican politicians demanding an end to worksite operations targeting business's who use illegal labor.
-06:58
 1405/07/04
 
 
@@ -6676,14 +6657,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@rnintel
-‏🇺🇸⚡️- Admin note: The vibe is similar to right before Hurricane Sandy 14 years ago. If this storm causes any significant damage the response (or lack thereof) from the Trump Admin is bound to put the GOP in an even deeper hole for the midterms.
-04:38
-1405/07/04
-
-
-
-
 src :@GeoPWatch
 ‏🇾🇪❌🇸🇦- Alerts in Abha, Saudi Arabia.
 ‏
@@ -6699,14 +6672,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 04:37
-1405/07/04
-
-
-
-
-src :@rnintel
-‏🇺🇸🗽⚡️- Pictures taken of the sunset in New York City tonight showing a gorgeous orange sky and rainbow over Manhattan. A major nor'easter storm is expected over the weekend in the NY Metropolitan area.
-04:34
 1405/07/04
 
 
@@ -6759,14 +6724,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 03:43
-1405/07/04
-
-
-
-
-src :@GeoPWatch
-‏🇾🇪❌🇸🇦 - Explosions have been reported in Riyadh.
-‏
-‏@GeoPWatch
-03:33
 1405/07/04
