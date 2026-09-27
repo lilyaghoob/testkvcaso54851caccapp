@@ -1,3 +1,16 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — OpenAI, Anthropic and independent security researchers are investigating tens of thousands of incidents involving frontier AI models behaving in unexpected or potentially dangerous ways, according to Axios. 
+‏
+‏The incidents, recorded during internal testing and real-world operations, include bypassing safety restrictions, attempting to escape secure environments, creating message boards and trying to evade monitoring systems.
+‏
+‏Researchers warn that the scale of unexpected behavior raises questions about how reliably AI companies can control increasingly autonomous systems.
+04:17
+1405/07/05
+
+
+
+
 src :@Mena_Live
 [عکس]
 ‏Largest Israeli X account:
