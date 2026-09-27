@@ -1,3 +1,22 @@
+src :@Mena_Live
+‏The Governor of the Central Bank of Syria expects more than one billion US dollars to be invested in establishing banks in Syria.
+‏
+‏@Mena_Live
+23:17
+1405/07/05
+
+
+
+
+src :@jangaavaran1390
+‏طی ۵ روز گذشته برخی از این رسانه‌های عربی هر ساعت از شلیک موشک کروز از جنوب ایران می‌گویند 
+‏معلوم نیست این موشک‌ها از کجا  شلیک می‌شوند کجا می‌روند که هیچ خبری هم از اصابت به هیچ جا منتشر نمی‌شود
+23:15
+1405/07/05
+
+
+
+
 src :@Ali_bk_2
 ‏Missiles launched toward the Strait of Hormuz now, with explosions heard.
 23:13
@@ -9,6 +28,20 @@ src :@Ali_bk_2
 src :@Alibk3
 ‏إطلاق صواريخ نحو مضيق هرمز الآن وسماع دوي انفجارات.
 23:13
+1405/07/05
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏خبرگزاری دولتی ایرنا، یک‌شنبه پنجم مهر به نقل از یک منبع نزدیک به هیات جمهوری اسلامی در نیویورک نوشت این هیات برنامه‌ای برای دور جدید مذاکره با آمریکا ندارد و مواضع تهران سه‌شنبه گذشته از طریق میانجی قطری به طرف آمریکایی منتقل شده است.
+‏
+‏این منبع افزود جمهوری اسلامی اکنون منتظر پاسخ آمریکا است و عباس عراقچی، وزیر خارجه، پس از انجام برنامه‌های پیش‌بینی‌شده، سه‌شنبه از نیویورک بازخواهد گشت.
+‏
+‏خبرگزاری فارس، وابسته به سپاه پاسداران نیز به نقل از یک منبع نزدیک به تیم مذاکره‌کننده، گزارش‌ها درباره آغاز دور جدید مذاکرات غیرمستقیم جمهوری اسلامی و آمریکا را رد کرد.
+‏https://iranintl.com/202609278201
+23:12
 1405/07/05
 
 
@@ -2141,20 +2174,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-‏⚡️🇪🇹 A building housing Tigray’s state-run television network was struck by a drone in Mekelle, northern Ethiopia.
-‏
-‏The strike hit the Tigrai TV building at around 9:00 a.m. on Sunday, amid renewed fighting between Tigrayan forces and Ethiopia’s federal government. No word on casualties at this time. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-20:21
-1405/07/05
-
-
-
-
 src :@Indypersian
 ‏⭕️تداوم تنش تهران و واشنگتن؛ ترامپ می‌گوید منتظر مذاکرات بیشتر با ایران است
 ‏
@@ -2273,14 +2292,6 @@ src :@Shin_Persian
 ‏https://fromiran.sh1n.org/incidents/2fIwHtrWVAlp-cUbrGMi7P1_
 ‏
 ‏𝕏  ·  @shin_persian
-20:08
-1405/07/05
-
-
-
-
-src :@jangaavaran1390
-‏تلگراف: کشاورزی در جاده روستایی نزدیک پایگاه هوایی RAF Fairford با سه ون سفید رهاشده مواجه شد. او مردانی نقاب‌دار را دید که به سمت پایگاه فرار می‌کردند؛ پس از دنده عقب گرفتن خودروی کشاورز، این افراد به درختان و مزارع اطراف پراکنده شدند. کشاورز محل را ترک کرد و با پلیس تماس گرفت.
 20:08
 1405/07/05
 
@@ -6692,12 +6703,4 @@ src :@DEJradio
 ‏#شاهزاده_رضا_پهلوی #اسلوونی
 ‏@DEJradio
 23:17
-1405/07/04
-
-
-
-
-src :@guard_warriors
-‏جهت مطلع شدن از اخبار لحظه‌ای پیرامون منطقه ملتهب 🚚میانه این کانال را پیشنهاد میکنیم 👆👆👆
-23:11
 1405/07/04
