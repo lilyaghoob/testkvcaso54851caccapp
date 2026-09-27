@@ -1,3 +1,31 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸 – The IRGC said it would target all U.S. warships, including those in the Indian Ocean, should war break out again between Tehran and Washington.
+‏
+‏The threat against the Indian Ocean is likely aimed particularly against the U.S.-British base in Diego Garcia, a key resupply base for U.S. forces following the evacuation of NSA Bahrain.
+‏
+‏@GeoPWatch
+07:42
+1405/07/05
+
+
+
+
+src :@ircfspace
+[عکس]
+‏اپ sushTun یک کلاینت متن‌باز و رایگان برای هسته ایکس‌ری هست، که از پروتکل‌هایی مثل VLESS، VMess، Trojan، Shadowsocks، Hysteria2 و WireGuard پشتیبانی می‌کنه و تمام ترافیک سیستم رو از طریق تانل ایکس‌ری عبور میده.
+‏یکی از بخش‌های کاربردی این‌برنامه که برای ویندوز، لینوکس و مک ارائه شده، مسیریابی هوشمنده؛ تا بتونین مشخص کنین ترافیک ایران، روسیه، چین، تبلیغات و دامنه‌ها یا IPهای دلخواه از تانل عبور نکنن. امکان تنظیم DNS، فرگمنت برای TLS، Multiplexing و چند قابلیت دیگه هم وجود داره. حالت کم‌مصرف هم اجازه میده ترافیک‌های پس‌زمینه سیستم مثل Telemetry و آپدیت‌ها مستقیماً به اینترنت وصل بشن و از پروکسی عبور نکنن.
+‏
+‏👉 github.com/soroushdeimi/sushTun/releases
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+07:38
+1405/07/05
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏ماده 3 بیانیه مشترک آمریکا و چین نشانه پیچیده عمل کردن چین است. نگارش این بند به نحوی است که هم ادعای آمریکا را رد نمی کند و هم ادعای ج.ا را! به این شکل. 
