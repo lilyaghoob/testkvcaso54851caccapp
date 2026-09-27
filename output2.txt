@@ -1,5 +1,63 @@
 src :@Ali_bk_2
 [عکس]
+‏Air traffic at Riyadh Airport has now been halted.
+01:10
+1405/07/06
+
+
+
+
+src :@Alibk3
+[عکس]
+‏توقف حركة الملاحة في مطار الرياض الآن.
+01:09
+1405/07/06
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸⚡️- Live camera footage of some of the rainy and windy conditions from the active nor’easter. Screenshots from minimap.technology.
+01:09
+1405/07/06
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻هواداران فوتبال سال‌ها در انتظار تصویری بودند که احتمالا برای ثبت آن باید همچنان صبر کرد؛یکشنبه‌شب قرار بود کریستیانو رونالدو و ارلینگ هالند برای نخستین بار در یک مسابقه مقابل یکدیگر قرار بگیرند، اما شماره ۷ پرتغال فرصت بازی پیدا نکرد. 
+‏
+‏🔹ژرژ ژسوس، سرمربی پرتغال، به رونالدو را در بازی با نروژ در هفته دوم لیگ ملت‌های اروپا، استراحت داد تا فوق ستاره غایب بزرگ بازی با نروژ باشد.
+‏
+‏🔹هرچند که ارلینگ هالند، ستاره نروژ در زمین حضور داشت و یک گل هم برای وایکینگ‌ها زد، اما نتوانست مانع پیروزی تیم ملی پرتغال شود.
+‏
+‏🔹سرمربی پرتغال پیش از بازی، درباره نیمکت‌نشینی رونالدو گفت: «رونالدو نزدیک به ۷۰ دقیقه بازی کرد و احساس کردم نمی‌تواند در دو مسابقه پیاپی در ترکیب اصلی قرار بگیرد. ما رونالدو را در این چهار مسابقه می‌خواهیم.»
+‏
+‏🔹ژسوس پس از بازی هم گفت: «زمان مناسبی برای آوردن رونالدو به بازی نبود؛ این یک تصمیم تاکتیکی بود. من به بازیکنی با مجموعه‌ای متفاوت از مهارت‌ها نیاز داشتم؛ با این حال، او ممکن است مقابل دانمارک بازی کند.»
+‏
+‏@iranintltvsport
+01:08
+1405/07/06
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷💥 - Air defense activity was heard from the area around Kuhestan Park in Kermenshah, Iran. It is highly likely that this is as a result of regular system testing. 
+‏
+‏The area is known to be used as a missile site.
+‏
+‏@GeoPWatch
+01:08
+1405/07/06
+
+
+
+
+src :@Ali_bk_2
+[عکس]
 ‏The Wall Street Journal:
 ‏
 ‏Egypt warned Netanyahu of an imminent attack on Israel before 7 October.
@@ -2529,15 +2587,6 @@ src :@jangaavaran1390
 
 src :@naya_foriraq
 ‏🇮🇱وزارة خارجية الاحتلال الإسرائيلي: ستنتهي حصانة دبلوماسية المبعوثين الهولنديين في رام الله في غضون سبعة أيام.
-21:25
-1405/07/05
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏6 U.S. tanker aircraft are flying near the Strait of Hormuz.
 21:25
 1405/07/05
 
@@ -5138,28 +5187,10 @@ src :@defence_news
 
 
 
-src :@rnintel
-[عکس]
-‏🇬🇧 - BREAKING: Alleged image of the arrested individuals in Whelford adjacent to RAF Fairford.
-15:08
-1405/07/05
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻خبر خوش رئیس‌جمهور چین برای آمریکایی‌ها   👤 شی جین‌پینگ:  «یک خبر خوب برایتان دارم؛ ظرف چند روز آینده، دو پاندا به خانهٔ جدید خود در باغ‌وحش آتلانتا خواهند آمد و با مردم آمریکا دیدار خواهند کرد.»  🆔 @Americana_ir
 15:08
-1405/07/05
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇬🇧 - Aerial footage shows B-1B Bombers dispersed across RAF Fairford's eastern parking slots. The Royal Army's bomb disposal units are operating in neighbouring Whelford.
-15:07
 1405/07/05
 
 
@@ -6712,13 +6743,4 @@ src :@rus_cosmos
 ‏
 ‏منابع محلی از درگیری و شنیده شدن انفجار در تنگه هرمز و حوالی سیریک گزارش می‌دهند.
 01:19
-1405/07/05
-
-
-
-
-src :@samueltarikh
-‏طبق گزارش های تایید نشده،
-‏به چندین نفتکش و کشتی باری در تنگه هرمز حمله شده است.
-01:11
 1405/07/05
