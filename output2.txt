@@ -1,3 +1,44 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴حمله‌های هوایی عربستان سعودی، چندین منطقه از استان تعز در یمن را هدف قرار داد.
+‏
+‏@MilitarryWorld | Parsa
+13:17
+1405/07/05
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Saudi aircraft target commercial shops belonging to the Yemeni Economic Corporation in the Mawyah junction in Al-Taiziyah district, Taiz province, in a series of airstrikes.
+13:14
+1405/07/05
+
+
+
+
+src :@Alibk3
+[عکس]
+‏الطيران السعودي يستهدف بسلسلة غارات محلات تجارية في المؤسسة الاقتصادية اليمنية في مفرق ماوية بمديرية التعزية محافظة تعز
+13:14
+1405/07/05
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇬🇧 UK locks down Royal Air Force Fairford with bomb squad deployed over suspected explosives.
+‏
+‏This airbase is actively used by the US military for operations.
+‏
+‏@BRICSNews
+13:14
+1405/07/05
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏محمد سراج، عضو کمیسیون اجتماعی مجلس، درباره پذیرفته نشدن پیشنهاد جمهوری اسلامی از سوی دونالد ترامپ، رییس‌جمهوری آمریکا، به سایت دیده‌بان ایران گفت: «آمریکایی‌ها می‌دانند که در ایران رییس‌جمهور و وزیر خارجه تصمیم‌گیر نیستند. به همین دلیل محلی از اعراب برای این حرف‌ها قائل نیستند و ترامپ هم شروط آنها را نپذیرفته است.»
@@ -1411,16 +1452,6 @@ src :@mohem_mat
 ‏
 ‏@Avash_media
 11:10
-1405/07/05
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار بامدادی | یک‌شنبه ۵ مهر
-‏@iranintlTV
-11:07
 1405/07/05
 
 
@@ -2949,16 +2980,6 @@ src :@naya_foriraq
 
 
 
-src :@MilitarryWorld
-‏🔴ادعای نیویورک‌پست: مجتبی خامنه‌ای پس از حملات آمریکا و اسرائیل، از زیر آوار بیمارستان بیرون کشیده شد؛ حمله‌ای که تقریباً برای دومین بار داشت به کشته‌شدن او منجر می‌شد
-‏
-‏@MilitarryWorld | Maverick
-02:48
-1405/07/05
-
-
-
-
 src :@warmonitors
 ‏⚡Ukrainian media: Another explosion heard in Kyiv
 ‏
@@ -3260,30 +3281,6 @@ src :@OSINTWarfare
 
 
 
-src :@Ali_bk_2
-‏A sixth explosion was heard in the Strait of Hormuz.
-01:39
-1405/07/05
-
-
-
-
-src :@Alibk3
-‏سماع دوي انفجار سادس في مضيق هرمز.
-01:39
-1405/07/05
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷🇺🇸 اصوات انفجارات لم تعرف طبيعتها قرب قشم
-01:37
-1405/07/05
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷💥❓ - Explosions have been reported from Qeshm Island, Iran.  @GeoPWatch
 01:37
@@ -3379,30 +3376,6 @@ src :@samueltarikh
 ‏طبق گزارش های تایید نشده،
 ‏به چندین نفتکش و کشتی باری در تنگه هرمز حمله شده است.
 01:11
-1405/07/05
-
-
-
-
-src :@Ali_bk_2
-‏The IRGC Navy:
-‏
-‏In the new war, enemy ships will not be safe even in the Indian Ocean.
-‏
-‏If another war breaks out, we will certainly target and hit their ships and destroyers, even in the Indian Ocean.
-01:05
-1405/07/05
-
-
-
-
-src :@Alibk3
-‏القوات البحرية التابعة للحرس الثوري: 
-‏
-‏في الحرب الجديدة، لن تكون سفن العدو آمنة حتى في المحيط الهندي.
-‏
-‏إذا اندلعت حرب أخرى، فبالتأكيد سنستهدف وسنصيب سفنهم ومدمراتهم، حتى في المحيط الهندي.
-01:05
 1405/07/05
 
 
@@ -3651,16 +3624,6 @@ src :@rnintel
 src :@GeoPWatch
 ‏🇮🇷💥❓ - Explosions have been reported from Qeshm Island, Iran.  @GeoPWatch
 00:40
-1405/07/05
-
-
-
-
-src :@P_raetorio
-‏گزارشات محلی از شنیده شدن چند صدای انفجار در نزدیکی جزیره قشم 
-‏
-‏@P_raetorio
-00:39
 1405/07/05
 
 
@@ -6472,22 +6435,6 @@ src :@tglobaleye
 
 
 
-src :@thewarreporter
-‏🇸🇦🇾🇪🇾🇪🇮🇷 — Iranian President Masoud Pezeshkian:
-‏
-‏"What is happening in Yemen is not related to Iran, and we stand in solidarity with all those who are subjected to injustice.
-‏
-‏We can help resolve the conflict between Saudi Arabia and Yemen, and we will not be instigators of war.
-‏
-‏Saudi Arabia is capable of playing a role in unifying the world's Islamic nations".
-‏
-‏@TheWarReporter
-14:10
-1405/07/04
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ در حالی‌که قطر و عمان برای از سرگیری مذاکرات جمهوری اسلامی و آمریکا تلاش می‌کنند، بر اساس گزارش وال‌استریت ژورنال، محمد بن‌سلمان از آمریکا خواسته محاصره دریایی ایران را ادامه دهد.
@@ -6539,18 +6486,4 @@ src :@cataphract1
 ‏
 ‏📃@Cataphract1
 13:22
-1405/07/04
-
-
-
-
-src :@DEJradio
-[عکس]
-‏💀🚨 احمدرضا محمدرضایی، از نیروهای هوافضای سـ.ـپاه پاسداران (تیپ عملیاتی ۳۹ امام صادق) بوشهر، به‌طور مشکوکی کشته شد.
-‏
-‏خبرگزاری مهر وابسته به سازمان تبلیغات اسلامی، ادعا کرده این پاسدار «حین انجام مأموریت بر اثر سانحه رانندگی» کشته شده، اما برخی منابع غیررسمی گزارش دادند خودرو او نزدیک یکی از سایت‌های موشکی هدف پهپاد قرار گرفته است.
-‏
-‏#حذف_هدفمند #جنگ
-‏@DEJradio
-13:13
 1405/07/04
