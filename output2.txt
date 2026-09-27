@@ -1,3 +1,40 @@
+src :@defence_news
+[عکس]
+‏🇩🇿 یک سامانه پدافند هوایی کوتاه برد  HQ-17A، که توسط چین تولید شده است، در چین مشاهده شد که با رنگ‌های استتار  مخصوص کشور الجزایر طراحی شده است
+‏
+‏این سامانه نمونه بومی سازی شده و بروز شده سامانه پدافندی روسی تور ام۱ (Tor-M1) است
+‏
+‏تغییرات کلی آن نسبت به مدل روسی شامل نصب یک رادار جستجوی اسکن الکترونیک فعال به جای رادار پالس داپلر قبلی ، جایگزینی سیستم های آنالوگ با سیستم های دیجیتال ، نصب تجهیزات دید در شب و دید حرارتی و تغییراتی در نحوه چینش موشک هاست که از نظر کارایی آن را با نسخه مدرنتر روسی یعنی تور ام۲ (Tor-M2) هم رده میکند
+‏
+‏#Algeria
+‏#SAM
+‏#China
+‏
+‏✯ @katapeltikon (کاتاپلتیکاْن) 🎖
+15:10
+1405/07/05
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇬🇧 - BREAKING: Alleged image of the arrested individuals in Whelford adjacent to RAF Fairford.
+15:08
+1405/07/05
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻خبر خوش رئیس‌جمهور چین برای آمریکایی‌ها   👤 شی جین‌پینگ:  «یک خبر خوب برایتان دارم؛ ظرف چند روز آینده، دو پاندا به خانهٔ جدید خود در باغ‌وحش آتلانتا خواهند آمد و با مردم آمریکا دیدار خواهند کرد.»  🆔 @Americana_ir
+15:08
+1405/07/05
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇬🇧 - Aerial footage shows B-1B Bombers dispersed across RAF Fairford's eastern parking slots. The Royal Army's bomb disposal units are operating in neighbouring Whelford.
@@ -1282,27 +1319,6 @@ src :@didarnews1
 
 
 
-src :@IranintlTV
-‏🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - یکشنبه ۵ مهر
-‏
-‏🔹از قبل به آموزش‌وپرورش بابت کتاب‌های درسی مبلغ یک میلیون تومان آنلاین پرداخت شده، اما باز هم در مدرسه موقع تحویل کتاب از بچه‌ها پول می‌خوان.
-‏
-‏🔹در تاریخ ۴ مهرماه، ۴ تا دفتر ۶۰ برگ با ۳ عدد خودکار گرفتم، شده ۸۱۰ هزار تومان.
-‏
-‏🔹شنبه ۴ مهر، در هنرستان شهید کشوری ناحیه یک شیراز، تعدادی از دانش‌آموزان 
-‏به‌دلیل عدم پرداخت شهریه به کلاس راه داده نشدند که موجب شرمندگی بچه‌ها شد.
-‏
-‏🔹از اصفهان: ۶ تا کتاب کمک‌درسی رو که پارسال ۲ میلیون تومان خریدم، ۳۲۰ هزار تومان فروختم که بشه تغذیه بچه‌ام برای مدرسه. خدایا، چیکار کنیم؟
-‏
-‏🔹در دبستانی در گوهردشت کرج کار می‌کنم. شنبه ۴ مهرماه، ۵ نفر نیروی انتظامی ابتدا برای کل بچه‌ها، بعد برای کلاس‌های سوم تا ششم در مورد حجاب و جهاد تبیین صحبت کردند.
-‏
-‏🔹دختر ۱۴ ساله هستم. گوشی که می‌خواستم بخرم، ۹ میلیون تومانه. گفتم برم کار کنم، دستگاه کاشت ناخن، به‌جز کلاس‌های آموزشی و چیزهای دیگه، ۴ میلیون تومانه.
-13:38
-1405/07/05
-
-
-
-
 src :@MilitarryWorld
 ‏🔴امیر حاتمی فرمانده ارتش: 
 ‏
@@ -1693,22 +1709,6 @@ src :@thewarreporter
 src :@naya_foriraq
 ‏🇾🇪🇸🇦القوات اليمنية تستهدف مواقع مرتزقة السعودية في منطقة هان بمحافظة تعز.
 12:54
-1405/07/05
-
-
-
-
-src :@Ali_bk_2
-‏Afghanistan’s Defense Ministry announces that 28 people were killed after crossing from Pakistan into eastern Afghanistan, saying that most of them were former members of the Afghan security forces.
-12:54
-1405/07/05
-
-
-
-
-src :@Alibk3
-‏الدفاع الأفغانية تعلن مقتل 28 شخصا بعد عبورهم من باكستان إلى شرق أفغانستان، وتقول أن معظمهم كانوا عناصر سابقة في قوات الأمن الأفغانية.
-12:53
 1405/07/05
 
 
@@ -5230,19 +5230,6 @@ src :@MilitiaNews
 ‏
 ‏@Militianews | میلیشا را دنبال کنید
 21:16
-1405/07/04
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇮🇷🇺🇸🇮🇱⚡️ — Iranian Assembly of Experts member Ayatollah Mohsen Heydari said Supreme Leader Mojtaba Khamenei was wounded in the February 28 attack on Iran’s leadership office and later pulled from the rubble of a bombed hospital in Tehran.
-‏
-‏Three hospitals were struck after Khamenei’s hospitalization became known. Heydari said Mojtaba Khamenei was inside the third hospital when it was hit and was subsequently rescued from the debris.
-‏
-‏Heydari said the Assembly of Experts later received information that Khamenei was in good health and capable of leading Iran, and determined that he met the religious and leadership qualifications required for the position.
-21:13
 1405/07/04
 
 
