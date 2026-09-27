@@ -1166,22 +1166,6 @@ src :@cataphract1
 
 
 
-src :@Ali_bk_2
-‏Yemeni forces launch attacks on positions held by Saudi-backed forces in Bani Bakari and Al-Anin in Jabal Habashi district in Taiz.
-00:31
-1405/07/06
-
-
-
-
-src :@Alibk3
-‏القوات اليمنية تشن هجمات على مواقع القوات الموالية للسعودية في بني بكاري والعنين بمديرية جبل حبشي بتعز.
-00:31
-1405/07/06
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش تسنیم، حسین محبی، سخنگوی سپاه پاسداران، روز یکشنبه با رد باز بودن تنگه هرمز، از توقیف یک زیرسطحی بدون‌سرنشین متعلق به نیروی دریایی آمریکا در این آبراه خبر داد. او گفت: «تنگه هرمز نه تنها باز نیست، بلکه شکارگاه نیروی دریایی سپاه برای زیرسطحی‌های آمریکایی است. دومین شکار هم صید شد، این‌بار یک شناور زیرسطحی خودران (AUV) پیشرفته، خودمختار، مجهز به سونار و ناوبری دقیق و با ارزش چندمیلیون‌دلاری». محبی در ادامه گفت: «این رویداد فقط شکار نیست، بلکه یک غنیمت فناوری و اطلاعاتی است».
@@ -1629,32 +1613,6 @@ src :@wfwitness
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Jet activity
-‏
-‏Kermanshah, Kermanshah Province
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/Jf2obsiFq0mpo-GpS3Ax9XHY
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت جنگنده‌ها
-‏
-‏کرمانشاه، استان کرمانشاه
-‏
-‏[ارسال با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/Jf2obsiFq0mpo-GpS3Ax9XHY
-‏
-‏𝕏  ·  @shin_persian
-23:26
-1405/07/05
-
-
-
-
 src :@warmonitors
 ‏⚡Israeli Prime Minister visited Abu Dhabi on Sunday and met with the UAE President, Axios reported citing sources
 ‏
@@ -2045,31 +2003,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Shin_Persian
-[عکس]
-‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
-‏
-‏MAP: The RAF Fairford Incident - 27/SEP/2026
-‏
-‏Just a simple map to illustrate where the incident has taken place today. Aircraft positions are merely representative and may not be their current parking locations (12x B-1B "Lancer" bombers currently stationed).
-‏
-‏@MATA_osint
-‏
-‏ترجمه خودکار فارسی
-‏
-‏نقشه: حادثه پایگاه نیروی هوایی سلطنتی بریتانیا در فرفورد - ۲۷/سپتامبر/۲۰۲۶
-‏
-‏فقط یک نقشه ساده برای نشان دادن محل وقوع حادثه امروز. موقعیت هواپیماها صرفاً نمایشی است و ممکن است محل پارک فعلی آن‌ها نباشد (در حال حاضر ۱۲ فروند بمب‌افکن بی-۱بی «لنسر» در این پایگاه مستقر هستند).
-‏
-‏@MATA_osint
-‏
-‏𝕏  ·  @shin_persian
-22:39
-1405/07/05
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏سخنگوی نیروهای مسلح یمن سرهنگ ستاد ماجد عبدالله النزیلی گفت نیروهای این کشور طی ۷۲ ساعت گذشته ۷۵۶ عملیات دقیق علیه مواضع، نیروها حوثی‌ها در جبهه‌های کتاف و البقع، محور علب، الجوف، مأرب، البیضاء، لحج و تعز انجام داده‌اند.به گفته او، در این عملیات‌ها شماری از نفربرها، خودروها و تجهیزات نظامی، سکوهای پرتاب موشک و انبارهای تسلیحات حوثی‌ها منهدم و در مجموع ۲۳۱۶ نفر از نیروهای حوثی کشته یا زخمی شده‌اند. همچنین چهار کارشناس سپاه پاسداران ایران متخصص در راه‌اندازی و شلیک پهپادها و موشک‌ها در استان تعز کشته شده‌اند
 22:36
@@ -2092,18 +2025,6 @@ src :@mohem_mat
 
 src :@Mena_Live
 ‏Prime Minister Benjamin Netanyahu met today with the President of the United Arab Emirates. Netanyahu arrived in the country on a private plane and spent the day there.  @Mena_Live
-22:33
-1405/07/05
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Ynet: Explosions will be heard by residents of the northern settlements in the coming hours due to IDF activity in Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:33
 1405/07/05
 
