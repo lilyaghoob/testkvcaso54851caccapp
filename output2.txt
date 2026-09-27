@@ -1497,18 +1497,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Explosions reported in Qeshm. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:40
-1405/07/05
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏Persian Gulf Waterways Management Authority:
@@ -6784,16 +6772,6 @@ src :@mwarmonitor
 
 
 
-src :@mwarmonitor
-‏📰وال استریت ژورنال: مقام‌های آمریکایی گفتند دونالد ترامپ پیشنهاد ایران برای برقراری آتش‌بس هفت‌روزه را رد کرده و به دستیارانش گفته است انتظار دارد پس از انتخابات میان‌دوره‌ای آمریکا، بمباران ایران را از سر بگیرد.
-‏
-‏@mwarmonitor
-05:08
-1405/07/04
-
-
-
-
 src :@Middle_East_Spectator
 [ویدئو]
 ‏أنا نايا عندي كل الخفايا
@@ -6809,13 +6787,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 04:57
-1405/07/04
-
-
-
-
-src :@Middle_East_Spectator
-[فایل]
-‏@YtbAudioBot
-04:53
 1405/07/04
