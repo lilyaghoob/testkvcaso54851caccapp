@@ -1,3 +1,60 @@
+src :@MilitarryWorld
+‏🔴ترامپ: توافقی‌ که ایرانی‌ها می‌خواهند مدنظر من نیست
+‏
+‏@MilitarryWorld | Parsa
+18:50
+1405/07/05
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇬🇧⚡️ — UK Prime Minister Andy Burnham:
+‏I know today's incident near RAF Fairford will be deeply concerning for local residents and for many people following developments across the country.
+‏
+‏The investigation remains ongoing, and I would urge people not to speculate while the authorities establish the full facts.
+18:50
+1405/07/05
+
+
+
+
+src :@Minas_Tirith2024
+‏ان شاء الله جنگ "تا رفع فتنه از عالم" ادامه دارد
+‏
+‏@Minas_Tirith2024
+18:49
+1405/07/05
+
+
+
+
+src :@Minas_Tirith2024
+‏عراقچی وزیر امور خارجه:
+‏
+‏ ایران آماده از سرگیری جنگ است، حتی اگر اوضاع به یک جنگ اخرالزمانی ختم شود
+‏
+‏@Minas_Tirith2024
+18:49
+1405/07/05
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Andy Burnham:
+‏
+‏I know today's incident near RAF Fairford will be deeply concerning for local residents and for many people following developments across the country.
+‏
+‏The investigation remains ongoing, and I would urge people not to speculate while the authorities establish the full facts.
+18:49
+1405/07/05
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏A major state of emergency has been declared at RAF Fairford, and several buildings have been evacuated.
@@ -11,6 +68,31 @@ src :@Alibk3
 [عکس]
 ‏إعلان حالة طوارئ كبرى في قاعدة سلاح الجو الملكي البريطاني فيرفورد، وتم إخلاء العديد من المباني
 18:48
+1405/07/05
+
+
+
+
+src :@didarnews1
+‏🔴رئیس انجمن موبایل: با توقف پروازهای عمان، گوشی وارد کشور نمی‌شود
+‏
+‏🔹عضو هیات نمایندگان اتاق بازرگانی ایران و انجمن موبایل ایران با بیان اینکه در مورد حمل و نقل دچار مشکل هستیم، گفت: اکثراً بالای ۹۰ درصد موبایل مورد نیاز کشور از طریق هوایی وارد می‌شود، اما به دلیل آنکه پروازهای عمان به ایران متوقف شده، در واردات کالا دچار مشکل شده‌ایم. 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+18:48
+1405/07/05
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏یک خودرو در غزه هدف قرار گرفت
+‏
+‏@P_raetorio
+18:47
 1405/07/05
 
 
@@ -39,7 +121,7 @@ src :@naya_foriraq
 
 
 src :@WAR_ROOM_NEWS
-‏اکسیوس: دونالد ترامپ اعلام نمود که مذاکرات با ایران در هفته جاری ادامه خواهد یافت، علی‌رغم رد آخرین پیشنهاد ارائه‌شده توسط تهران در نیویورک. در چارچوب این مذاکرات، ایران بر موضوع تنگه هرمز و محاصره دریایی از سوی ایالات متحده تأکید دارد؛ در حالی که واشنگتن خواستار کسب امتیازات در حوزه هسته‌ای است. یک مقام آمرایی بیان داشت که مذاکرات از طریق میانجی‌ها همچنان در حال پیشرفت و ماهیتی مثبت و سازنده دارد.
+‏اکسیوس: دونالد ترامپ اعلام نمود که مذاکرات با ایران در هفته جاری ادامه خواهد یافت، علی‌رغم رد آخرین پیشنهاد ارائه‌شده توسط تهران در نیویورک. در چارچوب این مذاکرات، ایران بر موضوع تنگه هرمز و محاصره دریایی از سوی ایالات متحده تأکید دارد؛ در حالی که واشنگتن خواستار کسب امتیازات در حوزه هسته‌ای است. یک مقام آمریکایی بیان داشت که مذاکرات از طریق میانجی‌ها همچنان در حال پیشرفت و ماهیتی مثبت و سازنده دارد.
 ‏
 ‏🆔@WAR_ROOM_NEWS
 18:44
@@ -2109,16 +2191,6 @@ src :@defence_news
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیمروزی | یک‌شنبه ۵ مهر
-‏@iranintlTV
-16:32
-1405/07/05
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏دلایل سقوط هواپیمای F-16 متعلق به گروه نمایش‌ هوایی آمریکا. 
@@ -2305,14 +2377,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏نظام الجولاني يطلق سراح (59) سائقاً عراقياً
-16:15
-1405/07/05
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇾🇪❌🇸🇦 — Spokesperson of the Yemeni Armed Forces, Brigadier General Yahya Saree:
@@ -2450,17 +2514,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 15:57
-1405/07/05
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏More people working in the United States right now than at any point in the History of our Country!
-15:50
 1405/07/05
 
 
@@ -2922,16 +2975,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 14:59
-1405/07/05
-
-
-
-
-src :@MilitarryWorld
-‏🔴رئیس دانشگاه تهران: در جنگ اخیر ۲ استاد و ۵ دانشجو را از دست دادیم
-‏
-‏@MilitarryWorld | Parsa
-14:57
 1405/07/05
 
 
@@ -5445,14 +5488,6 @@ src :@OSINTWarfare
 
 
 
-src :@didarnews1
-‏دیدارنیوز pinned a photo
-00:49
-1405/07/05
-
-
-
-
 src :@Artemis_Force
 ‏🛑از حوالی ابتدا نیمه شب، صدای انفجار های متعدد از سمت دریا مخابره شده است
 ‏
@@ -6149,17 +6184,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 20:54
-1405/07/04
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏آمریکایی ها با سرعتی عجیب در حال توسعه انواع تسلیحات دور برد ارزان قیمت هستند.  موشک هایپرسونیک ارزان قیمت Blackbeard یک نمونه آنها است که سرجنگی 30kg دارد و 800-1000km برد با قیمتی بین 300-500 هزار دلار. تولید سالانه زیاد. عملنا اگر ج.ا در پی درگیری با آمریکاییها و اسرائیلیها باشد، سرمایه گذاری روی پدافندهای بزرگ استراتژیک فایده نخواهد داشت و با فناوری فعلی اتلاف وقت است، احتمالا حتی بدتر از S-300 به راحتی سرکوب خواهند شد. و تنها سرمایه گذاری رو پدافند نهایت نقطه ای متحرک و گاها پسیو شاید برای برخی هدفها موثر باشد. حتی توسعه موثر نیروی هوایی و حفظ توان عملیاتی آن هم با این امکانات در ابهام فنی جدی قرار خواهد داشت. (جزئیات بیشتر در ارتباط با این موشک)
-‏
-‏@Exciton_missile_program 🚀
-20:52
 1405/07/04
 
 
