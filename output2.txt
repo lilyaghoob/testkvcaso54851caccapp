@@ -3301,22 +3301,6 @@ src :@tabzlive
 
 
 
-src :@Ali_bk_2
-‏Sounds of new explosions in the Strait of Hormuz
-01:56
-1405/07/05
-
-
-
-
-src :@Alibk3
-‏دوي انفجارات جديدة في مضيق هرمز
-01:56
-1405/07/05
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -6563,30 +6547,4 @@ src :@DEJradio
 ‏#عربستان_سعودی #محاصره_دریایی
 ‏@DEJradio
 13:45
-1405/07/04
-
-
-
-
-src :@GeoPWatch
-‏#NEW 🇾🇪🇾🇪❌🇸🇦 - Last night, the Ansarullah launched an attack towards "AlAshbut" aiming to capture the "Hayjat AlAbd" highway, cutting off the main supply line to the PLC in "Ta'izz".   Clashes were paired with artillery. The PLC's 4th Mountain Infantry Brigade…
-13:33
-1405/07/04
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iranian President Pezeshkian says "Iran has lost trust in the negotiation process with US."
-‏
-‏@BRICSNews
-13:33
-1405/07/04
-
-
-
-
-src :@Navy_Iranian
-‏بابک تقوایی ادعا می‌کند به گفته منابع اسرائیلی، ۲۹ پرسنل نیروی دریایی آمریکا و ۸ تفنگدار دریایی که اخیرا در جریان جنگ ایران و آمریکا زخمی شده‌اند، در یک ناو جنگی نیروی دریایی آمریکا دچار جراحت شده‌اند؛ به احتمال زیاد یک ناوشکن از کلاس Arleigh Burke که گفته…
-13:32
 1405/07/04
