@@ -1,3 +1,12 @@
+src :@rnintel
+[عکس]
+‏🇬🇧 - BREAKING: Alleged image of the arrested individuals in Whelford adjacent to RAF Fairford.
+15:19
+1405/07/05
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏افزایش سطح هشدار در پایگاه هوایی آمریکا در فیرفورد بریتانیا؛
@@ -4298,14 +4307,6 @@ src :@GeoPWatch
 
 
 
-src :@rnintel
-‏🇮🇷⚡️- Initial reports of explosions in the Strait of Hormuz.
-00:38
-1405/07/05
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷💥❓ - Explosions have been reported from Qeshm Island, Iran.
 ‏
@@ -4829,14 +4830,6 @@ src :@intelslava
 
 
 
-src :@rnintel
-‏🇮🇷⚡️- Initial reports of explosions in the Strait of Hormuz.
-22:51
-1405/07/04
-
-
-
-
 src :@didarnews1
 ‏🔴 رئیس‌جمهور در گفت‌وگو با شبکه الجزیره: ما می‌میریم ولی سر خم نمی‌کنیم
 ‏
@@ -5223,19 +5216,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 21:45
-1405/07/04
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏وبسایت آکسیوس، روز ۴ مهر ۱۴۰۵، به نقل از یک منبع آگاه گزارش داد مذاکره‌کنندگان آمریکایی در جریان مذاکرات غیرمستقیم با عباس عراقچی، وزیر خارجه جمهوری اسلامی، به او اعلام کردند که ایران کنترل تنگه هرمز را در اختیار ندارد و بنابراین نمی‌تواند برای بازگشایی این آبراه شرط تعیین کند.
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/158109
-‏
-‏
-‏@Farsi_Iranwire
-21:42
 1405/07/04
 
 
@@ -6382,47 +6362,6 @@ src :@mamlekate
 src :@defence_news
 ‏https://www.youtube.com/watch?v=JFeKkYXSJOQ
 16:41
-1405/07/04
-
-
-
-
-src :@defence_news
-[عکس]
-‏🔶 کره شمالی در حال بازسازی گسترده مراکز آموزش نبرد شهری است.           
-‏
-‏🔹️ بر اساس تحلیل تصاویر ماهواره‌ای توسط NK Pro، کره شمالی در ماه‌های اخیر روند بازسازی و توسعه حداقل 2 مرکز آموزشی بزرگ را که برای تمرین عملیات در مناطق شهری (MOUT) استفاده می‌شوند، آغاز کرده است.
-‏
-‏🔹️ یکی از این مراکز در منطقه Kangdong در نزدیکی پیونگ‌یانگ قرار دارد و ساخت چندین ساختمان جدید در آن از ژوئن 2026 آغاز شده است. مرکز دیگر در شهرستان Unsan قرار دارد و شامل یک شهرک شبیه‌سازی‌شده برای تمرین در محیط‌های شهری است.
-‏
-‏🔹️ این مراکز پیش‌تر نیز برای تمرین نیروهای ویژه کره شمالی مورد استفاده قرار گرفته بودند؛ از جمله پیش از اعزام بیش از 10,000 نیروی کره شمالی برای مشارکت در جنگ روسیه و اوکراین. NK Pro می‌گوید بازسازی‌های جدید می‌تواند با تلاش پیونگ‌یانگ برای به‌روزرسانی زیرساخت‌های آموزشی و استفاده از تجربیات عملیاتی اخیر مرتبط باشد، هرچند ارتباط مستقیم آن با نبردهای کورسک به‌طور رسمی تأیید نشده است.
-‏
-‏#NorthKorea
-‏#DPRK
-‏#MilitaryTraining
-‏#MOUT
-‏#Kangdong
-‏#Unsan
-‏
-‏@RASTAKHIZ_PERSIAN
-16:41
-1405/07/04
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 Iran’s Supreme National Security Council:
-‏
-‏1. We deny the claim that Iran will retaliate militarily to the recent aerial restrictions that were imposed.
-‏
-‏2. Negotiations between Iran and the relevant countries regarding the removal of aerial restrictions are being seriously pursued.
-‏
-‏3. There are various non-military responses that can be applied to some regional airports if necessary, but we hope it doesn’t reach this point.
-‏
-‏@Middle_East_Spectator
-16:40
 1405/07/04
 
 
