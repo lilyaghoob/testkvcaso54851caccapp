@@ -1,3 +1,23 @@
+src :@mohem_mat
+‏@NR2OH
+‏تحلیلگر ژئوپولتیک: نیروی دریایی سپاه امشب بیش از ۱۰ موشک کروز ضدکشتی شلیک کرده است. دلیل آن؟ بنا بر ادعای این گزارش، یک اسکورت بزرگ نیروی دریایی آمریکا در تلاش است محموله‌ای نفتی را از تنگه هرمز عبور دهد.
+‏در حالی که ایرانی‌ها طی چند هفته گذشته ظاهراً در برابر خروج نفت چشم‌پوشی می‌کردند، اما بنظر میرسد. آن توافق دیگر تمام شده است و همه این‌ها به این دلیل است که ترامپ بار دیگر حاضر نشد در سازمان ملل به توافق برسد.
+‏گام های بعدی ترامپ یکی اینکه تنش را تشدید خواهد کرد. گزینه‌های او محدود است. بنابراین یا یک کارزار هوایی کوتاه‌مدت دیگر علیه ایران به راه می‌اندازد که از نظر راهبردی دستاوردی نداشت، یا خطر ورود به سناریویی کاملاً متفاوت را می‌پذیرد.
+‏
+‏➖➖➖➖➖➖➖➖➖➖➖
+‏@WeTheBrandon
+‏IRGC Navy has launched more that 10 anti-ship cruise missiles tonight. The reason? Allegedly there’s a large US Navy escort attempting to get an oil shipment through the Strait of Hormuz. Whereas the Iranians clearly were looking the other way as oil was moved out the last few weeks, that “deal” is over. And all because Trump refused to deal once more at the UN. 
+‏
+‏Up next: Trump will escalate. His options are limited. So, he either does another short term air campaign against Iran that accomplished nothing strategically. Or he risks something else entirely: nuclear escalation (which is certainly on the table)....
+‏➖➖➖➖➖➖➖➖➖➖➖
+‏  
+‏@mohem_mat
+07:43
+1405/07/05
+
+
+
+
 src :@ircfspace
 [عکس]
 ‏اپ sushTun یک کلاینت متن‌باز و رایگان برای هسته ایکس‌ری هست، که از پروتکل‌هایی مثل VLESS، VMess، Trojan، Shadowsocks، Hysteria2 و WireGuard پشتیبانی می‌کنه و تمام ترافیک سیستم رو از طریق تانل ایکس‌ری عبور میده.
@@ -2841,18 +2861,6 @@ src :@Exciton_missile_program
 
 
 
-src :@mohem_mat
-‏سی‌بی‌اس به نقل از یک منبع آگاه مدعی شد: 
-‏
-‏مذاکرات آمریکا و ایران با وجود رد پیشنهاد توسط ترامپ، هفته آینده برگزار می‌شود
-‏
-‏@mohem_mat
-19:33
-1405/07/04
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏⚜ ریش سیاه نسخه هواپرتاب سوار بر اَبرزنبور! (Blackbeard missile, سوپر هورنت F-18F)
@@ -4728,21 +4736,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 08:04
-1405/07/04
-
-
-
-
-src :@ircfspace
-[عکس]
-‏کلاینت Satelite یک اپ پروکسی متن‌باز و رایگان برای اندروید، ویندوز، لینوکس و مک هست، که می‌تونه بین هسته‌‌های sing-box، Xray و mihomo سوییچ کنه. 
-‏از وارد کردن انواع سابسکریپشن و کانفیگ گرفته، تا Rule-based Routing، پراکسی‌چین، DNS هوشمند، System Proxy و TUN رو پوشش میده و یکی از قابلیت‌های جالبش، حالت Multi-Core هست که اجازه میده چند هسته همزمان کنار هم کار کنن؛ مثلاً سینگ‌باکس هسته اصلی باشه و بعضی پروتکل‌ها رو به ایکس‌ری یا mihomo بسپره. 
-‏انتخاب هوشمند نودها، تست تأخیر و IP خروجی، مدیریت DNS و Hosts، تشخیص اتوماتیک پروسه‌ها و اجرای دائمی در System Tray هم از دیگر امکاناتشه.
-‏
-‏👉 github.com/zn0wii/satelite-proxy/releases
-‏💡 github.com/zn0wii/satelite-one/releases
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-07:44
 1405/07/04
