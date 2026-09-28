@@ -1,3 +1,16 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — FBI Deputy Director Andrew Bailey announced Monday that he is stepping down after just over a year in the role, saying he will “return to my family in Missouri.”
+‏
+‏Bailey and Director Patel had a difficult relationship and sometimes went extended periods without speaking. Patel also increasingly sidelined Bailey.
+‏
+‏It remains unclear whether the White House will appoint another co-deputy director or leave Christopher Raia as the FBI’s sole No. 2.
+19:27
+1405/07/06
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇮🇱❌🇯🇴🇵🇸 - The IDF's "406th (Yoav)" Brigade, deployed in southern Israel's border with Jordan captured a quadcopter drone attempting to smuggle 9 Rifles, including a "PM md. 63" and "AKMS", and seemingly a "Glock 19" pistol from Jordan.
@@ -2866,19 +2879,6 @@ src :@rus_cosmos
 
 
 
-src :@ClashReport
-[عکس]
-‏UK Investigates Iran Link in Suspected Bomb Plot at US Air Force Outpost
-‏
-‏Five British men remain in custody as investigators examine whether Iran was connected to a suspected terrorist act against the U.S. Air Force outpost at RAF Fairford.
-‏
-‏READ MORE
-15:47
-1405/07/06
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏این که نیروی دریایی ما خورده و بد هم خورده درست ! حرفی نیست و نقلی نیست ! ولی بستن یا اخلال در یک تنگه ای با عرض 30 یا 40 کیلومتر اصولا خیلی نیازی به نیروی دریایی به معنی شناور ندارد این یک ، دوم این که امیر سیاری ارتشی است و نه سپاهی !
@@ -2954,19 +2954,6 @@ src :@mohem_mat
 
 src :@thewarreporter
 ‏🇺🇸🇬🇧 — British Police say several men have been arrested under the Explosives Act following a 'major incident' near RAF Fairford, a UK base that hosts U.S. Air Force aircraft.  Homes in nearby Whelford were evacuated while Army bomb disposal teams examined…
-15:43
-1405/07/06
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇳⚡️ — India has invoked emergency measures to boost electricity generation as coal inventories at power plants fall to their lowest level in nearly three years amid weak hydropower production and severe nighttime power shortages.
-‏
-‏The government has ordered companies operating captive coal plants larger than 50 MW to run them at maximum capacity and sell surplus electricity to the grid.
-‏
-‏Coal stocks at grid-connected power stations have more than halved from a year ago as generators compensate for reduced hydropower and the loss of solar generation after sunset.
 15:43
 1405/07/06
 
@@ -6398,42 +6385,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 19:32
-1405/07/05
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 Iran’s Foreign Minister, Abbas Araqchi:
-‏
-‏‘If I’m being very honest, there is no reason for us to engage in diplomacy with the United States at all.
-‏
-‏In 2025, they offered us negotiations [on the nuclear program] and we accepted. Then, in the middle of negotiations, we were attacked.
-‏
-‏About 8 months later, in February 2026, they offered negotiations a second time, and we once again accepted. As negotiations were ongoing, they attacked us again.
-‏
-‏Then, after the war, we engaged in even more diplomacy. We signed an MoU, and they violated it within days. So, there is no real reason for us to go back to diplomacy.
-‏
-‏But we are trying diplomacy one last time, because we don’t want to miss any chance for achieving peace.’
-‏
-‏@Middle_East_Spectator
-19:24
-1405/07/05
-
-
-
-
-src :@DEJradio
-[عکس]
-‏📡⭕️ فعالیت استارلیک در عراق رسمی و قانونی شد
-‏
-‏حضور شرکت استارلینک متعلق به ایلان ماسک بعد از چند ماه فعالیت در عراق،  رسمی و قانونی شد.
-‏به گزارش خبرگزاری رسمی عراق «واع» در روز یکشنبه ۵ مهر، بلیغ ابوکلل، رئیس بخش اجرایی کمیسیون رسانه و ارتباطات به خبرگزاری عراق، گفت: «مجوز فعالیت شرکت استارلینک در عراق رسمی شده و همکاری با آن در عراق قانونی است، و درخواست‌های زیادی برای اشتراک در وب‌سایت شرکت در داخل عراق صورت گرفته است.»
-‏کمیسیون رسانه و ارتباطات عراق، نهادی مستقل است که بر اساس قانون اساسی این کشور در سال ۱۳۸۳ تأسیس شد و ماموریت آن تنظیم و توسعه رسانه‌ها و ارتباطات در عراق مطابق با استانداردهای مدرن بین‌المللی است.
-‏در این راستا، رئیس کمیسیون رسانه و ارتباطات، درباره برخی نگرانی‌های امنیتی و شایعاتی مبنی بر این که مرکز داده‌های شرکت استارلینک عراق در کشور دیگری مانند قطر است، توضیح داد: «این شایعات صحت ندارد و مرکز داده‌های استارلینک عراق، در داخل عراق قرار دارد و متقاضیان استارلینک در این کشور، تمام مشخصات خود را بطور شفاف و روشن ارائه می‌دهند و مجوز داشتن استارلینک مستلزم آن است که شرکت استارلینک تعداد مشترکین، مشخصات آنها و توزیع جغرافیایی استفاده از آن را در اختیار کمیسیون رسانه و ارتباطات قرار دهد.»
-‏
-‏#استارلینک 
-‏@DEJradio
-19:23
 1405/07/05
