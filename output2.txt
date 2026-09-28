@@ -1,3 +1,44 @@
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸 - Reports of a BM launch from Tehran are false. BMs were spotted being transported near the Bidganeh Missile Site, resulting in multiple outlets misreading messages and reporting launches.
+‏
+‏@GeoPWatch
+19:51
+1405/07/06
+
+
+
+
+src :@mohem_mat
+‏یک مقام آمریکایی به الجزیره گفت: 
+‏
+‏ما از طریق واسطه‌ها به مذاکرات مثبت با ایران ادامه می‌دهیم و بدون پرداختن به مسئله هسته‌ای هیچ توافقی حاصل نخواهد شد.
+‏
+‏ترامپ آماده است تا در ازای پیشرفت در مسئله هسته‌ای، تحریم‌های ایران را کاهش داده و دارایی‌های مسدود شده این کشور را آزاد کند.
+‏
+‏@mohem_mat
+19:50
+1405/07/06
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔻کدام مشاغل تا ۲۰۳۵ بیشترین رشد را در آمریکا خواهند داشت؟
+‏
+‏▪️بازار کار آمریکا بین سال‌های ۲۰۲۵ تا ۲۰۳۵ نزدیک به ۵.۹ میلیون شغل جدید خالص اضافه خواهد کرد. بر اساس پیش‌بینی‌های اداره آمار کار آمریکا، مراقبان سلامت خانگی و مراقبت شخصی با فاصله زیاد در صدر قرار دارند و حدود ۸۴۷ هزار شغل جدید ایجاد می‌کنند؛ این رشد عمدتاً ناشی از پیر شدن جمعیت است.
+‏
+‏▪️در رتبه‌های بعدی، انبارداران و پرکنندگان سفارش (۲۵۱ هزار)، کارگران فست‌فود (۲۲۳ هزار)، پرستاران ثبت‌شده (۱۹۵ هزار) و مدیران عملیات (۱۸۱ هزار) قرار دارند. توسعه‌دهندگان نرم‌افزار نیز حدود ۱۷۵ هزار شغل جدید اضافه می‌کنند. یازده مورد از سی شغل برتر، دستمزد میانه پایین‌تری از میانه ملی آمریکا (حدود ۵۱ هزار دلار) دارند، در حالی که مشاغلی مانند پرستاران متخصص، مدیران فناوری اطلاعات و دانشمندان داده دستمزدهای بالای ۱۲۰ هزار دلار دارند.
+‏
+‏▪️پرستاران متخصص با رشد ۴۱ درصدی، سریع‌ترین نرخ افزایش را ثبت می‌کنند. در مجموع، رشد مشاغل ترکیبی از نیازهای مراقبتی مرتبط با سالمندی، خدمات پایه با دستمزد پایین و نقش‌های فنی و مدیریتی با درآمد بالا خواهد بود. 
+‏ 
+‏🆔 @Americana_ir
+19:50
+1405/07/06
+
+
+
+
 src :@Ali_bk_2
 ‏U.S. official:
 ‏
@@ -838,21 +879,6 @@ src :@MilitarryWorld
 ‏🔴جنوب لبنان هم اکنون
 ‏
 ‏@MilitarryWorld | Parsa
-18:45
-1405/07/06
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇬🇧🇮🇷The Iranian Embassy in the UK rejects speculation in the media that the five individuals arrested near RAF Fairford are linked to Iran. 
-‏
-‏They argue the speculation only serves to fuel Iranophobia in the UK. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:45
 1405/07/06
 
@@ -2364,23 +2390,6 @@ src :@ClashReport
 ‏OpenAI said it is reviewing the findings, contacted the UN and acknowledged other cases where its agents bypassed security controls or disrupted websites.
 ‏
 ‏Source: WSJ
-16:47
-1405/07/06
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇺🇳⚡️ — OpenAI agents made more than 16,000 requests to a United Nations data platform and used aggressive methods to bypass restrictions designed to block them, according to an independent research report cited by WSJ.
-‏
-‏The activity targeted a publicly accessible UN Trade and Development statistical database between April and late June. 
-‏
-‏The agents appeared to be searching for public information but, when blocked, circumvented a website filter and ultimately used a method the site’s operators did not permit. 
-‏
-‏The UN said no confidential data was compromised but called the incident an “extremely worrying” AI containment failure.
-‏
-‏OpenAI is reviewing the findings and has contacted the U.N. to discuss the incident.
 16:47
 1405/07/06
 
@@ -5704,16 +5713,6 @@ src :@IRRadar
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇮🇶🇹🇷 - Drone activity is still being reported over the Kurdish Region of Iraq.
-‏
-‏@GeoPWatch
-02:39
-1405/07/06
-
-
-
-
 src :@Middle_East_Spectator
 ‏🇺🇸🇮🇶⚡️ — U.S. Air Force fighter jets continue to patrol Iraqi Kurdistan's airspace. It is possible a renewed Iranian UAV launch was detected.
 ‏
@@ -6382,21 +6381,4 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 19:55
-1405/07/05
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺⭕️ مذاکرات آمریکا و جمهوری اسلامی در هاله‌ای از ابهام؛ ترامپ از ادامه گفت‌وگوها می‌گوید، برنن از لغو نشست فنی دوشنبه خبر داد
-‏
-‏در حالی که دونالد ترامپ پس از رد پیشنهاد اخیر جمهوری اسلامی گفته است انتظار دارد گفت‌وگوها با تهران در هفته جاری ادامه پیدا کند، مارگارت برنن، خبرنگار ارشد شبکه سی‌بی‌اس، به نقل از یک مقام جمهوری اسلامی گزارش داد که نشست تیم‌های فنی که قرار بود روز دوشنبه برگزار شود، دیگر انجام نخواهد شد.
-‏بر اساس گزارش اکسیوس، ترامپ روز یکشنبه گفت جمهوری اسلامی خواهان توافق است، اما پیشنهادی که ارائه کرده با توافق مورد نظر او فاصله دارد. تهران خواستار تمرکز مذاکرات بر تنگه هرمز و پایان محاصره دریایی است، در حالی که دولت ترامپ خواهان گنجاندن تعهدات هسته‌ای جمهوری اسلامی در هرگونه توافق است. قطر نیز همچنان میان دو طرف میانجی‌گری می‌کند و منابع منطقه‌ای از احتمال ادامه مذاکرات غیرمستقیم در هفته جاری خبر داده‌اند. پیشنهاد تهران شامل بازگشایی تنگه هرمز و ازسرگیری مذاکرات هسته‌ای در برابر لغو محاصره دریایی، رفع تحریم‌های فروش نفت و برقراری دوباره آتش‌بس منطقه‌ای بود؛ پیشنهادی که ترامپ روز شنبه اعلام کرد آن را رد کرده است. 
-‏مارگارت برنن نیز به نقل از یک دیپلمات مطلع از مذاکرات گزارش داد که آمریکا پیش‌نویس جمهوری اسلامی را بررسی و روز پنجشنبه همراه با ملاحظات خود بازگردانده است. به گفته او، واشینگتن خواستار اضافه‌شدن تعهدات مربوط به پرونده هسته‌ای به طرحی شده که در ابتدا بر تنگه هرمز متمرکز بود و همچنین با لغو تحریم‌هایی که پس از ماه ژوئن وضع شده‌اند، مخالفت کرده است. برنن در عین حال گفت کانال‌های دیپلماتیک باز مانده‌اند، اما یک مقام جمهوری اسلامی به او گفته است تیم‌های فنی دو طرف روز دوشنبه دیدار نخواهند کرد.
-‏ترامپ در پاسخ به پرسشی درباره احتمال ازسرگیری حملات نظامی علیه جمهوری اسلامی نیز گفت این گزینه همواره در محاسبات او قرار دارد. همزمان عباس عراقچی گفته است تهران هنوز از طریق میانجی‌ها پاسخ رسمی آمریکا درباره پیشنهاد خود دریافت نکرده و همچنان برای مذاکره آمادگی دارد.
-‏
-‏#مذاکرات #جنگ #برنامه_اتمی #توافق
-‏@DEJradio
-19:48
 1405/07/05
