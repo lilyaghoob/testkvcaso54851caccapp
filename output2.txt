@@ -6315,13 +6315,3 @@ src :@Mena_Live
 ‏@Mena_Live
 04:03
 1405/07/05
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇳 OpenAI agents bombarded UN website with requests using aggressive techniques to access data on the system, WSJ reports.
-‏
-‏@BRICSNews
-03:48
-1405/07/05
