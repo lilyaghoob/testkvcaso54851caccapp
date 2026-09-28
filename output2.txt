@@ -1,6 +1,44 @@
+src :@ClashReport
+[عکس]
+‏Greece and France are considering a reroute of the Great Sea Interconnector (Crete-Cyprus HVDC cable) to avoid Türkiye's new Fethiye-Kaş marine park, declared in August 2026 near Kastellorizo (Meis).
+‏
+‏France now controls the project.
+‏
+‏Meridiam took 66% ownership in August, Nexans will lay the cable, and a French-flagged survey vessel will be used. 
+‏
+‏Athens and Paris have agreed to notify Türkiye of survey work rather than request permission, citing UNCLOS rules that cables don't require coastal-state consent.
+‏
+‏The problem: 40% of seabed surveys remain unfinished in the sensitive waters east of Kasos, where Turkish warships interrupted work in 2024. 
+‏
+‏Greece is also considering extending territorial waters to 12nm south/west of Crete before resuming surveys. 
+‏
+‏No new survey date is locked in. 
+‏
+‏Source: Kathimerini
+13:16
+1405/07/06
+
+
+
+
 src :@Exciton_missile_program
 [ویدئو]
 ‏۲۴۳
+13:12
+1405/07/06
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴ادعای رسانه عربی: عوامل حمله به خط لوله عربستان از مرز ایران وارد عراق شدند
+‏
+‏🔹«العربی الجدید» از جزئیات تازه تحقیقات عراق درباره حمله اخیر به خط لوله «شرق ـ غرب» عربستان خبر داد و به نقل از مقام‌های عراقی مدعی شد بیش از ۱۵ پهپاد بمب‌گذاری‌شده از منطقه مرزی «الطیب» در استان میسان به سمت عربستان پرواز کرده و عوامل این عملیات پیش از حمله، از ایران وارد عراق شدند.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
 13:12
 1405/07/06
 
@@ -3456,18 +3494,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ: 
-‏
-‏حمله به ایران پیش از انتخابات میان‌دوره‌ای همچنان ممکن است، نمیخواهم چیزی بیشتر از این بگویم
-‏
-‏@MilitarryWorld | Parsa
-01:01
-1405/07/06
-
-
-
-
 src :@rnintel
 ‏🇬🇧⚡️- The platforms banned for under 16s in Britain starting next year have been announced:
 ‏
@@ -5397,28 +5423,6 @@ src :@rus_cosmos
 
 
 
-src :@didarnews1
-‏🔴حداد عادل: گاهی که شب‌ها میهمان رهبر شهید بودیم ایشان، قبل از اینکه مجلس مهمانی تمام شود، می‌گفتند: «من چون صبح درس دارم، باید بروم و خودم را برای درس فردا صبح آماده کنم.»
-‏
-‏🔹وقتی آقای ایران شهید شدند، از پنج نفری که در بیت رهبری به شهادت رسیدند، به‌جز آن کودک ۱۴ماهه، بقیه اعضای خانواده معلم بودند.
-‏
-‏🔹 بعد زودتر از جمع بلند می‌شدند و می‌رفتند مطالعه می‌کردند تا برای درس فردایشان آماده باشند. ایشان معلم و استاد بودند.
-‏
-‏🔹 آقای مصباح‌الهدی باقری کنی نیز استاد دانشگاه امام صادق(ع) بودند و از همان دانشگاه فارغ‌التحصیل شده بودند.
-‏
-‏🔹 دخترشان، خانم بشرا، و عروسشان، هر دو معلم مدرسه فرهنگ بودند؛ یعنی یک مدرسه، دو معلم شهید تقدیم کرد.
-‏
-‏🔹 وقتی خانواده رهبری یک نظام، معلم می‌شوند ما باید به این افتخار کنیم که فرزندانمان معلم شوند و معلم بمانند.
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-18:08
-1405/07/05
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏نیروی هوایی ایالات متحده اولین پرنده‌های بدون‌خلبان رزمی /وینگمن YFQ-44A Fury و YFQ-42A Vengeance را دریافت کرد.
@@ -6392,16 +6396,4 @@ src :@Americana_ir
 [عکس]
 ‏🔴 بر اساس نظرسنجی جدید NBC News، در آستانه انتخابات میان‌دوره‌ای ۲۰۲۶، میزان رضایت از عملکرد دونالد ترامپ در میان رای‌دهندگان آمریکایی ۴۱ درصد و ۵۶ درصد مخالف عملکرد رئیس‌جمهور آمریکا هستند.  #Election2026  🆔 @Americana_ir
 13:17
-1405/07/05
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇬🇧 UK locks down Royal Air Force Fairford with bomb squad deployed over suspected explosives.
-‏
-‏This airbase is actively used by the US military for operations.
-‏
-‏@BRICSNews
-13:14
 1405/07/05
