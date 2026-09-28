@@ -1,3 +1,89 @@
+src :@Indypersian
+[عکس]
+‏♦️عباس عراقچی، وزیر خارجه جمهوری اسلامی، روز دوشنبه در پاسخ به خبرنگار ایرنا با اشاره به دیدار مجدد خود با یکی از میانجی‌های قطری در نیویورک اعلام کرد که در این گفتگو ایده‌هایی پیرامون چگونگی راهگشایی و تحقق شروط ایران بررسی شده و قرار است این ایده‌ها با طرف آمریکایی در میان گذاشته شود تا «پاسخ نهایی» واشنگتن به تهران منتقل شود؛ او با ابراز امیدواری نسبت به دریافت این پاسخ تا روز سه‌شنبه، اعلام کرد تا چند ساعت دیگر نیویورک را ترک خواهد کرد و میانجی‌های قطری مسیر انتقال پاسخ رسمی به تهران را می‌دانند و افزود تبادل پیام‌ها از طریق میانجی‌های قطری و پاکستانی همواره جریان داشته، اما با ارائه طرح اخیر ایران روندی جدی‌تر به خود گرفته است.
+‏
+‏@indypersian
+01:56
+1405/07/07
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — OpenAI has scrapped the planned October release of its next-generation GPT-6.1 Astra model after internal testing uncovered significant safety and alignment problems, according to WSJ.
+‏
+‏The model was more capable at completing complex tasks independently but showed increased deception, including failing to accurately tell users what actions it had taken. It also had problems with “scope authorization,” sometimes continuing tasks or accessing external tools and services without first obtaining user permission.
+‏
+‏Although Astra improved issues such as “model laziness,” OpenAI concluded it did not meet the company’s safety threshold for public release.
+01:55
+1405/07/07
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️خبرگزاری صداوسیما، بامداد سه‌شنبه، به نقل از «منابع محلی» گزارش داد: «صداهای انفجار شنیده شده در قشم مربوط به شلیک‌های اخطار به شناورهای متخلف در تنگه هرمز بود. براساس این گزارش «تاکنون گزارشی از اصابت یا وقوع انفجار اعلام نشده است.»
+‏
+‏@indypersian
+01:55
+1405/07/07
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡️- OpenAI is scrapping the release of its next-generation AI model, GPT-6.1 Astra, after tests showed higher levels of deception and a greater willingness to act outside human instructions compared to previous models, according to The Wall Street Journal.
+01:53
+1405/07/07
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏شرکت دولتی نفت سوریه اعلام کرد شامگاه دوشنبه بر اثر انفجار در یکی از شیرهای قطع جریان خط لوله گاز میان منطقه الشولا و دیرالزور آتش‌سوزی رخ داد.
+‏
+‏خبرگزاری دولتی سانا به نقل از این شرکت گزارش داد انفجار ناشی از «اقدام خرابکارانه» بوده است.
+‏
+‏بر اساس این گزارش، آتش‌سوزی انتقال گاز از تاسیسات گازی جبیسه به نیروگاه‌های تولید برق را متوقف کرد.
+‏
+‏نیروهای آتش‌نشانی دو سوی محل آتش‌سوزی را ایزوله کردند و هم‌زمان با کاهش فشار گاز، عملیات برای خاموش کردن آتش ادامه یافت.
+‏
+‏شرکت دولتی نفت سوریه جزییات بیشتری درباره عامل یا عوامل احتمالی این خرابکاری ارائه نکرد.
+‏https://iranintl.com/202609287357
+01:53
+1405/07/07
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Defense Secretary Pete Hegseth has ordered the Pentagon to use intelligence, cyber operations and advanced AI to detect and disrupt foreign interference in upcoming U.S. elections.
+‏
+‏The Sept. 22 directive tells U.S. Cyber Command and defense intelligence agencies to monitor foreign threats, counter election-related cyberattacks and coordinate with the Department of Homeland Security.
+‏
+‏The memo does not authorize troops at polling stations or the seizure of voting machines.
+‏
+‏Source: Axios
+01:52
+1405/07/07
+
+
+
+
+src :@naya_foriraq
+‏🇮🇶 مصدر امني عراقي لنايا 
+‏
+‏ممارسة امنية تجريها القوات المسلحة العراقية بالساعة الثانية فجرا بالتزامن مع الانسحاب المذل الأمريكي من العراق
+01:52
+1405/07/07
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏ترامپ، ترجمه ماشین:
@@ -52,7 +138,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏سطو مسلح على شقة مسؤول في منطقة المنصور بالعاصمة بغداد .
+‏سطو مسلح على شقة مسؤول في منطقة المنصور " مجمع المنصور ستي " بالعاصمة بغداد .
 01:44
 1405/07/07
 
@@ -2194,17 +2280,6 @@ src :@rnintel
 
 
 
-src :@naya_foriraq
-[فایل]
-‏.♦️اين ما حلِتْ امريكا حل الخراب 🎙
-‏
-‏وَدَّ الَّذِينَ كَفَرُوا لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَاحِدَةً
-23:02
-1405/07/06
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Official UAE statement: The President of the United Arab Emirates, Sheikh Mohamed bin Zayed Al Nahyan, received Israeli Prime Minister Benjamin Netanyahu, who visited the UAE yesterday, Sunday. During the meeting, the two leaders discussed bilateral relations between the UAE and Israel and ways to strengthen and develop them.
@@ -2299,20 +2374,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 22:53
-1405/07/06
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏حبیب‌الله سیاری، معاون هماهنگ‌کننده ارتش، در گفت‌وگوی تلویزیونی درباره جنگ گفت: «دشمن فقط شعار می‌دهد تنگه هرمز باز است اما در واقعیت این تنگه بسته است.»
-‏
-‏سیاری افزود: «جنوبی‌ها باید آماده باشند جلوی ورود هرگونه دشمن به خاک را بگیرند.»
-‏
-‏معاون هماهنگ‌کننده ارتش گفت: «دشمنان بدانند بحث انتقام ما پابرجاست. ما باید بالاخره این انتقام را بگیریم؛ در هر جایی یا زمانی.»
-‏https://iranintl.com/202609282138
-22:52
 1405/07/06
 
 
@@ -2476,24 +2537,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 22:44
-1405/07/06
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، دوشنبه در کاخ سفید گفت آمریکا «خیلی زود» در جنگ با ایران پیروز خواهد شد و پس از آن قیمت بنزین به‌شدت کاهش خواهد یافت.
-‏
-‏ترامپ گفت: «این جنگ تمام خواهد شد و ما در این جنگ پیروز می‌شویم و قیمت بنزین با سرعت زیادی پایین خواهد آمد. هیچ‌کس دیگری نمی‌توانست چنین کاری را انجام دهد.»
-‏
-‏او همچنین درباره برنامه هسته‌ای جمهوری اسلامی گفت: «می‌توانم این را بگویم که ما مانع شدیم جمهوری اسلامی به سلاح هسته‌ای دست پیدا کند. خودشان هم این را می‌فهمند و حاضرند به این موضوع اذعان کنند.»
-‏
-‏ترامپ در پاسخ به پرسشی درباره ایران و مذاکرات گفت: «خواهیم دید. از نظر من، این مساله به هر شکلی که باشد، یک جور تمام خواهد شد و خیلی سریع پیش خواهد رفت.»
-‏
-‏رییس‌جمهوری آمریکا همچنین اعلام کرد مقام‌های آمریکایی دوشنبه با میانجی‌های ایران گفت‌وگو کردند.
-‏https://iranintl.com/202609282337
-22:42
 1405/07/06
 
 
@@ -3325,21 +3368,6 @@ src :@Parvazdaroj
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️یک مقام آمریکایی شامگاه دوشنبه ششم مهر ماه، به شبکه سی‌ان‌ان گفت آمریکا از طریق میانجی‌ها در حال انجام «گفت‌وگوهای مثبت و سازنده» با ایران است.
-‏
-‏به گفته این مقام، ایران نشان داده است که درباره مسائل هسته‌ای انعطاف‌پذیر است، اما دو طرف هنوز درباره زمان‌بندی اجرای تعهدات به توافق نرسیده‌اند.
-‏
-‏مسعود پزشکیان، پنج‌شنبه گذشته در گفتگو با شبکه فاکس‌نیوز از آمادگی تهران برای رقیق‌سازی اورانیوم غنی شده ۶۰ درصدی خبر داده بود.
-‏
-‏@indypersian
-21:26
-1405/07/06
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مشاور قالیباف: جنگ بعدی با ایران ممکن است غافلگیرانه و در همین روز ها آغاز شود
 ‏
@@ -3469,22 +3497,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 21:12
-1405/07/06
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️در حالی که شبکه سی‌ان‌ان به نقل از یک مقام کاخ سفید مذاکرات آمریکا و ایران را «مثبت و سازنده» گزارش کرده است، شبکه خبری العربیه روز دوشنبه ششم مهرماه به نقل از یک منبع آمریکایی درگیر در مذاکرات گزارش داد شانس دستیابی به توافق میان دو کشور «بسیار اندک» است.
-‏
-‏این منبع به العربیه گفت همچنان شکاف‌های گسترده و موانع قابل‌توجهی میان آمریکا و ایران وجود دارد.
-‏سی‌ان‌ان پیش‌تر به نقل از یک مقام کاخ سفید گزارش داده بود که مذاکرات غیرمستقیم میان دو طرف «مثبت و سازنده» بوده و ایران نشان داده است که درباره مسائل هسته‌ای انعطاف‌پذیر است. این مقام در عین حال تاکید کرده بود که تا زمانی که مسائل هسته‌ای حل نشود، توافقی حاصل نخواهد شد.
-‏
-‏گزارش‌های ضد و نقیض درباره مذاکرات میان تهران و واشنگتن در حالی مطرح می‌شود که پیشتر اخباری درباره برگزاری مذاکرات غیرمستقیم میان عباس عراقچی و طرف آمریکایی در نیویورک منتشر شده بود. بر این اساس، قرار بود وزیر امور خارجه جمهوری اسلامی ایران از طریق میانجی‌گران قطری و پاکستانی با نمایندگان آمریکا گفتگو کند.
-‏
-‏@indypersian
-21:10
 1405/07/06
 
 
@@ -6100,16 +6112,6 @@ src :@MilitiaNews
 ‏
 ‏@Militianews | میلیشا را دنبال کنید
 14:25
-1405/07/06
-
-
-
-
-src :@warmonitors
-‏⚡#BREAKING Witnesses told Reuters that a loud explosion was heard in central Kyiv
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-14:21
 1405/07/06
 
 
