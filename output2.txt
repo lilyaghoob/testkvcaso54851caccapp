@@ -1,3 +1,37 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏درود و صبح بخیر
+06:01
+1405/07/06
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇦⚡️🇷🇺 - After months of intense fighting for the city of Lyman, Ukrainian forces have recaptured the entire city with the remaining southeastern outskirts coming under their control. The Russian military, for the 2nd time in the war, has once again been completely…
+06:01
+1405/07/06
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏شبکه ان‌بی‌سی نیوز به نقل از سه مقام آمریکایی گزارش داد هشت تفنگدار دریایی آمریکا در حمله موشکی جمهوری اسلامی به کشتی محل استقرار آنها در تنگه هرمز مجروح شدند.
+‏
+‏بر اساس این گزارش، این حمله که پیش‌تر رسانه‌ای نشده بود، ۱۴ سپتامبر، برابر با ۲۳ شهریور، با استفاده از یک موشک کروز انجام شد.
+‏
+‏مقام‌های آمریکایی گفتند جراحات این نیروها جدی نبوده است، اما آنها دچار استنشاق دود شدند و احتمال آسیب مغزی ناشی از ضربه نیز وجود دارد.
+‏
+‏به گفته این مقام‌ها، برخی از تفنگداران دریایی پس از حمله علائم ضربه مغزی، از جمله سردرد، داشتند.
+‏https://iranintl.com/202609287767
+06:01
+1405/07/06
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️مورگان اورتگاس، فرستاده پیشین آمریکا در امور خاورمیانه، یکشنبه در برنامه «فاکس نیوز ساندی» وضعیت جمهوری اسلامی را متزلزل توصیف کرد و گفت حکومت ایران در شرایط کنونی «به یک نخ بند است». او با اشاره به فشارهای آمریکا گفت این فشارها جمهوری اسلامی را منزوی‌تر کرده و نشانه‌هایی از آشفتگی در میان مقام‌های آن دیده می‌شود.
@@ -6281,17 +6315,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 07:11
-1405/07/05
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇷🇺❌🇺🇦 – A large fire is raging in Brovary, west of Kyiv, following a Russian strike.
-‏
-‏The target was likely the 'Beton vid Kovalskoyi' (Concrete from Kovalska) facility, which produces concrete and reinforced-concrete products.
-‏
-‏@GeoPWatch
-06:01
 1405/07/05
