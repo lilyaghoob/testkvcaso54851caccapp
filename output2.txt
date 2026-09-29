@@ -1,3 +1,53 @@
+src :@didarnews1
+[عکس]
+‏🔴نمودار مجموع میزان صادرات نفت خلیج‌فارس منهای ایران به روایت کپلر که نشان می‌دهد رقم صادرات نفت،  به ارقام قبل از جنگ نزدیک شده است.
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+23:46
+1405/07/07
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️وزارت امور خارجه جمهوری اسلامی ایران با انتشار بیانیه‌ای، سفر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به امارات متحده عربی را به شدت محکوم کرد و نسبت به پیامدهای خطرناک حضور اسرائیل در منطقه هشدار داد.
+‏
+‏در این بیانیه که روز سه‌شنبه هفتم مهر منتشر شده، آمده است که حضور نتانیاهو در منطقه، در شرایطی که تحت پیگرد محاکم بین‌المللی قرار دارد و منطقه در یکی از شکننده‌ترین برهه‌های تاریخی خود به سر می‌برد، بسیار هشداردهنده و تهدیدکننده صلح و امنیت جمعی است.
+‏
+‏وزارت خارجه با اشاره به «عناد اثبات‌شده» اسرائیل و تهدیدهای مداوم آن علیه تهران، تاکید کرد که همه کشورهای منطقه باید «مراقب پیامدها و عواقب این‌گونه تحرکات باشند».
+‏
+‏در پایان این بیانیه با تاکید بر تفکیک‌ناپذیری امنیت منطقه‌ای، از حکومت‌های منطقه خواسته شده تا از فراهم کردن زمینه برای حضور اسرائیل خودداری کنند و اجازه ندهند قلمرو آن‌ها به بستری برای «اقدامات بی‌‌ثبات‌کننده علیه سایر همسایگان» تبدیل شود.
+‏
+‏
+‏
+‏@indypersian
+23:46
+1405/07/07
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی چشم‌انداز:نامه عجیب و غریب سپاه به مردم آمریکا
+‏@iranintlTV
+23:45
+1405/07/07
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏مقام‌های اطلاعاتی آمریکا به فاکس‌نیوز گفته‌اند که ارزیابی نتانیاهو درباره احتمال وقوع حمله به اسرائیل با ارزیابی اطلاعاتی ایالات متحده همخوانی دارد
+23:44
+1405/07/07
+
+
+
+
 src :@rnintel
 ‏🇺🇸🇮🇷🇮🇱⚡️- "The United States shares Netanyahu's assessment regarding the possibility of an attack." - U.S. intelligence officials tell Fox News.
 23:41
@@ -162,17 +212,6 @@ src :@mohem_mat
 ‏
 ‏@Squad_iran
 23:34
-1405/07/07
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺🇺🇦⚡️ — Russia aims to paralyze Kiev before the onset of winter through massive strikes, sabotage, and attempts to sow political chaos – the peak of this campaign is expected by November, according to The Economist.
-‏
-‏@Intelslava
-23:33
 1405/07/07
 
 
@@ -2876,16 +2915,6 @@ src :@jangaavaran1390
 
 
 
-src :@WAR_ROOM_NEWS
-‏کاتس، وزیر جنگ اسرائیل:سران حماس را در خارج از کشور هدف قرار خواهیم داد
-‏
-‏🆔@WAR_ROOM_NEWS
-19:20
-1405/07/07
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇪🇹 - Uguugumo-affiliated media have announced the start of the “March to Sardo” in eastern Afar, northern Ethiopia.  Sardo is a vital energy hub for Addis Ababa, but more critically, it lies on the A1 Highway linking Afar’s capital, Semera, with Eritrea’s…
@@ -2919,18 +2948,6 @@ src :@jangaavaran1390
 src :@jangaavaran1390
 ‏ونس می‌گوید که آنها اطلاعات دقیقی دارند که تعداد زیادی از مقامات ایرانی نمی‌خواستند تفاهم‌نامه اسلام آباد نقض شود ولی تعدادی تندرو دست به شلیک زدند و آنها نتوانستند تندروها را کنترل کنند
 19:16
-1405/07/07
-
-
-
-
-src :@MilitarryWorld
-‏🔴کانال ۱۲ اسرائیل: نتانیاهو امشب با یائیر لاپید، رهبر مخالفان، دیدار امنیتی خواهد داشت
-‏
-‏این دیدار پس از اظهارات اخیر نتانیاهو درباره احتمال وقوع حمله پیش از انتخابات انجام می‌شود.
-‏
-‏@MilitarryWorld | Parsa
-19:15
 1405/07/07
 
 
@@ -3819,14 +3836,18 @@ src :@Americana_ir
 
 
 
-src :@Indypersian
+src :@intelslava
 [عکس]
-‏♦️مارکو روبیو، وزیر امور خارجه ایالات متحده، حادثه اخیر در پایگاه هوایی بریتانیا — که مورد استفاده نیروهای آمریکایی است — را «بسیار جدی» خواند و اعلام کرد که یک «بازیگر خارجی» پشت این رویداد قرار دارد.
-‏پلیس بریتانیا روز یکشنبه پنج نفر را به اتهام جرایم مرتبط با مواد منفجره و اقدام تروریستی دستگیر کرد، اما به دلیل کافی نبودن مدارک، آنان را شامگاه دوشنبه با وثیقه آزاد نمود. روبیو در گفتگو با شبکه فاکس‌نیوز، ضمن تمجید از همکاری لندن و واشنگتن، تأکید کرد که آزادی این افراد از اهمیت و شدت خطری که رخ داده یا ممکن بود رخ دهد، نمی‌کاهد.
-‏گرچه روبیو نام کشور خاصی را ذکر نکرد، اما به ایران به عنوان نمونه‌ای از کشورهایی اشاره کرد که تهدید به هدف قرار دادن منافع آمریکا کرده‌اند. در مقابل، سفارت ایران در لندن با انتشار بیانیه‌ای، گمانه‌زنی‌ها درباره دخالت تهران در این حادثه را به شدت رد و ادعاهای مطرح‌شده را «بی‌اساس و مغرضانه» توصیف کرد. مقامات بریتانیایی نیز خواستار خودداری از هرگونه گمانه‌زنی تا پایان تحقیقات شده‌اند.
+‏🇷🇺❌🇺🇦 — Ukraine’s steel industry is failing under the pressure of Russian strikes
 ‏
-‏@indypersian
-17:11
+‏the country produced no steel for an entire week for the first time in 100 years, Metinvest said.
+‏
+‏Ukraine’s largest metallurgical plants were halted in September. Metinvest said restarting just one Zaporizhstal blast furnace would cost at least $50 million, while the furnace itself is worth around $500 million.
+‏
+‏Metinvest official Oleksandr Vodoviz said Russian strikes, port blockades, EU carbon rules and reduced quotas are crushing the sector, while state support programs are too small.
+‏
+‏“There is no plan from the state that we would like to hear. What next? Business is living in month-to-month planning mode,” Vodoviz said.
+17:14
 1405/07/07
 
 
@@ -4602,20 +4623,6 @@ src :@mamlekate
 ‏بخاطر یه دبه اورانیوم:
 ‏t.me/mamlekate/97247
 14:37
-1405/07/07
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴سازمان UKMTO با تأخیر گزارشی را از حمله به یک کشتی در تنگه هرمز در عصر روز گذشته دریافت و اعلام کرده است که این حمله موجب آتش‌‌سوزی در کشتی شده است. این آتش‌سوزی مهار شده و کشتی به مسیر خود ادامه می‌دهد.
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-14:33
 1405/07/07
 
 
