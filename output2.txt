@@ -1,3 +1,20 @@
+src :@rnintel
+[عکس]
+‏🇵🇸🇮🇱⚡️- A terrorist infiltration alarm has been sounded in Havat Maginzi, Israeli-occupied West Bank.
+04:12
+1405/07/07
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦ايقاف حركة الطيران في مطار الملك خالد دولي في رياض نتيجة هجمات حوثية.  https://t.me/naya_foriraq
+04:12
+1405/07/07
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇵🇸❌🇮🇱 — Infiltration alert in Havat Magizni, IDF-occupied West Bank. Southwest of the Palestinian city of Nablus.
@@ -8,7 +25,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏🇸🇦ايقاف حركة الطيران في مطار الملك خالد دولي في رياض نتيجة هجمات حوثية.
+‏🇸🇦ايقاف حركة الطيران في مطار الملك خالد دولي في رياض نتيجة هجمات حوثية.  https://t.me/naya_foriraq
 04:09
 1405/07/07
 
@@ -48,7 +65,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏🇸🇦ايقاف حركة الطيران في مطار الملك خالد دولي في رياض نتيجة هجمات حوثية.
+‏🇸🇦ايقاف حركة الطيران في مطار الملك خالد دولي في رياض نتيجة هجمات حوثية.  https://t.me/naya_foriraq
 04:07
 1405/07/07
 
@@ -58,6 +75,8 @@ src :@naya_foriraq
 src :@naya_foriraq
 [عکس]
 ‏🇸🇦ايقاف حركة الطيران في مطار الملك خالد دولي في رياض نتيجة هجمات حوثية.
+‏
+‏https://t.me/naya_foriraq
 04:06
 1405/07/07
 
@@ -2094,14 +2113,6 @@ src :@intelslava
 
 
 
-src :@naya_foriraq
-‏انفجارات في مضيق هرمز
-23:27
-1405/07/06
-
-
-
-
 src :@OSINTWarfare
 ‏An alert has been issued in Najran Province, Saudi Arabia, following an Ansar Allah ballistic missile attack.
 23:27
@@ -3707,14 +3718,6 @@ src :@mohem_mat
 src :@rnintel
 ‏🇱🇧🇮🇱⚡️- Air defense activity is reported in Kiryat Shmona, northern Israel, without the activation of red alerts or air raid alarms.
 20:56
-1405/07/06
-
-
-
-
-src :@rnintel
-‏🇾🇪🇸🇦⚡️- BREAKING: Ansarullah may begin targeting bridges in Saudi Arabia following recent airstrikes on Yemeni infrastructure, an Ansarullah source tells Al-Akhbar.
-20:55
 1405/07/06
 
 
