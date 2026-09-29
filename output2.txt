@@ -1,4 +1,16 @@
 src :@mwarmonitor
+‏🔴بر اساس گزارش شبکه ABC، یک مقام آمریکایی اعلام کرد: یک پایگاه داده بزرگ و جامع متعلق به کارکنان پنتاگون که حاوی اطلاعات حساس است، هک شده است.
+‏
+‏🔴نشت اطلاعات از پایگاه داده کارکنان پنتاگون، شامل ۲.۷۶ میلیون نفر زنده است.
+‏
+‏@mwarmonitor
+05:25
+1405/07/07
+
+
+
+
+src :@mwarmonitor
 ‏🔴این مصاحبه از شبکه Fox Business (با اجرای استوارت) و با حضور ژنرال کیت کلوگ (Lieutenant General Keith Kellogg) انجام شده است. موضوع اصلی گفتگو درباره پیشنهاد اخیر ایران، وضعیت برنامه هسته‌ای، تنگه هرمز و راهبرد ایالات متحده در قبال ایران است.
 ‏
 ‏**** استوارت (مجری): رئیس‌جمهور ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز را رد کرد و حالا وزیر امور خارجه تهران می‌گوید ایران آماده دیپلماسی یا جنگ آخرالزمانی است. بیایید تماشا کنیم:
@@ -503,17 +515,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇱🇧⚡️ — U.S. Secretary of State Marco Rubio met with Lebanese Prime Minister Nawaf Salam in Washington.
-‏
-‏Rubio reaffirmed strong U.S. support as Lebanon moves forward with implementing the Trilateral Framework, which he described as “the only path to a durable peace with Israel.”
-03:08
-1405/07/07
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏خبرگزاری رسمی عربستان سعودی دوشنبه ۶ مهر گزارش داد فیصل بن فرحان، وزیر خارجه این کشور، در واشینگتن با مارکو روبیو، وزیر خارجه آمریکا، دیدار کرد.
@@ -523,19 +524,6 @@ src :@IranintlTV
 ‏وزیران خارجه عربستان سعودی و آمریکا بر اهمیت حفاظت از امنیت کشتیرانی در این دو تنگه برای حفظ ثبات منطقه و ادامه جریان تجارت و زنجیره‌های تامین جهانی تاکید کردند. آنها همچنین خواستار ادامه هماهنگی میان ریاض و واشینگتن و حمایت از تلاش‌های دیپلماتیک برای حل بحران‌های منطقه شدند.
 ‏https://iranintl.com/202609282518
 03:06
-1405/07/07
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🤖 — The legendary animated show FUTURAMA has once again ended following the release of the season finale today, according to creator Matt Groening. 
-‏
-‏The show, which was already canceled twice in the past before being revived, will have 3 additional standalone movies before being officially over. 
-‏
-‏Creator Matt Groening, however, left the door open at the possibility of having the show return.
-03:04
 1405/07/07
 
 
@@ -5918,18 +5906,6 @@ src :@MilitiaNews
 
 
 
-src :@mwarmonitor
-‏🔴نخست‌وزیر اسرائیل، بنیامین نتانیاهو، از ریس دولت امارات متحده عربی، شیخ محمد بن زاید آل نهیان، خواسته است ادعایی مبنی بر اینکه او پیش از حمله ۷ اکتبر ۲۰۲۳ درباره حمله قریب‌الوقوع حماس به نتانیاهو هشدار داده بود، رد کند؛ خبرگزاری آسوشیتدپرس (AP) گزارش داده است.
-‏
-‏🔴گزارش‌ها به‌طور مشخص دست‌کم به دو کشور خارجی اشاره می‌کنند که مقام‌های ارشد یا نهادهای اطلاعاتی آنها پیش از ۷ اکتبر ۲۰۲۳، درباره احتمال یک اقدام گسترده یا تشدید تنش از سوی حماس به بنیامین نتانیاهو یا مقام‌های اسرائیلی هشدار داده بودند: امارات متحده عربی و مصر.
-‏
-‏@mwarmonitor
-14:44
-1405/07/06
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷 Iran's Supreme Leader Mojtaba Khamenei says the Arabian Sea will soon be cleared of "enemy forces."
 ‏
@@ -6663,17 +6639,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 05:49
-1405/07/06
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷 BREAKING: Eight U.S. Marines were injured in a recent Iranian cruise missile attack against a vessel in the Strait of Hormuz – NBC
-‏
-‏According to three U.S. officials, the marines were operating aboard a ‘U.S.-contracted’ vessel, rather than an actual American warship.
-‏
-‏@Middle_East_Spectator
-05:23
 1405/07/06
