@@ -1,3 +1,19 @@
+src :@Ali_bk_2
+‏Air defenses activated in Yemen’s Saada to intercept hostile targets.
+01:11
+1405/07/08
+
+
+
+
+src :@Alibk3
+‏تفعيل الدفاعات الجوية في صعدة اليمنية لتصدي أهداف معادية.
+01:11
+1405/07/08
+
+
+
+
 src :@samueltarikh
 ‏وزارت خارجه فرانسه و ایتالیا نیز از شهروندان خود خواستند، فوراً ایران را ترک کنند.
 01:06
@@ -2928,15 +2944,6 @@ src :@bricsnews
 src :@Ali_bk_2
 [عکس]
 ‏Saudi and British tanker aircraft refuel aircraft near the Yemeni border.
-20:15
-1405/07/07
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرات تزود بالوقود سعودية وبريطانية تزود الطائرات قرب الحدود اليمنية.
 20:15
 1405/07/07
 
