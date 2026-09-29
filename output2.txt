@@ -1,3 +1,36 @@
+src :@Ali_bk_2
+‏Kepler Marine statements:
+‏
+‏Oil transportation operations through the Strait of Hormuz amount to 9 million barrels per day.
+12:32
+1405/07/07
+
+
+
+
+src :@Alibk3
+‏بيانات كبلر البحرية: 
+‏
+‏عمليات نقل النفط عبر مضيق هرمز تبلغ 9 ملايين برميل يوميا
+12:32
+1405/07/07
+
+
+
+
+src :@didarnews1
+[عکس]
+‏🔴تجمعی در اعتراض به محکومیت حمید رسایی
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+12:30
+1405/07/07
+
+
+
+
 src :@naya_foriraq
 ‏🔻🇷🇺‏الناتو: روسيا تواصل حملتها العدائية ضد أعضاء الحلف.
 12:25
@@ -94,7 +127,7 @@ src :@rnintel
 ‏
 ‏The ENDF and its allies, the Tigray Peace Forces, have captured Finarwa, Abergele and Zamra. Overnight, the ENDF attempted to advance towards the city of Samre, although it remains unconfirmed whether the offensive succeeded.
 ‏
-‏The loss of Samre would be catastrophic for the TDF, as the city lies just 38km south of the Tigray capital, Mekele.
+‏The loss of Samre would be catastrophic for the TDF, as the major town lies just 38km south of the Tigray capital, Mekele.
 ‏
 ‏Six years ago, Samre witnessed some of the fiercest battles of the TPLF-ENDF war. The town was captured and held by the TPLF for much of the conflict.
 ‏
@@ -910,8 +943,7 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏✈️🇺🇦اوکراین جایگزین بومی پهپادهای چینی ماویک را ساخت؛ معرفی اسلاویک
 ‏
-‏⚜شرکت اوکراینی ویری ایندستریز پهپاد شناسایی تاکتیکی جدیدی به‌نام اسلاویک را به‌عنوان جایگزین تولید داخلی کوادکوپترهای چینی رونمایی کرد؛ این پهپاد با سیستم کنترلی مشابه ماویک طراحی شده، پایداری پروازی تا ۱.۵ ساعت و برد عملیاتی تا ۳۰ کیلومتر دارد.
-‏
+‏⚜شرکت اوکراینی ویری ایندستریز پهپاد شناسایی تاکتیکی جدیدی به‌نام اسلاویک را به‌عنوان جایگزین تولید داخلی کوادکوپترهای چینی رونمایی کرد؛ این پهپاد با سیستم کنترلی مشابه ماویک طراحی شده، پایداری پروازی تا ۱.۵ ساعت و برد عملیاتی تا ۳۰ کیلومتر دارد
 ‏🆔@WAR_ROOM_NEWS
 10:59
 1405/07/07
@@ -3484,28 +3516,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Bloomberg:
-‏
-‏Qatar extends the suspension of some of its obligations related to LNG shipments to Asia and Europe for another month due to continued disruptions to navigation in the Strait of Hormuz, increasing pressure on global energy supplies.
-00:32
-1405/07/07
-
-
-
-
-src :@Alibk3
-[عکس]
-‏بلومبرغ:
-‏
-‏قطر تمدد تعليق بعض التزاماتها المتعلقة بشحنات الغاز الطبيعي المسال إلى آسيا وأوروبا لشهر إضافي، بسبب استمرار اضطرابات الملاحة في مضيق هرمز، ما يزيد الضغوط على إمدادات الطاقة العالمية.
-00:32
-1405/07/07
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says Iran is ready to declare it will never create nuclear weapons.
 ‏
@@ -3553,23 +3563,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 00:15
-1405/07/07
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Israeli Prime Minister's Office also issued a statement following the one issued by the UAE:
-‏
-‏Prime Minister Benjamin Netanyahu and his wife visited the United Arab Emirates yesterday at the invitation of UAE President Sheikh Mohammed bin Zayed.
-‏
-‏The visit focused on strengthening relations between the two countries and on regional challenges. The National Security Adviser, Mossad Director, Military Secretary, and Diplomatic Adviser also took part.
-‏
-‏Another statement from the Prime Minister’s Office, this time denying the report by an Israeli state enemy newspaper that Netanyahu asked MBZ to deny that he had warned him before October 7:
-‏
-‏This is fake news. The visit dealt exclusively with strengthening relations between the two countries and regional challenges.
-00:12
 1405/07/07
 
 
@@ -4051,17 +4044,6 @@ src :@rnintel
 
 
 
-src :@selena_updates
-[عکس]
-‏Official UAE statement: The President of the United Arab Emirates, Sheikh Mohamed bin Zayed Al Nahyan, received Israeli Prime Minister Benjamin Netanyahu, who visited the UAE yesterday, Sunday. During the meeting, the two leaders discussed bilateral relations between the UAE and Israel and ways to strengthen and develop them.
-‏
-‏The announcement marks the first time in the UAE’s history that it has publicly acknowledged such a meeting with the Israeli PM.
-23:01
-1405/07/06
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ استفاده از بمب 227 کیلوگرمی Mk 82 به همراه سیستم هدایت لیزری LGK-82 شرکت ترکی ASELSAN توسط جنگنده ضربتی مدرن‌شده Su-25ML نیروی هوایی جمهوری آذربایجان.
@@ -4372,19 +4354,6 @@ src :@Shin_Persian
 
 
 
-src :@didarnews1
-[عکس]
-‏🔴مرندی: امارات نباید زمانی که اوضاع از هم می‌پاشد، شکایتی داشته باشد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-22:02
-1405/07/06
-
-
-
-
 src :@rnintel
 ‏🇱🇧🇮🇱⚡️- Heavy clashes between Hezbollah and the Israeli Defense Forces reported in Mansouri, southern Lebanon.
 21:57
@@ -4505,19 +4474,6 @@ src :@samueltarikh
 ‏12 جنگنده آمریکایی در 24 ساعت گذشته به پایگاه هوایی اوودا در جنوب اسرائیل رسیدند و به نیروهای آمریکایی دیگری که از قبل در این کشور مستقر بودند،
 ‏پیوستند، مقامات امنیتی اسرائیل گفته‌اند که این استقرار، بخشی از تحرکات گسترده‌تر آمریکا برای انتقال تجهیزات هوایی در سراسر خاورمیانه است.
 21:40
-1405/07/06
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Overnight on Monday, IDF observation posts and the Israeli Air Force’s Aerial Control Unit identified a drone crossing from Jordan into Israeli territory in an attempt to smuggle weapons.
-‏
-‏Following the identification, IDF soldiers were dispatched to the area and located the drone, which was carrying nine Kalashnikov rifles, magazines, and a handgun.
-‏
-‏The weapons were transferred to the security forces for further handling.
-21:39
 1405/07/06
 
 
@@ -6708,22 +6664,4 @@ src :@KayhanLondonChannel
 ‏
 ‏رئیس کمیسیون بهداشت و درمان مجلس شورای اسلامی چنین روندی را «بسیار عجیب و نگران‌کننده» خوانده و گفته مشخص است بیمارستان‌ها به دلیل کمبود منابع مالی، توان تأمین برخی نیازهای اولیه بیماران را ندارند.
 12:33
-1405/07/06
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‏ ‌‏
-‏شوک تحریم هوایی ایران به بازار موبایل 
-‏
-‏عبدالمهدی اسدی، عضو هیئت نمایندگان اتاق بازرگانی ایران و انجمن موبایل ایران، اعلام کرد «با توقف پروازهای عمان، عملا محموله‌های گوشی موبایل نیز وارد کشور نمی‌شود.»
-‏
-‏عضو انجمن موبایل ایران افزود «بالای ۹۰ درصد موبایل مورد نیاز کشور از طریق هوایی وارد می‌شود، اما به دلیل آنکه پروازهای عمان به ایران متوقف شده، در واردات کالا دچار مشکل شده‌ایم.» 
-‏
-‏اختلال در واردات به معنای افزایش قیمت گوشی در بازار ایران است. این در حالیست امرداد امسال فعالان بازار موبایل از افزایش ۵۰ درصدی قیمت‌ها از ابتدای سال خبر داده بودند. 
-‏
-‏ایالات متحده از هفته گذشته شرکت‌های هواپیمایی ایران را در فهرست تحریم‌ها قرار داد و ارائه خدمات به همه هواپیماهای ایرانی در سراسر دنیا را مشمول تحریم‌های ثانویه کرده است.
-12:29
 1405/07/06
