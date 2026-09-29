@@ -1,3 +1,35 @@
+src :@Ali_bk_2
+[عکس]
+‏Brent crude jumps to 107$ per barrel.
+05:16
+1405/07/07
+
+
+
+
+src :@Alibk3
+[عکس]
+‏خام برنت يقفز إلى 107$ للبرميل الواحد.
+05:16
+1405/07/07
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏مارکو روبیو، وزیر خارجه آمریکا، درباره دیدار خود با نواف سلام، نخست‌وزیر لبنان، گفت: «بر حمایت قاطع آمریکا از لبنان در حالی که این کشور چارچوب توافق سه‌جانبه را اجرا می‌کند، تاکید کرده‌ام.»
+‏
+‏او در شبکه اجتماعی ایکس نوشت این چارچوب «تنها مسیر دستیابی به صلحی پایدار با اسرائیل است.»
+‏
+‏به گفته روبیو، «آمریکا در کنار لبنانی مستقل و دارای حاکمیت ایستاده است؛ لبنانی عاری از نفوذ حزب‌الله و ایران.»
+‏https://iranintl.com/202609287748
+05:15
+1405/07/07
+
+
+
+
 src :@mwarmonitor
 [عکس]
 ‏🔸وزیر خزانه‌داری آمریکا؛ عملیات «اقتصادی اوت‌کَست» باعث شده ارزش ریال ایران به پایین‌ترین سطح تاریخی خود برسد. ما به تضعیف توانایی رژیم ایران برای تأمین مالی تروریسم و توسعه سلاح هسته‌ای ادامه خواهیم داد.
@@ -650,19 +682,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — OpenAI has scrapped the planned October release of its next-generation GPT-6.1 Astra model after internal testing uncovered significant safety and alignment problems, according to WSJ.
-‏
-‏The model was more capable at completing complex tasks independently but showed increased deception, including failing to accurately tell users what actions it had taken. It also had problems with “scope authorization,” sometimes continuing tasks or accessing external tools and services without first obtaining user permission.
-‏
-‏Although Astra improved issues such as “model laziness,” OpenAI concluded it did not meet the company’s safety threshold for public release.
-01:55
-1405/07/07
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️خبرگزاری صداوسیما، بامداد سه‌شنبه، به نقل از «منابع محلی» گزارش داد: «صداهای انفجار شنیده شده در قشم مربوط به شلیک‌های اخطار به شناورهای متخلف در تنگه هرمز بود. براساس این گزارش «تاکنون گزارشی از اصابت یا وقوع انفجار اعلام نشده است.»
@@ -676,24 +695,6 @@ src :@Indypersian
 
 src :@rnintel
 ‏🇺🇸⚡️- OpenAI is scrapping the release of its next-generation AI model, GPT-6.1 Astra, after tests showed higher levels of deception and a greater willingness to act outside human instructions compared to previous models, according to The Wall Street Journal.
-01:53
-1405/07/07
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏شرکت دولتی نفت سوریه اعلام کرد شامگاه دوشنبه بر اثر انفجار در یکی از شیرهای قطع جریان خط لوله گاز میان منطقه الشولا و دیرالزور آتش‌سوزی رخ داد.
-‏
-‏خبرگزاری دولتی سانا به نقل از این شرکت گزارش داد انفجار ناشی از «اقدام خرابکارانه» بوده است.
-‏
-‏بر اساس این گزارش، آتش‌سوزی انتقال گاز از تاسیسات گازی جبیسه به نیروگاه‌های تولید برق را متوقف کرد.
-‏
-‏نیروهای آتش‌نشانی دو سوی محل آتش‌سوزی را ایزوله کردند و هم‌زمان با کاهش فشار گاز، عملیات برای خاموش کردن آتش ادامه یافت.
-‏
-‏شرکت دولتی نفت سوریه جزییات بیشتری درباره عامل یا عوامل احتمالی این خرابکاری ارائه نکرد.
-‏https://iranintl.com/202609287357
 01:53
 1405/07/07
 
@@ -2138,14 +2139,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-‏هجوم يمني يستهدف نجران في السعودية.
-23:25
-1405/07/06
-
-
-
-
 src :@jangaavaran1390
 ‏جگوار ام؛ جنگنده‌ای که قرار بود از ناو هواپیمابر فرانسه عملیات کند
 ‏
@@ -2385,19 +2378,6 @@ src :@guard_warriors
 ‏✪ استفاده از بمب 227 کیلوگرمی Mk 82 به همراه سیستم هدایت لیزری LGK-82 شرکت ترکی ASELSAN توسط جنگنده ضربتی مدرن‌شده Su-25ML نیروی هوایی جمهوری آذربایجان.
 ‏
 ‏@Guard_Warriors | Mmd
-23:00
-1405/07/06
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏The security official of the Islamic Resistance, Kataib Hezbollah, Hajj Abu Mujahid al-Assaf:
-‏
-‏If the air blockade on the Islamic Republic continues after 1 October of this year, our proud people will take a clear position that could go as far as closing the entry points of the countries participating in the blockade of the faithful Iranian people.
-‏
-‏The victorious Islamic Resistance will monitor Iraqi airspace to ensure it is not violated by hostile aircraft. We will issue a warning first, and then we will shoot them down. The prime minister’s office, under his well-known leadership, must no longer be a “cashier” for American violations.
 23:00
 1405/07/06
 
