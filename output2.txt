@@ -1,3 +1,79 @@
+src :@P_raetorio
+[عکس]
+‏سازمان UKMTO از اصابت یک پرتابه به یک نفتکش در روز گذشته خبر داده است. از جزئیات این حادثه اطلاعات بیشتری موجود نیست.
+13:51
+1405/07/08
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏فوری
+‏
+‏تصویر منتشر شده از پرواز امروز دبی به مقصد تل آویو شرکت Fly Dubai که نشان میدهد Rudder هواپیما آسیب جدی دیده است .
+‏
+‏پ.ن : اطلاعات دقیق و تکمیلی تا دقایقی دیگر .
+‏
+‏
+‏#Bravo340
+‏#FlyDubai
+‏@Sky_Airlines
+13:51
+1405/07/08
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏گزارش‌های اولیه حاکی از آن است که یک پرواز دیگر از دبی به سمت تل‌آویو در میانه پرواز تغییر مسیر داده و در حال بازگشت به دبی است
+13:51
+1405/07/08
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇦🇪🇮🇱 Second Flydubai passenger airplane en route to Tel Aviv, Israel turns around mid flight.
+‏
+‏@BRICSNews
+13:51
+1405/07/08
+
+
+
+
+src :@warmonitors
+‏⚡️
+‏x.com/cym27s/status/…
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+13:51
+1405/07/08
+
+
+
+
+src :@warmonitors
+‏⚡️Another flight from Dubai to Tel Aviv is circling and returning; the reason is unclear.
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+13:51
+1405/07/08
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Photo of the Flydubai plane that made an emergency landing in Saudi Arabia.
+13:48
+1405/07/08
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️سازمان تجارت دریایی بریتانیا روز چهارشنبه هشتم مهرماه، گزارش داد که دو شب پیش (شامگاه ششم مهرماه) یک نفتکش در زمان ورود به تنگه هرمز هدف اصابت قرار گرفته است.
@@ -12,7 +88,8 @@ src :@Indypersian
 
 
 src :@thewarreporter
-‏🇮🇱🇦🇪 — Another flight from Dubai to Tel Aviv is turning back to Dubai mid-flight.
+[عکس]
+‏🇮🇱🇦🇪 — Another FlyDubai flight from Dubai to Tel Aviv is turning back to Dubai mid-flight.
 ‏
 ‏— Israeli Channel 12 | @TheWarReporter
 13:46
@@ -162,6 +239,8 @@ src :@wfwitness
 ‏⚡️🇮🇱🇦🇪 Israel’s Finance Minister Bezalel Smotrich says whoever tried to crash the plane and kill 180 Israelis must pay as if they had succeeded, along with any country or terrorist organization that sent them.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 13:41
 1405/07/08
 
@@ -2844,14 +2923,6 @@ src :@Artemis_Force
 
 
 
-src :@tabzlive
-‏🇮🇱🇦🇪⚡️ — Israeli Prime Minister Benjamin Netanyahu held consultations and monitored developments following concerns over the FlyDubai incident.  Israel’s Channel 14 reports that the preliminary suspicion is that one pilot attempted suicide, putting the aircraft…
-11:09
-1405/07/08
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴فریبرز عرب‌نیا به ایران برمی‌گردد؛ گلشیفته هم شاید بیاید، این دو بازیگر علیه حمله به ایران موضع‌گیری کردند./تابناک
@@ -2860,16 +2931,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 11:08
-1405/07/08
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏شبکه ای-۲۴ گزارش داد ایال زامیر رئیس ستاد کل ارتش اسرائیل در بحبوحه افزایش آماده‌باش ارتش اسرائیل و شرایط حساس امنیتی سفر برنامه‌ریزی‌شده خود به آمریکا را لغو کرده است زامیر قرار بود در این سفر با رئیس ستاد مشترک نیروهای مسلح آمریکا و فرمانده سنتکام دیدار کند این تصمیم پیش از اظهارات روز گذشته بنیامین نتانیاهو گرفته شده است
-‏
-‏🆔@WAR_ROOM_NEWS
-11:04
 1405/07/08
 
 
@@ -3096,14 +3157,6 @@ src :@DEJradio
 src :@jangaavaran1390
 ‏کانال ۱۲ اسرائیل گزارش داد که خدمه پرواز شامل یک خلبان روسی و یک کمک خلبان اوکراینی بودند.
 10:50
-1405/07/08
-
-
-
-
-src :@jangaavaran1390
-‏کانال ۱۲ اسرائیل گزارش داد که خدمه پرواز شامل یک خلبان روسی و یک کمک خلبان اوکراینی بودند.
-10:49
 1405/07/08
 
 
@@ -3522,39 +3575,6 @@ src :@cataphract1
 ‏⚜ هواپیما با برج مراقبت عربستان ارتباط برقرار کرده، رهگیری هواپیما دوباره روی فلایت رادار امکان پذیر شد 
 ‏
 ‏📃@Cataphract1
-10:21
-1405/07/08
-
-
-
-
-src :@warmonitors
-‏⚡️Israeli media regarding suspected Tel Aviv bound plane: It appears that this is not a security incident.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:21
-1405/07/08
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️ The plane has reappeared on the aircraft tracking application.
-‏
-‏Reports indicate that the plane made contact with Saudi authorities. 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:21
-1405/07/08
-
-
-
-
-src :@warmonitors
-‏⚡️Israeli media: There is suspicion that this is an incident of violence that occurred inside the plane, and not a security incident.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 10:21
 1405/07/08
 
@@ -7188,22 +7208,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏آمارها نشان می‌دهد سرانه مصرف گوشت در ایران در سال ۱۴۰۲ حدود ۴۱ کیلوگرم بوده، در حالی که میانگین جهانی در آن سال ۶۵ کیلوگرم گزارش شده است. با توجه به افزایش سرعت تورم و کاهش شدیدتر قدرت خرید مردم طی سه سال گذشته پیش‌بینی می‌شود سرانه مصرف گوشت در میان خانوارهای ایرانی کاهش بیشتری نسبت به سال ۱۴۰۲ را ثبت کرده است.
 13:54
-1405/07/07
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏
-‏⁠ عراقچی: منتظر پاسخ آمریکا هستیم؛ ترامپ: «من به آنها هیچ پیشنهادی ندادم!»
-‏ 
-‏-عباس عراقچی وزیر خارجه جمهوری اسلامی ایران در پایان سفر خود به نیویورک عنوان کرد که تهران، همچنان منتظر دریافت پاسخ رسمی آمریکا درباره «طرح پیشنهادی» خود برای بازگشایی تنگه هرمز است. به گفته او، این پاسخ از طریق میانجی‌های قطری به جمهوری اسلامی منتقل خواهد شد.
-‏ 
-‏- همزمان برخی منابع از جمله آکسیوس مدعی شدند که دونالد ترامپ در ازای بعضی امتیازات اقتصادی پیشنهاد بازگشایی تنگه هرمز را داده است اما ترامپ در شبکه اجتماعی «تروث سوشال» ادعاها درباره پیشنهاد گشایش اقتصادی به رژیم ایران در ازای امتیازهای مشخص هسته‌ای را تکذیب کرد.
-‏ 
-‏-یک مقام جمهوری اسلامی که خواست نامش فاش نشود، در یک مصاحبه مکتوب با «پولیتیکو» گفت که «مشکل اصلی» اینست که «به نظر می‌رسد ترامپ هنوز به موضعی روشن و منسجم درباره اینکه دقیقاً از مذاکرات چه می‌خواهد، نرسیده» و «به همین دلیل، عبور از مرحله گفتگوها و رسیدن به یک توافق مشخص و عملی دشوار است.»
-‏ 
-‏https://kayhan.london/1405/07/07/409390/
-13:51
 1405/07/07
