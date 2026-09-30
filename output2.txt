@@ -1,3 +1,33 @@
+src :@mwarmonitor
+‏🔴نتانیاهو می‌گوید عربستان سعودی خلبانی را که به خلبان دیگر حمله کرده و تلاش کرده بود پرواز فلای‌دبی را سرنگون کند، بازداشت کرده است.— آسوشیتدپرس (AP)
+‏
+‏@mwarmonitor
+19:02
+1405/07/08
+
+
+
+
+src :@mwarmonitor
+‏🔴مقام‌های امنیتی اسرائیل ارزیابی می‌کنند که مهاجم احتمالاً به‌تنهایی عمل کرده و از سوی هیچ گروه تروریستی، از جمله ایران، هدایت نشده است. موساد تحقیقات درباره این حادثه را بر عهده دارد. — کانال ۱۴
+‏
+‏🔴سه مقام اسرائیلی به رویترز گفتند که پرواز FZ1073 فلای‌دبی ممکن است هدف یک حمله تروریستی نافرجام بوده باشد؛ پس از آنکه کمک‌خلبان عمانی، کاپیتان هواپیما را با چاقو مورد حمله قرار داد.
+‏
+‏@mwarmonitor
+19:02
+1405/07/08
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇮🇷 BREAKING: Initial reports of ballistic missile launches from Iran  @Middle_East_Spectator
+19:02
+1405/07/08
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇷🇺🇺🇸 – According to an unofficial diplomatic message seen by Reuters, the Kremlin warned NATO that isolating the Russian enclave of Kaliningrad, between Poland and Lithuania, could provoke a nuclear response against the "hotheads in Europe".
@@ -75,6 +105,7 @@ src :@Farsi_Iranwire
 
 
 src :@naya_foriraq
+[عکس]
 ‏🇸🇦توقف العمليات الجوية في مطار الملك خالد الدولي بالعاصمة السعودية الرياض.
 18:53
 1405/07/08
@@ -84,7 +115,7 @@ src :@naya_foriraq
 
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇷 Footage shows an ASBM launch from Fars Province, Iran.  @wfwitness
+‏⚡️🇮🇷 Footage shows an ASBM launch from Fars Province, Iran.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:53
 1405/07/08
 
@@ -181,6 +212,8 @@ src :@wfwitness
 ‏⚡️🇸🇦 Initial reports indicate damage to the East-West oil pipeline in Saudi Arabia, and to the Ein Dar oil field.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:47
 1405/07/08
 
@@ -2364,21 +2397,6 @@ src :@MilitarryWorld
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇶 NEW: After 23 years, the U.S. and coalition withdrawal from Iraq has finally been completed
-‏
-‏All U.S. personnel and equipment have left the country towards Jordan and Turkey.
-‏
-‏The deadline of September 30th was set by the Iraqi government several years ago after increasing pressure on the American occupation forces by resistance factions and Iran.
-‏
-‏@Middle_East_Spectator
-15:46
-1405/07/08
-
-
-
-
 src :@tabzlive
 ‏🇮🇱🇦🇪⚡️ — Israel’s Transportation Minister Miri Regev has called for all Flydubai flights to Israel to be suspended following this morning’s incident on a flight from Dubai to Tel Aviv, The Times of Israel reports.
 15:45
@@ -4082,32 +4100,6 @@ src :@Artemis_Force
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 بقایای 2 موشک بالستیک Iskander-M پس از حمله شبانه در کی‌یف پیدا شد؛ شماره 9M723-2F3 روی یکی از آن‌ها دیده می‌شود.
-‏
-‏🔹️ پس از حمله شبانه به کی‌یف، بقایای 2 موشک بالستیک سامانه موشکی تاکتیکی Iskander-M در این شهر کشف شده است.
-‏
-‏🔹️ نکته قابل توجه، مشاهده شماره سریال 9M723-2F3 روی یکی از بقایای موشک‌هاست. پیش‌تر منابع اوکراینی موشک‌های جدید خانواده 9M723-2 را به نسخه‌ای موسوم به Bora-M که با نام Iskander-1000 نیز شناخته می‌شود، مرتبط کرده بودند.
-‏
-‏🔹️ با این حال، صرف مشاهده این شماره روی بقایای موشک برای تأیید ارتباط آن با Bora-M یا اثبات ورود این نسخه به خدمت عملیاتی کافی نیست و برای تعیین دقیق مدل موشک به شواهد فنی بیشتری نیاز است.
-‏
-‏#Russia
-‏#Ukraine
-‏#IskanderM
-‏#Iskander1000
-‏#BoraM
-‏#9M723
-‏#BallisticMissile
-‏#MilitaryNews
-‏
-‏@RASTAKHIZ_PERSIAN
-13:00
-1405/07/08
-
-
-
-
 src :@bricsnews
 ‏JUST IN: Tanker struck in the Strait of Hormuz.
 ‏
@@ -5319,17 +5311,6 @@ src :@tglobaleye
 
 
 
-src :@mwarmonitor
-[عکس]
-‏✈️پرواز فلای‌دبی از دبی به تل‌آویو، هنگام فرود دستی و در حالی که در حال بازگشت و تغییر مسیر بود، برای مدت کوتاهی کد ۷۷۰۰ (کد بین‌المللی اعلام وضعیت اضطراری) و سپس کد ۷۵۰۰ (کد بین‌المللی هواپیماربایی) را مخابره کرد.
-‏
-‏@mwarmonitor
-09:23
-1405/07/08
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏🪐 زمین در میان حلقه‌های زحل
@@ -6358,24 +6339,4 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖
 ‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
 19:23
-1405/07/07
-
-
-
-
-src :@MilitiaNews
-[عکس]
-‏ناسا به دنبال بازگرداندن SR-71 بلک برد!🇺🇸
-‏
-‏⚜️ گزارش‌ها حاکی از آن است که ناسا با تعدادی از متخصصان قدیمی برنامه SR-71 تماس گرفته تا احتمال بازگرداندن این هواپیما به پرواز را بررسی کند. هم‌زمان، رئیس ناسا تصویری مرموز از یک هواپیمای پرسرعت نمایش داده و از برنامه احیای هواپیماهای آزمایشی X-Plane خبر داده است.
-‏
-‏⚜️ این هواپیما آخرین SR-71 ساخته‌شده است و آخرین پرواز خانواده بلک‌برد را نیز در ۹ اکتبر ۱۹۹۹ انجام داد. سرعت حدود ۳.۲ ماخ و توان پرواز در ارتفاع ۸۵ هزار پا، حتی امروز هم آن را به گزینه‌ای جالب برای تحقیقات پرواز پرسرعت تبدیل می‌کند؛ قابلیت‌هایی که ترکیب آنها در هیچ‌یک از هواپیماهای فعلی ناسا وجود ندارد.
-‏
-‏⚜️ البته روشن‌کردن دوباره موتورهای J58 پس از این همه سال، تأمین سوخت مخصوص JP-7 و احیای تجهیزات نگهداری بلک‌برد کار ساده‌ای نیست و هنوز مشخص نشده ناسا می خواهد با این پرنده سیاه چه کند.
-‏
-‏پ.ن: برای کسانی هم که با Call of Duty: Black Ops 1 خاطره دارند، بلک‌برد همان هواپیمای معروف مرحله WMD است که در نقش کابین عقب آن، از ارتفاع بسیار بالا عملیات تیم روی زمین را هدایت می‌کردیم 🫠
-‏
-‏🖋#Ethan 
-‏📃@Cataphract1
-19:00
 1405/07/07
