@@ -1,3 +1,81 @@
+src :@Mena_Live
+‏The United States is sending a third aircraft carrier to the Middle East. The aircraft carrier in question is the USS Roosevelt./Israeli Channel 16  @Mena_Live
+18:17
+1405/07/09
+
+
+
+
+src :@Ali_bk_2
+‏US official:
+‏
+‏More than 2,000 Marines are heading to the Middle East aboard an amphibious assault group.
+‏
+‏By the end of next November, 3 aircraft carriers and 2 amphibious assault groups will be deployed around Iran.
+18:17
+1405/07/09
+
+
+
+
+src :@Alibk3
+‏مسؤول أميركي:
+‏
+‏ أكثر من 2000 جندي من وحدة المارينز يتوجهون للشرق الأوسط على متن مجموعة الإنزال.
+‏
+‏بحلول نهاية نوفمبر المقبل ستنتشر في محيط إيران 3 حاملات طائرات ومجموعتي إنزال.
+18:17
+1405/07/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇸🇾🇱🇧🇹🇷⚡️ — Syrian government officials and Hezbollah secretly held face-to-face talks in Türkiye in September, marking the first known meeting between the two sides since Bashar al-Assad’s fall, according to Reuters.   The talks were facilitated by Turkish…
+18:15
+1405/07/09
+
+
+
+
+src :@jangaavaran1390
+‏یک مقام ارشد آمریکایی به شبکه ۱۲: ارتش ایالات متحده یک ناو هواپیمابر دیگر و یک واحد دوم از تفنگداران دریایی را به خاورمیانه اعزام می‌کند.
+18:13
+1405/07/09
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏⚡️ گفت‌وگوی امنیت دیجیتال؛ محدودیت‌های گوگل برای کاربران ایران
+‏
+‏🔹 جمعه ساعت ۲۲:۳۰ به‌وقت تهران از تلویزیون ایران‌وایر
+‏
+‏🔸 مهمانان این برنامه: امیر رشیدی، پژوهش‌گر دسترسی به اینترنت و موسی برزین، حقوق‌دان
+‏
+‏👈 برنامه «امنیت دیجیتال»، شامگاه هر جمعه، ساعت ۲۲:۳۰ به‌وقت ایران، از تلویزیون ایران‌وایر پخش می‌شود.
+‏
+‏مجموعه برنامه‌های «امنیت دیجیتال» را می‌توانید در کانال یوتیوب ایران‌وایر به‌طور کامل تماشا کنید.
+‏
+‏@Farsi_Iranwire
+18:13
+1405/07/09
+
+
+
+
+src :@Mena_Live
+‏The United States is sending a third aircraft carrier to the Middle East. The aircraft carrier in question is the USS Roosevelt./Israeli Channel 16
+‏
+‏@Mena_Live
+18:12
+1405/07/09
+
+
+
+
 src :@Navy_Iranian
 [عکس]
 ‏به نظر چینی ها پس از بازار یابی گسترده j_10 ce پس از عملکرد ان در جنگ هند و پاکستان در کشور های آسیایی میانه و شمال آفریقا ، اکنون به دنبال ضادر کردن جی ۱۰ به آذربایجان است
@@ -115,7 +193,7 @@ src :@jangaavaran1390
 
 src :@tabzlive
 [عکس]
-‏🇷🇺❌🇺🇦 — A Ukrainian MiG-29 fighter jet from the 40th Tactical Aviation Brigade was shot down, killing its pilot, according to the Ukrainian Air Force.
+‏🇷🇺❌🇺🇦 — A Ukrainian MiG-29 fighter jet from the 40th Tactical Aviation Brigade was was hit by a Russian missile, killing its pilot, according to the Ukrainian Air Force.
 18:04
 1405/07/09
 
@@ -1682,16 +1760,6 @@ src :@Americana_ir
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیمروزی | پنج‌شنبه ۹ مهر
-‏@iranintlTV
-16:38
-1405/07/09
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇸🇦/🇾🇪 Current situation on the Taizz front, updated map:
@@ -2421,14 +2489,6 @@ src :@ClashReport
 ‏Both UK and EU officials are privately sceptical of Andy Burnham’s suggestion that he could reverse Brexit, while Brussels is also wary of continued changes in British policy.
 ‏
 ‏Source: Bloomberg
-15:41
-1405/07/09
-
-
-
-
-src :@tabzlive
-‏🇺🇸⚡️ — President Trump to TIME: I have the highest of IQs. I have the highest. I'm fine.
 15:41
 1405/07/09
 
@@ -3669,15 +3729,6 @@ src :@mwarmonitor
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏بر اساس تصاویر دیروز روسیه برای حمله به خطوط انتقال برق از یک نسخه از پهپاد گران ۴ استفاده می‌کرده که دارای دو بیلبیلک در دو طرف سر مبارک بوده ولی مشخص نیست که این بیلبیلک‌ها چه وظیفه‌ای دارند
-13:40
-1405/07/09
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇸🇾🇱🇧🇱🇧🇹🇷 Reuters: Syrian government officials and Hezbollah representatives held secret face-to-face talks in Turkey last month, the first known meeting between the longtime foes, according to six sources. 
@@ -4522,18 +4573,6 @@ src :@rus_cosmos
 ‏
 ‏
 ‏@rus_cosmos
-11:59
-1405/07/09
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرده است که بحرین به «فالکون استرایک»، نخستین یگان چندملیتی پهپادهای تهاجمی یک‌طرفه در جهان، می‌پیوندد. بحرین نخستین کشور منطقه است که مشارکتش در این نیرو به‌طور علنی اعلام می‌شود.
-‏بخوانید: https://iranwire.com/fa/news-1/158325
-‏
-‏@Farsi_Iranwire
 11:59
 1405/07/09
 
