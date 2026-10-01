@@ -1,3 +1,21 @@
+src :@Ali_bk_2
+[عکس]
+‏Air traffic at Riyadh Airport has stopped now.
+02:05
+1405/07/10
+
+
+
+
+src :@Alibk3
+[عکس]
+‏توقف حركة الملاحة الجوية في مطار الرياض الآن.
+02:05
+1405/07/10
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Andy Burnham’s government is looking for a British alternative to U.S. tech firm Palantir for major NHS and Ministry of Defence contracts as part of its “Buy British” push.
@@ -1561,15 +1579,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏سقوط شظايا اعتراض سعودي في محافظة خميس مشيط نتج.
-23:33
-1405/07/09
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏عرض ادب و احترام
@@ -1759,18 +1768,6 @@ src :@tabzlive
 [عکس]
 ‏🇷🇺⚡️ — A Russian Mi-8 helicopter crashed in the Anninsky District of the Voronezh Oblast, killing all 3 crew members.
 23:26
-1405/07/09
-
-
-
-
-src :@Ali_bk_2
-‏Informed source:
-‏
-‏Netanyahu’s plan to win the election includes dragging Trump into a new predicament with Iran.
-‏
-‏Iran is prepared for a harsh response to any Zionist-American aggression.
-23:25
 1405/07/09
 
 
@@ -3211,18 +3208,6 @@ src :@intelslava
 
 
 
-src :@MilitarryWorld
-‏🔴خبرنگار: وضعیت حزب الله چی میشه؟
-‏
-‏ترامپ: اونا هم با ایران میرن
-‏
-‏@MilitarryWorld | Parsa
-20:56
-1405/07/09
-
-
-
-
 src :@mohem_mat
 ‏پوتین: 
 ‏
@@ -3473,18 +3458,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ:
-‏
-‏اگر ایران پشت آن حمله به هواپیما بوده باشد ضربه بسیار محکمی خواهد خورد
-‏
-‏@MilitarryWorld | Parsa
-20:34
-1405/07/09
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The U.S. has deployed the USS Theodore Roosevelt Carrier Strike Group to the Middle East as the conflict with Iran continues and Washington maintains a major naval buildup in the region. The nuclear-powered carrier departed San Diego on September 27 with Carrier Air Wing 11, a cruiser and three guided-missile destroyers, and is expected to enter the CENTCOM region in the coming weeks. It will ultimately relieve the USS George Washington, while the USS George H.W. Bush is also operating in the region.
@@ -3558,14 +3531,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 20:33
-1405/07/09
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴گزارش از هدف قرار دادن ایستگاه توزیع برق طیبه در مدینه،عربستان طی حملات هوایی حوثی‌ها  🆔@WAR_ROOM_NEWS
-20:31
 1405/07/09
 
 

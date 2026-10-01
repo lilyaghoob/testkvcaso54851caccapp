@@ -2041,18 +2041,6 @@ src :@mohem_mat
 
 
 
-src :@MilitarryWorld
-‏🔴خبرنگار: وضعیت حزب الله چی میشه؟
-‏
-‏ترامپ: اونا هم با ایران میرن
-‏
-‏@MilitarryWorld | Parsa
-20:56
-1405/07/09
-
-
-
-
 src :@mohem_mat
 ‏پوتین: 
 ‏
@@ -2182,18 +2170,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 20:35
-1405/07/09
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ:
-‏
-‏اگر ایران پشت آن حمله به هواپیما بوده باشد ضربه بسیار محکمی خواهد خورد
-‏
-‏@MilitarryWorld | Parsa
-20:34
 1405/07/09
 
 
