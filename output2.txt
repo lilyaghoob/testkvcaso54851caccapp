@@ -1,5 +1,72 @@
+src :@tabzlive
+[عکس]
+‏🇾🇪❌🇸🇦 — Another POV of the RSAF airstrikes against a site south of Sana'a, capital of Ansarallah-controlled Yemen.
+00:21
+1405/07/10
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏The Saudi aggression on the Yemeni capital, Sanaa.
+00:20
+1405/07/10
+
+
+
+
+src :@Alibk3
+[عکس]
+‏العدوان السعودي على العاصمة اليمنية صنعاء.
+00:20
+1405/07/10
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇸🇦/🇾🇪 NEW: After failing to stop the Houthi ground offensive, the Saudi Air Force carried our strikes against Sanaa
+‏
+‏@Middle_East_Spectator
+00:18
+1405/07/10
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇬🇧🇮🇷 — Reporter: "Was Iran involved in the RAF Fairford incident?"
+‏
+‏US President Trump: "It's looking like that, yeah".
+‏
+‏@TheWarReporter
+00:17
+1405/07/10
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦⚡️ — A MiG-29 of the Ukrainian Air Force was shot down, and its pilot, Captain Marat Redvanovich Mambetov, commander of a flight, from the 40th Brigade of Tactical Aviation, died, according to the Ukrainian Air Force.
+‏
+‏@Intelslava
+00:17
+1405/07/10
+
+
+
+
 src :@mamlekate
 ‏📞 فیلترینگ امشب خیلی سخت شده من فقط با پروکسی میتونم بیام تلگرام کانیفگای وی تو باکس و نپسترنت هیچکدوم کار نمیکنن
+‏
+‏📞 درود. اینترنت adsl مخابرات ما چند روزه قطه زنگم میزنی ۲۰۲۰ اصن وصل نمیشه به اپراتور. سامانه سایت هم باز نمیشه. نمیدونم فقط منطقه کاشان اینطوره یا جای دیگه هم هست.
+‏
+‏📞 از امروز صبح وی پی انی که همیشه وصل بودم بهش قطع شده باقی هم خیلی کم سرعت شدند
+‏
+‏@mamlekate_pm
 00:15
 1405/07/10
 
@@ -294,33 +361,6 @@ src :@didarnews1
 src :@tabzlive
 [عکس]
 ‏🇸🇦❌🇾🇪 — Royal Saudi Air Force airstrikes against Sana'a, Ansarallah-controlled Yemen. At least four.
-23:59
-1405/07/09
-
-
-
-
-src :@jangaavaran1390
-‏قطع و وصل شدن تموم شد. 👎| Nexora VPN📶
-‏
-‏💥سرویس‌های VIP (حجمی) : 
-‏🔸20 گیگ   → 199
-‏🔸50 گیگ   → 399
-‏🔸100 گیگ → 599
-‏━━━━━━━━━━━━━━
-‏🔥پلن های نامحدود:
-‏♾ تک‌کاربر → 199
-‏♾ دوکاربر → 349
-‏♾ سه‌کاربر → 499
-‏
-‏آخرین مقصدت برای یک اتصال بهتر💙🔝
-‏
-‏📩 خرید و تحویل آنی:
-‏🟢@Nexora_pv 
-‏🟢@Nexora_pv
-‏
-‏📣 کانال Nexora VPN:
-‏🌐https://t.me/Nexora_Tunnel
 23:59
 1405/07/09
 
@@ -2690,6 +2730,25 @@ src :@Farsi_Iranwire
 
 
 
+src :@jangaavaran1390
+[عکس]
+‏یک فروند F-35B نیروی هوایی ایتالیا برای نخستین‌بار در حالی دیده شده که غلاف توپ GPU-9/A را در زیر بدنه حمل می‌کند؛ این نخستین تأیید تصویری استفاده از این غلاف توسط یک کاربر خارجی F-35 محسوب می‌شود.
+‏
+‏اما چرا F-35B به غلاف توپ نیاز دارد؟
+‏
+‏سه نسخه F-35 از نظر توپ داخلی یکسان نیستند. F-35A تنها نسخه‌ای است که توپ GAU-22/A چهارلول ۲۵ میلی‌متری را به‌صورت داخلی در بدنه حمل می‌کند. در مقابل، F-35B به‌دلیل طراحی STOVL و نیاز به فضای داخلی برای سامانه بالابر و فن عمودی، فضای لازم برای نصب توپ داخلی را ندارد. F-35C نیز به‌دلیل طراحی متفاوت سازه و بال‌های بزرگ‌تر برای عملیات ناو هواپیمابر، توپ داخلی ندارد.
+‏
+‏بنابراین B و C در صورت نیاز به توپ، از غلاف خارجی استفاده می‌کنند؛ راهکاری که البته با افزایش سطح مقطع راداری، تا حدی از ویژگی پنهانکاری هواپیما می‌کاهد.
+‏
+‏سیستم GPU-9/A غلاف حامل توپ ۲۵ میلی‌متری GAU-22/A است؛ همان توپ چهارلول با نرخ آتش حداکثر حدود ۳۳۰۰ گلوله در دقیقه. این غلاف حدود ۲۲۰ گلوله حمل می‌کند.
+‏
+‏ایتالیا در مجموع ۴۰ فروند F-35B برای نیروی هوایی و نیروی دریایی خود سفارش داده
+21:38
+1405/07/09
+
+
+
+
 src :@MilitarryWorld
 ‏🔴وال استریت ژورنال:ترامپ اخیراً به مشاوران خود گفته است که انتظار دارد حملات به ایران از سر گرفته شود
 ‏
@@ -3500,14 +3559,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@WAR_ROOM_NEWS
-‏ترامپ می‌گوید هم اکنون من در نهایت تصمیم می‌گیرم یا ایران باید این توافق را امضا کند یا هیچ توافقی را قبول نخواهم کرد
-20:27
-1405/07/09
-
-
-
-
 src :@mwarmonitor
 ‏🔴ترامپ: «حالا باید تصمیم بگیرم؛ یا ایران توافق را امضا می‌کند، یا دیگر وجود نخواهد داشت.» 
 ‏
@@ -3764,14 +3815,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 19:56
-1405/07/09
-
-
-
-
-src :@intelslava
-‏🇷🇺⚡️ — "The world has reached a critical turning point in its development. Humanity has not yet grasped the magnitude of the changes to come. The scale of these changes is enormous, which is why there is so much debate about the future... Unfortunately, the…
-19:55
 1405/07/09
 
 
@@ -5184,22 +5227,6 @@ src :@OSINTWarfare
 
 
 
-src :@thewarreporter
-‏🇺🇸🇮🇱 — Reporter: "If Gadi Eisenkot were to win the election in Israel, could the U.S. work better with him than Netanyahu?"
-‏
-‏US President Trump: "Well, I don't know. I don't hear bad things about him... You think he's leading?"
-‏
-‏Reporter: "He's the leading opposition candidate".
-‏
-‏Trump: "Well, people have written off Bibi many, many times, just like they've written off me many, many times. I wouldn't underestimate Bibi".
-‏
-‏@TheWarReporter
-16:54
-1405/07/09
-
-
-
-
 src :@Mena_Live
 ‏Netanyahu: The pilot who attempted to hijack the plane had undergone a process of Islamic radicalization.
 ‏
@@ -5231,16 +5258,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 16:53
-1405/07/09
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇮🇷 NEW: Tayyebeh Mahrouzadeh, the mother-in-law of Ayatollah Mojtaba Khamenei, says she saw him on the night of his father’s burial in Mashhad and he personally attended the funeral
-‏
-‏@Middle_East_Spectator
-16:50
 1405/07/09
 
 
