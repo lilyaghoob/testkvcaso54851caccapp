@@ -1,8 +1,74 @@
+src :@ClashReport
+[عکس]
+‏A Ukrainian MiG-29 pilot was killed during a combat mission after his aircraft was hit by an enemy missile, Ukraine’s Air Force said.
+‏
+‏Captain Marat Mambetov ejected but did not survive.
+18:06
+1405/07/09
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇬🇧 UK begins releasing hundreds of prisoners early due to severe prison overcrowding.
+‏
+‏@BRICSNews
+18:05
+1405/07/09
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴بیژن عبدالکریمی: وضع مردم خوبه و کباب بازی میکنن و هر روز هم کلی خرید میکنن، هرکی میگه اینجور نیست دروغ میگه
+‏
+‏@MilitarryWorld | Parsa
+18:05
+1405/07/09
+
+
+
+
+src :@jangaavaran1390
+‏طبق داده‌های FlightRadar24 تا روز چهارشنبه، تعداد پروازهای بین‌المللی از فرودگاه امام خمینی تهران، پس از اعمال ممنوعیت شرکت‌های هواپیمایی ایران توسط ایالات متحده در تاریخ ۲۳ سپتامبر، ۴۲ درصد کاهش یافته است.
+18:05
+1405/07/09
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇷🇺❌🇺🇦 — A Ukrainian MiG-29 fighter jet from the 40th Tactical Aviation Brigade was shot down, killing its pilot, according to the Ukrainian Air Force.
+18:04
+1405/07/09
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏ارتش اسرائیل اعلام کرد مصعب ابو الجلال صدیق و محمد جمال محمود، دو عضو حماس که در 7 اکتبر شرکت کرده بودند را ترور کرد.
+‏
+‏@P_raetorio
+18:02
+1405/07/09
+
+
+
+
 src :@naya_foriraq
 ‏🇺🇸مسؤول أمريكي: 
 ‏حاملة الطائرات روزفلت غادرت مع مجموعتها الضاربة قاعدة سان دييغو متجهة إلى الشرق الأوسط.
 ‏
 ‏مجموعة الإنزال البحري مايكون إيلاند غادرت سان دييغو إلى الشرق الأوسط الاثنين الماضي.
+‏
+‏أكثر من 2000 جندي من وحدة المارينز يتوجهون للشرق الأوسط على متن مجموعة الإنزال.
+‏
+‏بحلول نهاية نوفمبر المقبل ستنتشر في محيط إيران 3 حاملات طائرات ومجموعتي إنزال.
+‏
+‏مع حشد كل هذه القوة في الشرق الاوسط سيكون لدى القادة خيارات كثيرة للتعامل مع إيران.
 18:00
 1405/07/09
 
@@ -2370,15 +2436,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — TIME: Would you rule out declaring a state of emergency in the lead up to the midterms unless there's widespread violence in the streets?  Trump: I don't rule anything out or in. We'll see. You mean the Insurrection Act?  TIME: Yeah.  Trump: I've never…
-15:32
-1405/07/09
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇮🇷 TIME: U.S. President Trump has said the war with Iran is taking longer than his initial six‑to‑eight‑week estimate because he “wanted to go further” and ensure Iran could not reconstitute its capabilities. 
@@ -2649,18 +2706,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-15:10
-1405/07/09
-
-
-
-
-src :@ClashReport
-‏Q: Are you considering pardoning members of your administration prior to the end of your term?
-‏
-‏Trump: Yeah, sure I’d do that. Sleepy Joe Biden, he gave pardons to everyone.
-‏
-‏Source: TIME
 15:10
 1405/07/09
 
@@ -3186,16 +3231,6 @@ src :@Indypersian
 src :@jangaavaran1390
 ‏سخنگوی ارتش فرانسه: یک ناو جنگی فرانسوی که در چارچوب یک ماموریت در دریای سرخ فعالیت می‌کند، در طول هفته گذشته، 10 کشتی را از تنگه باب‌المندب همراهی کرده است.
 14:17
-1405/07/09
-
-
-
-
-src :@MilitarryWorld
-‏🔴نایب رئیس مجلس نیکزاد: آمریکا هرگز نمی‌تواند صادرات نفت ما را به صفر برساند
-‏
-‏@MilitarryWorld | Parsa
-14:15
 1405/07/09
 
 
@@ -4365,14 +4400,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 12:06
-1405/07/09
-
-
-
-
-src :@jangaavaran1390
-‏دولت ترامپ به فرانسه و آلمان هشدار داد ذخایر اضطراری گازوئیل را آزاد کنند، وگرنه صادرات گازوئیل آمریکا ممنوع می‌شود. آمریکا از اتحادیه اروپا خواسته ۱۲۰ میلیون بشکه گازوئیل را در ۶ ماه آزاد کند تا پیش از انتخابات میان‌دوره‌ای نوامبر قیمت سوخت کاهش یابد.
-12:05
 1405/07/09
 
 
@@ -6806,32 +6833,6 @@ src :@Navy_Iranian
 [عکس]
 ‏سانحه در آیزنهاور!  ظاهراً یک جنگنده ۲ سرنشینه نیروی دریایی آمریکا از وینگ سوم (CAW-3) در حین فرود بر روی ناو هواپیمابر یواس‌اس دوایت آیزنهاور (CVN-69) در نزدیکی سواحل ایالت ویرجینیا دچار حادثه شده و هر ۲ خلبان با موفقیت ایجکت کرده و بازیابی شدند.  علاوه‌بر…
 18:39
-1405/07/08
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏UAV activity, west of Tehran
-‏
-‏Tehran Province
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/cYUBo22zdwUlWRlUR-0z_iik
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت پهپادی، غرب تهران
-‏
-‏استان تهران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/cYUBo22zdwUlWRlUR-0z_iik
-‏
-‏𝕏  ·  @shin_persian
-18:27
 1405/07/08
 
 
