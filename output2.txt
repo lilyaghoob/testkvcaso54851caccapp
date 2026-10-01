@@ -1,3 +1,59 @@
+src :@Indypersian
+[عکس]
+‏⭕️مهدی بالی با ضربه فنی حریف قزاقستانی به برنز بازی‌های آسیایی رسید
+‏
+‏♦️مهدی بالی، نماینده وزن ۹۷ کیلوگرم تیم ملی کشتی فرنگی ایران، در دیدار رده‌بندی بازی‌های آسیایی ناگویا ۲۰۲۶، اولویف از قزاقستان را ضربه فنی کرد و مدال برنز گرفت.
+‏
+‏بالی در دور نخست با نتیجه ۷ بر صفر ابراهیم محمد از عربستان سعودی را شکست داد و در یک‌چهارم نهایی نیز با برتری ۱۰ بر صفر مقابل اوزور ژوژوپبیکوف از قرقیزستان به جمع چهار نفر پایانی رسید. او در نیمه‌نهایی با نتیجه نزدیک ۵ بر ۴ مغلوب یوری ناکازاتو از ژاپن شد و از راه‌یابی به فینال بازماند.
+‏
+‏@indypersian
+14:49
+1405/07/09
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇪🇹⚡- Complete collapse of Tigray Defense Forces positions in the southwest Tigray region.
+‏
+‏Ethiopian troops, ENDF, have advanced north of Alamata, capturing the strategic height of Grat Kahsu. The fate of the city of Korem remains unknown, as unconfirmed reports circulate it has fallen to ENDF control.
+‏
+‏ENDF have advanced along the Alamata Road northeast, capturing Tao and Kukufto. Meanwhile, ENDF-allied Tigray Peace Forces have seized almost the entire Tigray southeastern countryside.
+‏
+‏Ethiopian forces have also recaptured Erebti in the Afar region from the Uguugumo.
+‏
+‏Map key:
+‏- Purple: Ethiopian military forces,
+‏- Red: Tigray Defense Forces,
+‏- Orange: Uguugumo,
+‏- Yellow: Fano areas of operations.
+14:49
+1405/07/09
+
+
+
+
+src :@Ali_bk_2
+‏Trump to Time magazine:
+‏
+‏We have a slight shortage in the stockpiles of some munitions, and we may return to bombing Iran after the midterm elections
+14:48
+1405/07/09
+
+
+
+
+src :@Alibk3
+‏‏ترامب لمجلة التايم: 
+‏
+‏‏ يوجد لدينا نقص قليل في مخزونات بعض الذخائر، ومن المحتمل ان نعود لقصف إيران بعد الانتخابات النصفية
+14:48
+1405/07/09
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏«طیبه ماهروزاده»، مادر همسر «مجتبی خامنه‌ای»، مدعی شده است که رهبر کنونی جمهوری اسلامی را شب خاکسپاری پدرش در حرم امام رضا در مشهد دیده و او از «سلامت کامل» برخوردار بوده است.
@@ -10,9 +66,17 @@ src :@Farsi_Iranwire
 
 
 
+src :@naya_foriraq
+‏الاعلام الامريكي: ترامب يعتقد أنه من الممكن تسريع قصف إيران بعد الانتخابات
+14:47
+1405/07/09
+
+
+
+
 src :@Ali_bk_2
 [عکس]
-‏Disruptions have returned to Riyadh airport again, with 6 aircraft awaiting clearance to land and flying in circles near the airport.
+‏Disruptions have returned to Riyadh airport again, with 10 aircraft awaiting clearance to land and flying in circles near the airport.
 14:46
 1405/07/09
 
@@ -21,7 +85,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏عودة الاضطرابات إلى مطار الرياض مجددًا، 6 طائرات تنتظر الإذن بالهبوط وتتخذ مسارات دائرية بالقرب من المطار
+‏عودة الاضطرابات إلى مطار الرياض مجددًا، 10 طائرات تنتظر الإذن بالهبوط وتتخذ مسارات دائرية بالقرب من المطار
 14:46
 1405/07/09
 
@@ -1585,15 +1649,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-[عکس]
-‏🇫🇷⚡️- Race-based riots in French high schools and universities have spread to dozens of locations throughout the week. Initially, it began as a movement to ask for better funding and infrastructure in poorly-funded establishments before spreading to schools…
-12:47
-1405/07/09
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏انتقاد تند روح الله جمعه ای در واکنش به سخرانی دختر حمید رسایی در تجمعات شبانه:
@@ -2993,20 +3048,6 @@ src :@bricsnews
 
 
 
-src :@IranintlTV
-[عکس]
-‏محمد موحد، نایب‌رییس کمیسیون اصل نود مجلس، در واکنش به اظهارات اسکات بسنت، وزیر خزانه‌داری آمریکا، درباره عملیات «طرد اقتصادی» علیه جمهوری اسلامی گفت آمریکا از «تحریم‌های سنتی» عبور کرده و وارد مرحله «محاصره عملیاتی» شده است.
-‏
-‏او در گفت‌وگو با سایت خانه ملت گفت: «تفاوت بنیادین میان تحریم و طرد اقتصادی در این است که آمریکا دیگر تنها به عدم معامله با ایران اکتفا نکرده بلکه با رویکردی محاصره‌گرایانه، در پی آن است که اجازه ندهد هیچ کشوری در جهان با جمهوری اسلامی ایران وارد تعامل شود.»
-‏
-‏این نماینده مجلس افزود واشینگتن با هدف قرار دادن هاب‌های تجاری و ترانزیتی منطقه، از جمله ترکیه، امارات و عمان، به دنبال مسدود کردن «شریان‌های حیاتی ارتباطی و مالی» جمهوری اسلامی و تبدیل کشورهای منطقه به ابزاری برای اجرای سیاست «فشار حداکثری» است.
-‏https://www.iranintl.com/202610016172
-10:14
-1405/07/09
-
-
-
-
 src :@Indypersian
 ‏⭕️متن‌های خلاصه‌شده با هوش مصنوعی ممکن است حافظه را تحریف کنند
 ‏
@@ -3153,19 +3194,6 @@ src :@Parvazdaroj
 ‏◆ در حال حاضر نیز عملاً با تصمیم‌گیری‌های فعلی دولت آمریکا، کمپانی بوئینگ وظیفه توسعه هر ۲ جنگنده نسل ۶ ارتش آمریکا یعنی جنگنده‌های F-47 نیروی هوایی و F/A-XX نیروی دریایی را برعهده دارد.
 ‏
 ‏@Parvazdaroj | Phoenix
-10:02
-1405/07/09
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️حمید رسایی، نماینده تهران در مجلس شورای اسلامی، روز یکشنبه پنجم مهرماه برای اجرای حکم قطعی ۱۰ ماه حبس تعزیری به بند ویژه روحانیت زندان اوین منتقل شد. این حکم در پرونده‌ای صادر شده که به انتشار مطلبی در هفته‌نامه توقیفی «۹ دی» درباره ادعای تغییر در اسناد و مصوبات مجلس مربوط است.
-‏به گزارش تسنیم، پرونده حمید رسایی در بهمن‌ماه ۱۴۰۲ و پس از شکایت نماینده حقوقی مجلس شورای اسلامی تشکیل شد. بر اساس متن شکایت، نماینده حقوقی مجلس در ۱۱ بهمن ۱۴۰۲ با عنوان «افترا و نشر اکاذیب» و «تشویش و اضطراب در افکار عمومی» علیه رسایی به دادستان دادگاه ویژه روحانیت شکایت کرد. با توجه به معمم بودن رسایی، پرونده به دادسرای ویژه روحانیت ارجاع شد.
-‏بر اساس این گزارش، رسایی پیش‌تر در نطق میان‌دستور پیش از اجرای حکم گفته بود که محمدباقر قالیباف، رئیس مجلس، از او شکایت کرده است. با این حال، مستندات پرونده که منتشر شده نشان می‌دهد شکایت رسمی از سوی نماینده حقوقی مجلس شورای اسلامی مطرح شده و شخص قالیباف به عنوان شاکی پرونده معرفی نشده است.
-‏
-‏@indypersian
 10:02
 1405/07/09
 
@@ -3428,24 +3456,6 @@ src :@thewarreporter
 src :@thewarreporter
 ‏🇮🇱🇦🇪🇮🇷 — According to assessments by the Israeli security establishment, the co-pilot likely acted independently and was not directed by any organization or country, including Iran.  Mossad is leading the investigation into the incident.  @TheWarReporter
 09:21
-1405/07/09
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏A Yemeni attack targets Jazan in Saudi Arabia.
-09:20
-1405/07/09
-
-
-
-
-src :@Alibk3
-[عکس]
-‏هجوم يمني يستهدف جازان في السعودية.
-09:20
 1405/07/09
 
 
@@ -4108,14 +4118,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:37
-1405/07/09
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸شرطة مقاطعة تكساس الأمريكية: إعتقال مشتبهاً به بعد تهديد موثوق بمهاجمة مبنى الكابيتول في تكساس.
-03:26
 1405/07/09
 
 
