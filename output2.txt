@@ -1,3 +1,43 @@
+src :@guard_warriors
+‏ضرب العجل  ۴۵ روزه ژنرال رضایی برای پایان محاصره دریایی به اتمام رسیده حال نوبت اقدامات سخت هجومی در جهت شکستن آن فرا رسیده (خ)
+‏
+‏@Guard_Warriors
+19:17
+1405/07/09
+
+
+
+
+src :@DEJradio
+[عکس]
+‏🚨⭕️ پرواز «امارات» دوبی به لندن روز پنجشنبه نهم مهرماه ۱۴۰۵ بر فراز آلمان پس از ارسال کد ۷۷۰۰ در فرانکفورت فرود‌ آمد. این کد در هوانوردی یک کد اضطراری (Emergency Squawk) است.
+‏ 
+‏وقتی خلبان یا خدمه روی ترانسپاندر هواپیما ۷۷۰۰ تنظیم می‌کنند، به کنترل ترافیک هوایی اعلام می‌شود که هواپیما با یک وضعیت اضطراری عمومی مواجه شده است.
+‏
+‏هواپیمای «فلای دوبی» به مقصد تل‌آویو که یک روز پیش از این با حادثه امنیتی روبه‌رو شد ابتدا کد ۷۷۰۰ ارسال کرد و سپس به کد ۷۵۰۰ (هواپیماربایی) تغییر کرد.
+‏
+‏#فرود_اضطراری #هواپیماربایی
+‏@DEJradio
+19:14
+1405/07/09
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏🟥در کانال A Cup of History با فنجانی از تاریخ، به تاریخ سفر کنید و از حقایق و وقایع تاریخی مطلع شوید!👇
+‏
+‏
+‏
+‏〰️〰️〰️〰️〰️〰️〰️
+‏🆔 @cupofhistory
+19:14
+1405/07/09
+
+
+
+
 src :@Navy_Iranian
 [ویدئو]
 ‏ناوهواپیمابر تئدور روزولت بندر سن‌دیگو را جهت اعزام به ماموریت ترک کرد. انتظار می‌رود این ناو به از طریق اقیانوس آرام به خاورمیانه و منطقه ماموریت سنتکام اعزام شده و جایگزین جورج واشنگتن (احتمال کمتر جایگزینی با جورج بوش) شود.  @RedLionCorps
@@ -36,7 +76,7 @@ src :@rnintel
 
 src :@tabzlive
 [عکس]
-‏🇮🇶🇺🇸⚡️ — Harakat Hezbollah al-Nujaba has released a statement calling on all U.S. forces Kuwait, Jordan, and Syria to withdraw and the end of U.S. military aircraft activity over Iraq.
+‏🇮🇶🇺🇸⚡️ — Harakat Hezbollah al-Nujaba has released a statement calling on all U.S. forces in Kuwait, Jordan, and Syria to withdraw and the end of U.S. military aircraft activity over Iraq.
 19:09
 1405/07/09
 
@@ -972,18 +1012,6 @@ src :@intelslava
 
 
 
-src :@ClashReport
-‏U.S. official to Al Jazeera:
-‏
-‏The USS Theodore Roosevelt aircraft carrier has departed its San Diego base with its carrier strike group, heading to the Middle East.
-‏
-‏By the end of November, three aircraft carriers and two amphibious groups will be deployed around Iran.
-18:25
-1405/07/09
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇸🇾🇯🇴🇰🇼🇮🇶🇮🇶 — Iran-backed Iraqi militia Harakat Hezbollah al-Nujaba:
 ‏
@@ -995,19 +1023,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 18:25
-1405/07/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏UK Seeks German Partnership in Next-Gen Fighter Jet Program
-‏
-‏Exploratory talks on GCAP offer Berlin a route to a new fighter after its joint aircraft project with France fell apart, but German officials question its fit with military needs.
-‏
-‏READ MORE
-18:24
 1405/07/09
 
 
@@ -1095,21 +1110,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 18:21
-1405/07/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Jared Kushner’s Affinity Partners holds the largest stake in Israel’s Phoenix Financial while he is also negotiating in Gaza, raising potential conflict-of-interest concerns.
-‏
-‏Phoenix has invested hundreds of millions of dollars in Israeli defense companies, while Affinity has made major gains from its Phoenix stake.
-‏
-‏Kushner’s attorney said he had no role in Phoenix’s investment decisions, while critics argue his simultaneous business and diplomatic roles warrant greater scrutiny.
-‏
-‏Source: CNN
-18:19
 1405/07/09
 
 
@@ -1346,17 +1346,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-[عکس]
-‏A Ukrainian MiG-29 pilot was killed during a combat mission after his aircraft was hit by an enemy missile, Ukraine’s Air Force said.
-‏
-‏Captain Marat Mambetov ejected but did not survive.
-18:06
-1405/07/09
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇬🇧 UK begins releasing hundreds of prisoners early due to severe prison overcrowding.
 ‏
@@ -1381,15 +1370,6 @@ src :@MilitarryWorld
 src :@jangaavaran1390
 ‏طبق داده‌های FlightRadar24 تا روز چهارشنبه، تعداد پروازهای بین‌المللی از فرودگاه امام خمینی تهران، پس از اعمال ممنوعیت شرکت‌های هواپیمایی ایران توسط ایالات متحده در تاریخ ۲۳ سپتامبر، ۴۲ درصد کاهش یافته است.
 18:05
-1405/07/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇷🇺❌🇺🇦 — A Ukrainian MiG-29 fighter jet from the 40th Tactical Aviation Brigade was was hit by a Russian missile, killing its pilot, according to the Ukrainian Air Force.
-18:04
 1405/07/09
 
 
@@ -1484,14 +1464,6 @@ src :@tglobaleye
 ‏PetroChina canceled gasoline and jet fuel shipments; Zhejiang Petrochemical has no holiday-week exports. Resumption after October 7 is uncertain. Diesel stocks are ~20 million barrels below pre-war levels; gasoline stocks are ~9 million barrels short. Source: Reuters
 ‏
 ‏The Global Eye | Subscribe ✈️
-17:56
-1405/07/09
-
-
-
-
-src :@tabzlive
-‏🇷🇺🇪🇪⚡️ — Russia's border guards have detained the Cypriot-flagged cargo ship Västerbotten in the Gulf of Finland while it was en route to Estonia's Sillamäe port, Estonia's Police and Border Guard Board confirmed.  The vessel was transiting Russian territorial…
 17:56
 1405/07/09
 
@@ -1755,14 +1727,6 @@ src :@VahidOnline
 ‏@VahidOOnLine
 ‏
 ‏📡 @VahidOnline
-17:41
-1405/07/09
-
-
-
-
-src :@tabzlive
-‏🇬🇧🇺🇸🇮🇷⚡️ — UK Prime Minister Andy Burnham: There are strong indications that Iran played a part in what happened over the weekend at RAF Fairford.   It remains an ongoing complex and serious police investigation, and of course we are working closely with our…
 17:41
 1405/07/09
 
@@ -4305,14 +4269,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 13:58
-1405/07/09
-
-
-
-
-src :@jangaavaran1390
-‏ارتش اسرائیل مدعی است در ماه گذشته ۵۰۰ هدف را در لبنان و غزه هدف قرار داده
-13:54
 1405/07/09
 
 
@@ -7169,44 +7125,4 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 19:30
-1405/07/08
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏نرخ دلار در بازار آزاد تهران امروز از ۲۵۶ هزار تومان گذشت و دادستان تهران به ضابطان قضایی دستور داد با «عوامل اخلال در بازار ارز» برخورد کنند.
-‏
-‏بر پایه داده‌های پایگاه‌های اطلاع‌رسانی طلا و ارز، دلار ۲۵۶ هزار و ۵۰۰ تومان، یورو ۲۹۰ هزار و ۵۰۰ تومان و پوند بریتانیا ۳۳۹ هزار تومان معامله شد.
-‏
-‏دلار صبح امروز ۲۵۵ هزار تومان بود و دیروز ۲۵۳ هزار و ۱۰۰ تومان، یعنی در دو روز سه هزار و ۴۰۰ تومان بالا رفته است.
-‏
-‏همزمان دادستان تهران از برخورد با فعالان بازار خبر داد و گفت ضابطان قضایی مأموریت یافته‌اند با بررسی میدانی و رصد فضای مجازی، عوامل اخلال را شناسایی و به دستگاه قضایی معرفی کنند و گزارش اقدام‌هایشان را روزانه بفرستند.
-‏
-‏نیروی انتظامی جمهوری اسلامی دوشنبه ۱۱ نفر از فعالان بازار ارز را بازداشت کرده بود.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-19:12
-1405/07/08
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏🔴 «برای کمک به پدر مجروحش رفت که  هدف گلوله قرار گرفت» 
-‏
-‏🔸هفت روز طول کشید تا خانواده محمد عباس‌زاده بتوانند پیکر تنها فرزندشان را تحویل بگیرند. در این مدت، بارها به مراجع قضایی و نظامی مراجعه کردند، اما پاسخ روشنی دریافت نکردند و تنها به آنها گفته می‌شد منتظر پیامک بمانند.
-‏
-‏🔸فشارها پس از آن نیز ادامه یافت. برخی از بستگان احضار شدند، از اعضای خانواده تعهد کتبی گرفته شد و مقام‌های امنیتی برای نحوه برگزاری مراسم و حتی روایت چگونگی کشته‌شدن محمد برای آنها محدودیت تعیین کردند.
-‏
-‏🔸خانواده با وجود این فشارها، پیکر محمد را در زادگاهش اهواز به خاک سپرد؛ در حالی که پدر مجروحش هنوز در بیمارستان بستری بود و نتوانست در مراسم خاکسپاری تنها فرزندش حضور داشته باشد.
-‏
-‏🔸سرگذشت کامل محمد عباس‌زاده را در یادبود امید بخوانید.
-‏https://www.iranrights.org/fa/memorial/story/-9241/mohammad-abbaszadeh
-‏
-‏@IranRights
-19:11
 1405/07/08
