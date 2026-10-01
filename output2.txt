@@ -1,3 +1,98 @@
+src :@mohem_mat
+‏ترامپ:
+‏
+‏من بالاترین ضریب هوشی را دارم. من بالاترین را دارم. من خوب هستم
+‏
+‏ دیشب بیشترین مقدار نفت را از تنگه هرمز عبور دادیم.
+‏
+‏اگر من رئیس‌جمهور نبودم، احتمالاً عربستان سعودی در حال حاضر وجود نداشت. اسرائیل هم همینطور. آن‌ها از روی کره زمین محو می‌شدند.
+‏
+‏@mohem_mat
+15:16
+1405/07/09
+
+
+
+
+src :@ClashReport
+‏Q: If Gadi Eisenkot were to win the election in Israel, could the U.S. work better with him than Netanyahu?
+‏
+‏Trump: Well, I don't know. I don't hear bad things about him... You think he's leading?
+‏
+‏Q: He's the leading opposition candidate.
+‏
+‏Trump: Well, people have written off Bibi many, many times, just like they've written off me many, many times. I wouldn't underestimate Bibi.
+‏
+‏Source: TIME
+15:16
+1405/07/09
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ درباره زهران ممدانی: او را دوست دارم، اما سیاست‌هایش دیوانه‌وار است
+‏
+‏@MilitarryWorld | Parsa
+15:16
+1405/07/09
+
+
+
+
+src :@ClashReport
+‏Q: There have been repeated reports that Netanyahu was warned prior to Oct. 7 about the possibility of an attack.
+‏
+‏Trump: I heard that today for the first time.
+‏
+‏Q: Reports say Egypt warned him, and the UAE warned him.
+‏
+‏Trump: I don't think so. I think if he would have known, he would have done something about it.
+‏
+‏Source: TIME
+15:14
+1405/07/09
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Disruptions have returned to Riyadh airport again, with 10 aircraft awaiting clearance to land and flying in circles near the airport.
+15:13
+1405/07/09
+
+
+
+
+src :@Alibk3
+[عکس]
+‏عودة الاضطرابات إلى مطار الرياض مجددًا، 10 طائرات تنتظر الإذن بالهبوط وتتخذ مسارات دائرية بالقرب من المطار
+15:13
+1405/07/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump on Zohran Mamdani:
+‏
+‏I like him, I think he’s great, but I think his policies are crazy. 
+‏
+‏You can’t have wealthy people leave. You can’t have companies that employ tens or thousands of people leave and go to Florida, Texas. 
+‏
+‏You’ve got to fight those companies that cherish—you’ve got to fight to keep them. And nobody’s doing that. I’ve never seen anything like it.
+‏
+‏But I do—I like him, but I think his policies are not good.
+‏
+‏Source: TIME
+15:11
+1405/07/09
+
+
+
+
 src :@didarnews1
 ‏🔴 ترامپ در مورد رد آخرین پیشنهاد ایران: چیزی را که یک سال پیش رد کردم، امروز هم نخواهم پذیرفت.
 ‏
@@ -1832,21 +1927,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@ClashReport
-[عکس]
-‏Sens. Josh Hawley and Chris Murphy plan to introduce bipartisan legislation making AI companies criminally and civilly liable when autonomous AI agents hack systems.
-‏
-‏The proposal challenges the Trump administration’s preference for industry self-regulation and its argument that existing consumer protection and liability laws are sufficient.
-‏
-‏Congress is also considering bipartisan AI “kill switch,” testing and transparency bills, but broader legislation remains stalled amid disagreements over how quickly the technology is evolving.
-‏
-‏Source: Axios
-12:52
-1405/07/09
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️خبرگزاری رویترز، روز پنجشنبه نهم مهر ماه در گزارشی اختصاصی اعلام کرد دولت دونالد ترامپ از فرانسه و آلمان خواسته است برای کاهش قیمت جهانی سوخت، از ذخایر اضطراری گازوئیل خود برداشت کنند، در غیر این صورت ممکن است آمریکا صادرات گازوئیل را ممنوع کند.
@@ -2214,36 +2294,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 12:17
-1405/07/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Türkiye has signed an agreement with the UK to acquire 12 C-130J transport aircraft, the Defense Ministry said.
-‏
-‏The first two aircraft are expected to arrive in December after maintenance in the UK, with the rest delivered gradually.
-‏
-‏Training is also underway, with six pilots and six technicians in the U.S. and 29 maintenance personnel in the UK.
-12:16
-1405/07/09
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Explosions were heard overnight in Ethiopia’s capital, Addis Ababa, as fighting in northern Ethiopia escalates.
-‏
-‏A source linked to the opposition alliance fighting federal forces claimed it carried out several drone strikes in the capital, including against military headquarters.
-‏
-‏If confirmed, it would be the first known drone attack by anti-government forces on Addis Ababa. 
-‏
-‏Ethiopia had already banned drone flights over the capital and surrounding areas for security reasons.
-‏
-‏Source: Reuters
-12:14
 1405/07/09
 
 
@@ -3148,14 +3198,6 @@ src :@didarnews1
 
 
 
-src :@MilitarryWorld
-‏🗓️نه مهر ساعت ۲۲:۱۵ به وقت ایران   🏧 10٪ بونوس شارژ ریالی و کریپتو  💥آپشن‌های متنوع با بالاترین ضرایب   🧾انواع روش‌های شارژ   ✏️پشتیبانی ۲۴ ساعته  🤑واریز جوایز در سریعترین زمان   📌لینک اصلی سایت 👇 Https://brool90.com/  🔥هیجان را در بت روول تجربه کنید🔥  کانال…
-10:20
-1405/07/09
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️روز چهارشنبه هشتم مهرماه، محمد حافظ حکمی، معاون فناوری، نوآوری و امور بین‌الملل وزیر ارتباطات و فناوری اطلاعات، درباره گسترش استفاده از اینترنت ماهواره‌ای استارلینک در ایران هشدار داد و گفت در صورت فراگیرشدن این فناوری، در شرایط بحرانی ممکن است حکومت برای قطع دسترسی کاربران به آن، ناچار به قطع برق شود.
@@ -3752,21 +3794,6 @@ src :@bricsnews
 ‏JUST IN: 🇨🇳🇹🇼 President Xi Jinping says China must "resolutely crack down" on Taiwan independence forces and advance "national reunification."
 ‏
 ‏@BRICSNews
-08:51
-1405/07/09
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏فارس نوشت
-‏
-‏حجت‌الاسلام والمسلمین پناهیان، حاج حسین یکتا و حاج سعید حدادیان از جمله فعالان جبهه فرهنگی انقلاب در جریان سفر به لبنان، با خانواده شهید سیدعباس موسوی و شهید سیدحسن نصرالله دیدار کردند.
-‏
-‏در این دیدار، چفیه و انگشتر متبرک رهبر معظم انقلاب اسلامی ایت الله مجتبی خامنه ای به خانوادۀ شهدا اهدا شد.
-‏
-‏@mohem_mat
 08:51
 1405/07/09
 
