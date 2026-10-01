@@ -1,3 +1,22 @@
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇸🇦/🇾🇪 Current situation on the Taizz front, updated map:
+‏
+‏– Ansarallah forces have managed to advance on the eastern outskirts of Taizz city in the ‘Kalabah’ area.
+‏
+‏– In the West, Ansarallah have advanced through the Bani Bakari area.
+‏
+‏– In the East, Ansarallah have captured and advanced inside Sama and Al-Aqrood.
+‏
+‏– In the South-East, they have advance towards Hayjah Al-Abd and blown up the bridge on the road to Al-Turbah.
+‏
+‏@Middle_East_Spectator
+16:36
+1405/07/09
+
+
+
+
 src :@Americana_ir
 [عکس]
 ‏🔻ترامپ احتمال تشدید حملات هوایی علیه ایران پس از انتخابات میان‌دوره‌ای را رد نکرد
@@ -1860,16 +1879,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-‏🇪🇹🇪🇹⚡️ — Explosions were heard overnight in Ethiopia’s capital Addis Ababa, according to Reuters, citing three diplomatic sources. 
-‏
-‏A source linked to the opposition alliance fighting government forces claimed it carried out several drone strikes in Addis Ababa, including attacks targeting the military headquarters.
-14:17
-1405/07/09
-
-
-
-
 src :@MilitarryWorld
 ‏🔴نایب رئیس مجلس نیکزاد: آمریکا هرگز نمی‌تواند صادرات نفت ما را به صفر برساند
 ‏
@@ -2283,21 +2292,6 @@ src :@mwarmonitor
 src :@jangaavaran1390
 [عکس]
 ‏بر اساس تصاویر دیروز روسیه برای حمله به خطوط انتقال برق از یک نسخه از پهپاد گران ۴ استفاده می‌کرده که دارای دو بیلبیلک در دو طرف سر مبارک بوده ولی مشخص نیست که این بیلبیلک‌ها چه وظیفه‌ای دارند
-13:40
-1405/07/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇸🇾🇱🇧🇹🇷⚡️ — Syrian government officials and Hezbollah secretly held face-to-face talks in Türkiye in September, marking the first known meeting between the two sides since Bashar al-Assad’s fall, according to Reuters. 
-‏
-‏The talks were facilitated by Turkish security and intelligence agencies. Iran was reportedly disappointed that they didn’t take part directly.
-‏
-‏Syria asked Hezbollah to stop cross-border arms smuggling and dismantle remaining cells in Syria. They assured Hezbollah it would not intervene militarily in Lebanon to disarm the group. 
-‏
-‏Hezbollah pledged not to interfere in Syrian affairs but did not directly respond to the other Syrian requests, and no final agreement was reached.
 13:40
 1405/07/09
 
@@ -2739,17 +2733,6 @@ src :@Artemis_Force
 ‏2/2
 ‏
 ‏@artemis_force
-13:10
-1405/07/09
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇩🇪🇫🇷⚡️ — The Trump administration has told France and Germany to release emergency diesel stocks to help lower global fuel prices, or potentially face a U.S. diesel export ban, according to Reuters. 
-‏
-‏The U.S. wants the EU to release around 120 million barrels of diesel over six months as Trump seeks to reduce fuel prices ahead of the November midterm elections.
 13:10
 1405/07/09
 
@@ -6655,22 +6638,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 16:39
-1405/07/08
-
-
-
-
-src :@samueltarikh
-‏کپلر از جهش صادرات روزانه نفت کشورهای عرب منطقه به دست‌کم 16 میلیون بشکه در روز های اخیر خبر داد که بدون احتساب ایران ،با سطح قبل از جنگ خاورمیانه برابری می‌کند.
-16:33
-1405/07/08
-
-
-
-
-src :@samueltarikh
-‏طبق گزارش سازمان تجارت دریایی بریتانیا:
-‏
-‏شب گذشته ایران به 3 نفتکش در تنگه هرمز حمله کرده است.
-16:32
 1405/07/08
