@@ -1,17 +1,50 @@
-src :@Ali_bk_2
-‏The coalition:
+src :@selena_updates
+[عکس]
+‏Ethiopia is sliding back into major war nearly 4 years after the 2022 Pretoria agreement ended the devastating Tigray conflict. 
 ‏
-‏The Houthis targeted the Taiba power distribution station in Medina.
-19:48
+‏Fighting erupted on multiple fronts in late September after the Tigray People’s Liberation Front (TPLF) joined six other armed movements — including the Oromo Liberation Army and Amhara Fano National Movement — in a new alliance seeking to remove Prime Minister Abiy Ahmed’s government. Tigrayan forces seized the airports at Mekelle, Aksum and Shire and pushed into neighboring Afar and Amhara, before federal forces and allied militias launched counteroffensives toward Tigray.
+‏
+‏The fighting is already producing a major humanitarian crisis. Around 150,000 people have been displaced in Afar, hundreds of wounded have flooded northern hospitals, communications have been disrupted across Tigray and air and drone strikes have hit multiple areas.
+‏
+‏The conflict also risks becoming regional as Addis Ababa accuses Eritrea, Sudan and Egypt of supporting its opponents, allegations those governments deny; Afar authorities have separately accused Eritrean forces of directly joining the fighting.
+‏
+‏Ethiopia has closed its embassy in Eritrea and has demanded 10 Eritrean officials to leave Addis Ababa within 48 hours.
+‏
+‏The war had now reached the capital. Multiple explosions rocked Addis Ababa overnight, including near Ethiopia’s military headquarters, after the government abruptly banned drone flights over the capital. A source linked to the opposition alliance said it carried out several drone strikes in Addis Ababa. This is the first known anti-government drone attacks on the capital and a major expansion of a conflict previously concentrated hundreds of kilometers to the north.
+19:50
 1405/07/09
 
 
 
 
-src :@Alibk3
-‏‏التحالف: 
+src :@bricsnews
+‏JUST IN: 🇷🇺 Russian President Putin says Russia does not plan to attack any European countries.
 ‏
-‏استهداف الحوثي لمحطة طيبة لتوزيع الكهرباء في المدينة المنورة.⁩
+‏"Not in 2030, not in 2050."
+‏
+‏@BRICSNews
+19:49
+1405/07/09
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارش از هدف قرار دادن ایستگاه توزیع برق طیبه در مدینه،عربستان توسط حوثی‌ها
+19:49
+1405/07/09
+
+
+
+
+src :@jangaavaran1390
+‏مصاحبه کننده تایم: آخر هفته پیشنهاد آتش‌بس ایران را رد کردید. می‌توانید بگویید چرا؟
+‏
+‏ترامپ: چون چیزهایی که یک سال پیش حاضر نبودم تأیید کنم، امروز هم تأیید نمی‌کنم.
+‏
+‏مصاحبه‌کننده: می‌توانید مثالی بزنید؟
+‏
+‏ترامپ: پیشنهادی داده بودند که تنگه را باز کنند. شما بعضی از جزئیاتش را دیدید، نه همه را. اما کافی نبود؛ حتی نزدیک به کافی هم نبود.
 19:47
 1405/07/09
 
@@ -29,7 +62,7 @@ src :@Mena_Live
 
 
 src :@naya_foriraq
-‏طيبة
+‏🇸🇦🇾🇪السعودية تعترف باستهداف مباشر للقوات المسلحة اليمنية لمحطة الطيبة الكهربائية وخروج عدة محولات فيها عن الخدمة.
 19:46
 1405/07/09
 
@@ -1821,26 +1854,6 @@ src :@mohem_mat
 
 
 
-src :@IranintlTV
-‏🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنجشنبه ۹ مهر
-‏
-‏🔹سال ۹۲ پرشیا خریدم ۱۸ میلیون، الان رفتم گوشت مرغ و کمی خواربار خریدم، شد ۳۰ میلیون تومان. لعنت به طرفداران جمهوری اسلامی، لعنت به پزشکیان، لعنت به قالیباف، لعنت به تمامی پس‌مانده جمهوری اسلامی.
-‏
-‏🔹وزیر ابله و نادان آموزش و پرورش اعلام کرد که معلمانی که استعفا داده‌اند معلم نبودند. مردک احمق، یعنی می‌خوای بگی الان وضعیت حقوقی و معیشت ما معلم‌ها خیلی خوبه؟
-‏
-‏🔹رشت و میدان شهرداری دیگه حال‌وهوای قبل رو نداره. یک مشت ارزشی دور هم جمع شدن، فقط سروصدا می‌کنن. تمامی مغازه‌دارها شاکی بودن و ناراحت. ۶ مهرماه این ارزشی‌ها یک دختر رو به خاطر نداشتن روسری گرفتن و زمانی که مردم شروع به فریاد کشیدن کردن، ارزشی‌ها تیر هوایی زدن.
-‏
-‏🔹تمام رشت شده مامور، اون هم با اسلحه‌ای که پزشکیان می‌گفت ماموران حکومت اصلاً نداشتن.
-‏
-‏🔹از الان دارن اعلام می‌کنن مازندران و به‌ویژه مدارس با کمبود گاز مواجه هستن.
-‏
-‏🔹پمپ‌بنزین‌ها بسیار شلوغ هستند. با اضافه کردن اتانول به بنزین، اتومبیل با همان حجم بنزین سابق در مسافت کمتری باک ماشینش خالی می‌شه و بنابراین اگر کسی دو هفته‌ای یک‌بار بنزین می‌زد، حالا شده هفته‌ای یک‌بار.
-17:59
-1405/07/09
-
-
-
-
 src :@wfwitness
 ‏⚡️🇺🇸🇪🇬🇮🇷Reuters: The U.S. State Department waived the human rights conditions on a delivery of military equipment, estimated to be worth around $300 million, to Egypt due to their ‘helpful’ role since the launch of the U.S. conflict with Iran. 
 ‏
@@ -2559,14 +2572,6 @@ src :@selena_updates
 
 
 
-src :@jangaavaran1390
-‏رویترز: سه تانکر نفتی پرچمدار لیبریا که از تنگه هرمز عبور می‌کردند، روز سه‌شنبه به دلیل خاموش بودن سیستم ردیابی، مورد اصابت پرتابه‌های ناشناخته قرار گرفتند.
-17:10
-1405/07/09
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏طبق گفته‌ی خبرگزاری‌ها، پیشروی نیروهای ارتش و انصارالله یمن برای بازپس‌گیری تعز شروع شده.
@@ -2612,19 +2617,6 @@ src :@MilitarryWorld
 src :@rnintel
 ‏🇮🇷🇱🇷⚡️- "Three Liberian-flagged oil tankers were struck by unknown projectiles when ​transiting the Strait of Hormuz on ‌Tuesday." - Reuters, citing the shipping intelligence service Marisks.
 17:03
-1405/07/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷🇱🇷 Reuters: Three Liberian-flagged oil tankers were struck by unknown projectiles while transiting the Strait of Hormuz on Tuesday with their tracking transponders switched off to avoid detection.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:02
 1405/07/09
 
 
@@ -2748,15 +2740,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 16:53
-1405/07/09
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇵🇸 An IDF drone struck and killed Musab al-Balbisi in the Jabalia refugee camp, northern Gaza, a short while ago.  The IDF is expected to release further details about him later as usual.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook…
-16:52
 1405/07/09
 
 
@@ -5136,20 +5119,6 @@ src :@Exciton_missile_program
 
 
 
-src :@WAR_ROOM_NEWS
-‏آخرین وضعیت میدانی جبهه‌های نبرد یمن
-‏
-‏حوثی‌ها بین ۹ تا ۱۱ سپتامبر در یک پیشروی سریع در دشت تهامه در غرب یمن شهرهای حیس و الخوخه و المخا و ذباب را در امتداد ساحل دریای سرخ به کنترل خود درآوردند و پس از آن جزایر زقر و حنیش و میون یا پری‌ایم را در محدوده دریای سرخ و تنگه باب‌المندب تصرف کردند این پیشروی در کمتر از ۴۸ ساعت حدود ۱۱۵ تا ۱۳۰ کیلومتر از نوار ساحلی و نزدیک به ۵۴۰۰ کیلومتر مربع از اراضی را تحت کنترل حوثی‌ها قرار داد و نیروهای دولتی وابسته به شورای رهبری ریاست‌جمهوری نیز در پی غافلگیری و ضعف هماهنگی عقب‌نشینی کردند این مناطق از نظر نظامی اهمیت بالایی دارند زیرا کنترل ساحل غربی یمن و میون در باب‌المندب امکان فشار بر مسیرهای کشتیرانی و تهدید خطوط دریایی در این منطقه را افزایش می‌دهد پس از پیشروی ساحلی درگیری‌ها به سمت ارتفاعات جنوب‌غربی تعز و شمال لحج کشیده شد و نبرد بر سر مناطق کحبوب و الوزعیه و المضاربه شدت گرفت کحبوب در ارتفاعات مشرف به باب‌المندب قرار دارد و کنترل آن می‌تواند بر مسیرهای ارتباطی میان ساحل و مناطق داخلی اثر بگذارد در همین محور حوثی‌ها تلاش کرده‌اند به مسیر ارتباطی تعز و عدن فشار وارد کنند این مسیر از طریق جنوب تعز و مناطق مختلف استان لحج به عدن می‌رسد و محور حَجَر العبد یکی از مهم‌ترین بخش‌های آن محسوب می‌شود اهمیت این مسیر در آن است که تعز برای ارتباط با مناطق تحت کنترل دولت در جنوب و دریافت نیرو و تجهیزات تا حد زیادی به همین محور وابسته است و قطع یا ناامن شدن آن می‌تواند نیروهای دولتی مستقر در تعز را در وضعیت انزوای عملیاتی قرار دهد در مأرب واقع در شمال‌شرق یمن نیز فشار حوثی‌ها ادامه دارد اما نیروهای دولتی با پشتیبانی هوایی عربستان مانع از پیشروی‌های عمده شده‌اند و در الجوف نیز نیروهای دولتی از بازپس‌گیری برخی مواضع خبر داده‌اند در غرب تعز و شمال لحج نیز ضدحملات محدودی انجام شده است با این حال محورهای کحبوب و جنوب‌غرب تعز همچنان از مهم‌ترین مناطق درگیری هستند زیرا تحولات این مناطق مستقیماً بر ارتباط تعز با لحج و عدن و همچنین دسترسی نیروهای دولتی به جبهه ساحلی تأثیر می‌گذارد
-‏
-‏#حوثی_یمن #جنگ
-‏
-‏🆔@WAR_ROOM_NEWS
-12:11
-1405/07/09
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏پهپادهای انتحاری با CRPA (آنتن ضد اخلال) 32 المانی؟! 
@@ -5172,6 +5141,15 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 12:07
+1405/07/09
+
+
+
+
+src :@Alibk3
+[عکس]
+‏الطيران السعودي يستهدف جنوب تعز في محاولاته المستمرة لمنع تقدم القوات المسلحة اليمنية
+12:06
 1405/07/09
 
 
@@ -5473,23 +5451,6 @@ src :@DEJradio
 ‏#استان_فارس #اردن
 ‏@DEJradio
 11:00
-1405/07/09
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Democratic Republic of Congo’s Ebola outbreak has surpassed 8,100 confirmed cases, with 3,924 deaths, making it the country’s largest and deadliest Ebola epidemic on record. 
-‏
-‏The Bundibugyo-virus outbreak has spread across 63 health zones in 7 provinces, with Ituri and North Kivu hardest hit, while conflict, shortages of health workers and community resistance continue to hamper containment. 
-‏
-‏There is currently no approved vaccine or specific treatment for Bundibugyo Ebola.
-‏
-‏The outbreak is now the second-largest Ebola epidemic ever recorded, behind the 2014–2016 West Africa outbreak, which infected more than 28,600 people and killed over 11,000. 
-‏
-‏The United States has announced an additional $267 million, bringing its direct Ebola-response assistance to $887 million, while global pledges have now surpassed $2 billion.
-10:57
 1405/07/09
 
 
@@ -7087,27 +7048,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 19:52
-1405/07/08
-
-
-
-
-src :@warmonitors
-‏⚡Israeli Media: At this stage, the assessment is that the Flydubai pilot was a “lone wolf” who acted alone.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:51
-1405/07/08
-
-
-
-
-src :@ircfspace
-[عکس]
-‏شرکت تتر به تازگی اعلام کرد "به مسدودسازی نزدیک به ۵۵۰ میلیون دلار دارایی مرتبط با بانک مرکزی جمهوری اسلامی و شبکه‌های تحریم‌شده کمک کرده". 
-‏الانم با عبور دلار از ۲۵۵ هزار تومان، صرافی‌های رمزارز (با دستور مراجع) معاملات تتر رو از ساعت ۲۱ تا ۹ صبح روز بعد متوقف کردن!
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-19:47
 1405/07/08
