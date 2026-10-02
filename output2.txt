@@ -1,3 +1,32 @@
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 – NASA's FIRMS confirms at least three fire hotspots in Riyadh were spotted by satellite sensors around four hours ago.
+‏
+‏The fires, with a relatively low Fire Radiative Power (FRP) but high brightness suggests a very small, intense fire that is not spreading.
+‏
+‏The fire can be geolocated to the al-Faisaliyah area of Riyadh, where there are large industrial parking lots for machinery, which could explain the concentrated but intense fire.
+18:48
+1405/07/10
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏لهستان، نهمین هواپیمای F-35 خود را دریافت کرد. 
+‏
+‏اولین هواپیمای تولیدی ایتالیا به پایگاه لاسک رسید.
+‏
+‏روز گذشته نهمین جنگنده F-35A لهستان با شماره سریال 3517 به پایگاه هوایی لاسک رسید. این اولین جنگنده F-35 لهستانی است که در خط تولید ایتالیایی FACO Cameri ساخته شده و در عین حال، هفدهمین هواپیمای تحویل داده شده در چارچوب سفارش لهستان است.
+‏
+‏
+‏@PARVAZDAROJ|M.S
+18:45
+1405/07/10
+
+
+
+
 src :@mohem_mat
 ‏مهدی خراتیان می گوید اگر افزایش تنش منطقی بدهیم و با کمک چین و روسیه می توانیم نقشه منطقه را تغییر دهیم ، به ایشان از قول مولانا می گوی:پهلوی یاران بهست/لیک ای جان در اگر نتوان نشست
 ‏عاشق ان کلمه منطقی هستم
@@ -1152,7 +1181,7 @@ src :@Alibk3
 
 
 src :@mohem_mat
-‏محکومیت الناز شاکردوست به حبس
+‏محکومیت الناز شاکردوست به یک سال حبس و دو سال محرومیت
 ‏
 ‏هوشنگ پوربابایی، وکیل دادگستری:
 ‏
@@ -2125,20 +2154,6 @@ src :@Middle_East_Spectator
 ‏— 🇮🇷/🇦🇫 NEW: Iran and the Islamic Emirate of Afghanistan participated in joint rescue exercises on the border
 ‏
 ‏@Middle_East_Spectator
-16:15
-1405/07/10
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏محمدرضا نقدی، مشاور فرمانده کل سپاه پاسداران، در مراسمی با عنوان «رزمایش جان‌فدایان» در استان البرز گفت: «آمریکایی‌ها باید خودشان کشورهای منطقه را ترک کنند وگرنه با سیل مقاومت ملت‌های منطقه روبرو خواهند شد و امروز، تفکر جان‌فدایان حتی به داخل کاخ شاهان منطقه نیز نفوذ کرده است.»
-‏
-‏نقدی ادامه داد: «آمریکایی‌ها دیدند که چه بر سر نیروهایشان در افغانستان و عراق آمد و یقین بدانند که در عربستان سعودی، کویت، اردن و قطر همین سرنوشت در انتظار نظامیان آن‌ها است.»
-‏
-‏مشاور فرمانده سپاه پاسداران افزود: «امروز ملل منطقه و جهان آماده قیام در برابر سلطه‌گران هستند و تداوم شرارت‌ها، سیلی قاطع و نهایی امت اسلامی را به همراه خواهد داشت.»
-‏https://iranintl.com/202610020732
 16:15
 1405/07/10
 
@@ -5461,18 +5476,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸🇬🇧 - When asked by reporters if Iran was behind the RAF Fairford incident, Trump said : 
-‏
-‏It appears so, yes.
-‏
-‏@GeoPWatch
-00:31
-1405/07/10
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇬🇧🇮🇷 — Reporter: "Was Iran involved in the RAF Fairford incident?"
 ‏
@@ -5574,19 +5577,6 @@ src :@DEJradio
 ‏#خاورمیانه #جمهوری_اسلامی #جنگ 
 ‏@DEJradio
 00:05
-1405/07/10
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇸🇦❌🇾🇪 – Between 2 and 4 explosions were reported in Sana'a, the capital of Houthi (Ansarullah) controlled Yemen.
-‏
-‏The strikes have been attributed to the Saudi Airforce, and will likely be responded by a large-scale Houthi missile attack.
-‏
-‏@GeoPWatch
-00:04
 1405/07/10
 
 
@@ -5710,17 +5700,6 @@ src :@tglobaleye
 
 
 
-src :@GeoPWatch
-[عکس]
-‏⚡️🇮🇷🇴🇲 – A new Iranian strike took place in the Strait of Hormuz. The UKMTO reports that a tanker was struck by at least one projectile, sparking a fire and causing an unknown amount of damage, but no casualties.
-‏
-‏@GeoPWatch
-23:42
-1405/07/09
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇴🇲 🇮🇷 — UKMTO has received a report indicating that a tanker was struck by an unidentified projectile while transiting the Strait of Hormuz, resulting in a fire.
@@ -5736,23 +5715,6 @@ src :@samueltarikh
 ‏هم اکنون سازمان عملیات تجارت دریایی بریتانیا:
 ‏
 ‏ساعاتی پیش موشک های ایرانی به یک نفتکش در تنگه هرمز اصابت کردند و باعث آتش سوزی گسترده در نفتکش شدند.
-23:39
-1405/07/09
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇾🇪🇾🇪❌🇸🇦 - Ansarullah, following large-scale withdrawals by the Islah party, launch major offensives across several areas of the Tai'zz front.  
-‏
-‏Ansarullah continue the assault towards the "Habashi" mountain, leading an armored advance towards "AlSaeed". [2]
-‏
-‏In the "Jurdad" heights front, Ansarullah retake Jabal "Qurfan" and "Wadi AlAjram", then proceed to advance towards "Darahah". [3]
-‏
-‏Heavy clashes continue in Jabal "Aghbar". Status is unclear in "Waziyah" and "Kabhub" mountains.
-‏
-‏Notably, withdrawals near the town of "Najd AlBard" allowed Ansarullah saboteurs to successfully detonate the "Hayjat alAbd" major supply line, following a failed attempt a few days ago. [4]
 23:39
 1405/07/09
 
@@ -6776,31 +6738,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 18:51
-1405/07/09
-
-
-
-
-src :@ircfspace
-[عکس]
-‏راهکارشون برای مدیریت قیمت تتر چی بود؟
-‏نمودار قیمت رو غیرفعال کردن! 🤡
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-18:46
-1405/07/09
-
-
-
-
-src :@Mena_Live
-‏Statement from Hezbollah regarding the withdrawal of US forces from Iraq:
-‏
-‏Hezbollah congratulates Iraq, its religious authorities, government, and people, on this great historical achievement and blessed victory, with the withdrawal of US forces from its territory, defeated and humiliated, after all their ambitions were thwarted and they failed to achieve their planned goals in the face of the free Iraqi people. 
-‏
-‏This comes after more than two decades of invasion, occupation, and the accompanying terrorism, dominance, oppression against the Iraqi people, sowing discord among its sons, plundering its resources, and the resulting tragedies, destruction, and suffering.
-‏
-‏@Mena_Live
-18:43
 1405/07/09
