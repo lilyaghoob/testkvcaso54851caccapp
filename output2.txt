@@ -1,3 +1,18 @@
+src :@ClashReport
+[عکس]
+‏Israeli investigators are expected to question the co-pilot accused of trying to crash a flydubai flight from Dubai to Tel Aviv after stabbing the captain.
+‏
+‏Passengers and crew subdued the co-pilot, while a reserve pilot crew landed the plane safely in Saudi Arabia. 
+‏
+‏The suspect, an Omani national, was later transferred to the UAE, which is leading the investigation.
+‏
+‏Source: Reuters
+18:27
+1405/07/10
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡🇺🇸🇫🇷🇵🇸 Arab News: The United States has imposed sanctions on three individuals and two France-based charities accused of operating a financial network for Hamas.
@@ -2008,27 +2023,6 @@ src :@ClashReport
 
 
 
-src :@IranintlTV
-[عکس]
-‏بر اساس اطلاعات رسیده به ایران‌اینترنشنال، دست‌کم ۱۴۰ نفر، از جمله یک کارمند سابق دادگستری، در فاصله ۱۳ تا ۲۰ دی‌ماه ۱۴۰۴ و هم‌زمان با اعتراضات در بجنورد بازداشت شدند. یک منبع مطلع به ایران‌اینترنشنال گفت شمار بازداشت‌شدگان تا پایان دی‌ماه به دست‌کم ۱۸۰ نفر رسید.
-‏
-‏به گفته این منبع، محسن قربان‌نژاد، کارمند سابق دادگستری بجنورد، پیش از اعتراضات دی‌ماه به دلیل شعارنویسی بازداشت شده بود. او پس از اعتراضات و در پی خواندن سرود «ای ایران» در بند امنیتی، به مدت ۱۰ روز به سلول انفرادی منتقل و سپس به زندان بندرعباس تبعید شد.
-‏
-‏این منبع همچنین گفت حسین هاشمی، پرستار، به اتهام کمک به مجروحان اعتراضات در محل کارش در بیمارستان رضا بازداشت شد.
-‏
-‏محمدصادق محمدی نیز به دلیل توزیع آب معدنی و ماسک میان معترضان بازداشت شد و پس از حدود یک ماه با سپردن وثیقه آزاد شد. امین اعتمادجو نیز معترض دیگری بود که پس از بازداشت، در اسفند ۱۴۰۴ با قرار وثیقه آزاد شد.
-‏
-‏این منبع درباره وضعیت جسمانی بازداشت‌شدگان گفت تا حدود ۱۵ دی، افرادی که به زندان مرکزی بجنورد منتقل می‌شدند عمدتا آثار جراحت جدی نداشتند. اما پس از آن بسیاری از بازداشت‌شدگان با آثار اصابت گلوله جنگی و ساچمه یا جراحات ناشی از ضرب‌وشتم و شکنجه وارد زندان شدند. به گفته او، بدن برخی از بازداشت‌شدگان بیش از ۵۰ محل اصابت ساچمه داشت.
-‏
-‏بر اساس اطلاعات رسیده به ایران‌اینترنشنال، حیدرعلی روحانی به سه سال حبس، ۳۰۰ میلیون تومان جزای نقدی و ۷۴ ضربه شلاق محکوم شده است. محمد کریمی نیز به پنج سال حبس و ۷۴ ضربه شلاق محکوم شده و حکم او در دادگاه تجدیدنظر قطعی شده است. به گفته این منبع، کریمی تاکنون برای اجرای حکم به زندان نرفته و با قرار وثیقه آزاد است.
-‏
-‏https://iranintl.com/202610025389
-16:09
-1405/07/10
-
-
-
-
 src :@P_raetorio
 [ویدئو]
 ‏وطن خواه احساساتی میشود….
@@ -2449,17 +2443,6 @@ src :@Alibk3
 src :@Ali_bk_2
 [عکس]
 ‏A US military cargo plane arrives in Riyadh.
-15:24
-1405/07/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israel’s Supreme Court overturned a ban on two Arab electoral lists, allowing the Joint List and United Arab List to run in the Oct. 27 Knesset election.
-‏
-‏The bans had been approved by the Central Elections Committee following requests from Likud, Jewish Power and other right-wing groups.
 15:24
 1405/07/10
 
@@ -6838,12 +6821,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 18:33
-1405/07/09
-
-
-
-
-src :@Mena_Live
-‏Syrian Ministry of Information:  “These claims are false. No such meeting took place”  @Mena_Live
-18:26
 1405/07/09
