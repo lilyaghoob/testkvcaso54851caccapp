@@ -1,8 +1,43 @@
+src :@intelslava
+‏🇮🇷⚡️ — UKMTO reports that an oil tanker approximately 4 nautical miles east of Oman was struck by a projectile while transiting the Strait of Hormuz on Friday.
+‏
+‏@IntelSlava
+03:01
+1405/07/11
+
+
+
+
+src :@ClashReport
+‏Indian border guards shot and killed two Pakistani nationals and wounded a third near the India-Pakistan border in Punjab, according to Pakistani and Indian media.
+‏
+‏Pakistan said the men were unarmed civilians who had walked a few steps beyond a border marker.
+02:58
+1405/07/11
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Axios, citing U.S. officials:
 ‏
 ‏Saudi forces and allied government forces are planning to launch a major counteroffensive against the Houthis in the coming days, in an attempt to push them away from areas along the Red Sea coast that control the Bab al-Mandab Strait.
+02:57
+1405/07/11
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸👌⚡️- The Indiana GOP has fired an organizer of 10 years, Paul Joseph Tinkle, for making an "ok" hand gesture during a group photo. 
+‏
+‏Paul was previously an English teacher in Japan as part of a US Embassy program and use of the hand symbol was common. 
+‏
+‏The Indiana GOP did not allow Paul to defend himself in person instead deciding to fire him after a single phone call where he could only offer an explanation. 
+‏
+‏To this day the ADL still considers the gesture a "hate symbol" after a deliberate prank by internet racists to get it declared so.
 02:57
 1405/07/11
 
@@ -15,6 +50,17 @@ src :@Alibk3
 ‏
 ‏ القوات السعودية وقوات الحكومة الموالية لها، تخطط لشن هجوم مضاد كبير ضد الحوثيين في الأيام المقبلة، في محاولة لدفعهم بعيداً عن المناطق الواقعة على ساحل البحر الأحمر والتي تسيطر على مضيق باب المندب.
 02:57
+1405/07/11
+
+
+
+
+src :@ClashReport
+[عکس]
+‏UKMTO said a crude oil tanker was struck by an unknown projectile about 4 nautical miles east of Oman on Oct. 2.
+‏
+‏All crew are safe and no environmental impact has been reported.
+02:56
 1405/07/11
 
 
@@ -102,6 +148,8 @@ src :@wfwitness
 ‏Internal backlash has been strong with senior leaders drafting talking points to address concerns.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 02:49
 1405/07/11
 
@@ -2968,25 +3016,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: Saudi Arabia is preparing a new offensive against Yemen’s Houthis, potentially within weeks, aimed mainly at retaking the Bab el-Mandeb strait and restoring Red Sea shipping.
-‏
-‏More than 100,000 Yemeni troops could be mobilized, with Saudi air support. Riyadh is considering either a limited coastal assault or a broader multi-front offensive across Yemen.
-‏
-‏The U.S. is providing intelligence and military advisers but is not expected to join combat directly. 
-‏
-‏Pakistan has deployed 30,000–40,000 troops inside Saudi Arabia to help defend against Houthi missile and drone attacks.
-‏
-‏Riyadh believes peace talks cannot resume while the Houthis control Bab el-Mandeb.
-‏
-‏Source: Reuters
-19:59
-1405/07/10
-
-
-
-
 src :@mwarmonitor
 ‏📰رویترز گزارش می‌دهد که عربستان سعودی در حال آماده‌سازی برای آغاز یک عملیات تهاجمی جدید علیه نیروهای حوثیِ مورد حمایت ایران در یمن است؛ عملیاتی که ممکن است طی چند هفته آینده آغاز شود.
 ‏
@@ -3930,15 +3959,6 @@ src :@cataphract1
 
 
 
-src :@rnintel
-[عکس]
-‏🇪🇹⚡- Tigray Defense Forces, TDF, are in complete free fall, with the Ethiopian military, ENDF, capturing the cities of Korem and Moheni.  Over the past hour, ENDF forces have begun probing Maychew’s defences, while the city comes under heavy Ethiopian shelling…
-18:05
-1405/07/10
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Yesterday, on Thursday, the IDF and the ISA struck in the Khan Yunis area and eliminated the terrorist Tamer Hamaida,  who served as a sniper in the Hamas terrorist organization.
@@ -4185,14 +4205,6 @@ src :@Parvazdaroj
 ‏
 ‏@Jangjuuyan|Colonel
 17:35
-1405/07/10
-
-
-
-
-src :@rnintel
-‏🇫🇷⚡️- At least 1000 arrests were made across France over the past 48 hours only. Few official reports mention the amount of wounded rioters, but they are estimated in the several hundreds, mostly from infighting or self-inflicted wounds, not police repression.
-17:29
 1405/07/10
 
 
@@ -6773,21 +6785,4 @@ src :@mamlekate
 ‏yasharsaljoughi
 ‏@mamlekate
 03:06
-1405/07/10
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Ukrainian sources published images of a new 32-element anti-jamming CRPA antenna reportedly being used in Russian drones.
-‏
-‏According to reports, 20-element CRPA antennas are also being prepared for use, while production of 24-element antennas is planned to begin in 2027.
-‏
-‏CRPA antennas are widely used in Russian precision-guided weapons and UAVs, including Iskander-M ballistic missiles, cruise missiles, Geran/Garpiya-A1 and Gerbera drones, UMPK glide-bomb kits, UMPB-5/UMPB-5R, and others.
-‏
-‏Previously, 4-, 8-, 12-, and 16-element CRPA antennas had been observed, manufactured in both China and Russia, including the Kometa-M produced by VNIIR-Progress.
-‏
-‏In late July, images also emerged of a Geran-2 piston-powered drone variant with an enlarged compartment for the CRPA antenna. Ukrainian sources speculated that this could have been preparation for integrating the new 32-element anti-jamming antenna.
-03:00
 1405/07/10
