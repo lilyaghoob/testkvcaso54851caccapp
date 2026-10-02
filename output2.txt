@@ -1,3 +1,44 @@
+src :@defence_news
+‏اکسیوس: تلاش‌های دیپلماتیک آمریکا و ایران به بن‌بست نزدیک می‌شود؛ بی‌اعتمادی متقابل باقی مانده است. واشنگتن توافق سریع و جامع می‌خواهد، تهران مذاکرات کند و آتش‌بس محدود را ترجیح می‌دهد. شکست دو دور مذاکره در ۱۸ ماه گذشته به درگیری منجر شد. مقامات آمریکایی نگرانند شکست این تلاش‌ها ظرف چند هفته باعث درگیری جدید شود.
+18:12
+1405/07/10
+
+
+
+
+src :@selena_updates
+[عکس]
+‏The IDF conducted extensive operations across the West Bank, arresting 48 wanted Arabs. Operations included a major raid led by the Ephraim Brigade with Border Police and special units, during which forces searched hundreds of locations, seized weapons and terrorism-financing funds, arrested a Hamas-affiliated terrorist and demolished infrastructure and monuments used for criminal activity and militant incitement.
+18:10
+1405/07/10
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇸🇦/🇾🇪 Meanwhile in Yemen:
+‏
+‏‘Qat sellers coming from Houthi-controlled areas to PLC-held areas are Houthi spies and recruits in its intelligence apparatus.’
+‏
+‏@Middle_East_Spectator
+18:09
+1405/07/10
+
+
+
+
+src :@ClashReport
+[عکس]
+‏G-7 countries agreed to release up to 100 million barrels of diesel and crude oil reserves over four months to help curb soaring fuel prices, including a major diesel release within the first 20 days.
+‏
+‏The deal followed U.S. pressure on European allies, particularly Germany and France.
+18:07
+1405/07/10
+
+
+
+
 src :@cataphract1
 [عکس]
 ‏رویترز می نویسد اگر ایالات متحده حملات گسترده‌تری را از سر بگیرد، ایران در حال تدارک انتقام‌جویی گسترده‌تر و قوی‌تر است و فرماندهان آن اهدافی را فراتر از دارایی‌های بالقوه مرتبط با آمریکا و خاورمیانه در نظر بگیرند.
@@ -2655,23 +2696,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇬🇧 The Guardian⁠: A recent lobbyist for U.S. tech company Palantir played a senior role in Andy Burnham’s campaign to become UK prime minister, working on strategic communications during the byelection that returned him to Parliament. 
-‏
-‏Martha Dalton co-founded Lodestone, which worked for Palantir in 2024 and 2025, including promoting its technology to British MPs. Dalton later took six weeks of unpaid leave to work on Burnham’s campaign. 
-‏
-‏The revelation comes as Burnham’s government faces pressure over Palantir’s £330 million NHS England data-platform contract, which has a break clause in February 2027. Labour says rules for managing potential conflicts were followed. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-14:55
-1405/07/10
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏A fierce attack by Yemeni forces since dawn today in the Alaqma-Rassin Front, amidst field advances and control of areas:
@@ -3131,19 +3155,6 @@ src :@MilitarryWorld
 ‏🔴روز گذشته پدافند روسیه یک فروند هلی‌کوپتر Mi-8 خود را با اتش دوستانه بر فراز اوکراین سرنگون کرد.خلبانان این هلی‌کوپتر کشته شدند.
 ‏
 ‏@MilitarryWorld | Maverick
-13:36
-1405/07/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏BIG: The U.S. removed Syria from its blanket arms-export denial list, effective October 1. 
-‏
-‏This doesn't approve any specific weapons sale, it just means requests will now be reviewed case by case instead of automatically refused. 
-‏
-‏The change was made possible by the earlier removal of Syria's State Sponsor of Terrorism designation.
 13:36
 1405/07/10
 
@@ -3992,23 +4003,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@selena_updates
-[عکس]
-‏Following extensive intelligence research, the IDF and ISA are now revealing that Izz al-Din Bik, commander of Hamas’ Northern Gaza Brigade, who was eliminated earlier this week (Tuesday), commanded the captivity of Israeli hostages during the war.
-‏
-‏Prior to being appointed commander of the Northern Gaza Brigade, Izz al-Din Bik held a number of positions, including commander of Hamas’ Western Jabalia Battalion and head of the military intelligence headquarters of the Northern Gaza Brigade.
-‏
-‏In these roles, he advanced and financed numerous attacks against Israeli civilians and was among the founders of Hamas’ Nukhba forces in northern Gaza.
-‏
-‏In addition, the terrorist commanded and participated in the infiltration into Israeli territory on the morning of the October 7 massacre.
-‏
-‏Throughout the war, and in his capacity as the commander responsible for northern Gaza, Izz al-Din Bik was responsible for holding numerous hostages in Hamas captivity, including Mia Schem, Hisham al-Sayed, Amit Buskila, Uriel Baruch, Corporal Nik Beizer, Sergeant Ron Sherman, Elia Toledano, Shani Louk, Michel Nisenbaum, Staff Sergeant Tamir Nimrodi, Yitzhak Gelerenter, Eitan Levy, Hanan Yablonka, Ron Benjamin, and Orion Hernandez.
-11:10
-1405/07/10
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‏ ‏
@@ -4818,15 +4812,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 07:08
-1405/07/10
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏Are you tired of winning yet?
-06:53
 1405/07/10
 
 
@@ -6884,35 +6869,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #a_m
 18:11
-1405/07/09
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
-‏
-‏Fairford B-1 Bomber Training Flights - September 2026
-‏
-‏A total of 29 bomber training flights were flown by the fleet of 12 B-1B "Lancer" aircraft in September (with one new arrival at the end of the month), most of the launches featuring 2 aircraft. The sortie rate was fairly consistent, flying every other day (with the exception of 27th September where both sorties were scrapped due to the terrorism incident).
-‏
-‏In order of most sorties flown:
-‏B-1B 86-0140 (DY 345BS) "Last Lancer"  -  10
-‏B-1B 86-0139 (EL) "Drifter"  -  8
-‏B-1B 86-0107 (WA 77WPS) "Dragon Slayer"  -  5
-‏B-1B 86-0124 (DY) "Oh! Hardluck II"  -  5
-‏B-1B 86-0134 (EL 34BS) "Thunderbird"  -  5
-‏B-1B 85-0060 (EL) "Doolittle Raiders"  -  4
-‏B-1B 86-0103 (DY) "The Reluctant Dragon"  -  3
-‏B-1B 86-0138 (EL) "Seek and Destroy"  -  3
-‏B-1B 86-0108 (EL) "Alien with an Attitude"  -  3
-‏B-1B 86-0112 (DY) "The Black Widow"  -  2
-‏B-1B 86-0120 (EL)…
-‏
-‏Original text in comments
-‏ترجمه خودکار فارسی در بخش نظرات
-‏
-‏𝕏  ·  @shin_persian
-18:10
 1405/07/09
