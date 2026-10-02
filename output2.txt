@@ -1,3 +1,31 @@
+src :@USAMRYDATA
+[عکس]
+‏🛸اولین آزمایش انتقال بی‌سیم انرژی بین دو فضاپیما به‌زودی در مدار زمین انجام می‌شود
+‏
+‏🔹 شرکت Star Catcher درحال آماده‌سازی فضاپیمایی به نام Protostar برای آزمایشی است که در صورت موفقیت، می‌تواند اولین انتقال بی‌سیم انرژی بین دو فضاپیمای مستقل و بدون اتصال فیزیکی در مدار باشد.
+‏
+‏🔹 هدف اصلی این آزمایش، بررسی انتقال انرژی نوری از Protostar به یک ماهواره کوچک (CubeSat) در مدار است. کیوب‌ست به پنل‌های خورشیدی تجاری مجهز خواهد بود و Protostar تلاش می‌کند پرتو انرژی خود را به این پنل‌ها بتاباند. فضاپیمای پروتوستار قرار است در اکتبر ۲۰۲۶ به فضا پرتاب شود.
+‏
+‏⚙️#TECH
+‏➖➖➖➖➖➖➖➖➖
+‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
+10:01
+1405/07/10
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏نیروی دریایی برای رسیدگی به زیرساخت‌های ساحلیِ فرسوده، سمت جدیدی در معاونت رئیس عملیات نیروی دریایی ایجاد کرده است، و اعلام شده است آماده هست کشتی سازی های خصوصی از فعالیت افتاده را خریداری کنند
+‏
+‏@artemis_force
+10:00
+1405/07/10
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏وزارت خارجه پاکستان، جمعه ۱۰ مهر در بیانیه‌ای، حمله حوثی‌های مورد حمایت جمهوری اسلامی به «ایستگاه توزیع برق طیبه» در مدینه در هفتم مهر را به‌شدت محکوم کرد.
@@ -25,7 +53,7 @@ src :@tabzlive
 
 
 src :@naya_foriraq
-‏🇮🇱إعلام العدو: تحطم طائرة في منطقة وادي عارة جنوبي حيفا.
+‏🇮🇱إعلام العدو: تحطم طائرة إسرائيلية خفيفة في منطقة وادي عارة جنوبي حيفا.
 09:51
 1405/07/10
 
@@ -3481,18 +3509,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@MilitarryWorld
-‏🔴وال استریت ژورنال:
-‏
-‏10 هزار نیروی نظامی آمریکایی عازم خاورمیانه شدند.
-‏
-‏@MilitarryWorld | Parsa
-22:32
-1405/07/09
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏British counterterrorism police have arrested a 27-year-old British-Iranian dual national in the expanding investigation into a suspected plot targeting RAF Fairford, the U.S.-used airbase from which American bombers have conducted operations against Iran. 
@@ -4991,22 +5007,6 @@ src :@Mena_Live
 
 
 
-src :@thewarreporter
-‏🇺🇸🇸🇾🇯🇴🇰🇼🇮🇶🇮🇶 — Iran-backed Iraqi militia Harakat Hezbollah al-Nujaba:
-‏
-‏"We warn against any American presence in Iraq, whether under the guise of security companies or consultants.
-‏
-‏We call for a reduction in the size of the U.S. Embassy and demand an end to interference in our political affairs.
-‏
-‏We demand the withdrawal of American forces from the Iraqi borders with Syria, Jordan, and Kuwait".
-‏
-‏@TheWarReporter
-18:25
-1405/07/09
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
@@ -5044,14 +5044,6 @@ src :@DEJradio
 ‏#اطلاعاتی #بسیجی
 ‏@DEJradio
 18:23
-1405/07/09
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇬🇧🇮🇷 — British PM Andy Burnham said the government believes Iran was involved in the incident at RAF Fairford, citing 'strong indications that Iran played a part'.  "We can confirm our belief that we believe Iran to have played a part," he said.  Burnham…
-18:22
 1405/07/09
 
 
@@ -6115,23 +6107,6 @@ src :@cataphract1
 ‏
 ‏@Military_Tweet
 12:10
-1405/07/09
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏نیروی دریایی ایالات متحده آمریکا قراردادی به ارزش ۵.۱ میلیارد دلار با بخش HII Newport News Shipbuilding منعقد کرد. 
-‏
-‏این قرارداد مربوط به تعمیر اساسی ناو هواپیمابر هسته‌ای هری ترومن است. 
-‏
-‏این کشتی، سوخت هسته‌ای جدید، به‌روزرسانی سیستم‌های قدرت، سیستم‌های جنگی و هزاران فضای داخلی را دریافت خواهد کرد. این تعمیرات باید تا نوامبر سال ۲۰۳۱ به پایان برسند( در واقع یک ارتقا) 
-‏
-‏ناو هواپیمابر هسته ای هری ترومن در سال ۱۹۹۸ به نیروی دریایی ایالات متحده تحویل داده شد و هشتمین ناو هواپیمابر از کلاس نیمیتزخواهد بود که تحت تعمیر اساسی قرار می‌گیرد.
-‏
-‏@artemis_force
-12:04
 1405/07/09
 
 
