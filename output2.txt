@@ -1,3 +1,21 @@
+src :@Ali_bk_2
+[عکس]
+‏A loud sound was heard in the Saudi capital, Riyadh.
+03:33
+1405/07/10
+
+
+
+
+src :@Alibk3
+[عکس]
+‏سماع دوي في العاصمة السعودية الرياض
+03:33
+1405/07/10
+
+
+
+
 src :@tabzlive
 ‏🇾🇪❌🇾🇪 — Explosions in Aden, capital of PLC-controlled Yemen. Ansarallah UAV strike.
 03:31
@@ -1132,24 +1150,6 @@ src :@tabzlive
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏The Saudi aggression on the Yemeni capital, Sanaa.
-00:20
-1405/07/10
-
-
-
-
-src :@Alibk3
-[عکس]
-‏العدوان السعودي على العاصمة اليمنية صنعاء.
-00:20
-1405/07/10
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇸🇦/🇾🇪 NEW: After failing to stop the Houthi ground offensive, the Saudi Air Force carried our strikes against Sanaa
@@ -1244,36 +1244,9 @@ src :@Minas_Tirith2024
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Footage of the Saudi aggression on the Yemeni capital, Sanaa.
-00:11
-1405/07/10
-
-
-
-
-src :@Alibk3
-[عکس]
-‏العدوان السعودي على العاصمة اليمنية صنعاء.
-00:11
-1405/07/10
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇸🇦❌🇾🇪 — Scenes from Sana'a, capital of Ansarallah-controlled Yemen.
-00:09
-1405/07/10
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Saudi aggression targets the Yemeni capital, Sanaa.
 00:09
 1405/07/10
 
@@ -6608,13 +6581,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 03:47
-1405/07/09
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Konyaspor ❤️
-03:39
 1405/07/09
