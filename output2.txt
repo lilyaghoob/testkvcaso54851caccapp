@@ -2721,21 +2721,6 @@ src :@intelslava
 
 
 
-src :@ClashReport
-[عکس]
-‏Canadian Prime Minister Mark Carney plans to visit Türkiye later this month for talks with President Erdogan, in what would be the first dedicated bilateral visit by a Canadian prime minister.
-‏
-‏The two are expected to discuss free-trade negotiations launched in July, as well as possible cooperation in energy, nuclear power and defense.
-‏
-‏The visit comes as Carney seeks to reduce Canada’s reliance on U.S. trade and double non-U.S. trade over the next decade. Canada and Türkiye currently have relatively modest bilateral trade, worth C$4.34 billion in 2025.
-‏
-‏Source: Reuters
-20:45
-1405/07/10
-
-
-
-
 src :@MilitarryWorld
 ‏🔴رویترز:
 ‏عربستان سعودی برای یک حمله زمینی تمام عیار به حوثی های یمن در هفته های آینده آماده می‌شود.
