@@ -1211,16 +1211,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-‏@iranintlTV
-02:23
-1405/07/10
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇬🇧🇺🇸FT: The UK is searching for an alternative to Palantir for contracts in the NHS anfd Ministry of Defence as the Burnham Administration pushes for the government to use more British tech companies. 
