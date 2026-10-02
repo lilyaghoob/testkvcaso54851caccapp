@@ -1,6 +1,91 @@
+src :@ircfspace
+[عکس]
+‏اپل از نسخه iOS ۱۸.۱ قابلیتی گذاشته که اگه آیفون ۷۲ ساعت آنلاک نشه، خودش ری‌استارت میشه. این کار باعث می‌ه اطلاعات گوشی دوباره وارد حالت محافظت‌شده‌تری بشه و ابزارهای فورنزیک مثل GrayKey سخت‌تر بتونن قفل گوشی رو باز کنن.
+‏حالا شرکت Magnet Forensics که سازنده GrayKey هست، ظاهراً راهی پیدا کرده که قبل از این ری‌استارت خودکار، گوشی رو در همون وضعیت نگه داره تا مأموران بتونن فرصت بیشتری برای استخراج اطلاعات داشته باشن. این قابلیت با نام GrayKey Preserve و همچنین Evidence Preservation Mode معرفی شده. البته فعلاً این موضوع بر اساس یک ویدیوی تبلیغاتی لو رفته از شرکت مطرح شده و جزئیات فنی روش منتشر نشده. در واقع جنگ بین اپل و ابزارهای بازکردن قفل گوشی همچنان ادامه داره.
+‏
+‏ناگفته نمونه مأموران توی ایران برای باز کردن قفل گوشی بازداشت‌شده‌ها، خیلی وقت‌ها نیازی به GrayKey و این ابزارها ندارن؛ زور و تهدید راه ساده‌تر و دم‌دست‌تریه واسشون!
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+19:42
+1405/07/10
+
+
+
+
+src :@rnintel
+‏🇺🇸🇫🇷⚡️- Following the G7 meeting led by French president Emmanuel Macron, the G7 have agreed to release "up to 100 million barrels of oil from their strategic reserves within the next four months".
+‏
+‏U.S president Donald Trump precised there would be no limitations or bans on oil exports within the G7.
+19:41
+1405/07/10
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇾🇪🔻بدخول بريطانيا رسميًا في العدوان ضد اليمن بمشاركتها للسعودية، هل سنشهد تصعيدًا أكبر من الجانب اليمني خصوصًا فيما يتعلق بمنع الناقلات البريطانية من العبور عبر مضيق باب المندب؟!  https://t.me/naya_foriraq
+19:41
+1405/07/10
+
+
+
+
+src :@MilitarryWorld
+‏🔴امیرحسین ثابتی:
+‏
+‏تنها شخص راست گوی مجلس الان تو زندونه (رسایی)
+‏
+‏@MilitarryWorld | Parsa
+19:41
+1405/07/10
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷 The Iranian rial has fallen to another all-time low, trading this morning at around 2.5 million rials to the US dollar.  The rial has lost nearly 9% of its value since Sunday evening and around 25% over the past month.  @wfwitness  💧 Rainbet.com the #1…
+19:40
+1405/07/10
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️سازمان عملیات تجارت دریایی بریتانیا (UKMTO) روز جمعه ۱۰ مهر اعلام کرد که یک نفتکش در حال عبور از تنگه هرمز هدف اصابت یک پرتابه ناشناس قرار گرفته که این حادثه باعث بروز آتش‌سوزی جزئی و قطعی برق در این شناور شده است.
+‏
+‏بر اساس این گزارش، ناخدا این حادثه را در جریان خروج نفتکش از تنگه هرمز به این سازمان گزارش کرده است. آتش‌سوزی به‌سرعت مهار و خاموش شده و شناور به مسیر خود ادامه می‌دهد. این حادثه هیچ‌گونه تلفات جانی یا آسیب زیست‌محیطی به همراه نداشته است.
+‏
+‏مقامات مربوطه تحقیقات خود را درباره این رخداد آغاز کرده‌اند. سازمان عملیات تجارت دریایی بریتانیا به سایر کشتی‌های عبوری توصیه کرد با احتیاط کامل از این منطقه تردد کرده و هرگونه فعالیت مشکوک را فورا گزارش دهند.
+‏@indypersian
+19:38
+1405/07/10
+
+
+
+
 src :@Ali_bk_2
 ‏Two missiles have just been launched by Yemeni forces, with the direction unknown.
 19:38
+1405/07/10
+
+
+
+
+src :@Alibk3
+‏إطلاق صاروخي من القوات اليمنية الآن، دون معرفة الواجهة.
+19:38
+1405/07/10
+
+
+
+
+src :@Minas_Tirith2024
+‏با فشار دونالد ترامپ، کشورهای اروپایی بالاخره موافقت کردند تا فورا بخشی از ذخایر استراتژیک گازوئیل خود را آزاد کنند و در آستانه انتخابات آمریکا به کاهش قیمت این فرآورده نفتی کمک کنند.
+19:37
 1405/07/10
 
 
@@ -101,22 +186,6 @@ src :@P_raetorio
 ‏جنگنده سوپرهورنت از اسکادران ۴۱ نیروی دریایی آمریکا(مستقر بر ناوهواپیمابر آبراهام لینکلن)با کیل مارک زیردریایی کیلو کلاس نداجا 
 ‏
 ‏@Minas_Tirith2024
-19:30
-1405/07/10
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏امبراِر و ماهیندرا مقدمات تولید C-390 را در هند فراهم می‌کنند.
-‏
-‏شرکت امبراِر برزیلی و گروه ماهیندرا هندی، شهر ناگپور در ایالت ماهاراشترا را به عنوان مکان احتمالی برای خط نهایی مونتاژ هواپیماهای نظامی-حمل و نقل C-390 Millennium تعیین کرده‌اند.
-‏
-‏در حال حاضر، این موضوع فقط در مرحله آماده‌سازی پروژه است. این کارخانه تنها در صورتی ساخته خواهد شد که دولت هند، هواپیمای C-390 را برای برنامه هواپیماهای حمل و نقل متوسط (برنامه هواپیمای حمل و نقل متوسط نیروی هوایی هند) انتخاب کند و سفارش مربوطه را ثبت نماید.
-‏
-‏
-‏@PARVAZDAROJ|M.S
 19:30
 1405/07/10
 
@@ -3118,14 +3187,6 @@ src :@jangaavaran1390
 
 
 
-src :@naya_foriraq
-‏المرجع الديني جواد الخالصي يطالب باستعادة أموال العراق واستقلال قراره: لا خضوع للإملاءات الأجنبية ولا حياد بين الحق والباطل
-16:02
-1405/07/10
-
-
-
-
 src :@intelslava
 ‏🇺🇦🇷🇺🇨🇳🇮🇳⚡️ — Zelensky stated that China and India are "greatly helping" Russia to circumvent Western sanctions.
 ‏
@@ -3498,37 +3559,11 @@ src :@bricsnews
 
 
 
-src :@Alibk3
-[عکس]
-‏هجوم عنيف للقوات اليمنية منذ فجر اليوم في جبهة العلقمة – راسن، وسط تقدم ميداني وسيطرة على مناطق:  راسن، البذيجة، بندح، الدمدم، جبل الصرهمة، جبل راسن، دراحة والمسوري.
-15:15
-1405/07/10
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏کانال ۱۴ اسرائیل گزارش داد رئیس امارات متحده عربی مجوزهای لازم را برای انجام پروازهای شرکت‌های اسرائیلی به مقصد امارات صادر کرده است. بر اساس این گزارش، این پروازها از امروز آغاز شده و تا هفته آینده ادامه خواهد داشت و هدف از آن انتقال و خروج شهروندان اسرائیلی در امارات عنوان شده است
 ‏
 ‏🆔@WAR_ROOM_NEWS
 15:13
-1405/07/10
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇬🇧🇮🇷 The Guardian: The average price of diesel in the UK has reached a record £2 per litre for the first time as the war with Iran continues to disrupt global fuel supplies.
-‏
-‏Diesel prices have risen by more than 40% since late February, pushing the cost of filling an average family car to around £110—approximately £32 more than before the war.
-‏
-‏The UK government is holding talks with European allies and the International Energy Agency over a potential release of emergency fuel reserves amid concerns over tightening supplies.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-15:12
 1405/07/10
 
 
@@ -3709,18 +3744,6 @@ src :@Americana_ir
 
 
 
-src :@MilitarryWorld
-‏🔴ایتن لوینز، خبرنگار آمریکایی: حوثی‌ها ممکن است واقعاً عدن را تصرف کنند و دولت یمنِ مورد حمایت عربستان سعودی را به‌طور کامل شکست دهند!
-‏
-‏اگر این اتفاق رخ دهد، ایران عربستان سعودی را محاصره خواهد کرد.
-‏
-‏@MilitarryWorld | Parsa
-14:51
-1405/07/10
-
-
-
-
 src :@rnintel
 ‏🇫🇷⚡️- 300 policemen were wounded and over 400 high schools are closed today in France as hordes of non-europeans maintain a high level of violence throughout the country.
 14:50
@@ -3876,14 +3899,6 @@ src :@Americana_ir
 [عکس]
 ‏🔻برای اولین بار، زن سیاه‌پوست سوسیالیست پیروز انتخابات مقدماتی سنا در فلوریدا شد  ▪️آنجی نیکسون، نماینده ایالتی و عضو دموکرات‌های سوسیالیست آمریکا (DSA)، در مقدماتی حزب دموکرات برای کرسی سنای ایالات متحده پیروز شد. او الکساندر ویندمن، افسر بازنشسته ارتش را…
 14:16
-1405/07/10
-
-
-
-
-src :@Indypersian
-‏IndyPersian pinned a video
-14:07
 1405/07/10
 
 
@@ -6073,17 +6088,6 @@ src :@Minas_Tirith2024
 ‏✒️#LT
 ‏📃@Cataphract1
 00:08
-1405/07/10
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏نخستین بار در هفته های اخیر نیروی هوایی عربستان به اهدافی در صنعا پایتخت یمن حمله کرده است 
-‏
-‏@Minas_Tirith2024
-00:07
 1405/07/10
 
 
