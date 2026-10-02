@@ -206,7 +206,7 @@ src :@Middle_East_Spectator
 
 src :@wfwitness
 [عکس]
-‏⚡️ 🇺🇸🇮🇶🇸🇾 U.S. Department of State: Representatives from 32 countries, the European Union and international organizations met in Rome to discuss efforts to defeat ISIS in Iraq and Syria.
+‏⚡️ 🇺🇸🇮🇶🇸🇾 U.S. Department of State: Representatives from 32 countries, the European Union and international organizations met in Rome to discuss efforts to defeat ISIS.
 ‏
 ‏The meeting focused on securing financial and logistical support for Iraq and Syria, including detention capacity, healthcare services and support for displaced populations.
 ‏
@@ -1950,27 +1950,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻زین‌الدین زیدان امشب، جمعه ۱۰ مهر، برای نخستین بار به‌عنوان سرمربی فرانسه در استاد دو فرانس روی نیمکت می‌نشیند؛ آن هم مقابل ایتالیا، تیمی که آخرین بازی دوران حرفه‌ای او در فینال جام جهانی ۲۰۰۶ برابر آن رقم خورد. 
-‏
-‏🔹فرانسه با دو پیروزی خارج از خانه مقابل ترکیه و بلژیک به استقبال سومین بازی زیدان در لیگ ملت‌های اروپا می‌رود.
-‏
-‏🔹این مسابقه برای زیدان بازگشتی ویژه به ورزشگاهی است که مهم‌ترین خاطره دوران بازی او در آن شکل گرفت. او در سال ۱۹۹۸ با فرانسه در همین ورزشگاه قهرمان جام جهانی شد.
-‏
-‏🔹زیدان پیش از دیدار با ایتالیا گفت قهرمانی در خانه «یک رویا» بود، اما تاکید کرد اکنون تمام تمرکزش روی آینده تیم ملی فرانسه است.
-‏
-‏🔹بازگشت زیدان به تیم ملی با استقبال گسترده‌ای در فرانسه روبه‌رو شده است. تمام ۸۰ هزار بلیت دیدار فرانسه و ایتالیا در کمتر از ۲۴ ساعت فروخته شد و فدراسیون فوتبال فرانسه معتقد است «اثر زیدان» در این استقبال نقش داشته است. تیری آنری نیز حضور او روی نیمکت فرانسه را «اتفاقی خارق‌العاده» توصیف کرده است.
-‏
-‏🔹روایتی از بازگشت زیدان را اینجا بخوانید
-‏
-‏@iranintltvsport
-21:38
-1405/07/10
-
-
-
-
 src :@cataphract1
 ‏⚜به گزارش رویترز، پاکستان بین ۳۰ تا ۴۰ هزار نیروی نظامی را برای کمک به دفاع از عربستان سعودی در برابر حملات پهپادی و موشکی به این کشور اعزام کرده است.
 ‏
@@ -2286,16 +2265,6 @@ src :@WAR_ROOM_NEWS
 src :@MilitarryWorld
 ‏🔴رویترز: عربستان سعودی برای یک حمله زمینی تمام عیار به حوثی های یمن در هفته های آینده آماده می‌شود.  @MilitarryWorld | Parsa
 21:06
-1405/07/10
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | جمعه ۱۰ مهر
-‏@iranintlTV
-21:03
 1405/07/10
 
 
