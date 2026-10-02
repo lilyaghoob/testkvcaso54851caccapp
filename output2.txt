@@ -1713,24 +1713,6 @@ src :@Shin_Persian
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏A loud sound was heard in the Saudi capital, Riyadh.
-03:33
-1405/07/10
-
-
-
-
-src :@Alibk3
-[عکس]
-‏سماع دوي في العاصمة السعودية الرياض
-03:33
-1405/07/10
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷🇮🇶🇺🇸Iran’s Foreign Ministry condemned restrictions imposed on air traffic between Iran and Iraq, accusing the U.S. of using extraterritorial sanctions to disrupt Iran’s trade and air transport links with other countries.
@@ -2047,29 +2029,6 @@ src :@naya_foriraq
 [عکس]
 ‏بعد الرياض،توقف حركة الرحلات الجوية في الدمام شرق السعودية
 02:15
-1405/07/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The Pentagon’s Project Meridian held its inaugural meeting with Elon Musk, Newt Gingrich and Palmer Luckey.
-02:14
-1405/07/10
-
-
-
-
-src :@ClashReport
-‏A U.S. Department of Energy electrical engineer has been arrested for allegedly trying to support Iran-backed Houthi rebels in Yemen.
-‏
-‏Prosecutors say Ashton Hamed Ellaboudy, 51, bought chemicals used in homemade explosives and drone parts, traveled to Yemen, and provided advice on communications equipment. The FBI says he was smuggled into Yemen and hoped to build government-level contacts with the Houthis.
-‏
-‏He is charged with providing material support to a U.S.-designated foreign terrorist organization.
-‏
-‏Source: AP
-02:11
 1405/07/10
 
 
