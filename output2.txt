@@ -1,3 +1,43 @@
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Faraja emergency/wartime Command center in Urmia has been designated:
+‏
+‏37.5313, 45.0749
+‏(Faraja owned AlGhadir Resort) 
+‏
+‏West Azerbaijan Province,  #Iran 
+‏
+‏Since the 2026 war, FARAJA emergency HQs and command centers were designated for each city &amp; province.
+‏
+‏ترجمه خودکار فارسی
+‏
+‏مرکز فرماندهی اضطراری/زمان جنگ فرماندهی انتظامی جمهوری اسلامی ایران (فراجا) در ارومیه مشخص شده است:
+‏
+‏37.5313, 45.0749
+‏(مجتمع تفریحی الغدیر متعلق به فراجا)
+‏
+‏استان آذربایجان غربی، #Iran
+‏
+‏از زمان جنگ ۲۰۲۶، برای هر شهر و استان، ستادهای اضطراری و مراکز فرماندهی فراجا تعیین شده‌اند.
+‏
+‏𝕏  ·  @shin_persian
+20:37
+1405/07/10
+
+
+
+
+src :@naya_foriraq
+‏🇾🇪القوات المسلحة اليمنية:
+‏شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 94 غارةً جويةً وصاروخاً استهدف بها الأعيان المدنية في محافظات صنعاء وصعدة وتعز وحجة وعمران وإب وخلفت شهداء وجرحى من المدنيين، وذلك من خلال طائرات "F-15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف والعدوان الصاروخي من نجران وجيزان .
+‏ليبلغ إجمالي غارات العدوان السعودي منذ بدء التصعيد 1350 غارةً جويةً وصاروخاً.
+20:34
+1405/07/10
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏After taking control of the Bani Mohammed area, Yemeni forces are advancing toward al-Za'azea in al-Shamayatayn district, Taiz province, and are getting closer and closer to al-Turbah, the last supply route between Taiz and Aden.
@@ -6762,55 +6802,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 20:51
-1405/07/09
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Operation Economic Outcast targets the 𝐀𝟕 𝐍𝐞𝐭𝐰𝐨𝐫𝐤, a Russia-linked shadow banking system used by Iran, the IRGC, Hamas, Russian illicit-finance actors, cybercriminals, and sanctions evaders. OFAC designated A7 as a significant transnational criminal organization, while FinCEN proposed cutting its Sub-Agents off from covered fund transfers and issued an alert identifying suspicious-activity indicators.
-‏
-‏INDIVIDUALS
-‏
-‏- 𝐈𝐥𝐚𝐧 𝐌𝐢𝐫𝐨𝐧𝐨𝐯𝐢𝐜𝐡 𝐒𝐡𝐨𝐫 — Sanctioned and convicted criminal fraudster who leads the A7 Network; nationality/location not specified in the release.
-‏
-‏ENTITIES
-‏
-‏- 𝐀𝟕 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 — Russia-linked global shadow banking network designated as a significant transnational criminal organization. Uses controlled third-country Sub-Agents, falsified trade and import-export records, misleading goods descriptions, masked account access, and custom-built VPNs to disguise illicit payments as legitimate commerce.
-‏- 𝐀𝟕 𝐋𝐋𝐂 — A7 Network entity previously designated on August 14, 2025.
-‏- 𝐎𝐥𝐝 𝐕𝐞𝐜𝐭𝐨𝐫 𝐋𝐋𝐂 — Previously designated A7 Network entity and issuer of the blocked, ruble-backed A7A5 token.
-‏- 𝐍𝐨𝐛𝐢𝐭𝐞𝐱 — Iran’s largest digital asset exchange, designated June 2, 2026; linked to the A7 Network.
-‏
-‏KEY NETWORK ACTIVITY
-‏
-‏- Supported transactions involving the Central Bank of Iran, the IRGC, Hamas, Iranian oil sales, weapons procurement, Russia-linked illicit finance, ransomware actors, restricted-goods procurement, and North Korean cryptocurrency exchange hacks.
-‏- Sub-Agents processed more than $17 billion globally from January 2025 through June 2026.
-‏- A7 claimed that by January 2026 it was processing more than 2,000 daily transactions totaling over 7.5 trillion rubles, approximately $91.5 billion or 13% of Russia’s 2025 foreign trade.
-‏- One Sub-Agent transacted with Iranian “shadow fleet” entities; it and a sister company received nearly $140 million from Iranian sanctions-evasion actors.
-‏- Another Sub-Agent transferred approximately $1.6 million to a company linked to Iranian sanctions evasion and weapons procurement.
-‏- A7 staff wholly control Sub-Agent websites and bank accounts, using custom VPN infrastructure to conceal their locations and execute payments rapidly.
-‏
-‏FINCEN MEASURES
-‏
-‏- Proposed a rule under Section 9714(a) of the Combating Russian Money Laundering Act prohibiting transmittals of funds involving A7 Network Sub-Agents.
-‏- Public comments close 30 days after publication in the Federal Register.
-‏- Issued an alert with red flags to help financial institutions detect, report, and investigate A7-related suspicious activity.
-‏- The action follows the UK National Crime Agency’s August 31, 2026 alert concerning A7 sanctions evasion involving Russia and Iran.
-‏
-‏SANCTIONS AND TECHNICAL IMPLICATIONS
-‏
-‏- All A7 Network property and interests in property within U.S. jurisdiction are blocked, including transactions involving Sub-Agents acting for or on behalf of A7.
-‏- Entities owned 50% or more, directly or indirectly and individually or in aggregate, by blocked persons are also blocked.
-‏- The ruble-backed 𝐀𝟕𝐀𝟓 token is blocked because it was issued by designated 𝐎𝐥𝐝 𝐕𝐞𝐜𝐭𝐨𝐫 𝐋𝐋𝐂 and designed to facilitate sanctions evasion and generate revenue for sanctioned infrastructure providers.
-‏- No new cryptocurrency wallet addresses, wind-down licenses, or FAQs were announced.
-‏- U.S. and foreign persons may face civil or criminal exposure; OFAC civil penalties may apply on a strict-liability basis.
-‏
-‏Source: https://home.treasury.gov/news/press-releases/sb0644/
-‏
-‏ترجمه خودکار فارسی در بخش نظرات
-‏
-‏𝕏  ·  @shin_persian
-20:33
 1405/07/09
