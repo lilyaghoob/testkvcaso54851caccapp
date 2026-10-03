@@ -1,3 +1,22 @@
+src :@selena_updates
+[عکس]
+‏Germany’s nationalist party - AfD - has reached 30% nationally for the first time in an INSA poll, while Chancellor Friedrich Merz’s CDU/CSU bloc fell to a record-low 18%, leaving the AfD 12 points ahead. 
+‏
+‏The AfD gained one point from the previous week while the Union lost one.
+22:31
+1405/07/11
+
+
+
+
+src :@tabzlive
+‏🇸🇦❌🇾🇪 — The Houthis (Ansarallah) say Saudi Arabia carried out 60 air and missile strikes across Yemen over the past 24 hours, targeting sites in the Sanaa, Saada, Taiz, Hajjah and Marib governorates.  F-15 and Typhoon fighters operating from Khamis Mushait…
+22:28
+1405/07/11
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏اطلاعاتی درباره دو زن زندانی‌ سیاسی محبوس در زندان «دولت‌آباد» اصفهان با اتهام‌های امنیتی به‌دست «ایران‌وایر» رسیده است؛ «شهره محمدی» روان‌ درمان‌گر به ۱۲ سال حبس و «فرزانه کامکار» معلم و با بیش از ۲۶ سال سابقه تدریس به دو سال حبس و دو سال انفصال از خدمت،‌ محکوم شده‌اند.
@@ -1500,15 +1519,6 @@ src :@Americana_ir
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Hackers from the ShinyHunters group have stolen sensitive FBI personnel records, including psychiatric evaluations, medical histories and information about agents working on counterintelligence investigations, Reuters reports.  The group claims to have…
-20:07
-1405/07/11
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏Air traffic at Riyadh Airport has now been suspended.
@@ -1741,22 +1751,6 @@ src :@selena_updates
 src :@jangaavaran1390
 ‏جنگاوران pinned a photo
 19:49
-1405/07/11
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏نیویورک‌تایمز در گزارشی درباره طرح بمب‌گذاری در نزدیکی پایگاه فرفورد به نقل از منابعی نوشت که فرماندهان نظامی آمریکا در اواسط سپتامبر هشدار نگران‌کننده‌ای از نهادهای اطلاعاتی آمریکا و دیگر کشورهای غربی دریافت کردند.
-‏
-‏به گزارش این روزنامه، اسرائیل به آلمان درباره خطر علیه پایگاه‌های آمریکا در این کشور هشدار داده و به‌طور مشخص از پایگاه‌های اسپانگدالم و رامشتاین نام برده بود.
-‏
-‏نیویورک‌تایمز درباره تماس یکی از مظنونان طرح بمب‌گذاری در نزدیکی پایگاه فرفورد با پلیس نوشت که برخی مقام‌های اطلاعاتی معتقد بودند تماس اولیه یکی از پنج مرد بخشی از طرحی برای منحرف کردن پلیس بوده تا هم‌زمان برنامه‌ای گسترده‌تر اجرا شود.
-‏
-‏ برخی دیگر احتمال می‌دادند این پنج نفر مجرمان سطح پایینی بوده‌اند و یکی از آنها پس از آنکه متوجه شده برای انجام کاری جدی استخدام شده‌اند، با پلیس تماس گرفته است.
-‏https://iranintl.com/202610036797
-19:46
 1405/07/11
 
 
@@ -1999,14 +1993,6 @@ src :@Alibk3
 [عکس]
 ‏إعلان حالة طوارئ كبرى في قاعدة سلاح الجو الملكي البريطاني فيرفورد، وتم إخلاء العديد من المباني
 19:33
-1405/07/11
-
-
-
-
-src :@tabzlive
-‏🇬🇧🇺🇸🇮🇷⚡️ — British and U.S. officials believe the men arrested near RAF Fairford were connected to an Iran-backed operation linked either to the IRGC or a separate military headquarters in Tehran, NYT reports.  Investigators are trying to identify who recruited…
-19:32
 1405/07/11
 
 
@@ -3634,16 +3620,6 @@ src :@Artemis_Force
 src :@Artemis_Force
 ‏بر اساس تصاویر ماهواره‌ای، ناو هواپیمابر هسته ای جورج بوش (CVN-77) نیروی دریایی ایالات متحده آمریکا، در تاریخ 3 اکتبر 2026، در بخش شرقی اقیانوس هند و در مسیر رسیدن به دریای آندامان قرار دارد (مختصات: 6.29435، 94.51506)  در حال حاضر، این ناو هواپیمابر در حال…
 17:25
-1405/07/11
-
-
-
-
-src :@MilitarryWorld
-‏🔴تسنیم: تو قشم یه پهپاد فوق پیشرفته دشمن رو رهگیری کردیم
-‏
-‏@MilitarryWorld | Parsa
-17:22
 1405/07/11
 
 
@@ -5646,21 +5622,6 @@ src :@Navy_Iranian
 ‏
 ‏@artemis_force
 09:34
-1405/07/11
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔻جلسه محرمانه در کمپ دیوید درباره جنگ ایران و درگیری یمن
-‏
-‏▪️به گزارش اکسیوس به نقل از سه مقام آمریکایی، روز جمعه اعضای ارشد کابینه امنیت ملی دولت ترامپ ساعت‌ها در کمپ دیوید جلسه محرمانه‌ای برگزار کردند تا درباره گام‌های بعدی در جنگ با ایران و درگیری عربستان با حوثی‌ها در یمن بحث کنند.  
-‏ 
-‏▪️این جلسه که از سوی دولت ترامپ اعلام نشده بود، بسیار غیرمعمول توصیف شده است. آخرین جلسه مشابه در ژوئن ۲۰۲۵ برگزار شده بود؛ چند روز قبل از شروع جنگ اسرائیل علیه ایران. 
-‏ 
-‏🆔 @Americana_ir
-09:29
 1405/07/11
 
 
