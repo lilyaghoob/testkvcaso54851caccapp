@@ -6419,19 +6419,6 @@ src :@tglobaleye
 
 
 
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸🇻🇪🇮🇷 – An article by the TIME magazine has revealed new details of the Trump administration, including the fact that Grok, X's AI chatbot, is partially responsible for convincing the President that kidnapping his Venezuelan counterpart, Nicolás Maduro, would cement his legacy.
-‏
-‏The TIME article also revealed that Trump wasn't directly informed of the U.S. munitions stockpiles issues by senior officials, but instead learned about it from a New York Times article and confronted Pete Hegseth, who convinced the President it was all "fake news".
-‏
-‏@GeoPWatch
-07:50
-1405/07/10
-
-
-
-
 src :@bricsnews
 [عکس]
 ‏JUST IN: 🇬🇧 Net migration accounted for 96% of the UK's population growth last year.
