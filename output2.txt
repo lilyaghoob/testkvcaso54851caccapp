@@ -1,3 +1,51 @@
+src :@Ali_bk_2
+[عکس]
+‏The smoke rising from the Aramco oil refinery in the Saudi capital Riyadh is clearly visible in satellite imagery.
+11:26
+1405/07/11
+
+
+
+
+src :@Alibk3
+[عکس]
+‏الدخان المتصاعد من مصفى أرامكو النفطي في العاصمة السعودية الرياض يظهر بشكل واضح في الأقمار الصناعية.
+11:26
+1405/07/11
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇲🇩 Moldova's President says "Russian missiles and drones violated our airspace and exploded on our territory."
+‏
+‏"The war is dangerously approaching us."
+‏
+‏@BRICSNews
+11:25
+1405/07/11
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇺🇸سقوط طائرة استطلاع أمريكية مسيرة من طراز "MQ-4C Triton" تابعة للبحرية الأمريكية على ضفة النهر في قاعدة "مايبورت" البحرية بولاية فلوريدا.
+11:25
+1405/07/11
+
+
+
+
+src :@ClashReport
+[عکس]
+‏A U.S. Navy MQ-4C Triton surveillance drone ended up on the riverbank at the end of a runway at Naval Station Mayport, Florida, after what appears to be a landing overrun.
+11:23
+1405/07/11
+
+
+
+
 src :@naya_foriraq
 ‏🔻السلطات الليتوانية: إغلاق مطار فيلنيوس وإقلاع طائرات للنيتو بعد رصد مسيرة قادمة من بيلاروسيا.
 11:20
@@ -2504,17 +2552,6 @@ src :@ClashReport
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Axios, citing U.S. officials:
-‏
-‏Saudi forces and allied government forces are planning to launch a major counteroffensive against the Houthis in the coming days, in an attempt to push them away from areas along the Red Sea coast that control the Bab al-Mandab Strait.
-02:57
-1405/07/11
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸👌⚡️- The Indiana GOP has fired an organizer of 10 years, Paul Joseph Tinkle, for making an "ok" hand gesture during a group photo. 
@@ -2525,28 +2562,6 @@ src :@rnintel
 ‏
 ‏To this day the ADL still considers the gesture a "hate symbol" after a deliberate prank by internet racists to get it declared so.
 02:57
-1405/07/11
-
-
-
-
-src :@Alibk3
-[عکس]
-‏أكسيوس عن مسؤولين أميركيين:
-‏
-‏ القوات السعودية وقوات الحكومة الموالية لها، تخطط لشن هجوم مضاد كبير ضد الحوثيين في الأيام المقبلة، في محاولة لدفعهم بعيداً عن المناطق الواقعة على ساحل البحر الأحمر والتي تسيطر على مضيق باب المندب.
-02:57
-1405/07/11
-
-
-
-
-src :@ClashReport
-[عکس]
-‏UKMTO said a crude oil tanker was struck by an unknown projectile about 4 nautical miles east of Oman on Oct. 2.
-‏
-‏All crew are safe and no environmental impact has been reported.
-02:56
 1405/07/11
 
 
@@ -3315,23 +3330,6 @@ src :@naya_foriraq
 [عکس]
 ‏🇮🇶النائب العراقي محمد الخفاجي: كتاب مرسل إلى وزارة النقل العراقية يبلغهم بإجراءات الجانب الامريكي بشأن العقوبات.
 23:27
-1405/07/10
-
-
-
-
-src :@naya_foriraq
-‏🔻الاعلام الاميركي بخصوص قضية فلاي دبي: عُمان منعت منفذ هجوم فلاي دبي من السفر بسبب آرائه المتطرفة.
-23:26
-1405/07/10
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇶🇮🇷رئاسة الوزراء العراقية: الاتفاق على السماح بتسيير 40 رحلة جوية يومياً من وإلى مطار النجف الأشرف الدولي لشركات الطيران الإيرانية باستثناء شركة ماهان.
-23:25
 1405/07/10
 
 
@@ -6298,25 +6296,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏طرح از س. روزبه
 11:29
-1405/07/10
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏#تاریخنگار_فضایی 
-‏
-‏در 2 اکتبر 2012 ، برای اولین بار ، اطلاعات پهنای باند از طریق فرستنده لیزری از بخش روسی ایستگاه فضایی بین المللی به ایستگاه زمینی منتقل شد.
-‏
-‏ در این روز ، به عنوان بخشی از آزمایش فضایی برای توسعه تجهیزات و نشان دادن فناوری روسیه برای ایجاد سیستم های لیزری فضایی برای انتقال اطلاعات ، این آزمایش توسط دو کمپانی NPK SPP OJSC به همراه RSC Energia OJSC  برگزار شد ، یک جلسه انتقال اطلاعات از طریق خطوط ارتباطی ایستگاه فضایی به گیرنده لیزری ایستگاه زمینی  آرخیز در قفقاز شمالی منتقل شد
-‏
-‏
-‏در این آزمایش اطلاعات با حجم کل 2.8 گیگابایت با سرعت 125 مگابیت بر ثانیه منتقل شد.
-‏
-‏ این رویداد راه را برای ورود گسترده خطوط ارتباطی لیزری به فناوری فضایی در روسیه هموار کرد ، که دارای مزایای وزن و اندازه کوچکتر تجهیزات ارتباطی فضایی بودند و به طور بالقوه می توانند سرعت فوق العاده بالایی از جریان اطلاعات (حداکثر ده ها گیگابیت بر ثانیه) را فراهم کند.
-‏
-‏
-‏@rus_cosmos
-11:24
 1405/07/10
