@@ -1,10 +1,62 @@
+src :@mamlekate
+‏📝 سیاوش جمشیدی خیرآبادی، از بازداشت‌شدگان اعتراضات دی‌ماه، اعدام شد
+‏
+‏خبرگزاری میزان، وابسته به قوه قضائیه ایران، روز شنبه ۱۱ مهر از اعدام سیاوش جمشیدی خیرآبادی، از بازداشت‌شدگاه اعتراضات دی ۱۴۰۴ خبر داد. این رسانه در اطلاعیه خود از «حضور مکرر» او در اعتراضات دی‌ماه ۱۴۰۴ خبر داده و اتهام او را «محاربه از طریق کشیدن سلاح گرم و شلیک با آن و اجتماع و تبانی علیه امنیت کشور» بیان کرده است. 
+‏
+‏خبرگزاری قوه قضائیه مدعی شده است که آقای جمشیدی «سوابق مجرمانه» داشته و در ۱۸ دی ماه پارسال در خیابان ناصرخسرو شهرکرد به سمت مأموران شلیک و سپس فرار کرده، اما دو روز بعد بازداشت شده است. در اطلاعیه قوه قضاییه آمده است که حکم اعدام این معترض پس از تأیید در دیوان عالی کشور اجرا شد. با این‌حال، در این اطلاعیه توضیحی دربارهٔ زمان برگزاری دادگاه، روند دادرسی و دسترسی او به وکیل منتخب ارائه نشده است.
+‏
+‏جمهوری اسلامی تا کنون رسماً از اعدام بیش از ۳۰ تن بازداشتی‌های اعتراضات دی خبر داده و به ده‌ها معترض زندانی دیگر نیز حکم اعدام داده است.
+‏
+‏@mamlekate
+11:17
+1405/07/11
+
+
+
+
+src :@MilitarryWorld
+‏🔴فراجا : پاکپور نقش مهمی در خنثی سازی کودتای شب ۱۸ دی داشت.
+‏
+‏@MilitarryWorld | Parsa
+11:15
+1405/07/11
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Ethiopian federal forces and allied pro-government Tigray militias are closing in on Mekelle, Tigray's capital, after reversing a TPLF-led offensive that began in late September. 
+‏
+‏Pro-government fighters claim to be within 20 km of the city, senior TPLF leaders have reportedly left, and the TPLF describes its pullbacks as tactical rather than a retreat. 
+‏
+‏The fighting marks the collapse of the 2022 Pretoria peace deal that ended a war estimated to have killed 600,000. 
+‏
+‏The crisis has spilled over internationally.
+‏
+‏Ethiopia and Eritrea have severed diplomatic ties, and Ethiopia expelled an Egyptian diplomat, with each side accusing the other of backing the rebels.
+11:14
+1405/07/11
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏صواريخ تنطلق من صنعاء نحو المواقع السعودية
+11:14
+1405/07/11
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. 
 ‏
 ‏It kept trying to reach servers in China. About 90% of its traffic went there. 
 ‏
-‏The data was encrypted so they couldn't see what was sent, but NIO claims European data stays in Europe. ,
+‏The data was encrypted so they couldn't see what was sent, but NIO claims European data stays in Europe. 
 ‏
 ‏A separate test on a Chinese-made bus found the manufacturer could remotely access battery and power systems.
 11:09
@@ -3074,23 +3126,6 @@ src :@BellumActaNews
 
 
 
-src :@ClashReport
-[عکس]
-‏The UAE has reportedly warned the UK it could withdraw billions of pounds in future investment after Manchester City was found guilty of Premier League financial violations.
-‏
-‏According to The Telegraph, Abu Dhabi could reconsider funding for the Oxford-Cambridge technology corridor, where the UK is seeking £10bn in private investment.
-‏
-‏The dispute has put pressure on Prime Minister Andy Burnham, who initially praised City’s UAE owners and said he would be “really concerned” if they sold the club before Downing Street stressed that no team was above the rules.
-‏
-‏Manchester City, owned by Sheikh Mansour, was found guilty of all but one of 115 charges and has said it will appeal.
-‏
-‏Source: The Telegraph
-00:06
-1405/07/11
-
-
-
-
 src :@samueltarikh
 ‏⭕️خبرنگار : قدم بعدیت در مورد ایران چیه؟
 ‏
@@ -3202,16 +3237,6 @@ src :@rnintel
 ‏🇬🇧🇮🇷⚡️- BREAKING: Two Iranians have been arrested by British authorities on charges of plotting a terrorist attack against Jewish communities in Manchester.
 ‏
 ‏It is alleged that the suspects were in contact with a “third party,” which may be Iran.
-23:34
-1405/07/10
-
-
-
-
-src :@MilitarryWorld
-‏🔴کارشناس صداوسیما: افزایش قیمت ارز و دلار ناشی از هیجانات بازاره و قیمت واقعیش این نیست
-‏
-‏@MilitarryWorld | Parsa
 23:34
 1405/07/10
 
@@ -3346,15 +3371,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 22:39
-1405/07/10
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇸🇦انفجارات عديدة في نجران نتيجة استهدافات مباشرة للقوات المسلحة اليمنية.
-22:36
 1405/07/10
 
 
@@ -4724,19 +4740,6 @@ src :@selena_updates
 ‏
 ‏The USS Makin Island Amphibious Ready Group, carrying Marines from the 13th Marine Expeditionary Unit, is also expected by late November. The buildup is straining U.S. Patriot inventories, with systems being shifted from other commands to reinforce the Middle East.
 18:20
-1405/07/10
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏«هوشنگ پوربابایی»، وکیل «الناز شاکردوست» در گفت‌وگو با پایگاه خبری «امتداد» اعلام کرد دادگاه تجدیدنظر استان تهران، حکم بدوی یک سال حبس تعزیری و دو سال محرومیت از فعالیت‌های سیاسی، مجازی و هنری علیه موکلش را تایید کرده است.
-‏این مجازات برای بازیگر شناخته شده سینما به دلیل انتشار یک استوری  مرتبط با اعتراضات دی‌ماه۱۴۰۴ در نظر گرفته شده است.
-‏بخوانید: iranwire.com/fa/news-1/158391
-‏
-‏@Farsi_Iranwire
-18:19
 1405/07/10
 
 
@@ -6332,20 +6335,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/07/10/409496/
 11:19
-1405/07/10
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‌‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠سرمقاله؛ شکست پروژه «انسجام»
-‏ 
-‏روشنک آسترکی
-‏ 
-‏دو دیدگاه متضاد «مذاکره و سازش با آمریکا» و «مقاومت حداکثری و جنگ» سال‌هاست سبب بروز اختلاف میان جریانات حکومتی شده اما اکنون تنش میان جریانات موافق و مخالف هر دیدگاه به اوج رسیده و سبب شکست پروژه «انسجام» شده است که رئوس حکومت تلاش کرده بودند با نمایشی از «وحدت» در ماه‌های گذشته پیش ببرند.
-‏ 
-‏https://kayhan.london/1405/07/10/409499/
-11:14
 1405/07/10
