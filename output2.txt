@@ -1,5 +1,5 @@
 src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 NEW: Heavy clashes continue west of Taizz city, as Ansarallah resumes its offensive after the break of dawn
+‏—❗️🇸🇦/🇾🇪 NEW: Heavy clashes continue west of Taizz city, as Ansarallah has resumed its ongoing offensive after the break of dawn
 ‏
 ‏@Middle_East_Spectator
 06:03
@@ -30,14 +30,6 @@ src :@tabzlive
 
 
 
-src :@Middle_East_Spectator
-‏If Medman can be saved, so can you.
-05:44
-1405/07/11
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏وزارت دادگستری آمریکا یک عضو حماس در غزه و سه شهروند آمریکایی را به مشارکت در شبکه‌ای بین‌المللی متهم کرده است که به گفته دادستان‌ها، بیش از ۱.۷ میلیون دلار تحت پوشش کمک‌های بشردوستانه برای حماس جمع‌آوری کرده است.
@@ -61,14 +53,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 05:42
-1405/07/11
-
-
-
-
-src :@Middle_East_Spectator
-‏Labubu-Pistachio-Eaters
-05:40
 1405/07/11
 
 
@@ -1176,23 +1160,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 00:50
-1405/07/11
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏آمریکا و ۵۵ کشور دیگر عضو «ابتکار امنیت اشاعه» جمعه دهم مهر، در نخستین سالگرد بازگشت محدودیت‌های سازمان ملل علیه جمهوری اسلامی از طریق مکانیسم ماشه، اعلام کردند به اجرای این محدودیت‌ها ادامه می‌دهند.
-‏
-‏این کشورها اعلام کردند برای جلوگیری از انتقال اقلام، مواد، تجهیزات و فناوری‌هایی به جمهوری اسلامی که می‌تواند در فعالیت‌های حساس هسته‌ای یا توسعه سامانه‌های حمل سلاح هسته‌ای کاربرد داشته باشد، اقدام خواهند کرد.
-‏
-‏کشورهای امضاکننده همچنین برای جلوگیری از انتقال اقلامی به جمهوری اسلامی یا از آن که می‌تواند در ساخت سلاح‌های کشتار جمعی و ابزارهای حمل آنها، از جمله پهپادها، استفاده شود، اقدام خواهند کرد.
-‏
-‏در این بیانیه آمده است شش قطعنامه شورای امنیت سازمان ملل پنجم مهر ۱۴۰۴، پس از تکمیل مکانیسم ماشه، دوباره اجرایی شدند. فرانسه، آلمان و بریتانیا این روند را در واکنش به عمل نکردن جمهوری اسلامی به تعهدات هسته‌ای خود در برجام آغاز کردند.
-‏
-‏آمریکا و ۵۵ کشور دیگر از اعضای سازمان ملل خواستند محدودیت‌های بازگشته را اجرا کنند و از جمهوری اسلامی خواستند به تعهدات منع اشاعه بازگردد و با آژانس بین‌المللی انرژی اتمی همکاری کند.
-00:47
 1405/07/11
 
 
@@ -4763,6 +4730,19 @@ src :@mohem_mat
 
 
 
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷 NEW: Middle East Spectator has been designated by the terrorist organization calling itself the People’s Red Mujahideen of Iran (MEK) as a ‘regime-affiliated outlet’
+‏
+‏This is false and baseless.
+‏
+‏@Middle_East_Spectator
+16:57
+1405/07/10
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏روزها
@@ -4948,6 +4928,17 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 16:19
+1405/07/10
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷/🇦🇫 NEW: Iran and the Islamic Emirate of Afghanistan participated in joint rescue exercises on the border
+‏
+‏@Middle_East_Spectator
+16:15
 1405/07/10
 
 
