@@ -1,3 +1,33 @@
+src :@Ali_bk_2
+[عکس]
+‏Air traffic at Riyadh Airport has now been suspended.
+20:06
+1405/07/11
+
+
+
+
+src :@Alibk3
+[عکس]
+‏توقف حركة الملاحة الجوية في مطار الرياض الآن.
+20:06
+1405/07/11
+
+
+
+
+src :@mamlekate
+‏📝 آمریکا هم از پایان جنگ با ایران می‌گوید هم برای تشدید آن آماده می‌شود
+‏
+‏درحالی‌که دونالد ترامپ جمعه شب در یک سخنرانی انتخاباتی در آلاباما گفت جنگ احتمالا بلافاصله پس از انتخابات پایان خواهد یافت، سایت اکسیوس گزارش داد که شماری از ارشدترین مقام‌های امنیت ملی دولت همان روز در نشستی اعلام‌نشده و چندساعته در کمپ دیوید درباره گام‌های بعدی آمریکا در جنگ با ایران گفت‌وگو کرده‌اند.
+‏
+‏@mamlekate
+20:04
+1405/07/11
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏#رسانه
@@ -1718,7 +1748,7 @@ src :@mohem_mat
 
 
 src :@naya_foriraq
-‏🇮🇶اشتباکات مسلحة في قضاء كلار ضمن محافظة السليمانية شمالي العراق وإصابة عدة اشخاص محصيلة اولية
+‏🇮🇶اشتباکات مسلحة في قضاء كلار ضمن محافظة السليمانية شمالي العراق وإصابة عدة اشخاص كحصيلة اولية
 18:12
 1405/07/11
 
@@ -4031,26 +4061,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Indypersian
-[عکس]
-‏⭕️تیراندازی مقابل دادگستری مهاباد، یک کشته و چهار زخمی بر جا گذاشت
-‏
-‏♦️تیراندازی صبح شنبه ۱۱ مهر در مقابل ساختمان دادگستری مهاباد در استان آذربایجان غربی، یک کشته و چهار زخمی بر جای گذاشت.
-‏
-‏در گزارش‌های اولیه، از وقوع مشاجره میان چند زن و سپس ورود یک مرد مسلح و تیراندازی سخن گفته شده بود. اما فرمانده انتظامی مهاباد در توضیح تازه‌تری اعلام کرد که بررسی‌های پلیس، انگیزه این تیراندازی را اختلافات قبلی و انتقام‌جویی شخصی نشان می‌دهد.
-‏
-‏به گفته فرمانده پلیس، فرزند فرد مهاجم چند سال پیش به قتل رسیده بود و او شخصی را مسئول این قتل می‌دانست. بر اساس این روایت، مهاجم امروز مقابل دادگستری حاضر شده و به سمت اعضای خانواده فردی که او را مسئول مرگ فرزندش می‌دانسته، تیراندازی کرده است.
-‏
-‏در نتیجه این تیراندازی، یک نفر جان خود را از دست داد و چهار نفر دیگر زخمی شدند. عامل تیراندازی بازداشت و برای ادامه روند قضایی تحویل مراجع مربوط شده است.
-‏جزئیات بیشتری درباره هویت فرد کشته‌شده و وضعیت چهار مجروح تاکنون به‌طور رسمی منتشر نشده است و مقام‌های محلی گفته‌اند تحقیقات درباره ابعاد حادثه ادامه دارد.
-‏
-‏@indypersian
-14:51
-1405/07/11
-
-
-
-
 src :@GeoPWatch
 ‏🇷🇺❌🇺🇦🇲🇩 - Overnight 3 missiles and 2 drones entered Moldova and impacted across multiple districts.  @GeoPWatch
 14:49
@@ -6238,36 +6248,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 20:17
-1405/07/10
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ناتو، مانور تصرف یک کشتی با "خدمه روسی" را در دریای شمال انجام داد
-‏
-‏در دریای شمال، مانور گسترده‌ای به نام Exercise Strike Warrior توسط ناتو برگزار شد، که در آن تصرف یک کشتی با "خدمه روسی" تمرین شد، طبق گزارش نشریه The Telegraph. این سناریو شامل دفع حملات موشکی و هوایی، عملیات ضد زیردریایی و تصرف کشتی بود.
-‏
-‏
-‏@artemis_force
-20:04
-1405/07/10
-
-
-
-
-src :@thewarreporter
-‏🇸🇦🇾🇪🇾🇪 — Saudi Arabia is preparing a potential new offensive against the Houthis, possibly within weeks, aimed primarily at retaking control of the Bab el-Mandeb Strait and restoring Red Sea shipping.
-‏
-‏More than 100,000 Yemeni government troops could be mobilized with Saudi air support. Riyadh is considering either a limited coastal assault or a broader, multi-front offensive across Yemen.
-‏
-‏The U.S. is providing intelligence and military advisers but is not expected to participate directly in combat.
-‏
-‏Pakistan has deployed 30,000–40,000 troops to Saudi Arabia to help defend against Houthi missile and drone attacks.
-‏
-‏Riyadh believes peace talks cannot resume while the Houthis control the Bab el-Mandeb Strait.
-‏
-‏— Reuters | @TheWarReporter
-20:02
 1405/07/10
