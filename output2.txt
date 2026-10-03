@@ -1,3 +1,64 @@
+src :@ClashReport
+[عکس]
+‏Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. 
+‏
+‏It kept trying to reach servers in China. About 90% of its traffic went there. 
+‏
+‏The data was encrypted so they couldn't see what was sent, but NIO claims European data stays in Europe. ,
+‏
+‏A separate test on a Chinese-made bus found the manufacturer could remotely access battery and power systems.
+11:09
+1405/07/11
+
+
+
+
+src :@jangaavaran1390
+‏دادستان کل امارات: تحقیقات نشان داد کمک خلبان فلای‌دبی قصد حمله تروریستی داشت و با تبر اضطراری به خلبان حمله کرد تا کنترل هواپیما را بگیرد.
+11:09
+1405/07/11
+
+
+
+
+src :@Navy_Iranian
+[عکس]
+‏تصاویر ماهواره‌ای اختصاصی از سه پایگاه ارتش اسرائیل در مناطق اشغالی جولان سوریه که به‌تازگی ساخته‌ شده‌اند.
+‏
+‏• @BasedIMINT •
+11:08
+1405/07/11
+
+
+
+
+src :@Shin_Persian
+‏↩️ Quoted tweet:
+‏Michael A. Horowitz ✓ @michaelh992
+‏
+‏The co-pilot of the FlyDubai plane who attacked the plane's captain is an Omani national who was previously suspended from flying by Oman Air after being identified as a security risk, according to ABC News
+‏
+‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+‏
+‏ترجمه خودکار فارسی
+‏
+‏به گزارش ای‌بی‌سی نیوز، کمک‌خلبان هواپیمای فلای‌دبی که به کاپیتان هواپیما حمله کرد، تبعه عمان است و پیش‌تر پس از آنکه از سوی عمان ایر به عنوان یک خطر امنیتی شناسایی شد، از پرواز تعلیق شده بود.
+‏
+‏𝕏  ·  @shin_persian
+11:08
+1405/07/11
+
+
+
+
+src :@Shin_Persian
+‏↩️ Quoted tweet: Michael A. Horowitz ✓  @michaelh992  The co-pilot of the FlyDubai plane who attacked the plane's captain is an Omani national who was previously suspended from flying by Oman Air after being identified as a security risk, according to ABC…
+11:08
+1405/07/11
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏گزارش‌ها حاکی از توقیف و مصادره اموال «غزل (ربکا) قادری»، بلاگر و صاحب یک برند تجاری ساکن آمریکا، در ایران است.
@@ -1867,14 +1928,6 @@ src :@tabzlive
 src :@jangaavaran1390
 ‏اکسیوس: عربستان و نیروهای دولت یمن عملیات تهاجمی گسترده‌ای برای بازپس‌گیری مناطق ساحلی دریای سرخ نزدیک تنگه باب‌المندب علیه حوثی‌ها برنامه‌ریزی کرده‌اند. علی‌رغم رد درخواست مشارکت مستقیم نظامی آمریکا، در صورت بروز مشکلات، واشنگتن مجدداً امکان حملات هوایی علیه حوثی‌ها را بررسی خواهد کرد.
 06:32
-1405/07/11
-
-
-
-
-src :@jangaavaran1390
-‏ساعاتی پیش یک تانکر دیگر نیز در خلیج فارس مورد حمله قرار گرفت
-06:31
 1405/07/11
 
 
@@ -6295,18 +6348,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/07/10/409499/
 11:14
-1405/07/10
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠عکس هفته | زنان شجاع ایران
-‏ 
-‏بسیاری از دختران محصل ایران در حالیکه پوشش اجباری بر سر داشتند توسط مادرانی با پوشش اختیاری راهی مدرسه شدند. مبارزه زنان با حجاب اجباری از نخستین هفته‌ها پس از انقلاب۵۷ آغاز شد و همواره در مسیری پر اُفت و خیز ادامه داشت. از اعتراضات «جنبش مهسا» در سال ۱۴۰۱ زنان روسری‌های خود را آتش زدند و در مبارزه‌ مدنی شجاعانه و درخشانی توانستند گام به گام پوشش اختیاری را به جمهوری اسلامی تحمیل کنند. این مسیر همچنان ادامه دارد و اول مهرماه جاری مادران دلیر ایران جلوه دیگری از این مبارزه را در تاریخ ایران ثبت کردند.
-‏ 
-‏https://kayhan.london/1405/07/10/409524/
-11:10
 1405/07/10
