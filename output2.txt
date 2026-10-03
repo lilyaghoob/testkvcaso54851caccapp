@@ -1,3 +1,57 @@
+src :@Ali_bk_2
+[عکس]
+‏The Saudi aggression targeted Mount Attan in the Yemeni capital, Sanaa
+13:41
+1405/07/11
+
+
+
+
+src :@Alibk3
+[عکس]
+‏العدوان السعودي استهدف جبل عطان في العاصمة اليمنية صنعاء
+13:41
+1405/07/11
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️درخت گردوی کهنسالی در منطقه کهمان شهرستان سلسله در استان لرستان به‌عنوان یکی از آثار طبیعی کشور ثبت ملی شد. به گفته عطا حسن‌پور، مدیرکل میراث فرهنگی، گردشگری و صنایع‌دستی لرستان، در جریان بررسی‌های اخیر کمیته میراث ملی، ۱۲ درخت تاریخی در منطقه کهمان در فهرست میراث طبیعی ملی قرار گرفته‌اند که در میان آنها درخت گردویی با قدمتی حدود هزار سال وجود دارد.
+‏
+‏حسن‌پور این درخت را کهن‌ترین درخت گردوی کشور توصیف کرده و گفته است پیش از این، درخت گردویی با چنین قدمتی در کشور به ثبت ملی نرسیده بود. قرار است همزمان با برگزاری جشنواره گردو در کهمان، تابلوی ثبت اثر در محل نصب و لوح ثبت ملی آن نیز رونمایی شود.
+‏
+‏
+‏@indypersian
+13:41
+1405/07/11
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦⚡️ — Here's a surprising development: a representative of the Ukrainian Ministry of Defense and an advisor to Zelenskyy claim that Russian repeaters have been installed in Kiev, which help to improve the accuracy of "Geran" drones.
+‏
+‏According to him, these repeaters are difficult to detect, and the Russian Armed Forces will continue to strike not only at command posts, but also at air defense systems that protect them.
+‏
+‏@Intelslava
+13:38
+1405/07/11
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏گزارش از حمله جنگنده‌های سعودی به مواضع حوثی ها در صنعا
+13:38
+1405/07/11
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏غارات تستهدف جبال صنعاء
@@ -179,6 +233,7 @@ src :@Alibk3
 
 
 src :@WAR_ROOM_NEWS
+[عکس]
 ‏گزارش از حمله جنگنده‌های سعودی به مواضع حوثی ها در صنعا
 13:32
 1405/07/11
@@ -234,7 +289,7 @@ src :@didarnews1
 
 src :@wfwitness
 [عکس]
-‏⚡️🇱🇧🇮🇱 A Massive Israeli detonation was observed in Mansouri southern Lebanon, the explosion was so intense that it was heard across southern Lebanon.
+‏⚡️🇱🇧🇮🇱 A Massive Israeli detonation was observed in Mansouri southern Lebanon, the explosion was so intense that it was heard in Saida, southern Lebanon.
 ‏
 ‏@wfwitness
 ‏
@@ -1075,20 +1130,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[عکس]
-‏همزمان با آغاز معاملات بازار آزاد ارز در ایران در شنبه ۱۱ مهر، قیمت دلار برای نخستین بار در تاریخ معاملات از ۲۶۶ هزار تومان عبور کرد و یورو نیز با عبور از مرز ۳۰۰ هزار تومان، رکورد تازه‌ای ثبت کرد.
-‏
-‏در بازار آزاد ارز، قیمت پوند بریتانیا نیز به ۳۵۲ هزار تومان رسید.
-‏
-‏همچنین تا زمان تنظیم این گزارش، درهم امارات از ۷۳ هزار تومان عبور کرده است.
-‏https://iranintl.com/202610033197
-11:37
-1405/07/11
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏شب گذشته ۱۶ تانکر توسط آمریکا در هرمز اسکورت شدن که از این تعداد ۳ مورد از نفتکش ها مورد اصابت قرار گرفتن 
@@ -1247,15 +1288,6 @@ src :@ClashReport
 
 
 
-src :@naya_foriraq
-[عکس]
-‏صواريخ تنطلق من صنعاء نحو المواقع السعودية
-11:14
-1405/07/11
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. 
@@ -1382,24 +1414,6 @@ src :@P_raetorio
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Footage from near the targeted oil site in the Saudi capital Riyadh shows smoke rising
-11:00
-1405/07/11
-
-
-
-
-src :@Alibk3
-[عکس]
-‏مشاهد بالقرب من الموقع النفطي المستهدف في العاصمة السعودية الرياض تظهر الدخان المتصاعد
-11:00
-1405/07/11
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏⭕️وزارت دادگستری آمریکا: یک شبکه بین‌المللی با ادعای کمک به غزه، ۱.۷۵ میلیون دلار برای حماس جمع کرد
@@ -1487,21 +1501,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significant amounts. 
-‏
-‏This money will come from the Medicare Improvement Fund, a pointless “Slush Fund” that has only been used by Dumocrats in Congress to pay for the Waste, Fraud, and Abuse for their Special Interest friends, and drive up Healthcare costs.
-‏
-‏Because I delivered on this very important issue for the American People, they can also rest assured the highly popular $5,000 Trump Dividend will be distributed to every U.S. Citizen if, and when, the Republicans win the Midterm Elections!
-10:42
-1405/07/11
-
-
-
-
 src :@MilitarryWorld
 ‏🔴بقائی، سخنگوی وزارت خارجه :
 ‏
@@ -1517,21 +1516,6 @@ src :@MilitarryWorld
 src :@mohem_mat
 [عکس]
 ‏ای‌بی‌سی‌ نیوز:    مظنون حادثه فلای‌دبی، حمام الحَمّامی، ۲۹ ساله و تبعه عمان معرفی شده است وی با تبر اضطراری پرواز به خلبان حمله کرده و وی را زخمی کرده است   مقام‌های اطلاعاتی و انتظامی می‌گویند او در سال ۲۰۲۴، هنگام کارآموزی در عمان‌ایر، به دلیل در اختیار…
-10:38
-1405/07/11
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Chinese officials made unusual requests to accommodate Xi Jinping’s need for rest during his September summit with Trump, significantly cutting into the time available for meetings.
-‏
-‏Beijing asked for a private room inside the West Wing where Xi could rest between events, canceled a planned working lunch with Trump and requested more downtime. 
-‏
-‏The changes created roughly a five-hour gap in the summit schedule. Xi also had no activities scheduled on his first evening and spent only about 10 minutes at the National Archives on the final day.
-‏
-‏Source: WSJ
 10:38
 1405/07/11
 
@@ -1586,16 +1570,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@WAR_ROOM_NEWS
-‏دادستان کل امارات متحده عربی اعلام کرد تحقیقات درباره حادثه پرواز فلای‌دبی به مقصد تل‌آویو نشان داد کمک‌خلبان این پرواز در جریان پرواز اقدام به اجرای یک عملیات «تروریستی» کرده است
-‏
-‏🆔@WAR_ROOM_NEWS
-10:26
-1405/07/11
-
-
-
-
 src :@didarnews1
 ‏🔴قوه قضاییه جمهوری اسلامی ایران از اجرای حکم اعدام «سیاوش جمشیدی خیرآبادی»، از بازداشت‌شدگان اعتراضات دی۱۴۰۴، در بامداد شنبه ۱۱مهر۱۴۰۵ خبر داد.
 ‏
@@ -1603,18 +1577,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:25
-1405/07/11
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏آکسیوس:
-‏
-‏مقام‌های ارشد امنیت ملی دولت ترامپ روز جمعه در نشستی محرمانه و اعلام‌نشده در کمپ دیوید درباره گام‌های بعدی جنگ با جمهوری اسلامی و درگیری عربستان-حوثی‌ها در یمن گفت‌وگو کردند جی‌دی ونس ریاست نشست را بر عهده داشت و مارکو روبیو، پیت هگست، ژنرال دن کاین، جان راتکلیف و استیو ویتکوف حضور داشتند.آخرین نشست مشابه ژوئن ۲۰۲۵، پیش از آغاز جنگ دوازده‌روزه اسرائیل بود
-‏
-‏🆔@WAR_ROOM_NEWS
-10:24
 1405/07/11
 
 
@@ -3277,21 +3239,6 @@ src :@mamlekate
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇦🇾🇪 Saudi Civil Defense: A projectile launched by Yemen’s Houthis struck a school in Najran, southern Saudi Arabia, causing material damage.
-‏
-‏Saudi Civil Defense said emergency procedures were carried out following the incident. No casualties were reported in the statement.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-01:25
-1405/07/11
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏۱ اکتبر – ناو هواپیمابر Type 004
@@ -3299,18 +3246,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 01:21
-1405/07/11
-
-
-
-
-src :@wfwitness
-‏⚡️🇰🇵 Yonhap: North Korea has fired an unidentified projectile toward the East Sea, South Korea’s Joint Chiefs of Staff said. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-01:15
 1405/07/11
 
 
@@ -3330,14 +3265,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 01:01
-1405/07/11
-
-
-
-
-src :@wfwitness
-‏⚡️🇦🇪🇴🇲🇮🇱 WSJ: The FlyDubai co-pilot who stabbed his captain and nearly crashed Flight 1073 had previously been banned from flying by Oman over concerns he held radical ideological views, but FlyDubai hired him anyway, allowing him to fly the sensitive Dubai…
-00:51
 1405/07/11
 
 
@@ -3394,23 +3321,6 @@ src :@Middle_East_Spectator
 ‏🇬🇧🇮🇷⚡️- BREAKING: Two Iranians have been arrested by British authorities on charges of plotting a terrorist attack against Jewish communities in Manchester.
 ‏
 ‏It is alleged that the suspects were in contact with a “third party,” which may be Iran.
-00:34
-1405/07/11
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️ 🇺🇸🇮🇶🇸🇾 U.S. Department of State: Representatives from 32 countries, the European Union and international organizations met in Rome to discuss efforts to defeat ISIS.
-‏
-‏The meeting focused on securing financial and logistical support for Iraq and Syria, including detention capacity, healthcare services and support for displaced populations.
-‏
-‏Participants also discussed the repatriation, rehabilitation and reintegration of ISIS-linked individuals, as well as prosecution where appropriate.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:34
 1405/07/11
 
@@ -5929,21 +5839,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏این نماینده مجلس شورای اسلامی گفته «من قبلاً هم گفتم که کشور ما مرتب از سمت امارات تهدید می‌شود و در موضوعات مربوط به تنگه هرمز و عبور غیرقانونی کشتی‌ها در این کشور برنامه‌ریزی می‌شود. بنابراین باید به آنجا برویم و امنیت آن منطقه را برقرار کنیم؛ یعنی در آنجا مستقر شویم تا از آن نقطه علیه ما حمله‌ای صورت نگیرد و برای عبور کشتی‌هایی که خلاف منافع ماست برنامه‌ریزی نشود.»
 13:43
-1405/07/10
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠الحدث: آمریکا برای اعزام ۲۰ هزار نیروی تازه به خاورمیانه آماده می‌شود
-‏ 
-‏-به گزارش شبکه عربستانی «الحدث»، پنتاگون برای احتمال اعزام هزاران نیروی دریایی به خاورمیانه طی هفته‌های آینده آماده می‌شود. این در حالیست که دونالد ترامپ رئیس‌جمهوری آمریکا در حال بررسی از سر گرفتن حملات نظامی علیه جمهوری اسلامی ایران پس از انتخابات میاندوره‌ای کنگره است که اوایل نوامبر برگزار خواهد شد. این موضوع را مقامات آمریکایی اعلام کرده‌اند.
-‏ 
-‏-مقامات آمریکایی پنجشنبه اول اکتبر (نهم مهرماه) گفتند که برنامه‌های نظامی با هدف افزایش انعطاف‌پذیری ترامپ و فرماندهان نظامی در مدیریت جنگ، شامل اعزام حداکثر سه ناو هواپیمابر به همراه کشتی‌های همراه آنها به منطقه در ماه نوامبر می‌شود. به گفته‌ی این مقامات، این تحرکات همچنان در مرحله برنامه‌ریزی قرار دارد و هنوز تصمیم نهایی درباره اجرای آنها گرفته نشده است.
-‏ 
-‏-انتظار می‌رود سه گروه ناو هواپیمابر در مجموع حدود ۲۰ هزار نیرو و حداکثر ۱۵۰ فروند جنگنده داشته باشند. این نیروها همچنین شامل شمار زیادی ناوشکن مجهز به موشک و سامانه‌های مقابله با حملات موشکی خواهند بود.
-‏ 
-‏https://kayhan.london/1405/07/10/409583/
-13:39
 1405/07/10
