@@ -1,3 +1,60 @@
+src :@Ali_bk_2
+‏Reports of an explosion being heard in Sanaa
+13:32
+1405/07/11
+
+
+
+
+src :@Alibk3
+‏أنباء عن دوي انفجار في صنعاء
+13:32
+1405/07/11
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از حمله جنگنده‌های سعودی به مواضع حوثی ها در صنعا
+13:32
+1405/07/11
+
+
+
+
+src :@Ali_bk_2
+‏Reports of an explosion being heard in Sanaa
+13:31
+1405/07/11
+
+
+
+
+src :@Alibk3
+‏أنباء عن دوي انفجار في صنعاء
+13:31
+1405/07/11
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏طبق برخی گزارشات نیروهای حوثی به شهر عدینه در کوهستان حبشی، واقع در غرب شهر تعز، رسیدند
+13:30
+1405/07/11
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦🇾🇪عدوان سعودي على العاصمة اليمنية صنعاء.
+13:30
+1405/07/11
+
+
+
+
 src :@didarnews1
 ‏🔴 قیمت دلار به 267 هزار تومان رسید
 ‏
@@ -16,6 +73,8 @@ src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 A Massive Israeli detonation was observed in Mansouri southern Lebanon, the explosion was so intense that it was heard across southern Lebanon.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 13:22
 1405/07/11
 
@@ -1479,16 +1538,6 @@ src :@MilitarryWorld
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴حمله هوایی اسرائیل در بامداد امروز به ساختمانی در غرب شهر غزه، با هدف ترور «علی العمودی»، از مقام‌های ارشد حماس، انجام شده است.رسانه‌های فلسطینی گزارش دادند در این حمله پنج نفر کشته شده‌اند که در میان آن‌ها یک جوان، یک مادر و دخترش و دو زن دیگر حضور داشته‌اند، اما نام علی العمودی در میان کشته‌شدگان اعلام نشده است. ارتش اسرائیل تاکنون درباره این حمله اظهارنظری نکرده و در حال بررسی نتایج عملیات است. علی العمودی در حال حاضر به‌عنوان ارشدترین مقام سیاسی حماس در نوار غزه شناخته می‌شود و گزارش‌ها او را یکی از گزینه‌های اصلی جانشینی خلیل الحیه در ریاست دفتر سیاسی حماس در نوار غزه معرفی کرده‌اند
-‏🆔@WAR_ROOM_NEWS
-10:22
-1405/07/11
-
-
-
-
 src :@didarnews1
 ‏🔴ای‌بی‌سی‌ نیوز: 
 ‏
@@ -1517,17 +1566,6 @@ src :@BellumActaNews
 ‏The highly unusual gathering was not announced by the Trump administration. The last similar meeting took place in June 2025, just days before Israel went to war with Iran.
 ‏
 ‏— Axios | @TheWarReporter
-10:21
-1405/07/11
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏چهار نیروی حماس که طی حملات هدفمند پهپادی ارتش اسرائیل در نوار غزه کشته شدند
-‏
-‏🆔@WAR_ROOM_NEWS
 10:21
 1405/07/11
 
@@ -1717,28 +1755,6 @@ src :@jangaavaran1390
 ‏به ۱۲۴۰۰۰ پیامبر قرار بود دلار ۲۵۰ هزارتومانی رو طرف پیروز جنگ تا شب عید ببنیم نه مهر ماه
 ‏البته الان ۲۶۰ رد کردها
 10:14
-1405/07/11
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Enemy media:
-‏
-‏The army tried to assassinate Ali al-Amoudi, deputy head of Hamas' political bureau, the senior leader who effectively replaced Sinwar and is currently known as the man running the Gaza Strip. The outcome of the assassination attempt is still unclear.
-10:13
-1405/07/11
-
-
-
-
-src :@Alibk3
-[عکس]
-‏إعلام العدو: 
-‏
-‏الجيش حاول اغتيال علي العمودي، نائب رئيس المكتب السياسي لحماس، القيادي الكبير الذي حل فعليا محل السنوار، ويعرف حاليا بأنه الرجل الذي يدير قطاع غزة، ونتائج محاولة الاغتيال لم تتضح بعد.
-10:13
 1405/07/11
 
 
@@ -2038,22 +2054,6 @@ src :@mohem_mat
 
 
 
-src :@Ali_bk_2
-‏Documentation from another angle of the smoke rising in Riyadh as a result of a possible strike on the tanks of the Aramco oil refinery
-09:25
-1405/07/11
-
-
-
-
-src :@Alibk3
-‏توثيق من جانب آخر للدخان المتصاعد في الرياض نتيجة استهداف محتمل لخزانات مصفى أرامكو النفطي
-09:25
-1405/07/11
-
-
-
-
 src :@intelslava
 ‏🇺🇸🇺🇦⚡️ — The United States and [Ukraine] have concluded their first deal in the mining sector. The agreement involves investments of approximately $30 million in the development of uranium, beryllium, zirconium, and rare earth metal deposits. Ukraine will allocate half of the revenue from these new projects to a joint fund.
 ‏
@@ -2163,15 +2163,6 @@ src :@thewarreporter
 [عکس]
 ‏🇮🇱🇦🇪🇴🇲 — The Omani co-pilot that attempted to hijack the Flydubai aircraft traveling from Dubai to Tel Aviv is 'cooperating' with the investigation, sources briefed on the matter told ABC News.  The co-pilot has been identified as 29-year-old Hamam al-Hammami.…
 09:01
-1405/07/11
-
-
-
-
-src :@mohem_mat
-‏*دو ورزشکار از ۴ دونده تیم ملی که به اتهام تعرض و تجاوز با رأی دادگاه عالی کره از اتهامات وارده تبرئه شدند و به تهران بازگشتند
-‏@mohem_mat
-09:00
 1405/07/11
 
 
@@ -2999,14 +2990,6 @@ src :@wfwitness
 
 
 
-src :@naya_foriraq
-‏‏ترمب: لم يعد لدى إيران سلاح جوي أو بحري، مسألة إيران ستنتهي مباشرة بعد الانتخابات
-03:21
-1405/07/11
-
-
-
-
 src :@Mena_Live
 ‏Al-Arabiya: The name of the co-pilot is Hammam Al-Hammami.
 ‏
@@ -3141,15 +3124,6 @@ src :@wfwitness
 ‏@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-02:46
-1405/07/11
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏الحرس الثوري يستهدف  سفينة مخالفة على بعد 4 أميال بحرية شرق سلطنة عمان.
 02:46
 1405/07/11
 
