@@ -1762,16 +1762,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-‏@iranintlTV
-23:12
-1405/07/10
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇪🇹⚡- The battle for Maychew, Tigray region, has begun, with the Ethiopian Armed Forces, ENDF, entering the southern outskirts of the city. Heavy street fighting ongoing.  Map key: - Red: Ethiopian Armed Forces, - Green: Tigray Defense Forces.
