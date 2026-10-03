@@ -1,3 +1,70 @@
+src :@Exciton_missile_program
+‏در سریال تهران، یک RV مجهز به سرجنگی اتمی سپاه نمایش داده شده است. طرح از نظر ظاهری زیبا درآمده، اما برای ذهن اوتیستیک، ایرادهایی دارد مثل:
+‏
+‏1. بالک کنترلی دو اتصال شفت سروو موتور دارد.
+‏2. قطعه Wedge یا Fence غیره آیرودینامیکی جلوی بالک تعبیه نشده است.
+‏3. بالک هدایت بسیار ضعیف و نازک است و شکل لبه هدایت را ندارد.
+‏4. قرار دادن سرجنگی سنگین اتمی درست در انتهای RV، مرکز گرانش را نزدیک مرکز فشار می‌آورد. در این حالت RV پایداری ذاتی ندارد و پایدار ماندنش نیازمند اعمال فعال نیروی آیرودینامیکی است. کار کنترل سخت‌تر می‌شود و حتی ممکن است سامانه اساسا ناپایدار شود. میان مرکز گرانش و مرکز فشار فاصله بازو ندارد. مگر در بخشهای جلو از Ballast (وزنه تعادل) استفاده کنید که بی جهت وزن RV  را بالا بردید.
+‏برای کنترل بالک، یک اتصال شفت کافی است تا حول محور بچرخد و بالک را به چپ و راست ببرد. دو اتصال شفتِ چرخانِ هم‌محور، درجهٔ آزادی (DoF) را مقید می‌کند و دیگر نمی‌چرخد، مگر با سازوکارهای پیچیده و بسیار غیرضروری که درجات آزادی اضافه داشته باشند. مگر آنکه فرض کنیم این‌ها اصلاً بالک هدایت نیستند.
+‏قطعهٔ Wedge یا Fence ... آیرودینامیکی روی بسیاری از موشک‌های برد بلند ج.ا که هدایت درون جوی دارند به کار می‌رود (در RV موشکی مثل قاسم این قطعه دیده نمیشود). این قطعه با کمک به تاخیر در جدایش لایه مرزی، می‌تواند به‌عنوان vortex generator عمل کند و افزایش دما را در محل اتصال شفت به بالک کنترل کند. گاهی در ارتفاع خاص (عموما بالا) و در سرعت خاص، هدایت آیرودینامیکی دشوار می‌شود و این قطعه می‌تواند شرایط بهتری برای کارکرد بالک هدایت فراهم کند.
+‏البته همه این موارد از یک هندسه به هندسه دیگر فرق می‌کند. از شکل خود RV تا شکل هندسه گوه‌ای و میزان شیب...  برای نمونه، طراحی RV عماد با فتاح و خیبرشکن متفاوت است. در عماد شیب ملایم‌تر است و ساختار گوه‌ای کامل دارد. بنابراین هر هندسه منظور خاص خود را دارد و ما در روند طراحی نبوده‌ایم و نتایج شبیه‌سازی‌های آیرودینامیکی آن را نمی‌دانیم.
+‏
+‏محسن ریحانی
+‏
+‏@Exciton_missile_program 🚀
+14:35
+1405/07/11
+
+
+
+
+src :@Exciton_missile_program
+[عکس]
+‏@Exciton_missile_program 🚀
+14:34
+1405/07/11
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏صنعا.
+14:34
+1405/07/11
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇬🇧 BBC News: Joshua Kerry, 28, was charged on Friday with preparation of terrorist acts allegedly planned, including a plot against Reform UK leader Nigel Farage.
+‏
+‏The charge follows his earlier July murder charge for killing former Conservative minister Ann Widdecombe, whose body was found on 9 July 2024 in Haytor, Devon, and Home Secretary Shabana Mahmood said the new allegation was “extremely concerning” with sympathies for Farage’s family.
+‏
+‏Reform UK has highlighted that Farage required £5 million for lifelong security, a figure cited by deputy leader Richard Tice while police said the investigation involved detectives, analysts and forensic experts and Kerry is due in court on Wednesday.
+‏
+‏@wfwitness
+14:33
+1405/07/11
+
+
+
+
+src :@KayhanLondonChannel
+[عکس]
+‏‏ ‏
+‏۶۰ درصد سالمندان ایران حقوق ماهانه ندارند
+‏
+‏جواد حسینی، رئیس سازمان بهزیستی، اعلام کرده حدود ۱۳ درصد جامعه ایران در رده سنی سالمندان قرار دارند که ۶۰ درصد از آنها هیچ درآمدی ندارند. 
+‏
+‏رئیس سازمان بهزیستی افزوده «۵۱ هزار زن سالمند تنها داریم. حدود ۶۰ درصد سالمندان تحت پوشش مستمری نیستند. یعنی از هر ۱۰ سالمند، شش نفر مستمری بازنشستگی ندارند. بنابراین جمعیت بالایی از سالمندان خارج از مددجویان بهزیستی، کمیته امداد و سازمان تأمین اجتماعی و صندوقهای بازنشستگی داریم.»
+14:33
+1405/07/11
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏صنعا.
@@ -1036,19 +1103,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇾 Around seven people, including women and children were killed or wounded in a shooting that targeted a vehicle in Ras al-Ma'arra, in the Qalamoun region of the Damascus countryside.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:01
-1405/07/11
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏این بار ساده‌تر  با لینگانو ادامه بده!  📕
@@ -1788,21 +1842,6 @@ src :@ClashReport
 ‏
 ‏Ethiopia and Eritrea have severed diplomatic ties, and Ethiopia expelled an Egyptian diplomat, with each side accusing the other of backing the rebels.
 11:14
-1405/07/11
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. 
-‏
-‏It kept trying to reach servers in China. About 90% of its traffic went there. 
-‏
-‏The data was encrypted so they couldn't see what was sent, but NIO claims European data stays in Europe. 
-‏
-‏A separate test on a Chinese-made bus found the manufacturer could remotely access battery and power systems.
-11:09
 1405/07/11
 
 
@@ -4876,14 +4915,6 @@ src :@Artemis_Force
 
 
 
-src :@Minas_Tirith2024
-‏Minas Tirith pinned Deleted message
-19:01
-1405/07/10
-
-
-
-
 src :@ircfspace
 [عکس]
 ‏کلودفلر میخواد تبدیل به یک مرجع عمومی صدور گواهی دیجیتال (CA) بشه و در قدم بعد، گواهی‌های جدیدی به اسم Merkle Tree Certificates رو هم در مقیاس بالا صادر کنه.
@@ -5685,17 +5716,6 @@ src :@selena_updates
 src :@cataphract1
 ‏⚜به گزارش آکسیوس، آمریکا اخیراً دو آتشبار پاتریوت دیگر را برای حفاظت از تأسیسات مهم نفت و گاز در عربستان سعودی و قطر اعزام کرده است؛ اقدامی که در بحبوحه احتمال ازسرگیری حملات آمریکا علیه ایران انجام شده است.  ⚜هدف از این استقرار، اطمینان‌بخشی به دو کشور عنوان…
 16:25
-1405/07/10
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏جنگنده سوپرهورنت از اسکادران ۴۱ نیروی دریایی آمریکا(مستقر بر ناوهواپیمابر آبراهام لینکلن)با کیل مارک زیردریایی کیلو کلاس نداجا 
-‏
-‏@Minas_Tirith2024
-16:19
 1405/07/10
 
 
