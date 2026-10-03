@@ -1,3 +1,46 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏تلفات اخیر حوثی ها در جبهه جنوب غربی یمن
+‏
+‏#تلفات_حوثی 
+‏#یمن
+‏
+‏⚜آمار تلفات قبلی 
+‏
+‏🆔@WAR_ROOM_NEWS
+20:41
+1405/07/11
+
+
+
+
+src :@Indypersian
+‏⭕️از لبنان تا عراق؛ وقتی «شبح جنگ داخلی» بهانه‌ای برای حفظ سلاح می‌شود
+‏
+‏📌در عراق و لبنان، هشدار درباره جنگ داخلی به ابزاری برای مقابله با تلاش دولت‌ها برای انحصار سلاح تبدیل شده است
+‏
+‏
+‏♦️عراق اکنون، مانند لبنان، در آستانه آزمونی سرنوشت‌ساز قرار دارد؛ هر بار که سخن از انحصار سلاح در دست دولت به میان می‌آید، موج تهدیدها بالا می‌گیرد و چنین وانمود می‌شود که اقدام دولت در این زمینه کشور را به سمت جنگ داخلی سوق خواهد داد.
+‏بیشتر بخوانید...
+‏
+‏🖋بدیع یونس 
+‏
+‏@indypersian
+20:39
+1405/07/11
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇮🇷رئيس منظمة الطيران المدني الايراني: ستأنف رحلات الطيران بين إيران والعراق اعتبارًا من الغد، وذلك من خلال شركات الطيران الإيرانية والعراقية.
+20:39
+1405/07/11
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Heavy clashes between Yemeni forces and Saudi-backed forces in the al-Zakireh area of the Shamaitin district in Taiz.
@@ -173,6 +216,7 @@ src :@WAR_ROOM_NEWS
 
 
 src :@wfwitness
+[عکس]
 ‏⚡️🇫🇷🇺🇳 Al Jazeera: France circulated a new draft on the Strait of Hormuz to UN Security Council members.
 ‏
 ‏The draft reaffirms that navigational rights and freedoms for all vessels, including merchant and commercial ships, must be respected under international law and notes the right of states to defend their vessels from attacks and provocations.
@@ -1354,16 +1398,6 @@ src :@selena_updates
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴گزارش از حمله موشکی بالستیک عربستان سعودی به زیرساخت‌های مخابراتی در منطقه مجز، استان صعده، در شمال غربی یمن که تحت کنترل جنبش انصارالله است
-‏
-‏🆔@WAR_ROOM_NEWS
-18:58
-1405/07/11
-
-
-
-
 src :@tabzlive
 ‏🇮🇱🇱🇧⚡️ — Eight Israeli soldiers were lightly wounded after two military vehicles collided near the village of Rab al-Thalathin in southern Lebanon yesterday, according to the IDF.
 ‏
@@ -1563,14 +1597,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 18:53
-1405/07/11
-
-
-
-
-src :@tabzlive
-‏🇸🇦❌🇾🇪 — Saudi ballistic missile strike against telecommunications infrastructure in Majz District, Sa'dah Governorate, Ansarallah-controlled northwestern Yemen.
-18:52
 1405/07/11
 
 
@@ -3365,14 +3391,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@naya_foriraq
-‏انفجارات جديدة تهز مضيق هرمز
-16:22
-1405/07/11
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇸🇦/🇾🇪 Jalal Al-Khameri, one of the largest pro-PLC commentators in Taizz:
@@ -3862,25 +3880,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 15:14
-1405/07/11
-
-
-
-
-src :@Indypersian
-[عکس]
-‏⭕️قیمت دلار به مرز ۲۷۰ هزار تومان رسید
-‏
-‏♦️قیمت طلا، سکه و ارز در بازار آزاد ایران در بعدازظهر شنبه ۱۱ مهر با افزایش چشمگیری همراه شد. بر اساس آخرین نرخ اعلام‌شده در ساعت سه بعد از ظهر، دلار آمریکا به ۲۶۸ هزار و ۸۰۰ تومان و یورو به ۳۰۲ هزار و ۲۰۰ تومان رسید.
-‏
-‏در بازار طلا، هر گرم طلای ۱۸ عیار ۲۶ میلیون و ۳۶۰ هزار و ۹۰۰ تومان معامله شد. قیمت سکه امامی نیز به ۲۷۰ میلیون و ۹۰۰ هزار تومان رسید. سکه بهار آزادی ۲۶۰ میلیون تومان، نیم‌سکه ۱۴۰ میلیون و ۷۰۰ هزار تومان، ربع‌سکه ۷۶ میلیون و ۸۰۰ هزار تومان و سکه گرمی ۳۸ میلیون تومان قیمت‌گذاری شدند.
-‏
-‏در بازار ارز، پوند انگلیس ۳۵۲ هزار تومان، درهم امارات ۷۳ هزار و ۱۰۰ تومان، یوان چین ۴۰ هزار و ۱۴۰ تومان، لیر ترکیه ۵ هزار و ۵۵۰ تومان و دینار کویت ۸۶۹ هزار و ۳۶۰ تومان معامله شدند. قیمت تتر نیز ۲۶۸ هزار و ۲۴۰ تومان اعلام شده است.
-‏
-‏این نرخ‌ها در مقایسه با قیمت‌های ساعت ۹ صبح امروز افزایش قابل توجهی نشان می‌دهند؛ دلار حدود ۴ هزار و ۶۰۰ تومان و سکه امامی حدود ۶ میلیون و ۹۰۰ هزار تومان گران‌تر شده‌اند. همچنین طلای ۱۸ عیار در فاصله ۹ صبح تا ۱۵، حدود ۳۵۰ هزار و ۹۰۰ تومان در هر گرم افزایش قیمت داشته است.
-‏
-‏@indypersian
-15:13
 1405/07/11
 
 
