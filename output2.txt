@@ -1,3 +1,51 @@
+src :@guard_warriors
+[عکس]
+‏✪ طی نمایشی در مرکز آموزش تخصصی کارکنان Center-2026 در میدان آزمایش چبارکول، از توپخانه خودکششی ۱۵۲ میلی‌متری Mak رونمایی شد. به نظر می‌رسد این نام رسمی سیستمی باشد که قبلاً با نام 2S44 Giatsint-K شناخته می‌شد. همانطور که در تصویر دوم به وضوح نشان داده شده است، این سیستم در واقع از قسمت متحرک (که با گیره‌های مشخص در پایین آن قابل تشخیص است) یک توپ قدیمی کششی ساخت شوروی به نام 2A36 Giatsint-B بر روی شاسی چرخ‌دار BAZ-6910 (8x8) است. در مقایسه با نسخه‌های اولیه Giatsint-K، این پایه به راداری برای اندازه‌گیری سرعت دهانه پرتابه یا سرعت اولیه گلوله مجهز شده است.
+‏
+‏@Guard_Warriors | Mmd
+15:45
+1405/07/12
+
+
+
+
+src :@rnintel
+‏🇾🇪🇸🇦⚡- PLC forces have launched a large-scale offensive in the al-Jawf region, northern Yemen, with the support of the Saudi air force.
+15:45
+1405/07/12
+
+
+
+
+src :@wfwitness
+‏⚡️🇹🇷🇸🇾 A 5.2 magnitude earthquake struck Kahramanmaraş a few minutes ago with tremor felt across northern Syria.
+‏
+‏@wfwitness
+15:44
+1405/07/12
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦🇾🇪 — The Houthis (Ansarallah) say their forces repelled a Saudi advance east of Yemen’s Al-Jawf governorate and subsequently targeted Saudi troop concentrations with ballistic missiles and drones.
+‏
+‏They say the fighting destroyed numerous military vehicles and left dozens of Saudi-aligned personnel dead or wounded. Houthi forces are pursuing remaining troops in the Al-Jawf desert.
+15:42
+1405/07/12
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏تصاویری جدید از ناو هواپیمابر هسته ای جرج بوش (CVN-77) و ناوشکن دلبرت دی. بلک (DDG 119) متعلق به نیروی دریایی ایالات متحده، که ساعاتی پیش وارد بندر پوکت (تایلند) شدند.  این حضور تا 9 اکتبر 2026 ادامه خواهد داشت.  در حال حاضر، ناو هواپیمابر در حال بازگشت به…
+15:42
+1405/07/12
+
+
+
+
 src :@Middle_East_Spectator
 [ویدئو]
 ‏He is probably going to announce a desperate counteroffensive.
@@ -24,7 +72,7 @@ src :@intelslava
 
 
 src :@wfwitness
-‏⚡️🇾🇪🇸🇦 The Houthi armed forces say they have expelled and targeted Saudi military reinforcements east of al‑Jawf following what they described as failed attempts to advance toward their positions.
+‏⚡️🇾🇪🇾🇪🇸🇦 The Houthi armed forces say they have expelled and targeted Saudi military reinforcements east of al‑Jawf following what they described as failed attempts to advance toward their positions.
 ‏
 ‏The statement claims a large number of vehicles were burned, dozens killed or wounded, and remaining forces pursued in the al‑Jawf desert. 
 ‏
@@ -39,7 +87,7 @@ src :@wfwitness
 
 src :@tabzlive
 [عکس]
-‏🇾🇪❌🇾🇪 — INTERESTING: Yemen’s Houthis (Ansarallah) have captured the Al-Safiya junction, cutting the main Taiz–Aden road and a vital supply route to Saudi-backed PLC forces.
+‏🇾🇪❌🇾🇪 — NEW: Yemen’s Houthis (Ansarallah) have captured the Al-Safiya junction, cutting the main Taiz–Aden road and a vital supply route to Saudi-backed PLC forces.
 ‏
 ‏The Houthis seized the area and its police station, with three Yemeni military sources confirming their control to AFP.
 ‏
@@ -562,18 +610,6 @@ src :@Parvazdaroj
 
 
 
-src :@tabzlive
-‏🇮🇳🇵🇰⚡️ — A 31-year-old Indian Navy sailor has been arrested in Coimbatore for leaking sensitive defense information to a female Pakistani intelligence operative who targeted him through an online honeytrap.
-‏
-‏Pradeep Mukherjee, assigned to the Eastern Naval Command in Visakhapatnam, shared information on strategic naval assets, fleet movements and operational setups after being contacted on social media several months ago.
-‏
-‏Investigators are now examining the extent of the compromised information.
-15:02
-1405/07/12
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏میراژ؛ سراب دست نیافتنی فرانسوی 
@@ -591,20 +627,6 @@ src :@rnintel
 [عکس]
 ‏🇾🇪⚡- BREAKING: Clashes are ongoing in the al-Safiya Junction between the Ansarullah forces and the PLC troops. The al-Houthi forces have advanced in the northern Bani Bakari area.  The al-Safiya marketplace sits on multiple Ta'izz's supply roads (shown in…
 15:02
-1405/07/12
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇯🇵⚡️ — A U.S. Marine has been arrested in Okinawa on suspicion of killing a Japanese woman and stealing her belongings.
-‏
-‏Lance Corporal Devin Jacob Ballard, 20, stationed at Futenma Air Station, is suspected of killing 39-year-old Anna Yagi at a hotel in Naha on Saturday and taking her wallet and backpack. 
-‏
-‏Ballard has denied the allegations and remains in Japanese custody. U.S. officials say they are cooperating fully with Japanese authorities.
-‏
-‏Prime Minister Sanae Takaichi said Japan had lodged a strong protest with the U.S.
-15:00
 1405/07/12
 
 
@@ -1634,25 +1656,6 @@ src :@P_raetorio
 [عکس]
 ‏ناو هواپیمابر آمریکایی USS George H.W. Bush با حدود ۴۸۰۰ نفر سرنشین امروز به جزیره تفریحی پوکت در تایلند رسید تا خدمه پس از شش ماه پشتیبانی از عملیات‌های آمریکا در خاورمیانه، برای چند روز در خشکی، استراحت و تفریح داشته باشند. قرار است اقامت در این جزیره تا ۱۷ مهر پایان یابد. این نشانی قطعی است از این که در آینده نزدیک جنگی رخ نخواهد داد.
 13:27
-1405/07/12
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 Iran’s rial has fallen to a new low against the US dollar despite a central bank intervention of up to $2 billion aimed at supporting the currency. 
-‏
-‏The dollar traded at around 2.688 million rials in the free market on Saturday, compared with 2.632 million on Friday.
-‏
-‏The central bank began selling up to $10,000 per person at five designated banks at a base rate of 259,000 rials as the first phase of a plan releasing $1 billion of a total $2 billion. 
-‏
-‏“The enemy is using this to affect the exchange rate of our currency,” said Mehdi Darabi, an adviser to the Central Bank of Iran, describing the fall as “temporary”. The rial has lost more than half its value over the past year.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:25
 1405/07/12
 
 
@@ -4141,16 +4144,6 @@ src :@didarnews1
 
 
 
-src :@GeoPWatch
-‏🇸🇦❌🇾🇪 – New Saudi strikes reported in Sana'a, capital of Houthi-controlled Yemen.
-‏
-‏@GeoPWatch
-00:50
-1405/07/12
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -6187,24 +6180,6 @@ src :@Artemis_Force
 
 
 
-src :@Artemis_Force
-[عکس]
-‏بر اساس تصاویر ماهواره‌ای، ناو هواپیمابر هسته ای جورج بوش (CVN-77) نیروی دریایی ایالات متحده آمریکا، در تاریخ 3 اکتبر 2026، در بخش شرقی اقیانوس هند و در مسیر رسیدن به دریای آندامان قرار دارد (مختصات: 6.29435، 94.51506)
-‏
-‏در حال حاضر، این ناو هواپیمابر در حال بازگشت به پایگاه اصلی خود در بندر نورفولک است، جایی که در تاریخ 31 مارس 2026، برای استقرار در خاورمیانه، آن را ترک کرده بود. 
-‏
-‏توقف بعدی، از 4 تا 9 اکتبر 2026، بندر پوکت (تایلند) خواهد بود.
-‏
-‏
-‏گویا ماموریت جرج بوش به پایان رسید و ان هم بدون تمدید و فشار بیشتر به ناو هواپیمابر هسته ای
-‏
-‏@artemis_force
-17:17
-1405/07/11
-
-
-
-
 src :@OSINTWarfare
 [ویدئو]
 ‏Iranian air defenses launched a surface-to-air missile (SAM) at an aerial vehicle over Qeshm Island in the Strait of Hormuz.
@@ -6234,20 +6209,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 17:05
-1405/07/11
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺📢 "همسرم حامله است هوس پسته کرد، اومدم قیمت‌ها رو دیدم برق از سه فازم پرید. خاک بر سرت مجتبی خامنه‌ای. مرده‌شور خمینی رو ببرن، این رفاهی بود که قولش رو داده بودید؟
-‏
-‏پیام دریافتی
-‏
-‏#پسته #گرانی
-‏@DEJradio
-16:49
 1405/07/11
 
 
