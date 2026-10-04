@@ -1,7 +1,10 @@
 src :@ircfspace
+[عکس]
 ‏نحوه استفاده از برنامه‌های PattN و PattNG برای دورزدن فیلترینگ
 ‏
 ‏📽 youtube.com/watch?v=CnEQipAJ2hE
+‏© 𝐀𝐥𝐢
+‏
 ‏💡 github.com/patterniha/PattNG/releases
 ‏💡 github.com/patterniha/PattN/releases
 ‏
@@ -4275,13 +4278,3 @@ src :@Minas_Tirith2024
 ‏@ZarebinDefense
 00:33
 1405/07/12
-
-
-
-
-src :@samueltarikh
-‏مقام ارشد آمریکایی به آکسیوس:
-‏
-‏2 دیپلمات ایرانی امروز صبح از آمریکا اخراج شدند.
-23:21
-1405/07/11
