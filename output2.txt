@@ -1,20 +1,14 @@
-src :@Parvazdaroj
-[عکس]
-‏میراژ؛ سراب دست نیافتنی فرانسوی 
-‏بخش دوم
-‏
-‏
-‏@PARVAZDAROJ| S N
-15:02
+src :@Ali_bk_2
+‏Yemeni forces take control of Al-Azaaziz and Al-Mansourah and advance toward Al-Asabih, approaching the outskirts of Al-Turbah.
+15:06
 1405/07/12
 
 
 
 
-src :@rnintel
-[عکس]
-‏🇾🇪⚡- BREAKING: Clashes are ongoing in the al-Safiya Junction between the Ansarullah forces and the PLC troops. The al-Houthi forces have advanced in the northern Bani Bakari area.  The al-Safiya marketplace sits on multiple Ta'izz's supply roads (shown in…
-15:02
+src :@Alibk3
+‏القوات اليمنية تسيطر على العزاعز والمنصورة وتتقدم نحو الأصابح، وتقترب على مشارف مدينة التربة.
+15:06
 1405/07/12
 
 
@@ -42,6 +36,40 @@ src :@Parvazdaroj
 ‏
 ‏
 ‏@PARVAZDAROJ | S N
+15:02
+1405/07/12
+
+
+
+
+src :@tabzlive
+‏🇮🇳🇵🇰⚡️ — A 31-year-old Indian Navy sailor has been arrested in Coimbatore for leaking sensitive defense information to a female Pakistani intelligence operative who targeted him through an online honeytrap.
+‏
+‏Pradeep Mukherjee, assigned to the Eastern Naval Command in Visakhapatnam, shared information on strategic naval assets, fleet movements and operational setups after being contacted on social media several months ago.
+‏
+‏Investigators are now examining the extent of the compromised information.
+15:02
+1405/07/12
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏میراژ؛ سراب دست نیافتنی فرانسوی 
+‏بخش دوم
+‏
+‏
+‏@PARVAZDAROJ| S N
+15:02
+1405/07/12
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇾🇪⚡- BREAKING: Clashes are ongoing in the al-Safiya Junction between the Ansarullah forces and the PLC troops. The al-Houthi forces have advanced in the northern Bani Bakari area.  The al-Safiya marketplace sits on multiple Ta'izz's supply roads (shown in…
 15:02
 1405/07/12
 
@@ -6376,44 +6404,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #Admiral
 15:08
-1405/07/11
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏قیمت دلار ۲۶۸ هزار تومان، سکه ۲۷۲ میلیون تومان! 
-‏
-‏
-‏افزایش قیمت‌ها در بازار ارز و طلا ایران در روز شنبه ۱۱ مهرماه ۱۴۰۵ با سرعت بیشتری نسبت به هفته گذشته ادامه دارد. 
-‏
-‏قیمت هر دلار در ظهر روز شنبه با ثبت رکوردی جدید به ۲۶۸ هزار تومان رسید. یورو ۳۰۲ هزار تومان، پوند بریتانیا ۳۵۵ هزار تومان، درهم امارات ۷۳ هزار و ۶۵۰ تومان، و لیر ترکیه ۵۴۵۰ تومان قیمت‌گذاری شد. 
-‏در بازار طلا نیز هر گرم طلای ۱۸ عیار ۲۶ میلیون و ۳۷۸ هزار تومان و هر سکه طلا به قیمت بی‌سابقه ۲۷۲ میلیون تومان معامله شد. 
-‏
-‏افزایش قیمت‌ها در بازار ارز و طلا ایران پس آن رخ داد که روز گذشته بانک مرکزی در بیانیه‌ای مدیریت بازار ارز را خارج از کنترل این نهاد اعلام کرد، و همچنین خبر برگزاری نشست اضطراری اعضای ارشد کابینه دونالد ترامپ در «کمپ‌دیوید» درباره گام‌های بعدی جنگ ایران و درگیری عربستان سعودی با حوثی‌های یمن منتشر شد. 
-‏
-‏برخی کارشناسان افزایش قیمت دلار به ۳۰۰ هزار تومان طی روزهای آینده را در صورت تداوم شرایط کنونی و افزایش تنش‌ها میان جمهوری اسلامی و آمریکا محتمل می‌دانند.
-15:04
-1405/07/11
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏بریتانیا زیرساخت‌ها را برای زیردریایی‌های هسته‌ای آماده می‌کند
-‏
-‏دولت بریتانیا از آغاز برنامه‌ای به نام «یستون» خبر داد، که در چارچوب آن، سه اسکله شناور جدید برای پایگاه دریایی کلاید ساخته خواهند شد تا از زیردریایی‌های هسته‌ای نگهداری شود
-‏
-‏این قرارداد صرفاً بین شرکت‌های بریتانیایی برگزار خواهد شد و ساخت و ساز در کارگاه‌های کشتی‌سازی ملی انجام خواهد شد
-‏
-‏اسکله‌های جدید برای خارج کردن زیردریایی‌ها از آب، انجام بازرسی‌های دوره‌ای، نوسازی، تعمیر و افزایش طول عمر آن‌ها طراحی شده‌اند.این اسکله‌ها باید از هر دو نوع زیردریایی‌های هسته‌ای فعال و آتی، از جمله نسل‌های جدید ناوگان زیردریایی بریتانیا، پشتیبانی کنند.
-‏
-‏این پروژه بخشی از یک برنامه بزرگ به نام «تحول پایگاه کلاید» است. تا سال 2036، لندن 26 میلیارد پوند در نوسازی سه پایگاه دریایی اصلی کشور، یعنی کلاید، دِوونپورت و پورتسموث سرمایه‌گذاری خواهد کرد، که از این میزان، 15.1 میلیارد پوند به پایگاه کلاید اختصاص خواهد یافت
-‏
-‏همزمان، بریتانیا 47 میلیارد پوند دیگر را نیز تا سال مالی 2029/30 برای ساخت زیردریایی‌های جدید و توسعه زیرساخت‌های مرتبط اختصاص می‌دهد
-‏
-‏@artemis_force
-15:04
 1405/07/11
