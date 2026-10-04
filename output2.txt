@@ -1,3 +1,19 @@
+src :@Ali_bk_2
+‏The Iraqi Prime Minister orders the formation of an investigative committee into the desecration of the U.S. flag in the Iraqi capital, Baghdad.
+14:43
+1405/07/12
+
+
+
+
+src :@Alibk3
+‏رئيس الوزراء العراقي يأمر بتشكيل لجنة تحقيقية بشأن التجاوز على علم أميركا في العاصمة العراقية بغداد.
+14:43
+1405/07/12
+
+
+
+
 src :@mohem_mat
 ‏با تمام تصاویر وحشتناکی که از اعتراضات فرانسه می‌بینیم، تا اینجا خبری از کشته‌شدن معترضی نیست. اعتراض، هرچقدر سرکش، فریاد شهروندی است نه جرمی که پاسخش گلوله باشد خرابی‌ها را می‌شود ساخت، خشم را فروکش کرد اما حیات رفته برنمی‌گردد جان خط قرمز است و هیچ حکومتی حق عبور از آن را ندارد
 ‏
@@ -2216,24 +2232,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 10:59
-1405/07/12
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏It appears there are attacks by the Yemeni forces; Riyadh Airport is out of coverage again.
-10:57
-1405/07/12
-
-
-
-
-src :@Alibk3
-[عکس]
-‏يبدو هناك هجمات للقوات اليمنية، مطار الرياض خارج التغطية مجددًا.
-10:57
 1405/07/12
 
 
