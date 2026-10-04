@@ -1,9 +1,16 @@
-src :@rnintel
-[عکس]
-‏🇾🇪⚡- BREAKING: Clashes are ongoing in the al-Safiya Junction between the Ansarullah forces and the PLC troops. The al-Houthi forces have advanced in the northern Bani Bakari area.
+src :@naya_foriraq
+‏القائم بالأعمال السويدي يعلن توجه حكومة بلاده نحو إعادة فتح سفارتها في بغداد.
+13:16
+1405/07/12
+
+
+
+
+src :@jangaavaran1390
+‏القاعده خواستار انجام حملات مشابه به هواپیماهای اسرائیلی و آمریکایی شد
 ‏
-‏The al-Safiya marketplace sits on multiple Ta'izz's supply roads (shown in yellow on Rerum Novarum's map).
-13:07
+‏پس از تلاش  برای ربودن یک پرواز شرکت هواپیمایی "فلاای دبی"، سازمان القاعده با صدور بیانیه‌ای صریح، خواستار انجام حملات مشابه علیه هواپیماها و اهداف غربی و اسرائیلی شد. این سازمان در این بیانیه به طور مستقیم به حملات یازده سپتامبر اشاره کرده و هشدار داده است که هواپیماهای حامل "صهیونیست‌ها و آمریکایی‌ها" همچنان در تیررس این گروه قرار دارند.
+13:16
 1405/07/12
 
 
@@ -17,7 +24,40 @@ src :@IranintlTV
 ‏
 ‏نماینده تهران گفت: «آخر چرا این مملکت این‌قدر بی‌صاحب شده که هر کسی، هر غلطی می‌خواهد در این مملکت می‌کند؟ زندان هم دیگر عادی شده است. عیب ندارد، من می‌روم زندان.»
 ‏https://iranintl.com/202610041330
-13:05
+13:14
+1405/07/12
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇸🇴🇸🇴 — Somali President Hassan Sheikh Mohamud told Al Jazeera that Somalia will 'never accept the presence of Israel in Somalia under any circumstances', claiming that Israel plans to establish a naval base at Somaliland's Berbera Port near the Bab el-Mandeb Strait.
+‏
+‏He described Israel as a 'destabilising force' and linked its plans to a 'Greater Israel' project.
+‏
+‏@TheWarReporter
+13:14
+1405/07/12
+
+
+
+
+src :@MilitarryWorld
+‏🔴قیمت دلار به ۲۷۲.۵۵۰ تومان رسید 
+‏
+‏@MilitarryWorld | Parsa
+13:14
+1405/07/12
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇾🇪⚡- BREAKING: Clashes are ongoing in the al-Safiya Junction between the Ansarullah forces and the PLC troops. The al-Houthi forces have advanced in the northern Bani Bakari area.
+‏
+‏The al-Safiya marketplace sits on multiple Ta'izz's supply roads (shown in yellow on Rerum Novarum's map).
+13:07
 1405/07/12
 
 
@@ -2464,20 +2504,6 @@ src :@intelslava
 
 
 
-src :@jangaavaran1390
-‏وِس استریتینگ، وزیر دفاع بریتانیا:
-‏
-‏«رژیم ایران نیات خصمانه‌ای دارد و تهدیدی برای کشور ما و متحدانمان محسوب می‌شود.
-‏
-‏تحقیقات در مورد پایگاه هوایی فرفورد همچنان ادامه دارد و ما در حال بررسی چندین سرنخ هستیم، و این موضوع بسیار جدی است.
-‏
-‏ما پس از رسیدن به نتایج قطعی در مورد پایگاه هوایی فرفورد، واکنش مناسبی را در نظر خواهیم گرفت.»
-06:35
-1405/07/12
-
-
-
-
 src :@guard_warriors
 ‏✪‌ رویترز: آمریکا انتظار حمله چین به تایوان در سال 2027 را ندارد
 ‏
@@ -3057,14 +3083,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@naya_foriraq
-‏القوات اليمنية المسلحة تستهدف الدمام شرق السعودية
-01:06
-1405/07/12
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇦🇪🇮🇱 – The Omani pilot that tried to hijack a Flydubai aircraft earlier this week is cooperating with local authorities, and has been officially identified as 29-year-old Hamam al-Hammami.  Al-Hammami's plan was to crash the plane in Israeli territory, according…
@@ -3135,16 +3153,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 00:50
-1405/07/12
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ: ایران بسیاری از برنامه های تسلیحات هسته ای خود را رها کرده است و من درباره آنها تصمیم خواهم گرفت‌‌
-‏
-‏@MilitarryWorld | Parsa
-00:47
 1405/07/12
 
 
@@ -3340,14 +3348,6 @@ src :@didarnews1
 
 
 
-src :@WAR_ROOM_NEWS
-‏بر اساس گزارش رسانه‌های آمریکایی، دو دیپلمات ایرانی پس از بی‌توجهی به دستور وزارت خارجه آمریکا برای ترک خاک این کشور، از آمریکا اخراج شدند. این دو دیپلمات که برای حضور در نشست مجمع عمومی سازمان ملل در نیویورک حضور داشتند، پس از پایان مهلت تعیین‌شده همچنان در آمریکا مانده بودند. یکی از آنها جمعه‌شب و دیگری صبح شنبه آمریکا را ترک کرد. ایران اما روایت آمریکا درباره اخراج آنها را رد کرده و اعلام کرده است خروج این افراد از پیش برنامه‌ریزی شده بود.!
-23:36
-1405/07/11
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔴 ذره‌بین نظامی فعالیت خودش رو شروع کرد
 ‏
@@ -3491,15 +3491,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:18
-1405/07/11
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏رقابت انتخاباتی اسراییل
-23:17
 1405/07/11
 
 
@@ -5485,33 +5476,6 @@ src :@Artemis_Force
 src :@Artemis_Force
 ‏بر اساس تصاویر ماهواره‌ای، ناو هواپیمابر هسته ای جورج بوش (CVN-77) نیروی دریایی ایالات متحده آمریکا، در تاریخ 3 اکتبر 2026، در بخش شرقی اقیانوس هند و در مسیر رسیدن به دریای آندامان قرار دارد (مختصات: 6.29435، 94.51506)  در حال حاضر، این ناو هواپیمابر در حال…
 17:25
-1405/07/11
-
-
-
-
-src :@Americana_ir
-[عکس]
-‏🔻شبکه CNN با استناد به نتایج نظرسنجی مشترک آسوشیتدپرس و NORC، میزان رضایت از عملکرد ترامپ در چند حوزه مهم حکمرانی را بررسی کرد:
-‏
-‏▪️هزینه‌های زندگی: 65- درصد
-‏
-‏▪️اقتصاد: 47- درصد
-‏
-‏▪️ایران: 43- درصد
-‏
-‏▪️وظایف ریاست‌جمهوری: 38- درصد
-‏
-‏▪️مذاکرات تجاری با سایر کشورها: 37- درصد
-‏
-‏▪️هوش مصنوعی: 36- درصد
-‏
-‏▪️مهاجرت: 21- درصد
-‏
-‏▪️امنیت مرزی: 3- درصد
-‏
-‏🆔 @Americana_ir
-17:20
 1405/07/11
 
 
