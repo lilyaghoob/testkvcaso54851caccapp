@@ -1,3 +1,16 @@
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 – The Houthis (Ansarullah) also struck a major oil processing facility for Saudi ARAMCO in Khurais.
+‏
+‏Khurais is one of the largest oil processing and Stabilization facilities in Saudi Arabia.
+‏
+‏📍 25°17'06.00"N 48°04'57.74"E
+05:42
+1405/07/12
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -5276,16 +5289,6 @@ src :@Navy_Iranian
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸 - Explosions originating from the sea were heard on Qeshm Island.
-‏
-‏@GeoPWatch
-15:07
-1405/07/11
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏قیمت دلار ۲۶۸ هزار تومان، سکه ۲۷۲ میلیون تومان! 
@@ -5403,14 +5406,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 14:57
-1405/07/11
-
-
-
-
-src :@GeoPWatch
-‏🇷🇺❌🇺🇦🇲🇩 - Overnight 3 missiles and 2 drones entered Moldova and impacted across multiple districts.  @GeoPWatch
-14:49
 1405/07/11
 
 
