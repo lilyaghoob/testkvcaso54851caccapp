@@ -994,17 +994,6 @@ src :@mohem_mat
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — UKMTO reports a tanker was struck by a projectile while transiting the Strait of Hormuz, causing damage to the engine room.
-‏
-‏Crew is safe and no environmental impact has been reported. Date of the attack isn't listed.
-15:18
-1405/07/12
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇾🇪/🇸🇦 BREAKING: Ansarallah have captured Al-Safiya junction, cutting off the Taizz–Aden road
