@@ -1,18 +1,41 @@
-src :@Ali_bk_2
-‏Iranian Foreign Ministry:
+src :@jangaavaran1390
+‏وزارت امور خارجه ایران:
 ‏
-‏We sent our response to the U.S. proposal, which is similar to previous proposals and focuses on the nuclear issue, while we want to focus on the "Strait of Hormuz."
-11:35
+‏پاسخ خود را به پیشنهاد آمریکایی ارسال کردیم. این پیشنهاد، مشابه پیشنهادات قبلی است و بر موضوع برنامه هسته‌ای تمرکز دارد، در حالی که ما ترجیح می‌دهیم بر "تنگه هرمز" تمرکز کنیم.
+11:46
 1405/07/12
 
 
 
 
-src :@Alibk3
-‏الخارجية الإيرانية: 
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Since midnight, Israeli artillery bombardment has targeted the following towns in southern Lebanon:
 ‏
-‏ارسلنا ردنا على المقترح الأميركي، الذي يشبه المقترحات السابقة ويركز على الملف النووي في حين نرغب بالتركيز على " مضيق هرمز"
-11:35
+‏Al-Mansouri
+‏Wadi Al-Hujeir
+‏Nabatieh Al-Fawqa
+‏Kfarromman
+‏Baraachit
+‏
+‏@wfwitness
+11:44
+1405/07/12
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏چندی پیش سپاه یک تانکر نفتی دیگر را در تنگه هرمز با استفاده از پهپاد یا موشک ضدکشتی مورد حمله قرار داد که در نتیجه، بخش موتورخانه این کشتی آسیب دید
+11:43
+1405/07/12
+
+
+
+
+src :@jangaavaran1390
+‏حمله ای دیگر در تنگه هرمز ساعتی پیش بر اساس گزارش سازمان دریانوردی
+11:41
 1405/07/12
 
 
@@ -2112,15 +2135,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇳🇪🏴 ISIS claims 39 Nigerien soldiers were killed and others wounded in two attacks in Niger’s Tillabéri and Tahoua regions.  ISIS claimed 20 soldiers were killed and at least 20 others wounded in an attack on a military position near Birni Nkoki in Tahoua.…
-03:25
-1405/07/12
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2152,15 +2166,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 03:25
-1405/07/12
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇳🇬🇨🇲🏴 ISIS, In the latest issue of its Al-Naba newsletter, claimed 35 Nigerian and Cameroonian soldiers, militia members and local leaders were killed in a series of attacks across Nigeria and Cameroon.  ISIS said its attacks in Nigeria’s Borno region included…
-03:18
 1405/07/12
 
 
@@ -3133,14 +3138,6 @@ src :@tglobaleye
 
 
 
-src :@naya_foriraq
-‏🇸🇦تعليق الدراسة غداً الأحد في جيزان خوفا من هجمات القوات المسلحة اليمنية.
-23:22
-1405/07/11
-
-
-
-
 src :@samueltarikh
 ‏مقام ارشد آمریکایی به آکسیوس:
 ‏
@@ -3231,14 +3228,6 @@ src :@Mena_Live
 src :@WAR_ROOM_NEWS
 ‏✪بررسی تصاویر ماهواره‌ای جدید گوگل ارث از پایگاه هوایی پرنس سلطان در عربستان سعودی که تصاویر مربوط به ژوئن ۲۰۲۶ را نیز شامل می‌شود ابعاد خسارات واردشده به این پایگاه و تجهیزات نظامی آمریکا و عربستان در جریان جنگ با ایران را نشان می‌دهد که در میان مهم‌ترین…
 22:55
-1405/07/11
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔹یک مقام اروپایی: این فقط مسئله زمان است تا شاهد یک عملیات بزرگ از سوی عربستان سعودی علیه حوثی‌ها باشیم
-22:53
 1405/07/11
 
 
@@ -3404,14 +3393,6 @@ src :@bricsnews
 ‏JUST IN: 🇾🇪🇸🇦 Yemen's Houthis say they launched attack on Saudi Aramco in Riyadh with ballistic missiles and drones.
 ‏
 ‏@BRICSNews
-22:33
-1405/07/11
-
-
-
-
-src :@jangaavaran1390
-‏در عراق گزارش شده است که فردا پروازهای محدود به ایران از سر گرفته می‌شود؛ پس از توقف به دلیل تحریم هوایی آمریکا.
 22:33
 1405/07/11
 
