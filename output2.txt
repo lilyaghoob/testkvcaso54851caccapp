@@ -1,3 +1,50 @@
+src :@rnintel
+[عکس]
+‏🇪🇹⚡- Ethiopian Armed Forces, ENDF, have advanced north of Mekele and captured Agulae.   Just 65km left to the Tigray Defense Forces stronghold of Adigrat.
+23:54
+1405/07/12
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ارتش ایالات متحده در حال آماده شدن برای تقویت حضور خود در اسرائیل و سراسر خاورمیانه در هفته‌های آینده است در حال حاضر حدود ۳۰۰۰ نیروی آمریکایی در اسرائیل مستقر هستند که سیستم‌های دفاع هوایی را اداره می‌کنند و از عملیات هوایی، لجستیکی و فرماندهی پشتیبانی می‌کنند
+23:54
+1405/07/12
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The White House is monitoring a suspected plague case in Russia’s Irkutsk region after a 28-year-old anti-plague institute worker died following a laboratory accident.
+‏
+‏Daria Shipilova broke a test tube containing the pneumonic plague pathogen on Sept. 25, was hospitalized with severe pneumonia on Sept. 29 and died between Oct. 1–2.
+‏
+‏Authorities quarantined several medical facilities and placed nearly 200 contacts under observation. So far, all have tested negative and shown no symptoms.
+‏
+‏Source: Axios
+23:54
+1405/07/12
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The U.S. has withdrawn all 12 B-1 bombers from RAF Fairford in the UK following security concerns over a suspected Iran-linked terror plot targeting the base.
+‏
+‏U.S. officials believe a branch of the Islamic Revolutionary Guard Corps recruited UK nationals to target the bombers and kill personnel, though some British officials have questioned how sophisticated the plot was.
+‏
+‏RAF Fairford had been used as a hub for launching U.S. bomber strikes in Iran. The B-1s have now returned to their home stations in the U.S. and remain available for global missions.
+‏
+‏Source: WSJ
+23:52
+1405/07/12
+
+
+
+
 src :@Mena_Live
 ‏The Pentagon confirms: All B-1 aircraft have left the Royal Air Force (RAF) Fairford base:
 ‏
@@ -16,7 +63,7 @@ src :@Ali_bk_2
 ‏
 ‏Washington withdrew B-1 bombers from the British base at Fairford due to security concerns.
 ‏
-‏A U.S. official said there was an Iran-linked plan to attack the bombers and kill personnel at Fairford.
+‏A U.S. official said an Iran-linked plan was targeting the bombers and personnel at Fairford.
 23:50
 1405/07/12
 
@@ -29,7 +76,7 @@ src :@Alibk3
 ‏
 ‏واشنطن سحبت قاذفات بي 1 من قاعدة فيرفورد البريطانية بسبب مخاوف أمنية.
 ‏
-‏وقال مسؤول أميركي كان هناك مخططًا مرتبطًا بإيران لمهاجمة القاذفات وقتل أفراد في قاعدة فيرفورد.
+‏وقال مسؤول أميركي إن مخططًا مرتبطًا بإيران كان يستهدف مهاجمة القاذفات وقتل أفراد في قاعدة فيرفورد.
 23:50
 1405/07/12
 
@@ -4408,15 +4455,6 @@ src :@mohem_mat
 
 
 
-src :@rnintel
-[عکس]
-‏🇾🇪 - Scenes from the al-Safiya marketplace, a vital junction for the PLC forces in Ta'izz.
-16:39
-1405/07/12
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏اجرای «علیرضا قربانی» در شاندیز خراسان رضوی لغو شده است؛ یک روز پس از آن‌که استاندار این استان اعلام کرد مجوزهای لازم برای برگزاری رویداد «ایرانم» صادر شده و شورای تامین نیز مخالفتی با برگزاری آن ندارد.
@@ -6212,13 +6250,3 @@ src :@thewarreporter
 ‏@TheWarReporter
 00:19
 1405/07/12
-
-
-
-
-src :@warmonitors
-‏⚡Barak Ravid: Scoop: Two Iranian diplomats "kicked out" of U.S. after ignoring order to leave.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:56
-1405/07/11
