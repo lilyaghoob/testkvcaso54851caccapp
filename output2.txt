@@ -1,7 +1,15 @@
+src :@jangaavaran1390
+‏ناو هواپیمابر "جرج بوش"، که در ماه‌های اخیر در خاورمیانه فعالیت داشته، برای اولین بار پس از ۱۸۶ روز استقرار مداوم، به یک توقف برنامه‌ریزی‌شده در بندر فوکت در تایلند رسید.
+08:22
+1405/07/12
+
+
+
+
 src :@ircfspace
 [عکس]
-‏نسخه ۱۸ فیلترشکن اندرویدی MahsaNG منتشر شده و توی این نسخه هسته Xray مهسا آپدیت شده و پشتیبانی از پروتکل MASQUE هم اضافه کردن.
-‏برای WireGuard و MASQUE حالا یک اسکنر IP اختصاصی در دسترسه که از نویز و پورت پشتیبانی می‌کنه و میشه کانفیگ‌های این دو پروتکل رو با کلید Auto ساخت. امکان بکاپ از کانفیگ‌های شخصی، صفحه پروکسی تلگرام برای کپی و تست سریع پروکسی‌ها و بهبود Fragment و حالت Auto هم اضافه شدن.
+‏نسخه ۱۸ از فیلترشکن اندرویدی MahsaNG منتشر شده و توی این نسخه هسته Xray مهسا آپدیت شده و پشتیبانی از پروتکل MASQUE رو اضافه کردن.
+‏برای وایرگارد و مسک حالا یک اسکنر IP اختصاصی در دسترسه که از نویز و پورت پشتیبانی می‌کنه و میشه کانفیگ‌های این دو پروتکل رو با کلید Auto ساخت. امکان بکاپ از کانفیگ‌های شخصی، صفحه پروکسی تلگرام برای کپی و تست سریع پروکسی‌ها و بهبود Fragment و حالت Auto هم اضافه شدن.
 ‏چند نویز جدید برای عبور از فیلترینگ UDP، کانفیگ‌های جدید یوتیوب و پشتیبانی از Cipher Suite برای افزایش سرعت آپلود در متدهای پترنیها به این نسخه اضافه شده. FinalMask حالا روی پروتکل‌های جدید MASQUE و Hysteria در دسترسه و علاوه بر رفع یک سری از مشکلات، ابزار زنجیره‌ساز کانفیگ هم از Fragment، Hysteria و MASQUE پشتیبانی می‌کنه.
 ‏
 ‏👉 github.com/GFW-knocker/MahsaNG/releases
@@ -6470,18 +6478,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 08:27
-1405/07/11
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷🇾🇪 — US President Trump's top Cabinet members held a hours-long meeting at Camp David on Friday to discuss next steps in the Iran war and the Saudi-Houthi conflict in Yemen. Vice President JD Vance chaired the meeting.
-‏
-‏"Things were decided or at least deeply discussed," a U.S. official said.
-‏
-‏The highly unusual gathering was not announced by the Trump administration. The last similar meeting took place in June 2025, just days before Israel went to war with Iran.
-‏
-‏— Axios | @TheWarReporter
-08:22
 1405/07/11
