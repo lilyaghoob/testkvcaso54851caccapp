@@ -1,3 +1,18 @@
+src :@ClashReport
+[عکس]
+‏Brazil's presidential election is headed to a runoff on October 25. 
+‏
+‏Flávio Bolsonaro (son of jailed ex-president Jair Bolsonaro) led the first round with 47% versus incumbent Lula's 45%, a roughly 2.2 million vote gap that beat most polling projections. 
+‏
+‏Bolsonaro's PL party also won the largest congressional bloc. 
+‏
+‏In São Paulo, Bolsonaro ally Tarcísio de Freitas was reelected governor with about 63%.
+08:26
+1405/07/13
+
+
+
+
 src :@Indypersian
 ‏⭕️ گردش به راست آمریکای لاتین؛ انتخابات برزیل با پیروزی فلاویو بولسونارو، نامزد راست‌گرا به دور دوم کشیده شد
 ‏
@@ -7008,20 +7023,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 08:49
-1405/07/12
-
-
-
-
-src :@ircfspace
-[عکس]
-‏نسخه ۱۸ از فیلترشکن اندرویدی MahsaNG منتشر شده و توی این نسخه هسته Xray مهسا آپدیت شده و پشتیبانی از پروتکل MASQUE رو اضافه کردن.
-‏برای وایرگارد و مسک حالا یک اسکنر IP اختصاصی در دسترسه که از نویز و پورت پشتیبانی می‌کنه و میشه کانفیگ‌های این دو پروتکل رو با کلید Auto ساخت. امکان بکاپ از کانفیگ‌های شخصی، صفحه پروکسی تلگرام برای کپی و تست سریع پروکسی‌ها و بهبود Fragment و حالت Auto هم اضافه شدن.
-‏چند نویز جدید برای عبور از فیلترینگ UDP، کانفیگ‌های جدید یوتیوب و پشتیبانی از Cipher Suite برای افزایش سرعت آپلود در متدهای پترنیها به این نسخه اضافه شده. FinalMask حالا روی پروتکل‌های جدید MASQUE و Hysteria در دسترسه و علاوه بر رفع یک سری از مشکلات، ابزار زنجیره‌ساز کانفیگ هم از Fragment، Hysteria و MASQUE پشتیبانی می‌کنه.
-‏
-‏👉 github.com/GFW-knocker/MahsaNG/releases
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-08:22
 1405/07/12
