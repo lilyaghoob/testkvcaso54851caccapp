@@ -1,3 +1,49 @@
+src :@selena_updates
+[عکس]
+‏Spanish Prime Minister Pedro Sánchez announced the dissolution of parliament and called a snap general election for November 29, ending the legislature early after his minority government suffered a major defeat in Congress on October 2 when right-wing opposition parties joined to reject 2 emergency housing decrees from his minority coalition.
+‏
+‏Sánchez’s coalition controls just 147 of the 350 seats and has struggled to pass legislation or a new budget, relying on smaller parties including Catalan separatist Junts.
+‏
+‏The election represents a significant political gamble for Sánchez, whose Socialist Party (PSOE) trails the conservative People’s Party (PP) in current polling, with surveys indicating PP and Vox together at roughly 51% of the vote. Sánchez said Spain needed renewed public backing and a broader progressive majority, setting up a high-stakes campaign ahead of the November 29 vote.
+‏
+‏Sánchez has been one of the EU’s most outspoken critics of Israel, while his government has also restricted military cooperation connected to Israel and the Iran war. During the conflict with Iran, Madrid barred U.S. forces from using jointly operated bases for the campaign and subsequently closed Spanish airspace to U.S. military aircraft involved in operations against Iran.
+‏
+‏At home, Sánchez faces mounting political pressure from corruption cases involving his inner circle. His wife, Begoña Gómez, is set to stand trial before a jury on alleged influence-peddling and misuse-of-public-funds offenses linked to her professional activities at Madrid’s Complutense University. She denies wrongdoing; an earlier order requiring her to surrender her passport and remain in Spain was later overturned.
+11:40
+1405/07/13
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇪🇸 — Spanish Prime Minister Pedro Sánchez announced this morning that Spain will hold a general election on Sunday, 29 November 2026, dissolving parliament more than half a year before the scheduled end of the term.
+‏
+‏The Global Eye | Subscribe ✈️
+11:39
+1405/07/13
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏It appears that France is also taking part in the war on Yemen, as a French A330 MRTT aircraft is currently conducting aerial refueling operations near the Bab al-Mandab Strait.
+11:38
+1405/07/13
+
+
+
+
+src :@Alibk3
+[عکس]
+‏يبدو ان فرنسا ايضا تشارك بالحرب على اليمن، حيث أن هنالك طائرة فرنسية من طراز A330 MRTT،  تقوم الآن بعمليات تزويد بالوقود بالقرب من مضيق باب المندب.
+11:38
+1405/07/13
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏«حمید بورد»، سرپرست جدید وزارت نفت جمهوری اسلامی، در نخستین مصاحبه خود پس از انتصاب به این سمت گفته است که این وزارتخانه تلاش خواهد کرد با استفاده از «راهبردهای جدید»، تولید نفت را افزایش دهد و صادرات را ادامه دهد.
@@ -120,7 +166,7 @@ src :@mohem_mat
 
 
 src :@Ali_bk_2
-‏UAE-aligned forces are launching attacks on newly captured Yemeni army positions along the coast in an attempt to reoccupy them.
+‏Saudi-aligned forces are launching attacks on newly captured Yemeni army positions along the coast in an attempt to reoccupy them.
 11:31
 1405/07/13
 
@@ -128,7 +174,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏القوات الموالية للإمارات تشن هجمات على مواقع السيطرة الحديثة للجيش اليمني على الساحل في محاولة لاحتلالها مجددًا
+‏القوات الموالية للسعودية تشن هجمات على مواقع السيطرة الحديثة للجيش اليمني على الساحل في محاولة لاحتلالها مجددًا
 11:31
 1405/07/13
 
@@ -3866,19 +3912,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏وول ستريت جورنال عن مسؤولين أميركيين: 
-‏
-‏واشنطن سحبت قاذفات بي 1 من قاعدة فيرفورد البريطانية بسبب مخاوف أمنية.
-‏
-‏وقال مسؤول أميركي إن مخططًا مرتبطًا بإيران كان يستهدف مهاجمة القاذفات وقتل أفراد في قاعدة فيرفورد.
-23:50
-1405/07/12
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏شرکت ایتالیایی Leonardo آزمایش نسخه زمینی سامانه ضدپهپادی Hystrix 40 ADS را آغاز کرده است؛ سامانه‌ای که بر پایه برجک دریایی Marlin 40 توسعه یافته و برای مقابله با پهپادها، مهمات سرگردان و سایر تهدیدات کم‌ارتفاع طراحی شده است.
@@ -4308,16 +4341,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-‏🔴کارشناس صداوسیما: در صورت حمله اتمی به تهران، سه‌میلیون نفر کشته خواهند شد
-‏
-‏@MilitarryWorld | Parsa
-22:42
-1405/07/12
-
-
-
-
 src :@Exciton_missile_program
 ‏🔸طبق تصورات بسیاری از هواداران نظام، پس از حملات ایران به کشورهای عربی در جنگ ۳۹ روزه و پس از آن، کشورهای عربی خلیج فارس باید به این درک می‌رسیدند که تکیه به آمریکا در بحث امنیت کشورهایشان سراب است و قاعدتاً آن‌ها باید به این سمت می‌رفتند که همکاری امنیتی خود با آمریکا را کاهش داده و در عوض به همکاری با جمهوری اسلامی متمایل شوند تا از حملات بیشتر ایران که حالا خود را ابرقدرت چهارم جهان می‌داند در امان بمانند اما نه تنها این اتفاق رخ نداده، بلکه این کشورها بیشتر از قبل برای تأمین امنیت خود به آمریکا التماس می‌کنند. نمونه آن بن سلمان ولیعهد عربستان که بارها برای مداخله در یمن از ترامپ خواهش کرد. حتی قطر که به دلایل قابل درک به شدت در تمنای پایان جنگ است هم رابطه قوی نظامی با آمریکا را مذاکره ناپذیر می‌داند. (اینجا)
 ‏
@@ -4398,19 +4421,6 @@ src :@RASTAKHIZ_PERSIAN
 src :@Navy_Iranian
 ‏يا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَ قُولُوا قَوْلاً سَدِيداً  ای کسانی که ایمان آورده‌اید، از خدا پروا کنید و سخن درست و استوار بگویید.  سوره مبارکه احزاب؛ آیه 70  @ZarebinDefense
 22:33
-1405/07/12
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Syria is finalizing a sweeping new traffic law covering driver licensing, vehicle registration, inspections, speed limits and tougher penalties as road accidents continue to surge. 
-‏
-‏Transport Minister Yarub Badr says the legislation is nearing completion ahead of submission to parliament, with serious offenses such as running red lights and exceeding speed limits by more than 40 km/h expected to retain possible jail terms and the maximum fine reportedly rising to 60,000 new Syrian pounds. 
-‏
-‏The Syrian Civil Defense recorded 626 crashes in September alone, killing 29 people and injuring 725; motorcycles were involved in 247 crashes, resulting in four deaths and 289 injuries.
-22:32
 1405/07/12
 
 
@@ -6109,17 +6119,6 @@ src :@samueltarikh
 src :@samueltarikh
 ‏ارتش دولت یمن تحت حمایت عربستان سعودی عملیات نظامی گسترده ای را از سه جبهه به سمت صنعا، پایتخت حوثی های یمن آغاز کردند.
 17:35
-1405/07/12
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇾🇪 🇾🇪 — The Presidential Leadership Council (PLC) launches large-scale offensives against the Houthi militia in the al-Jawf, al-Bayda', and Ma'rib regions in northern Yemen, supported by heavy Saudi airstrikes.
-‏
-‏The Global Eye | Subscribe ✈️
-17:29
 1405/07/12
 
 
