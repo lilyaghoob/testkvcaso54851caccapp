@@ -1,3 +1,165 @@
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇸🇦/🇹🇷/🇵🇰 NEW: Saudi Arabia, Turkey, and Pakistan have announced in a joint statement that the Mecca Pact is now in effect
+‏
+‏Turkey and Pakistan will take immediate measures to send troops and equipment to fight the Houthis as soon as possible.
+‏
+‏@Middle_East_Spectator
+23:58
+1405/07/13
+
+
+
+
+src :@ircfspace
+[عکس]
+‏#گزارش
+‏پترنی‌ها در تحلیل وضعیت فیلترینگ ایران، جمع‌بندی روش‌های فعلی اتصال به اینترنت آزاد از طریق کلودفلر روی فایروال همراه اول و ایرانسل رو منتشر کرده.
+‏بر اساس این جمع‌بندی، روی فایروال همراه اول میشه برای اتصال به CDN یا Worker از روش ECH با یک IP مناسب استفاده کرد. استفاده از IPv6 هم یکی دیگه از روش‌های فعلیه که بسته به فیلتر بودن یا نبودن دامنه، تنظیمات متفاوتی برای finalMask داره. برای WARP هم میشه از متد WARP-in-WARP در اتر روی IPv6 استفاده کرد و با اسکن، IP مناسب رو پیدا کرد.
+‏روی فایروال ایرانسل، برای CDN و Worker میشه از متد F&F استفاده کرد که نیاز به تنظیمات مشخصی برای finalMask، cipherSuites و فینگرپرینت داره. WARP هم روی این فایروال قابل استفاده هست و محدودیتی برای نوع IP وجود نداره. علاوه بر این، روش MASQUE/H2 با اسکن IP و تنظیمات مشخصی برای فینگرپرینت و finalMask می‌تونه برای اتصال به کلودفلر از طریق هسته اتر مورد استفاده قرار بگیره.
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+23:57
+1405/07/13
+
+
+
+
+src :@rnintel
+‏🇾🇪🇸🇦⚡- Three Saudi military personnel have died along the Saudi Arabia-Yemen border in the past 24 hours.
+23:56
+1405/07/13
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏The Global Eye site is live.
+‏
+‏Real-time coverage of worldwide conflicts: breaking news, exclusive reports, and the latest developments.
+‏
+‏Eyes on what matters.
+‏
+‏🌐 https://theglobaleyetg.pages.dev/
+23:55
+1405/07/13
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ: ویروس طاعون که تو روسیه رخ داده رو قبلا میتونستیم کنترل کنیم اما الان این ویروس قوی شده و کنترلش سخته ، بهرحال ما به روسیه کمک خواهیم کرد
+‏
+‏@MilitarryWorld | Parsa
+23:54
+1405/07/13
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏در بحبوحه تشدید جنگ با ایران، تماس سطح بالای روبیو با نتانیاهو
+‏
+‏به گزارش کانال 14 عبری، مارکو روبیو، وزیر امور خارجه آمریکا، دقایقی پیش با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تلفنی گفت‌وگو کرده است.
+‏
+‏این تماس تنها چند ساعت پس از انتشار گزارش‌هایی مبنی بر اینکه واشینگتن محدودیت‌های مربوط به عملیات اسرائیل در حریم هوایی عراق را لغو کرده انجام گرفته؛ اقدامی که راه را برای حمله اسرائیل به گروه‌های شبه‌نظامی مورد حمایت ایران که در عراق فعالیت می‌کنند، هموار میکند.
+‏
+‏این تماس همچنین پس از برگزاری یک نشست سطح بالای دولت ترامپ در کمپ دیوید درباره ایران و یمن انجام گرفته است.
+‏
+‏وزارت خارجه آمریکا هنوز اعلام نکرده است که روبیو و نتانیاهو درباره چه موضوعاتی گفت‌وگو کرده‌اند.
+‏
+‏
+‏#خبر
+‏
+‏@P_raetorio
+23:54
+1405/07/13
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇬🇭🇨🇳 Ghana launches cedi-to-yuan payment system for imports from China, reducing reliance the US dollar.
+‏
+‏• Stanbic Bank Ghana is piloting the cedi-to-yuan payment system, with Ghana Commercial Bank developing a similar service.
+‏
+‏• Payments are processed through China's Cross-Border Interbank Payment System (CIPS), enabling direct yuan payments from cedi accounts.
+‏
+‏• This system reduces the need for US correspondent banks, cutting costs and processing times for China-related transactions.
+‏
+‏@BRICSNews
+23:53
+1405/07/13
+
+
+
+
+src :@tglobaleye
+‏The Global Eye site is live.  Real-time coverage of worldwide conflicts: breaking news, exclusive reports, and the latest developments.  Eyes on what matters.  🌐 https://theglobaleyetg.pages.dev/
+23:52
+1405/07/13
+
+
+
+
+src :@tglobaleye
+‏The Global Eye pinned a photo
+23:50
+1405/07/13
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر میراث فرهنگی: از هر ۱۰۰ گردشگر حدود ۷۰ درصد عراقی هستند
+‏
+‏@MilitarryWorld | Parsa
+23:50
+1405/07/13
+
+
+
+
+src :@tglobaleye
+‏Where to find us:
+‏
+‏✖️X: https://x.com/TGEThGlobalEye
+‏
+‏🦋BlueSky: https://bsky.app/profile/theglobaleye.bsky.social
+‏
+‏🌐 Web: https://theglobaleyetg.pages.dev/
+23:50
+1405/07/13
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏The Global Eye site is live.
+‏
+‏Real-time coverage of worldwide conflicts: breaking news, exclusive reports, and the latest developments.
+‏
+‏Eyes on what matters.
+‏
+‏🌐 https://theglobaleyetg.pages.dev/
+23:50
+1405/07/13
+
+
+
+
+src :@defence_news
+‏🔴 ​فووووری / نیویورک تایمز تایید کرد: استقرار بی‌سابقه نیروهای آمریکایی و انتقال کابینه امنیتی به پناهگاه زیرزمینی!!
+23:49
+1405/07/13
+
+
+
+
 src :@intelslava
 ‏🇷🇺 WHO says the public health risk appears low following the death of a worker at Russia’s Anti-Plague Research Institute.
 ‏
@@ -2464,16 +2626,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@WAR_ROOM_NEWS
-‏🇺🇸🇸🇦 دولت ایالات متحده مجدداً هشداری امنیتی را برای شهروندان خود در عربستان سعودی صادر کرده و از آنها خواسته‌ است که احتیاط کنند و دستورالعمل‌های سازمان دفاع مدنی عربستان سعودی را رعایت نمایند.
-‏
-‏🆔️‌@WAR_ROOM_NEWS
-21:28
-1405/07/13
-
-
-
-
 src :@MilitarryWorld
 ‏🔴صداوسیما:
 ‏
@@ -2735,34 +2887,12 @@ src :@didarnews1
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇺🇸🇸🇦🇾🇪🇾🇪 U.S. Embassy in Saudi Arabia: American citizens are urged to exercise increased caution due to the threat of potential attacks.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-21:06
-1405/07/13
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 — Elon Musk’s net worth topped $1 trillion on Monday morning, according to Forbes, as shares in SpaceX and Tesla rose after the U.S. market opened.
 ‏
 ‏The Global Eye | Subscribe ✈️
 21:05
-1405/07/13
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇾🇪 Yemen TV: Yemen’s armed forces have taken control of the city of Mocha, west of Taiz, from the Houthi's.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-21:03
 1405/07/13
 
 
@@ -2841,18 +2971,6 @@ src :@Artemis_Force
 
 
 
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، دوشنبه ۱۳ مهر در تروث سوشال نوشت: «آنچه باعث افزایش قیمت بنزین شده، دیگر تنگه هرمز نیست چراکه اکنون تقریبا هر روز حجم بی‌سابقه‌ای از بشکه‌های نفت از این مسیر عبور می‌کند و وارد بازار می‌شود.»
-‏
-‏ترامپ افزود: «مشکل اصلی پالایشگاه‌ها هستند؛ پالایشگاه‌های روسیه که اوکراین آنها را هدف قرار می‌دهد و پالایشگاه‌های آمریکا که در ایالت‌های تحت حاکمیت دموکرات‌ها، مانند کالیفرنیا، تعطیل می‌شوند.»
-‏https://iranintl.com/202610056047
-20:59
-1405/07/13
-
-
-
-
 src :@Indypersian
 ‏⭕️ارتقای جایگاه سه دانشگاه سعودی در رتبه‌بندی جهانی ۲۰۲۷
 ‏
@@ -2892,18 +3010,6 @@ src :@didarnews1
 ‏🔵 @didarnews1
 ‏🔵 @didarnewsir
 20:58
-1405/07/13
-
-
-
-
-src :@MilitarryWorld
-‏🔴پزشکیان:
-‏
-‏آمریکا به دنبال گفتگو نیست، به دنبال سرنگونی نظام است.
-‏
-‏@MilitarryWorld | Parsa
-20:49
 1405/07/13
 
 
@@ -2954,18 +3060,6 @@ src :@Shin_Persian
 
 
 
-src :@IranintlTV
-[عکس]
-‏یسرائیل کاتز، وزیر دفاع اسرائیل، دوشنبه ۱۳ مهر در صفحه ایکس خود نوشت چهار هزار نفر از افرادی که در حمله هفتم اکتبر به اسرائیل شرکت داشتند، کشته شدند و حدود دو هزار نفر دیگر باقی مانده‌اند.
-‏
-‏کاتز نوشت: «نخست‌وزیر نتانیاهو و من به ارتش اسرائیل دستور داده‌ایم همه آنها را، از فرماندهان ارشد تا نیروهای عادی، تعقیب و از بین ببرد.»
-‏https://iranintl.com/202610055336
-20:41
-1405/07/13
-
-
-
-
 src :@mohem_mat
 ‏پزشکیان در دیدار با وزیر خارجه ارمنستان:
 ‏
@@ -2981,17 +3075,6 @@ src :@mohem_mat
 src :@thewarreporter
 ‏🇵🇰🇾🇪🇾🇪 — A Pakistani national was killed in a Houthi drone strike in central Yemen.  The PLC-backed 1st Brigade Emergency Forces said an aid truck in Marib, operated by a Pakistani national, was struck while the vehicle was operating near the frontlines. …
 20:39
-1405/07/13
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴یک موشک شلیک شده از یمن، فرودگاه ریاض را هدف قرار داد
-‏
-‏@MilitarryWorld | Parsa
-20:38
 1405/07/13
 
 
@@ -3104,19 +3187,6 @@ src :@Minas_Tirith2024
 src :@GeoPWatch
 ‏🇵🇰🇸🇦🇾🇪❌🇾🇪 – Pakistan has been aiding both Saudi Arabia and the PLC in their fight against Ansarullah (the Houthis) in Yemen, Reuters reported citing Western and Middle Eastern sources.  Pakistan has sent around 40,000 troops to Saudi Arabia, some of them after…
 20:22
-1405/07/13
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴کنسرت علیرضا قربانی در مشهد به دلیل دخالت علم الهدی لغو شد
-‏
-‏علم الهدی معتقد است در مشهد نباید شادی باشد
-‏
-‏@MilitarryWorld | Parsa
-20:19
 1405/07/13
 
 
@@ -3398,16 +3468,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@MilitarryWorld
-‏🔴اسرائیل هیوم: ایالات متحده به اسرائیل مجوز داده است و محدودیت‌های عملیاتی را برای نیروی هوایی اسرائیل در حریم هوایی عراق لغو کرده است. به گفته منابع، این مجوز به اسرائیل اجازه می‌دهد تا به گروه‌های شبه‌نظامی مورد حمایت ایران در منطقه حمله کند
-‏
-‏@MilitarryWorld | Parsa
-19:55
-1405/07/13
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏یکی از جالب ترین موارد عرضه شده این روزها سامانه CIWS ماژولار فرانسوی Rampar که احتمالاً اولین از نوع خودشه و بسیار قابل توجه این سامانه به شکل یک لانچر یکپارچه طراحی شده ، که قابلیت شلیک پرتابه های مختلف تحت پیکربندی های مختلف برای اون لحاظ شده به طور مثال در طی آزمایش ها این سامانه دست به پرتاب راکت های 68mm هدایت شونده ضد پهپاد های هدف زده ، و در آینده برنامه هایی برای پرتاب نسخه ،موشک های پدافندی کوتاه برد ( میسترال 3 ) و حتی پهپاد های رهگیر برای اون پیش بینی شده.
@@ -3476,18 +3536,6 @@ src :@Exciton_missile_program
 ‏
 ‏@P_raetorio
 19:49
-1405/07/13
-
-
-
-
-src :@MilitarryWorld
-‏🔴جی‌دی ونس: 
-‏
-‏هنوز هیچ مدرک قطعی مبنی بر ارتباط ایران با حادثه هواپیمای «فلای دبی» مشاهده نکرده‌ایم
-‏
-‏@MilitarryWorld | Parsa
-19:45
 1405/07/13
 
 
@@ -3706,15 +3754,6 @@ src :@rnintel
 ‏
 ‏The PLC-backed 1st Brigade Emergency Forces says an alleged Pakistani aid truck was struck by an Ansarullah drone. The vehicle was reportedly driven by a Pakistani national who, for reasons that remain unclear, was operating directly on the front lines in Ma’rib.
 19:11
-1405/07/13
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇾🇪 🇾🇪 — PLC-affiliated forces have reportedly reached Dhuhab and are preparing to advance to and capture the strategic port city of Mocha on the southwestern coast of Yemen.  The Global Eye | Subscribe ✈️
-19:07
 1405/07/13
 
 
@@ -4805,31 +4844,6 @@ src :@BellumActaNews
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇾🇪 🇾🇪 — The Houthi militia has reportedly completed an effective encirclement of Taiz, in southwestern Yemen.
-‏
-‏The Global Eye | Subscribe ✈️
-16:30
-1405/07/13
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏خبرگزاری «هرانا» از بازداشت «آیدا قادری»، شهروند ۲۰ ساله و مربی شنا در سقز، توسط ماموران اداره اطلاعات خبر داده است.
-‏
-‏براساس گزارش این رسانه، ماموران اداره اطلاعات روز یکشنبه ۱۲مهر۱۴۰۵ بدون ارایه حکم قضایی وارد منزل آیدا قادری شده و او را بازداشت کردند.
-‏بخوانید: https://iranwire.com/fa/news-1/158492
-‏
-‏@Farsi_Iranwire
-16:27
-1405/07/13
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻سربازان آمریکایی: سیستم پزشکی ارتش پس از حمله پهپادی ایران ما را ناکام گذاشت
@@ -4853,17 +4867,6 @@ src :@Minas_Tirith2024
 [عکس]
 ‏لحظاتی پیش ۸ فروند از ۱۲ فروند بمب افکن استراتژیک B1B لنسر نیروی هوایی آمریکا مستقر در پایگاه هوایی فیرفورد انگلستان به سمت خاک آمریکا پرواز کردند.  این بمب افکن ها جهت حضور در جنگ ۴۰ روزه در فیرفورد مستقر بودند.  @Minas_Tirith2024
 16:24
-1405/07/13
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇸🇦/🇾🇪 BREAKING: The encirclement of Taizz city is now complete
-‏
-‏@Middle_East_Spectator
-16:23
 1405/07/13
 
 
@@ -4893,15 +4896,6 @@ src :@BellumActaNews
 ‏
 ‏The Global Eye | Subscribe ✈️
 16:17
-1405/07/13
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇾🇪 — Following the capture of the Bab el-Mandeb Strait, PLC-affiliated forces advance along Yemen's southwestern coast towards Dhuhab.  The Global Eye | Subscribe ✈️
-16:16
 1405/07/13
 
 
@@ -5041,21 +5035,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 16:01
-1405/07/13
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏BREAKING:
-‏
-‏🇷🇴 Romania’s Interior Ministry confirmed the Turkish grain ship Royad Mammadov has sunk. A suspected drone strike caused the explosion and fire that destroyed the vessel.
-‏
-‏Two crew members are confirmed dead. Eleven were rescued.
-‏
-‏Subscribe Visegrád24
-15:59
 1405/07/13
 
 
@@ -5251,17 +5230,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 14:32
-1405/07/13
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏در جبهه مأرب گزارش شده است نیرو های شورای ریاست جمهوری یمن در نزدیکی اردوگاه نظامی ام الریش پیشروی کردند.
-‏
-‏@P_raetorio
-14:31
 1405/07/13
 
 
@@ -6314,14 +6282,6 @@ src :@Mena_Live
 
 
 
-src :@BellumActaNews
-‏🇧🇷🇧🇷🏛 — The Liberal Party (PL) will have the largest Senate caucus of any political party in the last 40 years of the Brazilian Republic.
-02:09
-1405/07/13
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏On October 3, North Korea conducted a launch of a medium-range ballistic missile equipped with a Hypersonic Glide Vehicle (HGV) under the personal supervision of Kim Jong Un.
@@ -6350,16 +6310,6 @@ src :@cataphract1
 ‏🖋#Ethan
 ‏📃@Cataphract1
 01:18
-1405/07/13
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇬🇧 US withdraws all its bomber jets from RAF Fairford in UK following suspected terrorist plot.
-‏
-‏@BRICSNews
-00:59
 1405/07/13
 
 
@@ -6427,15 +6377,3 @@ src :@samueltarikh
 ‏قدرتی که بر پایه یک روایت مقدس بنا شده باشد نمی‌تواند عقب‌نشینی کند چون عقب‌نشینی یعنی شکستن روایت یعنی شکستن خود. یعنی هر قدرتی که نتواند خود را نقد کند محکوم است که توسط جهان نقد شود. ج.ا نمی‌تواند خودش را نقد کند پس جهان دارد او را نقد می‌کند با تحریم و با فشار و با انزوا و با جنگ و با فرسایش اقتصادی....
 00:03
 1405/07/13
-
-
-
-
-src :@Mena_Live
-‏The Pentagon confirms: All B-1 aircraft have left the Royal Air Force (RAF) Fairford base:
-‏
-‏"For operational security reasons, we were unable to confirm the movement of the aircraft in real-time... However, we can now confirm that all of the American bombers deployed at RAF Fairford have been returned to their home bases in the United States."
-‏
-‏@Mena_Live
-23:52
-1405/07/12
