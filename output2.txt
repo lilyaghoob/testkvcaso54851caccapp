@@ -1,3 +1,58 @@
+src :@Artemis_Force
+[عکس]
+‏ارتش سلطنتی تایلند، 4 فروند بالگردهای UH-60M دریافت کرده است، این بالگرد ها در تاریخ 18 سپتامبر به تجهیزات گردان هوایی نهم در شهر لوبوری اضافه شدند. 
+‏
+‏در حال حاضر، این واحد از 22 فروند بالگرد با مدل‌های مختلف استفاده می‌کند: 8 فروند UH-60L، 3 فروند UH-60A و 7 فروند UH-60M که پیش از این در سال‌های 2014 و 2022 خریداری شده بودند.
+‏
+‏@artemis_force
+14:01
+1405/07/13
+
+
+
+
+src :@didarnews1
+‏🔴نگرانی از وضعیت اضطراری جهانی!
+‏
+‏🔹کاخ سفید، گسترش احتمالی یک بیماری همه‌گیر مرگبار که از روسیه آغاز می‌شود را زیر نظر دارد. یک مقام ارشد دولت ترامپ شب گذشته به Axios گفت: "کاخ سفید، گزارش‌ها در مورد یک مورد مشکوک از یک بیماری همه‌گیر مرگبار را زیر نظر دارد و در نتیجه، تلاش‌هایی برای جداسازی روسیه در آینده نزدیک انجام می‌شود."
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+14:01
+1405/07/13
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏سازمان عملیات تجارت دریایی بریتانیا اعلام کرد سپاه پاسداران ایران در جریان عبور یک نفتکش از تنگه هرمز، با برقراری ارتباط با کشتی از آن خواسته است مسیر خود را تغییر داده و بازگردد و در غیر این صورت هدف قرار خواهد گرفت. این حادثه در فاصله ۱۱ مایل دریایی شمال خَصَب عمان رخ داده و ناخدای نفتکش نیز تأیید کرده است که کشتی مطابق دستور واحد سپاه مسیر خود را تغییر داده است.
+14:01
+1405/07/13
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇸🇦 Saudi Arabia's East-West oil pipeline shut down again following a new attack.
+‏
+‏@BRICSNews
+14:01
+1405/07/13
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏🔻طبق گزارشات یک پهپاد، یک کشتی ترکیه‌ای را در سواحل رومانی هدف قرار داد
+13:58
+1405/07/13
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏صبح دوشنبه ۱۳مهر۱۴۰۵ کانال‌های تلگرامی سپاه پاسداران جمهوری‌اسلامی خبری جعلی و دروغ درباره قطع اینترنت در فرانسه به‌دلیل شدت‌گرفتن اعتراضات دانش‌آموزان در شهرهای مختلف این کشور منتشر کرده‌اند. اعتراضات دانش‌آموزان در فرانسه طی دو هفته گذشته، به بازداشت صدها نفر، برخوردهای خشونت‌آمیز پلیس فرانسه با دانش‌آموزان و تعطیلی مدارس تا سه‌شنبه ۱۴مهرماه انجامیده است اما قطعی اینترنت یا ایجاد اختلال در دسترسی شهروندان به فضای مجازی خبری جعلی است.
@@ -10,11 +65,22 @@ src :@Farsi_Iranwire
 
 
 
+src :@ClashReport
+[عکس]
+‏UKMTO said a tanker 11 nautical miles north of Khasab, Oman, was hailed by the IRGC and warned it would be targeted unless it turned back.
+‏
+‏The tanker complied.
+13:58
+1405/07/13
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
 ‏— 🇮🇷/🇴🇲 NEW: The IRGC Navy told a vessel to turn around in the Strait of Hormuz
 ‏
-‏Seeking to avoid damage to his ship or crew, the captain complied with the IRGC’s instructions and turned back.
+‏Seeking to avoid damage to his ship and crew, the captain complied with the IRGC’s instructions.
 ‏
 ‏@Middle_East_Spectator
 13:57
@@ -204,9 +270,7 @@ src :@P_raetorio
 
 src :@Ali_bk_2
 [عکس]
-‏Security incident in the Strait of Hormuz
-‏
-‏The IRGC orders an oil tanker to turn back in the Strait of Hormuz after it attempted to pass through the Omani side, and the ship’s captain complies with the orders.
+‏The IRGC stops a ship and orders it to turn back in the Strait of Hormuz after it attempted to pass through the Omani side, and the ship’s captain complies with the orders.
 13:47
 1405/07/13
 
@@ -215,9 +279,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏حدث أمني في مضيق هرمز
-‏
-‏الحرس الثوري يأمر ناقلة نفط بالعودة أدراجها في مضيق هرمز بعد محاولتها العبور من الجانب العماني، وقبطان السفينة يمتثل للأوامر.
+‏الحرس الثوري يوقف سفينة ويأمرها بالعودة أدراجها في مضيق هرمز بعد محاولتها العبور من الجانب العماني، وقبطان السفينة يمتثل للأوامر.
 13:47
 1405/07/13
 
@@ -4205,14 +4267,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇧🇷⚡️- At 98.7% counted:  Flavio Bolsonaro: 47.24% Lula: 44.91%  Flavio Bolsonaro is leading with +2.34pts as results are nearly complete.   Flavio Bolsonaro will face Lula during the second turn of the Brazilian presidential election on the 25th of October.
-03:47
-1405/07/13
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇧🇷 Brazil presidential election heads to runoff between Bolsonaro and Lula on October 25.
 ‏
@@ -6646,16 +6700,6 @@ src :@samueltarikh
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇷🇺🇺🇦 Zelensky says the US wants to hold trilateral talks with Russia and Ukraine by the end of October.
-‏
-‏@BRICSNews
-17:39
-1405/07/12
-
-
-
-
 src :@samueltarikh
 [عکس]
 ‏این بار ساده‌تر  با لینگانو ادامه بده!  📕
@@ -6693,21 +6737,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 17:27
-1405/07/12
-
-
-
-
-src :@didarnews1
-‏🔴 نیویورک تایمز: کمک خلبان پرواز فلای دبی ارتباطی با ایران ندارد
-‏
-‏🔹روزنامه نیویورک تایمز به نقل از مقامات عربی و آمریکایی در بخشی از گزارش خود درباره ابعاد حادثه برای پرواز فلای دبی نوشت، کمک خلبان این هواپیما که عامل بروز درگیری بود و ظاهرا قصد ساقط کردن این هواپیما را داشت، با وجود تلاش‌های رژیم صهیونیستی برای مرتبط ساختن آن با ایران، مستقل عمل کرده است.
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-17:11
 1405/07/12
 
 
@@ -7140,19 +7169,4 @@ src :@Mena_Live
 src :@Navy_Iranian
 ‏هر تجهیزاتی بود ، به دلیل غافلگیری سو مدیریت از دست رفت. طی جنگ و زد و برخورد های بعد از آتش بس، نداجا در بدترین شکل به سرشماری نیروها عمل کرده. سابقا گفتیم که پرسنل و نیروهای نداجا با پراکندگی طی حملات آمریکا انجام میدهند، جان خود را حفظ کرده اند و بعد از…
 14:02
-1405/07/12
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏رزم ناو رابرت اسمالس"ک (CG 62) نیروی دریایی ایالات متحده، در 25 سپتامبر 2026، از پایگاه دریایی یوکوسو خارج شده و به سمت پایگاه جدید خود، پایگاه دریایی سان دیگو، حرکت کرد و بدین ترتیب، ماموریت رزمی سنگین خود در ژاپن را به پایان رساند.
-‏
-‏این کشتی در سال 2015 با نام "چانسلرزویل" به یوکوسو رسید و در سال 2023 به "رابرت اسمالس" تغییر نام داد.
-‏
-‏به عنوان جایگزین این رزم ناو ، در 23 مارس 2026، ناوشکن "موستین" (DDG 89) نیروی دریایی ایالات متحده وارد شده است.
-‏
-‏@artemis_force
-14:01
 1405/07/12
