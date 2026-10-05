@@ -1,3 +1,91 @@
+src :@Ali_bk_2
+‏Security incident in the Strait of Hormuz
+‏
+‏Updates will be posted here
+13:47
+1405/07/13
+
+
+
+
+src :@Alibk3
+‏حدث أمني في مضيق هرمز
+‏
+‏*سيتم التحديث هنا*
+13:47
+1405/07/13
+
+
+
+
+src :@Ali_bk_2
+‏No significant achievements have been made by the Saudi-backed forces so far, merely media hype. However, new fronts have been opened against the Yemeni army, along with broader participation by Saudi aircraft, meaning a wider escalation that will be met with a stronger response under the “escalation for escalation” equation.
+13:47
+1405/07/13
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏مهم
+‏
+‏🔴نیروهای یمنی تحت ائتلاف سعودی حملات خود را به مواضع حوثی ها در استان حجه در شمال غرب یمن آغاز کردند
+‏
+‏🆔@WAR_ROOM_NEWS
+13:47
+1405/07/13
+
+
+
+
+src :@Alibk3
+‏لا إنجازات تُذكر للقوات الموالية للسعودية حتى الآن، مجرد تهويل إعلامي، لكن تم فتح جبهات جديدة ضد الجيش اليمني، ومشاركة أوسع للطيران السعودي، ما يعني تصعيدًا أوسع سيُقابل بردّ فعل أقوى حسب معادلة "التصعيد بالتصعيد"
+13:46
+1405/07/13
+
+
+
+
+src :@naya_foriraq
+‏استهداف سفينة تركية قبالة سواحل رومانيا بطائرة مسيرة .
+13:46
+1405/07/13
+
+
+
+
+src :@P_raetorio
+‏گزارش‌های تایید نشده از حمله مجدد به خط لوله شرق به غرب عربستان سعودی
+‏
+‏@P_raetorio
+13:44
+1405/07/13
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏حملات هوایی جنگنده‌های عربستانی به صنعا
+‏
+‏@P_raetorio
+13:44
+1405/07/13
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏حملات هوایی جنگنده‌های عربستانی به صنعا
+‏
+‏@P_raetorio
+13:43
+1405/07/13
+
+
+
+
 src :@MilitarryWorld
 ‏🔴سردار رحیمی:
 ‏
@@ -22,7 +110,7 @@ src :@bricsnews
 
 src :@tabzlive
 [عکس]
-‏🇷🇴⚡️ — A fire broke out aboard the ROYAD MAMMADOV in the Black Sea on Monday around 11:00 after the vessel was reportedly hit by a drone. The incident occurred about 20 nautical miles from shore, outside Romania’s territorial waters, near Petrom’s Pescăruș platform.
+‏🇷🇴⚡️ — A fire broke out aboard the cargo ship ROYAD MAMMADOV in the Black Sea on Monday around 11:00 after the vessel was reportedly hit by a drone. The incident occurred about 20 nautical miles from shore, outside Romania’s territorial waters, near Petrom’s Pescăruș platform.
 ‏
 ‏According to initial official reports, the ship’s captain was injured and 13 crew members are missing. Romania’s Maritime Rescue Coordination Centre (MRCC) Constanța launched a search-and-rescue operation and requested assistance from ARSVOM, the country’s maritime search-and-rescue service.
 ‏
@@ -90,6 +178,8 @@ src :@mohem_mat
 
 src :@WAR_ROOM_NEWS
 ‏🔴خبر فوری: خط لوله انتقال نفت شرقی-غربی عربستان سعودی، بار دیگر به دلیل حملات انصارالله به تعدادی از ایستگاه‌های پمپاژ، فعالیت خود را متوقف کرده است
+‏
+‏🆔@WAR_ROOM_NEWS
 13:39
 1405/07/13
 
@@ -540,6 +630,8 @@ src :@mohem_mat
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏بیش از ده حمله به اهداف حوثی توسط جنگنده های سعودی در صنعا انجام گرفته است
+‏
+‏🆔@WAR_ROOM_NEWS
 13:04
 1405/07/13
 
@@ -631,6 +723,8 @@ src :@didarnews1
 
 src :@WAR_ROOM_NEWS
 ‏🔴 وزارت دفاع عربستان سعودی اعلام کرد که ۱۰۰ فروند هواپیما اعم از جنگنده‌های اف-۱۵ و تایفون و تانکرهای سوخت رسان در عملیات تهاجمی آغازشده علیه حوثی ها شرکت دارند
+‏
+‏🆔@WAR_ROOM_NEWS
 13:00
 1405/07/13
 
@@ -673,6 +767,8 @@ src :@KayhanLondonChannel
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏اکنون حملات جنگنده‌های سعودی به اهداف حوثی‌ها در صنعا
+‏
+‏🆔@WAR_ROOM_NEWS
 12:56
 1405/07/13
 
@@ -5980,14 +6076,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Minas_Tirith2024
-‏Minas Tirith pinned Deleted message
-19:18
-1405/07/12
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ آمریکا دو مقام باقیمانده جمهوری اسلامی در این کشور را اخراج کرد
@@ -6221,16 +6309,6 @@ src :@Mena_Live
 ‏
 ‏Footage shows al-Houthi forces capturing the PLC Parliament Speaker Sultan al-Barakani's house (location shown on Rerum Novarum's map).
 18:41
-1405/07/12
-
-
-
-
-src :@Minas_Tirith2024
-‏در روزهای آینده احتمالا با وساطت سران قبایل و مصالحات میان دوطرف نیروهای باقی مانده تحت حمایت ائتلاف در تعز با تحویل سلاح از این شهر خارج شوند و این مرکز استان بسیار مهم پس از ۱۰ سال مجددا به کنترل نیروهای انصارالله در خواهد آمد، مگر این که قوای تحت حمایت ائتلاف در سریعترین زمان ممکن دست به ضد حمله بزرگ برای شکست محاصره تعز بزنند
-‏
-‏@Minas_Tirith2024
-18:40
 1405/07/12
 
 
@@ -6552,16 +6630,6 @@ src :@Parvazdaroj
 ‏
 ‏
 ‏@PARVAZDAROJ|M.S
-17:05
-1405/07/12
-
-
-
-
-src :@P_raetorio
-‏ارتش اوکراین در بیانیه‌ای اعلام کرد یک فروند جنگنده Su-34 و یک فروند جنگنده Su-35 را در پایگاه هوایی خانسکی استان ادیغیه روسیه منهدم کرده است.
-‏
-‏@P_raetorio
 17:05
 1405/07/12
 
@@ -6891,23 +6959,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 14:26
-1405/07/12
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏ارتش اسرائیل از استراتژی تعویض به جای تعمیر برای حفظ قابلیت عملیاتی ادوات و کوتاه کردن چرخه تعمیر آن ها در میدان استفاده میکند اما این مسئله مشکلاتی هم به همراه دارد.
-‏
-‏در این استراتژی به جای تعمیر قطعه، کلیت آن به عنوان یک ماژول قابل نصب و جدا سازی، تعویض میشود و در اینجا مسئله کمبود مقادیر در دسترس از این ماژول ها وجود دارد که از جمله آن بسته های قدرت یکپارچه یا همان Power Pack تانک ها هستند.
-‏
-‏نبرد های چند ساله و حضور طولانی مدت ادوات در میدان، فرسودگی قابل توجهی به ویژه بر اجزای مصرفی تانک ها و ادوات زرهی اسرائیل تحمیل کرده و همین مسئله نیازه ادوات به دوره های کوتاه مدت تعمیر و نگهداری را افزایش داده ضمن اینکه اطمینان پذیری ادوات را کاهش داده
-‏
-‏این مسئله به صورتی است که ادوات عملیاتی،بعضا با مشکلات متعدد فنی رو به رو میشوند که بخشی از آن توسط خدمه و در میدان رفع میشود اما بخش دیگر به این صورت قابل رفع نیست و نیازمند تعمیر در رده صنعت دفاعی است. نتیجه این است که هر چه از زمان آغاز عملیات زمینی در غزه میگذرد، از تعداد ادوات در دسترس ارتش اسرائیل به ویژه در بخش تانک های مرکاوا مارک 4 کاسته شده
-‏
-‏@SNTankograd
-14:21
 1405/07/12
 
 
