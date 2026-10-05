@@ -1,3 +1,48 @@
+src :@thewarreporter
+‏🇮🇱🇦🇪🇴🇲 — Israeli intelligence service Mossad:
+‏
+‏"We have found that the Omani co-pilot traveled to several countries hostile to Israel in recent years, some of which are considered 'enemy states'.
+‏
+‏The visits were brief. We are investigating whether, during these visits, anyone or any organization recruited or used him".
+‏
+‏@TheWarReporter
+22:17
+1405/07/13
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏After liberating al-Shu'ubah and al-A'lum, Yemeni forces launched attacks to liberate the remaining areas of al-Mawasat in Taiz: Quds, Bani Yusuf, Bani Hamad.
+22:15
+1405/07/13
+
+
+
+
+src :@Alibk3
+[عکس]
+‏بعد تحرير الشعوبة والأعلوم، القوات اليمنية تشن هجمات لتحرير ما تبقّى من مناطق المواسط بتعز؛ قدس، بني يوسف، بني حماد.
+22:15
+1405/07/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Mecca Pact in Effect: Türkiye, Pakistan to Deploy Forces in Saudi Arabia
+‏
+‏After an emergency session in Riyadh, Türkiye and Pakistan have agreed with Saudi Arabia to activate “collective deterrence measures” following Houthi attacks on the kingdom.
+‏
+‏READ MORE
+22:13
+1405/07/13
+
+
+
+
 src :@defence_news
 [عکس]
 ‏میگ ۲۳-۹۳ یک پروژه ارتقا جنگنده میگ ۲۳ بود که توسط روس‌ها در اوایل دهه ۱۹۹۰ داده شد 
@@ -22,7 +67,7 @@ src :@thewarreporter
 
 
 src :@intelslava
-‏🇺🇦🇷🇺⚡ Zelensky has set new long-range strike tasks for the AFU and the SBU.
+‏🇺🇦🇷🇺⚡️ — Zelensky has set new long-range strike tasks for the AFU and the SBU.
 ‏
 ‏He announced this after a meeting with AFU Commander-in-Chief Drapaty and SBU Head Khmara.
 ‏
@@ -280,18 +325,6 @@ src :@ClashReport
 ‏The IDF is also preparing for renewed fighting with Hezbollah and says another major round of combat with Hamas in Gaza is eventually inevitable.
 ‏
 ‏Source: Israel Hayom
-21:57
-1405/07/13
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏سازمان عملیات تجارت دریایی بریتانیا شامگاه دوشنبه ۱۳ مهر اعلام کرد گزارشی از حمله به یک نفتکش در تنگه هرمز دریافت کرده است. فرمانده این نفتکش گزارش داد «یک پرتابه ناشناس» به این شناور اصابت کرده و در پی آن، موتورخانه کشتی دچار آتش‌سوزی شده است.
-‏
-‏بر اساس این گزارش، خدمه در حال مهار آتش هستند و تاکنون گزارشی از خسارت جانی یا آسیب زیست‌محیطی منتشر نشده است.
-‏https://iranintl.com/202610053510
 21:57
 1405/07/13
 
@@ -1758,22 +1791,6 @@ src :@mohem_mat
 
 
 
-src :@Ali_bk_2
-‏A missile falls at Riyadh Airport.
-20:40
-1405/07/13
-
-
-
-
-src :@Alibk3
-‏سقوط صاروخ في مطار الرياض.
-20:40
-1405/07/13
-
-
-
-
 src :@thewarreporter
 ‏🇵🇰🇾🇪🇾🇪 — A Pakistani national was killed in a Houthi drone strike in central Yemen.  The PLC-backed 1st Brigade Emergency Forces said an aid truck in Marib, operated by a Pakistani national, was struck while the vehicle was operating near the frontlines. …
 20:39
@@ -2739,19 +2756,6 @@ src :@samueltarikh
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏آخرین بروزرسانی در جبهه مارب یمن
-‏
-‏نیروهای مسلح یمن تحت حمایت عربستان با پیشروی همزمان در محورهای الفلیحه، الحزم و مدغل، حلقه فشار بر حوثی‌ها در کوهستان‌های مأرب را تنگ‌تر کرده‌اند نیروهای یمنی در حال نزدیک شدن به مسیر راهبردی صنعا ـ مأرب هستند و در صورت قطع این مسیر، ارتباط حوثی‌ها با مواضع خط مقدم با اختلال جدی مواجه خواهد شد
-‏
-‏🆔@WAR_ROOM_NEWS
-19:35
-1405/07/13
-
-
-
-
 src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۱۳ مهر
@@ -2987,6 +2991,24 @@ src :@Indypersian
 ‏
 ‏@indypersian
 19:12
+1405/07/13
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏یک مقام آمریکایی، دوشنبه ۱۳ مهر به الجزیره اعلام کرد ایالات متحده در حال تشدید محاصره ایران است.
+‏
+‏این مقام آمریکایی به الجزیره گفت: «این کشور با مشکلات اقتصادی مواجه است و فشارهای این محاصره را به‌خوبی احساس می‌کند. این فشارها ادامه خواهد داشت.»
+‏
+‏او همچنین افزود: «ناو هواپیمابر جرج دبلیو بوش خاورمیانه را ترک کرده و برای تجدید قوا در تایلند مستقر شده است.»
+‏
+‏به گفته این مقام آمریکایی این ناو به منطقه بازخواهد گشت.
+‏
+‏الجزیره به نقل از این مقام نوشت: «نیروهای آمریکایی در جنگ یمن مشارکت ندارند. حدود ۲۰۰ مشاور آمریکایی در مراکز برنامه‌ریزی و عملیاتی عربستان سعودی مشاوره می‌دهند.»
+‏https://iranintl.com/202610053600
+19:11
 1405/07/13
 
 
@@ -5958,20 +5980,6 @@ src :@Americana_ir
 src :@thewarreporter
 ‏🇺🇸🇬🇧🇮🇷 — The U.S. has withdrawn all 12 B-1 bombers from RAF Fairford in the UK following security concerns over a suspected Iran-linked plot targeting the base.  U.S. officials believe a branch of the IRGC recruited UK nationals to target the bombers and kill…
 06:57
-1405/07/13
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇬🇧🇮🇷 — The U.S. has withdrawn all 12 B-1 bombers from RAF Fairford in the UK following security concerns over a suspected Iran-linked plot targeting the base.
-‏
-‏U.S. officials believe a branch of the IRGC recruited UK nationals to target the bombers and kill personnel, although some British officials have questioned how sophisticated the plot was.
-‏
-‏RAF Fairford had been used as a hub for launching U.S. bomber strikes against Iran. The B-1s have now returned to their home stations in the U.S. and remain available for global missions.
-‏
-‏— The Wall Street Journal | @TheWarReporter
-06:56
 1405/07/13
 
 
