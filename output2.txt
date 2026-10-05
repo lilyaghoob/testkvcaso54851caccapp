@@ -1,5 +1,69 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇪🇸 Spain's Prime Minister Pedro Sánchez calls for early snap election next month.
+‏
+‏The next vote was originally scheduled for summer of 2027.
+‏
+‏@BRICSNews
+10:47
+1405/07/13
+
+
+
+
+src :@mohem_mat
+‏تسنیم ادعای آقامیری رئیس مرکز ملی فضای مجازی در پاسخ به اظهارات اخیر نتانیاهو را منتشر کرد و به نقل از او نوشت:
+‏
+‏ایران برای اولین بار توانست با موفقیت پایانه‌های استارلینک را در جریان کودتای دی ماه سال گذشته از کار بیندازد
+‏
+‏رسانه‌های غربی در همان مقطع کودتای دی ماه هم خبر موفقیت ایران و اجرای عملیات از کار انداختن پایانه‌های استارلینک را تایید کرده‌اند
+‏
+‏آن عملیات فنی و مهم که کاملا موفق بود، یکی از ابزارهای ماست و ابزارهای دیگری هم برای مقابله با استارلینک در اختیار دارد
+‏
+‏@TasnimNews
+10:46
+1405/07/13
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇾🇪 🇾🇪 — Forces of Yemen’s Giants Brigades, aligned with the Presidential Leadership Council, have repelled Houthi attacks and mounted counterattacks in southwestern Yemen near the Bab al-Mandeb Strait.
+‏
+‏The Global Eye | Subscribe ✈️
+10:45
+1405/07/13
+
+
+
+
+src :@MilitarryWorld
+‏🔴یک مقام آمریکایی به نیویورک تایمز گفت که بیش از 200 تحلیلگر اطلاعاتی و نظامی در داخل مراکز فرماندهی در عربستان سعودی برای کمک به شناسایی اهداف در یمن کار می کنند.
+‏
+‏
+‏@MilitarryWorld | Parsa
+10:44
+1405/07/13
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇺🇸🇮🇱 — An American tourist was arrested near the IDF's Kirya military headquarters in Tel Aviv after his behavior aroused suspicion among security forces.
+‏
+‏The suspect had reportedly photographed the site and expressed an intention to carry out an attack.
+‏
+‏@TheWarReporter
+10:42
+1405/07/13
+
+
+
+
 src :@tabzlive
-‏🇾🇪❌🇾🇪 — Southern Giants' Brigades is launching counterattacks against Ansarallah positions in Dhubab District, Ansarallah-controlled southwestern Yemen.
+‏🇾🇪❌🇾🇪 — Southern Giants' Brigades forces are launching counterattacks against Ansarallah positions in Dhubab District, Ansarallah-controlled southwestern Yemen.
 10:41
 1405/07/13
 
@@ -112,6 +176,8 @@ src :@tglobaleye
 
 src :@WAR_ROOM_NEWS
 ‏کانال ۱۲ اسرائیل گزارش داد یک گردشگر آمریکایی پس از ورود به کریا مقر مرکزی ارتش اسرائیل در تل‌آویو، بازداشت شد. این فرد از محل عکاسی کرده و گفته است قصد حمله به این مرکز را داشته است این فرد مشکوک برای بررسی‌های روانپزشکی به بیمارستان منتقل شد
+‏
+‏🆔@WAR_ROOM_NEWS
 10:33
 1405/07/13
 
@@ -151,6 +217,8 @@ src :@rnintel
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏بامداد امروز نقصی در فرودگاه بین المللی کویت شناسایی شد که تعدادی از هواپیماها از فرود در فرودگاه خودداری کردند. این اختلال همزمان با وقوع آتش سوزی در مخازن سوخت در شمال غرب کویت همراه بود
+‏
+‏🆔@WAR_ROOM_NEWS
 10:31
 1405/07/13
 
@@ -258,6 +326,8 @@ src :@Indypersian
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏تصاویری از ۸ خدمه بمب افکن توپولف-۹۵ام‌اس روسی که چندی پیش سقوط کرد
+‏
+‏🆔@WAR_ROOM_NEWS
 10:26
 1405/07/13
 
@@ -3482,36 +3552,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏The White House is monitoring a suspected plague case in Russia’s Irkutsk region after a 28-year-old anti-plague institute worker died following a laboratory accident.
-‏
-‏Daria Shipilova broke a test tube containing the pneumonic plague pathogen on Sept. 25, was hospitalized with severe pneumonia on Sept. 29 and died between Oct. 1–2.
-‏
-‏Authorities quarantined several medical facilities and placed nearly 200 contacts under observation. So far, all have tested negative and shown no symptoms.
-‏
-‏Source: Axios
-23:54
-1405/07/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The U.S. has withdrawn all 12 B-1 bombers from RAF Fairford in the UK following security concerns over a suspected Iran-linked terror plot targeting the base.
-‏
-‏U.S. officials believe a branch of the Islamic Revolutionary Guard Corps recruited UK nationals to target the bombers and kill personnel, though some British officials have questioned how sophisticated the plot was.
-‏
-‏RAF Fairford had been used as a hub for launching U.S. bomber strikes in Iran. The B-1s have now returned to their home stations in the U.S. and remain available for global missions.
-‏
-‏Source: WSJ
-23:52
-1405/07/12
-
-
-
-
 src :@Mena_Live
 ‏The Pentagon confirms: All B-1 aircraft have left the Royal Air Force (RAF) Fairford base:
 ‏
@@ -3621,15 +3661,6 @@ src :@selena_updates
 [عکس]
 ‏The Omani co-pilot that attempted to crash the Fly Dubai Flight FZ1073 told investigators that his intended target was Ben Gurion Airport, with the plan involving approaching Israel normally before crashing the aircraft into the airport at the final stage of the flight.
 23:40
-1405/07/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israeli Foreign Minister Gideon Sa'ar barred UK Green Party leader Zack Polanski from entering Israel.
-23:38
 1405/07/12
 
 
@@ -3901,15 +3932,6 @@ src :@Middle_East_Spectator
 ‏
 ‏Urban combat is hell.
 23:04
-1405/07/12
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏یکی از زیبایی‌های قدرت چهارم جهان اینکه ماهواره نداره ،گوگل ارث آپدیت می‌شه بعد  میفهمه چیکار کرده
-23:03
 1405/07/12
 
 
@@ -4292,16 +4314,6 @@ src :@Shin_Persian
 
 
 
-src :@MilitarryWorld
-‏🔴خبرنگار الجزیره در تهران: به نظر می‌رسد که همه طرف‌ها در حالت آماده‌باش کامل هستند و منتظر هرگونه تحول نظامی هستند.
-‏
-‏@MilitarryWorld | Parsa
-22:22
-1405/07/12
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏The British Navy reports explosions near a vessel in Bab al-Mandab.
@@ -4438,15 +4450,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏طائرة العمليات الخاصة الأميركية MC-130J تعود إلى قاعدة الأمير حسن الجوية في الأردن، بعد زيارة إلى السليمانية شمال العراق.
-21:50
-1405/07/12
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷⚡️ — Iranian Oil Minister Mohsen Paknejad has resigned.
@@ -4489,14 +4492,6 @@ src :@Shin_Persian
 ‏https://fromiran.sh1n.org/incidents/tqzVIfJsI9NRVnCtW6HigoyD
 ‏
 ‏𝕏  ·  @shin_persian
-21:46
-1405/07/12
-
-
-
-
-src :@Ali_bk_2
-‏The sound of an explosion was heard in Iran's Qeshm from the sea.
 21:46
 1405/07/12
 
@@ -4615,24 +4610,6 @@ src :@naya_foriraq
 [عکس]
 ‏🇺🇸🇨🇳ترامب: ترامب يبدو اصغر سنا.
 21:31
-1405/07/12
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔶893 کشته حزب‌الله لبنان در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.   🆔@WAR_ROOM_NEWS
-21:30
-1405/07/12
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔶884 کشته حزب‌الله لبنان در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.   🆔@WAR_ROOM_NEWS
-21:30
 1405/07/12
 
 
@@ -5029,20 +5006,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 20:36
-1405/07/12
-
-
-
-
-src :@mohem_mat
-‏وزیر نفت استعفا داد
-‏بورد سرپرست وزارت نفت شد.
-‏
-‏ «طباطبایی» معاون دفتر پزشکیان:
-‏با پذیرش استعفای محسن پاک‌نژاد طی حکمی از سوی دکتر پزشکیان رئیس‌جمهور، حمید بورد به عنوان سرپرست وزارت نفت منصوب شد.
-‏
-‏@mohem_mat
-20:35
 1405/07/12
 
 
