@@ -1,3 +1,34 @@
+src :@ClashReport
+[عکس]
+‏Rep. Joe Wilson:
+‏
+‏The Mecca Defense Alliance has the potential to be the NATO of the Middle East. 
+‏
+‏I am grateful to our allies Türkiye, Pakistan, and Saudi Arabia for activating the alliance in the face of Houthi Iranian-backed aggression.
+01:56
+1405/07/14
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Map of Taiz province, after the Yemeni forces took control of al-Hujariyah, except for al-Salw so far.  Bani Yusuf has been taken under control, but it has not been added to the map among the liberated areas.  The Yemeni forces’ next targets will be al-Masrah…
+01:55
+1405/07/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏خريطة محافظة تعز، بعد سيطرة القوات اليمنية على الحجرية باستثناء الصلو حتى الآن.  بني يوسف تمت السيطرة عليه لكن لم يُضاف في الخريطة للمناطق المحررة.  أهداف القوات اليمنية القادمة ستكون المسراخ وجبل والنوازل ووادي الضباب قبل الوصول إلى مدينة تعز.
+01:55
+1405/07/14
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏سی‌بی‌اس نیوز به نقل از منابع امنیتی گزارش داد اف‌بی‌آی یک فرد مظنون به همکاری با چین را در فرودگاه بین‌المللی لس‌آنجلس بازداشت کرد. این فرد متهم است که پسر رییس‌جمهوری تایوان را که در آمریکا اقامت دارد، زیر نظر گرفته است.
@@ -1012,15 +1043,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏انفجارات تُسمع في العاصمة السعودية الرياض.
-00:09
-1405/07/14
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏انفجارات تهز الرياض
@@ -1047,14 +1069,6 @@ src :@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:05
-1405/07/14
-
-
-
-
-src :@Ali_bk_2
-‏Hearing an explosion in the Yemeni capital, Sanaa.
-00:03
 1405/07/14
 
 
@@ -2515,19 +2529,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 22:17
-1405/07/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Germany plans to build a new major naval base in Emden as it expands its navy amid rising security threats.
-‏
-‏The base will give Germany faster access to the North Sea and North Atlantic, strengthen NATO deterrence and ease pressure on Wilhelmshaven.
-‏
-‏Expected to cost several billion euros, it could host up to 2,000 military and civilian personnel and become fully operational by 2030.
-22:16
 1405/07/13
 
 
