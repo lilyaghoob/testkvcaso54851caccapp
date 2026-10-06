@@ -1,3 +1,16 @@
+src :@Farsi_Iranwire
+[عکس]
+‏نمایندگان مجلس مصاحبه شهروندان ایرانی با رسانه‌ها و آنچه «انسان‌رسانه‌های معاند» خوانده شده را ممنوع کردند.
+‏مجلس روز سه‌شنبه ۱۴مهر۱۴۰۵، در جلسه‌ای که به‌صورت مجازی برگزار شد، ماده۲۲ طرح موسوم به «مقابله با نفوذ سرویس‌های اطلاعاتی و دولت‌ها یا نهادهای بیگانه» را با ۱۷۴ رای موافق، شش رای مخالف و دو رای ممتنع تصویب کردند.
+‏بیشتر: https://iranwire.com/fa/news-1/158539
+‏
+‏@Farsi_Iranwire
+15:35
+1405/07/14
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏تصویری از نشانه های  روی یک جت جنگنده VMFA-314 اسکادران F-35C که در جنگ ایران شرکت داشت، نشان می‌دهد: یک تانکر نفت، سه زیردریایی، یک شناور رزمی سطحی، یک پهپاد از نوع شاهد، یک توپخانه و چندین پرتابگر زمینی توسط آن نابود شده!؟
@@ -2084,26 +2097,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Ali_bk_2
-‏Spokesman for the Yemeni armed forces:
-‏
-‏Thanks to God, our armed forces managed to target Saudi enemy reinforcements at the al-Daghareer camp in Jizan with several ballistic missiles. The strikes were accurate and direct, thanks to God, leaving dozens killed and wounded among them. Ambulances rushed to the targeted site amid confusion in the enemy's ranks.
-12:43
-1405/07/14
-
-
-
-
-src :@Alibk3
-‏المتحدث باسم القوات المسلحة اليمنية: 
-‏
-‏تمكنت قواتنا المسلحة بفضل الله من استهداف تحشيدات العدو السعودي في معسكر الدغارير في جيزان بعدد من الصواريخ الباليستية وكانت الإصابات دقيقة ومباشرة بفضل الله وخلفت عشرات القتلى والجرحى في أوساطهم وهروع سيارات الإسعاف إلى المكان المستهدف، وسط حالة من الإرباك في صفوف العدو.
-12:43
-1405/07/14
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
@@ -2336,24 +2329,6 @@ src :@bricsnews
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏A Kuwaiti C-130J military transport aircraft lands at Saudi Arabia's Jeddah airport
-12:19
-1405/07/14
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرة نقل عسكري كويتية من طراز C-130J تهبط في مطار جدة السعودي
-12:19
-1405/07/14
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇩🇪 DW: Germany’s former spy chief, August Hanning, has been arrested on suspicion of espionage. 
@@ -2533,22 +2508,6 @@ src :@Minas_Tirith2024
 ‏@lingano_support_2
 ‏@lingano_support_2
 11:50
-1405/07/14
-
-
-
-
-src :@Ali_bk_2
-‏Iranian intelligence announces the destruction of 3 operational cells of terrorist organizations in Saravan and Zahedan. Two of the terrorists were killed in a clash, and 10 others from the terrorist teams brought in from abroad were arrested.
-11:49
-1405/07/14
-
-
-
-
-src :@Alibk3
-‏الاستخبارات الإيرانية تعلن تدمير 3 خلايا عملياتية لتنظيمات إرهابية في سراوان وزاهدان، قُتل شخصان من هؤلاء الإرهابيين في اشتباك، وتم القبض على 10 آخرين من أعضاء الفرق الإرهابية التي تم استقدامها من الخارج.
-11:49
 1405/07/14
 
 
@@ -2947,23 +2906,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧 Al-Akhbar⁠: Tensions have emerged between Beirut MPs Fouad Makhzoumi and Waddah Sadek following disagreements surrounding meetings of Sunni MPs. 
-‏
-‏Makhzoumi asked media figures close to him to launch a campaign against Sadek after the latter indirectly criticized his performance. Makhzoumi-aligned figures accused Sadek of courting Future Movement supporters ahead of the parliamentary elections. 
-‏
-‏The breakfast cited as evidence was, however, attended by several other Beirut MPs and figures from different political circles, including individuals close to Makhzoumi. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:46
-1405/07/14
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏فرماندهی مرکزی ارتش آمریکا، سنتکام، روز دوشنبه ۱۳ مهر اعلام کرد نیروهای آمریکایی طی ۱۲ هفته گذشته، ۱۳ کشتی تجاری را در جریان اجرای محاصره دریایی ایران منهدم کرده‌اند. این فرماندهی مدعی شد کشتی‌های هدف‌گرفته‌شده، محاصره را نقض کرده یا بخشی از «شبکه پنهان چندمیلیارددلاری سپاه پاسداران» بوده‌اند.
@@ -2971,34 +2913,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 10:45
-1405/07/14
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇦🇪🇿🇼 The UAE released a statement expressing solidarity and condolences over the victims of a helicopter crash in Zimbabwe.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:43
-1405/07/14
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇸🇾 Syrian Airlines has unveiled a new corporate identity and modernization strategy at Damascus International Airport. 
-‏
-‏CEO Anwar Akkad said the carrier plans to expand from six to 12 aircraft and nine to 25 destinations by year-end 2026.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:40
 1405/07/14
 
 
@@ -5766,21 +5680,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 20:26
-1405/07/13
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏بریتانیا به اسرائیل اطلاع داده است که اگر دولت نتانیاهو تصمیم خود برای بستن کنسولگری بریتانیا در اورشلیم را لغو نکند، لندن 27 دیپلمات اسرائیل را اخراج خواهد کرد.
-‏
-‏
-‏
-‏#خبر
-‏
-‏@P_raetorio
-20:19
 1405/07/13
 
 
