@@ -2575,18 +2575,6 @@ src :@MilitarryWorld
 
 
 
-src :@mohem_mat
-‏لوکاس تاملینسون، خبرنگار فاکس نیوز:
-‏
-‏در کاخ سفید، رئیس‌جمهور ترامپ به من گفت که معتقد است ایران مسئول حمله تروریستی به هواپیمای فلای‌دبی است. / انتخاب
-‏
-‏@mohem_mat
-23:11
-1405/07/13
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Trump has stated that he believes Iran was behind the FlyDubai hijacking.
 ‏
