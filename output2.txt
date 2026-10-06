@@ -1,3 +1,95 @@
+src :@cataphract1
+[عکس]
+‏کیل مارک های خشم حماسی🇺🇸
+‏
+‏⚜تصویری از جنگنده نسل پنجمی F-35C لایتنینگ II از اسکادران VMFA-314 گروه رزمی ناوهواپیمابر آبراهام لینکلن که در آن کیلمارک های ذیل نقش بسته اند:
+‏
+‏▪️یک فروند نفتکش 
+‏
+‏▪️سه فروند زیردریایی از نوع نامشخص
+‏
+‏▪️یک فروند ناوچه جنگی(احتمالا از کلاس موج)
+‏
+‏▪️یک دستگاه هویتزر کششی
+‏
+‏▪️ دو دستگاه لانچر نامشخص 
+‏
+‏▪️سه دستگاه سامانه راداری نامشخص 
+‏
+‏▪️یک فروند پهپاد انتحاری شاهد ۱۳۶
+‏
+‏⚜همچنین این جنگنده در ورودی هوای خود نشان استفاده از سلاح های زیر را داراست:
+‏
+‏▪️۴ تیر موشک رادار فعال میان‌برد AIM-120 
+‏
+‏▪️۴ مهمات هوشمند AGM-154C JSOW
+‏
+‏▪️۳ بمب GBU-31 JDAM
+‏
+‏▪️۲۰ بمب GBU-32 JDAM 
+‏
+‏▪️۲۰ بمب هدایت لیزری GBU-54 LJDAM 
+‏
+‏🖋#Ethan
+‏📃@Cataphract1
+18:31
+1405/07/14
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇷🇺 Bloomberg⁠: Russia’s crude exports are booming as higher oil prices boost the value of shipments, but the financial gains are being eroded by domestic fuel pressures. 
+‏
+‏Ukrainian strikes on Russian refineries have reduced processing capacity, forcing more crude into exports while contributing to domestic fuel shortages. 
+‏
+‏Moscow has paid record fuel subsidies and extended restrictions on diesel exports as it tries to stabilize domestic supplies. 
+‏
+‏@wfwitness
+18:30
+1405/07/14
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli artillery fire targeted the town of Beit Yahoun, southern Lebanon.
+‏
+‏@wfwitness
+18:29
+1405/07/14
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇮🇷/🇧🇾 NEW: IRGC ground forces will take part in joint counter-terrorism exercises with Belarus
+‏
+‏@Middle_East_Spectator
+18:28
+1405/07/14
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇺🇸🇮🇷 WaPo: U.S. President Donald Trump drew backlash after suggesting Iran could “take out” Los Angeles or San Diego, while describing the costs of the Iran war as a “small price to pay.” 
+‏
+‏California Governor Gavin Newsom called the remarks “deranged and dangerous,” while the mayors of Los Angeles and San Diego also condemned them. 
+‏
+‏It was unclear from Trump’s remarks exactly what he meant; the White House later said he was not advocating attacks on U.S. cities, but describing threats he says his Iran policy is intended to prevent. 
+‏
+‏@wfwitness
+18:27
+1405/07/14
+
+
+
+
 src :@thewarreporter
 ‏🇮🇱 — Israeli media warn Israelis abroad of an increased risk of attacks tomorrow.
 ‏
@@ -1913,6 +2005,8 @@ src :@MilitarryWorld
 
 src :@WAR_ROOM_NEWS
 ‏منابع عربی از هدف قرار گرفتن یک نفتکش در تنگه هرمز خبر می دهند
+‏
+‏🆔@WAR_ROOM_NEWS
 15:47
 1405/07/14
 
@@ -2194,6 +2288,8 @@ src :@jangaavaran1390
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏گویا این بابا عکاس نظامی بود که دیروز این عکس پست کرد تو درگیری ها توسط یمنی ها کشته شد
+‏
+‏🆔@WAR_ROOM_NEWS
 15:17
 1405/07/14
 
@@ -2647,6 +2743,10 @@ src :@tabzlive
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏کشته شدن یک سرباز دیگر سعودی در درگیری‌های مرزی این کشور با حوثی‌ها
+‏
+‏#حوثی‌ها #سرباز_عربستان
+‏
+‏🆔@WAR_ROOM_NEWS
 14:22
 1405/07/14
 
@@ -2733,6 +2833,8 @@ src :@tabzlive
 
 src :@WAR_ROOM_NEWS
 ‏منابع هندی از مجروحیت ۱۲ نفر پس از حمله سپاه به یک نفتکش در سواحل عمان خبر می‌دهند
+‏
+‏🆔@WAR_ROOM_NEWS
 14:14
 1405/07/14
 
@@ -5172,15 +5274,6 @@ src :@Navy_Iranian
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏The situation now.  After all, this PLC counteroffensive led to the recapture of 1 mountain (Kahboob) and 1 town (Murad).
-01:12
-1405/07/14
-
-
-
-
 src :@warmonitors
 ‏⚡️ AFP: Two loud explosions heard in the Saudi capital
 ‏
@@ -6730,14 +6823,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 18:41
-1405/07/13
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷 Iran warns the enemy's next mistake will trigger "new fronts" and unexpected surprises.
-‏
-‏@BRICSNews
-18:30
 1405/07/13
