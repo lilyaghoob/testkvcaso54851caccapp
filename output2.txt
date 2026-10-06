@@ -1775,15 +1775,6 @@ src :@tabzlive
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Riyadh Airport has been halted for 80 minutes with no takeoffs or landings. For the first time since the war began, the stoppage has lasted this long, with 16 aircraft holding in the air.
-02:48
-1405/07/14
-
-
-
-
 src :@naya_foriraq
 [فایل]
 ‏قولو له الرياض اقرب
@@ -2751,14 +2742,6 @@ src :@tglobaleye
 
 
 
-src :@defence_news
-‏🔴 ​فووووری / نیویورک تایمز تایید کرد: استقرار بی‌سابقه نیروهای آمریکایی و انتقال کابینه امنیتی به پناهگاه زیرزمینی!!
-23:49
-1405/07/13
-
-
-
-
 src :@intelslava
 ‏🇷🇺 WHO says the public health risk appears low following the death of a worker at Russia’s Anti-Plague Research Institute.
 ‏
@@ -3226,16 +3209,6 @@ src :@Minas_Tirith2024
 
 src :@rnintel
 ‏🇺🇸🇮🇷⚡️- "We are always open to direct talks with Iran." - President Donald Trump.
-22:58
-1405/07/13
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ترامپ درباره تنش‌ها بین عربستان سعودی و حوثی‌ها: "همه چیز درست خواهد شد."
-‏
-‏🆔@WAR_ROOM_NEWS
 22:58
 1405/07/13
 
@@ -4894,34 +4867,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 18:11
-1405/07/13
-
-
-
-
-src :@defence_news
-[عکس]
-‏📱 سرویس های یک ماهه OPENVPN ❤️
-‏
-‏
-‏🚀 پلن‌های ویژه نامحدود:
-‏
-‏👤 تک‌کاربره — 350 تومان
-‏
-‏👥 دوکاربره — 550 تومان
-‏
-‏ 👥سه‌کاربره — 750 تومان
-‏
-‏🟢 بدون محدودیت حجم 
-‏📱 مخصوص دانلود و کارهای با حجم بالا و پهنای باند اختصاصی
-‏
-‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
-‏
-‏
-‏📩 برای خرید و دریافت سریع:
-‏
-‏😎@CFoxSupport
-18:10
 1405/07/13
 
 
