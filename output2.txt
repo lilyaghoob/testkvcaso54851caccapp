@@ -1,3 +1,65 @@
+src :@Ali_bk_2
+[ویدئو]
+‏Fires at the Aramco Jeddah refinery yesterday.
+18:13
+1405/07/14
+
+
+
+
+src :@Alibk3
+[ویدئو]
+‏الحرائق في مصفاة أرامكو جدة يوم أمس.
+18:13
+1405/07/14
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️پلیس مبارزه با تروریسم بریتانیا روز سه‌شنبه ۱۴ مهر از دستگیری یک شهروند ۲۲ ساله بریتانیایی در منطقه وست‌مینستر به اتهام «آمادگی برای اقدامات تروریستی» خبر داد.
+‏
+‏این بازداشت در ارتباط با فعالیت‌های انجام‌شده در نزدیکی پایگاه هوایی «آراف‌اف فیرفورد» (RAF Fairford) صورت گرفته است؛ پایگاهی که ایالات متحده از آن برای حملات به ایران استفاده می‌کرد. دونالد ترامپ روز یکشنبه اعلام کرد که آمریکا بمب‌افکن‌های B-1 را به دلیل «برخی تهدیدات» از این پایگاه خارج کرده است.
+‏
+‏با دستگیری این فرد، تعداد افراد بازداشت‌شده طی دو هفته گذشته به اتهام توطئه ادعایی علیه این پایگاه به هفت نفر رسید. پیش‌تر شش تن دیگر در این رابطه دستگیر شده بودند که همگی به قید وثیقه آزاد شده‌اند. تحقیقات پلیس در این زمینه همچنان ادامه دارد.
+‏@indypersian
+18:10
+1405/07/14
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏تصویر و اطلاعات رسیده به ایران‌اینترنشنال نشان می‌دهد مقام‌های حکومت ایران پس از اعدام علیرضا سپاهی، معترض بازداشتی خیزش ملی ایرانیان در دی‌ماه، به خانواده او تنها اجازه نصب یک بنر تسلیت با نام او را داده‌اند.
+‏علیرضا سپاهی و علیرضا رئیسی، دو متهم پرونده «میدان علیخانی اصفهان»، سحرگاه دوشنبه ۱۳ مهر در زندان دستگرد اصفهان اعدام شدند.
+‏پیش‌تر گزارش‌هایی به ایران‌اینترنشنال رسیده بود که نشان می‌داد نیروهای حکومتی مانع دفن پیکر این دو معترض در زادگاه‌شان شده بودند.
+‏با اجرای حکم اعدام سپاهی و رئیسی، شمار اعدام‌شدگان پرونده «میدان علیخانی اصفهان» به هفت نفر رسید.
+‏https://iranintl.com/202610061185
+18:09
+1405/07/14
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇷⚡️ — President Trump on Iran: Remember, with the war, it's just artificial. It's a little bit high. It's a small price to pay for keeping the world safe.   They can take out a city. Let them take out Los Angeles or San Diego. This is a very small price…
+18:08
+1405/07/14
+
+
+
+
+src :@naya_foriraq
+‏🔻امين عام حزب الله الشيخ نعيم قاسم: نحيي العراق ومرجعيته وكافة أطيافه لأنهم نجحوا في طرد المحتلين ليكون البلد مستقلاً عزيزاً، الشعب العراقي مؤهل أن يطرد المحتلين كائنًا ما كانوا وفي أي اتجاهات ليكون العراق مستقلًا وعزيزًا وقويًا.
+18:08
+1405/07/14
+
+
+
+
 src :@guard_warriors
 [عکس]
 ‏در طول تعمیرات، گویا آتش‌سوزی در ناو هواپیمابر هسته‌ای نیروی دریایی فرانسه، یعنی شارل دوگل رخ داده است.
@@ -1522,21 +1584,6 @@ src :@Americana_ir
 [عکس]
 ‏🔴 تصویری پربازدید از وضعیت صندلی‌های سالن سخنرانی ترامپ در آلاباما   🆔 @Americana_ir
 16:14
-1405/07/14
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻حمیدرضا فیروزی، وینگر ۲۱ ساله باشگاه لوسیل، عنوان بهترین بازیکن زیر ۲۳ سال ماه‌های آگوست و سپتامبر لیگ ستارگان قطر را از آن خود کرد.
-‏
-‏🔹این بازیکن جوان در ۴ مسابقه اخیر خود با پیراهن لوسیل عملکردی تأثیرگذار داشته و آمار ۱ گل و ۳ پاس گل را به ثبت رسانده است.
-‏
-‏🔹فیروزی که محصول آکادمی کیا است، فوتبال خود را از ۱۱سالگی در این آکادمی آغاز کرد و در ۱۹سالگی به باشگاه لوسیل پیوست.
-‏
-‏@iranintltvsport
-16:13
 1405/07/14
 
 
@@ -3320,19 +3367,6 @@ src :@defence_news
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️ اعضای مجلس شورای اسلامی روز سه‌شنبه ۱۴ مهرماه ماده ۲۲ طرح قانون «مقابله با نفوذ بیگانگان» را تصویب کردند که بر اساس آن، مصاحبه شهروندان ایران با رسانه‌هایی که از طرف وزرات اطلاعات «ضد ایرانی» معرفی می‌شوند، ممنوع خواهد بود.
-‏
-‏براساس این مصوبه، ایرانیانی که از این قانون سرپیچی کنند، به حبس از ۶ ماه تا دو سال، جریمه نقدی از ۲۰ تا ۸۰ میلیون تومان، ۳۱ تا ۷۴ ضربه شلاق و  ۶ ماه تا ۵ سال محرومیت از حقوق اجتماعی، محکوم خواهند شد.
-‏
-‏@indypersian
-12:54
-1405/07/14
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇩🇪 🇫🇷 🇪🇺 🇨🇳 — France and Germany sent a joint letter to von der Leyen demanding an immediate EU "kill switch" to cut off countries over unfair trade practices, targeting China. 
@@ -3395,18 +3429,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 12:47
-1405/07/14
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — The Houthis (Ansarallah) say their armed forces targeted Saudi troop concentrations at the Al-Dagharir camp in Jizan with several ballistic missiles. 
-‏
-‏They say the strikes were precise and directly hit the targets, resulting in dozens of casualties and injuries among Saudi forces. 
-‏
-‏They also claimed ambulances rushed to the area amid confusion among Saudi troops.
-12:46
 1405/07/14
 
 
@@ -6755,12 +6777,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 18:16
-1405/07/13
-
-
-
-
-src :@OSINTWarfare
-‏Pro-Presidential Leadership Council (PLC) sources claim that Southern Giants Brigades and Nation’s Shield Forces (NSF) have reached the outskirts of Mokha (Mocha), southwestern Yemen.
-18:06
 1405/07/13
