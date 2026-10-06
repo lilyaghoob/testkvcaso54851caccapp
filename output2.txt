@@ -15,7 +15,7 @@ src :@mohem_mat
 ‏BREAKING: Trump's approval rating falls to record low 32% according to Reuters/Ipsos poll
 ‏
 ‏🔗 The Spectator Index (@spectatorindex) 
-‏فوری: میزان محبوبیت ترامپ به پایین‌ترین رکورد ۳۲ درصد سقوط کرد
+‏میزان محبوبیت ترامپ به پایین‌ترین رکورد ۳۲ درصد سقوط کرد
 ‏ طبق نظرسنجی رویترز/ایپسوس
 ‏
 ‏@mohem_mat
@@ -3306,18 +3306,6 @@ src :@mohem_mat
 src :@warmonitors
 ‏Channel name was changed to «War Monitor»
 21:56
-1405/07/13
-
-
-
-
-src :@mohem_mat
-‏ادعای کانال ۱۲ اسرائیل: کمک‌خلبان عمانی انگیزه خود را «انتقام برای غزه» اعلام کرده است
-‏
-‏کمک‌خلبان عمانی پرواز فلای‌دبی در جریان بازجویی‌ها گفته است که انگیزه او از اقدام علیه پرواز، «انتقام برای غزه» بوده است.
-‏
-‏ @jamarannews
-21:54
 1405/07/13
 
 
