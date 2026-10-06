@@ -1,6 +1,24 @@
+src :@Ali_bk_2
+[عکس]
+‏Riyadh airport has been closed for two hours; the last landing was two hours ago and the last departure was an hour ago, with 9 aircraft avoiding landing.
+11:45
+1405/07/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مطار الرياض متوقف منذ ساعتين، آخر هبوط قبل ساعتين وآخر إقلاع قبل ساعة ، 9 طائرات تتجنب الهبوط.
+11:45
+1405/07/14
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
-‏نقشه‌ای که اخرین وضعیت کنترل میدانی در جبهه‌های استان تعز را نشان می‌دهد
+‏نقشه‌ای که اخرین وضعیت کنترل میدانی در جبهه‌های استان تعز یمن را نشان می‌دهد
 ‏
 ‏قوات صنعا :حوثی
 ‏قوات العلیمی:نیروهای ریاست جمهوری یمن
@@ -2312,24 +2330,6 @@ src :@BellumActaNews
 ‏
 ‏Experts already beg to restrict and supervise this research, because, if they escape, our immune system will be completely vulnerable to their attacks and no one quite knows how to make vaccines against them.
 06:21
-1405/07/14
-
-
-
-
-src :@Ali_bk_2
-[ویدئو]
-‏In a little while .. ✈️🔥
-06:17
-1405/07/14
-
-
-
-
-src :@Alibk3
-[ویدئو]
-‏بعد قليل .. ✈️🔥
-06:17
 1405/07/14
 
 
