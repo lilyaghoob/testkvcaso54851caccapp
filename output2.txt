@@ -1,3 +1,54 @@
+src :@Artemis_Force
+[عکس]
+‏فرماندهی نیروی دریایی ایالات متحده : خدمه زیردریایی هسته‌ای "پاسادنا" (SSN 752) و کارکنان واحدهای ساحلی، یک دستگاه زیردریایی بدون سرنشین و هوشمند به نام "Blueye X3" را آزمایش کردند، و آن را مستقیماً از طریق پرتابگر اژدر زیردریایی پرتاب کردند.
+‏
+‏این ابتکار بر اساس پروژه "Green Remora" است. 
+‏
+‏در این پروژه، روش‌هایی برای تجهیز غواصان به ابزارهای پیشرفته برای جستجوهای زیرسطح ، به منظور بررسی ایمنی بدنه و بازرسی تجهیزات خارجی، مورد مطالعه قرار گرفت.
+‏
+‏@artemis_force
+12:02
+1405/07/14
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 اکونومیست: چین برای یک درگیری احتمالی بر سر تایوان با کمبود تجربه رزمی واقعی مواجه است.
+‏
+‏🔹️ به نوشته اکونومیست، ارتش چین دهه‌هاست در یک جنگ بزرگ و مستقیم شرکت نکرده و همین مسئله می‌تواند باعث محدودیت در داده‌های عملیاتی و تجربه رزمی مورد نیاز برای برنامه‌ریزی یک عملیات احتمالی علیه تایوان شود.
+‏
+‏🔹️ در این ارزیابی، تجربه روسیه از جنگ اوکراین می‌تواند برای چین اهمیت داشته باشد؛ زیرا مسکو در سال‌های اخیر با طیف گسترده‌ای از مسائل مربوط به جنگ مدرن، از جمله استفاده گسترده از پهپادها و تغییرات سریع در میدان نبرد، روبه‌رو بوده است.
+‏
+‏🔹️ با این حال، تجربه جنگی یک کشور الزاماً به معنای انتقال مستقیم آن به یک سناریوی احتمالی در تنگه تایوان نیست و تفاوت‌های جغرافیایی، عملیاتی و نظامی میان دو محیط نیز اهمیت زیادی دارد. گزارش‌های اخیر نیز نشان می‌دهد تحلیلگران درباره آمادگی و توانایی عملیاتی ارتش چین همچنان بحث می‌کنند.
+‏
+‏#China
+‏#Russia
+‏#Taiwan
+‏#PLA
+‏#Ukraine
+‏#Military
+‏
+‏@RASTAKHIZ_PERSIAN
+12:00
+1405/07/14
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏مای ساتو، گزارشگر ویژه سازمان ملل در امور حقوق بشر ایران، با تاکید بر اینکه نقض حقوق متهمان در جمهوری اسلامی ریشه در ساختار نظام قضایی دارد، خواستار توقف تمامی اعدام‌ها شد. او هشدار داد صدور حکم اعدام پس از محاکمه‌ای ناعادلانه، براساس حقوق بین‌الملل بشر، مصداق «سلب خودسرانه حق حیات» است.
+‏بیشتر: https://iranwire.com/fa/news-1/158528
+‏
+‏@Farsi_Iranwire
+11:59
+1405/07/14
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏🔻به گزارش خبرگزاری تسنیم، شعبه ۴۵ دیوان عدالت اداری حکم به ابطال انتخابات فدراسیون تکواندو داد؛ انتخاباتی که ۲۱ اردیبهشت‌ماه امسال برگزار شد و هادی ساعی با کسب ۳۹ رأی از مجموع ۵۳ رأی، پیروز آن شد و سکان ریاست چهارساله این فدراسیون را به دست گرفت.
@@ -19,7 +70,7 @@ src :@GeoPWatch
 ‏
 ‏The protest started in mid September over poor condition in schools grew to draw tens of thousands of protesters throughout the country. The student protesters claimed the schools suffered from years of neglect and underfunding, leading to extreme overcrowding, lack of basic amenities such as working bathroom and missed lessons.
 ‏
-‏The France government is under a severe budget crisis as it balanced increase war spending and foreign aid by increased borrowing, cutting welfare and infrastructure spending. French 30-year yield recently spiked to 5.48%, the highest level in 24 years.
+‏The France government is under a severe budget crisis as it balances increased war spending and foreign aid by increased borrowing, cutting welfare and infrastructure spending. French 30-year yield recently spiked to 5.48%, the highest level in 24 years.
 ‏
 ‏The French police responded to the protest by making over 5000 arrests, the vast majority of which highschool students. Police has also been using heavy-handed tactics against minors, including batons, dispersal grenades, tear gas and flash-ball guns, leading to one pupil to lose his hand.
 11:54
@@ -5609,20 +5660,6 @@ src :@ircfspace
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏مقام‌های روسیه پس از مرگ یک کارمند آزمایشگاه در موسسه مبارزه با طاعون «ایرکوتسک» در سیبری، تدابیر «ضدهمه‌گیری» را به اجرا گذاشته و بیمارستان محل بستری او را قرنطینه کرده‌اند. 
-‏
-‏علت مرگ این زن هنوز به‌طور رسمی مشخص نشده، اما گزارش‌هایی درباره احتمال ابتلای او به «طاعون ریوی» منتشر شده است.
-‏بخوانید: https://iranwire.com/fa/news-1/158499
-‏
-‏@Farsi_Iranwire
-17:51
-1405/07/13
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏↩️ Quoted tweet: Hussam Almolaiki ✓  @hussamA123  -Umm Rish military Camp in Marib is now under the control of government forces. -Houthi forces have withdrawn from positions in Al-Maratibah, Bani Jaafar, and Bani Bakari, on the Jabal Habashi front west of…
@@ -6636,15 +6673,4 @@ src :@Navy_Iranian
 src :@Artemis_Force
 ‏شرکت Saronic در حال آماده سازی برای ساخت یک صنایع دریایی دیگر در ایالات متحده آمریکا هست این شرکت می‌خواهد یک صنایع کشتی سازی جدید به ارزش $3.2B در تگزاس بسازید   این شرکت هم اکنون نیز در حال ساخت یک صنایع دریایی دیگر هست و با صنایع اصلی خود مجموعا تا سال…
 12:02
-1405/07/13
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ گزارش شده است که شرکت آلمانی Diehl Defence، قراردادی را از سازمان تدارکات دفاعی فدرال آلمان، BAAINBw، برای توسعه و یکپارچه‌سازی نسخه دریایی سیستم موشکی زمین به هوا با برد متوسط IRIS-T SLM، جهت تجهیز ناوهای جنگی پروژه 125 نیروی دریایی آلمان، دریافت کرده است. ارزش این قرارداد اعلام نشده است، اما طبق گزارش رسانه‌های آلمانی، حدود 40 میلیون یورو است. چهار ناو جنگی پروژه 125 (از نوع Baden-Württemberg) قرار است در قسمت مرکزی خود، سامانه‌های پرتاب عمودی برای 32 موشک ضد هوایی IRIS-T SLM (تصویر) داشته باشند. آزمایش‌های آزمایشی در این ناوها در سال 2027 برنامه‌ریزی شده است. در اکتبر 2025، شرکت Diehl Defence در جریان رویداد Maritime Firing Exercise 2025، یک نمونه آزمایشی از سیستم موشکی زمین به هوا IRIS-T SLM را بر روی ناو جنگی Baden-Württemberg پروژه F-125 به نمایش گذاشت و آزمایش‌های شلیک موفقیت‌آمیزی را انجام داد.
-‏
-‏@Guard_Warriors | Mmd
-12:00
 1405/07/13
