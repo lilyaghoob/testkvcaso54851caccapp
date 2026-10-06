@@ -1,6 +1,9 @@
-src :@naya_foriraq
-‏اصابات مباشرة في مطار عدن جنوب اليمن
-02:56
+src :@Indypersian
+[عکس]
+‏♦️جی‌دی ونس، معاون رئیس‌جمهوری ایالات متحده آمریکا، در گفتگوی اختصاصی با رویترز ضمن تاکید بر اینکه پایان جنگ هفت‌ماهه «مستلزم کاهش معنادار ظرفیت غنی‌سازی هسته‌ای» از سوی تهران است، گفت: «اگر به دنبال ساخت سلاح هسته‌ای نیستید، چه نیازی به سوخت با غنای ۶۰ درصد دارید؟ اگر می‌خواهید تعهد خود را برای عدم ساخت سلاح هسته‌ای نشان دهید، سوخت با غنای بالا تولید نکنید. ما حاضر نیستیم اقدام عملی را با وعده و کلمات معاوضه کنیم.» او با اشاره به مذاکرات واشنگتن با مسعود پزشکیان، رئیس‌جمهوری، و عباس عراقچی، وزیر امور خارجه ایران، درباره ابهام در هرم قدرت پس از کشته‌شدن علی خامنه‌ای، رهبر پیشین جمهوری اسلامی، افزود: «یکی از نکاتی که متوجه آن شده‌ایم این است که کاملا مشخص نیست تصمیم‌گیری‌ها در این کشور چگونه انجام می‌شود»، با این حال تاکید کرد که واشنگتن همچنان آماده دستیابی به توافق است اما این امر نیازمند اقدامات و امتیازات ملموس هسته‌ای از سوی تهران خواهد بود.
+‏
+‏@indypersian
+02:57
 1405/07/15
 
 
@@ -1792,15 +1795,6 @@ src :@DEJradio
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏9 planes are avoiding landing at King Abdulaziz International Airport in Jeddah now.
-23:29
-1405/07/14
-
-
-
-
 src :@didarnews1
 ‏🔴دونالد ترامپ:
 ‏
@@ -3370,18 +3364,6 @@ src :@mwarmonitor
 ‏✅ واقعیت: گزارش‌ها درباره سرنگونی یا سقوط یک بالگرد نیروی دریایی آمریکا در دریای سرخ صحت ندارد. تمامی هواگردها و نیروهای نظامی آمریکا در سراسر خاورمیانه سالم و شناسایی‌شده هستند.
 ‏
 ‏@mwarmonitor
-20:40
-1405/07/14
-
-
-
-
-src :@intelslava
-‏🇺🇦🇷🇺⚡️ — Deputy Commander of the Air Force of the Ukrainian Armed Forces stated that Ukrainian developers are trying to solve the issue of creating jet-powered interceptor drones, but this will not happen before the end of December.
-‏
-‏He also noted that the test interceptors had a maximum speed of up to 700 km/h, in order to intercept jet-powered "Gerans," but the Russians may soon increase the speed of their strike drones to 800–900 km/h, which will be an even bigger problem.
-‏
-‏@IntelSlava
 20:40
 1405/07/14
 
