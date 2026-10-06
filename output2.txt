@@ -1789,18 +1789,6 @@ src :@GeoPWatch
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️سخنگوی وزارت امور خارجه ایالات متحده روز دوشنبه ۱۳ مهر، اعلام کرد که مارکو روبیو، وزیر امور خارجه این کشور، در جریان پرواز به مقصد ایسلند، طی تماسی تلفنی با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، گفتگو کرده است. 
-‏
-‏این تماس تلفنی در حالی برقرار شد که روبیو سفر چهارروزه خود به کشورهای اروپایی را آغاز کرده و ایسلند نخستین مقصد آن محسوب می‌شود. جزئیات بیشتری درباره محورهای گفتگوی تلفنی وزیر خارجه آمریکا و نخست‌وزیر اسرائیل تاکنون منتشر نشده است.
-‏@indypersian
-23:40
-1405/07/13
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Saudi Arabia, Turkey and Pakistan activated the collective-defense provisions of the Mecca Defence Agreement following an emergency high-level meeting in Riyadh today, agreeing to rapidly deploy additional military forces and capabilities to Saudi Arabia amid escalating Houthi attacks.
