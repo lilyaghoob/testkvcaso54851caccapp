@@ -1,3 +1,32 @@
+src :@guard_warriors
+[عکس]
+‏در طول تعمیرات، گویا آتش‌سوزی در ناو هواپیمابر هسته‌ای نیروی دریایی فرانسه، یعنی شارل دوگل رخ داده است.
+‏
+‏در پایگاه دریایی تولون (در منطقه وار، فرانسه)، آتش‌سوزی در یک فضای فنی مربوط به تنها ناو هواپیمابر هسته‌ای فرانسه، یعنی شارل دوگل (Charles de Gaulle, R 91) رخ داد.
+‏
+‏هیچ مجروحی گزارش نشده است و سیستم‌های هسته‌ای کشتی آسیب ندیده‌اند. به احتمال زیاد، علت این حادثه، انجام کارهایی با استفاده از دستگاه برش گازی بوده است.
+‏
+‏ آتش‌سوزی حدود ساعت ۱۱:۳۰ به وقت پاریس در فضایی به مساحت کمتر از ۱۰ متر مربع، در نزدیکی انبار هواپیماها، آغاز شد. 
+‏
+‏آتش توسط خدمه کشتی و نیروهای آتش‌نشانی پایگاه، در ساعت ۱۲:۳۵ مهار شد و در ساعت ۱٣.٢٠ به طور کامل خاموش گردید.
+‏
+‏این ناو هواپیمابر از اواخر ماه آگوست تا اوایل ماه دسامبر، در حال انجام تعمیرات دوره‌ای است. 
+‏
+‏@artemis_force
+18:04
+1405/07/14
+
+
+
+
+src :@naya_foriraq
+‏🇮🇶🔻 بتدخل من الحاج ابو رائد الفياض تم إطلاق سراح جميع معتقلي الحشد الشعبي في الحوادث الأمنية الأخيرة
+18:03
+1405/07/14
+
+
+
+
 src :@Mena_Live
 [عکس]
 ‏Southern-Lebanon non-stop.
@@ -2139,16 +2168,6 @@ src :@selena_updates
 ‏“Judgment day for Hasan has finally come,” Pentagon spokesman Sean Parnell said, adding that the Army secretary will determine the execution’s date and location. Hasan, who shouted “Allahu Akbar” during the attack and later said he acted in defense of the Taliban, was convicted of 13 murders and 32 attempted murders and sentenced to death by a military jury in 2013.
 ‏
 ‏If carried out, Hasan’s execution would be the first by the U.S. military since 1961. Trump’s approval allows the military process to move forward, although Hasan can still pursue further challenges in federal court, potentially delaying the execution.
-15:03
-1405/07/14
-
-
-
-
-src :@naya_foriraq
-‏🇮🇱وزير الحرب الصهيوني كاتس:
-‏
-‏في حال وجهت أجهزة السلطة الفلسطينية أسلحتها ضد المستوطنين وقوات الجيش في الضفة الغربية ومستوطنات خط التماس سنعلن الحرب على السلطة الفلسطينية، وسنشن هجوما شاملا وفق خطة منظمة جرى إعدادها والمصادقة عليها مني ومن رئيس الحكومة نتنياهو. ستكون المعركة قصيرة وعنيفة، وستشمل استخدام قوات برية وجوية ووسائل خاصة، واغتيال مسؤولين كبار ونفيهم، وتدمير الأسلحة والعتاد الحربي، وإجلاء السكان على نطاق واسع، وتدمير البنى التحتية.
 15:03
 1405/07/14
 
@@ -5161,23 +5180,6 @@ src :@tglobaleye
 
 
 
-src :@selena_updates
-[عکس]
-‏Israeli investigators have joined the UAE-led interrogation of Omani FlyDubai co-pilot Hamam al-Hammami, that tried to hijack Flight FZ1073 and crash it into Israel’s Ben Gurion Airport. UAE authorities have formally classified last week’s cockpit attack as an attempted terrorist act.
-‏
-‏Hammami told interrogators that he had planned the attack before joining FlyDubai and had considered carrying it out on an earlier flight to Israel.
-‏
-‏Israeli intelligence service Mossad:
-‏
-‏We have found that the Omani co-pilot traveled to several countries hostile to Israel in recent years, some of which are considered 'enemy states'.
-‏
-‏The visits were brief. We are investigating whether, during these visits, anyone or any organization recruited or used him.
-00:15
-1405/07/14
-
-
-
-
 src :@rnintel
 ‏🇾🇪🇸🇦⚡- Multiple Saudi airstrikes on Sana'a, Ansarullah-controlled capital of Yemen.
 00:14
@@ -6761,43 +6763,4 @@ src :@guard_warriors
 src :@OSINTWarfare
 ‏Pro-Presidential Leadership Council (PLC) sources claim that Southern Giants Brigades and Nation’s Shield Forces (NSF) have reached the outskirts of Mokha (Mocha), southwestern Yemen.
 18:06
-1405/07/13
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏شرکت STARK، قایق بدون سرنشین مدل Vanta 12 را معرفی کرد.
-‏
-‏شرکت اروپایی STARK، یک قایق بدون سرنشین ۱۲ متری به نام Vanta 12 را معرفی کرد که دارای برد تا ۲۲۰۰ کیلومتر (۱۲۰۰ مایل دریایی)، سرعت تا ۷۰ کیلومتر در ساعت (۴۰ گره دریایی) و ظرفیت حمل بار تا دو تن است. این دستگاه مجهز به ده پرنده بدون سرنشین Cascade و چهار موشک ضدکشتی Sea Venom تولید شرکت MBDA است.
-‏
-‏قایق بدون سرنشین Vanta 12 برای انجام عملیات شناسایی، جنگ الکترونیک، گشت‌زنی در مناطق دریایی و انجام ماموریت‌های تهاجمی طراحی شده است.
-‏
-‏شرکت STARK، به همراه شرکت Flensburger Schiffbau-Gesellschaft، قصد دارد ظرفیت تولید خود را برای ساخت قایق‌های بدون سرنشین در شهر فلنسبورگ افزایش دهد.
-‏
-‏@artemis_force
-18:04
-1405/07/13
-
-
-
-
-src :@Navy_Iranian
-‏🔴 گزارش هایی از حمله به یک تانکر گاز و یک نفتکش در تنگه هرمز 
-‏
-‏@Navy_Iranian | #Admiral
-18:04
-1405/07/13
-
-
-
-
-src :@ircfspace
-[عکس]
-‏ادعای "قطع اینترنت کل کشور فرانسه به‌دلیل اعتراضات دانش‌آموزی" فیک‌نیوزه.
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-18:02
 1405/07/13
