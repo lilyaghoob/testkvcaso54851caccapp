@@ -1,9 +1,82 @@
+src :@Ali_bk_2
+[عکس]
+‏Riyadh airport has been closed for two hours; the last landing was two hours ago and the last departure was an hour ago, with 9 aircraft avoiding landing.
+11:01
+1405/07/14
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مطار الرياض متوقف منذ ساعتين، آخر هبوط قبل ساعتين وآخر إقلاع قبل ساعة ، 9 طائرات تتجنب الهبوط.
+11:01
+1405/07/14
+
+
+
+
+src :@Parvazdaroj
+[عکس]
+‏◆ اولین روزی که شبح خودش را به ایرانی ها نشان داد،بازدید عبدالله(شاپور) آذربرزین و سیف الله برومند از اف 4 در یکی از پایگاه های هوایی ایالات متحده 
+‏
+‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
+11:01
+1405/07/14
+
+
+
+
+src :@Indypersian
+‏⭕️ نیروهای دولتی یمن بندر راهبردی «مخا» در دریای سرخ را از حوثی‌ها بازپس گرفتند
+‏
+‏📌 تصرف مخا برای دولت یمن یک دستاورد مهم به شمار می‌رود زیرا این شهر در نزدیکی تنگه باب‌المندب قرار دارد
+‏
+‏♦️ خبرگزاری دولتی یمن به نقل از یک منبع نظامی گزارش داد که نیروهای دولت یمن پس از درگیری‌های شدید و با پشتیبانی هوایی، کنترل بندر راهبردی مخا در دریای سرخ را از شبه‌نظامیان حوثی تحت حمایت جمهوری اسلامی ایران پس گرفته‌اند.
+‏
+‏این منبع گفت که نیروهای دولتی یمن در چارچوب یک عملیات تهاجمی گسترده که از آخرهفته برای بازپس‌گیری مناطق تحت کنترل حوثی‌ها آغاز شد، کنترل این شهر را به دست گرفتند.
+‏
+‏بازپس‌گیری مخا برای دولت یمن که از سوی جامعه بین‌المللی به رسمیت شناخته می‌شود، دستاورد مهمی به شمار می‌رود، زیرا این شهر در نزدیکی تنگه باب‌المندب قرار دارد؛ یکی از مهم‌ترین گلوگاه‌های دریایی جهان که دریای سرخ را به خلیج عدن متصل می‌کند.
+‏
+‏ بیشتر بخوانید... 
+‏
+‏@indypersian
+10:59
+1405/07/14
+
+
+
+
+src :@didarnews1
+‏🔴 حدادعادل:
+‏
+‏🔹 جنگ امروز ایران و آمریکا، نبرد تاب‌آوری است
+‏
+‏🔹 امروز همه ارکان کشور باید با اتحاد کامل به استقلال کشور بیشتر از هر چیز دیگری اهمیت دهند
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+10:59
+1405/07/14
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏به گزارش بلومبرگ، گروه «اتحاد علیه ایران هسته‌ای» اعلام کرده است محاصره دریایی آمریکا دست‌کم ۵۰ نفتکش حامل نفت ایران را در نزدیکی سواحل این کشور متوقف نگه داشته است. هم‌زمان، شماری از شناورهای خالی نیز به‌جای بازگشت به بنادر ایران، در آب‌های نزدیک سریلانکا و دیگر لنگرگاه‌های منطقه بلاتکلیف مانده‌اند.
 ‏بخوانید: https://iranwire.com/fa/news-1/158525
 ‏
 ‏@Farsi_Iranwire
+10:57
+1405/07/14
+
+
+
+
+src :@jangaavaran1390
+‏یک آتش‌سوزی در عرشه ناو هواپیمابر فرانسوی "شارل دوگل" رخ داد، در حالی که این کشتی در حال انجام تعمیرات در بندر تولون بود.
 10:57
 1405/07/14
 
@@ -2054,15 +2127,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏نعي.. مقتل وإصابة 20 من القوات الموالية للسعودية بسقوط صاروخ باليستي عليهم قرب باب المندب.
-04:02
-1405/07/14
-
-
-
-
 src :@OSINTWarfare
 ‏Ansar Allah (Houthis) has just targeted a gathering of troops and vehicles in Ras al-Arah, southwestern Yemen, with several ballistic missiles.
 04:00
@@ -2513,19 +2577,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@ClashReport
-[عکس]
-‏The Conservative Party in the UK has unveiled plans for a £10 billion air and missile defense system dubbed the “Britannia Shield,” modelled partly on Israel’s Iron Dome.
-‏
-‏The system would combine advanced radar, upgraded command systems, interceptor missiles and counter-drone technology, while significantly increasing Britain’s missile stockpiles.
-‏
-‏Shadow defense secretary James Cartlidge said it would protect critical infrastructure, military bases, UK territories and overseas bases, with an initial deployable capability planned within the first term of a future Conservative government.
-02:01
-1405/07/14
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏Pro-Saudi commentators 6 hours ago: ‘The PLC has captured Mokha and is entering Al-Khawkha!’
@@ -2911,33 +2962,6 @@ src :@P_raetorio
 ‏@P_raetorio
 00:02
 1405/07/14
-
-
-
-
-src :@jangaavaran1390
-‏قطع و وصل شدن تموم شد. 👎| Nexora VPN📶
-‏
-‏💥سرویس‌های VIP (حجمی) : 
-‏🔸20 گیگ   → 199
-‏🔸50 گیگ   → 399
-‏🔸100 گیگ → 599
-‏━━━━━━━━━━━━━━
-‏🔥پلن های نامحدود:
-‏♾ تک‌کاربر → 199
-‏♾ دوکاربر → 349
-‏♾ سه‌کاربر → 499
-‏
-‏آخرین مقصدت برای یک اتصال بهتر💙🔝
-‏
-‏📩 خرید و تحویل آنی:
-‏🟢@Nexora_pv 
-‏🟢@Nexora_pv
-‏
-‏📣 کانال Nexora VPN:
-‏🌐https://t.me/Nexora_Tunnel
-23:59
-1405/07/13
 
 
 
@@ -5601,20 +5625,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 17:01
-1405/07/13
-
-
-
-
-src :@didarnews1
-‏🔴ادعای فارس به نقل از یک منبع در مجلس: 
-‏
-‏🔹مهرداد اخلاقی برای تصدی وزارت دفاع به مجلس معرفی شد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-16:58
 1405/07/13
 
 
