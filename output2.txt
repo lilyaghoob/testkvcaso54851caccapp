@@ -1,3 +1,18 @@
+src :@ClashReport
+[عکس]
+‏U.S. envoy Massad Boulos attended an event in Egypt alongside Sudanese army chief Abdel Fattah al-Burhan, saying Washington remains committed to finding a political solution to Sudan’s war.
+‏
+‏Sudan’s government said the encounter was casual and no talks were held. 
+‏
+‏It came less than two weeks after the U.S. withheld a visa for Burhan ahead of a UN appearance amid tensions over a U.S.-backed ceasefire proposal.
+‏
+‏Source: Reuters
+12:05
+1405/07/14
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏فرماندهی نیروی دریایی ایالات متحده : خدمه زیردریایی هسته‌ای "پاسادنا" (SSN 752) و کارکنان واحدهای ساحلی، یک دستگاه زیردریایی بدون سرنشین و هوشمند به نام "Blueye X3" را آزمایش کردند، و آن را مستقیماً از طریق پرتابگر اژدر زیردریایی پرتاب کردند.
@@ -66,9 +81,9 @@ src :@IranintlTV
 
 src :@GeoPWatch
 [عکس]
-‏❗️🇫🇷 - Violent protests led by highschool students engulfed France, resulting in 24 schools being burned or damaged and 78 injuries among staff members.
+‏❗️🇫🇷 - Violent protests led by highschool students engulfed France, resulting in 24 schools being burned or ransacked and 78 injuries among staff members.
 ‏
-‏The protest started in mid September over poor condition in schools grew to draw tens of thousands of protesters throughout the country. The student protesters claimed the schools suffered from years of neglect and underfunding, leading to extreme overcrowding, lack of basic amenities such as working bathroom and missed lessons.
+‏The protest started in mid September over poor condition in schools and grew to draw tens of thousands of protesters throughout the country. The student protesters claimed the schools suffered from years of neglect and underfunding, leading to extreme overcrowding, lack of basic amenities such as working bathroom and missed lessons.
 ‏
 ‏The France government is under a severe budget crisis as it balances increased war spending and foreign aid by increased borrowing, cutting welfare and infrastructure spending. French 30-year yield recently spiked to 5.48%, the highest level in 24 years.
 ‏
@@ -6665,12 +6680,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_iranian | #S_S
 12:13
-1405/07/13
-
-
-
-
-src :@Artemis_Force
-‏شرکت Saronic در حال آماده سازی برای ساخت یک صنایع دریایی دیگر در ایالات متحده آمریکا هست این شرکت می‌خواهد یک صنایع کشتی سازی جدید به ارزش $3.2B در تگزاس بسازید   این شرکت هم اکنون نیز در حال ساخت یک صنایع دریایی دیگر هست و با صنایع اصلی خود مجموعا تا سال…
-12:02
 1405/07/13
