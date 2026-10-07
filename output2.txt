@@ -774,27 +774,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏Eritrean troops spotted driving through the Ethiopian town of Adigrat, 25 km from the border, per Reuters citing witnesses and ACLED. 
-‏
-‏This is the first confirmed presence of Eritrean soldiers on Ethiopian soil since the current conflict began September 23. 
-‏
-‏ACLED says they crossed at Zelambesa and Ethiopian military drone-struck their vehicles at Guada.
-‏
-‏Eritrea denies it, calling the reports fabricated to justify Ethiopian aggression. 
-‏
-‏Ethiopia and Eritrea severed diplomatic ties last week. 
-‏
-‏The US urged both sides to exercise restraint, warning conflict would jeopardize US cooperation with both countries. 
-‏
-‏Fears growing of a wider Horn of Africa war involving Ethiopia, Eritrea, Sudan, and Egypt.
-00:20
-1405/07/16
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏ائتلاف سعودی:ما یک عملیات گسترده را اجرا کردیم که شامل نابودی ۸۲ هدف نظامی متعلق به شبه‌نظامیان حوثی بود
 ‏
