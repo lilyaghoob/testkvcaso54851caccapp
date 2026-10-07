@@ -1,3 +1,42 @@
+src :@ClashReport
+[عکس]
+‏Rahul Gandhi, Priyanka Gandhi and other INDIA bloc leaders were detained in New Delhi for a second straight day while protesting alleged “vote theft” in voter rolls and demanding Chief Election Commissioner Gyanesh Kumar’s resignation.
+‏
+‏The opposition accuses the Election Commission of manipulating voter rolls after more than 130 million names were removed. 
+‏
+‏The commission and Prime Minister Modi’s BJP deny the allegations.
+‏
+‏Source: NDTV
+19:04
+1405/07/15
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴خبرگزاری رویترز:  یک ماه پیش، ایران 200 میلیون دلار به حزب الله کمک کرده.این پول خرج مردم آواره میشه، حزب‌الله قصد داره تو مرحله اول به هر خانواده‌ آواره، 3 هزار دلار پرداخت کنه.
+‏
+‏@MilitarryWorld | Maverick
+19:04
+1405/07/15
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏زیردریایی دیزل-الکترونیک هاکوگئی (SS-514) نیروی دریایی ژاپن، از تاریخ 10 سپتامبر تا 6 اکتبر سال 2026، از پایگاه خود در بندر کوره به پایگاه دریایی پرل هاربر (در ایالت هاوایی) در آمریکا، برای انجام یک دوره آموزشی مشترک، اعزام شد.
+‏
+‏برنامه‌ریزی شده است که این زیردریایی در تاریخ 2 دسامبر سال 2026 به پایگاه خود بازگردد.
+‏
+‏@artemis_force
+19:03
+1405/07/15
+
+
+
+
 src :@samueltarikh
 ‏⭕️امارات استفاده کشتی‌های ایرانی از بنادر خود را ممنوع کرد
 19:02
@@ -25,6 +64,7 @@ src :@mohem_mat
 
 src :@naya_foriraq
 [عکس]
+‏🇮🇶السيد مقتدى الصدر: فنحن نريد بناء وطننا بكل حرية واستقلالية بعيداً عن كل التدخلات الخارجية شرقية كانت أم غربية.. شمالية كانت أم جنوبية وبلا فساد وبلا تبعية.
 19:01
 1405/07/15
 
@@ -33,6 +73,9 @@ src :@naya_foriraq
 
 src :@naya_foriraq
 [عکس]
+‏بورصة العراق للمواد الغذائية تشتعل 
+‏
+‏
 ‏طبقة البيض الأحمر بـ9 آلاف دينار، والأبيض بـ8 آلاف دينار.
 19:00
 1405/07/15
@@ -3020,19 +3063,6 @@ src :@Alibk3
 
 
 
-src :@ClashReport
-[عکس]
-‏US Threatens UK and Europe With Sanctions Over Israeli Settlement Boycotts
-‏
-‏US DoJ warned Britain, France, and Norway of possible retaliation over Israeli settlement boycotts, after Washington previously avoided condemning the measures.
-‏
-‏READ MORE
-14:51
-1405/07/15
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مکرون: عربی به زبان دوم فرانسه تبدیل شده
 ‏
@@ -3180,18 +3210,6 @@ src :@Indypersian
 src :@rnintel
 ‏🇪🇹🇪🇷⚡- Initial reports, Eritrean forces have likely crossed the Ethiopian-Eritrean international border overnight, and are moving towards the frontline positions alongside the Tigray Defense Forces in northern Tigray.
 14:39
-1405/07/15
-
-
-
-
-src :@MilitarryWorld
-‏🔴نتانیاهو:
-‏
-‏هنوز جنگ با ایران تمام نشده و کار هایی برای انجام باقی مانده است.
-‏
-‏@MilitarryWorld | Parsa
-14:35
 1405/07/15
 
 
@@ -4044,18 +4062,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@mohem_mat
-[عکس]
-‏سه قلوهای صومعه سرایی
-‏رتبه های خوب کنکور سراسری امسال
-‏
-‏@mohem_mat
-12:51
-1405/07/15
-
-
-
-
 src :@Parvazdaroj
 ‏🔴 ویدیویی از لحظات اولیه حملات آخرالزمانی آمریکا به بغداد، پایتخت عراق در بامداد ۲۰ مارس ۲۰۰۳
 12:50
@@ -4071,18 +4077,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 12:49
-1405/07/15
-
-
-
-
-src :@mohem_mat
-‏کشت‌دار، مدیرعامل خبرگزاری میزان: 
-‏
-‏ حمید رسایی بیش از ۶۰ شکایت،‌ ۲۵ مورد قرار مجرمیت و جلب به دادرسی و حداقل دو مورد محکومیت قطعی داشته که سوابق آن موجود است.
-‏
-‏ @mohem_mat
-12:46
 1405/07/15
 
 
@@ -6806,15 +6800,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 19:19
-1405/07/14
-
-
-
-
-src :@samueltarikh
-‏رویترز:
-‏
-‏پالایشگاه های خصوصی چین پس از اینکه صادرات نفت ایران متوقف شده است،
-‏خرید نفت از عراق و قطر را آغاز کردند.
-19:03
 1405/07/14
