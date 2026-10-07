@@ -16,6 +16,14 @@ src :@Alibk3
 
 
 
+src :@naya_foriraq
+‏🇮🇱اعلام العدو: سُمعت دوي انفجارات في منطقتي بئر السبع وتريم بعد تفعيل أجهزة الإنذار في المنطقة.
+16:17
+1405/07/15
+
+
+
+
 src :@MilitarryWorld
 ‏🔴معاون نظام وظیفه:
 ‏
@@ -1169,14 +1177,6 @@ src :@jangaavaran1390
 
 
 
-src :@naya_foriraq
-‏🇮🇷مسؤول ايراني رفيع: يجب على الولايات المتحدة أولاً تلبية شروط طهران قبل مناقشة الملف النووي، اعتراف الولايات المتحدة بحق إيران في التخصيب هو الخط الأحمر لطهران
-15:04
-1405/07/15
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏آمریکا و ژاپن سیستم‌های موشکی را در جزیره یوناگونی در جریان تمرینات "شمشیر تیز" مستقر می‌کنند.
@@ -1236,14 +1236,6 @@ src :@didarnews1
 src :@jangaavaran1390
 ‏بلومبرگ: هزینه‌های نظامی روسیه امسال به ۲۰۰ میلیارد دلار می‌رسد؛ پس از تخصیص ۶۰ میلیارد دلار توسط پوتین. این افزایش بودجه اواخر سال گذشته، پس از شکست مذاکرات آلاسکا با آمریکا برای پایان جنگ اوکراین، در دستور کار قرار گرفت
 14:59
-1405/07/15
-
-
-
-
-src :@naya_foriraq
-‏🔻مصدر امني لنايا: مخلفات حربية على الطريق الاستراتيجي في محافظة كربلاء المقدسة.
-14:58
 1405/07/15
 
 
@@ -1493,14 +1485,6 @@ src :@ClashReport
 ‏
 ‏Kim pledged to deepen North Korea’s strategic partnership with Russia and closed the message by saying, “I warmly embrace you, my dear comrade.”
 14:41
-1405/07/15
-
-
-
-
-src :@naya_foriraq
-‏البنك المركزي العراقي: قررنا تعديل سعر صرف الدينار مقابل الدولار لجملة إصلاحات اقتصادية. تعديل سعر صرف الدولار سيحفز القطاع الخاص
-14:40
 1405/07/15
 
 
@@ -3159,15 +3143,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-[عکس]
-‏During last night's large-scale Russian missile attack on Ukraine, the interception rate of Kh-101 cruise missiles was unusually low - one of the lowest so far this year.   Out of roughly 48 Kh-101 cruise missiles launched, I could only confirm around 10 interceptions…
-12:04
-1405/07/15
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 ارتش آمریکا نخستین M2A4E1 Bradley و M7A4E1 را وارد خدمت عملیاتی کرد.
@@ -3235,15 +3210,6 @@ src :@jangaavaran1390
 ‏کشور بلغارستان، عضو ناتو، مورد حمله قرار گرفت: دو کشتی در دریای سیاه مورد اصابت قرار گرفتند
 ‏
 ‏حملات هماهنگ با پهپاد، یک کشتی باری را غرق کرد و کشتی دیگری را در منطقه اقتصادی بلغارستان به آتش کشید. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روسیه را مسئول این حادثه دانست و از یک حمله گسترده قریب‌الوقوع هشدار داد، در حالی که بلغارستان اعلام کرد که هنوز در حال بررسی است تا مشخص شود چه کسی مسئول این اقدام بوده است.
-11:54
-1405/07/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — President Trump on Iran: They're a failed nation. Everyone is quitting. Their economy is in ruins.  Iran's oil minister said, "I am leaving because our country is finished." That's what he said.
 11:54
 1405/07/15
 
@@ -3343,19 +3309,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 11:49
-1405/07/15
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇵🇸🇮🇱⚡️ — Al-Qassam Brigades spokesman Abu Obaida marked three years since the October 7 attack (Operation Al-Aqsa Flood), calling it a “military miracle” and praising the planning, execution and strategic deception involved. 
-‏
-‏He said the operation permanently shattered Israel’s security doctrine and deterrence, while crediting Hamas fighters with exploiting weaknesses among Israeli leaders. 
-‏
-‏Obaida also called for continued support for Palestine, saying the Gaza conflict and desecration of Al-Aqsa are a “cry to everyone.”
-11:47
 1405/07/15
 
 
@@ -3735,17 +3688,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇩❌🇸🇩 — Sudan’s Transitional Sovereignty Council Chairman Abdel Fattah al-Burhan says there are no negotiations underway with the UAE-backed RSF, stating, “We are not sitting with anyone.” 
-‏
-‏He pledged to “uproot the enemy 100 percent” and said the army would advance “with force, not with begging.”
-10:48
-1405/07/15
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏بامداد امروز روس‌ها به چند پست برق در استان‌های کیف و دنیپروپتروفسک حمله موشکی کردند.
@@ -3845,15 +3787,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇩🇪⚡️ — Former German intelligence chief August Hanning has been arrested on suspicion of attempted treason and espionage in what investigators believe could be one of Germany’s most serious intelligence breaches since the Cold War.  Prosecutors allege that…
-10:33
-1405/07/15
-
-
-
-
 src :@Mena_Live
 ‏Syrian Network for Human Rights: Documentation of the killing of at least 69 people by the Israeli army in southern Syria between December 8, 2024, and October 5, 2026.
 ‏
@@ -3893,14 +3826,6 @@ src :@jangaavaran1390
 ‏این آمار برآوردی است و ممکن است با گزارش‌های رسمی بعدی تغییر کند.
 ‏#جنگاوران
 10:23
-1405/07/15
-
-
-
-
-src :@jangaavaran1390
-‏چین هیچگاه چنین نقشی برای خود قائل نیست. نگاه ایران به چین به عنوان ابزار مقابله با آمریکا، توهمی است که در ایران مشتریان فراوانی دارد. البته که کار با چین به عنوان قدرت اول اقتصاد جهان، نیاز اصلی ایران امروز است.  🔗 hadi mohammadi (@m_h_mohammadi)   @mohem_mat
-10:22
 1405/07/15
 
 
@@ -5631,38 +5556,8 @@ src :@samueltarikh
 
 
 src :@samueltarikh
-‏Samuel pinned a photo
+‏Samuel pinned Deleted message
 21:35
-1405/07/14
-
-
-
-
-src :@samueltarikh
-[عکس]
-‏🆓 تست رایگان، بدون نیاز به خرید!
-‏😍 لازم نیست پول بدی — بیا فقط تست بگیر
-‏
-‏🎁 کانفیگ تست ۱۰۰ مگابایتی، ۱ روزه، کاملاً رایگان
-‏📥 همین حالا از ربات بگیر و خودت کیفیت رو ببین
-‏
-‏⚡ امکانات:
-‏🌏 مولتی‌لوکیشن: آلمان، فرانسه، هلند، سوئد
-‏♾ پلن حجمی و نامحدود
-‏🎮 مناسب گیم و ترید — پینگ پایین و اتصال پایدار
-‏💻📱 مناسب موبایل و کامپیوتر
-‏📞 شماره مجازی
-‏🎧 اکانت هوش مصنوعی (ChatGPT / Gemini) و پشتیبانی آنلاین
-‏
-‏💰 اگه خوشت اومد، پلن‌ها (۱ ماهه):
-‏⭐ ۲۰ گیگ — ۱۱۵ هزار تومان
-‏⭐ ۵۰ گیگ — ۲۱۵ هزار تومان
-‏⭐ ۱۰۰ گیگ — ۴۱۵ هزار تومان
-‏⭐ نامحدود — ۵۴۰ هزار تومان
-‏
-‏👉 برای تست رایگان، همین حالا وارد ربات شو:
-‏😍 @VpnSpeed_bot
-21:34
 1405/07/14
 
 
