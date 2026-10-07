@@ -438,15 +438,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇷🇺🇺🇦⚡️ — A Russian Geran-3 jet-powered drone with a portrait of Russian President Vladimir Putin on its underside flew over Kyiv earlier today.
-01:17
-1405/07/16
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔥هیجان را در بت روول تجربه کنید🔥
@@ -3084,15 +3075,6 @@ src :@BellumActaNews
 ‏
 ‏🔒He is now facing a federal terrorism-related firearms charge.
 21:10
-1405/07/15
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏📈🇮🇶اسعار الصرف في بورصة اربيل شمالي العراق.
-21:06
 1405/07/15
 
 
