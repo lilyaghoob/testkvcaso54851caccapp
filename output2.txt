@@ -706,17 +706,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump will award Elon Musk, Google co-founder Sergey Brin, Nvidia CEO Jensen Huang and AMD CEO Lisa Su the National Medal of Science at a White House summit on Thursday, October 8.
-‏
-‏Source: Fox News
-00:25
-1405/07/16
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸🇶🇦 - UKMTO confirms that a tanker was hit by multiple projectiles off the coast of Qatar, 51NM north of Madinat ash Shamal.   Casualties have been reported.  @GeoPWatch
 00:23
@@ -880,20 +869,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇸🇾🇸🇦🇾🇪🇾🇪 Reuters: One of the options Syrian officials discussed with Saudi officials for involvement in their conflict with the Houthis includes defensive assistance for Saudi Arabia or a possible deployment of Syrian forces to support Saudi-backed Yemeni…
 00:04
-1405/07/16
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏اسحاق هرتزوگ، رییس‌جمهوری اسرائیل، شامگاه چهارشنبه ۱۵ مهر در واکنش به پیام شاهزاده رضا پهلوی به مناسبت سومین سالگرد حمله هفتم اکتبر حماس به اسرائیل، در شبکه اجتماعی ایکس از او قدردانی کرد.
-‏
-‏هرتزوگ خطاب به شاهزاده رضا پهلوی نوشت: «از شما برای پیام عمیق و معنادار همبستگی و دوستی‌تان، در حالی که سومین سالگرد فجایع حملات تروریستی هفتم اکتبر حماس را گرامی می‌داریم، سپاسگزارم.»
-‏
-‏شاهزاده رضا پهلوی پیش‌تر در پیام خود با مردم اسرائیل ابراز همبستگی کرد و نوشت جمهوری اسلامی که حماس را مسلح و حمایت کرده، همان حکومتی است که ایرانیان را سرکوب می‌کند. او همچنین گفته بود: «ایران آزاد دوست و شریک اسرائیل خواهد بود» و صلح و ثبات پایدار برای دو ملت با سقوط جمهوری اسلامی محقق خواهد شد.
-‏https://iranintl.com/202610075504
-00:03
 1405/07/16
 
 
@@ -3279,15 +3254,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 20:20
-1405/07/15
-
-
-
-
-src :@intelslava
-[عکس]
-‏A Russian Geran-3 drone featuring the new “Putin” upgrade was spotted over Kiev today. 🤣
-20:18
 1405/07/15
 
 
