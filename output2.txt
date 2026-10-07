@@ -1,3 +1,48 @@
+src :@Ali_bk_2
+[عکس]
+‏Yanbu Airport in Saudi Arabia has been shut down for 12 hours, with a number of flights canceled.
+01:57
+1405/07/16
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مطار ينبع بالسعودية متوقف منذ 12 ساعة، مع إلغاء عدد من الرحلات.
+01:57
+1405/07/16
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️فرماندهی مرکزی ارتش آمریکا، سنتکام، بامداد پنجشنبه ۱۶ مهر با انتشار پیامی در اکس، اظهارات یکی از فرماندهان سپاه پاسداران درباره بسته بودن تنگه هرمز و کنترل کامل ایران بر آن را «نادرست» خواند.
+‏سنتکام اعلام کرد تردد کشتی‌های حامل کالاهای تجاری و محموله‌های انرژی، از جمله ۲۰ میلیون بشکه نفت خام، در تنگه هرمز جریان دارد و افزود: «ایالات متحده و شرکای منطقه‌ای به‌وضوح کنترل تنگه را در اختیار دارند.»
+‏
+‏@indypersian
+01:53
+1405/07/16
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The U.S. military has suspended operations for 48 hours in Okinawa, Japan, restricting troops from leaving their bases and ordering disciplinary training after a Marine was arrested on suspicion of killing a local woman.
+‏
+‏Lance Cpl. Devin Jacob Ballard, 20, is accused of strangling Anna Yagi, 39, in a hotel and stealing her belongings. He has denied the allegations.
+‏
+‏The arrest has renewed protests over the U.S. military presence on Okinawa, where military-related criminal cases rose from around 40 in 2020 to 101 in 2025.
+‏
+‏Source: NBC News
+01:52
+1405/07/16
+
+
+
+
 src :@rnintel
 [عکس]
 ‏🇺🇸🇵🇸🗽⚡️- Pro Palestinian protests were held today outside of City Hall against Mayor Mamdani. Some Palestine activists believe that Mamdani has betrayed the movement.
@@ -793,21 +838,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-[عکس]
-‏FlyDubai co-pilot Hamam al-Hammami, who allegedly attempted to crash Flight 1073 near Tel Aviv last week, told investigators he had planned a similar attack in July but backed out because he cared about a crew member.
-‏
-‏The Omani national reportedly sought employment with airlines flying to Israel and planned to incapacitate the captain and crash into a target such as Ben Gurion Airport.
-‏
-‏Hammami had previously been barred from flying by Oman Air over extremist concerns, but FlyDubai hired him without checking with Omani authorities.
-‏
-‏Source: WSJ
-00:17
-1405/07/16
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇮🇷🇺🇸⚡️ — Iranian Foreign Ministry spokesman Ismail Baghaei:
@@ -818,15 +848,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 00:16
-1405/07/16
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Türkiye will submit the Mecca Defense Alliance agreement with Saudi Arabia and Pakistan to parliament within days for ratification.
-00:15
 1405/07/16
 
 
@@ -2940,15 +2961,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏توقف مطار تبوك في السعودية منذ 11 ساعة ومطار عرعر منذ 8 ساعات.
-21:30
-1405/07/15
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏به گزارش فایننشال تایمز، ناخدای نفتکش‌هایی که ریسک عبور از تنگه هرمز را می‌پذیرند ماهانه معادل ۱۰۰ هزار دلار (۲۷ میلیارد تومان) دریافت می‌کنند و برای هر عبور موفق هم ۵۰ هزار دلار (۱۳ میلیارد تومان) پاداش می‌گیرند. دستمزد معمولی ناخدا در شرایط عادی حدود ۱۵ هزار دلار در ماه است! دیگر خدمه کشتی هم که تا پیش از این از حدود ۱۵۰۰ دلار در ماه به بالا حقوق می‌گرفتند در تنگه هرمز، حداقل ۴ تا ۶ برابر دستمزد عادی خود را دریافت می‌کنند. برای این خدمه که اغلب از کشورهای با درآمد پایین مثل هند و بنگلادش به کار کشتی‌رانی مشغولند کسب چنین درآمدهای رویایی حتی ریسک جانی ناشی از حملات ایران را هم توجیه می‌کند. برای درک بهتر، حقوق رئیس جمهور ایالات متحده آمریکا سالانه ۴۰۰ هزار دلار است که حدود یک سوم آن هم برای مالیات و سایر هزینه‌ها کسر می‌شود.
@@ -3356,20 +3368,6 @@ src :@intelslava
 [عکس]
 ‏A Russian Geran-3 drone featuring the new “Putin” upgrade was spotted over Kiev today. 🤣
 20:18
-1405/07/15
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️رویترز به نقل از دو منبع مطلع، روز چهارشنبه ۱۵ مهر گزارش داد که حزب‌الله لبنان با وجود تشدید محاصره اقتصادی ایالات متحده علیه جمهوری اسلامی ایران، ماه گذشته مبلغ ۲۰۰ میلیون دلار از تهران دریافت کرده است تا به شهروندان لبنانی آواره‌شده در جریان جنگ اخیر با اسرائیل کمک کند. این نخستین کمک مالی قابل‌توجه این گروه به هواداران خود است که بیشترین صدمات را در درگیری‌ها تحمل کرده‌اند.
-‏
-‏یک مقام حزب‌الله در این باره به رویترز گفت که بودجه‌ای تامین شده و جزئیات طرح توزیع آن در روزهای آینده اعلام خواهد شد، اما از اظهارنظر درباره منبع این وجوه خودداری کرد.
-‏
-‏منابع مطلع می‌گویند این گروه قصد دارد از این وجوه برای پرداخت کمک‌هزینه اولیه ۳ هزار دلاری به حدود ۵۰ هزار خانواده استفاده کند و اولویت با کسانی است که روستاهایشان ویران شده یا به دلیل اشغال اسرائیل غیرقابل‌دسترس است. وزارت خزانه‌داری آمریکا پیش‌تر اعلام کرده بود که ایران در ۱۰ ماه نخست سال ۲۰۲۵ نیز یک میلیارد دلار به حزب‌الله منتقل کرده بود. وزارتخانه‌های خارجه جمهوری اسلامی ایران و آمریکا و دولت لبنان هنوز واکنشی به این خبر نشان نداده‌اند.
-‏@indypersian
-20:17
 1405/07/15
 
 
