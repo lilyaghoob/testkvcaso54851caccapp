@@ -1,3 +1,27 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏درود و صبح بخیر خدمت همراهان گرامی ❤️
+09:26
+1405/07/16
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡🇱🇰 Euronews: Sri Lanka’s former First Lady Shiranthi Rajapaksa has been arrested on corruption allegations, accused of misusing charitable donations during her husband Mahinda Rajapaksa’s presidency.
+‏
+‏Investigators allege that approximately 10 million Sri Lankan rupees ($30,000) donated by a state-owned bank were intended to purchase medical scanning equipment for a children's hospital but were misused. Rajapaksa denies wrongdoing.
+‏
+‏A Colombo court ordered her detained until October 13, while the former bank chairman implicated in the case was released on bail. Her son, lawmaker Namal Rajapaksa, is also facing a separate bribery case.
+‏
+‏@wfwitness
+09:23
+1405/07/16
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇸🇨🇦🇱🇹🇪🇺🇫🇷The Guardian: The Trump administration reportedly pressured Canada, Lithuania and the EU’s diplomatic service to withdraw their sponsorship of a major European conference on disinformation held in Vilnius, Lithuania. 
@@ -2676,22 +2700,6 @@ src :@Shin_Persian
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️سازمان هواپیمایی کشوری عربستان سعودی اعلام کرد که در پی حملات حوثی‌ها به فرودگاه بین‌المللی أبها و فرودگاه بین‌المللی ملک خالد، دست‌کم سه غیرنظامی کشته و ۳۶ نفر دیگر زخمی شدند.
-‏
-‏بر اساس این بیانیه، حمله به فرودگاه أبها در جنوب این کشور منجر به کشته شدن دو زن تبعه خارجی (یک مراکشی و یک الجزایری) و زخمی شدن ۲۸ نفر دیگر شد. همچنین در حمله به فرودگاه ملک خالد در ریاض، پایتخت عربستان سعودی، یک تبعه سودانی جان باخت و هشت نفر از جمله پنج شهروند سعودی زخمی شدند.
-‏
-‏این سازمان هواپیمایی اعلام کرد که این حملات طی روزهای اخیر انجام شده است، اما به زمان دقیق اصابت به هر یک از فرودگاه‌ها اشاره‌ای نکرد. این حملات جدید به تأسیسات حیاتی عربستان موجی از واکنش‌های منطقه‌ای را به دنبال داشته است.
-‏
-‏ 
-‏@indypersian
-23:35
-1405/07/15
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇸🇾🇸🇦🇾🇪🇾🇪 — Syria could become involved in the ongoing war against the Houthis in Yemen, with the possibility of military participation currently under discussion.  Sources indicated that no final decision has been made.  — Asharq Al-Awsat | @TheWarReporter
@@ -3595,14 +3603,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 22:22
-1405/07/15
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ترامپ درباره ایران:نیروی نظامی آنها اکنون نابود شده است. کل کشورشان در حال حاضر نابود شده است.این موضوع به سرعت به پایان خواهد رسید و زمانی که این اتفاق بیفتد، قیمت نفت به شدت کاهش خواهد یافت.
-22:18
 1405/07/15
 
 
@@ -6831,13 +6831,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 09:39
-1405/07/15
-
-
-
-
-src :@samueltarikh
-‏طبق گزارش منابع متعدد
-‏سوریه در حال بررسی امکان پیوستن به جنگ علیه حوثی ها و اعزام نیروی زمینی به یمن است، رئیس‌جمهور سوریه امروز به صورت ناگهانی از عربستان سعودی بازدید کرد.
-09:24
 1405/07/15
