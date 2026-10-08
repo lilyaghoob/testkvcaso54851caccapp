@@ -1,5 +1,5 @@
 src :@Ali_bk_2
-‏Sound of an explosion
+‏An explosion was heard in the Saudi capital, Riyadh.
 03:37
 1405/07/16
 
@@ -7,7 +7,7 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏دوي انفجار
+‏سماع دوي انفجار في العاصمة السعودية الرياض.
 03:37
 1405/07/16
 
@@ -2567,14 +2567,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-‏دوي 4 انفجارات في مضيق هرمز.
-22:25
-1405/07/15
-
-
-
-
 src :@P_raetorio
 ‏سازمان هواپیمایی عربستان سعودی اعلام کرد در پی حمله انصار‌الله به فرودگاه‌های ریاض و ابها 3 تن کشته و بیش از 30 نفر زخمی شدند.
 ‏
@@ -2626,15 +2618,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:16
-1405/07/15
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Al Sharq Saudi channel correspondent in Washington, citing multiple sources:  Syria may join the war in Yemen. No final decision has been made yet, but the idea is under discussion.
-22:15
 1405/07/15
 
 
