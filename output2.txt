@@ -1,3 +1,30 @@
+src :@ClashReport
+‏An Immigration and Customs Enforcement (ICE) agent shot and injured a person in the Bronx, New York, on October 8, according to law enforcement sources.
+‏
+‏The person was hospitalized with non-life-threatening injuries. 
+‏
+‏The NYPD said it was not involved in the shooting, which remains under investigation.
+‏
+‏Source: CBS News
+02:00
+1405/07/17
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Anthropic has updated its usage policy to ban “sustained and needless abusive or cruel behavior” toward Claude, allowing the chatbot to end conversations with repeatedly abusive users. 
+‏
+‏The rule applies only to extreme cases, not ordinary frustration, criticism or testing.
+‏
+‏Source: The Verge
+01:58
+1405/07/17
+
+
+
+
 src :@Ali_bk_2
 ‏An explosion was heard in the Strait of Hormuz.
 01:58
@@ -6,8 +33,19 @@ src :@Ali_bk_2
 
 
 
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Anthropic's updated usage policy prohibits "abusive or cruel behavior" toward Claude.
+‏
+‏Anthropic emphasized that the restriction applies only to extreme cases of repeated cruelty toward its models without any clear purpose, and does not cover ordinary frustration and criticism.
+01:58
+1405/07/17
+
+
+
+
 src :@Alibk3
-‏دوي
+‏سماع دوي انفجار في مضيق هرمز.
 01:57
 1405/07/17
 
@@ -1834,22 +1872,6 @@ src :@MilitarryWorld
 ‏پارلمان اروپا قطعنامه‌ای تصویب کرده که توش ایران به نقض حقوق بشر و خشونت علیه غیرنظامیان محکوم شده. جزئیات بیشتری از این قطعنامه هنوز منتشر نشده.
 ‏
 ‏@MilitarryWorld | Parsa
-23:03
-1405/07/16
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏رضا طلایی‌نیک، سخنگوی وزارت دفاع جمهوری اسلامی، شامگاه پنجشنبه در یک برنامه تلویزیونی گفت: «تولید تسلیحات ما در طول جنگ یک روز هم متوقف نشد و به دو و نیم برابر رسید.»
-‏
-‏طلایی‌نیک اضافه کرد: «ما از قبل جایگزین‌های امن را برای مکان‌های تولید تسلیحات درنظر گرفته بودیم و حتی یک روز هم تجهیز و تولید برای نیروهای مسلح قطع نشد.»
-‏
-‏او افزود: «ما در جنگ اخیر با سلاح‌های ارزان‌تر و فناوری‌های بومی، دشمن را زمین‌گیر کردیم.»
-‏
-‏طلایی‌نیک با اشاره به معرفی مهرداد اخلاقی به عنوان وزیر پیشنهادی دفاع، ادامه داد: «وزیر پیشنهادی دفاع ۴۳ سال سابقه فعالیت در صنایع دفاعی دارد و از متخصصان برجسته حوزه موشکی است.»
-‏https://iranintl.com/202610089810
 23:03
 1405/07/16
 
