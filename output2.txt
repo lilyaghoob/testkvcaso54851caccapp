@@ -1,3 +1,55 @@
+src :@ClashReport
+[عکس]
+‏BIG: Pakistan has reportedly joined Saudi Arabia’s military campaign against the Houthis in Yemen, with a senior Pakistani military official saying Pakistani fighter jets are conducting airstrikes.  Source: NYT
+16:56
+1405/07/16
+
+
+
+
+src :@Ali_bk_2
+‏AFP:
+‏
+‏Riyadh Airport asks passengers to "check the status of their flights" with airlines before heading to the airport
+16:54
+1405/07/16
+
+
+
+
+src :@Alibk3
+‏أ.ف.ب: 
+‏
+‏مطار الرياض يطالب المسافرين بـ"التحقق من حالة رحلاتهم" مع شركات الطيران قبل التوجه للمطار
+16:54
+1405/07/16
+
+
+
+
+src :@didarnews1
+‏🔴 رئیس کمیسیون کشاورزی: در صورت جنگ برای ۸ ماه ذخایر کافی غذایی داریم
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+16:54
+1405/07/16
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇾🇪 🇸🇦 — Yemen's Iran-backed Houthi militia targeted King Khalid International Airport in Riyadh, capital of Saudi Arabia.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+16:53
+1405/07/16
+
+
+
+
 src :@mohem_mat
 ‏محمدامین ماندنی، زندانی محبوس در زندان تهران بزرگ، از سوی شعبه ۲۶ دادگاه انقلاب تهران به ریاست قاضی ایمان افشاری، به اعدام و در مجموع به ۲۰ سال حبس تعزیری محکوم شده است. حکم صادرشده روز سه‌شنبه ۷ مهرماه ۱۴۰۵ به وکیل او ابلاغ شد و خبر آن چهار روز بعد، در ۱۱ مهرماه، به انتشار رسید.
 ‏
@@ -7,7 +59,7 @@ src :@mohem_mat
 ‏
 ‏محسن بابائیان، از بازداشت‌شدگان اعتراضات دی‌ماه نیز به اعدام محکوم شد.
 ‏
-‏محسن بابائیان، زندانی سیاسی و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۵ محبوس در زندان تهران بزرگ، از سوی شعبه ۲۶ دادگاه انقلاب تهران به ریاست ایمان افشاری، به اتهام «محاربه» به اعدام محکوم شد. این حکم اخیراً در زندان به او ابلاغ شده است.
+‏محسن بابائیان، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۵ محبوس در زندان تهران بزرگ، از سوی شعبه ۲۶ دادگاه انقلاب تهران به ریاست ایمان افشاری، به اتهام «محاربه» به اعدام محکوم شد. این حکم اخیراً در زندان به او ابلاغ شده است.
 ‏
 ‏
 ‏منبع: کانال تلگرامی مهدی محمودیان
@@ -1095,23 +1147,6 @@ src :@Farsi_Iranwire
 ‏بیشتر: https://iranwire.com/fa/news-1/158639
 ‏
 ‏@Farsi_Iranwire
-15:39
-1405/07/16
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A BBC and NPR investigation found that U.S. and Lebanese authorities are allegedly protecting and financially supporting Bassam al-Hassan, a former Syrian general wanted for crimes against humanity who oversaw Assad’s chemical weapons program.
-‏
-‏Hassan reportedly receives money and protection in Lebanon in exchange for intelligence about U.S. journalist Austin Tice, missing since 2012, and other Syrian military secrets.
-‏
-‏The arrangement, believed to have begun in spring 2025, has reportedly made little progress in locating Tice.
-‏
-‏Syria’s new government wants Hassan extradited for trial, but officials say the U.S. wants him to remain in Lebanon.
-‏
-‏Source: BBC
 15:39
 1405/07/16
 
@@ -5337,22 +5372,6 @@ src :@DEJradio
 
 
 
-src :@didarnews1
-‏🔴ترامپ: اعزام نیروهای ترکیه و پاکستان به عربستان عالی است
-‏
-‏🔹ترامپ در واکنش به اعزام نیروهای ترکیه و پاکستان به عربستان گفت: فکر  می‌کنم آن‌ها می‌خواهند به عربستان سعودی کمک کنند و به نظرم عالی است.
-‏
-‏#بین‌الملل 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-23:04
-1405/07/15
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — The White House has asked the Pentagon to develop options for new U.S. strikes on Iran ahead of the November 3 midterm elections, although no final decision has been made.
 ‏
@@ -5768,17 +5787,6 @@ src :@bricsnews
 src :@Artemis_Force
 ‏ژاپن برای اولین بار به طور جدی در حال بررسی امکان خرید زیردریایی‌های هسته‌ای است.  وزیر دفاع ژاپن، شینجیرو کوییزومی، اعلام کرد که توکیو احتمال خرید زیردریایی‌های هسته‌ای را در چارچوب بازنگری اسناد امنیت ملی، منتفی نمی‌داند.  به گفته او، دولت تمام گزینه‌های…
 21:05
-1405/07/15
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇷 🇴🇲 — Attacks on tankers in and around the Strait of Hormuz reached their highest weekly level since the U.S.-Iran war began on February 28. At least 12 attacks on oil, LNG, and LPG tankers occurred between September 28 and October 5. Source: Reuters
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-20:52
 1405/07/15
 
 
@@ -6561,37 +6569,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 17:00
-1405/07/15
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏11 مورد عملیات STS طی دیروز در حال انجام بوده است
-‏
-‏@Navy_Iranian
-16:55
-1405/07/15
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏سردار نقدی مشاور فرمانده کل سپاه:
-‏
-‏تنگۀ هرمز بسته است و نیروهای مسلح بر آن تسلط کامل دارند و این وضعیت تا زمانی که خواسته‌های مشروع ایران برآورده نشود، ادامه خواهد داشت.
-‏حجم نفت قاچاق‌شده بسیارناچیز است و نمی‌توان گفت که تنگۀ هرمز برای چنین فعالیت‌هایی باز است اما برخی با شناورهای کوچک اقدام به قاچاق نفت و انتقال آن به نفتکش‌ها می‌کنند. به‌زودی، همین تعداد کم از مسیرهایی که افراد متخلف از طریق انفجار و تخریب برخی از مسیرهای صخره‌ای موجود در تنگه هرمز ایجاد کرده‌اند، مسدود خواهند شد.
-16:54
-1405/07/15
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇾🇪/🇸🇦 NEW: Ansarallah are about to enter Al-Misrakh, the last major town between the frontlines and Taizz city
-‏
-‏@Middle_East_Spectator
-16:52
 1405/07/15
