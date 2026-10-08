@@ -1,5 +1,55 @@
+src :@IranintlTV
+[عکس]
+‏مسعود پزشکیان، رییس دولت جمهوری اسلامی، پیش از سفر به ترکمنستان گفت: «مشکلی به عنوان محاصره دریایی ایجاد کردند برای ما، اما به این سادگی نمی‌توانند محاصره کنند. ما با ۱۵ کشور در منطقه همسایه‌ایم و از هر کدام از این مسیرها می‌توانیم تبادلات خود را داشته باشیم و این فرصت‌ها می‌تواند در نوع تعامل ما هم موثر باشد.»
+‏
+‏پزشکیان ادامه داد: «در این سفر درباره خطراتی که دریای خزر را تهدید می‌کند، مذاکراتی خواهیم داشت.»
+‏https://iranintl.com/202610089179
+16:36
+1405/07/16
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏#BREAKING  🇾🇪❌🇸🇦 - Reuters is reporting that just now an Ansarullah Ballistic Missile impacted an aircraft at King Khalid International Airport Riyadh, completely destroying the aircraft. It is still unclear if the aircraft was a civilian passenger plane and…
+16:35
+1405/07/16
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏مارکو روبیو درباره ایران:
+‏
+‏رژیم ایران هنگامی که معترضان مجروح می‌شوند، به بیمارستان‌ها می‌رود و افراد حاضر در آنجا را به قتل می‌رساند؛ و گاهی پزشکان و پرستارانی را که به مداوای آن‌ها پرداخته‌اند نیز می‌کشد.
+16:34
+1405/07/16
+
+
+
+
+src :@intelslava
+‏Plumes of smoke rising from King Khalid International Airport in Riyadh following an Ansar Allah drone or ballistic missile attack.  The strike apparently hit one of the airport’s fuel storage tanks, causing a fire.
+16:33
+1405/07/16
+
+
+
+
 src :@OSINTWarfare
 ‏Plumes of smoke rising from King Khalid International Airport in Riyadh following an Ansar Allah drone or ballistic missile attack.  The strike apparently hit one of the airport’s fuel storage tanks, causing a fire.
+16:32
+1405/07/16
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏آمبولانس هوایی از شرق عربستان به سمت فرودگاه ریاض پرواز کرده است (احتمالا مرتبط با تلفات احتمالی حمله موشکی یمن)
+‏
+‏@Minas_Tirith2024
 16:32
 1405/07/16
 
@@ -2664,19 +2714,6 @@ src :@P_raetorio
 
 
 
-src :@IranintlTV
-[عکس]
-‏سازمان حقوق بشری فرانت لاین دیفندرز پنج‌شنبه ۱۶ مهر اعلام کرد احمدرضا حائری، فعال حقوق بشر و از آغازگران کارزار «سه‌شنبه‌های نه به اعدام» برنده جایزه «مدافعان حقوق بشر در معرض خطر» سال ۲۰۲۶ در بخش خاورمیانه و شمال آفریقا شده است.
-‏این سازمان نوشت ایران سال‌هاست از جمله کشورهای دارای بالاترین آمار اعدام در جهان است و افزود کارزار «سه‌شنبه‌های نه به اعدام» جنبشی خودجوش به رهبری زندانیان است که در چارچوب آن، زندانیان در ده‌ها زندان هر سه‌شنبه در اعتراض به مجازات اعدام اعتصاب غذا می‌کنند.
-‏حائری که شهریورماه پس از سه سال و نیم حبس آزاد شد، در دوران زندان با حملات فیزیکی، سلول انفرادی و آزار قضایی مواجه بود، اما به دفاع از حقوق زندانیان، از جمله حق حیات آن‌ها، ادامه داد.
-‏حائری به دلیل شرایط امنیتی ایران نتوانست در مراسم اهدای جایزه در دوبلین شرکت کند. او گفت: «آن‌ها مرگ می‌خواهند در حالی که ما برای زندگی مبارزه می‌کنیم. من مطمئنم که در مبارزه ما برای حق حیات، شکستی در کار نخواهد بود.»
-‏چهار برنده دیگر لاوریندا مانوئل گوویا از آنگولا، آدّا ویکتوریا کائتانو از برزیل، عمر خالد از هند و لیلیانا نشیچ از صربستان هستند.
-13:09
-1405/07/16
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏کیل مارک های ناوهای نیروی دریایی ایران بر روی ناوهواپیمابر لینکلن
@@ -4251,16 +4288,6 @@ src :@OSINTWarfare
 
 
 
-src :@intelslava
-‏🇾🇪🇾🇪❌🇸🇦 — The Houthis announced that they had targeted King Khalid International Airport in Riyadh, Saudi Arabia, with a ballistic missile, causing disruption to airport operations.
-‏
-‏@IntelSlava
-06:25
-1405/07/16
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Ansar Allah announced that it had shot down a Royal Saudi Air Force (RSAF) Turkish-made Bayraktar Akıncı unmanned combat aerial vehicle (UCAV) over Taiz Governorate, Yemen.
@@ -5568,17 +5595,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 22:14
-1405/07/15
-
-
-
-
-src :@Minas_Tirith2024
-‏سازمان هواپیمایی غیرنظامی سعودی طی بیانیه‌ای اعلام کرد در پی حملات انصار الله به فرودگاه ملک خالد ریاض، یک تن کشته و ۸ نفر دیگر زخمی شدند. همچنین طی حملات به فرودگاه ابها، دو تن کشته و ۲۸ نفر دیگر از جمله افرادی از انگلیس زخمی شدند.
-‏
-‏
-‏@RedLionCorps
-22:13
 1405/07/15
 
 
