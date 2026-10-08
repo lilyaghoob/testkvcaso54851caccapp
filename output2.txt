@@ -1,3 +1,48 @@
+src :@defence_news
+[عکس]
+‏تصویر شهید محمدرضا اوکاتی، کادر نیروی زمینی ارتش که صبح امروز در حمله تروریستی در محدوده نیکشهر به شهادت رسید
+‏
+‏@artemis_force
+18:01
+1405/07/16
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏ایالات متحده آمریکا طی ماه گذشته طی یک قرارداد در فروش خارجی خود، 
+‏فروش مجموعه‌های ارتقاء برای سیستم سونار آمریکایی با عمق متغیر، که برای شناسایی، طبقه‌بندی و مکان‌یابی مین‌های دریایی طراحی شده است را تایید کرده است 
+‏
+‏این قرارداد در 16 سپتامبر، به ارزش قرارداد 75 میلیون دلار امضا شده است 
+‏
+‏@artemis_force
+18:00
+1405/07/16
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - The Saudi Air Ambulance has landed at Riyadh International Airport, taking off from Dammam.  @GeoPWatch
+18:00
+1405/07/16
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - The Saudi DCD has stated that as a result of Ansarullah BM attack on Riyadh City today, shrapnel damage impacted a kindergarten and a medical complex.
+‏
+‏@GeoPWatch
+17:58
+1405/07/16
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏عدم تخلیه ساختمان دولتی توسط بنیاد شهید رئیسی
@@ -17,9 +62,11 @@ src :@mohem_mat
 
 src :@tabzlive
 [عکس]
-‏🇰🇷 — South Korea conducted on Tuesday its first-ever test launch of a locally made medium-range hypersonic missile. 
+‏🇰🇷 — South Korea conducted on Thursday its first-ever test launch of a locally made medium-range hypersonic missile. 
 ‏
 ‏The unnamed missile system was tested by the Korean Agency for Defense Development in an undisclosed location; however, very few details are known regarding the missile itself.
+‏
+‏South Korean President Lee Jae Myung observed the launch.
 17:57
 1405/07/16
 
@@ -3233,14 +3280,6 @@ src :@Indypersian
 
 
 
-src :@defence_news
-‏پلیس سیستان‌وبلوچستان: در پی وقوع انفجار در مسیر خروج ۲ گروه انتظامی از ستاد فرماندهی انتظامی شهرستان گلشن، افراد مسلح به سمت نیروهای انتظامی تیراندازی کردند  نیروهای انتظامی در واکنش به این حمله، یکی از مهاجمان را به هلاکت رساندند و تعدادی دیگر از مهاجمان…
-12:38
-1405/07/16
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨⭕️ روز پنجشنبه ۱۶ مهرماه ۱۴۰۵، مینی‌بوس حامل کارکنان لشکر ۸۸ زرهی نیروی زمینی ارتش مستقر در سواحل مکران که برای تعویض شیفت در مسیر بودند، مورد حمله مسلحانه قرار گرفت. 
@@ -3267,16 +3306,6 @@ src :@cataphract1
 ‏⚜مقام‌های اسرائیلی بر این باورند که احتمال انجام حملات پس از انتخابات میان‌دوره‌ای بیشتر است، اما در عین حال، حمله زودتر از این موعد نیز منتفی نیست.
 ‏✒️#LT
 ‏📃@Cataphract1
-12:37
-1405/07/16
-
-
-
-
-src :@defence_news
-‏هیچ‌کس تو دانشگاه بهت یاد نمی‌ده چطور اپلای کنی یا از کجا اخبار مهاجرتو دنبال کنی؛ این چیزا رو باید از کانال‌هایی مثل این یاد بگیری: 👇
-‏
-‏https://t.me/+TtrWFYkBxzAyMGI0
 12:37
 1405/07/16
 
@@ -4525,22 +4554,6 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - The U.S. Military has reportedly been ordered to be ready for the possible resumption of major combat operations in Iran soon.  @GeoPWatch
-03:27
-1405/07/16
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - AXIOS reports, citing U.S. and Israeli Officials, that a renewed conflict with Iran may start before the U.S. congressional midterm elections, and possibly a week before the Israeli elections. AXIOS also reported that strike packages are currently…
-03:25
-1405/07/16
-
-
-
-
 src :@rnintel
 ‏🇮🇷⚡- Twelve Iranian attacks on tankers were recorded in the Strait of Hormuz last week, marking the highest level of weekly activity since the US-Iran war began on 28 February.
 03:19
@@ -5257,20 +5270,6 @@ src :@thewarreporter
 ‏Administration officials said President Trump wants to demonstrate progress in the war and help lower gas prices before the election. More extensive military action is also being considered for after the midterms.
 ‏
 ‏— The Atlantic | @TheWarReporter
-23:03
-1405/07/15
-
-
-
-
-src :@defence_news
-‏پلیس سیستان‌وبلوچستان: در پی وقوع انفجار در مسیر خروج ۲ گروه انتظامی از ستاد فرماندهی انتظامی شهرستان گلشن، افراد مسلح به سمت نیروهای انتظامی تیراندازی کردند
-‏
-‏نیروهای انتظامی در واکنش به این حمله، یکی از مهاجمان را به هلاکت رساندند و تعدادی دیگر از مهاجمان نیز مجروح شدند.
-‏
-‏منطقه همچنان تحت رصد و پایش نیروهای امنیتی و انتظامی قرار دارد و اقدامات برای شناسایی و برخورد با سایر عوامل این حمله ادامه دارد.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
 23:03
 1405/07/15
 
@@ -6239,68 +6238,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 18:03
-1405/07/15
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏1411Z
-‏Missile launch at SoH from Sirik
-‏
-‏Hormozgan Province
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/jjyPSg-dQdJn0jFA2BypHHfi
-‏
-‏ترجمه خودکار فارسی
-‏
-‏1411Z (۱۷:۴۱ به وقت تهران)
-‏شلیک موشک در تنگه هرمز از سیریک
-‏
-‏استان هرمزگان
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/jjyPSg-dQdJn0jFA2BypHHfi
-‏
-‏𝕏  ·  @shin_persian
-18:01
-1405/07/15
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏بهاره آقایی، وکیل دادگستری محبوس در زندان قرچک ورامین، به ۲۰ سال حبس محکوم شده است. کانال تلگرامی شیرین عبادی با اعلام این خبر، حمایت از معترضان دی‌ماه، حضور در مراسم چهلم سپهر شکری و کمک حقوقی به خانواده‌های دادخواه را از موارد مطرح‌شده در پرونده او عنوان کرده است.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-17:58
-1405/07/15
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏اسکات بسنت، وزیر خزانه‌داری ایالات متحده آمریکا، با انتشار پیامی در اکس و با لحنی کنایه‌آمیز نسبت به استعفای محسن پاک‌نژاد، وزیر نفت ایران نوشت: «ایران وزیر نفت جدیدی دارد. با توجه به اینکه از ۲۵ اوت تاکنون حتی یک بشکه نفت خام نیز توسط ایران بر روی هیچ شناوری بارگیری نشده است، این وزیر نفت دقیقا چه چیزی را مدیریت می‌کند؟» پیش از این، مهدی طباطبایی، معاون ارتباطات و اطلاع‌رسانی دفتر ریاست جمهوری ایران اعلام کرد، پزشکیان پس از موافقیت با استعفای وزیر نفت، طی حکمی حمید بورد، مدیرعامل شرکت ملی نفت ایران را به عنوان سرپرست وزارت نفت منصوب کرده است.
-‏@VahidOOnLine
-‏
-‏📡 @VahidOnline
-17:58
-1405/07/15
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏حکم اعدام امید گودرزوند چگینی، معترض ۳۷ ساله، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ و محبوس در زندان چوبیندر قزوین، در مرحله تجدیدنظر تایید شده است.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-17:57
 1405/07/15
