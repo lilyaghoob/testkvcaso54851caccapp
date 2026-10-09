@@ -1,3 +1,12 @@
+src :@tabzlive
+[عکس]
+‏🇮🇷⚡️ — Iran's IRGC Navy announces all vessels that violate its rules in the Strait of Hormuz will be confronted "throughout the region", beyond the Strait of Hormuz.  This comes following a ship being struck off the coast of Qatar, a ship suspected of being…
+19:26
+1405/07/17
+
+
+
+
 src :@samueltarikh
 ‏🚨وزیر آموزش‌وپرورش از تعطیلی احتمالی مدارس خبر داد و گفت تعطیلی ها بر اساس شرایط هر منطقه طی روز های آینده تعیین می‌شود
 19:21
@@ -2375,23 +2384,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏A fire at the Greek Navy’s helicopter base in Kotroni destroyed warehouses containing critical spare parts for its helicopters.
-‏
-‏Parts for the older AB 212 helicopters may be impossible to replace because they are no longer available on the market.
-‏
-‏The fire also destroyed valuable spare parts for the Navy’s newer MH-60 Romeo helicopters, which can be replaced but at significant cost.
-‏
-‏Greece’s Defense Ministry and military leadership have remained silent about the damage and the scale of the losses.
-‏
-‏Source: Militaire gr
-17:01
-1405/07/17
-
-
-
-
 src :@defence_news
 ‏#فوری
 ‏
@@ -2423,38 +2415,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 16:58
-1405/07/17
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Top executives at OpenAI, Anthropic and other AI companies are privately preparing for a potential public and political backlash following a catastrophic AI-related incident.
-‏
-‏According to Axios, executives fear a major AI-driven cyberattack could disrupt banking, internet access, electricity or water supplies.
-‏
-‏Many industry insiders believe such an incident could occur within six to 12 months, prompting calls for strict regulation or even a halt to advanced AI development.
-‏
-‏Companies are already preparing for possible congressional action, including proposals to require emergency kill switches, while seeking to influence future U.S. AI legislation.
-‏
-‏Source: Axios
-16:56
-1405/07/17
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Congressional Democrats are increasingly uniting behind efforts to impeach Defense Secretary Pete Hegseth over his handling of the Iran war, while party leaders remain reluctant to pursue another impeachment of President Trump.
-‏
-‏Several Democrats, including Rep. Melanie Stansbury, have called for Hegseth’s removal, accusing him of violating congressional war powers and overseeing unlawful killings.
-‏
-‏Republican Rep. Thomas Massie has also introduced an impeachment resolution that the House will be forced to consider after the November midterms.
-‏
-‏Source: Semafor
-16:55
 1405/07/17
 
 
@@ -3507,22 +3467,6 @@ src :@Indypersian
 ‏♦️شاهزاده رضا پهلوی، روز جمعه ۱۷ مهر ماه با ارسال پیامی در شبکه‌های اجتماعی، به سقوط ارزش ریال واکنش نشان داد و با اشاره به مشکلات اقتصادی ایران نوشت: « دلاری‌شدن اقتصاد و نابودی پول ملی نتیجهٔ مستقیم بی‌ثباتی دائمی، چاپ پول، فساد گسترده و سیاست‌های نابخردانهٔ این رژیم است. تا وقتی این ساختار سر کار است، اصلاح ممکن نیست و سقوط ادامه دارد.»
 ‏شاهزاده رضا پهلوی در این پیام سقوط ریال را به معنای «بی‌ارزش شدن دستمزدها، حقوق‌ها و مستمری‌ها، آب شدن پس‌انداز مردم و گران‌تر شدن زندگی روزمره» مردم ایران تعبیر کرد و نوشت: «تورم نزدیک به ۹۰ درصد، مالیات پنهانی است که رژیم از دارندگان ریال می‌گیرد و به جیب کسانی می‌ریزد که پول را چاپ می‌کنند و زودتر خرج می‌کنند.»
 ‏در این پیام آمده است: «تورم مهار نمی‌شود، اما سیاست‌های شکست‌خورده‌ای مثل دلارپاشی تکرار می‌شوند که فقط ثروت خودی‌ها را زیاد می‌کنند. در چنین شرایطی که ریال به ریسک روزانه تبدیل شده، طبیعی است که مردم از آن فاصله بگیرند و به ارزهای باثبات روی بیاورند.»
-‏
-‏@indypersian
-14:41
-1405/07/17
-
-
-
-
-src :@Indypersian
-‏⭕️ماست یونانی میان‌وعده‌ای مفید برای سلامت کبد است
-‏
-‏📌ماست یونانی به دلیل شیوه تهیه معمولا پروتئین بیشتری از ماست معمولی دارد و اگر نوع ساده و بدون شکر افزوده آن انتخاب شود، می‌تواند میان‌وعده‌ای سیرکننده باشد که بخشی از پروتئین موردنیاز بدن را نیز تامین می‌کند
-‏
-‏♦️کبد از جمله اعضای بدن است که معمولا تا زمانی که نتیجه آزمایش خون یا تشخیص پزشکی از وجود مشکلی در آن خبر ندهد، کمتر به یاد آن می‌افتیم. در حالی که این اندام حیاتی هر روز بیش از ۵۰۰ وظیفه مختلف، از پالایش مواد مضر و پردازش مواد مغذی گرفته تا کمک به تنظیم قند خون را بر عهده دارد و آنچه می‌خوریم می‌تواند در سلامتی آن نقش مهمی داشته باشد.
-‏
-‏بیشتر بخوانید...
 ‏
 ‏@indypersian
 14:41
@@ -6460,13 +6404,4 @@ src :@BellumActaNews
 ‏
 ‏💥 However, after numerous direct complaints and a flood of left-wing propaganda on the portals, marketing agencies are beginning to take action to prohibit such conduct, fearing for brand protection.
 19:35
-1405/07/16
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏#BREAKING  🇾🇪❌🇸🇦 - Reuters is reporting that just now an Ansarullah Ballistic Missile impacted an aircraft at King Khalid International Airport Riyadh, completely destroying the aircraft. It is still unclear if the aircraft was a civilian passenger plane and…
-19:25
 1405/07/16
