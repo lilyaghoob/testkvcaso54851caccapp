@@ -1,3 +1,36 @@
+src :@Ali_bk_2
+[عکس]
+‏Saudi Arabia’s Dammam Airport joins the disruptions..
+‏
+‏Air traffic at Dammam Airport has been suspended, and several aircraft are avoiding landing there.
+14:47
+1405/07/17
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مطار الدمام السعودي يدخل على خط الاضطرابات.. 
+‏
+‏توقف حركة الملاحة الجوية في مطار الدمام وعدد من الطائرات تتجنب الهبوط فيه.
+14:47
+1405/07/17
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Executives at Anthropic, OpenAI and other AI companies are preparing for a potentially catastrophic AI incident within the next six to 12 months, possibly a cyberattack disrupting financial services, internet access, electricity or water, Axios reports.
+‏
+‏Companies are trying to educate lawmakers and shape future legislation, despite believing regulation is unlikely before a major incident.
+14:43
+1405/07/17
+
+
+
+
 src :@MilitarryWorld
 ‏🔴ابراهیمی عضو دولت رئیسی: آمریکا نمیذاشت تو ایران بارون بیاد
 ‏
@@ -3426,28 +3459,6 @@ src :@mwarmonitor
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏As of 3:34 AM today, October 9, 86 flights to and from Riyadh Airport had been canceled, while 40 flights were delayed.
-‏
-‏According to yesterday’s data, 336 flights were canceled in Riyadh and 102 in Jeddah.
-04:26
-1405/07/17
-
-
-
-
-src :@Alibk3
-[عکس]
-‏حتى الساعة 3:34 فجر اليوم 9 أكتوبر، أُلغيت 86 رحلة من وإلى مطار الرياض، فيما تأخرت 40 رحلة.
-‏
-‏وبحسب بيانات أمس، بلغ عدد الرحلات الملغاة 336 رحلة في الرياض و102 رحلة في جدة.
-04:26
-1405/07/17
-
-
-
-
 src :@Middle_East_Spectator
 ‏There’s something in the air these days that feels eerily similar to the vibe leading up to February 28th.
 04:20
@@ -3593,15 +3604,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 02:47
-1405/07/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — The U.S. Treasury announced a new round of sanctions targeting Iran's remaining shadow fleet network under its "Operation Economic Outcast" campaign.  The measures designate 22 vessels, 26 companies and six individuals linked to Iranian oil and petrochemical…
-02:45
 1405/07/17
 
 
@@ -6179,14 +6181,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 14:53
-1405/07/16
-
-
-
-
-src :@mwarmonitor
-‏🔴یک مقام ارشد نظامی پاکستان به نیویورک تایمز گفته است که جنگنده‌های پاکستانی در حملات علیه حوثی‌ها در یمن مشارکت دارند.
-‏
-‏@mwarmonitor
-14:43
 1405/07/16
