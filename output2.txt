@@ -1,3 +1,22 @@
+src :@Artemis_Force
+[عکس]
+‏با ورود این ناوشکن به ناوگان، نیروی دریایی کره جنوبی, کره جنوبی به شش ناوشکن مجهز به سیستم «ایجیس» دست خواهد یافت:
+‏
+‏سه ناوشکن از کلاس «سجونگ» از پروژه KDX-III Batch-I؛
+‏
+‏سه ناوشکن مدرن‌تر از کلاس «چونگجو» از پروژه KDX-III Batch-II
+‏
+‏پ ن : کره جنوبی همچنین برنامه ساخت ۶ ناوشکن دیگر هم دارد، البته ٣ ناوشکن جایگزین ناوشکن های سجونگ خواهند شد 
+‏
+‏( هدف رسوندن تعداد ناوشکن ها به ٩ شناور هست) 
+‏
+‏@artemis_force
+17:12
+1405/07/17
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Air traffic at Riyadh Airport has been suspended, and 10 aircraft are avoiding landing.
@@ -2761,14 +2780,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏🇸🇦إنفجارات تهز العاصمة السعودية الرياض.
-13:13
-1405/07/17
-
-
-
-
 src :@mwarmonitor
 [عکس]
 ‏🔴آمریکایی‌هایی که در حال حاضر در خاورمیانه حضور دارند، به دلیل شرایط پیچیده امنیتی منطقه باید هوشیاری بیشتری داشته باشند. احتمال لغو پروازها، بسته‌شدن حریم‌های هوایی و اختلال در سفرها را در نظر بگیرند.
@@ -2837,27 +2848,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 13:04
-1405/07/17
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: Montenegro detained Rybar founder Mikhail Zvinchuk and four associates in a dawn raid on the Bay of Kotor. 
-‏
-‏Police and the national security agency (ANB) picked up the pro-Russian military blogger, his wife/creative director Valeria, and three staff at the Mövenpick Hotel in Risan this morning, seizing drones, digital equipment, and documents. 
-‏
-‏Authorities say they’d been watching the group for days.
-‏
-‏The stated concern is that Zvinchuk’s planned documentary on Montenegro’s new visa rules for Russians would frame EU integration as damaging the economy.
-‏
-‏Rybar (~1.5M subscribers) says the team was in the country legally and expects release.
-‏
-‏Russia’s foreign ministry says its embassy is looking into it. 
-‏
-‏Zvinchuk — a former Russian MoD press officer — is under both UK and EU sanctions, and the US has a $10M Rewards for Justice bounty tied to alleged election interference by Rybar staff.
-13:03
 1405/07/17
 
 
@@ -6144,20 +6134,6 @@ src :@OSINTWarfare
 ‏
 ‏The warhead has undergone field testing and is now set to enter production for integration onto Tomahawk Block Vb missiles. The contract has not yet been awarded, and its value, quantity, and delivery schedule remain undisclosed.
 18:04
-1405/07/16
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ایالات متحده آمریکا طی ماه گذشته طی یک قرارداد در فروش خارجی خود، 
-‏فروش مجموعه‌های ارتقاء برای سیستم سونار آمریکایی با عمق متغیر، که برای شناسایی، طبقه‌بندی و مکان‌یابی مین‌های دریایی طراحی شده است را تایید کرده است 
-‏
-‏این قرارداد در 16 سپتامبر، به ارزش قرارداد 75 میلیون دلار امضا شده است 
-‏
-‏@artemis_force
-18:00
 1405/07/16
 
 
