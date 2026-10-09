@@ -1,3 +1,28 @@
+src :@bricsnews
+‏JUST IN: 🇮🇷 Iran's IRGC says it has "full control" of the Strait of Hormuz.
+‏
+‏@BRICSNews
+09:56
+1405/07/17
+
+
+
+
+src :@ClashReport
+[عکس]
+‏OpenAI said it banned ChatGPT accounts linked to Russian and Iranian propaganda operations using AI-generated content and fake identities.
+‏
+‏The Iranian network used seven fake Western journalist profiles to publish nearly 100 articles across about a dozen outlets worldwide, with activity increasing after the U.S.-Iran war began.
+‏
+‏The Russian operation used a supposed think tank, the Social Research Center (SRC), to spread anti-Ukraine propaganda and influence politics in Latin America.
+‏
+‏OpenAI said the center's local employees were apparently unaware they were working for a Russian group, describing it as its most complex fake-front operation disrupted in two and a half years.
+09:54
+1405/07/17
+
+
+
+
 src :@didarnews1
 ‏🔴بارش باران در محورهای پنج استان | ترافیک جاده‌های کشور روان است
 ‏
@@ -4501,14 +4526,6 @@ src :@GeoPWatch
 
 
 
-src :@WAR_ROOM_NEWS
-‏شرکت ایر ایندیا پروازهای خود به ریاض را تا ۱۰ اکتبر به حالت تعلیق درآورده است. همچنین گروه لوفت‌هانزا فعالیت‌های پروازی خود در عربستان سعودی را تا ۱۶ اکتبر متوقف کرده است.این اختلال‌ها در حالی رخ می‌دهد که افزایش نگرانی‌های امنیتی در منطقه در پی حملات موشکی حوثی ها، بر حمل‌ونقل هوایی و ارتباطات هوایی منطقه تأثیر گذاشته است
-19:20
-1405/07/16
-
-
-
-
 src :@mwarmonitor
 ‏* **** مجری: «بنابراین، معاون رئیس‌جمهور «جی‌دی ونس» می‌گوید هرگونه توافق با تهران ممکن است شامل کاهش معنادار در ظرفیت غنی‌سازی هسته‌ای ایران باشد... من فکر می‌کردم این مقدار باید به صفر برسد.»
 ‏ * **** وزیر امور خارجه «مارکو روبیو» هشدار می‌دهد که ایران قبلاً فرصت‌های متعددی برای دستیابی به یک توافق هسته‌ای داشته و در این زمینه ناکام بوده است. او تأکید می‌کند: «آن‌ها هرگز سلاح هسته‌ای نخواهند داشت؛ نقطه و تمام! تا زمانی که رئیس‌جمهور ترامپ در کاخ سفید حضور دارد، این خط قرمز ماست. حالا اینکه چگونه به آن دست یابید و مسائل دیگر... من فکر می‌کنم آن‌ها در گذشته فرصت‌های زیادی برای توافق روی این مسائل داشتند و از انجام آن سر باز زدند. اکنون آن‌ها با تحریم‌های فلج‌کننده روبه‌رو هستند و اقتصادشان در یک سقوط آزاد کامل و همه‌جانبه قرار دارد.»
@@ -5291,14 +5308,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 16:04
-1405/07/16
-
-
-
-
-src :@Minas_Tirith2024
-‏وضعیت آسمان شهر ریاض که سه محل فعال شدن سامانه پدافندی پاتریوت را نشان می دهد؛ با این وجود موشک به هدف در فرودگاه ملک خالد ریاض اصابت کرده است.  ممکن است هر سه رهگیر شلیک شده ناکام مانده باشند یا بیش از ۱ موشک یمنی شلیک شده باشد.  @Minas_Tirith2024
-16:02
 1405/07/16
 
 
