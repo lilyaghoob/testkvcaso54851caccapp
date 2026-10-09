@@ -1,3 +1,75 @@
+src :@ircfspace
+[عکس]
+‏پنل NoRoot VPN یه ابزار متن‌باز و رایگان برای راه‌اندازی کانفیگ VLESS/XHTTP روی هاست‌های اشتراکی معمولیه، که فقط با PHP کار می‌کنه و برای نصب و راه‌اندازی به دسترسی روت، SSH یا باز کردن پورت عمومی نیاز نداره.
+‏این پنل از هسته واقعی ایکس‌ری استفاده می‌کنه و ترافیک رو از طریق یه اندپوینت PHP عبور میده تا حتی روی هاست‌های محدود هم بشه با هزینه کم کانفیگ VPN ساخت و مدیریت کرد. اگرچه باید سراغ هاست خارج از ایران برین، اما این روش به معنای ناشناس‌بودن یا تضمین امنیت و حریم خصوصی نیست؛ پس بهتره برای مصارف شخصی و محدود ازش استفاده کنین و مراقب اطلاعات هویتی، آی‌پی و ردپاهایی باشین که ممکنه از طریق هاست یا سرویس‌دهنده قابل شناسایی باشن.
+‏
+‏👉 github.com/mr-r0ot/NoRootVpn-Panel
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+15:16
+1405/07/17
+
+
+
+
+src :@cataphract1
+[عکس]
+‏کشته شدن خلبان سعودی در حملات حوثی ها به فرودگاه خالد ریاض🇸🇦
+‏
+‏⚜طبق اعلام رسمی سعودی ایرلاین، خالد علی الکلتامی، خلبان هواپیمای شرکت هواپیمایی سعودیه، در تاریخ 8 اکتبر در جریان حمله به فرودگاه بین‌المللی پادشاه خالد در ریاض کشته شد.
+‏
+‏⚜یک فروند ایرباس A321Ceo در جریان حملات دقیق حوثی ها با موشک های بالستیک منهدم شد و باعث شد تقریبا تمامی ایرلاین ها پرواز های خود را در هفته جاری معلق کنند. لوفتهانزا، ایرایندیا، فلای‌دوبی و قطر ایرلاینز از جمله شرکت هایی بودند که پرواز های خود را در پی این حادثه لغو کردند.
+‏
+‏⚜در تاریخ ۸ اکتبر ۱۶۹ از ۳۷۸ پرواز برنامه ریزی شده در فرودگاه خالد ریاض کنسل شده اند و با ادامه دار شدن حملات حوثی ها این میزان در روز های آتی بیشتر نیز خواهد شد.
+‏
+‏🖋#Ethan 
+‏📃@Cataphract1
+15:14
+1405/07/17
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Saudia Airlines's Captain Hamoud bin Ali Al-Kalthami has been killed following the Houthi attack that targeted King Khalid International Airport in Riyadh.
+‏
+‏#KSA 🇸🇦
+‏
+‏ترجمه خودکار فارسی
+‏
+‏کاپیتان حمود بن علی الکلثامی، خلبان شرکت هواپیمایی سعودی، در پی حمله حوثی‌ها به فرودگاه بین‌المللی ملک خالد در ریاض کشته شد.
+‏
+‏#KSA 🇸🇦
+‏
+‏𝕏  ·  @shin_persian
+15:13
+1405/07/17
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Muadh Ali Saleh, commander of the 16th Giants Brigade in the Saudi-backed forces, and commander Abdulrahman Khaled Hamoud were killed by Yemeni forces’ fire in Bab al-Mandab.
+15:13
+1405/07/17
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مقتل معاذ علي صالح ، قائد اللواء السادس عشر عمالقة في القوات الموالية للسعودية، والقيادي عبدالرحمن خالد حمود بنيران القوات اليمنية في باب المندب.
+15:13
+1405/07/17
+
+
+
+
 src :@mohem_mat
 ‏علم‌الهدی در نمازجمعه مشهد: 
 ‏
@@ -1679,23 +1751,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏German search engine Ecosia is dropping French AI company Mistral in favor of open-source models, including Chinese alternatives such as Qwen, GLM and Kimi.
-‏
-‏Ecosia CEO Christian Kroll said Mistral’s models are “a year behind” competitors, citing poor performance, recurring server problems and concerns over its dependence on foreign investors.
-‏
-‏Ecosia, which replaced OpenAI with Mistral in May, says switching to open-source models has cut costs by roughly half while improving quality and performance.
-‏
-‏Kroll believes Europe can compete in AI by building on Chinese-backed open models rather than spending billions developing its own.
-‏
-‏Source: POLITICO
-12:40
-1405/07/17
-
-
-
-
 src :@naya_foriraq
 ‏🇾🇪🇸🇦مصدر عسكري يمني: انكسار هجوم لتحشيدات العدو السعودي جنوبي باب المندب قادمة من لحج وسقوط عشرات القتلى والجرحى وإحراق وتعطيل عدد من الآليات.
 12:37
@@ -3298,24 +3353,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 06:33
-1405/07/17
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Air traffic at Kuwait Airport has been suspended, with 5 aircraft avoiding landing. The reasons are not yet known.
-06:32
-1405/07/17
-
-
-
-
-src :@Alibk3
-[عکس]
-‏توقف حركة الملاحة الجوية في مطار الكويت، 5 طائرات تتجنب الهبوط، دون معرفة الأسباب حتى الآن.
-06:32
 1405/07/17
 
 
@@ -6105,12 +6142,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 15:25
-1405/07/16
-
-
-
-
-src :@USAMRYDATA
-‏شاهکار ۶هزار ساله مهندسی؛ کشف شبکه آب پیشرفته در قدیمی‌ترین شهر بین‌النهرین  شهر باستانی اریدو که یکی از نخستین مراکز شهری جهان محسوب می‌شود، با استفاده از زیرساخت‌های پیچیده‌ی آبیاری توانسته است در محیطی خشک و کم‌باران به حیات خود ادامه دهد. پژوهش‌های جدید…
-15:14
 1405/07/16
