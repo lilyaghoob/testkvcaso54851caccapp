@@ -1,3 +1,19 @@
+src :@Ali_bk_2
+‏The number of aircraft circling over Kuwait Airport has risen to 8.
+06:39
+1405/07/17
+
+
+
+
+src :@Alibk3
+‏ارتفاع عدد الطائرات المعلّقة في أجواء مطار الكويت إلى 8.
+06:39
+1405/07/17
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇪🇹⚡️🇪🇷-ENDF forces are advancing further into Tigray as they have captured the towns of Wukro and Abiy Addi. In western Tigray, TDF withdrew from Shire, although it’s unclear if ENDF forces have entered the town yet.
@@ -2334,15 +2350,6 @@ src :@Ali_bk_2
 [عکس]
 ‏Air traffic has stopped at Jeddah Airport
 23:19
-1405/07/16
-
-
-
-
-src :@Alibk3
-[عکس]
-‏توقف حركة الملاحة الجوية في مطار جدة
-23:18
 1405/07/16
 
 
@@ -6380,31 +6387,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 06:46
-1405/07/16
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇺🇦❌🇷🇺 — Ukrainian attack drones struck Yandex's Sasovo Datacenter tonight, one of Russia's largest, setting it on fire. 
-‏
-‏The 35+ MW facility reportedly housed nearly 2,700 Nvidia A100 GPUs by 2021, imported before sanctions locked down Russia's tech sector.
-‏
-‏🔗 OSINTtechnical (@Osinttechnical) 
-‏➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖
-‏@BellumActaNews
-06:41
-1405/07/16
-
-
-
-
-src :@OSINTWarfare
-‏Ansar Allah (Houthis) announced that they had targeted gatherings and troop concentrations, possibly belonging to the Southern Giants Brigades, at Qa'wah Camp in the Ras al-Arah District of southwestern Yemen using several ballistic missiles.
-‏
-‏At the same time, they targeted troop gatherings south of Bab al-Mandab and in the Al-Suqayyan area with additional ballistic missiles.
-06:40
 1405/07/16
