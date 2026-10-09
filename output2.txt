@@ -3918,14 +3918,6 @@ src :@warmonitors
 
 
 
-src :@naya_foriraq
-‏🇺🇸 البنتاغون : سيتم بث إعدام مطلق النار في فورت هود رمياً بالرصاص في الولايات المتحدة على الهواء مباشرة
-00:52
-1405/07/17
-
-
-
-
 src :@Mena_Live
 ‏New York Times: The Pentagon has developed a 3-day plan for intensive strikes in Iran. The strikes include targets related to the drone program, energy infrastructure, and command centers of the Revolutionary Guard.
 ‏
@@ -5420,19 +5412,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:15
-1405/07/16
-
-
-
-
-src :@didarnews1
-[عکس]
-‏🔴انهدام یک فروند هواپیما در فرودگاه ملک خالد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-19:11
 1405/07/16
 
 
