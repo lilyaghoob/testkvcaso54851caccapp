@@ -121,22 +121,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦🇺🇸🇷🇺⚡️ — Ukrainian President Zelensky to Axios:
-‏What did Trump get? That he will have more diesel? For whom? More Russian diesel for Americans? It shows weakness of the world.
-‏
-‏This decision will not help us in any way. But what is bad, I think that this decision will not help Americans.
-‏
-‏If you allow them to export diesel, and you think before that you have to go to Russia to negotiate, it looks that you are buying this meeting.
-‏
-‏Maybe I'm not right. But it looks this way. Otherwise, why do it?
-03:21
-1405/07/18
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇷🇺🇺🇸🇺🇦🇮🇷 TASS: Russian President Putin has confirmed Moscow’s readiness to supply oil and petroleum products to the US and global markets following a telephone conversation with US President Donald Trump.  The Kremlin said Putin had reaffirmed Russia’s readiness…
@@ -263,14 +247,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 02:51
-1405/07/18
-
-
-
-
-src :@tabzlive
-‏🇵🇦⚡️ — Significant aftershocks are being reported with this earthquake. A 6.9 aftershock was reported, more significant aftershocks expected.
-02:47
 1405/07/18
 
 
@@ -6274,22 +6250,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 04:58
-1405/07/17
-
-
-
-
-src :@mwarmonitor
-‏🔸اوپن‌ای‌آی اعلام کرد که عوامل وابسته به ایران با استفاده از مدل‌های این شرکت و هویت‌های جعلی، به انتشار مقالات خبری انتقادی از جنگ آمریکا علیه ایران در چندین رسانه آمریکایی کمک کرده‌اند. CNN 
-‏
-‏@mwarmonitor
-04:56
-1405/07/17
-
-
-
-
-src :@mwarmonitor
-‏🔴ارتش آمریکا برای حملات احتمالی به ایران به حالت آماده‌باش درآمد؛ ترامپ در حال بررسی زمان حمله است  💬باراک راوید — آکسیوس  ⏺مقام‌های آمریکایی به آکسیوس گفتند پنتاگون چند روز پیش به فرماندهی مرکزی آمریکا (CENTCOM) دستور داده است آماده‌سازی‌ها برای ازسرگیری…
-04:54
 1405/07/17
