@@ -1,5 +1,61 @@
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Various areas across southern and eastern Lebanon have been subjected to Israeli drone flights this morning.
+‏
+‏Drone flights recorded in southern Lebanon over the past few hours:
+‏
+‏Harouf
+‏Toul
+‏Kfar Romman
+‏Nabatieh 
+‏Nabatieh al-Fawqa 
+‏Douier
+‏Jebchit
+‏Kfar Jouz
+‏Kfar Tebnit 
+‏Zebdine 
+‏Kfour
+‏Deir Zahrani 
+‏Marwanieh
+‏Aanqoun
+‏Bnaafoul
+‏Zita
+‏Qennarit
+‏Maghdouche
+‏Ghazieh
+‏Saida
+‏
+‏Drone flights recorded in eastern Lebanon and western Beqaa over the past few hours:
+‏
+‏Yohmor
+‏Ali al-Nahri
+‏Massa 
+‏Saraaine al-Fawqa
+‏Saraaine al-Tahta
+‏Nabi Chit
+‏Yohfoufa
+‏Janta
+‏Al-Khadar
+‏Al-Khariba
+‏Hamm
+‏Ain Al-Baniyya
+‏Al-Nabi Sbat
+‏Hor Taala
+‏Brital
+‏Tiba
+‏Baalbek
+‏Doris
+‏Ain Bourdai
+‏Nahle
+‏
+‏@wfwitness
+11:01
+1405/07/18
+
+
+
+
 src :@Ali_bk_2
-‏Fires caused by possible Yemeni attacks in Saudi Arabia so far since dawn on 10 October:
+‏Fires caused by possible Yemeni attacks in Saudi Arabia so far, since dawn on 10 October:
 ‏
 ‏• A massive fire at Saudi Arabia’s Shedgum gas plant
 ‏• Thick smoke from Saudi Arabia’s Shaybah oil field
@@ -10,10 +66,39 @@ src :@Ali_bk_2
 
 
 src :@Alibk3
-‏الحرائق الناجمة عن هجمات يمنية محتملة في السعودية حتى الآن منذ فجر 10 اكتوبر: 
+‏الحرائق الناجمة عن هجمات يمنية محتملة في السعودية حتى الآن، منذ فجر 10 اكتوبر: 
 ‏
 ‏• حريق ضخم في معمل غاز شدقم السعودي 
 ‏• دخان كثيف من حقل الشيبة السعودي
+10:57
+1405/07/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏اوکراین با وجود توافق نفتی ترامپ و پوتین، حملات به پالایشگاه‌های روسیه را ادامه می‌دهد
+‏
+‏به گزارش فایننشال تایمز به نقل از یک مقام ارشد اوکراینی، کی‌یف قصد ندارد حملات پهپادی دوربرد به زیرساخت‌های انرژی و پالایشگاه‌های نفت روسیه را متوقف کند؛ تصمیمی که پس از موافقت واشنگتن با تسهیل صادرات گازوئیل روسیه به بازارهای جهانی اتخاذ شده است. این مقام اوکراینی در واکنش به توافق دونالد ترامپ و ولادیمیر پوتین گفت: «ما پالایشگاه‌های نفت روسیه را به آتش خواهیم کشید.» در همین حال، ولودیمیر زلنسکی تصمیم آمریکا را مورد انتقاد قرار داده و هشدار داده است که کاهش محدودیت‌ها می‌تواند درآمد بیشتری برای مسکو جهت ادامه جنگ فراهم کند
+‏
+‏🆔@WAR_ROOM_NEWS
+10:57
+1405/07/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Indian police detained Cockroach Janta Party founder Abhijeet Dipke, two other leaders and dozens of protesters ahead of a banned demonstration in New Delhi.
+‏
+‏The youth movement demands the resignation of chief election commissioner Gyanesh Kumar over a voter list revision that has removed more than 130 million names.
+‏
+‏Opposition groups allege voter manipulation, which the government denies.
+‏
+‏Authorities deployed thousands of police officers, blocked roads and suspended mobile internet to prevent the protest.
+‏
+‏Source: Reuters
 10:57
 1405/07/18
 
@@ -466,14 +551,6 @@ src :@jangaavaran1390
 ‏
 ‏#فرانسه #آلمان #تانک #MGCS #صنایع_دفاعی
 10:22
-1405/07/18
-
-
-
-
-src :@mohem_mat
-‏سخنگوی جدید کاخ سفید انتخاب شد  🔹بر اساس اعلام یک مقام کاخ سفید دونالد ترامپ، رئیس‌جمهور آمریکا، کِیتی زکریا، مفسر محافظه‌کار، را برای تصدی سمت سخنگوی بعدی کاخ سفید انتخاب کرده است. 🔹زکریا قرار است جایگزین کارولین لیویت شود که پس از تولد دومین فرزندش، در پایان…
-10:21
 1405/07/18
 
 
@@ -3982,22 +4059,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏⚜تلفات اخیر حوثی ها در جبهه‌های نبرد یمن
-‏
-‏#حوثی_یمن 
-‏#تلفات
-‏
-‏🔰آمار تلفات قبلی
-‏
-‏🆔@WAR_ROOM_NEWS
-21:14
-1405/07/17
-
-
-
-
 src :@naya_foriraq
 [عکس]
 ‏https://x.com/aboalaa_alwalae/status/2108613399643123736?s=46
@@ -6247,40 +6308,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 11:05
-1405/07/17
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏
-‏⁠آمریکا یک شبکه بزرگ تأمین مالی جمهوری اسلامی را تحریم کرد؛ اسکات بسنت: در حال قطع منابع مالی رژیم مستبد هستیم
-‏ 
-‏- دفتر کنترل دارایی‌های وزارت خزانه‌داری آمریکا (OFAC) روز هشتم اکتبر (۱۶ مهرماه) شش فرد، ۲۷ شرکت و ۲۲ کشتی را در رابطه با جمهوری اسلامی تحریم کرد. در میان تحریم‌شدگان پنج شهروند هند و یک شهروند ترکیه به دلیل همکاری با جمهوری اسلامی در فهرست سیاه قرار گرفتند.
-‏ 
-‏- در بیانیه وزارت خزانه‌داری آمریکا آمده، در چارچوب «عملیات طرد اقتصادی» شبکه‌ای از نفتکش‌ها که جمهوری اسلامی برای انتقال میلیاردها دلار نفت خام و فرآورده‌های نفتی به بازارهای خارجی به آن متکی است، تحریم شدند.
-‏ 
-‏- اسکات بسنت وزیر خزانه‌داری آمریکا گفت: «خزانه‌داری در حال قطع منابع مالی رژیم مستبد جمهوری اسلامی است که از آن برای جنگ‌افروزی در منطقه استفاده می‌کند و ما همچنان کسانی را که فروش نفت این رژیم را تسهیل می‌کنند، مجازات خواهیم کرد».
-‏ 
-‏https://kayhan.london/1405/07/17/409961/
-11:00
-1405/07/17
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏
-‏⁠جمهوری اسلامی پایگاه‌های آمریکا در آلمان را تحت نظر گرفته است
-‏ 
-‏- بر اساس گزارش «WirtschaftsWoche»، اسرائیل سه هفته پیش به شرکای آمریکایی و آلمانی خود درباره تهدید احتمالی پایگاه‌های نظامی داخل آلمان هشدار داد. نگرانی اصلی در مورد پایگاه‌هایی است که از عملیات نظامی و فعالیت‌های لجستیک آمریکا در ارتباط با درگیری با جمهوری اسلامی پشتیبانی می‌کنند.
-‏ 
-‏- بر اساس این گزارش، سرویس‌های اطلاعاتی جمهوری اسلامی پایگاه‌های نظامی آمریکا در آلمان از جمله رامشتاین و اشپانگدالم را زیر نظر گرفته‌اند.
-‏ 
-‏-چند مقام اطلاعاتی غربی می‌گویند، اسرائیل سه هفته پیش به طرفین آمریکایی و آلمانی درباره یک تهدید احتمالی هشدار داده بود. هنوز نوع این تهدیدات مشخص نشده است.
-‏ 
-‏https://kayhan.london/1405/07/17/409951/
-10:57
 1405/07/17
