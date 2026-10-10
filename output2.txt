@@ -659,17 +659,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@ClashReport
-[عکس]
-‏Kremlin:
-‏
-‏During the phone call, neither Putin nor Trump wanted to hang up first.
-01:38
-1405/07/18
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏سازمان حقوق بشر کارون خبر داد که دستگاه قضایی جمهوری اسلامی بیش از ۱۰ کارگر متخصص و بومی عرب شرکت پتروپارس در هویزه خوزستان را به دلیل «مطالبه حقوق صنفی» خود، به تحمل شلاق تعزیری و پرداخت جریمه نقدی ۲۰۰ میلیون ریالی محکوم کرده است، و احکام شلاق نیز اجرا شده‌اند.
@@ -1042,16 +1031,6 @@ src :@Mena_Live
 
 
 
-src :@ClashReport
-‏Kremlin:
-‏
-‏Putin told Trump that, following Ukrainian Armed Forces attacks on election day, Moscow would have to reconsider when negotiations could resume.
-01:02
-1405/07/18
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇶🇺🇸🇮🇶⚡️ — Kata'ib Hezbollah announces on October 8, 11-12 U.S. military aircraft conducted sorties above Iraqi airspace. The aircraft took off from bases in Jordan, Türkiye, Israel, Kuwait, and KSA. Notable increase in numbers of both aircraft and bases.
@@ -1134,19 +1113,6 @@ src :@BellumActaNews
 ‏
 ‏If you are interested in becoming part of this catalog, please contact us via Direct Messages @geopolitics_prime 🤖
 00:55
-1405/07/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The FBI plans to award the UFC an exclusive one-year contract to train agents in hand-to-hand combat, bypassing the usual competitive bidding process.
-‏
-‏The bureau claims UFC is the only qualified provider capable of meeting its training requirements.
-‏
-‏Source: MS NOW
-00:52
 1405/07/18
 
 
@@ -6485,12 +6451,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 04:43
-1405/07/17
-
-
-
-
-src :@mwarmonitor
-‏🔴رئیس ستاد ارتش اسرائیل، ایال زامیر، بنا بر گزارش‌ها دو روز پیش از مقام‌های آمریکایی مطلع شده که کاخ سفید و پنتاگون در آستانه یک حمله احتمالی گسترده آمریکا به ایران طی هفته‌های آینده، دستورالعمل‌هایی صادر کرده‌اند.  🔴زامیر هشدار داده است که ازسرگیری جنگ می‌تواند…
-04:39
 1405/07/17
