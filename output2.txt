@@ -8,6 +8,7 @@ src :@DEJradio
 ‏این ناوگروه همچنین در جریان عملیات «خشم حماسی» و محاصره دریایی بنادر جمهوری اسلامی، رکورد ۲۶۴ روز حضور پیوسته در دریا بدون توقف در هیچ بندری را ثبت کرده است.
 ‏
 ‏#خشم_حماسی #خاورمیانه #جمهوری_اسلامی
+‏@DEJradio
 11:37
 1405/07/18
 
@@ -2437,24 +2438,6 @@ src :@GeoPWatch
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Yemeni forces take control of the villages of al-Jubailiyah, al-Kadmah and Wadi Ali, while fighting spreads to Wadi al-Dhabab and the Jabal Habashi junction along several routes, as they close in on encircling Saudi-backed forces in the areas of Najd Qasim…
-02:06
-1405/07/18
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القوات اليمنية تسيطر على قرى الجبيلية والكدمة ووادي علي، فيما تمتد المعارك إلى وادي الضباب ومفرق جبل حبشي من عدة مسارات، بالتزامن مع اقترابها من محاصرة القوات الموالية للسعودية في منطقتي نجد قسيم والمسراخ.
-02:06
-1405/07/18
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨⭕️ ساکنان شرق تهران گزارش دادند آدینه‌شب ۱۷ مهرماه، جایی حوالی تهران‌پارس پس از تیراندازی صدای انفجار به گوش رسید. 
@@ -2483,24 +2466,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 01:56
-1405/07/18
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Yemeni forces have reached the Milat area and are approaching the Al-Dhubab area, the southwestern gateway to the city of Taiz.
-01:55
-1405/07/18
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القوات اليمنية تصل منطقة ميلات، وتقترب من منطقة الضباب، بوابة مدينة تعز الجنوبية الغربية.
-01:55
 1405/07/18
 
 
@@ -6385,13 +6350,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 12:01
-1405/07/17
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏کیل مارک های ناوهای نیروی دریایی ایران بر روی ناوهواپیمابر لینکلن  @Navy_Iranian
-11:40
 1405/07/17
