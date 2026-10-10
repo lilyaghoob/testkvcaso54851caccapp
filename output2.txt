@@ -1,6 +1,88 @@
+src :@P_raetorio
+‏به گزارش خبرگزاری فرانسه، دست‌کم 5 نفر در پی جراحات وارده در فرودگاه بر اثر حمله حوثی‌ها، در بخش مراقبت‌های ویژه در ریاض تحت درمان هستند.
+‏
+‏پ.ن: بستری در در ICU/CCU نشان‌دهنده جراحات شدید و احتمالاً وخیم بودن وضعیت آن ها است.
+‏
+‏#خبر
+‏
+‏@P_raetorio
+19:01
+1405/07/18
+
+
+
+
+src :@didarnews1
+‏🔴منابع عربی از شنیده‌شدن صدای چند انفجار در اطراف ریاض پایتخت عربستان خبر می‌دهند
+‏
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+19:00
+1405/07/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏A U.S. Army exercise involving 9,700 soldiers in California exposed major shortcomings in its push toward AI-powered warfare.
+‏
+‏Drones overheated, batteries failed, communications broke down, and experimental equipment struggled. Some drones operated without AI or autonomous capabilities.
+‏
+‏Despite billions spent on modernization, the Army continues to struggle with unreliable technology, bureaucratic delays and outdated systems.
+‏
+‏Officials acknowledged the setbacks but said improvements in communications, AI-assisted planning and data sharing were showing progress.
+‏
+‏Source: WSJ
+19:00
+1405/07/18
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏خبرگزاری فرانسه به نقل از یک منبع بیمارستانی در ریاض گزارش داد در حمله حوثی‌ها به فرودگاه ریاض، پایتخت عربستان سعودی، ده‌ها نفر زخمی شدند و دست‌کم پنج نفر از آن‌ها در بخش مراقبت‌های ویژه بستری هستند.
+‏
+‏این منبع گفت بیشتر زخمی‌ها شهروند عربستان سعودی هستند و هر پنج نفری که در بخش مراقبت‌های ویژه بستری شده‌اند نیز تابعیت این کشور را دارند.
+‏https://iranintl.com/202610100506
+19:00
+1405/07/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏طبق برخی گزارشات انفجارهایی جدید در حومه شهر ریاض، پایتخت عربستان سعودی، رخ داده است
+18:59
+1405/07/18
+
+
+
+
+src :@jangaavaran1390
+‏آلمان، کانادا و اسپانیا به شهروندان خود توصیه کرده‌اند از عبور از فرودگاه بین‌المللی ملک خالد در ریاض خودداری کنند؛ علت: افزایش حملات به زیرساخت‌های هوایی عربستان.
+18:58
+1405/07/18
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏A Saudi Leonardo AW139 helicopter is carrying out a medical evacuation mission. It took off from Terminal 3 at King Khalid International Airport in Riyadh, heading to the emergency department.
+18:57
+1405/07/18
+
+
+
+
+src :@P_raetorio
+‏منابع محلی از شنیده شدن چند انفجار دیگر در شهر ریاض خبر می دهند 
+‏
+‏@Minas_Tirith2024
 18:57
 1405/07/18
 
@@ -27,7 +109,7 @@ src :@Minas_Tirith2024
 
 
 src :@MilitarryWorld
-‏⭕️فارس: متاسفانه اعزام زائران حج به دلیل مشکلات پرواز و تامین ارز به تعویق افتاد
+‏🔴فارس: متاسفانه اعزام زائران حج به دلیل مشکلات پرواز و تامین ارز به تعویق افتاد
 ‏
 ‏@MilitarryWorld | Maverick
 18:56
@@ -2074,17 +2156,6 @@ src :@mohem_mat
 src :@tabzlive
 [عکس]
 ‏🇩🇪⚡️ — The word "ragebait" has been named Germany's Youth Word of the Year for 2026.
-17:07
-1405/07/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏گزارش‌ها از اختلال گسترده در تردد هوایی فرودگاه بین‌المللی ملک خالد در ریاض، پایتخت عربستان سعودی، در پی حمله حوثی ها حکایت دارند. بر اساس اطلاعات منتشرشده، پروازهای ورودی به این فرودگاه به مقصدهای دیگر تغییر مسیر داده‌اند و فرودگاه از حدود ۱۱۵ دقیقه پیش از انتشار گزارش تعطیل بوده است. همچنین از میان ۴۰۰ پروازی که قرار بود به این فرودگاه برسند، لغو ۸۸ پرواز گزارش شده و چندین هواپیمای دیگر نیز در انتظار تعیین تکلیف وضعیت پرواز خود هستند
-‏
-‏🆔@WAR_ROOM_NEWS
 17:07
 1405/07/18
 
@@ -5746,19 +5817,6 @@ src :@cataphract1
 
 
 
-src :@P_raetorio
-[عکس]
-‏سرلشکر محسن رضایی، دبیر شورای عالی امنیت ملی:
-‏
-‏وقتی پس از شکست و تحقیر در برابر ایران، به آتن می‌روند تا روایتی از جنگ تمدنی را شکل دهند، بهتر است بخش مهم دیگری از تاریخ را هم بخوانند: جایی‌که امپراطور روم، در برابر شاپور اول ساسانی زانو زد. کسی که پای تاریخ را به میان می‌کشد، باید برای تکرارش هم آماده باشد!
-‏
-‏@Minas_Tirith2024
-23:04
-1405/07/17
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏تنگه هرمز بسته است و نیرو‌های مسلح جمهوری اسلامی ایران بر آن تسلط کامل دارند.
@@ -6327,17 +6385,4 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 19:02
-1405/07/17
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The terrorist organization Popular Front for the Liberation of Palestine (PFLP): We agreed with Fatah and Hamas to postpone the elections in the Palestinian Authority by a year.
-‏
-‏Meanwhile, Hussein al-Sheikh, deputy to Palestinian Authority President Mahmoud Abbas (Abu Mazen), informed French officials that the legislative elections scheduled for November 28, 2026, would be postponed by “several months”, citing deteriorating political, security and economic conditions.
-‏
-‏The conflicting timelines leave the new election date unclear. The vote would have been the first legislative election in the West Bank in 20 years.
-19:01
 1405/07/17
