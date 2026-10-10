@@ -1200,24 +1200,6 @@ src :@Indypersian
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏Over the past 24 hours, 104 military aircraft were detected in the region, including 12 transport aircraft that arrived from outside the region: 8 American, one Kuwaiti, one French, one British and one German. In addition, there were 7 regional military transport aircraft, 29 refueling aircraft, 15 reconnaissance aircraft, 3 fighter jets, 33 military transport aircraft that moved within the region, and 5 military helicopters.
-00:31
-1405/07/18
-
-
-
-
-src :@Alibk3
-[عکس]
-‏خلال آخر 24 ساعة، رُصدت 104 طائرة عسكرية في المنطقة، بينها 12 طائرة نقل وصلت من خارجها، منها 8 أميركية وواحدة كويتية وواحدة فرنسية وواحدة بريطانية وواحدة ألمانية، إضافة إلى 7 طائرات نقل عسكري إقليمي و29 طائرة تزود بالوقود و15 طائرة تجسس و3 مقاتلات و33 طائرة نقل عسكري تنقّلت داخل المنطقة و5 مروحيات عسكرية.
-00:31
-1405/07/18
-
-
-
-
 src :@wfwitness
 ‏⚡️🇷🇺🇺🇸🇺🇦🇮🇷 TASS: Russian President Putin has confirmed Moscow’s readiness to supply oil and petroleum products to the US and global markets following a telephone conversation with US President Donald Trump.  The Kremlin said Putin had reaffirmed Russia’s readiness…
 00:30
