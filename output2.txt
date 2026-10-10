@@ -1,3 +1,134 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇱🇱🇧 - Drone alert near northern Israel's Nahal Betzet. Likely a false alert.
+‏
+‏@GeoPWatch
+20:36
+1405/07/18
+
+
+
+
+src :@ClashReport
+‏Iran’s Islamic Revolutionary Guard Corps (IRGC) says a supertanker carrying crude oil struck a naval mine while attempting to leave the Strait of Hormuz through an "unauthorized route."
+20:36
+1405/07/18
+
+
+
+
+src :@jangaavaran1390
+‏گزارشگر: شما گفته بودید که قبل از انتخابات میان‌دوره‌ای به ایران حمله نخواهید کرد. آیا این حمله اخیر در عربستان سعودی این موضوع را تغییر داد؟
+‏
+‏ترامپ: ما این موضوع را بررسی خواهیم کرد.
+20:35
+1405/07/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump Suggests Ukraine Replace Zelensky With a Leader Who Can Make a Deal
+‏
+‏Trump’s call for a leadership change in Kyiv follows a dispute over Ukrainian refinery strikes and his diesel agreement with Putin, as US-mediated peace talks continue.
+‏
+‏READ MORE
+20:35
+1405/07/18
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸⚡️- President Trump's response on Truth Social to not winning the Nobel Peace Prize
+20:35
+1405/07/18
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏✍️🇮🇷🇹🇷 Since we're reflecting on our successes now, I'd like to mention that there was a time our posts on Turkish people's' attitude to the Iran war was used by the (former) newspaper t24 as a source for one of their articles.
+‏
+‏(The newspaper's website was taken down by Erdogan's government in Turkey last week.)
+20:35
+1405/07/18
+
+
+
+
+src :@rnintel
+‏🇮🇷🇴🇲⚡️- Iran's Revolutionary Guard says a crude oil supertanker struck a mine in the Strait of Hormuz and is now on fire.
+20:35
+1405/07/18
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ در رابطه با حمله به ایران: همه گزینه‌ها را بررسی می‌کنیم
+‏
+‏@MilitarryWorld | Parsa
+20:35
+1405/07/18
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — IRGC Navy announces an oil tanker loaded with crude oil struck a naval mine while transiting a route not approved by the IRGC Navy in the Strait of Hormuz.
+20:34
+1405/07/18
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦‏وزارة الخارجية السعودية تدعو المواطنين الذين تأثرت رحلاتهم أو تعذّر وصولهم إلى وجهاتهم نتيجة إيقاف أو تأخر بعض الرحلات المتجهة إلى مطار الملك خالد الدولي إلى التواصل مع بعثات المملكة في الدول المتواجدين فيها، وذلك لطلب المساعدة وتقديم الإرشادات اللازمة.
+20:34
+1405/07/18
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏🏭 تعدادی از ابرشرکت‌های صنعتی ایران که پیش از انقلاب ۱۳۵۷ با هزاران کارگر و ظرفیت تولید بالا فعالیت می‌کردند، اما در سال‌های پس از انقلاب به‌تدریج با افول، تعطیلی کارخانه‌ها یا توقف تولید مواجه شدند.
+‏
+‏
+‏@rus_cosmos
+20:33
+1405/07/18
+
+
+
+
+src :@selena_updates
+[عکس]
+‏US President Donald Trump issued a lengthy statement after not receiving the Nobel Peace Prize and attacked the leftist Nobel Laureate:
+‏
+‏No one knows anything about her, except for her hatred of Israel.
+‏
+‏I don't know what this woman has done. I have resolved conflicts in 8 wars and brought hostages home. I deserve to receive 8 Nobel Prizes, not just one.
+‏
+‏Full statement attached
+20:33
+1405/07/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏پیش از اینکه این حمله رو به حوثیا نسبت بدیم باید بگیم این حمله متعلق به سپاهه علناً جمهوری اسلامی به عربستان داره حمله می‌کنه،تا چند روز پیش تاسیسات آرامکو که مهمترین قطب اقتصادی انرژی عربستان از حملات جمهوری اسلامی مصون بود ولی الان داریم می‌بینیم در پی اون…
+20:32
+1405/07/18
+
+
+
+
 src :@naya_foriraq
 ‏🇮🇷الحرس الثوري: استهداف سفينة في مضيق هرمز بلغم بحري.
 20:31
@@ -110,7 +241,7 @@ src :@bricsnews
 
 
 src :@MilitarryWorld
-‏⭕️ ترامپ: زمان آن رسیده که اوکراین رئیس‌جمهور جدیدی داشته باشد!
+‏🔴ترامپ: زمان آن رسیده که اوکراین رئیس‌جمهور جدیدی داشته باشد!
 ‏
 ‏زلنسکی بارها می‌توانست جنگ اوکراین را پایان دهد، اما نخواست.
 ‏
@@ -1066,15 +1197,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-[عکس]
-‏🇾🇪❌🇾🇪 — Ansarallah has published photos of pro-PLC forces surrendering and their weaponry captured in Same, al-Salu, and al-Mawasit districts, southeast of Ta'izz city, southwestern Yemen.
-19:37
-1405/07/18
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🇾🇪🇸🇦⚡️خبرگزاری فرانسه به نقل از منابع آگاه گزارش داد پزشکان در بیمارستان‌های سراسر ریاض برای رسیدگی به یک وضعیت اضطراری جدی فراخوانده شده‌اند.بر اساس این گزارش، ده‌ها نفر که بیشتر آن‌ها شهروندان سعودی هستند، زخمی شده‌اند. دست‌کم پنج نفر در بخش مراقبت‌های ویژه بستری هستند و شماری از مجروحان نیز با بالگرد به بیمارستان منتقل شده‌اند
 ‏
@@ -1219,18 +1341,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-‏Yemen’s Houthis struck Riyadh’s King Khalid International Airport on Saturday, directly hitting Terminal 3, causing injuries and forcing its evacuation.
-‏
-‏Saudi officials are increasingly concerned that continued attacks could damage the economy, disrupt tourism and business travel, and strain limited missile interceptor supplies.
-‏
-‏Source: WSJ
-19:27
-1405/07/18
-
-
-
-
 src :@mwarmonitor
 ‏🔴 بلومبرگ: ایران با وجود ماه‌ها حملات، تأسیسات تولید موشک و پهپاد خود را حفظ کرده است.
 ‏
@@ -1359,25 +1469,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏Ukraine is losing jets to its own missiles. 
-‏
-‏Soviet-era R-60s from the 1960s are exploding on launch, says Come Back Alive chief Taras Chmut. 
-‏
-‏Chmut said Ukraine lacks modern short-range air-to-air missiles like the AIM-9 Sidewinder, forcing pilots to use Cold War–era R-60s and R-73s against Russian drones and cruise missiles. 
-‏
-‏"It's an old Soviet missile from the 60s that can explode at the moment of launch. And there have been such cases — we have lost several planes because of this." 
-‏
-‏A confirmed case: a MiG-29 crashed near Odesa on 10 August 2026 after catching fire during missile launch on an anti-drone mission — the pilot ejected injured but alive. 
-‏
-‏Chmut said there is "currently no alternative."
-19:17
-1405/07/18
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -1473,19 +1564,6 @@ src :@Artemis_Force
 ‏نکته مهم اینکه توان دقیق نفوذ کلاهک همچنان محرمانه است و تعداد موشک‌ها، ارزش قرارداد و زمان تحویل نیز هنوز اعلام نشده است.
 ‏
 ‏#آمریکا #تاماهاوک #موشک_کروز #نیروی_دریایی #موشک #کلاهک_نفوذگر #جنگاوران
-19:15
-1405/07/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: The first Russian diesel cargo heading for the US left St. Petersburg on 22 September, two weeks before Trump announced the deal. 
-‏
-‏The Greek-flagged tanker MINERVA ZEN is carrying ~275,000 barrels of diesel/gasoil and is due at the US East Coast around 11–12 October. 
-‏
-‏Analysts note the promised volumes are still only days’ worth of US distillate demand, and Russian diesel output has been cut by Ukrainian refinery strikes.
 19:15
 1405/07/18
 
@@ -3235,14 +3313,6 @@ src :@Shin_Persian
 
 
 
-src :@rnintel
-‏🇾🇪❌🇸🇦 — A Reuters eyewitness reported a loud blast at Riyadh’s King Khalid International Airport.
-16:49
-1405/07/18
-
-
-
-
 src :@mohem_mat
 ‏خبرنگار المانیتور:
 ‏
@@ -3442,19 +3512,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@jangaavaran1390
-‏​بهترین دژ؛ همانا پرهیز از برانگیختنِ نفرت در مردم است. زیرا هیچ دژی تو را در امان نخواهد داشت اگر که مردم از تو بیزار باشند. 
-‏
-‏آن‌گاه که مردم دست به سلاح برند، کم نخواهند بود بیگانگانی که به یاریِ ایشان بشتابند.
-‏
-‏#نیکولو_ماکیاولی
-‏@taseyan
-16:35
-1405/07/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️سخنگوی کرملین، روز شنبه ۱۸ مهر ماه اعلام کرد، ولادیمیر پوتین، رئیس‌جمهوری روسیه در هماهنگی با مسعود پزشکیان موضع تهران درباره راه‌های احتمالی پایان جنگ ایران و آمریکا را به دونالد ترامپ، رئیس‌جمهوری آمریکا، منتقل کرده است.
@@ -3541,18 +3598,6 @@ src :@Indypersian
 ‏بیشتر بخوانید...
 ‏
 ‏@indypersian
-16:13
-1405/07/18
-
-
-
-
-src :@MilitarryWorld
-‏🔴معاریو: 
-‏
-‏ترامپ از اسرائیل خواست پیش از انتخابات میان‌دوره‌ای بدون مشارکت آمریکا به ایران حمله کند
-‏
-‏@MilitarryWorld | Parsa
 16:13
 1405/07/18
 
@@ -5564,21 +5609,6 @@ src :@OSINTWarfare
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸🌪❗️ -  Hurricane Isaias is approaching landfall along Florida’s Gulf Coast, with winds reaching 115 mph (185 km/h) within its eyewall.
-‏
-‏The National Weather Service has issued an Extreme Wind Warning affecting over 582,000 people, describing the situation as life-threatening.
-‏
-‏Power outages are already widespread, with reportedly nearly 67% of customers in Escambia County (Pensacola) without electricity. Outages are expected to increase as the hurricane makes landfall.
-‏
-‏@GeoPWatch
-03:40
-1405/07/18
-
-
-
-
 src :@mamlekate
 ‏📝 ترامپ با تاکید بر «کنترل کامل» تنگه هرمز توسط آمریکا از توافق با پوتین برای عرضه میلیون‌‌ها تن گازوئیل خبر داد
 ‏
@@ -6234,23 +6264,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 22:21
-1405/07/17
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇵🇰⚡️— Ansar Allah Warns Pakistan 
-‏
-‏We will show no mercy to your soldiers if they come to our country to commit aggression alongside the Saudis.
-‏
-‏Bassam Al-Saqqaf is a prominent official aligned with the Ansar Allah in Yemen. 
-‏
-‏He serves as the Director of the Public Works and Roads Office in Yemen's Ibb Governorate, A Region under the Administrative Control of the Ansar Allah-led government.
-‏
-‏🔴 @Alsaa_plus_EN
-22:17
 1405/07/17
 
 
