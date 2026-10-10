@@ -1,3 +1,78 @@
+src :@tabzlive
+‏🇾🇪🇸🇦⚡️ — Aircraft descending into King Abdulaziz Intl. Airport, Jeddah and Taiz Intl. Airport, Taiz are currently in holding patterns. Over 10 aircraft are avoiding landing at King Abdulaziz Intl. Airport.
+‏
+‏Possible Ansarallah UAVs/ballistics towards King Abdulaziz Intl. Airport and/or King Fahd AB.
+20:05
+1405/07/18
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | شنبه ۱۸ مهر
+‏@iranintlTV
+20:04
+1405/07/18
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Saudi Civil Aviation:
+‏
+‏Operations at Riyadh Airport have been temporarily suspended.
+‏
+‏The attack on King Khalid International Airport in Riyadh resulted in several injuries.
+20:04
+1405/07/18
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦طيران المدني السعودي: تعليق العمليات التشغيلية مؤقتا في مطار الملك خالد الدولي.
+20:04
+1405/07/18
+
+
+
+
+src :@Alibk3
+[عکس]
+‏‏الطيران المدني السعودي: 
+‏
+‏تعليق العمليات التشغيلية مؤقتا في مطار الرياض
+‏
+‏الهجوم على مطار الملك خالد الدولي في الرياض أسفر عن وقوع عدد من الإصابات
+20:04
+1405/07/18
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏ساخت اولین ناو FDI برای نیروی دریایی سوئد در فرانسه آغاز شد
+‏
+‏مراسم برش اولیه فولاد برای اولین ناو کلاس لولئو ( FDI) که برای نیروی دریایی سوئد طراحی شده است، در کارخانه Naval Group در شهر لوریان برگزار شد
+‏
+‏این کارها یک ماه پس از امضای قرارداد آغاز شده است، در تاریخ 31 آگوست، سوئد سفارش ساخت چهار فریگیت FDI را داده بود و انتظار می‌رود اولین آن‌ها در سال 2030 به نیروی دریایی تحویل داده شود
+‏
+‏هزینه این برنامه حدوداً 4.3 میلیارد یورو تخمین زده شده است. تحویل هر ۴ ناو از این ناوها باید تا 2034 انجام شود
+‏
+‏ناوهای FDI سوئد بر اساس پلتفرم فرانسوی Defence and Intervention Frigate ساخته خواهند شد و دارای مجموعه‌ای از سامانه‌های تسلیحاتی و تجهیزات الکترونیکی خود سوئد خواهند بود. به طور خاص، ادغام رادار 1X (Saab Giraffe 1X)، موشک‌های ضدکشتی RBS-15 و سیستم‌های توپخانه‌ای Bofors پیش‌بینی شده است
+‏
+‏این ناوهای جدید قرار است به طور قابل توجهی توانایی‌های نیروی دریایی سوئد را،به ویژه در زمینه‌های دفاع هوایی و ضد زیردریایی، که دو حوزه بسیار مهم برای عملیات در دریای بالتیک و در جناح شمالی ناتو هستند،افزایش خواهد داد
+‏
+‏@artemis_force
+20:03
+1405/07/18
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏11 aircraft avoiding landing at Jeddah Airport
@@ -842,24 +917,6 @@ src :@Ali_bk_2
 src :@Alibk3
 ‏أعمدة الدخان تتصاعد من مطار الرياض
 19:25
-1405/07/18
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏An aircraft over Oman squawks 7600, indicating a loss of radio communication between the aircraft and air traffic control.
-19:23
-1405/07/18
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرة فوق عُمان تطلق نداء 7600، فقدان الاتصال اللاسلكي بين الطائرة والمراقبة الجوية.
-19:23
 1405/07/18
 
 
@@ -1833,14 +1890,6 @@ src :@intelslava
 
 
 
-src :@naya_foriraq
-‏القوات المسلحة اليمنية: ترقبوا الساعة السابعة مساءً مشاهد تأمين ما تبقى من مديريات سامع والصلو والمواسط ولحظات تسليم مجاميع من تحشيدات العدو السعودي للقوات المسلحة استجابة لقرار العفو العام
-18:17
-1405/07/18
-
-
-
-
 src :@rnintel
 ‏🇾🇪🇸🇦⚡- More than a dozen ambulances are on the ground at King Khalid International Airport, Riyadh.
 18:16
@@ -2465,20 +2514,6 @@ src :@intelslava
 ‏Locals report several casualties and significant ambulance activity near the airport. Witnesses describe blood everywhere.
 ‏
 ‏@IntelSlava
-17:32
-1405/07/18
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏محسن اراکی، عضو مجلس خبرگان، ضمن انتقاد از محمدجعفر قائم‌پناه، معاون اجرای مسعود پزشکیان به‌دلیل حضور در جشن سفارت عربستان سعودی در تهران، گفت: «نمی‌توان از حمایت مظلومان سخن گفت، اما در برابر ظلم به مردم یمن سکوت کرد.»
-‏
-‏به گزارش خبرگزاری مهر، اراکی ادامه داد: «در شرایطی که عربستان سعودی به مردم یمن ظلم می‌کند، حضور یک مقام دولتی در مراسم جشن سفارت این کشور، با ضرورت اعلام حمایت از مظلومان سازگار نیست و این مساله نیازمند توجه جدی مسئولان است.»
-‏
-‏این عضو مجلس خبرگان افزود: «بازخوانی نهج‌البلاغه از سوی رییس‌جمهور، باید در رفتار و تصمیم‌های مسئولان نیز نمود داشته باشد و مواضع اعلامی با عملکرد عملی آنان همخوانی پیدا کند.»
-‏https://iranintl.com/202610103538
 17:32
 1405/07/18
 
@@ -3612,19 +3647,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 16:05
-1405/07/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Steve Witkoff and Jared Kushner threatened to cut off intelligence sharing with Ukraine if Kyiv continued striking Russian oil refineries despite repeated requests from Trump to stop, a Ukrainian official told Axios.
-‏
-‏A U.S. official denied that any such threat was made, saying the envoys instead stressed that Washington provides Ukraine with intelligence and munitions and that Kyiv should avoid actions that harm American consumers.
-‏
-‏Source: Axios
-16:04
 1405/07/18
 
 
@@ -6342,19 +6364,6 @@ src :@OSINTWarfare
 ‏
 ‏🔴 @Alsaa_plus_EN
 22:17
-1405/07/17
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏مراسم آب‌اندازی زیردریایی «شُگهی» (SS-519) از نوع «تایگئی» که برای نیروی دریایی ژاپن ساخته می‌شود، در کارخانه کشتی‌سازی شرکت ژاپنی «کاواساکی هیوری اینداستریز» در شهر کوبه برگزار شد.
-‏
-‏آغاز مونتاژ بدنه این زیردریایی در ۱۷ آوریل ۲۰۲۴ انجام شد و تحویل آن به نیروی دریایی ژاپن برای ماه مارس ۲۰۲۸ برنامه‌ریزی شده است.
-‏
-‏@artemis_force
-22:10
 1405/07/17
 
 
