@@ -1,3 +1,38 @@
+src :@Mena_Live
+[عکس]
+‏The building hit by a Houthi ballistic missile at King Khaled International Airport is Terminal 3
+‏
+‏@Mena_Live
+18:35
+1405/07/18
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇺🇸/🇺🇦 NEW: The U.S. has threatened Ukraine that any strikes on Russian refineries would be met with a decrease in intelligence sharing – Financial Times
+‏
+‏@Middle_East_Spectator
+18:34
+1405/07/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Training Canceled for Budget Cuts. Now British Army Lacks Tank Commanders
+‏
+‏Budget-driven training cancellations have left the British Army short of qualified tank commanders, potentially keeping a third of its Challenger 2 fleet out of action.
+‏
+‏READ MORE
+18:34
+1405/07/18
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Riyadh Airport has been shut down for around 4 hours, with 59 scheduled arrivals cancelled.
@@ -10,6 +45,23 @@ src :@Ali_bk_2
 src :@Alibk3
 [عکس]
 ‏مطار الرياض متوقف منذ نحو 4 ساعات، 59 طائرة كانت مجدولة للوصول وألغيت.
+18:32
+1405/07/18
+
+
+
+
+src :@jangaavaran1390
+‏جنگاوران pinned a photo
+18:32
+1405/07/18
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏🇫🇷🇯🇵 A French and a Japanese scientists were awarded the Nobel prize in chemistry for inventing a way to control exact shapes of mirror molecules, which is highly useful in manufacturing of advanced drugs.
 18:32
 1405/07/18
 
@@ -2351,22 +2403,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇪🇺🇺🇦🇷🇺🇺🇸⚡️ — EU’s foreign policy chief Kaja Kallas:
-‏Russian strikes killed over 80 Ukrainian civilians in two days. Moreover, it has stepped up its hybrid attacks against Europe, both EU Member States and NATO Allies.
-‏
-‏Suspending sanctions on Russian diesel provides Moscow with more revenues to wage war. 
-‏
-‏This is not the time to ease pressure on Russia, and Europe won’t. 
-‏
-‏On Monday, EU Foreign Ministers intend to approve the biggest set of sanctions listings targeting Russia’s war machine since the start of the war.
-16:35
-1405/07/18
-
-
-
-
 src :@jangaavaran1390
 ‏​بهترین دژ؛ همانا پرهیز از برانگیختنِ نفرت در مردم است. زیرا هیچ دژی تو را در امان نخواهد داشت اگر که مردم از تو بیزار باشند. 
 ‏
@@ -3863,33 +3899,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏بالگرد بدون‌سرنشین HUNTER ساخت بلاروس، یک سامانه شناسایی و تهاجمی است که توسط دفتر طراحی «بالگردهای بدون‌سرنشین» توسعه یافته و نخستین بار در سال ۲۰۲۱ به نمایش درآمد. این بالگرد برای مأموریت‌های نظامی، مراقبت مرزی و شناسایی اهداف طراحی شده است.
-‏
-‏ مشخصات و قابلیت‌ها
-‏
-‏* وزن برخاست: حداکثر ۷۵۰ کیلوگرم
-‏
-‏* ظرفیت حمل محموله: تا ۲۰۰ کیلوگرم
-‏
-‏* قطر ملخ اصلی: ۷ متر
-‏
-‏* سرعت بیشینه: حدود ۱۸۰ تا ۱۹۰ کیلومتر بر ساعت، طبق اطلاعات منتشرشده
-‏
-‏* مأموریت‌ها: شناسایی، مراقبت و پایش، تعیین موقعیت هدف و حمل تجهیزات یا تسلیحات..این بالگرد مسلسل و توپ و راکت را می‌تواند حمل کند
-‏
-‏نکته مهم این است که HUNTER یک پهپاد کوچک معمولی نیست؛ با توجه به وزن و ظرفیت حمل آن، در رده بالگردهای بدون‌سرنشین سنگین قرار می‌گیرد. این سامانه می‌تواند بدون به خطر انداختن خدمه، برای مدت طولانی در منطقه مأموریت فعالیت کند.
-‏
-‏طبق اطلاعات منتشرشده از سوی سازنده در سپتامبر ۲۰۲۶، این بالگرد همچنان پروازهای نمایشی انجام می‌دهد. بااین‌حال، نمایش آن در کنار هیئت ایرانی در مینسک، به‌تنهایی نشان‌دهنده خرید، همکاری نظامی یا توافق انتقال فناوری میان دو کشور نیست.
-‏
-‏اریا
-12:28
-1405/07/18
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‌‌‌‌‌‌‌‏ ‌‏ ‏
 ‏⁠گزارش تحلیلی هفته؛ «تراستی‌ها»، فاسدان معتمد و مورد «وثوق» نظام!
@@ -4319,20 +4328,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@guard_warriors
-‏کمیته بودجه‌ای پارلمان آلمان (بوندستاگ) از خرید چهار فریگیت دیگر از ناوهای MEKO A-200 DEU برای نیروی دریایی آلمان، حمایت کرد.
-‏
-‏این امر، تعداد کل ناوهای برنامه‌ریزی‌شده از نوع MEKO A-200 DEU را به هشت فریگیت می‌رساند. 
-‏
-‏اولین ناو از این نوع، قرار است در سال 2029 تحویل داده شود.
-‏
-‏@artemis_force
-11:26
-1405/07/18
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏☪️🇦🇿 — Azerbaijan is imposing restrictions on the wearing of hijab in schools.
@@ -4369,23 +4364,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 11:18
-1405/07/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Indian police detained Cockroach Janta Party founder Abhijeet Dipke, two other leaders and dozens of protesters ahead of a banned demonstration in New Delhi.
-‏
-‏The youth movement demands the resignation of chief election commissioner Gyanesh Kumar over a voter list revision that has removed more than 130 million names.
-‏
-‏Opposition groups allege voter manipulation, which the government denies.
-‏
-‏Authorities deployed thousands of police officers, blocked roads and suspended mobile internet to prevent the protest.
-‏
-‏Source: Reuters
-10:57
 1405/07/18
 
 
@@ -4803,17 +4781,6 @@ src :@cataphract1
 
 
 
-src :@guard_warriors
-[عکس]
-‏✪ آموزش‌های نیروهای مسلح ارتش خلق چین برای مقابله با پهپادها
-‏
-‏@Guard_Warriors | Mmd
-09:22
-1405/07/18
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇺🇦🇺🇸⚡️ — I believe our team is simply being used as a smokescreen. This is unfair, unprofessional, and, in my opinion, a weak decision by strong partners, Zelensky continues to complain about the agreement between the United States and Russia.
@@ -4907,27 +4874,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 07:32
-1405/07/18
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏American society is deeply troubled. I had no idea how bad it was.
-‏
-‏Today I found out that 14% (!!!) of all 18-24 year old women in the U.S. are pornographic content creators on OnlyFans. That’s 1 in 7 women.
-‏
-‏Insane statistic.
-06:12
-1405/07/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇷🇺 BREAKING: President Trump announces that Russia will provide the United States with almost 5 millions tons of diesel fuel  The agreement was reached after a ‘highly successful discussion’ with President Vladimir Putin.  @Middle_East_Spectator
-06:03
 1405/07/18
 
 
@@ -5253,15 +5199,6 @@ src :@Mena_Live
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇾🇪❌🇸🇦 - Ansarallah BM launches from Yemen to Saudi Arabia.  @GeoPWatch
-02:06
-1405/07/18
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨⭕️ ساکنان شرق تهران گزارش دادند آدینه‌شب ۱۷ مهرماه، جایی حوالی تهران‌پارس پس از تیراندازی صدای انفجار به گوش رسید. 
@@ -5530,15 +5467,6 @@ src :@Americana_ir
 
 
 
-src :@rnintel
-[عکس]
-‏MINIMAP.TECHNOLOGY
-23:57
-1405/07/17
-
-
-
-
 src :@Mena_Live
 ‏The UAE economy is projected to rebound by 9.5 per cent in 2027 after contracting 1.6 per cent this year, according to the World Bank.
 ‏
@@ -5645,15 +5573,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:35
-1405/07/17
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇧🇷🤩🎮 — Senator Flávio Bolsonaro shares, on his Instagram stories, a motorcade of supporters held in the game Roblox.
-23:32
 1405/07/17
 
 
