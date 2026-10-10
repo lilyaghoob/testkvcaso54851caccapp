@@ -133,33 +133,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-‏Zelensky to Axios:
-‏
-‏What did Trump get? That he will have more diesel? For whom? More Russian diesel for Americans? It shows weakness of the world.
-03:11
-1405/07/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: The State Department’s inspector general is investigating U.S. Ambassador to Greece Kimberly Guilfoyle and the embassy she leads.
-‏
-‏The probe comes after longtime Trump donor Eric Deters accused Guilfoyle of requesting $100,000 to pay her American Express bill before her 2025 confirmation hearing, allegedly in exchange for access to senior Trump administration officials.
-‏
-‏Deters provided messages appearing to show Guilfoyle instructing him to wire the money directly to American Express so it “won’t show up anywhere.” He said he never paid.
-‏
-‏A senior diplomatic official described the investigation as rare and said it had alarmed State Department officials.
-‏
-‏Source: NBC News
-03:08
-1405/07/18
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻کریستیانو رونالدو در نخستین بازی خود پس از ترک پرحاشیه اردوی تیم ملی پرتغال، در پیروزی ۳ بر صفر النصر مقابل الدریه در لیگ حرفه‌ای عربستان سعودی گلزنی کرد. این گل شماره ۹۸۰ فوق‌ستاره بود.
@@ -440,21 +413,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 02:13
-1405/07/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Kalshi is investigating suspicious bets that correctly predicted Trump’s appointment of Katie Zacharia as White House press secretary.
-‏
-‏Three bets totaling just $173 were placed shortly before the announcement and are expected to pay out about $9,600.
-‏
-‏Zacharia was not considered a front-runner, with prediction markets giving her roughly a 1% chance of securing the position.
-‏
-‏Source: WSJ
-02:12
 1405/07/18
 
 
@@ -860,19 +818,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇷🇺⚡️ — President Trump and Russian President Vladimir Putin discussed major economic initiatives in their recent call, including the oil deal. 
-‏
-‏Putin reiterated Russia's willingness to pursue a diplomatic settlement in Ukraine aimed at achieving lasting peace. However, Putin told Trump that, following Ukrainian attacks on election day, Russia would have to reconsider when negotiations could resume.
-‏
-‏Putin aide Ushakov said no date had been discussed for another Trump-Putin meeting.
-01:10
-1405/07/18
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏🇺🇦 🇷🇺⚡️— A senior Ukrainian official says Kyiv will continue its long-range drone strikes on Russian energy facilities: “We will burn their refineries.” Source: FT
@@ -889,14 +834,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 01:07
-1405/07/18
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — Salvo of IRGC Navy anti-ship cruise missile launches from Sirik, Iran towards the Strait of Hormuz.
-01:05
 1405/07/18
 
 
@@ -1026,24 +963,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:03
-1405/07/18
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇶🇺🇸🇮🇶⚡️ — Kata'ib Hezbollah announces on October 8, 11-12 U.S. military aircraft conducted sorties above Iraqi airspace. The aircraft took off from bases in Jordan, Türkiye, Israel, Kuwait, and KSA. Notable increase in numbers of both aircraft and bases.
-‏
-‏- 2 F-35A Lightning II fighter jets
-‏- 2 MQ-1C Gray Eagle UCAVs
-‏- 2 E-11A BACN communications aircraft
-‏- 1 RQ-4C reconnaissance UAV
-‏- 3 KC-135 Stratotanker aerial refueling aircraft
-‏- 1 C-130 transport aircraft
-‏
-‏A DHC-8 aircraft is also listed, but this is highly likely a civilian aircraft. Small chance it is a E-9A reconnaissance aircraft.
-01:01
 1405/07/18
 
 
@@ -6430,25 +6349,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 04:46
-1405/07/17
-
-
-
-
-src :@mwarmonitor
-‏🔴  پنتاگون اعلام کرد اعدام نضال مالک حسن، عامل تیراندازی پایگاه فورت هود، با جوخه آتش به‌صورت زنده پخش خواهد شد.
-‏بر اساس گزارش‌های منتشرشده در ۸ اکتبر ۲۰۲۶، قرار است این اعدام در تاریخ ۳ دسامبر ۲۰۲۶ در پایگاه نظامی فورت هود در ایالت تگزاس انجام شود. 
-‏
-‏نضال مالک حسن کیست؟
-‏او روان‌پزشک ارتش آمریکا با درجه سرگرد بود که در ۵ نوامبر ۲۰۰۹ در پایگاه نظامی فورت هود در تگزاس به سوی نیروهای نظامی تیراندازی کرد. در این حمله ۱۳ نفر کشته و ۳۲ نفر زخمی شدند. 
-‏
-‏حکم اعدام و زمان اجرای آن
-‏۲۰۱۳: دادگاه نظامی حسن را به اتهام قتل عمد ۱۳ نفر و تلاش برای قتل ۳۲ نفر دیگر مجرم شناخت و به اعدام محکوم کرد. 
-‏۲ اکتبر ۲۰۲۶: دونالد ترامپ حکم اعدام را تأیید کرد.
-‏۶ اکتبر ۲۰۲۶: مقام سرپرست وزارت ارتش آمریکا دستور اجرای حکم با جوخه آتش را صادر کرد.
-‏۳ دسامبر ۲۰۲۶، ساعت ۱۳ به وقت مرکزی آمریکا: تاریخ تعیین‌شده برای اجرای حکم در فورت هود است. پنتاگون نیز تأیید کرده که اعدام به‌صورت زنده پخش خواهد شد. 
-‏
-‏
-‏@mwarmonitor
-04:43
 1405/07/17
