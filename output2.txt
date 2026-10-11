@@ -1,4 +1,21 @@
 src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦- Saudi Arabia Airport Disruptions: 
+‏
+‏🔴 Riyadh Airport is closed.
+‏
+‏🔴 Dammam Airport is closed with no flights in the past 2 hours and only 3 landings in the past 4 hours.
+‏
+‏🟠 Jeddah Airport is experiencing major disruptions, with 156 flights cancelled and 374 delayed (49%).
+‏
+‏@GeoPWatch
+00:10
+1405/07/20
+
+
+
+
+src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - Al Arabiya has released footage of Yesterday's Ansarullah attack on Riyadh International Airport that killed at least 13 and injured 309 Civilians.  @GeoPWatch
 00:08
 1405/07/20
@@ -82,6 +99,8 @@ src :@wfwitness
 ‏⚡🇾🇪🇾🇪 Initial Reports of explosions in Sanaa.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:00
 1405/07/20
 
@@ -3046,16 +3065,6 @@ src :@thewarreporter
 
 
 
-src :@MilitarryWorld
-‏🔴محسن رضایی: می‌تونستیم تنگه هرمز رو کاملاً ببندیم، اما به دلایل انسان‌دوستانه این کار رو نکردیم
-‏
-‏@MilitarryWorld | Parsa
-19:14
-1405/07/19
-
-
-
-
 src :@selena_updates
 [عکس]
 19:12
@@ -4776,17 +4785,6 @@ src :@selena_updates
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸 - This morning Iran conducted a large BM launch exercise in different cities across Iran. Similar tests were conducted before the 28th of February, the start of the U.S-Israeli attacks on Iran.
-‏
-‏@GeoPWatch
-14:20
-1405/07/19
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏بنا بر گزارش‌های رسیده به «ایران‌وایر»، سازمان اطلاعات سپاه در «مهاباد» طی روزهای ۱۸ و ۱۹مهرماه، ده‌ها تن از زندانیان سیاسی سابق، کنش‌گران مدنی و محیط زیست و شهروندان، به‌ویژه افرادی را که در جریان خیزش «زن، زندگی، آزادی» بازداشت شده بودند، به‌صورت تلفنی احضار کرده و با اعمال فشار و تهدید، از آن‌ها تعهد کتبی برای خودداری از شرکت در اعتراضات احتمالی در شهرهای کردستان از جمله مهاباد گرفته است.
@@ -6072,12 +6070,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 00:13
-1405/07/19
-
-
-
-
-src :@thewarreporter
-‏🇸🇦🇾🇪 — The Houthis struck Riyadh's King Khalid International Airport on Saturday, hitting Terminal 3 directly, causing injuries and forcing its evacuation.  Saudi officials are increasingly concerned that continued attacks could undermine the kingdom's economy…
-00:11
 1405/07/19
