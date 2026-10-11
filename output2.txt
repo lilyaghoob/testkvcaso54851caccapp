@@ -1,3 +1,21 @@
+src :@MilitarryWorld
+‏🔴روزنامه خراسان: واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته‌اند 
+‏
+‏@MilitarryWorld | Parsa
+12:11
+1405/07/19
+
+
+
+
+src :@naya_foriraq
+‏🔻وزارة الداخلية البولندية: الشرطة تلقت معلومات عن هجوم محتمل على رئيس الوزراء ووزير الدفاع.
+12:09
+1405/07/19
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -3521,14 +3539,6 @@ src :@Mena_Live
 
 
 
-src :@naya_foriraq
-‏توقف الرحلات الجوية في الدمام-بقيق شرق السعودية
-00:25
-1405/07/19
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇾🇪❌🇸🇦 – According to NASA FIRMS, all fires but the one at Hawiyah remain active, with high FRPs and brightness values that suggests the fire are spreading, and are not under control yet.
@@ -3629,18 +3639,6 @@ src :@bricsnews
 ‏JUST IN: 🇸🇦 12 people reportedly killed and 50 injured in attack on Riyadh's international airport.
 ‏
 ‏@BRICSNews
-00:14
-1405/07/19
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ:
-‏
-‏اگه بخوایم خیلی سریع میتونیم کار ایران رو تموم کنیم، ایرانیا درک نمیکنن که تا الان چقدر باهاشون مهربون بودم
-‏
-‏@MilitarryWorld | Parsa
 00:14
 1405/07/19
 
@@ -6254,32 +6252,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/07/18/410028/
 12:14
-1405/07/18
-
-
-
-
-src :@defence_news
-[عکس]
-‏و بحث و سوال نهایی ما این است که چطور بهترین تیربار سنگین کالیبر 12.7 میلی متری جهان در کشور ما رها شده در حالی که می توانست در ماموریت های مختلف از نصب شدن بر روی برجک های نگهبانی تا مجهز کردن ادوات زرهی و حتی ماموریت های دریایی و مقابله با ریز پرنده ها و پهپادها به کار رود کنار می رود و جنس بی کیفیتی که حتی خود ارتش چین آن را نپذیرفته به کشور وارد شده است ؟!!
-‏
-‏به این مسئله #فکر کنید.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-12:10
-1405/07/18
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‌‌‌‌‏ ‌‏ ‏
-‏⁠کارتون هفته| زیباسازی جنایت
-‏
-‏
-‏از احمد بارکی زاده        
-‏ 
-‏https://kayhan.london/1405/07/18/410029/
-12:09
 1405/07/18
