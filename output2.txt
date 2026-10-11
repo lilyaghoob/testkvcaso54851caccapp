@@ -1,3 +1,16 @@
+src :@ClashReport
+[عکس]
+‏Seven bipartisan U.S. senators, led by Jeanne Shaheen, accused Trump of violating a 2022 law banning Russian energy imports by allowing Russian diesel fuel into the U.S.
+‏
+‏The senators said the administration failed to consult Congress or provide the legally required justification, warning that the imports could help finance Russia’s war against Ukraine.
+‏
+‏They demanded that the administration immediately reverse its decision.
+23:20
+1405/07/19
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏خبرگزاری تسنیم: زینب ابوطالبی از کشور خارج نشده است
@@ -25,14 +38,6 @@ src :@ClashReport
 src :@WAR_ROOM_NEWS
 ‏بازهم گزارش از حمله حوثی ها به شرق عربستان
 23:16
-1405/07/19
-
-
-
-
-src :@naya_foriraq
-‏🇸🇦انفجارات قوية تسمع بشرقي السعودية.
-23:15
 1405/07/19
 
 
@@ -1783,14 +1788,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-‏NEW: Joint Saudi-Turkish-Pakistani-Egyptian statement condemns ongoing Houthi militia attacks on Saudi Arabia, calls them a “dangerous escalation,” supports the Kingdom’s countermeasures, holds the Houthis responsible and demands they stop immediately.
-20:50
-1405/07/19
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇸🇦🇾🇪 Initial reports suggest that a Houthi cruise missile may have struck terminal 4 of the King Khalid International Airport in Riyadh, Saudi Arabia.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
@@ -2374,6 +2371,14 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 19:49
+1405/07/19
+
+
+
+
+src :@naya_foriraq
+‏الله اكبر 🇸🇦تفعيل الدفاعات الجوية في مطار الرياض.
+19:48
 1405/07/19
 
 
