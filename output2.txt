@@ -1,5 +1,20 @@
 src :@ClashReport
 [عکس]
+‏Sri Lanka says it has no immediate plans to assist 19 Iranian oil tankers stranded in international waters near its coast, despite reports of food, water and fuel shortages.
+‏
+‏The vessels have been stranded for months following the U.S. naval blockade of the Strait of Hormuz.
+‏
+‏Sri Lanka says it must prioritize national interests and consider the risk of U.S. secondary sanctions, although Washington has issued no direct warning.
+‏
+‏Source: AP
+10:28
+1405/07/19
+
+
+
+
+src :@ClashReport
+[عکس]
 ‏Western intelligence agencies have warned that Russia is stepping up assassination plots against European defense executives as part of a broader campaign of sabotage aimed at weakening support for Ukraine.
 ‏
 ‏Officials from five European intelligence agencies said senior executives, particularly those involved in drone manufacturing, are being targeted by Russian operatives.
@@ -67,6 +82,8 @@ src :@MilitarryWorld
 
 src :@WAR_ROOM_NEWS
 ‏اداره کل هواپیمایی غیرنظامی عربستان اعلام کرد حمله به فرودگاه بین‌المللی ملک خالد در ریاض، ۱۲ کشته و ۳۰۹ زخمی بر جای گذاشته است. بر اساس آمار رسمی، در میان کشته‌شدگان چهار شهروند سعودی، دو تبعه بنگلادش و اتباع آمریکا، مصر، اردن، سوریه، فلسطین و سودان، هرکدام یک نفر، حضور دارند. همچنین شماری از مجروحان در وضعیت وخیم قرار دارند و در بیمارستان‌های مختلف تحت درمان هستند. این حمله خساراتی به تأسیسات فرودگاه وارد کرده و ارزیابی میزان خسارات همچنان ادامه دارد
+‏
+‏🆔@WAR_ROOM_NEWS
 10:22
 1405/07/19
 
@@ -4050,17 +4067,6 @@ src :@mohem_mat
 ‏
 ‏@Entekhab_ir
 21:37
-1405/07/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏طبق گزارشات سامانه پدافندی تاد عربستان در رهگیری موشک بالستیک  حوثی ها به ریاض ناکام مانده است
-‏
-‏🆔@WAR_ROOM_NEWS
-21:34
 1405/07/18
 
 
