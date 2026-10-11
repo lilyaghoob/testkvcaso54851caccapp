@@ -1,3 +1,32 @@
+src :@OSINTWarfare
+[عکس]
+‏An unidentified F-15 multirole fighter, likely belonging to the U.S. Air Force, was spotted flying over Iraq.
+00:20
+1405/07/20
+
+
+
+
+src :@MilitarryWorld
+‏🔴ظریف: هرجور شده باید با آمریکا توافق کنیم
+‏
+‏@MilitarryWorld | Parsa
+00:20
+1405/07/20
+
+
+
+
+src :@samueltarikh
+[عکس]
+‏⭕️تسنیم: جنگنده‌های آمریکا و اسرائیل ساعاتی پیش از مبدأ اردن و اسرائیل وارد حریم هوایی عراق شدن. در این پروازها، ۵ هواپیمای سوخت‌رسان KC-135، دو جنگنده F-16 و دو جنگنده پیشرفته F-35 حضور داشتن.
+‏به نظر می‌رسه این پروازها با هدف تمرین و شبیه‌سازی حمله به ایران انجام شده باشن.
+00:18
+1405/07/20
+
+
+
+
 src :@samueltarikh
 ‏🚨کانال۱۳ عبری: ارتش اسرائیل در آماده باش بسیار سطح بالایی قرار دارد و خود را برای سه سناریو آماده می‌کند:
 ‏
@@ -2440,23 +2469,6 @@ src :@rus_cosmos
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏تلفات اخیر حوثی ها در جبهه های نبرد یمن،در میان آنها چند فرمانده برجسته  نیز وجود دارد
-‏
-‏#تلفات_حوثی 
-‏#یمن
-‏#امار
-‏
-‏امار قبلی تلفات 
-‏
-‏🆔@WAR_ROOM_NEWS
-20:34
-1405/07/19
-
-
-
-
 src :@naya_foriraq
 ‏🇵🇰‏رئيس وزراء باكستان: 6 من مواطنينا أصيبوا في الاعتداء على مطار الرياض.
 20:34
@@ -2862,16 +2874,6 @@ src :@tglobaleye
 ‏#BREAKING | 🇸🇦 🇾🇪 — Iran-backed Houthi ballistic missile from Yemen hits Terminal 4 at King Khalid International Airport in Riyadh, Saudi Arabia. Multiple casualties reported.
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
-19:39
-1405/07/19
-
-
-
-
-src :@MilitarryWorld
-‏🔴هم اکنون گزارش شلیک موشک از جنوب ایران به سمت تنگه هرمز
-‏
-‏@MilitarryWorld | Parsa
 19:39
 1405/07/19
 
@@ -5863,17 +5865,6 @@ src :@BellumActaNews
 
 
 
-src :@rnintel
-[عکس]
-‏🇪🇹🇸🇩⚡- Heavy clashes have erupted along the Sudan-Ethiopia border in the Sherarina direction, western Tigray region.
-‏
-‏Tigray Defense Forces, TDF, allied TPLF's Army 70, currently based in Sudan, are attempting to breach the border and attack Ethiopian military, ENDF, positions. Large-scale Army 70's drone attack currently ongoing on ENDF sites in Sherarina.
-02:30
-1405/07/19
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏UKMTO:
@@ -6080,24 +6071,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 00:26
-1405/07/19
-
-
-
-
-src :@samueltarikh
-‏ترامپ درباره ایران:
-‏
-‏ما می‌توانیم موضوع ایران را خیلی سریع به پایان برسانیم، آن‌ها نمی‌دانند که من با آن‌ها چقدر مهربان بوده‌ام.
-00:17
-1405/07/19
-
-
-
-
-src :@samueltarikh
-‏🔺نیویورک تایمز:
-‏
-‏حمله موشکی امروز حوثی ها به فرودگاه بین‌المللی ریاض، 12 کشته و بیش از 50 زخمی بر جای گذاشت.
-00:17
 1405/07/19
