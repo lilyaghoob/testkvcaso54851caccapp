@@ -1,3 +1,61 @@
+src :@ClashReport
+[عکس]
+‏Türkiye Bans Foreign EVs From Major Defense Facilities over Security Risks
+‏
+‏Four major Turkish defense companies have barred foreign electric vehicles from entering their facilities over concerns that onboard cameras, sensors and software could pose surveillance and cybersecurity risks.
+‏
+‏READ MORE
+14:16
+1405/07/19
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇵🇱 Poland holds emergency security meeting over possible assassination plot targeting Prime Minister and Defense Minister.
+‏
+‏@BRICSNews
+14:16
+1405/07/19
+
+
+
+
+src :@Indypersian
+[عکس]
+‏⭕️رئیس کل دادگستری اصفهان: اجرای احکام اعدام بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ ادامه خواهد داشت
+‏
+‏♦️اسدالله جعفری، رئیس کل دادگستری استان اصفهان در یک تجمع حکومتی شبانه در اصفهان، از ادامه اجرای احکام قضایی صادرشده علیه بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ خبر داد و گفت اصفهان از نخستین استان‌هایی بوده که اجرای این احکام را آغاز کرده است.
+‏
+‏جعفری از توقیف و مصادره اموال افرادی خبر داد که مقام‌های جمهوری اسلامی آنها را به نقش‌آفرینی در اعتراضات متهم می‌کنند. او با اشاره به برخورد قضایی با برخی چهره‌های مشهور و چهره‌های سرشناس (سلبریتی‌ها) مدعی شد بیش از ۱۱۲ مورد در استان اصفهان شناسایی شده و اموال مرتبط با آنها توقیف یا مصادره شده است.
+‏
+‏جعفری در بخش دیگری از سخنانش، پرونده‌های اعتراضات را «پرونده کودتاگران» نامید و گفت رسیدگی قضایی حتی در روزهای تعطیل نیز متوقف نشده است. او به‌ویژه از رسیدگی سریع و بدون «مماشات» به پرونده‌هایی سخن گفت که به گفته مقام‌های جمهوری اسلامی، با کشته شدن نیروهای انتظامی مرتبط بوده‌اند.
+‏
+‏این اظهارات در حالی مطرح می‌شود که در پرونده موسوم به «میدان علیخانی» اصفهان، تاکنون هفت نفر از محکومان به اعدام، از جمله علیرضا سپاهی و علیرضا رئیسی که در ۱۳ مهر اعدام شدند، به دار آویخته شده‌اند. پیش از آنها، عرفان اسفندیاری، گل‌محمد محمدی، ابوالفضل سپاهی، امیرحسین صفری و قائم حسینی نیز اعدام شده بودند.
+‏
+‏@indypersian
+14:14
+1405/07/19
+
+
+
+
+src :@KayhanLondonChannel
+[عکس]
+‏‌‏ ‏
+‏صدور احکام انضباطی علیه ۳۰ دانشجوی دانشگاه صنعتی اصفهان
+‏ 
+‏ ظفرالله کلانتری، رئیس دانشگاه صنعتی اصفهان، از صدور احکام انضباطی علیه ۳۰ دانشجوی این دانشگاه خبر داده است.
+‏ 
+‏به گفته رئیس دانشگاه صنعتی اصفهان برای برخی از این دانشجویان حکم یک سال محرومیت از تحصیل صادر شده است.
+‏ 
+‏همزمان با آغاز سال تحصیلی جدید، و به علت هراس حکومت از آغاز دوباره اعتراضات سراسری، فشارهای انضباطی و قضایی بر دانشجویان افزایش یافته است. ده‌ها دانشجو در دانشگاه‌های مختلف کشور از سوی کمیته‌های انضباطی با احکام محرومیت از تحصیل، تبعید به دیگر واحدهای دانشگاهی و اخراج روبرو شدند.
+14:12
+1405/07/19
+
+
+
+
 src :@Minas_Tirith2024
 ‏تخمین عددی سهم نیروی هوایی و نیروی دریایی آمریکا از حجم آتش در جنگ 40 روزه
 ‏
@@ -1578,14 +1636,6 @@ src :@ClashReport
 
 
 
-src :@naya_foriraq
-‏🇾🇪🇸🇦القوات المسلحة اليمنية تتمكن من تحرير قرية الصياحي وسوق المقهاية واجزاء من وادي الضباب، وبذلك تم قطع خط الضباب ومحاصرة مرتزقة السعودية في نجد قسيم والمسراخ بمحافظة تعز.
-12:13
-1405/07/19
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔹وزارت کشور لهستان: پلیس اطلاعاتی مبنی بر احتمال وقوع حمله به نخست‌وزیر و وزیر دفاع دریافت کرده است
 12:12
@@ -2057,20 +2107,6 @@ src :@Ali_bk_2
 
 src :@Alibk3
 ‏القوات المسلحة اليمنية تجدد تحذيرها لكل الشركات الملاحية الجوية والخبراء والموظفين والعاملين والمسافرين من استخدام المطارات والأجواء السعودية لأنها معرضة للاستهداف ومسرحا للعمليات باستثناء مطاري مكة المكرمة والمدينة المنورة.
-11:10
-1405/07/19
-
-
-
-
-src :@wfwitness
-‏⚡️🇾🇪🇾🇪🇸🇦 Houthi military spokesperson Yahya Saree warned all shipping, aviation, media, staff, and travelers against using Saudi airports and airspace, declaring them targets for Yemeni operations, with the exception of the airports in Mecca and Medina. 
-‏
-‏He said Saudi Arabia would bear responsibility for any failed interceptions and that the Houthis will keep to their declared equations of “airport for airport, siege for siege, escalation for escalation” until their objectives are achieved.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 11:10
 1405/07/19
 
@@ -5473,14 +5509,6 @@ src :@VahidOnline
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 NEW: Middle East Spectator can confirm there are more than 80+ injuries at Riyadh Airport, including at least 41 Bangladeshis  Several heavily injured foreign citizens and Saudis were also taken to the hospital and put in the ICU, and there are likely…
-19:45
-1405/07/18
-
-
-
-
 src :@mwarmonitor
 ‏🔴 خبرگزاری فرانسه (AFP): پس از حمله موشکی به فرودگاه بین‌المللی ملک خالد در ریاض، از پزشکان خواسته شده است در بیمارستان‌های سراسر این شهر حاضر شوند.  🔴ده‌ها نفر، که بیشتر آن‌ها شهروندان سعودی هستند، زخمی شده‌اند و دست‌کم پنج نفر در بخش مراقبت‌های ویژه بستری…
 19:40
@@ -5587,16 +5615,6 @@ src :@tglobaleye
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇷🇺 President Trump's envoys Witkoff and Kushner may visit Moscow within the next two weeks.
-‏
-‏@BRICSNews
-19:16
-1405/07/18
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡ Pennsylvania governor says 9 people are dead after a shooting in Erie. 
@@ -5685,38 +5703,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 18:56
-1405/07/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 NEW: Middle East Spectator can confirm there are more than 80+ injuries at Riyadh Airport, including at least 41 Bangladeshis
-‏
-‏Several heavily injured foreign citizens and Saudis were also taken to the hospital and put in the ICU, and there are likely multiple fatalities.
-‏
-‏@Middle_East_Spectator
-18:55
-1405/07/18
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: Yemeni ballistic missiles towards Riyadh while evacuation efforts at King Khalid International Airport are still underway
-‏
-‏@Middle_East_Spectator
-18:53
-1405/07/18
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇸🇦/🇩🇪/🇨🇦/🇪🇸 NEW: Germany, Canada and Spain advise their citizens not to travel through Riyadh Airport due to ‘ongoing military activity’
-‏
-‏@Middle_East_Spectator
-18:44
 1405/07/18
 
 
