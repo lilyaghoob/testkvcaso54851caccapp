@@ -1,3 +1,63 @@
+src :@Ali_bk_2
+[عکس]
+‏Dammam Airport in Saudi Arabia has now halted operations.
+23:08
+1405/07/19
+
+
+
+
+src :@Alibk3
+[عکس]
+‏توقف مطار الدمام في السعودية الآن.
+23:07
+1405/07/19
+
+
+
+
+src :@Shin_Persian
+‏↩️ Quoted tweet:
+‏Mohamadamin @Mohamad7015097
+‏
+‏@hey_itsmyturn Source?
+‏
+‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+‏
+‏ترجمه خودکار فارسی
+‏
+‏@hey_itsmyturn منبع؟
+‏
+‏𝕏  ·  @shin_persian
+23:07
+1405/07/19
+
+
+
+
+src :@Shin_Persian
+‏↩️ Quoted tweet: Mohamadamin  @Mohamad7015097  @hey_itsmyturn Source?  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  ترجمه خودکار فارسی  @hey_itsmyturn منبع؟  𝕏  ·  @shin_persian
+23:07
+1405/07/19
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️سازمان هواپیمایی کشوری عربستان سعودی روز یکشنبه ۱۹ مهر ماه اعلام کرد فرودگاه بین‌المللی ملک فهد در شهر دمام هدف حمله قرار گرفته است.
+‏بر اساس بیانیه سازمان هواپیمایی کشوری عربستان سعودی، فرودگاه ملک فهد دمام «در پی تداوم حملات آشکاری که تاسیسات هوانوردی غیرنظامی در پادشاهی عربستان سعودی را هدف قرار می‌دهد، مورد حمله قرار گرفته است.»
+‏این سازمان اعلام کرد ارزیابی خسارت‌های وارده و بررسی سلامت و ایمنی تاسیسات فرودگاه با هماهنگی مراجع ذی‌صلاح در حال انجام است.
+‏این حمله در حالی انجام می‌شود که فرودگاه بین‌المللی ملک خالد در ریاض و فرودگاه بین‌المللی أبها در روزهای گذشته هدف حملات شبه‌نظامیان حوثی یمن قرار داشته‌اند. 
+‏بر اساس اعلام مقام‌های سعودی حمله روز شنبه حوثی‌ها به فرودگاه ملک خالد ریاض، ۱۲ کشته و ۳۰۹ زخمی بر جا گذاشت. کشته‌شدگان شامل چهار شهروند عربستان سعودی و اتباعی از بنگلادش، فلسطین، آمریکا، مصر، اردن، سوریه و سودان بودند.
+‏
+‏@indypersian
+23:05
+1405/07/19
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏🔻ساعتی پیش شرکت توسعه و نگهداری اماکن ورزشی و مجموعه ورزشی انقلاب تهران از تعطیلی این مجموعه و باشگاه کشوری به دلیل «انجام تمهیدات لازم برای اجرای ضوابط و موازین شرعی، قانونی و عرفی» خبر دادند.
@@ -385,7 +445,7 @@ src :@P_raetorio
 
 src :@wfwitness
 [عکس]
-‏⚡️🇷🇺🇺🇦🇺🇸 ABC News: Russia struck the CHP-5 thermal power plant in Kharkiv at least twice on Sunday evening, causing a fire, according to a Ukrainian official.
+‏⚡️🇷🇺🇺🇦🇺🇸 ABC News: Russia struck the CHP-5 thermal power plant in Kharkiv at least twice on Sunday evening, causing a fire.
 ‏
 ‏President Volodymyr Zelenskyy confirmed the attack and said Russia also targeted another power facility in Kyiv.
 ‏
@@ -1370,14 +1430,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-‏القوات اليمنية تحرر مديرية المسراخ بتعز.
-21:18
-1405/07/19
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏IRGC Navy:
@@ -1870,14 +1922,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇾🇪🇮🇳🇸🇦⚡️ — Indian Embassy in Riyadh, KSA announces an Indian died of his injuries caused by yesterday's strike against Terminal 3 of King Khalid Intl. Airport, Riyadh, raising the death toll to 13 people.
-20:30
-1405/07/19
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇻🇦⚡️- Pope Leo announces that a small nodule was located in his lung and that he will undergo surgery to remove it.
@@ -1970,15 +2014,6 @@ src :@Minas_Tirith2024
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 20:19
-1405/07/19
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇰🇷⚡️ — On October 10, South Korea's Agency for Defense Development tested a hypersonic boost-glide vehicle missile. South Korea reported that the boost-glide vehicle correctly stayed on its flight path and impacted its planned target.
-20:09
 1405/07/19
 
 
@@ -3582,25 +3617,6 @@ src :@Mena_Live
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️رسانه‌های رسمی ایران روز شنبه ۱۸ مهر ماه به نقل از محسن رضایی، دبیر شورای عالی امنیت ملی نوشتند: «دونالد ترامپ، رئیس‌جمهوری آمریکا، با استفاده از شناورهای کوچک در آب‌های ساحلی عمان به قاچاق نفت در تنگه هرمز روی آورده است.»
-‏
-‏به گزارش تسنیم، رضایی مدعی شد ترامپ با استخدام «اشرار» و با استفاده از پنج یا شش شناور کوچک، نفت را به نفتکش‌های بزرگ‌تر منتقل می‌کند. رضایی افزود، فرماندهی سنتکام این عملیات را هدایت می‌کند و ارتش امارات نیز در آن مشارکت دارد.
-‏
-‏به گفته دبیر شورای عالی امنیت ملی جمهوری اسلامی، نیروهای مسلح جمهوری اسلامی ایران هر شب پنج یا شش عدد از این شناورها را هدف قرار می‌دهند.
-‏
-‏رضایی همچنین در واکنش به اظهارات ترامپ درباره باز بودن تنگه هرمز گفت که این آبراه تحت کنترل ایران است و تهران آن را مدیریت می‌کند.
-‏
-‏رضایی همچنین گفت، قدرت‌هایی بزرگ‌تر از آمریکا در گذشته برای فتح ایران تلاش کرده‌اند، اما در نهایت به گفته او، به «زباله‌دان تاریخ» پیوسته‌اند.
-‏
-‏@indypersian
-17:51
-1405/07/19
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏دفتر نخست وزیری اسرائیل حمله ‌حوثی‌ها به فرودگاه ریاض را محکوم کرد!
@@ -3816,25 +3832,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇸🇦❌🇾🇪 - Ongoing Saudi Airstrikes on the Ansarullah controlled Sana’a International Airport.  @GeoPWatch
 17:29
-1405/07/19
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Ali Al-Sakani | علي السكني ✓ @Alsakaniali
-‏
-‏Warplanes continue to strike Houthi telecommunications networks across several governorates, including Abyan, Al-Bayda, Amran, Sana’a, Saada, Ibb, and Hudeidah.
-‏#Yemen
-‏
-‏ترجمه خودکار فارسی
-‏
-‏جنگنده‌ها همچنان شبکه‌های مخابراتی حوثی‌ها را در چندین استان، از جمله ابین، البیضاء، عمران، صنعا، صعده، إب و حدیده هدف قرار می‌دهند.
-‏#Yemen
-‏
-‏𝕏  ·  @shin_persian
-17:28
 1405/07/19
 
 
@@ -5226,23 +5223,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 11:46
-1405/07/19
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏🤩دانشمندان با قوی‌ترین لیزر جهان از پشت دیوار بتنی ۲ متری تصویربرداری کردند
-‏
-‏▪️ پژوهشگران از قدرتمندترین لیزر جهان استفاده کردند تا تصویری از اشیای پشت یک دیوار بتنی با ضخامت ۱.۸ متر ثبت کنند. البته تصاویر ثبت‌شده هنوز وضوح و جزئیات زیادی ندارند؛ اما پژوهشگران این آزمایش را پیشرفتی مهم در فناوری تصویربرداری می‌دانند.
-‏
-‏▪️  این دستاورد با تولید ذرات «میون» محقق شد. دانشمندان از لیزر ۱۰ پتاواتی ELI-NP در رومانی، که قوی‌ترین لیزر دنیاست، استفاده کردند تا الکترون‌ها را شتاب و با یک مانع سربی برخورد دهند. نتیجه یک پرتو نسبتاً خالص میون بود که از یک دیوار تقریباً دو متری گذشت و سایه‌ای از مجموعه بلوک‌های سربی پشت دیوار را ثبت کرد.
-‏
-‏⚙️#TECH
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-11:34
 1405/07/19
 
 
