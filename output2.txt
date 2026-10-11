@@ -2833,19 +2833,6 @@ src :@BellumActaNews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱 An Israeli detonation was observed in the outskirts of Hadatha, southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:41
-1405/07/18
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏روزنامه واشنگتن‌پست، روز شنبه ۱۸ مهر گزارش داد پنتاگون شمار رسمی نظامیان آمریکایی جان‌باخته در جریان عملیات علیه جمهوری اسلامی را با احتساب دو مورد مرگ غیررزمی، به ۲۱ نفر افزایش داده است.
