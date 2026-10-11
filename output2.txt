@@ -1,3 +1,26 @@
+src :@OSINTWarfare
+[عکس]
+‏Russia's T-14 Armata main battle tank (MBT) is being further developed based on the experience gained during the war in Ukraine, according to Uralvagonzavod CEO Alexander Potapov.
+‏
+‏The tank is undergoing phased operational trials with the Russian Armed Forces.
+08:18
+1405/07/19
+
+
+
+
+src :@GeoPWatch
+‏⚡️🇾🇪🇾🇪 – The recognized Yemeni government, the PLC, warned of an imminent collapse in health services in Taizz as the Houthi siege causes essential supplies to run out.
+‏
+‏The PLC reported critical shortages of fuel, medicines, and supplies, with the Ministry of Public Health stating that emergency, surgical, dialysis, and neonatal services risk cessation, while fuel scarcity threatens electricity, ambulances, and vaccine cold chains.
+‏
+‏@GeoPWatch
+08:18
+1405/07/19
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏رضا تقی‌پور، نماینده تهران در مجلس گفت: «بی‌تردید پیروزی نهایی نزدیک است و آمریکایی‌ها تلاش می‌کنند از پوشش رسانه‌ای برای جنگ شناختی جهت ایجاد رعب و وحشت بین مردم و اشتباه محاسباتی در مسئولان استفاده کنند که با دیپلماسی قوی و مقاومت می‌توانیم با موفقیت از این مرحله نیز عبور کنیم.»
@@ -373,6 +396,8 @@ src :@jangaavaran1390
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇮🇷🇺🇸 – The UKMTO published an advisory on an incident "involving a tanker and military forces" close to the U.S. blockade line, likely referring to the U.S. strike on the M/V Ocean Molica.
+‏
+‏@GeoPWatch
 06:36
 1405/07/19
 
@@ -966,8 +991,9 @@ src :@bricsnews
 
 
 src :@naya_foriraq
-‏وزير الخارجية الأمريكية:
-‏‏تدين الولايات المتحدة بشدة الهجمات الأخيرة التي شنها الحوثيون الإرهابيون على المملكة العربية السعودية، بما في ذلك الهجوم الذي وقع اليوم على مطار الملك خالد الدولي في الرياض والذي أودى بحياة العديد من الأبرياء، بمن فيهم مواطن أمريكي.‏تُظهر هذه الهجمات الشنيعة استهتاراً صارخاً بأرواح المدنيين الأبرياء. يجب أن تتوقف فوراً.‏نقف إلى جانب المملكة العربية السعودية وشعبها، ونعرب عن خالص تعازينا للضحايا وعائلاتهم.
+‏🇺🇸وزير الخارجية الأمريكية:
+‏‏
+‏تدين الولايات المتحدة بشدة الهجمات الأخيرة التي شنها الحوثيون الإرهابيون على المملكة العربية السعودية، بما في ذلك الهجوم الذي وقع اليوم على مطار الملك خالد الدولي في الرياض والذي أودى بحياة العديد من الأبرياء، بمن فيهم مواطن أمريكي.‏تُظهر هذه الهجمات الشنيعة استهتاراً صارخاً بأرواح المدنيين الأبرياء. يجب أن تتوقف فوراً.‏نقف إلى جانب المملكة العربية السعودية وشعبها، ونعرب عن خالص تعازينا للضحايا وعائلاتهم.
 03:26
 1405/07/19
 
@@ -2589,16 +2615,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 23:48
-1405/07/18
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇮🇷🇴🇲 – Explosions reported in the Strait of Hormuz following alleged missile launches from Sirik, southern Iran.
-‏
-‏@GeoPWatch
-23:45
 1405/07/18
 
 
@@ -4609,19 +4625,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 19:05
-1405/07/18
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏The U.S. Air Force will refurbish four retired KC-10A Extender tanker-transport aircraft before transferring them to an unnamed North African country.
-‏
-‏There’s already a debate over the intended recipient, with some saying the aircraft are destined for the Royal Moroccan Air Force (RMAF), while others believe they will go to the Egyptian Air Force (EAF).
-‏
-‏Let’s wait and see who gets them xD
-19:03
 1405/07/18
 
 
