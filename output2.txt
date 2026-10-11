@@ -1,3 +1,42 @@
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 - Injuries have been reported as a result of today’s renewed Ansarullah attack on Riyadh International Airport.
+‏
+‏@GeoPWatch
+19:59
+1405/07/19
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏— 🇸🇦/🇾🇪 NEW: Yemen’s Armed Forces warn for the 5th time that Saudi airspace and airports are no longer safe, with the exception of the holy cities Mecca and Medina, urging everyone to avoid air travel throughout the entire Kingdom
+‏
+‏@Middle_East_Spectator
+19:59
+1405/07/19
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏The Saudi Aviation Authority announces injuries resulting from the Yemeni attack on Khalid Airport in Riyadh this afternoon.
+19:58
+1405/07/19
+
+
+
+
+src :@Alibk3
+[عکس]
+‏‏هيئة الطيران السعودي تعلن عن إصابات جراء الهجوم اليمني عصر اليوم على مطار خالد في الرياض.
+19:58
+1405/07/19
+
+
+
+
 src :@mwarmonitor
 ‏🔴فایننشال تایمز به نقل از مقامات ۵ سازمان اطلاعاتی اروپایی گزارش داد روسیه در حال گسترش برنامه‌های ترور مدیران ارشد صنایع دفاعی، به‌ویژه تأمین‌کنندگان پهپاد برای اوکراین است.
 ‏
@@ -230,7 +269,7 @@ src :@tabzlive
 ‏- Striking King Fahd Intl. Airport, Dammam, causing disruption of air traffic
 ‏- Striking PLC forces on the Bab el-Mandeb front with 6 ballistic missiles and 2 UAVs, causing dozens of casualties
 ‏
-‏The operations against KSA out in response to 124 Royal Saudi Air Force airstrikes conducted over the past 24 hours against Ansarallah-controlled Sana'a city and Ta'izz, Ma'rib, al-Jawf, Hajjah, Al-Hudaydah, and Sa'dah governorates, causing civilian fatalities among women and children.
+‏The operations against KSA were conducted in response to 124 Royal Saudi Air Force airstrikes conducted over the past 24 hours against Ansarallah-controlled Sana'a city and Ta'izz, Ma'rib, al-Jawf, Hajjah, Al-Hudaydah, and Sa'dah governorates, causing civilian fatalities among women and children.
 19:45
 1405/07/19
 
@@ -5726,17 +5765,6 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-[عکس]
-‏⚡️🇮🇷🇺🇸 – The UKMTO published an advisory on an incident "involving a tanker and military forces" close to the U.S. blockade line, likely referring to the U.S. strike on the M/V Ocean Molica.
-‏
-‏@GeoPWatch
-06:36
-1405/07/19
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇳🇸🇦 UN Secretary General strongly condemns Houthi attack on Saudi Arabia's International Airport in Riyadh.
 ‏
@@ -5990,17 +6018,6 @@ src :@rnintel
 ‏
 ‏Tigray Defense Forces, TDF, allied TPLF's Army 70, currently based in Sudan, are attempting to breach the border and attack Ethiopian military, ENDF, positions. Large-scale Army 70's drone attack currently ongoing on ENDF sites in Sherarina.
 02:30
-1405/07/19
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇴🇲 NEW: Iran has struck a tanker in the Strait of Hormuz
-‏
-‏@Middle_East_Spectator
-02:04
 1405/07/19
 
 
@@ -6725,36 +6742,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 20:03
-1405/07/18
-
-
-
-
-src :@Parvazdaroj
-‏اف ۱۵ و چهارتا ۲۰۰۰ پوندی برابر با ۲ موشک خرمشهر  @Reza_Mad
-19:59
-1405/07/18
-
-
-
-
-src :@mamlekate
-‏📝 مصطفی مهرآیین، جامعه‌شناس منتقد جمهوری اسلامی، برای اجرای حکم زندان بازداشت شد
-‏
-‏مصطفی مهرآیین، جامعه‌شناس، استاد دانشگاه و از منتقدان جمهوری اسلامی، برای اجرای حکم حبس بازداشت و به زندان منتقل شد. این پژوهشگر علوم اجتماعی پیش‌تر به دلیل اظهارنظرهای انتقادی و انتشار نامه‌های سرگشاده خطاب به رهبر وقت جمهوری اسلامی، به مجموع هشت سال زندان محکوم شده بود که پنج سال آن قابل اجراست.
-‏
-‏@mamlekate
-19:57
-1405/07/18
-
-
-
-
-src :@mamlekate
-‏📝 انفجار شدید در فرودگاه ریاض؛ تخلیه مسافران و اختلال گسترده در پروازها
-‏
-‏در پی وقوع انفجاری شدید در فرودگاه بین‌المللی ملک خالد در ریاض، پایتخت عربستان سعودی، مسافران این فرودگاه تخلیه شدند و شمار زیادی از پروازهای داخلی و بین‌المللی لغو یا به مسیرهای دیگر هدایت شدند.
-‏
-‏@mamlekate
-19:56
 1405/07/18
