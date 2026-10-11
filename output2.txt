@@ -1,3 +1,38 @@
+src :@MilitarryWorld
+‏🔴عربستان سعودی اعلام کرد که فرودگاه دمام برای دومین بار در عرض ۲۴ ساعت مورد اصابت موشک بالستیک حوثی ها قرار گرفته است
+‏
+‏@MilitarryWorld | Parsa
+23:37
+1405/07/19
+
+
+
+
+src :@Ali_bk_2
+‏An explosion was heard in the Yemeni capital.
+23:35
+1405/07/19
+
+
+
+
+src :@Alibk3
+‏سماع دوي انفجار في العاصمة اليمنية.
+23:35
+1405/07/19
+
+
+
+
+src :@jangaavaran1390
+‏آکسیوس: روسیه در حال بررسی طرح «آتش‌بس انرژی» ترامپ است؛ طرحی که ترامپ مدعی است هر دو طرف آن را پذیرفته‌اند. مقام آمریکایی: به‌زودی پاسخ روسیه دریافت می‌شود.
+‏«روس‌ها در حال بررسی هستند. به‌زودی مشخص می‌شود آیا آمادگی پذیرش دارند یا خیر.»
+23:35
+1405/07/19
+
+
+
+
 src :@naya_foriraq
 ‏قصف جوي مجهول طال منطقة الخلويه بمحافظة ديالى ..
 23:32
@@ -27,6 +62,8 @@ src :@GeoPWatch
 
 src :@WAR_ROOM_NEWS
 ‏عربستان سعودی اعلام کرد که فرودگاه دمام برای دومین بار در عرض ۲۴ ساعت مورد اصابت موشک بالستیک حوثی ها قرار گرفته است
+‏
+‏🆔@WAR_ROOM_NEWS
 23:30
 1405/07/19
 
@@ -1737,14 +1774,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-‏القوات اليمنية تحرر مديرية المسراخ بتعز.
-21:18
-1405/07/19
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏IRGC Navy:
@@ -2199,25 +2228,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻تیم فوتبال گل‌گهر سیرجان برای بازی با المحرق بحرین در لیگ قهرمانان آسیا ۲، مسیر پیچیده و دشواری برای رسیدن به منامه طی خواهد کرد؛ پرواز از سیرجان به تهران، از تهران به نجف، از نجف به بغداد با اتوبوس و در نهایت از بغداد به مسقط عمان. این بازی چهارشنبه ۲۲ مهر برگزار می‌شود.
-‏
-‏🔹کنفدراسیون فوتبال آسیا هفته گذشته ورزشگاه السیب عمان را به‌عنوان میزبان دیدار گل‌گهر سیرجان و المحرق بحرین انتخاب کرد؛ مسابقه‌ای که قرار بود در منامه برگزار شود، اما مشکلات مربوط به صدور ویزای اعضای تیم ایرانی، شرایط میزبانی تیم بحرینی را با ابهام مواجه کرد.
-‏
-‏🔹از سوی دیگر تراکتور برای حضور در لیگ نخبگان، از مسیری سخت و ۱۸ ساعته راهی عمان شد؛ آنها از تبریز با یک پرواز به نجف رفتند، در ادامه با اتوبوس به بغداد رسیدند و سپس از بغداد با پرواز راهی مسقط عمان شدند تا از الشمال قطر میزبانی کنند.
-‏
-‏🔹این درحالی است که فارس گزارش داده که استقلال برای سفر به دوحه و بازی با الغرافه قطر از یک فروند هواپیمای RJ متعلق به تشریفات دولت استفاده کرده است؛ هواپیمایی که به نوشته این خبرگزاری، از محدودیت‌های پروازی معاف است.
-‏
-‏جزییات بیشتر
-‏
-‏@iranintltvsport
-20:30
-1405/07/19
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇻🇦⚡️- Pope Leo announces that a small nodule was located in his lung and that he will undergo surgery to remove it.
@@ -2412,14 +2422,6 @@ src :@mwarmonitor
 src :@rnintel
 [عکس]
 ‏🇾🇪🇸🇦⚡- Multiple casualties on the ground, with a large number of emergency services active at Terminal 4, King Khalid International Airport, Riyadh.  Note, the Ansarullah struck Terminal 3 only yesterday.
-19:55
-1405/07/19
-
-
-
-
-src :@naya_foriraq
-‏🇷🇺🔻 ‏ فايننشال تايمز : مسؤولين من خمس وكالات استخبارات أوروبية يقولون إن روسيا توسع نطاق مخططات الاغتيال ضد المسؤولين التنفيذيين في قطاع الدفاع، وخاصة موردي الطائرات بدون طيار لأوكرانيا.
 19:55
 1405/07/19
 
@@ -2863,14 +2865,6 @@ src :@selena_updates
 
 
 
-src :@jangaavaran1390
-‏محسن رضایی: می‌توانستیم تنگه هرمز را کاملاً ببندیم، اما به دلایل انسان‌دوستانه این کار را نکردیم
-19:04
-1405/07/19
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇵🇱 Poland arrests man who planned to assassinate Prime Minister Donald Tusk.
 ‏
@@ -3092,18 +3086,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 18:43
-1405/07/19
-
-
-
-
-src :@MilitarryWorld
-‏🔴محسن رضایی:
-‏
-‏اگه دوباره جنگ بشه اینبار به تاسیسات هوش مصنوعی و دارایی های ایلان ماسک تو منطقه هم حمله میکنیم
-‏
-‏@MilitarryWorld | Parsa
-18:37
 1405/07/19
 
 
@@ -3482,24 +3464,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز یکشنبه ۱۹ مهر ماه با انتشار متنی در شبکه اجتماعی تروث سوشال اعلام کرد روسیه و اوکراین بر سر «آتش‌بس انرژی»  به توافق رسیده‌اند.
-‏ترامپ در پیامی در شبکه‌های اجتماعی نوشت این آتش‌بس بلافاصله اجرایی می‌شود، اما جزئیات بیشتری درباره مفاد توافق ارائه نکرد.
-‏
-‏زلنسکی روز یکشنبه اعلام کرده بود اوکراین آماده است حمله به پالایشگاه‌های نفت روسیه را متوقف کند، مشروط بر اینکه مسکو نیز در اقدامی متقابل، زیرساخت‌های انرژی اوکراین را هدف قرار ندهد.
-‏
-‏دونالد ترامپ روز شنبه در پی حمله اوکراین به پالایشگاهی در روسیه از ولودیمیر زلنسکی شدیدا انتقاد کرده بود.
-‏
-‏دونالد ترامپ، جمعه‌شب ۱۷ مهرماه اعلام کرد با ولادیمیر پوتین توافق کرده است مسکو بیش از ۳۰۰ هزار تن سوخت دیزل به بازار آمریکا و بازار جهانی عرضه کند. این توافق انتقاد شدید زلنسکی را به همراه داشت.
-‏
-‏@indypersian
-18:17
-1405/07/19
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏🫪🫪
@@ -3649,18 +3613,6 @@ src :@rnintel
 ‏🇾🇪🇸🇦⚡️- BREAKING: Terminal 4 at King Khalid International Airport in Riyadh has been struck by a ballistic missile, according to the Saudi-led coalition.
 ‏
 ‏A fire has broken out inside the terminal.
-18:06
-1405/07/19
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️اسکات بسنت، وزیر خزانه‌داری ایالات متحده، روز یکشنبه ۱۹ مهر در گفتگو با فاکس گفت کارگران در ایران سر کار حاضر نمی‌شوند و دسترسی به بازار دلار نیز وجود ندارد و افزود در چنین شرایطی «آن‌ها در حال چاپ پول هستند».
-‏بسنت گفت ۱۸ ماه پیش نرخ پول ایران در برابر دلار حدود ۶۰۰ هزار بود و این رقم به ۲.۸ میلیون رسید. او همچنین گفت ایران اکنون «هیچ نفتی روی آب ندارد» و جریان نقدی آن منفی شده است و افزود: «ما راه آن‌ها را بسته‌ایم.»
-‏
-‏@indypersian
 18:06
 1405/07/19
 
@@ -3919,18 +3871,6 @@ src :@didarnews1
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇾🇪/🇸🇦 BREAKING: Ansarallah have entered the western outskirts of Taizz city
-‏
-‏They’ve taken control of Al-Hanjar checkpoint, which lies at the western gate of the city.
-‏
-‏@Middle_East_Spectator
-17:37
-1405/07/19
-
-
-
-
 src :@intelslava
 ‏🇺🇦⚡️ — Preliminary reports in Ukrainian media say that in the city of Sheptytskyi, a man attacked a military recruitment center employee with a knife and fled.
 ‏
@@ -4064,16 +4004,6 @@ src :@Americana_ir
 [عکس]
 ‏🔴 فرماندار فلوریدا مرگ دو نفر در پی طوفان "ایزایاس" را تایید کرد و افزود که از مجموع ۴۳۰ هزار مشترکِ بدون برق در این ایالت، تاکنون برق تنها ۱۰ هزار مشترک وصل شده است.  🆔 @Americana_ir
 17:21
-1405/07/19
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇸🇦/🇾🇪 BREAKING: Yemen is currently striking Riyadh, the capital of Saudi Arabia, with ballistic missiles
-‏
-‏@Middle_East_Spectator
-17:18
 1405/07/19
 
 
@@ -5967,17 +5897,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 01:45
-1405/07/19
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇮🇷⚡️ — UKMTO announces receiving a report of an oil tanker conducting a transit out of the Strait of Hormuz being struck by a projectile on the port side of the ship.
-‏
-‏Environmental impact and damages are unknown as of now.
-01:41
 1405/07/19
 
 
