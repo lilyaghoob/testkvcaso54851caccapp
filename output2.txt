@@ -2436,21 +2436,6 @@ src :@Shin_Persian
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️سازمان هواپیمایی کشوری عربستان سعودی روز یکشنبه ۱۹ مهر ماه اعلام کرد فرودگاه بین‌المللی ملک فهد در شهر دمام هدف حمله قرار گرفته است.
-‏بر اساس بیانیه سازمان هواپیمایی کشوری عربستان سعودی، فرودگاه ملک فهد دمام «در پی تداوم حملات آشکاری که تاسیسات هوانوردی غیرنظامی در پادشاهی عربستان سعودی را هدف قرار می‌دهد، مورد حمله قرار گرفته است.»
-‏این سازمان اعلام کرد ارزیابی خسارت‌های وارده و بررسی سلامت و ایمنی تاسیسات فرودگاه با هماهنگی مراجع ذی‌صلاح در حال انجام است.
-‏این حمله در حالی انجام می‌شود که فرودگاه بین‌المللی ملک خالد در ریاض و فرودگاه بین‌المللی أبها در روزهای گذشته هدف حملات شبه‌نظامیان حوثی یمن قرار داشته‌اند. 
-‏بر اساس اعلام مقام‌های سعودی حمله روز شنبه حوثی‌ها به فرودگاه ملک خالد ریاض، ۱۲ کشته و ۳۰۹ زخمی بر جا گذاشت. کشته‌شدگان شامل چهار شهروند عربستان سعودی و اتباعی از بنگلادش، فلسطین، آمریکا، مصر، اردن، سوریه و سودان بودند.
-‏
-‏@indypersian
-23:05
-1405/07/19
-
-
-
-
 src :@Mena_Live
 ‏BREAKING: The Trump administration is considering suspending Ukraine’s weapons procurement access to pressure Kyiv to stop attacks on Russian energy infrastructure.
 ‏
@@ -6308,15 +6293,4 @@ src :@rnintel
 src :@rnintel
 ‏🇺🇸🇾🇪🇸🇦⚡️- The United States, the United Nations, Pakistan, Turkey, and several other countries have put out strongly worded condemnations of the Ansarullah ballistic missile attack on King Khalid International Airport in Riyadh, Saudi Arabia, which killed 12 people and injured more than 300.
 07:19
-1405/07/19
-
-
-
-
-src :@warmonitors
-[عکس]
-‏BIG game coming up, my money is on the Seattle Seahawks 🔥 
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-05:36
 1405/07/19
