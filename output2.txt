@@ -1,3 +1,54 @@
+src :@ClashReport
+[عکس]
+‏Bosnia’s Foreign Minister Elmedin Konaković warned U.S. Secretary of State Marco Rubio that Republika Srpska, the pro-Russia Serb-majority entity, was spending millions on Trump-linked lobbyists and consultants to gain political influence in Washington.
+‏
+‏The warning followed reports that Trump aides Chris LaCivita and James Blair received hundreds of thousands of dollars for campaign advice. 
+‏
+‏Konaković also urged the U.S. to consider reimposing sanctions on former Republika Srpska President Milorad Dodik, a close Putin ally whose sanctions were lifted last year.
+‏
+‏Source: FT
+02:31
+1405/07/21
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇪🇹⚡- Ethiopian National Defense Forces, ENDF, now control most of the Tigray region, northern Ethiopia. Adwa remains the only stronghold for the Tigray Defense Forces in the north of the region.  The Sheraro front in the west remains active.  Map key: • Green…
+02:30
+1405/07/21
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇧🇫🏴 ISIS-linked media claims at least 400 JNIM militants were killed in a counterattack in Burkina Faso’s northern Sahel region.
+‏
+‏The report also claims 300 motorcycles were burned and more than 460 machine guns, 13 rocket launchers and other equipment were seized.
+‏
+‏@wfwitness
+02:30
+1405/07/21
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏سازمان کل هواپیمایی کشوری عربستان سعودی دوشنبه اعلام کرد که تعلیق فعالیت‌های فرودگاه بین‌المللی ملک خالد ریاض را تمدید کرده است.
+‏
+‏این سازمان اعلام کرد که تمدید تعلیق فعالیت‌ها برای تکمیل بررسی‌های ایمنی و اطمینان از آمادگی عملیاتی تاسیسات فرودگاه ضروری است.
+‏
+‏این نهاد زمان ازسرگیری فعالیت فرودگاه را اعلام نکرد.
+‏https://iranintl.com/202610122595
+02:29
+1405/07/21
+
+
+
+
 src :@tabzlive
 ‏🇶🇦🇸🇦⚡️ — Qatar Airways has suspended flights to King Khalid Intl. Airport, Riyadh, KSA and King Fahd Intl. Airport, Dammam, KSA.
 02:25
@@ -8,7 +59,7 @@ src :@tabzlive
 
 src :@Ali_bk_2
 [عکس]
-‏Qatar Airways flights to and from Riyadh, as well as to and from Dammam, have been suspended.
+‏Qatar Airways flights to and from Riyadh, as well as to and from Dammam in Saudi Arabia, have been suspended.
 02:25
 1405/07/21
 
@@ -17,7 +68,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏تم تعليق رحلات الخطوط الجوية القطرية من وإلى الرياض، وكذلك من وإلى الدمام.
+‏تم تعليق رحلات الخطوط الجوية القطرية من وإلى الرياض، وكذلك من وإلى الدمام في السعودية.
 02:25
 1405/07/21
 
@@ -25,7 +76,7 @@ src :@Alibk3
 
 
 src :@naya_foriraq
-‏‏أعلنت الخطوط الجوية القطرية تعليق رحلاتها من وإلى مطاري الرياض والدمام
+‏‏أعلنت الخطوط الجوية القطرية تعليق رحلاتها من وإلى مطاري الرياض والدمام في السعودية
 02:24
 1405/07/21
 
@@ -296,20 +347,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 01:14
-1405/07/21
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏شبکه حقوق بشر کردستان از بی‌اطلاعی درباره سرنوشت پنج شهروند کرد به نام‌های حسن مصطفایی، شیرزاد چاوشینی، شاهین رشیدزاده، خسرو کرم‌پوری و محی‌الدین بانه‌ریزی خبر داد که در روزهای اخیر به دست نیروهای اداره اطلاعات بانه بازداشت شده‌اند.
-‏
-‏به گزارش این شبکه، نیروهای اداره اطلاعات بامداد ۱۷ مهر با یورش به منزل خانوادگی محی‌الدین بانه‌ریزی در شهر بانه، او را بازداشت کردند.
-‏
-‏شبکه حقوق بشر کردستان اعلام کرد تاکنون اطلاعی درباره وضعیت و سرنوشت این پنج شهروند بازداشت‌شده در دست نیست.
-‏https://iranintl.com/202610124930
-01:06
 1405/07/21
 
 
@@ -822,19 +859,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump shared a fabricated quote attributed to Denzel Washington praising him as the bravest and smartest person he had ever met. 
-‏
-‏Washington’s representatives confirmed the quote was fake, saying they had no idea where it came from.
-‏
-‏Source: WaPo
-00:13
-1405/07/21
-
-
-
-
 src :@naya_foriraq
 ‏سماع دوي انفجار في الدمام
 00:12
@@ -896,19 +920,6 @@ src :@Alibk3
 [عکس]
 ‏المطارات السعودية المتوقفة عن استقبال الرحلات:  • نجران وجازان: منذ أكثر من 150 ساعة.  • الرياض: منذ نحو 53 ساعة.  • الطائف: منذ نحو 25 ساعة.  • ينبع: منذ أكثر من 23 ساعة.
 00:04
-1405/07/21
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Breaking Bad actor RJ Mitte, best known for playing Walter White Jr., died at 34 in Texas on October 12. 
-‏
-‏He reportedly died by suicide, and authorities said the death investigation remains ongoing.
-‏
-‏Source: TMZ
-00:02
 1405/07/21
 
 
