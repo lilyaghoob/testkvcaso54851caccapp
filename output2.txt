@@ -3466,17 +3466,6 @@ src :@thewarreporter
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏تصویری از حمله موشکی حوثی ها یمن که چندی پیش به شهر دمام عربستان انجام شد
-‏
-‏🆔@WAR_ROOM_NEWS
-21:15
-1405/07/19
-
-
-
-
 src :@samueltarikh
 ‏🚨والا نیوز:
 ‏
@@ -6334,15 +6323,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 08:02
-1405/07/19
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇾🇪🇸🇦⚡️- Several flights headed for King Abdulaziz International Airport in Jeddah, western Saudi Arabia, are diverting or entering holding patterns.
-‏
-‏The airport is likely under an Ansarullah missile and drone attack for the second time in twelve hours.
-07:59
 1405/07/19
