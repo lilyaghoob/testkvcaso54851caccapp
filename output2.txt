@@ -3148,18 +3148,6 @@ src :@rnintel
 
 
 
-src :@mohem_mat
-[عکس]
-‏‏ناو هواپیمابر «یو‌اس‌اس آبراهام لینکلن» پس از 321 روز به خانه بازگشت، در حالی که روی بدنه‌اش نماد 34 کشتی و 103 پهپاد ایرانی منهدم‌شده درج شده است.
-‏
-‏در طول تجاوز ۴۰ روزه اسرائیل-آمریکا به ایران، این گروه ضربت 3693 سورتی پرواز و 450 موشک تاماهاوک به سمت ایران پرتاب کرد که احتمالاً از همین رزم‌ناو موشک‌هایی به سمت مدرسه میناب شلیک شد که در نهایت به قتل‌عام حدود 150 کودک منجر گردید.
-‏@darmasirabrha
-22:02
-1405/07/19
-
-
-
-
 src :@didarnews1
 ‏🔴شبکه ۱۳ اسرائیل: نتانیاهو امشب در پی اظهارات ترامپ درباره احتمال ازسرگیری حملات علیه ایران، در حال برگزاری رایزنی‌های امنیتی است
 ‏
@@ -6293,12 +6281,4 @@ src :@rnintel
 ‏
 ‏The airport is likely under an Ansarullah missile and drone attack for the second time in twelve hours.
 07:59
-1405/07/19
-
-
-
-
-src :@rnintel
-‏🇺🇸🇾🇪🇸🇦⚡️- The United States, the United Nations, Pakistan, Turkey, and several other countries have put out strongly worded condemnations of the Ansarullah ballistic missile attack on King Khalid International Airport in Riyadh, Saudi Arabia, which killed 12 people and injured more than 300.
-07:19
 1405/07/19
