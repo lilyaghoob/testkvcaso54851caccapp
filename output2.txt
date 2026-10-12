@@ -1540,18 +1540,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iran’s Supreme National Security Council Secretary Mohsen Rezaee:
-‏The U.S. has agreed to some of Iran’s seven conditions, but we consider its response INADEQUATE.
-‏
-‏Iranian diplomacy has changed and there will be no return to the status quo ante.
-00:49
-1405/07/20
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏وزارت خارجه عربستان سعودی اعلام کرد فیصل بن فرحان، وزیر خارجه این کشور، روز یکشنبه ۱۹ مهر با عباس عراقچی، وزیر خارجه جمهوری اسلامی، تلفنی گفت‌وگو کرده است.
@@ -1574,17 +1562,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 00:48
-1405/07/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷🇴🇲⚡️ — A drone struck a tanker in the vicinity of the anchorage area for the port of Sohar, Oman, earlier today.
-‏
-‏Omani authorities are evacuating the crew. Damage assessment and environmental impact are unknown.
-00:47
 1405/07/20
 
 
