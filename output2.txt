@@ -1,3 +1,95 @@
+src :@naya_foriraq
+‏بلدية القدس تفتح ملاجئ في حي رومما.
+16:26
+1405/07/20
+
+
+
+
+src :@Indypersian
+‏⭕️دبیر تهدید کرد، تاج عقب نشست؛ پایان موقت جدال دو رئیس فدراسیون
+‏
+‏📌رئیس فدراسیون کشتی با اتکا به نفوذ سیاسی‌اش، اکنون در جایگاه ناظر و بازخواست‌کننده مدیران دیگر رشته‌ها ظاهر شده
+‏
+‏
+‏♦️مهدی تاج، رئیس فدراسیون فوتبال ایران، روز یکشنبه ۱۹ مهر، پس از تهدیدهای علیرضا دبیر به افشاگری و طرح احتمال ورود پیدا کردن قوه قضاییه به پرونده‌های فوتبال، به فدراسیون کشتی رفت تا اختلاف با او را حل‌وفصل کند. یک روز بعد نیز از دبیر دعوت کرد تا در مرکز ملی فوتبال حضور یابد. این رفت‌وآمدها پس از عذرخواهی تلفنی یکی از اعضای هیأت‌رئیسه فوتبال، نشان‌دهنده عقب‌نشینی رسمی حلقه تاج در برابر مدیری است که نفوذش از حوزه کشتی فراتر رفته است.
+‏بیشتر بخوانید...
+‏
+‏
+‏@INDYPERSIAN
+16:26
+1405/07/20
+
+
+
+
+src :@naya_foriraq
+‏بلدية القدس تفتح ملاجئ في حي رومما.
+16:26
+1405/07/20
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏One of the settlers wounded in the security incident near Lebanon has been killed.
+16:25
+1405/07/20
+
+
+
+
+src :@Alibk3
+[عکس]
+‏مقتل أحد المستوطنين المصابين بالحدث الأمني قرب لبنان
+16:25
+1405/07/20
+
+
+
+
+src :@ClashReport
+‏Around 10 hikers were injured, several seriously, when an unexploded munition detonated near Neot Mordechai in northern Israel.   Police and bomb disposal teams are investigating the explosion.
+16:24
+1405/07/20
+
+
+
+
+src :@mohem_mat
+‏به شعر حافظ شیراز می رقصند و می نازند
+‏سیه چشمان کشمیری و ترکان سمرقندی
+‏
+‏۲۰ مهر بزرگداشت حافظ شیرازی
+‏
+‏@mohem_mat
+16:23
+1405/07/20
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — U.S. federal authorities raided the Washington-area home of Democratic Rep. Ilhan Omar early Monday as part of an investigation into the Somali-born lawmaker's immigration paperwork, Fox News reports.
+‏
+‏The investigation concerns documents completed by the Minnesota lawmaker's late father when she was a child.
+16:23
+1405/07/20
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏اعلام العدو يعلن عن مصرع أحد المصابين في الانفجار الذي وقع في سلسلة جبال راميم.
+16:22
+1405/07/20
+
+
+
+
 src :@Ali_bk_2
 [عکس]
 ‏Enemy media:  20 wounded at the scene
@@ -126,18 +218,6 @@ src :@IranintlTV
 ‏
 ‏@iranintltvsport
 16:17
-1405/07/20
-
-
-
-
-src :@wfwitness
-‏⚡️🇷🇺🇺🇳🇱🇧 Russian Foreign Minister Sergey Lavrov stressed the importance of keeping UN peacekeepers in Lebanon and even extending their mission past 2026 to ensure peace in the Mediterranean nation:
-‏
-‏"We also spoke about the prospects of preserving... Keeping the UN peacekeepers in Lebanon in light of the fact that in December, the mandate of the UN forces in Lebanon is expiring. And we believe it would be a good thing to keep the UN contingent after 2026 as well, maybe in some other ways with other goals. But the main thing is that that mandate worked to ensure a peace and to register all the violations."
-‏
-‏@wfwitness
-16:16
 1405/07/20
 
 
@@ -631,14 +711,6 @@ src :@naya_foriraq
 
 
 
-src :@naya_foriraq
-‏اعلام العدو: إرسال طائرات هليكوبتر إلى المنطقة لنقل المصابين
-15:42
-1405/07/20
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇱 Israeli Channel 12: An explosion occurred in the area of Kibbutz Yiftach, near the northern border with Lebanon.
 ‏
@@ -765,22 +837,6 @@ src :@ClashReport
 ‏
 ‏Source: Bloomberg
 15:36
-1405/07/20
-
-
-
-
-src :@naya_foriraq
-‏اعلام العدو: مجموعة من المتنزهين أصيبت نتيجة انفجار، يُشتبه في وجود قتلى.
-15:36
-1405/07/20
-
-
-
-
-src :@naya_foriraq
-‏الإسعاف الصهيونية: هناك 12 مصابًا في منطقة راميم منهم 2 في حالة خطيرة
-15:35
 1405/07/20
 
 
@@ -1002,23 +1058,6 @@ src :@Exciton_missile_program
 [عکس]
 ‏تخمین عددی سهم نیروی هوایی و نیروی دریایی آمریکا از حجم آتش در جنگ 40 روزه  یکی از نکات مهم برای سناریوخوانی تحولات آینده این است که بررسی کنیم، استقرار هر یک شاخه‌های ارتش آمریکا در منطقه، چه میزان به حجم آتش آمریکا خواهد افزود. از این طریق می‌توانیم ارزیابی…
 15:20
-1405/07/20
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇱🇵🇸⚡️ — An investigation by The Telegraph has uncovered potential conflicts of interest involving members of the Board of Peace, the Trump-led organization responsible for overseeing Gaza's reconstruction and postwar governance.
-‏
-‏Five board members have financial connections to Israeli defense manufacturer Smart Shooter, which recently secured a U.S. military contract worth up to $150 million. The company produces AI-assisted rifle sights, robotic weapon systems and armed drones that have been used by Israeli forces in Gaza.
-‏
-‏Trump's son-in-law Jared Kushner, a leading figure on the board, runs Affinity Partners, an investment firm backed by billions of dollars from Saudi Arabia, Qatar and the UAE. The firm holds a 7.4% stake in Israel's Phoenix Financial, which invests in companies linked to the Israeli military, including Smart Shooter.
-‏
-‏The investigation also identified business interests connected to Israeli settlement development in the occupied West Bank, a company facing U.S. litigation over allegations involving Hamas tunnels, a multibillion-dollar Trump golf resort project in Qatar, and a cybersecurity company linked to the creator of Pegasus spyware.
-‏
-‏Officials involved in the initiative rejected the allegations of conflicts of interest.
-15:19
 1405/07/20
 
 
@@ -2298,24 +2337,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 13:00
-1405/07/20
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏A US E-3G early warning aircraft is flying south of Riyadh in Saudi Arabia.
-12:59
-1405/07/20
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرة الإنذار المبكر الأميركية من طراز E-3G تُحلق جنوب الرياض في السعودية.
-12:59
 1405/07/20
 
 
@@ -3828,20 +3849,6 @@ src :@GeoPWatch
 ‏The shortage, which comes as the Houthis (Ansarullah) expand their operations against Saudi targets, including refineries, gas plants and airports, have forced the Saudis to quickly redeploy and move air defense systems from place to place to expand coverage as much as possible.
 ‏
 ‏@GeoPWatch
-08:15
-1405/07/20
-
-
-
-
-src :@mohem_mat
-‏۱. من قلبا ایران را بسیار دوست دارم. پارسی‌ زبان بودن برایم بزرگترین نعمت و عنصر هویت است. توئمان خشم شدیدی نسبت به جامعه امروز ایران و این چند دستگی‌های ویرانگر دارم. مقصر اصلی بی‌گمان ... است، اما من دلم به حال چیزی بنیادین‌تر و وجودی‌تر می‌سوزد…
-‏۲. اینکه ما سال‌هاست خزانه‌ی تاریخ و فرهنگ ایران را برای جبران شرارت‌ها، منفعت‌طلبی‌ها و خیره‌سری‌هامان مصرف کرده‌ایم. حالا این گنجینه دارد تمام می‌شود. دارد تمام می‌شود و من این را با تمام وجود حس می‌کنم. «رانت تاریخ ایران» به پایان خود رسیده است و دیگر ضامن بقای ما نخواهد بود.
-‏۳. اگر نخواهیم به جای ستیز دائمی در جامعه، به راهی میانه برای احیای امر جمعی روی بیاوریم و نپذیریم ایران برای همه‌ی ایرانیان -اعم از دیندار و غیر دیندار، شهری و دهاتی و…- است (آنچه جز با مدارا میسر نیست)، از ایران جز ویرانه‌ای چندپاره و هویتی منقرض شده در تاریخ باقی نخواهد ماند.
-‏
-‏https://x.com/AliHejaziYazdi/status/2109221158218522999
-‏
-‏@mohem_mat
 08:15
 1405/07/20
 
