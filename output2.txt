@@ -1,3 +1,12 @@
+src :@OSINTWarfare
+[عکس]
+‏Ukraine’s Defence Intelligence (HUR) reports that Russia is developing a new variant of the Kh-47M2 Kinzhal aeroballistic missile equipped with a high-explosive fragmentation warhead.
+11:47
+1405/07/20
+
+
+
+
 src :@MilitarryWorld
 ‏🔴چین حملات حوثی‌ها به عربستان سعودی را محکوم کرد
 ‏
@@ -3195,15 +3204,6 @@ src :@Mena_Live
 
 
 
-src :@intelslava
-[عکس]
-‏The Iranian Armed Forces and the Islamic Revolutionary Guard Corps (IRGC) are conducting comprehensive military exercises involving ballistic missiles, loitering munitions, and air defense systems.  Islamic Republic of Iran Air Force (IRIAF) units are participating…
-23:48
-1405/07/19
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏بنیامین نتانیاهو، نخست‌وزیر اسراییل، شامگاه یکشنبه ۱۹ مهر در مقر فرماندهی ارتش در تل‌آویو با مقام‌های ارشد امنیتی دیدار کرد. به گفته یک مقام اسراییلی، موضوع ایران در کنار پرونده‌های غزه و لبنان در دستور کار این نشست بود. یسراییل کاتس، وزیر دفاع، نیز در این نشست حضور داشت.
@@ -6101,17 +6101,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 12:03
-1405/07/19
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ نیروهای مسلح اوکراین شب گذشته به پل ریلی متحرک روستوف در شهر روستوف-نا-دون حمله کردند.
-‏
-‏میزان خسارات وارده به پل مشخص نیست، اما با توجه به تصاویر منتشر شده توسط اوکراین، پهپادهای اوکراینی به مکانیزم‌های بالابر پل اصابت کرده‌اند. هدف از این حملات، از کار انداختن پل برای عبور قطارهای ریلی از روی آن یا کشتی‌ها از زیر آن است.
-‏
-‏@Guard_Warriors | Mmd
-11:46
 1405/07/19
