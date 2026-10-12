@@ -1,6 +1,94 @@
+src :@GeoPWatch
+‏🇾🇪❌🇸🇦 – The Saudi coalition claims to have shot down two Houthi ballistic missiles that targeted Khamis Mushait.
+‏
+‏@GeoPWatch
+00:27
+1405/07/21
+
+
+
+
+src :@wfwitness
+‏⚡️🇸🇦🇾🇪 The Saudi-led coalition spokesman says they intercepted 2 Houthi ballistic missiles targeting Khamis Mushait.
+‏
+‏@wfwitness
+00:26
+1405/07/21
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇸🇦/🇾🇪 NEW: Another attack is ongoing against Riyadh, the capital of Saudi Arabia
+‏
+‏@Middle_East_Spectator
+00:25
+1405/07/21
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴ترامپ: اتحادیه اروپا ۲۵۰ میلیارد دلار بابت انرژی به روسیه پرداخت کرده؛ رسانه‌ها خریدهای انرژی اروپا از روسیه را نادیده می‌گیرند
+‏
+‏تصمیم من درست بوده و اول امریکا برایم مهم است.
+‏
+‏@MilitarryWorld | Parsa
+00:24
+1405/07/21
+
+
+
+
+src :@naya_foriraq
+‏انفجارات تهز خميس مشيط
+00:24
+1405/07/21
+
+
+
+
+src :@Ali_bk_2
+‏Explosions in Sanaa
+00:23
+1405/07/21
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇺🇸 — American actor RJ Mitte, best known for playing Walter White's son in Breaking Bad, dead at 34 by suicide.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+00:23
+1405/07/21
+
+
+
+
+src :@Alibk3
+‏دوي انفجارات في صنعاء
+00:23
+1405/07/21
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: تقابل بریتانیا با جمهوری اسلامی؛ کشف رد پای سپاه در یک توطئه امنیتی
+‏@iranintlTV
+00:22
+1405/07/21
+
+
+
+
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇱🇸🇦🇾🇪🇾🇪🇺🇸Haaretz: Israeli Prime Minister Netanyahu is seeking Saudi Arabia’s approval, through U.S. mediation, for Israel to join the campaign against Yemen’s Houthis.
+‏⚡️🇮🇱🇸🇦🇾🇪🇾🇪🇺🇸 Haaretz: Israeli Prime Minister Netanyahu is seeking Saudi Arabia’s approval, through U.S. mediation, for Israel to join the campaign against Yemen’s Houthis.
 ‏
 ‏Saudi Crown Prince Mohammed bin Salman reportedly opposes Israeli military involvement, fearing a public backlash inside the kingdom. 
 ‏
@@ -1100,24 +1188,6 @@ src :@tglobaleye
 
 
 
-src :@Ali_bk_2
-[ویدئو]
-‏Riyadh a short while ago.
-22:54
-1405/07/20
-
-
-
-
-src :@Alibk3
-[ویدئو]
-‏الرياض قبل قليل.
-22:54
-1405/07/20
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️اد میلیبند، وزیر خارجه بریتانیا، روز دوشنبه ۲۰ مهر ماه اعلام کرد دو شهروند ایرانی به دلیل نقش داشتن در تسهیل یا انجام فعالیت‌های خصمانه به نمایندگی از حکومت ایران، با هدف تهدید، برنامه‌ریزی یا اجرای حملات در خارج از کشور، تحریم شده‌اند.
@@ -1482,16 +1552,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 22:31
-1405/07/20
-
-
-
-
-src :@naya_foriraq
-‏🔻If you want to see our Video inside KSA join us in “ twitter “
-‏
-‏🔻 https://x.com/nayaixa3/status/2109720131270275359?s=46
-22:30
 1405/07/20
 
 
@@ -3382,34 +3442,6 @@ src :@mwarmonitor
 
 
 
-src :@intelslava
-‏🇺🇸🇵🇱⚡ NATO Supreme Allied Commander Europe Alexus Grynkewich said establishing a permanent US military base in Poland would take years because the necessary infrastructure must be built first.
-‏
-‏In an interview with Polish TV channel TVP World, Grynkewich said the timeline would depend on how long it took to build the necessary infrastructure.
-‏
-‏@IntelSlava
-19:37
-1405/07/20
-
-
-
-
-src :@intelslava
-‏🇫🇷🇷🇺🇺🇦⚡ I think there can be no reopening on energy matters unless there is a genuine ceasefire on both sides. 
-‏
-‏I have not seen any energy ceasefire on the Russian side over the past 48 hours.
-‏
-‏We all need to be serious. Today, we have absolutely no factual reason to change our position. Russia continues to bomb both civilians and infrastructure in Ukraine.
-‏
-‏— French President Emmanuel Macron.
-‏
-‏@IntelSlava
-19:35
-1405/07/20
-
-
-
-
 src :@samueltarikh
 ‏⭕️بیانیه ۲۹ کشور از جمله انگلیس و آمریکا: ایران در حادثه پایگاه فیرفورد نقش داشته
 19:33
@@ -3826,17 +3858,6 @@ src :@defence_news
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏⭕️قیمت نفت برنت به 107 دلار رسید
-‏
-‏@MilitarryWorld | Maverick
-18:49
-1405/07/20
-
-
-
-
 src :@didarnews1
 ‏🔴پزشکیان: اگر مسلمان باشید ولی در مسائل گره ایجاد کنید، تفاوتی با کافر ندارید
 ‏
@@ -4028,16 +4049,6 @@ src :@samueltarikh
 [عکس]
 ‏بدون شرح...
 18:28
-1405/07/20
-
-
-
-
-src :@Middle_East_Spectator
-‏— 🇺🇸/🇺🇦/🇮🇷 President Zelenskyy to Fox News: ‘Everyone understands that diesel prices in the U.S. do not depend on refineries being hit in Russia. They are high because the Strait of Hormuz is blocked.’
-‏
-‏@Middle_East_Spectator
-18:25
 1405/07/20
 
 
@@ -4627,17 +4638,6 @@ src :@GeoPWatch
 
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸 - 2 BM launches from Yazd, Iran.  @GeoPWatch
-17:06
-1405/07/20
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇮🇷❌🇺🇸 - 2 BM launches from Yazd, Iran.
-‏
-‏@GeoPWatch
 17:06
 1405/07/20
 
@@ -6255,18 +6255,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 02:35
-1405/07/20
-
-
-
-
-src :@OSINTWarfare
-‏⚡️🇮🇷🇾🇪🇸🇦 Iran's Ministry of Foreign Affairs:
-‏
-‏Iran is ready to offer any assistance that could help initiate dialogue between Saudi Arabia and Yemen.
-‏
-‏@Alsaa_plus_EN
-01:00
 1405/07/20
 
 
