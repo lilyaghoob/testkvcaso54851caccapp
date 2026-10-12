@@ -1,3 +1,17 @@
+src :@ClashReport
+‏A cyberattack targeting refrigeration systems at French supermarkets, including Intermarché, Leclerc and Super U, reportedly caused widespread food losses on October 12.
+‏
+‏Hackers allegedly exploited older software from Danish manufacturer Danfoss to remotely activate continuous defrosting, setting temperatures as high as 50°C and destroying fresh and frozen products.
+‏
+‏Around 150 Intermarché stores were reportedly affected, alongside Leclerc, Super U and potentially other retailers.
+‏
+‏Two supermarkets in Alsace reported combined losses of €270,000, while nationwide damage could reach several million euros.
+14:47
+1405/07/20
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری «تسنیم» گزارش داده که دو درخواست پزشکی «علیرضا بیرانوند»، دروازه‌بان تیم فوتبال جمهوری اسلامی و باشگاه تراکتور، برای معافیت از خدمت سربازی رد شد و او باید روز اول آبان۱۴۰۵ به خدمت اعزام شود.
