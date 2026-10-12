@@ -1,3 +1,53 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏خبر های واصله حاکی از آن است که با پیشروی های حوثی ها در جبهه تعز در چند منطقه آزادی منطقه مسراخ در جنوب تعز وضعیت این شهر تقریباً به این شکل در آمده است
+‏
+‏🆔@WAR_ROOM_NEWS
+16:04
+1405/07/20
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Polish police arrested a man in his 60s on October 11 in Lower Silesia, southwestern Poland, for planning an attack against Prime Minister Donald Tusk and Defence Minister Władysław Kosiniak-Kamysz. 
+‏
+‏Security services had received intelligence warning of a highly credible assassination threat, prompting an emergency meeting and investigation. Interior Minister Marcin Kierwiński said investigators identified the perpetrator through analysis of his online activity and are examining his contacts. 
+‏
+‏Tusk confirmed the arrest on X, thanking police for their swift and decisive action. Authorities have not disclosed the suspect’s identity, motive or precise attack plans, and the investigation remains ongoing.
+16:04
+1405/07/20
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏الاسعاف الصهيوني يستنفر بعد الانفجار
+16:03
+1405/07/20
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏وزارة التعليم الصهيونية: إنها حادثة مؤلمة للغاية، وقلوبنا مع الضحايا وعائلاتهم.
+16:02
+1405/07/20
+
+
+
+
+src :@naya_foriraq
+‏طائرات العدو تستنفر لنقل القتلى والجرحى
+16:02
+1405/07/20
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏☆برای یک مثال ، شمارا دعوت میکنم به سفر در تاریخ ، سفری به ژوئن ۱۹۷۲ ! 
@@ -111,6 +161,8 @@ src :@wfwitness
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏۱۰۶
+‏
+‏🆔@WAR_ROOM_NEWS
 15:55
 1405/07/20
 
@@ -1537,15 +1589,6 @@ src :@intelslava
 
 
 
-src :@naya_foriraq
-[عکس]
-‏المتحدثة باسم جيش العدو الإسرائيلي تنشر مقالا في موقع "إيلاف" السعودي
-13:56
-1405/07/20
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔴 گزارش شبکه فاکس‌نیوز از اهداف حملات یمنی‌ها در عربستان سعودی در ده روز ابتدایی ماه اکتبر
@@ -1837,14 +1880,6 @@ src :@ManotoTV
 
 
 
-src :@naya_foriraq
-‏زيلينسكي: بعد فترة وجيزة من منشور الرئيس ترامب على منصة "تروث سوشيال"، أطلقت روسيا هجومًا استهدف محطة توليد كهرباء في خاركيف.
-13:29
-1405/07/20
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn  SAM launch test @ 12:00 local / 0830Z  Yazd, Yazd Province  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/OfesoEIpGtgzmHLCnoF8tIgg  ترجمه خودکار فارسی  آزمایش شلیک موشک زمین‌به‌هوا در ساعت 12:00…
@@ -1962,14 +1997,6 @@ src :@Alibk3
 ‏
 ‏إعادة ملء مخزونات النفط قد تستغرق نحو عامين.
 13:17
-1405/07/20
-
-
-
-
-src :@naya_foriraq
-‏🇸🇦نتيجة للهجمات اليمانية.. ‏الرئيس التنفيذي لشركة أرامكو السعودية: انخفضت المخزونات التجارية البرية الآن إلى أقل بكثير من ستة مليارات برميل، وهي آخر مخزون احتياطي متاح.
-13:16
 1405/07/20
 
 
@@ -3349,17 +3376,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 10:16
-1405/07/20
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏فاکس‌نیوز : ارتش آمریکا راهنمای شناسایی نیروهای زمینی ارتش درایران را برای سربازان خود منتشر کرد.بر اساس این گزارش، این راهنما با عنوان «تهدید را بشناس»برای کمک به سربازان آمریکایی در شناسایی نیروهای ارتش متعارف در ایران طراحی شده است،این راهنما شامل تصاویر یونیفرم‌ها، علائم درجه و تجهیزات نظامی در ایران، از جمله تفنگ مصاف ۲ و آرپی‌جی ۷ ....
-‏است
-‏🆔@WAR_ROOM_NEWS
-10:15
 1405/07/20
 
 
@@ -5753,15 +5769,6 @@ src :@DEJradio
 ‏#تنگه_هرمز #کشتیرانی #نفت
 ‏@DEJradio
 17:50
-1405/07/19
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iran struck an oil tanker in the Strait of Hormuz.
-17:32
 1405/07/19
 
 
