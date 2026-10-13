@@ -1,3 +1,81 @@
+src :@Artemis_Force
+[عکس]
+‏شرکت ژاپنی کاواساکی، فروش محصولات نظامی خود را به دلیل افزایش هزینه‌های نظامی افزایش می‌دهد.
+‏
+‏شرکت کاواساکی هیوی اینداستریز قصد دارد تا اواسط دهه ۲۰۳۰، حجم فروش محصولات نظامی خود را به ۱ تریلیون ین (حدود ۶.۷ میلیارد دلار) و بیشتر برساند. 
+‏
+‏این شرکت هدف خود را برای سال مالی ۲۰۳۰ بازنگری کرده است: اکنون این هدف، ۷۰۰ تا ۸۰۰ میلیارد ین است، در حالی که قبلاً ۵۰۰ تا ۷۰۰ میلیارد ین بود. 
+‏
+‏در حال حاضر، حجم فروش محصولات نظامی این شرکت حدود ۵۱۰ میلیارد ین تخمین زده می‌شود.
+‏
+‏دلیل این امر: ژاپن، هزینه‌های نظامی خود را افزایش داده و بر روی پهپادها و هوش مصنوعی تمرکز کرده است. 
+‏
+‏شرکت کاواساکی در حال توسعه پهپادهایی است که قرار است در کنار هواپیماهای سنگین ، در عملیات‌های سرکوب و حمله ( وینگمن) ، و همچنین زهپاد و شهپاد ، مورد استفاده قرار گیرند.
+‏
+‏این شرکت همچنین در زمینه هوش مصنوعی فیزیکی، به ویژه در ربات‌های صنعتی برای تولید نیمه‌رساناها و صنایع کشتی‌سازی، سرمایه‌گذاری می‌کند. این صنایع در کاواساکی، از اهمیت ویژه‌ای برای امنیت ملی برخوردارند.
+‏
+‏@artemis_force
+14:02
+1405/07/21
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Arash UAV launched for a SAM test (SAM launched afterwards) @ 1000Z
+‏Khomeini Shahr
+‏
+‏Isfahan Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/qBgc5DPusUgNrtJrqqqzKbd7
+‏
+‏ترجمه خودکار فارسی
+‏
+‏پهپاد آرش برای آزمایش سامانه موشکی زمین‌به‌هوا پرتاب شد (موشک زمین‌به‌هوا پس از آن شلیک شد) در 1000Z (۱۳:۳۰ به وقت تهران)
+‏خمینی‌شهر
+‏
+‏استان اصفهان، ایران
+‏
+‏[ارسال با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/qBgc5DPusUgNrtJrqqqzKbd7
+‏
+‏𝕏  ·  @shin_persian
+14:00
+1405/07/21
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزارت امور خارجه : ایران و عمان به توافقی دست یافته‌اند مبنی بر تعیین یک مسیر موقت برای کشتیرانی، و جزئیات اجرایی آن در حال پیگیری است
+‏
+‏توافق ایران و عمان درباره مسیر امن عبور کشتی‌ها، موضوعی متفاوت از بازگشایی تنگه هرمز است.
+‏
+‏@MilitarryWorld | Parsa
+13:58
+1405/07/21
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇲🇻🇦🇪 Adhadhu: Two Maldivian Flydubai pilots have reportedly been detained by UAE authorities as part of the investigation into co-pilot Hamam al-Hammami’s alleged attempt to crash a Dubai–Tel Aviv flight.
+‏
+‏Maldivian media reported that the two pilots had interacted with al-Hammami at work. Their families were reportedly informed of their detention by the Maldivian Embassy in the UAE after initially receiving no information about their whereabouts.
+‏
+‏The Maldivian President’s Office and Foreign Ministry declined to comment. UAE authorities have not publicly announced charges against the two pilots or confirmed any direct involvement in the alleged attack.
+‏
+‏@wfwitness
+13:57
+1405/07/21
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏اداره اطلاعات استان کرمانشاه از دستگیری دو عضو یک تیم قاچاق سلاح از اقلیم کردستان عراق خبر داد که به گفته این نهاد، با هدف انجام عملیات تروریستی قصد ورود به ایران را داشتند  به گزارش این نهاد، اعضای این تیم شامل یک ایرانی و یک تبعه کشور همسایه بودند که پیش…
 13:56
@@ -34,7 +112,9 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏اداره اطلاعات استان کرمانشاه از دستگیری دو عضو یک تیم قاچاق سلاح از اقلیم کردستان عراق خبر داد که به گفته این نهاد، با هدف انجام عملیات تروریستی قصد ورود به ایران را داشتند
 ‏
-‏به گزارش این نهاد، اعضای این تیم شامل یک ایرانی و یک تبعه کشور همسایه بودند که پیش از ورود به کشور تحت نظر قرار داشتند. در جریان این عملیات، ۹۹ قبضه سلاح کمری، ۱۰ قبضه کلاشینکف، هزار و ۷۰۰ فشنگ و ۱۹۸ خشاب سلاح کمری کشف و ضبط شد.
+‏به گزارش این نهاد، اعضای این تیم شامل یک ایرانی و یک تبعه کشور همسایه بودند که پیش از ورود به کشور تحت نظر قرار داشتند. در جریان این عملیات، ۹۹ قبضه سلاح کمری، ۱۰ قبضه کلاشینکف، هزار و ۷۰۰ فشنگ و ۱۹۸ خشاب سلاح کمری کشف و ضبط شد
+‏
+‏🆔@WAR_ROOM_NEWS
 13:55
 1405/07/21
 
@@ -84,6 +164,8 @@ src :@wfwitness
 ‏Security forces seized 99 handguns, 10 Kalashnikov rifles, 1,700 rounds of ammunition and 198 handgun magazines.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 13:51
 1405/07/21
 
@@ -101,6 +183,8 @@ src :@Shin_Persian
 
 src :@WAR_ROOM_NEWS
 ‏برخی گزارش‌ها از شلیک موشک‌های بالستیک ضدکشتی از استان اصفهان به سمت شارجه در امارات حکایت دارد
+‏
+‏🆔@WAR_ROOM_NEWS
 13:45
 1405/07/21
 
@@ -3872,14 +3956,6 @@ src :@MilitarryWorld
 ‏آمریکا در نهایت ایران رو درستش میکنه
 ‏
 ‏@MilitarryWorld | Parsa
-01:00
-1405/07/21
-
-
-
-
-src :@MilitarryWorld
-‏🔥هیجان را در بت روول تجربه کنید🔥 💥آپشن‌های متنوع با بالاترین ضرایب   🧮انواع روش‌های شارژ ریالی و کریپتو ✳️کریپتو شارژ کن کریپتو برداشت کن  📝پشتیبانی ۲۴ ساعته   💸واریز جوایز در سریعترین زمان  📲لینک اصلی سایت 👇  Https://brool90.com/ هم اکنون به ما بپیوندید👇🏻…
 01:00
 1405/07/21
 
