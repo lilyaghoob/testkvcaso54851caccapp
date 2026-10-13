@@ -1,3 +1,39 @@
+src :@Indypersian
+[عکس]
+‏♦️خبرگزاری العربیه روز سه‌شنبه ۲۱ مهر به نقل از منابع محلی از شنیده شدن صدای چندین انفجار در شهر صنعا، پایتخت یمن که در کنترل حوثی‌ها قرار دارد، خبر داد.
+‏
+‏در همین حال، رسانه‌های وابسته به حوثی‌ها گزارش دادند که حملات هوایی نیروهای ائتلاف حامی دولت به‌رسمیت‌شناخته‌شده بین‌المللی، یک تاسیسات نفتی را در منطقه «الصباحه» در صنعا هدف قرار داده است.
+‏
+‏این حملات پس از آن انجام گرفت که ائتلاف سعودی با انتشار اطلاعیه‌ای فوری از غیرنظامیان خواسته بود به دلایل ایمنی، محوطه شرکت نفت و ایستگاه مرکزی الصباحه در این منطقه را برای اجرای یک «عملیات ویژه» تخلیه کنند.
+‏@indypersian
+18:09
+1405/07/21
+
+
+
+
+src :@naya_foriraq
+‏اعلام العدو: المشتبك مصاب
+18:09
+1405/07/21
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏روابط عمومی نیروی دریایی ارتش جمهوری اسلامی سه‌شنبه ۲۱ مهر اعلام کرد ظهر امروز یک نفتکش «متخلف» که با خاموش کردن سامانه‌های ردیابی و تلاش برای عبور از «منطقه ممنوعه»، در محدوده شرق تنگه هرمز دچار آسیب و حریق شده بود، از سوی تیم‌های رصد نیروی دریایی ارتش شناسایی شد.
+‏
+‏در این بیانیه آمده است: «نیروی دریایی ارتش با آرایش جدید و استقرار یگان‌های عملیاتی در شرق تنگه هرمز، دریای عرب و دریای عمان، تمامی فعالیت‌های دشمن و عبور و مرور شناورها را به‌طور دائمی و لحظه‌ای رصد می‌کند.»
+‏
+‏نیروی دریایی ارتش همچنین از همه شناورها خواست با رعایت قوانین بین‌المللی، از خاموش کردن تجهیزات الکترونیکی خود خودداری کنند و برای «عبور ایمن»، هماهنگی‌های لازم را با نیروهای مسلح جمهوری اسلامی انجام دهند.
+‏https://iranintl.com/202610137602
+18:08
+1405/07/21
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏پایگاه خبری حال‌وش، روز سه‌شنبه ۲۱ مهر ۱۴۰۵، از درگیری بین نیروهای جمهوری اسلامی و مخالفان مسلح در استان سیستان و بلوچستان خبر داد و گزارش کرد، دو مین در مسیر کاروان نیروهای سپاه پاسداران و شبه‌نظامیان فاطمیون در منطقه پیرسوران شهرستان زاهدان منفجر شده است. 
@@ -8,6 +44,14 @@ src :@Farsi_Iranwire
 ‏
 ‏
 ‏@Farsi_Iranwire
+18:07
+1405/07/21
+
+
+
+
+src :@naya_foriraq
+‏انباء اولية عن استشهاد المقتحم
 18:07
 1405/07/21
 
@@ -284,7 +328,7 @@ src :@tabzlive
 ‏
 ‏According to the Central African government, more than 200 rebels were engaged in battle, which led to more than 60 killed and injured on the rebel side, including FPRC general Mahamat Déya who is claimed to have been seriously wounded.
 ‏
-‏The battle also made Chadian civilians and military casualties, which led the C.A.R. Ambassador in Chad to be summoned by the Chadian minor foreign affairs in protest of what they called an illegal incursion by C.A.R. soldiers in its territory.
+‏The battle also made Chadian civilians and military casualties, which led the C.A.R. Ambassador in Chad to be summoned by the Chadian minister of foreign affairs in protest of what they called an illegal incursion by C.A.R. soldiers in its territory.
 17:52
 1405/07/21
 
@@ -1351,31 +1395,6 @@ src :@wfwitness
 
 
 
-src :@Ali_bk_2
-[عکس]
-‏The Yemeni Armed Forces urge all citizens to evacuate immediately and stay away from the targets our armed forces will strike if the Saudi enemy proceeds with its announced targeting in the capital, Sanaa.
-‏
-‏Aramco headquarters in Dammam
-‏King Khalid Airport in Riyadh
-‏Aramco’s Riyadh refinery
-16:49
-1405/07/21
-
-
-
-
-src :@Alibk3
-[عکس]
-‏تهيب القوات المسلحة اليمنية بجميع المواطنين بالإخلاء الفوري والابتعاد عن الأهداف التى ستقوم قواتنا المسلحة باستهدافها في حال أقدم العدو السعودي على استهداف ما أعلن عنه في العاصمة صنعاء 
-‏مقر شركة أرامكو في الدمام 
-‏مطار خالد في الرياض
-‏مصفاة الرياض التابعة لشركة أرامكو
-16:49
-1405/07/21
-
-
-
-
 src :@OSINTWarfare
 ‏Ansar Allah (Houthis) is urging civilians to immediately evacuate and stay away from the following sites, which it says will be targeted if Saudi Arabia strikes the Yemen Petroleum Company’s Al-Sabaha Central Station in Sanaa:
 ‏
@@ -1537,26 +1556,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇸🇦🇾🇪🇾🇪 The Houthis have issued a warning to all ARAMCO facilities following the Saudi evacuation order to a site in Sana'a, Yemen:  "We warn all employees and citizens located near any Saudi Aramco facility to evacuate the area and stay away from it, as…
 16:35
-1405/07/21
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دو رسانه حقوق بشری بلوچستان از کشته شدن شماری از نیروهای شبه‌نظامی فاطمیون در درگیری با افراد مسلح در منطقه چاه‌احمد شهرستان تفتان در استان سیستان و بلوچستان، در روز سه‌شنبه ۲۱ مهر، خبر دادند.
-‏
-‏حال‌وش گزارش داد که در ساعات اولیه درگیری، حدود ۱۸ موتورسیکلت حامل نیروهای فاطمیون از پایگاه سرکال قلعه‌بید به ارتفاعات منطقه اعزام شدند و در کمین افراد مسلح قرار گرفتند. به گفته این رسانه، بیش از ۲۰ نفر از نیروهای فاطمیون در این حمله کشته یا زخمی شدند.
-‏
-‏شبکه اسناد حقوق بشر بلوچستان نیز به نقل از منابع خود کشته شدن شماری از نیروهای فاطمیون در ارتفاعات لوپ را تایید کرد، اما آماری از شمار کشته‌شدگان ارائه نداد.
-‏
-‏به گزارش این دو رسانه، نیروهای نظامی پس از متحمل شدن تلفات، با استفاده از خمپاره و پهپاد ارتفاعات منطقه را هدف قرار دادند.
-‏
-‏حال‌وش همچنین اعلام کرد که درگیری‌ها پس از گذشت بیش از هفت ساعت همچنان ادامه داشته است.
-‏
-‏در مقابل، رسانه‌های وابسته به سپاه پاسداران از کشته شدن شماری از افراد مسلح خبر داده‌اند. آمار دقیق تلفات طرفین هنوز به‌طور مستقل تایید نشده است.
-‏https://iranintl.com/202610136000
-16:33
 1405/07/21
 
 
@@ -4309,17 +4308,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@intelslava
-[عکس]
-‏🇾🇪🇾🇪❌🇸🇦 — Early this morning, the Houthis announced that they had shot down a Royal Saudi Air Force (RSAF) Wing Loong II unmanned combat aerial vehicle (UCAV) over Saada Governorate.
-‏
-‏@IntelSlava
-11:31
-1405/07/21
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏Early this morning, Ansar Allah (Houthis) announced that it had shot down a Royal Saudi Air Force (RSAF) Wing Loong II unmanned combat aerial vehicle (UCAV) over Saada Governorate.
@@ -6026,14 +6014,6 @@ src :@ircfspace
 
 
 
-src :@OSINTWarfare
-‏Riyadh, the capital of Saudi Arabia, is under a ballistic missile attack by Ansar Allah (Houthis).  Locals reported hearing three explosions, with one unconfirmed impact.
-22:03
-1405/07/20
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏چند روز پیش یکی از دوستان پرسید که سرعت کلاهکی که موتور دارد چگونه محاسبه میشود چون سقوط آزاد صرفا نیست. اگر زاویه سقوط و جرم کلاهک را ثابت در نظر بگیریم (چون مصرف سوخت دارد). میتوان از طریق این فرمولهای بسیار ساده‌ای که نوشته ام تخمینی از سرعت کلاهک در لحظه…
@@ -6709,17 +6689,4 @@ src :@guard_warriors
 src :@samueltarikh
 ‏🚨معاریو: برآورد نهادهای امنیتی نشان میدهد اگر ایران [به اسرائیل] حمله نکند رویارویی به بعد از انتخابات موکول خواهد شد
 18:14
-1405/07/20
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏فضاپیماهای نسل اولیه وستوک، بدلیل اینکه دارای سیستم فرود نرم نبودند، کیهان‌نورد توسط سیستم ایجکت از فضاپیما به بیرون پرت می‌شد تا توسط چتر نجات با ایمنی بالا فرود بیاد و خود فضاپیما هم به صورت جداگانه و با چتر نجات دیگری فرود میامد.
-‏
-‏این سیستم باعث می‌شد که نیروی شتاب (نیروی جی) زیادی به بدن کیهان‌نورد وارد شود و برای همین در فضاپیماهای جدیدتر واسخود و سایوز، ازسیستم فرود نرم برای فرود همزمان کیهان‌نوردان و فضاپیما با هم استفاده شد.
-‏
-‏@rus_cosmos
-18:10
 1405/07/20
