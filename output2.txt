@@ -30,7 +30,7 @@ src :@intelslava
 
 
 src :@naya_foriraq
-‏النظام السعودي مقلدا النظام الصهيوني: سنصدر بعد قليل انذار للمدنيين بإخلاء موقع بصنعاء بهدف تنفيذ عملية نوعية.
+‏النظام السعودي مقلدا النظام الصهيوني: سنصدر بعد قليل انذار بإخلاء موقع بصنعاء بهدف تنفيذ عملية نوعية.
 15:31
 1405/07/21
 
@@ -1282,7 +1282,7 @@ src :@Farsi_Iranwire
 
 
 src :@intelslava
-‏🇷🇺🇺🇦 Russia has struck Ukrainian military-industrial facilities, rail and port infrastructure, logistics hubs, and a cargo ship carrying military supplies in coordinated missile and drone attacks.
+‏🇷🇺🇺🇦⚡️ — Russia has struck Ukrainian military-industrial facilities, rail and port infrastructure, logistics hubs, and a cargo ship carrying military supplies in coordinated missile and drone attacks.
 ‏
 ‏Targets reportedly included a missile and drone production workshop and a drone warehouse in the Mykolaiv region.
 ‏
@@ -3872,17 +3872,6 @@ src :@mamlekate
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، روز سه‌شنبه ۲۱ مهر در شبکه اجتماعی تروث سوشال نوشت: «من نظرات زیادی از سوی احمق‌ها و دیوانه‌های چپ رادیکال می‌بینم مبنی بر این‌که چین و روسیه به جمهوری اسلامی ایران «فوق‌العاده» کمک می‌کنند. اگر هم کمکی باشد، در سطحی بسیار پایین است؛ اما من اصلا باور ندارم که چنین کاری بکنند. آن‌ها چیزهای زیادی برای از دست دادن دارند و ما از آن باخبر می‌شدیم، آن هم خیلی سریع. از توجه شما به این موضوع متشکرم.»
-‏
-‏@indypersian
-06:57
-1405/07/21
-
-
-
-
 src :@mamlekate
 ‏📝 ترامپ: «جمهوری اسلامی ایران» بزرگترین حامی تروریسم جهان است و نباید سلاح هسته‌ای داشته باشد
 ‏
@@ -5515,19 +5504,6 @@ src :@Artemis_Force
 
 
 
-src :@selena_updates
-[عکس]
-‏The United States, United Kingdom and 22 other countries have issued a joint statement condemning Iranian intelligence agencies and the Islamic Revolutionary Guard Corps (IRGC) over assassination plots, kidnappings and attacks targeting dissidents, journalists, Jewish communities and Western interests across Europe, North America and Australia. 
-‏
-‏The governments accuse Tehran of using criminal networks and proxy groups to conduct operations abroad, demanding an immediate halt and pledging further countermeasures.
-‏
-‏In a further escalation today, Britain summoned Iran’s ambassador and sanctioned 2 Iranian nationals linked to overseas threats. The September 27 security incident near RAF Fairford remains under investigation, with no explosives found and no confirmed Iranian involvement.
-21:05
-1405/07/20
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇬🇧🇮🇷 — British PM Andy Burnham says he can confirm that the incident at RAF Fairford was 'almost certainly' directed by the IRGC.   @TheWarReporter
 21:04
@@ -5541,15 +5517,6 @@ src :@OSINTWarfare
 ‏
 ‏The new leadership has opted for a different direction and adopted a new strategy, moving away from tactics that had become obsolete and ineffective against the Israeli army and seeking to adapt to the evolution of warfare in recent years.
 21:03
-1405/07/20
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iran struck an oil tanker in the Strait of Hormuz.
-20:55
 1405/07/20
 
 
@@ -5578,19 +5545,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏مایکل وودفورد، متولد سال ۱۹۵۵، استاد اقتصاد سیاسی «جان بیتس کلارک» در دانشگاه کلمبیا است و پژوهشگر ارشد اقتصاد کلان و نظریه سیاست پولی است.
 20:46
-1405/07/20
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Federal agents from Homeland Security Investigations (HSI) raided the Washington, D.C., residence of Somali-born Democratic Congresswoman Ilhan Omar early Monday, executing a search warrant authorized by a federal judge. 
-‏
-‏The Department of Justice confirmed the operation was part of an ongoing criminal investigation. Investigators are examining immigration fraud involving paperwork submitted by Omar’s late father when she was a child. 
-‏
-‏Omar, a Minnesota representative and outspoken critic of Israel and President Donald Trump, has previously denied immigration fraud accusations.
-20:34
 1405/07/20
 
 
@@ -6303,17 +6257,6 @@ src :@thewarreporter
 
 
 
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇱 — One hiker dead and 10 injured in unexploded munition detonation near Neot Mordechai, northern Israel. Police and bomb disposal teams are investigating.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-16:41
-1405/07/20
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶تهدید را بشناس، عنوان راهنمای ارتش امریکا برای شناسایی نیروهای ایرانی.
@@ -6364,23 +6307,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 16:31
-1405/07/20
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🇸🇴 — Federal agents search Rep. Ilhan Omar’s DC-area home
-‏
-‏Homeland Security Investigations (HSI) agents executed a judicially authorized search warrant at the Washington, D.C.-area home of Rep. Ilhan Omar (D-Minn.) early Monday morning as part of an ongoing federal criminal investigation, according to a Department of Justice spokesperson and people familiar with the matter.
-‏
-‏A DOJ spokesperson confirmed: “Today in the Washington, D.C. area, Homeland Security Investigations executed a judicially authorized search warrant secured by the Department of Justice. This enforcement action is part of an ongoing federal investigation.”
-‏
-‏Reports indicate the probe relates to immigration paperwork completed by Omar’s late father when she was a child. Omar’s office has not immediately commented. The story is developing.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-16:28
 1405/07/20
 
 
