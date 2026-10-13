@@ -1,3 +1,27 @@
+src :@wfwitness
+[عکس]
+‏⚡️☀️🇮🇷🇮🇶 Iran’s Intelligence Directorate in Kermanshah province says it has arrested two members of a weapons smuggling team from the Kurdistan Region who were entering the country to carry out “terrorist operations”.
+‏
+‏The team, consisting of one Iranian and one national of a neighbouring country, was under surveillance before entry. 
+‏
+‏Security forces seized 99 handguns, 10 Kalashnikov rifles, 1,700 rounds of ammunition and 198 handgun magazines.
+‏
+‏@wfwitness
+13:51
+1405/07/21
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓  @hey_itsmyturn  Another BM [test] launch from Isfahan @ 0949Z  Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/sAztFQn99Feo4KpwO0b3nm0V  ترجمه خودکار فارسی  پرتاب [آزمایشی] یک موشک بالستیک دیگر از اصفهان در…
+13:50
+1405/07/21
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏برخی گزارش‌ها از شلیک موشک‌های بالستیک ضدکشتی از استان اصفهان به سمت شارجه در امارات حکایت دارد
 13:45
@@ -20,7 +44,7 @@ src :@Farsi_Iranwire
 
 src :@naya_foriraq
 [عکس]
-‏اضطرابات في الرحلات الجوية فوق دبي
+‏اضطرابات في الرحلات الجوية فوق دبي  https://t.me/naya_foriraq
 13:41
 1405/07/21
 
@@ -37,6 +61,8 @@ src :@jangaavaran1390
 
 src :@naya_foriraq
 ‏اضطرابات في الرحلات الجوية فوق دبي
+‏
+‏https://t.me/naya_foriraq
 13:40
 1405/07/21
 
@@ -343,6 +369,8 @@ src :@ClashReport
 
 src :@naya_foriraq
 ‏🇮🇷الخارجية الإيرانية: إيران وعمان توصلتا لتفاهم بشأن تحديد مسار مؤقت للملاحة والتفاصيل التنفيذية قيد المتابعة.
+‏
+‏https://t.me/naya_foriraq
 13:20
 1405/07/21
 
@@ -351,6 +379,8 @@ src :@naya_foriraq
 
 src :@naya_foriraq
 ‏🇷🇺الكرملين: العقوبات الأوروبية الجديدة على موارد الطاقة الروسية قد تعرقل التوصل إلى اتفاق بين موسكو وواشنطن.
+‏
+‏https://t.me/naya_foriraq
 13:18
 1405/07/21
 
@@ -1939,15 +1969,6 @@ src :@Parvazdaroj
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇶🇦🇸🇦 Qatar Airways has temporarily suspended flights to and from Riyadh and Dammam due to the current situation in Saudi Arabia.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:52
-1405/07/21
-
-
-
-
 src :@defence_news
 [عکس]
 ‏رزومه‌ت چند دلار فاند می‌ارزه؟
@@ -1960,15 +1981,6 @@ src :@defence_news
 ‏
 ‏در صورت بروز مشکل پیام بدید: @abroadinapply
 10:52
-1405/07/21
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇦🇪🇸🇦 Etihad Airways has canceled flights between Abu Dhabi and Riyadh, Dammam and Jeddah due to regional disruptions.   @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:51
 1405/07/21
 
 
@@ -5240,32 +5252,6 @@ src :@Artemis_Force
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Jet activity
-‏
-‏Kermanshah, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/XK0y-XcnG5A_0Nyahk_14AGz
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت جنگنده‌ها
-‏
-‏کرمانشاه، ایران
-‏
-‏[ارسال با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/XK0y-XcnG5A_0Nyahk_14AGz
-‏
-‏𝕏  ·  @shin_persian
-21:09
-1405/07/20
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The United States, United Kingdom and 22 other countries have issued a joint statement condemning Iranian intelligence agencies and the Islamic Revolutionary Guard Corps (IRGC) over assassination plots, kidnappings and attacks targeting dissidents, journalists, Jewish communities and Western interests across Europe, North America and Australia. 
@@ -6688,55 +6674,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 13:53
-1405/07/20
-
-
-
-
-src :@Exciton_missile_program
-‏دیدم شخصی می‌گوید اگر فلانی رئیس‌جمهور می‌شد و با اقتدار عمل می‌کرد، جنگ نمی‌شد. یادمان نرود که اسرائیل اولین اقدام بسیار سطح بالای خود را در دوران رئیسی، با حمله به کنسولگری  در دمشق، انجام داد. ج.ا نیز در دو مرحله، به دلیل رویدادهای مختلفی که پس از آن رخ داد، پاسخ نظامی حداکثری داد (مرحله دوم در پی ترور هنیه، ترور حسن نصرالله و ترمیم چهره مغشوش‌شده آفند موشکی در عملیات "وعده صادق ۱" صورت گرفت) و در مجموع دو عملیات حدود 300  موشک بالستیک، 30 موشک کروز و 160  پهپاد به سمت اسرائیل پرتاب کرد. یعنی تا جایی که از نظر سخت‌افزاری امکان داشت، پاسخ داد و این پاسخ سطح پایینی نبود.
-‏
-‏با این حال، طبق اعتراف صریح شمخانی به نقل از سرلشکر غلامعلی رشید، این اقدام بیش از آنکه بازدارندگی را ارتقا دهد، باعث ریزش آن شد. هرچند شخصا تئوری "تله تنش" را قبول ندارم. اسرائیل در پی جنگ بود، اما این رویدادها وضعیت آفندی و پدافندی طرفین را بیش از پیش آشکار کرد و در روندهای بعدی موثر افتاد.
-‏
-‏پس از جنگ 12 روزه نیز وقوع جنگی دیگر تقریبا محتوم به نظر می‌رسید و کمتر کارشناسی پرونده جنگ را بسته‌شده می‌دید. جنگ 12 روزه جنگی نیمه‌کاره بود که خواسته‌های امنیتی اسرائیل را تضمین نمی‌کرد. طبق برخی خبرها جنگ در واقع برای حدود تابستان 1405 تنظیم شده بود، اما چند ماه به دلیل اعتراضات دی‌ماه جلو افتاد. ج.ا تنها شاید با عقب نشینیهای غیرقابل تصور می‌توانست مانع آن شود؛ عقب نشینیهایی که در عمل به معنای عقب‌نشینی از بخش عمده‌ای از چهره سیاست خارجی و دفاعی نیم قرنی ج.ا بود.
-‏
-‏از این‌رو ساده‌انگارانه است که بدون توجه به مجموعه پیچیده متغیرهای امنیتی، سیاسی و نظامی ج.ا و اسرائیل، فکر کنیم با تغییر یک فرد، این کلان فضای پیچیده دستخوش تغییر عمده‌ای می‌شد.
-‏
-‏محسن ریحانی
-‏
-‏@Exciton_missile_program 🚀
-13:46
-1405/07/20
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Anduril has unveiled Steelfin, a new surface-to-air interceptor developed as part of a U.S. Army program to field a low-cost interceptor. According to company executives, Steelfin is expected to cost approximately one-third as much as a Patriot PAC-3 MSE missile.
-‏
-‏The missile can be equipped with different rocket motors and seeker heads, allowing it to be tailored to various aerial threats and upgraded more easily.
-‏
-‏Steelfin is compatible with multiple launch systems:
-‏
-‏• M903A2 launcher of the Patriot air defense system;
-‏
-‏• Mk 41 Vertical Launch System (VLS);
-‏
-‏• Typhon Mid-Range Capability (MRC) missile system;
-‏
-‏• Containerized launchers.
-‏
-‏It can also be integrated with various command-and-control systems, including:
-‏
-‏• Integrated Battle Command System (IBCS);
-‏
-‏• Aegis Combat System;
-‏
-‏• Other air and missile defense architectures.
-‏
-‏Anduril plans to begin full-rate production of Steelfin in late 2028 or early 2029.
-‏
-‏The U.S. military is seeking to reduce the cost of countering mass aerial threats. With the proliferation of inexpensive UAVs and cruise missiles, relying on costly PAC-3 MSE interceptors can quickly become economically unsustainable. Steelfin is intended to offer a more affordable interception option while remaining compatible with existing air defense infrastructure.
-13:46
 1405/07/20
