@@ -1968,16 +1968,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
-‏@iranintlTV
-23:22
-1405/07/21
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇸🇦 🇾🇪 — Reports of a Houthi ballistic missile attack on the ARAMCO headquarters in Dhahran in eastern Saudi Arabia.
