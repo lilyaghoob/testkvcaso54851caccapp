@@ -5469,22 +5469,6 @@ src :@USAMRYDATA
 
 
 
-src :@Mena_Live
-‏Houthi-led Yemeni Armed Forces:
-‏
-‏The Yemeni Armed Forces urge all citizens to immediately evacuate and stay away from targets that our armed forces will target if the Saudi enemy proceeds to target what has been announced in the capital, Sana'a:
-‏
-‏*   The Aramco headquarters in Dammam.
-‏*   King Khalid Airport in Riyadh.
-‏*   The Aramco refinery in Riyadh.
-‏
-‏@Mena_Live
-17:18
-1405/07/21
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏Steelfin با چندین سیستم پرتاب سازگار است:
@@ -5616,20 +5600,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 16:46
-1405/07/21
-
-
-
-
-src :@Mena_Live
-‏Bild:
-‏
-‏The Federal Office for Migration and Refugees has officially decided to revoke the refugee status of many Syrians residing in Germany.
-‏
-‏The office believes that the conditions for subsidiary protection are no longer met, nor are there any grounds for deportation, following the fall of the Assad regime and the end of the civil war in Syria.
-‏
-‏@Mena_Live
-16:45
 1405/07/21
 
 
@@ -5905,17 +5875,6 @@ src :@VahidOnline
 
 
 
-src :@Mena_Live
-[عکس]
-‏Saudi Arabia has for the first time decided to start targeting Yemeni Oil Depots.
-‏
-‏@Mena_Live
-16:04
-1405/07/21
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏ناو هواپیمابر کوئین الیزابت نیروی دریایی سلطنتی بریتانیا، از تاریخ 7 تا 12 اکتبر 2026، از بندر بلفاست (ایرلند شمالی) بازدید کرده است 
@@ -6055,14 +6014,6 @@ src :@warmonitors
 
 
 
-src :@Mena_Live
-‏Washington Institute: Hamas has maintained decentralized systems of governance and financing in Gaza and is attempting to expand its influence in the West Bank as well.  @Mena_Live
-15:40
-1405/07/21
-
-
-
-
 src :@defence_news
 ‏شیخ تمیم بن حمد آل ثانی، امیر قطر:
 ‏
@@ -6097,16 +6048,6 @@ src :@BellumActaNews
 [عکس]
 ‏Путин поговорил по телефону с президентом ОАЭ.   Лидеры обсудили двустороннее сотрудничество, урегулирование на Ближнем Востоке и договоренности, достигнутые с Трампом по поставкам российского дизтоплива.   🔹 Подписаться / Мы в "Максе"
 15:39
-1405/07/21
-
-
-
-
-src :@Mena_Live
-‏Washington Institute: Hamas has maintained decentralized systems of governance and financing in Gaza and is attempting to expand its influence in the West Bank as well.
-‏
-‏@Mena_Live
-15:38
 1405/07/21
 
 
