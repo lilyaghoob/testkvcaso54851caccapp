@@ -1,3 +1,57 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: Another Container ship struck in the Strait of Hormuz.
+‏
+‏@BRICSNews
+22:30
+1405/07/21
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏A vessel violating regulations has been targeted in the Strait of Hormuz.
+22:30
+1405/07/21
+
+
+
+
+src :@Alibk3
+[عکس]
+‏استهداف سفينة مخالفة في مضيق هرمز.
+22:30
+1405/07/21
+
+
+
+
+src :@didarnews1
+‏‌🔴منابع عربی: صدای چند انفجار از فرودگاه ملک خالد پایتخت سعودی و پالایشگاه ریاض شنیده شد
+‏
+‏🔹یمن پیشتر تهدید کرده بود درصورت حملۀ عربستان به زیرساخت‌های این کشور، این نقاط در عربستان را هدف قرار خواهد داد./فارس
+‏
+‏#بین‌الملل 
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+22:29
+1405/07/21
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏بعد تركيا وباكستان وبريطانيا واوروبا ومصر وكمبوديا وبوركينا فاسو واوغندا.. وزير الدفاع السعودي يطلب الحماية من بولندا !
+22:29
+1405/07/21
+
+
+
+
 src :@USAMRYDATA
 [عکس]
 ‏اینستاگرام آگهی استخدامی «خلبانی » ارتش جمهوری اسلامی🇮🇷 گذاشته.
@@ -25,7 +79,7 @@ src :@Mena_Live
 
 
 src :@wfwitness
-‏⚡🇸🇦🇾🇪 All clear in Riyadh, Saudi Arabia.  @wfwitness
+‏⚡🇸🇦🇾🇪 All clear in Riyadh, Saudi Arabia.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:25
 1405/07/21
 
@@ -160,6 +214,8 @@ src :@wfwitness
 ‏They alleged the use of F-15 and Typhoon aircraft, which took off from Khamis Mushait and Taif, and missile launchers stationed in Najran.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:17
 1405/07/21
 
@@ -657,25 +713,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇮🇶 الرصد اليومي لطلعات العدو الجوية التي يخرق بها السيادة العراقية. 
-‏يستمر العدو في انتهاكه الصارخ لسيادتنا الجوية، انطلاقا من قواعدهم في الأردن والاراضي المحتلة. 
-‏
-‏- طائرة (KC-135) عدد 1. 
-‏- طائرة (MQ9) عدد 1. 
-‏- طائرة (E-11) عدد 2. 
-‏- طائرة (MQ1) عدد 1. 
-‏
-‏🔻 يوم الاثنين 12-10-2026
-‏
-‏https://t.me/naya_foriraq
-21:58
-1405/07/21
-
-
-
-
 src :@ClashReport
 ‏The Iran war has cost U.S. consumers an estimated $265 billion since late February, or about $2,000 per household, according to Moody’s Analytics.
 ‏
@@ -770,14 +807,6 @@ src :@Indypersian
 ‏این اقدام پس از آن صورت گرفت که اندی برنهام، نخست‌وزیر بریتانیا، اعلام کرد که توطئه مشکوک علیه پایگاه فیرفورد «بسیار محتمل است» که در ایران هماهنگ و تقریبا به‌طور قطع توسط سپاه پاسداران هدایت شده باشد. پیش‌تر نیز علی موسوی، سفیر جمهوری اسلامی ایران در لندن، هرگونه نقش داشتن تهران در این حادثه را رد کرده و از آمادگی کشور برای همکاری با مقامات بریتانیایی جهت بررسی موضوع خبر داده بود.
 ‏@indypersian
 21:46
-1405/07/21
-
-
-
-
-src :@naya_foriraq
-‏منشأت ارامكو في المنطقة الشرقية السعودية تحت رحمة صواريخ القوات المسلحة اليمنية  https://t.me/naya_foriraq
-21:45
 1405/07/21
 
 
@@ -1136,14 +1165,6 @@ src :@Ali_bk_2
 src :@Alibk3
 [عکس]
 ‏هجوم يمني يستهدف المنطقة الشرقية في السعودية.
-21:20
-1405/07/21
-
-
-
-
-src :@naya_foriraq
-‏الله اكبر
 21:20
 1405/07/21
 
@@ -2450,16 +2471,6 @@ src :@jangaavaran1390
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۲۱ مهر
-‏@iranintlTV
-20:00
-1405/07/21
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇸🇦🇾🇪 — US President Trump:
@@ -2661,20 +2672,6 @@ src :@guard_warriors
 
 src :@Middle_East_Spectator
 ‏I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped.
-19:53
-1405/07/21
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، سه‌شنبه ۲۱ مهر در شبکه اجتماعی تروث سوشال نوشت حوثی‌ها پس از مدتی سکوت، «احتمالا به دستور ایران» دوباره فعالیت‌های خود را آغاز کرده‌اند و به عربستان سعودی حمله می‌کنند.
-‏
-‏او گفت حوثی‌ها عمدا تلاش دارند پیش از انتخابات آمریکا قیمت نفت را افزایش دهند و افزود: «پس از انتخابات همچنان اینجا خواهم بود و هرگز فراموش نخواهم کرد.»
-‏
-‏ترامپ همچنین ایران را «کشوری رو به افول» توصیف کرد و گفت این کشور نیروی دریایی و هوایی ندارد، «بدترین اقتصاد جهان» را دارد و تورم آن ۳۰۱ درصد است.
-‏https://iranintl.com/202610133624
 19:53
 1405/07/21
 
@@ -3077,28 +3074,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 19:35
-1405/07/21
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Trump:
-‏
-‏The Houthis are behaving very badly. I thought they had learned their lesson a year ago, when we bombed the hell out of them and stopped at their request. They remained silent for a long time, but now they have resurfaced, perhaps at Iran’s request. Iran is a failed state, with no navy or air force, the worst economy in the world, and inflation at 301%. In a very bad move, they are striking Saudi Arabia and deliberately trying to drive up oil prices, perhaps ahead of the U.S. elections — not good. Someone should explain to them that I am not running for election; I have already won by a landslide.
-19:34
-1405/07/21
-
-
-
-
-src :@Alibk3
-[عکس]
-‏ترامب : 
-‏
-‏الحوثيون يتصرفون بشكل سيء للغاية. اعتقدت أنهم تعلموا الدرس قبل عام عندما قصفناهم بالجحيم وتوقفنا بناء على طلبهم. لقد ظلوا صامتين لفترة طويلة، لكنهم ظهروا الآن مرة أخرى، ربما بناءً على طلب من إيران، وهي دولة فاشلة، بلا بحرية ولا قوات جوية، وأسوأ اقتصاد في العالم، وتضخم بنسبة 301٪، بطريقة سيئة للغاية، تضرب المملكة العربية السعودية، وتحاول عمدًا رفع أسعار النفط، ربما قبل الانتخابات الأمريكية - ليس جيدًا. يجب أن يشرح لهم شخص ما أنني لن أترشح للانتخابات، لقد فزت بالفعل بأغلبية ساحقة.
-19:34
 1405/07/21
 
 
