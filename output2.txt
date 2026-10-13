@@ -1,3 +1,50 @@
+src :@MilitarryWorld
+‏🔴سخنگوی کمیسیون انرژی مجلس اعلام کرد:
+‏آمریکا رمزارزهای دولت را در جاهای مختلف ورود کرده و مقادیری را برداشت کرده است.
+‏
+‏@MilitarryWorld | Parsa
+15:02
+1405/07/21
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrike reported in Chaqra, southern Lebanon.
+‏
+‏@wfwitness
+15:00
+1405/07/21
+
+
+
+
+src :@USAMRYDATA
+[عکس]
+‏هواپیمایی که پس از ۱۲ سال هنوز پیدا نشده است
+‏
+‏پرواز MH370 ایرلاین مالزی پس از گذشت بیش از ۱۲ سال، همچنان یکی از بزرگ‌ترین معماهای تاریخ هوانوردی باقی مانده است. هواپیمای Boeing 777 با ۲۳۹ سرنشین در سال ۲۰۱۴ کمتر از یک ساعت پس از برخاستن از کوالالامپور، از صفحه رادار ناپدید شد.
+‏
+‏دولت مالزی قرارداد همکاری با شرکت Ocean Infinity را برای یک سال دیگر تا اواسط ۲۰۲۷ تمدید کرد. این توافق بر اساس اصل «عدم کشف، عدم پرداخت» تنظیم شده است که طی آن شرکت جست‌وجو تنها در صورت یافتن لاشه اصلی هواپیما پاداش دریافت می‌کند. قطعات پراکنده‌ای از هواپیما در هزاران کیلومتر دورتر از مسیر اصلی پیدا شده‌اند، اما پاسخ نهایی درباره علت ناپدید شدن هنوز مشخص نیست.
+‏
+‏⚙️#TECH
+‏➖➖➖➖➖➖➖➖➖
+‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
+14:57
+1405/07/21
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ادامه درگیری‌های سنگین در ارتفاعات کوه لوپ و منطقه چاه‌احمد  بر اساس گزارش‌های محلی، حوالی ساعت ۶ صبح امروز، درگیری‌های شدیدی میان نیروهای سپاه پاسداران و افراد مسلح در ارتفاعات کوه لوپ و منطقه ارزان‌تاک، در نزدیکی شهر چاه‌احمد شهرستان تفتان در بلوچستان، رخ…
+14:57
+1405/07/21
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧🇮🇱 Israeli airstrike reported in Wadi Slouqi, southern Lebanon.
@@ -1235,23 +1282,6 @@ src :@MilitarryWorld
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇫🇷 BBC: Hundreds of thousands of students and teachers have joined protests across France over staff shortages, overcrowded classrooms and deteriorating conditions in secondary schools.
-‏
-‏Nearly 7,000 people have been detained, more than 85% of them minors, while over 700 police officers and at least 200 students have reportedly been injured amid unrest surrounding the demonstrations.
-‏
-‏The French government has promised to recruit 3,000 additional substitute teachers, with Prime Minister Sébastien Lecornu expected to present a broader plan by the end of October.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:11
-1405/07/21
-
-
-
-
 src :@mohem_mat
 ‏احمد زیدآبادی: مخالفین نتانیاهو در صورت رای آوردن با آمریکا هماهنگ‌ترند
 ‏
@@ -1308,23 +1338,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 13:08
-1405/07/21
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇷🇺🇺🇸 Reuters: Russia says its diesel exports could reach between 3 million and 3.5 million metric tons per month by the end of 2026, exceeding the volumes announced by US President Donald Trump under a new agreement with Moscow.
-‏
-‏Trump said Russia had agreed to release diesel onto global markets, while his administration temporarily lifted US sanctions on Russian fuel imposed over the war in Ukraine.
-‏
-‏The agreement has drawn criticism from Ukraine and several US lawmakers, who argue that the additional export revenue could help finance Russia’s war without requiring concessions from Moscow.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:06
 1405/07/21
 
 
@@ -3106,16 +3119,6 @@ src :@DEJradio
 ‏
 ‏#تنگه_هرمز #کشتیرانی
 ‏@DEJradio
-09:28
-1405/07/21
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ: ایران می‌خواهد به توافق برسد اما نمی‌داند چگونه این کار را انجام دهد
-‏
-‏@MilitarryWorld | Parsa
 09:28
 1405/07/21
 
@@ -6485,21 +6488,4 @@ src :@Exciton_missile_program
 [عکس]
 ‏تخمین عددی سهم نیروی هوایی و نیروی دریایی آمریکا از حجم آتش در جنگ 40 روزه  یکی از نکات مهم برای سناریوخوانی تحولات آینده این است که بررسی کنیم، استقرار هر یک شاخه‌های ارتش آمریکا در منطقه، چه میزان به حجم آتش آمریکا خواهد افزود. از این طریق می‌توانیم ارزیابی…
 15:20
-1405/07/20
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏✈️اولین پرواز ایرباس A350F، پیشرفته‌ترین هواپیمای باربری جهان
-‏
-‏هواپیمای باربری Airbus A350F ایرباس با انجام نخستین پرواز آزمایشی در تولوز فرانسه، وارد مرحله‌ی ۹ ماهه‌ی کارآزمایی شد. این پرواز موفقیت‌آمیز، آغازگر مسیر توسعه‌ی این غول مدرن در صنعت هوافضا محسوب می‌شود.
-‏
-‏محفظه‌ی بار این هواپیما به هشت منطقه‌ی دمایی مجزا مجهز شده است تا حمل محموله‌های حساس و مواد غذایی تازه را تسهیل کند. ظرفیت بارگیری این مدل با استفاده از سیستم مکانیزه، ۴۲ پالت استاندارد کارگو را پوشش می‌دهد. ایرباس همزمان با تست‌های نمونه‌ی MSN 700، مراحل مونتاژ دومین نمونه آزمایشی یعنی MSN 701 را نیز پیش می‌برد. تاکنون ۱۱۵ سفارش قطعی از ۱۴ مشتری مختلف برای این هواپیما ثبت شده است.
-‏
-‏⚙️#TECH
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-15:01
 1405/07/20
