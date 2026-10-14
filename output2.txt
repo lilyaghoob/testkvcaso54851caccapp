@@ -1,5 +1,71 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇬🇮🇷 The Maritime and Port Authority of Singapore reports that two Singaporean registered vessels were struck in the Strait of Hormuz on October 13th and 14th. 
+‏
+‏The GFS PRIDE was struck by an unknown projectile, causing a fire. The ship has since sunk. 
+‏
+‏The GFS GISELLE sustained hull damage but managed to reach safe anchorage under its own propulsion.
+‏
+‏@wfwitness
+18:46
+1405/07/22
+
+
+
+
+src :@intelslava
+‏🇺🇸❌🇺🇦 — The U.S. has severely limited Starlink connectivity for the Ukrainian military. Drones lose connections when flown over 160 km/h.  @IntelSlava
+18:45
+1405/07/22
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Zelensky meets with King Charles III.
+18:45
+1405/07/22
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏Saudi airports continue to suspend incoming flights…
+‏
+‏Najran and Jazan airports have been suspended for more than 197 hours, Riyadh for around 100 hours, and Yanbu for more than 70 hours.
+18:45
+1405/07/22
+
+
+
+
+src :@Alibk3
+[عکس]
+‏استمرار توقف المطارات السعودية عن استقبال الرحلات…
+‏
+‏مطاري نجران وجازان لأكثر من 197 ساعة، والرياض لنحو 100 ساعة، وينبع لأكثر من 70 ساعة.
+18:45
+1405/07/22
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇳🇨🇦 Indian Prime Minister Modi says "India is committed to building a constructive and forward-looking strategic partnership with Canada."
+‏
+‏@BRICSNews
+18:43
+1405/07/22
+
+
+
+
 src :@naya_foriraq
-‏السعودية تؤجل بطولة للتنس عقب هجمات الحوثيين
+‏🇸🇦🇾🇪السعودية تؤجل بطولة للتنس عقب هجمات المتتالية للقوات المسلحة اليمنية.
+‏
+‏https://t.me/naya_foriraq
 18:41
 1405/07/22
 
@@ -3548,26 +3614,6 @@ src :@jangaavaran1390
 
 
 
-src :@Ali_bk_2
-‏Netanyahu hints at a resumption of the war:
-‏
-‏There are indications that our enemies intend to attack us, and I hope we do not see an escalation before the elections.
-13:23
-1405/07/22
-
-
-
-
-src :@Alibk3
-‏نتنياهو يلمح إلى تجدد الحرب:
-‏
-‏هناك إشارات إلى أن أعداءنا ينوون مهاجمتنا وآمل ألا نشهد تصعيدا قبل الانتخابات.
-13:22
-1405/07/22
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏خبرفوری/  کشته شدن دستکم یک نیروی نظامی و زخمی شدن سه تن دیگر در پی حمله افراد مسلح به خودرو نیروهای نظامی در شهرستان مهرستان   به گزارش حال‌ وش/ دقایقی پیش امروز چهار شنبه ۲۲ مهرماه ۱۴۰۵، افراد مسلح خودرو نیروهای نظامی را در شهرستان مهرستان مورد هدف تیراندازی…
@@ -3725,17 +3771,6 @@ src :@OSINTWarfare
 
 src :@rnintel
 ‏🇺🇸🇺🇦⚡- Overnight Starlink imposed restrictions on its terminals in Ukraine with connections dropping for speeds exceeding 60 km/h.
-13:00
-1405/07/22
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏The Wall Street Journal, citing sources:
-‏
-‏Yemen’s Houthis are working to develop an advanced medium-range ballistic missile after obtaining Chinese components. The hypersonic missile has a range of 1930 km, covering all of Israel and Saudi Arabia.
 13:00
 1405/07/22
 
@@ -4284,23 +4319,6 @@ src :@Minas_Tirith2024
 src :@Minas_Tirith2024
 ‏حمله موشکی شب گذشته روسیه به نیروگاه CHP-4 کی‌یف و قطع برق در این شهر   @Minas_Tirith2024
 11:37
-1405/07/22
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇪🇺🇻🇳⚡️ — The EU is seeking closer ties with Vietnam to secure critical minerals and reduce its dependence on China, according to internal EU documents.
-‏
-‏Vietnam has large reserves of tungsten, rare earths and other minerals essential for defense industries.
-‏
-‏Europe wants to diversify its supplies as it rearms, particularly after Chinese export restrictions disrupted European supply chains last year.
-‏
-‏— Reuters
-‏
-‏@IntelSlava
-11:36
 1405/07/22
 
 
@@ -5517,19 +5535,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 23:56
-1405/07/21
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: Catholic Pope Leo XIV diagnosed with lung cancer.
-‏
-‏He completed a successful surgery removing lower lobe of his right lung today.
-‏
-‏@BRICSNews
-23:49
 1405/07/21
 
 
