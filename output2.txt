@@ -1,3 +1,22 @@
+src :@tabzlive
+‏Large-scale power outages across eastern Kyiv. The CHP-4 Combined Heat and Power Plant was struck by several ballistic missiles again.
+06:12
+1405/07/22
+
+
+
+
+src :@tabzlive
+[عکس]
+‏The TEC-5 Power Plant west of Kharkiv City is under a large-scale ballistic missile attack.
+‏
+‏At least 6 Iskander-M ballistic missiles impacted the power plant. Strong explosions were heard.
+06:08
+1405/07/22
+
+
+
+
 src :@warmonitors
 ‏⚡Donald Trump says Taiwan has agreed to buy 30% of gas from an Alaska pipeline
 ‏
@@ -886,16 +905,6 @@ src :@tabzlive
 
 
 
-src :@bricsnews
-‏JUST IN: Khan, Ahmed and Ali enter top 10 most common surnames among newborns in England and Wales, replacing Taylor, Brown and Johnson.
-‏
-‏@BRICSNews
-01:28
-1405/07/22
-
-
-
-
 src :@Mena_Live
 ‏A Houthi member takes picture of Taiz City  @Mena_Live
 01:28
@@ -1085,14 +1094,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 01:13
-1405/07/22
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Reuters, citing a source with direct knowledge of the matter, reports the Saudi Aramco headquarters in Dhahran has been ​struck this evening, but the source said it was unclear ​if the building had been hit directly or by ‌falling ⁠debris.  Aramco…
-01:11
 1405/07/22
 
 
@@ -5490,6 +5491,20 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 17:52
+1405/07/21
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇳 United Nations overwhelmingly approves new global pandemic preparedness declaration, with only 3 countries voting against it.
+‏
+‏• Israel
+‏• Argentina
+‏• United States
+‏
+‏@BRICSNews
+17:46
 1405/07/21
 
 
