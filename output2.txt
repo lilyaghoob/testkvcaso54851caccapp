@@ -1,3 +1,82 @@
+src :@naya_foriraq
+‏‏الكويت تخصص خطبة يوم الجمعة القادمة في كافة الجوامع والمساجد لإدانة الاعتداءات الحوثية على السعودية، والتأكيد على وحدة مصير تجمع الكويت والسعودية، وأن رفض الاعتداء على المدنيين واجب شرعي.
+‏
+‏‏-
+23:27
+1405/07/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏فرماندهی مرکزی ایالات متحده، سنتکام، چهارشنبه ۲۲ مهر با انتشار ویدیویی اعلام کرد نیروهای آمریکایی ۱۴ مهر یک لنج مرتبط با جمهوری اسلامی را که در حال شناسایی و هدف‌یابی کشتی‌های نیروی دریایی آمریکا در دریای عمان بود، منهدم کردند.
+‏
+‏سنتکام افزود خدمه پیش از انهدام لنج به‌طور ایمن از آن خارج شدند و تلاش برای بازگرداندن آنها به کشورشان ادامه دارد. این فرماندهی همچنین اعلام کرد سپاه پاسداران طی هفت ماه گذشته علاوه بر ناوهای جنگی آمریکا، هزاران دریانورد غیرنظامی را در آب‌های منطقه هدف قرار داده است.
+‏https://iranintl.com/202610148056
+23:24
+1405/07/22
+
+
+
+
+src :@jangaavaran1390
+‏ترامپ  ما با چه کسی در حال تعامل هستیم؟ هیچ کس دقیقاً نمی‌داند؛ هیچ کس نمی‌خواهد رهبر باشد.  ایران به زودی شکست خواهد خورد، و زمانی که این اتفاق بیفتد، قیمت بنزین و سایر هزینه‌ها به شدت کاهش خواهد یافت.
+23:24
+1405/07/22
+
+
+
+
+src :@Shin_Persian
+‏Samim ✓ @PawnToPromotion
+‏
+‏آپدیت جدید کلاینت شیر و خورشید 2026.10.14:
+‏
+‏حدود پنج ماه از آخرین ریلیز کلاینت شیر و خورشید میگذرد و در این مدت وضعیت فیلترنت جوری بود که به لطف ابزار های دیگر نیاز به آپدیت جدید حس نمیشد. اخیرا تغییرات زیادی در هسته upstream ایجاد شده بود. این آپدیت همه آن تغییرات و البته تغییراتی مربوط به bootstrap شدن اپ را اضافه میکند. امیدوارم با بدتر شدن وضعیت فیلترینگ، این ریلیز اتصال شما را تا حدی سریع تر و بهتر کند.
+‏
+‏پ.ن. توجه کنید برای اطمینان از معتبر بودن برنامه فقط و فقط از تلگرام کلاینت شیر و خورشید و یا از گیتهاب دانلود کنید. اگر به ناچار مجبورید از جای دیگر دانلود کنید حتما checksum را با چیزی که در ریلیز گیتهاب نشان داده شده است مقایسه کنید!
+‏
+‏لینک تلگرام:
+‏https://t.me/ShirokhorshidOfficial
+‏
+‏لینک دانلود از گیتهاب:
+‏https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.10.14-2c71930
+‏
+‏English
+‏
+‏New Shirokhorshid client update 2026.10.14:
+‏
+‏It has been about five months since the last release of the Shirokhorshid client, and during this time, the state of internet censorship was such that, thanks to other tools, there seemed to be no need for a new update. Recently, many changes were made to the upstream core. This update includes all those changes, as well as changes related to the app’s bootstrapping. I hope that as censorship worsens, this release will make your connection somewhat faster and more reliable.
+‏
+‏P.S. Please note that to ensure the app is authentic, download it only from the Shirokhorshid client’s Telegram channel or from GitHub. If you have no choice but to download it from somewhere else, be sure to compare the checksum with the one shown in the GitHub release!
+‏
+‏Telegram link:
+‏https://telegram.me/ShirokhorshidOfficial
+‏
+‏GitHub download link:
+‏https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.10.14-2c71930
+‏
+‏𝕏  ·  @shin_persian
+23:24
+1405/07/22
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇪🇹🇪🇷 U.S. Secretary of State Marco Rubio spoke with Ethiopian Prime Minister Abiy Ahmed about rising tensions between Ethiopia and Eritrea. 
+‏
+‏Rubio called for de-escalation, respect for territorial integrity, and dialogue under the 2018 Ethiopia-Eritrea peace framework, warning that the region cannot afford further conflict.
+‏
+‏@wfwitness
+23:22
+1405/07/22
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏مجموعه باستانی آذرگشَسب
@@ -105,6 +184,8 @@ src :@wfwitness
 ‏Initially, they were mostly spotted in the south of the Governorate, but lately, Israeli helicopters have occasionally been flying near Swaida City.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 23:15
 1405/07/22
 
@@ -1079,18 +1160,6 @@ src :@mohem_mat
 ‏ما وقت خود را صرف پاسخ‌گویی به این مسایل تفرقه‌افکنانه نمی‌کنیم
 ‏
 ‏@Entekhab_ir
-21:34
-1405/07/22
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏دفتر ریاست‌جمهوری فرانسه اعلام کرد امانوئل مکرون، رییس‌جمهوری این کشور، از دوشنبه ۲۷ تا چهارشنبه ۲۹ مهر به کویت، امارات متحده عربی، بحرین و قطر سفر می‌کند و با رهبران این کشورها دیدار خواهد کرد.
-‏
-‏بر اساس این بیانیه، مکرون در این سفر درباره وضعیت تنگه هرمز و تاثیر آن بر قیمت انرژی گفت‌وگو خواهد کرد.
-‏https://iranintl.com/202610149629
 21:34
 1405/07/22
 
@@ -3790,15 +3859,6 @@ src :@rnintel
 
 
 
-src :@jangaavaran1390
-‏خبرگزاری کره جنوبی می‌گوید که تعداد مردان روسی که برای تغییر عمل جنسیت برای عدم شرکت در جنگ اوکراین به کره جنوبی سفر می‌کنند به شکل چشمگیر افزایش یافته 
-‏طی دو سال گذشته در روسیه قوانین بسیار سختی برای اعمال تغییر جنسیت و موارد مشابه برای عدم فرار مردان از جنگ در اوکراین وضع شده است
-17:10
-1405/07/22
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏نارضایتی و اعتراض پرستاران
@@ -4021,14 +4081,6 @@ src :@cataphract1
 ‏⚜بر اساس این گزارش، GFS Pride دومین کشتی‌ای است که از زمان آغاز جنگ آمریکا و ایران در ۲۸ فوریه (۹ اسفند)، غرق‌شدن آن تأیید شده است.
 ‏✒️#LT
 ‏📃@Cataphract1
-16:43
-1405/07/22
-
-
-
-
-src :@naya_foriraq
-‏انفجارات تهز مضيق هرمز
 16:43
 1405/07/22
 
@@ -5155,24 +5207,6 @@ src :@DEJradio
 ‏#سیستان_و_بلوچستان
 ‏@DEJradio
 13:44
-1405/07/22
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏State-owned Mehr reports:  IRGC member "Afsaneh Aqila", commander of the Shahideh Afzal women’s Basij unit in Mehrestan was killed in an attack today.
-‏Sistan and Baluchestan Province, #Iran.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏خبرگزاری دولتی مهر گزارش می‌دهد: «افسانه عقیله»، عضو سپاه پاسداران و فرمانده حوزه بسیج خواهران شهیده افضل در مهرستان، امروز در حمله‌ای کشته شد.
-‏استان سیستان و بلوچستان، #Iran.
-‏
-‏𝕏  ·  @shin_persian
-13:42
 1405/07/22
 
 
