@@ -1,3 +1,81 @@
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸 - UKMTO reports that 2 tankers were struck yesterday by unknown projectiles. One tanker was transiting inbound whilst the other was transiting outbound. 
+‏
+‏No casualties and minor damage reported.
+‏
+‏@GeoPWatch
+13:56
+1405/07/22
+
+
+
+
+src :@thewarreporter
+[عکس]
+‏🇮🇷 — Afsaneh Aqila, commander of the Shahide Afzal women's division of the IRGC's Basij paramilitary organization, was assassinated outside her home in Mehrestan, Sistan and Baluchestan Province, by assailants affiliated with the U.S. and Israel.
+‏
+‏— Tasnim News Agency | @TheWarReporter
+13:56
+1405/07/22
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏سازمان تجارت دریایی بریتانیا در یک گزارش دیر منتشر شده، اعلام کرد که یک کشتی باری حامل کانتینر به وزن ۵۰ هزار تن، در تاریخ ۱۳ اکتبر، در حین عبور از تنگه هرمز، مورد اصابت یک پرتابه (سپاه) قرار گرفت.این کشتی گزارش داد که آسیب جزئی وارد شده و هیچ تلفاتی نداشت و توانست مسیر خود را ادامه دهد
+‏
+‏🆔@WAR_ROOM_NEWS
+13:53
+1405/07/22
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏UKMTO Operations Centre @UK_MTO
+‏
+‏UKMTO WARNING 173-26    
+‏
+‏Click here to view the full warning⤵️ 
+‏https://www.ukmto.org/-/media/ukmto/products/20261014-ukmto_warning_173-26.pdf?rev=d1feb1e8533f4d23b71a6ebbbccfca89
+‏
+‏#MaritimeSecurity #MarSec
+‏
+‏ترجمه خودکار فارسی
+‏
+‏هشدار ۱۷۳-۲۶ عملیات تجارت دریایی بریتانیا
+‏
+‏برای مشاهده متن کامل هشدار اینجا کلیک کنید⤵️
+‏https://www.ukmto.org/-/media/ukmto/products/20261014-ukmto_warning_173-26.pdf?rev=d1feb1e8533f4d23b71a6ebbbccfca89
+‏
+‏#MaritimeSecurity #MarSec
+‏
+‏𝕏  ·  @shin_persian
+13:53
+1405/07/22
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️مقام‌های استانداری سیستان و بلوچستان روز چهارشنبه، ۲۲ مهرماه از کشته شدن یک فرمانده بسیج زنان و یک مامور نیروی انتظامی در دو حمله جداگانه در شهرستان مهرستان خبر دادند.
+‏
+‏ به گزارش خبرگزاری فارس، وابسته به سپاه پاسداران، افسانه عقیلا، فرمانده یکی از حوزه‌های بسیج زنان شهرستان مهرستان، در پی تیراندازی مقابل منزلش به قتل رسید.
+‏
+‏دقایقی پیش از اعلام این خبر، مرکز اطلاع‌رسانی پلیس سیستان و بلوچستان اعلام کرده بود که افراد ناشناس به خودروی نیروی انتظامی در شهرستان مهرستان، واقع در جنوب شرقی استان سیستان و بلوچستان، حمله کردند.
+‏
+‏به گفته مقام‌های محلی، محمدعلی شهریاری، مامور نیروی انتظامی، در جریان این حمله کشته شد.
+‏
+‏@indypersian
+13:53
+1405/07/22
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇮🇷 UKMTO issued a warning in a time-late report that a 50,000-tonne container ship was struck by an unknown projectile while on an inbound transit of the Strait of Hormuz on October 13th. 
@@ -2345,19 +2423,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[ویدئو]
-‏NEW: Ukraine’s 3rd Army Corps reports ~88 km² retaken in the Lyman direction under Operation Vivaldi, with DeepState confirming the liberation of Zelena Dolyna, Lypove, and Kolodiazi. 
-‏
-‏The gains are part of a multi-month counteroffensive that has rolled back a Russian salient north of Lyman, with total recaptured territory estimated at 125–250 km² depending on the source. 
-‏
-‏The operation has disrupted Russia’s northern approach toward the strategically critical Sloviansk-Kramatorsk area.
-10:56
-1405/07/22
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏به گفته وزارت جنگ آمریکا کارخونه کشتی سازی بث آیرون ورک ایالت مین ظرفیت ساخت یک آرلی برک دیگه رو هم داره واسه همین احتمالا سال ۲۰۲۷ سفارش این کارخونه از ۱ ناوشکن بشه دو تا. 
@@ -3544,17 +3609,6 @@ src :@Navy_Iranian
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️«دو مقام ارشد ایرانی» در گفتگو با رویترز اعلام کردند که تهران با هدف بالا نگه‌داشتن بهای جهانی نفت و تاثیرگذاری بر نتایج انتخابات میان‌دوره‌ای نوامبر در آمریکا، شیوه و تاکتیک حملات خود به شناورها در تنگه هرمز و فراتر از آن را تغییر داده است. یکی از این مقام‌ها با تاکید بر اینکه تصمیم راهبرد جدید در بالاترین سطوح حاکمیت اتخاذ شده، گفت: «هدف ما ناکام گذاشتن تلاش‌های ایالات متحده و متحدانش برای کاهش قیمت جهانی نفت است و به‌زودی شاهد انسداد کامل این آبراه خواهیم بود.» مقام دوم نیز با تشبیه این رویارویی به یک «بازی شطرنج» تصریح کرد: «هر زمان احساس کنند به نقطه‌ای رسیده‌اند که قیمت‌ها افت می‌کند، ما آنها را عقب خواهیم راند و کشتی‌های خاطی حتی در خارج از تنگه هرمز نیز در امان نخواهند بود.» هم‌زمان یک مقام نظامی آمریکایی ضمن تایید تغییر اساسی تاکتیک‌های تهران اعلام کرد سپاه پاسداران پس از نابودی بیشتر سامانه‌های راداری‌اش، اکنون از دیده‌بان‌های غیرمسلح سوار بر قایق‌های کوچک چوبی برای رصد و گزارش موقعیت کشتی‌ها استفاده می‌کند، هرچند ارتش ایالات متحده موفق به رهگیری این شناورها شده و توانسته جریان صادرات نفت از این آبراه حیاتی را برقرار نگه دارد.
-‏
-‏@IndyPersian
-05:28
-1405/07/22
-
-
-
-
 src :@mwarmonitor
 ‏🔴یک مقام نظامی آمریکا می‌گوید نیروهای آمریکایی هفته گذشته یک قایق سنتی عربی (داو) را که برای شناسایی کشتی‌ها، از جمله ناوهای جنگی آمریکا، توسط دیده‌بان‌های ایرانی استفاده می‌شد، منهدم کردند. این اطلاعات برای هدف‌گیری کشتی‌ها توسط سپاه پاسداران انقلاب اسلامی به کار می‌رفت.
 ‏
@@ -4216,7 +4270,6 @@ src :@rnintel
 
 
 src :@intelslava
-[عکس]
 ‏🇷🇺🇯🇵⚡️ Russian Federal Security Service officers have detained a correspondent for the Yuzhno-Sakhalinsk bureau of Japan's Hokkaido Shimbun newspaper on suspicion of espionage on Sakhalin.  The FSB said he was collecting and storing information on Russia's…
 00:11
 1405/07/22
@@ -4224,24 +4277,10 @@ src :@intelslava
 
 
 
-src :@Shin_Persian
+src :@intelslava
 [عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Following an IRGC threat to sink approaching U.S. warships, CENTCOM says U.S. forces and regional partners control the Strait of Hormuz. More than 19 million barrels transited yesterday with U.S. assistance.
-‏
-‏Source: @CENTCOM
-‏https://x.com/CENTCOM/status/2110108416077123910
-‏
-‏ترجمه خودکار فارسی
-‏
-‏در پی تهدید سپاه پاسداران انقلاب اسلامی به غرق کردن ناوهای جنگی نزدیک‌شونده ایالات متحده، فرماندهی مرکزی آمریکا می‌گوید نیروهای آمریکایی و شرکای منطقه‌ای کنترل تنگه هرمز را در دست دارند. روز گذشته بیش از ۱۹ میلیون بشکه با کمک ایالات متحده از این تنگه عبور کرد.
-‏
-‏منبع: @CENTCOM
-‏https://x.com/CENTCOM/status/2110108416077123910
-‏
-‏𝕏  ·  @shin_persian
-00:10
+‏🇷🇺🇯🇵⚡️ Russian Federal Security Service officers have detained a correspondent for the Yuzhno-Sakhalinsk bureau of Japan's Hokkaido Shimbun newspaper on suspicion of espionage on Sakhalin.  The FSB said he was collecting and storing information on Russia's…
+00:11
 1405/07/22
 
 
@@ -6125,14 +6164,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏#NEW 🇮🇱 - Initial reports of a shooting operation in Israel's "Ramon" Airport.  @GeoPWatch
-18:47
-1405/07/21
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏ناوگان نیروی دریایی هند با سومین ناو ضد زیردریایی ساحلی، "مانگرول"، تقویت شد.
@@ -6250,17 +6281,6 @@ src :@thewarreporter
 [عکس]
 ‏🇸🇦🇾🇪🇾🇪 — The Saudi-led coalition has warned civilians to evacuate Al-Sabaha station, operated by Yemen's main oil company in Houthi-controlled Yemen's capital, Sanaa, signaling a potential imminent strike.  @TheWarReporter
 18:17
-1405/07/21
-
-
-
-
-src :@GeoPWatch
-‏#NEW
-‏🇮🇱 - Initial reports of a shooting operation in Israel's "Ramon" Airport.
-‏
-‏@GeoPWatch
-18:06
 1405/07/21
 
 
