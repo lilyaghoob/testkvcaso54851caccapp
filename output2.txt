@@ -775,7 +775,7 @@ src :@mwarmonitor
 
 
 src :@wfwitness
-‏⚡️🇸🇦🇺🇸Bloomberg: A Saudi Aramco-owned U.S. refinery was the buyer of part of the crude oil cargo carried by a tanker whose onboard propulsion systems were breached by hackers during its voyage to the U.S.
+‏⚡️🇸🇦🇺🇸 Bloomberg: A Saudi Aramco-owned U.S. refinery was the buyer of part of the crude oil cargo carried by a tanker whose onboard propulsion systems were breached by hackers during its voyage to the U.S.
 ‏
 ‏Arouhfy 2 million barrels of oil on board the VL Prosperity was delivered to Motiva Enterprises LLC, a wholly-owned subsidiary of the Saudi oil giant that operates one of the largest U.S. refineries, 
 ‏
@@ -1317,7 +1317,7 @@ src :@mwarmonitor
 
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇷🇺🇸Reuters⁠: Iran is changing its tactics and intensifying attacks on commercial shipping around the Strait of Hormuz in an effort to keep oil prices elevated and increase pressure on Washington ahead of the U.S. midterm elections.
+‏⚡️🇮🇷🇺🇸 Reuters⁠: Iran is changing its tactics and intensifying attacks on commercial shipping around the Strait of Hormuz in an effort to keep oil prices elevated and increase pressure on Washington ahead of the U.S. midterm elections.
 ‏
 ‏U.S. officials report the IRGC had begun using unarmed boats to monitor potential targets following damage to the country’s radar capabilities, and expanding operations beyond the strait into the Gulf of Oman and waters near Qatar and the UAE.
 ‏
@@ -1414,7 +1414,7 @@ src :@tabzlive
 
 src :@wfwitness
 [عکس]
-‏⚡️🇺🇸🇨🇴WSJ: U.S. strikes against narcotics smuggling speedboats in the Caribbean and the East Pacific is forcing smugglers to adopt new trafficking routes to evade increased surveillance. 
+‏⚡️🇺🇸🇨🇴 WSJ: U.S. strikes against narcotics smuggling speedboats in the Caribbean and the East Pacific is forcing smugglers to adopt new trafficking routes to evade increased surveillance. 
 ‏
 ‏Smugglers have shifted to new waterways such as the Amazon’s sprawling river system or shipping narcotics down the Paraná River through deep in Bolivia or Paraguay to the Atlantic and onto Europe. Strikes have only forced routes to become more diffuse and expansive. 
 ‏
@@ -3575,18 +3575,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-‏Loud booms were heard near Saudi Aramco’s headquarters in Dhahran, with sources reporting a fire, an evacuation order and a possible strike on the building.
-‏
-‏Saudi authorities said debris from an intercepted missile fell on a residential area.
-‏
-‏Source: Reuters
-22:58
-1405/07/21
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇱🇮🇷 — A U.S. official on Iran:
 ‏
@@ -3826,20 +3814,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@ClashReport
-‏U.S. official on Iran:
-‏
-‏Bibi seems to want to go in again. He has talked to the president about it a couple times, and the president has said, "Well, you know, Bibi, go ahead and get ready."
-‏
-‏But there's really no commitment. "Go ahead and get ready" is maybe now, maybe later, maybe never.
-‏
-‏Source: Axios
-22:40
-1405/07/21
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇪🇹⚡- Ethiopian National Defense Forces, ENDF, now control most of the Tigray region, northern Ethiopia. Adwa remains the only stronghold for the Tigray Defense Forces in the north of the region.  The Sheraro front in the west remains active.  Map key: • Green…
@@ -3882,20 +3856,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 22:38
-1405/07/21
-
-
-
-
-src :@ClashReport
-‏U.S. official on Iran:
-‏
-‏The negotiations are not really dead, but they're not really alive. 
-‏
-‏We're just here, piling on the pressure and there's a belief that smarter heads will prevail over there.
-‏
-‏Source: Axios
-22:37
 1405/07/21
 
 
@@ -5543,29 +5503,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 18:44
-1405/07/21
-
-
-
-
-src :@didarnews1
-‏🔴تقی‌ آزادارمکی: توافقی نانوشته میان حکومت و مردم بر سر حجاب صورت گرفته است / رئیس‌جمهوری داریم که لج مردم را درنمی‌آورد / جامعه ایران خود را برای زیست در شرایط نامساعد مهیا کرده بود
-‏
-‏تقی آزادارمکی، استاد جامعه‌شناسی دانشگاه تهران:
-‏
-‏🔹یکی از کلیدی‌ترین عواملی که به نظر من بسیار واجد اهمیت است و در تحلیل‌های روزمره معمولا از آن غفلت می‌شود، «دور شدن از دردسرسازی مستقیم علیه جامعه و مردم» است. 
-‏
-‏🔹طی یکی- دو سال اخیر، جامعه به این ادراک حسی رسیده که دولت، حکومت و ساختار سیاسی دیگر قصد مداخله ندارد و سبک زندگی او را محترم می‌شمارد. این تغییر فضا، خود به‌ خود یک نوع «آشتی پنهان» میان جامعه و حکومت پدید آورده است؛ توافقی نانوشته که آرامش نسبی را به مناسبات روزمره تزریق می‌کند.
-‏
-‏🔹برای نمونه در مناقشه پرهزینه‌ای مانند مساله حجاب، جامعه امروز با خود می‌گوید نظام سیاسی تا حد زیادی پذیرفته که سلبی برخورد نکند، حریم و حرمت من، دخترم و پسرم را حفظ کند و از رفتارهای تقابلی گذشته فاصله بگیرد.
-‏
-‏🔹امروز ما با رییس‌جمهوری روبه‌رو هستیم که مدام روی ذهن، اعصاب و روان جامعه پیاده‌روی نمی‌کند؛ لج مردم را درنمی‌آورد و با تحقیر و متلک با شهروندان سخن نمی‌گوید. آقای پزشکیان تا حد ممکن تلاش می‌کند حرف مردم را بزند و صدای واقعی کف جامعه باشد. امروز فاصله میان واژگان و ادبیات رییس‌جمهور با مطالبات واقعی و روزمره مردم، بسیار کمتر از دوره‌های پیشین شده است. علاوه بر دولت، این عقلانیت نسبی به سایر ارکان نیز تسری یافته است./اعتماد
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-18:34
 1405/07/21
 
 
