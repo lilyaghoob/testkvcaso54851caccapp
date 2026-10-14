@@ -1,3 +1,45 @@
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Evacuation orders have been issued for a number of bases in Iran.
+‏
+‏@GeoPWatch
+01:49
+1405/07/23
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏The deadline given to Saudi-backed forces to leave Taiz without fighting has expired...
+‏
+‏Violent clashes are taking place west of Taiz, particularly at Jabal Han. Taiz is set to witness heated nights ahead.
+01:48
+1405/07/23
+
+
+
+
+src :@Alibk3
+[عکس]
+‏المهلة التي تم إعطائها للقوات الموالية للسعودية بمغادرة تعز دون اقتتال انتهت .. 
+‏
+‏اشتباكات عنيفة تجري غرب تعز، وبالأخص في جبل هان، ليالٍ ساخنة ستشهدها تعز.
+01:48
+1405/07/23
+
+
+
+
+src :@intelslava
+‏🇮🇷🇺🇸⚡️ — Evacuation and dispersal orders have been issued to Iran’s Armed Forces.
+‏
+‏@IntelSlava
+01:48
+1405/07/23
+
+
+
+
 src :@OSINTWarfare
 ‏Shin ✓  @hey_itsmyturn  Evac orders were issued for a number of bases Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1  ترجمه خودکار فارسی  دستور تخلیه چند پایگاه صادر شد ایران  [انتشار…
 01:46
@@ -24,6 +66,23 @@ src :@OSINTWarfare
 ‏https://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1
 ‏
 ‏𝕏  ·  @shin_persian
+01:46
+1405/07/23
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏دونالد ترامپ، رییس‌جمهوری آمریکا، گفت جمهوری اسلامی هرگز به سلاح هسته‌ای دست نخواهد یافت و عملیات بمب‌افکن‌های بی‌ـ۲ آمریکا مانع دستیابی تهران به این سلاح شده است.
+‏
+‏ترامپ گفت: «ما ایرانی خواهیم داشت که نه سلاح هسته‌ای دارد و نه هیچ امیدی برای دستیابی به سلاح هسته‌ای خواهد داشت.» او افزود روسای‌جمهوری پیشین آمریکا باید پیش‌تر در این زمینه اقدام می‌کردند.
+‏
+‏او گفت دولت باراک اوباما، رییس‌جمهوری پیشین آمریکا، ۱.۷ میلیارد دلار پول نقد به ایران پرداخت کرد، اما تهران به تلاش برای دستیابی به سلاح هسته‌ای ادامه داد.
+‏
+‏ترامپ گفت: «ما باید مطمین می‌شدیم که ایران سلاح هسته‌ای ندارد، چون آنها سال‌هاست که بزرگ‌ترین حامی دولتی تروریسم شناخته می‌شوند. اگر سلاح هسته‌ای داشتند، ظرف ۲۴ ساعت از آن استفاده می‌کردند. خاورمیانه را نابود می‌کردند، بعد شروع به هدف قرار دادن ما در ساحل غربی می‌کردند و اروپا را هدف قرار می‌دادند، چون دیوانه‌اند.»
+‏
+‏او همچنین گفت اگر بمب‌افکن‌های بی‌ـ۲ تاسیسات هسته‌ای جمهوری اسلامی را هدف قرار نداده بودند، تهران ظرف دو هفته به سلاح هسته‌ای دست می‌یافت و افزود: «آنها هرگز سلاح هسته‌ای نخواهند داشت. هرگز.»
 01:46
 1405/07/23
 
@@ -367,7 +426,7 @@ src :@intelslava
 
 
 src :@RASTAKHIZ_PERSIAN
-‏🔶 انصارالله یمن مدعی مورد اصابت قرار دادن و ساقط کردن یک فروند جنگنده سعودی از نوع تایفون در آسمان استان صعده شد
+‏🔶 انصارالله یمن مدعی مورد اصابت قرار دادن یک فروند جنگنده سعودی از نوع تایفون در آسمان استان صعده شد
 ‏
 ‏#تایید_نشده
 ‏#خبر
@@ -1286,18 +1345,6 @@ src :@naya_foriraq
 
 
 
-src :@IranintlTV
-[عکس]
-‏فرماندهی مرکزی ایالات متحده، سنتکام، چهارشنبه ۲۲ مهر با انتشار ویدیویی اعلام کرد نیروهای آمریکایی ۱۴ مهر یک لنج مرتبط با جمهوری اسلامی را که در حال شناسایی و هدف‌یابی کشتی‌های نیروی دریایی آمریکا در دریای عمان بود، منهدم کردند.
-‏
-‏سنتکام افزود خدمه پیش از انهدام لنج به‌طور ایمن از آن خارج شدند و تلاش برای بازگرداندن آنها به کشورشان ادامه دارد. این فرماندهی همچنین اعلام کرد سپاه پاسداران طی هفت ماه گذشته علاوه بر ناوهای جنگی آمریکا، هزاران دریانورد غیرنظامی را در آب‌های منطقه هدف قرار داده است.
-‏https://iranintl.com/202610148056
-23:24
-1405/07/22
-
-
-
-
 src :@jangaavaran1390
 ‏ترامپ  ما با چه کسی در حال تعامل هستیم؟ هیچ کس دقیقاً نمی‌داند؛ هیچ کس نمی‌خواهد رهبر باشد.  ایران به زودی شکست خواهد خورد، و زمانی که این اتفاق بیفتد، قیمت بنزین و سایر هزینه‌ها به شدت کاهش خواهد یافت.
 23:24
@@ -1934,19 +1981,6 @@ src :@Alibk3
 src :@OSINTWarfare
 ‏Reports of anti-ship cruise missiles launched by the IRGC Navy from Sirik toward the Strait of Hormuz.
 22:16
-1405/07/22
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🇷🇺⚡️ — The FBI refuted reports about its Director Kash Patel’s visit to Russia in a statement, posted on the X social network.
-‏
-‏"Left: MS Now reports two sources familiar say Kash Patel just landed in Russia. Right: Here’s where Kash Patel actually is… Liberty U, doing a law enforcement appreciation event," the statement says. "MS Now’s ‘sources’ are ‘familiar’ with nothing!"
-‏
-‏@IntelSlava
-22:09
 1405/07/22
 
 
@@ -3864,17 +3898,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏استمرار توقف المطارات السعودية عن استقبال الرحلات…
-‏
-‏مطاري نجران وجازان لأكثر من 197 ساعة، والرياض لنحو 100 ساعة، وينبع لأكثر من 70 ساعة.
-18:45
-1405/07/22
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇳🇨🇦 Indian Prime Minister Modi says "India is committed to building a constructive and forward-looking strategic partnership with Canada."
 ‏
@@ -5282,14 +5305,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 14:05
-1405/07/22
-
-
-
-
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸 - Yesterday GFS PRIDE and ALFONSO were hit by Iran in the Strait of Hormuz.   GFS PRIDE was evacuated and the vessel sank in Omani waters. This is the second vessel to sink following an Iranian attack recently, after CAPE DAO.  @GeoPWatch
-14:04
 1405/07/22
 
 
