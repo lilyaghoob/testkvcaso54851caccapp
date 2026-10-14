@@ -1,3 +1,27 @@
+src :@OSINTWarfare
+‏Reports of anti-ship cruise missiles launched by the IRGC Navy from Sirik toward the Strait of Hormuz.
+22:16
+1405/07/22
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏یحیی سریع، سخنگوی حوثی‌ها، شامگاه چهارشنبه ۲۲ مهر اعلام کرد این گروه با یک موشک بالستیک فرودگاه بین‌المللی ملک خالد در ریاض، پایتخت عربستان سعودی، را هدف قرار داده است.
+‏
+‏او گفت: «با یک موشک بالستیک فرودگاه ملک خالد را هدف قرار دادیم و موشک به‌طور مستقیم و دقیق به هدف اصابت کرد.»
+‏
+‏سخنگوی حوثی‌ها افزود: «با شلیک سه موشک بالستیک، تجمع نیروهای عربستان سعودی را در مناطق راس‌العاره و المضاربه در یمن هدف قرار دادیم و این حملات شمار زیادی کشته و زخمی بر جای گذاشت و همچنین چند خودروی نظامی را از کار انداخت.»
+‏
+‏مقام‌های عربستان سعودی هنوز اظهارات حوثی‌ها درباره این حملات را تایید نکرده‌اند.
+‏https://iranintl.com/202610141386
+22:14
+1405/07/22
+
+
+
+
 src :@ClashReport
 [عکس]
 ‏A hacker claims to have accessed Denmark’s national population register through an IT company whose accounts used the password “123456,” including an administrator account.
@@ -13,7 +37,7 @@ src :@ClashReport
 
 src :@intelslava
 [عکس]
-‏The FBI refuted reports about its Director Kash Patel’s visit to Russia in a statement, posted on the X social network.
+‏🇺🇸🇷🇺⚡️ — The FBI refuted reports about its Director Kash Patel’s visit to Russia in a statement, posted on the X social network.
 ‏
 ‏"Left: MS Now reports two sources familiar say Kash Patel just landed in Russia. Right: Here’s where Kash Patel actually is… Liberty U, doing a law enforcement appreciation event," the statement says. "MS Now’s ‘sources’ are ‘familiar’ with nothing!"
 ‏
@@ -149,6 +173,8 @@ src :@defence_news
 
 src :@naya_foriraq
 ‏🇾🇪ما يسمى ‏وزيرة خارجية المليشيات الموالية للسعودية في اليمن: ناقشنا مع الصين استخدام الحوثيين لتكنولوجيا صينية لصنع أسلحة.
+‏
+‏https://t.me/naya_foriraq
 21:55
 1405/07/22
 
@@ -727,6 +753,8 @@ src :@naya_foriraq
 ‏🇾🇪العميد يحيى السريع: 
 ‏تمكنت قواتنا المسلحة بفضل الله وعونه من استهداف مطار خالد الدولي في عاصمة العدو السعودي الرياض بصاروخ باليستي وكانت الإصابة دقيقة ومباشرة.
 ‏وفي سياق آخر نفذت قواتنا المسلحة عملية استهداف لعدد من تحشيدات العدو السعودي في منطقة رأس العارة والمضاربة بثلاثة صواريخ بالستية وكانت الإصابات دقيقة بفضل الله وخلفت عددا كبيرا من القتلى والجرحى وإعطاب عدد من الآليات.
+‏
+‏https://t.me/naya_foriraq
 21:07
 1405/07/22
 
@@ -737,6 +765,8 @@ src :@naya_foriraq
 [عکس]
 ‏🇮🇷قاليباف: بالمناسبة، "ليس لديهم شيء في غضون أسبوعين"، "تنفجر الآبار في غضون 3 أيام"، "يوم النصر الاقتصادي" كلها مرت.
 ‏الوقت نسبي؛ اتضح أنه قد يكون غير ذي صلة. جائزة نوبل في الفيزياء التطبيقية لوزارة الخزانة؟
+‏
+‏https://t.me/naya_foriraq
 21:04
 1405/07/22
 
@@ -918,6 +948,8 @@ src :@MilitarryWorld
 src :@naya_foriraq
 [عکس]
 ‏🇮🇶🔻المسؤول الامني لكتائب حزب الله الحاج ابو مجاهد العساف: لم تتسلم المقاومة الإسلامية لغاية اليوم جواباً رسمياً من السيد رئيس الوزراء بشأن وثيقة تنظيم السلاح التي اتفق عليها عبر لجنة التفاوض الإطارية، وهذا يشير إلى أنها لا تزال في المربع الصفر.
+‏
+‏https://t.me/naya_foriraq
 20:57
 1405/07/22
 
@@ -947,15 +979,6 @@ src :@tabzlive
 ‏F-15 and Typhoon fighter jets took off from King Khalid AB and King Fahd AB, while missiles were launched from Najran Province, southwestern KSA.
 ‏
 ‏Ansarallah also announced that the Saudi airstrikes and missile strikes threatened maritime navigation, and that there would be consequences and implied maritime navigation would be less safe.
-20:53
-1405/07/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏FBI Director Kash Patel has arrived in Russia for a meeting.  Source: MS NOW
 20:53
 1405/07/22
 
@@ -1024,7 +1047,7 @@ src :@Navy_Iranian
 
 
 src :@intelslava
-‏🇨🇳🇷🇺⚡ A meeting between Vladimir Putin and Xi Jinping on the sidelines of the APEC summit in Shenzhen will provide a valuable opportunity to exchange views.
+‏🇨🇳🇷🇺⚡️  — A meeting between Vladimir Putin and Xi Jinping on the sidelines of the APEC summit in Shenzhen will provide a valuable opportunity to exchange views.
 ‏
 ‏- Chinese Foreign Minister Wang Yi said
 ‏
@@ -1070,6 +1093,8 @@ src :@naya_foriraq
 ‏شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 42 غارة جوية وصاروخا استهدف بها الأعيان المدنية في العاصمة صنعاء ومحافظات تعز ولحج ومأرب وعمران وجزيرة ميون من خلال طائرات "F-15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف والعدوان الصاروخي من نجران.
 ‏ليبلغ إجمالي غارات العدوان السعودي منذ بدء التصعيد على بلدِنا 2323 غارة جوية وصاروخاً.
 ‏إن استهداف جزيرة ميون بالقصف الجوي والصاروخي من قبل العدو السعودي يهدد خطوط الملاحة البحرية بشكل مباشر ونحمل المعتدي السعودي أي تبعات جراء ذلك وما سينتج عنه من تهديد لسلامة الملاحة البحرية.
+‏
+‏https://t.me/naya_foriraq
 20:45
 1405/07/22
 
@@ -1277,17 +1302,6 @@ src :@defence_news
 
 
 
-src :@IranintlTV
-[عکس]
-‏قاسم رضایی، جانشین فرمانده انتظامی، گفت: «دشمنان به دنبال وارد کردن محموله‌های سلاح به داخل کشور هستند، اما مقابله بی‌امان با قاچاقچیان اسلحه و مهمات در تمام مرزها و کشف و جمع‌آوری آن در عمق کشور با جدیت کامل دنبال می‌شود.»
-‏او افزود: «افرادی که احیانا از روی ناآگاهی سلاحی تهیه کرده‌اند، باید پیش از آنکه دیر شود و با رصد پلیس مواجه شوند، خودمعرف شده و داوطلبانه سلاح را به مراکز انتظامی تحویل دهند.»
-‏https://iranintl.com/202610145246
-20:26
-1405/07/22
-
-
-
-
 src :@MilitarryWorld
 ‏🔴کرباسچی تو صداوسیما:
 ‏
@@ -1481,20 +1495,6 @@ src :@MilitarryWorld
 ‏🔴دیدار الهام علی‌اف رئیس‌جمهور آذربایجان با رئیس‌جمهور اسرائیل
 ‏
 ‏@MilitarryWorld | Parsa
-20:09
-1405/07/22
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏ولودیمیر زلنسکی، رییس‌جمهوری اوکراین، چهارشنبه ۲۲ مهر در گفت‌وگو با برنامه «پیرز مورگان» گفت زمانی که دونالد ترامپ در جنگ جاری اوکراین و روسیه طرف دیگری را می‌گیرد، برای او «دردناک» است.
-‏این اظهارات پس از آن مطرح شد که رییس‌جمهوری آمریکا گفت زلنسکی باید جایگزین شود.
-‏زلنسکی در این مصاحبه گفت: «وقتی ترامپ یک طرف را انتخاب می‌کند و آن طرف، طرف ما نیست، دردناک است.»
-‏او همچنین گفت با قرار گرفتن ترامپ در میانه اوکراین و روسیه مشکلی ندارد، اما افزود: «اگر در میانه هستید، باید در میانه بمانید.»
-‏
-‏https://iranintl.com/202610148041
 20:09
 1405/07/22
 
@@ -2315,15 +2315,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 19:27
-1405/07/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇷🇺⚡️ — FBI Director Kash Patel has arrived in Russia for meetings with Russian officials, with the visit expected to be hosted by the country's Federal Security Service (FSB), MS NOW reports.
-19:24
 1405/07/22
 
 
@@ -3189,19 +3180,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 17:47
-1405/07/22
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏قره‌کلیسا، چالدران، آذربایجان‌غربی🧡
-‏
-‏🔗 𝔼𝕃ŞƏℕ Ξ (@Tabrizzio) 
-‏
-‏@mohem_mat
-17:46
 1405/07/22
 
 
@@ -6297,14 +6275,6 @@ src :@warmonitors
 
 
 
-src :@OSINTWarfare
-‏The Saudi-led coalition reports intercepting a cruise missile launched by Ansar Allah (Houthis) over Al-Kharj, just south of Riyadh.
-01:45
-1405/07/22
-
-
-
-
 src :@Mena_Live
 ‏A Houthi member takes picture of Taiz City  @Mena_Live
 01:28
@@ -6761,31 +6731,4 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 22:24
-1405/07/21
-
-
-
-
-src :@Parvazdaroj
-‏قطع و وصل شدن تموم شد. 👎| Nexora VPN📶
-‏
-‏💥سرویس‌های VIP (حجمی) : 
-‏🔸20 گیگ   → 199
-‏🔸50 گیگ   → 399
-‏🔸100 گیگ → 599
-‏━━━━━━━━━━━━━━
-‏🔥پلن های نامحدود:
-‏♾ تک‌کاربر → 199
-‏♾ دوکاربر → 349
-‏♾ سه‌کاربر → 499
-‏
-‏آخرین مقصدت برای یک اتصال بهتر💙🔝
-‏
-‏📩 خرید و تحویل آنی:
-‏🟢@Nexora_pv 
-‏🟢@Nexora_pv
-‏
-‏📣 کانال Nexora VPN:
-‏🌐https://t.me/Nexora_Tunnel
-22:14
 1405/07/21
