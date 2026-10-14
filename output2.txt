@@ -1,3 +1,57 @@
+src :@Ali_bk_2
+‏Explosions heard in the Strait of Hormuz now.
+19:22
+1405/07/22
+
+
+
+
+src :@Alibk3
+‏سماع دوي انفجارات في مضيق هرمز الآن.
+19:22
+1405/07/22
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | چهارشنبه ۲۲ مهر
+‏@iranintlTV
+19:21
+1405/07/22
+
+
+
+
+src :@defence_news
+[عکس]
+‏📱 سرویس های یک ماهه OPENVPN ❤️
+‏
+‏
+‏🚀 پلن‌های ویژه نامحدود:
+‏
+‏👤 تک‌کاربره — 350 تومان
+‏
+‏👥 دوکاربره — 550 تومان
+‏
+‏ 👥سه‌کاربره — 750 تومان
+‏
+‏🟢 بدون محدودیت حجم 
+‏📱 مخصوص دانلود و کارهای با حجم بالا و پهنای باند اختصاصی
+‏
+‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
+‏
+‏
+‏📩 برای خرید و دریافت سریع:
+‏
+‏😎@CFoxSupport
+19:18
+1405/07/22
+
+
+
+
 src :@defence_news
 [عکس]
 ‏رییس جمهور اسراییل با رییس جمهور آذربایجان ، الهام علیف در باکو ملاقات کرد.
@@ -1382,26 +1436,6 @@ src :@guard_warriors
 
 
 
-src :@IranintlTV
-[عکس]
-‏«برنامه» صدای شماست.
-‏ما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.
-‏بیایید و روایت خود را برای همیشه ثبت کنید.
-‏تاریخ با صدای شما نوشته می‌شود.
-‏برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید: ۰۰۴۴۷۵۲۲۱۱۰۱۱۰
-‏۰۰۴۴۷۵۴۴۱۱۰۱۱۰
-‏۰۰۴۴۷۵۱۱۱۰۲۵۵۳
-‏
-‏«برنامه با کامبیز حسینی»
-‏«یک ایران صدای شما را می‌شنود»
-‏
-‏@iranintltv
-17:15
-1405/07/22
-
-
-
-
 src :@naya_foriraq
 ‏انفجارات تهز مضيق هرمز
 17:15
@@ -1888,18 +1922,6 @@ src :@cataphract1
 
 src :@naya_foriraq
 ‏انفجارات تهز مضيق هرمز
-16:43
-1405/07/22
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Earlier today, Yemen’s Houthis (Ansarallah) announced that they carried out a large-scale missile and drone operation targeting Saudi Aramco’s headquarters in Dhahran, King Khalid International Airport, and the Aramco refinery in Riyadh.
-‏
-‏They say the attacks involved numerous ballistic missiles, cruise missiles, and drones, noting the strikes hit their intended targets and caused fires and significant destruction.
-‏
-‏It was retaliation for Saudi-led attacks on Sana’a and other Houthi-controlled areas.
 16:43
 1405/07/22
 
@@ -6449,15 +6471,6 @@ src :@defence_news
 ‏
 ‏@Minas_Tirith2024
 20:11
-1405/07/21
-
-
-
-
-src :@defence_news
-[ویدئو]
-‏بدون شرح :  ترامپ گفت کنترل تنگه هرمز رو در اختیار داره...  @alpha_sierra_military 👑
-20:05
 1405/07/21
 
 
