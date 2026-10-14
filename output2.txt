@@ -1,4 +1,63 @@
 src :@Middle_East_Spectator
+[ویدئو]
+‏— 🇺🇸/🇮🇷 NEW: According to U.S. intelligence estimates, Iran has at least several thousands of anti-ship cruise missiles left in its arsenal, along with hundreds of mobile launch platforms that can quickly emerge and retreat back into tunnels
+‏
+‏@Middle_East_Spectator
+17:52
+1405/07/22
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️سازمان دفاع مدنی عربستان سعودی روز چهارشنبه ۲۲ مهر اعلام کرد که نیروهای امدادی پس از رهگیری و انهدام یک موشک بالستیک شلیک‌شده از سوی حوثی‌ها بر فراز ریاض، برای بررسی وضعیت به محل اعزام شدند.
+‏
+‏به گزارش خبرگزاری رسمی عربستان سعودی (واس)، این حادثه منجر به مجروح شدن یک شهروند عرب مقیم این کشور و وارد شدن خسارات مادی به یک ساختمان مسکونی و یک دستگاه خودرو شد.
+‏@indypersian
+17:52
+1405/07/22
+
+
+
+
+src :@tabzlive
+‏🇺🇸🇮🇷⚡️ — U.S. Central Command: The highly successful U.S. blockade against Iran has been in place for months and professionally communicated.   The only country attacking civilian mariners transiting regional waters is Iran.   Despite these unjustified attacks…
+17:49
+1405/07/22
+
+
+
+
+src :@Ali_bk_2
+[عکس]
+‏No flights have landed at Taif Airport in Saudi Arabia for approximately 16 hours, as of now.
+17:48
+1405/07/22
+
+
+
+
+src :@Alibk3
+[عکس]
+‏لم تهبط أي رحلة في مطار الطائف في السعودية منذ نحو 16 ساعة حتى الآن.
+17:48
+1405/07/22
+
+
+
+
+src :@MilitarryWorld
+‏🔴روسیه: برای انتقال کامل ذخایر اورانیوم غنی‌شده از ایران آمادگی داریم
+‏
+‏@MilitarryWorld | Parsa
+17:48
+1405/07/22
+
+
+
+
+src :@Middle_East_Spectator
 ‏—❗️🇮🇷/🇴🇲 NEW: More explosions in the Strait of Hormuz; Iranian anti-ship missiles are currently working
 ‏
 ‏@Middle_East_Spectator
@@ -155,7 +214,7 @@ src :@Alibk3
 
 
 src :@MilitarryWorld
-‏🔴پناه،معاون پزشکیان: هیچ مذاکره‌ای بدون تصمیم شعام و تایید رهبری شکل نمی‌گیرد
+‏🔴قائم پناه،معاون پزشکیان: هیچ مذاکره‌ای بدون تصمیم شعام و تایید رهبری شکل نمی‌گیرد
 ‏
 ‏
 ‏@MilitarryWorld | Parsa
@@ -1276,15 +1335,6 @@ src :@Alibk3
 
 
 
-src :@tabzlive
-[عکس]
-‏🇱🇰🇸🇦⚡️ — Sri Lankan migrant worker Anojan Sivarasa, 24, is facing execution in Saudi Arabia after an appellate court convicted him of blasphemy against Islam and the Prophet Muhammad in a Facebook comment, BBC reports.  The case began after an online dispute…
-16:21
-1405/07/22
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴جانشین فراجا: ‌با افزایش ورود قاچاق ‌سلاح و مهمات ‌به ایران مواجهیم‌ 
@@ -1313,15 +1363,6 @@ src :@MilitarryWorld
 ‏اینترنت از امشب ۴۰ درصد گرون میشه
 ‏
 ‏@MilitarryWorld | Parsa
-16:20
-1405/07/22
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇷🇺❌🇺🇦 — SpaceX has restricted Starlink connectivity for Ukrainian forces, with terminals reportedly losing connection at speeds above 160 km/h, disrupting several military missions, Ukrainian communications expert Serhii Beskrestnov said.  Volunteer Serhii…
 16:20
 1405/07/22
 
@@ -3093,16 +3134,6 @@ src :@mohem_mat
 
 
 
-src :@MilitarryWorld
-‏🔴همتی:ادعای فروپاشی اقتصاد ایران توهمی بیش نیست
-‏
-‏@MilitarryWorld | Parsa
-13:29
-1405/07/22
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -3373,17 +3404,6 @@ src :@Ali_bk_2
 
 
 
-src :@Alibk3
-[عکس]
-‏وول ستريت جورنال عن مصادر: 
-‏
-‏الحوثيون في اليمن يعملون عن تطوير صاروخ باليستي متوسط المدى متقدم بعد حصولهم على أجزاء صينية، الصاروخ فرط صوتي يصل مداه إلى 1930 كم، ويغطي كل مساحة إسرائيل والسعودية.
-12:59
-1405/07/22
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏لیست پادشاهان هخامنشی،
@@ -3563,14 +3583,6 @@ src :@Navy_Iranian
 
 
 
-src :@Ali_bk_2
-‏Containers from the ship targeted in the Strait of Hormuz.
-12:42
-1405/07/22
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏در حالی که شب گذشته روسیه حملات بزرگی به زیرساخت های انرژی اوکراین انجام داد و ارتش اوکراین همچنان از حملات به پالایشگاه های روسیه اجتناب می کند، شاهد حمایت جدید ترامپ از پوتین و ارتش روسیه بودیم : قطع استارلینک روی پرتابه های اوکراینی!  گزارش شده از شب گذشته…
@@ -3695,18 +3707,6 @@ src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - This morning Saudi Arabia intercepted Ansarullah BMs targeting Riyadh.
 ‏
 ‏@GeoPWatch
-12:28
-1405/07/22
-
-
-
-
-src :@mohem_mat
-‏امیر قطر، در پیامی خطاب به قطری‌ها:
-‏
-‏«باید برای بدترین سناریوهای ممکن آماده باشیم و همه، اعم از نهادها و شهروندان، مسئولیت‌های خود را بر عهده بگیرند.» / انتخاب
-‏
-‏ @Entekhab_ir
 12:28
 1405/07/22
 
@@ -5764,17 +5764,6 @@ src :@guard_warriors
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇮🇷/🇴🇲 NEW: Iran struck two vessels in the Strait of Hormuz
-‏
-‏@Middle_East_Spectator
-22:50
-1405/07/21
-
-
-
-
 src :@samueltarikh
 ‏مرحله‌ی دیگر سقوط مارپیچ تولید بحران برای حفظ قدرت است. یعنی همان نقطه‌ای که نظام سیاسی برای بقا نیازمند دشمن و نیازمند تهدید و نیازمند جنگ و نیازمند تنش و نیازمند بحران می‌شود. آرنت می‌گفت: قدرتی که برای زنده ماندن به بحران نیاز دارد در حال مرگ است. ج.ا سال‌هاست بحران تولید می‌کند و از منطقه تا داخل ، از اقتصاد تا سیاست، از امنیت تا فرهنگ. و این تولید بحران مارپیچ سقوط را شتاب می‌دهد چون هر بحران مشروعیت را می‌خورد، اقتصاد را می‌فرساید و جامعه را خسته می‌کند و ساختار را شکننده‌تر می‌سازد.
 22:48
@@ -6388,14 +6377,6 @@ src :@Americana_ir
 ‏
 ‏🆔 @Americana_ir
 19:56
-1405/07/21
-
-
-
-
-src :@USAMRYDATA
-‏۱۱۵ اورژانس تهران قطع شد، از شماره‌های جایگزین استفاده کنید.  سازمان اورژانس استان تهران:   شماره ۱۱۵ قطع شده است و شهروندان برای دریافت خدمات اورژانس می‌توانند از شماره‌های جایگزین استفاده کنند.  🔹۴۶۰۱۵۹۸۱ 🔹۴۶۰۱۵۶۱۹ 🔹۴۶۰۱۵۹۴۸ 🔹۴۶۰۱۵۷۳۴ 🔹۴۶۰۱۵۷۳۲ 🔹۴۶۰۱۵۸۷۳…
-19:55
 1405/07/21
 
 
