@@ -1,5 +1,18 @@
+src :@Middle_East_Spectator
+[عکس]
+‏⚡️🇺🇸🇷🇺 The FBI has clarified that Kash Patel is currently attending a law enforcement appreciation event at Liberty University in Virginia. He is not in Russia.
+‏
+‏@MedmanNews
+01:19
+1405/07/23
+
+
+
+
 src :@WAR_ROOM_NEWS
 ‏🔴سخنگوی نظامی حوثی‌ها، یحیی سریع، اعلام کرد که نیروهای این گروه یک فروند جنگنده یوروفایتر تایفون عربستان سعودی را که از پایگاه هوایی طائف به پرواز درآمده بود، بر فراز استان صعده در یمن با موشک زمین‌به‌هوا هدف قرار داده‌اند
+‏
+‏🆔@WAR_ROOM_NEWS
 01:16
 1405/07/23
 
@@ -515,6 +528,8 @@ src :@Indypersian
 
 src :@WAR_ROOM_NEWS
 ‏اکنون حملات جنگنده‌های سعودی به صنعا
+‏
+‏🆔@WAR_ROOM_NEWS
 00:20
 1405/07/23
 
@@ -773,6 +788,8 @@ src :@intelslava
 
 src :@WAR_ROOM_NEWS
 ‏گزارش از شلیک موشک توسط سپاه از قشم به تنگه هرمز
+‏
+‏🆔@WAR_ROOM_NEWS
 23:51
 1405/07/22
 
@@ -1561,16 +1578,6 @@ src :@Indypersian
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی چشم‌انداز: شمارش معکوس برای حمله مجدد آمریکا و اسرائیل
-‏@iranintlTV
-23:01
-1405/07/22
-
-
-
-
 src :@didarnews1
 ‏🔴روایت سید محمد خاتمی از پاسخ رئیس جمهور چین به پیشنهاد اتمی ایران:
 ‏
@@ -2131,6 +2138,8 @@ src :@Indypersian
 
 src :@WAR_ROOM_NEWS
 ‏طبق برخی گزارشات تائید نشده لحظاتی پیش، یک موشک بالستیک حوثی ها به فرودگاه ملک خالد در ریاض اصابت کرده است
+‏
+‏🆔@WAR_ROOM_NEWS
 21:27
 1405/07/22
 
@@ -6327,12 +6336,4 @@ src :@warmonitors
 src :@Mena_Live
 ‏A Houthi member takes picture of Taiz City  @Mena_Live
 01:28
-1405/07/22
-
-
-
-
-src :@Middle_East_Spectator
-‏🇾🇪❌🇸🇦 — An official at Saudi Arabia’s Ministry of Energy told Al Hadath that an Aramco administrative building in Dhahran was hit in an attack, with no injuries reported.
-01:18
 1405/07/22
