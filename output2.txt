@@ -1,3 +1,52 @@
+src :@Navy_Iranian
+[فایل]
+‏جزوه روش های مقابله با ضد ترمال
+‏
+‏این جزوه توسط تیم کانال نیروی دریایی نوشته شده و بعضی از تصاویری از دوربین ترمال ایرانی همچون فاطر4c وRU60G رایان رشد نیز در جزوه استفاده شده است.
+‏
+‏به طور کلی یک جزوه بسیار ساده و کوتاه در دو بخش تعریف الکترواپتیک / ترمال و مفاهیم پایه استتار و مقابله با ترمال پرداخته شده است. بعضی از این روش های نامبرده در مقابل نایت ویژن نیز کارایی دارد.
+‏
+‏در هر صورت این جزوه میتواند ایراداتی داشته باشد که از وجود آنها از پیش عذرخواهی میکنیم و اگر پیشنهاداتی دارید میتوانید به @Navy90iranian ایدی مطرح کنید.
+‏
+‏@Navy_Iranian  |#A_A
+00:22
+1405/07/24
+
+
+
+
+src :@WAR_ROOM_NEWS
+[فایل]
+‏شب و روزگار بر شما عزیزان همراه خوش✨
+00:19
+1405/07/24
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡️- BREAKING: Active shooter at Silver Rail Elementary School in Bend, Oregon.
+‏
+‏Police scanner indicates the shooter has possibly been neutralized by a parent at the school.
+00:18
+1405/07/24
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Saudi Arabia’s Costly Defenses Struggle Against Cheap Houthi Drones
+‏
+‏Despite its advanced weapons, Saudi Arabia is struggling with Houthi drones and cruise missiles that fly low, evade detection, and strain defenses built around different assumptions.
+‏
+‏READ MORE
+00:18
+1405/07/24
+
+
+
+
 src :@intelslava
 ‏🇺🇦⚡ Part of Kiev and the region was left without power after a new attack on an energy facility  — Ministry of Energy.  @IntelSlava
 00:12
@@ -2152,19 +2201,6 @@ src :@samueltarikh
 ‏🚨متین رضوی؛ خبرنگار نزدیک به حکومت:
 ‏
 ‏خبر از حمله نظامی داده شده و ایران تا ۷۲ ساعت آینده در آماده باش کامل قرار گرفته.
-21:21
-1405/07/23
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Apple and Nvidia Each Commit $25 Million to Trump’s White House Ballroom
-‏
-‏Leaked records identify $333 million in commitments to donate to the ballroom, including $25 million each from Apple and Nvidia, and at least $77 million from anonymous donors.
-‏
-‏READ MORE
 21:21
 1405/07/23
 
@@ -5425,14 +5461,6 @@ src :@defence_news
 
 
 
-src :@rnintel
-‏🇫🇷⚡️- French police and local authorities are expecting the riots to escalate their violence on Saturday. Several prefects have taken new administrative measures to prevent gatherings while police syndicates shared that police forces "were nearing their breaking point".
-15:44
-1405/07/23
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏عملیات آبی خاک در راه است ؟
@@ -6802,15 +6830,4 @@ src :@tglobaleye
 src :@Mena_Live
 ‏Axios:  In recent meetings with his security and intelligence officials, Netanyahu claimed that it was Trump, not him, who initiated the discussion about the possibility of attacking Iran before the elections, according to a senior Israeli official.  According…
 00:49
-1405/07/23
-
-
-
-
-src :@Mena_Live
-[عکس]
-‏Syria/Iraq sign 8 investment contracts in two border regions. 
-‏
-‏@Mena_Live
-00:16
 1405/07/23
