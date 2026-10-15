@@ -1,7 +1,79 @@
+src :@ClashReport
+[عکس]
+‏Nicolás Maduro and his wife plead not guilty to torture charges, with Maduro rejecting the allegations as false.
+‏
+‏The judge sets December 17 for arguments on their drug trafficking charges.
+19:35
+1405/07/23
+
+
+
+
+src :@intelslava
+‏🇷🇺🇪🇺⚡ Estonia warns Russia is intensifying sabotage, disinformation, and hybrid attacks to weaken European support for Ukraine.
+‏
+‏The warning comes as opposition to military aid grows across the bloc, with Germany’s AfD and BSW backing a motion to end arms support and France’s Marine Le Pen saying Paris can no longer afford to finance Kyiv.
+‏
+‏@IntelSlava
+19:35
+1405/07/23
+
+
+
+
+src :@Minas_Tirith2024
+[عکس]
+‏پس از دیدار زلنسکی و اندی برنهام نخست وزیر بریتانیا، این کشور موافقت خود را با ارسال محموله جدیدی از موشک های کروز استورم شدو برای اوکراین اعلام کرده است 
+‏
+‏@Minas_Tirith2024
+19:34
+1405/07/23
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇬🇧🤝🇺🇦 - Bloomberg reports that the UK will supply Ukraine with a new package of Storm Shadow cruise missiles in the coming weeks
+‏
+‏@GeoPWatch
+19:34
+1405/07/23
+
+
+
+
+src :@jangaavaran1390
+‏در اسرائیل شورای خاخام‌ها درصدد تصویب بیانیه‌ای است که از طلاب و مذهبیون می‌خواهد که از خرید محصولاتی که تصاویر زنان برهنه بر روی آنها است خودداری کنند
+19:33
+1405/07/23
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔻گزارش از حمله پهپادی حوثی ها به خمیس مشیط در عربستان سعودی
+19:32
+1405/07/23
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇺🇦❌🇷🇺 - Overnight, Ukrainian Forces struck an airfield in the Voronezh region. Four Russian Su-34 fighter-bombers were destroyed, while two others were rendered inoperable. The planes were reportely armed and ready to launch strikes on Ukraine but were hit by Ukrainian Long Neptune missiles launched by the Ukrainian Navy.
 19:32
+1405/07/23
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The UK is sending Ukraine more long-range Storm Shadow missiles to disrupt Russian military operations targeting Ukrainian civilian infrastructure ahead of winter.
+‏
+‏Source: Bloomberg
+19:31
 1405/07/23
 
 
@@ -79,7 +151,7 @@ src :@bricsnews
 
 
 src :@GeoPWatch
-‏🇸🇦❌🇾🇪 - Saudi-led Coallition announces the interception and destruction of a Ansarullah drone above Khamis Mushait city.
+‏🇸🇦❌🇾🇪 - Saudi-led Coallition announces the interception and destruction of an Ansarullah drone above Khamis Mushait city.
 ‏
 ‏@GeoPWatch
 19:24
@@ -1077,14 +1149,6 @@ src :@naya_foriraq
 src :@naya_foriraq
 ‏‏وكالة الصحافة الفرنسية: الحوثيون يستهدفون "مقر عمليات حربية" في القصر الرئاسي بعدن
 18:14
-1405/07/23
-
-
-
-
-src :@ClashReport
-‏The Trump administration is reportedly pushing for a broad Israeli unity government in which Netanyahu would remain prime minister for up to two years before retiring from politics.  The proposed coalition, involving Netanyahu's Likud and Gadi Eisenkot's party…
-18:13
 1405/07/23
 
 
@@ -2130,22 +2194,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏کاظم غریب‌آبادی، معاون حقوقی وزارت خارجه جمهوری اسلامی، پنج‌شنبه ۲۳ مهر در اجلاس سران کنفرانس تعامل و اقدامات اعتمادسازی در آسیا (سیکا) در باکو گفت هیچ کشوری نباید قلمرو خود را برای انجام حملات مسلحانه علیه جمهوری اسلامی در اختیار متجاوزان قرار دهد.
-‏
-‏او افزود: «ما جنگ‌طلب نیستیم، اما هر تجاوزی با پاسخ قاطع ما روبه‌رو خواهد شد.»
-‏
-‏غریب‌آبادی همچنین گفت امنیت پایدار در آسیا نه از مسیر تهدید و فشار، بلکه از طریق احترام متقابل، اعتمادسازی و همکاری برابر میان دولت‌های مستقل محقق می‌شود.
-‏
-‏معاون حقوقی وزارت خارجه جمهوری اسلامی، اسرائیل را مهم‌ترین منبع ناامنی و بی‌ثباتی در آسیا خواند و خواستار اخراج این کشور از سازوکار سیکا شد.
-‏https://iranintl.com/202610154790
-17:15
-1405/07/23
-
-
-
-
 src :@MilitarryWorld
 ‏🔴وزارت دفاع ترکیه: اعزام نیروهای ترکیه‌ای به خارج از کشور پس از تصویب مفاد «توافق مکه» در مجلس انجام خواهد شد
 ‏
@@ -2237,19 +2285,6 @@ src :@rus_cosmos
 src :@jangaavaran1390
 ‏ائتلاف به رهبری عربستان سعودی اعلام کرد که حوثی‌ها در یمن تلاش کرده‌اند تا ده‌ها فرودگاه، تاسیسات نفتی و بندر در عربستان سعودی را مورد حمله قرار دهند. این ائتلاف مدعی است که بیش از ۱۲۰ انبار سلاح در مناطق کوهستانی یمن و پرتابگرهای موشک را نابود کرده است.
 17:08
-1405/07/23
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏اسرائیل هیوم گزارش داد در پی شلیک ۳۰ موشک بالستیک در رزمایش سپاه پاسداران، ارتش اسرائیل سطح آماده‌باش را در همه جبهه‌ها افزایش داده و در بالاترین سطح آمادگی برای حمله‌ای هدفمند به ایران قرار گرفته است.
-‏این رسانه افزود یکی از سناریوهای اصلی مورد توجه اسرائیل، تشدید تنش در تنگه هرمز است و انتظار می‌رود آمریکا در روزهای آینده حملات نقطه‌ای علیه رادارها، پرتابگرها و مواضع دیده‌بانی ایران مرتبط با شناسایی کشتی‌های عبوری انجام دهد.
-‏بر اساس این گزارش، ارزیابی اسرائیل این است که حملات احتمالی آمریکا در تنگه هرمز پیامد فوری برای اسرائیل نخواهد داشت، مگر اینکه تنش به‌طور جدی تشدید شود. در چنین شرایطی، ممکن است جمهوری اسلامی از سامانه موشکی در حال بازسازی خود علیه اهداف دیگری در کشورهای خلیج فارس استفاده کند.
-‏
-‏https://iranintl.com/202610150413
-17:06
 1405/07/23
 
 
@@ -3722,21 +3757,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 14:00
-1405/07/23
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇦🇷🇺⚡️ — The aftermath of the attack on the Borisoglebsk airfield in the Voronezh region, as seen from satellite imagery.
-‏
-‏A large burn mark is visible where the aircraft were parked, and the process of clearing the debris is underway.
-‏
-‏The opposing side claims that 6 *Su-34* bombers were hit, and that the attack involved, among other weapons, "Neptune" missiles.
-‏
-‏@Intelslava
-13:49
 1405/07/23
 
 
@@ -6134,35 +6154,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 19:38
-1405/07/22
-
-
-
-
-src :@P_raetorio
-‏#فوری
-‏
-‏دو انفجار قدرتمند در جزیره قشم شنیده شد، که از تنگه هرمز به گوش میرسد.
-‏
-‏
-‏@P_raetorio
-19:36
-1405/07/22
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺⭕️ ریزش حمایت شیعیان لبنان از حزب‌الله؛ ۶۶ درصد خواستار خلع سلاح و ۶۳ درصد موافق توافق با اسرائیل هستند
-‏
-‏روزنامه جروزالم پست روز چهارشنبه ۲۲ مهرماه گزارش داد که حزب‌الله لبنان با وجود پولپاشی و وعده پرداخت کمک‌های مالی به خانواده‌های جنگ‌زده با پشتیبانی جمهوری اسلامی، با بحران اعتماد در میان جامعه شیعیان این کشور روبه‌رو است.
-‏بر اساس نظرسنجی مؤسسه «استاتیستیکس لبنان» از ۸۰۰ شهروند شیعه در ماه سپتامبر، ۶۶.۴ درصد شرکت‌کنندگان از تحویل سلاح‌های حزب‌الله به دولت لبنان حمایت کرده‌اند و ۷۱.۱ درصد معتقدند تصمیم‌گیری درباره جنگ و صلح باید منحصراً در اختیار دولت باشد.
-‏همچنین ۶۳.۳ درصد پاسخ‌دهندگان از نوعی توافق با اسرائیل حمایت کرده‌اند و ۶۷.۴ درصد معتقدند حزب‌الله به اهداف خود در جنگ دست نیافته است.
-‏در این نظرسنجی، ۴۲.۱ درصد شرکت‌کنندگان نیز از عملکرد و رهبری حزب‌الله ابراز ناامیدی، خشم یا نگرانی کرده‌اند.
-‏این گزارش در حالی منتشر شده که حزب‌الله وعده داده به خانواده‌های واجد شرایطی که خانه‌هایشان در جنگ اخیر ویران شده، در بیروت و حومه جنوبی آن تا ۱۴ هزار دلار و در سایر مناطق لبنان تا ۱۲ هزار دلار کمک مالی پرداخت کند. پیش از این نیز گزارش شده بود که جمهوری اسلامی دویست میلیون دلار برای این گروه تحت امر خود در لبنان ارسال کرده است.
-‏
-‏#لبنان #جمهوری_اسرائیل #اسرائیل
-‏@DEJradio
-19:33
 1405/07/22
