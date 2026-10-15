@@ -1,3 +1,77 @@
+src :@intelslava
+‏🇮🇷⚡️ — Reports of explosions in the Strait of Hormuz.
+‏
+‏@IntelSlava
+18:21
+1405/07/23
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇾🇪 — Explosions in Ma'rib, PLC-controlled western Yemen. Ansarallah ballistic missile strike.
+18:21
+1405/07/23
+
+
+
+
+src :@mohem_mat
+‏فرانس‌پرس: 
+‏
+‏یک مقام وزارت خارجه عربستان سعودی در گفتگو با خبرگزاری فرانسه اعلام کرد که انصارالله یمن درخواست این کشور برای برگزاری نشست و گفتگو در عمان را رد کرده است.
+‏
+‏@mohem_mat
+18:20
+1405/07/23
+
+
+
+
+src :@intelslava
+‏🌍 TSMC, the world’s largest chipmaker, saw its revenue grow by 51% to $46.4 billion, while its net profit surged by 69% to $23.6 billion. The company has now set a new profit record for the sixth consecutive quarter, driven by strong demand for AI chips.
+‏
+‏@IntelSlava
+18:20
+1405/07/23
+
+
+
+
+src :@OSINTWarfare
+‏Ansar Allah (Houthis) targeted Marib with several ballistic missiles.
+18:20
+1405/07/23
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇾🇪 — Additional video show smoke rising from the presidential palace following what local describe as 5 consecutive explosions, following the Houthis (Ansarallah) missile attack.
+18:19
+1405/07/23
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏لحظه اصابت ترکش موشک پدافندی یمنی‌ها به جنگنده تایفون عربستان در آسمان استان صعده  بنظر می‌رسد باوجود آسیب، جنگنده به مسیر خود ادامه داد و از نتیجه سرنوشت جنگنده اطلاعی موجود نیست.  @Military_Tweet
+18:19
+1405/07/23
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇱🇺🇸⚡️ — The Trump administration is pushing for a broad Israeli unity government that would allow Prime Minister Benjamin Netanyahu to remain in office for up to two years before retiring from politics, according to Israel Hayom.  The proposed coalition would…
+18:18
+1405/07/23
+
+
+
+
 src :@mohem_mat
 ‏بلومبرگ:
 ‏
@@ -65,7 +139,7 @@ src :@IranintlTV
 
 
 src :@naya_foriraq
-‏‏وزير شباب المرتزقة: الحوثيون استهدفوا مقر الحكومة في عدن
+‏‏حكومة المرتزقة: الحوثيون استهدفوا مقر الحكومة في عدن
 18:15
 1405/07/23
 
@@ -186,7 +260,7 @@ src :@MilitarryWorld
 
 
 src :@intelslava
-‏⚡🇺🇦 Ukraine has run out of missiles for American Patriot air defense systems
+‏🇺🇦⚡️ — Ukraine has run out of missiles for American Patriot air defense systems
 ‏
 ‏- CNN reports.
 ‏
@@ -1287,19 +1361,6 @@ src :@IranintlTV
 
 
 
-src :@ClashReport
-[عکس]
-‏EU leaders plan to urge Zelensky to tone down his public criticism of Trump, fearing his remarks could further strain relations between Kyiv and Washington.
-‏
-‏“That may be true, but it is not always necessary to say it out loud,” one EU official said.
-‏
-‏Source: FT
-17:15
-1405/07/23
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏کاظم غریب‌آبادی، معاون حقوقی وزارت خارجه جمهوری اسلامی، پنج‌شنبه ۲۳ مهر در اجلاس سران کنفرانس تعامل و اقدامات اعتمادسازی در آسیا (سیکا) در باکو گفت هیچ کشوری نباید قلمرو خود را برای انجام حملات مسلحانه علیه جمهوری اسلامی در اختیار متجاوزان قرار دهد.
@@ -2257,18 +2318,6 @@ src :@guard_warriors
 
 
 
-src :@mohem_mat
-‏یدیعوت آحارونوت: 
-‏
-‏نتانیاهو عصر امروز جلسه‌ای امنیتی با روسای ارتش و امنیت برگزار می‌کند تا در مورد تحولات مربوط به ایران گفتگو کند.
-‏
-‏@mohem_mat
-16:03
-1405/07/23
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏#فوری نیرو هوایی اوکراین اعلام کرد طی یک عملیات ضربتی 6 فروند جنگنده Su-34 ارتش روسیه را در پایگاه هوایی ورونژ به طور کامل منهدم کرده است.  @P_raetorio
@@ -3073,16 +3122,6 @@ src :@MilitarryWorld
 
 
 
-src :@Mena_Live
-‏🌲 - 🇱🇧🇸🇾 Ali Kayali (Mihrac Ural), a former pro-Assad militia leader accused of involvement in the 2013 Baniyas massacres, was abducted from his home in Mansourieh (Metn District) after armed men tied up his wife and son.
-‏
-‏Syrian intelligence, however, says it arrested him while attempting to flee across the border. He is now in Syrian custody. ISF Information Branch has opened an investigation into the kidnapping.
-14:28
-1405/07/23
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️ 🇸🇾🇹🇷 Former militant and leader of the Pro-Assad militia Syrian Resistance, Mihrac Ural, also known also as Ali Kayali, has been arrested by the Syrian Transitional Government as he was trying to escape across the border to Turkey. 
@@ -3272,14 +3311,6 @@ src :@intelslava
 ‏The opposing side claims that 6 *Su-34* bombers were hit, and that the attack involved, among other weapons, "Neptune" missiles.
 ‏
 ‏@Intelslava
-13:49
-1405/07/23
-
-
-
-
-src :@jangaavaran1390
-‏بر اساس گزارش خبرگزاری رویترز، موشک‌ها و پهپادهای ایران دست‌کم ۱۳۵ بار به اهداف زیرساختی حیاتی در کشورهای حوزه خلیج فارس حمله کرده‌اند. این حملات که عمدتاً خسارات گسترده‌ای به همراه داشته‌اند، توسط دولت های عربی پنهان شده اند. مطابق با گزارش‌های رویترز، بسیاری از تجهیزات هدف گرفته شده از اهمیت استراتژیک بالایی برخوردار بوده‌اند و این امر موجب اختلال در برنامه‌های نظامی ایالات متحده شده است.
 13:49
 1405/07/23
 
@@ -4250,16 +4281,6 @@ src :@DEJradio
 
 
 
-src :@intelslava
-‏🇺🇦🇷🇺⚡️ — The Ryazan Oil Refinery caught fire as a result of an attack by Ukrainian Air Force drones. A warehouse at another enterprise was also damaged, according to the governor.
-‏
-‏@Intelslava
-10:27
-1405/07/23
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇸🇦🇾🇪 Saudi Aramco CEO's office destroyed following Houthi strike on its headquarters.
 ‏
@@ -4288,16 +4309,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 10:14
-1405/07/23
-
-
-
-
-src :@intelslava
-‏🇺🇦🇷🇺⚡️ — Zelensky stated in an interview that Ukraine will resume strikes on Russian oil refineries in Russia.
-‏
-‏@Intelslava
-10:06
 1405/07/23
 
 
@@ -5957,15 +5968,6 @@ src :@Navy_Iranian
 
 
 
-src :@OSINTWarfare
-[عکس]
-‏Israel’s Defense Ministry has signed an agreement with the United States for Boeing to supply the Israeli Air Force with 12 AH-64E Apache attack helicopters, with deliveries scheduled to begin in the early 2030s.
-19:43
-1405/07/22
-
-
-
-
 src :@mwarmonitor
 ‏🔴آمیت سیگال خبرنگار و تحلیلگر سیاسی کانال ۱۲ اسرائیل 
 ‏
@@ -6165,51 +6167,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/07/22/410319/
 18:24
-1405/07/22
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠چرا جمهوری کشتار و سرکوب همچنان می‌تازد
-‏
-‏نادر صدیقی
-‏ 
-‏- چرا به‌رغم حذف کامل رهبری، فرماندهی عالی و مقامات ارشد رژیم مذهبی، حکومت همچنان پابرجاست و به کشتار و سرکوب ادامه می‌دهد؟ کوتاه‌ترین پاسخ، تفاوت میان «دولتِ ویترینی» و «دولتِ عمیق» در جمهوری اسلامی است.
-‏ 
-‏- وقتی رأس هرم تضعیف می‌شود، این شبکه برای حفظ منافع خود، اتفاقا بر شدت سرکوب می‌افزاید تا از فروپاشی جلوگیری کند. این پدیده را می‌توان «خودکار شدن سرکوب» نامید.
-‏ 
-‏- به همین دلیل ما شاهد دو روند هم‌زمان هستیم؛ از یک سو تداوم و حتی تشدید سرکوب روزمره در سطح خیابان و دادگاه‌ها و از طرف دیگر ناتوانی در مدیریت بحران‌های بزرگ ملی، اقتصادی و بین‌المللی.
-‏ 
-‏- آنچه تاریخ جنبش‌های ضداقتدارگرا نشان داده این است که چنین سیستم‌هایی نه با یک ضربه‌ی بزرگ، بلکه با ترکیبی از فرسایش اقتصادی، انزوای اجتماعی عاملان، از دست دادن مشروعیت و ناتوانی در اداره‌ی امور روزمره فرومی‌پاشند.
-‏ 
-‏- انقلاب شیر و خورشید به کمک‌های فکری در فرسایش توان اجرایی مافیای قدرت در جمهوری اسلامی، بیش از بیانیه‌های وفاداری نیاز دارد.
-‏ 
-‏https://kayhan.london/1405/07/22/410292/
-18:20
-1405/07/22
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠نگرانی جمهوری اسلامی از گسترش استارلینک در ایران
-‏ 
-‏- مقامات وزارت ارتباطات از آمادگی برای قطع سراسری اینترنت در صورت از سر گرفته شدن حملات نظامی آمریکا خبر داده‌اند. وحید یزدانیان، معاون توسعه شبکه ملی اطلاعات وزارت ارتباطات، گفته: «با وقوع مجدد جنگ یا ناآرامی، احتمال قطع اینترنت وجود دارد، اما مشخص نیست چنین محدودیتی در چه سطحی اعمال شود.»
-‏ 
-‏- اینترنت در ایران از همان ابتدای ورود به کشور با فیلترینگ گسترده روبرو بوده اما قطع سراسری اینترنت طی سال‌های گذشته و در بزنگاه‌هایی مانند اعتراضات سراسری مردم به ابزاری برای سرکوب عمومی شهروندان تبدیل شده است. اکنون جمهوری اسلامی نگران اینست که استارلینک این سرکوب را خنثی کند.
-‏ 
-‏- اواسط مهرماه محمدامین آقامیری، دبیر شورای عالی فضای مجازی، مدعی شد که جمهوری اسلامی ایران به فناوری‌هایی برای مختل کردن یا از کار انداختن سرویس استارلینک دست یافته و این فناوری‌ها از نظر فنی «عملیاتی و آماده» هستند.
-‏ 
-‏- رئیس مرکز ملی فضای مجازی اعلام کرده که آمار دقیق و نهایی در این زمینه وجود ندارد و برای دستیابی به یک برآورد اولیه باید اطلاعات سامانه‌های مختلف بررسی شود.
-‏ 
-‏- برآورد نهادهای صنفی و پژوهشی نشان می‌دهد که بین ۳۰ هزار تا بیش از ۴۰ تا ۵۰ هزار اشتراک فعال و در مجموع بیش از ۱۰۰ هزار کاربر از اینترنت ماهواره‌ای استارلینک در ایران استفاده می‌کنند.
-‏ 
-‏- وال‌استریت ژورنال پیشتر در گزارشی اعلام کرده بود که دولت دونالد ترامپ به‌ صورت مخفیانه «هزاران پایانه‌ی اینترنت ماهواره‌ای استارلینک» به ایران ارسال کرده است.
-‏ 
-‏https://kayhan.london/1405/07/22/410303/
-18:16
 1405/07/22
