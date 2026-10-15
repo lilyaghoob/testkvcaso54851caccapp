@@ -1,6 +1,24 @@
+src :@naya_foriraq
+‏حكومة المرتزقة: مقتل 2 من الحراسة وإصابة 6 إثر استهداف انصار الله لقصر معاشيق  وما خفي كان اعظم
+18:46
+1405/07/23
+
+
+
+
+src :@defence_news
+‏سنتکام با انتشار عکسی از ناو هواپیمابر بوش از کلاس نیمتز اعلام کرد که این ناو از وضعیت استراحت و تعمیر در بنادر تایلند دوباره به دریای عرب برگشته و هم اکنون در منطقه است و در حیطه ماموریت سنتکام قرار گرفته
+18:42
+1405/07/23
+
+
+
+
 src :@Ali_bk_2
 [عکس]
-‏Update on Saudi airports that remain shut in compliance with the Yemeni ban imposed on Saudi airspace
+‏Update on Saudi airports shut down in compliance with the Yemeni ban imposed on Saudi airspace
+‏
+‏Yanbu Airport received a flight a short while ago, after being shut down for 94 hours. Meanwhile, 402 flights from Riyadh Airport and 154 flights from Jeddah Airport were canceled today.
 18:42
 1405/07/23
 
@@ -10,6 +28,8 @@ src :@Ali_bk_2
 src :@Alibk3
 [عکس]
 ‏تحديث عن المطارات السعودية المتوقفة امتثالًا للحظر اليمني المفروض على الأجواء السعودية
+‏
+‏مطار ينبع استقبل رحلة قبل قليل، بعد توقف دام 94 ساعة، كما أُلغيت 402 رحلة من مطار الرياض، و 154 رحلة من مطار جدة هذا اليوم
 18:42
 1405/07/23
 
@@ -40,6 +60,14 @@ src :@KayhanLondonChannel
 ‏- فروشندگان هشدار می‌دهند در صورت تداوم گرانی قطعات و افزایش هزینه تعمیرات، ممکن است برخی مالکان برای کاهش هزینه‌ها به استفاده از قطعات دست‌دوم و حتی قطعات سرقتی روی بیاورند.
 ‏ 
 ‏https://kayhan.london/1405/07/23/410383/
+18:41
+1405/07/23
+
+
+
+
+src :@naya_foriraq
+‏حكومة المرتزقة: مقتل 2 من الحراسة وإصابة 6 إثر استهداف انصار الله لقصر معاشيق  وما خفي كان اعظم
 18:41
 1405/07/23
 
@@ -1127,19 +1155,6 @@ src :@Navy_Iranian
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏Nidal Hasan will die, as scheduled, by firing squad, but this event will not be streamed. 
-‏
-‏That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE!
-17:48
-1405/07/23
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏بلومبرگ پنج‌شنبه ۲۳ مهر گزارش داد که آمریکا به کشورهای عضو آژانس بین‌المللی انرژی اعلام کرده است برنامه‌های کنونی برای آزادسازی ذخایر اضطراری نفت، برای مهار افزایش قیمت سوخت کافی نیست.
@@ -1595,14 +1610,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 17:22
-1405/07/23
-
-
-
-
-src :@naya_foriraq
-‏نتنياهو: ‏أجريت اتصالا مع الشرع وكانت المكالمة قصيرة وحاسمة فتوقفت المجزرة ضد الدروز
-17:21
 1405/07/23
 
 
@@ -4157,17 +4164,6 @@ src :@rnintel
 
 
 
-src :@defence_news
-[عکس]
-‏تصویری از چهار موشک دفاع هوایی ایگلا زیر بال یک بالگرد میل ۲۸ ان ام 
-‏
-‏هم اکنون به شکل همزمان دو شرکت موشک‌های ایگلا را تولید می‌کنند که برای مقابله با پهپادهای اوکراینی بسیار حیاتی است
-12:03
-1405/07/23
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏بریتانیا احتمالاً آزمایش‌های سیستم جدید ضد پهپادهای خود را آغاز کرده است.
@@ -5249,16 +5245,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@Middle_East_Spectator
-‏Extremely heavy clashes in Taizz.
-‏
-‏Attacks from the west, north, and east.
-03:53
-1405/07/23
-
-
-
-
 src :@warmonitors
 ‏⚡The US is discussing lifting some sanctions on shadow fleet vessels to lower global freight rates and boost Middle East oil flows, an official says
 ‏
@@ -5896,21 +5882,6 @@ src :@USAMRYDATA
 src :@thewarreporter
 ‏☪️🇦🇿 — Students at several schools in Azerbaijan protested on Monday against new dress-code rules that have resulted in hijab-wearing students and teachers being barred from schools.  Users across the country have also reported difficulties accessing Instagram…
 21:26
-1405/07/22
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏فروغ رام، شهروند بهایی ۳۰ ساله ساکن زاهدان، روز ۲۱ مهر ۱۴۰۵ در سکوت خبری برای تحمل یک سال حبس به زندان زاهدان منتقل شد. او به دلیل انتشار مطالبی درباره اعتراضات دی‌ماه ۱۴۰۴ به حبس محکوم شده است.
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/158890
-‏
-‏
-‏@Farsi_Iranwire
-21:25
 1405/07/22
 
 
