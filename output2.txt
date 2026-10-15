@@ -1,3 +1,63 @@
+src :@MilitarryWorld
+‏🔴نتانیاهو امشب با وزیر جنگ، رئیس ستاد کل و رؤسای دستگاه امنیتی در مورد موضوع ایران دیدار می‌کند
+‏
+‏@MilitarryWorld | Parsa
+15:35
+1405/07/23
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏More ballistic missile launches by the IRGC Aerospace Force today.
+15:34
+1405/07/23
+
+
+
+
+src :@naya_foriraq
+‏حدث امني في تل ابيب
+15:34
+1405/07/23
+
+
+
+
+src :@naya_foriraq
+‏🇮🇱اعلام العدو: في الساعات الأخيرة، قام قراصنة بتسريب عشرات الآلاف من الوثائق الشخصية لضباط شرطة وجنود. حجم التسريب غير واضح في الوقت الحالي.
+15:33
+1405/07/23
+
+
+
+
+src :@naya_foriraq
+‏🇮🇱اعلام العدو: في الساعات الأخيرة، قام قراصنة بتسريب عشرات الآلاف من الوثائق الشخصية لضباط شرطة وجنود. حجم التسريب غير واضح في الوقت الحالي.
+15:33
+1405/07/23
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Israeli advertising firm Discover-Tech used online ads to spy on hundreds of millions of internet users, track their activities and help install spyware on their devices, according to researchers at Citizen Lab and Confiant.
+‏
+‏The ads appeared on more than 120,000 websites and 75,000 apps, including networks used by the Pentagon, NATO, the UN and the European Commission. 
+‏
+‏Researchers said Palestinian territories were particularly heavily targeted, while spyware linked to Israel’s Candiru compromised 45 devices at Al Jazeera between 2024 and 2025.
+‏
+‏Google and Comcast have removed Discover-Tech from their advertising platforms, while IAB Europe has suspended the company.
+‏
+‏Source: Reuters
+15:32
+1405/07/23
+
+
+
+
 src :@Ali_bk_2
 ‏Yemeni Armed Forces spokesperson:  Thanks to God, we targeted a Saudi Typhoon fighter jet a short while ago with a surface-to-air missile. It was hit directly and is currently at risk of crashing.
 15:30
@@ -149,14 +209,6 @@ src :@Minas_Tirith2024
 src :@naya_foriraq
 [عکس]
 ‏انباء عن مناورات لحرس الثورة الاسلامية
-15:15
-1405/07/23
-
-
-
-
-src :@intelslava
-[عکس]
 15:15
 1405/07/23
 
@@ -1775,14 +1827,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@naya_foriraq
-‏🌟الاعلام الكوردي: لاهور شيخ جنكي و شقيقة بولاد طالباني يضربون عن الطعام بدءً من اليوم.
-12:43
-1405/07/23
-
-
-
-
 src :@Ali_bk_2
 [عکس]
 ‏The Saudi-led coalition claims to have intercepted a missile over Medina.
@@ -1795,14 +1839,6 @@ src :@Ali_bk_2
 src :@Alibk3
 [عکس]
 ‏التحالف السعودي يزعم اعتراض صاروخ فوق المدينة المنورة
-12:38
-1405/07/23
-
-
-
-
-src :@naya_foriraq
-‏🇸🇦السعودية تزعم اعتراض صاروخ في سماء المدينة المنورة.  https://t.me/naya_foriraq
 12:38
 1405/07/23
 
@@ -2943,17 +2979,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴میرسلیم: من حق دارم از طرف مردم حرف بزنم
-‏
-‏@MilitarryWorld | Parsa
-09:59
-1405/07/23
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇦❌🇷🇺 - President Zelenskyy has declared that Ukraine will resume strikes on Russian oil refineries after Russia repeatedly targeted Ukrainian energy and civilian infrastructure despite Kyiv observing a 3 day pause in strikes on Russian energy facilities as part of a U.S. backed ceasefire initiative.
 ‏
@@ -4066,16 +4091,6 @@ src :@warmonitors
 
 
 
-src :@tabzlive
-‏—❗️🇸🇦/🇾🇪 BREAKING: After refusing to surrender and accept general amnesty, a full-scale offensive by Ansarallah to liberate the city of Taizz from the PLC has begun
-‏
-‏@Middle_East_Spectator
-02:36
-1405/07/23
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇾🇪 - Siege of Ta'izz:  The current situation in Ta'izz, southern Yemen.
@@ -4478,6 +4493,16 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 00:29
+1405/07/23
+
+
+
+
+src :@intelslava
+‏🇺🇸⚡️ — Jared Kushner is facing a lawsuit accusing him of conducting high-level diplomatic activity without Senate approval and without complying with federal ethics requirements.
+‏
+‏@IntelSlava
+00:28
 1405/07/23
 
 
@@ -6230,15 +6255,6 @@ src :@thewarreporter
 
 
 
-src :@OSINTWarfare
-[عکس]
-‏Launch canisters for David’s Sling’s Stunner interceptor missiles were spotted being transported in northern Israel.
-17:00
-1405/07/22
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜و کشتی GFS Pride که به زیر آب رفت.
@@ -6512,18 +6528,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 15:39
-1405/07/22
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇱🇧🇱🇧🇮🇷 — Israeli Defense Minister Israel Katz:
-‏
-‏"The IDF is prepared to seize additional territory in Lebanon should Hezbollah join Iran in an attack on Israel.
-‏
-‏The southern suburbs of Beirut will be evacuated if Hezbollah joins Iran in any attack on Israel".
-‏
-‏@TheWarReporter
-15:32
 1405/07/22
