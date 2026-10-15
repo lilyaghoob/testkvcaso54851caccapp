@@ -6417,17 +6417,6 @@ src :@bricsnews
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇺🇦 Elon Musk says it's "time for Zelensky to go."
-‏
-‏@BRICSNews
-06:01
-1405/07/23
-
-
-
-
 src :@OSINTWarfare
 [عکس]
 ‏On October 14, 2026, North Korea conducted test launches of two types of submarine-launched strategic cruise missiles into the Sea of Japan from the Hero Kim Kun Ok, a Sinpo-C-class submarine in active service with the Korean People's Navy (KPN).
@@ -6836,17 +6825,3 @@ src :@VahidOnline
 ‏📡 @VahidOnline
 00:15
 1405/07/23
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏تصاویر ماهواره سنتینل-۲ در روز ۱۱ اکتبر (۱۹ مهر) کشتی باری «GFS Pride» را نشان می‌دهد که در نزدیکی امارات هدف حمله موشک‌های سپاه قرار گرفته است.
-‏
-‏این مکان حدود ۶۰ کیلومتر از جزیره قشم فاصله دارد .
-‏
-‏
-‏@rus_cosmos
-23:40
-1405/07/22
