@@ -1,3 +1,28 @@
+src :@GeoPWatch
+‏🇮🇱❌🇮🇷 - Channel 12 reports that intelligence has detected an immense amount of military movement within Iran, and Israel believes Iran may be preparing a pre-emptive strike.  @GeoPWatch
+22:01
+1405/07/23
+
+
+
+
+src :@Mena_Live
+‏🇮🇱🇮🇷⚡️ - Netanyahu will convene senior security officials tonight for talks on Iran, Israeli media report, after Western intelligence detected "extreme" Iranian military moves.
+22:01
+1405/07/23
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇮🇷🇮🇶⚡️- Visual confirmation of the Iranian Army (Artesh) moving tanks toward the Iraqi border in southwestern Iran.
+21:57
+1405/07/23
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏آماده‌باش اسرائیل در برابر احیای توان موشکی ایران
@@ -61,7 +86,9 @@ src :@guard_warriors
 src :@WAR_ROOM_NEWS
 ‏شبکه ۱۲ اسرائیل:سازمان‌های اطلاعاتی غربی از تحرکات نظامی جدید و گسترده ایران خبر داده‌اند و نتانیاهو نیز ترامپ را در جریان تحولات تهران قرار داده است. با این حال، ترامپ هنوز درباره اصل حمله به ایران و زمان احتمالی آن تصمیمی نگرفته است. مقام‌های اسرائیلی خواستار هدف قرار دادن زیرساخت‌های انرژی، موشکی و هسته‌ای ایران هستند، اما ارزیابی امنیتی واشینگتن و تل‌آویو نشان می‌دهد که در شرایط فعلی، حمله فوری ضروری تلقی نمی‌شود
 ‏
-‏ساعتی قبل نیز نتانیاهو با ترامپ تلفنی صحبت کرده است
+‏ساعتی قبل نیز نتانیاهو با سران امنیتی و سیاسی جلسه داشته و  با ترامپ نیز تلفنی صحبت کرده است
+‏
+‏🆔@WAR_ROOM_NEWS
 21:52
 1405/07/23
 
@@ -1169,7 +1196,7 @@ src :@Farsi_Iranwire
 
 src :@Ali_bk_2
 [عکس]
-‏The US Central Command announces the killing of 3 American soldiers in an Iranian attack in Jordan.
+‏The US Central Command announces that 3 American soldiers were killed in an Iranian attack in Jordan months ago.
 20:57
 1405/07/23
 
@@ -1178,7 +1205,7 @@ src :@Ali_bk_2
 
 src :@Alibk3
 [عکس]
-‏القيادة المركزية الأميركية تُعلن مقتل 3 جنود أميركيين بهجوم إيراني في الأردن
+‏القيادة المركزية الأميركية تُعلن مقتل 3 جنود أميركيين بهجوم إيراني في الأردن قبل أشهر.
 20:57
 1405/07/23
 
@@ -3610,16 +3637,6 @@ src :@intelslava
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸 - Explosions reported from the Strait of Hormuz.
-‏
-‏@GeoPWatch
-18:09
-1405/07/23
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -4185,20 +4202,6 @@ src :@didarnews1
 src :@WAR_ROOM_NEWS
 ‏تصاویری از هدف قرار گرفتن و اصابت موشک زمین‌به‌هوای حوثی ها به جنگنده تایفون سعودی
 17:27
-1405/07/23
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️ترکی المالکی، سخنگوی ائتلاف تحت رهبری عربستان سعودی، روز پنجشنبه ۲۳ مهر اعلام کرد که شبه‌نظامیان حوثی تلاش کرده‌اند ده‌ها فرودگاه، تأسیسات نفتی و بندر در مناطق مختلف عربستان سعودی را هدف حملات خود قرار دهند. اغلب این حملات با عملکرد پدافندها، بدون نتیجه مانده‌اند.
-‏
-‏سخنگوی ائتلاف افزود که این نیروها تا کنون ۱۲۷ انبار تسلیحاتی و لجستیکی متعلق به شبه‌نظامیان حوثی را در مناطق کوهستانی منهدم کرده‌اند.
-‏وی همچنین در خصوص ابعاد یکی از حملات اخیر خاطرنشان کرد که «حمله تروریستی به فرودگاه بین‌المللی ملک خالد با استفاده از ۱۰ پهپاد، موشک و سایر پرتابه‌ها انجام شده است.»
-‏
-‏@indypersian
-17:26
 1405/07/23
 
 
@@ -5656,14 +5659,6 @@ src :@DEJradio
 
 
 
-src :@rnintel
-‏🇸🇦⚡️- Air traffic appears to have been stopped at Jeddah's King Abdulaziz International Airport. Cause remains unknown.
-12:07
-1405/07/23
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇸🇬 🇮🇱 — The Singapore Army has received the latest Israeli-made SIGMA 155 mm self-propelled howitzers, which will gradually replace its outdated artillery systems — Militarnyi 
@@ -6599,20 +6594,4 @@ src :@Exciton_missile_program
 ‏
 ‏@Exciton_missile_program 🚀
 22:48
-1405/07/22
-
-
-
-
-src :@Navy_Iranian
-‏تقاضای چین با قدرت به بازار برگشته 
-‏
-‏طبق گزارش کپلر ، چینی ها از اواسط سپتامبر ( یک ماه پیش ) ۸۰ میلیون بشکه نفت از عربستان خریده اند ، طبق تحلیل کپلر احتمالا تا ماه دسامبر خرید نفت پالایشگاه های چین به روزانه ۱۴ میلیون بشکه نفت میرسه که بیش از خرید پیش از جنگ است ، این اتفاق به علت جبران برداشت از ذخایر این پالایشگاه ها است 
-‏
-‏
-‏پ.ن : چینی ها تا ۱۳۵ دلار برای هر بشکه نفت پرداخت می‌کنند که طبق برخی گمانه زنی ها نشانه اینه که چینی انتظار افزایش قیمت نفت بیشتر از قیمت های فعلی را دارند 
-‏
-‏
-‏⚓️ @Navy_Iranian | #a_m
-21:57
 1405/07/22
