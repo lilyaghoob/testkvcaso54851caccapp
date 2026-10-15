@@ -1,3 +1,75 @@
+src :@wfwitness
+‏⚡🇸🇦🇾🇪 Alert raised in Jazan, Saudi Arabia.  @wfwitness
+23:10
+1405/07/23
+
+
+
+
+src :@samueltarikh
+‏🚨اسرائیل هیوم:
+‏
+‏ارتش اسرائیل سطح آمادگی خود را در تمام جبهه‌ها افزایش داده و برای احتمال یک حمله هدفمند به ایران آماده‌سازی می‌شود.
+23:10
+1405/07/23
+
+
+
+
+src :@rnintel
+‏🇾🇪❌🇸🇦 — Alerts in Jazan Province, southwestern Saudi Arabia.
+23:09
+1405/07/23
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — Alerts in Jazan Province, southwestern Saudi Arabia.
+23:09
+1405/07/23
+
+
+
+
+src :@samueltarikh
+‏کانال 12 اسرائیل:
+‏
+‏نتانیاهو هم اکنون یه صورت اضطراری در حال تشکیل جلسه شورای امنیت اسرائیل در مورد ایران است.
+23:08
+1405/07/23
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - Alerts in Jazan, Saudi Arabia.
+‏
+‏@GeoPWatch
+23:08
+1405/07/23
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇾🇪❌🇾🇪 — Brigader General Ammar al-Judbi, the commander of the 5th brigade of the PLC-aligned presidential guard, was reportedly killed in Taiz.
+23:08
+1405/07/23
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏هشدار حملات حوثی ها در شهرهای نجران و جیزان عربستان
+23:08
+1405/07/23
+
+
+
+
 src :@warmonitors
 ‏⚡#BREAKING The White House is preparing plans to use a weapon dubbed the “mother of all bombs” on Iran, according to CBS News
 ‏
@@ -28,7 +100,7 @@ src :@Ali_bk_2
 
 
 src :@naya_foriraq
-‏جازان
+‏انفجارات تهز جازان
 23:05
 1405/07/23
 
@@ -3673,18 +3745,6 @@ src :@defence_news
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇺🇸 MTV: US Secretary of State Marco Rubio will have a phone call with President Joseph Aoun at 7 PM Beirut time to follow up on the latest developments regarding the Lebanese situation.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:12
-1405/07/23
-
-
-
-
 src :@MilitarryWorld
 ‏🔴ناو هواپیمابر جورج دبلیو بوش مجدداً پس از ترک دو هفته ای خاورمیانه،
 ‏به صورت ناگهانی امروز وارد خاورمیانه شده است.
@@ -4112,19 +4172,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 18:24
-1405/07/23
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - The U.S. Navy’s nuclear-powered aircraft carrier USS George H.W. Bush (CVN-77) has returned to the Arabian Sea following a brief port visit to Phuket, Thailand.
-‏
-‏The carrier, carrying approximately 5,000 personnel, has resumed supporting CENTCOM operations in the Middle East amid the ongoing conflict with Iran.
-‏
-‏@GeoPWatch
-18:22
 1405/07/23
 
 
@@ -5266,14 +5313,6 @@ src :@P_raetorio
 
 
 
-src :@WAR_ROOM_NEWS
-‏طبق گزارش منابع اسرائیلی نتانیاهو امشب با وزیر جنگ، رئیس ستاد کل و رؤسای سازمان‌های امنیتی جلسه خواهد داشت
-15:59
-1405/07/23
-
-
-
-
 src :@rnintel
 ‏🇫🇷⚡️- Police members from three different syndicates and unions have warned their superiors alongside medias that their ressources were too thinly spread and that most members were tired from the prolonged deployment in the streets. Most of the French police's…
 15:51
@@ -5859,27 +5898,6 @@ src :@didarnews1
 
 
 
-src :@rnintel
-‏🇺🇸🇷🇺🇺🇦 - Since the Trump-proposed 'energy ceasefire' between Russia and Ukraine:
-‏
-‏Russia has struck:
-‏- Kharkiv's CHP-5.
-‏- Kyiv's CHP-4.
-‏- Kyiv's CHP-5.
-‏- Kyiv's CHP-6.
-‏- Zmiivska TPP.
-‏- Trypilska TPP.
-‏
-‏Ukraine has struck:
-‏- Novoshakhtinsk Storage Facility. 
-‏
-‏Russia claims the Ryazan and Saratov refineries were also attacked last night, though there has been no confirmation or evidence of this.
-12:53
-1405/07/23
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ شبکه اجتماعی ایکس بیش از ۱۳هزار حساب مرتبط با عملیات نفوذ جمهوری اسلامی،روسیه و چین را مسدود کرد
@@ -5916,40 +5934,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏تراستی‌ها بخشی از مافیاهای اقتصادی حکومت هستند که در سالهای گذشته دلالی فروش نفت تحریمی ایران و نقل‌وانتقال ارز ناشی از صادرات و پولشویی برای حکومت را به عهده داشتند. اکنون در پی افشاگری‌ قوه قضاییه مشخص شده ده‌ها نفر از «تراستی»ها میلیاردها دلار ارز ناشی از صادرات کشور را به جیب زده و حتی برخی از آنها از ایران متواری شده‌اند!
 12:43
-1405/07/23
-
-
-
-
-src :@samueltarikh
-‏بررسی فنی بمب‌های سنگرشکن؛ تفاوت نفوذ عمیق با تخریب گسترده
-‏
-‏بمب‌های سنگرشکن بر اساس نوع هدف، میزان استحکام سازه و عمق تأسیسات طراحی می‌شوند. برای مثال، انتخاب MOAB برای نفوذ عمیق به یک تأسیسات زیرزمینی، از نظر طراحی تسلیحاتی انتخاب مناسبی نیست؛ زیرا این بمب عمدتاً برای ایجاد اثر انفجاری گسترده در سطح طراحی شده، نه نفوذ عمیق در سازه‌های مستحکم.
-‏
-‏بمب GBU-57 MOP
-‏
-‏یکی از سنگین‌ترین بمب‌های متعارف غیرهسته‌ای جهان با وزن حدود ۱۳٫۶ تن است. این بمب برای مقابله با تأسیسات زیرزمینی عمیق و سازه‌های بسیار مستحکم توسعه یافته و از بدنه نفوذگر مقاوم و فیوز تأخیری برای انفجار پس از ورود به سازه استفاده می‌کند. اعداد مربوط به عمق نفوذ آن به جنس و استحکام هدف وابسته‌اند و نباید به‌عنوان عملکرد تضمین‌شده در تمام شرایط در نظر گرفته شوند.
-‏
-‏بمب GBU-28
-‏
-‏یک بمب سنگرشکن با وزن تقریبی ۲٫۳ تن است که برای انهدام پناهگاه‌ها و اهداف مستحکم توسعه یافته است. این بمب از بدنه نفوذگر سنگین استفاده می‌کند و در مقایسه با مهمات سبک‌تر، برای مقابله با سازه‌های مستحکم مناسب‌تر است. میزان نفوذ آن به مشخصات سازه و شرایط برخورد بستگی دارد.
-‏
-‏بمب GBU-24 با سرجنگی BLU-109
-‏
-‏بمب GBU-24 از خانواده بمب‌های هدایت لیزری است که در برخی پیکربندی‌ها از سرجنگی نفوذگر BLU-109 استفاده می‌کند. وزن BLU-109 حدود ۹۸۳ کیلوگرم است و بدنه مقاوم آن برای نفوذ به سازه‌های مستحکم پیش از انفجار طراحی شده است. این ترکیب برای حمله دقیق به اهداف سخت و پناهگاه‌های مستحکم کاربرد دارد؛ با این حال، میزان نفوذ واقعی به شرایط هدف وابسته است.
-‏
-‏بمب GBU-31 JDAM
-‏
-‏بمب GBU-31 از خانواده مهمات مجهز به کیت هدایت JDAM است که با استفاده از سامانه ترکیبی GPS/INS مسیر خود را اصلاح می‌کند. وزن و قابلیت نفوذ آن به نوع بمب پایه بستگی دارد؛ برای نمونه، برخی پیکربندی‌ها از بدنه نفوذگر BLU-109 استفاده می‌کنند. بنابراین، GBU-31 را نباید یک سرجنگی واحد با وزن و عملکرد ثابت در نظر گرفت.
-‏
-‏بمب GBU-39/B Small Diameter Bomb
-‏
-‏این بمب هدایت‌شونده با وزن تقریبی ۱۱۳ تا ۱۳۰ کیلوگرم، بسته به مشخصات اعلام‌شده و پیکربندی، برای حمله دقیق به اهداف مختلف طراحی شده است. هدایت آن بر پایه GPS/INS انجام می‌شود و برد آن در شرایط مناسب می‌تواند از ۱۱۰ کیلومتر فراتر برود.
-‏
-‏مزیت مهم این بمب، ابعاد کوچک و امکان حمل تعداد بیشتری از آن توسط جنگنده است. این ویژگی اجازه می‌دهد چندین هدف در یک مأموریت مورد حمله قرار گیرند. GBU-39/B همچنین قابلیت نفوذ به برخی سازه‌های بتنی را دارد؛ با این حال، میزان نفوذ و دقت نهایی آن به شرایط عملیاتی وابسته است و نباید اعداد منتشرشده را عملکرد تضمین‌شده دانست.
-‏
-‏@khoydefenseintelligence
-12:18
 1405/07/23
 
 
