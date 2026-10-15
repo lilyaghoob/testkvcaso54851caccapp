@@ -1,14 +1,60 @@
-src :@mohem_mat
-‏امروز فقط دو تا کشتی غرق شد و دیروز هم ۸ تا اصابت شدید داشتن
-‏چرا ج.ا با قدرت میزنه؟!
-‏چون میدونه جنگ قطعیه
-‏چرا آمریکا پاسخی نمیده؟!
-‏چون میدونه حمله قطعیه و داره تدارک میبینه
-‏و متاسفانه شدید هم هست
+src :@Ali_bk_2
+‏A loud explosion was heard west of the Syrian capital, Damascus.
+15:26
+1405/07/23
+
+
+
+
+src :@Alibk3
+‏سماع دوي انفجار قوي غربي العاصمة السورية دمشق
+15:26
+1405/07/23
+
+
+
+
+src :@Ali_bk_2
+‏Enemy media:
 ‏
-‏https://x.com/melatonin38/status/2110427046362947978
+‏Netanyahu is meeting with the defense minister, the chief of staff, and the heads of the security establishment this evening.
+15:25
+1405/07/23
+
+
+
+
+src :@Alibk3
+‏إعلام العدو:
 ‏
-‏@mohem_mat
+‏ نتنياهو يجتمع بوزير الحرب، ورئيس الأركان، ورؤساء المنظومة الأمنية هذا المساء
+15:25
+1405/07/23
+
+
+
+
+src :@naya_foriraq
+‏سماع دوي انفجارات ضخمة قرب العاصمة السورية دمشق
+15:25
+1405/07/23
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇸🇾❌🇸🇾 — Ali Kayali, a former pro-Assad militia commander better known as "Mirac Ural," was arrested by Syrian intelligence while trying to cross to Turkey. 
+‏
+‏He was the commander of the "Syrian resistance" militia, an organization that, aside from fighting in the war, was also advocating for the Syrian annexation of the Turkish coastal region of Hatay.
+15:23
+1405/07/23
+
+
+
+
+src :@naya_foriraq
+‏اطلاق صاروخي من محافظة کرمانشاه
 15:22
 1405/07/23
 
@@ -2409,16 +2455,6 @@ src :@tglobaleye
 
 
 
-src :@naya_foriraq
-‏🇪🇬🇮🇶مصر تلغي شرط الموافقة الأمنية المسبقة لدخول العراقيين إلى أراضيها.
-‏
-‏https://t.me/naya_foriraq
-11:06
-1405/07/23
-
-
-
-
 src :@bricsnews
 ‏JUST IN: Container ship sinks in the Strait of Hormuz as attacks escalate.
 ‏
@@ -2717,6 +2753,30 @@ src :@DEJradio
 
 
 
+src :@mohem_mat
+‏New - YouGov Senate polls
+‏
+‏🔵 Texas - Talarico +6 (Flip)
+‏🔵 Ohio - Brown +4 (Flip)
+‏🔵 Michigan - El-Sayed +1
+‏🔵 New Hampshire - Pappas +8
+‏🔵 Kansas - Hamilton +3 (Flip)
+‏🔵 North Carolina - Cooper +11 (Flip)
+‏🟡 Nebraska - Osborn +1 (Flip)
+‏🟡 Maine - Tie
+‏
+‏Political Polls (@PpollingNumbers)
+‏
+‏پ.ن : نظرسنجی های جدید سنا رسید
+‏کانزاس و اوهایو باورکردنی نیست😊
+‏
+‏ @twittervid_bot
+10:32
+1405/07/23
+
+
+
+
 src :@MilitarryWorld
 ‏🔴رضایی، جانشین فرمانده انتظامی :
 ‏
@@ -2985,24 +3045,6 @@ src :@samueltarikh
 ‏
 ‏پ.ن: مطرح شدن این بمب برای هدف قرار دادن تأسیسات کوه کلنگ مورد عجیبی است چون MOAB یک بمب انفجار هوایی است و اصلا قدرت انفجار عمیق و زیرسطحی ندارد. برای نیروگاه‌ها هم شلیک بمب‌های هدایت دقیق به نقاط حساس مثل توربین بخار نیروگاه یا ترانسفورماتورهای فوق فشار قوی اثر بیشتر و بهتری از بمبی مثل MOAB دارد.
 09:41
-1405/07/23
-
-
-
-
-src :@Ali_bk_2
-[عکس]
-‏Najran Airport and Jazan Airport remain shut down after more than 212 hours, Riyadh Airport for around 115 hours, Yanbu Airport for more than 85 hours, Arar Airport for around 19 hours, and Tabuk Airport for around 5 hours.
-09:40
-1405/07/23
-
-
-
-
-src :@Alibk3
-[عکس]
-‏لا يزال مطار نجران ومطار جازان متوقفَين منذ أكثر من 212 ساعة، ومطار الرياض نحو 115 ساعة، ومطار ينبع أكثر من 85 ساعة، ومطار عرعر نحو 19 ساعة، ومطار تبوك نحو 5 ساعات.
-09:40
 1405/07/23
 
 
@@ -4050,16 +4092,6 @@ src :@tabzlive
 ‏
 ‏@Middle_East_Spectator
 02:36
-1405/07/23
-
-
-
-
-src :@tabzlive
-‏🇰🇵⚡️ — North Korea announced that it tested two types of submarine-launched strategic cruise missiles on Wednesday to assess its navy's operational capabilities and the reliability of its military deterrent.
-‏
-‏Senior military officers observed the launches in waters off North Korea's eastern coast.
-02:16
 1405/07/23
 
 
