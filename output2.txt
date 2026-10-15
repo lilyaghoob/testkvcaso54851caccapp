@@ -1,3 +1,43 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇦❌🇷🇺 - Overnight, Ukrainian Forces struck an airfield in the Voronezh region. Four Russian Su-34 fighter-bombers were destroyed, while two others were rendered inoperable. The planes were reportely armed and ready to launch strikes on Ukraine but were hit by Ukrainian Long Neptune missiles launched by the Ukrainian Navy.
+19:32
+1405/07/23
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇦🇷🇺 Ukraine runs out of Patriot air defense missiles used to intercept Russian ballistic missiles, CNN reports.
+‏
+‏@BRICSNews
+19:30
+1405/07/23
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ: ایران را به سرعت شکست خواهیم داد و قیمت نفت کاهش می‌یابد
+‏
+‏@MilitarryWorld | Parsa
+19:28
+1405/07/23
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸🇷🇺❌🇺🇦 - According to CBS News, the U.S. may have intentionally withheld early warnings from Ukraine regarding Russian ballistic missile strikes earlier this week.
+‏
+‏@GeoPWatch
+19:28
+1405/07/23
+
+
+
+
 src :@warmonitors
 [عکس]
 ‏⚡️#BREAKING The U.S. may have intentionally withheld early warnings this week of Russian strikes on Ukraine, multiple sources familiar with the matter told CBS News. 
@@ -3347,16 +3387,6 @@ src :@Artemis_Force
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸 - Test BM launch from Zanjan, Iran.
-‏
-‏@GeoPWatch
-15:01
-1405/07/23
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn  BM [test launch] from Zanjan Zanjan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/afuQ0Ap90Ed_hTltM2VwQwal?xv=1  ترجمه خودکار فارسی  پرتاب آزمایشی موشک بالستیک از زنجان استان زنجان،…
@@ -3586,35 +3616,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 14:24
-1405/07/23
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴بابک زنجانی: میتونم دلار رو به زیر ۲۰۰ برسونم.
-‏
-‏@MilitarryWorld | Parsa
-14:20
-1405/07/23
-
-
-
-
-src :@Indypersian
-‏⭕️اختراع ساعتی که می‌تواند وجود نوعی ماده تاریک را آشکار کند
-‏
-‏📌ساعت‌های هسته‌ای با بررسی نحوه برهم‌کنش نور با هسته اتم کار می‌کنند
-‏
-‏♦️دانشمندان نوع کاملا جدیدی از ساعت را اختراع کرده‌اند. به گفته دانشمندان، این نخستین ساعت‌های هسته‌ای که تاکنون ساخته‌ شدند و در عمل کار می‌کنند، می‌توانند به ما کمک کنند ماده تاریک را بهتر بشناسیم و از دیگر پرسش‌های بنیادین درباره گیتی درک بهتری به دست آوریم.
-‏
-‏بیشتر بخوانید...
-‏
-‏✍️اندرو گریفین
-‏
-‏@indypersian
-14:11
 1405/07/23
 
 
@@ -4691,17 +4692,6 @@ src :@Artemis_Force
 
 
 
-src :@GeoPWatch
-‏🇺🇦❌🇷🇺 - President Zelenskyy has declared that Ukraine will resume strikes on Russian oil refineries after Russia repeatedly targeted Ukrainian energy and civilian infrastructure despite Kyiv observing a 3 day pause in strikes on Russian energy facilities as part of a U.S. backed ceasefire initiative.
-‏
-‏⚡️ Zelenskyy made it clear that Ukraine would no longer hold back while Russia continued its attacks, stating:
-‏The block (on attacking refineries) is out. We’re done.
-09:57
-1405/07/23
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — The U.S. military has developed new strike plans that could involve the use of the GBU-43/B Massive Ordnance Air Blast (MOAB), the largest non-nuclear bomb in the U.S. arsenal, against Iranian energy infrastructure and nuclear sites if President Trump orders the resumption of combat operations before or after the U.S. midterm elections.
@@ -5671,21 +5661,6 @@ src :@tglobaleye
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇺🇦 Elon Musk responds to claims that SpaceX restricted Ukraine's access to its satellite internet:
-‏
-‏"Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS.
-‏
-‏Starlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities and cannot be used for offensive military action, as doing so would be inappropriate for a commercial company."
-‏
-‏@BRICSNews
-23:16
-1405/07/22
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇺🇸 — The U.S. Air Force and Northrop Grumman have begun expanding Plant 42 in California to increase B-21 Raider stealth bomber production by 25%. — Militarnyi 
@@ -6190,13 +6165,4 @@ src :@DEJradio
 ‏#لبنان #جمهوری_اسرائیل #اسرائیل
 ‏@DEJradio
 19:33
-1405/07/22
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇦🇿🇮🇱 — Israeli President Isaac Herzog arrived in Azerbaijan today for an official visit, with a meeting with President Ilham Aliyev expected.  @TheWarReporter
-19:28
 1405/07/22
