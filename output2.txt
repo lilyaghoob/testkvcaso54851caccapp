@@ -1,3 +1,19 @@
+src :@Alibk3
+[عکس]
+‏الإعلان عن مقتل 6 جنود وضباط سعوديين بالهجوم اليمني على قصر المعاشيق في عدن، اليمن يوم الخميس - وهم: 
+‏
+‏ريان أحمد علي الكناني الزهراني
+‏يحيى مديني الشقيبي
+‏عوض جراد سعيد القرني
+‏سلمان حماد الحارثي
+‏فايز سعيد القحطاني
+‏وائل القرني
+03:13
+1405/07/25
+
+
+
+
 src :@Mena_Live
 ‏BREAKING: President Trump urges Saudi Arabia to accept Israeli assistance against the Houthis, saying a peace agreement between the two countries is needed “more than ever.”
 ‏
@@ -2755,14 +2771,6 @@ src :@Navy_Iranian
 
 
 
-src :@Alibk3
-‏Satellite images confirm a fire broke out aboard a vessel northeast of the Omani village of Kumzar.
-21:20
-1405/07/24
-
-
-
-
 src :@MilitarryWorld
 ‏🔴ترامپ: قیمت نفت به‌زودی کاهش می‌یابد
 ‏
@@ -2795,17 +2803,6 @@ src :@Indypersian
 ‏
 ‏دیمیتری پسکوف، سخنگوی کرملین، نیز در این باره گفت که وسعت این منطقه امنیتی برنامه‌ریزی‌شده به ۶۶۰ کیلومتر می‌رسد که در حال حاضر ۷۰ درصد آن تحت کنترل ارتش روسیه قرار دارد.
 ‏@indypersian
-21:17
-1405/07/24
-
-
-
-
-src :@Alibk3
-[عکس]
-‏The New York Times:
-‏
-‏The new White House press secretary has been fired after 5 days in the position.
 21:17
 1405/07/24
 
@@ -2882,18 +2879,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:10
-1405/07/24
-
-
-
-
-src :@Alibk3
-[عکس]
-‏The al-Qassam Brigades publish on the second anniversary of the martyrdom of commander Yahya Sinwar:
-‏
-‏They kill us, yet we live; martyrs never die.
-‏We are the Al-Aqsa Flood, in which the prophets sailed.
-21:09
 1405/07/24
 
 
@@ -5957,14 +5942,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:30
-1405/07/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇦 Ukraine has run out of missiles used to shoot down Russian ballistic missiles, WaPo reports.
-‏
-‏@BRICSNews
-03:15
 1405/07/24
