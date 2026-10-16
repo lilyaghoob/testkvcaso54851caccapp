@@ -3452,15 +3452,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@naya_foriraq
-[عکس]
-‏شركة الجبيل للبتروكيماويات تحترق
-15:02
-1405/07/24
-
-
-
-
 src :@warmonitors
 ‏⚡Exclusive: Ukraine proposes that the EU store up to 10 billion cubic meters of strategic gas reserves in its underground facilities
 ‏
