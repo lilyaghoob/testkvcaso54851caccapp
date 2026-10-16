@@ -1,3 +1,52 @@
+src :@wfwitness
+[عکس]
+‏⚡🇺🇸🇷🇺🇺🇦 Reuters: The order to restrict Ukraine’s use of SpaceX’s military-grade Starshield satellite system came from inside the White House, according to two US officials and a Western official.
+‏
+‏The restrictions disrupted Ukrainian strike missions and slowed interceptor drones used against incoming Russian Shahed drones. Service was later partially restored, but remained limited to objects moving below 100 mph.
+‏
+‏A senior US official denied that President Donald Trump personally requested the restriction, while the White House did not say whether another administration official issued the order.
+‏
+‏@wfwitness
+13:05
+1405/07/24
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Israel carried out a series of airstrikes in the southern Lebanese towns of Al-Mansouri, in the Tyre District, and Beit Yahoun, in the Bint Jbeil District.
+13:04
+1405/07/24
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇮🇳 — Rogue AI agents accessed Indian firms’ live systems and confidential records undetected, CERT-In says
+‏
+‏India’s cybersecurity agency (CERT-In) reported that AI models under test exceeded their authorised tasks, reached live systems of Indian organisations, and read business records including personal data and confidential material.
+‏
+‏AI providers voluntarily disclosed the incidents after internal reviews. None of the affected entities detected the access themselves. This marks India’s first official account of such “rogue AI” behaviour, following similar cases worldwide.
+‏
+‏CERT-In also flagged a separate set of financially motivated attacks in which cybercriminals used freely available AI tools, compressing the time from entry to damage from days to hours. The agency did not name the providers or affected organisations.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+13:03
+1405/07/24
+
+
+
+
+src :@wfwitness
+‏⚡️🇶🇦🇱🇧🇸🇾 MTV: Qatari Prime Minister Mohammed bin Abdulrahman Al Thani is bringing to Beirut a comprehensive plan to address the electricity crisis.  The plan includes connecting Lebanon and Syria to the electricity grid and building new power plants, following…
+13:01
+1405/07/24
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏ابراهیم عزیزی، رییس کمیسیون امنیت ملی مجلس در واکنش به اظهارات اخیر ترامپ درباره استفاده از «مادر بمب‌ها»، به خبرگزاری خانه ملت گفت: «هنوز فردی از مادر زاییده نشده که بخواهد مادر بمب‌ها را علیه ملتی بزرگ، با تمدن، با تاریخ، با اصالت و دارای سابقه کهن استفاده کند و با آن ما را تهدید کند.» 
@@ -13,6 +62,7 @@ src :@IranintlTV
 
 
 src :@wfwitness
+[عکس]
 ‏⚡🇶🇦🇱🇧🇮🇱 Qatar’s Prime Minister Mohammed bin Abdulrahman Al Thani, speaking from Baabda:  “We support Lebanon’s steps regarding Israeli actions and its efforts to secure Israel’s withdrawal from occupied Lebanese territory and place those areas under Lebanese…
 13:01
 1405/07/24
@@ -2232,21 +2282,6 @@ src :@intelslava
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇨🇱🇻🇪 Chile's Foreign Ministry announced the progressive reopening of its consulates in Caracas and Puerto Ordaz starting October 19, which had been suspended since January 2025.
-‏
-‏The reactivation begins with pending passport deliveries and appointment scheduling, with full services, including ID cards and notarial acts, resuming October 26, in what Foreign Minister Francisco Pérez Mackenna called a step toward "full normalization" of relations.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-06:21
-1405/07/24
-
-
-
-
 src :@warmonitors
 ‏Dammit I hate sleeping.
 ‏
@@ -2686,18 +2721,6 @@ src :@rnintel
 src :@naya_foriraq
 ‏هتافات طائفية لعصابات الجولاني في محيط الفندق الذي يقيم فيه صانع المحتوى العراقي
 01:55
-1405/07/24
-
-
-
-
-src :@MilitarryWorld
-‏🔴خوش چشم طهلیلگر نابغه صدا و سیما دارای دکتری از دانشگاه پیک‌نیک و سیخ : 
-‏
-‏تاریخ امروز رو یادداشت کنید که من مصطفی خوش چشم میگم تا ۷ روز آینده جنگ میشه
-‏
-‏@MilitarryWorld | Maverick
-01:52
 1405/07/24
 
 
@@ -4912,23 +4935,6 @@ src :@Navy_Iranian
 
 src :@Artemis_Force
 ‏🛑ناوشکن جان بازیلون (DDG 122) نیروی دریایی ایالات متحده، ساعاتی دیگر به پایگاه جدید خود در روتا (اسپانیا) خواهد رسید.  @artemis_force
-19:45
-1405/07/23
-
-
-
-
-src :@selena_updates
-[عکس]
-‏A newly published survey reveals a significant shift in attitudes among Lebanon’s Shiite Muslim community, Hezbollah’s traditional support base. Conducted by Statistics Lebanon in September among 800 Shiite adults nationwide, the poll found that 63.3% support some form of agreement with Israel, including direct negotiations, third-party mediation or a broader regional settlement. 
-‏
-‏66.4% favor transferring Hezbollah’s weapons to Lebanese state control, compared with 29.6% who support maintaining the current arrangement. 
-‏
-‏The survey also found that 71.1% believe decisions on war and peace should rest exclusively with the Lebanese government, while 78.5% expressed confidence in the Lebanese Army. 
-‏
-‏67.4% believe Hezbollah failed to achieve its objectives in the war with Israel or achieved them only partially. 
-‏
-‏Although Hezbollah still somewhat retains substantial support, the findings indicate growing dissatisfaction with its military terrorist role and increasing openness to diplomatic solutions.
 19:45
 1405/07/23
 
