@@ -1,3 +1,21 @@
+src :@rnintel
+‏🇸🇾⚡- Unidentified drones over Damascus, Syria. Syrian AA guns are active.
+23:33
+1405/07/24
+
+
+
+
+src :@intelslava
+‏⚡🇺🇦🇸🇪 Ukraine will soon receive Swedish Gripen fighter jets, Zelensky said.
+‏
+‏@IntelSlava
+23:33
+1405/07/24
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏بر اساس اطلاعات رسیده به «ایران‌‌وایر»، «احمد نعیمی» و «فلورا صمدانی» یک زوج بهایی ساکن یزد، در مجموع به سه سال و شش ماه و دو روز حبس تعزیری محکوم شدند.
@@ -3687,17 +3705,6 @@ src :@defence_news
 
 
 
-src :@intelslava
-[عکس]
-‏⚡🇱🇧🇮🇱A quadcopter bomb struck the roof of a building in the town of Mayfadoun without exploding.Teams are working to evacuate the building.
-‏
-‏@medmannews
-17:59
-1405/07/24
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏به اطلاع هم‌میهنان می‌رسانیم: «پروژه شکوفایی ایران» که به ابتکار شاهزاده رضا پهلوی راه‌اندازی شده است، فصل تازه‌ای از فعالیت‌های خود را در زمینه‌ آمادگی برای دوران گذار و بازسازی ملی ایران آغاز می‌کند. اکنون، با گسترش دامنه و فراگیرتر شدن این پروژه، فرایند انتقال آن از «نوفدی» تکمیل شده است و پروژه شکوفایی ایران از این پس در نهادی جدید به ماموریت خود ادامه می‌دهد.
@@ -5501,16 +5508,6 @@ src :@Artemis_Force
 
 
 
-src :@rnintel
-‏🇾🇪🇸🇦⚡- Explosions across Dammam, eastern Saudi Arabia, amid an ongoing Ansarullah ballistic missile attack. Possible interceptions and/or impacts of Ansarullah's projectiles.
-‏
-‏King Fahd International Airport in Dammam has temporarily suspended flight operations.
-10:33
-1405/07/24
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏نیروی دریایی هلند، زیردریایی دیزل-الکترونیک والروس (S802) را از ناوگان خود خارج کرد.
@@ -5537,17 +5534,6 @@ src :@Parvazdaroj
 src :@Artemis_Force
 ‏ناوشکن پاتریک گالگر (DDG 127) نیروی دریایی ایالات متحده، به پایگاه اصلی خود در بندر نورفولک رسید و از کارخانه کشتی‌سازی "بات آیرون ورکس" به آنجا منتقل شد.  این کشتی در تاریخ 28 می 2026 به نیروی دریایی آمریکا تحویل داده شد.   @artemis_force
 09:45
-1405/07/24
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇱⚡️- Radio host Dennis Prager made his first public appearance in nearly 2 years today at Trumps golf course in Miami. 
-‏
-‏Prager suffered a severe spinal cord injury in his home in November 2024 after falling in his bathroom.
-09:23
 1405/07/24
 
 
@@ -6037,13 +6023,3 @@ src :@mamlekate
 ‏@mamlekate
 00:35
 1405/07/24
-
-
-
-
-src :@samueltarikh
-‏🚨مهر:
-‏
-‏تحرکات خودروهای زرهی و تانک‌ها در جنوب غربی ایران، نزدیک مرز عراق.
-23:32
-1405/07/23
