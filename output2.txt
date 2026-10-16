@@ -1,3 +1,20 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Civil Emergency Message issued to all residents of Los Angeles County, warning wildfires in the area can spread fast, warning residents not to wait for an official alert and just leave if they feel unsafe due to a nearby fire.
+06:01
+1405/07/24
+
+
+
+
+src :@tabzlive
+‏🇺🇸⚡️ — Red Flag Warning issued for parts of the northern Los Angeles metropolitan area for October 15, 6AM-10PM Pacific Daylight Time. Extreme fire behavior and growth expected should a fire start.
+05:58
+1405/07/24
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، جمعه ۲۴ مهر در گفتگوی با شبکه خبری نیوزمکس دربارهٔ ایران گفت آمریکا «کوه کلنگ» را بررسی می‌کند و افزود ممکن است این محل هدف قرار دهد. او گفت: «ممکن است مجبور شویم سراغ آن برویم؛ آن را هدف قرار دهیم و سریعا از بین ببریم.»
@@ -944,15 +961,6 @@ src :@warmonitors
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — CNN, citing multiple U.S. officials, reports the United States has developed strike plans against Iran that includes dropping a GBU-43/B MOAB on Iranian nuclear and energy infrastructure. The MOAB is the most destructive non-nuclear bomb in the U.S.…
-01:13
-1405/07/24
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴حملات سنگین اسرائیل به مواضع حماس در نوار غزه 
@@ -1807,14 +1815,6 @@ src :@naya_foriraq
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Alerts in Jazan Province, southwestern Saudi Arabia.
-23:12
-1405/07/23
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️اسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی ایران، در واکنش به اظهارات اد میلیبند، وزیر خارجه بریتانیا، در شبکه اجتماعی ایکس، مواضع لندن را به شدت محکوم کرد.
@@ -1856,14 +1856,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Alerts in Jazan Province, southwestern Saudi Arabia.
-23:09
-1405/07/23
-
-
-
-
 src :@samueltarikh
 ‏کانال 12 اسرائیل:
 ‏
@@ -1879,15 +1871,6 @@ src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - Alerts in Jazan, Saudi Arabia.
 ‏
 ‏@GeoPWatch
-23:08
-1405/07/23
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇾🇪❌🇾🇪 — Brigader General Ammar al-Judbi, the commander of the 5th brigade of the PLC-aligned presidential guard, was reportedly killed in Taiz.
 23:08
 1405/07/23
 
