@@ -1,3 +1,26 @@
+src :@ClashReport
+[عکس]
+‏The Atlantic reports that Pete Hegseth’s plan to livestream a military execution blindsided even his closest Pentagon advisers and triggered “pretty universal revulsion” within the Trump administration.
+‏
+‏According to the report, Trump faced private pressure from Republican lawmakers and advisers who warned that the broadcast would be barbaric, fuel ISIS propaganda and hurt Republicans in the midterms.
+‏
+‏Trump reportedly “soured on it pretty quickly” after hearing the criticism, prompting Hegseth to abandon the livestream plan.
+‏
+‏Source: The Atlantic
+10:52
+1405/07/24
+
+
+
+
+src :@rnintel
+‏🇫🇷⚡️- French Prime Minister Sébastien Lecornu officially declares that the ongoing riots are no longer a student movement. The French government will no longer treat the riots as "student protests" but as "urban violences".
+10:52
+1405/07/24
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏تفعيل الدفاعات الجوية في الجليل الأعلى قرب الحدود اللبنانية
@@ -9,6 +32,7 @@ src :@Alibk3
 
 src :@Ali_bk_2
 [عکس]
+‏Air defenses activated in the Upper Galilee near the Lebanese border.
 10:51
 1405/07/24
 
@@ -1842,38 +1866,6 @@ src :@ClashReport
 ‏
 ‏Source: The Guardian
 03:29
-1405/07/24
-
-
-
-
-src :@ClashReport
-[عکس]
-‏A Reuters investigation found that Iran and its proxies carried out at least 135 precision strikes on 84 infrastructure sites across the Gulf since February 28, targeting critical oil, gas, electricity and transportation facilities.
-‏
-‏The attacks caused billions of dollars in damage, disrupted global energy supplies and helped Iran withstand U.S. military pressure. 
-‏
-‏Gulf governments frequently downplayed the damage, often blaming falling debris from intercepted missiles and drones.
-‏
-‏Source: Reuters
-03:21
-1405/07/24
-
-
-
-
-src :@ClashReport
-[عکس]
-‏BIG: Ukraine is nearly out of Patriot interceptor missiles as Russian strikes intensify.
-‏
-‏A Ukrainian official said the country had just 10 missiles left on October 7, most of which have since been used, leaving only a couple remaining. 
-‏
-‏Another source said supplies were completely exhausted.
-‏
-‏Although NATO says deliveries continue, Ukrainian officials warn that supplies have been irregular since May, with no guarantees of future shipments.
-‏
-‏Source: WaPo
-03:18
 1405/07/24
 
 
@@ -3926,14 +3918,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@rnintel
-‏🇮🇷🇮🇱⚡️- Iran’s stockpile of missile launchers is once again similar to the level it was at before the June 2025 war, according to Israeli Channel 16.
-20:50
-1405/07/23
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏تغییر رویکرد شیعیان لبنان در خصوص سلاح حزب الله؟
@@ -4930,19 +4914,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏رسانه‌های خارجی: در حمله حوثی‌ها به کاخ ریاست‌جمهوری در عدن دست‌کم ۴ نظامی کشته شدند
-‏
-‏#حوثی_یمن 
-‏
-‏🆔@WAR_ROOM_NEWS
-18:47
-1405/07/23
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏US President Donald Trump decided that the officer-terrorist of so-called "palestinian" descent who murdered 13 Americans will be executed, but not broadcast live:
@@ -5185,26 +5156,6 @@ src :@selena_updates
 ‏
 ‏Greek Culture Minister Lina Mendoni received the artifacts in a ceremony attended by Israeli Ambassador Pninat Yanay and Israel Antiquities Authority official Amir Ganor. Both governments hailed the return as a milestone in combating cultural-property trafficking and strengthening bilateral relations. Israel and Greece are expected to sign a new agreement expanding cooperation on cultural heritage protection.
 18:00
-1405/07/23
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏حوثی ها مدعی هدف قرار دادن مقر عملیات نظامی که توسط افسران عربستانی در کاخ المعاشیق در عدن اداره می‌شود و همچنین انبارهای تسلیحاتی متعلق به آن‌ها هستند 
-‏
-‏🆔@WAR_ROOM_NEWS
-18:00
-1405/07/23
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏طبق گزارشات محلی از کاخ ریاست جمهوری در عدن صدای ۵ انفجار متوالی شنیده شده است
-‏
-‏🆔@WAR_ROOM_NEWS
-17:58
 1405/07/23
 
 
@@ -6226,19 +6177,4 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 10:59
-1405/07/23
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏#تاریخنگار_فضایی 
-‏
-‏در 15 کتبر 1997، فضاپیمای بین‌سیاره‌ای کاسینی–هویگنس در قالب مأموریتی مشترک از سوی ناسا، آژانس فضایی اروپا و سازمان فضایی ایتالیا، با استفاده از راکت تایتان ۴بی/سنتاور از پایگاه کیپ کاناورال در فلوریدا به‌سوی زحل پرتاب شد.
-‏
-‏این فضاپیما در سال 2005 به زحل رسید و بیش از 13 سال به بررسی این سیاره، حلقه‌ها و قمرهای آن پرداخت. کاوشگر هویگنس نیز در ژانویهٔ 2005 با موفقیت روی تیتان، بزرگ‌ترین قمر زحل، فرود آمد؛ رویدادی که نخستین فرود موفق یک کاوشگر روی یک قمر در منظومهٔ شمسی بیرونی بود.
-‏
-‏@rus_cosmos
-10:54
 1405/07/23
