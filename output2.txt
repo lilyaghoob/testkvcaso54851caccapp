@@ -726,19 +726,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-[عکس]
-‏Order to Slow Ukraine’s SpaceX Starshield Came from White House
-‏
-‏Restrictions on Ukraine’s military satellite service originated inside the White House, disrupting drone missions as Washington pressed Kyiv to halt attacks on Russian refineries.
-‏
-‏READ MORE
-11:25
-1405/07/24
-
-
-
-
 src :@Indypersian
 ‏⭕️هله‌هوله خوردن شبانه به کبد آسیب می‌زند
 ‏
