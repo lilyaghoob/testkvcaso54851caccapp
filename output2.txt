@@ -1,3 +1,74 @@
+src :@IRRadar
+‏🔴 نشانه‌های آماده‌سازی برای محدودیت‌های جدید اینترنت
+‏
+‏طی روزهای گذشته تیم رادار تغییرات و اختلالاتی را در شبکه مشاهده کرده که می‌تواند نشانه آماده‌سازی فنی برای اعمال محدودیت‌های جدید اینترنت باشد.
+‏
+‏برای برخی کسب‌وکارها پیامک‌هایی درباره مهاجرت به سرویس‌های اینترنت تجاری یا Pro ارسال شده، DNS برخی شبکه‌ها روی زیرساخت ابر آروان با موقعیت امارات تنظیم شده و فایروال برخی دیتاسنترها نیز چندین مرتبه به‌روزرسانی شده است.
+‏
+‏همزمان کاربران از بارگذاری ناقص بسیاری از وب‌سایت‌ها خبر می‌دهند؛ تصاویر، دکمه‌ها و بخش‌هایی از صفحات لود نمی‌شوند. افزایش پینگ بازی‌های آنلاین، اختلال برخی DNSها و کندی و ناپایداری اینترنت در ساعات مختلف روز نیز گزارش شده است.
+‏
+‏بررسی‌های تیم رادار نشان می‌دهد بخشی از این اختلالات می‌تواند با تغییرات در لایه DNS، مسیریابی و نحوه پالایش ترافیک مرتبط باشد.
+‏
+‏⚠️ مجموع اتفاقات اخیر از تغییرات قابل‌توجه در زیرساخت شبکه حکایت دارد و می‌تواند بخشی از آماده‌سازی فنی برای محدودیت‌های جدید باشد؛ با این حال زمان آغاز و جزئیات دقیق این محدودیت‌ها هنوز مشخص نیست.
+‏
+‏📡 @IRRadar
+18:04
+1405/07/25
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓  @hey_itsmyturn  Mi-171E Refueling in base @ 29.66953, 52.574077 Ziba Shahr, Fars Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/pbKSuwp9jNAAPU-Nfts7geni?xv=1  ترجمه خودکار فارسی  سوخت‌گیری Mi-171E…
+18:04
+1405/07/25
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Mi-171E Refueling in base @ 29.66953, 52.574077
+‏Ziba Shahr, Fars Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/pbKSuwp9jNAAPU-Nfts7geni?xv=1
+‏
+‏ترجمه خودکار فارسی
+‏
+‏سوخت‌گیری Mi-171E در پایگاه @ 29.66953, 52.574077
+‏زیبا شهر، استان فارس، ایران
+‏
+‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/pbKSuwp9jNAAPU-Nfts7geni?xv=1
+‏
+‏𝕏  ·  @shin_persian
+18:04
+1405/07/25
+
+
+
+
+src :@samueltarikh
+‏🔺یک منبع آمریکایی به گلوبال آی اعلام کرد:
+‏
+‏ارتش آمریکا ممکن است در 24 ساعت آینده به ایران حمله کند.
+18:04
+1405/07/25
+
+
+
+
+src :@samueltarikh
+‏🔺لحظاتی پیش یک هواپیمای ویژه حامل مقامات ارشد امنیتی امارات متحده عربی در تهران فرود آمد.
+18:04
+1405/07/25
+
+
+
+
 src :@warmonitors
 ‏⚡#BREAKING The Saudi-led coalition said it intercepted and destroyed four drones over Riyadh and the country’s eastern and southern regions
 ‏
@@ -15,6 +86,40 @@ src :@ClashReport
 ‏Canada's Prime Minister Mark Carney has warned of serious consequences ahead of Alberta's October 19 referendum on separation, citing external economic threats and national unity concerns.
 ‏
 ‏READ MORE
+18:01
+1405/07/25
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد طی ساعات گذشته چهار پهپاد را در مناطق ریاض، شرق و جنوب این کشور رهگیری و منهدم کرده است.
+‏
+‏ترکی المالکی، سخنگوی ائتلاف حمایت از دولت یمن، شنبه ۲۵ مهر این خبر را در شبکه اجتماعی ایکس منتشر کرد.
+‏
+‏او درباره مبدا پرتاب پهپادها و خسارات احتمالی جزئیاتی ارائه نکرد.
+‏https://iranintl.com/202610179927
+18:01
+1405/07/25
+
+
+
+
+src :@naya_foriraq
+‏نايا - NAYA pinned «🇾🇪🔻🇪🇬 مصدر يمني من أنصار الله لنايا   إذا ما تدخلت مصر رسمياً بالصراع في اليمن ؛ فعلى الشعب المصري ان يستعد منذ الان وحتى بدء الشتاء بجمع الحطب و وسائل التدفئة الكافية كبديل عن المحروقات . المصدر اكد كذلك لنايا ان الصواريخ اليمنية التي وصلت لتل ابيب و مطار…»
+18:01
+1405/07/25
+
+
+
+
+src :@naya_foriraq
+‏🇾🇪🔻🇪🇬 مصدر يمني من أنصار الله لنايا 
+‏
+‏إذا ما تدخلت مصر رسمياً بالصراع في اليمن ؛ فعلى الشعب المصري ان يستعد منذ الان وحتى بدء الشتاء بجمع الحطب و وسائل التدفئة الكافية كبديل عن المحروقات . المصدر اكد كذلك لنايا ان الصواريخ اليمنية التي وصلت لتل ابيب و مطار بن غورين ستكون اسهل بالوصول جدا لمطار القاهرة و مراكز السياحة وكل مصادر الطاقة داخل مصر وقد اعذر من انذر  . 
+‏
+‏https://t.me/naya_foriraq
 18:01
 1405/07/25
 
@@ -55,9 +160,7 @@ src :@Parvazdaroj
 
 src :@intelslava
 [عکس]
-‏⚡🇺🇦
-‏
-‏Today’s effectiveness of Ukraine’s air defense:
+‏🇺🇦🇷🇺⚡️ — Today’s effectiveness of Ukraine’s air defense:
 ‏
 ‏“Funny Pictures from the Air Defense” – a total of 647 UAVs were launched (289 shot down) and 261 UMPKs (0 shot down).
 ‏
@@ -71,9 +174,7 @@ src :@intelslava
 
 
 src :@intelslava
-‏🇺🇸⚡🇮🇷
-‏
-‏Chief of Staff of the Army General Randy George, at the end of December, two months before the start of the conflict with Iran, warned about a critical shortage of ammunition for missile defense systems, and that this shortage would continue until 2030, several U.S. officials told CBS News. The Pentagon stated that claims about an ammunition shortage are “inaccurate.”
+‏🇺🇸🇮🇷⚡️ — Chief of Staff of the Army General Randy George, at the end of December, two months before the start of the conflict with Iran, warned about a critical shortage of ammunition for missile defense systems, and that this shortage would continue until 2030, several U.S. officials told CBS News. The Pentagon stated that claims about an ammunition shortage are “inaccurate.”
 ‏
 ‏This warning was part of a risk analysis contained in the Global Force Management Allocation Plan for the 2027 fiscal year, developed by the Pentagon, which determines where troops will be deployed and where weapons will be stationed around the world, officials said. They noted that the THAAD and Patriot systems will be strategically limited in their use, referring to the transfer of Patriot systems to Ukraine, the use of ammunition to defend Israel during the 12‑day war, and reduced production capacity. For security reasons, CBS did not disclose exact figures. General George declined to comment.
 ‏
@@ -1148,24 +1249,6 @@ src :@ClashReport
 ‏
 ‏READ MORE
 16:34
-1405/07/25
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏یک منبع مطلع به ایران‌اینترنشنال گفت کاظم علی‌نژاد برانلو، زندانی سیاسی محبوس در زندان اوین، در اعتراض به محرومیت از خدمات درمانی و داروهای ضروری، اعتصاب غذای خشک آغاز کرده و وضعیت جسمانی او «نگران‌کننده» است.
-‏
-‏به گفته این منبع، علی‌نژاد با مشکلات قلبی و کلیوی مواجه است و مسئولان زندان از تحویل داروهای موردنیاز او و اعزامش به مراکز درمانی خارج از زندان خودداری کرده‌اند.
-‏
-‏این منبع افزود محرومیت از درمان و ایجاد زخم در پاهای این زندانی سیاسی، توانایی راه رفتن و انجام فعالیت‌های روزمره را از او گرفته است.
-‏
-‏بر اساس اطلاعات این منبع، علی‌نژاد اعلام کرده تا زمان رسیدگی به مطالبات درمانی خود به اعتصاب غذای خشک ادامه خواهد داد؛ اقدامی که با توجه به مشکلات جسمانی او، می‌تواند جانش را با خطر جدی مواجه کند.
-‏
-‏کاظم علی‌نژاد برانلو پیش‌تر در دی‌ماه ۱۴۰۲ از سوی دادگاه انقلاب تهران به ۱۱ سال حبس محکوم شده بود که این حکم در اردیبهشت ۱۴۰۳ در دادگاه تجدیدنظر به پنج سال کاهش یافت.
-‏https://iranintl.com/202610175438
-16:33
 1405/07/25
 
 
@@ -2775,17 +2858,6 @@ src :@defence_news
 
 
 
-src :@naya_foriraq
-[عکس]
-‏🇸🇦الداخلية السعودية تعلن عن تنفيذ حُكم الإعدام بحق (5) مواطنين بتهمة ماوصفته بالجرائم الإرهابية والانضمام إلى تنظيم إرهابي خارجي.
-‏
-‏https://t.me/naya_foriraq
-13:11
-1405/07/25
-
-
-
-
 src :@mohem_mat
 ‏وب‌سایت خبری عبری‌زبان والا:
 ‏
@@ -3009,18 +3081,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 12:40
-1405/07/25
-
-
-
-
-src :@naya_foriraq
-‏🇺🇦زيلينسكي: في وقت تشن فيه روسيا هجمات واسعة النطاق على بنيتنا التحتية للطاقة، قررت الولايات المتحدة، للأسف، تجاهل قانون "ليندسي غراهام" بالكامل، والذي كان يهدف إلى الضغط على روسيا لإنهاء الحرب.
-‏
-‏"صعبة الجان ضلعك هسه يتحداك"😭
-‏
-‏https://t.me/naya_foriraq
-12:38
 1405/07/25
 
 
@@ -5060,27 +5120,6 @@ src :@tglobaleye
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Aryan @GEOIMINT
-‏
-‏Satellite imagery via @googleearth dated June 11, 2026, shows a B-21 Raider at Edwards AFB, California, belonging to the 412th Test Wing under Air Force Materiel Command (AFMC).
-‏
-‏C: 34.917928, -117.866269
-‏
-‏ترجمه خودکار فارسی
-‏
-‏تصاویر ماهواره‌ای @googleearth به تاریخ ۱۱ ژوئن ۲۰۲۶، یک بمب‌افکن بی-۲۱ ریدر را در پایگاه نیروی هوایی ادواردز در کالیفرنیا نشان می‌دهد که متعلق به بال آزمایشی ۴۱۲، زیرمجموعه فرماندهی تجهیزات نیروی هوایی (AFMC)، است.
-‏
-‏C: 34.917928, -117.866269
-‏
-‏𝕏  ·  @shin_persian
-22:54
-1405/07/24
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇾🇪 🇾🇪 🇾🇪 — Iran-backed Houthi militia ballistic missile attack reportedly hit Aden International Airport in Southern Yemen.
@@ -5097,15 +5136,6 @@ src :@Navy_Iranian
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 22:47
-1405/07/24
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓  @hey_itsmyturn  2 launch-like blasts were heard Tabriz East Azerbaijan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/qA6kFB29FaVYhnNnFR8pWGg-  ترجمه خودکار فارسی  ۲ صدای انفجار شبیه پرتاب در تبریز…
-22:44
 1405/07/24
 
 
@@ -5218,22 +5248,6 @@ src :@samueltarikh
 ‏«انسان‌ها در عصر ظلمت»
 ‏هانا آرنت
 21:52
-1405/07/24
-
-
-
-
-src :@samueltarikh
-‏Samuel pinned Deleted message
-21:51
-1405/07/24
-
-
-
-
-src :@samueltarikh
-‏گویا فرودگاه بین‌المللی تل‌آویو به صورت ناگهانی تا اطلاع ثانوی تعطیل شده است، حریم هوایی اسرائیل نیز به صورت کامل بسته اعلان شده است.
-21:46
 1405/07/24
 
 
@@ -5847,70 +5861,4 @@ src :@DEJradio
 ‏@DEJradio
 ‏https://youtu.be/lik5rfZEw40?si=aj5gxw4aLOPQS-pT
 18:06
-1405/07/24
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏۱۴ زندانی سیاسی با امضای بیانیه‌ای در مورد خطر صدور حکم اعدام برای امیرحسین موسوی، فعال شبکه‌های اجتماعی که با عنوان «جیمز بی‌دین» شناخته می‌شود، هشدار دادند.
-‏
-‏در این بیانیه که روز پنج‌شنبه ۲۳ مهر منتشر شد، این زندانیان سیاسی با اشاره به نقش نهادهای امنیتی و صداوسیما در پرونده‌سازی علیه امیرحسین موسوی اعلام کردند که پس از پخش اعترافات اجباری او از تلویزیون، تعداد اتهاماتش از پنج مورد به ۹ مورد افزایش یافته است.
-‏
-‏از اتهامات اضافه‌شده به پرونده آقای موسوی، «محاربه» و «افساد فی‌الارض» است که می‌تواند خطر صدور حکم اعدام علیه او را در پی داشته باشد.
-‏
-‏امضاکنندگان این بیانیه تأکید کرده‌اند اتهام‌های سنگینی که اکنون جان این زندانی را تهدید می‌کند، «پیش از پخش گزارش صداوسیما اساساً در پروندهٔ او وجود نداشت».
-‏
-‏امیرحسین موسوی از آذرماه ۱۴۰۳ در بازداشت به سر می‌برد و پس از تحمل شش ماه سلول انفرادی، به بند عمومی زندان منتقل شده است.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-18:05
-1405/07/24
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏تصاویر ماهواره‌ای از پایگاه هوایی ادواردز (در ایالت کالیفرنیا) که در تاریخ 11 ژوئن 2026 گرفته شده‌اند، منتشر شده‌اند. در این تصاویر، یک بمب‌افکن استراتژیک B-21 Raider به وضوح دیده می‌شود. 
-‏
-‏مختصات: 34.91788, 117.86624.
-‏
-‏این تصویر برای اولین بار امکان ارزیابی مستقل ابعاد این هواپیما را فراهم کرده است. طول دهانه بال آن حدود 46 متر و طول آن حدود 18 متر است.
-‏
-‏
-‏@PARVAZDAROJ|M.S
-18:05
-1405/07/24
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏پیمان قدیری، معترض ۴۵ ساله‌ای که در جریان اعتراضات دی‌ماه با شلیک گلوله به سرش به کما رفته بود، پس از حدود ۹ ماه جان باخت.
-‏
-‏به گفته یک منبع مطلع، ماموران حکومتی شامگاه ۱۹ دی‌ماه ۱۴۰۴ با ورود به منزل قدیری در قرچک، از فاصله نزدیک به سر او شلیک و این شهروند را به‌شدت مجروح کردند.
-‏
-‏این منبع افزود ماموران همان شب فرزند قدیری را نیز بازداشت کردند تا خانواده را برای سکوت درباره این حادثه تحت فشار قرار دهند.
-‏
-‏قدیری که دانش‌آموخته رشته هنر و طراح دکوراسیون ساختمان بود، پس از مجروح شدن به کما رفت و در نهایت جان باخت.
-‏به گفته نزدیکانش، او فردی نیکوکار بود که هزینه برگزاری مراسم عروسی چند نفر را تامین کرده و سرپرستی چند کودک بی‌سرپرست را نیز بر عهده داشت.
-‏@VahidOOnLine
-‏
-‏📡 @VahidOnline
-18:05
-1405/07/24
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Earlier this week (Wednesday), the IDF struck in southern Gaza and eliminated the terrorist Maher Walid Omar al-Husseini, a Nukhba cell commander in Hamas’ military wing. The terrorist infiltrated the Re’im Base during the October 7 massacre.
-‏
-‏Recently, the terrorist advanced attacks against IDF troops and Israeli civilians and attempted to restore the terrorist organization’s capabilities, in a systematic violation of the ceasefire.
-18:04
 1405/07/24
