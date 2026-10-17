@@ -1447,15 +1447,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-[عکس]
-‏🇫🇷⚡️- Cities with right-wing mayors are reportedly calmer. In this video from Nice, the police appears more organized and has less rioters to confront.
-23:16
-1405/07/25
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇸🇦/🇾🇪 Latest update on the situation in Taizz city:
@@ -5429,14 +5420,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 03:18
-1405/07/25
-
-
-
-
-src :@Mena_Live
-‏BREAKING: President Trump urges Saudi Arabia to accept Israeli assistance against the Houthis, saying a peace agreement between the two countries is needed “more than ever.”
-‏
-‏@Mena_Live
-02:57
 1405/07/25
