@@ -1,3 +1,35 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴ناوشکن آمریکایی در ۴۰۰ کیلومتری ایران
+‏
+‏@MilitarryWorld | Parsa
+19:42
+1405/07/25
+
+
+
+
+src :@Alibk3
+[عکس]
+‏السفارة الأميركية في الرياض: 
+‏
+‏ينبغي على مواطني الولايات المتحدة أن يكونوا على دراية باحتمالية وقوع هجمات على المطارات، وإغلاق المساحات الجوية، وإلغاء الرحلات الجوية، وتعطيل حركة السفر في السعودية.
+19:39
+1405/07/25
+
+
+
+
+src :@Mena_Live
+‏Pakistani media sources, citing a security official, report that the Pakistani military targeted an Afghan site and destroyed a Taliban training camp in Afghanistan.
+‏
+‏@Mena_Live
+19:37
+1405/07/25
+
+
+
+
 src :@tabzlive
 ‏🇷🇴⚡️ — Romanian F-16 fighter jets shot down two drones over the Black Sea on Saturday evening after they entered Romanian airspace, according to Romanian media.
 ‏
@@ -13,7 +45,8 @@ src :@Indypersian
 ‏♦️خبرگزاری مهر گزارش داد زمین‌لرزه‌ای به بزرگی ۳.۵ روز شنبه ۲۵ مهر ماه ساعت ۱۷ و ۵۱ دقیقه و ۱۵ ثانیه شهرستان کاشمر در استان خراسان رضوی را لرزاند.
 ‏
 ‏این زمین‌لرزه در عمق ۱۰ کیلومتری زمین رخ داد. تاکنون گزارشی از خسارت‌های احتمالی این زمین‌لرزه منتشر نشده است.
-‏پیشتر وقوع زمین‌لرزه‌ای به بزرگی ۴.۲ شهرستان نودژ در مرز استان‌های کرمان و هرمزگان را در روزهای جمعه و شنبه لرزانده بود 
+‏پیشتر وقوع ۲ زمین‌لرزه به بزرگی ۴.۲ شهرستان نودژ در مرز استان‌های کرمان و هرمزگان را در روزهای جمعه و شنبه لرزانده بود
+‏ 
 ‏@indypersian
 19:36
 1405/07/25
@@ -32,6 +65,8 @@ src :@rnintel
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔻گزارش‌ها از آغاز عملیات تهاجمی گسترده نیروهای انصارالله در جبهه تعز پس از پایان مهلت تعیین‌شده برای تسلیم نیروهای شورای رهبری ریاست‌جمهوری یمن حکایت دارد. بر اساس گزارش‌های منتشرشده، نیروهای انصارالله در غرب شهر تعز از خطوط دفاعی نیروهای دولت یمن عبور کرده و از محور دروازه هَنجر به سمت شرق پیشروی کرده‌اند. درگیری‌های شدید خیابانی در محله المطار القدیم و محله الجبلی در جنوب شهر ادامه دارد
+‏
+‏#حوثی_یمن #تعز
 ‏
 ‏🆔@WAR_ROOM_NEWS
 19:35
@@ -2278,15 +2313,6 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-[عکس]
-‏إطلاق نار على ناقلة غاز مسال في خليج عدن.
-16:48
-1405/07/25
-
-
-
-
 src :@rnintel
 ‏🇫🇷⚡️- According to a journalist from LCP, there's only 11k protesters outside of Paris as of 11AM local time.  Organizers and left-wing groups claim protests are all over France, citing the fact that most cities have declared gatherings to be held today. In…
 16:48
@@ -3005,17 +3031,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 14:52
-1405/07/25
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴ترامپ، از طریق شبکه اجتماعی Truth Social: بهترین در تاریخ!
-‏
-‏@MilitarryWorld | Parsa
-14:48
 1405/07/25
 
 
@@ -5835,24 +5850,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 19:46
-1405/07/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇹🇮🇱 Italy places Israeli Defense Minister and senior military officials under investigation over treatment of Gaza activists.
-‏
-‏@BRICSNews
-19:38
-1405/07/24
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇷🇺 US lawmakers introduce bill to block President Trump's Russian diesel deal.
-‏
-‏@BRICSNews
-19:36
 1405/07/24
