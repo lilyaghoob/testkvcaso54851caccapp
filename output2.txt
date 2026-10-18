@@ -1,3 +1,13 @@
+src :@tabzlive
+‏🇮🇷⚡️ — The ballistic missile launch from Yazd, central Iran that occured approximately 10 minutes ago was a test and is not part of any attack.
+‏
+‏Yazd is both a rare attack location and lately a common test location, so keep that in mind.
+01:25
+1405/07/27
+
+
+
+
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸 - Reports of a launch just now from Yazd, Iran. 
 ‏
@@ -11,6 +21,7 @@ src :@GeoPWatch
 
 
 src :@naya_foriraq
+[عکس]
 ‏🇸🇦إنفجارات تهز مدينة جدة السعودية وسط توقف العمليات الجوية بمطار الملك عبدالعزيز الدولي.
 01:19
 1405/07/27
@@ -2234,15 +2245,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 21:50
-1405/07/26
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇾🇪❌🇸🇦 — The Houthis have published footage they say shows a Saudi AH-6i attack helicopter being hit and brought down near Najran on October 18.  They claim the aircraft was struck by a domestically produced surface-to-air missile while operating near the border.
-21:49
 1405/07/26
 
 
@@ -6391,14 +6393,4 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:58
-1405/07/26
-
-
-
-
-src :@samueltarikh
-‏🚨ترامپ درباره ایران:
-‏
-‏ما قرار است کمی بیشتر آنجا باشیم.
-01:22
 1405/07/26
