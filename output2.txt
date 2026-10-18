@@ -5314,11 +5314,3 @@ src :@mwarmonitor
 ‏@mwarmonitor
 05:01
 1405/07/25
-
-
-
-
-src :@OSINTWarfare
-‏Ansar Allah (Houthis) struck Al-Maashiq Palace in Aden, the residence of the chairman of Yemen’s Presidential Leadership Council (PLC).
-04:16
-1405/07/25
