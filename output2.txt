@@ -1,3 +1,32 @@
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏🔶 رهگیر PAC-3 Edge؛ نسل جدید رهگیر پاتریوت برای مقابله با موشک‌های پیشرفته
+‏
+‏🔹 شرکت لاکهید مارتین در اکتبر ۲۰۲۶ از رهگیر PAC-3 Edge رونمایی کرد؛ موشکی که برای افزایش برد درگیری، ارتفاع رهگیری و توان مقابله با اهداف مانورپذیر و تهدیدهای هایپرسونیک توسعه می‌یابد. این سامانه پیشنهاد لاکهید مارتین برای برنامه رهگیر آینده ارتش آمریکاست. 
+‏
+‏🔹 تفاوت اصلی آن با PAC-3 MSE در سه بخش است: جستجوگر پیشرفته‌تر برای ردیابی دقیق هدف، موتور راکتی چندپالسه با طراحی نورثروپ گرومن برای حفظ انرژی در مراحل مختلف پرواز، و سامانه‌های کنترل وضعیت اضافی برای افزایش مانورپذیری. درحالی‌که PAC-3 MSE از موتور دومرحله‌ایِ رانش استفاده می‌کند، طرح سه‌پالسه Edge قرار است انرژی بیشتری برای مانور نهایی و رهگیری در فواصل دورتر حفظ کند. 
+‏
+‏🔹 این رهگیر همچنان بر فناوری اصابت مستقیم (Hit-to-Kill) متکی است؛ یعنی هدف را با انرژی برخورد نابود می‌کند، نه با اتکا به سرجنگی انفجاری متعارف. سازنده، آزمایش‌های اولیه را برای سال ۲۰۲۷ و استقرار هدف‌گذاری‌شده را برای حدود ۲۰۳۱ اعلام کرده است.
+‏
+‏#PAC3Edge
+‏#Patriot
+‏#LockheedMartin
+‏
+‏@RASTAKHIZ_PERSIAN
+07:01
+1405/07/26
+
+
+
+
+src :@tabzlive
+‏🇾🇪❌🇸🇦 — NEW: The Houthis (Ansarallah) claim to have shot down a Saudi AH-64 Apache attack helicopter near Najran along the Saudi-Yemeni border, saying it was targeting their positions when it was brought down.
+06:58
+1405/07/26
+
+
+
+
 src :@intelslava
 [عکس]
 ‏Ansar Allah (Houthis) has announced that it shot down a Royal Saudi Land Forces (RSLF) AH-64D/E Apache attack helicopter off the coast of Najran, southwestern Saudi Arabia.  According to the statement, the helicopter was conducting operations against Ansar…
@@ -1362,14 +1391,6 @@ src :@Alibk3
 
 src :@rnintel
 ‏🇺🇸⚡️- Anthropic’s ‘Head of International Startups’ Guillaume Pincen: “Where we do think we need to be really careful with open-source is on safety.”  He goes on to say that they think open models need to be  “as safe” as Anthropic’s.
-00:38
-1405/07/26
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Alert in Riyadh, capital of KSA.
 00:38
 1405/07/26
 
