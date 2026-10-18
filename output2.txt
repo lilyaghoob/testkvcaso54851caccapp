@@ -1,10 +1,36 @@
-src :@DEJradio
-‏🔺🎥 درگیری‌ها میان پلیس فرانسه و معترضان در اعتراضات شنبه ۲۵ مهرماه ۱۴۰۵ در شهرهای لیون، پاریس، لیل، مارسی و چند شهر دیگر به شدت بالاگرفت و به خشونت کشیده شد. معترضان اغلب آفریقایی‌تبارها، چپ‌های کمونیست و عرب‌های حامی فلسطین هستند.
-‏براساس گزارش رسانه‌های فرانسوی ده‌ها فروشگاه غارت شد، تعداد زیادی اتومبیل شخصی آسیب دید.
-‏امانوئل ماکرون تهدید به بازداشت تخریبگران کرد و گزارش شد حدود ۱۲۰۰ نفر بازداشت شدند.
+src :@Alibk3
+[عکس]
+‏البرلمان المصري يعقد جلسة اليوم للموافقة على قرار السيسي بإرسال قوات عسكرية إلى السعودية في "مهمة دفاعية"
+13:05
+1405/07/26
+
+
+
+
+src :@ClashReport
+‏A wave of cost-of-living, education and housing protests swept across Europe, with France at the center and violent clashes in several cities.
 ‏
-‏#فرانسه #کمونیست #آشوب
-‏@DEJradio
+‏🇫🇷 France: About 550,000 marched nationwide; Limoges town hall and a Lyon tourist office were set on fire, around 1,800 people were arrested and about 150 police officers injured.
+‏
+‏🇧🇪 Belgium: Student-led protests in Brussels and Liège turned violent, with police using tear gas and water cannons and making about 45 arrests in Liège.
+‏
+‏🇮🇹 Italy: About 100,000 marched peacefully in Rome, while clashes near Milan’s Duomo led to around 50 detentions.
+‏
+‏🇵🇹 Portugal: Tens of thousands protested the housing crisis and low wages, with demonstrators camping overnight in Lisbon.
+‏
+‏🇦🇱 Albania: Student-led protests demanding Prime Minister Edi Rama’s resignation entered a fifth day, with hundreds detained and more than 120 police injured.
+‏
+‏🇪🇸 Spain: An ongoing housing movement has drawn mass marches and protest camps, contributing to the snap election set for November 29.
+‏
+‏The protests are largely uncoordinated but share anger over rising prices, housing costs and underfunded public services, and early signs of mobilization have been reported in Greece, Germany and Austria.
+13:04
+1405/07/26
+
+
+
+
+src :@jangaavaran1390
+‏دفتر ریاست‌جمهوری مصر: ما تمام حمایت‌های ممکن و لازم را به عربستان سعودی ارائه خواهیم داد تا از امنیت و ثبات آن محافظت کنیم.
 13:02
 1405/07/26
 
@@ -1427,24 +1453,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 10:32
-1405/07/26
-
-
-
-
-src :@IranintlTV
-‏🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - یکشنبه ۲۶ مهر
-‏
-‏🔹کامیون‌کامیون جسد، مفقود شدن اجساد دختران، آتیش زدن بازار رشت، دوشکا گرفتن سمت مردم وقتی داشتن از بازار بیرون می‌اومدن، گورهای دسته‌جمعی، تیر خلاص زدن در بازداشت، بیمارستان الغدیر و هزاران اعدامی. زندگی کن، ولی هر روز از جنایات جمهوری اسلامی و دی‌ماه خونین بگو.
-‏
-‏🔹آخوندها و مسئولین بی‌خاصیتی که الان ندای جنگ می‌دن، همونایی هستن که زمان جنگ ایران و عراق پشت خط قایم شدن و بعدش شدن مسئول. الان هم اگه جنگی بشه، نه بچه‌هاشون رو می‌ذارن برن، نه خودشون می‌رن. فقط بلدن شعار بدن.
-‏
-‏🔹به گلخانه‌داران و خیلی دیگه از مشاغل و صنایع اخطار دادن که حکومت برای مشاغل، صنایع و حتی مصرف خیلی از منازل، فقط تا اواسط آذرماه می‌تونه گاز تأمین کنه.
-‏
-‏🔹در بهترین مدارس فنی‌وحرفه‌ای شیراز، هیچ معلمی که مطالب درس رو بلد باشه وجود نداره، چون کمبود معلم شدید دارن. از کادر مدرسه به‌جای معلم‌های تخصصی استفاده می‌کنن که حتی جدول ضرب رو هم بلد نیستن. کادر آموزشی داغون شده.
-‏
-‏🔹این حکومت از وقتی سر کار اومده، همش در حال جنگه. هزینه رفاه، شادی، موفقیت، آسایش و آرامش، امنیت، سلامتی، امید و آزادی صرف جنگ می‌شه و مردم هیچ‌کدوم رو ندارن.
-10:29
 1405/07/26
 
 
@@ -3049,15 +3057,6 @@ src :@naya_foriraq
 
 
 
-src :@Alibk3
-[عکس]
-‏المعارك بين القوات اليمنية والقوات الموالية للسعودية تقترب من منطقة بير باشا التي تبعد عن وسط مدينة تعز 3 كيلومتر.
-02:08
-1405/07/26
-
-
-
-
 src :@Mena_Live
 ‏Syria replaces the head of the Syrian Petroleum Company (Syrian Ministry of Energy affiliate).
 ‏
@@ -3090,15 +3089,6 @@ src :@rnintel
 ‏
 ‏A driver ran over several victims with their truck.
 01:34
-1405/07/26
-
-
-
-
-src :@Alibk3
-[عکس]
-‏القوات اليمنية تحرر مناطق طالوق، والمعارك تصل إلى قرى مشرعة وحدنان في جبل صبر بمحافظة تعز.
-01:30
 1405/07/26
 
 
@@ -5468,24 +5458,4 @@ src :@Minas_Tirith2024
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 13:20
-1405/07/25
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏‌‏ ‏
-‏⁠انتزاع؛ گفت‌وگویی میان شرق و غرب
-‏ 
-‏کتایون حلاجان
-‏ 
-‏- یاری استوانی، هنرمند نقاش ایرانی، به همراه فرانک برتران، نقاش فرانسوی، نمایشگاهی دو نفره از آثار خود در پاریس برگزار کردند. این نمایشگاه هنر انتزاعی را به زبانی برای ایجاد ارتباط و رویارویی میان جهان شرق و غرب تبدیل می‌کنند.
-‏ 
-‏- آثار یاری استوانی بیشتر الهام گرفته از شعر، تصوف و عرفان ایرانی است و در سبک از اکسپرسیونیسم انتزاعی (مکتب آمریکایی) تأثیر گرفته است.
-‏ 
-‏- فرانک برتران هنرمند فرانسوی متولد شامالیِر در فرانسه است. او در مورد آثارش می‌گوید: «نقاشی‌های من هر بار ماجراجویی تازه‌ای‌ است، خودم را به دست رنگ‌‌ها می‌سپارم، به تعامل میان ماده و نور، در حالتی مراقبه‌گونه... و هر بار متفاوت از قبل از نو آغاز می‌شود.»
-‏ 
-‏https://kayhan.london/1405/07/25/410498/
-13:04
 1405/07/25
