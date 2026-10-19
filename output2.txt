@@ -2117,17 +2117,6 @@ src :@Alibk3
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️سفارت مجازی ایالات متحده در ایران، روز دوشنبه، با انتشار هشدار امنیتی با اشاره به پیچیدگی اوضاع و احتمال تشدید پیش‌بینی‌ناپذیر تنش‌ها در خاورمیانه، از شهروندان آمریکایی خواست به هیچ دلیلی به ایران سفر نکنند و افرادی که در این کشور حضور دارند «همین حالا ایران را ترک کنند.» در این بیانیه با تاکید بر احتمال لغو پروازها، بسته شدن حریم هوایی و تغییر ناگهانی مقررات در مرزهای زمینی، به درگیری‌های نظامی حوثی‌ها علیه مواضع و فرودگاه‌های عربستان سعودی و همچنین احتمال هدف قرار گرفتن منافع، شرکت‌ها و نهادهای وابسته به آمریکا به دست جمهوری اسلامی و گروه‌های نیابتی‌اش اشاره شده و از شهروندان آمریکایی در سراسر منطقه خواسته شده است هوشیاری کامل داشته باشند، از حضور در تجمعات و کانون‌های استقرار نیروهای پلیس دوری کنند و ارتباط خود را با سامانه‌های هشداری وزارت امور خارجه حفظ نمایند.
-‏
-‏@IndyPersian
-05:17
-1405/07/27
-
-
-
-
 src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - Alerts in Jazan, Saudi Arabia.  @GeoPWatch
 05:17
@@ -2402,14 +2391,6 @@ src :@rnintel
 
 
 
-src :@rnintel
-‏🇺🇸⚡️- The Air Force officer, who was rappelling from the top of the Alamodome before the UTSA vs Navy college football game, in a pregame stunt, has passed away from his injuries.
-02:12
-1405/07/27
-
-
-
-
 src :@warmonitors
 ‏⚡#BREAKING A flight from Tel Aviv to Vienna made an emergency landing following a bomb threat, Sky News reported
 ‏
@@ -2425,14 +2406,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 02:11
-1405/07/27
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇱⚡- "Trump doesn't even understand America [let alone Israel]," - Yair Lapid, Israeli opposition candidate.
-01:49
 1405/07/27
 
 
