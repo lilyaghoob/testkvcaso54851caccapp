@@ -2793,15 +2793,6 @@ src :@tglobaleye
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇩❌🇸🇩 — A massive prison break took place in the RSF-controlled Al-Duwayn prison in east Darfur following an airstrike by the Sudanese Air Force.
-21:50
-1405/07/27
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏تلفات اخیر حوثی ها در جبهه‌های نبرد یمن
