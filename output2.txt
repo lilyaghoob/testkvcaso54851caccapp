@@ -1,3 +1,39 @@
+src :@ClashReport
+[عکس]
+‏Europe’s biggest telecom operators are teaming up to challenge Starlink.
+‏
+‏Deutsche Telekom, Orange, Telefónica and Vodafone are exploring a joint bid for EU satellite spectrum to offer direct-to-smartphone connectivity.
+‏
+‏The initiative aims to reduce Europe’s dependence on U.S. satellite providers amid growing transatlantic tensions.
+‏
+‏The companies would build ground infrastructure and partner with an existing satellite operator rather than launch their own satellites.
+‏
+‏Key challenge: Finding a suitable partner, as U.S. and Chinese companies dominate satellite networks and Europe’s Eutelsat remains far behind Starlink.
+‏
+‏Source: FT
+16:33
+1405/07/27
+
+
+
+
+src :@ClashReport
+[عکس]
+‏NEW: Benny Gantz announces he will not run in Israel’s October 27 election, ending his Blue and White party’s bid just eight days before the vote:
+‏
+‏“I will not be running in the upcoming elections. I will continue to fight for unity,” the former army chief and defense minister said, calling unity “the only solution that will prevent another disaster.”
+‏
+‏Polls had consistently put Blue and White at around 1%, well below the 3.25% threshold needed to enter the Knesset.
+‏
+‏Opposition figures, including Gadi Eisenkot, had pressed him to drop out to avoid wasting anti-Netanyahu votes. 
+‏
+‏The move reverses his pledge on October 10 to stay in the race “to the end,” and he is set to give a fuller statement Monday evening.
+16:33
+1405/07/27
+
+
+
+
 src :@Navy_Iranian
 ‏حملات ارتش آمریکا به پایگاه کنارک   در ساعت ۱ بامداد امروز ، ۲۷ مهرماه ، نیروهای آمریکایی به واسطه دو پرتابه سبک، پایگاه کنارک نیروی دریایی ارتش را مورد حمله قرار دادند که طی آن ۲ تن از رزمندگان کشور زخمی شدند.   گمان میرود که پهپاد مورد استفاده نیروهای آمریکایی…
 16:32
@@ -2242,20 +2278,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[عکس]
-‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در بازدید از یکی از پایگاه‌های نیروی هوایی این کشور گفت: «آمادگی، عزم و توانایی لازم را داریم تا هر لحظه که لازم باشد، به دشمنانمان ضربه بزنیم.»
-‏
-‏او افزود: «به دشمنانمان می‌گویم ما را آزمایش نکنید. ضرباتی به‌مراتب سنگین‌تر از آنچه تاکنون متحمل شده‌اید، دریافت خواهید کرد.»
-‏
-‏نتانیاهو همچنین گفت: «همه ما می‌دانیم که به لطف خلبانان، نیروهای هوایی و خدمه زمینی شجاعمان، ارتش اسرائیل و دولت اسرائیل، چه دستاوردهای بزرگی داشته‌ایم. ما مصمم به دفاع از خود هستیم. ما را آزمایش نکنید.»
-‏https://iranintl.com/202610195996
-13:53
-1405/07/27
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‏ ‏
 ‏⁠حمایت قاطع ترامپ از نتانیاهو در انتخابات اسرائیل؛ نتانیاهو: «با هم مأموریت را به پایان خواهیم رساند»
@@ -2694,19 +2716,6 @@ src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn  Missile launch from Western Isfahan [Presumably another test] Isfahan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/BNLwxPWOYZ_8-jOu25nX97Kb?xv=1  ترجمه خودکار فارسی  پرتاب موشک از…
 13:22
-1405/07/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump's declining approval ratings are exposing a growing divide within the Republican Party ahead of the midterm elections.
-‏
-‏A Fox News poll shows Trump retains 95% approval among MAGA Republicans, compared with just 47% among non-MAGA Republicans. 
-‏
-‏Source: Axios
-13:21
 1405/07/27
 
 
