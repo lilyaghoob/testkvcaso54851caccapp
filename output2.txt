@@ -1,3 +1,57 @@
+src :@mohem_mat
+‏کریستیان مانپور، روزنامه‌نگار باسابقه، در سن ۶۸ سالگی اعلام کرد که پس از ۴۳ سال فعالیت، در ماه ژوئن سال ۲۰۲۷ از شبکه CNN کناره‌گیری خواهد کرد.
+‏
+‏@Squad_iran
+19:12
+1405/07/27
+
+
+
+
+src :@OSINTWarfare
+‏The Egyptian National Defense Council has approved providing “all necessary support” to Saudi Arabia in its fight against Ansar Allah (Houthis) in Yemen.
+19:11
+1405/07/27
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏علی عبداللهی، رییس ستادکل نیروهای مسلح جمهوری اسلامی، دوشنبه ۲۷ مهر در مراسم معارفه مهرداد اخلاقی، وزیر جدید دفاع، خواستار برنامه‌ریزی کارشناسی برای «استفاده موثر» از هوش مصنوعی در نیروهای مسلح شد.
+‏
+‏رییس ستادکل نیروهای مسلح جمهوری اسلامی گفت: «حرکت در لبه دانش، ارتقای کیفیت تجهیزات و توجه هم‌زمان به هزینه و کارآمدی، از الزامات تقویت توان دفاعی کشور است.»
+‏
+‏عبداللهی در مراسم معارفه وزیر دفاع جدید جمهوری اسلامی، بر «توسعه فناوری و افزایش دقت و اثربخشی تجهیزات در حوزه‌های موشکی، پهپادی، پدافند هوایی، تجهیزات دریایی، الکترونیک و ارتباطات» تاکید کرد.
+‏
+‏او همچنین با تاکید بر ضرورت افزایش بهره‌وری و کاهش هزینه‌ها، خواستار توجه به سیاست «یک تیر، یک هدف» و افزایش دقت و اثربخشی تجهیزات شد.
+‏https://iranintl.com/202610198644
+19:10
+1405/07/27
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏پهپادهای رهگیر اوکراینی جدیداً با یک پهپاد جدید روسی برخورد کردند که شکل عجیب و غریبی دارند 
+‏پهپاد شبیه یک فن بزرگ است
+19:06
+1405/07/27
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۲۷ مهر
+‏@iranintlTV
+19:06
+1405/07/27
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏🔻️️️️️️رسانه‌های ایران خبر داده‌اند قرارداد یحیی گل‌محمدی با تیم دهوک عراق فسخ شده و مانع اصلی بر سر نشستن او روی نیمکت تیم زیر ۲۳ سال ایران، برطرف شده است. این درحالی است که فوتبال ۳۶۰ گزارش داده که یحیی آلترناتیو امیر قلعه‌نویی در تیم ملی است.
@@ -671,31 +725,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇦🇺🇸⚡️ — Ukrainian President Zelensky: Ukraine’s Minister of Defense, Minister of Foreign Affairs, and the Presidential Office team received urgent assignments regarding contacts with partners who can provide additional support for our air defenses as quickly…
-18:11
-1405/07/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇦🇺🇸⚡️ — Ukrainian President Zelensky:
-‏Ukraine’s Minister of Defense, Minister of Foreign Affairs, and the Presidential Office team received urgent assignments regarding contacts with partners who can provide additional support for our air defenses as quickly as possible. 
-‏
-‏There are political agreements that have not been implemented at the working level. 
-‏
-‏There are also delays in certain types of vital supplies at the level of the U.S. Department of War.
-‏
-‏We identified additional production capacity for turrets, which have proven highly effective in countering Shahed drones.
-18:10
-1405/07/27
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Arab Turnout Could Tip Israeli Election Against Netanyahu
@@ -922,14 +951,6 @@ src :@samueltarikh
 
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Following the Israeli FPV drone strike on Maifadoun, southern Lebanon, an Israeli drone is flying over the towns of Harouf and Toul at a low altitude.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:49
-1405/07/27
-
-
-
-
-src :@tabzlive
-‏🇺🇸🇸🇦⚡️ — U.S. federal agents have arrested a 35-year-old Saudi national employed as an OpenAI engineer for installing a concealed audio recording device inside an executive conference room at the company's San Francisco offices.  The suspect, Abdulrahman Alfozan…
 17:49
 1405/07/27
 
@@ -3265,19 +3286,6 @@ src :@Parvazdaroj
 
 
 
-src :@mohem_mat
-[عکس]
-‏بالاخره بازرس «دودو» کار خودشو کرد.
-‏
-‏🔗 امید توشه | Omid Tousheh (@tousheh) 
-‏
-‏@mohem_mat
-15:05
-1405/07/27
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏سباستین لوکورنو، نخست‌وزیر فرانسه، گروه‌های چپ افراطی را به سازمان‌دهی ناآرامی‌ها با هدف بی‌ثبات‌کردن کشور و اخلال در انتخابات ریاست‌جمهوری آینده متهم کرد و از اجرای مقررات منع رفت‌وآمد محدود در برخی مناطق برای حفاظت از شهروندان و اموال خبر داد. او همچنین با ابراز نگرانی درباره امنیت نامزدهای انتخابات، از آغاز عملیات قضایی گسترده برای شناسایی عوامل شورش و غارت خبر داد و گفت نزدیک به ۲۰۰ مأمور تحقیق در منطقه پاریس تصاویر و ویدئوها را برای شناسایی مظنونان بررسی خواهند کرد. لوکورنو با اشاره به خسارات گسترده در جریان خشونت‌های روز شنبه نمردن افراد در این حوادث را معجزه توصیف کرد.
 ‏
@@ -3974,14 +3982,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@naya_foriraq
-‏🇾🇪🇾🇪مصدر عسكري للتلفزيون اليمني: تم بعون الله استهداف تحشيدات العدو السعودي في معسكر العلم شرقي الجوف وسقوط عشرات القتلى والجرحى.
-13:51
-1405/07/27
-
-
-
-
 src :@MilitarryWorld
 ‏🔴مدیرعامل شرکت هواپیمایی ایران ایر:
 ‏
@@ -4145,15 +4145,6 @@ src :@defence_news
 ‏#چین #نیروی_دریایی #جنگاوران
 ‏https://t.me/jangaavaran1390
 13:35
-1405/07/27
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇶انباء اولية: الحكم بالسجن 3 سنوات بحق النائب السابق محمد الصيهود نتيجة حصوله على منفعة في قضية عدنان الجميلي
-13:34
 1405/07/27
 
 
@@ -6029,29 +6020,4 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 19:12
-1405/07/26
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏من در حال لذت بردن از تماشای بگا رفتن فرانسه:🇫🇷
-‏
-‏#FUN
-‏➖➖➖➖➖➖➖
-‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
-19:09
-1405/07/26
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏جغیزیه دغترم...
-‏#FUN
-‏➖➖➖➖➖➖➖
-‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
-19:07
 1405/07/26
