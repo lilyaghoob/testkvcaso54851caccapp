@@ -1,3 +1,52 @@
+src :@guard_warriors
+[عکس]
+‏تنگه امروز
+‏( تنگه نیست گشادس لامصب)
+‏
+‏@Guard_Warriors
+19:16
+1405/07/27
+
+
+
+
+src :@Indypersian
+‏⭕️اعتراض‌های فرانسه؛ فرصتی برای قدرت‌گیری راست افراطی
+‏
+‏📌فضای سیاسی فرانسه میان سه بلوک راست افراطی، راست میانه و چپ افراطی تقسیم شده است
+‏
+‏
+‏♦️اعتراض‌های گسترده در فرانسه به خشونت کشیده شده است و بین ۵۰۰ تا ۸۰۰ هزار نفر، بیشتر دانش‌آموز، در شهرهای مختلف این کشور به خیابان‌ها آمده‌اند. بیش از ۱۰۰ مأمور پلیس و شمار بیشتری از معترضان زخمی و تاکنون حدود ۲۰۰۰ نفر بازداشت شده‌اند. ساختمان‌های عمومی مهم از جمله شهرداری لیموژ و دفتر تاریخی گردشگری لیون، تخریب شده‌اند و گروه‌های کوچکی از مردان جوان صدها فروشگاه را غارت کرده‌اند.
+‏بیشتر بخوانید...
+‏
+‏
+‏@INDYPERSIAN
+19:15
+1405/07/27
+
+
+
+
+src :@MilitarryWorld
+‏🔴نتانیاهو: من و ترامپ علیه نیرویی متحد شده‌ایم که همه ما را تهدید می‌کند
+‏
+‏@MilitarryWorld | Parsa
+19:13
+1405/07/27
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏وزیر امور خارجه روسیه، سرگئی لاوروف، اعلام کرد که روسیه قصد ندارد توافق‌های خود با ایران را در حوزه اقتصادی و سرمایه‌گذاری کنار بگذارد و متخصصان روسی نیز به‌تدریج در حال بازگشت به نیروگاه هسته‌ای بوشهر هستند. او همچنین از چشم‌اندازهای امیدوارکننده در زمینه استخراج و انتقال هیدروکربن‌ها خبر داد و گفت پیمانکار روسی همچنان مطالعات فنی و مهندسی مربوط به احداث خط راه‌آهن آینده آستارا را انجام می‌دهد و به‌محض تکمیل مدارک موردنیاز از سوی طرف ایرانی، عملیات ساخت این خط ریلی آغاز خواهد شد.
+‏
+‏🆔@WAR_ROOM_NEWS
+19:13
+1405/07/27
+
+
+
+
 src :@mohem_mat
 ‏کریستیان مانپور، روزنامه‌نگار باسابقه، در سن ۶۸ سالگی اعلام کرد که پس از ۴۳ سال فعالیت، در ماه ژوئن سال ۲۰۲۷ از شبکه CNN کناره‌گیری خواهد کرد.
 ‏
@@ -606,21 +655,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-[عکس]
-‏🇶🇦🇱🇧⚡️ — Qatar is proposing a major investment program to rebuild Lebanon's electricity sector, including two gas-fired power plants and a 20-year LNG supply agreement, according to a document obtained by Reuters.
-‏
-‏The plan includes two 825-megawatt power plants at Deir Ammar in northern Lebanon and Zahrani in the south, alongside an LNG agreement with QatarEnergy. Gas would be delivered through a floating regasification facility capable of processing 3.5 million cubic meters daily and the Arab Gas Pipeline through Syria, with a capacity of 4.5 million cubic meters per day.
-‏
-‏The proposal also includes 800 MW of solar power, 440 MW of wind power, battery storage and an initial 300 MW of electricity imports from Syria.
-‏
-‏The program aims to secure private financing “without upfront Lebanese public-budget capital expenditure” and could be implemented within three years if approved by both governments.
-18:18
-1405/07/27
-
-
-
-
 src :@ClashReport
 ‏Zelensky:
 ‏
@@ -640,17 +674,6 @@ src :@jangaavaran1390
 ‏Lonely Giraffe not in Qeshm island (@LonelyGiraffeh)
 ‏
 ‏@mohem_mat
-18:17
-1405/07/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇺🇦⚡️ — The Trump administration is set to extend deportation protections for approximately 100,000 Ukrainians for another six months, according to WaPo.
-‏
-‏Ukraine's embassy in Washington and a Trump administration official said that the protections, scheduled to expire Monday, would remain in place through April 2027.
 18:17
 1405/07/27
 
@@ -1599,19 +1622,6 @@ src :@ClashReport
 ‏The Magura drones are combat-proven in the Black Sea, where Ukraine has used them against Russian ships.
 ‏
 ‏It is the second known use of the boats by U.S. forces this year.
-17:24
-1405/07/27
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump Approval Falls to Record Low As Republicans Face Midterm Pressure
-‏
-‏President Donald Trump’s approval has dropped to 33%, according to a Washington Post-ABC News-Ipsos poll, the lowest across either of his terms.
-‏
-‏READ MORE
 17:24
 1405/07/27
 
@@ -3846,16 +3856,6 @@ src :@rnintel
 
 
 
-src :@WAR_ROOM_NEWS
-‏🇫🇷⚡️ نخست‌وزیر فرانسه، لکورنو، تأیید کرد که گروه‌های افراطی چپ‌گرا و مسلمانان مهاجر عامل اصلی بیشتر شورش‌ها هستند.
-‏
-‏🆔@WAR_ROOM_NEWS
-14:02
-1405/07/27
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏تصویری واضح از کیل مارک های ناو هواپیمابر هسته ای آبراهام لینکلن در عملیات خشم حماسی   بر اساس این علائم، موارد زیر به عنوان نتایج اعلام شده ذکر شده‌اند:   105 پهپاد عمدتاً پهپادهای شاهد-136 ساخت ایران   23 موشک ضدکشتی  10 زیردریایی عمدتاً زیردریایی‌های از…
@@ -4091,28 +4091,6 @@ src :@defence_news
 ‏• اتصال مشترکان در بیش از نیمی از زمان قطعی اینترنت (بدون دریافت وجه مجدد)
 ‏• باز شدن سایت‌های ایرانی در زمان اتصال
 13:42
-1405/07/27
-
-
-
-
-src :@Indypersian
-‏⭕️ بحران کمبود ۱۰۰ هزار پرستار در ایران؛ بیمارستان‌ها در تنگنا
-‏
-‏📌 دستمزد نامتناسب با مسئولیت، تأخیر در پرداخت مطالبات و تحمیل اضافه‌کاری محور مشترک اعتراض‌های پرستاران بوده است
-‏
-‏♦️ همزمان با روز پرستار در تقویم رسمی ایران، هشدار رئیس کل سازمان نظام پرستاری دربارهٔ جبران نشدن کمبود شدید نیرو در این بخش بار دیگر ابعاد بحرانی را آشکار کرد که برای بیماران به شکل کاهش نسبت پرستار به بیمار نمود یافته است. این صنف به طور مستقیم با جان و سلامت شهروندان سروکار دارد و افزایش فشار کاری، کاهش انگیزهٔ شغلی و تمایل به ترک خدمت اثراتی مستقیم بر کیفیت خدمات درمانی در کشور بر جا گذاشته است.
-‏
-‏احمد نجاتیان در نشست خبری ۲۱ مهر اعلام کرد که کشور دست‌کم ۱۰۰ هزار نیروی پرستاری کم دارد. به گفتهٔ او، در برابر نیاز به ۱.۸ نیروی پرستاری به ازای هر تخت بیمارستانی، این نسبت در تهران تنها ۰.۸ است؛ فاصله‌ای که فشار تأمین خدمات را بر دوش نیروهای شاغل می‌گذارد. این فاصله بالاترین نرخ کمبود در سال‌های اخیر است؛ کمبودی که نتیجهٔ عواملی چون کاهش رغبت به تحصیل در این رشته، افزایش موج مهاجرت میان پرستاران و متناسب نبودن دستمزد با سختی کار است.
-‏
-‏نجاتیان همچنین از خروج حدود سه هزار و ۵۰۰ پرستار از بیمارستان‌های دولتی در سال گذشته خبر داد و تأکید کرد ترک خدمت دیگر صرفاً با هدف مهاجرت انجام نمی‌شود، بلکه تغییر شغل و حتی خانه‌نشینی نیز به دلایل اصلی کناره‌گیری از این حرفه بدل شده است. ترکیب کمبود نیرو و کناره‌گیری شاغلان نشان می‌دهد که بحران کنونی علاوه بر استخدام، به شرایطی مربوط است که ماندگاری در این حرفه را دشوار کرده است.
-‏
-‏🖊 داریوش معمار
-‏
-‏ بیشتر بخوانید... 
-‏
-‏@indypersian
-13:39
 1405/07/27
 
 
@@ -5983,41 +5961,4 @@ src :@OfficialRezaPahlavi
 ‏
 ‏@OfficialRezaPahlavi
 19:17
-1405/07/26
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏کغوسان 🥐 رو رایگان میکنیم برای طبقه مستمند.
-‏
-‏#FUN
-‏➖➖➖➖➖➖➖
-‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
-19:13
-1405/07/26
-
-
-
-
-src :@samueltarikh
-‏⭕️نتانیاهو: اطلاعات قطعی ما نشان می‌دهد ایران و نیروهای نیابتی آن پیش از انتخابات دست به کارهایی خواهند زد
-‏
-‏ما این موضوع را جدی می‌گیریم.
-19:13
-1405/07/26
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏بعضی صحنه‌ها انگار تاریخ انقضا ندارن! :))
-‏شورشیان ۵۷تی 🇮🇷 و شورشیان اسلامگرای فرانسه🇫🇷 !!
-‏
-‏🎓#FACT
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-19:12
 1405/07/26
