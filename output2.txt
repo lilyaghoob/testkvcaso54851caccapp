@@ -2230,15 +2230,6 @@ src :@selena_updates
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇸🇾🇱🇧 Syrian Social Affairs Minister Hind Qubawat:  “Lebanon opened its doors to hundreds of thousands of Syrian families during the most difficult circumstances, and we will never forget that. Our countries are building a new relationship based on good neighborliness.…
-14:17
-1405/07/27
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‏ ‏
@@ -2857,23 +2848,6 @@ src :@defence_news
 src :@rnintel
 ‏🇫🇷⚡️- Gatherings are spontaneously appearing across France in front of townhalls to support mayors and demand more ressources from the French state to enforce the law.
 13:35
-1405/07/27
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — President Trump's approval ratings have fallen to new lows ahead of the November midterm elections, creating difficulties for Republican candidates seeking to retain MAGA support while appealing to independent voters.
-‏
-‏New polls from Washington Post-ABC-Ipsos, NBC News and Fox News place Trump's approval at 33%, 34% and 36%, respectively, while Democrats lead Republicans by 8–10 points among registered voters. Approval of Trump's handling of living costs and inflation has fallen to just 21–27%.
-‏
-‏Trump's approval among Republicans has dropped to 76–79%, with a significant divide between MAGA Republicans, who support him at 95%, and non-MAGA Republicans, at 47%. 
-‏
-‏Meanwhile, 37% of Republicans and Republican-leaning independents want party leaders to move in a different direction.
-‏
-‏A Reuters review found that Republican candidates in 41 of 62 competitive congressional races have distanced themselves from Trump on policy or downplayed their connections to him, with at least 12 removing his name, image or endorsement from campaign websites.
-13:34
 1405/07/27
 
 
@@ -5500,14 +5474,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@didarnews1
-‏🔴حمایت قاطع ترامپ از نتانیاهو در انتخابات!  🔹نتانیاهو یک نخست‌وزیر جنگجوی بزرگ و شریک صلحی حتی بزرگ‌تر در مقابله با جمهوری اسلامی بوده است، کشوری که شعار ۵۱ ساله آن «مرگ بر اسرائیل، مرگ بر آمریکا! ما شیطان کوچک و شیطان بزرگ را نابود خواهیم کرد» است.  🔹چه کشوری…
-19:29
-1405/07/26
-
-
-
-
 src :@defence_news
 ‏درباره وزارت دفاع و به طور کلی صنایع دفاع کشور که عملا نتیجه نهایی عملکرد بسیاری از محصولات آنها در یک سال گذشته دیدیم که طرف راحت تا قلب کشور آمد تا شخص شماره کشور را زد و با کمترین آسیب و هزینه نسبت به ضرباتی که به ما وارد کرد و رفت و حالا منتظر دور بعدی…
 19:21
@@ -6073,39 +6039,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 17:07
-1405/07/26
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏سازمان عملیات تجارت دریایی بریتانیا روز یکشنبه ۲۶ مهر ۱۴۰۵ از اصابت دو پرتابه ناشناس به یک شناور یدک‌کش در نزدیکی سواحل امارات متحده عربی خبر داد.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-17:05
-1405/07/26
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏فرزاد کلبعلی، استاد مدعو دانشکده حقوق و علوم سیاسی دانشگاه تهران، از تدریس در این دانشگاه محروم شده و اجازه ورود به دانشگاه را نیز ندارد؛ بسیج دانشکده حقوق مدعی شده که این محرومیت با پیگیری‌های این تشکل اعمال شده است.
-‏
-‏کانال تلگرامی «دانشجویان متحد» خبر داد کلاس‌های کلبعلی به دلیل حمایت او از دانشجویان از وی گرفته شده است.
-‏ بر اساس این گزارش، بسیج دانشکده حقوق و علوم سیاسی، هم‌زمان با استقبال از حذف این مدرس، دیگر استادان و دانشجویان را نیز تهدید کرده و گفته است اجازه نمی‌دهد دانشگاه به شرایط پیش از ۹ اسفند بازگردد.
-‏
-‏همشهری آنلاین نیز از با متهم‌کردن او به استفاده از عبارت‌های «توهین‌آمیز و براندازانه» در فضای رسانه‌ای، تأکید کرده که این مدرس هیچ‌گاه در استخدام رسمی دانشگاه تهران نبوده است. 
-‏محرومیت کلبعلی از تدریس در حالی گزارش شده که رجانیوز پیش‌تر با انتشار مطلبی علیه او، خواستار برخورد وزارت علوم با این مدرس شده بود.
-‏این رسانه مدعی شده بود تلاش‌هایی برای کنارگذاشتن‌ کلبعلی در دوره وزارت علوم دولت ابراهیم رییسی صورت گرفته، اما او پس از آغاز وزارت حسین سیمایی صراف در دولت مسعود پزشکیان، دوباره به کلاس‌های درس بازگشته است.
-‏
-‏رجانیوز همچنین، بدون ارائه مستنداتی در متن نقل‌شده، کلاس‌های کلبعلی را محل «فعالیت علیه نظام» و «توهین به شهدا» توصیف کرده و مدیریت دانشکده حقوق و علوم سیاسی را به برخورد سیاسی با استادان حامی حکومت متهم کرده بود.
-‏کلبعلی در اظهاراتی که از او در برنامه «میز جنگ و مسئله ایران» منتشر شد، ضمن تأکید بر نقدهای ساختاری خود به حاکمیت، با حمله نظامی اسرائیل به ایران مخالفت کرده بود. به گفته او هدف این حملات را آزادی مردم یا گذار به دموکراسی نمی‌داند و معتقد است مردم ایران قربانی اصلی آن هستند. او همچنین تجزیه ایران و گسترش عمق راهبردی آمریکا و اسرائیل را از اهداف این حملات توصیف کرده بود.
-‏@VahidHeadline
-‏تصویر دوم بالا در کانال‌های غیررسمی مرتبط با نهادهای امنیتی حکومت که خواستار برخورد باهاش بودند منتشر شده بود.
-‏
-‏📡 @VahidOnline
-17:05
 1405/07/26
