@@ -6115,22 +6115,3 @@ src :@RASTAKHIZ_PERSIAN
 ‏@RASTAKHIZ_PERSIAN
 07:01
 1405/07/26
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇸🇦 Saudi military helicopter crashes leaving two crew members dead.
-‏
-‏@BRICSNews
-06:53
-1405/07/26
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Ansar Allah (Houthis) has announced that it shot down a Royal Saudi Land Forces (RSLF) AH-64D/E Apache attack helicopter in Najran, southwestern Saudi Arabia.  According to the statement, the helicopter was conducting operations against Ansar Allah forces…
-06:52
-1405/07/26
