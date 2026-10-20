@@ -1,3 +1,29 @@
+src :@intelslava
+[عکس]
+‏🇰🇵⚡️Kim Jong-un is alive and well
+‏
+‏KCNA has released photos of its leader, showing him inspecting shoes and women's coats.
+‏
+‏Previously, the tabloid newspaper The Sun claimed that the leader of North Korea had fallen into a coma after a cerebral hemorrhage and had been urgently hospitalized in a Beijing hospital for treatment.
+‏
+‏@Intelslava
+10:31
+1405/07/28
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏پس از یک شب اجرای مقررات منع رفت‌وآمد شبانه در فرانسه، سباستین لوکورنو، نخست‌وزیر این کشور، اعلام کرد این محدودیت‌ها امشب نیز در مناطقی که شرایط ایجاب کند اجرا خواهند شد. این تصمیم در حالی اتخاذ شده که با وجود آرامش نسبی در چند شهر، انتقادها از عملکرد و آمادگی پلیس در مهار غارت‌ها و ناآرامی‌ها افزایش یافته و دولت خود را برای تظاهرات دیگری در روز شنبه آماده می‌کند
+‏
+‏🆔@WAR_ROOM_NEWS
+10:29
+1405/07/28
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏نخستین جلسه دادگاه نوید ذره‌بین ایرانی، عکاس و شهروند بهایی ساکن مشهد، پس از بیش از ۹ ماه بازداشت در شعبه اول دادگاه انقلاب این شهر برگزار شد. او همچنان در زندان وکیل‌آباد مشهد نگهداری می‌شود و با درخواست آزادی موقت یا مرخصی کوتاه‌مدتش موافقت نشده است.
@@ -1095,7 +1121,9 @@ src :@wfwitness
 
 
 src :@WAR_ROOM_NEWS
-‏سپاه پاسداران صبح امروز اعلام کرد که یک پهپاد آمریکایی از نوع MQ-9 را بر فراز تنگه هرمز سرنگون کرده است.
+‏سپاه پاسداران صبح امروز اعلام کرد که یک پهپاد آمریکایی از نوع MQ-9 را بر فراز تنگه هرمز سرنگون کرده است
+‏
+‏🆔@WAR_ROOM_NEWS
 08:06
 1405/07/28
 
@@ -1344,22 +1372,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 07:25
-1405/07/28
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، در پستی در ایکس از دیدار و گفت‌وگو با سرگئی لاوروف، وزیر خارجه روسیه، در تهران خبر داد و گفت روابط تهران و مسکو به سطح بی‌سابقه‌ای از همکاری رسیده است.
-‏
-‏عراقچی گفت: «در تهران میزبان لاوروف برای گفت‌وگوهایی به‌موقع بودم. درباره همه موضوعات، از اروپا تا غرب آسیا، از جمله لبنان، فلسطین، اوکراین و یمن گفت‌وگو کردیم.»
-‏
-‏او افزود در این دیدار بر گسترش همکاری‌های اقتصادی و هسته‌ای میان جمهوری اسلامی و روسیه نیز تمرکز شده است.
-‏
-‏عراقچی گفت: «ایران و روسیه هرگز در تاریخ خود به اندازه امروز همکاری نزدیک نداشته‌اند.»
-‏https://iranintl.com/202610202761
-07:15
 1405/07/28
 
 
@@ -3163,38 +3175,6 @@ src :@intelslava
 
 
 
-src :@intelslava
-‏🇺🇸🇺🇦⚡️ — Zelensky is not really helping to solve the problem. I think he does not want this to end.
-‏
-‏But I want people to stop dying
-‏
-‏- Trump.
-‏
-‏@IntelSlava
-23:38
-1405/07/27
-
-
-
-
-src :@intelslava
-‏🇺🇸🇺🇦⚡️ — Recently I was watching a woman on television.
-‏
-‏She is blaming Zelensky. She says:
-‏Zelensky is killing our men. Our men are dying. Our men have lost their legs. They are in psychiatric hospitals.
-‏
-‏She is talking about Ukraine. She is very famous.
-‏They want to put her in prison
-‏
-‏ - Trump.
-‏
-‏@IntelSlava
-23:34
-1405/07/27
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇦🇺🇸 President Zelensky says Ukraine may stop targeting Russian oil refineries in exchange for US Patriot missiles.
 ‏
@@ -3349,18 +3329,6 @@ src :@jangaavaran1390
 
 
 
-src :@intelslava
-‏🇺🇸🇫🇷⚡️ — Paris will very soon become a Muslim city
-‏
-‏- Trump.
-‏
-‏@IntelSlava
-23:08
-1405/07/27
-
-
-
-
 src :@samueltarikh
 ‏⭕️ترامپ درباره اعتراضات فرانسه: پاریس به زودی به شهر مسلمانان تبدیل می‌شود
 23:08
@@ -3387,18 +3355,6 @@ src :@samueltarikh
 
 src :@jangaavaran1390
 ‏ترامپ دوباره حملاتی را به زلنسکی انجام داد و گفت وی خواهان صلح نیست.. وی می‌گوید فرد دیگری باید نمایندگی مردم اوکراین را بر عهده بگیرد... همچنین مدعی شد که آنها کمک‌های زیادی به اوکراین کردند ولی اوکراین هیچ کاری برای آمریکا نکرده
-23:07
-1405/07/27
-
-
-
-
-src :@intelslava
-‏🇺🇸🇺🇦⚡️ — The time has come for someone else to conduct negotiations on behalf of Ukraine
-‏
-‏- Trump.
-‏
-‏@IntelSlava
 23:07
 1405/07/27
 
@@ -6258,16 +6214,4 @@ src :@DEJradio
 ‏#پیرانشهر
 ‏@DEJradio
 10:37
-1405/07/27
-
-
-
-
-src :@mamlekate
-‏📝 قیمت نفت پس از معافیت تحریم‌های روسیه کاهش یافت
-‏
-‏قیمت نفت روز دوشنبه در پی معافیت تحریم‌ها و تعرفه‌های روسیه از سوی دونالد ترامپ، رئیس‌جمهوری آمریکا، کاهش یافت. این معافیت می‌تواند به افزایش صادرات سوخت روسیه بینجامد.
-‏
-‏@mamlekate
-10:31
 1405/07/27
