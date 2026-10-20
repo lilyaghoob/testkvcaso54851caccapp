@@ -1,3 +1,48 @@
+src :@Indypersian
+‏⭕️ هوش مصنوعی اوپن‌ای‌آی برای انجام ماموریت رمزارز دزدید
+‏
+‏📌 این مدل اوپن‌ای‌آی ابتدا تلاش کرد توکن‌های آزمایشی رایگان دریافت کند، اما پس از ناکامی، برنامه‌ای نوشت که ۳۶۲ نشانی کیف پول دارای عبارت‌های بازیابی عمومی را بررسی می‌کرد
+‏
+‏♦️ شرکت اوپن‌ای‌آی از مورد تازه‌ای از رفتار خارج از چارچوب مدل‌های هوش مصنوعی‌اش خبر داد که یک مدل پژوهشی بدون دریافت مجوز، از کیف پول رمزارز برای پرداخت هزینه‌های آزمایش یک برنامه در شبکهٔ آزمایشی اتریوم استفاده کرده است.
+‏
+‏به گزارش فورچون، این اتفاق در ۲۶ ژوئن رخ داد، وقتی از مدل خواسته شد یک برنامهٔ معاملات رمزارز را به‌روزرسانی کند و کد آن را روی شبکهٔ آزمایشی «سپولیا» (Sepolia) اتریوم اجرا کند. در دستور اولیه، نه کیف پول دارای موجودی در اختیار مدل قرار گرفته بود و نه مجوزی برای خرج کردن توکن‌ها صادر شده بود.
+‏
+‏این مدل ابتدا تلاش کرد توکن‌های آزمایشی رایگان را از خدمات ویژهٔ توسعه‌دهندگان دریافت کند، اما پس از ناکامی، برنامه‌ای نوشت که ۳۶۲ نشانی کیف پول مرتبط با عبارت‌های بازیابی عمومی را بررسی می‌کرد. عبارت بازیابی مجموعه‌ای از کلمات است که مانند رمز عبور امکان دسترسی به دارایی‌های کیف پول رمزارز را فراهم می‌کند.
+‏
+‏ بیشتر بخوانید... 
+‏
+‏@indypersian
+08:20
+1405/07/28
+
+
+
+
+src :@intelslava
+‏🇪🇺🇷🇺🇨🇳⚡️ — The EU intends to counter Russia and China in the Arctic and will strive for unlimited access to the Northern Sea Route, stated Kaja Kallas.
+‏
+‏This is despite their inability to regain control over France.
+‏
+‏@Intelslava
+08:20
+1405/07/28
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇻🇪 ABC: The U.S. is reportedly preparing a new phase of its involvement in Venezuela, including a reshuffle of Delcy Rodríguez’s government toward a more technical cabinet with fewer figures tied to Maduro’s political apparatus, with the possible exit of Diosdado Cabello among the changes under discussion.
+‏
+‏The Department of Energy is  also reportedly planning an event for January 2027, around the anniversary of Maduro’s capture, to present how oil fields will be divided among major oil companies, while Washington is reportedly preparing to hand over former Vice President Tareck El Aissami and other officials to U.S. justice.
+‏
+‏@wfwitness
+08:17
+1405/07/28
+
+
+
+
 src :@mohem_mat
 ‏خبرنگار الان: زلنسکی می‌گوید شما در سمت اشتباه تاریخ ایستاده‌اید.
 ‏
@@ -156,6 +201,8 @@ src :@wfwitness
 ‏All occupants survived, with several injured, while the Army investigates the cause and authorities are looking into a possible mechanical failure.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 08:07
 1405/07/28
 
@@ -2243,18 +2290,6 @@ src :@wfwitness
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، و مائورو ویرا، وزیر امور خارجه برزیل، در گفتگویی تلفنی دربارهٔ مسائل منطقه‌ای و آخرین تحولات بین‌المللی تبادل نظر کردند.
-‏به گزارش ایسنا، عراقچی در این تماس وزیر خارجه برزیل را در جریان آخرین تحولات منطقه قرار داد. دو طرف همچنین بر اهمیت ادامهٔ رایزنی‌های دیپلماتیک و تلاش‌های سیاسی برای کاهش تنش‌ها و برقراری ثبات و امنیت پایدار در منطقه تاکید کردند.
-‏
-‏@indypersian
-00:31
-1405/07/28
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴وضعیت عجیب پاریس
@@ -2382,14 +2417,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 00:08
-1405/07/28
-
-
-
-
-src :@intelslava
-‏French President Emmanuel Macron is visiting the UAE, where he inspected troops
-00:01
 1405/07/28
 
 
