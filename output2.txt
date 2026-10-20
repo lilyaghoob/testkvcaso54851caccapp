@@ -1,3 +1,37 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇴🇲 UKMTO: A tanker was involved in an incident with military forces approximately 121 nautical miles east of Duqm, Oman, during ongoing military activity in the region.
+‏
+‏@wfwitness
+17:24
+1405/07/28
+
+
+
+
+src :@MilitarryWorld
+‏🔴وزیر خزانه‌داری آمریکا: ا‌یران در حال حاضر هیچ محموله نفتی در دریا ندارد
+‏
+‏از ماه اوت تا کنون هیچ بارگیری در تأسیسات نفتی ایران در جزیره خارک مشاهده نکرده‌ایم
+‏
+‏@MilitarryWorld | Parsa
+17:24
+1405/07/28
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏طبق گزارشات انصارالله (حوثی‌ها) ارتفاع راهبردی جبل هان در غرب شهر تعز را از نیروهای شورای رهبری ریاست‌جمهوری یمن (PLC) تحت حمایت عربستان سعودی تصرف کرده‌اند. انصارالله ویدئویی منتشر کرده که در آن نیروهای این گروه بر فراز قله این ارتفاع دیده می‌شوند و ظاهراً نیروهای PLC را از مواضع خود بیرون رانده‌اند. همچنین حضور یکی از نیروهای انصارالله بر فراز جبل هان، مشرف به شهر تعز، در تصاویر منتشرشده به‌صورت بصری تأیید شده است
+‏
+‏🆔@WAR_ROOM_NEWS
+17:23
+1405/07/28
+
+
+
+
 src :@jangaavaran1390
 ‏بر اساس گزارشی که روزنامه قطری العربی الجدید منتشر کرده است، قطر و پاکستان طرحی برای ایجاد صلح و سازش ارائه نموده‌اند که منافع و خواسته‌های طرف‌های آمریکایی و ایرانی را در نظر می‌گیرد. هدف اصلی از ارائه این طرح، پیشگیری از تشدید مجدد تنش‌ها و تسهیل مسیر بازگشت دو طرف به میز مذاکرات می‌باشد.
 ‏
@@ -1043,33 +1077,6 @@ src :@tglobaleye
 
 
 
-src :@ClashReport
-[عکس]
-‏Details of the Mecca Joint Defence Agreement between Türkiye, Saudi Arabia and Pakistan have emerged after the 16-article text was submitted to the Turkish parliament:
-‏
-‏Collective defense — An attack on one member will be treated as an attack on all.
-‏
-‏Logistics — Members will provide each other logistical support, including weapons, ammunition and equipment.
-‏
-‏Intelligence — The countries will share intelligence with each other but not with third parties.
-‏ 
-‏Defense industry — Close cooperation in defense and security, with joint production encouraged.
-‏
-‏Technology — Joint R&D and innovation projects in advanced technology fields.
-‏
-‏Military readiness — Joint exercises and training to boost operational readiness. 
-‏
-‏Defense Committee — A committee including the three countries' foreign and defense ministers will be set up.
-‏
-‏New members — Any new member will need the approval of all three countries.
-‏
-‏Duration — The agreement will last 10 years, after which any country can withdraw.
-16:05
-1405/07/28
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇾🇹🇷 Libya’s eastern-based House of Representatives has approved the maritime agreement with Turkey, reversing its 2020 boycott of the deal, according to reports published on 20 October. The agreement was originally signed in November 2019 between Turkey and Libya’s then Tripoli-based Government of National Accord.
@@ -1204,21 +1211,6 @@ src :@Middle_East_Spectator
 ‏This is not confirmed as of now, but widely reported in Iranian outlets.
 ‏
 ‏@Middle_East_Spectator
-15:59
-1405/07/28
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: Türkiye, Qatar, Pakistan and Indonesia will sign a memorandum of understanding in Doha to strengthen cooperation in the defense industry, Türkiye's Defense Industry Agency (SSB) announces.
-‏
-‏The deal builds on existing projects, including Bayraktar TB2 drones and armored vehicles supplied to Qatar, corvettes built for Pakistan's navy in Istanbul and Karachi, and the Kaplan MT medium tank developed jointly with Indonesia. 
-‏
-‏The SSB said Turkish defense and aerospace exports topped $10 billion in 2025, up 48% from the year before, and have passed $11 billion over the past 12 months. 
-‏
-‏Türkiye is now the world's 11th-largest arms supplier, having increased its exports by 122% over the past five years.
 15:59
 1405/07/28
 
@@ -1917,20 +1909,6 @@ src :@Parvazdaroj
 
 
 
-src :@IranintlTV
-[عکس]
-‏علی عبداللهی، رییس ستادکل نیروهای مسلح جمهوری اسلامی، سه‌شنبه ۲۸ مهرماه در پیامی اعلام کرد کشورهای میزبان آمریکا در منطقه بدانند اگر جنگ جدیدی علیه ایران آغاز شود، آتش آن دامن همه را می‌گیرد.
-‏
-‏رییس ستادکل نیروهای مسلح، با اشاره به انتخابات کنگره آمریکا، خطاب به دونالد ترامپ نوشت: «چه قبل و چه بعد از انتخابات و با هر نتیجه‌ای اگر خود و یا به تحریک اسرائیل، علیه جمهوری اسلامی اقدام کنید، نیروهای مسلح بلافاصله، با شدت و قدرت و به‌صورت دردآور منافع آمریکا را بدون محدودیت، هدف قرار خواهند داد.»
-‏
-‏عبداللهی اضافه کرد: «به سازمان‌های بین‌المللی به ویژه آژانس انرژی اتمی هشدار می‌دهیم، از ادامه ایفای نقش گرگ در لباس میش خودداری کرده و از ادامه اظهارنظرهای بی‌اساس در مورد مراکز هسته‌ای ایران پرهیز نمایند.»
-‏https://www.iranintl.com/fa/202610206279
-15:01
-1405/07/28
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇴🇲/🇮🇷 NEW: UKMTO reports an ‘incident’ between a tanker and military forces off the coast of Duqm, Oman
@@ -1950,22 +1928,6 @@ src :@WAR_ROOM_NEWS
 ‏به گزارش بلومبرگ نخست‌وزیر بریتانیا، از نیروی هوایی سلطنتی این کشور خواسته است مأموریت‌های دفاعی برای حفاظت از عربستان سعودی در برابر حملات حوثی‌ها (انصارالله) انجام دهد. بر این اساس، جنگنده‌های تایفون نیروی هوایی بریتانیا برای کمک به دفاع از شهرها و زیرساخت‌های عربستان در برابر حملات هوایی مستقر خواهند شد
 ‏
 ‏🆔@WAR_ROOM_NEWS
-14:59
-1405/07/28
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏خبرگزاری رویترز به نقل از سه مقام ارشد جمهوری اسلامی و یک منبع آگاه در ایران گزارش داد تهران معتقد است که «دونالد ترامپ آماده است برای شکستن بن‌بست در جنگ هشت‌ماهه، حملات نظامی را از سر بگیرد». 
-‏
-‏یکی از این مقام‌ها به رویترز گفت: «ایران خود را برای ازسرگیری حملات اسرائیل و آمریکا آماده می‌کند، نه برای توافق با آمریکا با هدف پایان دادن به جنگ. ساختار روحانیت مصمم است اجازه ندهد ترامپ به پیروزی سیاسی دست یابد». 
-‏
-‏این خبرگزاری به نقل از این منابع نوشت «با توجه به خودداری تهران از دادن امتیازهایی که به باور این کشور می‌تواند از نظر سیاسی به سود ترامپ تمام شود»، احتمال دستیابی به پیشرفتی اساسی در مذاکرات پیش از انتخابات اندک است. 
-‏
-‏رویترز همچنین نوشت: «یکی از مقام‌های ایرانی گفت نگاه تهران مبنی بر اینکه واشینگتن در پایبندی به دیپلماسی قابل اعتماد نیست، ریشه در حملاتی دارد که مذاکرات پیشین را مختل کرده‌اند».
-‏ iranintl.com/fa/202610206858
 14:59
 1405/07/28
 
@@ -3534,19 +3496,6 @@ src :@OSINTWarfare
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴ترامپ : در سراسر جهان، ۵۹ شهر دارای بنای طاق پیروزی هستند. واشنگتن دی‌سی تنها شهری است که این بنا را ندارد.
-‏
-‏با توجه به اینکه بنای طاق پیروزی در پاریس، که توسط افراطی‌های جناح چپ تصرف شده است، در حال حاضر در معرض خطر قرار دارد، ما فرض می‌کنیم که فقط ۵۸ بنای طاق پیروزی باقی مانده است
-‏
-‏@MilitarryWorld | Parsa
-12:49
-1405/07/28
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‏ ‏
@@ -4465,16 +4414,6 @@ src :@P_raetorio
 [عکس]
 ‏#تکمیلی | شایعه مرگ کیم جونگ اون؛ گزارش روزنامه سان و ادعاهای مخالف چینی، بدون تأیید  روزنامه سان و حساب هایی پیرامون مرگ کیم جونگ اون شروع به نوشتن مطالبی کرده اند که منشا ان ها توییت شخص وانجون شی است در باره شایعه مرگ کیم جونگ اون، روزنامه بریتانیایی The…
 10:42
-1405/07/28
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏نتانیاهو به کانال ۱۴:دستورالعمل امروز من به موساد، ارتش اسرائیل و سرویس‌های امنیتی، سرنگونی رژیمِ جمهوری اسلامی در ایران است
-‏
-‏🆔@WAR_ROOM_NEWS
-10:41
 1405/07/28
 
 
