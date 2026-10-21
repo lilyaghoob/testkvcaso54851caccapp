@@ -372,16 +372,6 @@ src :@Fighter_Radar
 
 
 
-src :@Navy_Iranian
-‏🔴 گزارش از حمله به یک پرتابگر موشک در سیریک
-‏
-‏@Navy_Iranian | #Admiral
-01:59
-1405/07/30
-
-
-
-
 src :@Fighter_Radar
 ‏حمله پهپاد آمریکا به یک لانچر موشکی دیگر رژیم جمهوری اسلامی در سیریک   📝  AmirF15  👑 @Fighter_Radar
 01:59
