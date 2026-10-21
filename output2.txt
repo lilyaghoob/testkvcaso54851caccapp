@@ -1,3 +1,96 @@
+src :@mohem_mat
+[عکس]
+‏کوه نمک جاشک،
+‏عکاس حسین صفری از شیراز
+‏
+‏اهدایی یکی از دوستان عضو کانال
+‏
+‏@mohem_mat
+12:42
+1405/07/29
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇬🇧 — UK government approves Shell's Jackdaw North Sea gasfield; production starts this month. 
+‏
+‏Aims to boost energy security and cut import reliance, but faces criticism from environmental groups and some Labour MPs over climate concerns. Source: The Guardian
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+12:40
+1405/07/29
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Image shows a drone flying at a very low altitude above Beirut, Lebanon.
+‏
+‏@wfwitness
+12:40
+1405/07/29
+
+
+
+
+src :@didarnews1
+‏🔴معاون سیاسی سپاه: 
+‏
+‏🔹در صورت هدف قرار گرفتن زیرساخت‌های ما، کابل‌های اینترنتی در تنگۀ هرمز هدف قرار می‌گیرد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+12:39
+1405/07/29
+
+
+
+
+src :@samueltarikh
+‏نشریه فایننشال تایمز:  نتانیاهو، برنامه‌ریزی کرده بود که هفته پیش یک حمله بزرگ علیه ایران آغاز کند، این عملیات نظامی تمام عیار قرار بود چندین روز به طول انجامد و بیش از آنچه در جنگ 40 روزه حملات هوایی انجام شده بود باشد، و هدف آن تاسیسات هسته‌ای، نیروگاه‌های…
+12:39
+1405/07/29
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇷🇺🇺🇸 Russian President Putin says he is interested in restoring cooperation with United States.
+‏
+‏@BRICSNews
+12:38
+1405/07/29
+
+
+
+
+src :@samueltarikh
+‏نشریه فایننشال تایمز:
+‏
+‏نتانیاهو، برنامه‌ریزی کرده بود که هفته پیش یک حمله بزرگ علیه ایران آغاز کند،
+‏این عملیات نظامی تمام عیار قرار بود چندین روز به طول انجامد و بیش از آنچه در جنگ 40 روزه حملات هوایی انجام شده بود باشد، و هدف آن تاسیسات هسته‌ای، نیروگاه‌های برق و سایر زیرساخت‌های حیاتی انرژی ایران بود.
+12:38
+1405/07/29
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸🇺🇦⚡️ — A new Russian drone powered by a gasoline engine has been spotted on the front lines.
+‏
+‏@IntelSlava
+12:37
+1405/07/29
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏A new Russian drone has been spotted on the front lines. It resembles the Lancet in design but is powered by a gasoline engine.
@@ -1527,15 +1620,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-[عکس]
-‏Witkoff arrived in St. Petersburg to meet with Putin for peace talks.
-10:13
-1405/07/29
-
-
-
-
 src :@mohem_mat
 ‏واشنگتن‌پست: ترامپ باور دارد روسیه در اوکراین پیروز می‌شود
 ‏
@@ -1591,23 +1675,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 10:05
-1405/07/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇮🇶 Shafaq News⁠: The Iraqi Army’s 17th Division has assumed responsibility for security in Hawija, southwest of Kirkuk, under a new redeployment plan.
-‏
-‏The division is replacing Federal Police units, which are moving to Al-Latifiyah, south of Baghdad, to take over duties previously handled by the army.
-‏
-‏The redeployment comes amid renewed ISIS activity around Hawija, including recent attacks against Federal Police positions and surveillance equipment.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:04
 1405/07/29
 
 
@@ -1698,19 +1765,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 10:00
-1405/07/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The UK government has approved Shell’s controversial Jackdaw gasfield in the North Sea, with production set to begin later this month. 
-‏
-‏The decision aims to boost energy security and reduce reliance on imports but has sparked criticism from environmental groups and some Labour MPs over climate concerns. 
-‏
-‏Source: The Guardian
-09:59
 1405/07/29
 
 
@@ -1963,37 +2017,6 @@ src :@jangaavaran1390
 
 
 
-src :@mohem_mat
-[عکس]
-‏روزها
-‏
-‏به مناسبت زادروز "کری فیشر" فقید
-‏پرنسس لیا محبوب سری فیلمهای جنگ ستارگان
-‏
-‏جورج لوکاس گفته بود کری فیشر فقط نقش پرنسس لیا را بازی نکرد، او آن را به واقعیت تبدیل کرد.
-‏به باور لوکاس، لیا در فیلمنامه زنی قوی و باهوش بود، اما کری با شوخ‌طبعی، صراحت و اعتمادبه‌نفس خودش به او روح داد و باعث شد
-‏این شخصیت از یک «پرنسس» ساده به نمادی از قدرت و استقلال زنانه تبدیل شود.
-‏ «او پرنسس ما بود، اما خودش فرمانده‌ی همه‌چیز بود.من فقط شخصیت را نوشتم، کری آن را زنده کرد.»
-‏و در پایان جمله‌ای گفت که تبدیل به نقل‌قولی ماندگار شد:
-‏ «من پرنسس‌هایی ساختم، ولی کری از آن‌ها ژنرال ساخت.»
-‏
-‏کری فیشر 
-‏همچنین دختر 
-‏دبی رینولدز 
-‏هنرپیشه معروف دهه های شصت و هفتاد هالیوود بود در عکس بالا در سن شش سالگی در پشت صحنه، تئاتر بازی کردن مادرش را نگاه می کند 
-‏تراژدی زندگی این مادر و دختر ان بود که ۹ سال قبل "کری فیشر" بر اثر سکته قلبی درگذشت و مادرش هم از غصه مرگ دختر محبوبش یک روز بعد فوت کرد
-‏
-‏بخش تازه فعال شده کانال:
-‏سیمای خانواده
-‏امروز غم انگیز تمام شد
-‏
-‏@mohem_mat
-09:15
-1405/07/29
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️حساب کاربری وزارت امور خارجه آمریکا  در شبکه‌های اجتماعی روز سه‌شنبه ۲۸ مهرماه با انتشار پیامی ضمن محکوم کردن اعدام علی‌سینا مصطفوی، اعلام کرد ایالات متحده «قاطعانه و استوار در کنار مردم شجاع ایران ایستاده است.»
@@ -2082,22 +2105,6 @@ src :@cataphract1
 ‏
 ‏🖋#Ethan
 ‏📃@Cataphract1
-08:51
-1405/07/29
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏یدالله جوانی، معاون سیاسی سپاه پاسداران، چهارشنبه ۲۹ مهر در مصاحبه با شبکه العالم، گفت که در صورت هدف قرار گرفتن زیرساخت‌های ما، کابل‌های اینترنتی در تنگه هرمز هدف قرار می‌گیرد.
-‏
-‏معاون سیاسی سپاه افزود: «پایگاه‌های آمریکا در منطقه نابود شده و این پایگاه‌ها در دوردست‌ها نیز می‌توانند نابود شوند.»
-‏
-‏جوانی اضافه کرد که از آنجایی که دشمنان ما پذیرش شکست برایشان سخت است، جمهوری اسلامی اقداماتش هوشمندانه و بعضا تهاجمی خواهد بود.
-‏
-‏معاون سیاسی سپاه پاسداران ادامه داد: «علت تغییر چنین راهبردی به شکل تهاجمی و اقداماتی که بتواند بازدارندگی ما را افزایش بدهد، به این دلیل است که آمریکا برای همیشه خیال تجاوز را از سر خودش بیرون کند.»
-‏https://iranintl.com/202610212415
 08:51
 1405/07/29
 
@@ -4722,19 +4729,6 @@ src :@Parvazdaroj
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸⚡️ — Donald Trump via Truth Social:
-‏
-‏"Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in our Country's History, I have spent, or will be spending, over 400 Million Dollars by Election Day. More than 300 Million Dollars has already been spent on Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity, and more. It is my Great Honor to do so on behalf of the Republican Party, which has done so much to bring our Country back from the Edge of Oblivion. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP"
-‏
-‏@IntelSlava
-20:55
-1405/07/28
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏لحظاتی پیش کانال 15 اسرائیل به نقل از مقامات ارشد اسرائیلی گزارش داد:
 ‏
@@ -4805,20 +4799,6 @@ src :@Mena_Live
 ‏
 ‏Vivek's odds of winning have dropped to an all time low as mainstream right wing figures are now openly denouncing him.
 20:50
-1405/07/28
-
-
-
-
-src :@intelslava
-‏🇷🇺🇫🇷⚡️ — Russian Embassy warns Russian citizens in France to avoid protests and crowds amid escalating unrest.
-‏
-‏French authorities may impose local curfews due to riots and police clashes.
-‏
-‏Citizens are urged to stay vigilant and monitor local announcements ahead of demonstrations on October 24 and November 5.
-‏
-‏@IntelSlava
-20:49
 1405/07/28
 
 
@@ -5083,29 +5063,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 20:05
-1405/07/28
-
-
-
-
-src :@didarnews1
-‏🔴دبیر شورای عالی امنیت ملی: به هیچ وجه ذره‌ای از مواد هسته‌ای غنی‌شده از ایران خارج نخواهد شد /فرمانده ارتش پاکستان: به صراحت اعلام می‌کنیم مرز بین ایران و پاکستان باز است
-‏
-‏سرلشکر محسن رضایی، نماینده رهبر معظم انقلاب و دبیر شورای عالی امنیت ملی در دیدار با عاصم منیر، فرمانده ارتش پاکستان با تاکید بر اینکه همه مواد هسته‌ای غنی‌سازی‌شده در ایران باقی خواهد ماند، گفت:
-‏🔹حتی ذره‌ای از مواد هسته‌ای غنی‌شده از ایران خارج نخواهد شد و این مواد سرمایه بزرگ و ثروت ملی ایرانیان برای استفاده در داخل کشور است.
-‏
-‏سرلشکر محسن رضایی تصریح کرد:
-‏🔹همه مردم و مسئولان ایران یکپارچه و یکصدا به این نتیجه رسیده‌اند که تا اعتمادسازی از سوی آمریکا صورت نگیرد مذاکره‌ای در کار نخواهد بود و شروع این اعتمادسازی، تحقق شروط ایران است.
-‏🔹وی همچنین بر برادری ملت‌های ایران و پاکستان تاکید کرد.
-‏
-‏عاصم منیر، فرمانده ارتش پاکستان با تاکید بر بازگشایی مرز بین ایران و پاکستان اظهار داشت:
-‏🔹به صراحت اعلام می‌کنیم که مشکل مرزهای ایران و پاکستان برطرف شده و از امروز صبح مرز بازگشایی شده است.
-‏
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-20:03
 1405/07/28
 
 
@@ -5427,17 +5384,6 @@ src :@samueltarikh
 
 
 
-src :@samueltarikh
-[عکس]
-‏🚨یک بل-بوئینگ ارتش آمریکا از پایگاه دیه‌گو گارسیا به امارات پرواز کرد
-‏
-‏اصلی‌ترین کاربرد آن انتقال سپاه تفنگداران دریایی ایالات متحده است.
-19:03
-1405/07/28
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏طی روز های گذشته ( ٢ روز پیش) یک هلیکوپتر AH-1Z Viper متعلق به اسکادران آموزشی 303، که بخشی از گروه هوایی 39، وابسته به بال سوم نیروی دریایی ایالات متحده است، مجبور به فرود اضطراری در نزدیکی اسکله پارک ایالتی "Lake Havasu State Park" در شهر لیک-هاواسو-سیتی (ایالت آریزونا) شده است
@@ -5477,17 +5423,6 @@ src :@DEJradio
 ‏#اسرائیل #آمریکا #جنگ #جمهوری_اسلامی
 ‏@DEJradio
 19:00
-1405/07/28
-
-
-
-
-src :@samueltarikh
-‏⭕️نتانیاهو: نابودی نظام ایران به معنای ساقط کردن حزب‌الله لبنان نیز خواهد بود.
-‏
-‏🚨نتانیاهو: 
-‏من دیروز، دوشنبه، با ترامپ در مورد اهمیت حذف رژیم ایران صحبت کردم
-18:59
 1405/07/28
 
 
@@ -6445,19 +6380,6 @@ src :@tglobaleye
 
 
 
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇱🇾 🇹🇷 — Libya's eastern House of Representatives approved the 2019 maritime agreement with Türkiye, reversing its 2020 boycott. 
-‏
-‏The deal, signed by President Erdogan and then-Tripoli head Fayez al-Sarraj, defines Eastern Mediterranean maritime zones. The parliament, aligned with Khalifa Haftar, had previously declared it null. This shift follows the election of a new speaker who chaired a Libyan-Turkish friendship committee and increased Turkish outreach to eastern Libya. Approval may enable expanded Turkish offshore exploration in Libyan waters.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-16:01
-1405/07/28
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏حسین محبی، سخنگوی سپاه پاسداران، با اشاره به کابل‌های ارتباطی زیر تنگه هرمز، آن‌ها را از «اهداف جدید» حملات سپاه دانست. او همچنین تهدید کرد که هر اقدام نظامی تازه آمریکا، حتی در ابعادی محدود، جهان را با «بحران جدی انرژی» روبه‌رو خواهد کرد.
@@ -6951,32 +6873,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/1405/07/28/410659/
 12:44
-1405/07/28
-
-
-
-
-src :@KayhanLondonChannel
-[عکس]
-‏⁠تداوم تهدید‌ و باج‌خواهی؛ استراتژی جمهوری اسلامی در برابر واشنگتن
-‏ 
-‏- به گزارش روزنامه‌ «واشنگتن‌پست»، رهبران جمهوری اسلامی روزهای باقیمانده تا انتخابات میاندوره‌ای آمریکا در ۳ نوامبر را پنجره‌ای حیاتی و تعیین‌کننده می‌دانند. مقامات رژیم ایران و دیپلمات‌های منطقه به این روزنامه گفته‌اند که تهران با پیش‌بینی کاهش حساسیت دونالد ترامپ به قیمت‌های بالای انرژی پس از انتخابات، در حال تشدید حملات به کشتی‌ها در تنگه هرمز است تا حداکثر «درد اقتصادی» را پیش از رأی‌گیری بر ایالات متحده وارد کنند.
-‏ 
-‏- به گفته‌ی دو مقام رژیم ایران، هدف جمهوری اسلامی «تنبیه» ترامپ در این انتخابات است؛ مشابه تأثیری که بحران گروگانگیری سفارت آمریکا در تهران بر کارزار انتخاباتی جیمی کارتر در سال ۱۹۸۰ گذاشت.
-‏ 
-‏- رسانه‌های دولتی و نیمه‌رسمی جمهوری اسلامی به شدت انتخابات میاندوره‌ای آمریکا را از نگاه تحلیلی خود پوشش می‌دهند. همچنین بطور مداوم در برنامه‌های تلویزیونی قیمت انرژی را رصد و تحلیل می‌کنند که چگونه شکست جمهوریخواهان می‌تواند توانایی ترامپ برای ادامه جنگ در نیمه‌ی دوم دوره‌اش را محدود کند.
-‏ 
-‏https://kayhan.london/1405/07/28/410648/
-12:41
-1405/07/28
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏An Islamic Republic of Iran Air Force (IRIAF) HESA Kowsar fighter is seen conducting a patrol over Dezful, western Iran, this morning.
-‏
-‏Around six Kowsar fighters (Iranian-modified F-5s) have been accepted into service despite previously being rejected during quality-control inspections.
-12:38
 1405/07/28
