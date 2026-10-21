@@ -1,7 +1,24 @@
-src :@GeoPWatch
+src :@MilitarryWorld
 [عکس]
-‏#BREAKING 🇺🇸❌🇮🇷 - The U.S State Department is preparing to issue an ordered departure of some personnel and family members at US embassies across the region.  Select personnel and family members at U.S. Embassies across the region will be forced to leave.
-23:17
+‏🔴تامی پیگات سخنگوی وزارت امور خارجه ایالات متحده آمریکا درمورد گزارش‌های تخلیه‌سفارت خانه ها:
+‏
+‏«این نادرست است. وزارت امور خارجه آمریکا دستور خروج کارمندان غیراضطراری دولت آمریکا و اعضای خانواده‌هایشان را تنها در عربستان سعودی صادر کرده است.
+‏
+‏حوثی‌های تحت حمایت ایران به طور فزاینده‌ای درگیر خصومت‌ها علیه عربستان سعودی شده‌اند، از جمله حملات به فرودگاه‌های غیرنظامی و سایر زیرساخت‌های حیاتی که منجر به تلفات غیرنظامی و اختلالات شدید در سفر شده است.
+‏
+‏امنیت و ایمنی پرسنل وزارتخانه و خانواده‌هایشان همچنان بالاترین اولویت ماست و ما به اتخاذ تمام اقدامات لازم برای محافظت و حمایت از آن‌ها ادامه خواهیم داد.»
+‏
+‏@MilitarryWorld | Maverick
+23:22
+1405/07/29
+
+
+
+
+src :@Alibk3
+[عکس]
+‏أوامر بمغادرة موظفي السفارة الأميركية وعائلاتهم من قطر والبحرين
+23:21
 1405/07/29
 
 
@@ -9,11 +26,76 @@ src :@GeoPWatch
 
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇮🇷 NEW: Explosions took place on Sirik, Iran, about an hour ago
+‏— 🇮🇷 NEW: Various channels report that some explosions were heard in Sirik; this image has been circulating
 ‏
-‏Cause is currently unclear.
+‏The cause is currently unknown.
 ‏
-‏@Middle_East_Spectator
+‏@Middle_East_Spectatpr
+23:21
+1405/07/29
+
+
+
+
+src :@Alibk3
+‏برای عزیزانی که مایل‌اند اخبار را به زبان فارسی و انگلیسی دنبال کنند، می‌توانند از طریق لینک زیر کانال ما را دنبال کنند:
+‏
+‏Dear brothers٫ Follow our channel for content in both English and Persian.
+‏
+‏https://t.me/Ali_bk_8
+23:21
+1405/07/29
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇮🇷🇺🇸 Iran's IRGC says it has a "Father of All Bombs" to counter America's "Mother of All Bombs."
+‏
+‏@BRICSNews
+23:20
+1405/07/29
+
+
+
+
+src :@jangaavaran1390
+‏گزارش ها از وقوع انفجار در جنوب کشور (سیریک)
+23:20
+1405/07/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏گزارش‌هایی مبنی بر وقوع دوباره انفجارها در سریک منتشر شده است
+23:19
+1405/07/29
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸 - Multiple explosions were just heard in Sirik, Hormozgan Province, Iran.   Reportedly, Iranian ASBMs were launched at vessels in the Strait of Hormuz.
+23:18
+1405/07/29
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش‌هایی مبنی بر وقوع دوباره انفجارها در سریک منتشر شده است
+23:17
+1405/07/29
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏#BREAKING 🇺🇸❌🇮🇷 - The U.S State Department is preparing to issue an ordered departure of some personnel and family members at US embassies across the region.  Select personnel and family members at U.S. Embassies across the region will be forced to leave.
 23:17
 1405/07/29
 
@@ -425,7 +507,7 @@ src :@naya_foriraq
 
 
 src :@jangaavaran1390
-‏به گزارش خبرگزاری فرانسه، به کارکنان سفارت آمریکا در عربستان خواست که به همراه خانواده‌های خود این کشور را ترک کنند.
+‏به گزارش خبرگزاری فرانسه، از کارکنان سفارت آمریکا در عربستان خواسته شده که به همراه خانواده‌های خود این کشور را ترک کنند.
 ‏در برخی از منابع گفته شده به شهروندان در اردن ، بحرین و قطر هم گفته شده
 22:56
 1405/07/29
@@ -3650,16 +3732,6 @@ src :@Navy_Iranian
 
 
 
-src :@MilitarryWorld
-‏🔴پزشکیان: از شهادت نمیترسم 
-‏
-‏@MilitarryWorld | Parsa
-19:52
-1405/07/29
-
-
-
-
 src :@defence_news
 ‏🔷شورای عالی امنیت ملی ایران از آخرین ابزار بازدارنده خود استفاده کرد. مسعود پزشکیان، رئیس جمهور ایران، از طریق شهباز شریف، نخست وزیر پاکستان - که در حال حاضر تنها کانال ارتباطی مخفی مورد اعتماد بین واشنگتن و تهران است - یک اولتیماتوم استراتژیک سه مرحله‌ای و رسماً ساختارمند را در صورت ادامه حملات ایالات متحده ابلاغ کرد:
 ‏
@@ -3731,19 +3803,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏#سلاح_اتمی
 ‏
 ‏@RASTAKHIZ_PERSIAN
-19:45
-1405/07/29
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏حادث عجیب در نیروی دریایی شوروی؛ برخورد اژدر آموزشی به زیردریایی هسته‌ای خودی
-‏
-‏در سال ۱۹۸۹، زیردریایی هسته‌ای شوروی K-178 هنگام یک رزمایش دریایی هدف اژدر آموزشی شلیک‌شده از زیردریایی دیگر قرار گرفت. علت حادثه، فراموش‌شدن غیرفعال‌سازی کانال عمودی سامانه هدایت اژدر عنوان شده است؛ قابلیتی که باید اجازه می‌داد اژدر از زیر هدف عبور کرده و برای بازیابی به سطح آب بازگردد. در نتیجه، اژدر به سمت K-178 هدایت شد و در عمق حدود ۱۵۰ متری به بدنه خارجی زیردریایی برخورد کرد و در آن گیر افتاد. خوشبختانه، بدنه تحت فشار و بخش‌های حیاتی زیردریایی آسیب جدی ندیدند و اژدر پس از بازگشت زیردریایی به پایگاه خارج شد؛ حادثه‌ای که می‌توانست پیامدهای بسیار خطرناک‌تری داشته باشد.
-‏
-‏#روسیه #شوروی #زیردریایی #اژدر #نیروی_دریایی #تاریخ_نظامی
 19:45
 1405/07/29
 
@@ -4309,15 +4368,6 @@ src :@guard_warriors
 
 
 
-src :@Alibk3
-[عکس]
-‏جيش الاحتلال ينقل دفاعات جوية شمال فلسطين المحتلة.
-17:57
-1405/07/29
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏وزیر دفاع اسرائیل، اسرائیل کاتز، درباره رژیم ایران گفت: جمهوری اسلامی اکنون در ضعیف‌ترین وضعیت خود قرار دارد و ما می‌دانیم که این ضعف ممکن است آن را به سمت اتخاذ افراطی‌ترین اقدامات، از جمله اقدام علیه اسرائیل، سوق دهد. اگر جمهوری اسلامی به اسرائیل حمله کند، آنها را به آتش خواهیم کشید
 ‏
@@ -4422,19 +4472,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 17:50
-1405/07/29
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔻🇮🇶معاون نظامی جنبش مقاومت اسلامی نجباء:
-‏ 
-‏در فرایند سیاسی مشارکت نخواهیم کرد و در واژگان و ادبیات ما تعابیری مانند «انحصار، تحویل یا خلع» سلاح مقدس معنایی ندارد
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-17:48
 1405/07/29
 
 
@@ -6664,20 +6701,6 @@ src :@mamlekate
 
 
 
-src :@bricsnews
-‏Drug cartels plan to deploy fleets of booby-trapped submarines to smuggle cocaine into Europe, according to an intelligence report from the Colombian navy.
-‏⁠
-‏Latin American gangs are expected to use the homemade "narco-subs" as their main method for trafficking up to 1,500 tons of cocaine across the Atlantic a year.⁠
-‏⁠
-‏The lightweight subs, built in clandestine shipyards along the Colombian coastline and camouflaged to avoid detection, are easier to conceal as they sail just below the water's surface.⁠
-‏
-‏@BRICSNews
-06:47
-1405/07/29
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🔼🛢 – Oil has gone back to $110 dollars per barrel, following a dip earlier today because of negotiations between Iran and Pakistan. When it became clear they yielded no fruit, the oil price went back up.
@@ -6814,21 +6837,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:54
-1405/07/29
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏❗️🇺🇸🛢 - US Energy Secretary Chris Wright says the Trump administration is authorizing the sale of sanctioned oil tankers to replenish the global tanker fleet.
-‏
-‏The move came after a period of intensified attacks by Iran against shipping in the Strait of Hormuz, resulting in the destruction of several vessels.
-‏
-‏Supply-demand imbalance has also pushed tanker charter rate to historical high, exceeding $1 million a day for VLCCs.
-‏
-‏Experts are questioning the efficacy of the policy move, citing the old age and the long term contracts of the 'shadow fleet'.
-01:48
 1405/07/29
 
 
@@ -7003,12 +7011,4 @@ src :@thewarreporter
 src :@samueltarikh
 ‏اعتماد به نفس مقامات ایرانی در دیدارهای امروز با ژنرال عاصم منیر هم بسیار مشهود بود. جمهوری اسلامی اثری از ترس از جنگ در رفتار و گفتارش نشان نمی‌دهد.
 23:27
-1405/07/28
-
-
-
-
-src :@Exciton_missile_program
-‏اعتماد به نفس مقامات ایرانی در دیدارهای امروز با ژنرال عاصم منیر هم بسیار مشهود بود. جمهوری اسلامی اثری از ترس از جنگ در رفتار و گفتارش نشان نمی‌دهد.
-23:19
 1405/07/28
