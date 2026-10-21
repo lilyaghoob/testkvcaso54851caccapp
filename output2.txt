@@ -3687,14 +3687,6 @@ src :@GeoPWatch
 
 
 
-src :@rnintel
-‏🇮🇷⚡️ - Several explosions were heard in Kerpan, Sirik County, Iran near the Strait of Hormuz. Iranian state-affiliated media sources added they are working to determine the source of the explosions.
-22:16
-1405/07/29
-
-
-
-
 src :@mamlekate
 ‏📝 تشریح تخصصی: پی‌اچ‌پی (PHP) چیست و چرا وب‌سایت‌های دولتی را از دسترس خارج کرد؟
 ‏
