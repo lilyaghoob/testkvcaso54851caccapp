@@ -1,3 +1,59 @@
+src :@Shin_Persian
+[عکس]
+‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
+‏
+‏MAP: Russia's "Hybrid War" on NATO 2026
+‏Update: 21/OCT/2026
+‏
+‏6 newly reported incidents added to the map over the last week, comprising:
+‏- UAVs over French military bases including Toulon naval base during Exercise TYPHOON
+‏- M/V YARA J and M/V WINE TRADER hit in separate incidents by UAVs/USVs off the coast of Romania in the Black Sea
+‏- 2x Russian Geran-type UAVs shot down near Sulina, Romania
+‏- Attempted arson at a Vilnius data centre storing Starlink equipment used by Ukraine
+‏- 2x males arrested on suspicion of spying for Russia involving hostile reconnaissance of a counter-UAV defence company in Denmark
+‏
+‏As always, map pin locations are as accurate as possible based on public/OSINT information, and in the case of "nationwide" incidents (e.g. cyber) are placed wherever Google Maps decides is the location of that country.
+‏h/t @InsiderGeo
+‏
+‏ترجمه خودکار فارسی در بخش نظرات
+‏
+‏𝕏  ·  @shin_persian
+13:07
+1405/07/29
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏A French Air and Space Force Mirage 2000D fighter jet from the 2/3 “Champagne” Fighter Squadron, based at Nancy-Ochey Air Base, crashed near Rogéville in Meurthe-et-Moselle at around 22:40 local time on October 20 while returning from a mission.
+‏
+‏One pilot was killed, and the search for the second continues.
+13:05
+1405/07/29
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏بمب  Mk 82 Snakeye؛ بمبی با ترمز هوا 
+‏
+‏بمب آمریکایی Mk 82 Snakeye نسخه‌ای از بمب ۵۰۰ پوندی Mk 82 است که به بالچه‌های ترمزکننده بازشونده مجهز شده‌اند. این بالچه‌ها پس از رهاسازی باز می‌شوند و با افزایش مقاومت هوا، سرعت پیشروی بمب را کاهش می‌دهند.
+‏
+‏ چقدر سرعت کم می‌شود؟ عدد ثابتی ندارد و به سرعت و ارتفاع هواپیما هنگام رهاسازی بستگی دارد؛ بدون مشخص‌کردن شرایط پرواز، نمی‌توان درصد کاهش سرعت دقیقی اعلام کرد.
+‏
+‏ چرا از آن استفاده می‌شود؟ برای کاهش فاصله افقی طی‌شده بمب پس از رهاسازی و ایجاد فرصت بیشتر برای هواپیما تا پیش از انفجار از محدوده خطر دور شود؛ به‌ویژه در حملات ارتفاع پایین.
+‏
+‏ بمب  Snakeye بمب را متوقف نمی‌کند و به معنی هدایت‌شونده بودن آن نیست؛ فقط با افزایش پسا، مسیر و سرعت حرکت آن را تغییر می‌دهد تا جنگنده پرتاب کننده در ارتفاع پایین بتواند از شعاع انفجار و ترکش بمب فرارکند
+‏
+‏#آمریکا #بمب #Mk82 #Snakeye #هوانوردی_نظامی
+13:03
+1405/07/29
+
+
+
+
 src :@MilitarryWorld
 ‏🔴سخنگوی وزارت کشور: ورود کالا از تمامی مرزهای آبی و خاکی بدون وقفه ادامه دارد و کشور با کمبود کالاهای اساسی مواجه نیست؛ ذخایر راهبردی نیز برای ماه‌های آینده پیش‌بینی شده است.
 ‏
@@ -1969,16 +2025,6 @@ src :@mohem_mat
 ‏خبرتگار ارشد روابط بین الملل
 ‏
 ‏@mohem_mat
-09:57
-1405/07/29
-
-
-
-
-src :@naya_foriraq
-‏🔻إنفجارات في مياه الخليج الفارسي وبالقرب من مضيق هرمز.
-‏
-‏https://t.me/naya_foriraq
 09:57
 1405/07/29
 
@@ -6705,37 +6751,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 13:37
-1405/07/28
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ترکیه، حضور نظامی خود را در شمال قبرس افزایش می‌دهد
-‏
-‏ساخت یک پایگاه دریایی جدید به نام "ایشکله-بوغاز" برای نیروی دریایی ترکیه در جمهوری ترک قبرس شمالی، با سرعت در حال پیشرفت است. طبق گزارش رسانه‌های قبرسی، از ژانویه ۲۰۲۵ تا اوت ۲۰۲۶، ساختمان‌های جدید، مناطق مسکونی و زیرساخت‌های مستقل در این محل احداث شده‌اند.
-‏
-‏این پایگاه قرار است به عنوان یک مکمل برای بندر فاماگوستا عمل کند، که برای استقرار کشتی‌های بزرگ و پشتیبانی لجستیکی استفاده می‌شود. در مقابل، "ایشکله-بوغاز" به عنوان یک مرکز کوچکتر برای عملیات گشت‌زنی، آموزش، استفاده از سیستم‌های دریایی بدون سرنشین و انجام ماموریت‌های ویژه در نظر گرفته شده است.
-‏
-‏@artemis_force
-13:04
-1405/07/28
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷 Iran says two oil tankers are on fire after being struck by mines while crossing the Strait of Hormuz.
-‏
-‏@BRICSNews
-13:02
-1405/07/28
-
-
-
-
-src :@Parvazdaroj
-‏فورد برتری خود را نسبت به ناوهای هواپیمابر هسته‌ای کلاس نیمیتز تأیید کرد.  آخرین ناو هواپیمابر هسته‌ای آمریکایی،از کلاس جرالد فورد ( جان اف کندی CVN 79 ) با موفقیت، آزمایش‌های مربوط به ارزیابی میزان پروازهای گروه هوایی آن را به پایان رساند.   به گفته دریادار…
-13:02
 1405/07/28
