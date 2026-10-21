@@ -1,3 +1,31 @@
+src :@ClashReport
+[عکس]
+‏Saudi Arabia’s General Authority of Civil Aviation (GACA) reported that an attack targeted King Fahd International Airport in Dammam on Wednesday evening, October 21, killing one person and injuring eight others.
+02:15
+1405/07/30
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇾🇪❌🇸🇦 - Saudi Arabia’s Aviation Authority stated that Dammam Airport was struck by Ansarullah, killing 1 and injuring 8.
+02:14
+1405/07/30
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: افزایش معترض‌کشی در زندان‌ها
+‏@iranintlTV
+02:14
+1405/07/30
+
+
+
+
 src :@guard_warriors
 ‏فعالیت جنگنده ها بر فراز عراق 
 ‏
@@ -1871,25 +1899,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻رویترز گزارش داد پلیس پاریس به دلیل نگرانی‌های امنیتی ناشی از ادامه ناآرامی‌ها، از سازمان لیگ فوتبال حرفه‌ای فرانسه خواسته است زمان دیدار یکشنبه پاری‌سن‌ژرمن و لیون را تغییر دهد. اکیپ گزارش داد این مسابقه ممکن است به دوشنبه منتقل شود، اما هنوز تصمیم رسمی اعلام نشده است.
-‏
-‏🔹سباستین لوکورنو، نخست‌وزیر فرانسه، سه‌شنبه اعلام کرد برای اعتراض‌هایی که قرار است شنبه برگزار شوند، عملیات امنیتی «گسترده‌ای» اجرا خواهد شد و نیروهای نظامی نیز برای تقویت پلیس به کار گرفته خواهند شد. این تصمیم پس از ناآرامی‌ها و غارت‌هایی گرفته شد که ۱۷ اکتبر پاریس و چند شهر دیگر فرانسه را دربر گرفت.
-‏
-‏🔹دیدار پاری‌سن‌ژرمن و لیون یکی از چند رویداد ورزشی مهمی است که قرار است آخر هفته در پاریس و مناطق اطراف آن برگزار شود.
-‏
-‏🔹قرار است پیتسبورگ استیلرز نیز یکشنبه در یک مسابقه فصل عادی لیگ NFL در ورزشگاه استاد دو فرانس به مصاف نیواورلینز سینتس برود. انتظار می‌رود برای این مسابقه شمار زیادی از نیروهای پلیس به کار گرفته شوند.
-‏
-‏🔹در همین حال دیدار تولوز - تروا پیش از این با درخواست مقام‌های محلی از شنبه به یکشنبه منتقل شده است.
-‏
-‏@iranintltvsport
-23:52
-1405/07/29
-
-
-
-
 src :@MilitarryWorld
 ‏🔴ترامپ: 
 ‏
@@ -2235,15 +2244,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 23:30
-1405/07/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 New initial reports of around Sirik.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:29
 1405/07/29
 
 
@@ -2688,14 +2688,6 @@ src :@MilitarryWorld
 ‏🔴خبرگزاری فارس : تحرکات نظامی تو منطقه نشون میده که جنگ حتمیه
 ‏
 ‏@MilitarryWorld | Parsa
-23:09
-1405/07/29
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Fars: ⁠Several explosions were reportedly heard moments ago in Korpān, in Sirik County, Hormozgan Province, southern Iran.  The cause and nature of the explosions remain unclear, with no immediate details available on potential damage or casualties. …
 23:09
 1405/07/29
 
