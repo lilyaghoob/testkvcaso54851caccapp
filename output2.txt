@@ -11,7 +11,7 @@ src :@mohem_mat
 
 
 src :@tabzlive
-‏🇾🇪❌🇾🇪 — The Houthis (Ansarallah) announced the targeting of the operations room of the Saudi-led coalition Bader military camp in Aden using a ballistic missile.
+‏🇾🇪❌🇾🇪 — The Houthis (Ansarallah) announced the targeting of the operations room of the Saudi-led coalition Badr military camp in Aden using a ballistic missile.
 11:51
 1405/07/29
 
@@ -3180,18 +3180,6 @@ src :@MilitarryWorld
 
 
 
-src :@MilitarryWorld
-‏🔴فارس: درحالی‌که عاصم منیر، فرمانده ارتش پاکستان، ساعاتی پیش از بازگشایی مرزهای ایران و  پاکستان خبر داده بود، پیگیری‌های فارس نشان می‌دهد مرزها تا ساعت ۲۱ امشب همچنان بسته بوده‌اند.
-‏
-‏گمرک پاکستان با وجود مذاکرات انجام‌شده، از بازگشایی مرزها خودداری کرده است.
-‏
-‏@MilitarryWorld | Parsa
-23:46
-1405/07/28
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇷عراقجي:ثلاث جولات من المفاوضات تحولت جميعها إلى حرب و موضوع البحر الأحمر وما يجري فيه لا يخصنا على الإطلاق.  https://t.me/naya_foriraq
 23:43
@@ -3211,16 +3199,6 @@ src :@thewarreporter
 src :@thewarreporter
 ‏🇺🇸🇮🇱 — US Secretary of War Pete Hegseth made an unannounced visit to Israel on Monday and met with Israeli PM Netanyahu, eight days before Israel's election, amid discussions about potentially resuming major military operations against Iran.  — Axios | @TheWarReporter
 23:36
-1405/07/28
-
-
-
-
-src :@naya_foriraq
-‏🇮🇷عراقجي:ثلاث جولات من المفاوضات تحولت جميعها إلى حرب و موضوع البحر الأحمر وما يجري فيه لا يخصنا على الإطلاق.
-‏
-‏https://t.me/naya_foriraq
-23:35
 1405/07/28
 
 
