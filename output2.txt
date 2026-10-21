@@ -1,11 +1,140 @@
-src :@P_raetorio
-‏#مهم 
+src :@GeoPWatch
+[ویدئو]
+‏🇮🇷❌🇺🇸 - Multiple IRGC Cruise Missile Launches from Sirik towards the Strait of Hormuz.
+00:47
+1405/07/30
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷🇮🇷❌🇺🇸 - IRGCN Cruise Missile launches towards the Strait of Hormuz.
+00:47
+1405/07/30
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓  @hey_itsmyturn  Launch from Sirik towards the SoH Hormozgan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/IP7LI2nOIMzoze_sAAWCKvTX?xv=1  ترجمه خودکار فارسی  پرتاب از سیریک به سوی تنگه هرمز استان…
+00:46
+1405/07/30
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏راکت‌های فضایی فوق‌سنگین طراحی شده توسط بشریت برای سفر به مریخ و ساخت نخستین کلونی میان‌ستاره‌ای بشریت 
 ‏
-‏خبرگزاری NBC گزارش داد که نیروهای ایالات متحده در پایگاه‌های قطر، اردن و کویت درحال تخلیه و جابه‌جایی نفرات هستند 
+‏
+‏@rus_cosmos
+00:46
+1405/07/30
+
+
+
+
+src :@Mena_Live
+‏NBC News: The U.S. military has reduced its presence in various parts of the Middle East in recent days.
+‏
+‏@Mena_Live
+00:45
+1405/07/30
+
+
+
+
+src :@OSINTWarfare
+‏The IRGC Navy launched several anti-ship cruise missiles from Sirik toward the Strait of Hormuz.
+00:45
+1405/07/30
+
+
+
+
+src :@rnintel
+‏🇮🇷⚡️- Several Iranian missiles launched from Sirik, southern Iran, into the Strait of Hormuz.
+00:43
+1405/07/30
+
+
+
+
+src :@naya_foriraq
+‏🇮🇷إطلاق صواريخ نحو مضيق هرمز.
+00:43
+1405/07/30
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏#فوری
+‏
+‏نیروهای آمریکایی در حال ترک پایگاه‌ها و دیپلمات‌ها در سراسر خاورمیانه در حال تخلیه 
+‏
+‏شبکه ان بی سی به نقل از منابع خود نوشت که ارتش آمریکا در روزهای اخیر، بی‌سروصدا در حال کاهش شمار نیروهای نظامی خود در پایگاه‌های مختلف در سراسر خاورمیانه بوده است. 
+‏
+‏به گزارش این شبکه، وزارت امور خارجه آمریکا دستور داده است که شمار بیشتری از کارکنان چندین نمایندگی دیپلماتیک این کشور در منطقه کاهش یابد؛ در این گزارش آمده است که کاهش نیروهای نظامی آمریکا و کارکنان دیپلماتیک، مشابه اقداماتی است که پنتاگون و وزارت امور خارجه آمریکا در حوالی آغاز جنگ با ایران در ماه فوریه، برای کاهش نیروها در پایگاه‌های نظامی و سفارتخانه‌ها آغاز کرده بودند.
+‏
+‏این اقدامات در واکنش به تهدیدهای ادامه‌دار در منطقه، از جمله تهدیدهای ناشی از ایران، انجام می‌شود.
 ‏
 ‏
 ‏@P_raetorio
-00:41
+00:43
+1405/07/30
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Launch from Sirik towards the SoH
+‏Hormozgan Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/IP7LI2nOIMzoze_sAAWCKvTX?xv=1
+‏
+‏ترجمه خودکار فارسی
+‏
+‏پرتاب از سیریک به سوی تنگه هرمز
+‏استان هرمزگان، ایران
+‏
+‏[ارسال با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/IP7LI2nOIMzoze_sAAWCKvTX?xv=1
+‏
+‏𝕏  ·  @shin_persian
+00:43
+1405/07/30
+
+
+
+
+src :@ClashReport
+[عکس]
+‏BIG: Websites around the world were taken offline after two critical security flaws were found in PHP, a programming language that powers much of the internet. 
+‏
+‏A fix was released on Wednesday afternoon. 
+‏
+‏Cybersecurity agencies urged organizations that couldn’t update in time to take their sites down. 
+‏
+‏Finland shut down its government’s public web services, and Dutch agencies and the lower house of parliament also went offline. 
+‏
+‏Wikimedia took some systems down, cutting access to parts of Wikipedia. 
+‏
+‏The flaws were found with the help of AI, through an OpenAI program called Patch the Planet. 
+‏
+‏Security firm Wiz called them the “most severe vulnerabilities ever discovered” by AI. 
+‏
+‏The bugs had gone undetected for more than a decade. 
+‏
+‏Details leaked on social media on Tuesday, forcing an early announcement. 
+‏
+‏The White House called the discovery “American innovation strengthening our national security.”
+00:42
 1405/07/30
 
 
@@ -2661,14 +2790,6 @@ src :@MilitarryWorld
 
 
 
-src :@ClashReport
-‏The U.S. State Department is preparing to order some embassy personnel and their families to leave Gulf countries, Reuters reports, citing U.S. officials.
-22:22
-1405/07/29
-
-
-
-
 src :@warmonitors
 ‏⚡️ Explosions were heard in the port city of Sirri, near the Strait of Hormuz.
 ‏
@@ -3683,15 +3804,6 @@ src :@tabzlive
 
 
 
-src :@rnintel
-[ویدئو]
-‏🇮🇷⚡️- Visual confirmation of ballistic missile movements in Lorestan Province, western Iran.
-21:27
-1405/07/29
-
-
-
-
 src :@intelslava
 ‏🇮🇷🇺🇸⚡️ — Iran's IRGC says it is preparing to unveil a new weapon dubbed the "father of all bombs," but has not disclosed any details.
 ‏
@@ -3731,18 +3843,6 @@ src :@tabzlive
 ‏The good news is that Iran intends to honor its historic role as a guardian of the Strait and those who lawfully traverse it. 
 ‏
 ‏There is a way forward, but it can only materialize once the US administration genuinely accepts that it has no military options.
-21:23
-1405/07/29
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ: 
-‏
-‏اگر دموکرات‌ها برنده بشن پسرتون تام به مدرسه میره و پنج روز بعد میاد خونه و اسمش ساراست و شما حتی نمی‌دونید چه اتفاقی افتاده
-‏
-‏@MilitarryWorld | Parsa
 21:23
 1405/07/29
 
@@ -4170,14 +4270,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 20:56
-1405/07/29
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶🇺🇸🇮🇱 موقع أمريكي عسكري : القوة الجوية " الاسرائيلية " نفذت عبر عشرة مقاتلات محاكاة لهجوم جوي عبر الدخول لأجواء سوريا ثم العراق .   https://t.me/naya_foriraq
-20:55
 1405/07/29
 
 
@@ -4927,15 +5019,6 @@ src :@guard_warriors
 
 
 
-src :@Shin_Persian
-[عکس]
-‏↩️ Quoted tweet: Zephyr ✓  @zephyrOsint  #E3 Sentry 82-0007 departed #KTIK, likely deploying to #CENTCOM  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  ترجمه خودکار فارسی  هواپیمای سنتری #E3 با شماره 82-0007 از #KTIK برخاست و احتمالاً برای استقرار…
-17:54
-1405/07/29
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇸🇦🇸🇾 Saudi Arabia reportedly offering fighters from Syria $2,000 per month to join the war against Yemen's Houthis.
 ‏
@@ -5463,17 +5546,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 15:23
-1405/07/29
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - A USAF F-35A is currently squawking 7600 for radio communications failure off the coast of the UAE. 
-‏
-‏Notice the flight path, the F-35A began squawking exactly once it left Iranian airspace, meaning it was most likely flying within Iranian Airspace close to Bandar Abbas.
-15:21
 1405/07/29
 
 
