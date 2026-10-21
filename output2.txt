@@ -1,3 +1,79 @@
+src :@VahidOnline
+[عکس]
+‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، روز چهارشنبه ۲۹ مهر گزارش داد که محمدباقر قالیباف، رئیس مجلس شورای اسلامی، مجتبی خامنه‌ای، رهبر سوم جمهوری اسلامی، دیدار و گفتگو کرده است.
+‏
+‏بر اساس این گزارش، در این دیدار، آخرین تحولات در زمینه جنگ نظامی و اقتصادی با آمریکا و اسرائیل بررسی شد. تسنیم نوشت که طرفین بر ضرورت تقویت مؤلفه‌های قدرت کشور، نقش مؤثر نمایندگان در حفظ «انسجام اجتماعی و وحدت ملی»، استمرار «حضور آگاهانه ملت در تجمعات میدانی» و اهتمام دولت و مجلس به گره‌گشایی از مشکلات معیشتی مردم و پیشبرد امور شرکای راهبردی تأکید کردند.
+‏
+‏از این دیدار، تصویری در رسانه‌های جمهوری اسلامی ایران منتشر نشده است.
+‏@VahidOOnLine
+‏
+‏📡 @VahidOnline
+20:01
+1405/07/29
+
+
+
+
+src :@VahidOnline
+[عکس]
+‏بنیامین نتانیاهو، نخست‌وزیر اسراییل، با متهم کردن جمهوری اسلامی به تلاش دوباره برای توسعه سلاح هسته‌ای، گفت تنها راه از بین بردن این تهدید «برای همیشه»، سرنگونی حکومت ایران است. 
+‏نتانیاهو روز چهارشنبه ۲۹ مهر در مراسم فارغ‌التحصیلی دانشجویان افسری ارتش اسراییل در مدرسه نظامی بهاد ۱ در جنوب این کشور گفت حکومت ایران هنوز از آنچه بر سرش آمده درس نگرفته است.
+‏او با اشاره به مجتبی خامنه‌ای گفت: «مجتبی خامنه‌ای تصمیم گرفت راه پدرش را دنبال کند. او ضامن را کشیده و ایران بار دیگر در تلاش است سلاح‌های مرگبار خود را توسعه دهد.»
+‏نخست‌وزیر اسراییل افزود که به ارتش، موساد و نهادهای امنیتی دستور داده است برای رفع این تهدید، حکومت ایران را سرنگون کنند.
+‏@VahidHeadline
+‏
+‏📡 @VahidOnline
+20:00
+1405/07/29
+
+
+
+
+src :@jangaavaran1390
+‏در حالی که ترامپ صراحتاً از بنیامین نتانیاهو حمایت می‌کند ولی روز گذشته وزیر امور خارجه آمریکا و امروز معاون وی در مواجه با سوال برای حمایت از عملکرد نتانیاهو حمایت وی در انتخابات تفره رفتن و خود را درگیر این ماجرا نکردند
+19:58
+1405/07/29
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🌐 — Websites Go Dark Worldwide as AI Exposes Critical PHP Security Flaws
+‏
+‏Government agencies, councils, and organizations across Europe and beyond have taken websites offline as a precaution after AI-assisted researchers uncovered two critical vulnerabilities in PHP, the language underpinning an estimated 70% of the internet.
+‏
+‏The flaws—tracked as CVE-2026-109618 and CVE-2026-109619 (collectively called PHP2Shell) and rated 9.2 on the CVSS scale—enable unauthenticated remote code execution, potentially letting attackers seize control of servers without credentials or passwords.
+‏
+‏Independently discovered by security firm Calif (using OpenAI’s GPT-5.6 Sol model) and Google-owned Wiz, the issues had existed for years but proved exploitable with modern AI. Details leaked a day before the scheduled patch, prompting urgent advisories from the NSA, CERT-EU, the UK’s NCSC, and others to update immediately or take systems offline.
+‏
+‏PHP released emergency fixes today for supported versions (8.2+). Affected sites include Finnish and Dutch government services, French local government pages, parts of the BBC, and various public portals, with early attack attempts reported by Cloudflare.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+19:57
+1405/07/29
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏سایت حقوق بشری هرانا چهارشنبه ۲۹ مهر گزارش داد ایلیا بن‌رشید، معترض ۲۲ ساله بازداشت‌شده در اعتراضات دی‌ماه ۱۴۰۴، از سوی شعبه پنجم دادگاه انقلاب اصفهان به اتهام «محاربه» به اعدام محکوم شد.
+‏
+‏بر اساس این گزارش، حکم اعدام بن‌رشید که در زندان دستگرد اصفهان زندانی است، سه‌شنبه ۲۸ مهر به او ابلاغ شد. بر اساس حکم صادرشده، او به اتهام «محاربه» از طریق «مشارکت در تخریب اموال عمومی» به اعدام محکوم شده است.
+‏
+‏بن‌رشید همچنین به اتهام «اجتماع و تبانی برای ارتکاب جرم علیه امنیت کشور» به سه سال و شش ماه و یک روز زندان و به اتهام «تبلیغ علیه نظام» به ۹ ماه و یک روز زندان محکوم شده است. مجموع این احکام چهار سال و سه ماه و دو روز حبس است.
+‏
+‏دادگاه علاوه بر این، او را به‌عنوان مجازات تکمیلی به دو سال ممنوعیت خروج از کشور محکوم کرده است.
+‏
+‏بن‌رشید پیش‌تر در خردادماه، در بخش دیگری از پرونده خود، از سوی شعبه ۱۰۲ دادگاه کیفری دو شاهین‌شهر به شش ماه زندان و ۲۰ ضربه شلاق محکوم شده بود.
+‏https://iranintl.com/202610210939
+19:57
+1405/07/29
+
+
+
+
 src :@Navy_Iranian
 [عکس]
 ‏تصویر ماهواره ایی از یک کشتی ( احتمالا نفتکش ) در نزدیکی عمان که به نظر دچار آتش سوزی شده 
@@ -107,6 +183,8 @@ src :@wfwitness
 ‏⚡️🇸🇦🇾🇪 The Saudi-led coalition says it intercepted and destroyed a drone which was launched towards the southern region of Saudi Arabia.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 19:46
 1405/07/29
 
@@ -557,7 +635,7 @@ src :@mohem_mat
 
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇷 IRNA: Iran's parliament speaker Mohammad Baqer Qalibaf met with Supreme Leader Seyyed Majid Hosseini Khamenei. 
+‏⚡️🇮🇷 IRNA: Iran's parliament speaker Mohammad Baqer Qalibaf met with Supreme Leader Seyyed Mojtaba Khamenei. 
 ‏
 ‏The discussion covered recent developments in the US-Israeli conflict, economic challenges, and strategies to strengthen national power, social cohesion and deterrence. 
 ‏
@@ -1192,14 +1270,6 @@ src :@P_raetorio
 
 
 
-src :@jangaavaran1390
-‏جنگاوران pinned a photo
-18:09
-1405/07/29
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏در ادامه تهدیدهای مقام‌های نظامی و امنیتی جمهوری اسلامی درباره احتمال جنگ با آمریکا و اسراییل، حسین محبی، سخنگوی سپاه پاسداران، از تغییر دکترین نظامی جمهوری اسلامی و حرکت به سمت تهاجم در کنار پاسخ به حملات خبر داد. هم‌زمان، یک مقام ارشد امنیتی ایران نیز از آمادگی کشور برای ورود به یک جنگ تمام‌عیار و چندلایه سخن گفته است.
@@ -1311,20 +1381,6 @@ src :@naya_foriraq
 [عکس]
 ‏🇮🇶🇮🇶أمن الحشد الشعبي: السجن مدى الحياة لمدان بتسريب أسرار وإحداثيات مواقع أمنية وعسكرية لجهات معادية.
 17:56
-1405/07/29
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در مراسم فارغ‌التحصیلی افسران جدید ارتش گفت تنها راه از میان برداشتن همیشگی تهدید جمهوری اسلامی علیه اسرائیل، سرنگونی حکومت ایران است و تاکید کرد این دستوری است که به ارتش اسرائیل، موساد و همه نهادهای امنیتی داده است.
-‏
-‏نتانیاهو گفت مجتبی خامنه‌ای تصمیم گرفته راه پدرش را ادامه دهد و جمهوری اسلامی بار دیگر در تلاش برای توسعه ابزارهای تهدیدآمیز خود است. او افزود تا زمانی که جمهوری اسلامی بر سر کار باشد و برای دستیابی به «تسلیحات مرگبار» تلاش کند، اسرائیل با تهدیدی موجودیتی روبه‌رو خواهد بود.
-‏
-‏او همچنین گفت اسرائیل در عملیات‌های خود به برنامه هسته‌ای، زیرساخت‌های تولید موشک، صنایع، اقتصاد و نیروهای نظامی جمهوری اسلامی ضربات سنگینی وارد کرده است. نتانیاهو افزود اسرائیل پیش‌تر «بازوهای این اختاپوس»، از جمله حماس و حزب‌الله، را نابود یا به‌شدت تضعیف کرده و اکنون وظیفه اسرائیل «نجات ملت» از تهدید جمهوری اسلامی است.
-‏https://iranintl.com/202610219926
-17:54
 1405/07/29
 
 
@@ -1713,32 +1769,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 17:22
-1405/07/29
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇶🇦🇸🇦 WSJ⁠: US envoy Tom Barrack has told Gulf allies that Washington’s longstanding role as the region’s security guarantor is undergoing a major shift, urging Middle Eastern countries to take greater responsibility for their own security through regional partnerships.
-‏
-‏“America as the guarantor to the world, for the last 80 years, it is no longer there,” Barrack said at the Global Security Forum in Doha, Qatar.
-‏
-‏He stressed that the shift did not mean Washington was abandoning the region, describing it instead as “a message for realignment”.
-‏
-‏Barrack said the traditional arrangement linking US security guarantees to Gulf oil supplies no longer reflected Washington’s priorities. He pointed to emerging regional alliances, including the defence pact between Saudi Arabia, Pakistan and Türkiye, as part of a move towards more diversified security arrangements.
-‏
-‏“Every time we try and intervene and change the person or the regime, it seems to have been a mistake,” he said, citing past US interventions in Iraq, Libya and Afghanistan.
-‏
-‏However, Barrack sought to reassure regional partners, declaring: “We’re not leaving.” 
-‏
-‏He acknowledged that the transition would be uncertain, adding: 
-‏“We don’t have a playbook. We’re all on audibles. We can go one play at a time.”
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-17:18
 1405/07/29
 
 
@@ -2503,30 +2533,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 15:52
-1405/07/29
-
-
-
-
-src :@Indypersian
-[عکس]
-‏⭕️ال‌نینو، بهانهٔ تازه برای قطع درختان هیرکانی
-‏
-‏
-‏📌پیشینه اکوسیستم جنگل‌های هیرکانی به ۲۵ تا ۵۰ میلیون سال پیش بازمی‌گردد
-‏
-‏
-‏♦️انتشار دو نامه دربارهٔ شناسایی درختان «خطرآفرین» در بستر رودخانه‌های شمال ایران و درخواست شرکت صنایع چوب و کاغذ مازندران برای برداشت چوب، نگرانی‌ها را از گسترش قطع درختان هیرکانی افزایش داده است.
-‏
-‏فعالان محیط‌زیست و نمایندگان جمعیت‌های دیده‌بان هیرکانی با انتشار تصاویر نامه‌های دولتی، هشدار دادند که مقابله با پیامدهای ال‌نینو به پوششی برای بهره‌برداری از درختان ایستاده در ۲۵۳ هکتار جنگل کران‌رودی تبدیل شده است.
-‏
-‏در یک نمونه، حنیف‌رضا گلزار، فعال و دانش‌آموخته محیط‌زیست در شاهرود، هدف این اقدام را تسویه بدهی سازمان منابع طبیعی به شرکت چوب و کاغذ مازندران عنوان کرد و در شبکه ایکس نوشت که جنگل‌های واقع در حاشیه رودخانه‌ها به «مافیای آب وزارت نیرو» سپرده شده‌اند. او در پایان خطاب به مسئولان این تصمیم، نوشت: «ال‌نینو ویرانگر خود شمایید.»
-‏
-‏✍️ امیرحسین میراسماعیلی
-‏
-‏بیشتر بخوانید...
-‏@IndyPersian
-15:47
 1405/07/29
 
 
@@ -4399,20 +4405,6 @@ src :@thewarreporter
 src :@Minas_Tirith2024
 ‏«اوکراین باید بکوشد این جنگ را به پایان برساند. زلنسکی باید بکوشد این جنگ را به پایان برساند و اگر او این را نمی‌خواهد، من فکر می‌کنم که این پیامدهای بسیار بدی خواهد داشت»  -دونالد ترامپ،رئیس جمهور امریکا  @P_raetorio
 12:19
-1405/07/29
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏مصطفی امیر‌خنافره، فعال مدنی ساکن فلاحیه (شادگان)، روز دوشنبه ۲۷ مهر ۱۴۰۵ در پی یورش ماموران اداره اطلاعات به خانه‌اش بازداشت و به مکانی نامعلوم منتقل شد. تاکنون اطلاعاتی درباره علت بازداشت، محل نگهداری و وضعیت او منتشر نشده است.
-‏سازمان حقوق بشر کارون خبر داد که این فعال مدنی، پیش‌تر نیز سابقه بازداشت داشته است. بر اساس اطلاعات این سازمان، او در بهمن ۱۴۰۳ به‌دست نیروهای امنیتی بازداشت شده بود.
-‏
-‏بخوانید : https://iranwire.com/fa/news-1/159133
-‏
-‏@Farsi_Iranwire
-12:14
 1405/07/29
 
 
