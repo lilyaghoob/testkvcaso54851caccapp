@@ -1,3 +1,17 @@
+src :@IranintlTV
+[عکس]
+‏روابط عمومی نیروی دریایی سپاه پاسداران با انتشار یک اطلاعیه اعلام کرد که اعضای این نیرو «چهار کشتی متخلف را که پیش از این از مسیر غیرقانونی عبور کرده بودند»، در حال کشتی به کشتی کردن محموله‌های نفتی در میانه شمالی خلیج فارس کشف کرده و به‌طور همزمان آنها را مورد اصابت قرار دادند.
+‏
+‏روابط عمومی سپاه همچنین نوشت که چهارشنبه شب، سه «کشتی متخلف» با برخورد با مین در غرب تنگه هرمز دچار سانحه و حریق شده و متوقف شدند.
+‏
+‏نیروی دریایی سپاه اعلام کرد که اصرار آمریکا بر تحریک شناورها به عبور از معبر غیرقانونی مین‌گذاری شده، حوادث دریایی را روزبه‌روز بیشتر کرده است و ارتش آمریکا باید بداند با ادامه این روند «دامنه مقابله به پایگاه‌های متجاوز در منطقه کشیده خواهد شد.»
+‏https://iranintl.com/202610228454
+07:59
+1405/07/30
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏مورد سناتور سوزان کالینز از ایالت مین خیلی جالبه، ترامپ و ماگا بهش فحش میدن که راینو (جمهوری‌خواه دروغین) هست و خیلی به مواضع دموکراتها نزدیکه، کمپین رقیب دموکراتش بر این پایه است که بیش از حد از ترامپ حمایت کرده
@@ -16,7 +30,7 @@ src :@mohem_mat
 src :@ircfspace
 [عکس]
 ‏یه واتس‌اپ فیک توی گوگل‌پلی به رکورد باورنکردنی بیشتر از ۵۰۰ هزار دانلود رسید.
-‏هکرها یه اپلیکیشن کاملا جعلی رو با کپی مو‌به‌مو از توضیحات، اسکرین‌شات‌ها و آیکون واتس‌اپ اصلی منتشر کردن که از ماه سپتامبر تا الان توی استور گوگل فعال بوده. این برنامه تقلبی حتی توی بخش تبلیغات اسپانسری نتایج سرچ هم به یوزرها پیشنهاد می‌شده. سازنده این بدافزار با سوءاستفاده از قابلیت Early Access گوگل پلی که بخش ثبت نظرات رو می‌بنده، جلوی باخبر شدن بقیه رو گرفته بود تا نیم میلیون نفر بدون متوجه شدن، اون رو به عنوان مسنجر اصلی نصب کنن.
+‏هکرها یه اپلیکیشن کاملا جعلی رو با کپی مو‌به‌مو از توضیحات، اسکرین‌شات‌ها و آیکون واتس‌اپ اصلی منتشر کردن که از ماه سپتامبر تا الان توی استور گوگل فعال بوده. این برنامه تقلبی حتی توی بخش تبلیغات اسپانسری نتایج سرچ هم به یوزرها پیشنهاد می‌شده. سازنده این بدافزار با سوءاستفاده از قابلیت Early Access گوگل‌پلی که بخش ثبت نظرات رو می‌بنده، جلوی باخبر شدن بقیه رو گرفته بود تا نیم میلیون نفر بدون متوجه شدن، اون رو به عنوان مسنجر اصلی نصب کنن.
 ‏این دومین گاف امنیتی بزرگ گوگل در یک بازه زمانی کوتاه، چون چند روز قبل هم نسخه تقلبی کروم با ۱۰۰ هزار دانلود کشف شده بود.
 ‏
 ‏© behradjaved_com
@@ -3715,14 +3729,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-‏🇷🇺❌🇺🇦 — Four 3M22 Zircon hypersonic cruise missiles and eight RM-48U modified air defense interceptor missiles were launched towards Kyiv, Ukraine minutes ago.
-22:51
-1405/07/29
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Ramadan Diab, a senior member of the central leadership of the terrorist organization Popular Resistance Committees (PRC), was eliminated in an Israeli UAV strike shortly after 1 p.m. in the Karara area, north of Khan Yunis in southern Gaza. 
@@ -3823,17 +3829,6 @@ src :@cataphract1
 
 
 
-src :@intelslava
-[ویدئو]
-‏🇷🇺🇺🇦⚡️— A Ukrainian helicopter shot down a Geran drone, causing it to crash into a residential building in Lozovaya, Kharkov Oblast.
-‏
-‏@IntelSlava
-22:41
-1405/07/29
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇸🇦 Saudi Aramco oil field attacked.
 ‏
@@ -3913,32 +3908,6 @@ src :@naya_foriraq
 ‏
 ‏https://t.me/naya_foriraq
 22:30
-1405/07/29
-
-
-
-
-src :@intelslava
-‏🇫🇷 Macron condemns Donald Trump’s comments on France’s violent protests as unacceptable and stupid, rejecting claims that immigrants or Islamists are responsible for the unrest.
-‏
-‏Macron warns of foreign information manipulation, including AI-generated images, and pledges talks with protesters to address their grievances while rejecting violence.
-‏
-‏@BreakingGlobalHQ
-22:30
-1405/07/29
-
-
-
-
-src :@intelslava
-‏🇷🇺🇩🇪⚡️— Dmitry Medvedev mocks German Chancellor Friedrich Merz for stating that his top concern is Russia's influence on German society.
-‏
-‏“My biggest concern at the moment is not our economy, is not the European Union, is not America, is not Chinа. My biggest concern is the impact of Russia on our society," said Merz, the grandson of a Nazi.
-‏
-‏Great chancellor! How lucky you Germans are 😂
-‏
-‏@IntelSlava
-22:29
 1405/07/29
 
 
@@ -4049,20 +4018,6 @@ src :@rus_cosmos
 ‏ اسکله و موج‌شکن این روستا توسط سپاه مورد استفاده قرار میگیرد.
 ‏
 ‏همچنین در محدوده این روستا و نواحی پیرامونی سیریک، دکل‌های مخابراتی و تأسیسات راهبردی مرتبط با پایش منطقه وجود دارد.
-22:20
-1405/07/29
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇷⚡️ — Scot Bessent:
-‏
-‏“Whether you are conducting illegal oil transfers at sea or sitting in the corner office of a law firm, if you are supporting the Iranian regime, we will find you and sanction you. 
-‏
-‏Iran’s facilitators must make a choice: Either you are with us or against us.” 
-‏
-‏We know who you are, we know what you’re doing, and we will continue to take action.
 22:20
 1405/07/29
 
@@ -4399,30 +4354,6 @@ src :@samueltarikh
 
 
 
-src :@intelslava
-‏Something very big is about to happen very soon...
-21:37
-1405/07/29
-
-
-
-
-src :@intelslava
-‏🇵🇱🇺🇦 Yesterday the Lvov city council adopted a resolution that 2027 will be the year of the Ukrainian Insurgent Army, a Banderite Nazi organization that carried out genocide against Poles, Russians and other nationalities in Volhynia and Eastern Galicia.
-‏
-‏In reaction to this decision, the Polish foreign minister imposed sanctions on the deputy of the Lvov city council who was the author of this resolution. In my opinion, a very token move and a pathetic one.
-‏
-‏The council's decision was criticized in a statement by the Ukrainian Ministry of Foreign Affairs, Polish Prime Minister Tusk and the Polish Ministry of Foreign Affairs, as well as President Zelensky.
-‏
-‏Now the Ukrainian media TSN and RBC-Ukraine report that Poland, in reaction to this anti-Polish gesture, has suspended work on the next large package of military aid for Ukraine.
-‏
-‏This information was repeated by the Russian agency RIA Novosti, but there is no official or unofficial information about it from the Polish side.
-21:37
-1405/07/29
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏Anyone watching the Europa League tomorrow?
@@ -4448,19 +4379,6 @@ src :@selena_updates
 ‏
 ‏Kremlin adviser Yuri Ushakov confirmed that Russia would consider renewed negotiations but expressed dissatisfaction with elements of Ukraine's latest proposals. Significant disagreements remain over territorial control, security guarantees and Ukraine's future relationship with NATO.
 21:35
-1405/07/29
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇸🇷🇺⚡️— The US Treasury has extended the authorization for negotiations and contingent contracts to sell Lukoil International GmbH until November 21, 2026.
-‏
-‏OFAC license also permits the maintenance and winding down of Lukoil International operations, but it does not authorize the release of blocked assets or transfers to accounts in Russia.
-‏
-‏@IntelSlava
-21:34
 1405/07/29
 
 
