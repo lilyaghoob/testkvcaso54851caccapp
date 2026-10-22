@@ -629,15 +629,6 @@ src :@bricsnews
 
 
 
-src :@ClashReport
-[عکس]
-‏Saudi Arabia’s General Authority of Civil Aviation (GACA) reported that an attack targeted King Fahd International Airport in Dammam on Wednesday evening, October 21, killing one person and injuring eight others.
-02:15
-1405/07/30
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇾🇪❌🇸🇦 - Saudi Arabia’s Aviation Authority stated that Dammam Airport was struck by Ansarullah, killing 1 and injuring 8.
