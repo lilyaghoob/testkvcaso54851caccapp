@@ -1170,16 +1170,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: نتانیاهو: تنها راه مقابله با حکومت نئونازی ایران، سرنگونی آن است
-‏@iranintlTV
-23:12
-1405/07/30
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏A new book alleges that Dutch intelligence hacked Jared Kushner's phone and watched him access a Dubai bank account holding hundreds of millions of dollars that came from a bank in Azerbaijan. 
