@@ -1,3 +1,65 @@
+src :@didarnews1
+‏🔴 دلار به 274 هزار تومان رسید.
+‏
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+16:20
+1405/07/30
+
+
+
+
+src :@defence_news
+[عکس]
+‏📱 سرویس های یک ماهه OPENVPN ❤️
+‏
+‏
+‏🚀 پلن‌های ویژه نامحدود:
+‏
+‏👤 تک‌کاربره — 350 تومان
+‏
+‏👥 دوکاربره — 550 تومان
+‏
+‏ 👥سه‌کاربره — 750 تومان
+‏
+‏🟢 بدون محدودیت حجم 
+‏📱 مخصوص دانلود و کارهای با حجم بالا و پهنای باند اختصاصی
+‏
+‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
+‏
+‏
+‏📩 برای خرید و دریافت سریع:
+‏
+‏😎@CFoxSupport
+16:19
+1405/07/30
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏سازمان حقوق بشری «هیوا» با ارائه یک درخواست رسمی به دادستانی کل فدرال آلمان، خواستار آغاز تحقیقات درباره جنایات احتمالی علیه بشریت در ایران شده است. این سازمان از مقام‌های قضایی آلمان خواسته است علاوه بر کشتار معترضان و شکنجه بازداشت‌شدگان، سرکوب هدفمند کردها و بلوچ‌ها را نیز به‌عنوان مصداق احتمالی آزار و تعقیب با انگیزه تبعیض قومی بررسی کنند.
+‏
+‏بخوانید : https://iranwire.com/fa/news-1/159197
+‏
+‏@Farsi_Iranwire
+16:19
+1405/07/30
+
+
+
+
+src :@defence_news
+‏صدراعظم آلمان، فریدریش مرتس، در مورد دستگیری یک مظنون به جاسوسی برای روسیه اظهار نظر کرد و گفت که این موضوع او را متعجب نکرده و انتظار می‌رود موارد بیشتری در آینده رخ دهد: "آلمان هدف فعالیت‌های جاسوسی فشرده است. بیایید خودمان را فریب ندهیم - فعالیت سرویس‌های اطلاعاتی روسیه در آلمان همچنان در سطح بالایی قرار دارد."
+16:19
+1405/07/30
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏الإعلان عن مقتل جندي سعودي بنيران القوات اليمنية.
@@ -2932,22 +2994,6 @@ src :@defence_news
 
 
 
-src :@defence_news
-‏تنبیه عراق به عنوان یک همسایه متخلف ضروری و لازم بود، قیمت گاز در پاکستان هم گویا دچار مشکل شده و در حال حاضر جمهوری اسلامی، انگار رفتارش با همه رو تغییر داده
-‏
-‏خب این به نوعی یک قمار هم هست
-‏اگر با برنامه ای مدون باشه بسیار عالیه
-‏اما اگر برنامه نداشته باشه این کار، در نهایت بهانه کار های زیادی رو به همسایه ها خواهد داد
-‏
-‏باید دید چه می‌شود
-‏
-‏@alpha_sierra_military 👑
-11:53
-1405/07/30
-
-
-
-
 src :@MilitarryWorld
 ‏🔴فیلد مارشال محسن رضایی:مذاکرات متوقف شده است
 ‏
@@ -5349,14 +5395,6 @@ src :@GeoPWatch
 
 
 
-src :@OSINTWarfare
-‏Israeli fighter aircraft are currently flying over Erbil, Iraqi Kurdistan, near the Iranian border.
-01:01
-1405/07/30
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇱 🌞 🇮🇶 — Israeli fighter jets reported over Erbil, Kurdistan region, northern Iraq.
@@ -5455,14 +5493,6 @@ src :@Mena_Live
 ‏NBC News: The U.S. military has reduced its presence in various parts of the Middle East in recent days.
 ‏
 ‏@Mena_Live
-00:45
-1405/07/30
-
-
-
-
-src :@OSINTWarfare
-‏The IRGC Navy launched several anti-ship cruise missiles from Sirik toward the Strait of Hormuz.
 00:45
 1405/07/30
 
@@ -5927,14 +5957,6 @@ src :@cataphract1
 
 
 
-src :@OSINTWarfare
-‏Smoke rises over the coastal city of Sirik, Hormozgan Province, Iran, following a reported U.S. airstrike targeting a cruise missile launcher.  A total of three to four explosions were heard.
-23:33
-1405/07/29
-
-
-
-
 src :@BellumActaNews
 ‏🇺🇸🇮🇱❌🇮🇷❗️ — White House sources to Israel's Haaretz:
 ‏In the past few hours, there has apparently been a change in the American position in favor of a preemptive strike on Iran.
@@ -6029,17 +6051,6 @@ src :@thewarreporter
 [عکس]
 ‏🇺🇸🇸🇦🇦🇪🇯🇴🇶🇦🇧🇭 — The US has ordered embassy staff and their families to leave Saudi Arabia, while family members of U.S. embassy personnel in the UAE, Jordan, Qatar, and Bahrain have also been ordered to depart.  — AFP | @TheWarReporter
 23:26
-1405/07/29
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Smoke rises over the coastal city of Sirik, Hormozgan Province, Iran, following a reported U.S. airstrike targeting a cruise missile launcher.
-‏
-‏A total of three to four explosions were heard.
-23:24
 1405/07/29
 
 
@@ -6762,17 +6773,6 @@ src :@Artemis_Force
 
 
 
-src :@OSINTWarfare
-[عکس]
-‏Russia has lost a second Su-30SM multirole fighter today.
-‏
-‏This time, both crew members were killed.
-20:34
-1405/07/29
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، روز چهارشنبه ۲۹ مهر گزارش داد که محمدباقر قالیباف، رئیس مجلس شورای اسلامی با مجتبی خامنه‌ای، رهبر سوم جمهوری اسلامی، دیدار و گفتگو کرده است.
@@ -7174,16 +7174,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 16:24
-1405/07/29
-
-
-
-
-src :@mamlekate
-‏📝 مقاله امروز (۲۹ مهر ۱۴۰۵) عباس عراقچی در فایننشال ‌تایمز 
-‏
-‏مسیر پیش رو تنها زمانی پدیدار خواهد شد که دولت ایالات متحده به طور واقعی بپذیرد هیچ گزینه نظامی در اختیار ندارد.
-‏
-‏@mamlekate
-16:20
 1405/07/29
