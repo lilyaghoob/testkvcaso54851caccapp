@@ -1153,15 +1153,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Alibk3
-[عکس]
-‏تم محو 1.2 تريليون دولار من القيمة السوقية للأسهم الأميركية خلال اليوم، أكبر تراجع لمؤشر ناسداك حيث سجل أكبر هبوط يومي له مُنذ 5 يونيو.
-23:47
-1405/07/30
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️ 🇲🇽 The National Registry of Arrests confirms the arrest in Culiacán, Sinaloa, of Joel Isaías Gaspar Magañas and Orlando Castañeda Torres, the alleged leader of the armed wing “Los Ranas” linked to the Sinaloa Cartel. 
