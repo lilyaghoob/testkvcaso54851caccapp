@@ -1,3 +1,17 @@
+src :@IranintlTV
+[عکس]
+‏پایگاه اطلاع‌رسانی دولت جمهوری اسلامی اعلام کرد مسعود پزشکیان شامگاه جمعه در سفری کوتاه به مشهد، در محل دفن علی خامنه‌ای و اعضای کشته‌شده خانواده او حاضر شد.
+‏
+‏پیش از انتشار این خبر، هیچ گزارشی درباره سفر پزشکیان به مشهد یا برنامه‌ریزی برای انجام این سفر منتشر نشده بود.
+‏
+‏پایگاه اطلاع‌رسانی دولت جمهوری اسلامی جزییات بیشتری درباره این سفر کوتاه منتشر نکرد.
+‏https://iranintl.com/202610244582
+09:39
+1405/08/02
+
+
+
+
 src :@mohem_mat
 ‏تحریم؛ فقط کاهش صادرات نیست!
 ‏تحریم صرفا فروش کمتر نفت نیست.
@@ -2084,21 +2098,6 @@ src :@Shin_Persian
 
 
 
-src :@ClashReport
-[عکس]
-‏The United States is rushing to move some diplomats and their families out of several Middle Eastern countries amid fears of a regional escalation.
-‏
-‏State Department this week ordered non-emergency staff and all family members to leave Saudi Arabia following increased Houthi attacks on the kingdom, while quietly reducing staff at embassies in Jordan, Bahrain, Kuwait, Qatar, the UAE and Lebanon without public announcements. 
-‏
-‏Many of those leaving had only recently returned after being ordered out at the height of the Iran war, with one diplomat saying “to say it has been chaotic is an understatement” and a source in Amman describing a “very Groundhog Day vibe.” 
-‏
-‏Source: CNN
-00:35
-1405/08/02
-
-
-
-
 src :@USAMRYDATA
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐 pinned a video
 00:35
@@ -2171,23 +2170,6 @@ src :@Indypersian
 ‏
 ‏@IndyPersian
 00:25
-1405/08/02
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: China’s Moonshot AI has launched Kimi K3.1 Pro, an upgraded version of its 2.8-trillion-parameter Kimi K3 model that it says rivals top U.S. systems on coding and agent tasks. 
-‏
-‏On the Terminal-Bench 4.0 agentic coding benchmark, Moonshot reports a score of 65.7%, ahead of OpenAI’s GPT-6 Astra at 58.2% and just behind Anthropic’s Claude Opus 5.5 at 66.4%,.
-‏
-‏Independent evaluator Artificial Analysis measured it at 67%, the highest of any model it tested. 
-‏
-‏API pricing is set at $2 per million input tokens and $10 per million output tokens, a third lower than its predecessor and well below leading closed models. 
-‏
-‏Moonshot said it removed cyber-related training data from the open-weight release to limit misuse.
-00:24
 1405/08/02
 
 
