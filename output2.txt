@@ -1,3 +1,26 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴یک گلوله توپ جنگی هنگام پرس در یکی از واحدهای ضایعاتی نسیم‌شهر منفجر شد و ترکش گلوله به دیوار یک مدرسه برخورد کرد
+‏
+‏این حادثه خوشبختانه تلفات جانی نداشت.
+‏
+‏@MilitarryWorld | Parsa
+16:28
+1405/08/02
+
+
+
+
+src :@intelslava
+‏🇷🇺🇮🇷⚡️— Russia dismisses reports of an evacuation from Iran’s Bushehr Nuclear Power Plant as disinformation, insisting that Russian diplomats and nuclear specialists have no plans to leave and work continues as usual.
+‏
+‏@Intelslava
+16:26
+1405/08/02
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏🔻جیانی اینفانتینو، رییس فیفا، در گفتگویی با بی‌بی‌سی اسپورت تاکید کرد که از حمایت «اکثریت بسیار بسیار بزرگی» از فوتبال جهان برخوردار است. او در پاسخ به این پرسش که آیا پس از جنجال طرح فروش بخشی از حقوق تجاری جام جهانی به استعفا فکر کرده است، خندید.
@@ -97,15 +120,6 @@ src :@wfwitness
 
 src :@tabzlive
 ‏🇱🇻🇱🇹⚡️— An unidentified object, possibly a drone, was detected in Lithuanian airspace on the morning of October 18, triggering air raid alerts. NATO fighter jets were scrambled, but the object was not intercepted.  The object may have exploded near Pasvalys…
-16:16
-1405/08/02
-
-
-
-
-src :@Alibk3
-[عکس]
-‏مشاهد للمناورات الصاروخية للحرس الثوري الجارية الآن.
 16:16
 1405/08/02
 
@@ -1901,15 +1915,6 @@ src :@warmonitors
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇩🇸🇩⚡️ — The intelligence service of the UAE-backed RSF arrested Brigader General Salah Mohamed Adam Al-Fouti, the commander of the RSF 1st infantry division, under suspicion of treason and of sending sensitive information to the Sudanese army.
-13:51
-1405/08/02
-
-
-
-
 src :@mohem_mat
 ‏عضو هیئت‌رئیسه مجلس: 
 ‏
@@ -2160,26 +2165,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 13:33
-1405/08/02
-
-
-
-
-src :@IranintlTV
-‏🗣روایت شما: واکنش مردم به افزایش مجدد تعرفه اینترنت- دوم آبان‌ماه 
-‏
-‏🔹مگه دو ماه قبل از جنگ ۴۰ روزه، اینترنت رو گرون نکردند؟ مگه وسط جنگ با سوءاستفاده از خاموشی اینترنت، دوباره قیمت بسته‌ها رو بالا نبردند؟ پس این افزایش قیمت دوباره چه کاریه؟ هم پول اینترنت می‌پردازیم و هم از خدمات مناسب محرومیم.
-‏
-‏🔹همراه اول، پیش از گرون شدن تعرفه‌های اینترنت، از حجم بسته‌های اینترنتی می‌دزدید. دو روز پیش اینترنت رو شارژ کردم، فقط ۶۰۰ مگابایت از ۶ گیگ من مونده، در صورتی که اینترنت درستی نداریم.
-‏
-‏🔹قیمت اینترنت رو افزایش دادن. چرا باید برای یک اینترنت فیلترشده این‌قدر هزینه کنیم؟
-‏
-‏🔹چند روز پیش بسته یک‌هفته‌ای ۴ گیگ رو ۳۳ هزار تومان می‌خریدم، ولی الان همون بسته شده ۴۵ هزار تومان. داریم به کجا می‌ریم که اینترنت هم آرزو می‌شه؟
-‏
-‏🔹اینترنت خیلی گرون شده. بسته ۶ گیگ یک‌ماهه رو تا ۳ روز پیش ۵۳ هزار تومان می‌خریدم، امروز ۷۴ هزار تومان خریدم.
-‏
-‏🔹اپراتورها اینترنت رو ۴۰ درصد گرون کردند و هر ماه هم قیمت بسته‌ها رو گرون‌تر می‌کنند. دیگه نمی‌تونیم اینترنت بخریم و مجبوریم بدون اینترنت بمونیم.
-13:32
 1405/08/02
 
 
@@ -3641,18 +3626,6 @@ src :@mamlekate
 
 
 
-src :@MilitarryWorld
-‏🔴نتانیاهو:
-‏
-‏ایران ممکن است در داخل ایالات متحده عوامل عملیاتی داشته باشد
-‏
-‏@MilitarryWorld | Parsa
-10:38
-1405/08/02
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏سپاه پاسداران مدعی شد در عملیاتی که آن را «پیش‌دستانه» توصیف کرده، یکی از مراکز مهم تجمع حزب حیات آزاد کردستان (پژاک) را هدف قرار داده است؛ ادعایی که بدون اعلام زمان و محل حمله یا ارائه آماری از تلفات احتمالی مطرح شده است.
@@ -4714,14 +4687,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 01:28
-1405/08/02
-
-
-
-
-src :@intelslava
-‏🇫🇷 France prepares to deploy 70,000 police officers nationwide for Saturday’s demonstrations amid fears of renewed riots following last weekend’s unrest.
-01:25
 1405/08/02
 
 
@@ -6812,53 +6777,4 @@ src :@BellumActaNews
 ‏
 ‏Terrorist attack on a church in Jordan. At least 10 dead. Likely more. Images coming out look awful.
 16:31
-1405/08/01
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: Brent Crude Oil has reached $115 per barrel
-‏
-‏@Middle_East_Spectator
-16:30
-1405/08/01
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Prime Minister of Canada, Mark Carney, praises the "great democracy" of Turkey:
-‏
-‏Turkey is an official partner of Canada in NATO, and one of the most important countries from a geo-strategic perspective, not only in this region, but in the entire world.
-‏
-‏We are currently in a situation where we need Turkish expertise more than ever, in order to strengthen our ability to protect Canadian citizens and fulfill our role as a full NATO ally at this stage.
-‏
-‏Turkey is a unique country. It is a modern European country, and it is also an Asian country. It is unique in its location, at the crossroads between worlds. It has a very deep and rich history, alongside modern advancement at the forefront of technology.
-‏
-‏***
-‏Carney is quick to condemn Israel over alleged violations of human rights, yet his criticism disappears when it comes to Turkish President Recep Tayyip Erdoğan, whose government has spent years undermining political opposition, opressing the Kurds, restricting press freedom, and curtailing LGBTQ rights.
-16:29
-1405/08/01
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏نقشه‌ای از بخش عمده‌ای از پست‌های عمدتا فشار قوی ایران تهیه کرده‌ام که دید خوبی از وضعیت آن‌ها ارائه می‌دهد. همان‌طور که مشخص است، تعداد آنها کم نیست و طبیعتا همه آن‌ها از اهمیت یکسانی برخوردار نیستند.
-‏
-‏آسیب به پست‌های برق معمولا با هدف ایجاد قطعی موقت برق و وارد کردن خسارت‌های قابل مدیریت انجام می‌شود. این در حالی است که حملات به نیروگاه‌ها با هدف ضربه زدن به ظرفیت تولید برق صورت می‌گیرد و بسته به شدت آسیب، می‌تواند پیامدهای بلندمدتی داشته باشد. با این حال، حتی آسیب به پست‌های برق نیز در صورتی که تعداد آسیبها زیاد باشد، می‌تواند تامین قطعات یدکی و انجام تعمیرات را مختل کند و در نتیجه به آسیب‌های طولانی‌مدت به شبکه برق کشور منجر شود.
-‏
-‏آماری از پستهای برق کشور:
-‏
-‏پست‌های 400 کیلوولت: حدود 183 عدد
-‏پست‌های 230 کیلوولت: حدود 371 عدد
-‏پست‌های 132 کیلوولت: حدود 639 عدد
-‏پست‌های 63 و 66 کیلوولت: حدود 1570 عدد
-‏
-‏@Exciton_missile_program 🚀
-16:29
 1405/08/01
