@@ -1,3 +1,13 @@
+src :@bricsnews
+‏JUST IN: 🇸🇻🇭🇹 Bodies of 4 missing Salvadoran soldiers taken hostage by gang found in Haiti.
+‏
+‏@BRICSNews
+02:38
+1405/08/03
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏دیوید بارنئا، رییس پیشین موساد، فاش کرد این سازمان در جریان جنگ ۱۲ روزه، عامدانه تصاویر عملیات عوامل خود در ایران را منتشر کرد تا با افزایش بازداشت‌ها، شناسایی نیروهای واقعی موساد برای دستگاه‌های امنیتی جمهوری اسلامی دشوار شود.
@@ -3559,17 +3569,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@OSINTWarfare
-[عکس]
-‏Assahifa reports that Morocco has submitted an official request to the U.S. government to train Royal Moroccan Air Force (RMAF) pilots to operate F-35A fifth-generation multirole fighters.
-‏
-‏According to the outlet’s sources, the move is linked to preparations for a potential acquisition of the aircraft.
-18:30
-1405/08/02
-
-
-
-
 src :@didarnews1
 ‏🔴پزشکیان: این گونه زندگی کردن برازنده مردم ما نیست
 ‏
@@ -5594,16 +5593,6 @@ src :@bricsnews
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US officials say threat from Iran to Americans in the Middle East has reached its highest level since the war began.
-‏
-‏@BRICSNews
-07:54
-1405/08/02
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇺🇸🇮🇷 - U.S. officials have confirmed the memo first reported by Axios is real, and that U.S. agencies believe "the threat against Americans in the Middle East and several other countries is at the highest level since the start of the war in February."
@@ -5796,14 +5785,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 03:38
-1405/08/02
-
-
-
-
-src :@OSINTWarfare
-‏IRGC-affiliated figures and media are gearing up for a new round of war with the U.S. and Israel. The coming days and weeks will be crucial.
-03:32
 1405/08/02
 
 
