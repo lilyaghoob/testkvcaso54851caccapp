@@ -1,3 +1,12 @@
+src :@selena_updates
+[عکس]
+‏The U.S. Department of State has issued a Level 4 — Do Not Travel advisory for Lebanon, specifically warning of severe security threats in Beirut’s southern suburbs in Dahiyeh.
+18:45
+1405/08/02
+
+
+
+
 src :@mwarmonitor
 ‏✈️🔴رزمایش GLOBAL THUNDER 27 – عملیات فرماندهی راهبردی ایالات متحده (STRATCOM)
 ‏
@@ -3460,35 +3469,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏Israel Moves Closer to Argentina on Falklands After UK Settlement Sanctions
-‏
-‏Israeli Prime Minister Benjamin Netanyahu has directed diplomats to back Argentina’s call for Falklands negotiations amid worsening relations with Britain over West Bank settlement sanctions.
-‏
-‏READ MORE
-13:26
-1405/08/02
-
-
-
-
-src :@Indypersian
-‏⭕️تهران: در صورت حمله آمریکا، زیرساخت‌های منطقه را هدف قرار می‌‌دهیم
-‏
-‏📌ذخایر موشک‌های رهگیر سامانه‌های پدافندی آمریکا و کشورهای عربی کاهش یافته است
-‏
-‏♦️جمهوری اسلامی هشدار داده است که در صورت آغاز دوباره حملات هوایی آمریکا و اسرائیل، پاسخ تهران به پایگاه‌های نظامی و ناوهای جنگی آمریکا محدود نخواهد بود و فرودگاه‌ها، خطوط انتقال نفت و دیگر زیرساخت‌های اقتصادی و غیرنظامی کشورهای همسایه در خلیج فارس را نیز هدف قرار خواهد داد.
-‏
-‏ بیشتر بخوانید...
-‏
-‏@indypersian
-13:26
-1405/08/02
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴علی قلهکی: 
@@ -6741,20 +6721,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 18:52
-1405/08/01
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔥⚠️ حمله به یک نفتکش در تنگه هرمز؛ اصابت «پرتابه ناشناس»! در نزدیکی سواحل عمان
-‏
-‏مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در هشدار شماره ۱۸۱-۲۶ از حمله به یک نفتکش در نزدیکی سواحل عمان و تنگه هرمز خبر داد.
-‏بر اساس این گزارش،حادثه روز پنجشنبه ۲۲ اکتبر،ساعت ۱۷:۱۵ به وقت جهانی،در فاصله ۷ مایل دریایی شمال‌شرق منطقه لیما در عمان رخ داده است.
-‏به گزارش این مرکز،یک نفتکش هنگام خروج از تنگه هرمز هدف اصابت یک پرتابه ناشناس قرار گرفت،اما توانست به مسیر خود ادامه دهد و به سوی بندر مقصد بعدی حرکت کند.
-‏
-‏#تنگه_هرمز #کشتیرانی
-‏@DEJradio
-18:46
 1405/08/01
