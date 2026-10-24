@@ -1,3 +1,70 @@
+src :@Parvazdaroj
+[عکس]
+‏خلبان می‌تواند در پنل ACM کابین جلو مشاهده کند که فینیکس هر کدام از پایلون‌های هواپیما چه وضعیتی دارد. در این پنل سه حالت برای هر پایلون وجود دارد: یا غیرفعال است، یا فعال، که بعد از اتمام ۱۲۸ ثانیهٔ MSL PREP وارد این حالت می‌شود. حالت آخر نیز برای زمانی است که پایلون باید فعال باشد، اما دچار فیلیر شده و به هر دلیلی قابل استفاده نباشد.
+‏بعد از آماده‌سازی و چک شدن تمام موارد بالا، اکنون کافی است خلبان از روی بخش Weapon Selector استیک، موشک فینیکس را انتخاب کند و مستر آرم فعال شود.
+‏(رادار، موشک فینیکس و کامپیوتر فایرکنترل چندین سیکوئنس برای BIT های طولانی و دقیق تر دارن که قبل از تیکاف روی زمین حین استارت اپ اجرا میشن تا افسر رادار از وضعیت عملیاتیشون مطلع بشه.)
+‏
+‏4/
+‏
+‏@PARVAZDAROJ | 𝑆𝐼𝐸𝑅𝑅𝐴
+‏OBC: On-Board Check
+‏BIT: Built-In Test
+‏MSL CHAN: Missile Channel
+‏PDCP: Pilot Display Control Panel
+‏TID: Tactical Information Display
+‏MSL PREP: Missile Preparation
+‏TID ATTK: TID Attack
+‏ACM: Air Combat Maneuver
+‏XMT: Transmit
+11:21
+1405/08/02
+
+
+
+
+src :@Indypersian
+‏⭕️احتمال آغاز جنگ؛ اختلاف کارشناسان درباره تأثیر انتخابات آمریکا
+‏
+‏📌اختیارات گستردهٔ رئیس‌جمهوری آمریکا در حوزهٔ امنیت ملی همچنان امکان اقدام نظامی را فراهم می‌کند
+‏
+‏♦️در حالی که اسرائیل برای حملات احتمالی جدید به ایران آماده می‌شود و واشنگتن در آستانهٔ انتخابات میان‌دوره‌ای آمریکا از اقدام نظامی خودداری کرده است، سه کارشناس آمریکایی دیدگاه‌های متفاوتی دربارهٔ زمان ازسرگیری جنگ و تأثیر انتخابات بر تصمیم‌های دونالد ترامپ و بنیامین نتانیاهو مطرح کرده‌اند.
+‏
+‏ بیشتر بخوانید...
+‏
+‏@indypersian
+11:20
+1405/08/02
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇦🇹🇷🇪🇬🇵🇰🇫🇷🇩🇪🇮🇹🇬🇧 SPA: The foreign ministers of Saudi Arabia, Türkiye, Egypt, Pakistan, France, Germany, Italy and the United Kingdom met in Istanbul on October 23, calling for urgent dialogue, diplomacy and de-escalation.
+‏
+‏Discussions covered the U.S.–Israel–Iran conflict, a negotiated Israeli–Palestinian two-state solution, Houthi attacks against Saudi Arabia and Yemen’s government, and maritime security in the Strait of Hormuz, Bab al-Mandab and the Black Sea.
+‏
+‏The ministers called for lasting negotiated solutions consistent with relevant UN resolutions and agreed to continue meeting in this format to prevent conflict and advance regional stability.
+‏
+‏@wfwitness
+11:18
+1405/08/02
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏صداوسیمای جمهوری اسلامی از مرگ محمدرضا طالبی، عضو بسیج، خبر داد که در جریان اعتراضات دی‌ماه ۱۴۰۴ مجروح شده و حدود ۹ ماه در کما بوده است.
+‏
+‏بر اساس این گزارش، طالبی روز ۱۹ دی‌ماه در منطقه ۷ تهران مجروح شده بود.
+‏https://iranintl.com/202610244217
+11:17
+1405/08/02
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇺🇦🇷🇺 Ukraine’s Defence Ministry reports 1,980 additional Russian personnel losses in its October 24 update, bringing the estimated total since February 24, 2022, to approximately 1,576,600.
@@ -116,6 +183,8 @@ src :@wfwitness
 ‏The attack was directed, financed and ordered by the same evil Iranian regime that President Trump is fighting today.”
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 11:08
 1405/08/02
 
@@ -2131,21 +2200,6 @@ src :@wfwitness
 src :@Alibk3
 ‏هجوم يمني في نجران وفي العاصمة السعودية الرياض
 04:27
-1405/08/02
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇻🇪 Reuters: The U.S. Treasury Department proposed rules for screening outbound investment in China, Russia, and other countries of concern that no longer include Venezuela, saying Maduro's government "no longer exists" following his capture by U.S. forces in January and that the current government led by Delcy Rodríguez does not meet the definition, though the rule could still apply to certain investments in Venezuelan entities.
-‏
-‏The proposal requires notification of investments in six sectors across five designated countries, including a new biotechnology category, while banning investments in artificial intelligence outright, with exceptions for publicly traded companies and transactions under $50,000, as Treasury will accept public comments through December 7.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-04:17
 1405/08/02
 
 
@@ -6684,38 +6738,4 @@ src :@DEJradio
 ‏#جنگ
 ‏@DEJradio
 11:25
-1405/08/01
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ روز سه‌شنبه، 20 اکتبر، حوالی ساعت 22:30، نیروی هوافضای فرانسه ارتباط و تماس راداری خود را با یک فروند میراژ 2000D دو نفره از اسکادران 2/3 "شامپاین" که در پایگاه هوایی نانسی-اوژه مستقر است، از دست داد. حدود 20 کیلومتر شمال غربی نانسی، شاهدان صدای انفجار شدیدی را شنیدند. این هواپیما در حال بازگشت به پایگاه پس از انجام یک ماموریت آموزشی بود. در داخل هواپیما، یک خلبان جوان در حال آموزش و یک افسر با تجربه سیستم‌های تسلیحاتی حضور داشتند.
-‏
-‏صبح روز 21 اکتبر، تیم‌های جستجو و نجات، جسد یکی از دو عضو خدمه را پیدا کردند و جستجو برای یافتن نفر دوم همچنان ادامه دارد. به گفته سرهنگ داوید پاپالارد، سخنگوی نیروی هوایی و فضایی، "حداقل یکی از اعضای خدمه نتوانست از هواپیما خارج شود." علت سانحه هنوز مشخص نشده است.
-‏
-‏@Guard_Warriors | Mmd
-11:21
-1405/08/01
-
-
-
-
-src :@mamlekate
-‏📝 آتلانتیک می‌گوید ترامپ در حال بررسی «حملات چندروزه به ایران پس از انتخابات آمریکا» است
-‏
-‏رئیس‌جمهور آمریکا دو پیشنهاد متفاوت را از سوی اسکات بسنت، وزیر خزانه‌داری ایالات متحده، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، برای پایان دادن سریع به جنگ با ایران دریافت کرده است.
-‏
-‏
-‏📝 آمریکا محدودیت‌های تازه‌ای برای سرمایه‌گذاری در ایران و چهار کشور دیگر پیشنهاد کرد
-‏
-‏وزارت خزانه‌داری آمریکا مقرراتی پیشنهاد کرده که سرمایه‌گذاری اشخاص و شرکت‌های آمریکایی در برخی فناوری‌های حساس در ایران و چهار کشور دیگر را محدود می‌کند. این طرح شامل ممنوعیت سرمایه‌گذاری در هوش مصنوعی است، اما هنوز نهایی و لازم‌الاجرا نشده است.
-‏
-‏📝 دلار ۲۷۴ هزار تومان
-‏
-‏📝 برنت بشکه‌ای ۱۱۳ دلار
-‏
-‏@mamlekate
-11:17
 1405/08/01
