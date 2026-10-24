@@ -2766,18 +2766,6 @@ src :@MilitarryWorld
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، روز جمعه اول آبان اعلام کرد که مسعود پزشکیان، هفته آینده برای دیدار و گفتگو با ولادیمیر پوتین، رئیس‌جمهوری روسیه به مسکو سفر خواهد کرد.
-‏
-‏به گفته عراقچی، گفتگوی دو رئیس‌جمهوری در ادامه رایزنی‌های هفته جاری او با سرگئی لاوروف، وزیر خارجه روسیه انجام می‌شود و محورهای اصلی آن توسعه همکاری‌های سیاسی و اقتصادی، اجرای توافق‌های مشترک پیشین و تقویت مشارکت جامع راهبردی دو کشور خواهد بود.
-‏@indypersian
-22:28
-1405/08/01
-
-
-
-
 src :@cataphract1
 ‏⚜خبرگزاری رویترز به نقل از مقام‌های ایرانی گزارش داد که تهران در صورت ازسرگیری جنگ، طرح‌های دقیقی برای هدف قرار دادن کابل‌های ارتباطی زیردریایی در منطقه خلیج فارس تدوین کرده است.
 ‏
@@ -6815,25 +6803,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 08:33
-1405/08/01
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇦🇪🛢❗️ — The UAE announces temporary closure of all beaches and coastal areas in the emirate of Umm Al Quwain due to a oil spill incident north of Sharjah.
-‏
-‏The Ministry of Climate Change and Environment confirms the UAE’s technical monitoring and environmental assessment system detected a tanker oil spill affecting Umm Al Quwain’s beaches. Odors noticed in Sharjah, Ajman and Umm Al Quwain pose no health risks to residents.
-‏
-‏Teams immediately began containment, cordoning, cleanup and remediation with local and federal authorities to limit environmental impacts. Precautionary coastal surveys, monitoring and assessments continue to gauge impacts and protect the marine environment.
-‏
-‏With relevant authorities, the Ministry has temporarily closed all Umm Al Quwain beaches and coastal areas until technical teams complete assessments and identify safety and marine protection measures.
-‏
-‏Fishermen and sea users are urged to follow authorities’ instructions and avoid fishing in affected areas. The Ministry urges reliance on official channels, avoidance of rumors, and pledges updates on developments and measures taken.
-‏➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖
-‏@BellumActaNews
-06:42
 1405/08/01
