@@ -139,7 +139,7 @@ src :@naya_foriraq
 
 
 src :@MilitarryWorld
-‏⭕️روزنامه قطری العربی الجدید به نقل از منابع آگاه نوشت که روند میانجی‌گری میان ایران و آمریکا امروز با ورود هیئتی از قطر به تهران منتقل شده است. به گفته این منابع، ایران مواضع و خواسته‌های خود را به‌روشنی به میانجی‌ها اعلام کرده است.
+‏🔴روزنامه قطری العربی الجدید به نقل از منابع آگاه نوشت که روند میانجی‌گری میان ایران و آمریکا امروز با ورود هیئتی از قطر به تهران منتقل شده است. به گفته این منابع، ایران مواضع و خواسته‌های خود را به‌روشنی به میانجی‌ها اعلام کرده است.
 ‏
 ‏@MilitarryWorld | Maverick
 16:35
@@ -3050,14 +3050,6 @@ src :@Shin_Persian
 
 
 
-src :@naya_foriraq
-‏مشاهد متداولة لتصاعد الدخان في مدينة الأهواز الإيرانية.
-12:30
-1405/08/03
-
-
-
-
 src :@Indypersian
 ‏⭕️تحرکات نظامی آمریکا در خاورمیانه؛ پنتاگون گزینه‌های حملهٔ مجدد به ایران را آماده کرد
 ‏
@@ -4116,17 +4108,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 09:15
-1405/08/03
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Iran is threatening Israel, with Ebrahim Azizi, head of the Iranian Parliament’s National Security and Foreign Policy Committee, issuing a map of targets in Israel:
-‏
-‏A single miscalculation is all it takes: the occupied lands rendered uninhabitable in under an hour.
-09:12
 1405/08/03
 
 
