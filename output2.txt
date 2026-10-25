@@ -1,3 +1,34 @@
+src :@intelslava
+‏🇪🇸⚡️ — Spanish Prime Minister Sánchez linked the high inflation in the country to the war in Ukraine.
+‏
+‏"It has cost Europe more than €100 billion," he noted in an interview with the newspaper El Pais.
+‏
+‏At the same time, Sánchez emphasized that "the cheapest solution would be to end this war."
+‏
+‏@Intelslava
+13:40
+1405/08/03
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏جایزه سمی‌ترین ترکیب جهان هم می‌رسه به این افسر عالی رتبه کره شمالی در حال دست دادن با وزیر دفاع طالبان،در نمایشگاه دفاع مسکو
+13:40
+1405/08/03
+
+
+
+
+src :@wfwitness
+‏⚡🇸🇦🇾🇪 Alert raised in Jazan, Saudi Arabia.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+13:39
+1405/08/03
+
+
+
+
 src :@jangaavaran1390
 ‏دو شهروند آلمانی در خارج از زندان امنیتی دیمون (شمال اسرائیل) هنگام فیلمبرداری از ورودی زندان دستگیر شدند. بازرسی گوشی‌های آن‌ها، تصاویر بیشتر از تاسیسات امنیتی و عملیات را نشان داد. مقامات آن‌ها را به پلیس اسرائیل منتقل کردند تا انگیزه‌ها و احتمال جاسوسی بررسی شود.
 13:35
@@ -168,6 +199,8 @@ src :@wfwitness
 ‏The organisations reaffirmed their commitment to continuing relief efforts and strengthening coordination with Yemeni authorities, particularly in conflict-affected areas.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 13:29
 1405/08/03
 
@@ -1179,15 +1212,6 @@ src :@mohem_mat
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧🇮🇱 Israeli airstrike reported in Ouadi el Hjair, southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-12:06
-1405/08/03
-
-
-
-
 src :@MilitarryWorld
 ‏🔴نشریه هیل:
 ‏
@@ -2146,20 +2170,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@IranintlTV
-[عکس]
-‏پس از انتقادات گسترده اوباما از ترامپ از جمله درباره حمله به ایران، ترامپ یکشنبه سوم آبان، در تروث سوشال نوشت: «اوباما رییس‌جمهوری به‌شدت بی‌کفایتی بود. او با پرداخت میلیاردها دلار به ایران، راه دستیابی این کشور به سلاح هسته‌ای را هموار کرد.»
-‏
-‏باراک اوباما، رییس‌جمهور پیشین آمریکا، شنبه دوم آبان، در یک گردهمایی انتخاباتی در میشیگان، گفته بود که  جنگ ایران نه‌تنها به اهداف خود نرسیده، بلکه موقعیت راهبردی جمهوری اسلامی را تقویت کرده است.
-‏
-‏رییس‌جمهوری پیشین آمریکا همچنین افزایش قیمت نفت، گازوییل و سایر کالاها را نتیجه تصمیم دولت ترامپ برای آغاز جنگ دانست. 
-‏https://iranintl.com/202610259959
-10:36
-1405/08/03
-
-
-
-
 src :@naya_foriraq
 ‏🇸🇦🇾🇪السعودية: هجوم صاروخي يمني يستهدف خميس مشيط.  https://t.me/naya_foriraq
 10:33
@@ -2267,7 +2277,7 @@ src :@Parvazdaroj
 ‏سیکر شروع به گشتن می‌کند. هدف را که پیدا کرد، لاک می‌گیرد و به سمتش می‌رود. از اینجا فقط هدف را دنبال می‌کند. اگر به هدف بخورد، دایرکت فیوز فعال می‌شود و اگر نخورد، فیوز مجاورتی.
 ‏تا قبل از اکتیو شدن سیکر، فینیکس A حتماً باید با رادار اگ۹ در ارتباط باشد. اگر ارتباط قطع شود، موشک اصطلاحا میس می‌شود.
 ‏در نسخه C فینیکس که دیجیتالی شده بود، برنامه جدیدی برای زمانی که ارتباط با رادار مادر قطع می‌شود نوشته‌ بودن. برنامه به این شکل بود که اگر ارتباط قطع شود، سیکر اکتیو شود و موشک هم مطابق آخرین پروفایلی که از هدفش دریافت کرده، یک الگوی حرکتی بسازد و به سمتی برود که ممکن است هدف آنجا باشد.
-‏برای همین می‌گفتند روی کاغذ ترکیب اگ۹ و فینیکس فقط با شش هدف هم‌ زمان درگیر می شود، اما در واقعیت نهایتاً چهار هدف. دلیلش حساس بودن نحوه ای هدایت فینیکس و محدودیت‌های مود TWS است. در این مود، زاویه ای ازیموث و الویشن محدودتر است، رادار هم باید مدام به موشک دیتا بدهد که مدیریت هدف ها رو در اون الویشن و آزیموث محدود سخت و پیچیده می کند.
+‏برای همین می‌گفتند روی کاغذ ترکیب اگ۹ و فینیکس فقط با شش هدف هم‌ زمان درگیر می شود، اما در واقعیت نهایتاً چهار هدف. دلیلش حساس بودن نحوه ی هدایت فینیکس و محدودیت‌های مود TWS است. در این مود، زاویه ای ازیموث و الویشن محدودتر است، رادار هم باید مدام به موشک دیتا بدهد که مدیریت هدف ها رو در اون الویشن و آزیموث محدود سخت و پیچیده می کند.
 ‏
 ‏7/9
 ‏
@@ -2351,18 +2361,6 @@ src :@jangaavaran1390
 src :@jangaavaran1390
 ‏ترامپ:  عموی من، رادار را اختراع کرد. باور می‌کنید؟  احتمالاً از من عصبانی خواهد شد، اما من سیستم راداری ایران را نابود کردم
 10:07
-1405/08/03
-
-
-
-
-src :@jangaavaran1390
-‏ترامپ:
-‏
-‏عموی من، رادار را اختراع کرد. باور می‌کنید؟
-‏
-‏احتمالاً از من عصبانی خواهد شد، اما من سیستم راداری ایران را نابود کردم
-10:05
 1405/08/03
 
 
@@ -5617,17 +5615,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 13:51
-1405/08/02
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇬🇧🇮🇱 UK MP Rupert Lowe calls to end "unconditional" political and military support to Israel.
-‏
-‏"Why should Britain be expected to defend Israel's national interests if Israel's leadership refuses to respect ours?"
-‏
-‏@BRICSNews
-13:40
 1405/08/02
