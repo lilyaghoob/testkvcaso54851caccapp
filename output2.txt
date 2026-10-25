@@ -1,3 +1,50 @@
+src :@rnintel
+[عکس]
+‏🇧🇷🗳⚡️- Lula has now taken the lead at 48% reporting.  Lula leads by 41k votes.
+03:11
+1405/08/04
+
+
+
+
+src :@P_raetorio
+‏جهت من به موساد و ارتش اسرائیل و اطلاعات نظامی سرنگونی رژیم اسلامی است.
+‏
+‏-نتانیاهو، نخست وزیر اسرائیل، مصاحبه با شبکه 14 اسرائیل 
+‏
+‏@P_raetorio
+03:10
+1405/08/04
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏⚡️🇧🇷🗳 – At almost 60% of the vote counted, Lula da Silva now advantages Bolsonaro by a whole percentage point, or around 800,000 votes.
+‏
+‏The gap is also still growing. It now appears that Lula is poised to be re-elected into an unprecedented fourth unconsecutive 4-year-term.
+03:07
+1405/08/04
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏پرواز یک فروند هواپیمای ترابری نظامی Lockheed C-130H Hercules متعلق به نیروی هوایی سلطنتی عربستان سعودی، با شناسه پروازی RSF1036 و شماره بدنه 1625، نیز مشاهده شده است.
+‏
+‏مقصد و علت پرواز مشخص نیست و احتمال باگ نیز وجود دارد.
+‏
+‏پ.ن: عکس متعلق به هواپیما مذکور با شماره بدنه 1625
+‏
+‏@P_raetorio
+03:06
+1405/08/04
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️ شرکت هواپیمایی جمهوری اسلامی ایران (ایران‌ایر / هما) با انتشار اطلاعیه‌ای در اکس اعلام کرد که دامنه بین‌المللی این پایگاه اینترنتی (iranair.com) به دلیل «تحریم‌های آمریکا» از دسترس خارج شده است. این اقدام در پی تشدید کارزار تحریمی وزارت خزانه‌داری آمریکا علیه بخش هوانوردی جمهوری اسلامی رخ می‌دهد که طی آن واشنگتن با هدف قطع شریان‌های مالی و پشتیبانی این صنعت، ده‌ها شرکت هواپیمایی، واسطه‌های خرید ناوگان و شبکه‌های مرتبط با آنها را هدف تحریم‌های همه‌جانبه قرار داد و دسترسی کاربران به درگاه اصلی این شرکت با پسوند «دات‌کام» را ناممکن کرده است. به گزارش ایرنا، نشانی جدید وب‌سایت رسمی هما با آدرس www.iranair.ir جایگزین شده است.
@@ -1889,14 +1936,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@GeoPWatch
-‏🇮🇱❌🇮🇷- A sharp confrontation has reportedly erupted between Israeli PM Netanyahu and IDF Chief of Staff Eyal Zamir over potential military action against Iran.  According to Israel’s Channel 12, senior defense officials fear Netanyahu may pursue an operation…
-00:23
-1405/08/04
-
-
-
-
 src :@samueltarikh
 [عکس]
 ‏⭕️ترافیک اینترنت ایران در رادار کلودفلر به کمترین مقدار خودش بعد از وصل شدن اینترنت رسیده…
@@ -1919,14 +1958,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 00:21
-1405/08/04
-
-
-
-
-src :@rnintel
-‏🇧🇷💥⚖️ — The Regional Electoral Court (TRE) of Amazonas informs Cristiano Zanin that it is NOT POSSIBLE to extend voting hours until 7 p.m. and considers the extension NULL AND VOID.
-00:19
 1405/08/04
 
 
@@ -4684,21 +4715,6 @@ src :@samueltarikh
 ‏شبکه 12 اسرائیل:
 ‏
 ‏نتانیاهو در روز های گذشته 3 تماس تلفنی با ترامپ درباره ایران بر قرار کرده است.
-18:00
-1405/08/03
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏طبق OSINT تیم پرایتوری انفجار رخ داده در تبریز با توجه به تطابق مکانی احتمالا متعلق به پایگاه موشکی تبریز به مختصات 9745°37 شمالی، 46.1750° شرقی میباشد. 
-‏
-‏در جنگ اخیر 13 ژوئن این پایگاه مورد حمله قرار گرفته بود.
-‏
-‏پ.ن: صرفا تطبیق مکانی است و نه تشخیص ماهیت انفجار، احتمال خنثی سازی مهمات عمل نکرده.
-‏
-‏@P_raetorio
 18:00
 1405/08/03
 
