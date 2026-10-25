@@ -1,3 +1,31 @@
+src :@mohem_mat
+[عکس]
+‏روستای کندوان، تبریز🩵
+‏
+‏🔗 𝔼𝕃ŞƏℕ Ξ (@Tabrizzio) 
+‏
+‏@mohem_mat
+07:46
+1405/08/03
+
+
+
+
+src :@ircfspace
+[عکس]
+‏کلاینت دسکتاپ WProxy یه ابزار متن‌باز و رایگان برای ویندوز و لینوکس هست، که با استفاده از هسته ایکس‌ری از پروتکل‌های VLESS، VMess، Trojan و Shadowsocks پشتیبانی می‌کنه. 
+‏امکان مدیریت لینک‌های ساب، مسیریابی ترافیک، پشتیبانی از حالت تانل و قابلیت کنترل اتصال از پنل سیستم در GNOME و KDE Plasma 6، بخشی از امکانات این برنامه هستن.
+‏
+‏👉 github.com/Aliazadi-1776/WProxy-v2ray/releases
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+07:44
+1405/08/03
+
+
+
+
 src :@ircfspace
 [عکس]
 ‏در آپدیت جدید هسته Aether، مشکلات دریافت کلید وارپ برطرف شده و با اضافه شدن روش جایگزین دریافت کلید، اتصال روی اینترنت‌هایی که با روش قبلی مشکل داشتن بهتر شده.
@@ -2805,18 +2833,6 @@ src :@Parvazdaroj
 
 
 
-src :@mohem_mat
-‏مؤسسه «استاتیستیکس لبنان» مدعی شده طبق نظرسنجی از ۸۰۰ شیعه لبنانی در ماه سپتامبر، ۶۶.۴ درصد پاسخ‌دهندگان از انتقال سلاح‌های حزب‌الله به دولت لبنان حمایت کرده‌اند؛ نتیجه‌ای که شبکه کان اسرائیل و جروزالم پست آن را گزارش کرده‌اند.
-‏
-‏در همین نظرسنجی، ۷۱.۱ درصد گفته‌اند تصمیم‌گیری درباره جنگ و صلح باید منحصراً در اختیار دولت لبنان باشد. با این حال، جروزالم پست تأکید کرده که این نتایج لزوماً به معنای از بین رفتن نفوذ حزب‌الله در میان جامعه شیعه نیست.
-‏
-‏@eskannews_com
-20:58
-1405/08/02
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏بقایای موشک‌های سری خیبرشکن (قسمت بوستر موشک) پرتاب شده از یمن که به ادعای منابع دولتی سعودی امروز در مناطق مکه/مدینه/جده و ینبع رهگیری شده‌اند.
@@ -5545,17 +5561,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 08:43
-1405/08/02
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸🇮🇷 - U.S. officials have confirmed the memo first reported by Axios is real, and that U.S. agencies believe "the threat against Americans in the Middle East and several other countries is at the highest level since the start of the war in February."
-‏
-‏The New York Times also reports Trump and top aides have been briefed constantly on "rising threats" that go beyond the Middle East, and involve U.S. officials including ambassadors.
-‏
-‏An official told the NYT that "some material indicates Iran may have operatives in the United States", and that other potential targets are in Europe, although Iranian capabilities remain limited.
-07:42
 1405/08/02
