@@ -1413,20 +1413,6 @@ src :@cataphract1
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️استانداری خوزستان اعلام کرد «به دلیل ورود توده گردوغبار از کشورهای همسایه و تداوم این پدیده»، فعالیت تمامی مدارس شهرهای اهواز، حمیدیه، کارون و باوی در نوبت صبح روز یکشنبه ۳ آبان‌ماه به‌صورت غیرحضوری خواهد بود.
-‏
-‏به گزارش خبرگزاری ایلنا به نقل از استانداری خوزستان، این تصمیم با هدف حفظ سلامت دانش‌آموزان و با وجود پیش‌بینی کاهش میزان گردوغبار در روز یکشنبه اتخاذ شده است.
-‏
-‏ 
-‏@indypersian
-23:19
-1405/08/02
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 Former President Obama says he prevented Iran from getting nuclear weapons through diplomacy without firing a single missile.
 ‏
@@ -5561,17 +5547,4 @@ src :@RASTAKHIZ_PERSIAN
 ‏✒️#LT
 ‏📃@Cataphract1
 07:10
-1405/08/02
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: U.S. intelligence confirms that Iran has significantly increased its efforts to target U.S. personnel, according to a declassified memo addressed to Secretary of State Marco Rubio
-‏
-‏The memo says some of these efforts have reached ‘advanced stages’ in the Middle East and beyond.
-‏
-‏@Middle_East_Spectator
-05:38
 1405/08/02
