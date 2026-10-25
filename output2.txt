@@ -3079,23 +3079,6 @@ src :@samueltarikh
 
 
 
-src :@Americana_ir
-‏📰 آمریکا عامل ۷۰ درصد رشد انتشار گازهای گلخانه‌ای جهان در سال ۲۰۲۵ شد
-‏
-‏▪️بر اساس گزارش جدید برنامه محیط زیست سازمان ملل متحد (UNEP)، آمریکا برخلاف دیگر اقتصادهای بزرگ جهان که انتشار کربن خود را کاهش دادند یا روند افزایش آن را کند کردند، در سال ۲۰۲۵ با افزایش ۱۳۳ میلیون تُن معادل دی‌اکسیدکربن، مسئول حدود ۷۰ درصد از کل افزایش انتشار گازهای گلخانه‌ای در کشورهای دارای رشد آلایندگی بود؛ افزایشی که عمدتاً از رشد تقاضای برق و بازگشت استفاده از نیروگاه‌های زغال‌سنگ ناشی شد. 
-‏
-‏▪️این گزارش هشدار می‌دهد که حتی با اجرای کامل تعهدات اقلیمی کشورها، دمای زمین تا سال ۲۱۰۰ به حدود ۲.۶ درجه سانتی‌گراد بالاتر از سطح پیش از صنعتی‌شدن خواهد رسید؛ در حالی که با ادامه سیاست‌های فعلی، این افزایش می‌تواند به ۲.۸ درجه برسد. 
-‏
-‏▪️سازمان ملل تأکید می‌کند که برای محدود کردن پیامدهای گرمایش جهانی، انتشار گازهای گلخانه‌ای باید تا سال ۲۰۳۰ حدود ۱۸ درصد و تا سال ۲۰۴۰ حدود ۶۹ درصد کاهش یابد؛ هدفی که با روند فعلی فاصله زیادی دارد. 
-‏
-‏🔗 لینک منبع
-‏🆔 @Americana_ir
-20:23
-1405/08/02
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴بازتاب زندان ترامپ در میدان تجریش در رسانه های جهان
@@ -5467,31 +5450,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 09:33
-1405/08/02
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇪🇬🇮🇷🇾🇪 — A U.S. intelligence memo dated October 23 warns that Iran has 'substantially increased' efforts to target American diplomats and officials in the Middle East and beyond, with lethal plots reaching 'advanced stages'.
-‏
-‏U.S. officials say the intelligence is one reason the State Department is drawing down personnel at several American embassies across the Middle East, amid mounting fears of a broader regional conflict.
-‏
-‏U.S. officials also fear the Houthis could expand their attacks beyond Saudi Arabia to other countries in the region.
-‏
-‏Adding to the volatile security environment is the prospect of renewed U.S. and Israeli military operations against Iran, potentially after the midterm elections.
-‏
-‏— Axios | @TheWarReporter
-09:17
-1405/08/02
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇦🇪🇮🇷 UAE forced to close beaches due to oil spill from tanker struck by Iranian mine in the Strait of Hormuz.
-‏
-‏@BRICSNews
-09:16
 1405/08/02
