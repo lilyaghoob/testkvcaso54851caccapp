@@ -3319,21 +3319,6 @@ src :@guard_warriors
 
 
 
-src :@Americana_ir
-[عکس]
-‏🔻وال‌استریت ژورنال: ترامپ به‌دنبال دور جدیدی از حملات گسترده به ایران است
-‏
-‏▪️به گزارش وال استریت ژورنال به نقل از مقامات آمریکایی، دونالد ترامپ به انجام یک عملیات نظامی بزرگ دیگر علیه ایران تمایل دارد؛ هرچند هنوز تصمیم نهایی در این باره اتخاذ نشده است.
-‏
-‏▪️پنتاگون چندین گزینه نظامی را به ترامپ ارائه کرده است که شامل حمله به تأسیسات هسته‌ای ایران، زیرساخت‌های حیاتی و همچنین احتمال حمله به جزایر تحت کنترل ایران می‌شود.
-‏
-‏🆔 @Americana_ir
-19:26
-1405/08/02
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇫🇮 Google accused of illegally cutting down 250,000 trees in Finland for data center, driving wolves into villages and angering locals.
 ‏
@@ -5495,21 +5480,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 09:16
-1405/08/02
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇫🇷❌🚩🏴❗️ — FRANCE ON HIGH ALERT: Nationwide protests are set to erupt again tomorrow, Saturday, October 24, following last weekend’s violent unrest.
-‏
-‏▶️Yellow Vests, student movements, labour unions, antifascist collectives, communists, socialists and anticapitalist organisations are mobilising across France.
-‏
-‏▶️The first major demonstration begins at 10:30 AM in Orléans, where antifascist groups, La France Insoumise, the French Communist Party, Socialist Party and NPA will protest alongside unions near the National Rally congress.
-‏
-‏▶️In Paris, demonstrations are planned around Bastille from noon, with an authorised CGT-led march toward Nation beginning at 2 PM. Marseille, Bordeaux and Toulouse also have afternoon mobilisations involving CGT, FSU, Solidaires and student groups.
-‏
-‏▶️France is preparing a massive security operation involving 70,000 police officers and gendarmes, while authorities impose protest restrictions, protect government buildings and reinforce major transport hubs.
-09:10
 1405/08/02
