@@ -1,3 +1,11 @@
+src :@cataphract1
+‏USS McFaul — DDG-74
+22:23
+1405/08/03
+
+
+
+
 src :@defence_news
 [عکس]
 ‏M-ACE
@@ -1943,16 +1951,6 @@ src :@BellumActaNews
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار عصرگاهی | یکشنبه ۳ آبان
-‏@iranintlTV
-19:46
-1405/08/03
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴ایلان ماسک درباره اوکراین:
@@ -2094,19 +2092,6 @@ src :@ClashReport
 ‏
 ‏Source: Iran’s Fars, citing information obtained by its security and defense correspondent
 19:41
-1405/08/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran’s Army says it shot down a U.S. LUCAS one-way attack drone over the southern port city of Bandar Abbas today.
-‏
-‏Iranian media said air defense systems under the country’s integrated network destroyed the drone.
-‏
-‏The claim comes days after Iran said it downed a U.S. MQ-9 Reaper drone.
-19:40
 1405/08/03
 
 
@@ -4826,19 +4811,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 14:02
-1405/08/03
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏دادگاه تجدیدنظر استان تهران، حکم پنج سال حبس تعزیری و دو سال محرومیت از اشتغال در مشاغل مرتبط با شبکه‌های اجتماعی را برای «سهیل عربی»، وبلاگ‌نویس و شهروندخبرنگار، عینا تایید کرد.
-‏
-‏بخوانید : https://iranwire.com/fa/news-1/159307
-‏
-‏@Farsi_Iranwire
-14:01
 1405/08/03
 
 
