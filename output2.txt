@@ -1,3 +1,30 @@
+src :@Mena_Live
+‏In the southern city of Daraa, approximately 10 people have been killed as a result of the Jordanian attack.
+‏
+‏@Mena_Live
+02:10
+1405/08/05
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Netanyahu pushed for a new attack on Iran ahead of Israel’s election but faced resistance from military leaders, according to Israeli officials. 
+‏
+‏Military chief Eyal Zamir saw no urgent need for a strike and feared that a separate, less overt operation could provoke Iranian retaliation. 
+‏
+‏Renewed fighting could potentially delay the election or obstruct opposition efforts to form a government afterward. 
+‏
+‏Opposition politician Avigdor Liberman called for a treason investigation, accusing Netanyahu of risking soldiers’ lives out of fear of electoral defeat.
+‏
+‏Source: NYT
+02:06
+1405/08/05
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏اسرائیلی‌ها سه‌شنبه پنجم آبان پای صندوق‌های رای می‌روند، اما انتخابات این کشور میان برخی کاربران فارسی‌زبان نیز بازتاب داشته است. زیر پست‌های بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شماری از کاربران از ایران برای پیروزی او ابراز امیدواری کرده‌اند؛ از «از شیراز یک رای» تا «کاش ما مردم ایران هم می‌تونستیم رای بدیم.»
@@ -8,7 +35,7 @@ src :@IranintlTV
 ‏
 ‏در اسرائیل شرایط متفاوت است. نظرسنجی موسسه «مداد» نشان می‌دهد ۳۷ درصد نتانیاهو و ۴۷ درصد گادی آیزنکوت را برای نخست‌وزیری ترجیح داده‌اند. نتانیاهو درباره احتمال حملات جمهوری اسلامی هشدار داده، اما گفته است قصد ندارد پیش از رای‌گیری حمله‌ای پیشگیرانه آغاز کند.
 ‏
-‏گزارش کامل را در سایت ایران‌اینترنشنال بخوانید
+‏گزارش کامل را در سایت ایران‌اینترنشنال بخوانید.
 02:05
 1405/08/05
 
@@ -1246,21 +1273,6 @@ src :@jangaavaran1390
 ‏
 ‏این مسلسل‌ها برای درگیری با اهداف سبک زمینی و اهداف هوایی کم‌ارتفاع به کار می‌روند. البته نوع مسلسل نصب‌شده می‌تواند بر اساس نسخه، سال ساخت و ارتقای تانک متفاوت باشد.
 23:45
-1405/08/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏𝗧𝗿𝘂𝗺𝗽 𝗖𝗮𝗹𝗹𝘀 𝗕𝗿𝗮𝘇𝗶𝗹 Election "Rigged"
-‏
-‏Trump questioned the legitimacy of Brazil's presidential runoff after Lula defeated Flávio Bolsonaro with 51.79% of the vote.
-‏
-‏Bolsonaro has refused to concede.
-‏
-‏READ MORE
-23:43
 1405/08/04
 
 
