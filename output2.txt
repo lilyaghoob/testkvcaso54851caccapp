@@ -1,3 +1,25 @@
+src :@Mena_Live
+‏SANA (Syrian Arab News Agency) reports from a statement issued by the Syrian government: 
+‏
+‏“The concerned authorities are closely following the developments on the ground in southern Syria following the airstrikes carried out by the Jordanian air force a short time ago, which resulted in casualties, including civilians and children. 
+‏
+‏The statement emphasizes that this military operation was not coordinated with the Syrian side in advance.”
+‏
+‏@Mena_Live
+00:35
+1405/08/05
+
+
+
+
+src :@naya_foriraq
+‏مشاهد لنقل جثث المدنيين في مدينة درعا جنوب سوريا بعد الغارات الاردنية
+00:35
+1405/08/05
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏🇺🇸🇸🇾⚡️ — The United States carried out a strike earlier today near Qara, along the Damascus–Homs highway in Syria, killing Abu Abdul Rahman al-Libi, a commander of Hurras al-Din, a now-dissolved al-Qaeda affiliate.
@@ -1472,16 +1494,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی چشم‌انداز: سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
-‏@iranintlTV
-22:42
-1405/08/04
-
-
-
-
 src :@jangaavaran1390
 ‏​🔴 افشاگری سی‌ان‌ان از آماده‌باش نود و شش ساعته ارتش آمریکا برای حمله به
 22:42
@@ -2364,15 +2376,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇮🇱🇸🇾🇵🇸🇸🇾 Lebanese Druze leader Walid Jumblatt on Syria’s Druze and relations with Israel:  “Syria’s Druze are taking the wrong path by choosing to become a tool in Israel’s hands.”  Jumblatt argued that the Israeli government makes decisions affecting…
-21:40
-1405/08/04
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇮🇷🇺🇸🇶🇦⚡️ — A Gulf state official tells NYT that Qatari mediators are working on an agreement where both Iran and the United States would make a series of concessions in a five-day series, including Iran reopening the Strait of Hormuz and the United States lifting its naval blockade on Iranian ports. 
@@ -2392,15 +2395,6 @@ src :@Indypersian
 ‏
 ‏@INDYPERSIAN
 21:39
-1405/08/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧🇸🇾🇺🇸🇮🇱 Lebanese Druze leader Walid Jumblatt on negotiations with Israel:  “The Americans are withdrawing from the region, and the Israelis are filling the vacuum. We made a mistake by choosing Marco Rubio’s track instead of the Islamabad track. Rubio’s…
-21:37
 1405/08/04
 
 
@@ -3958,16 +3952,6 @@ src :@rnintel
 [عکس]
 ‏🇧🇷⚡️- Brazil's stock market crashed this morning following the victory of Lula.
 18:53
-1405/08/04
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶طائرات مسيرة تصول في سماء محافظة اربيل شمالي العراق.
-‏
-‏https://t.me/naya_foriraq
-18:50
 1405/08/04
 
 
