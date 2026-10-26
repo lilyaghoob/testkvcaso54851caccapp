@@ -1408,16 +1408,6 @@ src :@P_raetorio
 
 
 
-src :@ClashReport
-‏BIG: Flávio Bolsonaro has overtaken President Lula in Brazil’s presidential runoff, moving above 50% after Lula led the early count. 
-‏
-‏With 13.98% of polling sections counted, Bolsonaro (PL) has 50.03%, or 8,735,260 votes, and Lula (PT) has 49.97%, or 8,723,419 votes.
-02:18
-1405/08/04
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇧🇷🗳 – Bolsonaro has just taken the lead over Lula da Silva at 13.65% of the vote counted.
@@ -1432,21 +1422,6 @@ src :@BellumActaNews
 ‏
 ‏🔴 Lula da Silva — 50.1%⬇️
 ‏🔵 Flávio Bolsonaro — 49.9%⬆️
-02:16
-1405/08/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Twelve U.S. Catholic bishops say the White House exploited a private Oct. 22 meeting after it posted video of them praying over Trump in the Oval Office, a video they say was recorded without their knowledge less than two weeks before the Nov. 3 midterms. 
-‏
-‏Milwaukee Archbishop Jeffrey Grob issued “A Public Apology,” saying the meeting was “in no way an endorsement of the president, his policies, or his party” and that prayer had been “manipulated.” 
-‏
-‏He added that they came “not to pose for a political photo opportunity to benefit the few,” and that “we should never have been put in that position by the White House.” 
-‏
-‏Des Moines Bishop William Joensen said he wished he “had been more shrewd and less simple, like those who exploited our meeting for partisan political purpose.”
 02:16
 1405/08/04
 
