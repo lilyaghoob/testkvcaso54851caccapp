@@ -1,3 +1,75 @@
+src :@ClashReport
+[عکس]
+‏Russia has built about 16 new elevated air-defense towers in a ring roughly 50 km around Vladimir Putin’s Valdai residence, bringing the total near the site to more than 50, according to a Radio Liberty investigation based on satellite imagery. 
+‏
+‏They are mostly on the ring’s southern side, facing Ukraine, and are spaced about 15 km apart. 
+‏
+‏The lattice structures are designed to lift short-range systems such as Pantsir or Tor above the tree line so they can hit low-flying drones and missiles. 
+‏
+‏The new ring also covers Khotilovo airbase, a backup airfield for Putin connected to the residence by a dedicated rail line, and Lisiy Island on the Vyshny Volochyok Reservoir, home to a classified laboratory. 
+‏
+‏Radio Liberty’s Mark Krutov and OSINT analyst jembobineuse (at X), who mapped the sites with Planet Labs imagery, say the count roughly doubled in six months. 
+‏
+‏The Valdai area, with fewer than 100,000 people within 50 km, now has about half as many such towers as Moscow and the surrounding region, which has about 100 for more than 20 million people. 
+‏
+‏The buildup follows Russian claims of Ukrainian drone attacks on the residence, which Kyiv denied.
+19:21
+1405/08/04
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏انفجار در طبقه چهارم ساختمانی در نارمک تهران؛ بدون تلفات جانی
+‏
+‏انفجاری در طبقه چهارم یک ساختمان چهارطبقه در محله نارمک، واقع در شرق تهران، رخ داد. به گفته سخنگوی سازمان آتش‌نشانی، هنگام وقوع حادثه هیچ‌کس در ساختمان حضور نداشت و این انفجار تلفات جانی نداشت.
+‏
+‏بر اساس ارزیابی اولیه رسمی، علت این حادثه نشت گاز اعلام شده است.
+‏
+‏@P_raetorio
+19:20
+1405/08/04
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇱🇵🇸 The IDF intercepted a drone attempting to smuggle drugs into the Gaza Strip earlier this morning.
+‏
+‏According to the military, the drone was carrying Captagon pills and hashish.
+‏
+‏@wfwitness
+19:19
+1405/08/04
+
+
+
+
+src :@ClashReport
+[عکس]
+‏AfD co-leader Alice Weidel presented a plan in Strasbourg to turn the EU into a loose federation of sovereign nations, and said Germans should vote on leaving if the changes aren’t made. 
+‏
+‏The strategy paper, “Sovereign Nations, a Common Europe,” would end direct elections to the European Parliament and have national parliaments appoint MEPs instead. 
+‏
+‏It would take away the European Commission’s sole right to propose laws, leaving it an administrative role, make the European Council of national leaders the main decision-making body, and replace the European Court of Justice with an arbitration tribunal. 
+‏
+‏“The EU is not a group of sovereign states any more,” Weidel said, adding that “national parliaments and governments need to take over the decision-making process.” 
+‏
+‏The paper also calls for deep cuts to the EU budget, a “fundamental overhaul” of the euro, and reversing net-zero targets and the 2035 ban on new petrol and diesel cars. 
+‏
+‏If an AfD-led government cannot win “substantial changes,” the paper says “the German people should then decide for themselves which path Germany should take,” meaning a possible Dexit referendum. 
+‏
+‏This is a change in tactics from the AfD’s earlier open support for leaving the EU, with an eye on Germany’s 2029 election. 
+‏
+‏Mainstream EU figures rejected the plan as unworkable.
+19:17
+1405/08/04
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏توقف مطار الدمام في السعودية الآن.
@@ -2758,15 +2830,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇯🇴 Reuters: Jordan’s Public Security Director, Major General Obaidullah Al-Maaytah, reportedly identified the attackers behind Friday’s deadly church shooting in Karak as members of one family, including two brothers and a son-in-law. He described them as…
-15:47
-1405/08/04
-
-
-
-
 src :@Alibk3
 ‏مصدر عسكري يمني: 
 ‏
@@ -3273,21 +3336,6 @@ src :@Parvazdaroj
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump's Board of Peace has appointed Shelley Greenspan, a former Biden White House aide, to lead outreach to Congress and Washington think tanks.
-‏
-‏The move aims to build bipartisan support for Trump's Gaza peace plan, which has stalled over Netanyahu's refusal to take steps before Israel's October 27 elections.
-‏
-‏The plan is expected to gain momentum after the elections and the formation of a new Israeli government.
-‏
-‏Source: Axios
-14:54
-1405/08/04
-
-
-
-
 src :@mohem_mat
 ‏الکساندر ووچیچ پس از حدود ۱۲ سال قدرت بر سیاست صربستان، شب گذشته در انتخابات پارلمانی شکست را پذیرفت. حزب او، حزب راستگرای صربستان (SNS)، از سال ۲۰۱۲ قدرت سیاسی را در دست داشت ووچیچ نیز از ۲۰۱۴ نخست‌وزیر و از ۲۰۱۷ رئیس‌جمهور بود
 ‏وچیچ، پس از شکست انتخاباتی مدعی شد حمایت اروپا و دولت سایه آمریکا «دموکراتها» در این نتیجه نقش داشته و مخالفان برای سرنگونی یک کشور مستقل فعالیت می‌کنند. او گفت: فعلاً موفق شده‌اید؛ باید دید تا چه زمانی! 
@@ -3368,15 +3416,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 14:45
-1405/08/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Israel's Diaspora Affairs Minister claims Lula did not win the election fairly and that Brazil is no longer a democracy.
-14:42
 1405/08/04
 
 
@@ -3475,14 +3514,6 @@ src :@jangaavaran1390
 
 
 
-src :@ClashReport
-‏Ukraine's parliament has extended martial law for another 90 days.
-14:38
-1405/08/04
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
@@ -3492,17 +3523,6 @@ src :@KayhanLondonChannel
 ‏این حکم در دادگاه بدوی در شعبه ۲۳ دادگاه انقلاب تهران به دلیل فعالیت‌های این وکیل دادگستری در شبکه‌های اجتماعی و با اتهام «فعالیت تبلیغی علیه نظام از طریق فضای مجازی» صادر شده بود.
 ‏ 
 ‏خبرگزاری «هرانا» گزارش داده  بابک اسلامی فارسانی، وکالت پرونده خانواده مهرشاد شهیدی، یکی از جان‌باختگان اعتراضات سال ۱۴۰۱ در اراک، را بر عهده داشته و در همین رابطه علیه او در دادسرای عمومی و انقلاب شهرستان اراک پرونده قضایی تشکیل شده بود.
-14:38
-1405/08/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Anthropic says its AI model Claude bypassed a paywall to access Georgia's publicly available voter count data without human authorization.
-‏
-‏The company said Claude did not access voter registration systems or alter voting records, and that safeguards have since been introduced to prevent similar actions.
 14:38
 1405/08/04
 
@@ -4261,28 +4281,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 13:35
-1405/08/04
-
-
-
-
-src :@Indypersian
-‏⭕️ سیگار چگونه بر تخمک‌ها و اسپرم‌ها تأثیر می‌گذارد؟
-‏
-‏📌 دانشمندان مجموعه‌ای از تغییرات ژنی را شناسایی کردند که می‌تواند به توضیح چگونگی تأثیر دود سیگار بر تخمدان‌ها و بیضه‌ها کمک کند
-‏
-‏♦️ یک پژوهش جدید نشان داده که سیگار کشیدن ممکن است با تغییر دادن فرایندهای زیستی دخیل در تولیدمثل، بر باروری زنان و مردان تأثیر بگذارد.
-‏
-‏دانشمندان دانشگاه‌های ناتینگهام و شفیلد در موش‌های نر و ماده‌ای که در معرض دود سیگار قرار گرفته بودند، مجموعه‌ای از تغییرات ژنی را شناسایی کردند که می‌تواند به توضیح چگونگی تأثیر دود سیگار بر تخمدان‌ها و بیضه‌ها کمک کند.
-‏
-‏بر اساس اعلام سازمان بهداشت جهانی، تقریبا از هر شش نفر در سراسر جهان، یک نفر در مقطعی از زندگی خود، ناباروری را تجربه می‌کند. اگرچه ارتباط میان سیگار کشیدن و کاهش باروری به‌روشنی اثبات شده، چگونگی تأثیر آن بر تخمدان‌ها و بیضه‌ها هنوز به‌خوبی شناخته نشده است.
-‏
-‏🖊 نیکول ووتن-کین
-‏
-‏ بیشتر بخوانید... 
-‏
-‏@indypersian
-13:34
 1405/08/04
 
 
@@ -6537,20 +6535,6 @@ src :@Mena_Live
 
 
 
-src :@P_raetorio
-‏قیمت نفت در بازارهای جهانی کاهش یافت.
-‏
-‏ نفت برنت با افت 0.80 درصدی به 115.79 دلار در هر بشکه رسید.
-‏
-‏ نفت خام آمریکا (WTI) نیز با کاهش 0.96 درصدی، در سطح 102.28 دلار معامله شد.
-‏
-‏@P_raetorio
-03:48
-1405/08/04
-
-
-
-
 src :@rnintel
 ‏🇷🇸⚡- Aleksandar Vucic has conceded defeat in Serbia's parliamentary elections.  The Student List has won the elections.
 03:27
@@ -7560,20 +7544,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 19:34
-1405/08/03
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏چین در روز جمعه ۲۳ اکتبر ۲۰۲۶ در طی دو پرتاب تعدادی ماهواره جاسوسی به مدار زمین فرستاد 
-‏
-‏چین روز جمعه یک ماهواره از سری «یائوگان-۵۰» را با راکت فضایی «لانگ مارچ ۶اِی» به مداری پس‌رونده (خلاف جهت چرخش زمین) فرستاد.
-‏
-‏همچنین، راکت فضایی «لانگ مارچ ۴بی» شش ماهواره شناسایی دیگر را شامل سه ماهواره از سری «یائوگان-۵۳» و سه ماهواره از سری «یائوگان-۵۶» در مدار زمین قرار داد.
-‏
-‏
-‏@rus_cosmos
-19:18
 1405/08/03
