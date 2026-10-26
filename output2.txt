@@ -1,3 +1,66 @@
+src :@Mena_Live
+[ویدئو]
+‏🇸🇾⚡- Massive explosion at a weapons depot in Saraqib, Idlib region, northwest Syria. Secondary explosions can be seen in the footage. The cause of the explosion remains unknown.
+20:16
+1405/08/04
+
+
+
+
+src :@rnintel
+[ویدئو]
+‏🇸🇾⚡- Massive explosion at a weapons depot in Saraqib, Idlib region, northwest Syria. Secondary explosions can be seen in the footage. The cause of the explosion remains unknown.
+20:15
+1405/08/04
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏تا ساعاتی دیگر، ناو های آبی خاکی / بالگرد بر نیروی دریایی آمریکا جان پی. مورثا (LPD-26)، میکین آیلند (LHD-8) و انکوریج (LPD-23) به پایگاه دریایی یوکوسوکا در ژاپن خواهند رسید.  این گروه آبی‌خاکی ( امفیبی) در ۲۸ سپتامبر ۲۰۲۶ پایگاه دریایی سن‌دیگو را ترک کرد…
+20:15
+1405/08/04
+
+
+
+
+src :@didarnews1
+[عکس]
+‏📸 قابی از سران شرکت‌کننده در نشست چهارجانبه ایران، پاکستان، ترکیه، عربستان
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+20:15
+1405/08/04
+
+
+
+
+src :@jangaavaran1390
+‏بلغارستان قصد دارد به خلبانان جنگنده‌ها و فرماندهان نیروی دریایی اجازه دهد تا پهپادهای دشمن را بدون کسب مجوز قبلی از مقامات عالی‌رتبه، مورد اصابت قرار دهند. این تصمیم در پی حملات مکرر به کشتی‌های تجاری در دریای سیاه اتخاذ شده است.
+‏
+‏سازمان پیمان آتلانتیک شمالی (ناتو) پیش از این، قوانین سخت‌گیرانه بلغارستان را مورد انتقاد قرار داده بود. این تغییرات پیشنهادی هنوز به تصویب نرسیده‌اند.
+20:15
+1405/08/04
+
+
+
+
+src :@ClashReport
+[ویدئو]
+‏NEW: A large explosion hit an apparent weapons depot or warehouse near Saraqib in eastern Idlib province, Syria.
+‏
+‏The footage shows a huge orange fireball and a rising plume of smoke, followed by secondary blasts and ammunition flying through the air, which fits stored munitions detonating. 
+‏
+‏Since September there has been a series of explosions at ammunition stores and sites holding leftover munitions across Syria, some of them belonging to the Defence Ministry.
+20:13
+1405/08/04
+
+
+
+
 src :@MilitarryWorld
 ‏🔴رویترز :
 ‏
@@ -576,21 +639,6 @@ src :@bricsnews
 
 
 
-src :@ClashReport
-[عکس]
-‏Ukraine’s population fell to 28.5 million by mid-2026, half a million fewer than the 29 million estimated in July.
-‏
-‏The drop is not so much due to deaths as because people are leaving.
-‏
-‏Migration, both within Ukraine and abroad, as the main cause. 
-‏
-‏A bigger wave could come after martial law is lifted, when men are free to leave the country and return from the front.
-19:27
-1405/08/04
-
-
-
-
 src :@MilitarryWorld
 ‏🔴کرملین: مسعود پزشکیان فردا در مسکو با رئیس‌جمهور روسیه دیدار خواهد کرد.
 ‏
@@ -616,27 +664,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 19:26
-1405/08/04
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russia has built about 16 new elevated air-defense towers in a ring roughly 50 km around Vladimir Putin’s Valdai residence, bringing the total near the site to more than 50, according to a Radio Liberty investigation based on satellite imagery. 
-‏
-‏They are mostly on the ring’s southern side, facing Ukraine, and are spaced about 15 km apart. 
-‏
-‏The lattice structures are designed to lift short-range systems such as Pantsir or Tor above the tree line so they can hit low-flying drones and missiles. 
-‏
-‏The new ring also covers Khotilovo airbase, a backup airfield for Putin connected to the residence by a dedicated rail line, and Lisiy Island on the Vyshny Volochyok Reservoir, home to a classified laboratory. 
-‏
-‏Radio Liberty’s Mark Krutov and OSINT analyst jembobineuse (at X), who mapped the sites with Planet Labs imagery, say the count roughly doubled in six months. 
-‏
-‏The Valdai area, with fewer than 100,000 people within 50 km, now has about half as many such towers as Moscow and the surrounding region, which has about 100 for more than 20 million people. 
-‏
-‏The buildup follows Russian claims of Ukrainian drone attacks on the residence, which Kyiv denied.
-19:21
 1405/08/04
 
 
@@ -2833,14 +2860,6 @@ src :@intelslava
 
 
 
-src :@wfwitness
-‏⚡️🇪🇬🇸🇦🇾🇪🇾🇪 Egyptian parliament is expected to vote today on a proposal to deploy Egyptian military forces to Saudi Arabia for a defensive mission coordinated with Saudi forces against Yemen’s Houthis. The vote had previously been postponed and is now scheduled…
-16:44
-1405/08/04
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇷بدء الاجتماع بين مسؤولين إيرانيين وممثلي دول حلف مكة في العاصمة طهران.
 ‏
@@ -2895,18 +2914,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 16:39
-1405/08/04
-
-
-
-
-src :@jangaavaran1390
-‏در یادداشتی در بلومبرگ استدلال شده است که عربستان سعودی دیگر نمی‌تواند برای مقابله با حوثی‌های یمن، عمدتاً به حمایت نظامی آمریکا تکیه کند و باید به‌دنبال تشکیل ائتلافی گسترده‌تر باشد.
-‏
-‏بر اساس این تحلیل، حملات موشکی و پهپادی مکرر حوثی‌ها، نقاط ضعف دفاعی عربستان را آشکار کرده است؛ درحالی‌که واشنگتن تمایل چندانی به ورود مستقیم به یک درگیری جدید ندارد. همچنین، عملیات‌های هوایی پیشین عربستان و آمریکا نتوانسته‌اند توانمندی‌های نظامی حوثی‌ها را به‌طور کامل از بین ببرند.
-‏
-‏این یادداشت پیشنهاد می‌کند ائتلافی با مشارکت کشورهای مختلف شکل بگیرد؛ ائتلافی که از نیروهای کوهستانی پاکستان، توان دریایی ترکیه و پشتیبانی نظامی کشورهای اروپایی بهره ببرد و قابلیت‌های زمینی، دریایی و دفاعی را با یکدیگر ترکیب کند.
-16:38
 1405/08/04
 
 
@@ -2975,15 +2982,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇮🇷❌🇺🇸 - A Tanker has reportedly been struck and is on fire off the coast of Basra, Iraq.
 16:28
-1405/08/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇮🇷🇸🇦🇹🇷🇵🇰 Iran's Deputy Secretary of the Supreme National Security Council, Ali Bagheri Kani, said Saudi Defense Minister Prince Khalid, Pakistani Army chief Gen. Asim Munir, and Turkish intelligence chief Ibrahim Kalin will attend a four-country security…
-16:25
 1405/08/04
 
 
@@ -5781,22 +5779,6 @@ src :@Parvazdaroj
 
 
 
-src :@Artemis_Force
-[عکس]
-‏ایالات متحده آمریکا، طی سال های گذشته ( علی الخصوص از ٢٠٢٠ به بعد)، توان صنایع دریایی خود را پله پله افزایش داده است و روز به روز همگی شاهد عقد قرارداد های مختلف با صنایع های مختلف هستن و همچنین تأسیسات جدیدی نیز در شرکت های مختلف در حال ورود به صنعت کشتی سازی ایالات متحده آمریکا هستن!
-‏
-‏روزی روزگاری ایالات متحده آمریکا در دهه قبلی عمدتا سالانه یک ناوشکن عملیاتی می‌کرد (1+1), اما حال ۴ ناوشکن را سالانه تحویل نیرو دریایی ایالات متحده آمریکا می‌دهد ( بحث عملیاتی کردن بماند) و از طرفی هم به دنبال افزایش نرخ ناوگان رزمی افتاده است
-‏
-‏بحث نبرد ناو از یک طرف، بحث ناوچه های کلاس لجند هم یک طرف و حتی مناقصه ناوچه جدید را هم نباید فراموش کرد... ( DDG X هم موردی دیگر)، با اینکه با توجه به سیاست های ایالات متحده آمریکا ( سیاست حزب های مختلف)، برخی از پروژه ها لغو می‌شوند، اما در این مورد که ناوگان رزمی باید گسترش بیابد هر ٢ حزب یک نظر دارند که سر ناوشکن های ارلی برک شاهد این مورد هستیم
-‏
-‏
-‏@artemis_force
-10:02
-1405/08/04
-
-
-
-
 src :@USAMRYDATA
 ‏🗳آیا گادی آیزنکوت، رئیس پیشین ارتش اسرائیل 🇮🇱 می‌تواند نتانیاهو را شکست دهد؟
 ‏
@@ -6000,17 +5982,6 @@ src :@Parvazdaroj
 
 
 
-src :@Artemis_Force
-[عکس]
-‏صبحتون بخیر و خوشی
-‏
-‏@artemis_force
-09:01
-1405/08/04
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇹🇷🇵🇰🇸🇦 Turkey, Pakistan, and Saudi Arabia to hold security meeting with Iran.
 ‏
@@ -6040,19 +6011,6 @@ src :@mwarmonitor
 src :@mwarmonitor
 ‏🔴 ترامپ   «به مردم اسرائیل، به کسانی که آن را ندیده‌اند، من حمایتی را که یک هفته پیش از نخست‌وزیر شما، بیبی نتانیاهو، به عمل آوردم، پیوست می‌کنم. همان‌طور که همه، از جمله دشمن می‌دانند، من و بیبی در پیروزی‌هایمان رابطه بسیار عالی با هم داشته‌اییم. من حمله…
 08:50
-1405/08/04
-
-
-
-
-src :@didarnews1
-[عکس]
-‏📷فارس: تصویر هواپیمای ترابری هرکولس c_130  عربستان سعودی در فرودگاه مهرآباد تهران
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-08:34
 1405/08/04
 
 
@@ -6517,14 +6475,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-‏⚡️🇧🇷🗳 – Lula has officially won the second round of Brazil's Presidential Elections.   99.75% of votes have been counted, with Lula winning 51.75% and Flavio Bolsonaro winning 48.25% of votes.
-05:29
-1405/08/04
-
-
-
-
 src :@rnintel
 ‏🇧🇷🗳⚡️- BREAKING: Flavio Bolsonaro contests the Brazilian presidential elections results.
 05:24
@@ -6862,15 +6812,6 @@ src :@rnintel
 [عکس]
 ‏🇧🇷🗳⚡️- Poliwave is currently estimating that Lula has a 75% chance to win.   This number will fluctuate as more votes are counted.
 02:51
-1405/08/04
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇧🇷🗳⚡️- At around 31% reporting, Bolsonaro is in the lead with 50.44% of the vote vs Lula at 49.56%  Bolsonaro is currently running 1.3 points better than his father did in the 2022 runoff.
-02:45
 1405/08/04
 
 
@@ -7507,20 +7448,6 @@ src :@tglobaleye
 
 
 
-src :@Mena_Live
-‏Syria’s largest refinery, Baniyas, is back online after installing four new Chinese reactors (R1, R2, R3 and R4), increasing processing capacity from 80,000 to 130,000 barrels per day of final products following a 50-day rehabilitation closure. Rehabilitation of the existing Homs refinery is expected to begin in early 2027, raising capacity from 45,000 to 70,000 barrels per day. 
-‏
-‏Meanwhile, a new 210,000-barrel-per-day refinery near Homs is expected to enter construction in 2027, with completion estimated to take around 40 months. 
-‏
-‏Together, these projects aim to make Syria self-sufficient in refining crude oil into diesel, gasoline and other petroleum products, ending reliance on imports of refined fuels.
-‏
-‏@Mena_Live
-20:50
-1405/08/03
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏🇺🇸🇸🇦⚠️ — JUST IN: The U.S. Embassy in Riyadh has warned American citizens of potential further attacks on Saudi airports following Houthi missile and drone strikes, cautioning that hostilities could rapidly escalate beyond the immediate region.
@@ -7584,35 +7511,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 20:32
-1405/08/03
-
-
-
-
-src :@Parvazdaroj
-‏Parvaz dar oj pinned a photo
-20:11
-1405/08/03
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏🌐اینترنت بدون محدودیت, با بهترین قیمت و کیفیت!
-‏
-‏تست رایگان +فعالسازی فوری کلیک کن
-‏
-‏فیلترشکن چند لوکیشنه🇩🇪🇫🇷🇺🇸🇳🇱🇹🇷
-‏و پرسرعت
-‏تانل شده برای همه اینترنت ها:
-‏🛜🛜🛜🛜🛜🛜🛜🛜
-‏
-‏مخصوص گیم، هوش مصنوعی و ترید و....
-‏
-‏امکان دریافت تست رایگان وخرید آنی ⬇️
-‏
-‏@v2yabot
-‏@v2yabot
-20:11
 1405/08/03
