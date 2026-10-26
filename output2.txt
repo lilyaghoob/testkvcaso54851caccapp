@@ -460,27 +460,6 @@ src :@mamlekate
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻کاتا کول، دروازه‌بان بارسلونا و تیم ملی اسپانیا، جایزه بهترین دروازه‌بان فوتبال زنان سال را در مراسم توپ طلای ۲۰۲۶ به دست آورد.
-‏
-‏🔹همچنین اونای سیمون، دروازه‌بان اتلتیک بیلبائو و تیم ملی اسپانیا، جایزه بهترین دروازه‌بان مردان سال را به دست آورد. 
-‏
-‏🔹کاتا کول، پس از دریافت جایزه گفت: «افتخار بزرگی است که در این مراسم حضور دارم و این صحنه را با یک اسپانیایی دیگر، اونای سیمون، شریک می‌شوم. افتخاری بالاتر از این وجود ندارد.»
-‏
-‏🔹او گفت: «از تیم ملی‌ام تشکر می‌کنم که این فرصت را به من داد تا نماینده کشورم باشم و به بازیکن بهتری تبدیل شوم. شاید این یک جایزه فردی باشد، اما همیشه می‌گویند بدون همه کسانی که در این مسیر نقش دارند، نمی‌توان به چنین موفقیت‌هایی رسید.»
-‏
-‏🔹اونای سیمون هم گفت: «آفرین کاتا [کول]. حضور امشب در اینجا واقعا برای من افتخار بزرگی است. این جایزه بدون همه کسانی که باید از آنها تشکر کنم، ممکن نبود. از پدر و مادرم و برادرم تشکر می‌کنم که مرا با این اصول و ارزش‌ها بزرگ کردند.»
-‏
-‏🔹او گفت: «می‌دانم که دنیای فوتبال بسیار پرهیاهو است و او [همسرش] به زندگی من آرامش می‌دهد.»
-‏
-‏@iranintltvsport
-01:18
-1405/08/05
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Trump:
@@ -926,21 +905,6 @@ src :@Alibk3
 ‏English News? Follow our backup:
 ‏https://t.me/Ali_bk_8
 00:30
-1405/08/05
-
-
-
-
-src :@ClashReport
-[عکس]
-‏𝗕𝗿𝗮𝘇𝗶𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝘀 𝗖𝗿𝗮𝘁𝗲𝗿 𝗔𝗳𝘁𝗲𝗿 𝗟𝘂𝗹𝗮 𝗩𝗶𝗰𝘁𝗼𝗿𝘆, 𝗦𝗼𝗺𝗲 𝗦𝘁𝗼𝗰𝗸𝘀 𝗣𝗹𝘂𝗻𝗴𝗲 𝗨𝗽 𝗧𝗼 𝟱𝟬%
-‏
-‏Brazilian stocks suffered a severe sell-off after Lula defeated Flávio Bolsonaro.
-‏
-‏The Ibovespa fell as much as 17.34% intraday, several stocks lost around half their value, and the dollar surged roughly 12% against the real.
-‏
-‏READ MORE
-00:27
 1405/08/05
 
 
@@ -1909,37 +1873,6 @@ src :@thewarreporter
 src :@WAR_ROOM_NEWS
 ‏بسنت درباره مقام‌های ایرانی گفت آمریکا آماده است افرادی را که با واشنگتن همکاری کنند از فهرست تحریم‌ها خارج کند. او افزود هدف آمریکا کشاندن حکومت ایران به میز مذاکره است و مقام‌هایی که حاضر به همکاری با واشنگتن باشند، می‌توانند ۳۰ درصد از دارایی‌های حکومت را که در اختیار دارند، برای خود بردارند
 23:04
-1405/08/04
-
-
-
-
-src :@wfwitness
-‏⚡️🇯🇴🇸🇾 The Jordanian military announced that it carried out strikes against sites belonging to "terrorist organizations in southern Syria, in retaliation for the deadly attack" on a church in Al-Karak, Jordan.
-‏
-‏According to the military, the attackers were linked to the targeted organizations.
-‏
-‏The Jordanian military says it destroyed several sites, killing and wounding numerous militants.
-‏
-‏It added that Jordanian forces will continue tracking down anyone seeking to threaten the country's security and its citizens.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:04
-1405/08/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧🇮🇱 Israeli artillery fire reported in Beit Yahoun, southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:03
 1405/08/04
 
 
@@ -3355,18 +3288,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 20:49
-1405/08/04
-
-
-
-
-src :@naya_foriraq
-‏🇾🇪العميد يحيى السريع: 
-‏شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 119 غارةً جويةً وصاروخاً استهدف بها الأعيان المدنية في العاصمة صنعاء ومحافظات الجوف وتعز وصعدة وعمران وإب ولحج وذلك من خلال طائرات "F-15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف، والعدوان الصاروخي من جيزان وخلفت شهداء وجرحى من المدنيين.
-‏ليبلغ إجمالي غارات العدوان السعودي منذ بدء التصعيد على بلدِنا 3298 غارةً جويةً وصاروخاً.
-‏
-‏https://t.me/naya_foriraq
-20:47
 1405/08/04
 
 
@@ -7359,48 +7280,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 03:20
-1405/08/04
-
-
-
-
-src :@BellumActaNews
-‏53%
-‏
-‏🔴 Lula da Silva — 50.2% ⬆️
-‏🔵 Flávio Bolsonaro — 49.8%⬇️
-03:11
-1405/08/04
-
-
-
-
-src :@BellumActaNews
-‏55%
-‏
-‏🔴 Lula da Silva — 50.3% ⬆️
-‏🔵 Flávio Bolsonaro — 49.6%⬇️
-03:11
-1405/08/04
-
-
-
-
-src :@BellumActaNews
-‏60%
-‏
-‏🔴 Lula da Silva — 50.5% ⬆️
-‏🔵 Flávio Bolsonaro — 49.4%⬇️
-03:11
-1405/08/04
-
-
-
-
-src :@BellumActaNews
-‏63%
-‏
-‏🔴 Lula da Silva — 50.6% ⬆️
-‏🔵 Flávio Bolsonaro — 49.3%⬇️
-03:11
 1405/08/04
