@@ -1,3 +1,33 @@
+src :@tabzlive
+[عکس]
+‏🇪🇹❌🇪🇹 — TPLF/TDF Major General Yohannes Woldegiyorgis, known as John Medid, surrendered and was captured in the central Tigray region by the ENDF and TPF following alongside other TDF soldiers and officers.
+01:10
+1405/08/05
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏#NEW ⚡️🇯🇴🇸🇾 - The Jordanian Airforce announced to have struck targets in Syria's Dar'aa, striking what it describes as "militant hideouts" linked to the 3 AlKarak's Church mass shooters, who were arrested earlier today.   No comment from the Syrian authorities…
+01:09
+1405/08/05
+
+
+
+
+src :@intelslava
+‏🇮🇷⚡️— Iran warns vessels violating regulations in the Strait of Hormuz will face “serious consequences.” 
+‏
+‏Armed Forces Chief of Staff Major General Ali Abdullahi asserts Tehran maintains full control of the waterway.
+‏
+‏@Intelslava
+01:09
+1405/08/05
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴نگاه غضب آلود فیلدمارشال رضایی به هیئت عربستانی تو دیدار امروزشون :
@@ -2082,25 +2112,6 @@ src :@intelslava
 src :@P_raetorio
 ‏رئیس ستاد کل ارتش تنها فرد حاضر در اتاق بود که با دستور نخست وزیر نتانیاهو مبنی بر حمله به ایران قبل از انتخابات مخالفت کرد؛ ارزیابی این است که اگر نتانیاهو دوباره انتخاب شود، زمیر استعفا یا برکنار خواهد شد.  یارون ابراهام، تحلیلگر سیاسی کانال ۱۲   @P_raetorio
 22:14
-1405/08/04
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇳🇮🇱🇵🇸⚡️ — NEW: The UN Independent International Commission of Inquiry has concluded that Israel has committed war crimes and crimes against humanity, including extermination, persecution, torture, rape and other forms of sexual violence, across the Occupied Palestinian Territory, while continuing the genocide in Gaza.
-‏
-‏In today's report, the commission found that Israeli military operations and settler violence in the occupied West Bank have formed part of a widespread and systematic campaign against Palestinian civilians since October 7, 2023. 
-‏
-‏The report also accused Israeli forces of deliberately targeting Palestinian children, using sexual violence to intimidate and displace communities, and expanding territorial control through forced displacement. More than 34,000 Palestinians remained displaced in the West Bank as of August 2026.
-‏
-‏In Gaza, investigators concluded that Israeli forces continued committing genocidal acts despite the ceasefire agreement, including killing and injuring civilians near the so-called Yellow Line.
-‏
-‏The commission also criticized the Palestinian Authority for suppressing dissent and failing to investigate abuses by its security forces.
-‏
-‏It called on Israel to end its occupation, dismantle settlements and return confiscated Palestinian land, while urging the Palestinian Authority to investigate violations and provide remedies to victims.
-22:13
 1405/08/04
 
 
@@ -4198,22 +4209,6 @@ src :@bricsnews
 
 
 
-src :@intelslava
-‏🇷🇸🇷🇺⚡️ — Serbia will not impose sanctions against Russia – a representative of the winning "Student List" party.
-‏
-‏He also added that Serbia will not abandon Russian gas and respects Russia as a great power, a historical partner, and in many cases, a defender.
-‏
-‏"We are not here to please foreigners," said Jovo Bakic.
-‏
-‏Despite the change in government, Serbians continue to be our brothers and promise not to succumb to anti-Russian rhetoric from the EU 
-‏
-‏@Intelslava
-18:27
-1405/08/04
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻سیاستمداران غیرقابل اعتمادترین صنف شغلی در ایالات متحده هستند
@@ -4284,27 +4279,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 18:17
-1405/08/04
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇺🇦🇪🇺⚡️ — Zelensky says Ukraine has completed its part of the Freyja anti-ballistic missile defense project, while work by its 10 partner countries remains ongoing.
-‏
-‏@IntelSlava
-18:17
-1405/08/04
-
-
-
-
-src :@intelslava
-‏🇪🇬🇸🇦⚡️ — The Egyptian Parliament has approved a resolution authorizing the President to deploy Egyptian forces to Saudi Arabia.
-‏
-‏@IntelSlava
-18:15
 1405/08/04
 
 
@@ -6864,35 +6838,11 @@ src :@ircfspace
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇾🇪❌🇸🇦 – #BREAKING: FIRMS data confirms a large fire broke out earlier today along the Saudi East-West Pipeline, about 90 kilometers west of Riyadh in the Najd desert.
-‏
-‏This coincides with the Houthi statement that the pipeline was targeted, although FIRMS last detected the fire about 11 hours ago, suggesting it could be under control by now, and that the attack was a while before than the Houthi announcement.
-‏
-‏Saudi authorities and other official sources have not confirmed damage to the pipeline.
-‏
-‏Coordinates of the struck substation, according to FIRMS data:
-‏📍 24.7975°N, 45.8298°E
-07:07
-1405/08/04
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇧🇷 Elon Musk says Brazil's presidential election results are "pretty weird."
 ‏
 ‏@BRICSNews
 06:57
-1405/08/04
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING ⚡️🇯🇴 - 2 gunmen carry out a mass shooting in a Church in Jordan's AlKarak with reports of at least 7 killed.
-06:38
 1405/08/04
 
 
@@ -7373,13 +7323,4 @@ src :@rus_cosmos
 [عکس]
 ‏انهدام یک لانچر سپاه در سیریک پس از شلیک موشک به سمت هرمز
 01:19
-1405/08/04
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏☪️🇦🇿 — Students at several schools in Azerbaijan protested on Monday against new dress-code rules that have resulted in hijab-wearing students and teachers being barred from schools.  Users across the country have also reported difficulties accessing Instagram…
-01:11
 1405/08/04
