@@ -1,3 +1,53 @@
+src :@defence_news
+[عکس]
+‏📱 سرویس های یک ماهه OPENVPN ❤️
+‏
+‏
+‏🚀 پلن‌های ویژه نامحدود:
+‏
+‏👤 تک‌کاربره — 350 تومان
+‏
+‏👥 دوکاربره — 550 تومان
+‏
+‏ 👥سه‌کاربره — 750 تومان
+‏
+‏🟢 بدون محدودیت حجم 
+‏📱 مخصوص دانلود و کارهای با حجم بالا و پهنای باند اختصاصی
+‏
+‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
+‏
+‏
+‏📩 برای خرید و دریافت سریع:
+‏
+‏😎@CFoxSupport
+17:40
+1405/08/05
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏⚡️🇮🇱 – Netanyahu is still going, and has posted another seven times urging people to go out and vote. He's now saying this is a "war for our home", and even claimed supporters of the Muslim Brotherhood are trying to steal the elections.
+17:38
+1405/08/05
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Houthis Claim Strike on Saudi Arabia’s Biggest Refinery
+‏
+‏Houthis claimed a ballistic missile strike on Saudi Arabia’s largest oil refinery, while the Saudi-led coalition said it destroyed two ballistic missiles heading toward Riyadh.
+‏
+‏READ MORE
+17:37
+1405/08/05
+
+
+
+
 src :@didarnews1
 ‏🔴رویترز به نقل از یک مقام پاکستانی:
 ‏
@@ -36,7 +86,7 @@ src :@defence_news
 
 
 src :@naya_foriraq
-‏الاعلام الفرنسي يزعم: مسؤول في السفارة الفرنسية بطهران تعرض لـ "الترهيب"
+‏🇫🇷الاعلام الفرنسي يزعم: مسؤول في السفارة الفرنسية بطهران تعرض لـ "الترهيب".
 17:34
 1405/08/05
 
@@ -168,6 +218,8 @@ src :@wfwitness
 ‏He also claimed a direct missile hit on the Defense Ministry in Riyadh, and said Houthi forces thwarted a Saudi-backed advance from the south of Bab al-Mandab led by Saudi officer Bader al-Harbi, inflicting heavy casualties. 
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:27
 1405/08/05
 
@@ -4688,14 +4740,6 @@ src :@mwarmonitor
 
 
 
-src :@GeoPWatch
-‏⚡️🇮🇱🗳 – Polling stations have opened in Israel.
-08:33
-1405/08/05
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -4707,22 +4751,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 08:30
-1405/08/05
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇾🇪❌🇸🇦 – The Houthis appear to have struck another Saudi Gas-Oil Separation Plant (GOSP) close to the Ghawar oil field, around 20 kilometers east of the Hawiyah Gas Plant, which was targeted along with other GOSP facilities some weeks ago.
-‏
-‏FIRMS spotted an anomalous amount of heat radiating from the GOSP, topping above 70 FRP around an hour ago.
-‏
-‏For comparison, other GOSP facilities in the area are emitting around ~0.6 FRP. It's likely the fire at the facility remains uncontained. Neither Saudi Arabia nor the Houthis have confirmed whether an attack took place at the facility.
-‏
-‏📍 Coordinates of the damaged GOSP:
-‏24°47'47.01"N 49°10'43.98"E
-08:03
 1405/08/05
 
 
@@ -5057,26 +5085,6 @@ src :@rnintel
 
 
 
-src :@GeoPWatch
-[عکس]
-‏⚡️🇧🇷 – Flávio Bolsonaro's party has recognized the results of the second round of the presidential elections, although it clarified that some issues in the process still require clarification.
-04:40
-1405/08/05
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇾🇪⚡️🇸🇦🇾🇪- Over the past week Ansarullah’s success has been concentrated in the southern Lahj region as they have taken the Kahboub mountain range and have since been pushing towards the Al Suqayyah area of southwestern Yemen.
-‏
-‏➡️ The Southern Giants have also announced that two Amaliqa units have pulled out of Am Nabia, claiming the withdrawal was a result of poor leadership by the PLC as well as accusing them of abandoning them.
-04:31
-1405/08/05
-
-
-
-
 src :@Mena_Live
 ‏Egyptian MP, Atef Magawry:
 ‏
@@ -5141,14 +5149,6 @@ src :@cataphract1
 src :@thewarreporter
 ‏🇯🇴🇸🇾 — Syrian authorities say 5 civilians, including women and children, were killed and two others wounded in Royal Jordanian Air Force airstrikes in southern Syria.  The Syrian government also said the Jordanian strikes were carried out without prior coordination…
 02:38
-1405/08/05
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇯🇴🇸🇾 – Syria has halted all traffic of goods and travelers across the Nassib border crossing with Jordan following the airstrike that killed five people in Dar'aa.
-02:27
 1405/08/05
 
 
