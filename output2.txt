@@ -1,3 +1,19 @@
+src :@rnintel
+‏🇮🇱⚡- Voter turnout for the Israeli elections at 10am local time reaches 16.68%, the highest at that hour in 45 years.
+12:44
+1405/08/05
+
+
+
+
+src :@defence_news
+‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
+12:42
+1405/08/05
+
+
+
+
 src :@defence_news
 [عکس]
 ‏🚀 قدرت هوش مصنوعی گوگل، حالا با هزینه‌ای کمتر!
@@ -20,6 +36,19 @@ src :@defence_news
 ‏@dr1net
 ‏
 ‏لینک کانال زودی جوین شو
+12:42
+1405/08/05
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Voter turnout in Israel reached 16.68% by 10:00 a.m. on October 27, the highest level at that hour since 1981. 
+‏
+‏More than 1.2 million people have voted in the parliamentary election, up from 15.9% at the same time in 2022. 
+‏
+‏Polls close at 10:00 p.m.
 12:42
 1405/08/05
 
@@ -166,7 +195,7 @@ src :@P_raetorio
 
 
 src :@WAR_ROOM_NEWS
-‏میزان مشارکت عمومی در انتخابات کنیسیت اسرائیل تا ساعت ده صبح، ۱۶ درصد بوده یعنی۱.۲۰۰.۰۰۰ نفر رای دهنده است، که بالاترین میزان مشارکت در این دوره از سال ۱۹۸۱ به شمار می‌رود
+‏میزان مشارکت عمومی در انتخابات کنیسیت اسرائیل تا ساعت ده صبح، ۱۶ درصد بوده یعنی۱.۲۰۰.۰۰۰ نفر رای دهنده است، که بالاترین میزان مشارکت در این دوره از سال ۱۹۸۱ به شمار می‌رود رای‌گیری‌ها رأس ساعت 10:00 شب به پایان می‌رسد
 ‏
 ‏🆔@WAR_ROOM_NEWS
 12:34
@@ -4826,14 +4855,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@rnintel
-‏🇫🇷⚡️- Emmanuel Macron caved in to a significant amount of the French students' demands, with sizeable reforms being implemented as soon as January. Despite this, several students unions have called on to keep pressuring the government for further reforms.
-21:19
-1405/08/04
-
-
-
-
 src :@Mena_Live
 ‏The Moroccan Ministry of Defence is at a very advanced stage of negotiations to purchase the David’s Sling air defence system, a Spanish-Israeli manufactured antimissile shield jointly developed by Israeli state firm Rafael Advanced Defense Systems and US…
 21:17
@@ -6030,20 +6051,6 @@ src :@DEJradio
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏«فرهاد فتاحی»، معاون عملیات نیروی دریایی ارتش جمهوری اسلامی، پس از گذشت ۹ ماه، مدعی شد که نیروهای جمهوری اسلامی، در روزهای نخست جنگ با شلیک موشک به ناو هواپیمابر آمریکایی «آبراهام لینکلن» آسیب زده‌اند؛ ادعایی که تاکنون شواهد مستقلی برای تایید آن منتشر نشده است.
-‏
-‏فرهاد فتاحی گفت: «همان روزهای ابتدایی جنگ، ما با موشک ایرانی ناو آبراهام لینکلن را مورد اصابت قرار دادیم.»
-‏بخوانید: https://iranwire.com/fa/news-1/159366
-‏
-‏@Farsi_Iranwire
-17:08
-1405/08/04
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏IRGC continues ballistic missile test-fire.
@@ -6953,46 +6960,4 @@ src :@thewarreporter
 ‏
 ‏— The Wall Street Journal | @TheWarReporter
 12:48
-1405/08/04
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏همان طور گمان می‌رفت گزارشات و تصاویر منتشر شده از انتقال تاد به بحرین غیرواقعی بود. سرکار گذاشتن اهالی میلیتاری خارجی هم اینطور است که تصویر قدیمی از انتقال تاد در اسرائیل را کمی ویرایش کرده به عنوان خبر و تصویر پخش میکنند.
-‏
-‏
-‏@RedLionCorpe
-12:44
-1405/08/04
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏🔖 جشنواره پاییزی لینگانو شروع شد
-‏
-‏📣 تا ۷۵٪ تخفیف ویژه روی دوره جامع آموزش زبان لینگانو برای کاربران تلگرام
-‏
-‏✅ 146 جلسه آموزشی باکیفیت (+72 ساعت آموزش)
-‏✅ از مبتدی تا پیشرفته
-‏✅ همراه با جزوه، تمرین و آزمون اختصاصی برای هر درس
-‏
-‏➕
-‏
-‏🎁 3 هدیه اختصاصی برای شما:
-‏
-‏✅ مینی‌دوره «یادگیری زبان با سریال فرندز»
-‏✅ مینی‌دوره «لغات و کالوکیشن»
-‏✅ ۱ سال اشتراک رایگان لینگانو ai،
-‏دستیار هوش مصنوعی اختصاصی لینگانو
-‏
-‏
-‏برای دریافت جزئیات و قیمت دوره، کافیه کلمه‌ی «مشاوره» رو به آیدی زیر بفرستین:
-‏
-‏@Lingano_support🔵
-‏@Lingano_support🔵
-12:44
 1405/08/04
