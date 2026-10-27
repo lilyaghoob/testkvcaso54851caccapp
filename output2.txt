@@ -1112,21 +1112,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏Top Democrats are preparing to investigate Trump's agreement to import Russian diesel if they regain control of Congress. 
-‏
-‏Lawmakers urged six major U.S. banks and several ports to preserve Russian diesel deal records, warning the imports could violate a 2022 ban and fund Russia’s war in Ukraine.
-‏
-‏The Treasury Department has waived sanctions to facilitate the arrangement and insists it is legal. 
-‏
-‏Source: Axios
-00:16
-1405/08/06
-
-
-
-
 src :@naya_foriraq
 ‏🇸🇾الجولاني:  لم يكن هناك ما يدفعني إلى الذهاب للعراق سوى الحميّة والغيرة والرغبة في الدفاع عن أهلنا العراقيين، رغم أن حياتي كانت مستقرة آنذاك، وكنت أتابع تعليمي وأعيش في ظروف مريحة.  -أعتز بتاريخي في العراق، وأؤكد أنني لم أعتدِ في حياتي على أي مدني أو شخص…
 00:14
