@@ -453,17 +453,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@ClashReport
-[عکس]
-‏LATEST: Israel’s three main TV networks have updated their exit polls and now all show the same result.
-‏
-‏Netanyahu’s bloc at 50 seats, the Jewish opposition at 52 and Arab-led parties at 18, leaving neither camp with the 61 seats needed for a majority.
-00:53
-1405/08/06
-
-
-
-
 src :@wfwitness
 ‏⚡️🗳🇮🇱 According to the initial exit polls, Netanyahu appears to have lost the elections, but the projected results also leave Gadi Eisenkot without a clear majority to form a government.  Despite this, Israeli political estimates suggest that President Isaac…
 00:53
@@ -6267,20 +6256,6 @@ src :@DEJradio
 ‏#قم
 ‏@DEJradio
 11:47
-1405/08/05
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🔺📢 خبرگزاری‌های حکومتی اعلام کردند از روز سه‌شنبه پنج آبان ۱۴۰۵ به مدت ۴ روز عملیات خنثی‌سازی مهمات عمل‌نکرده دوران جنگ در اهواز انجام می‌شود.
-‏
-‏انفجارهای کنترل شده در پادگان فولی‌آباد اهواز، واقع در محدوده کمربندی عین‌دو و توسط تیپ ۱۹۲ زرهی اهواز انجام می‌شود.
-‏
-‏#اهواز
-‏@DEJradio
-11:38
 1405/08/05
 
 
