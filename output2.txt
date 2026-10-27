@@ -1,3 +1,74 @@
+src :@ClashReport
+[عکس]
+‏BIG: The Trump administration is aware of Flávio Bolsonaro’s reported flight to the U.S.
+‏
+‏A Bolsonaro ally claims Washington actively helped arrange his departure.
+‏
+‏Bolsonaro is reportedly en route to Miami or Dallas.
+‏
+‏Source: Folha de S.Paulo
+21:21
+1405/08/05
+
+
+
+
+src :@defence_news
+[عکس]
+‏بقایای موشک پدافندی تاد عربستان طی تلاش امروز برای رهگیری موشک بالستیک یمنی در ریاض 
+‏
+‏@Minas_Tirith2024
+21:20
+1405/08/05
+
+
+
+
+src :@jangaavaran1390
+‏میانمار سوخت جت ایران را با برچسب گازوئیل آفریقای جنوبی وارد کرد
+‏
+‏بر اساس گزارشی از رویترز که کلاش ریپورت منتشر کرده، میانمار برای دور زدن تحریم‌های آمریکا، محموله‌های سوخت هوانوردی وارداتی از ایران را در اسناد تجاری و گمرکی به‌عنوان گازوئیل آفریقای جنوبی ثبت کرده است.
+‏
+‏طبق اسناد بررسی‌شده، شرکت میانماری «داینامیک ویو» با واسطه‌گری شرکت تایلندی «تاوان اویل تریدینگ» این معاملات را انجام داده است. یکی از محموله‌ها در دسامبر ۲۰۲۵ با نفتکش «ریف» و با حدود ۱۱۳ هزار بشکه سوخت به میانمار رسید؛ قراردادی به ارزش ۱۵٫۸ میلیون دلار که محموله را گازوئیل آفریقای جنوبی معرفی می‌کرد. با این حال، داده‌های تجاری و تحلیل تصاویر ماهواره‌ای، مبدأ محموله را بندرعباس ایران نشان می‌دادند.
+‏
+‏در مورد محموله‌ای دیگر نیز قراردادی در مه ۲۰۲۵ برای خرید حدود ۲۰۲ هزار بشکه سوخت به ارزش ۲۶ میلیون دلار ثبت شده بود. نفتکش «نوبل» این محموله را در ژوئن همان سال به یانگون منتقل کرد. بررسی مشخصات سوخت و تصاویر ماهواره‌ای نیز با ادعای انتقال سوخت هوانوردی از ایران مطابقت داشت.
+‏
+‏بر اساس گزارش، نهاد مسئول تنظیم مبادلات ارزی میانمار در اسناد وارداتی صراحتاً اجازه داده بود محموله به‌جای سوخت جت، گازوئیل معرفی شود. آمریکا از سال ۲۰۲۳ صنعت سوخت هوانوردی میانمار را به‌دلیل استفاده ارتش این کشور از حملات هوایی علیه غیرنظامیان هدف تحریم قرار داده است؛ خرید فرآورده‌های نفتی ایران نیز مشمول محدودیت‌های گسترده آمریکا است.
+21:20
+1405/08/05
+
+
+
+
+src :@rnintel
+‏🇮🇱⚡- In 30 minutes, the Election Committee will meet to discuss the Shas and Likud's request to extend the voting time.
+21:19
+1405/08/05
+
+
+
+
+src :@rnintel
+‏🇸🇾🇮🇱⚡- Israeli fighter jets enter southern Syrian airspace.
+21:17
+1405/08/05
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇧🇷 🇺🇸 — Senator and presidential candidate Flávio Bolsonaro has left Brazil for the United States, Reuters reports.
+‏
+‏The senator, who came within a few points of defeating incumbent socialist Luiz Inácio Lula da Silva, departed after Supreme Court Justice Alexandre de Moraes ordered him to surrender his passports within 24 hours amid an ongoing investigation he has denied. Brazilian authorities later canceled the documents when the deadline passed.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+21:17
+1405/08/05
+
+
+
+
 src :@defence_news
 ‏در صورتی که نتتون شبیه بنده داغونه
 ‏
@@ -6,6 +77,16 @@ src :@defence_news
 ‏Maktobat_nezami
 ‏
 ‏در پیام‌رسان بله و ایتا پیام میذارم
+21:17
+1405/08/05
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی تیتراول با نیوشا صارمی: لحظه به لحظه با انتخابات سرنوشت‌ساز اسراییل؛بالاترین میزان مشارکت در نیم قرن
+‏@iranintlTV
 21:17
 1405/08/05
 
@@ -4697,14 +4778,6 @@ src :@P_raetorio
 
 
 
-src :@rnintel
-‏🇳🇴🇫🇮🇷🇺⚡- "Russian President Vladimir Putin is preparing for phone talks with Finland’s President Alexander Stubb and Norway’s Prime Minister Jonas Gahr Store to discuss the prospects for a peace deal in Ukraine. The three leaders may speak as soon as today.…
-13:43
-1405/08/05
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏رد دودی که منتسب به پرتاب موشک از کرمان در رسانه ها نشر می شود در واقع رد کمبریل یک هواپیما مسافربری مبدا مشهد به مقصد کیش است که از روی کرمان رد شده است.
@@ -4719,14 +4792,6 @@ src :@P_raetorio
 src :@intelslava
 ‏urgent joint field and security committee to end these violations,
 13:39
-1405/08/05
-
-
-
-
-src :@rnintel
-‏🇮🇱⚡- A 94 year old man in Ramat Gan collapsed and died after casting his vote.
-13:32
 1405/08/05
 
 
@@ -4904,14 +4969,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 12:48
-1405/08/05
-
-
-
-
-src :@defence_news
-‏🇮🇷وقایع الاتفاقیه نظامی🇮🇷 pinned a photo
-12:42
 1405/08/05
 
 
@@ -6434,12 +6491,4 @@ src :@Navy_Iranian
 src :@Navy_Iranian
 ‏ماموریت های نیروی دریایی ارتش از زبان فرمانده این نیرو  Join us | @Iranian_Militarism
 21:36
-1405/08/04
-
-
-
-
-src :@Mena_Live
-‏The Moroccan Ministry of Defence is at a very advanced stage of negotiations to purchase the David’s Sling air defence system, a Spanish-Israeli manufactured antimissile shield jointly developed by Israeli state firm Rafael Advanced Defense Systems and US…
-21:17
 1405/08/04
