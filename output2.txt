@@ -37,7 +37,7 @@ src :@ClashReport
 
 
 src :@intelslava
-‏🇹🇷🇺🇸⚡ President Erdoğan held a phone conversation with U.S. President Donald Trump.
+‏🇹🇷🇺🇸⚡️ — President Erdoğan held a phone conversation with U.S. President Donald Trump.
 ‏
 ‏The leaders discussed bilateral relations between Turkey and the United States, as well as regional and global developments.
 ‏
@@ -321,7 +321,7 @@ src :@wfwitness
 
 
 src :@intelslava
-‏🇺🇦⚡ Russia is seriously committed to a meeting of technical groups.
+‏🇺🇦⚡️ — Russia is seriously committed to a meeting of technical groups.
 ‏
 ‏They will discuss de-escalation in the energy sector and at sea, prisoner exchanges, an end to the war, and the format of a possible meeting of the leaders
 ‏
@@ -364,7 +364,7 @@ src :@ClashReport
 
 
 src :@intelslava
-‏🇺🇦⚡ Zelensky said that holding elections during the war is impossible.
+‏🇺🇦⚡️ — Zelensky said that holding elections during the war is impossible.
 ‏
 ‏In his assessment, at least six months are needed to prepare a safe electoral process.
 ‏
@@ -1835,25 +1835,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 23:17
-1405/08/06
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻باشگاه‌های میلان و اینتر فردا شب از طرح ورزشگاه جدیدشان در شهر میلان رونمایی می‌کنند؛ پروژه‌ای که قرار است تا سال ۲۰۳۱ تکمیل شود و با ظرفیت ۷۱ هزار و ۵۰۰ نفر، یکی از پنج ورزشگاه بزرگ اروپا خواهد بود.
-‏
-‏🔹️️️️️️به نوشته گازتا دلو اسپورت طراحی استادیوم جدید را به نورمن فاستر، معمار سرشناس ۹۱ ساله، و شرکت معماری مانیکا سپرده شده است. فاستر در کارنامه خود پروژه‌هایی مانند ساختمان رایشتاگ برلین، پل میلنیوم لندن، اپل پارک و ورزشگاه‌های ومبلی و لوسیل را دارد.
-‏
-‏🔹️️️️️️برخلاف سن‌سیروی فعلی، این استادیوم شکلی بیضی خواهد داشت و با دو طبقه سکو ساخته می‌شود. شیب ۳۷ درجه‌ای سکوهای پشت دروازه‌ها، مشابه «دیوار زرد» دورتموند، قرار است فضای پرهیجان و حس عمودی ورزشگاه فعلی را حفظ کند. ارتفاع ورزشگاه نیز کمی کمتر از ۶۰ متر است.
-‏
-‏🔹️️️️️️یکی از جذاب‌ترین امکانات، «تونل کلاب» است؛ جایی که برخی از دارندگان بلیت‌های ویژه می‌توانند ورود بازیکنان به زمین را از پشت شیشه تماشا کنند.
-‏
-‏🔹️️️️️️رونمایی از طرح ورزشگاه فردا شب انجام می‌شود و ساخت آن قرار است تا سال ۲۰۳۱ به پایان برسد.
-‏
-‏@iranintltvsport
-23:16
 1405/08/06
 
 
@@ -4569,15 +4550,6 @@ src :@selena_updates
 ‏
 ‏An Israeli drone strike near the Fish Fresh area in Mawasi, Rafah, killed 5 people and wounded 10 others. Another strike near the Al-Iman flour mills in eastern Nuseirat left 3 people seriously wounded. Two additional strikes in Khan Yunis, including one in the Al-Bayoukh neighborhood, killed Mohammad Al-Bayoukh and wounded 6 others.
 19:15
-1405/08/06
-
-
-
-
-src :@Alibk3
-[عکس]
-‏7 طائرات تزويد بالوقود أميركية تُحلق بالقرب من مضيق هرمز.
-19:13
 1405/08/06
 
 
