@@ -25,7 +25,7 @@ src :@GeoPWatch
 src :@wfwitness
 ‏⚡️🗳️🇮🇱 Israel’s Official Election Results – Updated at 3:54 AM, October 28, 2026
 ‏
-‏Approximately 21.3% of votes have been counted (259,544 additional votes counted).
+‏Approximately 21.3% of votes have been counted.
 ‏
 ‏Projected Knesset seats:
 ‏
@@ -6899,14 +6899,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #A_A
 07:00
-1405/08/05
-
-
-
-
-src :@OSINTWarfare
-‏🇾🇪❌🇸🇦 — Apparently, Ansar Allah (Houthis) drones targeted Saudi Aramco’s Ghawar oil field in Saudi Arabia’s Eastern Province.
-‏
-‏@OSINTWarfare
-05:43
 1405/08/05
