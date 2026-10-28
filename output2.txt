@@ -1,3 +1,42 @@
+src :@Parvazdaroj
+[عکس]
+‏ایالات متحده، آزمایش‌های پروازی چهار فروند بالگرد بدون سرنشین MQ-8C Fire Scout را آغاز کردند.
+‏
+‏ارتش ( نیرو زمینی) ایالات متحده، چهار فروند بالگرد بدون سرنشین MQ-8C "فایر اسکوت" (Fire Scout) را از نیروی دریایی دریافت کرده و آزمایش‌های پروازی آن‌ها را به عنوان پلتفرم برای حسگرهای ارتش آغاز کرده‌اند.
+‏
+‏مرکز آزمایش رِدستون در پایگاه رِدستون (ایالت آلاباما) چهار فروند از این بالگرد بدون سرنشین ، دو سیستم سیار کنترل، موتورهای یدک و تجهیزات جانبی را دریافت کرده است.
+‏
+‏آزمایش‌ها در ماه آگوست سال جاری به پایان رسید.
+‏ 
+‏پروازها در میدان شلیک داگوی در ایالت یوتا و در پایگاه رِدستون انجام می‌شوند.
+‏
+‏نیروی دریایی ایالات متحده، از فوریه ۲۰۲۴، شروع به خارج کردن MQ-8C از سرویس کرده است.
+‏
+‏@artemis_force
+18:02
+1405/08/06
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇪🇸 Death toll rises to 64 after two high-speed trains collide near Toledo, Spain.
+‏
+‏@BRICSNews
+17:59
+1405/08/06
+
+
+
+
+src :@rnintel
+‏🇪🇸⚡️- 64 dead and nearly 200 wounded following a massive train accident in Spain.
+17:59
+1405/08/06
+
+
+
+
 src :@defence_news
 [ویدئو]
 ‏تصویر ماهواره‌ای سنتینل۲ از پالایشگاه راس تنوره  سعودی در ساحل خلیج فارس که طی حمله موشکی انصار الله، بنظر بخش اصلی فرآوری پالایشگاه مورد اصابت قرار گرفته است.
@@ -114,6 +153,8 @@ src :@wfwitness
 ‏“We will introduce policies encouraging the manufacture of products we currently import. Industrial exports approaching $3 billion annually demonstrate that Lebanese products can compete abroad, and export success deserves recognition.”
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 17:48
 1405/08/06
 
@@ -2569,15 +2610,6 @@ src :@mohem_mat
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇱🇧🇮🇱 Israeli artillery fire reported in Kfar Tebnit, southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-15:21
-1405/08/06
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏خبرگزاری‌ها و رسانه‌های حکومتی در ایران، از جمله فارس، تسنیم، انتخاب، دانشجو، ایرنا، مهر و خبرگزاری صداوسیما، با تمرکز گسترده بر انتخابات پارلمانی اسرائیل، اخبار، آمار و نتایج نظرسنجی‌ها و اظهارنظرهای جناح‌های مختلف را به‌صورت زنده و لحظه‌به‌لحظه بازتاب می‌دهند.
@@ -5017,19 +5049,6 @@ src :@DEJradio
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏«رافائل گروسی»، مدیرکل آژانس بین‌المللی انرژی اتمی، از جمهوری اسلامی خواست اطلاعات و دسترسی لازم برای بازرسی از تاسیسات هسته‌ای ایران، از جمله مراکز آسیب‌دیده در حملات نظامی، را فراهم کند. او هشدار داد که آژانس همچنان نمی‌تواند وضعیت ذخایر اورانیوم با غنای بالای ایران را راستی‌آزمایی کند.
-‏
-‏بخوانید : https://iranwire.com/fa/news-1/159458
-‏
-‏@Farsi_Iranwire
-10:53
-1405/08/06
-
-
-
-
 src :@didarnews1
 ‏🔴بعد از شمارش ۶۰ درصد آرا، ائتلاف نتانیاهو ۵۶ و ائتلاف آیزنکوت ۴۸ کرسی کرده‌اند. احزاب عربی هم ۱۶ کرسی کسب کرده‌اند.
 ‏
@@ -6693,18 +6712,6 @@ src :@tglobaleye
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇱 Israeli PM Netanyahu's coalition projected to lose its parliamentary majority.
-‏
-‏His opponent Gadi Eisenkot's bloc also falls short of 61 seats, according to exit polls.
-‏
-‏@BRICSNews
-23:45
-1405/08/05
-
-
-
-
 src :@Mena_Live
 ‏BREAKING: “Israeli president Herzog will likely grant the mandate to form a new government coalition to Eisenkot, ousting Benjamin Netanyahu.” (Israeli Channel 12)
 ‏
@@ -7379,46 +7386,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 18:03
-1405/08/05
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇮🇱 — Israeli PM Netanyahu:
-‏
-‏"Muslim Brotherhood supporters are raiding the polling stations and stealing the elections".
-‏
-‏@TheWarReporter
-18:01
-1405/08/05
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏تصویری از یک هواپیمای تانکر سوخت رسان روسی به نام IL-78М-90А با نشان‌های نیروی هوایی ارتش آزادی‌بخش خلق چین در اینترنت منتشر شده است. این عکس، که احتمالاً در اوایل ماه اکتبر گرفته شده، ابتدا به عنوان یک جعل احتمالی، ایجاد شده با استفاده از هوش مصنوعی، در نظر گرفته شد. با این حال، شواهدی وجود دارد که نشان می‌دهد این عکس اصیل است.
-‏
-‏بر اساس گزارش‌ها، چین در سال 2023، 20 فروند هواپیمای تانکر از روسیه سفارش داده است. تحویل این هواپیماها بارها به تعویق افتاده و اکنون انتظار می‌رود در سال‌های 2027-2028 انجام شود. به نظر می‌رسد که Il-78 به عنوان یک گزینه جایگزین در صورت بروز مشکل در هواپیمای تانکر چینی Y-20B MRTT در نظر گرفته شده است.
-‏
-‏یک سال پیش، در ماه اکتبر 2025، اطلاعاتی بر اساس "اسناد فاش شده" منتشر شد مبنی بر اینکه چین ("خریدار 156") ظاهراً 20 فروند IL-78МК-90А را با تحویل در سال‌های 2027-2028 سفارش داده است.
-‏
-‏دلایل این خرید همچنان موضوع بحث است. از جمله دلایل احتمالی، می‌توان به حمایت از صنعت هوافضا روسیه، علاقه به موتورهای PS-90А-76 و مزایای بالقوه Il-78 در برخی از مشخصات اشاره کرد. در درجه اول، قیمت بسیار پایین‌تر Il-78 در مقایسه با Y-20B (110-130 میلیون دلار در مقابل 160-250 میلیون دلار) ذکر شده است.
-‏
-‏همچنین میتواند دلیل آن نیاز فوری به ناوگان سوخترسان گسترده باشد به،طوری که هم با تولید داخلی و هم با خرید خارجی، ۴۰ درصد بیشتر از آنچه را که میتواند تولید کند، الحاق کند.
-‏
-‏@Parvazdaroj | Mmd
-18:00
-1405/08/05
-
-
-
-
-src :@Middle_East_Spectator
-‏NOTE: Our coverage of the election does not imply a recognition of the Israeli state or an acknowledgement of its so-called democratic process.
-‏
-‏‘Israel’ is a Zionist occupation regime illegitimately in control of Palestine.
-17:56
 1405/08/05
