@@ -168,16 +168,6 @@ src :@mamlekate
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Around 10 minutes ago, alerts were activated in the governorates of Yanbu and Jeddah, Saudi Arabia.
-‏
-‏They were activated for 8 minutes.
-02:41
-1405/08/06
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏The Berlin youth organization of the CDU has called for deploying the Bundeswehr against school protests
@@ -516,14 +506,6 @@ src :@MilitarryWorld
 src :@rnintel
 ‏🇮🇱⚡️ — Likud did not anticipate the level of voter turnout among Arab Israelis, according to Channel 16.
 01:47
-1405/08/06
-
-
-
-
-src :@tabzlive
-‏🇮🇱⚡️ — Likud did not anticipate the level of voter turnout among Arab Israelis, according to Channel 16.
-01:42
 1405/08/06
 
 
