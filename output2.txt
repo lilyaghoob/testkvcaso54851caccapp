@@ -1,3 +1,65 @@
+src :@rus_cosmos
+[عکس]
+‏گزارش‌های اولیه از حمله آمریکا به پایگاه دریایی ارتش جمهوری اسلامی ایران در بندر جاسک، واقع در جنوب استان هرمزگان، حکایت دارند.
+‏
+‏ در این گزارش‌های غیررسمی ادعا شده است که چهار موشک به این پایگاه اصابت کرده‌اند.
+02:01
+1405/08/08
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏🔻باشگاه‌های اینتر و میلان پنجشنبه‌شب از طرح ورزشگاه جدید ۷۱ هزار و ۵۰۰ نفری خود با نام «جنرالی استادیوم» رونمایی کردند. به نوشته ای‌اس‌پی‌ان، اینتر و میلان برای حق نام‌گذاری ورزشگاه جدید خود با شرکت بیمه ایتالیایی جنرالی قراردادی ۲۰ ساله به ارزش ۶۵۰ میلیون یورو، امضا کرده‌اند.
+‏
+‏🔹️️️️️️«جنرالی استادیوم» قرار است در سال ۲۰۳۱ افتتاح شود. دو باشگاه در بیانیه‌ای اعلام کردند این قرارداد «یکی از بزرگ‌ترین قراردادهای حق نام‌گذاری ورزشگاه در ورزش جهان» است.
+‏
+‏🔹️️️️️️توافق با جنرالی در مراسمی اعلام شد که طی آن تصاویر طراحی ورزشگاه جدید هم رونمایی شد. پروژه با هدایت مالکان دو باشگاه پیش می‌رود؛ ردبرد کپیتال پارتنرز، مالک میلان، و اوک‌تری، مالک اینتر.
+‏
+‏🔹️️️️️️طراحی ورزشگاه حاصل همکاری نورمن فاستر و دیوید مانیکا است؛ این دو معمار پیش از این نیز در طراحی ورزشگاه ومبلی لندن با یکدیگر همکاری کرده بودند.
+‏
+‏🔹️️️️️️این پروژه اکنون وارد مرحله طراحی و برنامه‌ریزی خواهد شد. انتظار می‌رود عملیات ساخت در سال ۲۰۲۸ آغاز شود و در صورت دریافت مجوزهای لازم، نخستین مسابقه در فصل ۳۲-۲۰۳۱ در آن برگزار شود.
+‏
+‏@iranintltvsport
+02:00
+1405/08/08
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧 Lebanese Telecommunications Minister Charles Hajj on the new reforms within the telecom sector:
+‏
+‏“Lebanon has more than 1,800 unlicensed internet networks. We are working to provide alternatives and dismantle them within 90 days wherever licensed networks are available. 
+‏
+‏We have added more than 100 stations to improve coverage and expect to resolve congestion by year-end or early January, provided no new war breaks out.”
+‏
+‏@wfwitness
+01:58
+1405/08/08
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️Roughly $3.3 billion in crypto left Binance-labeled hot wallets on Ethereum in about 40 minutes, in what Etherscan has tagged as a “Binance Hot Wallet Exploiter” incident, though estimates run as high as $5.8 billion depending on which chains are counted.
+‏
+‏On-chain records show the suspected attacker, funded partly through Tornado Cash, used an EIP-7702 delegation to take control of the wallet labeled Binance 14, then swept 167,464 ETH, about $1.6 billion in USDT and more than 60 other tokens, followed by 780 million USDC from a second hot wallet.
+‏
+‏Tether and Circle have frozen roughly $1.8 billion of the stolen stablecoins, while Binance says it is investigating a “potential security issue” and has not confirmed any impact on user funds, and former CEO CZ said the outflows “look like a hack.” 
+‏
+‏The root cause remains unconfirmed, and the incident has already hit markets, with Bitcoin falling below $78,500, Ethereum below $2,250, and BNB dropping as much as 9%.
+‏
+‏@deadwr
+01:56
+1405/08/08
+
+
+
+
 src :@GeoPWatch
 ‏💻❗️- The world's largest crypto exchange Binance has been hacked, with over $5.6 Billion USD stolen. This is the largest hack in crypto history.
 01:51
@@ -2431,32 +2493,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇧 L’Orient: Beirut’s Indictment Chamber referred former Economy Minister Amine Salam, his brother Karim and auditor Elie Abboud to criminal court on charges including embezzlement, illicit enrichment and money laundering.
-‏
-‏The chamber ordered their deferred arrest, which must be implemented by the criminal court. The case concerns suspected misuse of Insurance Control Commission funds and questionable contracts.
-‏
-‏The brothers also face forgery charges, while prosecution for using forged documents was extinguished under the general amnesty law.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:54
-1405/08/07
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇲🇮🇷 Newmax: The US administration plans to carrt out strikes against Iran next week following elections.   Aircraft are already moving into position and the use of MOABs are to be expected.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook…
-22:54
-1405/08/07
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏پیام‌های دریافتی از قشم حدود ساعت ۲۲:۴۵
@@ -2625,21 +2661,6 @@ src :@jangaavaran1390
 ‏روزنامه وال استریت ژورنال گزارش داد که امروز یک جلسه فوق‌العاده بین رئیس‌جمهور ترامپ و مقامات ارشد نظامی در کاخ سفید برگزار شد، که در آن رئیس‌جمهور در مورد گزینه‌های نظامی علیه ایران مطلع شد که ممکن است بلافاصله پس از پایان انتخابات میان‌دوره‌ای اجرا شوند.
 ‏
 ‏همزمان، به چندین کشور عربی حوزه خلیج فارس هشدار داده شده است که برای یک "کمپین نظامی کوتاه و فشرده" علیه ایران پس از انتخابات میان‌دوره‌ای آماده شوند.
-22:50
-1405/08/07
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇲🇮🇷 Newmax: The US administration plans to carrt out strikes against Iran next week following elections. 
-‏
-‏Aircraft are already moving into position and the use of MOABs are to be expected.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:50
 1405/08/07
 
@@ -2834,26 +2855,6 @@ src :@Indypersian
 ‏
 ‏@INDYPERSIAN
 22:41
-1405/08/07
-
-
-
-
-src :@IranintlTV
-‏🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنجشنبه ۷ آبان 
-‏
-‏🔹من آموزگارم. آخرین باری که نون سنگک خریدم یادم نمیاد کی بود، چون اگه سنگک بخرم، حقوقم به روز پنجم ماه هم نمی‌رسه. یه وعده غذای روزانه رو هم حذف کردم.
-‏
-‏🔹من دیابت نوع یک دارم، صدای ما باشید. انسولین نسبت به قبل خیلی گرون شده و فشار اقتصادی روی خانواده‌هاست. کسی نمی‌تونه تهیه‌اش کنه.
-‏
-‏🔹سه ورق قرص گرفتم که درد روماتیسمم رو کم کنه، شد یک میلیون و ۱۶۸ هزار تومان. آخه چه گناهی کردیم که گیر این جلادها افتادیم؟
-‏
-‏🔹باتری موبایلم رو بردم درست کنم، قیمتش شد ۳ میلیون و ۱۰۰ هزار تومان. گفتم موبایل جدید بگیرم، گفت ۷۱ میلیون تومان.
-‏
-‏🔹یه دونه نون لواش به اندازه کف دست گرفتم ۴۰ هزار تومان. نمی‌دونم چجوری باید زندگی کنیم.
-‏
-‏🔹از بندر ماهشهر: کیفیت نون خیلی بد شده. نون تیره و بی‌کیفیت با قیمت خیلی گرون تحویل می‌دن. نونوا می‌گه معلوم نیست چی توی این آرد می‌ریزن.
-22:39
 1405/08/07
 
 
