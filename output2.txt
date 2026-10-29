@@ -1,3 +1,67 @@
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏One launch unit was hit
+‏Qeshm, Hormozgan Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/L_znsxDNeAUChZcANYPKHdcX?xv=1
+‏
+‏ترجمه خودکار فارسی
+‏
+‏یک واحد پرتاب مورد اصابت قرار گرفت
+‏قشم، استان هرمزگان، ایران
+‏
+‏[پست تأخیری از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/L_znsxDNeAUChZcANYPKHdcX?xv=1
+‏
+‏𝕏  ·  @shin_persian
+00:42
+1405/08/08
+
+
+
+
+src :@ClashReport
+[عکس]
+‏NEW: The U.S. Army has conducted its first large-scale battlefield burial exercise since the Korean War, testing procedures to temporarily inter up to 2,400 remains in 24 hours as it prepares for high-intensity combat against a peer adversary.
+‏
+‏READ MORE
+00:41
+1405/08/08
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇱🇮🇷 — A few minutes ago, the IRGC Aerospace Force confronted a 'hostile' fighter jet near Qeshm Island in southern Iran and forced it to leave the area.
+‏
+‏— Iranian Tasnim News Agency | @TheWarReporter
+00:40
+1405/08/08
+
+
+
+
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇷🇺🇵🇸 President Putin says Russia supports the creation of a fully independent Palestinian state.
+‏
+‏@BRICSNews
+00:40
+1405/08/08
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏دو انفجار در نزدیکی سیریک، احتمالاً از مسیر تنگه هرمز رخ داد
+00:40
+1405/08/08
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇮🇷⚡️ — Photos from Qeshm Island  shows an earlier missile launch, followed by an apparent explosion at the site of the launcher.
@@ -37,6 +101,8 @@ src :@Alibk3
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏خبرگزاری تسنیم گزارش می‌دهد که نیروی هوافضای سپاه یک موشک زمین به هوا را به سمت یک جنگنده که در نزدیکی جزیره قشم، در حال پرواز بود، شلیک و آن را وادار به ترک محل کرد! گزارش‌های دیگر از منابع ثانویه نیز نشان می‌دهد که پرتاب‌های موشکی اولیه که ما گزارش دادیم، در واقع موشک‌های زمین به هوا بودند و این شلیک در همین زمان رخ داد
+‏
+‏🆔@WAR_ROOM_NEWS
 00:31
 1405/08/08
 
@@ -4466,15 +4532,6 @@ src :@Farsi_Iranwire
 
 
 src :@Shin_Persian
-[ویدئو]
-‏↩️ Quoted tweet: Shin ✓  @hey_itsmyturn  Yup, it's Mehr Darou Pharmaceutical Company #Tehran Province, #Iran   coords:  35.71694, 51.22781  ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.  ترجمه خودکار فارسی  آره، این شرکت داروسازی مهر دارو است استان…
-18:17
-1405/08/07
-
-
-
-
-src :@Shin_Persian
 [عکس]
 ‏🔁 Quoting above tweet:
 ‏Shin ✓ @hey_itsmyturn
@@ -6101,16 +6158,6 @@ src :@DEJradio
 
 
 
-src :@WAR_ROOM_NEWS
-‏آویگدور لیبرمن، رئیس حزب اسرائیل خانه ما خواستار اقدام سریع نهادهای قانونی برای روشن‌شدن حقیقت در انتخابات شد. بتسلئیل اسموتریچ، وزیر دارایی اسرائیل نیز خواستار بازجویی فوری از رهبران احزاب عرب در سازمان امنیت داخلی شین‌بت شد و تأکید کرد که اتهام دخالت پول‌های اسلام‌گرای خارجی در دستکاری انتخابات، آزمونی مهم برای اسرائیل است
-‏
-‏🆔@WAR_ROOM_NEWS
-11:37
-1405/08/07
-
-
-
-
 src :@didarnews1
 ‏🔴مرز زمینی ایران و پاکستان بسته شد
 ‏
@@ -6506,16 +6553,6 @@ src :@cataphract1
 [عکس]
 ‏البته مشخص نیست ارتش آمریکا چه برنامه ای برای نفربرهای سری M1296 خواهد داشت اما یک احتمال زیاد فروش آنها به کشورهای همپیان مانند تایلند، یونان و لهستان است.
 08:30
-1405/08/07
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇨🇳 China officially begins construction of world's first mobile, self-sustaining artificial island.
-‏
-‏@BRICSNews
-07:04
 1405/08/07
 
 
