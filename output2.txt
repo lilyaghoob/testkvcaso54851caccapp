@@ -1,3 +1,38 @@
+src :@OSINTWarfare
+[عکس]
+‏🇺🇦🇷🇺⚡️ — The Ukrainian Navy says it destroyed two Russian Su-34 fighter-bombers at Marinovka Air Baase in Volgograd Oblast using a Long Neptune extended-range cruise missile, also known as the R-360L Neptun-D or Neptune-MD.
+‏
+‏We'll now need to wait for satellite imagery to confirm this.
+‏
+‏@OSINTWarfare
+20:35
+1405/08/07
+
+
+
+
+src :@MilitarryWorld
+‏🔴سفیر آمریکا در ترکیه: 
+‏
+‏ما به توافقی برای کاهش تنش با ایران نزدیک شده‌ایم؛ طی دو هفته آینده ممکن است پیشرفت‌های چشمگیری حاصل شود
+‏
+‏@MilitarryWorld | Parsa
+20:34
+1405/08/07
+
+
+
+
+src :@naya_foriraq
+‏🇮🇱‏بيان للشاباك والشرطة والجيش: الجندي المعتقل سلم معلومات عسكرية حساسة لجهة إيرانية.
+‏
+‏https://t.me/naya_foriraq
+20:33
+1405/08/07
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏سخنگوی انجمن علمی روان‌پزشکان ایران در گفت‌وگو با خبرگزاری ایلنا از تشدید کمبود داروهای روان‌پزشکی در ماه‌های اخیر خبر داد.
@@ -6,6 +41,14 @@ src :@Farsi_Iranwire
 ‏بخوانید: https://iranwire.com/fa/news-1/159544
 ‏
 ‏@Farsi_Iranwire
+20:32
+1405/08/07
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از حمله موشکی حوثی ها به شهر های ریاض و الخرج ،عربستان سعودی
 20:32
 1405/08/07
 
@@ -644,6 +687,7 @@ src :@WAR_ROOM_NEWS
 
 
 src :@naya_foriraq
+[عکس]
 ‏🔻تحطم مروحية للقوة الأوروبية في البوسنة.
 ‏
 ‏https://t.me/naya_foriraq
@@ -1116,16 +1160,6 @@ src :@ClashReport
 src :@jangaavaran1390
 [عکس]
 ‏طی یک بسته ۵۰ میلیون دلاری کمک لهستان دو فروند میگ ۲۹ تحویل اوکراین می‌دهد یکی از آنها عمر بدنش به پایان رسیده و احتمالاً به عنوان لوازم یدکی استفاده می‌شود
-19:30
-1405/08/07
-
-
-
-
-src :@naya_foriraq
-‏🔻استهداف سفينة قرب سواحل عمان مما ادى لغرقها.
-‏
-‏https://t.me/naya_foriraq
 19:30
 1405/08/07
 
@@ -1948,19 +1982,6 @@ src :@mohem_mat
 ‏هم‌میهن
 ‏
 ‏@mohem_mat
-18:35
-1405/08/07
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏کیریاکوس میتسوتاکیس، نخست‌وزیر یونان، پنجشنبه هفتم آبان خواستار برقراری آتش‌بس جهانی در حمل‌ونقل دریایی شد و اعلام کرد که حمله به کشتی‌های تجاری غیرنظامی غیرقابل قبول است و تجارت و امنیت بین‌المللی را تهدید می‌کند.
-‏میتسوتاکیس در نشست عالی‌رتبه شورای امنیت سازمان ملل متحد که در دوره ریاست یونان بر این شورا با موضوع فناوری‌های نوظهور و امنیت دریایی برگزار شد، گفت کشتی‌های تجاری باید حتی در زمان درگیری‌های نظامی نیز بتوانند آزادانه و با ایمنی کامل تردد کنند.
-‏او گفت: «هدف قرار دادن کشتی‌های تجاری غیرنظامی کاملا غیرقابل قبول است.»
-‏نخست‌وزیر یونان افزود که اختلال در آزادی کشتیرانی، هزینه‌های حمل‌ونقل دریایی و بیمه را افزایش می‌دهد، در بازارهای جهانی بی‌ثباتی ایجاد می‌کند و در نهایت هزینه‌های بیشتری به مصرف‌کنندگان تحمیل می‌کند.
-‏https://iranintl.com/202610293364
 18:35
 1405/08/07
 
@@ -3497,16 +3518,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@MilitarryWorld
-‏🔴مکرون: جنگ علیه ایران عامل اعتراضات فرانسه است
-‏
-‏@MilitarryWorld | Parsa
-15:46
-1405/08/07
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏⭕️ادعای وال‌استریت ژورنال: جی‌دی ونس، معاون رئیس‌جمهور آمریکا، به دستور دونالد ترامپ، رئیس‌جمهور، نامه‌ای به محسن رضایی، مسئول امنیتی ایران، فرستاده است و در آن خواهان از سرگیری مذاکرات صلح شده است.
@@ -4007,19 +4018,6 @@ src :@mohem_mat
 
 
 
-src :@intelslava
-[عکس]
-‏🌍⚡️— A possible new dwarf planet has been discovered beyond Pluto, according to Reuters.
-‏
-‏The diameter of the icy object, designated 2026 ED138, is up to 1,500 km. It orbits the Sun at a distance 46 times greater than that of Earth.
-‏
-‏@Intelslava
-14:19
-1405/08/07
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏پاییز قلعه بابک، کلیبر، ایران🧡
@@ -4177,15 +4175,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 13:50
-1405/08/07
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺🇺🇦⚡️ — A jet-powered drone struck the railway station in Dnipro.  The administration reports that there are already 13 fatalities.  @Intelslava
-13:49
 1405/08/07
 
 
@@ -6169,16 +6158,6 @@ src :@mamlekate
 
 
 
-src :@WAR_ROOM_NEWS
-‏وال‌استریت ژورنال:جی‌دی ونس، معاون رئیس‌جمهور آمریکا، به دستور دونالد ترامپ، نامه‌ای برای محسن رضایی ارسال کرده و در آن خواستار ازسرگیری مذاکرات صلح شده است.هدف از این اقدام، ایجاد چارچوبی برای مذاکرات است که بتواند از آغاز دور تازه‌ای از حملات جلوگیری کند. با این حال، تاکنون هیچ پیشنهاد مشخصی برای صلح مطرح نشده است
-‏
-‏🆔@WAR_ROOM_NEWS
-00:01
-1405/08/07
-
-
-
-
 src :@didarnews1
 ‏🔴منابع شبکه الحدث: رایزنی‌هایی میان میانجی‌ها و ایران برای برگزاری نشستی در ترکیه پیش از ۴ نوامبر در جریان است.
 ‏
@@ -6721,13 +6700,4 @@ src :@KayhanLondonChannel
 src :@thewarreporter
 ‏🇯🇴🇸🇾 — The Jordanian Army says the Royal Jordanian Air Force carried out airstrikes targeting 'terrorist hideouts' in southern Syria, killing and wounding numerous members of 'terrorist organizations'.  "This operation is in response to and in retaliation…
 20:49
-1405/08/06
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏ایالات متحده آمریکا، پروژه تالون رو تقویت کرده است   در ماه اکتبر، فرماندهی نیروهای زمینی ایالات متحده، گروه عملیاتی تالون (Task Force Talon) که در گوام مستقر است، را به گردان سوم، هنگ چهل و سوم توپخانه‌ی پدافند هوایی (3/43 ADA) تغییر ساختار خواهد داد.   این…
-20:36
 1405/08/06
