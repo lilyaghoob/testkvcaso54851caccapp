@@ -33,6 +33,8 @@ src :@samueltarikh
 src :@Navy_Iranian
 ‏۳ اصابت در پایگاه دوم نیروی دریایی ارتش در جاسک
 ‏
+‏جنگنده آمریکایی به وسیله ۳ الی ۴ پرتابه پایگاه کنارک نداجا را مورد هدف قرار داد.
+‏
 ‏گزارش هایی تایید نشده از هدف قرار گرفتن یک سامانه منتشر شده است.
 ‏
 ‏@Navy_Iranian | #Admiral
@@ -3872,22 +3874,6 @@ src :@USAMRYDATA
 
 
 
-src :@intelslava
-[عکس]
-‏🇬🇧🇺🇦⚡️ — The £10 billion British aid package for Ukraine is designed to last for three years, according to Clash Report.
-‏
-‏The report indicates that the funds will be divided into two categories:
-‏
-‏1) Economic assistance: £7 billion, including £5.5 billion in guarantees to the World Bank and a £500 million grant to the World Bank.
-‏2) Military assistance: £3 billion, including £500 million for air defense systems. This could be used to purchase weapons from British companies.
-‏
-‏@Intelslava
-20:27
-1405/08/07
-
-
-
-
 src :@naya_foriraq
 ‏🇸🇦انفجارات عديدة تسمع في العاصمة رياض.  https://t.me/naya_foriraq
 20:27
@@ -4663,18 +4649,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@intelslava
-‏🇪🇪🇷🇺⚡️ — Estonia plans to build about 150 bunkers on the border with Russia.
-‏
-‏This decision has been made in response to threats from Russia. The bunkers will be intended to protect the population and critical infrastructure.
-‏
-‏@IntelSlava
-18:57
-1405/08/07
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‏ ‏
 ‏⁠نمایش «دشمن مردم»؛ شوریدن علیه دروغ قدیمی «اکثریت همیشه درست می‌گویند»
@@ -4702,29 +4676,6 @@ src :@Minas_Tirith2024
 ‏
 ‏ @P_raetorio
 18:48
-1405/08/07
-
-
-
-
-src :@intelslava
-‏🤬
-‏
-‏https://t.me/The_Europe_Update/13722
-18:48
-1405/08/07
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — Russia has created a special warhead capable of cutting the cables of cable‑stayed bridges, which could lead to their destruction.
-‏
-‏According to Zelensky’s adviser Serhiy Beskrestnov, Russia has already tried to use such a warhead to attack an electrical pylon.
-‏He noted that cable‑stayed bridges may be vulnerable to such strikes, despite the safety margin built into their design.
-‏
-‏@IntelSlava
-18:46
 1405/08/07
 
 
