@@ -1,3 +1,31 @@
+src :@GeoPWatch
+‏Test
+‏
+‏@GeoPWatch
+01:16
+1405/08/08
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی فریدون: از کوروش بزرگ تا حسن نصرالله؛ ایران‌دوستی به وقت رژیم اسلامی
+‏@iranintlTV
+01:13
+1405/08/08
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — U.S. strikes occured against Bandar-e-Jask, coastal southern Iran 27 minutes ago. 4 missiles struck the Islamic Republic of Iran Navy's Jask Naval Base.
+01:11
+1405/08/08
+
+
+
+
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 💸 — Binance Investigating Potential Security Incident After Large Hot Wallet Outflows
@@ -2789,18 +2817,6 @@ src :@Navy_Iranian
 
 
 
-src :@IranintlTV
-[عکس]
-‏سازمان عملیات تجارت دریایی بریتانیا، پنج‌شنبه هفتم آبان اعلام کرد که یک نفتکش هنگام خروج از تنگه هرمز هدف اصابت پرتابه‌ای ناشناس قرار گرفته است.
-‏این سازمان اعلام کرد که افسر امنیتی یک شرکت کشتیرانی، وقوع حادثه را گزارش داده و گفته است نفتکش متعلق به این شرکت هنگام تکمیل مسیر خروج از تنگه هرمز هدف قرار گرفته است.
-‏بر اساس اعلام سازمان عملیات تجارت دریایی بریتانیا، تاکنون گزارشی از زخمی شدن خدمه نفتکش یا آسیب زیست‌محیطی ناشی از این حادثه دریافت نشده است.
-‏https://iranintl.com/202610291324
-21:58
-1405/08/07
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏منصور عباس امروز، در جریان یک جلسه مشورتی در حزب رعم، گفت: احتمال تشکیل یک دولت ائتلافی اقلیت با حمایت ما، بسیار کم یا نزدیک به صفر است
 ‏
@@ -2978,15 +2994,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 21:32
-1405/08/07
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — UKMTO announces receiving a report from a Company Security Officer that their oil tanker was struck by a projectile while transiting out of the Strait of Hormuz. The CSO did not report anything regarding injuries nor environmental impact.
-21:30
 1405/08/07
 
 
@@ -6583,17 +6590,6 @@ src :@warmonitors
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌🇷🇺- The Ukrainian military continues to advance on the Southern Donetsk front, having recently established a foothold in central Komar and clearing the fields to the north.
-‏
-‏➡️ The village of Fedorivka has also been captured by Ukrainian forces as geolocated footage shows Russian drone strikes on Ukrainian positions west of Vesele.
-05:24
-1405/08/07
-
-
-
-
 src :@mamlekate
 ‏📝تورم ۸۸/۷ درصدی در مهرماه؛ حداقل هزینه ماهانه یک خانوار سه نفره ۱۰۰ میلیون تومان شد!  مرکز آمار ایران گزارش تورم مهرماه ۱۴۰۵ را منتشر کرد که نشان می‌دهد افزایش قیمت‌‌ها و فشار گرانی بر زندگی شهروندان با سرعت ادامه دارد. هر سه بخش تورم سالانه، ماهانه و نقطه…
 05:12
@@ -6777,20 +6773,4 @@ src :@OSINTWarfare
 ‏
 ‏@OSINTWarfare
 02:39
-1405/08/07
-
-
-
-
-src :@Mena_Live
-‏Following the recent “Mecca Agreement” visit to Tehran:
-‏
-‏Gulf News:
-‏
-‏The “Mecca Agreement” delegation requested that senior Iranian officials pressure the Houthis to cease their attacks on Saudi Arabia, but Tehran responded that it has no influence or control over Sana’a.
-‏
-‏The tripartite delegation returned empty-handed, and this is the first diplomatic failure.”
-‏
-‏@Mena_Live
-01:16
 1405/08/07
