@@ -1,3 +1,21 @@
+src :@Alibk3
+‏هجوم يمني في المنطقة الشرقية بالسعودية.
+04:01
+1405/08/07
+
+
+
+
+src :@intelslava
+‏🇾🇪❌🇸🇦 —Reports of Houthi ballistic missile launches toward Saudi Arabia.
+‏
+‏@IntelSlava
+03:57
+1405/08/07
+
+
+
+
 src :@OSINTWarfare
 ‏🇾🇪❌🇸🇦 — Reports of Ansar Allah (Houthis) launching ballistic missiles toward Saudi Arabia’s Eastern Province.
 ‏
@@ -2983,17 +3001,6 @@ src :@defence_news
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸🇷🇺🇺🇦⚡️ — Russia and Ukraine have begun demining operations to facilitate the delivery of humanitarian aid to Oleski, Melania Trump stated, citing information from Ukrainian ombudsman Dmytro Lubinets.
-‏
-‏@Intelslava
-22:06
-1405/08/06
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ تصاویر ماهواره‌ای ثبت شده در 25 آگوست 2026، کشتی‌های باری تجاری را در تمرینات چین برای تخلیه نیرو در سواحل جزیره هاینان نشان می‌دهند (عکس 1).
@@ -3590,15 +3597,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 21:12
-1405/08/06
-
-
-
-
-src :@Alibk3
-[عکس]
-‏توقف مطار الدمام بالمنطقة الشرقية في السعودية.
-21:09
 1405/08/06
 
 
