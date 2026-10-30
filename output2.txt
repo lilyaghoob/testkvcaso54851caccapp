@@ -1,3 +1,24 @@
+src :@ClashReport
+‏Iran's navy said it destroyed an unmanned surface vessel east of the Strait of Hormuz early Friday. 
+‏
+‏It also said two oil tankers caught fire after striking naval mines in what it called restricted waters, having ignored warnings and disabled their tracking systems.
+15:24
+1405/08/08
+
+
+
+
+src :@defence_news
+[عکس]
+‏این هم صرفا به صورت آرشیوی و تاریخ نامشخص در اینجا باشد برای دوستانی که علاقمند هستند ، باقی مانده موشک هوا به هوای امرام مدل C-8 که توسط اوکراینی ها برای مقابله با حمله هوایی روس ها در اطراف شهر دنیپرو در شرق این کشور شلیک شده است. مشخص نیست که پلتفرم شلیک کننده جنگنده اف 16 بوده یا سامانه پدافند هوایی NASAMS  
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+15:23
+1405/08/08
+
+
+
+
 src :@Alibk3
 ‏القوات المسلحة اليمنية تعلن أنها ستكشف اليوم  معلومات وتفاصيل مهمة عن الإدارة العملياتية والقيادة العسكرية الميدانية السعودية في اليمن.
 15:21
@@ -6,8 +27,42 @@ src :@Alibk3
 
 
 
+src :@cataphract1
+‏⭕️دونالد ترامپ در اظهاراتی درباره ایران گفت:
+‏
+‏«من جنگ با ایران را آغاز نکردم؛ این ایران بود که در سال ۱۹۷۹ جنگ را با ما آغاز کرد.»
+‏
+‏او با اشاره به وضعیت رهبران ایران اظهار داشت:
+‏
+‏«رهبران آن‌ها از صحنه خارج شده‌اند و ما نمی‌دانیم با چه کسی باید مذاکره کنیم؛ البته این‌ها جزئیات کم‌اهمیتی هستند.»
+‏
+‏ترامپ همچنین تأکید کرد که آمریکا به تضمینی نیاز دارد مبنی بر اینکه ایران هرگز به سلاح هسته‌ای دست پیدا نخواهد کرد.
+‏
+‏او در ادامه گفت:
+‏
+‏«اگر ایران سلاح هسته‌ای داشت، مجبور بودم رهبرانش را با عنوان «جناب» خطاب کنم؛ اما قصد ندارم چنین کاری انجام دهم.»
+‏✒️#LT
+‏📃@Cataphract1
+15:21
+1405/08/08
+
+
+
+
+src :@intelslava
+‏🇸🇩🇺🇦⚡️ — Sudanese military forces have detained Ukrainian snipers and instructors who were fighting on the side of militants, according to the country's Foreign Minister, Muhi Eddin Salem. He stated that some of them were killed.
+‏
+‏@Intelslava
+15:21
+1405/08/08
+
+
+
+
 src :@naya_foriraq
 ‏تكشف القوات المسلحة اليمنية عند الساعة الثالثة والنصف عصراً معلومات وتفاصيل مهمة عن الإدارة العملياتية والقيادة العسكرية الميدانية للعدو السعودي في اليمن.
+‏
+‏https://t.me/naya_foriraq
 15:21
 1405/08/08
 
@@ -159,6 +214,8 @@ src :@Alibk3
 
 src :@naya_foriraq
 ‏‏ترامب: الحرب على إيران ستنتهي قريباً
+‏
+‏https://t.me/naya_foriraq
 15:11
 1405/08/08
 
@@ -3628,21 +3685,6 @@ src :@Alibk3
 
 
 
-src :@ClashReport
-[عکس]
-‏The Trump administration agreed to provide $35 million in military aid to a Cameroonian unit accused of war crimes in exchange for accepting U.S. deportees.
-‏
-‏The package includes armored personnel carriers for the Rapid Intervention Battalion (BIR), which previously lost U.S. assistance over allegations of torture and human-rights abuses.
-‏
-‏Cameroon has accepted at least 36 deportees under the arrangement.
-‏
-‏Source: WSJ
-09:42
-1405/08/08
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️الناز شاکردوست، بازیگر سینمای ایران، در بخش نظرات صفحه اینستاگرام یک فیلم‌ سینمایی، در واکنش به انتشار خبر مهاجرتش نوشت، از ایران مهاجرت نکرده، بلکه حکم زندان مانع بازگشت او به کشور شده است.
@@ -3678,14 +3720,6 @@ src :@intelslava
 ‏
 ‏@Intelslava
 09:28
-1405/08/08
-
-
-
-
-src :@Alibk3
-‏المتحدث باسم القوات المسلحة اليمنية يعلن عدم تنفيذ أي عملية باتجاه العمق السعودي هذا اليوم وأن ما تدعيه السعودية باعتراض مسيرة في أجواء مكة المكرمة بهتان عظيم وكبير.
-09:23
 1405/08/08
 
 
