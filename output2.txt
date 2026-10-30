@@ -354,15 +354,6 @@ src :@naya_foriraq
 
 
 
-src :@rus_cosmos
-[عکس]
-‏یک فروند هواپیمای سوخت‌رسان کی‌سی-۱۳۵-آر  در حال پرواز بر فراز غرب اردن، کد اضطراری ۷۷۰۰ را ارسال کرد و در حال حاضر در حال بازگشت و فرود آمدن در اسرائیل است.
-03:50
-1405/08/08
-
-
-
-
 src :@GeoPWatch
 ‏#BREAKING  🇺🇸❌🇮🇷 - Locals in Jask, Hormozgan Province, Iran are reporting an unverified U.S. Attack on the Jask Naval Base. According to reports, attacks were carried out just minutes ago in the coastal area of the port city of Jask in southern Iran. 4 Missiles…
 03:50
