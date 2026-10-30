@@ -1,10 +1,71 @@
-src :@Mena_Live
-‏The UN Security Council has repeatedly renewed MINURSO, the UN peacekeeping mission in Western Sahara, at the last minute: 30 October 2019, 30 October 2020, 29 October 2021, 30 October 2023, 31 October 2024 and 31 October 2025. 
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇺🇸 🇮🇷 — Trump plans to resume strikes on Iran as early as November 4, the day after U.S. midterms, per senior Gulf officials. 
 ‏
-‏Despite this year’s failed resolutions, another last-minute compromise and temporary extension is expected before the mandate expires on 31 October 2026.
+‏The administration warned allies to prepare for a short, intense campaign to force a nuclear deal or destroy Iran's program. Gulf states seek de-escalation, fearing Iranian retaliation. Source: MS NOW
 ‏
-‏@Mena_Live
-02:23
+‏🌐 — The Global Eye | Subscribe ✈️
+02:31
+1405/08/09
+
+
+
+
+src :@ClashReport
+‏Zelensky:
+‏
+‏Five hundred PAC-3 interceptors is a significant number, and if delivered soon — this winter — they COULD BE a very effective defense package. 
+‏
+‏However, it has been determined that deliveries may begin ONLY IN A FEW YEARS. 
+‏
+‏We are asking our American partners to find a solution for precisely when there is a real danger and a real need to use PAC-3 interceptors.
+02:30
+1405/08/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏BIG: Trump is planning to resume strikes on Iran as early as November 4, the day after the U.S. midterm elections, according to senior Gulf officials.
+‏
+‏The administration has warned Gulf allies to prepare for a short, intense military campaign aimed at forcing Iran into a nuclear deal or destroying its nuclear program. 
+‏
+‏Gulf states are pushing for de-escalation, fearing Iranian retaliation.
+‏
+‏Source: MS NOW
+02:29
+1405/08/09
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The Trump administration does not plan to recognize Flávio Bolsonaro as Brazil’s rightful leader despite helping him flee to the U.S. after his election defeat. 
+‏
+‏Trump approved his entry on humanitarian grounds after adviser Jason Miller helped arrange his flight from Argentina. 
+‏
+‏Bolsonaro initially declared himself “the elected president” before changing his claim to Brazil’s rightful “leader.” 
+‏
+‏Trump remains reluctant to damage relations with President Lula, whom he says he likes.
+‏
+‏Source: Reuters
+02:28
+1405/08/09
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏اکسیوس گزارش داد سندی از وزارت خزانه‌داری آمریکا را به دست آورده که نشان می‌دهد نرخ تورم عمومی ایران در ماه سپتامبر به ۹۰ درصد رسیده است. این گزارش، افزایش تورم را به کاهش ارزش ریال و محدود شدن دسترسی ایران به بازارهای بین‌المللی در پی کارزار فشار اقتصادی دولت دونالد ترامپ مرتبط دانسته است.
+‏
+‏بر اساس این سند، نرخ تورم عمومی ایران پیش از آغاز حملات آمریکا و اسرائیل در اسفند ۱۴۰۴ حدود ۷۰ درصد بود و نرخ تورم هسته، بدون احتساب اقلام پرنوسان مانند مواد غذایی و انرژی، در سپتامبر اندکی بیش از ۷۰ درصد ثبت شد. همچنین نرخ غیررسمی دلار در ماه اکتبر به دو میلیون و ۶۸۷ هزار ریال رسید.
+‏
+‏وزارت خزانه‌داری آمریکا در این گزارش اعلام کرده است که از سوم شهریور، یک روز پس از اعلام آغاز کارزار «عملیات طرد اقتصادی»، هیچ محموله نفتی جدیدی در ایران بارگیری نشده است. به گفته این وزارتخانه، تحریم‌ها و محاصره دریایی آمریکا صادرات نفت ایران را محدود کرده و واشینگتن مسیرهای جایگزین انتقال پول، از جمله شبکه‌های رمزارزی، را نیز هدف قرار داده است.
+‏https://iranintl.com/202610300635
+02:26
 1405/08/09
 
 
@@ -63,6 +124,8 @@ src :@wfwitness
 ‏⚡️🇵🇱The Office of the Polish President announced that a meeting between Polish President Nawrocki and the First President of the Polish Supreme Court Kapiński is currently ongoing.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 02:17
 1405/08/09
 
@@ -609,7 +672,12 @@ src :@mamlekate
 ‏
 ‏کاری هم نمی تونن بکنن
 ‏
-‏@mamlekate
+‏
+‏💡 پیام‌های چند روز اخیر درباره قطع برق:
+‏t.me/mamlekate/104929 
+‏t.me/mamlekate/104941 
+‏t.me/mamlekate/104987 
+‏t.me/mamlekate/105036
 01:19
 1405/08/09
 
@@ -1487,22 +1555,6 @@ src :@MilitarryWorld
 
 
 
-src :@IranintlTV
-[عکس]
-‏دونالد ترامپ، رییس‌جمهوری آمریکا، گفت که مذاکرات با جمهوری اسلامی ادامه دارد، اما آمریکا برای رسیدن به نتیجه عجله‌ای ندارد.
-‏
-‏ترامپ جمعه هشتم آبان در کاخ سفید، در پاسخ به پرسش خبرنگاری درباره مذاکرات، گفت: «آن‌ها می‌خواهند صحبت کنند و مدام صحبت می‌کنند. اما ما، راستش را بخواهید، وقت داریم.»
-‏
-‏او گفت جمهوری اسلامی با مشکلات زیادی روبه‌روست و حقوق سربازان و نیروهای پلیس خود را پرداخت نمی‌کند.
-‏
-‏ترامپ افزود: «این جنگ است، اما جنگی معمولی نیست.»
-‏https://iranintl.com/202610300924
-23:48
-1405/08/08
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇵🇱 — Polish President Nawrocki aborts Senegal trip as police deploy to Constitutional Tribunal amid leadership crisis  President Karol Nawrocki cut short his flight to Senegal and ordered his plane to return to Poland after police entered the grounds…
@@ -2096,15 +2148,6 @@ src :@mohem_mat
 ‏سخنگوی ارتش پاکستان: هیچ مانعی برای پیوستن ایران به ائتلاف مکه وجود ندارد، این تصمیم در اختیار سه شریک اصلی این ائتلاف است. سخنگو ابراز "امیدواری محتاطانه" در مورد میانجی‌گری بین آمریکا و ایران کرد.
 ‏
 ‏@mohem_mat
-23:13
-1405/08/08
-
-
-
-
-src :@ClashReport
-[عکس]
-‏📸 Never-before-released footage of Hamas’s Qassam Brigades commanders, including military chief Mohammed Deif, meeting to plan the Oct. 7, 2023 attack on Israel.
 23:13
 1405/08/08
 
