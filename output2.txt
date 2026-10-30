@@ -1118,18 +1118,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[عکس]
-‏محمود نبویان، نماینده مجلس جمهوری اسلامی، اعلام کرد در تجمع شبانه حامیان حکومت در قم، از مجتبی خامنه‌ای، رهبر جمهوری اسلامی، درخواست کرده است مجوز ساخت بمب اتم را صادر کند.
-‏
-‏نبویان در شبکه اجتماعی ایکس نوشت این درخواست را در جریان تجمع حامیان حکومت مطرح کرده و حاضران نیز با تکبیر از آن حمایت کرده‌اند.
-‏https://iranintl.com/202610296385
-02:23
-1405/08/08
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇺🇸❌🇮🇷 — Axios reports that over the past 2 weeks, U.S. forces have conducted "self-defense strikes" against Iranian missile launchers in coastal southern Iran, confirming our report/analysis on the situation.
