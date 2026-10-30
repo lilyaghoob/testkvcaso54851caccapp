@@ -1,3 +1,49 @@
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇺🇸 — Over the past 48 hours, an unprecedented U.S. military airlift has swept across the Middle East. At least 10 heavy transport aircraft landed in Israel alongside roughly 80 aerial refueling tankers. 
+‏
+‏Simultaneously, a parallel wave of U.S. cargo planes touched down across Jordan, Saudi Arabia, Qatar, and Kuwait to rapidly reinforce regional air defenses. — C14
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+21:16
+1405/08/08
+
+
+
+
+src :@MilitarryWorld
+‏🔴پسر نتانیاهو: بزرگ‌ترین خطر برای اسرائیل پس از ایران، عرب‌های اسرائیل هستند.
+‏
+‏@MilitarryWorld | Parsa
+21:14
+1405/08/08
+
+
+
+
+src :@naya_foriraq
+‏🇾🇪العميد يحيى السريع: 
+‏شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 93 غارةً جويةً وصاروخاً استهدف بها الأعيان المدنية في العاصمة صنعاء ومحافظات الجوف وتعز وصعدة ومأرب وذمار وحجة وإب ولحج من خلال طائرات "F-15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف والعدوان الصاروخي من نجران وجيزان. 
+‏ليبلغ إجمالي غارات العدوان السعودي منذ بدء التصعيد على بلدِنا 3689 غارةً جويةً وصاروخا.
+21:13
+1405/08/08
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸🇲🇽 NYT: The Trump administration is expanding its AI-powered border surveillance network, with more than 350 AI-equipped towers currently operating along the U.S.-Mexico border. At least 1 million people in the United States and Mexico live within the surveillance range of these towers, which can detect and track people and vehicles around the clock.
+‏
+‏The administration has secured more than $1 billion to deploy an additional 1,500 towers, with plans to expand surveillance coverage along the Canadian border, coastal areas and Puerto Rico. The expansion has raised concerns over privacy and government surveillance, particularly as the cameras can monitor residential neighborhoods, schools and public spaces.
+‏
+‏@wfwitness
+21:11
+1405/08/08
+
+
+
+
 src :@mohem_mat
 [عکس]
 ‏میثم ظهوریان نماینده نزدیک به پایداری مجلس در توییتر مدعی شد:
@@ -152,7 +198,7 @@ src :@Parvazdaroj
 
 
 src :@WAR_ROOM_NEWS
-‏بر اساس تصاویر ماهواره‌ای سنتینل-۲ در تاریخ ۳۰ اکتبر، نیروی هوایی قطر تمامی تجهیزات و دارایی‌های هوایی خود را از پایگاه هوایی العُدید خارج کرده است  #پایگاه_العدید_قطر #تصاویر_ماهواره  🆔@WAR_ROOM_NEWS
+‏#مهم  🔴بر اساس تصاویر ماهواره‌ای امروز سنتینل-۲ نیروی هوایی قطر تمامی تجهیزات و دارایی‌های خود را از پایگاه هوایی العُدید خارج کرده است  #پایگاه_العدید_قطر #تصاویر_ماهواره  🆔@WAR_ROOM_NEWS
 21:03
 1405/08/08
 
@@ -169,7 +215,9 @@ src :@jangaavaran1390
 
 src :@WAR_ROOM_NEWS
 [عکس]
-‏بر اساس تصاویر ماهواره‌ای سنتینل-۲ در تاریخ ۳۰ اکتبر، نیروی هوایی قطر تمامی تجهیزات و دارایی‌های هوایی خود را از پایگاه هوایی العُدید خارج کرده است
+‏#مهم
+‏
+‏🔴بر اساس تصاویر ماهواره‌ای امروز سنتینل-۲ نیروی هوایی قطر تمامی تجهیزات و دارایی‌های خود را از پایگاه هوایی العُدید خارج کرده است
 ‏
 ‏#پایگاه_العدید_قطر
 ‏#تصاویر_ماهواره
@@ -2289,22 +2337,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-‏⚡️ With the possibility of renewed fighting across the Middle East, we’re looking to connect with people across the region who can help improve the speed and accuracy of our coverage.
-‏
-‏If you have information about developments in your area, we’d like to hear from you. Reports of explosions, missile attacks, air defence activity, infrastructure damage, unusual aerial activity, photos, videos and eyewitness accounts are all welcome.
-‏
-‏All submissions will be treated confidentially. Nothing will be published without your permission, and we will never identify you publicly. 
-‏
-‏Contact us directly via @WarfrontWitness_Bot.
-‏
-‏@wfwitness
-18:40
-1405/08/08
-
-
-
-
 src :@defence_news
 [عکس]
 ‏مالیات جوانی جالب‌ترین اسم سربازی بود که شنیدم. از اجباری هم بهتره.
@@ -3349,17 +3381,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏طرح از س. روزبه
 16:49
-1405/08/08
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴گادی آیزنکوت و نفتالی بنت، دو تا از چهره‌های سیاسی اسرائیل، تو خونه بنت با هم دیدار کردن. اونا درباره راه‌هایی برای تشکیل یه دولت کارآمد تو اسرائیل تو سریع‌ترین زمان ممکن صحبت کردن.
-‏
-‏@MilitarryWorld | Parsa
-16:44
 1405/08/08
 
 
@@ -6679,17 +6700,6 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 23:44
-1405/08/07
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇶 🌞 🇺🇸 — Iraqi outlets report heavy U.S. warplane activity over northern Iraq.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-23:40
 1405/08/07
 
 
