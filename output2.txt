@@ -13,6 +13,21 @@ src :@mohem_mat
 
 
 
+src :@wfwitness
+[عکس]
+‏⚡️️🇺🇸🇮🇷WSJ: The daily missions of U.S. F-35C and F/A-18 on the U.S. George Washington to shoot down Iranina ballistic missiles and drones to protect oil shipments have been crucial for secuting oil transits through the Strait of Hormuz. 
+‏
+‏However, the fast paced number of flights has put strain on flight operations and crews and mechanics critical to these operations with carriers involved in operations around the clock since the start of combat operations against Iran. 
+‏
+‏U.S. officials hava acknowledged that during the entense operations has hampered the U.S.'s ability to counter Chinese influence or other threats in zones around the world. 
+‏
+‏@wfwitness
+07:52
+1405/08/09
+
+
+
+
 src :@mohem_mat
 ‏قطر واقعاً یکی از شگفت‌انگیزترین نمونه‌های دخالت دیپلماتیک در یک قرن اخیر است. از میزبانی مذاکرات آمریکا و طالبان و توافق ۲۰۲۰، تا مدیریت تخلیه بیش از ۱۱۰ هزار نفر از افغانستان  از میانجیگری برای احیای روابط کنیا و سومالی و توافق صلح چاد
 ‏تا تبادل زندانیان ایران و آمریکا و آمریکا و ونزوئلا در ۲۰۲۳ از مذاکرات آزادی گروگان‌ها و آتش‌بس غزه تا میانجیگری برای بازگشت کودکان اوکراینی به خانواده‌هایشان، آزادی زندانیان غربی در افغانستان و توافق آتش‌بس پاکستان و افغانستان در ۲۰۲۵ و مذاکرات صلح کنگو و M23.
@@ -1195,18 +1210,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 02:50
-1405/08/09
-
-
-
-
-src :@intelslava
-‏🇷🇺⚡️ — Reports that there is a complete blackout in Kaliningrad, Russia.
-‏
-‏The reason is unknown.
-‏
-‏@IntelSlava
-02:49
 1405/08/09
 
 
@@ -5152,6 +5155,16 @@ src :@selena_updates
 ‏
 ‏Ahmed Tibi currently serves as a member of the Knesset (Israeli parliament) for an Islamist party (Ra'am) that received 11 seats in the last Israeli elections.
 17:56
+1405/08/08
+
+
+
+
+src :@intelslava
+‏😔 
+‏
+‏https://t.me/MaxOsintIntel/25587?single
+17:55
 1405/08/08
 
 
