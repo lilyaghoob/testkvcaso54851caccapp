@@ -1,3 +1,73 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇰🇼 The Kuwaiti Army announced that some of its units will conduct live-fire exercises in southern Kuwait from November 1 to 5, 2026, notifying citizens and residents.
+‏
+‏@wfwitness
+12:41
+1405/08/09
+
+
+
+
+src :@MilitarryWorld
+‏🔴سخنگوی ارتش خطاب به آمریکا:
+‏ماجراجویی جدید کنید، جغرافیای جنگ را گسترده می‌کنیم.
+‏
+‏@MilitarryWorld | Parsa
+12:39
+1405/08/09
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Additional footage of the Israeli airstrike on the town of Baracheet, southern Lebanon.  @wfwitness
+12:37
+1405/08/09
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏اگر در آینده با امدن ناو هواپیمابر روزولت به منطقه و بمب افکن های بی-۱ و بی-۵۲ به پایگاه های آمریکا در اروپا مواجه شویم احتمال حملات گسترده به ایران وجود دارد
+‏
+‏🆔@WAR_ROOM_NEWS
+12:37
+1405/08/09
+
+
+
+
+src :@Americana_ir
+[عکس]
+‏🔴 نزدیک به 29 میلیون آمریکایی تا به امروز به صورت زودهنگام (پستی یا حضوری) رای داده‌اند.  * اگر میزان مشارکت مشابه انتخابات میان‌ دوره‌ای 2022 باشد، یعنی یک چهارم رای‌دهندگان تا به امروز در انتخابات شرکت کرده‌اند.  #Election2026 🆔 @Americana_ir
+12:37
+1405/08/09
+
+
+
+
+src :@Indypersian
+[عکس]
+‏⭕️صدور حکم اخراج برای سومین دانشجوی دانشگاه تهران؛ پارسا قباخلو اخراج شد
+‏
+‏♦️در ادامه رسیدگی به پرونده‌های انضباطی دانشجویان پس از اعتراضات و تجمعات دانشگاهی اسفند ۱۴۰۴، شورای بدوی انضباطی دانشگاه تهران حکم اخراج پارسا قباخلو، دانشجوی ورودی ۱۴۰۴ رشته مهندسی برق این دانشگاه را صادر کرد.
+‏
+‏به گزارش خبرگزاری دانشجو و خبرنامه امیرکبیر، پرونده انضباطی قباخلو روز ۲۲ مهر در شورای بدوی انضباطی دانشگاه تهران بررسی شده و حکم «اخراج از دانشگاه با حفظ حق شرکت مجدد در آزمون ورودی» برای او صادر شده است.
+‏
+‏در متن رأی صادرشده، اتهام‌هایی از جمله «توهین به شعائر و مقدسات اسلامی و ملی»، «همکاری در ایجاد بلوا و آشوب در محیط دانشگاه» و «ارتکاب اعمالی بر ضد نظام جمهوری اسلامی» به این دانشجو نسبت داده شده است. با این حال، در نسخه منتشرشده از حکم، جزئیات و مصادیق رفتارهایی که مبنای این اتهامات قرار گرفته‌اند، تشریح نشده است.
+‏
+‏پارسا قباخلو پیش‌تر در دی‌ماه ۱۴۰۴ توسط نیروهای امنیتی بازداشت شده بود و شورای صنفی کل دانشجویان دانشگاه تهران خبر بازداشت و سپس آزادی او را اعلام کرده بود.
+‏
+‏پیش از این نیز مهیار افتخاری و امیرمحمد کریمی، دو دانشجوی ورودی ۱۴۰۴ رشته مهندسی پلیمر دانشگاه تهران، به اخراج از دانشگاه محکوم شده بودند.
+‏
+‏@indypersian
+12:37
+1405/08/09
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏میانجی‌های قطری روز جمعه ۸ آبان پس از بیش از ۱۲ ساعت گفت‌وگو با مقام‌های ایرانی در تهران، به دوحه بازگشتند تا مذاکرات را روز شنبه ادامه دهند. اکسیوس به نقل از منابع دیپلماتیک خبر داد این گفت‌وگوها با «پیشرفت مثبت» همراه بوده و هدف آن، دستیابی به توافقی برای ازسرگیری مذاکرات مستقیم ایران و آمریکا و جلوگیری از دور تازه حملات پس از انتخابات میان‌دوره‌ای آمریکا است.
@@ -24,6 +94,8 @@ src :@wfwitness
 
 src :@WAR_ROOM_NEWS
 ‏گزارش از حمله موشکی حوثی ها به شهر نجران عربستان
+‏
+‏🆔@WAR_ROOM_NEWS
 12:35
 1405/08/09
 
@@ -51,6 +123,8 @@ src :@naya_foriraq
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔥پنج نقطه از پالایشگاه نفت اوفا در روسیه مورد اصابت پهپادهای اوکراینی قرار گرفته است
+‏
+‏🆔@WAR_ROOM_NEWS
 12:34
 1405/08/09
 
@@ -2675,23 +2749,6 @@ src :@BellumActaNews
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸🇮🇷🇶🇦Axios: Qatari mediators held more than 12 hours of talks in Tehran on Friday in an effort to secure an agreement that would restart direct negotiations between the U.S. and Iran and prevent a renewed conflict, with diplomatic sources describing the talks as making positive progress. 
-‏
-‏Key obstacles remain: the Trump administration wants nuclear concessions before talks resume, while Iran is demanding the lifting of the U.S. naval blockade, access to frozen funds and permission to resume oil sales. Mediators are also reportedly urging Iran to allow UN inspectors to visit nuclear sites damaged in previous strikes, in exchange for possible sanctions relief.
-‏
-‏Differences remain within the Trump administration over the next steps. U.S. Secretary of War Hegseth and Secretary of State Rubio are reportedly sceptical that an agreement can be reached, while U.S. Vice-President Vance and Special Envoys Witkoff and Kushner favour renewed negotiations. 
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-05:39
-1405/08/09
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇺🇸🇮🇷⚡️ — WSJ's correspondent on the U.S. Navy Nimitz-class aircraft carrier USS George Washington wrote an article describing the operations the aircraft carrier does to assist U.S. forces in facilitating transit through the Strait of Hormuz.
@@ -3171,18 +3228,6 @@ src :@rnintel
 src :@rnintel
 ‏🇵🇱⚡️- Donald Tusk's judge, Anna Korwin-Piotrowska, and another Constitutional Judge, Maciej Berek, attempted to prevent 6' 1" ex-hooligan President Nawrocki from entering the Constitutional Tribunal. They resisted for about 4 seconds. Maciej Berek posted the…
 04:04
-1405/08/09
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️به گزارش «عرب‌نیوز»، شاهزاده فیصل بن فرحان، وزیر امور خارجه عربستان سعودی، روز جمعه در نشست وزرای خارجه گروه ۲۰ در شهر آتلانتای آمریکا با محوریت تحولات ژئوپلیتیک، امنیت دریانوردی، امنیت انرژی و زنجیره تأمین جهانی شرکت کرد و در حاشیه این گردهمایی با مارکو روبیو، وزیر امور خارجه ایالات متحده، پیرامون روابط راهبردی ریاض و واشینگتن، همکاری‌های اولویت‌دار و چالش‌های منطقه‌ای به گفتگو پرداخت. در جریان این دیدار، قرارداد مشارکت رسمی آمریکا در نمایشگاه «اکسپو ۲۰۳۰ ریاض» به امضا رسید و وزیر خارجه سعودی همچنین با همتایان خود از کانادا، روسیه و مسئول سیاست خارجی اتحادیه اروپا دیدار و رایزنی کرد.
-‏*بخش پایانی برگرفته از گفتگوی سردبیر ایندیپندنت فارسی خانم کاملیا انتخابی فرد با شاهزاده رضا پهلوی در نهم آبان ماه ۱۴۰۲ در واشنگتن دی‌سی می‌باشد.
-‏
-‏@IndyPersian
-03:53
 1405/08/09
 
 
@@ -3732,16 +3777,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 00:44
-1405/08/09
-
-
-
-
-src :@MilitarryWorld
-‏🔴رائفی‌پور: ممکنه دشمن تو جنگ بعدی حتی به برج میلاد هم حمله کنه
-‏
-‏@MilitarryWorld | Parsa
-00:43
 1405/08/09
 
 
@@ -4583,16 +4618,6 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 23:03
-1405/08/08
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏ائتلاف گزارش داد یک پهپاد حوثی ها را بر فراز مدینه رهگیری کرده است
-‏
-‏🆔@WAR_ROOM_NEWS
-23:01
 1405/08/08
 
 
