@@ -1,3 +1,57 @@
+src :@didarnews1
+[عکس]
+‏🔴انفجار بزرگ در جنوب لبنان رخ داد
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+00:10
+1405/08/10
+
+
+
+
+src :@MilitarryWorld
+‏🔴خبرگزاری فارس گزارش داد:
+‏بانک مرکزی قصد دارد واردکنندگان خودرو و تلفن همراه را از بازار رسمی ارز خارج کند.
+‏
+‏@MilitarryWorld | Parsa
+00:10
+1405/08/10
+
+
+
+
+src :@samueltarikh
+‏صحبت‌های امشب فیلدمارشال رضایی که به نوعی از جانب نفر اول نظام صحبت می‌کند را دیدید. آنچه از صحبت‌های او به وضوح برمی‌آید این است که ایران مطلقا هیچ چیز نمی‌دهد و در عوض همه چیز هم می‌خواهد. اگر کسی فکر می‌کند با این دیدگاه‌ها در کوتاه‌مدت یا حتی میان‌مدت…
+00:09
+1405/08/10
+
+
+
+
+src :@BellumActaNews
+[عکس]
+‏#BREAKING | 🇸🇾 — Heavy explosion reported south of the Syrian capital Damascus.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+00:08
+1405/08/10
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇸🇾 — Heavy explosion reported south of the Syrian capital Damascus.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+00:07
+1405/08/10
+
+
+
+
 src :@Exciton_missile_program
 ‏نکته جالب مسئله اینجاست که هفت شرط هم همان شروط توافق اسلام آباد نیستند بلکه دچار به روزرسانی هایی شده اند مثلا در خصوص توقف جنگ به جز لبنان و غزه، مسئله کرانه باختری هم اضافه شده. 
 ‏
@@ -2534,18 +2588,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 19:55
-1405/08/09
-
-
-
-
-src :@MilitarryWorld
-‏🔴مقام ارشد امنیتی ایران به CNN: جنگ بعدی طولانی خواهد بود
-‏
-‏یک مقام ارشد امنیتی ایران به CNN گفته است: «جنگ بعدی طولانی خواهد بود و ایران اجازه نخواهد داد آمریکا یک برنامه تهاجمی فشرده را اجرا کند.
-‏
-‏@MilitarryWorld | Parsa
-19:53
 1405/08/09
 
 
@@ -5282,33 +5324,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Shin_Persian
-[عکس]
-‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
-‏
-‏Another RC-135 Swap in Progress? #IranWar 
-‏
-‏RC-135W "OLIVE32" 62-4132 #AE01CF (OF) 
-‏is arriving from CONUS likely heading for RAF Mildenhall (EGUN) this morning. It is then expected to head onwards to Chania (LGSA).
-‏
-‏@MATA_osint
-‏
-‏ترجمه خودکار فارسی
-‏
-‏یک جابه‌جایی دیگر برای RC-135 در جریان است؟ #IranWar
-‏
-‏RC-135W «OLIVE32» با شماره 62-4132 و #AE01CF (OF)
-‏امروز صبح از ایالات متحده قاره‌ای وارد می‌شود و احتمالاً به سمت پایگاه نیروی هوایی سلطنتی میلدنهال (EGUN) می‌رود. سپس انتظار می‌رود مسیرش را به سوی خانیا (LGSA) ادامه دهد.
-‏
-‏@MATA_osint
-‏
-‏𝕏  ·  @shin_persian
-12:20
-1405/08/09
-
-
-
-
 src :@didarnews1
 ‏🔴 قوه قضائیه:
 ‏
@@ -5422,30 +5437,6 @@ src :@defence_news
 ‏🔹شبکه کان افزود که در مقابل، حزب لیکود انتظار دارد در پی این تحقیقات، اقداماتی مهم صورت گیرد.
 ‏
 ‏@Unaatann
-11:54
-1405/08/09
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏2x C-130s landed at Mehrabad at 0805Z and 0819Z
-‏Tehran, Tehran Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/0manaADmIOWLrzl1s39RgW0x?xv=1
-‏
-‏ترجمه خودکار فارسی
-‏
-‏۲ فروند سی-۱۳۰ در ساعت 0805Z (۱۱:۳۵ به وقت تهران) و 0819Z (۱۱:۴۹ به وقت تهران) در مهرآباد فرود آمدند
-‏تهران، استان تهران، ایران
-‏
-‏[ارسال با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/0manaADmIOWLrzl1s39RgW0x?xv=1
-‏
-‏𝕏  ·  @shin_persian
 11:54
 1405/08/09
 
@@ -5681,22 +5672,6 @@ src :@Americana_ir
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Islamic Regime Army spokesperson Brig. Gen. Akraminia warns that “another US ‘adventure’ prompted by Israeli threats or inducements, would widen the war and leave its end beyond the US president’s control”
-‏
-‏ترجمه خودکار فارسی
-‏
-‏سرتیپ اکرم‌نیا، سخنگوی ارتش رژیم اسلامی، هشدار می‌دهد که «یک «ماجراجویی» دیگر آمریکا که در پی تهدیدها یا تطمیع‌های اسرائیل صورت گیرد، جنگ را گسترش خواهد داد و پایان آن را از کنترل رئیس‌جمهور آمریکا خارج خواهد کرد»
-‏
-‏𝕏  ·  @shin_persian
-11:02
-1405/08/09
-
-
-
-
 src :@guard_warriors
 ‏✪ وزارت امور خارجه امریکا فروش 500 موشک PAC-3 MSE به ارزش 2.1 میلیارد دلار به اوکراین را تایید کرد.این خرید با مشارکت المان و کانادا انجام شده است.
 ‏
@@ -5716,22 +5691,6 @@ src :@Minas_Tirith2024
 ‏✒️#LT
 ‏📃@Cataphract1
 10:35
-1405/08/09
-
-
-
-
-src :@didarnews1
-‏🔴ادعای ترامپ:
-‏
-‏توانایی ایران برای ایجاد تهدید هسته‌ای را از این کشور گرفتیم
-‏
-‏حجم نفتی که اکنون از تنگه هرمز عبور می‌کند، بیشتر از هفت ماه پیش است 
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-10:33
 1405/08/09
 
 
@@ -6412,19 +6371,6 @@ src :@rnintel
 src :@rnintel
 ‏🇵🇱⚡️- Donald Tusk's judge, Anna Korwin-Piotrowska, and another Constitutional Judge, Maciej Berek, attempted to prevent 6' 1" ex-hooligan President Nawrocki from entering the Constitutional Tribunal. They resisted for about 4 seconds. Maciej Berek posted the…
 04:04
-1405/08/09
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇵🇱🔥❗️ — Polish President Karol Nawrocki has arrived outside the Constitutional Tribunal in Warsaw, where riot police in full gear are deployed amid ongoing tension and protests at the building.
-‏➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖
-‏@BellumActaNews
-03:28
 1405/08/09
 
 
