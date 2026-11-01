@@ -1,5 +1,88 @@
 src :@ClashReport
 [عکس]
+‏BIG: Ukraine’s air-alert app sent Kyiv residents notifications warning of “radiation danger,” and Telegram channels reported that it also issued chemical threat and street-fighting alerts for the capital. 
+‏
+‏Within minutes, Ukrainian Telegram channels said the app may have been hacked and that the alerts were caused by a glitch.
+00:21
+1405/08/11
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏ترامپ: من همین الان گفتگوهای سازنده‌ای با نتانیاهو داشتم و در مورد مسائلی مربوط به ایران صحبت کردیم
+00:21
+1405/08/11
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ:
+‏
+‏من گفتگوی بسیار خوبی با نتانیاهو داشتم.
+‏
+‏ما در مورد ایران بحث کردیم.
+‏
+‏@MilitarryWorld | Parsa
+00:19
+1405/08/11
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏دونالد ترامپ، رییس‌جمهوری آمریکا، یکشنبه ۱۰ آبان، پیش از شرکت در تجمع انتخاباتی در ایالت آیووا، به خبرنگاران گفت که گفت‌وگوی خوبی با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، درباره ایران داشته است.
+‏پیشتر اکسیوس به نقل از یک منبع اسرائیلی و یک منبع آمریکایی گزارش داد بنیامین نتانیاهو، نخست‌وزیر اسرائیل، از دونالد ترامپ، رییس‌جمهوری آمریکا، می‌خواهد بلافاصله پس از انتخابات میان‌دوره‌ای سه‌شنبه ۱۲ آبان به ایران حمله کند، اما ترامپ فعلا می‌خواهد به مذاکرات فرصت دهد.
+‏بر اساس این گزارش، ترامپ و نتانیاهو شنبه نهم آبان در تماسی تلفنی درباره وضعیت مذاکرات با جمهوری اسلامی و زمان ازسرگیری عملیات نظامی گفت‌وگو کردند. منبع اسرائیلی این تماس را «سخت» و منبع آمریکایی آن را «صریح» توصیف کرد. 
+‏https://iranintl.com/202611010285
+00:19
+1405/08/11
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇦🇪اندلاع ‏حريق كثيف في منشآت شركة أدنوك جاسكو في منطقة عصب في الإمارات العربية
+‏
+‏https://t.me/naya_foriraq
+00:19
+1405/08/11
+
+
+
+
+src :@intelslava
+‏FAA confirms nine people were on board the Learjet 60 that crashed near Cresthaven, Florida, after departing Austin, Texas, for the Bahamas on November 1.
+‏
+‏- The aircraft crashed in a residential area around 12:50 p.m. local time.
+‏
+‏- Its destination was North Eleuthera Airport in the Bahamas.
+‏
+‏- Information remains preliminary and subject to change.
+‏
+‏@IntelSlava
+00:17
+1405/08/11
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇺🇸🐊🗳⚡️- Only 9% of Republican voters under the age of 30 have turned out to vote in Florida while a quarter of young Democrats have.  
+‏
+‏GOP turnout is depressed across racial and age groups.
+00:16
+1405/08/11
+
+
+
+
+src :@ClashReport
+[عکس]
 ‏Incumbent Iliana Yotova leads Bulgaria’s presidential runoff with 58.2% to Andrey Gyurov’s 38.6%, per Myara’s 100% parallel count. 
 ‏
 ‏Yotova opposes military aid to Ukraine and favors dialogue with Moscow.
@@ -2766,14 +2849,6 @@ src :@rus_cosmos
 
 
 
-src :@naya_foriraq
-‏انفجارات تهز الكويت   https://t.me/naya_foriraq
-21:05
-1405/08/10
-
-
-
-
 src :@Mena_Live
 [عکس]
 ‏Syrian Ministry of Defense:
@@ -3418,18 +3493,6 @@ src :@warmonitors
 
 
 
-src :@intelslava
-‏🇮🇷⚡️ Iran continues consultations with mediators on the two-day plan for opening the Strait of Hormuz, but no final result has been reached as of yet, Iranian Foreign Minister Abbas Araghchi said.
-‏
-‏“Consultations with mediators on the two-day plan are currently ongoing, but we have not yet reached a final outcome, and whether we reach an it depends on the answers the other side will give to our questions,” the Iranian state television quoted him as saying.
-‏
-‏@IntelSlava
-19:47
-1405/08/10
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏حمید علیدوستی، بازیکن پیشین تیم ملی فوتبال ایران و از چهره‌های شناخته‌شدهٔ جامعه ورزش، عصر یکشنبه ۱۰ آبان‌ماه درگذشت. او طی ماه‌های اخیر با بیماری دست‌وپنجه نرم می‌کرد و مراحل درمان را پشت سر می‌گذاشت.
@@ -3460,18 +3523,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 19:43
-1405/08/10
-
-
-
-
-src :@MilitarryWorld
-‏🔴ترامپ: درصورت شکست احتمالی جمهوری‌خواهان در انتخابات کنگره من به آقای وتو تبدیل می‌شوم.
-‏
-‏بعد از یکی دو ماه که همه‌چیز وتو شد، آن‌ها احتمالاً بیایند و توافقی انجام خواهیم داد
-‏
-‏@MilitarryWorld | Maverick
-19:41
 1405/08/10
 
 
@@ -4127,16 +4178,6 @@ src :@P_raetorio
 [عکس]
 ‏افزایش سریع استقرار نیروهای نظامی آمریکا در بحبوحه آمادگی‌ها برای حملات احتمالی به ایران  طی ۴۸ ساعت گذشته،دست‌کم ۱۰ فروند هواپیمای ترابری نظامی آمریکا در پایگاه‌های هوایی اسرائیل فرود آمده‌اند که بنا بر گزارش‌ها، حدود ۸۰ فروند هواپیمای سوخت‌رسان آمریکایی…
 17:26
-1405/08/10
-
-
-
-
-src :@rnintel
-‏🇺🇸🇮🇷🇦🇪⚡- UAE senior presidential advisor Anwar Gargash says Abu Dhabi hopes a breakthrough with Iran could be reached diplomatically, but if talks fail to "bridge the gaps", the Emirates would be open for a military solution.
-‏
-‏Gargash adds confidence in Iran is lost following its attacks on the Emirati State. The advisor has also attacked the Gulf Cooperation Council, GCC, stating as a "collective", the Arab Gulf states have failed and not "risen to the challenges".
-17:25
 1405/08/10
 
 
