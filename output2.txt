@@ -2139,15 +2139,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@tabzlive
-[عکس]
-‏🇸🇴⚡️ — UKMTO announces a large fishing vessel was boarded off the coast of Somalia by unauthorized personnel; potentially pirates.
-22:34
-1405/08/09
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Chinese and US stock markets suffered heavy technology-led losses as investors increasingly questioned inflated artificial intelligence valuations and the sustainability of massive AI infrastructure spending. 
@@ -6671,17 +6662,4 @@ src :@rnintel
 [عکس]
 ‏🇵🇱⚡️- Tensions remains high around the Constitutional Tribunal as anti-riot units attempt to disperse the crowd.
 04:18
-1405/08/09
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸🫏⚡- Abdulrahman Mohammed El-Sayed released a hostile statement towards his former primary opponent Rep. Haley Stevens only hours after Stevens announced a future campaign event at a Black church in Detroit with El-Sayed. 
-‏
-‏Stevens called on El-Sayed to condemn a perceived antisemitic advertisement created by Cenk Uygur. El-Sayed, obviously, did not condemn the advertisement and validated it. 
-‏
-‏Then, El-Sayed’s campaign left out Stevens’ name on the church event campaign advisory.
-04:14
 1405/08/09
