@@ -1,3 +1,37 @@
+src :@Indypersian
+[عکس]
+‏♦️بر اساس تازه‌ترین گزارش مرکز آمار ایران، میزان زاد و ولدهای ثبت‌شده در بهار سال جاری در مقایسه با مدت مشابه سال گذشته ۴.۳ درصد و شمار موارد فوت نیز ۳.۹ درصد کاهش یافته است. بنا بر این داده‌ها، در بهار امسال مجموعاً ۲۰۵ هزار و ۷۸ ولادت به ثبت رسیده که شامل ۱۰۶ هزار و ۴۴۷ پسر و ۹۸ هزار و ۶۳۱ دختر بوده است، رقمی که در مقایسه با بهار ۱۴۰۴، با ثبت ۲۱۴ هزار و ۲۲۸ تولد، افت بیش از ۹ هزار نوزاد را نشان می‌دهد. این آمار همچنین حاکی از آن است که همزمان با روند کاهشی زادولد در کشور، نسبت تولد نوزادان پسر در مقایسه با نوزادان دختر در فصل بهار همچنان بالاتر بوده است.
+‏
+‏ 
+‏@indypersian
+02:49
+1405/08/11
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی انتخاباتی خود در آیووا گفت دلیل پایان نیافتن جنگ با جمهوری اسلامی، تلاش او برای جلوگیری از کشته شدن افراد بیشتر است. او افزود: «تنها دلیلی که هنوز کارمان با ایران تمام نشده، این است که می‌خواهم مدارا کنم. می‌خواهم اگر بتوانم جان همه آن افراد را نجات دهم.» ترامپ سپس هشدار داد: «اما در مقطعی مجبور خواهیم شد ضربه سنگینی به آن‌ها وارد کنیم.»
+‏
+‏ترامپ با اشاره به عملیات‌های «چکش نیمه‌شب» و «خشم حماسی» مدعی شد آمریکا توان غنی‌سازی هسته‌ای جمهوری اسلامی را نابود کرده و حکومت ایران را از نظر نظامی و مالی شکست داده است. او همچنین بار دیگر از خروج آمریکا از برجام دفاع کرد و توافق هسته‌ای دوران باراک اوباما را «مسیری برای دستیابی ایران به سلاح هسته‌ای» خواند.
+‏https://iranintl.com/202611011684
+02:48
+1405/08/11
+
+
+
+
+src :@intelslava
+‏🇸🇩🇺🇦⚡️ — Sudan has accused Ukraine of providing drone warfare training to the UAE-backed Rapid Support Forces (RSF).
+‏
+‏@IntelSlava
+02:48
+1405/08/11
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏A Russian Su-30SM multirole fighter crashed in the Chernyakhovsk district of Russia’s Kaliningrad Oblast.  Both crew members managed to eject.
@@ -8,7 +42,7 @@ src :@OSINTWarfare
 
 
 src :@intelslava
-‏🇺🇸🇮🇱🇮🇷⚡ US President Donald Trump does not intend to resume strikes against Iran immediately following the U.S. congressional elections
+‏🇺🇸🇮🇱🇮🇷⚡️ — US President Donald Trump does not intend to resume strikes against Iran immediately following the U.S. congressional elections
 ‏
 ‏- Axios reported citing sources.
 ‏
@@ -312,7 +346,7 @@ src :@ClashReport
 
 
 src :@intelslava
-‏🇩🇪 German lawmakers and members of the federal government may have had their mobile phones compromised in a spyware attack, Digital Minister Karsten Wildberger confirms.
+‏🇩🇪⚡️ — German lawmakers and members of the federal government may have had their mobile phones compromised in a spyware attack, Digital Minister Karsten Wildberger confirms.
 ‏
 ‏Apple notified several iPhone users on October 29 that their devices may have been targeted by mercenary spyware.
 ‏
@@ -388,7 +422,7 @@ src :@MilitarryWorld
 
 
 src :@intelslava
-‏🇺🇸⚡️ Secretary of War Pete Hegseth claims he intends to stay in his post at the Pentagon even if Democrats gain control of the House of Representatives, despite the looming threat of impeachment and increased congressional oversight.
+‏🇺🇸⚡️ — Secretary of War Pete Hegseth claims he intends to stay in his post at the Pentagon even if Democrats gain control of the House of Representatives, despite the looming threat of impeachment and increased congressional oversight.
 ‏
 ‏@IntelSlava
 01:13
@@ -625,7 +659,7 @@ src :@bricsnews
 
 
 src :@intelslava
-‏🇮🇷 IRGC: Two tankers, including a supertanker that caught fire, struck sea mines in the Strait of Hormuz while using an unauthorized route.
+‏🇮🇷⚡️ — IRGC: Two tankers, including a supertanker that caught fire, struck sea mines in the Strait of Hormuz while using an unauthorized route.
 ‏
 ‏@IntelSlava
 00:39
@@ -1265,17 +1299,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 23:40
-1405/08/10
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️به گزارش روابط عمومی نیروی دریایی سپاه پاسداران، روز یکشنبه، دو نفتکش در پی آنچه «برخورد با مین دریایی در مسیر غیرمجاز تنگهٔ هرمز» عنوان شده، منفجر و متوقف شدند. بر اساس این بیانیه، یکی از شناورها اَبَرنفتکش بوده که پس از انفجار دچار آتش‌سوزی شده است. در اطلاعیهٔ نیروی دریایی سپاه آمده که این دو نفتکش با خاموش‌کردن سامانه‌های ناوبری و شناسایی خود قصد عبور از این آبراه را داشتند.
-‏ 
-‏@indypersian
-23:39
 1405/08/10
 
 
@@ -2546,7 +2569,7 @@ src :@Exciton_missile_program
 
 src :@intelslava
 [ویدئو]
-‏🇷🇺🇺🇦⚡️ Russian forces struck temporary deployment sites of the Ukrainian army in the village of Belozerskoye in the Donetsk People’s Republic with the use of FAB-500 air bombs, the Russian Defense Ministry said.
+‏🇷🇺🇺🇦⚡️ — Russian forces struck temporary deployment sites of the Ukrainian army in the village of Belozerskoye in the Donetsk People’s Republic with the use of FAB-500 air bombs, the Russian Defense Ministry said.
 ‏
 ‏@IntelSlava
 21:50
@@ -2859,7 +2882,7 @@ src :@warmonitors
 
 src :@intelslava
 [عکس]
-‏🇷🇺⚡️ The evacuees from the city of Alyoshki in the Kherson Region have been accommodated at a health resort in Russia’s southern Krasnodar Region. 
+‏🇷🇺⚡️ — The evacuees from the city of Alyoshki in the Kherson Region have been accommodated at a health resort in Russia’s southern Krasnodar Region. 
 ‏
 ‏The resort features a dining hall, a store, a children's playground, and sports facilities. People can stay there with their pets.
 ‏
