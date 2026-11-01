@@ -345,21 +345,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@ClashReport
-[عکس]
-‏UAE cargo flights to Ethiopia hit a record in October, as a flight tracker says a UAE-linked 747 unloaded pickups in Addis Ababa.
-‏
-‏According to OSINT analyst Rich Tedd, who tracks cargo flights on X as AfriMEOSINT, a Pecotox-Air Boeing 747 freighter flew Toyota Land Cruiser pickups to Addis Ababa’s Bole Airport. 
-‏
-‏Tedd says the vehicles will likely end up with the Rapid Support Forces (RSF).
-‏
-‏READ MORE
-01:24
-1405/08/11
-
-
-
-
 src :@MilitarryWorld
 [عکس]
 ‏🔴پوستر رسانه آیت‌الله مجتبی خامنه‌ای و  تهدید دوباره سایت هسته‌ای دیمونا در اسرائیل 
@@ -2047,21 +2032,6 @@ src :@didarnews1
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇺🇸🇮🇷⚡️ — Israeli officials believe President Trump could order renewed strikes against Iran within days, with a potential joint U.S.-Israeli operation targeting Iranian nuclear and energy facilities, according to Kan News.
-‏
-‏Senior Israeli and U.S. military officials held coordination talks over the weekend, while Israel also consulted Gulf countries, particularly those participating in the Abraham Accords.
-‏
-‏Israel has completed preparations for renewed military operations, including offensive and defensive measures. Additional weapons, air-defense interceptors, transport aircraft and aerial refueling planes have arrived in the region, including at Israeli airbases.
-‏
-‏Israeli officials remain pessimistic about a diplomatic breakthrough between Iran and Qatar, although negotiations continue in Doha.
-22:25
-1405/08/10
-
-
-
-
 src :@jangaavaran1390
 ‏به گفته منابع، نتانیاهو ترامپ را تحت فشار قرار داده است تا بلافاصله پس از انتخابات میان‌دوره‌ای در ۳ نوامبر، جنگ علیه ایران را از سر بگیرد و نگران مذاکرات جاری است.
 ‏ترامپ در این مرحله علاقه‌مند است که اجازه دهد مذاکرات به سرانجام برسد و نمی‌خواهد اسرائیل در آنها دخالت کند. اگر مذاکرات شکست بخورد، موضع او می‌تواند به طور قابل توجهی تغییر کند.
@@ -2131,15 +2101,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏
 ‏🆔@WAR_ROOM_NEWS
-22:19
-1405/08/10
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇮🇷⚡️ — UKMTO reports that the master of a merchant vessel in the Strait of Hormuz issued a Mayday call after being struck by a projectile earlier today.
 22:19
 1405/08/10
 
@@ -3410,16 +3371,6 @@ src :@DEJradio
 ‏#مذاکرات #جنگ
 ‏@DEJradio
 20:11
-1405/08/10
-
-
-
-
-src :@rnintel
-‏🇺🇸⚡️- Haley Stevens is possibly going to endorse Mike Rogers for Michigan Senate after Abdul El-Sayed had her removed from a Democrat "Party Unity" event this weekend.
-‏
-‏She was just seen entering a Rogers rally.
-20:09
 1405/08/10
 
 
