@@ -1,4 +1,41 @@
 src :@Shin_Persian
+[عکس]
+‏Aryan ✓ @GEOIMINT
+‏
+‏Geolocation of recently released footage by Saudi Arabia’s Ministry of Defense showing an AN/MPQ-50 Pulse Acquisition Radar (PAR) belonging to the I-HAWK (MIM-23B) air defense system.
+‏
+‏C: 18.289459, 42.792009
+‏S: https://x.com/modgovksa
+‏
+‏ترجمه خودکار فارسی
+‏
+‏مکان‌یابی جغرافیایی تصاویر تازه منتشرشده از سوی وزارت دفاع عربستان سعودی که یک رادار اکتساب پالسی AN/MPQ-50 (PAR) متعلق به سامانه پدافند هوایی I-HAWK (MIM-23B) را نشان می‌دهد.
+‏
+‏مختصات: 18.289459, 42.792009
+‏منبع: https://x.com/modgovksa
+‏
+‏𝕏  ·  @shin_persian
+00:06
+1405/08/11
+
+
+
+
+src :@MilitarryWorld
+‏🔴روزنامه معاریو گزارش داد:
+‏نیروی دریایی اسرائیل در حال آماده‌سازی برای محاصره بنادر بیروت و طرابلس لبنان است،
+‏و در صورت ورود حزب‌الله به جنگ آتی ایران و اسرائیل،
+‏اسرائیل قصد دارد از قدرت آتش بسیار سنگینی استفاده کند،
+‏همچنین ارتش اسرائیل در نظر دارد تمام جنوب لبنان از جمله بنادر صور، صیدا و پایتخت جنوب لبنان شهر نبطیه را تصرف کرده و تحت کنترل خود نگه دارد.
+‏
+‏@MilitarryWorld | Parsa
+00:05
+1405/08/11
+
+
+
+
+src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
 ‏Jet activity heard in Sanandaj
@@ -37,6 +74,15 @@ src :@Indypersian
 ‏
 ‏ 
 ‏@indypersian
+00:01
+1405/08/11
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏نمودار متوسط قیمت نفت برنت در هر سال بر اساس نرخ تعدیل شده با تورم بر مبنای ارزش دلارِ سپتامبر ۲۰۲۶
 00:01
 1405/08/11
 
@@ -186,6 +232,7 @@ src :@IranintlTV
 
 
 src :@mamlekate
+[عکس]
 ‏🔥 الو پالایشگاه شهید منتظری اصفهان آخرالزمانی  آتیش گرفته و داره میسوزه
 ‏انقدر شدیده که از روی پشت بوم توی باغ غدیر هم واضح دود و آتیش بزرگ مشخصه. فقط نمیدونم جریان چیه. هیچ جایی هیچ خبری گذاشته نشده. عجیبه. ۱۰ آبان ساعت ۲۲
 ‏
@@ -2671,22 +2718,6 @@ src :@tglobaleye
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Initial: Explosions in #Kuwait 🇰🇼
-‏
-‏ترجمه خودکار فارسی
-‏
-‏اولیه: انفجارهایی در #کویت 🇰🇼
-‏
-‏𝕏  ·  @shin_persian
-21:09
-1405/08/10
-
-
-
-
 src :@warmonitors
 ‏⚡#BREAKING Latvia’s armed forces have warned of a threat in the airspace over two regions and are asking residents to stay indoors
 ‏
@@ -2755,21 +2786,6 @@ src :@naya_foriraq
 
 
 
-src :@ClashReport
-[عکس]
-‏The Qatari LNG carrier Al Mayeda, bound for Pakistan, was struck by projectiles in the Gulf. 
-‏
-‏Bloomberg reports Iran had cleared the voyage hours earlier. 
-‏
-‏No one has claimed the attack.
-‏
-‏READ MORE
-21:05
-1405/08/10
-
-
-
-
 src :@naya_foriraq
 ‏انفجارات تهز الكويت   https://t.me/naya_foriraq
 21:03
@@ -2823,22 +2839,6 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 21:01
-1405/08/10
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Intense jet activity over Jerusalem 🇮🇱
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت شدید جنگنده‌ها بر فراز اورشلیم 🇮🇱
-‏
-‏𝕏  ·  @shin_persian
-20:59
 1405/08/10
 
 
@@ -2905,41 +2905,11 @@ src :@defence_news
 
 
 
-src :@ClashReport
-[عکس]
-‏Serbia’s central bank has shut down Alta Bank, a lender popular among Russians, over deteriorating finances and suspected money laundering. 
-‏
-‏The move comes days after Aleksandar Vučić’s election defeat, amid reports of large withdrawals and transfers abroad. 
-‏
-‏Alta, which facilitated Russian financial transactions following Moscow’s 2022 invasion of Ukraine, had previously faced scrutiny from the European Central Bank. 
-‏
-‏Serbian prosecutors and the incoming student-led movement have called for an investigation into the bank’s operations and potential illicit transfers. 
-‏
-‏Alta’s owner, Davor Macura, reportedly attempted to flee to Moscow after the election.
-‏
-‏Source: FT
-20:55
-1405/08/10
-
-
-
-
 src :@MilitarryWorld
 ‏🔴پزشکیان: آرا‌م‌آرام مسئلۀ بنزین و گازوئیل را اصلاح می‌کنیم و پولش را روی کالابرگ و معیشت مردم می‌گذاریم
 ‏
 ‏@MilitarryWorld | Parsa
 20:53
-1405/08/10
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran’s Fars News Agency says an Iranian ship captain from Abadan was killed in what it calls a U.S. attack on a vessel in the Persian Gulf on 30 October. 
-‏
-‏Captain Nasser Ebrahimi-Nejadan, 50, was hit by shrapnel in “open waters” of the Gulf.
-20:52
 1405/08/10
 
 
@@ -3645,16 +3615,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ به فاکس نیوز: هنوز مسائل حل نشده‌ای در ایران وجود دارد
-‏
-‏@MilitarryWorld | Maverick
-19:32
-1405/08/10
-
-
-
-
 src :@OSINTWarfare
 [ویدئو]
 ‏🗂 — To our valued subscribers, we remind you that we are part of The New Dawn folder. We are a collection of 17 channels of broadly ideologically aligned news channels who try our best to ensure quality, quick, and accurate reporting.
@@ -3671,7 +3631,7 @@ src :@OSINTWarfare
 
 
 src :@Mena_Live
-‏Syrian General Intelligence Directorate: A terrorist plot to target the Banyas refinery (Syria’s largest crude oil processing refierny) has been thwarted.
+‏Syrian General Intelligence Directorate: A terrorist plot to target the Banyas refinery (Syria’s largest crude oil processing refirnery) has been thwarted.
 ‏
 ‏@Mena_Live
 19:26
@@ -5881,23 +5841,6 @@ src :@cataphract1
 
 
 
-src :@cataphract1
-[عکس]
-‏اگر فرض کنیم که ج.ا ماهواره‌برهای خود را به موشک تبدیل نکرده و می‌خواهد از موشک‌ها و امکانات موجود برای دستیابی به برد بالاتر استفاده کند، چند راه پیش رو دارد:
-‏
-‏1. سبک کردن سرجنگی در موشک‌هایی مانند خرمشهر
-‏2. افزودن موتور به سرجنگی (مثلا روشن کردن آن در ارتفاع بالا یا بهینه)
-‏3. استفاده از موتور مرحله آخر مانند سلمان بر روی خرمشهر (عملکرد آن را باید محاسبه کرد، چون سبک نیست)
-‏4. ترکیبی از موارد بالا
-‏....
-‏
-‏@Exciton_missile_program 🚀
-07:25
-1405/08/10
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏دونالد ترامپ می‌گوید: «روند مذاکرات با ایران در حال حاضر به خوبی پیش می‌رود اما مشکل اصلی این است که آنها چندان قابل اعتماد نیستند، توافق می‌کنند و سپس به راحتی زیر تعهدات خود می‌زنند و از آن عقب‌نشینی می‌کنند!»
@@ -6394,47 +6337,4 @@ src :@Exciton_missile_program
 ‏
 ‏@SNTankograd
 00:07
-1405/08/10
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇵🇱 — Polish Prime Minister Donald Tusk:
-‏
-‏Ladies and gentlemen, yesterday we witnessed disgraceful events outside the Constitutional Tribunal building.
-‏
-‏I very much hope that we will never have to witness similar scenes in Poland again.
-‏
-‏But the way to maintain peace cannot be to give in to lawlessness and violence.
-‏
-‏A democratic state must be strong and capable of enforcing justice.
-‏
-‏The attack on the Tribunal and its judges is another stage in the process of destroying the rule of law in Poland by PiS and Presidents Duda and Nawrocki.
-‏
-‏Together with the parliamentary majority, I made attempts to repair the Tribunal.
-‏
-‏No one had any doubt that the Tribunal in the form imposed by PiS was not a real court.
-‏
-‏That was the assessment of international institutions, Polish legal authorities and public opinion.
-‏
-‏To simplify matters, let me use a comparison.
-‏
-‏Imagine a situation in which a thief snatches an elderly woman's handbag and runs away.
-‏
-‏When he is caught, he starts screaming that violence is being used against him and calls it theft when someone tries to take back his loot.
-‏
-‏Meanwhile, some bystanders, the so-called both-sides people, propose that, to calm things down, the thief and the victim should divide the contents of the handbag equally.
-‏
-‏For years, there have been organizations and politicians in Poland who want to destroy democracy and the rule of law.
-‏
-‏And it is no coincidence that they find support among pro-Russian forces around the world.
-‏
-‏And today, in this conflict, they are benefiting from the support of an army of Russian bots on the internet.
-‏
-‏They have even received public compliments from the Kremlin's chief ideologue.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-00:05
 1405/08/10
