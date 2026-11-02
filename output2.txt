@@ -4372,19 +4372,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@mohem_mat
-‏ادعای ترامپ به فاکس نیوز:
-‏
-‏هنوز مسائل حل نشده‌ای در ایران وجود دارد
-‏
-‏
-‏@mohem_mat
-19:49
-1405/08/10
-
-
-
-
 src :@warmonitors
 ‏⚡Russia’s security service says it detained a minor after a US tip-off regarding a planned terrorist attack in Tsaritsyno Park, Interfax reports
 ‏
