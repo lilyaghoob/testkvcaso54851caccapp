@@ -1,9 +1,146 @@
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷 - 7 Tankers and 1 P8 over the region right now.
+00:56
+1405/08/12
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴برخی منابع غیررسمی از فعال شدت ضدهوایی در شهرستان امیدیه، خوزستان خبر می‌دهند، فعلا نمیشود تایید کرد.
+‏
+‏
+‏🆔@Military_Times_Blog
+00:56
+1405/08/12
+
+
+
+
+src :@Mena_Live
+‏U.S. Representative Joe Wilson:
+‏
+‏The longer Syria remains on the old list maintained by the Bureau of Industry and Security, which is List E for countries supporting terrorism, the longer American companies will have to wait to export their technological products to Syria, and this will push them towards China.
+‏
+‏@Mena_Live
+00:56
+1405/08/12
+
+
+
+
+src :@OSINTWarfare
+‏🇮🇷🇺🇸⚡️ — The IRGC says it shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.  @OSINTWarfare
+00:55
+1405/08/12
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓ @hey_itsmyturn
+‏
+‏No blasts in Tehran btw, it's just thunder
+‏
+‏ترجمه خودکار فارسی
+‏
+‏راستی، در تهران هیچ انفجاری رخ نداده، فقط صدای رعد و برق است.
+‏
+‏𝕏  ·  @shin_persian
+00:55
+1405/08/12
+
+
+
+
+src :@ClashReport
+‏Iran’s IRNA reports five explosions on Qeshm Island, with the intensity suggesting impacts on the island.
+00:54
+1405/08/12
+
+
+
+
+src :@warmonitors
+[عکس]
+‏⚡️#BREAKING American strikes reported on Qeshm island, Iran
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+00:54
+1405/08/12
+
+
+
+
+src :@samueltarikh
+[عکس]
+‏⭕️پست جدید ترامپ:
+‏
+‏قیمت نفت به شدت در حال کاهش است و تقریباً 10 دلار در هر بشکه کاهش یافته است، که یک رکورد محسوب می‌شود، زیرا مردم احساس می‌کنند که جنگی با ایران در کار نخواهد بود.
+‏
+‏ایران خواهان یک توافق است، و این توافق می‌تواند هر چه زودتر حاصل شود!
+00:54
+1405/08/12
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iran’s IRGC claims it shot down an MQ-9 drone east of the Strait of Hormuz using an advanced air defense system.
+00:54
+1405/08/12
+
+
+
+
+src :@thewarreporter
+‏🇺🇸🇮🇷 — Two explosions occurred in quick succession on Iran's Qeshm Island. Given the intensity of the blasts, they appear to have originated from within the island.  Some residents also reported seeing two aircraft flying over the island.  Local and provincial…
+00:53
+1405/08/12
+
+
+
+
+src :@MilitarryWorld
+‏🔴ترامپ در تروث سوشال:
+‏
+‏ایران خواهان یک توافق است، و این توافق می‌تواند هر چه زودتر حاصل شود!
+‏
+‏@MilitarryWorld | Parsa
+00:53
+1405/08/12
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - 6 explosions total were heard in the Qeshm and Bandar Abbas region.
+‏
+‏@GeoPWatch
+00:53
+1405/08/12
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏ترامب: أسعار النفط تتراجع بشكل حاد، حيث انخفضت بنحو 10 دولارات للبرميل، وهو رقم قياسي، لأن الناس يعتقدون أنه لن تكون هناك حرب مع إيران. إيران تريد تسوية في أسرع وقت ممكن. هذا ممكن!
+00:53
+1405/08/12
+
+
+
+
 src :@Middle_East_Spectator
-‏— 🇺🇸/🇮🇷 NEW: Several explosions were heard on Qeshm Island, Iran, amid unconfirmed reports that an anti-air launcher was targeted by U.S. strikes
+‏— 🇺🇸/🇮🇷 NEW: Several explosions were heard on Qeshm Island, Iran, amid unconfirmed reports that an anti-air platform was targeted by U.S. strikes
 ‏
-‏Reports of sporadic strikes against missile launch platforms in southern Iran have been widespread in recent weeks; these cannot be confirmed nor denied.
+‏Reports of sporadic strikes against launch platforms in southern Iran have been published in recent weeks; these cannot be confirmed nor denied.
 ‏
-‏If true—Iran has made a conscious decision not to respond to these acts of aggression currently due to some considerations.
+‏If true—Iran has made a conscious decision not to respond to these minor acts of aggression currently due to some security considerations.
 ‏
 ‏@Middle_East_
 00:51
@@ -787,7 +924,7 @@ src :@Shin_Persian
 
 src :@Americana_ir
 [عکس]
-‏🔻 توافق با ایران ممکن است به‌زودی محقق شود
+‏🔻 توافق با ایران ممکن است محقق شود
 ‏
 ‏👤 دونالد ترامپ:
 ‏
@@ -3602,18 +3739,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏🔴قوه قضاییه : 
-‏
-‏یک خانم چادری که در تجمعات شبانه در میادین حضور فعال داشت و بر علیه مذاکرات شعار سر میداد و تولید محتوا میکرد، با اتهام جاسوسی برای موساد بازداشت شد.
-‏
-‏@MilitarryWorld | Parsa
-20:43
-1405/08/11
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -4154,16 +4279,6 @@ src :@Artemis_Force
 
 
 
-src :@naya_foriraq
-‏🇺🇸ترمب: لم نوجه الضربة القاضية لإيران حتى الآن لأنها تريد التفاوض معنا.
-‏
-‏https://t.me/naya_foriraq
-19:03
-1405/08/11
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏دیدارنیوز با محمدرضا حیاتی؛ پاسخ آتی ایران، فوری، اثرگذار و بدون محدودیت جغرافیایی
@@ -4403,14 +4518,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 18:12
-1405/08/11
-
-
-
-
-src :@samueltarikh
-‏هم اکنون گزارش ها از تماس تلفنی اضطراری میان پوتین و محسن رضایی، دبیر شورای عالی امنیت ملی درباره احتمال وقوع قریب‌الوقوع جنگ در خاورمیانه.
-18:11
 1405/08/11
 
 
@@ -6689,19 +6796,6 @@ src :@OSINTWarfare
 [عکس]
 ‏A Russian Su-30SM multirole fighter crashed in the Chernyakhovsk district of Russia’s Kaliningrad Oblast.  Both crew members managed to eject.
 02:39
-1405/08/11
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇦❌🇷🇺-Ukrainian forces have recaptured Nykonorivka and Yurkivka, clearing Russian troops from the west bank of the Siverskyi Donets–Donbas canal and easing pressure on Kramatorsk city.
-‏
-‏➡️ A little to the south, the Ukrainian military has cleared the villages of Vasiutynske and Tykhonivka from Russian forces, footage surfaced of Russian drones striking Ukrainian positions in the ruins of Tykhonivka.
-‏
-‏@GeoPWatch
-02:24
 1405/08/11
 
 
