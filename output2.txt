@@ -1,3 +1,75 @@
+src :@selena_updates
+[عکس]
+‏The Lebanese Army arrested 7 Lebanese nationals and 99 Syrians during security operations across the country, targeting armed gangs, shootings, smuggling, grave robbery and other criminal activities. Among those detained was the leader of an armed gang operating in Laylaki, in Beirut’s southern suburbs, accused of robberies, extortion, assaults and fraud. 
+‏
+‏Military units also seized weapons, ammunition and narcotics, while the Syrian nationals were detained for illegal entry or lacking valid documentation. Investigations are proceeding under judicial supervision.
+21:20
+1405/08/11
+
+
+
+
+src :@Indypersian
+‏⭕️تشدید رایزنی‌های دیپلماتیک؛ تهران و واشنگتن به توافق می‌رسند یا جنگ؟
+‏
+‏📌ترامپ: می‌خواهم تا جایی که ممکن است جان انسان‌ها را نجات دهم، اما ممکن است مجبور شویم چکش را بر سر جمهوری اسلامی ایران فرود بیاوریم
+‏
+‏
+‏♦️با ادامه تهدیدهای دونالد ترامپ در سخنرانی‌های کارزار انتخابات میان‌دوره‌ای کنگره آمریکا، گمانه‌زنی‌ها درباره احتمال حمله نظامی گسترده به ایران در روزهای آینده و پس از انتخابات آمریکا، هم به‌شدت افزایش یافته است. همزمان، تلاش‌ها و رایزنی‌های دیپلماتیک برای پرهیز از جنگ نیز ادامه دارد.
+‏بیشتر بخوانید...
+‏
+‏
+‏@indypersian
+21:18
+1405/08/11
+
+
+
+
+src :@MilitarryWorld
+‏🔴یک هیئت قطری به سمت تهران در حرکت است
+‏
+‏@MilitarryWorld | Parsa
+21:18
+1405/08/11
+
+
+
+
+src :@Alibk3
+[عکس]
+‏إقلاع طائرة الإنذار المبكر والتحكم الجوي الأميركية من طراز E-3 من وسط السعودية.
+21:17
+1405/08/11
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Europe Faces a Pension Reckoning Amid Aging Population and Rising Debt
+‏
+‏Aging populations and strained budgets are testing Europe’s state pension systems, forcing governments to confront longer working lives, mounting debt, and voter resistance.
+‏
+‏READ MORE
+21:16
+1405/08/11
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏🔶پول برای پرداخت بدهی شرکت‌های بیمه نیست، اما برای خرید فله‌ای اکانت‌ اینستا هست.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+21:16
+1405/08/11
+
+
+
+
 src :@DEJradio
 [عکس]
 ‏🔺📢 بر اساس گزارش منابع دژ، شماری از مراکز ارتش و مقرهای انتظامی در نواحی مرزی و دور افتاده با کمبود جیره غذایی مواجه هستند. 
@@ -21,6 +93,8 @@ src :@WAR_ROOM_NEWS
 ‏یک هیئت قطری به سمت تهران در حرکت است
 ‏
 ‏هه😂دارن جر میدن خودشون مانع جنگ بشن ولی ریدن اونم با ر دسته دار
+‏
+‏🆔@WAR_ROOM_NEWS
 21:13
 1405/08/11
 
@@ -39,7 +113,7 @@ src :@bricsnews
 
 src :@rnintel
 [عکس]
-‏🇺🇸⚡️- Two staffers, including the campaign spokesperson for Republican Senate candidate Mike Rogers, are registered foreign agents representing Israel, according to foreign agent registration records.
+‏🇺🇸🇮🇱⚡️- Two staffers, including the campaign spokesperson for Republican Senate candidate Mike Rogers, are registered foreign agents representing Israel, according to foreign agent registration records.
 ‏
 ‏Abigail Ronson and Jesse Stokes have been registered as working on behalf of the Israeli government since May 2026 and October 2025, respectively.
 21:12
@@ -233,7 +307,7 @@ src :@rus_cosmos
 ‏۳- پایگاه‌های در تیررس ایران هنوز تخلیه نشدند و پراکندگی هواپیماها هنوز انجام نشده‌است، هر چند اینکار میتواند راس چند ده ساعت تکمیل شود ولی به هر حال زمانبر است.
 ‏https://t.me/rus_cosmos/32878
 ‏
-‏۴- ناو هواپیمابر تئودور روزلوت و گروه آمفیبیوس هنوز به منطقه نرسیده است و انتظار می‌رود حملات اصلی توسط این ناوگروه انجام شود
+‏۴- ناو هواپیمابر تئودور روزولت و گروه آمفیبیوس هنوز به منطقه نرسیده است و انتظار می‌رود حملات اصلی توسط این ناوگروه انجام شود
 ‏
 ‏۵- با وجود اعزام تعداد زیادی تسلیحات به منطقه هنوز نشانه واضحی از آرایش جنگی از آنها دیده نمی‌شود.
 ‏
@@ -2861,18 +2935,6 @@ src :@Alibk3
 
 
 
-src :@MilitarryWorld
-‏🔴خراطیان؛ تحلیلگر نزدیک به حکومت :
-‏
-‏وقتی «تاکر کارلسون» میگه میخوان به ایران حمله اتمی کنن و «کوه کلنگ» رو با سلاح هسته ای هدف قرار بدن یعنی واقعا همچین هدفی دارن و باید قضیه رو جدی بگیریم. چون همین آدم ده روز قبل از جنگ ۱۲ روزه گفت اسرائیل به زودی به ایران حمله میکنه ولی کسی جدی نگرفت. اون از پشت پرده ها مطلعه.
-‏
-‏@MilitarryWorld | Parsa
-16:33
-1405/08/11
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇷الحرس الثوري الايراني: تعرضت ناقلة نفط، كانت تتواجد في منطقة محظورة وغير آمنة شرق مضيق هرمز، لحادث اصطدام بلغم بحري، مما أدى إلى نشوب حريق على متنها.
 ‏
@@ -3685,17 +3747,6 @@ src :@selena_updates
 ‏
 ‏In the course of the operational activity in recent days, several bedouins were arrested and transferred for further investigation at the Rahat police station.
 14:30
-1405/08/11
-
-
-
-
-src :@Alibk3
-[عکس]
-‏قيادة القوة البحرية التابعة لحرس الثورة الإسلامية: 
-‏
-‏منذ 25 أكتوبر (تاريخ الزيارة التي قام بها اقائد القيادة المركزية الأمريكية، لمضيق هرمز) وحتى اليوم، تم حرق 11 سفينة متورطة في مخالفات في مضيق هرمز، وبعضها غرق في أعماق البحر.
-14:26
 1405/08/11
 
 
@@ -5641,16 +5692,6 @@ src :@cataphract1
 
 
 
-src :@WAR_ROOM_NEWS
-‏مجله "آتلانتیک": ترامپ در حال بررسی امکان انجام حملات جدید علیه ایران پس از انتخابات میان‌دوره‌ای که در تاریخ ۳ نوامبر برگزار می‌شود، است. گزینه‌های مورد بررسی شامل حملات کوتاه و همچنین یک عملیات نظامی گسترده که می‌تواند به مدت چند هفته طول بکشد، می‌باشد
-‏
-‏🆔@WAR_ROOM_NEWS
-00:26
-1405/08/11
-
-
-
-
 src :@cataphract1
 ‏⚜شبکه i24NEWS گزارش داد که مقام‌های ارشد امنیتی اسرائیل پس از انجام تماس تلفنی روز شنبه میان دونالد ترامپ، رئیس‌جمهور آمریکا، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جریان جزئیات این گفت‌وگو قرار گرفته‌اند.
 ‏
@@ -6053,29 +6094,6 @@ src :@Mena_Live
 
 
 
-src :@selena_updates
-[عکس]
-‏Sheikh Abdel Karim Masri, an incoming Knesset (Israeli parliament) member from the Islamist Ra’am party, chaired an Israeli charitable organization that was subsequently dissolved by court order over its activities involving designated terrorist organizations. 
-‏
-‏Masri, formerly head of the Islamic Movement in Kafr Qara and 6th on Ra’am’s electoral list, served as chairman of the Association for Humanitarian Actions, also known as Humanitarian Deeds, from January 2023 to February 2025. The association operated within the Southern Islamic Movement's network and maintained financial and organizational relationships with entities in Turkey and northern Syria. 
-‏
-‏On February 8, 2023, Masri signed a cooperation agreement with the Turkish organization Hayat Yolu, whose representatives he also met during visits to Turkey. On March 12, 2026, the U.S. Treasury Department formally sanctioned Hayat Yolu under Executive Order 13224 for providing material support to Hamas. American authorities identified the organization as part of Hamas's international financing network, generating revenue directly supporting the Izz ad-Din al-Qassam Brigades, Hamas's military wing. The Treasury also identified Hayat Yolu as an operational headquarters and banking and financial hub for the Muslim Brotherhood. The designation resulted in the blocking of assets under U.S. jurisdiction and restrictions on financial transactions. 
-‏
-‏Documents presented during Israeli legal proceedings recorded an outstanding financial commitment of approximately $80,000 from Humanitarian Deeds to Hayat Yolu, connected to activities in northern Syria. The association also participated in constructing the Haifa Carmel refugee settlement in northern Syria and financing a mosque inaugurated in 2023. 
-‏
-‏Photographs document charity representatives alongside Hamas figures at the inauguration. The investigation additionally described cooperation with the Hamas-linked Palestine Relief and Development Authority in Idlib and children's activities in southern Turkey featuring armed-return rhetoric, anti-Israel imagery and "palestinian" right-of-return messaging. 
-‏
-‏On April 25, 2024, Bank Leumi blocked Humanitarian Deeds' bank account, citing financial irregularities that included approximately NIS 735,000 in undocumented cash deposits, transfers involving Turkish organizations operating in Syria, and connections to designated Hamas operatives. Masri submitted affidavits supporting the association's legal challenge. On October 10, 2024, the Nazareth District Court upheld the bank's restrictions, finding sufficient credible preliminary evidence to justify its decision. The Supreme Court rejected the association's appeal on May 28, 2025. 
-‏
-‏On May 6, 2026, the Lod District Court ordered the association's dissolution following proceedings initiated by Israel's Corporations Authority. The court identified serious and continuing problems involving activities in enemy states and cooperation with a designated terrorist organization. The ruling ended the association's operations and initiated liquidation proceedings. 
-‏
-‏The case now places renewed scrutiny with Ra’am's potential role in a future governing coalition.
-23:09
-1405/08/10
-
-
-
-
 src :@Mena_Live
 ‏Syrian Ministry of Defense:  Minister of Defense, Major General Muharref al-Qasra, and his accompanying delegation visited the headquarters of the Joint Special Forces Command within the Qatari Armed Forces.   This visit was part of efforts to strengthen military…
 23:04
@@ -6407,52 +6425,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 21:24
-1405/08/10
-
-
-
-
-src :@warmonitors
-‏⚡#BREAKING Reports of explosions in Kuwait now
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-21:19
-1405/08/10
-
-
-
-
-src :@warmonitors
-‏⚡Bennett: I will recommend Eisenkot to form the government
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-21:19
-1405/08/10
-
-
-
-
-src :@samueltarikh
-‏⭕️براساس آخرین برآورد فاکس‌نیوز، تا این لحظه دموکرات‌ها ۴۸ و جمهوری‌خواهان ۴۵ کرسی مجلس سنا را در انتخابات پیش‌رو از آن خود خواهند کرد. در این میان، ۷ کرسی همچنان نامشخص و بسیار رقابتی ارزیابی شده‌اند.
-‏
-‏تغییر قابل توجه در این برآورد، آن است که ۲ کرسی که پیش‌تر به نفع حزب جمهوری‌خواه برآورد شده بودند، اکنون رقابتی ارزیابی می‌شوند و ممکن است در اختیار حزب دموکرات قرار بگیرند
-21:18
-1405/08/10
-
-
-
-
-src :@samueltarikh
-‏ترامپ به فاکس نیوز:
-‏
-‏هنوز مسائل حل نشده‌ای در ایران وجود دارد.
-21:18
-1405/08/10
-
-
-
-
-src :@GeoPWatch
-‏🇾🇪❌🇸🇦 - Alerts in Jazan, Saudi Arabia.  @GeoPWatch
-21:17
 1405/08/10
