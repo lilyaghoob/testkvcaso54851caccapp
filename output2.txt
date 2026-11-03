@@ -1,3 +1,48 @@
+src :@MilitarryWorld
+‏⭕️ پزشکیان: بذارید منو ترور کنن. اگر مردم کنار هم باشن، هزاران نفر از من و امثال منو بکشن بازم دشمن هیچ غلطی نمیتونه بکنه.
+‏
+‏@MilitarryWorld | Maverick
+19:15
+1405/08/12
+
+
+
+
+src :@jangaavaran1390
+‏رسانه‌های قطری گزارش دادند: آمریکا به توافق پیشنهادی با ایران موافقت کرد
+‏
+‏رسانه‌های قطری گزارش دادند که منابعی نزدیک به تیم میانجی‌گری اعلام کردند که واشنگتن به پیش‌نویس یادداشت تفاهمی که دیروز توسط هیئت قطری به ایران ارائه شد، موافقت کرده است. با این حال، محسن رضایی، مسئول ارشد ایرانی، در واکنش به این خبر، اظهار داشت: «پاسخ آمریکا در مورد حقوق و مطالبات ایران قانع‌کننده نبود.»
+19:15
+1405/08/12
+
+
+
+
+src :@selena_updates
+[عکس]
+‏With voting underway in today’s midterm elections, traders on Polymarket.com give Democrats about a 75% chance of winning control of both the U.S. House and Senate. 
+‏
+‏Republicans currently control both chambers.
+‏
+‏Democrats need a net gain of 3 seats in the House and 4 in the Senate to gain the majority. All 435 House seats and 35 Senate seats are on the ballot.
+19:14
+1405/08/12
+
+
+
+
+src :@mwarmonitor
+‏🇺🇸آغاز رای‌گیری انتخابات میان‌دوره‌ای آمریکا در ایالت‌های ساحل غربی.
+‏
+‏
+‏
+‏@mwarmonitor
+19:13
+1405/08/12
+
+
+
+
 src :@wfwitness
 [عکس]
 ‏⚡️🇭🇹🇸🇻 The leader of the 400 Mawozo armed gang, Wilson Joseph alias "Lanmò San Jou," has requested United Nations mediation to open peace talks with international forces in Haiti, amid rising tensions following the disappearance of four Salvadoran soldiers…
@@ -889,8 +934,7 @@ src :@KayhanLondonChannel
 
 src :@VahidOnline
 [عکس]
-‏محسن رضایی، دبیر شورای عالی امنیت ملی در جمهوری اسلامی روز سه‌شنبه ۱۲ آبان اعلام کرد که پاسخ آمریکا به «حقوق و مطالبات ایران» قانع‌کننده نبوده است.
-‏رضایی که به‌تازگی نامه‌ای از جی‌دی ونس، معاون رئیس‌جمهوری ایالات متحده دریافت کرده بود، در شبکه اجتماعی ایکس نوشت: «پاسخ آمریکا به حقوق و مطالبات ایران قانع‌کننده نبود و آن‌ها باید کامل و صریح هفت شرط ایران را پاسخ داده و به آن عمل کنند؛ تنها در این صورت تنگه هرمز باز خواهد شد.»
+‏محسن رضایی دبیر شورای عالی امنیت ملی در جمهوری اسلامی در شبکه اجتماعی ایکس نوشت: «پاسخ آمریکا به حقوق و مطالبات ایران قانع‌کننده نبود و آن‌ها باید کامل و صریح هفت شرط ایران را پاسخ داده و به آن عمل کنند؛ تنها در این صورت تنگه هرمز باز خواهد شد.»
 ‏
 ‏در روزهای اخیر، میانجیگران قطری در دو نوبت به تهران سفر کرده و طرح صلح جدیدی را ارائه کردند. مسعود پزشکیان نیز روز سه‌شنبه در جلسه با استانداران و شهرداران کلان‌شهرها تاکید کرد که بازگشت به جنگ به نفع هیچ‌یک از طرفین نیست. با این وجود، به نظر می‌رسد که این طرح مورد موافقت تهران قرار نگرفته است.
 ‏@VahidOOnLine
@@ -1128,19 +1172,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 18:07
-1405/08/12
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: Iran’s Supreme National Security Council secretary said Washington must answer Tehran’s seven conditions “completely and explicitly.” 
-‏
-‏He said Hormuz would reopen only then.
-‏
-‏READ MORE
-18:06
 1405/08/12
 
 
@@ -2728,18 +2759,6 @@ src :@mamlekate
 
 
 
-src :@MilitarryWorld
-‏🔴ارم نیوز: 
-‏
-‏ایران با پیشنهاد قطر برای کانال ارتباطی مستقیم میان دیپلمات‌های آمریکایی و هیئت ایرانی مخالفت کرد
-‏
-‏@MilitarryWorld | Parsa
-16:33
-1405/08/12
-
-
-
-
 src :@Indypersian
 ‏⭕️ترامپ این هفته به ایران حمله می‌کند؟ پنج نشانۀ مهم
 ‏
@@ -3017,20 +3036,6 @@ src :@Navy_Iranian
 ‏ناو آبی-خاکی یواس‌اس تریپولی(LHD-7) همچنان در بندر ساسبو ژاپن پهلو گرفته است و ناوگروه ماکین آیسلند هم در یوکوسوکا ژاپن قرار دارد و ناوگروه نهم ضربتی هم به سر فرماندهی ناوهواپیمابر یواس‌اس تئودور رزولت(CVN-71) در نزدیکی تایلند قرار دارد و در حال حرکت به سوی حوزه سنتکام هست که بین ده تا چهارده روز آینده در دریای عرب خواهد بود
 ‏
 ‏⚓️ @Navy_Iranian | #Poseidon
-16:10
-1405/08/12
-
-
-
-
-src :@wfwitness
-‏⚡️🇾🇪🇸🇦🇾🇪 The Houthis announced that they were able to target PLC troop concentrations in the areas of Ras al-Ara and Al-Mudhariba, Yemen, which are under the command of the Saudi officer Bader Al-Harbi, using a number of ballistic missiles. 
-‏
-‏They claimed that the attack resulted in dozens of casualties, including commanders.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 16:10
 1405/08/12
 
@@ -3826,20 +3831,6 @@ src :@defence_news
 ‏
 ‏@RASTAKHIZ_PERSIAN
 14:06
-1405/08/12
-
-
-
-
-src :@jangaavaran1390
-‏سخنگوی وزارت امور خارجه قطر:
-‏
-‏«تلاش‌ها برای کاهش اختلافات بین ایالات متحده و ایران همچنان ادامه دارد.
-‏
-‏واشنگتن و تهران، پیشنهاداتی را که به عنوان راهکارهایی برای تسهیل توافق بین آن‌ها ارائه شده‌اند، مورد بررسی قرار می‌دهند.
-‏
-‏سطح هماهنگی بسیار بالایی بین رهبران کشورهای منطقه برای یافتن راه حلی برای این بحران و جلوگیری از پیامدهای تشدید تنش‌ها وجود دارد.»
-14:05
 1405/08/12
 
 
@@ -6538,15 +6529,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@selena_updates
-[عکس]
-‏Iran struck a vessel in the Strait of Hormuz, off the coast of Oman.
-23:23
-1405/08/11
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 President Trump says the US will stop killing Iranian leaders after Iran requested it.
 ‏
@@ -7088,17 +7070,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 19:21
-1405/08/11
-
-
-
-
-src :@mwarmonitor
-‏🔴ترامپ:
-‏
-‏
-‏🔸 هنوز ضربه نهایی را به ایران نزده‌ایم چون می‌خواهد با ما مذاکره کند.
-‏
-‏@mwarmonitor
-19:13
 1405/08/11
