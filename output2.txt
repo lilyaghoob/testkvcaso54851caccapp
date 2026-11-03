@@ -1,3 +1,36 @@
+src :@guard_warriors
+[عکس]
+‏✪ به گفته اداره اطلاعات مرکزی اوکراین (GUR)، گربرا-۲ به یک ماژول پردازشی مجهز شده است که تصاویر ویدیویی دوربین عقب را پردازش می‌کند تا به طور خودکار پهپادهای رهگیر اوکراینی را برای مانورهای گریز و فرار، شناسایی و ردیابی کند. این واحد پردازش ویدیوی «سوسیس» (Sosiska) مبتنی بر میکروکامپیوتر چینی Coke Pi نام دارد.
+‏
+‏گفته می‌شود که این واحد پردازشی قبلاً در پهپادهای سری Geran یافت شده است.
+‏
+‏@Guard_Warriors | Mmd
+09:00
+1405/08/12
+
+
+
+
+src :@MilitarryWorld
+‏🔴دیوان عالی آمریکا درخواست جلوگیری از شمارش آرای گروهی از افراد در کالیفرنیا را رد کرد
+‏
+‏دولت ترامپ مدعی شده بود این افراد به احتمال زیاد شهروند آمریکا نیستند
+‏
+‏@MilitarryWorld | Parsa
+08:59
+1405/08/12
+
+
+
+
+src :@rnintel
+‏🇨🇳⚡️- China is planning to implement a law repressing cross-border corruption. CGTN reports this law will serve as a baseline to create "a fair and equitable global anti-corruption governance system."
+08:58
+1405/08/12
+
+
+
+
 src :@didarnews1
 [عکس]
 ‏🔴آکسیوس گزارش داد که دونالد ترامپ در حال بررسی سه گزینه درباره ایران است؛ این در حالی است که مشاوران او درباره گام بعدی واشنگتن اختلاف‌نظر دارند.
@@ -4221,17 +4254,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴قیمت نفت برنت به ۱۰۴ دلار رسید
-‏
-‏@MilitarryWorld | Maverick
-22:14
-1405/08/11
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇧🇬 🇷🇺 — New Bulgarian President Iotova pledges Russia reset. She won 57.6% in the runoff, advocating a balanced approach to Moscow, questioning Ukraine military aid, and urging independence from Brussels.
@@ -4367,22 +4389,6 @@ src :@BellumActaNews
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
 ‏➖➖➖➖➖➖
 ‏@BellumActaNews
-21:56
-1405/08/11
-
-
-
-
-src :@rnintel
-‏🇪🇺⚡️- Freezers in dozens of supermarkets across Europe were deliberately set to increase their temperature in a cyberattack. 
-‏
-‏In Sweden, freezers were increased to as high as 55° C, while stores in Belgium, Ireland, Finland, and Estonia were also affected. As a result of the hacking, food worth millions of euros was ruined and will have to be discarded. 
-‏
-‏Just weeks ago, hundreds of French supermarkets experienced a similar cyberattack targeting food refrigeration. 
-‏
-‏Robert Lee, a chief executive of a cyber security company Dragos, claims that LLMs have increased the potency and ability to achieve cyberattacks such as this— similar to suspected Iranian hackers targeting water utility systems in America. 
-‏
-‏It is not known at this time who is responsible for this attack. - Financial Times.
 21:56
 1405/08/11
 
