@@ -1,9 +1,90 @@
+src :@MilitarryWorld
+‏🔴نایب رئیس کمیسیون امنیت ملی مجلس: آمریکایی‌ها در هوس جنگ بودند اما الان از ایران می‌ترسند!
+‏
+‏@MilitarryWorld | Parsa
+23:42
+1405/08/12
+
+
+
+
+src :@mohem_mat
+‏‌‌آدمها همه می‌پندارند که زنده‌اند؛
+‏برای آنها تنها نشانه حیات
+‏بخار گرم نفسهايشان است!
+‏کسی از کسی نمی پرسد:
+‏آهای فلانی از خانه دلت چه خبر؟
+‏گرم است؟
+‏چراغش نوری دارد هنوز؟
+‏
+‏ احمد شاملو 🌺
+‏
+‏#شب_و_روزگار_خوش
+23:42
+1405/08/12
+
+
+
+
+src :@RASTAKHIZ_PERSIAN
+[عکس]
+‏«اسرائیل اطلاعاتی را با ایالات متحده به اشتراک گذاشته است که نشان می‌دهد ایران در حال بررسی استفاده از سلاح‌های شیمیایی علیه دشمنان خود است. به گفته منابع آمریکایی و منطقه‌ای، این اطلاعات با نگرانی و هشداری از سوی برخی از مقامات آمریکایی مورد استقبال قرار گرفته است، در حالی که برخی دیگر تردیدهای جدی نسبت به آن ابراز کرده‌اند»
+‏
+‏-نیویورک تایمز
+‏
+‏@P_raetorio
+23:40
+1405/08/12
+
+
+
+
+src :@cataphract1
+‏⚜ ترامپ از یهودیان نیویورک خواست برن به جمهوری خواه ها رای بدن
+‏
+‏📃@Cataphract1
+23:40
+1405/08/12
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏دادگاه انقلاب کرمان سه شهروند بهایی ساکن این شهر، «ونوس حسینی‌نژاد»، «شکیلا قاسمی» و «ادیب شهبازپور» را در مجموع به ۲۴ سال حبس تعزیری محکوم کرد.
+‏بیشتر بخوانید: ​​ https://iranwire.com/fa/news-1/159756
+‏
+‏
+‏@Farsi_Iranwire
+23:39
+1405/08/12
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Cryptocurrency exchange Binance has disclosed how North Korean hackers carried out a sophisticated, months-long cyber operation culminating in the theft of $6.34 billion in digital assets on October 29, one of the largest cryptocurrency thefts ever recorded. 
+‏
+‏According to Binance's investigation, the attackers initially compromised an engineer through a tampered Homebrew software installation in June, then infiltrated another employee's computer through a fraudulent recruitment interview and malicious coding assignment in September. 
+‏
+‏On October 20, they exploited a compromised internal AI tool to access additional engineers' devices and steal credentials, before deploying a malicious container into Binance's wallet-signing infrastructure on October 29. The hackers then exploited Ethereum's EIP-7702 authorization mechanism to redirect funds outside normal withdrawal controls. 
+‏
+‏The FBI attributed the attack to North Korea's TraderTraitor hacking operation. As of November 3, Binance reported that approximately $2.85 billion had been frozen or intercepted, while 98% of affected customer assets had been replenished using company resources. 
+‏
+‏Binance has rebuilt compromised systems, strengthened security controls and commissioned an independent cybersecurity review. North Korea has denied responsibility for the attack.
+23:36
+1405/08/12
+
+
+
+
 src :@wfwitness
-‏⚡️🇱🇧🇸🇾 Hezbollah denied any involvement in the alleged connection of a cell in Homs, Syria, which planned attacks on the Homs oil refinery.
+‏⚡️🇱🇧🇸🇾🇮🇱 Hezbollah denied any involvement in the alleged connection of a cell in Homs, Syria, which planned attacks on the Homs oil refinery.
 ‏
-‏Hezbollah stated that they have no presence or affiliations whatsoever on Syrian territory and no connection to any activity that undermines Syria’s security and stability.
+‏Hezbollah stated that it has no presence or affiliations whatsoever on Syrian territory and no connection to any activity that undermines Syria’s security and stability.
 ‏
-‏They further said that invoking Hezbollah’s name and repeatedly accusing them of attacks will not change their position regarding confronting the Israelis, who have been increasing their attacks in Lebanon and Syria. Hezbollah also stressed that internal divisions help no one and a unified front is necessary against Israel.
+‏They further said that invoking Hezbollah’s name and repeatedly accusing them of attacks will not change their position regarding confronting the Israelis, who have been increasing their attacks in Lebanon and Syria—stressing that uniting against Israel is the best way to stop these attacks.
 ‏
 ‏@wfwitness
 23:36
@@ -2958,14 +3039,6 @@ src :@naya_foriraq
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ: دیگه پول به اسرائیل نمیدیم البته کمک بخوان کمکشون میکنیم  مسلمان‌ها با خودشون نفرت از یهودی‌ها رو به همراه میارن؛ نفرتی که ریشه‌ای و قدیمیه.از این به بعد دیگه هیچ پولی به اسرائیل پرداخت نمی‌کنیم. تا پایان امسال، پرداخت پول به اسرائیل رو کاملاً متوقف…
-20:01
-1405/08/12
-
-
-
-
 src :@defence_news
 [عکس]
 ‏پوستر جدید دفتر رهبر انقلاب در خصوص پاسخ به حمله دشمن بدون محدودیت جغرافیایی
@@ -3503,15 +3576,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@Alibk3
-[عکس]
-‏بلغت نسبة الجمهوريين 50.8% من الناخبين الذين أدلوا بأصواتهم يوم الانتخاب في فلوريدا حتى الآن (307,335 ناخباً)، مقابل 25.9% للديمقراطيين و23.3% للمستقلين وغيرهم، وفق بيانات قسم الانتخابات في الولاية، ويتقدم الجمهوريون حسب التسجيل الحزبي.
-18:41
-1405/08/12
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷/🇺🇸/🇶🇦 Secretary of Iran’s Supreme National Security Council, Maj. Gen. Mohsen Rezaei:  ‘We’ve reviewed the latest U.S. proposal conveyed through Qatar. America’s response to the demands of the Iranian nation was insufficient.  They must fully and explicitly…
 18:40
@@ -3739,18 +3803,6 @@ src :@mwarmonitor
 ‏
 ‏
 ‏@mwarmonitor
-18:24
-1405/08/12
-
-
-
-
-src :@mohem_mat
-‏محسن رضایی دبیر شورای عالی امنیت ملی: 
-‏
-‏پاسخ آمریکا به حقوق و مطالبات ایران قانع‌کننده نبود و آن‌ها باید کامل و صریح هفت شرط ایران را پاسخ داده و به آن عمل کنند؛ تنها در این صورت تنگه هرمز باز خواهدشد.
-‏
-‏@mohem_mat
 18:24
 1405/08/12
 
@@ -5314,20 +5366,6 @@ src :@DEJradio
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏قوه قضاییه جمهوری اسلامی  اعلام کرد که در پی تدوین «دستورالعملی» برای ساماندهی کافه‌های کشور است. سخنگوی این قوه بدون اشاره به جزئيات این دستورالعمل در شرایطی از تدوین آن خبر داد که هفته‌هاست فشار بر کافه‌ها و رستوران‌ها به بهانه‌های مختلف افزایش یافته است.
-‏ به گفته علی کاظمی، سخنگوی قوه قضاییه، دادستانی کل این دستورالعمل را با رویکرد فرهنگی و با همکاری کافه‌داران پیگیری می‌کند. هنوز جزئیاتی درباره مفاد آن، زمان نهایی‌شدن یا شیوه اجرای دستورالعمل اعلام نشده است.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/159730
-‏
-‏@Farsi_Iranwire
-14:42
-1405/08/12
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏خوب تا ساعاتی دیگر شاهد حضور و ارائه تحلیل های گرانبها از انبوه کارشناسان زبده ایرانی سوئیچ کرده از انتخابات اسرائیل به آمریکا خواهیم بود😎
 14:41
@@ -5448,18 +5486,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 14:08
-1405/08/12
-
-
-
-
-src :@cataphract1
-‏⚜آکسیوس گزارش داد که جان رتکلیف، رئیس سازمان اطلاعات مرکزی آمریکا (سیا)، از دونالد ترامپ می‌خواهد سیاست «نه جنگ، نه توافق» را در قبال ایران حفظ کند.
-‏
-‏⚜به نوشته این رسانه، استدلال رتکلیف این است که تداوم فشارهای اقتصادی و تشدید مشکلات معیشتی می‌تواند ایران را به دادن امتیازهای بیشتر وادار کند یا زمینه‌ساز اعتراضات و شورش داخلی در این کشور شود.
-‏✒️#LT
-‏📃@Cataphract1
-14:03
 1405/08/12
 
 
