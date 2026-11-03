@@ -1,3 +1,32 @@
+src :@intelslava
+[عکس]
+‏🇷🇺🇺🇦⚡️ — Currently, the Russian army is conducting missile strikes on enemy energy infrastructure facilities.
+‏
+‏The following thermal power plants have been hit: Ladyzhskaya, Krivorozhskaya, Pridneprovskaya, and Zmijevskaya.
+‏
+‏In the Kiev region, a 750 kV substation "Kiev" has been damaged.
+‏
+‏@Intelslava
+09:28
+1405/08/12
+
+
+
+
+src :@intelslava
+‏🇺🇦⚡️ — ️️️️Several people were beaten to death in a basement used as a torture chamber near Kiev, where dozens of men were being held – this was stated in the Ukrainian Parliament (Verkhovna Rada).
+‏
+‏The deceased are being registered as "missing." This is happening in over a hundred other similar torture chambers across Ukraine, emphasized Deputy Dmytruk:
+‏
+‏People are being kidnapped and tortured. Some are sold to military units, others to their relatives. Those who are weaker simply die from torture and the conditions of their confinement. This is how the entire "mobilization" system currently operates.
+‏
+‏@Intelslava
+09:27
+1405/08/12
+
+
+
+
 src :@MilitarryWorld
 ‏🔴معاریو: مخالفت عربستان با حمله به ایران معادلات واشنگتن و تل‌آویو را برهم زد
 ‏
@@ -18,7 +47,7 @@ src :@jangaavaran1390
 
 src :@Americana_ir
 [عکس]
-‏🔻زمان بسته شدن شعبه‌های رای‌گیری در انتخابات آمریکا
+‏🔻زمان بسته شدن شعبه‌های رای‌گیری در ایالت‌های مختلف آمریکا
 ‏
 ‏▪️شبکه خبری سی‌ان‌ان با انتشار نقشه‌ای، راهنمای ساعت‌به‌ساعت بسته شدن شعبه‌های رأی‌گیری در شب انتخابات آمریکا را به وقت پایتخت اعلام کرد. 
 ‏
@@ -26,6 +55,7 @@ src :@Americana_ir
 ‏
 ‏▪️زمان‌ها از ۶ عصر در بخش‌هایی از شرق کشور آغاز می‌شود و به‌تدریج تا ۷، ۷:۳۰، ۸، ۸:۳۰، ۹، ۱۰ و ۱۱ شب در مناطق مرکزی و غربی ادامه می‌یابد. بسته شدن شعبه‌ها در هاوایی ساعت ۱۲ نیمه‌شب و در آلاسکا ساعت ۱ بامداد به وقت شرقی انجام می‌شود. 
 ‏
+‏#Election2026
 ‏🆔 @Americana_ir
 09:24
 1405/08/12
@@ -4955,35 +4985,9 @@ src :@GeoPWatch
 
 
 
-src :@intelslava
-‏🇷🇺⚡️ — Russia plans to extend its diesel export ban by three months, through January 2027, while maintaining partial exemptions for international shipments
-‏
-‏— Deputy Prime Minister Alexander Novak.
-‏
-‏Moscow expects diesel exports to rise to 2.15 million tonnes next month, up from 510,000 tonnes in October, with volumes potentially reaching 3.5 million tonnes per month by year-end if domestic supplies remain sufficient.
-‏
-‏@IntelSlava
-20:06
-1405/08/11
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Several gulf states have reportedly warned Iran that they may respond with military force if their territory or facilities are targeted by Iran according to the Wall Street Journal.
 20:06
-1405/08/11
-
-
-
-
-src :@intelslava
-‏🇷🇺⚡️ — President Putin has allowed companies to temporarily use the capacity of foreign data centers. The decree has already been signed.
-‏
-‏Apparently, in the near future some data centers will be moved to the nearest allied countries.
-‏
-‏@IntelSlava
-20:05
 1405/08/11
 
 
@@ -5011,18 +5015,6 @@ src :@warmonitors
 
 
 
-src :@intelslava
-‏🇺🇦🇷🇺⚡️ — Ukrainian military intelligence claims that a Russian Su-57 stealth fighter jet burned down at the Akhtubinsk airfield on Thursday last week, attributing it to an engine startup failure due to suspected low jet fuel quality.
-‏
-‏Russia lowered jet fuel standards in August because Ukrainian attacks reduced refinery output, though it’s unclear whether the decision directly relates to Thursday’s incident.
-‏
-‏@IntelSlava
-19:57
-1405/08/11
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏A new wave of cyberattacks disrupted supermarket refrigeration systems across Belgium, Luxembourg, Sweden, Ireland, Estonia, Netherlands and Finland today. 
@@ -5045,20 +5037,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:54
-1405/08/11
-
-
-
-
-src :@intelslava
-‏🇺🇸🇮🇱⚡ Diplomats from Middle Eastern countries have expressed concerns that the US and Israel are planning new, more "damaging" strikes against Iran after the US midterm elections, The Financial Times reported.
-‏
-‏The newspaper’s sources noted that the strikes could target the Iranian nuclear and missile facilities, as well as power plants, which would provoke harsh retaliation from Tehran. 
-‏
-‏According to a United Arab Emirates diplomat, the prospect of a new phase of hostilities is forcing the region to prepare for the worst.
-‏
-‏@IntelSlava
-19:50
 1405/08/11
 
 
@@ -6965,16 +6943,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #a_m
 09:32
-1405/08/11
-
-
-
-
-src :@ircfspace
-[عکس]
-‏سازمان فناوری اطلاعات (زیرمجموعه وزارت قطع‌ارتباطات) یه گزارش در رابطه با ارزیابی پلتفرم‌های دیجیتال منتشر کرده، که در اون کارپینو (سرویسی که چندساله تعطیل شده و حتی دامینش فروخته شده) بدلیل رابط کاربری، سهولت و کارایی مقام چهارم رو در بین تاکسی‌های اینترنتی کسب کرده 😂
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-09:30
 1405/08/11
