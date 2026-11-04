@@ -1,3 +1,53 @@
+src :@ClashReport
+[عکس]
+‏U.S. election results show a nationwide shift toward Democrats, averaging 16 percentage points in counties with nearly complete counts, compared with a five-point shift toward Republicans in 2024.
+‏
+‏Even in states Democrats lost, Tennessee and Kentucky each shifted 18 points toward Democrats.
+‏
+‏Source: NYT
+09:40
+1405/08/13
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Democrat Scott Colom leads Republican Senator Cindy Hyde-Smith by just 28 votes in Mississippi’s Senate race, with nearly all ballots counted.
+09:39
+1405/08/13
+
+
+
+
+src :@rnintel
+‏🇺🇸🇮🇳🗳⚡️- Amy Acton did not accept Vivek Ramaswamy's concession call instead letting it go to voicemail.
+09:39
+1405/08/13
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸⚡️ — In a crazy turn of events, Scott Colom (D) is leading Mississippi's Senate election by 28 votes with over 95% of the vote in.
+‏
+‏Mississippi is traditionally one of the most Republican states in the country.
+09:38
+1405/08/13
+
+
+
+
+src :@mohem_mat
+[عکس]
+‏اتفاق باورنکردنی در میسی سیپی در حال رخ دادن است  با شمارش ۹۷ درصد آرا  رقابت کرسی سنای این ایالت در وضعیت کاملا مساوی و غیرقابل پیش بینی قرار گرفته است دو سال پیش ترامپ این ایالت را با ۳۰ درصد اختلاف برنده شد و حالا ممکن است کرسی سنای این ایالت را ببازد کرسی…
+09:37
+1405/08/13
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏realDonaldTrump
@@ -1001,21 +1051,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump acknowledged that the Iran war contributed to Republican losses in the midterm elections but said he would launch it again.
-‏
-‏“Iran was a piece of it,” he told the WSJ. “I don’t think about it. I did the right thing. I would have done it again.”
-‏
-‏He blamed rising oil prices for hurting Republicans politically, while insisting the biggest problem was his absence from the ballot.
-‏
-‏“The biggest issue is that I wasn’t on the ballot.”
-08:44
-1405/08/13
-
-
-
-
 src :@mohem_mat
 ‏ترامپ:
 ‏
@@ -1071,19 +1106,6 @@ src :@Exciton_missile_program
 ‏دموکرات‌ها ۵۴ کرسی
 ‏جمهوری‌خواهان ۴۶ کرسی
 08:41
-1405/08/13
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Democrats Seize Both Chambers of Congress, Making Trump a 'Lame Duck'
-‏
-‏Democratic gains in Texas, Kansas, and South Carolina hand the party control of Congress, opening way for investigations and challenges to Trump’s legislation and appointments.
-‏
-‏READ MORE
-08:40
 1405/08/13
 
 
@@ -1904,15 +1926,6 @@ src :@GeoPWatch
 
 
 
-src :@rnintel
-[عکس]
-‏🇺🇸🗳⚡️- Mike Lawler has lost re-election in New York's 17th Congressional District. This seat was crucial to any GOP hopes of putting up a defense.
-07:47
-1405/08/13
-
-
-
-
 src :@mohem_mat
 ‏نتایج مهم باقیمانده که خیلی مهم است  و می خواهم قطعی شان را بدانم:
 ‏
@@ -2042,19 +2055,6 @@ src :@Alibk3
 [عکس]
 ‏وول ستريت جورنال:  حلفاء ترامب يلومون "حرب إيران" في الخسائر التي تكبدها الجمهوريون.
 07:38
-1405/08/13
-
-
-
-
-src :@mohem_mat
-[عکس]
-‏بچه سناتور مک‌کین
-‏سناتور معروف جمهوریخواه که چند سال قبل درگذشت خواهر لیندزی گراهام رو مسخره کرده که فامیل‌بازی جواب نمیده. 
-‏عجب سیرکی 
-‏
-‏@mohem_mat
-07:37
 1405/08/13
 
 
@@ -2858,31 +2858,6 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 06:09
-1405/08/13
-
-
-
-
-src :@GeoPWatch
-‏⚡️🇺🇸🗳 – Democrat Keisha Lance won Georgia's Governor race against Republican Rick Jackson, flipping control of the state.
-‏
-‏🟢11/26 races called
-‏
-‏🐘 Democrats (governors)
-‏1. Massachusetts 
-‏2. Rhode Island
-‏3. Pennsylvania 
-‏4. Maryland
-‏5. Illinois
-‏6. Colorado
-‏7. New York
-‏8. Connecticut 
-‏9. Georgia (FLIP)
-‏
-‏🐘 Republicans (governors)
-‏1. Florida
-‏2. Wyoming
-06:05
 1405/08/13
 
 
