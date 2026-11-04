@@ -7256,13 +7256,3 @@ src :@RASTAKHIZ_PERSIAN
 ‏@P_raetorio
 23:40
 1405/08/12
-
-
-
-
-src :@Mena_Live
-‏“U.S. military ready to resume wide-scale airstrikes on Iran as soon as tomorrow.”
-‏
-‏@Mena_Live
-23:33
-1405/08/12
