@@ -1,3 +1,49 @@
+src :@Mena_Live
+‏The U.S. is sending one of its most strategic aircraft to the Middle East:
+‏
+‏The RC-135U (nicknamed Combat Sent) is a very rare strategic reconnaissance and intelligence aircraft of the U.S. Air Force, designed to detect, map, and analyze enemy radar and air defense systems.
+‏
+‏The U.S. Air Force only has two RC-135U aircraft in active service worldwide.
+‏
+‏What is its role?
+‏
+‏The aircraft “intercepts” radar transmissions from anti-aircraft systems and defense systems of ships and aircraft, and this information is used to operate jamming systems.
+‏
+‏@Mena_Live
+23:25
+1405/08/13
+
+
+
+
+src :@rnintel
+‏🇮🇱⚡️- Opposition leader Gadi Eisenkot has likely secured the first mandate to form a government, receiving 56 recommendations compared to Netanyahu’s 46.
+‏
+‏The Arab party Ra’am has endorsed Eisenkot to form a government.
+23:24
+1405/08/13
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸🇷🇺صفقة ترامب مع روسيا بشأن وقود الديزل تتوقف بسبب انخفاض مخزونات الوقود الأمريكية إلى أدنى مستوى لها منذ 20 عامًا.
+‏
+‏https://t.me/naya_foriraq
+23:23
+1405/08/13
+
+
+
+
+src :@intelslava
+‏🇺🇸⚡️ — According to CBS News, President Donald Trump is considering firing U.S. Secretary of War Pete Hegseth following the midterm election results.  @IntelSlava
+23:22
+1405/08/13
+
+
+
+
 src :@OSINTWarfare
 [ویدئو]
 ‏Just because.
@@ -113,11 +159,16 @@ src :@jangaavaran1390
 
 src :@wfwitness
 [عکس]
-‏⚡️🇸🇦🇸🇾 Saudi and Syrian defence ministries signed a cooperation agreement during Syrian President Al Shaara’s second meeting with Crown Prince Mohammed bin Salman this month.
+‏⚡️🇸🇦🇸🇾 Saudi and Syrian defence ministries signed a cooperation agreement during Syrian President  Ahmad Al Shaara's second meeting with Saudi Crown Prince Mohammed bin Salman this month.
 ‏
-‏The deal, announced without details, follows Syria’s earlier statement that any Saudi assistance would be channelled through official bilateral frameworks and comes alongside financial and other agreements.
+‏The deal follows Syria's earlier statement that any Saudi assistance would be channelled through official bilateral frameworks. It comes alongside financial and other agreements covering:
 ‏
-‏Officials noted the agreement marks the first formal military cooperation pact between the two nations, signalled a shift after months of speculation over Saudi support against Houthi attacks.
+‏1. 10,000 housing units - rehabilitation (first phase).
+‏2. Aleppo thermal power station - rehabilitation.
+‏3. Hospitals and health centres - rehabilitation.
+‏4. 25 Civil Defence centres - construction and rehabilitation across several provinces.
+‏5. Ministry of Finance - digital transformation and institutional development.
+‏6. 300,000 smart water meters - supply and installation.
 ‏
 ‏@wfwitness
 ‏
@@ -2190,23 +2241,6 @@ src :@WAR_ROOM_NEWS
 ‏
 ‏🆔@WAR_ROOM_NEWS
 20:38
-1405/08/13
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇶الرصد اليومي لطلعات العدو الجوية التي يخرق بها السيادة العراقية. 
-‏يستمر العدو في انتهاكه الصارخ لسيادتنا الجوية، انطلاقا من قواعدهم في الأردن وتركيا .
-‏
-‏- طائرات (MQ-9) عدد 11.
-‏- طائرات (MQ-1) عدد 2.
-‏- طائرات (AKINGI) عدد 1.
-‏- طائرات (UNK drone) عدد 5.
-‏
-‏يوم الثلاثاء  3 - 11 - 2026
-20:36
 1405/08/13
 
 
@@ -4880,20 +4914,6 @@ src :@OSINTWarfare
 
 
 
-src :@intelslava
-‏🇷🇺🇺🇦⚡️ — According to the Ukrainian Defense Intelligence, Russia has accumulated up to 700 ballistic missiles and several thousand cruise missiles of various types.
-‏
-‏It is stated that Russia produces more than 100 ballistic missiles and a similar number of cruise missiles each month.
-‏
-‏Regarding the "Iskander-M" missiles, the figures indicate an accumulation of 115 missiles, with a monthly production rate of 65.
-‏
-‏@Intelslava
-16:07
-1405/08/13
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇮🇷 US Gulf allies prepare for massive US airstrikes on Iran and Iranian retaliation.
 ‏
@@ -6001,14 +6021,6 @@ src :@samueltarikh
 ‏🔸نمونه بعدی جنگ خلیج فارس ۱۹۹۰_۱۹۹۱ در دوران جورج بوش است که در کنگره ۱۰۱ام و ۱۰۲ام هر دو مجلس با اکثریت دموکرات‌ها (در سنا ۵۵ یا ۵۶ دموکرات در برابر ۴۴ یا ۴۵ جمهوری‌خواه و در مجلس نمایندگان حدود ۲۶۰ تا ۲۶۷ دموکرات) کنترل می‌شد و پس از حمله عراق به کویت در ۲ اوت ۱۹۹۰ بوش نیروهای آمریکایی را به عربستان سعودی فرستاد و ائتلاف بین‌المللی تشکیل داد اما برای عملیات تهاجمی نیاز به تایید کنگره داشت و در ۱۲ ژانویه ۱۹۹۱ پس از مباحثات طولانی و پرتنش قطعنامه مجوز استفاده از نیروی نظامی با رای بسیار نزدیک ۵۲ به ۴۷ در سنا (با حمایت تنها ۱۰ دموکرات) و ۲۵۰ به ۱۸۳ در مجلس نمایندگان تصویب شد که نزدیک‌ترین رای مجوز جنگ از زمان جنگ ۱۸۱۲ بود و بوش اعلام کرده بود که حتی بدون این رای نیز عمل خواهد کرد اما ترجیح داد برای نمایش وحدت ملی آن را به دست آورد و عملیات طوفان صحرا با موفقیت سریع نیروهای عراقی را از کویت بیرون راند. 
 ‏
 ‏🔸در دوران جورج بوش نیز جنگ افغانستان که پس از حملات ۱۱ سپتامبر ۲۰۰۱ با قطعنامه تقریبا اجماعی کنگره در ۱۸ سپتامبر ۲۰۰۱ آغاز شد و جنگ عراق که با قطعنامه اکتبر ۲۰۰۲ (۲۹۶-۱۳۳ در مجلس و ۷۷-۲۳ در سنا) مجوز گرفت در سال‌های اولیه با کنترل جمهوری‌خواهان بر کنگره همراه بود اما پس از انتخابات میان‌دوره‌ای ۲۰۰۶ که دموکرات‌ها کنترل هر دو مجلس را به دست آوردند و کنگره ۱۱۰ام از ژانویه ۲۰۰۷ تا ژانویه ۲۰۰۹ با اکثریت دموکرات‌ها (در مجلس ۲۳۳ دموکرات و در سنا با حمایت دو مستقل عملیاتی ۵۱ کرسی) تشکیل شد بوش با فشار شدید برای تغییر استراتژی در عراق مواجه شد و دموکرات‌ها تلاش کردند با گنجاندن جدول زمانی خروج نیروها در لوایح بودجه جنگ را محدود کنند اما بوش این لوایح را وتو کرد و در نهایت کنگره بدون جدول زمانی اما با معیارهای پیشرفت برای دولت عراق بودجه حدود ۹۵ میلیارد دلاری را در مه ۲۰۰۷ و سپس بودجه‌های بعدی را تصویب نمود در حالی که نظارت پارلمانی افزایش یافت و جلسات استماع متعدد برگزار شد اما جنگ‌ها تا پایان ریاست‌جمهوری بوش ادامه یافت و خروج کامل از عراق به دوران اوباما موکول شد.
-11:18
-1405/08/13
-
-
-
-
-src :@rnintel
-‏🇺🇸🗳⚡️- Montana's Initiative 194 has passed. Nonprofits, trusts, partnerships, corporations, trade associations and unincorporated associations doing business within Montana will be prohibited from contributing to political campaigns.
 11:18
 1405/08/13
 
@@ -7285,14 +7297,4 @@ src :@Exciton_missile_program
 ‏
 ‏@P_raetorio
 23:26
-1405/08/12
-
-
-
-
-src :@P_raetorio
-‏به گفته زلنسکی، فردریش مرتز صدراعظم آلمان با اهدای یک بسته زمستانی ویژه شامل موشک های پدافندی پاتریوت پک2، پک3 و IRIS-T و بسته تسلیحات مخصوص جنگنده های اف16 اوکراینی موافقت کرده است 
-‏
-‏@Minas_Tirith2024
-23:22
 1405/08/12
