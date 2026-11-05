@@ -1,3 +1,39 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇷🇺🇺🇸 Russian President Putin thanks First Lady Melania Trump for helping broker ceasefire.
+‏
+‏@BRICSNews
+23:38
+1405/08/14
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
+‏@iranintlTV
+23:37
+1405/08/14
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Paraguayan President Santiago Peña resigned today amid a banking crisis triggered by the collapse of digital lender ueno, with which he had former business ties. 
+‏
+‏The collapse left roughly 3 million people, nearly half the population, unable to access their accounts. 
+‏
+‏Eight bank executives were detained, and the central bank chief resigned. 
+‏
+‏Facing impeachment proceedings and mounting protests, Peña stepped down, with Vice President Pedro Alliana next in line to succeed him.
+23:36
+1405/08/14
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏روسيا تنصح مواطنيها بتجنب السفر إلى إيران، يأتي هذا التحذير بعد اجتماع بين الرئيس الروسي، بوتين وأمين المجلس الأعلى للأمن القومي الإيراني، اللواء محسن رضائي.
@@ -6786,26 +6822,6 @@ src :@Mena_Live
 
 
 
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 US administration officials urge President Trump to launch new military strikes on Iran, WSJ reports.
-‏
-‏@BRICSNews
-02:23
-1405/08/14
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇨🇳🇺🇸 China and US military officials agree to improve communication to reduce risks of conflict.
-‏
-‏@BRICSNews
-02:10
-1405/08/14
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇮🇩 — Indonesian President Prabowo Subianto sacks chief of staff Listyo Sigit Prabowo after his detention over alleged illegal wiretapping.
@@ -6988,17 +7004,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 23:51
-1405/08/13
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇮🇱 — Netanyahu calls for a Likud-led national government, warning that a left-wing coalition reliant on Arab parties will dismantle Israel from within. 
-‏
-‏He cites radical Islam as an external threat via Iran and proxies, and an internal threat via Islamist parties. He argues such a government would fail to fight enemies, describing the situation as life or death. He accuses left-wing leaders of pursuing a narrow minority government supported by these parties and imposing impossible conditions to block a broader coalition.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-23:38
 1405/08/13
