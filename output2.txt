@@ -1,3 +1,57 @@
+src :@ClashReport
+[عکس]
+‏Hubert Aiwanger, Bavaria’s deputy premier and economy minister, was found dead in a Berlin-Mitte hotel room.
+‏
+‏Officials report no initial suspicion of a crime; autopsy results are pending.
+‏
+‏READ MORE
+16:05
+1405/08/14
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — President Trump told aides on several occasions that he was unconcerned about the 2026 midterm elections, placing greater importance on foreign policy and shaping his presidential legacy, WSJ reports.
+‏
+‏Trump had become frustrated with domestic political matters, viewing them as less significant than international affairs and his long-term legacy.
+16:05
+1405/08/14
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏تصویری جدید از صنایع دریایی HII، که در آن ناوشکن های ارلی برک در حال تجهیز و ادامه روند ساخت خودشون هستن ( ٢ ناوشکن در حال تجهیز، ٣ ناوشکن در حال مونتاژ و ٢ ناوشکن در حال برش فولاد)، ناو هواپیمابر سبک کلاس آمریکا، یا همون بونگلویل LHA 8 نیز در حال ادامه روند آماده سازی خودش هست، یک ناوشکن زاموالت در حال ارتقا.... ناو های آبی خاکی کلاس سن آنتونیو( 3 ناو در حال ساخت و تجهیز هستن) نیز در حال تجهیز و تولید هستن, البته ناو هواپیمابر سبک فلوجه LHA 9 نیز در حال مونتاژ بدنه هست که در تصویر مشخص نیست
+‏
+‏
+‏@artemis_force
+16:04
+1405/08/14
+
+
+
+
+src :@VahidOnline
+[عکس]
+‏بهمن عبدی، مدیرکل دفتر برنامه‌ریزی و مشارکت‌های اجتماعی جوانان وزارت ورزش و جوانان، اعلام کرد که ثبت‌نام دختران ۱۳ ساله در سامانه‌های همسریابی با رضایت خانواده، بر اساس قوانین موجود، لزوما تخلف قانونی محسوب نمی‌شود.
+‏
+‏او در واکنش به حذف اپلیکیشن همسریابی «آدم و حوا» از پلتفرم‌های گوگل و متا گفت: «چنانچه دختران بالای ۱۳ سال با رضایت خانواده در سامانه‌های همسان‌گزینی ثبت‌نام کنند، این موضوع با توجه به مقررات قانونی موجود قابل بررسی است و نمی‌توان صرف ثبت‌نام این افراد را تخلف قانونی تلقی کرد.»
+‏
+‏این مقام وزارت ورزش با اشاره به واکنش نهادهای حقوق بشری به ثبت‌نام دختران کم‌سن‌وسال گفت که در شرایط فعلی، مبنای قانونی مشخصی برای برخورد با این مجموعه وجود ندارد.
+‏
+‏او افزود که به مراکز همسان‌گزینی توصیه شده است حداقل سن پذیرش دختران را به بالای ۱۵ سال افزایش دهند.
+‏@VahidOOnLine
+‏
+‏📡 @VahidOnline
+16:03
+1405/08/14
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 همکاری Oshkosh Defense و Grid Aero برای توسعه پهپادهای ترابری سنگین آمریکا.
 ‏
@@ -703,19 +757,6 @@ src :@warmonitors
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: BAE Systems Air says assembly of Türkiye’s first Eurofighter Typhoon jet front fuselage is underway in Lancashire, one year after Ankara’s 20-jet order.
-‏
-‏Including support, the total package has been reported at up to about £8 billion ($10.7 billion).
-‏
-‏READ MORE
-15:06
-1405/08/14
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜مرکز عملیات تجارت دریایی بریتانیا (UKMTO) پس از دریافت گزارشی مبنی بر اصابت دو پرتابه ناشناس به یک نفتکش در خلیج فارس، در فاصله حدود ۵۰ مایل دریایی شمال شهر مدینه‌الشمال قطر، هشدار صادر کرد.
@@ -725,23 +766,6 @@ src :@cataphract1
 ‏⚜در ۷ اکتبر نیز یک نفتکش در محدوده‌ای تقریباً مشابه هدف اصابت چند پرتابه قرار گرفته بود که در آن حادثه تلفات جانی گزارش شد.
 ‏✒️#LT
 ‏📃@Cataphract1
-15:05
-1405/08/14
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran remains an "emerging" space power despite U.S. strikes on its space facilities, according to a Pentagon intelligence report.
-‏
-‏The Defense Intelligence Agency said Iran has used GPS jamming and other electronic warfare capabilities to disrupt U.S. space operations during Operation Epic Fury.
-‏
-‏Iran also reportedly acquired Chinese satellite imagery to improve military targeting, while Russia has helped launch Iranian satellites.
-‏
-‏Iran operates around a dozen satellites, but analysts question U.S. claims of space superiority, citing Tehran's continued jamming capabilities.
-‏
-‏Source: Axios
 15:05
 1405/08/14
 
@@ -801,19 +825,6 @@ src :@USAMRYDATA
 src :@Artemis_Force
 ‏🛑ایالات متحده آمریکا ساعاتی پیش یک فروند دیگر از هواپیماهای HC-130J Combat King II را به خاورمیانه منتقل کرده است   این هواپیما برای انجام عملیات جستجو و نجات طراحی شده است.  @artemis_force
 15:00
-1405/08/14
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Netanyahu’s chances of remaining prime minister weakened after ultra-Orthodox ally United Torah Judaism refused to back him, while an Arab-led party endorsed rival Gadi Eisenkot. 
-‏
-‏President Isaac Herzog has until November 11 to choose a candidate to form a government. 
-‏
-‏Netanyahu remains caretaker prime minister as Israel faces a possible new election.
-14:59
 1405/08/14
 
 
