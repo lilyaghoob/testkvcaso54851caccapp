@@ -1,8 +1,38 @@
+src :@mohem_mat
+‏خبرگزاری اینترفکس مدعی شد: 
+‏
+‏دیدار پوتین و محسن رضایی در کرملین
+‏
+‏@Squad_iran
+18:05
+1405/08/14
+
+
+
+
+src :@MilitarryWorld
+‏🔴خبرگزاری اینترفکس: محسن رضایی و پوتین باهم دیگه در کاخ کرملین دیدار کردند 
+‏
+‏@MilitarryWorld | Maverick
+18:04
+1405/08/14
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏تصویری زیبایی از ناو هواپیمابر پرنس آف ولز
 ‏
 ‏@artemis_force
+18:02
+1405/08/14
+
+
+
+
+src :@ClashReport
+‏Putin received Iran’s Supreme National Security Council Secretary Mohsen Rezaei, Kremlin spokesperson Dmitry Peskov said.
 18:02
 1405/08/14
 
@@ -1516,30 +1546,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump told ABC News' Jonathan Karl he intends to keep Pete Hegseth as Defense Secretary despite complaints.
-‏
-‏“I have every intention to keep him,” Trump said.
-16:06
-1405/08/14
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Hubert Aiwanger, Bavaria’s deputy premier and economy minister, was found dead in a Berlin-Mitte hotel room.
-‏
-‏Officials report no initial suspicion of a crime; autopsy results are pending.
-‏
-‏READ MORE
-16:05
-1405/08/14
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏تصویری جدید از صنایع دریایی HII، که در آن ناوشکن های ارلی برک در حال تجهیز و ادامه روند ساخت خودشون هستن ( ٢ ناوشکن در حال تجهیز، ٣ ناوشکن در حال مونتاژ و ٢ ناوشکن در حال برش فولاد)، ناو هواپیمابر سبک کلاس آمریکا، یا همون بونگلویل LHA 8 نیز در حال ادامه روند آماده سازی خودش هست، یک ناوشکن زاموالت در حال ارتقا.... ناو های آبی خاکی کلاس سن آنتونیو( 3 ناو در حال ساخت و تجهیز هستن) نیز در حال تجهیز و تولید هستن, البته ناو هواپیمابر سبک فلوجه LHA 9 نیز در حال مونتاژ بدنه هست که در تصویر مشخص نیست
@@ -2776,17 +2782,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ|M.S
 14:15
-1405/08/14
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴 قیمت هر افغانی به ۴ هزارتومن رسید
-‏
-‏@MilitarryWorld | Parsa
-14:14
 1405/08/14
 
 
@@ -4433,20 +4428,6 @@ src :@Americana_ir
 ‏
 ‏#Election2026 
 ‏🆔 @Americana_ir
-10:39
-1405/08/14
-
-
-
-
-src :@mohem_mat
-‏سی‌ان‌ان‌ به نقل از منابع:
-‏
-‏جمهوری‌خواهان پس از شکست تاریخی در انتخابات میان‌دوره‌ای، می‌گویند «هگست، نقش اصلی را در متقاعد کردن ترامپ برای حمله به ایران ایفا کرد»؛ آن‌ها قصد دارند استیضاح وی را به جریان بیاندازند و احتمالاً به تصویب هم برسد
-‏
-‏ وزیر جنگ آمریکا هم احتمالاً می‌داند که کارش تمام شده، اما دوست دارد خروجی پر سر‌وصدا داشته باشد تا از آن به عنوان سکوی پرتابی برای نامزدی در انتخابات ریاست‌جمهوری استفاده کند / انتخاب
-‏
-‏@Entekhab_ir
 10:39
 1405/08/14
 
@@ -7003,29 +6984,4 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖
 ‏@BellumActaNews
 18:06
-1405/08/13
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🚨⭕️ بر اساس گزارش منابع محلی سـ.ـپاه پاسداران چهارشنبه ۱۳ آبان ۱۴۰۵ یک کشتی خارجی در تنگه هرمز را هدف قرار داد. بر اساس تصاویری که از این رویداد منتشر شد کشتی منهدم و دچار آتش‌سوزی شد. 
-‏
-‏پیش از این سپاه اعلام کرده بود که چهار کشتی نیز در اثر اصابت با مین آسیب دیدند.
-‏
-‏#IRGCterrorists
-‏@DEJradio
-18:05
-1405/08/13
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: The IRGC has shot down an American MQ-1 ‘Grey Eagle’ drone in the Strait of Hormuz
-‏
-‏@Middle_East_Spectator
-18:04
 1405/08/13
