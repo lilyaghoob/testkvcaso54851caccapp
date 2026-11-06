@@ -1,3 +1,39 @@
+src :@defence_news
+[عکس]
+‏پهپاد ام‌کیو ۱ شماره ۱۶ توسط پدافند سپاه بر فراز قشم سرنگون شد
+‏
+‏@RedLionCorps
+19:01
+1405/08/15
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴آمریکا به اطلاعات نظامی اوکراین درباره حمله موشکی احتمالی روسیه طی ۳۶ ساعت آینده هشدار داده است. این حمله ممکن است با شلیک ۲۴ تیر موشک کالیبر و حداکثر ۴۰ تیر موشک بالستیک و کروز از جمله اسکندر-ام ،زیرکن و اونیکس انجام شود. کیف و چند استان دیگر در مرکز و شرق اوکراین در معرض تهدید قرار دارند و زیرساخت‌های انرژی هدف اصلی خواهند بود
+‏
+‏🆔@WAR_ROOM_NEWS
+19:01
+1405/08/15
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump plans to continue fundraising to maintain his political influence despite Republicans' midterm defeat.
+‏
+‏His MAGA Inc. super PAC raised nearly $450 million since early 2025 and spent more than $400 million on the elections. 
+‏
+‏Trump hopes to use his political operation to influence the 2028 presidential race and pressure Republican lawmakers, though his weakened standing could make attracting major donors more difficult.
+‏
+‏Source: Axios
+19:01
+1405/08/15
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴توییت جدید اتاق جنگ اسرائیل
@@ -2259,29 +2295,6 @@ src :@tabzlive
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻ویدیوهای منتشر شده در فضای مجازی نشان می‌دهد یکی از مدیران گروه خودروسازی آرتابان در قزوین، می‌گوید در جریان جنگ ۴۰ روزه، این کارخانه مورد اصابت موشک‌ قرار گرفته است. او اضافه می‌کند که این کارخانه به تولید بدنه موشک‌های سپاه پاسداران، مشغول بوده است.
-‏
-‏🔹او گفت: «به ما دسترسی داشتند؛ همین‌جا را دوبار زدند، چون تولید الیاف شیشه داشتیم؛ کامپوزیت مورد استفاده در بدنه موشک.»
-‏
-‏🔹آرتابان موتور، اسپانسر باشگاه استقلال در فصل گذشته لیگ برتر بود که در پی شروع جنگ ۴۰ روزه، نیمه‌تمام ماند. قرارداد همکاری استقلال و آرتابان موتور، با حضور علی تاجرنیا، رییس هیات مدیره استقلال و سرپرست مدیرعاملی این باشگاه، مرداد ۱۴۰۴ بسته شد.
-‏
-‏🔹آرتابان تا پیش از قرارداد اسپانسری با استقلال، چندان شناخته‌شده نبود. حتی مدیران شرکت از مدیران استقلال به صراحت خواستند به برندیگ آرتابان، کمک کنند. 
-‏
-‏🔹به نوشته سایت این شرکت، در شهریور ۱۴۰۳ تاسیس شد و کمتر از یک‌سال بعد، اسپانسر باشگاه استقلال شد.
-‏
-‏🔹به گفته عوض دیدار، مدیرعامل آرتابان بخش قابل توجهی از بودجه (تبلیغات) آرتابان موتور برای حمایت از استقلال اختصاص یافت.
-‏
-‏🔹جزییات بیشتر را در سایت بخوانید
-‏
-‏@iranintltvsport
-15:27
-1405/08/15
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -2306,23 +2319,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 15:21
-1405/08/15
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Belgium’s King Philippe has rejected Prime Minister Bart De Wever’s resignation and ordered him to resume budget negotiations immediately.
-‏
-‏De Wever offered to resign on November 2 after his five-party coalition failed to agree on €10 billion in budget measures. 
-‏
-‏Following consultations with coalition leaders, the King secured commitments from all five parties to make concessions and reach a deal. 
-‏
-‏De Wever must report back to the King on November 16.
-‏
-‏Source: Le Soir
-15:16
 1405/08/15
 
 
@@ -3177,25 +3173,6 @@ src :@didarnews1
 
 
 
-src :@defence_news
-[عکس]
-‏ارتش آمریکا کیت MALET را برای تبدیل خمپاره به مهمات پهپادی معرفی کرد
-‏
-‏ارتش آمریکا سامانه MALET را توسعه داده که با نصب یک کیت اتصال‌شونده، گلوله‌های خمپاره ۶۰ و ۸۱ میلی‌متری را به مهمات قابل رهاسازی از پهپاد تبدیل می‌کند.
-‏
-‏این کیت به فیوز انفجاری و بالک‌های تثبیت‌کننده مجهز است و بدون تغییر دائمی در مهمات نصب و جدا می‌شود. به این ترتیب، گلوله‌ها در صورت نیاز همچنان قابلیت شلیک از خمپاره‌انداز را حفظ می‌کنند.
-‏
-‏هدف این طرح، افزایش برد دسترسی به اهداف از حدود ۳ تا ۵.۶ کیلومتر در شلیک متعارف به برد عملیاتی مطلوب ۲۰ تا ۴۰ کیلومتری پهپادهاست.
-‏
-‏ارتش آمریکا از موفقیت آزمایش رهاسازی و انفجار مهمات واقعی ۶۰ میلی‌متری خبر داده، اما MALET هنوز در مرحله آزمایش و ارزیابی میدانی قرار دارد.
-‏
-‏#آمریکا #پهپاد #خمپاره #فناوری_نظامی
-13:13
-1405/08/15
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Paraguay is facing a major financial and political crisis following the collapse of Ueno Bank, which served approximately 3 million customers and held roughly $850 million in public funds, including pension money. 
@@ -4029,19 +4006,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/159862
 ‏
 ‏@Farsi_Iranwire
-11:07
-1405/08/15
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏⭕️ با ارزش‌ترین شرکت‌های هوش مصنوعی
-‏
-‏⚙️#TECH
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 11:07
 1405/08/15
 
@@ -6074,16 +6038,6 @@ src :@bricsnews
 
 
 
-src :@WAR_ROOM_NEWS
-‏شبکه ۱۲ اسرائیل گزارش داد حزب ارتدوکس شاس پس از وعده بنیامین نتانیاهو برای پیشبرد قانونی در راستای معافیت طلاب مدارس دینی از خدمت سربازی، بار دیگر حمایت خود را از او اعلام کرده است. این حزب در بیانیه‌ای گفت: «با توجه به وعده نتانیاهو برای پیشبرد قانونی که از طلاب علوم دینی در برابر خدمت سربازی محافظت می‌کند، همچنان در کنار نتانیاهو می‌مانیم.»
-‏
-‏🆔@WAR_ROOM_NEWS
-22:10
-1405/08/14
-
-
-
-
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‌‌‌‏ ‌‏ ‏
@@ -6680,31 +6634,4 @@ src :@warmonitors
 ‏
 ‏#ad
 19:03
-1405/08/14
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏شرکت Naval Group طرح مفهومی یک ناوشکن نسل آینده به نام SCX 26 را معرفی کرد.
-‏
-‏شرکت فرانسوی کشتی‌سازی Naval Group، طرح مفهومی ناوشکن SCX 26 را ارائه داد. این کشتی جدید به عنوان یک پلتفرم مفهومی برای انجام عملیات جنگی دریایی با شدت بالا، با استفاده گسترده از پهپادها و سیستم‌های اتوماسیون، طراحی شده است.
-‏
-‏طول این ناوشکن 170 متر، عرض آن 24 متر و تناژ آن 8000 تن خواهد بود. حداکثر سرعت آن به 30 گره دریایی و مسافت پیمایش آن بیش از 8000 مایل دریایی خواهد بود. این طرح شامل استفاده از یک سیستم پیشرانه ترکیبی شامل موتورهای دیزلی-الکتریکی و توربین‌های گازی (CODLAG) است.
-‏
-‏یکی از ویژگی‌های اصلی SCX 26، سامانه موشکی قدرتمند آن است که شامل بیش از 100 VLS از انواع مختلف، که در قسمت‌های جلویی و انتهایی کشتی قرار دارند، می‌باشد. علاوه بر این، نصب یک توپ الکترومغناطیسی ( ریلگان) با سرعت شلیک بالا، یک سیستم لیزری با توان 100 کیلووات و دو سیستم موشکی دفاع نزدیک Rampart نیز در نظر گرفته شده است.
-‏
-‏@artemis_force
-19:00
-1405/08/14
-
-
-
-
-src :@warmonitors
-‏⚡Iran’s security chief Rezaei has delivered a message from Supreme Leader Ali Khamenei to Russia’s Vladimir Putin, according to state media
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:00
 1405/08/14
