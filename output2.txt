@@ -1,3 +1,30 @@
+src :@intelslava
+‏🇰🇿⚡️ — Kazakhstan extends its ban on gasoline, diesel, and certain petroleum product exports for another six months, from November 22, 2026, to May 22, 2027.
+‏
+‏With exceptions for lubricants, fuel in factory-installed vehicle tanks, and certain government-approved shipments. The measure aims to prevent domestic fuel shortages.
+‏
+‏@IntelSlava
+22:51
+1405/08/15
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Flávio Bolsonaro and his brothers obtained Italian citizenship in just 58 days, compared with the roughly 10-year wait typically faced by applicants in Brazil. 
+‏
+‏An Italian opposition lawmaker alleged preferential treatment and called for an investigation into possible political interference.
+‏
+‏The Italian government denied any wrongdoing.
+‏
+‏Source: Folha de S.Paulo
+22:46
+1405/08/15
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری بلومبرگ به نقل از منابع قطری از «نزدیک‌تر» شدن مواضع تهران و واشینگتن و افزایش احتمال توافق بین دو طرف خبر داده است.
@@ -47,7 +74,7 @@ src :@didarnews1
 src :@mohem_mat
 ‏اکسیوس الان
 ‏
-‏وزیر خارجه قطر الان اعلام کرد که ایالات متحده و ایران رسماً در دستیابی به یک توافق جامع ناکام مانده‌اند و حدود شش ماه میانجی‌گری قطر میان تهران و واشنگتن هم رسماً به پایان رسید!
+‏وزیر خارجه قطر الان اعلام کرد که ایالات متحده و ایران رسماً در دستیابی به یک توافق جامع ناکام مانده‌اند 
 ‏
 ‏@mohem_mat
 22:42
@@ -3806,19 +3833,6 @@ src :@bricsnews
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏«اصغر ضرابی» روزنامه‌نگار و منتقد ادبی که با گفت‌وگوهای انتقادی خود با شماری از برجسته‌ترین نویسندگان، شاعران و روشنفکران ایران در دهه‌های ۴۰ و ۵۰ خورشیدی شناخته می‌شد، روز جمعه ۱۵آبان۱۴۰۵ درگذشت.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/159881
-‏
-‏@Farsi_Iranwire
-15:10
-1405/08/15
-
-
-
-
 src :@warmonitors
 ‏⚡Iran is not satisfied with paper commitments and must see practical US moves before any diplomacy, says the deputy head of Iran’s top security body on state TV
 ‏
@@ -3980,20 +3994,6 @@ src :@Americana_ir
 src :@Mena_Live
 ‏Axios: Trump held a meeting with his national security team to discuss resuming the war on Iran, and he said he would soon make a decision about launching a new wave of military strikes.  @Mena_Live
 14:43
-1405/08/15
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏شبکه حقوق‌بشر کردستان خبر داده است که دادستانی تهران همچنان از انتقال «مطلب احمدیان» زندانی سیاسی محبوس در اوین به بیمارستان برای درمان، ممانعت به‌عمل می‌آورد.
-‏مطلب احمدیان، زندانی سیاسی کرد اهل «بانه» است که هفدهمین سال حبس خود را در اوین می‌گذراند. شبکه حقوق‌بشر کردستان خبر داده است که این زندانی سیاسی با عوارض جدی ناشی از توده سرطانی مواجه است. اما با وجود تاکیدهای مکرر پزشکی قانونی بر ضرورت انتقال فوری مطلب احمدیان به بیمارستانی خارج از زندان، دادستانی تهران همچنان به مخالفت خود ادامه می‌دهد. 
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/159878
-‏
-‏@Farsi_Iranwire
-14:41
 1405/08/15
 
 
@@ -5059,14 +5059,6 @@ src :@bricsnews
 
 
 
-src :@didarnews1
-‏🔴آیت‌الله وحید خراسانی دار فانی را وداع گفت  🔹️آیت‌الله حسین وحید خراسانی از مراجع عالی‌قدر جهان تشیع بعد از عمری مجاهدت در سن ۱۰۵ سالگی دار فانی را وداع گفت.   🔻این خبر تکذیب شد  #سیاسی   #دیدار_نیوز didarnews.ir @didarnews1| @didarnewsir
-08:21
-1405/08/15
-
-
-
-
 src :@rnintel
 ‏🇺🇸⚡️- By pure volume sold off, today was the worst trading day for the S&P 500 since March 13, 2020. The declaration of the Covid lockdowns.
 08:09
@@ -6106,22 +6098,4 @@ src :@BellumActaNews
 src :@BellumActaNews
 ‏🇵🇾 — Paraguay's Chamber of Representatives blocks impeachment of Vice President Pedro Alliana. The motion was rejected by 48 votes to 30. As a result, he remains eligible to take over the Paraguayan government if necessary.
 23:00
-1405/08/14
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The U.S. Election Assistance Commission’s official 2024 report shows that Texas processed 2,900,357 new valid voter registrations between the 2022 and 2024 elections, representing 56.5% of 5,133,464 voter-registration transactions. 
-‏
-‏Another 2,165,514 transactions (42.2%) involved updates to existing registrations. 
-‏
-‏During that period, Texas required applicants to affirm U.S. citizenship under penalty of law but did not routinely require a birth certificate, passport or naturalization papers with registration applications. The 56.5% share exceeded the national average of 25.3%, although other states reported even higher percentages. In September 2026, Texas officials referred 117 potential noncitizen-voting cases for investigation. 
-‏
-‏Official Election Administration and Voting Comprehensive Report buried this information all the way on page 193 of the document.
-‏
-‏***
-‏55% "new" Texas voter registrations might explain how leftists won in the midterms there.
-22:50
 1405/08/14
