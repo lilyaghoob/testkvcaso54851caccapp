@@ -2811,14 +2811,6 @@ src :@Indypersian
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Four explosions in Bandar Jask, coastal southern Iran.
-22:50
-1405/08/16
-
-
-
-
 src :@GeoPWatch
 ‏🇾🇪❌🇸🇦 - All Clear in Jazan, Saudi Arabia.
 ‏
@@ -2951,14 +2943,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Alerts in Jazan Province, southwestern Saudi Arabia.
-22:40
-1405/08/16
-
-
-
-
 src :@mohem_mat
 ‏ادعای شبکه ۱۲ اسرائیل: 
 ‏
@@ -2988,15 +2972,6 @@ src :@jangaavaran1390
 ‏در بخش نخست، با تصویر دیک چنی، معاون وقت رئیس‌جمهور آمریکا، به جنگ عراق اشاره شده؛ جنگی که حدود ۸ سال حضور نظامی آمریکا و بیش از ۴ هزار کشته آمریکایی به همراه داشت.
 ‏
 ‏در بخش دوم، با تصویر دونالد ترامپ، ادعا شده که مقابله با تهدید آیت‌الله خامنه‌ای تنها به ۱۲ ساعت عملیات و شلیک ۹۰۰ موشک نیاز داشته است.
-22:37
-1405/08/16
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇸🇩❌🇸🇩 — The Sudanese Army captured the town of Ayal Bakhit in the West Kordofan region    The SAF is now 84 Km away North of the city of Al Nahud, an important RSF stronghold.
 22:37
 1405/08/16
 
@@ -6087,16 +6062,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 13:24
-1405/08/16
-
-
-
-
-src :@warmonitors
-‏⚡Russian forces struck a Naftogaz facility in central Ukraine three times overnight, the company says
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:22
 1405/08/16
 
 
