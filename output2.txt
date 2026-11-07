@@ -1,3 +1,43 @@
+src :@Exciton_missile_program
+[عکس]
+‏دانا وایت
+01:26
+1405/08/17
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏نیروی دریایی سپاه پاسداران روز شنبه ۱۶ آبان اعلام کرد دو نفتکش در محدوده تنگه هرمز و شرق این آبراه پس از برخورد با مین منفجر شده و در آتش می‌سوزند. سپاه این دو نفتکش را به تلاش برای عبور از مسیر غیرمجاز و خاموش کردن سامانه‌های ناوبری و موقعیت‌یاب متهم کرده است.
+‏
+‏
+‏بیشتر بخوانید: ​​ https://iranwire.com/fa/news-1/159931
+‏@Farsi_Iranwire
+01:25
+1405/08/17
+
+
+
+
+src :@tglobaleye
+‏🇵🇱⚡️— Polish PM Donald Tusk: Three bodies (two women, one man) found at Krakow shooter's home; believed to be close family.
+‏
+‏🇪🇺 — Legion Europa | Group Chat
+01:25
+1405/08/17
+
+
+
+
+src :@tglobaleye
+‏🌲 - 🇬🇧🚨⚠️❗️ The United Kingdom has issued an advisory urging its citizens currently in the Middle East to leave the region immediately.
+01:24
+1405/08/17
+
+
+
+
 src :@naya_foriraq
 ‏🇮🇶بسبب سوء البنية التحتية فاملي مول في محافظة اربيل شمالي العراق يخرج عن الخدمة بعد غمره بمياه الأمطار.  https://t.me/naya_foriraq
 01:21
@@ -2094,21 +2134,6 @@ src :@defence_news
 
 
 
-src :@IranintlTV
-[عکس]
-‏اسحاق هرتزوگ، رییس‌جمهور اسرائیل، شامگاه شنبه ۱۶ آبان اعلام کرد که ماموریت تشکیل دولت را به گادی آیزنکوت، رییس حزب یاشار، واگذار خواهد کرد.
-‏
-‏او پیش‌تر گفته بود با وجود حمایت فراکسیون‌هایی با مجموع ۶۷ کرسی از گادی آیزنکوت برای تشکیل دولت، هنوز مشخص نیست چه کسی توانایی تشکیل دولت را دارد.
-‏هرتزوگ گفته بود فراکسیون‌هایی با مجموع ۴۶ کرسی، بنیامین نتانیاهو را پیشنهاد کرده‌اند.
-‏
-‏نتانیاهو در سخنرانی روز شنبه خود درباره احتمال حمایت احزاب عرب از آیزنکوت گفت برخی قصد دارند دولتی با مشارکت «حامیان تروریسم» تشکیل دهند و افزود دولتی که به حامیان حماس و اسلام‌گرایان وابسته باشد، با آن‌ها نخواهد جنگید و تهدید جمهوری اسلامی را نیز برطرف نخواهد کرد.
-‏https://iranintl.com/202611073836
-23:06
-1405/08/16
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏سماع دوي انفجار في قشم وجاسك الإيرانية، جراء إطلاق صواريخ نحو مضيق هرمز.
@@ -3178,16 +3203,6 @@ src :@tglobaleye
 
 src :@samueltarikh
 ‏⭕️اردوغان با ترامپ تماس تلفنی برقرار کرد و خواهان حل مشکلات ایران و آمریکا از مسیر دیپلماتیک شد
-22:03
-1405/08/16
-
-
-
-
-src :@intelslava
-‏🇵🇱 The perpetrator of the terrorist attack in Kraków had several weapons and very large supplies of ammunition in his car, in addition to the military rifle he used.
-‏
-‏He used a military rifle, but one used not by the regular army but by special forces units. He had a bulletproof vest and military clothing.
 22:03
 1405/08/16
 
@@ -5771,19 +5786,6 @@ src :@USAMRYDATA
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏باقی‌مانده کلیسای تاریخی انجیلی مشهد شامگاه پنجشنبه ۱۴ آبان ۱۴۰۵ در یک عملیات شبانه تخریب شد. محمد اکبرپور، فعال رسانه‌ای در خراسان رضوی، از تخریب کامل بخش باقی‌مانده بنا خبر داد؛ این اتفاق پنج ماه پس از آن رخ داد که مقام‌های استان وعده بازسازی کلیسا را داده بودند.
-‏
-‏بخوانید : https://iranwire.com/fa/news-1/159913
-‏
-‏@Farsi_Iranwire
-14:59
-1405/08/16
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺📢 حسین محبی، سخنگوی سـ.ـپاه پاسداران، روز شنبه ۱۶ آبان ۱۴۰۵ در مشهد گفت، «این هفته از شهر موشکی و برخی دستاوردهای دیگر نیروی هوافضای سـ.ـپاه رونمایی خواهد شد.»
@@ -6950,14 +6952,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 01:28
-1405/08/16
-
-
-
-
-src :@thewarreporter
-‏🇮🇷 — Aircraft were heard over Qeshm Island, while eyewitnesses reported that two projectiles landed on the island.
-‏
-‏— Iranian News Agency | @TheWarReporter
-01:24
 1405/08/16
