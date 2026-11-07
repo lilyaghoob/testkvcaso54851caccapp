@@ -1,3 +1,39 @@
+src :@rnintel
+‏🇾🇪🇸🇦⚡️- Houthi outlets claim at least 11 people died following a strike in Sana'a.
+15:16
+1405/08/16
+
+
+
+
+src :@defence_news
+[عکس]
+‏تصویری جدید از استقرار توپ‌های ضدهوایی ۲۳ میلی‌متری مجهز به سامانه الکترواپتیکی سداد-۲۰۴ بر فراز برج‌های تهران.
+‏
+‏این ارتقا با هدف مدرن سازی توپ‌های قدیمی، افزایش قابلیت کشف و رهگیری اهداف هوایی و کاهش وابستگی به جستجو و نشانه‌روی دستی انجام شده است.
+‏
+‏پ.ن: مشخصات فنی سامانه الکترواپتیکی سداد-۲۰۴ (EO/IR) در تصاویر پیوست.
+‏
+‏• @BasedIMINT •
+15:13
+1405/08/16
+
+
+
+
+src :@rnintel
+[عکس]
+‏🇫🇷⚡️- David Lisnard has rapidly emerged as one of the fastest-growing contenders for the 2027 French presidential election. His party, New Energy, recently became France's largest party with 113,000 members, up from  just 25,000 in August. His core platform centered on economic reform and downsizing the French state is finding strong traction across both the center and the right.
+‏
+‏While polled at around 2% in mid-October, Lisnard has recently jumped to 9% according to a new batch of polls. 
+‏
+‏Note: Lisnard's latest surge was unaffected by controversial remarks in which he stated he "didn't care" about the 1961 Paris Massacre, when the French police allegedly drowned dozens of Algerians in the Seine.
+15:13
+1405/08/16
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏⭕️شاهزاده رضا پهلوی: کلیدهای خانه ایران در سال ۱۳۵۷ از مردم گرفته شد، باید آن‌ها را به صاحبان واقعی‌اش بازگردانیم
@@ -1788,7 +1824,8 @@ src :@WAR_ROOM_NEWS
 
 
 src :@WAR_ROOM_NEWS
-‏حملات جنگنده‌های سعودی به صنعا
+[عکس]
+‏حملات جنگنده‌های سعودی به صنعا که با تلفات همراه است
 12:13
 1405/08/16
 
@@ -2054,19 +2091,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏این گردهمایی همچنان طبق برنامه برگزار خواهد شد و تیم شاهزاده در همکاری نزدیک با مقامات امنیتی و پلیس، تمام تلاش خود را برای فراهم کردن امکان حضور ایشان به کار گرفته است."
 11:14
-1405/08/16
-
-
-
-
-src :@ClashReport
-[عکس]
-‏IRGC Spokesperson:
-‏
-‏If the country's leadership decides to revise its nuclear doctrine, the necessary preparations will be made.
-‏
-‏The assets of hostile countries are not confined to their geographical borders. Their material and non-material assets are within our reach.
-11:12
 1405/08/16
 
 
@@ -5264,29 +5288,6 @@ src :@OSINTWarfare
 
 
 
-src :@rnintel
-‏🇸🇾🇸🇦🇾🇪⚡️ — Syria has sent military advisers and trainers to Saudi Arabia amidst KSA's war with Ansarallah, two Syrian military sources and a senior U.S. official. A senior U.S. official says the Syrian teams arrived to train both Saudi forces and PLC forces operating inside KSA.
-‏
-‏A senior Syrian diplomat and a Saudi official denied the presence of Syrian units was related to Ansarallah, saying the Syrians were there to be trained by KSA.
-20:37
-1405/08/15
-
-
-
-
-src :@defence_news
-[عکس]
-‏چین در مجموع ۵ فروند هواپیمای شناسایی U-2 تایوان را بین سال‌های ۱۹۶۲ تا ۱۹۶۷ سرنگون کرد.
-‏
-‏این هواپیماها متعلق به اسکادران شناسایی ۳۵ تایوان، معروف به «اسکادران گربه سیاه» بودند. در این سرنگونی‌ها ۳ خلبان کشته و ۲ خلبان اسیر شدند. بیشتر هواپیماها با موشک‌های پدافندی زمین‌به‌هوای SA-2 هدف قرار گرفتند. 
-‏
-‏این موارد در نهایت منجر به این شد تا ایالات متحده دست به طراحی و به خدمتگیری هواپیمای شناسایی مشهور sr۷۱ بزند که با سرعت ۳ ماخ می‌توانست از کمند موشک‌های پدافندی ساخت شوروی فرار کند.
-20:29
-1405/08/15
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇶🔄❗️ — Iraq’s nuclear regulator says emergency response plans and border radiation monitoring systems have been put in place amid concerns over potential American strikes on Iranian nuclear facilities, reports Shafaq. ➖➖➖➖➖➖ 💧 Rainbet.com the #1 Non-KYC Crypto…
@@ -5453,27 +5454,6 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 19:27
-1405/08/15
-
-
-
-
-src :@defence_news
-[عکس]
-‏🔶 پهپادKAHE K600؛ پهپاد دریایی نیمه‌غوطه‌ور فرانسوی با قیمت ۵۹۰۰ یورو
-‏
-‏🔹 شرکت فرانسوی KAHE Nautic در نمایشگاه Euronaval 2026 از پهپاد دریایی  K600 رونمایی کرد؛ شناوری نیمه‌غوطه‌ور با وزن ۱۵ کیلوگرم که برای بیش از ۶۵ نوع مأموریت دریایی، از شناسایی و نظارت ساحلی تا بازرسی زیرساخت‌های زیرآبی طراحی شده است. 
-‏
-‏🔹 این شناور با دو پیشران الکتریکی، سرعت ۶ تا ۸ گره دریایی دارد و می‌تواند تا ۱۰ ساعت با سرعت پایین فعالیت کند. ظرفیت حمل تجهیزات مأموریتی آن ۱۰۰ کیلوگرم و حداکثر عمق عملیاتی اعلام‌شده ۱۰ متر است. دوربین‌های حرارتی، سونار، هیدروفون و حسگرهای مختلف قابلیت نصب روی آن را دارند.
-‏
-‏🔹 نقطه تمایز K600 قیمت و طراحی ماژولار آن است: با قیمت پایه ۵۹۰۰ یورو، می‌تواند برای پایش بنادر، حفاظت از زیرساخت‌های دریایی و عملیات چندپهپادی به کار گرفته شود. البته این سامانه هنوز در سطح آمادگی فناوری ۴ قرار دارد و تولید آزمایشی ۳۰۰ دستگاه و رسیدن به مرحله آزمایش پیشرفته‌تر تا سپتامبر ۲۰۲۷ هدف‌گذاری شده است. 
-‏
-‏#K600 
-‏#KAHENautic 
-‏#Euronaval2026
-‏
-‏@RASTAKHIZ_PERSIAN
-19:16
 1405/08/15
 
 
@@ -5850,14 +5830,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 17:24
-1405/08/15
-
-
-
-
-src :@rnintel
-‏🇪🇺⚡️- Ongoing 4th wave of fake bomb alerts across airlines in Europe.
-17:18
 1405/08/15
 
 
