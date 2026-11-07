@@ -1,3 +1,76 @@
+src :@ClashReport
+[عکس]
+‏Dana White:
+‏
+‏On to the next chapter.
+00:11
+1405/08/17
+
+
+
+
+src :@tabzlive
+‏🇺🇸❌🇮🇷 — Ten minutes ago, an additional U.S. strike was conducted against Bandar Jask, coastal southern Iran.
+00:10
+1405/08/17
+
+
+
+
+src :@warmonitors
+‏⚡An Iranian state TV reporter says explosions may be linked to the Iranian military’s activities in the Strait of Hormuz
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+00:10
+1405/08/17
+
+
+
+
+src :@Exciton_missile_program
+‏⚜انفجارات تازه ای در قشم و جاسک گزارش شده است.
+‏✒️#LT
+‏📃@Cataphract1
+00:09
+1405/08/17
+
+
+
+
+src :@USAMRYDATA
+[عکس]
+‏📺صداوسیما :
+‏ هنوز خودمونم نمی‌ دونیم ما 🇮🇷 زدیم یا اونا 🇺🇸 زدن.
+‏
+‏
+‏🖊وقتی از ابرقدرت چهارم دنیا 🇮🇷 صحبت میکنیم ، منظورمون یه همچین پدیده ای هستش که هنوز دقیقا نمیدونه خودشه که داره میزنه یا اونان که دارن میزننش
+‏
+‏
+‏#FUN
+‏➖➖➖➖➖➖➖➖➖
+‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
+00:07
+1405/08/17
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏U.S. aircraft disabled the St. Kitts-flagged M/V Huda with precision munitions after it repeatedly tried to breach the naval blockade against Iran. Its crew was warned to leave the targeted stern spaces, Gulf of Oman.
+‏
+‏ترجمه خودکار فارسی
+‏
+‏هواپیماهای آمریکایی کشتی موتوری «هدی» با پرچم سنت کیتس را پس از آن‌که چندین بار تلاش کرد محاصره دریایی علیه ایران را نقض کند، با مهمات هدایت‌شونده از کار انداختند. به خدمه آن هشدار داده شده بود که بخش‌های هدف‌گیری‌شده در قسمت پاشنه کشتی را ترک کنند؛ دریای عمان.
+‏
+‏𝕏  ·  @shin_persian
+00:07
+1405/08/17
+
+
+
+
 src :@MilitarryWorld
 ‏🔴مرندی:
 ‏
@@ -10,8 +83,19 @@ src :@MilitarryWorld
 
 
 
+src :@ClashReport
+[عکس]
+‏Israel's Gadi Eisenkot:
+‏
+‏Now is the time to form a national emergency government.
+00:07
+1405/08/17
+
+
+
+
 src :@intelslava
-‏🇵🇱⚡ Poland's Minister of National Defence Władysław Kosiniak-Kamysz says the perpetrator of the terrorist attack in Kraków was not a soldier and never had anything to do with the army.
+‏🇵🇱⚡ — Poland's Minister of National Defence Władysław Kosiniak-Kamysz says the perpetrator of the terrorist attack in Kraków was not a soldier and never had anything to do with the army.
 ‏
 ‏@IntelSlava
 00:04
@@ -3228,17 +3312,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-[عکس]
-‏🇩🇪🇺🇦⚡️ — German Defence Minister Boris Pistorius has ruled out providing Ukraine with additional Patriot air defense systems for the time being, warning that Germany has reached the limits of what it can supply without compromising its own security.
-‏
-‏He urged other countries to increase their contributions to Ukraine's air defense capabilities.
-21:24
-1405/08/16
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏فنلاند می‌خواهد بیش از ۱۳۴۰ کیلومتر خود با روسیه را به نوعی مانع ضد تانک مجهز کند که تانک‌ها نمی‌توانند از آن عبور کنند
@@ -3447,23 +3520,6 @@ src :@mohem_mat
 ‏
 ‏@sharghdaily
 21:03
-1405/08/16
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: Turkish President Erdogan held a phone call with Trump, discussing Türkiye-US bilateral ties and regional and global developments.
-‏
-‏Erdogan said he believes cooperation between the two countries will keep growing and that Ankara will work to give relations more momentum. 
-‏
-‏On Iran, he said the tension between Tehran and Washington must end and the issues be resolved through diplomacy, adding that Türkiye will keep working for peace. 
-‏
-‏On the Ukraine-Russia war, he said he hopes the growing diplomatic efforts bring a positive result, that Türkiye will keep contributing, and that stepping up contacts with both Kyiv and Moscow is important. 
-‏
-‏He also thanked Trump for supporting the Organization of Turkic States Summit.
-21:02
 1405/08/16
 
 
@@ -3683,16 +3739,6 @@ src :@KayhanLondonChannel
 ‏ایران کشوری نیست که منتظر باشد کسی به آن دموکراسی بیاموزد؛ کشوریست که از تمرین دموکراسی منع شده است.
 ‏ 
 ‏چند ماه پیش، یکی از اعضای بوندستاگ (پارلمان آلمان) از من پرسید: «آیا واقعاً فکر می‌کنید ایرانی‌ها برای دموکراسی آماده هستند؟» اعتراف می‌کنم که این سؤال گزنده بود. اما سؤال جدیدی نیست و من آن را به دل نمی‌گیرم. شاید او فقط آنقدر شجاعت داشت تا آنچه را بسیاری در پایتخت‌های مختلف در خفا به آن فکر می‌کنند، با صدای بلند بگوید. پس بگذارید در اینجا، در خانه‌ای که آلمانی‌ها برای نخستین بار همین پرسش را از خود پرسیدند، به آن پاسخ دهم.
-20:37
-1405/08/16
-
-
-
-
-src :@naya_foriraq
-‏🇾🇪العميد يحيى السريع:
-‏شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 105 غارات جوية وصواريخ استهدف بها الأعيان المدنية في العاصمة صنعاء ومحافظات الجوف وتعز وعمران وحجة وصعدة ومأرب ولحج وذلك من خلال طائرات "F-15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف والعدوان الصاروخي من نجران وجيزان، وخلفت عشرات الشهداء والجرحى من المدنيين جلُّهم من النساء والأطفال.
-‏ليبلغ إجمالي غارات العدوان السعودي منذ بدء التصعيد على بلدِنا 4369 غارة جوية وصاروخا.
 20:37
 1405/08/16
 
@@ -4443,23 +4489,6 @@ src :@samueltarikh
 ‏دقایقی پیش یک هواپیمای ویژه دولتی ایران،
 ‏فرودگاه مهرآباد تهران را ترک کرد.
 18:47
-1405/08/16
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️شبکه خبری العربیه روز شنبه ۱۶ آبان به نقل از منابع عراقی گزارش کرد، آمریکا به دولت عراق هشدار داده است در صورت ازسرگیری جنگ و پیوستن گروه‌های مسلح عراقی به ایران، مواضع و مقرهای این گروه‌ها هدف حمله قرار خواهند گرفت.
-‏
-‏بر اساس این گزارش، واشنگتن همچنین از دولت عراق خواسته است مانع حمله گروه‌های مسلح به کشورهای همسایه از خاک این کشور شود. به گفته این منابع، تام باراک، فرستاده آمریکا نیز از بغداد خواسته است اصل انحصار سلاح در دست دولت را اجرا کند.
-‏
-‏به گزارش العربیه، این هشدار چند روز پس از تماس تلفنی علی الزیدی، نخست‌وزیر عراق، با دونالد ترامپ، رئیس‌جمهوری آمریکا، مطرح شد. الزیدی روز پنجشنبه در این تماس بر تعهد بغداد به جلوگیری از استفاده از خاک عراق برای حمله به کشورهای همسایه تأکید کرده بود.
-‏هشدار تازه آمریکا در شرایطی مطرح می‌شود که واشنگتن خواستار قرار گرفتن گروه‌های مسلح زیر کنترل دولت عراق و جلوگیری از حمله به کشورهای همسایه از خاک این کشور است. بغداد نیز می‌کوشد با حفظ توازن در روابط خود با واشنگتن و تهران، از ورود عراق به درگیری‌های منطقه‌ای جلوگیری کند.
-‏
-‏
-‏@INDYPERSIAN
-18:46
 1405/08/16
 
 
@@ -5803,26 +5832,6 @@ src :@Mena_Live
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Islamic Regime's Central Bank raised the interbank interest rate to 33.9%, from around 24%.
-‏It says the contractionary policy is intended to reduce inflation.
-‏#Iran
-‏
-‏ترجمه خودکار فارسی
-‏
-‏بانک مرکزی رژیم اسلامی نرخ بهره بین‌بانکی را از حدود ۲۴٪ به ۳۳٫۹٪ افزایش داد.
-‏این بانک می‌گوید هدف از سیاست انقباضی، کاهش تورم است.
-‏#ایران
-‏
-‏𝕏  ·  @shin_persian
-14:10
-1405/08/16
-
-
-
-
 src :@Navy_Iranian
 [عکس]
 ‏در شهر نیواورلئان، نیروی دریایی ایالات متحده، هاورکرافت LCAC-118 از کلاس Ship-to-Shore Connector را به ناوگان خود اضافه کرد. 
@@ -5848,30 +5857,6 @@ src :@Parvazdaroj
 ‏
 ‏با تست رایگان ☝️
 14:05
-1405/08/16
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏BM [test] launched from Najafabad, Isfahan
-‏Isfahan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/7iwx_2BzVcnPKxoX6TbzeRvG
-‏
-‏ترجمه خودکار فارسی
-‏
-‏موشک بالستیک [آزمایشی] از نجف‌آباد، اصفهان پرتاب شد
-‏استان اصفهان، ایران
-‏
-‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/7iwx_2BzVcnPKxoX6TbzeRvG
-‏
-‏𝕏  ·  @shin_persian
-14:04
 1405/08/16
 
 
@@ -6833,16 +6818,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 04:41
-1405/08/16
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇺🇸🇮🇷 President Donald Trump says US carried out 'small strike' on Iran.
-‏
-‏@BRICSNews
-04:26
 1405/08/16
 
 
