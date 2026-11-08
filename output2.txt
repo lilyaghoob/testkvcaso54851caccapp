@@ -1,3 +1,59 @@
+src :@tabzlive
+‏🇮🇶🇮🇶⚡️ — Iraqi Prime Minister Ali al-Zaidi has ordered the creation of a committee to investigate the strike on the Khor Mor Oil & Gas Field. Kurdish officials will be present.
+00:51
+1405/08/18
+
+
+
+
+src :@thewarreporter
+‏🇮🇶☀️ — Aftermath of the drone attack on the Khor Mor gas field in Sulaymaniyah, Iraqi Kurdistan.  @TheWarReporter
+00:50
+1405/08/18
+
+
+
+
+src :@GeoPWatch
+‏🇮🇶🇹🇷 -  Unconfirmed footage and reports claim a drone attack targeted the Khor Mor gas field, located in the Chamchamal district of the Kurdistan Region of Iraq. The field is Iraq's largest producing non-associated gas field.  @GeoPWatch
+00:49
+1405/08/18
+
+
+
+
+src :@wfwitness
+‏Reports of a second attack targeting the Khor Mor gas field.  @wfwitness
+00:48
+1405/08/18
+
+
+
+
+src :@tabzlive
+‏🇮🇶⚡️ — Rising smoke at the Khor Mor Oil and Gas Plant, northern Iraq.
+00:48
+1405/08/18
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Fighter Jet and Drone activity has been reported over Altun Kupri, north of Kirkuk, Iraq.
+00:48
+1405/08/18
+
+
+
+
+src :@naya_foriraq
+‏هجوم ثاني خلال ساعة على حقل كورمور للغاز في محافظة السليمانية شمالي العراق
+00:48
+1405/08/18
+
+
+
+
 src :@MilitarryWorld
 ‏🔴ثابتی: مردم میگن باید جنگ رو ادامه بدیم
 ‏
@@ -468,6 +524,8 @@ src :@ClashReport
 ‏Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. 
 ‏
 ‏Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran!
+‏
+‏READ MORE
 00:19
 1405/08/18
 
@@ -637,6 +695,8 @@ src :@ClashReport
 ‏Maduro has also lost significant weight, reportedly due in part to poor prison food.
 ‏
 ‏Source: NYT
+‏
+‏READ MORE
 00:15
 1405/08/18
 
@@ -1216,14 +1276,6 @@ src :@didarnews1
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Explosions were also reported in Sirik, Iran.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:44
-1405/08/17
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏⚜شبکه ۱۳ اسرائیل گزارش داد که فرمانده سنتکام پیامی درباره ایران به فرماندهان ارشد ارتش اسرائیل منتقل کرده است.
 ‏
@@ -1321,15 +1373,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 23:37
-1405/08/17
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇷 Footage documenting the earlier explosions in Qeshm, Iran.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:36
 1405/08/17
 
 
@@ -1915,17 +1958,6 @@ src :@tabzlive
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - Iranian State News Agency IRNA are also reporting a U.S. strike on Qeshm Island.
-‏
-‏@GeoPWatch
-23:02
-1405/08/17
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻️️️️️️امیر قلعه‌نویی لیست جدید تیم ملی برای بازی با عراق و فلسطین را اعلام کرد. در جمع بازیکنان دعوت شده از سوی سرمربی تیم، تعدادی از نام‌های همیشگی وجود ندارد؛ از جمله مهدی طارمی، شجاع خلیل‌زاده، احسان حاج‌صفی و سامان قدوس. 
@@ -2008,14 +2040,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:01
-1405/08/17
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - Unconfirmed reports of a U.S. strike on the Port of Bandar-e Mahshahr near the Iraqi border.  @GeoPWatch
-23:00
 1405/08/17
 
 
@@ -2344,7 +2368,6 @@ src :@VahidOnline
 ‏
 ‏
 ‏دود بلند شده قشنگ سمت اول شهر بالای نریمان از همون جا که چند روز پیش زدن پدافندو
-‏
 ‏
 ‏وحید جان پدافند نریمان باز زدن
 ‏‌ 
@@ -3620,20 +3643,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇷🇺🇸⚡️ — Iranian Foreign Minister Abbas Araghchi:
-‏American voters have made their choice. Time for the White House to make its own.   
-‏
-‏Our 2-day proposal stands: meet the requirements, including end to war on all fronts, and you will see results.   
-‏
-‏Or choose war, and see our alert and battle-hardened Warriors rain down hell.
-20:38
-1405/08/17
-
-
-
-
 src :@VahidOnline
 ‏پست عراقچی، ترجمه ماشین:
 ‏رأی‌دهندگان آمریکایی انتخاب خود را کرده‌اند. حالا وقت آن است که کاخ سفید هم انتخاب خودش را بکند.
@@ -3680,15 +3689,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 20:35
-1405/08/17
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇸🇬⚡️ — Earlier today, U.S. Navy Nimitz-class aircraft carrier USS Theodore Roosevelt arrived at Changi Naval Base, southeastern Singapore for a port visit. It is expected to stay in Singapore for a few days before transiting to the CENTCOM area-of-responsibility.
-20:31
 1405/08/17
 
 
@@ -6639,21 +6639,4 @@ src :@cataphract1
 [عکس]
 ‏⚜ در عجیب ترین اقدام برای مقام سخنگوی کاخ سفید، ترامپ قراره دانا وایت از مبارزان مسابقات UFC رو به عنوان مقام سخنگوی کاخ سفید انتخاب کنه و گفته دستیارانش هم حبیب نورماگومدوف و اسلام ماخاچف هستند  📃@Cataphract1
 00:57
-1405/08/17
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸 NEW: President Trump announces that he has offered UFC chief Dana White the role of White House Press Secretary  @Middle_East_Spectator
-00:51
-1405/08/17
-
-
-
-
-src :@Exciton_missile_program
-‏⚜گزارش‌ها از تبادل آتش مجدد میان نیروهای آمریکا و ایران در تنگه هرمز طی امشب حکایت دارند.  ⚜بر اساس گزارش‌های منتشرشده، هم‌زمان با شلیک موشک و وقوع انفجار، حملات هوایی نیز بندرعباس و جزیره قشم را هدف قرار داده‌اند.  📃@Cataphract1
-00:51
 1405/08/17
