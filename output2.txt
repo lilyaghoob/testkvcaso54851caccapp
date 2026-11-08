@@ -1,6 +1,17 @@
+src :@rnintel
+[عکس]
+‏🇺🇸🇮🇷⚡️ — Several hawkish outside advisers have contacted President Trump since Election Day, urging him to force Iran to abandon its nuclear program by renewing attacks, according to WSJ, citing U.S. officials and a source familiar with the discussions.
+‏
+‏They argue that securing Tehran's surrender on the nuclear issue would cement Trump's legacy and allow him to portray the political sacrifices of the Iran war as worthwhile.
+04:45
+1405/08/17
+
+
+
+
 src :@tabzlive
 [عکس]
-‏🇺🇸🇮🇷⚡️ — Several hawkish outside advisers have contacted President Trump since Election Day, urging him to force Iran to abandon its nuclear program, according to WSJ, citing U.S. officials and a source familiar with the discussions.
+‏🇺🇸🇮🇷⚡️ — Several hawkish outside advisers have contacted President Trump since Election Day, urging him to force Iran to abandon its nuclear program by renewing attacks, according to WSJ, citing U.S. officials and a source familiar with the discussions.
 ‏
 ‏They argue that securing Tehran's surrender on the nuclear issue would cement Trump's legacy and allow him to portray the political sacrifices of the Iran war as worthwhile.
 03:58
@@ -2148,14 +2159,6 @@ src :@P_raetorio
 ‏گزارش‌ها از حمله به یک لانچر موشکی در جاسک
 ‏
 ‏@P_raetorio
-23:16
-1405/08/16
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — Explosions in the Strait of Hormuz. IRGC Navy attack.
 23:16
 1405/08/16
 
@@ -5096,16 +5099,6 @@ src :@Mena_Live
 
 
 
-src :@rnintel
-‏🇺🇸🇮🇷⚡️- BREAKING: US CENTCOM announces the establishment of Task Force Iron Gate, a military initiative to restrict and block all of Iran's borders and to prevent the shipment of "advanced weapons and materials."
-‏
-‏CENTCOM says they will only allow the inflow of humanitarian aid into Iranian territory.
-17:37
-1405/08/16
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏ستاد فرماندهی مرکزی ایالات متحده آمریکا (سنتکام) از تشکیل کارگروهی ویژه برای جلوگیری از انتقال تسلیحات پیشرفته، تجهیزات نظامی و اقلام مشمول تحریم از طریق مرزهای زمینی ایران و دریای خزر خبر داد. این اقدام در ادامه محاصره دریایی ایران از سوی آمریکا انجام می‌شود؛ محاصره‌ای که به گفته سنتکام، تاکنون مانع صادرات بیش از ۲۵ میلیارد دلار نفت خام ایران شده است.
@@ -6632,12 +6625,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 04:59
-1405/08/16
-
-
-
-
-src :@OSINTWarfare
-‏🇺🇸🇮🇷⚡️ — The U.S. Department of State’s Rewards for Justice (RFJ) program is offering a reward of up to $20 million, along with possible relocation, for information on Iran’s nuclear program. This includes information about nuclear facilities, equipment, associated personnel, including members of the scientific community, and the movement of any related materials or individuals.
-04:42
 1405/08/16
