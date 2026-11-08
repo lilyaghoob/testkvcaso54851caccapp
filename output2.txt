@@ -1189,17 +1189,6 @@ src :@naya_foriraq
 
 
 
-src :@IranintlTV
-[عکس]
-‏خبرگزاری تسنیم، وابسته به سپاه پاسداران بامداد دوشنبه ۱۸ آبان گزارش‌ها درباره حمله به جزیره قشم از سوی آمریکا را تایید کرد.
-‏پیشتر ایرنا شامگاه یک‌شنبه از اصابت به نقاطی در قشم خبر داد. وحید آنلاین از چهار انفجار شدید در قشم و صدای انفجار در ماهشهر و خبرگزاری فارس، وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در قشم و بندرعباس خبر دادند.
-‏https://iranintl.com/202611088458
-00:16
-1405/08/18
-
-
-
-
 src :@tabzlive
 ‏🇺🇸❌🇮🇷 — IRNA's correspondent on Qeshm Island reports "some locations" on Qeshm have been struck.
 00:16
@@ -1423,14 +1412,6 @@ src :@Mena_Live
 ‏The investigations revealed that most of those dismissed were from the National Defense Forces, the Fourth Brigade, and the 25th Brigade.
 ‏
 ‏@Mena_Live
-00:05
-1405/08/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Explosions were reported around 20 minutes ago in Susangerd, Khuzestan Province, Iran.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:05
 1405/08/18
 
