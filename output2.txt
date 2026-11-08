@@ -1,8 +1,29 @@
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
+‏@iranintlTV
+02:07
+1405/08/18
+
+
+
+
 src :@Middle_East_Spectator
 [عکس]
-‏—❗️🇺🇸/🇮🇷 NEW: The U.S. carried out an airstrike against an Iranian surface-to-air system in Qeshm Island
+‏—❗️🇺🇸/🇮🇷 NEW: The U.S. carried out an airstrike against an Iranian air defense system in Qeshm Island
 ‏
 ‏@Middle_East_Spectator
+02:07
+1405/08/18
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️بر اساس تازه‌ترین گزارش بانک مرکزی ونزوئلا، نرخ تورم ماهانه در اکتبر با ثبت رقم ۶.۲ درصد، به پایین‌ترین سطح خود طی دو سال گذشته رسیده است. داده‌های رسمی نشان می‌دهد که نرخ تورم سالانه نیز از حدود ۶۵۰ درصد در ماه مارس به ۳۷۷ درصد در ماه اکتبر سقوطی چشمگیر کرده که نمایانگر کاهش تقریباً ۵۰ درصدی طی هفت ماه است. دلسی رودریگز، سرپرست ریاست‌جمهوری ونزوئلا، این روند را نتیجه برقراری انضباط مالی، مدیریت درآمدهای ارزی و مهار نوسانات ارزش بولیوار دانسته و نهادهای اقتصادی کاراکاس توافق‌نامه‌ای را با هدف رساندن نرخ تورم در سال ۲۰۲۷ به سطحی دو رقمی و دستیابی به رشد اقتصادی ۶ درصدی امضا کرده‌اند. وضعیتی که نشان‌دهنده تغییر مسیر تدریجی اقتصاد این کشور پس از بحران‌های شدید ناشی از بازداشت نیکولاس مادورو در اوایل سال جاری میلادی است.
+‏
+‏@IndyPersian
 02:07
 1405/08/18
 
@@ -1421,14 +1442,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-‏⚡️🇮🇶☀️ The target of the Khor Mor gas field strike was likely the field’s gas storage unit, which suggests a naphtha storage tank was struck.   Naphtha is a volatile, flammable petroleum liquid, and such tanks are typically equipped with floating roofs or…
-00:03
-1405/08/18
-
-
-
-
 src :@MilitarryWorld
 ‏🔴گزارش های محلی از پرواز جنگنده های ارتش بر فراز آسمان تهران.
 ‏
@@ -1441,20 +1454,6 @@ src :@MilitarryWorld
 
 src :@rnintel
 ‏🇮🇷🇮🇶⚡️- BREAKING: A projectile has struck the Khor Mor gas field in northern Iraq.  Rerum Novarum assesses that this is likely an Iranian response to recent USAF strikes in southern Iran.
-00:01
-1405/08/18
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇶☀️ The target of the Khor Mor gas field strike was likely the field’s gas storage unit, which suggests a naphtha storage tank was struck. 
-‏
-‏Naphtha is a volatile, flammable petroleum liquid, and such tanks are typically equipped with floating roofs or nitrogen blanketing to minimize explosive atmospheres.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 00:01
 1405/08/18
 
@@ -1864,16 +1863,6 @@ src :@jangaavaran1390
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
-‏@iranintlTV
-23:30
-1405/08/17
-
-
-
-
 src :@MilitarryWorld
 ‏🔴صداوسیما:
 ‏
@@ -2227,15 +2216,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸❌🇮🇷 — IRNA's correspondent on Qeshm Island reports "some locations" on Qeshm have been struck.
-23:06
-1405/08/17
-
-
-
-
 src :@P_raetorio
 ‏گزارش ها از وقوع 4 انفجار مهیب در جزیره قشم  @P_raetorio
 23:06
@@ -2269,22 +2249,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 23:03
-1405/08/17
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — Khuzestan is a normal surface-to-air missile launch. Nothing irregular. SAMs are launched a lot in Khuzestan, usually towards recon UAVs.
-23:02
-1405/08/17
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — U.S. strikes against Qeshm Island, Iran. An air defense system [likely antiair gun] that earlier operated was struck in eastern Qeshm.
-23:02
 1405/08/17
 
 
@@ -3350,19 +3314,6 @@ src :@cataphract1
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز یکشنبه ۱۷ آبان در گفتگو با شبکه خبری سی‌ان‌ان اعلام کرد، در صورتی که مذاکرات برای پایان دادن به درگیری‌ها پیشرفت کند، احتمال صدور دستور حملات جدید علیه ایران «بسیار کم» خواهد بود.
-‏این سخنان در حالی مطرح می‌شود که رسانه‌های العربیه و الحدث در روز یکشنبه، از سفر ۸ ساعته هیئتی از عراق به ایران و تسلیم پیامی از کاخ سفید به مقام‌های تهران خبر داده‌اند.
-‏
-‏
-‏@indypersian
-21:19
-1405/08/17
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US President Trump says renewed U.S. strikes on Iran are 'highly unlikely' if Tehran makes progress toward a nuclear deal and the reopening of the Strait of Hormuz.
 ‏
@@ -3888,23 +3839,6 @@ src :@mwarmonitor
 
 
 
-src :@selena_updates
-[عکس]
-‏NASA has announced a major expansion of its Moon Base program, awarding new contracts to accelerate the establishment of a permanent American presence near the Moon’s South Pole.
-‏
-‏8 companies - SpaceX, Blue Origin, Lockheed Martin, Firefly Aerospace, Intuitive Machines, iSpace US, Northrop Grumman and Voyager Technologies - were selected to compete for lunar cargo-delivery contracts under a 10-year framework worth up to $10 billion.
-‏
-‏NASA also confirmed plans to launch PROMISE, a 6-wheeled, nuclear-powered lunar rover, in late 2028 to investigate underground ice deposits, map resources and identify suitable locations for future infrastructure. 
-‏
-‏Blue Origin received a $94 million delivery contract, with an additional $140 million option. 6 space-transportation orders totaling approximately $1.3 billion were awarded to Arrow Science and Technology, Blue Origin and Impulse Space. Separately, SpaceX will deploy lunar communications satellites aboard Starship in 2028, while Honeybee Robotics, Redwire and Yank Technologies will develop energy-storage, solar-generation and wireless-power components for a lunar communications and power tower. 
-‏
-‏The initiatives support NASA’s objective of returning astronauts to the Moon in 2028 and establishing a sustained human presence there.
-19:45
-1405/08/17
-
-
-
-
 src :@samueltarikh
 ‏وزیر جنگ آمریکا در پیامی ویدیویی به نظامیان ارتش آمریکا اعلام کرد:
 ‏ما تازه مبارزه را آغاز کرده‌ایم،
@@ -4064,17 +3998,6 @@ src :@thewarreporter
 
 
 
-src :@selena_updates
-[عکس]
-‏Yemen’s Iran-backed Houthis launched ballistic missiles toward Saudi Arabia’s capital, targeting the King Abdullah Financial District - one of the kingdom’s most prestigious financial and commercial districts, where falling debris damaged several floors of the Saudi Aramco Tower. 
-‏
-‏The Saudi-led coalition confirmed intercepting 2 Houthi ballistic missiles. Saudi Arabia’s Energy Ministry confirmed the incident but described the damage as minor, with no casualties reported.
-19:15
-1405/08/17
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇮🇱 — Israeli President Isaac Herzog has announced that Yashar party leader Gadi Eisenkot will be tasked with forming a new government.  Eisenkot will formally receive the mandate on November 8 at 5 p.m. and will have 28 days to form a government, with the…
@@ -4128,15 +4051,6 @@ src :@intelslava
 
 
 
-src :@P_raetorio
-[عکس]
-‏ورود میمون مراکشی (لقب آیزنکوت از طرف طرفداران نتانیاهو) به اقامتگاه ریاست جمهوری اسرائیل برای دریافت رسمی مجوز تشکیل کابینه  @Minas_Tirith2024
-18:49
-1405/08/17
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏یسرائیل کاتس، وزیر دفاع اسراییل، هشدار داد که ماموریت این کشور علیه ایران هنوز به پایان نرسیده است. او تهران را به تلاش برای ازسرگیری برنامه دستیابی به سلاح هسته‌ای متهم کرد و به حزب‌الله لبنان درباره پیوستن به هرگونه جنگ احتمالی جدید با ایران هشدار داد.
@@ -4155,17 +4069,6 @@ src :@Mena_Live
 ‏Per today, Eisenkot has exactly 28 days to form an Israeli Government Coalition — Image
 ‏
 ‏@Mena_Live
-18:44
-1405/08/17
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏ورود میمون مراکشی (لقب آیزنکوت از طرف طرفداران نتانیاهو) به اقامتگاه ریاست جمهوری اسرائیل برای دریافت رسمی مجوز تشکیل کابینه
-‏
-‏@Minas_Tirith2024
 18:44
 1405/08/17
 
@@ -6298,21 +6201,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:01
-1405/08/17
-
-
-
-
-src :@rus_cosmos
-[عکس]
-‏بازگشت تاریخی فضاپیمای استارشیپ ۴۰ به پایگاه استاربیس؛ از اقیانوس هند تا تگزاس
-‏
-‏فضاپیمای استارشیپ ۴۰ متعلق به شرکت اسپیس‌ایکس، پس از انجام سیزدهمین پرواز آزمایشی سامانه استارشیپ در ۲۴ ژوئیه ۲۰۲۶، با موفقیت وارد جو زمین شد و در اقیانوس هند فرود آمد. برخلاف نمونه‌های قبلی، بدنه این فضاپیما پس از فرود روی آب سالم باقی ماند و منفجر نشد.
-‏
-‏استارشیپ ۴۰ پس از یک عملیات بازیابی پیچیده و سفری دریایی طولانی، از طریق بندر براونزویل به پایگاه استاربیس در تگزاس بازگردانده شد.
-‏
-‏این فضاپیما اکنون پس از انتقال به تأسیسات مگابی ۲، برای خروج از این سازه آماده می‌شود. قرار است وضعیت فنی آن بررسی شود تا داده‌های به‌دست‌آمده در توسعه نسل‌های بعدی استارشیپ و بهبود قابلیت استفاده مجدد از این فضاپیما به کار گرفته شوند.
-‏
-‏@rus_cosmos
-02:10
 1405/08/17
