@@ -821,14 +821,6 @@ src :@wfwitness
 
 
 
-src :@tabzlive
-‏🇮🇶⚡️ — Rising smoke at the Khor Mor Oil and Gas Plant, northern Iraq.
-00:48
-1405/08/18
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Fighter Jet and Drone activity has been reported over Altun Kupri, north of Kirkuk, Iraq.
 00:48
@@ -1053,15 +1045,6 @@ src :@OSINTWarfare
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇮🇷⚡️ — NEW: CENTCOM commander Adm. Brad Cooper has established Task Force Iron Gate, a team of around 20 civilian and military personnel based in Tampa, Florida, to prevent Iran from using land routes and the Caspian Sea to transport advanced weapons, dual…
-00:31
-1405/08/18
-
-
-
-
 src :@samueltarikh
 [عکس]
 ‏⭕️ترامپ: گروه ویژه «دروازه آهنین» با تمام توان و کارایی خود در جمهوری اسلامی ایران فعال است. در کنار بزرگ‌ترین محاصره دریایی تاریخ، رفت‌وآمد به ایران و خروج از آن به کمترین میزان ممکن رسیده است!
@@ -1279,45 +1262,12 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@naya_foriraq
-‏🇸🇦تحويل الدراسة عن بعد غداً الاثنين في الزلفي وشقراء والمجمعة والغاط في العاصمة رياض خوفا من العمليات العسكرية اليمنية.
-‏
-‏https://t.me/naya_foriraq
-00:21
-1405/08/18
-
-
-
-
-src :@tabzlive
-‏🇮🇶🇮🇶⚡️ — Kurdistan Regional Government's Ministry of Electricity announces electricity production has been reduced by 2800 megawatts following the strike against the Khor Mor Oil & Gas Plant.
-00:20
-1405/08/18
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸❌🇮🇷 – Trump announced on Truth Social the "full force and effect" of Task Force Iron Gate, which aims to blockade Iran's land borders.
 ‏
 ‏Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran! President DJT
 00:20
-1405/08/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump on Iran:
-‏
-‏Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. 
-‏
-‏Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran!
-‏
-‏READ MORE
-00:19
 1405/08/18
 
 
@@ -1356,17 +1306,6 @@ src :@Shin_Persian
 ‏«نیروی ویژه دروازه آهنین با تمام توان در جمهوری اسلامی ایران فعال است. در کنار بزرگ‌ترین محاصره دریایی تاریخ، تقریباً هیچ‌چیز وارد ایران یا از آن خارج نمی‌شود! رئیس‌جمهور دونالد جی. ترامپ»
 ‏
 ‏𝕏  ·  @shin_persian
-00:18
-1405/08/18
-
-
-
-
-src :@ClashReport
-[عکس]
-‏French security officials prepared to evacuate President Emmanuel Macron to a secret shelter outside Paris if protesters overrun the Élysée Palace, according to a new investigative book.
-‏
-‏READ MORE
 00:18
 1405/08/18
 
@@ -1417,14 +1356,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 00:17
-1405/08/18
-
-
-
-
-src :@tabzlive
-‏🇺🇸❌🇮🇷 — IRNA's correspondent on Qeshm Island reports "some locations" on Qeshm have been struck.
-00:16
 1405/08/18
 
 
@@ -2433,16 +2364,6 @@ src :@samueltarikh
 
 
 
-src :@MilitarryWorld
-‏🔴حملات آمریکا، یک سامانه پدافند هوایی در قشم را هدف قرار داد
-‏
-‏@MilitarryWorld | Parsa
-22:56
-1405/08/17
-
-
-
-
 src :@samueltarikh
 ‏گزارشاتی از ۴ انفجار بزرگ در قشم
 22:56
@@ -3150,23 +3071,6 @@ src :@Minas_Tirith2024
 src :@tglobaleye
 ‏🌲 - 🇮🇷🇶🇦🚨 The Iranian government delegation leaves Doha just one hour after arriving.
 21:49
-1405/08/17
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، به شبکهٔ سی‌ان‌ان گفت ایران اکنون تنها ۱۰ درصد از ظرفیت موشکی و ۱۵ درصد از توان پهپادی خود را در اختیار دارد. او همچنین گفت سامانه‌های پدافند هوایی ایران نابود شده‌اند و آمریکا می‌تواند ۳۸ پل در ایران را ظرف یک ساعت از بین ببرد.
-‏
-‏ترامپ با اشاره به آمادگی نیروهای نظامی آمریکا برای حملات احتمالی گفت ۳ ناو هواپیمابر این کشور در منطقه مستقر هستند و همگی در وضعیت آمادگی کامل رزمی قرار دارند.
-‏
-‏او در پاسخ به پرسشی درباره احتمال حمله دوباره به ایران گفت این اقدام به امضای توافقی بسیار محکم بستگی دارد. ترامپ افزود، ایران به‌شدت خواهان توافق است و ابراز امیدواری کرد نیازی به حملات نظامی بیشتر نباشد.
-‏
-‏رئیس‌جمهوری آمریکا همچنین با اشاره به پیامدهای حمله به زیرساخت‌های ایران گفت ترجیح می‌دهد پل‌های این کشور را نابود نکند، زیرا بازسازی آن‌ها ممکن است ۱۰ سال طول بکشد.
-‏
-‏@indypersian
-21:48
 1405/08/17
 
 
