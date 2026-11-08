@@ -1,3 +1,14 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇮🇷🇺🇸🇮🇱 Iran executes 3 armed protesters convicted of carrying out operations for United States and Israel.
+‏
+‏@BRICSNews
+08:22
+1405/08/17
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏قوه قضاییه جمهوری اسلامی اعلام کرد حکم اعدام حسن دیوبند، حمید کاظمی و رضا زنگنه، سه نفر از بازداشت‌شدگان اعتراضات ۱۸ و ۱۹ دی‌ماه در کرج، پس از تایید دیوان عالی کشور اجرا شده است و روند مصادره اموال آنان در حال اجراست.
@@ -6170,16 +6181,6 @@ src :@thewarreporter
 
 
 
-src :@bricsnews
-‏JUST IN: 🇮🇷🇺🇸 Iran says it shot down another US military MQ-9 drone.
-‏
-‏@BRICSNews
-13:59
-1405/08/16
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷🇵🇰🇶🇦 — U.S. Vice President JD Vance is leading behind-the-scenes efforts to secure a new ceasefire with Iran and restart nuclear negotiations.
 ‏
@@ -6231,16 +6232,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ
 13:46
-1405/08/16
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇮🇷 Iranian Navy says oil tanker is on fire after striking sea mine east of Strait of Hormuz.
-‏
-‏@BRICSNews
-13:41
 1405/08/16
 
 
