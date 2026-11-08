@@ -362,14 +362,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏🇮🇷❌🇮🇶 — Iranian Shahed-136 UAVs enter Iraqi Kurdistan through Haji Omeran, Erbil Governorate.
-01:43
-1405/08/18
-
-
-
-
 src :@Shin_Persian
 ‏↩️ Quoted tweet:
 ‏Faytuks Network ✓ @FaytuksNetwork
@@ -468,14 +460,6 @@ src :@IranintlTV
 ‏
 ‏او افزود توافق‌نامه کنونی کمک‌های آمریکا به اسرائیل هنوز دو سال اعتبار دارد و از تصمیمی برای قطع ناگهانی این کمک‌ها اطلاعی ندارد. به گفته هاکبی، چنین اقدامی احتمالا به تصمیم کنگره نیاز خواهد داشت.
 01:28
-1405/08/18
-
-
-
-
-src :@tabzlive
-‏🇮🇶⚡️ — Sulaymaniyah city still has power, a local informs Tabz.
-01:26
 1405/08/18
 
 
@@ -784,14 +768,6 @@ src :@IranintlTV
 ‏رییس‌جمهوری آمریکا در این پیام بر ادامه عملیات «دروازه آهنین» و محاصره دریایی ایران تاکید کرد.
 ‏https://iranintl.com/202611083861
 00:52
-1405/08/18
-
-
-
-
-src :@tabzlive
-‏🇮🇶🇮🇶⚡️ — Iraqi Prime Minister Ali al-Zaidi has ordered the creation of a committee to investigate the strike on the Khor Mor Oil & Gas Field. Kurdish officials will be present.
-00:51
 1405/08/18
 
 
@@ -2341,16 +2317,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:01
-1405/08/17
-
-
-
-
-src :@MilitarryWorld
-‏🔴صدای انفجار در سیریک هم به گوش رسید
-‏
-‏@MilitarryWorld | Parsa
-22:59
 1405/08/17
 
 
