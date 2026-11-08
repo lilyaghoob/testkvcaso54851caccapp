@@ -1739,23 +1739,6 @@ src :@samueltarikh
 
 
 
-src :@ClashReport
-[عکس]
-‏BREAKING: Nvidia has launched an investigation into CEO Jensen Huang after he admitted to having an intimate relationship with a woman U.S. intelligence identified as a Chinese spy. 
-‏
-‏The woman, Alice Huang, is an executive at Megaspeed, a major Nvidia customer suspected of helping China obtain restricted AI chips. 
-‏
-‏Huang apologized for being unfaithful to his wife, while Nvidia said there was no evidence that company secrets or national security had been compromised. 
-‏
-‏He will remain CEO during the investigation.
-‏
-‏READ MORE
-23:53
-1405/08/17
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏خبر فوری: یک پرتابه به میدان گاز خور مور در شمال عراق اصابت کرده است طبق برخی اخبار به نظر می‌رسد این اقدام پاسخی از سوی سپاه به حملات اخیر نیروی هوایی ایالات متحده در جنوب ایران باشد.
@@ -6257,15 +6240,4 @@ src :@mwarmonitor
 ‏
 ‏@mwarmonitor
 04:57
-1405/08/17
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️Explosions were heard on Qeshm Island, in southern Iran.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-03:01
 1405/08/17
