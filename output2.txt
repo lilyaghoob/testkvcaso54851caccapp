@@ -1,3 +1,73 @@
+src :@Alibk3
+[عکس]
+‏مشاهد إضافية للنيران المتصاعدة من حقل كورمور للغاز شمالي العراق.
+00:06
+1405/08/18
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷 - New explosions have been reported from Susangerd, Dasht-e Azadegan, Khuzestan province close to the border with Iraq.  @GeoPWatch
+00:06
+1405/08/18
+
+
+
+
+src :@Mena_Live
+‏BREAKING: The military intelligence agency of the Syrian Ministry of Defense has dismissed more than 500 individuals affiliated with the former regime following investigations and security procedures. 
+‏
+‏The investigations revealed that most of those dismissed were from the National Defense Forces, the Fourth Brigade, and the 25th Brigade.
+‏
+‏@Mena_Live
+00:05
+1405/08/18
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Explosions were reported around 20 minutes ago in Susangerd, Khuzestan Province, Iran.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+00:05
+1405/08/18
+
+
+
+
+src :@MilitarryWorld
+‏🔴اصابت مستقیم یک فروند پهپاد انتحاری به میدان گازی کورمور در استان سلیمانیه عراق  @MilitarryWorld | Parsa
+00:05
+1405/08/18
+
+
+
+
+src :@tabzlive
+‏🇮🇶⚡️ — Power outages are being reported in several areas of Erbil and Sulaymaniyah governorates, northern Iraq, including at least parts of Erbil city.
+00:04
+1405/08/18
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇶☀️ The target of the Khor Mor gas field strike was likely the field’s gas storage unit, which suggests a naphtha storage tank was struck.   Naphtha is a volatile, flammable petroleum liquid, and such tanks are typically equipped with floating roofs or…
+00:03
+1405/08/18
+
+
+
+
+src :@naya_foriraq
+‏🇮🇶اربيل والسليمانية تدخل في عتمة شديدة نتيجة انقطاع التيار الكهربائي في عموم المحافظتين.
+00:03
+1405/08/18
+
+
+
+
 src :@MilitarryWorld
 ‏🔴گزارش های محلی از پرواز جنگنده های ارتش بر فراز آسمان تهران.
 ‏
@@ -9,7 +79,9 @@ src :@MilitarryWorld
 
 
 src :@naya_foriraq
-‏توقف الانتاج في حقل كورمور
+‏🇮🇶توقف الانتاج في حقل كورمور بمحافظة السليمانية.
+‏
+‏https://t.me/naya_foriraq
 00:01
 1405/08/18
 
@@ -45,7 +117,7 @@ src :@naya_foriraq
 
 
 src :@tabzlive
-‏🇮🇶⚡️ — Power outages are being reported in several areas of northern Iraq, including at least parts of Erbil city.
+‏🇮🇶⚡️ — Power outages are being reported in several areas of Erbil and Sulaymaniyah governorates, northern Iraq, including at least parts of Erbil city.
 00:01
 1405/08/18
 
@@ -1185,14 +1257,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷 Four explosions reported at Bahman Port, Qeshm island.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:02
-1405/08/17
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏🔻️️️️️️امیر قلعه‌نویی لیست جدید تیم ملی برای بازی با عراق و فلسطین را اعلام کرد. در جمع بازیکنان دعوت شده از سوی سرمربی تیم، تعدادی از نام‌های همیشگی وجود ندارد؛ از جمله مهدی طارمی، شجاع خلیل‌زاده، احسان حاج‌صفی و سامان قدوس. 
@@ -1309,14 +1373,6 @@ src :@MilitarryWorld
 ‏🔴صدای انفجار در سیریک هم به گوش رسید
 ‏
 ‏@MilitarryWorld | Parsa
-22:59
-1405/08/17
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Four explosions reported at Bahman Port, Qeshm island.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:59
 1405/08/17
 
@@ -1615,16 +1671,6 @@ src :@Shin_Persian
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - 4 consecutive explosions were heard just now in Qeshm. They occured rapidly after eachother.
-‏
-‏@GeoPWatch
-22:48
-1405/08/17
-
-
-
-
 src :@Alibk3
 ‏سماع دوي انفجار في مضيق هرمز.
 22:47
@@ -1722,18 +1768,6 @@ src :@samueltarikh
 [عکس]
 ‏🔴ناو هواپیمابر روزولت ۳روز دیگر به دریای عرب میرسد
 22:46
-1405/08/17
-
-
-
-
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - 2 Explosions were heard from the Port of Bandar-e Mahshahr, Iran. 
-‏
-‏Reportedly, they were the result of a transformer exploding.
-‏
-‏@GeoPWatch
-22:45
 1405/08/17
 
 
@@ -2424,21 +2458,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[عکس]
-‏ثریا طالبی، مادر امیرحسین موسوی، فعال شبکه ایکس معروف به «جیمز بی‌دین» که به اعدام محکوم شده است، در گفت‌وگو با امتداد گفت فرزندش پس از ۱۷۶ روز حبس انفرادی در بند ۲۰۹ زندان اوین، تحت فشار و تهدید مجبور به ضبط اعترافات تلویزیونی شده است.
-‏طالبی گفت امیرحسین موسوی روز ۲۸ آذر ۱۴۰۳ همراه همسرش بازداشت شد و هنگام بازداشت مورد ضرب‌وشتم شدید قرار گرفت. به گفته او، خانواده چند روز از محل نگهداری فرزندشان بی‌خبر بودند تا اینکه متوجه شدند او در بند ۲۰۹ زندان اوین است.
-‏او افزود در دوران بازجویی، ماموران بارها به فرزندش وعده آزادی داده بودند، اما هم‌زمان او را تهدید می‌کردند که در صورت همکاری نکردن، پرونده‌اش به قاضی صلواتی ارجاع داده می‌شود تا برایش حکم اعدام صادر شود.
-‏طالبی گفت: «فرزند من شش ماه قبل از جنگ در زندان بود. چطور می‌توانست چنین کاری انجام دهد؟» خانواده از برنامه «بیست‌وسی» و گزارشگر آن شکایت کرده‌اند، اما تاکنون به شکایتشان رسیدگی نشده است.
-‏مادر امیرحسین موسوی گفت خانواده هنوز اعتراض خود را ثبت نکرده‌اند، اما در مهلت قانونی ۲۰ روزه به حکم اعتراض خواهند کرد تا پرونده به دیوان عالی کشور ارجاع شود.
-‏
-‏https://ir
-21:45
-1405/08/17
-
-
-
-
 src :@Indypersian
 ‏⭕️راز عمر بالای ۱۰۰ سال؛ آیا دانشمندان درباره طول عمر اشتباه کرده‌اند؟
 ‏
@@ -2528,15 +2547,6 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 21:37
-1405/08/17
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرة حكومية إيرانية تهبط في الدوحة.
-21:36
 1405/08/17
 
 
@@ -2914,19 +2924,6 @@ src :@ClashReport
 ‏
 ‏Source: Axios
 21:06
-1405/08/17
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴دیوید میلر: نخست‌وزیر بعدی اسرائیل با چشم‌اندازی متفاوت در آمریکا روبه‌روست
-‏
-‏«مهم نیست چه کسی رهبری اسرائیل را بر عهده بگیرد؛ هیچ‌یک از نخست‌وزیران پیشین اسرائیل نمی‌توانستند چنین چشم‌اندازی را تصور کنند.»
-‏
-‏@MilitarryWorld | Parsa
-21:05
 1405/08/17
 
 
@@ -6496,14 +6493,4 @@ src :@Exciton_missile_program
 ‏✒️#LT
 ‏📃@Cataphract1
 00:09
-1405/08/17
-
-
-
-
-src :@cataphract1
-‏⚜انفجارات تازه ای در قشم و جاسک گزارش شده است.
-‏✒️#LT
-‏📃@Cataphract1
-00:03
 1405/08/17
