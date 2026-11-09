@@ -1050,14 +1050,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-‏Reports of a second attack targeting the Khor Mor gas field.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-00:48
-1405/08/18
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Fighter Jet and Drone activity has been reported over Altun Kupri, north of Kirkuk, Iraq.
 00:48
@@ -6106,13 +6098,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 05:42
-1405/08/17
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇮🇷⚡️ — IRGC spokesman Sardar Hussein Mohebbi announced that Iran has exported three products to other countries, the Arman ballistic missile, the 358 loitering surface-to-air missile, and the 3rd Khordad air defense system.
-05:12
 1405/08/17
