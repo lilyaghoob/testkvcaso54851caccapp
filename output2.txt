@@ -1674,14 +1674,6 @@ src :@samueltarikh
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - An Iranian Missile launch was reported just now from Haftkal, Khuzestan Province, Iran, 100 km away from the Port of Bandar-e Mahshahr.  Potentially a SAM launch, though it's unclear.  @GeoPWatch
-23:49
-1405/08/17
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
