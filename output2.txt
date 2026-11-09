@@ -1,14 +1,97 @@
-src :@WAR_ROOM_NEWS
-‏🔻وقوع انفجار شدید در شهر ازمیر ترکیه
-15:11
+src :@wfwitness
+[عکس]
+‏⚡️🇭🇺 Euronews⁠: Áron Orbán, the younger brother of former Hungarian Prime Minister Viktor Orbán, has reportedly been detained over allegations of helping Vietnamese nationals obtain Hungarian visas through a suspected fraudulent scheme.
+‏
+‏His company allegedly arranged short training courses at a Hungarian university to provide applicants with grounds to obtain visas. 
+‏
+‏The case comes as Viktor Orbán’s political circle faces increased scrutiny following his departure from office.
+‏
+‏@wfwitness
+15:16
 1405/08/18
 
 
 
 
-src :@naya_foriraq
-‏انفجار يهز مدينة إزمير التركية
-15:10
+src :@Farsi_Iranwire
+[عکس]
+‏سازمان «حقوق بشر برای ورزش» با ارسال نامه‌ای سرگشاده به کنفدراسیون فوتبال آسیا، نسبت به صدور حکم اعدام برای یک فوتبالیست ایرانی، زندانی بودن یک بازیکن دیگر و بازداشت چند تن از اعضای جامعه فوتبال ایران ابراز نگرانی کرده و خواستار اقدام فوری برای حفاظت از جان و امنیت آن‌ها شده است.
+‏
+‏این سازمان در نامه خود به صدور حکم اعدام برای «احسان حسینی‌پور حصارلو»، زندانی بودن «امیررضا نصرآزادانی» و بازداشت‌های خودسرانه اعضای جامعه فوتبال ایران، از جمله «رشید مظاهری»، «محسن مولودپور»، «حسین زیاری»، «حمید حاج‌جعفر کاشانی»، «ابوالفضل دوخت»، «علی عزیزی» و «عباس یحیی‌بیگی» اشاره کرده است.
+‏بخوانید: https://iranwire.com/fa/news-1/159985
+‏
+‏@Farsi_Iranwire
+15:15
+1405/08/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴مصر گروه اخوان‌المسلمین را در فهرست تروریستی قرار داد
+15:15
+1405/08/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇾🇸🇦🇹🇷🇵🇰 AP⁠: Syria has reportedly decided to join the Mecca Joint Defence Agreement between Saudi Arabia, Türkiye and Pakistan, although Damascus has yet to publicly announce its accession.
+‏
+‏The agreement, signed in August, commits its members to treat an attack against one as an attack against all, while deepening military cooperation. 
+‏
+‏Syrian Foreign Minister Asaad al-Shaibani confirmed last week that Damascus was evaluating membership, describing Syria as an integral part of regional security.
+‏
+‏Riyadh has also agreed to provide more than $400 million in reconstruction financing to Syria.
+‏
+‏@wfwitness
+15:13
+1405/08/18
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸⚡️ — Iranian President Masoud Pezeshkian:
+‏The Supreme Leader ordered us to put an end to the situation of neither war nor peace.
+‏
+‏We can negotiate with dignity and resolve the issue with dignity.
+15:12
+1405/08/18
+
+
+
+
+src :@rnintel
+‏🇺🇸🇶🇦🇮🇷⚡️- Donald Trump and  JD Vance will meet Qatari PM Sheikh Mohammed today as part of the ongoing talks between the U.S. and Iran.
+15:12
+1405/08/18
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ مسعود پزشکیان، رئیس جمهوری اسلامی، روز دوشنبه ۱۸ آبان بار دیگر خواستار پایان جنگ با آمریکا براساس «مذاکره» شد.
+‏
+‏پزشکیان در مراسم هفتادودومین سالروز تأسیس شرکت صنایع شیر ایران (پگاه) در جمع مدیران و کارکنان این شرکت گفت: «مقام معظم رهبری دستور دادند وضعیت نه جنگ نه صلح را پایان دهیم. ما می‌توانیم با عزت گفت‌وگو کنیم و با عزت موضوع را تمام کنیم. ما اهل گفت‌وگو و مذاکره هستیم و منطق حکم می‌کند، اگر می‌توانیم حق خود را با گفت‌وگو بگیریم، خودمان را درگیر جنگ نکنیم.»
+‏
+‏پزشکیان با این حال بار دیگر گفت «اما در مقابل زور و قلدری هم تسلیم نخواهیم شد.»
+‏
+‏این سخنان در حالی بیان می‌شود که تلاش‌های منطقه‌ای و بین‌المللی برای جلوگیری از به راه‌افتادن دوباره جنگ شدت گرفته است.
+‏
+‏@indypersian
+15:12
+1405/08/18
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔻وقوع انفجار شدید در شهر ازمیر ترکیه
+15:11
 1405/08/18
 
 
@@ -1938,23 +2021,6 @@ src :@wfwitness
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇰🇷🇺🇸 Reuters: South Korea says its contracted Nvidia GPU deliveries are expected to stay on schedule after the company opened an internal probe into whether CEO Jensen Huang was targeted by foreign intelligence. 
-‏
-‏South Korea’s vice science minister told lawmakers that all 10,000 GPUs funded through a 2025 supplementary budget have been delivered and are already in use.
-‏
-‏The GPUs planned for 2026 are already under contract and are expected to enter service by year’s end. The ministry is still discussing pricing and delivery schedules with Nvidia Korea.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-11:25
-1405/08/18
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🔺⭕️ منابع محلی گزارش دادند آمریکا یکشنبه شب ۱۸ آبان ۱۴۰۵ به مراکز نظامی در جنوب ایران حمله کرد. براساس گزارش‌هایی میدانی صدای انفجار در قشم، سیریک، جاسک، بندرعباس و ماهشهرشنیده شد.
@@ -1970,15 +2036,6 @@ src :@DEJradio
 
 src :@jangaavaran1390
 ‏سخنگوی وزارت امور خارجه ایران گفت که پیشنهاد ایران، معقول‌ترین پیشنهاد موجود است.
-11:21
-1405/08/18
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇵🇱 The perpetrator of the mass shooting, which left 6 killed and 25 injured in the Main Square in Krakow, Poland, was identified as 25-year-old Michał Oksiński.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 11:21
 1405/08/18
 
@@ -2262,16 +2319,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 10:31
-1405/08/18
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏گزارش از حملات موشکی حوثی‌ ها یمن به ریاض، عربستان سعودی
-‏
-‏🆔@WAR_ROOM_NEWS
-10:30
 1405/08/18
 
 
@@ -3292,26 +3339,6 @@ src :@tabzlive
 ‏
 ‏600 Syrian special forces soldiers are set to deploy to KSA in the coming weeks and may participate in fighting Yemen's Ansarallah, a Syrian official tells AP.
 07:24
-1405/08/18
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️دو منبع به روزنامه اورشلیم‌پست گفتند اسرائیل و آمریکا برای احتمال عملیات نظامی در ایران در آخر هفته آماده شده بودند، اما ترامپ در حالی از صدور دستور حمله خودداری کرد که میانجی‌ها به تلاش‌های خود برای دستیابی به توافق ادامه می‌دادند.
-‏به گفته این منابع، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، بعدازظهر جمعه با مقام‌های ارشد امنیتی این کشور دیدار کرد.
-‏براساس این گزارش، ارتش آمریکا نیز برای احتمال صدور دستور از سوی ترامپ جهت ازسرگیری عملیات نظامی آماده می‌شد.
-‏در همین حال، میانجی‌ها به تلاش‌های خود برای دستیابی به توافقی میان واشنگتن و تهران ادامه دادند. دو منبع دیپلماتیک به اورشلیم‌پست گفتند ترامپ به جی‌دی ونس، معاون رئیس‌جمهور، و دیگر مقام‌های ارشد دولت «چند روز» فرصت داده است تا به توافق برسند.
-‏ترامپ در مصاحبه با سی‌ان‌ان گفت اگر در مذاکرات میان تهران و واشینگتن پیشرفتی حاصل شود، احتمال اینکه دستور بازگشت آمریکا به جنگ را صادر کند، «بسیار پایین» است.
-‏هم‌زمان، ارتش آمریکا به تقویت حضور خود در منطقه ادامه می‌دهد.
-‏بر اساس گزارش‌ها، ناو هواپیمابر «یواس‌اس تئودور روزولت» و گروه رزمی همراه آن، پس از چند روز توقف در سنگاپور، این کشور را ترک کرده‌اند و اکنون به سوی حوزه عملیاتی فرماندهی مرکزی آمریکا حرکت می‌کنند. انتظار می‌رود این ناوگروه طی چند روز آینده به منطقه برسد.
-‏در تحولی جداگانه، ناو تهاجمی آبی‌ـ‌خاکی «یواس‌اس ماکین آیلند» نیز در آخر هفته ژاپن را ترک کرد و به سوی خاورمیانه در حرکت است.
-‏ترامپ همچنین شامگاه یکشنبه اعلام کرد که نیروی ویژه «دروازه آهنین» با تمام ظرفیت  فعالیت می‌کند.
-‏او گفت این نیرو، در کنار محاصره دریایی اعمال‌شده از سوی آمریکا که ترامپ آن را «بزرگ‌ترین محاصره در تاریخ» خواند، باعث شده است که تقریباً هیچ چیزی وارد ایران نشود یا از آن خارج نشود.
-‏
-‏@IndyPersian
-07:04
 1405/08/18
 
 
@@ -4507,14 +4534,6 @@ src :@Mena_Live
 
 
 
-src :@rnintel
-‏🇮🇷🇮🇶⚡️- BREAKING: A projectile has struck the Khor Mor gas field in northern Iraq.  Rerum Novarum assesses that this is likely an Iranian response to recent USAF strikes in southern Iran.
-00:01
-1405/08/18
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏همزمان با شنیده شدن صدای چند انفجار در جنوب ایران، تسنیم، خبرگزاری وابسته به سپاه پاسداران، یکشنبه‌شب به نقل از «یک منبع آگاه» گزارش داد: «صدای سه شلیک از محدوده سیریک به سمت تنگه هرمز شنیده شد.»
@@ -5669,19 +5688,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 21:00
-1405/08/17
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، روز یکشنبه ۱۷ آبان هشدار داد که در صورت انتخاب گزینه جنگ از سوی آمریکا، نیروهای نظامی جمهوری اسلامی آماده پاسخ‌گویی هستند. او در عین حال گفت پیشنهاد دو روزه تهران برای پایان جنگ در همه جبهه‌ها همچنان پابرجاست.
-‏
-‏
-‏بیشتر بخوانید: ​​ https://iranwire.com/fa/news-1/159953
-‏@Farsi_Iranwire
-20:59
 1405/08/17
 
 
