@@ -1,3 +1,51 @@
+src :@samueltarikh
+‏رویترز به نقل از یک مقام ارشد ایران گزارش می‌دهد:
+‏حملات شب گذشته آمریکا به جزیره قشم،
+‏به چندین سیستم نظامی، از جمله تجهیزات مین‌گذاری دریایی، ایستگاه‌های رادار و سیستم‌های ناوبری دریایی،
+‏آسیب شدیدی رسانده است.
+19:17
+1405/08/18
+
+
+
+
+src :@MilitarryWorld
+‏🔴رویترز به نقل از یک مقام ارشد ایران گزارش می‌دهد:
+‏حملات شب گذشته آمریکا به جزیره قشم،
+‏به چندین سیستم نظامی، از جمله تجهیزات مین‌گذاری دریایی، ایستگاه‌های رادار و سیستم‌های ناوبری دریایی،
+‏آسیب شدیدی رسانده است.
+‏
+‏@MilitarryWorld | Parsa
+19:15
+1405/08/18
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇬🇧🧐✈️ - An RAF KC2 Voyager Aerial Refueling Tanker appears to have potentially dragged an unknown number of RAF Eurofighter Typhoon Fighter Jets from RAF Akrotiri to Dukhan Air Base in Qatar.
+‏
+‏⚡️ It is unverified if the tanker was dragging RAF Fighter Jets however this movement seems likely as RAF Typhoons have operated from Dukhan Air Base as part of the UK’s joint air defence cooperation with Qatar.
+‏
+‏⚡️ In March 2026, the RAF deployed Typhoons to Qatar to strengthen regional air defences amid the U.S.-Iran war.
+19:14
+1405/08/18
+
+
+
+
+src :@selena_updates
+[عکس]
+‏A Russian Defense Ministry Tupolev Tu-154M, registration RA-85042, landed at Ben Gurion Airport in Israel on Sunday evening, November 8, after departing Chkalovsky Air Base near Moscow. The aircraft belongs to Russia’s 223rd Flight Unit, which has been under U.S. sanctions since 2023 over its alleged logistical support for the Wagner Group. 
+‏
+‏Reports suggest the aircraft may have been sent to evacuate Russian diplomats’ families, but there is no verified evidence supporting that claim. The passengers and purpose of the visit remain undisclosed, while the Israeli military, prime minister’s office and Russian Embassy have declined to comment.
+19:14
+1405/08/18
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏از خرید فیلترشکن حجمی خسته شدی؟ 😩
@@ -143,6 +191,11 @@ src :@mamlekate
 ‏🌐 تشدید مواضع سخت‌گیرانه ایران در قبال نظارت‌های هسته‌ای در گزارش به آژانس بین‌المللی انرژی اتمی
 ‏
 ‏ایران اعلام کرد در سایه تهدید حملات نظامی ایالات متحده، ملزم به تن دادن به نظارت کامل هسته‌ای نیست و مواضع خود را در برابر بازرسان بین‌المللی سرسختانه‌تر کرده است. 
+‏
+‏
+‏📝 وزیر خارجه آلمان خواستار توقف دائمی غنی‌سازی اورانیوم در ایران شد؛ تأکید بر هدف مشترک با آمریکا
+‏
+‏یوهان واده‌فول، وزیر امور خارجه آلمان، خواستار توقف دائمی غنی‌سازی اورانیوم و برنامه تسلیحات هسته‌ای جمهوری اسلامی شد و تأکید کرد کشورش در این زمینه همان هدف سیاسی آمریکا را دنبال می‌کند.
 ‏
 ‏@mamlekate
 19:03
@@ -3153,18 +3206,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@MilitarryWorld
-‏🔴اردوغان: 
-‏
-‏ترکیه برای میانجی‌گری میان ایران و آمریکا اعلام آمادگی می کند
-‏
-‏@MilitarryWorld | Parsa
-15:24
-1405/08/18
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏🔴ازمیر ترکیه اکنون  🔻فوری | کشته شدن ۳ تن و مجروح شدن بیش از ۱۴ نفر در ازمیر در پی وقوع انفجاری مهیب و نامعلوم  🆔@WAR_ROOM_NEWS
 15:23
@@ -5448,14 +5489,6 @@ src :@mamlekate
 
 
 
-src :@GeoPWatch
-‏⚡️🇺🇸🇨🇳 – Nvidia has launched an investigation into Jensen Huang, its CEO, after he admitted to the board of directors that he had an intimate relationship with a business figure identified by U.S. intelligence as a Chinese spy.  @GeoPWatch
-02:40
-1405/08/18
-
-
-
-
 src :@Middle_East_Spectator
 [عکس]
 ‏—❗️🇺🇸/🇮🇶/🇮🇶/🇮🇷 NEW: In a closed-door meeting, Iraqi Prime Minister Al-Zaidi threatened Shiite factions that supporting Iran militarily in the next war would lead to mass arrests of militia leaders
@@ -6494,14 +6527,6 @@ src :@VahidOnline
 
 
 
-src :@samueltarikh
-‏⭕️بحرین بیش از ۵۰ روحانی شیعه را به اتهام ارتباط با سپاه پاسداران دستگیر و تابعیت ۶۹ ایرانی‌تبار را به دلیل نگرانی از کودتای تحت حمایت ایران سلب کرد.
-21:35
-1405/08/17
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷 — US President Trump says renewed U.S. strikes on Iran are 'highly unlikely' if Tehran makes progress toward a nuclear deal and the reopening of the Strait of Hormuz.
 ‏
@@ -6676,21 +6701,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 19:17
-1405/08/17
-
-
-
-
-src :@thewarreporter
-‏🇮🇱 — Israeli President Isaac Herzog officially tasks Gadi Eisenkot with forming a new government.  @TheWarReporter
-19:16
-1405/08/17
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇮🇱 — Israeli President Isaac Herzog has announced that Yashar party leader Gadi Eisenkot will be tasked with forming a new government.  Eisenkot will formally receive the mandate on November 8 at 5 p.m. and will have 28 days to form a government, with the…
-19:14
 1405/08/17
