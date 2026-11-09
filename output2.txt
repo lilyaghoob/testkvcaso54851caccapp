@@ -1,10 +1,96 @@
 src :@mamlekate
 [عکس]
+‏🌐 دیدار ترامپ با نخست‌وزیر قطر همزمان با موانع پیش روی دیپلماسی ایران
+‏
+‏۸ نوامبر (رویترز) - بر اساس برنامه رسمی کاخ سفید، دونالد ترامپ، رئیس‌جمهور ایالات متحده آمریکا، روز دوشنبه در کاخ سفید با نخست‌وزیر قطر دیدار خواهد کرد؛ این در حالی است که درگیری با ایران طولانی شده و تلاش‌های دیپلماتیک برای پایان دادن به آن با موانع چشمگیری روبه‌رو است. 
+‏
+‏@mamlekate
+10:40
+1405/08/18
+
+
+
+
+src :@ClashReport
+[عکس]
+‏A covert Russian network exploited October’s riots in France to spread disinformation blaming migrants and portraying the government as weak, according to an internal EU report.
+‏
+‏A separate French assessment found that Israeli-linked and U.S. MAGA accounts also promoted anti-immigration and anti-Islam narratives.
+‏
+‏From October 16 to 18, the top 10 MAGA-linked posts drew 49 million views, compared with 35 million for Israeli-linked posts and 2.8 million for pro-Russian posts.
+‏
+‏The EU found no evidence that foreign actors instigated the unrest, only that they exploited it to influence public opinion.
+‏
+‏Source: Reuters
+10:40
+1405/08/18
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏قیمت نفت در معاملات امروز دوشنبه ۱۸آبان۱۴۰۵، پس از اظهارات «دونالد ترامپ»، رییس‌جمهوری آمریکا، درباره بعید بودن حملات نظامی تازه به ایران، در آغاز معاملات کاهش یافت، اما در ادامه با افزایش جزیی قیمت‌ها، بازار به ثبات نسبی رسید.
+‏
+‏خبرگزاری «رویترز» گزارش داده که تا ساعت ۴:۲۷ بامداد به وقت گرینویچ، قیمت هر بشکه نفت برنت با سه سنت افزایش به ۹۸ دلار و ۳۵ سنت رسید. نفت خام وست تگزاس اینترمدیت آمریکا نیز با نیم درصد افزایش، به ۹۱ دلار و ۳۰ سنت در هر بشکه معامله شد.
+‏بخوانید: https://iranwire.com/fa/news-1/159962
+‏
+‏@Farsi_Iranwire
+10:39
+1405/08/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏NASA FIRMS data indicates that multiple large fires are burning at the Kirishi Oil Refinery in Leningrad Oblast following Ukrainian long-range drone strikes. 
+‏
+‏Coordinates: 59.48629, 32.06972
+10:39
+1405/08/18
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli airstrike detected in southern Lebanon.  @wfwitness
+10:38
+1405/08/18
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli jets have entered southern Lebanese airspace.  @wfwitness
+10:38
+1405/08/18
+
+
+
+
+src :@mamlekate
+[عکس]
 ‏📝 وزیر خارجه عراق: آمریکا از ما خواسته بیشتر گذرگاه‌های مرزی با ایران را مسدود کنیم
 ‏
 ‏فؤاد حسین، وزیر امور خارجه عراق، روز یکشنبه ۱۷ آبان در گفت‌وگو با شبکه الجزیره اعلام کرد وزارت خزانه‌داری آمریکا از بغداد خواسته در چارچوب سیاست واشینگتن برای افزایش فشار اقتصادی بر تهران، تمامی گذرگاه‌های مرزی با ایران به‌جز دو گذرگاه را ببندد.
 ‏
 ‏@mamlekate
+10:36
+1405/08/18
+
+
+
+
+src :@ClashReport
+‏The 24-year-old gunman who killed six people in a mass shooting in Krakow, Poland, on Saturday has died in hospital after being shot by police. 
+‏
+‏Authorities suspect he may have been inspired by far-right ideology, citing symbols found on his clothing. 
+‏
+‏Investigators are still examining the possible motive.
+‏
+‏Source: Reuters
 10:36
 1405/08/18
 
@@ -32,6 +118,14 @@ src :@WAR_ROOM_NEWS
 ‏ترامپ قرار است فردا با نخست‌وزیر قطر دیدار کند (موضوع در مورد ایران و آمریکا)
 ‏
 ‏🆔@WAR_ROOM_NEWS
+10:33
+1405/08/18
+
+
+
+
+src :@Alibk3
+‏رصد اندلاع حريق آخر قبالة الإمارات، يبدو أنه تم استهداف سفينة في تلك النقطة
 10:33
 1405/08/18
 
@@ -2051,15 +2145,6 @@ src :@rnintel
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump will meet Qatari Prime Minister Mohammed bin Abdulrahman al-Thani behind closed doors on Monday.
-04:32
-1405/08/18
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️دونالد ترامپ، رئیس‌جمهور آمریکا در گفت‌وگو با برنامه «۶۰ دقیقه» تاکید کرد که معتقد است جریان سیاسی جمهوری‌خواهی که با شعار «عظمت را دوباره به آمریکا بازگردانیم» (ماگا MAGA) شناخته می‌شود، در غیاب او نیز می‌تواند به حیات خود ادامه دهد.
@@ -3031,17 +3116,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 00:23
-1405/08/18
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴ترامپ: گروه ویژه «دروازه آهنین» با تمام توان و کارایی خود در جمهوری اسلامی ایران فعال است. در کنار بزرگ‌ترین محاصره دریایی تاریخ، رفت‌وآمد به ایران و خروج از آن به کمترین میزان ممکن رسیده است!
-‏
-‏@MilitarryWorld | Maverick
-00:22
 1405/08/18
 
 
@@ -5847,19 +5921,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 15:38
-1405/08/17
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏نرخ سود بین‌بانکی در هفته منتهی به ۱۴ آبان به ۳۳/۹۲ درصد رسید؛ درحالی‌که این نرخ در هفته‌های پیش از آن ۲۴ درصد بود. هم‌زمان، نرخ اعتبار گیری قاعده‌مند بانک‌ها از بانک مرکزی نیز از ۲۴ به ۳۴ درصد افزایش یافت. 
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/159944
-‏
-‏@Farsi_Iranwire
-15:31
 1405/08/17
 
 
