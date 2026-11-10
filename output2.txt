@@ -2,7 +2,15 @@ src :@wfwitness
 [عکس]
 ‏⚡🇱🇧🇮🇱 Israeli artillery fire was reported in multiple regions across southern Lebanon:
 ‏
-‏Majdal Selm, Shaqra, Mayfadoun, Srobbine, Kfar Tibnit, Wadi Al Hujeiri, Qusayr, Nabatieh El Fawqa, and Khiam, southern Lebanon.
+‏Majdal Selm
+‏Shaqra
+‏Mayfadoun x2
+‏Srobbine
+‏Kfar Tibnit 
+‏Wadi Al Hujeiri
+‏Qusayr
+‏Nabatieh El Fawqa
+‏Khiam
 ‏
 ‏The strikes were all recorded within the last 12 hours.
 ‏
@@ -6380,27 +6388,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
 09:43
-1405/08/18
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏شرکت MBDA، قابلیت‌های موشک Stratus RS را گسترش می‌دهد
-‏
-‏شرکت MBDA در نمایشگاه Euronaval 2026 در پاریس، اطلاعات به‌روز شده‌ای را درباره خانواده موشک‌های Stratus ارائه داد.
-‏
-‏این سیستم شامل دو نوع مدل است:
-‏
-‏سری اول، Stratus LO: با برد زیاد، با قابلیت پنهان‌کاری و سرعت کمتر از صوت.
-‏
-‏سری Stratus RS (Rapid Strike): موشک هایپرسونیک با قابلیت مانور بالا
-‏
-‏اکنون، موشک Stratus RS نه تنها برای سرکوب/تخریب سامانه‌های پدافند هوایی، بلکه برای حملات ضدکشتی و حملات عمیق به مناطق دوردست نیز بهینه شده است. برای این منظور، یک سرجنگی چندمنظوره طراحی شده است: سنگرشکن و خوشه ای، برای کشتی‌ها و اهداف مستحکم، و انفجاری-تکه‌تکه با انفجار هوایی برای اهداف پدافند هوایی.
-‏
-‏آزمایش‌های پروازی مدل Stratus LO تا سال 2030 برنامه‌ریزی شده‌اند.
-‏
-‏@artemis_force
-08:45
 1405/08/18
