@@ -1,3 +1,59 @@
+src :@ClashReport
+[عکس]
+‏The U.S. military evacuated aircraft from a second UK airbase following a reported Iranian threat.
+‏
+‏Two U.S. refueling tankers were diverted from RAF Mildenhall to Germany on Monday, with several others relocated later.
+‏
+‏The move follows the withdrawal of U.S. B-1 bombers from RAF Fairford after seven men were arrested over a suspected Iran-linked security incident.
+‏
+‏Source: WSJ
+09:35
+1405/08/19
+
+
+
+
+src :@mohem_mat
+‏روزنامه چپگرای اسراییلی هاآرتص در گزارشی مدعی شد
+‏ شبکه‌ای متشکل از ۱۶۵۳ حساب جعلی در X  (توییتر) با هویت ایرانی وجود دارند که ابتدا در حمایت از نتانیاهو و حزب لیکود در انتخابات اسرائیل فعالیت کردند و پیش‌تر نیز در تبلیغ ... نقش داشتند. این حساب‌ها با انتشار هماهنگ پیام‌های فارسی و عبری، وانمود می‌کردند که ایرانی هستند.
+‏ هم‌پوشانی این شبکه با عملیات نفوذ پیشین منتسب به اسرائیل، بار دیگر بحث دستکاری سازمان‌یافته افکار عمومی و جعل حمایت مردمی را مطرح کرده است.
+‏
+‏Well, this aged rather well. 
+‏A new Haaretz investigation has uncovered a network of 1,653 X accounts posing as Iranians that mobilized to promote Netanyahu and his Likud party during Israel's recent election.
+‏What's particularly revealing is that many of these same accounts had previously been identified in an influence operation promoting Reza Pahlavi, the son of Iran's last shah, and regime change in Iran.
+‏The researchers found clear signs of coordinated, inauthentic activity: accounts posting identical messages, amplifying Netanyahu within minutes of one another, and suddenly switching from Persian-language messaging about Iran to Hebrew appeals urging Israelis to vote for Netanyahu.
+‏Some claimed to speak on behalf of the Iranian people, telling Israelis that Netanyahu's reelection was essential to freeing Iran from the Islamic Republic.
+‏After the election, the accounts largely abandoned Israeli politics and returned to promoting the shah and discussing regime change in Iran.
+‏This didn't emerge out of nowhere.
+‏Earlier Haaretz and other investigations exposed Israeli government-funded social media influence operations targeting Iranian audiences, including efforts to promote Reza Pahlavi and manufacture the appearance of grassroots support.
+‏Separately, a major @citizenlab investigation following the June 2025 Israel-Iran war uncovered another coordinated network of fake Iranian accounts spreading AI-generated content to encourage an uprising in Iran. (source: https://citizenlab.ca/research/2025-10-ai-enabled-io-aimed-at-overthrowing-iranian-regime/)
+‏Researchers assessed that the operation was most likely conducted by an Israeli government agency or a contractor working closely with it. Some of its messaging was synchronized with Israeli military strikes.
+‏The latest Haaretz investigation does not establish who operates the 1,653 accounts, and Netanyahu's office and Likud deny involvement.
+‏But the documented overlap is striking: accounts presenting themselves as ordinary Iranians promoting Pahlavi and regime change were also mobilized to influence an Israeli election on Netanyahu's behalf.
+‏This is definitely not organic or spontaneous Iranian public opinion. It's coordinated, inauthentic political manipulation masquerading as grassroots support. And it's not new. For years, especially since 2022, as Israel intensified its regime-change efforts toward Iran, these operations have sought to manufacture the appearance of Iranian support for an agenda that serves Israeli political interests.
+‏Link to the Haaretz investigation:
+‏https://www.haaretz.co.il/news/elections/2026-11-06/ty-article-magazine/.premium/000001a1-abaa-d041-a5f9-efabd22e0000
+‏👤 Sina Toossi (@SinaToossi)
+‏
+‏
+‏@mohem_mat
+09:33
+1405/08/19
+
+
+
+
+src :@Artemis_Force
+[عکس]
+‏صبح همگی بخیر
+‏
+‏@artemis_force
+09:33
+1405/08/19
+
+
+
+
 src :@jangaavaran1390
 ‏افزایش تدابیر امنیتی در پایگاه‌های هوایی آمریکا در بریتانیا؛ جابه‌جایی غیرمعمول هواپیماهای نظامی  بر اساس گزارشات به نقل از یک مقام آمریکایی، ارتش ایالات متحده تدابیر امنیتی را در دو پایگاه نیروی هوایی این کشور در بریتانیا، یعنی میلدنهال (Mildenhall) و لِیکنهیث…
 09:31
@@ -3452,21 +3508,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 22:36
-1405/08/18
-
-
-
-
-src :@mohem_mat
-‏شب : موسیقی فیلم/سریال
-‏
-‏طبق وعده صبحگاهی
-‏
-‏امشب بنویسید موسیقی چه فیلم یا سریالی را دوست داشتید یا باهاش خاطره داشتید یا به نظرتون خیلی خوب روی فیلم نشسته بود یا خیلی فاخر بود ؟
-‏اگر خواستید فایل یا ویدئوش را با بقیه به اشتراک بگذارید.
-‏
-‏کامنتها تا پایان شب باز هستند
-22:35
 1405/08/18
 
 
