@@ -1,3 +1,14 @@
+src :@Minas_Tirith2024
+[عکس]
+‏نیرو هوافضای سپاه پاسداران انقلاب اسلامی با پخش تصاویری از افتتاح پایگاه موشکی جدید خود توسط سرلشکر عبدالهی،رئیس ستاد نیرو‌های مسلح و سرتیپ موسوی فرمانده سازمان هوافضای سپاه پاسداران خبر داد.
+‏
+‏@P_raetorio
+16:16
+1405/08/19
+
+
+
+
 src :@Exciton_missile_program
 [عکس]
 ‏یک حدس فوق العاده ضعیف با درصد بسیار کم از این موشک سانسور شده میتوان زد. اینست اگر فرض کنیم این ناپیوستگی بدنه و سر موشک در اثر افکت سانسور موشک نیست شاید ورودی هوا باشد. ورودی هوا هم اینقدر جلو قرار داشته باشد نمیتوان چیزی گفت ولی شاید یک شکل سوپرسونیک این را تداعی کند. در هر صورت این با آن موشکی کروزی که بدنه تختی دارد و در صحنه دیگر دیده میشود به نظر یکی نیست. بیشتر بدنه همچنان گرد است.
@@ -5259,16 +5270,6 @@ src :@guard_warriors
 
 
 
-src :@Minas_Tirith2024
-‏شبکه پرس تی وی ایران اعلام کرد اخبار مربوط به دیدار سرلشکر رضایی و جی دی ونس کذب است و تا زمانی که آمریکا شروط این را قبول نکند مذاکره و دیداری در کار نیست.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-19:48
-1405/08/18
-
-
-
-
 src :@thewarreporter
 ‏🇺🇸🇮🇷🇶🇦🇹🇷 — Turkish National Intelligence Organization (MIT) chief Ibrahim Kalın announced during a conference that U.S. Vice President JD Vance and Iranian Supreme National Security Council Secretary Mohsen Rezaei are expected to meet next week in Doha, Qatar.…
 19:39
@@ -5308,26 +5309,6 @@ src :@warmonitors
 src :@Navy_Iranian
 ‏تصویری از سامانه‌های مجید در رزمایش پدافندی اخیر ارمنستان  • @BasedIMINT •
 19:33
-1405/08/18
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏در 11 روز اخیر 8 پالایشگاه بزرگ روسی هدف حملات سنگین پهپادی اوکراین قرار گرفته و بین 50 تا 100 درصد ظرفیت فرآوری خود را از دست داده اند: 
-‏
-‏• October 30 — Novokuibyshevsk: 8.8 million tonnes/year
-‏• October 31 — Ufa (Bashneft-Novoil): 7.1 million
-‏• November 1 — Kstovo: 17 million
-‏• November 3 — Yaroslavl: 15 million
-‏• November 5 — Ryazan: 17.1 million
-‏• November 6 — Afipsky: 6.25 million
-‏• November 7 — Saratov: 7 million
-‏• November 9 — Kirishi: 20 million
-‏
-‏@Minas_Tirith2024
-19:26
 1405/08/18
 
 
@@ -5718,17 +5699,6 @@ src :@samueltarikh
 
 
 
-src :@Minas_Tirith2024
-[عکس]
-‏وضعیت ذخیره موشک های رهگیر سامانه های پاتریوت کشورهای اروپایی به وضعیت نامناسبی کاهش پیدا کرده و این کشورها اعلام کردند بدون ضمانت مشخص از سمت آمریکا برای جبران ، ناتوان از ارسال موشک های بیشتر برای اوکراین هستند.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-17:29
-1405/08/18
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇹🇷 🇶🇦 🇺🇸 🇮🇷 — Turkish intelligence chief Ibrahim Kalın says Qatar will host U.S. Vice President JD Vance and Iran’s Mohsen Rezaei next week, calling the Doha meeting an important breakthrough chance.
@@ -5758,19 +5728,6 @@ src :@tglobaleye
 ‏
 ‏🇪🇺 — Legion Europa | Group Chat
 17:23
-1405/08/18
-
-
-
-
-src :@Minas_Tirith2024
-[عکس]
-‏به گفته ابراهیم کالین رئیس سازمان اطلاعات ترکیه، جی دی ونس معاون اول ترامپ و محسن رضایی دبیر شعام هفته آینده در دوحه خواهند بود تا مذاکرات میان ایران و امریکا به شکل جدی تری پیش برود.
-‏
-‏مشخص نیست حضور همزمان ونس و رضایی برای دیدار مستقیم خواهد بود یا مذاکره از طریق واسطه قطری
-‏
-‏@Minas_Tirith2024
-17:21
 1405/08/18
 
 
