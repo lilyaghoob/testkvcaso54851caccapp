@@ -1,3 +1,48 @@
+src :@tglobaleye
+[عکس]
+‏#NEWS | 🇺🇸 🇮🇱 — U.S. plans to halve direct military aid to Israel: $33B/10 years reduced to $16.5B/5 years, phasing out from 2028. 
+‏
+‏Joint missile defense funding increases. Agreement targeted for finalization by December 2026, before Republicans lose Congress in January. Israeli officials fear future aid obstruction if Netanyahu remains PM. Source: ynet
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+23:15
+1405/08/19
+
+
+
+
+src :@selena_updates
+[عکس]
+‏Iran carried out multiple ballistic missile tests over Dorud, Tehransar (Tehran), Kermanshah, Hamadan, Khorramabad, Ray, Lorestan Province and Kermanshah.
+‏
+‏The developments coincide with Iran’s unveiling of a new underground missile complex earlier today.
+23:15
+1405/08/19
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏سه پیروزی هوایی در یک پرواز؛ نبرد مشهور فانتوم آمریکایی با میگ‌های ویتنام شمالی
+‏
+‏در ۱۰ مه ۱۹۷۲، در جریان جنگ ویتنام و عملیات هوایی آمریکا موسوم به Linebacker I، دو خدمه نیروی دریایی آمریکا با یک فروند جنگنده F-4J Phantom II موفق شدند در یک مأموریت سه جنگنده میگ-۱۷ ویتنام شمالی را سرنگون کنند.
+‏
+‏خدمه این جنگنده عبارت بودند از:
+‏
+‏- ستوان رندی «دوک» کانینگهام؛ خلبان
+‏- ستوان ویلیام «ویلی» دریسکول؛ افسر رهگیری راداری و مسئول سامانه‌های تسلیحاتی
+‏
+‏پس از حمله به هدف، جنگنده‌های MiG-17 ویتنام شمالی وارد صحنه شدند. درگیری به یک نبرد هوایی نزدیک و پرتحرک تبدیل شد.
+‏کانینگهام و دریسکول با استفاده از موشک‌های هوا‌به‌هوای حرارتی  سایدواندر، سه فروند میگ-۱۷ را هدف قرار دادند و سرنگون کردند.
+‏با وجود سه پیروزی هوایی، ماجرا برای خدمه فانتوم به‌خوبی تمام نشد. هواپیمای آن‌ها در جریان مأموریت آسیب دید و کانینگهام و دریسکول مجبور به اجکت شدند. هر دو در خلیج تونکین نجات پیدا کردند.
+‏این سه پیروزی، مجموع شکارهای هوایی آن‌ها را به پنج فروند رساند و نامشان را به‌عنوان نخستین تک‌خال‌های هوایی نیروی دریایی آمریکا در جنگ ویتنام ثبت کرد.
+23:15
+1405/08/19
+
+
+
+
 src :@MilitarryWorld
 ‏🔴میز نفت: دقایقی پیش، سکوی SPD14D پارس جنوبی دچار آتش‌سوزی شد  کارکنان مستقر در سکو در حال ترک محل هستند. در پی این حادثه، ۵۰۰ میلیون فوت مکعب گاز از مدار تولید خارج شده است.  @MilitarryWorld | Maverick
 23:13
@@ -15,9 +60,18 @@ src :@OSINTWarfare
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Another Israeli airstrike reported in Wadi al-Salouqi, southern Lebanon, targeting the same location as the previous strike.  @wfwitness
-23:12
+src :@IranintlTV
+[عکس]
+‏وزارت نفت جمهوری اسلامی، شامگاه سه‌شنبه ۱۹ آبان از وقوع آتش‌سوزی در یکی از سکوهای پارس جنوبی خبر داد و اعلام کرد این سکو برای حفظ سلامت مهندسان به‌طور کامل تخلیه شده است.
+‏
+‏این وزارت‌خانه افزود آتش‌سوزی دقایقی پیش رخ داده و وضعیت سکو کاملا تحت کنترل است.
+‏
+‏به گفته معاون وزیر نفت، این سکو ۱۴.۵ میلیون مترمکعب از مجموع بیش از ۷۰۰ میلیون مترمکعب گاز تولیدی پارس جنوبی را تولید می‌کند.
+‏
+‏براساس این گزارش علت آتش‌سوزی در دست بررسی است و نشت گاز یا وقوع حادثه عملیاتی، دو احتمال مطرح‌شده درباره علت این حادثه هستند.
+‏در همین حال، روابط عمومی شرکت نفت و گاز پارس اعلام کرد عملیات مهار آتش‌سوزی در یکی از سکوهای گازی فاز ۱۴ انجام شده و حریق کنترل شده است.
+‏https://iranintl.com/202611108081
+23:11
 1405/08/19
 
 
@@ -40,7 +94,7 @@ src :@P_raetorio
 ‏
 ‏فرانتس کافکا(نامه به فلیسه)
 ‏
-‏پ.ن: کافکا خود را با این چهار نویسنده که همگی درگیر «تنگناهای درونی و بیرونی» شدید، وسواس‌های خلاقانه و ناتوانی در سازگاری با زندگی عادی (به‌ویژه ازدواج و تشکیل خانواده) بودند، ‌خون و هم‌سرنوشت میدانست. 
+‏پ.ن: کافکا خود را با این چهار نویسنده که همگی درگیر «تنگناهای درونی و بیرونی» شدید، وسواس‌های خلاقانه و ناتوانی در سازگاری با زندگی عادی (به‌ویژه ازدواج و تشکیل خانواده) بودند، ‌هم خون و هم‌سرنوشت میدانست. 
 ‏
 ‏برای کافکا، ازدواج هم‌زمان بزرگ‌ترین آرزو (به عنوان نمادی از ورود به زندگی بورژوایی، عادی و پذیرفته‌شدن در جامعه) و بزرگ‌ترین هراس (به عنوان عاملی که وقت و تمرکز او را برای نوشتن نابود می‌کند) بود.
 ‏
@@ -1550,20 +1604,6 @@ src :@wfwitness
 
 
 
-src :@IranintlTV
-[عکس]
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، سه‌شنبه ۱۹ آبان در شبکه ایکس نوشت: «دولت فرانسه حتی از مدیریت یخچال‌ها عاجز است، چه برسد به رسیدگی به نارضایتی‌های مردمش. این دولت به جای پذیرش مسئولیت ناکامی‌های خود، دیگران را مقصر جلوه می‌دهد.»
-‏
-‏وزارت خارجه فرانسه، در پی حملات سایبری به یخچال‌های چندین فروشگاه زنجیره‌ای، سفیر جمهوری اسلامی در پاریس را احضار کرد.
-‏
-‏ژان نوئل بارو، وزیر امور خارجه فرانسه، سپاه پاسداران را عامل حملات سایبری به یخچال‌های فروشگاه‌های زنجیره‌ای این کشور معرفی کرد و هشدار داد این اقدام پیامدهایی برای تهران خواهد داشت.
-‏https://iranintl.com/202611106547
-21:26
-1405/08/19
-
-
-
-
 src :@didarnews1
 ‏🔴سخنگوی هیات‌رئیسه مجلس:
 ‏
@@ -2792,14 +2832,6 @@ src :@jangaavaran1390
 
 
 
-src :@jangaavaran1390
-‏ترامپ: کشورهای متحد آمریکا باید هزینه جنگ با ایران را پرداخت کنند؛ اسرائیل هم باید پول بدهد!  دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرده است کشورهایی که ایالات متحده در جریان جنگ با ایران از آن‌ها حمایت کرده، باید تمام هزینه‌های نظامی این جنگ را به واشنگتن…
-20:02
-1405/08/19
-
-
-
-
 src :@MilitarryWorld
 ‏🔴رضایی: صحبت‌ها درباره وجود طرح‌هایی برای برگزاری دیدار میان من و جی‌دی ونس، معاون رئیس‌جمهور آمریکا، به هیچ وجه صحت ندارد و کاملاً بی‌اساس است
 ‏
@@ -3747,23 +3779,6 @@ src :@didarnews1
 
 
 
-src :@selena_updates
-[عکس]
-‏The US military has relocated at least 12 aircraft from RAF Mildenhall in England following an Iranian security threat.
-‏
-‏9 KC-135 Stratotanker refueling aircraft were repositioned to bases in Germany, Spain and Scotland, while 3 CV-22 Ospreys moved to nearby RAF Lakenheath.
-‏
-‏US officials confirmed enhanced security measures at both Mildenhall and Lakenheath, raising their alert status to Force Protection Condition (FPCON) Charlie, the second-highest level, indicating that terrorist action is considered likely.
-‏
-‏The movements follow the earlier withdrawal of US bombers from RAF Fairford amid Iranian-linked threats. 
-‏
-‏The exact nature and imminence of the latest threat remain undisclosed, while US European Command has declined to discuss specific aircraft movements or security measures.
-18:32
-1405/08/19
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️مارکو روبیو، وزیر امور خارجه ایالات متحده، در جریان سفر به پاریس اعلام کرد که کشورش همچنان برای پایان دادن به درگیری با جمهوری اسلامی ایران «پذیرای دیپلماسی» است، اما شروط تهران را غیرقابل قبول خواند.
@@ -3854,19 +3869,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 18:07
-1405/08/19
-
-
-
-
-src :@selena_updates
-[عکس]
-‏The Russian military aircraft that landed at Ben Gurion Airport on Sunday, November 8, carried a senior delegation led by Admiral Igor Kostyukov, head of Russia’s GRU military intelligence agency. The delegation held undisclosed meetings with senior Israeli defense officials. The delegation arrived at Washington’s request.
-‏
-‏The US-sanctioned Tupolev Tu-154M (RA-85042) departed Israel for Abu Dhabi on Monday, ahead of US-mediated Russia–Ukraine peace negotiations scheduled for November 10–11, which Kostyukov is expected to attend.
-‏
-‏The purpose of the Israeli meetings remains undisclosed, while the IDF, Israeli Prime Minister’s Office and Russian Embassy have declined to comment.
-18:04
 1405/08/19
 
 
@@ -3975,19 +3977,6 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 17:39
-1405/08/19
-
-
-
-
-src :@selena_updates
-[عکس]
-‏A senior Israeli defense delegation led by Defense Ministry Director General Amir Baram is visiting Morocco from November 8–11 to expand military and security cooperation. Baram met with Moroccan Defense Minister Delegate Abdellatif Loudiyi, Armed Forces Inspector General Mohammed Berrid, and senior intelligence officials.
-‏
-‏Discussions focused on defense technology, arms procurement, cybersecurity, military training, and joint defense manufacturing, including Israeli support for developing Morocco’s domestic defense industry through partnerships and technology transfers.
-‏
-‏Baram is also scheduled to inaugurate Israel’s permanent military attaché office in Rabat, headed by Colonel Sharon Itach. The visit marks another step in expanding defense ties established following the normalization of relations in 2020 and the signing of a military cooperation agreement in 2021.
-17:31
 1405/08/19
 
 
@@ -4475,15 +4464,6 @@ src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn  [https://fromiran.sh1n.org]  English  [https://fromiran.sh1n.org]  ترجمه خودکار فارسی  [https://fromiran.sh1n.org]  𝕏  ·  @shin_persian
 16:41
-1405/08/19
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓  @hey_itsmyturn  Test launch of a missile in Kermanshah Kermanshah Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/9WMxE9vhGjD5RbfBZmVtAu_l  ترجمه خودکار فارسی  پرتاب آزمایشی یک موشک در کرمانشاه استان…
-16:39
 1405/08/19
 
 
@@ -6375,12 +6355,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 23:51
-1405/08/18
-
-
-
-
-src :@thewarreporter
-‏🇷🇺🇮🇱 — In an unusual development, a Russian government aircraft was spotted at Ben Gurion Airport in Tel Aviv.  According to reports, the aircraft may have been transporting the families of Russian diplomats.  @TheWarReporter
-23:12
 1405/08/18
