@@ -1,3 +1,14 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏رسانه‌های اوکراینی از وقوع چند انفجار در استان نووگورود روسیه خبر دادند و احتمال دادند کارخانه تعمیرات هواپیما شماره ۱۲۳، محل تعمیر و نگهداری هواپیماهای ترابری نظامی روسیه، هدف حمله قرار گرفته باشد. این کارخانه پیش‌تر در ۱۷ مارس نیز هدف حمله قرار گرفته بود.
+‏
+‏🆔@WAR_ROOM_NEWS
+10:25
+1405/08/19
+
+
+
+
 src :@mamlekate
 [عکس]
 ‏📞 دود توی هوای اصفهان ١٩ آبان محدوده ٣٣پل ساعت ٧و٣٠
@@ -5558,17 +5569,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏پلیس اسرائیل و سازمان امنیت داخلی این کشور (شاباک) در حال بررسی برگه‌های تهدیدآمیزی هستند که امروز در صندوق‌های پستی چندین ساختمان در شمال تل‌آویو پیدا شده و به گروه هکری حنظله، مرتبط با ایران، نسبت داده می‌شوند. این برگه‌ها حاوی یک کد پاسخ سریع بودند که با اسکن آن، کاربران به صفحه‌ای هدایت می‌شدند که در آن به اسرائیلی‌ها هشدار داده شده بود در صورت حمله مجدد به زیرساخت‌های انرژی جبهه مقاومت، باید منتظر بهای سنگینی باشند. در این پیام تهدید شده است که در چنین شرایطی هیچ نیروگاه برق، پالایشگاه نفت یا تأسیسات آب‌شیرین‌کنی در سرزمین‌های اشغالی در امان نخواهد ماند. پلیس اعلام کرده برگه‌ها را برای بررسی جمع‌آوری کرده و شاباک نیز در تحقیقات مشارکت دارد
-‏
-‏🆔@WAR_ROOM_NEWS
-17:05
-1405/08/18
-
-
-
-
 src :@defence_news
 [عکس]
 ‏رییس سازمان اطلاعاتی ترکیه ادعا کرد هفته آینده در دوحه پایتخت قطر ، ونس معاون رییس جمهور آمریکا با سرلشکر محسن رضایی دیدار و گفتگو خواهد کرد.
@@ -6433,44 +6433,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 10:31
-1405/08/18
-
-
-
-
-src :@Intelsky
-‏The owner of this channel has been inactive for the last 11 months. If they remain inactive for the next 28 days, they may lose their account and admin rights in this channel. The contents of the channel will remain accessible for all users.
-10:25
-1405/08/18
-
-
-
-
-src :@ETReport
-‏The owner of this channel has been inactive for the last 11 months. If they remain inactive for the next 28 days, they may lose their account and admin rights in this channel. The contents of the channel will remain accessible for all users.
-10:25
-1405/08/18
-
-
-
-
-src :@WorldWarIIIInfo
-‏The owner of this channel has been inactive for the last 11 months. If they remain inactive for the next 28 days, they may lose their account and admin rights in this channel. The contents of the channel will remain accessible for all users.
-10:25
-1405/08/18
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇮🇷🇮🇶🇮🇷🇮🇶 — During a meeting with leaders of the Iran-backed Iraqi Shia militias' Coordination Framework, Iraqi PM Ali al-Zaidi discussed U.S. war plans presented to President Trump and believed to have been shared with the Iraqi government.
-‏
-‏The plans outline three possible scenarios. One envisions U.S. forces launching an invasion of southern Iran through Iraqi territory, while another involves Iran launching an attack on Kuwait from Iraqi territory.
-‏
-‏Al-Zaidi warned Coordination Framework officials that any participation by Iraqi militias in a future U.S.-Iran war could lead to arrests by the Iraqi government.
-‏
-‏Informed sources said the armed factions have no intention of surrendering their weapons to the Iraqi government.
-‏
-‏— Al Mada | @TheWarReporter
-10:22
 1405/08/18
