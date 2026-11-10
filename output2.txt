@@ -1,3 +1,70 @@
+src :@Artemis_Force
+[عکس]
+‏مشخصات اصلی شناور مانگاراتیبا:
+‏
+‏طول: 54.2 متر
+‏عرض: 8 متر
+‏تناژ : حدود 500 تن
+‏حداکثر سرعت: 21 گره دریایی
+‏برد: تا 2500 مایل دریایی؛
+‏مداومت : حدود 6 روز
+‏خدمه: 35 نفر (تا 43 نفر با پرسنل پشتیبان)
+‏
+‏سیستم پیشران: دیزلی دو محور، موتورهای اصلی: دو موتور دیزلی MTU 16V 4000 M90
+‏
+‏سیستم پشتیبان: سه ژنراتور دیزلی MTU 
+‏
+‏سیستم کنترل آتش: سیستم SisC2Geo، که یکپارچگی داده‌های رادار، تجهیزات ناوبری و سلاح‌ها را فراهم می‌کند
+‏
+‏سیستم ناوبری: مجموعه VisionMaster FT با رادارهای FT250 در باندهای X و S
+‏
+‏ارتباطات ماهواره‌ای: سیستم ارتباط امن در باند X
+‏
+‏سیستم کنترل آتش: سیستم اپتیک-الکترونیکی ATENA، که ادغام آن با توپ اصلی در نظر گرفته شده است
+‏
+‏سلاح اصلی: یک توپ خودکار 40 میلی‌متری Bofors 40 Mk.4 با قابلیت استفاده از مهمات برنامه‌ریزی‌شده 3P
+‏
+‏سلاح‌های اضافی: دو توپ 20 میلی‌متری GAM-B01-2
+‏
+‏همچنین یک قایق تندرو بازرسی DGS 600 برای تعقیب، بازرسی کشتی‌ها و عملیات نجات.
+‏
+‏
+‏#معرفی
+‏
+‏٢/٢
+‏@artemis_force
+13:20
+1405/08/19
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏😆 أنا الان امام برج أرامكو وكل شي ما في الحين 
+‏
+‏غرد مثل الذباب السعودي 
+‏
+‏اضغط هنا و انضم لحسابنا على موقع 🔻
+13:20
+1405/08/19
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️ وزارت امور خارجه فرانسه صبح سه‌شنبه ۱۹ آبان‌ماه اعلام کرد در پی آغاز تحقیقات درباره اتهام یکی از واحدهای سایبری سپاه در حملات به سامانه یخچال‌های چندین فروشگاه در این کشور، محمد امین‌نژاد، سفیر جمهوری اسلامی ایران در پاریس را احضار کرده است.
+‏
+‏ژان نوئل بارو، وزیر امور خارجه فرانسه روز دوشنبه اعلام کرد جمهوری اسلامی ایران را مسئول حمله سایبری به یخچال‌ها و فریزرهای فروشگاه‌های زنجیره‌ای اروپا می‌داند؛ حمله‌ای که بر اثر فاسد شدن مواد غذایی و از کار افتادن تجهیزات، ده‌ها میلیون دلار خسارت به بار آورده است.
+‏
+‏@indypersian
+13:18
+1405/08/19
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏تعداد صفحه‌های سیاسی پرمخاطب در اینستاگرام ایرانی طی یک سال گذشته بیش از دو برابر شده است. هم‌زمان، حامیان جمهوری اسلامی و پادشاهی‌خواهان سهم بیشتری از شبکه صفحه‌های سیاسی به دست آورده‌اند و جایگاه سلبریتی‌هایی که پیش‌تر از چهره‌های اثرگذار این فضا بودند، تضعیف شده است.
@@ -3839,16 +3906,6 @@ src :@intelslava
 
 
 
-src :@naya_foriraq
-[عکس]
-‏ترامب:‏ 
-‏أجريتُ محادثةً ممتازةً مع الشيخ محمد بن عبد الرحمن بن جاسم آل ثاني، رئيس وزراء قطر، حيثُ ناقشنا خلالها العديد من القضايا المتعلقة بالجمهورية الإسلامية الإيرانية. والأهم من ذلك، أن قطر والسعودية والإمارات والبحرين والكويت وغيرها تُفضّل الوضع الراهن، أي استمرار الحصار البحري الأضخم في التاريخ، وعملية "البوابة الحديدية" الجديدة - براً وبحراً. وقد اتفق الجميع على أن إيران لا يُمكنها امتلاك سلاح نووي - وهذا أمرٌ غير قابلٍ للتفاوض! في حال حدوث أي تغيير في التطورات في الشرق الأوسط، فإن الولايات المتحدة الأمريكية على أهبة الاستعداد. إلا أن هذا يبدو مستبعداً في الوقت الراهن. فإسرائيل، والشرق الأوسط بأكمله، في مأمنٍ من الخطر والتهديدات الإيرانية. ونحن نشهد زخماً إيجابياً نحو إنهاء هذا الصراع، وسنضمن حماية مصالح أمريكا في جميع الأوقات. في ختام هذه المواجهة العسكرية، سيكون الشعب الأمريكي، والعالم أجمع، أكثر أماناً واستقراراً.
-01:00
-1405/08/19
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓ @hey_itsmyturn
@@ -5075,19 +5132,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@selena_updates
-[عکس]
-‏Two Arab-Israeli performers, Lina Makhoul and Tamer Nafar, participated in American rapper Macklemore’s Free Palestine concert tour. 
-‏
-‏Makhoul, who won Israel’s The Voice in 2013, performed before approximately 13,000 people in Dublin on October 26, while Nafar, who previously collaborated with Israeli rapper Subliminal, appeared at the Paris concert on October 29.
-‏
-‏The concerts featured pure anti-Israel hate, with some of the performers leading explicitly hostile chants.
-20:50
-1405/08/18
-
-
-
-
 src :@didarnews1
 ‏🔴رئیس جبهه اصلاحات ایران در نامه‌ای به رئیس قوه قضاییه خواستار توقف اجرای احکام اعدام بازداشت‌شدگان حوادث دی‌ماه شد
 ‏
@@ -5331,19 +5375,6 @@ src :@guard_warriors
 
 
 
-src :@selena_updates
-[عکس]
-‏Iraqi Prime Minister Ali al-Zaidi told leaders of the Shiite Coordination Framework that he had reviewed portions of a leaked U.S. military plan presented to President Donald Trump that outlined 3 possible scenarios, including a U.S. ground invasion of southern Iran through Iraq and Iranian pressure on Baghdad to launch an incursion into Kuwait through Basra. The 3rd scenario was not disclosed.
-‏
-‏Al-Zaidi warned that Iran-backed Iraqi militias participating in a renewed U.S.–Iran war would face arrest, prompting warnings from Shiite leaders that such action could destabilize the government. Meanwhile, armed factions continue resisting demands to surrender their weapons, citing the possibility of imminent regional conflict.
-‏
-‏Separately, al-Zaidi made an unannounced visit to Tehran on Friday for talks with Iran’s negotiating chief Mohammad Bagher Ghalibaf on ending the Iran–U.S. War.
-19:55
-1405/08/18
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏خبرگزاری تسنیم، وابسته به سپاه پاسداران، روز دوشنبه ۱۸ آبان به نقل از یک مقام ارشد امنیتی در تهران، خبرهای منتشرشده درباره برنامه دیدار محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، با جی‌دی ونس، معاون رییس‌جمهوری آمریکا، در دوحه را تکذیب کرد.
@@ -5396,15 +5427,6 @@ src :@Minas_Tirith2024
 src :@thewarreporter
 ‏🇺🇸🇮🇷🇶🇦🇹🇷 — Turkish National Intelligence Organization (MIT) chief Ibrahim Kalın announced during a conference that U.S. Vice President JD Vance and Iranian Supreme National Security Council Secretary Mohsen Rezaei are expected to meet next week in Doha, Qatar.…
 19:39
-1405/08/18
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Israeli forces carried out multiple airstrikes across southern Lebanon, targeting al-Qantara in Marjayoun District and Kfar Tebnit in Nabatieh District. A powerful explosion was also reported in Blida, while a separate Israeli attack targeted al-Jarmaq in Jezzine District.
-19:35
 1405/08/18
 
 
