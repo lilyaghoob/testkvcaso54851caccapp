@@ -1,6 +1,27 @@
 src :@Alibk3
 [عکس]
-‏نيويورك تايمز: وزير الخزانة الأمريكي سكوت بيسنت انتقل للإقامة في قاعدة عسكرية خشيةً من تهديدات إيرانية.
+‏القوات اليمنية تسيطر على مفرق صريح، على بُعد 20 كيلومتر من البحر.
+04:41
+1405/08/20
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸 - U.S. Treasury Secretary Scott Bessent has reportedly relocated from his home to a military base following Iranian threats against his life, according to The New York Times.
+‏
+‏@GeoPWatch
+04:37
+1405/08/20
+
+
+
+
+src :@Alibk3
+[عکس]
+‏نيويورك تايمز: 
+‏
+‏وزير الخزانة الأميركي سكوت بيسنت انتقل للإقامة في قاعدة عسكرية خشيةً من تهديدات إيرانية.
 04:30
 1405/08/20
 
@@ -4046,17 +4067,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇮🇹❓ - A NATO Northrop Grumman RQ-4D Phoenix, operated by the Italian Air Force, is squawking 7700 for a General Emergency over the Black Sea.
-‏
-‏@GeoPWatch
-20:40
-1405/08/19
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran says no negotiations with the United States are currently taking place.
 ‏
@@ -4073,14 +4083,6 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 20:40
-1405/08/19
-
-
-
-
-src :@Alibk3
-‏مشاهد لانفجار ناقلتا نفط مخالفتان في مضيق هرمز.
-20:38
 1405/08/19
 
 
