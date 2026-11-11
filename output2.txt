@@ -1,3 +1,12 @@
+src :@rnintel
+[عکس]
+‏🇺🇸⚡️- Ars Technica reports Elon Musk’s Grok Build exposed over 35,000 apps through discoverable share URLs, leaking confidential SpaceX documents, Tesla employee data, military contractor records, and sensitive patient information.
+05:33
+1405/08/20
+
+
+
+
 src :@VahidOnline
 [عکس]
 ‏نیویورک‌تایمز به نقل از سه فرد آگاه گزارش داد اسکات بسنت، وزیر خزانه‌داری آمریکا، که هدایت کارزار فشار اقتصادی علیه ایران را بر عهده دارد، به دلیل نگرانی‌های امنیتی از خانه خود به یک پایگاه نظامی منتقل شده است.
@@ -3035,14 +3044,6 @@ src :@Americana_ir
 
 
 
-src :@rnintel
-‏🇺🇸⚡️- Jim Jordan has been elected the new House GOP Leader.
-22:55
-1405/08/19
-
-
-
-
 src :@mamlekate
 ‏نخست وزیر قطر امروز گفته مذاکرات میان آمریکا و ایران در حال پیشرفت است، اما در حال حاضر نمی‌توان با اطمینان گفت که دو طرف به توافق نزدیک‌تر شده‌اند یا از آن فاصله گرفته‌اند!
 ‏
@@ -3225,15 +3226,6 @@ src :@Mena_Live
 
 
 
-src :@rnintel
-[عکس]
-‏🇫🇷🇪🇺🇮🇷⚡️- BREAKING: France vows to impose new EU sanctions on Iran after revealing that last month's hacking of hundreds of commercial freezers across France was caused by Iran.
-22:31
-1405/08/19
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏دوستان مصداق میخان برای این حرف :  دروغ گفتن و پیچوندن دیگران عادی شده و خیلی‌ها زیر بار مسئولیت کارهاشون نمی‌رن حق بقیه رو راحت زیر پا می‌ذارن و قانون رو فقط وقتی قبول دارن که به نفع خودشون باشه با کوچک‌ترین اختلاف‌نظری پرخاش می‌کنن و فحش می‌دن و بلد نیستن…
 22:29
@@ -3338,17 +3330,6 @@ src :@thewarreporter
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - AA Activity has also being reported from the 15th Khordad IRGC Base in the Isfahan Province, Iran.  @GeoPWatch
 22:25
-1405/08/19
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸🇮🇷⚡️ — A new Reuters/Ipsos poll found that 71% of Americans want the new Democratic Congress to pass legislation to end the U.S. war with Iran, including 93% of Democrats and 51% of Republicans.
-‏
-‏The survey also found that 62% favor repealing President Trump's import tariffs.
-22:24
 1405/08/19
 
 
