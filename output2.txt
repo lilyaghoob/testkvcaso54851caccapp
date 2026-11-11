@@ -1,3 +1,35 @@
+src :@thewarreporter
+‏🇺🇸🇵🇰🇹🇷🇮🇶🇮🇷 — U.S. efforts to pressure Iran's neighbors into closing their borders have so far met resistance, with Pakistan, Turkey, and Iraq resisting Washington's demands.
+‏
+‏Turkey has largely maintained its existing border policies, while Iraq has rejected U.S. requests to limit crossings to just two.
+‏
+‏The resistance has complicated Washington's efforts to tighten economic pressure on Iran, prompting the Trump administration to launch Task Force Iron Gate to target cross-border trade and alleged smuggling networks.
+‏
+‏— The New York Times | @TheWarReporter
+22:41
+1405/08/20
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇺🇸🇬🇧 US troops and military aircraft moved from British air base following planned attacks targeting multiple bases across Europe including RAF Fairford.
+‏
+‏@BRICSNews
+22:41
+1405/08/20
+
+
+
+
+src :@wfwitness
+‏⚡️🇾🇪🇾🇪 The Houthis have reportedly launched an offensive on the Lahj governorate of Yemen, taking the towns of al-Shattayn, al-Sarih, Horib, and al-Fasiya within the last 16 hours.  The goal of this offensive, if confirmed and successful, would be to completely…
+22:40
+1405/08/20
+
+
+
+
 src :@wfwitness
 ‏⚡🇸🇦🇾🇪 Alert raised in Taif, Saudi Arabia.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:35
@@ -60,6 +92,8 @@ src :@wfwitness
 ‏⚡️🇾🇪🇾🇪 Two explosions were heard in the PLC capital of Aden, Yemen.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 22:29
 1405/08/20
 
@@ -135,6 +169,8 @@ src :@ClashReport
 ‏The resistance has frustrated Washington’s efforts to tighten its economic blockade of Iran, prompting the Trump administration to launch Task Force Iron Gate to target cross-border trade and smuggling.
 ‏
 ‏Source: NYT
+‏
+‏READ MORE
 22:27
 1405/08/20
 
@@ -1952,26 +1988,6 @@ src :@Indypersian
 
 
 
-src :@mohem_mat
-[عکس]
-‏یک هفته پس از انتخابات کنگره، ۹۹٪  آرا شمارش شده. 
-‏بالای ۱۱۶ میلیون رای اخذ شده. 
-‏حزب دموکرات ۶۵ میلیون رای آورد: ۵۶٪ 
-‏حزب جمهوری‌خواه ۴۹ میلیون رای: ۴۲٪ 
-‏
-‏پیروزی ۱۴ درصدی برای دموکرات‌ها که از سال ۱۹۷۴ بیشترین اختلاف برای این حزب است. 
-‏
-‏بزرگ‌ترین پیروزیشان در ۵۲ سال اخیر.
-‏
-‏🔗 بهمن كلباسى (@bbckalbasi) 
-‏
-‏@mohem_mat
-20:14
-1405/08/20
-
-
-
-
 src :@tabzlive
 ‏🇸🇦🇾🇪⚡️ — The Saudi-led Coalition to Restore Legitimacy in Yemen announces intercepting two Houthi (Ansarallah) drones in the Mecca region and southern regions.
 ‏
@@ -3301,22 +3317,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 18:07
-1405/08/20
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️در پی موج انتقاد از طرز نشستن یک خبرنگار در نشست خبری شاهزاده رضا پهلوی در لهستان، روزنامه «دیلی بریتین» وجود هرگونه ارتباط کاری با این خبرنگار را رد کرد و در شبکه‌های اجتماعی نوشت: «دیوید اترتون برای ما کار نمی‌کند و هرگز هم کار نکرده است. برای پرسش درباره این‌که چرا خود را این‌طور معرفی کرد، با او تماس گرفته‌ایم.»
-‏
-‏این خبرنگار که هنگام پرسش از شاهزاده رضا پهلوی، کفش‌های خود را در آورده و روی لبه دیوار نشسته بود، خود را خبرنگار دیلی بریتین معرفی کرده بود.
-‏
-‏انتشار گسترده تصاویر مربوط به لحظه پرسش او، انتقادهای شدیدی را به همراه داشت و برخی کاربران این پرسش را مطرح کرده بودند که آیا در بریتانیا، خبرنگاران در حضور چهره‌های سیاسی شناخته شده و خانواده سلطنتی این کشور اجازه بروز چنین رفتاری را دارند یا خیر.
-‏
-‏همچنین چهره‌های شناخته شده رسانه در ایران، از جمله کاملیا انتخابی‌فرد، سردبیر ایندیپندنت فارسی با مخاطب قرار دادن روزنامه دیلی بریتین، تاکید کردند که چنین رفتاری از سوی یک روزنامه‌نگار قابل پذیرش نیست.
-‏@indypersian
-18:06
 1405/08/20
 
 
@@ -6574,17 +6574,4 @@ src :@samueltarikh
 ‏کانال 16 اسرائیل:
 ‏یک مقام بلند پایه فرماندهی مرکزی ارتش آمریکا در خاورمیانه در ساعات اخیر به صورت اضطراری وارد تل‌آویو شده و در حال دیدار سطح بالا با مقامات ارشد امنیتی و نظامی اسرائیل درباره جنگ با ایران می‌باشد.
 22:44
-1405/08/19
-
-
-
-
-src :@mamlekate
-[عکس]
-‏🔥سلام سکوی ۱۴ دلتا یکی از سکوهای نفت پارس جنوبی آتیش گرفته. چندتا از کارکنان سکو پریدن توی آب. علت آتش‌سوزی هنوز مشخص نیست 
-‏
-‏🚨 گفته شده سکو کامل آتش گرفته یعنی روزانه ۵۰۰ میلیون فوت مکعب گاز از تولید خارج شده
-‏
-‏@mamlekate 🕊️ مملکته
-22:38
 1405/08/19
