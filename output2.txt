@@ -1,3 +1,16 @@
+src :@ClashReport
+[عکس]
+‏U.S. Treasury Secretary Scott Bessent has moved from his home to a military base following Iranian threats against his life.
+‏
+‏U.S. intelligence indicates Iranian plots against American officials have reached an advanced stage.
+‏
+‏Source: NYT
+09:18
+1405/08/20
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏غلامحسین محسنی اژه‌ای، رییس قوه قضاییه، در دیدار با خانواده حسن طهرانی‌مقدم، رییس اسبق سازمان جهاد خودکفایی سپاه پاسداران، گفت: «موشک‌های امروز ما مانند کشتی نوح وسیله نجات امت شده است.»
@@ -3271,18 +3284,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 23:11
-1405/08/19
-
-
-
-
-src :@ClashReport
-‏A fire broke out at Iran’s SPD14D gas platform in South Pars but has been brought under control.
-‏
-‏Iran’s deputy oil minister said the cause is under investigation, with a gas leak or operational accident considered possible.
-‏
-‏Source: Fars
-23:10
 1405/08/19
 
 
@@ -6851,27 +6852,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 09:33
-1405/08/19
-
-
-
-
-src :@mwarmonitor
-‏🔴🔴آمریکا در پی دریافت اطلاعات امنیتی درباره تهدیدهای احتمالی ایران، هواپیماهای سوخت‌رسان آمریکایی را از پایگاه هوایی سلطنتی «میلدنهال» (RAF Mildenhall) در بریتانیا به آلمان منتقل کرده است.
-‏
-‏🔴در همین حال، سطح تدابیر امنیتی در پایگاه‌های هوایی میلدنهال و «لِیکنهیث» (RAF Lakenheath) به سطح FPCON Charlie افزایش یافته است. این تحولات هم‌زمان با دریافت گزارش‌های توجیهی اعضای گروه موسوم به «گروه هشت» (Gang of Eight) درباره تهدیدهای ایران علیه خاک آمریکا صورت می‌گیرد.
-‏
-‏🔴سطح هشدار امنیتی FPCON Charlie زمانی اعمال می‌شود که حادثه‌ای رخ داده باشد یا اطلاعات امنیتی حاکی از آن باشد که احتمال وقوع اقدامات تروریستی یا هدف قرار گرفتن نیروها و تأسیسات وجود دارد. وال استریت ژورنال 
-‏
-‏
-‏@mwarmonitor
-09:20
-1405/08/19
-
-
-
-
-src :@Navy_Iranian
-‏مسیر حرکت ناوگروه روزولت   • ۹ نوامبر (امروز): عبور از کانال شش درجه • ۱۳ نوامبر: جنوب سریلانکا • ۱۵–۱۶ نوامبر: حفظ موقعیت در دریای عمان  ناوگروه با سرعت متوسط 22 گره در حال حرکت به سمت منطقه سنتکام هستند.  @Navy_Iraian | #S_S
-09:17
 1405/08/19
