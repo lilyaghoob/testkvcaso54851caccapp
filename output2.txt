@@ -1,6 +1,31 @@
+src :@MilitarryWorld
+‏🔴محسن رضایی: وزیر جنگ آمریکا در برابر فرماندهان ایرانی زانو زد
+‏
+‏
+‏@MilitarryWorld | Parsa
+19:33
+1405/08/20
+
+
+
+
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔶1,700 کشته حزب‌الله لبنان در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.   🆔@WAR_ROOM_NEWS
+19:31
+1405/08/20
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏شهباز شریف، نخست‌وزیر پاکستان، چهارشنبه ۲۰ آبان در حاشیه اجلاس تغییرات اقلیمی سازمان ملل در آنتالیا با مسعود پزشکیان دیدار کرد و نسبت به ادامه درگیری‌های طولانی‌مدت در منطقه ابراز نگرانی کرد.
+‏شریف در پیامی در شبکه ایکس نوشت: «گفت‌وگو، خویشتن‌داری، کاهش تنش و دیپلماسی مستمر تنها راه دستیابی به صلح پایدار است.»
+‏او افزود پاکستان با تکیه بر توافق‌های حاصل‌شده در تفاهم‌نامه اسلام‌آباد، همچنان به ایفای نقشی سازنده در برقراری صلح و ثبات در منطقه و فراتر از آن ادامه می‌دهد.
+‏نخست‌وزیر پاکستان همچنین اعلام کرد در دیدار با پزشکیان، دو طرف برای تقویت همکاری‌های دوجانبه به توافق رسیدند.
+‏
+‏https://iranintl.com/202611110572
 19:31
 1405/08/20
 
@@ -1582,21 +1607,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻باشگاه مس شهربابک اعلام کرد که مجتبی حسینی پس از توافق با مدیران این باشگاه، جانشین قاسم شهبا شد و هدایت تیم فوتبال مس شهربابک را بر عهده گرفت.
-‏
-‏🔹حسینی که فصل جاری را با نساجی مازندران آغاز کرده بود، پیش‌تر به‌عنوان یکی از گزینه‌های دستیاری یحیی گل‌محمدی در تیم امید ایران مطرح شده بود، اما در نهایت پیشنهاد مس شهربابک را پذیرفت.
-‏
-‏🔹مس شهربابک با کسب تنها پنج امتیاز از ۱۲ مسابقه، در رتبه هجدهم جدول قرار دارد و یکی از گزینه‌های اصلی سقوط به دسته پایین‌تر محسوب می‌شود.
-‏
-‏@iranintltvsport
-17:46
-1405/08/20
-
-
-
-
 src :@cataphract1
 ‏⚜️ اول از همه، همانطور که دوستان هم در کانال های دیگر پیشتر اشاره کرده بودند، به احتمال زیاد این پایگاه در منطقه ای نه چندان عمیق از کشور واقع است و یک اثبات آن، اگر درست تشخیص داده باشیم، حضور موشک شهاب-2 است.
 ‏
@@ -1619,22 +1629,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-17:44
-1405/08/20
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏ابومجاهد العساف، مسئول امنیتی کتائب حزب‌الله عراق، در بیانیه‌ای اعلام کرد این گروه در حمایت از جمهوری اسلامی عقب‌نشینی نخواهد کرد و اجازه نمی‌دهد دشمنان آن را به‌تنهایی هدف قرار دهند.
-‏
-‏او گفت کتائب حزب‌الله تا آخرین نفس در کنار متحدان خود در یمن و لبنان باقی خواهد ماند و تحت هیچ فشاری از سلاح خود دست نخواهد کشید.
-‏
-‏العساف افزود: «الزیدی را مسئول کامل هرگونه حمله به مقرهای مقاومت اسلامی یا برخی مقرها و نیروهای حشد شعبی می‌دانیم، به‌ویژه پس از آنکه بخشی از دستگاه‌های امنیتی برای جمع‌آوری اطلاعات و انتقال آنها به آمریکایی‌ها به کار گرفته شدند. آمریکا نیز این اطلاعات را برای انجام حملات در عراق در اختیار اسرائیل قرار می‌دهد و الزیدی شخصا از این موضوع آگاه است.»
-‏
-‏او همچنین گفت «نخست‌وزیر عراق به دستور آمریکا در محاصره جمهوری اسلامی مشارکت دارد» و از همکاری دولت عراق با واشینگتن انتقاد کرد.
-‏https://iranintl.com/202611115509
 17:44
 1405/08/20
 
@@ -1935,16 +1929,6 @@ src :@defence_news
 ‏
 ‏برای همین هست همه سطوح نیروهای مسلح آماده باش کامل دادن و پادگان ها رو دارن تخلیه می کنند و اینترنت آنقدر سنگین مختل هست
 17:10
-1405/08/20
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
-‏@iranintlTV
-17:09
 1405/08/20
 
 
@@ -2698,14 +2682,6 @@ src :@didarnews1
 
 
 
-src :@WAR_ROOM_NEWS
-‏بنابر گزارش منابع اسرائیلی نتانیاهو امروز جلسه امنیتی‌ای را با وزیر جنگ کاتس و سایر مقامات ارشد برگزار می‌کند
-15:54
-1405/08/20
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇨🇳🇺🇸⚡️ — China's Northwestern Polytechnical University, which has close ties to the People's Liberation Army, purchased two Nvidia H200 AI chips for $123,000 through a Chinese supplier in October, despite being on a U.S. export blacklist, according to procurement records reviewed by Reuters.
@@ -3198,22 +3174,6 @@ src :@Alibk3
 
 
 
-src :@Indypersian
-‏⭕️ تهران زیر فشار اقتصادی از «تسلیم» آمریکا سخن می‌گوید
-‏
-‏📌قیمت‌ها در ایران سر به فلک کشیده‌اند و جمهوری اسلامی برای مهار بحران‌های داخلی تقلا می‌کند
-‏
-‏♦️در روزهای گذشته دربارهٔ احتمال رسیدن تهران و واشنگتن به توافق خبرهای متفاوتی منتشر می‌شود. با این حال محسن رضایی، دبیر شورای عالی امنیت ملی، پیامی به‌مراتب کمتر سازش‌کارانه‌ انتخاب کرد و گفت زمان آن رسیده است که ایالات متحده در برابر هفت شرط ایران «تسلیم» شود؛ کلمه‌ای که به نظر می‌رسد بیشتر مصرف داخلی داشته باشد تا اینکه معنای واقعی آن را اعاده کند.
-‏
-‏بیشتر بخوانید... 
-‏
-‏@indypersian
-14:58
-1405/08/20
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‌‌‌‌‌‌‌‏ ‌‏ ‏
 ‏آتش‌سوزی در یکی از سکوهای گاز عسلویه؛ وزارت نفت احتمال هک یا خطای عمدی را رد کرد
@@ -3571,18 +3531,6 @@ src :@jangaavaran1390
 ‏ برد درگیری: ۲۵ تا ۱۰۰ متر
 ‏کنترل از راه دور، عملکرد شبانه‌روزی و خودکار
 14:32
-1405/08/20
-
-
-
-
-src :@MilitarryWorld
-‏🔴بابک زنجانی:
-‏
-‏ریزش دیروز دلار کار من بود
-‏
-‏@MilitarryWorld | Parsa
-14:27
 1405/08/20
 
 
@@ -6004,17 +5952,6 @@ src :@OSINTWarfare
 
 
 
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇺🇸 — Jim Jordan elected new House GOP Minority Leader.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-23:11
-1405/08/19
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏از چهار آدمی ‌که احساس می‌کنم در واقع خویشاوند خونی من هستند، گریلپارتسر، داستایفسکی، کلایست و فلوبر فقط داستایفسکی ازدواج کرد و شاید تنها کلایست که در هجوم تنگناهای درونی و بیرونی، خودش را به ضرب گلوله کُشت راه چاره را یافت.
@@ -6049,23 +5986,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 23:08
-1405/08/19
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇬🇧 🇺🇸 🇷🇺 — UK police arrest US Army member suspected of assisting Russian intelligence
-‏
-‏A 41-year-old member of the US Army was arrested near Gloucester, England, on Tuesday on suspicion of offences under the National Security Act 2023 (sections relating to obtaining or disclosing protected information and assisting a foreign intelligence service). Police confirmed the allegations concern Russia.
-‏
-‏The individual remains in custody at a London police station. Counter Terrorism Policing is leading the investigation in close coordination with US authorities, the US military, and the FBI. Searches are underway at two locations in Gloucestershire. The case is not linked to other ongoing investigations.⁠
-‏
-‏FBI Director Kash Patel stated the arrest involves “allegations of espionage, which is of the utmost concern to the United States and our allies.” US Army Counterintelligence Command described the alleged conduct of a senior soldier with access to sensitive information as a reminder of persistent insider threats.⁠
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-23:07
 1405/08/19
 
 
