@@ -1,3 +1,17 @@
+src :@Parvazdaroj
+[عکس]
+‏ایالات متحده، برد هواپیمای F-15EX Eagle II را افزایش می‌دهد
+‏
+‏نیروی هوایی ایالات متحده، عملیات جدیدترین مدل جنگنده F-15EX Eagle II را با مخازن سوخت اضافی آغاز کرده است. دو فروند از این هواپیما که متعلق به گردان هوایی 142 گارد ملی اورگان هستند، در حال انجام پرواز با مخازن سوخت نصب شده هستند. این تجهیزات جدید، میزان سوخت را تقریباً 5700 لیتر برای هر هواپیما افزایش می‌دهد، در حالی که نقاط اتصال زیر بال برای نصب تسلیحات همچنان حفظ شده‌اند. با این حال، بر خلاف مخازن اکسترنال ، مخازن سوخت اضافی را نمی‌توان در حین پرواز جدا کرد،این مخازن در طول کل ماموریت به هواگرد متصل می‌مانند، که باعث افزایش وزن و ایجاد مقاومت آیرودینامیکی بیشتر می‌شود. هر مخزن حدود 750 گالن سوخت را در خود جای می‌دهد، و یک جفت مخزن تقریباً 1500 گالن را در خود جای می‌دهند. این امر می‌تواند مدت زمان گشت‌زنی را افزایش دهد، زمان حضور در منطقه عملیات را بیشتر کند و وابستگی به هواپیماهای تانکر را کاهش دهد.
+‏
+‏
+‏@PARVAZDAROJ|M.S
+15:04
+1405/08/20
+
+
+
+
 src :@Artemis_Force
 [عکس]
 ‏فرماندهی نیروی دریایی ترکیه در بخش شرقی دریای مدیترانه، از تاریخ ۹( ٢ روز پیش) تا ۲۰ نوامبر ۲۰۲۶، یک تمرین مشترک ضد زیردریایی به نام «ماوی بالینا-۲۰۲۶» برگزار خواهد کرد.
@@ -916,23 +930,6 @@ src :@defence_news
 
 
 
-src :@ClashReport
-[عکس]
-‏Stephen Miller plans to use his new role as White House chief of staff to win back young, working-class and minority men who shifted toward Democrats in the 2026 midterms. 
-‏
-‏His agenda includes fighting “woke” policies, lowering prescription drug prices, cutting bureaucracy and tackling affordability. 
-‏
-‏Democrats won men under 30 by 22 points in 2026 after Trump carried them by 14 points in 2024, a 36-point swing. 
-‏
-‏Miller faces major obstacles, however, as Democrats will control both chambers of Congress in January.
-‏
-‏Source: Axios
-13:43
-1405/08/20
-
-
-
-
 src :@Minas_Tirith2024
 ‏محسن رضایی:
 ‏
@@ -1560,19 +1557,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@ClashReport
-[عکس]
-‏France, Fearing Nuclear War, Wants Germany to Clarify Missile Doctrine
-‏
-‏Berlin pursues missiles with ranges exceeding 2,000 km while French officials fear Moscow could misread a conventional strike deep inside Russia and respond with nuclear weapons.
-‏
-‏READ MORE
-12:57
-1405/08/20
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی روز چهارشنبه ۲۰ آبان‌ماه به شبکه المیادین لبنان گفت تهران به مسکو اطلاع داده است که مواد هسته‌ای غنی‌شده در ایران می‌ماند و در داخل کشور استفاده خواهد شد.
@@ -1603,32 +1587,6 @@ src :@naya_foriraq
 ‏
 ‏https://t.me/naya_foriraq
 12:55
-1405/08/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran’s Supreme National Security Council Secretary, Mohsen Rezaei:
-‏
-‏We have reached an advanced level in electronic warfare that allows us to take control of American drones and land them intact.
-12:52
-1405/08/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran’s Supreme National Security Council Secretary, Mohsen Rezaei:
-‏
-‏We will not remove even a single particle of enriched nuclear material from Iran.
-‏
-‏We have informed our Russian friends that the enriched materials will remain in Iran, and we will use them ourselves.
-‏
-‏We need enriched nuclear material to design nuclear-powered ships and submarines.
-12:51
 1405/08/20
 
 
@@ -7046,37 +7004,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 15:19
-1405/08/19
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏چین بیش از 100 کشتی رزمی و گشتی را در بخش غربی اقیانوس آرام مستقر کرده است.
-‏
-‏تحلیلگران احتمال می‌دهند که نیروی دریایی چین (PLAN) در حال آماده‌سازی برای احتمال محاصره تایوان و مقابله با دخالت ایالات متحده باشد. در این منطقه، فعالیت بیش از 100 فروند کشتی متعلق به نیروی دریایی چین و گارد ساحلی این کشور مشاهده شده است.
-‏
-‏بر اساس ارزیابی موسسه مطالعات جنگ (ISW)، چهار گروه کشتی چینی در منطقه بین تایوان و گوام فعال هستند. نیروهای اضافی نیز مستقیماً در نزدیکی جزیره حضور دارند.
-‏
-‏گزارش شده است که نیروهای فرماندهی‌های شرقی، شمالی و جنوبی نیروی دریایی چین در این عملیات‌ها مشارکت دارند. این سطح از هماهنگی بین منطقه‌ای، غیرمعمول است برای تمرین‌های نظامی در اطراف تایوان، که معمولاً تحت رهبری فرماندهی شرقی انجام می‌شوند. این مانورها ممکن است نشان‌دهنده آمادگی برای سناریویی باشند که در آن دسترسی نیروهای آمریکایی و متحدانشان به تایوان در صورت بروز درگیری محدود شود.
-‏
-‏@artemis_force
-15:03
-1405/08/19
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏🔸چین با دیتاسنتر عظیم ۸۰۰ مگاواتی به جنگ پروژه استارگیت آمریکا می‌رود
-‏
-‏🔹چین ساخت پردیس دیتاسنتر هوش مصنوعی ۸۰۰ مگاواتی گلکسی را آغاز کرده و فاز نخست ۱۲۰ مگاواتی آن را در کمتر از یک سال به بهره‌برداری رسانده است. طبق ارزیابی‌ها، هزینه ساخت این فاز حدود یک‌پنجم نمونه‌های مشابه در آمریکا برآورد می‌شود. هدف نهایی این پروژه رقابت با پردیس ۸۲۰ مگاواتی استارگیت آمریکا تا پایان سال ۲۰۲۷ میلادی است.
-‏
-‏🔹توسعه‌دهندگان چینی به‌جای اتکا به شبکه عمومی، بیش از ۶۰ درصد برق مورد نیاز را از مزارع بادی اختصاصی ۴۲۰ مگاواتی و باتری‌های ذخیره‌ساز تأمین می‌کنند. با وجود پیشرفت چشمگیر در احداث سالن‌ها و سیستم‌های توزیع برق، تحریم‌های آمریکا روی تراشه‌های پیشرفته انویدیا همچنان چالش بزرگی برای چین محسوب می‌شود.
-‏⚙️#TECH
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-15:03
 1405/08/19
