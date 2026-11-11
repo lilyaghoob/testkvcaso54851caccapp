@@ -1,3 +1,27 @@
+src :@Farsi_Iranwire
+[عکس]
+‏روزنامه «نیویورک‌ تایمز» گزارش داد اسکات بسنت، وزیر خزانه‌داری آمریکا، پس از دریافت تهدیدهایی منتسب به جمهوری اسلامی، خانه‌اش را ترک کرده و به یک پایگاه نظامی منتقل شده است. این روزنامه به نقل از سه فرد مطلع نوشت مقام‌های آمریکایی در هفته‌های اخیر ارزیابی کرده‌اند که طرح‌های منتسب به ایران علیه مقام‌های کنونی و پیشین آمریکا وارد مرحله پیشرفته‌تری شده است. اطلاعات مربوط به تهدیدهای علیه بسنت نیز در شکل‌گیری این ارزیابی نقش داشته است.
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160075
+‏
+‏@Farsi_Iranwire
+11:07
+1405/08/20
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Türkiye has issued a NAVTEX for survey work by the French-flagged vessel Abeille Marengo on an Eastern Mediterranean cable route, saying Turkish authorities approved the lines.
+‏
+‏READ MORE
+11:05
+1405/08/20
+
+
+
+
 src :@guard_warriors
 [عکس]
 ‏✪ وزارت دفاع روسیه برای اولین بار از رهگیری موشک‌های کروز AGM-188a Rusty Dagger، که بیشتر با نام ERAM شناخته می‌شوند، خبر داد.
@@ -2701,19 +2725,6 @@ src :@selena_updates
 
 
 
-src :@ClashReport
-[عکس]
-‏Renewed Ukrainian drone strikes have reduced Russia’s oil refining capacity by around 30% since late October. 
-‏
-‏Nine of Russia’s 35 major refineries were disrupted over the past week, with attacks affecting facilities capable of processing 2.2 million barrels per day.
-‏
-‏Source: Reuters
-02:08
-1405/08/20
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏شرمنده اگه حس شهروند آمریکایی بودن میده وقتی از ثور با تخفیف اشتراک میگیری :)
@@ -3614,15 +3625,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 23:27
-1405/08/19
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏رحم الله شهداء الفرقة الذهبية واجب الأنبار   ناموا بسلام   https://t.me/naya_foriraq
-23:26
 1405/08/19
 
 
@@ -5729,22 +5731,6 @@ src :@Mena_Live
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏بر اساس اطلاعات رسیده به «ایران‌وایر»، «لیلا گلی» ۳۰ساله و قربانی کودک‌همسری روز ۱۳آبان۱۴۰۵ به‌دست همسر سابقش کشته شده است.
-‏
-‏او اهل روستای منبر و ساکن شهر «شاهین‌دژ» در استان آذربایجان غربی بود.
-‏
-‏لیلا گلی قربانی کودک‌همسری بود و سال‌ها قبل در سن ده سالگی به‌اجبار به عقد مردی که ۱۳سال از او بزرگتر بود درآمد. در همه سال‌های زندگی مشترک با خشونت جسمی و روانی، خیانت‌های متعدد همسر و اعتیاد او روبرو بود
-‏بخوانید: https://iranwire.com/fa/news-1/160052
-‏
-‏@Farsi_Iranwire
-18:21
-1405/08/19
-
-
-
-
 src :@warmonitors
 ‏⚡#BREAKING Yemen’s Houthis say they attacked an Aramco facility in Abqaiq and a financial center in Riyadh
 ‏
@@ -6191,34 +6177,6 @@ src :@didarnews1
 
 src :@defence_news
 [عکس]
-‏📱 سرویس های یک ماهه OPENVPN ❤️
-‏
-‏
-‏🚀 پلن‌های ویژه نامحدود:
-‏
-‏👤 تک‌کاربره — 350 تومان
-‏
-‏👥 دوکاربره — 550 تومان
-‏
-‏ 👥سه‌کاربره — 750 تومان
-‏
-‏🟢 بدون محدودیت حجم 
-‏📱 مخصوص دانلود و کارهای با حجم بالا و پهنای باند اختصاصی
-‏
-‏⚡️پشتیبانی سریع و با کیفیت. در صورتی هر گونه مشکل بدون هزینه تعویض میگردد
-‏
-‏
-‏📩 برای خرید و دریافت سریع:
-‏
-‏😎@CFoxSupport
-16:30
-1405/08/19
-
-
-
-
-src :@defence_news
-[عکس]
 ‏قیمت نفت برنت حدود ۹۰ دلار است که دلیل اصلی آن اخبار مذاکرات و ادعای پایان جنگ و امثالهم است و البته ممکن است موقتی نیز باشد برای کاهش تا آخرین پله ممکن قبل از جنگ 
 ‏
 ‏@Minas_Tirith2024
@@ -6421,6 +6379,18 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 15:19
+1405/08/19
+
+
+
+
+src :@defence_news
+[عکس]
+‏موشک کروز جدیدی در رونمایی شهر موشکی جدید هوافضای قهرمان مملکت ایران دیده شده که عزیزان سانسور کردند
+‏
+‏
+‏@RedLionCorps
+15:18
 1405/08/19
 
 
