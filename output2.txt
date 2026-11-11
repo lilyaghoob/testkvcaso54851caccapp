@@ -1,3 +1,48 @@
+src :@guard_warriors
+‏✪ وزارت دفاع تایوان قصد دارد در سال 2027، 1.9 میلیون دلار برای توسعه یک سیستم جایگزینی سیگنال‌های ناوبری اختصاص دهد. این سیستم برای فریب پهپادهای چینی در حین انجام ماموریت‌های پروازی در اطراف جزیره طراحی شده است. بر خلاف تجهیزات جنگ الکترونیک که با ایجاد اختلال در ناوبری، سعی در "کور کردن" پهپاد دارند، این سیستم جدید از تکنیک جعل سیگنال (spoofing) استفاده خواهد کرد تا پهپاد دشمن را وادار به پرواز در مسیرهای نادرست کند.
+‏
+‏@Guard_Warriors | Mmd
+20:32
+1405/08/20
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴مارکو روبیو:
+‏
+‏در نهایت آدم باید غذا بخورد. در نهایت واقعیت‌های اقتصادی به مغز حتی رادیکال‌ترین دیوانه هم نفوذ می‌کند. بنابراین فکر می‌کنم با گذشت زمان این فشارها تأثیر خود را روی ایران خواهد گذاشت.
+‏
+‏@MilitarryWorld | Parsa
+20:31
+1405/08/20
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇷🇺🇦🇲⚡️ — Following the CSTO summit in Moscow, the leaders of the Russian-led organization agreed to strip Armenia of its veto rights as a result of Armenia not fulfilling its membership obligations. 
+‏
+‏Armenia was notably absent from the summit.
+20:30
+1405/08/20
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏I've been asked this question several times and have already addressed it, but I've seen claims circulating that Iran used a Fattah-1 warhead mounted on a Kheibar Shekan booster, based solely on the fact that the boosters shown in the footage are unpainted.
+‏
+‏This claim is incorrect. The Fattah-1 and Kheibar Shekan share an identical booster design, or at the very least, one that is extremely similar. Unpainted boosters are therefore not evidence of a different missile configuration.
+20:28
+1405/08/20
+
+
+
+
 src :@warmonitors
 ‏⚡Iran’s Qalibaf tells Al Jazeera that Iran has no desire for the war to continue and prioritizes peace, provided its demands are met
 ‏
@@ -588,17 +633,6 @@ src :@selena_updates
 ‏
 ‏We have reached an advanced level in the field of electronic warfare, which enables us to take control of American UAVs and land them safely.
 19:45
-1405/08/20
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Russian Ambassador to the U.S. Alexander Darchiev has died at the age of 66, Russia’s Foreign Ministry announced.
-‏
-‏READ MORE
-19:44
 1405/08/20
 
 
@@ -2807,17 +2841,6 @@ src :@MilitarryWorld
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — OpenAI's adjusted operating losses climbed to $10.9 billion in the third quarter, up from $10.1 billion in the previous quarter, despite a roughly 50% increase in revenue to $10 billion, according to WSJ.
-‏
-‏OpenAI's adjusted operating margin improved from negative 150% to negative 109%, but losses remained substantial. The figures exclude $2.6 billion in stock-based compensation.
-16:34
-1405/08/20
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#NEWS | 🇷🇺 🇨🇳 🇺🇸 — Russia's effort to replace the US dollar with the yuan in international trade has largely failed due to American secondary sanctions. 
@@ -3115,16 +3138,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 15:47
-1405/08/20
-
-
-
-
-src :@MilitarryWorld
-‏🔴نتانیاهو امروز جلسه‌ای امنیتی با وزیر جنگ و سایر مقامات ارشد برگزار خواهد کرد.
-‏
-‏@MilitarryWorld | Parsa
-15:44
 1405/08/20
 
 
@@ -4475,21 +4488,6 @@ src :@Exciton_missile_program
 ‏✒️#LT
 ‏📃@Cataphract1
 11:14
-1405/08/20
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏✪ وزارت دفاع روسیه برای اولین بار از رهگیری موشک‌های کروز AGM-188a Rusty Dagger، که بیشتر با نام ERAM شناخته می‌شوند، خبر داد.
-‏
-‏این مهمات دوربرد و ارزان‌قیمت، که به طور خاص برای تولید انبوه و استفاده در اوکراین طراحی شده است، از سال 2024 توسط ایالات متحده در حال توسعه است، و تحویل آن طبق قرارداد برای ماه اکتبر سال 2026 برنامه‌ریزی شده بود.
-‏
-‏اولین موارد احتمالی و محدود از استفاده اوکراین از موشک‌های Rusty Dagger در ماه ژوئن و ماه آگوست ثبت شده بود، اما هنوز نمی‌توان با قطعیت در مورد این موضوع صحبت کرد.
-‏
-‏@Guard_Warriors | Mmd
-11:02
 1405/08/20
 
 
