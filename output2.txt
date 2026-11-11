@@ -1,3 +1,61 @@
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸 - Qalibaf, Iranian Parliament Speaker and their Chief negotiator:   There will be no negotiations with the U.S. unless Iran's seven conditions are accepted.  @GeoPWatch
+21:17
+1405/08/20
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸 - Qalibaf, Iranian Parliament Speaker and their Chief negotiator: 
+‏
+‏There will be no negotiations with the U.S. unless Iran's seven conditions are accepted.
+‏
+‏@GeoPWatch
+21:16
+1405/08/20
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇷🇺❌🇦🇲 — Armenia has been stripped of its voting rights and the right to appoint its representatives to key positions within the Collective Security Treaty Organization (CSTO) due to its prolonged failure to fulfil its obligations within the organization.
+‏
+‏@IntelSlava
+21:15
+1405/08/20
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇶🇮🇷 The New Region: Iraqi intelligence has uncovered a major oil smuggling operation through state‑owned pipelines in Jurf al‑Nasr, Babil province, running for five years since 2021. 
+‏
+‏The area is controlled by the Iran‑backed Kataib Hezbollah.
+‏
+‏A classified report says oil was loaded at a small site and primitive depot seven kilometres from the pipeline, then moved to Baghdad via three routes using dozens of 36,000‑litre tanker trucks. 
+‏
+‏@wfwitness
+21:14
+1405/08/20
+
+
+
+
+src :@mohem_mat
+‏نعیم قاسم دبیرکل حزب‌الله لبنان: 
+‏
+‏ایران با توافق‌نامه اسلام آباد به ما کمک کرد و سبب کاهش تنش در لبنان شد
+‏
+‏@mohem_mat
+21:13
+1405/08/20
+
+
+
+
 src :@naya_foriraq
 ‏🇾🇪العميد يحيى السريع: 
 ‏شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 93 غارة جوية استهدف بها الأعيان المدنية في محافظات لحج وتعز والجوف وحجة ومأرب وذمار وذلك من خلال طائرات "F-15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف وخلفت شهداء وجرحى من المدنيين.
@@ -147,6 +205,8 @@ src :@Artemis_Force
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏حملات جنگنده‌های اسرائیلی به مواضع حزب الله در جنوب لبنان
+‏
+‏🆔@WAR_ROOM_NEWS
 21:00
 1405/08/20
 
@@ -1050,20 +1110,6 @@ src :@wfwitness
 ‏@wfwitness
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:57
-1405/08/20
-
-
-
-
-src :@mohem_mat
-‏اینستاگرام باید هر دو روز یک کلیپ هشدار پخش کنه که آقا یا خانم بیننده، هشتاد درصد ویدیوهایی مثلا دوربین مخفی، صحنه‌‌های بامزه مثلا تصادفی گرفته شده، مصاحبه‌های خیابانی و حتی اعتراف‌های عجیب افراد  کاملا ساختگی و صحنه سازی است.
-‏
-‏× این در مورد اینستاگرام ایرانی بیشتر صدق میکند
-‏
-‏🔗 Alireza Shirazi | علیرضا شیرازی (@alirezashirazi) 
-‏
-‏@mohem_mat
 19:57
 1405/08/20
 
@@ -3622,16 +3668,6 @@ src :@DEJradio
 
 
 
-src :@intelslava
-‏🇮🇹⚡️ — Italian police evacuated 300 schools across several regions following email threats warning of possible bombs on the premises.
-‏
-‏@IntelSlava
-15:14
-1405/08/20
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏پنج درس از کسایی که اسمشون لرزه به تن دنیا مینداخت!
@@ -5280,24 +5316,6 @@ src :@BellumActaNews
 
 
 
-src :@GeoPWatch
-‏🇷🇺❌🇱🇹 - Red Level Air Raid Alert in Lithuania after drones have entered the airspace. NATO fighters jets have reportedly been scrambled.  @GeoPWatch
-03:17
-1405/08/20
-
-
-
-
-src :@GeoPWatch
-‏🇷🇺❌🇱🇻🇱🇹 -  Lithuania’s National Crisis Management Centre reports that 3 of the 4 tracked objects are currently in Latvian airspace, while the fourth is over Lithuania.
-‏
-‏@GeoPWatch
-03:13
-1405/08/20
-
-
-
-
 src :@OSINTWarfare
 ‏🇱🇹🇷🇺🇺🇦⚡️ — The Lithuanian Armed Forces report that NATO fighter aircraft have been scrambled from Šiauliai Air Base following a RED air attack warning issued for the Druskininkai and Lazdijai districts.
 ‏
@@ -6397,120 +6415,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate
 21:22
-1405/08/19
-
-
-
-
-src :@mamlekate
-[عکس]
-‏📞 ببینید چطور از مردم بیچاره نوسان میگیرن:  تتر را تا حدود ۲۰۰ هزار تومن پایین آوردن  و بعد معاملات تتر را تعلیق کردن حتی چارتش را تعلیق کردن
-‏
-‏📞 اینکارا فراتر از نوسان گیریه. با اینکاراشون میخوان ثابت بودن ارزش دلارِ دست مردم رو خراب کنند تا دیگه دلار به عنوان پول مرجع معاملات مهم بازار نباشه.
-‏
-‏💎 توی دولت قبلی اصلاحات (روحانی)، سال ۹۷ بعد از خروج ترامپ از برجام (اردیبهشت)، که همتی رئیس بانک مرکزی شد (مرداد)، ظرف ۲ ماه دلار سقف ۲۰ هزار رو زد (مهر) بعد خیلی سریع تا مرز ۱۰–۱۱ هزار ریخت (آذر)؛ یعنی نزدیک ۵۰٪ سقوط از سقف فقط در کمتر از ۳ ماه!
-‏
-‏@mamlekate
-21:15
-1405/08/19
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏↩️ Quoted tweet: Ben Tzion Macales ✓  @BenTzionMacales  האיראנים מבצעים ירי טילים בליסטיים באופן יומיומי כבר כמה שבועות ללא הפסקה, במסגרת תרגילים של הפיקודים השונים ברחבי המדינה.  תוהה אם הם מודעים לזה שהם מבזבזים את הנשק האסטרטגי שלהם... לא שאני מתלונן או…
-21:14
-1405/08/19
-
-
-
-
-src :@Shin_Persian
-‏↩️ Quoted tweet:
-‏Ben Tzion Macales ✓ @BenTzionMacales
-‏
-‏האיראנים מבצעים ירי טילים בליסטיים באופן יומיומי כבר כמה שבועות ללא הפסקה, במסגרת תרגילים של הפיקודים השונים ברחבי המדינה.
-‏
-‏תוהה אם הם מודעים לזה שהם מבזבזים את הנשק האסטרטגי שלהם...
-‏לא שאני מתלונן או משו
-‏
-‏↩️ Quoted tweet — see the post below for the reply.
-‏
-‏English
-‏
-‏The Iranians have been launching ballistic missiles daily for several weeks without interruption, as part of exercises by various commands across the country.
-‏
-‏I wonder if they realize they’re wasting their strategic weapons...
-‏Not that I’m complaining or anything.
-‏
-‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏ایرانی‌ها چند هفته است که هر روز و بدون وقفه موشک‌های بالستیک شلیک می‌کنند؛ آن هم در چارچوب رزمایش‌های فرماندهی‌های مختلف در سراسر کشور.
-‏
-‏نمی‌دانم خودشان متوجه‌اند که دارند تسلیحات راهبردی‌شان را هدر می‌دهند یا نه...
-‏نه این‌که شکایتی داشته باشم یا چیزی.
-‏
-‏𝕏  ·  @shin_persian
-21:14
-1405/08/19
-
-
-
-
-src :@Navy_Iranian
-‏Iranian Naval Force pinned a photo
-21:14
-1405/08/19
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏تصویری از عرشه داخلی ناو کامستاک LSD-45 از ناوگروه باکسر 
-‏
-‏3 تصاویر مختلف از عرشه داخلی این ناو منتشر شده که در تصاویر یک فروند لندینگ کرفت LCM-8  و یک فروند لندلینگ کرفت  LCU 1610 مشاهده شد که هردو آنها خودروی تاکتیکال  JLTV حمل میکنند.
-‏
-‏وجود لندینگ کرفت و خودرو های تاکتیکال به معنی برنامه مشخصی برای عملیات آبی خاکی نیست و صرفا یک ناو آبی خاکی همانند کامستاک که نقش ویژه آن آبی خاکی است ، میباست همچین تجهیزاتی داشته باشد. حضور ناوهای آبی خاکی همانند کامستاک صرفا وجود یک ظرفیت آبی خاکی در نزدیکی کشورمان برای اجرا عملیات آبی خاکی در صورت لزوم است نه آنکه از قبل برنامه آبی خاکی داشته باشند.
-‏
-‏@Navy_Iranian | #A_A
-21:14
-1405/08/19
-
-
-
-
-src :@Navy_Iranian
-[عکس]
-‏🔵شناسایی و معرفی بازار های سودده
-‏
-‏📊تحلیل و بررسی روزانه طلا و دلار و انس و بورس و خودرو
-‏
-‏📌آموزش صفرتاصد کاملا رایگان
-‏
-‏https://t.me/navasan_tala98
-‏
-‏تحلیل طلای ۳۰ میلیونی و دلار ۳۰۰ هزارتومانی 👇
-‏
-‏https://t.me/navasan_tala98
-21:14
-1405/08/19
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏سازمان عملیات تجارت دریایی بریتانیا (UKMTO) روز سه‌شنبه ۱۹ آبان اعلام کرد گزارشی دریافت کرده است که نشان می‌دهد یک نفتکش در حدود ۱۹ مایل دریایی (حدود ۳۵ کیلومتر) شمال‌شرقی منطقه «لیما» در عمان، هدف اصابت یک پرتابه ناشناس قرار گرفته است.
-‏
-‏این سازمان اعلام کرد که خدمه کشتی در سلامت کامل به سر می‌برند و تا این لحظه هیچ‌گونه گزارشی مبنی بر خسارات زیست‌محیطی منتشر نشده است. همچنین کاپیتان کشتی قصد دارد در نخستین ساعات روز آینده به ارزیابی خسارات وارده بپردازد. این حادثه در ادامه سلسله مخاطرات امنیتی دریایی در آب‌های منطقه رخ داده و رصد وضعیت تردد نفتکش‌ها را دوچندان حساس کرده است.
-‏
-‏خبرگزاری ایسنا به نقل از نیروی دریایی سپاه پاسداران، این حادثه را ناشی از «برخورد با مین در مسیر غیرمجاز» دانست. به گفته ایسنا، این نفتکش در حال سوختن است.
-‏@VahidOOnLine
-‏
-‏📡 @VahidOnline
-21:12
 1405/08/19
