@@ -4466,19 +4466,6 @@ src :@warmonitors
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏دادگاهی در بریتانیا دو مرد ایرانی را به اتهام اقدام در راستای کمک به دستگاه اطلاعاتی ایران مجرم شناخت. مصطفی سپهوند، ۴۱ ساله، در دو اتهام مجرم شناخته شد؛ فرهاد جوادی‌منش، ۴۶ ساله، نیز در یک اتهام محکوم شد. شاپور قلعه‌علی‌خانی نوری، متهم سوم پرونده، از هر دو اتهام تبرئه شد.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160150
-‏
-‏@Farsi_Iranwire
-17:36
-1405/08/21
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🚗😎❗️ — Nvidia has just announced that its founder and CEO Jensen Huang has resigned as CEO effective immediately. 
