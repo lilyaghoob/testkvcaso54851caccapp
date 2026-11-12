@@ -1036,6 +1036,8 @@ src :@ClashReport
 ‏BREAKING: Democrat Scott Colom has defeated Republican Sen. Cindy Hyde-Smith in Mississippi, becoming the first Democrat elected to the U.S. Senate from the state in more than 40 years, CNN projects. 
 ‏
 ‏Colom, 43, also becomes the first Black person elected to statewide office in Mississippi since Reconstruction.
+‏
+‏READ MORE
 01:41
 1405/08/21
 
@@ -1049,6 +1051,8 @@ src :@ClashReport
 ‏Both are married. The revelation comes as Nvidia’s board investigates Huang’s separate affair with a Chinese businesswoman identified by U.S. intelligence as a suspected Chinese spy.
 ‏
 ‏Source: NYT
+‏
+‏READ MORE
 01:39
 1405/08/21
 
@@ -5952,20 +5956,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian
 07:58
-1405/08/20
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏بلومبرگ به نقل از یک مقام غربی و بر اساس گزارش‌های اطلاعات نظامی نوشت جمهوری اسلامی با وجود آسیب شدید به صنایع نظامی‌اش طی حملات هوایی آمریکا و اسرائیل، همچنان دست‌کم هزار و ۷۰۰ موشک بالستیک در اختیار دارد و ماهانه حدود ۵۰ موشک جدید تولید می‌کند.
-‏
-‏این خبرگزاری سه‌شنبه ۱۹ آبان گزارش داد ارزیابی‌های اطلاعاتی غربی از باقی ماندن بخش قابل‌توجهی از زرادخانه موشکی جمهوری اسلامی حکایت دارند. میزان کنونی تقریبا نصف ظرفیت تولید پیش از جنگ است، اما توان تهران برای حملات تلافی‌جویانه در صورت ازسرگیری درگیری‌ها را حفظ می‌کند.
-‏
-‏پیت هگست، وزیر دفاع آمریکا، سه‌شنبه در نشستی خبری بار دیگر بر موفقیت عملیات نظامی این کشور تاکید کرد و گفت بیش از ۸۰ درصد زیرساخت صنعتی هسته‌ای ایران نابود شده است. با این حال، به نوشته بلومبرگ، اگرچه بخش عمده توان نظامی متعارف جمهوری اسلامی در حملات آمریکا و اسرائیل از بین رفته است، تهران همچنان توان تولید تسلیحات و حفظ بخشی از ظرفیت حملات موشکی خود را دارد.
-‏@VahidOOnLine
-‏
-‏📡 @VahidOnline
-07:34
 1405/08/20
