@@ -9,20 +9,6 @@ src :@rnintel
 
 
 
-src :@IranintlTV
-[عکس]
-‏یک شهروند با ارسال پیامی به ایران اینترنشنال خبر داد که معلم مدرسه‌ای در کرمانشاه از خواندن انشایی که یک دانش‌آموز درباره سرکوب و کشتار اعتراضات انقلاب ملی ۱۴۰۴ نوشته بود،‌ جلوگیری کرده است.
-‏
-‏این دانش‌آموز مدرسه در انشای خود از امید معترضانی گفته بود که به خیابان رفتند و برنگشتند. در بخشی از این انشا آمده است: «در میان آن جمعیت، پسری را دیدم که آرزوهایش را مثل گنجی در سینه پنهان کرده بود و هزاران رویای کوچک دیگر. شاید آرزو داشت روزی با لبخند، کلید ماشینش را در دست بچرخاند و آینده‌ای روشن فکر کند. اما آن شب، نگاهش به دوردست‌ها دوخته شده بود؛ انگار چیزی فراتر از تمام آرزوهایش می‌خواست: فردایی که در آن، زندگی زیباتر باشد.»
-‏
-‏او در بخش پایانی انشای خود نوشت: «ای کاش هیچ‌کس مجبور نبود برای فردایی روشن، با زندگی‌اش خداحافظی کند.»
-‏https://iranintl.com/202611125399
-00:19
-1405/08/22
-
-
-
-
 src :@MilitarryWorld
 ‏🔴پولیتیکو: ترامپ ونس را از مذاکرات ایران کنار گذاشت
 ‏
@@ -1118,34 +1104,8 @@ src :@BellumActaNews
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: Jensen Huang reportedly had an intimate relationship with a second Nvidia employee, in addition to two previously disclosed extramarital affairs that led to his resignation Thursday.
-‏
-‏The two other women are Alice Huang, suspected by U.S. intelligence of being a Chinese spy, and Nvidia Vice President Kimberly Powell.
-‏
-‏Source: Reuters
-‏
-‏READ MORE
-23:02
-1405/08/21
-
-
-
-
 src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 An Israeli tank, stationed in the town of Qantara, targeted Mount al-Ghandouriya near Wadi Hujeir, in southern Lebanon, with several shells.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-23:02
-1405/08/21
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Zelensky says Ukraine’s first Swedish Gripen fighter jets should arrive in January or February 2027, and that Kyiv is pressing Stockholm to accelerate the transfer.
-‏
-‏READ MORE
 23:02
 1405/08/21
 
@@ -2305,6 +2265,18 @@ src :@Artemis_Force
 
 
 
+src :@IranintlTV
+[عکس]
+‏شبکه کان اسرائیل پنج‌شنبه ۲۱ آبان به نقل از یک مقام آمریکایی گزارش داد فرماندهی مرکزی آمریکا در روزهای اخیر به نمایندگان ارتش اسرائیل در ایالات متحده پیام داده است که برای احتمال ازسرگیری جنگ با ایران آماده شوند.
+‏بر اساس این گزارش، پیام‌های مشابهی از طریق کانال‌های امنیتی به اسرائیل و کشورهای خلیج فارس منتقل شده است تا برای احتمال ازسرگیری جنگ در آینده نزدیک آماده باشند. کان افزود این پیام‌ها با اظهارات اخیر دونالد ترامپ مبنی بر اینکه نیازی به ازسرگیری عملیات نظامی علیه ایران نمی‌بیند، در تضاد است.
+‏کان همچنین گزارش داد آمریکا همچنان در حال انتقال تجهیزات به خاورمیانه است و دو ناو هواپیمابر «جورج واشینگتن» و «جورج بوش» در منطقه حضور دارند و سومین ناو نیز قرار است هفته آینده به دریای عرب برسد.
+‏https://iranintl.com/202611129101
+21:54
+1405/08/21
+
+
+
+
 src :@mohem_mat
 ‏وال‌استریت‌ژورنال: 
 ‏
@@ -2887,15 +2859,6 @@ src :@intelslava
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇱🇫🇷⚡️ — Israel has banned French left-wing presidential candidate Jean-Luc Mélenchon from entering the Jewish state after he vowed that French vessels would accompany activists hoping to force aid into Gaza if he were elected.
-21:21
-1405/08/21
-
-
-
-
 src :@mohem_mat
 ‏وزیر کشور بلژیک مدعی شد
 ‏
@@ -2999,14 +2962,6 @@ src :@BellumActaNews
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
 ‏➖➖➖➖➖➖
 ‏@BellumActaNews
-21:14
-1405/08/21
-
-
-
-
-src :@tabzlive
-‏🇮🇷⚡️ — Explosions in the Strait of Hormuz. IRGC Navy attack.
 21:14
 1405/08/21
 
@@ -6424,23 +6379,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 00:30
-1405/08/21
-
-
-
-
-src :@P_raetorio
-‏Praetorio pinned Deleted message
-00:25
-1405/08/21
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷/🇪🇺 BREAKING: Iran’s top security chief, Mohsen Rezaee, says U.S. bases in Europe will become ‘legitimate targets’ for Iranian missile strikes if another aggression against Iran is carried out
-‏
-‏@Middle_East_Spectator
-00:22
 1405/08/21
