@@ -1,3 +1,12 @@
+src :@rnintel
+[عکس]
+‏🇺🇸⚡️- Elon Musk says it would be an honor to hire Jensen Huang.
+04:56
+1405/08/21
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️خبرگزاری دولتی عربستان سعودی (واس) بامداد پنجشنبه ۲۱ آبان به نقل از سازمان دفاع مدنی این کشور گزارش داد که بقایای دو موشک بالستیک شلیک‌شده حوثی‌ها به سمت منطقه مکه، پس از رهگیری و انهدام، در مناطقی از جمله روستای سبوحه سقوط کرده است.
@@ -4684,16 +4693,6 @@ src :@tglobaleye
 
 
 
-src :@rnintel
-‏🇺🇸🇷🇺🇨🇳⚡️- Russia's attempt to replace the US dollar with China's yuan in international trade has largely collapsed under pressure from American secondary sanctions, according to Bloomberg. The yuan's share of payments for Russian exports has fallen by half from its 2024 peak to just 22%, despite growing trade between Moscow and Beijing.
-‏
-‏Chinese banks, fearing American sanctions, have increasingly refused or delayed Russian transactions, which forces businesses to rely on intermediaries and alternative currencies. Russia now receives 69% of its export revenue from Asian countries in rubles. The reversal shows the enormous reach of American financial power and the limitations of China's efforts to establish the yuan as an international alternative to the dollar.
-16:25
-1405/08/20
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«حسین طائب»، رییس سازمان بسیج مستضعفین، از برنامه‌ریزی برای گسترش اردوهای راهیان نور با محوریت جنگ‌های اخیر جمهوری اسلامی با آمریکا و اسرائیل خبر داده است. هدف این برنامه، پیوند دادن جنگ‌های اخیر با جنگ هشت‌ساله ایران و عراق و انتقال روایت رسمی حکومت از این رویدادها به نسل جوان است.
@@ -6070,44 +6069,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 05:13
-1405/08/20
-
-
-
-
-src :@mwarmonitor
-‏🔴 نیویورک‌تایمز:
-‏
-‏اسکات بسنت، وزیر خزانه‌داری آمریکا، اخیراً پس از دریافت تهدیدهایی از سوی ایران علیه جانش، محل سکونت خود را ترک کرده و به یک پایگاه نظامی منتقل شده است. این موضوع را سه منبع آگاه از این مسئله تأیید کرده‌اند.
-‏
-‏به گفته این منابع، مقام‌های آمریکایی طی هفته‌های اخیر به این جمع‌بندی رسیده‌اند که اقدامات و توطئه‌های ایران علیه مقام‌های فعلی و پیشین آمریکا وارد مرحله پیشرفته‌تری شده است.
-‏
-‏این ارزیابی تا حدی بر اساس اطلاعات محرمانه‌ای صورت گرفته که به تهدیدهای مطرح‌شده علیه اسکات بسنت مربوط می‌شود.
-‏
-‏این منابع به دلیل حساسیت اطلاعات، به شرط ناشناس ماندن با نیویورک‌تایمز گفت‌وگو کرده‌اند.
-‏
-‏@mwarmonitor
-05:01
-1405/08/20
-
-
-
-
-src :@mwarmonitor
-[عکس]
-‏⚠️لغو یک انتقال غیرمعمول جنگنده‌های F-35؟
-‏
-‏✈️قرار بود در مقطعی از هفته جاری، محموله دیگری از جنگنده‌های F-35 لایتنینگ ۲ برای تحویل به مشتریان در آن سوی اقیانوس اطلس منتقل شود.
-‏
-‏✈️صبح امروز به نظر می‌رسید دو فروند هواپیمای سوخت‌رسان برای پشتیبانی از این انتقال به پرواز درآمده‌اند، اما هر دو هواپیما در حال حاضر، به دلایل نامشخص، در مسیر بازگشت به پایگاه مبدأ خود هستند.
-‏
-‏🔸نکته قابل‌توجه اینکه هواپیمای سوخت‌رسان مستقر در سمت آمریکا، خود را به‌عنوان یک هواپیمای سوخت‌رسان ژاپنی معرفی می‌کند؛ موضوعی که ممکن است اطلاعات شناسایی صحیحی نباشد.
-‏
-‏مشخصات هواپیماها:
-‏
-‏- KC-767 با شناسه BLUE21، شماره 54-3615 و کد راداری 8C5805
-‏- KC-135R با شناسه BLUE22، شماره 58-0004 و کد راداری AE04B7
-‏
-‏@mwarmonitor
-04:56
 1405/08/20
