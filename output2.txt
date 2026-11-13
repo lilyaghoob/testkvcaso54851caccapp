@@ -1,3 +1,59 @@
+src :@MilitarryWorld
+‏🔴در حال حاضر یک کشتی در تنگه هرمز دچار آتش‌سوزی شده است
+‏
+‏@MilitarryWorld | Parsa
+23:30
+1405/08/22
+
+
+
+
+src :@naya_foriraq
+‏العميد يحيى سريع: استهدفت القوات المسلحة تحشيدات العدو السعودي التابعة للضابط السعودي بدر الحربي في منطقة خرز وخور عميرة بمحافظة لحج بعدد من الصواريخ الباليستية وكانت الإصابة مباشرة وخلفت عددا كبيرا من القتلى والجرحى.
+‏
+‏https://t.me/naya_foriraq
+23:29
+1405/08/22
+
+
+
+
+src :@rnintel
+‏🇺🇸🇬🇧⚡️- One source reports that RAF Lakenheath and the other bases have been on lockdown for the past 4 hours.
+23:29
+1405/08/22
+
+
+
+
+src :@GeoPWatch
+‏🇾🇪❌🇾🇪🇸🇦 – The Houthis (Ansarallah) claimed to have destroyed "enemy Saudi weapons depots" in the Ras Abbas camp in Aden, the capital of the Saudi-backed PLC.
+‏
+‏@GeoPWatch
+23:28
+1405/08/22
+
+
+
+
+src :@tabzlive
+‏🇬🇧⚡️ — Sirens sounded at RAF Lakenheath due to UAV activity. RAF Mildenhall and RAF Feltwell is unknown.
+23:27
+1405/08/22
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
+‏@iranintlTV
+23:27
+1405/08/22
+
+
+
+
 src :@GeoPWatch
 ‏⚡️🇬🇧 – Reports indicate the bases have been on lockdown for around 4 hours and remain that way, despite British authorities communicating that the incident is over.
 ‏
@@ -29,6 +85,8 @@ src :@Alibk3
 ‏المتحدث باسم القوات المسلحة اليمنية، العميد يحيى سريع:
 ‏
 ‏تمكنت قواتنا المسلحة بفضل الله من استهداف مخازن الأسلحة التابعة للعدو السعودي في معسكر رأس عباس بمحافظة عدن بعدد من الصواريخ الباليستية والطائرات المسيرة وكانت الإصابة دقيقة بفضل الله وأدت إلى احتراقها.
+‏
+‏وكذلك استهدفت القوات المسلحة تحشيدات العدو السعودي التابعة للضابط السعودي بدر الحربي في منطقة خرز وخور عميرة بمحافظة لحج بعدد من الصواريخ الباليستية وكانت الإصابة مباشرة وخلفت عددا كبيرا من القتلى والجرحى.
 23:24
 1405/08/22
 
@@ -58,14 +116,6 @@ src :@bricsnews
 ‏JUST IN: 🇸🇻🇭🇹 El Salvador President Nayib Bukele deploys armed robot dogs to hunt down gangs in Haiti.
 ‏
 ‏@BRICSNews
-23:23
-1405/08/22
-
-
-
-
-src :@naya_foriraq
-‏🇺🇸🇬🇧غارات تدوي في كل القواعد العسكرية الأمريكية في لندن.  https://t.me/naya_foriraq
 23:23
 1405/08/22
 
@@ -2406,16 +2456,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@naya_foriraq
-‏🇮🇶رئيس مجلس محافظة بابل: اللجنة العليا أكملت مهمتها في جرف النصر وعادت الى بغداد.
-‏
-‏https://t.me/naya_foriraq
-20:46
-1405/08/22
-
-
-
-
 src :@intelslava
 ‏🇪🇺🇷🇺⚡ Kaja Kallas urged EU countries not to discuss European security with Russia, calling the talks “a Russian trap.”
 ‏
@@ -3651,17 +3691,6 @@ src :@Alibk3
 [عکس]
 ‏خام برنت يقفز إلى 96 دولارًا للبرميل الواحد.
 18:29
-1405/08/22
-
-
-
-
-src :@MilitarryWorld
-‏🔴آکسیوس:
-‏رئیس موساد از سوی نتانیاهو به آمریکا فرستاده شده است تا با ارائه اطلاعاتی فوق سری درباره ایران، ترامپ را تحت فشار قرار بدهد که مجوز جنگ با ایران را صادر کند.
-‏
-‏@MilitarryWorld | Parsa
-18:27
 1405/08/22
 
 
@@ -4980,14 +5009,6 @@ src :@mwarmonitor
 src :@rnintel
 ‏🌍 - For those curious as to why Microsoft experiencing an outage is such a big deal, much of the world's critical online infrastructure runs using Microsoft technology. Most notably, the US military relies heavily on Microsoft for its IT infrastructure, cybersecurity…
 15:31
-1405/08/22
-
-
-
-
-src :@rnintel
-‏🌍⚡️- Microsoft says that it has begun recovery actions to correct the outage over the past hour, with "actions now completed across portions of affected infrastructure" being gradually restored.  The outage has still yet to be fully resolved, despite going…
-15:28
 1405/08/22
 
 
@@ -6584,28 +6605,6 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 05:55
-1405/08/22
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING  🇮🇷❌🇺🇸🇧🇭 - According to the IRGC’s Tasnim News, the IRGC targeted a U.S. early warning radar in Bahrain.  The IRGC have claimed they destroyed the radar system, this remains unconfirmed for now.  @GeoPWatch
-05:55
-1405/08/22
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏#BREAKING 
-‏🇮🇷❌🇺🇸🇧🇭 - According to the IRGC’s Tasnim News, the IRGC targeted a U.S. early warning radar in Bahrain.
-‏
-‏The IRGC have claimed they destroyed the radar system, this remains unconfirmed for now.
-‏
-‏@GeoPWatch
-05:54
 1405/08/22
 
 
