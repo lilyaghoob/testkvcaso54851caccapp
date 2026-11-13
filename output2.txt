@@ -1,3 +1,35 @@
+src :@Alibk3
+[عکس]
+‏طائرة حكومية إيرانية تهبط في العاصمة القطرية، الدوحة.
+09:36
+1405/08/22
+
+
+
+
+src :@rnintel
+‏🌍⚡️- Microsoft says that there are "no signs" of a cyberattack being the cause of the global outage. However, Microsoft also says it isn't sure what is causing the global outage as of now.  The outage has been persisting for almost 10 hours.
+09:33
+1405/08/22
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Trump urged Nvidia CEO Jensen Huang to fight for his job before his removal over a Chinese spy scandal.
+‏
+‏Trump reportedly dismissed national security concerns and backed Huang, fearing his removal could hurt the stock market and U.S. AI dominance.
+‏
+‏Huang had gained significant influence over Trump, persuading him to allow certain Nvidia chip sales to China despite opposition from national security hawks.
+‏
+‏Source: NYT
+09:33
+1405/08/22
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸🇫🇷❌🇮🇷🇨🇳 - US Secretary of Treasury Scott Bessent claims a Chinese artificial intelligence model was used in recent hacks that disabled refrigerators in French supermarkets.
@@ -2131,14 +2163,6 @@ src :@thewarreporter
 
 
 
-src :@rnintel
-‏🇺🇸🇷🇺🇬🇧⚡️- U.S. Army Lieutenant Colonel Brandon Tyner, who works with NATO’s Allied Rapid Reaction Corps, has been arrested in Britain on charges of spying for Russia after being caught in a sting operation.
-00:05
-1405/08/22
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇨🇺 - President Donald Trump regarding Cuba:
 ‏
@@ -2666,15 +2690,6 @@ src :@jangaavaran1390
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - For the last hour, all tankers above the Strait of Hormuz have been flying with their transponders off.  @GeoPWatch
 22:57
-1405/08/21
-
-
-
-
-src :@Alibk3
-[عکس]
-‏الاتحاد الأميركي يعلن انسحاب منتخب الولايات المتحدة للناشئين تحت 17 عامًا من بطولة كأس العالم في قطر بسبب مخاوف أمنيّة.
-22:56
 1405/08/21
 
 
@@ -6100,21 +6115,4 @@ src :@Parvazdaroj
 [عکس]
 ‏حمله ایران به پایگاه‌های نظامی آمریکا در اروپا  دبیر شورای عالی امنیت ملی: اگر آمریکایی‌ها حمله کنند ما دیگر تنها به پایگاه‌های نزدیک حمله نمی‌کنیم.  اولاً همه آن پایگاه‌های نزدیک را می‌زنیم ثانیاً پایگاه‌های دوردست آمریکا را هم خواهیم زد.  یعنی پایگاه‌های…
 09:51
-1405/08/21
-
-
-
-
-src :@mwarmonitor
-‏🔴 کان: نتانیاهو آماده‌سازی ارتش اسرائیل برای حمله احتمالی به ایران را تسریع کرده است
-‏
-‏🔴شبکه رادیو و تلویزیون اسرائیل (کان) روز چهارشنبه، ۱۱ نوامبر ۲۰۲۶، گزارش داد که کابینه امنیتی اسرائیل به ارتش دستور داده است روند آماده‌سازی برای حمله احتمالی به ایران را تسریع کند.
-‏
-‏🔴هم‌زمان، گزارش‌ها از بروز اختلاف میان بنیامین نتانیاهو و ایال ضمیر، رئیس ستاد کل ارتش اسرائیل، بر سر اقدامات نظامی علیه ایران حکایت دارند. بر اساس گزارش شبکه ۱۲ اسرائیل، ضمیر در جلسات محرمانه بار دیگر با طرح‌های موردنظر نتانیاهو مخالفت کرده و نسبت به پیامدهای احتمالی تشدید تنش با ایران هشدار داده است.
-‏
-‏🔴این تحولات در حالی رخ می‌دهد که گزارش‌ها از اختلاف‌نظر در سطوح سیاسی و نظامی اسرائیل درباره اقدام نظامی احتمالی علیه ایران حکایت دارند.
-‏
-‏
-‏@mwarmonitor
-09:34
 1405/08/21
