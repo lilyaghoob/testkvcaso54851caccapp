@@ -1,5 +1,118 @@
+src :@wfwitness
+‏⚡️🇺🇸 Unconfirmed reports indicate communications problems with ATC radios across in the USA.  @wfwitness
+00:25
+1405/08/23
+
+
+
+
+src :@tabzlive
+‏🇺🇸⚡️ — "Widespread frequency outages" for the nationwide ground stop.
+00:25
+1405/08/23
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡- BREAKING: FAA halts all flights across the US.
+00:24
+1405/08/23
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Elon Musk:
+‏
+‏A petition is underway to reinstate Jensen and I’m signing it too.
+00:24
+1405/08/23
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Initial reports of communications issues for air traffic controller radios across the United States.
+00:24
+1405/08/23
+
+
+
+
+src :@MilitarryWorld
+‏🔴اداره هوانوردی فدرال آمریکا (FAA) دستور توقف تمامی پروازهای خروجی در سراسر ایالات متحده را صادر کرد.
+‏
+‏@MilitarryWorld | Maverick
+00:24
+1405/08/23
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — Iran's IRGC Navy announced that two oil tankers exploded and caught fire after striking naval mines in the Strait of Hormuz a few hours ago while attempting to transit through an "unauthorized route."
+‏
+‏Both vessels had switched off their radar and positioning systems to avoid detection.
+00:24
+1405/08/23
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇸 Unconfirmed reports indicate communications problems with ATC radios across in the USA.
+‏
+‏@wfwitness
+00:24
+1405/08/23
+
+
+
+
+src :@naya_foriraq
+‏🇺🇸الاعلام الاميركي: إدارة الطيران الفيدرالية تصدر قراراً بوقف جميع رحلات الطيران على مستوى البلاد.
+‏
+‏https://t.me/naya_foriraq
+00:23
+1405/08/23
+
+
+
+
+src :@ClashReport
+‏BREAKING: U.S. FAA halts all flight departures nationwide.
+00:22
+1405/08/23
+
+
+
+
+src :@tabzlive
+‏🇺🇸⚡️ — BREAKING: Nationwide ground stop across the United States.
+00:22
+1405/08/23
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇮🇷 The IRGC Navy announced that an hour ago, two tankers attempting to illegally transit the Strait of Hormuz with their radar and navigation systems disabled were struck by sea mines, exploded, and caught fire.
+‏
+‏The IRGC Navy warned ship owners and shipping companies that transiting the Strait of Hormuz without coordination with the Navy's traffic control center in the Strait and ignoring Iranian regulations for the Strait will result in consequences like this.
+‏
+‏@wfwitness
+00:22
+1405/08/23
+
+
+
+
 src :@P_raetorio
-‏استفاده از چیپ های آمریکایی/غربی حتی در نمونه های غیر نظامی تازگی ندارد و حتی طبق تصاویر منتشر شده ای از موشک R37M که بازوی نبرد BVR روسیه شناخته می شود از چیپ های آمریکایی غیر نظامی استفاده می شده است، مسئله فنی که هست تراشه های نظامی بر خلاف تصور نیازی به دستگاه EUV هلندی و طراحی آمریکایی در ابعاد های 3 تا 7 میلی متر ندارند زیرا اصلا مناسب نیست برای مصارف نظامی از چیپ های 28 تا 500 نانومتر بسته به کاربرد استفاده می شود که برای ساخت آن دستگاه DUV هم کافی است دلیل آن هم توانایی بالاتر در تحمل گرما،حرارت و مقاومت برابر تششعات فضایی و ارتعاشات و عمر بیشتر و اطمینان پذیری بالا هست البته چین هم اکنون با همان دستگاه های DUV طول موج 193 نانومتر با استفاده تکنیک چند الگودهی چیپ های 7 نانومتر میسازه البته اینکه چین هنوز دنبال دستگاه EUV در انحصار هلند هست دلیل دارد و آن هم کیفیت کم چیپ های زیر 7 نانومتر با تکنیک چند الگودهی هست در رابطه با تراشه مورد نظر احتمالا 500 نانومتر هست زیرا نمونه های مشابه چیپ های پیاده سازی شده روی استاندارد نظامی MIL-STD-1553 با فناوری 500 نانومتر هست و احتمالا این نمونه معماری ASIC دارد و نه FPGA، روسیه توانایی ساخت چیپ های تا 90 نانومتر را به صورت انبوه دارد که ضعف بسیار عمیق این کشور در صنعت نیمه رسانه را نشان می دهد، اما همین میزان برای ساخت چیپ های نظامی کافی است. اینکه روسیه هزینه قاچاق چنین  کالای حساس Daul use را می پذیرد نشان دهنده کیفیت پایین چیپ های داخلی خود است. 
+‏استفاده از چیپ های آمریکایی/غربی حتی در نمونه های غیر نظامی تازگی ندارد و حتی طبق تصاویر منتشر شده ای از موشک R37M که بازوی نبرد BVR روسیه شناخته می شود از چیپ های آمریکایی غیر نظامی استفاده می شده است، مسئله فنی که هست تراشه های نظامی بر خلاف تصور نیازی به دستگاه EUV هلندی و طراحی آمریکایی در ابعاد های 3 تا 7 نانومتر ندارند زیرا اصلا مناسب نیست برای مصارف نظامی از چیپ های 28 تا 500 نانومتر بسته به کاربرد استفاده می شود که برای ساخت آن دستگاه DUV هم کافی است دلیل آن هم توانایی بالاتر در تحمل گرما،حرارت و مقاومت برابر تششعات فضایی و ارتعاشات و عمر بیشتر و اطمینان پذیری بالا هست البته چین هم اکنون با همان دستگاه های DUV طول موج 193 نانومتر با استفاده تکنیک چند الگودهی چیپ های 7 نانومتر میسازه البته اینکه چین هنوز دنبال دستگاه EUV در انحصار هلند هست دلیل دارد و آن هم کیفیت کم چیپ های زیر 7 نانومتر با تکنیک چند الگودهی هست در رابطه با تراشه مورد نظر احتمالا 500 نانومتر هست زیرا نمونه های مشابه چیپ های پیاده سازی شده روی استاندارد نظامی MIL-STD-1553 با فناوری 500 نانومتر هست و احتمالا این نمونه معماری ASIC دارد و نه FPGA، روسیه توانایی ساخت چیپ های تا 90 نانومتر را به صورت انبوه دارد که ضعف بسیار عمیق این کشور در صنعت نیمه رسانه را نشان می دهد، اما همین میزان برای ساخت چیپ های نظامی کافی است. اینکه روسیه هزینه قاچاق چنین  کالای حساس Daul use را می پذیرد نشان دهنده کیفیت پایین چیپ های داخلی خود است. 
 ‏
 ‏ماهان آرمانی 
 ‏
@@ -369,16 +482,6 @@ src :@rnintel
 src :@tabzlive
 ‏🇬🇧🇺🇸⚡️ — Two sources tell DefenceGeek, a UK-based military analyst account with credible ties to these bases, that FPCON Delta has been raised at "one or more" of these bases. FPCON Delta is issued for an imminent or already occuring "terrorist" attack.
 23:58
-1405/08/22
-
-
-
-
-src :@P_raetorio
-‏ارتش دوم جهان و چیپ آمریکایی!
-‏
-‏@P_raetorio
-23:57
 1405/08/22
 
 
@@ -1836,18 +1939,6 @@ src :@cataphract1
 
 
 
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Israeli artillery bombardment targeted the outskirts of Kfar Tebnit in southern Lebanon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:20
-1405/08/22
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 ‏🔶 بیماری مسری حاکمان ایران؛ برگزیدگان آسمانی!
 ‏
@@ -1944,14 +2035,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 22:14
-1405/08/22
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶اشتباه بوجود عجلة تابعة لعصابات داعش الارهابية في قضاء بدري التابع لمحافظة كركوك شمالي العراق.  https://t.me/naya_foriraq
-22:12
 1405/08/22
 
 
@@ -2191,14 +2274,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-‏🇮🇶🏴‍☠️⚡️ — Iraqi security forces are conducting an operation in Kirkuk Governorate following reports of two pickup trucks carrying ISIS fighters driving around. A little while ago, Iraqi armored vehicles [olive green right side] were filmed operating in Altun…
-21:56
-1405/08/22
-
-
-
-
 src :@jangaavaran1390
 ‏روسیه در یک سال، معادل حدود یک‌سال‌ونیم تولید سوخو-۳۴ را از دست داده است.
 ‏
@@ -2400,14 +2475,6 @@ src :@jangaavaran1390
 
 
 
-src :@tabzlive
-‏🇺🇸🇮🇷⚡️ — American UCAVs have been operating around Iranian territory along the Strait of Hormuz for around 50 minutes now. Minutes ago, Iranian air defenses have begun activating for interception attempts.
-21:44
-1405/08/22
-
-
-
-
 src :@Indypersian
 ‏⭕️رفت‌وآمد روزانه زیر فشار سهمیه؛ کارت آزاد جمع‌آوری و بنزین گران‌تر می‌شود
 ‏
@@ -2502,14 +2569,6 @@ src :@rnintel
 src :@rnintel
 ‏🇶🇦🇹🇷⚡- BREAKING: Qatar and Turkey sign a mutual defense agreement.
 21:41
-1405/08/22
-
-
-
-
-src :@wfwitness
-‏⚡️🇮🇷 Initial reports of explosions in Jask, Iran.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-21:40
 1405/08/22
 
 
@@ -2611,33 +2670,6 @@ src :@GeoPWatch
 
 
 
-src :@ClashReport
-[عکس]
-‏In his new memoir, Joe Biden accuses former House Speaker Nancy Pelosi of secretly working to force him out of the 2024 presidential race.
-‏
-‏Biden says Pelosi publicly maintained that the decision to stay in the race was his alone, while privately trying to persuade Democratic officials and delegates to abandon his candidacy.
-‏
-‏Biden:
-‏
-‏Publicly she was still saying it was my decision to make.
-‏
-‏But privately she was working furiously behind the scenes to get elected officials and Biden delegates to defect.
-‏
-‏Biden also accuses Democratic leaders of claiming they would respect his decision while, in reality, accepting only his withdrawal.
-‏
-‏They would say that whether I stayed in the race was my decision to make. And they would respect whatever decision I made.
-‏
-‏In reality, the only decision they would respect would be my decision to exit the race.
-‏
-‏Source: The Atlantic
-‏
-‏READ MORE
-21:36
-1405/08/22
-
-
-
-
 src :@jangaavaran1390
 [عکس]
 ‏یک کیت ساده که می‌توان مهمات‌های سلاح‌های تهاجمی انفرادی موجود را تبدیل به سلاح برای پرتاب ساچمه بر علیه اف پی وی‌ها کرد
@@ -2655,21 +2687,6 @@ src :@Minas_Tirith2024
 ‏
 ‏@Military_Tweet
 21:35
-1405/08/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Joe Biden:
-‏
-‏I carefully monitored how I was meeting the demands of the job. 
-‏
-‏And there is not a single example of me failing to handle my responsibilities.
-‏
-‏Source: The Atlantic
-21:34
 1405/08/22
 
 
@@ -2724,27 +2741,6 @@ src :@mohem_mat
 ‏khabaronline.ir/xqzyv
 ‏@KhabarOnline_ir | khabaronline.ir
 21:26
-1405/08/22
-
-
-
-
-src :@rnintel
-‏🇪🇺🇺🇦🇷🇺⚡️- Russia's ridiculous demands to end the war with Ukraine, as per BILD:
-‏
-‏- Ukraine will not host European troops. 
-‏- Russia to be handed Ukrainian-controlled Donetsk and Lugansk regions.
-‏- Ukraine to 'demilitarize' Odesa and Mykolaiv. 
-‏- Ukraine to no longer attack Russian tankers and vessels, expecting freedom of navigation in the Black Sea as well as the Baltic Sea.
-‏- NATO to withdraw all military bases from the Baltic region.
-‏- Finland to withdraw from NATO.
-‏- Ukraine blocked from joining NATO, but free to join the EU.
-‏- Demanding the federalization of Moldova, with the right to hold referendums for Gagauzia and Transnistria. 
-‏
-‏In return, Russia would:
-‏- Withdraw troops from Transnistria.
-‏- Remove nuclear weapons from Belarus.
-21:25
 1405/08/22
 
 
@@ -3527,16 +3523,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 19:28
-1405/08/22
-
-
-
-
-src :@MilitarryWorld
-‏🔴طبق گزارش‌ها ارتش آمریکا به وسیله پهپاد های انتحاری به قایق های تندروی نظامی سپاه در اسکله شهرستان سیریک حمله کرده است
-‏
-‏@MilitarryWorld | Parsa
-19:27
 1405/08/22
 
 
@@ -6185,6 +6171,22 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 11:54
+1405/08/22
+
+
+
+
+src :@P_raetorio
+[عکس]
+‏🔶 به دنبال حاشیه‌های منتشر شده از واکنش قاطعانه نگهبان مقبره سربازان گمنام (سنتینل) به هیئت همراه وزیر جنگ، مشخص شد که این نظامی وظیفه‌شناس نه‌تنها توبیخ نشده، بلکه مدال ارزشمند خدمات مشترک (JSCM) را مستقیماً از سوی پیت هگست دریافت کرده است.
+‏
+‏🔹 نشان JSCM، به نیروهایی تعلق می‌گیرد که دستاوردی ارزشمند، انضباطی مثال‌زدنی یا خدمتی برجسته را در ساختار مشترک نظامی به ثبت رسانده باشند.
+‏
+‏#خبر
+‏#امریکا
+‏
+‏@RASTAKHIZ_PERSIAN
+11:52
 1405/08/22
 
 
