@@ -1,6 +1,51 @@
+src :@rnintel
+‏🇺🇸⚡️- Secretary of Homeland Security expected to make an announcement within moments to the public, per the BBC.
+01:31
+1405/08/23
+
+
+
+
+src :@rnintel
+‏🇺🇸🇨🇴⚡️- A Bogota - Miami commercial airliner has declared an emergency at it prepares to land in Miami's International Airport.
+01:30
+1405/08/23
+
+
+
+
+src :@mamlekate
+‏✈️ رویترز: زمین‌گیر شدن پروازها در سراسر آمریکا به دنبال قطعی ارتباطات کنترلر ترافیک هوایی
+‏
+‏توقف پروازهای روز جمعه، دومین مورد از توقف سراسری تمامی پروازهای خروجی از زمان حملات ۱۱ سپتامبر ۲۰۰۱ تا کنون به شمار می‌رود. 
+‏
+‏@mamlekate
+01:28
+1405/08/23
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏سي إن إن حول تعليق الرحلات:   التقارير الأولية لا تشير إلى وجود هجوم إلكتروني.
+01:27
+1405/08/23
+
+
+
+
+src :@ManotoTV
+[عکس]
+‏اداره هوانوردی فدرال آمریکا در اقدامی کم‌سابقه، دستور توقف تمامی پروازهای خروجی در سراسر این کشور را صادر کرد. وزیر حمل‌ونقل آمریکا از اختلال گسترده در ارتباطات مراکز کنترل ترافیک هوایی خبر داده است.
+01:27
+1405/08/23
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡️- BREAKING: The ongoing incident behind the nationwide ground stop reportedly started at Chicago's O'Hare International Airport (ORD). It was the first airport to report an "equipment outage".
 01:27
 1405/08/23
 
@@ -150,7 +195,7 @@ src :@wfwitness
 
 src :@rus_cosmos
 [عکس]
-‏اداره هوانوردی فدرال (FAA) به دلیل مشکلات مربوط به فرکانس در کل سیستم ملی حریم هوایی، دستور توقف پروازهای زمینی در سراسر کشور را صادر کرده است.
+‏سازمان هوانوردی فدرال آمریکا (FAA) به‌تازگی به دلیل بروز مشکلاتی در ارتباط با فرکانس‌های مخابراتی در سراسر سامانه ملی فضای هوایی آمریکا، دستور توقف زمینی سراسری پروازها (Ground Stop) را صادر کرده است.
 ‏
 ‏اگر این مشکل حل نشود، احتمالاً بر تلاش امروز برای پرتاب استارشیپ ۱۵ اسپیس ایکس تأثیر خواهد گذاشت.
 ‏
@@ -1800,14 +1845,6 @@ src :@BellumActaNews
 
 
 
-src :@rnintel
-‏🇺🇸🇬🇧⚡️- BREAKING: FPCON DELTA has been raised at "at least one or more" of the bases surrounding RAF Lakenheath.  FPCON DELTA, meaning force protection condition, means an attack is highly likely or ongoing.
-23:37
-1405/08/22
-
-
-
-
 src :@wfwitness
 ‏⚡️🇾🇪🇾🇪 The Houthis announced that they targeted PLC weapons depots in the Ras Abbas camp near Aden, as well as PLC gatherings in Khor Omira and Kharaz, Lahj governorate, causing dozens of casualties.  Both attacks were carried out using ballistic missiles.…
 23:36
@@ -1915,14 +1952,6 @@ src :@MilitarryWorld
 
 
 
-src :@rnintel
-‏🇺🇸🇬🇧⚡️- One source reports that RAF Lakenheath and the other bases have been on lockdown for the past 4 hours.
-23:29
-1405/08/22
-
-
-
-
 src :@GeoPWatch
 ‏🇾🇪❌🇾🇪🇸🇦 – The Houthis (Ansarallah) claimed to have destroyed "enemy Saudi weapons depots" in the Ras Abbas camp in Aden, the capital of the Saudi-backed PLC.
 ‏
@@ -1956,14 +1985,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 23:26
-1405/08/22
-
-
-
-
-src :@rnintel
-‏🇺🇸🇬🇧⚡️- BREAKING: Locals report an armed drone in the airspace of RAF Lakenheath, with the base on "long duration lockdown" due to the infiltration!
-23:25
 1405/08/22
 
 
@@ -7069,24 +7090,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 02:02
-1405/08/22
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏🛑طبق گزارش شبکه خبری MS Now، ایالات متحده آمریکا درصدصد آن هست، ناو هواپیمابر هسته ای جرج بوش و ناوگروه مربوطه اونو همچنان در منطقه نگهداره  @artemis_force
-01:28
-1405/08/22
-
-
-
-
-src :@Exciton_missile_program
-[عکس]
-‏🔸شرکت مرسدس‌بنز یکی از نمادهای صنعتی اروپا پس از مشکلات مالی که گرفتار آن شده اعلام کرده که سرمایه‌گذاری‌های بیشتر در سایت‌های آلمانی خود را متوقف کرده و احتمال تعطیلی کارخانه‌ها را جدی‌تر بررسی می‌کند. طبق این اطلاعیه با ساختار هزینه‌ای فعلی، سرمایه‌گذاری در آلمان دیگر ممکن نیست.
-‏
-‏🔸بحران مالی فقط محدود به مرسدس‌بنز نیست و در کل صنعت خودرو آلمان وجود دارد. دلایل اصلی هم این‌ موارد هستند: هزینه‌های بالای نیروی کار و انرژی در آلمان، رقابت شدید چین، افت سود در بازار چین، تعرفه‌های آمریکا، ظرفیت مازاد تولید و کند بودن فرآیند انتقال به خودروهای برقی
-01:27
 1405/08/22
