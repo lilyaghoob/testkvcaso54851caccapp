@@ -1,3 +1,32 @@
+src :@BellumActaNews
+[عکس]
+‏📢 🇺🇸 ✈️ Airlines are now being told by the Federal Aviation Administration (FAA) that the nationwide outage and resulting ground stop was prompted by a problem with network routers, starting at Chicago Midway International Airport, a source tells CNN.
+‏
+‏📎 OSINTdefender
+03:26
+1405/08/23
+
+
+
+
+src :@wfwitness
+‏⚡️🇺🇲 The incoming chair of the Senate Commerce Committee, Democratic Senator Maria Cantwell, announced that Congress will investigate the reason of the outage which led to the ground stop on Friday, November 13th.  “My team is in contact with the FAA about…
+03:23
+1405/08/23
+
+
+
+
+src :@intelslava
+‏🇺🇸⚡️ — The Federal Bureau of Investigation (FBI) does not believe the nationwide FAA outage was caused by a cyberattack or criminal activity.
+‏
+‏@IntelSlava
+03:22
+1405/08/23
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏🇺🇸❌✈️- Just after 4:00 p.m. EST, the Federal Aviation Administration (FAA) ordered a rare nationwide ground stop for all departing flights, citing “extraordinary circumstances and reasons of safety” following a massive telecommunications failure.
@@ -1318,18 +1347,6 @@ src :@Alibk3
 
 
 
-src :@BellumActaNews
-‏🇺🇸✈️🚫 — The US FAA Command Center told airlines the outage was affecting 10 air traffic control en route centers "and growing," according to a US airline dispatcher speaking to The Air Current.
-‏➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖
-‏@BellumActaNews
-01:20
-1405/08/23
-
-
-
-
 src :@wfwitness
 ‏⚡🇺🇸 Flightradar24 data shows several grounded aircraft at Chicago O’Hare Airport.    @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 01:19
@@ -1351,26 +1368,9 @@ src :@rus_cosmos
 
 
 
-src :@BellumActaNews
-‏🇺🇸⚡️- Law enforcement sources tell CNN the ongoing nationwide ground stop is not believed to be due to a cyberattack.
-01:18
-1405/08/23
-
-
-
-
 src :@tabzlive
 ‏🇺🇸⚡️- Law enforcement sources tell CNN the ongoing nationwide ground stop is not believed to be due to a cyberattack.
 01:18
-1405/08/23
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇸 FlightAware: Nearly 7,000 US flights delayed or cancelled due to nationwide ground stop.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-01:14
 1405/08/23
 
 
@@ -2340,16 +2340,6 @@ src :@GeoPWatch
 src :@Navy_Iranian
 ‏نفت ارزان = کاهش خروج نفت
 23:25
-1405/08/22
-
-
-
-
-src :@intelslava
-‏BREAKING:
-‏
-‏https://t.me/MaxOsintIntel/26428
-23:23
 1405/08/22
 
 
@@ -7040,15 +7030,4 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 04:54
-1405/08/22
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇺🇸🇮🇷 US President Donald Trump says he could end Iran's regime immediately but is choosing a more "civilized" approach.
-‏
-‏@BRICSNews
-03:25
 1405/08/22
