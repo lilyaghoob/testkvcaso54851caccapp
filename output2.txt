@@ -332,16 +332,6 @@ src :@IranintlTV
 
 
 
-src :@tabzlive
-‏An image that we just deleted claiming to show strikes in Bandar Lengeh is old.
-‏
-‏We apologize for the mistake.
-01:46
-1405/08/22
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -457,14 +447,6 @@ src :@Middle_East_Spectator
 
 
 src :@Middle_East_Spectator
-‏🇮🇷🇺🇸⚡️ — Around 13 minutes ago, an explosion was heard in Sirik, coastal southern Iran. This comes amidst American UAV activity in the area.
-01:20
-1405/08/22
-
-
-
-
-src :@tabzlive
 ‏🇮🇷🇺🇸⚡️ — Around 13 minutes ago, an explosion was heard in Sirik, coastal southern Iran. This comes amidst American UAV activity in the area.
 01:20
 1405/08/22
