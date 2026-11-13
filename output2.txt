@@ -1,3 +1,22 @@
+src :@Indypersian
+[عکس]
+‏♦️ابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی روز جمعه ۲۲ آبان اعلام کرد یک کشتی حمل گاز مایع در شرق تنگهٔ هرمز، پس از «بی‌توجهی به اخطارهای مکرر و تلاش برای عبور از مسیری غیرمجاز»، با مین دریایی برخورد کرده و دچار انفجار و آتش‌سوزی شده است.
+‏
+‏در این اطلاعیه آمده است که این کشتی قصد داشته از مسیر جنوبی تنگهٔ هرمز عبور کند و برای این منظور به حمایت جنگنده‌های آمریکایی متکی بوده است.
+‏
+‏روابط عمومی نیروی دریایی سپاه با اشاره به حوادث دریایی پیشین مدعی شد این کشتی از سرنوشت شناورهای قبلی درس عبرت نگرفته بود و برخورد با مین دریایی به انفجاری بسیار شدید منجر شد.
+‏
+‏سپاه پاسداران همچنین هشدار داد هر شناوری که مقررات جمهوری اسلامی در تنگهٔ هرمز را نقض کند و بدون توجه به اخطارهای مرکز کنترل تردد این آبراه وارد مسیرهای غیرمجاز و پرخطر شود، به سرنوشت شناورهای قبلی دچار خواهد شد.
+‏
+‏این اطلاعیه جزئیاتی دربارهٔ نام کشتی، مالکیت آن، میزان خسارت احتمالی یا تلفات جانی منتشر نکرده است.
+‏
+‏@indypersian
+10:09
+1405/08/22
+
+
+
+
 src :@Navy_Iranian
 [عکس]
 ‏نیروی دریایی ایالات متحده برای جنگ همزمان با چین و روسیه آماده‌سازی می‌شود
@@ -102,7 +121,7 @@ src :@MilitarryWorld
 
 
 src :@naya_foriraq
-‏🇮🇷🔻بحرية الحرس الثوري: قبل ساعات، حاولت سفينة لنقل الغاز السائل، متجاهلة التحذيرات المتكررة، عبور مضيق هرمز من مسار غير قانوني وخطير في الجزء الشرقي منه، فاصطدمت بلغم بحري وأدى ذلك إلى انفجار هائل فيها.
+‏🇮🇷🔻بحرية الحرس الثوري: قبل ساعات، حاولت سفينة لنقل الغاز السائل، متجاهلة التحذيرات المتكررة، عبور مضيق هرمز من مسار غير قانوني وخطير في الجزء الشرقي منه، فاصطدمت بلغم بحري وأدى ذلك إلى إنفجار وحريق هائل فيها.
 ‏
 ‏https://t.me/naya_foriraq
 09:58
@@ -249,17 +268,6 @@ src :@IranintlTV
 
 
 
-src :@ClashReport
-[عکس]
-‏Former Nvidia CEO Jensen Huang has been called to testify before Congress over an alleged affair with a suspected Chinese spy. 
-‏
-‏Lawmakers are investigating potential national security risks, while Commerce Secretary Howard Lutnick faces scrutiny over AI chip exports to China.
-09:45
-1405/08/22
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇱🇾 — Naim al-Dhouaybi, a former Libyan militia commander, was sentenced to death alongside 6 of his officers by a Tripoli criminal court for the murder of two women and the kidnapping of their children in 2016. 
@@ -267,17 +275,6 @@ src :@tabzlive
 ‏He was the leader of the 6th Security Division, a Tripoli-based militia which was destroyed by the Rada militia in 2016, leading al-Dhouaybi and his associates to become fugitives and later be arrested on an undisclosed date. 
 ‏
 ‏This is the first time a former militia commander is condemned to death in the GNU-controlled western Libya, challenging the de facto impunity militia leaders were previously enjoying.
-09:42
-1405/08/22
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Iran’s IRGC says it targeted and destroyed a U.S. early-warning radar in Bahrain in retaliation for a U.S. airstrike on a communications tower in Sirik, Iran.
-‏
-‏The IRGC warned of further retaliation if U.S. airstrikes continue.
 09:42
 1405/08/22
 
@@ -3390,16 +3387,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 22:28
-1405/08/21
-
-
-
-
-src :@jangaavaran1390
-‏اختلافات واشنگتن و تهران بر سر توافق هسته‌ای؛ قطر از شکاف عمیق میان دو طرف خبر می‌دهد
-‏
-‏شبکه i24 به نقل از یک مقام آمریکایی گزارش داده است که ایران در مذاکرات با واشنگتن خواسته‌هایی مطرح کرده که از دید آمریکا فراتر از چارچوب قابل‌قبول است. اختلافات دو طرف تنها به مفاد توافق احتمالی محدود نمی‌شود، بلکه درباره ترتیب اجرای تعهدات و اینکه کدام طرف باید نخستین گام را بردارد نیز اختلاف جدی وجود دارد. در همین حال، نخست‌وزیر قطر در گفت‌وگوهای غیرعلنی اذعان کرده که فاصله مواضع تهران و واشنگتن همچنان بسیار زیاد است. یکی از اصلی‌ترین نقاط اختلاف، سرنوشت ذخایر اورانیوم غنی‌شده ایران است؛ آمریکا خواهان خارج کردن این مواد از خاک ایران است، در حالی که تهران با انتقال آن به خارج از کشور مخالفت می‌کند. میزان غنی‌سازی قابل‌قبول برای دو طرف نیز همچنان محل مناقشه است. مقام‌های ایرانی از جمله محسن رضایی تأکید کرده‌اند که هیچ‌یک از مواد هسته‌ای غنی‌شده ایران از کشور خارج نخواهد شد. با وجود تلاش‌های میانجی‌گرانه قطر، هنوز نشانه روشنی از توافق بر سر این مسائل کلیدی دیده نمی‌شود.
-22:25
 1405/08/21
 
 
