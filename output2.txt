@@ -2470,18 +2470,6 @@ src :@P_raetorio
 
 
 
-src :@intelslava
-‏🇬🇧🇺🇸⚡️ — U.S. Air Force security personnel responded to suspected unauthorized drone activity over RAF Lakenheath, Sky News reports, citing an unnamed U.S. Air Force spokesperson. No personnel, aircraft, or infrastructure were affected.
-‏
-‏RAF Lakenheath has separately urged the public to report suspicious activity, including unauthorized drones, around the base.
-‏
-‏@Intelslava
-00:16
-1405/08/23
-
-
-
-
 src :@GeoPWatch
 ‏⚡️🇬🇧 – The incident at British bases appears to be over. 
 ‏
@@ -6915,32 +6903,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
 09:00
-1405/08/22
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇨🇳 China to help restore stability in the Persian Gulf.
-‏
-‏@BRICSNews
-08:41
-1405/08/22
-
-
-
-
-src :@guard_warriors
-[عکس]
-‏نیروی دریایی ایالات متحده برای جنگ همزمان با چین و روسیه آماده‌سازی می‌شود
-‏
-‏مجموعه‌ای از تمرینات نظامی استراتژیک که توسط مرکز تحقیقاتی آمریکایی مؤسسه هاجسون در سال‌های 2024 تا 2026 انجام شد، ضرورت ایجاد نیروهای بازدارنده ویژه را تأیید کرد، که توسط دریاسالار دریل کودل، رئیس ستاد نیروی دریایی ایالات متحده، ترویج می‌شود.
-‏
-‏در این سناریوها، دوره زمانی 2035-2040 در نظر گرفته شده بود، که در آن چین تحصیر دریایی تایوان را اعمال می‌کند، روسیه همزمان فشار خود را بر متحدان اروپایی ناتو افزایش می‌دهد، و در خاورمیانه، درگیری با ایران در منطقه دریای سرخ رخ می‌دهد. 
-‏
-‏در پایان، نتیجه‌گیری شد که استقرار ناو گروه‌های ضربتی، انعطاف‌پذیری کافی را برای مشارکت همزمان در چندین بحران فراهم نمی‌کند،در عوض، نیروی دریایی ایالات متحده پیشنهاد می‌دهد که گروه‌های عملیاتی تخصصی تشکیل شوند، که ترکیب آن‌ها بر اساس مأموریت خاص انتخاب می‌شود. این گروه‌ها می‌توانند شامل کشتی‌های منطقه‌ای ، پلتفرم‌های بدون سرنشین، کشتی‌های پشتیبانی و سایر نیروها باشد
-‏
-‏@artemis_force
-08:40
 1405/08/22
