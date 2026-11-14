@@ -2352,16 +2352,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-‏🔴در حال حاضر یک کشتی در تنگه هرمز دچار آتش‌سوزی شده است
-‏
-‏@MilitarryWorld | Parsa
-23:30
-1405/08/22
-
-
-
-
 src :@Navy_Iranian
 ‏نفت ارزان = کاهش خروج نفت
 23:25
