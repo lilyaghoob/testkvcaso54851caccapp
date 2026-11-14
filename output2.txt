@@ -1,3 +1,38 @@
+src :@rnintel
+‏🇺🇸⚡️Southwest Airlines plans to cancel the rest of their flights today, according to Reuters.
+03:56
+1405/08/23
+
+
+
+
+src :@rnintel
+‏🇺🇸⚡️- President Trump told Fox News it doesn't seem the outage was caused by a cyber attack or AI.
+03:53
+1405/08/23
+
+
+
+
+src :@tabzlive
+‏🇺🇸⚡️ — Fox News reports U.S. Secretary of State Marco Rubio has returned to the White House and is monitoring the ground stop situation with his national security team.
+03:53
+1405/08/23
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، با انتشار پیامی در شبکه اجتماعی «تروث سوشال» درباره برخورد دو شناور در ایالت لوئیزیانا نوشت: «از گارد ساحلی ایالات متحده بابت انجام عملیات فوق‌العادهٔ نجات و سایر اقدامات مربوط به برخورد دو کشتی در لوئیزیانا سپاسگزارم.» او با تمجید از عملکرد نیروهای انتظامی و امدادگران، افزود: «شگفت‌انگیز است که در این برخورد شدید هیچ‌کس کشته نشد. ۳۲ نفر در بیمارستان بستری‌اند و از فرماندار جف لندری نیز بابت رهبری برجسته‌اش در این دوره بسیار دشوار قدردانی می‌کنم.» این سانحه ظهر جمعه ۲۲ آبان در رودخانه می‌سی‌سی‌پی و نزدیک بندر نیواورلئان رخ داد. به گفته هلنا مورنو، شهردار نیواورلئان، یک نفتکش پس از «از دست دادن کنترل» با یک کشتی تفریحی پهلوگرفته که بین ۱۸۰ تا ۱۹۰ مسافر داشت، برخورد کرد.
+‏
+‏@IndyPersian
+03:51
+1405/08/23
+
+
+
+
 src :@warmonitors
 ‏⚡Some US airlines may shut down operations for the rest of Friday if they cannot resume soon, according to airline officials
 ‏
@@ -334,16 +369,6 @@ src :@wfwitness
 [عکس]
 ‏⚡️🇺🇲 CNN: The FAA told airlines the nationwide outages that prompted the ground stop were the result of a problem with network routers.  The problem is believed to have started at Chicago Midway International Airport, where it began to spread nationwide. …
 03:17
-1405/08/23
-
-
-
-
-src :@ClashReport
-‏The FBI does not believe the nationwide FAA outage was caused by a cyberattack or criminal activity.
-‏
-‏Source: Bloomberg
-03:16
 1405/08/23
 
 
@@ -1184,14 +1209,6 @@ src :@intelslava
 
 
 
-src :@rnintel
-‏🇺🇸⚡️- "There should be no fear of the public on this [incident]." - DHS Secretary Mullin.
-01:43
-1405/08/23
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇨🇳 🇷🇺 — Trump to hold trilateral summit with Xi Jinping and Putin in Shenzhen on Nov. 19, per NY Post; talks to focus on nuclear arms control.
@@ -1409,16 +1426,6 @@ src :@defence_news
 src :@naya_foriraq
 ‏🇺🇸تجري هيئة الأرصاد الجوية الوطنية تحقيقاً في انقطاع خدمة الرادار على مستوى البلاد.  https://t.me/naya_foriraq
 01:24
-1405/08/23
-
-
-
-
-src :@tabzlive
-‏🇺🇸⚡️ — There are numerous reports circulating regarding a NWS radar outage.
-‏
-‏These reports are FALSE. The NWS' radars are operating normally.
-01:23
 1405/08/23
 
 
@@ -2535,20 +2542,6 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 23:11
-1405/08/22
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️قیمت نفت به دلیل کاهش نگرانی‌ها از از سرگیری درگیری‌ها در جنگ با ایران و نشانه‌هایی از افزایش مازاد عرضه جهانی، برای دومین هفته متوالی در مسیر کاهش قرار گرفت.
-‏
-‏روز جمعه ۲۲ آبان، قراردادهای آتی نفت برنت با کاهش ۵ سنتی (۰.۰۵ درصد) به ۹۵.۷۷ دلار در هر بشکه رسید و نفت وست تگزاس اینترمدیت (WTI) آمریکا با ۱۷ سنت کاهش (۰.۱۹ درصد) معامله شد. هر دو شاخص نفتی در این هفته افت حدود ۲ درصدی را ثبت کردند؛ این در حالی است که هفته گذشته نیز به ترتیب با کاهش‌های چشمگیر ۱۶ و ۱۳ درصدی مواجه شده بودند.
-‏
-‏به گفته تحلیلگران، بازار نفت شاهد یک تغییر اساسی است که دلیل آن کاهش خطرات منطقه‌ای ناشی از جنگ آمریکا و اسرائیل با جمهوری اسلامی ایران و همچنین انتشار گزارش آژانس بین‌المللی انرژی درباره افزایش مازاد جهانی نفت ارزیابی می‌شود.
-‏@indypersian
-23:09
 1405/08/22
 
 
