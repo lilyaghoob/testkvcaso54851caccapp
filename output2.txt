@@ -6619,14 +6619,3 @@ src :@RASTAKHIZ_PERSIAN
 ‏@RASTAKHIZ_PERSIAN
 21:10
 1405/08/22
-
-
-
-
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇷🇺 Russia says first patient treated with personalized mRNA cancer vaccine shows no signs of new tumors four months after treatment.
-‏
-‏@BRICSNews
-20:57
-1405/08/22
