@@ -1,3 +1,43 @@
+src :@selena_updates
+[عکس]
+‏The Federal Aviation Administration (FAA) in the United States ordered a nationwide ground stop Friday after a massive communications failure disrupted air traffic control centers across the United States, affecting critical radio frequencies, radar capabilities and flight coordination systems.
+‏
+‏It marked only the second nationwide grounding of flight departures since the September 11, 2001, terrorist attacks, following a similar shutdown in January 2023.
+‏
+‏The emergency shutdown began at approximately 3:54 p.m. Eastern Time, halting departures at airports nationwide. Aircraft already airborne were permitted to land. 
+‏
+‏Eurocontrol suspended US-bound departures from Europe at the FAA's request. 
+‏
+‏The disruption caused more than 4,700 flight cancellations, over 10,000 delays and hundreds of diversions, severely affecting domestic and international aviation.
+‏
+‏Transportation Secretary Sean Duffy attributed the failure to overloaded switches and routers within the FAA's aging communications infrastructure, resulting in widespread system instability. Homeland Security officials reported no evidence of a cyberattack, while investigators examined the technical failure and its potential consequences.
+‏
+‏After more than 4 hours, the nationwide ground stop was lifted at approximately 8:15 p.m. Eastern Time, allowing departures to resume gradually as communications systems were restored. 
+‏
+‏The unprecedented incident has renewed concerns over the vulnerability of America's air traffic control infrastructure and the urgent need for modernization.
+20:40
+1405/08/23
+
+
+
+
+src :@mohem_mat
+[عکس]
+‏جست‌وجوی درون‌متنی ۶ دهه مطبوعات ایران از سال ۱۳۰۰ تا ۱۳۵۷
+‏
+‏دسترسی به متن اصلی نشریات، یکی از ارکان اصلی در پژوهش‌های تاریخی است.
+‏
+‏سامانه آرشیو مطبوعات ایران (۱۳۰۰ تا ۱۳۵۷) مجموعه‌ای از روزنامه‌ها و مجلات را با قابلیت جست‌وجوی دقیق در متن مطالب، در اختیار پژوهشگران قرار داده است به آدرس زیر:
+‏https://archive.irdc.ir/
+‏آوش
+‏
+‏@mohem_mat
+20:37
+1405/08/23
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2276,23 +2316,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@Indypersian
-‏⭕️ترامپ از پایان جنگ می‌گوید اما توافق را هم نمی‌خواهد؛ سردرگمی میانجی‌گران
-‏
-‏📌ترامپ در تمام این مدت به ایران هشدار داده است که ارتش آمریکا در وضعیت «آماده‌باش کامل و مسلح» قرار دارد
-‏
-‏
-‏♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، از زمان شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای در هفتهٔ گذشته، دربارهٔ ادامهٔ جنگ با ایران اظهارات متعددی را مطرح کرده است.
-‏بیشتر بخوانید...
-‏
-‏
-‏@INDYPERSIAN
-17:22
-1405/08/23
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ سرهنگ آرون کالموس، معاون فرمانده لشکر ارتش استونی، در یک جلسه توجیهی اظهار داشت که در 11 نوامبر، طی حمله‌ای به اوست-لوگا، پهپادهای انتحاری اوکراینی همچنین یک کشتی موشک‌انداز پروژه 21631 بویان-ام را در خلیج فنلاند هدف قرار دادند. به گفته او، چندین پهپاد به کشتی برخورد کرده و باعث آسیب دیدن آن شده است.
@@ -3911,23 +3934,6 @@ src :@bricsnews
 ‏JUST IN: 🇮🇷 Iran's navy says another oil tanker caught fire after hitting a sea mine in the Strait of Hormuz.
 ‏
 ‏@BRICSNews
-14:01
-1405/08/23
-
-
-
-
-src :@mohem_mat
-‏مدیرکل دفتر برنامه‌ریزی و مشارکت‌های اجتماعی جوانان وزارت ورزش و جوانان: 
-‏
-‏بر اساس آمارهای موجود، حدود ۲ میلیون و ۴۰۰ هزار زن مجرد بالای ۳۵ سال در کشور زندگی می‌کنند. 
-‏
-‏ بررسی جمعیت مردان مجرد بالای ۴۰ سال، به‌عنوان گروه سنی متناسب با این زنان بر اساس الگوی رایج ازدواج در جامعه، نشان می‌دهد تعداد این مردان حدود ۵۰۰ هزار نفر کمتر از زنان مورد اشاره است.
-‏
-‏بر اساس آمارهای موجود، بیش از ۱۸ میلیون نفر از دختران و پسران در سن ازدواج تاکنون ازدواج نکرده‌اند که حدود ۱۰ میلیون نفر از آنان مرد و بیش از ۸ میلیون نفر زن هستند.
-‏هم‌میهن
-‏
-‏@mohem_mat
 14:01
 1405/08/23
 
