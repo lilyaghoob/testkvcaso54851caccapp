@@ -1,3 +1,69 @@
+src :@ircfspace
+[عکس]
+‏هسته‌ی رخش برای ساخت شبکه‌های چندگرهی و تانل‌های انعطاف‌پذیر ارا‌ئه شده، تا ترافیک رو بصورت مستقیم یا از طریق تانل، از هر تعداد سروری که در اختیار دارین عبور بده. هدفش اینه که به یک سرور یا روش ارتباطی خاص محدود نباشه و حتی روی شبکه‌هایی که سعی می‌کنن جلوی ارتباط رو بگیرن، به کارش ادامه بده.
+‏پروتکل اصلی رخش به نوع اتصال وابسته نیست و هر تانل از چند مسیر مستقل تشکیل شده، تا اگر یکی از مسیرها قطع شد، جریان‌های در حال انتقال بتونن از مسیر دیگه ادامه پیدا کنن. همینطور هر گره هویت و کلید اختصاصی خودش رو داره و ارتباط بین گره‌ها با احراز هویت و رمزنگاری سرتاسری محافظت میشن.
+‏
+‏👉 github.com/CluvexStudio/rakhsh/releases
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+11:46
+1405/08/23
+
+
+
+
+src :@DEJradio
+[عکس]
+‏🔺📢 برخی منابع گزارش دادند حدود هفت هزار پرواز در آمریکا آدینه ۱۳ نوامبر به‌وقت محلی (بامداد شنبه ۲۳ آبان به‌وقت ایران)، به دلیل قطع سامانه رادار ناوبری و ارتباطات رادیویی لغو یا با تاخیر روبه‌رو شد. 
+‏
+‏این رویداد نادر نگرانی‌ها در مورد حمله سایبری را تشدید کرده است اما هنوز دلیل آن مشخص نیست.
+‏
+‏@DEJradio
+11:45
+1405/08/23
+
+
+
+
+src :@wfwitness
+‏⚡🇱🇧🇮🇱 Overnight the IDF carried out 11 artillery shellings across southern Lebanon:
+‏
+‏• Barachit
+‏• Wadi Slouqi
+‏• Wadi Al Hujeiri
+‏• Al Mansuri
+‏• Hadatha
+‏• Kfar Shouba
+‏
+‏@wfwitness
+11:45
+1405/08/23
+
+
+
+
+src :@wfwitness
+‏⚡️🇱🇧🇮🇱 Israeli drones over Beirut and Dahieh at a low altitude.
+‏
+‏@wfwitness
+11:43
+1405/08/23
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇸🇩❌🇸🇩 - The SAF continues to advance across West Kurdufan, making significant advances northwest of El Obeid and reaching the eastern outskirts of En Nahud. Towns such as Tarom, Mahub, Qurad, Khuway, Hamir, and Agak have all been captured by the Sudanese military.
+‏
+‏@GeoPWatch
+11:43
+1405/08/23
+
+
+
+
 src :@MilitarryWorld
 ‏🔴سپاه: هیچ‌حمله امریکایی-اسرائیلی به مراکز نظامی اصفهان‌صورت نگرفته و شایعات رسانه ای است.
 ‏
@@ -2038,19 +2104,6 @@ src :@rnintel
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇺🇲🇲🇽 NYT: The FAA asked Mexico’s federal aviation agency for all aircraft at Mexican airports with scheduled flights to the United States to remain grounded.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-03:27
-1405/08/23
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇺🇸⚡️- Pacific-bound flights out of San Francisco International Airport are now being cleared to fly.
@@ -2066,14 +2119,6 @@ src :@BellumActaNews
 ‏
 ‏📎 OSINTdefender
 03:26
-1405/08/23
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇲 The incoming chair of the Senate Commerce Committee, Democratic Senator Maria Cantwell, announced that Congress will investigate the reason of the outage which led to the ground stop on Friday, November 13th.  “My team is in contact with the FAA about…
-03:23
 1405/08/23
 
 
@@ -5677,23 +5722,6 @@ src :@samueltarikh
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇪🇺 Europe is gripped by a wave of protests — what is happening and what will it lead to?
-‏📢 In various countries, people are taking to the streets due to political decisions, prices, working conditions, and the future of their states.
-‏Behind every protest lies its own story, and together they show how the social life of Europe is changing. 🏙
-‏📰 Star Union News follows European politics:
-‏it reports on protests, government decisions, and public reactions — so that you can understand what’s going on. 👀
-‏👉 Subscribe and follow the news about Europe:
-‏🇪🇺 Keep up with the latest Star Union News 🖥
-‏
-‏@GeoPWatch
-17:13
-1405/08/22
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏«فریبا حسینی» فعال مدنی ساکن شیراز، برای اجرای حکم حبس به شعبه اجرای احکام دادگاه انقلاب این شهر احضار شده است. او با انتشار متنی در صفحه اینستاگرام خود اعلام کرد که حکم زندانش در دادگاه تجدیدنظر به سه سال و شش ماه و یک روز کاهش یافته، اما همچنان آن را «ناعادلانه» می‌داند و حاضر نیست داوطلبانه برای اجرای حکم به زندان برود.
@@ -6616,36 +6644,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 11:51
-1405/08/22
-
-
-
-
-src :@KayhanLondonChannel
-‏‌‌‌‌‌‌‌‌‏ ‌‏ ‏
-‏⁠گزارش تحلیلی هفته؛ اروپا در خواب عمیق زمستانی
-‏ 
-‏- کشورهای اروپایی از داخل ایران توسط مقامات نظام بطور علنی تهدید می‌شوند. آنها به صراحت می‌گویند توان افزایش بُرد موشک‌های جمهوری اسلامی برای رسیدن به اروپا را دارند.  
-‏ 
-‏- اروپایی‌ها صرفا با ابراز نگرانی از اقدامات و تهدیدات ضدامنیتی، در عمل به جمهوری اسلامی فرصت داده‌اند تا برنامه‌های جنگ‌ افروزانه‌ و تروریستی خود را با گستاخی بیشتر پیش ببرد. 
-‏ 
-‏ - سیاست مماشات دولت‌های اروپایی، رژیم ایران را به این باور قاطع رسانده که اروپا «ترسو» و در مقابل تهدیدات آن، بی‌دفاع و دست‌بسته است. 
-‏ 
-‏ - اتحادیه اروپا در مقابل خطراتی که آن را از بیرون و درون تهدید می‌کند، در خواب عمیق زمستانی فرو رفته. این انفعال و بی‌عملی پیام روشنی برای رژیم ایران دارد: عبور از خطوط قرمز دموکراسی‌های اروپا هزینه جدی در پی ندارد! 
-‏ 
-‏ - امروز اروپا با انتخابی تعیین‌کننده روبروست: مقابله‌ی جدی و کارآمد علیه تهدیدات و یا نشستن در انتظار روزی که خطرات کنونی به بحران‌های امنیتی با هزینه‌های بسیار سنگین‌تر تبدیل شوند.
-‏ 
-‏«متن کامل گزارش  تحلیلی هفته را از لینک زیر دنبال کنید»
-‏ 
-‏https://kayhan.london/1405/08/22/412157/
-11:45
-1405/08/22
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 فریاد نگهبان مزار سربازان گمنام بر سر وزیر دفاع امریکا و همراهانش: سکوت و احترام این مکان را رعایت کنید  #خبر #امریکا  @RASTAKHIZ_PERSIAN
-11:44
 1405/08/22
