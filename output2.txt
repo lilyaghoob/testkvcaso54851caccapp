@@ -1,3 +1,19 @@
+src :@IranintlTV
+[عکس]
+‏اداره هوانوردی فدرال آمریکا اعلام کرد که دستور توقف سراسری برخاستن هواپیماها در این کشور، پس از بیش از چهار ساعت لغو شده است.
+‏
+‏این دستور به دلیل اختلال در سامانه‌های ارتباطی صادر شده بود و به موجب آن، هواپیماهای پروازهای داخلی آمریکا اجازه برخاستن از فرودگاه‌ها را نداشتند.
+‏
+‏اختلال در ارتباطات مخابراتی و توقف پروازها باعث شد هزاران پرواز در فرودگاه‌های بزرگ آمریکا با تاخیر مواجه شوند یا لغو شوند.
+‏
+‏لغو دستور توقف سراسری به این معناست که هواپیماها می‌توانند بار دیگر اجازه برخاستن دریافت کنند، اما به معنای بازگشت فوری تمام پروازها به برنامه عادی نیست.
+‏https://iranintl.com/202611141297
+05:24
+1405/08/23
+
+
+
+
 src :@warmonitors
 ‏Yeah no one believes you bro.
 ‏
@@ -537,16 +553,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-‏Trump says the nationwide flight ground stop does not appear to be linked to a cyberattack, but could be caused by outdated systems he has sought to upgrade.
-‏
-‏Source: Fox News
-03:59
-1405/08/23
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏در پی اختلال گسترده در ارتباطات کنترل ترافیک هوایی و توقف سراسری پروازها در آمریکا، گزارش‌ها از بازگشت تدریجی خدمات ارتباطی و صدور مجوز برخاستن هواپیماها در برخی فرودگاه‌های این کشور حکایت دارند.
@@ -1024,14 +1030,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-‏🇺🇸⚡️ — Multiple sources tell CBS News that a botched update to the ATC's private communications system caused the system to reboot, and subsequently crash upon rebooting, causing the communications outage.
-03:07
-1405/08/23
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏#BREAKING
@@ -1147,14 +1145,6 @@ src :@BellumActaNews
 
 
 
-src :@tabzlive
-‏🇺🇸⚡️ — NWS confirms that there are no NWS radar outages, contrary to reporting from outlets including Reuters, the New York Times, and CNN.
-02:49
-1405/08/23
-
-
-
-
 src :@rnintel
 ‏🇺🇸🇪🇺⚡️- BREAKING: Eurocontrol suspends all flights from Europe to the US at the FAA's request.
 02:47
@@ -1168,15 +1158,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 02:47
-1405/08/23
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Several mainstream media outlets are now falsely reporting NWS issues. There are no issues with NWS.  The reports spread through a combination of old pages not updated for a long time, and a misreading of a map of isolated transmitter outages that occured…
-02:46
 1405/08/23
 
 
@@ -1197,14 +1178,6 @@ src :@bricsnews
 ‏JUST IN: 🇪🇺🇺🇸 Europe suspends all flights to the United States following US national ground stop that halted all plane departures.
 ‏
 ‏@BRICSNews
-02:44
-1405/08/23
-
-
-
-
-src :@tabzlive
-‏🇪🇺🇲🇽🇺🇸⚡️ — Flights from Mexico and the European Union to the United States have been grounded at the FAA's request.
 02:44
 1405/08/23
 
