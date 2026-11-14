@@ -1,3 +1,47 @@
+src :@ClashReport
+‏More than 13,000 flights were canceled or delayed across the U.S. on Friday after the FAA halted nationwide departures due to an air-traffic control communications outage. 
+‏
+‏Over 3,300 flights were canceled and 10,200 delayed, with disruptions expected to continue into the weekend.
+‏
+‏Source: WSJ
+03:39
+1405/08/23
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇸⚡️ — The U.S. Federal Aviation Administration says it has begun gradually lifting restrictions and resuming normal air traffic operations as systems return to normal functionality.
+‏
+‏@IntelSlava
+03:39
+1405/08/23
+
+
+
+
+src :@ClashReport
+‏U.S. authorities have found no evidence that Friday’s aviation incident was an attack, with investigators pointing to a communications software issue. 
+‏
+‏The FBI, DHS and NSA are continuing cybersecurity investigations to rule out potential threats.
+‏
+‏Source: CNN
+03:38
+1405/08/23
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Initial reports suggest that an Israeli detonation in Zawtar al-Sharqiyah was the cause of the large explosion heard across southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
+03:36
+1405/08/23
+
+
+
+
 src :@rnintel
 ‏🇺🇸⚡️- All Delta flights out of New York's LaGuardia Airport have been canceled for the rest of the night, according to Fox News.
 03:33
@@ -23,7 +67,7 @@ src :@IranintlTV
 
 
 src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Massive explosion heard in southern Lebanon.  @wfwitness
+‏⚡️🇱🇧🇮🇱 Massive explosion heard in southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:31
 1405/08/23
 
@@ -34,6 +78,8 @@ src :@wfwitness
 ‏⚡️🇱🇧🇮🇱 Massive explosion heard in southern Lebanon.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:31
 1405/08/23
 
@@ -97,6 +143,8 @@ src :@wfwitness
 ‏⚡️🇺🇲🇲🇽 NYT: The FAA asked Mexico’s federal aviation agency for all aircraft at Mexican airports with scheduled flights to the United States to remain grounded.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:27
 1405/08/23
 
@@ -706,14 +754,6 @@ src :@ClashReport
 
 
 
-src :@ClashReport
-‏NEW: The FAA “doesn’t know yet what is going on,” an airline source told CNN.
-02:32
-1405/08/23
-
-
-
-
 src :@rnintel
 ‏🇺🇸⚡️- BREAKING: "The FAA doesn’t know yet what is going on; it is affecting different facilities in different ways, ten minutes ago, they were on a crisis call and there was still no clear answer as to a cause.” - An airline source to CNN.
 02:32
@@ -735,17 +775,6 @@ src :@OSINTWarfare
 ‏
 ‏@OSINTWarfare
 02:30
-1405/08/23
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏MAKE OUR ENTERTAINMENT INDUSTRY GREAT AGAIN!
-02:29
 1405/08/23
 
 
@@ -902,16 +931,6 @@ src :@intelslava
 
 
 
-src :@ClashReport
-‏Air traffic control radars and radio frequencies are experiencing simultaneous outages across the U.S., CNN reports, citing an aviation source.
-‏
-‏Controllers remain uncertain about the cause of the disruptions.
-02:15
-1405/08/23
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏۲ دقیقه تا پرتاب استارشیپ
@@ -1047,18 +1066,6 @@ src :@rnintel
 src :@tabzlive
 ‏🇺🇸⚡️ — Flight diversions away from their assigned airports to different airports are beginning. Numerous will occur as American airspace clears because some airports are starting to run out of space to host more aircraft.
 02:04
-1405/08/23
-
-
-
-
-src :@ClashReport
-‏American Airlines says flights are expected to face disruptions for the rest of the day due to the nationwide FAA ground stop, depending on how long it remains in effect.
-‏
-‏“It will be all hands-on deck across American to get customers on their way as soon as possible when the FAA lifts this ground stop.”
-‏
-‏Source: CNN
-02:03
 1405/08/23
 
 
@@ -1253,14 +1260,6 @@ src :@IranintlTV
 ‏ سازمان ملی هواشناسی آمریکا اعلام کرد با اختلال سراسری در اینترنت و سامانه‌های ارتباطی خود مواجه شده است.
 ‏https://iranintl.com/202611131606
 01:41
-1405/08/23
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇲 The FAA has confirmed via X that the grounding of flights across the US is the result of a telecommunications outage and that all flights have been accounted for:  "There has been a temporary telecommunications outage - out of an abundance of caution…
-01:40
 1405/08/23
 
 
@@ -2353,22 +2352,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 23:34
-1405/08/22
-
-
-
-
-src :@intelslava
-‏🇵🇱🇺🇦⚡️ — Poland will no longer contribute to the NATO program for procuring American weapons for Ukraine, stated Donald Tusk.
-‏
-‏"I informed the [NATO] Secretary General [Mark Rutte] that we will not be making any contributions to the PURL program at this time – the European funds for American weapons for Ukraine," the Polish Prime Minister said at a press conference.
-‏
-‏He explained this decision by citing a high budget deficit and defense spending.
-‏
-‏Poland joined the PURL program at the end of 2023, allocating $100 million for the purchase of American weapons for Ukraine.
-‏
-‏@Intelslava
-23:32
 1405/08/22
 
 
