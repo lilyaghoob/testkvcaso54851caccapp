@@ -1,3 +1,14 @@
+src :@wfwitness
+[عکس]
+‏⚡🇮🇷🇴🇲 The IRGC claims two oil tankers attempting to cross the Strait of Hormuz hit naval mines, which triggered explosions and fires on board. 
+‏
+‏@wfwitness
+03:09
+1405/08/24
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏ارتش و سازمان امنیت داخلی اسرائیل (شین‌بت) اعلام کردند که یک عضو ارشد شاخه نظامی حماس را هدف قرار داده‌اند. منابعی در حماس به رویترز گفتند که سمیر ابویونس، از فرماندهان ارشد شاخه نظامی حماس، در حمله هوایی اسرائیل به خان‌یونس در جنوب نوار غزه کشته شد.
@@ -6719,17 +6730,4 @@ src :@GeoPWatch
 ‏
 ‏➡️ As of now, the outage appears to be linked to a software update on the FAA’s private communications network, operated by defense contractor L3Harris, which caused the system to reboot and crash.
 03:19
-1405/08/23
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇺🇸⚡️ — An update to the FAA’s private communications network, operated by L3Harris Technologies, reportedly caused the system to reboot and crash, triggering an air traffic control communications outage.
-‏
-‏Approximately 10,000 flights have now been delayed or cancelled, making this the largest disruption to air travel since the September 11 attacks.
-‏
-‏@OSINTWarfare
-03:09
 1405/08/23
