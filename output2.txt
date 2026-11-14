@@ -542,17 +542,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-[عکس]
-‏Microsoft:
-‏
-‏We have no indication that the FAA’s nationwide ground stop is related to any Microsoft services.
-04:00
-1405/08/23
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏در پی اختلال گسترده در ارتباطات کنترل ترافیک هوایی و توقف سراسری پروازها در آمریکا، گزارش‌ها از بازگشت تدریجی خدمات ارتباطی و صدور مجوز برخاستن هواپیماها در برخی فرودگاه‌های این کشور حکایت دارند.
@@ -686,15 +675,6 @@ src :@warmonitors
 src :@wfwitness
 ‏⚡️🇺🇲 Reuters: Some US airlines may shut down operations for the rest of Friday if operations cannot resume soon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 03:48
-1405/08/23
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸⚡️ — Multiple sources tell CBS News that a botched update to the ATC's private communications system caused the system to reboot, and subsequently crash upon rebooting, causing the communications outage.
-03:47
 1405/08/23
 
 
@@ -1042,18 +1022,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖
 ‏@BellumActaNews
 03:05
-1405/08/23
-
-
-
-
-src :@wfwitness
-‏⚡️🇺🇲 Reuters: Some US airlines may shut down operations for the rest of Friday if operations cannot resume soon.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-03:03
 1405/08/23
 
 
