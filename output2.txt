@@ -1,3 +1,12 @@
+src :@Alibk3
+[عکس]
+‏شبكة سي بي إس:  تسبب تحديث لشبكة الاتصالات الخاصة التي تربط نظام مراقبة الحركة الجوية في أميركا في إعادة تشغيل النظام.  وعندما أعيد تشغيل البنية التحتية للاتصالات التابعة لإدارة الطيران الأميركية تعطلت، مما أدى إلى انقطاع الاتصالات.
+05:44
+1405/08/23
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️به گزارش آسوشیتدپرس، اداره هوانوردی فدرال آمریکا (FAA) جمعه‌شب اعلام کرد پس از برطرف شدن مشکلات ارتباطی در مراکز منطقه‌ای کنترل ترافیک هوایی، دستور توقف سراسری پروازها را لغو کرده است و پروازهای خروجی می‌توانند از سر گرفته شوند. شان دافی، وزیر ترابری ایالات متحده، با بیان اینکه اختلال پیش‌آمده ناشی از بارگذاری بیش‌ازحد داده‌ها روی یک سامانه آنالوگ و «به‌شدت قدیمی» بوده است، از کنگره درخواست بودجه اضطراری برای نوسازی تجهیزات کرد و هشدار داد که بازگرداندن ترافیک هوایی به حالت عادی «کُند» و زمان‌بر خواهد بود. به گفته او، در زمان صدور دستور توقف سه هزار و ۵۰۰ هواپیما در آسمان بودند که این تعداد به کمتر از ۴۰۰ عدد کاهش یافت. هم‌زمان، مارک‌وین مالین، وزیر امنیت داخلی آمریکا، با رد شایعات تأکید کرد که هیچ نشانه‌ای از وقوع حمله سایبری وجود ندارد و جان هیچ مسافری به خطر نیفتاده است.
@@ -173,14 +182,6 @@ src :@mwarmonitor
 
 
 
-src :@tabzlive
-‏🇺🇸⚡️ — Tabz projects that Lauren Boebert (R) has lost her election to Eileen Laubacher (D). Flip from Republican to Democrat.  With Lauren Boebert being voted out, all four of the Republicans [Thomas Massie, Marjorie Taylor Greene, Lauren Boebert, Nancy Mace]…
-05:02
-1405/08/23
-
-
-
-
 src :@ClashReport
 [عکس]
 ‏Former Nvidia CEO Jensen Huang misled senior executives, including the company's top lawyer, about his affair with Chinese businesswoman Alice Huang. 
@@ -204,17 +205,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 05:00
-1405/08/23
-
-
-
-
-src :@tabzlive
-[عکس]
-‏🇺🇸🇨🇳⚡️ — Former NVIDIA CEO Jensen Huang misled senior company executives, including general counsel Tim Teter and chief marketing officer Alison Wagonfeld, about his relationship with Chinese businesswoman Alice Huang, who is suspected to be a Chinese spy, with whom he had an extramarital affair, according to Reuters.
-‏
-‏Internal correspondence reviewed by Reuters shows that Huang repeatedly described his interactions with Alice Huang and NVIDIA customer Megaspeed International as routine business dealings, including in messages sent to company leadership in October 2026. Sources said he made similar assurances in 2025.
-04:57
 1405/08/23
 
 
