@@ -1078,16 +1078,6 @@ src :@OSINTWarfare
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: میراث ترامپ؛ سرنگونی جمهوری اسلامی؟
-‏@iranintlTV
-02:04
-1405/08/24
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇪🇹 🇪🇷 — Initial reports of Ethiopian ENDF advances into Badme, Eritrea, amid escalating Ethiopia-Eritrea border clashes
