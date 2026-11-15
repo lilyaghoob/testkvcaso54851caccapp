@@ -1,3 +1,68 @@
+src :@intelslava
+‏🇺🇸❌🇮🇷 — Reports of explosions in Sirik and on Qeshm Island, possibly caused by U.S. airstrikes.
+‏
+‏@IntelSlava
+23:36
+1405/08/24
+
+
+
+
+src :@Alibk3
+[عکس]
+‏سماع دوي انفجار قرب السواحل الإيرانية.
+23:35
+1405/08/24
+
+
+
+
+src :@OSINTWarfare
+‏🇺🇸❌🇮🇷 — Locals report hearing explosions in Sirik and on Qeshm Island, possibly caused by U.S. airstrikes. 
+‏
+‏@OSINTWarfare
+23:35
+1405/08/24
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴گزارش از دو انفجار در شهر سیریک
+23:34
+1405/08/24
+
+
+
+
+src :@Middle_East_Spectator
+‏—❗️🇺🇸/🇮🇷 NEW: Explosions in Sirik; possible U.S. airstrikes
+‏
+‏@Middle_East_Spectator
+23:34
+1405/08/24
+
+
+
+
+src :@GeoPWatch
+‏🇺🇸❌🇮🇷 - Explosions reported by locals in Sirik, Hormozgan Province, Iran.
+‏
+‏@GeoPWatch
+23:33
+1405/08/24
+
+
+
+
+src :@jangaavaran1390
+‏کاظم غریب‌آبادی، معاون وزیر خارجه ایران: اجازه دسترسی بازرسان آژانس به تاسیسات آسیب‌دیده داده نمی‌شود مگر شرایط تهران برآورده و جنگ به‌طور دائم پایان یابد. وی افزود این درخواست ممکن است برای سنجش اثربخشی سلاح‌های آمریکا در حمله باشد.
+23:33
+1405/08/24
+
+
+
+
 src :@Alibk3
 ‏سماع دوي انفجار قرب السواحل الإيرانية.
 23:32
@@ -2750,17 +2815,6 @@ src :@guard_warriors
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - 6 USAF Aerial Refuelling Tankers are active above the region.
-‏
-‏@GeoPWatch
-19:17
-1405/08/24
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏فریبا اسدی، فعال مدنی و از بازداشت‌شدگان مرتبط با اعتراضات ۱۴۰۴، به اتهام‌های امنیتی به شش سال حبس تعزیری و دو سال محرومیت از برخی حقوق اجتماعی محکوم شد.
@@ -3052,14 +3106,6 @@ src :@samueltarikh
 
 
 
-src :@tabzlive
-‏🇮🇷⚡️ — Air defense activity on Qeshm Island, Iran.
-18:58
-1405/08/24
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -3219,15 +3265,6 @@ src :@Indypersian
 ‏
 ‏@INDYPERSIAN
 18:44
-1405/08/24
-
-
-
-
-src :@jangaavaran1390
-[عکس]
-‏تصویر دقیق از یک واحد آتش ضد پهپاد متحرک روس‌ها مجهز به یک مسلسل سری پی کا و سیستم دید حرارتی و نمایشگر بر روی آن
-18:41
 1405/08/24
 
 
@@ -4846,17 +4883,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@intelslava
-[عکس]
-‏🚨 🇮🇷🇺🇸⚡️ — Iran rules out suspending uranium enrichment or reducing enrichment levels for now, according to Foreign Ministry spokesperson Esmaeil Baghaei.
-‏
-‏@Intelslava
-12:42
-1405/08/24
-
-
-
-
 src :@Minas_Tirith2024
 ‏شاید برات جالب باشه بدونی سال ۹۸، یکی از بچه‌های مهندسی مکانیک توی خوابگاه احمدی‌روشن دانشگاه شریف، کانال تلگرامی‌ای رو ساخت که الان، بعد از ۷ سال، بزرگ‌ترین کانال اقتصادی به زبان فارسیه و یکی از قوی‌ترین گروه‌های مشاوره‌ی اقتصادی کشور پشت این کاناله!
 ‏
@@ -5747,14 +5773,6 @@ src :@rnintel
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇺🇸/🇮🇷 NEW: Explosions were heard in Bandar Kong and Qeshm Island, southern Iran  Could be U.S. airstrikes.  @Middle_East_Spectator
-06:04
-1405/08/24
-
-
-
-
 src :@OSINTWarfare
 ‏🇮🇷🇧🇭🇺🇸⚡️ — Earlier, air raid sirens sounded across Bahrain for more than 30 minutes following an Iranian drone attack targeting a U.S. radar installation.
 ‏
@@ -6221,40 +6239,4 @@ src :@DEJradio
 ‏
 ‏@OfficialRezaPahlavi
 23:42
-1405/08/23
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏تا 36 ساعت آینده، خاورمیانه میزبان سه ناو هواپیمابر نیروی دریایی آمریکا خواهد بود (بیشترین تعداد از زمان جنگ عراق در سال 2003)  طبق تخمین ها، ناو گروه هواپیمابر یو اس اس تئودور روزولت (CVN-71) در 36 ساعت آینده در منطقه عملیاتی ناوگان پنجم نیروی دریایی/منطقه…
-23:34
-1405/08/23
-
-
-
-
-src :@samueltarikh
-‏هم اکنون یک فروند هواپیمای دولتی قطر در مسیر تهران قرار دارد؛ به نظر می‌رسد این پرواز بخشی از یک تلاش دیپلماتیک در آخرین لحظات باشد.
-23:33
-1405/08/23
-
-
-
-
-src :@samueltarikh
-‏هم اکنون یک فروند هواپیمای دولتی قطر در مسیر تهران قرار دارد؛
-‏به نظر می‌رسد این پرواز بخشی از یک تلاش دیپلماتیک در آخرین لحظات باشد.
-23:33
-1405/08/23
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇨🇳 China emerges as global leader in underwater data center technology, controlling nearly 80% of patents analyzed.
-‏
-‏@BRICSNews
-23:32
 1405/08/23
