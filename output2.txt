@@ -1,7 +1,117 @@
-src :@GeoPWatch
+src :@Alibk3
+[عکس]
+‏مشاهد من اطلاق صواريخ نحو سفن مخالفة في مضيق هرمز.
+19:02
+1405/08/24
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷⚡️ — Explosions and air defense activity on Qeshm Island, Iran.
+18:59
+1405/08/24
+
+
+
+
+src :@intelslava
+[عکس]
 ‏🇮🇷❌🇺🇸 - Locals in Qeshm report seeing a SAM launch.
 ‏
 ‏@GeoPWatch
+18:59
+1405/08/24
+
+
+
+
+src :@thewarreporter
+‏🇮🇱🇯🇴 — An Israeli citizen is being questioned by Jordanian authorities after being detained yesterday while crossing the maritime border in the Gulf of Aqaba.
+‏
+‏The man reportedly set out from Eilat on a paddleboard before being intercepted by Jordanian security forces. Israeli authorities are working to secure his release as soon as possible.
+‏
+‏@TheWarReporter
+18:59
+1405/08/24
+
+
+
+
+src :@samueltarikh
+‏🚨هم اکنون گزارش انفجار در جزیره قشم
+18:58
+1405/08/24
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷 Unconfirmed reports indicate explosions heard in Qeshm, Iran.  @wfwitness
+18:58
+1405/08/24
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — Explosions and air defense activity on Qeshm Island, Iran.
+18:58
+1405/08/24
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Blasts heard in Qeshm, Iran.
+‏Hormozgan Province
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/Ujkw2PUg7DTGVWBbhgTu4ISi
+‏
+‏ترجمه خودکار فارسی
+‏
+‏صدای انفجارهایی در قشم، ایران شنیده شد.
+‏استان هرمزگان
+‏
+‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/Ujkw2PUg7DTGVWBbhgTu4ISi
+‏
+‏𝕏  ·  @shin_persian
+18:58
+1405/08/24
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸 - Locals in Qeshm report seeing a SAM launch.
+‏
+‏@GeoPWatch
+18:57
+1405/08/24
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏Shin ✓  @hey_itsmyturn  SAM Launch from Qeshm Hormozgan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/ZW_modPOkaNyce8s5JNxA-4g?xv=1  ترجمه خودکار فارسی  پرتاب موشک زمین به هوا از قشم استان هرمزگان، ایران…
+18:57
+1405/08/24
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports indicate explosions heard in Qeshm, Iran.
+‏
+‏@wfwitness
 18:57
 1405/08/24
 
@@ -12,6 +122,17 @@ src :@MilitarryWorld
 ‏🔴هم اکنون، شنیده شدن صدای انفجار در جزیره قشم
 ‏
 ‏@MilitarryWorld | Parsa
+18:57
+1405/08/24
+
+
+
+
+src :@naya_foriraq
+[عکس]
+‏🇮🇷اطلاق صواريخ من قشم 
+‏
+‏https://t.me/naya_foriraq
 18:57
 1405/08/24
 
@@ -30,7 +151,7 @@ src :@GeoPWatch
 
 src :@Alibk3
 [عکس]
-‏سماع دوي انفجارات في قشم الإيرانية.
+‏سماع دوي انفجارات في قشم الإيرانية نتيجة إطلاق صواريخ نحو سفن مخالفة في مضيق هرمز.
 18:57
 1405/08/24
 
@@ -62,7 +183,7 @@ src :@Shin_Persian
 
 
 src :@GeoPWatch
-‏⚡️🇯🇴 – Jordan sentenced three men to death after accusing them of being involved in last month's attack on a Christian Orthodox Church in Karak, which killed at least 6 people and wounded dozens more.
+‏⚡️🇯🇴 – Jordan sentenced three men to death after finding them guilty of being involved in last month's attack on a Christian Orthodox Church in Karak, which killed at least 6 people and wounded dozens more.
 18:56
 1405/08/24
 
@@ -70,7 +191,7 @@ src :@GeoPWatch
 
 
 src :@Alibk3
-‏سماع دوي انفجارات في قشم الإيرانية.
+‏سماع دوي انفجارات في قشم الإيرانية نتيجة إطلاق صواريخ نحو سفن مخالفة في مضيق هرمز.
 18:55
 1405/08/24
 
@@ -2157,16 +2278,6 @@ src :@USAMRYDATA
 
 
 
-src :@tabzlive
-‏🇺🇸🇦🇫⚡️ — Judges at the International Criminal Court (ICC) have ordered prosecutors to halt investigations into alleged crimes committed by U.S. troops in Afghanistan, shifting the court's focus to crimes allegedly committed by the Taliban since its return to power in 2021.
-‏
-‏The ruling, issued Thursday and made public Friday, cited “significant limitations to the Prosecution’s ability to conduct its investigations and secure evidence” as justification for the decision.
-16:04
-1405/08/24
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏شبکه خبری «فرانس ۲۴» در گزارشی تحقیقی، با بررسی تصاویر ماهواره‌ای، ویدیوهای منتشرشده و اطلاعیه‌های کشته‌شدگان لشکر فاطمیون، شواهد تازه‌ای از حضور نیروهای این گروه شبه‌نظامی وابسته به سپاه پاسداران در سیستان‌وبلوچستان منتشر کرده است.
@@ -2703,33 +2814,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 15:24
-1405/08/24
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏UKMTO Operations Centre @UK_MTO
-‏
-‏UKMTO WARNING 205-26
-‏
-‏Click here to view the full product.⤵️
-‏https://www.ukmto.org/-/media/ukmto/products/20261115-ukmto_warning-205-26.pdf?rev=b307e1c9006b48de8d3836cda746b127
-‏
-‏#MaritimeSecurity #MarSec
-‏
-‏ترجمه خودکار فارسی
-‏
-‏هشدار ۲۰۵-۲۶ عملیات تجارت دریایی بریتانیا
-‏
-‏برای مشاهده متن کامل، اینجا کلیک کنید.⤵️
-‏https://www.ukmto.org/-/media/ukmto/products/20261115-ukmto_warning-205-26.pdf?rev=b307e1c9006b48de8d3836cda746b127
-‏
-‏#MaritimeSecurity #MarSec
-‏
-‏𝕏  ·  @shin_persian
-15:23
 1405/08/24
 
 
@@ -3310,16 +3394,6 @@ src :@mamlekate
 
 
 
-src :@naya_foriraq
-‏🇮🇶هيئة النزاهة العراقية: السجن سبع سنوات لوكيل وزارة الكهرباء لشؤون النقل والتوزيع لارتكابه جريمة الكسب غير المشروع وإلزام المدان بتسديد (37) مليار دينار قيمة الكسب غير المشروع والغرامة التي تعادلها.
-‏
-‏https://t.me/naya_foriraq
-14:05
-1405/08/24
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏نیروی هوایی ایالات متحده اعلام کرد که هفته گذشته، اولین آزمایش‌های مربوط به پرتاب مهمات از بمب‌افکن B-21 Raider را انجام داده است.
@@ -3891,30 +3965,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 12:04
-1405/08/24
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Jet activity over Mehrabad.
-‏Tehran, Tehran Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/jqZyw5dC0oRmb0p2iQkynNtS
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت جت‌ها بر فراز مهرآباد.
-‏تهران، استان تهران، ایران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/jqZyw5dC0oRmb0p2iQkynNtS
-‏
-‏𝕏  ·  @shin_persian
-11:52
 1405/08/24
 
 
@@ -5526,19 +5576,6 @@ src :@cataphract1
 
 
 
-src :@intelslava
-[عکس]
-‏🇾🇪❌🇸🇦 — Yemeni Armed Forces spokesman Yahya Saree announced that Saudi warplanes conducted 72 airstrikes across Yemen within the past 24 hours.
-‏
-‏The strikes specifically targeted civilian infrastructure in the provinces of Saada, Taiz, Lahij, and Al-Jawf.
-‏
-‏@IntelSlava
-23:24
-1405/08/23
-
-
-
-
 src :@Mena_Live
 ‏Spacex Team announces attempt to catch upper stage of Starship in less 2 hours.
 ‏
@@ -6354,26 +6391,4 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖
 ‏@BellumActaNews
 19:02
-1405/08/23
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏طی یک برنامه جدید، نیروی هوایی ایالات متحده قصد دارد از چهار فرودگاه در جزایر ماریانا شمالی – سایپان، تینین، فرودگاه شمالی تینین و روتا – استفاده کند. هدف، انجام تا هفت هزار پرواز در سال و تمرین مفهوم استفاده رزمی توزیع‌شده از نیروی هوایی است.
-‏
-‏هدف اصلی این است که از نابودی نیروی هوایی آمریکا توسط یک حمله موشکی از سوی چین جلوگیری شود. 
-‏
-‏به همین دلیل، شبکه‌ای از پایگاه‌های پشتیبانی کوچک ایجاد می‌شود که می‌توان به سرعت جنگنده‌ها، پهپادها، هلیکوپترها و پرسنل فنی را به آنجا منتقل کرد( حتی بمب افکن های استراتژیک) 
-‏
-‏بر اساس برنامه، نیروی هوایی چندین تمرین در سال برگزار خواهد کرد، که هر کدام چند هفته طول می‌کشند. 
-‏
-‏در سناریوی حداکثری، از چهار فرودگاه می‌توان 7136 پرواز در سال انجام داد. هر پایگاه برای پذیرش تا 1000 پرسنل نظامی و 2.08 میلیون لیتر سوخت طراحی شده است.
-‏
-‏فرودگاه شمالی تینین، که یک پایگاه از دوران جنگ جهانی دوم بود، اهمیت ویژه‌ای دارد. پس از دهه‌ها فراموشی، از سال 2023، بازسازی آن به طور جدی آغاز شده است: باندها، جاده‌ها، زیرساخت‌های بندر و سیستم‌های سوخت در حال تعمیر هستند.
-‏
-‏
-‏@PARVAZDAROJ|M.S
-19:01
 1405/08/23
