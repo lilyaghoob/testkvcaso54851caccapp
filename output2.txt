@@ -1,3 +1,27 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸WSJ: The technical failure taht resulted in the grounding of all flights in the U.S. was traced to two locations: an FAA radio site in El Dorado, Arkansas, and a radar site in Amarillo, Texas. 
+‏
+‏A newly installed Juniper router at the Arkansas facility began transmitting an unusually high volume of data, overwhelming the FAA’s ageing telecommunications network.
+‏
+‏The FAA is investigating whether the incident resulted from faulty equipment, incorrect installation or improper configuration by defence contractor L3Harris Technologies.
+‏
+‏@wfwitness
+09:13
+1405/08/24
+
+
+
+
+src :@Alibk3
+[عکس]
+‏القوات اليمنية تتقدم باتجاه الساحل الجنوبي عبر محورين متزامنين؛ الأول ينطلق من مفرق الصريح باتجاه جبل خرز وصولًا إلى خور عميرة، فيما يتقدم المحور الثاني من غيل البرير باتجاه منطقة العديدية وصولًا إلى رأس العارة، بما يتيح للقوات اليمنية إحكام الحصار على القوات…
+09:13
+1405/08/24
+
+
+
+
 src :@Minas_Tirith2024
 [عکس]
 ‏با اعلام سپاه پاسداران انقلاب اسلامی، رادار سایت پدافندی ارتش دشمن آمریکایی در پایگاه رفاع در بحرین با شش پهپاد انتحاری مورد اصابت قرار گرفت. منابع خبری نیز از شنیده شدن صدای چند انفجار در جزیره بحرین گزارش کردند.
@@ -1094,15 +1118,6 @@ src :@tabzlive
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇧🇭 Reports suggest that Bahrain's air defense systems intercepted a drone over the country, following reports of an explosion heard earlier.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-06:15
-1405/08/24
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇧🇭⚡️ — An aircraft en route to Bahrain Int'l Airport is seemingly diverting. Another aircraft east of Bahrain is currently in a holding pattern.  UPDATE: This is on a holding pattern, not diverting.
@@ -1169,18 +1184,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@wfwitness
-‏⚡️️🇸🇦🇾🇪🇾🇪The Houthis report they've shot down a Saudi CH4 drone over the Al-Jawf provice, the fifth one shot down during the renewed fighting in Yemen.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-06:01
-1405/08/24
-
-
-
-
 src :@tabzlive
 ‏🇾🇪❌🇸🇦 — Ansarallah announces launching several surface-to-air missiles at Royal Saudi Air Force military aircraft formations, forcing withdrawals from Yemeni airspace.
 06:00
@@ -1194,14 +1197,6 @@ src :@Indypersian
 ‏♦️شبکه خبری «سی‌بی‌اس» به نقل از یک منبع آگاه گزارش داد که رومن گوفمن، رئیس سازمان اطلاعات و عملیات ویژه اسرائیل (موساد)، برای انجام گفت‌وگوهایی در واشنگتن به سر می‌برد و این هفته در جریان سفر خود به پایتخت آمریکا با جان رتکلیف، رئیس سازمان اطلاعات مرکزی ایالات متحده (سیا)، دیدار کرده است. بر اساس این گزارش، در حالی که منبع یادشده موضوع دقیق این مذاکرات را تایید نکرده است، گفت‌وگوهای میان نهاد اطلاعات خارجی اسرائیل و آمریکا در مقطعی از تنش‌های شدید با ایران و همزمان با انتشار گزارش‌هایی مبنی بر تلاش بنیامین نتانیاهو، نخست‌وزیر اسرائیل، برای ازسرگیری جنگ با تهران انجام می‌شود.
 ‏
 ‏@IndyPersian
-05:56
-1405/08/24
-
-
-
-
-src :@wfwitness
-‏⚡️🇧🇭 Bahrain's Ministry of Interior has issued a danger alert following reports of an explosion heard approximately 20 minutes ago.  Authorities are urging citizens and residents to remain calm, seek shelter in the nearest safe location, and follow official…
 05:56
 1405/08/24
 
@@ -1227,15 +1222,6 @@ src :@tabzlive
 src :@tabzlive
 ‏🇮🇷🇧🇭⚡️ — Bahrain TV announces the interception of one Iranian UAV by Bahraini air defenses.
 05:47
-1405/08/24
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇪🇺🇺🇦🇷🇺 President of the EU Council António Costa announced that EU leaders had agreed that the European Union institutions, alongside the E5, would form Europe's negotiating team in discussions on peace in Ukraine:  "Today, the leaders agreed that our European…
-05:42
 1405/08/24
 
 
@@ -2184,19 +2170,6 @@ src :@Alibk3
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔶1,970 کشته حزب‌الله لبنان در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.   🆔@WAR_ROOM_NEWS
-00:30
-1405/08/24
-
-
-
-
-src :@Alibk3
-‏سُبحانَ اللهِ وَالحَمدُ للهِ وَلا إلهَ إلاّ الله وَاللهُ أكبَرُ، وَلا حَولَ وَلا قُوَّةَ إلاّ بِاللهِ العَليِّ العَظيمِ.
-‏
-‏رابط قناة الاحتياط:
-‏ترجمه‌ی فارسی همه‌ی اخبار، اکنون در کانال ما:
-‏English News? Follow our backup:
-‏https://t.me/Ali_bk_8
 00:30
 1405/08/24
 
