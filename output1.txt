@@ -1484,19 +1484,6 @@ src :@cataphract1
 
 
 
-src :@Fighter_Radar
-[عکس]
-‏تست موشک کرمانشاه 
-‏
-‏📝  AmirF15
-‏
-‏👑 @Fighter_Radar
-09:30
-1405/08/24
-
-
-
-
 src :@samueltarikh
 ‏⭕️وال‌استریت ژورنال: 
 ‏
@@ -1976,6 +1963,19 @@ src :@Fighter_Radar
 [عکس]
 ‏حمله پهپادی رژیم جمهوری اسلامی به بحرین    📝  AmirF15  👑 @Fighter_Radar
 07:25
+1405/08/24
+
+
+
+
+src :@Fighter_Radar
+‏حمله پهپادی رژیم جمهوری اسلامی به بحرین 
+‏
+‏
+‏📝  AmirF15
+‏
+‏👑 @Fighter_Radar
+07:24
 1405/08/24
 
 
