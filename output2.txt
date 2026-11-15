@@ -1,3 +1,78 @@
+src :@MilitarryWorld
+‏🔴نیویورک‌تایمز:
+‏
+‏پرزیدنت ترامپ برنامه هفتگی خود برای بازی گلف را لغو کرد. و همچنین برنامه های خود را در محافل عمومی نیز لغو کرده است.
+‏
+‏@MilitarryWorld | Parsa
+23:42
+1405/08/24
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏🔴صدای انفجاری در بندر کنگ شنیده شد که گفته می‌شود در پی هدف قرار گرفتن یک پرتابگر سامانه پدافند هوایی سپاه رخ داده است
+23:41
+1405/08/24
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 An explosion was heard in Kong, Iran, due to the targeting of an Iranian SAM launcher.
+‏
+‏@wfwitness
+23:39
+1405/08/24
+
+
+
+
+src :@P_raetorio
+‏گزارشات محلی از شنیده‌شدن صدای انفجار در سیریک و قشم 
+‏
+‏
+‏@P_raetorio
+23:37
+1405/08/24
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Another shaking felt in eastern Tehran now.
+‏Tehran Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/cwfOKOC13oIjYZEOJiHnDTB0
+‏
+‏ترجمه خودکار فارسی
+‏
+‏اکنون لرزش دیگری در شرق تهران احساس شد.
+‏استان تهران، ایران
+‏
+‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/cwfOKOC13oIjYZEOJiHnDTB0
+‏
+‏𝕏  ·  @shin_persian
+23:37
+1405/08/24
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی چشم‌انداز: نخستین گام مجتبی خامنه‌ای برای قبضه وزارت اطلاعات
+‏@iranintlTV
+23:36
+1405/08/24
+
+
+
+
 src :@intelslava
 ‏🇺🇸❌🇮🇷 — Reports of explosions in Sirik and on Qeshm Island, possibly caused by U.S. airstrikes.
 ‏
@@ -28,7 +103,7 @@ src :@OSINTWarfare
 
 
 src :@WAR_ROOM_NEWS
-‏🔴گزارش از دو انفجار در شهر سیریک
+‏🔴صدای دو انفجار در جزیره قشم و شهر سیریک شنیده شد
 23:34
 1405/08/24
 
@@ -1991,14 +2066,6 @@ src :@Shin_Persian
 
 
 
-src :@WAR_ROOM_NEWS
-‏حملات جنگنده های سعودی به مواضع حوثی ها در صنعا
-20:42
-1405/08/24
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏رفیق صلاح خبرنگار یمنی در فرودگاه ذوباب پس از عقب نشینی نیروهای وابسته به ائتلاف سعودی از مواضع خود در این منطقه و شرق باب المندب
@@ -2730,19 +2797,6 @@ src :@GeoPWatch
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡🇸🇦🇾🇪 The Saudi backed Joint Forces Command reports they intercepted a Houthi drone over Madina.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-19:28
-1405/08/24
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇮🇷❌🇺🇸 - Locals in Kermenshah are reporting a missile launch.
@@ -3130,15 +3184,6 @@ src :@Shin_Persian
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓  @hey_itsmyturn  SAM Launch from Qeshm Hormozgan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/ZW_modPOkaNyce8s5JNxA-4g?xv=1  ترجمه خودکار فارسی  پرتاب موشک زمین به هوا از قشم استان هرمزگان، ایران…
-18:57
-1405/08/24
-
-
-
-
 src :@MilitarryWorld
 ‏🔴هم اکنون، شنیده شدن صدای انفجار در جزیره قشم
 ‏
@@ -3292,16 +3337,6 @@ src :@DEJradio
 ‏#بحرین 
 ‏@DEJradio
 18:35
-1405/08/24
-
-
-
-
-src :@MilitarryWorld
-‏🔴تسنیم: محل سقوط هلیکوپتر رئیسی، با موفقیت جزو آثار ملی ایران ثبت شد
-‏
-‏@MilitarryWorld | Parsa
-18:32
 1405/08/24
 
 
