@@ -1484,21 +1484,6 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: Jensen Huang is considering a return as Nvidia CEO, days after resigning over reported affairs with a suspected Chinese spy and a subordinate.
-‏
-‏Silicon Valley allies, including Elon Musk and Tim Sweeney, are backing efforts to reinstate him, with some seeking White House support. 
-‏
-‏However, Nvidia’s board is investigating his conduct, while U.S. Treasury Secretary Scott Bessent has called for a major leadership shake-up.
-‏
-‏Source: FT
-22:47
-1405/08/24
-
-
-
-
 src :@mohem_mat
 ‏شب: کتاب محبوب
 ‏
@@ -1783,16 +1768,6 @@ src :@ManotoTV
 ‏نخستین جشن توس در تیر ۱۳۵۴ برای بزرگداشت فردوسی و شاهنامه برگزار شد. نقالی، شاهنامه‌خوانی، موسیقی و ورزش‌های پهلوانی از برنامه‌های این جشن در خراسان بودند.
 ‏
 ‏این عکس‌های آرشیوی گوشه‌هایی از چند دوره جشن توس را نشان می‌دهند، از کشتی با چوخه و کشتی گیله‌مردی تا اجراهای محمدرضا شجریان، شهرام ناظری و جلیل شهناز در «شب خیام» در نیشابور.
-22:28
-1405/08/24
-
-
-
-
-src :@ClashReport
-‏Israel's Gadi Eisenkot:
-‏
-‏My main consideration is that Netanyahu must not remain in office for even one more minute.
 22:28
 1405/08/24
 
@@ -2969,19 +2944,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 20:25
-1405/08/24
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The USS Theodore Roosevelt is expected to arrive in the Middle East within the next day, joining two other U.S. aircraft carriers in the region.
-‏
-‏Source: NYT
-‏
-‏READ MORE
-20:22
 1405/08/24
 
 
@@ -6280,18 +6242,6 @@ src :@warmonitors
 
 
 
-src :@mamlekate
-‏📝 نخست‌وزیر عراق ۹ مقام دولتی را در پی قاچاق نفت توسط گروه مورد حمایت ایران برکنار کرد
-‏
-‏علی الزیدی، نخست‌وزیر عراق، روز شنبه ۲۳ آبان در پی تحقیقات درباره اتهام قاچاق نفت در یکی از پایگاه‌های گروه کتائب حزب‌الله، مورد حمایت ایران، دستور برکناری ۹ مقام دولتی را صادر کرد. 
-‏
-‏@mamlekate
-01:22
-1405/08/24
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏استارشیپ با موفقیت توسط بازوی مگازیلا بازیابی شد.
@@ -6299,17 +6249,4 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 01:19
-1405/08/24
-
-
-
-
-src :@Navy_Iranian
-‏نیروی دریایی سپاه: 
-‏🔹 ساعتی پیش دو فروند نفتکش متخلف که با سامانه های ناوبری و شناسایی خودکار خاموش، بطور مخفیانه سعی در تردد از مسیر غیر مجاز تنگه هرمز را داشتند پس از برخورد با مین های دریایی منفجر و دچار  آتش سوزی شدید شدند.
-‏
-‏🔹 پس از  انفجار این دو نفتکش، دو فروند  نفتکش دیگر که قصد عبور مخفیانه را داشتند به اخطارهای مرکز کنترل تردد نیروی دریایی سپاه در تنگه هرمز تمکین کرده و به سمت آب‌های خلیج فارس برگشتند.
-‏
-‏@Navy_Iranian | #Admiral
-01:08
 1405/08/24
