@@ -1,16 +1,19 @@
+src :@ClashReport
+[عکس]
+‏French troops have been operating in Ukraine since at least summer 2026 on a confidential support mission, Radio France Internationale reports.
+‏
+‏READ MORE
+16:09
+1405/08/25
+
+
+
+
 src :@VahidOnline
 [عکس]
-‏شرح عکس: تصویر آیت‌الله عیسی قاسم، معمم سرشناس شیعه بحرینی که اکنون به‌صورت غیابی محاکمه شده است.
-‏
 ‏یک دادگاه در بحرین روز دوشنبه ۲۵ آبان، ۶۴ شهروند شیعه این کشور، از جمله ۵۷ روحانی، را به اتهام‌های مرتبط با «تروریسم» و ارتباط با سپاه پاسداران به حبس ابد محکوم کرد.
 ‏
-‏به گزارش خبرگزاری فرانسه به نقل از مؤسسه حقوق و دموکراسی بحرین، مستقر در بریتانیا، پنج متهم دیگر نیز به ۱۵ سال زندان محکوم شده‌اند.
-‏
-‏در این پرونده که در مجموع ۶۹ متهم دارد، ۱۳ نفر از جمله آیت‌الله عیسی قاسم، معمم سرشناس شیعه، به‌صورت غیابی محاکمه شده‌اند.
-‏
 ‏مقام‌های بحرین متهمان را به «تشکیل گروه تروریستی، همکاری با سپاه پاسداران و تلاش برای سرنگونی نظام حکومتی» این کشور متهم کرده‌اند.
-‏
-‏این احکام در حالی صادر شده که بحرین از زمان آغاز جنگ ایران با آمریکا و اسرائیل صدها نفر را به اتهام جاسوسی یا ارتباط با سپاه بازداشت کرده است.
 ‏@VahidHeadline
 ‏
 ‏📡 @VahidOnline
@@ -3281,16 +3284,6 @@ src :@Artemis_Force
 
 
 
-src :@Alibk3
-‏بحرية الجيش الإيراني:
-‏
-‏اندلاع حريق في ناقلة نفط أخرى مخالفة في شرق مضيق هرمز.
-10:02
-1405/08/25
-
-
-
-
 src :@wfwitness
 ‏⚡️🇮🇷 Unconfirmed reports indicate an oil tanker has been targeted in the Strait of Hormuz.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 10:02
@@ -3425,16 +3418,6 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 09:31
-1405/08/25
-
-
-
-
-src :@ClashReport
-‏Iran’s IRGC Navy says two oil tankers escorted by U.S. fighter jets struck naval mines in the Strait of Hormuz, triggering massive explosions.
-‏
-‏It claims six tankers have caught fire and are sinking since yesterday, causing widespread pollution.
-09:28
 1405/08/25
 
 
