@@ -1,3 +1,34 @@
+src :@P_raetorio
+[عکس]
+‏وضعیت پیشروی‌های روسیه در خاک اوکراین در دو ماه گذشته حتی از قبل هم بدتر شده و علی‌رغم تلفات بی‌سابقه و وحشتناک روس‌ها که به ادعای بعضی منابع فقط در ماه اکتبر بالغ بر ۵۴ هزار نفر بوده است، عملاً این اوکراین بوده که در حال بازپسگیری خاک خود از روسیه بوده است. حملات عمقی اوکراین به پالایشگاه‌های روسیه هم اخیراً دوباره اوج گرفته و طبق ادعای زلنسکی در روز گذشته، حالا ۵۵ درصد ظرفیت پالایشگاهی روسیه از بین رفته است.
+23:26
+1405/08/25
+
+
+
+
+src :@intelslava
+‏🇺🇸🇷🇺🇺🇦🇪🇺⚡️ Jared Kushner says progress is being made toward ending the war in Ukraine following talks with Russian official Yuri Ushakov and a separate call with Ukraine and European partners.
+‏
+‏The discussions included national security advisers from Germany, France, the UK, Poland, and Italy, alongside EU and NATO representatives.
+‏
+‏The talks focused on restoring direct dialogue between Europe and Russia and preparing for the next multilateral meeting.
+‏
+‏@IntelSlava
+23:24
+1405/08/25
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏گزارش از صدای انفجاری در سیریک
+23:23
+1405/08/25
+
+
+
+
 src :@MilitarryWorld
 ‏🔴صدای دو انفجار در سیریک گزارش شد
 ‏
@@ -1320,17 +1351,6 @@ src :@defence_news
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: U.S. embassies across Europe issued a coordinated security alert on Monday, warning American citizens to stay vigilant during the holiday season as terrorists and criminals may target crowded public sites.
-‏
-‏READ MORE
-21:37
-1405/08/25
-
-
-
-
 src :@Alibk3
 ‏سماع دوي انفجارات في مضيق هرمز الآن.
 21:37
@@ -1451,17 +1471,6 @@ src :@IranintlTV
 [فایل]
 ‏🎧نسخه صوتی تیتراول با نیوشا صارمی: ترامپ در راه نشست بی‌سابقه با شی و پوتین؛ معامله بر سر جمهوری اسلامی؟
 ‏@iranintlTV
-21:33
-1405/08/25
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Nvidia’s board is not considering reinstating Jensen Huang as CEO and is instead focused on investigating whether he compromised national security or company secrets.
-‏
-‏Source: CNBC
 21:33
 1405/08/25
 
@@ -5428,16 +5437,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@WAR_ROOM_NEWS
-‏ناو هواپیمابر روزولت وارد منطقه عملیاتی سنتکام شد و شمار ناوهای هواپیمابر آمریکا در منطقه به سه فروند رسید اتفاقی که برای نخستین بار از سال ۲۰۰۳ رخ می‌دهد
-‏
-‏🆔@WAR_ROOM_NEWS
-10:00
-1405/08/25
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔹در نامه جمعی از اهالی ورزش؛
@@ -6095,13 +6094,4 @@ src :@OSINTWarfare
 [عکس]
 ‏🇮🇷❌🇺🇸 — Several anti-ship cruise missiles were launched from the coastal city of Kong in southern Iran.  @OSINTWarfare
 23:29
-1405/08/24
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏— 🇺🇸/🇮🇷 NEW: Missile launches from Iran towards the U.S. Navy  @Middle_East_Spectator
-23:23
 1405/08/24
