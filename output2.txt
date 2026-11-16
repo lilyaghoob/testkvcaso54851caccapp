@@ -1,6 +1,41 @@
-src :@tabzlive
-‏Tabz - Live News pinned a photo
-16:22
+src :@MilitarryWorld
+‏🔴اسرائیل هیوم: نتانیاهو در حال پیگیری جدی برای آغاز یک جنگ علیه ایران است
+‏
+‏@MilitarryWorld | Parsa
+16:27
+1405/08/25
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The U.S. Navy quietly relieved Cmdr. Caitlin Cunningham as commander of USS Michael Murphy, citing a loss of confidence, after the destroyer’s 346-day deployment that included combat against Iran.
+‏
+‏READ MORE
+16:25
+1405/08/25
+
+
+
+
+src :@naya_foriraq
+‏🇾🇪🇾🇪انفجارات تهز العاصمة السعودية الرياض بعد هجوم مسير للقوات المسلحة اليمنية
+16:25
+1405/08/25
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏به گزارش خبرگزاری «هرانا»، حکم حبس «امیرحسین محسنی‌پور»، «مهدی کرمی» و «میلاد کریمی‌نسب»، سه زندانی سیاسی محبوس در زندان دهدشت، به رای باز تبدیل شد. 
+‏
+‏این سه، از زندان خارج شده‌اند و باقی‌مانده دوران محکومیت خود را بیرون از زندان می‌گذرانند. با این حال آن‌ها موظفند هر روز به زندان مراجعه کرده و حضور خود را ثبت کنند. 
+‏بخوانید: https://iranwire.com/fa/news-1/160304
+‏
+‏@Farsi_Iranwire
+16:24
 1405/08/25
 
 
@@ -1332,16 +1367,6 @@ src :@naya_foriraq
 src :@Shin_Persian
 ‏Shin ✓  @hey_itsmyturn  A large number of CTS forces are reportedly ready for storming Jurf Al Sakhar IF IRGC-backed Kataib Hezballah refuse to evacuate the base.  ترجمه خودکار فارسی  گزارش شده است که شمار زیادی از نیروهای سازمان مبارزه با تروریسم عراق آماده…
 14:17
-1405/08/25
-
-
-
-
-src :@naya_foriraq
-‏🔻الهيئة المنظمة ليوم الغضب الشعبي في البحرين: المؤبد على كبار العلماء مؤبد علينا جميعاً… فلتهتزّ الأرض تحت أقدام الظالمين في يوم غضبٍ جديد
-‏
-‏https://t.me/naya_foriraq
-14:15
 1405/08/25
 
 
@@ -2728,16 +2753,6 @@ src :@Indypersian
 
 
 
-src :@MilitarryWorld
-‏🔴عراقچی اعلام کرد: در نشست وزاری خارجه اکو از طرح دو روزه ایران که منجر به خاتمه جنگ می‌شود استقبال شد !
-‏
-‏@MilitarryWorld | Parsa
-11:34
-1405/08/25
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏کدام رشته‌ها‌های تحصیلی بیشترین درآمد را در عمرکاری در آمریکا ایجاد می‌کنند؟
@@ -3457,21 +3472,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[عکس]
-‏British Prime Minister Andy Burnham says Brexit has failed, arguing that Britain has lost more than it gained from leaving the EU. 
-‏
-‏Ahead of Friday’s EU summit in Brussels, Burnham is seeking agreements to reduce food trade barriers and ease youth mobility restrictions. 
-‏
-‏He also wants to explore broader options for Britain’s long-term relationship with the EU, while respecting Labour’s existing commitments against rejoining the single market or customs union.
-‏
-‏Source: Reuters
-09:54
-1405/08/25
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏درود و صبح شما بخیر
@@ -3869,26 +3869,6 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 07:49
-1405/08/25
-
-
-
-
-src :@Indypersian
-‏⭕️سه اقدام پیشگیرانه که به گفتهٔ متخصصان قلب، می‌تواند جانمان را نجات دهد
-‏
-‏📌«کلسترول اهمیت ویژه‌ای دارد، زیرا نمی‌توان میزان آن را از روی ظاهر افراد تشخیص داد. ممکن است لاغر باشید، به‌طور منظم ورزش کنید و احساس سلامتی داشته باشید، اما همچنان کلسترولتان بالا باشد. سابقهٔ خانوادگی نیز نقش مهمی دارد»
-‏
-‏♦️در پی انتشار گزارش‌هایی مبنی بر اینکه در سال گذشته، بیش از ۱۱۰ هزار مورد مرگ «قابل پیشگیری» بودند، یک متخصص قلب و عروق از افراد خواست سه بررسی سادهٔ سلامت را انجام دهند.
-‏
-‏بر اساس تازه‌ترین آمار اداره ملی آمار بریتانیا (ONS)، سال گذشته در انگلستان ۱۱۰ هزار و ۸۰۴ نفر بر اثر عواملی جانشان را از دست دادند که با اقدام‌های موثر بهداشت عمومی یا دریافت به‌موقع خدمات درمانی، قابل پیشگیری یا درمان بودند.
-‏
-‏در ولز، نیز هشت هزار و ۱۱ مورد مرگ دیگر در دسته مرگ‌های قابل‌پیشگیری طبقه‌بندی شدند.
-‏
-‏ بیشتر بخوانید...
-‏🖌مریم ذاکر حسین
-‏@IndyPersian
-07:37
 1405/08/25
 
 
@@ -4650,18 +4630,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 23:54
-1405/08/24
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏حکم اعدام حسین رسولی‌نسب، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ در شاندیز، پس از یک درجه تخفیف مجازات به حبس تبدیل شد. او پیش‌تر در زندان وکیل‌آباد مشهد به سر می‌برد و حکم اعدامش در دیوان عالی کشور تایید شده بود.
-‏وب‌سایت هرانا، روز یکشنبه ۲۴ آبان ۱۴۰۵، نوشت که نزدیکان حسین رسولی‌نسب با انتشار مطلبی در شبکه‌های اجتماعی از تغییر حکم اعدام او خبر داده‌اند. بر اساس گزارش هرانا، میزان دقیق مجازات حبس او هنوز مشخص نیست و «حکم جدید در حال بررسی آن است».
-‏بیشتر بخوانید: ​​ https://iranwire.com/fa/news-1/160276
-‏@Farsi_Iranwire
-23:53
 1405/08/24
 
 
