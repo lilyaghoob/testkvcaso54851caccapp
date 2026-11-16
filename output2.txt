@@ -1,3 +1,48 @@
+src :@Indypersian
+[عکس]
+‏♦️کشورهای اردن و عراق روز دوشنبه ۲۵ آبان دسترسی به پیام‌رسان «تلگرام» را مسدود کرده و فعالیت آن را ممنوع اعلام کردند. این تصمیم با استناد به نگرانی‌های امنیتی و تلاش برای مقابله با انتشار محتوای افراطی، جرایم سایبری و تهدیدات امنیت ملی اتخاذ شده است.
+‏
+‏مدیریت امنیت عمومی اردن اعلام کرد که این اقدام در راستای صیانت از جامعه، جلوگیری از باج‌خواهی، تهدید و نشر محتوای غیرقانونی صورت گرفته است. این تصمیم پس از آن اتخاذ شد که دادگاهی در اردن سه نفر را به اتهام دست داشتن در حمله مرگبار ماه گذشته به یک کلیسا به اعدام محکوم کرد.
+‏
+‏همزمان، کمیسیون رسانه و ارتباطات عراق نیز به دستور علی فالح الزیدی، نخست‌وزیر این کشور، مسدودسازی تلگرام را در سراسر عراق کلید زد. هدف از این اقدام مهار بهره‌برداری از شبکه‌های اجتماعی برای ترویج گفتمان‌های افراطی و تحریک به خشونت اعلام شده است. این ممنوعیت در حالی در عراق اجرایی شده که تنش‌ها میان دولت و گروه‌های مسلح حامی جمهوری اسلامی ایران تشدید شده و این پیام‌رسان به‌طور گسترده توسط نهادهای دولتی، رسانه‌ها و جریان‌های مختلف مورد استفاده قرار می‌گرفت.
+‏
+‏@INDYPERSIAN
+23:30
+1405/08/25
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی چشم‌انداز: جنگ یا ادامه محاصره؛ برنامه ترامپ برای این چیست؟!
+‏@iranintlTV
+23:30
+1405/08/25
+
+
+
+
+src :@intelslava
+‏🇮🇷🇺🇸⚡️ — Several explosions have been heard in Sirik, southern Iran.
+‏
+‏@IntelSlava
+23:28
+1405/08/25
+
+
+
+
+src :@OSINTWarfare
+‏🇮🇷🇺🇸⚡️ — Several explosions have been reported in Sirik. It remains unclear whether they were caused by U.S. airstrikes or the launch of anti-ship cruise missiles targeting vessels in the Strait of Hormuz.
+‏
+‏@OSINTWarfare
+23:28
+1405/08/25
+
+
+
+
 src :@P_raetorio
 [عکس]
 ‏وضعیت پیشروی‌های روسیه در خاک اوکراین در دو ماه گذشته حتی از قبل هم بدتر شده و علی‌رغم تلفات بی‌سابقه و وحشتناک روس‌ها که به ادعای بعضی منابع فقط در ماه اکتبر بالغ بر ۵۴ هزار نفر بوده است، عملاً این اوکراین بوده که در حال بازپسگیری خاک خود از روسیه بوده است. حملات عمقی اوکراین به پالایشگاه‌های روسیه هم اخیراً دوباره اوج گرفته و طبق ادعای زلنسکی در روز گذشته، حالا ۵۵ درصد ظرفیت پالایشگاهی روسیه از بین رفته است.
@@ -8,7 +53,7 @@ src :@P_raetorio
 
 
 src :@intelslava
-‏🇺🇸🇷🇺🇺🇦🇪🇺⚡️ Jared Kushner says progress is being made toward ending the war in Ukraine following talks with Russian official Yuri Ushakov and a separate call with Ukraine and European partners.
+‏🇺🇸🇷🇺🇺🇦🇪🇺⚡️ — Jared Kushner says progress is being made toward ending the war in Ukraine following talks with Russian official Yuri Ushakov and a separate call with Ukraine and European partners.
 ‏
 ‏The discussions included national security advisers from Germany, France, the UK, Poland, and Italy, alongside EU and NATO representatives.
 ‏
@@ -6074,24 +6119,4 @@ src :@Middle_East_Spectator
 ‏
 ‏@Middle_East_Spectator
 23:34
-1405/08/24
-
-
-
-
-src :@cataphract1
-[عکس]
-‏⚜تصویر منتشر شده مربوط به شلیک موشک کروز از بندر لنگه.
-‏✒️#LT
-‏📃@Cataphract1
-23:29
-1405/08/24
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇮🇷❌🇺🇸 — Several anti-ship cruise missiles were launched from the coastal city of Kong in southern Iran.  @OSINTWarfare
-23:29
 1405/08/24
