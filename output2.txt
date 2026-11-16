@@ -1,8 +1,43 @@
-src :@tabzlive
-‏🇮🇷🇺🇸⚡️ — Iran’s IRGC Navy claims two more oil tankers struck naval mines and caught fire while attempting to cross the Strait of Hormuz via an “unauthorized southern route” with U.S. military support overnight.
+src :@MilitarryWorld
+‏🔴اردن  تلگرام را به دلیل نگرانی‌های امنیت ملی مسدود کرد
 ‏
-‏It says six tankers have now caught fire and sunk since yesterday, causing pollution across the strait.
-14:31
+‏@MilitarryWorld | Parsa
+14:37
+1405/08/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — The Trump administration plans to designate Nvidia, Amazon, Microsoft, OpenAI, Anthropic and more than two dozen other companies as AI “national champions” to help U.S. firms compete with China internationally, WSJ reports.
+‏
+‏The designation itself would provide faster export approvals, government support overseas and access to federal financing. 
+‏
+‏The initiative is set to be announced within a week.
+14:36
+1405/08/25
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇮🇷🇺🇸⚡️ — Iran’s IRGC Navy announced it captured a U.S. MQM-170 drone intact as a result of an electronic warfare operation south of Qeshm Island. 
+‏
+‏The IRGC stated the drone was monitoring air defense and electronic warfare systems.
+‏
+‏It marks the fourth MQM-170 and eighth drone captured intact by the IRGC in the Strait of Hormuz area.
+14:34
+1405/08/25
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏روسیه، یک فروند بمب‌افکن راهبردی توپولف Tu-22M3  که در سال ۱۹۹۳ در کارخانه هوانوردی کازان ساخته شده بود، هرگز حتی یک ساعت پرواز عملیاتی انجام نداد و ارتش روسیه نیز آن را تحویل نگرفت؛ این هواپیما سرانجام به‌عنوان یک یادمان در نزدیکی کارخانه قرار گرفت. روسیه پس از فروپاشی شوروی حدود ۱۷۰ فروند Tu-22M3 به ارث برد، اما به‌دلیل فرسودگی و خروج تدریجی هواپیماها از خدمت، در زمان تشکیل نیروی هوافضای روسیه تنها حدود ۶۰ فروند از این بمب‌افکن‌ها در فهرست موجودی باقی مانده بود.  گزارش رسانه‌های روسی طی دهه ۲۰۱۰ و حتی سال ۲۰۲۱ برای فروش ۳۶ فروند از این هواپیماها به چین در ازای حدود ۱.۵ میلیارد دلار اشاره می‌کند؛ معامله‌ای که در نهایت عملی نشد. از سوی دیگر، در پایان سال ۲۰۲۱ شش بدنه نیمه‌تمام Tu-22M3 در کارخانه کازان وجود داشت که فاقد موتور و تجهیزات اویونیک بودند؛ اما برخلاف گمانه‌زنی‌های اولیه درباره تکمیل آن‌ها، در نهایت تنها دو بدنه به‌عنوان منبع تأمین قطعات مورد استفاده قرار گرفتند.
+14:33
 1405/08/25
 
 
@@ -2459,16 +2494,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@MilitarryWorld
-‏🔴سپاه پاسداران: دو نفتکش در تنگه هرمز با مین دریایی برخورد کردند و منفجر شدند
-‏
-‏@MilitarryWorld | Parsa
-09:59
-1405/08/25
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏فوری
 ‏
@@ -4275,16 +4300,6 @@ src :@GeoPWatch
 
 
 
-src :@jangaavaran1390
-[عکس]
-‏تصویری که گفته می‌شود مربوط به جریان جنگ ۴۰ روزه و برخاستن یکی از بمب افکن‌های ب ۵۲ ارتش آمریکا از پایگاه‌های هوایی خود در اروپاست 
-‏در تصویر بمب افکن مجهز به ۱۲ موشک کروز ای جی ام ۱۵۸ است که بسته به مدل بین ۵۰۰ تا ۹۰۰ کیلومتر برد دارد
-23:45
-1405/08/24
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -4673,14 +4688,6 @@ src :@OSINTWarfare
 src :@samueltarikh
 ‏⭕️وای‌نت : کابینه امنیتی اسرائیل در جلسه امشب احتمالا اقدام نظامی علیه ایران را تصویب می‌کند؛ اقدامی که می‌تواند در قالب جنگ یا یک عملیات نظامی تعریف شود.
 22:42
-1405/08/24
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — Yemen's Houthis (Ansarallah) announced that they have successfully targeted oil pumping stations No. 5 and No. 6 along Saudi Arabia's East-West Pipeline in the Riyadh region using two drones.
-22:39
 1405/08/24
 
 
@@ -6430,42 +6437,4 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 14:38
-1405/08/24
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏🇩🇪 🇺🇦⚡️— On November 13, the Bundestag’s Budget Committee approved a proposal for Germany’s 2027 defense budget, which exceeds €139 billion. Of this amount, €11.6 billion is earmarked for military aid to Ukraine, — Militarnyi 
-‏
-‏🇪🇺 — Legion Europa | Group Chat
-14:35
-1405/08/24
-
-
-
-
-src :@Artemis_Force
-‏شرکت کره‌ای HD Hyundai و شرکت آمریکایی Anduril، آزمایش‌های مشترکی را برای فناوری‌های ناوبری خودکار کشتی در نزدیکی لانگ بیچ، کالیفرنیا، انجام دادند. این اولین نمایش سیستم‌های ناوبری خودکار کره‌ای در آب‌های ایالات متحده است.  این آزمایش به مدت 3.5 ساعت طول کشید.…
-14:33
-1405/08/24
-
-
-
-
-src :@Americana_ir
-‏📰 چگونه اسرائیل حمایت آمریکا را از دست داد
-‏
-‏▪️نشریه فایننشال تایمز گزارش داد، حمایت سنتی و دوحزبی آمریکا از اسرائیل به‌شدت تضعیف شده است. جنگ غزه و پیامدهای جنگ با ایران، افکار عمومی آمریکا را علیه اسرائیل تغییر داده و به افزایش مخالفت با ادامه کمک‌های نظامی واشنگتن به تل‌آویو دامن زده است. به گفته دنیس راس، دیپلمات ارشد سابق آمریکا، اکنون ۶۰ درصد آمریکایی‌ها با اسرائیل و سیاست‌های آن مخالف‌اند.
-‏
-‏▪️بسیاری از آمریکایی‌ها معتقدند نتانیاهو واشنگتن را وارد جنگی پرهزینه با ایران کرده که به افزایش قیمت انرژی و دشوار شدن خروج آمریکا از درگیری انجامیده است. نارضایتی از این جنگ نیز یکی از عوامل شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای بود. هم‌زمان، جی‌دی ونس و دونالد ترامپ خواستار بازنگری در روابط آمریکا و اسرائیل شده‌اند.
-‏
-‏▪️سیاست نتانیاهو در نزدیک شدن به جمهوری‌خواهان و تقابل با دولت‌های دموکرات، به‌ویژه مخالفت علنی با توافق هسته‌ای ایران در سال ۲۰۱۵، حمایت دوحزبی از اسرائیل را تضعیف کرده است. لابی آیپک نیز با وجود هزینه‌کرد حدود ۷۰ میلیون دلار در انتخابات میان‌دوره‌ای، با شکست برخی نامزدهای مورد حمایتش و افزایش هزینه سیاسی حمایت از اسرائیل روبه‌رو شده است.
-‏
-‏▪️برخی مقامات سابق اسرائیلی معتقدند تشکیل دولت جدید در تل‌آویو و تغییر رویکرد در قبال واشنگتن می‌تواند بخشی از این شکاف را ترمیم کند. توقف گسترش شهرک‌سازی و احیای روابط با هر دو حزب آمریکا از جمله پیشنهادهای مطرح‌شده است؛ هرچند اختلافات بر سر سیاست‌های امنیتی اسرائیل در غزه و لبنان همچنان پابرجاست.
-‏
-‏🔗 لینک منبع
-‏🆔 @Americana_ir
-14:32
 1405/08/24
