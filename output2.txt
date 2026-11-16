@@ -1,7 +1,46 @@
+src :@ClashReport
+[عکس]
+‏The Trump administration plans to designate Nvidia, Amazon, Microsoft, OpenAI, Anthropic and more than two dozen companies as AI “national champions” to help U.S. firms compete with China overseas.
+‏
+‏The designation would provide faster export approvals, government support abroad and access to federal financing.
+‏
+‏Commerce Secretary Howard Lutnick is expected to announce the initiative within a week, despite growing scrutiny of Nvidia over concerns about Chinese access to advanced U.S. chips.
+‏
+‏Source: WSJ
+10:04
+1405/08/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷🇺🇸 Iranian Foreign Minister Abbas Araghchi says the region needs an independent security framework, blaming the United States and Israel for the insecurity in the Persian Gulf and the developments surrounding the Strait of Hormuz.  Araghchi said Iran has…
+10:03
+1405/08/25
+
+
+
+
+src :@Artemis_Force
+‏🛑ناوگروه ضربتی رزولت حدودا ٣ تا ۵ روز با منطقه تحت مسئولیت سنتکام فاصله دارد! و به احتمال زیاد تا ٩۶ ساعت آینده وارد منطقه پنجم نیرو دریایی ایالات متحده آمریکا خواهد شد، ناوگروه آبی خاکی ARG مایکین آیلند LHD 8 نیز همچنان در آب های ژاپن قرار دارد  @artemis_force
+10:02
+1405/08/25
+
+
+
+
 src :@Alibk3
 ‏بحرية الجيش الإيراني:
 ‏
 ‏اندلاع حريق في ناقلة نفط أخرى مخالفة في شرق مضيق هرمز.
+10:02
+1405/08/25
+
+
+
+
+src :@wfwitness
+‏⚡️🇮🇷 Unconfirmed reports indicate an oil tanker has been targeted in the Strait of Hormuz.  @wfwitness
 10:02
 1405/08/25
 
@@ -19,6 +58,16 @@ src :@Parvazdaroj
 
 
 
+src :@WAR_ROOM_NEWS
+‏🔴 گزارش‌های تاییدنشده حاکی از آن است که یک نفتکش در تنگه هرمز مورد هدف حمله سپاه قرار گرفته است
+‏
+‏🆔@WAR_ROOM_NEWS
+10:01
+1405/08/25
+
+
+
+
 src :@wfwitness
 ‏⚡️🇮🇷 Unconfirmed reports indicate an oil tanker has been targeted in the Strait of Hormuz.
 ‏
@@ -31,6 +80,8 @@ src :@wfwitness
 
 src :@WAR_ROOM_NEWS
 ‏ناو هواپیمابر روزولت وارد منطقه عملیاتی سنتکام شد و شمار ناوهای هواپیمابر آمریکا در منطقه به سه فروند رسید اتفاقی که برای نخستین بار از سال ۲۰۰۳ رخ می‌دهد
+‏
+‏🆔@WAR_ROOM_NEWS
 10:00
 1405/08/25
 
@@ -5878,15 +5929,4 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 10:28
-1405/08/24
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏★لود معروف جنگنده های یاک۱۳۰ ایرانی که تا به امروز دیده شده. این لود به نسبت سبک از دو موشک حرارتی آر۷۳ و دو مخزن سوخت خارجی زیر بالها تشکیل شده و برای مداومت پروازی بالا و گشت زنی بهینه است اما یکی از بزرگترین مشکلاتی که در نیروی هوایی ایران وجود داشت نبود بهینه سازی لود های هوا به هوا در برابر تهدیدات و استفاده از آرایش های قدیمی است درحالی که امروزه برنامه های دفاع سخت در برابر موشک های هوا به هوا در جریان است که باعث می‌شود کمیت بکار گرفته شده روی جنگنده بیش از پیش مهم شود اما همچنان از آرایش های سبک استفاده میشد. در خصوص این آرایش که گویا برای هواپیماهای آلرت نیز بکار گرفته شد امکان نصب پاد های محبوب و کارآمد تالیسمان که بدون درگیر کردن پایلون و با درگ و وزن پایین میتواند توان دفاعی به جنگنده اعطا کند امکان بهتر شدن را داشت
-‏
-‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
-10:03
 1405/08/24
