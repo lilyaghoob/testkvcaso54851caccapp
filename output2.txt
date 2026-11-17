@@ -1,3 +1,76 @@
+src :@MilitarryWorld
+‏🔴طبق گزارشات مردمی، اعتراضات امروز آبدانان شلوغ و پر جمعیت گزارش شده و حدود ۳۰۰۰ الی ۵۰۰۰ نفر حضور داشتن
+‏
+‏@MilitarryWorld | Parsa
+18:41
+1405/08/26
+
+
+
+
+src :@ClashReport
+‏A new independent study found that advanced AI models frequently misidentified civilians, ambulances, surrendering soldiers and a school as military targets in simulated scenarios. 
+‏
+‏Anthropic’s models performed worst, while OpenAI’s ranked among the best but still made errors.
+‏
+‏Source: Bloomberg
+18:40
+1405/08/26
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️سازمان عملیات تجارت دریایی بریتانیا (UKMTO) روز سه‌شنبه ۲۶ آبان با انتشار اطلاعیه‌ای از وقوع یک حادثه امنیتی در فاصله ۸۰ کیلومتری جنوب غربی بندر «المکلا» در یمن خبر داد.
+‏
+‏بر اساس این گزارش، یک قایق کوچک (اسکف) مجهز به تسلیحات و نردبان، به یک کشتی باری نزدیک شده و افراد ناشناس تلاش کرده‌اند تا به زور وارد عرشه کشتی شوند. با این حال، تیم امنیتی مسلح مستقر بر روی کشتی باری با شلیک تیر اخطار به سمت قایق مهاجم، آن‌ها را مجبور به تغییر مسیر و عقب‌نشینی به سمت قایق مادر کردند. در این گزارش مشخص نشده که این گروه به نیروهای حوثی وابسته بودند یا این یک تلاش ناموفق از سوی دزدان دریایی برای ربودن کشتی بوده است.
+‏
+‏مقام‌های دریایی ضمن اعلام اینکه وضعیت خدمه و کشتی امن گزارش شده است، از تمامی شناورهای عبوری در منطقه خواسته‌اند با احتیاط کامل تردد کرده و هرگونه فعالیت مشکوک را به این سازمان گزارش دهند. تحقیقات ارگان‌های ذی‌ربط درباره این حادثه ادامه دارد.
+‏@indypersian
+18:40
+1405/08/26
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏🇷🇸⚡️ — A Serbian Air Force and Air Defence (SAFAD) MiG-29SM+ multirole fighter assigned to the 204th Aviation Brigade at Batajnica Air Base crashed northwest of Belgrade on November 17, 2026, killing the pilot.
+‏
+‏The aircraft went down in an open field near Stara Pazova at approximately 8:45 a.m. local time.
+‏
+‏@OSINTWarfare
+18:39
+1405/08/26
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏5 very severe explosions in Qeshm city, possibly at the Nariman air defense site. Like the first days of the war.
+‏Hormozgan Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/AeD69GybCbTrQUGEtrJ3cvNk
+‏
+‏ترجمه خودکار فارسی
+‏
+‏۵ انفجار بسیار شدید در شهر قشم، احتمالاً در پایگاه پدافند هوایی نریمان. مانند روزهای نخست جنگ.
+‏استان هرمزگان، ایران
+‏
+‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/AeD69GybCbTrQUGEtrJ3cvNk
+‏
+‏𝕏  ·  @shin_persian
+18:38
+1405/08/26
+
+
+
+
 src :@warmonitors
 ‏⚡️The U.S. Embassy in London has issued a security alert urging American citizens in the UK to maintain a low profile and be extra vigilant about the possibility of terrorist attacks during the holiday season. In the alert, the embassy advised its citizens to take personal safety precautions, be aware of their surroundings, and exercise particular caution in crowded areas and at holiday events that attract large crowds.
 ‏
@@ -1663,14 +1736,6 @@ src :@P_raetorio
 
 
 
-src :@naya_foriraq
-‏العدوان طال مناطق في شرق جزيرة قشم
-16:49
-1405/08/26
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏⚜گزارشات اولیه از حمله به قشم. ✒️#LT 📃@Cataphract1
@@ -2204,21 +2269,6 @@ src :@jangaavaran1390
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump’s investment accounts traded between $27 million and $97.5 million in Nvidia shares across at least 103 transactions since his return to the White House. 
-‏
-‏The trades included a sale of up to $1 million days after Trump was reportedly briefed on Nvidia CEO Jensen Huang’s ties to a suspected Chinese spy. 
-‏
-‏Trump denied receiving the briefing.
-‏
-‏Source: CNBC
-16:22
-1405/08/26
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜انهدام یک فروند پهپاد انتحاری لوکاس در تنگه هرمز.
@@ -2703,16 +2753,6 @@ src :@Indypersian
 
 
 
-src :@MilitarryWorld
-‏🔴حمید رسایی ۳ روز از زندون مرخصی گرفت و اومد بیرون برا استراحت
-‏
-‏@MilitarryWorld | Parsa
-15:31
-1405/08/26
-
-
-
-
 src :@cataphract1
 ‏⚜فیلم منتشر شده از سوی سپاه پاسداران از حمله پهپادی به پایگاه شیخ عیسی بحرین. ✒️#LT 📃@Cataphract1
 15:30
@@ -2818,29 +2858,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 15:14
-1405/08/26
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Following an IRGC claim its drones hit a U.S. radar, CENTCOM says multiple Iranian one-way attack drones were intercepted, with no U.S. equipment damaged or American personnel injured in Bahrain.
-‏
-‏Source: @CENTCOM
-‏https://x.com/CENTCOM/status/2122656792358289747
-‏
-‏ترجمه خودکار فارسی
-‏
-‏در پی ادعای سپاه پاسداران مبنی بر اینکه پهپادهایش یک رادار آمریکایی را هدف قرار داده‌اند، فرماندهی مرکزی آمریکا اعلام کرد چندین پهپاد تهاجمی یک‌طرفه ایرانی رهگیری شدند و در بحرین هیچ‌یک از تجهیزات آمریکا آسیب ندید و هیچ نیروی آمریکایی مجروح نشد.
-‏
-‏منبع: @CENTCOM
-‏https://x.com/CENTCOM/status/2122656792358289747
-‏
-‏𝕏  ·  @shin_persian
-15:13
 1405/08/26
 
 
@@ -3404,22 +3421,6 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 13:20
-1405/08/26
-
-
-
-
-src :@Indypersian
-‏⭕️ چرا بیت‌کوین سقوط کرد؟ شش عامل احتمالی از نگاه بنیان‌گذار بایننس
-‏
-‏📌به باور برخی کارشناسان، هک‌ها و حملات سایبری باعث ترس سرمایه‌گذاران شده‌اند
-‏
-‏♦️ارزش بیت‌کوین روز یکشنبه ۱۵ نوامبر در صرافی بایننس به ۶۲ هزار و شش دلار سقوط کرد که پایین‌ترین قیمت آن در حدود سه ماه گذشته بود. به این ترتیب بزرگ‌ترین رمزارز جهان طی ۱۱ روز، حدود ۱۵ درصد از ارزش خود را از دست داده است. در همین بازه زمانی، سرمایه‌گذاران آمریکایی ۱.۹۱ میلیارد دلار از صندوق‌های قابل معاملهٔ بیت‌کوین (ETF) در بورس آمریکا خارج کرده‌اند.
-‏
-‏بیشتر بخوانید...
-‏
-‏@indypersian
-13:18
 1405/08/26
 
 
@@ -5273,17 +5274,6 @@ src :@defence_news
 ‏
 ‏🇮🇷📝 @defence_news 📝🇮🇷
 22:22
-1405/08/25
-
-
-
-
-src :@defence_news
-[عکس]
-‏در بحث صدا خفه کن ها ، دو نفر از این نظامیان به صورت عمومی تجربه کار را داشتند و انتخاب اصلی آنها محصولات شرکت Ase Utra فنلاند بود. این محصولات از نظر آنها خصوصا در ترکیب با سلاح های دقیق زن مثل سری UAR 10 ساخت اوکراین در کالیبر 308 وینچستر گزینه بسیار مناسبی است.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-22:17
 1405/08/25
 
 
