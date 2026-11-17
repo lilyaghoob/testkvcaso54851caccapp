@@ -1,3 +1,19 @@
+src :@rnintel
+‏🇺🇸 - Tomorrow, the Federal Emergency Management Agency (FEMA) will conduct a nationwide emergency alert system that will span radio, television, cable, satellite, and wireline video providers.  The test will be conducted at 2:20PM EST.
+05:37
+1405/08/26
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸 - Heavy Air Defense activity is being reported in Isfahan and Khuzestan.  Air Defense Activity in Isfahan was reported by the State-linked Mehr News.  @GeoPWatch
+05:37
+1405/08/26
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏جی‌دی ونس، معاون ترامپ، به فاکس نیوز گفت ترامپ در ارتباط با برنامه هسته‌ای ایران گزینه‌های زیادی، از جمله افزایش فشارهای نظامی و دیپلماتیک، در اختیار دارد. او گفت با وجود دستاوردهای نظامی آمریکا علیه جمهوری اسلامی، عده‌ای هستند که می‌خواهند جنگ ایران برای مدتی نامحدود ادامه یابد.
@@ -622,7 +638,9 @@ src :@Middle_East_Spectator
 src :@VahidOnline
 [عکس]
 ‏اختصاصی CNN، ترجمه ماشین:
-‏به گفته هفت مقام آمریکایی، اطلاعات جدید نهادهای اطلاعاتی آمریکا نشان می‌دهد که ایران در حال تدوین طرح‌هایی برای هدف قرار دادن مقام‌های ارشد دولت ترامپ از طریق منفجر کردن یک بمب موسوم به «بمب کثیف» یا یک سلاح شیمیایی در واشینگتن دی‌سی است؛ این در حالی است که مقام‌های آمریکایی همچنان درباره اینکه آیا ایران توانایی اجرای چنین طرحی را دارد یا اساساً برای اجرای آن تلاش خواهد کرد، در حال بحث و بررسی هستند.
+‏به گفته هفت مقام آمریکایی، اطلاعات جدید نهادهای اطلاعاتی آمریکا نشان می‌دهد که ایران در حال تدوین طرح‌هایی برای هدف قرار دادن مقام‌های ارشد دولت ترامپ از طریق منفجر کردن یک بمب موسوم به «بمب کثیف» یا یک سلاح شیمیایی در واشینگتن دی‌سی است.
+‏
+‏این در حالی است که مقام‌های آمریکایی همچنان درباره اینکه آیا ایران توانایی اجرای چنین طرحی را دارد یا اساساً برای اجرای آن تلاش خواهد کرد، در حال بحث و بررسی هستند.
 ‏CNN
 ‏شبکه سی‌ان‌ان در گزارشی اختصاصی به نقل از هفت مقام آمریکایی اعلام کرد اطلاعات تازه دستگاه‌های امنیتی ایالات متحده نشان می‌دهد جمهوری اسلامی در حال بررسی طرح‌هایی برای هدف قرار دادن مقامات ارشد دولت پرزیدنت ترامپ با استفاده از «بمب کثیف» یا سلاح شیمیایی در واشنگتن است. با این حال، مقام‌های آمریکایی هنوز درباره توانایی و تصمیم رژیم ایران برای اجرای چنین حملاتی اتفاق نظر ندارند.
 ‏
@@ -2686,17 +2704,6 @@ src :@Artemis_Force
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - CENTCOM have confirmed that USS Theodore Roosevelt (CVN 71) is now in CENTCOM's Area of Responsibility.
-‏
-‏@GeoPWatch
-22:47
-1405/08/25
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇫🇷🇺🇦 French far-right National Rally leader Marine Le Pen held a closed-door meeting with Ukraine’s Ambassador to France, Vadym Omelchenko, in Paris
@@ -4263,14 +4270,6 @@ src :@Parvazdaroj
 
 src :@Artemis_Force
 ‏بریتانیا، هزینه‌های نظامی خود را 15 میلیارد پوند افزایش داد.  دولت بریتانیا افزایش بودجه نظامی به میزان15 میلیارد پوند خبر داد.  بودجه کلی نظامی برای یک دوره چهار ساله، 300 میلیارد پوند خواهد بود,تا سال 2029، هزینه‌های نظامی سالانه از 54 میلیارد پوند به حدود…
-19:01
-1405/08/25
-
-
-
-
-src :@rnintel
-‏🇫🇷🇵🇱🇺🇦⚡️- BREAKING: RFI reveals French military troops have been present in Ukraine since at least this summer. The operation is named "Volia" and is using the EUMAM-Ukraine mission Gerfaut in southern Poland as a cover. France has been deploying officers to train Ukrainian NCOs on Ukrainian territory. The scale of the operation is "light" according to RFI and is solely aimed at training the Ukrainian armed forces.
 19:01
 1405/08/25
 
