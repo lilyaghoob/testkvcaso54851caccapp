@@ -1,3 +1,20 @@
+src :@P_raetorio
+[عکس]
+‏به گزارش شبکه فاکس نیوز پنج تن از مقامات ارشد دولت ترامپ به دلیل ترس و نگرانی از ترور توسط ایران با خانواده خود به یک پایگاه نظامی منتقل شدند که به شرح زیر است:
+‏
+‏مارکو روبیو،وزیر امور خارجه
+‏پیت هگست،وزیر جنگ
+‏اسکات بسنت،وزیر خزانه‌داری
+‏تاد بلانچ،دادستان کل
+‏استفان میلر، رئیس دفتر ریاست جمهوری
+‏
+‏@P_raetorio
+13:29
+1405/08/26
+
+
+
+
 src :@guard_warriors
 [عکس]
 ‏✪ برای اولین بار، جنگنده J-10C نیروی هوایی چین با موشک هدایت‌شونده سنگین به نمایش درآورد. این موشک، نسخه به‌روزرسانی‌شده موشک روسی Kh-29Т است که به‌طور خاص برای هدف قرار دادن پناهگاه‌ها، مراکز فرماندهی، پل‌ها و زیرساخت‌های فرودگاه‌ها طراحی شده است.
@@ -5208,17 +5225,6 @@ src :@tglobaleye
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏خانواده کیان پیرفلک، روز دوشنبه ۲۵ آبان ۱۴۰۵ و همزمان با چهارمین سالگرد کشته شدن فرزندشان به دست ماموران جمهوری اسلامی بر مزار او حاضر شده و یادش را گرامی داشتند. کیان پیرفلک، متولد ۲۱ خرداد ۱۳۹۲، ساکن شهر ایذه در استان خوزستان بود. او در ۲۵ آبان ۱۴۰۱، هنگامی که همراه خانواده‌اش با خودرو در شهر تردد می‌کرد، هدف تیراندازی ماموران حکومت قرار گرفت و جان باخت. پدرش، میثم پیرفلک، نیز در این تیراندازی به‌شدت مجروح شد.
-‏
-‏@Farsi_Iranwire
-20:13
-1405/08/25
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇺🇸 US to designate the Muslim Brotherhood as a terrorist organization.
 ‏
@@ -6297,26 +6303,4 @@ src :@guard_warriors
 ‏
 ‏@Guard_Warriors | Mmd
 13:39
-1405/08/25
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️Russian strikes on Dnipro
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:27
-1405/08/25
-
-
-
-
-src :@warmonitors
-[عکس]
-‏⚡️The first morning image (8:30 AM) of the Crimean Bridge after the enemy attack. The bridge does not appear to have any visible damage from this angle.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-13:27
 1405/08/25
