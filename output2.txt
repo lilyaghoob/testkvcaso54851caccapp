@@ -1,3 +1,50 @@
+src :@BellumActaNews
+[عکس]
+‏👺❌🏦📰 — Hackers injected credit card, crypto-stealing malware into 178 major websites, including major Financial institutions and Media outlets in one of the major supply-chain attack of the last times
+‏
+‏➡️ URI Report says that on 16 November 2026, a malicious JavaScript was served to visitors of 178 organisations through the Optimizely Web experimentation platform. 
+‏
+‏📝 The list includes some of the most visited sites in the world: Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, Equifax, Air France-KLM, Ledger and Peacock.
+‏
+‏➡️ The malware was a multi-purpose kit. It swapped cryptocurrency wallet addresses for the attacker's, skimmed payment cards, stole cookies and screenshots, and on iPhones and iPads it delivered the Coruna and DarkSword iOS exploit kits. 
+‏
+‏💸 Crypto has already been stolen, with verified transactions to the attackers.
+‏
+‏👺 The scripts attempted to replace cryptocurrency payment addresses ​with the attacker's wallet, skim card numbers as users entered credit card details, steal cookies and screenshots, and plant ​exploit code on iOS devices.
+‏
+‏➡️ Cybersecurity firm HudsonRock also ​said it had found evidence that the sites had served malicious ‌code ⁠to their visitors.
+‏
+‏➡️ Salesforce said it ​was investigating ​unauthorized Optimizely ⁠script changes, and had disabled them as a precaution.
+‏
+‏📝 Equifax also investigated the issue ​and ceased using Optimizely. The company ​said it ⁠did not find evidence of any compromise to its systems.
+‏
+‏🤖 Optimizely provides digital experience and experimentation tools that organizations use to test and personalize websites. Its JavaScript files are loaded into customers’ webpages to provide those features.
+‏
+‏🔗 Source: Report URI
+‏➖➖➖➖➖➖➖➖
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+‏➖➖➖➖➖➖➖➖
+‏@BellumActaNews
+10:16
+1405/08/26
+
+
+
+
+src :@mamlekate
+[عکس]
+‏📞 سه شنبه ساعت ۹.۵۷ اتوبان همت بعد از خروجی باکری این دود مشخص بود
+‏
+‏📞 ستون دود شبیه به انفجار دهکده المپیک تهران 
+‏سه شنبه ۲۶ آبان ساعت ۱۰ 
+‏
+‏@mamlekate
+10:13
+1405/08/26
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه استقرار ناو هواپیمابر «یواس‌اس تئودور روزولت» در خاورمیانه را تایید کرد. هم‌زمان، ارتش جمهوری اسلامی از آتش‌گرفتن یک نفتکش دیگر در شرق تنگه هرمز پس از برخورد با مین‌ خبر داد. سازمان عملیات تجارت دریایی بریتانیا نیز از حمله به نفتکشی در نزدیکی خصب عمان گزارش داد.
@@ -304,22 +351,8 @@ src :@wfwitness
 
 
 
-src :@ClashReport
-[عکس]
-‏China is increasingly using American AI models to train cheaper domestic rivals, potentially undermining U.S. chip export restrictions. 
-‏
-‏Chinese researchers are using outputs from OpenAI and other U.S. models through a technique known as “distillation.” 
-‏
-‏Washington has raised concerns over potential intellectual property theft, while Beijing defends the practice as a standard AI development method.
-‏
-‏Source: Reuters
-09:31
-1405/08/26
-
-
-
-
 src :@mamlekate
+[عکس]
 ‏🥖 نون دونرخی شده! نون!
 ‏
 ‏ @mamlekate_pm
@@ -1705,15 +1738,6 @@ src :@IranintlTV
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇮🇷☢️💥❌🇺🇸❗️ — US intel indicates that the Iranian Regime is developing plans to potentially detonate a dirty bomb in Washington, sources say to CNN  ➡️ New US intelligence indicates that Iran is developing plans to target senior Trump administration officials…
-04:10
-1405/08/26
-
-
-
-
 src :@IranintlTV
 [عکس]
 ‏در پی تشدید هشدارهای امنیتی در آمریکا درباره تلاش جمهوری اسلامی برای ترور مقام‌های این کشور، سی‌ان‌ان از برنامه‌ریزی تهران برای حمله احتمالی با «بمب کثیف» یا سلاح شیمیایی در واشینگتن خبر داد. به گفته منابع این شبکه، هنوز شواهدی از تصمیم به اجرای این نقشه‌ها وجود ندارد.
@@ -1895,15 +1919,6 @@ src :@tabzlive
 ‏Trump's declining popularity has been driven partly by the ongoing U.S. war with Iran, which has pushed fuel prices higher and strained Americans' finances, contributing to Republican losses in the November 3 midterm elections.
 ‏
 ‏The poll found that only 31% of Americans support the war against Iran.
-03:17
-1405/08/26
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Only 31% of Americans support the U.S. war in Iran, according to a Reuters/Ipsos poll, as rising fuel prices and economic pressure weigh on public opinion.
 03:17
 1405/08/26
 
