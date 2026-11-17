@@ -1,3 +1,36 @@
+src :@ClashReport
+[عکس]
+‏Mauritius has threatened to sue the UK unless it finalizes the Chagos Islands handover by December 2026. 
+‏
+‏Prime Minister Navin Ramgoolam said legal preparations were complete but diplomacy remained his preferred option.
+01:56
+1405/08/27
+
+
+
+
+src :@GeoPWatch
+‏🇮🇷❌🇺🇸 - In the last 24 hours, Iran has attacked Kuwait and Bahrain.
+01:55
+1405/08/27
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏ماتان کاهانا، عضو حزب یاشار، پس از شش ساعت بحث پارلمانی از سوی ائتلاف نتانیاهو در مخالفت با او، به ریاست کنست انتخاب شد.
+‏
+‏حزب لیکود، به رهبری نتانیاهو، چگونگی این انتخاب را «ننگی برای تمام دوران» خواند و نوشت: «امشب، رییس کنست با رای حامیان تروریسم و به‌صورت یک‌جانبه منصوب شد. این یکی از تاریک‌ترین نقاط تاریخ کنست است.»
+‏
+‏حزب لیکود اعلام کرد: «آیزنکوت، بنت و لیبرمن امروز ترجیح دادند به‌جای وحدت ملی، حامیان تروریسم را انتخاب کنند. تاریخ این اقدام را به یاد خواهد سپرد.»
+‏https://iranintl.com/202611176156
+01:52
+1405/08/27
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇲🇺🇬🇧⚡️ — Mauritius has threatened legal action against the UK if Prime Minister Andy Burnham's government fails to transfer sovereignty over the Chagos Islands by the end of 2026.
@@ -306,7 +339,7 @@ src :@rnintel
 
 
 src :@GeoPWatch
-[فایل]
+[عکس]
 ‏🇮🇷❌🇺🇸🇰🇼 – Loud explosions were heard over Kuwait as local outlets confirm Iranian drones were launched against U.S. bases there. It's unknown whether they are hits or interceptions.
 01:18
 1405/08/27
@@ -1934,29 +1967,6 @@ src :@mohem_mat
 ‏سیاست‌گذاری بد در حوزه آب، زیرساخت غیرنظامی را به هدف نظامی مشروع تبدیل نمی‌کند.
 ‏
 ‏◽️ @Avash_media ◽️ avash.ir ◽️
-23:27
-1405/08/26
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏🔻️️️️️️جیانی اینفانتینو، رییس فیفا، با وجود انتقادهای گسترده از طرح لغوشده جذب سرمایه خصوصی به حقوق تجاری جام جهانی، برای چهارمین دوره ریاست این نهاد تلاش می‌کند. رامون وگا، کوزو تاشیما و فیلیپ دیالو از رقبای او هستند.
-‏
-‏🔹️️️️️️مهلت معرفی نامزدهای ریاست فیفا چهارشنبه ۱۸ نوامبر ۲۰۲۶، ۲۷ آبان ۱۴۰۵ به پایان می‌رسد. انتخابات ۱۸ مارس ۲۰۲۷، ۲۷ اسفند ۱۴۰۵ در رباط مراکش برگزار می‌شود. هر یک از ۲۱۱ فدراسیون عضو فیفا یک رای دارد و نامزدها برای ورود به رقابت به حمایت دست‌کم پنج فدراسیون نیاز دارند.
-‏
-‏🔹️️️️️️با وجود درخواست برخی کنفدراسیون‌ها برای استعفای جیانی اینفانتینو، کنفدراسیون‌های فوتبال آفریقا و آمریکای جنوبی همچنان از او حمایت می‌کنند. کنفدراسیون فوتبال آسیا نیز پس از مخالفت اولیه، حمایت خود را از رییس فیفا اعلام کرده است.
-‏
-‏نامزدهای انتخابات ریاست فیفا
-‏- جیانی اینفانتینو، رییس فعلی فیفا
-‏- رامون وگا، کاپیتان پیشین تیم ملی سوئیس
-‏- کوزو تاشیما، رییس افتخاری فدراسیون فوتبال ژاپن
-‏- فیلیپ دیالو، رییس فدراسیون فوتبال فرانسه
-‏
-‏جزییات بیشتر
-‏
-‏@iranintltvsport
 23:27
 1405/08/26
 
@@ -5764,17 +5774,6 @@ src :@Middle_East_Spectator
 [عکس]
 ‏— 🇺🇸/🇮🇷 More footage of the burning oil tanker blown up by Iran  @Middle_East_Spectator
 13:20
-1405/08/26
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷/🇧🇭 NEW: Overnight, the IRGC claims it launches drones at Bahrain, destroying a U.S. radar installation at Sheikh Issa airbase
-‏
-‏@Middle_East_Spectator
-13:15
 1405/08/26
 
 
