@@ -1786,16 +1786,6 @@ src :@OSINTWarfare
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۲۶ آبان
-‏@iranintlTV
-02:57
-1405/08/27
-
-
-
-
 src :@BellumActaNews
 ‏🇮🇷❌🇰🇼🇺🇸 — Iranian suicide drones targeted Al-Jahra and Ali Al-Salem Air Base in the Emirate of Kuwait
 ‏
