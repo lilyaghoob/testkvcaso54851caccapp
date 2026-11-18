@@ -1,3 +1,53 @@
+src :@Artemis_Force
+[عکس]
+‏تایلند، توسعه‌ی خط تولید خود در زمینه‌ی شهپاد را آغاز کرد.
+‏
+‏شرکت کشتی‌سازی تایلندی، Bangkok Dock، یک توافق‌نامه مشارکت با شرکت ایتالیایی Rostrum Drones منعقد کرد تا تولید و عرضه شناور های بدون سرنشین برای ارتش تایلند و بازارهای صادراتی را پیشبرد کند. 
+‏
+‏این مشارکت شامل سه محصول شرکت "Rostrum" است: Murena، Invictum و Aegidis.
+‏
+‏یک سخنگوی نیروی دریایی تایلند اعلام کرد که این نیرو علاقه‌مند به خرید این پروژه‌ها است. او همچنین افزود که شرکت‌های Bangkok Dock و Rostrum در حال کار بر روی تطبیق این پلتفرم‌ها برای پاسخگویی به نیازهای رو به رشد نیروی دریایی در زمینه‌ی پایش و گشت‌زنی در خلیج سیام هستند.
+‏
+‏@artemis_force
+12:05
+1405/08/27
+
+
+
+
+src :@Minas_Tirith2024
+‏کرسی‌های شمرده شده تا این لحظه:
+‏
+‏مجلس نمایندگان:
+‏
+‏دموکرات‌ها: ۲۵۷
+‏جمهوری‌خواهان: ۱۷۱
+‏
+‏مجلس سنا:
+‏
+‏دموکرات‌ها: ۵۶
+‏جمهوری‌خواهان: ۴۴
+‏
+‏* وضعیت ۷ کرسی مجلس نمایندگان هنوز نامشخص است. جمهوری‌خواهان ۹ کرسی در سنا از دست دادند که در ۶۰ سال گذشته فقط یک بار در سال ۲۰۱۴ مشابه آن رخ داده بود. خداوند به جمهوری‌خواهان رحم کرد که فقط یک سوم کرسی‌ها به رأی گذاشته شده بودند.
+12:03
+1405/08/27
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The European Commission is taking a larger role in Middle East diplomacy as Israel continues to refuse direct contact with EU foreign policy chief Kaja Kallas. 
+‏
+‏Israeli Foreign Minister Gideon Sa’ar cut ties with Kallas in June over reports that she compared Israel’s treatment of Palestinians to apartheid-era South Africa.
+‏
+‏Source: POLITICO
+12:01
+1405/08/27
+
+
+
+
 src :@MilitarryWorld
 ‏🔴حاتمی؛ فرمانده کل ارتش: کسی نگاهی چپ به ایران بیاندازد درس عبرت همگان می‌شود
 ‏
@@ -48,6 +98,8 @@ src :@ClashReport
 
 src :@WAR_ROOM_NEWS
 ‏ارتش اردن: یک فروند بالگرد از نوع بلک هاوک در اردن در حین انجام یک تمرین نظامی آموزشی سقوط کرد.
+‏
+‏🆔@WAR_ROOM_NEWS
 11:50
 1405/08/27
 
@@ -5645,14 +5697,6 @@ src :@Exciton_missile_program
 ‏
 ‏@rus_cosmos
 18:04
-1405/08/26
-
-
-
-
-src :@Artemis_Force
-‏#فوری  تصاویر منتشر شده از جزیره قشم ، خبر از حمله هوایی به این جزیره را می دهد.  🇮🇷📝 @defence_news 📝🇮🇷
-18:02
 1405/08/26
 
 
