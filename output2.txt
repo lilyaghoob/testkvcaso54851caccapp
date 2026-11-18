@@ -1,3 +1,71 @@
+src :@guard_warriors
+[عکس]
+‏✪ گزارش شده است که در تاریخ ۱۲ نوامبر، یک کشتی آزمایشی بدون سرنشین به وزن ۶۰۰ تن به نام ASV Alpha، که توسط شرکت کره‌ای HD Hyundai Heavy Industries (HHI) به همراه شرکت آمریکایی Anduril ساخته شده است، در کارخانه این شرکت در اولسان به آب انداخته شد. این کشتی به طور مشترک توسط HHI و Anduril در مدت ۱۲ ماه طراحی و ساخته شده است تا در رقابت نیروی دریایی ایالات متحده برای خرید ۳۰ فروند کشتی بدون سرنشین چند منظوره در قالب برنامه Medium Unmanned Surface Vessels (MUSV) شرکت کند. این کشتی قرار است در ماه فوریه سال ۲۰۲۷ برای انجام آزمایش‌ها به ایالات متحده منتقل شود. ASV Alpha مجهز به سیستم کنترل خودکار VAone است که توسط شرکت HD Korea Shipbuilding & Offshore Engineering توسعه یافته است، و همچنین مجهز به سیستم نرم‌افزاری و مجموعه‌ای از راهکارهای هدف‌گیری Lattice است که توسط Anduril ساخته شده است. آزمایش این سیستم‌های VAone و Lattice از ماه اکتبر در ایالات متحده، در شهر لانگ بیچ، بر روی یک کشتی آزمایشی به وزن ۳۶۸ تن آغاز شده است.
+‏
+‏@Guard_Warriors | Mmd
+21:16
+1405/08/27
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸🇸🇦 -  U.S. Embassy in Saudi Arabia has issued a renewed security alert.
+21:15
+1405/08/27
+
+
+
+
+src :@intelslava
+‏🇵🇱🇷🇺⚡️ — The Polish press reports that Polish intelligence agencies allegedly prevented a Russian provocation staged under the Ukrainian flag near the borders of the Kaliningrad region.
+‏
+‏The publication states that the sabotage operation near the border with Kaliningrad was planned to be carried out "under a false flag," with the intention of later blaming Ukraine.
+‏
+‏According to the report, the Russian plan allegedly involved individuals posing as "Ukrainian saboteurs" illegally crossing the Polish-Russian border and entering the Kaliningrad region.
+‏
+‏It is claimed that simultaneously, a staged attack on a facility within Russia was planned, with the aim of escalating political tensions.
+‏
+‏According to the newspaper, the goal was to pressure Poland to stop providing assistance to Ukraine.
+‏
+‏There are no other details available: it is unclear whether anyone was arrested, how the provocation was prevented, or any other relevant information.
+‏
+‏Tusk only briefly mentioned a certain provocation.
+‏
+‏@Intelslava
+21:15
+1405/08/27
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇮🇷❌🇺🇸🇧🇭🇰🇼 – The U.S. CENTCOM has denied Iranian reports that American personnel were wounded during the attacks on Bahrain and Kuwait.
+‏
+‏This directly contradicts reports by Fars and other Iranian outlets, which specifically claimed U.S. casualties during the attack on Sheikh Isa Airbase.
+21:14
+1405/08/27
+
+
+
+
+src :@Indypersian
+‏⭕️گروسی: آژانس نمی‌تواند صلح‌آمیز بودن کامل فعالیت‌های هسته‌ای ایران را تأیید کند
+‏
+‏📌مدیرکل آژانس بین‌المللی انرژی اتمی تأکید کرد «بازگشت به دیپلماسی و مذاکرات با هدف یافتن راه‌حلی برای مسائل مرتبط با برنامه هسته‌ای ایران، ضروری است»
+‏
+‏♦️رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، روز چهارشنبه ۱۸ نوامبر (۲۷ آبان) در بیانیه‌ٔ افتتاحیهٔ نشست شورای حکام به موضوع ایران هم پرداخت و تأکید کرد که این نهاد نتوانسته است مسئولیت‌های پادمانی خود را در ایران بر اساس موافقت‌نامه پادمان ان‌پی‌تی، به انجام برساند.
+‏
+‏بیشتر بخوانید...
+‏@indypersian
+21:12
+1405/08/27
+
+
+
+
 src :@defence_news
 [عکس]
 ‏به مناسبت سالروز وفات حضرت ام‌البنین (س)
@@ -30,6 +98,8 @@ src :@jangaavaran1390
 
 src :@WAR_ROOM_NEWS
 ‏فرمانده سنتکام اظهار داشته که در چند روز اخیر هیچ نظامی آمریکایی در منطقه آسیب ندیده است و اطلاعات مربوط به تلفات نیروهای آمریکایی توسط حساب های حامی جمهوری اسلامی دروغ است
+‏
+‏🆔@WAR_ROOM_NEWS
 21:09
 1405/08/27
 
@@ -334,17 +404,6 @@ src :@Indypersian
 
 
 
-src :@warmonitors
-[عکس]
-‏Sorry arsenal but you’re getting smashed mate, my money is on Lyon 🔥🙏
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-20:53
-1405/08/27
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓  @hey_itsmyturn  PM Al-Zaidi postponed his Beirut trip indefinitely.  Government source to Shafaq: the coming hours "could bring rapid developments" that need him home as commander-in-chief.  A source told Shafaq that hours of talks with Qaani produced…
 20:50
@@ -383,6 +442,8 @@ src :@WAR_ROOM_NEWS
 ‏ولی از تنگه هرمز دوتا صدا انفجار اومد 
 ‏
 ‏😂
+‏
+‏🆔@WAR_ROOM_NEWS
 20:47
 1405/08/27
 
@@ -2561,30 +2622,6 @@ src :@GeoPWatch
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏UAV launched from the Fifth Base in Omidiyeh
-‏Khuzestan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/m2-rI7spkZ4Zst41I3OmXFc_
-‏
-‏ترجمه خودکار فارسی
-‏
-‏پهپاد پرتاب‌شده از پایگاه پنجم در امیدیه
-‏استان خوزستان، ایران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/m2-rI7spkZ4Zst41I3OmXFc_
-‏
-‏𝕏  ·  @shin_persian
-18:06
-1405/08/27
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏بالتزامن مع الهجمات الإيرانية، طائرة عسكرية أميركية تتجه نحو قاعدة رامشتاين الجوية في ألمانيا، ضمن مهمة إجلاء طبي غير مجدولة قادمة من منطقة الشرق الأوسط.
@@ -2864,17 +2901,6 @@ src :@tabzlive
 [عکس]
 ‏🇯🇴 — A Jordanian Black Hawk helicopter crashed during a military exercise, injuring 5 soldiers.
 17:38
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏𝕏  ·  @shin_persian
-17:37
 1405/08/27
 
 
@@ -4880,14 +4906,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏🇺🇸❌🇮🇷 - The U.S. Secretary of State Marco Rubio has stated there is no current Iranian threat to the U.S. homeland.
-04:48
-1405/08/27
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇷🇴⚠️ — M5.6 Earthquake hits Romania!
@@ -4896,14 +4914,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 04:48
-1405/08/27
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING 🇮🇷❌🇺🇸🇧🇭 - Alerts in Bahrain.
-04:41
 1405/08/27
 
 
