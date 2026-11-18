@@ -1,4 +1,60 @@
+src :@tabzlive
+‏🇺🇸🇮🇷⚡️ — NEW: The USS George Washington aircraft carrier strike group has departed the Persian Gulf after participating in the U.S. naval blockade against Iran, Bloomberg reports.
+‏
+‏The carrier is believed to be returning to Japan, leaving two U.S. aircraft carrier strike groups deployed in the region.
+23:50
+1405/08/27
+
+
+
+
+src :@cataphract1
+‏هر چند طبق گزارش USNI واشینگتن قرار است با روزولت جایگزین شود ولی تا زمان نامشخصی هر سه در منطقه حضور خواهند داشت.
+23:50
+1405/08/27
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇦🇾🇪🇾🇪Reuters: Saudi Arabia is preparing for its conflict with Yemen’s Houthis to continue for up to six months, potentially stretching into next year as they continue to face set backs in their campaign. 
+‏
+‏Saudi officials want their Yemeni allies to make further territorial gains before entering negotiations with the Houthis. 
+‏
+‏Riyadh believes U.S. offensive support, so far withheld by the Trump administration, could shift the battlefield and allow Saudi-backed forces to achieve their objectives. 
+‏
+‏@wfwitness
+23:50
+1405/08/27
+
+
+
+
 src :@Alibk3
+‏الجيش الإيراني: 
+‏
+‏منذ صباح اليوم، اندلعت حرائق في 3 ناقلات نفط مخالفة وتوقفت عن الحركة، إثر اصطدامها بألغام بحرية، بعدما كانت تبحر في المنطقة المحظورة شرق مضيق هرمز، متجاهلة تحذيرات القوة البحرية للجيش، ومع إطفاء أنظمة الملاحة الخاصة بها.
+23:48
+1405/08/27
+
+
+
+
+src :@didarnews1
+‏🔴 اولین سخنرانی رسایی بعد از زندان: به حکم زندان خودم اعتراض دارم؛ رهبری تاکید دارند که حتی اختلافات موجه را هم ادامه ندهید
+‏
+‏#دیدار_نیوز
+‏didarnews.ir
+‏@didarnews1| @didarnewsir
+23:48
+1405/08/27
+
+
+
+
+src :@Alibk3
+[عکس]
 ‏انفجار عنيف قرب مطار الرياض وتصاعد أعمدة الدخان، الانفجار هز المنازل في محيط المطار.
 23:47
 1405/08/27
@@ -12,6 +68,19 @@ src :@Navy_Iranian
 ‏
 ‏
 ‏⚓️ @Navy_Iranian | #a_m
+23:47
+1405/08/27
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏🇺🇸❌🇮🇷 - 7 USAF Aerial Refueling Tankers are airborne now over the region. 
+‏
+‏6 are visible, 1 is flying dark. 
+‏
+‏Heavy USAF Cargo Flights in and out of Israel are also ongoing.
 23:47
 1405/08/27
 
@@ -32,7 +101,9 @@ src :@ClashReport
 
 
 src :@WAR_ROOM_NEWS
-‏🔴خبر فوری: بنابر برخی گزارشات ناو جرج واشینگتن و گروه ضربتی حامل آن منطقه را ترک کرده و به سمت ژاپن در حرکت است. در حال حاضر، دو ناو هواپیمابر در منطقه خاورمیانه حضور دارند
+‏🔴خبر فوری: بنابر گزارش بلومبرگ ناو جرج واشینگتن و گروه ضربتی حامل آن منطقه را ترک کرده و به سمت ژاپن در حرکت است. در حال حاضر، دو ناو هواپیمابر در منطقه خاورمیانه حضور دارند
+‏
+‏🆔@WAR_ROOM_NEWS
 23:45
 1405/08/27
 
@@ -3774,17 +3845,6 @@ src :@VahidOnline
 
 
 
-src :@tabzlive
-[عکس]
-‏🇺🇸🇷🇺⚡️ — President Trump and Russian President Putin will hold a separate bilateral meeting in Shenzhen on Thursday, in addition to their trilateral meeting with Chinese President Xi Jinping. 
-‏
-‏It will be the first meeting between Trump and Putin since their talks in Anchorage in 2025.
-18:14
-1405/08/27
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏🖤 بلک فرایدی لینگانو شروع شد
@@ -3852,15 +3912,6 @@ src :@GeoPWatch
 [عکس]
 ‏🇮🇷💥 – An explosion was reported in Bandar Abbas, Iran. The source of the blast is currently unknown.
 18:06
-1405/08/27
-
-
-
-
-src :@Alibk3
-[عکس]
-‏بالتزامن مع الهجمات الإيرانية، طائرة عسكرية أميركية تتجه نحو قاعدة رامشتاين الجوية في ألمانيا، ضمن مهمة إجلاء طبي غير مجدولة قادمة من منطقة الشرق الأوسط.
-18:03
 1405/08/27
 
 
@@ -5280,14 +5331,6 @@ src :@USAMRYDATA
 
 
 
-src :@GeoPWatch
-‏🇮🇷❌🇺🇸🇰🇼 – Iranian outlets claim the attack against Kuwait targeted U.S. 'Patriot' air defense systems, as well as other missile and drone systems, in Ali Al Salem Airbase.
-09:02
-1405/08/27
-
-
-
-
 src :@Parvazdaroj
 [عکس]
 ‏Good morning aviator's 
@@ -5960,16 +6003,6 @@ src :@samueltarikh
 
 
 
-src :@cataphract1
-‏⚜یک منبع ارشد به شبکه العربیه گفت که مسیر دیپلماتیک میان آمریکا و ایران تاکنون به هیچ پیشرفت قابل‌توجهی منجر نشده است.
-‏✒️#LT
-‏📃@Cataphract1
-23:59
-1405/08/26
-
-
-
-
 src :@Artemis_Force
 ‏آخرین وضعیت و موقعیت تقریبی ناوگروه های ضربتی ایالات متحده آمریکا در منطقه سنتکام   در حال حاضر شاهد حضور ١۴ ناوشکن ارلی برک ،٢ رزم ناو کلاس‌ تیکاندروگا و ٣ ناو هواپیمابر هسته ای هستیم! ( ناوگان رزمی کلاسیک سطحی در غرب اسیا )   البته ۶ شناور گشتی کلاس سنتینل،…
 23:56
@@ -5988,34 +6021,4 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 23:55
-1405/08/26
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏یک مقام نظامی آمریکا اعلام کرد جنگنده‌های این کشور روز سه‌شنبه ۲۶ آبان با استفاده از مهمات هدایت‌شونده دقیق، یک محل استقرار و پرتاب موشک متعلق به سپاه پاسداران در جزیره قشم را هدف قرار داده‌اند.
-‏
-‏باراک راوید، خبرنگار اکسیوس، در شبکه اجتماعی ایکس به نقل از این مقام نظامی نوشت که این حمله در چارچوب «اقدام دفاع از خود» و در واکنش به حملات سپاه پاسداران علیه نیروها و تجهیزات آمریکایی انجام شده است.
-‏
-‏این مقام نظامی همچنین گفت فرماندهی مرکزی ارتش آمریکا (سنتکام) همچنان در سطح بالایی از آماده‌باش قرار دارد و برای حفاظت از شهروندان و نیروهای آمریکایی در سراسر منطقه آمادگی کامل دارد.
-‏
-‏احمد نفیسی، معاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، پیش‌تر حمله آمریکا به نقاطی در محدوده جزیره قشم را تایید کرده و گفته بود این حمله خسارتی به مناطق مسکونی، تجاری و زیرساخت‌های جزیره وارد نکرده است.
-‏
-‏همزمان با این تحولات، سپاه پاسداران مدعی شده بود یک سامانه راداری متعلق به نیروهای آمریکایی در پایگاه شیخ عیسی بحرین را هدف حمله پهپادی قرار داده است. سنتکام این ادعا را رد کرد و گفت پهپادهای شلیک‌شده از سوی سپاه به سمت بحرین رهگیری و منهدم شده‌اند.
-‏
-‏خبرگزاری رویترز نیز روز سه‌شنبه به نقل از یک مقام نظامی آمریکا گزارش داد که جنگنده‌های آمریکایی حملات هوایی تازه‌ای به یک محل پرتاب موشک در جزیره قشم انجام داده‌اند و این حمله در واکنش به هدف قرار گرفتن نیروها و تجهیزات آمریکا صورت گرفته است.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-23:50
-1405/08/26
-
-
-
-
-src :@Artemis_Force
-‏Task Force Artemis⚓️ pinned a photo
-23:49
 1405/08/26
