@@ -1,3 +1,18 @@
+src :@ClashReport
+[عکس]
+‏Ukraine used domestically developed “flying modems” to help strike and partially collapse Russia’s Kerch Bridge, bypassing Elon Musk’s Starlink network.
+‏
+‏The airborne communication relays allowed Ukrainian operators to guide drones and missiles toward the bridge despite Russian electronic warfare defenses. 
+‏
+‏Ukrainian forces avoided Starshield after its connections were reportedly restricted to speeds of 161 km/h.
+‏
+‏Source: FT
+23:03
+1405/08/27
+
+
+
+
 src :@KayhanLondonChannel
 [عکس]
 ‏‌‌‌‌‌‌‌‌‏ ‌‏ ‏
@@ -23,6 +38,8 @@ src :@naya_foriraq
 ‏#ترفيهي 
 ‏
 ‏🇮🇶الأرهابي الصادر عنه العفو علي حاتم السليمان يقترح على الكتائب الخروج من الجرف والذهاب للحدود وتأسيس دولة لهم هناك.
+‏
+‏https://whatsapp.com/channel/0029VbE1cizHLHQawMq9C50R
 23:01
 1405/08/27
 
@@ -2075,22 +2092,6 @@ src :@bricsnews
 ‏JUST IN: 🇬🇧🇷🇺 Prince Harry says he would rejoin the UK military to fight Russia.
 ‏
 ‏@BRICSNews
-20:44
-1405/08/27
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏تایمز اسرائیل به نقل از ارتش اسرائیل گزارش داد برد کوپر، فرمانده ستاد فرماندهی مرکزی ارتش آمریکا چهارشنبه ۲۷ آبان در مقر ارتش اسرائیل در تل‌آویو با ایال زمیر، رییس ستاد ارتش اسرائیل، و رومن گافمن، رییس موساد، نشست سه‌جانبه‌ای برگزار کرد.
-‏
-‏کوپر در چارچوب سفر منطقه‌ای خود به خاورمیانه و به دعوت زمیر وارد اسرائیل شده است. این دیدار در شرایط ادامه تنش‌ها با جمهوری اسلامی انجام شد.
-‏
-‏بر اساس این گزارش، ارتش اسرائیل همچنین اعلام کرد کوپر و زمیر در نشستی جداگانه با حضور فرماندهان ارشد دو ارتش، تحولات منطقه و چالش‌های امنیتی مشترک را بررسی کردند.
-‏
-‏در گزارش تایمز اسرائیل آمده است گفت‌وگوها بر گسترش همکاری‌های راهبردی و عملیاتی، تقویت هماهنگی و افزایش آمادگی مشترک برای مقابله با سناریوهای مختلف متمرکز بود.
-‏https://iranintl.com/202611189522
 20:44
 1405/08/27
 
@@ -5811,14 +5812,4 @@ src :@thewarreporter
 ‏
 ‏— IRNA | @TheWarReporter
 23:12
-1405/08/26
-
-
-
-
-src :@P_raetorio
-‏سنتکام در بیانیه‌ای رسمی اعلام کرد عصر امروز پس از شناسایی فوری پرتابگر موشک در جزیره قشم،به آن حمله‌ و آن را منهدم کرد.
-‏
-‏@P_raetorio
-23:03
 1405/08/26
