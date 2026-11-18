@@ -1,3 +1,27 @@
+src :@MilitarryWorld
+‏🔴 الاخبار: بر اساس طرح «دو روزه» ایران، آمریکا در روز نخست باید تمامی تعهدات خود را اجرا کند، مانند پایان دادن به جنگ‌ها در تمامی جبهه‌ها
+‏
+‏در روز دوم، تهران تنگه را باز می‌کند و مذاکرات برای توافق نهایی که شامل برنامه هسته‌ای هم هست، آغاز می‌شود.
+‏
+‏اختلاف دو طرف بر سر زمان‌بندی اجرای تعهدات است؛ تهران بر اجرای فوری و هم‌زمان تمامی شروط اصرار دارد. تلاش‌های قطر نتوانسته گشایشی ایجاد کند.
+‏
+‏@MilitarryWorld | Parsa
+16:36
+1405/08/27
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏شرکت اسرائیلی Uvision قصد دارد با ارائه یک کیت ماژولار، امکان شلیک مهمات پرسه‌زن هیرو-120 را از بالگردهای چندمنظوره و ترابری فراهم کند. این سامانه به بالگرد اجازه می‌دهد از فاصله امن مهمات را شلیک کند و حتی کنترل آن را به نیروهای زمینی بسپارد.
+‏کیت پیشنهادی شامل پرتابگر، تجهیزات کنترل و ارتباطات رادیویی است. مهمات HERO-120 با سرجنگی ۴.۵ کیلوگرمی، توان پرسه‌زنی تا ۶۰ دقیقه دارد.
+16:35
+1405/08/27
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏🇬🇷🇮🇱⚡️ — Following their modernization, the Hellenic Army Aviation's AH-64A+ Apache attack helicopters have, for the first time, been equipped with Israeli-made SPIKE NLOS precision-guided missiles.
@@ -2888,16 +2912,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ: در جنگ با ایران عملکرد بسیار خوبی داریم
-‏
-‏@MilitarryWorld | Parsa
-10:34
-1405/08/27
-
-
-
-
 src :@Americana_ir
 ‏📰 چرا دیدار ترامپ، شی و پوتین به توافق هسته‌ای با چین منجر نمی‌شود؟
 ‏
@@ -3229,14 +3243,6 @@ src :@Parvazdaroj
 
 
 
-src :@jangaavaran1390
-‏شبکه ان‌بی‌سی: پنتاگون بسیاری از حملات آمریکا علیه ایران را تایید نکرده است، در حالی که دو کشور به‌طور روزانه به حملات متقابل می‌پردازند. آمریکا با رهگیری پهپادها و موشک‌های شلیک‌شده به کشتی‌های تجاری و احتمالاً حمله به محل پرتاب آن‌ها پاسخ می‌دهد.
-08:59
-1405/08/27
-
-
-
-
 src :@rnintel
 ‏🇮🇶❌🇮🇶 — Al-Mada reports that Iraqi Prime Minister Ali Al-Zaidi has made the decision to enter Kata'ib Hezbollah-controlled Jurf al-Sakhar this Saturday, and has already begun assembling Iraqi government forces outside of the area to prevent anyone from entering…
 08:57
@@ -3262,14 +3268,6 @@ src :@GeoPWatch
 ‏Crude flow has subsequently fallen off after the US election as the daily attacks by Iran have caused unsustainable losses among the tanker fleet. 
 ‏
 ‏Some estimates put the cost of transit through the Strait of Hormuz without the permission from the PGSA at over $30 a barrel, reflecting the high risk premium of such voyages.
-08:55
-1405/08/27
-
-
-
-
-src :@jangaavaran1390
-‏رییس‌جمهور روسیه و رییس‌جمهور چین با هم دیدار کردند
 08:55
 1405/08/27
 
@@ -4481,20 +4479,6 @@ src :@samueltarikh
 src :@intelslava
 [عکس]
 ‏🇮🇷❌🇰🇼🇺🇸 — The Kuwait Army announced that the country is under attack by Iranian drones.
-‏
-‏@IntelSlava
-01:16
-1405/08/27
-
-
-
-
-src :@intelslava
-‏🇺🇦🇪🇺⚡️ — Zelensky demanded that Western partners provide an additional 40 F-16 fighter jets and eight billion euros to cover the shortfall in the military budget.
-‏
-‏“We need more fighter jets, more F-16s. Ukraine needs another 40 F-16 jets,” he said, speaking online at the Ukraine Defense Contact Group meeting at NATO headquarters in Brussels.
-‏
-‏“Ukraine needs an additional eight billion euros this year to cover the military budget deficit,” he said, once again asking partners to transfer Patriot and IRIS-T missiles to Ukraine “from their own stockpiles.”
 ‏
 ‏@IntelSlava
 01:16
@@ -6166,15 +6150,4 @@ src :@samueltarikh
 ‏
 ‏@P_raetorio
 16:36
-1405/08/26
-
-
-
-
-src :@P_raetorio
-‏#فوری
-‏گزارش‌ها از صدای انفجار در جزیره قشم
-‏
-‏@P_raetorio
-16:34
 1405/08/26
