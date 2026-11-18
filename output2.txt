@@ -1,3 +1,16 @@
+src :@rnintel
+[عکس]
+‏🇮🇶❌🇮🇶 — Al-Mada reports that Iraqi Prime Minister Ali Al-Zaidi has made the decision to enter Kata'ib Hezbollah-controlled Jurf al-Sakhar this Saturday, and has already begun assembling Iraqi government forces outside of the area to prevent anyone from entering the area. This comes after Al-Zaidi rejected all proposals that didn't result in a Kata'ib Hezbollah withdrawal from Jurf al-Sakhar.
+‏
+‏Kata'ib Hezbollah has reportedly threatened to strike Baghdad's Green Zone if an operation against Jurf al-Sakhar occurs.
+‏
+‏Iraq's Coordination Framework is not united on the Jurf al-Sakhar issue. Some question whether the Iraqi government truly found anything implicating Kata'ib Hezbollah in oil smuggling, while other fear entering an armed confrontation due to Kata'ib Hezbollah's capabilities. Several Shi'ite leaders are attempting to broker a last-minute deal.
+08:01
+1405/08/27
+
+
+
+
 src :@mohem_mat
 ‏ان‌بی‌سی به نقل از مقامات آمریکایی:
 ‏
@@ -1836,20 +1849,6 @@ src :@GeoPWatch
 
 
 
-src :@IranintlTV
-[عکس]
-‏ماتان کاهانا، عضو حزب یاشار، پس از شش ساعت بحث پارلمانی از سوی ائتلاف نتانیاهو در مخالفت با او، به ریاست کنست انتخاب شد.
-‏
-‏حزب لیکود، به رهبری نتانیاهو، چگونگی این انتخاب را «ننگی برای تمام دوران» خواند و نوشت: «امشب، رییس کنست با رای حامیان تروریسم و به‌صورت یک‌جانبه منصوب شد. این یکی از تاریک‌ترین نقاط تاریخ کنست است.»
-‏
-‏حزب لیکود اعلام کرد: «آیزنکوت، بنت و لیبرمن امروز ترجیح دادند به‌جای وحدت ملی، حامیان تروریسم را انتخاب کنند. تاریخ این اقدام را به یاد خواهد سپرد.»
-‏https://iranintl.com/202611176156
-01:52
-1405/08/27
-
-
-
-
 src :@tabzlive
 [عکس]
 ‏🇲🇺🇬🇧⚡️ — Mauritius has threatened legal action against the UK if Prime Minister Andy Burnham's government fails to transfer sovereignty over the Chagos Islands by the end of 2026.
@@ -1876,16 +1875,6 @@ src :@Mena_Live
 src :@intelslava
 ‏🚨 FBI warns of ARTEX, an autonomous AI penetration-testing framework exploited by cybercriminals and state-aligned actors for global attacks.  Capabilities: • Translates natural language into executable commands via AI agents. • Automates reconnaissance, exploitation…
 01:44
-1405/08/27
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: آبدانان برخاست؛ بازگشت اعتراضات خیابانی
-‏@iranintlTV
-01:41
 1405/08/27
 
 
@@ -2256,14 +2245,6 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
 01:13
-1405/08/27
-
-
-
-
-src :@rnintel
-‏🇮🇷🇰🇼⚡️- BREAKING: Sirens in Kuwait.
-01:12
 1405/08/27
 
 
@@ -3377,18 +3358,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 23:10
-1405/08/26
-
-
-
-
-src :@mohem_mat
-‏ادعای واشنگتن پست: 
-‏
-‏نتانیاهو، رئیس موساد را به انجام یک عملیات مخفیانه در ایران، بدون اطلاع به کابینه مأمور کرد
-‏
-‏@mohem_mat
-23:09
 1405/08/26
 
 
