@@ -1,3 +1,61 @@
+src :@Alibk3
+[عکس]
+‏قائد القيادة المركزية الأميركية يزور تل أبيب اليوم على خلفية التصعيد الاخير في المنطقة
+20:16
+1405/08/27
+
+
+
+
+src :@naya_foriraq
+‏🇮🇶ضربة جوية في صحراء الأنبار تطال أوكار داعش.
+‏
+‏https://whatsapp.com/channel/0029VbE1cizHLHQawMq9C50R
+20:14
+1405/08/27
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Intense AA activity in Omidiyeh
+‏Khuzestan Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/wtnWhIWMa2emfJjfpMyRzpxb
+‏
+‏ترجمه خودکار فارسی
+‏
+‏فعالیت شدید پدافند هوایی در امیدیه
+‏استان خوزستان، ایران
+‏
+‏[ارسال با تأخیر از طریق FromIran · ۱۲۰ ثانیه تأخیر]
+‏https://fromiran.sh1n.org/incidents/wtnWhIWMa2emfJjfpMyRzpxb
+‏
+‏𝕏  ·  @shin_persian
+20:14
+1405/08/27
+
+
+
+
+src :@Farsi_Iranwire
+[عکس]
+‏مارکوین مولین، وزیر امنیت داخلی آمریکا، اعلام کرد جمهوری اسلامی و گروه‌های مورد حمایت آن از زمان آغاز جنگ در اسفند سال گذشته، زیرساخت‌های حیاتی ایالات متحده را هدف حملات سایبری قرار داده‌اند. با این حال، او هیچ ارتباطی میان این حملات و اختلال‌های فنی گسترده روزهای اخیر در آمریکا برقرار نکرد.
+‏
+‏
+‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160424
+‏
+‏
+‏​​ @Farsi_Iranwire
+20:13
+1405/08/27
+
+
+
+
 src :@MilitarryWorld
 ‏🔴فاکس نیوز:
 ‏ایران از شب گذشته تا کنون حمله به کویت و بحرین را ادامه داده و این را پاسخی در برابر حملات آمریکا به قشم تلقی کرده اند.
@@ -1918,7 +1976,7 @@ src :@tabzlive
 
 src :@WAR_ROOM_NEWS
 [عکس]
-‏گزارش‌های تایید نشده از حملات امریکا به بندرعباس
+‏انفجار در بندرعباس
 ‏
 ‏🆔@WAR_ROOM_NEWS
 17:54
@@ -3329,16 +3387,6 @@ src :@MilitarryWorld
 
 
 
-src :@naya_foriraq
-‏العراق يعلن ضبط مليوني حبة مخدرة في عمليتين أمنيتين نفذتا خارج البلاد
-‏
-‏https://whatsapp.com/channel/0029VbE1cizHLHQawMq9C50R
-15:12
-1405/08/27
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‌‌‏ ‌‌‌‌‌‌‌‌‏ ‌‏ ‏
 ‏⁠تظاهرات ضدحکومتی در آبدانان با شعارهایی در حمایت از خاندان پهلوی؛ بازداشت شماری از شهروندان
@@ -3521,30 +3569,6 @@ src :@GeoPWatch
 ‏
 ‏Poland responded by deploying additional security forces, including elite military units.
 15:00
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Chopper flight activity over Dorud, Lorestan.
-‏Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/HnAwWGNI3icO55AkaLTWX9qS
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت پروازی بالگرد بر فراز دورود، لرستان.
-‏ایران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/HnAwWGNI3icO55AkaLTWX9qS
-‏
-‏𝕏  ·  @shin_persian
-14:52
 1405/08/27
 
 
@@ -3805,15 +3829,6 @@ src :@Farsi_Iranwire
 ‏
 ‏​​ @Farsi_Iranwire
 13:48
-1405/08/27
-
-
-
-
-src :@Alibk3
-[عکس]
-‏البحرية البريطانية تعلن استهداف سفينة قرب السواحل العمانية ما أدى لاندلاع حريق على متنها
-13:25
 1405/08/27
 
 
@@ -4278,19 +4293,6 @@ src :@Exciton_missile_program
 ‏
 ‏@Minas_Tirith2024
 11:18
-1405/08/27
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏با بازداشت آرمین سلیمانی در پی اعتراضات آبدانان شمار شهروندان بازداشت‌شده در این شهرستان به شش نفر رسیده است. این اعتراضات پس از جان‌باختن ۱۳ شهروند آبدانانی در واژگونی اتوبوس کارکنان شرکت پتروپالایش شکل گرفت.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160392
-‏
-‏​​ @Farsi_Iranwire
-11:14
 1405/08/27
 
 
