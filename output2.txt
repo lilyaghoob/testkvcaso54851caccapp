@@ -62,21 +62,14 @@ src :@tabzlive
 
 
 
-src :@Alibk3
-‏سي إن إن عن 7 مسؤولين أميركيين:  أظهرت معلومات استخباراتية أميركية جديدة أن إيران تعمل على وضع خطط لاستهداف مسؤولين كبار في إدارة الرئيس ترامب من خلال تفجير قنبلة قذرة أو سلاح كيميائي في واشنطن العاصمة.  رصدت المخابرات الأميركية محادثات إيرانية تزعم أنها خزنت…
-04:43
-1405/08/27
-
-
-
-
 src :@naya_foriraq
-‏🇺🇸🇮🇷‏روبيو: معلومات استخباراتية تحدثت عن استخدام إيران لقنبلة قذرة.
+‏🇺🇸🇮🇷‏روبيو: 
+‏معلومات استخباراتية تحدثت عن استخدام إيران لقنبلة قذرة.
 ‏
 ‏‏النظام الإيراني هدد أكثر من مرة بإلحاق الأذى بالولايات المتحدة.
 ‏
 ‏‏ لا يوجد تهديد وشيك للولايات المتحدة من إيران.
-‏
+‏﻿
 ‏https://whatsapp.com/channel/0029VbE1cizHLHQawMq9C50R
 04:43
 1405/08/27
@@ -106,38 +99,6 @@ src :@wfwitness
 src :@GeoPWatch
 ‏#BREAKING 🇮🇷❌🇺🇸🇧🇭 - Alerts in Bahrain.
 04:41
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Danger has passed · Bahrain
-‏Source: @moi_bahrain
-‏
-‏[Via FromIran]
-‏https://fromiran.sh1n.org/incidents/HMGWgYr6EOQEwJ20o3rY4XFn
-‏
-‏ترجمه خودکار فارسی
-‏
-‏خطر برطرف شده · بحرین
-‏منبع: @moi_bahrain
-‏
-‏[از طریق FromIran]
-‏https://fromiran.sh1n.org/incidents/HMGWgYr6EOQEwJ20o3rY4XFn
-‏
-‏𝕏  ·  @shin_persian
-04:41
-1405/08/27
-
-
-
-
-src :@Middle_East_Spectator
-‏🇮🇷❌🇺🇸🇧🇭 - All Clear in Bahrain, alerts were active for an hour.
-04:39
 1405/08/27
 
 
@@ -202,39 +163,6 @@ src :@Alibk3
 ‏
 ‏https://t.me/Ali_bk_8/8602
 04:27
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏المتحدث الرسمي باسم قوات التحالف ✓ @CJFCSpox
-‏
-‏التحالف : 
-‏
-‏- العملية النوعية ركزت لإضعاف القدرات الباليستية والطائرات المسيّرة وتحييد التهديد البحري. 
-‏
-‏- دمرنا انفاق لمخازن جبلية للصواريخ الباليستية و ورش تجميع وتخزين المسيّرات.
-‏
-‏English
-‏
-‏The Coalition:
-‏
-‏- The precision operation focused on degrading ballistic missile and drone capabilities and neutralizing the maritime threat.
-‏
-‏- We destroyed tunnels used as mountain storage facilities for ballistic missiles, as well as drone assembly and storage workshops.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏ائتلاف:
-‏
-‏- عملیات ویژه بر تضعیف توانمندی‌های موشکی بالستیک و پهپادی و خنثی‌سازی تهدید دریایی متمرکز بود.
-‏
-‏- تونل‌های مربوط به انبارهای کوهستانی موشک‌های بالستیک و کارگاه‌های مونتاژ و نگهداری پهپادها را منهدم کردیم.
-‏
-‏𝕏  ·  @shin_persian
-04:24
 1405/08/27
 
 
@@ -314,30 +242,6 @@ src :@naya_foriraq
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Emergency warning · Bahrain
-‏Source: @moi_bahrain
-‏
-‏[Via FromIran]
-‏https://fromiran.sh1n.org/incidents/pp-pO0yEdyBcH820eGJ5hPxQ
-‏
-‏ترجمه خودکار فارسی
-‏
-‏هشدار اضطراری · بحرین
-‏منبع: @moi_bahrain
-‏
-‏[از طریق FromIran]
-‏https://fromiran.sh1n.org/incidents/pp-pO0yEdyBcH820eGJ5hPxQ
-‏
-‏𝕏  ·  @shin_persian
-04:18
-1405/08/27
-
-
-
-
 src :@wfwitness
 ‏⚡️🇸🇦🇾🇪 The Saudi-led coalition announced that it carried out a military operation targeting Houthi military capabilities, claiming to have destroyed 60 military targets across the governorates of Sana’a, Al-Hudaydah, Amran, and Saada in Yemen.
 ‏
@@ -381,17 +285,6 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 04:04
-1405/08/27
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇺🇸⚡️ — Speaking at a US-ASEAN dinner reception in Manila, Philippines, following the 49th ASEAN Summit, Donald Trump said that defense contractors are currently building more than 22 new production facilities to manufacture Patriot and THAAD systems, Tomahawk missiles, and other weapons, aiming to expand production capacity and fulfill orders more quickly.
-‏
-‏@OSINTWarfare
-03:59
 1405/08/27
 
 
@@ -460,14 +353,6 @@ src :@wfwitness
 
 
 
-src :@Middle_East_Spectator
-‏🇮🇷❌🇺🇸🇧🇭 - All Clear in Bahrain, alerts were active for an hour.
-03:40
-1405/08/27
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏🇮🇷❌🇺🇸❗️ — US Attorney Office of New York announces that an Iranian Intelligence Agent was Sentenced to 330 Months in Prison for a Foiled Plot to Assassinate U.S. Government Officials, including US President Donald Trump on Behalf of the Iranian Regime
@@ -525,30 +410,6 @@ src :@wfwitness
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Danger has passed · Bahrain
-‏Source: @moi_bahrain
-‏
-‏[Via FromIran]
-‏https://fromiran.sh1n.org/incidents/a8MWAAcrUPwQmAv6nwPMzLZc
-‏
-‏ترجمه خودکار فارسی
-‏
-‏خطر رفع شده است · بحرین
-‏منبع: @moi_bahrain
-‏
-‏[از طریق FromIran]
-‏https://fromiran.sh1n.org/incidents/a8MWAAcrUPwQmAv6nwPMzLZc
-‏
-‏𝕏  ·  @shin_persian
-03:34
-1405/08/27
-
-
-
-
 src :@naya_foriraq
 ‏🇺🇸المحكمة الجزئية الأمريكية: 
 ‏الحكم بالسجن لمدة 330 شهراً بحق آصف ميرشانت في محكمة فيدرالية ببروكلين، وذلك لإدانته بمحاولة ارتكاب عمل إرهابي عابر للحدود الوطنية والتحريض على القتل المأجور. وميرشانت، وهو مواطن باكستاني، يعد عنصراً مدرباً ضمن القوة العالمية التابعة للحكومة الإيرانية، وهي "الحرس الثوري الإسلامي" (IRGC). وقد أدانت هيئة محلفين فيدرالية ميرشانت في مارس 2026 بتهمة السفر إلى الولايات المتحدة بهدف تدبير عمليات اغتيال سياسية على الأراضي الأمريكية.
@@ -570,22 +431,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 03:28
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-‏US Attorney EDNY @EDNYnews
-‏
-‏Iranian Intelligence Agent Sentenced to 330 Months in Prison for Foiled Plot to Assassinate U.S. Government Officials https://www.justice.gov/usao-edny/pr/iranian-intelligence-agent-sentenced-330-months-prison-foiled-plot-assassinate-us
-‏
-‏ترجمه خودکار فارسی
-‏
-‏عامل اطلاعاتی ایران به‌دلیل توطئه نافرجام برای ترور مقام‌های دولت آمریکا به ۳۳۰ ماه زندان محکوم شد https://www.justice.gov/usao-edny/pr/iranian-intelligence-agent-sentenced-330-months-prison-foiled-plot-assassinate-us
-‏
-‏𝕏  ·  @shin_persian
-03:25
 1405/08/27
 
 
@@ -664,23 +509,6 @@ src :@BellumActaNews
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓ @hey_itsmyturn
-‏
-‏This is not Bahrain, it's Iraq
-‏
-‏ترجمه خودکار فارسی
-‏
-‏این بحرین نیست، عراق است.
-‏
-‏𝕏  ·  @shin_persian
-03:09
-1405/08/27
-
-
-
-
 src :@tabzlive
 ‏🇮🇷❌🇺🇸🇧🇭 — Explosion in southern Bahrain. Almost certainly targeting Sheikh Issa AB.
 03:08
@@ -722,27 +550,9 @@ src :@Alibk3
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇰🇼 NEW: Another series of explosions in Kuwait
-‏
-‏@Middle_East_Spectator
-03:03
-1405/08/27
-
-
-
-
 src :@intelslava
 ‏🇮🇷❌🇧🇭🇺🇸 — Explosions are being reported in Bahrain as the country comes under Iranian drone attack.  @IntelSlava
 02:59
-1405/08/27
-
-
-
-
-src :@OSINTWarfare
-‏🇮🇷❌🇧🇭🇺🇸 — Bahrain is also coming under attack.  @OSINTWarfare
-02:58
 1405/08/27
 
 
@@ -778,16 +588,6 @@ src :@BellumActaNews
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
 ‏➖➖➖➖➖➖➖➖
 ‏@BellumActaNews
-02:53
-1405/08/27
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇧🇭/🇮🇷/🇺🇸 BREAKING: Impacts at Sheikh Issa Airbase in Bahrain
-‏
-‏@Middle_East_Spectator
 02:53
 1405/08/27
 
@@ -911,16 +711,6 @@ src :@tabzlive
 
 
 
-src :@Middle_East_Spectator
-‏—❗️🇧🇭/🇮🇷 BREAKING: Drone alerts in Bahrain; heavy explosions reported
-‏
-‏@Middle_East_Spectator
-02:46
-1405/08/27
-
-
-
-
 src :@naya_foriraq
 ‏🇺🇸🔻سرب من المسيرات الإنقضاضية يدك أهداف أمريكية في البحرين.  https://whatsapp.com/channel/0029VbE1cizHLHQawMq9C50R
 02:45
@@ -1007,16 +797,6 @@ src :@ClashReport
 
 
 
-src :@OSINTWarfare
-‏🇮🇷❌🇧🇭🇺🇸 — Bahrain is also coming under attack.
-‏
-‏@OSINTWarfare
-02:39
-1405/08/27
-
-
-
-
 src :@naya_foriraq
 ‏🔻🇺🇸إنفجارات تهز البحرين.  https://whatsapp.com/channel/0029VbE1cizHLHQawMq9C50R
 02:39
@@ -1078,30 +858,6 @@ src :@Alibk3
 [عکس]
 ‏هجوم في البحرين ودوي صفارات الإنذار
 02:37
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Emergency warning · Bahrain
-‏Source: @moi_bahrain
-‏
-‏[Via FromIran]
-‏https://fromiran.sh1n.org/incidents/aLMgAeTpgN8kfgXqjJ3AnwYk
-‏
-‏ترجمه خودکار فارسی
-‏
-‏هشدار اضطراری · بحرین
-‏منبع: @moi_bahrain
-‏
-‏[از طریق FromIran]
-‏https://fromiran.sh1n.org/incidents/aLMgAeTpgN8kfgXqjJ3AnwYk
-‏
-‏𝕏  ·  @shin_persian
-02:36
 1405/08/27
 
 
@@ -1229,18 +985,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 02:16
-1405/08/27
-
-
-
-
-src :@mamlekate
-‏🌐 پارلمان اسرائیل رئیس جدید خود را انتخاب کرد و تسلط نتانیاهو بر قدرت تضعیف شد 
-‏
-‏سی‌ان‌ان:‌ تسلط بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز سه‌شنبه با رای پارلمان به انتخاب رئیس جدید ضربه‌ای حیاتی خورد و کنترل بیشتری بر دستورکار قانون‌گذاری به اپوزیسیون داد.
-‏
-‏@mamlekate
-02:12
 1405/08/27
 
 
@@ -1543,38 +1287,6 @@ src :@tglobaleye
 
 
 
-src :@MilitarryWorld
-‏⭐️ بونوس خوش‌آمدگویی NBA در بری بت!  🏆 اولین شرط ترکیبی NBA خودت رو ثبت کن و شانست رو برای دریافت شرط رایگان امتحان کن!  💰 حداقل شارژ و مبلغ شرط: ۱ میلیون تومان ✨ حداقل ۴ انتخاب با ضریب ۱.۹۲ یا بالاتر 🎁 در صورت باخت شرط اول، ۱۰۰٪ مبلغ شرطت رو تا سقف ۱۰ میلیون…
-01:23
-1405/08/27
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏⭐️ بونوس خوش‌آمدگویی NBA در بری بت!
-‏
-‏🏆 اولین شرط ترکیبی NBA خودت رو ثبت کن و شانست رو برای دریافت شرط رایگان امتحان کن!
-‏
-‏💰 حداقل شارژ و مبلغ شرط: ۱ میلیون تومان
-‏✨ حداقل ۴ انتخاب با ضریب ۱.۹۲ یا بالاتر
-‏🎁 در صورت باخت شرط اول، ۱۰۰٪ مبلغ شرطت رو تا سقف ۱۰ میلیون تومان به‌صورت شرط رایگان دریافت کن!
-‏📈 شرط زنده یا پیش از شروع بازی؟ انتخاب با توئه!
-‏
-‏💬 همین حالا در بری بت ثبت‌نام کن و بونوس خوش‌آمدگویی NBA رو از دست نده!
-‏
-‏🛒 ورود به سایت 👇🅰26
-‏⭐️ https://apleoidjux.shop/fa/affiliates?btag=914641_l303106
-‏
-‏🌐 کانال رسمی ما در تلگرام 👇
-‏⭐️ https://t.me/BerryBetOfficial
-01:23
-1405/08/27
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇰🇼 Kuwait's military says its air defenses are currently intercepting hostile drone attacks.
 ‏
@@ -1610,16 +1322,6 @@ src :@IranintlTV
 ‏
 ‏تا لحظه تنظیم این گزارش، ارتش کویت جزئیات بیشتری در این زمینه ارائه نکرده است.
 ‏https://iranintl.com/202611177652
-01:20
-1405/08/27
-
-
-
-
-src :@MilitarryWorld
-‏🔴وال استریت ژورنال «نیروی دریایی آمریکا به دلیل کمبود مهمات حیاتی، در خاورمیانه از موشک‌های توماهوک منقضی‌شده استفاده کرده است.» — هونگ کائو در جریان تأیید صلاحیتش برای سمت وزارت نیروی دریایی این را فاش کرد. 
-‏
-‏@MilitarryWorld | Maverick
 01:20
 1405/08/27
 
@@ -1708,39 +1410,11 @@ src :@rnintel
 
 
 
-src :@OSINTWarfare
-‏🇮🇷❌🇰🇼🇺🇸 — The Kuwait Army General Staff announced that its air defenses are engaging incoming Iranian drones.
-‏
-‏@OSINTWarfare
-01:15
-1405/08/27
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏#BREAKING | 🇰🇼 🇮🇷 — Kuwait says air defenses currently intercepting 'hostile drones'.
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
-01:14
-1405/08/27
-
-
-
-
-src :@Middle_East_Spectator
-‏—❗️🇮🇷/🇰🇼 NEW: Iran has launched drones at U.S. facilities in Kuwait in retaliation for today’s airstrikes in Qeshm
-‏
-‏@Middle_East_Spectator
-01:14
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓  @hey_itsmyturn  I'm going to publish the full PDF of this soon.  https://alhurra.com/en/53605  ترجمه خودکار فارسی  به‌زودی فایل PDF کامل این را منتشر می‌کنم. https://alhurra.com/en/53605  𝕏  ·  @shin_persian
 01:14
 1405/08/27
 
@@ -1782,16 +1456,6 @@ src :@naya_foriraq
 
 
 
-src :@MilitarryWorld
-‏🔴فوری/ هم اکنون حملات پهپادی سپاه به کویت و فعالیت پدافند در این کشور
-‏
-‏@MilitarryWorld | Parsa
-01:13
-1405/08/27
-
-
-
-
 src :@naya_foriraq
 ‏الله اكبر
 01:13
@@ -1814,17 +1478,6 @@ src :@BellumActaNews
 
 src :@rnintel
 ‏🇮🇷🇰🇼⚡️- BREAKING: Sirens in Kuwait.
-01:12
-1405/08/27
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷/🇰🇼 BREAKING: Alerts in Kuwait
-‏
-‏@Middle_East_Spectator
 01:12
 1405/08/27
 
@@ -1924,30 +1577,6 @@ src :@intelslava
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Air defense response to UAV · Kuwait
-‏Source: @KuwaitArmyGHQ
-‏
-‏[Via FromIran]
-‏https://fromiran.sh1n.org/incidents/-zdeBtyOKVGAlqIej7FZ5Fge
-‏
-‏ترجمه خودکار فارسی
-‏
-‏واکنش پدافند هوایی به پهپاد · کویت
-‏منبع: @KuwaitArmyGHQ
-‏
-‏[از طریق FromIran]
-‏https://fromiran.sh1n.org/incidents/-zdeBtyOKVGAlqIej7FZ5Fge
-‏
-‏𝕏  ·  @shin_persian
-01:10
-1405/08/27
-
-
-
-
 src :@Alibk3
 [عکس]
 ‏صفارات الإنذار تدوي في الكويت نتيجة هجوم بطائرات مسيّرة.
@@ -1969,35 +1598,6 @@ src :@tglobaleye
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇱/🇮🇷 NEW: Israeli Prime Minister Benjamin Netanyahu and Defense Minister Yisrael Katz suddenly left the Knesset session after receiving an ‘urgent phone call’
-‏
-‏@Middle_East_Spectator
-01:06
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏I'm going to publish the full PDF of this soon. 
-‏https://alhurra.com/en/53605
-‏
-‏ترجمه خودکار فارسی
-‏
-‏به‌زودی فایل PDF کامل این را منتشر می‌کنم.
-‏https://alhurra.com/en/53605
-‏
-‏𝕏  ·  @shin_persian
-01:05
-1405/08/27
-
-
-
-
 src :@intelslava
 ‏🇺🇦⚡️ — Zelensky, in semi-exile outside Ukraine:
 ‏
@@ -2013,25 +1613,6 @@ src :@intelslava
 ‏
 ‏@IntelSlava
 01:05
-1405/08/27
-
-
-
-
-src :@MilitarryWorld
-[عکس]
-‏🔴متان کهانا از حزب یشار با کسب ۶۶ رای، به عنوان رئیس کنست انتخاب شد.  @MilitarryWorld | Maverick
-01:04
-1405/08/27
-
-
-
-
-src :@MilitarryWorld
-‏🔴متان کهانا از حزب یشار با کسب ۶۶ رای، به عنوان رئیس کنست انتخاب شد.
-‏
-‏@MilitarryWorld | Maverick
-01:02
 1405/08/27
 
 
@@ -2082,18 +1663,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@MilitarryWorld
-‏🔴معاون سیاسی نیروی دریایی سپاه پاسداران:
-‏
-‏آمریکا در آینده کنترل ناوهای خود را نیز از دست خواهد داد
-‏
-‏@MilitarryWorld | Parsa
-00:48
-1405/08/27
-
-
-
-
 src :@tabzlive
 ‏🇮🇱⚡️ — Matan Kahana has been elected Speaker of Israel's 26th Knesset, securing the support of 66 lawmakers.
 ‏
@@ -2118,26 +1687,6 @@ src :@P_raetorio
 ‏@NooshDaroo_web
 ‏@NooshDaroo_web
 00:44
-1405/08/27
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏During the Knesset speaker voting, PM Netanyahu left the hall as he and DM Katz received a phone call. 
-‏
-‏Also, Matan Kahana was selected as the new Knesset Speaker with 66 votes in favor.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏در جریان رأی‌گیری برای انتخاب رئیس کنست، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پس از آنکه او و یسرائیل کاتس، وزیر دفاع، یک تماس تلفنی دریافت کردند، صحن را ترک کرد.
-‏
-‏همچنین، متان کاهانا با ۶۶ رأی موافق به عنوان رئیس جدید کنست انتخاب شد.
-‏
-‏𝕏  ·  @shin_persian
-00:43
 1405/08/27
 
 
@@ -2237,18 +1786,6 @@ src :@Alibk3
 
 
 
-src :@MilitarryWorld
-‏🔴خبرگزاری فارس: 
-‏
-‏اتفاقاتی که توی آبدانان افتاد سناریوی اسرائیل و ایران اینترنشناله.
-‏
-‏@MilitarryWorld | Parsa
-00:25
-1405/08/27
-
-
-
-
 src :@samueltarikh
 ‏یک منبع ارشد به شبکه العربیه گفت:
 ‏آخرین مسیر دیپلماتیک میان آمریکا و ایران در روز های گذشته،
@@ -2276,16 +1813,6 @@ src :@ircfspace
 ‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 ‏@ircfspace
 00:17
-1405/08/27
-
-
-
-
-src :@MilitarryWorld
-‏🔴هم اکنون شلیک موج جدید موشک‌ها به سوی تنگه
-‏
-‏@MilitarryWorld | Parsa
-00:13
 1405/08/27
 
 
@@ -2443,30 +1970,6 @@ src :@jangaavaran1390
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Jet activity over Dezful.
-‏Khuzestan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/0OOwiP5jqb2f6Dx-rg2dOYE3
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت جت‌ها بر فراز دزفول.
-‏استان خوزستان، ایران
-‏
-‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/0OOwiP5jqb2f6Dx-rg2dOYE3
-‏
-‏𝕏  ·  @shin_persian
-23:56
-1405/08/26
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇺🇸📞 – User reports regarding trouble with the system began around 2 hours ago.
@@ -2547,18 +2050,6 @@ src :@intelslava
 
 
 
-src :@MilitarryWorld
-‏🔴نخست وزیر قطر:
-‏
-‏تلاش های دیپلماتیک ما برای توافق بین ایران و آمریکا به طور مستمر ادامه دارد
-‏
-‏@MilitarryWorld | Parsa
-23:52
-1405/08/26
-
-
-
-
 src :@VahidOnline
 [عکس]
 ‏یک مقام نظامی آمریکا اعلام کرد جنگنده‌های این کشور روز سه‌شنبه ۲۶ آبان با استفاده از مهمات هدایت‌شونده دقیق، یک محل استقرار و پرتاب موشک متعلق به سپاه پاسداران در جزیره قشم را هدف قرار داده‌اند.
@@ -2631,30 +2122,6 @@ src :@mohem_mat
 ‏@MhmtAdmin
 ‏@Admohemat
 23:45
-1405/08/26
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Missile launch from the 15 Khordad base in Baharestan, Isfahan.
-‏Isfahan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/CrvLL40Wx-rivbZtlPT4vyhJ
-‏
-‏ترجمه خودکار فارسی
-‏
-‏شلیک موشک از پایگاه ۱۵ خرداد در بهارستان، اصفهان.
-‏استان اصفهان، ایران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/CrvLL40Wx-rivbZtlPT4vyhJ
-‏
-‏𝕏  ·  @shin_persian
-23:43
 1405/08/26
 
 
@@ -2754,17 +2221,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 23:35
-1405/08/26
-
-
-
-
-src :@MilitarryWorld
-‏🔴کانال 12 اسرائیل:
-‏جلسات بسیار مهم و سطح بالایی میان فرمانده سنتکام و مقامات ارشد نظامی اسرائیلی در تل‌آویو درباره ایران در حال برگزاری است.
-‏
-‏@MilitarryWorld | Parsa
-23:32
 1405/08/26
 
 
@@ -2911,36 +2367,6 @@ src :@DEJradio
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏⭕️ «به هزار سختی قبول شدی؛ بیا تهران!»
-‏
-‏جوان ۲۵ ساله رفت، اما به‌جای شرکت، او را به یک خانه بردند و گوشی و مدارکش را گرفتند. تا دو روز خبری از شغل نبود؛ فقط کلاس انگیزشی! تا اینکه در برنامه دوره دید نوشته: «روش‌های عضویابی».
-‏
-‏فهمید استخدام در کار نیست، پای یک شبکه هرمی وسط است؛ ساعت ۳ شب فرار کرد!
-‏
-‏با این تله استخدامی و دیگر کلاهبرداری‌ها در «نوشدارو» آشنا شوید:
-‏
-‏👇👇👇
-‏@NooshDaroo_web
-‏@NooshDaroo_web
-23:25
-1405/08/26
-
-
-
-
-src :@MilitarryWorld
-‏🔴حملات هوایی ارتش اسرائیل به مناطقی در جنوب لبنان 
-‏
-‏
-‏@MilitarryWorld | Parsa
-23:22
-1405/08/26
-
-
-
-
 src :@Artemis_Force
 ‏🛑 امروز نیز، طبق بیانیه ها و گزارشات مختلف ٣ کشتی شناسایی شده اند که در محدوده تنگه هرمز، مورد آتش سوزی قرار گرفته اند  زمان حمله و آتش سوزی و شناسه های ناوبری کشتی ها نامشخص هست   @artemis_force
 23:19
@@ -2986,30 +2412,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 23:17
-1405/08/26
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏UAV launched from Omidiyeh @ 1944Z
-‏Khuzestan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/ttbt_m8ZS3tR3G1inSfRjKIu
-‏
-‏ترجمه خودکار فارسی
-‏
-‏پهپاد از امیدیه در ساعت 1944Z (۲۳:۱۴ به وقت تهران) به پرواز درآمد
-‏استان خوزستان، ایران
-‏
-‏[ارسال با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/ttbt_m8ZS3tR3G1inSfRjKIu
-‏
-‏𝕏  ·  @shin_persian
-23:16
 1405/08/26
 
 
@@ -3175,41 +2577,6 @@ src :@BellumActaNews
 
 
 
-src :@MilitarryWorld
-[عکس]
-‏🔴توییت سخنگوی سپاه: با چنین کارنامه‌ای، فرمانده سنتکام را باید شایسته دریافت «مدال خسارت» دانست
-‏
-‏@MilitarryWorld | Maverick
-22:58
-1405/08/26
-
-
-
-
-src :@MilitarryWorld
-‏🔴شبکه i24NEWS:
-‏
-‏جنگنده‌های آمریکایی در واکنش به اقدامات تهاجمی سپاه پاسداران علیه نیروها و تجهیزات نظامی آمریکا، یک حمله دقیق هوایی به محل پرتاب موشک سپاه پاسداران در جزیره قشم ایران انجام دادند.
-‏
-‏@MilitarryWorld | Parsa
-22:56
-1405/08/26
-
-
-
-
-src :@mamlekate
-‏📞 بعد از اعتراض مردم آبدانان تو خبرها گفتن مدیرعامل و یه مدیر شرکت ان‌جی‌ال دهلران رو برکنار کردند. یه گله عرزشی پرچمی هم آوردن شعار میدن
-‏
-‏📞 اینترنت ایلام شدید اختلال داره 
-‏
-‏ @mamlekate
-22:56
-1405/08/26
-
-
-
-
 src :@thewarreporter
 ‏🇮🇶☀️🇮🇷 — Two drones targeted Iranian Kurdish opposition groups' sites in Sulaymaniyah Province, Iraqi Kurdistan. 
 ‏
@@ -3286,38 +2653,6 @@ src :@GeoPWatch
 
 
 
-src :@Shin_Persian
-‏Shin ✓  @hey_itsmyturn  Iraqi gov't spokesman: PM Al-Zaidi has ordered the armed forces to enter Jurf al-Sakhar, and a deadline has been set for "the armed faction" to leave. That faction is the IRGC-backed Kataib Hezballah. A security source told AFP the…
-22:47
-1405/08/26
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Intense AA activity in Omidiyeh, Khuzestan @ 1854Z
-‏Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/ok1HNXq2mBmbTzlSw9GosyJW
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت شدید پدافند هوایی در امیدیه، خوزستان در ساعت 1854Z (۲۲:۲۴ به وقت تهران)
-‏ایران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/ok1HNXq2mBmbTzlSw9GosyJW
-‏
-‏𝕏  ·  @shin_persian
-22:46
-1405/08/26
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - 5 Explosions were heard across Qeshm island by locals. As of now it appears to have originated from the Nariman Air Defense Site.  Smoke plumes are visible above the city.
 22:45
@@ -3378,16 +2713,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏🔴یک منبع مطلع به العربیه: تا کنون هیچ تماسی بین آمریکا و ایران برقرار نشده است، اما گفتگوها همچنان ادامه دارد
-‏
-‏@MilitarryWorld | Parsa
-22:39
-1405/08/26
-
-
-
-
 src :@WAR_ROOM_NEWS
 [عکس]
 ‏اوکراین نسخه مجهز به موتور جت پهپاد دوربرد تهاجمی «آن-۱۹۶ لیوتی» را با نام «آن-۱۹۷» توسعه داده است، زلنسکی امروز در اظهاراتی وجود این پهپاد جدید را تأیید کرد و فاش ساخت که از نسخه جت‌پیشران آن در عملیات علیه پل کریمه استفاده شده است
@@ -3431,42 +2756,6 @@ src :@tglobaleye
 ‏#BREAKING | 🇺🇸 🍏 —  iCloud, App Store, and other Apple services reportedly down. Users report login failures.
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
-22:37
-1405/08/26
-
-
-
-
-src :@Shin_Persian
-[عکس]
-‏↩️ Quoted tweet:
-‏Boeing Defense ✓ @BoeingDefense
-‏
-‏B-one step closer to carrying more for future missions.
-‏
-‏Our Load Adaptable Modular pylon just cleared its critical design review, bringing the B-1 closer to greater external carriage capability.
-‏
-‏Next up: preparing hardware and software for build and testing.
-‏
-‏↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
-‏
-‏ترجمه خودکار فارسی
-‏
-‏بی-۱ یک قدم به حمل محموله بیشتر در مأموریت‌های آینده نزدیک‌تر شد.
-‏
-‏پایلون ماژولار تطبیق‌پذیر با بار ما به‌تازگی بازبینی حیاتی طراحی را با موفقیت پشت سر گذاشت و بی-۱ را به قابلیت حمل خارجی بیشتر نزدیک‌تر کرد.
-‏
-‏گام بعدی: آماده‌سازی سخت‌افزار و نرم‌افزار برای ساخت و آزمایش.
-‏
-‏𝕏  ·  @shin_persian
-22:37
-1405/08/26
-
-
-
-
-src :@Shin_Persian
-‏↩️ Quoted tweet: Boeing Defense ✓  @BoeingDefense  B-one step closer to carrying more for future missions.  Our Load Adaptable Modular pylon just cleared its critical design review, bringing the B-1 closer to greater external carriage capability.  Next up:…
 22:37
 1405/08/26
 
@@ -3667,42 +2956,6 @@ src :@jangaavaran1390
 
 
 
-src :@MilitarryWorld
-‏🔴رویترز : مذاکرات بین ایران و آمریکا به دلیل «ترتیب مراحل» به بن‌بست رسیده است.
-‏
-‏تهران اصرار دارد فروش نفت خود را قبل از شروع «مذاکرات اساسی» از سر بگیرد.
-‏
-‏@MilitarryWorld | Parsa
-22:14
-1405/08/26
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏UAV activity observed at Mount Soffeh in Isfahan @ 1813Z
-‏Isfahan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/7HTA_SMGBfvqyFrnpA468rfe
-‏
-‏ترجمه خودکار فارسی
-‏
-‏فعالیت پهپادی در کوه صفه اصفهان در ساعت 1813Z (۲۱:۴۳ به وقت تهران) مشاهده شد
-‏استان اصفهان، ایران
-‏
-‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/7HTA_SMGBfvqyFrnpA468rfe
-‏
-‏𝕏  ·  @shin_persian
-22:14
-1405/08/26
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏مرکز رسانه‌ای حزب حیات آزاد کردستان (پژاک) اعلام کرد یک فروند پهپاد سپاه پاسداران شامگاه سه‌شنبه ۲۶ آبان مواضع این حزب را در منطقه پینجوین، از توابع استان سلیمانیه در اقلیم کردستان عراق، هدف قرار داده است.
@@ -3741,17 +2994,6 @@ src :@thewarreporter
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇮🇷 NEW: A poster by Iran’s Supreme Leader Office hints at extending ballistic missile ranges to 5,000 kilometers and beyond
-‏
-‏@Middle_East_Spectator
-22:03
-1405/08/26
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏Greek and North Macedonian intelligence agencies have thwarted an Iranian-directed assassination plot targeting a senior Israeli business executive in Greece, arresting 5 North Macedonian nationals.
@@ -3772,16 +3014,6 @@ src :@thewarreporter
 ‏
 ‏— Israeli Channel 12 | @TheWarReporter
 22:03
-1405/08/26
-
-
-
-
-src :@MilitarryWorld
-‏🔴شبکه ۱۶ تلویزیون اسرائیل از سفر فرمانده سنتکام به اسرائیل خبر داد
-‏
-‏@MilitarryWorld | Parsa
-22:01
 1405/08/26
 
 
@@ -3819,24 +3051,6 @@ src :@Parvazdaroj
 ‏@NooshDaroo_web
 ‏@NooshDaroo_web
 21:51
-1405/08/26
-
-
-
-
-src :@OSINTWarfare
-‏🇺🇸⚡️ — The National Security Agency's (NSA) classified internal network, known as NSA Net and used for internal communications and intelligence operations, has gone down.  @OSINTWarfare
-21:50
-1405/08/26
-
-
-
-
-src :@MilitarryWorld
-‏🔴هم اکنون صدای انفجار در قشم
-‏
-‏@MilitarryWorld | Parsa
-21:48
 1405/08/26
 
 
@@ -3922,27 +3136,6 @@ src :@Mena_Live
 ‏
 ‏iCloud, Apple Pay, the App Store, and other services are experiencing issues, according to Downdetector reports.
 21:40
-1405/08/26
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 ادعای سرنگونی پهپاد MQ-9 آمریکا در نزدیکی جزیره قشم
-‏
-‏🔹 یک فروند پهپاد MQ-9A ریپر نیروی هوایی آمریکا، دقایقی پیش در نزدیکی جزیره قشم هدف سامانه پدافندی کوتاه‌برد ۳۵۹ ایران قرار گرفته و سرنگون شده است.
-‏
-‏🔹 هنوز جزئیات مستقلی درباره این ادعا منتشر نشده است.
-‏
-‏#ایران 
-‏#آمریکا 
-‏#قشم 
-‏#پهپاد 
-‏#پدافند_هوایی
-‏
-‏@RASTAKHIZ_PERSIAN
-21:38
 1405/08/26
 
 
@@ -4171,16 +3364,6 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 20:45
-1405/08/26
-
-
-
-
-src :@mamlekate
-‏🚀 یک موشک از بهارستان اصفهان زدن
-‏
-‏@mamlekate
-20:25
 1405/08/26
 
 
@@ -4528,30 +3711,10 @@ src :@tglobaleye
 
 
 
-src :@Middle_East_Spectator
-‏🇺🇸⚡️- BREAKING: The highly classified network that the National Security Agency (NSA) uses for its internal communications is down, six people familiar with the matter tell CNN. 
-‏
-‏There is no clear reason for the outage.
-19:16
-1405/08/26
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇮🇷 — U.S. intelligenc indicates that Iran is developing plans to detonate a 'dirty bomb' in Washington D.C.  — CNN | @TheWarReporter
 19:14
-1405/08/26
-
-
-
-
-src :@OSINTWarfare
-‏🇺🇸⚡️ — The National Security Agency's (NSA) classified internal network, known as NSA Net and used for internal communications and intelligence operations, has gone down.
-‏
-‏@OSINTWarfare
-19:12
 1405/08/26
 
 
@@ -4733,19 +3896,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖
 ‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
 18:43
-1405/08/26
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇷🇸⚡️ — A Serbian Air Force and Air Defence (SAFAD) MiG-29SM+ multirole fighter assigned to the 204th Aviation Brigade at Batajnica Air Base crashed northwest of Belgrade on November 17, 2026, killing the pilot.
-‏
-‏The aircraft went down in an open field near Stara Pazova at approximately 8:45 a.m. local time.
-‏
-‏@OSINTWarfare
-18:39
 1405/08/26
 
 
@@ -5212,24 +4362,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@Middle_East_Spectator
-‏— NOTE: No ballistic missiles have been launched from Iran yet, contrary to some unconfirmed reports.
-‏
-‏@Middle_East_Spectator
-17:17
-1405/08/26
-
-
-
-
-src :@Middle_East_Spectator
-‏There is no attack on Tehran.
-17:13
-1405/08/26
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏حسین پروین، امیرحسین غلامشاهی و حسین جعفری، سه بازداشت‌شده اعتراضات دی‌ماه ۱۴۰۴، در یک پرونده مشترک به اعدام محکوم شده‌اند.
@@ -5243,41 +4375,11 @@ src :@Farsi_Iranwire
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷 Qeshm Island, Iran
-‏
-‏Several airstrikes were carries out and at least 6 people were killed or injured.
-‏
-‏@Middle_East_Spectator
-17:12
-1405/08/26
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[فایل]
-‏🔶 عملیات سیاهکل؛ نخستین آزمون مبارزهٔ مسلحانه (۱۳۴۹)  🔹 در زمستان ۱۳۴۹، گروه جنگل به رهبری علی‌اکبر صفایی فراهانی، پس از ماه‌ها آماده‌سازی، راهی جنگل‌های شمال ایران شد. اعضای گروه قصد داشتند با استقرار در مناطق کوهستانی، هسته‌ای چریکی تشکیل دهند و مبارزهٔ…
-17:07
-1405/08/26
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷 Explosion reported on Iran's Qeshm Island, with smoke rising over the island.
 ‏
 ‏@BRICSNews
 17:05
-1405/08/26
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 سازمان چریک‌های فدایی خلق ایران از ادغام دو گروه چپ مسلح‌گرا در اواخر دهه‌ی ۱۳۴۰ شکل گرفت.  هر دو گروه از حزب توده ناامید بودند و به این نتیجه رسیده بودند که فعالیت سیاسی قانونی در ایران ممکن نیست. اما در زمان و روش شروع اختلاف داشتند.  🔹 گروه اول به رهبری…
-17:04
 1405/08/26
 
 
@@ -5321,14 +4423,6 @@ src :@Exciton_missile_program
 
 
 
-src :@RASTAKHIZ_PERSIAN
-‏🔶 ایران پس از ۲۸ مرداد ۱۳۳۲؛ فضای سیاسی دهه‌ی ۱۳۴۰  🔹 در ۲۸ مرداد ۱۳۳۲ دولت مصدق سقوط کرد. مصدق به سه سال زندان محکوم شد و تا پایان عمر در احمدآباد تحت نظر ماند.  🔹 در سال‌های بعد، چارچوب سیاسی کشور تغییر کرد و بسته تر شد. جبهه ملی تضعیف شد، شبکه نظامی حزب…
-16:58
-1405/08/26
-
-
-
-
 src :@DEJradio
 [عکس]
 ‏🚨🔸 آژانس امنیت ملی مقدونیه شمالی، سه‌شنبه ۲۶ آبان، از شناسایی یک شبکه وابسته به جمهوری اسلامی و بازداشت پنج شهروند این کشور به اتهام «برنامه‌ریزی برای قتل در یونان» خبر داد. 
@@ -5339,15 +4433,6 @@ src :@DEJradio
 ‏
 ‏@DEJradio
 16:56
-1405/08/26
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏‌‌🔶 دکتر مصدق در واپسین پیام خود در دادگاه نظامی پس از کودتای ۲۸ مرداد ۱۳۳۲ چنین گفت:  🔹 «شاید برای آخرین بار در زندگی خود ملّت رشید ایران را از حقایق این نبرد وحشت‌انگیز مطلع سازم و مژده بدهم: مصطفی را وعده داد الطاف حق/ گر بمیری تو نمیرد این ورق. حیات و…
-16:53
 1405/08/26
 
 
@@ -5401,26 +4486,6 @@ src :@Exciton_missile_program
 
 
 
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷 NEW: A U.S. airstrike targeted an air defense site in Qeshm Island  @Middle_East_Spectator
-16:43
-1405/08/26
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏—❗️🇺🇸/🇮🇷 NEW: A U.S. airstrike targeted an air defense site in Qeshm Island
-‏
-‏@Middle_East_Spectator
-16:40
-1405/08/26
-
-
-
-
 src :@Exciton_missile_program
 [عکس]
 ‏⚜گزارشات اولیه از حمله به قشم.
@@ -5449,15 +4514,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 16:34
-1405/08/26
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏إِنَّا لِلّهِ وَإِنَّـا إِلَيْهِ رَاجِعُونَ  One of Iran’s oldest and most distinguished religious scholars, Grand Ayatollah Hossein Vahid Khorasani, has passed away at the age of 105 after a lifetime of service.  @Middle_East_Spectator
-16:32
 1405/08/26
 
 
@@ -5557,52 +4613,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 16:11
-1405/08/26
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-‏🔶 آمریکا به دنبال کاهش هزینه مقابله با پهپادها از طریق سامانه‌های رهگیر ارزان‌قیمت است.
-‏
-‏🔹️ شرکت آمریکایی Powerus با انتشار مقایسه‌ای از هزینه سامانه‌های مختلف پدافندی، به اختلاف چشمگیر هزینه رهگیری پهپادها با موشک‌های پیشرفته و پهپادهای رهگیر ارزان‌قیمت اشاره کرده است.
-‏
-‏🔹️ بر اساس برآورد این شرکت، هزینه هر رهگیری با سامانه‌های مختلف به شرح زیر است:
-‏
-‏🔵 Patriot PAC-3 MSE — حدود 5.3 میلیون دلار
-‏
-‏🔵 AIM-120 AMRAAM — حدود 1.37 میلیون دلار
-‏
-‏🔵 FIM-92 Stinger — حدود 480 هزار دلار
-‏
-‏🔵 Coyote — حدود 126.5 هزار دلار
-‏
-‏🔵 APKWS II — حدود 24.9 هزار دلار
-‏
-‏🔵 پهپاد رهگیر تخصصی — حدود 15 هزار دلار
-‏
-‏🔹️ این اختلاف هزینه، یکی از دلایل حرکت پنتاگون به سمت استفاده گسترده‌تر از سامانه‌های کم‌هزینه و قابل تولید انبوه برای مقابله با تهدید پهپادها محسوب می‌شود.
-‏
-‏🔹️ طبق آمار منتشرشده در این گزارش، فرماندهی مرکزی آمریکا (CENTCOM) در سال 2026 بیش از 24,000 سامانه ضدپهپادی، بیش از 1,300 پهپاد تهاجمی و بیش از 100 شناور بدون سرنشین سطحی و زیرسطحی، با ارزش مجموع 782 میلیون دلار دریافت کرده است.
-‏
-‏🔹️ در همین حال، NATO نیز فهرستی یکپارچه از سامانه‌های تأییدشده مقابله با پهپادها منتشر کرده است. این اقدام به کشورهای عضو امکان می‌دهد تجهیزات آزمایش‌شده را بدون طی کردن مجدد فرآیند مناقصه خریداری کنند و روند تأمین سامانه‌های ضدپهپادی را سرعت ببخشند.
-‏
-‏🔹️ شرکت Powerus همچنین از انعقاد قراردادهایی به ارزش 130 میلیون دلار خبر داده که انتظار دارد طی 12 ماه آینده اجرایی شوند.
-‏
-‏🔹️ ارقام مربوط به هزینه رهگیری، برآوردهای اعلام‌شده از سوی Powerus هستند و لزوماً هزینه نهایی هر عملیات در شرایط واقعی را نشان نمی‌دهند.
-‏
-‏https://t.me/RASTAKHIZ_Discussion_Club/365770
-‏
-‏#UnitedStates
-‏#Powerus
-‏#NATO
-‏#AirDefense
-‏#CounterUAS
-‏#Drones
-‏#Patriot
-‏
-‏@RASTAKHIZ_PERSIAN
-16:01
 1405/08/26
 
 
@@ -5723,15 +4733,6 @@ src :@Exciton_missile_program
 src :@cataphract1
 ‏⚜فیلم منتشر شده از سوی سپاه پاسداران از حمله پهپادی به پایگاه شیخ عیسی بحرین. ✒️#LT 📃@Cataphract1
 15:30
-1405/08/26
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇺🇦🇷🇺⚡️ — The Crimean Bridge was hit bad by Ukrainian UAVs.  @OSINTWarfare
-15:29
 1405/08/26
 
 
@@ -6039,15 +5040,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏ناوگروه هواپیمابر روزولت بالاخره به خاورمیانه رسید و به دو ناوگروه قبلی، بوش و واشینگتن ملحق شد. از نظر نظامی حضور سه ناوگروه صرفا برای محاصره‌ی دریایی یا حتی حفظ آمادگی واکنشی در مقابل حملات احتمالی ایران، اصلا توجیهی ندارد اما فضای رسانه‌ای هم آغاز یک جنگ گسترده‌ی دیگر را به ذهن نمی‌رساند. در هر حال یک بازه طلایی برای آغاز یک جنگ کوبنده که می‌تواند معادلات را تغيير دهد آغاز شده است. باید صبر کرد و دید فرمانده‌ کل قوا چه در سر دارد.
-12:51
-1405/08/26
-
-
-
-
 src :@samueltarikh
 ‏⭕️وزیر اقتصاد: ترمز تورم کشیده شد! 😂
 12:50
@@ -6088,32 +5080,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖
 ‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
 12:38
-1405/08/26
-
-
-
-
-src :@mamlekate
-[عکس]
-‏📝 طرح احتمالی رژیم ایران برای حمله با بمب کثیف یا سلاح شیمیایی در واشنگتن
-‏
-‏شبکه سی‌ان‌ان در گزارشی اختصاصی به نقل از هفت مقام آمریکایی اعلام کرد اطلاعات تازه دستگاه‌های امنیتی ایالات متحده نشان می‌دهد جمهوری اسلامی در حال بررسی طرح‌هایی برای هدف قرار دادن مقامات ارشد دولت پرزیدنت ترامپ با استفاده از «بمب کثیف» یا سلاح شیمیایی در واشنگتن است.
-‏
-‏
-‏📝 نیویورک تایمز: جمهوری اسلامی دامنه حملات خود را در اروپا گسترش داده است
-‏
-‏تهران در واکنش به جنگ با آمریکا و اسرائیل، دامنه اهداف خود را از مخالفان سیاسی و مراکز آمریکایی و اسرائیلی به زیرساخت‌ها و اهداف اروپایی گسترش داده است. 
-‏
-‏
-‏📝 گزارش نیویورک تایمز: سدسازی جمهوری اسلامی احتمالا با پایگاه‌های مخفی موشکی سپاه مرتبط است
-‏
-‏روزنامه نیویورک تایمز در گزارشی تحقیقی از احتمال ارتباط میان ساخت ده‌ها سد و پروژه انتقال آب در مناطق مختلف ایران توسط جمهوری اسلامی با تأمین نیازهای پایگاه‌های مخفی موشکی سپاه پاسداران خبر داده است. 
-‏
-‏
-‏💎 هرچند مالکیت شبکه سی‌ان‌ان اخیراً تغییر کرده و به شرکت پارامونت و خانواده الیسون (که روابط نزدیکی با ترامپ دارند) رسیده، اما انتشار هم‌زمان این دست اخبار از سوی رسانه‌هایی که عموماً منتقد یا مخالف ترامپ محسوب میشن، می‌تونه اینطوری برداشت بشه که هدفش زمینه‌سازی و ایجاد آمادگی ذهنی توی افکار عمومی آمریکا برای ورود مجدد به جنگ باشه. رسانه‌های چپ تر کماکان و با شدت بیشتری جنگ ترامپ رو مسخره می‌کنند.
-‏
-‏@mamlekate
-12:28
 1405/08/26
 
 
@@ -6238,17 +5204,6 @@ src :@samueltarikh
 ‏هر توافقی با جمهوری اسلامی باید شامل برنامه های موشکی آنها هم باشد.
 ‏آماده همکاری برای خلع سلاح هسته ای جمهوری اسلامی هستیم!
 11:41
-1405/08/26
-
-
-
-
-src :@mamlekate
-‏📞 امروز ۲۶ آبان از صبح ساعت ۹/۳۰ سیستم های بانک مهر ایران قطع بوده هیچ کسی هم پاسخگو نیست کارمندای بانک میگن مشکل سراسری هست و دست ما نیست بانک مهر شعبه اندیشه حدود ۶۰ نفر ارباب رجوع نشستن و منتظرند سیستم وصل شه.
-‏الان ساعت ۱۱/۳۰ علاوه بر قطعی سیستم برق بانک هم رفت.
-‏
-‏@mamlekate
-11:40
 1405/08/26
 
 
@@ -6428,20 +5383,6 @@ src :@samueltarikh
 
 
 
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶 بنابر گزارش‌ها، نیروهای اوکراینی حمله‌ای ترکیبی را با استفاده از پهپاد و موشک‌های کروز علیه پل کریمه انجام داده‌اند که خسارات بسیار سنگینی به این سازه وارد کرده و حتی در پی ریزش پل، مسیر عبور کشتی‌ها نیز مختل و مسدود شده است.
-‏
-‏#اوکراین 
-‏#روسیه
-‏
-‏@RASTAKHIZ_PERSIAN
-09:33
-1405/08/26
-
-
-
-
 src :@warmonitors
 ‏⚡Russia repelled a drone attack on industrial areas in Ufa and Salavat, TASS reported citing local officials
 ‏
@@ -6478,26 +5419,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 08:54
-1405/08/26
-
-
-
-
-src :@RASTAKHIZ_PERSIAN
-[عکس]
-‏🔶ردپای دیجیتال نیروهای امریکایی؛ منبع اطلاعاتی جمهوری اسلامی برای هدف‌گیری پایگاه‌ها.
-‏
-‏🔹روزنامه لس‌آنجلس تایمز در گزارشی فاش کرده است که ایران برای شناسایی و هدف‌گیری پایگاه‌های امریکا در خاورمیانه، اطلاعات شبکه‌های اجتماعی، اپلیکیشن‌های ورزشی مانند Strava ، خدمات نقشه و داده‌های موقعیت مکانی تلفن‌های همراه را با تصاویر ماهواره‌ای، از جمله تصاویر منتسب به روسیه، تلفیق کرده است.
-‏
-‏🔹مسیر تمرین‌های ورزشی، تصاویر و حتی نظرات کاربران درباره امکانات پایگاه‌هایی در بحرین، کویت و اردن، اطلاعاتی درباره محل استقرار نیروها، زمان تعویض شیفت‌ها و الگوی فعالیت روزانه آن‌ها فراهم می‌کرد. به نوشته این روزنامه، جمهوری اسلامی در شش ماه نخست جنگ ۲۶ مرکز نظامی امریکا را هدف قرار داد. پنتاگون اکنون در تلاش است با محدود سازی دسترسی به داده‌های مکانی، ردپای دیجیتال نیروهایش را کاهش دهد.
-‏
-‏Bravo
-‏
-‏#Iran #USmilitary
-‏#OSINT #Social #War
-‏
-‏@RASTAKHIZ_PERSIAN
-08:14
 1405/08/26
 
 
