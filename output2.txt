@@ -1,3 +1,50 @@
+src :@bricsnews
+‏JUST IN: 🇺🇸🇮🇷 US President Donald Trump considering launching a new large-scale military strike on Iran.
+‏
+‏@BRICSNews
+02:49
+1405/08/28
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — Major IT disruptions at the U.S. National Security Agency (NSA) have affected operations at a critical intelligence facility in Georgia that supports signals intelligence and cybersecurity activities focused on the Middle East, according to CNN, citing four sources.
+‏
+‏Officials emphasized that the agency's most sensitive intelligence-gathering systems remain operational, with backup networks and alternative systems available to maintain critical operations.
+‏
+‏A senior administration official acknowledged that efforts to restore access through system updates and patches were progressing more slowly than expected.
+02:48
+1405/08/28
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️نیویورک‌تایمز می‌نویسد، دونالد ترامپ، رئیس‌جمهوری آمریکا، در ابتدا به نظر می‌رسید که از تحلیل جی‌دی ونس، معاون خود، پس از انتخابات میان‌دوره‌ای و نسبت دادن شکست سنگین جمهوری‌خواهان به جنگ ایران، چندان ناراحت نشده است.
+‏ترامپ پس از آن‌که ونس یادداشتی مفصل در شبکه‌های اجتماعی منتشر کرد و در آن، علاوه بر نسبت دادن شکست جمهوری‌خواهان به جنگ، از بخش عمده پیام‌رسانی دولت در آستانه انتخابات انتقاد کرد، به خبرنگاران گفت: «فکر می‌کنم این حرف تا حد زیادی درست است.»
+‏این روزنامه آمریکایی می‌نویسد، اما به گفته افرادی که از اظهارات ترامپ اطلاع دارند، او طی دو هفته گذشته به‌تدریج از نحوه صورت‌بندی ارزیابی ونس درباره دلایل ناکامی دولت ناراضی‌تر شده است. ترامپ در گفت‌وگو با دستیاران و متحدانش گلایه کرده که ونس باید به‌صراحت می‌گفت رئیس‌جمهوری در تصمیم خود برای آغاز جنگ ایران درست عمل کرده است.
+‏هم‌زمان، ترامپ در گفت‌وگوهای خصوصی همچنان از مارکو روبیو، وزیر خارجه آمریکا، تمجید کرده و گفته است که او می‌تواند نامزد قدرتمندی برای ریاست‌جمهوری باشد.
+‏
+‏@indypersian
+02:48
+1405/08/28
+
+
+
+
+src :@IranintlTV
+[فایل]
+‏🎧نسخه صوتی سیاست با مراد ویسی: کارت ایران روی میز ترامپ، پوتین و شی
+‏@iranintlTV
+02:47
+1405/08/28
+
+
+
+
 src :@tabzlive
 [عکس]
 ‏🇺🇸⚡️ — The U.S. Air Force Global Strike Command test-launched an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base in California on Wednesday.
@@ -20,6 +67,7 @@ src :@Mena_Live
 
 
 src :@Alibk3
+[عکس]
 ‏سي إن إن:   تم تعطيل شبكة اتصالات بالغة السرية تُستخدم من قبل نظام الأمن القومي الأميركي.
 02:45
 1405/08/28
@@ -30,18 +78,6 @@ src :@Alibk3
 src :@Mena_Live
 ‏🇮🇶⚡- Iraq's deadline for the disarmament and withdrawal of the Iranian-funded militia Kata'ib Hezbollah from Jurf al-Nasr is this Friday.
 02:45
-1405/08/28
-
-
-
-
-src :@intelslava
-‏🌍 According to the Pew Research Center, by 2035, the number of Muslims worldwide is projected to exceed the number of Christians. They are expected to number about 2.57 billion, while the number of Christians will be approximately 2.52 billion. 
-‏
-‏Both groups are seeing dramatic growth but the larger numbers of Muslims is predominantly due to the high birthrates in Africa and West Asia.
-‏
-‏The Pew Research Center also projects that the number of irreligious people in the UK and other western nations will outnumber the religious.
-02:44
 1405/08/28
 
 
@@ -239,7 +275,7 @@ src :@intelslava
 
 src :@wfwitness
 [عکس]
-‏⚡️🇬🇧🇴🇲 UKMTO reports that local authorities say a tanker was struck by an unknown projectile in the engine room about 6 nautical miles north of Khasab, Oman, while transiting outbound through the Strait of Hormuz.
+‏⚡️🇴🇲 UKMTO reports that local authorities say a tanker was struck by an unknown projectile in the engine room about 6 nautical miles north of Khasab, Oman, while transiting outbound through the Strait of Hormuz.
 ‏
 ‏All crew members are safe and accounted for, while the extent of the damage and environmental impact remain unknown.
 ‏
@@ -3167,22 +3203,6 @@ src :@didarnews1
 ‏#دیدار_نیوز
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
-21:25
-1405/08/27
-
-
-
-
-src :@Indypersian
-‏⭕️جنگ ایران وارد وضعیت بلاتکلیف و خطرناکی شده است
-‏
-‏📌ترامپ معتقد است می‌تواند صبر کند، چون همهٔ اهرم‌های فشار در اختیار واشنگتن است
-‏
-‏♦️به نظر می‌رسد دونالد ترامپ، رئیس‌جمهوری آمریکا، فعلاً ترجیح می‌دهد جنگ با ایران را تا مدتی نامعلوم در حالت تعلیق نگه دارد. او با خودداری از حملات نظامی و مذاکره، امیدوار است به محاصرهٔ دریایی در تنگهٔ هرمز و تحریم‌های گستردهٔ آمریکا فرصت دهد تا حکومت ایران را تحت فشار بگذارند و به تسلیم وادار کنند.
-‏
-‏ بیشتر بخوانید...
-‏دیدگاهی از نانسی ای یوسف/ جاناتان لمیر
-‏@indypersian
 21:25
 1405/08/27
 
@@ -6142,38 +6162,4 @@ src :@Middle_East_Spectator
 src :@rnintel
 ‏🇺🇸🇮🇶⚡️- BREAKING: The Green Zone in Baghdad, the capital of Iraq, has been placed on lockdown for the next 4 hours due to an unidentified, unnamed security threat.
 02:53
-1405/08/27
-
-
-
-
-src :@rnintel
-‏🇮🇷🇧🇭⚡️- Initial, unconfirmed reports of casualties at Isa Air Base due to Iranian drone strikes.
-02:52
-1405/08/27
-
-
-
-
-src :@rnintel
-‏🇮🇷🇧🇭⚡️- Sirens have been ongoing in Bahrain for nearly 15 minutes, with impacts reported at Isa Air Base as a result of the most recent drone swarm.
-02:51
-1405/08/27
-
-
-
-
-src :@cataphract1
-‏⚜هشدار حمله هوایی در بحرین. ✒️#LT 📃@Cataphract1
-02:51
-1405/08/27
-
-
-
-
-src :@bricsnews
-‏JUST IN: 🇧🇭 Bahrain issues emergency warning, urges all citizens and residents to seek shelter immediately.
-‏
-‏@BRICSNews
-02:51
 1405/08/27
