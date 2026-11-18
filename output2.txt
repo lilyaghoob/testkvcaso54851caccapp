@@ -1,6 +1,65 @@
 src :@defence_news
 [عکس]
+‏فرمانده ستاد فرماندهی مرکزی آمریکا (سنتکام) با رئیس ستاد ارتش اسرائیل و رئیس سازمان جاسوسی موساد در اسراییل دیدار کرد.
+‏
+‏🇮🇷📝 @defence_news 📝🇮🇷
+20:26
+1405/08/27
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇸🇾 Syrian Interior Ministry released a statement regarding a security incident in Damascus:
+‏
+‏“Two members of the Internal Security Forces were killed and four others were wounded in an armed clash that broke out during a raid on a site where a wanted suspect had barricaded himself in Jaramana, in the Damascus countryside. 
+‏
+‏The operation ended with the suspect being neutralized.”
+‏
+‏@wfwitness
+20:25
+1405/08/27
+
+
+
+
+src :@GeoPWatch
+[ویدئو]
+‏⚡️🇮🇷 - Intense air defense activity has been reported in Omidiyeh, Khuzestan province.
+‏
+‏There's no information on whether this is a test or an active engagement of drones.
+20:23
+1405/08/27
+
+
+
+
+src :@MilitarryWorld
+‏🔴رویترز:
+‏نتانیاهو معتقد است فرصت برای انجام حمله به ایران در حال محدودتر شدن است.
+‏
+‏@MilitarryWorld | Parsa
+20:23
+1405/08/27
+
+
+
+
+src :@defence_news
+[عکس]
 ‏کمیته بودجه سنا حدود ۱.۸۴ میلیارد دلار از اعتبارات ساخت ناو BBG(X) ناو کلاس ترامپ در بودجه دفاعی ۲۰۲۷ را حذف کرد (یک میلیارد دلار خرید اولیه و ۸۳۶.۹ میلیون دلار تحقیق و توسعه). این ناو ۳۴ هزار تنی قرار است بزرگ‌ترین شناور رزمی سطحی آمریکا از جنگ جهانی دوم باشد و بخشی از طرح «ناوگان طلایی» ترامپ. سناتورها معتقدند هزینه آن در ۲۰۲۷ توجیه‌پذیر نیست، هرچند این تصمیم نهایی نیست و به معنای لغو قطعی پروژه نیست.
+20:22
+1405/08/27
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇺🇸🇮🇱⚡️ — IDF Chief of Staff Zemer and Mossad Director Gophman met with CENTCOM Commander Admiral Brad Cooper at the Kirya military headquarters in Tel Aviv.
+‏
+‏The meeting focused on regional developments and shared security challenges.
 20:22
 1405/08/27
 
@@ -37,16 +96,6 @@ src :@Alibk3
 [عکس]
 ‏قائد القيادة المركزية الأميركية يزور تل أبيب اليوم على خلفية التصعيد الاخير في المنطقة
 20:16
-1405/08/27
-
-
-
-
-src :@naya_foriraq
-‏🇮🇶ضربة جوية في صحراء الأنبار تطال أوكار داعش.
-‏
-‏https://whatsapp.com/channel/0029VbE1cizHLHQawMq9C50R
-20:14
 1405/08/27
 
 
@@ -4689,19 +4738,6 @@ src :@GeoPWatch
 
 
 
-src :@tabzlive
-[عکس]
-‏🇮🇶❌🇮🇶 — Al-Mada reports that Iraqi Prime Minister Ali Al-Zaidi has made the decision to enter Kata'ib Hezbollah-controlled Jurf al-Sakhar this Saturday, and has already begun assembling Iraqi government forces outside of the area to prevent anyone from entering the area. This comes after Al-Zaidi rejected all proposals that didn't result in a Kata'ib Hezbollah withdrawal from Jurf al-Sakhar.
-‏
-‏Kata'ib Hezbollah has reportedly threatened to strike Baghdad's Green Zone if an operation against Jurf al-Sakhar occurs.
-‏
-‏Iraq's Coordination Framework is not united on the Jurf al-Sakhar issue. Some question whether the Iraqi government truly found anything implicating Kata'ib Hezbollah in oil smuggling, while other fear entering an armed confrontation due to Kata'ib Hezbollah's capabilities. Several Shi'ite leaders are attempting to broker a last-minute deal.
-07:38
-1405/08/27
-
-
-
-
 src :@bricsnews
 ‏JUST IN: 🇮🇷🇺🇸 Iran says it targeted US Patriot missile systems and military drones at Kuwait's Ali Al Salem Air Base.
 ‏
@@ -4916,15 +4952,6 @@ src :@GeoPWatch
 
 
 
-src :@GeoPWatch
-‏#BREAKING
-‏🇮🇷❌🇺🇸🇧🇭 - Alerts in Bahrain.
-04:19
-1405/08/27
-
-
-
-
 src :@rnintel
 [عکس]
 ‏🇮🇷🇸🇦⚡️- Air traffic in and around Dammam, eastern Saudi Arabia has likely been halted due to the Iranian attack on Bahrain that ended some moments ago.  A Boeing 747 Atlas Air flight from Frankfurt to Dammam has been in a rotating pattern around 120 km from…
@@ -4989,14 +5016,6 @@ src :@BellumActaNews
 
 src :@rnintel
 ‏🇮🇷🇧🇭⚡️- More explosions reported in Bahrain.  Air raid sirens are still ongoing.
-03:36
-1405/08/27
-
-
-
-
-src :@GeoPWatch
-‏#BREAKING 🇮🇷❌🇺🇸🇧🇭 - Alerts in Bahrain.
 03:36
 1405/08/27
 
@@ -5852,27 +5871,6 @@ src :@Mena_Live
 
 
 
-src :@defence_news
-[عکس]
-‏🔶 ادعای سرنگونی پهپاد MQ-9 آمریکا در نزدیکی جزیره قشم
-‏
-‏🔹 یک فروند پهپاد MQ-9A ریپر نیروی هوایی آمریکا، دقایقی پیش در نزدیکی جزیره قشم هدف سامانه پدافندی کوتاه‌برد ۳۵۹ ایران قرار گرفته و سرنگون شده است.
-‏
-‏🔹 هنوز جزئیات مستقلی درباره این ادعا منتشر نشده است.
-‏
-‏#ایران 
-‏#آمریکا 
-‏#قشم 
-‏#پهپاد 
-‏#پدافند_هوایی
-‏
-‏@RASTAKHIZ_PERSIAN
-21:40
-1405/08/26
-
-
-
-
 src :@Mena_Live
 ‏🇺🇸⚡️- BREAKING: Outages are being reported across several Apple services.
 ‏
@@ -5957,14 +5955,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ
 21:04
-1405/08/26
-
-
-
-
-src :@mamlekate
-‏🚀 یک موشک از بهارستان اصفهان زدن
-‏
-‏@mamlekate
-20:25
 1405/08/26
