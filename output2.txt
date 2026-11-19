@@ -1384,16 +1384,6 @@ src :@Alibk3
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ در پی حمله گسترده به جمهوری اسلامی
-‏@iranintlTV
-23:12
-1405/08/28
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴شاگردان برجسته آیت الله وحید خراسانی
@@ -6216,16 +6206,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 02:19
-1405/08/28
-
-
-
-
-src :@Mena_Live
-‏Syria signed a $93 million deal with Czech firm Energy Care to rehabilitate three generating units of 213 megawatts each at Aleppo’s thermal power plant over 18–30 months. 
-‏
-‏Restoring 639 megawatts will increase the plant’s capacity by 160% to 1,040 megawatts, a major boost for Aleppo, Syria’s industrial capital, supporting factories, manufacturing and job creation.
-‏
-‏@Mena_Live
-02:14
 1405/08/28
