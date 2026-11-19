@@ -1,3 +1,56 @@
+src :@WAR_ROOM_NEWS
+‏سپاه اعلام کرد که یک نفتکش که در حال عبور از شرق تنگه هرمز بود و سیستم شناسایی آن غیرفعال بود، به یک مین دریایی برخورد کرده است که این امر باعث توقف حرکت کشتی شده است
+22:56
+1405/08/28
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏#BREAKING
+‏🇺🇸❌🇮🇷 – Trump said he's "not rushing into a decision" regarding Iran, and renewed strikes could come as late as next year, according to Axios' Barak Ravid, who held a phone call with the President following his trip to China.
+‏
+‏"I am not rushing into any decision [on Iran]. We will see what happens after the beginning of the year."
+‏
+‏@GeoPWatch
+22:55
+1405/08/28
+
+
+
+
+src :@tabzlive
+‏🇮🇷⚡️ — Islamic Republic of Iran Navy announces an oil tanker transiting east of the Strait of Hormuz with AIS disabled struck a naval mine, causing the vessel to stop moving.
+22:53
+1405/08/28
+
+
+
+
+src :@intelslava
+‏🇺🇸🇷🇺⚡️— U.S. Energy Secretary Chris Wright says Washington is seriously considering including diesel in its strategic reserve assessment.
+‏
+‏He also says unsanctioned Russian diesel could benefit U.S. consumers by easing global supply pressures, even if no cargoes reach the United States.
+‏
+‏@IntelSlava
+22:52
+1405/08/28
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 An Israeli artillery strike targeted Dawhat Kfar Romman in southern Lebanon.
+‏
+‏@wfwitness
+22:51
+1405/08/28
+
+
+
+
 src :@MilitarryWorld
 ‏🔴کانال ۱۴ اسرائیل: ده‌ها تانکر نفت ایران در حال آماده‌سازی برای عزیمت به چین هستند
 ‏
@@ -1757,19 +1810,6 @@ src :@wfwitness
 ‏⚡️🇮🇱🇱🇧 4 Israeli airstrikes targeted the eastern Beqaa near Sharaa.
 ‏
 ‏@wfwitness
-20:40
-1405/08/28
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Air Force One Aide Collects Staff Burner Phones, Bags Reporters’ China Phones
-‏
-‏The stated reason was cyber security.
-‏
-‏READ MORE
 20:40
 1405/08/28
 
@@ -3734,15 +3774,6 @@ src :@WAR_ROOM_NEWS
 [عکس]
 ‏🔶2,527 کشته حزب‌الله لبنان در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.   🆔@WAR_ROOM_NEWS
 16:39
-1405/08/28
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔶2,500 کشته حزب‌الله لبنان در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.   🆔@WAR_ROOM_NEWS
-16:38
 1405/08/28
 
 
@@ -5770,19 +5801,6 @@ src :@Navy_Iranian
 
 
 
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - 7 USAF Aerial Refueling Tankers are airborne now over the region. 
-‏
-‏6 are visible, 1 is flying dark. 
-‏
-‏Heavy USAF Cargo Flights in and out of Israel are also ongoing.
-23:47
-1405/08/27
-
-
-
-
 src :@Minas_Tirith2024
 ‏فوری 
 ‏
@@ -5917,24 +5935,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️ @Navy_Iranian | #a_m
 22:57
-1405/08/27
-
-
-
-
-src :@mwarmonitor
-‏🔴خبرنگار شبکهi24 news: هم‌زمان با تلاش اسرائیل برای انجام عملیات مشترک علیه ایران، یک مقام امنیتی نسبت به ویرانی بی‌سابقه هشدار داد.
-‏
-‏🔴یک مقام امنیتی اسرائیل به من گفته است که حمله آمریکا می‌تواند زیرساخت‌های ایران را در مقیاس و شدتی منهدم کند که جمهوری اسلامی تاکنون هرگز تجربه نکرده است.
-‏
-‏🔴به گفته این مقام، دونالد ترامپ پیش از تصمیم‌گیری درباره آغاز حمله، منتظر تکمیل روند افزایش و استقرار توان نظامی آمریکا در منطقه است.
-‏
-‏🔸این مقام امنیتی گفت:
-‏
-‏«آمریکایی‌ها مانند یک ابرقدرت عمل می‌کنند و ابتدا در حال افزایش توانمندی‌های نظامی خود هستند. آن‌ها حداکثر ظرفیت‌های رزمی را در منطقه مستقر کرده‌اند و هم‌زمان در حال آماده‌سازی قدرت هوایی بیشتر در داخل آمریکا، از جمله بمب‌افکن‌های B-52 و B-2 هستند.
-‏
-‏رئیس‌جمهور تنها زمانی درباره گام بعدی تصمیم‌گیری خواهد کرد که تمامی این ظرفیت‌های نظامی در موقعیت عملیاتی قرار گرفته باشند.»
-‏
-‏@mwarmonitor
-22:56
 1405/08/27
