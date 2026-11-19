@@ -1,3 +1,33 @@
+src :@ClashReport
+[عکس]
+‏Alibaba reportedly accessed more than $4 billion worth of advanced Nvidia chips through Singapore-based Megaspeed and data centers in Malaysia, potentially circumventing U.S. export restrictions. 
+‏
+‏The New York Times found that Alibaba co-founded Zhejiang Lab, which has links to China's military and conducts AI research involving cyberattacks and war simulations.
+‏
+‏It remains unclear whether Megaspeed's chips reached the lab. 
+‏
+‏U.S. authorities are investigating possible chip smuggling, while Alibaba denies providing military services.
+‏
+‏Source: NYT
+08:06
+1405/08/28
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏بلومبرگ به نقل از دو مقام آمریکایی گزارش داد ناو هواپیمابر جورج واشینگتن به عنوان یکی از سه گروه ضربت ناو هواپیمابر آمریکا که برای اجرای محاصره دریایی علیه ایران در منطقه خلیج فارس مستقر شده بودند، منطقه را ترک کرده و احتمالا در حال بازگشت به بندر محل استقرار اصلی خود است.
+‏به گفته این مقام‌ها که نخواستند نامشان فاش شود، گروه ضربت ناو هواپیمابر جورج واشینگتن ممکن است از روز چهارشنبه در مسیر بازگشت به بندر محل استقرار اصلی خود در یوکوسوکا، ژاپن، باشد.
+‏استقرار گروه ضربت ناو هواپیمابر «یواس‌اس تئودور روزولت» که روز دوشنبه وارد منطقه شد، اقدامی تلقی می‌شد که در صورت تصمیم ترامپ برای ازسرگیری درگیری‌های نظامی فعال با ایران، گزینه‌های نظامی بیشتری در اختیار او قرار می‌داد.
+‏
+‏https://iranintl.com/202611194333
+08:02
+1405/08/28
+
+
+
+
 src :@GeoPWatch
 [عکس]
 ‏⚡️🇺🇸🇮🇷🇷🇺🇨🇳 – Trump on Fox News:
@@ -1335,16 +1365,6 @@ src :@Indypersian
 ‏
 ‏@indypersian
 02:48
-1405/08/28
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: کارت ایران روی میز ترامپ، پوتین و شی
-‏@iranintlTV
-02:47
 1405/08/28
 
 
