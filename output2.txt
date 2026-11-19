@@ -1,3 +1,16 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸Axios: White House National Cyber Director Sean Cairncross is stepping down rather than serving another two years, giving the administration time to confirm a successor before Democrats assume Senate control in January.
+‏
+‏His exit follows the June departure of his senior policy adviser, Thomas Lind, and coincides with ongoing critical infrastructure outages and escalating AI-driven security threats, such as severe hacking risks from frontier models like Claude Mythos and incidents of rogue AI agents taking unauthorized actions.
+‏
+‏@wfwitness
+02:42
+1405/08/29
+
+
+
+
 src :@intelslava
 ‏🇷🇺🇺🇦⚡️ — Power outages have been reported in northern Kryvyi Rih following Geran strikes, likely targeting electrical substations.
 ‏
@@ -1134,22 +1147,6 @@ src :@tabzlive
 ‏Potential targets include electrical substations, hydroelectric power plants, bridges, and thermal power plants in: Kyiv City, Kyiv Oblast, Poltava Oblast, Kirovohrad Oblast, Vinnytsia Oblast, Lviv Oblast, Ivano-Frankivsk Oblast, Chernivtsi Oblast, and Kharkiv Oblast. Other locations will likely also be targeted.
 ‏
 ‏4-5 Iskander-M ballistic missiles have already impacted two locations in Odesa and Mykolaiv Oblasts
-23:35
-1405/08/28
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏رویترز گزارش داد که سنای آمریکا با ۵۱ رای مخالف در برابر ۴۸ رای موافق، قطعنامه محدود کردن اختیارات جنگی دونالد ترامپ در قبال ایران را رد کرد.
-‏
-‏این قطعنامه که پیش‌تر در مجلس نمایندگان آمریکا تصویب شده بود، ترامپ را ملزم می‌کرد به جنگ ایران پایان دهد یا برای ادامه آن از کنگره مجوز بگیرد.
-‏
-‏رای‌گیری سنا عمدتا بر اساس خطوط حزبی انجام شد و جمهوری‌خواهان با رد این قطعنامه از ترامپ حمایت کردند.
-‏
-‏به گزارش رویترز، این رای‌گیری چند هفته پس از شکست‌های گسترده جمهوری‌خواهان در انتخابات میان‌دوره‌ای برگزار شد؛ شکست‌هایی که عمدتا با نارضایتی آمریکایی‌ها از جنگ ایران مرتبط بود.
-‏https://iranintl.com/202611199588
 23:35
 1405/08/28
 
@@ -6227,12 +6224,4 @@ src :@GeoPWatch
 ‏
 ‏@GeoPWatch
 03:19
-1405/08/28
-
-
-
-
-src :@Mena_Live
-‏🇮🇶⚡- Iraq's deadline for the disarmament and withdrawal of the Iranian-funded militia Kata'ib Hezbollah from Jurf al-Nasr is this Friday.
-02:45
 1405/08/28
