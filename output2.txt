@@ -1,8 +1,53 @@
+src :@guard_warriors
+[عکس]
+‏✪ 🇺🇸 شرکت بل، اولین بدنه تیلت روتور MV-75 Cheyenne II را مونتاژ کرد.
+‏
+‏شرکت بل تکسترون اعلام کرد که اولین بدنه هواپیمای ملخی عمودپرواز پیشرفته MV-75 Cheyenne II را تولید کرده است. این هواپیما در حال توسعه برای ارتش ایالات متحده در چارچوب برنامه FLRAA است. این هواپیمای بال‌دار قرار است جایگزین بخشی از بالگردهای تهاجمی UH-60 Black Hawk شود.
+‏
+‏این بدنه در کارخانه بل تکسترون در ویشیتا، ایالت کانزاس، مونتاژ شد و سپس به آمارایلو، ایالت تگزاس، منتقل شد. در آنجا، این بدنه با بال و موتورهای آماده، یکپارچه خواهد شد. در مرحله بعدی، آزمایش‌های استاتیک بر روی یک سازه مخصوص انجام خواهد شد. مهندسان تجهیزات اندازه‌گیری را نصب خواهند کرد و بررسی خواهند کرد که آیا این سازه می‌تواند بارهای مورد انتظار در طول عملیات را تحمل کند یا خیر.
+‏
+‏پیش از این، شرکت بل، دو سازه بال و اولین موتورها را تکمیل کرده بود. همچنین، آزمایش‌های مربوط به گیربکس‌ها و یکپارچه‌سازی نرم‌افزار آغاز شده است.
+‏
+‏کج پروانه ی MV-75 در چارچوب برنامه FLRAA (Future Long-Range Assault Aircraft) ارتش ایالات متحده توسعه یافته است، که هدف آن ایجاد یک وسیله نقلیه هوایی جدید برای ارتش ایالات متحده بود. شرکت بل در سال 2022، برنده این مناقصه شد. طبق الزامات مشتری، این وسیله نقلیه هوایی باید حداقل 12 سرباز مسلح را با سرعت 230 گره دریایی (430 کیلومتر در ساعت) و در مسافتی بیش از 230 مایل دریایی (425 کیلومتر) حمل کند.
+‏
+‏پایه MV-75، نمونه اولیه V-280 Valor است. بر خلاف V-22 Osprey، در Cheyenne II، فقط پره‌ها چرخانده می‌شوند، در حالی که موتورها ثابت می‌مانند.
+‏
+‏ارتش ایالات متحده امیدوار است که این Tiltrotor جدید، دو برابر سریع‌تر و با مسافت طی شده بیشتر نسبت به بالگردهای فعلی، پرواز کند. ظرفیت طراحی این هواپیما، 14 سرباز است و حداکثر وزن بار خارجی آن، حدود 4.5 تن است. نام Cheyenne II، اشاره‌ای به قبایل شایان (Cheyenne) است، و عدد رومی "II" نشان‌دهنده ارتباط آن با پروژه هلکوپتر تهاجمی Lockheed AH-56 Cheyenne است که در دهه 1960 توسعه یافت، اما هرگز به تولید انبوه نرسید.
+‏
+‏واژه تیلت روتور در فرهنگستان زبان فارسی و توسط اهالی حداد عادل، یک برابر فارسی به نام "کجپروانه" داره.
+‏
+‏@Guard_Warriors | Mmd
+19:04
+1405/08/28
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓  @hey_itsmyturn  Annnnnd it's signed.  Al-Zaidi's order: a new command takes over Jurf al-Sakhar tomorrow at 06:00 Iraq time. Army, Federal Police, 2 PMF brigades, Energy Police on the pipelines.  IRGC-backed Kataib Hezballah, same afternoon, on the…
+19:04
+1405/08/28
+
+
+
+
 src :@Navy_Iranian
 ‏طبق گزارش تانکر ترکز ، ایران مشغول بارگیری مجدد نفت است ، در طول سه ماه گذشته پایانه های جزیره خارگ تقریبا خالی از تانکر ها بوده 
 ‏
+‏برداشت از این گزارش بسته به نوع دید مخاطب است 
+‏
 ‏⚓️ @Navy_Iranian | #a_m
 19:03
+1405/08/28
+
+
+
+
+src :@cataphract1
+‏⚜به گزارش بلومبرگ به نقل از مقام‌های غربی، در پی تشدید درگیری‌ها میان ایران و آمریکا، خطر ازسرگیری حملات گسترده نظامی آمریکا علیه ایران افزایش یافته است.
+‏✒️#LT
+‏📃@Cataphract1
+19:02
 1405/08/28
 
 
@@ -13,6 +58,17 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 19:02
+1405/08/28
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Merz Says Google Cloud Is Sovereign Enough for German Intelligence Agencies
+‏
+‏READ MORE
+19:01
 1405/08/28
 
 
@@ -1582,21 +1638,6 @@ src :@mohem_mat
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻علیرضا بیرانوند، دروازه‌بان تیم ملی ایران، در مراسم سالانه کنفدراسیون فوتبال آسیا در بانکوک، با پشت سر گذاشتن سالم الدوسری و فراس البریکان، جایزه بهترین بازیکن سال ۲۰۲۶ آسیا را کسب کرد.
-‏
-‏🔹بیرانوند که در سال ۲۰۱۹ نیز نامزد دریافت این جایزه شده بود، پس از خداداد عزیزی، علی دایی، مهدی مهدوی‌کیا و علی کریمی، پنجمین بازیکن ایرانی است که این عنوان را به دست می‌آورد.
-‏
-‏🔹آخرین بار علی کریمی در سال ۲۰۰۴ موفق به کسب این جایزه شده بود.
-‏
-‏@iranintltvsport
-16:54
-1405/08/28
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓  @hey_itsmyturn  1.  Security Media Cell chief Saad Maan: [IRGC-backed] Kataib Hezballah "will not have a deployment" in Jurf al-Sakhar. PMF Brigades 72 and 79 take over. KH gets sent to al-Qaim.  2.  Anbar's police chief, on the record: the security…
 16:49
@@ -2070,14 +2111,6 @@ src :@Alibk3
 ‏
 ‏احتمالات توجيه ضربات أميركية جديدة لإيران تتزايد، مع تصاعد حدة الإشتباكات العسكرية.
 15:57
-1405/08/28
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇸🇨🇳⚡️ — Putin, after a meeting with Trump and Xi, stated that "the discussion took place in a very frank manner, allowing us to better understand each other, and it was useful."  He expressed his desire for this summit to be followed by further developments…
-15:55
 1405/08/28
 
 
@@ -3335,30 +3368,6 @@ src :@Shin_Persian
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn  Missile test in Tehran, viewed from the direction of Artesh Boulevard @ 0724z Tehran Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/gxmMhpleUdxFufkYZbvglKc0  ترجمه خودکار فارسی  آزمایش…
-12:24
-1405/08/28
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Missile test in Tehran, viewed from the direction of Artesh Boulevard @ 0724z
-‏Tehran Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/gxmMhpleUdxFufkYZbvglKc0
-‏
-‏ترجمه خودکار فارسی
-‏
-‏آزمایش موشکی در تهران، دیده‌شده از سمت بلوار ارتش در 0724z (۱۰:۵۴ به وقت تهران)
-‏استان تهران، ایران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/gxmMhpleUdxFufkYZbvglKc0
-‏
-‏𝕏  ·  @shin_persian
 12:24
 1405/08/28
 
@@ -5027,37 +5036,6 @@ src :@cataphract1
 
 
 
-src :@cataphract1
-[عکس]
-‏✅سرویس های پریمیوم VPN
-‏
-‏✅نامحدود کاربر و نامحدود زمان
-‏
-‏🎚️ سرعت فوق‌العاده
-‏🎚️ اتصال پایدار و امن
-‏🎚️ سازگار با تمام دستگاه‌ها
-‏🎚️ پشتیبانی سریع و پاسخگو
-‏
-‏تا وقتی ظرفیت هست پیام بده و سرویس خودتو فعال کن. ⚡️
-‏
-‏
-‏آموزش ها
-‏
-‏✅ لینک ربات جهت خرید :
-‏
-‏ @AtlasRelayFastbot
-‏
-‏✅ لینک کانال اطلاع رسانی :  
-‏
-‏https://t.me/AtlasRelay
-‏
-‏❤️ کیفیت را یک‌بار امتحان کنید، تفاوت را همیشه احساس خواهید کرد.
-23:38
-1405/08/27
-
-
-
-
 src :@Mena_Live
 ‏The aircraft carrier George Washington has left the Persian Gulf, returning the situation to its previous state – there are now 2 aircraft carriers in the region (Bloomberg).
 ‏
@@ -5572,37 +5550,4 @@ src :@Minas_Tirith2024
 ‏
 ‏@Minas_Tirith2024
 19:10
-1405/08/27
-
-
-
-
-src :@Mena_Live
-‏The commander of CENTCOM arrived in Saudi Arabia along with 36 other military advisors.  Subject: Iran  @Mena_Live
-19:06
-1405/08/27
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇸🇾🇱🇧🇵🇸 — IDF:
-‏
-‏"We are preparing to remain in Gaza, Lebanon, and Syria in 2027".
-‏
-‏@TheWarReporter
-19:03
-1405/08/27
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇮🇱🇵🇸🇵🇸 — The IDF has launched its first large-scale military operation in the Gaza Strip since the ceasefire began in October 2025.
-‏
-‏The operation marks the first major ground offensive by Israeli forces since the ceasefire and includes plans to enter parts of Nuseirat where the IDF had not previously operated during the three-year war.
-‏
-‏@TheWarReporter
-19:01
 1405/08/27
