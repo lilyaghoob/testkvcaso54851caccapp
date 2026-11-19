@@ -123,7 +123,7 @@ src :@Alibk3
 [عکس]
 ‏بلومبرغ:
 ‏
-‏احتمالات توجيه ضربات أميركية جديدة لإيران تتزايد.
+‏احتمالات توجيه ضربات أميركية جديدة لإيران تتزايد، مع تصاعد حدة الإشتباكات العسكرية.
 15:57
 1405/08/28
 
@@ -426,23 +426,6 @@ src :@tabzlive
 [عکس]
 ‏🇺🇸🇷🇺🇨🇳⚡️ — U.S. President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are holding the first-ever joint talks between the three countries’ leaders in Shenzhen.   Trump described the meeting as a “different course” in foreign policy…
 15:22
-1405/08/28
-
-
-
-
-src :@ClashReport
-[عکس]
-‏The European Commission has been hit by a major cyberattack that may have compromised staff data and disrupted internal systems for more than 10 days. 
-‏
-‏Hackers reportedly used ARTEX, a publicly available AI-powered vulnerability detection tool, to target Commission systems. 
-‏
-‏Payroll, leave management, medical reimbursements and translation services were affected. 
-‏
-‏Most systems have been restored, but investigators are still assessing the extent of the breach.
-‏
-‏Source: POLITICO
-15:20
 1405/08/28
 
 
@@ -1000,16 +983,6 @@ src :@mohem_mat
 ‏
 ‏@mohem_mat
 14:30
-1405/08/28
-
-
-
-
-src :@ClashReport
-‏Kremlin:
-‏
-‏Ukraine was not the main topic of the trilateral Russia-China-U.S. summit.
-14:26
 1405/08/28
 
 
