@@ -1,3 +1,18 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇺🇸 CNN: A two-day NSA outage at Fort Meade forced non-essential staff to stay home and disrupted communications at a Georgia facility managing Middle East cyber operations during the US-Iran war. 
+‏
+‏The incident knocked NSANet offline, though core intelligence systems remained unaffected due to compartmentalization. Officials confirmed the cause was not a cyberattack but complex software patching for PHP vulnerabilities discovered via AI.
+‏
+‏This highlights the pressure on agencies to rapidly patch legacy systems as AI tools uncover flaws at unprecedented rates. 
+‏
+‏@wfwitness
+03:45
+1405/08/28
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏نيويورك تايمز عن مسؤولين أميركيين وإسرائيليين:
@@ -3728,14 +3743,6 @@ src :@OfficialRezaPahlavi
 
 
 
-src :@Alibk3
-‏سماع دوي انفجارات في مضيق هرمز الان.
-20:49
-1405/08/27
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏می‌دونم ب 🥚 تونه
 ‏ولی از تنگه هرمز دوتا صدا انفجار اومد 
@@ -6208,15 +6215,4 @@ src :@warmonitors
 ‏
 ‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 04:04
-1405/08/27
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇮🇷🇸🇦⚡️- Air traffic in and around Dammam, eastern Saudi Arabia has likely been halted due to the Iranian attack on Bahrain that ended some moments ago.
-‏
-‏A Boeing 747 Atlas Air flight from Frankfurt to Dammam has been in a rotating pattern around 120 km from Dammam.
-03:43
 1405/08/27
