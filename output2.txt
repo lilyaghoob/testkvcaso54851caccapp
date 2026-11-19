@@ -980,19 +980,6 @@ src :@Artemis_Force
 
 
 
-src :@ClashReport
-[عکس]
-‏Netanyahu is pressing Trump to join Israel in a four- to seven-day campaign of intensive airstrikes against Iran.
-‏
-‏Trump has yet to make a decision.
-‏
-‏Source: NYT
-08:48
-1405/08/28
-
-
-
-
 src :@MilitarryWorld
 ‏🔴فاکس نیوز: قصد دارید برای پایان دادن به درگیری با ایران از چین و روسیه کمک بخواهید، درست است؟
 ‏
@@ -3623,15 +3610,6 @@ src :@Farsi_Iranwire
 ‏
 ‏​​ @Farsi_Iranwire
 22:54
-1405/08/27
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرة شحن عسكري أميركي تصل الأردن.
-22:53
 1405/08/27
 
 
