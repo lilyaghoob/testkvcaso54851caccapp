@@ -1,3 +1,40 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸🇷🇺🇨🇳⚡️ — U.S. President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are holding the first-ever joint talks between the three countries’ leaders in Shenzhen.   Trump described the meeting as a “different course” in foreign policy…
+15:22
+1405/08/28
+
+
+
+
+src :@ClashReport
+[عکس]
+‏The European Commission has been hit by a major cyberattack that may have compromised staff data and disrupted internal systems for more than 10 days. 
+‏
+‏Hackers reportedly used ARTEX, a publicly available AI-powered vulnerability detection tool, to target Commission systems. 
+‏
+‏Payroll, leave management, medical reimbursements and translation services were affected. 
+‏
+‏Most systems have been restored, but investigators are still assessing the extent of the breach.
+‏
+‏Source: POLITICO
+15:20
+1405/08/28
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇲🇲⚡️ — NEW: The International Court of Justice (ICJ) has ruled that Myanmar committed genocide against its Rohingya Muslim minority during military “clearance operations” nearly a decade ago. 
+‏
+‏The landmark decision, passed by a 9-6 vote, marks the first time in the court’s history that a state has been found directly responsible for genocide.
+15:18
+1405/08/28
+
+
+
+
 src :@didarnews1
 [عکس]
 ‏📸️ پیکر آیت‌الله وحید خراسانی در حرم رضوی به خاک سپرده شد
@@ -4127,18 +4164,6 @@ src :@tglobaleye
 
 
 
-src :@tabzlive
-‏🔥⚡️ — Grand Theft Auto VI has so far released in Australasia, Asia, and eastern Europe, with a local source telling Tabz "everyone is playing it". 
-‏
-‏GTA VI has received the highest Metascore score of all time at 99, and in the coming hours it will release in western Europe.
-‏
-‏The Americas will have to wait several more hours to play the game, much to our chagrin.
-00:59
-1405/08/28
-
-
-
-
 src :@warmonitors
 ‏⚡Iranian Foreign Ministry: Our forces targeted weapons systems at two American bases in the region as part of the right to self-defense.
 ‏
@@ -4281,14 +4306,6 @@ src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - 7 USAF Aerial Refueling Tankers are airborne now over the region.   6 are visible, 1 is flying dark.   Heavy USAF Cargo Flights in and out of Israel are also ongoing.
 00:03
 1405/08/28
-
-
-
-
-src :@tabzlive
-‏🇾🇪❌🇸🇦 — The Houthis (Ansarallah) announced that they successfully struck a "sensitive site" in southwestern Saudi Arabia’s Jazan Province with ballistic missiles and another "sensitive site" at Khamis Mushait Air Base with a drone.
-23:58
-1405/08/27
 
 
 
@@ -5155,32 +5172,12 @@ src :@rnintel
 
 
 
-src :@defence_news
-[عکس]
-‏فرمانده ستاد فرماندهی مرکزی آمریکا (سنتکام) با رئیس ستاد ارتش اسرائیل و رئیس سازمان جاسوسی موساد در اسراییل دیدار کرد.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-20:26
-1405/08/27
-
-
-
-
 src :@GeoPWatch
 [ویدئو]
 ‏⚡️🇮🇷 - Intense air defense activity has been reported in Omidiyeh, Khuzestan province.
 ‏
 ‏There's no information on whether this is a test or an active engagement of drones.
 20:23
-1405/08/27
-
-
-
-
-src :@defence_news
-[عکس]
-‏کمیته بودجه سنا حدود ۱.۸۴ میلیارد دلار از اعتبارات ساخت ناو BBG(X) ناو کلاس ترامپ در بودجه دفاعی ۲۰۲۷ را حذف کرد (یک میلیارد دلار خرید اولیه و ۸۳۶.۹ میلیون دلار تحقیق و توسعه). این ناو ۳۴ هزار تنی قرار است بزرگ‌ترین شناور رزمی سطحی آمریکا از جنگ جهانی دوم باشد و بخشی از طرح «ناوگان طلایی» ترامپ. سناتورها معتقدند هزینه آن در ۲۰۲۷ توجیه‌پذیر نیست، هرچند این تصمیم نهایی نیست و به معنای لغو قطعی پروژه نیست.
-20:22
 1405/08/27
 
 
@@ -5234,52 +5231,12 @@ src :@Navy_Iranian
 
 
 
-src :@defence_news
-‏🔹דיווח: ראש המוסד ורון דרמר קידמו בוושינגטון תקיפה משותפת באיראן
-‏
-‏ראש המוסד רומן גופמן והשר לשעבר רון דרמר קיימו סדרת פגישות בוושינגטון במטרה לשכנע את ממשל טראמפ לפעול צבאית נגד איראן. 
-‏
-‏🔻رئیس موساد و ران درمر در واشنگتن تلاش کردند طرح حمله مشترک علیه ایران را پیش ببرند
-‏
-‏رومن گافمن، رئیس موساد، سلسله جلساتی را در واشنگتن با هدف متقاعد کردن دولت ترامپ برای اقدام نظامی علیه ایران برگزار کرد. از جمله نکات مهم، این است که ران درمر نیز همراه وی بوده است.
-‏
-‏@Unaatann
-19:55
-1405/08/27
-
-
-
-
 src :@samueltarikh
 ‏تفنگداران ویژه دریایی ارتش آمریکا از ژاپن به سمت خاورمیانه اعزام شدند،
 ‏پس از استقرار گروه ضربت ناو هواپیمابر روزولت در حوزه مسئولیت فرماندهی سنتکام؛
 ‏حال ناو تهاجمی آبی‌خاکی مکین آیلند نیز به همراه دو کشتی جنگی آبی‌ خاکی و حدود 2000 تفنگدار دریایی،
 ‏در حال حرکت به سوی خاورمیانه است.
 19:53
-1405/08/27
-
-
-
-
-src :@defence_news
-[عکس]
-‏جنگنده‌های F-16 ترکیه در یک مأموریت چرخشی بین موگادیشو (سومالی) و بندر بندرما در استان بالیکسیر ترکیه، بدون فرود میانی، مسافت ۱۱٬۰۳۸ کیلومتر (۵٬۹۶۰ مایل دریایی) را در دو سورتی و طی ۵۵ ساعت پرواز کردند. این مأموریت توسط خلبانان اسکادران ۱۶۱ فرماندهی ششمین پایگاه هوایی اصلی ترکیه و در چارچوب چرخش‌های برنامه‌ریزی‌شده نگهداری هواپیما انجام شد. میانگین مسافت هر سورتی بیش از ۵٬۵۰۰ کیلومتر بود که برای جنگنده‌های بدون فرود میانی نیازمند سوخت‌گیری هوایی است. 
-‏
-‏ترکیه نخستین بار در ۲۸ ژانویه ۲۰۲۶ سه فروند F-16 را به سومالی مستقر کرد و در پایگاه بین‌المللی آدن آدده موگادیشو آشیانه‌های جدیدی ساخته شد. ترکیه همچنین بزرگ‌ترین پایگاه نظامی خارج از کشورش را در سومالی دارد و گفته می‌شود بیش از ۵٬۰۰۰ نفر از نیروهای امنیتی سومالی را آموزش داده است.
-19:11
-1405/08/27
-
-
-
-
-src :@defence_news
-[عکس]
-‏نیروی هوایی بریتانیا تا کنون ۵۰ سورتی معادل ۴۵۶ ساعت پرواز سوخترسانی هوایی برای کمک به دفاع از آسمان عربستان سعودی انجام داده است
-‏
-‏این پروازها از مبدا پایگاه هوایی آکروتیری قبرس انجام می شوند
-‏
-‏@Minas_Tirith2024
-19:10
 1405/08/27
 
 
