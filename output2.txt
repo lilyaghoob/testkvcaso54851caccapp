@@ -1,3 +1,13 @@
+src :@intelslava
+‏🇷🇺❌🇺🇦 — Possible KN-23 ballistic missile launches from Voronezh Oblast.
+‏
+‏@IntelSlava
+03:26
+1405/08/29
+
+
+
+
 src :@rnintel
 ‏🇺🇸⚡️- BREAKING: Several Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident earlier this week.  The outages have impacted many financial tools used to facilitate payments between the…
 03:20
@@ -3536,24 +3546,6 @@ src :@naya_foriraq
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️خبرگزاری مهر روز پنجشنبه ۲۸ آبان‌ماه گزارش داد که در پی افزایش ابتلا به آنفلوآنزا، کارگروه سلامت استان بوشهر تصمیم گرفت تمامی مدارس این استان در روزهای شنبه ۳۰ آبان و یکشنبه اول آذرماه به‌صورت غیرحضوری فعالیت کنند. این تصمیم با هدف کاهش انتقال ویروس میان دانش‌آموزان و جلوگیری از گسترش بیماری اتخاذ شده است.
-‏
-‏بر اساس آمار اعلام‌شده از سوی وزارت بهداشت ایران، ۲۶.۳ درصد نمونه‌های بررسی‌شده از نظر ابتلا به آنفلوآنزا مثبت بوده و دست‌کم ۲۱ استان کشور از آستانه هشدار این بیماری عبور کرده‌اند. همچنین حدود ۵۳ درصد موارد مثبت مربوط به کودکان و دانش‌آموزان است.
-‏
-‏افزایش موارد ابتلا به آنفلوآنزا پیش‌تر باعث غیرحضوری‌شدن موقت مدارس در بخش‌هایی از استان‌های آذربایجان غربی و لرستان شده بود. با این حال، وزارت آموزش و پرورش اعلام کرده است که تصمیمی برای تعطیلی سراسری مدارس وجود ندارد و کارگروه‌های استانی با توجه به وضعیت شیوع بیماری درباره فعالیت مراکز آموزشی تصمیم می‌گیرند.
-‏
-‏همزمان، مسئولان بهداشتی از خانواده‌ها خواسته‌اند دانش‌آموزانی را که علائم بیماری دارند به مدرسه نفرستند و برای کاهش انتقال ویروس، توصیه‌های بهداشتی را رعایت کنند.
-‏
-‏ 
-‏@indypersian
-20:20
-1405/08/28
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -3733,16 +3725,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 19:59
-1405/08/28
-
-
-
-
-src :@intelslava
-‏🇷🇺🇺🇸⚡️ — Putin told Trump that he is furious about the attack on the Crimean Bridge, NBC News reports, citing the American president.
-‏
-‏@IntelSlava
-19:58
 1405/08/28
 
 
@@ -6175,31 +6157,4 @@ src :@GeoPWatch
 [عکس]
 ‏🇸🇩❌🇸🇩 - The Sudanese military has launched a new offensive towards Abu Zabad, dozens of settlements such as Bara, Abekr, At Tawm Halal, Umm Defeis, Zarqa, and Saata have all been captured by the SAF.  @GeoPWatch
 03:58
-1405/08/28
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🚨🔸 شبکه فاکس‌نیوز، ۲۷ آبان ۱۴۰۵، گزارشی درباره تظاهرات ضدحکومتی مردم آبدانان که در حاشیه مراسم ختم جانباختگان سانحه واژگونی اتوبوس کارگران شرکت نفت به راه افتاد و در آن معترضان علاوه بر شعارهایی ضد حکومت، خواستار بازگشت سلسه پهلوی شدند، منتشر کرد.
-‏این در حالی است که از سوی برخی افراد یا جریان‌های مخالف پهلوی، ادعا شد بود ویدیوها صداگذاری شده است.
-‏
-‏لیزا دفتری روزنامه‌نگار به فاکس‌نیوز گفت: «آبدانان یادآور این واقعیت است که جمهوری اسلامی بر فراز آتشفشانی خاموش قرار گرفته است. این خیزش‌ها با محرک‌های متفاوتی آغاز می‌شوند و در این مورد، یک مطالبه و نارضایتی محلی جرقه اعتراضات را زد؛ اما همگی در نهایت به یک نتیجه مشترک می‌رسند.»
-‏
-‏او افزود: «شعارهایی که می‌شنویم، "مرگ بر دیکتاتور" و "جاوید شاه" هستند، نه اعتراض به یک سیاست خاص. این شعارها کل نظام را، از رأس تا پایین‌ترین سطوح، زیر سؤال می‌برند.»
-‏
-‏@DEJradio
-03:26
-1405/08/28
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸🤖 – The AI giant Anthopic has priced its IPO at $83 dollars per share, valuing the company at around $1.5 trillion as it prepares to debut on the stock market tomorrow.
-‏
-‏@GeoPWatch
-03:24
 1405/08/28
