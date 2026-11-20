@@ -1,3 +1,14 @@
+src :@MilitarryWorld
+‏🔴فرمانده کل سپاه:
+‏بخشی از یک جنگ بزرگ را پشت سر گذاشته‌ایم و ادامه جنگ در راه است.
+‏
+‏@MilitarryWorld | Parsa
+23:10
+1405/08/29
+
+
+
+
 src :@rus_cosmos
 [عکس]
 ‏تصاویر امروز ۲۰ نوامبر ماهواره سنتینل-۲ از تنگه حضور تعداد زیادی تانکر را در حال گذر از این تنگه در مسیر جنوب نشان می‌دهد.
@@ -196,8 +207,7 @@ src :@IranintlTV
 ‏
 ‏روایت این منبع، خشونت روز مرگ این نوجوان را به سال‌ها ضرب‌وشتم در خانواده، تهدید پدر و دسترسی بی‌اجازه به دفتر خاطرات سوگند پیوند می‌دهد.
 ‏
-‏گزارش کامل را در وب‌سایت ایران‌اینترنشنال بخوانید.
-‏https
+‏https://www.iranintl.com/202611202332
 22:35
 1405/08/29
 
@@ -3034,16 +3044,6 @@ src :@Shin_Persian
 
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - Locals are reporting hearing an explosion, but have not seen any signs of a launch.  @GeoPWatch
-18:57
-1405/08/29
-
-
-
-
-src :@MilitarryWorld
-‏🔴گزارشات اولیه از ۳ انفجار در قشم 
-‏
-‏@MilitarryWorld | Parsa
 18:57
 1405/08/29
 
@@ -6402,48 +6402,4 @@ src :@cataphract1
 ‏✒️#LT
 ‏📃@Cataphract1
 23:13
-1405/08/28
-
-
-
-
-src :@ircfspace
-[عکس]
-‏اپ متن‌باز و رایگان BPB برای اندروید، یه کلاینت VPN مبتنی بر هسته Xray هست، که چندین روش مختلف برای عبور از محدودیت‌های اینترنت رو بصورت متمرکز جمع‌آوری کرده. 
-‏این اپ از اتصال‌های Workers و Pages کلودفلر با امکان راه‌اندازی از طریق حساب شخصی، تا متدهای سایفون، مسک، وارپ و تور پشتیبانی می‌کنه و امکان ترکیب چند روش اتصال با قابلیت Chain Proxy رو در اختیارتون میذاره.
-‏
-‏👉 github.com/bia-pain-bache/BPB-VPN/releases
-‏
-‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-‏@ircfspace
-23:09
-1405/08/28
-
-
-
-
-src :@OSINTWarfare
-‏🇮🇷⚡️ — The IRGC Navy launched several anti-ship cruise missiles from southern Iran, with explosions subsequently heard in the Strait of Hormuz.
-‏
-‏@OSINTWarfare
-23:07
-1405/08/28
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 🧭 🇺🇦 — Jared Kushner says Trump 'open' to extend NATO mutual defence clause to Ukraine — AFP
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-23:07
-1405/08/28
-
-
-
-
-src :@samueltarikh
-‏🚨کانال ۱۴ اسرائیل: ده‌ها تانکر نفت ایران در حال آماده‌سازی برای عزیمت به چین هستند
-23:06
 1405/08/28
