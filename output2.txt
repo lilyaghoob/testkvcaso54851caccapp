@@ -4020,15 +4020,6 @@ src :@mohem_mat
 
 
 
-src :@Shin_Persian
-[عکس]
-‏Shin ✓  @hey_itsmyturn  Explosion heard in Qeshm. Hormozgan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/mRg1-DjqzD12Nz3c7EObAIdw  ترجمه خودکار فارسی  صدای انفجار در قشم شنیده شد. استان هرمزگان، ایران …
-19:09
-1405/08/29
-
-
-
-
 src :@mohem_mat
 [عکس]
 ‏طبق اعلام پرستو فروهر
