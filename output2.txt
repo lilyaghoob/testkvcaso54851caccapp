@@ -1,3 +1,37 @@
+src :@Alibk3
+‏هجوم يمني يستهدف نجران في السعودية.
+02:06
+1405/08/30
+
+
+
+
+src :@OSINTWarfare
+‏⬜️ — I expect that Morocco will test Polisario with false alarms and other "operational" movements to collect signals intelligence on their networks, simply by generating panic.
+02:06
+1405/08/30
+
+
+
+
+src :@BellumActaNews
+‏❗️/🇲🇦 — Reports of military helicopter activity somewhere in southern Morocco, also reports of (small) explosions in W. Sahara
+‏
+‏🚨 t.me/sigintt
+02:01
+1405/08/30
+
+
+
+
+src :@BellumActaNews
+‏❗️/🇲🇦 — Reports of military helicopter activity somewhere in southern Morocco, also reports of (small) explosions in W. Sahara  🚨 t.me/sigintt
+02:01
+1405/08/30
+
+
+
+
 src :@mamlekate
 ‏📝 مرگ سوگند صیادی؛ روایت یکی از نزدیکان خانواده از خشونت پدر و کوتاهی مدیر مدرسه
 ‏
@@ -2844,15 +2878,6 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-[عکس]
-‏المتحدث باسم القوات المسلحة اليمنية:   ميناء جدة وجميع الموانئ السعودية في ساحل البحر الأحمر ستكون هدفا مشروعًا لقواتنا في حال تم قصف ميناء الحديدة. يجب على المتواجدين فيها وبالقرب منها بإخلائها فورا.
-20:34
-1405/08/29
-
-
-
-
 src :@naya_foriraq
 ‏🇸🇦🇾🇪صاروخين باليستيين يستهدفان جازان.  https://t.me/naya_foriraq
 20:34
@@ -3689,25 +3714,6 @@ src :@mohem_mat
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇺🇸❌🇮🇷 — Observers report that explosions were heard on Qeshm City, Qeshm Island, southern Iran.
-‏
-‏According to preliminary reports, an airstrike targeted an air defence site, perhaps the one that earlier fired towards a US aircraft.
-‏
-‏Additionally, other reports claim that an aircraft was shot down.
-‏
-‏🔗 BeamTracker | Military OSINT (@BeamTracker_) 
-‏➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖
-‏@BellumActaNews
-19:09
-1405/08/29
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏Shin ✓  @hey_itsmyturn  Explosion heard in Qeshm. Hormozgan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/mRg1-DjqzD12Nz3c7EObAIdw  ترجمه خودکار فارسی  صدای انفجار در قشم شنیده شد. استان هرمزگان، ایران …
@@ -4055,21 +4061,6 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 18:40
-1405/08/29
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🤩🇦🇿⬛ — The Azerbaijani State Security Service (DTX) says it has detained and repatriated several Azerbaijani citizens who had joined an armed group established abroad on the basis of 'religious hostility, radicalism and fanaticism'.
-‏
-‏According to the DTX, one of those detained, Yunus Abdurahmanov, left Azerbaijan on November 15, 2025, and subsequently joined the Islamic State Khorasan Province (ISIS-K). He was reportedly taken to a clandestine camp in a mountainous area, where he was provided with firearms and ammunition and underwent military training for planned operations. He was later captured during a special operation.
-‏
-‏Another member, Abdulla Hasanbayov, went to another country with the intention of participating in military operations against the government forces of an undisclosed foreign state. He was detained while traveling along a clandestine route during a joint operation with the security services of the respective state, based on information provided by the Azerbaijan.
-‏
-‏@TheWarReporter
-18:39
 1405/08/29
 
 
