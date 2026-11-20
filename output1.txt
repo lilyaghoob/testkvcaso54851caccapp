@@ -1,3 +1,22 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴فوری؛ یک نفتکش ایرانی به سمت مقصد نامعلوم به حرکت درامد
+‏
+‏@MilitarryWorld | Parsa
+00:19
+1405/08/30
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏#تکمیلی   بر اساس داده‌های فلایت‌رادار۲۴، این جنگنده به‌سرعت در حال از دست دادن ارتفاع بوده و پروازی نامنظم داشته است. این هواپیما در حالی که به سمت پایگاه هوایی الظفره در حرکت بود، از صفحه رادار ناپدید شده است.  🆔@WAR_ROOM_NEWS
+00:17
+1405/08/30
+
+
+
+
 src :@Fighter_Radar
 ‏🔴چند سوپرتانکر ایرانی حرکت خود را به سمت چین آغاز کردند
 ‏
@@ -505,20 +524,6 @@ src :@DEJradio
 ‏پیام دریافتی
 ‏
 ‏@DEJradio
-23:24
-1405/08/29
-
-
-
-
-src :@OmidIranAzad
-[عکس]
-‏⚡️⚡️⚡️ #خبر_فوری
-‏هم اکنون طبق گزارش های اولیه محلی،
-‏یک ابر نفتکش ایرانی حامل چندین میلیون بشکه نفت حرکت خود به سمت چین را از جزیره خارک آغاز کرده است.
-‏
-‏اتحاد ملی ایران | رسانه خبری👇
-‏@OmidIranAzad
 23:24
 1405/08/29
 
@@ -2193,16 +2198,6 @@ src :@didarnews1
 
 
 
-src :@MilitarryWorld
-‏🔴نیویورک پست: ترامپ در سخنرانی مهمی که ماه آینده خواهد داشت، درباره جنگ با ایران صحبت خواهد کرد
-‏
-‏@MilitarryWorld | Parsa
-19:45
-1405/08/29
-
-
-
-
 src :@defence_news
 [عکس]
 ‏نمونه ای از فریب دهنده تانک شرمن در مدل M4A1. اگر در کانال عبارت فریب دهنده نظامی یا ماکت را جستجو کنید مطالب زیادی در این خصوص وجود دارد. استفاده از ماکت برای فریب دشمن یک ابتکار محسوب میشود که امروزه در ترکیب با فناوری قرار گرفته و از این جهت همچنان اثر خودش را حفظ کرده است. در آموخته این مسئله آن است که یک ابتکار در ترکیب با فناوری میتواند به اثر بخشی قابل توجهی برسد.
@@ -2548,6 +2543,22 @@ src :@Farsi_Iranwire
 src :@mohem_mat
 ‏◾️خبر درگذشت ناباورانه علیرضا سرفرازی؛ همکار سابق ما، تلخ و جانکاه است  چه دشوار است پذیرفتن فقدان انسانی که می‌توانست سال‌های طولانی پیش‌رو، زندگی کند، تجربه بیندوزد و رؤیاهایش را دنبال کند؛ اما ناگهان از میان ما رفت.  تحریریه روزنامه هم‌میهن در این فقدان…
 18:55
+1405/08/29
+
+
+
+
+src :@mohem_mat
+‏👤 بهمن كلباسى (@bbckalbasi)
+‏خبرنگار اسراییلی نیویورک‌تایمز: «چگونه نزدیکان نتانیاهو کوشیدند تا روند انتخابات را با یاری پلیس و سرویس امنیت داخلی، مختل کنند: توطئه‌ای نژادپرستانه و ساختگی را سرهم کردند با این ادعا که «اعراب دارند انتخابات را می‌دزدند» — در حالی که خودشان برای ربودن انتخابات تلاش می‌کردند.»
+‏
+‏This story- of how Netanyahu’s associates tried to deeply disrupt the election — and, with the help of the Israel Police and the Shin Bet, the domestic intelligence service, manufacture an ugly, racist, and completely false conspiracy claiming that "the Arabs are stealing the election," while they themselves were the ones trying to steal it — will stay with us for a long time to come, and I believe many more jaw-dropping details will yet emerge.
+‏W\@aboxerman1 via @nytimes
+‏https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html?unlocked_article_code=1.R1E.DYoe.fXM2qWwIPPn7&smid=url-share
+‏👤 Ronen Bergman (@ronenbergman)
+‏
+‏@mohem_mat
+18:53
 1405/08/29
 
 

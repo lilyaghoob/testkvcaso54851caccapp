@@ -1,3 +1,88 @@
+src :@WAR_ROOM_NEWS
+‏ترامپ درباره ایران: ما با نهایت ملایمت رفتار می‌کنیم. ما صبور هستیم، بسیار صبور
+00:21
+1405/08/30
+
+
+
+
+src :@GeoPWatch
+[ویدئو]
+‏🇮🇱❌🇵🇸 – Israeli drone strikes killed at least seven Palestinians in Central Gaza today. Four were killed in the Bureij refugee camp, one in Nuseirat, and two near Deir el-Balah, while an unknown number of people were also injured in the strikes.
+‏
+‏Despite the "ceasefire" in Gaza, which was declared over a year ago, more than 1,600 Palestinians have been killed in the Strip since it started.
+‏
+‏@GeoPWatch
+00:21
+1405/08/30
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇺🇸/🇮🇷 NEW: Several Iranian tankers loaded with oil have started to set sail for the Gulf of Oman
+‏
+‏@Middle_East_Spectator
+00:21
+1405/08/30
+
+
+
+
+src :@naya_foriraq
+‏‏ترامب عن إيران:نحن نتصرف بلطف شديد. نحن نتحلى بالصبر، بصبر شديد.
+00:20
+1405/08/30
+
+
+
+
+src :@MilitarryWorld
+[عکس]
+‏🔴فوری؛ یک نفتکش ایرانی به سمت مقصد نامعلوم به حرکت درامد
+‏
+‏@MilitarryWorld | Parsa
+00:19
+1405/08/30
+
+
+
+
+src :@Middle_East_Spectator
+[عکس]
+‏—❗️🇦🇪/🇺🇸/🇮🇷 BREAKING: A U.S. F-16C fighter jet squawked 7700 (general emergency) after trying to enter Iranian airspace
+‏
+‏It quickly left the Strait of Hormuz and attempted to make an emergency landing in Al-Dhafra Airbase, United Arab Emirates, while rapidly losing altitude and speed.
+‏
+‏The fate of the aircraft is unclear.
+‏
+‏@Middle_East_Spectator
+00:18
+1405/08/30
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏#تکمیلی   بر اساس داده‌های فلایت‌رادار۲۴، این جنگنده به‌سرعت در حال از دست دادن ارتفاع بوده و پروازی نامنظم داشته است. این هواپیما در حالی که به سمت پایگاه هوایی الظفره در حرکت بود، از صفحه رادار ناپدید شده است.  🆔@WAR_ROOM_NEWS
+00:17
+1405/08/30
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Iranian media share a photo of the late Supreme Leader Ali Khamenei alongside his granddaughter, Zahra Mohammadi Golpayegani.
+‏
+‏Both were killed in U.S. and Israeli strikes on Iran at the start of the war in February.
+00:17
+1405/08/30
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -1001,23 +1086,6 @@ src :@Alibk3
 
 src :@jangaavaran1390
 ‏معاون ترامپ  «رئیس جمهور ترامپ کسی است که تصمیم می‌گیرد. ایشان اعلام کرده‌اند که بار دیگر  لازم باشد جنگی علیه ایران آغاز خواهند کرد. وظیفه من این است که از رئیس جمهور حمایت کنم.»
-22:29
-1405/08/29
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Trump’s envoys Steve Witkoff and Jared Kushner met senior Qatari officials in Berlin on Thursday to discuss efforts to revive U.S.-Iran negotiations.
-‏
-‏Qatar is seeking to restore the ceasefire, restart nuclear talks and prevent renewed fighting. 
-‏
-‏Trump said he would not decide on further military action against Iran until the new year, despite pressure from Netanyahu. 
-‏
-‏Iranian and Qatari officials have held several meetings in recent weeks, but no significant progress has been made.
-‏
-‏Source: Axios
 22:29
 1405/08/29
 
@@ -2807,16 +2875,6 @@ src :@tglobaleye
 
 
 
-src :@MilitarryWorld
-‏🔴نیویورک پست: ترامپ در سخنرانی مهمی که ماه آینده خواهد داشت، درباره جنگ با ایران صحبت خواهد کرد
-‏
-‏@MilitarryWorld | Parsa
-19:45
-1405/08/29
-
-
-
-
 src :@defence_news
 [عکس]
 ‏نمونه ای از فریب دهنده تانک شرمن در مدل M4A1. اگر در کانال عبارت فریب دهنده نظامی یا ماکت را جستجو کنید مطالب زیادی در این خصوص وجود دارد. استفاده از ماکت برای فریب دشمن یک ابتکار محسوب میشود که امروزه در ترکیب با فناوری قرار گرفته و از این جهت همچنان اثر خودش را حفظ کرده است. در آموخته این مسئله آن است که یک ابتکار در ترکیب با فناوری میتواند به اثر بخشی قابل توجهی برسد.
@@ -3002,16 +3060,6 @@ src :@GeoPWatch
 
 
 
-src :@WAR_ROOM_NEWS
-‏گزارش از هدف قرار گرفتن یک فروند نفت‌کش توسط سپاه در نزدیکی جزیره خصب در سواحل عمان
-‏
-‏🆔@WAR_ROOM_NEWS
-19:34
-1405/08/29
-
-
-
-
 src :@cataphract1
 [عکس]
 ‏⚜️ تصویری از سوخت‌گیری هوایی یک فروند جنگنده F-16 نیروی هوایی آمریکا بر فراز تنگه هرمز و خلیج فارس در تاریخ ۱۵ نوامبر منتشر شده است.
@@ -3083,17 +3131,6 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
 19:32
-1405/08/29
-
-
-
-
-src :@naya_foriraq
-[عکس]
-‏🇮🇷🔻استهداف ناقلة نفط قرب جزيرة خصب بمضيق هرمز.
-‏
-‏https://t.me/naya_foriraq
-19:31
 1405/08/29
 
 
@@ -6361,17 +6398,6 @@ src :@Mena_Live
 ‏
 ‏@Mena_Live
 01:30
-1405/08/29
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇮🇷 – Anti-air defense activity is being reported in Northern Tehran, Tehran province. It's likely to be routine testing, but the reason remains unconfirmed.
-‏
-‏@GeoPWatch
-01:23
 1405/08/29
 
 
