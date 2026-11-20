@@ -1,3 +1,13 @@
+src :@MilitarryWorld
+‏🔴عراقچی: ما خطوط قرمز مشخصی در مورد اورانیوم غنی‌شده داریم و اولین آن، خروج این مواد از کشور است هیچ اورانیومی از کشور خارج نخواهد شد
+‏
+‏@MilitarryWorld | Parsa
+01:20
+1405/08/30
+
+
+
+
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏اخبار منتشر شده در برخی کانال ها مبنی بر حرکت نفتکش های «مَهوَش»، «پریوَش»، «آیناز» و «فرنگیز» به سمت شکستن محاصره #چاخان میباشد.
@@ -11,19 +21,10 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@Navy_Iranian
-[عکس]
-‏🔶 حرکت نفتکش‌های ایرانی حامل نفت به سمت دریای عمان.
-‏
-‏🔹️ چندین نفتکش ایرانی که محموله‌های نفتی خود را بارگیری کرده‌اند، حرکت به سمت دریای عمان را آغاز کرده‌اند.
-‏
-‏#Iran
-‏#USA
-‏#OilTankers
-‏#GulfOfOman
-‏#Oil
-‏
-‏@RASTAKHIZ_PERSIAN
+src :@naya_foriraq
+‏عراقجي: ‏نسعى إلى اتفاق يضمن عدم نشوب حرب أخرى بعد ذلك،أول مطلب لإيران هو أن يصرح ترامب صراحة بأنه يريد التوصل إلى اتفاق.
+‏-من الخطوط الحمراء لإيران عدم خروج اليورانيوم المخصب من البلاد
+‏https://t.me/naya_foriraq
 01:16
 1405/08/30
 
@@ -2908,16 +2909,6 @@ src :@Navy_Iranian
 
 
 
-src :@MilitarryWorld
-‏🔴معاون استاندار هرمزگان: صدای انفجار و دود مشاهده شده در قشم ناشی از امحای مهمات عمل‌نکرده دشمن آمریکایی است
-‏
-‏@MilitarryWorld | Parsa
-20:30
-1405/08/29
-
-
-
-
 src :@GeoPWatch
 ‏🇺🇸❌🇮🇷 - A smoke plume can be seen rising on Qeshm Island.  @GeoPWatch
 20:28
@@ -3212,17 +3203,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@Alibk3
-[عکس]
-‏الحرس الثوري:
-‏
-‏انفجار ناقلة نفط مخالفة بعد اصطدامها بلغم بحري عند مدخل ميناء خصب.
-19:57
-1405/08/29
-
-
-
-
 src :@BellumActaNews
 [عکس]
 ‏💸📉 — Bitcoin ($BTC) crashes under $59,000/coin
@@ -3263,16 +3243,6 @@ src :@bricsnews
 ‏JUST IN: Oil tanker catches fire after being struck by projectile near the Strait of Hormuz.
 ‏
 ‏@BRICSNews
-19:49
-1405/08/29
-
-
-
-
-src :@naya_foriraq
-‏🇷🇺🇩🇰الدنمارك تطرد دبلوماسيًّا روسيًّا إثر محاولة اغتيال مواطن أوكراني-أميركي على أراضيها.
-‏
-‏https://t.me/naya_foriraq
 19:49
 1405/08/29
 
@@ -6368,15 +6338,6 @@ src :@BellumActaNews
 [عکس]
 ‏🇷🇺❌🇺🇦 — Ukrainian media reports that as a result of the attack on Kyiv, the Darnitsky Bridge and the Podilsko-Voskresensky bridge have been damaged. There were also further strikes on the Southern Bridge of Kyiv  ➖➖➖➖➖➖ 💧 Rainbet.com the #1 Non-KYC Crypto…
 08:47
-1405/08/29
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏XMR Monero just dropped -9%
-08:42
 1405/08/29
 
 
