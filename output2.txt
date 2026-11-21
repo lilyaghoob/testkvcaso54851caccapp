@@ -2240,16 +2240,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@WAR_ROOM_NEWS
-‏ترامپ درباره ایران: ما با نهایت ملایمت رفتار می‌کنیم. ما صبور هستیم، بسیار صبور
-‏
-‏🆔@WAR_ROOM_NEWS
-00:21
-1405/08/30
-
-
-
-
 src :@GeoPWatch
 [ویدئو]
 ‏🇮🇱❌🇵🇸 – Israeli drone strikes killed at least seven Palestinians in Central Gaza today. Four were killed in the Bureij refugee camp, one in Nuseirat, and two near Deir el-Balah, while an unknown number of people were also injured in the strikes.
