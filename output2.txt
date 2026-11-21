@@ -1,3 +1,16 @@
+src :@ClashReport
+[عکس]
+‏Estonia to Close All Borders With Russia Over Suspected GRU Sabotage
+‏
+‏All five checkpoints will close on December 1, as Tallinn says Russian military intelligence ordered an attempted arson attack at a defense facility near the capital.
+‏
+‏READ MORE
+18:51
+1405/08/30
+
+
+
+
 src :@intelslava
 ‏🇮🇷🇸🇦🇧🇭🇶🇦🇰🇼🇺🇸⚡️ — Allianz Research estimates that the war with Iran could cost Gulf Cooperation Council (GCC) states $790 billion in lost economic output by 2030, in addition to an estimated $200 billion in physical damage.
 ‏
@@ -1177,19 +1190,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@ClashReport
-[عکس]
-‏Signal Says AI an 'Existential Threat' to Private Chats
-‏
-‏Signal said it would block screenshots, calling on Apple, Google, and Microsoft to give app developers a way to prevent AI assistants from reading screens, notifications, and files.
-‏
-‏READ MORE
-17:14
-1405/08/30
-
-
-
-
 src :@jangaavaran1390
 ‏ایران فیلمی را منتشر می‌کند که بر اساس آن به سمت یک جنگنده اف ۱۶ آمریکایی در خلیج فارس شلیک می‌کند ولی موشک با فاصله زیادی منفجر می‌شود و جنگنده به نظر می‌رسد در نهایت فرار می‌کند
 17:13
@@ -1412,18 +1412,6 @@ src :@Farsi_Iranwire
 ‏بخوانید : https://iranwire.com/fa/news-1/160560
 ‏
 ‏@Farsi_Iranwire
-16:45
-1405/08/30
-
-
-
-
-src :@IranintlTV
-[عکس]
-‏محمدرضا نقدی، مشاور عالی فرمانده سپاه پاسداران، شنبه ۳۰ آبان و در گفت‌وگو با خبرگزاری مهر گفت که دبیر کل آژانس بین‌المللی انرژی اتمی «مزدوری اسرائیلی‌ها» را می‌کند و در ادامه گفت: «رافائل گروسی سزای کارش را خواهد دید.»
-‏
-‏نقدی ادامه داد: «گروسی یک اسرائیلی است و متعهد به هیچ یک از قوانین و مقررات نیست.»
-‏https://iranintl.com/202611210349
 16:45
 1405/08/30
 
@@ -4666,15 +4654,6 @@ src :@GeoPWatch
 
 
 
-src :@BellumActaNews
-[عکس]
-‏🇧🇦❌🇧🇦 — The Muslim- and foreign-dominated Constitutional Court of BiH has dealt the heaviest blow yet to the Dayton Agreement, annulling the Serb Presidency member’s national interest veto on the monuments commission, a safeguard against any constituent people…
-02:09
-1405/08/30
-
-
-
-
 src :@OSINTWarfare
 ‏⬜️ — I expect that Morocco will test Polisario with false alarms and other "operational" movements to collect signals intelligence on their networks, simply by generating panic.
 02:06
@@ -5799,17 +5778,6 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 19:42
-1405/08/29
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — NYC Mayor Zohran Mamdani announces plan to close Rikers Island prison.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-19:39
 1405/08/29
 
 
