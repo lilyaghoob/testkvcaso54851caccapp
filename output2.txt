@@ -1242,18 +1242,6 @@ src :@Shin_Persian
 
 
 
-src :@IranintlTV
-[عکس]
-‏عباس عراقچی، وزیر خارجه جمهوری اسلامی، به روزنامه ایران گفت اگر آمریکا خواهان توافق است، باید موضع خود را اصلاح کند و اقدامات اعتمادساز انجام دهد. حتی حاضریم زمان اجرای شروط بازگشایی تنگه هرمز را از دو روز به یک روز یا دو ساعت کاهش دهیم. مهم این است که خواسته‌های ما محقق شود.
-‏او در مورد «مذاکرات احتمالی هسته‌ای و سرنوشت ۴۰۰ کیلوگرم اورانیوم با غنای ۶۰ درصد» گفت: «امکان دستیابی به یک فرمول برای حل این مسئله وجود دارد. البته ما در این زمینه چند خط قرمز مشخص داریم؛ نخست این‌که این مواد از کشور خارج نخواهد شد و دوم این‌که این ذخایر متناسب با نیازهای ما با هر تعریفی که از این نیازها داشته باشیم، مورد استفاده قرار خواهد گرفت.»
-‏
-‏https://iranintl.com/202611207634
-02:22
-1405/08/30
-
-
-
-
 src :@GeoPWatch
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — Russia is testing a new small-sized cruise missile, designated the Geran-6, which is expected to reach speeds of up to 1,000 km/h, according to Fedir Venislavskyi, a member of the Ukrainian Parliament's Committee on National Security, Defence and Intelligence.
@@ -1353,16 +1341,6 @@ src :@Alibk3
 src :@OSINTWarfare
 ‏⬜️ — I expect that Morocco will test Polisario with false alarms and other "operational" movements to collect signals intelligence on their networks, simply by generating panic.
 02:06
-1405/08/30
-
-
-
-
-src :@BellumActaNews
-‏❗️/🇲🇦 — Reports of military helicopter activity somewhere in southern Morocco, also reports of (small) explosions in W. Sahara
-‏
-‏🚨 t.me/sigintt
-02:01
 1405/08/30
 
 
@@ -6171,12 +6149,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
 09:03
-1405/08/29
-
-
-
-
-src :@guard_warriors
-‏✪ کمیته بودجه سنا حدود 1.84 میلیارد دلار از اعتبارات ساخت نبرد ناو BBG(X) ناو کلاس ترامپ در بودجه دفاعی 2027 را حذف کرد. این قرارداد شامل 1 میلیارد دلار خرید اولیه و 836.9 میلیون دلار تحقیق و توسعه میشد. هنوز تصمیم نهایی نشده و این به معنای لغو کامل پروژه…
-09:00
 1405/08/29
