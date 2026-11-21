@@ -1,3 +1,43 @@
+src :@P_raetorio
+[عکس]
+‏روابط عمومی سپاه با انتشار بیانیه ای می گوید دو دستگاه رادار سامانه پدافندی پاتریوت ارتش امریکا را در بحرین هدف قرار داده است 
+‏
+‏@Minas_Tirith2024
+01:00
+1405/09/01
+
+
+
+
+src :@tabzlive
+‏🇸🇦⚡️ — Alerts in Makkah Province, western KSA have been lifted after 9 minutes.
+01:00
+1405/09/01
+
+
+
+
+src :@tabzlive
+[عکس]
+‏🇾🇪🇰🇵🇮🇷🇷🇺⚡️ — A senior Saudi official told The Atlantic that North Korean military advisers are operating in Yemen alongside IRGC and Hezbollah personnel, assisting the Houthis (Ansarallah) with missile technology.
+‏
+‏The official also said Russia had delivered a large shipment of weapons and military technology concealed beneath thousands of tons of wheat.
+01:00
+1405/09/01
+
+
+
+
+src :@naya_foriraq
+‏🇸🇦🇾🇪السعودية تعلن عن تعرض المنطقة الغربية إلى هجوم صاروخي يمني.
+‏
+‏https://t.me/naya_foriraq
+00:58
+1405/09/01
+
+
+
+
 src :@tabzlive
 ‏🇮🇷❌🇺🇸🇧🇭 — Alerts in Bahrain.
 00:55
@@ -1457,14 +1497,6 @@ src :@rnintel
 
 
 
-src :@tabzlive
-‏🇧🇭⚡️ — Alerts in Bahrain have been lifted after 2 hours and 8 minutes.
-23:48
-1405/08/30
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷/🇧🇭 NEW: The IRGC Aerospace Force announces it targeted two U.S. radars belonging to the ‘Patriot’ AD system located in Rifaa and Awali air bases, Bahrain, with ballistic missiles and drones  The IRGC says the operation, codenamed ‘Ya Umm Al-Baneen’…
 23:48
@@ -1548,18 +1580,6 @@ src :@IranintlTV
 ‏دفتر رسانه‌ای شاهزاده رضا پهلوی در این پیام خواستار استفاده از همه ظرفیت‌های موجود برای نجات جان این دو زندانی شد.
 ‏در این پیام آمده است: «سکوت نکنیم و از همه ظرفیت‌های موجود برای نجات جان آن‌ها بهره بگیریم. صدای بچه‌های اکباتان باشیم.»
 ‏https://iranintl.com/202611218418
-23:46
-1405/08/30
-
-
-
-
-src :@tabzlive
-‏🇮🇷❌🇺🇸🇧🇭 — Iran's IRGC announces the IRGC Aerospace Force conducted a missile and UAV attack targeting MIM-104 Patriot radars reportedly belonging to the U.S. Army at the Royal Bahraini Air Force's Riffa and Sakhir air bases.
-‏
-‏This attack comes in response to MQ-9A and MQ-1C UCAVs violating Iranian airspace and U.S. support for shipping violating Iranian rules in the Strait of Hormuz. Iran's IRGC also announced any violation of its airspace will be met with a response.
-‏
-‏Notably, no attack was conducted against Iranian territory earlier today, meaning the IRGC has expanded its rules of engagement against U.S. forces.
 23:46
 1405/08/30
 
@@ -2287,14 +2307,6 @@ src :@selena_updates
 ‏The apparent intrusion marks the second major FBI cybersecurity breach in recent months, following a September attack by the ShinyHunters hacking group on the bureau's recruitment website that compromised employee information. 
 ‏
 ‏The FBI has declined to comment, while the identity of the attackers, the extent of unauthorized access and whether sensitive criminal justice data was stolen or altered remain unknown.
-22:50
-1405/08/30
-
-
-
-
-src :@naya_foriraq
-‏🇧🇭تجمهر الناس حول الموقع المستهدف وسط رقابة امنية شديدة حول الموقع المستهدف.  https://t.me/naya_foriraq
 22:50
 1405/08/30
 
@@ -5243,15 +5255,6 @@ src :@Americana_ir
 
 
 
-src :@P_raetorio
-[عکس]
-‏ارتش اسرائیل در بیانیه‌ای اعلام کرد بامداد امروز یه محموله مهمات برای حزب‌الله که از مرز سوریه وارد لبنان می‌شد را شناسایی و هدف قرار داد.پیشتر رسانه‌های لبنانی از صدای انفجار در مرز لبنان و سوریه خبر داده بودند.  @P_raetorio
-14:46
-1405/08/30
-
-
-
-
 src :@defence_news
 [عکس]
 ‏سپاه پاسداران اعلام کرد که با آتش دقیق و مؤثر سامانه نوین و پیشرفته پدافند هوایی سپاه، نوزدهمین فروند پهپاد MQ-1 در آسمان جزیره سیریک شدند. رهگیری و منهدم شد.
@@ -5463,18 +5466,6 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian | #Admiral
 13:56
-1405/08/30
-
-
-
-
-src :@DEJradio
-[عکس]
-‏🚨📷 منابع محلی گزارش دادند شنبه ۳۰ آبان ۱۴۰۵، یک فروند پهپاد ناشناس [احتمالا از نوع هرمس] بر فراز ماهشهر در استان خوزستان پرواز کرد.
-‏
-‏#ماهشهر
-‏@DEJradio
-13:46
 1405/08/30
 
 
