@@ -1,3 +1,11 @@
+src :@Exciton_missile_program
+‏حوالی ساعت ۱۲ دیشب یک مورد فرود اضطراری جنگنده F-16 امریکایی در خاک امارات ثبت شده بود اما ویدئو مربوط به شلیک موشک پدافندی (صیاد؟) ارتش در روز انجام می شود؛ البته ممکن است ویدئو آرشیوی استفاده شده و شلیک اصلی به دلایل امنیتی پخش نشده باشد.  اما به هر ترتیب…
+17:53
+1405/08/30
+
+
+
+
 src :@thewarreporter
 ‏🇺🇸🇬🇧🇮🇷 — British officials fear U.S. President Trump could launch another major round of strikes against Iran, potentially threatening the UK's economy and national security over the coming year.
 ‏
@@ -1802,21 +1810,6 @@ src :@tabzlive
 
 
 
-src :@tabzlive
-[عکس]
-‏🇬🇧🇺🇸🇮🇷⚡️ — British Prime Minister Andy Burnham's government is increasingly concerned that President Trump could launch another major military offensive against Iran, potentially threatening the UK's economy and national security over the coming year, according to Bloomberg, citing officials familiar with the discussions.
-‏
-‏British officials believe a negotiated settlement remains unlikely and that Iran retains sufficient military capabilities to retaliate against renewed U.S. attacks.
-‏
-‏London and its Gulf allies have privately urged Washington to avoid further strikes, while British ministers face difficult decisions over potential American requests to use UK military bases.
-‏
-‏British officials initially hoped Republican losses in the U.S. midterm elections would moderate Trump's policy against Iran.
-15:07
-1405/08/30
-
-
-
-
 src :@wfwitness
 [عکس]
 ‏⚡️🇱🇧 Former Lebanese Prime Minister Saad Hariri calls for Israeli withdrawal and exclusive state control over weapons ahead of Lebanon’s 83rd Independence Day:
@@ -2523,14 +2516,6 @@ src :@jangaavaran1390
 ‏بر اساس بندی از ماده 3 قطعنامه 3314 مجمع عمومی سازمان ملل متحد، محاصره بنادر یا سواحل یک دولت توسط نیروهای مسلح دولت دیگر صراحتاً یکی از مصادیق تجاوز نظامی تعریف شده است. 
 ‏
 ‏پیوند
-13:54
-1405/08/30
-
-
-
-
-src :@Exciton_missile_program
-‏یکی از دوستان از من پرسید ج.ا بخواد سرجنگی اتمی را به جای خرمشهر در فتاح یا خیبرشکن قرار دهد میتواند؟ با فناوری  2 دهه پیش ج.ا در نظر بگیریم که با یک محاسبه سرانگشتی سرجنگی اتمی بهینه ای نبود. به جهت قطر کم مخروط RV (برخلاف قطر 1.3-1.5m  شهاب 3 و خرمشهر) مرکز…
 13:54
 1405/08/30
 
@@ -5888,30 +5873,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 17:59
-1405/08/29
-
-
-
-
-src :@mwarmonitor
-‏🔴اسرائیل سامانه پدافند هوایی «فلاخن داوود» (David’s Sling) را ارتقا داده است تا بتواند طیف گسترده‌تری از موشک‌های بالستیک ایران را با هزینه کمتری رهگیری کند.
-‏
-‏🔴 به گزارش بلومبرگ، هدف از این ارتقا، افزایش توانایی اسرائیل برای مقابله با حملات مستمر و چند هفته‌ای است.
-‏
-‏🔴هزینه هر موشک رهگیر«استونر» (Stunner) حدود یک میلیون دلار است؛ در حالی که هزینه رهگیرهای Arrow 3 حدود ۳ میلیون دلار و موشک‌های پدافندی آمریکایی پاتریوت PAC-3 بیش از ۴ میلیون دلار برآورد می‌شود.
-‏
-‏🔴این اقدام در شرایطی انجام می‌شود که طبق گزارش‌ها، ایران همچنان دست‌کم ۱۷۰۰ موشک بالستیک در اختیار دارد و ماهانه حدود ۵۰ موشک جدید تولید می‌کند.
-‏
-‏@mwarmonitor
-17:55
-1405/08/29
-
-
-
-
-src :@mwarmonitor
-‏🔴به گزارش شبکه CBS و به نقل از منابع آگاه، اسرائیل و ایالات متحده در حال بررسی احتمال آغاز دور جدیدی از حملات نظامی علیه ایران در کوتاه‌مدت هستند.
-‏
-‏@mwarmonitor
-17:54
 1405/08/29
