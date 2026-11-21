@@ -1,6 +1,30 @@
+src :@Navy_Iranian
+[عکس]
+‏نفتکش ایرانی "خط شکن" در حال عبور از تنگه هرمز 
+‏
+‏ساعاتی پیش یک نفتکش ایرانی با نام خط شکن AIS خود را روشن کرده و در حال عبور از تنگه هرمز است. با توجه با سطح آبخور اعلام شده در اطلاعات AIS ، تانکر مذکور در حال حمل محموله نفت خام است. اگر اطلاعات درست باشد، این نفتکش تا ۲۴ ساعت آینده به خط محاصره آمریکا میرسد و خودش  میماند و نیروی دریایی آمریکا.
+‏
+‏@Navy_Iranian | #Z_S
+03:09
+1405/09/01
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏یک نفتکش ایرانی به نام «خط‌شکن» در حال حاضر از تنگه هرمز عبور می‌کند و به سمت دریای عمان در حرکت است.
+‏
+‏🆔@WAR_ROOM_NEWS
+03:09
+1405/09/01
+
+
+
+
 src :@wfwitness
 [عکس]
-‏⚡️🇮🇷🇺🇸🇴🇲 The Iranian VLCC Khat Shekan (Line Breaker) is currently sailing to exit the Strait of Hormuz.
+‏⚡️🇮🇷🇺🇸🇴🇲 The Iranian VLCC tanker Khat Shekan (Line Breaker) is currently sailing to exit the Strait of Hormuz.
 ‏
 ‏It is most likely attempting to break the US blockade, but has not yet reached the blockade line. 
 ‏
@@ -2396,16 +2420,6 @@ src :@didarnews1
 
 
 
-src :@WAR_ROOM_NEWS
-‏وزارت کشور بحرین اعلام کرد یک تأسیسات صنعتی غیرنظامی در این کشور در حمله‌ای که آن را تجاوز ایران توصیف کرده، هدف قرار گرفته و در پی آن آتش‌سوزی گسترده‌ای در محل رخ داده و خسارات مادی قابل‌توجهی به بار آمده است. نیروهای دفاع مدنی برای مهار آتش‌سوزی در حال فعالیت هستند و تاکنون گزارشی از مجروح شدن افراد منتشر نشده است.
-‏
-‏🆔@WAR_ROOM_NEWS
-23:00
-1405/08/30
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2734,14 +2748,6 @@ src :@RASTAKHIZ_PERSIAN
 ‏
 ‏@RASTAKHIZ_PERSIAN
 22:44
-1405/08/30
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏گزارش از صدای انفجار در سیریک
-22:43
 1405/08/30
 
 
