@@ -1,3 +1,42 @@
+src :@rnintel
+[عکس]
+‏🇫🇮🇷🇺⚡- Russian tanker SPARTA II was struck by two unidentified drones in international waters in the Gulf of Finland.
+‏
+‏The vessel remains on fire and has drifted into Finnish territorial waters, with the Finnish Coast Guard en route to the ship.
+15:56
+1405/08/30
+
+
+
+
+src :@KayhanLondonChannel
+[عکس]
+‏‌‌‌‏ ‌‌‌‌‌‌‌‌‏ ‌‏ ‏
+‏⁠منابع سپاه:
+‏اصابت «پرتابه ناشناس» به یک نفتکش نزدیک عمان
+‏ 
+‏سازمان عملیات تجارت دریایی انگلیس شنبه ۳۰ آبان ۱۴۰۵ از وقوع یک حادثه دریایی دیگر نزدیک عمان خبر داد. یک نفتکش حوالی بندر «خصب» مورد اصابت قرار گرفت.
+‏ 
+‏این سازمان تاکید کرد که یک «پرتابه ناشناس» به یک نفتکش در این منطقه اصابت کرده است.
+‏ 
+‏منابع سپاه اشاره‌ای به هدفگیری این نفتکش از سوی نیروهای مسلح جمهوری اسلامی نکرده‌اند اما نوشته‌اند: «جمهوری اسلامی ایران بارها نسبت به تخلفات کشتی‌ها و نفتکش‌ها در استفاده از مسیرهای غیرقانونی در تنگه هرمز هشدار داده است.»
+15:55
+1405/08/30
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇷🇺 — The U.S.-sanctioned Russian cargo vessel Sparta II has caught fire in the Gulf of Finland after being struck by two drones while en route from St. Petersburg to Kaliningrad.
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+15:53
+1405/08/30
+
+
+
+
 src :@MilitarryWorld
 ‏🔴علی مطهری: مردم ما چهار دهه است در سختی هستند و به سختی عادت دارند؛ اما غربی‌ها به سختی عادت ندارند
 ‏
@@ -15,6 +54,8 @@ src :@wfwitness
 ‏⚡️🇨🇳 South China Morning: New military hardware has been spotted ahead of China’s Zhuhai Airshow, including a compact unmanned combat vehicle equipped with Hongjian anti-tank missiles, a second unmanned ground vehicle, and a new anti-drone tactical vehicle.
 ‏
 ‏Other equipment reportedly includes an upgraded VT-4B main battle tank fitted with a 30mm anti-drone cannon, missile interceptors and electronic counter-drone systems. 
+‏
+‏It should be noted that the VT-4B MBT is an export-oriented model developed for international customers, not the PLA. 
 ‏
 ‏@wfwitness
 15:50
@@ -2881,27 +2922,6 @@ src :@rnintel
 
 
 
-src :@Indypersian
-[عکس]
-‏⭕️زلزله‌ای به بزرگی ۶.۷ پرو را لرزاند
-‏
-‏♦️زمین‌لرزه‌ای به بزرگی ۶.۷ ، شامگاه جمعه ۲۹ آبان، بخش‌هایی از مرکز پرو را لرزاند. این زمین‌لرزه در ساعت ۱۹:۰۹ به وقت محلی، در عمق ۱۲۹ کیلومتری زمین و در فاصله حدود ۳۰ کیلومتری شمال‌غرب شهر جونین رخ داد.
-‏
-‏شدت لرزش‌ها در مناطق مختلف این کشور، از جمله پایتخت، لیما، محسوس بود و تعدادی از شهروندان با ترک خانه‌ها و ساختمان‌های خود به خیابان‌ها پناه بردند. زمین‌لرزه همچنین در مناطق دیگری از جمله آناسک، ایکا، اوکایالی، پاسکو، اوانکو و کالائو احساس شد.
-‏
-‏بر اساس آخرین گزارش‌های منتشرشده از سوی مقام‌های پرو، دست‌کم یک زن در مرکز تاریخی لیما بر اثر برخورد قطعه‌ای از سیمان جداشده از یک ساختمان به سرش زخمی شده است. همچنین ۳۹ واحد مسکونی در مناطق مختلف آسیب دیده‌اند.
-‏
-‏وزیر دفاع پرو اعلام کرده است که با وجود خسارات واردشده به برخی زیرساخت‌ها، تاکنون گزارشی از تلفات جانی یا جراحات شدید دریافت نشده است.
-‏
-‏پرو در منطقه موسوم به کمربند آتش اقیانوس آرام قرار دارد، منطقه‌ای که به دلیل فعالیت گسترده صفحات زمین‌ساختی، یکی از فعال‌ترین مناطق لرزه‌خیز جهان به شمار می‌رود.
-‏
-‏@indypersian
-09:44
-1405/08/30
-
-
-
-
 src :@jangaavaran1390
 ‏زلنسکی شب گذشته در مصاحبه‌ای با شبکه CNN در مورد اینکه ترامپ پوتین را "دوست" خوانده بود، سوال شد و پاسخ داد: "این تصمیم اوست که به او چه بگوید، اما از نظر ما، او یک قاتل است."
 09:38
@@ -4942,14 +4962,6 @@ src :@bricsnews
 
 
 
-src :@rnintel
-‏🇺🇸🇨🇳⚡️- New US restrictions on advanced AI chips are putting further pressure on China's technology industry, with Washington now targeting Chinese access to American computing power through overseas data centers. Alibaba expects its cloud growth to slow next year, while Tencent acknowledged that the restrictions will delay development of its next generation AI model. Chinese AI firms are increasingly turning to domestic chips, but manufacturing capacity remains a major constraint.
-20:33
-1405/08/29
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇺🇸 🇮🇷 — Locals report U.S. airstrikes on air defense installations on Qeshm Island, Hormozgan Province, southern Iran.
@@ -5185,24 +5197,6 @@ src :@tglobaleye
 ‏
 ‏Subscribe Visegrád24
 19:46
-1405/08/29
-
-
-
-
-src :@defence_news
-[عکس]
-‏نمونه ای از فریب دهنده تانک شرمن در مدل M4A1. اگر در کانال عبارت فریب دهنده نظامی یا ماکت را جستجو کنید مطالب زیادی در این خصوص وجود دارد. استفاده از ماکت برای فریب دشمن یک ابتکار محسوب میشود که امروزه در ترکیب با فناوری قرار گرفته و از این جهت همچنان اثر خودش را حفظ کرده است. در آموخته این مسئله آن است که یک ابتکار در ترکیب با فناوری میتواند به اثر بخشی قابل توجهی برسد.
-‏
-‏ماکت های نظامی امروزی اصطلاحا هدف‌های فریبنده چندطیفی یا Multispectral Decoys هستند به این معنی که علاوه بر درصد بالای شبیه سازی بصری (ایجاد شکل سه بعدی و ساختار دقیق از سلاح و ادوات) دارای امضای انتشار هم هستند که منظور امضای حرارتی، راداری و به طور کلی الکترومغناطیسی است.
-‏
-‏در ماکت های امروزی حتی مسئله تطابق با رادارهای سار (SAR) نیز لحاظ میشود و ماکت ها به گونه ای شکل دهی میشوند که در تصاویر SAR با جزئیات هندسی واقعی دیده شوند. تولید گرما چه به صورت نقطه ای و چه به توزیع شده واقع گرایانه یکی دیگر از ویژگی های ماکت های نظامی امروزی است.
-‏
-‏#فریب_دهنده
-‏#ماکت
-‏
-‏@SNTankograd
-19:45
 1405/08/29
 
 
