@@ -1,3 +1,29 @@
+src :@wfwitness
+[عکس]
+‏⚡️🇵🇪 A magnitude 6.7 earthquake has struck Peru, according to an alert from Google's Android Earthquake Alerts system.
+‏
+‏The alert lists Brazil and Ecuador as other affected countries.
+‏
+‏@wfwitness
+03:58
+1405/08/30
+
+
+
+
+src :@GeoPWatch
+[عکس]
+‏⚡️🇵🇪 – A magnitude 6.8 earthquake was detected in Central Peru, not far from the capital city, Lima.
+‏
+‏Due to Peru being a mostly mountainous country, an earthquake of such magnitude is expected to cause little to no damage.
+‏
+‏@GeoPWatch
+03:57
+1405/08/30
+
+
+
+
 src :@bricsnews
 ‏JUST IN: 🇺🇸🇨🇦 US War Secretary Pete Hegseth imposes restrictions on military cooperation with Canada.
 ‏
@@ -4695,19 +4721,6 @@ src :@Exciton_missile_program
 
 
 
-src :@GeoPWatch
-[ویدئو]
-‏🇾🇪❌🇸🇦 – Some regional outlets report the sound of at least one explosion heard in Jazan, Saudi Arabia, amid a possible Houthi attack.
-‏
-‏The sound could be related to either an interception or a succesful strike.
-‏
-‏@GeoPWatch
-17:43
-1405/08/29
-
-
-
-
 src :@guard_warriors
 [عکس]
 ‏✪ ولادیسلاو کوسینیاک کامیش، رئیس وزارت دفاع این کشور گفت: دو موشک روسی و یک هواپیمای بدون سرنشین جت کامیکازه در خاک لهستان سقوط کردند.
@@ -6436,13 +6449,4 @@ src :@rnintel
 [عکس]
 ‏🇨🇳🇻🇳⚡- For the first time in 5 years, China deploys two H-6 bombers to the disputed Woody Island, Paracel Islands, South China Sea.  Coordinates: 16.8332034, 112.3423572.
 04:04
-1405/08/29
-
-
-
-
-src :@rnintel
-[عکس]
-‏🇺🇸⚡️- White House national cyber director Sean Cairncross is stepping down, according to Axios.   The report says Cairncross didn't want to serve two more years in the position, and chose to give it up to allow a replacement to get Senate confirmation before…
-03:56
 1405/08/29
