@@ -1,3 +1,13 @@
+src :@MilitarryWorld
+‏🔴سپاه: دقایقی قبل نوزدهمین پهپاد پیشرفتهٔ MQ-1 ارتش آمریکا در آسمان جزیرهٔ قشم منهدم شد
+‏
+‏@MilitarryWorld | Parsa
+13:49
+1405/08/30
+
+
+
+
 src :@GeoPWatch
 ‏#EXCLUSIVE 🇮🇷❌🇺🇸- Source to GeoPWatch team reports that a USAF MQ-9A Reaper drone was shot down minutes ago near Iran’s Qeshm Island by an Iranian Type-359 SHORAD system.
 13:47
@@ -7,9 +17,11 @@ src :@GeoPWatch
 
 
 src :@WAR_ROOM_NEWS
-‏سپاه اعلام کرد که دقایقی پیش، یک پهپاد  MQ-1  آمریکایی را در آسمان جزیره قشم سرنگون کرده است
+‏سپاه اعلام کرد که دقایقی پیش، یک پهپاد MQ-1 آمریکایی را در آسمان جزیره قشم سرنگون کرده است
 ‏
 ‏بدون سند مدرک!؟
+‏
+‏🆔@WAR_ROOM_NEWS
 13:46
 1405/08/30
 
@@ -1717,19 +1729,6 @@ src :@mohem_mat
 
 
 
-src :@ClashReport
-[عکس]
-‏Netanyahu’s Likud demands that Gadi Eisenkot’s bloc agree to keep Netanyahu as prime minister for four years, include far-right parties in a unity government, and support another offensive against Iran.
-‏
-‏Other reported conditions include opposing Palestinian statehood and retaining the judicial overhaul.
-‏
-‏Source: N12
-10:21
-1405/08/30
-
-
-
-
 src :@MilitarryWorld
 ‏🔴پزشکیان: عده‌ای قلدر زورگو قصد داشتند کشورمان را ساقط کنند اما مردم و نیروهای نظامی نگذاشتند
 ‏
@@ -3115,18 +3114,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 01:15
-1405/08/30
-
-
-
-
-src :@MilitarryWorld
-‏🔴وزیر خزانه داری آمریکا:
-‏
-‏ذخایر نفتی ایران در دریا به پایان رسیده و ممکن است هرگز درآمد حاصل از نفتی را که پیش‌تر فروخته است، دریافت نکند.
-‏
-‏@MilitarryWorld | Parsa
-01:12
 1405/08/30
 
 
@@ -5889,19 +5876,4 @@ src :@thewarreporter
 ‏
 ‏— Bloomberg | @TheWarReporter
 14:09
-1405/08/29
-
-
-
-
-src :@selena_updates
-[عکس]
-‏AI giant Anthropic, developer of the Claude chatbot, made history Thursday with the largest initial public offering ever, raising $81.3 billion and surpassing the $75 billion record set by Elon Musk’s SpaceX in June. 
-‏
-‏Shares debuted on Nasdaq under the ticker ANT, opening at $111.50 and briefly pushing the company's valuation to $2 trillion, before closing at $97.17, giving it a valuation of approximately $1.77 trillion. 
-‏
-‏The blockbuster listing is estimated to have created around 2,800 paper millionaires among current and former employees, with hundreds potentially holding equity worth more than $100 million. 
-‏
-‏The historic debut comes despite mounting concerns over an AI investment bubble and soaring infrastructure costs.
-13:50
 1405/08/29
