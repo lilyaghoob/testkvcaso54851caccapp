@@ -1,3 +1,40 @@
+src :@ClashReport
+[عکس]
+‏British officials fear Trump could launch fresh major strikes on Iran, threatening the UK’s economy and security over the next year. 
+‏
+‏Prime Minister Andy Burnham’s government assesses that a negotiated settlement is unlikely and that Tehran retains sufficient military capabilities to retaliate against further attacks. 
+‏
+‏Britain and Gulf allies have privately urged Washington to avoid renewed strikes, while ministers face difficult decisions over potential U.S. requests to use British bases. 
+‏
+‏Source: Bloomberg
+12:20
+1405/08/30
+
+
+
+
+src :@IranintlTV
+[عکس]
+‏اسماعیل کوثری، عضو کمیسیون امنیت ملی مجلس، شنبه ۳۰ آبان به خبرگزاری خانه ملت گفت: «اگر جمهوری اسلامی به این جمع‌بندی برسد که باید در ابعاد و موضوعات مختلف، فعالیت‌های هسته‌ای خود را پیش ببرد، برای انجام این کار از کسی اجازه نخواهد گرفت.»
+‏
+‏این نماینده مجلس اضافه کرد: «زمانی که رییس آژانس و بازرسان آن، در موارد متعددی در مسیر جاسوسی برای اسرائیل و آمریکا حرکت می‌کنند، طبیعی است که جمهوری اسلامی نیز تصمیمات خود را بر اساس منافع و مصالح کشور اتخاذ کند.»
+‏https://iranintl.com/202611214389
+12:18
+1405/08/30
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏با این تفاسیر جمهوری اسلامی طی امروز این دومین کشتی است که مورد حمله قرار داده است
+‏
+‏🆔@WAR_ROOM_NEWS
+12:17
+1405/08/30
+
+
+
+
 src :@MilitarryWorld
 ‏🔴پزشکیان:
 ‏
@@ -5,6 +42,19 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 12:17
+1405/08/30
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏فوری
+‏
+‏🔴یک تانکر دیگر که در حال خروج از تنگه هرمز بود، مورد اصابت یک پرتابه ناشناس قرار گرفت. این حادثه حدود ۱۷ مایل دریایی (تقریباً ۳۱ کیلومتر) در شرق شهر خصب، عمان، رخ داد
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+12:16
 1405/08/30
 
 
@@ -1760,19 +1810,6 @@ src :@GeoPWatch
 
 
 
-src :@ClashReport
-[عکس]
-‏NEW: The FBI is investigating an apparent hack of its National Crime Information Center (NCIC), a critical database used by law enforcement nationwide to access warrants, background checks and criminal records.
-‏
-‏The breach is the FBI’s second in recent months, following a September cyberattack targeting sensitive employee data.
-‏
-‏Source: CNN
-07:05
-1405/08/30
-
-
-
-
 src :@OSINTWarfare
 ‏Apparently, the United States is updating everything simultaneously xD
 ‏
@@ -2735,19 +2772,6 @@ src :@warmonitors
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏در طول ۲۴ ساعت گذشته، ۶۶ هواپیمای نظامی در منطقه شناسایی شدند؛ از جمله ۶ هواپیمای ترابری که از خارج وارد شده‌اند 
-‏این هواپیماها شامل دو فروند آمریکایی، دو فروند هندی، یک فروند روسی و یک فروند ناشناس هستند. 
-‏علاوه بر این، ۵ هواپیمای ترابری نظامی منطقه‌ای، ۲۷ هواپیمای سوخت‌رسان، ۴ هواپیمای شناسایی و جنگنده، ۲۲ هواپیمای ترابری نظامی که در داخل منطقه فعالیت داشتند، و یک هلیکوپتر نظامی نیز شناسایی شدند.
-‏
-‏🆔@WAR_ROOM_NEWS
-00:48
-1405/08/30
-
-
-
-
 src :@thewarreporter
 [عکس]
 ‏🇺🇸🇦🇪 — A U.S. F-16C fighter jet squawked 7700, indicating a general emergency, before rapidly departing the Strait of Hormuz and attempting an emergency landing at Al Dhafra Air Base in the UAE.
@@ -2860,17 +2884,6 @@ src :@defence_news
 src :@rnintel
 ‏🇺🇸⚡️- Anthropic stock has fallen nearly 10% today, the day after IPO.
 00:36
-1405/08/30
-
-
-
-
-src :@WAR_ROOM_NEWS
-[عکس]
-‏🔴چندین نفتکش ایرانی حرکت خود را به سمت خلیج عمان آغاز کرده‌اند
-‏
-‏🆔@WAR_ROOM_NEWS
-00:35
 1405/08/30
 
 
@@ -5426,19 +5439,6 @@ src :@P_raetorio
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏«احمد علم‌الهدی» نماینده رهبر جمهوری‌اسلامی در خراسان رضوی و امام جمعه مشهد، مدعی شد که حجاب نخستین مطالبه مردم، و مشکلات معیشتی دومین اولویت آن‌ها است. او این ادعا را بر اساس گفت‌وگوهای خود با شرکت‌کنندگان در تجمعات شبانه حامیان حکومت مطرح کرد؛ اجتماعاتی که پیش‌تر خود او آن‌ها را نماد حمایت از جمهوری‌اسلامی و مقابله با اسراییل خوانده بود.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160521
-‏
-‏@Farsi_Iranwire
-17:00
-1405/08/29
-
-
-
-
 src :@Artemis_Force
 [عکس]
 ‏شرکت Hanwha Defense USA، بخش آمریکایی شرکت Hanwha Aerospace، در تاریخ ۱۷ نوامبر از موفقیت‌آمیز بودن آزمایش پرتاب موشک‌های دوربرد از یک سکوی پرتاب نصب‌شده بر روی یک شناور غیر رزمی خبر داد.
@@ -6206,30 +6206,4 @@ src :@Navy_Iranian
 ‏
 ‏⚓️@Navy_Iranian|#zumwalt
 12:30
-1405/08/29
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#NEWS | 🇺🇸 — Trump named Pentagon CIO Kirsten Davies as national cyber director, replacing Sean Cairncross. 
-‏
-‏White House Chief of Staff Stephen Miller reportedly pushed for Cairncross' removal over cybersecurity credential concerns. Davies, formerly of Unilever, Barclays, and Siemens, requires Senate confirmation. Source: Axios
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-12:21
-1405/08/29
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇺🇸🇮🇱🇮🇷 — Israeli ambassador to the US Yechiel Leiter sparked backlash after saying in a Newsmax interview that 'U.S. troops would return to their families once Iran is defeated'.
-‏
-‏Iranian Foreign Minister Abbas Araqhchi responded sarcastically, 'We did not know that the Israeli ambassador to Washington was the Commander-in-Chief of the U.S. military'. 
-‏
-‏@TheWarReporter
-12:19
 1405/08/29
