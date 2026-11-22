@@ -1,3 +1,26 @@
+src :@defence_news
+[عکس]
+‏ظاهرا به جای آبهای تنگه هرمز، آسمان هرمز مین گذاری شده است   @Minas_Tirith2024
+16:54
+1405/09/01
+
+
+
+
+src :@intelslava
+‏🇮🇷⚡ The head of Iran's space research organization, Hassan Salari, stated:
+‏
+‏Work is underway to create satellites with a resolution of up to one meter, and they will be presented in the near future.
+‏
+‏He also noted that the creation of industrial radar reconnaissance satellites in Iran for imaging in adverse weather conditions has become possible.
+‏
+‏@IntelSlava
+16:51
+1405/09/01
+
+
+
+
 src :@mohem_mat
 ‏روزنامه وال‌استریت ژورنال به نقل از منابع آگاه گزارش داد دونالد ترامپ در اوایل سال ۲۰۲۶، پس از اعتراف هاوارد لوتنیک، وزیر بازرگانی آمریکا، به سفر به جزیره خصوصی جفری اپستین، تا آستانه برکناری او پیش رفت.
 ‏
@@ -3631,19 +3654,6 @@ src :@tabzlive
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇸🇦🇪🇮🇷⚡️ — A U.S. Air Force (USAF) F-35A Lightning II multirole fighter squawked the international emergency transponder code 7700 while flying over the Strait of Hormuz, indicating an in-flight emergency.
-‏
-‏The aircraft landed at Al Dhafra Air Base in the UAE.
-‏
-‏@IntelSlava
-01:25
-1405/09/01
-
-
-
-
 src :@GeoPWatch
 ‏🇮🇷❌🇺🇸🇧🇭 - Bahrains Minister of Interior have stated that a Civilian Industrial Facility was hit by an Iranian attack, leading to a fire.  @GeoPWatch
 01:24
@@ -5548,14 +5558,4 @@ src :@Artemis_Force
 ‏
 ‏@P_raetorio
 17:04
-1405/08/30
-
-
-
-
-src :@warmonitors
-‏⚡MEXICO CITY (AP) — Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI’s 10 most wanted fugitives, in overnight raid.
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-16:56
 1405/08/30
