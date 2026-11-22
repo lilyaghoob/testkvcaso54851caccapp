@@ -1383,19 +1383,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@Fighter_Radar
-‏شلیک موشک به سمت تنگه هرمز 
-‏
-‏
-‏📝  AmirF15
-‏
-‏👑 @Fighter_Radar
-21:39
-1405/09/01
-
-
-
-
 src :@WAR_ROOM_NEWS
 ‏گزارشات از شلیک موشک توسط سپاه به تنگه هرمز
 21:38
