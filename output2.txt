@@ -817,16 +817,6 @@ src :@IranintlTV
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی سیاست با مراد ویسی: پاکستانیزه شدن ایران
-‏@iranintlTV
-01:55
-1405/09/01
-
-
-
-
 src :@tglobaleye
 [عکس]
 ‏#BREAKING | 🇩🇿 🇲🇦 —  Algerian security forces killed two Moroccan nationals accused of drug trafficking and arrested 17 others amid regional tensions. 
