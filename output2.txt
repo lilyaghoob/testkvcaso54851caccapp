@@ -1,6 +1,47 @@
+src :@selena_updates
+[عکس]
+‏Bahrain Ministry of Interior said that as a result of yesterday’s Iranian attacks on Bahraini territory, a Bahraini citizen with disabilities was injured; his condition is stable. In addition, a Pakistani citizen was injured and is in critical condition.
+21:50
+1405/09/01
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️دونالد ترامپ، رئیس‌جمهور آمریکا، شامگاه یکشنبه اول آذر ماه، در گفت‌وگو با شبکهٔ خبری فاکس گفت اگر شناورهای ایران بخواهند از محاصرهٔ دریایی آمریکا عبور کنند، همگی مانند بقیهٔ نیروی دریایی ایران به قعر دریا فرستاده خواهند شد.
+‏به گزارش تری یینگست، خبرنگار ارشد فاکس نیوز، ترامپ این سخنان را در واکنش به گزارش‌هایی دربارهٔ برنامهٔ ایران برای شکستن محاصرهٔ دریایی آمریکا گفته است.
+‏پیشتر گزارش‌هایی تأییدنشده، از حال آماده‌سازی کاروانی از بیش از ۱۴ نفتکش برای عبور از تنگهٔ هرمز و شکستن محاصرهٔ دریایی آمریکا علیه صادرات نفت ایران در رسانه‌ها منتشر شده بود. در این گزارش‌ها آمده است این نفتکش‌ها که ظاهراً مقصدشان چین است، در نزدیکی پایانهٔ نفتی جزیرهٔ خارگ گرد آمده‌اند، نفت بارگیری کرده‌اند و پرچم ایران بر فرازشان برافراشته شده است. هنوز هیچ منبع رسمی این گزارش‌ها را تأیید نکرده است.
+‏ترامپ با تهدید تهران افزود: «امیدوارم این کار را بکنند.» او گفت اگر ایرانی‌ها بخواهند این محاصره را بیازمایند، نیروهای آمریکایی به سویشان آتش خواهند گشود.
+‏ 
+‏@indypersian
+21:50
+1405/09/01
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Russian corvette Merkury has sunk in the Libyan port of Benghazi after a strike by Ukrainian unmanned boats.
+21:49
+1405/09/01
+
+
+
+
+src :@tabzlive
+‏🇮🇷🇮🇱🇱🇧🇵🇸🇸🇾⚡️ — Channel 12 reports that the IDF's Military Intelligence Directorate warned senior Israeli officials that an IDF strike against Iran could cause escalation against Israel in Gaza, Lebanon, and Syria.
+‏
+‏This is contrary to Netanyahu's assertions and other media reports that an IDF strike against Iran would cause an isolated confrontation only lasting days.
+21:48
+1405/09/01
+
+
+
+
 src :@wfwitness
 ‏⚡🇮🇷 Unconfirmed reports of 2 missile launches from Hormozgan Province, Iran.
-‏
 ‏
 ‏@wfwitness
 21:44
@@ -11,7 +52,7 @@ src :@wfwitness
 
 src :@Alibk3
 [عکس]
-‏انفجار خط أنابيب للغاز الطبيعي في مقاطعة سامتر بولاية ألاباما الأميركية، والذي وقع في وقت لاحق من اليوم.
+‏انفجار خط أنابيب للغاز الطبيعي في مقاطعة سامتر بولاية ألاباما الأميركية، والذي وقع في وقت سابق من اليوم.
 21:44
 1405/09/01
 
@@ -1098,15 +1139,6 @@ src :@wfwitness
 src :@rnintel
 ‏🇱🇾🇷🇺⚡- The Khalifa Haftar led Libyan National Army is currently intercepting several unidentified one-way sea surface drones that are en route to the Port of Benghazi.
 20:15
-1405/09/01
-
-
-
-
-src :@selena_updates
-[عکس]
-‏An Israeli quadcopter drone dropped an explosive device in eastern Deir al-Balah, central Gaza, killing a terrorist identified as Louay Jawad Adeeb Abu Eid, 50.
-20:14
 1405/09/01
 
 
@@ -3743,21 +3775,6 @@ src :@mamlekate
 
 
 
-src :@ClashReport
-[عکس]
-‏Senate Republicans are set to block two of Trump’s senior Pentagon nominees, Austin Dahmer and Alex Velez-Green, amid growing divisions over U.S. military policy.
-‏
-‏The administration also faces resistance to its nominees for Navy secretary and Army chief of staff, while Republicans have pushed back against its request for $350 billion in additional defense funding.
-‏
-‏With Democrats taking control of Congress in January, Trump is running out of time to secure key confirmations and advance his proposed $1.5 trillion defense budget.
-‏
-‏Source: WaPo
-14:11
-1405/09/01
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏#تاریخنگار_فضایی 
@@ -3878,25 +3895,6 @@ src :@defence_news
 ‏
 ‏@Unaatann
 13:11
-1405/09/01
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Ukraine’s rapidly expanding defense industry is struggling with funding shortages, labor constraints and Russian attacks, threatening to stall its growth. 
-‏
-‏Ukraine expects to produce more than 7 million drones this year, up from 2.2 million in 2024, but remains far behind Russia in missile production. 
-‏
-‏Its more than 1,300 defense companies compete for limited funding, while bombardment makes factory expansion difficult. 
-‏
-‏As a result, Ukrainian manufacturers are increasingly shifting production abroad and seeking foreign investment to sustain growth.
-‏
-‏Source: WSJ
-‏
-‏READ MORE
-13:10
 1405/09/01
 
 
@@ -4420,17 +4418,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 09:53
-1405/09/01
-
-
-
-
-src :@P_raetorio
-[عکس]
-‏روابط عمومی سپاه با انتشار بیانیه ای می گوید دو دستگاه رادار سامانه پدافندی پاتریوت ارتش امریکا را در بحرین هدف قرار داده است 
-‏
-‏@Minas_Tirith2024
-09:32
 1405/09/01
 
 
@@ -5299,18 +5286,6 @@ src :@samueltarikh
 
 
 
-src :@didarnews1
-‏🔴بحرین هدف قرار گرفتن تأسیسات صنعـتی در منطقه ستره را تأیید کرد
-‏
-‏#دیدار_نیوز
-‏didarnews.ir
-‏@didarnews1| @didarnewsir
-23:01
-1405/08/30
-
-
-
-
 src :@samueltarikh
 ‏⭕️تصویر منتشر شده از بحرین، هم اکنون
 23:00
@@ -5608,69 +5583,4 @@ src :@samueltarikh
 src :@samueltarikh
 ‏⭕️فوری/ آژیر های خطر در بحرین به صدا درآمدند
 21:55
-1405/08/30
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏#BREAKING | 🇮🇸 — Metrics show a loss of connectivity at free speech hosting provider 1984 in Iceland, known for hosting independent media and activists. The incident comes as the company shuts down its services amid what it describes as a "sophisticated and severe cyberattack". — NetBlocks
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-21:51
-1405/08/30
-
-
-
-
-src :@thewarreporter
-‏🇧🇭🇮🇷 — Sirens in Bahrain.  @TheWarReporter
-21:50
-1405/08/30
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇧🇭 — Bahrain Interior Ministry issues threat alert.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-21:49
-1405/08/30
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇧🇭🇮🇷 — Sirens in Bahrain.
-‏
-‏@TheWarReporter
-21:48
-1405/08/30
-
-
-
-
-src :@BellumActaNews
-[عکس]
-‏🇧🇭⚠️ — Air Raid Alarm issued for Bahrain
-‏➖➖➖➖➖➖
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
-‏➖➖➖➖➖➖
-‏@BellumActaNews
-21:48
-1405/08/30
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇮🇸 — Metrics show a loss of connectivity at free speech hosting provider 1984 in Iceland, known for hosting independent media and activists. The incident comes as the company shuts down its services amid what it describes as a "sophisticated and severe cyberattack". — NetBlocks
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-21:47
 1405/08/30
