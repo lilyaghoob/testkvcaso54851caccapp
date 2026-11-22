@@ -1,3 +1,14 @@
+src :@ClashReport
+[عکس]
+‏NEW: Germany changed its plan for sending troops to Lithuania, moving tanks to the “Grand Eagle 26” exercise by rail instead of driving through Poland, to avoid provoking Russia, Bild reports.
+‏
+‏READ MORE
+15:24
+1405/09/01
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏مقام‌های بهداشتی در نیشابور از افزایش شمار مسمو‌مان ناشی از مصرف مشروبات الکلی دست‌ساز به ۵۷ نفر خبر داده‌اند. تاکنون سه نفر جان باخته‌اند، یک نفر دچار مرگ مغزی شده و وضعیت چهار بیمار نیز به اندازه‌ای وخیم است که برای کمک به تنفس آن‌ها لوله‌گذاری داخل نای انجام شده است.
@@ -5,6 +16,19 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160587
 ‏
 ‏​​ @Farsi_Iranwire
+15:22
+1405/09/01
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇸🇾 The Lebanese Army announced that it had seized approximately 264 kg of explosives, including 203 kg of C4 and 61 kg of TNT, smuggled from Syria, during a security operation on 21 November 2026.
+‏
+‏The explosives were seized in the Al-Dawra – Al-Qaa Projects area following surveillance operations along Lebanon's northern and eastern borders. Three Lebanese citizens were arrested on suspicion of involvement in the smuggling operation.
+‏
+‏@wfwitness
 15:22
 1405/09/01
 
@@ -179,7 +203,7 @@ src :@KayhanLondonChannel
 
 src :@tglobaleye
 [عکس]
-‏#NEWS | 🇺🇸 🧩 — Sony blocks players from refunding GTA6.
+‏#NEWS | 🧩 — Sony blocks players from refunding GTA6.
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 15:15
@@ -2154,18 +2178,6 @@ src :@USAMRYDATA
 
 
 
-src :@wfwitness
-‏⚡🇮🇷🇴🇲 Unconfirmed reports of explosion sounds in the Strait of Hormuz, Iran.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-11:11
-1405/09/01
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2243,15 +2255,6 @@ src :@guard_warriors
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇵🇸 The IDF says it carried out a targeted strike on three Palestinian Islamic Jihad (PIJ) operatives in a vehicle in the Tel al-Hawa neighborhood of Gaza City earlier today, killing all three.  According to the IDF, the vehicle was used to transport food…
-11:01
-1405/09/01
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏🔶 شرکت Vector از پهپاد جدید Bombard رونمایی کرد.
@@ -2307,22 +2310,6 @@ src :@mwarmonitor
 src :@Artemis_Force
 ‏حوالی ساعت ۱۲ دیشب یک مورد فرود اضطراری جنگنده F-16 امریکایی در خاک امارات ثبت شده بود اما ویدئو مربوط به شلیک موشک پدافندی (صیاد؟) ارتش در روز انجام می شود؛ البته ممکن است ویدئو آرشیوی استفاده شده و شلیک اصلی به دلایل امنیتی پخش نشده باشد.  اما به هر ترتیب…
 10:53
-1405/09/01
-
-
-
-
-src :@wfwitness
-‏⚡️🇱🇧🇮🇱 Since midnight Israeli artillery strikes have been reported in various regions of southern Lebanon:
-‏
-‏Wadi Hujeir 
-‏Wadi Zebqine x2
-‏Kfar Tebnit x2
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-10:52
 1405/09/01
 
 
@@ -4090,15 +4077,6 @@ src :@Middle_East_Spectator
 
 
 
-src :@ClashReport
-[عکس]
-‏Iran’s IRGC says it targeted two U.S. Patriot air defense radars at military bases in Bahrain with missiles and drones.
-23:47
-1405/08/30
-
-
-
-
 src :@didarnews1
 [عکس]
 ‏🔴ادعای وزارت کشور بحرین: ایران یک تاسیسات صنعتی ما را هدف قرار داد
@@ -4346,17 +4324,6 @@ src :@samueltarikh
 
 src :@samueltarikh
 ‏طبیعی است که این جماعت بتوانند با آرامش بگویند مردم به سختی عادت کرده‌اند چون این منطق جا افتاده است. چون در جهان‌بینی آن‌ها مردم اساسا برای راحتی آفریده نشده‌اند یرای تحمل و اثبات یک حقیقت بالاتر خلق شده‌اند. این نگاه ضد انسانی است ضد منافع ملی است و در نهایت…
-22:58
-1405/08/30
-
-
-
-
-src :@ClashReport
-[عکس]
-‏NEW: The Pentagon has issued a memo restricting informal and social interactions between U.S. and Canadian military personnel, amid strained relations between the two countries.
-‏
-‏Source: NYT
 22:58
 1405/08/30
 
@@ -5679,17 +5646,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏عباس عراقچی نیز روز گذشته بارگیری نفت از جنوب کشور را تأیید کرد و گفت: «هر تلاشی برای صادرات نفت و مذاکرات را انجام می‌دهیم و باید محاصره بشکند.»
 16:14
-1405/08/30
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 — FBI hacked. Cyberattack targeted nationwide criminal database used by federal, state, and local law enforcement, per CNN.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-16:13
 1405/08/30
 
 
