@@ -1,3 +1,14 @@
+src :@GeoPWatch
+[ویدئو]
+‏🇮🇷❌🇺🇸 - Heavy Air Defense Activity is being reported from Khuzestan, Iran.
+‏
+‏@GeoPWatch
+01:13
+1405/09/02
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏⚡️ هیجان فوتبال رو با پیش‌بینی در یک پلتفرم حرفه ای جهانی چند برابر کن 
@@ -5208,15 +5219,4 @@ src :@OSINTWarfare
 ‏
 ‏@OSINTWarfare
 01:19
-1405/09/01
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏🇺🇸❌🇮🇷 - A USAF F-35A is squawking 7700 for a General Emergency over the UAE.
-‏
-‏@GeoPWatch
-01:15
 1405/09/01
