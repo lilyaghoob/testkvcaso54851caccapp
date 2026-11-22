@@ -5235,15 +5235,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@intelslava
-[عکس]
-‏🇺🇦🇫🇮🇷🇺⚡️ — Drones attacked a ship in the Gulf of Finland, en route to Kaliningrad.  The attack occurred in neutral waters of the Gulf of Finland, three nautical miles from the border of the Russian Federation.  The crew is currently being evacuated. The consequences…
-15:17
-1405/08/30
-
-
-
-
 src :@Navy_Iranian
 ‏آخرین داده ها در رابطه با کمیت زیر دریایی های هسته ای   نیرو دریایی ایالات متحده آمریکا ، ۶٩ زیر دریایی هسته ای فعال، ٣ زیر دریایی آموزشی ( ١۴ زیر دریایی حامل بالستیک اتمی و ١ زیر دریایی هسته ای حامل بالستیک اتمی آزمایشی و آموزشی )   نیرو دریایی روسیه ٣١ زیر…
 15:13
@@ -6065,22 +6056,4 @@ src :@OSINTWarfare
 src :@OSINTWarfare
 ‏🇺🇸⚡️ — Illinois state officials are investigating an apparent cyberattack targeting the Algonquin Dam on the Fox River in McHenry County.  Damn it! another stupid update.
 05:57
-1405/08/30
-
-
-
-
-src :@OSINTWarfare
-‏🇺🇸⚡️ — According to NBC News, hackers breached the U.S. Department of Agriculture earlier this week, gaining access to a system used to process payments to farmers.  @IntelSlava
-05:43
-1405/08/30
-
-
-
-
-src :@OSINTWarfare
-‏🇺🇸⚡️ — According to NBC News, hackers breached the U.S. Department of Agriculture earlier this week, gaining access to a system used to process payments to farmers.
-‏
-‏@IntelSlava
-05:42
 1405/08/30
