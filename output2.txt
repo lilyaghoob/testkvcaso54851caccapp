@@ -4484,15 +4484,6 @@ src :@rnintel
 
 
 
-src :@Alibk3
-[عکس]
-‏تجارب صاروخية للحرس الثوري في مدن إيرانية مختلفة.
-17:32
-1405/09/02
-
-
-
-
 src :@Mena_Live
 ‏Jensen Huang reinstated as CEO of nvidia.
 ‏
