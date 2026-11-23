@@ -1,3 +1,40 @@
+src :@guard_warriors
+[عکس]
+‏✪ هواپیمای شناسایی آمریکایی Bombardier Artemis II با شماره N159L، قبل از حمله به ناوچه روسی Mercury در بندر بنغازی، به مدت سه روز (از 19 تا 21 نوامبر) به طور مداوم در سواحل لیبی گشت‌زنی می‌کرد.
+‏
+‏ پس از این، هواپیما بلافاصله به منطقه کالینینگراد، جایی که دیروز تهدید پهپاد اعلام شد، و به منطقه خلیج فنلاند، جایی که دیروز کشتی لجستیکی روسی اسپارتا ۲ مورد حمله قرار گرفت، عزیمت کرد.
+‏
+‏ بمباردیه آرتمیس ۲ یک جت تجاری اصلاح‌شده چلنجر ۶۵۰ است که برای ماموریت‌های جاسوسی الکترونیکی و رادیویی (ELINT) طراحی شده است. این هواپیما ارتباطات رادیویی، سیگنال‌های راداری و سایر تشعشعات الکترومغناطیسی را در برد تا ۶۰۰ کیلومتر رهگیری می‌کند.
+‏
+‏@Guard_Warriors | Mmd
+16:04
+1405/09/02
+
+
+
+
+src :@rnintel
+‏🇫🇷⚡️- Emergency plans have been triggered in a French hospital in Guadeloupe following a cyberattack. The hospital's online and phone networks are down since yesterday morning. The hospital's staff are now forced to prioritize certain patients over others.
+16:04
+1405/09/02
+
+
+
+
+src :@wfwitness
+‏⚡️🇩🇪🇩🇰🇮🇹🇪🇸🇬🇧 Reuters⁠: More than 450 schools in Germany’s Baden-Württemberg region received bomb threats by email on Monday, as a wider wave of hoax warnings continues across Europe.
+‏
+‏Schools in several other German states and Denmark were also targeted. 
+‏
+‏Police said there was no evidence of a specific or credible threat, although investigations are ongoing.
+‏
+‏@wfwitness
+16:04
+1405/09/02
+
+
+
+
 src :@didarnews1
 ‏🔴یک منبع عراقی به «العربیه» اطلاع داد گزارش‌ها درباره بسته شدن گذرگاه مرزی شلمچه با ایران صحت ندارد.
 ‏
@@ -13,7 +50,9 @@ src :@didarnews1
 
 
 src :@naya_foriraq
-‏في تطور جديد.. عصابات الهجري الدرزية في السويداء تهاجم عصابات الجولاني الارهابية بطائرة FPV المسيرة مما ادى الى اصابة اكثر من 4 من عصابات الجولاني كحصيلة اولية
+‏🇸🇾في تطور جديد.. ميليشيات الهجري الدرزية في السويداء تهاجم عصابات الجولاني الارهابية بطائرة FPV المسيرة مما ادى الى اصابة اكثر من 4 من عصابات الجولاني كحصيلة اولية.
+‏
+‏https://t.me/naya_foriraq
 16:01
 1405/09/02
 
@@ -5313,25 +5352,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 16:26
-1405/09/01
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏فکت:
-‏
-‏#FUN
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-16:02
-1405/09/01
-
-
-
-
-src :@Artemis_Force
-‏نیروی دریایی ایالات متحده در حال بررسی تغییر نام ناو هواپیمابر آینده USS Doris Miller است که هم اکنون در حال مونتاژ خود است!  این ناو هواپیمابر هسته ای ناوی است که به افتخار ملوان سیاه‌پوستی که در جریان پرل هاربر قهرمان شد، نامگذاری شده است.   مقامات در حال…
-16:02
 1405/09/01
