@@ -1,3 +1,53 @@
+src :@bricsnews
+‏JUST IN: 🇷🇺 NATO reportedly believes Russia is preparing to launch a nuclear-armed satellite.
+‏
+‏@BRICSNews
+13:25
+1405/09/02
+
+
+
+
+src :@Shin_Persian
+[عکس]
+‏DefenceGeek 🇬🇧 ✓ @DefenceGeek
+‏
+‏MAP: US Tankers Snapshot - OMAM
+‏18/NOV/2026 - 22/NOV/2026
+‏
+‏Due to far fewer aircraft at the base compared to Al-Udeid (and flying only one per day), I've mapped the 4 most recent tracking sorties of KC-135R/T tankers at Al-Dhafra using @flightradar24 data.
+‏
+‏@MATA_osint
+‏
+‏ترجمه خودکار فارسی
+‏
+‏نقشه: نمایی لحظه‌ای از هواپیماهای سوخت‌رسان آمریکا - OMAM
+‏۱۸/نوامبر/۲۰۲۶ - ۲۲/نوامبر/۲۰۲۶
+‏
+‏با توجه به این‌که تعداد هواپیماها در این پایگاه در مقایسه با العدید بسیار کم‌تر است (و روزانه فقط یک فروند پرواز می‌کند)، با استفاده از داده‌های @flightradar24، ۴ سورتی پروازی اخیر هواپیماهای سوخت‌رسان KC-135R/T در الظفره را که امکان ردیابی آن‌ها وجود داشت، روی نقشه مشخص کرده‌ام.
+‏
+‏@MATA_osint
+‏
+‏𝕏  ·  @shin_persian
+13:24
+1405/09/02
+
+
+
+
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇷🇺 — Western intelligence believes Russia may launch a nuclear-armed satellite, Sputnik-S, by late 2026, potentially as early as December. 
+‏
+‏Germany warns a space detonation could disable satellites, disrupting GPS, communications, banking, and power. U.S. military intelligence states few countermeasures exist once the weapon is in orbit. Russia denies these claims, labeling them propaganda. Source: Tagesschau
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+13:22
+1405/09/02
+
+
+
+
 src :@didarnews1
 ‏🔴رسایی هنوز به زندان بازنگشته است
 ‏
@@ -3052,18 +3102,6 @@ src :@selena_updates
 
 
 
-src :@MilitarryWorld
-‏🔴قیمت طلا در حال حاضر در مسیر بدترین عملکرد سه ماهه خود از ژوئن ۲۰۱۳ به این سو است و از ابتدای سپتامبر تاکنون، ۲۱/۶ درصد کاهش یافته است.
-‏
-‏این کاهش، بزرگترین افت قیمت سه ماهه طلا از سال ۱۹۸۱ خواهد بود
-‏
-‏@MilitarryWorld | Parsa
-00:36
-1405/09/02
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇺🇦⚡ The Ukrainian Air Force has confirmed for the first time the presence of a Saab 340 AEW&C airborne early warning and control aircraft in service with the Ukrainian Air Force.
@@ -4310,34 +4348,6 @@ src :@tabzlive
 
 
 
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Truck drivers' strike in Masjed Soleyman. Approximately 50 trucks have joined the strike.
-‏Khuzestan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/gX7mw5gdlRmiT0D8lEvKDejm
-‏
-‏Posted at 20:51 Local time / 1721Z
-‏
-‏ترجمه خودکار فارسی
-‏
-‏اعتصاب رانندگان کامیون در مسجد سلیمان. حدود ۵۰ کامیون به اعتصاب پیوسته‌اند.
-‏استان خوزستان، ایران
-‏
-‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/gX7mw5gdlRmiT0D8lEvKDejm
-‏
-‏منتشرشده در ساعت ۲۰:۵۱ به وقت محلی / 1721Z (۲۰:۵۱ به وقت تهران)
-‏
-‏𝕏  ·  @shin_persian
-20:53
-1405/09/01
-
-
-
-
 src :@RASTAKHIZ_PERSIAN
 [عکس]
 ‏سازمان UKMTO از یک برخورد بین یک نفتکش و نیروهای نظامی در شرق دریای عمان خبر داده است که اقدام ارتش آمريکا علیه نفتکشی ایرانی را به ذهن متبادر می‌کند.
@@ -5530,19 +5540,4 @@ src :@mamlekate
 ‏
 ‏@mamlekate_pm
 13:29
-1405/09/01
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏پست جدید کانال رهبر سوم🇮🇷: شمارش معکوس برای اسرائیل🇮🇱
-‏
-‏🖊تو رستم قلندری ، بزن که خوب میزنی
-‏
-‏#FUN
-‏➖➖➖➖➖➖➖➖➖
-‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
-13:22
 1405/09/01
