@@ -1,5 +1,58 @@
 src :@defence_news
 [عکس]
+‏تصاویری از برخاستن جت‌های F/A-18 فنلاند، F-35A هلند و رافال فرانسه از بزرگراه 9 فنلاند در جریان تمرین «محافظت از حصار 26» (19 تا 27 نوامبر). این مهم‌ترین تمرین سالانه نیروی هوایی فنلاند، شامل عملیات دور از پایگاه‌های سنتی و حضور یگان‌های جنگنده از هلند، فرانسه و سوئد، به‌علاوه پرسنل بریتانیا و ایالات متحده است.
+17:32
+1405/09/03
+
+
+
+
+src :@ClashReport
+[عکس]
+‏NEW: Libya’s Haftar Visits Türkiye for First Time, Expected to Meet Erdogan
+‏
+‏Erdogan is expected to meet representatives of both administrations on the sidelines of the Tripoli summit, his first visit to Libya in 15 years.
+‏
+‏READ MORE
+17:29
+1405/09/03
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇱🇧🇮🇱 Israeli artillery bombardment targeted Rab al-Thalatheen in southern Lebanon.
+‏
+‏@wfwitness
+17:29
+1405/09/03
+
+
+
+
+src :@WAR_ROOM_NEWS
+[نظرسنجی]
+17:28
+1405/09/03
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏🔶36 کشته حماس در جنگ با ارتش اسرائیل از 7 اکتبر تا به الان.
+‏
+‏
+‏🆔@WAR_ROOM_NEWS
+17:27
+1405/09/03
+
+
+
+
+src :@defence_news
+[عکس]
 ‏تصویر ماهواره ای از نیروگاه برق شقیق در جنوب عربستان پس از حمله اخیر انصارالله به بخش انبار سوخت آن 
 ‏
 ‏@Minas_Tirith2024
@@ -22,7 +75,10 @@ src :@defence_news
 
 
 src :@naya_foriraq
+[عکس]
 ‏العثور على منصات لإطلاق المسيرات في محافظة ميسان
+‏
+‏https://t.me/naya_foriraq
 17:26
 1405/09/03
 
@@ -130,7 +186,7 @@ src :@VahidOnline
 
 
 src :@intelslava
-‏🇺🇦⚡ To survive, we need at least $115 billion in 2027, Zelensky said.
+‏🇺🇦⚡️ — To survive, we need at least $115 billion in 2027, Zelensky said.
 ‏
 ‏@IntelSlava
 17:23
@@ -582,7 +638,7 @@ src :@MilitarryWorld
 
 
 src :@intelslava
-‏⚡🇺🇦🇷🇺 Ukraine has the right to strike Russian military targets in international waters. The strikes are directed exclusively against the Russian Federation
+‏🇺🇦🇷🇺⚡️ — Ukraine has the right to strike Russian military targets in international waters. The strikes are directed exclusively against the Russian Federation
 ‏
 ‏— Foreign Ministry spokesperson Tykhyi.
 ‏
@@ -1703,27 +1759,6 @@ src :@Farsi_Iranwire
 
 
 
-src :@IranintlTV
-[عکس]
-‏🔻مائوریسیو پوچتینو، سرمربی منچستریونایتد، قصد دارد در نقل‌وانتقالات زمستانی سه بازیکن برای تقویت ترکیب تیمش جذب کند، اما گزارش‌ها حاکی از آن است که مدیران باشگاه تنها ۵۰ میلیون پوند برای خریدهای ژانویه در اختیار او قرار خواهند داد.
-‏
-‏🔹به گزارش دیلی میل، پوچتینو که تیمش در رده نوزدهم جدول لیگ برتر انگلیس قرار دارد، جذب یک مهاجم، یک مدافع چپ و یک مدافع میانی را برای فرار از سقوط ضروری می‌داند.
-‏
-‏🔹در صدر فهرست خریدهای سرمربی آرژانتینی، فولارین بالوگان، مهاجم ۲۵ ساله موناکو، قرار دارد؛ بازیکنی که پیش‌تر در تیم ملی آمریکا زیر نظر پوچتینو فعالیت کرده است.
-‏
-‏🔹منچستریونایتد در فصل جاری با مشکل گلزنی مواجه بوده و مصدومیت بنجامین ششکو، مهاجم اصلی این تیم، که تا ژانویه ادامه خواهد داشت، نیاز به جذب مهاجم جدید را افزایش داده است.
-‏
-‏🔹بالوگان که سه سال پیش از آرسنال به موناکو پیوست، در فصل جاری تنها یک گل در هشت مسابقه به ثمر رسانده است. انتقال او به اورتون نیز در آخرین روز نقل‌وانتقالات تابستانی منتفی شد.
-‏
-‏🔹جزییات بیشتر را در سایت بخوانید
-‏
-‏@iranintltvsport
-15:16
-1405/09/03
-
-
-
-
 src :@warmonitors
 [عکس]
 ‏⚡️Israeli strikes on southern Lebanon
@@ -1792,16 +1827,6 @@ src :@USAMRYDATA
 ‏➖➖➖➖➖➖➖➖➖
 ‏🗽🅤🅢.🅐🅡🅜🅨.🅓🅐🅣🅐
 15:03
-1405/09/03
-
-
-
-
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی اخبار نیمروزی | سه‌شنبه ۳ آذر
-‏@iranintlTV
-15:00
 1405/09/03
 
 
@@ -2067,17 +2092,6 @@ src :@selena_updates
 
 
 
-src :@WAR_ROOM_NEWS
-[عکس]
-‏نعیم ابونحل، فرمانده سازمان امنیتی داخلی حماس، دقایقی پیش در جریان حمله هوایی ارتش اسرائیل به یک چادر در غرب شهر غزه حذف شد 
-‏
-‏🆔@WAR_ROOM_NEWS
-14:31
-1405/09/03
-
-
-
-
 src :@jangaavaran1390
 ‏جهش ۳۷ درصدی سود صنایع هوافضای اسرائیل؛ رکورد سفارش‌ها به ۳۵.۶ میلیارد دلار رسید
 ‏
@@ -2249,15 +2263,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 14:17
-1405/09/03
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇵🇸 The IDF and Shin Bet announced that they carried out a strike targeting a senior Hamas operative a short while ago.  They added that further details are expected to follow.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom…
-14:16
 1405/09/03
 
 
@@ -2585,19 +2590,6 @@ src :@Navy_Iranian
 
 
 
-src :@intelslava
-[عکس]
-‏🇱🇾⚡️ — An American company, Vantor, is showcasing satellite imagery of the port of Benghazi.
-‏
-‏The bay where a Russian military vessel was attacked is now blocked by boats. The damaged cargo ship has also been towed there.
-‏
-‏@IntelSlava
-13:50
-1405/09/03
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -2648,19 +2640,6 @@ src :@Farsi_Iranwire
 ‏
 ‏​​ @Farsi_Iranwire
 13:47
-1405/09/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Leaked Rosstat death records list 1,087 Russian military suicides since the full-scale invasion of Ukraine, according to a Guardian analysis.
-‏
-‏Another 885 soldiers who died in or near Ukraine were recorded as firearm deaths of “undetermined intent,” a category experts say can hide suicides.
-‏
-‏READ MORE
-13:45
 1405/09/03
 
 
@@ -2765,21 +2744,6 @@ src :@Farsi_Iranwire
 ‏
 ‏​​ @Farsi_Iranwire
 13:32
-1405/09/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Kyiv restaurants are closing or suspending operations as Russian attacks, near-constant air raid alerts and rising costs keep customers away, Reuters reports.
-‏
-‏Gastro Family shut two restaurants and suspended two more until April. Chornomorka’s footfall fell about 20%, and it is moving two Kyiv sites to western Ukraine.
-‏
-‏Pesto Cafe temporarily closed seven of its 20 restaurants in Kyiv and the surrounding region.
-‏
-‏READ MORE
-13:30
 1405/09/03
 
 
@@ -3170,17 +3134,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴گزارشات غیررسمی از رسیدن قیمت تتر (یک دلار ارز دیجیتال) به 288,000 تومان.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-13:00
-1405/09/03
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏برنامه «پاداش برای عدالت» وزارت خارجه آمریکا در فراخوانی به زبان فارسی، بار دیگر خواستار دریافت اطلاعات درباره شبکه بانکداری پنهان جمهوری اسلامی شد. این برنامه برای اطلاعاتی که به اخلال در سازوکارهای مالی سپاه پاسداران و شاخه‌های آن، از جمله نیروی قدس، منجر شود، تا سقف ۱۵ میلیون دلار پاداش در نظر گرفته است.
@@ -3189,21 +3142,6 @@ src :@Farsi_Iranwire
 ‏
 ‏​​ @Farsi_Iranwire
 12:53
-1405/09/03
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏#منهای_میلیتاری 
-‏
-‏●در فرهنگ غنی ما ایرانیان با ارزش‌ترین و عزیزترین موجودات بر روی زمین پدر و مادر هستند این روزها با شنیدن اخبار قتل این دختران نوجوان بیگناه آنچنان قلب آدمی به درد می آید که اولین چیزی که به ذهنم خطور میکند اینست که هر جفتی دیگر لیاقت یدک کشیدن نام پر ابهت و مهربان پدر مادر را ندارند!
-‏
-‏در این لحظه بر مرگ این عزیزان فقط می‌توانم افسوس بخورم و امیدوار باشم با تغییر آینده و داشتن ایرانی آگاه و ازاد این تعصبات کورکورانه و جهالت از سرزمینم رخت بر بندد...💔
-‏
-‏⚜سوگند_صیادی
-‏#هلیا_فتاحی
-12:48
 1405/09/03
 
 
@@ -5077,32 +5015,11 @@ src :@Mena_Live
 
 
 
-src :@defence_news
-‏قالیباف: شکستن محاصره از راه نظامی راه‌‌هایی دارد که ان‌شاءالله در آیندهٔ نزدیک پیش می‌بریم.
-‏
-‏@Minas_Tirith2024
-23:18
-1405/09/02
-
-
-
-
 src :@Minas_Tirith2024
 ‏قالیباف: شکستن محاصره از راه نظامی راه‌‌هایی دارد که ان‌شاءالله در آیندهٔ نزدیک پیش می‌بریم.
 ‏
 ‏@Minas_Tirith2024
 23:15
-1405/09/02
-
-
-
-
-src :@defence_news
-[عکس]
-‏بر اساس گزارش اندیشکده انگلیسی RUSI ، فدارسیون روسیه موفق شده است 60 فروند بالگرد چند منظوره Mi 8 را که در جریان جنگ در اوکراین از دست داده را با نمونه های نوساز جایگزین کند. در این مطالعه و سند به این مسئله اشاره شده است که سرمایه گذاری از طرف بخش های غیر نظامی دولتی و غیر دولتی در بخش بالگرد سازی روسیه نقش مهمی در این روند ایفا کرده است.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-23:14
 1405/09/02
 
 
@@ -6309,85 +6226,4 @@ src :@tabzlive
 src :@rnintel
 ‏🇺🇸⚡️- BREAKING: Nvidia has reinstated Jensen Huang as its President, CEO, and member of the board.
 17:34
-1405/09/02
-
-
-
-
-src :@Mena_Live
-‏Jensen Huang reinstated as CEO of nvidia.
-‏
-‏@Mena_Live
-17:31
-1405/09/02
-
-
-
-
-src :@tglobaleye
-[عکس]
-‏#BREAKING | 🇺🇸 👁️ — Nvidia board reinstates Jensen Huang as CEO.
-‏
-‏🌐 — The Global Eye | Subscribe ✈️
-17:29
-1405/09/02
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏به گزارش رسانه‌های ایران، قیمت سکه طرح جدید روز دوشنبه ۲آذر۱۴۰۵ با افزایش ۱۳ میلیون و ۷۰۰ هزار تومانی به ۲۵۲ میلیون تومان رسید. هر دلار آمریکا نیز در بازار ایران به بهای ۲۷۲ هزار و ۲۰۰ تومان معامله شد.
-‏
-‏بهای هر گرم طلای ۱۸ عیار از ۲۳ میلیون و ۱۵۲ هزار و ۱۰۰ تومان در روز یکشنبه ۱آذر، امروز دوشنبه به ۲۴ میلیون و ۳۳۱ هزار و ۷۰۰ تومان رسید.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-17:29
-1405/09/02
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏«مصطفی نیلی»، وکیل دادگستری، به وب‌سایت «امتداد» گفته که حکم ۷۴ ضربه شلاق «پرستو احمدی» و چهار نفر از عوامل اجرای او در کاروانسرای تاریخی «دیرگچین»، امروز دوشنبه ۲آذر۱۴۰۵ در دادسرای قم اجرا شده است.
-‏
-‏به گفته مصطفی نیلی، پرستو احمدی، «سهیل فقیه‌نصیری»، «امین طاهری»، «امیرعلی پیرنیا» و «محسن لشکری» پس از تایید حکم در دادگاه تجدیدنظر و ارجاع پرونده، در واحد اجرای احکام دادسرای قم حاضر شدند. حکم شلاق هر پنج نفر در همان واحد به اجرا درآمد.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-17:28
-1405/09/02
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏غلامرضا نیکخواه، بازیگر باسابقه تلویزیون و سینمای ایران، که به خاطر نقش‌های خود در سریال‌های کمدی تلویزیونی شهرت داشت، درگذشت.
-‏
-‏به گزارش تلویزیون ایران آقای نیکخواه، روز دوشنبه دوم آذر بر اثر سکته قلبی در شیراز درگذشت.
-‏
-‏آقای نیکخواه متولد فروردین ۱۳۲۷ بود و از جمله آثارش می‌توان به بازی در سریال‌های طنز تلویزیونی همچون «زیر آسمان شهر»، «نوروز ۷۲»، «پرواز ۵۷»، «بزنگاه» و «مرد هزارچهره» اشاره کرد.
-‏
-‏آقای نیکخواه به ویژه به خاطر همکاری‌های خود با کارگردانان طنز مانند مهران مدیری و رضا عطاران شهرت داشت و در حال حاضر هم سریال «مرد سه‌هزارچهره» از او در حال پخش از تلویزیون ایران است.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-17:28
-1405/09/02
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏«رضا امیرخانی»، نویسنده و منتقد ادبی و از نزدیک‌ترین نویسندگان به «علی خامنه‌ای»، رهبر پیشین جمهوری اسلامی، روز یکشنبه ۱آذر۱۴۰۵ در ۵۳ سالگی درگذشت. او حدود یک سال پیش بر اثر سقوط پاراگلایدر در منطقه مشاء دماوند به‌شدت آسیب دیده بود.
-‏
-‏خبرگزاری «مهر» بامداد امروز گزارش داد که رضا امیرخانی روز ۹آذر۱۴۰۴، پس از سانحه، ابتدا به بیمارستانی در دماوند و سپس برای ادامه درمان به بیمارستان کسری در تهران انتقال یافت. به نوشته مهر، این نویسنده چند بار تحت عمل جراحی قرار گرفت و پس از مدتی به خانه بازگشت، اما وضعیت جسمانی‌اش در ماه‌های پس از حادثه همچنان نامساعد ماند.
-‏@VahidHeadline
-‏
-‏📡 @VahidOnline
-17:27
 1405/09/02
