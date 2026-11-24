@@ -1,3 +1,23 @@
+src :@IranintlTV
+[عکس]
+‏«برنامه» صدای شماست.
+‏ما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.
+‏بیایید و روایت خود را برای همیشه ثبت کنید.
+‏تاریخ با صدای شما نوشته می‌شود.
+‏برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید: ۰۰۴۴۷۵۲۲۱۱۰۱۱۰
+‏۰۰۴۴۷۵۴۴۱۱۰۱۱۰
+‏۰۰۴۴۷۵۱۱۱۰۲۵۵۳
+‏
+‏«برنامه با کامبیز حسینی»
+‏«یک ایران صدای شما را می‌شنود»
+‏
+‏@iranitltv
+17:02
+1405/09/03
+
+
+
+
 src :@MilitarryWorld
 [عکس]
 ‏🔴ادی کوهن، خبرنگار اسرائیلی:
@@ -19,7 +39,7 @@ src :@didarnews1
 ‏🔹علی هاشمی، مدرس دانشگاه با اشاره به کتاب «صفحه شطرنج بزرگ» اثر زبیگنیو برژینسکی، نوشت: در رقابت قدرت‌های بزرگ، کشورهای دارای موقعیت راهبردی ممکن است به میدان رقابت، ابزار فشار یا موضوع توافق دیگران تبدیل شوند. ایران باید با تقویت اقتصاد، دیپلماسی، قدرت علمی، انسجام داخلی و همکاری منطقه‌ای، امکان چنین وضعیتی را کاهش دهد.
 ‏
 ‏➖جهت مشاهده ادامه مطلب کلیک کنید:
-‏
+‏https://www.didarnews.ir/fa/news/208864/
 ‏
 ‏
 ‏#دیدار_نیوز
@@ -1612,22 +1632,6 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@IranintlTV
-[عکس]
-‏مهدی محمودیان، فعال سیاسی، از توقف و بازرسی تلفن همراه شهروندان در ایستگاه متروی دروازه دولت خبر داد و نوشت که امروز شاهد حضور حدود ۱۰ نفر در این ایستگاه بوده که به‌صورت تصادفی شهروندان را متوقف می‌کردند و با رفتاری غیرمحترمانه از آن‌ها می‌خواستند گوشی‌های خود را در اختیارشان قرار دهند.
-‏
-‏او افزود این افراد شهروندان را وادار به ارائه رمز گوشی می‌کردند و پس از جست‌وجو در اینستاگرام و گالری تصاویر، تلفن همراه را به آن‌ها بازمی‌گرداندند. محمودیان گفت خود او نیز متوقف شده و پس از بررسی گوشی و طرح چند سوال، تلفنش را پس گرفته است. 
-‏
-‏این فعال سیاسی با انتقاد از این اقدام، آن را نقض حریم خصوصی و ایجاد رعب و وحشت دانست و نوشت شیوه‌ای که پیش‌تر علیه فعالان سیاسی، اجتماعی و روزنامه‌نگاران به کار گرفته می‌شد، اکنون به زندگی روزمره شهروندان عادی نیز تسری یافته است. 
-‏
-‏او افزود دامنه خفقان به جایی رسیده که شهروندان حتی برای یک سفر ساده درون‌شهری نیز باید نگران تفتیش خصوصی‌ترین بخش‌های زندگی خود باشند.
-‏https://iranintl.com/202611246221
-14:35
-1405/09/03
-
-
-
-
 src :@intelslava
 [عکس]
 ‏🇷🇺🇺🇦⚡️ — Geran drones destroyed another Nova Poshta warehouse in Ukraine's Zhytomyr Oblast.
@@ -2991,25 +2995,6 @@ src :@tglobaleye
 ‏
 ‏🌐 — The Global Eye | Subscribe ✈️
 12:42
-1405/09/03
-
-
-
-
-src :@ClashReport
-[عکس]
-‏Pope Francis experienced visions of the devil and hell and endured a two-year spiritual crisis over the temptations of power, his newly published private diaries reveal. 
-‏
-‏Francis described three encounters with the devil, recalling his “eyes of fire” and menacing voice. 
-‏
-‏In 2018, he claimed to have seen the entrance to hell, writing: “I peeked in to look a little and it terrified me.” 
-‏
-‏Between 2021 and 2022, he struggled with the exercise of papal authority, fearing that he might become a manipulator of others.
-‏
-‏Source: CNN
-‏
-‏READ MORE
-12:40
 1405/09/03
 
 
@@ -6423,14 +6408,4 @@ src :@thewarreporter
 ‏
 ‏@TheWarReporter
 17:10
-1405/09/02
-
-
-
-
-src :@thewarreporter
-‏🇮🇱🇮🇷 — Yashar party leader and incoming Israeli PM Gadi Eisenkot said said there is 'no need' for immediate military action against Iran before a new government is formed.
-‏
-‏@TheWarReporter
-17:01
 1405/09/02
