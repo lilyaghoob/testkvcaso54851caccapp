@@ -1,3 +1,37 @@
+src :@MilitarryWorld
+[عکس]
+‏🔴بانکی پور نماینده مجلس: جوان‌ها اگه نمیتونن ازدواج کنن، نیاز جنسیشون رو کنترل کنن
+‏
+‏@MilitarryWorld | Parsa
+08:33
+1405/09/04
+
+
+
+
+src :@GeoPWatch
+‏❗️🇺🇸 - The US Treasury has been hit by cyberattack, taking multiple FinCEN systems offline, per a Treasury disclosure.
+‏
+‏This comes just hours after the CIA and ODNI were hacked in a cyberattack.
+08:29
+1405/09/04
+
+
+
+
+src :@ircfspace
+[عکس]
+‏در جریان محاکمه هواوی در آمریکا، شواهدی درباره همکاری این شرکت با حکومت جمهوری اسلامی در زمینه پایش و سانسور اینترنت در ایران مطرح شد. این موضوع در پرونده‌ای مطرح شد که هیئت منصفه دادگاه فدرال بروکلین، هواوی رو در ۱۰ مورد از ۱۲ اتهام کیفری، مجرم شناخت.
+‏طبق بیانیه وزارت دادگستری آمریکا، هواوی در ایجاد زیرساخت‌های اینترنتی و شبکه‌های موبایل ایران نقش داشته و به حکومت و بخشی از دستگاه اطلاعاتی کشور کمک کرده تا امکان پایش و محدودسازی دسترسی کاربران به اینترنت رو فراهم کنه. همچنین، تجهیزات نظارتی هواوی برای پایش اعتراضات در اختیار جمهوری اسلامی قرار گرفته بود.
+‏
+‏🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+‏@ircfspace
+08:28
+1405/09/04
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏روابط عمومی نیروی دریایی سپاه اعلام کرد چهارشنبه دو نفتکش که به صورت مخفیانه در سواحل جنوبی و شرقی تنگه هرمز در حرکت بودند، در پی برخورد با مین دریایی دچار انفجار و آتش سوزی در موتورخانه شدند.
@@ -1039,18 +1073,6 @@ src :@OSINTWarfare
 
 
 
-src :@IranintlTV
-[عکس]
-‏بخش امور کنسولی وزارت خارجه ایالات متحده آمریکا اعلام کرد که آمریکایی‌های حاضر در خاورمیانه باید به دلیل افزایش تهدید حملات مسلحانه حوثی‌ها و تلاش‌های جمهوری اسلامی برای هدف قرار دادن مقام‌ها و تاسیسات دولت آمریکا در منطقه، هوشیاری بیشتری به خرج دهند. 
-‏هم‌زمان با ادامه درگیری‌های حوثی‌ها و ائتلاف به رهبری عربستان سعودی، حوثی‌ها اعلام کردند اگر عربستان سعودی به بندر حدیده حمله کند، بندر جده و تمامی بنادر عربستان در ساحل دریای سرخ را هدف قرار خواهند داد.
-‏
-‏https://iranintl.com/202611250129
-04:03
-1405/09/04
-
-
-
-
 src :@KayhanLondonChannel
 ‏‌‌‌‌‌‌‌‌‏ ‌‏ ‏
 ‏⁠رکوردشکنی قیمت دلار با عبور از مرز ۲۸۵ هزار تومان؛ تحقق پیش‌بینی اسکات بسنت یا فشار اصلاح‌طلبان به مخالفان داخلی توافق؟
@@ -1582,9 +1604,10 @@ src :@Alibk3
 
 
 src :@naya_foriraq
-‏العميد يحيى سريع: تعلن القوات المسلحة أن ميناء جدة وجميع الموانئ السعودية المعادية على طول ساحل البحر الأحمر ستكون أهدافاً لقواتنا إذا نفذ العدو تهديداته بقصف ميناء الحديدة.
+‏العميد يحيى سريع: 
+‏تعلن القوات المسلحة أن ميناء جدة وجميع الموانئ السعودية المعادية على طول ساحل البحر الأحمر ستكون أهدافاً لقواتنا إذا نفذ العدو تهديداته بقصف ميناء الحديدة.
 ‏‏نحذر الموظفين والعمال وأي شخص بالقرب من هذه الموانئ بضرورة إخلائها فوراً والابتعاد عنها، وندعو جميع شركات الشحن إلى إخراج سفنها من تلك الموانئ على الفور.
-‏
+‏﻿
 ‏https://t.me/naya_foriraq
 01:43
 1405/09/04
@@ -4182,18 +4205,6 @@ src :@Minas_Tirith2024
 
 
 
-src :@MilitarryWorld
-‏🔴پزشکیان:
-‏
-‏والله، به پیر و پیغمبر، این ناترازی‌ها را نمی‌توان به این سادگی حل کرد
-‏
-‏@MilitarryWorld | Parsa
-20:22
-1405/09/03
-
-
-
-
 src :@Shin_Persian
 [عکس]
 ‏UKMTO Operations Centre @UK_MTO
@@ -4670,32 +4681,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 19:05
-1405/09/03
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏📝Guests instead of a garrison📝
-‏France reshuffles in Senegal
-‏
-‏When French troops left the permanent Camp Gelly base in Senegal in 2025, many rushed to announce the Fifth Republic's withdrawal. A military cooperation plan between the two countries through 2028 that came into our possession shows there was no withdrawal at all — merely a change in format.
-‏
-‏Instead of garrisons, now guest missions, short but intensive. The plan is laid out by semesters for three years ahead and is already operational. In early October, the helicopter carrier "Mistral" visited Dakar with joint live-fire exercises and a seminar on unmanned systems, confirming the leaked schedule.
-‏
-‏The program, however, extends beyond port exercises alone. It includes joint staff work, naval maneuvers, sapper and sniper courses, jungle training, intelligence exchange including space-based intelligence, drone operators and artillery personnel.
-‏
-‏📌 The plan also includes exercises with other countries from the conditionally pro-French bloc, including the army of Morocco, with which military cooperation was difficult to imagine not long ago. In addition, military personnel from Gabon and Benin participate.
-‏
-‏The French goal is to bring the armies' interoperability to a level by 2028 where they can fight or conduct operations in the same formation without interpreters and coordination. The largest multi-service exercises ORION in 2028 will serve as a kind of dress rehearsal.
-‏
-‏❗In Chad recently, they demonstrated the same model in miniature. Paris is not leaving its former colonies, but merely transitioning to a format that is much cheaper and possibly even more effective.
-‏#Senegal #France
-‏💀 @rybar_africa — where politics is hotter than the equator
-‏
-‏💸Support us Original msg
-19:02
 1405/09/03
 
 
