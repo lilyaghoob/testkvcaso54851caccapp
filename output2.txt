@@ -1520,19 +1520,6 @@ src :@KayhanLondonChannel
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump Puts a Pin in Postwar Business Deals With Russia
-‏
-‏U.S. envoys shifted their focus to territory and security after Moscow showed little interest in postwar ventures, though economic engagement remains part of the negotiations.
-‏
-‏READ MORE
-14:04
-1405/09/04
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏❇️باتری حالت جامد چیست و چرا همه درباره آن صحبت می‌کنند؟ انقلابی در صنعت خودروهای برقی
@@ -5938,15 +5925,4 @@ src :@VahidOnline
 ‏
 ‏📡 @VahidOnline
 17:24
-1405/09/03
-
-
-
-
-src :@USAMRYDATA
-[عکس]
-‏#FUN
-‏➖➖➖➖➖➖➖
-‏🗽🅓🅔🅩🅗.🅜🅔🅜🅔
-16:41
 1405/09/03
