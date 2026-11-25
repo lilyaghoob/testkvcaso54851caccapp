@@ -1,3 +1,12 @@
+src :@tabzlive
+[عکس]
+‏🇺🇸⚡️ — President Trump in an interview with New York Post expressed willingness to pardon fired-then-rehired CEO of Nvidia Jensen Huang if necessary, though also expressed belief that a pardon wouldn't be required and encouraged Huang to tell the truth and…
+05:44
+1405/09/04
+
+
+
+
 src :@Indypersian
 [عکس]
 ‏♦️حمیدالله نثار، رئیس اطلاعات و فرهنگ طالبان در غزنی، اعلام کرد که بر اساس فرمان رهبر این گروه، «آثار جهادی» باید گردآوری و نگهداری شوند تا یادگارهای جنگ ۲۰ ساله طالبان حفظ شود.
@@ -1414,21 +1423,6 @@ src :@selena_updates
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️روزنامه «نیویورک تایمز» روز سه‌شنبه سوم آذر به نقل از مقام‌های آمریکایی و منابع آگاه گزارش داد که سازمان اطلاعات مرکزی آمریکا (سیا) و دفتر مدیر اطلاعات ملی این کشور اخیراً یک رخنه امنیت سایبری را شناسایی کرده‌اند که به افشای بخشی از اطلاعات طبقه‌بندی‌نشده آن‌ها منجر شده است.
-‏
-‏بر اساس این گزارش، این نفوذ سایبری یک سامانه تحلیل اطلاعات «منبع‌باز» (OSINT) را هدف قرار داده است؛ شبکه‌ای رایانه‌ای که برای استخراج داده‌های اطلاعاتی از مطالب عمومی و طبقه‌بندی‌نشده استفاده می‌شود.
-‏
-‏منابع آگاه که به شرط ناشناس ماندن درباره این موضوع حساس امنیتی سخن گفته‌اند، تصریح کردند که اگرچه هنوز دقیقاً مشخص نیست چه داده‌هایی به سرقت رفته، اما هیچ‌گونه اطلاعات طبقه‌بندی‌شده‌ای در معرض خطر قرار نگرفته است. به گفته دو منبع مطلع، گمان می‌رود اطلاعات سایر نهادهای دولتی آمریکا نیز در جریان این حمله افشا شده باشد؛ هرچند یکی از آن‌ها اعلام کرد که این مشکل برطرف شده است.
-‏
-‏@indypersian
-00:37
-1405/09/04
-
-
-
-
 src :@Americana_ir
 [عکس]
 ‏🔻دولت ترامپ درحال بررسی ترور مقامات ارشد ایران است
@@ -1690,14 +1684,6 @@ src :@ClashReport
 ‏
 ‏READ MORE
 00:01
-1405/09/04
-
-
-
-
-src :@tabzlive
-‏🟧 HEAT WATCH New Heat At Sea · Persian Gulf  📍 Near: 90 km S of Bandar-e-Abbas 🛢 Nearest oil site: 20.8 km from an oil / gas platform 📌 26.3899, 56.1889 🌡 Heat: 6 MW · new spot, no heat here in 10 days ⚪️ Confidence: Low · 1 pixel · 1 satellite · NASA medium…
-00:00
 1405/09/04
 
 
@@ -6277,20 +6263,4 @@ src :@Middle_East_Spectator
 ‏
 ‏– Elias.
 06:00
-1405/09/03
-
-
-
-
-src :@Middle_East_Spectator
-[عکس]
-‏#BREAKING
-‏⚡️🇮🇷🇺🇸 - The U.S. is investigating potential Iranian involvement in as much as 50 cyberattacks against ships carrying oil, petroleum, chemical products and other explosive substances, according to the WSJ.
-‏
-‏Russia is also believed to be a possible culprit of the attacks, which have included warnings and bomb threats against some vessels.
-‏
-‏Targeted ships were operating close to Europe and Asia at the time of the attacks, and at least four ships were assisted by the U.S. Coast Guard on their approach to the U.S.
-‏
-‏The risk is that a nefarious actor could compromise integrated systems which the vessels depend on, and through them cause am explosion, collision or oil spill. The attacks could have the aim of disrupting critical maritime routes or cause an explosion at a major port far from the Middle East.
-05:43
 1405/09/03
