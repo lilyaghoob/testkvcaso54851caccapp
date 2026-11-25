@@ -1,3 +1,39 @@
+src :@wfwitness
+[عکس]
+‏@wfwitness
+02:25
+1405/09/05
+
+
+
+
+src :@bricsnews
+‏JUST IN: 🇦🇪 Tanker explosion reported near Dubai, UAE.
+‏
+‏@BRICSNews
+02:25
+1405/09/05
+
+
+
+
+src :@naya_foriraq
+‏استهداف ناقلة نفط قرب سواحل  الامارات
+02:25
+1405/09/05
+
+
+
+
+src :@Alibk3
+[عکس]
+‏اطلاق صواريخ نحو سفن مخالفة في مضيق هرمز الآن.
+02:24
+1405/09/05
+
+
+
+
 src :@Alibk3
 ‏عدوان سعودي يستهدف العاصمة اليمنية صنعاء، بالتزامن مع تفعيل الدفاعات الجوية.
 02:03
@@ -1918,18 +1954,6 @@ src :@defence_news
 
 
 
-src :@wfwitness
-‏⚡️🇮🇷Reports of explosions heard in Bandar Abbas.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-22:59
-1405/09/04
-
-
-
-
 src :@naya_foriraq
 ‏🇮🇷سماع دوي انفجارات في جزيرتي لارك وجاسك جنوبي إيران.  https://t.me/naya_foriraq
 22:59
@@ -3116,14 +3140,6 @@ src :@cataphract1
 src :@tabzlive
 ‏🇾🇪❌🇸🇦 — Saudi-led Coalition to Restore Legitimacy in Yemen announces a projectile impacted Jazan Port, southwestern KSA, reportedly causing minor damage and no casualties.
 20:03
-1405/09/04
-
-
-
-
-src :@Alibk3
-‏التحالف يُعلن عن هجوم استهدف ميناء جيزان في السعودية.
-20:02
 1405/09/04
 
 
