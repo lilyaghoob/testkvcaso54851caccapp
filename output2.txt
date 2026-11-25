@@ -22,6 +22,19 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
+src :@ClashReport
+[عکس]
+‏Zelensky Looks to Incoming Democratic Congress If Russia Talks Falter
+‏
+‏Zelensky says he would turn to the incoming Democratic-controlled U.S. Congress for military aid and tougher sanctions on Moscow if Trump fails to secure a deal by year-end.
+‏
+‏READ MORE
+13:36
+1405/09/04
+
+
+
+
 src :@intelslava
 ‏🇧🇾🇺🇸⚡️— Belarusian President Alexander Lukashenko says US President Donald Trump prevented World War III by halting escalation between NATO and Russia, crediting him for committing to peace efforts in Ukraine.
 ‏
@@ -1370,23 +1383,6 @@ src :@Farsi_Iranwire
 ‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160710
 ‏
 ‏​​ @Farsi_Iranwire
-10:32
-1405/09/04
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇮🇱🇵🇸 Haaretz: The Israeli military's "mosquito protocol", under which Palestinians are used as human shields or forced to approach suspected booby traps, is widespread in Gaza, the West Bank and Lebanon. 
-‏
-‏According to the editorial, 16 criminal investigations have been opened since October 2023, six of them in the West Bank, but nobody has been charged. 
-‏
-‏Israeli Defence Minister Israel Katz has asked the military censor to block a Kan 11 report on the practice, arguing it could harm soldiers' reputations and expose them to legal risk abroad.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 10:32
 1405/09/04
 
@@ -3576,22 +3572,6 @@ src :@Mena_Live
 
 
 
-src :@ClashReport
-‏The CIA and the Office of the Director of National Intelligence suffered a cybersecurity breach exposing unclassified information. 
-‏
-‏Other U.S. government agencies may also have been affected. 
-‏
-‏No classified information was compromised, and the identity of those responsible remains unclear.
-‏
-‏Source: NYT
-‏
-‏READ MORE
-00:01
-1405/09/04
-
-
-
-
 src :@Minas_Tirith2024
 [عکس]
 ‏یائیر گولان رهبر دموکرات‌ها در اسرائیل مدعی شد که در پی پیشرفت‌ها در تشکیل دولت وحدت ملی بین آیزنکوت و نتانیاهو و به ویژه توافقات اولیه درباره موضوع جنجالی اصلاحات قضایی و همچنین بن‌بست در تشکیل دولت تغییر (با حمایت اعراب که پیشنهاد گولان است) در اعتراض، مذاکراتش با حزب یاشار به رهبری آیزنکوت را متوقف می‌کند. مشخص نیست او چقدر در بیان این حرف‌ها صداقت دارد.
@@ -3774,15 +3754,6 @@ src :@intelslava
 ‏— CNN.
 ‏
 ‏@IntelSlava
-23:41
-1405/09/03
-
-
-
-
-src :@Alibk3
-[عکس]
-‏طائرتا تزوّد بالوقود أميركيتان ترافقان مقاتلات F-35B أثناء عبورها البحر المتوسط، ضمن عملية نشر المقاتلات في قاعدة عوفدا الجوية جنوب فلسطين المحتلة.
 23:41
 1405/09/03
 
@@ -4010,19 +3981,6 @@ src :@Shin_Persian
 ‏
 ‏𝕏  ·  @shin_persian
 23:24
-1405/09/03
-
-
-
-
-src :@Farsi_Iranwire
-[عکس]
-‏یسراییل کاتس، وزیر دفاع اسراییل، روز سه‌شنبه سوم آذر گفت ارتش این کشور و فرماندهی مرکزی ارتش آمریکا (سنتکام) برای حمله مشترک به ایران آماده می‌شوند و طرح‌های عملیاتی در این زمینه تکمیل شده است. او همچنین گفت جمهوری اسلامی در حال توسعه سلاح شیمیایی است و نشانه‌هایی از تلاش تهران برای فعال‌سازی دوباره برنامه هسته‌ای وجود دارد.
-‏
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160705
-‏​​ @Farsi_Iranwire
-23:21
 1405/09/03
 
 
@@ -6120,18 +6078,4 @@ src :@Navy_Iranian
 ‏
 ‏@Navy_Iranian |#Z_S
 13:52
-1405/09/03
-
-
-
-
-src :@thewarreporter
-‏🇺🇸🇷🇺🇮🇷 — The U.S. is investigating suspected cyberattacks against as many as 50 energy tankers worldwide, with Russia and Iran among the potential suspects.
-‏
-‏Several vessels received bomb threats and warnings not to transport U.S. energy products. The U.S. Coast Guard has deployed cyber protection teams to assist at least four affected ships.
-‏
-‏However, a Trump administration official said there is currently no evidence directly linking Iran to the attacks.
-‏
-‏— The Wall Street Journal | @TheWarReporter
-13:38
 1405/09/03
