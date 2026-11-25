@@ -1,3 +1,13 @@
+src :@GeoPWatch
+‏⚡️🇸🇾🏴 – Two members of the internal security forces were killed and five others were injured in a suicide attack by ISIS in the city of al-Hasakah, in northeastern Syria.
+‏
+‏Internal security forces stated in a statement that the four militants who carried out the attack were killed: two in a shootout with security forces, and two in the suicide bombings.
+01:28
+1405/09/05
+
+
+
+
 src :@Alibk3
 [عکس]
 ‏طائرة شحن عسكرية أردنية، تهبط في قاعدة الأمير سلطان الجوية بالسعودية، بعد توقفها في نخجوان، مع تجنّب المجال الجوي العراقي!
@@ -5355,16 +5365,6 @@ src :@ircfspace
 
 
 
-src :@GeoPWatch
-‏❗️🇺🇸 - The US Treasury has been hit by cyberattack, taking multiple FinCEN systems offline, per a Treasury disclosure.
-‏
-‏This comes just hours after the CIA and ODNI were hacked in a cyberattack.
-08:29
-1405/09/04
-
-
-
-
 src :@ircfspace
 [عکس]
 ‏در جریان محاکمه هواوی در آمریکا، شواهدی درباره همکاری این شرکت با حکومت جمهوری اسلامی در زمینه پایش و سانسور اینترنت در ایران مطرح شد. این موضوع در پرونده‌ای مطرح شد که هیئت منصفه دادگاه فدرال بروکلین، هواوی رو در ۱۰ مورد از ۱۲ اتهام کیفری، مجرم شناخت.
@@ -5769,15 +5769,4 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 01:36
-1405/09/04
-
-
-
-
-src :@Artemis_Force
-‏🔴 #خبر_فوری
-‏طبق گزارش سازمان عملیات تجارت دریایی بریتانیا:
-‏ایران در 24 ساعت گذشته به 6 نفتکش و کشتی باری در حال عبور در تنگه هرمز حمله کرده است که این بزرگ ترین حمله ایران در تنگه هرمز از ابتدای بسته شدن تنگه هرمز بوده است.
-‏@iran_jahan_darlahze
-01:31
 1405/09/04
