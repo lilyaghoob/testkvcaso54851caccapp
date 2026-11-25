@@ -1,3 +1,32 @@
+src :@bricsnews
+[عکس]
+‏JUST IN: 🇯🇵 Japan set to fall to the world's sixth-largest economy by 2027.
+‏
+‏@BRICSNews
+09:34
+1405/09/04
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏درود و صبح همراهان عزیز بخیر
+09:34
+1405/09/04
+
+
+
+
+src :@intelslava
+[عکس]
+‏🇺🇦🇷🇺⚡️ — Enemy sources report that the Kuibyshev Oil Refinery was attacked by drones overnight.  @Intelslava
+09:32
+1405/09/04
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏معاون درمان وزارت بهداشت اعلام کرد از ۱۰ آبان تا سوم آذر، ۳۵۶ مورد مسمومیت در کشور شناسایی شده که ۱۸۷ نفر از آنان بستری شده‌اند، ۱۴۲ نفر ترخیص شده‌اند و ۲۰ نفر جان باخته‌اند. 
@@ -2702,22 +2731,6 @@ src :@naya_foriraq
 
 
 
-src :@intelslava
-‏🇺🇸🇺🇦⚡️ — The Pentagon is delaying the delivery of approximately 60 Patriot interceptors to Ukraine, including missiles from European stockpiles already paid for by Kyiv's allies.
-‏
-‏Defense Secretary Pete Hegseth has yet to approve the transfers, while a separate agreement allowing Ukraine to manufacture its own Patriot interceptors remains under Pentagon review.
-‏
-‏Ukrainian officials suspect the Trump administration is withholding military assistance to pressure Kyiv into accepting territorial concessions to Russia. The Pentagon maintains that its policy toward Ukraine has not changed.
-‏
-‏— Financial Times.
-‏
-‏@IntelSlava
-23:34
-1405/09/03
-
-
-
-
 src :@Middle_East_Spectator
 ‏—❗️🇺🇸/🇮🇷 NEW: The Iranian Army announces that an American MQ-9 ‘Reaper’ drone was shot down today
 ‏
@@ -4638,16 +4651,6 @@ src :@VahidOnline
 
 
 
-src :@WAR_ROOM_NEWS
-‏رسانه‌های آمریکایی: مقامات دولت ترامپ در حال بررسی هدف قرار دادن رهبران ایران هستند
-‏
-‏🆔@WAR_ROOM_NEWS
-19:35
-1405/09/03
-
-
-
-
 src :@didarnews1
 ‏🔴 رئیس جمهور: من از وحدت شکنی میترسم 
 ‏
@@ -6096,16 +6099,6 @@ src :@Americana_ir
 
 
 
-src :@bricsnews
-‏JUST IN: 🇦🇪 Ship struck near UAE.
-‏
-‏@BRICSNews
-11:59
-1405/09/03
-
-
-
-
 src :@rnintel
 ‏🇪🇹🇪🇷🇮🇱⚡- BREAKING: Israeli military advisors are present in the Tigray region supporting the Ethiopian National Defense Forces offensive, several reliable military sources report.
 11:53
@@ -6291,17 +6284,6 @@ src :@mamlekate
 
 
 
-src :@bricsnews
-[عکس]
-‏JUST IN: 🇰🇷 South Korea considers selling up to $3,000,000,000 in US dollar bonds.
-‏
-‏@BRICSNews
-10:05
-1405/09/03
-
-
-
-
 src :@USAMRYDATA
 [عکس]
 ‏✅ اقتصادهای توسعه یافته با بیشترین رشد سرانه تولید ناخالص داخلی 
@@ -6395,15 +6377,4 @@ src :@Parvazdaroj
 ‏
 ‏@PARVAZDAROJ | 𝐀.𝐑.𝐀
 09:37
-1405/09/03
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏درود عزیزان و همراهان
-‏
-‏@artemis_force
-09:34
 1405/09/03
