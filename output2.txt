@@ -1,3 +1,12 @@
+src :@GeoPWatch
+[عکس]
+‏dummy.png
+08:15
+1405/09/05
+
+
+
+
 src :@mohem_mat
 ‏نیروی هوایی بریتانیا برای مقابله با تهدید پهپادهای ایران‌و روسیه، شب‌ها هواپیماهای خود را به آشیانه‌ها منتقل می‌کند
 ‏
@@ -2330,21 +2339,6 @@ src :@MilitarryWorld
 ‏
 ‏@MilitarryWorld | Parsa
 23:08
-1405/09/04
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇺🇸🇸🇾🇮🇷 – U.S. CENTCOM Commander Brad Cooper congratulated Syrian officials for confiscating IRGC weapon shipments bound for Lebanon sometime this month, as well as for their success in seizing large amounts of drugs and other substances.
-‏
-‏Congratulations to our Syrian partners for recent success in intercepting illicit drugs and weapons trafficking. 
-‏
-‏Earlier this month, the Syrian Drug Enforcement Department seized enormous quantities of Captagon pills and other illegal substances at Syria's border with Lebanon, and Syrian Internal Security Forces confiscated weapons smuggled from Iran's Islamic Revolutionary Guard Corps that were bound for Lebanon.
-‏
-‏These efforts support a stable, unified, and peaceful Syria and reinforce regional security and stability.
-23:07
 1405/09/04
 
 
