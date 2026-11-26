@@ -1,3 +1,16 @@
+src :@OSINTWarfare
+[عکس]
+‏🇺🇸🇺🇦⚡️ — The U.S. Department of State approved a possible Foreign Military Sale (FMS) to Ukraine for F-16 aircraft sustainment and related equipment, with an estimated total cost of $621.9 million. Congress was notified of the decision.
+‏
+‏The package covers Cartridge Actuated Devices/Propellant Actuated Devices (pyrotechnics for systems such as ejection seats), laboratory equipment, and transportation support. It will be added to an existing case and fully funded by Belgium, Denmark, the Netherlands, and Norway through the JUMPSTART programme, with no U.S. funds involved.
+‏
+‏@OSINTWarfare
+01:01
+1405/09/06
+
+
+
+
 src :@samueltarikh
 ‏پس از جلسه اضطراری امنیتی امشب میان نتانیاهو و مقامات ارشد ارتش اسرائیل،
 ‏دقایقی پیش مارتین کورتهایمر، یکی از چهره‌های برجسته حزب لیکود به رهبری نتانیاهو در توییتر نوشت:
@@ -5229,19 +5242,6 @@ src :@selena_updates
 
 
 
-src :@Farsi_Iranwire
-[عکس]
-‏فرمانده نیروهای مرزی عراق روز پنجشنبه ۵ آذر ۱۴۰۵، از آغاز اجرای دستور نخست‌وزیر این کشور برای مسدود کردن تمامی گذرگاه‌های غیررسمی در مرزهای مشترک با کشورهای همسایه، از جمله ایران، خبر داد؛ اقدامی که می‌تواند در شرایط تشدید تحریم‌های آمریکا و محاصره دریایی ایران، فشار بیشتری بر اقتصاد جمهوری اسلامی وارد کند.
-‏
-‏بیشتر بخوانید: https://iranwire.com/fa/news-1/160785
-‏
-‏@Farsi_Iranwire
-14:33
-1405/09/05
-
-
-
-
 src :@didarnews1
 ‏🔴 رهبر انقلاب: بسیج باید فرصت‌آفرین و گره‌گشا باشد
 ‏
@@ -6456,13 +6456,4 @@ src :@GeoPWatch
 ‏
 ‏Internal security forces stated in a statement that the four militants who carried out the attack were killed: two in a shootout with security forces, and two in the suicide bombings.
 01:28
-1405/09/05
-
-
-
-
-src :@GeoPWatch
-[عکس]
-‏⚡️🇮🇷🇺🇸 - Additional missile and drone launches have been reported across multiple cities in Khuzestan, including Haftkel, Behbahan and Omidiyeh.
-00:57
 1405/09/05
