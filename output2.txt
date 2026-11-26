@@ -1,3 +1,46 @@
+src :@Exciton_missile_program
+‏در کلاس جاوایی که برای رمزگذاری نوشتم و دو سال پیش در گیت هاپ قرار دادم. الگوریتم پیاده سازی الگوریتم RSA با کمک کتابخانه جاوا و آندروید در این کلاس موجود است. من از این کلاس در برنامه ای استفاده کردم که به صورت عمومی به عللی قرار ندادم. در هر صورت ما متخصصین امنیتی نیستیم، همان موقع برخی از من ایراد گرفتند که چرا خودت پیاده سازی کردی و از کتابهای wrapper برای این امر استفاده نکردی (اکنون میدهند هوش مصنوعی بنویسد😊). در نهایت کار در سطوح پایه الگوریتمهای رمزگذاری یک عملیات ریاضی پیچیده است و سطوح تخصصی خاصی از دانش ریاضی را طلب میکند. حتی نوشتن برنامه رمزگذاری نشانه تخصص شما در رمزگذاری نیست و ما صرفا کلیاتی میدانیم. همه چیز را همه لازم نیست بدانند. چیزی که ریاضیاتش را ندانی یعنی کلا نمیدانی. همه چیز با ریاضیات مشخص میشود. (پست دو سال پیش در رابطه با کلاس رمزگذاری با جاوا)
+‏
+‏@Exciton_missile_program 🚀
+12:31
+1405/09/05
+
+
+
+
+src :@selena_updates
+[عکس]
+‏At least 10 terrorists were killed yesterday in 4 separate Israeli airstrikes across the Gaza Strip. 3 were killed in a drone strike in Gaza City's Al-Tuffah neighborhood, while brothers Mohammad and Osama Judeh were killed in Al-Tuwam, northern Gaza City. Another strike in Jabalia killed Hazem Hamouda. 
+‏
+‏Earlier in the day, an Israeli strike in Al-Shati refugee camp killed Mohammad Abu al-Ouf, Hamas's northern Gaza internal security chief, alongside his wife and two daughters. The death toll yesterday stood at 10.
+‏
+‏Since midnights, Israeli forces struck an apartment in Deir al-Balah at approximately 3:40 a.m., killing Dr. Khaled Abu Nada, a senior Hamas official responsible for the group's education portfolio, along with his wife. Abu Nada held ministerial rank within Hamas.
+‏
+‏As head of the economic portfolio, Abu Nada was responsible for managing Hamas’ banks and investment system. In this role, he directed funds toward terrorist activities and Hamas’ force buildup, while the residents of the Gaza Strip paid the price.
+‏
+‏Joint statement by Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz on the elimination of senior official Abu Nada:
+‏The IDF eliminated Khaled Abu Nada last night, who was responsible for the economy and education portfolios in the Hamas terrorist organization in the Gaza Strip. This elimination is part of a series of recent operations against the organization’s operatives and senior officials.
+‏
+‏In the past month, about 80 Hamas terrorists have been eliminated – and our forces will continue to thwart and hold accountable every terrorist in the organization.
+‏
+‏No terrorist is immune and none of the Hamas leadership will succeed in escaping. We will continue to pursue our enemies and protect the security of Israel’s citizens.
+‏
+‏Earlier, at approximately 1:30 a.m., another Israeli strike near Rafik al-Salmi Field in the Al-Shati camp, northwest Gaza City, killed 3 terrorists identified as Yasser al-Laham, Saher Ahmad and Ibrahim al-Maskhal. At least 5 terrorists were killed in the 2 strikes, after midnight.
+12:31
+1405/09/05
+
+
+
+
+src :@WAR_ROOM_NEWS
+[عکس]
+‏سخنگوی ارتش اسرائیل اعلام کرد خالد ابوندا، رئیس بخش اقتصادی دفتر سیاسی حماس و وزیر آموزش‌وپرورش این نهاد، بامداد پنجشنبه در حمله هوایی به منطقه دیرالبلح در مرکز نوار غزه کشته شده است. به گفته ارتش اسرائیل، وی مسئول مدیریت بانک‌ها و شبکه سرمایه‌گذاری حماس و هدایت منابع مالی این سازمان بوده است.
+12:31
+1405/09/05
+
+
+
+
 src :@jangaavaran1390
 [عکس]
 ‏ایتالیا در حال بررسی ارسال ۱۰ تا ۲۰ فروند یوروفایتر تایفون از ناوگان ۲۶ فروندی ترانشه ۱ خود به اوکراین است که قرار است در سال‌های ۲۰۲۹-۲۰۳۰ از رده خارج شوند.
@@ -16,6 +59,8 @@ src :@wfwitness
 ‏⚡️🇸🇾🇮🇱 Loud explosions were heard across rural Daraa and Quneitra following detonations carried out by Israeli forces around Tal al-Faras, near the border.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 12:21
 1405/09/05
 
@@ -44,6 +89,8 @@ src :@wfwitness
 ‏The IDF described Abu Nada as a senior governing figure in Gaza, alleging that he played a significant role in decisions affecting Hamas’s operations against Israeli troops. It said his economic responsibilities included managing the group’s banking and investment system.
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 12:18
 1405/09/05
 
@@ -58,6 +105,8 @@ src :@wfwitness
 ‏The charges against Grekhov have not been disclosed. 
 ‏
 ‏@wfwitness
+‏
+‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 12:18
 1405/09/05
 
@@ -1558,23 +1607,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏بحران کمبود سوخت و انرژی در زمستان امسال عمیق‌تر شده و سبب قطع کامل گاز بخشی از صنایع و جیره‌بندی برق و گاز در بخش‌های مختلف صنعتی، کشاورزی و خانگی خواهد شد.
 09:58
-1405/09/05
-
-
-
-
-src :@wfwitness
-[عکس]
-‏⚡️🇱🇻🇵🇬 Latvia’s airBaltic is offering some crew demotion, departure or temporary assignments with Papua New Guinea’s Air Niugini as it restructures under Chapter 11 bankruptcy protection.
-‏
-‏The airline plans 500–700 job cuts and a fleet reduction from 54 Airbus A220s to 36 by year-end. 
-‏
-‏Emails indicate some pilots faced secondment or termination; airBaltic describes the assignments as voluntary.
-‏
-‏@wfwitness
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-09:57
 1405/09/05
 
 
@@ -3853,43 +3885,12 @@ src :@WAR_ROOM_NEWS
 
 
 
-src :@naya_foriraq
-‏🇸🇦🇾🇪هجوم بالطيران المسير يستهدف ميناء جدة السعودية.
-‏
-‏https://t.me/naya_foriraq
-23:01
-1405/09/04
-
-
-
-
 src :@samueltarikh
 ‏ساعاتی پیش رئیس ستاد مشترک نیروهای مسلح اسرائیل مدعی شد:
 ‏
 ‏ارتش اسرائیل سطح آمادگی خود را برای از سرگیری عملیات نظامی افزایش داده است،
 ‏قابل توجه است که فردا شب دو جلسه اضطراری امنیتی دولت اسرائیل پشت سر هم قرار است برگزار شود که در چندین ماه گذشته بی سابقه بوده است.
 23:01
-1405/09/04
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏احتمالاً صدای انفجارها حاکی از شلیک موشک توسط سپاه به سمت کشتی ای در تنگه هرمز است
-‏
-‏🆔@WAR_ROOM_NEWS
-23:00
-1405/09/04
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴انگار عملیات چمن زنی در جنوب کشور گسترش یافته است.
-‏
-‏
-‏🆔@WAR_ROOM_NEWS
-23:00
 1405/09/04
 
 
@@ -3915,16 +3916,6 @@ src :@samueltarikh
 ‏روزنامه ایتالیایی کوریره دلا گزارش داد:
 ‏
 ‏علاوه بر دو کشتی روسیه که در حملات پهپادی اوکراین در بندر بنغازی لیبی هدف قرار گرفتند، یک کشتی باری نظامی ایرانی نیز که احتمالا حامل قطعات الکترونیکی مورد استفاده در نبردهای پهپادی بوده، هدف حمله پهپاد های اوکراینی قرار گرفته است.
-22:59
-1405/09/04
-
-
-
-
-src :@WAR_ROOM_NEWS
-‏🔴انفجار در لارک و جاسک
-‏
-‏🆔@WAR_ROOM_NEWS
 22:59
 1405/09/04
 
