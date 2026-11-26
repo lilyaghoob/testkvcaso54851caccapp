@@ -1,3 +1,40 @@
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏Missile launch heard from Shushtar @ 2221Z
+‏Khuzestan Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/6XX6W1dIzD_ODgog7jM5GoMc
+‏
+‏ترجمه خودکار فارسی
+‏
+‏صدای شلیک موشک از شوشتر در ساعت 2221Z (۰۱:۵۱ روز بعد به وقت تهران) شنیده شد
+‏استان خوزستان، ایران
+‏
+‏[انتشار با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
+‏https://fromiran.sh1n.org/incidents/6XX6W1dIzD_ODgog7jM5GoMc
+‏
+‏𝕏  ·  @shin_persian
+02:05
+1405/09/06
+
+
+
+
+src :@OSINTWarfare
+[عکس]
+‏Iran's 358 loitering surface-to-air missile system was displayed atop a camouflage-covered mound at the "Miracle of Science and Faith" exhibition in Mashhad, Iran, which opened on November 25, 2026.
+‏
+‏The 358 missile, placed on a display stand on the left side of the exhibit, is a subsonic, turbojet-powered loitering munition designed to patrol an area and engage low- to medium-altitude aerial targets, including drones and helicopters. It relies on passive optical and infrared sensors rather than active radar for target acquisition and engagement. The system has been used to shoot down several U.S. and Israeli unmanned aerial vehicles (UAVs).
+‏
+‏The display also includes the system's control and communications equipment: a ruggedized laptop/console unit on the central table and a tripod-mounted dish antenna on the right, identified in the accompanying caption as the uplink and downlink equipment.
+02:03
+1405/09/06
+
+
+
+
 src :@Middle_East_Spectator
 ‏—❗️🇮🇷/☢️ BREAKING: Iran’s new underground nuclear site at Behjatabad is 150-200 meters deep, making it even deeper than Pickaxe Mountain. According to Western intelligence estimates, it could become operational by mid-2027 – Israeli Channel 14  @Middle_East_Spectator
 01:53
@@ -85,7 +122,7 @@ src :@Alibk3
 
 
 src :@naya_foriraq
-‏دوي صافرات الانذار في مدينة ابها وخميس مشيط  السعودية
+‏🇸🇦دوي صافرات الانذار في مدينة ابها وخميس مشيط  السعودية.
 ‏
 ‏https://t.me/naya_foriraq
 01:40
@@ -296,7 +333,7 @@ src :@intelslava
 
 
 src :@naya_foriraq
-‏انفجارات تدوي في المنطقة الجنوبية السعودية
+‏🇸🇦انفجارات تدوي في المنطقة الجنوبية السعودية.
 ‏
 ‏https://t.me/naya_foriraq
 01:02
@@ -2544,34 +2581,6 @@ src :@Shin_Persian
 src :@naya_foriraq
 ‏🇮🇷المتحدث باسم القوات المسلحة الإيرانية: وفي إشارة إلى الادعاءات الأخيرة للجيش الكويتي بشأن وقوع هجوم من قبل قوات إيرانية على أحد المراكز الحيوية في البلاد، نفى بشكل قاطع وكامل هذه الادعاءات، وأعلن أنه لم تقع أي عمليات عسكرية أو هجومية من قبل القوات المسلحة…
 21:13
-1405/09/05
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏2 UAVs launched from Omidiyeh.
-‏
-‏21:08 Local time / 1738Z
-‏Khuzestan Province, Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/NSLQJG0jNx3r51QpAWfBcSyg
-‏
-‏ترجمه خودکار فارسی
-‏
-‏۲ پهپاد از امیدیه به پرواز درآمدند.
-‏
-‏۲۱:۰۸ به وقت محلی / 1738Z (۲۱:۰۸ به وقت تهران)
-‏استان خوزستان، ایران
-‏
-‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/NSLQJG0jNx3r51QpAWfBcSyg
-‏
-‏𝕏  ·  @shin_persian
-21:10
 1405/09/05
 
 
@@ -5134,14 +5143,6 @@ src :@warmonitors
 
 
 
-src :@OSINTWarfare
-‏One battery is estimated to cost around $2.7 billion, while one missile is estimated to cost between $15 million and $41 million. This is crazy!
-15:16
-1405/09/05
-
-
-
-
 src :@rus_cosmos
 [عکس]
 ‏آمریکا به اسپیس‌ایکس برای پرتاب یک میلیون ماهواره به فضا مجوز داد
@@ -5251,14 +5252,6 @@ src :@BellumActaNews
 
 
 
-src :@OSINTWarfare
-‏🇺🇸⚡️ — The U.S. Army has officially fielded its first battery of the Long-Range Hypersonic Weapon (LRHW), also known as Dark Eagle.  Lieutenant General Frank Lozano confirmed on November 19 that the first battery of the ground-based hypersonic missile system…
-14:33
-1405/09/05
-
-
-
-
 src :@didarnews1
 ‏🔴 رهبر انقلاب: بسیج باید فرصت‌آفرین و گره‌گشا باشد
 ‏
@@ -5273,15 +5266,6 @@ src :@didarnews1
 ‏didarnews.ir
 ‏@didarnews1| @didarnewsir
 14:33
-1405/09/05
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏Iran has unveiled the warhead of its Kheibar Shekan ballistic missile.
-14:23
 1405/09/05
 
 
@@ -5331,29 +5315,6 @@ src :@KayhanLondonChannel
 ‏ 
 ‏https://kayhan.london/2026/11/26/413466/
 14:14
-1405/09/05
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏🇺🇸⚡️ — The U.S. Army has officially fielded its first battery of the Long-Range Hypersonic Weapon (LRHW), also known as Dark Eagle.
-‏
-‏Lieutenant General Frank Lozano confirmed on November 19 that the first battery of the ground-based hypersonic missile system is fully deployed and ready for operational use.
-‏
-‏Each battery consists of:
-‏
-‏• Four trailer-mounted transporter-erector-launchers (TELs), each carrying two missiles.
-‏
-‏• A battery command post.
-‏
-‏• Support vehicles.
-‏
-‏The missile travels at speeds exceeding Mach 5 and has a reported range of up to 2,775 km.
-‏
-‏@OSINTWarfare
-14:09
 1405/09/05
 
 
@@ -5620,15 +5581,6 @@ src :@samueltarikh
 ‏‏کانال تخصصی انرژی- عبداله باباخانی
 ‏‏۲۶ نوامبر ۲۰۲۶
 12:56
-1405/09/05
-
-
-
-
-src :@OSINTWarfare
-[عکس]
-‏A new variant of Iran's Paveh cruise missile.
-12:36
 1405/09/05
 
 
