@@ -1,9 +1,63 @@
-src :@intelslava
+src :@Alibk3
 [عکس]
-‏🇷🇺⚡️ — The Deputy Commander-in-Chief of the Aerospace Forces for Armaments, Lieutenant General Yury Grekhov, has been arrested for accepting a bribe in a particularly large amount.
+‏‏صور الأقمار الصناعية تُرصد الحريق الذي اندلع في خزانات التخزين في راس تنورة، أكبر مصفاة تابعة لشركة أرامكو السعودية.
+15:52
+1405/09/05
+
+
+
+
+src :@rus_cosmos
+[عکس]
+‏اولین پیاده‌روی فضایی روباتیک 
 ‏
-‏@Intelslava
-15:46
+‏قرار است در ایستگاه فضایی بین‌المللی ، آزمایش «تلدرُوید» انجام شود که طی آن یک ربات انسان‌نما به کیهان‌نوردان در انجام فعالیت‌های داخل و خارج ایستگاه کمک می‌کند.
+‏
+‏ هدف اصلی این ربات، برعهده گرفتن کارهای تکراری و خطرناک برای کاهش فشار کاری و ریسک‌های مأموریت است. 
+‏
+‏این ربات که با فضاپیمای باری «پروگرس ام‌اس-۳۶» به ایستگاه منتقل می‌شود، دارای دو بازو و ۳۰ درجه آزادی حرکتی است و می‌تواند با ابزارهای معمول مانند چکش، آچار جغجغه‌ای و کارابین کار کند؛ همچنین برای مقاومت در برابر خلأ، تشعشعات و تغییرات شدید دما طراحی شده است.
+‏
+‏ تلدرُوید در سه حالت قابل کنترل است: هدایت مستقیم کیهان‌نورد از طریق اسکلت بیرونی، کنترل نظارتی با تعیین وظیفه و اجرای مستقل آن توسط ربات با کمک بینایی ماشین، و حالت خودکار بر اساس برنامه‌های از پیش تعیین‌شده. 
+‏
+‏
+‏@rus_cosmos
+15:52
+1405/09/05
+
+
+
+
+src :@defence_news
+[عکس]
+‏ورود چین به بازار ارتقای تانک های روسی؟
+‏
+‏اخیرا در محوطه صنایع نورینکو چین تانکی رویت شده که پیشتر در ماه جولای سال 2025 در خیابان های شهر بائوتو در منطقه مغولستان داخلی نمونه ای نزدیک یا مشابه آن رویت شده بود.
+‏
+‏این تانک در حقیقت نمونه ای از T-72 با برجک تغییر یافته است که عمده به روزرسانی آن معطوف به بخش برجک بوده و شاسی حداقل از نظر حفاظتی تغییر خاصی ندارد. این مورد میتواند گزینه ای برای به روزرسانی های نسبتا ارزان جهت تانک های تی 72 باشد که در حال حاضر هزاران دستگاه از نمونه های مختلف آن در کشورهای دنیا در حال استفاده است.
+‏
+‏البته چین در این بازار کار راحتی در پیش ندارد و رقبای متعددی هم در این خصوص وجود دارد که بعضا صاحب نام هم هستند. تانک مورد اشاره حتی میتواند گزینه ای برای ارائه به روس ها باشد به ویژه از این جهت که در بحث در اختیار داشتن شاسی مناسب از وضعیت به مراتب بهتری نسبت به تامین برجک مناسب برخوردارند.
+‏
+‏#چین
+‏#ارتقاء
+‏
+‏@SNTankograd
+15:48
+1405/09/05
+
+
+
+
+src :@Artemis_Force
+‏نفت برنت دوباره تا ۹۵ دلار بالا رفت.
+15:47
+1405/09/05
+
+
+
+
+src :@defence_news
+‏نفت برنت دوباره تا ۹۵ دلار بالا رفت.
+15:47
 1405/09/05
 
 
@@ -31,7 +85,7 @@ src :@naya_foriraq
 
 src :@wfwitness
 [عکس]
-‏⚡🇱🇧🇮🇱 Airstrike reported in Haris, southern Lebanon.  @wfwitness
+‏⚡🇱🇧🇮🇱 Airstrike reported in Haris, southern Lebanon.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
 15:40
 1405/09/05
 
@@ -4070,14 +4124,6 @@ src :@Shin_Persian
 
 
 
-src :@Alibk3
-‏وصول تحذيرات وصفارات الإنذار عبر الهواتف المحمولة في العاصمة السعودية الرياض.
-00:33
-1405/09/05
-
-
-
-
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -4810,40 +4856,6 @@ src :@selena_updates
 ‏
 ‏Nobody, presumably. Accountability is apparently a concept best reserved for the accused.
 22:01
-1405/09/04
-
-
-
-
-src :@defence_news
-‏کسی نمی گوید در همان یکی دو سالی که آن برجام لنگ در هوا بر پا بود رشد اقتصادی در کشور چقدر بود ، نمی گویند زاد و ولد چقدر افزایش پیدا کرد و هزار حرف دیگر ! 
-‏
-‏از قدیم گفتن می خواهی یک چیزی را از بین ببری بده یک آدم بی اطلاع ازش دفاع کند ! اگر برنامه جمع کردن توان اتمی است ، جمع کنید خواهشا ما هم تکلیف خودمان را بدانیم ، اگر هم قرار است آن قارچ مدل وطنی را ببینیم ، آزمایشش کنید و ما را خلاص کنیم ببینیم دیگر درد و مرض یک سری چیست ؟!!!!!!!
-‏
-‏تا ما را عریان و استخوان به پشت و بیمار و خاک بر سر نبینند ظاهرا راضی نمی شوند.
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-21:58
-1405/09/04
-
-
-
-
-src :@defence_news
-‏همین چینی ها بدون سلاح اتمی در جنگ کره سنگین ترین شکست ها را به ارتش آمریکا و متحدانش وارد کردند ، ویتنامی ها بدون سلاح اتمی گردن آمریکایی ها را شکستند ، همین مملکت ما ، همین ایران عزیز ما اگر به مواردی در این 35 سال اخیر توجه میشد ، اگر نیروی هوایی درست و درمانی داشتیم ، اگر توان فضایی بهتری داشتیم ، اگر روی موشک های یک سری کارها میشد می گفتیم به شما نتیجه این جنگ های اخیر چطور می شد !
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-21:55
-1405/09/04
-
-
-
-
-src :@defence_news
-‏اگر مثال می خواهید بزنید ، بگویید اوکی ! چینی ها رفتند بمب اتم را تست کردند ، موشک قاره پیما ساختند ، بعد از مرگ مائو و در دوره دنگ شیائوپینگ رفتند و به قولی فرمان را هم در اقتصاد داخلی و هم سیاست خارجی چرخاندند ، البته خیلی جالب است که باز هم نمی گویید یکی از دلایل اصلی باز شدن آغوش غرب به روی چین نه به خاطر بمب اتمی آنها بلکه به خاطر باز کردن یک شکاف بزرگ در جهان کمونیسم بود ؟!!!!!
-‏
-‏🇮🇷📝 @defence_news 📝🇮🇷
-21:53
 1405/09/04
 
 
@@ -6006,41 +6018,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 16:01
-1405/09/04
-
-
-
-
-src :@samueltarikh
-‏رهبر حزب دموکرات‌ها در اسرائیل که در ائتلاف آیزنکوت قرار دارد، اعلام کرد:
-‏
-‏در پی پیشرفت‌ها در مذاکرات تشکیل دولت وحدت ملی بین آیزنکوت و نتانیاهو،
-‏از ائتلاف با آیزنکوت برای تشکیل دولت عقب نشینی میکند و این امر باعث می‌شود تشکیل دولت توسط آیزنکوت دیگر غیر ممکن باشد مگر تشکیل دولت وحدت ملی با همکاری نتانیاهو.
-15:51
-1405/09/04
-
-
-
-
-src :@selena_updates
-[عکس]
-‏In an unprecedented move, Iraqi Prime Minister Ali al-Zaidi has ordered Baghdad to assume direct control of border crossings, oil exports and federally owned oilfields under Kurdish security control in Kirkuk, Nineveh, Diyala and Salahuddin, significantly challenging Kurdish autonomy.
-‏
-‏The government also dismissed senior security and border officials, citing investigations into large-scale oil smuggling and unauthorized cross-border activity.
-‏
-‏Kurdish leaders fiercely rejected the decision, warning against the use of military force. Kurdish forces are now mobilizing and blocking roads with engineering equipment to prevent Iraqi troops from entering Kurdish-controlled areas, while Iraqi military units are advancing toward Kirkuk. 
-‏
-‏Iraq’s Supreme Federal Court ruled today that Prime Minister Ali al-Zaidi’s measures are constitutional. It confirmed that the federal government has sole authority over border security, oil resources, financial policy, and customs across Iraq, including the Kurdistan Region.
-‏
-‏The move is highly likely to be inspired by the recent Syrian and Turkish governments' successful efforts in consolidating control over Kurdish-held territory.
-15:50
-1405/09/04
-
-
-
-
-src :@samueltarikh
-[عکس]
-‏ترامپ در مصاحبه با نیویورک‌پست گفت جنگ با ایران تا پایان ماه ژانویه تأمین مالی شده است. او هشدار داد دموکرات‌ها که از ژانویه کنترل کنگره را در دست می‌گیرند، ممکن است این درگیری را متوقف کنند و «یک پیروزی کامل را به شکست تبدیل کنند».
-15:48
 1405/09/04
