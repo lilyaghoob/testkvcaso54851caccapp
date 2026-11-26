@@ -2977,17 +2977,6 @@ src :@MilitarryWorld
 
 
 
-src :@Alibk3
-[عکس]
-‏المتحدث باسم الحرس الثوري، العميد محبي: 
-‏
-‏القوات المسلحة على أهبة الاستعداد بنسبة 100% لمواجهة أي تهديد، على العدو مراجعة حساباته وإعادة تقييم مسار الأحداث.
-20:56
-1405/09/04
-
-
-
-
 src :@selena_updates
 [عکس]
 ‏The Iranian rial plunged to another historic low today, with the US dollar reaching approximately 2.9 million rials (290,000 tomans) on Tehran’s unofficial currency market, extending its sharp decline for a second consecutive day. 
