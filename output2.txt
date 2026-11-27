@@ -1067,16 +1067,6 @@ src :@intelslava
 
 
 
-src :@IranintlTV
-[فایل]
-‏🎧نسخه صوتی برنامه با کامبیز حسینی | ناگفته‌های مردم ایران در تریبون آزاد «برنامه»
-‏@iranintlTV
-01:04
-1405/09/06
-
-
-
-
 src :@intelslava
 ‏🇪🇺🇺🇦⚡️ — EU leaders are meeting in Brussels to discuss, among other issues, financing a €45 billion loan to Ukraine.
 ‏
