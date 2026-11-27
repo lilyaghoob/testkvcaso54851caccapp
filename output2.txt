@@ -1,3 +1,14 @@
+src :@Minas_Tirith2024
+[ویدئو]
+‏گودال عظیم حاصل از اصابت بمب 3 تنی FAB-3000 روسی به شهر اسلاویانسک اوکراین 
+‏
+‏@Minas_Tirith2024
+10:48
+1405/09/06
+
+
+
+
 src :@Farsi_Iranwire
 [عکس]
 ‏«وحید شریعت»، رییس انجمن روان‌پزشکان ایران، با اشاره به افزایش مصرف الکل در یک دهه گذشته و افزایش موارد مسمومیت ناشی از مصرف بیش‌ازحد آن، خواستار توسعه مراکز تخصصی ترک الکل و تغییر سیاست‌های حذفی به رویکردهای مبتنی بر کاهش آسیب شد.
@@ -6,6 +17,17 @@ src :@Farsi_Iranwire
 ‏
 ‏@Farsi_Iranwire
 10:47
+1405/09/06
+
+
+
+
+src :@ClashReport
+[عکس]
+‏Türkiye has scrapped visa-free travel for Montenegrin citizens in a reciprocal move after Montenegro imposed visa requirements on Turkish nationals on November 1.
+‏
+‏The decree, signed by President Erdogan, took effect on November 27, suspending an 18-year visa waiver for Montenegrin ordinary passport holders.
+10:46
 1405/09/06
 
 
@@ -5496,14 +5518,6 @@ src :@rus_cosmos
 ‏
 ‏@rus_cosmos
 15:12
-1405/09/05
-
-
-
-
-src :@Minas_Tirith2024
-‏نفت برنت دوباره تا ۹۵ دلار بالا رفت.
-15:08
 1405/09/05
 
 
