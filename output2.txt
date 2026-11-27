@@ -1,3 +1,50 @@
+src :@tglobaleye
+[عکس]
+‏#BREAKING | 🇬🇧 — UK Department for Work and Pensions services taken offline due to a "cyber incident" affecting its systems
+‏
+‏🌐 — The Global Eye | Subscribe ✈️
+13:31
+1405/09/06
+
+
+
+
+src :@Indypersian
+[عکس]
+‏♦️عباس عراقچی، وزیر امور خارجهٔ جمهوری اسلامی ایران، روز پنجشنبه پنجم آذر در تماس تلفنی با چو هیون، همتای کره‌جنوبی‌اش، گفت حضور نظامی خارجی در منطقهٔ خلیج فارس به‌جای کمک به صلح، تنش را بیشتر می‌کند.
+‏به گزارش رویترز، این گفت‌وگو در حالی انجام شد که سئول آمادهٔ گسترش حوزهٔ عملیاتی یک یگان دریایی خود به آب‌های جنوب دریای عمان است.
+‏سفارت ایران در سئول روز جمعه ششم آذر در پیامی در ایکس اعلام کرد عراقچی در این گفت‌وگو گفت حضور نیروهای نظامی خارجی «به‌جای آن، تنش را بیشتر و دامنهٔ درگیری را گسترده‌تر می‌کند». بر اساس این بیانیه، وزیر خارجهٔ کره‌جنوبی نیز در این گفت‌و‌گو بار دیگر تأکید کرد سئول قصد پیوستن به هیچ جنگی یا اعزام نیرو به خلیج فارس را ندارد.
+‏
+‏در مقابل، وزارت خارجهٔ کره‌جنوبی نیز در بیانیه‌ای اعلام کرد چو به عراقچی گفته است مأموریت این یگان دریایی تضمین امنیت شهروندان کره جنوبی و حفاظت از منافع اقتصادی این کشور است.
+‏
+‏@indypersian
+13:29
+1405/09/06
+
+
+
+
+src :@wfwitness
+[عکس]
+‏⚡️🇮🇷🇺🇸 Commander of the Iranian Navy Rear Admiral Shahram Irani claimed that an experimental missile struck the US Abraham Lincoln aircraft carrier during the early stages of the Iran war:
+‏
+‏"In the early days of the war, the brave soldiers of our country tested their first untested missile, and this missile struck the heart of the Abraham Lincoln aircraft carrier, forcing the enemy to seek refuge on the shores of southern countries."
+‏
+‏@wfwitness
+13:28
+1405/09/06
+
+
+
+
+src :@rnintel
+‏🇫🇷🇩🇪🇪🇺⚡️- France entered a recession last quarter according to the INSEE. It is the third EU country to enter a recession this year after Austria and Lithuania. German Q3 growth was downgraded to just +0.1% earlier this week.
+13:28
+1405/09/06
+
+
+
+
 src :@IranintlTV
 [عکس]
 ‏حمیدرضا حاجی‌بابایی، نایب‌رییس مجلس، در سخنرانی در جمع حامیان حکومت در شهرستان هندیجان در استان خوزستان، گفت: «مردم ممکن است از شرایط اقتصادی و برخی کمبودها ناراضی باشند، اما به‌خوبی دریافتند که نباید در برابر دشمن تسلیم شوند و باید در جبهه حق بایستند.»
@@ -1382,19 +1429,6 @@ src :@didarnews1
 
 
 
-src :@ClashReport
-[عکس]
-‏Agence France-Presse (AFP) has shut down its content platform following a cyberattack. 
-‏
-‏The agency is investigating who was behind the intrusion and offering alternative services to subscribers. 
-‏
-‏France’s cybersecurity chief warned that the country faces an “unprecedented” level of cyber threats, amid a wave of attacks across Europe.
-10:58
-1405/09/06
-
-
-
-
 src :@Indypersian
 [عکس]
 ‏♦️بنیامین فرجی، ملی‌پوش تنیس روی میز ایران، به همراه آلن کورماگلیف از قزاقستان با کسب مدال برنز رقابت‌های دونفرهٔ قهرمانی جوانان جهان، نخستین مدال تاریخ ایران در رشتهٔ ورزشی را به دست آورد.
@@ -2090,15 +2124,6 @@ src :@jangaavaran1390
 
 
 
-src :@wfwitness
-[عکس]
-‏⚡️🇾🇪🇾🇪 Houthi snipers are applying severe pressure on the Al-Masrakh district of Taiz with multiple casualties reported on the PLC's side as of now and an increasing rate of Houthi attacks on the area.  @wfwitness  💧 Rainbet.com the #1 Non-KYC Crypto Casino…
-09:33
-1405/09/06
-
-
-
-
 src :@tabzlive
 ‏🇸🇦❌🇾🇪 — Al-Masirah reports eleven Yemenis, most being children that sold refreshments, were killed by Royal Saudi Air Force airstrikes against the residential building they were at in At Turbah, southwestern Ansarallah-controlled Yemen.
 ‏
@@ -2573,19 +2598,6 @@ src :@Indypersian
 
 
 
-src :@Indypersian
-[عکس]
-‏♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، روز پنجشنبه پنجم آذر با تاکید بر ضرورت برقراری صلح در خاورمیانه گفت که در صورت دستیابی جمهوری اسلامی ایران به سلاح هسته‌ای، اسرائیل و دیگر کشورهای منطقه در معرض حملات هسته‌ای قرار خواهند گرفت.
-‏ترامپ با اشاره به احتمال وقوع فاجعه‌ای هسته‌ای گفت: «آن‌ها شهرهای ما را نیز هدف قرار خواهند داد. من آن‌ها را شناخته‌ام و صریح بگویم، دیوانه‌اند. به همین دلیل اجازه نخواهیم داد سلاح هسته‌ای داشته باشند.»
-‏رئیس‌جمهوری آمریکا همچنین گفت که ایران توانایی هدف قرار دادن اروپا را دارد، اما از توانایی رسیدن به خاک آمریکا برخوردار نیست. او افزود که اگر ایالات متحده قدرتمند و هوشمندانه عمل نمی‌کرد، چنین اتفاقی نیز رخ می‌داد.
-‏
-‏@indypersian
-05:14
-1405/09/06
-
-
-
-
 src :@mwarmonitor
 ‏🔴ترامپ در تماس با نظامیان آمریکایی به مناسبت روز شکرگزاری گفت:
 ‏
@@ -2607,20 +2619,6 @@ src :@bricsnews
 ‏
 ‏@BRICSNews
 04:37
-1405/09/06
-
-
-
-
-src :@Indypersian
-[عکس]
-‏♦️آکسیوس روز پنجشنبه پنجم آذر گزارش داد که دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در گفت‌وگو با خبرنگاران اعلام کرد که در چند روز گذشته با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، گفت‌وگو کرده است.
-‏بر اساس این گزارش، ترامپ دربارهٔ ایران گفت: «تلاش می‌کنیم به آن‌ها فرصتی بدهیم تا عاقلانه عمل کنند. اگر دست به اقدام نظامی بزنیم، قطعاً کوه کلنگ را هدف قرار خواهیم داد. می‌توانیم این موضوع را به آن‌ها بگوییم، زیرا واقعاً هیچ کاری از دستشان برنمی‌آید. اما تاکنون هیچ فعالیت واقعی در آنجا مشاهده نکرده‌ایم.»
-‏رئیس‌جمهوری آمریکا همچنین دربارهٔ احتمال دستیابی به توافق با ایران افزود: «خوب می‌شود اگر به توافق برسند، اما شخصاً فکر نمی‌کنم چنین کاری کنند.»
-‏
-‏
-‏@indypersian
-04:29
 1405/09/06
 
 
