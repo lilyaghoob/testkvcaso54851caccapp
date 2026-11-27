@@ -1668,17 +1668,6 @@ src :@Indypersian
 
 
 
-src :@ClashReport
-[عکس]
-‏Georgia Senator Jon Ossoff has visited South Carolina, the first state on the Democrats’ 2028 presidential primary calendar, amid speculation about a potential White House bid.
-‏
-‏Source: MS NOW
-22:51
-1405/09/05
-
-
-
-
 src :@didarnews1
 ‏🔴پاتریک وینتور دبیر دیپلماتیک روزنامه گاردین:
 ‏
@@ -1814,15 +1803,6 @@ src :@RASTAKHIZ_PERSIAN
 
 
 
-src :@ClashReport
-[عکس]
-‏Turkish football clubs, including Galatasaray, Fenerbahce and Trabzonspor, condemned Georgian police for using excessive force against Besiktas fans who displayed a Palestinian flag during a Europa League match against Israel’s Hapoel Beer-Sheva.
-22:34
-1405/09/05
-
-
-
-
 src :@P_raetorio
 [عکس]
 ‏«با وزیر امور خارجه ایران صحبت کردم، ایشان به من گفتند که پهپادی که منجر به کشته شدن دو تکنسین ایتالیایی در #کویت شد، به هیچ وجه از سوی نیروهای مسلح ایران پرتاب نشده و از ایران خارج نشده است. همچنین با وزیر امور خارجه کویت نیز صحبت کردم. بررسی‌ها نشان می‌دهد که این پهپاد در ایران ساخته شده است و ما می‌دانیم که گروه‌های شبه‌نظامی متعددی وابسته به ایران نیز از این نوع پهپادها استفاده می‌کنند. وزیر امور خارجه ایران اعلام کرده است که آماده است در یک کمیسیون مشترک تحقیقاتی شرکت کند تا مسئولیت پرتاب پهپادی که منجر به کشته شدن دو شهروند ما شد، مشخص شود.»
@@ -1831,14 +1811,6 @@ src :@P_raetorio
 ‏
 ‏@P_raetorio
 22:33
-1405/09/05
-
-
-
-
-src :@ClashReport
-‏Georgian police attacked Beşiktaş fans waving Palestinian flags during tonight’s UEFA Europa League match against Israel’s Hapoel Beer Sheva in Batumi, attempting to prevent the flags from being displayed.
-22:32
 1405/09/05
 
 
