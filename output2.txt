@@ -1,3 +1,12 @@
+src :@WAR_ROOM_NEWS
+[عکس]
+‏درود و صبح آدینه همراهان عزیز بخیر
+09:55
+1405/09/06
+
+
+
+
 src :@Alibk3
 ‏مسؤول أمني إسرائيلي رفيع ليديعوت أحرونوت: 
 ‏
@@ -10,7 +19,7 @@ src :@Alibk3
 
 src :@thewarreporter
 [عکس]
-‏🇯🇴🇱🇧 — The Jordanian Court of Cassation has issued a final ruling concerning an alleged Hezbollah plot to establish covert infrastructure in the Jordanian city of Aqaba, near the Israeli border, under the guise of an investment project to establish an equestrian club and academy.
+‏🇯🇴🇱🇧🇱🇧 — The Jordanian Court of Cassation has issued a final ruling concerning an alleged Hezbollah plot to establish covert infrastructure in the Jordanian city of Aqaba, near the Israeli border, under the guise of an investment project to establish an equestrian club and academy.
 ‏
 ‏The court convicted Yasser Marji, a dual Lebanese-French national, of acts undermining public order and endangering public safety, sentencing him to six years of hard labor.
 ‏
@@ -4503,14 +4512,6 @@ src :@guard_warriors
 
 
 
-src :@WAR_ROOM_NEWS
-‏🔴ارتش کویت از حمله ای پهپادی از سوی ایران به این کشور خبر داده که با مجروحانی همراه است  🆔@WAR_ROOM_NEWS
-17:43
-1405/09/05
-
-
-
-
 src :@defence_news
 ‏برخی گزارش‌ها منتشر شده این دو ایتالیایی در سامانه پدافندی ساخت راین متال که در کویت حضور داشت مورد اصابت قرار گرفته و کشته شدند.
 ‏
@@ -6126,17 +6127,4 @@ src :@KayhanLondonChannel
 ‏ 
 ‏بحران کمبود سوخت و انرژی در زمستان امسال عمیق‌تر شده و سبب قطع کامل گاز بخشی از صنایع و جیره‌بندی برق و گاز در بخش‌های مختلف صنعتی، کشاورزی و خانگی خواهد شد.
 09:58
-1405/09/05
-
-
-
-
-src :@VahidOnline
-[عکس]
-‏پایگاه خبری فرارو اعلام کرد، در آغاز معاملات روز پنجشنبه ۵ آذر، نرخ دلار به ۲۹۲ هزار و ۸۹۰ رسید.
-‏قیمت دلار آمریکا در بازار آزاد تهران روز چهارشنبه چهارم آذر ۱۴۰۵ رکورد تازه‌ای ثبت کرد و در بازار فردوسی تهران، به ۲۹۰ هزار و ۵۰۰ تومان رسید.
-‏@VahidOOnLine
-‏
-‏📡 @VahidOnline
-09:55
 1405/09/05
