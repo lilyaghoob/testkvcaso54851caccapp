@@ -1,3 +1,31 @@
+src :@MilitarryWorld
+‏🔴وال استریت ژورنال: مسکو به اعضای ناتو هشدار داد در صورت تهدید منافع مسکو، حتی بدون حمله مستقیم به خاک روسیه، ممکن است به حملات هسته‌ای پیش‌دستانه متوسل شود
+‏
+‏@MilitarryWorld | Parsa
+19:06
+1405/09/06
+
+
+
+
+src :@thewarreporter
+‏🇰🇼🇮🇹🇮🇷 — Iranian Foreign Minister Abbas Araqhchi held separate phone calls with his Kuwaiti and Italian counterparts, denying Tehran's involvement in the drone attack on Kuwait that killed two Italian nationals.  Araqhchi also reaffirmed Iran's readiness to…
+19:05
+1405/09/06
+
+
+
+
+src :@WAR_ROOM_NEWS
+‏به گزارش رویترز، هکرها به کلاد وان، پلتفرم اصلی رایانش ابری نیروی هوایی آمریکا نفوذ کرده‌اند این نفوذ طی یک ماه گذشته و در جریان ارتقای سامانه شناسایی شده و موجب بروز اختلالاتی در بخش‌هایی از این پلتفرم شده است در پی این حادثه تحقیقاتی با مشارکت فرماندهی سایبری ایالات متحده آغاز شده است این حمله می‌تواند اطلاعات حساس نظامی، داده‌های پرسنلی و اطلاعات مربوط به پشتیبانی و تدارکات لجستیکی ارتش آمریکا را در معرض خطر قرار دهد با این حال هویت عاملان نفوذ، ابعاد کامل حمله و احتمال سرقت اطلاعات همچنان مشخص نیست
+‏
+‏🆔@WAR_ROOM_NEWS
+19:05
+1405/09/06
+
+
+
+
 src :@OSINTWarfare
 [عکس]
 ‏🇨🇳⚡️ — A Xi'an H-6K strategic bomber (S/N 10097) from the 22nd Bomber Regiment of the PLA Southern Theater Command Air Force's 8th Division arrived at Zhuhai Jinwan Airport carrying two air-launched YJ-21 (KD-21/2PZD-21) ballistic missiles (ALBMs) for the 16th China International Aviation & Aerospace Exhibition, also known as Airshow China or the Zhuhai Airshow.
@@ -10,9 +38,9 @@ src :@OSINTWarfare
 
 
 src :@WAR_ROOM_NEWS
-‏تصاویر ماهواره‌ای سنتینل-۲، تصاویر با وضوح بالای روز گذشته را تأیید می‌کنند و نشان می‌دهند که حملات دو روز پیش حوثی‌ها به تأسیسات آرامکوی عربستان در رأس تنوره، به انهدام دو مخزن بزرگ ذخیره نفت خام منجر شده است. رأس تنوره بزرگ‌ترین پایانه صادرات نفت خام جهان به شمار می‌رود
+‏تصاویر ماهواره‌ای سنتینل-۲ تأیید می‌کند حملات دو روز پیش حوثی‌ها به تأسیسات آرامکوی عربستان در رأس تنوره، به انهدام دو مخزن بزرگ ذخیره نفت خام منجر شده است. رأس تنوره بزرگ‌ترین پایانه صادرات نفت خام جهان به شمار می‌رود
 ‏
-‏@WAR_ROOM_NEWS
+‏🆔@WAR_ROOM_NEWS
 19:00
 1405/09/06
 
@@ -3180,16 +3208,6 @@ src :@Indypersian
 
 
 
-src :@MilitarryWorld
-‏🔴ترامپ: ما از تلاش‌های نخست‌وزیر عراق برای پایان دادن به حضور سلاح‌های خارج از کنترل دولت، حمایت می‌کنیم
-‏
-‏@MilitarryWorld | Parsa
-14:10
-1405/09/06
-
-
-
-
 src :@Intelsky
 ‏The owner of this channel has been inactive for the last 11 months. If they remain inactive for the next 10 days, they may lose their account and admin rights in this channel. The contents of the channel will remain accessible for all users.
 14:09
@@ -6145,19 +6163,4 @@ src :@rnintel
 ‏
 ‏And with that, the Rerum Novarum admin team would like to wish our supporters a Happy Thanksgiving!
 19:07
-1405/09/05
-
-
-
-
-src :@Artemis_Force
-[عکس]
-‏ژاپن از تلاش کشتی‌های چینی برای نزدیک شدن به یک کشتی صید در نزدیکی جزایر مورد مناقشه خبر داد.
-‏
-‏گارد ساحلی ژاپن گزارش داد که امروز، حدود ساعت 7:42، دو فروند کشتی گارد ساحلی چین وارد آب‌های منطقه‌ای در منطقه جزایر سنکاكو (دیائوی‌دائو) شدند و تلاش کردند به یک کشتی صید ژاپنی نزدیک شوند.
-‏
-‏شناور های گشتی ژاپنی بارها از کشتی‌های چینی خواستند که منطقه را ترک کنند،به گفته گارد ساحلی ژاپن، این پنجمین مورد از این دست از ابتدای سال است. علاوه بر این، در ٩ نوامبر، چهار کشتی دولتی چینی نیز وارد این آب‌های مورد مناقشه شدند. در مجموع، اینگونه ورودها در سال جاری در طول 18 روز ثبت شده‌اند.
-‏
-‏@artemis_force
-19:03
 1405/09/05
