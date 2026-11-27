@@ -1,3 +1,55 @@
+src :@selena_updates
+[عکس]
+‏Hackers breached Cloud One, the US Air Force’s flagship cloud computing platform, potentially compromising sensitive military operational, personnel and logistics data. 
+‏
+‏The intrusion was discovered during system upgrades within the past month and has disrupted operations, including application migrations and software updates.
+‏
+‏The platform supports critical systems, including North American air-defense radar integration and munitions tracking across more than 200 US Air Force locations worldwide. US Cyber Command has been called in to assess the damage.
+16:46
+1405/09/06
+
+
+
+
+src :@jangaavaran1390
+[عکس]
+‏انگلستان بخشی از بودجه‌ای را که برای تولید موشک کروز پنهانکار پیشرفته استروم شادو در نظر گرفته بود هم اکنون صرف تولید موشک‌های کروز ارزان قیمت ولی به تعداد بالاتر خواهد کرد 
+‏ایالات متحده نیز جدیداً دو موشک کروز ارزان قیمت توسعه و به سرعت به خدمت گرفته است 
+‏توسعه و خرید سلاح‌های ارزان قیمت به تعداد بالا از تجارب جنگ اوکراین است
+16:45
+1405/09/06
+
+
+
+
+src :@Shin_Persian
+‏Shin ✓ @hey_itsmyturn
+‏
+‏AA activity near Kut Abdollah, Ahvaz.
+‏
+‏16:42 Local time / 1312Z
+‏Khuzestan Province, Iran
+‏
+‏[Delayed Post via FromIran · 120-second delay]
+‏https://fromiran.sh1n.org/incidents/SI7Q_WH8iRHzvsi5zdBfR4Y2
+‏
+‏ترجمه خودکار فارسی
+‏
+‏فعالیت پدافند هوایی در نزدیکی کوت عبدالله، اهواز.
+‏
+‏۱۶:۴۲ به وقت محلی / 1312Z (۱۶:۴۲ به وقت تهران)
+‏استان خوزستان، ایران
+‏
+‏[انتشار با تأخیر از طریق FromIran · ۱۲۰ ثانیه تأخیر]
+‏https://fromiran.sh1n.org/incidents/SI7Q_WH8iRHzvsi5zdBfR4Y2
+‏
+‏𝕏  ·  @shin_persian
+16:44
+1405/09/06
+
+
+
+
 src :@Shin_Persian
 ‏Shin ✓ @hey_itsmyturn
 ‏
@@ -677,19 +729,6 @@ src :@MilitarryWorld
 ‏در جنگ بعدی حتماً پایگاه های آمریکا در اروپا را هدف قرار خواهیم داد.
 ‏
 ‏@MilitarryWorld | Parsa
-15:51
-1405/09/06
-
-
-
-
-src :@selena_updates
-[عکس]
-‏Britain's Department for Work and Pensions (DWP) took major online services offline Friday after detecting a cybersecurity incident affecting its systems. The disruption prevented users from accessing Universal Credit accounts, checking state pensions and applying for disability benefits. 
-‏
-‏The department is working with the National Cyber Security Centre (NCSC) and Government Cyber Coordination Centre to investigate and restore services.
-‏
-‏Officials confirmed that regular pension and benefit payments will continue unaffected.
 15:51
 1405/09/06
 
@@ -2375,17 +2414,6 @@ src :@Alibk3
 
 
 
-src :@ClashReport
-[عکس]
-‏Trump:
-‏
-‏We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state, and to build a united, prosperous, and strong Iraq that makes its own political decisions.
-13:57
-1405/09/06
-
-
-
-
 src :@Farsi_Iranwire
 [عکس]
 ‏بنابر تصاویر و گزارش‌های منتشرشده در شبکه‌های اجتماعی، درهای خاوران امروز جمعه ۶آذر۱۴۰۵ نیز روی خانواده‌های دادخواه حاضر در مقابل این آرامستان بسته ماند. شماری از خانواده‌های خاوران با وجود ممانعت نیروهای جمهوری‌اسلامی از ورود به این آرامستان، همچنان در حضور در خاوران و حفظ یاد هزاران اعدام‌شده دهه شصت و تابستان ۶۷ پایدارند. 
@@ -2411,34 +2439,6 @@ src :@jangaavaran1390
 src :@Artemis_Force
 ‏همانطور که در جریان هستین دو کارمند شرکت Rheinmetall در کویت جان باختند  دو متخصص ایتالیایی که در شرکت دفاعی آلمانی Rheinmetall مشغول به کار بودند، در جریان حمله پهپادی به یک مرکز نظامی در کویت کشته شدند. به گفته وزارت امور خارجه ایتالیا، این افراد مسئول نگهداری…
 13:52
-1405/09/06
-
-
-
-
-src :@Shin_Persian
-‏Shin ✓ @hey_itsmyturn
-‏
-‏Columns of smoke are rising from a ship after it struck a naval mine and an explosion occurred as it attempted to transit an unauthorized passage in the Strait of Hormuz.
-‏
-‏13:48 Local time / 1018Z
-‏Iran
-‏
-‏[Delayed Post via FromIran · 120-second delay]
-‏https://fromiran.sh1n.org/incidents/6KUcqDilLuMd3TzHGYY3Qn3C
-‏
-‏ترجمه خودکار فارسی
-‏
-‏ستون‌های دود از یک کشتی به هوا برخاسته‌اند؛ این کشتی هنگام تلاش برای عبور از یک گذرگاه غیرمجاز در تنگه هرمز با یک مین دریایی برخورد کرد و انفجاری رخ داد.
-‏
-‏۱۳:۴۸ به وقت محلی / 1018Z (۱۳:۴۸ به وقت تهران)
-‏ایران
-‏
-‏[پست با تأخیر از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]
-‏https://fromiran.sh1n.org/incidents/6KUcqDilLuMd3TzHGYY3Qn3C
-‏
-‏𝕏  ·  @shin_persian
-13:51
 1405/09/06
 
 
@@ -6274,86 +6274,4 @@ src :@BellumActaNews
 ‏➖➖➖➖➖➖
 ‏@BellumActaNews
 16:50
-1405/09/05
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇰🇼🇮🇹🇵🇰🇮🇷 — The Kuwaiti Army says Iran carried out a drone attack targeting a vital site in Kuwait today.
-‏
-‏The military said the attack caused shrapnel to fall in the area, injuring four people: one Kuwaiti national, two Italian nationals and one Pakistani national.
-‏
-‏@TheWarReporter
-16:46
-1405/09/05
-
-
-
-
-src :@warmonitors
-‏War Monitor pinned a photo
-16:44
-1405/09/05
-
-
-
-
-src :@warmonitors
-[عکس]
-‏🏛 Democrats want to investigate Trump’s ties to Nvidia: the head of the White House personally sought to get the company’s head back
-‏
-‏The scandal surrounding Nvidia could have political consequences for Donald Trump.
-‏
-‏The US president admitted that he personally urged the board of directors of the largest chip manufacturer to reinstate Jensen Huang as CEO, despite accusations of ties to a suspected Chinese spy.
-‏
-‏Now Democrats are demanding an explanation of what Trump knew about this story and why he interfered in the personnel decision of a private company.
-‏
-‏On November 24, the leaders of several House of Representatives committees sent the president an official inquiry.
-‏
-‏They also want to find out whether the administration took measures to protect national security and whether Huang’s possible ties to Chinese intelligence are being investigated.
-‏
-‏A separate issue is the potential conflict of interest. According to the Financial Times, Trump owned Nvidia shares worth up to $62 million and could have earned about $15 million from the rise in their value.
-‏
-‏Democrats intend to find out whether his personal financial interests influenced decisions regarding the company.
-‏
-‏Additional attention is drawn to Nvidia’s $25 million donation to build the White House ballroom.
-‏In January 2027, the Democrats will gain a majority in Congress and will be able to launch large-scale investigations.
-‏
-‏#Trump #Democrats
-‏
-‏👂 More on Trump’s Ear ⚠️
-16:44
-1405/09/05
-
-
-
-
-src :@warmonitors
-‏⚡#BREAKING Kuwaiti Army: Iranian attack targeted a vital site; falling shrapnel injured 4 people
-‏
-‏💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18
-16:43
-1405/09/05
-
-
-
-
-src :@thewarreporter
-[عکس]
-‏🇩🇪🕎🇮🇶🇮🇷 — German federal police have arrested two Iraqi nationals, identified as Mostafa Al-R. and Ameer J., on suspicion of plotting bomb attacks against synagogues in Europe on behalf of a pro-Iranian group.
-‏
-‏According to the German Federal Prosecutor General's Office, the two men are suspected of belonging to a Germany-based organization established in late 2025 to recruit operatives and raise funds for attacks using explosives.
-‏
-‏Prosecutors say that, in late March 2026, unidentified members of the network traveled to synagogues in Cologne and another European city on two consecutive nights, allegedly carrying explosive devices. Neither attack was ultimately carried out, and investigators have not determined why.
-‏
-‏German prosecutors have linked the network to Mohammad Baqer Saad Dawood al-Saadi, a dual Iranian-Iraqi national accused of helping establish the organization. Earlier this month, U.S. federal prosecutors in New York charged al-Saadi with 'terrorism offenses', alleging that he led a militant group and provided support to the IRGC and the Iran-backed Iraqi militia Kataib Hezbollah.
-‏
-‏Al-Saadi is also alleged to be a key figure in Harakat Ashab al-Yamin al-Islamiyah (HAYI), a group that German prosecutors say emerged following the outbreak of the Iran war and is believed to have been involved in attacks targeting U.S., Israeli and Jewish institutions in Europe since March 2026.
-‏
-‏German prosecutors allege that al-Saadi and Mostafa Al-R. founded the separate Germany-based organization in late 2025 to raise funds and recruit individuals for attacks in Germany and elsewhere in Europe. Ameer J. is also alleged to have been a member of the group.
-‏
-‏@TheWarReporter
-16:42
 1405/09/05
