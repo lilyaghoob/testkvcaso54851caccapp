@@ -1,3 +1,15 @@
+src :@intelslava
+‏🇺🇸⚡️ — Hackers have breached the US Air Force's flagship cloud computing platform, potentially exposing sensitive military, personnel, and logistics data. 
+‏
+‏The hack was discovered within the past month during efforts to upgrade the platform.
+‏
+‏@IntelSlava
+09:01
+1405/09/07
+
+
+
+
 src :@OSINTWarfare
 ‏🇺🇸⚡️ — The NYT says the CIA and the Office of the Director of National Intelligence discovered a cyberattack targeting an open-source intelligence analysis system, exposing unclassified intelligence information and potentially compromising data from other…
 08:56
@@ -9,6 +21,7 @@ src :@OSINTWarfare
 src :@jangaavaran1390
 [عکس]
 ‏بقایای یک موشک بالستیک چینی  DF-15A در منطقه‌ای که تحت کنترل  حوثی قرار دارد، سقوط کرده است.
+‏این موشک در اختیار عربستان است
 08:53
 1405/09/07
 
@@ -1875,19 +1888,6 @@ src :@jangaavaran1390
 ‏
 ‏https://jangaavaran.ir/chinese-aircraft-carriers
 23:29
-1405/09/06
-
-
-
-
-src :@intelslava
-[عکس]
-‏🇷🇺⚡️ Russia raises the naval flag on the nuclear-powered submarine Perm, formally transferring the vessel to the Russian Navy at a ceremony attended by President Vladimir Putin.
-‏
-‏Perm is the fifth Yasen-M-class submarine delivered to the Navy in the past six years and the first in the class equipped as a standard carrier for the hypersonic Zircon cruise missile.
-‏
-‏@Intelslava
-23:23
 1405/09/06
 
 
@@ -5496,15 +5496,4 @@ src :@Artemis_Force
 ‏
 ‏@artemis_force
 09:04
-1405/09/06
-
-
-
-
-src :@Parvazdaroj
-[عکس]
-‏درود به همه دوستان گرامی 
-‏
-‏@PARVAZDAROJ | 𝐻𝑜𝓂𝒶𝑒𝓁
-09:00
 1405/09/06
